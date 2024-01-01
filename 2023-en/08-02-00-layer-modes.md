@@ -6,6 +6,6 @@
 ## [8.2.4. Contrast layer modes](./08-02-04-contrast-layer-modes.md)
 ## [8.2.5. Inversion layer modes](./08-02-05-inversion-layer-modes.md)
 ## [8.2.6. HSV components layer modes](./08-02-06-hsv-components-layer-modes.md)
-## [8.2.7. Lch components layer modes](./08-02-07-lch-components-layer-modes.md)
+## [8.2.7. LCh components layer modes](./08-02-07-lch-components-layer-modes.md)
 
 ### [Home](./00-home.md)

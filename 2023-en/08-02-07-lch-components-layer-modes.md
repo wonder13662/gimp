@@ -1,4 +1,4 @@
-# 8.2.7. Lch components layer modes
+# 8.2.7. LCh components layer modes
 
 ### [Home](./00-home.md)
 ### [Parent: 8.2. Layer modes](./08-02-00-layer-modes.md)

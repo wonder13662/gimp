@@ -453,7 +453,7 @@
 ],
 [
   '08-02-07-lch-components-layer-modes.md', 
-  '8.2.7. Lch components layer modes'
+  '8.2.7. LCh components layer modes'
 ],
 [
   '08-03-legacy-layer-modes.md', 
