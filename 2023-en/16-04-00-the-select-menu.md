@@ -1,0 +1,23 @@
+# 16.4. The select menu
+
+## [16.4.1. Introduction to the select menu](./16-04-01-introduction-to-the-select-menu.md)
+## [16.4.2. Select all](./16-04-02-select-all.md)
+## [16.4.3. None](./16-04-03-none.md)
+## [16.4.4. Invert](./16-04-04-invert.md)
+## [16.4.5. Float](./16-04-05-float.md)
+## [16.4.6. By color](./16-04-06-by-color.md)
+## [16.4.7. From path](./16-04-07-from-path.md)
+## [16.4.8. Selection editor](./16-04-08-selection-editor.md)
+## [16.4.9. Feather](./16-04-09-feather.md)
+## [16.4.10. Sharpen](./16-04-10-sharpen.md)
+## [16.4.11. Shrink](./16-04-11-shrink.md)
+## [16.4.12. Grow](./16-04-12-grow.md)
+## [16.4.13. Border](./16-04-13-border.md)
+## [16.4.14. Remove holes](./16-04-14-remove-holes.md)
+## [16.4.15. Distort](./16-04-15-distort.md)
+## [16.4.16. Rounded rectangle](./16-04-16-rounded-rectangle.md)
+## [16.4.17. Toggle quickmask](./16-04-17-toggle-quickmask.md)
+## [16.4.18. Save to channel](./16-04-18-save-to-channel.md)
+## [16.4.19. To path](./16-04-19-to-path.md)
+
+### [Home](./00-home.md)

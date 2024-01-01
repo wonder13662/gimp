@@ -1,0 +1,20 @@
+# 4.2. Common causes of GIMP non responsiveness
+
+## [4.2.1. There is a floating selection](./04-02-01-there-is-a-floating-selection.md)
+## [4.2.2. The selection is hidden](./04-02-02-the-selection-is-hidden.md)
+## [4.2.3. You are acting outside the selection](./04-02-03-you-are-acting-outside-the-selection.md)
+## [4.2.4. The active drawable is not visible](./04-02-04-the-active-drawable-is-not-visible.md)
+## [4.2.5. The active drawable is tranparent](./04-02-05-the-active-drawable-is-tranparent.md)
+## [4.2.6. You are trying to act outside the layer](./04-02-06-you-are-trying-to-act-outside-the-layer.md)
+## [4.2.7. You are trying to act on a layer group](./04-02-07-you-are-trying-to-act-on-a-layer-group.md)
+## [4.2.8. The image is in indexed color mode](./04-02-08-the-image-is-in-indexed-color-mode.md)
+## [4.2.9. No visible effect when trying to use a brush eraser or other tool](./04-02-09-no-visible-effect-when-trying-to-use-a-brush-eraser-or-other-tool.md)
+## [4.2.10. No visible effect when trying to use the move tool rotate or other transform–tool](./04-02-10-no-visible-effect-when-trying-to-use-the-move-tool-rotate-or-other-transform–tool.md)
+## [4.2.11. Eraser and brushes no longer work](./04-02-11-eraser-and-brushes-no-longer-work.md)
+## [4.2.12. Eraser does not make area transparent](./04-02-12-eraser-does-not-make-area-transparent.md)
+## [4.2.13. Unexpected colors when trying to use a brush or eraser](./04-02-13-unexpected-colors-when-trying-to-use-a-brush-or-eraser.md)
+## [4.2.14. The crop tool leaves an empty area after cropping](./04-02-14-the-crop-tool-leaves-an-empty-area-after-cropping.md)
+## [4.2.15. I've been waiting for a long time and GIMP is not responding](./04-02-15-i-ve-been-waiting-for-a-long-time-and-gimp-is-not-responding.md)
+## [4.2.16. General guidelines on what to check if you are stuck](./04-02-16-general-guidelines-on-what-to-check-if-you-are-stuck.md)
+
+### [Home](./00-home.md)
