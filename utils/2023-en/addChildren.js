@@ -18,11 +18,11 @@ const readFileList =  async (path) => {
 
 const doAsyncJob = async () => {
   // 1. 파일 목록 가져오기
-  const path = __dirname + '/../2023-en'
+  const path = __dirname + '/../../2023-en'
   const files = await readFileList(path)
 
   // 2. 부모 파일 찾기(사용자 입력 필요)
-  const parentIdx = searchFileIdx(files, '17-11-00')
+  const parentIdx = searchFileIdx(files, '12-01-00')
 
   // 3. 자식 파일 찾기
   const parentFileName = files[parentIdx]

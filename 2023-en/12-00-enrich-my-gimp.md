@@ -1,6 +1,6 @@
 # 12. Enrich my GIMP
 
-## [12.1. Preference dialog](./12-01-preference-dialog.md)
+## [12.1. Preference dialog](./12-01-00-preference-dialog.md)
 ## [12.2. Grids and guides](./12-02-00-grids-and-guides.md)
 ## [12.2.1. The image grid](./12-02-01-the-image-grid.md)
 ## [12.2.2. Guides](./12-02-02-guides.md)

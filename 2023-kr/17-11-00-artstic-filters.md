@@ -1,0 +1,22 @@
+# 17.11. Artstic filters
+
+## [17.11.1. Introduction](./17-11-01-introduction.md)
+## [17.11.2. Apply canvas](./17-11-02-apply-canvas.md)
+## [17.11.3. Cartoon](./17-11-03-cartoon.md)
+## [17.11.4. Cubism](./17-11-04-cubism.md)
+## [17.11.5. Glass tile](./17-11-05-glass-tile.md)
+## [17.11.6. Oilify](./17-11-06-oilify.md)
+## [17.11.7. Photocopy](./17-11-07-photocopy.md)
+## [17.11.8. Simple linear iterative clustering (SLIC)](./17-11-08-simple-linear-iterative-clustering-slic.md)
+## [17.11.9. Softglow](./17-11-09-softglow.md)
+## [17.11.10. Waterpixels](./17-11-10-waterpixels.md)
+## [17.11.11. Cartoon (legacy)](./17-11-11-cartoon-legacy.md)
+## [17.11.12. Clothify](./17-11-12-clothify.md)
+## [17.11.13. Gimpressionist](./17-11-13-gimpressionist.md)
+## [17.11.14. Oilify (legacy)](./17-11-14-oilify-legacy.md)
+## [17.11.15. Predator](./17-11-15-predator.md)
+## [17.11.16. Softglow (legacy)](./17-11-16-softglow-legacy.md)
+## [17.11.17. Van gogh (LIC)](./17-11-17-van-gogh-lic.md)
+## [17.11.18. Weave](./17-11-18-weave.md)
+
+### [Home](./00-home.md)

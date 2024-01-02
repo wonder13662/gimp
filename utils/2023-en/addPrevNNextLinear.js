@@ -17,16 +17,16 @@ const readFileList =  async (path) => {
 
 const doAsyncJob = async () => {
   // 1. 파일 목록 가져오기
-  const path = __dirname + '/../2023-en'
+  const path = __dirname + '/../../2023-en'
   const files = await readFileList(path)
 
   // 2. 시작 인덱스와 종료 인덱스
-  const parent = '17-04'
+  const parent = '12-01'
   const parentIdx = searchFileIdx(files, `${parent}-00`)
-  const firstPrevIdx = searchFileIdx(files, '17-03-13')
+  const firstPrevIdx = searchFileIdx(files, '11-01')
   const startIdx = searchFileIdx(files, `${parent}-01`)
-  const endIdx = searchFileIdx(files, `${parent}-12`)
-  const lastNextIdx = searchFileIdx(files, '17-05-01')
+  const endIdx = searchFileIdx(files, `${parent}-25`)
+  const lastNextIdx = searchFileIdx(files, '12-02-01')
   if (startIdx < 0 || endIdx < 0) {
     console.log(`시작 인덱스(${startIdx}) 또는 종료 인덱스(${endIdx})가 유효하지 않습니다.`)
     exit(1)

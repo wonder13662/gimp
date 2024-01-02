@@ -1,0 +1,21 @@
+# 14.3. Paint tools
+
+## [14.3.1. Common features](./14-03-01-common-features.md)
+## [14.3.2. Dynamics](./14-03-02-dynamics.md)
+## [14.3.3. Brush tools (pencil, paintbrush, airbrush)](./14-03-03-brush-tools-pencil-paintbrush-airbrush.md)
+## [14.3.4. Bucket fill](./14-03-04-bucket-fill.md)
+## [14.3.5. Gradient](./14-03-05-gradient.md)
+## [14.3.6. Pencil](./14-03-06-pencil.md)
+## [14.3.7. Paintbrush](./14-03-07-paintbrush.md)
+## [14.3.8. Mypaint brush](./14-03-08-mypaint-brush.md)
+## [14.3.9. Eraser](./14-03-09-eraser.md)
+## [14.3.10. Airbrush](./14-03-10-airbrush.md)
+## [14.3.11. Ink](./14-03-11-ink.md)
+## [14.3.12. Clone](./14-03-12-clone.md)
+## [14.3.13. Heal](./14-03-13-heal.md)
+## [14.3.14. Perspective clone](./14-03-14-perspective-clone.md)
+## [14.3.15. Blur/sharpen](./14-03-15-blur-sharpen.md)
+## [14.3.16. Smudge](./14-03-16-smudge.md)
+## [14.3.17. Dodge/burn](./14-03-17-dodge-burn.md)
+
+### [Home](./00-home.md)
