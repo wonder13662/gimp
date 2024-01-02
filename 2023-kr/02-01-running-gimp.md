@@ -87,62 +87,61 @@ GIMP를 시작할 때, 추가적인 인자(argument) 또는 옵션(Option) 값�
 ### `-?`, `--help`
 모든 커맨드 라인 옵션을 보여줍니다.
 
+#### `--help` (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <video src="https://github.com/wonder13662/gimp/assets/15767104/c2b7a28d-eba2-4d6b-bc6e-bebb9f869d45"></video>
 
 ### `--help-all`
 모든 도움말 옵션을 보여줍니다.
 
+#### `--help-all` (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <video src="https://github.com/wonder13662/gimp/assets/15767104/652dc754-d0a7-4683-9a2a-be05a8dfd92f"></video>
 
 ### `--help-gtk`
 GTK+ 옵션을 보여줍니다.
 
+#### `--help-gtk` (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <video src="https://github.com/wonder13662/gimp/assets/15767104/e83a6f1f-4156-4bda-a95d-a2cfbbf28fca"></video>
 
 ### `-v`, `--version`
 현재 사용중인 GIMP 버전 정보를 보여준 뒤 종료합니다. `-v`, `--version`에서 각각 노출하는 정보가 다릅니다.
 
-#### `-v`
-
+#### `-v` (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <video src="https://github.com/wonder13662/gimp/assets/15767104/66e29f26-248b-4c16-b323-5e9433d3e89e"></video>
 
-#### `--version`
-
+#### `--version`(MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <video src="https://github.com/wonder13662/gimp/assets/15767104/9295c1c8-4e4c-459c-b67a-813a041b2369"></video>
 
 ### `--license`
 사용 허가서 정보를 보여준 뒤 GIMP를 종료합니다.
 
+#### `--license` (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <video src="https://github.com/wonder13662/gimp/assets/15767104/e80f0686-4205-4c3f-935d-b8c2ccb235b0"></video>
 
 ### `--verbose`
 시작 메시지를 자세히 보여줍니다.
 
+#### `--verbose` (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <video src="https://github.com/wonder13662/gimp/assets/15767104/c7dc47d7-610d-4c30-a391-19e77fffb54c"></video>
 
 ### `-n`, `--new-instance`
 새로운 인스턴스로 GIMP를 시작합니다.. 여러 개의 GIMP 인스턴스를 시작할 수 있습니다.
 
-#### `-n`
-
+#### `-n` (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <video src="https://github.com/wonder13662/gimp/assets/15767104/faadf0d5-5978-48db-9a33-32fa339a35d7"></video>
 
-#### `--new-instance`
-
+#### `--new-instance` (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <video src="https://github.com/wonder13662/gimp/assets/15767104/d6a4c696-424c-48cd-b6f3-a25977d513f1"></video>
 
 ### `-a`, `--as-new`
 새 이미지를 만듭니다. (TODO 정확한 사용방법을 파악하지 못했습니다)
 
 ### `-i`, `--no-interface`
-Run without a user interface.
+사용자 인터페이스 없이 실행합니다.
 
-#### `-i`
-
+#### `-i` (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <video src="https://github.com/wonder13662/gimp/assets/15767104/6760d817-7ccc-49c6-8e1f-0616e68c4e02"></video>
 
-#### `--no-interface`
-
+#### `--no-interface` (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <video src="https://github.com/wonder13662/gimp/assets/15767104/b375e345-867e-450c-a8b9-ec5fc58766c0"></video>
 
 ### `-d`, `-no-data`
@@ -152,16 +151,16 @@ Run without a user interface.
 <video src="https://github.com/wonder13662/gimp/assets/15767104/a232c28c-a137-497b-a2d6-0fec8b6ace11"></video>
 
 아래 예시들은 위 옵션으로 실행한 경우(`-no-data`)와 그렇지 않은 경우를 비교한 이미지입니다.
-#### 붓(brush)
+#### 붓(brush) (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <img width="480" alt="no-data-brush" src="https://github.com/wonder13662/gimp/assets/15767104/59bbf85f-d885-4f8a-bc09-d05a0fc7ac23">
 
-#### 그라디언트(gradient)
+#### 그라디언트(gradient) (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <img width="426" alt="no-data-gradient" src="https://github.com/wonder13662/gimp/assets/15767104/ad0a4680-d117-47f0-90f0-edf3e532020a">
 
-#### 색상표(palette)
+#### 색상표(palette) (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <img width="425" alt="no-data-palette" src="https://github.com/wonder13662/gimp/assets/15767104/0734f993-5e82-4182-a986-931dadbb3eb9">
 
-#### 무늬(pattern)
+#### 무늬(pattern) (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <img width="429" alt="no-data-pattern" src="https://github.com/wonder13662/gimp/assets/15767104/c918e337-d746-438c-ab0c-f036dbc7e46f">
 
 ### `-f`, `-no-fonts`
@@ -170,6 +169,7 @@ Run without a user interface.
 <video src="https://github.com/wonder13662/gimp/assets/15767104/242ee167-9c78-47e3-9dd2-f08d75eac4a6"></video>
 
 아래 이미지는 위 옵션으로 실행한 경우(`-no-fonts`)와 그렇지 않은 경우를 비교한 이미지입니다.
+#### `-no-fonts` 사용한 경우와 그렇지 않은 경우 비교 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <img width="480" alt="no-fonts" src="https://github.com/wonder13662/gimp/assets/15767104/fc8d52e4-09ac-46b2-8e46-278fd53bef95">
 
 ### `-s`, `--no-splash`
@@ -225,7 +225,7 @@ X-윈도우 스타일을 사용합니다(Microsoft Windows에서는 사용불가
 ### `--show-playground`
 [기본 설정(preference page)](./12-01-06-experimental-playground.md)의 실험적 기능(experimental features) 항목을 보여줍니다.
 
-#### 시작시의 스플래쉬 화면 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
+#### 기본 설정(preference page)의 실험적 기능(experimental features) 항목 비교 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <img width="720" alt="--show-playground" src="https://github.com/wonder13662/gimp/assets/15767104/0c9bd441-4cb1-4aac-80d9-3b387ab124cc">
 
 ## 다른 페이지로 가기
