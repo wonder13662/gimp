@@ -1,6 +1,6 @@
-# 2. Fire up GIMP
-## 2.1 [Welcome to GIMP](./01-01-welcome-to-gimp.md)
-## 2.2. [What's new im GIMP](./01-02-whats-new-in-gimp.md)
+# 2. GIMP(김프) 시작하기
+## [2.1. GIMP(김프) 실행하기](./02-01-running-gimp.md)
+## [2.2. 설정 폴더들](./02-02-configuration-folders.md)
 
 ## 다른 페이지로 가기
-[Home](./00-home.md)
+[최상위](./00-home.md)
