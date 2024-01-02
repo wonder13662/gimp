@@ -1,6 +1,6 @@
-# Part I. Getting Started
-## 1. [Introduction](./01-00-introduction.md)
-## 2. [Fire up GIMP](./02-00-fire-up-gimp.md)
+# Part I. 시작하기
+## [1. 소개](./01-00-introduction.md)
+## [2. GIMP(김프) 시작하기](./02-00-fire-up-gimp.md)
 ## 3. [First Step with GIMP](./03-00-first-step-with-gimp.md)
 ## 4. [What to do if you are stuck](./04-00-what-to-do-if-you-are-stuck.md)
 
