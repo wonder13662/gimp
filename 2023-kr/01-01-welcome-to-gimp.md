@@ -29,9 +29,11 @@ GIMP에서 제공되는 기능과 특징들:
 - Plug-ins that allow for the easy addition of new file formats and new effect filters.
 - 플러그인을 통해서 새로운 파일 포맷을 추가하거나 효과 필터(new effect filter)를 쓸 수 있습니다.
 
+## 다른 페이지로 가기
+[최상위](./00-home.md)
 
-[Home](./00-home.md)
+[부모: 1. 소개](./01-00-introduction.md)
 
-[Parent: 1. Introduction](./01-00-introduction.md)
+[다음: 1.2. GIMP(김프)의 새로운 기능 알아보기](./01-02-whats-new-in-gimp.md)
 
-[Next: 1.2. What’s new in GIMP](./01-02-whats-new-in-gimp.md)
+[원문](https://docs.gimp.org/2.10/ko/introduction.html)

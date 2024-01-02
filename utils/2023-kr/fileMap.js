@@ -3,11 +3,13 @@ module.exports = {
     [
       [
         '00-home.md', 
-        '0. Home'
+        '0. Home',
+        '최상위'
       ],
       [
         '01-00-introduction.md', 
-        '1. Introduction'
+        '1. Introduction',
+        '1. 소개',
       ],
       [
         '01-01-welcome-to-gimp.md', 
@@ -22,7 +24,7 @@ module.exports = {
       [
         '02-00-fire-up-gimp.md', 
         '2. Fire up GIMP',
-        '2. GIMP(김프) 켜기'
+        '2. GIMP(김프) 시작하기'
       ],
       [
         '02-01-running-gimp.md', 
