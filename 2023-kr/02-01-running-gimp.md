@@ -85,22 +85,22 @@ GIMP를 시작할 때, 추가적인 인자(argument) 또는 옵션(Option) 값�
 참고: 여기서의 인자(argument)와 옵션(Option)은 같은 의미로 사용되었습니다. 
 
 ### `-?`, `--help`
-모든 커맨드 라인 옵션 목록을 보여줍니다.
+모든 커맨드 라인 옵션을 보여줍니다.
 
 <video src="https://github.com/wonder13662/gimp/assets/15767104/c2b7a28d-eba2-4d6b-bc6e-bebb9f869d45"></video>
 
 ### `--help-all`
-모든 도움말 옵션들을 보여줍니다.
+모든 도움말 옵션을 보여줍니다.
 
 <video src="https://github.com/wonder13662/gimp/assets/15767104/652dc754-d0a7-4683-9a2a-be05a8dfd92f"></video>
 
 ### `--help-gtk`
-GTK+ 옵션들을 보여줍니다.
+GTK+ 옵션을 보여줍니다.
 
 <video src="https://github.com/wonder13662/gimp/assets/15767104/e83a6f1f-4156-4bda-a95d-a2cfbbf28fca"></video>
 
 ### `-v`, `--version`
-GIMP 버전 정보를 보여줍니다. `-v`, `--version`에서 각각 노출하는 정보가 다릅니다.
+현재 사용중인 GIMP 버전 정보를 보여준 뒤 종료합니다. `-v`, `--version`에서 각각 노출하는 정보가 다릅니다.
 
 #### `-v`
 
@@ -111,75 +111,130 @@ GIMP 버전 정보를 보여줍니다. `-v`, `--version`에서 각각 노출하�
 <video src="https://github.com/wonder13662/gimp/assets/15767104/9295c1c8-4e4c-459c-b67a-813a041b2369"></video>
 
 ### `--license`
-Show license information and exit.
+사용 허가서 정보를 보여준 뒤 GIMP를 종료합니다.
+
+<video src="https://github.com/wonder13662/gimp/assets/15767104/e80f0686-4205-4c3f-935d-b8c2ccb235b0"></video>
 
 ### `--verbose`
-Show detailed start-up messages.
+시작 메시지를 자세히 보여줍니다.
 
-### `-n`, `-new-instance`
-Start a new GIMP instance.
+<video src="https://github.com/wonder13662/gimp/assets/15767104/c7dc47d7-610d-4c30-a391-19e77fffb54c"></video>
 
-### `-a`, `-as-new`
-Open images as new.
+### `-n`, `--new-instance`
+새로운 인스턴스로 GIMP를 시작합니다.. 여러 개의 GIMP 인스턴스를 시작할 수 있습니다.
 
-### `-i`, `-no-interface`
+#### `-n`
+
+<video src="https://github.com/wonder13662/gimp/assets/15767104/faadf0d5-5978-48db-9a33-32fa339a35d7"></video>
+
+#### `--new-instance`
+
+<video src="https://github.com/wonder13662/gimp/assets/15767104/d6a4c696-424c-48cd-b6f3-a25977d513f1"></video>
+
+### `-a`, `--as-new`
+새 이미지를 만듭니다. (TODO 정확한 사용방법을 파악하지 못했습니다)
+
+### `-i`, `--no-interface`
 Run without a user interface.
 
+#### `-i`
+
+<video src="https://github.com/wonder13662/gimp/assets/15767104/6760d817-7ccc-49c6-8e1f-0616e68c4e02"></video>
+
+#### `--no-interface`
+
+<video src="https://github.com/wonder13662/gimp/assets/15767104/b375e345-867e-450c-a8b9-ec5fc58766c0"></video>
+
 ### `-d`, `-no-data`
-Do not load patterns, gradients, palettes, or brushes. Often useful in non-interactive situations where start-up time is to be minizied.
+무늬(pattern), 그라디언트(gradient), 색상표(palette), 붓(brush) 등을 읽어 들이지 않습니다. 비대화식 환경에서 시작 시간을 최소화할 때 유용합니다.
+
+#### 붓(brush), 무늬(pattern)의 읽지 않음 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
+<video src="https://github.com/wonder13662/gimp/assets/15767104/a232c28c-a137-497b-a2d6-0fec8b6ace11"></video>
+
+아래 예시들은 위 옵션으로 실행한 경우(`-no-data`)와 그렇지 않은 경우를 비교한 이미지입니다.
+#### 붓(brush)
+<img width="480" alt="no-data-brush" src="https://github.com/wonder13662/gimp/assets/15767104/59bbf85f-d885-4f8a-bc09-d05a0fc7ac23">
+
+#### 그라디언트(gradient)
+<img width="426" alt="no-data-gradient" src="https://github.com/wonder13662/gimp/assets/15767104/ad0a4680-d117-47f0-90f0-edf3e532020a">
+
+#### 색상표(palette)
+<img width="425" alt="no-data-palette" src="https://github.com/wonder13662/gimp/assets/15767104/0734f993-5e82-4182-a986-931dadbb3eb9">
+
+#### 무늬(pattern)
+<img width="429" alt="no-data-pattern" src="https://github.com/wonder13662/gimp/assets/15767104/c918e337-d746-438c-ab0c-f036dbc7e46f">
 
 ### `-f`, `-no-fonts`
-Do not load any fonts. This is useful to load GIMP faster for scripts that do not use fonts, or to find problems related to malformed fonts that hang GIMP.
+글꼴(font)을 읽어오지 않습니다. 이 옵션은 글꼴(font)을 사용하지 않는 스크립트를 사용하거나 문제가 있는 글꼴(font)을 찾아내기 위해 GIMP(김프)를 시작할 때 유용합니다.
 
-### `-s`, `-no-splash`
-Do not show the splash screen while starting.
+<video src="https://github.com/wonder13662/gimp/assets/15767104/242ee167-9c78-47e3-9dd2-f08d75eac4a6"></video>
+
+아래 이미지는 위 옵션으로 실행한 경우(`-no-fonts`)와 그렇지 않은 경우를 비교한 이미지입니다.
+<img width="480" alt="no-fonts" src="https://github.com/wonder13662/gimp/assets/15767104/fc8d52e4-09ac-46b2-8e46-278fd53bef95">
+
+### `-s`, `--no-splash`
+시작시 스플래쉬 화면을 보여주지 않습니다.
+
+#### 시작시의 스플래쉬 화면 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
+<img width="720" alt="example-splash" src="https://github.com/wonder13662/gimp/assets/15767104/85da532a-731b-488f-b5e1-66a217c30c8b">
+
+참고: 맥OS에서는 커맨드 라인으로 실행시 스플래시 화면을 보여주지 않는 것이 기본값입니다.
 
 ### `--no-shm`
-Do not use shared memory between GIMP and plugins.
+GIMP와 플러그인 사이의 공유 메모리를 사용하지 않습니다.
 
 ### `--no-cpu-accel`
-Do not use special CPU acceleration functions. Useful for finding or disabling buggy accelerated hardware or functions.
+특수한 CPU 가속 기능을 사용하지 않습니다. 문제가 많은 하드웨어 가속기나 기능을 찾아내거나 사용하지 않을 때 유용합니다.
 
 ### `--session=name`
-Use a different `sessionrc` for this GIMP session. The given session name is appended to the default `sessionrc` filename.
+현재 GIMP 세션에 다른 `sessionrc`를 사용합니다. 새 세션 이름은 기본 `sessionrc` 파일명에 덧붙여집니다.
 
 ### `--gimprc=filename`
-Use an alternative `gimprc` instead of the default one. The `gimprc` file contains a record of your preferences. Useful in cases where plugins paths or machine specs may be different.
+기본값 외의 다른 `gimprc`를 사용합니다. `gimprc`는 GIMP 설정값을 담고 있는 파일입니다. 플러그인 위치나 시스템 사양이 틀린 경우에 유용합니다. 
 
 ### `--system-gimprc=filename`
-Use an alternate system gimprc file
+다른 시스템의 `gimprc` 파일을 사용합니다.
 
 ### `-b`, `--batch=commands`
-Execute the set of commands non-interactively. The set of commands is typically in the form of a script that can be executed by one of the GIMP scripting extensions. When the command is `-`, commands are read from standard input.
+비대화명 명령(command)들의 모음을 실행합니다. 명령 모음(set of commands)은 일반적으로 GIMP 스크립팅 확장에서 실행할 수 있는 스크립트 형태로 되어 있습니다. 명령이 `-`일 경우, 이는 표준 입력으로 해석됩니다.
 
 ### `--batch-interpreter=proc`
-Specify the procedure to use to process batch commands. The default procedure is Script-Fu.
+일괄처리 명령을 수행하기 위한 프로시저입니다. 기본 프로시저는 Script-Fu입니다.
 
 ### `--console-messages`
-Do not display dialog boxes on errors or warnings. Print the messages on the console instead.
+에러나 경고를 다이얼로그 박스에 나타내지 않습니다. 대신 콘솔에 메시지를 출력합니다.
 
 ### `--pdb-compat-mode=mode`
-PDB compatibiliity mode (`off`|`on`|`warn`)
+PDB 호환 모드 (`off`|`on`|`warn`)
 
 ### `--stack-trace-mode=mode`
-Debug in case of a crash (`never`|`query`|`always`)
+충돌시 디버그를 합니다. (`never`|`query`|`always`)
 
 ### `--debug-handlers`
-Enable non-fatal debugging signal handlers. Useful for GIMP debugging.
+치명적이지 않은 디버깅 시그널 처리기를 사용합니다. GIMP(김프) 디버깅 시에 유용합니다.
 
 ### `--g-fatal-warnings`
-Make all warnings fatal. Useful for debugging.
+모든 경고를 치명적인 단계로 설정합니다. GIMP(김프) 디버깅 시에 유용합니다.
 
 ### `--dump-gimprc`
-Output a `gimprc` file with default settings. Useful if you messed up the `gimprc` file.
+기본 설정으로 `gimprc` 파일을 출력합니다. `gimprc` 파일을 결합할 때 유용합니다.
 
 ### `--display=display`
-Use the designated X display (does not apply to all platforms).
+X-윈도우 스타일을 사용합니다(Microsoft Windows에서는 사용불가).
 
 ### `--show-playground`
-Show a [preference page](./12-01-06-experimental-playground.md) with experimental features.
+[기본 설정(preference page)](./12-01-06-experimental-playground.md)의 실험적 기능(experimental features) 항목을 보여줍니다.
 
-### [Home](./00-home.md)
-### [Parent: 2. 2. GIMP(김프) 켜기](./02-00-fire-up-gimp.md)
-### [Prev: 1.2. GIMP(김프)의 새로운 기능 알아보기](./01-02-whats-new-in-gimp.md)
-### [Next: 2.2. 설정 폴더들](./02-02-configuration-folders.md)
+#### 시작시의 스플래쉬 화면 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
+<img width="720" alt="--show-playground" src="https://github.com/wonder13662/gimp/assets/15767104/0c9bd441-4cb1-4aac-80d9-3b387ab124cc">
+
+## 다른 페이지로 가기
+[최상위](./00-home.md)
+
+[부모: 2. 2. GIMP(김프) 켜기](./02-00-fire-up-gimp.md)
+
+[이전: 1.2. GIMP(김프)의 새로운 기능 알아보기](./01-02-whats-new-in-gimp.md)
+
+[다음: 2.2. 설정 폴더들](./02-02-configuration-folders.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-fire-up.html)
