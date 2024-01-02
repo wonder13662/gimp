@@ -1,4 +1,4 @@
-# 3.4. Common_tasks
+# 3.4. Common tasks
 
 ## [3.4.1. Intention](./03-04-01-intention.md)
 ## [3.4.2. Change the size of an image for the screen](./03-04-02-change-the-size-of-an-image-for-the-screen.md)

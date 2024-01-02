@@ -58,8 +58,8 @@ module.exports = {
         '3.3. Undoing'
       ],
       [
-        '03-04-00-common_tasks.md', 
-        '3.4. Common_tasks'
+        '03-04-00-common-tasks.md', 
+        '3.4. Common tasks'
       ],
       [
         '03-04-01-intention.md', 
