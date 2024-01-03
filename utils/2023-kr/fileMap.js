@@ -151,7 +151,8 @@ module.exports = {
       ],
       [
         '04-02-00-common-causes-of-gimp-non-responsiveness.md', 
-        '4.2. Common causes of GIMP non responsiveness'
+        '4.2. Common causes of GIMP non responsiveness',
+        '4.2. GIMP(김프)가 멈추었을 때의 원인',
       ],
       [
         '04-02-01-there-is-a-floating-selection.md', 
