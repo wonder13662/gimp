@@ -143,7 +143,8 @@ module.exports = {
       ],
       [
         '04-00-what-to-do-if-you-are-stuck.md', 
-        '4. What to do if you are stuck'
+        '4. What to do if you are stuck',
+        '4. What to do if you are stuck',
       ],
       [
         '04-01-introduction.md', 

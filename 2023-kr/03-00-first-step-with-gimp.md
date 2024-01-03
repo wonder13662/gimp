@@ -11,3 +11,7 @@
 
 ## 다른 페이지로 가기
 [최상위](./00-home.md)
+
+[이전: 2. GIMP(김프) 시작하기](./02-00-fire-up-gimp.md)
+
+[다음: 4. What to do if you are stuck](./04-00-what-to-do-if-you-are-stuck.md)
