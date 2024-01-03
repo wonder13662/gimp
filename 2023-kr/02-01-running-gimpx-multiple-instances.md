@@ -1,6 +1,7 @@
 # 여러 개의 언어 설정으로 다른 언어의 GIMP(김프) 띄우기
 ## MacOS:Sonoma 14.2.1 GIMP 2.10.36
 <img width="720" alt="Screenshot 2024-01-02 at 4 01 47 PM" src="https://github.com/wonder13662/gimp/assets/15767104/71928696-cfb7-4578-82b8-f0d6cf1a27cb">
+<br/>
 위 이미지처럼 2개의 다른 언어로 설정된 GIMP를 여는 방법에 대해 안내합니다.
 
 ### 1. 첫번째 GIMP 열기
