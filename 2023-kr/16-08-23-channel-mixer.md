@@ -1,4 +1,4 @@
-# 16.8.23. Channel mixer
+# 16.8.23. 채널 혼합
 
 ### [Home](./00-home.md)
 ### [Parent: 16.8. The colors menu](./16-08-00-the-colors-menu.md)

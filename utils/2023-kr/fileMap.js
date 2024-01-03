@@ -977,7 +977,8 @@ module.exports = {
       ],
       [
         '15-02-02-channel-dialog.md', 
-        '15.2.2. Channel dialog'
+        '15.2.2. Channel dialog',
+        '15.2.2. 채널 대화 상자'
       ],
       [
         '15-02-03-paths-dialog.md', 
@@ -1377,7 +1378,8 @@ module.exports = {
       ],
       [
         '16-04-18-save-to-channel.md', 
-        '16.4.18. Save to channel'
+        '16.4.18. Save to channel',
+        '선택을 채널로(마스크)'
       ],
       [
         '16-04-19-to-path.md', 
@@ -1961,7 +1963,8 @@ module.exports = {
       ],
       [
         '16-08-23-channel-mixer.md', 
-        '16.8.23. Channel mixer'
+        '16.8.23. Channel mixer',
+        '16.8.23. 채널 혼합'
       ],
       [
         '16-08-24-extract-component.md', 

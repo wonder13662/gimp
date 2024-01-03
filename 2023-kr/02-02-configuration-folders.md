@@ -27,3 +27,5 @@ GIMP를 처음 실행하면 옵션과 디렉토리를 설정하는 여러 단계
 [이전: 2.1. GIMP(김프) 실행하기](./02-01-running-gimp.md)
 
 [다음: 3.1. GIMP(김프)의 기본 개념들](./03-01-basic-concepts.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-concepts-setup.html)

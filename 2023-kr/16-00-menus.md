@@ -214,7 +214,7 @@
 ## [16.8.20. Color enhance](./16-08-20-color-enhance.md)
 ## [16.8.21. Color enhance legacy](./16-08-21-color-enhance-legacy.md)
 ## [16.8.22. The "Components" submenu](./16-08-22-the-components-submenu.md)
-## [16.8.23. Channel mixer](./16-08-23-channel-mixer.md)
+## [16.8.23. 채널 혼합](./16-08-23-channel-mixer.md)
 ## [16.8.24. Extract component](./16-08-24-extract-component.md)
 ## [16.8.25. Mono mixer](./16-08-25-mono-mixer.md)
 ## [16.8.26. Compose](./16-08-26-compose.md)
