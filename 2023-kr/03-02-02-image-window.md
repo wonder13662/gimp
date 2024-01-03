@@ -3,4 +3,4 @@
 ### [Home](./00-home.md)
 ### [Parent: 3.2. Main window](./03-02-00-main-window.md)
 ### [Prev: 3.2.1. The toolbox](./03-02-01-the-toolbox.md)
-### [Next: 3.2.3. Dialogs and docking](./03-02-03-dialogs-and-docking.md)
+### [Next: 3.2.3. 대화상자(Dialog)와 도킹(docking)](./03-02-03-dialogs-and-docking.md)

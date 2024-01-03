@@ -64,7 +64,7 @@ module.exports = {
       [
         '03-02-03-dialogs-and-docking.md', 
         '3.2.3. Dialogs and docking',
-        '3.2.3. 대화상자(Dialog), 도킹(docking)',
+        '3.2.3. 대화상자(Dialog)와 도킹(docking)',
       ],
       [
         '03-03-undoing.md', 
@@ -597,7 +597,8 @@ module.exports = {
       ],
       [
         '12-01-13-toolbox.md', 
-        '12.1.13. Toolbox'
+        '12.1.13. Toolbox',
+        '12.1.13. 기본 도구 상자'
       ],
       [
         '12-01-14-dialog-defaults.md', 
