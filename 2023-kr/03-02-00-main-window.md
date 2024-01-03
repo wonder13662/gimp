@@ -2,9 +2,11 @@
 
 김프의 사용자 인터페이스는 다음 두 가지 모드를 지원합니다.
 - 다중창 모드(multi-window mode)
+<br/>
 <img width="540" alt="multi-window-mode" src="https://github.com/wonder13662/gimp/assets/15767104/c253f6d6-0ad2-4791-bbd2-e60c2f0c0c69">
 
 - 단일창 모드(single window mode)
+</br>
 <img width="540" alt="single-window-mode" src="https://github.com/wonder13662/gimp/assets/15767104/39df1a43-0890-41ff-babd-d59c75196179">
 
 GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single window mode)로 열립니다. 다중창 모드(multi-window mode)를 활성화하기 위해서는 이미지 메뉴바의 `Windows` → `Single-Window Mode` 옵션을 끄면 됩니다. GIMP를 종료한 뒤에는, 다시 GIMP 시작할 때 마지막으로 선택한 옵션으로 적용됩니다.
@@ -31,7 +33,7 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 여러 가지 도구들을 선택할 수 있는 아이콘들이 모아져 있습니다. 그리고 전경색(Foreground color)/배경색(Background color)이 표시됩니다. [붓(Brushes)](), [무늬(Patterns)](), [그라디언트(Gradient)](), 현재 이미지의 아이콘 등을 추가할 수도 있습니다. `GIMP` → `기본 설정(Settings...)` → `인터페이스(Interface)` → `도구상자(Toolbox)` → `모양새(Appearance)`를 이용하여 추가로 표시할 수 있는 항목들을 표시하거나 숨길 수 있습니다.
 <img width="699" alt="설정-도구상자(MacOS:Sonoma 14.2.1 GIMP 2.10.36)" src="https://github.com/wonder13662/gimp/assets/15767104/82f5d614-ed74-4854-8f81-97d5061b27c7">
 <img width="699" alt="settings-toolbox(MacOS:Sonoma 14.2.1 GIMP 2.10.36)" src="https://github.com/wonder13662/gimp/assets/15767104/8bdcdb57-b077-4e35-bcbb-c38ee5b15f71">
-<video src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
 
 2. 도구 옵션(Tool Options)
 <br/>
@@ -56,8 +58,9 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 대화 상자(dialog)와 독(dock) 관리에 대해서는 [3.2.3. 대화상자(Dialog)와 도킹(docking)](./03-02-03-dialogs-and-docking.md)에서 설명합니다.
 
 ### 다중창 모드의 탭키
-다중창 모드에서는 탭 키를 이용해 각종 창들을 숨기거나 표시할 수 있습니다.
-<video width="394" src="https://github.com/wonder13662/gimp/assets/15767104/dc6bca6a-ac80-41a3-9d40-904cf22a563c"></video>
+다중창 모드에서는 상단 오른쪽, 왼쪽의 탭 키를 이용해 보여지는 대화창들을 선택할 수 있습니다.
+<br/>
+<video controls="controls" width="394" src="https://github.com/wonder13662/gimp/assets/15767104/dc6bca6a-ac80-41a3-9d40-904cf22a563c"></video>
 
 ## 단일창 모드(single window mode)
 #### 그림 3.2. 단일창 모드 스크린샷
@@ -68,19 +71,19 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 - 왼쪽(1,2)과 오른쪽(4,5) 판(panel)은 고정입니다. 움직일 수 없습니다.
 - 왼쪽(1,2)과 오른쪽(4,5) 판(panel)의 너비는 마우스 커서가 각 판의 경계에 올라가 있을 경우 나타나는 이동 포인터(moving pointer)를 드래그해서 늘이거나 줄일 수 있습니다. 이동 포인터는 왼쪽 판의 오른쪽 경계, 오른쪽 판의 왼쪽 경계 위에 올라갈 경우 나타납니다. 각 판의 너비를 좁게 두고 싶다면, 도구 옵션의 아래의 스크롤바를 사용하면 됩니다.
   - 왼쪽 판(panel)의 너비를 조정하는 경우 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<video src="https://github.com/wonder13662/gimp/assets/15767104/122a8fa7-0b37-4651-af7e-c5aea59ccb32"></video>
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/122a8fa7-0b37-4651-af7e-c5aea59ccb32"></video>
   - 오른쪽 판(panel)의 너비를 조정하는 경우 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<video src="https://github.com/wonder13662/gimp/assets/15767104/49be469f-50cb-47d0-9a91-6b0247b56ee5"></video>
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/49be469f-50cb-47d0-9a91-6b0247b56ee5"></video>
 - 이미지는 왼쪽과 오른쪽 판(panel) 사이에 가득차게 표시됩니다.
 - 여러 개의 이미지가 열리면, 이미지 창 위에 모든 이미지의 탭이 보이는 새로운 바(bar)가 나타납니다.
-<video src="https://github.com/wonder13662/gimp/assets/15767104/7f7cff40-6263-4edb-a536-9d4fcfe022f8"></video>  
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7f7cff40-6263-4edb-a536-9d4fcfe022f8"></video>  
 - 열어놓은 이미지들은 여러가지 방법으로 선택할 수 있습니다.
   - 이미지 탭을 클릭하기
-<video src="https://github.com/wonder13662/gimp/assets/15767104/ee8e8031-edfb-4885-92ca-98f8fa72995f"></video>  
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ee8e8031-edfb-4885-92ca-98f8fa72995f"></video>  
   - Ctrl(Windows, Mac) + `Page Up` or `Page Down`
-<video src="https://github.com/wonder13662/gimp/assets/15767104/ffd040b7-a63c-4db1-882d-a76a44d45d4a"></video>    
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ffd040b7-a63c-4db1-882d-a76a44d45d4a"></video>    
   - Alt(Windows) or ⌥(Mac) + `숫자키`("숫자키"는 탭의 번호를 의미합니다. 1번부터 시작합니다) - 키보드 위쪽의 숫자키를 사용해야 합니다. 키보드 오른쪽의 키패드의 숫자키는 허용되지 않습니다.
-<video src="https://github.com/wonder13662/gimp/assets/15767104/262a1036-9dc3-4cb8-82f9-825383aec2b9"></video>
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/262a1036-9dc3-4cb8-82f9-825383aec2b9"></video>
 
 위 내용은 가장 기본적인 대화 상자(dialog)들입니다. 이외에 목적에 따라 수많은 대화 상자들이 있지만, 대부분은 필요에 따라 그때그때 열어 쓰고 닫아두게 됩니다. 일반적으로 도구 옵션을 포함한 도구 상자와 레이어 대화 상자는 항상 열어두는 편이 좋습니다. 작업 후 저장을 하지 않고 이미지 창을 닫으면, 이미지 창을 다을 것인지 묻는 창이 표시됩니다.
 
