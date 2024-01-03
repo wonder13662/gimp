@@ -4,8 +4,8 @@
 [2.2. 설정 폴더들](./02-02-configuration-folders.md)
 
 ## 다른 페이지로 가기
-[최상위](./00-home.md)
+[다음: 3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
 
 [이전: 1. 소개](./01-00-introduction.md)
 
-[다음: 3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
+[최상위](./00-home.md)

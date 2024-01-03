@@ -21,3 +21,6 @@ GIMP의 언어를 한국어(ko)로 설정합니다. 이미 열려있는 GIMP는 
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/46f83a88-3c53-4d9c-9943-e034b50658fa"></video>
 <br/>
 두번째 GIMP의 언어가 한국어(ko)로 설정된 것을 확인할 수 있습니다. 
+
+## 다른 페이지로 가기
+[부모: 2.1. GIMP(김프) 실행하기](./02-01-running-gimp.md)

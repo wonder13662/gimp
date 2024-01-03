@@ -229,12 +229,12 @@ X-윈도우 스타일을 사용합니다(Microsoft Windows에서는 사용불가
 <img width="720" alt="--show-playground" src="https://github.com/wonder13662/gimp/assets/15767104/0c9bd441-4cb1-4aac-80d9-3b387ab124cc">
 
 ## 다른 페이지로 가기
-[최상위](./00-home.md)
-
-[부모: 2. GIMP(김프) 시작하기](./02-00-fire-up-gimp.md)
+[다음: 2.2. 설정 폴더들](./02-02-configuration-folders.md)
 
 [이전: 1.2. GIMP(김프)의 새로운 기능 알아보기](./01-02-whats-new-in-gimp.md)
 
-[다음: 2.2. 설정 폴더들](./02-02-configuration-folders.md)
+[부모: 2. GIMP(김프) 시작하기](./02-00-fire-up-gimp.md)
+
+[최상위](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-fire-up.html)

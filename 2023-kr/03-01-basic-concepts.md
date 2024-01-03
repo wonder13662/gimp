@@ -51,12 +51,12 @@ GIMP(김프)를 효과적으로 사용하려면 선택하는 방법을 배워야
 C 언어로 짜인 플러그인 외에 스크립트를 사용할 수도 있습니다. 대부분 스크립트는 Script-Fu라는 언어로 짜였는데, 이것은 Scheme이라고 불리는 Lisp 계열 언어로 GIMP(김프) 전용 언어입니다. Python이나 Perl 등의 언어로도 스크립트를 만들 수 있습니다. 이러한 언어들은 Script-Fu보다 유연하고 강력하지만, GIMP와 함께 배포되지 않는 프로그램에 사용되기 때문에, 그 안정성에 대해 보장받지 못합니다.
 
 ## 다른 페이지로 가기
-[최상위](./00-home.md)
-
-[부모: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
+[다음: 3.2.1. 기본 도구 상자](./03-02-01-the-toolbox.md)
 
 [이전: 2.2. 설정 폴더들](./02-02-configuration-folders.md)
 
-[다음: 3.2.1. 기본 도구 상자](./03-02-01-the-toolbox.md)
+[부모: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
+
+[최상위](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-first-steps.html)
