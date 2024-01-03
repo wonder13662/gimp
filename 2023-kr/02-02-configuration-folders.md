@@ -8,10 +8,10 @@ GIMP를 처음 실행하면 옵션과 디렉토리를 설정하는 여러 단계
 - macOS에서는 NSApplicationSupportDirectory (보통 `~/Library/Application Support`입니다)에 저장됩니다.
 
 #### macOS에서의 설정 폴더 확인 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-##### "언어:영어"인 경우의 설정 폴더 위치
+#### 그림 2.2.1. "언어:영어"인 경우의 설정 폴더 위치
 <img width="700" alt="settings-preference-folders-en" src="https://github.com/wonder13662/gimp/assets/15767104/a53ff89d-f3e2-416e-82b5-6a653d260e98">
 
-##### "언어:한국어"인 경우의 설정 폴더 위치
+#### 그림 2.2.2. "언어:한국어"인 경우의 설정 폴더 위치
 <img width="699" alt="settings-preference-folders-ko" src="https://github.com/wonder13662/gimp/assets/15767104/8e11cd17-a104-44c6-b4c6-29b66a14ff22">
 
 
