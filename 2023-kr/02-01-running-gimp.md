@@ -75,8 +75,8 @@ Use `-n` to run multiple instances of GIMP. For example, use **gimp-2.10** to st
 
 GIMP를 커맨드라인으로 실행할 때, `-n` 옵션을 추가해서 여러 개의 GIMP 인스턴스를 띄울 수 있습니다. 예를 들어, 리눅스 시스템의 콘솔에서 **gimp-2.10**를 입력하여 GIMP를 띄운다면, 커맨드 라인 툴에서 `LANGUAGE=en gimp-2.10 -n`를 입력하여 두번째 GIMP 인스턴스는 언어를 영어로 하여 띄울 수 있습니다. 변역 작업을 할 때 매우 편리합니다.
 
-#### [다른 언어로 여러 개의 GIMP(김프) 띄우기 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)](./02-01-running-gimp(multiple-instances).md)
 <img width="720" alt="Screenshot 2024-01-02 at 4 01 47 PM" src="https://github.com/wonder13662/gimp/assets/15767104/71928696-cfb7-4578-82b8-f0d6cf1a27cb">
+[다른 언어로 여러 개의 GIMP(김프) 띄우기 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)](./02-01-running-gimp(multiple-instances).md)
 
 ## 2.1.3. 커맨드 라인 실행 옵션들
 GIMP를 시작할 때, 추가적인 인자(argument) 또는 옵션(Option) 값이 필요하지는 않습니다. 하지만 가장 자주 사용되는 것들을 설명해두었습니다. Unix 시스템에서는 `man gimp` 명령으로 전체 인자(argument) 목록을 확인할 수 있습니다.
