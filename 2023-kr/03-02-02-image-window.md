@@ -108,6 +108,11 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 #### 영상 3.2.2.5. 안내선 수정 및 삭제
 <video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/aec0424e-f862-4806-a746-36bb60de25f8"></video>
 
+이미지 창 내에서 마우스 커서를 움직이면 눈금자 부분에 현재 마우스 커서의 가로/세로 위치를 표시하는 작은 화살표가 표시됩니다.
+
+#### 영상 3.2.2.6. 눈금자 화살표가 커서를 따라갑니다
+<video controls="controls" width="158" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3d46763e-02c8-4f67-97fb-9ff61934aa35"></video>
+
 (TODO 위치 표식인 빨간색 영역을 초록색 영역으로 변경이 필요합니다)
 
 ## 5. 퀵마스크 토글 버튼 (QuickMask Toggle)
@@ -116,12 +121,19 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 
 이미지의 아래편 왼쪽 구석의 작은 버튼으로 퀵마스크를 켜고 끌 수 있습니다. 퀵마스크가 켜지면, 이 버튼은 빨간색 테두리가 생깁니다(macOS에는 이 효과가 없습니다).
 
-#### 영상 3.2.2.6. 퀵 마스크 토글하기
+#### 영상 3.2.2.7. 퀵 마스크 토글하기
 <video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/74f2db78-a06e-48d8-bcc7-7c99e3d57180"></video>
 
 좀 더 상세한 정보는 [15.2.2. 채널 대화 상자 - Quick Mask](./15-02-02-channel-dialog.md)를 확인해주세요. (TODO 추후 링크 수정이 필요합니다)
 
 ## 6. 커서 좌표 (Pointer Coordinates)
+#### 그림 3.2.2.12. 커서 좌표의 위치 (초록색 영역)
+<img width="720" alt="그림 3.2.2.12. 커서 좌표의 위치 (초록색 영역)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/680dc1bb-23a7-4993-9f07-45767376ea68">
+
+마우스 커서가 이미지 경계 안에 있을 경우, 창의 왼쪽 아래 구석에 있는 사각형 부분에 현재 커서의 좌표가 표시됩니다. 좌표의 단위는 눈금자(Ruler)와 같습니다.
+
+#### 영상 3.2.2.8. 커서 좌표 확인하기
+<video controls="controls" width="170" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/50eaa32f-bb39-4674-b405-096db2a92691"></video>
 
 ## 7. 단위 메뉴 (Units Menu)
 
