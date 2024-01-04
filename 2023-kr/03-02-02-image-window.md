@@ -64,18 +64,18 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 
 ### ⚠️ 주의: macOS의 메뉴바의 위치는 위 설명과 다릅니다. 아래 이미지를 참고해주세요.
 
-#### 그림 3.2.2.5. 메뉴 바의 위치 (단일창) - macOS
-<img width="1026" alt="mac-single-window" src="https://github.com/wonder13662/gimp/assets/15767104/1e02bbc0-be24-4ef1-be82-2bbaf49113f4">
+#### 그림 3.2.2.7. 메뉴 바의 위치 (단일창) - macOS
+<img width="720" alt="mac-single-window" src="https://github.com/wonder13662/gimp/assets/15767104/1e02bbc0-be24-4ef1-be82-2bbaf49113f4">
 <br>
 메뉴바는 이미지 창의 내부가 아닌 화면 최상단에 있습니다.
 
-#### 그림 3.2.2.6. 메뉴 바의 위치 (다중창) - macOS
-<img width="1065" alt="mac-multiple-window" src="https://github.com/wonder13662/gimp/assets/15767104/b76240dd-db63-4a9b-9547-9f46604bdede">
+#### 그림 3.2.2.8. 메뉴 바의 위치 (다중창) - macOS
+<img width="720" alt="그림 3.2.2.8. 메뉴 바의 위치 (다중창) - macOS" src="https://github.com/wonder13662/gimp/assets/15767104/b76240dd-db63-4a9b-9547-9f46604bdede">
 메뉴바는 이미지 창의 내부가 아닌 화면 최상단에 있습니다.
 
 ## 3. 메뉴 버튼 (Menu Button)
-#### 그림 3.2.2.7. 메뉴 버튼의 위치 (빨간색 영역)
-<img width="720" alt="그림 3.2.2.7. 메뉴 버튼의 위치 (빨간색 영역)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b34e53fd-a73f-491e-a324-07681871eeaf">
+#### 그림 3.2.2.9. 메뉴 버튼의 위치 (빨간색 영역)
+<img width="720" alt="그림 3.2.2.9. 메뉴 버튼의 위치 (빨간색 영역)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b34e53fd-a73f-491e-a324-07681871eeaf">
 
 메뉴 버튼을 클릭해서 이미지 메뉴를 엽니다(전체화면 모드에서는 꼭 필요합니다).
 
@@ -89,6 +89,25 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 
 
 ## 4. 눈금자 (Ruler)
+#### 그림 3.2.2.10. 눈금자의 위치 (빨간색 영역)
+<img width="720" alt="그림 3.2.2.10. 눈금자의 위치 (빨간색 영역)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5aa0bfdf-01c9-46e0-a296-3be09b67277e">
+
+기본 화면에서 눈금자는 이미지의 상단과 왼쪽에 표시되며, 이미지 내의 좌표를 나타내는데 사용됩니다. 기본 수치 단위는 픽셀이지만, 필요하다면 아래에 설명되어 있는 단위 설정법을 이용해 다른 타입으로 바꿀 수도 있습니다.
+
+눈금자의 중요한 기능 중 하나는 안내선(guide)입니다. 눈금자를 클릭하고 이미지로 드래그해서 안내선을 그립니다.
+#### 영상 3.2.2.3. 안내선 그리기
+<video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/604bb899-0e9b-4f76-8c94-fd66fec37808"></video>
+
+안내선은 직선이며, 대상을 정확한 위치에 옮기는 데 사용합니다. 또는 선이 수평인지 수직인지 확인하는데도 쓰입니다.
+
+#### 영상 3.2.2.4. 안내선에 따라 대상 옮기기
+<video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8034ea5d-2c4a-4bc2-b1d2-8a1bec0dcb52"></video>
+
+이동 도구(Move tool)을 사용해서 안내선을 움직일 수 있습니다. 안내선을 이미지 바깥으로 드래그하면 사라집니다. 여러 개의 안내선을 동시에 쓸 수 있습니다.
+
+#### 영상 3.2.2.5. 안내선 수정 및 삭제
+<video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/aec0424e-f862-4806-a746-36bb60de25f8"></video>
+
 
 ## 5. 퀵마스크 토글 버튼 (QuickMask Toggle)
 
