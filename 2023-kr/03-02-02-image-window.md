@@ -119,10 +119,15 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 #### 그림 3.2.2.11. 퀵마스크 토글 버튼의 위치 (초록색 영역)
 <img width="720" alt="그림 3.2.2.11. 퀵마스크 토글 버튼의 위치 (초록색 영역)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ec4aa95d-bb02-4df3-9f46-cc6a1304ab3f">
 
-이미지의 아래편 왼쪽 구석의 작은 버튼으로 퀵마스크를 켜고 끌 수 있습니다. 퀵마스크가 켜지면, 이 버튼은 빨간색 테두리가 생깁니다(macOS에는 이 효과가 없습니다).
+이미지의 아래편 왼쪽 구석의 작은 버튼으로 퀵마스크를 켜고 끌 수 있습니다. 
 
 #### 영상 3.2.2.7. 퀵 마스크 토글하기
 <video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/74f2db78-a06e-48d8-bcc7-7c99e3d57180"></video>
+
+퀵마스크가 켜지면, 이 버튼은 빨간색 테두리가 생깁니다(macOS에는 이 효과가 없습니다).
+
+#### 영상 3.2.2.8. 퀵 마스크 토글 확대해서 보기
+<video controls="controls" width="170" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2a4236c9-ff2d-4200-9ce6-6dc880a50a84"></video>
 
 좀 더 상세한 정보는 [15.2.2. 채널 대화 상자 - Quick Mask](./15-02-02-channel-dialog.md)를 확인해주세요. (TODO 추후 링크 수정이 필요합니다)
 
@@ -132,12 +137,23 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 
 마우스 커서가 이미지 경계 안에 있을 경우, 창의 왼쪽 아래 구석에 있는 사각형 부분에 현재 커서의 좌표가 표시됩니다. 좌표의 단위는 눈금자(Ruler)와 같습니다.
 
-#### 영상 3.2.2.8. 커서 좌표 확인하기
+#### 영상 3.2.2.9. 커서 좌표 확인하기
 <video controls="controls" width="170" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/50eaa32f-bb39-4674-b405-096db2a92691"></video>
 
 ## 7. 단위 메뉴 (Units Menu)
+#### 그림 3.2.2.13. 단위 메뉴의 위치 (초록색 영역)
+<img width="720" alt="그림 3.2.2.12. 커서 좌표의 위치 (초록색 영역)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d6823026-1727-4914-8eff-a38039c9e977">
+
+이 메뉴는 눈금자나 다른 여러 기능에서 사용되는 단위를 바꾸는데 씁니다. 기본 단위는 픽셀입니다. 하지만 이 메뉴를 통해 `inch`나 `cm` 등 다른 단위로 바꿀 수도 있습니다. 단위를 바꿀 경우 보여지는 비율이 바뀔 수 있으므로 [16.5. 보기 메뉴](16-05-00-the-view-menu.md)의 "점대점" 설정을 확인해야 합니다. 이에 대한 자세한 내용은 [16.5.4. 점대점](./16-05-04-dot-for-dot.md)에 있습니다.
 
 ## 8. 확대/축소 버튼 (Zoom Button)
+#### 그림 3.2.2.14. 확대/축소 버튼의 위치 (초록색 영역)
+<img width="720" alt="그림 3.2.2.14. 확대/축소 버튼의 위치 (초록색 영역)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/55bd7f61-0042-4c27-8924-8176c586251e">
+
+이미지를 확대하거나 축소해 보는 방법에는 여러가지가 있지만 이 메뉴가 가장 간단합니다. 더 정확한 값을 직접 입력할 수도 있습니다.
+
+#### 영상 3.2.2.10. 확대/축소 버튼으로 이미지의 크기를 조정하기
+<video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a1fea92d-db44-4fa8-a7d6-ba5527d25498"></video>
 
 ## 9. 상태 표시 영역 (Status Area)
 
