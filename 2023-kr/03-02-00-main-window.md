@@ -4,7 +4,6 @@
 #### 그림 3.2.1. 다중창 모드(multi-window mode)
 <img width="540" alt="multi-window-mode" src="https://github.com/wonder13662/gimp/assets/15767104/c253f6d6-0ad2-4791-bbd2-e60c2f0c0c69">
 
-
 #### 그림 3.2.2. 단일창 모드(single window mode)
 <img width="540" alt="single-window-mode" src="https://github.com/wonder13662/gimp/assets/15767104/39df1a43-0890-41ff-babd-d59c75196179">
 

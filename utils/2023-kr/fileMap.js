@@ -548,7 +548,8 @@ module.exports = {
       ],
       [
         '12-01-00-preference-dialog.md', 
-        '12.1. Preference dialog'
+        '12.1. Preference dialog',
+        '12.1. 기본 설정 대화상자'
       ],
       [
         '12-01-01-introduction.md', 
@@ -1417,7 +1418,8 @@ module.exports = {
       ],
       [
         '16-05-00-the-view-menu.md', 
-        '16.5. The view menu'
+        '16.5. The view menu',
+        '16.5. 보기 메뉴',
       ],
       [
         '16-05-01-introduction-to-the-view-menu.md', 
