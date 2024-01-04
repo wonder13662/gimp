@@ -393,7 +393,8 @@ module.exports = {
       ],
       [
         '07-06-brushes.md', 
-        '7.6. Brushes'
+        '7.6. Brushes',
+        '7.6. 붓'
       ],
       [
         '07-07-adding-new-brushes.md', 
@@ -417,11 +418,13 @@ module.exports = {
       ],
       [
         '07-10-gradients.md', 
-        '7.10. Gradients'
+        '7.10. Gradients',
+        '7.10. 그라디언트'
       ],
       [
         '07-11-patterns.md', 
-        '7.11. Patterns'
+        '7.11. Patterns',
+        '7.11. 무늬'
       ],
       [
         '07-12-00-palettes.md', 
@@ -573,7 +576,8 @@ module.exports = {
       ],
       [
         '12-01-07-tool-options.md', 
-        '12.1.7. Tool Options'
+        '12.1.7. Tool Options',
+        '12.1.7. 도구 옵션'
       ],
       [
         '12-01-08-default-image-preferences.md', 
@@ -974,7 +978,8 @@ module.exports = {
       ],
       [
         '15-02-01-layers-dialog.md', 
-        '15.2.1. Layers dialog'
+        '15.2.1. Layers dialog',
+        '15.2.1. 레이어 대화상자'
       ],
       [
         '15-02-02-channel-dialog.md', 
@@ -983,7 +988,8 @@ module.exports = {
       ],
       [
         '15-02-03-paths-dialog.md', 
-        '15.2.3. Paths dialog'
+        '15.2.3. Paths dialog',
+        '15.2.3. 경로 대화상자'
       ],
       [
         '15-02-04-colormap-dialog.md', 
@@ -999,7 +1005,8 @@ module.exports = {
       ],
       [
         '15-02-07-undo-history-dialog.md', 
-        '15.2.7. Undo history dialog'
+        '15.2.7. Undo history dialog',
+        '실행취소 이력 대화상자'
       ],
       [
         '15-03-00-image-content-related-dialogs.md', 
@@ -1011,7 +1018,8 @@ module.exports = {
       ],
       [
         '15-03-02-brushes-dialog.md', 
-        '15.3.2. Brushes dialog'
+        '15.3.2. Brushes dialog',
+        '15.3.2. 붓 대화상자'
       ],
       [
         '15-03-03-mypaint-brushes-dialog.md', 
@@ -1019,7 +1027,8 @@ module.exports = {
       ],
       [
         '15-03-04-patterns-dialog.md', 
-        '15.3.4. Patterns dialog'
+        '15.3.4. Patterns dialog',
+        '15.3.4. 무늬 대화상자'
       ],
       [
         '15-03-05-gradient-dialog.md', 
@@ -1043,11 +1052,13 @@ module.exports = {
       ],
       [
         '15-04-02-images-dialog.md', 
-        '15.4.2. Images dialog'
+        '15.4.2. Images dialog',
+        '15.4.2. 이미지 대화상자'
       ],
       [
         '15-04-03-document-history-dialog.md', 
-        '15.4.3. Document history dialog'
+        '15.4.3. Document history dialog',
+        '15.4.3. 문서 이력 대화상자'
       ],
       [
         '15-04-04-templates-dialog.md', 
@@ -1067,7 +1078,8 @@ module.exports = {
       ],
       [
         '15-05-03-device-status-dialog.md', 
-        '15.5.3. Device status dialog'
+        '15.5.3. Device status dialog',
+        '15.5.3. 장치 상태 대화상자'
       ],
       [
         '15-05-04-error-console.md', 

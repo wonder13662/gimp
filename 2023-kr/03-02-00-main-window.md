@@ -23,12 +23,12 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 
 <img width="699" alt="multiple-window" src="https://github.com/wonder13662/gimp/assets/15767104/7fa9ac60-26d8-4547-9b43-aa914e002e93">
 
-위의 스크린샷은 가장 기본적인 다중창 모드 배치입니다.(TODO 다중창의 도구의 영역이 표시되어야 합니다)
+위의 스크린샷은 가장 기본적인 다중창 모드 배치입니다.
 
-왼쪽과 오른쪽에 2개의 패널이 각각 있습니다. 그리고 가운데에는 이미지 창(image window)가 있습니다. 두번째 이미지 창(image window)는 첫번째 이미지 창에 가려 일부분만 보입니다. 왼쪽 패널은 [기본 도구 상자(Toolbox)](./12-01-13-toolbox.md), [도구옵션(Tool Options)](), [실행취소 이력(Undo History)](), [장치 상태(Device Status)]() 그리고 [이미지 대화상자(Images dialogs)]()를 갖고 있습니다(TODO 페이지 링크). 오른쪽 패널은 [붓(Brushes)](), [무늬(Patterns)](), [글꼴(Fonts)]() 그리고 [문서 이력 대화상자(Document Hisoty dialog)]()가 있는 다중 탭 독(multi-tab dock)과 [레이어(Layers)](), [채널(Channels)]() 그리고 [경로(Paths)]() 대화상자가 있는 또다른 다중 탭 독(multi-tab dock)을 가지고 있습니다(TODO 페이지 링크).
+왼쪽과 오른쪽에 2개의 패널이 각각 있습니다. 그리고 가운데에는 이미지 창(image window)가 있습니다. 두번째 이미지 창(image window)는 첫번째 이미지 창에 가려 일부분만 보입니다. 왼쪽 패널은 [기본 도구 상자(Toolbox)](./12-01-13-toolbox.md), [도구 옵션(Tool Options)](./12-01-07-tool-options.md), [실행취소 이력 대화상자(Undo history dialog)](./15-02-07-undo-history-dialog.md), [장치 상태 대화상자(Device Status dialog)](./15-05-03-device-status-dialog.md) 그리고 [이미지 대화상자(Images dialogs)](./15-04-02-images-dialog.md)를 갖고 있습니다. 오른쪽 패널은 [붓 대화상자(Brushes dialog)](./15-03-02-brushes-dialog.md), [무늬 대화상자(Patterns dialog)](./15-03-04-patterns-dialog.md), [글꼴(Fonts)]() 그리고 [문서 이력 대화상자(Document Hisoty dialog)](./15-04-03-document-history-dialog.md)가 있는 다중 탭 독(multi-tab dock)과 [레이어 대화상자(Layers dialog)](./15-02-01-layers-dialog.md), [채널 대화상자(Channels dialog)](./15-02-02-channel-dialog.md) 그리고 [경로 대화상자(Paths dialog)](./15-02-03-paths-dialog.md)가 있는 또다른 다중 탭 독(multi-tab dock)을 가지고 있습니다.
 
 ### 1. 기본 도구 상자(Toolbox)
-여러 가지 도구들을 선택할 수 있는 아이콘들이 모아져 있습니다. 그리고 전경색(Foreground color)/배경색(Background color)이 표시됩니다. [붓(Brushes)](), [무늬(Patterns)](), [그라디언트(Gradient)](), 현재 이미지의 아이콘 등을 추가할 수도 있습니다. `GIMP` → `기본 설정(Settings...)` → `인터페이스(Interface)` → `도구상자(Toolbox)` → `모양새(Appearance)`를 이용하여 추가로 표시할 수 있는 항목들을 표시하거나 숨길 수 있습니다.
+여러 가지 도구들을 선택할 수 있는 아이콘들이 모아져 있습니다. 그리고 전경색(Foreground color)/배경색(Background color)이 표시됩니다. [붓(Brushes)](./07-06-brushes.md), [무늬(Patterns)](./07-11-patterns.md), [그라디언트(Gradient)](./07-10-gradients.md), 현재 이미지의 아이콘 등을 추가할 수도 있습니다. `GIMP` → `기본 설정(Settings...)` → `인터페이스(Interface)` → `도구상자(Toolbox)` → `모양새(Appearance)`를 이용하여 추가로 표시할 수 있는 항목들을 표시하거나 숨길 수 있습니다.
 
 #### 그림 3.2.5. 설정-도구상자 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
 <img width="699" alt="설정-도구상자 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)" src="https://github.com/wonder13662/gimp/assets/15767104/82f5d614-ed74-4854-8f81-97d5061b27c7">
@@ -101,20 +101,58 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 위 내용은 가장 기본적인 대화 상자(dialog)들입니다. 이외에 목적에 따라 수많은 대화 상자들이 있지만, 대부분은 필요에 따라 그때그때 열어 쓰고 닫아두게 됩니다. 일반적으로 도구 옵션을 포함한 도구 상자와 레이어 대화 상자는 항상 열어두는 편이 좋습니다. 작업 후 저장을 하지 않고 이미지 창을 닫으면, 이미지 창을 다을 것인지 묻는 창이 표시됩니다.
 
 ### 1. 기본 도구 상자(Tool box)
+#### 그림 3.2.6.
+<img width="203" alt="toolbox" src="https://github.com/wonder13662/gimp/assets/15767104/cd57acfd-21e1-494e-ab23-978bc54b0686">
+<br/>
 많은 GIMP 기능을 사용하는데 필수적입니다.
-(TODO 스크린샷 필요)
 
 ### 2. 도구 옵션(Tool Options)
+#### 그림 3.2.7. 도구 옵션
+<img width="221" alt="도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/9e209176-5c6c-41c8-9f55-815aa4945a9f">
+
+#### 그림 3.2.8. Tool Options
+<img width="222" alt="tool-options" src="https://github.com/wonder13662/gimp/assets/15767104/b1de5af9-49a0-440c-91f0-aefbcd76afb3">
+<br/>
 독립적으로 분리되어 있는 대화상자입니다. 기본 도구 상자의 아래에 연결되어 있습니다. 도구를 효과적으로 사용하기 위해 도구의 설정상태를 보면서 작업해야 하기에 항상 필요합니다. 따라서 많은 사용자들이 위의 스크린샷과 같은 형태로 사용합니다.
-(TODO 스크린샷 필요)
 
 ### 3. 레이어 대화상자(Layers Dialog)
-여러개의 레이어를 가진 이미지를 편집할 때 사용됩니다. GIMP를 전문적으로 사용하려면 필수적으로 사용하게 됩니다. 그리고 레이어 대화 상자는 작업중인 이미지를 보는데에도 사용합니다.
-(TODO 스크린샷 필요)
+#### 그림 3.2.9. 레이어 대화상자
+<img width="226" alt="레이어-대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/a1bd8d23-d9ca-4bc8-81ed-88fb40c1fc48">
 
-### 참고(TODO 이모지 추가)
-실수로 GIMP의 대화 상자를 닫아도 `창(Windows)` → `최근 닫은 독(Recently Closed Docks)` 메뉴를 이용하면 스크린샷과 같은 모습으로 쉽게 복구시킬 수 있습니다. 창 메뉴는 열려있는 이미지가 있을 때에만 사용이 가능합니다. 독(dock)에 탭을 추가하거나, 닫기, 떼어내기를 하려면 대화 상자의 오른쪽 상단에 있는 `탭 설정(Configure this tab)` 버튼을 클릭합니다. 이 버튼을 누르면 탭 메뉴가 표시됩니다. 메뉴에서 `탭 추가(Add Tab)`, `탭 닫기(Close Tab)`, 또는 `탭 떼어내기(Detach Tab)` 중 필요한 메뉴를 선택합니다.
+#### 그림 3.2.10. Layers dialog
+<img width="225" alt="layers-dialog" src="https://github.com/wonder13662/gimp/assets/15767104/a273c718-343c-4d91-b9e2-cbd70d80a9fe">
+<br/>
+여러개의 레이어를 가진 이미지를 편집할 때 사용됩니다. GIMP를 전문적으로 사용하려면 필수적으로 사용하게 됩니다. 그리고 레이어 대화 상자는 작업중인 이미지를 보는데에도 사용합니다.
+
+## ℹ️참고
+### `최근 닫은 독(Recently Closed Docks)`
+실수로 GIMP의 대화 상자를 닫아도 `창(Windows)` → `최근 닫은 독(Recently Closed Docks)` 메뉴를 이용하면 스크린샷과 같은 모습으로 쉽게 복구시킬 수 있습니다.
+(TODO 스크린샷 및 관련 동영상 필요) 
+
+#### 그림 3.2.11. `창` → `최근 닫은 독`
+<img width="358" alt="창-최근_닫은_독" src="https://github.com/wonder13662/gimp/assets/15767104/90bfd69b-48ab-46d1-992d-18377afc1408">
+
+#### 그림 3.2.12. `Windows` → `Recently Closed Docks`
+<img width="337" alt="windows-recently-closed-docks" src="https://github.com/wonder13662/gimp/assets/15767104/f1c526e6-40a5-4eaf-a40e-6715d3420a46">
+
+#### 영상 3.2.9. ⚠️탭을 닫고나서 `최근 닫은 독`의 목록에 아무것도 없음 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/28a9dde1-984f-4639-85b5-16e3aca8a8af"></video>
+
+### 창 메뉴(Window menu)
+창 메뉴는 열려있는 이미지가 있을 때에만 사용이 가능합니다. 
 (TODO 스크린샷 및 관련 동영상 필요)
+
+### `탭 설정(Configure this tab)` 버튼
+독(dock)에 탭을 추가하거나, 닫기, 떼어내기를 하려면 대화 상자의 오른쪽 상단에 있는 `탭 설정(Configure this tab)` 버튼을 클릭합니다. 이 버튼을 누르면 탭 메뉴가 표시됩니다. 메뉴에서 `탭 추가(Add Tab)`, `탭 닫기(Close Tab)`, 또는 `탭 떼어내기(Detach Tab)` 중 필요한 메뉴를 선택합니다.
+
+#### 영상 3.2.10. 탭 추가(Add Tab) (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c2859f79-24af-41ff-8ec6-e859da6c8fb8"></video>
+
+#### 영상 3.2.11. 탭 닫기(Close Tab) (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5d38720a-30b5-4466-9719-292c7f66dc5c"></video>
+
+#### 영상 3.2.12. 탭 떼어내기(Detach Tab) (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/50310e90-46d0-445f-9801-a676bd5db9e7"></video>
 
 [다음 절(3.2.1. 기본 도구 상자)](./03-02-01-the-toolbox.md)에서는 스크린샷에 있는 각 창(Window)의 구성 요소들과 기능에 대해 설명하겠습니다. [3.2.1. 기본 도구 상자](./03-02-01-the-toolbox.md)와 [GIMP 이미지의 기본 구조]()를 통해 GIMP를 이용한 기본적인 이미지 편집의 다양한 방법을 배울 수 있습니다.
 (TODO "GIMP 이미지의 기본 구조"는 어떤 페이지인지 확인이 필요함)
