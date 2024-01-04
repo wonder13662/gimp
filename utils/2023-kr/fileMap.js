@@ -564,7 +564,8 @@ module.exports = {
       ],
       [
         '12-01-04-color-management.md', 
-        '12.1.4. Color Management'
+        '12.1.4. Color Management',
+        '12.1.4. 색상 관리',
       ],
       [
         '12-01-05-image-import-and-export.md', 
@@ -581,19 +582,23 @@ module.exports = {
       ],
       [
         '12-01-08-default-image-preferences.md', 
-        '12.1.8. Default Image Preferences'
+        '12.1.8. Default Image Preferences',
+        '12.1.8. 기본 이미지 설정',
       ],
       [
         '12-01-09-default-image-grid.md', 
-        '12.1.9. Default Image Grid'
+        '12.1.9. Default Image Grid',
+        '12.1.9. 기본 이미지 격자',
       ],
       [
         '12-01-10-interface.md', 
-        '12.1.10. Interface'
+        '12.1.10. Interface',
+        '12.1.10. 인터페이스',
       ],
       [
         '12-01-11-theme.md', 
-        '12.1.11. Theme'
+        '12.1.11. Theme',
+        '12.1.11. 테마',
       ],
       [
         '12-01-12-icon-theme.md', 
@@ -610,27 +615,33 @@ module.exports = {
       ],
       [
         '12-01-15-help-system.md', 
-        '12.1.15. Help System'
+        '12.1.15. Help System',
+        '12.1.15. 도움말 시스템',
       ],
       [
         '12-01-16-display.md', 
-        '12.1.16. Display'
+        '12.1.16. Display',
+        '12.1.16. 화면',
       ],
       [
         '12-01-17-window-management.md', 
-        '12.1.17. Window Management'
+        '12.1.17. Window Management',
+        '12.1.17. 창 관리',
       ],
       [
         '12-01-18-image-window.md', 
-        '12.1.18. Image Window'
+        '12.1.18. Image Window',
+        '12.1.18. 이미지 창',
       ],
       [
         '12-01-19-image-window-appearance.md', 
-        '12.1.19. Image Window Appearance'
+        '12.1.19. Image Window Appearance',
+        '12.1.19. 이미지 창 모양',
       ],
       [
         '12-01-20-image-window-title-and-statusbar.md', 
-        '12.1.20. Image Window Title and Statusbar'
+        '12.1.20. Image Window Title and Statusbar',
+        '12.1.20. 이미지 창 제목표시줄과 상태표시줄',
       ],
       [
         '12-01-21-image-window-snapping-behavior.md', 
@@ -638,19 +649,23 @@ module.exports = {
       ],
       [
         '12-01-22-input-devices.md', 
-        '12.1.22. Input Devices'
+        '12.1.22. Input Devices',
+        '12.1.22. 입력 장치'
       ],
       [
         '12-01-23-input-controllers.md', 
-        '12.1.23. Input Controllers'
+        '12.1.23. Input Controllers',
+        '12.1.23. 입력 제어기',
       ],
       [
         '12-01-24-folders.md', 
-        '12.1.24. Folders'
+        '12.1.24. Folders',
+        '12.1.24. 폴더',
       ],
       [
         '12-01-25-data-folders.md', 
-        '12.1.25. DataFolders'
+        '12.1.25. DataFolders',
+        '12.1.25. 데이터 폴더'
       ],
       [
         '12-02-00-grids-and-guides.md', 
@@ -750,11 +765,13 @@ module.exports = {
       ],
       [
         '14-01-01-introduction.md', 
-        '14.1.1. Introduction'
+        '14.1.1. Introduction',
+        '14.1.1. 소개(도구 상자)'
       ],
       [
         '14-01-02-tool-icons.md', 
-        '14.1.2. Tool icons'
+        '14.1.2. Tool icons',
+        '14.1.2. 도구 아이콘(Tool icons)'
       ],
       [
         '14-01-03-color-and-indicator-area.md', 
