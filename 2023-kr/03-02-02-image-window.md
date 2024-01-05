@@ -212,7 +212,9 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 <img width="720" alt="그림 3.2.2.101. 취소 버튼의 위치 (초록색 영역)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/576a666d-5a6b-464a-872b-b0b6c62f77ad">
 
 ### 10-2. 취소 버튼의 역할
-플러그인 사용과 같이 복잡하고 시간이 걸리는 작업을 하는 경우, 이미지 창(Image Window)의 오른쪽 하단에 취소 버튼이 표시됩니다. 이 취소 버튼을 눌러 작업을 취소할 수 있습니다(TODO 적절한 예시가 추가되어야 합니다. 대부분의 작업에서 이 버튼을 보기 어렵습니다.)
+플러그인 사용과 같이 복잡하고 시간이 걸리는 작업을 하는 경우, 이미지 창(Image Window)의 오른쪽 하단에 취소 버튼이 표시됩니다. 이 취소 버튼을 눌러 작업을 취소할 수 있습니다.
+#### 그림 3.2.2.102. 실제 작업에서 보여지는 취소버튼 모양
+<img width="720" alt="Screenshot 2024-01-05 at 12 55 31 PM" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f07c7300-49d0-4edf-98e3-a4e73e93b861">
 
 > 🗒️ 참고
 >
@@ -272,13 +274,38 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 #### 그림 3.2.2.1421. 이미지 확대/축소 버튼 활성화(ON)와 비활성화(OFF)
 <img width="200" alt="그림 3.2.2.1421. 이미지 확대/축소 버튼 활성화(ON)와 비활성화(OFF)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/43eb4ea5-5978-451f-ad26-676614ed0c01">
 
-이미지 창 (Image Window)의 크기를 변경해도 이미지 자체의 크기나 확대/축소 비율은 변하지 않습니다. 하지만 이 기능을 사용하면 이미지 창 변경할때 창의 크기에 따라 이미지의 확대/축소 비율이 변경됩니다. 따라서 이미지 창의 크기를 변경해도 항상 이미지의 같은 부분을 볼 수 있습니다.
+이미지 창 (Image Window)의 크기를 변경해도 이미지 자체의 크기나 확대/축소 비율은 변하지 않습니다. 하지만 이 기능을 사용하면 이미지 창 변경할때 창의 크기에 따라 이미지의 확대/축소 비율이 변경됩니다. 따라서 이미지 창의 크기를 변경해도 항상 이미지의 같은 부분을 볼 수 있습니다. 이미지 (Image Display) 크기와 이미지 창 (Image Window)의 크기는 서로 다른 개념입니다.
 
 #### 영상 3.2.2.1422. 이미지 확대/축소 버튼 활성화(ON)일때의 동작
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0eb5ef47-cd40-4257-b15f-2fa10721a33f"></video>
 
 #### 영상 3.2.2.1422. 이미지 확대/축소 버튼 비활성화(OFF)일때의 동작
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9770cf33-e727-462c-987e-39ab3939412f"></video>
+
+### 14-3. 이미지 확대/축소 비율 단축키
+#### Ctrl + `J`(Windows) or ⌘ + `J`(Mac)
+이 단축키는 확대/축소 비율을 고정시킵니다. 이미지 창(Image Window) 크기를 이미지(Image Display)에 맞춥니다.
+#### 영상 3.2.2.1431. 이미지 창을 이미지에 맞추기 + 확대/축소 비율 고정
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6da5f558-60c7-4535-b568-157b63a4873a"></video>
+
+#### Ctrl + Shift + `J`(Windows) or ⌘ + ⇧ + `J`(Mac)
+이 단축키는 이미지 창(Image Window)의 크기에 맞게 이미지(Image Display)의 확대/축소 비율을 변경합니다.
+#### 영상 3.2.2.1432. 이미지를 이미지 창에 맞추기 + 확대/축소 비율 변경
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f6358681-da56-42cd-b9c4-c1dd06420bdd"></video>
+
+> ℹ️ 작은 정보
+>
+> 파일 탐색기에서 이미지 파일을 도구 상자 창으로 끌어 놓으면, 이미지가 새 이미지 창이나 탭으로 열립니다. 
+> 이미지 파일을 레이어 대화 상자로 끌어 놓으면, 이미지가 새 레이어로 추가됩니다.
+
+#### 영상 3.2.2.1441. 이미지 드래그 앤 드랍으로 새 이미지로 열기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/246a2a2d-0d6e-4177-944a-ec4718341c12"></video>
+
+#### 영상 3.2.2.1442. 이미지 드래그 앤 드랍으로 새 레이어로 열기(이미지 창)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9da97e53-6122-4dea-a711-4c63f6663345"></video>
+
+#### 영상 3.2.2.1443. 이미지 드래그 앤 드랍으로 새 레이어로 열기(레이어 대화상자)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/17c2020e-00c1-4581-823e-732a917c283d"></video>
 
 ***
 
