@@ -26,147 +26,179 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 ***
 
 ## 1. 타이틀 바 (Title Bar)
-#### 그림 3.2.2.1. 타이틀 바의 위치 (빨간색 영역)
+### 1-1. 타이틀 바의 위치
+#### 그림 3.2.2.11. 타이틀 바의 위치 (빨간색 영역)
 <img width="720" alt="03-02-02-single-multi-window-01-title-bar" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f7103b1f-daaa-4508-9ec7-f349e5bf985f">
 
-### 1-1. 이미지 창에 이미지가 없는 경우
+### 1-2. 이미지 창에 이미지가 없는 경우
 
 이미지 창에 이미지가 없는 경우의 타이틀 바에는 "그누 이미지 처리 프로그램(GNU Image Manipulating Program)"라고 표시됩니다. 
 
-#### 그림 3.2.2.2. 이미지 창에 이미지가 없는 경우의 타이틀바
+#### 그림 3.2.2.12. 이미지 창에 이미지가 없는 경우의 타이틀바
 <img width="1192" alt="타이틀바-이미지없음" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fd890e79-a302-4288-b08a-7ec1b5e61def">
 
-### 1-2. 이미지 창에 이미지가 있는 경우
+### 1-3. 이미지 창에 이미지가 있는 경우
 
 이미지 창에 이미지가 있는 경우의 타이틀 바에는 이미지의 이름과 [12.1. 기본 설정 대화상자](./12-01-00-preference-dialog.md)의 설정에 따른 이미지의 명세가 보여집니다.타이틀 바에 표시되는 정보는 GIMP가 아닌 운영체제에서 주는 것입니다. 그러므로 표시되는 정보는 운영체제, 윈도우 매니저(window manager) 또는 테마에 따라 다양합니다.
 
-#### 그림 3.2.2.3. 이미지 창에 이미지가 있는 경우의 타이틀바
+#### 그림 3.2.2.13. 이미지 창에 이미지가 있는 경우의 타이틀바
 <img width="1193" alt="타이틀바-이미지있음" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c19f1f48-355b-4ce3-9848-33a417744178">
 
 [xcf(GIMP 작업 파일 포맷)]() 형식이 아닌 이미지를 열면, 이 이미지는 `.xcf` 파일 형식으로 "(가져옴)" 상태가 되며, 이미지창 하단에 있는 상태 표시줄에 원본 이름이 표시됩니다.(TODO 링크 연결)
 
 ## 2. 이미지 메뉴 (Image Menu)
-#### 그림 3.2.2.4. 메뉴 바의 위치 (빨간색 영역)
+### 2-1. 메뉴 바의 위치
+#### 그림 3.2.2.21. 메뉴 바의 위치 (빨간색 영역)
 <img width="720" alt="메뉴바 빨간색 영역" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/883425e8-4c2b-426d-afa5-274a3eeea46f">
 
-이미지 메뉴는 (일부러 없애지 않는 한) 제목 표시줄 바로 아래에 위치합니다. 이 메뉴를 통해 이미지 편집을 위한 거의 모든 작업들을 할 수 있습니다. 이미지 안에서 마우스 오른쪽 버튼을 클릭하거나 이미지 창의 왼쪽 상단 구석에 있는 메뉴 버튼(Menu Button)이라고 부르는 "화살표"를 클릭해서 이미지 메뉴를 사용할 수도 있습니다.
+이미지 메뉴는 (일부러 없애지 않는 한) 제목 표시줄 바로 아래에 위치합니다.
 
-#### 영상 3.2.2.1. 이미지 창 안에서 이미지 메뉴 열기
-<video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/bf128c3e-5004-4766-90ea-33cf4e59399e"></video>
+### 2-2. 메뉴 바의 위치(macOS)
+#### ⚠️ 주의: macOS의 메뉴바의 위치는 위 설명과 다릅니다. 아래 이미지를 참고해주세요.
 
-또한 대부분의 메뉴는 메뉴에 표시된 키보드 단축키를 이용해 간편하게 실행할 수 있습니다. [12.1. 기본 설정 대화상자](./12-01-00-preference-dialog.md)에서 [12.1.10. 인터페이스 - 동적 키보드 단축키 사용](./12-01-10-interface.md) 항목을 활성화하면, 메뉴 동작에 대한 단축키를 직접 설정할 수 있습니다.(TODO "동적 키보드 단축키 사용" 링크 연동하기)
-
-#### 그림 3.2.2.5. 키보드 단축키 설정(우리말)
-<img width="699" alt="기본설정-키보드단축키" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/494c86cb-d1e1-43ca-bcb3-670b692455d4">
-
-#### 그림 3.2.2.6. 키보드 단축키 설정(영어)
-<img width="699" alt="settings-keyboard-shortcut" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f4e91cba-f1b7-4d6f-9ad2-39c53c1d49c2">
-
-### ⚠️ 주의: macOS의 메뉴바의 위치는 위 설명과 다릅니다. 아래 이미지를 참고해주세요.
-
-#### 그림 3.2.2.7. 메뉴 바의 위치 (단일창) - macOS
+#### 그림 3.2.2.221. 메뉴 바의 위치 (단일창) - macOS
 <img width="720" alt="mac-single-window" src="https://github.com/wonder13662/gimp/assets/15767104/1e02bbc0-be24-4ef1-be82-2bbaf49113f4">
 <br>
 메뉴바는 이미지 창의 내부가 아닌 화면 최상단에 있습니다.
 
-#### 그림 3.2.2.8. 메뉴 바의 위치 (다중창) - macOS
+#### 그림 3.2.2.222. 메뉴 바의 위치 (다중창) - macOS
 <img width="720" alt="그림 3.2.2.8. 메뉴 바의 위치 (다중창) - macOS" src="https://github.com/wonder13662/gimp/assets/15767104/b76240dd-db63-4a9b-9547-9f46604bdede">
 메뉴바는 이미지 창의 내부가 아닌 화면 최상단에 있습니다.
 
+### 2-3. 메뉴 바의 이미지 메뉴 열기
+이 메뉴를 통해 이미지 편집을 위한 거의 모든 작업을 할 수 있습니다. 이미지 안에서 마우스 오른쪽 버튼을 클릭하거나 이미지 창의 왼쪽 상단 구석에 있는 메뉴 버튼(Menu Button)이라고 부르는 "화살표"를 클릭해서 이미지 메뉴를 사용할 수도 있습니다.
+
+#### 영상 3.2.2.23. 이미지 창 안에서 이미지 메뉴 열기
+<video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/bf128c3e-5004-4766-90ea-33cf4e59399e"></video>
+
+### 2-4. 이미지 메뉴 단축키 설정
+또한 대부분의 메뉴는 메뉴에 표시된 키보드 단축키를 이용해 간편하게 실행할 수 있습니다. [12.1. 기본 설정 대화상자](./12-01-00-preference-dialog.md)에서 [12.1.10. 인터페이스 - 동적 키보드 단축키 사용](./12-01-10-interface.md) 항목을 활성화하면, 메뉴 동작에 대한 단축키를 직접 설정할 수 있습니다.(TODO "동적 키보드 단축키 사용" 링크 연동하기)
+
+#### 그림 3.2.2.241. 키보드 단축키 설정(우리말)
+<img width="699" alt="기본설정-키보드단축키" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/494c86cb-d1e1-43ca-bcb3-670b692455d4">
+
+#### 그림 3.2.2.242. 키보드 단축키 설정(영어)
+<img width="699" alt="settings-keyboard-shortcut" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f4e91cba-f1b7-4d6f-9ad2-39c53c1d49c2">
+
 ## 3. 메뉴 버튼 (Menu Button)
-#### 그림 3.2.2.9. 메뉴 버튼의 위치 (빨간색 영역)
+### 3-1. 메뉴 버튼의 위치
+#### 그림 3.2.2.31. 메뉴 버튼의 위치 (빨간색 영역)
 <img width="720" alt="그림 3.2.2.9. 메뉴 버튼의 위치 (빨간색 영역)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b34e53fd-a73f-491e-a324-07681871eeaf">
 
+### 3-2. 메뉴 버튼으로 이미지 메뉴 열기
 메뉴 버튼을 클릭해서 이미지 메뉴를 엽니다(전체화면 모드에서는 꼭 필요합니다).
 
-#### 영상 3.2.2.2. 메뉴 버튼 클릭해서 이미지 메뉴 열기
+#### 영상 3.2.2.321. 메뉴 버튼 클릭해서 이미지 메뉴 열기
 <video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d31327e9-cd48-4dc0-80bb-065b94bf9921"></video>
 <br>
 단축키 Shift(Windows) or ⇧(Mac) + `F10` 로 이미지 메뉴를 열 수 있습니다.
 
-#### 영상 3.2.2.2. 단축키 Shift(Windows) or ⇧(Mac) + F10로 이미지 메뉴 열기
+#### 영상 3.2.2.322. 단축키 Shift(Windows) or ⇧(Mac) + F10로 이미지 메뉴 열기
 <video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ebb0cbca-751e-4d63-a43c-99a9437d5813"></video>
 
 
 ## 4. 눈금자 (Ruler)
-#### 그림 3.2.2.10. 눈금자의 위치 (빨간색 영역)
+### 4-1. 눈금자의 위치
+#### 그림 3.2.2.41. 눈금자의 위치 (빨간색 영역)
 <img width="720" alt="그림 3.2.2.10. 눈금자의 위치 (빨간색 영역)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5aa0bfdf-01c9-46e0-a296-3be09b67277e">
 
 기본 화면에서 눈금자는 이미지의 상단과 왼쪽에 표시되며, 이미지 내의 좌표를 나타내는데 사용됩니다. 기본 수치 단위는 픽셀이지만, 필요하다면 아래에 설명되어 있는 단위 설정법을 이용해 다른 타입으로 바꿀 수도 있습니다.
 
-눈금자의 중요한 기능 중 하나는 안내선(guide)입니다. 눈금자를 클릭하고 이미지로 드래그해서 안내선을 그립니다.
-#### 영상 3.2.2.3. 안내선 그리기
+### 4-2. 눈금자의 안내선 (guide)
+눈금자의 중요한 기능 중 하나는 안내선 (guide)입니다. 눈금자를 클릭하고 이미지로 드래그해서 안내선을 그립니다.
+#### 영상 3.2.2.421. 안내선 그리기
 <video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/604bb899-0e9b-4f76-8c94-fd66fec37808"></video>
 
 안내선은 직선이며, 대상을 정확한 위치에 옮기는 데 사용합니다. 또는 선이 수평인지 수직인지 확인하는데도 쓰입니다.
 
-#### 영상 3.2.2.4. 안내선에 따라 대상 옮기기
+#### 영상 3.2.2.422. 안내선에 따라 대상 옮기기
 <video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8034ea5d-2c4a-4bc2-b1d2-8a1bec0dcb52"></video>
 
 이동 도구(Move tool)을 사용해서 안내선을 움직일 수 있습니다. 안내선을 이미지 바깥으로 드래그하면 사라집니다. 여러 개의 안내선을 동시에 쓸 수 있습니다.
 
-#### 영상 3.2.2.5. 안내선 수정 및 삭제
+#### 영상 3.2.2.423. 안내선 수정 및 삭제
 <video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/aec0424e-f862-4806-a746-36bb60de25f8"></video>
 
 이미지 창 내에서 마우스 커서를 움직이면 눈금자 부분에 현재 마우스 커서의 가로/세로 위치를 표시하는 작은 화살표가 표시됩니다.
 
-#### 영상 3.2.2.6. 눈금자 화살표가 커서를 따라갑니다
+#### 영상 3.2.2.424. 눈금자 화살표가 커서를 따라갑니다
 <video controls="controls" width="158" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3d46763e-02c8-4f67-97fb-9ff61934aa35"></video>
 
 (TODO 위치 표식인 빨간색 영역을 초록색 영역으로 변경이 필요합니다)
 
 ## 5. 퀵마스크 토글 버튼 (QuickMask Toggle)
-#### 그림 3.2.2.11. 퀵마스크 토글 버튼의 위치 (초록색 영역)
+### 5-1. 퀵마스크 토글 버튼의 위치
+#### 그림 3.2.2.51. 퀵마스크 토글 버튼의 위치 (초록색 영역)
 <img width="720" alt="그림 3.2.2.11. 퀵마스크 토글 버튼의 위치 (초록색 영역)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ec4aa95d-bb02-4df3-9f46-cc6a1304ab3f">
 
 이미지의 아래편 왼쪽 구석의 작은 버튼으로 퀵마스크를 켜고 끌 수 있습니다. 
 
-#### 영상 3.2.2.7. 퀵 마스크 토글하기
+### 5-2. 퀵마스크 제어하기
+#### 영상 3.2.2.521. 퀵 마스크 토글하기
 <video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/74f2db78-a06e-48d8-bcc7-7c99e3d57180"></video>
 
 퀵마스크가 켜지면, 이 버튼은 빨간색 테두리가 생깁니다(macOS에는 이 효과가 없습니다).
 
-#### 영상 3.2.2.8. 퀵 마스크 토글 확대해서 보기
+#### 영상 3.2.2.522. 퀵 마스크 토글 확대해서 보기
 <video controls="controls" width="170" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2a4236c9-ff2d-4200-9ce6-6dc880a50a84"></video>
 
 좀 더 상세한 정보는 [15.2.2. 채널 대화 상자 - Quick Mask](./15-02-02-channel-dialog.md)를 확인해주세요. (TODO 추후 링크 수정이 필요합니다)
 
 ## 6. 커서 좌표 (Pointer Coordinates)
-#### 그림 3.2.2.12. 커서 좌표의 위치 (초록색 영역)
+#### 그림 3.2.2.61. 커서 좌표의 위치 (초록색 영역)
 <img width="720" alt="그림 3.2.2.12. 커서 좌표의 위치 (초록색 영역)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/680dc1bb-23a7-4993-9f07-45767376ea68">
 
 마우스 커서가 이미지 경계 안에 있을 경우, 창의 왼쪽 아래 구석에 있는 사각형 부분에 현재 커서의 좌표가 표시됩니다. 좌표의 단위는 눈금자(Ruler)와 같습니다.
 
-#### 영상 3.2.2.9. 커서 좌표 확인하기
+#### 영상 3.2.2.62. 커서 좌표 확인하기
 <video controls="controls" width="170" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/50eaa32f-bb39-4674-b405-096db2a92691"></video>
 
 ## 7. 단위 메뉴 (Units Menu)
-#### 그림 3.2.2.13. 단위 메뉴의 위치 (초록색 영역)
+### 7-1. 단위 메뉴의 위치
+#### 그림 3.2.2.71. 단위 메뉴의 위치 (초록색 영역)
 <img width="720" alt="그림 3.2.2.12. 커서 좌표의 위치 (초록색 영역)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d6823026-1727-4914-8eff-a38039c9e977">
 
-이 메뉴는 눈금자나 다른 여러 기능에서 사용되는 단위를 바꾸는데 씁니다. 기본 단위는 픽셀입니다. 하지만 이 메뉴를 통해 `inch`나 `cm` 등 다른 단위로 바꿀 수도 있습니다. 단위를 바꿀 경우 보여지는 비율이 바뀔 수 있으므로 [16.5. 보기 메뉴](16-05-00-the-view-menu.md)의 "점 대 점" 설정을 확인해야 합니다. 이에 대한 자세한 내용은 [16.5.4. 점 대 점](./16-05-04-dot-for-dot.md)에 있습니다.
+이 메뉴는 눈금자나 다른 여러 기능에서 사용되는 단위를 바꾸는데 씁니다. 기본 단위는 픽셀입니다. 
+
+### 7-2. 단위 메뉴의 단위 변경
+하지만 이 메뉴를 통해 `inch`나 `cm` 등 다른 단위로 바꿀 수도 있습니다. 
+
+#### 그림 3.2.2.72. 단위 메뉴의 단위 바꾸기
+<img width="451" alt="단위_메뉴_단위변경" src="https://github.com/wonder13662/gimp/assets/15767104/943d39cf-c0b5-452a-961d-66763697a844">
+
+단위를 바꿀 경우 보여지는 비율이 바뀔 수 있으므로 [16.5. 보기 메뉴](16-05-00-the-view-menu.md)의 "점 대 점" 설정을 확인해야 합니다. 이에 대한 자세한 내용은 [16.5.4. 점 대 점](./16-05-04-dot-for-dot.md)에 있습니다.
 
 ## 8. 확대/축소 버튼 (Zoom Button)
-#### 그림 3.2.2.14. 확대/축소 버튼의 위치 (초록색 영역)
+### 8-1. 확대/축소 버튼의 위치
+#### 그림 3.2.2.81. 확대/축소 버튼의 위치 (초록색 영역)
 <img width="720" alt="그림 3.2.2.14. 확대/축소 버튼의 위치 (초록색 영역)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/55bd7f61-0042-4c27-8924-8176c586251e">
 
 이미지를 확대하거나 축소해 보는 방법에는 여러가지가 있지만 이 메뉴가 가장 간단합니다. 더 정확한 값을 직접 입력할 수도 있습니다.
 
-#### 영상 3.2.2.10. 확대/축소 버튼으로 이미지의 크기를 조정하기
+### 8-2. 확대/축소 버튼으로 이미지의 크기를 조정하기
+#### 영상 3.2.2.81. 확대/축소 버튼으로 이미지의 크기를 조정하기
 <video controls="controls" width="720" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a1fea92d-db44-4fa8-a7d6-ba5527d25498"></video>
 
 ## 9. 상태 표시 영역 (Status Area)
-#### 그림 3.2.2.15. 상태 표시 영역의 위치 (초록색 영역)
+### 9-1. 상태 표시 영역의 위치
+#### 그림 3.2.2.91. 상태 표시 영역의 위치 (초록색 영역)
 <img width="720" alt="그림 3.2.2.15. 상태 표시 영역의 위치 (초록색 영역)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4c76f061-15ad-4bef-9f2d-a7d424c8d40e">
 
-상태 표시 영역은 이미지 창의 가장 아랫 부분에 있습니다. 기본적으로 상태 표시 영역에는 원본 이미지 `.xcf` 파일의 이름과 이미지의 시스템 메모리 사용량이 표시됩니다. 
-#### 그림 3.2.2.16. 이미지 창 아래의 상태 표시 영역
+상태 표시 영역은 이미지 창의 가장 아랫 부분에 있습니다. 
+
+### 9-2. 상태 표시 내용
+기본적으로 상태 표시 영역에는 원본 이미지 `.xcf` 파일의 이름과 이미지의 시스템 메모리 사용량이 표시됩니다. 
+#### 그림 3.2.2.92. 이미지 창 아래의 상태 표시 영역
 <img width="451" alt="그림 3.2.2.16. 이미지 창 아래의 상태 표시 영역" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b111c3d9-ae55-4b98-91cf-651f81dbb301">
 
+### 9-3. 상태 표시 정보 변경
 `GIMP`→ `기본 설정(Settings...)` → `이미지 창(Image Windows)` → `제목과 상태(Title & Status)`에서 상태 표시 영역에 표시되는 정보를 변경할 수 있습니다. 
 
-#### 그림 3.2.2.17. 상태 표시 영역(왼쪽: 우리말, 오른쪽: 영어)
-<img width="720" alt="그림 3.2.2.16. 상태 표시 영역(왼쪽: 우리말, 오른쪽: 영어)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a9f0ad58-eaca-4adf-9b8c-a5e99cdf6da7">
+#### 그림 3.2.2.93. `GIMP`→ `기본 설정` → `이미지 창` → `제목과 상태`
+<img width="699" alt="이미지창-제목과상태(우리말)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0c48190f-b68f-41e4-8fcd-6728490538ed">
+
+#### 그림 3.2.2.94. `GIMP`→ `Settings...` → `Image Windows` → `Title & Status`
+<img width="699" alt="image-window-title-n-status(en)" version="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d23da0fd-fc9d-42c1-924f-1b010df948e5">
 
 시간이 오래 걸리는 작업을 하는 경우, 작업이 진행되는 동안 상태 표시 영역에 진행 중인 작업 내용과 진행률이 표시됩니다.
 
