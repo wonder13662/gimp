@@ -252,7 +252,7 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 #### 그림 3.2.2.1311. 이미지의 위치 (초록색 영역)
 <img width="720" alt="그림 3.2.2.131. 이미지의 위치 (초록색 영역)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/79dd60af-6326-49e9-975c-b290d1a1d02a">
 
-이미지 창 (Image Window)에서 가장 중요한 부분은 이미지와 캔버스입니다. 
+이미지 창 (Image Window)에서 가장 중요한 부분은 이미지와 캔버스입니다.(TODO 위치를 나타내는 것은 gif로 깜빡임을 나타내는 것도 좋을 것 같다) 
 
 ### 13-2. 이미지의 경계
 이미지 (Image Display)는 이미지 창의 가운데에 표시되며, 회색의 배경과 구분하는 노란 점선으로 둘러싸여 있습니다.
@@ -264,6 +264,21 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 아래에 설명된 확대 설정에 따라 이미지를 확대하거나 축소할 수 있습니다.
 
 ## 14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)
+### 14-1. 이미지 확대/축소 버튼의 위치
+#### 그림 3.2.2.1411. 이미지의 위치 (초록색 영역)
+<img width="720" alt="그림 3.2.2.1411. 이미지의 위치 (초록색 영역)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2a3744e1-8e1a-4f00-8300-6e4471a6642d">
+
+### 14-2. 이미지 확대/축소 버튼 사용하기
+#### 그림 3.2.2.1421. 이미지 확대/축소 버튼 활성화(ON)와 비활성화(OFF)
+<img width="200" alt="그림 3.2.2.1421. 이미지 확대/축소 버튼 활성화(ON)와 비활성화(OFF)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/43eb4ea5-5978-451f-ad26-676614ed0c01">
+
+이미지 창 (Image Window)의 크기를 변경해도 이미지 자체의 크기나 확대/축소 비율은 변하지 않습니다. 하지만 이 기능을 사용하면 이미지 창 변경할때 창의 크기에 따라 이미지의 확대/축소 비율이 변경됩니다. 따라서 이미지 창의 크기를 변경해도 항상 이미지의 같은 부분을 볼 수 있습니다.
+
+#### 영상 3.2.2.1422. 이미지 확대/축소 버튼 활성화(ON)일때의 동작
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0eb5ef47-cd40-4257-b15f-2fa10721a33f"></video>
+
+#### 영상 3.2.2.1422. 이미지 확대/축소 버튼 비활성화(OFF)일때의 동작
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9770cf33-e727-462c-987e-39ab3939412f"></video>
 
 ***
 
