@@ -241,6 +241,11 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1b8b315c-e71d-4414-926e-6daef83183ed"></video>
 
 ## 12. 비활성 여백 공간 (Inactive Padding Area)
+### 12-1. 비활성 여백 공간의 위치
+#### 그림 3.2.2.121. 비활성 여백 공간의 위치 (초록색 영역)
+<img width="720" alt="그림 3.2.2.121. 비활성 여백 공간의 위치 (초록색 영역)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/60f0da98-b237-4135-a560-1469129ac4dd">
+
+이미지 크기가 이미지 창(Image window)보다 작을 때, 비활성 여백 공간이 활성화된 이미지로부터 분리되어 나머지 공간으로 보여집니다. 비활성 여백 공간에는 필터나 작업을 적용할 수 없습니다.
 
 ## 13. 이미지 (Image Display)
 
