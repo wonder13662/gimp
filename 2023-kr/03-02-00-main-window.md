@@ -10,12 +10,12 @@
 GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single window mode)로 열립니다. 다중창 모드(multi-window mode)를 활성화하기 위해서는 이미지 메뉴바의 `Windows` → `Single-Window Mode` 옵션을 끄면 됩니다. GIMP를 종료한 뒤에는, 다시 GIMP 시작할 때 마지막으로 선택한 옵션으로 적용됩니다.
 
 #### "언어:영어"의 `Single-Window Mode`
-#### 그림 3.2.3. (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<img width="223" alt="single-window-en" src="https://github.com/wonder13662/gimp/assets/15767104/9c406b6a-063e-4d41-a45b-f2d7745bbf3d">
+#### 그림 3.2.3.
+<img width="223" alt="single-window-en" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9c406b6a-063e-4d41-a45b-f2d7745bbf3d">
 
 #### "언어:한국어"의 `Single-Window Mode`
-#### 그림 3.2.4. (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<img width="212" alt="single-window-mode-kr" src="https://github.com/wonder13662/gimp/assets/15767104/73aadfaa-00e8-4b45-8126-ff4eb0daae8d">
+#### 그림 3.2.4.
+<img width="212" alt="single-window-mode-kr" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/73aadfaa-00e8-4b45-8126-ff4eb0daae8d">
 
 ## 다중창 모드(multi-window mode)
 #### 그림 3.2. 다중창 모드 스크린샷
@@ -29,11 +29,11 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 ### 1. 기본 도구 상자(Toolbox)
 여러 가지 도구들을 선택할 수 있는 아이콘들이 모아져 있습니다. 그리고 전경색(Foreground color)/배경색(Background color)이 표시됩니다. [붓(Brushes)](./07-06-brushes.md), [무늬(Patterns)](./07-11-patterns.md), [그라디언트(Gradient)](./07-10-gradients.md), 현재 이미지의 아이콘 등을 추가할 수도 있습니다. `GIMP` → `기본 설정(Settings...)` → `인터페이스(Interface)` → `도구상자(Toolbox)` → `모양새(Appearance)`를 이용하여 추가로 표시할 수 있는 항목들을 표시하거나 숨길 수 있습니다.
 
-#### 그림 3.2.5. 설정-도구상자 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<img width="699" alt="설정-도구상자 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)" src="https://github.com/wonder13662/gimp/assets/15767104/82f5d614-ed74-4854-8f81-97d5061b27c7">
+#### 그림 3.2.5. 설정-도구상자
+<img width="699" alt="설정-도구상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/82f5d614-ed74-4854-8f81-97d5061b27c7">
 
-#### 그림 3.2.6. settings-toolbox (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<img width="699" alt="settings-toolbox(MacOS:Sonoma 14.2.1 GIMP 2.10.36)" src="https://github.com/wonder13662/gimp/assets/15767104/8bdcdb57-b077-4e35-bcbb-c38ee5b15f71">
+#### 그림 3.2.6. settings-toolbox
+<img width="699" alt="settings-toolbox" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8bdcdb57-b077-4e35-bcbb-c38ee5b15f71">
 
 #### 영상 3.2.1.
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
@@ -72,26 +72,26 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 
 ### 왼쪽, 오른쪽 판(Panel) 너비 수정하기
 왼쪽(1,2)과 오른쪽(4,5) 판(panel)의 너비는 마우스 커서가 각 판의 경계에 올라가 있을 경우 나타나는 이동 포인터(moving pointer)를 드래그해서 늘이거나 줄일 수 있습니다. 이동 포인터는 왼쪽 판의 오른쪽 경계, 오른쪽 판의 왼쪽 경계 위에 올라갈 경우 나타납니다. 각 판의 너비를 좁게 두고 싶다면, 도구 옵션의 아래의 스크롤바를 사용하면 됩니다.
-#### 영상 3.2.3. 왼쪽 판(panel)의 너비를 조정하는 경우 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/122a8fa7-0b37-4651-af7e-c5aea59ccb32"></video>
+#### 영상 3.2.3. 왼쪽 판(panel)의 너비를 조정하는 경우
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/122a8fa7-0b37-4651-af7e-c5aea59ccb32"></video>
 
-#### 영상 3.2.4. 오른쪽 판(panel)의 너비를 조정하는 경우 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/49be469f-50cb-47d0-9a91-6b0247b56ee5"></video>
+#### 영상 3.2.4. 오른쪽 판(panel)의 너비를 조정하는 경우
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/49be469f-50cb-47d0-9a91-6b0247b56ee5"></video>
 
 ### 이미지 창(Image window) 제어하기
 이미지는 왼쪽과 오른쪽 판(panel) 사이에 가득차게 표시됩니다. 여러 개의 이미지가 열리면, 이미지 창 위에 모든 이미지의 탭이 보이는 새로운 바(bar)가 나타납니다.
-#### 영상 3.2.5. (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7f7cff40-6263-4edb-a536-9d4fcfe022f8"></video>  
+#### 영상 3.2.5.
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7f7cff40-6263-4edb-a536-9d4fcfe022f8"></video>  
 
 ### 열어놓은 이미지 선택하기
-#### 영상 3.2.6. 이미지 탭을 클릭하기 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ee8e8031-edfb-4885-92ca-98f8fa72995f"></video>  
+#### 영상 3.2.6. 이미지 탭을 클릭하기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ee8e8031-edfb-4885-92ca-98f8fa72995f"></video>  
 
-#### 영상 3.2.7. Ctrl(Windows, Mac) + `Page Up` or `Page Down` (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ffd040b7-a63c-4db1-882d-a76a44d45d4a"></video>
+#### 영상 3.2.7. Ctrl(Windows, Mac) + `Page Up` or `Page Down`
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ffd040b7-a63c-4db1-882d-a76a44d45d4a"></video>
 
-#### 영상 3.2.8. Alt(Windows) or ⌥(Mac) + `숫자키` (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/262a1036-9dc3-4cb8-82f9-825383aec2b9"></video>
+#### 영상 3.2.8. Alt(Windows) or ⌥(Mac) + `숫자키`
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/262a1036-9dc3-4cb8-82f9-825383aec2b9"></video>
 <br/>
 ("숫자키"는 탭의 번호를 의미합니다. 1번부터 시작합니다) - 키보드 위쪽의 숫자키를 사용해야 합니다. 키보드 오른쪽의 키패드의 숫자키는 허용되지 않습니다.
 
@@ -132,8 +132,8 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 #### 그림 3.2.12. `Windows` → `Recently Closed Docks`
 <img width="337" alt="windows-recently-closed-docks" src="https://github.com/wonder13662/gimp/assets/15767104/f1c526e6-40a5-4eaf-a40e-6715d3420a46">
 
-#### 영상 3.2.9. ⚠️탭을 닫고나서 `최근 닫은 독`의 목록에 아무것도 없음 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/28a9dde1-984f-4639-85b5-16e3aca8a8af"></video>
+#### 영상 3.2.9. ⚠️탭을 닫고나서 `최근 닫은 독`의 목록에 아무것도 없음
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/28a9dde1-984f-4639-85b5-16e3aca8a8af"></video>
 
 ### 창 메뉴(Window menu)
 창 메뉴는 열려있는 이미지가 있을 때에만 사용이 가능합니다. 
@@ -142,14 +142,14 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 ### `탭 설정(Configure this tab)` 버튼
 독(dock)에 탭을 추가하거나, 닫기, 떼어내기를 하려면 대화 상자의 오른쪽 상단에 있는 `탭 설정(Configure this tab)` 버튼을 클릭합니다. 이 버튼을 누르면 탭 메뉴가 표시됩니다. 메뉴에서 `탭 추가(Add Tab)`, `탭 닫기(Close Tab)`, 또는 `탭 떼어내기(Detach Tab)` 중 필요한 메뉴를 선택합니다.
 
-#### 영상 3.2.10. 탭 추가(Add Tab) (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c2859f79-24af-41ff-8ec6-e859da6c8fb8"></video>
+#### 영상 3.2.10. 탭 추가(Add Tab)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2859f79-24af-41ff-8ec6-e859da6c8fb8"></video>
 
-#### 영상 3.2.11. 탭 닫기(Close Tab) (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5d38720a-30b5-4466-9719-292c7f66dc5c"></video>
+#### 영상 3.2.11. 탭 닫기(Close Tab)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5d38720a-30b5-4466-9719-292c7f66dc5c"></video>
 
-#### 영상 3.2.12. 탭 떼어내기(Detach Tab) (MacOS:Sonoma 14.2.1 GIMP 2.10.36)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/50310e90-46d0-445f-9801-a676bd5db9e7"></video>
+#### 영상 3.2.12. 탭 떼어내기(Detach Tab)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/50310e90-46d0-445f-9801-a676bd5db9e7"></video>
 
 [다음 절(3.2.1. 기본 도구 상자)](./03-02-01-the-toolbox.md)에서는 스크린샷에 있는 각 창(Window)의 구성 요소들과 기능에 대해 설명하겠습니다. [3.2.1. 기본 도구 상자](./03-02-01-the-toolbox.md)와 [GIMP 이미지의 기본 구조]()를 통해 GIMP를 이용한 기본적인 이미지 편집의 다양한 방법을 배울 수 있습니다.
 (TODO "GIMP 이미지의 기본 구조"는 어떤 페이지인지 확인이 필요함)
