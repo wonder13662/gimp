@@ -1019,7 +1019,8 @@ module.exports = {
       ],
       [
         '15-02-06-navigation-dialog.md', 
-        '15.2.6. Navigation dialog'
+        '15.2.6. Navigation dialog',
+        '15.2.6. 내비게이션 대화상자'
       ],
       [
         '15-02-07-undo-history-dialog.md', 
