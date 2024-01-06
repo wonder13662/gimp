@@ -77,7 +77,7 @@
 붓(Brushes), 무늬(Patterns), 그라디언트(gradient) 등 무언가를 선택할 수 있는 대화상자에만 활성화되는 항목입니다. 선택된 아이템의 `현재 상태`를 탭의 위쪽에 보여줍니다.
 
 #### 영상 3.2.3.2.20. 붓 탭의 스타일: 현재상태 보기
-<img width="200" alt="영상 3.2.3.2.20. 붓 탭의 스타일: 현재상태 보기" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/73d77775-a0de-466f-b580-620b497401cf">
+<video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/73d77775-a0de-466f-b580-620b497401cf"></video>
 
 #### 텍스트 (Text)
 대화상자의 종류를 텍스트로 표시합니다.
@@ -89,7 +89,7 @@
 현재 선택된 항목을 대화 상자 종류와 함께 표시합니다. 현재 상태(Current Status)와 텍스트(Text)를 합친 기능입니다.
 
 #### 영상 3.2.3.2.21. 붓 탭의 스타일: 상태와 글자
-<img width="200" alt="영상 3.2.3.2.21. 붓 탭의 스타일: 상태와 글자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/eecfbd62-cc8e-42b7-bfcb-61615a1eede5">
+<video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/eecfbd62-cc8e-42b7-bfcb-61615a1eede5"></video>
 
 #### Automatic
 기본 값입니다. 탭의 공간에 맞춰 스타일을 바꿉니다. 텍스트 스타일은 많은 공간이 필요해서 항상 가능하지는 않습니다.
@@ -98,6 +98,19 @@
 <video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/94534a21-f1b3-46df-8655-e934ae38ee9b"></video>
 
 ### 목록으로 보기/격자로 보기 (View as List; View as Grid)
+#### 목록 형태
+각 아이템들을 아이콘, 이름과 함께 세로 목록 형태로 표시합니다. 각 아이템에 대한 자세한 정보를 확인할 수 있습니다.
+
+#### 격자 형태 
+각 아이템들을 이름을 제외하고 아이콘만 표시합니다. 한번에 더 많은 아이템을 볼 수 있습니다.
+
+#### 기본 형태
+붓(Brushes)과 무늬(Patterns) 대화상자는 `격자로 보기`이고, 나머지는 `목록으로 보기`입니다.
+
+#### 목록 검색하기
+(TODO macOS에서 검색 기능은 작동하지 않습니다)
+
+
 ### 버튼바 표시 (Show Button Bar)
 ### 이미지 선택 표시 (Show Image Selection)
 ### 자동으로 활성화된 이미지 표시하기 (Auto Follow Active Image)
