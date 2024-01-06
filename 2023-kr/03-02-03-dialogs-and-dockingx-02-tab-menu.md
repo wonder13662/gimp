@@ -94,27 +94,68 @@
 #### Automatic
 기본 값입니다. 탭의 공간에 맞춰 스타일을 바꿉니다. 텍스트 스타일은 많은 공간이 필요해서 항상 가능하지는 않습니다.
 
-#### 영상 3.2.3.2.21. 탭 스타일 설정하기
+#### 영상 3.2.3.2.22. 탭 스타일 설정하기
 <video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/94534a21-f1b3-46df-8655-e934ae38ee9b"></video>
 
 ### 목록으로 보기/격자로 보기 (View as List; View as Grid)
 #### 목록 형태
 각 아이템들을 아이콘, 이름과 함께 세로 목록 형태로 표시합니다. 각 아이템에 대한 자세한 정보를 확인할 수 있습니다.
 
+#### 그림 3.2.3.2.23. 목록 형태
+<img width="318" alt="목록보기" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e730d89c-6cb6-407a-a2ce-33f5fcc367da">
+
 #### 격자 형태 
 각 아이템들을 이름을 제외하고 아이콘만 표시합니다. 한번에 더 많은 아이템을 볼 수 있습니다.
+
+#### 그림 3.2.3.2.24. 격자 형태
+<img width="318" alt="격자보기" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9b5ac8f1-7e1e-40bf-a5d5-f37a98aaf003">
 
 #### 기본 형태
 붓(Brushes)과 무늬(Patterns) 대화상자는 `격자로 보기`이고, 나머지는 `목록으로 보기`입니다.
 
 #### 목록 검색하기
-(TODO macOS에서 검색 기능은 작동하지 않습니다)
-
+(TODO macOS에서 검색 기능은 작동하지 않습니다. 필터 검색을 말한 것일까요?)
 
 ### 버튼바 표시 (Show Button Bar)
+붓(Brushes), 무늬(Patterns), 그라데이션(Gradations), 이미지(Images) 대화상자와 같은 일부 대화 상자에는 하단에 버튼바(Button Bar)가 있습니다. 버튼바(Button Bar)를 `버튼바 표시 (Show Button Bar)`를 토글해서 숨기거나 표시할 수 있습니다.
+
+#### 그림 3.15. 붓(Brushes) 대화상자의 버튼바(Button Bar)
+<img width="318" alt="그림 3.15. 붓(Brushes) 대화상자의 버튼바(Button Bar)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6e21ca40-7783-4df6-b21e-77ec165f4518">
+
+#### 영상 3.2.3.2.25. `버튼바 표시 (Show Button Bar)`를 토글
+<video controls="controls" width="636" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8bfb0b36-299b-4fe4-88f9-e137e428c1b9"></video>
+
 ### 이미지 선택 표시 (Show Image Selection)
-### 자동으로 활성화된 이미지 표시하기 (Auto Follow Active Image)
-### ? (Move to Screen)
+이 옵션은 다중창 모드에서만 사용할 수 있습니다. 이 옵션이 체크되어 있으면, 독(Dock)의 상단에 이미지 메뉴가 표시됩니다.
+
+#### 그림 3.2.3.2.26. `이미지 선택 표시`의 위치
+<img width="310" alt="그림 3.2.3.2.26. 이미지 선택 표시의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7093f208-3156-45d5-947f-c3590453bfb1">
+
+#### 영상 3.2.3.2.27. 다중창에서 이미지 창을 선택할 때마다 이미지 선택 표시의 내용이 바뀝니다
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d388c0bb-d596-406a-a154-ae52b4808828"></video>
+
+### 자동으로 현재 이미지 따라가기 (Auto Follow Active Image)
+이 옵션은 다중창 모드(multi-window mode)에서만 사용할 수 있습니다. 이 옵션은 여러 개의 이미지를 띄워놓고 작업할 경우에 유용합니다. 이 옵션을 선택하면 독(Dock)의 정보 표시 영역에 항상 이미지 선택 대화 상자의 목록에서 선택한 이미지의 정보가 표시됩니다. `자동으로 현재 이미지 따라가기` 옵션을 사용 중지하면, 이미지를 이미지 선택 대화 상자에서만 선택할 수 있습니다.
+
+#### 그림 3.2.3.2.28. `자동으로 현재 이미지 따라가기`의 위치
+<img width="956" alt="그림 3.2.3.2.28. `자동으로 현재 이미지 따라가기`의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1b3a5a3f-360e-41a6-9091-47e497cef2e0">
+
+#### 그림 3.2.3.2.29. `자동으로 현재 이미지 따라가기`의 영향을 받는 곳들
+<img width="1036" alt="그림 3.2.3.2.29. `자동으로 현재 이미지 따라가기`의 영향을 받는 곳들" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0ff346fe-8976-4a88-86e2-1813e16cfa70">
+
+위 이미지에서 표시된 정보들이 `자동으로 현재 이미지 따라가기`이 켜져 있는 경우에는 선택하는 이미지 창에 따라 바뀝니다.
+
+#### 영상 3.2.3.2.30. `자동으로 현재 이미지 따라가기`이 켜져 있어 선택하는 이미지 창의 정보가 표시됩니다.
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/037cf11c-c7a7-4b50-8414-3fc73b0c6e45"></video>
+
+#### 영상 3.2.3.2.31. `자동으로 현재 이미지 따라가기`이 꺼져 있어 선택하는 이미지 창의 정보는 표시되지 않습니다. 이미지 탭에서 선택하는 이미지의 정보가 표시됩니다.
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/37f5704e-0bc9-40ab-a567-b9b81235e21a"></video>
+
+### 화면으로 이동 (Move to Screen)
+이 옵션은 보통은 사용할 수 없습니다. 이 옵션은 어떤 디스플레이 화면에서 GIMP를 열 것인지 선택할 수 있는 하위 메뉴를 엽니다. 디스플레이 화면이 하나만 있다면 GIMP는 다른 디스플레이 화면으로 옮길 수 없습니다. 다른 옵션인 `화면 열기(Open Display...)`는 아직은 실험중인 기능입니다. 지금은 사용하지 않는 편이 좋습니다.
+
+#### 그림 3.2.3.2.32. `화면으로 이동`의 위치
+<img width="720" alt="그림 3.2.3.2.32. `화면으로 이동`의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ba4a2562-0d04-473c-918f-9c3d0bc7088c">
 
 ***
 
