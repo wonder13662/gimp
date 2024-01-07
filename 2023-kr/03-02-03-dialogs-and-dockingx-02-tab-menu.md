@@ -160,10 +160,10 @@
 ***
 
 ## 다른 페이지로 가기
-[Next: 3.3. 실행 취소하기](./03-03-undoing.md)
+[다음: 3.3. 실행 취소하기](./03-03-undoing.md)
 
-[Prev: 3.2.2. 이미지 창](./03-02-02-image-window.md)
+[이전: 3.2.2. 이미지 창](./03-02-02-image-window.md)
 
-[Parent: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
+[부모: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 
-[Home](./00-home.md)
+[최상위](./00-home.md)
