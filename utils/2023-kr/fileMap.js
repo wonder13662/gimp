@@ -114,7 +114,7 @@ module.exports = {
       [
         '03-04-08-flip-an-image.md', 
         '3.4.8. Flip an image',
-        '3.4.9. 이미지 뒤집기',
+        '3.4.8. 이미지 뒤집기',
       ],
       [
         '03-04-09-rotate-an-image.md', 
