@@ -3,12 +3,12 @@
 GIMP에서 이미지에 작업한 대부분의 일은 취소할 수 있습니다. 가장 최근에 한 작업을 취소하려면 이미지 메뉴에서 `편집` → `실행 취소`를 선택하거나 단축키 Ctrl + `z`(Windows) or ⌘ + `z`(Mac)을 사용합니다.
 
 #### 그림 3.3.1. `편집` → `실행 취소`
-<img width="1105" alt="그림 3.3.1. `편집` → `실행 취소`" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3d967e93-8e69-4a78-8168-6722b764915b">
+<img width="480" alt="그림 3.3.1. `편집` → `실행 취소`" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0f5d5b2f-86f6-4cde-b6b8-94e1b36f5cdb">
 
 실행 취소 또한 취소할 수 있는데, 이것은 실행 취소를 한 다음에 이미지 메뉴에서 `편집` → `재실행`을 선택하거나 단축키 Ctrl + `y`(Windows) or ⌘ + `y`(Mac)를 누르면 됩니다.
 
 #### 그림 3.3.2. `편집` → `재실행`
-<img width="1105" alt="그림 3.3.2. `편집` → `재실행`" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/21f2666d-8671-4a29-8384-fdf1ed25fdef">
+<img width="480" alt="그림 3.3.2. `편집` → `재실행`" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d86cf245-1448-4c1e-8191-7c42ef8fa64c">
 
 실행 취소와 재실행은 종종 특정 작업의 효과를 확인하기 위해 사용됩니다. 이는 대체로 빠르고, 추가적인 리소스도 필요하지 않고, 실행취소 이력에 어떠한 영향도 주지 않기 때문에 여러번 반복해도 괜찮습니다.
 
@@ -19,10 +19,10 @@ GIMP에서 이미지에 작업한 대부분의 일은 취소할 수 있습니다
 한번에 많은 과정을 실행 취소하거나 재실행을 자주한다면, 실행 취소 이력 대화상자를 이용하면 편리합니다.
 
 #### 그림 3.3.3. 창(Windows) → 실행취소 이력(Undo History)
-<img width="1080" alt="그림 3.3.3. 창(Windows) → 실행취소 이력(Undo History)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/277faca6-c757-4e61-a741-97fe7dacedf5">
+<img width="720" alt="그림 3.3.3. 창(Windows) → 실행취소 이력(Undo History)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a0980357-34e5-4286-b5ab-eefa6447c053">
 
 #### 그림 3.3.4. 실행 취소 기록(이력) 대화상자(Undo history dialog)
-<img width="720" alt="그림 3.3.4. 실행 취소 기록(이력) 대화상자(Undo history dialog)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6cc08e7c-f27c-452e-b5a7-05d81b1c54e1">
+<img width="480" alt="그림 3.3.4. 실행 취소 기록(이력) 대화상자(Undo history dialog)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9ae3f81d-ac31-49ab-a736-43d855819d86">
 
 주의: 우리말 버전의 경우, 도킹가능한 대화에서는 `실행취소 이력`, 독의 대화상자에서는 `실행 취소 기록`로 부르고 있습니다. 향후, 하나의 이름으로 맞출 필요가 있습니다.
 
@@ -53,7 +53,7 @@ GIMP의 실행 취소 기능으로 아주 작은 실행 취소 메모리만으�
 "실행 취소 기록"이 이미지를 구성하는 정보이지만, 이미지가 닫히고 이미지의 모든 리소스가 해제되면, "실행 취소 기록"은 사라집니다. 그러므로 마지막으로 저장한 이후로 이미지가 바뀌었다면, GIMP는 이미지를 정말 닫을 것인지 사용자에게 반드시 확인합니다.
 
 #### 그림 3.3.1.11 "이미지 닫기(Close View)"의 위치
-<img width="720" alt="그림 3.3.1.11 '이미지 닫기(Close View)'의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/977eb3e6-c7ac-45af-9fe1-93a31ac3577b">
+<img width="480" alt="그림 3.3.1.11 '이미지 닫기(Close View)'의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/711be274-2f0c-49ff-8f63-97b9c6b722f5">
 
 #### 영상 3.3.1.12 바뀐 이미지의 "이미지 닫기(Close View)"의 실행여부 확인
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/00f55691-d4a1-42d3-90a4-f3c8c75f50b3"></video>
