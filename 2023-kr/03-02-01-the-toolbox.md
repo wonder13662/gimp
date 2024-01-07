@@ -16,13 +16,13 @@
 기본값으로 전경색(Foreground color)/배경색(Background color) 아이콘만 표시되며, `GIMP`→ `기본 설정` → `인터페이스` → `도구 상자` → `모양새` 메뉴를 이용해 `활성화된 붓,무늬,그라디언트` 아이콘과 `활성화된 이미지` 아이콘을 추가할 수 있습니다. [12.1.13. 기본 도구 상자](./12-01-13-toolbox.md)
 
 #### 그림 3.2.1.1. `GIMP`→ `기본 설정` → `인터페이스` → `도구 상자` → `모양새`
-<img width="699" alt="기본설정-기본도구상자-모양새" src="https://github.com/wonder13662/gimp/assets/15767104/bbc345c3-c339-4c2b-b099-2c7f0dfc2029">
+<img width="699" alt="기본설정-기본도구상자-모양새" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/bbc345c3-c339-4c2b-b099-2c7f0dfc2029">
 
 #### 그림 3.2.1.2. `GIMP`→ `Settings...` → `Interface` → `Toolbox` → `Appearance`
-<img width="699" alt="settings-toolbox" src="https://github.com/wonder13662/gimp/assets/15767104/31f89128-f1e9-4cb0-8045-719b4a121a15">
+<img width="699" alt="settings-toolbox" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/31f89128-f1e9-4cb0-8045-719b4a121a15">
 
 #### 영상 3.2.1.3. `모양새(Appearance)`에서 아이콘 추가하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
 
 ### 1. 도구 아이콘
 이 아이콘들은 그림의 일부를 선택하거나, 칠하거나 변형시킬 수 있습니다. 도구들의 간단한 사용법은 [14.1.1. 소개(도구 상자)](./14-01-01-introduction.md) 섹션에 있고, 각 도구들에 대해서는 해당 페이지 안에 도구별로 자세히 설명되어 있습니다.
@@ -35,7 +35,7 @@
 GIMP의 현재 전경색과 배경색이 표시됩니다. 각 부분을 클릭하면 색상 선택 대화 상자가 나타나고 그곳에서 다른 색상으로 변경할 수 있습니다. 그리고 양방향 화살표를 클릭하면 두 색상을 맞바꿀 수 있으며, 왼쪽 하단의 조그만 심볼을 클릭하면 기본값인 검정색과 흰색으로 초기화할 수 있습니다.
 
 #### 영상 3.2.1.4. 전경색/배경색 제어하기(색상 변경, 색상 맞바꾸기, 색상 초기화)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8c499d07-443e-4a2e-bf27-4e3ec708cb6b"></video>
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8c499d07-443e-4a2e-bf27-4e3ec708cb6b"></video>
 
 ### 3. 붓(Brush)/무늬(Pattern)/그라디언트(Gradient)
 #### 붓(Brush)

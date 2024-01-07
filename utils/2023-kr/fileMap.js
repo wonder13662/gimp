@@ -557,7 +557,8 @@ module.exports = {
       ],
       [
         '12-01-02-system-resources.md', 
-        '12.1.2. System Resources'
+        '12.1.2. System Resources',
+        '12.1.2. 시스템 자원',
       ],
       [
         '12-01-03-debugging.md', 
