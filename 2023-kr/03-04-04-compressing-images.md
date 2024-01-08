@@ -52,6 +52,7 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9fd754fe-b40b-4160-b60e-417334775377"></video>
 
 ## 3.4.4.6. 화질 변화와 파일 크기
+여기서는 원본 `JPG` 파일을 다른 압축률로 저장하여 화질과 파일크기의 변화를 살펴봅니다.
 #### 영상 3.4.4.611. 화질 변화와 파일 크기 빠르게 보기
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cccb8006-c816-4140-8867-e7331cfff4e0"></video>
 
