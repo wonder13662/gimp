@@ -8,13 +8,16 @@
 GIMP에서 이미지들은 `.XCF` 파일 포맷으로 불러오거나 저장됩니다. `JPG` 이미지들도 열면 `.XCF` 파일 포맷으로 불러옵니다. 
 
 ## 3.4.4.1. "image-name.jpg 덮어쓰기(Overwrite image-name.jpg)"
-GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)` "이미지 내보내기(Export Image)" 대화상자를 열 수 있습니다.
+GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)`를 클릭하면 “JPEG로 이미지 내보내기(Export Image as JPEG)” 대화상자를 열 수 있습니다.
 
 #### 그림 3.4.4.11. `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)` 메뉴의 위치
 <img width="480" alt="그림 3.4.4.2. `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)` 메뉴의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b4cd76d8-b53c-4d71-8ffd-7d2d2d6aee5c">
 
+#### 그림 3.4.4.12. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자
+<img width="480" alt="그림 3.4.4.12. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/70c62a31-3d60-4d02-b6db-681ae20a9e08">
+
 ## 3.4.4.2. "Export As..."
-GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의  `파일(File)` → `Export As...`를 누르면 "이미지 내보내기(Export Image)" 대화상자를 열 수 있습니다.
+GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의  `파일(File)` → `Export As...`를 누르면 "이미지 내보내기(Export Image)" 대화상자를 열 수 있습니다. "이미지 내보내기(Export Image)" 대화상자에서 파일 이름과 확장자를 설정하면 다시 "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자를 열 수 있습니다.
 
 #### 그림 3.4.4.22. `파일(File)` → `Export As...` 메뉴의 위치
 <img width="480" alt="그림 3.4.4.1 '이미지 내보내기(Export Image)' 메뉴의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a9fa3a38-6aef-494b-98cd-ef25f62a6f27">
@@ -22,11 +25,20 @@ GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222
 #### 그림 3.22. `Export As...` 대화상자
 <img width="1280" alt="그림 3.22. '이미지 내보내기(Export Image)' 대화상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cccd8b1f-db92-43ba-8118-50b3b2e0c784">
 
+#### 그림 3.4.4.23. "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자
+<img width="480" alt="그림 3.4.4.12. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/70c62a31-3d60-4d02-b6db-681ae20a9e08">
+
 ## 3.4.4.3. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
-The dialog opens with the file name already typed in the Name box, with the default, `.png` extension. Delete the existing extension and type `JPG` instead, and GIMP will determine the file type from the file extension.
+"Export As..." 대화상자가 열리면 이름입력 필드에 기본값으로 현재 파일 이름이 이미 입력이 되어 있습니다. 파일 이름의 확장자를 지우고, `JPG`로 확장자 이름을 입력하면, GIMP는 사용자가 입력한 확장자 이름의 파일타입으로 설정합니다.
+
+#### 영상 3.4.4.3.1. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
 
 ## 3.4.4.4. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 목록에서 선택)
-Use the file extension list, marked with red in the figure above, to see the types supported by GIMP. The supported extensions change depending on your installed libraries. If GIMP complains, of if "JPEG" is grayed out in the Extension menu, cancel out of everything and step through the [3.4.7. 모드 바꾸기](./03-04-07-change-the-mode.md). Once you have done this, click `Save`. This opens the "Export Image as JPEG" dialog that contains the quality control.
+GIMP에서 지원하는 파일 타입을 확인하기 위해 "Export As..." 대화상자의 아래쪽의 "파일 유형 선택(Select File Type)"의 목록을 엽니다.
+
+GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 따라 달라집니다. 만약 "JPEG" 확장자가 비활성화되어 있다면, 취소한 뒤에 [3.4.7. 모드 바꾸기](./03-04-07-change-the-mode.md)의 과정을 진행해주세요. 그 이후, `내보내기(Export)` 버튼을 클릭하면 "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자를 열 수 있습니다.
+
+#### 영상 3.4.4.4.1. "파일 유형 선택(Select File Type)"의 목록 열기
 
 ## 3.4.4.5. "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자
 "JPEG로 이미지 내보내기" 대화상자는 좋은 화질을 유지하면서 메모리 크기를 줄이는 기본값을 사용합니다. 대화상자의 `이미지 창에 미리 보기 표시(Show preview in image window)` 체크박스를 체크하면 화질을 바꿀때마다 변하는 이미지의 화질을 직접 확인할 수 있습니다.
@@ -86,10 +98,11 @@ Use the file extension list, marked with red in the figure above, to see the typ
 ## 3.4.4.7. 전체 과정 예시 영상
 ### 3.4.4.7.1. "Export As..."
 #### 영상 3.4.4.7.11. 전체 과정
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fb9a59e4-df6a-424c-b483-001f6642b320"></video>
 
 ### 3.4.4.7.2. "image-name.jpg 덮어쓰기(Overwrite image-name.jpg)"
 #### 영상 3.4.4.7.21. 전체 과정
-
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f5f165d9-dcb1-4039-81ce-cba09ed238b6"></video>
 
 ***
 
