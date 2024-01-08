@@ -14,7 +14,7 @@
 <img width="720" alt="그림 3.4.5.1. 이미지 메뉴 바의 잘라내기 메뉴 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/12bf916a-d9f8-4702-8939-f1aec828444d">
 
 #### 그림 3.4.5.1.2. 도구 상자(Toolbox)의 잘라내기 메뉴 위치
-<img width="720" alt="그림 3.4.5.2. 도구 상자(Toolbox)의 잘라내기 메뉴 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/80752056-f356-4a4d-8355-bdb659d1f089">
+<img width="320" alt="그림 3.4.5.2. 도구 상자(Toolbox)의 잘라내기 메뉴 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/80752056-f356-4a4d-8355-bdb659d1f089">
 
 #### 영상 3.4.5.1.3. 잘라내기 직접 해보기(이미지 메뉴 바의 잘라내기 메뉴)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/746c7197-2b70-4ae7-a9ef-134ea29961f5"></video>
