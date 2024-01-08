@@ -19,9 +19,9 @@
 
 [3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 
-[3.2.1. 기본 도구 상자](./03-02-01-the-toolbox.md)
+[3.2.1. 기본 도구 상자(The toolbox)](./03-02-01-the-toolbox.md)
 
-[3.2.2. 이미지 창](./03-02-02-image-window.md)
+[3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
 
 [3.2.2.1. 타이틀 바 (Title Bar)](./03-02-02-image-windowx-01-title-bar.md)
 

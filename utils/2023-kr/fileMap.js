@@ -54,12 +54,12 @@ module.exports = {
       [
         '03-02-01-the-toolbox.md', 
         '3.2.1. The toolbox',
-        '3.2.1. 기본 도구 상자',
+        '3.2.1. 기본 도구 상자(The toolbox)',
       ],
       [
         '03-02-02-image-window.md', 
         '3.2.2. Image window',
-        '3.2.2. 이미지 창',
+        '3.2.2. 이미지 창(Image window)',
       ],
       [
         '03-02-03-dialogs-and-docking.md', 
@@ -580,7 +580,7 @@ module.exports = {
       [
         '12-01-07-tool-options.md', 
         '12.1.7. Tool Options',
-        '12.1.7. 도구 옵션'
+        '12.1.7. 도구 옵션(Tool Options)'
       ],
       [
         '12-01-08-default-image-preferences.md', 
@@ -909,7 +909,8 @@ module.exports = {
       ],
       [
         '14-04-04-crop.md', 
-        '14.4.4. Crop'
+        '14.4.4. Crop',
+        '14.4.4. 이미지 잘라내기',
       ],
       [
         '14-04-05-rotate.md', 

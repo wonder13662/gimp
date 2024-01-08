@@ -10,6 +10,11 @@
 #### 그림 3.2.2.92. 이미지 창 아래의 상태 표시 영역
 <img width="451" alt="그림 3.2.2.16. 이미지 창 아래의 상태 표시 영역" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b111c3d9-ae55-4b98-91cf-651f81dbb301">
 
+#### 그림 3.2.2.92. 이미지 창 아래의 상태 표시 영역(이미지 잘라내기 시의 정보)
+<img width="720" alt="그림 3.2.2.92. 이미지 창 아래의 상태 표시 영역(이미지 잘라내기 시의 정보)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6aec1edb-2fd8-4a66-b2b2-be41480e1858">
+
+[3.4.5. 이미지 잘라내기](./03-04-05-crop-an-image.md)에서 다른 형태의 정보를 노출하는 것을 확인할 수 있습니다.
+
 ## 3.2.2.9.3. 상태 표시 정보 변경
 `GIMP`→ `기본 설정(Settings...)` → `이미지 창(Image Windows)` → `제목과 상태(Title & Status)`에서 상태 표시 영역에 표시되는 정보를 변경할 수 있습니다. 
 
