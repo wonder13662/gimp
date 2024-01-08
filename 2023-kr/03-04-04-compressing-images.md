@@ -49,11 +49,11 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 <img width="480" alt="그림 3.4.4.51. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/70c62a31-3d60-4d02-b6db-681ae20a9e08">
 
 #### 영상 3.4.4.52. `이미지 창에 미리 보기 표시(Show preview in image window)`를 켜고 화질 변화 및 파일 크기를 확인할 수 있습니다
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3d9fb420-813f-4020-9398-8780a984d948"></video>
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9fd754fe-b40b-4160-b60e-417334775377"></video>
 
 ## 3.4.4.6. 화질 변화와 파일 크기
 #### 영상 3.4.4.611. 화질 변화와 파일 크기 빠르게 보기
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e2f09f9b-4bd0-4b3a-a4fa-279730a8a148"></video>
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cccb8006-c816-4140-8867-e7331cfff4e0"></video>
 
 | 화질(%) | 원본 | 100 | 90 | 80 | 70 | 60 | 50 | 40 | 30 | 20 | 10 | 0 |
 | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
