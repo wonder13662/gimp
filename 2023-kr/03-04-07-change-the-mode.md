@@ -1,6 +1,34 @@
-# 3.4.7. Change the mode
+# 3.4.7. 모드 바꾸기
+이미지는 목적에 따라 다른 형식을 가집니다. 웹사이트 등에서는 파일의 크기가 작은 것이 중요합니다. 가족사진에서는 높은 품질의 색상정보가 필요합니다. GIMP에서는 이러한 목적에 맞는 이미지 형식을 처리할 수 있습니다. GIMP에서는 세 가지 기본 모드(RGB, 그레이스케일(Grayscale), 인덱스(Indexed))를 지원합니다. 그리고 서로 다른 모드로 전환할 수 있습니다.
 
-### [Home](./00-home.md)
-### [Parent: 3.4. Common tasks](./03-04-00-common-tasks.md)
-### [Prev: 3.4.6. Find info about your image](./03-04-06-find-info-about-your-image.md)
-### [Next: 3.4.8. Flip an image](./03-04-08-flip-an-image.md)
+#### 그림 3.4.7.1. 이미지 바 메뉴(Image Bar Menu)의 모드(Mode) 메뉴 위치
+<img width="480" alt="그림 3.4.7.1. 이미지 바 메뉴(Image Bar Menu)의 모드(Mode) 메뉴 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/54323ac1-1cbf-4a42-bc68-ab13a23eee1e">
+
+## 3.4.7.1. RGB
+기본모드로 높은 화질의 이미지가 필요할 때 사용합니다. RGB 모드에서는 수백만 개의 색상을 표시할 수 있습니다. 그리고 크기 변환, 잘라내기, 뒤집기 등 대부분의 작업 시에 사용합니다. RGB 모드는 각 픽셀이 Red, Green, Blue 세 가지 요소로 구성됩니다. 각 요소는 0-255의 값을 갖습니다. 
+
+## 3.4.7.2. 그레이스케일(Grayscale)
+그레이스케일 이미지는 오직 회색톤으로만 표현됩니다. 이 모드는 특수 목적용이거나 파일 크기를 줄이기 위해 사용됩니다. 
+
+## 3.4.7.3. 인덱스(Indexed)
+인덱스 모드는 파일 크기가 작아야 하거나, 이미지의 일부 색상만 가지고 작업해야 할 때 씁니다. 인덱스 모드는 전체 이미지의 색상으로 256개 이하의 고정된 개수의 색상을 사용합니다. 기본동작으로 이미지를 제한된 색상의 이미지로 바꿀 때, GIMP는 최적화된 팔레트(optimum palette)를 만들어서 이미지를 나타냅니다.
+
+#### 그림 3.33. "색인 색상 변환(Indexed Color Conversion)" 대화상자
+<img width="720" alt="그림 3.4.7.1. 이미지 바 메뉴(Image Bar Menu)의 모드(Mode) 메뉴 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/58305f99-c9a3-4761-9677-78efeb634bb9">
+
+각 픽셀의 색상을 표현하기 위한 정보가 그다지 많지 않기 때문에, 파일 크기는 굉장히 작습니다. 그리고 가끔 여러 메뉴에서 특별한 이유없이 비활성화된 옵션이 생길 수도 있습니다. 이것은 현재 모드에서는 해당 필터나 옵션을 사용할 수 없다는 의미로, RGB 모드로 바꿈으로써 이러한 문제를 해결할 수 있습니다. 만약 그래도 활성화가 되지 않는다면, 현재 레이어에 투명한 영역이 필요한 옵션이기 때문일 수도 있습니다. 그러한 경우에는 이미지 메뉴 바(Image Menu Bar)의 `레이어` → `투명` → `알파 채널 추가` 메뉴를 통해 알파 채널을 추가해 줍니다.
+
+#### 그림 3.34. 이미지 바 메뉴(Image Bar Menu)의 "알파 채널 추가(Add Alpha Chennel)" 메뉴 위치
+<img width="720" alt="그림 3.34. 이미지 바 메뉴(Image Bar Menu)의 '알파 채널 추가(Add Alpha Chennel)' 메뉴 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/67a1bd52-4d36-447b-90a9-cda507ba383d">
+
+GIMP는 똑똑한 내보내기 기능을 지원하기 때문에, 원하는 파일 형식으로 저장하기 전에 특정한 모드로 변환하지 않아도 알아서 변환이 됩니다.(TODO gif 이미지 변환시에 이런 사례가 보일 것 같음. 확인해보고 추가하자.)
+
+***
+
+[다음: 3.4.8. 이미지 뒤집기](./03-04-08-flip-an-image.md)
+
+[이전: 3.4.6. 이미지 정보 확인하기](./03-04-06-find-info-about-your-image.md)
+
+[부모: 3.4. 자주하는 편집 작업](./03-04-00-common-tasks.md)
+
+[최상위](./00-home.md)
