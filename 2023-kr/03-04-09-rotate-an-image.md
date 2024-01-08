@@ -18,6 +18,7 @@
 
 ***
 
+## 다른 페이지로 가기
 [다음: 3.4.10. 원하는 개체만 선택하여 분리하기](./03-04-10-separating-an-object-from-its-background.md)
 
 [이전: 3.4.8. 이미지 뒤집기](./03-04-08-flip-an-image.md)

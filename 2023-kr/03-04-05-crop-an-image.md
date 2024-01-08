@@ -56,6 +56,7 @@
 
 ***
 
+## 다른 페이지로 가기
 [다음: 3.4.6. 이미지 정보 확인하기](./03-04-06-find-info-about-your-image.md)
 
 [이전: 3.4.4. 이미지 압축하기](./03-04-04-compressing-images.md)
