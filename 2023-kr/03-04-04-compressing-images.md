@@ -1,7 +1,7 @@
 # 3.4.4. 이미지 압축하기
 
 #### 그림 3.4.4.1. JPEG 저장을 위한 예제 이미지
-<img width="480" alt="그림 3.4.4.1. JPEG 저장을 위한 예제 이미지" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f261315d-d269-4a77-b823-29ca7fb67e7d">
+<img width="480" alt="그림 3.4.4.1. JPEG 저장을 위한 예제 이미지" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/33acbd8d-9e23-4f3f-9e7e-4949bd5f1ec8">
 
 이미지 크기를 줄이지 않고도 이미지 파일의 용량을 줄일 수 있습니다. 가장 널리 사용되는 압축 이미지 형식은 `JPG`입니다. 압축의 수준을 다양하게 바꿔서 이미 이미지가 같은 `JPG` 포맷이더라도 더 적은 용량으로 줄일 수 있습니다. 다만 이미지가 용량이 줄어들면, 원본보다 이미지의 품질이 낮아집니다. 반복해서 `JPG` 포맷으로 저장하는 경우 점점 이미지의 품질이 낮아지는 것도 주의하세요.
 
@@ -32,6 +32,7 @@ GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222
 "Export As..." 대화상자가 열리면 이름입력 필드에 기본값으로 현재 파일 이름이 이미 입력이 되어 있습니다. 파일 이름의 확장자를 지우고, `JPG`로 확장자 이름을 입력하면, GIMP는 사용자가 입력한 확장자 이름의 파일타입으로 설정합니다.
 
 #### 영상 3.4.4.3.1. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
+<video controls="controls" width="1280" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9ec33a38-550c-4890-9250-9e9ee1eceb55"></video>
 
 ## 3.4.4.4. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 목록에서 선택)
 GIMP에서 지원하는 파일 타입을 확인하기 위해 "Export As..." 대화상자의 아래쪽의 "파일 유형 선택(Select File Type)"의 목록을 엽니다.
@@ -39,6 +40,7 @@ GIMP에서 지원하는 파일 타입을 확인하기 위해 "Export As..." 대�
 GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 따라 달라집니다. 만약 "JPEG" 확장자가 비활성화되어 있다면, 취소한 뒤에 [3.4.7. 모드 바꾸기](./03-04-07-change-the-mode.md)의 과정을 진행해주세요. 그 이후, `내보내기(Export)` 버튼을 클릭하면 "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자를 열 수 있습니다.
 
 #### 영상 3.4.4.4.1. "파일 유형 선택(Select File Type)"의 목록 열기
+<video controls="controls" width="1280" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/057ca909-dbd1-4db3-affd-e4a2a5692025"></video>
 
 ## 3.4.4.5. "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자
 "JPEG로 이미지 내보내기" 대화상자는 좋은 화질을 유지하면서 메모리 크기를 줄이는 기본값을 사용합니다. 대화상자의 `이미지 창에 미리 보기 표시(Show preview in image window)` 체크박스를 체크하면 화질을 바꿀때마다 변하는 이미지의 화질을 직접 확인할 수 있습니다.
