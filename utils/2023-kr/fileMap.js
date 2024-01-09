@@ -801,7 +801,8 @@ module.exports = {
       ],
       [
         '14-02-04-free-selection-lasso.md', 
-        '14.2.4. Free selection (lasso)'
+        '14.2.4. Free selection (lasso)',
+        '14.2.4. 자유 선택 도구(올가미)'
       ],
       [
         '14-02-05-fuzzy-selection-magic-wand.md', 
@@ -813,11 +814,13 @@ module.exports = {
       ],
       [
         '14-02-07-intelligent-scissors.md', 
-        '14.2.7. Intelligent scissors'
+        '14.2.7. Intelligent scissors',
+        '14.2.7. 똑똑한 가위'
       ],
       [
         '14-02-08-foreground-select.md', 
-        '14.2.8. Foreground select'
+        '14.2.8. Foreground select',
+        '14.2.8. 물체 선택 도구'
       ],
       [
         '14-03-00-paint-tools.md', 
@@ -837,7 +840,8 @@ module.exports = {
       ],
       [
         '14-03-04-bucket-fill.md', 
-        '14.3.4. Bucket fill'
+        '14.3.4. Bucket fill',
+        '14.3.4. 채우기 도구'
       ],
       [
         '14-03-05-gradient.md', 
