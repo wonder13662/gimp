@@ -1,5 +1,5 @@
 # 3.4.8. 이미지 뒤집기
-이 기능은 사진 속의 사람이 다른 방향을 보고 있도록 해야 하거나, 사진의 위쪽을 아래쪽으로 바꿔야 할 때 사용합니다. 이미지 메뉴 바의 `도구(Tools)` → `변형 도구(Transform Tools)` → `뒤집기(Flip)` 메뉴를 선택하거나 도구상자(Toolbox)의 뒤집기 버튼을 누릅니다.
+이 기능은 사진 속의 사람이 다른 방향을 보고 있도록 해야 하거나, 사진의 위쪽을 아래쪽으로 바꿔야 할 때 사용합니다. [이미지 메뉴 바(Image Menu Bar)](./03-02-02-image-windowx-02-image-menu.md)의 `도구(Tools)` → `변형 도구(Transform Tools)` → `뒤집기(Flip)` 메뉴를 선택하거나 도구상자(Toolbox)의 뒤집기 버튼을 누릅니다.
 
 #### 그림 3.35. 이미지 메뉴 바의 뒤집기(Flip) 메뉴
 <img width="480" alt="그림 3.35. 이미지 메뉴 바의 뒤집기(Flip) 메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e267cee6-2f16-4698-87ba-fe1e1cec99da">
