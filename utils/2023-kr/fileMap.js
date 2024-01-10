@@ -144,11 +144,12 @@ module.exports = {
       [
         '04-00-what-to-do-if-you-are-stuck.md', 
         '4. What to do if you are stuck',
-        '4. What to do if you are stuck',
+        '4. 문제 해결하기',
       ],
       [
         '04-01-introduction.md', 
-        '4.1. Introduction'
+        '4.1. Introduction',
+        '4.1. 소개',
       ],
       [
         '04-02-00-common-causes-of-gimp-non-responsiveness.md', 
@@ -863,7 +864,8 @@ module.exports = {
       ],
       [
         '14-03-09-eraser.md', 
-        '14.3.9. Eraser'
+        '14.3.9. Eraser',
+        '14.3.9. 지우개'
       ],
       [
         '14-03-10-airbrush.md', 
