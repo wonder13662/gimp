@@ -22,6 +22,7 @@
 - [문지르기(Smudge)](./14-03-16-smudge.md)
 - [흐릿하게/선명하게(Blur/Sharpen)](./14-03-15-blur-sharpen.md)
 - [닷지/번(Dodge/Burn)](./14-03-17-dodge-burn.md)
+- [지우개(Eraser)](./14-03-09-eraser.md)
 
 이번 예제에서는 붓(Paintbrush)를 사용해보도록 하겠습니다.
 
@@ -158,6 +159,16 @@
 
 #### 영상 3.5.1.6.11.3. 닷지/번(Dodge/Burn)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4b92840d-58f5-4c5d-b664-87a6227dc0c8"></video>
+
+### 3.5.1.6.12. 지우개(Eraser)
+#### 그림 3.5.1.6.12.1. 이미지 메뉴 바(Image Menu Bar)의 지우개(Eraser)의 위치
+<img width="480" alt="그림 3.5.1.6.12.1. 이미지 메뉴 바(Image Menu Bar)의 지우개(Eraser)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b06e8223-b45d-4ea1-a3b0-1071a2971eca">
+
+#### 그림 3.5.1.6.12.2. 도구상자(Toolbox)의 지우개(Eraser)의 위치
+<img width="210" alt="그림 3.5.1.6.12.2. 도구상자(Toolbox)의 지우개(Eraser)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/660e5e4d-403e-423a-ad24-bb934751f8d7">
+
+#### 영상 3.5.1.6.12.3. 지우개(Eraser)의 직선그리기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8a80fba9-b6e8-41fd-bd2c-6427f7175a37"></video>
 
 ***
 
