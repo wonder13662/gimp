@@ -853,11 +853,13 @@ module.exports = {
       ],
       [
         '14-03-07-paintbrush.md', 
-        '14.3.7. Paintbrush'
+        '14.3.7. Paintbrush',
+        '14.3.7. 그리기 붓'
       ],
       [
         '14-03-08-mypaint-brush.md', 
-        '14.3.8. Mypaint brush'
+        '14.3.8. Mypaint brush',
+        '14.3.8. Mypaint 붓',
       ],
       [
         '14-03-09-eraser.md', 
@@ -865,35 +867,43 @@ module.exports = {
       ],
       [
         '14-03-10-airbrush.md', 
-        '14.3.10. Airbrush'
+        '14.3.10. Airbrush',
+        '14.3.10. 에어브러시',
       ],
       [
         '14-03-11-ink.md', 
-        '14.3.11. Ink'
+        '14.3.11. Ink',
+        '14.3.11. 잉크'
       ],
       [
         '14-03-12-clone.md', 
-        '14.3.12. Clone'
+        '14.3.12. Clone',
+        '14.3.12. 도장',
       ],
       [
         '14-03-13-heal.md', 
-        '14.3.13. Heal'
+        '14.3.13. Heal',
+        '14.3.13. 복원',
       ],
       [
         '14-03-14-perspective-clone.md', 
-        '14.3.14. Perspective clone'
+        '14.3.14. Perspective clone',
+        '14.3.14. 원근 도장'
       ],
       [
         '14-03-15-blur-sharpen.md', 
-        '14.3.15. Blur/sharpen'
+        '14.3.15. Blur/sharpen',
+        '14.3.15. 흐릿하게/선명하게'
       ],
       [
         '14-03-16-smudge.md', 
-        '14.3.16. Smudge'
+        '14.3.16. Smudge',
+        '14.3.16. 문지르기',
       ],
       [
         '14-03-17-dodge-burn.md', 
-        '14.3.17. Dodge/burn'
+        '14.3.17. Dodge/burn',
+        '14.3.17. 닷지/번',
       ],
       [
         '14-04-00-transform-tools.md', 

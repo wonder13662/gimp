@@ -1,6 +1,7 @@
-# 3.5. How to draw straight lines
+# 3.5. 직선 그리기
 
-## [3.5.1. Intention](./03-05-01-intention.md)
-## [3.5.2. Examples](./03-05-02-examples.md)
+[3.5.1. 목적](./03-05-01-intention.md)
 
-### [Home](./00-home.md)
+[3.5.2. 예제들](./03-05-02-examples.md)
+
+[최상위](./00-home.md)
