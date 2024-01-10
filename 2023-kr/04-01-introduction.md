@@ -1,6 +1,14 @@
-# 4.1. Introduction
+# 4.1. 소개
+도구를 사용해서 이미지를 편집하는데, 아무 일도 일어나지 않고, 아무것도 바꿀 수 없게 되었다면, 어떻게 해야 할까요? 보통 이런 문제의 원인은 아래의 체크리스트를 확인해본다면 어렵지 않게 찾을 수 있습니다. 
 
-### [Home](./00-home.md)
-### [Parent: 4. What to do if you are stuck](./04-00-what-to-do-if-you-are-stuck.md)
-### [Prev: 3.5.2. Examples](./03-05-02-examples.md)
-### [Next: 4.2.1. There is a floating selection](./04-02-01-there-is-a-floating-selection.md)
+***
+
+## 다른 페이지로 가기
+
+[다음: 4.2.1. 떠있는 선택](./04-02-01-there-is-a-floating-selection.md)
+
+[이전: 3.5.2. 예제들](./03-05-02-examples.md)
+
+[부모: 4. 문제 해결하기](./04-00-what-to-do-if-you-are-stuck.md)
+
+[최상위](./00-home.md)

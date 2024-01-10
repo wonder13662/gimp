@@ -172,6 +172,8 @@
 
 ***
 
+## 다른 페이지로 가기
+
 [다음: 3.5.2. 예제들](./03-05-02-examples.md)
 
 [이전: 3.4.10. 원하는 개체만 선택하여 분리하기](./03-04-10-separating-an-object-from-its-background.md)

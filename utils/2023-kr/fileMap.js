@@ -158,7 +158,8 @@ module.exports = {
       ],
       [
         '04-02-01-there-is-a-floating-selection.md', 
-        '4.2.1. There is a floating selection'
+        '4.2.1. There is a floating selection',
+        '4.2.1. 떠있는 선택',
       ],
       [
         '04-02-02-the-selection-is-hidden.md', 
@@ -222,7 +223,8 @@ module.exports = {
       ],
       [
         '04-03-00-how-to-fix-missing-windows-and-dialogs.md', 
-        '4.3. How to fix missing windows and dialogs'
+        '4.3. How to fix missing windows and dialogs',
+        '4.3. 잃어버린 창과 대화상자 해결하기',
       ],
       [
         '04-03-01-all-tool-windows-are-missing.md', 
@@ -242,7 +244,8 @@ module.exports = {
       ],
       [
         '04-04-00-how-to-fix-problems-exporting-images.md', 
-        '4.4. How to fix problems exporting images'
+        '4.4. How to fix problems exporting images',
+        '4.4. 이미지 내보내기 할 때의 문제 해결하기',
       ],
       [
         '04-04-01-i-am-exporting-to-a-jpeg-image-and-my-transparent-area-turned-white-or-black.md', 
