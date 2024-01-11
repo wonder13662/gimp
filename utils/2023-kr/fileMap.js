@@ -365,7 +365,8 @@ module.exports = {
       ],
       [
         '07-03-00-the-quickmask.md', 
-        '7.3. The quickmask'
+        '7.3. The quickmask',
+        '7.3. 퀵마스크'
       ],
       [
         '07-03-01-overview.md', 
