@@ -1,4 +1,4 @@
-# 4.2. Common causes of GIMP non responsiveness
+# 4.2. GIMP(김프)가 멈추었을 때의 원인
 
 ## [4.2.1. There is a floating selection](./04-02-01-there-is-a-floating-selection.md)
 ## [4.2.2. The selection is hidden](./04-02-02-the-selection-is-hidden.md)

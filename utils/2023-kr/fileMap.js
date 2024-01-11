@@ -159,11 +159,12 @@ module.exports = {
       [
         '04-02-01-there-is-a-floating-selection.md', 
         '4.2.1. There is a floating selection',
-        '4.2.1. 떠있는 선택',
+        '4.2.1. 떠있는 선택(floating selection)',
       ],
       [
         '04-02-02-the-selection-is-hidden.md', 
-        '4.2.2. The selection is hidden'
+        '4.2.2. The selection is hidden',
+        '4.2.2. 숨겨진 선택',
       ],
       [
         '04-02-03-you-are-acting-outside-the-selection.md', 
@@ -341,7 +342,8 @@ module.exports = {
       ],
       [
         '07-02-01-moving-or-resizing-a-selection.md', 
-        '7.2.1. Moving or resizing a selection'
+        '7.2.1. Moving or resizing a selection',
+        '7.2.1. 선택 영역 옮기기 또는 크기 조절하기',
       ],
       [
         '07-02-02-adding-or-subtracting-selections.md', 
@@ -933,19 +935,23 @@ module.exports = {
       ],
       [
         '14-04-05-rotate.md', 
-        '14.4.5. Rotate'
+        '14.4.5. Rotate',
+        '14.4.5. 회전',
       ],
       [
         '14-04-06-scale.md', 
-        '14.4.6. Scale'
+        '14.4.6. Scale',
+        '14.4.6. 크기 조절',
       ],
       [
-        '14-04-07-shear.md', 
-        '14.4.7. Shear'
+        '14-04-07-shear.md',
+        '14.4.7. Shear',
+        '14.4.7. 기울이기',
       ],
       [
-        '14-04-08-perspective.md', 
-        '14.4.8. Perspective'
+        '14-04-08-perspective.md',
+        '14.4.8. Perspective',
+        '14.4.8. 원근',
       ],
       [
         '14-04-09-3d-transform.md', 
@@ -960,8 +966,9 @@ module.exports = {
         '14.4.11. Handle transform'
       ],
       [
-        '14-04-12-flip.md', 
-        '14.4.12. Flip'
+        '14-04-12-flip.md',
+        '14.4.12. Flip',
+        '14.4.12. 뒤집기',
       ],
       [
         '14-04-13-the-cage-tool.md', 
@@ -1016,7 +1023,7 @@ module.exports = {
         '15.2. Image structure related dialogs'
       ],
       [
-        '15-02-01-layers-dialog.md', 
+        '15-02-01-layers-dialog.md',
         '15.2.1. Layers dialog',
         '15.2.1. 레이어 대화상자'
       ],
@@ -1088,7 +1095,8 @@ module.exports = {
       ],
       [
         '15-04-01-buffers-dialog.md', 
-        '15.4.1. Buffers dialog'
+        '15.4.1. Buffers dialog',
+        '15.4.1. 버퍼(Buffers) 대화상자',
       ],
       [
         '15-04-02-images-dialog.md', 
@@ -1283,11 +1291,13 @@ module.exports = {
       ],
       [
         '16-03-08-paste.md', 
-        '16.3.8. Paste'
+        '16.3.8. Paste',
+        '16.3.8. 붙여넣기',
       ],
       [
         '16-03-09-paste-into-selection.md', 
-        '16.3.9. Paste into selection'
+        '16.3.9. Paste into selection',
+        '16.3.9. 선택 영역에 붙여넣기',
       ],
       [
         '16-03-10-paste-in-place.md', 
@@ -1359,7 +1369,8 @@ module.exports = {
       ],
       [
         '16-04-00-the-select-menu.md', 
-        '16.4. The select menu'
+        '16.4. The select menu',
+        '16.4. 선택 메뉴',
       ],
       [
         '16-04-01-introduction-to-the-select-menu.md', 
@@ -1375,15 +1386,18 @@ module.exports = {
       ],
       [
         '16-04-04-invert.md', 
-        '16.4.4. Invert'
+        '16.4.4. Invert',
+        '16.4.4. 선택 반전',
       ],
       [
-        '16-04-05-float.md', 
-        '16.4.5. Float'
+        '16-04-05-float.md',
+        '16.4.5. Float',
+        '16.4.5. 선택 띄우기(Float)'
       ],
       [
         '16-04-06-by-color.md', 
-        '16.4.6. By color'
+        '16.4.6. By color',
+        '16.4.6. 색상 선택',
       ],
       [
         '16-04-07-from-path.md', 
@@ -1498,7 +1512,8 @@ module.exports = {
       ],
       [
         '16-05-14-show-layer-boundary.md', 
-        '16.5.14. Show layer boundary'
+        '16.5.14. Show layer boundary',
+        '16.5.14. 레이어 경계 보이기',
       ],
       [
         '16-05-15-show-canvas-boundary.md', 
@@ -1713,8 +1728,9 @@ module.exports = {
         '16.7.1. Introduction to the "Layer" menu'
       ],
       [
-        '16-07-02-new-layer.md', 
-        '16.7.2. New layer'
+        '16-07-02-new-layer.md',
+        '16.7.2. New layer',
+        '16.7.2. 새 레이어',
       ],
       [
         '16-07-03-new-from-visible.md', 
@@ -1729,8 +1745,9 @@ module.exports = {
         '16.7.5. Duplicate layer'
       ],
       [
-        '16-07-06-anchor-layer.md', 
-        '16.7.6. Anchor layer'
+        '16-07-06-anchor-layer.md',
+        '16.7.6. Anchor layer',
+        '16.7.6. 레이어 고정',
       ],
       [
         '16-07-07-merge-down.md', 
