@@ -9,13 +9,15 @@
 #### 4.2.9.2.a1. 도구 옵션(Tool Options)의 불투명도(Opacity)가 0인 상태에서 작업
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/848ebe82-a4d8-44a4-9c99-f6c00c7870b4"></video>
 
+불투명도가 100인 상태에서는 정상적으로 붓으로 작업이 됩니다. 불투명도가 0인 상태에서는 붓으로 한 작업이 보이지 않습니다.
+
 ***
 
 ## 다른 페이지로 가기
 
-[다음: 4.2.10. No visible effect when trying to use the move tool rotate or other transform–tool](./04-02-10-no-visible-effect-when-trying-to-use-the-move-tool-rotate-or-other-transform–tool.md)
+[다음: 4.2.10. 이동, 회전 또는 다른 변형 도구로 작업한 효과가 보이지 않는 경우](./04-02-10-no-visible-effect-when-trying-to-use-the-move-tool-rotate-or-other-transform–tool.md)
 
-[이전: 4.2.8. The image is in indexed color mode](./04-02-08-the-image-is-in-indexed-color-mode.md)
+[이전: 4.2.8. 인덱스 모드에서의 이미지](./04-02-08-the-image-is-in-indexed-color-mode.md)
 
 [부모: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
 
