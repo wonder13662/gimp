@@ -6,12 +6,12 @@
 #### 영상 4.2.10.1.a1. 도구 옵션의 이동(Move) 할 때의 상태표시 영역의 메시지 노출
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/007f9e27-8fe1-4d38-9ea9-8ef9bd141bf6"></video>
 
-레이어를 이동(Move)하려고 할 때, 위의 도구 옵션이 선택(Selection), 경로(Path)이면 경고 메시지를 노출합니다.
+레이어를 이동(Move)하려고 할 때, 위의 도구 옵션이 선택(Selection), 경로(Path)이면 경고 메시지를 노출합니다.(TODO 경고 메시지의 오타가 있어 제보 필요)
 
 #### 영상 4.2.10.1.a2. 도구 옵션의 변형(Trnasform) 할 때의 상태표시 영역의 메시지 노출
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7540938e-e81f-49c9-ae78-5c5633cd9ccc"></video>
 
-레이어를 변형(Transform)하려고 할 때, 위의 도구 옵션이 선택(Selection), 경로(Path)이면 경고 메시지를 노출합니다.(TODO 경고 메시지의 오타가 있어 제보 필요)
+레이어를 변형(Transform)하려고 할 때, 위의 도구 옵션이 선택(Selection), 경로(Path)이면 경고 메시지를 노출합니다.
 
 ## 4.2.10.2. 해결방법
 [이미지 창(Image window)의 상태표시 영역](./03-02-02-image-window.md)의 메시지를 확인해보세요. 그 다음에 [도구 옵션](./14-01-04-tool-options.md)의 **선택(Selection)** 또는 **경로(Path)** 가 선택되어 있지 않은지 확인해주세요. 이 버튼들은 [변형 도구의 도구 옵션](./14-04-00-transform-tools.md)의 위쪽에 있습니다.
