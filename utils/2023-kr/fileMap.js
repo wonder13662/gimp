@@ -802,8 +802,9 @@ module.exports = {
         '14.1.3. Color and indicator area'
       ],
       [
-        '14-01-04-tool-options.md', 
-        '14.1.4. Tool options'
+        '14-01-04-tool-options.md',
+        '14.1.4. Tool options',
+        '14.1.4. 도구 옵션',
       ],
       [
         '14-02-00-selection-tools.md', 

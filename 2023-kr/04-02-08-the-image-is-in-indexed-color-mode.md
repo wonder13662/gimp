@@ -30,4 +30,4 @@ GIMP는 세가자의 컬러 모드를 사용합니다.[RGB(A), 그레이스케�
 
 [최상위](./00-home.md)
 
-[원문]()
+[원문](https://docs.gimp.org/2.10/ko/gimp-stuck-indexed-mode.html)
