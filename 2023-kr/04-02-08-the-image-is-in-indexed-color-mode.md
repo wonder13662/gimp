@@ -7,7 +7,7 @@ GIMP는 세가자의 컬러 모드를 사용합니다.[RGB(A), 그레이스케�
 가능한한 RGB 모드로 색을 칠하세요. 이미지 메뉴 바의 [모드(Mode)](./16-06-03-mode.md) 메뉴를 클릭해서 다른 컬러 모드를 선택하고 시험해볼 수 있습니다. 인덱스 모드로 작업해야 한다면 [색상표 대화상자](./15-02-04-colormap-dialog.md)에서 색깔을 고를 수 있습니다.
 
 #### 그림 4.2.8.1.a1. 이미지 메뉴 바의 모드(Mode) 메뉴 위치
-<img width="222" alt="그림 4.2.8.1.a1. 이미지 메뉴 바의 모드(Mode) 메뉴 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/06ef5a31-51c6-498f-b884-37871b04781b">
+<img width="480" alt="그림 4.2.8.1.a1. 이미지 메뉴 바의 모드(Mode) 메뉴 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/06ef5a31-51c6-498f-b884-37871b04781b">
 
 #### 그림 4.2.8.1.a2. 이미지 메뉴 바의 색상표(Colormap) 대화상자 메뉴 위치
 <img width="480" alt="그림 4.2.8.1.a2. 이미지 메뉴 바의 색상표(Colormap) 대화상자 메뉴 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/67090b33-5b61-4315-8174-8cb1e09f5ba5">
