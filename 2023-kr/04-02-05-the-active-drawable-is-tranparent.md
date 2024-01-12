@@ -2,6 +2,7 @@
 
 #### 그림 4.5. 레이어의 불투명도가 0인 경우
 <img width="480" alt="그림 4.5. 레이어의 불투명도가 0인 경우" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/edc97312-5242-453e-b074-065aa1d7976f">
+
 레이어 대화상자에서 활성화된 레이어의 불투명도가 0인 경우
 
 ## 4.2.5.1. 문제 확인
