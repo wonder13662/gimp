@@ -5,7 +5,7 @@
 레이어 대화상자에서 활성화된 레이어의 불투명도가 0인 경우
 
 ## 4.2.5.1. 문제 확인
-레이어의 불투명도(Opacity)가 0이라면, 그리는 것을 아무것도 볼 수 없습니다. [레이어 대화상자](./15-02-01-layers-dialog.md)의 윗쪽의 `불투명(Opacity)` 슬라이더의 값이 슬라이더의 값이 0 또는 매우 낮은 값이 아닌지 확인해보세요. 
+레이어의 불투명도(Opacity)가 0이라면, 그리는 것을 아무것도 볼 수 없습니다. [레이어 대화상자](./15-02-01-layers-dialog.md)의 위쪽의 `불투명(Opacity)` 슬라이더의 값이 슬라이더의 값이 0 또는 매우 낮은 값이 아닌지 확인해 보세요. 
 
 #### 영상 4.2.5.1.a1. 레이어 불투명도 0인 상태에서 붓 그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3932b264-e15c-4bd4-af86-fd59bcd8b6ec"></video>
