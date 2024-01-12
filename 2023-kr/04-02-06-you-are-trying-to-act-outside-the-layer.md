@@ -52,4 +52,4 @@ GIMP에서 레이어는 이미지와 같은 크기를 갖지 않을수도 있습
 
 [최상위](./00-home.md)
 
-[원문]()
+[원문](https://docs.gimp.org/2.10/ko/gimp-stuck-outside-layer.html)

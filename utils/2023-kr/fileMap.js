@@ -520,8 +520,9 @@ module.exports = {
         '8.4. Creating new layers'
       ],
       [
-        '08-05-layer-groups.md', 
-        '8.5. Layer groups'
+        '08-05-layer-groups.md',
+        '8.5. Layer groups',
+        '8.5. 레이어 그룹'
       ],
       [
         '09-00-text-management.md', 
