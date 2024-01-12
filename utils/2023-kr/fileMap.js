@@ -1046,7 +1046,7 @@ module.exports = {
       [
         '15-02-02-channel-dialog.md',
         '15.2.2. Channel dialog',
-        '15.2.2. 채널 대화 상자'
+        '15.2.2. 채널 대화상자'
       ],
       [
         '15-02-03-paths-dialog.md', 
@@ -1054,8 +1054,9 @@ module.exports = {
         '15.2.3. 경로 대화상자'
       ],
       [
-        '15-02-04-colormap-dialog.md', 
-        '15.2.4. Colormap dialog'
+        '15-02-04-colormap-dialog.md',
+        '15.2.4. Colormap dialog',
+        '15.2.4. 색상표(Colormap) 대화상자',
       ],
       [
         '15-02-05-histogram-dialog.md', 
