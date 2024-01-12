@@ -12,7 +12,11 @@ GIMP는 세가자의 컬러 모드를 사용합니다.[RGB(A), 그레이스케�
 #### 그림 4.2.8.1.a2. 이미지 메뉴 바의 색상표(Colormap) 대화상자 메뉴 위치
 <img width="480" alt="그림 4.2.8.1.a2. 이미지 메뉴 바의 색상표(Colormap) 대화상자 메뉴 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/67090b33-5b61-4315-8174-8cb1e09f5ba5">
 
-(TODO 인덱스 이미지의 색상표 추가 필요)
+#### 그림 4.2.8.1.a3. 색상표(Colormap) 대화상자
+<img width="480" alt="그림 4.2.8.1.a3. 색상표(Colormap) 대화상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f58cf8ea-5dfe-4f24-b8d0-864e8eb83bbf">
+
+#### 영상 4.2.8.1.a4. 색상모드를 인덱스로 바꿔 색상표(Colormap) 대화상자 만들기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e1b86121-19a0-4830-b091-c3a2db7e6d72"></video>
 
 ***
 
