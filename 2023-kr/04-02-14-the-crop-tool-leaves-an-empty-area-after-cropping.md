@@ -7,10 +7,10 @@
 잘라내기 도구의 [도구 옵션](./14-01-04-tool-options.md)의 `잘라낸 픽셀 삭제(Delete cropped pixels)`을 켭니다.
 
 ## 영상 4.2.14.2.a1. 도구 옵션의 잘라낸 픽셀 삭제(Delete cropped pixels) 켜고 잘라내기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2d2ecd8b-2674-4a7f-8faf-4d341193c4ac"></video>
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7edad087-e61d-468c-8a6d-a2e7ee1a4564"></video>
 
 ## 영상 4.2.14.2.a2. 도구 옵션의 잘라낸 픽셀 삭제(Delete cropped pixels) 끄고 잘라내기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/592160fa-22ba-4970-8fcc-651391842a40"></video>
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/664085c3-d727-4ef5-afaf-38fe9262f2a5"></video>
 
 ***
 
