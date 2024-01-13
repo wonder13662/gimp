@@ -1,6 +1,28 @@
-# 4.2.15. I've been waiting for a long time and GIMP is not responding
+# 4.2.15. 오랫동안 기다려도 GIMP가 반응하지 않습니다
 
-### [Home](./00-home.md)
-### [Parent: 4.2. Common causes of GIMP non responsiveness](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
-### [Prev: 4.2.14. The crop tool leaves an empty area after cropping](./04-02-14-the-crop-tool-leaves-an-empty-area-after-cropping.md)
-### [Next: 4.2.16. General guidelines on what to check if you are stuck](./04-02-16-general-guidelines-on-what-to-check-if-you-are-stuck.md)
+## 4.2.15.1. 문제
+마우스 커서가 로딩 상태로 돌고 있고, 창에서는 아무런 반응이 없고, GIMP에서 어떤 명령도 수행할 수 없습니다.
+
+## 4.2.15.2. 해결방법
+어떤 필터와 기능은 오래 걸립니다. 특히 큰 이미지나 작업중인 컴퓨터가 쓸수 있는 메모리가 별로 없는 경우에는 더욱 그렇습니다. 이런 경우에는 기다릴 필요가 있습니다. 이럴 때는 선택 영역을 지정해서 작업 범위를 줄이는 것이 도움이 될 수 있습니다.
+
+## 4.2.15.3. 버그를 이슈로 등록하기
+다른 소프트웨어와 마찬가지로 GIMP는 완벽하지 않습니다. 버그를 찾게 된다면 이슈로 등록해주세요. 여러분이 처음으로 발견한 것일수도 있습니다. 이슈로 등록하지 않는다면 다른 사람이 등록하기 전까지 버그는 수정되지 않을 겁니다. 
+
+제일 먼저, 최신 버전의 GIMP를 사용하고 있는지 확인해주세요. 만약 최신 버전이 아니라면 업데이트해주세요. 그런 뒤에 최신 버전에서 여전히 문제가 있는지 확인해주세요. 최신 버전에서도 여전히 문제가 발생한다면, [이슈 목록](https://gitlab.gnome.org/GNOME/gimp/-/issues)에서 이미 등록된 것은 아닌지 확인해주세요. 완료된 이슈에서도 검색해야 합니다. 완료된 이슈는 새로운 버전이 나오지 않아도 완료된 상태이기 때문입니다.
+
+이슈 목록과 완료된 이슈 중에서도 발견할 수 없다면, 새로운 이슈를 등록해주세요. 상세한 정보를 함께 기록해주세요. 문제가 있었던 상황의 운영체제, GIMP 버전, 어떤 도구 혹은 필터를 사용하여 어떻게 문제가 일어났는지 과정을 정확하게 알려주세요. 스크린샷을 추가하거나 이미지를 등록하면 큰 도움이 됩니다.
+
+***
+
+## 다른 페이지로 가기
+
+[다음: 4.2.16. 문제가 생겼을 때 확인해보면 좋은 것들](./04-02-16-general-guidelines-on-what-to-check-if-you-are-stuck.md)
+
+[이전: 4.2.14. 잘라내기 도구로 잘라낸 뒤에 빈 공간이 생깁니다](./04-02-14-the-crop-tool-leaves-an-empty-area-after-cropping.md)
+
+[부모: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
+
+[최상위](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-stuck-not-responding.html)
