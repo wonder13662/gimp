@@ -57,7 +57,7 @@ module.exports = {
         '3.2.1. 기본 도구 상자(The toolbox)',
       ],
       [
-        '03-02-02-image-window.md', 
+        '03-02-02-image-window.md',
         '3.2.2. Image window',
         '3.2.2. 이미지 창(Image window)',
       ],
@@ -243,19 +243,23 @@ module.exports = {
       ],
       [
         '04-03-01-all-tool-windows-are-missing.md', 
-        '4.3.1. All tool windows are missing'
+        '4.3.1. All tool windows are missing',
+        '4.3.1. 모든 도구창이 사라졌습니다',
       ],
       [
         '04-03-02-tool-options-dialog-is-missing.md', 
-        '4.3.2. Tool options dialog is missing'
+        '4.3.2. Tool options dialog is missing',
+        '4.3.2. 도구 옵션 대화상자가 사라졌습니다',
       ],
       [
         '04-03-03-some-of-the-tool-icons-are-missing.md', 
-        '4.3.3. Some of the tool icons are missing'
+        '4.3.3. Some of the tool icons are missing',
+        '4.3.3. 도구 아이콘이 사라졌습니다',
       ],
       [
         '04-03-04-the-area-showing-the-opened-images-at-the-top-is-missing.md', 
-        '4.3.4. The area showing the opened images at the top is missing'
+        '4.3.4. The area showing the opened images at the top is missing',
+        '4.3.4. 최상위에서 열린 이미지에서 보여지는 부분이 사라졌습니다',
       ],
       [
         '04-04-00-how-to-fix-problems-exporting-images.md', 
@@ -1149,7 +1153,8 @@ module.exports = {
       ],
       [
         '15-05-04-error-console.md', 
-        '15.5.4. Error console'
+        '15.5.4. Error console',
+        '15.5.4. 오류 콘솔',
       ],
       [
         '15-05-05-dashboard.md', 
@@ -1399,8 +1404,9 @@ module.exports = {
         '16.4.2. Select all'
       ],
       [
-        '16-04-03-none.md', 
-        '16.4.3. None'
+        '16-04-03-none.md',
+        '16.4.3. None',
+        '16.4.3. 없음(None)',
       ],
       [
         '16-04-04-invert.md', 
@@ -1599,7 +1605,8 @@ module.exports = {
       ],
       [
         '16-06-03-mode.md', 
-        '16.6.3. Mode'
+        '16.6.3. Mode',
+        '16.6.3. 이미지 모드',
       ],
       [
         '16-06-04-rgb-mode.md', 
