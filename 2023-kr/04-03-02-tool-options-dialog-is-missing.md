@@ -17,7 +17,6 @@
 ## 4.3.2.2. 이미지 메뉴 바(Image Menu Bar)로 '도구 옵션 대화상자' 되돌리기
 이미지 메뉴 바의 `창(Windows)` → `도킹가능한 대화(Dockable Dialogs)` → `도구 옵션(Tool Options)`를 사용할 수도 있습니다. 이 경우에 `도구 옵션(Tool Options)` 대화상자가 다른 독(dock)에 나타날 수 있습니다.
 
-If that happens, grab the that says Tool Options and drag it to where you need it.
 만일 다른 독(dock)에 대화상자가 나타났다면 클릭, 드래그해서 원하는 독(dock)으로 옮겨주세요.
 
 #### 그림 4.3.2.2.a1 이미지 메뉴 바의 '도구 옵션'
@@ -29,6 +28,7 @@ If that happens, grab the that says Tool Options and drag it to where you need i
 #### 영상 4.3.2.2.a3 '도구 옵션' 대화상자를 드래그해서 옮기기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4a654ab9-d649-477f-a106-694cc5f1f98d"></video>
 
+## 4.3.3. 대화상자를 독에 잠궈두기
 
 > 🗒️ 참고
 >
