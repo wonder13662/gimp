@@ -1,7 +1,9 @@
 # 4.3.1. 모든 도구창이 사라졌습니다
 
-#### 그림 4.8. 도구 대화상자가 모두 사라졌습니다(`Tab` 키 사용)
-<img width="480" alt="그림 4.8. 도구 대화상자가 모두 사라졌습니다(`Tab` 키 사용)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/af27b474-3b78-4609-98b0-b3b89530280f">
+#### 그림 4.8. 도구 대화상자가 모두 사라졌습니다(`탭(Tab)` 키 사용)
+<img width="1080" alt="그림 4.8. 도구 대화상자가 모두 사라졌습니다(`Tab` 키 사용)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/af27b474-3b78-4609-98b0-b3b89530280f">
+
+`탭(Tab)` 키를 눌러 GIMP의 주 윈도우의 도구 대화상자를 숨길 수 있습니다. 이미지 메뉴 바의 `창(Windows)` → `Hide Docks`의 단축키가 `탭(Tab)` 키인 것을 확인할 수 있습니다.
 
 #### 영상 4.3.1.a1. `Tab`키로 도구 대화상자 숨기기/보이기 사용(Windows)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb3e7385-20be-49ba-b5ce-33746c2b0ab0"></video>
