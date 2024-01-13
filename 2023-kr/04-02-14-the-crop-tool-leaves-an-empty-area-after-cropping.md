@@ -16,9 +16,9 @@
 
 ## 다른 페이지로 가기
 
-[Next: 4.2.15. 오랫동안 기다려도 GIMP가 반응하지 않습니다](./04-02-15-i-ve-been-waiting-for-a-long-time-and-gimp-is-not-responding.md)
+[다음: 4.2.15. 오랫동안 기다려도 GIMP가 반응하지 않습니다](./04-02-15-i-ve-been-waiting-for-a-long-time-and-gimp-is-not-responding.md)
 
-[Prev: 4.2.13. 붓 또는 지우개를 사용하면 이상한 색이 나옵니다](./04-02-13-unexpected-colors-when-trying-to-use-a-brush-or-eraser.md)
+[이전: 4.2.13. 붓 또는 지우개를 사용하면 이상한 색이 나옵니다](./04-02-13-unexpected-colors-when-trying-to-use-a-brush-or-eraser.md)
 
 [부모: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
 
