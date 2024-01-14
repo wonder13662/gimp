@@ -1,4 +1,5 @@
 # 90.1. 이미지 메뉴 바(Image Menu Bar)
+
 <img width="720" alt="90.1. 이미지 메뉴 바(Image Menu Bar)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/85463d2a-4897-4283-b76b-6a64241ccbd9">
 
 [90.1.1. 파일(File)](./90-01-01-file.md)
