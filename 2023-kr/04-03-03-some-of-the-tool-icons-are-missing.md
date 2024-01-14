@@ -47,7 +47,7 @@
 
 ## 다른 페이지로 가기
 
-[다음: 4.3.4. 최상위에서 열린 이미지에서 보여지는 부분이 사라졌습니다](./04-03-04-the-area-showing-the-opened-images-at-the-top-is-missing.md)
+[다음: 4.3.4. 이미지 창의 위쪽의 탭 바의 미리보기가 사라졌습니다](./04-03-04-the-area-showing-the-opened-images-at-the-top-is-missing.md)
 
 [이전: 4.3.2. 도구 옵션 대화상자가 사라졌습니다](./04-03-02-tool-options-dialog-is-missing.md)
 

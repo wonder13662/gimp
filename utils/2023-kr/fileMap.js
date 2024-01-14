@@ -259,7 +259,7 @@ module.exports = {
       [
         '04-03-04-the-area-showing-the-opened-images-at-the-top-is-missing.md', 
         '4.3.4. The area showing the opened images at the top is missing',
-        '4.3.4. 최상위에서 열린 이미지에서 보여지는 부분이 사라졌습니다',
+        '4.3.4. 이미지 창의 위쪽의 탭 바의 미리보기가 사라졌습니다',
       ],
       [
         '04-04-00-how-to-fix-problems-exporting-images.md', 
@@ -268,7 +268,8 @@ module.exports = {
       ],
       [
         '04-04-01-i-am-exporting-to-a-jpeg-image-and-my-transparent-area-turned-white-or-black.md', 
-        '4.4.1. I am exporting to a jpeg image and my transparent area turned white or black'
+        '4.4.1. I am exporting to a jpeg image and my transparent area turned white or black',
+        '4.4.1. jpeg 이미지로 내보냈더니 투명 부분이 흰색 또는 검은색으로 바뀌었습니다',
       ],
       [
         '04-04-02-i-am-exporting-to-a-gif-image-and-the-colors-changed.md', 
