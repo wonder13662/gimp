@@ -102,3 +102,5 @@
 [19. Glossary](./19-glossary.md)
 
 [20. Tone Mapping and Shadow Recovery Using GIMP's 'Colors/Exposure'](./20-00-tone-mapping-and-shadow-recovery-using-gimp-colors-exposure.md)
+
+[90. 이미지 맵](./90-00-image-map.md)
