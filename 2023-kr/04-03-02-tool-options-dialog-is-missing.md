@@ -52,4 +52,4 @@
 
 [최상위](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-using-getting-unstuck-gui.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-stuck-missing-tool-options.html)
