@@ -15,3 +15,12 @@
 
 <img width="720" alt="90.2.1.a4. 언어설정: 우리말 (영어) - mac" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/85ae2c95-5b2e-4a35-bdde-2d09dad8286a">
 
+***
+
+## 다른 페이지로 가기
+
+[다음: 90.2.2. 색상관리 (Color Management)](./90-02-02-color-management.md)
+
+[부모: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
+
+[최상위](./00-home.md)
