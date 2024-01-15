@@ -16,7 +16,7 @@
 
 #### 90.2.6.4.a4. 언어설정: 영어 - mac
 
-<img width="720" alt="90.2.6.4.a4. 언어설정: 영어 - mac" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f7c66027-cb16-4be2-bf79-d2b3b38601a7">
+<img width="720" alt="90.2.6.4.a4. 언어설정: 영어 - mac" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2fd0c118-2c91-4043-bbb4-7f88091fce51">
 
 ***
 
