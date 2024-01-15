@@ -34,7 +34,7 @@
 
 [90.2.7.1. 모양새 (Appearance)](./90-02-07-image-windowx-01-appearance.md)
 
-[90.2.7.2. 제목과 상태 (Title & Status)](./90-02-07-image-windowx-02-tile-n-status.md)
+[90.2.7.2. 제목과 상태 (Title & Status)](./90-02-07-image-windowx-02-title-n-status.md)
 
 [90.2.7.3. 달라붙기 설정 (Snapping)](./90-02-07-image-windowx-03-snapping.md)
 
