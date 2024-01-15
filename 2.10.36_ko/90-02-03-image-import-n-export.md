@@ -1,6 +1,23 @@
 # 90.2. 기본 설정(Preference)
 # 90.2.3. 이미지 불러오기 및 내보내기 (Image Import & Export)
 
+#### 90.2.3.a1. 언어설정: 우리말 (한국어) - windows
+
+<img width="720" alt="90.2.3.a1. 언어설정: 우리말 (한국어) - windows" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a5884460-99cc-44c3-92a0-ee6bf517cb79">
+
+#### 90.2.3.a2. 언어설정: 우리말 (한국어) - mac
+
+<img width="720" alt="90.2.3.a2. 언어설정: 우리말 (한국어) - mac" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/37c834d2-0fd1-42a2-9a86-4471802d79b3">
+
+#### 90.2.3.a3. 언어설정: 영어 - windows
+
+<img width="720" alt="90.2.3.a3. 언어설정: 영어 - windows" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8f0e09bd-9e9e-4677-9855-f7abbfc2df2d">
+
+#### 90.2.3.a4. 언어설정: 영어 - mac
+
+<img width="720" alt="90.2.3.a4. 언어설정: 영어 - mac" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ca697eb3-646f-4cff-9572-69f530bc6af9">
+
+
 ***
 
 ## 다른 페이지로 가기
