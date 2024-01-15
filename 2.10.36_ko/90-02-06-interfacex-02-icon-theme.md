@@ -1,3 +1,5 @@
+# 90.2. 기본 설정(Preference)
+# 90.2.6. 인터페이스 (Interface)
 # 90.2.6.2. 아이콘 테마 (Icon Theme)
 
 ***

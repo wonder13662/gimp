@@ -1,3 +1,4 @@
+# 90.2. 기본 설정(Preference)
 # 90.2.7. 이미지 창 (Image Windows)
 
 ***

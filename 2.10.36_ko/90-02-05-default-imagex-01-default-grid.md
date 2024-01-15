@@ -1,3 +1,5 @@
+# 90.2. 기본 설정(Preference)
+# 90.2.5. 기본 이미지(Default Image)
 # 90.2.5.1. 기본 격자(Default Grid)
 
 ***

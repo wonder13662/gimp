@@ -1,3 +1,5 @@
+# 90.2. 기본 설정(Preference)
+# 90.2.8. 입력 장치 (Input Devices)
 # 90.2.8.1. 입력 제어기 (Input Controllers)
 
 ***

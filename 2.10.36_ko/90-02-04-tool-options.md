@@ -1,3 +1,4 @@
+# 90.2. 기본 설정(Preference)
 # 90.2.4. 도구 옵션 (Tool Options)
 
 ***

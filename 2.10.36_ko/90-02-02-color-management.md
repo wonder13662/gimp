@@ -1,3 +1,4 @@
+# 90.2. 기본 설정(Preference)
 # 90.2.2. 색상관리 (Color Management)
 
 ***

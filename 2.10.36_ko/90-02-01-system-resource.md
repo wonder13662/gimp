@@ -1,3 +1,4 @@
+# 90.2. 기본 설정(Preference)
 # 90.2.1. 시스템 리소스 (System Resource)
 #### 90.2.1.a1. 언어설정: 우리말 (한국어) - windows
 
