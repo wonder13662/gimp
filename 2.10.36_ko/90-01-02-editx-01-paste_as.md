@@ -2,11 +2,11 @@
 # 90.1.2. 편집(Edit)
 # 90.1.2.1. 편집(Edit) - 붙여넣기(Paste as)
 
-#### 그림 90.1.2.1.a1. 편집(Edit) - 붙여넣기(Paste as) (Windows)
-<img width="1080" alt="그림 90.1.2.1.a1. 편집(Edit) - 붙여넣기(Paste as)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f03d967b-8e8c-4a9d-a5f7-25165d721b12">
+#### 그림 90.1.2.1.a1. 편집 - 붙여넣기 (Windows)
+<img width="1080" alt="그림 90.1.2.1.a1. 편집 - 붙여넣기" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/88f31bf9-9b6a-4853-87a5-19901e437c24">
 
-#### 그림 90.1.2.1.a2. 편집(Edit) - 붙여넣기(Paste as) (Mac)
-<img width="1080" alt="그림 90.1.2.1.a2. 편집(Edit) - 붙여넣기(Paste as)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7dc638a3-9bbe-4e55-9518-de228b60b2c1">
+#### 그림 90.1.2.1.a2. 편집 - 붙여넣기 (Mac)
+<img width="1080" alt="그림 90.1.2.1.a2. 편집 - 붙여넣기" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ea295434-ceef-4385-97b7-18fbccb499f0">
 
 ***
 
