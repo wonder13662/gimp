@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.5. 이미지(Image)](./90-01-05-image.md)
+[다음: 90.1.4.3. 보기(View) - 색상 관리(Color management)](./90-01-04-viewx-03-color_management.md)
 
 [이전: 90.1.4.1. 보기(View) - 확대(Zoom)](./90-01-04-viewx-01-zoom.md)
 
