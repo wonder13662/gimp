@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.6. 레이어(Layer)](./90-01-06-layer.md)
+[다음: 90.1.5.6. 이미지(Image) - 메타데이터(Metadata)](./90-01-05-imagex-06-metadata.md)
 
 [이전: 90.1.5.3. 이미지(Image) - 색상 관리(Color management)](./90-01-05-imagex-03-color_management.md)
 
