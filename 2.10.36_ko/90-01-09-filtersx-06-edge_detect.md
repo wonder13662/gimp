@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.10. 창(Windows)](./90-01-10-windows.md)
+[다음: 90.1.9.7. 필터(Filters) - 일반(Generic)](./90-01-09-filtersx-07-generic.md)
 
 [이전: 90.1.9.5. 필터(Filters) - 노이즈(Noise)](./90-01-09-filtersx-05-noise.md)
 

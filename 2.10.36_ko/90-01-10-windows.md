@@ -9,7 +9,7 @@
 
 [다음: 90.1.11. 도움말(Help)](./90-01-11-help.md)
 
-[이전: 90.1.9.6. 필터(Filters) - 경계-검출(Edge-Detect)](./90-01-09-filtersx-06-edge_detect.md)
+[이전: 90.1.9.7. 필터(Filters) - 일반(Generic)](./90-01-09-filtersx-07-generic.md)
 
 [부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
