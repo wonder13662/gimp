@@ -9,7 +9,7 @@
 
 [다음: 90.1.11. 도움말(Help)](./90-01-11-help.md)
 
-[이전: 90.1.9.5. 필터(Filters) - 노이즈(Noise)](./90-01-09-filtersx-05-noise.md)
+[이전: 90.1.9.6. 필터(Filters) - 경계-검출(Edge-Detect)](./90-01-09-filtersx-06-edge_detect.md)
 
 [부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 

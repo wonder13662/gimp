@@ -12,9 +12,9 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.10. 창(Windows)](./90-01-10-windows.md)
+[다음: 90.1.9.6. 필터(Filters) - 경계-검출(Edge-Detect)](./90-01-09-filtersx-06-edge_detect.md)
 
-[이전: 90.1.9.3. 필터(Filters) - 왜곡(Distorts)](./90-01-09-filtersx-03-distorts.md)
+[이전: 90.1.9.4. 필터(Filters) - 빛/그림자(Light & Shadow)](./90-01-09-filtersx-04-light_n_shadow.md)
 
 [부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 

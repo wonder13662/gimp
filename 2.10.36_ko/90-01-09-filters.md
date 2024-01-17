@@ -15,6 +15,8 @@
 
 [90.1.9.5. 필터(Filters) - 노이즈(Noise)](./90-01-09-filtersx-05-noise.md)
 
+[90.1.9.6. 필터(Filters) - 경계-검출(Edge-Detect)](./90-01-09-filtersx-06-edge_detect.md)
+
 ***
 
 ## 다른 페이지로 가기
