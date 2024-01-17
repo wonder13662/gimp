@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.10. 창(Windows)](./90-01-10-windows.md)
+[다음: 90.1.9.11. 필터(Filters) - 맵(Map)](./90-01-09-filtersx-11-map.md)
 
 [이전: 90.1.9.9. 필터(Filters) - 예술(Artistic)](./90-01-09-filtersx-09-artistic.md)
 
