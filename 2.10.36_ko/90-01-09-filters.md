@@ -33,6 +33,8 @@
 
 [90.1.9.12.2. 필터(Filters) - 렌더(Render) - 노이즈(Noise)](./90-01-09-filtersx-12-renderx-02-noise.md)
 
+[90.1.9.12.3. 필터(Filters) - 렌더(Render) - 무늬(Pattern)](./90-01-09-filtersx-12-renderx-03-pattern.md)
+
 ***
 
 ## 다른 페이지로 가기
