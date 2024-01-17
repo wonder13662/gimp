@@ -41,6 +41,8 @@
 
 [90.1.9.15. 필터(Filters) - Python-Fu](./90-01-09-filtersx-15-python_fu.md)
 
+[90.1.9.16. 필터(Filters) - Script-Fu](./90-01-09-filtersx-16-script_fu.md)
+
 ***
 
 ## 다른 페이지로 가기

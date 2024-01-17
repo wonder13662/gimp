@@ -9,7 +9,7 @@
 
 [다음: 90.1.11. 도움말(Help)](./90-01-11-help.md)
 
-[이전: 90.1.9.15. 필터(Filters) - Python-Fu](./90-01-09-filtersx-15-python_fu.md)
+[이전: 90.1.9.16. 필터(Filters) - Script-Fu](./90-01-09-filtersx-16-script_fu.md)
 
 [부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
