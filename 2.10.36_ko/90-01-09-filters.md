@@ -27,6 +27,8 @@
 
 [90.1.9.11. 필터(Filters) - 맵(Map)](./90-01-09-filtersx-11-map.md)
 
+[90.1.9.12. 필터(Filters) - 렌더(Render)](./90-01-09-filtersx-12-render.md)
+
 ***
 
 ## 다른 페이지로 가기
