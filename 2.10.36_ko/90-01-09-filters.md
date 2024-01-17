@@ -19,6 +19,8 @@
 
 [90.1.9.7. 필터(Filters) - 일반(Generic)](./90-01-09-filtersx-07-generic.md)
 
+[90.1.9.8. 필터(Filters) - 결합(Combine)](./90-01-09-filtersx-08-combine.md)
+
 ***
 
 ## 다른 페이지로 가기
