@@ -14,7 +14,7 @@
 
 [다음: 90.1.11. 도움말(Help)](./90-01-11-help.md)
 
-[이전: 90.1.10. 창(Windows)](./90-01-10-windows.md)
+[이전: 90.1.10.1. 창(Windows) - 도킹가능한 대화(Dockable dialogs)](./90-01-10-windowsx-01-dockable_dialogs.md)
 
 [부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 

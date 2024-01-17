@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.11. 도움말(Help)](./90-01-11-help.md)
+[다음: 90.1.10.2. 창(Windows) - 탭 위치(Tab position)](./90-01-10-windowsx-02-tab_position.md)
 
 [이전: 90.1.10. 창(Windows)](./90-01-10-windows.md)
 
