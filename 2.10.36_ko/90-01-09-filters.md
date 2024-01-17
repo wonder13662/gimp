@@ -3,11 +3,15 @@
 
 <img width="1080" alt="90.1.9. 필터(Filters)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8aa3e45d-3325-49f6-ad23-d0e6508fa205">
 
+## 하위 메뉴
+
+[90.1.9.1. 필터(Filters) - 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
+
 ***
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.10. 창(Windows)](./90-01-10-windows.md)
+[다음: 90.1.9.1. 필터(Filters) - 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
 
 [이전: 90.1.8.3. 도구(Tools) - 변형 도구(Transform tools)](./90-01-08-toolsx-03-transform_tools.md)
 
