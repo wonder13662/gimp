@@ -21,6 +21,8 @@
 
 [90.1.9.8. 필터(Filters) - 결합(Combine)](./90-01-09-filtersx-08-combine.md)
 
+[90.1.9.9. 필터(Filters) - 예술(Artistic)](./90-01-09-filtersx-09-artistic.md)
+
 ***
 
 ## 다른 페이지로 가기
