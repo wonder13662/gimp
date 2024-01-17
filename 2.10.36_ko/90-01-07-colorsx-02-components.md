@@ -12,9 +12,9 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.8. 도구(Tools)](./90-01-08-tools.md)
+[다음: 90.1.7.3. 색(Colors) - 무채화(Desaturate)](./90-01-07-colorsx-03-desaturate.md)
 
-[이전: 90.1.7. 색(Colors)](./90-01-07-colors.md)
+[이전: 90.1.7.1. 색(Colors) - 자동(Auto)](./90-01-07-colorsx-01-auto.md)
 
 [부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
