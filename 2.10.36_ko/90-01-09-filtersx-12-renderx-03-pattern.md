@@ -13,7 +13,7 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.10. 창(Windows)](./90-01-10-windows.md)
+[다음: 90.1.9.13. 필터(Filters) - 웹(Web)](./90-01-09-filtersx-13-web.md)
 
 [이전: 90.1.9.12.2. 필터(Filters) - 렌더(Render) - 노이즈(Noise)](./90-01-09-filtersx-12-renderx-02-noise.md)
 
