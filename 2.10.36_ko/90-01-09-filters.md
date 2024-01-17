@@ -39,6 +39,8 @@
 
 [90.1.9.14. 필터(Filters) - 애니메이션(Animation)](./90-01-09-filtersx-14-animation.md)
 
+[90.1.9.15. 필터(Filters) - Python-Fu](./90-01-09-filtersx-15-python_fu.md)
+
 ***
 
 ## 다른 페이지로 가기
