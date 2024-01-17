@@ -7,6 +7,8 @@
 
 [90.1.9.1. 필터(Filters) - 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
 
+[90.1.9.2. 필터(Filters) - 보강(Enhance)](./90-01-09-filtersx-02-enhance.md)
+
 ***
 
 ## 다른 페이지로 가기

@@ -9,7 +9,7 @@
 
 [다음: 90.1.11. 도움말(Help)](./90-01-11-help.md)
 
-[이전: 90.1.9.1. 필터(Filters) - 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
+[이전: 90.1.9.2. 필터(Filters) - 보강(Enhance)](./90-01-09-filtersx-02-enhance.md)
 
 [부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 

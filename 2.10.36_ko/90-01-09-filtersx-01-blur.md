@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.10. 창(Windows)](./90-01-10-windows.md)
+[다음: 90.1.9.2. 필터(Filters) - 보강(Enhance)](./90-01-09-filtersx-02-enhance.md)
 
 [이전: 90.1.9. 필터(Filters)](./90-01-09-filters.md)
 
