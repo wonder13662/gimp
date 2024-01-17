@@ -9,7 +9,7 @@
 
 [다음: 90.1.10. 창(Windows)](./90-01-10-windows.md)
 
-[이전: 90.1.8.1. 도구(Tools) - 선택도구(Selection tools)](./90-01-08-toolsx-01-selection_tools.md)
+[이전: 90.1.8.2. 도구(Tools) - 칠하기 도구(Selection tools)](./90-01-08-toolsx-02-paint_tools.md)
 
 [부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
