@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.10. 창(Windows)](./90-01-10-windows.md)
+[다음: 90.1.9.10. 필터(Filters) - 장식(Decor)](./90-01-09-filtersx-10-decor.md)
 
 [이전: 90.1.9.8. 필터(Filters) - 결합(Combine)](./90-01-09-filtersx-08-combine.md)
 

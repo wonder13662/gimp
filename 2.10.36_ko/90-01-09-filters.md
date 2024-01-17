@@ -23,6 +23,8 @@
 
 [90.1.9.9. 필터(Filters) - 예술(Artistic)](./90-01-09-filtersx-09-artistic.md)
 
+[90.1.9.10. 필터(Filters) - 장식(Decor)](./90-01-09-filtersx-10-decor.md)
+
 ***
 
 ## 다른 페이지로 가기
