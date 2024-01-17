@@ -13,6 +13,8 @@
 
 [90.1.9.4. 필터(Filters) - 빛/그림자(Light & Shadow)](./90-01-09-filtersx-04-light_n_shadow.md)
 
+[90.1.9.5. 필터(Filters) - 노이즈(Noise)](./90-01-09-filtersx-05-noise.md)
+
 ***
 
 ## 다른 페이지로 가기
