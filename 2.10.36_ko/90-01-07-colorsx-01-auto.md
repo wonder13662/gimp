@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.8. 도구(Tools)](./90-01-08-tools.md)
+[다음: 90.1.7.2. 색(Colors) - 성분(Components)](./90-01-07-colorsx-02-components.md)
 
 [이전: 90.1.7. 색(Colors)](./90-01-07-colors.md)
 
