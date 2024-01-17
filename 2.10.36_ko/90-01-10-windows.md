@@ -9,7 +9,7 @@
 
 [다음: 90.1.11. 도움말(Help)](./90-01-11-help.md)
 
-[이전: 90.1.9.12. 필터(Filters) - 렌더(Render)](./90-01-09-filtersx-12-render.md)
+[이전: 90.1.9.12.1. 필터(Filters) - 렌더(Render) - 프랙탈(Fractals)](./90-01-09-filtersx-12-renderx-01-fractals.md)
 
 [부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
