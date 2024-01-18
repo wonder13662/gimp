@@ -33,6 +33,9 @@
 
 [90.3.6. 가위 선택(Scissors select)](./90-03-06-scissors_select.md)
 
+#### 그림 90.3.a8. 도구상자에서 전경 선택(Foreground select) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a7. 도구상자에서 전경 선택(Foreground select) 아이콘이 선택된 모습" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21">
+
 [90.3.7. 전경 선택(Foreground select)](./90-03-07-foreground_select.md)
 
 [90.3.8. 퍼지 선택(Fuzzy select)](./90-03-08-fuzzy_select.md)

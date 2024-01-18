@@ -1,6 +1,9 @@
 # 90.3. 도구상자(Toolbox)
 # 90.3.7. 전경 선택(Foreground select)
 
+#### 그림 90.3.7.a1. 도구상자의 전경 선택의 도구옵션
+<img width="1080" alt="그림 90.3.7.a1. 도구상자의 전경 선택의 도구옵션" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/10637246-3876-4a22-9757-a7be33043f34">
+
 ***
 
 ## 다른 페이지로 가기
