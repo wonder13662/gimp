@@ -1,5 +1,7 @@
 # 90.3. 도구상자(Toolbox)
-TODO 도구상자의 위치, 호버링 시의 설명, 도구 옵션의 이미지를 정리해야 합니다.
+
+#### 그림 90.3.a1. 도구상자 - 도구상자 그룹의 사용 여부에 따른 차이
+<img width="1080" alt="그림 90.3.a1. 도구상자 - 도구상자 그룹의 사용 여부에 따른 차이" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e292b65b-23e4-4957-bded-138a364bac56">
 
 ***
 
