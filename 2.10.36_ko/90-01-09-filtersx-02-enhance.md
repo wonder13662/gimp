@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.9.3. 필터(Filters) - 왜곡(Distorts)](./90-01-09-filtersx-03-distorts.md)
+[➡️ 다음: 90.1.9.3. 필터(Filters) - 왜곡(Distorts)](./90-01-09-filtersx-03-distorts.md)
 
 [⬅️ 이전: 90.1.9.1. 필터(Filters) - 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
 

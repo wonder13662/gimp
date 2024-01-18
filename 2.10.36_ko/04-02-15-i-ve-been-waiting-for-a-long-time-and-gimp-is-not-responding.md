@@ -17,7 +17,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:4.2.16. 문제가 생겼을 때 확인해보면 좋은 것들](./04-02-16-general-guidelines-on-what-to-check-if-you-are-stuck.md)
+[➡️ 다음: 4.2.16. 문제가 생겼을 때 확인해보면 좋은 것들](./04-02-16-general-guidelines-on-what-to-check-if-you-are-stuck.md)
 
 [⬅️ 이전: 4.2.14. 잘라내기 도구로 잘라낸 뒤에 빈 공간이 생깁니다](./04-02-14-the-crop-tool-leaves-an-empty-area-after-cropping.md)
 

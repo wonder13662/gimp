@@ -10,7 +10,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음:3.2.2.7. 단위 메뉴 (Units Menu)](./03-02-02-image-windowx-07-units-menu.md)
+[➡️ 다음: 3.2.2.7. 단위 메뉴 (Units Menu)](./03-02-02-image-windowx-07-units-menu.md)
 
 [⬅️ 이전: 3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle)](./03-02-02-image-windowx-05-quickmask-toggle.md)
 

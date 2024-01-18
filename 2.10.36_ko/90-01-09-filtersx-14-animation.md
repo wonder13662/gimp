@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.9.15. 필터(Filters) - Python-Fu](./90-01-09-filtersx-15-python_fu.md)
+[➡️ 다음: 90.1.9.15. 필터(Filters) - Python-Fu](./90-01-09-filtersx-15-python_fu.md)
 
 [⬅️ 이전: 90.1.9.12.3. 필터(Filters) - 렌더(Render) - 무늬(Pattern)](./90-01-09-filtersx-12-renderx-03-pattern.md)
 

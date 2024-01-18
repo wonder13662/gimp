@@ -14,7 +14,7 @@
 
 [⬅️ 이전: 90.1.11. 도움말(Help)](./90-01-11-help.md)
 
-[➡️ 다음:90.1.11.2. 도움말(Help) - 사용자 설명서(User manual)](./90-01-11-helpx-02-user_manual.md)
+[➡️ 다음: 90.1.11.2. 도움말(Help) - 사용자 설명서(User manual)](./90-01-11-helpx-02-user_manual.md)
 
 [⬆️ 위: 90.1.11. 도움말(Help)](./90-01-11-help.md)
 

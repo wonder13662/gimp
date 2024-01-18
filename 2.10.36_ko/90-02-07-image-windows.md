@@ -21,7 +21,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.2.7.1. 모양새 (Appearance)](./90-02-07-image-windowx-01-appearance.md)
+[➡️ 다음: 90.2.7.1. 모양새 (Appearance)](./90-02-07-image-windowx-01-appearance.md)
 
 [⬅️ 이전: 90.2.6.7. 창 관리 (Window Management)](./90-02-06-interfacex-07-window-management.md)
 

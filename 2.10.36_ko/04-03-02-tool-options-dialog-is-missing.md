@@ -44,7 +44,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:4.3.3. 도구 아이콘이 사라졌습니다](./04-03-03-some-of-the-tool-icons-are-missing.md)
+[➡️ 다음: 4.3.3. 도구 아이콘이 사라졌습니다](./04-03-03-some-of-the-tool-icons-are-missing.md)
 
 [⬅️ 이전: 4.3.1. 모든 도구창이 사라졌습니다](./04-03-01-all-tool-windows-are-missing.md)
 

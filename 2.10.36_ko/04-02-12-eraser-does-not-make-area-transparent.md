@@ -19,7 +19,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:4.2.13. 붓 또는 지우개를 사용하면 이상한 색이 나옵니다](./04-02-13-unexpected-colors-when-trying-to-use-a-brush-or-eraser.md)
+[➡️ 다음: 4.2.13. 붓 또는 지우개를 사용하면 이상한 색이 나옵니다](./04-02-13-unexpected-colors-when-trying-to-use-a-brush-or-eraser.md)
 
 [⬅️ 이전: 4.2.11. 지우개와 붓이 작동하지 않습니다](./04-02-11-eraser-and-brushes-no-longer-work.md)
 

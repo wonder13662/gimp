@@ -20,7 +20,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:4.2.14. 잘라내기 도구로 잘라낸 뒤에 빈 공간이 생깁니다](./04-02-14-the-crop-tool-leaves-an-empty-area-after-cropping.md)
+[➡️ 다음: 4.2.14. 잘라내기 도구로 잘라낸 뒤에 빈 공간이 생깁니다](./04-02-14-the-crop-tool-leaves-an-empty-area-after-cropping.md)
 
 [⬅️ 이전: 4.2.12. 지우개로 지운 곳이 투명하지 않습니다](./04-02-12-eraser-does-not-make-area-transparent.md)
 

@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.8.2. 도구(Tools) - 칠하기 도구(Selection tools)](./90-01-08-toolsx-02-paint_tools.md)
+[➡️ 다음: 90.1.8.2. 도구(Tools) - 칠하기 도구(Selection tools)](./90-01-08-toolsx-02-paint_tools.md)
 
 [⬅️ 이전: 90.1.8. 도구(Tools)](./90-01-08-tools.md)
 

@@ -32,7 +32,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:4.2.4. 활성화된 drawable이 보이지 않는 경우](./04-02-04-the-active-drawable-is-not-visible.md)
+[➡️ 다음: 4.2.4. 활성화된 drawable이 보이지 않는 경우](./04-02-04-the-active-drawable-is-not-visible.md)
 
 [⬅️ 이전: 4.2.2. 숨겨진 선택](./04-02-02-the-selection-is-hidden.md)
 

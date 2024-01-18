@@ -22,7 +22,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.2.6.5. 도움말 시스템 (Help System)](./90-02-06-interfacex-05-help-system.md)
+[➡️ 다음: 90.2.6.5. 도움말 시스템 (Help System)](./90-02-06-interfacex-05-help-system.md)
 
 [⬅️ 이전: 90.2.6.4. 도구상자 (Toolbox)](./90-02-06-interfacex-03-toolbox.md)
 

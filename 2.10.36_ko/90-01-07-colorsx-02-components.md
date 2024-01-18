@@ -14,7 +14,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.7.3. 색(Colors) - 무채화(Desaturate)](./90-01-07-colorsx-03-desaturate.md)
+[➡️ 다음: 90.1.7.3. 색(Colors) - 무채화(Desaturate)](./90-01-07-colorsx-03-desaturate.md)
 
 [⬅️ 이전: 90.1.7.1. 색(Colors) - 자동(Auto)](./90-01-07-colorsx-01-auto.md)
 

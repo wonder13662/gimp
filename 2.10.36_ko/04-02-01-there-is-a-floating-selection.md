@@ -27,7 +27,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:4.2.2. 숨겨진 선택](./04-02-02-the-selection-is-hidden.md)
+[➡️ 다음: 4.2.2. 숨겨진 선택](./04-02-02-the-selection-is-hidden.md)
 
 [⬅️ 이전: 4.1. 소개](./04-01-introduction.md)
 

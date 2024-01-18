@@ -22,7 +22,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.2.6.3. 도구상자 (Toolbox)](./90-02-06-interfacex-03-toolbox.md)
+[➡️ 다음: 90.2.6.3. 도구상자 (Toolbox)](./90-02-06-interfacex-03-toolbox.md)
 
 [⬅️ 이전: 90.2.6.1. 테마 (Theme)](./90-02-06-interfacex-01-theme.md)
 

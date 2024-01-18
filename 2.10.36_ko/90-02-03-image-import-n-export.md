@@ -22,7 +22,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.2.4. 도구 옵션 (Tool Options)](./90-02-04-tool-options.md)
+[➡️ 다음: 90.2.4. 도구 옵션 (Tool Options)](./90-02-04-tool-options.md)
 
 [⬅️ 이전: 90.2.2. 색상관리 (Color Management)](./90-02-02-color-management.md)
 

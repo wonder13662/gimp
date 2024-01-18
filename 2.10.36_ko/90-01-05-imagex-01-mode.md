@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.5.2. 이미지(Image) - 정밀도(Precision)](./90-01-05-imagex-02-precision.md)
+[➡️ 다음: 90.1.5.2. 이미지(Image) - 정밀도(Precision)](./90-01-05-imagex-02-precision.md)
 
 [⬅️ 이전: 90.1.5. 이미지(Image)](./90-01-05-image.md)
 

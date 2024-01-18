@@ -39,7 +39,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음:3.2.2.3. 메뉴 버튼 (Menu Button)](./03-02-02-image-windowx-03-menu-button.md)
+[➡️ 다음: 3.2.2.3. 메뉴 버튼 (Menu Button)](./03-02-02-image-windowx-03-menu-button.md)
 
 [⬅️ 이전: 3.2.2.1. 타이틀 바 (Title Bar)](./03-02-02-image-windowx-01-title-bar.md)
 

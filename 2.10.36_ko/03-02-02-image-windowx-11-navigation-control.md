@@ -23,7 +23,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음:3.2.2.12. 비활성 여백 공간 (Inactive Padding Area)](./03-02-02-image-windowx-12-inactive-padding-area.md)
+[➡️ 다음: 3.2.2.12. 비활성 여백 공간 (Inactive Padding Area)](./03-02-02-image-windowx-12-inactive-padding-area.md)
 
 [⬅️ 이전: 3.2.2.10. 취소 버튼 (Cancel Button)](./03-02-02-image-windowx-10-cancel-button.md)
 

@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.6.4. 레이어(Layer) - 변형(Transform)](./90-01-06-layerx-04-transform.md)
+[➡️ 다음: 90.1.6.4. 레이어(Layer) - 변형(Transform)](./90-01-06-layerx-04-transform.md)
 
 [⬅️ 이전: 90.1.6.2. 레이어(Layer) - 마스크(Mask)](./90-01-06-layerx-02-mask.md)
 

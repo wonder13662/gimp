@@ -22,7 +22,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:4.2.3. 선택영역 바깥쪽에서 작업을 하려는 경우](./04-02-03-you-are-acting-outside-the-selection.md)
+[➡️ 다음: 4.2.3. 선택영역 바깥쪽에서 작업을 하려는 경우](./04-02-03-you-are-acting-outside-the-selection.md)
 
 [⬅️ 이전: 4.2.1. 떠있는 선택(floating selection)](./04-02-01-there-is-a-floating-selection.md)
 

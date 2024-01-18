@@ -11,7 +11,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.10.1. 창(Windows) - 도킹가능한 대화(Dockable dialogs)](./90-01-10-windowsx-01-dockable_dialogs.md)
+[➡️ 다음: 90.1.10.1. 창(Windows) - 도킹가능한 대화(Dockable dialogs)](./90-01-10-windowsx-01-dockable_dialogs.md)
 
 [⬅️ 이전: 90.1.9.16. 필터(Filters) - Script-Fu](./90-01-09-filtersx-16-script_fu.md)
 

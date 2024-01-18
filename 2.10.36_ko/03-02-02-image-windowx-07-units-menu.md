@@ -16,7 +16,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음:3.2.2.8. 확대/축소 버튼 (Zoom Button)](./03-02-02-image-windowx-08-zoom-button.md)
+[➡️ 다음: 3.2.2.8. 확대/축소 버튼 (Zoom Button)](./03-02-02-image-windowx-08-zoom-button.md)
 
 [⬅️ 이전: 3.2.2.6. 커서 좌표 (Pointer Coordinates)](./03-02-02-image-windowx-06-pointer-coordinates.md)
 

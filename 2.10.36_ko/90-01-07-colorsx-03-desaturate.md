@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.7.4. 색(Colors) - 지도(Map)](./90-01-07-colorsx-04-map.md)
+[➡️ 다음: 90.1.7.4. 색(Colors) - 지도(Map)](./90-01-07-colorsx-04-map.md)
 
 [⬅️ 이전: 90.1.7.2. 색(Colors) - 성분(Components)](./90-01-07-colorsx-02-components.md)
 

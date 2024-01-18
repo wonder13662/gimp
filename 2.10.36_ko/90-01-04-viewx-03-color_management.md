@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.4.3.1. 보기(View) - 색상 관리(Color management) - 화면 렌더링 목적(Display rendering intent)](./90-01-04-viewx-03-color_managementx-01-display_rendering_intent.md)
+[➡️ 다음: 90.1.4.3.1. 보기(View) - 색상 관리(Color management) - 화면 렌더링 목적(Display rendering intent)](./90-01-04-viewx-03-color_managementx-01-display_rendering_intent.md)
 
 [⬅️ 이전: 90.1.4.2. 보기(View) - 뒤집기/회전(Flip & Rotate (0°))](./90-01-04-viewx-02-flip-n-rotate.md)
 

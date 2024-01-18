@@ -32,7 +32,7 @@ Mac에서는 이미지 메뉴 바를 통해서만 모든 도구창을 숨기거�
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:4.3.2. 도구 옵션 대화상자가 사라졌습니다](./04-03-02-tool-options-dialog-is-missing.md)
+[➡️ 다음: 4.3.2. 도구 옵션 대화상자가 사라졌습니다](./04-03-02-tool-options-dialog-is-missing.md)
 
 [⬅️ 이전: 4.2.16. 문제가 생겼을 때 확인해보면 좋은 것들](./04-02-16-general-guidelines-on-what-to-check-if-you-are-stuck.md)
 

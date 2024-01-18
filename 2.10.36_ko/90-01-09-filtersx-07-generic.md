@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.9.8. 필터(Filters) - 결합(Combine)](./90-01-09-filtersx-08-combine.md)
+[➡️ 다음: 90.1.9.8. 필터(Filters) - 결합(Combine)](./90-01-09-filtersx-08-combine.md)
 
 [⬅️ 이전: 90.1.9.6. 필터(Filters) - 경계-검출(Edge-Detect)](./90-01-09-filtersx-06-edge_detect.md)
 

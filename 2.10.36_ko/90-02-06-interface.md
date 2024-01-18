@@ -21,7 +21,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.2.6.1. 테마 (Theme)](./90-02-06-interfacex-01-theme.md)
+[➡️ 다음: 90.2.6.1. 테마 (Theme)](./90-02-06-interfacex-01-theme.md)
 
 [⬅️ 이전: 90.2.5.1. 기본 격자 (Default Grid)](./90-02-05-default-imagex-01-default-grid.md)
 

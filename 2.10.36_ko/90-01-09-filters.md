@@ -47,7 +47,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.9.1. 필터(Filters) - 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
+[➡️ 다음: 90.1.9.1. 필터(Filters) - 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
 
 [⬅️ 이전: 90.1.8.3. 도구(Tools) - 변형 도구(Transform tools)](./90-01-08-toolsx-03-transform_tools.md)
 

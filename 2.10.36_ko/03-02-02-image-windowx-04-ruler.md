@@ -30,7 +30,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음:3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle)](./03-02-02-image-windowx-05-quickmask-toggle.md)
+[➡️ 다음: 3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle)](./03-02-02-image-windowx-05-quickmask-toggle.md)
 
 [⬅️ 이전: 3.2.2.3. 메뉴 버튼 (Menu Button)](./03-02-02-image-windowx-03-menu-button.md)
 

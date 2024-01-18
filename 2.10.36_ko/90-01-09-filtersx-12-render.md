@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.9.12.1. 필터(Filters) - 렌더(Render) - 프랙탈(Fractals)](./90-01-09-filtersx-12-renderx-01-fractals.md)
+[➡️ 다음: 90.1.9.12.1. 필터(Filters) - 렌더(Render) - 프랙탈(Fractals)](./90-01-09-filtersx-12-renderx-01-fractals.md)
 
 [⬅️ 이전: 90.1.9.11. 필터(Filters) - 맵(Map)](./90-01-09-filtersx-11-map.md)
 

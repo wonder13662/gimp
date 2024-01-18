@@ -15,7 +15,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음:3.2.2.11. 내비게이션 (Navigation Control)](./03-02-02-image-windowx-11-navigation-control.md)
+[➡️ 다음: 3.2.2.11. 내비게이션 (Navigation Control)](./03-02-02-image-windowx-11-navigation-control.md)
 
 [⬅️ 이전: 3.2.2.9. 상태 표시 영역 (Status Area)](./03-02-02-image-windowx-09-status-area.md)
 

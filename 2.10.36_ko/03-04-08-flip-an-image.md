@@ -29,7 +29,7 @@ Ctrl(Windows) or ⌘(Mac)을 누른 채로 유지하면 방향(direction)이 세
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음:3.4.9. 이미지 회전하기](./03-04-09-rotate-an-image.md)
+[➡️ 다음: 3.4.9. 이미지 회전하기](./03-04-09-rotate-an-image.md)
 
 [⬅️ 이전: 3.4.7. 모드 바꾸기](./03-04-07-change-the-mode.md)
 

@@ -34,7 +34,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:4.2.5. 활성화된 drawable이 투명한 경우](./04-02-05-the-active-drawable-is-tranparent.md)
+[➡️ 다음: 4.2.5. 활성화된 drawable이 투명한 경우](./04-02-05-the-active-drawable-is-tranparent.md)
 
 [⬅️ 이전: 4.2.3. 선택영역 바깥쪽에서 작업을 하려는 경우](./04-02-03-you-are-acting-outside-the-selection.md)
 

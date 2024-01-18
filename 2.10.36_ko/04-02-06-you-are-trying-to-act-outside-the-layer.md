@@ -44,7 +44,7 @@ GIMP에서 레이어는 이미지와 같은 크기를 갖지 않을수도 있습
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:4.2.7. 레이어 그룹에서 작업을 하려는 경우](./04-02-07-you-are-trying-to-act-on-a-layer-group.md)
+[➡️ 다음: 4.2.7. 레이어 그룹에서 작업을 하려는 경우](./04-02-07-you-are-trying-to-act-on-a-layer-group.md)
 
 [⬅️ 이전: 4.2.5. 활성화된 drawable이 투명한 경우](./04-02-05-the-active-drawable-is-tranparent.md)
 

@@ -22,7 +22,7 @@ GIMP는 세가자의 컬러 모드를 사용합니다.[RGB(A), 그레이스케�
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:4.2.9. 붓, 지우개 또는 다른 도구로 작업한 효과가 보이지 않는 경우](./04-02-09-no-visible-effect-when-trying-to-use-a-brush-eraser-or-other-tool.md)
+[➡️ 다음: 4.2.9. 붓, 지우개 또는 다른 도구로 작업한 효과가 보이지 않는 경우](./04-02-09-no-visible-effect-when-trying-to-use-a-brush-eraser-or-other-tool.md)
 
 [⬅️ 이전: 4.2.7. 레이어 그룹에서 작업을 하려는 경우](./04-02-07-you-are-trying-to-act-on-a-layer-group.md)
 

@@ -81,7 +81,7 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음:3.2.3.2. 탭 메뉴 (Tab Menu)](./03-02-03-dialogs-and-dockingx-02-tab-menu.md)
+[➡️ 다음: 3.2.3.2. 탭 메뉴 (Tab Menu)](./03-02-03-dialogs-and-dockingx-02-tab-menu.md)
 
 [⬅️ 이전: 3.2.2. 이미지 창](./03-02-02-image-window.md)
 

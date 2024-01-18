@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.5.5. 이미지(Image) - 안내선(Guides)](./90-01-05-imagex-05-guides.md)
+[➡️ 다음: 90.1.5.5. 이미지(Image) - 안내선(Guides)](./90-01-05-imagex-05-guides.md)
 
 [⬅️ 이전: 90.1.5.3. 이미지(Image) - 색상 관리(Color management)](./90-01-05-imagex-03-color_management.md)
 

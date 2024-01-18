@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.8.3. 도구(Tools) - 변형 도구(Transform tools)](./90-01-08-toolsx-03-transform_tools.md)
+[➡️ 다음: 90.1.8.3. 도구(Tools) - 변형 도구(Transform tools)](./90-01-08-toolsx-03-transform_tools.md)
 
 [⬅️ 이전: 90.1.8.1. 도구(Tools) - 선택도구(Selection tools)](./90-01-08-toolsx-01-selection_tools.md)
 

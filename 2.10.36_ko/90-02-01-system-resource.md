@@ -20,7 +20,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.2.2. 색상관리 (Color Management)](./90-02-02-color-management.md)
+[➡️ 다음: 90.2.2. 색상관리 (Color Management)](./90-02-02-color-management.md)
 
 [⬆️ 위: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 

@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.5.4. 이미지(Image) - 변형(transform)](./90-01-05-imagex-04-transform.md)
+[➡️ 다음: 90.1.5.4. 이미지(Image) - 변형(transform)](./90-01-05-imagex-04-transform.md)
 
 [⬅️ 이전: 90.1.5.2. 이미지(Image) - 정밀도(Precision)](./90-01-05-imagex-02-precision.md)
 

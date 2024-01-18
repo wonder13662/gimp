@@ -22,7 +22,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.2.6.2. 아이콘 테마 (Icon Theme)](./90-02-06-interfacex-02-icon-theme.md)
+[➡️ 다음: 90.2.6.2. 아이콘 테마 (Icon Theme)](./90-02-06-interfacex-02-icon-theme.md)
 
 [⬅️ 이전: 90.2.6. 인터페이스 (Interface)](./90-02-06-interface.md)
 

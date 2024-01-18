@@ -15,7 +15,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:4.3.1. 모든 도구창이 사라졌습니다](./04-03-01-all-tool-windows-are-missing.md)
+[➡️ 다음: 4.3.1. 모든 도구창이 사라졌습니다](./04-03-01-all-tool-windows-are-missing.md)
 
 [⬅️ 이전: 4.2.15. 오랫동안 기다려도 GIMP가 반응하지 않습니다](./04-02-15-i-ve-been-waiting-for-a-long-time-and-gimp-is-not-responding.md)
 

@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.1.2. 파일(File) - 최근 연 파일(Open Recent)](./90-01-01-filex-02-open_recent.md)
+[➡️ 다음: 90.1.1.2. 파일(File) - 최근 연 파일(Open Recent)](./90-01-01-filex-02-open_recent.md)
 
 [⬅️ 이전: 90.1.1. 파일(File)](./90-01-01-file.md)
 

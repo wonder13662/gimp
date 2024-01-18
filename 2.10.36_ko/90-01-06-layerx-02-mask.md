@@ -12,7 +12,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:90.1.6.3. 레이어(Layer) - 투명도(Transparency)](./90-01-06-layerx-03-transparency.md)
+[➡️ 다음: 90.1.6.3. 레이어(Layer) - 투명도(Transparency)](./90-01-06-layerx-03-transparency.md)
 
 [⬅️ 이전: 90.1.6.1. 레이어(Layer) - 스택(Stack)](./90-01-06-layerx-01-stack.md)
 

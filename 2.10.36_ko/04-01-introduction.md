@@ -5,7 +5,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음:4.2.1. 떠있는 선택](./04-02-01-there-is-a-floating-selection.md)
+[➡️ 다음: 4.2.1. 떠있는 선택](./04-02-01-there-is-a-floating-selection.md)
 
 [⬅️ 이전: 3.5.2. 예제들](./03-05-02-examples.md)
 
