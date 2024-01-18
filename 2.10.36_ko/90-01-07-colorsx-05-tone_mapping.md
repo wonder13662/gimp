@@ -16,6 +16,8 @@
 
 [이전: 90.1.7.4. 색(Colors) - 지도(Map)](./90-01-07-colorsx-04-map.md)
 
-[부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
+[위: 90.1.7. 색(Colors)](./90-01-07-colors.md)
+
+[위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
 [최상위](./00-home.md)

@@ -24,7 +24,7 @@ GIMP를 처음 실행하면 옵션과 디렉토리를 설정하는 여러 단계
 
 [이전: 2.1. GIMP(김프) 실행하기](./02-01-running-gimp.md)
 
-[부모: 2. GIMP(김프) 시작하기](./02-00-fire-up-gimp.md)
+[위: 2. GIMP(김프) 시작하기](./02-00-fire-up-gimp.md)
 
 [최상위](./00-home.md)
 

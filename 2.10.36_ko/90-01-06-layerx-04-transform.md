@@ -16,6 +16,8 @@
 
 [이전: 90.1.6.3. 레이어(Layer) - 투명도(Transparency)](./90-01-06-layerx-03-transparency.md)
 
-[부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
+[위: 90.1.6. 레이어(Layer)](./90-01-06-layer.md)
+
+[위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
 [최상위](./00-home.md)

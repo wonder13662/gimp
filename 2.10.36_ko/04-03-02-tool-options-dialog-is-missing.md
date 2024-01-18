@@ -48,7 +48,7 @@
 
 [이전: 4.3.1. 모든 도구창이 사라졌습니다](./04-03-01-all-tool-windows-are-missing.md)
 
-[부모: 4.3. 잃어버린 창과 대화상자 해결하기](./04-03-00-how-to-fix-missing-windows-and-dialogs.md)
+[위: 4.3. 잃어버린 창과 대화상자 해결하기](./04-03-00-how-to-fix-missing-windows-and-dialogs.md)
 
 [최상위](./00-home.md)
 

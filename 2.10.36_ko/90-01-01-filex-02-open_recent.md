@@ -16,6 +16,8 @@
 
 [이전: 90.1.1.1. 파일(File) - 만들기(Create)](./90-01-01-filex-01-create.md)
 
-[부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
+[위: 90.1.1. 파일(File)](./90-01-01-file.md)
+
+[위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
 [최상위](./00-home.md)

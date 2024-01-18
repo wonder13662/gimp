@@ -20,7 +20,7 @@
 
 [이전: 4.2.13. 붓 또는 지우개를 사용하면 이상한 색이 나옵니다](./04-02-13-unexpected-colors-when-trying-to-use-a-brush-or-eraser.md)
 
-[부모: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
+[위: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
 
 [최상위](./00-home.md)
 

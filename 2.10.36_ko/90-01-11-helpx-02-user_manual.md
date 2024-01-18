@@ -14,6 +14,8 @@
 
 [이전: 90.1.11.1. 도움말(Help) - 김프 온라인(GIMP Online)](./90-01-11-helpx-01-gimp_online.md)
 
-[부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
+[위: 90.1.11. 도움말(Help)](./90-01-11-help.md)
+
+[위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
 [최상위](./00-home.md)

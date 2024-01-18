@@ -178,7 +178,7 @@
 
 [이전: 3.4.10. 원하는 개체만 선택하여 분리하기](./03-04-10-separating-an-object-from-its-background.md)
 
-[부모: 3.5. 직선 그리기](./03-05-00-how-to-draw-straight-lines.md)
+[위: 3.5. 직선 그리기](./03-05-00-how-to-draw-straight-lines.md)
 
 [최상위](./00-home.md)
 

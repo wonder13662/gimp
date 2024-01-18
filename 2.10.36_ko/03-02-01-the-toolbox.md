@@ -89,7 +89,7 @@ GIMP에서는 한 번에 여러 이미지를 열어 두고 작업을 할 수 있
 
 [이전: 3.1. GIMP(김프)의 기본 개념들](./03-01-basic-concepts.md)
 
-[부모: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
+[위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 
 [최상위](./00-home.md)
 

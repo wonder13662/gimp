@@ -9,6 +9,6 @@
 
 [이전: 3.5.2. 예제들](./03-05-02-examples.md)
 
-[부모: 4. 문제 해결하기](./04-00-what-to-do-if-you-are-stuck.md)
+[위: 4. 문제 해결하기](./04-00-what-to-do-if-you-are-stuck.md)
 
 [최상위](./00-home.md)

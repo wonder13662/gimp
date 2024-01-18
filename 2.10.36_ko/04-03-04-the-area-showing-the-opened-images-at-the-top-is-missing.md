@@ -28,7 +28,7 @@ Go to menu `Windows` → `Show Tabs` and make sure that `Show Tabs` is checked.
 
 [이전: 4.3.3. 도구 아이콘이 사라졌습니다](./04-03-03-some-of-the-tool-icons-are-missing.md)
 
-[부모: 4.3. 잃어버린 창과 대화상자 해결하기](./04-03-00-how-to-fix-missing-windows-and-dialogs.md)
+[위: 4.3. 잃어버린 창과 대화상자 해결하기](./04-03-00-how-to-fix-missing-windows-and-dialogs.md)
 
 [최상위](./00-home.md)
 

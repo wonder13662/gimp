@@ -20,6 +20,10 @@
 
 [이전: 90.1.4.3.1. 보기(View) - 색상 관리(Color management) - 화면 렌더링 목적(Display rendering intent)](./90-01-04-viewx-03-color_managementx-01-display_rendering_intent%20copy.md)
 
-[부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
+[위: 90.1.4.3. 보기(View) - 색상 관리(Color management)](./90-01-04-viewx-03-color_management.md)
+
+[위: 90.1.4. 보기(View)](./90-01-04-view.md)
+
+[위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
 [최상위](./00-home.md)

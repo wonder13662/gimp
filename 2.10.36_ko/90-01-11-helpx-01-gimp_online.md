@@ -16,6 +16,8 @@
 
 [다음: 90.1.11.2. 도움말(Help) - 사용자 설명서(User manual)](./90-01-11-helpx-02-user_manual.md)
 
-[부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
+[위: 90.1.11. 도움말(Help)](./90-01-11-help.md)
+
+[위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
 [최상위](./00-home.md)

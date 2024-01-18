@@ -26,6 +26,6 @@
 
 [이전: 90.2.6.5. 도움말 시스템 (Help System)](./90-02-06-interfacex-05-help-system.md)
 
-[부모: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
+[위: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 
 [최상위](./00-home.md)

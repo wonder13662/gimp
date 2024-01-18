@@ -16,6 +16,8 @@
 
 [이전: 90.1.10. 창(Windows)](./90-01-10-windows.md)
 
-[부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
+[위: 90.1.10. 창(Windows)](./90-01-10-windows.md)
+
+[위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
 [최상위](./00-home.md)

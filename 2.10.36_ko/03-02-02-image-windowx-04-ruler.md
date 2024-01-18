@@ -34,7 +34,7 @@
 
 [이전: 3.2.2.3. 메뉴 버튼 (Menu Button)](./03-02-02-image-windowx-03-menu-button.md)
 
-[부모: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
+[위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 
 [최상위](./00-home.md)
 

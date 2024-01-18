@@ -26,6 +26,6 @@
 
 [이전: 90.2.2. 색상관리 (Color Management)](./90-02-02-color-management.md)
 
-[부모: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
+[위: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 
 [최상위](./00-home.md)

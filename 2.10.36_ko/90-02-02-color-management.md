@@ -25,6 +25,6 @@
 
 [이전: 90.2.1. 시스템 리소스(System Resource)](./90-02-01-system-resource.md)
 
-[부모: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
+[위: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 
 [최상위](./00-home.md)

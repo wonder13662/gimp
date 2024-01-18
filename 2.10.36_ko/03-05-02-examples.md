@@ -49,6 +49,6 @@
 
 [이전: 3.5.1. 목적](./03-05-01-intention.md)
 
-[부모: 3.5. 직선 그리기](./03-05-00-how-to-draw-straight-lines.md)
+[위: 3.5. 직선 그리기](./03-05-00-how-to-draw-straight-lines.md)
 
 [최상위](./00-home.md)

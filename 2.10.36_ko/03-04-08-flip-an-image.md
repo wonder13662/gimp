@@ -33,7 +33,7 @@ Ctrl(Windows) or ⌘(Mac)을 누른 채로 유지하면 방향(direction)이 세
 
 [이전: 3.4.7. 모드 바꾸기](./03-04-07-change-the-mode.md)
 
-[부모: 3.4. 자주하는 편집 작업](./03-04-00-common-tasks.md)
+[위: 3.4. 자주하는 편집 작업](./03-04-00-common-tasks.md)
 
 [최상위](./00-home.md)
 

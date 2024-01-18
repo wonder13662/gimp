@@ -16,6 +16,8 @@
 
 [이전: 90.1.5.2. 이미지(Image) - 정밀도(Precision)](./90-01-05-imagex-02-precision.md)
 
-[부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
+[위: 90.1.5. 이미지(Image)](./90-01-05-image.md)
+
+[위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
 [최상위](./00-home.md)

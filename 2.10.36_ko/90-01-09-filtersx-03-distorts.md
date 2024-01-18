@@ -16,6 +16,8 @@
 
 [이전: 90.1.9.2. 필터(Filters) - 보강(Enhance)](./90-01-09-filtersx-02-enhance.md)
 
-[부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
+[위: 90.1.9. 필터(Filters)](./90-01-09-filters.md)
+
+[위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
 [최상위](./00-home.md)

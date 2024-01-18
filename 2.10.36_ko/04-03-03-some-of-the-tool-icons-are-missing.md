@@ -51,7 +51,7 @@
 
 [이전: 4.3.2. 도구 옵션 대화상자가 사라졌습니다](./04-03-02-tool-options-dialog-is-missing.md)
 
-[부모: 4.3. 잃어버린 창과 대화상자 해결하기](./04-03-00-how-to-fix-missing-windows-and-dialogs.md)
+[위: 4.3. 잃어버린 창과 대화상자 해결하기](./04-03-00-how-to-fix-missing-windows-and-dialogs.md)
 
 [최상위](./00-home.md)
 

@@ -55,7 +55,7 @@ C 언어로 짜인 플러그인 외에 스크립트를 사용할 수도 있습�
 
 [이전: 2.2. 설정 폴더들](./02-02-configuration-folders.md)
 
-[부모: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
+[위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 
 [최상위](./00-home.md)
 

@@ -20,7 +20,7 @@
 
 [이전: 3.2.2.6. 커서 좌표 (Pointer Coordinates)](./03-02-02-image-windowx-06-pointer-coordinates.md)
 
-[부모: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
+[위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 
 [최상위](./00-home.md)
 

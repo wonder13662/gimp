@@ -16,6 +16,8 @@
 
 [이전: 90.1.4.2. 보기(View) - 뒤집기/회전(Flip & Rotate (0°))](./90-01-04-viewx-02-flip-n-rotate.md)
 
-[부모: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
+[위: 90.1.4. 보기(View)](./90-01-04-view.md)
+
+[위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
 [최상위](./00-home.md)

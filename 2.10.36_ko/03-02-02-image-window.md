@@ -60,7 +60,7 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 
 [이전: 3.2.1. 기본 도구 상자(The toolbox)](./03-02-01-the-toolbox.md)
 
-[부모: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
+[위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 
 [최상위](./00-home.md)
 

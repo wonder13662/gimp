@@ -26,6 +26,6 @@
 
 [이전: 90.2.8. 입력 장치 (Input Devices)](./90-02-08-input-device.md)
 
-[부모: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
+[위: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 
 [최상위](./00-home.md)

@@ -25,6 +25,6 @@
 
 [이전: 90.2.6.7. 창 관리 (Window Management)](./90-02-06-interfacex-07-window-management.md)
 
-[부모: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
+[위: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 
 [최상위](./00-home.md)

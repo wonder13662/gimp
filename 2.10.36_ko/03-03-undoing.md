@@ -82,6 +82,6 @@ GIMP의 실행 취소 기능으로 아주 작은 실행 취소 메모리만으�
 
 [이전: 3.2.3. 대화상자(Dialog)와 도킹(docking)](./03-02-03-dialogs-and-docking.md)
 
-[부모: 3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
+[위: 3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
 
 [최상위](./00-home.md)

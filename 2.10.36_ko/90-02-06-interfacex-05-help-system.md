@@ -27,6 +27,6 @@
 
 [이전: 90.2.6.4. 대화상자 기본 (Dialog Defaults)](./90-02-06-interfacex-04-dialog-defaults.md)
 
-[부모: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
+[위: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 
 [최상위](./00-home.md)

@@ -48,7 +48,7 @@ GIMP에서 레이어는 이미지와 같은 크기를 갖지 않을수도 있습
 
 [이전: 4.2.5. 활성화된 drawable이 투명한 경우](./04-02-05-the-active-drawable-is-tranparent.md)
 
-[부모: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
+[위: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
 
 [최상위](./00-home.md)
 

@@ -8,7 +8,7 @@
 
 [이전: 1.1. GIMP(김프)에 오신 것을 환영합니다](./01-01-welcome-to-gimp.md)
 
-[부모: 1. 소개](./01-00-introduction.md)
+[위: 1. 소개](./01-00-introduction.md)
 
 [최상위](./00-home.md)
 

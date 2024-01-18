@@ -234,7 +234,7 @@ X-윈도우 스타일을 사용합니다(Microsoft Windows에서는 사용불가
 
 [이전: 1.2. GIMP(김프)의 새로운 기능 알아보기](./01-02-whats-new-in-gimp.md)
 
-[부모: 2. GIMP(김프) 시작하기](./02-00-fire-up-gimp.md)
+[위: 2. GIMP(김프) 시작하기](./02-00-fire-up-gimp.md)
 
 [최상위](./00-home.md)
 

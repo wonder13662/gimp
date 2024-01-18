@@ -26,6 +26,6 @@
 
 [이전: 90.2.7.1. 모양새 (Appearance)](./90-02-07-image-windowx-01-appearance.md)
 
-[부모: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
+[위: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 
 [최상위](./00-home.md)

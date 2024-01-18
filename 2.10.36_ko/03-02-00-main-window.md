@@ -159,7 +159,7 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 
 [이전: 3.1. GIMP(김프)의 기본 개념들](./03-01-basic-concepts.md)
 
-[부모: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
+[위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 
 [최상위](./00-home.md)
 
