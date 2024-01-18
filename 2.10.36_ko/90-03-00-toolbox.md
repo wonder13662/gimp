@@ -5,7 +5,7 @@
 
 [90.3.1. 이동(Move)](./90-03-01-move.md)
 
-[90.3.2. 정렬(Alignment))](./90-03-02-alignment.md)
+[90.3.2. 정렬(Alignment)](./90-03-02-alignment.md)
 
 [90.3.3. 사각 선택(Rectangle select)](./90-03-03-rectangle_select.md)
 
