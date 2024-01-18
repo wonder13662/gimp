@@ -8,3 +8,7 @@
 [90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 
 <img width="1080" alt="90.2. 기본 설정(Preference)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e20eb713-6ff2-4bc0-944b-cdb021e01974">
+
+[90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
+
+<img width="1080" alt="90.3. 도구상자(Toolbox)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e292b65b-23e4-4957-bded-138a364bac56">
