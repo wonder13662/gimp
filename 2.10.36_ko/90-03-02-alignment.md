@@ -1,6 +1,9 @@
 # 90.3. 도구상자(Toolbox)
 # 90.3.2. 정렬(Alignment)
 
+#### 그림 90.3.2.a1. 도구상자의 정렬의 도구옵션
+<img width="1080" alt="그림 90.3.2.a1. 도구상자의 정렬의 도구옵션" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b702b9ad-588f-42a1-9728-7955d77aedc2">
+
 ***
 
 ## 다른 페이지로 가기
