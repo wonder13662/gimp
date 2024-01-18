@@ -23,6 +23,9 @@
 
 [90.3.4. 타원 선택(Ellipse select)](./90-03-04-ellipse_select.md)
 
+#### 그림 90.3.a6. 도구상자의 자유 선택(Free select) 아이콘
+<img width="324" alt="그림 90.3.a6. 도구상자의 자유 선택(Free select) 아이콘" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f0d4efd4-aee4-4af4-a282-a4d2756369fa">
+
 [90.3.5. 자유 선택(Free select)](./90-03-05-free_select.md)
 
 [90.3.6. 가위 선택(Scissors select)](./90-03-06-scissors_select.md)

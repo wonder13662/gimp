@@ -1,6 +1,9 @@
 # 90.3. 도구상자(Toolbox)
 # 90.3.5. 자유 선택(Free select)
 
+#### 그림 90.3.5.a1. 도구상자의 자유 선택의 도구옵션
+<img width="1080" alt="그림 90.3.5.a1. 도구상자의 자유 선택의 도구옵션" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d2271615-966f-41ba-8f28-e66a8881b79a">
+
 ***
 
 ## 다른 페이지로 가기
