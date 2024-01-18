@@ -17,12 +17,12 @@
 
 ## 다른 페이지로 가기
 
-[다음: 4.2.16. 문제가 생겼을 때 확인해보면 좋은 것들](./04-02-16-general-guidelines-on-what-to-check-if-you-are-stuck.md)
+[➡️ 다음:4.2.16. 문제가 생겼을 때 확인해보면 좋은 것들](./04-02-16-general-guidelines-on-what-to-check-if-you-are-stuck.md)
 
-[이전: 4.2.14. 잘라내기 도구로 잘라낸 뒤에 빈 공간이 생깁니다](./04-02-14-the-crop-tool-leaves-an-empty-area-after-cropping.md)
+[⬅️ 이전: 4.2.14. 잘라내기 도구로 잘라낸 뒤에 빈 공간이 생깁니다](./04-02-14-the-crop-tool-leaves-an-empty-area-after-cropping.md)
 
-[위: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
+[⬆️ 위: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-stuck-not-responding.html)

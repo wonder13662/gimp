@@ -15,12 +15,12 @@
 
 ## 다른 페이지로 가기
 
-[다음: 4.3.1. 모든 도구창이 사라졌습니다](./04-03-01-all-tool-windows-are-missing.md)
+[➡️ 다음:4.3.1. 모든 도구창이 사라졌습니다](./04-03-01-all-tool-windows-are-missing.md)
 
-[이전: 4.2.15. 오랫동안 기다려도 GIMP가 반응하지 않습니다](./04-02-15-i-ve-been-waiting-for-a-long-time-and-gimp-is-not-responding.md)
+[⬅️ 이전: 4.2.15. 오랫동안 기다려도 GIMP가 반응하지 않습니다](./04-02-15-i-ve-been-waiting-for-a-long-time-and-gimp-is-not-responding.md)
 
-[위: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
+[⬆️ 위: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-stuck-not-responding.html)

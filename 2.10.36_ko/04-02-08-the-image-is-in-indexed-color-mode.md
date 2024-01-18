@@ -22,12 +22,12 @@ GIMP는 세가자의 컬러 모드를 사용합니다.[RGB(A), 그레이스케�
 
 ## 다른 페이지로 가기
 
-[다음: 4.2.9. 붓, 지우개 또는 다른 도구로 작업한 효과가 보이지 않는 경우](./04-02-09-no-visible-effect-when-trying-to-use-a-brush-eraser-or-other-tool.md)
+[➡️ 다음:4.2.9. 붓, 지우개 또는 다른 도구로 작업한 효과가 보이지 않는 경우](./04-02-09-no-visible-effect-when-trying-to-use-a-brush-eraser-or-other-tool.md)
 
-[이전: 4.2.7. 레이어 그룹에서 작업을 하려는 경우](./04-02-07-you-are-trying-to-act-on-a-layer-group.md)
+[⬅️ 이전: 4.2.7. 레이어 그룹에서 작업을 하려는 경우](./04-02-07-you-are-trying-to-act-on-a-layer-group.md)
 
-[위: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
+[⬆️ 위: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-stuck-indexed-mode.html)

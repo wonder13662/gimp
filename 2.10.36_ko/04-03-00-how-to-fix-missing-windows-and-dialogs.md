@@ -8,6 +8,6 @@
 
 [4.3.4. 이미지 창의 위쪽의 탭 바의 미리보기가 사라졌습니다](./04-03-04-the-area-showing-the-opened-images-at-the-top-is-missing.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-using-getting-unstuck-gui.html)

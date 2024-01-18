@@ -155,12 +155,12 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 (TODO "GIMP 이미지의 기본 구조"는 어떤 페이지인지 확인이 필요함)
 
 ## 다른 페이지로 가기
-[다음: 3.2.1. 기본 도구 상자](./03-02-01-the-toolbox.md)
+[➡️ 다음:3.2.1. 기본 도구 상자](./03-02-01-the-toolbox.md)
 
-[이전: 3.1. GIMP(김프)의 기본 개념들](./03-01-basic-concepts.md)
+[⬅️ 이전: 3.1. GIMP(김프)의 기본 개념들](./03-01-basic-concepts.md)
 
-[위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
+[⬆️ 위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-concepts-main-windows.html)

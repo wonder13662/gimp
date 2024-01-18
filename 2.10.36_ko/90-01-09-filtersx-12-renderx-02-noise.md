@@ -13,14 +13,14 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.9.12.3. 필터(Filters) - 렌더(Render) - 무늬(Pattern)](./90-01-09-filtersx-12-renderx-03-pattern.md)
+[➡️ 다음:90.1.9.12.3. 필터(Filters) - 렌더(Render) - 무늬(Pattern)](./90-01-09-filtersx-12-renderx-03-pattern.md)
 
-[이전: 90.1.9.12.1. 필터(Filters) - 렌더(Render) - 프랙탈(Fractals)](./90-01-09-filtersx-12-renderx-01-fractals.md)
+[⬅️ 이전: 90.1.9.12.1. 필터(Filters) - 렌더(Render) - 프랙탈(Fractals)](./90-01-09-filtersx-12-renderx-01-fractals.md)
 
-[위: 90.1.9.12. 필터(Filters) - 렌더(Render)](./90-01-09-filtersx-12-render.md)
+[⬆️ 위: 90.1.9.12. 필터(Filters) - 렌더(Render)](./90-01-09-filtersx-12-render.md)
 
-[위: 90.1.9. 필터(Filters)](./90-01-09-filters.md)
+[⬆️ 위: 90.1.9. 필터(Filters)](./90-01-09-filters.md)
 
-[위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
+[⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)

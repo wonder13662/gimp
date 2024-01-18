@@ -24,12 +24,12 @@ Go to menu `Windows` → `Show Tabs` and make sure that `Show Tabs` is checked.
 
 ## 다른 페이지로 가기
 
-[다음: 4.4.1. jpeg 이미지로 내보냈더니 투명 부분이 흰색 또는 검은색으로 바뀌었습니다](./04-04-01-i-am-exporting-to-a-jpeg-image-and-my-transparent-area-turned-white-or-black.md)
+[➡️ 다음:4.4.1. jpeg 이미지로 내보냈더니 투명 부분이 흰색 또는 검은색으로 바뀌었습니다](./04-04-01-i-am-exporting-to-a-jpeg-image-and-my-transparent-area-turned-white-or-black.md)
 
-[이전: 4.3.3. 도구 아이콘이 사라졌습니다](./04-03-03-some-of-the-tool-icons-are-missing.md)
+[⬅️ 이전: 4.3.3. 도구 아이콘이 사라졌습니다](./04-03-03-some-of-the-tool-icons-are-missing.md)
 
-[위: 4.3. 잃어버린 창과 대화상자 해결하기](./04-03-00-how-to-fix-missing-windows-and-dialogs.md)
+[⬆️ 위: 4.3. 잃어버린 창과 대화상자 해결하기](./04-03-00-how-to-fix-missing-windows-and-dialogs.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-stuck-missing-tool-icons.html)

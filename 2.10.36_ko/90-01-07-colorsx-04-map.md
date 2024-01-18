@@ -12,12 +12,12 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.7.5. 색(Colors) - 톤 대응(Tone mapping)](./90-01-07-colorsx-05-tone_mapping.md)
+[➡️ 다음:90.1.7.5. 색(Colors) - 톤 대응(Tone mapping)](./90-01-07-colorsx-05-tone_mapping.md)
 
-[이전: 90.1.7.3. 색(Colors) - 무채화(Desaturate)](./90-01-07-colorsx-03-desaturate.md)
+[⬅️ 이전: 90.1.7.3. 색(Colors) - 무채화(Desaturate)](./90-01-07-colorsx-03-desaturate.md)
 
-[위: 90.1.7. 색(Colors)](./90-01-07-colors.md)
+[⬆️ 위: 90.1.7. 색(Colors)](./90-01-07-colors.md)
 
-[위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
+[⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)

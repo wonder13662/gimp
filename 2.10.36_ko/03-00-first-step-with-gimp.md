@@ -10,8 +10,8 @@
 [3.5. 직선 그리기](./03-05-00-how-to-draw-straight-lines.md)
 
 ## 다른 페이지로 가기
-[다음: 4. What to do if you are stuck](./04-00-what-to-do-if-you-are-stuck.md)
+[➡️ 다음:4. What to do if you are stuck](./04-00-what-to-do-if-you-are-stuck.md)
 
-[이전: 2. GIMP(김프) 시작하기](./02-00-fire-up-gimp.md)
+[⬅️ 이전: 2. GIMP(김프) 시작하기](./02-00-fire-up-gimp.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)

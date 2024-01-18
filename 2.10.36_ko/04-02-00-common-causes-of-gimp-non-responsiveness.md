@@ -32,4 +32,4 @@
 
 [4.2.16. 문제가 생겼을 때 확인해보면 좋은 것들](./04-02-16-general-guidelines-on-what-to-check-if-you-are-stuck.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)

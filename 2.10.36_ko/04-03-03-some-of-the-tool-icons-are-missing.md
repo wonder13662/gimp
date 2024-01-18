@@ -47,12 +47,12 @@
 
 ## 다른 페이지로 가기
 
-[다음: 4.3.4. 이미지 창의 위쪽의 탭 바의 미리보기가 사라졌습니다](./04-03-04-the-area-showing-the-opened-images-at-the-top-is-missing.md)
+[➡️ 다음:4.3.4. 이미지 창의 위쪽의 탭 바의 미리보기가 사라졌습니다](./04-03-04-the-area-showing-the-opened-images-at-the-top-is-missing.md)
 
-[이전: 4.3.2. 도구 옵션 대화상자가 사라졌습니다](./04-03-02-tool-options-dialog-is-missing.md)
+[⬅️ 이전: 4.3.2. 도구 옵션 대화상자가 사라졌습니다](./04-03-02-tool-options-dialog-is-missing.md)
 
-[위: 4.3. 잃어버린 창과 대화상자 해결하기](./04-03-00-how-to-fix-missing-windows-and-dialogs.md)
+[⬆️ 위: 4.3. 잃어버린 창과 대화상자 해결하기](./04-03-00-how-to-fix-missing-windows-and-dialogs.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-stuck-missing-tool-icons.html)

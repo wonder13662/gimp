@@ -174,12 +174,12 @@
 
 ## 다른 페이지로 가기
 
-[다음: 3.5.2. 예제들](./03-05-02-examples.md)
+[➡️ 다음:3.5.2. 예제들](./03-05-02-examples.md)
 
-[이전: 3.4.10. 원하는 개체만 선택하여 분리하기](./03-04-10-separating-an-object-from-its-background.md)
+[⬅️ 이전: 3.4.10. 원하는 개체만 선택하여 분리하기](./03-04-10-separating-an-object-from-its-background.md)
 
-[위: 3.5. 직선 그리기](./03-05-00-how-to-draw-straight-lines.md)
+[⬆️ 위: 3.5. 직선 그리기](./03-05-00-how-to-draw-straight-lines.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-tutorial-straight-lines.html)

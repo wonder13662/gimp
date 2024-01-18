@@ -47,10 +47,10 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.9.1. 필터(Filters) - 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
+[➡️ 다음:90.1.9.1. 필터(Filters) - 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
 
-[이전: 90.1.8.3. 도구(Tools) - 변형 도구(Transform tools)](./90-01-08-toolsx-03-transform_tools.md)
+[⬅️ 이전: 90.1.8.3. 도구(Tools) - 변형 도구(Transform tools)](./90-01-08-toolsx-03-transform_tools.md)
 
-[위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
+[⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)

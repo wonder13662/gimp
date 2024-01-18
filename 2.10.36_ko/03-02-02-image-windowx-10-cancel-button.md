@@ -15,12 +15,12 @@
 ***
 
 ## 다른 페이지로 가기
-[다음: 3.2.2.11. 내비게이션 (Navigation Control)](./03-02-02-image-windowx-11-navigation-control.md)
+[➡️ 다음:3.2.2.11. 내비게이션 (Navigation Control)](./03-02-02-image-windowx-11-navigation-control.md)
 
-[이전: 3.2.2.9. 상태 표시 영역 (Status Area)](./03-02-02-image-windowx-09-status-area.md)
+[⬅️ 이전: 3.2.2.9. 상태 표시 영역 (Status Area)](./03-02-02-image-windowx-09-status-area.md)
 
-[위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
+[⬆️ 위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-image-window.html)

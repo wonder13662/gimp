@@ -85,12 +85,12 @@ GIMP에서는 한 번에 여러 이미지를 열어 두고 작업을 할 수 있
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9a8813c3-e223-422f-9436-a75ee551bbd3"></video>
 
 ## 다른 페이지로 가기
-[다음: 3.2.2. 이미지 창](./03-02-02-image-window.md)
+[➡️ 다음:3.2.2. 이미지 창](./03-02-02-image-window.md)
 
-[이전: 3.1. GIMP(김프)의 기본 개념들](./03-01-basic-concepts.md)
+[⬅️ 이전: 3.1. GIMP(김프)의 기본 개념들](./03-01-basic-concepts.md)
 
-[위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
+[⬆️ 위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-concepts-main-windows.html)

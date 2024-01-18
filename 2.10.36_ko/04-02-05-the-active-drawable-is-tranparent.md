@@ -23,12 +23,12 @@
 
 ## 다른 페이지로 가기
 
-[다음: 4.2.6. 레이어 바깥쪽에서 작업을 하려는 경우](./04-02-06-you-are-trying-to-act-outside-the-layer.md)
+[➡️ 다음:4.2.6. 레이어 바깥쪽에서 작업을 하려는 경우](./04-02-06-you-are-trying-to-act-outside-the-layer.md)
 
-[이전: 4.2.4. 활성화된 drawable이 보이지 않는 경우](./04-02-04-the-active-drawable-is-not-visible.md)
+[⬅️ 이전: 4.2.4. 활성화된 drawable이 보이지 않는 경우](./04-02-04-the-active-drawable-is-not-visible.md)
 
-[위: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
+[⬆️ 위: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-stuck-drawable-transparent.html)

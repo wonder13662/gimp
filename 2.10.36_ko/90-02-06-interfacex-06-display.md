@@ -22,10 +22,10 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.2.6.7. 창 관리 (Window Management)](./90-02-06-interfacex-07-window-management.md)
+[➡️ 다음:90.2.6.7. 창 관리 (Window Management)](./90-02-06-interfacex-07-window-management.md)
 
-[이전: 90.2.6.5. 도움말 시스템 (Help System)](./90-02-06-interfacex-05-help-system.md)
+[⬅️ 이전: 90.2.6.5. 도움말 시스템 (Help System)](./90-02-06-interfacex-05-help-system.md)
 
-[위: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
+[⬆️ 위: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)

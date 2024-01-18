@@ -13,14 +13,14 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.1.4.3.2. 보기(View) - 색상 관리(Color management) - 색상 교정 렌더링 목적(Soft proofing rendering intent)](./90-01-04-viewx-03-color_managementx-02-soft_proofing_rendering_intent.md)
+[➡️ 다음:90.1.4.3.2. 보기(View) - 색상 관리(Color management) - 색상 교정 렌더링 목적(Soft proofing rendering intent)](./90-01-04-viewx-03-color_managementx-02-soft_proofing_rendering_intent.md)
 
-[이전: 90.1.4.3. 보기(View) - 색상 관리(Color management)](./90-01-04-viewx-03-color_management.md)
+[⬅️ 이전: 90.1.4.3. 보기(View) - 색상 관리(Color management)](./90-01-04-viewx-03-color_management.md)
 
-[위: 90.1.4.3. 보기(View) - 색상 관리(Color management)](./90-01-04-viewx-03-color_management.md)
+[⬆️ 위: 90.1.4.3. 보기(View) - 색상 관리(Color management)](./90-01-04-viewx-03-color_management.md)
 
-[위: 90.1.4. 보기(View)](./90-01-04-view.md)
+[⬆️ 위: 90.1.4. 보기(View)](./90-01-04-view.md)
 
-[위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
+[⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)

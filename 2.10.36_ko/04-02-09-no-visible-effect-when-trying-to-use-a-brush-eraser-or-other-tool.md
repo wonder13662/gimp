@@ -15,13 +15,13 @@
 
 ## 다른 페이지로 가기
 
-[다음: 4.2.10. 이동, 회전 또는 다른 변형 도구로 작업한 효과가 보이지 않는 경우](./04-02-10-no-visible-effect-when-trying-to-use-the-move-tool-rotate-or-other-transform–tool.md)
+[➡️ 다음:4.2.10. 이동, 회전 또는 다른 변형 도구로 작업한 효과가 보이지 않는 경우](./04-02-10-no-visible-effect-when-trying-to-use-the-move-tool-rotate-or-other-transform–tool.md)
 
-[이전: 4.2.8. 인덱스 모드에서의 이미지](./04-02-08-the-image-is-in-indexed-color-mode.md)
+[⬅️ 이전: 4.2.8. 인덱스 모드에서의 이미지](./04-02-08-the-image-is-in-indexed-color-mode.md)
 
-[위: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
+[⬆️ 위: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-stuck-tool-opacity.html)
 

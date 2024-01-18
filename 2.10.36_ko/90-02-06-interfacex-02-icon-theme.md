@@ -22,10 +22,10 @@
 
 ## 다른 페이지로 가기
 
-[다음: 90.2.6.3. 도구상자 (Toolbox)](./90-02-06-interfacex-03-toolbox.md)
+[➡️ 다음:90.2.6.3. 도구상자 (Toolbox)](./90-02-06-interfacex-03-toolbox.md)
 
-[이전: 90.2.6.1. 테마 (Theme)](./90-02-06-interfacex-01-theme.md)
+[⬅️ 이전: 90.2.6.1. 테마 (Theme)](./90-02-06-interfacex-01-theme.md)
 
-[위: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
+[⬆️ 위: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)

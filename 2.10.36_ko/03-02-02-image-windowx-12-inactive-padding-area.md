@@ -8,12 +8,12 @@
 ***
 
 ## 다른 페이지로 가기
-[다음: 3.2.2.13. 이미지 (Image Display)](./03-02-02-image-windowx-13-image-display.md)
+[➡️ 다음:3.2.2.13. 이미지 (Image Display)](./03-02-02-image-windowx-13-image-display.md)
 
-[이전: 3.2.2.11. 내비게이션 (Navigation Control)](./03-02-02-image-windowx-11-navigation-control.md)
+[⬅️ 이전: 3.2.2.11. 내비게이션 (Navigation Control)](./03-02-02-image-windowx-11-navigation-control.md)
 
-[위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
+[⬆️ 위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 
-[최상위](./00-home.md)
+[🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-image-window.html)
