@@ -7,6 +7,8 @@
 
 [90.1.10.1. 창(Windows) - 도킹가능한 대화(Dockable dialogs)](./90-01-10-windowsx-01-dockable_dialogs.md)
 
+[90.1.10.2. 창(Windows) - 탭 위치(Tab position)](./90-01-10-windowsx-02-tab_position.md)
+
 ***
 
 ## 다른 페이지로 가기
