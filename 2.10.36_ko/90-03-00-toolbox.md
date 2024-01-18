@@ -18,6 +18,9 @@
 
 [90.3.3. 사각 선택(Rectangle select)](./90-03-03-rectangle_select.md)
 
+#### 그림 90.3.a5. 도구상자의 타원 선택(Ellipse select) 아이콘
+<img width="324" alt="그림 90.3.a5. 도구상자의 타원 선택(Ellipse select) 아이콘" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7d0d8ae9-663d-42e3-9912-365b4df0ca49">
+
 [90.3.4. 타원 선택(Ellipse select)](./90-03-04-ellipse_select.md)
 
 [90.3.5. 자유 선택(Free select)](./90-03-05-free_select.md)
