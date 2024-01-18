@@ -40,6 +40,9 @@
 
 [90.3.8. 퍼지 선택(Fuzzy select)](./90-03-08-fuzzy_select.md)
 
+#### 그림 90.3.a9. 도구상자에서 '색상으로 선택(Select by color)' 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a9. 도구상자에서 '색상으로 선택(Select by color)' 아이콘이 선택된 모습" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9e8e22db-18f5-4690-ac6f-b49d1975a32e">
+
 [90.3.9. 색상으로 선택(Select by color)](./90-03-09-select_by_color.md)
 
 [90.3.10. 잘라내기(Crop)](./90-03-10-crop.md)
