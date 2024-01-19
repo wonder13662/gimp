@@ -48,15 +48,18 @@
 
 [90.3.9. 색상으로 선택(Select by color)](./90-03-09-select_by_color.md)
 
-#### 그림 90.3.a10. 도구상자에서 잘라내기(Crop)' 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a9. 도구상자에서 '색상으로 선택(Select by color)' 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/8e9db3fb-d8b3-418b-9ea4-74bef33aef62">
+#### 그림 90.3.a11. 도구상자에서 잘라내기(Crop)' 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a11. 도구상자에서 잘라내기(Crop)' 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/8e9db3fb-d8b3-418b-9ea4-74bef33aef62">
 
 [90.3.10. 잘라내기(Crop)](./90-03-10-crop.md)
 
-#### 그림 90.3.a11. 도구상자에서 통합 변형(Unified transform)' 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a9. 도구상자에서 '색상으로 선택(Select by color)' 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/04aaa5fe-7495-4703-b139-1dfbc61c9c19">
+#### 그림 90.3.a12. 도구상자에서 통합 변형(Unified transform)' 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a12. 도구상자에서 통합 변형(Unified transform)' 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/04aaa5fe-7495-4703-b139-1dfbc61c9c19">
 
 [90.3.11. 통합 변형(Unified transform)](./90-03-11-unified_transform.md)
+
+#### 그림 90.3.a13. 도구상자에서 회전(Rotate) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a13. 도구상자에서 회전(Rotate) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/854e08e3-561b-46af-a207-1467bb93cc1e">
 
 [90.3.12. 회전(Rotate)](./90-03-12-rotate.md)
 
