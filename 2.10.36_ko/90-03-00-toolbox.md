@@ -1,52 +1,55 @@
 # 90.3. 도구상자(Toolbox)
 
 #### 그림 90.3.a1. 도구상자 - 도구상자 그룹의 사용 여부에 따른 차이
-<img width="1080" alt="그림 90.3.a1. 도구상자 - 도구상자 그룹의 사용 여부에 따른 차이" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e292b65b-23e4-4957-bded-138a364bac56">
+<img width="1080" alt="그림 90.3.a1. 도구상자 - 도구상자 그룹의 사용 여부에 따른 차이" src="https://github.com/wonder13662/gimp/assets/15767104/e292b65b-23e4-4957-bded-138a364bac56">
 
 #### 그림 90.3.a2. 도구상자에서 이동(Move) 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a2. 도구상자에서 이동(Move) 아이콘이 선택된 모습" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ad8fbe93-d22d-4767-988a-21b3a01fc174">
+<img width="324" alt="그림 90.3.a2. 도구상자에서 이동(Move) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/ad8fbe93-d22d-4767-988a-21b3a01fc174">
 
 [90.3.1. 이동(Move)](./90-03-01-move.md)
 
 #### 그림 90.3.a3. 도구상자에서 정렬(Alignment) 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a3. 도구상자에서 정렬(Alignment) 아이콘이 선택된 모습" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8d4dc2f9-8480-4ed7-9682-a71e65076e84">
+<img width="324" alt="그림 90.3.a3. 도구상자에서 정렬(Alignment) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/8d4dc2f9-8480-4ed7-9682-a71e65076e84">
 
 [90.3.2. 정렬(Alignment)](./90-03-02-alignment.md)
 
 #### 그림 90.3.a4. 도구상자에서 사각 선택(Rectangle select) 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a3. 도구상자에서 정렬(Alignment) 아이콘이 선택된 모습" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c5be9f26-28a5-4b98-92c3-4ae57a29580e">
+<img width="324" alt="그림 90.3.a3. 도구상자에서 정렬(Alignment) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/c5be9f26-28a5-4b98-92c3-4ae57a29580e">
 
 [90.3.3. 사각 선택(Rectangle select)](./90-03-03-rectangle_select.md)
 
 #### 그림 90.3.a5. 도구상자에서 타원 선택(Ellipse select) 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a5. 도구상자에서 타원 선택(Ellipse select) 아이콘이 선택된 모습" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7d0d8ae9-663d-42e3-9912-365b4df0ca49">
+<img width="324" alt="그림 90.3.a5. 도구상자에서 타원 선택(Ellipse select) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/7d0d8ae9-663d-42e3-9912-365b4df0ca49">
 
 [90.3.4. 타원 선택(Ellipse select)](./90-03-04-ellipse_select.md)
 
 #### 그림 90.3.a6. 도구상자에서 자유 선택(Free select) 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a6. 도구상자에서 자유 선택(Free select) 아이콘이 선택된 모습" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f0d4efd4-aee4-4af4-a282-a4d2756369fa">
+<img width="324" alt="그림 90.3.a6. 도구상자에서 자유 선택(Free select) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/f0d4efd4-aee4-4af4-a282-a4d2756369fa">
 
 [90.3.5. 자유 선택(Free select)](./90-03-05-free_select.md)
 
 #### 그림 90.3.a7. 도구상자에서 가위 선택(Scissors select) 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a7. 도구상자에서 가위 선택(Scissors select) 아이콘이 선택된 모습" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08">
+<img width="324" alt="그림 90.3.a7. 도구상자에서 가위 선택(Scissors select) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08">
 
 [90.3.6. 가위 선택(Scissors select)](./90-03-06-scissors_select.md)
 
 #### 그림 90.3.a8. 도구상자에서 전경 선택(Foreground select) 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a7. 도구상자에서 전경 선택(Foreground select) 아이콘이 선택된 모습" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21">
+<img width="324" alt="그림 90.3.a7. 도구상자에서 전경 선택(Foreground select) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21">
 
 [90.3.7. 전경 선택(Foreground select)](./90-03-07-foreground_select.md)
 
-#### 그림 90.3.a9. 도구상자에서 퍼지 선택 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a9. 도구상자에서 퍼지 선택 아이콘이 선택된 모습" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9f2fad3e-18f9-43ea-a3ba-a9cb736bc1d5">
+#### 그림 90.3.a9. 도구상자에서 퍼지 선택(Fuzzy select) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a9. 도구상자에서 퍼지 선택(Fuzzy select) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/9f2fad3e-18f9-43ea-a3ba-a9cb736bc1d5">
 
 [90.3.8. 퍼지 선택(Fuzzy select)](./90-03-08-fuzzy_select.md)
 
 #### 그림 90.3.a10. 도구상자에서 '색상으로 선택(Select by color)' 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a9. 도구상자에서 '색상으로 선택(Select by color)' 아이콘이 선택된 모습" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9e8e22db-18f5-4690-ac6f-b49d1975a32e">
+<img width="324" alt="그림 90.3.a9. 도구상자에서 '색상으로 선택(Select by color)' 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/9e8e22db-18f5-4690-ac6f-b49d1975a32e">
 
 [90.3.9. 색상으로 선택(Select by color)](./90-03-09-select_by_color.md)
+
+#### 그림 90.3.a10. 도구상자에서 잘라내기(Crop)' 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a9. 도구상자에서 '색상으로 선택(Select by color)' 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/8e9db3fb-d8b3-418b-9ea4-74bef33aef62">
 
 [90.3.10. 잘라내기(Crop)](./90-03-10-crop.md)
 
