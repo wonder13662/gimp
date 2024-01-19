@@ -63,6 +63,9 @@
 
 [90.3.12. 회전(Rotate)](./90-03-12-rotate.md)
 
+#### 그림 90.3.a14. 도구상자에서 크기 조정(Scale) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a14. 도구상자에서 크기 조정(Scale) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/0ef90f78-bd04-400d-910e-1fb52508531b">
+
 [90.3.13. 크기 조정(Scale)](./90-03-13-scale.md)
 
 [90.3.14. 기울이기(Shear)](./90-03-14-shear.md)
