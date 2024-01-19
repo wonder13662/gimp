@@ -103,6 +103,9 @@
 
 [90.3.20. 골조 변형(Cage transform)](./90-03-20-cage_transform.md)
 
+#### 그림 90.3.a22. 도구상자에서 영역 채우기(Bucket fill) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a22. 도구상자에서 영역 채우기(Bucket fill) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/0550285d-2807-4201-87b2-77b5e8cd8278">
+
 [90.3.21. 영역 채우기(Bucket fill)](./90-03-21-bucket_fill.md)
 
 [90.3.23. 그리기 붓(Paintbrush)](./90-03-23-paintbrush.md)
