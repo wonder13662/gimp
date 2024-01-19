@@ -2,7 +2,7 @@
 # 90.3.8. 퍼지 선택(Fuzzy select)
 
 #### 그림 90.3.8.a1. 도구상자의 퍼지 선택의 도구옵션
-<img width="1080" alt="그림 90.3.8.a1. 도구상자의 퍼지 선택의 도구옵션" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a840a275-9533-4976-b50b-db4bb6622131">
+<img width="1080" alt="그림 90.3.8.a1. 도구상자의 퍼지 선택의 도구옵션" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6aae30e9-4507-4709-ad87-1fdaa1026ddc">
 
 ***
 
