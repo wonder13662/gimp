@@ -1,6 +1,9 @@
 # 90.3. 도구상자(Toolbox)
 # 90.3.20. 골조 변형(Cage transform)
 
+#### 그림 90.3.20.a1. 도구상자의 골조 변형의 도구옵션
+<img width="1080" alt="그림 90.3.20.a1. 도구상자의 골조 변형의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/d258149b-0aa9-4dae-a3bd-1f69b462bb20">
+
 ***
 
 ## 다른 페이지로 가기

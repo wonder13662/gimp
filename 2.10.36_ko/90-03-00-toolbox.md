@@ -98,6 +98,9 @@
 
 [90.3.19. 워프 변형(Warp transform)](./90-03-19-warp_transform.md)
 
+#### 그림 90.3.a21. 도구상자에서 골조 변형(Cage transform) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a21. 도구상자에서 골조 변형(Cage transform) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/570d81d1-0408-456e-8796-ebf123e8ec4f">
+
 [90.3.20. 골조 변형(Cage transform)](./90-03-20-cage_transform.md)
 
 [90.3.21. 영역 채우기(Bucket fill)](./90-03-21-bucket_fill.md)
