@@ -88,6 +88,9 @@
 
 [90.3.17. 3차원 변형(3D Transform)](./90-03-17-3d_transform.md)
 
+#### 그림 90.3.a19. 도구상자에서 변형 다루기(Handle transform) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a19. 도구상자에서 변형 다루기(Handle transform) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/70cd5526-e74c-41a2-8c9a-439ef3725b4d">
+
 [90.3.18. 변형 다루기(Handle transform)](./90-03-18-handle_transform.md)
 
 [90.3.19. 워프 변형(Warp transform)](./90-03-19-warp_transform.md)
