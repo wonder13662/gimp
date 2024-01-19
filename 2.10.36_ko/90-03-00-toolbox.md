@@ -83,6 +83,9 @@
 
 [90.3.16. 원근법(Perspective)](./90-03-16-perspective.md)
 
+#### 그림 90.3.a18. 도구상자에서 3차원 변형(3D Transform) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a18. 도구상자에서 3차원 변형(3D Transform) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/90c1474c-bf80-4eff-ac55-f6ae335c7d69">
+
 [90.3.17. 3차원 변형(3D Transform)](./90-03-17-3d_transform.md)
 
 [90.3.18. 변형 다루기(Handle transform)](./90-03-18-handle_transform.md)
