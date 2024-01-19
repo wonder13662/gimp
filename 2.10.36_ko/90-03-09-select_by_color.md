@@ -2,7 +2,7 @@
 # 90.3.9. 색상으로 선택(Select by color)
 
 #### 그림 90.3.9.a1. 도구상자의 '색상으로 선택'의 도구옵션
-<img width="1080" alt="그림 90.3.9.a1. 도구상자의 '색상으로 선택'의 도구옵션" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e9f357d7-f4a5-43d6-b8a2-b8476f022ae2">
+<img width="1080" alt="그림 90.3.9.a1. 도구상자의 '색상으로 선택'의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/eedf4c08-3efd-45e8-8d08-a894bb22c301">
 
 ***
 
