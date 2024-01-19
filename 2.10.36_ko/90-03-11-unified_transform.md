@@ -1,6 +1,9 @@
 # 90.3. 도구상자(Toolbox)
 # 90.3.11. 통합 변형(Unified transform)
 
+#### 그림 90.3.11.a1. 도구상자의 통합 변형의 도구옵션
+<img width="1080" alt="그림 90.3.10.a1. 도구상자의 통합 변형의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/d6eebbf0-c197-4c44-8f5a-5af5105bee1b">
+
 ***
 
 ## 다른 페이지로 가기

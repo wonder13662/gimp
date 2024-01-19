@@ -53,6 +53,9 @@
 
 [90.3.10. 잘라내기(Crop)](./90-03-10-crop.md)
 
+#### 그림 90.3.a11. 도구상자에서 통합 변형(Unified transform)' 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a9. 도구상자에서 '색상으로 선택(Select by color)' 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/04aaa5fe-7495-4703-b139-1dfbc61c9c19">
+
 [90.3.11. 통합 변형(Unified transform)](./90-03-11-unified_transform.md)
 
 [90.3.12. 회전(Rotate)](./90-03-12-rotate.md)
