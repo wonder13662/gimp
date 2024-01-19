@@ -1,6 +1,9 @@
 # 90.3. 도구상자(Toolbox)
 # 90.3.16. 원근법(Perspective)
 
+#### 그림 90.3.16.a1. 도구상자의 원근법의 도구옵션
+<img width="1080" alt="그림 90.3.16.a1. 도구상자의 원근법의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/7e5d22bd-6ce6-41f2-ae55-d6b4842940b9">
+
 ***
 
 ## 다른 페이지로 가기

@@ -14,7 +14,7 @@
 [90.3.2. 정렬(Alignment)](./90-03-02-alignment.md)
 
 #### 그림 90.3.a4. 도구상자에서 사각 선택(Rectangle select) 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a3. 도구상자에서 정렬(Alignment) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/c5be9f26-28a5-4b98-92c3-4ae57a29580e">
+<img width="324" alt="그림 90.3.a4. 도구상자에서 사각 선택(Rectangle select) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/c5be9f26-28a5-4b98-92c3-4ae57a29580e">
 
 [90.3.3. 사각 선택(Rectangle select)](./90-03-03-rectangle_select.md)
 
@@ -34,7 +34,7 @@
 [90.3.6. 가위 선택(Scissors select)](./90-03-06-scissors_select.md)
 
 #### 그림 90.3.a8. 도구상자에서 전경 선택(Foreground select) 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a7. 도구상자에서 전경 선택(Foreground select) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21">
+<img width="324" alt="그림 90.3.a8. 도구상자에서 전경 선택(Foreground select) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21">
 
 [90.3.7. 전경 선택(Foreground select)](./90-03-07-foreground_select.md)
 
@@ -44,7 +44,7 @@
 [90.3.8. 퍼지 선택(Fuzzy select)](./90-03-08-fuzzy_select.md)
 
 #### 그림 90.3.a10. 도구상자에서 '색상으로 선택(Select by color)' 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a9. 도구상자에서 '색상으로 선택(Select by color)' 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/9e8e22db-18f5-4690-ac6f-b49d1975a32e">
+<img width="324" alt="그림 90.3.a10. 도구상자에서 '색상으로 선택(Select by color)' 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/9e8e22db-18f5-4690-ac6f-b49d1975a32e">
 
 [90.3.9. 색상으로 선택(Select by color)](./90-03-09-select_by_color.md)
 
@@ -74,9 +74,12 @@
 [90.3.14. 기울이기(Shear)](./90-03-14-shear.md)
 
 #### 그림 90.3.a16. 도구상자에서 뒤집기(Flip) 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a15. 도구상자에서 기울이기(Shear) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/8f63d644-7b1d-4ebb-9191-3d5583dc2cb7">
+<img width="324" alt="그림 90.3.a16. 도구상자에서 뒤집기(Flip) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/8f63d644-7b1d-4ebb-9191-3d5583dc2cb7">
 
 [90.3.15. 뒤집기(Flip)](./90-03-15-flip.md)
+
+#### 그림 90.3.a17. 도구상자에서 원근법(Perspective) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a17. 도구상자에서 원근법(Perspective) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/8f8e91a2-810a-470a-98c2-831f7153ed97">
 
 [90.3.16. 원근법(Perspective)](./90-03-16-perspective.md)
 
