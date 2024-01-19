@@ -1,6 +1,9 @@
 # 90.3. 도구상자(Toolbox)
 # 90.3.19. 워프 변형(Warp transform)
 
+#### 그림 90.3.19.a1. 도구상자의 워프 변형의 도구옵션
+<img width="1080" alt="그림 90.3.19.a1. 도구상자의 워프 변형의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/4b48aa28-117b-4b4a-9981-ffeb83e171bb">
+
 ***
 
 ## 다른 페이지로 가기

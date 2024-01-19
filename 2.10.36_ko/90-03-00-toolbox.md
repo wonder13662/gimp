@@ -93,6 +93,9 @@
 
 [90.3.18. 변형 다루기(Handle transform)](./90-03-18-handle_transform.md)
 
+#### 그림 90.3.a20. 도구상자에서 워프 변형(Warp transform) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a20. 도구상자에서 워프 변형(Warp transform) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/ac4bcc92-9d42-4f01-b72f-b18c6fc9fb57">
+
 [90.3.19. 워프 변형(Warp transform)](./90-03-19-warp_transform.md)
 
 [90.3.20. 골조 변형(Cage transform)](./90-03-20-cage_transform.md)
