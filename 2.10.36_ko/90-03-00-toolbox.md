@@ -73,6 +73,9 @@
 
 [90.3.14. 기울이기(Shear)](./90-03-14-shear.md)
 
+#### 그림 90.3.a16. 도구상자에서 뒤집기(Flip) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a15. 도구상자에서 기울이기(Shear) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/8f63d644-7b1d-4ebb-9191-3d5583dc2cb7">
+
 [90.3.15. 뒤집기(Flip)](./90-03-15-flip.md)
 
 [90.3.16. 원근법(Perspective)](./90-03-16-perspective.md)
