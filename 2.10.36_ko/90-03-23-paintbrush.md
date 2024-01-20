@@ -2,7 +2,7 @@
 # 90.3.23. 그리기 붓(Paintbrush)
 
 #### 그림 90.3.23.a1. 도구상자의 그리기 붓의 도구옵션
-<img width="1080" alt="그림 90.3.23.a1. 도구상자의 그리기 붓의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/084dda21-2407-46bf-a4a5-453b539652c9">
+<img width="1080" alt="그림 90.3.23.a1. 도구상자의 그리기 붓의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/a8ef3a23-51e7-46db-a10a-15cffa7ccd6b">
 
 ***
 
