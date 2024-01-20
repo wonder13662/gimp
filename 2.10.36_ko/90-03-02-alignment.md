@@ -2,7 +2,7 @@
 # 90.3.2. 정렬(Alignment)
 
 #### 그림 90.3.2.a1. 도구상자의 정렬의 도구옵션
-<img width="1080" alt="그림 90.3.2.a1. 도구상자의 정렬의 도구옵션" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/97650be6-45fd-4395-8bed-8608ee4e3464">
+<img width="1080" alt="그림 90.3.2.a1. 도구상자의 정렬의 도구옵션" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/367dbd83-27fb-4f19-bde7-aaa7d0bf15b0">
 
 ***
 
