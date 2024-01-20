@@ -143,6 +143,9 @@
 
 [90.3.28. 지우개(Eraser)](./90-03-28-eraser.md)
 
+#### 그림 90.3.a30. 도구상자에서 도장(Clone) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a30. 도구상자에서 도장(Clone) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/7dcf76c1-dbf5-41c6-94de-a1a610a75d3d">
+
 [90.3.29. 도장(Clone)](./90-03-29-clone.md)
 
 [90.3.30. 원근 복제(Perspective clone)](./90-03-30-perspective_clone.md)
