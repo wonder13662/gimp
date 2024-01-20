@@ -123,6 +123,9 @@
 
 [90.3.24. 연필(Pencil)](./90-03-24-pencil.md)
 
+#### 그림 90.3.a26. 도구상자에서 에어브러시(Airbrush) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a26. 도구상자에서 에어브러시(Airbrush) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/2f122e0d-c2bf-4473-9471-88d655f28a52">
+
 [90.3.25. 에어브러시(Airbrush)](./90-03-25-airbrush.md)
 
 [90.3.26. 잉크(Ink)](./90-03-26-ink.md)

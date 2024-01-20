@@ -1,6 +1,9 @@
 # 90.3. 도구상자(Toolbox)
 # 90.3.25. 에어브러시(Airbrush)
 
+#### 그림 90.3.25.a1. 도구상자의 에어브러시의 도구옵션
+<img width="1080" alt="그림 90.3.25.a1. 도구상자의 에어브러시의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/acc9d58a-1db3-4fd2-8dce-c617ea4dd26a">
+
 ***
 
 ## 다른 페이지로 가기
