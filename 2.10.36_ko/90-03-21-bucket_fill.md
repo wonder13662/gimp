@@ -2,7 +2,7 @@
 # 90.3.21. 영역 채우기(Bucket fill)
 
 #### 그림 90.3.21.a1. 도구상자의 영역 채우기의 도구옵션
-<img width="1080" alt="그림 90.3.21.a1. 도구상자의 영역 채우기의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/1327c0cb-9fc1-4848-b17f-0cdef75c39f5">
+<img width="1080" alt="그림 90.3.21.a1. 도구상자의 영역 채우기의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/c9462cb5-c074-4e0b-a94a-af8643171de3">
 
 ***
 
