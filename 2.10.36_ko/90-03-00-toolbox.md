@@ -158,6 +158,9 @@
 
 [90.3.31. 힐링(Healing)](./90-03-31-healing.md)
 
+#### 그림 90.3.a33. 도구상자에서 문지르기(Smudge) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a33. 도구상자에서 문지르기(Smudge) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/29694b78-a2b8-40a3-b11c-a4b0a6dbdb9b">
+
 [90.3.32. 문지르기(Smudge)](./90-03-32-smudge.md)
 
 [90.3.33. 흐릿하게/선명하게(blur/sharpen)](./90-03-33-blur_sharpen.md)
