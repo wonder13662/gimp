@@ -108,10 +108,13 @@
 
 [90.3.21. 영역 채우기(Bucket fill)](./90-03-21-bucket_fill.md)
 
-#### 그림 90.3.a23. 도구상자에서 그라디언트(Gradient) 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a22. 도구상자에서 그라디언트(Gradient) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/38dd2450-ba2d-4f63-8dff-d2d71f0147bb">
+#### 그림 90.3.a24. 도구상자에서 그라디언트(Gradient) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a24. 도구상자에서 그라디언트(Gradient) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/38dd2450-ba2d-4f63-8dff-d2d71f0147bb">
 
 [90.3.22. 그라디언트(Gradient)](./90-03-22-gradient.md)
+
+#### 그림 90.3.a24. 도구상자에서 그리기 붓(Paintbrush) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a24. 도구상자에서 그리기 붓(Paintbrush) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/8037e4e3-2df5-4bee-ab58-5efab4efefd1">
 
 [90.3.23. 그리기 붓(Paintbrush)](./90-03-23-paintbrush.md)
 
