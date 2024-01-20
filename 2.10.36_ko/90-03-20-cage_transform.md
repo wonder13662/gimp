@@ -2,7 +2,7 @@
 # 90.3.20. 골조 변형(Cage transform)
 
 #### 그림 90.3.20.a1. 도구상자의 골조 변형의 도구옵션
-<img width="1080" alt="그림 90.3.20.a1. 도구상자의 골조 변형의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/d258149b-0aa9-4dae-a3bd-1f69b462bb20">
+<img width="1080" alt="그림 90.3.20.a1. 도구상자의 골조 변형의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/05a63e6e-3a5d-4a95-a251-2951a36ad017">
 
 ***
 
