@@ -178,6 +178,9 @@
 
 [90.3.35. 경로(Paths)](./90-03-35-paths.md)
 
+#### 그림 90.3.a37. 도구상자에서 텍스트(Text) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a37. 도구상자에서 텍스트(Text) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/6048b169-9886-400b-808c-5f46c40854ae">
+
 [90.3.36. 텍스트(Text)](./90-03-36-text.md)
 
 [90.3.37. 색상 추출(Color picker)](./90-03-37-color_picker.md)
