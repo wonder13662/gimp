@@ -118,6 +118,9 @@
 
 [90.3.23. 그리기 붓(Paintbrush)](./90-03-23-paintbrush.md)
 
+#### 그림 90.3.a25. 도구상자에서 연필(Pencil) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a25. 도구상자에서 연필(Pencil) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/aa88490b-f8f2-4087-9151-da457b0e271b">
+
 [90.3.24. 연필(Pencil)](./90-03-24-pencil.md)
 
 [90.3.25. 에어브러시(Airbrush)](./90-03-25-airbrush.md)
