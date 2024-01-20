@@ -128,10 +128,13 @@
 
 [90.3.25. 에어브러시(Airbrush)](./90-03-25-airbrush.md)
 
-#### 그림 90.3.a27. 도구상자에서 잉크(Ink) 아이콘이 선택된 모습
-<img width="324" alt="그림 90.3.a27. 도구상자에서 잉크(Ink) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/7cf5d992-ae21-45d0-88c5-fa9a5cccf23c">
+#### 그림 90.3.a28. 도구상자에서 MyPaint 붓(MyPaint brush) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a28. 도구상자에서 MyPaint 붓(MyPaint brush) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/7cf5d992-ae21-45d0-88c5-fa9a5cccf23c">
 
 [90.3.26. 잉크(Ink)](./90-03-26-ink.md)
+
+#### 그림 90.3.a28. 도구상자에서 MyPaint 붓(MyPaint brush) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a28. 도구상자에서 MyPaint 붓(MyPaint brush) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/bfba0689-02ca-4a52-9eaf-7280e95a50da">
 
 [90.3.27. MyPaint 붓(MyPaint brush)](./90-03-27-mypaint_brush.md)
 
