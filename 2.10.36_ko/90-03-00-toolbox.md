@@ -188,6 +188,9 @@
 
 [90.3.37. 색상 추출(Color picker)](./90-03-37-color_picker.md)
 
+#### 그림 90.3.a39. 도구상자에서 측정(Measure) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a39. 도구상자에서 측정(Measure) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/1a8a0150-b649-4649-8c2b-c287a570b07c">
+
 [90.3.38. 측정(Measure)](./90-03-38-measure.md)
 
 [90.3.39. 확대/축소(Zoom)](./90-03-39-zoom.md)
