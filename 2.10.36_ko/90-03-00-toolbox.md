@@ -153,6 +153,9 @@
 
 [90.3.30. 원근 복제(Perspective clone)](./90-03-30-perspective_clone.md)
 
+#### 그림 90.3.a32. 도구상자에서 힐링(Healing) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a32. 도구상자에서 힐링(Healing) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/b9fafcea-e1e4-4534-b7e6-cd7eeb0617b0">
+
 [90.3.31. 힐링(Healing)](./90-03-31-healing.md)
 
 [90.3.32. 문지르기(Smudge)](./90-03-32-smudge.md)
