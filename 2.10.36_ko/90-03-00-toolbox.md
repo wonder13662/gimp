@@ -173,6 +173,9 @@
 
 [90.3.34. 닷지/번(Dodge/Burn)](./90-03-34-dodge_burn.md)
 
+#### 그림 90.3.a36. 도구상자에서 경로(Paths) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a36. 도구상자에서 경로(Paths) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/577e558a-9a9e-4376-9fde-a49781286f10">
+
 [90.3.35. 경로(Paths)](./90-03-35-paths.md)
 
 [90.3.36. 텍스트(Text)](./90-03-36-text.md)
