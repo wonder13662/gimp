@@ -2,7 +2,7 @@
 # 90.3.22. 그라디언트(Gradient)
 
 #### 그림 90.3.22.a1. 도구상자의 그라디언트의 도구옵션
-<img width="1080" alt="그림 90.3.22.a1. 도구상자의 그라디언트의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/07dada93-8164-4e4b-a436-086d041b1404">
+<img width="1080" alt="그림 90.3.22.a1. 도구상자의 그라디언트의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/d206b586-5634-458c-9dd9-b2c74b5a8b80">
 
 ***
 
