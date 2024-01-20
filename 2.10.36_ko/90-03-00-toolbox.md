@@ -148,6 +148,9 @@
 
 [90.3.29. 도장(Clone)](./90-03-29-clone.md)
 
+#### 그림 90.3.a31. 도구상자에서 원근 복제(Perspective clone) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a31. 도구상자에서 원근 복제(Perspective clone) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/1bebe4c7-108c-47be-a1e8-2e6f2e93a8a9">
+
 [90.3.30. 원근 복제(Perspective clone)](./90-03-30-perspective_clone.md)
 
 [90.3.31. 힐링(Healing)](./90-03-31-healing.md)
