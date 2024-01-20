@@ -163,6 +163,9 @@
 
 [90.3.32. 문지르기(Smudge)](./90-03-32-smudge.md)
 
+#### 그림 90.3.a34. 도구상자에서 흐릿하게/선명하게(blur/sharpen) 아이콘이 선택된 모습
+<img width="324" alt="그림 90.3.a34. 도구상자에서 흐릿하게/선명하게(blur/sharpen) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/b0a3539c-e757-40c6-b3a8-66e730e743ce">
+
 [90.3.33. 흐릿하게/선명하게(blur/sharpen)](./90-03-33-blur_sharpen.md)
 
 [90.3.34. 닷지/번(Dodge/Burn)](./90-03-34-dodge_burn.md)
