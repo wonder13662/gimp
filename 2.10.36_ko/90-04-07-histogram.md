@@ -2,7 +2,7 @@
 # 90.4.7. 히스토그램(Histogram)
 
 #### 그림 90.4.7.a1. 히스토그램 대화상자
-<img width="1080" alt="그림 90.4.7.a1. 히스토그램 대화상자" src="">
+<img width="1080" alt="그림 90.4.7.a1. 히스토그램 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/37680d5a-7bd7-4171-b2e6-ccb25009cf48">
 
 ***
 
