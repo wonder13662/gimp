@@ -2,7 +2,7 @@
 # 90.3.38. 측정(Measure)
 
 #### 그림 90.3.38.a1. 도구상자의 측정의 도구옵션
-<img width="1080" alt="그림 90.3.38.a1. 도구상자의 측정의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/be131b9f-03a8-4c92-989c-71421f9fd50f">
+<img width="1080" alt="그림 90.3.38.a1. 도구상자의 측정의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/99980b50-e727-4a3a-aad2-54cab3d76108">
 
 ***
 
