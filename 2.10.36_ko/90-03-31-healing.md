@@ -2,7 +2,7 @@
 # 90.3.31. 힐링(Healing)
 
 #### 그림 90.3.31.a1. 도구상자의 힐링의 도구옵션
-<img width="1080" alt="그림 90.3.31.a1. 도구상자의 힐링의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/a3a6c85b-fdb0-45e4-9466-8180ab256600">
+<img width="1080" alt="그림 90.3.31.a1. 도구상자의 힐링의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/d43f81e0-f9bf-4522-a676-6f98f6190f46">
 
 ***
 
