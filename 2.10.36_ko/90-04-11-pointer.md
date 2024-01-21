@@ -2,7 +2,7 @@
 # 90.4.11. 포인터(Pointer)
 
 #### 그림 90.4.11.a1. 포인터 대화상자
-<img width="1080" alt="그림 90.4.11.a1. 포인터 대화상자" src="">
+<img width="1080" alt="그림 90.4.11.a1. 포인터 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/fe17efcc-367e-420a-843f-4bcebc841eb9">
 
 ***
 
