@@ -2,7 +2,7 @@
 # 90.4.4. 채널(Channels)
 
 #### 그림 90.4.4.a1. 채널 대화상자
-<img width="1080" alt="그림 90.4.4.a1. 채널 대화상자" src="">
+<img width="1080" alt="그림 90.4.4.a1. 채널 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/01fb92bf-a3ff-4f4d-a3a1-20d1fc102d02">
 
 ***
 
