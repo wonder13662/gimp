@@ -2,7 +2,7 @@
 # 90.3.37. 색상 추출(Color picker)
 
 #### 그림 90.3.37.a1. 도구상자의 색상 추출의 도구옵션
-<img width="1080" alt="그림 90.3.37.a1. 도구상자의 색상 추출의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/84740e46-a99b-42ee-b102-328f07685f66">
+<img width="1080" alt="그림 90.3.37.a1. 도구상자의 색상 추출의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/d34b30f8-04b9-4a1c-a294-5bfacf4e7e04">
 
 ***
 
