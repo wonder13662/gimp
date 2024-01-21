@@ -2,7 +2,7 @@
 # 90.4.10. 실행취소 이력(Undo History)
 
 #### 그림 90.4.10.a1. 실행취소 이력 대화상자
-<img width="1080" alt="그림 90.4.10.a1. 실행취소 이력 대화상자" src="">
+<img width="1080" alt="그림 90.4.10.a1. 실행취소 이력 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/351ada2a-1b19-4105-803c-abeff657ee07">
 
 ***
 
