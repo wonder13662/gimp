@@ -2,7 +2,7 @@
 # 90.3.27. MyPaint 붓(MyPaint brush)
 
 #### 그림 90.3.27.a1. 도구상자의 MyPaint 붓의 도구옵션
-<img width="1080" alt="그림 90.3.27.a1. 도구상자의 MyPaint 붓의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/75445277-98b6-41f8-a773-14e36d8a8457">
+<img width="1080" alt="그림 90.3.27.a1. 도구상자의 MyPaint 붓의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/bee8fee6-2a8b-40c5-9023-a553346e5d69">
 
 ***
 
