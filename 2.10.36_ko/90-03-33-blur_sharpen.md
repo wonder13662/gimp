@@ -2,7 +2,7 @@
 # 90.3.33. 흐릿하게/선명하게(blur/sharpen)
 
 #### 그림 90.3.33.a1. 도구상자의 '흐릿하게/선명하게'의 도구옵션
-<img width="1080" alt="그림 90.3.33.a1. 도구상자의 '흐릿하게/선명하게'의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/d0df57d9-1719-4b19-91af-775eae7bff89">
+<img width="1080" alt="그림 90.3.33.a1. 도구상자의 '흐릿하게/선명하게'의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/1bdb3e8c-85fc-4522-b84d-37609ce03dae">
 
 ***
 
