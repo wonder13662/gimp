@@ -2,7 +2,7 @@
 # 90.4.2. 장치 상태(Device status)
 
 #### 그림 90.4.2.a1. 장치 상태 대화상자
-<img width="1080" alt="그림 90.4.2.a1. 장치 상태 대화상자" src="">
+<img width="1080" alt="그림 90.4.2.a1. 장치 상태 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/0613483f-e552-4314-985c-2871a6adc5bf">
 
 ***
 
