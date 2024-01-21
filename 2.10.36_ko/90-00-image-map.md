@@ -12,3 +12,5 @@
 [90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
 
 <img width="1080" alt="90.3. 도구상자(Toolbox)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e292b65b-23e4-4957-bded-138a364bac56">
+
+[90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
