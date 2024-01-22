@@ -2,7 +2,7 @@
 # 90.4.17. 마이페인트 붓(MyPaint brushes)
 
 #### 그림 90.4.17.a1. '마이페인트 붓' 대화상자
-<img width="1080" alt="그림 90.4.17.a1. '마이페인트 붓' 대화상자" src="">
+<img width="1080" alt="그림 90.4.17.a1. '마이페인트 붓' 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/d5fa3c28-6294-462a-958d-b4fb62a87417">
 
 ***
 
