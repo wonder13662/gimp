@@ -2,7 +2,7 @@
 # 90.4.22. 도구 프리셋(Tool Preset)
 
 #### 그림 90.4.22.a1. 도구 프리셋 대화상자
-<img width="1080" alt="그림 90.4.22.a1. 도구 프리셋 대화상자" src="">
+<img width="1080" alt="그림 90.4.22.a1. 도구 프리셋 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/87373a92-d4a3-4575-816c-7b01f29d6a5a">
 
 ***
 
