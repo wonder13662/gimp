@@ -2,7 +2,7 @@
 # 90.4.12. 표본점(Sample Points)
 
 #### 그림 90.4.12.a1. 표본점 대화상자
-<img width="1080" alt="그림 90.4.12.a1. 표본점 대화상자" src="">
+<img width="1080" alt="그림 90.4.12.a1. 표본점 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/40543855-bb17-4a88-9cd1-3fe1c0b6518a">
 
 ***
 
