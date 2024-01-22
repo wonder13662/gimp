@@ -24,7 +24,7 @@
 
 [90.4.12. 표본점(Sample Points)](./90-04-12-sample_points.md)
 
-[90.4.13. 대칭 페인팅(Symmetry Painting)](./90-04-13-symmetry_painting.md)
+[90.4.13. 대칭 그리기(Symmetry Painting)](./90-04-13-symmetry_painting.md)
 
 [90.4.14. 색(Colors)](./90-04-14-colors.md)
 

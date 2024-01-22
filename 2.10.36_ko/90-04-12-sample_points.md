@@ -8,7 +8,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.13. 대칭 페인팅(Symmetry Painting)](./90-04-13-symmetry_painting.md)
+[➡️ 다음: 90.4.13. 대칭 그리기(Symmetry Painting)](./90-04-13-symmetry_painting.md)
 
 [⬅️ 이전: 90.4.11. 포인터(Pointer)](./90-04-11-pointer.md)
 
