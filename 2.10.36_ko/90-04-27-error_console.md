@@ -2,7 +2,9 @@
 # 90.4.27. 오류 콘솔(Error Console)
 
 #### 그림 90.4.27.a1. 오류 콘솔 대화상자
-<img width="1080" alt="그림 90.4.27.a1. 오류 콘솔 대화상자" src="">
+<img width="1080" alt="그림 90.4.27.a1. 오류 콘솔 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/0ee69c3b-c9a7-40a3-974a-dbaedae8eb3a">
+
+(TODO windows 에러 메시지 노출 이미지로 교체 필요합니다.)
 
 ***
 
