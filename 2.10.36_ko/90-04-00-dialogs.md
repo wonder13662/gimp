@@ -6,7 +6,7 @@
 [90.4.1. 도구 옵션(Tool Options)](./90-04-01-tool_options.md)
 
 #### 그림 90.4.a2. 장치 상태(Device status) - Mac, 우리말
-<img width="444" alt="그림 90.4.1.a1. 도구 옵션 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/925ce4eb-be41-4ef3-b9db-558810edbd6c">
+<img width="222" alt="그림 90.4.1.a1. 도구 옵션 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/925ce4eb-be41-4ef3-b9db-558810edbd6c">
 
 [90.4.2. 장치 상태(Device status)](./90-04-02-device_status.md)
 

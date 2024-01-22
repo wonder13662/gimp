@@ -2,7 +2,7 @@
 # 90.4.1. 도구 옵션(Tool Options)
 
 #### 그림 90.4.1.a1. 도구 옵션 대화상자
-<img width="1080" alt="그림 90.4.1.a1. 도구 옵션 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/e078f711-5e32-4fbf-9ef9-a681a9f1bcb3">
+<img width="1080" alt="그림 90.4.1.a1. 도구 옵션 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/71b968e1-ade9-44bb-a064-286b9fa9989b">
 
 ***
 
