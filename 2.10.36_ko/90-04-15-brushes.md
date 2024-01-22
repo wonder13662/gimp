@@ -8,7 +8,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.16. 다이나믹 페인팅(Paint Dynamics)](./90-04-16-paint_dynamics.md)
+[➡️ 다음: 90.4.16. 페인트 동적 요소(Paint Dynamics)](./90-04-16-paint_dynamics.md)
 
 [⬅️ 이전: 90.4.14. 색(Colors)](./90-04-14-colors.md)
 

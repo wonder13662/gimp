@@ -10,7 +10,7 @@
 
 [➡️ 다음: 90.4.18. 무늬(Patterns)](./90-04-18-patterns.md)
 
-[⬅️ 이전: 90.4.16. 다이나믹 페인팅(Paint Dynamics)](./90-04-16-paint_dynamics.md)
+[⬅️ 이전: 90.4.16. 페인트 동적 요소(Paint Dynamics)](./90-04-16-paint_dynamics.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

@@ -30,7 +30,7 @@
 
 [90.4.15. 붓(Brushes)](./90-04-15-brushes.md)
 
-[90.4.16. 다이나믹 페인팅(Paint Dynamics)](./90-04-16-paint_dynamics.md)
+[90.4.16. 페인트 동적 요소(Paint Dynamics)](./90-04-16-paint_dynamics.md)
 
 [90.4.17. 마이페인트 붓(MyPaint brushes)](./90-04-17-mypaint_brushes.md)
 
