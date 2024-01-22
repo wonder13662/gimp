@@ -1,6 +1,12 @@
 # 90.4. 대화상자(Dialogs)
 
+#### 그림 90.4.a1. 도구 옵션(Tool Option) - Mac, 우리말
+
 [90.4.1. 도구 옵션(Tool Options)](./90-04-01-tool_options.md)
+<img width="324" alt="그림 90.4.1.a1. 도구 옵션 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/e078f711-5e32-4fbf-9ef9-a681a9f1bcb3">
+
+#### 그림 90.4.a2. 장치 상태(Device status) - Mac, 우리말
+<img width="444" alt="그림 90.4.1.a1. 도구 옵션 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/e078f711-5e32-4fbf-9ef9-a681a9f1bcb3">
 
 [90.4.2. 장치 상태(Device status)](./90-04-02-device_status.md)
 
