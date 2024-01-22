@@ -4,19 +4,19 @@
 
 #### 90.2.5.1.a1. 언어설정: 우리말 (한국어) - windows
 
-<img width="720" alt="90.2.5.1.a1. 언어설정: 우리말 (한국어) - windows" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d58ba6c0-6329-411b-b8a3-94c7a8b80150">
+<img width="720" alt="90.2.5.1.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/d58ba6c0-6329-411b-b8a3-94c7a8b80150">
 
 #### 90.2.5.1.a2. 언어설정: 우리말 (한국어) - mac
 
-<img width="720" alt="90.2.5.1.a2. 언어설정: 우리말 (한국어) - mac" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/71074324-5c32-44fa-b3af-18a31bfdd50c">
+<img width="720" alt="90.2.5.1.a2. 언어설정: 우리말 (한국어) - mac" src="https://github.com/wonder13662/gimp/assets/15767104/71074324-5c32-44fa-b3af-18a31bfdd50c">
 
 #### 90.2.5.1.a3. 언어설정: 영어 - windows
 
-<img width="720" alt="90.2.5.1.a3. 언어설정: 영어 - windows" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c380b6c5-abab-4bd2-a53f-7d611da79230">
+<img width="720" alt="90.2.5.1.a3. 언어설정: 영어 - windows" src="https://github.com/wonder13662/gimp/assets/15767104/c380b6c5-abab-4bd2-a53f-7d611da79230">
 
 #### 90.2.5.1.a4. 언어설정: 영어 - mac
 
-<img width="720" alt="90.2.5.1.a4. 언어설정: 영어 - mac" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2048a81d-6915-42b2-ba9a-6762e4dba7a9">
+<img width="720" alt="90.2.5.1.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/2048a81d-6915-42b2-ba9a-6762e4dba7a9">
 
 ***
 
