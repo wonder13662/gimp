@@ -1,14 +1,12 @@
 # 90.4. 대화상자(Dialogs)
 
+## [90.4.1. 도구 옵션(Tool Options)](./90-04-01-tool_options.md)
 #### 그림 90.4.a1. 도구 옵션(Tool Option)
 <img width="240" alt="그림 90.4.1.a1. 도구 옵션 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/1751c179-af5f-4b81-88f9-55b5b1d2c9f9">
 
-[90.4.1. 도구 옵션(Tool Options)](./90-04-01-tool_options.md)
-
+## [90.4.2. 장치 상태(Device status)](./90-04-02-device_status.md)
 #### 그림 90.4.a2. 장치 상태(Device status)
 <img width="240" alt="그림 90.4.1.a1. 도구 옵션 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/925ce4eb-be41-4ef3-b9db-558810edbd6c">
-
-[90.4.2. 장치 상태(Device status)](./90-04-02-device_status.md)
 
 #### 그림 90.4.a3. 레이어(Layers)
 <img width="240" alt="그림 90.4.a3. 레이어(Layers)" src="https://github.com/wonder13662/gimp/assets/15767104/b49bae4c-6cf6-42ca-931e-89efad9ee3f1">
