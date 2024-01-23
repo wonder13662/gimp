@@ -1,6 +1,6 @@
 # 90.4. 대화상자(Dialogs)
 # 90.4.6. 색상표(Colormap)
-
+## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.4.6.a1. 색상표 대화상자
 <img width="1080" alt="그림 90.4.6.a1. 색상표 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/e6fff5e0-f875-48d7-9d55-71a8c40ab677">
 

@@ -1,6 +1,6 @@
 # 90.4. 대화상자(Dialogs)
 # 90.4.2. 장치 상태(Device status)
-
+## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.4.2.a1. 장치 상태 대화상자
 <img width="1080" alt="그림 90.4.2.a1. 장치 상태 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/0613483f-e552-4314-985c-2871a6adc5bf">
 

@@ -1,6 +1,6 @@
 # 90.4. 대화상자(Dialogs)
 # 90.4.9. 내비게이션(Navigation)
-
+## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.4.9.a1. 내비게이션 대화상자
 <img width="1080" alt="그림 90.4.9.a1. 내비게이션 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/d4cfe429-5066-42c1-90aa-32c419f48780">
 

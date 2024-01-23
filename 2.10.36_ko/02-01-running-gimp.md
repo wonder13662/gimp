@@ -152,16 +152,16 @@ GTK+ 옵션을 보여줍니다.
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a232c28c-a137-497b-a2d6-0fec8b6ace11"></video>
 
 아래 예시들은 위 옵션으로 실행한 경우(`-no-data`)와 그렇지 않은 경우를 비교한 이미지입니다.
-#### 그림 2.1.4. 붓(brush)
+#### 그림 2.1.4. 붓 대화상자(brush dialog)
 <img width="480" alt="no-data-brush" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/59bbf85f-d885-4f8a-bc09-d05a0fc7ac23">
 
-#### 그림 2.1.5. 그라디언트(gradient)
+#### 그림 2.1.5. 그라디언트 대화상자(gradient dialog)
 <img width="426" alt="no-data-gradient" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ad0a4680-d117-47f0-90f0-edf3e532020a">
 
-#### 그림 2.1.6. 색상표(palette)
+#### 그림 2.1.6. 색상표 대화상자(palette dialog)
 <img width="425" alt="no-data-palette" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0734f993-5e82-4182-a986-931dadbb3eb9">
 
-#### 그림 2.1.7. 무늬(pattern)
+#### 그림 2.1.7. 무늬 대화상자(pattern dialog)
 <img width="429" alt="no-data-pattern" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c918e337-d746-438c-ab0c-f036dbc7e46f">
 
 ### 영상 2.1.16. `-f`, `-no-fonts`
