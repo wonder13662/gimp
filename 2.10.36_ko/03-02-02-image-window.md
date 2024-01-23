@@ -3,7 +3,7 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 
 #### `Single-Window Mode`을 제어해서 단일창, 다중창으로 바꿀 수 있습니다
 #### 그림 3.2.2.1.
-<img width="223" alt="single-window-en" src="https://github.com/wonder13662/gimp/assets/15767104/b646e770-2f0d-44b5-b3ca-0451e8b6efa3">
+<img width="1080" alt="single-window-en" src="https://github.com/wonder13662/gimp/assets/15767104/b646e770-2f0d-44b5-b3ca-0451e8b6efa3">
 
 
 이미지 없이 GIMP를 실행하면, 단일창 모드에서는 이미지 창이 비어 있게 되고, 다중창 모드에서는 빈 이미지 창이 열립니다.
