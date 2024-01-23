@@ -17,10 +17,10 @@
 
 <img width="720" alt="90.2.9.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/19d42cdd-58ed-4aee-b7fb-bedff9cfe966">
 
-
 ***
 
 ## 다른 페이지로 가기
+[➡️ 다음: 90.2.10. 실험 놀이터 (Experimental Playground)](./90-02-10-playground.md)
 
 [⬅️ 이전: 90.2.8.1. 입력 제어기 (Input Controllers)](./90-02-08-input-devicex-01-input-controllers.md)
 

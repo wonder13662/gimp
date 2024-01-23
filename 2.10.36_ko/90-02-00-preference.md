@@ -65,6 +65,9 @@
 ## [90.2.9. 폴더 (Folders)](./90-02-09-folders.md)
 [<img width="720" alt="90.2.9.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/f6ce6a93-c730-4aa4-aa84-6fa406f3e276">](./90-02-09-folders.md)
 
+## [90.2.10. 실험 놀이터 (Experimental Playground)](./90-02-10-playground.md)
+(TODO 이미지 추가 필요)
+
 ***
 
 ## 다른 페이지로 가기
