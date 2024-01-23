@@ -159,6 +159,10 @@
 #### 그림 90.3.a40. 도구상자에서 확대/축소(Zoom) 아이콘이 선택된 모습
 [<img width="324" alt="그림 90.3.a40. 도구상자에서 확대/축소(Zoom) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/d7a5302f-b3f2-48b3-88b7-067689321102">](./90-03-39-zoom.md)
 
+## 이미지 사용 사례
+#### [그림 3.2.6.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-326)
+[<img width="203" alt="toolbox" src="https://github.com/wonder13662/gimp/assets/15767104/cd57acfd-21e1-494e-ab23-978bc54b0686">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-326)
+
 ***
 
 ## 다른 페이지로 가기

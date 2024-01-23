@@ -18,6 +18,16 @@
 
 <img width="720" alt="90.2.6.3.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/71206fe4-e98e-4886-83c2-4cd937d6c9b7">
 
+## 이미지 사용 사례
+#### [그림 3.2.5. 설정-도구상자](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-325-%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC-%E1%84%83%E1%85%A9%E1%84%80%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1)
+[<img width="699" alt="설정-도구상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/82f5d614-ed74-4854-8f81-97d5061b27c7">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-325-%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC-%E1%84%83%E1%85%A9%E1%84%80%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1)
+
+#### [그림 3.2.6. settings-toolbox](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-326-settings-toolbox)
+[<img width="699" alt="settings-toolbox" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8bdcdb57-b077-4e35-bcbb-c38ee5b15f71">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-326-settings-toolbox)
+
+#### [영상 3.2.1.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-321)
+[<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-321)
+
 ***
 
 ## 다른 페이지로 가기

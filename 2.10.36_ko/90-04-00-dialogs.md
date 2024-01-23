@@ -112,6 +112,19 @@
 #### 그림 90.4.a28. 상황판(Dashboard)
 [<img width="240" alt="그림 90.4.a28. 상황판(Dashboard)" src="https://github.com/wonder13662/gimp/assets/15767104/af816df2-6864-4188-aed7-b8b5d713ee25">](./90-04-28-dashboard.md)
 
+## 이미지 사용 사례
+#### [영상 3.2.2.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-322)
+<video controls="controls" width="394" src="https://github.com/wonder13662/gimp/assets/15767104/dc6bca6a-ac80-41a3-9d40-904cf22a563c"></video>
+
+#### [영상 3.2.10. 탭 추가(Add Tab)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-3210-%ED%83%AD-%EC%B6%94%EA%B0%80add-tab)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2859f79-24af-41ff-8ec6-e859da6c8fb8"></video>
+
+#### [영상 3.2.11. 탭 닫기(Close Tab)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-3211-%ED%83%AD-%EB%8B%AB%EA%B8%B0close-tab)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5d38720a-30b5-4466-9719-292c7f66dc5c"></video>
+
+#### [영상 3.2.12. 탭 떼어내기(Detach Tab)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-3212-%ED%83%AD-%EB%96%BC%EC%96%B4%EB%82%B4%EA%B8%B0detach-tab)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/50310e90-46d0-445f-9801-a676bd5db9e7"></video>
+
 ***
 
 ## 다른 페이지로 가기
