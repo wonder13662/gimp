@@ -2,7 +2,7 @@
 # 3.2.2.1. 타이틀 바 (Title Bar)
 ## 3.2.2.1.1. 타이틀 바의 위치
 #### 그림 3.2.2.11. 타이틀 바의 위치 (빨간색 영역)
-<img width="720" alt="03-02-02-single-multi-window-01-title-bar" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f7103b1f-daaa-4508-9ec7-f349e5bf985f">
+<img width="1080" alt="03-02-02-single-multi-window-01-title-bar" src="https://github.com/wonder13662/gimp/assets/15767104/f7103b1f-daaa-4508-9ec7-f349e5bf985f">
 
 ## 3.2.2.1.2. 이미지 창에 이미지가 없는 경우
 
