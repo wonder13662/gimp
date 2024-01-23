@@ -4,6 +4,10 @@
 #### 그림 90.4.15.a1. 붓 대화상자
 <img width="1080" alt="그림 90.4.15.a1. 붓 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/ad919f08-86ac-4258-ae07-67a799afe3df">
 
+## 이미지 사용 사례
+#### [그림 2.1.4. 붓 대화상자(brush dialog)](https://wonder13662.github.io/gimp/2.10.36_ko/02-01-running-gimp.html#%EA%B7%B8%EB%A6%BC-214-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90brush-dialog)
+[<img width="480" alt="no-data-brush" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/59bbf85f-d885-4f8a-bc09-d05a0fc7ac23">](https://wonder13662.github.io/gimp/2.10.36_ko/02-01-running-gimp.html#%EA%B7%B8%EB%A6%BC-214-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90brush-dialog)
+
 ***
 
 ## 다른 페이지로 가기
