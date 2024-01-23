@@ -12,7 +12,7 @@
 
 [90.1.10.3. 탭 위치(Tab position)](./90-01-10-windowsx-03-tab_position.md)
 
-## 이미지 사용 사례
+## 기능이 쓰인 곳
 #### [그림 3.2.1. 다중창 모드(multi-window mode)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-321-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9Cmulti-window-mode)
 [<img width="540" alt="multi-window-mode" src="https://github.com/wonder13662/gimp/assets/15767104/c253f6d6-0ad2-4791-bbd2-e60c2f0c0c69">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-321-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9Cmulti-window-mode)
 

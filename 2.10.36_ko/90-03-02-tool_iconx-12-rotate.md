@@ -1,0 +1,20 @@
+# [90. 이미지 맵](./90-00-image-map.md)
+# [90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
+# 90.3.2.12. 도구 아이콘(Tool icon) - 회전(Rotate)
+
+#### 그림 90.3.12.a1. 도구상자의 회전의 도구옵션
+<img width="1080" alt="그림 90.3.12.a1. 도구상자의 회전의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/d3c99135-bee0-4ac1-853c-2bac787859bc">
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 90.3.2.13. 도구 아이콘(Tool icon) - 크기 조정(Scale)](./90-03-02-tool_iconx-13-scale.md)
+
+[⬅️ 이전: 90.3.2.11. 도구 아이콘(Tool icon) - 통합 변형(Unified transform)](./90-03-02-tool_iconx-11-unified_transform.md)
+
+[⬆️ 위: 90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
+
+[⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
+
+[🏠 홈](./00-home.md)

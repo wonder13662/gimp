@@ -9,7 +9,7 @@
 #### 그림 90.1.10.1.a2. 최근 닫은 독 (Mac)
 (TODO 이미지 추가 필요)
 
-## 이미지 사용 사례
+## 기능이 쓰인 곳
 #### [그림 3.2.11. `창` → `최근 닫은 독`](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-3211-%EC%B0%BD--%EC%B5%9C%EA%B7%BC-%EB%8B%AB%EC%9D%80-%EB%8F%85)
 [<img width="358" alt="창-최근_닫은_독" src="https://github.com/wonder13662/gimp/assets/15767104/90bfd69b-48ab-46d1-992d-18377afc1408">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-3211-%EC%B0%BD--%EC%B5%9C%EA%B7%BC-%EB%8B%AB%EC%9D%80-%EB%8F%85)
 

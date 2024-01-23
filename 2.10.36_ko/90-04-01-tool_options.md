@@ -5,7 +5,7 @@
 #### 그림 90.4.1.a1. 도구 옵션 대화상자
 <img width="1080" alt="그림 90.4.1.a1. 도구 옵션 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/71b968e1-ade9-44bb-a064-286b9fa9989b">
 
-## 이미지 사용 사례
+## 기능이 쓰인 곳
 #### [그림 3.2.7. 도구 옵션](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-327-%E1%84%83%E1%85%A9%E1%84%80%E1%85%AE-%E1%84%8B%E1%85%A9%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB)
 [<img width="221" alt="도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/9e209176-5c6c-41c8-9f55-815aa4945a9f">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-327-%E1%84%83%E1%85%A9%E1%84%80%E1%85%AE-%E1%84%8B%E1%85%A9%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB)
 

@@ -113,7 +113,7 @@
 #### 그림 90.4.a28. 상황판(Dashboard)
 [<img width="240" alt="그림 90.4.a28. 상황판(Dashboard)" src="https://github.com/wonder13662/gimp/assets/15767104/af816df2-6864-4188-aed7-b8b5d713ee25">](./90-04-28-dashboard.md)
 
-## 이미지 사용 사례
+## 기능이 쓰인 곳
 #### [영상 3.2.2.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-322)
 <video controls="controls" width="394" src="https://github.com/wonder13662/gimp/assets/15767104/dc6bca6a-ac80-41a3-9d40-904cf22a563c"></video>
 
@@ -130,7 +130,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.3.1. 이동(Move)](./90-03-01-move.md)
+[➡️ 다음: 90.3.2.1. 도구 아이콘(Tool icon) - 이동(Move)](./90-03-02-tool_iconx-01-move.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 
