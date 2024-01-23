@@ -2,7 +2,7 @@
 # 90.1.9. 필터(Filters)
 # 90.1.9.12. 필터(Filters) - 렌더(Render)
 # 90.1.9.12.1. 필터(Filters) - 렌더(Render) - 프랙탈(Fractals)
-
+## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.9.12.1.a1. 필터 - 렌더 - 프랙탈 (Windows)
 <img width="1080" alt="그림 90.1.9.12.1.a1. 필터 - 렌더 - 프랙탈 (Windows)" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/527a8660-bba4-4d50-86b9-90f60d20abd3">
 

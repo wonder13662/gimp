@@ -1,7 +1,7 @@
 # 90.1. 이미지 메뉴 바(Image Menu Bar)
 # 90.1.5. 이미지(Image)
 # 90.1.5.1. 이미지(Image) - 모드(Mode)
-
+## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.5.1.a1. 이미지 - 모드 (Windows)
 <img width="1080" alt="그림 90.1.5.1.a1. 편집(Edit) - 버퍼(Buffer)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/97db94d4-9a8b-4ab5-9ab3-5e65da6737c7">
 

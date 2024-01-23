@@ -1,7 +1,7 @@
 # 90.1. 이미지 메뉴 바(Image Menu Bar)
 # 90.1.4. 보기(View)
 # 90.1.4.1. 보기(View) - 확대(Zoom)
-
+## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.4.1.a1. 보기 - 확대 (Windows)
 <img width="1080" alt="그림 90.1.4.1.a1. 편집(Edit) - 버퍼(Buffer)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/409fde1c-bc21-4c2f-89fc-d41e4e5bc350">
 

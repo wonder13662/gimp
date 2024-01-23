@@ -1,7 +1,7 @@
 # 90.1. 이미지 메뉴 바(Image Menu Bar)
 # 90.1.7. 색(Colors)
 # 90.1.7.2. 색(Colors) - 성분(Components)
-
+## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.7.2.a1. 색 - 성분 (Windows)
 <img width="1080" alt="그림 90.1.7.2.a1. 색 - 성분 (Windows)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0be3ba66-ce2d-48d0-acd2-8011468b4a38">
 

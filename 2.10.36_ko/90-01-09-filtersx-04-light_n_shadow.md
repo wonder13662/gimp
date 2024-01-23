@@ -1,7 +1,7 @@
 # 90.1. 이미지 메뉴 바(Image Menu Bar)
 # 90.1.9. 필터(Filters)
 # 90.1.9.4. 필터(Filters) - 빛/그림자(Light & Shadow)
-
+## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.9.4.a1. 필터 - 빛/그림자 (Windows)
 <img width="1080" alt="그림 90.1.9.4.a1. 필터 - 빛/그림자 (Windows)" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/43219280-b1fc-4e43-92bc-3454532e2454">
 

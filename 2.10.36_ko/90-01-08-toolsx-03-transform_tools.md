@@ -1,7 +1,7 @@
 # 90.1. 이미지 메뉴 바(Image Menu Bar)
 # 90.1.8. 도구(Tools)
 # 90.1.8.3. 도구(Tools) - 변형 도구(Transform tools)
-
+## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.8.3.a1. 도구 - 변형 도구 (Windows)
 <img width="1080" alt="그림 90.1.8.3.a1. 도구 - 변형 도구 (Windows)" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1d932614-6cf4-45aa-8736-352066fae754">
 

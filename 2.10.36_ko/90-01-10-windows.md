@@ -1,6 +1,6 @@
 # 90.1. 이미지 메뉴 바(Image Menu Bar)
 # 90.1.10. 창(Windows)
-
+## 운영체제(OS)와 언어설정 조건에 따른 모습
 <img width="1080" alt="90.1.10. 창(Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/5898f1cf-caac-4702-a2a8-eb6586d704fe">
 
 ## 하위 메뉴

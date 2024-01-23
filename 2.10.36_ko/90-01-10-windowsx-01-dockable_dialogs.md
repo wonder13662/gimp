@@ -1,7 +1,7 @@
 # 90.1. 이미지 메뉴 바(Image Menu Bar)
 # 90.1.10. 창(Windows)
 # 90.1.10.1. 창(Windows) - 도킹가능한 대화(Dockable dialogs)
-
+## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.10.1.a1. 창 - 도킹가능한 대화 (Windows)
 <img width="1080" alt="그림 90.1.10.1.a1. 창 - 도킹가능한 대화 (Windows)" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2a664a57-69e3-4890-86c2-400a912ecb2b">
 

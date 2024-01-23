@@ -1,7 +1,7 @@
 # 90.1. 이미지 메뉴 바(Image Menu Bar)
 # 90.1.6. 레이어(Layer)
 # 90.1.6.3. 레이어(Layer) - 투명도(Transparency)
-
+## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.6.3.a1. 레이어 - 투명도 (Windows)
 <img width="1080" alt="그림 90.1.6.3.a1. 레이어 - 투명도 (Windows)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/84e8b6e6-106c-4164-8aa0-be1f57134377">
 
