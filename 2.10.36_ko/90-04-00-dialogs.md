@@ -110,7 +110,7 @@
 
 ## [90.4.28. 상황판(Dashboard)](./90-04-28-dashboard.md)
 #### 그림 90.4.a28. 상황판(Dashboard)
-[<img width="240" alt="그림 90.4.a28. 상황판(Dashboard)" src="https://github.com/wonder13662/gimp/assets/15767104/eade0b8d-0d3d-491b-b5cf-89eebb7f9b25">](./90-04-28-dashboard.md)
+[<img width="240" alt="그림 90.4.a28. 상황판(Dashboard)" src="https://github.com/wonder13662/gimp/assets/15767104/af816df2-6864-4188-aed7-b8b5d713ee25">](./90-04-28-dashboard.md)
 
 ***
 
