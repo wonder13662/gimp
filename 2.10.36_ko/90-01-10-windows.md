@@ -49,7 +49,8 @@
 #### [영상 3.2.8. Alt(Windows) or ⌥(Mac) + `숫자키`](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-328-altwindows-or-mac--%EC%88%AB%EC%9E%90%ED%82%A4)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/262a1036-9dc3-4cb8-82f9-825383aec2b9"></video>
 
-
+#### [그림 3.2.2.1.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-window.html#%EA%B7%B8%EB%A6%BC-3221)
+[<img width="223" alt="single-window-en" src="https://github.com/wonder13662/gimp/assets/15767104/b646e770-2f0d-44b5-b3ca-0451e8b6efa3">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-window.html#%EA%B7%B8%EB%A6%BC-3221)
 
 ***
 
