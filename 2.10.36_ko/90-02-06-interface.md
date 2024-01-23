@@ -17,6 +17,12 @@
 
 <img width="720" alt="90.2.6.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/4c736ff0-fc88-4d36-a7b7-94f5ff3689b7">
 
+## 이미지 사용 사례
+### [2.1.2. 언어 설정](https://wonder13662.github.io/gimp/2.10.36_ko/02-01-running-gimp.html#212-%EC%96%B8%EC%96%B4-%EC%84%A4%EC%A0%95)
+
+#### 그림 2.1.1. Settings(Preference) > GIMP 언어설정 바꾸기
+[<img width="720" alt="user interface language" src="https://github.com/wonder13662/gimp/assets/15767104/8a58b8e2-270c-4983-b65d-a9f7b4b6ce1a">](https://wonder13662.github.io/gimp/2.10.36_ko/02-01-running-gimp.html#212-%EC%96%B8%EC%96%B4-%EC%84%A4%EC%A0%95)
+
 ***
 
 ## 다른 페이지로 가기
