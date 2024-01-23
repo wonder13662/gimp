@@ -31,6 +31,8 @@
 
 [90.5.15. 독(Dock)](./90-05-15-dock.md)
 
+[90.5.16. 탭 메뉴 (Tab Menu)](./90-05-16-tab_menu.md)
+
 ## 기능이 쓰인 곳
 
 #### [그림 3.2.1. 다중창 모드(multi-window mode)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-321-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9Cmulti-window-mode)
