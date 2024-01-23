@@ -1,4 +1,5 @@
-# 90.1. 이미지 메뉴 바(Image Menu Bar)
+# [90. 이미지 맵](./90-00-image-map.md)
+# [90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 # 90.1.9. 필터(Filters)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 <img width="1080" alt="90.1.9. 필터(Filters)" src="https://github.com/wonder13662/gimp/assets/15767104/8aa3e45d-3325-49f6-ad23-d0e6508fa205">

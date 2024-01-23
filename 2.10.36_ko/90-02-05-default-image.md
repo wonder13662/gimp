@@ -1,4 +1,5 @@
-# 90.2. 기본 설정(Preference)
+# [90. 이미지 맵](./90-00-image-map.md)
+# [90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 # 90.2.5. 기본 이미지(Default Image)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 90.2.5.a1. 언어설정: 우리말 (한국어) - windows

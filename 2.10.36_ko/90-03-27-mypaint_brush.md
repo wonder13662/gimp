@@ -1,4 +1,5 @@
-# 90.3. 도구상자(Toolbox)
+# [90. 이미지 맵](./90-00-image-map.md)
+# [90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
 # 90.3.27. MyPaint 붓(MyPaint brush)
 
 #### 그림 90.3.27.a1. 도구상자의 MyPaint 붓의 도구옵션

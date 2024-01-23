@@ -1,3 +1,4 @@
+# [90. 이미지 맵](./90-00-image-map.md)
 # 90.4. 대화상자(Dialogs)
 
 ## [90.4.1. 도구 옵션(Tool Options)](./90-04-01-tool_options.md)
