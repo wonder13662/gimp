@@ -26,6 +26,8 @@
 
 ## 다른 페이지로 가기
 
+[➡️ 다음: 90.5.15. 독(Dock)](./90-05-15-dock.md)
+
 [⬅️ 이전: 90.5.13. 이미지 (Image Display)](./90-05-13-image_display.md)
 
 [⬆️ 위: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

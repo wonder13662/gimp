@@ -357,4 +357,6 @@
 
 [90.5.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)](./90-05-14-image_window_resize_toggle.md)
 
+[90.5.15. 독(Dock)](./90-05-15-dock.md)
+
 ## [90.99. 기타](./90-99-etc.md)

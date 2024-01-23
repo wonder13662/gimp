@@ -9,6 +9,8 @@
 #### 그림 90.1.10.2.a2. 창 - 도킹가능한 대화 (Mac)
 <img width="1080" alt="그림 90.1.10.2.a2. 창 - 도킹가능한 대화 (Mac)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1d43d891-4ae0-48f7-9b14-e29df79867f2">
 
+## 기능이 쓰인 곳
+
 ***
 
 ## 다른 페이지로 가기

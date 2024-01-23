@@ -29,6 +29,8 @@
 
 [90.5.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)](./90-05-14-image_window_resize_toggle.md)
 
+[90.5.15. 독(Dock)](./90-05-15-dock.md)
+
 ## 기능이 쓰인 곳
 
 #### [그림 3.2.1. 다중창 모드(multi-window mode)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-321-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9Cmulti-window-mode)

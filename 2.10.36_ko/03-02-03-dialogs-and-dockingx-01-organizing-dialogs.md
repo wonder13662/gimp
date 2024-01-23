@@ -32,11 +32,11 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 ## 3.2.3.1.6. 독에 보여지는 대화상자 설정하기
 `창` → `도킹가능한 대화` 메뉴에 도킹을 할 수 있는 대화상자 목록이 있습니다. 
 
-#### 그림 3.2.3.1.61 `창` → `도킹가능한 대화` (언어설정: 우리말)
-<img width="536" alt="도킹가능한-대화" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8cf62685-fb58-45b0-b164-64b84d66a370">
+#### 그림 3.2.3.1.61 `창` → `도킹가능한 대화` (Windows)
+<img width="1080" alt="그림 90.1.10.2.a1. 창 - 도킹가능한 대화 (Windows)" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2a664a57-69e3-4890-86c2-400a912ecb2b">
 
-#### 그림 3.2.3.1.62 `Windows` → `Dockable Dialogs` (언어설정: 영어)
-<img width="419" alt="dockable-dialogs" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/13696d30-e1bf-4d2d-bdf1-c03d24d7659c">
+#### 그림 3.2.3.1.62 `창` → `도킹가능한 대화` (Mac)
+<img width="1080" alt="그림 90.1.10.2.a2. 창 - 도킹가능한 대화 (Mac)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1d43d891-4ae0-48f7-9b14-e29df79867f2">
 
 이 목록에서 원하는 대화상자를 선택하면 해당 대화상자가 표시됩니다. 선택한 대화상자가 이미 독(dock)안에 포함되어 있으면 해당 대화 상자를 활성화시키고, 없으면 창 모드에 따라 다음과 같이 동작합니다. 
 
