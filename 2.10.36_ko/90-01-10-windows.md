@@ -52,6 +52,12 @@
 #### [그림 3.2.2.1.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-window.html#%EA%B7%B8%EB%A6%BC-3221)
 [<img width="223" alt="single-window-en" src="https://github.com/wonder13662/gimp/assets/15767104/b646e770-2f0d-44b5-b3ca-0451e8b6efa3">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-window.html#%EA%B7%B8%EB%A6%BC-3221)
 
+#### [그림 3.5. 다중창 모드의 이미지 창](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-window.html#%EA%B7%B8%EB%A6%BC-35-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD)
+![image-window-multi](https://github.com/wonder13662/gimp/assets/15767104/71a5c1f4-0bfc-486d-9534-1b211ff94b80)
+
+#### [그림 3.6. 단일창 모드의 이미지 창](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-window.html#%EA%B7%B8%EB%A6%BC-36-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9C%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD)
+![image-window-single](https://github.com/wonder13662/gimp/assets/15767104/49005d64-07cb-4d55-ae57-adddace9f92c)
+
 ***
 
 ## 다른 페이지로 가기
