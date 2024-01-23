@@ -126,6 +126,18 @@
 #### [영상 3.2.12. 탭 떼어내기(Detach Tab)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-3212-%ED%83%AD-%EB%96%BC%EC%96%B4%EB%82%B4%EA%B8%B0detach-tab)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/50310e90-46d0-445f-9801-a676bd5db9e7"></video>
 
+#### [영상 3.2.3.1.91. 대화상자 이동](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-01-organizing-dialogs.html#%EC%98%81%EC%83%81-323191-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%9D%B4%EB%8F%99)
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d493e232-1630-47f5-8e5b-5fda0fdd0b87"></video>
+
+#### [영상 3.2.3.1.101. 대화상자그룹에 넣기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-01-organizing-dialogs.html#%EC%98%81%EC%83%81-3231101-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EA%B7%B8%EB%A3%B9%EC%97%90-%EB%84%A3%EA%B8%B0)
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e3a0a266-aba7-4a96-86f4-ab00cc4168d2"></video>
+
+#### [영상 3.2.3.1.111. 독(Dock) 한쪽에 대화상자 추가](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-01-organizing-dialogs.html#%EC%98%81%EC%83%81-3231111-%EB%8F%85dock-%ED%95%9C%EC%AA%BD%EC%97%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%B6%94%EA%B0%80)
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b1acca7-a83c-4b8d-a5fe-10a4ab7b7979"></video>
+
+#### [영상 3.2.3.1.121. 탭 메뉴의 탭 추가하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-01-organizing-dialogs.html#%EC%98%81%EC%83%81-3231121-%ED%83%AD-%EB%A9%94%EB%89%B4%EC%9D%98-%ED%83%AD-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5831e5d3-eb1f-403a-a7ff-55fd7b8fb6df"></video>
+
 ***
 
 ## 다른 페이지로 가기
