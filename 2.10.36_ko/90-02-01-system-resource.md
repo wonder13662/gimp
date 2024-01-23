@@ -1,5 +1,6 @@
 # [90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 # 90.2.1. 시스템 리소스 (System Resource)
+## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 90.2.1.a1. 언어설정: 우리말 (한국어) - windows
 
 <img width="720" alt="90.2.1.a1. 언어설정: 우리말 (한국어) - windows" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/566c6134-42c4-4db7-a9e7-105608e1b9fa">

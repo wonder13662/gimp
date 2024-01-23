@@ -1,6 +1,6 @@
 # 90.2. 기본 설정(Preference)
 # 90.2.2. 색상관리 (Color Management)
-
+## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 90.2.2.a1. 언어설정: 우리말 (한국어) - windows
 
 <img width="720" alt="90.2.2.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/1bf19100-fd45-4c14-aa76-ca9b55e66b42">
