@@ -5,9 +5,11 @@
 
 ## 하위 메뉴
 
-[90.1.10.2. 창(Windows) - 도킹가능한 대화(Dockable dialogs)](./90-01-10-windowsx-02-dockable_dialogs.md)
+[90.1.10.1. 최근 닫은 독(Recently Closed Docks)](./90-01-10-windowsx-01-recently_closed_docks.md)
 
-[90.1.10.3. 창(Windows) - 탭 위치(Tab position)](./90-01-10-windowsx-03-tab_position.md)
+[90.1.10.2. 도킹가능한 대화(Dockable dialogs)](./90-01-10-windowsx-02-dockable_dialogs.md)
+
+[90.1.10.3. 탭 위치(Tab position)](./90-01-10-windowsx-03-tab_position.md)
 
 ## 이미지 사용 사례
 #### [그림 3.2.1. 다중창 모드(multi-window mode)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-321-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9Cmulti-window-mode)
