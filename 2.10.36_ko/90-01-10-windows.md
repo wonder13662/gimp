@@ -19,12 +19,6 @@
 #### [그림 3.2.2. 단일창 모드(single window mode)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-322-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
 [<img width="540" alt="single-window-mode" src="https://github.com/wonder13662/gimp/assets/15767104/39df1a43-0890-41ff-babd-d59c75196179">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-322-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
 
-#### [그림 3.2.3.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-323)
-[<img width="223" alt="single-window-en" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9c406b6a-063e-4d41-a45b-f2d7745bbf3d">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-323)
-
-#### [그림 3.2.4.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-324)
-[<img width="212" alt="single-window-mode-kr" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/73aadfaa-00e8-4b45-8126-ff4eb0daae8d">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-324)
-
 #### [그림 3.2. 다중창 모드 스크린샷](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-32-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7)
 [<img width="699" alt="multiple-window" src="https://github.com/wonder13662/gimp/assets/15767104/7fa9ac60-26d8-4547-9b43-aa914e002e93">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-32-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7)
 
