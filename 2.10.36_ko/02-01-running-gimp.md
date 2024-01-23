@@ -158,7 +158,7 @@ GTK+ 옵션을 보여줍니다.
 #### 그림 2.1.5. 그라디언트 대화상자(gradient dialog)
 <img width="426" alt="no-data-gradient" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ad0a4680-d117-47f0-90f0-edf3e532020a">
 
-#### 그림 2.1.6. 색상표 대화상자(palette dialog)
+#### 그림 2.1.6. 팔레트 대화상자(palette dialog)
 <img width="425" alt="no-data-palette" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0734f993-5e82-4182-a986-931dadbb3eb9">
 
 #### 그림 2.1.7. 무늬 대화상자(pattern dialog)
