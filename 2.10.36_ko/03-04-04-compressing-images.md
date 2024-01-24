@@ -1,4 +1,5 @@
 # 3.4.4. 이미지 압축하기
+(TODO 저작권이 없는 Pixabay 이미지로 작업하는 것으로 수정이 필요함)
 
 #### 그림 3.4.4.1. JPEG 저장을 위한 예제 이미지
 <img width="480" alt="그림 3.4.4.1. JPEG 저장을 위한 예제 이미지" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/33acbd8d-9e23-4f3f-9e7e-4949bd5f1ec8">
@@ -11,10 +12,14 @@ GIMP에서 이미지들은 `.XCF` 파일 포맷으로 불러오거나 저장됩�
 GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)`를 클릭하면 “JPEG로 이미지 내보내기(Export Image as JPEG)” 대화상자를 열 수 있습니다.
 
 #### 그림 3.4.4.11. `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)` 메뉴의 위치
-<img width="480" alt="그림 3.4.4.2. `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)` 메뉴의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b4cd76d8-b53c-4d71-8ffd-7d2d2d6aee5c">
+<img width="1080" alt="그림 3.4.4.2. `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)` 메뉴의 위치" src="https://github.com/wonder13662/gimp/assets/15767104/f08f271e-255c-4b1f-bcd9-c3a3615366ef">
+
+(TODO Overwrite과 Export 분리한 뒤, 다시 이미지 교체하기)
 
 #### 그림 3.4.4.12. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자
 <img width="480" alt="그림 3.4.4.12. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/70c62a31-3d60-4d02-b6db-681ae20a9e08">
+
+(TODO Windows 이미지 추가하기)
 
 ## 3.4.4.2. "Export As..."
 GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의  `파일(File)` → `Export As...`를 누르면 "이미지 내보내기(Export Image)" 대화상자를 열 수 있습니다. "이미지 내보내기(Export Image)" 대화상자에서 파일 이름과 확장자를 설정하면 다시 "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자를 열 수 있습니다.
@@ -22,11 +27,17 @@ GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222
 #### 그림 3.4.4.22. `파일(File)` → `Export As...` 메뉴의 위치
 <img width="480" alt="그림 3.4.4.1 '이미지 내보내기(Export Image)' 메뉴의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a9fa3a38-6aef-494b-98cd-ef25f62a6f27">
 
+(TODO Export 이미지 업데이트하기)
+
 #### 그림 3.22. `Export As...` 대화상자
 <img width="1280" alt="그림 3.22. '이미지 내보내기(Export Image)' 대화상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cccd8b1f-db92-43ba-8118-50b3b2e0c784">
 
+(TODO 'Export As...' 윈도우 이미지 업데이트하기)
+
 #### 그림 3.4.4.23. "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자
 <img width="480" alt="그림 3.4.4.12. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/70c62a31-3d60-4d02-b6db-681ae20a9e08">
+
+(TODO "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자 윈도우 이미지 업데이트 하기)
 
 ## 3.4.4.3. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
 "Export As..." 대화상자가 열리면 이름입력 필드에 기본값으로 현재 파일 이름이 이미 입력이 되어 있습니다. 파일 이름의 확장자를 지우고, `JPG`로 확장자 이름을 입력하면, GIMP는 사용자가 입력한 확장자 이름의 파일타입으로 설정합니다.
