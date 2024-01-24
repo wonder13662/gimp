@@ -36,7 +36,7 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 #### 그림 3.2.5.a4. 모양새(Appearance) (Mac) (영어)
 <img width="720" alt="그림 3.2.5.a4. 모양새(Appearance) (Mac) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/5f628859-2655-4557-a102-fd7af59a687c">
 
-#### 영상 3.2.1.
+#### 영상 3.2.1. 모양새(Appearance) 설정에 따라 도구 상자의 모양이 바뀝니다
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
 
 ### 2. 도구 옵션(Tool Options)
