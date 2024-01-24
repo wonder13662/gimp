@@ -8,27 +8,33 @@
 자유 선택 도구로 경계를 직접 임의로 그리거나 직선을 그릴 수 있습니다. 자유 선택 도구는 비교적 단순한 형태를 선택할 때 사용합니다. 상세한 내용은 [14.2.4. 자유 선택 도구(올가미)](./14-02-04-free-selection-lasso.md)를 참고해주세요.
 
 #### 그림 3.40. 도구상자 - 자유 선택 도구(올가미)
-<img width="720" alt="그림 3.40. 도구상자 - 자유 선택 도구(올가미)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/66ee6b5a-708f-44e1-ae1b-63ee0994118b">
+<img width="324" alt="그림 3.40. 도구상자 - 자유 선택 도구(올가미)" src="https://github.com/wonder13662/gimp/assets/15767104/f0d4efd4-aee4-4af4-a282-a4d2756369fa">
 
-#### 그림 3.4.10.0.1.1. 이미지 메뉴 바 - 자유 선택 도구(올가미)
-<img width="720" alt="그림 3.40. 도구상자 - 자유 선택 도구(올가미)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f184db38-5da9-464f-975d-99f26cd4b714">
+#### 그림 3.4.10.0.1.a1. 이미지 메뉴 바 - 자유 선택 도구(올가미) (Windows)
+<img width="1080" alt="그림 3.4.10.0.1.a1. 이미지 메뉴 바 - 자유 선택 도구(올가미) (Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/0e52854b-a1bb-44b9-80e5-5fbf63bb586c">
 
-#### 영상 3.4.10.0.1.2. 자유 선택 도구(올가미) 사용하기 - 자유롭게 그리기
+#### 그림 3.4.10.0.1.a2. 이미지 메뉴 바 - 자유 선택 도구(올가미) (Mac)
+<img width="1080" alt="그림 3.4.10.0.1.a2. 이미지 메뉴 바 - 자유 선택 도구(올가미) (Mac)" src="https://github.com/wonder13662/gimp/assets/15767104/16017077-61dd-44b3-a4f1-63cd9a02c685">
+
+#### 영상 3.4.10.0.1.a3. 자유 선택 도구(올가미) 사용하기 - 자유롭게 그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fa4089d6-4cff-4b95-9a37-b38ce28e642a"></video>
 
-#### 영상 3.4.10.0.1.3. 자유 선택 도구(올가미) 사용하기 - 직선으로 그리기
+#### 영상 3.4.10.0.1.a4. 자유 선택 도구(올가미) 사용하기 - 직선으로 그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/65c479b4-d623-434a-a094-f5b8283e9e1a"></video>
 
 ### 3.4.10.0.2. 똑똑한 가위(Intelligent Scissors Select Tool)
 사용자가 경계를 자유롭게 선택하고, 개체 주변의 경계를 자동으로 인식하는 알고리즘으로 선택영역을 만듭니다. 개체가 배경과 명백하게 구분되면서 경계가 복잡한 경우에 사용합니다. 상세한 내용은 [14.2.7. 똑똑한 가위](./14-02-07-intelligent-scissors.md)를 참고해주세요. 
 
 #### 그림 3.41. 도구상자 - 똑똑한 가위
-<img width="720" alt="그림 3.41. 도구상자 - 똑똑한 가위" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/57478bb2-f7dd-44d6-9082-48f049a95316">
+<img width="324" alt="그림 3.41. 도구상자 - 똑똑한 가위" src="https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08">
 
-#### 그림 3.4.10.0.2.1. 이미지 메뉴 바 - 똑똑한 가위
-<img width="720" alt="그림 3.4.10.0.2.1. 이미지 메뉴 바 - 똑똑한 가위" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9282491c-b448-4c8f-9647-378fa01b7bc0">
+#### 그림 3.4.10.0.2.a1. 이미지 메뉴 바 - 똑똑한 가위 (Windows)
+<img width="1080" alt="그림 3.4.10.0.2.a1. 이미지 메뉴 바 - 똑똑한 가위 (Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/c0186fc5-3219-4061-8885-751f87493a9a">
 
-#### 영상 3.4.10.0.2.2. 똑똑한 가위 선택 사용
+#### 그림 3.4.10.0.2.a2. 이미지 메뉴 바 - 똑똑한 가위 (Mac)
+<img width="1080" alt="그림 3.4.10.0.2.a2. 이미지 메뉴 바 - 똑똑한 가위 (Mac)" src="https://github.com/wonder13662/gimp/assets/15767104/855d1bd9-f9ce-4d45-a686-d7b573a1231b">
+
+#### 영상 3.4.10.0.2.a3. 똑똑한 가위 선택 사용
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/207b3a3a-7d36-4e60-a49a-d9c3d9e23e86"></video>
 
 ### 3.4.10.0.3. 전경 선택(The "Foreground Select Tool")
