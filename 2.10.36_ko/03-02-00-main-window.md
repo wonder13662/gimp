@@ -108,7 +108,7 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 #### 그림 3.2.7. 도구 옵션(Tool Options)
 <img width="1080" alt="그림 3.2.7. 도구 옵션(Tool Options)" src="https://github.com/wonder13662/gimp/assets/15767104/71b968e1-ade9-44bb-a064-286b9fa9989b">
 
-독립적으로 분리되어 있는 대화상자입니다. 기본 도구 상자의 아래에 연결되어 있습니다. 도구를 효과적으로 사용하기 위해 도구의 설정상태를 보면서 작업해야 하기에 항상 필요합니다. 따라서 많은 사용자들이 위의 스크린샷과 같은 형태로 사용합니다.
+독립적으로 분리되어 있는 대화상자입니다. 기본 도구 상자의 아래에 연결되어 있습니다. 도구를 효과적으로 사용하기 위해 도구의 설정상태를 보면서 작업해야 하기에 항상 필요합니다.
 
 ### 3. 레이어 대화상자(Layers Dialog)
 #### 그림 3.2.9. 레이어 대화상자(Layers dialog)
@@ -116,19 +116,7 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 
 여러개의 레이어를 가진 이미지를 편집할 때 사용됩니다. GIMP를 전문적으로 사용하려면 필수적으로 사용하게 됩니다. 그리고 레이어 대화 상자는 작업중인 이미지를 보는데에도 사용합니다.
 
-## 🗒️ 참고
-### `최근 닫은 독(Recently Closed Docks)`
-실수로 GIMP의 대화 상자를 닫아도 `창(Windows)` → `최근 닫은 독(Recently Closed Docks)` 메뉴를 이용하면 스크린샷과 같은 모습으로 쉽게 복구시킬 수 있습니다.
-(TODO 스크린샷 및 관련 동영상 필요) 
-
-#### 그림 3.2.11. `창` → `최근 닫은 독`
-<img width="358" alt="창-최근_닫은_독" src="https://github.com/wonder13662/gimp/assets/15767104/90bfd69b-48ab-46d1-992d-18377afc1408">
-
-#### 그림 3.2.12. `Windows` → `Recently Closed Docks`
-<img width="337" alt="windows-recently-closed-docks" src="https://github.com/wonder13662/gimp/assets/15767104/f1c526e6-40a5-4eaf-a40e-6715d3420a46">
-
-#### 영상 3.2.9. ⚠️탭을 닫고나서 `최근 닫은 독`의 목록에 아무것도 없음
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/28a9dde1-984f-4639-85b5-16e3aca8a8af"></video>
+(TODO 최근 닫은 독(Recently Closed Docks) 내용 추가 필요)
 
 ### 창 메뉴(Window menu)
 창 메뉴는 열려있는 이미지가 있을 때에만 사용이 가능합니다. 
