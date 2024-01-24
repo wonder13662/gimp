@@ -116,6 +116,9 @@
 ## [90.4.29. 이미지 크기 조정(Scale Image)](./90-04-29-scale_image.md)
 (TODO 이미지 추가 필요)
 
+## [90.4.30. 인쇄 해상도 설정(Set Image Print Resolution)](./90-04-30-set_image_print_resolution.md)
+(TODO 이미지 추가 필요)
+
 ***
 
 ## 기능이 쓰인 곳
