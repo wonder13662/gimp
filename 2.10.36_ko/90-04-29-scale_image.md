@@ -5,6 +5,8 @@
 #### 그림 90.4.29.a1. 이미지 크기 조정 대화상자
 (TODO 이미지 추가 필요)
 
+***
+
 ## 기능이 쓰인 곳
 
 #### [그림 3.4.2.3. "크기 조정" 대화상자](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-02-change-the-size-of-an-image-for-the-screen.html#%EA%B7%B8%EB%A6%BC-3423-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%95-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
@@ -15,6 +17,14 @@
 
 #### [영상 3.4.2.5. 이미지 크기 변경](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-02-change-the-size-of-an-image-for-the-screen.html#%EC%98%81%EC%83%81-3425-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%81%AC%EA%B8%B0-%EB%B3%80%EA%B2%BD)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b72a1800-9efa-4bff-8ac5-7197b2161196"></video>
+
+***
+
+## 관련 정보
+
+[3.4.2. 이미지의 크기 바꾸기 (화면용)](./03-04-02-change-the-size-of-an-image-for-the-screen.md)
+
+[90.1.5. 이미지(Image)](./90-01-05-image.md)
 
 ***
 

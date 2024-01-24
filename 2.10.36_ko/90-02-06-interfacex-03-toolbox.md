@@ -19,6 +19,8 @@
 
 <img width="720" alt="90.2.6.3.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/71206fe4-e98e-4886-83c2-4cd937d6c9b7">
 
+***
+
 ## 기능이 쓰인 곳
 #### [그림 3.2.5. 설정-도구상자](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-325-%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC-%E1%84%83%E1%85%A9%E1%84%80%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1)
 [<img width="699" alt="설정-도구상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/82f5d614-ed74-4854-8f81-97d5061b27c7">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-325-%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC-%E1%84%83%E1%85%A9%E1%84%80%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1)
@@ -46,6 +48,10 @@
 
 #### [영상 3.2.1.8. `Show GIMP logo(drag-and-drop target)`로 도구 상자에서 노출 제어하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EC%98%81%EC%83%81-3218-show-gimp-logodrag-and-drop-target%EB%A1%9C-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%EB%85%B8%EC%B6%9C-%EC%A0%9C%EC%96%B4%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9a8813c3-e223-422f-9436-a75ee551bbd3"></video>
+
+***
+
+## 관련 정보
 
 ***
 

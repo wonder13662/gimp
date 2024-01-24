@@ -12,6 +12,8 @@
 
 [90.1.10.3. 탭 위치(Tab position)](./90-01-10-windowsx-03-tab_position.md)
 
+***
+
 ## 기능이 쓰인 곳
 
 #### [영상 3.2.5.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-325)
@@ -36,6 +38,10 @@
 
 #### [그림 3.3.3.a2. 창(Windows) → 실행취소 이력(Undo History) (Mac)](https://wonder13662.github.io/gimp/2.10.36_ko/03-03-undoing.html#%EA%B7%B8%EB%A6%BC-333a2-%EC%B0%BDwindows--%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5undo-history-mac)
 [<img width="1080" alt="그림 3.3.3.a2. 창(Windows) → 실행취소 이력(Undo History) (Mac)" src="https://github.com/wonder13662/gimp/assets/15767104/331e0775-f9ca-4bc3-a5ab-35a942fd8a4b">](https://wonder13662.github.io/gimp/2.10.36_ko/03-03-undoing.html#%EA%B7%B8%EB%A6%BC-333a2-%EC%B0%BDwindows--%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5undo-history-mac)
+
+***
+
+## 관련 정보
 
 ***
 

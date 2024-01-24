@@ -18,6 +18,8 @@
 
 <img width="720" alt="90.2.6.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/4c736ff0-fc88-4d36-a7b7-94f5ff3689b7">
 
+***
+
 ## 기능이 쓰인 곳
 ### [2.1.2. 언어 설정](https://wonder13662.github.io/gimp/2.10.36_ko/02-01-running-gimp.html#212-%EC%96%B8%EC%96%B4-%EC%84%A4%EC%A0%95)
 
@@ -30,6 +32,9 @@
 #### [그림 3.2.2.242. 키보드 단축키 설정(영어)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-02-image-menu.html#%EA%B7%B8%EB%A6%BC-322242-%ED%82%A4%EB%B3%B4%EB%93%9C-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%84%A4%EC%A0%95%EC%98%81%EC%96%B4)
 [<img width="699" alt="settings-keyboard-shortcut" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f4e91cba-f1b7-4d6f-9ad2-39c53c1d49c2">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-02-image-menu.html#%EA%B7%B8%EB%A6%BC-322242-%ED%82%A4%EB%B3%B4%EB%93%9C-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%84%A4%EC%A0%95%EC%98%81%EC%96%B4)
 
+***
+
+## 관련 정보
 
 ***
 

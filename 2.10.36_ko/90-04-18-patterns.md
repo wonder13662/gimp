@@ -5,9 +5,15 @@
 #### 그림 90.4.18.a1. 무늬 대화상자
 <img width="1080" alt="그림 90.4.18.a1. 무늬 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/eb7098ae-d3f8-45a9-a4ed-9bd729f13a3c">
 
+***
+
 ## 기능이 쓰인 곳
 #### [그림 2.1.7. 무늬 대화상자(pattern dialog)](https://wonder13662.github.io/gimp/2.10.36_ko/02-01-running-gimp.html#%EA%B7%B8%EB%A6%BC-217-%EB%AC%B4%EB%8A%AC-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90pattern-dialog)
 [<img width="429" alt="no-data-pattern" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c918e337-d746-438c-ab0c-f036dbc7e46f">](https://wonder13662.github.io/gimp/2.10.36_ko/02-01-running-gimp.html#%EA%B7%B8%EB%A6%BC-217-%EB%AC%B4%EB%8A%AC-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90pattern-dialog)
+
+***
+
+## 관련 정보
 
 ***
 

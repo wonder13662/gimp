@@ -18,6 +18,8 @@
 
 <img width="720" alt="90.2.1.a4. 언어설정: 영어 - mac" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/85ae2c95-5b2e-4a35-bdde-2d09dad8286a">
 
+***
+
 ## 기능이 쓰인 곳
 
 #### [그림 3.3.5.a1. 실행 취소 최소 횟수(Minimal number of undo levels)와 실행 취소 최대 메모리(Maximum undo memory) (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-03-undoing.html#%EA%B7%B8%EB%A6%BC-335a1-%EC%8B%A4%ED%96%89-%EC%B7%A8%EC%86%8C-%EC%B5%9C%EC%86%8C-%ED%9A%9F%EC%88%98minimal-number-of-undo-levels%EC%99%80-%EC%8B%A4%ED%96%89-%EC%B7%A8%EC%86%8C-%EC%B5%9C%EB%8C%80-%EB%A9%94%EB%AA%A8%EB%A6%ACmaximum-undo-memory-windows)
@@ -25,6 +27,10 @@
 
 #### [그림 3.3.5.a2. 실행 취소 최소 횟수(Minimal number of undo levels)와 실행 취소 최대 메모리(Maximum undo memory) (Mac)](https://wonder13662.github.io/gimp/2.10.36_ko/03-03-undoing.html#%EA%B7%B8%EB%A6%BC-335a2-%EC%8B%A4%ED%96%89-%EC%B7%A8%EC%86%8C-%EC%B5%9C%EC%86%8C-%ED%9A%9F%EC%88%98minimal-number-of-undo-levels%EC%99%80-%EC%8B%A4%ED%96%89-%EC%B7%A8%EC%86%8C-%EC%B5%9C%EB%8C%80-%EB%A9%94%EB%AA%A8%EB%A6%ACmaximum-undo-memory-mac)
 [<img width="1080" alt="그림 3.3.5.a2. 실행 취소 최소 횟수(Minimal number of undo levels)와 실행 취소 최대 메모리(Maximum undo memory) (Mac)" src="https://github.com/wonder13662/gimp/assets/15767104/83afd25b-7d75-4ece-bbd2-3870a4dabf1d">](https://wonder13662.github.io/gimp/2.10.36_ko/03-03-undoing.html#%EA%B7%B8%EB%A6%BC-335a2-%EC%8B%A4%ED%96%89-%EC%B7%A8%EC%86%8C-%EC%B5%9C%EC%86%8C-%ED%9A%9F%EC%88%98minimal-number-of-undo-levels%EC%99%80-%EC%8B%A4%ED%96%89-%EC%B7%A8%EC%86%8C-%EC%B5%9C%EB%8C%80-%EB%A9%94%EB%AA%A8%EB%A6%ACmaximum-undo-memory-mac)
+
+***
+
+## 관련 정보
 
 ***
 

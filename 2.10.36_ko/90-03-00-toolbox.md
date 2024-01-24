@@ -174,6 +174,9 @@
 (TODO 이미지 추가 필요)
 
 (TODO 도구 상자의 이미지가 수정되어야 합니다. 전경/배경색, 붓/무늬/그라디언트, 활성화 이미지가 함께 노출되어야 합니다.)
+
+***
+
 ## 기능이 쓰인 곳
 #### [그림 3.2.6.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-326)
 [<img width="203" alt="toolbox" src="https://github.com/wonder13662/gimp/assets/15767104/cd57acfd-21e1-494e-ab23-978bc54b0686">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-326)
@@ -186,6 +189,10 @@
 
 #### [영상 3.2.1.2. 마우스 커서를 올려놓고 `F1` 키를 눌러 사용자 매뉴얼 페이지로 이동하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EC%98%81%EC%83%81-3212-%EB%A7%88%EC%9A%B0%EC%8A%A4-%EC%BB%A4%EC%84%9C%EB%A5%BC-%EC%98%AC%EB%A0%A4%EB%86%93%EA%B3%A0-f1-%ED%82%A4%EB%A5%BC-%EB%88%8C%EB%9F%AC-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A7%A4%EB%89%B4%EC%96%BC-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A1%9C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/95fd3621-1b95-40a3-ae7b-669ecb1596bf"></video>
+
+***
+
+## 관련 정보
 
 ***
 

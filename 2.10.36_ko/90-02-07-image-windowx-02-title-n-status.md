@@ -19,6 +19,8 @@
 
 <img width="720" alt="90.2.7.2.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/0075031b-f375-4ae2-98f7-15a534604886">
 
+***
+
 ## 기능이 쓰인 곳
 
 #### [그림 3.2.2.93. `GIMP`→ `기본 설정` → `이미지 창` → `제목과 상태`](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-09-status-area.html#%EA%B7%B8%EB%A6%BC-32293-gimp-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD--%EC%A0%9C%EB%AA%A9%EA%B3%BC-%EC%83%81%ED%83%9C)
@@ -26,6 +28,10 @@
 
 #### [그림 3.2.2.94. `GIMP`→ `Settings...` → `Image Windows` → `Title & Status`](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-09-status-area.html#%EA%B7%B8%EB%A6%BC-32294-gimp-settings--image-windows--title--status)
 [<img width="699" alt="image-window-title-n-status(en)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d23da0fd-fc9d-42c1-924f-1b010df948e5">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-09-status-area.html#%EA%B7%B8%EB%A6%BC-32294-gimp-settings--image-windows--title--status)
+
+***
+
+## 관련 정보
 
 ***
 

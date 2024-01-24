@@ -2,6 +2,8 @@
 # [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 # 90.5.16. 탭 메뉴 (Tab Menu)
 
+***
+
 ## 기능이 쓰인 곳
 
 #### [그림 3.9. 탭 메뉴가 있는 독(Dock) 안의 대화상자](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-39-%ED%83%AD-%EB%A9%94%EB%89%B4%EA%B0%80-%EC%9E%88%EB%8A%94-%EB%8F%85dock-%EC%95%88%EC%9D%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
@@ -87,6 +89,10 @@
 
 #### [그림 3.2.3.2.32. `화면으로 이동`의 위치](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-323232-%ED%99%94%EB%A9%B4%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%8F%99%EC%9D%98-%EC%9C%84%EC%B9%98)
 <img width="720" alt="그림 3.2.3.2.32. `화면으로 이동`의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ba4a2562-0d04-473c-918f-9c3d0bc7088c">
+
+***
+
+## 관련 정보
 
 ***
 
