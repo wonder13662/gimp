@@ -106,17 +106,14 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 
 ### 2. 도구 옵션(Tool Options)
 #### 그림 3.2.7. 도구 옵션(Tool Options)
-<img width="1080" alt="그림 90.4.1.a1. 도구 옵션 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/71b968e1-ade9-44bb-a064-286b9fa9989b">
+<img width="1080" alt="그림 3.2.7. 도구 옵션(Tool Options)" src="https://github.com/wonder13662/gimp/assets/15767104/71b968e1-ade9-44bb-a064-286b9fa9989b">
 
 독립적으로 분리되어 있는 대화상자입니다. 기본 도구 상자의 아래에 연결되어 있습니다. 도구를 효과적으로 사용하기 위해 도구의 설정상태를 보면서 작업해야 하기에 항상 필요합니다. 따라서 많은 사용자들이 위의 스크린샷과 같은 형태로 사용합니다.
 
 ### 3. 레이어 대화상자(Layers Dialog)
-#### 그림 3.2.9. 레이어 대화상자
-<img width="226" alt="레이어-대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/a1bd8d23-d9ca-4bc8-81ed-88fb40c1fc48">
+#### 그림 3.2.9. 레이어 대화상자(Layers dialog)
+<img width="1080" alt="그림 3.2.9. 레이어 대화상자(Layers dialog)" src="https://github.com/wonder13662/gimp/assets/15767104/75ca9047-dd8f-4ea2-9a2a-f99e2507acf8">
 
-#### 그림 3.2.10. Layers dialog
-<img width="225" alt="layers-dialog" src="https://github.com/wonder13662/gimp/assets/15767104/a273c718-343c-4d91-b9e2-cbd70d80a9fe">
-<br/>
 여러개의 레이어를 가진 이미지를 편집할 때 사용됩니다. GIMP를 전문적으로 사용하려면 필수적으로 사용하게 됩니다. 그리고 레이어 대화 상자는 작업중인 이미지를 보는데에도 사용합니다.
 
 ## 🗒️ 참고
