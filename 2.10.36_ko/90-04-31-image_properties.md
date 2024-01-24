@@ -22,7 +22,7 @@
 
 ## 다른 페이지로 가기
 
-[⬅️ 이전: 90.4.29. 이미지 크기 조정(Scale Image)](./90-04-29-scale_image.md)
+[⬅️ 이전: 90.4.30. 인쇄 해상도 설정(Set Image Print Resolution)](./90-04-30-set_image_print_resolution.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

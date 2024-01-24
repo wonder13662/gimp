@@ -119,6 +119,9 @@
 ## [90.4.30. 인쇄 해상도 설정(Set Image Print Resolution)](./90-04-30-set_image_print_resolution.md)
 (TODO 이미지 추가 필요)
 
+## [90.4.31. 이미지 속성(Image Properties)](./90-04-31-image_properties.md)
+(TODO 이미지 추가 필요)
+
 ***
 
 ## 기능이 쓰인 곳
