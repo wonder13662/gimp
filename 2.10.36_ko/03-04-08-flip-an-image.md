@@ -13,7 +13,7 @@
 도구상자에서 "뒤집기" 도구를 선택한 다음에 캔버스의 안쪽을 클릭합니다. 도구 옵션(Tool Options) 안의 방향(direction)의 가로모드(Horizontal)와 세로모드(Vertical)를 선택해서 뒤집기의 방향을 바꿀 수 있습니다.
 
 #### 그림 3.4.8.2. 도구 옵션(Tool Options) 안의 가로모드(Horizontal)와 세로모드(Vertical)
-<img width="480" alt="그림 3.35. 이미지 메뉴 바의 뒤집기(Flip) 메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/bc710ffe-dc63-4089-bd90-6d302de96f05">
+<img width="1080" alt="그림 3.35. 이미지 메뉴 바의 뒤집기(Flip) 메뉴" src="https://github.com/wonder13662/gimp/assets/15767104/8efa0cb3-dadf-4625-bf39-543a3a0058d3">
 
 기본 설정으로 사용하면 이미지의 좌우가 뒤집힙니다. 위아래로 뒤집기를 하려면 도구 옵션에서 "Vertical"을 클릭합니다. 
 
