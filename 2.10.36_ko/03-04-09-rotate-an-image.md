@@ -1,6 +1,9 @@
 # 3.4.9. 이미지 회전하기
-#### 그림 3.37. 이미지 메뉴 바(Image Menu Bar)의 "이미지 회전하기" 메뉴 
-<img width="480" alt="그림 3.37. 이미지 메뉴 바(Image Menu Bar)의 '이미지 회전하기' 메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6835ec30-056c-4657-b36e-89b1783dd438">
+#### 그림 3.37.a1. 이미지 메뉴 바(Image Menu Bar)의 '이미지 회전하기' 메뉴 (Windows)
+<img width="1080" alt="그림 3.37.a1. 이미지 메뉴 바(Image Menu Bar)의 '이미지 회전하기' 메뉴 (Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/a8b8f281-73f2-4d8d-94ab-6ee42e0dc2c3">
+
+#### 그림 3.37.a1. 이미지 메뉴 바(Image Menu Bar)의 '이미지 회전하기' 메뉴 (Mac)
+<img width="1080" alt="그림 3.37.a1. 이미지 메뉴 바(Image Menu Bar)의 '이미지 회전하기' 메뉴 (Mac)" src="https://github.com/wonder13662/gimp/assets/15767104/850c4454-de12-4e93-be50-bdf3d3e3e3bd">
 
 [이미지 메뉴 바(Image Menu Bar)](./03-02-02-image-windowx-02-image-menu.md)에서 `이미지(Image)` → `변형(Transform)` → `시계 방향으로 90도 회전(Rotate 90° clockwise)`을 선택하여 이미지를 회전시킬 수 있습니다.
 
