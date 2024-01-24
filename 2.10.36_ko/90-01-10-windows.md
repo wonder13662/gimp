@@ -27,8 +27,15 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/262a1036-9dc3-4cb8-82f9-825383aec2b9"></video>
 
 #### [그림 3.2.3.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-323)
+
 #### [그림 3.2.2.1.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-window.html#%EA%B7%B8%EB%A6%BC-3221)
 <img width="1080" alt="single-window-en" src="https://github.com/wonder13662/gimp/assets/15767104/b646e770-2f0d-44b5-b3ca-0451e8b6efa3">
+
+#### [그림 3.3.3.a1. 창(Windows) → 실행취소 이력(Undo History) (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-03-undoing.html#%EA%B7%B8%EB%A6%BC-333a1-%EC%B0%BDwindows--%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5undo-history-windows)
+[<img width="1080" alt="그림 3.3.3.a1. 창(Windows) → 실행취소 이력(Undo History) (Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/69de469c-0fd6-48bb-ad05-afe85d91740b">](https://wonder13662.github.io/gimp/2.10.36_ko/03-03-undoing.html#%EA%B7%B8%EB%A6%BC-333a1-%EC%B0%BDwindows--%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5undo-history-windows)
+
+#### [그림 3.3.3.a2. 창(Windows) → 실행취소 이력(Undo History) (Mac)](https://wonder13662.github.io/gimp/2.10.36_ko/03-03-undoing.html#%EA%B7%B8%EB%A6%BC-333a2-%EC%B0%BDwindows--%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5undo-history-mac)
+[<img width="1080" alt="그림 3.3.3.a2. 창(Windows) → 실행취소 이력(Undo History) (Mac)" src="https://github.com/wonder13662/gimp/assets/15767104/331e0775-f9ca-4bc3-a5ab-35a942fd8a4b">](https://wonder13662.github.io/gimp/2.10.36_ko/03-03-undoing.html#%EA%B7%B8%EB%A6%BC-333a2-%EC%B0%BDwindows--%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5undo-history-mac)
 
 ***
 
