@@ -2,10 +2,10 @@
 
 김프의 사용자 인터페이스는 다음 두 가지 모드를 지원합니다.
 #### 그림 3.2.1. 다중창 모드(multi-window mode)
-<img width="540" alt="multi-window-mode" src="https://github.com/wonder13662/gimp/assets/15767104/c253f6d6-0ad2-4791-bbd2-e60c2f0c0c69">
+<img width="1080" alt="multi-window-mode" src="https://github.com/wonder13662/gimp/assets/15767104/8b4d2c6e-7fa3-4f16-8c54-5004eb4765cf">
 
 #### 그림 3.2.2. 단일창 모드(single window mode)
-<img width="540" alt="single-window-mode" src="https://github.com/wonder13662/gimp/assets/15767104/39df1a43-0890-41ff-babd-d59c75196179">
+<img width="1080" alt="single-window-mode" src="https://github.com/wonder13662/gimp/assets/15767104/86811f94-d7b4-4fd5-a9b6-82c4714b0fb6">
 
 GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single window mode)로 열립니다. 다중창 모드(multi-window mode)를 활성화하기 위해서는 이미지 메뉴바의 `Windows` → `Single-Window Mode` 옵션을 끄면 됩니다. GIMP를 종료한 뒤에는, 다시 GIMP 시작할 때 마지막으로 선택한 옵션으로 적용됩니다.
 
@@ -24,11 +24,17 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 ### 1. 기본 도구 상자(Toolbox)
 여러 가지 도구들을 선택할 수 있는 아이콘들이 모아져 있습니다. 그리고 전경색(Foreground color)/배경색(Background color)이 표시됩니다. [붓(Brushes)](./07-06-brushes.md), [무늬(Patterns)](./07-11-patterns.md), [그라디언트(Gradient)](./07-10-gradients.md), 현재 이미지의 아이콘 등을 추가할 수도 있습니다. `GIMP` → `기본 설정(Settings...)` → `인터페이스(Interface)` → `도구상자(Toolbox)` → `모양새(Appearance)`를 이용하여 추가로 표시할 수 있는 항목들을 표시하거나 숨길 수 있습니다.
 
-#### 그림 3.2.5. 설정-도구상자
-<img width="699" alt="설정-도구상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/82f5d614-ed74-4854-8f81-97d5061b27c7">
+#### 그림 3.2.5.a1. 모양새(Appearance) (Windows) (우리말)
+<img width="720" alt="그림 3.2.5.a1. 모양새(Appearance) (Windows) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/761e1ee7-aa5f-423c-97dc-6cd6c55c6965">
 
-#### 그림 3.2.6. settings-toolbox
-<img width="699" alt="settings-toolbox" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8bdcdb57-b077-4e35-bcbb-c38ee5b15f71">
+#### 그림 3.2.5.a2. 모양새(Appearance) (Windows) (영어)
+<img width="720" alt="그림 3.2.5.a2. 모양새(Appearance) (Windows) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/0d25b4dc-795e-4e9f-8c0c-93b48619804d">
+
+#### 그림 3.2.5.a3. 모양새(Appearance) (Mac) (우리말)
+<img width="720" alt="그림 3.2.5.a3. 모양새(Appearance) (Mac) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/0e45ad36-e258-4eca-a113-49a0b5c05fbf">
+
+#### 그림 3.2.5.a4. 모양새(Appearance) (Mac) (영어)
+<img width="720" alt="그림 3.2.5.a4. 모양새(Appearance) (Mac) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/5f628859-2655-4557-a102-fd7af59a687c">
 
 #### 영상 3.2.1.
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
