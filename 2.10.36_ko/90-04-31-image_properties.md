@@ -22,6 +22,8 @@
 
 ## 다른 페이지로 가기
 
+[➡️ 다음: 90.4.32. 색인 색상 변환(Indexed Color Conversion)](./90-04-32-indexed_color_conversion.md)
+
 [⬅️ 이전: 90.4.30. 인쇄 해상도 설정(Set Image Print Resolution)](./90-04-30-set_image_print_resolution.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)

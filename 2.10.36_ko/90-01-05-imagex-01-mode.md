@@ -11,6 +11,20 @@
 
 ***
 
+## 기능이 쓰인 곳
+
+#### [그림 3.4.7.1.a1. 이미지 바 메뉴(Image Bar Menu)의 모드(Mode) 메뉴 위치 (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-07-change-the-mode.html#%EA%B7%B8%EB%A6%BC-3471a1-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B0%94-%EB%A9%94%EB%89%B4image-bar-menu%EC%9D%98-%EB%AA%A8%EB%93%9Cmode-%EB%A9%94%EB%89%B4-%EC%9C%84%EC%B9%98-windows)
+[<img width="1080" alt="그림 3.4.7.1.a1. 이미지 바 메뉴(Image Bar Menu)의 모드(Mode) 메뉴 위치 (Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/ab1ee7a8-ff5e-4bba-8f1c-dde234dc1220">](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-07-change-the-mode.html#%EA%B7%B8%EB%A6%BC-3471a1-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B0%94-%EB%A9%94%EB%89%B4image-bar-menu%EC%9D%98-%EB%AA%A8%EB%93%9Cmode-%EB%A9%94%EB%89%B4-%EC%9C%84%EC%B9%98-windows)
+
+#### [그림 3.4.7.1.a2. 이미지 바 메뉴(Image Bar Menu)의 모드(Mode) 메뉴 위치 (Mac)](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-07-change-the-mode.html#%EA%B7%B8%EB%A6%BC-3471a2-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B0%94-%EB%A9%94%EB%89%B4image-bar-menu%EC%9D%98-%EB%AA%A8%EB%93%9Cmode-%EB%A9%94%EB%89%B4-%EC%9C%84%EC%B9%98-mac)
+[<img width="1080" alt="그림 3.4.7.1.a2. 이미지 바 메뉴(Image Bar Menu)의 모드(Mode) 메뉴 위치 (Mac)" src="https://github.com/wonder13662/gimp/assets/15767104/a54e8ded-c949-45cb-aa54-9cee2bbfab82">](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-07-change-the-mode.html#%EA%B7%B8%EB%A6%BC-3471a2-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B0%94-%EB%A9%94%EB%89%B4image-bar-menu%EC%9D%98-%EB%AA%A8%EB%93%9Cmode-%EB%A9%94%EB%89%B4-%EC%9C%84%EC%B9%98-mac)
+
+***
+
+## 관련 정보
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.1.5.2. 이미지(Image) - 정밀도(Precision)](./90-01-05-imagex-02-precision.md)

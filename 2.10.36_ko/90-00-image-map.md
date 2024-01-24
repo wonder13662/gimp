@@ -333,6 +333,8 @@
 
 [90.4.31. 이미지 속성(Image Properties)](./90-04-31-image_properties.md)
 
+[90.4.32. 색인 색상 변환(Indexed Color Conversion)](./90-04-32-indexed_color_conversion.md)
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
