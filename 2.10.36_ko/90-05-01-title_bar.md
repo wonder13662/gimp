@@ -13,6 +13,9 @@
 #### [그림 3.2.2.13. 이미지 창에 이미지가 있는 경우의 타이틀바](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-01-title-bar.html#%EA%B7%B8%EB%A6%BC-32213-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%97%90-%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B0%80-%EC%9E%88%EB%8A%94-%EA%B2%BD%EC%9A%B0%EC%9D%98-%ED%83%80%EC%9D%B4%ED%8B%80%EB%B0%94)
 [<img width="1193" alt="타이틀바-이미지있음" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c19f1f48-355b-4ce3-9848-33a417744178">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-01-title-bar.html#%EA%B7%B8%EB%A6%BC-32213-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%97%90-%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B0%80-%EC%9E%88%EB%8A%94-%EA%B2%BD%EC%9A%B0%EC%9D%98-%ED%83%80%EC%9D%B4%ED%8B%80%EB%B0%94)
 
+#### [그림 3.4.2.1. 화면 표시 상의 확대/축소 비율과 RGB 모드](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-02-change-the-size-of-an-image-for-the-screen.html#%EA%B7%B8%EB%A6%BC-3421-%ED%99%94%EB%A9%B4-%ED%91%9C%EC%8B%9C-%EC%83%81%EC%9D%98-%ED%99%95%EB%8C%80%EC%B6%95%EC%86%8C-%EB%B9%84%EC%9C%A8%EA%B3%BC-rgb-%EB%AA%A8%EB%93%9C)
+[<img width="1280" alt="그림 3.4.2.1 화면 표시 상의 확대/축소 비율" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e9973caf-e8ae-4fbc-9814-9b9d13e6f982">](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-02-change-the-size-of-an-image-for-the-screen.html#%EA%B7%B8%EB%A6%BC-3421-%ED%99%94%EB%A9%B4-%ED%91%9C%EC%8B%9C-%EC%83%81%EC%9D%98-%ED%99%95%EB%8C%80%EC%B6%95%EC%86%8C-%EB%B9%84%EC%9C%A8%EA%B3%BC-rgb-%EB%AA%A8%EB%93%9C)
+
 ***
 
 ## 다른 페이지로 가기

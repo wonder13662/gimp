@@ -113,6 +113,9 @@
 #### 그림 90.4.a28. 상황판(Dashboard)
 [<img width="240" alt="그림 90.4.a28. 상황판(Dashboard)" src="https://github.com/wonder13662/gimp/assets/15767104/af816df2-6864-4188-aed7-b8b5d713ee25">](./90-04-28-dashboard.md)
 
+## [90.4.29. 이미지 크기 조정(Scale Image)](./90-04-29-scale_image.md)
+(TODO 이미지 추가 필요)
+
 ## 기능이 쓰인 곳
 #### [영상 3.2.2.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-322)
 <video controls="controls" width="394" src="https://github.com/wonder13662/gimp/assets/15767104/dc6bca6a-ac80-41a3-9d40-904cf22a563c"></video>

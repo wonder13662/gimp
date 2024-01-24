@@ -327,6 +327,8 @@
 
 [90.4.28. 상황판(Dashboard)](./90-04-28-dashboard.md)
 
+[90.4.29. 이미지 크기 조정(Scale Image)](./90-04-29-scale_image.md)
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

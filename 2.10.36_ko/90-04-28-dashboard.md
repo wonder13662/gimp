@@ -9,6 +9,8 @@
 
 ## 다른 페이지로 가기
 
+[➡️ 다음: 90.4.29. 이미지 크기 조정(Scale Image)](./90-04-29-scale_image.md)
+
 [⬅️ 이전: 90.4.27. 오류 콘솔(Error Console)](./90-04-27-error_console.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
