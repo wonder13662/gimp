@@ -14,10 +14,11 @@ GIMP는 이미지를 보기 좋은 크기로 엽니다. 따라서 열려고 하�
 이미지 메뉴(Image Menu)의 `이미지(I)` → `이미지 크기조정(S)...` 메뉴를 선택하여 "크기 조정" 대화상자를 엽니다. `이미지 크기조정(S)...`의 오른쪽의 `...`은 메뉴를 클릭하면 대화상자가 열린다는 것을 의미합니다.
 
 #### 그림 3.4.2.2. 이미지 메뉴(Image Menu)의 `이미지` → `이미지 크기 조정` 메뉴
-<img width="480" alt="이미지 메뉴(Image Menu)의 `이미지` → `이미지 크기 조정` 메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3ff41d8f-1d2e-461f-9eda-f9d18a330ec0">
+<img width="1080" alt="이미지 메뉴(Image Menu)의 `이미지` → `이미지 크기 조정` 메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/613d0cc8-05ad-4df5-a9d0-3be39b770f41">
 
 #### 그림 3.4.2.3. "크기 조정" 대화상자
 <img width="720" alt="그림 3.4.2.3. '크기 조정' 대화상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a25470f0-e776-42ef-a9f6-ded56d18b18d">
+(TODO Windows 이미지 추가 필요)
 
 "크기 조정" 대화상자의 위쪽의 `이미지 크기(Image Size)`에 `너비(Width)`와 `높이(Height)` 항목이 있습니다. 화면에 표시된 단위는 픽셀이며, [단위 메뉴](./03-02-02-image-windowx-07-units-menu.md#32272-단위-메뉴의-단위-변경)에서 원하는 단위로 변경할 수 있습니다. 참고로 각각의 장치들(스마트폰, 모니터, TV 등)은 서로 다른 픽셀 크기를 가지고 있기 때문에, 같은 이미지라도 약간씩 다른 크기로 보일 수 있습니다. 아래 있는 `X축 해상도(X resolution)`, `Y축 해상도(Y resolution)`는 모니터나 모바일 기기에서 이미지를 보는데 영향을 미치지 않고, 인쇄와 관련된 항목입니다.
 
