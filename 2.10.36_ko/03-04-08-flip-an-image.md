@@ -1,11 +1,14 @@
 # 3.4.8. 이미지 뒤집기
 이 기능은 사진 속의 사람이 다른 방향을 보고 있도록 해야 하거나, 사진의 위쪽을 아래쪽으로 바꿔야 할 때 사용합니다. [이미지 메뉴 바(Image Menu Bar)](./03-02-02-image-windowx-02-image-menu.md)의 `도구(Tools)` → `변형 도구(Transform Tools)` → `뒤집기(Flip)` 메뉴를 선택하거나 도구상자(Toolbox)의 뒤집기 버튼을 누릅니다.
 
-#### 그림 3.35. 이미지 메뉴 바의 뒤집기(Flip) 메뉴
-<img width="480" alt="그림 3.35. 이미지 메뉴 바의 뒤집기(Flip) 메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e267cee6-2f16-4698-87ba-fe1e1cec99da">
+#### 그림 3.35.a1. 이미지 메뉴 바의 뒤집기(Flip) 메뉴 (Windows)
+<img width="1080" alt="그림 3.35.a1. 이미지 메뉴 바의 뒤집기(Flip) 메뉴 (Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/c600ff82-fda1-41f0-b5dd-2474dc062e24">
+
+#### 그림 3.35.a2. 이미지 메뉴 바의 뒤집기(Flip) 메뉴 (Mac)
+<img width="1080" alt="그림 3.35.a2. 이미지 메뉴 바의 뒤집기(Flip) 메뉴 (Mac)" src="https://github.com/wonder13662/gimp/assets/15767104/29aa472b-1647-4e15-b400-078b228ba664">
 
 #### 그림 3.4.8.1. 도구상자(Toolbox)의 뒤집기(Flip) 버튼
-<img width="720" alt="그림 3.4.8.1. 도구상자(Toolbox)의 뒤집기(Flip) 버튼" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f13eb73a-2aed-4ef6-877e-7b9db9884916">
+<img width="324" alt="그림 90.3.a215. 도구상자에서 뒤집기(Flip) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/8f63d644-7b1d-4ebb-9191-3d5583dc2cb7">
 
 도구상자에서 "뒤집기" 도구를 선택한 다음에 캔버스의 안쪽을 클릭합니다. 도구 옵션(Tool Options) 안의 방향(direction)의 가로모드(Horizontal)와 세로모드(Vertical)를 선택해서 뒤집기의 방향을 바꿀 수 있습니다.
 
