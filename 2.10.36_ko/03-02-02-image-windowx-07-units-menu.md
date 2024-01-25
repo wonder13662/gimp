@@ -1,7 +1,10 @@
 # 3.2.2.7. 단위 메뉴 (Units Menu)
 ## 3.2.2.7.1. 단위 메뉴의 위치
-#### 그림 3.2.2.71. 단위 메뉴의 위치 (초록색 영역)
-<img width="720" alt="그림 3.2.2.12. 커서 좌표의 위치 (초록색 영역)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d6823026-1727-4914-8eff-a38039c9e977">
+#### 그림 3.2.2.7.a101. (7)단위 메뉴의 위치 (다중창)
+<img src="https://github.com/wonder13662/gimp/assets/15767104/04ea57d8-27c3-453b-9743-48a8a0d6b3ba">
+
+#### 그림 3.2.2.7.a102. (7)단위 메뉴의 위치 (단일창)
+<img src="https://github.com/wonder13662/gimp/assets/15767104/a0bc73ac-0abb-4991-b689-0d49099357f8">
 
 이 메뉴는 눈금자나 다른 여러 기능에서 사용되는 단위를 바꾸는데 씁니다. 기본 단위는 픽셀입니다. 
 
