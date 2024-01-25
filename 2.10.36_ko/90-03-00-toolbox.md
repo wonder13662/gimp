@@ -182,7 +182,7 @@
 [<img width="203" alt="toolbox" src="https://github.com/wonder13662/gimp/assets/15767104/cd57acfd-21e1-494e-ab23-978bc54b0686">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-326)
 
 #### [그림 3.4. 도구 상자의 모습](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EA%B7%B8%EB%A6%BC-34-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EB%AA%A8%EC%8A%B5)
-[<img width="225" alt="기본도구상자" src="https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EA%B7%B8%EB%A6%BC-34-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EB%AA%A8%EC%8A%B5)
+<img width="450" src="https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5">
 
 #### [영상 3.2.1.a201. 마우스 커서를 올려놓으면 도구의 설명이 보입니다](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EC%98%81%EC%83%81-321a201-%EB%A7%88%EC%9A%B0%EC%8A%A4-%EC%BB%A4%EC%84%9C%EB%A5%BC-%EC%98%AC%EB%A0%A4%EB%86%93%EC%9C%BC%EB%A9%B4-%EB%8F%84%EA%B5%AC%EC%9D%98-%EC%84%A4%EB%AA%85%EC%9D%B4-%EB%B3%B4%EC%9E%85%EB%8B%88%EB%8B%A4)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0022d833-4dab-4e04-a388-af9ef0011b1d"></video>

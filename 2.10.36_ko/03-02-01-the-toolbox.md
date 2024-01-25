@@ -1,7 +1,7 @@
 # 3.2.1. 기본 도구 상자(The toolbox)
 
 #### 그림 3.4. 도구 상자의 모습
-<img width="225" alt="기본도구상자" src="https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5">
+<img width="450" src="https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5">
 
 1. [GIMP 로고](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#1-gimp-%EB%A1%9C%EA%B3%A0)
 2. [도구 아이콘](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#2-%EB%8F%84%EA%B5%AC-%EC%95%84%EC%9D%B4%EC%BD%98)
