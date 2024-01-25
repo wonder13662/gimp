@@ -1,8 +1,11 @@
 
 # 3.2.2.1. 타이틀 바 (Title Bar)
 ## 3.2.2.1.1. 타이틀 바의 위치
-#### 그림 3.2.2.11. 타이틀 바의 위치 (빨간색 영역)
-<img width="1080" alt="03-02-02-single-multi-window-01-title-bar" src="https://github.com/wonder13662/gimp/assets/15767104/f7103b1f-daaa-4508-9ec7-f349e5bf985f">
+#### 그림 3.2.2.1.a101 타이틀 바의 위치 (다중창)
+<img src="https://github.com/wonder13662/gimp/assets/15767104/51a85fcc-b9f9-40ed-812f-db107eb3a702">
+
+#### 그림 3.2.2.1.a102 타이틀 바의 위치 (단일창)
+<img src="https://github.com/wonder13662/gimp/assets/15767104/51cd0341-e420-47a6-ad54-b948f0a774b7">
 
 ## 3.2.2.1.2. 이미지 창에 이미지가 없는 경우
 
