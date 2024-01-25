@@ -1,7 +1,10 @@
 # 3.2.2.9. 상태 표시 영역 (Status Area)
 ## 3.2.2.9.1. 상태 표시 영역의 위치
-#### 그림 3.2.2.91. 상태 표시 영역의 위치 (초록색 영역)
-<img width="720" alt="그림 3.2.2.15. 상태 표시 영역의 위치 (초록색 영역)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4c76f061-15ad-4bef-9f2d-a7d424c8d40e">
+#### 그림 3.2.2.9.a101. (9)상태 표시 영역의 위치 (다중창)
+![multi_window-focus-09-stats_area(500ms)](https://github.com/wonder13662/gimp/assets/15767104/8c55b05a-dcf0-4905-a750-3601b1a12e8b)
+
+#### 그림 3.2.2.9.a102. (9)상태 표시 영역의 위치 (단일창)
+![single_window-focus-09-status_area(500ms)](https://github.com/wonder13662/gimp/assets/15767104/f5a7b618-59ce-4c89-9539-07775d0bc6db)
 
 상태 표시 영역은 이미지 창의 가장 아랫 부분에 있습니다. 
 
