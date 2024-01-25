@@ -1,7 +1,11 @@
 # 3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle)
 ## 3.2.2.5.1. 퀵마스크 토글 버튼의 위치
-#### 그림 3.2.2.51. 퀵마스크 토글 버튼의 위치 (초록색 영역)
-<img width="720" alt="그림 3.2.2.11. 퀵마스크 토글 버튼의 위치 (초록색 영역)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ec4aa95d-bb02-4df3-9f46-cc6a1304ab3f">
+
+#### 그림 3.2.2.5.a101. (5)퀵마스크 토글 버튼의 위치 (다중창)
+<img src="https://github.com/wonder13662/gimp/assets/15767104/0341cdc8-f2d5-4bd6-b1d6-ac591c1c22fb">
+
+#### 그림 3.2.2.5.a102. (5)퀵마스크 토글 버튼의 위치 (단일창)
+<img src="https://github.com/wonder13662/gimp/assets/15767104/64879a12-f3e5-47ad-94da-f47653824bc6">
 
 이미지의 아래편 왼쪽 구석의 작은 버튼으로 퀵마스크를 켜고 끌 수 있습니다. 
 
