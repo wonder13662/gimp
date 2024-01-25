@@ -91,11 +91,17 @@ GIMP에서는 한 번에 여러 이미지를 열어 두고 작업을 할 수 있
 >
 > 도구 상자의 가장 위쪽에 "윌버의 눈"을 볼 수 있습니다. 파일 관리자로부터 파일을 드래그하여 여기에 놓으면 파일을 GIMP에서 열 수 있습니다. 이 "윌버의 눈"은 [12.1.13. 기본 도구 상자](./12-01-13-toolbox.md)에서 `Show GIMP logo(drag-and-drop target)` 체크박스를 켜고 끔으로서 제어할 수 있습니다.
 
-#### 그림 3.2.1.5. `GIMP`→ `기본 설정` → `인터페이스` → `도구 상자` → `모양새` → `Show GIMP logo(drag-and-drop target)`
-<img width="699" alt="모양새-로고" src="https://github.com/wonder13662/gimp/assets/15767104/6800ff59-5dcf-4c11-8551-d95f2cee0f25">
+#### 그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Windows) (우리말)
+<img width="720" alt="그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Windows) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/7e470c99-82ff-4e49-a85d-5e6b0fe7ba72">
 
-#### 그림 3.2.1.6. `GIMP`→ `Settings...` → `Interface` → `Toolbox` → `Appearance` → `Show GIMP logo(drag-and-drop target)`
-<img width="699" alt="show-gimp-logo" src="https://github.com/wonder13662/gimp/assets/15767104/4229eea9-896d-47d5-81ca-0ccbd42e8151">
+#### 그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Windows) (영어)
+<img width="720" alt="그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Windows) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/8837f072-bd53-4324-9836-3519a514937b">
+
+#### 그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Mac) (우리말)
+<img width="720" alt="그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Mac) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/1aba52cb-0c64-4419-ac26-fb1c32019f8a">
+
+#### 그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Mac) (영어)
+<img width="720" alt="그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Mac) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/429c4829-e03d-4a53-9fea-815079141635">
 
 #### 영상 3.2.1.7. 이미지 드래그 앤 드랍으로 GIMP에서 열기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/246a2a2d-0d6e-4177-944a-ec4718341c12"></video>
