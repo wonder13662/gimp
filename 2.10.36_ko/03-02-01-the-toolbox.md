@@ -3,11 +3,11 @@
 #### 그림 3.4. 도구 상자의 모습
 <img width="225" alt="기본도구상자" src="https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5">
 
-1. [GIMP 로고]()
-2. [도구 아이콘]()
-3. [전경색/배경색(Foreground/Background color)]()
-4. [붓(Brush)/무늬(Pattern)/그라디언트(Gradient)]()
-5. [활성화된 이미지(Active Image)]()
+1. [GIMP 로고](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#1-gimp-%EB%A1%9C%EA%B3%A0)
+2. [도구 아이콘](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#2-%EB%8F%84%EA%B5%AC-%EC%95%84%EC%9D%B4%EC%BD%98)
+3. [전경색/배경색(Foreground/Background color)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#3-%EC%A0%84%EA%B2%BD%EC%83%89%EB%B0%B0%EA%B2%BD%EC%83%89foregroundbackground-color)
+4. [붓(Brush)/무늬(Pattern)/그라디언트(Gradient)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#4-%EB%B6%93brush%EB%AC%B4%EB%8A%ACpattern%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8gradient)
+5. [활성화된 이미지(Active Image)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#5-%ED%99%9C%EC%84%B1%ED%99%94%EB%90%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80active-image)
 
 ## 1. GIMP 로고
 도구 상자의 가장 위쪽에 GIMP 로고 또는 "윌버의 눈"을 볼 수 있습니다. 파일 관리자로부터 파일을 드래그하여 여기에 놓으면 파일을 GIMP에서 열 수 있습니다. 
