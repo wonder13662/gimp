@@ -1,7 +1,10 @@
 # 3.2.2.10. 취소 버튼 (Cancel Button)
 ## 3.2.2.10.1. 취소 버튼의 위치
-#### 그림 3.2.2.101. 취소 버튼의 위치 (초록색 영역)
-<img width="720" alt="그림 3.2.2.101. 취소 버튼의 위치 (초록색 영역)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/576a666d-5a6b-464a-872b-b0b6c62f77ad">
+#### 그림 3.2.2.10.a101. (10)취소 버튼의 위치 (다중창)
+![multi_window-focus-10-cancel_button(500ms)](https://github.com/wonder13662/gimp/assets/15767104/04c8fab7-4f24-47a0-a0b1-614d032f61df)
+
+#### 그림 3.2.2.10.a102. (10)취소 버튼의 위치 (단일창)
+![single_window-focus-10-cancel_button(500ms)](https://github.com/wonder13662/gimp/assets/15767104/014cd09d-1256-4661-ba38-84129c3ad9b9)
 
 ## 3.2.2.10.2. 취소 버튼의 역할
 플러그인 사용과 같이 복잡하고 시간이 걸리는 작업을 하는 경우, 이미지 창(Image Window)의 오른쪽 하단에 취소 버튼이 표시됩니다. 이 취소 버튼을 눌러 작업을 취소할 수 있습니다.
