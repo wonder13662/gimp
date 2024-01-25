@@ -184,15 +184,17 @@
 #### [그림 3.4. 도구 상자의 모습](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EA%B7%B8%EB%A6%BC-34-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EB%AA%A8%EC%8A%B5)
 [<img width="225" alt="기본도구상자" src="https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EA%B7%B8%EB%A6%BC-34-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EB%AA%A8%EC%8A%B5)
 
-#### [영상 3.2.1.1. 마우스 커서를 올려놓으면 도구의 설명이 보입니다](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EC%98%81%EC%83%81-3211-%EB%A7%88%EC%9A%B0%EC%8A%A4-%EC%BB%A4%EC%84%9C%EB%A5%BC-%EC%98%AC%EB%A0%A4%EB%86%93%EC%9C%BC%EB%A9%B4-%EB%8F%84%EA%B5%AC%EC%9D%98-%EC%84%A4%EB%AA%85%EC%9D%B4-%EB%B3%B4%EC%9E%85%EB%8B%88%EB%8B%A4)
+#### [영상 3.2.1.a201. 마우스 커서를 올려놓으면 도구의 설명이 보입니다](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EC%98%81%EC%83%81-321a201-%EB%A7%88%EC%9A%B0%EC%8A%A4-%EC%BB%A4%EC%84%9C%EB%A5%BC-%EC%98%AC%EB%A0%A4%EB%86%93%EC%9C%BC%EB%A9%B4-%EB%8F%84%EA%B5%AC%EC%9D%98-%EC%84%A4%EB%AA%85%EC%9D%B4-%EB%B3%B4%EC%9E%85%EB%8B%88%EB%8B%A4)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0022d833-4dab-4e04-a388-af9ef0011b1d"></video>
 
-#### [영상 3.2.1.2. 마우스 커서를 올려놓고 `F1` 키를 눌러 사용자 매뉴얼 페이지로 이동하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EC%98%81%EC%83%81-3212-%EB%A7%88%EC%9A%B0%EC%8A%A4-%EC%BB%A4%EC%84%9C%EB%A5%BC-%EC%98%AC%EB%A0%A4%EB%86%93%EA%B3%A0-f1-%ED%82%A4%EB%A5%BC-%EB%88%8C%EB%9F%AC-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A7%A4%EB%89%B4%EC%96%BC-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A1%9C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)
+#### [영상 3.2.1.a202. 마우스 커서를 올려놓고 F1 키를 눌러 사용자 매뉴얼 페이지로 이동하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EC%98%81%EC%83%81-321a202-%EB%A7%88%EC%9A%B0%EC%8A%A4-%EC%BB%A4%EC%84%9C%EB%A5%BC-%EC%98%AC%EB%A0%A4%EB%86%93%EA%B3%A0-f1-%ED%82%A4%EB%A5%BC-%EB%88%8C%EB%9F%AC-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A7%A4%EB%89%B4%EC%96%BC-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A1%9C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/95fd3621-1b95-40a3-ae7b-669ecb1596bf"></video>
 
 ***
 
 ## 관련 정보
+
+[3.2.1. 기본 도구 상자(The toolbox)](./03-02-01-the-toolbox.md)
 
 ***
 
