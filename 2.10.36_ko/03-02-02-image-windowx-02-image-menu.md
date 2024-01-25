@@ -1,7 +1,11 @@
 # 3.2.2.2. 이미지 메뉴 (Image Menu)
 ## 3.2.2.2.1. 이미지 메뉴 바의 위치
-#### 그림 3.2.2.21. 이미지 메뉴 바의 위치 (빨간색 영역)
-<img width="720" alt="메뉴바 빨간색 영역" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/883425e8-4c2b-426d-afa5-274a3eeea46f">
+
+#### 그림 3.2.2.2.a101 (2)이미지 메뉴 바의 위치 (다중창)
+<img src="https://github.com/wonder13662/gimp/assets/15767104/632123fe-7963-4018-a58d-ea804d7e05cc">
+
+#### 그림 3.2.2.2.a102 (2)이미지 메뉴 바의 위치 (단일창)
+<img src="https://github.com/wonder13662/gimp/assets/15767104/b7f33bf2-b531-413b-8b73-c2c7e8ca7202">
 
 이미지 메뉴는 (일부러 없애지 않는 한) 제목 표시줄 바로 아래에 위치합니다.
 
