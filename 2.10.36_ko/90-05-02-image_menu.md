@@ -6,8 +6,11 @@
 
 ## 기능이 쓰인 곳
 
-#### [그림 3.2.2.21. 이미지 메뉴 바의 위치 (빨간색 영역)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-02-image-menu.html#%EA%B7%B8%EB%A6%BC-32221-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%B9%A8%EA%B0%84%EC%83%89-%EC%98%81%EC%97%AD)
-[<img width="720" alt="메뉴바 빨간색 영역" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/883425e8-4c2b-426d-afa5-274a3eeea46f">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-02-image-menu.html#%EA%B7%B8%EB%A6%BC-32221-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%B9%A8%EA%B0%84%EC%83%89-%EC%98%81%EC%97%AD)
+#### [그림 3.2.2.2.a101 (2)이미지 메뉴 바의 위치 (다중창)]()
+<img src="https://github.com/wonder13662/gimp/assets/15767104/632123fe-7963-4018-a58d-ea804d7e05cc">
+
+#### [그림 3.2.2.2.a102 (2)이미지 메뉴 바의 위치 (단일창)]()
+<img src="https://github.com/wonder13662/gimp/assets/15767104/b7f33bf2-b531-413b-8b73-c2c7e8ca7202">
 
 #### [그림 3.2.2.221. 이미지 메뉴 바의 위치 (단일창) - macOS](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-02-image-menu.html#%EA%B7%B8%EB%A6%BC-322221-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD---macos)
 [<img width="720" alt="그림 3.2.2.221. 이미지 메뉴 바의 위치 (단일창) - macOS" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/241ea157-42a8-4ea2-bafd-a73538e9ffa6">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-02-image-menu.html#%EA%B7%B8%EB%A6%BC-322221-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD---macos)
