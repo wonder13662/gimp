@@ -13,13 +13,26 @@
 #### 영상 3.2.1.2. 마우스 커서를 올려놓고 `F1` 키를 눌러 사용자 매뉴얼 페이지로 이동하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/95fd3621-1b95-40a3-ae7b-669ecb1596bf"></video>
 
-기본값으로 전경색(Foreground color)/배경색(Background color) 아이콘만 표시되며, `GIMP`→ `기본 설정` → `인터페이스` → `도구 상자` → `모양새` 메뉴를 이용해 `활성화된 붓,무늬,그라디언트` 아이콘과 `활성화된 이미지` 아이콘을 추가할 수 있습니다. [12.1.13. 기본 도구 상자](./12-01-13-toolbox.md)
+기본값으로 전경색(Foreground color)/배경색(Background color) 아이콘만 표시됩니다.
 
-#### 그림 3.2.1.1. `GIMP`→ `기본 설정` → `인터페이스` → `도구 상자` → `모양새`
-<img width="699" alt="기본설정-기본도구상자-모양새" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/bbc345c3-c339-4c2b-b099-2c7f0dfc2029">
+`기본 설정` → `인터페이스` → `도구 상자` → `모양새` 메뉴를 이용해 `활성화된 붓,무늬,그라디언트` 아이콘과 `활성화된 이미지` 아이콘을 추가할 수 있습니다. [12.1.13. 기본 도구 상자](./12-01-13-toolbox.md)
 
-#### 그림 3.2.1.2. `GIMP`→ `Settings...` → `Interface` → `Toolbox` → `Appearance`
-<img width="699" alt="settings-toolbox" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/31f89128-f1e9-4cb0-8045-719b4a121a15">
+운영체제 별로 `기본 설정(Preference)`으로 진입하는 방법은 아래와 같습니다.
+
+- Windows: `편집(Edit)` → `기본 설정(Preference)` → `인터페이스(Interface)` → `도구 상자(Toolbox)` → `모양새(Appearance)`
+- Mac: `GIMP`→ `기본 설정(Preference)` → `인터페이스(Interface)` → `도구 상자(Toolbox)` → `모양새(Appearance)`
+
+#### 그림 3.2.1.a1. 모양새(Appearance) (Windows) (우리말)
+<img width="720" alt="그림 3.2.1.a1. 모양새(Appearance) (Windows) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/761e1ee7-aa5f-423c-97dc-6cd6c55c6965">
+
+#### 그림 3.2.1.a2. 모양새(Appearance) (Windows) (영어)
+<img width="720" alt="그림 3.2.1.a2. 모양새(Appearance) (Windows) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/0d25b4dc-795e-4e9f-8c0c-93b48619804d">
+
+#### 그림 3.2.1.a3. 모양새(Appearance) (Mac) (우리말)
+<img width="720" alt="그림 3.2.1.a3. 모양새(Appearance) (Mac) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/0e45ad36-e258-4eca-a113-49a0b5c05fbf">
+
+#### 그림 3.2.1.a4. 모양새(Appearance) (Mac) (영어)
+<img width="720" alt="그림 3.2.1.a4. 모양새(Appearance) (Mac) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/5f628859-2655-4557-a102-fd7af59a687c">
 
 #### 영상 3.2.1.3. `모양새(Appearance)`에서 아이콘 추가하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
