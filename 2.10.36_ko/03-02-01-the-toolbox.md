@@ -75,11 +75,17 @@ GIMP에서는 한 번에 여러 이미지를 열어 두고 작업을 할 수 있
 >
 > GIMP가 새로 시작할 때마다, 이전에 종료하기 전까지 사용했던 붓(brush), 색상(color), 무늬(pattern)를 선택합니다. [12.1.22. 입력 장치](./12-01-22-input-devices.md)의 `마칠 때 장치 상태 저장` 체크박스가 체크되어 있기 때문입니다. 만일 이 체크박스를 끈다면, 시작할 때마다 언제나 붓, 색상, 무늬 등은 기본값으로 설정될 것입니다.
 
-#### 그림 3.2.1.3. `GIMP`→ `기본 설정` → `입력 장치` → `마칠 때 장치 상태 저장`
-<img width="699" alt="입력장치-마칠때장치상태저장" src="https://github.com/wonder13662/gimp/assets/15767104/eec03835-78e3-4b11-ab83-adfeceaa93dc">
+#### 그림 3.2.1.a301. 마칠 때 장치 상태 저장(Save input device settings on exit) (Windows) (우리말)
+<img width="720" alt="그림 3.2.1.a301. 마칠 때 장치 상태 저장(Save input device settings on exit) (Windows) " src="https://github.com/wonder13662/gimp/assets/15767104/6064a65a-bbfd-4df9-bcce-41d6ed2800cb">
 
-#### 그림 3.2.1.4. `GIMP`→ `Settings...` → `Input Devices` → `Save input device settings on exit`
-<img width="699" alt="input-devices-save-input-device-settings-on-exit" src="https://github.com/wonder13662/gimp/assets/15767104/26b4320c-74d1-4522-b868-5c442e3039fc">
+#### 그림 3.2.1.a302. 마칠 때 장치 상태 저장(Save input device settings on exit) (Windows) (영어)
+<img width="720" alt="그림 3.2.1.a302. 마칠 때 장치 상태 저장(Save input device settings on exit) (Windows) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/cdfd294a-b430-45d8-827a-eb60cf32b039">
+
+#### 그림 3.2.1.a303. 마칠 때 장치 상태 저장(Save input device settings on exit) (Mac) (우리말)
+<img width="720" alt="그림 3.2.1.a303. 마칠 때 장치 상태 저장(Save input device settings on exit) (Mac) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/eaf9ec2c-2a4c-4b7a-b24a-d859ab3d075c">
+
+#### 그림 3.2.1.a304. 마칠 때 장치 상태 저장(Save input device settings on exit) (Mac) (영어)
+<img width="720" alt="그림 3.2.1.a304. 마칠 때 장치 상태 저장(Save input device settings on exit) (Mac) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/3e11f4a5-69de-4904-83fd-4b72d2431ee4">
 
 > ℹ️ 작은 정보
 >
