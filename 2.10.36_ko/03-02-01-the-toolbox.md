@@ -94,14 +94,14 @@ GIMP에서는 한 번에 여러 이미지를 열어 두고 작업을 할 수 있
 #### 그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Windows) (우리말)
 <img width="720" alt="그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Windows) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/7e470c99-82ff-4e49-a85d-5e6b0fe7ba72">
 
-#### 그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Windows) (영어)
-<img width="720" alt="그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Windows) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/8837f072-bd53-4324-9836-3519a514937b">
+#### 그림 3.2.1.a502. Show GIMP logo(drag-and-drop target) (Windows) (영어)
+<img width="720" alt="그림 3.2.1.a502. Show GIMP logo(drag-and-drop target) (Windows) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/8837f072-bd53-4324-9836-3519a514937b">
 
-#### 그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Mac) (우리말)
-<img width="720" alt="그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Mac) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/1aba52cb-0c64-4419-ac26-fb1c32019f8a">
+#### 그림 3.2.1.a503. Show GIMP logo(drag-and-drop target) (Mac) (우리말)
+<img width="720" alt="그림 3.2.1.a503. Show GIMP logo(drag-and-drop target) (Mac) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/1aba52cb-0c64-4419-ac26-fb1c32019f8a">
 
-#### 그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Mac) (영어)
-<img width="720" alt="그림 3.2.1.a501. Show GIMP logo(drag-and-drop target) (Mac) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/429c4829-e03d-4a53-9fea-815079141635">
+#### 그림 3.2.1.a504. Show GIMP logo(drag-and-drop target) (Mac) (영어)
+<img width="720" alt="그림 3.2.1.a504. Show GIMP logo(drag-and-drop target) (Mac) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/429c4829-e03d-4a53-9fea-815079141635">
 
 #### 영상 3.2.1.7. 이미지 드래그 앤 드랍으로 GIMP에서 열기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/246a2a2d-0d6e-4177-944a-ec4718341c12"></video>
