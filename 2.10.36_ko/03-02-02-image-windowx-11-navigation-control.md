@@ -1,7 +1,11 @@
 # 3.2.2.11. 내비게이션 (Navigation Control)
 ## 3.2.2.11.1. 내비게이션의 위치
-#### 그림 3.2.2.1111. 내비게이션의 위치 (초록색 영역)
-<img width="720" alt="그림 3.2.2.111. 내비게이션의 위치 (초록색 영역)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/529f87f9-d8b4-45cd-a7e8-3993c1b5f23c">
+
+#### 그림 3.2.2.11.a101. (11)내비게이션의 위치 (다중창)
+![multi_window-focus-11-navigation_control(500ms)](https://github.com/wonder13662/gimp/assets/15767104/37e9e158-345d-44ac-9d69-9ec0cd38e6f0)
+
+#### 그림 3.2.2.11.a102. (11)내비게이션의 위치 (단일창)
+![single_window-focus-11-navigation_control(500ms)](https://github.com/wonder13662/gimp/assets/15767104/935fc9e0-5267-4994-98fa-873daedc9463)
 
 #### 그림 3.2.2.1112. 내비게이션 버튼의 모양
 <img width="100" alt="내비게이션-버튼" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6c9cd4a7-8fd1-4d6c-8f0e-6db56f821508">
