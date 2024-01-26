@@ -15,7 +15,7 @@ GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222
 [<img width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/246f4277-5f56-4c3d-b1a0-d3cae594c5dd">](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-12-overwrite.html#%EA%B7%B8%EB%A6%BC-901112a101-%ED%8C%8C%EC%9D%BCfile--image-namejpg-%EB%8D%AE%EC%96%B4%EC%93%B0%EA%B8%B0overwrite-image-namejpg-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
 
 #### [그림 90.4.33.a101. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a101-jpeg%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0export-image-as-jpeg-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[<img width="207" alt="90-04-33-export_image_as_jpeg(windows)(ko)" src="https://github.com/wonder13662/gimp/assets/15767104/b1e96240-69ca-44e6-90a5-782059a2d383">](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a101-jpeg%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0export-image-as-jpeg-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b1e96240-69ca-44e6-90a5-782059a2d383)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a101-jpeg%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0export-image-as-jpeg-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 [다른 운영체제와 언어의 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 확인하기](./90-04-33-export_image_as_jpeg.md)
 
@@ -47,8 +47,8 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 ## 3.4.4.5. "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자
 "JPEG로 이미지 내보내기" 대화상자는 좋은 화질을 유지하면서 메모리 크기를 줄이는 기본값을 사용합니다. 대화상자의 `이미지 창에 미리 보기 표시(Show preview in image window)` 체크박스를 체크하면 화질을 바꿀때마다 변하는 이미지의 화질을 직접 확인할 수 있습니다.
 
-#### 그림 3.4.4.51. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자
-<img width="480" alt="그림 3.4.4.51. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/70c62a31-3d60-4d02-b6db-681ae20a9e08">
+#### [그림 90.4.33.a101. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a101-jpeg%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0export-image-as-jpeg-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b1e96240-69ca-44e6-90a5-782059a2d383)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a101-jpeg%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0export-image-as-jpeg-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 영상 3.4.4.52. `이미지 창에 미리 보기 표시(Show preview in image window)`를 켜고 화질 변화 및 파일 크기를 확인할 수 있습니다
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9fd754fe-b40b-4160-b60e-417334775377"></video>
