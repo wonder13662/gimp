@@ -108,8 +108,8 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 
 ## 3.4.4.7. 전체 과정 예시 영상
 ### 3.4.4.7.1. "Export As..."
-#### 영상 3.4.4.7.11. 전체 과정
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fb9a59e4-df6a-424c-b483-001f6642b320"></video>
+#### 영상 3.4.4.7.1.a101. 전체 과정
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/48f1ccae-f4b9-4695-b676-ab8f57c463b0"></video>
 
 ### 3.4.4.7.2. "image-name.jpg 덮어쓰기(Overwrite image-name.jpg)"
 #### 영상 3.4.4.7.21. 전체 과정
