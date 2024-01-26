@@ -1,5 +1,4 @@
 # 3.4.4. 이미지 압축하기
-(TODO 저작권이 없는 Pixabay 이미지로 작업하는 것으로 수정이 필요함)
 
 #### 그림 3.4.4.1. JPEG 저장을 위한 예제 PNG 이미지
 ![sample_apple](https://github.com/wonder13662/gimp/assets/15767104/51150286-dc29-43b4-a347-961fcd427556)
