@@ -32,24 +32,10 @@ GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222
 #### 그림 3.4.4.a211. `파일(File)` → `Export As...` 메뉴의 위치
 ![90-01-01-file-export_as(w1080)-focus-export_as](https://github.com/wonder13662/gimp/assets/15767104/c18cee54-15c2-40b7-9fe6-755373b235a9)
 
-(TODO Export 이미지 업데이트하기)
-
-#### 그림 3.22.a301 `Export As...` 대화상자 (Windows) (우리말)
+#### 그림 90.4.34.a101 `Export As...` 대화상자 (Windows) (우리말)
 ![90-04-34-export_as(windows)(ko)(w720)](https://github.com/wonder13662/gimp/assets/15767104/b633f0c9-d50d-42f3-b43d-9e7a848ff01e)
 
-#### 그림 3.22.a302 `Export As...` 대화상자 (Windows) (영어)
-![90-04-34-export_as(windows)(en)(w720)](https://github.com/wonder13662/gimp/assets/15767104/e353f75a-5bf4-4465-840f-70bd433f6324)
-
-#### 그림 3.22.a303 `Export As...` 대화상자 (Mac) (우리말)
-![90-04-34-export_as(mac)(ko)(w720)](https://github.com/wonder13662/gimp/assets/15767104/e5bf749e-24c1-413b-bf28-75707c553c30)
-
-#### 그림 3.22.a304 `Export As...` 대화상자 (Mac) (영어)
-![90-04-34-export_as(mac)(en)(w720)](https://github.com/wonder13662/gimp/assets/15767104/bee70950-113f-4b01-b921-0725794f9841)
-
-#### 그림 3.4.4.23. "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자
-<img width="480" alt="그림 3.4.4.12. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/70c62a31-3d60-4d02-b6db-681ae20a9e08">
-
-(TODO "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자 윈도우 이미지 업데이트 하기)
+[다른 운영체제와 언어의 `Export As...` 대화상자 확인하기](./90-04-34-export_as.md)
 
 ## 3.4.4.3. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
 "Export As..." 대화상자가 열리면 이름입력 필드에 기본값으로 현재 파일 이름이 이미 입력이 되어 있습니다. 파일 이름의 확장자를 지우고, `JPG`로 확장자 이름을 입력하면, GIMP는 사용자가 입력한 확장자 이름의 파일타입으로 설정합니다.
