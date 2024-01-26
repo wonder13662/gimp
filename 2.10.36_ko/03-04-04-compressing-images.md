@@ -14,17 +14,10 @@ GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222
 #### 그림 3.4.4.11. `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)` 메뉴의 위치
 <img width="1080" alt="그림 3.4.4.2. `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)` 메뉴의 위치" src="https://github.com/wonder13662/gimp/assets/15767104/f08f271e-255c-4b1f-bcd9-c3a3615366ef">
 
-#### 그림 3.4.4.a201. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 (Windows) (우리말)
+#### 그림 90.4.33.a101. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 (Windows) (우리말)
 <img width="207" alt="90-04-33-export_image_as_jpeg(windows)(ko)" src="https://github.com/wonder13662/gimp/assets/15767104/b1e96240-69ca-44e6-90a5-782059a2d383">
 
-#### 그림 3.4.4.a202. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 (Windows) (영어)
-<img width="200" alt="90-04-33-export_image_as_jpeg(windows)(en)" src="https://github.com/wonder13662/gimp/assets/15767104/4c0aa6b8-8e6d-4ce4-846a-6a6ce7dc367e">
-
-#### 그림 3.4.4.a203. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 (Mac) (우리말)
-<img width="292" alt="90-04-33-export_image_as_jpeg(mac)(ko)" src="https://github.com/wonder13662/gimp/assets/15767104/35888cd1-8832-460e-aa02-acf08333f9c5">
-
-#### 그림 3.4.4.a204. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 (Mac) (영어)
-<img width="292" alt="90-04-33-export_image_as_jpeg(mac)(en)" src="https://github.com/wonder13662/gimp/assets/15767104/2c51a849-4842-4e70-8436-daad9b243e22">
+[다른 운영체제와 언어의 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 확인하기](./90-04-33-export_image_as_jpeg.md)
 
 ## 3.4.4.2. "Export As..."
 GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의  `파일(File)` → `Export As...`를 누르면 "이미지 내보내기(Export Image)" 대화상자를 열 수 있습니다. "이미지 내보내기(Export Image)" 대화상자에서 파일 이름과 확장자를 설정하면 다시 "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자를 열 수 있습니다.
