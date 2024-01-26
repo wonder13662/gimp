@@ -35,8 +35,8 @@ GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222
 ## 3.4.4.3. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
 "Export As..." 대화상자가 열리면 이름입력 필드에 기본값으로 현재 파일 이름이 이미 입력이 되어 있습니다. 파일 이름의 확장자를 지우고, `JPG`로 확장자 이름을 입력하면, GIMP는 사용자가 입력한 확장자 이름의 파일타입으로 설정합니다.
 
-#### 영상 3.4.4.3.1. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
-<video controls="controls" width="1280" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9ec33a38-550c-4890-9250-9e9ee1eceb55"></video>
+#### 영상 3.4.4.3.a101. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
+<video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/7c7db0d2-fb91-4bdd-9bdc-eb29da69622e"></video>
 
 ## 3.4.4.4. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 목록에서 선택)
 GIMP에서 지원하는 파일 타입을 확인하기 위해 "Export As..." 대화상자의 아래쪽의 "파일 유형 선택(Select File Type)"의 목록을 엽니다.
