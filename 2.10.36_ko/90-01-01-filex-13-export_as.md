@@ -3,8 +3,8 @@
 # [90.1.1. 파일(File)](./90-01-01-file.md)
 # 90.1.1.13. 다른 이름으로 이미지 내보내기(Export as)
 
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가 필요)
+#### 그림 90.1.1.13.a101. `파일(File)` → `Export As...` 메뉴의 위치
+![90-01-01-file-export_as(w1080)-focus-export_as](https://github.com/wonder13662/gimp/assets/15767104/2762d1a1-b41e-4087-9a3c-d6321facc69a)
 
 ***
 
