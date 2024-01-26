@@ -8,7 +8,9 @@
 
 ***
 
-## 기능이 쓰인 곳
+## 위 이미지를 사용한 곳
+
+[3.4.4. 이미지 압축하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-04-compressing-images.html#%EA%B7%B8%EB%A6%BC-901113a101-%ED%8C%8C%EC%9D%BCfile--export-as-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
 
 ***
 
