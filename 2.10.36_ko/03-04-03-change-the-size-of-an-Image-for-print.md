@@ -6,8 +6,17 @@
 #### 그림 3.4.3.1 인쇄 크기(Print Size...)의 위치
 <img width="1080" alt="그림 3.4.3.1 인쇄 크기(Print Size...)의 위치" src="https://github.com/wonder13662/gimp/assets/15767104/e0860f85-9f68-4778-becb-23e3e6d62ac8">
 
-#### 그림 3.4.3.2 인쇄 해상도 설정 대화상자
-<img width="720" alt="그림 3.4.3.1 인쇄 크기(Print Size...)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9eb44fe8-9ba5-40b7-9c9d-a2474d855727">
+#### 그림 3.4.3.a201 인쇄 해상도 설정 대화상자 (Windows) (우리말)
+<img width="225" alt="90-04-30-set_image_print_resolution(windows)(ko)" src="https://github.com/wonder13662/gimp/assets/15767104/6f4138fe-b944-4a86-bd46-9b30ddd4181c">
+
+#### 그림 3.4.3.a202 인쇄 해상도 설정 대화상자 (Windows) (영어)
+<img width="220" alt="90-04-30-set_image_print_resolution(windows)(en)" src="https://github.com/wonder13662/gimp/assets/15767104/7c8b8859-b03d-46c6-bc81-1919f15bea7e">
+
+#### 그림 3.4.3.a203 인쇄 해상도 설정 대화상자 (Mac) (우리말)
+<img width="382" alt="90-04-30-set_image_print_resolution(mac)(ko)" src="https://github.com/wonder13662/gimp/assets/15767104/6d53a0e4-6a99-4011-9094-f2c42a7471d1">
+
+#### 그림 3.4.3.a204 인쇄 해상도 설정 대화상자 (Mac) (영어)
+<img width="382" alt="90-04-30-set_image_print_resolution(mac)(en)" src="https://github.com/wonder13662/gimp/assets/15767104/b3c02cfc-7e8d-4bc7-826c-4519770070d1">
 
 ***
 
