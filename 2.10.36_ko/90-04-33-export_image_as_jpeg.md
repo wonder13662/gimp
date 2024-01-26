@@ -16,9 +16,9 @@
 
 ***
 
-## 관련 정보
+## 위 이미지를 사용한 곳
 
-[3.4.4. 이미지 압축하기](./03-04-04-compressing-images.md)
+[3.4.4. 이미지 압축하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-04-compressing-images.html#%EA%B7%B8%EB%A6%BC-90433a101-jpeg%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0export-image-as-jpeg-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 
