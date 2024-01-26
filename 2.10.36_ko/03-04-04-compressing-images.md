@@ -28,9 +28,6 @@ GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222
 #### 그림 3.4.4.a204. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 (Mac) (영어)
 <img width="292" alt="90-04-33-export_image_as_jpeg(mac)(en)" src="https://github.com/wonder13662/gimp/assets/15767104/2c51a849-4842-4e70-8436-daad9b243e22">
 
-#### 그림 3.4.4.12. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자
-<img width="480" alt="그림 3.4.4.12. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/70c62a31-3d60-4d02-b6db-681ae20a9e08">
-
 (TODO Windows 이미지 추가하기)
 
 ## 3.4.4.2. "Export As..."
