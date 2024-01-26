@@ -1,8 +1,10 @@
 # 3.4.4. 이미지 압축하기
 (TODO 저작권이 없는 Pixabay 이미지로 작업하는 것으로 수정이 필요함)
 
-#### 그림 3.4.4.1. JPEG 저장을 위한 예제 이미지
-<img width="480" alt="그림 3.4.4.1. JPEG 저장을 위한 예제 이미지" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/33acbd8d-9e23-4f3f-9e7e-4949bd5f1ec8">
+#### 그림 3.4.4.1. JPEG 저장을 위한 예제 PNG 이미지
+![sample_apple](https://github.com/wonder13662/gimp/assets/15767104/51150286-dc29-43b4-a347-961fcd427556)
+
+[이미지 출처: Pixabay](https://pixabay.com/photos/apples-red-pair-fruits-red-apples-1506119/)
 
 이미지 크기를 줄이지 않고도 이미지 파일의 용량을 줄일 수 있습니다. 가장 널리 사용되는 압축 이미지 형식은 `JPG`입니다. 압축의 수준을 다양하게 바꿔서 이미 이미지가 같은 `JPG` 포맷이더라도 더 적은 용량으로 줄일 수 있습니다. 다만 이미지가 용량이 줄어들면, 원본보다 이미지의 품질이 낮아집니다. 반복해서 `JPG` 포맷으로 저장하는 경우 점점 이미지의 품질이 낮아지는 것도 주의하세요.
 
@@ -57,7 +59,7 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 
 ## 3.4.4.6. 화질 변화와 파일 크기
 여기서는 원본 `JPG` 파일을 다른 압축률로 저장하여 화질과 파일크기의 변화를 살펴봅니다.
-#### 영상 3.4.4.611. 화질 변화와 파일 크기 빠르게 보기
+#### 영상 3.4.4.a601. 화질 변화와 파일 크기 빠르게 보기
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cccb8006-c816-4140-8867-e7331cfff4e0"></video>
 
 | 화질(%) | 원본 | 100 | 90 | 80 | 70 | 60 | 50 | 40 | 30 | 20 | 10 | 0 |
@@ -66,40 +68,40 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 
 ⚠️ 주의: 원본에서 화질 100%로 압축을 할 경우, 오히려 이미지의 파일 크기가 더 커집니다.
 
-#### 그림 3.4.4.621. 화질(%): 원본, 파일크기: 97 kB
-<img width="720" alt="그림 3.4.4.621. 화질(%): 원본, 파일크기: 97 kB" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c86ee18a-134a-4f46-a460-16ddc1d073bc">
+#### 그림 3.4.4.a621. 화질(%): 원본, 파일크기: 97 kB
+<img width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c86ee18a-134a-4f46-a460-16ddc1d073bc">
 
-#### 그림 3.4.4.622. 화질(%): 100, 파일크기: 216 kB
-<img width="720" alt="그림 3.4.4.622. 화질(%): 100, 파일크기: 216 kB" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/33e7d1be-3bc4-4c09-9b0a-865fe19f6f02">
+#### 그림 3.4.4.a622. 화질(%): 100, 파일크기: 216 kB
+<img width="720" src="https://github.com/wonder13662/gimp/assets/15767104/33e7d1be-3bc4-4c09-9b0a-865fe19f6f02">
 
-#### 그림 3.4.4.623. 화질(%): 90, 파일크기: 80 kB
-<img width="720" alt="그림 3.4.4.623. 화질(%): 90, 파일크기: 80 kB" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/bf0e63ec-f4ba-47ca-807f-3f574c7b9ca6">
+#### 그림 3.4.4.a623. 화질(%): 90, 파일크기: 80 kB
+<img width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bf0e63ec-f4ba-47ca-807f-3f574c7b9ca6">
 
-#### 그림 3.4.4.624. 화질(%): 80, 파일크기: 54 kB
+#### 그림 3.4.4.a624. 화질(%): 80, 파일크기: 54 kB
 <img width="720" alt="그림 3.4.4.624. 화질(%): 80, 파일크기: 54 kB" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f01589a0-37c5-4891-9728-8b261f51312e">
 
-#### 그림 3.4.4.625. 화질(%): 70, 파일크기: 43 kB
+#### 그림 3.4.4.a625. 화질(%): 70, 파일크기: 43 kB
 <img width="720" alt="그림 3.4.4.625. 화질(%): 70, 파일크기: 43 kB" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9536cd75-de33-4d2f-aa2f-adfccccdce39">
 
-#### 그림 3.4.4.626. 화질(%): 60, 파일크기: 37 kB
+#### 그림 3.4.4.a626. 화질(%): 60, 파일크기: 37 kB
 <img width="720" alt="그림 3.4.4.626. 화질(%): 60, 파일크기: 37 kB" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/61b7a920-c188-4a50-ba6a-b9fa73bafc5a">
 
-#### 그림 3.4.4.627. 화질(%): 50, 파일크기: 33 kB
+#### 그림 3.4.4.a627. 화질(%): 50, 파일크기: 33 kB
 <img width="720" alt="그림 3.4.4.627. 화질(%): 50, 파일크기: 33 kB" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fbfd20ce-622d-42ef-9afd-2a975135ca9f">
 
-#### 그림 3.4.4.628. 화질(%): 40, 파일크기: 29 kB
+#### 그림 3.4.4.a628. 화질(%): 40, 파일크기: 29 kB
 <img width="720" alt="그림 3.4.4.628. 화질(%): 40, 파일크기: 29 kB" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/71f4ad61-e079-4cbb-a6f9-025f88f7636c">
 
-#### 그림 3.4.4.629. 화질(%): 30, 파일크기: 24 kB
+#### 그림 3.4.4.a629. 화질(%): 30, 파일크기: 24 kB
 <img width="720" alt="그림 3.4.4.629. 화질(%): 30, 파일크기: 24 kB" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1c3da61a-2a05-423e-9e7b-73da8545eb3f">
 
-#### 그림 3.4.4.630. 화질(%): 20, 파일크기: 20 kB
+#### 그림 3.4.4.a630. 화질(%): 20, 파일크기: 20 kB
 <img width="720" alt="그림 3.4.4.630. 화질(%): 20, 파일크기: 20 kB" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d7902f5f-d947-4f0a-88fe-ff471c14a11b">
 
-#### 그림 3.4.4.631. 화질(%): 10, 파일크기: 14 kB
+#### 그림 3.4.4.a631. 화질(%): 10, 파일크기: 14 kB
 <img width="720" alt="그림 3.4.4.631. 화질(%): 10, 파일크기: 14 kB" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ac55ec45-ebd8-41eb-9b3c-2b179751ed07">
 
-#### 그림 3.4.4.632. 화질(%): 0, 파일크기: 10 kB
+#### 그림 3.4.4.a632. 화질(%): 0, 파일크기: 10 kB
 <img width="720" alt="그림 3.4.4.632. 화질(%): 0, 파일크기: 10 kB" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5f50636c-c75c-4817-8e39-49242e55c8b8">
 
 ## 3.4.4.7. 전체 과정 예시 영상
