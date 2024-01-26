@@ -25,8 +25,8 @@ GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222
 #### [그림 90.1.1.13.a101. `파일(File)` → `Export As...` 메뉴의 위치](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-13-export_as.html#%EA%B7%B8%EB%A6%BC-901113a101-%ED%8C%8C%EC%9D%BCfile--export-as-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
 [![90-01-01-file-export_as(w1080)-focus-export_as](https://github.com/wonder13662/gimp/assets/15767104/2762d1a1-b41e-4087-9a3c-d6321facc69a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-13-export_as.html#%EA%B7%B8%EB%A6%BC-901113a101-%ED%8C%8C%EC%9D%BCfile--export-as-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
 
-#### 그림 90.4.34.a101 `Export As...` 대화상자 (Windows) (우리말)
-![90-04-34-export_as(windows)(ko)(w720)](https://github.com/wonder13662/gimp/assets/15767104/b633f0c9-d50d-42f3-b43d-9e7a848ff01e)
+#### [그림 90.4.34.a101 `Export As...` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-34-export_as.html#%EA%B7%B8%EB%A6%BC-90434a101-export-as-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-34-export_as(windows)(ko)(w720)](https://github.com/wonder13662/gimp/assets/15767104/b633f0c9-d50d-42f3-b43d-9e7a848ff01e)](그림 90.4.34.a101 `Export As...` 대화상자 (Windows) (우리말))
 
 [다른 운영체제와 언어의 `Export As...` 대화상자 확인하기](./90-04-34-export_as.md)
 
