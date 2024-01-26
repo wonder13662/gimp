@@ -335,6 +335,10 @@
 
 [90.4.32. 색인 색상 변환(Indexed Color Conversion)](./90-04-32-indexed_color_conversion.md)
 
+[90.4.33. JPEG로 이미지 내보내기(Export Image as JPEG)](./90-04-33-export_image_as_jpeg.md)
+
+[90.4.34. 이미지 내보내기(Export As...)](./90-04-34-export_as.md)
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

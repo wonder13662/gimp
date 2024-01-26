@@ -125,6 +125,12 @@
 ## [90.4.32. 색인 색상 변환(Indexed Color Conversion)](./90-04-32-indexed_color_conversion.md)
 (TODO 이미지 추가 필요)
 
+## [90.4.33. JPEG로 이미지 내보내기(Export Image as JPEG)](./90-04-33-export_image_as_jpeg.md)
+(TODO 이미지 추가 필요)
+
+## [90.4.34. 이미지 내보내기(Export As...)](./90-04-34-export_as.md)
+(TODO 이미지 추가 필요)
+
 ***
 
 ## 기능이 쓰인 곳
