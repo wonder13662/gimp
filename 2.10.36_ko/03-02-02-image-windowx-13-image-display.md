@@ -1,7 +1,11 @@
 # 3.2.2.13. 이미지 (Image Display)
 ## 3.2.2.13.1. 이미지의 위치
-#### 그림 3.2.2.1311. 이미지의 위치 (초록색 영역)
-<img width="720" alt="그림 3.2.2.131. 이미지의 위치 (초록색 영역)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/79dd60af-6326-49e9-975c-b290d1a1d02a">
+
+#### 그림 3.2.2.13.a101. (13)이미지의 위치 (다중창)
+![multi_window-focus-13-image_display(500ms)](https://github.com/wonder13662/gimp/assets/15767104/21d41162-a845-48e1-9375-5f5d09dafb09)
+
+#### 그림 3.2.2.13.a102. (13)이미지의 위치 (단일창)
+![single_window-focus-13-image_display(500ms)](https://github.com/wonder13662/gimp/assets/15767104/bcb55857-d424-4de2-928a-7e30b00e8f47)
 
 이미지 창 (Image Window)에서 가장 중요한 부분은 이미지와 캔버스입니다.(TODO 위치를 나타내는 것은 gif로 깜빡임을 나타내는 것도 좋을 것 같다) 
 
