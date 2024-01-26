@@ -1,7 +1,11 @@
 # 3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)
 ## 3.2.2.14.1. 이미지 확대/축소 버튼의 위치
-#### 그림 3.2.2.1411. 이미지의 위치 (초록색 영역)
-<img width="720" alt="그림 3.2.2.1411. 이미지의 위치 (초록색 영역)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2a3744e1-8e1a-4f00-8300-6e4471a6642d">
+
+#### 그림 3.2.2.14.a101. (14)이미지 확대/축소 버튼의 위치 (다중창)
+![multi_window-focus-14-image_window_resize_toggle(500ms)](https://github.com/wonder13662/gimp/assets/15767104/c9ab9f7b-64a4-4af5-9e0e-e9d3a57bd14a)
+
+#### 그림 3.2.2.14.a102. (14)이미지 확대/축소 버튼의 위치 (단일창)
+![single_window-focus-14-image_window_resize_toggle(500ms)](https://github.com/wonder13662/gimp/assets/15767104/f3630208-70ab-4046-b082-a916d1e1131d)
 
 ## 3.2.2.14.2. 이미지 확대/축소 버튼 사용하기
 #### 그림 3.2.2.1421. 이미지 확대/축소 버튼 활성화(ON)와 비활성화(OFF)
