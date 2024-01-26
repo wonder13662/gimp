@@ -8,7 +8,9 @@
 
 ***
 
-## 관련 정보
+## 위 이미지를 사용한 곳
+
+[3.4.4. 이미지 압축하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-04-compressing-images.html#%EA%B7%B8%EB%A6%BC-901112a101-%ED%8C%8C%EC%9D%BCfile--image-namejpg-%EB%8D%AE%EC%96%B4%EC%93%B0%EA%B8%B0overwrite-image-namejpg-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
 
 ***
 
