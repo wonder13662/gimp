@@ -69,7 +69,7 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 | 파일 크기 | 372 kB | 216 kB | 80 kB | 54 kB | 43 kB | 37 kB | 33 kB | 29 kB | 24 kB | 20 kB | 14 kB | 10 kB |
 
 #### 그림 3.4.4.a621. 화질(%): 원본(PNG), 파일크기: 372 kB
-<img width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c86ee18a-134a-4f46-a460-16ddc1d073bc">
+<img width="720" src="https://github.com/wonder13662/gimp/assets/15767104/51150286-dc29-43b4-a347-961fcd427556">
 
 #### 그림 3.4.4.a622. 화질(%): 100, 파일크기: 216 kB
 <img width="720" src="https://github.com/wonder13662/gimp/assets/15767104/33e7d1be-3bc4-4c09-9b0a-865fe19f6f02">
