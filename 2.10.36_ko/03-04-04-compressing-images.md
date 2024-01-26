@@ -43,8 +43,8 @@ GIMP에서 지원하는 파일 타입을 확인하기 위해 "Export As..." 대�
 
 GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 따라 달라집니다. 만약 "JPEG" 확장자가 비활성화되어 있다면, 취소한 뒤에 [3.4.7. 모드 바꾸기](./03-04-07-change-the-mode.md)의 과정을 진행해주세요. 그 이후, `내보내기(Export)` 버튼을 클릭하면 "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자를 열 수 있습니다.
 
-#### 영상 3.4.4.4.1. "파일 유형 선택(Select File Type)"의 목록 열기
-<video controls="controls" width="1280" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/057ca909-dbd1-4db3-affd-e4a2a5692025"></video>
+#### 영상 3.4.4.4.a101. "파일 유형 선택(Select File Type)"의 목록 열기
+<video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/39b4460b-2c53-43d4-8f37-58eb7888b9b7"></video>
 
 ## 3.4.4.5. "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자
 "JPEG로 이미지 내보내기" 대화상자는 좋은 화질을 유지하면서 메모리 크기를 줄이는 기본값을 사용합니다. 대화상자의 `이미지 창에 미리 보기 표시(Show preview in image window)` 체크박스를 체크하면 화질을 바꿀때마다 변하는 이미지의 화질을 직접 확인할 수 있습니다.
