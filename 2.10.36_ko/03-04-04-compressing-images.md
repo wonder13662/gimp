@@ -14,8 +14,6 @@ GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222
 #### 그림 3.4.4.11. `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)` 메뉴의 위치
 <img width="1080" alt="그림 3.4.4.2. `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)` 메뉴의 위치" src="https://github.com/wonder13662/gimp/assets/15767104/f08f271e-255c-4b1f-bcd9-c3a3615366ef">
 
-(TODO Overwrite과 Export 분리한 뒤, 다시 이미지 교체하기)
-
 #### 그림 3.4.4.a201. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 (Windows) (우리말)
 <img width="207" alt="90-04-33-export_image_as_jpeg(windows)(ko)" src="https://github.com/wonder13662/gimp/assets/15767104/b1e96240-69ca-44e6-90a5-782059a2d383">
 
@@ -36,10 +34,17 @@ GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222
 
 (TODO Export 이미지 업데이트하기)
 
-#### 그림 3.22. `Export As...` 대화상자
-<img width="1280" alt="그림 3.22. '이미지 내보내기(Export Image)' 대화상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cccd8b1f-db92-43ba-8118-50b3b2e0c784">
+#### 그림 3.22.a301 `Export As...` 대화상자 (Windows) (우리말)
+![90-04-34-export_as(windows)(ko)(w720)](https://github.com/wonder13662/gimp/assets/15767104/b633f0c9-d50d-42f3-b43d-9e7a848ff01e)
 
-(TODO 'Export As...' 윈도우 이미지 업데이트하기)
+#### 그림 3.22.a302 `Export As...` 대화상자 (Windows) (영어)
+![90-04-34-export_as(windows)(en)(w720)](https://github.com/wonder13662/gimp/assets/15767104/e353f75a-5bf4-4465-840f-70bd433f6324)
+
+#### 그림 3.22.a303 `Export As...` 대화상자 (Mac) (우리말)
+![90-04-34-export_as(mac)(ko)(w720)](https://github.com/wonder13662/gimp/assets/15767104/e5bf749e-24c1-413b-bf28-75707c553c30)
+
+#### 그림 3.22.a304 `Export As...` 대화상자 (Mac) (영어)
+![90-04-34-export_as(mac)(en)(w720)](https://github.com/wonder13662/gimp/assets/15767104/bee70950-113f-4b01-b921-0725794f9841)
 
 #### 그림 3.4.4.23. "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자
 <img width="480" alt="그림 3.4.4.12. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/70c62a31-3d60-4d02-b6db-681ae20a9e08">
