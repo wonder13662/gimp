@@ -28,13 +28,11 @@ GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222
 #### 그림 3.4.4.a204. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 (Mac) (영어)
 <img width="292" alt="90-04-33-export_image_as_jpeg(mac)(en)" src="https://github.com/wonder13662/gimp/assets/15767104/2c51a849-4842-4e70-8436-daad9b243e22">
 
-(TODO Windows 이미지 추가하기)
-
 ## 3.4.4.2. "Export As..."
 GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의  `파일(File)` → `Export As...`를 누르면 "이미지 내보내기(Export Image)" 대화상자를 열 수 있습니다. "이미지 내보내기(Export Image)" 대화상자에서 파일 이름과 확장자를 설정하면 다시 "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자를 열 수 있습니다.
 
-#### 그림 3.4.4.22. `파일(File)` → `Export As...` 메뉴의 위치
-<img width="480" alt="그림 3.4.4.1 '이미지 내보내기(Export Image)' 메뉴의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a9fa3a38-6aef-494b-98cd-ef25f62a6f27">
+#### 그림 3.4.4.a211. `파일(File)` → `Export As...` 메뉴의 위치
+![90-01-01-file-export_as(w1080)-focus-export_as](https://github.com/wonder13662/gimp/assets/15767104/c18cee54-15c2-40b7-9fe6-755373b235a9)
 
 (TODO Export 이미지 업데이트하기)
 
