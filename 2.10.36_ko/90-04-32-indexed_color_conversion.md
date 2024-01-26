@@ -22,6 +22,8 @@
 
 ## 다른 페이지로 가기
 
+[➡️ 다음: 90.4.33. JPEG로 이미지 내보내기(Export Image as JPEG)](./90-04-33-export_image_as_jpeg.md)
+
 [⬅️ 이전: 90.4.31. 이미지 속성(Image Properties)](./90-04-31-image_properties.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
