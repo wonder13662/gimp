@@ -2,8 +2,6 @@
 # [90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 # 90.4.33. JPEG로 이미지 내보내기(Export Image as JPEG)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.4.33.a1. 'JPEG로 이미지 내보내기' 대화상자
-
 #### 그림 90.4.33.a101. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 (Windows) (우리말)
 <img width="207" alt="90-04-33-export_image_as_jpeg(windows)(ko)" src="https://github.com/wonder13662/gimp/assets/15767104/b1e96240-69ca-44e6-90a5-782059a2d383">
 
