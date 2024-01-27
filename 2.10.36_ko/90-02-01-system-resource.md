@@ -2,21 +2,20 @@
 # [90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 # 90.2.1. 시스템 리소스 (System Resource)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 90.2.1.a1. 언어설정: 우리말 (한국어) - windows
+#### 90.2.1.a101. 시스템 리소스 (Windows) (우리말)
+![90-02-01-system-resource(우리말)(windows)(compact)](https://github.com/wonder13662/gimp/assets/15767104/2752c284-09dc-4bf0-9adc-58ea2bc58b21)
 
-<img width="720" alt="90.2.1.a1. 언어설정: 우리말 (한국어) - windows" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/566c6134-42c4-4db7-a9e7-105608e1b9fa">
+#### 90.2.1.a110. 시스템 리소스 - 실행취소 최소횟수, 실행취소 최대메모리 (Windows) (우리말)
+![90-02-01-system-resource(우리말)(windows)(compact)-focus-resource_consumption](https://github.com/wonder13662/gimp/assets/15767104/d606c417-ba0b-48a4-a6bf-fcc373517866)
 
-#### 90.2.1.a2. 언어설정: 우리말 (한국어) - mac
+#### 90.2.1.a201. 시스템 리소스 (Windows) (영어)
+![90-02-01-system-resource(영어)(windows)(compact)](https://github.com/wonder13662/gimp/assets/15767104/e56e023e-ecca-4115-940d-237d8e2ba0f5)
 
-<img width="720" alt="90.2.1.a2. 언어설정: 우리말 (한국어) - mac" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0d84006c-feca-44c8-9c18-ef1847e6b9eb">
+#### 90.2.1.a301. 시스템 리소스 (Mac) (우리말)
+![90-02-01-system-resource(우리말)(mac)(compact)](https://github.com/wonder13662/gimp/assets/15767104/cb68c1f1-bce8-4c45-a7ef-dae35930031e)
 
-#### 90.2.1.a3. 언어설정: 영어 - windows
-
-<img width="720" alt="90.2.1.a3. 언어설정: 영어 - windows" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb57b25f-dafe-4e45-9f42-cdb9980fc4d8">
-
-#### 90.2.1.a4. 언어설정: 영어 - mac
-
-<img width="720" alt="90.2.1.a4. 언어설정: 영어 - mac" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/85ae2c95-5b2e-4a35-bdde-2d09dad8286a">
+#### 90.2.1.a401. 시스템 리소스 (Mac) (영어)
+![90-02-01-system-resource(영어)(mac)(compact)](https://github.com/wonder13662/gimp/assets/15767104/0ba61e8a-8cd0-4be7-b828-2f72ae8058f2)
 
 ***
 

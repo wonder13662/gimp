@@ -32,16 +32,15 @@ GIMP에서 이미지에 작업한 대부분의 일은 취소할 수 있습니다
 
 실행취소는 이미지에만 실행할 수 있습니다. "실행 취소 기록"은 이미지를 구성하는 정보입니다. GIMP는 "실행취소"를 하기 위해 일정량의 메모리를 할당합니다. "기본 설정(Preferences)"의 [12.1.2. 시스템 자원(System Resource)](./12-01-02-system-resources.md)에서 "실행취소"를 하기 위한 메모리 할당량을 늘이거나 줄일 수 있습니다.
 
-#### 그림 3.3.5.a1. 실행 취소 최소 횟수(Minimal number of undo levels)와 실행 취소 최대 메모리(Maximum undo memory) (Windows)
-<img width="1080" alt="그림 3.3.5.a1. 실행 취소 최소 횟수(Minimal number of undo levels)와 실행 취소 최대 메모리(Maximum undo memory) (Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/7a73c10c-6da2-4210-b050-847d77b7bb0a">
+#### 90.2.1.a110. 시스템 리소스 - 실행취소 최소횟수, 실행취소 최대메모리 (Windows) (우리말)
+![90-02-01-system-resource(우리말)(windows)(compact)-focus-resource_consumption](https://github.com/wonder13662/gimp/assets/15767104/d606c417-ba0b-48a4-a6bf-fcc373517866)
 
-#### 그림 3.3.5.a2. 실행 취소 최소 횟수(Minimal number of undo levels)와 실행 취소 최대 메모리(Maximum undo memory) (Mac)
-<img width="1080" alt="그림 3.3.5.a2. 실행 취소 최소 횟수(Minimal number of undo levels)와 실행 취소 최대 메모리(Maximum undo memory) (Mac)" src="https://github.com/wonder13662/gimp/assets/15767104/83afd25b-7d75-4ece-bbd2-3870a4dabf1d">
+[다른 운영체제와 언어의 '실행취소 최소횟수, 실행취소 최대메모리' 확인하기](./90-02-01-system-resource.md)
 
-### `GIMP`→ `기본 설정(Settings...)` → `시스템 자원(System Resource)` → `자원소비량(Resource Consumption)` → `실행 취소 최소 횟수(Minimal number of undo levels)`
+### `시스템 자원(System Resource)` → `자원소비량(Resource Consumption)` → `실행 취소 최소 횟수(Minimal number of undo levels)`
 GIMP가 메모리와 상관없이 관리해야 할 실행취소 최소 횟수를 지정합니다.
 
-### `GIMP`→ `기본 설정(Settings...)` → `시스템 자원(System Resource)` → `자원소비량(Resource Consumption)` → `실행 취소 최대 메모리(Maximum undo memory)`
+### `시스템 자원(System Resource)` → `자원소비량(Resource Consumption)` → `실행 취소 최대 메모리(Maximum undo memory)`
 실행 취소에 쓰인 메모리가 "실행 취소 최대 메모리"를 넘어서면 "실행취소 이력(Undo History)"에서 가장 오래된 아이템을 지웁니다.
 
 > 🗒️ 참고
