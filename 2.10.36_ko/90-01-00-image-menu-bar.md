@@ -18,7 +18,7 @@
 ## [90.1.5. 이미지(Image)](./90-01-05-image.md)
 [<img width="1080" alt="90.1.5. 이미지(Image)" src="https://github.com/wonder13662/gimp/assets/15767104/a7225394-1a92-4d6d-8461-0eb4c19c55cb">](./90-01-05-image.md)
 
-[90.1.5.1. 복제(Duplicate)](./90-01-05-imagex-02-mode.md)
+[90.1.5.1. 복제(Duplicate)](./90-01-05-imagex-01-duplicate.md)
 
 [90.1.5.2. 모드(Mode)](./90-01-05-imagex-02-mode.md)
 

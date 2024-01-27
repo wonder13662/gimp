@@ -74,7 +74,7 @@
 
 [90.1.5. 이미지(Image)](./90-01-05-image.md)
 
-[90.1.5.1. 복제(Duplicate)](./90-01-05-imagex-02-mode.md)
+[90.1.5.1. 복제(Duplicate)](./90-01-05-imagex-01-duplicate.md)
 
 [90.1.5.2. 모드(Mode)](./90-01-05-imagex-02-mode.md)
 
