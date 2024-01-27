@@ -2,8 +2,8 @@
 
 GIMP에서 이미지에 작업한 대부분의 일은 취소할 수 있습니다. 가장 최근에 한 작업을 취소하려면 이미지 메뉴에서 `편집` → `실행 취소`를 선택하거나 단축키 Ctrl + `z`(Windows) or ⌘ + `z`(Mac)을 사용합니다.
 
-#### 그림 90.1.2.1.a101. `편집` - `실행 취소`
-![`편집` → `실행 취소`](https://github.com/wonder13662/gimp/assets/15767104/36cf9d75-c1b8-435c-980a-e553994883b7)
+#### [그림 90.1.2.1.a101. `편집` - `실행 취소`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-01-undo.html#%EA%B7%B8%EB%A6%BC-90121a101-%ED%8E%B8%EC%A7%91---%EC%8B%A4%ED%96%89-%EC%B7%A8%EC%86%8C)
+[![`편집` → `실행 취소`](https://github.com/wonder13662/gimp/assets/15767104/36cf9d75-c1b8-435c-980a-e553994883b7)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-01-undo.html#%EA%B7%B8%EB%A6%BC-90121a101-%ED%8E%B8%EC%A7%91---%EC%8B%A4%ED%96%89-%EC%B7%A8%EC%86%8C)
 
 실행 취소 또한 취소할 수 있는데, 이것은 실행 취소를 한 다음에 이미지 메뉴에서 `편집` → `재실행`을 선택하거나 단축키 Ctrl + `y`(Windows) or ⌘ + `y`(Mac)를 누르면 됩니다.
 
