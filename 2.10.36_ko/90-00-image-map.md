@@ -44,7 +44,7 @@
 
 [90.1.1.19. 파일 관리자에 표시(Show in File Manager)](./90-01-01-filex-19-show_in_file_manager.md)
 
-[90.1.1.20. 작업중인 이미지 창 닫기(Close View)](./90-01-01-filex-20-close_view.md)
+[90.1.1.20. 이미지 닫기(Close View)](./90-01-01-filex-20-close_view.md)
 
 [90.1.1.21. 모든 이미지 창 닫기(Close All)](./90-01-01-filex-21-close_all.md)
 

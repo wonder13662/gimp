@@ -56,8 +56,8 @@ GIMP의 실행 취소 기능으로 아주 작은 실행 취소 메모리만으�
 ### 3.3.1.1. 이미지 닫기
 "실행 취소 기록"이 이미지를 구성하는 정보이지만, 이미지가 닫히고 이미지의 모든 리소스가 해제되면, "실행 취소 기록"은 사라집니다. 그러므로 마지막으로 저장한 이후로 이미지가 바뀌었다면, GIMP는 이미지를 정말 닫을 것인지 사용자에게 반드시 확인합니다.
 
-#### 그림 3.3.1.11 "이미지 닫기(Close View)"의 위치
-<img width="1080" alt="그림 3.3.1.11 '이미지 닫기(Close View)'의 위치" src="https://github.com/wonder13662/gimp/assets/15767104/c7d9933f-c33f-4656-b3d5-4f4a3fa8c4fe">
+#### 그림 90.1.1.20.a101. `파일(File)` → `이미지 닫기(Close View)` 메뉴의 위치
+![90-01-01-file-export_as(w1080)-focus-close_view](https://github.com/wonder13662/gimp/assets/15767104/1bda99cb-780b-42b8-b770-44e3b761c9ea)
 
 #### 영상 3.3.1.12 바뀐 이미지의 "이미지 닫기(Close View)"의 실행여부 확인
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/00f55691-d4a1-42d3-90a4-f3c8c75f50b3"></video>
@@ -89,3 +89,5 @@ GIMP의 실행 취소 기능으로 아주 작은 실행 취소 메모리만으�
 [⬆️ 위: 3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
 
 [🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-concepts-undo.html)
