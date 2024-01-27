@@ -32,8 +32,8 @@ GIMP에서 이미지에 작업한 대부분의 일은 취소할 수 있습니다
 
 실행취소는 이미지에만 실행할 수 있습니다. "실행 취소 기록"은 이미지를 구성하는 정보입니다. GIMP는 "실행취소"를 하기 위해 일정량의 메모리를 할당합니다. "기본 설정(Preferences)"의 [12.1.2. 시스템 자원(System Resource)](./12-01-02-system-resources.md)에서 "실행취소"를 하기 위한 메모리 할당량을 늘이거나 줄일 수 있습니다.
 
-#### 90.2.1.a110. 시스템 리소스 - 실행취소 최소횟수, 실행취소 최대메모리 (Windows) (우리말)
-![90-02-01-system-resource(우리말)(windows)(compact)-focus-resource_consumption](https://github.com/wonder13662/gimp/assets/15767104/d606c417-ba0b-48a4-a6bf-fcc373517866)
+#### [90.2.1.a110. 시스템 리소스 - 실행취소 최소횟수, 실행취소 최대메모리 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-01-system-resource.html#9021a110-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A6%AC%EC%86%8C%EC%8A%A4---%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%B5%9C%EC%86%8C%ED%9A%9F%EC%88%98-%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%B5%9C%EB%8C%80%EB%A9%94%EB%AA%A8%EB%A6%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-02-01-system-resource(우리말)(windows)(compact)-focus-resource_consumption](https://github.com/wonder13662/gimp/assets/15767104/d606c417-ba0b-48a4-a6bf-fcc373517866)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-01-system-resource.html#9021a110-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A6%AC%EC%86%8C%EC%8A%A4---%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%B5%9C%EC%86%8C%ED%9A%9F%EC%88%98-%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%B5%9C%EB%8C%80%EB%A9%94%EB%AA%A8%EB%A6%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 [다른 운영체제와 언어의 '실행취소 최소횟수, 실행취소 최대메모리' 확인하기](./90-02-01-system-resource.md)
 
