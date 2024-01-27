@@ -65,8 +65,8 @@ GIMP의 실행 취소 기능으로 아주 작은 실행 취소 메모리만으�
 ### 3.3.1.2. 이미지 원래대로 만들기
 "원래대로" 라는 것은 이미지를 파일로부터 다시 읽어들이는 것을 말합니다. GIMP에서 이 메뉴를 실행시키면, 현재 이미지를 닫고 새로 이미지를 엽니다. 따라서 "실행 취소 기록"은 모두 사라지게 됩니다. 그리고 이미지가 바뀌었다면 "원래대로"를 실행하기 전에 항상 실행 여부를 확인합니다. 
 
-#### 그림 3.3.1.21 "원래대로(Revert)"의 위치
-<img width="1080" alt="그림 3.3.1.21 '원래대로(Revert)'의 위치" src="https://github.com/wonder13662/gimp/assets/15767104/1cdd1386-4c23-44b4-b648-642f232dd707">
+#### 그림 90.1.1.10.a101. `파일(File)` → `원래대로(Revert)` 메뉴의 위치
+![90-01-01-file-export_as(w1080)-focus-revert](https://github.com/wonder13662/gimp/assets/15767104/b7170e9a-6879-4bfc-9712-e188bf1dadec)
 
 #### 영상 3.3.1.22 바뀐 이미지의 "원래대로(Revert)"의 실행여부 확인
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/260e4946-a74b-40bc-9125-c9f9c184862c"></video>
