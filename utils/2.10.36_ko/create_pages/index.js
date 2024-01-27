@@ -17,6 +17,131 @@ const pages = [
     page_file_name: 'layers',
     page_name_ko: '레이어',
     page_name_en: 'Layers',
+  },
+  {
+    page_file_name: 'channels',
+    page_name_ko: '채널',
+    page_name_en: 'Channels',
+  },
+  {
+    page_file_name: 'paths',
+    page_name_ko: '경로',
+    page_name_en: 'Paths',
+  },
+  {
+    page_file_name: 'colormap',
+    page_name_ko: '색상표',
+    page_name_en: 'Colormap',
+  },
+  {
+    page_file_name: 'histogram',
+    page_name_ko: '히스토그램',
+    page_name_en: 'Histogram',
+  },
+  {
+    page_file_name: 'selection_editor',
+    page_name_ko: '선택 영역 편집기',
+    page_name_en: 'Selection editor',
+  },
+  {
+    page_file_name: 'navigation',
+    page_name_ko: '내비게이션',
+    page_name_en: 'Navigation',
+  },
+  {
+    page_file_name: 'undo_history',
+    page_name_ko: '실행취소 이력',
+    page_name_en: 'Undo History',
+  },
+  {
+    page_file_name: 'pointer',
+    page_name_ko: '포인터',
+    page_name_en: 'Pointer',
+  },
+  {
+    page_file_name: 'sample_points',
+    page_name_ko: '표본점',
+    page_name_en: 'Sample Points',
+  },
+  {
+    page_file_name: 'symmetry_painting',
+    page_name_ko: '대칭 페인팅',
+    page_name_en: 'Symmetry Painting',
+  },
+  {
+    page_file_name: 'colors',
+    page_name_ko: '색',
+    page_name_en: 'Colors',
+  },
+  {
+    page_file_name: 'brushes',
+    page_name_ko: '붓',
+    page_name_en: 'Brushes',
+  },
+  {
+    page_file_name: 'paint_dynamics',
+    page_name_ko: '페인트 동적 요소',
+    page_name_en: 'Paint Dynamics',
+  },
+  {
+    page_file_name: 'mypaint_brushes',
+    page_name_ko: '마이페인트 붓',
+    page_name_en: 'Mypaint Brushes',
+  },
+  {
+    page_file_name: 'patterns',
+    page_name_ko: '무늬',
+    page_name_en: 'Patterns',
+  },
+  {
+    page_file_name: 'gradients',
+    page_name_ko: '그라디언트',
+    page_name_en: 'Gradients',
+  },
+  {
+    page_file_name: 'palettes',
+    page_name_ko: '팔레트',
+    page_name_en: 'Palettes',
+  },
+  {
+    page_file_name: 'fonts',
+    page_name_ko: '글꼴',
+    page_name_en: 'Fonts',
+  },
+  {
+    page_file_name: 'tool_preset',
+    page_name_ko: '도구 프리셋',
+    page_name_en: 'Tool Preset',
+  },
+  {
+    page_file_name: 'buffers',
+    page_name_ko: '버퍼',
+    page_name_en: 'Buffers',
+  },
+  {
+    page_file_name: 'images',
+    page_name_ko: '이미지',
+    page_name_en: 'Images',
+  },
+  {
+    page_file_name: 'document_history',
+    page_name_ko: '문서 이력',
+    page_name_en: 'Document History',
+  },
+  {
+    page_file_name: 'templates',
+    page_name_ko: '양식',
+    page_name_en: 'Templates',
+  },
+  {
+    page_file_name: 'error_console',
+    page_name_ko: '오류콘솔',
+    page_name_en: 'Error Console',
+  },
+  {
+    page_file_name: 'dashboard',
+    page_name_ko: '상황판',
+    page_name_en: 'Dashboard',
   },  
 ]
 
