@@ -74,17 +74,47 @@
 
 [90.1.5. 이미지(Image)](./90-01-05-image.md)
 
-[90.1.5.1. 이미지(Image) - 모드(Mode)](./90-01-05-imagex-01-mode.md)
+[90.1.5.1. 복제(Duplicate)](./90-01-05-imagex-02-mode.md)
 
-[90.1.5.2. 이미지(Image) - 정밀도(Precision)](./90-01-05-imagex-02-precision.md)
+[90.1.5.2. 모드(Mode)](./90-01-05-imagex-02-mode.md)
 
-[90.1.5.3. 이미지(Image) - 색상 관리(Color management)](./90-01-05-imagex-03-color_management.md)
+[90.1.5.3. 색상 관리(Color management)](./90-01-05-imagex-03-color_management.md)
 
-[90.1.5.4. 이미지(Image) - 변형(transform)](./90-01-05-imagex-04-transform.md)
+[90.1.5.4. 정밀도(Precision)](./90-01-05-imagex-04-precision.md)
 
-[90.1.5.5. 이미지(Image) - 안내선(Guides)](./90-01-05-imagex-05-guides.md)
+[90.1.5.5. 변형(Transform)](./90-01-05-imagex-05-transform.md)
 
-[90.1.5.6. 이미지(Image) - 메타데이터(Metadata)](./90-01-05-imagex-06-metadata.md)
+[90.1.5.6. 캔버스 크기(Canvas Size)](./90-01-05-imagex-06-canvas_size.md)
+
+[90.1.5.7. 캔버스 크기를 레이어에 맞춥니다(Fit Canvas to Layers)](./90-01-05-imagex-07-fit_canvas_to_layers.md)
+
+[90.1.5.8. 선택 영역에 캔버스 크기 맞추기(Fit Canvas to Selection)](./90-01-05-imagex-08-fit_canvas_to_selection.md)
+
+[90.1.5.9. 인쇄 크기(Print Size)](./90-01-05-imagex-09-print_size.md)
+
+[90.1.5.10. 이미지 크기조정(Scale Image)](./90-01-05-imagex-10-scale_image.md)
+
+[90.1.5.11. 선택 영역 잘라내기(Crop to selection)](./90-01-05-imagex-11-crop_to_selection.md)
+
+[90.1.5.12. 콘텐츠로 잘라내기(Crop to content)](./90-01-05-imagex-12-crop_to_content.md)
+
+[90.1.5.13. 가이드로 잘라내기(Slice Using Guides)](./90-01-05-imagex-13-slice_using_guides.md)
+
+[90.1.5.14. 지능적으로 잘라내기(Zealous Crop)](./90-01-05-imagex-14-zealous_crop.md)
+
+[90.1.5.15. 보이는 레이어 합치기(Merge Visible Layers)](./90-01-05-imagex-15-merge_visible_layers.md)
+
+[90.1.5.16. 이미지 평탄화(Flatten Image)](./90-01-05-imagex-16-flatten_image.md)
+
+[90.1.5.17. 보이는 레이어 정렬(Align Visible Layers)](./90-01-05-imagex-17-align_visible_layers.md)
+
+[90.1.5.18. 안내선(Guides)](./90-01-05-imagex-18-guides.md)
+
+[90.1.5.19. 격자 설정(Configure Gird)](./90-01-05-imagex-19-configure_grid.md)
+
+[90.1.5.20. 이미지 성질(Image Properties)](./90-01-05-imagex-20-image_properties.md)
+
+[90.1.5.21. 메타데이터(Metadata)](./90-01-05-imagex-21-metadata.md)
 
 [90.1.6. 레이어(Layer)](./90-01-06-layer.md)
 

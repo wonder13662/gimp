@@ -3,8 +3,8 @@
 
 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)에서 `이미지(Image)` → `인쇄 크기(Print Size...)` 메뉴를 선택하여, "인쇄 크기" 대화상자를 엽니다. 화면상의 크기 조정과 마찬가지로 너비나 높이를 바꾸면, 나머지 항목도 같이 바뀝니다. 그 다음에 해상도 값을 바꿉니다. 해상도 값이 300 이상이면 이미지를 보기 좋게 인쇄할 수 있습니다.
 
-#### 그림 3.4.3.1 인쇄 크기(Print Size...)의 위치
-<img width="1080" alt="그림 3.4.3.1 인쇄 크기(Print Size...)의 위치" src="https://github.com/wonder13662/gimp/assets/15767104/e0860f85-9f68-4778-becb-23e3e6d62ac8">
+#### [그림 90.1.5.9.a101. 이미지 메뉴 바에서 '인쇄 크기'의 위치]()
+[![그림 3.4.3.1 인쇄 크기(Print Size...)의 위치](https://github.com/wonder13662/gimp/assets/15767104/e0860f85-9f68-4778-becb-23e3e6d62ac8)]()
 
 #### 그림 3.4.3.a201 인쇄 해상도 설정 대화상자 (Windows) (우리말)
 <img width="225" alt="90-04-30-set_image_print_resolution(windows)(ko)" src="https://github.com/wonder13662/gimp/assets/15767104/6f4138fe-b944-4a86-bd46-9b30ddd4181c">
