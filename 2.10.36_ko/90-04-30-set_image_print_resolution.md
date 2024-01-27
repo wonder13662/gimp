@@ -18,7 +18,7 @@
 
 ## 관련 정보
 
-[3.4.3. 이미지의 크기 바꾸기 (인쇄용)](./03-04-03-change-the-size-of-an-Image-for-print.md)
+[3.4.3. 이미지의 크기 바꾸기 (인쇄용)](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-03-change-the-size-of-an-Image-for-print.html#%EA%B7%B8%EB%A6%BC-90430a101-%EC%9D%B8%EC%87%84-%ED%95%B4%EC%83%81%EB%8F%84-%EC%84%A4%EC%A0%95-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 
