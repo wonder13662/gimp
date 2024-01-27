@@ -2,7 +2,6 @@
 # [90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 # 90.4.29. 이미지 크기 조정(Scale Image)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.4.29.a1. 이미지 크기 조정 대화상자
 
 #### 그림 90.4.29.a101. "크기 조정" 대화상자 (Windows) (우리말)
 ![90-04-29-scale_image(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b88ded56-3fe1-4009-84ce-aa0939259794)
@@ -20,7 +19,7 @@
 
 ## 관련 정보
 
-[3.4.2. 이미지의 크기 바꾸기 (화면용)](./03-04-02-change-the-size-of-an-image-for-the-screen.md)
+[3.4.2. 이미지의 크기 바꾸기 (화면용)](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-02-change-the-size-of-an-image-for-the-screen.html#%EA%B7%B8%EB%A6%BC-90429a101-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%95-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 
