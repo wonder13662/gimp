@@ -23,8 +23,8 @@ GIMP에서 이미지에 작업한 대부분의 일은 취소할 수 있습니다
 
 [다른 운영체제와 언어의 '실행취소 이력` (Windows)' 대화상자 확인하기](./90-01-10-windowsx-02-dockable_dialogsx-10-undo_history.md)
 
-#### 그림 3.3.4. 실행 취소 기록(이력) 대화상자(Undo history dialog)
-<img width="1080" alt="그림 3.3.4. 실행 취소 기록(이력) 대화상자(Undo history dialog)" src="https://github.com/wonder13662/gimp/assets/15767104/351ada2a-1b19-4105-803c-abeff657ee07">
+#### 그림 90.4.10.a1. 실행취소 이력 대화상자
+![실행취소 이력 대화상자](https://github.com/wonder13662/gimp/assets/15767104/351ada2a-1b19-4105-803c-abeff657ee07)
 
 주의: 우리말 버전의 경우, 도킹가능한 대화에서는 `실행취소 이력`, 독의 대화상자에서는 `실행 취소 기록`로 부르고 있습니다. 향후, 하나의 이름으로 맞출 필요가 있습니다.
 
