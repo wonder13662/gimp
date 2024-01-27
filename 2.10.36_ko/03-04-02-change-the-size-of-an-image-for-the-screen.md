@@ -13,8 +13,8 @@ GIMP는 이미지를 보기 좋은 크기로 엽니다. 따라서 열려고 하�
 
 이미지 메뉴(Image Menu)의 `이미지(I)` → `이미지 크기조정(S)...` 메뉴를 선택하여 "크기 조정" 대화상자를 엽니다. `이미지 크기조정(S)...`의 오른쪽의 `...`은 메뉴를 클릭하면 대화상자가 열린다는 것을 의미합니다.
 
-#### [그림 90.1.5.10.a101. 이미지 메뉴 바에서 '이미지 크기조정'의 위치]()
-[![이미지 메뉴(Image Menu)의 `이미지` → `이미지 크기 조정` 메뉴](https://github.com/wonder13662/gimp/assets/15767104/613d0cc8-05ad-4df5-a9d0-3be39b770f41)]()
+#### [그림 90.1.5.10.a101. 이미지 메뉴 바에서 '이미지 크기조정'의 위치](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-05-imagex-10-scale_image.html#%EA%B7%B8%EB%A6%BC-901510a101-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%95%EC%9D%98-%EC%9C%84%EC%B9%98)
+[![이미지 메뉴(Image Menu)의 `이미지` → `이미지 크기 조정` 메뉴](https://github.com/wonder13662/gimp/assets/15767104/613d0cc8-05ad-4df5-a9d0-3be39b770f41)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-05-imagex-10-scale_image.html#%EA%B7%B8%EB%A6%BC-901510a101-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%95%EC%9D%98-%EC%9C%84%EC%B9%98)
 
 #### 그림 3.4.2.a301. "크기 조정" 대화상자 (Windows) (우리말)
 <img width="291" alt="90-04-29-scale_image(windows)(ko)" src="https://github.com/wonder13662/gimp/assets/15767104/b88ded56-3fe1-4009-84ce-aa0939259794">
