@@ -14,6 +14,8 @@
 
 ## 관련 정보
 
+[3.3. 실행 취소하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-03-undoing.html#%EA%B7%B8%EB%A6%BC-90110210a101-%EC%B0%BD--%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5-windows)
+
 ***
 
 ## 다른 페이지로 가기

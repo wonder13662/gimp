@@ -18,11 +18,10 @@ GIMP에서 이미지에 작업한 대부분의 일은 취소할 수 있습니다
 
 한번에 많은 과정을 실행 취소하거나 재실행을 자주한다면, 실행 취소 이력 대화상자를 이용하면 편리합니다.
 
-#### 그림 90.1.10.2.10.a101. `창` → `실행취소 이력` (Windows)
-![그림 90.1.10.2.10.a101. `창` → `실행취소 이력` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/69de469c-0fd6-48bb-ad05-afe85d91740b)
+#### [그림 90.1.10.2.10.a101. `창` → `실행취소 이력` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-10-undo_history.html#%EA%B7%B8%EB%A6%BC-90110210a101-%EC%B0%BD--%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5-windows)
+[![그림 90.1.10.2.10.a101. `창` → `실행취소 이력` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/69de469c-0fd6-48bb-ad05-afe85d91740b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-10-undo_history.html#%EA%B7%B8%EB%A6%BC-90110210a101-%EC%B0%BD--%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5-windows)
 
-#### 그림 90.1.10.2.10.a102. `창` → `실행취소 이력` (Mac)
-![그림 90.1.10.2.10.a102. `창` → `실행취소 이력` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/331e0775-f9ca-4bc3-a5ab-35a942fd8a4b)
+[다른 운영체제와 언어의 '실행취소 이력` (Windows)' 대화상자 확인하기](./90-01-10-windowsx-02-dockable_dialogsx-10-undo_history.md)
 
 #### 그림 3.3.4. 실행 취소 기록(이력) 대화상자(Undo history dialog)
 <img width="1080" alt="그림 3.3.4. 실행 취소 기록(이력) 대화상자(Undo history dialog)" src="https://github.com/wonder13662/gimp/assets/15767104/351ada2a-1b19-4105-803c-abeff657ee07">
