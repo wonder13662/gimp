@@ -104,17 +104,10 @@ GIMP가 새로 시작할 때마다, 이전에 종료하기 전까지 사용했�
 #### 영상 3.2.1.a701. `모양새(Appearance)`에서 아이콘 추가하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
 
-#### 그림 3.2.1.a711. 모양새(Appearance) (Windows) (우리말)
-<img width="720" alt="그림 3.2.1.a711. 모양새(Appearance) (Windows) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/761e1ee7-aa5f-423c-97dc-6cd6c55c6965">
+#### [그림 90.2.6.3.a201. 모양새(Appearance) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a201-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![모양새(Appearance) (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/761e1ee7-aa5f-423c-97dc-6cd6c55c6965)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a201-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-#### 그림 3.2.1.a712. 모양새(Appearance) (Windows) (영어)
-<img width="720" alt="그림 3.2.1.a712. 모양새(Appearance) (Windows) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/0d25b4dc-795e-4e9f-8c0c-93b48619804d">
-
-#### 그림 3.2.1.a713. 모양새(Appearance) (Mac) (우리말)
-<img width="720" alt="그림 3.2.1.a713. 모양새(Appearance) (Mac) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/0e45ad36-e258-4eca-a113-49a0b5c05fbf">
-
-#### 그림 3.2.1.a714. 모양새(Appearance) (Mac) (영어)
-<img width="720" alt="그림 3.2.1.a714. 모양새(Appearance) (Mac) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/5f628859-2655-4557-a102-fd7af59a687c">
+[다른 운영체제와 언어의 '모양새(Appearance)' 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a201-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ## 다른 페이지로 가기
 [➡️ 다음: 3.2.2. 이미지 창](./03-02-02-image-window.md)

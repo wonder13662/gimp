@@ -24,17 +24,10 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 ### 1. 기본 도구 상자(Toolbox)
 여러 가지 도구들을 선택할 수 있는 아이콘들이 모아져 있습니다. 그리고 전경색(Foreground color)/배경색(Background color)이 표시됩니다. [붓(Brushes)](./07-06-brushes.md), [무늬(Patterns)](./07-11-patterns.md), [그라디언트(Gradient)](./07-10-gradients.md), 현재 이미지의 아이콘 등을 추가할 수도 있습니다. `GIMP` → `기본 설정(Settings...)` → `인터페이스(Interface)` → `도구상자(Toolbox)` → `모양새(Appearance)`를 이용하여 추가로 표시할 수 있는 항목들을 표시하거나 숨길 수 있습니다.
 
-#### 그림 90.2.6.3.a201. 모양새(Appearance) (Windows) (우리말)
-![모양새(Appearance) (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/761e1ee7-aa5f-423c-97dc-6cd6c55c6965)
+#### [그림 90.2.6.3.a201. 모양새(Appearance) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a201-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![모양새(Appearance) (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/761e1ee7-aa5f-423c-97dc-6cd6c55c6965)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a201-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-#### 그림 90.2.6.3.a202. 모양새(Appearance) (Windows) (영어)
-![모양새(Appearance) (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/0d25b4dc-795e-4e9f-8c0c-93b48619804d)
-
-#### 그림 90.2.6.3.a203. 모양새(Appearance) (Mac) (우리말)
-![모양새(Appearance) (Mac) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/0e45ad36-e258-4eca-a113-49a0b5c05fbf)
-
-#### 그림 90.2.6.3.a204. 모양새(Appearance) (Mac) (영어)
-![모양새(Appearance) (Mac) (영어)](https://github.com/wonder13662/gimp/assets/15767104/5f628859-2655-4557-a102-fd7af59a687c)
+[다른 운영체제와 언어의 '모양새(Appearance)' 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a201-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 영상 3.2.1. 모양새(Appearance) 설정에 따라 도구 상자의 모양이 바뀝니다
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>

@@ -21,7 +21,7 @@ GIMP에서 이미지에 작업한 대부분의 일은 취소할 수 있습니다
 #### [그림 90.1.10.2.10.a101. `창` → `실행취소 이력` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-10-undo_history.html#%EA%B7%B8%EB%A6%BC-90110210a101-%EC%B0%BD--%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5-windows)
 [![그림 90.1.10.2.10.a101. `창` → `실행취소 이력` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/69de469c-0fd6-48bb-ad05-afe85d91740b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-10-undo_history.html#%EA%B7%B8%EB%A6%BC-90110210a101-%EC%B0%BD--%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5-windows)
 
-[다른 운영체제와 언어의 '실행취소 이력` (Windows)' 대화상자 확인하기](./90-01-10-windowsx-02-dockable_dialogsx-10-undo_history.md)
+[다른 운영체제와 언어의 '실행취소 이력` (Windows)' 메뉴 확인하기](./90-01-10-windowsx-02-dockable_dialogsx-10-undo_history.md)
 
 #### [그림 90.4.10.a1. 실행취소 이력 대화상자](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-10-undo_history.html#%EA%B7%B8%EB%A6%BC-90410a1-%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
 [![실행취소 이력 대화상자](https://github.com/wonder13662/gimp/assets/15767104/351ada2a-1b19-4105-803c-abeff657ee07)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-10-undo_history.html#%EA%B7%B8%EB%A6%BC-90410a1-%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
