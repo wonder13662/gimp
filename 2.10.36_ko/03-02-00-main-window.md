@@ -93,8 +93,8 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 위 내용은 가장 기본적인 대화 상자(dialog)들입니다. 이외에 목적에 따라 수많은 대화 상자들이 있지만, 대부분은 필요에 따라 그때그때 열어 쓰고 닫아두게 됩니다. 일반적으로 도구 옵션을 포함한 도구 상자와 레이어 대화 상자는 항상 열어두는 편이 좋습니다. 작업 후 저장을 하지 않고 이미지 창을 닫으면, 이미지 창을 닫을 것인지 묻는 창이 표시됩니다.
 
 ### 1. 도구 상자(Tool box)
-#### 그림 90.3.a2. 도구상자
-![toolbox](https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5)
+#### [그림 90.3.a2. 도구상자](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-00-toolbox.html#%EA%B7%B8%EB%A6%BC-903a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90)
+[![toolbox](https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-00-toolbox.html#%EA%B7%B8%EB%A6%BC-903a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90)
 
 많은 GIMP 기능을 사용하는데 필수적입니다.
 

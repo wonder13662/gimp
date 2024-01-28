@@ -197,6 +197,8 @@
 
 ## 관련 정보
 
+[3.2. GIMP(김프)의 주요 화면 - 그림 90.3.a2. 도구상자](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-903a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90)
+
 [3.2.1. 기본 도구 상자(The toolbox)](./03-02-01-the-toolbox.md)
 
 ***
