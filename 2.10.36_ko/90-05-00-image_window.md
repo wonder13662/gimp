@@ -71,6 +71,10 @@
 
 [3.2. GIMP(김프)의 주요 화면 - 그림 90.5.a321. 다중창 모드(multi-window mode)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-905a321-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9Cmulti-window-mode)
 
+[3.2. GIMP(김프)의 주요 화면 - 영상 90.5.a323. 왼쪽 판(panel)의 너비를 조정하는 경우](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-905a323-%EC%99%BC%EC%AA%BD-%ED%8C%90panel%EC%9D%98-%EB%84%88%EB%B9%84%EB%A5%BC-%EC%A1%B0%EC%A0%95%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
+
+[3.2. GIMP(김프)의 주요 화면 - 영상 90.5.a324. 오른쪽 판(panel)의 너비를 조정하는 경우](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-905a324-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%8C%90panel%EC%9D%98-%EB%84%88%EB%B9%84%EB%A5%BC-%EC%A1%B0%EC%A0%95%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
+
 [3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
 
 ***
