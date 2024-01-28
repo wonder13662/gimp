@@ -35,7 +35,7 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 
 [다른 운영체제와 언어의 '모양새(Appearance)' 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a201-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-#### 영상 3.2.1. 모양새(Appearance) 설정에 따라 도구 상자의 모양이 바뀝니다
+#### 영상 90.2.6.3.a205. 모양새(Appearance) 설정에 따라 도구 상자의 모양이 바뀝니다
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
 
 ### 2. 도구 옵션(Tool Options)

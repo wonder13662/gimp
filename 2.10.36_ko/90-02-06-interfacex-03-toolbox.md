@@ -19,9 +19,8 @@
 
 <img width="720" alt="90.2.6.3.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/71206fe4-e98e-4886-83c2-4cd937d6c9b7">
 
-***
+## 모양새(Appearance)
 
-## 기능이 쓰인 곳
 #### 그림 90.2.6.3.a201. 모양새(Appearance) (Windows) (우리말)
 ![모양새(Appearance) (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/761e1ee7-aa5f-423c-97dc-6cd6c55c6965)
 
@@ -34,8 +33,16 @@
 #### 그림 90.2.6.3.a204. 모양새(Appearance) (Mac) (영어)
 ![모양새(Appearance) (Mac) (영어)](https://github.com/wonder13662/gimp/assets/15767104/5f628859-2655-4557-a102-fd7af59a687c)
 
+#### 영상 90.2.6.3.a205. 모양새(Appearance) 설정에 따라 도구 상자의 모양이 바뀝니다
 #### [영상 3.2.1. 모양새(Appearance) 설정에 따라 도구 상자의 모양이 바뀝니다](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-321-%EB%AA%A8%EC%96%91%EC%83%88appearance-%EC%84%A4%EC%A0%95%EC%97%90-%EB%94%B0%EB%9D%BC-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EB%AA%A8%EC%96%91%EC%9D%B4-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4)
-[<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-321-%EB%AA%A8%EC%96%91%EC%83%88appearance-%EC%84%A4%EC%A0%95%EC%97%90-%EB%94%B0%EB%9D%BC-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EB%AA%A8%EC%96%91%EC%9D%B4-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
+
+***
+
+## 기능이 쓰인 곳
+
+
+
 
 #### [영상 3.2.1.a102. `Show GIMP logo(drag-and-drop target)`로 도구 상자에서 노출 제어하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EC%98%81%EC%83%81-321a102-show-gimp-logodrag-and-drop-target%EB%A1%9C-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%EB%85%B8%EC%B6%9C-%EC%A0%9C%EC%96%B4%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9a8813c3-e223-422f-9436-a75ee551bbd3"></video>
