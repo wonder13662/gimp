@@ -59,12 +59,10 @@
 #### 그림 90.5.a361. 다중창 모드의 이미지 창
 ![image-window-single](https://github.com/wonder13662/gimp/assets/15767104/49005d64-07cb-4d55-ae57-adddace9f92c)
 
-#### 그림 90.5.a323. 다중창 모드의 이미지 창
-#### [영상 3.2.3. 왼쪽 판(panel)의 너비를 조정하는 경우](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-323-%EC%99%BC%EC%AA%BD-%ED%8C%90panel%EC%9D%98-%EB%84%88%EB%B9%84%EB%A5%BC-%EC%A1%B0%EC%A0%95%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
+#### 영상 90.5.a323. 왼쪽 판(panel)의 너비를 조정하는 경우
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/122a8fa7-0b37-4651-af7e-c5aea59ccb32"></video>
 
-#### 그림 90.5.a324. 다중창 모드의 이미지 창
-#### [영상 3.2.4. 오른쪽 판(panel)의 너비를 조정하는 경우](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-324-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%8C%90panel%EC%9D%98-%EB%84%88%EB%B9%84%EB%A5%BC-%EC%A1%B0%EC%A0%95%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
+#### 영상 90.5.a324. 오른쪽 판(panel)의 너비를 조정하는 경우
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/49be469f-50cb-47d0-9a91-6b0247b56ee5"></video>
 
 ***
