@@ -22,22 +22,25 @@
 ***
 
 ## 기능이 쓰인 곳
-
+#### 그림 90.2.6.3.a201. 모양새(Appearance) (Windows) (우리말)
 #### [그림 3.2.5.a1. 모양새(Appearance) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-325a1-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 #### [그림 3.2.1.a1. 모양새(Appearance) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EA%B7%B8%EB%A6%BC-321a1-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-<img width="720" alt="그림 3.2.5.a1. 모양새(Appearance) (Windows) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/761e1ee7-aa5f-423c-97dc-6cd6c55c6965">
+![모양새(Appearance) (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/761e1ee7-aa5f-423c-97dc-6cd6c55c6965)
 
+#### 그림 90.2.6.3.a202. 모양새(Appearance) (Windows) (영어)
 #### [그림 3.2.5.a2. 모양새(Appearance) (Windows) (영어)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-325a2-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%98%81%EC%96%B4)
 #### [그림 3.2.1.a2. 모양새(Appearance) (Windows) (영어)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EA%B7%B8%EB%A6%BC-321a2-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%98%81%EC%96%B4)
-<img width="720" alt="그림 3.2.5.a2. 모양새(Appearance) (Windows) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/0d25b4dc-795e-4e9f-8c0c-93b48619804d">
+![모양새(Appearance) (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/0d25b4dc-795e-4e9f-8c0c-93b48619804d)
 
+#### 그림 90.2.6.3.a203. 모양새(Appearance) (Mac) (우리말)
 #### [그림 3.2.5.a3. 모양새(Appearance) (Mac) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-325a3-%EB%AA%A8%EC%96%91%EC%83%88appearance-mac-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 #### [그림 3.2.1.a3. 모양새(Appearance) (Mac) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EA%B7%B8%EB%A6%BC-321a3-%EB%AA%A8%EC%96%91%EC%83%88appearance-mac-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-<img width="720" alt="그림 3.2.5.a3. 모양새(Appearance) (Mac) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/0e45ad36-e258-4eca-a113-49a0b5c05fbf">
+![모양새(Appearance) (Mac) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/0e45ad36-e258-4eca-a113-49a0b5c05fbf)
 
+#### 그림 90.2.6.3.a204. 모양새(Appearance) (Mac) (영어)
 #### [그림 3.2.5.a4. 모양새(Appearance) (Mac) (영어)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-325a4-%EB%AA%A8%EC%96%91%EC%83%88appearance-mac-%EC%98%81%EC%96%B4)
 #### [그림 3.2.1.a4. 모양새(Appearance) (Mac) (영어)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EA%B7%B8%EB%A6%BC-321a4-%EB%AA%A8%EC%96%91%EC%83%88appearance-mac-%EC%98%81%EC%96%B4)
-<img width="720" alt="그림 3.2.5.a4. 모양새(Appearance) (Mac) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/5f628859-2655-4557-a102-fd7af59a687c">
+![모양새(Appearance) (Mac) (영어)](https://github.com/wonder13662/gimp/assets/15767104/5f628859-2655-4557-a102-fd7af59a687c)
 
 #### [영상 3.2.1. 모양새(Appearance) 설정에 따라 도구 상자의 모양이 바뀝니다](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-321-%EB%AA%A8%EC%96%91%EC%83%88appearance-%EC%84%A4%EC%A0%95%EC%97%90-%EB%94%B0%EB%9D%BC-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EB%AA%A8%EC%96%91%EC%9D%B4-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4)
 [<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-321-%EB%AA%A8%EC%96%91%EC%83%88appearance-%EC%84%A4%EC%A0%95%EC%97%90-%EB%94%B0%EB%9D%BC-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EB%AA%A8%EC%96%91%EC%9D%B4-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4)
