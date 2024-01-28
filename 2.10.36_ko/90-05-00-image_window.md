@@ -35,6 +35,8 @@
 
 [90.5.16. 탭 메뉴 (Tab Menu)](./90-05-16-tab_menu.md)
 
+[90.5.17. 이미지 탭 바 (Image Tab Bar)](./90-05-17-image_tab_bar.md)
+
 ***
 
 ## 기능이 쓰인 곳

@@ -81,7 +81,8 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 
 ### 이미지 창(Image window) 제어하기
 이미지는 왼쪽과 오른쪽 판(panel) 사이에 가득 차게 표시됩니다. 여러 개의 이미지가 열리면, 이미지 창 위에 모든 이미지의 탭이 보이는 새로운 바(bar)가 나타납니다.
-#### 영상 3.2.5.
+
+#### 영상 90.5.17. 여러 개의 이미지를 여는 경우에 '이미지 탭 바'를 사용할 수 있습니다
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7f7cff40-6263-4edb-a536-9d4fcfe022f8"></video>  
 
 ### 열어놓은 이미지 선택하기
