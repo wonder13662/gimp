@@ -229,7 +229,15 @@
 
 [90.1.10.2.28. 상황판(Dashboard)](./90-01-10-windowsx-02-dockable_dialogsx-28-dashboard.md)
 
-[90.1.10.3. 탭 위치(Tab position)](./90-01-10-windowsx-03-tab_position.md)
+[90.1.10.3. 도구상자(Toolbox)](./90-01-10-windowsx-03-toolbox.md)
+
+[90.1.10.4. 독 숨기기(Hide Docks)](./90-01-10-windowsx-04-hide_docks.md)
+
+[90.1.10.5. 탭 보이기(Show Tabs)](./90-01-10-windowsx-05-show_tabs.md)
+
+[90.1.10.6. 탭 위치(Tab position)](./90-01-10-windowsx-06-tab_position.md)
+
+[90.1.10.7. 단일창 모드(Single-Window Mode)](./90-01-10-windowsx-07-single_window_mode.md)
 
 ## [90.1.11. 도움말(Help)](./90-01-11-help.md)
 [<img width="1080" alt="90.1.11. 도움말(Help)" src="https://github.com/wonder13662/gimp/assets/15767104/e42b3e1d-4d42-46d3-a209-9ca6584cdddd">](./90-01-11-help.md)

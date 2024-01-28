@@ -1,8 +1,8 @@
 # [90. 이미지 맵](./90-00-image-map.md)
 # [90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 # 90.1.10. 창(Windows)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-<img width="1080" alt="90.1.10. 창(Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/5898f1cf-caac-4702-a2a8-eb6586d704fe">
+#### 그림 90.1.10.a101. `창(Windows)`
+![90-01-10-windows(w1080)](https://github.com/wonder13662/gimp/assets/15767104/89c93d52-e3d5-43c8-8bdb-97d732f75268)
 
 ## 하위 메뉴
 
@@ -66,7 +66,15 @@
 
 [90.1.10.2.28. 상황판(Dashboard)](./90-01-10-windowsx-02-dockable_dialogsx-28-dashboard.md)
 
-[90.1.10.3. 탭 위치(Tab position)](./90-01-10-windowsx-03-tab_position.md)
+[90.1.10.3. 도구상자(Toolbox)](./90-01-10-windowsx-03-toolbox.md)
+
+[90.1.10.4. 독 숨기기(Hide Docks)](./90-01-10-windowsx-04-hide_docks.md)
+
+[90.1.10.5. 탭 보이기(Show Tabs)](./90-01-10-windowsx-05-show_tabs.md)
+
+[90.1.10.6. 탭 위치(Tab position)](./90-01-10-windowsx-06-tab_position.md)
+
+[90.1.10.7. 단일창 모드(Single-Window Mode)](./90-01-10-windowsx-07-single_window_mode.md)
 
 ***
 
