@@ -4,6 +4,9 @@
 #### 그림 90.3.a1. 도구상자 - 도구상자 그룹의 사용 여부에 따른 차이
 <img width="1080" alt="그림 90.3.a1. 도구상자 - 도구상자 그룹의 사용 여부에 따른 차이" src="https://github.com/wonder13662/gimp/assets/15767104/e292b65b-23e4-4957-bded-138a364bac56">
 
+#### 그림 90.3.a2. 도구상자
+![toolbox](https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5)
+
 ## [90.3.1. GIMP 로고(GIMP Logo)](./90-03-01-gimp_logo.md)
 #### 그림 90.3.a101. 도구상자 안의 GIMP 로고
 (TODO 이미지 추가 필요)
