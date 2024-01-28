@@ -17,7 +17,7 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 #### [그림 90.5.a323. 다중창 모드 스크린샷](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a323-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7)
 [![multiple-window](https://github.com/wonder13662/gimp/assets/15767104/7fa9ac60-26d8-4547-9b43-aa914e002e93)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a323-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7)
 
-1. [도구 상자(Toolbox)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#1-%EA%B8%B0%EB%B3%B8-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90toolbox)
+1. [도구 상자(Toolbox)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#1-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90toolbox)
 2. [도구 옵션(Tool Options)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#2-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options)
 3. [이미지 창(Image Window)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#3-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BDimage-window)
 4. [붓(Brushes), 무늬(Patterns), 글꼴(Fonts), 문서 이력(Document History) 독](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#4-%EB%B6%93brushes-%EB%AC%B4%EB%8A%ACpatterns-%EA%B8%80%EA%BC%B4fonts-%EB%AC%B8%EC%84%9C-%EC%9D%B4%EB%A0%A5document-history-%EB%8F%85)
