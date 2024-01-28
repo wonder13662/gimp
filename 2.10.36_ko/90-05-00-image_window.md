@@ -72,7 +72,7 @@
 
 [3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 
-[3.2. GIMP(김프)의 주요 화면 - 그림 90.5.a321. 다중창 모드(multi-window mode)]()
+[3.2. GIMP(김프)의 주요 화면 - 그림 90.5.a321. 다중창 모드(multi-window mode)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-905a321-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9Cmulti-window-mode)
 
 [3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
 
