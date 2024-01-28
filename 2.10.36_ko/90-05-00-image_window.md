@@ -69,6 +69,8 @@
 
 ## 관련 정보
 
+[3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
+
 [3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
 
 ***
