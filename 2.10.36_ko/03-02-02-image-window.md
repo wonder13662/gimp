@@ -1,8 +1,8 @@
 # 3.2.2. 이미지 창(Image window)
 GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 모드(single-window mode,기본값)](./03-02-00-main-window.md), 그리고 `창(Windows)` → `Single-Window Mode`를 클릭해서 체크를 끄고 [다중창 모드(multi-window)](./03-02-00-main-window.md)로 바꿀 수 있습니다.
 
-#### 그림 90.1.10.7.a101. `창(Windows)` - `단일창 모드(Single-Window Mode)`
-![90-01-10-windows(w1080)-focus-single_window_mode](https://github.com/wonder13662/gimp/assets/15767104/08f5fc97-386f-4c20-b602-715731c24987)
+#### [그림 90.1.10.7.a101. `창(Windows)` - `단일창 모드(Single-Window Mode)`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-07-single_window_mode.html#%EA%B7%B8%EB%A6%BC-901107a101-%EC%B0%BDwindows---%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
+[![90-01-10-windows(w1080)-focus-single_window_mode](https://github.com/wonder13662/gimp/assets/15767104/08f5fc97-386f-4c20-b602-715731c24987)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-07-single_window_mode.html#%EA%B7%B8%EB%A6%BC-901107a101-%EC%B0%BDwindows---%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
 
 이미지 없이 GIMP를 실행하면, 단일창 모드에서는 이미지 창이 비어 있게 되고, 다중창 모드에서는 빈 이미지 창이 열립니다.
 

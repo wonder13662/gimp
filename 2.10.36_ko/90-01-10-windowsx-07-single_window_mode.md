@@ -8,6 +8,12 @@
 
 ***
 
+## 관련 정보
+
+[3.2.2. 이미지 창(Image window)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-window.html#%EA%B7%B8%EB%A6%BC-901107a101-%EC%B0%BDwindows---%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.1.11. 도움말(Help)](./90-01-11-help.md)
