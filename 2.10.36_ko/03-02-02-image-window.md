@@ -8,8 +8,8 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 
 여기에서는 일반적인 이미지 창에 기본값으로 표시되는 요소들을 설명할 것입니다. 이 요소들 중 일부는 [16.5. 보기 메뉴](16-05-00-the-view-menu.md)의 하위 명령들을 이용하여 숨길 수도 있습니다.
 
-#### 그림 90.5.a351. 다중창 모드의 이미지 창
-![image-window-multi](https://github.com/wonder13662/gimp/assets/15767104/71a5c1f4-0bfc-486d-9534-1b211ff94b80)
+#### [그림 90.5.a351. 다중창 모드의 이미지 창](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a351-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD)
+[![image-window-multi](https://github.com/wonder13662/gimp/assets/15767104/71a5c1f4-0bfc-486d-9534-1b211ff94b80)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a351-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD)
 
 #### 그림 90.5.a361. 다중창 모드의 이미지 창
 ![image-window-single](https://github.com/wonder13662/gimp/assets/15767104/49005d64-07cb-4d55-ae57-adddace9f92c)
