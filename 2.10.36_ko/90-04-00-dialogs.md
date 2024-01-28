@@ -134,8 +134,6 @@
 ***
 
 ## 기능이 쓰인 곳
-#### [영상 3.2.2.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-322)
-<video controls="controls" width="394" src="https://github.com/wonder13662/gimp/assets/15767104/dc6bca6a-ac80-41a3-9d40-904cf22a563c"></video>
 
 #### [영상 3.2.10. 탭 추가(Add Tab)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-3210-%ED%83%AD-%EC%B6%94%EA%B0%80add-tab)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2859f79-24af-41ff-8ec6-e859da6c8fb8"></video>

@@ -58,7 +58,7 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 
 ### 다중창 모드의 탭키
 다중창 모드에서는 상단 오른쪽, 왼쪽의 탭 키를 이용해 보여지는 대화창들을 선택할 수 있습니다.
-#### 영상 3.2.2.
+#### 영상 90.5.15.a101. 다중창 모드의 독의 탭 키로 대화창 선택
 <video controls="controls" width="394" src="https://github.com/wonder13662/gimp/assets/15767104/dc6bca6a-ac80-41a3-9d40-904cf22a563c"></video>
 
 ## 단일창 모드(single window mode)
