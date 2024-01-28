@@ -43,8 +43,7 @@
 ![multi-window-mode](https://github.com/wonder13662/gimp/assets/15767104/c253f6d6-0ad2-4791-bbd2-e60c2f0c0c69)
 
 #### 그림 90.5.a322. 단일창 모드(single window mode)
-#### [그림 3.2.2. 단일창 모드(single window mode)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-322-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
-[<img width="540" alt="single-window-mode" src="https://github.com/wonder13662/gimp/assets/15767104/39df1a43-0890-41ff-babd-d59c75196179">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-322-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
+![single-window-mode](https://github.com/wonder13662/gimp/assets/15767104/39df1a43-0890-41ff-babd-d59c75196179)
 
 #### 그림 90.5.a323. 다중창 모드 스크린샷
 #### [그림 3.2. 다중창 모드 스크린샷](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-32-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7)
