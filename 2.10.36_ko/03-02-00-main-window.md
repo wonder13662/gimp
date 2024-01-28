@@ -1,8 +1,8 @@
 # 3.2. GIMP(김프)의 주요 화면
 
 김프의 사용자 인터페이스는 다음 두 가지 모드를 지원합니다.
-#### 그림 3.2.1. 다중창 모드(multi-window mode)
-<img width="1080" alt="multi-window-mode" src="https://github.com/wonder13662/gimp/assets/15767104/8b4d2c6e-7fa3-4f16-8c54-5004eb4765cf">
+#### 그림 90.5.a321. 다중창 모드(multi-window mode)
+![multi-window-mode](https://github.com/wonder13662/gimp/assets/15767104/c253f6d6-0ad2-4791-bbd2-e60c2f0c0c69)
 
 #### 그림 3.2.2. 단일창 모드(single window mode)
 <img width="1080" alt="single-window-mode" src="https://github.com/wonder13662/gimp/assets/15767104/86811f94-d7b4-4fd5-a9b6-82c4714b0fb6">

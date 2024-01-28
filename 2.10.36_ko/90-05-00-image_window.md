@@ -1,6 +1,8 @@
 # [90. 이미지 맵](./90-00-image-map.md)
 # 90.5. 이미지 창(Image Window)
 
+## 하위 페이지
+
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
 [90.5.2. 이미지 메뉴 (Image Menu)](./90-05-02-image_menu.md)
@@ -38,8 +40,7 @@
 ## 기능이 쓰인 곳
 
 #### 그림 90.5.a321. 다중창 모드(multi-window mode)
-#### [그림 3.2.1. 다중창 모드(multi-window mode)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-321-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9Cmulti-window-mode)
-[<img width="540" alt="multi-window-mode" src="https://github.com/wonder13662/gimp/assets/15767104/c253f6d6-0ad2-4791-bbd2-e60c2f0c0c69">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-321-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9Cmulti-window-mode)
+![multi-window-mode](https://github.com/wonder13662/gimp/assets/15767104/c253f6d6-0ad2-4791-bbd2-e60c2f0c0c69)
 
 #### 그림 90.5.a322. 단일창 모드(single window mode)
 #### [그림 3.2.2. 단일창 모드(single window mode)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-322-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
@@ -70,6 +71,8 @@
 ## 관련 정보
 
 [3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
+
+[3.2. GIMP(김프)의 주요 화면 - 그림 90.5.a321. 다중창 모드(multi-window mode)]()
 
 [3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
 
