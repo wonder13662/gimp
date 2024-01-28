@@ -14,8 +14,8 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 [![90-01-10-windows(w1080)-focus-single_window_mode](https://github.com/wonder13662/gimp/assets/15767104/08f5fc97-386f-4c20-b602-715731c24987)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-07-single_window_mode.html#%EA%B7%B8%EB%A6%BC-901107a101-%EC%B0%BDwindows---%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
 
 ## 다중창 모드(multi-window mode)
-#### 그림 3.2. 다중창 모드 스크린샷
-<img width="699" alt="multiple-window" src="https://github.com/wonder13662/gimp/assets/15767104/7fa9ac60-26d8-4547-9b43-aa914e002e93">
+#### 그림 90.5.a323. 다중창 모드 스크린샷
+![multiple-window](https://github.com/wonder13662/gimp/assets/15767104/7fa9ac60-26d8-4547-9b43-aa914e002e93)
 
 위의 스크린샷은 가장 기본적인 다중창 모드 배치입니다.
 
@@ -63,8 +63,8 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 <video controls="controls" width="394" src="https://github.com/wonder13662/gimp/assets/15767104/dc6bca6a-ac80-41a3-9d40-904cf22a563c"></video>
 
 ## 단일창 모드(single window mode)
-#### 그림 3.2. 단일창 모드 스크린샷
-<img width="699" alt="single-window" src="https://github.com/wonder13662/gimp/assets/15767104/fd9a7449-3d1b-4f4e-b166-c97fa84da161">
+#### 그림 90.5.a324. 단일창 모드 스크린샷
+![single-window](https://github.com/wonder13662/gimp/assets/15767104/fd9a7449-3d1b-4f4e-b166-c97fa84da161)
 
 다중창 모드와 같은 요소들을 포함하고 있지만, 사용법은 다소 다릅니다.
 

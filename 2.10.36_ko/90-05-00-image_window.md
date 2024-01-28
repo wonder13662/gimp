@@ -46,12 +46,10 @@
 ![single-window-mode](https://github.com/wonder13662/gimp/assets/15767104/39df1a43-0890-41ff-babd-d59c75196179)
 
 #### 그림 90.5.a323. 다중창 모드 스크린샷
-#### [그림 3.2. 다중창 모드 스크린샷](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-32-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7)
-[<img width="699" alt="multiple-window" src="https://github.com/wonder13662/gimp/assets/15767104/7fa9ac60-26d8-4547-9b43-aa914e002e93">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-32-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7)
+![multiple-window](https://github.com/wonder13662/gimp/assets/15767104/7fa9ac60-26d8-4547-9b43-aa914e002e93)
 
 #### 그림 90.5.a324. 단일창 모드 스크린샷
-#### [그림 3.2. 단일창 모드 스크린샷](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-32-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7)
-[<img width="699" alt="single-window" src="https://github.com/wonder13662/gimp/assets/15767104/fd9a7449-3d1b-4f4e-b166-c97fa84da161">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-32-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7)
+![single-window](https://github.com/wonder13662/gimp/assets/15767104/fd9a7449-3d1b-4f4e-b166-c97fa84da161)
 
 #### 그림 90.5.a351. 다중창 모드의 이미지 창
 ![image-window-multi](https://github.com/wonder13662/gimp/assets/15767104/71a5c1f4-0bfc-486d-9534-1b211ff94b80)
