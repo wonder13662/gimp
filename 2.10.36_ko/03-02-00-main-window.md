@@ -1,11 +1,12 @@
 # 3.2. GIMP(김프)의 주요 화면
 
 김프의 사용자 인터페이스는 다음 두 가지 모드를 지원합니다.
-#### 그림 90.5.a321. 다중창 모드(multi-window mode)
-![multi-window-mode](https://github.com/wonder13662/gimp/assets/15767104/c253f6d6-0ad2-4791-bbd2-e60c2f0c0c69)
 
-#### 그림 90.5.a322. 단일창 모드(single window mode)
-<img width="1080" alt="single-window-mode" src="https://github.com/wonder13662/gimp/assets/15767104/86811f94-d7b4-4fd5-a9b6-82c4714b0fb6">
+#### [그림 90.5.a321. 다중창 모드(multi-window mode)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a321-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9Cmulti-window-mode)
+[![multi-window-mode](https://github.com/wonder13662/gimp/assets/15767104/c253f6d6-0ad2-4791-bbd2-e60c2f0c0c69)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a321-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9Cmulti-window-mode)
+
+#### [그림 90.5.a322. 단일창 모드(single window mode)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a322-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
+[![single-window-mode](https://github.com/wonder13662/gimp/assets/15767104/39df1a43-0890-41ff-babd-d59c75196179)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a322-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
 
 GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single window mode)로 열립니다. 다중창 모드(multi-window mode)를 활성화하기 위해서는 이미지 메뉴바의 `Windows` → `Single-Window Mode` 옵션을 끄면 됩니다. GIMP를 종료한 뒤에는, 다시 GIMP 시작할 때 마지막으로 선택한 옵션으로 적용됩니다.
 
