@@ -18,7 +18,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.10.3. 탭 위치(Tab position)](./90-01-10-windowsx-03-tab_position.md)
+[➡️ 다음: 90.1.10.3. 도구상자(Toolbox)](./90-01-10-windowsx-03-toolbox.md)
 
 [⬅️ 이전: 90.1.10.2.27. 오류콘솔(Error Console)](./90-01-10-windowsx-02-dockable_dialogsx-27-error_console.md)
 
