@@ -86,15 +86,15 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7f7cff40-6263-4edb-a536-9d4fcfe022f8"></video>  
 
 ### 열어놓은 이미지 선택하기
-#### 영상 3.2.6. 이미지 탭을 클릭하기
+#### 영상 90.5.17.a102. '이미지 탭 바'의 '이미지 탭'을 클릭하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ee8e8031-edfb-4885-92ca-98f8fa72995f"></video>  
 
-#### 영상 3.2.7. Ctrl(Windows, Mac) + `Page Up` or `Page Down`
+#### 영상 90.5.17.a103. Ctrl(Windows, Mac) + `Page Up` 또는 Ctrl(Windows, Mac) + `Page Down` 으로 '이미지 탭' 바꾸기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ffd040b7-a63c-4db1-882d-a76a44d45d4a"></video>
 
-#### 영상 3.2.8. Alt(Windows) or ⌥(Mac) + `숫자키`
+#### 영상 90.5.17.a104. Alt(Windows) or ⌥(Mac) + `숫자키`로 '이미지 탭' 바꾸기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/262a1036-9dc3-4cb8-82f9-825383aec2b9"></video>
-<br/>
+
 ("숫자키"는 탭의 번호를 의미합니다. 1번부터 시작합니다) - 키보드 위쪽의 숫자키를 사용해야 합니다. 키보드 오른쪽의 키패드의 숫자키는 허용되지 않습니다.
 
 위 내용은 가장 기본적인 대화 상자(dialog)들입니다. 이외에 목적에 따라 수많은 대화 상자들이 있지만, 대부분은 필요에 따라 그때그때 열어 쓰고 닫아두게 됩니다. 일반적으로 도구 옵션을 포함한 도구 상자와 레이어 대화 상자는 항상 열어두는 편이 좋습니다. 작업 후 저장을 하지 않고 이미지 창을 닫으면, 이미지 창을 닫을 것인지 묻는 창이 표시됩니다.
