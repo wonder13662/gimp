@@ -138,15 +138,12 @@
 ## 기능이 쓰인 곳
 
 #### 영상 90.4.a101. 탭 추가(Add Tab)
-#### 영상 3.2.10. 탭 추가(Add Tab)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2859f79-24af-41ff-8ec6-e859da6c8fb8"></video>
 
 #### 영상 90.4.a102. 탭 닫기(Close Tab)
-#### 영상 3.2.11. 탭 닫기(Close Tab)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5d38720a-30b5-4466-9719-292c7f66dc5c"></video>
 
 #### 영상 90.4.a103. 탭 떼어내기(Detach Tab)
-#### 영상 3.2.12. 탭 떼어내기(Detach Tab)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/50310e90-46d0-445f-9801-a676bd5db9e7"></video>
 
 #### [영상 3.2.3.1.91. 대화상자 이동](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-01-organizing-dialogs.html#%EC%98%81%EC%83%81-323191-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%9D%B4%EB%8F%99)
@@ -174,11 +171,11 @@
 
 ## 관련 정보
 
-[3.2. GIMP(김프)의 주요 화면 - 영상 90.4.a101. 탭 추가(Add Tab)]()
+[3.2. GIMP(김프)의 주요 화면 - 영상 90.4.a101. 탭 추가(Add Tab)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-904a101-%ED%83%AD-%EC%B6%94%EA%B0%80add-tab)
 
-[3.2. GIMP(김프)의 주요 화면 - 영상 90.4.a102. 탭 닫기(Close Tab)]()
+[3.2. GIMP(김프)의 주요 화면 - 영상 90.4.a102. 탭 닫기(Close Tab)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-904a102-%ED%83%AD-%EB%8B%AB%EA%B8%B0close-tab)
 
-[3.2. GIMP(김프)의 주요 화면 - 영상 90.4.a103. 탭 떼어내기(Detach Tab)]()
+[3.2. GIMP(김프)의 주요 화면 - 영상 90.4.a103. 탭 떼어내기(Detach Tab)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-904a103-%ED%83%AD-%EB%96%BC%EC%96%B4%EB%82%B4%EA%B8%B0detach-tab)
 
 ***
 

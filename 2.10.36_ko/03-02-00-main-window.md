@@ -126,13 +126,13 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 ### `탭 설정(Configure this tab)` 버튼
 독(dock)에 탭을 추가하거나, 닫기, 떼어내기를 하려면 대화 상자의 오른쪽 상단에 있는 `탭 설정(Configure this tab)` 버튼을 클릭합니다. 이 버튼을 누르면 탭 메뉴가 표시됩니다. 메뉴에서 `탭 추가(Add Tab)`, `탭 닫기(Close Tab)`, 또는 `탭 떼어내기(Detach Tab)` 중 필요한 메뉴를 선택합니다.
 
-#### [영상 90.4.a101. 탭 추가(Add Tab)]()
+#### [영상 90.4.a101. 탭 추가(Add Tab)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EC%98%81%EC%83%81-904a101-%ED%83%AD-%EC%B6%94%EA%B0%80add-tab)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2859f79-24af-41ff-8ec6-e859da6c8fb8"></video>
 
-#### [영상 90.4.a102. 탭 닫기(Close Tab)]()
+#### [영상 90.4.a102. 탭 닫기(Close Tab)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EC%98%81%EC%83%81-904a102-%ED%83%AD-%EB%8B%AB%EA%B8%B0close-tab)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5d38720a-30b5-4466-9719-292c7f66dc5c"></video>
 
-#### [영상 90.4.a103. 탭 떼어내기(Detach Tab)]()
+#### [영상 90.4.a103. 탭 떼어내기(Detach Tab)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EC%98%81%EC%83%81-904a103-%ED%83%AD-%EB%96%BC%EC%96%B4%EB%82%B4%EA%B8%B0detach-tab)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/50310e90-46d0-445f-9801-a676bd5db9e7"></video>
 
 [다음 절(3.2.1. 도구 상자)](./03-02-01-the-toolbox.md)에서는 스크린샷에 있는 각 창(Window)의 구성 요소들과 기능에 대해 설명하겠습니다. [3.2.1. 도구 상자](./03-02-01-the-toolbox.md)와 [GIMP 이미지의 기본 구조]()를 통해 GIMP를 이용한 기본적인 이미지 편집의 다양한 방법을 배울 수 있습니다.
