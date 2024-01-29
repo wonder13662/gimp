@@ -20,11 +20,11 @@
 
 [3.2. GIMP(김프)의 주요 화면 - 영상 90.5.17. 여러 개의 이미지를 여는 경우에 '이미지 탭 바'를 사용할 수 있습니다](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-90517a101-%EC%97%AC%EB%9F%AC-%EA%B0%9C%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%97%AC%EB%8A%94-%EA%B2%BD%EC%9A%B0%EC%97%90-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD-%EB%B0%94%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
-[3.2. GIMP(김프)의 주요 화면 - 영상 90.5.17.a102. '이미지 탭 바'의 '이미지 탭'을 클릭하기]()
+[3.2. GIMP(김프)의 주요 화면 - 영상 90.5.17.a102. '이미지 탭 바'의 '이미지 탭'을 클릭하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-90517a102-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD-%EB%B0%94%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD%EC%9D%84-%ED%81%B4%EB%A6%AD%ED%95%98%EA%B8%B0)
 
-[3.2. GIMP(김프)의 주요 화면 - 영상 90.5.17.a103. Ctrl(Windows, Mac) + `Page Up` 또는 Ctrl(Windows, Mac) + `Page Down` 으로 '이미지 탭' 바꾸기]()
+[3.2. GIMP(김프)의 주요 화면 - 영상 90.5.17.a103. Ctrl(Windows, Mac) + `Page Up` 또는 Ctrl(Windows, Mac) + `Page Down` 으로 '이미지 탭' 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-90517a103-ctrlwindows-mac--page-up-%EB%98%90%EB%8A%94-ctrlwindows-mac--page-down-%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
-[3.2. GIMP(김프)의 주요 화면 - 영상 90.5.17.a104. Alt(Windows) or ⌥(Mac) + `숫자키`로 '이미지 탭' 바꾸기]()
+[3.2. GIMP(김프)의 주요 화면 - 영상 90.5.17.a104. Alt(Windows) or ⌥(Mac) + `숫자키`로 '이미지 탭' 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-90517a104-altwindows-or-mac--%EC%88%AB%EC%9E%90%ED%82%A4%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
 ***
 
