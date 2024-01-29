@@ -9,7 +9,7 @@
 
 ## 관련 정보
 
-[3.2. GIMP(김프)의 주요 화면 - 영상 90.5.17. 여러 개의 이미지를 여는 경우에 '이미지 탭 바'를 사용할 수 있습니다]()
+[3.2. GIMP(김프)의 주요 화면 - 영상 90.5.17. 여러 개의 이미지를 여는 경우에 '이미지 탭 바'를 사용할 수 있습니다](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-90517a101-%EC%97%AC%EB%9F%AC-%EA%B0%9C%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%97%AC%EB%8A%94-%EA%B2%BD%EC%9A%B0%EC%97%90-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD-%EB%B0%94%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
 ***
 
