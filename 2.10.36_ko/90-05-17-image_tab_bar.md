@@ -11,7 +11,7 @@
 #### 영상 90.5.17.a103. Ctrl(Windows, Mac) + `Page Up` 또는 Ctrl(Windows, Mac) + `Page Down` 으로 '이미지 탭' 바꾸기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ffd040b7-a63c-4db1-882d-a76a44d45d4a"></video>
 
-#### 영상 90.5.17.a104. Alt(Windows) or ⌥(Mac) + `숫자키`로 '이미지 탭' 바꾸기
+#### 영상 90.5.17.a104. Alt(Windows) + `숫자키` 또는 ⌥(Mac) + `숫자키`로 '이미지 탭' 바꾸기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/262a1036-9dc3-4cb8-82f9-825383aec2b9"></video>
 
 ***
@@ -24,7 +24,7 @@
 
 [3.2. GIMP(김프)의 주요 화면 - 영상 90.5.17.a103. Ctrl(Windows, Mac) + `Page Up` 또는 Ctrl(Windows, Mac) + `Page Down` 으로 '이미지 탭' 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-90517a103-ctrlwindows-mac--page-up-%EB%98%90%EB%8A%94-ctrlwindows-mac--page-down-%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
-[3.2. GIMP(김프)의 주요 화면 - 영상 90.5.17.a104. Alt(Windows) or ⌥(Mac) + `숫자키`로 '이미지 탭' 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-90517a104-altwindows-or-mac--%EC%88%AB%EC%9E%90%ED%82%A4%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+[3.2. GIMP(김프)의 주요 화면 - 영상 90.5.17.a104. Alt(Windows) + `숫자키` 또는 ⌥(Mac) + `숫자키`로 '이미지 탭' 바꾸기]()
 
 ***
 
