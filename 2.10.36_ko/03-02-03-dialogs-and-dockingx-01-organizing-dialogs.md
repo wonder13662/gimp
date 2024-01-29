@@ -51,14 +51,14 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cc6aec8e-3d77-4945-8685-b7aa00245c07"></video>
 
 ## 3.2.3.1.9. 탭의 위쪽을 끌어서 대화상자를 원하는 곳으로 이동
-#### 영상 3.2.3.1.91. 대화상자 이동
+#### 영상 90.4.a111. 대화상자 이동
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d493e232-1630-47f5-8e5b-5fda0fdd0b87"></video>
 
 ## 3.2.3.1.10. 새 대화상자를 대화상자 그룹에 넣기
-#### 영상 3.2.3.1.101. 대화상자그룹에 넣기
+#### 영상 90.4.a112. 대화상자그룹에 넣기
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e3a0a266-aba7-4a96-86f4-ab00cc4168d2"></video>
 
-## 3.2.3.1.11. 독(Dock) 한쪽에 대화상자 추가
+#### 영상 90.4.a113. 독(Dock) 한쪽에 대화상자 추가
 #### 영상 3.2.3.1.111. 독(Dock) 한쪽에 대화상자 추가
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b1acca7-a83c-4b8d-a5fe-10a4ab7b7979"></video>
 
