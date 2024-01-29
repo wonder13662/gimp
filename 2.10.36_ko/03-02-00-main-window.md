@@ -92,7 +92,7 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 #### [영상 90.5.17.a103. Ctrl(Windows, Mac) + `Page Up` 또는 Ctrl(Windows, Mac) + `Page Down` 으로 '이미지 탭' 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-17-image_tab_bar.html#%EC%98%81%EC%83%81-90517a103-ctrlwindows-mac--page-up-%EB%98%90%EB%8A%94-ctrlwindows-mac--page-down-%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ffd040b7-a63c-4db1-882d-a76a44d45d4a"></video>
 
-#### [영상 90.5.17.a104. Alt(Windows) + `숫자키` 또는 ⌥(Mac) + `숫자키`로 '이미지 탭' 바꾸기]()
+#### [영상 90.5.17.a104. Alt(Windows) + `숫자키` 또는 ⌥(Mac) + `숫자키`로 '이미지 탭' 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-17-image_tab_bar.html#%EC%98%81%EC%83%81-90517a104-altwindows--%EC%88%AB%EC%9E%90%ED%82%A4-%EB%98%90%EB%8A%94-mac--%EC%88%AB%EC%9E%90%ED%82%A4%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/262a1036-9dc3-4cb8-82f9-825383aec2b9"></video>
 
 ("숫자키"는 탭의 번호를 의미합니다. 1번부터 시작합니다) - 키보드 위쪽의 숫자키를 사용해야 합니다. 키보드 오른쪽의 키패드의 숫자키는 허용되지 않습니다.
