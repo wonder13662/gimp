@@ -43,24 +43,23 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 ## 3.2.3.1.7. 다중창 모드에서 대화상자 추가하기
 다중창 모드에서는 새 창, 대화 상자 등이 화면에 표시됩니다.
 #### 영상 3.2.3.1.71 다중창 모드에서 대화상자 추가
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/09ddc773-aabd-4ea8-8447-435e2d010e3d"></video>
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/09ddc773-aabd-4ea8-8447-435e2d010e3d"></video>
 
 ## 3.2.3.1.8. 단일창 모드에서 대화상자 추가하기
 단일창 모드에서는 대화상자는 자동으로 GIMP의 오른쪽 판위의 위쪽의 독에 추가됩니다.
 #### 영상 3.2.3.1.81 단일창 모드에서 대화상자 추가
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cc6aec8e-3d77-4945-8685-b7aa00245c07"></video>
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cc6aec8e-3d77-4945-8685-b7aa00245c07"></video>
 
 ## 3.2.3.1.9. 탭의 위쪽을 끌어서 대화상자를 원하는 곳으로 이동
-#### 영상 90.4.a111. 대화상자 이동
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d493e232-1630-47f5-8e5b-5fda0fdd0b87"></video>
+#### [영상 90.4.a111. 대화상자 이동](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EC%98%81%EC%83%81-904a111-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%9D%B4%EB%8F%99)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d493e232-1630-47f5-8e5b-5fda0fdd0b87"></video>
 
 ## 3.2.3.1.10. 새 대화상자를 대화상자 그룹에 넣기
-#### 영상 90.4.a112. 대화상자그룹에 넣기
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e3a0a266-aba7-4a96-86f4-ab00cc4168d2"></video>
+#### [영상 90.4.a112. 대화상자그룹에 넣기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EC%98%81%EC%83%81-904a112-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EA%B7%B8%EB%A3%B9%EC%97%90-%EB%84%A3%EA%B8%B0)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e3a0a266-aba7-4a96-86f4-ab00cc4168d2"></video>
 
-#### 영상 90.4.a113. 독(Dock) 한쪽에 대화상자 추가
-#### 영상 3.2.3.1.111. 독(Dock) 한쪽에 대화상자 추가
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b1acca7-a83c-4b8d-a5fe-10a4ab7b7979"></video>
+#### [영상 90.4.a113. 독(Dock) 한쪽에 대화상자 추가](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EC%98%81%EC%83%81-904a113-%EB%8F%85dock-%ED%95%9C%EC%AA%BD%EC%97%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%B6%94%EA%B0%80)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b1acca7-a83c-4b8d-a5fe-10a4ab7b7979"></video>
 
 ## 3.2.3.1.12. 탭 메뉴의 탭 추가하기
 탭 메뉴의 **탭 추가하기** 기능을 이용합니다. [탭 메뉴]()(TODO 링크 추가하기)

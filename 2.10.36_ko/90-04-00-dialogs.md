@@ -147,13 +147,13 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/50310e90-46d0-445f-9801-a676bd5db9e7"></video>
 
 #### 영상 90.4.a111. 대화상자 이동
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d493e232-1630-47f5-8e5b-5fda0fdd0b87"></video>
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d493e232-1630-47f5-8e5b-5fda0fdd0b87"></video>
 
 #### 영상 90.4.a112. 대화상자그룹에 넣기
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e3a0a266-aba7-4a96-86f4-ab00cc4168d2"></video>
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e3a0a266-aba7-4a96-86f4-ab00cc4168d2"></video>
 
 #### 영상 90.4.a113. 독(Dock) 한쪽에 대화상자 추가
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b1acca7-a83c-4b8d-a5fe-10a4ab7b7979"></video>
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b1acca7-a83c-4b8d-a5fe-10a4ab7b7979"></video>
 
 #### [그림 3.15. 붓(Brushes) 대화상자의 버튼바(Button Bar)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-315-%EB%B6%93brushes-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%B2%84%ED%8A%BC%EB%B0%94button-bar)
 <img width="318" alt="그림 3.15. 붓(Brushes) 대화상자의 버튼바(Button Bar)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6e21ca40-7783-4df6-b21e-77ec165f4518">
@@ -177,11 +177,11 @@
 
 [3.2. GIMP(김프)의 주요 화면 - 영상 90.4.a103. 탭 떼어내기(Detach Tab)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EC%98%81%EC%83%81-904a103-%ED%83%AD-%EB%96%BC%EC%96%B4%EB%82%B4%EA%B8%B0detach-tab)
 
-[3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.4.a111. 대화상자 이동]()
+[3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.4.a111. 대화상자 이동](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-01-organizing-dialogs.html#%EC%98%81%EC%83%81-904a111-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%9D%B4%EB%8F%99)
 
-[3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.4.a112. 대화상자그룹에 넣기]()
+[3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.4.a112. 대화상자그룹에 넣기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-01-organizing-dialogs.html#%EC%98%81%EC%83%81-904a112-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EA%B7%B8%EB%A3%B9%EC%97%90-%EB%84%A3%EA%B8%B0)
 
-[3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.4.a113. 독(Dock) 한쪽에 대화상자 추가]()
+[3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.4.a113. 독(Dock) 한쪽에 대화상자 추가](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-01-organizing-dialogs.html#%EC%98%81%EC%83%81-904a113-%EB%8F%85dock-%ED%95%9C%EC%AA%BD%EC%97%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%B6%94%EA%B0%80)
 
 ***
 
