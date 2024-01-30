@@ -38,12 +38,14 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9f156dab-6572-42a3-be2e-bdccec04fa63"></video>
 
 ### 탭 떼어내기 (Detach Tab)
-탭을 독(Dock)으로부터 분리하여, 해당 대화상자 하나만을 가진 새로운 독(Dock)을 만듭니다. 탭을 독(Dock) 밖으로 드래그하여 분리하는 것과 같은 동작을 합니다. 
-#### 영상 3.2.3.2.16. 탭 떼어내기
+탭을 독(Dock)으로부터 분리하여, 해당 대화상자 하나만을 가진 새로운 독(Dock)을 만듭니다. 탭을 독(Dock) 밖으로 드래그하여 분리하는 것과 같은 동작을 합니다.
+
+#### 영상 90.5.16.a141. 탭 떼어내기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3df6511b-91cf-4fab-b43c-8dc9c74c74c2"></video>
 
 탭이 [잠겨]() 있는 상태면, 이 메뉴는 회색으로 표시되며 사용할 수 없습니다.(TODO 링크 추가)
-#### 영상 3.2.3.2.17. 탭 잠겨있음 상태
+
+#### 영상 90.5.16.a142. 탭 잠겨있음 상태
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ec3fa72c-397b-44c9-9886-1bb891ba4772"></video>
 
 ### 독(Dock)에 탭 잠그기 (Lock Tab to Dock)

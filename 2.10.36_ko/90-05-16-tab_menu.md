@@ -42,10 +42,10 @@
 #### 영상 90.5.16.a132. 탭 닫기(마지막 대화상자)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9f156dab-6572-42a3-be2e-bdccec04fa63"></video>
 
-#### [영상 3.2.3.2.16. 탭 떼어내기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-323216-%ED%83%AD-%EB%96%BC%EC%96%B4%EB%82%B4%EA%B8%B0)
+#### 영상 90.5.16.a141. 탭 떼어내기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3df6511b-91cf-4fab-b43c-8dc9c74c74c2"></video>
 
-#### [영상 3.2.3.2.17. 탭 잠겨있음 상태](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-323217-%ED%83%AD-%EC%9E%A0%EA%B2%A8%EC%9E%88%EC%9D%8C-%EC%83%81%ED%83%9C)
+#### 영상 90.5.16.a142. 탭 잠겨있음 상태
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ec3fa72c-397b-44c9-9886-1bb891ba4772"></video>
 
 #### [영상 3.2.3.2.17. 탭 잠겨있음 상태](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-323217-%ED%83%AD-%EC%9E%A0%EA%B2%A8%EC%9E%88%EC%9D%8C-%EC%83%81%ED%83%9C-1)
