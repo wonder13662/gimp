@@ -23,20 +23,23 @@
 ## 기능이 쓰인 곳
 ### [2.1.2. 언어 설정](https://wonder13662.github.io/gimp/2.10.36_ko/02-01-running-gimp.html#212-%EC%96%B8%EC%96%B4-%EC%84%A4%EC%A0%95)
 
-#### [그림 2.1.1. Settings(Preference) > GIMP 언어설정 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/02-01-running-gimp.html#212-%EC%96%B8%EC%96%B4-%EC%84%A4%EC%A0%95)
-[<img width="720" alt="user interface language" src="https://github.com/wonder13662/gimp/assets/15767104/8a58b8e2-270c-4983-b65d-a9f7b4b6ce1a">](https://wonder13662.github.io/gimp/2.10.36_ko/02-01-running-gimp.html#212-%EC%96%B8%EC%96%B4-%EC%84%A4%EC%A0%95)
+#### 그림 2.1.1. Settings(Preference) > GIMP 언어설정 바꾸기
+#### 그림 90.2.6.a101. Settings(Preference) > GIMP 언어설정 바꾸기
+![그림 90.2.6.a101. Settings(Preference) > GIMP 언어설정 바꾸기](https://github.com/wonder13662/gimp/assets/15767104/8a58b8e2-270c-4983-b65d-a9f7b4b6ce1a)
 
-#### [그림 3.2.2.2.a401. 키보드 단축키 설정 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-02-image-menu.html#%EA%B7%B8%EB%A6%BC-3222a401-%ED%82%A4%EB%B3%B4%EB%93%9C-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%84%A4%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-<img width="720" src="https://github.com/wonder13662/gimp/assets/15767104/800d56b6-e120-4022-b483-9e403c229425">
+#### 그림 90.2.6.a111. 키보드 단축키 설정 (Windows) (우리말)
+![그림 90.2.6.a111. 키보드 단축키 설정 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/800d56b6-e120-4022-b483-9e403c229425)
 
-#### [그림 3.2.2.2.a402. 키보드 단축키 설정 (Windows) (영어)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-02-image-menu.html#%EA%B7%B8%EB%A6%BC-3222a402-%ED%82%A4%EB%B3%B4%EB%93%9C-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%84%A4%EC%A0%95-windows-%EC%98%81%EC%96%B4)
-<img width="720" src="https://github.com/wonder13662/gimp/assets/15767104/af673ce5-a2f9-48ed-8ecc-7ac71b3db125">
+[3.2.2.2. 이미지 메뉴 (Image Menu) - 그림 90.2.6.a111. 키보드 단축키 설정 (Windows) (우리말)]()
 
-#### [그림 3.2.2.2.a403. 키보드 단축키 설정 (Mac) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-02-image-menu.html#%EA%B7%B8%EB%A6%BC-3222a403-%ED%82%A4%EB%B3%B4%EB%93%9C-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%84%A4%EC%A0%95-mac-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-<img width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f80dc27a-e272-4b36-98dd-776bef256046">
+#### 그림 90.2.6.a112. 키보드 단축키 설정 (Windows) (영어)
+![그림 90.2.6.a112. 키보드 단축키 설정 (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/af673ce5-a2f9-48ed-8ecc-7ac71b3db125)
 
-#### [그림 3.2.2.2.a404. 키보드 단축키 설정 (Mac) (영어)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-02-image-menu.html#%EA%B7%B8%EB%A6%BC-3222a404-%ED%82%A4%EB%B3%B4%EB%93%9C-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%84%A4%EC%A0%95-mac-%EC%98%81%EC%96%B4)
-<img width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6184f674-34dd-4ad4-b584-877e77516c42">
+#### 그림 90.2.6.a113. 키보드 단축키 설정 (Mac) (우리말)
+![그림 90.2.6.a113. 키보드 단축키 설정 (Mac) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/f80dc27a-e272-4b36-98dd-776bef256046)
+
+#### 그림 90.2.6.a114. 키보드 단축키 설정 (Mac) (우리말)
+![그림 90.2.6.a114. 키보드 단축키 설정 (Mac) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/6184f674-34dd-4ad4-b584-877e77516c42)
 
 ***
 
