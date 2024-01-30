@@ -22,11 +22,11 @@
 
 ### 탭 추가 (Add Tab)
 `탭 추가`는 새로운 탭으로 추가할 수 있는 대화상자 목록을 보여줍니다.
-#### 그림 3.11.1. `탭 추가`의 하위 메뉴 (언어: 우리말)
-<img width="326" alt="탭추가-하위메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fe118505-5397-4771-9205-97b0db7f16ad">
 
-#### 그림 3.11.2. `탭 추가`의 하위 메뉴 (언어: 영어)
-<img width="336" alt="add-tab-sub-menu" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/98648448-88e8-4e53-b020-63730d55c7b0">
+#### 그림 90.5.16.a121. `탭 추가`의 하위 메뉴 (언어: 우리말)
+![그림 90.5.16.a121. `탭 추가`의 하위 메뉴 (언어: 우리말)](https://github.com/wonder13662/gimp/assets/15767104/fe118505-5397-4771-9205-97b0db7f16ad)
+
+[다른 언어의 `탭 추가`의 하위 메뉴 확인해보기]()
 
 ### 탭 닫기 (Close Tab)
 대화 상자를 닫습니다. 닫는 대화상자가 독(Dock)의 마지막 대화상자라면 독(dock)도 닫힙니다.
