@@ -52,17 +52,17 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ec3fa72c-397b-44c9-9886-1bb891ba4772"></video>
 
 ### 미리보기 크기 (Preview Size)
-#### 그림 90.5.16.a151. 탭 메뉴의 하위 메뉴인 미리보기 크기 메뉴
-![그림 90.5.16.a151. 탭 메뉴의 하위 메뉴인 미리보기 크기 메뉴](https://github.com/wonder13662/gimp/assets/15767104/67993af1-734b-4e8f-89df-19ef93a17e5c)
+#### [그림 90.5.16.a151. 탭 메뉴의 하위 메뉴인 미리보기 크기 메뉴](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a151-%ED%83%AD-%EB%A9%94%EB%89%B4%EC%9D%98-%ED%95%98%EC%9C%84-%EB%A9%94%EB%89%B4%EC%9D%B8-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%ED%81%AC%EA%B8%B0-%EB%A9%94%EB%89%B4)
+[![그림 90.5.16.a151. 탭 메뉴의 하위 메뉴인 미리보기 크기 메뉴](https://github.com/wonder13662/gimp/assets/15767104/67993af1-734b-4e8f-89df-19ef93a17e5c)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a151-%ED%83%AD-%EB%A9%94%EB%89%B4%EC%9D%98-%ED%95%98%EC%9C%84-%EB%A9%94%EB%89%B4%EC%9D%B8-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%ED%81%AC%EA%B8%B0-%EB%A9%94%EB%89%B4)
 
 대부분의 대화상자에는 `미리 보기 크기`를 선택할 수 있는 탭 메뉴가 있습니다. 예를 들어 붓(Brushes) 대화상자는 사용가능한 붓의 모양을 보여줍니다. 여기서 `미리 보기 크기`란 대화상자 내에서 각각의 붓을 얼마만큼 크게 보여줄것인가에 관한 값입니다. 기본값은 `중간`입니다.
 
-#### 영상 90.5.16.a152. 미리보기 크기 설정하기
+#### [영상 90.5.16.a152. 미리보기 크기 설정하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EC%98%81%EC%83%81-90516a152-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%ED%81%AC%EA%B8%B0-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb058bdc-b988-4b48-b6c4-539d80c18246"></video>
 
 ### 탭 스타일 (Tab Style)
-#### 그림 90.5.16.a161. 탭 메뉴의 하위 메뉴인 탭 스타일 메뉴
-![그림 90.5.16.a161. 탭 메뉴의 하위 메뉴인 탭 스타일 메뉴](https://github.com/wonder13662/gimp/assets/15767104/2d14f7d2-2fd9-4732-9865-6167ce389287)
+#### [그림 90.5.16.a161. 탭 메뉴의 하위 메뉴인 탭 스타일 메뉴](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a161-%ED%83%AD-%EB%A9%94%EB%89%B4%EC%9D%98-%ED%95%98%EC%9C%84-%EB%A9%94%EB%89%B4%EC%9D%B8-%ED%83%AD-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%A9%94%EB%89%B4)
+[![그림 90.5.16.a161. 탭 메뉴의 하위 메뉴인 탭 스타일 메뉴](https://github.com/wonder13662/gimp/assets/15767104/2d14f7d2-2fd9-4732-9865-6167ce389287)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a161-%ED%83%AD-%EB%A9%94%EB%89%B4%EC%9D%98-%ED%95%98%EC%9C%84-%EB%A9%94%EB%89%B4%EC%9D%B8-%ED%83%AD-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%A9%94%EB%89%B4)
 
 #### 그림 90.5.16.a162. 탭 스타일이 적용되는 위치
 ![그림 90.5.16.a162. 탭 스타일이 적용되는 위치](https://github.com/wonder13662/gimp/assets/15767104/c3c91961-6953-4978-a12d-7c75a9e7be9f)
