@@ -14,14 +14,15 @@
 ## 3.2.3.2.1. 탭 메뉴의 세부 명령
 ### 보조 메뉴 (Context Menu)
 탭 메뉴의 상단에 있는 메뉴들은 대화상자의 보조 메뉴로 대화상자에 따라 다릅니다. 예를 들어 레이어 탭의 `레이어 메뉴`에는 레이어 편집과 관련된 명령들이 있습니다.
-#### 그림 3.2.3.2.11. 레이어 탭의 보조 메뉴: `레이어 메뉴`
-<img width="594" alt="레이어-탭메뉴-보조메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ce8e0462-fbcd-4cc6-a9ec-5717cf60cc9c">
 
-#### 그림 3.2.3.2.12. 채널 탭의 보조 메뉴: `채널 메뉴`
-<img width="551" alt="채널-탭메뉴-보조메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5dca2295-7f0b-4e91-be8d-840ce9db621f">
+#### 그림 90.5.16.a111. 레이어 탭의 보조 메뉴: `레이어 메뉴`
+![그림 90.5.16.a111. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/ce8e0462-fbcd-4cc6-a9ec-5717cf60cc9c)
 
-#### 그림 3.2.3.2.13. 경로 탭의 보조 메뉴: `경로 메뉴`
-<img width="552" alt="경로-탭메뉴-보조메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/dce5c338-2b4d-4453-994e-b59aa5f8f3f7">
+#### 그림 90.5.16.a112. 레이어 탭의 보조 메뉴: `레이어 메뉴`
+![그림 90.5.16.a112. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/5dca2295-7f0b-4e91-be8d-840ce9db621f)
+
+#### 그림 90.5.16.a113. 레이어 탭의 보조 메뉴: `레이어 메뉴`
+![그림 90.5.16.a113. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/dce5c338-2b4d-4453-994e-b59aa5f8f3f7)
 
 ### 탭 추가 (Add Tab)
 `탭 추가`는 새로운 탭으로 추가할 수 있는 대화상자 목록을 보여줍니다.
