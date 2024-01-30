@@ -1,10 +1,10 @@
 # 3.2.3.2. 탭 메뉴 (Tab Menu)
-#### 그림 90.5.16.a101. 탭 메뉴가 있는 독(Dock) 안의 대화상자
-![90-05-16-a101-layers(windows)(ko)-focus-tab_menu](https://github.com/wonder13662/gimp/assets/15767104/307bf22f-06bf-4ff0-b9ef-62a70be3ff3c)
+#### [그림 90.5.16.a101. 탭 메뉴가 있는 독(Dock) 안의 대화상자](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a101-%ED%83%AD-%EB%A9%94%EB%89%B4%EA%B0%80-%EC%9E%88%EB%8A%94-%EB%8F%85dock-%EC%95%88%EC%9D%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
+[![90-05-16-a101-layers(windows)(ko)-focus-tab_menu](https://github.com/wonder13662/gimp/assets/15767104/307bf22f-06bf-4ff0-b9ef-62a70be3ff3c)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a101-%ED%83%AD-%EB%A9%94%EB%89%B4%EA%B0%80-%EC%9E%88%EB%8A%94-%EB%8F%85dock-%EC%95%88%EC%9D%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
 
 각 대화상자에는 탭과 관련된 동작을 할 수 있는 특별한 메뉴가 있습니다. 이를 탭 메뉴라고 합니다. 각 대화상자의 탭 메뉴는 약간씩 다를 수 있지만, `탭 추가`, `탭 닫기`, `탭 떼어내기`는 공통입니다.
-#### 그림 3.2.3.21 탭 공통 메뉴
-<img width="199" alt="그림 3.2.3.21 탭 공통 메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36"  src="https://github.com/wonder13662/gimp/assets/15767104/7f3bc446-a7d0-4515-8696-77e76216a2cf">
+#### 그림 90.5.16.a102. 탭 공통 메뉴
+![그림 90.5.16.a102. 탭 공통 메뉴](https://github.com/wonder13662/gimp/assets/15767104/7f3bc446-a7d0-4515-8696-77e76216a2cf")
 
 #### 그림 3.2.3.22 단독창과 다중창의 탭 메뉴 차이
 <img width="891" alt="그림 3.2.3.22 단독창과 다중창의 탭 메뉴 차이" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36"  src="https://github.com/wonder13662/gimp/assets/15767104/c13ec702-8ad6-49d1-9ef3-b2a7a8e271b1">
