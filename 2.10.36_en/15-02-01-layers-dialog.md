@@ -4,3 +4,7 @@
 ### [Parent: 15.2. Image structure related dialogs](./15-02-00-image-structure-related-dialogs.md)
 ### [Prev: 15.1. Dialog introduction](./15-01-dialog-introduction.md)
 ### [Next: 15.2.2. Channel dialog](./15-02-02-channel-dialog.md)
+
+## 관련 정보
+[Gimp-Forum.net: Can't drag and drop to reorder layers - fixed](https://www.gimp-forum.net/Thread-Can-t-drag-and-drop-to-reorder-layers-fixed)
+(TODO 정리 필요)
