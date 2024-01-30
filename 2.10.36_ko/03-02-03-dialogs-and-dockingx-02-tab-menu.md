@@ -129,7 +129,7 @@
 [![그림 90.4.a131. `이미지 선택 표시`의 위치](https://github.com/wonder13662/gimp/assets/15767104/874be6a8-56ba-410b-bdd1-9a11e35e72e0)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EA%B7%B8%EB%A6%BC-904a131-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%84%A0%ED%83%9D-%ED%91%9C%EC%8B%9C%EC%9D%98-%EC%9C%84%EC%B9%98)
 
 #### [영상 90.4.a132. 다중창에서 이미지 창을 선택할 때마다 이미지 선택 표시의 내용이 바뀝니다](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EC%98%81%EC%83%81-904a132-%EB%8B%A4%EC%A4%91%EC%B0%BD%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%A0-%EB%95%8C%EB%A7%88%EB%8B%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%84%A0%ED%83%9D-%ED%91%9C%EC%8B%9C%EC%9D%98-%EB%82%B4%EC%9A%A9%EC%9D%B4-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4)
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d388c0bb-d596-406a-a154-ae52b4808828"></video>
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d388c0bb-d596-406a-a154-ae52b4808828"></video>
 
 ### 자동으로 현재 이미지 따라가기 (Auto Follow Active Image)
 이 옵션은 다중창 모드(multi-window mode)에서만 사용할 수 있습니다. 이 옵션은 여러 개의 이미지를 띄워놓고 작업할 경우에 유용합니다. 이 옵션을 선택하면 독(Dock)의 정보 표시 영역에 항상 이미지 선택 대화 상자의 목록에서 선택한 이미지의 정보가 표시됩니다. `자동으로 현재 이미지 따라가기` 옵션을 사용 중지하면, 이미지를 이미지 선택 대화 상자에서만 선택할 수 있습니다.
