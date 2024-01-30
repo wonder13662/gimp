@@ -68,12 +68,12 @@
 #### 영상 90.5.16.a152. 미리보기 크기 설정하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb058bdc-b988-4b48-b6c4-539d80c18246"></video>
 
-#### 그림 3.13. 탭 메뉴의 하위 메뉴인 탭 스타일 메뉴
 #### 그림 90.5.16.a161. 탭 메뉴의 하위 메뉴인 탭 스타일 메뉴
 ![그림 90.5.16.a161. 탭 메뉴의 하위 메뉴인 탭 스타일 메뉴](https://github.com/wonder13662/gimp/assets/15767104/2d14f7d2-2fd9-4732-9865-6167ce389287)
 
-#### [그림 3.2.3.2.19. 탭 스타일이 적용되는 위치](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-323219-%ED%83%AD-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%B4-%EC%A0%81%EC%9A%A9%EB%90%98%EB%8A%94-%EC%9C%84%EC%B9%98)
-[<img width="200" alt="그림 3.2.3.2.19. 탭 스타일이 적용되는 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c3c91961-6953-4978-a12d-7c75a9e7be9f">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-323219-%ED%83%AD-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%B4-%EC%A0%81%EC%9A%A9%EB%90%98%EB%8A%94-%EC%9C%84%EC%B9%98)
+#### 그림 3.2.3.2.19. 탭 스타일이 적용되는 위치
+#### 그림 90.5.16.a162. 탭 스타일이 적용되는 위치
+![그림 90.5.16.a162. 탭 스타일이 적용되는 위치](https://github.com/wonder13662/gimp/assets/15767104/c3c91961-6953-4978-a12d-7c75a9e7be9f)
 
 #### [영상 3.2.3.2.20. 붓 탭의 스타일: 현재상태 보기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-323220-%EB%B6%93-%ED%83%AD%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC-%ED%98%84%EC%9E%AC%EC%83%81%ED%83%9C-%EB%B3%B4%EA%B8%B0)
 <video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/73d77775-a0de-466f-b580-620b497401cf"></video>
