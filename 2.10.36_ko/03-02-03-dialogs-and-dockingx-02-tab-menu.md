@@ -73,7 +73,7 @@
 #### 현재 상태 (Current Status)
 붓(Brushes), 무늬(Patterns), 그라디언트(gradient) 등 무언가를 선택할 수 있는 대화상자에만 활성화되는 항목입니다. 선택된 아이템의 `현재 상태`를 탭의 위쪽에 보여줍니다.
 
-#### 영상 3.2.3.2.20. 붓 탭의 스타일: 현재상태 보기
+#### 영상 90.5.16.a163. 붓 탭의 스타일: 현재상태 보기
 <video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/73d77775-a0de-466f-b580-620b497401cf"></video>
 
 #### 텍스트 (Text)
@@ -85,13 +85,13 @@
 #### 상태와 글자 (Status and Text)
 현재 선택된 항목을 대화 상자 종류와 함께 표시합니다. 현재 상태(Current Status)와 텍스트(Text)를 합친 기능입니다.
 
-#### 영상 3.2.3.2.21. 붓 탭의 스타일: 상태와 글자
+#### 영상 90.5.16.a164. 붓 탭의 스타일: 상태와 글자
 <video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/eecfbd62-cc8e-42b7-bfcb-61615a1eede5"></video>
 
 #### Automatic
 기본 값입니다. 탭의 공간에 맞춰 스타일을 바꿉니다. 텍스트 스타일은 많은 공간이 필요해서 항상 가능하지는 않습니다.
 
-#### 영상 3.2.3.2.22. 탭 스타일 설정하기
+#### 영상 90.5.16.a165. 탭 스타일 설정하기
 <video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/94534a21-f1b3-46df-8655-e934ae38ee9b"></video>
 
 ### 목록으로 보기/격자로 보기 (View as List; View as Grid)
