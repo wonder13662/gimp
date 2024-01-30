@@ -23,7 +23,7 @@
 [3.2.2.2. 이미지 메뉴 (Image Menu) - 그림 90.5.2.a112. 이미지 메뉴 바의 위치 (다중창) (Mac)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-02-image-menu.html#%EA%B7%B8%EB%A6%BC-9052a112-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A4%EC%A4%91%EC%B0%BD-mac)
 
 #### 영상 90.5.2.a121. 이미지 창 안에서 이미지 메뉴 열기
-![영상 90.5.2.a121. 이미지 창 안에서 이미지 메뉴 열기](https://github.com/wonder13662/gimp/assets/15767104/bf128c3e-5004-4766-90ea-33cf4e59399e)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/bf128c3e-5004-4766-90ea-33cf4e59399e"></video>
 
 [3.2.2.2. 이미지 메뉴 (Image Menu) - 영상 90.5.2.a121. 이미지 창 안에서 이미지 메뉴 열기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-02-image-menu.html#%EC%98%81%EC%83%81-9052a121-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD-%EC%95%88%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EC%97%B4%EA%B8%B0)
 
