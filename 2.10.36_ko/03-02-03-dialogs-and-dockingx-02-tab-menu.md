@@ -98,14 +98,15 @@
 #### 목록 형태
 각 아이템들을 아이콘, 이름과 함께 세로 목록 형태로 표시합니다. 각 아이템에 대한 자세한 정보를 확인할 수 있습니다.
 
-#### 그림 3.2.3.2.23. 목록 형태
-<img width="318" alt="목록보기" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e730d89c-6cb6-407a-a2ce-33f5fcc367da">
+#### 그림 90.5.16.a171. 목록 형태
+![그림 90.5.16.a171. 목록 형태](https://github.com/wonder13662/gimp/assets/15767104/cfff81c3-b12d-4681-ba8c-95e097e38aae)
 
 #### 격자 형태 
 각 아이템들을 이름을 제외하고 아이콘만 표시합니다. 한번에 더 많은 아이템을 볼 수 있습니다.
 
-#### 그림 3.2.3.2.24. 격자 형태
-<img width="318" alt="격자보기" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9b5ac8f1-7e1e-40bf-a5d5-f37a98aaf003">
+#### 그림 90.5.16.a172. 격자 형태
+![그림 90.5.16.a172. 격자 형태](https://github.com/wonder13662/gimp/assets/15767104/345769c7-554d-4f9e-9f1a-8d9c7cd71336)
+
 
 #### 기본 형태
 붓(Brushes)과 무늬(Patterns) 대화상자는 `격자로 보기`이고, 나머지는 `목록으로 보기`입니다.

@@ -95,11 +95,16 @@
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a165. 탭 스타일 설정하기]()
 
-#### [그림 3.2.3.2.23. 목록 형태](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-323223-%EB%AA%A9%EB%A1%9D-%ED%98%95%ED%83%9C)
-[<img width="318" alt="목록보기" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e730d89c-6cb6-407a-a2ce-33f5fcc367da">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-323223-%EB%AA%A9%EB%A1%9D-%ED%98%95%ED%83%9C)
+#### 그림 90.5.16.a171. 목록 형태
+![그림 90.5.16.a171. 목록 형태](https://github.com/wonder13662/gimp/assets/15767104/cfff81c3-b12d-4681-ba8c-95e097e38aae)
 
-#### [그림 3.2.3.2.24. 격자 형태](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-323224-%EA%B2%A9%EC%9E%90-%ED%98%95%ED%83%9C)
-[<img width="318" alt="격자보기" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9b5ac8f1-7e1e-40bf-a5d5-f37a98aaf003">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-323224-%EA%B2%A9%EC%9E%90-%ED%98%95%ED%83%9C)
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a171. 목록 형태]()
+
+#### 그림 3.2.3.2.24. 격자 형태
+#### 그림 90.5.16.a172. 격자 형태
+![그림 90.5.16.a172. 격자 형태](https://github.com/wonder13662/gimp/assets/15767104/345769c7-554d-4f9e-9f1a-8d9c7cd71336)
+
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a172. 격자 형태]()
 
 #### [영상 3.2.3.1.121. 탭 메뉴의 탭 추가하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-01-organizing-dialogs.html#%EC%98%81%EC%83%81-3231121-%ED%83%AD-%EB%A9%94%EB%89%B4%EC%9D%98-%ED%83%AD-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5831e5d3-eb1f-403a-a7ff-55fd7b8fb6df"></video>
