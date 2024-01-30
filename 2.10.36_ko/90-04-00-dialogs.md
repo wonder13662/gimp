@@ -167,8 +167,10 @@
 
 [3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.4.a113. 독(Dock) 한쪽에 대화상자 추가](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-01-organizing-dialogs.html#%EC%98%81%EC%83%81-904a113-%EB%8F%85dock-%ED%95%9C%EC%AA%BD%EC%97%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%B6%94%EA%B0%80)
 
-#### [그림 3.15. 붓(Brushes) 대화상자의 버튼바(Button Bar)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-315-%EB%B6%93brushes-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%B2%84%ED%8A%BC%EB%B0%94button-bar)
-<img width="318" alt="그림 3.15. 붓(Brushes) 대화상자의 버튼바(Button Bar)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6e21ca40-7783-4df6-b21e-77ec165f4518">
+#### 그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)
+![그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)](https://github.com/wonder13662/gimp/assets/15767104/12f3adcf-4649-451b-98a6-5f103892db39)
+
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)]()
 
 #### [영상 3.2.3.2.25. `버튼바 표시 (Show Button Bar)`를 토글](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-323225-%EB%B2%84%ED%8A%BC%EB%B0%94-%ED%91%9C%EC%8B%9C-show-button-bar%EB%A5%BC-%ED%86%A0%EA%B8%80)
 <video controls="controls" width="636" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8bfb0b36-299b-4fe4-88f9-e137e428c1b9"></video>

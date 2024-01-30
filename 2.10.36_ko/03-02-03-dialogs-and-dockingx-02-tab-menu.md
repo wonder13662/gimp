@@ -117,8 +117,8 @@
 ### 버튼바 표시 (Show Button Bar)
 붓(Brushes), 무늬(Patterns), 그라데이션(Gradations), 이미지(Images) 대화상자와 같은 일부 대화 상자에는 하단에 버튼바(Button Bar)가 있습니다. 버튼바(Button Bar)를 `버튼바 표시 (Show Button Bar)`를 토글해서 숨기거나 표시할 수 있습니다.
 
-#### 그림 3.15. 붓(Brushes) 대화상자의 버튼바(Button Bar)
-<img width="318" alt="그림 3.15. 붓(Brushes) 대화상자의 버튼바(Button Bar)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6e21ca40-7783-4df6-b21e-77ec165f4518">
+#### 그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)
+![그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)](https://github.com/wonder13662/gimp/assets/15767104/12f3adcf-4649-451b-98a6-5f103892db39)
 
 #### 영상 3.2.3.2.25. `버튼바 표시 (Show Button Bar)`를 토글
 <video controls="controls" width="636" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8bfb0b36-299b-4fe4-88f9-e137e428c1b9"></video>
