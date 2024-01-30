@@ -40,15 +40,15 @@
 ### 탭 떼어내기 (Detach Tab)
 탭을 독(Dock)으로부터 분리하여, 해당 대화상자 하나만을 가진 새로운 독(Dock)을 만듭니다. 탭을 독(Dock) 밖으로 드래그하여 분리하는 것과 같은 동작을 합니다.
 
-#### 영상 90.5.16.a141. 탭 떼어내기
+#### [영상 90.5.16.a141. 탭 떼어내기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EC%98%81%EC%83%81-90516a141-%ED%83%AD-%EB%96%BC%EC%96%B4%EB%82%B4%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3df6511b-91cf-4fab-b43c-8dc9c74c74c2"></video>
 
-탭이 [잠겨]() 있는 상태면, 이 메뉴는 회색으로 표시되며 사용할 수 없습니다.(TODO 링크 추가)
+탭이 [잠겨](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-90516a142-%ED%83%AD-%EC%9E%A0%EA%B2%A8%EC%9E%88%EC%9D%8C-%EC%83%81%ED%83%9C) 있는 상태면, 이 메뉴는 회색으로 표시되며 사용할 수 없습니다.
 
 ### 독(Dock)에 탭 잠그기 (Lock Tab to Dock)
 독(Dock)에서 대화상자를 이동하거나 떼어내는 것을 막습니다. 이 메뉴를 활성화시키면, `탭 떼어내기(Detach Tab)` 메뉴가 회색으로 표시되며 사용할 수 없습니다.
 
-#### 영상 90.5.16.a142. 탭 잠겨있음 상태
+#### [영상 90.5.16.a142. 탭 잠겨있음 상태](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EC%98%81%EC%83%81-90516a142-%ED%83%AD-%EC%9E%A0%EA%B2%A8%EC%9E%88%EC%9D%8C-%EC%83%81%ED%83%9C)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ec3fa72c-397b-44c9-9886-1bb891ba4772"></video>
 
 ### 미리보기 크기 (Preview Size)
