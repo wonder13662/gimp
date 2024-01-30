@@ -24,14 +24,18 @@
 #### 그림 90.5.16.a111. 레이어 탭의 보조 메뉴: `레이어 메뉴`
 ![그림 90.5.16.a111. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/bd7b25f7-21f4-451b-8b99-4a125056b55d)
 
-#### 그림 90.5.16.a112. 레이어 탭의 보조 메뉴: `레이어 메뉴`
-![그림 90.5.16.a112. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/c8e79672-020e-480b-9bca-e0ca6eac6bd6)
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a111. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-90516a111-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%83%AD%EC%9D%98-%EB%B3%B4%EC%A1%B0-%EB%A9%94%EB%89%B4-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A9%94%EB%89%B4)
 
-#### 그림 90.5.16.a113. 레이어 탭의 보조 메뉴: `레이어 메뉴`
-![그림 90.5.16.a113. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/6e0eb54d-d88b-4478-82ab-392a6b966f8c)
+#### 그림 90.5.16.a112. 레이어 탭의 보조 메뉴: `채널 메뉴`
+![그림 90.5.16.a112. 레이어 탭의 보조 메뉴: `채널 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/c8e79672-020e-480b-9bca-e0ca6eac6bd6)
+
+#### 그림 90.5.16.a113. 레이어 탭의 보조 메뉴: `경로 메뉴`
+![그림 90.5.16.a113. 레이어 탭의 보조 메뉴: `경로 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/6e0eb54d-d88b-4478-82ab-392a6b966f8c)
 
 #### 그림 90.5.16.a121. `탭 추가`의 하위 메뉴 (언어: 우리말)
 ![그림 90.5.16.a121. `탭 추가`의 하위 메뉴 (언어: 우리말)](https://github.com/wonder13662/gimp/assets/15767104/2d4d55f3-bb51-410b-aefb-c43082c946d8)
+
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a121. `탭 추가`의 하위 메뉴 (언어: 우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-90516a121-%ED%83%AD-%EC%B6%94%EA%B0%80%EC%9D%98-%ED%95%98%EC%9C%84-%EB%A9%94%EB%89%B4-%EC%96%B8%EC%96%B4-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.5.16.a122. `탭 추가`의 하위 메뉴 (언어: 영어)
 ![그림 90.5.16.a122. `탭 추가`의 하위 메뉴 (언어: 영어)](https://github.com/wonder13662/gimp/assets/15767104/8f3b5233-1460-45e6-9786-2849509bf5ac)
@@ -39,8 +43,12 @@
 #### 영상 90.5.16.a131. 탭 닫기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fcc77500-53e6-413f-a235-7bd64cd0af5e"></video>
 
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a131. 탭 닫기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-90516a131-%ED%83%AD-%EB%8B%AB%EA%B8%B0)
+
 #### 영상 90.5.16.a132. 탭 닫기(마지막 대화상자)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9f156dab-6572-42a3-be2e-bdccec04fa63"></video>
+
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a132. 탭 닫기(마지막 대화상자)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-90516a132-%ED%83%AD-%EB%8B%AB%EA%B8%B0%EB%A7%88%EC%A7%80%EB%A7%89-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
 
 #### 영상 90.5.16.a141. 탭 떼어내기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3df6511b-91cf-4fab-b43c-8dc9c74c74c2"></video>
