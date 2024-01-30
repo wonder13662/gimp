@@ -1,3 +1,6 @@
+# [3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
+# [3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
+# [3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
 # 3.2.2.2. 이미지 메뉴 (Image Menu)
 ## 3.2.2.2.1. 이미지 메뉴 바의 위치
 
@@ -52,6 +55,10 @@
 [➡️ 다음: 3.2.2.3. 메뉴 버튼 (Menu Button)](./03-02-02-image-windowx-03-menu-button.md)
 
 [⬅️ 이전: 3.2.2.1. 타이틀 바 (Title Bar)](./03-02-02-image-windowx-01-title-bar.md)
+
+[⬆️ 위: 3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
+
+[⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 
 [⬆️ 위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 

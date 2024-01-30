@@ -1,3 +1,6 @@
+# [3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
+# [3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
+# [3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
 # 3.2.2.7. 단위 메뉴 (Units Menu)
 ## 3.2.2.7.1. 단위 메뉴의 위치
 #### 그림 3.2.2.7.a101. (7)단위 메뉴의 위치 (다중창)
@@ -22,6 +25,10 @@
 [➡️ 다음: 3.2.2.8. 확대/축소 버튼 (Zoom Button)](./03-02-02-image-windowx-08-zoom-button.md)
 
 [⬅️ 이전: 3.2.2.6. 커서 좌표 (Pointer Coordinates)](./03-02-02-image-windowx-06-pointer-coordinates.md)
+
+[⬆️ 위: 3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
+
+[⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 
 [⬆️ 위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 

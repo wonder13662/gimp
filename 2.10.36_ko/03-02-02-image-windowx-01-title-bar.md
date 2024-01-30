@@ -1,4 +1,6 @@
-
+# [3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
+# [3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
+# [3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
 # 3.2.2.1. 타이틀 바 (Title Bar)
 ## 3.2.2.1.1. 타이틀 바의 위치
 #### [그림 90.5.1.a101. (1)타이틀 바의 위치 (다중창)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-01-title_bar.html#%EA%B7%B8%EB%A6%BC-9051a101-1%ED%83%80%EC%9D%B4%ED%8B%80-%EB%B0%94%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A4%EC%A4%91%EC%B0%BD)
@@ -29,6 +31,10 @@
 [➡️ 다음: 3.2.2.2. 이미지 메뉴 (Image Menu)](./03-02-02-image-windowx-02-image-menu.md)
 
 [⬅️ 이전: 3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
+
+[⬆️ 위: 3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
+
+[⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 
 [⬆️ 위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 

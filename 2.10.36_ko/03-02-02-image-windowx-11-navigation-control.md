@@ -1,3 +1,6 @@
+# [3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
+# [3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
+# [3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
 # 3.2.2.11. 내비게이션 (Navigation Control)
 ## 3.2.2.11.1. 내비게이션의 위치
 
@@ -30,6 +33,10 @@
 [➡️ 다음: 3.2.2.12. 비활성 여백 공간 (Inactive Padding Area)](./03-02-02-image-windowx-12-inactive-padding-area.md)
 
 [⬅️ 이전: 3.2.2.10. 취소 버튼 (Cancel Button)](./03-02-02-image-windowx-10-cancel-button.md)
+
+[⬆️ 위: 3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
+
+[⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 
 [⬆️ 위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 

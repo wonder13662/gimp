@@ -1,3 +1,6 @@
+# [3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
+# [3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
+# [3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
 # 3.2.2.4. 눈금자 (Ruler)
 ## 3.2.2.4.1. 눈금자의 위치
 #### 그림 3.2.2.4.a101. (4)눈금자의 위치 (다중창)
@@ -36,6 +39,10 @@
 [➡️ 다음: 3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle)](./03-02-02-image-windowx-05-quickmask-toggle.md)
 
 [⬅️ 이전: 3.2.2.3. 메뉴 버튼 (Menu Button)](./03-02-02-image-windowx-03-menu-button.md)
+
+[⬆️ 위: 3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
+
+[⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 
 [⬆️ 위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 

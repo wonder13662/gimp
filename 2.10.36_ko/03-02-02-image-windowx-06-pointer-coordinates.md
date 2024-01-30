@@ -1,3 +1,6 @@
+# [3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
+# [3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
+# [3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
 # 3.2.2.6. 커서 좌표 (Pointer Coordinates)
 
 #### 그림 3.2.2.6.a101 커서 좌표의 위치 (다중창)
@@ -17,6 +20,10 @@
 [➡️ 다음: 3.2.2.7. 단위 메뉴 (Units Menu)](./03-02-02-image-windowx-07-units-menu.md)
 
 [⬅️ 이전: 3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle)](./03-02-02-image-windowx-05-quickmask-toggle.md)
+
+[⬆️ 위: 3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
+
+[⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 
 [⬆️ 위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 

@@ -1,3 +1,6 @@
+# [3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
+# [3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
+# [3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
 # 3.2.2.10. 취소 버튼 (Cancel Button)
 ## 3.2.2.10.1. 취소 버튼의 위치
 #### 그림 3.2.2.10.a101. (10)취소 버튼의 위치 (다중창)
@@ -21,6 +24,10 @@
 [➡️ 다음: 3.2.2.11. 내비게이션 (Navigation Control)](./03-02-02-image-windowx-11-navigation-control.md)
 
 [⬅️ 이전: 3.2.2.9. 상태 표시 영역 (Status Area)](./03-02-02-image-windowx-09-status-area.md)
+
+[⬆️ 위: 3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
+
+[⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 
 [⬆️ 위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 
