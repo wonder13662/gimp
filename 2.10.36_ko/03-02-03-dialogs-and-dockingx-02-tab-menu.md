@@ -15,14 +15,10 @@
 ### 보조 메뉴 (Context Menu)
 탭 메뉴의 상단에 있는 메뉴들은 대화상자의 보조 메뉴로 대화상자에 따라 다릅니다. 예를 들어 레이어 탭의 `레이어 메뉴`에는 레이어 편집과 관련된 명령들이 있습니다.
 
-#### 그림 90.5.16.a111. 레이어 탭의 보조 메뉴: `레이어 메뉴`
-![그림 90.5.16.a111. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/bd7b25f7-21f4-451b-8b99-4a125056b55d)
+#### [그림 90.5.16.a111. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a111-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%83%AD%EC%9D%98-%EB%B3%B4%EC%A1%B0-%EB%A9%94%EB%89%B4-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A9%94%EB%89%B4)
+[![그림 90.5.16.a111. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/bd7b25f7-21f4-451b-8b99-4a125056b55d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a111-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%83%AD%EC%9D%98-%EB%B3%B4%EC%A1%B0-%EB%A9%94%EB%89%B4-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A9%94%EB%89%B4)
 
-#### 그림 90.5.16.a112. 레이어 탭의 보조 메뉴: `레이어 메뉴`
-![그림 90.5.16.a112. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/c8e79672-020e-480b-9bca-e0ca6eac6bd6)
-
-#### 그림 90.5.16.a113. 레이어 탭의 보조 메뉴: `레이어 메뉴`
-![그림 90.5.16.a113. 레이어 탭의 보조 메뉴: `레이어 메뉴`](hhttps://github.com/wonder13662/gimp/assets/15767104/6e0eb54d-d88b-4478-82ab-392a6b966f8c)
+[다른 보조 메뉴들을 확인해보기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a111-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%83%AD%EC%9D%98-%EB%B3%B4%EC%A1%B0-%EB%A9%94%EB%89%B4-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A9%94%EB%89%B4)
 
 ### 탭 추가 (Add Tab)
 `탭 추가`는 새로운 탭으로 추가할 수 있는 대화상자 목록을 보여줍니다.
