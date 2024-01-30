@@ -56,9 +56,6 @@
 #### 영상 90.5.16.a142. 탭 잠겨있음 상태
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ec3fa72c-397b-44c9-9886-1bb891ba4772"></video>
 
-#### [영상 3.2.3.2.17. 탭 잠겨있음 상태](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-323217-%ED%83%AD-%EC%9E%A0%EA%B2%A8%EC%9E%88%EC%9D%8C-%EC%83%81%ED%83%9C-1)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ec3fa72c-397b-44c9-9886-1bb891ba4772"></video>
-
 #### [그림 3.12. 탭 메뉴의 하위 메뉴인 미리보기 크기 메뉴](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-312-%ED%83%AD-%EB%A9%94%EB%89%B4%EC%9D%98-%ED%95%98%EC%9C%84-%EB%A9%94%EB%89%B4%EC%9D%B8-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%ED%81%AC%EA%B8%B0-%EB%A9%94%EB%89%B4)
 [<img width="1196" alt="add-tab-sub-menu" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/037668c6-c69c-4b53-9465-42786ef32cc3">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-312-%ED%83%AD-%EB%A9%94%EB%89%B4%EC%9D%98-%ED%95%98%EC%9C%84-%EB%A9%94%EB%89%B4%EC%9D%B8-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%ED%81%AC%EA%B8%B0-%EB%A9%94%EB%89%B4)
 

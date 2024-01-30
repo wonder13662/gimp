@@ -45,12 +45,10 @@
 
 탭이 [잠겨]() 있는 상태면, 이 메뉴는 회색으로 표시되며 사용할 수 없습니다.(TODO 링크 추가)
 
-#### 영상 90.5.16.a142. 탭 잠겨있음 상태
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ec3fa72c-397b-44c9-9886-1bb891ba4772"></video>
-
 ### 독(Dock)에 탭 잠그기 (Lock Tab to Dock)
 독(Dock)에서 대화상자를 이동하거나 떼어내는 것을 막습니다. 이 메뉴를 활성화시키면, `탭 떼어내기(Detach Tab)` 메뉴가 회색으로 표시되며 사용할 수 없습니다.
-#### 영상 3.2.3.2.17. 탭 잠겨있음 상태
+
+#### 영상 90.5.16.a142. 탭 잠겨있음 상태
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ec3fa72c-397b-44c9-9886-1bb891ba4772"></video>
 
 ### 미리보기 크기 (Preview Size)
