@@ -31,11 +31,11 @@
 ### 탭 닫기 (Close Tab)
 대화 상자를 닫습니다. 닫는 대화상자가 독(Dock)의 마지막 대화상자라면 독(dock)도 닫힙니다.
 
-#### 영상 3.2.3.2.14. 탭 닫기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fcc77500-53e6-413f-a235-7bd64cd0af5e"></video>
+#### 그림 90.5.16.a131. 탭 닫기
+![그림 90.5.16.a131.](https://github.com/wonder13662/gimp/assets/15767104/fcc77500-53e6-413f-a235-7bd64cd0af5e)
 
-#### 영상 3.2.3.2.15. 탭 닫기(마지막 대화상자)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9f156dab-6572-42a3-be2e-bdccec04fa63"></video>
+#### 그림 90.5.16.a132. 탭 닫기(마지막 대화상자)
+![그림 90.5.16.a132. 탭 닫기(마지막 대화상자)](https://github.com/wonder13662/gimp/assets/15767104/9f156dab-6572-42a3-be2e-bdccec04fa63)
 
 ### 탭 떼어내기 (Detach Tab)
 탭을 독(Dock)으로부터 분리하여, 해당 대화상자 하나만을 가진 새로운 독(Dock)을 만듭니다. 탭을 독(Dock) 밖으로 드래그하여 분리하는 것과 같은 동작을 합니다. 
