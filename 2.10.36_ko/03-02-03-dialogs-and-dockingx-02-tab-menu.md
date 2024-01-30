@@ -23,10 +23,10 @@
 ### 탭 추가 (Add Tab)
 `탭 추가`는 새로운 탭으로 추가할 수 있는 대화상자 목록을 보여줍니다.
 
-#### 그림 90.5.16.a121. `탭 추가`의 하위 메뉴 (언어: 우리말)
-![그림 90.5.16.a121. `탭 추가`의 하위 메뉴 (언어: 우리말)](https://github.com/wonder13662/gimp/assets/15767104/2d4d55f3-bb51-410b-aefb-c43082c946d8)
+#### [그림 90.5.16.a121. `탭 추가`의 하위 메뉴 (언어: 우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a121-%ED%83%AD-%EC%B6%94%EA%B0%80%EC%9D%98-%ED%95%98%EC%9C%84-%EB%A9%94%EB%89%B4-%EC%96%B8%EC%96%B4-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![그림 90.5.16.a121. `탭 추가`의 하위 메뉴 (언어: 우리말)](https://github.com/wonder13662/gimp/assets/15767104/2d4d55f3-bb51-410b-aefb-c43082c946d8)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a121-%ED%83%AD-%EC%B6%94%EA%B0%80%EC%9D%98-%ED%95%98%EC%9C%84-%EB%A9%94%EB%89%B4-%EC%96%B8%EC%96%B4-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-[다른 언어의 `탭 추가`의 하위 메뉴 확인해보기]()
+[다른 언어의 `탭 추가`의 하위 메뉴 확인해보기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a121-%ED%83%AD-%EC%B6%94%EA%B0%80%EC%9D%98-%ED%95%98%EC%9C%84-%EB%A9%94%EB%89%B4-%EC%96%B8%EC%96%B4-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ### 탭 닫기 (Close Tab)
 대화 상자를 닫습니다. 닫는 대화상자가 독(Dock)의 마지막 대화상자라면 독(dock)도 닫힙니다.
