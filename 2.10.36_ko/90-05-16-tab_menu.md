@@ -12,11 +12,15 @@
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a101. 탭 메뉴가 있는 독(Dock) 안의 대화상자](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-90516a101-%ED%83%AD-%EB%A9%94%EB%89%B4%EA%B0%80-%EC%9E%88%EB%8A%94-%EB%8F%85dock-%EC%95%88%EC%9D%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
 
 #### 그림 90.5.16.a102. 탭 공통 메뉴
-#### 그림 3.2.3.21 탭 공통 메뉴
 ![그림 90.5.16.a102. 탭 공통 메뉴](https://github.com/wonder13662/gimp/assets/15767104/7f3bc446-a7d0-4515-8696-77e76216a2cf")
 
-#### [그림 3.2.3.22 단독창과 다중창의 탭 메뉴 차이](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-32322-%EB%8B%A8%EB%8F%85%EC%B0%BD%EA%B3%BC-%EB%8B%A4%EC%A4%91%EC%B0%BD%EC%9D%98-%ED%83%AD-%EB%A9%94%EB%89%B4-%EC%B0%A8%EC%9D%B4)
-[<img width="891" alt="그림 3.2.3.22 단독창과 다중창의 탭 메뉴 차이" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36"  src="https://github.com/wonder13662/gimp/assets/15767104/c13ec702-8ad6-49d1-9ef3-b2a7a8e271b1">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-32322-%EB%8B%A8%EB%8F%85%EC%B0%BD%EA%B3%BC-%EB%8B%A4%EC%A4%91%EC%B0%BD%EC%9D%98-%ED%83%AD-%EB%A9%94%EB%89%B4-%EC%B0%A8%EC%9D%B4)
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a102. 탭 공통 메뉴]()
+
+#### 그림 90.5.16.a103. 단독창과 다중창의 탭 메뉴 차이
+#### 그림 3.2.3.22 단독창과 다중창의 탭 메뉴 차이
+![그림 90.5.16.a103. 단독창과 다중창의 탭 메뉴 차이](https://github.com/wonder13662/gimp/assets/15767104/c13ec702-8ad6-49d1-9ef3-b2a7a8e271b1)
+
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a103. 단독창과 다중창의 탭 메뉴 차이]()
 
 #### [그림 3.2.3.2.11. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-323211-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%83%AD%EC%9D%98-%EB%B3%B4%EC%A1%B0-%EB%A9%94%EB%89%B4-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A9%94%EB%89%B4)
 [<img width="594" alt="레이어-탭메뉴-보조메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ce8e0462-fbcd-4cc6-a9ec-5717cf60cc9c">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-323211-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%83%AD%EC%9D%98-%EB%B3%B4%EC%A1%B0-%EB%A9%94%EB%89%B4-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A9%94%EB%89%B4)

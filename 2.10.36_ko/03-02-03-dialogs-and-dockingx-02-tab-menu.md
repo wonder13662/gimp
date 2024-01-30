@@ -6,8 +6,8 @@
 #### 그림 90.5.16.a102. 탭 공통 메뉴
 ![그림 90.5.16.a102. 탭 공통 메뉴](https://github.com/wonder13662/gimp/assets/15767104/7f3bc446-a7d0-4515-8696-77e76216a2cf")
 
-#### 그림 3.2.3.22 단독창과 다중창의 탭 메뉴 차이
-<img width="891" alt="그림 3.2.3.22 단독창과 다중창의 탭 메뉴 차이" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36"  src="https://github.com/wonder13662/gimp/assets/15767104/c13ec702-8ad6-49d1-9ef3-b2a7a8e271b1">
+#### 그림 90.5.16.a103. 단독창과 다중창의 탭 메뉴 차이
+![그림 90.5.16.a103. 단독창과 다중창의 탭 메뉴 차이](https://github.com/wonder13662/gimp/assets/15767104/c13ec702-8ad6-49d1-9ef3-b2a7a8e271b1)
 
 (TODO 관련 설명 내용이 필요합니다)
 
