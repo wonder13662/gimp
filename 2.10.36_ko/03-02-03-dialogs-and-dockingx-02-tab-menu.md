@@ -129,7 +129,7 @@
 #### 그림 90.4.a131. `이미지 선택 표시`의 위치
 ![그림 90.4.a131. `이미지 선택 표시`의 위치](https://github.com/wonder13662/gimp/assets/15767104/874be6a8-56ba-410b-bdd1-9a11e35e72e0)
 
-#### 영상 3.2.3.2.27. 다중창에서 이미지 창을 선택할 때마다 이미지 선택 표시의 내용이 바뀝니다
+#### 영상 90.4.a132. 다중창에서 이미지 창을 선택할 때마다 이미지 선택 표시의 내용이 바뀝니다
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d388c0bb-d596-406a-a154-ae52b4808828"></video>
 
 ### 자동으로 현재 이미지 따라가기 (Auto Follow Active Image)
