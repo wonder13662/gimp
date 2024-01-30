@@ -10,3 +10,5 @@
 (TODO 정리 필요)
 [Gimp-Forum.net: How to flatten a curved paper photo?](https://www.gimp-forum.net/Thread-How-to-flatten-a-curved-paper-photo?highlight=interactive+warp)
 (TODO 정리 필요)
+[Gimp-Forum.net: correct curved images of all kind](https://www.gimp-forum.net/Thread-correct-curved-images-of-all-kind)
+(TODO 정리 필요)
