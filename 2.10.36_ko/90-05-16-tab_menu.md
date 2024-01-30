@@ -22,7 +22,7 @@
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a103. 단독창과 다중창의 탭 메뉴 차이](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-90516a103-%EB%8B%A8%EB%8F%85%EC%B0%BD%EA%B3%BC-%EB%8B%A4%EC%A4%91%EC%B0%BD%EC%9D%98-%ED%83%AD-%EB%A9%94%EB%89%B4-%EC%B0%A8%EC%9D%B4)
 
 #### 그림 90.5.16.a111. 레이어 탭의 보조 메뉴: `레이어 메뉴`
-![그림 90.5.16.a111. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/ce8e0462-fbcd-4cc6-a9ec-5717cf60cc9c)
+![그림 90.5.16.a111. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/bd7b25f7-21f4-451b-8b99-4a125056b55d)
 
 #### 그림 90.5.16.a112. 레이어 탭의 보조 메뉴: `레이어 메뉴`
 ![그림 90.5.16.a112. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/5dca2295-7f0b-4e91-be8d-840ce9db621f)
