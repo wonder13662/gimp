@@ -146,8 +146,8 @@
 #### 그림 90.5.16.a193. `자동으로 현재 이미지 따라가기`이 켜져 있어 선택하는 이미지 창의 정보가 표시됩니다.
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/037cf11c-c7a7-4b50-8414-3fc73b0c6e45"></video>
 
-#### 영상 3.2.3.2.31. `자동으로 현재 이미지 따라가기`이 꺼져 있어 선택하는 이미지 창의 정보는 표시되지 않습니다. 이미지 탭에서 선택하는 이미지의 정보가 표시됩니다.
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/37f5704e-0bc9-40ab-a567-b9b81235e21a"></video>
+#### 그림 90.5.16.a194. `자동으로 현재 이미지 따라가기`이 꺼져 있어 선택하는 이미지 창의 정보는 표시되지 않습니다. 이미지 탭에서 선택하는 이미지의 정보가 표시됩니다.
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/37f5704e-0bc9-40ab-a567-b9b81235e21a"></video>
 
 ### 화면으로 이동 (Move to Screen)
 이 옵션은 보통은 사용할 수 없습니다. 이 옵션은 어떤 디스플레이 화면에서 GIMP를 열 것인지 선택할 수 있는 하위 메뉴를 엽니다. 디스플레이 화면이 하나만 있다면 GIMP는 다른 디스플레이 화면으로 옮길 수 없습니다. 다른 옵션인 `화면 열기(Open Display...)`는 아직은 실험중인 기능입니다. 지금은 사용하지 않는 편이 좋습니다.(TODO 기능의 이익에 대해서 확인하지 못했습니다. 추후 추가 예정)

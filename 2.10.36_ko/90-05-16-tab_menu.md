@@ -125,8 +125,10 @@
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a193. `자동으로 현재 이미지 따라가기`이 켜져 있어 선택하는 이미지 창의 정보가 표시됩니다.]()
 
-#### [영상 3.2.3.2.31. `자동으로 현재 이미지 따라가기`이 꺼져 있어 선택하는 이미지 창의 정보는 표시되지 않습니다. 이미지 탭에서 선택하는 이미지의 정보가 표시됩니다.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-323231-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%98%84%EC%9E%AC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%94%B0%EB%9D%BC%EA%B0%80%EA%B8%B0%EC%9D%B4-%EA%BA%BC%EC%A0%B8-%EC%9E%88%EC%96%B4-%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%9D%98-%EC%A0%95%EB%B3%B4%EB%8A%94-%ED%91%9C%EC%8B%9C%EB%90%98%EC%A7%80-%EC%95%8A%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD%EC%97%90%EC%84%9C-%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EC%A0%95%EB%B3%B4%EA%B0%80-%ED%91%9C%EC%8B%9C%EB%90%A9%EB%8B%88%EB%8B%A4)
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/37f5704e-0bc9-40ab-a567-b9b81235e21a"></video>
+#### 그림 90.5.16.a194. `자동으로 현재 이미지 따라가기`이 꺼져 있어 선택하는 이미지 창의 정보는 표시되지 않습니다. 이미지 탭에서 선택하는 이미지의 정보가 표시됩니다. 
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/37f5704e-0bc9-40ab-a567-b9b81235e21a"></video>
+
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a194. `자동으로 현재 이미지 따라가기`이 꺼져 있어 선택하는 이미지 창의 정보는 표시되지 않습니다. 이미지 탭에서 선택하는 이미지의 정보가 표시됩니다.]()
 
 #### [그림 3.2.3.2.32. `화면으로 이동`의 위치](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-323232-%ED%99%94%EB%A9%B4%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%8F%99%EC%9D%98-%EC%9C%84%EC%B9%98)
 <img width="720" alt="그림 3.2.3.2.32. `화면으로 이동`의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ba4a2562-0d04-473c-918f-9c3d0bc7088c">
