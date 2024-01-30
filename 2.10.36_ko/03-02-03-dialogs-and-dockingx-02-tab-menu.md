@@ -1,6 +1,6 @@
 # 3.2.3.2. 탭 메뉴 (Tab Menu)
 #### 그림 90.5.16.a101. 탭 메뉴가 있는 독(Dock) 안의 대화상자
-<img width="243" alt="tab-menu-in-dock" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1b12b197-145c-4854-b7c1-279196f9a47a">
+![90-05-16-a101-layers(windows)(ko)-focus-tab_menu](https://github.com/wonder13662/gimp/assets/15767104/307bf22f-06bf-4ff0-b9ef-62a70be3ff3c)
 
 각 대화상자에는 탭과 관련된 동작을 할 수 있는 특별한 메뉴가 있습니다. 이를 탭 메뉴라고 합니다. 각 대화상자의 탭 메뉴는 약간씩 다를 수 있지만, `탭 추가`, `탭 닫기`, `탭 떼어내기`는 공통입니다.
 #### 그림 3.2.3.21 탭 공통 메뉴

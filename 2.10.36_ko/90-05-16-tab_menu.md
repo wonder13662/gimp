@@ -7,7 +7,7 @@
 ## 기능이 쓰인 곳
 
 #### 그림 90.5.16.a101. 탭 메뉴가 있는 독(Dock) 안의 대화상자
-![tab-menu-in-dock](https://github.com/wonder13662/gimp/assets/15767104/1b12b197-145c-4854-b7c1-279196f9a47a)
+![90-05-16-a101-layers(windows)(ko)-focus-tab_menu](https://github.com/wonder13662/gimp/assets/15767104/307bf22f-06bf-4ff0-b9ef-62a70be3ff3c)
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a101. 탭 메뉴가 있는 독(Dock) 안의 대화상자]()
 
