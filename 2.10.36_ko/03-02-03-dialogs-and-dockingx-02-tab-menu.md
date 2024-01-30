@@ -61,8 +61,8 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb058bdc-b988-4b48-b6c4-539d80c18246"></video>
 
 ### 탭 스타일 (Tab Style)
-#### 그림 3.13. 탭 메뉴의 하위 메뉴인 탭 스타일 메뉴
-<img width="720" alt="그림 3.13. 탭 메뉴의 하위 메뉴인 탭 스타일 메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ff38c6d4-f5ca-49e0-bfb4-e9d9c89f3a9d">
+#### 그림 90.5.16.a161. 탭 메뉴의 하위 메뉴인 탭 스타일 메뉴
+![그림 90.5.16.a161. 탭 메뉴의 하위 메뉴인 탭 스타일 메뉴](https://github.com/wonder13662/gimp/assets/15767104/2d14f7d2-2fd9-4732-9865-6167ce389287)
 
 #### 그림 3.2.3.2.19. 탭 스타일이 적용되는 위치
 <img width="200" alt="그림 3.2.3.2.19. 탭 스타일이 적용되는 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c3c91961-6953-4978-a12d-7c75a9e7be9f">
