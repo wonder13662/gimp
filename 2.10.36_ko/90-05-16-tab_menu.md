@@ -28,7 +28,7 @@
 ![그림 90.5.16.a112. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/c8e79672-020e-480b-9bca-e0ca6eac6bd6)
 
 #### 그림 90.5.16.a113. 레이어 탭의 보조 메뉴: `레이어 메뉴`
-![그림 90.5.16.a113. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/dce5c338-2b4d-4453-994e-b59aa5f8f3f7)
+![그림 90.5.16.a113. 레이어 탭의 보조 메뉴: `레이어 메뉴`](hhttps://github.com/wonder13662/gimp/assets/15767104/6e0eb54d-d88b-4478-82ab-392a6b966f8c)
 
 #### [그림 3.11.1. `탭 추가`의 하위 메뉴 (언어: 우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-3111-%ED%83%AD-%EC%B6%94%EA%B0%80%EC%9D%98-%ED%95%98%EC%9C%84-%EB%A9%94%EB%89%B4-%EC%96%B8%EC%96%B4-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [<img width="326" alt="탭추가-하위메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fe118505-5397-4771-9205-97b0db7f16ad">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-3111-%ED%83%AD-%EC%B6%94%EA%B0%80%EC%9D%98-%ED%95%98%EC%9C%84-%EB%A9%94%EB%89%B4-%EC%96%B8%EC%96%B4-%EC%9A%B0%EB%A6%AC%EB%A7%90)
