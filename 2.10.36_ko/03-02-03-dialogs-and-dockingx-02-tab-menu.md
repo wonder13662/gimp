@@ -52,8 +52,8 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ec3fa72c-397b-44c9-9886-1bb891ba4772"></video>
 
 ### 미리보기 크기 (Preview Size)
-#### 그림 3.12. 탭 메뉴의 하위 메뉴인 미리보기 크기 메뉴
-<img width="1196" alt="add-tab-sub-menu" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/037668c6-c69c-4b53-9465-42786ef32cc3">
+#### 그림 90.5.16.a151. 탭 메뉴의 하위 메뉴인 미리보기 크기 메뉴
+![https://github.com/wonder13662/gimp/assets/15767104/67993af1-734b-4e8f-89df-19ef93a17e5c](https://github.com/wonder13662/gimp/assets/15767104/037668c6-c69c-4b53-9465-42786ef32cc3)
 
 대부분의 대화상자에는 `미리 보기 크기`를 선택할 수 있는 탭 메뉴가 있습니다. 예를 들어 붓(Brushes) 대화상자는 사용가능한 붓의 모양을 보여줍니다. 여기서 `미리 보기 크기`란 대화상자 내에서 각각의 붓을 얼마만큼 크게 보여줄것인가에 관한 값입니다. 기본값은 `중간`입니다.
 
