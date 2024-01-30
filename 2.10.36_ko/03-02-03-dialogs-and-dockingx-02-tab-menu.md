@@ -120,7 +120,7 @@
 #### 그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)
 ![그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)](https://github.com/wonder13662/gimp/assets/15767104/12f3adcf-4649-451b-98a6-5f103892db39)
 
-#### 영상 3.2.3.2.25. `버튼바 표시 (Show Button Bar)`를 토글
+#### 그림 90.4.a122. `버튼바 표시 (Show Button Bar)`를 토글
 <video controls="controls" width="636" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8bfb0b36-299b-4fe4-88f9-e137e428c1b9"></video>
 
 ### 이미지 선택 표시 (Show Image Selection)
