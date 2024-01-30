@@ -25,7 +25,7 @@
 ![그림 90.5.16.a111. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/bd7b25f7-21f4-451b-8b99-4a125056b55d)
 
 #### 그림 90.5.16.a112. 레이어 탭의 보조 메뉴: `레이어 메뉴`
-![그림 90.5.16.a112. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/5dca2295-7f0b-4e91-be8d-840ce9db621f)
+![그림 90.5.16.a112. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/c8e79672-020e-480b-9bca-e0ca6eac6bd6)
 
 #### 그림 90.5.16.a113. 레이어 탭의 보조 메뉴: `레이어 메뉴`
 ![그림 90.5.16.a113. 레이어 탭의 보조 메뉴: `레이어 메뉴`](https://github.com/wonder13662/gimp/assets/15767104/dce5c338-2b4d-4453-994e-b59aa5f8f3f7)
