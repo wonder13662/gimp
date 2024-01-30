@@ -7,7 +7,7 @@
 [![그림 90.5.16.a102. 탭 공통 메뉴](https://github.com/wonder13662/gimp/assets/15767104/b19a21f2-d825-4836-9bf9-f9ffc0230c57)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a102-%ED%83%AD-%EA%B3%B5%ED%86%B5-%EB%A9%94%EB%89%B4)
 
 #### [그림 90.5.16.a103. 단독창과 다중창의 탭 메뉴 차이](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a103-%EB%8B%A8%EB%8F%85%EC%B0%BD%EA%B3%BC-%EB%8B%A4%EC%A4%91%EC%B0%BD%EC%9D%98-%ED%83%AD-%EB%A9%94%EB%89%B4-%EC%B0%A8%EC%9D%B4)
-[![그림 90.5.16.a103. 단독창과 다중창의 탭 메뉴 차이](https://github.com/wonder13662/gimp/assets/15767104/c13ec702-8ad6-49d1-9ef3-b2a7a8e271b1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a103-%EB%8B%A8%EB%8F%85%EC%B0%BD%EA%B3%BC-%EB%8B%A4%EC%A4%91%EC%B0%BD%EC%9D%98-%ED%83%AD-%EB%A9%94%EB%89%B4-%EC%B0%A8%EC%9D%B4)
+[![그림 90.5.16.a103. 단독창과 다중창의 탭 메뉴 차이](https://github.com/wonder13662/gimp/assets/15767104/e6b10cfd-096b-4fd5-bfc2-995a2f6abece)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a103-%EB%8B%A8%EB%8F%85%EC%B0%BD%EA%B3%BC-%EB%8B%A4%EC%A4%91%EC%B0%BD%EC%9D%98-%ED%83%AD-%EB%A9%94%EB%89%B4-%EC%B0%A8%EC%9D%B4)
 
 (TODO 관련 설명 내용이 필요합니다)
 
