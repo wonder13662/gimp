@@ -112,8 +112,8 @@
 #### 그림 90.5.16.a191. `자동으로 현재 이미지 따라가기`의 위치
 ![그림 90.5.16.a191. `자동으로 현재 이미지 따라가기`의 위치](https://github.com/wonder13662/gimp/assets/15767104/d04ba8f7-1fa3-410a-bd62-865456ade58e)
 
-#### [그림 3.2.3.2.29. `자동으로 현재 이미지 따라가기`의 영향을 받는 곳들](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-323229-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%98%84%EC%9E%AC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%94%B0%EB%9D%BC%EA%B0%80%EA%B8%B0%EC%9D%98-%EC%98%81%ED%96%A5%EC%9D%84-%EB%B0%9B%EB%8A%94-%EA%B3%B3%EB%93%A4)
-[<img width="1036" alt="그림 3.2.3.2.29. `자동으로 현재 이미지 따라가기`의 영향을 받는 곳들" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0ff346fe-8976-4a88-86e2-1813e16cfa70">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-323229-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%98%84%EC%9E%AC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%94%B0%EB%9D%BC%EA%B0%80%EA%B8%B0%EC%9D%98-%EC%98%81%ED%96%A5%EC%9D%84-%EB%B0%9B%EB%8A%94-%EA%B3%B3%EB%93%A4)
+#### 그림 90.5.16.a192. `자동으로 현재 이미지 따라가기`의 영향을 받는 곳들
+![그림 90.5.16.a192. `자동으로 현재 이미지 따라가기`의 영향을 받는 곳들](https://github.com/wonder13662/gimp/assets/15767104/fed7b9af-01dd-49e3-a458-67ad7d8fd8a1)
 
 #### [영상 3.2.3.2.30. `자동으로 현재 이미지 따라가기`이 켜져 있어 선택하는 이미지 창의 정보가 표시됩니다.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-323230-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%98%84%EC%9E%AC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%94%B0%EB%9D%BC%EA%B0%80%EA%B8%B0%EC%9D%B4-%EC%BC%9C%EC%A0%B8-%EC%9E%88%EC%96%B4-%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%9D%98-%EC%A0%95%EB%B3%B4%EA%B0%80-%ED%91%9C%EC%8B%9C%EB%90%A9%EB%8B%88%EB%8B%A4)
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/037cf11c-c7a7-4b50-8414-3fc73b0c6e45"></video>
