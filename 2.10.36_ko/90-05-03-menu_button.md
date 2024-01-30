@@ -20,7 +20,7 @@
 #### 영상 90.5.3.a112. 단축키 Shift + F10(Windows) 또는 ⇧ + F10(Mac)로 이미지 메뉴 열기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ebb0cbca-751e-4d63-a43c-99a9437d5813"></video>
 
-[3.2.2.3. 메뉴 버튼 (Menu Button) - 영상 90.5.3.a112. 단축키 Shift + F10(Windows) 또는 ⇧ + F10(Mac)로 이미지 메뉴 열기]()
+[3.2.2.3. 메뉴 버튼 (Menu Button) - 영상 90.5.3.a112. 단축키 Shift + F10(Windows) 또는 ⇧ + F10(Mac)로 이미지 메뉴 열기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-03-menu-button.html#%EC%98%81%EC%83%81-9053a112-%EB%8B%A8%EC%B6%95%ED%82%A4-shift--f10windows-%EB%98%90%EB%8A%94---f10mac%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EC%97%B4%EA%B8%B0)
 
 ***
 
