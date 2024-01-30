@@ -64,8 +64,8 @@
 #### [그림 90.5.16.a161. 탭 메뉴의 하위 메뉴인 탭 스타일 메뉴](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a161-%ED%83%AD-%EB%A9%94%EB%89%B4%EC%9D%98-%ED%95%98%EC%9C%84-%EB%A9%94%EB%89%B4%EC%9D%B8-%ED%83%AD-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%A9%94%EB%89%B4)
 [![그림 90.5.16.a161. 탭 메뉴의 하위 메뉴인 탭 스타일 메뉴](https://github.com/wonder13662/gimp/assets/15767104/2d14f7d2-2fd9-4732-9865-6167ce389287)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a161-%ED%83%AD-%EB%A9%94%EB%89%B4%EC%9D%98-%ED%95%98%EC%9C%84-%EB%A9%94%EB%89%B4%EC%9D%B8-%ED%83%AD-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%A9%94%EB%89%B4)
 
-#### 그림 90.5.16.a162. 탭 스타일이 적용되는 위치
-![그림 90.5.16.a162. 탭 스타일이 적용되는 위치](https://github.com/wonder13662/gimp/assets/15767104/c3c91961-6953-4978-a12d-7c75a9e7be9f)
+#### [그림 90.5.16.a162. 탭 스타일이 적용되는 위치](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a162-%ED%83%AD-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%B4-%EC%A0%81%EC%9A%A9%EB%90%98%EB%8A%94-%EC%9C%84%EC%B9%98)
+[![그림 90.5.16.a162. 탭 스타일이 적용되는 위치](https://github.com/wonder13662/gimp/assets/15767104/c3c91961-6953-4978-a12d-7c75a9e7be9f)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a162-%ED%83%AD-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%B4-%EC%A0%81%EC%9A%A9%EB%90%98%EB%8A%94-%EC%9C%84%EC%B9%98)
 
 #### 아이콘 (Icon)
 대화상자의 종류를 아이콘으로 표시합니다.
@@ -73,7 +73,7 @@
 #### 현재 상태 (Current Status)
 붓(Brushes), 무늬(Patterns), 그라디언트(gradient) 등 무언가를 선택할 수 있는 대화상자에만 활성화되는 항목입니다. 선택된 아이템의 `현재 상태`를 탭의 위쪽에 보여줍니다.
 
-#### 영상 90.5.16.a163. 붓 탭의 스타일: 현재상태 보기
+#### [영상 90.5.16.a163. 붓 탭의 스타일: 현재상태 보기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EC%98%81%EC%83%81-90516a163-%EB%B6%93-%ED%83%AD%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC-%ED%98%84%EC%9E%AC%EC%83%81%ED%83%9C-%EB%B3%B4%EA%B8%B0)
 <video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/73d77775-a0de-466f-b580-620b497401cf"></video>
 
 #### 텍스트 (Text)
@@ -85,28 +85,27 @@
 #### 상태와 글자 (Status and Text)
 현재 선택된 항목을 대화 상자 종류와 함께 표시합니다. 현재 상태(Current Status)와 텍스트(Text)를 합친 기능입니다.
 
-#### 영상 90.5.16.a164. 붓 탭의 스타일: 상태와 글자
+#### [영상 90.5.16.a164. 붓 탭의 스타일: 상태와 글자](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EC%98%81%EC%83%81-90516a164-%EB%B6%93-%ED%83%AD%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%83%81%ED%83%9C%EC%99%80-%EA%B8%80%EC%9E%90)
 <video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/eecfbd62-cc8e-42b7-bfcb-61615a1eede5"></video>
 
 #### Automatic
 기본 값입니다. 탭의 공간에 맞춰 스타일을 바꿉니다. 텍스트 스타일은 많은 공간이 필요해서 항상 가능하지는 않습니다.
 
-#### 영상 90.5.16.a165. 탭 스타일 설정하기
+#### [영상 90.5.16.a165. 탭 스타일 설정하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EC%98%81%EC%83%81-90516a165-%ED%83%AD-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 <video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/94534a21-f1b3-46df-8655-e934ae38ee9b"></video>
 
 ### 목록으로 보기/격자로 보기 (View as List; View as Grid)
 #### 목록 형태
 각 아이템들을 아이콘, 이름과 함께 세로 목록 형태로 표시합니다. 각 아이템에 대한 자세한 정보를 확인할 수 있습니다.
 
-#### 그림 90.5.16.a171. 목록 형태
-![그림 90.5.16.a171. 목록 형태](https://github.com/wonder13662/gimp/assets/15767104/cfff81c3-b12d-4681-ba8c-95e097e38aae)
+#### [그림 90.5.16.a171. 목록 형태](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a171-%EB%AA%A9%EB%A1%9D-%ED%98%95%ED%83%9C)
+[![그림 90.5.16.a171. 목록 형태](https://github.com/wonder13662/gimp/assets/15767104/cfff81c3-b12d-4681-ba8c-95e097e38aae)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a171-%EB%AA%A9%EB%A1%9D-%ED%98%95%ED%83%9C)
 
 #### 격자 형태 
 각 아이템들을 이름을 제외하고 아이콘만 표시합니다. 한번에 더 많은 아이템을 볼 수 있습니다.
 
-#### 그림 90.5.16.a172. 격자 형태
-![그림 90.5.16.a172. 격자 형태](https://github.com/wonder13662/gimp/assets/15767104/345769c7-554d-4f9e-9f1a-8d9c7cd71336)
-
+#### [그림 90.5.16.a172. 격자 형태](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a172-%EA%B2%A9%EC%9E%90-%ED%98%95%ED%83%9C)
+[![그림 90.5.16.a172. 격자 형태](https://github.com/wonder13662/gimp/assets/15767104/345769c7-554d-4f9e-9f1a-8d9c7cd71336)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a172-%EA%B2%A9%EC%9E%90-%ED%98%95%ED%83%9C)
 
 #### 기본 형태
 붓(Brushes)과 무늬(Patterns) 대화상자는 `격자로 보기`이고, 나머지는 `목록으로 보기`입니다.
@@ -117,33 +116,33 @@
 ### 버튼바 표시 (Show Button Bar)
 붓(Brushes), 무늬(Patterns), 그라데이션(Gradations), 이미지(Images) 대화상자와 같은 일부 대화 상자에는 하단에 버튼바(Button Bar)가 있습니다. 버튼바(Button Bar)를 `버튼바 표시 (Show Button Bar)`를 토글해서 숨기거나 표시할 수 있습니다.
 
-#### 그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)
-![그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)](https://github.com/wonder13662/gimp/assets/15767104/12f3adcf-4649-451b-98a6-5f103892db39)
+#### [그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EA%B7%B8%EB%A6%BC-904a121-%EB%B6%93brushes-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%B2%84%ED%8A%BC%EB%B0%94button-bar)
+[![그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)](https://github.com/wonder13662/gimp/assets/15767104/12f3adcf-4649-451b-98a6-5f103892db39)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EA%B7%B8%EB%A6%BC-904a121-%EB%B6%93brushes-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%B2%84%ED%8A%BC%EB%B0%94button-bar)
 
-#### 그림 90.4.a122. `버튼바 표시 (Show Button Bar)`를 토글
+#### [그림 90.4.a122. `버튼바 표시 (Show Button Bar)`를 토글](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EA%B7%B8%EB%A6%BC-904a122-%EB%B2%84%ED%8A%BC%EB%B0%94-%ED%91%9C%EC%8B%9C-show-button-bar%EB%A5%BC-%ED%86%A0%EA%B8%80)
 <video controls="controls" width="636" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8bfb0b36-299b-4fe4-88f9-e137e428c1b9"></video>
 
 ### 이미지 선택 표시 (Show Image Selection)
 이 옵션은 다중창 모드에서만 사용할 수 있습니다. 이 옵션이 체크되어 있으면, 독(Dock)의 상단에 이미지 메뉴가 표시됩니다.
 
-#### 그림 90.4.a131. `이미지 선택 표시`의 위치
-![그림 90.4.a131. `이미지 선택 표시`의 위치](https://github.com/wonder13662/gimp/assets/15767104/874be6a8-56ba-410b-bdd1-9a11e35e72e0)
+#### [그림 90.4.a131. `이미지 선택 표시`의 위치](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EA%B7%B8%EB%A6%BC-904a131-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%84%A0%ED%83%9D-%ED%91%9C%EC%8B%9C%EC%9D%98-%EC%9C%84%EC%B9%98)
+[![그림 90.4.a131. `이미지 선택 표시`의 위치](https://github.com/wonder13662/gimp/assets/15767104/874be6a8-56ba-410b-bdd1-9a11e35e72e0)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EA%B7%B8%EB%A6%BC-904a131-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%84%A0%ED%83%9D-%ED%91%9C%EC%8B%9C%EC%9D%98-%EC%9C%84%EC%B9%98)
 
-#### 영상 90.4.a132. 다중창에서 이미지 창을 선택할 때마다 이미지 선택 표시의 내용이 바뀝니다
+#### [영상 90.4.a132. 다중창에서 이미지 창을 선택할 때마다 이미지 선택 표시의 내용이 바뀝니다](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EC%98%81%EC%83%81-904a132-%EB%8B%A4%EC%A4%91%EC%B0%BD%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%A0-%EB%95%8C%EB%A7%88%EB%8B%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%84%A0%ED%83%9D-%ED%91%9C%EC%8B%9C%EC%9D%98-%EB%82%B4%EC%9A%A9%EC%9D%B4-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4)
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d388c0bb-d596-406a-a154-ae52b4808828"></video>
 
 ### 자동으로 현재 이미지 따라가기 (Auto Follow Active Image)
 이 옵션은 다중창 모드(multi-window mode)에서만 사용할 수 있습니다. 이 옵션은 여러 개의 이미지를 띄워놓고 작업할 경우에 유용합니다. 이 옵션을 선택하면 독(Dock)의 정보 표시 영역에 항상 이미지 선택 대화 상자의 목록에서 선택한 이미지의 정보가 표시됩니다. `자동으로 현재 이미지 따라가기` 옵션을 사용 중지하면, 이미지를 이미지 선택 대화 상자에서만 선택할 수 있습니다.
 
-#### 그림 90.5.16.a191. `자동으로 현재 이미지 따라가기`의 위치
-![그림 90.5.16.a191. `자동으로 현재 이미지 따라가기`의 위치](https://github.com/wonder13662/gimp/assets/15767104/d04ba8f7-1fa3-410a-bd62-865456ade58e)
+#### [그림 90.5.16.a191. `자동으로 현재 이미지 따라가기`의 위치](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a191-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%98%84%EC%9E%AC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%94%B0%EB%9D%BC%EA%B0%80%EA%B8%B0%EC%9D%98-%EC%9C%84%EC%B9%98)
+[![그림 90.5.16.a191. `자동으로 현재 이미지 따라가기`의 위치](https://github.com/wonder13662/gimp/assets/15767104/d04ba8f7-1fa3-410a-bd62-865456ade58e)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a191-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%98%84%EC%9E%AC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%94%B0%EB%9D%BC%EA%B0%80%EA%B8%B0%EC%9D%98-%EC%9C%84%EC%B9%98)
 
-#### 그림 90.5.16.a192. `자동으로 현재 이미지 따라가기`의 영향을 받는 곳들
-![그림 90.5.16.a192. `자동으로 현재 이미지 따라가기`의 영향을 받는 곳들](https://github.com/wonder13662/gimp/assets/15767104/fed7b9af-01dd-49e3-a458-67ad7d8fd8a1)
+#### [그림 90.5.16.a192. `자동으로 현재 이미지 따라가기`의 영향을 받는 곳들](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a192-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%98%84%EC%9E%AC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%94%B0%EB%9D%BC%EA%B0%80%EA%B8%B0%EC%9D%98-%EC%98%81%ED%96%A5%EC%9D%84-%EB%B0%9B%EB%8A%94-%EA%B3%B3%EB%93%A4)
+[![그림 90.5.16.a192. `자동으로 현재 이미지 따라가기`의 영향을 받는 곳들](https://github.com/wonder13662/gimp/assets/15767104/fed7b9af-01dd-49e3-a458-67ad7d8fd8a1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a192-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%98%84%EC%9E%AC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%94%B0%EB%9D%BC%EA%B0%80%EA%B8%B0%EC%9D%98-%EC%98%81%ED%96%A5%EC%9D%84-%EB%B0%9B%EB%8A%94-%EA%B3%B3%EB%93%A4)
 
 위 이미지에서 표시된 정보들이 `자동으로 현재 이미지 따라가기`이 켜져 있는 경우에는 선택하는 이미지 창에 따라 바뀝니다.
 
-#### 그림 90.5.16.a193. `자동으로 현재 이미지 따라가기`이 켜져 있어 선택하는 이미지 창의 정보가 표시됩니다.
+#### [영상 90.5.16.a193. `자동으로 현재 이미지 따라가기`이 켜져 있어 선택하는 이미지 창의 정보가 표시됩니다.]()
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/037cf11c-c7a7-4b50-8414-3fc73b0c6e45"></video>
 
 #### 그림 90.5.16.a194. `자동으로 현재 이미지 따라가기`이 꺼져 있어 선택하는 이미지 창의 정보는 표시되지 않습니다. 이미지 탭에서 선택하는 이미지의 정보가 표시됩니다.

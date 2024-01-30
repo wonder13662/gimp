@@ -74,32 +74,32 @@
 #### 그림 90.5.16.a162. 탭 스타일이 적용되는 위치
 ![그림 90.5.16.a162. 탭 스타일이 적용되는 위치](https://github.com/wonder13662/gimp/assets/15767104/c3c91961-6953-4978-a12d-7c75a9e7be9f)
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a162. 탭 스타일이 적용되는 위치]()
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a162. 탭 스타일이 적용되는 위치](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-90516a162-%ED%83%AD-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%B4-%EC%A0%81%EC%9A%A9%EB%90%98%EB%8A%94-%EC%9C%84%EC%B9%98)
 
 #### 영상 90.5.16.a163. 붓 탭의 스타일: 현재상태 보기
 <video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/73d77775-a0de-466f-b580-620b497401cf"></video>
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a163. 붓 탭의 스타일: 현재상태 보기]()
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a163. 붓 탭의 스타일: 현재상태 보기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-90516a163-%EB%B6%93-%ED%83%AD%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC-%ED%98%84%EC%9E%AC%EC%83%81%ED%83%9C-%EB%B3%B4%EA%B8%B0)
 
 #### 영상 90.5.16.a164. 붓 탭의 스타일: 상태와 글자
 <video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/eecfbd62-cc8e-42b7-bfcb-61615a1eede5"></video>
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a164. 붓 탭의 스타일: 상태와 글자]()
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a164. 붓 탭의 스타일: 상태와 글자](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-90516a164-%EB%B6%93-%ED%83%AD%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%83%81%ED%83%9C%EC%99%80-%EA%B8%80%EC%9E%90)
 
 #### 영상 90.5.16.a165. 탭 스타일 설정하기
 <video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/94534a21-f1b3-46df-8655-e934ae38ee9b"></video>
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a165. 탭 스타일 설정하기]()
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a165. 탭 스타일 설정하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-90516a165-%ED%83%AD-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 
 #### 그림 90.5.16.a171. 목록 형태
 ![그림 90.5.16.a171. 목록 형태](https://github.com/wonder13662/gimp/assets/15767104/cfff81c3-b12d-4681-ba8c-95e097e38aae)
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a171. 목록 형태]()
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a171. 목록 형태](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-90516a171-%EB%AA%A9%EB%A1%9D-%ED%98%95%ED%83%9C)
 
 #### 그림 90.5.16.a172. 격자 형태
 ![그림 90.5.16.a172. 격자 형태](https://github.com/wonder13662/gimp/assets/15767104/345769c7-554d-4f9e-9f1a-8d9c7cd71336)
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a172. 격자 형태]()
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a172. 격자 형태](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-90516a172-%EA%B2%A9%EC%9E%90-%ED%98%95%ED%83%9C)
 
 #### 영상 90.5.16.a181. 탭 메뉴의 탭 추가하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5831e5d3-eb1f-403a-a7ff-55fd7b8fb6df"></video>
@@ -109,17 +109,17 @@
 #### 그림 90.5.16.a191. `자동으로 현재 이미지 따라가기`의 위치
 ![그림 90.5.16.a191. `자동으로 현재 이미지 따라가기`의 위치](https://github.com/wonder13662/gimp/assets/15767104/d04ba8f7-1fa3-410a-bd62-865456ade58e)
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a191. `자동으로 현재 이미지 따라가기`의 위치]()
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a191. `자동으로 현재 이미지 따라가기`의 위치](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-90516a191-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%98%84%EC%9E%AC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%94%B0%EB%9D%BC%EA%B0%80%EA%B8%B0%EC%9D%98-%EC%9C%84%EC%B9%98)
 
 #### 그림 90.5.16.a192. `자동으로 현재 이미지 따라가기`의 영향을 받는 곳들
 ![그림 90.5.16.a192. `자동으로 현재 이미지 따라가기`의 영향을 받는 곳들](https://github.com/wonder13662/gimp/assets/15767104/fed7b9af-01dd-49e3-a458-67ad7d8fd8a1)
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a192. `자동으로 현재 이미지 따라가기`의 영향을 받는 곳들]()
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a192. `자동으로 현재 이미지 따라가기`의 영향을 받는 곳들](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-90516a192-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%98%84%EC%9E%AC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%94%B0%EB%9D%BC%EA%B0%80%EA%B8%B0%EC%9D%98-%EC%98%81%ED%96%A5%EC%9D%84-%EB%B0%9B%EB%8A%94-%EA%B3%B3%EB%93%A4)
 
-#### 그림 90.5.16.a193. `자동으로 현재 이미지 따라가기`이 켜져 있어 선택하는 이미지 창의 정보가 표시됩니다.
+#### 영상 90.5.16.a193. `자동으로 현재 이미지 따라가기`이 켜져 있어 선택하는 이미지 창의 정보가 표시됩니다.
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/037cf11c-c7a7-4b50-8414-3fc73b0c6e45"></video>
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a193. `자동으로 현재 이미지 따라가기`이 켜져 있어 선택하는 이미지 창의 정보가 표시됩니다.]()
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a193. `자동으로 현재 이미지 따라가기`이 켜져 있어 선택하는 이미지 창의 정보가 표시됩니다.]()
 
 #### 그림 90.5.16.a194. `자동으로 현재 이미지 따라가기`이 꺼져 있어 선택하는 이미지 창의 정보는 표시되지 않습니다. 이미지 탭에서 선택하는 이미지의 정보가 표시됩니다. 
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/37f5704e-0bc9-40ab-a567-b9b81235e21a"></video>

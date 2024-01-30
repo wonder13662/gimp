@@ -170,22 +170,22 @@
 #### 그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)
 ![그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)](https://github.com/wonder13662/gimp/assets/15767104/12f3adcf-4649-451b-98a6-5f103892db39)
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)]()
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-904a121-%EB%B6%93brushes-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%B2%84%ED%8A%BC%EB%B0%94button-bar)
 
 #### 그림 90.4.a122. `버튼바 표시 (Show Button Bar)`를 토글
 <video controls="controls" width="636" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8bfb0b36-299b-4fe4-88f9-e137e428c1b9"></video>
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.4.a122. `버튼바 표시 (Show Button Bar)`를 토글]()
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.4.a122. `버튼바 표시 (Show Button Bar)`를 토글](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-904a122-%EB%B2%84%ED%8A%BC%EB%B0%94-%ED%91%9C%EC%8B%9C-show-button-bar%EB%A5%BC-%ED%86%A0%EA%B8%80)
 
 #### 그림 90.4.a131. `이미지 선택 표시`의 위치
 ![그림 90.4.a131. `이미지 선택 표시`의 위치](https://github.com/wonder13662/gimp/assets/15767104/874be6a8-56ba-410b-bdd1-9a11e35e72e0)
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.4.a131. `이미지 선택 표시`의 위치]()
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.4.a131. `이미지 선택 표시`의 위치](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EA%B7%B8%EB%A6%BC-904a131-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%84%A0%ED%83%9D-%ED%91%9C%EC%8B%9C%EC%9D%98-%EC%9C%84%EC%B9%98)
 
 #### 영상 90.4.a132. 다중창에서 이미지 창을 선택할 때마다 이미지 선택 표시의 내용이 바뀝니다
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d388c0bb-d596-406a-a154-ae52b4808828"></video>
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.4.a131. `이미지 선택 표시`의 위치]()
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.4.a132. 다중창에서 이미지 창을 선택할 때마다 이미지 선택 표시의 내용이 바뀝니다](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-904a132-%EB%8B%A4%EC%A4%91%EC%B0%BD%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%A0-%EB%95%8C%EB%A7%88%EB%8B%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%84%A0%ED%83%9D-%ED%91%9C%EC%8B%9C%EC%9D%98-%EB%82%B4%EC%9A%A9%EC%9D%B4-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4)
 
 ***
 
