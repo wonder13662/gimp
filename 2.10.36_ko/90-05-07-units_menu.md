@@ -5,17 +5,17 @@
 #### 그림 90.5.7.a101. (7)단위 메뉴의 위치 (다중창)
 ![그림 90.5.7.a101. (7)단위 메뉴의 위치 (다중창)](https://github.com/wonder13662/gimp/assets/15767104/04ea57d8-27c3-453b-9743-48a8a0d6b3ba)
 
-[3.2.2.7. 단위 메뉴 (Units Menu) - 그림 90.5.7.a101. (7)단위 메뉴의 위치 (다중창)]()
+[3.2.2.7. 단위 메뉴 (Units Menu) - 그림 90.5.7.a101. (7)단위 메뉴의 위치 (다중창)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-07-units-menu.html#%EA%B7%B8%EB%A6%BC-9057a101-7%EB%8B%A8%EC%9C%84-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A4%EC%A4%91%EC%B0%BD)
 
 #### 그림 90.5.7.a102. (7)단위 메뉴의 위치 (단일창)
 ![그림 90.5.7.a102. (7)단위 메뉴의 위치 (단일창)](https://github.com/wonder13662/gimp/assets/15767104/a0bc73ac-0abb-4991-b689-0d49099357f8)
 
-[3.2.2.7. 단위 메뉴 (Units Menu) - 그림 90.5.7.a102. (7)단위 메뉴의 위치 (단일창)]()
+[3.2.2.7. 단위 메뉴 (Units Menu) - 그림 90.5.7.a102. (7)단위 메뉴의 위치 (단일창)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-07-units-menu.html#%EA%B7%B8%EB%A6%BC-9057a102-7%EB%8B%A8%EC%9C%84-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD)
 
 #### 그림 90.5.7.a111. 단위 메뉴의 단위 바꾸기
-![그림 90.5.7.a111. 단위 메뉴의 단위 바꾸기](https://github.com/wonder13662/gimp/assets/15767104/943d39cf-c0b5-452a-961d-66763697a844)
+![그림 90.5.7.a111. 단위 메뉴의 단위 바꾸기](https://github.com/wonder13662/gimp/assets/15767104/bbb5406d-d691-4523-b006-4f5057b495bb)
 
-[3.2.2.7. 단위 메뉴 (Units Menu) - 그림 90.5.7.a111. 단위 메뉴의 단위 바꾸기]()
+[3.2.2.7. 단위 메뉴 (Units Menu) - 그림 90.5.7.a111. 단위 메뉴의 단위 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-07-units-menu.html#%EA%B7%B8%EB%A6%BC-9057a111-%EB%8B%A8%EC%9C%84-%EB%A9%94%EB%89%B4%EC%9D%98-%EB%8B%A8%EC%9C%84-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
 #### 그림 90.5.1.a121. 화면 표시 상의 확대/축소 비율과 RGB 모드
 ![그림 90.5.1.a121. 화면 표시 상의 확대/축소 비율과 RGB 모드](https://github.com/wonder13662/gimp/assets/15767104/e9973caf-e8ae-4fbc-9814-9b9d13e6f982)
