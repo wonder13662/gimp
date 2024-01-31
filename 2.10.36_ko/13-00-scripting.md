@@ -16,3 +16,7 @@
 ## [13.3.7. Your script and its working](./13-03-07-your-script-and-its-working.md)
 
 ### [Home](./00-home.md)
+
+## 관련 정보
+[Gimp-Forum.net: Scripting Questions](https://www.gimp-forum.net/Forum-Scripting-questions)
+(TODO 정리필요)
