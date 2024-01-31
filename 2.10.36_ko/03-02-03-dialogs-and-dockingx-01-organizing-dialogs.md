@@ -66,7 +66,8 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 
 ## 3.2.3.1.12. 탭 메뉴의 탭 추가하기
 탭 메뉴의 **탭 추가하기** 기능을 이용합니다. [탭 메뉴]()(TODO 링크 추가하기)
-#### 영상 90.5.16.a181. 탭 메뉴의 탭 추가하기
+
+#### [영상 90.5.16.a181. 탭 메뉴의 탭 추가하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EC%98%81%EC%83%81-90516a181-%ED%83%AD-%EB%A9%94%EB%89%B4%EC%9D%98-%ED%83%AD-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5831e5d3-eb1f-403a-a7ff-55fd7b8fb6df"></video>
 
 

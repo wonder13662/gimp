@@ -104,7 +104,7 @@
 #### 영상 90.5.16.a181. 탭 메뉴의 탭 추가하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5831e5d3-eb1f-403a-a7ff-55fd7b8fb6df"></video>
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a181. 탭 메뉴의 탭 추가하기]()
+[3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a181. 탭 메뉴의 탭 추가하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-01-organizing-dialogs.html#%EC%98%81%EC%83%81-90516a181-%ED%83%AD-%EB%A9%94%EB%89%B4%EC%9D%98-%ED%83%AD-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 
 #### 그림 90.5.16.a191. `자동으로 현재 이미지 따라가기`의 위치
 ![그림 90.5.16.a191. `자동으로 현재 이미지 따라가기`의 위치](https://github.com/wonder13662/gimp/assets/15767104/d04ba8f7-1fa3-410a-bd62-865456ade58e)
