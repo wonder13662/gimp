@@ -106,7 +106,6 @@
 [90. 이미지 맵](./90-00-image-map.md)
 
 [90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
-[<img width="1080" alt="90.1. 이미지 메뉴 바(Image Menu Bar)" src="https://github.com/wonder13662/gimp/assets/15767104/85463d2a-4897-4283-b76b-6a64241ccbd9">](./90-01-00-image-menu-bar.md)
 
 [90.1.1. 파일(File)](./90-01-01-file.md)
 
@@ -417,7 +416,6 @@
 [90.1.11.2. 도움말(Help) - 사용자 설명서(User manual)](./90-01-11-helpx-02-user_manual.md)
 
 [90.2. 기본 설정(Preference)](./90-02-00-preference.md)
-[<img width="1080" alt="90.2. 기본 설정(Preference)" src="https://github.com/wonder13662/gimp/assets/15767104/e20eb713-6ff2-4bc0-944b-cdb021e01974">](./90-02-00-preference.md)
 
 [90.2.1. 시스템 리소스(System Resource)](./90-02-01-system-resource.md)
 
@@ -464,7 +462,6 @@
 [90.2.10. 실험 놀이터 (Experimental Playground)](./90-02-10-playground.md)
 
 [90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
-[<img width="450" src="https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5">](./90-03-00-toolbox.md)
 
 [90.3.1. GIMP 로고(GIMP Logo)](./90-03-01-gimp_logo.md)
 
@@ -553,7 +550,6 @@
 [90.3.5. 활성화된 이미지(Active Image)](./90-03-05-active_image.md)
 
 [90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
-[<img width="324" alt="90.4. 대화상자(Dialogs)" src="https://github.com/wonder13662/gimp/assets/15767104/1751c179-af5f-4b81-88f9-55b5b1d2c9f9">](./90-04-00-dialogs.md)
 
 [90.4.1. 도구 옵션(Tool Options)](./90-04-01-tool_options.md)
 
