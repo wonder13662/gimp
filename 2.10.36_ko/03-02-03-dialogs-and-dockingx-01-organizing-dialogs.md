@@ -22,14 +22,14 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 ## 3.2.3.1.4. 다중창 모드에서의 독(dock)
 다중창 모드에서 도구 상자는 독(dock)이 아닌 유틸리티 창이 됩니다.
 
-#### 그림 90.5.15.a111. 다중창 모드에서의 3개의 유틸리티 창
-![그림 90.5.15.a111. 다중창 모드에서의 3개의 유틸리티 창](https://github.com/wonder13662/gimp/assets/15767104/b2972994-e79b-4d1a-95ab-9e73aee34315)
+#### [그림 90.5.15.a111. 다중창 모드에서의 3개의 유틸리티 창](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-15-dock.html#%EA%B7%B8%EB%A6%BC-90515a111-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C%EC%97%90%EC%84%9C%EC%9D%98-3%EA%B0%9C%EC%9D%98-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0-%EC%B0%BD)
+[![그림 90.5.15.a111. 다중창 모드에서의 3개의 유틸리티 창](https://github.com/wonder13662/gimp/assets/15767104/b2972994-e79b-4d1a-95ab-9e73aee34315)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-15-dock.html#%EA%B7%B8%EB%A6%BC-90515a111-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C%EC%97%90%EC%84%9C%EC%9D%98-3%EA%B0%9C%EC%9D%98-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0-%EC%B0%BD)
 
 ## 3.2.3.1.5. 단일창 모드에서의 독(dock)
 단일창 모드에서는 단일창 안에 독(dock)이 포함됩니다.
 
-#### 그림 90.5.15.a112. 단일창 모드에서의 3개의 독(Dock)
-![그림 90.5.15.a112. 단일창 모드에서의 3개의 독(Dock)](https://github.com/wonder13662/gimp/assets/15767104/dc2a73db-7ffc-47a7-91ac-af53bb9d041e)
+#### [그림 90.5.15.a112. 단일창 모드에서의 3개의 독(Dock)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-15-dock.html#%EA%B7%B8%EB%A6%BC-90515a112-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9C%EC%97%90%EC%84%9C%EC%9D%98-3%EA%B0%9C%EC%9D%98-%EB%8F%85dock)
+[![그림 90.5.15.a112. 단일창 모드에서의 3개의 독(Dock)](https://github.com/wonder13662/gimp/assets/15767104/dc2a73db-7ffc-47a7-91ac-af53bb9d041e)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-15-dock.html#%EA%B7%B8%EB%A6%BC-90515a112-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9C%EC%97%90%EC%84%9C%EC%9D%98-3%EA%B0%9C%EC%9D%98-%EB%8F%85dock)
 
 ## 3.2.3.1.6. 독에 보여지는 대화상자 설정하기
 `창` → `도킹가능한 대화` 메뉴에 도킹을 할 수 있는 대화상자 목록이 있습니다. 
@@ -73,10 +73,10 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 >
 > 이미지 창(Image Window) 안에서 `Tab`키를 누르면 3개의 독을 숨기거나 보여줄 수 있습니다. 3개의 독 중 하나가 이미지 창을 가리는 경우 쓸 수 있습니다. 독 안에서 `Tab`키를 누르면 포커스가 독 안의 기능 버튼을 순회합니다.
 
-#### 영상 90.5.15.a121. `Tab`키로 3개의 독 숨기기
+#### [영상 90.5.15.a121. `Tab`키로 3개의 독 숨기기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-15-dock.html#%EC%98%81%EC%83%81-90515a121-tab%ED%82%A4%EB%A1%9C-3%EA%B0%9C%EC%9D%98-%EB%8F%85-%EC%88%A8%EA%B8%B0%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8ee75977-e433-472f-ab87-098fdbef7471"></video>
 
-#### 영상 90.5.15.a122. `Tab`키로 독(Dock) 안에서 기능 버튼 순회하기
+#### [영상 90.5.15.a122. `Tab`키로 독(Dock) 안에서 기능 버튼 순회하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-15-dock.html#%EC%98%81%EC%83%81-90515a122-tab%ED%82%A4%EB%A1%9C-%EB%8F%85dock-%EC%95%88%EC%97%90%EC%84%9C-%EA%B8%B0%EB%8A%A5-%EB%B2%84%ED%8A%BC-%EC%88%9C%ED%9A%8C%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/004ab1c2-af3b-478f-a04b-12bda0ea5b73"></video>
 
 ***
