@@ -7,7 +7,7 @@
 #### 그림 90.1.10.2.a1. `창` → `도킹가능한 대화` (Windows)
 ![그림 90.1.10.2.a1. 창 - 도킹가능한 대화 (Windows)](https://github.com/wonder13662/gimp/assets/15767104/2a664a57-69e3-4890-86c2-400a912ecb2b)
 
-[3.2.3.1. 대화 상자 위치 변경하기 - ]()
+[3.2.3.1. 대화 상자 위치 변경하기 - 그림 90.1.10.2.a1. `창` → `도킹가능한 대화` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-01-organizing-dialogs.html#%EA%B7%B8%EB%A6%BC-901102a1-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94-windows)
 
 #### 그림 90.1.10.2.a2. `창` → `도킹가능한 대화` (Mac)
 ![그림 90.1.10.2.a2. 창 - 도킹가능한 대화 (Mac)](https://github.com/wonder13662/gimp/assets/15767104/1d43d891-4ae0-48f7-9b14-e29df79867f2)

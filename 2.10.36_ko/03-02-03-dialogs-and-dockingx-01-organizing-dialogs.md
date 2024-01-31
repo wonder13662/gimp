@@ -34,10 +34,10 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 ## 3.2.3.1.6. 독에 보여지는 대화상자 설정하기
 `창` → `도킹가능한 대화` 메뉴에 도킹을 할 수 있는 대화상자 목록이 있습니다. 
 
-#### 그림 90.1.10.2.a1. `창` → `도킹가능한 대화` (Windows)
-![그림 90.1.10.2.a1. 창 - 도킹가능한 대화 (Windows)](https://github.com/wonder13662/gimp/assets/15767104/2a664a57-69e3-4890-86c2-400a912ecb2b)
+#### [그림 90.1.10.2.a1. `창` → `도킹가능한 대화` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogs.html#%EA%B7%B8%EB%A6%BC-901102a1-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94-windows)
+[![그림 90.1.10.2.a1. 창 - 도킹가능한 대화 (Windows)](https://github.com/wonder13662/gimp/assets/15767104/2a664a57-69e3-4890-86c2-400a912ecb2b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogs.html#%EA%B7%B8%EB%A6%BC-901102a1-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94-windows)
 
-[다른 운영체제와 언어의 `도킹가능한 대화` 확인하기]()
+[다른 운영체제와 언어의 `도킹가능한 대화` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogs.html#%EA%B7%B8%EB%A6%BC-901102a1-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94-windows)
 
 이 목록에서 원하는 대화상자를 선택하면 해당 대화상자가 표시됩니다. 선택한 대화상자가 이미 독(dock)안에 포함되어 있으면 해당 대화 상자를 활성화시키고, 없으면 창 모드에 따라 다음과 같이 동작합니다. 
 
