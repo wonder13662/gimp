@@ -10,8 +10,8 @@
 # 3.4.5.1. 이미지 잘라내기 메뉴 사용하기
 이런 경우를 위한 잘라내기 도구를 사용하려면 도구 상자에 있는 아이콘을 누르거나, 이미지 창의 메뉴 모음에서 `도구` → `변형 도구` → `잘라내기`를 선택합니다. 그러면 마우스 커서가 사각형 모양으로 바뀌면서 이미지를 잘라낼 수 있게 됩니다.
 
-#### 그림 90.1.10.a201. 이미지 메뉴 바(Image menu bar)의 도구 옵션(Tool Options) 메뉴 (Windows)
-![그림 90.1.10.a201. 이미지 메뉴 바(Image menu bar)의 도구 옵션(Tool Options) 메뉴 (Windows)](https://github.com/wonder13662/gimp/assets/15767104/b5d990a0-b382-402d-8de9-d9d3293bb095)
+#### [그림 90.1.10.a201. 이미지 메뉴 바(Image menu bar)의 도구 옵션(Tool Options) 메뉴 (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogs.html#%EA%B7%B8%EB%A6%BC-90110a201-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94image-menu-bar%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options-%EB%A9%94%EB%89%B4-windows)
+[![그림 90.1.10.a201. 이미지 메뉴 바(Image menu bar)의 도구 옵션(Tool Options) 메뉴 (Windows)](https://github.com/wonder13662/gimp/assets/15767104/b5d990a0-b382-402d-8de9-d9d3293bb095)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogs.html#%EA%B7%B8%EB%A6%BC-90110a201-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94image-menu-bar%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options-%EB%A9%94%EB%89%B4-windows)
 
 [다른 운영체제와 언어의 `잘라내기 메뉴` 확인하기]()
 
