@@ -24,13 +24,12 @@
 [3.4.5. 이미지 잘라내기](./03-04-05-crop-an-image.md)에서 다른 형태의 정보를 노출하는 것을 확인할 수 있습니다.
 
 ## 3.2.2.9.3. 상태 표시 정보 변경
-`GIMP`→ `기본 설정(Settings...)` → `이미지 창(Image Windows)` → `제목과 상태(Title & Status)`에서 상태 표시 영역에 표시되는 정보를 변경할 수 있습니다. 
+`기본 설정(Settings...)` → `이미지 창(Image Windows)` → `제목과 상태(Title & Status)`에서 상태 표시 영역에 표시되는 정보를 변경할 수 있습니다. 
 
-#### 그림 3.2.2.93. `GIMP`→ `기본 설정` → `이미지 창` → `제목과 상태`
-<img width="699" alt="이미지창-제목과상태(우리말)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0c48190f-b68f-41e4-8fcd-6728490538ed">
+#### 90.2.7.2.a1. 제목과 상태 (Title & Status) (Windows) (우리말)
+![90-02-07-image-windowx-02-tile-n-status(우리말)(windows)(compact)](https://github.com/wonder13662/gimp/assets/15767104/48ec56a1-7da9-467c-b51b-027cbfcb2823)
 
-#### 그림 3.2.2.94. `GIMP`→ `Settings...` → `Image Windows` → `Title & Status`
-<img width="699" alt="image-window-title-n-status(en)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d23da0fd-fc9d-42c1-924f-1b010df948e5">
+[다른 운영체제와 언어의 `제목과 상태` 확인하기](./90-02-07-image-windowx-02-title-n-status.md)
 
 시간이 오래 걸리는 작업을 하는 경우, 작업이 진행되는 동안 상태 표시 영역에 진행 중인 작업 내용과 진행률이 표시됩니다.
 
