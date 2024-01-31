@@ -4,3 +4,9 @@
 ### [Parent: 16.10. The "Filters" menu](./16-10-00-the-filters-menu.md)
 ### [Prev: 16.10.4. Reset all filters](./16-10-04-reset-all-filters.md)
 ### [Next: 16.10.6. The "Script-Fu" submenu](./16-10-06-the-script-fu-submenu.md)
+
+***
+
+## 관련 정보
+[Gimp-Forum.net: Debugging python-fu scripts in Windows](https://www.gimp-forum.net/Thread-Debugging-python-fu-scripts-in-Windows)
+(TODO 정리하기)
