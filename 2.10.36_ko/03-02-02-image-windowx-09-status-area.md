@@ -3,21 +3,23 @@
 # [3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
 # 3.2.2.9. 상태 표시 영역 (Status Area)
 ## 3.2.2.9.1. 상태 표시 영역의 위치
-#### 그림 3.2.2.9.a101. (9)상태 표시 영역의 위치 (다중창)
-![multi_window-focus-09-stats_area(500ms)](https://github.com/wonder13662/gimp/assets/15767104/8c55b05a-dcf0-4905-a750-3601b1a12e8b)
 
-#### 그림 3.2.2.9.a102. (9)상태 표시 영역의 위치 (단일창)
-![single_window-focus-09-status_area(500ms)](https://github.com/wonder13662/gimp/assets/15767104/f5a7b618-59ce-4c89-9539-07775d0bc6db)
+#### 그림 90.5.9.a101. (9)상태 표시 영역의 위치 (다중창)
+![그림 90.5.9.a101. (9)상태 표시 영역의 위치 (다중창)](https://github.com/wonder13662/gimp/assets/15767104/8c55b05a-dcf0-4905-a750-3601b1a12e8b)
+
+#### 그림 90.5.9.a102. (9)상태 표시 영역의 위치 (단일창)
+![그림 90.5.9.a102. (9)상태 표시 영역의 위치 (단일창)](https://github.com/wonder13662/gimp/assets/15767104/f5a7b618-59ce-4c89-9539-07775d0bc6db)
 
 상태 표시 영역은 이미지 창의 가장 아랫 부분에 있습니다. 
 
 ## 3.2.2.9.2. 상태 표시 내용
 기본적으로 상태 표시 영역에는 원본 이미지 `.xcf` 파일의 이름과 이미지의 시스템 메모리 사용량이 표시됩니다. 
-#### 그림 3.2.2.92. 이미지 창 아래의 상태 표시 영역
-<img width="451" alt="그림 3.2.2.16. 이미지 창 아래의 상태 표시 영역" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b111c3d9-ae55-4b98-91cf-651f81dbb301">
 
-#### 그림 3.2.2.92. 이미지 창 아래의 상태 표시 영역(이미지 잘라내기 시의 정보)
-<img width="720" alt="그림 3.2.2.92. 이미지 창 아래의 상태 표시 영역(이미지 잘라내기 시의 정보)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6aec1edb-2fd8-4a66-b2b2-be41480e1858">
+#### 그림 90.5.9.a111. 이미지 창 아래의 상태 표시 영역
+![그림 90.5.9.a111. 이미지 창 아래의 상태 표시 영역](https://github.com/wonder13662/gimp/assets/15767104/b111c3d9-ae55-4b98-91cf-651f81dbb301)
+
+#### 그림 90.5.9.a112. 이미지 창 아래의 상태 표시 영역(이미지 잘라내기 시의 정보)
+![그림 90.5.9.a112. 이미지 창 아래의 상태 표시 영역(이미지 잘라내기 시의 정보)](https://github.com/wonder13662/gimp/assets/15767104/6aec1edb-2fd8-4a66-b2b2-be41480e1858)
 
 [3.4.5. 이미지 잘라내기](./03-04-05-crop-an-image.md)에서 다른 형태의 정보를 노출하는 것을 확인할 수 있습니다.
 
