@@ -4,11 +4,11 @@
 # 3.2.2.12. 비활성 여백 공간 (Inactive Padding Area)
 ## 3.2.2.12.1. 비활성 여백 공간의 위치
 
-#### 그림 3.2.2.12.a101. (12)비활성 여백 공간의 위치 (다중창)
-![multi_window-focus-12-inactive_padding_area(500ms)](https://github.com/wonder13662/gimp/assets/15767104/c95c1be1-e8d2-4554-8964-2ccc6c82724e)
+#### 그림 90.5.12.a101. (12)비활성 여백 공간의 위치 (다중창)
+![그림 90.5.12.a101. (12)비활성 여백 공간의 위치 (다중창)](https://github.com/wonder13662/gimp/assets/15767104/c95c1be1-e8d2-4554-8964-2ccc6c82724e)
 
-#### 그림 3.2.2.12.a102. (12)비활성 여백 공간의 위치 (단일창)
-![single_window-focus-12-inactive_padding_area(500ms)](https://github.com/wonder13662/gimp/assets/15767104/30032212-ac30-41f7-a393-4b5474ea1766)
+#### 그림 90.5.12.a102. (12)비활성 여백 공간의 위치 (단일창)
+![그림 90.5.12.a102. (12)비활성 여백 공간의 위치 (단일창)](https://github.com/wonder13662/gimp/assets/15767104/30032212-ac30-41f7-a393-4b5474ea1766)
 
 이미지 크기가 이미지 창 (Image window)보다 작을 때, 비활성 여백 공간이 활성화된 이미지 (Image Display)로부터 분리되어 나머지 공간으로 보여집니다. 비활성 여백 공간에는 필터나 작업을 적용할 수 없습니다.
 
