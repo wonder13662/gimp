@@ -41,13 +41,13 @@
 > 파일 탐색기에서 이미지 파일을 도구 상자 창으로 끌어 놓으면, 이미지가 새 이미지 창이나 탭으로 열립니다. 
 > 이미지 파일을 레이어 대화 상자로 끌어 놓으면, 이미지가 새 레이어로 추가됩니다.
 
-#### 영상 3.2.2.1441. 이미지 드래그 앤 드랍으로 새 이미지로 열기
+#### 영상 90.99.a101. 이미지 드래그 앤 드랍으로 새 이미지로 열기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/246a2a2d-0d6e-4177-944a-ec4718341c12"></video>
 
-#### 영상 3.2.2.1442. 이미지 드래그 앤 드랍으로 새 레이어로 열기(이미지 창)
+#### 영상 90.99.a102. 이미지 드래그 앤 드랍으로 새 레이어로 열기(이미지 창)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9da97e53-6122-4dea-a711-4c63f6663345"></video>
 
-#### 영상 3.2.2.1443. 이미지 드래그 앤 드랍으로 새 레이어로 열기(레이어 대화상자)
+#### 영상 90.99.a103. 이미지 드래그 앤 드랍으로 새 레이어로 열기(레이어 대화상자)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/17c2020e-00c1-4581-823e-732a917c283d"></video>
 
 ***
