@@ -2,30 +2,40 @@
 # [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 # 90.5.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)
 
-***
+#### 그림 90.5.14.a101. (14)이미지 확대/축소 버튼의 위치 (다중창)
+![그림 90.5.14.a101. (14)이미지 확대/축소 버튼의 위치 (다중창)](https://github.com/wonder13662/gimp/assets/15767104/c9ab9f7b-64a4-4af5-9e0e-e9d3a57bd14a)
 
-## 기능이 쓰인 곳
+[3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle) - 그림 90.5.14.a101. (14)이미지 확대/축소 버튼의 위치 (다중창)]()
 
-#### [그림 3.2.2.14.a101. (14)이미지 확대/축소 버튼의 위치 (다중창)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-14-image-window-resize-toggle.html#%EA%B7%B8%EB%A6%BC-32214a101-14%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%99%95%EB%8C%80%EC%B6%95%EC%86%8C-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A4%EC%A4%91%EC%B0%BD)
-![multi_window-focus-14-image_window_resize_toggle(500ms)](https://github.com/wonder13662/gimp/assets/15767104/c9ab9f7b-64a4-4af5-9e0e-e9d3a57bd14a)
+#### 그림 90.5.14.a102. (14)이미지 확대/축소 버튼의 위치 (단일창)
+![그림 90.5.14.a102. (14)이미지 확대/축소 버튼의 위치 (단일창)](https://github.com/wonder13662/gimp/assets/15767104/f3630208-70ab-4046-b082-a916d1e1131d)
 
-#### [그림 3.2.2.14.a102. (14)이미지 확대/축소 버튼의 위치 (단일창)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-14-image-window-resize-toggle.html#%EA%B7%B8%EB%A6%BC-32214a102-14%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%99%95%EB%8C%80%EC%B6%95%EC%86%8C-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD)
-![single_window-focus-14-image_window_resize_toggle(500ms)](https://github.com/wonder13662/gimp/assets/15767104/f3630208-70ab-4046-b082-a916d1e1131d)
+[3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle) - 그림 90.5.14.a102. (14)이미지 확대/축소 버튼의 위치 (단일창)]()
 
-#### [그림 3.2.2.1421. 이미지 확대/축소 버튼 활성화(ON)와 비활성화(OFF)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-14-image-window-resize-toggle.html#%EA%B7%B8%EB%A6%BC-3221421-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%99%95%EB%8C%80%EC%B6%95%EC%86%8C-%EB%B2%84%ED%8A%BC-%ED%99%9C%EC%84%B1%ED%99%94on%EC%99%80-%EB%B9%84%ED%99%9C%EC%84%B1%ED%99%94off)
-<img width="200" alt="그림 3.2.2.1421. 이미지 확대/축소 버튼 활성화(ON)와 비활성화(OFF)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/43eb4ea5-5978-451f-ad26-676614ed0c01">
+#### 그림 90.5.14.a111. 이미지 확대/축소 버튼 활성화(ON)와 비활성화(OFF)
+![그림 90.5.14.a111. 이미지 확대/축소 버튼 활성화(ON)와 비활성화(OFF)](https://github.com/wonder13662/gimp/assets/15767104/43eb4ea5-5978-451f-ad26-676614ed0c01)
 
-#### [영상 3.2.2.1422. 이미지 확대/축소 버튼 활성화(ON)일때의 동작](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-14-image-window-resize-toggle.html#%EC%98%81%EC%83%81-3221422-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%99%95%EB%8C%80%EC%B6%95%EC%86%8C-%EB%B2%84%ED%8A%BC-%ED%99%9C%EC%84%B1%ED%99%94on%EC%9D%BC%EB%95%8C%EC%9D%98-%EB%8F%99%EC%9E%91)
+[3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle) - 그림 90.5.14.a111. 이미지 확대/축소 버튼 활성화(ON)와 비활성화(OFF)]()
+
+#### 영상 90.5.14.a112. 이미지 확대/축소 버튼 활성화(ON)일때의 동작
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0eb5ef47-cd40-4257-b15f-2fa10721a33f"></video>
 
-#### [영상 3.2.2.1422. 이미지 확대/축소 버튼 비활성화(OFF)일때의 동작](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-14-image-window-resize-toggle.html#%EC%98%81%EC%83%81-3221422-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%99%95%EB%8C%80%EC%B6%95%EC%86%8C-%EB%B2%84%ED%8A%BC-%EB%B9%84%ED%99%9C%EC%84%B1%ED%99%94off%EC%9D%BC%EB%95%8C%EC%9D%98-%EB%8F%99%EC%9E%91)
+[3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle) - 영상 90.5.14.a112. 이미지 확대/축소 버튼 활성화(ON)일때의 동작]()
+
+#### 영상 90.5.14.a113. 이미지 확대/축소 버튼 비활성화(OFF)일때의 동작
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9770cf33-e727-462c-987e-39ab3939412f"></video>
 
-#### [영상 3.2.2.1431. 이미지 창을 이미지에 맞추기 + 확대/축소 비율 고정](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-14-image-window-resize-toggle.html#%EC%98%81%EC%83%81-3221431-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%9D%84-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90-%EB%A7%9E%EC%B6%94%EA%B8%B0--%ED%99%95%EB%8C%80%EC%B6%95%EC%86%8C-%EB%B9%84%EC%9C%A8-%EA%B3%A0%EC%A0%95)
+[3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle) - 영상 90.5.14.a113. 이미지 확대/축소 버튼 비활성화(OFF)일때의 동작]()
+
+#### 영상 90.5.14.a121. 이미지 창을 이미지에 맞추기 + 확대/축소 비율 고정
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6da5f558-60c7-4535-b568-157b63a4873a"></video>
 
-#### [영상 3.2.2.1432. 이미지를 이미지 창에 맞추기 + 확대/축소 비율 변경](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-14-image-window-resize-toggle.html#%EC%98%81%EC%83%81-3221432-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%97%90-%EB%A7%9E%EC%B6%94%EA%B8%B0--%ED%99%95%EB%8C%80%EC%B6%95%EC%86%8C-%EB%B9%84%EC%9C%A8-%EB%B3%80%EA%B2%BD)
+[3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle) - 영상 90.5.14.a121. 이미지 창을 이미지에 맞추기 + 확대/축소 비율 고정]()
+
+#### 영상 90.5.14.a122. 이미지를 이미지 창에 맞추기 + 확대/축소 비율 변경
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f6358681-da56-42cd-b9c4-c1dd06420bdd"></video>
+
+[3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle) - 영상 90.5.14.a122. 이미지를 이미지 창에 맞추기 + 확대/축소 비율 변경]()
 
 ***
 
