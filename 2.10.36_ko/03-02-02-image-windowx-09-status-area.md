@@ -26,8 +26,8 @@
 ## 3.2.2.9.3. 상태 표시 정보 변경
 `기본 설정(Settings...)` → `이미지 창(Image Windows)` → `제목과 상태(Title & Status)`에서 상태 표시 영역에 표시되는 정보를 변경할 수 있습니다. 
 
-#### 90.2.7.2.a1. 제목과 상태 (Title & Status) (Windows) (우리말)
-![90-02-07-image-windowx-02-tile-n-status(우리말)(windows)(compact)](https://github.com/wonder13662/gimp/assets/15767104/48ec56a1-7da9-467c-b51b-027cbfcb2823)
+#### [90.2.7.2.a1. 제목과 상태 (Title & Status) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-07-image-windowx-02-title-n-status.html#90272a1-%EC%A0%9C%EB%AA%A9%EA%B3%BC-%EC%83%81%ED%83%9C-title--status-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-02-07-image-windowx-02-tile-n-status(우리말)(windows)(compact)](https://github.com/wonder13662/gimp/assets/15767104/48ec56a1-7da9-467c-b51b-027cbfcb2823)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-07-image-windowx-02-title-n-status.html#90272a1-%EC%A0%9C%EB%AA%A9%EA%B3%BC-%EC%83%81%ED%83%9C-title--status-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 [다른 운영체제와 언어의 `제목과 상태` 확인하기](./90-02-07-image-windowx-02-title-n-status.md)
 
