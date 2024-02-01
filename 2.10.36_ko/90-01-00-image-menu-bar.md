@@ -163,6 +163,56 @@
 ## [90.1.8. 도구(Tools)](./90-01-08-tools.md)
 [<img width="1080" alt="90.1.8. 도구(Tools)" src="https://github.com/wonder13662/gimp/assets/15767104/e7a9601b-01af-44e2-b6c4-ee512d1a884b">](./90-01-08-tools.md)
 
+[90.1.8.1. 선택도구(Selection Tools)](./90-01-08-toolsx-01-selection_tools.md)
+
+[90.1.8.2. 칠하기 도구(Paint Tools)](./90-01-08-toolsx-02-paint_tools.md)
+
+[90.1.8.3. 변형 도구(Transform Tools)](./90-01-08-toolsx-03-transform_tools.md)
+
+[90.1.8.3.1. 정렬(Align)](./90-01-08-toolsx-03-transform_toolsx-01-align.md)
+
+[90.1.8.3.2. 이동(Move)](./90-01-08-toolsx-03-transform_toolsx-02-move.md)
+
+[90.1.8.3.3. 잘라내기(Crop)](./90-01-08-toolsx-03-transform_toolsx-03-crop.md)
+
+[90.1.8.3.4. 회전(Rotate)](./90-01-08-toolsx-03-transform_toolsx-04-rotate.md)
+
+[90.1.8.3.5. 크기 조정(Scale)](./90-01-08-toolsx-03-transform_toolsx-05-scale.md)
+
+[90.1.8.3.6. 기울이기(Shear)](./90-01-08-toolsx-03-transform_toolsx-06-shear.md)
+
+[90.1.8.3.7. 원근(Perspective)](./90-01-08-toolsx-03-transform_toolsx-07-perspective.md)
+
+[90.1.8.3.8. 3차원 변형(3D Transform)](./90-01-08-toolsx-03-transform_toolsx-08-3d_transform.md)
+
+[90.1.8.3.9. 통합 변형(Unified Transform)](./90-01-08-toolsx-03-transform_toolsx-09-unified_transform.md)
+
+[90.1.8.3.10. 변형 다루기(Handle Transform)](./90-01-08-toolsx-03-transform_toolsx-10-handle_transform.md)
+
+[90.1.8.3.11. 뒤집기(Flip)](./90-01-08-toolsx-03-transform_toolsx-11-flip.md)
+
+[90.1.8.3.12. 골조 변형(Cage Transform)](./90-01-08-toolsx-03-transform_toolsx-12-cage_transform.md)
+
+[90.1.8.3.13. 워프 변형(Warp Transform)](./90-01-08-toolsx-03-transform_toolsx-13-warp_transform.md)
+
+[90.1.8.4. 경로(Paths)](./90-01-08-toolsx-04-paths.md)
+
+[90.1.8.5. 텍스트(Text)](./90-01-08-toolsx-05-text.md)
+
+[90.1.8.6. GEGL 동작(GEGL Operation)](./90-01-08-toolsx-06-gegl_operation.md)
+
+[90.1.8.7. 색상 추출(Color Picker)](./90-01-08-toolsx-07-color_picker.md)
+
+[90.1.8.8. 측정(Measure)](./90-01-08-toolsx-08-measure.md)
+
+[90.1.8.9. 확대(Zoom)](./90-01-08-toolsx-09-zoom.md)
+
+[90.1.8.10. 도구상자(Toolbox)](./90-01-08-toolsx-10-toolbox.md)
+
+[90.1.8.11. 기본색(Default Values)](./90-01-08-toolsx-11-default_values.md)
+
+[90.1.8.12. 색 바꾸기(Swap Colors)](./90-01-08-toolsx-12-swap_colors.md)
+
 ## [90.1.9. 필터(Filters)](./90-01-09-filters.md)
 [<img width="1080" alt="90.1.9. 필터(Filters)" src="https://github.com/wonder13662/gimp/assets/15767104/8aa3e45d-3325-49f6-ad23-d0e6508fa205">](./90-01-09-filters.md)
 

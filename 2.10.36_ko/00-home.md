@@ -291,11 +291,11 @@
 
 [90.1.8. 도구(Tools)](./90-01-08-tools.md)
 
-[90.1.8.1. 도구(Tools) - 선택도구(Selection tools)](./90-01-08-toolsx-01-selection_tools.md)
+[90.1.8.1. 선택도구(Selection Tools)](./90-01-08-toolsx-01-selection_tools.md)
 
-[90.1.8.2. 도구(Tools) - 칠하기 도구(Selection tools)](./90-01-08-toolsx-02-paint_tools.md)
+[90.1.8.2. 칠하기 도구(Paint Tools)](./90-01-08-toolsx-02-paint_tools.md)
 
-[90.1.8.3. 도구(Tools) - 변형 도구(Transform tools)](./90-01-08-toolsx-03-transform_tools.md)
+[90.1.8.3. 변형 도구(Transform Tools)](./90-01-08-toolsx-03-transform_tools.md)
 
 [90.1.9. 필터(Filters)](./90-01-09-filters.md)
 
