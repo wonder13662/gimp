@@ -68,13 +68,13 @@ GIMP의 실행 취소 기능으로 아주 작은 실행 취소 메모리만으�
 #### [그림 90.1.1.10.a101. `파일(File)` → `원래대로(Revert)` 메뉴의 위치](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-10-revert.html#%EA%B7%B8%EB%A6%BC-901110a101-%ED%8C%8C%EC%9D%BCfile--%EC%9B%90%EB%9E%98%EB%8C%80%EB%A1%9Crevert-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
 [![90-01-01-file-export_as(w1080)-focus-revert](https://github.com/wonder13662/gimp/assets/15767104/b7170e9a-6879-4bfc-9712-e188bf1dadec)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-10-revert.html#%EA%B7%B8%EB%A6%BC-901110a101-%ED%8C%8C%EC%9D%BCfile--%EC%9B%90%EB%9E%98%EB%8C%80%EB%A1%9Crevert-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
 
-#### [영상 90.1.1.10.a102. 바뀐 이미지의 "원래대로(Revert)"의 실행여부 확인]()
+#### [영상 90.1.1.10.a102. 바뀐 이미지의 "원래대로(Revert)"의 실행여부 확인](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-10-revert.html#%EC%98%81%EC%83%81-901110a102-%EB%B0%94%EB%80%90-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EC%9B%90%EB%9E%98%EB%8C%80%EB%A1%9Crevert%EC%9D%98-%EC%8B%A4%ED%96%89%EC%97%AC%EB%B6%80-%ED%99%95%EC%9D%B8)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/260e4946-a74b-40bc-9125-c9f9c184862c"></video>
 
 ### 3.3.1.3. 동작의 "일부분"
 어떤 도구들은 해당 도구를 사용하기 위해 복잡한 편집과정들 거쳐야 합니다. 이런 경우 그 각각의 과정들에 대해서는 실행 취소를 할 수 없고, 오직 전체 과정에 대한 실행 취소만 할 수 있습니다. 예를 들어 "가위 선택 영역 도구(scissors select)" 도구는 이미지 위의 여러 지점을 찍어 폐쇄된 경로를 만들고, 그 내부를 클릭해서 선택을 만듭니다. 이 상태에서 실행 취소를 하면 바로 직전에 한 클릭이 아닌 "가위 선택 영역 도구(scissors select)"를 시작한 처음 지점으로 돌아갑니다.
 
-#### 영상 90.1.1.10.a103. "가위 선택 영역 도구(scissors select)"의 실행 취소
+#### [영상 90.1.1.10.a103. "가위 선택 영역 도구(scissors select)"의 실행 취소](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-10-revert.html#%EC%98%81%EC%83%81-901110a103-%EA%B0%80%EC%9C%84-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD-%EB%8F%84%EA%B5%ACscissors-select%EC%9D%98-%EC%8B%A4%ED%96%89-%EC%B7%A8%EC%86%8C)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4d945d9f-f551-4056-be54-7189b72dbf77"></video>
 
 플러그인이나 스크립트로 실행된 필터나 다른 작업들 역시 GIMP에서 직접 실행된 작업들처럼 실행 취소를 할 수 있습니다. 단, 해당 플러그인이나 필터에서 김프의 실행 취소 기능을 정확히 사용했을 때만 가능합니다. 그렇지 않으면 GIMP의 실행 취소 기능과 충돌을 일으켜 해당 작업뿐만 아니라 그 전의 작업들마저도 취소할 수 없는 일이 발생될 수 있습니다. GIMP에 포함되어 배포되는 플러그인이나 스크립트를 제외한 다른 경로로 설치한 플러그인이나 스크립트의 경우에 이런 문제가 발생할 수 있습니다. 또한 코드가 정확하더라도 해당 플러그인이 동작하는 중간에 취소를 하는 경우, 실행 취소 이력에 문제가 생길 수도 있습니다. 따라서 순차적으로 진행되는 과정 중간에 종료하지 않는 것이 이러한 문제를 피하는 최선의 방법입니다.
