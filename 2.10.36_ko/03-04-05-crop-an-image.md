@@ -10,10 +10,10 @@
 # 3.4.5.1. 이미지 잘라내기 메뉴 사용하기
 이런 경우를 위한 잘라내기 도구를 사용하려면 도구 상자에 있는 아이콘을 누르거나, 이미지 창의 메뉴 모음에서 `도구` → `변형 도구` → `잘라내기`를 선택합니다. 그러면 마우스 커서가 사각형 모양으로 바뀌면서 이미지를 잘라낼 수 있게 됩니다.
 
-#### 그림 90.1.8.3.3.a101. `도구` → `변형 도구` → `잘라내기` (Windows)
-![그림 90.1.8.3.3.a101. `도구` → `변형 도구` → `잘라내기` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/df066931-8457-4197-befd-95356b2212cf)
+#### [그림 90.1.8.3.3.a101. `도구` → `변형 도구` → `잘라내기` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-03-transform_toolsx-03-crop.html#%EA%B7%B8%EB%A6%BC-901833a101-%EB%8F%84%EA%B5%AC--%EB%B3%80%ED%98%95-%EB%8F%84%EA%B5%AC--%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-windows)
+![그림 90.1.8.3.3.a101. `도구` → `변형 도구` → `잘라내기` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-03-transform_toolsx-03-crop.html#%EA%B7%B8%EB%A6%BC-901833a101-%EB%8F%84%EA%B5%AC--%EB%B3%80%ED%98%95-%EB%8F%84%EA%B5%AC--%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-windows)
 
-[다른 운영체제와 언어의 `잘라내기 메뉴` 확인하기]()
+[다른 운영체제와 언어의 `잘라내기 메뉴` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-03-transform_toolsx-03-crop.html#%EA%B7%B8%EB%A6%BC-901833a101-%EB%8F%84%EA%B5%AC--%EB%B3%80%ED%98%95-%EB%8F%84%EA%B5%AC--%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-windows)
 
 #### 그림 3.4.5.1.2. 도구 상자(Toolbox)의 잘라내기 메뉴 위치
 <img width="324" alt="그림 3.4.5.2. 도구 상자(Toolbox)의 잘라내기 메뉴 위치" src="https://github.com/wonder13662/gimp/assets/15767104/8e9db3fb-d8b3-418b-9ea4-74bef33aef62">
