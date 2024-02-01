@@ -16,9 +16,21 @@
 
 ***
 
-## 위 이미지를 사용한 곳
+## 관련 정보
 
 [3.4.4. 이미지 압축하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-04-compressing-images.html#%EA%B7%B8%EB%A6%BC-90433a101-jpeg%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0export-image-as-jpeg-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
+#### 영상 90.4.33.a201. `이미지 창에 미리 보기 표시(Show preview in image window)`
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a651f208-7406-43e3-bcf5-b89629dbf51c"></video>
+
+[3.4.4. 이미지 압축하기 - 영상 90.4.33.a201. `이미지 창에 미리 보기 표시(Show preview in image window)`]()
+
+#### 영상 90.4.33.a211. 화질 변화와 파일 크기 빠르게 보기
+<video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/a0f3f4b6-c40d-45a3-8c70-a58238efc2c1"></video>
+
+[3.4.4. 이미지 압축하기 - 영상 90.4.33.a211. 화질 변화와 파일 크기 빠르게 보기]()
+
+
 
 ***
 
