@@ -53,7 +53,7 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 
 [다른 운영체제와 언어의 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 확인하기](./90-04-33-export_image_as_jpeg.md)
 
-#### 영상 90.4.33.a201. `이미지 창에 미리 보기 표시(Show preview in image window)`
+#### [영상 90.4.33.a201. `이미지 창에 미리 보기 표시(Show preview in image window)`](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EC%98%81%EC%83%81-90433a201-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%97%90-%EB%AF%B8%EB%A6%AC-%EB%B3%B4%EA%B8%B0-%ED%91%9C%EC%8B%9Cshow-preview-in-image-window)
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a651f208-7406-43e3-bcf5-b89629dbf51c"></video>
 
 `이미지 창에 미리 보기 표시(Show preview in image window)`를 켜고 화질 변화 및 파일 크기를 확인할 수 있습니다
@@ -61,7 +61,7 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 ## 3.4.4.6. 화질 변화와 파일 크기
 여기서는 원본 `JPG` 파일을 다른 압축률로 저장하여 화질과 파일크기의 변화를 살펴봅니다.
 
-#### 영상 90.4.33.a211. 화질 변화와 파일 크기 빠르게 보기
+#### [영상 90.4.33.a211. 화질 변화와 파일 크기 빠르게 보기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EC%98%81%EC%83%81-90433a211-%ED%99%94%EC%A7%88-%EB%B3%80%ED%99%94%EC%99%80-%ED%8C%8C%EC%9D%BC-%ED%81%AC%EA%B8%B0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B3%B4%EA%B8%B0)
 <video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/a0f3f4b6-c40d-45a3-8c70-a58238efc2c1"></video>
 
 | 화질(%) | 원본 | 100 | 90 | 80 | 70 | 60 | 50 | 40 | 30 | 20 | 10 | 0 |
