@@ -6,7 +6,7 @@
 #### 그림 90.4.31.a101. `이미지 속성` 대화상자 (Windows) (우리말)
 ![그림 90.4.31.a101. `이미지 속성` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/f703fc45-fe75-4cb5-bd04-c009c145ef1e)
 
-[3.4.6. 이미지 정보 확인하기 - 그림 90.4.31.a101. `이미지 속성` 대화상자 (Windows) (우리말)]()
+[3.4.6. 이미지 정보 확인하기 - 그림 90.4.31.a101. `이미지 속성` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-06-find-info-about-your-image.html#%EA%B7%B8%EB%A6%BC-90431a101-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%86%8D%EC%84%B1-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.31.a102. `이미지 속성` 대화상자 (Windows) (영어)
 ![그림 90.4.31.a102. `이미지 속성` 대화상자 (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/850e3f00-b8d2-440e-a64b-ad73f897e807)
