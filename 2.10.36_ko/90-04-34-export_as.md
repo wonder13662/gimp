@@ -29,6 +29,11 @@
 
 [3.4.4. 이미지 압축하기 - 영상 90.4.34.a112. "파일 유형 선택(Select File Type)"의 목록 열기](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-04-compressing-images.html#%EC%98%81%EC%83%81-90434a112-%ED%8C%8C%EC%9D%BC-%EC%9C%A0%ED%98%95-%EC%84%A0%ED%83%9Dselect-file-type%EC%9D%98-%EB%AA%A9%EB%A1%9D-%EC%97%B4%EA%B8%B0)
 
+#### 영상 90.4.34.a113. 전체 과정
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/48f1ccae-f4b9-4695-b676-ab8f57c463b0"></video>
+
+[3.4.4. 이미지 압축하기 - 영상 90.4.34.a113. 전체 과정]()
+
 ***
 
 ## 다른 페이지로 가기
