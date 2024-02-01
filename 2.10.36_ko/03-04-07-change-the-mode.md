@@ -1,10 +1,10 @@
 # 3.4.7. 모드 바꾸기
 이미지는 목적에 따라 다른 형식을 가집니다. 웹사이트 등에서는 파일의 크기가 작은 것이 중요합니다. 가족사진에서는 높은 품질의 색상정보가 필요합니다. GIMP에서는 이러한 목적에 맞는 이미지 형식을 처리할 수 있습니다. GIMP에서는 세 가지 기본 모드(RGB, 그레이스케일(Grayscale), 인덱스(Indexed))를 지원합니다. 그리고 서로 다른 모드로 전환할 수 있습니다.
 
-#### 그림 90.1.5.2.a1. `이미지` → `모드` (Windows)
-![그림 90.1.5.2.a1. `이미지` → `모드` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/97db94d4-9a8b-4ab5-9ab3-5e65da6737c7)
+#### [그림 90.1.5.2.a1. `이미지` → `모드` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-05-imagex-02-mode.html#%EA%B7%B8%EB%A6%BC-90152a1-%EC%9D%B4%EB%AF%B8%EC%A7%80--%EB%AA%A8%EB%93%9C-windows)
+[![그림 90.1.5.2.a1. `이미지` → `모드` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/97db94d4-9a8b-4ab5-9ab3-5e65da6737c7)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-05-imagex-02-mode.html#%EA%B7%B8%EB%A6%BC-90152a1-%EC%9D%B4%EB%AF%B8%EC%A7%80--%EB%AA%A8%EB%93%9C-windows)
 
-[다른 운영체제와 언어의 `이미지` → `모드` 확인하기]()
+[다른 운영체제와 언어의 `이미지` → `모드` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-05-imagex-02-mode.html#%EA%B7%B8%EB%A6%BC-90152a1-%EC%9D%B4%EB%AF%B8%EC%A7%80--%EB%AA%A8%EB%93%9C-windows)
 
 ## 3.4.7.1. RGB
 기본모드로 높은 화질의 이미지가 필요할 때 사용합니다. RGB 모드에서는 수백만 개의 색상을 표시할 수 있습니다. 그리고 크기 변환, 잘라내기, 뒤집기 등 대부분의 작업 시에 사용합니다. RGB 모드는 각 픽셀이 Red, Green, Blue 세 가지 요소로 구성됩니다. 각 요소는 0-255의 값을 갖습니다. 
