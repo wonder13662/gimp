@@ -13,7 +13,7 @@
 #### [그림 90.1.10.a201. 이미지 메뉴 바(Image menu bar)의 도구 옵션(Tool Options) 메뉴 (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogs.html#%EA%B7%B8%EB%A6%BC-90110a201-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94image-menu-bar%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options-%EB%A9%94%EB%89%B4-windows)
 [![그림 90.1.10.a201. 이미지 메뉴 바(Image menu bar)의 도구 옵션(Tool Options) 메뉴 (Windows)](https://github.com/wonder13662/gimp/assets/15767104/b5d990a0-b382-402d-8de9-d9d3293bb095)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogs.html#%EA%B7%B8%EB%A6%BC-90110a201-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94image-menu-bar%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options-%EB%A9%94%EB%89%B4-windows)
 
-[다른 운영체제와 언어의 `잘라내기 메뉴` 확인하기](https://github.com/wonder13662/gimp/assets/15767104/b5d990a0-b382-402d-8de9-d9d3293bb095)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogs.html#%EA%B7%B8%EB%A6%BC-90110a201-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94image-menu-bar%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options-%EB%A9%94%EB%89%B4-windows)
+[다른 운영체제와 언어의 `잘라내기 메뉴` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogs.html#%EA%B7%B8%EB%A6%BC-90110a201-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94image-menu-bar%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options-%EB%A9%94%EB%89%B4-windows)
 
 #### 그림 3.4.5.1.2. 도구 상자(Toolbox)의 잘라내기 메뉴 위치
 <img width="324" alt="그림 3.4.5.2. 도구 상자(Toolbox)의 잘라내기 메뉴 위치" src="https://github.com/wonder13662/gimp/assets/15767104/8e9db3fb-d8b3-418b-9ea4-74bef33aef62">
