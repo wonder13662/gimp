@@ -8,7 +8,7 @@
 #### 그림 90.1.8.3.3.a101. `도구` → `변형 도구` → `잘라내기` (Windows)
 ![그림 90.1.8.3.3.a101. `도구` → `변형 도구` → `잘라내기` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/df066931-8457-4197-befd-95356b2212cf)
 
-[3.4.5. 이미지 잘라내기 - 그림 90.1.8.3.3.a101. `도구` → `변형 도구` → `잘라내기` (Windows)]()
+[3.4.5. 이미지 잘라내기 - 그림 90.1.8.3.3.a101. `도구` → `변형 도구` → `잘라내기` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-05-crop-an-image.html#%EA%B7%B8%EB%A6%BC-901833a101-%EB%8F%84%EA%B5%AC--%EB%B3%80%ED%98%95-%EB%8F%84%EA%B5%AC--%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-windows)
 
 #### 그림 90.1.8.3.3.a102. `도구` → `변형 도구` → `잘라내기` (Mac)
 ![그림 90.1.8.3.3.a102. `도구` → `변형 도구` → `잘라내기` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/c4bae211-9f6b-44de-b199-adf1c0206c0d)
