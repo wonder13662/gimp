@@ -9,7 +9,7 @@
 #### 영상 90.1.1.20.a102. 바뀐 이미지의 “이미지 닫기(Close View)”의 실행여부 확인
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/00f55691-d4a1-42d3-90a4-f3c8c75f50b3"></video>
 
-[3.3. 실행 취소하기 - 영상 90.1.1.20.a102. 바뀐 이미지의 “이미지 닫기(Close View)”의 실행여부 확인]()
+[3.3. 실행 취소하기 - 영상 90.1.1.20.a102. 바뀐 이미지의 “이미지 닫기(Close View)”의 실행여부 확인](https://wonder13662.github.io/gimp/2.10.36_ko/03-03-undoing.html#%EC%98%81%EC%83%81-901120a102-%EB%B0%94%EB%80%90-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8B%AB%EA%B8%B0close-view%EC%9D%98-%EC%8B%A4%ED%96%89%EC%97%AC%EB%B6%80-%ED%99%95%EC%9D%B8)
 
 ***
 
