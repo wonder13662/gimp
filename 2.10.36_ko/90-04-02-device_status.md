@@ -11,7 +11,7 @@
 
 [➡️ 다음: 90.4.3. 레이어(Layers)](./90-04-03-layers.md)
 
-[⬅️ 이전: 90.4.1. 도구 옵션(Tool Options)](./90-04-01-tool_options.md)
+[⬅️ 이전: 90.4.1.39. 확대/축소(Zoom)](./90-04-01-tool_optionsx-39-zoom.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

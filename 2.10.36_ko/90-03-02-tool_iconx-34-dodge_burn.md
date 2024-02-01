@@ -11,7 +11,7 @@
 
 [➡️ 다음: 90.3.2.35. 도구 아이콘(Tool icon) - 경로(Paths)](./90-03-02-tool_iconx-35-paths.md)
 
-[⬅️ 이전: 90.3.2.33. 도구 아이콘(Tool icon) - 흐릿하게/선명하게(blur/sharpen)](./90-03-02-tool_iconx-33-blur_sharpen.md)
+[⬅️ 이전: 90.3.2.33. 도구 아이콘(Tool icon) - 흐릿하게/선명하게(Blur/Sharpen)](./90-03-02-tool_iconx-33-blur_sharpen.md)
 
 [⬆️ 위: 90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
 

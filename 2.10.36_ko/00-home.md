@@ -529,7 +529,7 @@
 
 [90.3.2.32. 도구 아이콘(Tool icon) - 문지르기(Smudge)](./90-03-02-tool_iconx-32-smudge.md)
 
-[90.3.2.33. 도구 아이콘(Tool icon) - 흐릿하게/선명하게(blur/sharpen)](./90-03-02-tool_iconx-33-blur_sharpen.md)
+[90.3.2.33. 도구 아이콘(Tool icon) - 흐릿하게/선명하게(Blur/Sharpen)](./90-03-02-tool_iconx-33-blur_sharpen.md)
 
 [90.3.2.34. 도구 아이콘(Tool icon) - 닷지/번(Dodge/Burn)](./90-03-02-tool_iconx-34-dodge_burn.md)
 

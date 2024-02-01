@@ -9,7 +9,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.3.2.33. 도구 아이콘(Tool icon) - 흐릿하게/선명하게(blur/sharpen)](./90-03-02-tool_iconx-33-blur_sharpen.md)
+[➡️ 다음: 90.3.2.33. 도구 아이콘(Tool icon) - 흐릿하게/선명하게(Blur/Sharpen)](./90-03-02-tool_iconx-33-blur_sharpen.md)
 
 [⬅️ 이전: 90.3.2.31. 도구 아이콘(Tool icon) - 힐링(Healing)](./90-03-02-tool_iconx-31-healing.md)
 

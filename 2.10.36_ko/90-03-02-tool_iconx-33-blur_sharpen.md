@@ -1,6 +1,6 @@
 # [90. 이미지 맵](./90-00-image-map.md)
 # [90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
-# 90.3.2.33. 도구 아이콘(Tool icon) - 흐릿하게/선명하게(blur/sharpen)
+# 90.3.2.33. 도구 아이콘(Tool icon) - 흐릿하게/선명하게(Blur/Sharpen)
 
 #### 그림 90.3.2.33.a1. 도구상자의 '흐릿하게/선명하게'의 도구옵션
 <img width="1080" alt="그림 90.3.2.33.a1. 도구상자의 '흐릿하게/선명하게'의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/1bdb3e8c-85fc-4522-b84d-37609ce03dae">
