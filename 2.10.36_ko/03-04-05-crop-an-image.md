@@ -15,13 +15,13 @@
 
 [다른 운영체제와 언어의 `잘라내기 메뉴` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-03-transform_toolsx-03-crop.html#%EA%B7%B8%EB%A6%BC-901833a101-%EB%8F%84%EA%B5%AC--%EB%B3%80%ED%98%95-%EB%8F%84%EA%B5%AC--%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-windows)
 
-#### 그림 90.3.2.10.a2. 도구 상자(Toolbox)의 잘라내기 메뉴 위치
-![그림 90.3.2.10.a2. 도구 상자(Toolbox)의 잘라내기 메뉴 위치](https://github.com/wonder13662/gimp/assets/15767104/8e9db3fb-d8b3-418b-9ea4-74bef33aef62)
+#### [그림 90.3.2.10.a2. 도구 상자(Toolbox)의 잘라내기 메뉴 위치](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-10-crop.html#%EA%B7%B8%EB%A6%BC-903210a2-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90toolbox%EC%9D%98-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EB%A9%94%EB%89%B4-%EC%9C%84%EC%B9%98)
+[![그림 90.3.2.10.a2. 도구 상자(Toolbox)의 잘라내기 메뉴 위치](https://github.com/wonder13662/gimp/assets/15767104/8e9db3fb-d8b3-418b-9ea4-74bef33aef62)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-10-crop.html#%EA%B7%B8%EB%A6%BC-903210a2-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90toolbox%EC%9D%98-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EB%A9%94%EB%89%B4-%EC%9C%84%EC%B9%98)
 
-#### 영상 90.1.8.3.3.a203. 잘라내기 직접 해보기(이미지 메뉴 바의 잘라내기 메뉴)
+#### [영상 90.1.8.3.3.a203. 잘라내기 직접 해보기(이미지 메뉴 바의 잘라내기 메뉴)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-03-transform_toolsx-03-crop.html#%EC%98%81%EC%83%81-901833a203-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EC%A7%81%EC%A0%91-%ED%95%B4%EB%B3%B4%EA%B8%B0%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94%EC%9D%98-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EB%A9%94%EB%89%B4)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/746c7197-2b70-4ae7-a9ef-134ea29961f5"></video>
 
-#### 영상 90.3.2.10.a101. 잘라내기 직접 해보기(도구 상자(Toolbox)의 잘라내기 메뉴)
+#### [영상 90.3.2.10.a101. 잘라내기 직접 해보기(도구 상자(Toolbox)의 잘라내기 메뉴)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-10-crop.html#%EC%98%81%EC%83%81-903210a101-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EC%A7%81%EC%A0%91-%ED%95%B4%EB%B3%B4%EA%B8%B0%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90toolbox%EC%9D%98-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EB%A9%94%EB%89%B4)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/050c3adf-ee08-4376-a5f0-802e8974e265"></video>
 
 잘라내는 영역의 한쪽 끝을 클릭하고 대각선 방향으로 끌어 놓습니다. 이때 만들어지는 사각형은 나중에 조정이 가능합니다.
