@@ -19,7 +19,15 @@
 
 ## 관련 정보
 
-[3.4.4. 이미지 압축하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-04-compressing-images.html#%EA%B7%B8%EB%A6%BC-90434a101-export-as-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### 영상 90.4.34.a111. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
+<video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/7c7db0d2-fb91-4bdd-9bdc-eb29da69622e"></video>
+
+[3.4.4. 이미지 압축하기 - 영상 90.4.34.a111. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)]()
+
+#### 영상 90.4.34.a112. "파일 유형 선택(Select File Type)"의 목록 열기
+<video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/39b4460b-2c53-43d4-8f37-58eb7888b9b7"></video>
+
+[3.4.4. 이미지 압축하기 - 영상 90.4.34.a112. "파일 유형 선택(Select File Type)"의 목록 열기]()
 
 ***
 
