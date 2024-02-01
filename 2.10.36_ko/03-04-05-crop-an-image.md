@@ -29,10 +29,10 @@
 # 3.4.5.2. 이미지 잘라내기 영역 조정하기
 클릭 및 드래그 동작이 완료되면 캔버스에 이미지 잘라내기 영역의 사각형이 표시됩니다. 이 사각형 위로 마우스 커서를 옮기면 커서가 바뀝니다. 바뀐 마우스 커서로 이 사각형의 꼭짓점이나 변을 드래그하여 이 사각형을 조정할 수 있습니다.
 
-#### 그림 90.4.1.10.a201. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들
-![그림 90.4.1.10.a201. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들](https://github.com/wonder13662/gimp/assets/15767104/6aec1edb-2fd8-4a66-b2b2-be41480e1858)
+#### [그림 90.4.1.10.a201. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-10-crop.html#%EA%B7%B8%EB%A6%BC-904110a201-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EC%98%81%EC%97%AD-%EC%A1%B0%EC%A0%95%ED%95%A0-%EB%95%8C-%ED%95%A8%EA%BB%98-%EC%97%B0%EB%8F%99%EB%90%98%EC%96%B4-%ED%91%9C%EC%8B%9C%EB%90%98%EB%8A%94-%EA%B0%92%EB%93%A4)
+[![그림 90.4.1.10.a201. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들](https://github.com/wonder13662/gimp/assets/15767104/6aec1edb-2fd8-4a66-b2b2-be41480e1858)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-10-crop.html#%EA%B7%B8%EB%A6%BC-904110a201-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EC%98%81%EC%97%AD-%EC%A1%B0%EC%A0%95%ED%95%A0-%EB%95%8C-%ED%95%A8%EA%BB%98-%EC%97%B0%EB%8F%99%EB%90%98%EC%96%B4-%ED%91%9C%EC%8B%9C%EB%90%98%EB%8A%94-%EA%B0%92%EB%93%A4)
 
-#### 영상 90.4.1.10.a202. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들
+#### [영상 90.4.1.10.a202. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-10-crop.html#%EC%98%81%EC%83%81-904110a202-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EC%98%81%EC%97%AD-%EC%A1%B0%EC%A0%95%ED%95%A0-%EB%95%8C-%ED%95%A8%EA%BB%98-%EC%97%B0%EB%8F%99%EB%90%98%EC%96%B4-%ED%91%9C%EC%8B%9C%EB%90%98%EB%8A%94-%EA%B0%92%EB%93%A4)
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f71b6061-3536-4119-8e2e-6361407988df"></video>
 
 위 그림과 영상처럼 이미지 잘라내기 영역의 크기가 조정되면 치수 및 비율이 [3.2.2.9. 상태 표시 영역 (Status Area)](./03-02-02-image-windowx-09-status-area.md)에 표시됩니다. 사각형 내부를 두 번 클릭하거나 `Enter` 키를 눌러 이미지 잘라내기 작업을 완료할 수 있습니다. 이미지 잘라내기 작업에 대한 자세한 내용은 [14.4.4. 이미지 잘라내기](./14-04-04-crop.md)를 확인해 주세요.
