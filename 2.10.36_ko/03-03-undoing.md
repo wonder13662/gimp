@@ -68,7 +68,7 @@ GIMP의 실행 취소 기능으로 아주 작은 실행 취소 메모리만으�
 #### [그림 90.1.1.10.a101. `파일(File)` → `원래대로(Revert)` 메뉴의 위치](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-10-revert.html#%EA%B7%B8%EB%A6%BC-901110a101-%ED%8C%8C%EC%9D%BCfile--%EC%9B%90%EB%9E%98%EB%8C%80%EB%A1%9Crevert-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
 [![90-01-01-file-export_as(w1080)-focus-revert](https://github.com/wonder13662/gimp/assets/15767104/b7170e9a-6879-4bfc-9712-e188bf1dadec)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-10-revert.html#%EA%B7%B8%EB%A6%BC-901110a101-%ED%8C%8C%EC%9D%BCfile--%EC%9B%90%EB%9E%98%EB%8C%80%EB%A1%9Crevert-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
 
-#### 영상 90.1.1.10.a102. 바뀐 이미지의 "이미지 닫기(Close View)"의 실행여부 확인
+#### [영상 90.1.1.10.a102. 바뀐 이미지의 "이미지 닫기(Close View)"의 실행여부 확인](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-10-revert.html#%EC%98%81%EC%83%81-901110a102-%EB%B0%94%EB%80%90-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8B%AB%EA%B8%B0close-view%EC%9D%98-%EC%8B%A4%ED%96%89%EC%97%AC%EB%B6%80-%ED%99%95%EC%9D%B8)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/260e4946-a74b-40bc-9125-c9f9c184862c"></video>
 
 ### 3.3.1.3. 동작의 "일부분"
