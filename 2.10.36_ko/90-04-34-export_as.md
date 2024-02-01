@@ -32,7 +32,7 @@
 #### 영상 90.4.34.a113. 전체 과정
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/48f1ccae-f4b9-4695-b676-ab8f57c463b0"></video>
 
-[3.4.4. 이미지 압축하기 - 영상 90.4.34.a113. 전체 과정]()
+[3.4.4. 이미지 압축하기 - 영상 90.4.34.a113. 전체 과정](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-04-compressing-images.html#%EC%98%81%EC%83%81-90434a113-%EC%A0%84%EC%B2%B4-%EA%B3%BC%EC%A0%95)
 
 ***
 
