@@ -267,13 +267,13 @@
 
 [90.1.6. 레이어(Layer)](./90-01-06-layer.md)
 
-[90.1.6.1. 레이어(Layer) - 스택(Stack)](./90-01-06-layerx-01-stack.md)
+[90.1.6.1. 스택(Stack)](./90-01-06-layerx-01-stack.md)
 
-[90.1.6.2. 레이어(Layer) - 마스크(Mask)](./90-01-06-layerx-02-mask.md)
+[90.1.6.2. 마스크(Mask)](./90-01-06-layerx-02-mask.md)
 
-[90.1.6.3. 레이어(Layer) - 투명도(Transparency)](./90-01-06-layerx-03-transparency.md)
+[90.1.6.3. 투명도(Transparency)](./90-01-06-layerx-03-transparency.md)
 
-[90.1.6.4. 레이어(Layer) - 변형(Transform)](./90-01-06-layerx-04-transform.md)
+[90.1.6.4. 변형(Transform)](./90-01-06-layerx-04-transform.md)
 
 [90.1.7. 색(Colors)](./90-01-07-colors.md)
 

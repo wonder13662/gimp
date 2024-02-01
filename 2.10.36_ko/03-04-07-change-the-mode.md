@@ -22,11 +22,10 @@
 
 각 픽셀의 색상을 표현하기 위한 정보가 그다지 많지 않기 때문에, 파일 크기는 굉장히 작습니다. 그리고 가끔 여러 메뉴에서 특별한 이유없이 비활성화된 옵션이 생길 수도 있습니다. 이것은 현재 모드에서는 해당 필터나 옵션을 사용할 수 없다는 의미로, RGB 모드로 바꿈으로써 이러한 문제를 해결할 수 있습니다. 만약 그래도 활성화가 되지 않는다면, 현재 레이어에 투명한 영역이 필요한 옵션이기 때문일 수도 있습니다. 그러한 경우에는 [이미지 메뉴 바(Image Menu Bar)](./03-02-02-image-windowx-02-image-menu.md)의 `레이어` → `투명` → `알파 채널 추가` 메뉴를 통해 알파 채널을 추가해 줍니다.
 
-#### 그림 3.34.a1. 이미지 바 메뉴(Image Bar Menu)의 '알파 채널 추가(Add Alpha Chennel)' 메뉴 위치 (Windows)
-<img width="1080" alt="그림 3.34.a1. 이미지 바 메뉴(Image Bar Menu)의 '알파 채널 추가(Add Alpha Chennel)' 메뉴 위치 (Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/48331c59-e495-464e-af48-b09348024906">
+#### 그림 90.1.6.3.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)
+![그림 90.1.6.3.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3fb3ad7c-4a41-492e-9797-bed56dc9d936)
 
-#### 그림 3.34.a2. 이미지 바 메뉴(Image Bar Menu)의 '알파 채널 추가(Add Alpha Chennel)' 메뉴 위치 (Mac)
-<img width="1080" alt="그림 3.34.a2. 이미지 바 메뉴(Image Bar Menu)의 '알파 채널 추가(Add Alpha Chennel)' 메뉴 위치 (Mac)" src="https://github.com/wonder13662/gimp/assets/15767104/d3f21623-8aa0-4079-afc8-948017aad061">
+[다른 운영체제와 언어의 `색인 색상 변환` 대화상자 확인하기](./90-01-06-layerx-03-transparencyx-01-add_alpha_channel.md)
 
 GIMP는 똑똑한 내보내기 기능을 지원하기 때문에, 원하는 파일 형식으로 저장하기 전에 특정한 모드로 변환하지 않아도 알아서 변환이 됩니다.(TODO gif 이미지 변환시에 이런 사례가 보일 것 같음. 확인해보고 추가하자.)
 
