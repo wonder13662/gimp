@@ -36,10 +36,10 @@ GIMP는 이미지를 보기 좋은 크기로 엽니다. 따라서 열려고 하�
 
 이미지의 너비나 높이를 바꾸면, 이미지의 원래 배율에 맞춰 다른 부분이 자동으로 바뀝니다. 예를 들어 너비를 바꾸면 높이도 같이 바뀝니다. 
 
-#### 영상 3.4.2.4. 이미지 너비나 높이 변경시, 배율에 맞춰 다른 부분도 바뀜
+#### 영상 90.4.29.a201. 이미지 너비나 높이 변경시, 배율에 맞춰 다른 부분도 바뀜
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6314855c-937d-49b6-a60f-c21520351012"></video>
 
-#### 영상 3.4.2.5. 이미지 크기 변경
+#### 영상 90.4.29.a202. 이미지 크기 변경
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b72a1800-9efa-4bff-8ac5-7197b2161196"></video>
 
 원래 배율을 무시하고 각각 바꾸려면 [3.4.5. 이미지 잘라내기](./03-04-05-crop-an-image.md)를 참고하세요.

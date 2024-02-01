@@ -607,7 +607,7 @@
 
 [90.4.28. 상황판(Dashboard)](./90-04-28-dashboard.md)
 
-[90.4.29. 이미지 크기 조정(Scale Image)](./90-04-29-scale_image.md)
+[90.4.29. 이미지 비율 조정(Scale Image)](./90-04-29-scale_image.md)
 
 [90.4.30. 인쇄 해상도 설정(Set Image Print Resolution)](./90-04-30-set_image_print_resolution.md)
 

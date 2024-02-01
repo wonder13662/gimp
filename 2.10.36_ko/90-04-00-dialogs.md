@@ -115,7 +115,7 @@
 #### 그림 90.4.a28. 상황판(Dashboard)
 [<img width="240" alt="그림 90.4.a28. 상황판(Dashboard)" src="https://github.com/wonder13662/gimp/assets/15767104/af816df2-6864-4188-aed7-b8b5d713ee25">](./90-04-28-dashboard.md)
 
-### [90.4.29. 이미지 크기 조정(Scale Image)](./90-04-29-scale_image.md)
+### [90.4.29. 이미지 비율 조정(Scale Image)](./90-04-29-scale_image.md)
 (TODO 이미지 추가 필요)
 
 ### [90.4.30. 인쇄 해상도 설정(Set Image Print Resolution)](./90-04-30-set_image_print_resolution.md)

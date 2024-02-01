@@ -26,7 +26,7 @@
 
 [➡️ 다음: 90.4.31. 이미지 속성(Image Properties)](./90-04-31-image_properties.md)
 
-[⬅️ 이전: 90.4.29. 이미지 크기 조정(Scale Image)](./90-04-29-scale_image.md)
+[⬅️ 이전: 90.4.29. 이미지 비율 조정(Scale Image)](./90-04-29-scale_image.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 
