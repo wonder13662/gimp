@@ -47,19 +47,15 @@
 
 도구 옵션의 `고정(Fixed)`의 `종횡비(Aspect ratio)`로 설정되어 있는지 확인해 주세요. 바로 아래의 입력창에 `1:1`과 같은 종횡비(Aspect ratio)를 입력할 수 있습니다.
 
-#### 그림 3.4.5.3.a3. 이미지 잘라내기 도구 옵션(종횡비 고정)
-<img width="480" alt="그림 3.4.5.2.1. 이미지 잘라내기 도구 옵션(종횡비 고정)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ff65ca3f-a784-4ba2-a7bd-63bf0ee086c0">
-
-(TODO Windows 대화상자 추가 필요)
+#### 그림 90.4.1.10.a211. 이미지 잘라내기 도구 옵션(종횡비 고정)
+![그림 90.4.1.10.a211. 이미지 잘라내기 도구 옵션(종횡비 고정)](https://github.com/wonder13662/gimp/assets/15767104/ff65ca3f-a784-4ba2-a7bd-63bf0ee086c0)
 
 종횡비 비율을 가로모드(landscape)에서 세로모드(portrait)로 바꿀 수 있습니다. 종횡비 비율(aspect ratio)를 설정한 다음에, 이미지 잘라내기 영역 사각형의 구석을 드래그하면 새로운 종횡비 비율이 적용됩니다. 그리고 새로 드래그할 때마다 새로운 종횡비 비율을 유지합니다.
 
-#### 그림 3.4.5.3.a4. 이미지 잘라내기 도구 옵션(가로(landscape)모드, 세로(portrait)모드)
-<img width="480" alt="그림 3.4.5.2.2. 이미지 잘라내기 도구 옵션(가로(landscape)모드, 세로(portrait)모드)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0ec391d0-69d1-489a-808c-935ed4c8739a">
+#### 그림 90.4.1.10.a212. 이미지 잘라내기 도구 옵션(가로(landscape)모드, 세로(portrait)모드)
+![그림 90.4.1.10.a212. 이미지 잘라내기 도구 옵션(가로(landscape)모드, 세로(portrait)모드)](https://github.com/wonder13662/gimp/assets/15767104/0ec391d0-69d1-489a-808c-935ed4c8739a)
 
-(TODO Windows 대화상자 추가 필요)
-
-#### 영상 3.4.5.3.a5. 새로운 종횡비 비율 적용 및 유지(가로모드에서 세로모드로 바꾸기)
+#### 영상 90.4.1.10.a213. 새로운 종횡비 비율 적용 및 유지(가로모드에서 세로모드로 바꾸기)
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2710d68c-fe1f-4792-9c8d-63c6ce8e539c"></video>
 
 ***
