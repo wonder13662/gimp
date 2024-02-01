@@ -47,15 +47,15 @@
 
 도구 옵션의 `고정(Fixed)`의 `종횡비(Aspect ratio)`로 설정되어 있는지 확인해 주세요. 바로 아래의 입력창에 `1:1`과 같은 종횡비(Aspect ratio)를 입력할 수 있습니다.
 
-#### 그림 90.4.1.10.a211. 이미지 잘라내기 도구 옵션(종횡비 고정)
-![그림 90.4.1.10.a211. 이미지 잘라내기 도구 옵션(종횡비 고정)](https://github.com/wonder13662/gimp/assets/15767104/ff65ca3f-a784-4ba2-a7bd-63bf0ee086c0)
+#### [그림 90.4.1.10.a211. 이미지 잘라내기 도구 옵션(종횡비 고정)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-10-crop.html#%EA%B7%B8%EB%A6%BC-904110a211-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98%EC%A2%85%ED%9A%A1%EB%B9%84-%EA%B3%A0%EC%A0%95)
+[![그림 90.4.1.10.a211. 이미지 잘라내기 도구 옵션(종횡비 고정)](https://github.com/wonder13662/gimp/assets/15767104/ff65ca3f-a784-4ba2-a7bd-63bf0ee086c0)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-10-crop.html#%EA%B7%B8%EB%A6%BC-904110a211-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98%EC%A2%85%ED%9A%A1%EB%B9%84-%EA%B3%A0%EC%A0%95)
 
 종횡비 비율을 가로모드(landscape)에서 세로모드(portrait)로 바꿀 수 있습니다. 종횡비 비율(aspect ratio)를 설정한 다음에, 이미지 잘라내기 영역 사각형의 구석을 드래그하면 새로운 종횡비 비율이 적용됩니다. 그리고 새로 드래그할 때마다 새로운 종횡비 비율을 유지합니다.
 
-#### 그림 90.4.1.10.a212. 이미지 잘라내기 도구 옵션(가로(landscape)모드, 세로(portrait)모드)
-![그림 90.4.1.10.a212. 이미지 잘라내기 도구 옵션(가로(landscape)모드, 세로(portrait)모드)](https://github.com/wonder13662/gimp/assets/15767104/0ec391d0-69d1-489a-808c-935ed4c8739a)
+#### [그림 90.4.1.10.a212. 이미지 잘라내기 도구 옵션(가로(landscape)모드, 세로(portrait)모드)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-10-crop.html#%EA%B7%B8%EB%A6%BC-904110a212-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98%EA%B0%80%EB%A1%9Clandscape%EB%AA%A8%EB%93%9C-%EC%84%B8%EB%A1%9Cportrait%EB%AA%A8%EB%93%9C)
+[![그림 90.4.1.10.a212. 이미지 잘라내기 도구 옵션(가로(landscape)모드, 세로(portrait)모드)](https://github.com/wonder13662/gimp/assets/15767104/0ec391d0-69d1-489a-808c-935ed4c8739a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-10-crop.html#%EA%B7%B8%EB%A6%BC-904110a212-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98%EA%B0%80%EB%A1%9Clandscape%EB%AA%A8%EB%93%9C-%EC%84%B8%EB%A1%9Cportrait%EB%AA%A8%EB%93%9C)
 
-#### 영상 90.4.1.10.a213. 새로운 종횡비 비율 적용 및 유지(가로모드에서 세로모드로 바꾸기)
+#### [영상 90.4.1.10.a213. 새로운 종횡비 비율 적용 및 유지(가로모드에서 세로모드로 바꾸기)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-10-crop.html#%EC%98%81%EC%83%81-904110a213-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%A2%85%ED%9A%A1%EB%B9%84-%EB%B9%84%EC%9C%A8-%EC%A0%81%EC%9A%A9-%EB%B0%8F-%EC%9C%A0%EC%A7%80%EA%B0%80%EB%A1%9C%EB%AA%A8%EB%93%9C%EC%97%90%EC%84%9C-%EC%84%B8%EB%A1%9C%EB%AA%A8%EB%93%9C%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2710d68c-fe1f-4792-9c8d-63c6ce8e539c"></video>
 
 ***
