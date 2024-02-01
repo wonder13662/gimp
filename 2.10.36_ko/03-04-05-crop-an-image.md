@@ -40,11 +40,11 @@
 # 3.4.5.3. 이미지 잘라내기 도구 옵션
 가로, 세로 비율, 예를 들어 정사각형으로 이미지를 자르려면 이미지 잘라내기 [12.1.7. 도구 옵션(Tool Options)](./12-01-07-tool-options.md)에서 비율을 설정할 수 있습니다. 도구 옵션이 보이지 않는다면, 이미지 메뉴 바(Image menu bar)의 `창(Windows)` → `도킹가능한 대화(Dockable Dialogs)` → `도구 옵션(Tool Options)`으로 도구 옵션을 불러올 수 있습니다. 
 
-#### 그림 3.4.5.3.a1. 이미지 메뉴 바(Image menu bar)의 도구 옵션(Tool Options) 메뉴 (Windows)
-<img width="1080" alt="그림 3.4.5.3.a1. 이미지 메뉴 바(Image menu bar)의 도구 옵션(Tool Options) 메뉴 (Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/b5d990a0-b382-402d-8de9-d9d3293bb095">
+#### 그림 90.1.10.2.1.a101. `창` → `도킹가능한 대화` → `도구 옵션` (Windows)
+![그림 90.1.10.2.1.a101. `창` → `도킹가능한 대화` → `도구 옵션` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/b5d990a0-b382-402d-8de9-d9d3293bb095)
 
-#### 그림 3.4.5.3.a2. 이미지 메뉴 바(Image menu bar)의 도구 옵션(Tool Options) 메뉴 (Mac)
-<img width="1080" alt="그림 3.4.5.3.a2. 이미지 메뉴 바(Image menu bar)의 도구 옵션(Tool Options) 메뉴 (Mac)" src="https://github.com/wonder13662/gimp/assets/15767104/7b9a6eda-355a-4fe1-8d56-d7359b00ff77">
+#### 그림 90.1.10.2.1.a102. `창` → `도킹가능한 대화` → `도구 옵션` (Mac)
+![그림 90.1.10.2.1.a102. `창` → `도킹가능한 대화` → `도구 옵션` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/7b9a6eda-355a-4fe1-8d56-d7359b00ff77)
 
 도구 옵션의 `고정(Fixed)`의 `종횡비(Aspect ratio)`로 설정되어 있는지 확인해 주세요. 바로 아래의 입력창에 `1:1`과 같은 종횡비(Aspect ratio)를 입력할 수 있습니다.
 
