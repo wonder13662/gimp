@@ -1,11 +1,10 @@
 # 3.4.7. 모드 바꾸기
 이미지는 목적에 따라 다른 형식을 가집니다. 웹사이트 등에서는 파일의 크기가 작은 것이 중요합니다. 가족사진에서는 높은 품질의 색상정보가 필요합니다. GIMP에서는 이러한 목적에 맞는 이미지 형식을 처리할 수 있습니다. GIMP에서는 세 가지 기본 모드(RGB, 그레이스케일(Grayscale), 인덱스(Indexed))를 지원합니다. 그리고 서로 다른 모드로 전환할 수 있습니다.
 
-#### 그림 3.4.7.1.a1. 이미지 바 메뉴(Image Bar Menu)의 모드(Mode) 메뉴 위치 (Windows)
-<img width="1080" alt="그림 3.4.7.1.a1. 이미지 바 메뉴(Image Bar Menu)의 모드(Mode) 메뉴 위치 (Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/ab1ee7a8-ff5e-4bba-8f1c-dde234dc1220">
+#### 그림 90.1.5.2.a1. `이미지` → `모드` (Windows)
+![그림 90.1.5.2.a1. `이미지` → `모드` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/97db94d4-9a8b-4ab5-9ab3-5e65da6737c7)
 
-#### 그림 3.4.7.1.a2. 이미지 바 메뉴(Image Bar Menu)의 모드(Mode) 메뉴 위치 (Mac)
-<img width="1080" alt="그림 3.4.7.1.a2. 이미지 바 메뉴(Image Bar Menu)의 모드(Mode) 메뉴 위치 (Mac)" src="https://github.com/wonder13662/gimp/assets/15767104/a54e8ded-c949-45cb-aa54-9cee2bbfab82">
+[다른 운영체제와 언어의 `이미지` → `모드` 확인하기]()
 
 ## 3.4.7.1. RGB
 기본모드로 높은 화질의 이미지가 필요할 때 사용합니다. RGB 모드에서는 수백만 개의 색상을 표시할 수 있습니다. 그리고 크기 변환, 잘라내기, 뒤집기 등 대부분의 작업 시에 사용합니다. RGB 모드는 각 픽셀이 Red, Green, Blue 세 가지 요소로 구성됩니다. 각 요소는 0-255의 값을 갖습니다. 
