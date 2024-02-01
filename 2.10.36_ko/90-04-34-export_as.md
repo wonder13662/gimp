@@ -22,12 +22,12 @@
 #### 영상 90.4.34.a111. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
 <video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/7c7db0d2-fb91-4bdd-9bdc-eb29da69622e"></video>
 
-[3.4.4. 이미지 압축하기 - 영상 90.4.34.a111. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)]()
+[3.4.4. 이미지 압축하기 - 영상 90.4.34.a111. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-04-compressing-images.html#%EC%98%81%EC%83%81-90434a111-export-as-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%ED%99%95%EC%9E%A5%EC%9E%90-%EB%B0%94%EA%BE%B8%EA%B8%B0%ED%8C%8C%EC%9D%BC-%ED%99%95%EC%9E%A5%EC%9E%90-%EC%A7%81%EC%A0%91%EC%9E%85%EB%A0%A5)
 
 #### 영상 90.4.34.a112. "파일 유형 선택(Select File Type)"의 목록 열기
 <video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/39b4460b-2c53-43d4-8f37-58eb7888b9b7"></video>
 
-[3.4.4. 이미지 압축하기 - 영상 90.4.34.a112. "파일 유형 선택(Select File Type)"의 목록 열기]()
+[3.4.4. 이미지 압축하기 - 영상 90.4.34.a112. "파일 유형 선택(Select File Type)"의 목록 열기](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-04-compressing-images.html#%EC%98%81%EC%83%81-90434a112-%ED%8C%8C%EC%9D%BC-%EC%9C%A0%ED%98%95-%EC%84%A0%ED%83%9Dselect-file-type%EC%9D%98-%EB%AA%A9%EB%A1%9D-%EC%97%B4%EA%B8%B0)
 
 ***
 

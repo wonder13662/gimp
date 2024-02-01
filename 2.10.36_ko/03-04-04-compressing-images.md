@@ -34,7 +34,7 @@ GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222
 ## 3.4.4.3. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
 "Export As..." 대화상자가 열리면 이름입력 필드에 기본값으로 현재 파일 이름이 이미 입력이 되어 있습니다. 파일 이름의 확장자를 지우고, `JPG`로 확장자 이름을 입력하면, GIMP는 사용자가 입력한 확장자 이름의 파일타입으로 설정합니다.
 
-#### 영상 90.4.34.a111. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
+#### [영상 90.4.34.a111. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-34-export_as.html#%EC%98%81%EC%83%81-90434a111-export-as-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%ED%99%95%EC%9E%A5%EC%9E%90-%EB%B0%94%EA%BE%B8%EA%B8%B0%ED%8C%8C%EC%9D%BC-%ED%99%95%EC%9E%A5%EC%9E%90-%EC%A7%81%EC%A0%91%EC%9E%85%EB%A0%A5)
 <video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/7c7db0d2-fb91-4bdd-9bdc-eb29da69622e"></video>
 
 ## 3.4.4.4. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 목록에서 선택)
@@ -42,7 +42,7 @@ GIMP에서 지원하는 파일 타입을 확인하기 위해 "Export As..." 대�
 
 GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 따라 달라집니다. 만약 "JPEG" 확장자가 비활성화되어 있다면, 취소한 뒤에 [3.4.7. 모드 바꾸기](./03-04-07-change-the-mode.md)의 과정을 진행해주세요. 그 이후, `내보내기(Export)` 버튼을 클릭하면 "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자를 열 수 있습니다.
 
-#### 영상 90.4.34.a112. "파일 유형 선택(Select File Type)"의 목록 열기
+#### [영상 90.4.34.a112. "파일 유형 선택(Select File Type)"의 목록 열기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-34-export_as.html#%EC%98%81%EC%83%81-90434a112-%ED%8C%8C%EC%9D%BC-%EC%9C%A0%ED%98%95-%EC%84%A0%ED%83%9Dselect-file-type%EC%9D%98-%EB%AA%A9%EB%A1%9D-%EC%97%B4%EA%B8%B0)
 <video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/39b4460b-2c53-43d4-8f37-58eb7888b9b7"></video>
 
 ## 3.4.4.5. "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자
@@ -67,7 +67,7 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 파일 크기 | 372 kB | 216 kB | 80 kB | 54 kB | 43 kB | 37 kB | 33 kB | 29 kB | 24 kB | 20 kB | 14 kB | 10 kB |
 
-#### 영상 3.4.4.6.a201. 화질 변화 타일 테이블로 한꺼번에 보기
+#### 그림 3.4.4.6.a201. 화질 변화 타일 테이블로 한꺼번에 보기
 ![sample_apple_res_table](https://github.com/wonder13662/gimp/assets/15767104/8420ad6e-cfc9-4285-b081-140375737337)
 
 #### 그림 3.4.4.a621. 화질(%): 원본(PNG), 파일크기: 372 kB
