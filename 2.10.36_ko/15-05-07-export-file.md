@@ -4,3 +4,8 @@
 ### [Parent: 15.5. Miscellaneous dialogs](./15-05-00-miscellaneous-dialogs.md)
 ### [Prev: 15.5.6. Save file](./15-05-06-save-file.md)
 ### [Next: 15.5.8. Sample points dialog](./15-05-08-sample-points-dialog.md)
+
+***
+
+## 관련 정보
+[Gimp-Forum.net: Gimp exported image gets darker](https://www.gimp-forum.net/Thread-Gimp-exported-image-gets-darker)
