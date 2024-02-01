@@ -28,8 +28,13 @@
 
 [3.4.4. 이미지 압축하기 - 영상 90.4.33.a211. 화질 변화와 파일 크기 빠르게 보기](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-04-compressing-images.html#%EC%98%81%EC%83%81-90433a211-%ED%99%94%EC%A7%88-%EB%B3%80%ED%99%94%EC%99%80-%ED%8C%8C%EC%9D%BC-%ED%81%AC%EA%B8%B0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B3%B4%EA%B8%B0)
 
-#### 영상 90.4.34.a113. 전체 과정
+#### 영상 90.4.34.a113. 'Export As...' 전체 과정
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/48f1ccae-f4b9-4695-b676-ab8f57c463b0"></video>
+
+#### 영상 90.4.33.a221. 'image-name.jpg 덮어쓰기(Overwrite image-name.jpg)' 전체 과정
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f5f165d9-dcb1-4039-81ce-cba09ed238b6"></video>
+
+[3.4.4. 이미지 압축하기 - 영상 90.4.33.a221. 전체 과정]()
 
 ***
 
