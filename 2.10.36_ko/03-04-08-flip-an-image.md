@@ -6,26 +6,26 @@
 
 [다른 운영체제와 언어의 `도구` → `변형 도구` → `뒤집기` 확인하기](./90-01-08-toolsx-03-transform_toolsx-11-flip.md)
 
-#### 그림 3.4.8.1. 도구상자(Toolbox)의 뒤집기(Flip) 버튼
-<img width="324" alt="그림 90.3.a215. 도구상자에서 뒤집기(Flip) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/8f63d644-7b1d-4ebb-9191-3d5583dc2cb7">
+#### 그림 90.3.2.15.a2. 도구상자(Toolbox)의 뒤집기(Flip) 버튼
+![그림 90.3.2.15.a2. 도구상자(Toolbox)의 뒤집기(Flip) 버튼](https://github.com/wonder13662/gimp/assets/15767104/8f63d644-7b1d-4ebb-9191-3d5583dc2cb7)
 
 도구상자에서 "뒤집기" 도구를 선택한 다음에 캔버스의 안쪽을 클릭합니다. 도구 옵션(Tool Options) 안의 방향(direction)의 가로모드(Horizontal)와 세로모드(Vertical)를 선택해서 뒤집기의 방향을 바꿀 수 있습니다.
 
-#### 그림 3.4.8.2. 도구 옵션(Tool Options) 안의 가로모드(Horizontal)와 세로모드(Vertical)
-<img width="1080" alt="그림 3.35. 이미지 메뉴 바의 뒤집기(Flip) 메뉴" src="https://github.com/wonder13662/gimp/assets/15767104/8efa0cb3-dadf-4625-bf39-543a3a0058d3">
+#### 그림 90.4.1.15.a201. 도구 옵션(Tool Options) 안의 가로모드(Horizontal)와 세로모드(Vertical)
+![그림 90.4.1.15.a201. 도구 옵션(Tool Options) 안의 가로모드(Horizontal)와 세로모드(Vertical)](https://github.com/wonder13662/gimp/assets/15767104/8efa0cb3-dadf-4625-bf39-543a3a0058d3)
 
 기본 설정으로 사용하면 이미지의 좌우가 뒤집힙니다. 위아래로 뒤집기를 하려면 도구 옵션에서 "Vertical"을 클릭합니다. 
 
 ## 3.4.8.1. 도구 옵션이 없는 경우
 도구 옵션이 없는 경우, 도구 상자에서 뒤집기 버튼을 더블 클릭하면 도구옵션 대화상자가 나옵니다.
 
-#### 영상 3.4.8.1.1. 도구 옵션(Tool Options)없는 경우에 더블클릭
+#### 영상 90.4.1.15.a202. 도구 옵션(Tool Options)없는 경우에 더블클릭
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/57e9252a-3f44-4cdf-b6a7-6affe85c7834"></video>
 
 ## 3.4.8.2. 단축키로 가로모드(Horizontal), 세로모드(Vertical) 바꾸기
 Ctrl(Windows) or ⌘(Mac)을 누른 채로 유지하면 방향(direction)이 세로모드(Vertical)로 바뀝니다. Ctrl(Windows) or ⌘(Mac)을 떼면 가로모드(Horizontal)로 다시 바뀝니다.
 
-#### 영상 3.4.8.2.1. 단축키로 뒤집기의 방향바꾸기
+#### 영상 90.4.1.15.a203. 단축키로 뒤집기의 방향바꾸기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1ccc9fd8-682e-4755-8a0b-db3998ccdc99"></video>
 
 ***
