@@ -38,8 +38,8 @@
 ### 3.4.10.0.3. 전경 선택(The "Foreground Select Tool")
 선택 영역을 전경색(Foreground color) 혹은 배경색(Background color)로 나타내고, 선택영역을 정교하게 개선합니다. 상세한 내용은 [14.2.8. 물체 선택 도구](./14-02-08-foreground-select.md)을 참고해주세요. (TODO 번역한 내용이 매끄럽지 않은 것 같다. 혹은 맞지 않을 수도 있다. 상세 내용을 번역한 뒤에 다시 고쳐보자)
 
-#### 그림 90.3.2.7.a2. 도구상자 - 전경 선택
-![그림 90.3.2.7.a2. 도구상자 - 전경 선택](https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21)
+#### [그림 90.3.2.7.a2. 도구상자 - 전경 선택](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-07-foreground_select.html#%EA%B7%B8%EB%A6%BC-90327a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%A0%84%EA%B2%BD-%EC%84%A0%ED%83%9D)
+[![그림 90.3.2.7.a2. 도구상자 - 전경 선택](https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-07-foreground_select.html#%EA%B7%B8%EB%A6%BC-90327a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%A0%84%EA%B2%BD-%EC%84%A0%ED%83%9D)
 
 #### [그림 90.1.8.1.4.a101.`도구` → `선택도구` → `전경 선택` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-04-foreground_select.html#%EA%B7%B8%EB%A6%BC-901814a101%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D%EB%8F%84%EA%B5%AC--%EC%A0%84%EA%B2%BD-%EC%84%A0%ED%83%9D-windows)
 [![그림 90.1.8.1.4.a101.`도구` → `선택도구` → `전경 선택` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/7c56969f-2f81-4f34-93c9-0259b5e6da5e)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-04-foreground_select.html#%EA%B7%B8%EB%A6%BC-901814a101%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D%EB%8F%84%EA%B5%AC--%EC%A0%84%EA%B2%BD-%EC%84%A0%ED%83%9D-windows)
