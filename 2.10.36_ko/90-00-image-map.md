@@ -130,6 +130,18 @@
 
 [90.1.5.5. 변형(Transform)](./90-01-05-imagex-05-transform.md)
 
+[90.1.5.5.1. 수평 뒤집기(Flip Horizontally)](./90-01-05-imagex-05-transformx-01-flip_horizontally.md)
+
+[90.1.5.5.2. 수직 뒤집기(Flip Vertically)](./90-01-05-imagex-05-transformx-02-flip_vertically.md)
+
+[90.1.5.5.3. 시계방향으로 90도 회전(Rotate 90° clockwise)](./90-01-05-imagex-05-transformx-03-rotate_90_clockwise.md)
+
+[90.1.5.5.4. 시계 반대방향으로 90도 회전(Rotate 90° counter-clockwise)](./90-01-05-imagex-05-transformx-04-rotate_90_counter_clockwise.md)
+
+[90.1.5.5.5. 180도 회전(Rotate 180°)](./90-01-05-imagex-05-transformx-05-rotate_180.md)
+
+[90.1.5.5.6. 임의 각도 회전(Arbitrary Rotation)](./90-01-05-imagex-05-transformx-06-arbitrary_rotation.md)
+
 [90.1.5.6. 캔버스 크기(Canvas Size)](./90-01-05-imagex-06-canvas_size.md)
 
 [90.1.5.7. 캔버스 크기를 레이어에 맞춥니다(Fit Canvas to Layers)](./90-01-05-imagex-07-fit_canvas_to_layers.md)
