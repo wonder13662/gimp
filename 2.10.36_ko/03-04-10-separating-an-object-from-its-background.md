@@ -10,15 +10,15 @@
 #### [그림 90.3.2.5.a2. 도구상자 - 자유 선택 도구(올가미)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-05-free_select.html#%EA%B7%B8%EB%A6%BC-90325a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%9E%90%EC%9C%A0-%EC%84%A0%ED%83%9D-%EB%8F%84%EA%B5%AC%EC%98%AC%EA%B0%80%EB%AF%B8)
 [![그림 90.3.2.5.a2. 도구상자 - 자유 선택 도구(올가미)](https://github.com/wonder13662/gimp/assets/15767104/f0d4efd4-aee4-4af4-a282-a4d2756369fa)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-05-free_select.html#%EA%B7%B8%EB%A6%BC-90325a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%9E%90%EC%9C%A0-%EC%84%A0%ED%83%9D-%EB%8F%84%EA%B5%AC%EC%98%AC%EA%B0%80%EB%AF%B8)
 
-#### 그림 90.1.8.1.3.a101. `도구` → `선택도구` → `자유 선택` (Windows)
-![그림 90.1.8.1.3.a101. `도구` → `선택도구` → `자유 선택` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/0e52854b-a1bb-44b9-80e5-5fbf63bb586c)
+#### [그림 90.1.8.1.3.a101. `도구` → `선택도구` → `자유 선택` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-03-free_select.html#%EA%B7%B8%EB%A6%BC-901813a101%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D%EB%8F%84%EA%B5%AC--%EC%9E%90%EC%9C%A0-%EC%84%A0%ED%83%9D-windows)
+[![그림 90.1.8.1.3.a101. `도구` → `선택도구` → `자유 선택` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/0e52854b-a1bb-44b9-80e5-5fbf63bb586c)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-03-free_select.html#%EA%B7%B8%EB%A6%BC-901813a101%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D%EB%8F%84%EA%B5%AC--%EC%9E%90%EC%9C%A0-%EC%84%A0%ED%83%9D-windows)
 
-[다른 운영체제와 언어의 `도구` → `선택도구` → `자유 선택` 확인하기]()
+[다른 운영체제와 언어의 `도구` → `선택도구` → `자유 선택` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-03-free_select.html#%EA%B7%B8%EB%A6%BC-901813a101%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D%EB%8F%84%EA%B5%AC--%EC%9E%90%EC%9C%A0-%EC%84%A0%ED%83%9D-windows)
 
-#### 영상 90.3.2.6.a2. 자유 선택 도구(올가미) 사용하기 - 자유롭게 그리기
+#### 영상 90.3.2.5.a2. 자유 선택 도구(올가미) 사용하기 - 자유롭게 그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fa4089d6-4cff-4b95-9a37-b38ce28e642a"></video>
 
-#### 영상 90.3.2.6.a3. 자유 선택 도구(올가미) 사용하기 - 직선으로 그리기
+#### 영상 90.3.2.5.a3. 자유 선택 도구(올가미) 사용하기 - 직선으로 그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/65c479b4-d623-434a-a094-f5b8283e9e1a"></video>
 
 ### 3.4.10.0.2. 똑똑한 가위(Intelligent Scissors Select Tool)

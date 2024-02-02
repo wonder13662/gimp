@@ -7,6 +7,8 @@
 #### 그림 90.1.8.1.3.a101.`도구` → `선택도구` → `자유 선택` (Windows)
 ![그림 90.1.8.1.3.a101.`도구` → `선택도구` → `자유 선택` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/0e52854b-a1bb-44b9-80e5-5fbf63bb586c)
 
+[3.4.10. 원하는 개체만 선택하여 분리하기 - 그림 90.1.8.1.3.a101.`도구` → `선택도구` → `자유 선택` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-10-separating-an-object-from-its-background.html#%EA%B7%B8%EB%A6%BC-901813a101-%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D%EB%8F%84%EA%B5%AC--%EC%9E%90%EC%9C%A0-%EC%84%A0%ED%83%9D-windows)
+
 #### 그림 90.1.8.1.3.a102.`도구` → `선택도구` → `자유 선택` (Mac)
 ![그림 90.1.8.1.3.a102.`도구` → `선택도구` → `자유 선택` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/16017077-61dd-44b3-a4f1-63cd9a02c685)
 
