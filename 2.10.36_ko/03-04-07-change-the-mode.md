@@ -22,8 +22,8 @@
 
 각 픽셀의 색상을 표현하기 위한 정보가 그다지 많지 않기 때문에, 파일 크기는 굉장히 작습니다. 그리고 가끔 여러 메뉴에서 특별한 이유없이 비활성화된 옵션이 생길 수도 있습니다. 이것은 현재 모드에서는 해당 필터나 옵션을 사용할 수 없다는 의미로, RGB 모드로 바꿈으로써 이러한 문제를 해결할 수 있습니다. 만약 그래도 활성화가 되지 않는다면, 현재 레이어에 투명한 영역이 필요한 옵션이기 때문일 수도 있습니다. 그러한 경우에는 [이미지 메뉴 바(Image Menu Bar)](./03-02-02-image-windowx-02-image-menu.md)의 `레이어` → `투명` → `알파 채널 추가` 메뉴를 통해 알파 채널을 추가해 줍니다.
 
-#### [그림 90.1.6.3.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-07-change-the-mode.html#%EA%B7%B8%EB%A6%BC-901631a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%88%AC%EB%AA%85--%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EA%B0%80-windows)
-[![그림 90.1.6.3.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3fb3ad7c-4a41-492e-9797-bed56dc9d936)](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-07-change-the-mode.html#%EA%B7%B8%EB%A6%BC-901631a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%88%AC%EB%AA%85--%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EA%B0%80-windows)
+#### [그림 90.1.6.3.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-03-transparencyx-01-add_alpha_channel.html#%EA%B7%B8%EB%A6%BC-901631a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%88%AC%EB%AA%85--%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EA%B0%80-windows)
+[![그림 90.1.6.3.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3fb3ad7c-4a41-492e-9797-bed56dc9d936)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-03-transparencyx-01-add_alpha_channel.html#%EA%B7%B8%EB%A6%BC-901631a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%88%AC%EB%AA%85--%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EA%B0%80-windows)
 
 [다른 운영체제와 언어의 `색인 색상 변환` 대화상자 확인하기](./90-01-06-layerx-03-transparencyx-01-add_alpha_channel.md)
 
