@@ -5,6 +5,9 @@
 #### 그림 90.3.12.a1. 도구상자의 회전의 도구옵션
 <img width="1080" alt="그림 90.3.12.a1. 도구상자의 회전의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/d3c99135-bee0-4ac1-853c-2bac787859bc">
 
+#### 그림 90.3.12.a2. 도구상자 - 회전
+![그림 90.3.12.a2. 도구상자 - 회전](https://github.com/wonder13662/gimp/assets/15767104/854e08e3-561b-46af-a207-1467bb93cc1e)
+
 ***
 
 ## 다른 페이지로 가기

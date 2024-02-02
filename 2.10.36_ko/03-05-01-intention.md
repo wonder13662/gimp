@@ -33,30 +33,34 @@
 #### 그림 3.5.1.2.1. 도구상자에서 직선을 그릴 수 있는 도구들
 
 ## 3.5.1.3. 시작점 만들기
-#### 영상 3.5.1.3.1. 시작점 만들기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7c55660b-d4fc-427c-92a6-9962ada99481"></video>
 
 그리기 붓(Paintbrush)를 도구상자에서 클릭합니다. 이미지 안에 선이 시작하는 곳에 클릭합니다. 점 하나가 화면에 나타납니다. 점의 크기는 붓의 크기를 나타냅니다. 붓의 크기는 [15.3.2. 붓 대화상자](./15-03-02-brushes-dialog.md)에서 바꿀 수 있습니다. 그럼 선을 그려봅시다. Shift(Windows) or ⇧(Mac) 키를 누른채 유지합니다.
 
+#### 영상 3.5.1.3.1. 시작점 만들기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7c55660b-d4fc-427c-92a6-9962ada99481"></video>
+
 ## 3.5.1.4. 직선 그리기
-#### 영상 3.5.1.4.1. 직선 그리기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/72e358e6-e566-47e4-8ec3-e2e144c9b34c"></video>
 
 시작점을 찍은 뒤 Shift(Windows) or ⇧(Mac) 키를 누르고 있으면, 마우스 커서를 따라서 위 화면과 같이 직선이 표시됩니다. 이제 Shift(Windows) or ⇧(Mac) 키를 누른 상태로 마우스를 움직여 원하는 곳을 클릭합니다.
 
+#### 영상 3.5.1.4.1. 직선 그리기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/72e358e6-e566-47e4-8ec3-e2e144c9b34c"></video>
+
 ## 3.5.1.5. 최종 마무리
-#### 영상 3.5.1.5.1. 더 많은 직선 그리기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8df743bc-7d7b-4ebf-911f-0d9bba0ec244"></video>
 
 그리기 도구라면 직선을 그릴 수 있습니다. 직선을 그린 뒤에 직선을 더 그릴 수도 있습니다. 마지막으로 Shift(Windows) or ⇧(Mac) 키를 떼면 끝입니다. 몇가지 예제들은 [3.5.2. 예제들](./03-05-02-examples.md)에서 확인할 수 있습니다.
+
+#### 영상 3.5.1.5.1. 더 많은 직선 그리기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8df743bc-7d7b-4ebf-911f-0d9bba0ec244"></video>
 
 #### 영상 3.5.1.5.1. 직선 그리기 전체 과정
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ed80ea6a-3bf6-4900-ac2c-525109db3ee7"></video>
 
 ## 3.5.1.6. 직선 그리기 가능한 도구들 예시
 ### 3.5.1.6.1. 그리기 붓(Paintbrush)
-#### 그림 3.5.1.6.1.1. 이미지 메뉴 바(Image Menu Bar)의 그리기 붓(Paintbrush)의 위치
-<img width="480" alt="그림 3.5.1.6.1.1. 이미지 메뉴 바(Image Menu Bar)의 그리기 붓(Paintbrush)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/eab7995a-71dc-421e-902a-511f1fc1c630">
+
+#### 그림 90.1.8.2.4.a101. `도구` → `칠하기 도구` → `그리기 붓` (Windows)
+![그림 90.1.8.2.4.a101. `도구` → `칠하기 도구` → `그리기 붓` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/30393508-7903-4cfd-b3f1-79796331554a)
 
 #### 그림 3.5.1.6.1.2. 도구상자(Toolbox)의 그리기 붓(Paintbrush)의 위치
 <img width="480" alt="그림 3.5.1.6.1.2. 도구상자(Toolbox)의 그리기 붓(Paintbrush)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/abf9f233-840e-43c3-9310-187132756434">

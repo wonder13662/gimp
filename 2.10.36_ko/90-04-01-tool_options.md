@@ -77,7 +77,7 @@
 
 [90.4.1.30. 원근 복제(Perspective Clone)](./90-04-01-tool_optionsx-30-perspective_clone.md)
 
-[90.4.1.31. 힐링(Healing)](./90-04-01-tool_optionsx-31-healing.md)
+[90.4.1.31. 복원(Healing)](./90-04-01-tool_optionsx-31-healing.md)
 
 [90.4.1.32. 문지르기(Smudge)](./90-04-01-tool_optionsx-32-smudge.md)
 

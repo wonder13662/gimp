@@ -9,7 +9,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.1.31. 힐링(Healing)](./90-04-01-tool_optionsx-31-healing.md)
+[➡️ 다음: 90.4.1.31. 복원(Healing)](./90-04-01-tool_optionsx-31-healing.md)
 
 [⬅️ 이전: 90.4.1.29. 도장(Clone)](./90-04-01-tool_optionsx-29-clone.md)
 

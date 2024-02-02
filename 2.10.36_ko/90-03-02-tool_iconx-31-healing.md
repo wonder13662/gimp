@@ -1,9 +1,12 @@
 # [90. 이미지 맵](./90-00-image-map.md)
 # [90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
-# 90.3.2.31. 도구 아이콘(Tool icon) - 힐링(Healing)
+# 90.3.2.31. 도구 아이콘(Tool icon) - 복원(Healing)
 
-#### 그림 90.3.2.31.a1. 도구상자의 힐링의 도구옵션
-<img width="1080" alt="그림 90.3.2.31.a1. 도구상자의 힐링의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/d43f81e0-f9bf-4522-a676-6f98f6190f46">
+#### 그림 90.3.2.31.a1. 도구상자의 복원의 도구옵션
+<img width="1080" alt="그림 90.3.2.31.a1. 도구상자의 복원의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/d43f81e0-f9bf-4522-a676-6f98f6190f46">
+
+#### 그림 90.3.2.31.a2. 도구상자 - 복원
+![그림 90.3.2.31.a2. 도구상자 - 복원](https://github.com/wonder13662/gimp/assets/15767104/b9fafcea-e1e4-4534-b7e6-cd7eeb0617b0)
 
 ***
 

@@ -5,6 +5,9 @@
 #### 그림 90.3.2.19.a1. 도구상자의 워프 변형의 도구옵션
 <img width="1080" alt="그림 90.3.2.19.a1. 도구상자의 워프 변형의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/4b48aa28-117b-4b4a-9981-ffeb83e171bb">
 
+#### 그림 90.3.2.19.a2. 도구상자 - 워프 변형
+![그림 90.3.2.19.a2. 도구상자 - 워프 변형](https://github.com/wonder13662/gimp/assets/15767104/ac4bcc92-9d42-4f01-b72f-b18c6fc9fb57)
+
 ***
 
 ## 다른 페이지로 가기

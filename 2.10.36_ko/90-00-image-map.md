@@ -312,6 +312,34 @@
 
 [90.1.8.2. 칠하기 도구(Paint Tools)](./90-01-08-toolsx-02-paint_tools.md)
 
+[90.1.8.2.1. 영역 채우기(Bucket Fill)](./90-01-08-toolsx-02-paint_toolsx-01-bucket_fill.md)
+
+[90.1.8.2.2. 그라디언트(Gradient)](./90-01-08-toolsx-02-paint_toolsx-02-gradient.md)
+
+[90.1.8.2.3. 연필(Pencil)](./90-01-08-toolsx-02-paint_toolsx-03-pencil.md)
+
+[90.1.8.2.4. 그리기 붓(Paintbrush)](./90-01-08-toolsx-02-paint_toolsx-04-paintbrush.md)
+
+[90.1.8.2.5. 지우개(Eraser)](./90-01-08-toolsx-02-paint_toolsx-05-eraser.md)
+
+[90.1.8.2.6. 에어브러시(Airbrush)](./90-01-08-toolsx-02-paint_toolsx-06-airbrush.md)
+
+[90.1.8.2.7. 잉크(Ink)](./90-01-08-toolsx-02-paint_toolsx-07-ink.md)
+
+[90.1.8.2.8. 마이페인트 붓(MyPaint Brush)](./90-01-08-toolsx-02-paint_toolsx-08-mypaint_brush.md)
+
+[90.1.8.2.9. 도장 도구(Clone)](./90-01-08-toolsx-02-paint_toolsx-09-clone.md)
+
+[90.1.8.2.10. 복원(Heal)](./90-01-08-toolsx-02-paint_toolsx-10-heal.md)
+
+[90.1.8.2.11. 원근 복제(Perspective Clone)](./90-01-08-toolsx-02-paint_toolsx-11-perspective_clone.md)
+
+[90.1.8.2.12. 흐릿하게/선명하게(Blur/Sharpen)](./90-01-08-toolsx-02-paint_toolsx-12-blur_sharpen.md)
+
+[90.1.8.2.13. 문지르기(Smudge)](./90-01-08-toolsx-02-paint_toolsx-13-smudge.md)
+
+[90.1.8.2.14. 닷지/번(Dodge/Burn)](./90-01-08-toolsx-02-paint_toolsx-14-dodge_burn.md)
+
 [90.1.8.3. 변형 도구(Transform Tools)](./90-01-08-toolsx-03-transform_tools.md)
 
 [90.1.8.3.1. 정렬(Align)](./90-01-08-toolsx-03-transform_toolsx-01-align.md)
@@ -588,7 +616,7 @@
 
 [90.3.2.30. 도구 아이콘(Tool icon) - 원근 복제(Perspective clone)](./90-03-02-tool_iconx-30-perspective_clone.md)
 
-[90.3.2.31. 도구 아이콘(Tool icon) - 힐링(Healing)](./90-03-02-tool_iconx-31-healing.md)
+[90.3.2.31. 도구 아이콘(Tool icon) - 복원(Healing)](./90-03-02-tool_iconx-31-healing.md)
 
 [90.3.2.32. 도구 아이콘(Tool icon) - 문지르기(Smudge)](./90-03-02-tool_iconx-32-smudge.md)
 
@@ -677,7 +705,7 @@
 
 [90.4.1.30. 원근 복제(Perspective Clone)](./90-04-01-tool_optionsx-30-perspective_clone.md)
 
-[90.4.1.31. 힐링(Healing)](./90-04-01-tool_optionsx-31-healing.md)
+[90.4.1.31. 복원(Healing)](./90-04-01-tool_optionsx-31-healing.md)
 
 [90.4.1.32. 문지르기(Smudge)](./90-04-01-tool_optionsx-32-smudge.md)
 

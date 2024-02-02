@@ -2,7 +2,7 @@
 # [90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 # [90.1.8. 도구(Tools)](./90-01-08-tools.md)
 # [90.1.8.2. 칠하기 도구(Paint Tools)](./90-01-08-toolsx-02-paint_tools.md)
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 90.1.8.2.8. 마이페인트 붓(MyPaint Brush)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 (TODO 이미지 추가)
 
@@ -10,9 +10,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 90.1.8.2.9. 도장 도구(Clone)](./90-01-08-toolsx-02-paint_toolsx-09-clone.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 90.1.8.2.7. 잉크(Ink)](./90-01-08-toolsx-02-paint_toolsx-07-ink.md)
 
 [⬆️ 위: 90.1.8.2. 칠하기 도구(Paint Tools)](./90-01-08-toolsx-02-paint_tools.md)
 

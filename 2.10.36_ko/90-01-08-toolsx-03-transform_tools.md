@@ -33,7 +33,7 @@
 
 [➡️ 다음: 90.1.8.4. 경로(Paths)](./90-01-08-toolsx-04-paths.md)
 
-[⬅️ 이전: 90.1.8.2. 칠하기 도구(Paint Tools)](./90-01-08-toolsx-02-paint_tools.md)
+[⬅️ 이전: 90.1.8.2.14. 닷지/번(Dodge/Burn)](./90-01-08-toolsx-02-paint_toolsx-14-dodge_burn.md)
 
 [⬆️ 위: 90.1.8. 도구(Tools)](./90-01-08-tools.md)
 

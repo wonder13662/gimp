@@ -5,11 +5,14 @@
 #### 그림 90.3.2.30.a1. 도구상자의 원근 복제의 도구옵션
 <img width="1080" alt="그림 90.3.2.30.a1. 도구상자의 원근 복제의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/8864cfcc-027c-486b-b7ce-3a607d20e545">
 
+#### 그림 90.3.2.30.a2. 도구상자 - 원근 복제
+![그림 90.3.2.30.a2. 도구상자 - 원근 복제](https://github.com/wonder13662/gimp/assets/15767104/1bebe4c7-108c-47be-a1e8-2e6f2e93a8a9)
+
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.3.2.31. 도구 아이콘(Tool icon) - 힐링(Healing)](./90-03-02-tool_iconx-31-healing.md)
+[➡️ 다음: 90.3.2.31. 도구 아이콘(Tool icon) - 복원(Healing)](./90-03-02-tool_iconx-31-healing.md)
 
 [⬅️ 이전: 90.3.2.29. 도구 아이콘(Tool icon) - 도장(Clone)](./90-03-02-tool_iconx-29-clone.md)
 

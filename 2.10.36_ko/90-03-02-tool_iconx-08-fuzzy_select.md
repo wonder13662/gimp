@@ -5,6 +5,9 @@
 #### 그림 90.3.8.a1. 도구상자의 퍼지 선택의 도구옵션
 <img width="1080" alt="그림 90.3.8.a1. 도구상자의 퍼지 선택의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/59bfa923-2940-4687-9ca9-2aae4df010aa">
 
+#### 그림 90.3.8.a2. 도구상자 - 퍼지 선택
+![그림 90.3.8.a2. 도구상자 - 퍼지 선택](https://github.com/wonder13662/gimp/assets/15767104/9f2fad3e-18f9-43ea-a3ba-a9cb736bc1d5)
+
 ***
 
 ## 다른 페이지로 가기

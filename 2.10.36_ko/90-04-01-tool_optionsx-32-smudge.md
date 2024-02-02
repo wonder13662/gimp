@@ -11,7 +11,7 @@
 
 [➡️ 다음: 90.4.1.33. 흐릿하게/선명하게(Blur/Sharpen)](./90-04-01-tool_optionsx-33-blur_sharpen.md)
 
-[⬅️ 이전: 90.4.1.31. 힐링(Healing)](./90-04-01-tool_optionsx-31-healing.md)
+[⬅️ 이전: 90.4.1.31. 복원(Healing)](./90-04-01-tool_optionsx-31-healing.md)
 
 [⬆️ 위: 90.4.1. 도구 옵션(Tool Options)](./90-04-01-tool_options.md)
 

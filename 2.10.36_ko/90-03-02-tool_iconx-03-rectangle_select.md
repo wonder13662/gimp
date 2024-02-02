@@ -5,6 +5,9 @@
 #### 그림 90.3.3.a1. 도구상자의 사각 선택의 도구옵션
 <img width="1080" alt="그림 90.3.3.a1. 도구상자의 사각 선택의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/ea9abf7e-e1c4-4bcf-9109-57b8b1f3f97d">
 
+#### 그림 90.3.3.a2. 도구상자 - 사각 선택
+![그림 90.3.3.a2. 도구상자 - 사각 선택](https://github.com/wonder13662/gimp/assets/15767104/c5be9f26-28a5-4b98-92c3-4ae57a29580e)
+
 ***
 
 ## 다른 페이지로 가기
