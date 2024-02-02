@@ -24,15 +24,15 @@
 ### 3.4.10.0.2. 똑똑한 가위(Intelligent Scissors Select Tool)
 사용자가 경계를 자유롭게 선택하고, 개체 주변의 경계를 자동으로 인식하는 알고리즘으로 선택영역을 만듭니다. 개체가 배경과 명백하게 구분되면서 경계가 복잡한 경우에 사용합니다. 상세한 내용은 [14.2.7. 똑똑한 가위](./14-02-07-intelligent-scissors.md)를 참고해주세요. 
 
-#### 그림 90.3.2.6.a2. 도구상자 - 똑똑한 가위
-![그림 90.3.2.6.a2. 도구상자 - 똑똑한 가위](https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08)
+#### [그림 90.3.2.6.a2. 도구상자 - 똑똑한 가위](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-06-scissors_select.html#%EA%B7%B8%EB%A6%BC-90326a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%80%EC%9C%84)
+[![그림 90.3.2.6.a2. 도구상자 - 똑똑한 가위](https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-06-scissors_select.html#%EA%B7%B8%EB%A6%BC-90326a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%80%EC%9C%84)
 
-#### 그림 90.1.8.1.7.a101. `도구` → `선택 도구` → `똑똑한 가위` (Windows)
-![그림 90.1.8.1.7.a101. `도구` → `선택 도구` → `똑똑한 가위` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/c0186fc5-3219-4061-8885-751f87493a9a)
+#### [그림 90.1.8.1.7.a101. `도구` → `선택 도구` → `똑똑한 가위` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-07-intelligent_scissors.html#%EA%B7%B8%EB%A6%BC-901817a101-%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D-%EB%8F%84%EA%B5%AC--%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%80%EC%9C%84-windows)
+[![그림 90.1.8.1.7.a101. `도구` → `선택 도구` → `똑똑한 가위` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/c0186fc5-3219-4061-8885-751f87493a9a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-07-intelligent_scissors.html#%EA%B7%B8%EB%A6%BC-901817a101-%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D-%EB%8F%84%EA%B5%AC--%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%80%EC%9C%84-windows)
 
-[다른 운영체제와 언어의 `도구` → `선택 도구` → `똑똑한 가위` 확인하기]()
+[다른 운영체제와 언어의 `도구` → `선택 도구` → `똑똑한 가위` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-07-intelligent_scissors.html#%EA%B7%B8%EB%A6%BC-901817a101-%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D-%EB%8F%84%EA%B5%AC--%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%80%EC%9C%84-windows)
 
-#### 영상 90.1.8.1.7.a103. 똑똑한 가위 선택 사용
+#### [영상 90.1.8.1.7.a103. 똑똑한 가위 선택 사용](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-07-intelligent_scissors.html#%EC%98%81%EC%83%81-901817a103-%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%80%EC%9C%84-%EC%84%A0%ED%83%9D-%EC%82%AC%EC%9A%A9)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/207b3a3a-7d36-4e60-a49a-d9c3d9e23e86"></video>
 
 ### 3.4.10.0.3. 전경 선택(The "Foreground Select Tool")
