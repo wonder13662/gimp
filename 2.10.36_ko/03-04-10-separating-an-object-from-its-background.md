@@ -7,8 +7,8 @@
 ### 3.4.10.0.1. 자유 선택 도구(올가미)
 자유 선택 도구로 경계를 직접 임의로 그리거나 직선을 그릴 수 있습니다. 자유 선택 도구는 비교적 단순한 형태를 선택할 때 사용합니다. 상세한 내용은 [14.2.4. 자유 선택 도구(올가미)](./14-02-04-free-selection-lasso.md)를 참고해주세요.
 
-#### 그림 90.3.2.5.a2. 도구상자 - 자유 선택 도구(올가미)
-![그림 90.3.2.5.a2. 도구상자 - 자유 선택 도구(올가미)](https://github.com/wonder13662/gimp/assets/15767104/f0d4efd4-aee4-4af4-a282-a4d2756369fa)
+#### [그림 90.3.2.5.a2. 도구상자 - 자유 선택 도구(올가미)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-05-free_select.html#%EA%B7%B8%EB%A6%BC-90325a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%9E%90%EC%9C%A0-%EC%84%A0%ED%83%9D-%EB%8F%84%EA%B5%AC%EC%98%AC%EA%B0%80%EB%AF%B8)
+[![그림 90.3.2.5.a2. 도구상자 - 자유 선택 도구(올가미)](https://github.com/wonder13662/gimp/assets/15767104/f0d4efd4-aee4-4af4-a282-a4d2756369fa)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-05-free_select.html#%EA%B7%B8%EB%A6%BC-90325a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%9E%90%EC%9C%A0-%EC%84%A0%ED%83%9D-%EB%8F%84%EA%B5%AC%EC%98%AC%EA%B0%80%EB%AF%B8)
 
 #### 그림 3.4.10.0.1.a1. 이미지 메뉴 바 - 자유 선택 도구(올가미) (Windows)
 <img width="1080" alt="그림 3.4.10.0.1.a1. 이미지 메뉴 바 - 자유 선택 도구(올가미) (Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/0e52854b-a1bb-44b9-80e5-5fbf63bb586c">
