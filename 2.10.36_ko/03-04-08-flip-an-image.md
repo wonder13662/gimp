@@ -1,11 +1,10 @@
 # 3.4.8. 이미지 뒤집기
 이 기능은 사진 속의 사람이 다른 방향을 보고 있도록 해야 하거나, 사진의 위쪽을 아래쪽으로 바꿔야 할 때 사용합니다. [이미지 메뉴 바(Image Menu Bar)](./03-02-02-image-windowx-02-image-menu.md)의 `도구(Tools)` → `변형 도구(Transform Tools)` → `뒤집기(Flip)` 메뉴를 선택하거나 도구상자(Toolbox)의 뒤집기 버튼을 누릅니다.
 
-#### 그림 3.35.a1. 이미지 메뉴 바의 뒤집기(Flip) 메뉴 (Windows)
-<img width="1080" alt="그림 3.35.a1. 이미지 메뉴 바의 뒤집기(Flip) 메뉴 (Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/c600ff82-fda1-41f0-b5dd-2474dc062e24">
+#### 그림 90.1.8.3.11.a101. `도구` → `변형 도구` → `뒤집기` (Windows)
+![그림 90.1.8.3.11.a101. `도구` → `변형 도구` → `뒤집기` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/c600ff82-fda1-41f0-b5dd-2474dc062e24)
 
-#### 그림 3.35.a2. 이미지 메뉴 바의 뒤집기(Flip) 메뉴 (Mac)
-<img width="1080" alt="그림 3.35.a2. 이미지 메뉴 바의 뒤집기(Flip) 메뉴 (Mac)" src="https://github.com/wonder13662/gimp/assets/15767104/29aa472b-1647-4e15-b400-078b228ba664">
+[다른 운영체제와 언어의 `도구` → `변형 도구` → `뒤집기` 확인하기](./90-01-08-toolsx-03-transform_toolsx-11-flip.md)
 
 #### 그림 3.4.8.1. 도구상자(Toolbox)의 뒤집기(Flip) 버튼
 <img width="324" alt="그림 90.3.a215. 도구상자에서 뒤집기(Flip) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/8f63d644-7b1d-4ebb-9191-3d5583dc2cb7">
