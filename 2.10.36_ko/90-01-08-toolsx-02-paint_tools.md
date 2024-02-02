@@ -19,7 +19,7 @@
 
 [➡️ 다음: 90.1.8.3. 변형 도구(Transform Tools)](./90-01-08-toolsx-03-transform_tools.md)
 
-[⬅️ 이전: 90.1.8.1. 선택도구(Selection Tools)](./90-01-08-toolsx-01-selection_tools.md)
+[⬅️ 이전: 90.1.8.1.7. 똑똑한 가위(Intelligent Scissors)](./90-01-08-toolsx-01-selection_toolsx-07-intelligent_scissors.md)
 
 [⬆️ 위: 90.1.8. 도구(Tools)](./90-01-08-tools.md)
 

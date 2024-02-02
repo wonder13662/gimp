@@ -9,10 +9,23 @@
 #### 그림 90.1.8.1.a2. 도구 - 선택도구 (Mac)
 <img width="1080" alt="그림 90.1.8.1.a2. 도구 - 선택도구 (Mac)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c03fd44b-c691-4224-af7b-787a69a704f1">
 
-
 ***
 
-## 관련 정보
+## 하위 페이지
+
+[90.1.8.1.1. 사각 선택(Rectangle Select)](./90-01-08-toolsx-01-selection_toolsx-01-rectangle_select.md)
+
+[90.1.8.1.2. 타원 선택(Ellipse Select)](./90-01-08-toolsx-01-selection_toolsx-02-ellipse_select.md)
+
+[90.1.8.1.3. 자유 선택(Free Select)](./90-01-08-toolsx-01-selection_toolsx-03-free_select.md)
+
+[90.1.8.1.4. 전경 선택(Foreground Select)](./90-01-08-toolsx-01-selection_toolsx-04-foreground_select.md)
+
+[90.1.8.1.5. 퍼지 선택(Fuzzy Select)](./90-01-08-toolsx-01-selection_toolsx-05-fuzzy_select.md)
+
+[90.1.8.1.6. 색상으로 선택(By Color Select)](./90-01-08-toolsx-01-selection_toolsx-06-by_color_select.md)
+
+[90.1.8.1.7. 똑똑한 가위(Intelligent Scissors)](./90-01-08-toolsx-01-selection_toolsx-07-intelligent_scissors.md)
 
 ***
 

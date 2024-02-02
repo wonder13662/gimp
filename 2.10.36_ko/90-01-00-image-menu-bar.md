@@ -203,6 +203,20 @@
 
 [90.1.8.1. 선택도구(Selection Tools)](./90-01-08-toolsx-01-selection_tools.md)
 
+[90.1.8.1.1. 사각 선택(Rectangle Select)](./90-01-08-toolsx-01-selection_toolsx-01-rectangle_select.md)
+
+[90.1.8.1.2. 타원 선택(Ellipse Select)](./90-01-08-toolsx-01-selection_toolsx-02-ellipse_select.md)
+
+[90.1.8.1.3. 자유 선택(Free Select)](./90-01-08-toolsx-01-selection_toolsx-03-free_select.md)
+
+[90.1.8.1.4. 전경 선택(Foreground Select)](./90-01-08-toolsx-01-selection_toolsx-04-foreground_select.md)
+
+[90.1.8.1.5. 퍼지 선택(Fuzzy Select)](./90-01-08-toolsx-01-selection_toolsx-05-fuzzy_select.md)
+
+[90.1.8.1.6. 색상으로 선택(By Color Select)](./90-01-08-toolsx-01-selection_toolsx-06-by_color_select.md)
+
+[90.1.8.1.7. 똑똑한 가위(Intelligent Scissors)](./90-01-08-toolsx-01-selection_toolsx-07-intelligent_scissors.md)
+
 [90.1.8.2. 칠하기 도구(Paint Tools)](./90-01-08-toolsx-02-paint_tools.md)
 
 [90.1.8.3. 변형 도구(Transform Tools)](./90-01-08-toolsx-03-transform_tools.md)
