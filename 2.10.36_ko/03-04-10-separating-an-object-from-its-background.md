@@ -58,8 +58,8 @@
 ### 3.4.10.1.2. 배경을 단일 색상으로 채우기
 도구 상자의 전경색 미리보기를 클릭하여 원하는 색상을 선택합니다. 그리고 [14.3.4. 채우기 도구](./14-03-04-bucket-fill.md)를 이용하여 배경을 선택한 색상으로 채웁니다.
 
-#### 그림 3.4.10.1.2.1. 도구상자(Toolbox)의 채우기 도구(Bucket Fill Tool)
-<img width="480" alt="그림 3.4.10.1.2.1. 도구상자(Toolbox)의 채우기 도구(Bucket Fill Tool)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/551a8f31-e2a8-4564-8ac6-86cd6c1ea1fc">
+#### 그림 90.3.2.21.a2. 도구상자 - 영역 채우기
+![그림 90.3.2.21.a2. 도구상자 - 영역 채우기](https://github.com/wonder13662/gimp/assets/15767104/0550285d-2807-4201-87b2-77b5e8cd8278)
 
 #### 그림 3.43. 배경을 단일 색상으로 채운 결과
 <img width="480" alt="그림 3.43. 배경을 단일 색상으로 채운 결과" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3305f968-92e1-456e-abb8-49225b96e0f6">
