@@ -4,10 +4,14 @@
 이 예제에서는 GIMP에서 직선을 그리는 방법을 소개합니다. 직선을 이용하면, 마우스나 태블릿에 크게 영향받지 않으면서 상당히 깔끔하고 정돈되어 보이는 물체를 그릴 수 있습니다.
 
 ## 3.5.1.1. 새 이미지 만들기
-#### 영상 3.5.1.1.1. 새 이미지 만들기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/028b4f82-b28c-4c2d-96b3-76ab15e9c09a"></video>
 
 [이미지 메뉴 바(Image Menu Bar)](./03-02-02-image-windowx-02-image-menu.md)의 `파일(File)` → `새 이미지(New...)` 메뉴를 클릭해 새로운 이미지 창을 만듭니다.
+
+#### 그림 90.1.1.1.a101. `파일` → `새 이미지`
+![그림 90.1.1.1.a101. `파일` → `새 이미지`](https://github.com/wonder13662/gimp/assets/15767104/116f6c42-66d8-47ae-8877-9e49d80dc431)
+
+#### 영상 90.1.1.1.a111. 새 이미지 만들기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/028b4f82-b28c-4c2d-96b3-76ab15e9c09a"></video>
 
 ## 3.5.1.2. 직선을 그릴 수 있는 도구 선택하기
 아래 도구 목록들은 직선그리기가 가능합니다.
