@@ -38,13 +38,15 @@
 ### 3.4.10.0.3. 전경 선택(The "Foreground Select Tool")
 선택 영역을 전경색(Foreground color) 혹은 배경색(Background color)로 나타내고, 선택영역을 정교하게 개선합니다. 상세한 내용은 [14.2.8. 물체 선택 도구](./14-02-08-foreground-select.md)을 참고해주세요. (TODO 번역한 내용이 매끄럽지 않은 것 같다. 혹은 맞지 않을 수도 있다. 상세 내용을 번역한 뒤에 다시 고쳐보자)
 
-#### 그림 3.4.10.0.3.1. 도구상자 - 전경 선택
-<img width="720" alt="그림 3.4.10.0.3.1. 도구상자 - 전경 선택" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0ccbe838-7f02-46a1-ab31-95608b1c955c">
+#### 그림 90.3.2.7.a2. 도구상자 - 전경 선택
+![그림 90.3.2.7.a2. 도구상자 - 전경 선택](https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21)
 
-#### 그림 3.4.10.0.3.2. 이미지 메뉴 바 - 전경 선택
-<img width="720" alt="그림 3.4.10.0.3.2. 이미지 메뉴 바 - 전경 선택" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d1ae9dfd-8cee-4c4a-b15b-2d68c5ceaff9">
+#### 그림 90.1.8.1.4.a101.`도구` → `선택도구` → `전경 선택` (Windows)
+![그림 90.1.8.1.4.a101.`도구` → `선택도구` → `전경 선택` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/7c56969f-2f81-4f34-93c9-0259b5e6da5e)
 
-#### 영상 3.4.10.0.3.3. 전경 선택 사용
+[다른 운영체제와 언어의 `도구` → `선택도구` → `전경 선택` 확인하기]()
+
+#### 영상 90.1.8.1.4.a111. 전경 선택 사용
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1e7277a6-5d44-4ce8-a74d-e163c8faa259"></video>
 
 (TODO 영상이 720px 이하로 작아지면, 결과물인 선택된 영역이 보이지 않는다. 수정이 필요하다.)

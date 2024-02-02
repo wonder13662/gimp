@@ -36,7 +36,7 @@
 [<img width="324" alt="그림 90.3.a206. 도구상자에서 가위 선택(Scissors select) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08">](./90-03-02-tool_iconx-06-scissors_select.md)
 
 ## [90.3.2.7. 도구 아이콘(Tool icon) - 전경 선택(Foreground select)](./90-03-02-tool_iconx-07-foreground_select.md)
-#### 그림 90.3.a207. 도구상자에서 전경 선택(Foreground select) 아이콘이 선택된 모습
+![그림 90.3.a207. 도구상자에서 전경 선택(Foreground select) 아이콘이 선택된 모습]()
 [<img width="324" alt="그림 90.3.a207. 도구상자에서 전경 선택(Foreground select) 아이콘이 선택된 모습" src="https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21">](./90-03-02-tool_iconx-07-foreground_select.md)
 
 ## [90.3.2.8. 도구 아이콘(Tool icon) - 퍼지 선택(Fuzzy select)](./90-03-02-tool_iconx-08-fuzzy_select.md)
