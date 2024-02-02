@@ -4,7 +4,16 @@
 # [90.1.8.1. 선택도구(Selection Tools)](./90-01-08-toolsx-01-selection_tools.md)
 # 90.1.8.1.7. 똑똑한 가위(Intelligent Scissors)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+#### 그림 90.1.8.1.7.a101. `도구` → `선택 도구` → `똑똑한 가위` (Windows)
+![그림 90.1.8.1.7.a101. `도구` → `선택 도구` → `똑똑한 가위` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/c0186fc5-3219-4061-8885-751f87493a9a)
+
+[3.4.10. 원하는 개체만 선택하여 분리하기 - 그림 90.1.8.1.7.a101. `도구` → `선택 도구` → `똑똑한 가위` (Windows)]()
+
+#### 그림 90.1.8.1.7.a102. `도구` → `선택 도구` → `똑똑한 가위` (Mac)
+![그림 90.1.8.1.7.a102. `도구` → `선택 도구` → `똑똑한 가위` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/855d1bd9-f9ce-4d45-a686-d7b573a1231b)
+
+#### 영상 90.1.8.1.7.a103. 똑똑한 가위 선택 사용
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/207b3a3a-7d36-4e60-a49a-d9c3d9e23e86"></video>
 
 ***
 

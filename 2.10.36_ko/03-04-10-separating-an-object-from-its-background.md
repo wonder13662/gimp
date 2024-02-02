@@ -24,16 +24,15 @@
 ### 3.4.10.0.2. 똑똑한 가위(Intelligent Scissors Select Tool)
 사용자가 경계를 자유롭게 선택하고, 개체 주변의 경계를 자동으로 인식하는 알고리즘으로 선택영역을 만듭니다. 개체가 배경과 명백하게 구분되면서 경계가 복잡한 경우에 사용합니다. 상세한 내용은 [14.2.7. 똑똑한 가위](./14-02-07-intelligent-scissors.md)를 참고해주세요. 
 
-#### 그림 3.41. 도구상자 - 똑똑한 가위
-<img width="324" alt="그림 3.41. 도구상자 - 똑똑한 가위" src="https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08">
+#### 그림 90.3.2.6.a2. 도구상자 - 똑똑한 가위
+![그림 90.3.2.6.a2. 도구상자 - 똑똑한 가위](https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08)
 
-#### 그림 3.4.10.0.2.a1. 이미지 메뉴 바 - 똑똑한 가위 (Windows)
-<img width="1080" alt="그림 3.4.10.0.2.a1. 이미지 메뉴 바 - 똑똑한 가위 (Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/c0186fc5-3219-4061-8885-751f87493a9a">
+#### 그림 90.1.8.1.7.a101. `도구` → `선택 도구` → `똑똑한 가위` (Windows)
+![그림 90.1.8.1.7.a101. `도구` → `선택 도구` → `똑똑한 가위` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/c0186fc5-3219-4061-8885-751f87493a9a)
 
-#### 그림 3.4.10.0.2.a2. 이미지 메뉴 바 - 똑똑한 가위 (Mac)
-<img width="1080" alt="그림 3.4.10.0.2.a2. 이미지 메뉴 바 - 똑똑한 가위 (Mac)" src="https://github.com/wonder13662/gimp/assets/15767104/855d1bd9-f9ce-4d45-a686-d7b573a1231b">
+[다른 운영체제와 언어의 `도구` → `선택 도구` → `똑똑한 가위` 확인하기]()
 
-#### 영상 3.4.10.0.2.a3. 똑똑한 가위 선택 사용
+#### 영상 90.1.8.1.7.a103. 똑똑한 가위 선택 사용
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/207b3a3a-7d36-4e60-a49a-d9c3d9e23e86"></video>
 
 ### 3.4.10.0.3. 전경 선택(The "Foreground Select Tool")
