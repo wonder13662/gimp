@@ -234,6 +234,58 @@
 ## [90.1.7. 색(Colors)](./90-01-07-colors.md)
 [<img width="1080" alt="90.1.7. 색(Colors)" src="https://github.com/wonder13662/gimp/assets/15767104/42cde5a6-9f41-4765-8cb6-21b7acb1631c">](./90-01-07-colors.md)
 
+[90.1.7.1. 색상 균형(Color Balance)](./90-01-07-colorsx-01-color_balance.md)
+
+[90.1.7.2. 색 온도(Color Temperature)](./90-01-07-colorsx-02-color_temperature.md)
+
+[90.1.7.3. 색상-채도(Chroma)(Hue-Chroma)](./90-01-07-colorsx-03-hue_chroma.md)
+
+[90.1.7.4. 색상-채도(Saturation)(Hue-Saturation)](./90-01-07-colorsx-04-hue_saturation.md)
+
+[90.1.7.5. 채도(Saturation)](./90-01-07-colorsx-05-saturation.md)
+
+[90.1.7.6. 노출(Exposure)](./90-01-07-colorsx-06-exposure.md)
+
+[90.1.7.7. 그림자-강조(Shadows-Highlights)](./90-01-07-colorsx-07-shadows_highlights.md)
+
+[90.1.7.8. 명도-대비(Brightness-Contrast)](./90-01-07-colorsx-08-brightness_contrast.md)
+
+[90.1.7.9. 레벨(Levels)](./90-01-07-colorsx-09-levels.md)
+
+[90.1.7.10. 커브(Curves)](./90-01-07-colorsx-10-curves.md)
+
+[90.1.7.11. 반전(Invert)](./90-01-07-colorsx-11-invert.md)
+
+[90.1.7.12. 선형 반전(Linear Invert)](./90-01-07-colorsx-12-linear invert.md)
+
+[90.1.7.13. 명도 반전(Value Invert)](./90-01-07-colorsx-13-value invert.md)
+
+[90.1.7.14. 자동(Auto)](./90-01-07-colorsx-14-auto.md)
+
+[90.1.7.15. 성분(Components)](./90-01-07-colorsx-15-components.md)
+
+[90.1.7.16. 무채화(Desaturate)](./90-01-07-colorsx-16-desaturate.md)
+
+[90.1.7.17. 지도(Map)](./90-01-07-colorsx-17-map.md)
+
+[90.1.7.18. 톤 대응(Tone Mapping)](./90-01-07-colorsx-18-tone_mapping.md)
+
+[90.1.7.19. 정보(Info)](./90-01-07-colorsx-19-info.md)
+
+[90.1.7.20. 임계(Threshold)](./90-01-07-colorsx-20-threshold.md)
+
+[90.1.7.21. 색상화(Colorize)](./90-01-07-colorsx-21-colorize.md)
+
+[90.1.7.22. Posterize(Posterize)](./90-01-07-colorsx-22-Posterize.md)
+
+[90.1.7.23. 색상을 알파로(Color to Alpha)](./90-01-07-colorsx-23-color_to_alpha.md)
+
+[90.1.7.24. Dither(Dither)](./90-01-07-colorsx-24-dither.md)
+
+[90.1.7.25. RGB 클립(RGB Clip)](./90-01-07-colorsx-25-rgb_clip.md)
+
+[90.1.7.26. 뜨거움(Hot)](./90-01-07-colorsx-26-hot.md)
+
 ## [90.1.8. 도구(Tools)](./90-01-08-tools.md)
 [<img width="1080" alt="90.1.8. 도구(Tools)" src="https://github.com/wonder13662/gimp/assets/15767104/e7a9601b-01af-44e2-b6c4-ee512d1a884b">](./90-01-08-tools.md)
 

@@ -1,7 +1,7 @@
 # [90. 이미지 맵](./90-00-image-map.md)
 # [90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 # [90.1.7. 색(Colors)](./90-01-07-colors.md)
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 90.1.7.23. 색상을 알파로(Color to Alpha)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 (TODO 이미지 추가)
 
@@ -9,9 +9,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 90.1.7.24. Dither(Dither)](./90-01-07-colorsx-24-dither.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 90.1.7.22. Posterize(Posterize)](./90-01-07-colorsx-22-Posterize.md)
 
 [⬆️ 위: 90.1.7. 색(Colors)](./90-01-07-colors.md)
 
