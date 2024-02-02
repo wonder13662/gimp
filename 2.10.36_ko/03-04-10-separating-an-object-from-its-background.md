@@ -41,15 +41,13 @@
 #### 그림 90.3.2.7.a2. 도구상자 - 전경 선택
 ![그림 90.3.2.7.a2. 도구상자 - 전경 선택](https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21)
 
-#### 그림 90.1.8.1.4.a101.`도구` → `선택도구` → `전경 선택` (Windows)
-![그림 90.1.8.1.4.a101.`도구` → `선택도구` → `전경 선택` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/7c56969f-2f81-4f34-93c9-0259b5e6da5e)
+#### [그림 90.1.8.1.4.a101.`도구` → `선택도구` → `전경 선택` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-04-foreground_select.html#%EA%B7%B8%EB%A6%BC-901814a101%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D%EB%8F%84%EA%B5%AC--%EC%A0%84%EA%B2%BD-%EC%84%A0%ED%83%9D-windows)
+[![그림 90.1.8.1.4.a101.`도구` → `선택도구` → `전경 선택` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/7c56969f-2f81-4f34-93c9-0259b5e6da5e)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-04-foreground_select.html#%EA%B7%B8%EB%A6%BC-901814a101%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D%EB%8F%84%EA%B5%AC--%EC%A0%84%EA%B2%BD-%EC%84%A0%ED%83%9D-windows)
 
-[다른 운영체제와 언어의 `도구` → `선택도구` → `전경 선택` 확인하기]()
+[다른 운영체제와 언어의 `도구` → `선택도구` → `전경 선택` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-04-foreground_select.html#%EA%B7%B8%EB%A6%BC-901814a101%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D%EB%8F%84%EA%B5%AC--%EC%A0%84%EA%B2%BD-%EC%84%A0%ED%83%9D-windows)
 
-#### 영상 90.1.8.1.4.a111. 전경 선택 사용
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1e7277a6-5d44-4ce8-a74d-e163c8faa259"></video>
-
-(TODO 영상이 720px 이하로 작아지면, 결과물인 선택된 영역이 보이지 않는다. 수정이 필요하다.)
+#### [영상 90.1.8.1.4.a111. 전경 선택 사용](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-04-foreground_select.html#%EC%98%81%EC%83%81-901814a111-%EC%A0%84%EA%B2%BD-%EC%84%A0%ED%83%9D-%EC%82%AC%EC%9A%A9)
+<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1e7277a6-5d44-4ce8-a74d-e163c8faa259"></video>
 
 ## 3.4.10.1. 개체를 선택 영역으로 선택한 뒤
 개체를 선택 영역으로 선택한 뒤에, 이미지 메뉴 바(Image Menu Bar)의 `선택(Select)` → `반전(Invert)` 메뉴를 선택합니다. 그러면 개체 대신에 배경이 선택됩니다. 선택된 배경으로 여러가지 작업을 해볼 수 있습니다.
