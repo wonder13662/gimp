@@ -52,13 +52,13 @@
 ## 3.4.10.1. 개체를 선택 영역으로 선택한 뒤
 개체를 선택 영역으로 선택한 뒤에, 이미지 메뉴 바(Image Menu Bar)의 `선택(Select)` → `반전(Invert)` 메뉴를 선택합니다. 그러면 개체 대신에 배경이 선택됩니다. 선택된 배경으로 여러가지 작업을 해볼 수 있습니다.
 
-### 그림 3.4.10.1.1. 이미지 메뉴 바의 반전(Invert) 메뉴
-<img width="480" alt="그림 3.4.10.1.1. 이미지 메뉴 바의 반전(Invert) 메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5a32f3f8-c0fa-42de-ae11-c8ba1e38f4ef">
+#### 그림 90.1.3.3.a101. `선택` → `반전`
+![그림 90.1.3.3.a101. `선택` → `반전`](https://github.com/wonder13662/gimp/assets/15767104/7de10abb-638d-4d04-8436-7368cf694769)
 
 ### 3.4.10.1.2. 배경을 단일 색상으로 채우기
 도구 상자의 전경색 미리보기를 클릭하여 원하는 색상을 선택합니다. 그리고 [14.3.4. 채우기 도구](./14-03-04-bucket-fill.md)를 이용하여 배경을 선택한 색상으로 채웁니다.
 
-### 그림 3.4.10.1.2.1. 도구상자(Toolbox)의 채우기 도구(Bucket Fill Tool)
+#### 그림 3.4.10.1.2.1. 도구상자(Toolbox)의 채우기 도구(Bucket Fill Tool)
 <img width="480" alt="그림 3.4.10.1.2.1. 도구상자(Toolbox)의 채우기 도구(Bucket Fill Tool)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/551a8f31-e2a8-4564-8ac6-86cd6c1ea1fc">
 
 #### 그림 3.43. 배경을 단일 색상으로 채운 결과

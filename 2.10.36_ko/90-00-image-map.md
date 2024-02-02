@@ -104,6 +104,42 @@
 
 [90.1.3. 선택(Select)](./90-01-03-select.md)
 
+[90.1.3.1. 모두(All)](./90-01-03-selectx-01-all.md)
+
+[90.1.3.2. 없음(None)](./90-01-03-selectx-02-none.md)
+
+[90.1.3.3. 반전(Invert)](./90-01-03-selectx-03-invert.md)
+
+[90.1.3.4. 띄우기(Float)](./90-01-03-selectx-04-float.md)
+
+[90.1.3.5. 색상 선택(By Color)](./90-01-03-selectx-05-by_color.md)
+
+[90.1.3.6. 경로에서(From Path)](./90-01-03-selectx-06-from_path.md)
+
+[90.1.3.7. 선택 영역 편집기(Selection Editor)](./90-01-03-selectx-07-selection_editor.md)
+
+[90.1.3.8. 페더(Feather)](./90-01-03-selectx-08-feather.md)
+
+[90.1.3.9. 또렷하게(Sharpen)](./90-01-03-selectx-09-sharpen.md)
+
+[90.1.3.10. 줄이기(Shrink)](./90-01-03-selectx-10-shrink.md)
+
+[90.1.3.11. 늘이기(Grow)](./90-01-03-selectx-11-grow.md)
+
+[90.1.3.12. 테두리(Border)](./90-01-03-selectx-12-border.md)
+
+[90.1.3.13. 구멍 제거(Remove Holes)](./90-01-03-selectx-13-remove_holes.md)
+
+[90.1.3.14. 왜곡(Distort)](./90-01-03-selectx-14-distort.md)
+
+[90.1.3.15. 모서리 둥글게 만들기(Rounded Rectangle)](./90-01-03-selectx-15-rounded_rectangle.md)
+
+[90.1.3.16. 퀵 마스크 전환(Toggle Quick Mask)](./90-01-03-selectx-16-toggle_quick_mask.md)
+
+[90.1.3.17. 채널로 저장(Save To Channel)](./90-01-03-selectx-17-save_to_channel.md)
+
+[90.1.3.18. 경로로(To Path)](./90-01-03-selectx-18-to_path.md)
+
 [90.1.4. 보기(View)](./90-01-04-view.md)
 
 [90.1.4.1. 보기(View) - 확대(Zoom)](./90-01-04-viewx-01-zoom.md)
