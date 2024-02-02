@@ -8,13 +8,7 @@
 #### 그림 90.3.2.15.a2. 도구상자(Toolbox)의 뒤집기(Flip) 버튼
 ![그림 90.3.2.15.a2. 도구상자(Toolbox)의 뒤집기(Flip) 버튼](https://github.com/wonder13662/gimp/assets/15767104/8f63d644-7b1d-4ebb-9191-3d5583dc2cb7)
 
-[3.4.8. 이미지 뒤집기 - 그림 90.3.2.15.a2. 도구상자(Toolbox)의 뒤집기(Flip) 버튼]()
-
-***
-
-## 관련 정보
-
-[3.4.8. 이미지 뒤집기](./03-04-08-flip-an-image.md)
+[3.4.8. 이미지 뒤집기 - 그림 90.3.2.15.a2. 도구상자(Toolbox)의 뒤집기(Flip) 버튼](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-08-flip-an-image.html#%EA%B7%B8%EB%A6%BC-903215a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90toolbox%EC%9D%98-%EB%92%A4%EC%A7%91%EA%B8%B0flip-%EB%B2%84%ED%8A%BC)
 
 ***
 
