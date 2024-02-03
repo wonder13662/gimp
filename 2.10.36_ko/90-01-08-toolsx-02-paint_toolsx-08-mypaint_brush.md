@@ -7,7 +7,7 @@
 #### 그림 90.1.8.2.8.a101. `도구` → `칠하기 도구` → `마이페인트 붓` (Windows)
 ![그림 90.1.8.2.8.a101. `도구` → `칠하기 도구` → `마이페인트 붓` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/9328114e-96bb-4ea6-ae1c-93fec8d988b1)
 
-[3.5.1. 목적 - 그림 90.1.8.2.8.a101. `도구` → `칠하기 도구` → `마이페인트 붓` (Windows)]()
+[3.5.1. 목적 - 그림 90.1.8.2.8.a101. `도구` → `칠하기 도구` → `마이페인트 붓` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EA%B7%B8%EB%A6%BC-901828a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B8%ED%8A%B8-%EB%B6%93-windows)
 
 #### 그림 90.1.8.2.8.a102. `도구` → `칠하기 도구` → `마이페인트 붓` (Mac)
 ![그림 90.1.8.2.8.a102. `도구` → `칠하기 도구` → `마이페인트 붓` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/0d42b1da-6c70-4766-b3da-9f3a7020cbc8)
