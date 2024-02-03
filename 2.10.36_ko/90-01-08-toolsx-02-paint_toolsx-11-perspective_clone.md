@@ -7,7 +7,7 @@
 #### 그림 90.1.8.2.11.a101. `도구` → `칠하기 도구` → `원근 복제` (Windows)
 ![그림 90.1.8.2.11.a101. `도구` → `칠하기 도구` → `원근 복제` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/65d7cffd-1507-486e-b3e9-a0ca9e51467a)
 
-[3.5.1. 목적 - 그림 90.1.8.2.11.a101. `도구` → `칠하기 도구` → `원근 복제` (Windows)]()
+[3.5.1. 목적 - 그림 90.1.8.2.11.a101. `도구` → `칠하기 도구` → `원근 복제` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EA%B7%B8%EB%A6%BC-9018211a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EC%9B%90%EA%B7%BC-%EB%B3%B5%EC%A0%9C-windows)
 
 #### 그림 90.1.8.2.11.a102. `도구` → `칠하기 도구` → `원근 복제` (Mac)
 ![그림 90.1.8.2.11.a102. `도구` → `칠하기 도구` → `원근 복제` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/705d2987-adac-4ae2-b000-a1f2eea1e7bd)
