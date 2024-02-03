@@ -7,7 +7,7 @@
 #### 그림 90.1.8.2.10.a101. `도구` → `칠하기 도구` → `복원` (Windows)
 ![그림 90.1.8.2.10.a101. `도구` → `칠하기 도구` → `복원` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/d69f5547-31de-4687-864a-cb8af86c97ec)
 
-[3.5.1. 목적 - 그림 90.1.8.2.10.a101. `도구` → `칠하기 도구` → `복원` (Windows)]()
+[3.5.1. 목적 - 그림 90.1.8.2.10.a101. `도구` → `칠하기 도구` → `복원` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EA%B7%B8%EB%A6%BC-9018210a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%B3%B5%EC%9B%90-windows)
 
 #### 그림 90.1.8.2.10.a102. `도구` → `칠하기 도구` → `복원` (Mac)
 ![그림 90.1.8.2.10.a102. `도구` → `칠하기 도구` → `복원` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/4a8f13d6-f88c-4a9a-aaad-07fff5488bf5)
