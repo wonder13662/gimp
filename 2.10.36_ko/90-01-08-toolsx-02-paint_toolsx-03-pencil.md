@@ -7,7 +7,7 @@
 #### 그림 90.1.8.2.3.a101. `도구` → `칠하기 도구` → `연필` (Windows)
 ![그림 90.1.8.2.3.a101. `도구` → `칠하기 도구` → `연필` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3a212da3-0bfd-486e-8ec5-273f6e7eac2a)
 
-[3.5.1. 목적 - 그림 90.1.8.2.3.a101. `도구` → `칠하기 도구` → `연필` (Windows)]()
+[3.5.1. 목적 - 그림 90.1.8.2.3.a101. `도구` → `칠하기 도구` → `연필` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EA%B7%B8%EB%A6%BC-901823a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EC%97%B0%ED%95%84-windows)
 
 #### 그림 90.1.8.2.3.a102. `도구` → `칠하기 도구` → `연필` (Mac)
 ![그림 90.1.8.2.3.a102. `도구` → `칠하기 도구` → `연필` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/a053d30b-73f7-4a2f-9cb0-63f09f9a4b55)

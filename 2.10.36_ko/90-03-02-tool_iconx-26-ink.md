@@ -8,7 +8,7 @@
 #### 그림 90.3.2.26.a2. 도구상자 - 잉크
 ![그림 90.3.2.26.a2. 도구상자 - 잉크](https://github.com/wonder13662/gimp/assets/15767104/7cf5d992-ae21-45d0-88c5-fa9a5cccf23c)
 
-[3.5.1. 목적 - 그림 90.3.2.26.a2. 도구상자 - 잉크]()
+[3.5.1. 목적 - 그림 90.3.2.26.a2. 도구상자 - 잉크](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EA%B7%B8%EB%A6%BC-903226a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%9E%89%ED%81%AC)
 
 ***
 

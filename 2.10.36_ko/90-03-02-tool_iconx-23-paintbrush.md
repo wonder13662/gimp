@@ -8,7 +8,7 @@
 #### 그림 90.3.2.23.a2. 도구상자 - 그리기 붓
 ![그림 90.3.2.23.a2. 도구상자 - 그리기 붓](https://github.com/wonder13662/gimp/assets/15767104/8037e4e3-2df5-4bee-ab58-5efab4efefd1)
 
-[3.5.1. 목적 - 그림 90.3.2.23.a2. 도구상자 - 그리기 붓]()
+[3.5.1. 목적 - 그림 90.3.2.23.a2. 도구상자 - 그리기 붓](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EA%B7%B8%EB%A6%BC-903223a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93)
 
 ***
 

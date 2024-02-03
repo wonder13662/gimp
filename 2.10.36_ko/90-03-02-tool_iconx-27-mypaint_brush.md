@@ -8,7 +8,7 @@
 #### 그림 90.3.2.27.a2. 도구상자 - MyPaint 붓
 ![그림 90.3.2.27.a2. 도구상자 - MyPaint 붓](https://github.com/wonder13662/gimp/assets/15767104/bfba0689-02ca-4a52-9eaf-7280e95a50da)
 
-[3.5.1. 목적 - 그림 90.3.2.27.a2. 도구상자 - MyPaint 붓]()
+[3.5.1. 목적 - 그림 90.3.2.27.a2. 도구상자 - MyPaint 붓](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EA%B7%B8%EB%A6%BC-903227a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---mypaint-%EB%B6%93)
 
 ***
 

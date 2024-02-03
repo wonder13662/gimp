@@ -8,7 +8,7 @@
 #### 그림 90.3.2.32.a2. 도구상자 - 문지르기
 ![그림 90.3.2.32.a2. 도구상자 - 문지르기](https://github.com/wonder13662/gimp/assets/15767104/29694b78-a2b8-40a3-b11c-a4b0a6dbdb9b)
 
-[3.5.1. 목적 - 그림 90.3.2.32.a2. 도구상자 - 복원]()
+[3.5.1. 목적 - 그림 90.3.2.32.a2. 도구상자 - 문지르기](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EA%B7%B8%EB%A6%BC-903232a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%AC%B8%EC%A7%80%EB%A5%B4%EA%B8%B0)
 
 ***
 
