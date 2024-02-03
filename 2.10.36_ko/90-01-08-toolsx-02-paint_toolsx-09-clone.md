@@ -7,7 +7,7 @@
 #### 그림 90.1.8.2.9.a101. `도구` → `칠하기 도구` → `도장 도구` (Windows)
 ![그림 90.1.8.2.9.a101. `도구` → `칠하기 도구` → `도장 도구` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/6bda17cc-00d8-4df4-8a59-0e396d52226a)
 
-[3.5.1. 목적 - 그림 90.1.8.2.8.a101. `도구` → `칠하기 도구` → `도장 도구` (Windows)]()
+[3.5.1. 목적 - 그림 90.1.8.2.8.a101. `도구` → `칠하기 도구` → `도장 도구` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EA%B7%B8%EB%A6%BC-901829a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%8F%84%EC%9E%A5-%EB%8F%84%EA%B5%AC-windows)
 
 #### 그림 90.1.8.2.9.a102. `도구` → `칠하기 도구` → `도장 도구` (Mac)
 ![그림 90.1.8.2.9.a102. `도구` → `칠하기 도구` → `도장 도구` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/d0a3394b-f18a-4fef-9e69-397a9eb8d207)
