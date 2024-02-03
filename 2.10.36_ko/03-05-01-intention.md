@@ -59,121 +59,143 @@
 ## 3.5.1.6. 직선 그리기 가능한 도구들 예시
 ### 3.5.1.6.1. 그리기 붓(Paintbrush)
 
-#### 그림 90.1.8.2.4.a101. `도구` → `칠하기 도구` → `그리기 붓` (Windows)
-![그림 90.1.8.2.4.a101. `도구` → `칠하기 도구` → `그리기 붓` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/30393508-7903-4cfd-b3f1-79796331554a)
+#### [그림 90.1.8.2.4.a101. `도구` → `칠하기 도구` → `그리기 붓` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-04-paintbrush.html#%EA%B7%B8%EB%A6%BC-901824a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93-windows)
+[![그림 90.1.8.2.4.a101. `도구` → `칠하기 도구` → `그리기 붓` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/30393508-7903-4cfd-b3f1-79796331554a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-04-paintbrush.html#%EA%B7%B8%EB%A6%BC-901824a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93-windows)
 
-#### 그림 3.5.1.6.1.2. 도구상자(Toolbox)의 그리기 붓(Paintbrush)의 위치
-<img width="480" alt="그림 3.5.1.6.1.2. 도구상자(Toolbox)의 그리기 붓(Paintbrush)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/abf9f233-840e-43c3-9310-187132756434">
+#### [그림 90.3.2.23.a2. 도구상자 - 그리기 붓](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-23-paintbrush.html#%EA%B7%B8%EB%A6%BC-903223a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93)
+[![그림 90.3.2.23.a2. 도구상자 - 그리기 붓](https://github.com/wonder13662/gimp/assets/15767104/8037e4e3-2df5-4bee-ab58-5efab4efefd1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-23-paintbrush.html#%EA%B7%B8%EB%A6%BC-903223a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93)
 
 #### 영상 3.5.1.6.1.3. 그리기 붓(Paintbrush)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a31aa347-7971-4b8f-8de0-96667cb763de"></video>
 
 ### 3.5.1.6.2. 연필(Pencil)
-#### 그림 3.5.1.6.2.1. 이미지 메뉴 바(Image Menu Bar)의 연필(Pencil)의 위치
-<img width="480" alt="그림 3.5.1.6.2.1. 이미지 메뉴 바(Image Menu Bar)의 연필(Pencil)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f2b45342-a6bc-4c17-9531-169708db92d7">
+#### 그림 90.1.8.2.3.a101. `도구` → `칠하기 도구` → `연필` (Windows)
+![그림 90.1.8.2.3.a101. `도구` → `칠하기 도구` → `연필` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3a212da3-0bfd-486e-8ec5-273f6e7eac2a)
 
-#### 그림 3.5.1.6.2.2. 도구상자(Toolbox)의 연필(Pencil)의 위치
-<img width="480" alt="그림 3.5.1.6.2.2. 도구상자(Toolbox)의 연필(Pencil)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/42c60967-0d5c-4669-bbb7-37ae598ca8f4">
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `연필` 확인하기](./90-01-08-toolsx-02-paint_toolsx-03-pencil.md)
+
+#### 그림 90.3.2.24.a2. 도구상자 - 연필
+![그림 90.3.2.24.a2. 도구상자 - 연필](https://github.com/wonder13662/gimp/assets/15767104/aa88490b-f8f2-4087-9151-da457b0e271b)
 
 #### 영상 3.5.1.6.2.3. 연필(Pencil)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5e21baef-0b02-47f4-91e1-189220dde687"></video>
 
 ### 3.5.1.6.3. 에어브러시(Airbrush)
-#### 그림 3.5.1.6.3.1. 이미지 메뉴 바(Image Menu Bar)의 에어브러시(Airbrush)의 위치
-<img width="480" alt="그림 3.5.1.6.3.1. 이미지 메뉴 바(Image Menu Bar)의 에어브러시(Airbrush)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2d03be3c-2672-4c2c-b380-3ae63c8a78af">
+#### 그림 90.1.8.2.6.a101. `도구` → `칠하기 도구` → `에어브러시` (Windows)
+![그림 90.1.8.2.6.a101. `도구` → `칠하기 도구` → `에어브러시` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/7596369b-dfdd-4b1f-8c2e-321e27407159)
 
-#### 그림 3.5.1.6.3.2. 도구상자(Toolbox)의 에어브러시(Airbrush)의 위치
-<img width="480" alt="그림 3.5.1.6.3.2. 도구상자(Toolbox)의 에어브러시(Airbrush)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/96de1f37-3ba6-4b39-b525-d9293a3d4a7a">
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `에어브러시` 확인하기](./90-01-08-toolsx-02-paint_toolsx-06-airbrush.md)
+
+#### 그림 90.3.2.25.a2. 도구상자 - 에어브러시
+![그림 90.3.2.25.a2. 도구상자 - 에어브러시](https://github.com/wonder13662/gimp/assets/15767104/2f122e0d-c2bf-4473-9471-88d655f28a52)
 
 #### 영상 3.5.1.6.3.3. 에어브러시(Airbrush)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3c2c525b-ae45-4f4d-8dc9-add1d0310af9"></video>
 
 ### 3.5.1.6.4. 잉크(Ink)
-#### 그림 3.5.1.6.4.1. 이미지 메뉴 바(Image Menu Bar)의 잉크(Ink)의 위치
-<img width="480" alt="그림 3.5.1.6.4.1. 이미지 메뉴 바(Image Menu Bar)의 잉크(Ink)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e6ed3c44-191f-453d-b7a6-f37b33fcc650">
+#### 그림 90.1.8.2.7.a101. `도구` → `칠하기 도구` → `잉크` (Windows)
+![그림 90.1.8.2.7.a101. `도구` → `칠하기 도구` → `잉크` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/07732c34-128e-4b88-bc0c-f9fc71b1c14a)
 
-#### 그림 3.5.1.6.4.2. 도구상자(Toolbox)의 잉크(Ink)의 위치
-<img width="480" alt="그림 3.5.1.6.4.2. 도구상자(Toolbox)의 잉크(Ink)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/69aefc4a-70e4-4513-be03-3ba354941037">
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `잉크` 확인하기](./90-01-08-toolsx-02-paint_toolsx-07-ink.md)
+
+#### 그림 90.3.2.26.a2. 도구상자 - 잉크
+![그림 90.3.2.26.a2. 도구상자 - 잉크](https://github.com/wonder13662/gimp/assets/15767104/7cf5d992-ae21-45d0-88c5-fa9a5cccf23c)
 
 #### 영상 3.5.1.6.4.3. 잉크(Ink)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c51b0ee6-da41-4c09-9771-af91e685fccd"></video>
 
 ### 3.5.1.6.5. MyPaint 붓(MyPaint Brush)
-#### 그림 3.5.1.6.5.1. 이미지 메뉴 바(Image Menu Bar)의 MyPaint 붓(MyPaint Brush)의 위치
-<img width="480" alt="그림 3.5.1.6.5.1. 이미지 메뉴 바(Image Menu Bar)의 MyPaint 붓(MyPaint Brush)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/203fe948-e947-4f70-9da3-e00487366491">
+#### 그림 90.1.8.2.8.a101. `도구` → `칠하기 도구` → `마이페인트 붓` (Windows)
+![그림 90.1.8.2.8.a101. `도구` → `칠하기 도구` → `마이페인트 붓` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/9328114e-96bb-4ea6-ae1c-93fec8d988b1)
 
-#### 그림 3.5.1.6.5.2. 도구상자(Toolbox)의 MyPaint 붓(MyPaint Brush)의 위치
-<img width="480" alt="그림 3.5.1.6.5.2. 도구상자(Toolbox)의 MyPaint 붓(MyPaint Brush)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/aba3a66b-16d6-4e7e-a045-eb9ecd70c8db">
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `마이페인트 붓` 확인하기](./90-01-08-toolsx-02-paint_toolsx-08-mypaint_brush.md)
+
+#### 그림 90.3.2.27.a2. 도구상자 - MyPaint 붓
+![그림 90.3.2.27.a2. 도구상자 - MyPaint 붓](https://github.com/wonder13662/gimp/assets/15767104/bfba0689-02ca-4a52-9eaf-7280e95a50da)
 
 #### 영상 3.5.1.6.5.3. MyPaint 붓(MyPaint Brush)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1b5efbfe-e43b-49bb-a706-c2cf0bba01d4"></video>
 
 ### 3.5.1.6.6. 도장(Clone)
-#### 그림 3.5.1.6.6.1. 이미지 메뉴 바(Image Menu Bar)의 도장(Clone)의 위치
-<img width="480" alt="그림 3.5.1.6.6.1. 이미지 메뉴 바(Image Menu Bar)의 도장(Clone)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ee64c031-57cf-43d5-837a-6e2ab259bfff">
+#### 그림 90.1.8.2.9.a101. `도구` → `칠하기 도구` → `도장 도구` (Windows)
+![그림 90.1.8.2.9.a101. `도구` → `칠하기 도구` → `도장 도구` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/6bda17cc-00d8-4df4-8a59-0e396d52226a)
 
-#### 그림 3.5.1.6.6.2. 도구상자(Toolbox)의 도장(Clone)의 위치
-<img width="480" alt="그림 3.5.1.6.6.2. 도구상자(Toolbox)의 도장(Clone)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/661fffc9-9051-4e17-a64c-3582dbb5370c">
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `도장 도구` 확인하기](./90-01-08-toolsx-02-paint_toolsx-09-clone.md)
+
+#### 그림 90.3.2.29.a2. 도구상자 - 도장
+![그림 90.3.2.29.a2. 도구상자 - 도장](https://github.com/wonder13662/gimp/assets/15767104/7dcf76c1-dbf5-41c6-94de-a1a610a75d3d)
 
 #### 영상 3.5.1.6.6.3. 도장(Clone)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/faaa0112-9013-49ac-8e91-11bd1f08a424"></video>
 
-### 3.5.1.6.7. 원근 도장(Perspective Clone)
-#### 그림 3.5.1.6.7.1. 이미지 메뉴 바(Image Menu Bar)의 원근 도장(Perspective Clone)의 위치
-<img width="480" alt="그림 3.5.1.6.7.1. 이미지 메뉴 바(Image Menu Bar)의 원근 도장(Perspective Clone)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/751c81f1-f876-4b5e-8800-2b07a886a61c">
+### 3.5.1.6.7. 원근 복제(Perspective Clone)
+#### 그림 90.1.8.2.11.a101. `도구` → `칠하기 도구` → `원근 복제` (Windows)
+![그림 90.1.8.2.11.a101. `도구` → `칠하기 도구` → `원근 복제` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/65d7cffd-1507-486e-b3e9-a0ca9e51467a)
 
-#### 그림 3.5.1.6.7.2. 도구상자(Toolbox)의 원근 도장(Perspective Clone)의 위치
-<img width="480" alt="그림 3.5.1.6.7.2. 도구상자(Toolbox)의 원근 도장(Perspective Clone)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f5b8faf7-9b19-4d8a-b331-37f00d2c4695">
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `원근 복제` 확인하기](./90-01-08-toolsx-02-paint_toolsx-11-perspective_clone.md)
+
+#### 그림 90.3.2.30.a2. 도구상자 - 원근 복제
+![그림 90.3.2.30.a2. 도구상자 - 원근 복제](https://github.com/wonder13662/gimp/assets/15767104/1bebe4c7-108c-47be-a1e8-2e6f2e93a8a9)
 
 #### 영상 3.5.1.6.7.3. 원근 도장(Perspective Clone)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/75691a99-5cda-47d2-9be8-31f930883b26"></video>
 
 ### 3.5.1.6.8. 복원(Heal)
-#### 그림 3.5.1.6.8.1. 이미지 메뉴 바(Image Menu Bar)의 복원(Heal)의 위치
-<img width="480" alt="그림 3.5.1.6.8.1. 이미지 메뉴 바(Image Menu Bar)의 복원(Heal)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/625782ff-f88e-4cd6-993b-1ac016372928">
+#### 그림 90.1.8.2.10.a101. `도구` → `칠하기 도구` → `복원` (Windows)
+![그림 90.1.8.2.10.a101. `도구` → `칠하기 도구` → `복원` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/d69f5547-31de-4687-864a-cb8af86c97ec)
 
-#### 그림 3.5.1.6.8.2. 도구상자(Toolbox)의 복원(Heal)의 위치
-<img width="480" alt="그림 3.5.1.6.8.2. 도구상자(Toolbox)의 복원(Heal)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9ead8376-79af-47a4-aa5e-b3bff2253b79">
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `복원` 확인하기](./90-01-08-toolsx-02-paint_toolsx-10-heal.md)
+
+#### 그림 90.3.2.31.a2. 도구상자 - 복원
+![그림 90.3.2.31.a2. 도구상자 - 복원](https://github.com/wonder13662/gimp/assets/15767104/b9fafcea-e1e4-4534-b7e6-cd7eeb0617b0)
 
 #### 영상 3.5.1.6.8.3. 복원(Heal)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b74e842f-c696-4453-97b6-db95884b4e3c"></video>
 
 ### 3.5.1.6.9. 문지르기(Smudge)
-#### 그림 3.5.1.6.9.1. 이미지 메뉴 바(Image Menu Bar)의 문지르기(Smudge)의 위치
-<img width="480" alt="그림 3.5.1.6.9.1. 이미지 메뉴 바(Image Menu Bar)의 문지르기(Smudge)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/761089fb-3f1f-4b04-a43e-9a07a6545b64">
+#### 그림 90.1.8.2.13.a101. `도구` → `칠하기 도구` → `문지르기` (Windows)
+![그림 90.1.8.2.13.a101. `도구` → `칠하기 도구` → `문지르기` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/86a6aeab-e50f-4204-b5ba-5419ed668bfd)
 
-#### 그림 3.5.1.6.9.2. 도구상자(Toolbox)의 문지르기(Smudge)의 위치
-<img width="480" alt="그림 3.5.1.6.9.2. 도구상자(Toolbox)의 문지르기(Smudge)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a967e516-6b19-4472-93de-b776940653d7">
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `문지르기` 확인하기](./90-01-08-toolsx-02-paint_toolsx-13-smudge.md)
+
+#### 그림 90.3.2.32.a2. 도구상자 - 문지르기
+![그림 90.3.2.32.a2. 도구상자 - 문지르기](https://github.com/wonder13662/gimp/assets/15767104/29694b78-a2b8-40a3-b11c-a4b0a6dbdb9b)
 
 #### 영상 3.5.1.6.9.3. 문지르기(Smudge)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c266461f-b922-4a68-a836-a500bb18047a"></video>
 
 ### 3.5.1.6.10. 흐릿하게/선명하게(Blur/Sharpen)
-#### 그림 3.5.1.6.10.1. 이미지 메뉴 바(Image Menu Bar)의 흐릿하게/선명하게(Blur/Sharpen)의 위치
-<img width="480" alt="그림 3.5.1.6.10.1. 이미지 메뉴 바(Image Menu Bar)의 흐릿하게/선명하게(Blur/Sharpen)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f864b05a-9a0a-499d-9e18-54d600a331cd">
+#### 그림 90.1.8.2.12.a101. `도구` → `칠하기 도구` → `흐릿하게/선명하게` (Windows)
+![그림 90.1.8.2.12.a101. `도구` → `칠하기 도구` → `흐릿하게/선명하게` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/2b7da1fb-028e-4375-be60-8437cd6d45f2)
 
-#### 그림 3.5.1.6.10.2. 도구상자(Toolbox)의 흐릿하게/선명하게(Blur/Sharpen)의 위치
-<img width="480" alt="그림 3.5.1.6.10.2. 도구상자(Toolbox)의 흐릿하게/선명하게(Blur/Sharpen)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5b416caf-e533-436d-9305-2b91aa491fbe">
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `흐릿하게/선명하게` 확인하기]()
+
+#### 그림 90.3.2.33.a2. 도구상자 - '흐릿하게/선명하게'
+![그림 90.3.2.33.a2. 도구상자 - '흐릿하게/선명하게'](https://github.com/wonder13662/gimp/assets/15767104/b0a3539c-e757-40c6-b3a8-66e730e743ce)
 
 #### 영상 3.5.1.6.10.3. 흐릿하게/선명하게(Blur/Sharpen)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8a426c59-834c-48cd-b3ac-2892d6c9ea64"></video>
 
 ### 3.5.1.6.11. 닷지/번(Dodge/Burn)
-#### 그림 3.5.1.6.11.1. 이미지 메뉴 바(Image Menu Bar)의 닷지/번(Dodge/Burn)의 위치
-<img width="480" alt="그림 3.5.1.6.11.1. 이미지 메뉴 바(Image Menu Bar)의 닷지/번(Dodge/Burn)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/78aa95b8-4d56-4869-be24-8ab5901492e7">
+#### 그림 90.1.8.2.14.a101. `도구` → `칠하기 도구` → `닷지/번` (Windows)
+![그림 90.1.8.2.14.a101. `도구` → `칠하기 도구` → `닷지/번` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3860e5da-44f2-4088-a577-4f7de529a868)
 
-#### 그림 3.5.1.6.11.2. 도구상자(Toolbox)의 닷지/번(Dodge/Burn)의 위치
-<img width="480" alt="그림 3.5.1.6.11.2. 도구상자(Toolbox)의 닷지/번(Dodge/Burn)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0ec394ba-4a69-4c97-863d-62e9b36cb460">
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `닷지/번` 확인하기]()
+
+#### 그림 90.3.2.34.a2. 도구상자 - '닷지/번'
+![그림 90.3.2.34.a2. 도구상자 - '닷지/번'](https://github.com/wonder13662/gimp/assets/15767104/f602486b-595d-4b15-ba4c-826982b153ce)
 
 #### 영상 3.5.1.6.11.3. 닷지/번(Dodge/Burn)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4b92840d-58f5-4c5d-b664-87a6227dc0c8"></video>
 
 ### 3.5.1.6.12. 지우개(Eraser)
-#### 그림 3.5.1.6.12.1. 이미지 메뉴 바(Image Menu Bar)의 지우개(Eraser)의 위치
-<img width="480" alt="그림 3.5.1.6.12.1. 이미지 메뉴 바(Image Menu Bar)의 지우개(Eraser)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b06e8223-b45d-4ea1-a3b0-1071a2971eca">
+#### 그림 90.1.8.2.5.a101. `도구` → `칠하기 도구` → `지우개` (Windows)
+![그림 90.1.8.2.5.a101. `도구` → `칠하기 도구` → `지우개` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/c5491885-1e32-470f-bc20-23f3271a59fc)
 
-#### 그림 3.5.1.6.12.2. 도구상자(Toolbox)의 지우개(Eraser)의 위치
-<img width="210" alt="그림 3.5.1.6.12.2. 도구상자(Toolbox)의 지우개(Eraser)의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/660e5e4d-403e-423a-ad24-bb934751f8d7">
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `지우개` 확인하기]()
+
+#### 그림 90.3.2.28.a2. 도구상자 - 지우개
+![그림 90.3.2.28.a2. 도구상자 - 지우개](https://github.com/wonder13662/gimp/assets/15767104/8e448288-3d80-449d-ac03-89757a056a1b)
 
 #### 영상 3.5.1.6.12.3. 지우개(Eraser)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8a80fba9-b6e8-41fd-bd2c-6427f7175a37"></video>

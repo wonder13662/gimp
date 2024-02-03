@@ -8,6 +8,8 @@
 #### 그림 90.3.2.27.a2. 도구상자 - MyPaint 붓
 ![그림 90.3.2.27.a2. 도구상자 - MyPaint 붓](https://github.com/wonder13662/gimp/assets/15767104/bfba0689-02ca-4a52-9eaf-7280e95a50da)
 
+[3.5.1. 목적 - 그림 90.3.2.27.a2. 도구상자 - MyPaint 붓]()
+
 ***
 
 ## 다른 페이지로 가기
