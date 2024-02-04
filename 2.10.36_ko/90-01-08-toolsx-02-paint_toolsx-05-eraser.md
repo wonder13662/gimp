@@ -7,7 +7,7 @@
 #### 그림 90.1.8.2.5.a101. `도구` → `칠하기 도구` → `지우개` (Windows)
 ![그림 90.1.8.2.5.a101. `도구` → `칠하기 도구` → `지우개` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/c5491885-1e32-470f-bc20-23f3271a59fc)
 
-[3.5.1. 목적 - 그림 90.1.8.2.5.a101. `도구` → `칠하기 도구` → `지우개` (Windows)]()
+[3.5.1. 목적 - 그림 90.1.8.2.5.a101. `도구` → `칠하기 도구` → `지우개` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EA%B7%B8%EB%A6%BC-901825a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EC%A7%80%EC%9A%B0%EA%B0%9C-windows)
 
 #### 그림 90.1.8.2.5.a102. `도구` → `칠하기 도구` → `지우개` (Mac)
 ![그림 90.1.8.2.5.a102. `도구` → `칠하기 도구` → `지우개` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/65e15fee-7a73-4566-8cae-13e909620ff8)
