@@ -31,8 +31,10 @@
 ## 3.5.2.4. 예제 #4 - 지우개(Eraser)
 이미지 메뉴 바의 `필터(Filters)` → `렌더(Render)` → `무늬(Pattern)` → `격자(Grid)` 메뉴를 이용해 멋진 플라즈마 구름을 그립니다. [지우개(Eraser)](./14-03-09-eraser.md)를 직사각형 형태로 직선을 그립니다.
 
-#### 그림 3.5.2.4.1. 이미지 메뉴 바의 플라즈마(Plasma) 메뉴
-<img width="720" alt="그림 3.5.2.4.1. 이미지 메뉴 바의 플라즈마(Plasma) 메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/30fc3528-4a60-48d9-a660-be9f1471d48e">
+#### 그림 90.1.9.12.2.3.a1. `필터` → `렌더` → `노이즈` → `플라즈마` (Windows) (우리말)
+![그림 90.1.9.12.2.3.a1. `필터` → `렌더` → `노이즈` → `플라즈마` (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/12b3c52e-4f22-41cc-a65f-6e18edfc48c8)
+
+[다른 운영체제와 언어의 `필터` → `렌더` → `노이즈` → `플라즈마` 확인하기](./90-01-09-filtersx-12-renderx-02-noisex-03-plasma.md)
 
 #### 영상 3.5.2.4.2. 지우개(Eraser)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6b7f59a3-84c4-4a70-b5f3-b7ad44e04db4"></video>

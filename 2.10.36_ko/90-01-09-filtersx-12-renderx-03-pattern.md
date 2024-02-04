@@ -46,7 +46,7 @@
 
 [➡️ 다음: 90.1.9.12.4. Spyrogimp(Spyrogimp)](./90-01-09-filtersx-12-renderx-04-spyrogimp.md)
 
-[⬅️ 이전: 90.1.9.12.2. Noise(Noise)](./90-01-09-filtersx-12-renderx-02-noise.md)
+[⬅️ 이전: 90.1.9.12.2. 노이즈(Noise)](./90-01-09-filtersx-12-renderx-02-noise.md)
 
 [⬆️ 위: 90.1.9.12. 렌더(Render)](./90-01-09-filtersx-12-render.md)
 

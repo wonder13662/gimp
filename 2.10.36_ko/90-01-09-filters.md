@@ -32,7 +32,7 @@
 
 [90.1.9.12.1. 프랙탈(Fractal)](./90-01-09-filtersx-12-renderx-01-fractal.md)
 
-[90.1.9.12.2. Noise(Noise)](./90-01-09-filtersx-12-renderx-02-noise.md)
+[90.1.9.12.2. 노이즈(Noise)](./90-01-09-filtersx-12-renderx-02-noise.md)
 
 [90.1.9.12.2.1. Cell Noise(Cell Noise)](./90-01-09-filtersx-12-renderx-02-noisex-01-cell_noise.md)
 

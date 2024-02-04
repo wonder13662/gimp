@@ -14,7 +14,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.9.12.2. Noise(Noise)](./90-01-09-filtersx-12-renderx-02-noise.md)
+[➡️ 다음: 90.1.9.12.2. 노이즈(Noise)](./90-01-09-filtersx-12-renderx-02-noise.md)
 
 [⬅️ 이전: 90.1.9.12. 렌더(Render)](./90-01-09-filtersx-12-render.md)
 
