@@ -1,4 +1,4 @@
-# 3.5.2. 직선그리기 예제들
+# 3.5.2. 직선그리기 예제
 ## 3.5.2.1. 그리기 붓과 `Color From Gradient` 사용하기
 그리기 붓(Paintbrush)의 도구옵션(Tool Options)의 동적 요소(Dynamics)를 "Color From Gradient"로 설정합니다. 그리고 색상 옵션(Color Options)는 "Incandescent"로 설정합니다. 페이드 옵션(Fade Options)의 반복은 "Truncate"로 설정합니다. 이미지의 크기에 따라 "흐리게 길이(Fade length)"를 조절할 수 있습니다.
 
