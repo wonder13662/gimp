@@ -11,10 +11,10 @@
 ## 3.5.2.2. 예제 #2
 도장 도구의 "무늬로 칠하기"를 이용해, "Maple Leaves" 무늬가 있는 직선 그리기.
 
-#### 그림 90.3.2.29.a111. 도장(Clone)의 도구 옵션(Tool Options) 설정
-![그림 90.3.2.29.a111. 도장(Clone)의 도구 옵션(Tool Options) 설정](https://github.com/wonder13662/gimp/assets/15767104/7adca336-8467-44a2-9ff7-9fcf16919f61)
+#### [그림 90.3.2.29.a111. 도장(Clone)의 도구 옵션(Tool Options) 설정](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-29-clone.html#%EA%B7%B8%EB%A6%BC-903229a111-%EB%8F%84%EC%9E%A5clone%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options-%EC%84%A4%EC%A0%95)
+[![그림 90.3.2.29.a111. 도장(Clone)의 도구 옵션(Tool Options) 설정](https://github.com/wonder13662/gimp/assets/15767104/7adca336-8467-44a2-9ff7-9fcf16919f61)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-29-clone.html#%EA%B7%B8%EB%A6%BC-903229a111-%EB%8F%84%EC%9E%A5clone%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options-%EC%84%A4%EC%A0%95)
 
-#### 영상 90.3.2.29.a112. 도장(Clone)의 "무늬로 칠하기"
+#### [영상 90.3.2.29.a112. 도장(Clone)의 "무늬로 칠하기"](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-29-clone.html#%EC%98%81%EC%83%81-903229a112-%EB%8F%84%EC%9E%A5clone%EC%9D%98-%EB%AC%B4%EB%8A%AC%EB%A1%9C-%EC%B9%A0%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/03865af2-1672-4732-a24e-a3764e9bef34"></video>
 
 ## 3.5.2.3. 예제 #3 - 문지르기(Smudge)
