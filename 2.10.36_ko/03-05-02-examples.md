@@ -25,7 +25,7 @@
 
 [다른 운영체제와 언어의 `필터` → `렌더` → `무늬` → `격자` 확인하기](./90-01-09-filtersx-12-renderx-03-patternx-04-grid.md)
 
-#### 영상 3.5.2.3.2. 문지르기(Smudge)
+#### 영상 90.3.2.32.a111. 문지르기(Smudge)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a040ac09-806b-47b5-ae25-2accfa6630c8"></video>
 
 ## 3.5.2.4. 예제 #4 - 지우개(Eraser)
