@@ -20,8 +20,10 @@
 ## 3.5.2.3. 예제 #3 - 문지르기(Smudge)
 이미지 메뉴 바의 `필터(Filters)` → `렌더(Render)` → `무늬(Pattern)` → `격자(Grid)` 메뉴를 이용해 격자를 그립니다. 그리고 [문지르기(Smudge)](./14-03-16-smudge.md) 도구를 선택하고, 붓 크기를 약간 키운 뒤 직선을 그립니다.
 
-#### 그림 3.5.2.3.1. 이미지 메뉴 바의 격자(Grid) 메뉴
-<img width="720" alt="그림 3.5.2.3.1. 이미지 메뉴 바의 격자(Grid) 메뉴" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a691de7f-6b1f-49d2-aaaa-2389f0d3876b">
+#### 그림 90.1.9.12.3.4.a1. `필터` → `렌더` → `무늬` → `격자` (Windows) (우리말)
+![그림 90.1.9.12.3.4.a1. `필터` → `렌더` → `무늬` → `격자` (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/bd322dfe-1c14-4d1e-8bd1-fccfb04146ff)
+
+[다른 운영체제와 언어의 `필터` → `렌더` → `무늬` → `격자` 확인하기]()
 
 #### 영상 3.5.2.3.2. 문지르기(Smudge)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a040ac09-806b-47b5-ae25-2accfa6630c8"></video>
