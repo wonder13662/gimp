@@ -178,7 +178,7 @@
 
 ### 3.5.1.6.11. 닷지/번(Dodge/Burn)
 #### [그림 90.1.8.2.14.a101. `도구` → `칠하기 도구` → `닷지/번` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-14-dodge_burn.html#%EA%B7%B8%EB%A6%BC-9018214a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%8B%B7%EC%A7%80%EB%B2%88-windows)
-[![그림 90.1.8.2.14.a101. `도구` → `칠하기 도구` → `닷지/번` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-14-dodge_burn.html#%EA%B7%B8%EB%A6%BC-9018214a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%8B%B7%EC%A7%80%EB%B2%88-windows)
+[![그림 90.1.8.2.14.a101. `도구` → `칠하기 도구` → `닷지/번` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3860e5da-44f2-4088-a577-4f7de529a868)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-14-dodge_burn.html#%EA%B7%B8%EB%A6%BC-9018214a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%8B%B7%EC%A7%80%EB%B2%88-windows)
 
 [다른 운영체제와 언어의 `도구` → `칠하기 도구` → `닷지/번` 확인하기](./90-01-08-toolsx-02-paint_toolsx-14-dodge_burn.md)
 
