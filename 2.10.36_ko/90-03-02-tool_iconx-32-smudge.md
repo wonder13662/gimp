@@ -13,7 +13,7 @@
 #### 영상 90.3.2.32.a101. 문지르기(Smudge)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c266461f-b922-4a68-a836-a500bb18047a"></video>
 
-[3.5.1. 목적 - 영상 90.3.2.32.a101. 문지르기(Smudge)의 직선그리기]()
+[3.5.1. 목적 - 영상 90.3.2.32.a101. 문지르기(Smudge)의 직선그리기](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EC%98%81%EC%83%81-903232a101-%EB%AC%B8%EC%A7%80%EB%A5%B4%EA%B8%B0smudge%EC%9D%98-%EC%A7%81%EC%84%A0%EA%B7%B8%EB%A6%AC%EA%B8%B0)
 
 ***
 
