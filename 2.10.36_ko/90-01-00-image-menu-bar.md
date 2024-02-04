@@ -384,6 +384,56 @@
 ## [90.1.9. 필터(Filters)](./90-01-09-filters.md)
 [<img width="1080" alt="90.1.9. 필터(Filters)" src="https://github.com/wonder13662/gimp/assets/15767104/8aa3e45d-3325-49f6-ad23-d0e6508fa205">](./90-01-09-filters.md)
 
+[90.1.9.1. 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
+
+[90.1.9.2. 보강(Enhance)](./90-01-09-filtersx-02-enhance.md)
+
+[90.1.9.3. 왜곡(Distorts)](./90-01-09-filtersx-03-distorts.md)
+
+[90.1.9.4. 빛/그림자(Light & Shadow)](./90-01-09-filtersx-04-light_n_shadow.md)
+
+[90.1.9.5. 노이즈(Noise)](./90-01-09-filtersx-05-noise.md)
+
+[90.1.9.6. 경계-검출(Edge-Detect)](./90-01-09-filtersx-06-edge_detect.md)
+
+[90.1.9.7. 일반(Generic)](./90-01-09-filtersx-07-generic.md)
+
+[90.1.9.8. 결합(Combine)](./90-01-09-filtersx-08-combine.md)
+
+[90.1.9.9. 예술(Artistic)](./90-01-09-filtersx-09-artistic.md)
+
+[90.1.9.10. 장식(Decor)](./90-01-09-filtersx-10-decor.md)
+
+[90.1.9.11. 맵(Map)](./90-01-09-filtersx-11-map.md)
+
+[90.1.9.12. 렌더(Render)](./90-01-09-filtersx-12-render.md)
+
+[90.1.9.12.1. 프랙탈(Fractal)](./90-01-09-filtersx-12-renderx-01-fractal.md)
+
+[90.1.9.12.2. Noise(Noise)](./90-01-09-filtersx-12-renderx-02-noise.md)
+
+[90.1.9.12.3. 무늬(Pattern)](./90-01-09-filtersx-12-renderx-03-pattern.md)
+
+[90.1.9.12.4. Spyrogimp(Spyrogimp)](./90-01-09-filtersx-12-renderx-04-spyrogimp.md)
+
+[90.1.9.12.5. Circuit(Circuit)](./90-01-09-filtersx-12-renderx-05-circuit.md)
+
+[90.1.9.12.6. Gfig(Gfig)](./90-01-09-filtersx-12-renderx-06-gfig.md)
+
+[90.1.9.12.7. Lava(Lava)](./90-01-09-filtersx-12-renderx-07-lava.md)
+
+[90.1.9.12.8. Line Nova(Line Nova)](./90-01-09-filtersx-12-renderx-08-line_nova.md)
+
+[90.1.9.12.9. 구체 디자이너(Sphere Designer)](./90-01-09-filtersx-12-renderx-09-sphere_designer.md)
+
+[90.1.9.13. 웹(Web)](./90-01-09-filtersx-13-web.md)
+
+[90.1.9.14. 애니메이션(Animation)](./90-01-09-filtersx-14-animation.md)
+
+[90.1.9.15. Python-Fu](./90-01-09-filtersx-15-python_fu.md)
+
+[90.1.9.16. Script-Fu](./90-01-09-filtersx-16-script_fu.md)
+
 ## [90.1.10. 창(Windows)](./90-01-10-windows.md)
 [<img width="1080" alt="90.1.10. 창(Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/5898f1cf-caac-4702-a2a8-eb6586d704fe">](./90-01-10-windows.md)
 

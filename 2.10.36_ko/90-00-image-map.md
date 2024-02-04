@@ -412,11 +412,23 @@
 
 [90.1.9.12. 렌더(Render)](./90-01-09-filtersx-12-render.md)
 
-[90.1.9.12.1. 렌더(Render) - 프랙탈(Fractals)](./90-01-09-filtersx-12-renderx-01-fractals.md)
+[90.1.9.12.1. 프랙탈(Fractal)](./90-01-09-filtersx-12-renderx-01-fractal.md)
 
-[90.1.9.12.2. 렌더(Render) - 노이즈(Noise)](./90-01-09-filtersx-12-renderx-02-noise.md)
+[90.1.9.12.2. Noise(Noise)](./90-01-09-filtersx-12-renderx-02-noise.md)
 
-[90.1.9.12.3. 렌더(Render) - 무늬(Pattern)](./90-01-09-filtersx-12-renderx-03-pattern.md)
+[90.1.9.12.3. 무늬(Pattern)](./90-01-09-filtersx-12-renderx-03-pattern.md)
+
+[90.1.9.12.4. Spyrogimp(Spyrogimp)](./90-01-09-filtersx-12-renderx-04-spyrogimp.md)
+
+[90.1.9.12.5. Circuit(Circuit)](./90-01-09-filtersx-12-renderx-05-circuit.md)
+
+[90.1.9.12.6. Gfig(Gfig)](./90-01-09-filtersx-12-renderx-06-gfig.md)
+
+[90.1.9.12.7. Lava(Lava)](./90-01-09-filtersx-12-renderx-07-lava.md)
+
+[90.1.9.12.8. Line Nova(Line Nova)](./90-01-09-filtersx-12-renderx-08-line_nova.md)
+
+[90.1.9.12.9. 구체 디자이너(Sphere Designer)](./90-01-09-filtersx-12-renderx-09-sphere_designer.md)
 
 [90.1.9.13. 웹(Web)](./90-01-09-filtersx-13-web.md)
 
