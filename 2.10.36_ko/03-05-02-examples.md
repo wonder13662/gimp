@@ -11,10 +11,10 @@
 ## 3.5.2.2. 예제 #2
 도장 도구의 "무늬로 칠하기"를 이용해, "Maple Leaves" 무늬가 있는 직선 그리기.
 
-#### 그림 3.5.2.2.1. 도장(Clone)의 도구 옵션(Tool Options) 설정
-<img width="480" alt="그림 3.5.2.1.1. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options) 설정" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7adca336-8467-44a2-9ff7-9fcf16919f61">
+#### 그림 90.3.2.29.a111. 도장(Clone)의 도구 옵션(Tool Options) 설정
+![그림 90.3.2.29.a111. 도장(Clone)의 도구 옵션(Tool Options) 설정](https://github.com/wonder13662/gimp/assets/15767104/7adca336-8467-44a2-9ff7-9fcf16919f61)
 
-#### 영상 3.5.2.2.2. 도장(Clone)의 "무늬로 칠하기"
+#### 영상 90.3.2.29.a112. 도장(Clone)의 "무늬로 칠하기"
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/03865af2-1672-4732-a24e-a3764e9bef34"></video>
 
 ## 3.5.2.3. 예제 #3 - 문지르기(Smudge)
