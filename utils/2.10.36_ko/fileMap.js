@@ -139,7 +139,7 @@ module.exports = {
       [
         '03-05-02-examples.md', 
         '3.5.2. Examples',
-        '3.5.2. 예제들',
+        '3.5.2. 직선그리기 예제들',
       ],
       [
         '04-00-what-to-do-if-you-are-stuck.md', 

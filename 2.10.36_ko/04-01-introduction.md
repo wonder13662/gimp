@@ -7,7 +7,7 @@
 
 [➡️ 다음: 4.2.1. 떠있는 선택](./04-02-01-there-is-a-floating-selection.md)
 
-[⬅️ 이전: 3.5.2. 예제들](./03-05-02-examples.md)
+[⬅️ 이전: 3.5.2. 직선그리기 예제들](./03-05-02-examples.md)
 
 [⬆️ 위: 4. 문제 해결하기](./04-00-what-to-do-if-you-are-stuck.md)
 

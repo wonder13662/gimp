@@ -8,7 +8,7 @@
 #### 그림 90.1.9.12.2.3.a1. `필터` → `렌더` → `노이즈` → `플라즈마` (Windows) (우리말)
 ![그림 90.1.9.12.2.3.a1. `필터` → `렌더` → `노이즈` → `플라즈마` (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/12b3c52e-4f22-41cc-a65f-6e18edfc48c8)
 
-[3.5.2. 예제들 - 그림 90.1.9.12.2.3.a1. `필터` → `렌더` → `노이즈` → `플라즈마` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-02-examples.html#%EA%B7%B8%EB%A6%BC-90191223a1-%ED%95%84%ED%84%B0--%EB%A0%8C%EB%8D%94--%EB%85%B8%EC%9D%B4%EC%A6%88--%ED%94%8C%EB%9D%BC%EC%A6%88%EB%A7%88-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[3.5.2. 직선그리기 예제들 - 그림 90.1.9.12.2.3.a1. `필터` → `렌더` → `노이즈` → `플라즈마` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-02-examples.html#%EA%B7%B8%EB%A6%BC-90191223a1-%ED%95%84%ED%84%B0--%EB%A0%8C%EB%8D%94--%EB%85%B8%EC%9D%B4%EC%A6%88--%ED%94%8C%EB%9D%BC%EC%A6%88%EB%A7%88-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.1.9.12.2.3.a2. `필터` → `렌더` → `노이즈` → `플라즈마` (Windows) (영어)
 ![그림 90.1.9.12.2.3.a2. `필터` → `렌더` → `노이즈` → `플라즈마` (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/f2e4fb1f-b624-44df-a73a-21867b0cc73e)
