@@ -8,7 +8,7 @@
 #### 그림 90.1.9.12.3.4.a1. `필터` → `렌더` → `무늬` → `격자` (Windows) (우리말)
 ![그림 90.1.9.12.3.4.a1. `필터` → `렌더` → `무늬` → `격자` (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/bd322dfe-1c14-4d1e-8bd1-fccfb04146ff)
 
-[3.5.2. 예제들 - 그림 90.1.9.12.3.4.a1. `필터` → `렌더` → `무늬` → `격자` (Windows) (우리말)]()
+[3.5.2. 예제들 - 그림 90.1.9.12.3.4.a1. `필터` → `렌더` → `무늬` → `격자` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-02-examples.html#%EA%B7%B8%EB%A6%BC-90191234a1-%ED%95%84%ED%84%B0--%EB%A0%8C%EB%8D%94--%EB%AC%B4%EB%8A%AC--%EA%B2%A9%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.1.9.12.3.4.a2. `필터` → `렌더` → `무늬` → `격자` (Windows) (영어)
 ![그림 90.1.9.12.3.4.a2. `필터` → `렌더` → `무늬` → `격자` (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/e87dd96c-ce04-458e-a4c4-8a0ae9daf48f)
