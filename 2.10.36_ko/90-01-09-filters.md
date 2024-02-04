@@ -36,6 +36,32 @@
 
 [90.1.9.12.3. 무늬(Pattern)](./90-01-09-filtersx-12-renderx-03-pattern.md)
 
+[90.1.9.12.3.1. Bayer Matrix(Bayer Matrix)](./90-01-09-filtersx-12-renderx-03-patternx-01-bayer_matrix.md)
+
+[90.1.9.12.3.2. 체커보드(Checkerboard)](./90-01-09-filtersx-12-renderx-03-patternx-02-checkerboard.md)
+
+[90.1.9.12.3.3. Diffraction Pattern(Diffraction Pattern)](./90-01-09-filtersx-12-renderx-03-patternx-03-diffraction_pattern.md)
+
+[90.1.9.12.3.4. 격자(Grid)](./90-01-09-filtersx-12-renderx-03-patternx-04-grid.md)
+
+[90.1.9.12.3.5. 선형 사인곡선(Linear Sinusoid)](./90-01-09-filtersx-12-renderx-03-patternx-05-linear_sinusoid.md)
+
+[90.1.9.12.3.6. 미로(Maze)](./90-01-09-filtersx-12-renderx-03-patternx-06-maze.md)
+
+[90.1.9.12.3.7. 구부러짐(Sinus)](./90-01-09-filtersx-12-renderx-03-patternx-07-sinus.md)
+
+[90.1.9.12.3.8. 나선형(Spiral)](./90-01-09-filtersx-12-renderx-03-patternx-08-spiral.md)
+
+[90.1.9.12.3.9. CML 탐색기(CML Explorer)](./90-01-09-filtersx-12-renderx-03-patternx-09-cml_explorer.md)
+
+[90.1.9.12.3.10. 체커보드 (이전버전)(Checkerboard (legacy))](./90-01-09-filtersx-12-renderx-03-patternx-10-checkerboard_legacy.md)
+
+[90.1.9.12.3.11. 격자 (이전버전)(Grid (legacy))](./90-01-09-filtersx-12-renderx-03-patternx-11-grid_legacy.md)
+
+[90.1.9.12.3.12. 실톱(Jigsaw)](./90-01-09-filtersx-12-renderx-03-patternx-12-jigsaw.md)
+
+[90.1.9.12.3.13. Qbist(Qbist)](./90-01-09-filtersx-12-renderx-03-patternx-13-qbist.md)
+
 [90.1.9.12.4. Spyrogimp(Spyrogimp)](./90-01-09-filtersx-12-renderx-04-spyrogimp.md)
 
 [90.1.9.12.5. Circuit(Circuit)](./90-01-09-filtersx-12-renderx-05-circuit.md)

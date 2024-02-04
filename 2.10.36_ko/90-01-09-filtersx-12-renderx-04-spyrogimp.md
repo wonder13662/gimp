@@ -12,7 +12,7 @@
 
 [➡️ 다음: 90.1.9.12.5. Circuit(Circuit)](./90-01-09-filtersx-12-renderx-05-circuit.md)
 
-[⬅️ 이전: 90.1.9.12.3. 무늬(Pattern)](./90-01-09-filtersx-12-renderx-03-pattern.md)
+[⬅️ 이전: 90.1.9.12.3.13. Qbist(Qbist)](./90-01-09-filtersx-12-renderx-03-patternx-13-qbist.md)
 
 [⬆️ 위: 90.1.9.12. 렌더(Render)](./90-01-09-filtersx-12-render.md)
 

@@ -3,7 +3,7 @@
 # [90.1.9. 필터(Filters)](./90-01-09-filters.md)
 # [90.1.9.12. 렌더(Render)](./90-01-09-filtersx-12-render.md)
 # [90.1.9.12.3. 무늬(Pattern)](./90-01-09-filtersx-12-renderx-03-pattern.md)
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 90.1.9.12.3.9. CML 탐색기(CML Explorer)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 (TODO 이미지 추가)
 
@@ -11,9 +11,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 90.1.9.12.3.10. 체커보드 (이전버전)(Checkerboard (legacy))](./90-01-09-filtersx-12-renderx-03-patternx-10-checkerboard_legacy.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 90.1.9.12.3.8. 나선형(Spiral)](./90-01-09-filtersx-12-renderx-03-patternx-08-spiral.md)
 
 [⬆️ 위: 90.1.9.12.3. 무늬(Pattern)](./90-01-09-filtersx-12-renderx-03-pattern.md)
 
