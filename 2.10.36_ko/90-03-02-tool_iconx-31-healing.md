@@ -10,6 +10,11 @@
 
 [3.5.1. 목적 - 그림 90.3.2.31.a2. 도구상자 - 복원](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EA%B7%B8%EB%A6%BC-903231a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%B3%B5%EC%9B%90)
 
+#### 영상 90.3.2.31.a101. 복원(Heal)의 직선그리기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b74e842f-c696-4453-97b6-db95884b4e3c"></video>
+
+[3.5.1. 목적 - 영상 90.3.2.31.a101. 복원(Heal)의 직선그리기]()
+
 ***
 
 ## 다른 페이지로 가기

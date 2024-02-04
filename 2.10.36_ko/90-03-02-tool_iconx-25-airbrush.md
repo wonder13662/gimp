@@ -10,6 +10,11 @@
 
 [3.5.1. 목적 - 그림 90.3.2.25.a2. 도구상자 - 에어브러시](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EA%B7%B8%EB%A6%BC-903225a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%97%90%EC%96%B4%EB%B8%8C%EB%9F%AC%EC%8B%9C)
 
+#### 영상 90.3.2.25.a101. 에어브러시(Airbrush)의 직선그리기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3c2c525b-ae45-4f4d-8dc9-add1d0310af9"></video>
+
+[3.5.1. 목적 - 영상 90.3.2.25.a101. 에어브러시(Airbrush)의 직선그리기]()
+
 ***
 
 ## 다른 페이지로 가기

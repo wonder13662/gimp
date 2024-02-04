@@ -65,7 +65,7 @@
 #### [그림 90.3.2.23.a2. 도구상자 - 그리기 붓](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-23-paintbrush.html#%EA%B7%B8%EB%A6%BC-903223a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93)
 [![그림 90.3.2.23.a2. 도구상자 - 그리기 붓](https://github.com/wonder13662/gimp/assets/15767104/8037e4e3-2df5-4bee-ab58-5efab4efefd1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-23-paintbrush.html#%EA%B7%B8%EB%A6%BC-903223a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93)
 
-#### 영상 3.5.1.6.1.3. 그리기 붓(Paintbrush)의 직선그리기
+### 그림 90.3.2.23.a101. 그리기 붓(Paintbrush)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a31aa347-7971-4b8f-8de0-96667cb763de"></video>
 
 ### 3.5.1.6.2. 연필(Pencil)
@@ -77,7 +77,7 @@
 #### [그림 90.3.2.24.a2. 도구상자 - 연필](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-24-pencil.html#%EA%B7%B8%EB%A6%BC-903224a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%97%B0%ED%95%84)
 [![그림 90.3.2.24.a2. 도구상자 - 연필](https://github.com/wonder13662/gimp/assets/15767104/aa88490b-f8f2-4087-9151-da457b0e271b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-24-pencil.html#%EA%B7%B8%EB%A6%BC-903224a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%97%B0%ED%95%84)
 
-#### 영상 3.5.1.6.2.3. 연필(Pencil)의 직선그리기
+#### 영상 90.3.2.24.a101. 연필(Pencil)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5e21baef-0b02-47f4-91e1-189220dde687"></video>
 
 ### 3.5.1.6.3. 에어브러시(Airbrush)
@@ -89,7 +89,7 @@
 #### [그림 90.3.2.25.a2. 도구상자 - 에어브러시](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-25-airbrush.html#%EA%B7%B8%EB%A6%BC-903225a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%97%90%EC%96%B4%EB%B8%8C%EB%9F%AC%EC%8B%9C)
 [![그림 90.3.2.25.a2. 도구상자 - 에어브러시](https://github.com/wonder13662/gimp/assets/15767104/2f122e0d-c2bf-4473-9471-88d655f28a52)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-25-airbrush.html#%EA%B7%B8%EB%A6%BC-903225a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%97%90%EC%96%B4%EB%B8%8C%EB%9F%AC%EC%8B%9C)
 
-#### 영상 3.5.1.6.3.3. 에어브러시(Airbrush)의 직선그리기
+#### 영상 90.3.2.25.a101. 에어브러시(Airbrush)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3c2c525b-ae45-4f4d-8dc9-add1d0310af9"></video>
 
 ### 3.5.1.6.4. 잉크(Ink)
@@ -101,7 +101,7 @@
 #### [그림 90.3.2.26.a2. 도구상자 - 잉크](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-26-ink.html#%EA%B7%B8%EB%A6%BC-903226a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%9E%89%ED%81%AC)
 [![그림 90.3.2.26.a2. 도구상자 - 잉크](https://github.com/wonder13662/gimp/assets/15767104/7cf5d992-ae21-45d0-88c5-fa9a5cccf23c)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-26-ink.html#%EA%B7%B8%EB%A6%BC-903226a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%9E%89%ED%81%AC)
 
-#### 영상 3.5.1.6.4.3. 잉크(Ink)의 직선그리기
+#### 영상 90.3.2.26.a101. 잉크(Ink)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c51b0ee6-da41-4c09-9771-af91e685fccd"></video>
 
 ### 3.5.1.6.5. MyPaint 붓(MyPaint Brush)
@@ -113,7 +113,7 @@
 #### [그림 90.3.2.27.a2. 도구상자 - MyPaint 붓](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-27-mypaint_brush.html#%EA%B7%B8%EB%A6%BC-903227a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---mypaint-%EB%B6%93)
 [![그림 90.3.2.27.a2. 도구상자 - MyPaint 붓](https://github.com/wonder13662/gimp/assets/15767104/bfba0689-02ca-4a52-9eaf-7280e95a50da)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-27-mypaint_brush.html#%EA%B7%B8%EB%A6%BC-903227a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---mypaint-%EB%B6%93)
 
-#### 영상 3.5.1.6.5.3. MyPaint 붓(MyPaint Brush)의 직선그리기
+#### 영상 90.3.2.27.a101. MyPaint 붓(MyPaint Brush)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1b5efbfe-e43b-49bb-a706-c2cf0bba01d4"></video>
 
 ### 3.5.1.6.6. 도장(Clone)
@@ -125,7 +125,7 @@
 #### [그림 90.3.2.29.a2. 도구상자 - 도장](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-29-clone.html#%EA%B7%B8%EB%A6%BC-903229a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%8F%84%EC%9E%A5)
 [![그림 90.3.2.29.a2. 도구상자 - 도장](https://github.com/wonder13662/gimp/assets/15767104/7dcf76c1-dbf5-41c6-94de-a1a610a75d3d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-29-clone.html#%EA%B7%B8%EB%A6%BC-903229a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%8F%84%EC%9E%A5)
 
-#### 영상 3.5.1.6.6.3. 도장(Clone)의 직선그리기
+#### 영상 90.3.2.29.a101. 도장(Clone)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/faaa0112-9013-49ac-8e91-11bd1f08a424"></video>
 
 ### 3.5.1.6.7. 원근 복제(Perspective Clone)
@@ -137,7 +137,7 @@
 #### [그림 90.3.2.30.a2. 도구상자 - 원근 복제](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-30-perspective_clone.html#%EA%B7%B8%EB%A6%BC-903230a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%9B%90%EA%B7%BC-%EB%B3%B5%EC%A0%9C)
 [![그림 90.3.2.30.a2. 도구상자 - 원근 복제](https://github.com/wonder13662/gimp/assets/15767104/1bebe4c7-108c-47be-a1e8-2e6f2e93a8a9)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-30-perspective_clone.html#%EA%B7%B8%EB%A6%BC-903230a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%9B%90%EA%B7%BC-%EB%B3%B5%EC%A0%9C)
 
-#### 영상 3.5.1.6.7.3. 원근 도장(Perspective Clone)의 직선그리기
+#### 영상 90.3.2.30.a101. 원근 도장(Perspective Clone)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/75691a99-5cda-47d2-9be8-31f930883b26"></video>
 
 ### 3.5.1.6.8. 복원(Heal)
@@ -149,7 +149,7 @@
 #### [그림 90.3.2.31.a2. 도구상자 - 복원](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-31-healing.html#%EA%B7%B8%EB%A6%BC-903231a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%B3%B5%EC%9B%90)
 [![그림 90.3.2.31.a2. 도구상자 - 복원](https://github.com/wonder13662/gimp/assets/15767104/b9fafcea-e1e4-4534-b7e6-cd7eeb0617b0)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-31-healing.html#%EA%B7%B8%EB%A6%BC-903231a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%B3%B5%EC%9B%90)
 
-#### 영상 3.5.1.6.8.3. 복원(Heal)의 직선그리기
+#### 영상 90.3.2.31.a101. 복원(Heal)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b74e842f-c696-4453-97b6-db95884b4e3c"></video>
 
 ### 3.5.1.6.9. 문지르기(Smudge)
@@ -161,7 +161,7 @@
 #### [그림 90.3.2.32.a2. 도구상자 - 문지르기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-32-smudge.html#%EA%B7%B8%EB%A6%BC-903232a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%AC%B8%EC%A7%80%EB%A5%B4%EA%B8%B0)
 [![그림 90.3.2.32.a2. 도구상자 - 문지르기](https://github.com/wonder13662/gimp/assets/15767104/29694b78-a2b8-40a3-b11c-a4b0a6dbdb9b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-32-smudge.html#%EA%B7%B8%EB%A6%BC-903232a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%AC%B8%EC%A7%80%EB%A5%B4%EA%B8%B0)
 
-#### 영상 3.5.1.6.9.3. 문지르기(Smudge)의 직선그리기
+#### 영상 90.3.2.32.a101. 문지르기(Smudge)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c266461f-b922-4a68-a836-a500bb18047a"></video>
 
 ### 3.5.1.6.10. 흐릿하게/선명하게(Blur/Sharpen)
@@ -173,7 +173,7 @@
 #### [그림 90.3.2.33.a2. 도구상자 - '흐릿하게/선명하게'](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-33-blur_sharpen.html#%EA%B7%B8%EB%A6%BC-903233a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%ED%9D%90%EB%A6%BF%ED%95%98%EA%B2%8C%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C)
 [![그림 90.3.2.33.a2. 도구상자 - '흐릿하게/선명하게'](https://github.com/wonder13662/gimp/assets/15767104/b0a3539c-e757-40c6-b3a8-66e730e743ce)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-33-blur_sharpen.html#%EA%B7%B8%EB%A6%BC-903233a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%ED%9D%90%EB%A6%BF%ED%95%98%EA%B2%8C%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C)
 
-#### 영상 3.5.1.6.10.3. 흐릿하게/선명하게(Blur/Sharpen)의 직선그리기
+#### 영상 90.3.2.33.a101. 흐릿하게/선명하게(Blur/Sharpen)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8a426c59-834c-48cd-b3ac-2892d6c9ea64"></video>
 
 ### 3.5.1.6.11. 닷지/번(Dodge/Burn)
@@ -185,7 +185,7 @@
 #### [그림 90.3.2.34.a2. 도구상자 - '닷지/번'](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-34-dodge_burn.html#%EA%B7%B8%EB%A6%BC-903234a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%8B%B7%EC%A7%80%EB%B2%88)
 [![그림 90.3.2.34.a2. 도구상자 - '닷지/번'](https://github.com/wonder13662/gimp/assets/15767104/f602486b-595d-4b15-ba4c-826982b153ce)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-34-dodge_burn.html#%EA%B7%B8%EB%A6%BC-903234a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%8B%B7%EC%A7%80%EB%B2%88)
 
-#### 영상 3.5.1.6.11.3. 닷지/번(Dodge/Burn)의 직선그리기
+#### 영상 90.3.2.34.a2. 닷지/번(Dodge/Burn)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4b92840d-58f5-4c5d-b664-87a6227dc0c8"></video>
 
 ### 3.5.1.6.12. 지우개(Eraser)
@@ -197,7 +197,7 @@
 #### [그림 90.3.2.28.a2. 도구상자 - 지우개](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-28-eraser.html#%EA%B7%B8%EB%A6%BC-903228a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%A7%80%EC%9A%B0%EA%B0%9C)
 [![그림 90.3.2.28.a2. 도구상자 - 지우개](https://github.com/wonder13662/gimp/assets/15767104/8e448288-3d80-449d-ac03-89757a056a1b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-28-eraser.html#%EA%B7%B8%EB%A6%BC-903228a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%A7%80%EC%9A%B0%EA%B0%9C)
 
-#### 영상 3.5.1.6.12.3. 지우개(Eraser)의 직선그리기
+#### 영상 90.3.2.28.a101. 지우개(Eraser)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8a80fba9-b6e8-41fd-bd2c-6427f7175a37"></video>
 
 ***
