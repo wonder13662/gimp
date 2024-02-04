@@ -15,6 +15,11 @@
 
 [3.5.1. 목적 - 영상 90.3.2.34.a101. 닷지/번(Dodge/Burn)의 직선그리기](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EC%98%81%EC%83%81-903234a101-%EB%8B%B7%EC%A7%80%EB%B2%88dodgeburn%EC%9D%98-%EC%A7%81%EC%84%A0%EA%B7%B8%EB%A6%AC%EA%B8%B0)
 
+#### 영상 90.3.2.34.a111. 닷지/번(Dodge/Burn)으로 음영이 있는 사각형 그리기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/871afdd6-a44c-4005-9322-84a474f23b17"></video>
+
+[3.5.2. 예제들 - 영상 90.3.2.34.a111. 닷지/번(Dodge/Burn)으로 음영이 있는 사각형 그리기]()
+
 ***
 
 ## 다른 페이지로 가기

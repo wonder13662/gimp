@@ -42,7 +42,7 @@
 ## 3.5.2.5. 예제 #5 닷지/번(Dodge/Burn)
 사각 선택 도구로 사각형을 선택합니다. 그리고 밝은 파란색으로 채웁니다. `닷지/번(Dodge/Burn)` 도구를 선택해서, 도구 옵션에서 `닷지(Dodge)`를 선택합니다. 사각형보다 작은 붓 크기로 위쪽과 왼쪽을 칠합니다. 그리고 이번에는 `번(Burn)`을 선택하고 아래쪽과 오른쪽을 칠합니다.
 
-#### 영상 3.5.2.5.1. 닷지/번(Dodge/Burn)
+#### 영상 90.3.2.34.a111. 닷지/번(Dodge/Burn)으로 음영이 있는 사각형 그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/871afdd6-a44c-4005-9322-84a474f23b17"></video>
 
 ***
