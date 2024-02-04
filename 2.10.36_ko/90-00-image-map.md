@@ -388,43 +388,43 @@
 
 [90.1.9. 필터(Filters)](./90-01-09-filters.md)
 
-[90.1.9.1. 필터(Filters) - 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
+[90.1.9.1. 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
 
-[90.1.9.2. 필터(Filters) - 보강(Enhance)](./90-01-09-filtersx-02-enhance.md)
+[90.1.9.2. 보강(Enhance)](./90-01-09-filtersx-02-enhance.md)
 
-[90.1.9.3. 필터(Filters) - 왜곡(Distorts)](./90-01-09-filtersx-03-distorts.md)
+[90.1.9.3. 왜곡(Distorts)](./90-01-09-filtersx-03-distorts.md)
 
-[90.1.9.4. 필터(Filters) - 빛/그림자(Light & Shadow)](./90-01-09-filtersx-04-light_n_shadow.md)
+[90.1.9.4. 빛/그림자(Light & Shadow)](./90-01-09-filtersx-04-light_n_shadow.md)
 
-[90.1.9.5. 필터(Filters) - 노이즈(Noise)](./90-01-09-filtersx-05-noise.md)
+[90.1.9.5. 노이즈(Noise)](./90-01-09-filtersx-05-noise.md)
 
-[90.1.9.6. 필터(Filters) - 경계-검출(Edge-Detect)](./90-01-09-filtersx-06-edge_detect.md)
+[90.1.9.6. 경계-검출(Edge-Detect)](./90-01-09-filtersx-06-edge_detect.md)
 
-[90.1.9.7. 필터(Filters) - 일반(Generic)](./90-01-09-filtersx-07-generic.md)
+[90.1.9.7. 일반(Generic)](./90-01-09-filtersx-07-generic.md)
 
-[90.1.9.8. 필터(Filters) - 결합(Combine)](./90-01-09-filtersx-08-combine.md)
+[90.1.9.8. 결합(Combine)](./90-01-09-filtersx-08-combine.md)
 
-[90.1.9.9. 필터(Filters) - 예술(Artistic)](./90-01-09-filtersx-09-artistic.md)
+[90.1.9.9. 예술(Artistic)](./90-01-09-filtersx-09-artistic.md)
 
-[90.1.9.10. 필터(Filters) - 장식(Decor)](./90-01-09-filtersx-10-decor.md)
+[90.1.9.10. 장식(Decor)](./90-01-09-filtersx-10-decor.md)
 
-[90.1.9.11. 필터(Filters) - 맵(Map)](./90-01-09-filtersx-11-map.md)
+[90.1.9.11. 맵(Map)](./90-01-09-filtersx-11-map.md)
 
-[90.1.9.12. 필터(Filters) - 렌더(Render)](./90-01-09-filtersx-12-render.md)
+[90.1.9.12. 렌더(Render)](./90-01-09-filtersx-12-render.md)
 
-[90.1.9.12.1. 필터(Filters) - 렌더(Render) - 프랙탈(Fractals)](./90-01-09-filtersx-12-renderx-01-fractals.md)
+[90.1.9.12.1. 렌더(Render) - 프랙탈(Fractals)](./90-01-09-filtersx-12-renderx-01-fractals.md)
 
-[90.1.9.12.2. 필터(Filters) - 렌더(Render) - 노이즈(Noise)](./90-01-09-filtersx-12-renderx-02-noise.md)
+[90.1.9.12.2. 렌더(Render) - 노이즈(Noise)](./90-01-09-filtersx-12-renderx-02-noise.md)
 
-[90.1.9.12.3. 필터(Filters) - 렌더(Render) - 무늬(Pattern)](./90-01-09-filtersx-12-renderx-03-pattern.md)
+[90.1.9.12.3. 렌더(Render) - 무늬(Pattern)](./90-01-09-filtersx-12-renderx-03-pattern.md)
 
-[90.1.9.13. 필터(Filters) - 웹(Web)](./90-01-09-filtersx-13-web.md)
+[90.1.9.13. 웹(Web)](./90-01-09-filtersx-13-web.md)
 
-[90.1.9.14. 필터(Filters) - 애니메이션(Animation)](./90-01-09-filtersx-14-animation.md)
+[90.1.9.14. 애니메이션(Animation)](./90-01-09-filtersx-14-animation.md)
 
-[90.1.9.15. 필터(Filters) - Python-Fu](./90-01-09-filtersx-15-python_fu.md)
+[90.1.9.15. Python-Fu](./90-01-09-filtersx-15-python_fu.md)
 
-[90.1.9.16. 필터(Filters) - Script-Fu](./90-01-09-filtersx-16-script_fu.md)
+[90.1.9.16. Script-Fu](./90-01-09-filtersx-16-script_fu.md)
 
 [90.1.10. 창(Windows)](./90-01-10-windows.md)
 
