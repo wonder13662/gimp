@@ -18,7 +18,7 @@
 #### 영상 90.3.2.32.a111. 문지르기(Smudge)의 직선 그리기로 격자 모양에 문지르기 효과주기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a040ac09-806b-47b5-ae25-2accfa6630c8"></video>
 
-[3.5.2. 직선그리기 예제들 - 영상 90.3.2.32.a111. 문지르기(Smudge)의 직선 그리기로 격자 모양에 문지르기 효과주기]()
+[3.5.2. 직선그리기 예제들 - 영상 90.3.2.32.a111. 문지르기(Smudge)의 직선 그리기로 격자 모양에 문지르기 효과주기](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-02-examples.html#%EC%98%81%EC%83%81-903232a111-%EB%AC%B8%EC%A7%80%EB%A5%B4%EA%B8%B0smudge%EC%9D%98-%EC%A7%81%EC%84%A0-%EA%B7%B8%EB%A6%AC%EA%B8%B0%EB%A1%9C-%EA%B2%A9%EC%9E%90-%EB%AA%A8%EC%96%91%EC%97%90-%EB%AC%B8%EC%A7%80%EB%A5%B4%EA%B8%B0-%ED%9A%A8%EA%B3%BC%EC%A3%BC%EA%B8%B0)
 
 ***
 
