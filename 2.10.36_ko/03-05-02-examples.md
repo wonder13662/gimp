@@ -2,10 +2,10 @@
 ## 3.5.2.1. 예제 #1
 그리기 붓(Paintbrush)의 도구옵션(Tool Options)의 동적 요소(Dynamics)를 "Color From Gradient"로 설정합니다. 그리고 색상 옵션(Color Options)는 "Incandescent"로 설정합니다. 페이드 옵션(Fade Options)의 반복은 "Truncate"로 설정합니다. 이미지의 크기에 따라 "흐리게 길이(Fade length)"를 조절할 수 있습니다.
 
-#### 그림 90.3.2.23.a111. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options) 설정
-![그림 90.3.2.23.a111. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options) 설정](https://github.com/wonder13662/gimp/assets/15767104/bca225fa-05ed-4777-aef7-321eb8ec74d0)
+#### [그림 90.3.2.23.a111. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options) 설정](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-23-paintbrush.html#%EA%B7%B8%EB%A6%BC-903223a111-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93paintbrush%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options-%EC%84%A4%EC%A0%95)
+[![그림 90.3.2.23.a111. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options) 설정](https://github.com/wonder13662/gimp/assets/15767104/bca225fa-05ed-4777-aef7-321eb8ec74d0)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-23-paintbrush.html#%EA%B7%B8%EB%A6%BC-903223a111-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93paintbrush%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options-%EC%84%A4%EC%A0%95)
 
-#### 영상 90.3.2.23.a112. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options)의 `Color From Gradient` 적용하기
+#### [영상 90.3.2.23.a112. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options)의 `Color From Gradient` 적용하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-23-paintbrush.html#%EC%98%81%EC%83%81-903223a112-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93paintbrush%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options%EC%9D%98-color-from-gradient-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6215e2ac-b807-4732-b106-e37b2c0c2c82"></video>
 
 ## 3.5.2.2. 예제 #2
