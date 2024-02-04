@@ -36,7 +36,7 @@
 
 [다른 운영체제와 언어의 `필터` → `렌더` → `노이즈` → `플라즈마` 확인하기](./90-01-09-filtersx-12-renderx-02-noisex-03-plasma.md)
 
-#### 영상 3.5.2.4.2. 지우개(Eraser)
+#### 영상 90.3.2.28.a111. 지우개(Eraser)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6b7f59a3-84c4-4a70-b5f3-b7ad44e04db4"></video>
 
 ## 3.5.2.5. 예제 #5 닷지/번(Dodge/Burn)
