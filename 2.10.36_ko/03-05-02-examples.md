@@ -56,3 +56,5 @@
 [⬆️ 위: 3.5. 직선 그리기](./03-05-00-how-to-draw-straight-lines.md)
 
 [🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-tutorial-straight-lines-examples.html)
