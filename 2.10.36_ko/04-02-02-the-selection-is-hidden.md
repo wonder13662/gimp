@@ -12,12 +12,12 @@
 #### [그림 90.1.4.12.a101. `보기`  →  `선택 영역 보이기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-04-viewx-12-show_selection.html#%EA%B7%B8%EB%A6%BC-901412a101-%EB%B3%B4%EA%B8%B0----%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD-%EB%B3%B4%EC%9D%B4%EA%B8%B0)
 [![그림 90.1.4.12.a101. `보기`  →  `선택 영역 보이기`](https://github.com/wonder13662/gimp/assets/15767104/bb794f64-e5fb-449c-85b2-1cddac0ea296)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-04-viewx-12-show_selection.html#%EA%B7%B8%EB%A6%BC-901412a101-%EB%B3%B4%EA%B8%B0----%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD-%EB%B3%B4%EC%9D%B4%EA%B8%B0)
 
-#### 영상 4.2.2.2.a1. '이미지 메뉴 바'의 '선택 영역 보이기' 메뉴 토글로 선택 영역 가리기/보이기
+#### 영상 90.1.4.12.a102. '이미지 메뉴 바'의 '선택 영역 보이기' 메뉴 토글로 선택 영역 가리기/보이기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e1234cf2-0f8d-465b-baac-b732be5af7a4"></video>
 
 또는 단축키(Ctrl + T(Windows) or ⌘ + T(Mac))로 해제할 수 있습니다.
 
-#### 영상 4.2.2.2.a2. 단축키(Ctrl + T(Windows) or ⌘ + T(Mac))로 선택 영역 가리기/보이기
+#### 영상 90.1.4.12.a103. 단축키(Ctrl + T(Windows) or ⌘ + T(Mac))로 선택 영역 가리기/보이기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a2dd03ee-ee24-421e-9cde-7d54c44a313a"></video>
 
 ***
