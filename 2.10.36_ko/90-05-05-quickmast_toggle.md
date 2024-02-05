@@ -2,10 +2,6 @@
 # [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 # 90.5.5. 퀵마스크 토글 버튼 (QuickMask Toggle)
 
-***
-
-## 기능이 쓰인 곳
-
 #### 그림 90.5.5.a101. (5)퀵마스크 토글 버튼의 위치 (다중창)
 ![그림 90.5.5.a101. (5)퀵마스크 토글 버튼의 위치 (다중창)](https://github.com/wonder13662/gimp/assets/15767104/0341cdc8-f2d5-4bd6-b1d6-ac591c1c22fb)
 
@@ -25,6 +21,11 @@
 <video controls="controls" width="170" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2a4236c9-ff2d-4200-9ce6-6dc880a50a84"></video>
 
 [3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 영상 90.5.5.a112. 퀵 마스크 토글 확대해서 보기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-05-quickmask-toggle.html#%EC%98%81%EC%83%81-9055a112-%ED%80%B5-%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80-%ED%99%95%EB%8C%80%ED%95%B4%EC%84%9C-%EB%B3%B4%EA%B8%B0)
+
+#### 영상 90.5.5.a121. 퀵마스크 적용으로 선택영역 확인하기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ecb7111d-e19d-4959-bd35-65dd55af06a0"></video>
+
+[4.2.3. 선택영역 바깥쪽에서 작업을 하려는 경우 - 영상 90.5.5.a121. 퀵마스크 적용으로 선택영역 확인하기]()
 
 ***
 
