@@ -13,7 +13,7 @@
 #### 영상 90.1.3.4.a111. 단축키로 떠있는 선택 만들기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/96771078-ba0f-4aee-a5cd-b49153aa6c6c"></video>
 
-[4.2.1. 떠있는 선택(floating selection) - 영상 90.1.3.4.a111. 단축키로 떠있는 선택 만들기]()
+[4.2.1. 떠있는 선택(floating selection) - 영상 90.1.3.4.a111. 단축키로 떠있는 선택 만들기](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-01-there-is-a-floating-selection.html#%EC%98%81%EC%83%81-90134a111-%EB%8B%A8%EC%B6%95%ED%82%A4%EB%A1%9C-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 ***
 
