@@ -1,7 +1,7 @@
 # 4.2.2. 숨겨진 선택
 
-#### 그림 4.2. '이미지 메뉴 바'의 '선택 영역 보이기' 메뉴 위치
-<img width="480" alt="그림 4.2. 이미지 메뉴 바의 선택 영역 보이기 메뉴 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e2df69db-2fcd-4ffe-9f39-f34bf75257c2">
+#### 그림 90.1.4.12.a101. `보기`  →  `선택 영역 보이기`
+![그림 90.1.4.12.a101. `보기`  →  `선택 영역 보이기`](https://github.com/wonder13662/gimp/assets/15767104/bb794f64-e5fb-449c-85b2-1cddac0ea296)
 
 ## 4.2.2.1. 문제
 선택 영역의 깜빡이는 경계선(marching ants)이 이미지의 일부분을 가려 방해가 되는 경우가 있습니다.
