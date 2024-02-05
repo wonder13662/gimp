@@ -4,11 +4,16 @@
 # [90.1.10.2. 도킹가능한 대화(Dockable dialogs)](./90-01-10-windowsx-02-dockable_dialogs.md)
 # 90.1.10.2.3. 레이어(Layers)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.1.10.2.3.a101. `창` → `레이어` (Windows)
+#### 그림 90.1.10.2.3.a101. `창` → `도킹가능한 대화` → `레이어` (Windows)
 (TODO 이미지 추가)
 
-#### 그림 90.1.10.2.3.a102. `창` → `레이어` (Mac)
+#### 그림 90.1.10.2.3.a102. `창` → `도킹가능한 대화` → `레이어` (Mac)
 (TODO 이미지 추가)
+
+#### 영상 90.1.10.2.3.a111. `창` → `도킹가능한 대화` → `레이어`의 단축키 사용 (Windows)
+
+#### 영상 90.1.10.2.3.a121. `창` → `도킹가능한 대화` → `레이어`의 단축키 사용 (Mac)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/626ceaad-b1d8-4f80-8540-e78a04a1c93a"></video>
 
 ***
 
