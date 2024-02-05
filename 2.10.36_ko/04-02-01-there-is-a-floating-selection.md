@@ -32,7 +32,8 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/96771078-ba0f-4aee-a5cd-b49153aa6c6c"></video>
 
 ### 선택 영역의 복사 + 붙여넣기로 떠있는 선택 만들기
-(TODO 영상 추가)
+#### 그림 90.4.3.a111. 선택 영역의 복사 + 붙여넣기로 떠있는 선택 만들기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/df01454e-345e-43ad-af3b-eeb2001c8f4b"></video>
 
 ## 4.2.1.2. 어떻게 해결하나요?
 떠있는 선택 레이어에서 우클릭을 하여 레이어 메뉴를 엽니다. 레이어 메뉴에서 `레이어 고정(Anchor Layer)`을 클릭해서 떠있는 레이어의 아래 레이어로 합칩니다. 또는 `새 레이어`를 클릭(단축키는 Shift + Ctrl + N(Windows) or ⇧ + ⌘ + N(Mac))해서 떠있는 선택을 일반적인 레이어로 바꿀 수 있습니다. 자세한 내용은 [16.4.5. 띄우기(Float)](./16-04-05-float.md)를 참고해주세요.
