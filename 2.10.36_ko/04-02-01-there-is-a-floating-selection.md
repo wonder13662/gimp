@@ -39,11 +39,8 @@
 ## 4.2.1.2. 어떻게 해결하나요?
 떠있는 선택 레이어에서 우클릭을 하여 레이어 메뉴를 엽니다. 레이어 메뉴에서 `레이어 고정(Anchor Layer)`을 클릭해서 떠있는 레이어의 아래 레이어로 합칩니다. 또는 `새 레이어`를 클릭(단축키는 Shift + Ctrl + N(Windows) or ⇧ + ⌘ + N(Mac))해서 떠있는 선택을 일반적인 레이어로 바꿀 수 있습니다. 자세한 내용은 [16.4.5. 띄우기(Float)](./16-04-05-float.md)를 참고해주세요.
 
-#### 그림 4.2.1.2.a1 레이어 대화상자의 레이어 메뉴(Layer Menu)의 레이어 고정(Anchor Layer)메뉴(우리말)
-<img width="720" alt="그림 4.2.1.2.a1 레이어 대화상자의 레이어 메뉴(Layer Menu)의 레이어 고정(Anchor Layer)메뉴(우리말)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2ff0acf-1994-4f64-9bf1-d9a0b9e83dc2">
-
-#### 그림 4.2.1.2.a2 레이어 대화상자의 레이어 메뉴(Layer Menu)의 레이어 고정(Anchor Layer)메뉴(영어)
-<img width="720" alt="그림 4.2.1.2.a1 레이어 대화상자의 레이어 메뉴(Layer Menu)의 레이어 고정(Anchor Layer)메뉴(우리말)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb89f973-3549-4f65-aee3-faaafb82100c">
+#### 그림 90.4.3.a121. 떠있는 선택을 고정(anchor)하기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c175c5af-83c8-4fb6-874b-50893df5dc66"></video>
 
 ***
 
