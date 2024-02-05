@@ -16,15 +16,21 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2ab9dd30-30a4-4563-a938-31b94219327b"></video>
 
 ### 4.2.3.2.2. 해결방안 - 선택영역을 퀵마스크로 확인하기
-선택영역이 보이더라도, 기대하는 것과는 정반대의 선택영역일 수도 있습니다. 가장 쉽게 확인하는 방법은 [퀵마스크](./07-03-00-the-quickmask.md) 버튼을 눌러보는 것입니다. 선택 영역인 곳은 사라지고, 선택 영역이 아닌 곳은 가려집니다. 확인된 선택영역이 올바르지 않다면, 퀵마스크를 끈 뒤에 이미지 메뉴 바의 `선택(Select)` → `반전(Invert)` 또는 단축키 Ctrl + I (Windows) 또는 ⌘ + I (Mac)를 눌러 선택영역을 반대로 바꿀 수 있습니다.
+선택영역이 보이더라도, 기대하는 것과는 정반대의 선택영역일 수도 있습니다. 가장 쉽게 확인하는 방법은 [퀵마스크](./07-03-00-the-quickmask.md) 버튼을 눌러보는 것입니다. 선택 영역인 곳은 사라지고, 선택 영역이 아닌 곳은 가려집니다. 
 
 #### 영상 4.2.3.2.2.a1 퀵마스크 적용으로 선택영역 확인하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ecb7111d-e19d-4959-bd35-65dd55af06a0"></video>
 
-#### 영상 4.2.3.2.2.a2 이미지 메뉴 바의 `선택(Select)` → `반전(Invert)`로 선택영역 반전(Invert) 시키기
+### 4.2.3.2.3. 해결방안 - 선택영역을 반전시키기
+확인된 선택영역이 올바르지 않다면, 퀵마스크를 끈 뒤에 이미지 메뉴 바의 `선택(Select)` → `반전(Invert)` 또는 단축키 Ctrl + I (Windows) 또는 ⌘ + I (Mac)를 눌러 선택영역을 반대로 바꿀 수 있습니다.
+
+#### 그림 90.1.3.3.a101. `선택` → `반전`
+![그림 90.1.3.3.a101. `선택` → `반전`](https://github.com/wonder13662/gimp/assets/15767104/7de10abb-638d-4d04-8436-7368cf694769)
+
+#### 영상 90.1.3.3.a102. 이미지 메뉴 바의 `선택(Select)` → `반전(Invert)`로 선택영역 반전(Invert) 시키기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6a9c1486-e342-4b0f-955d-c4f058f834ff"></video>
 
-#### 영상 4.2.3.2.2.a3 단축키 Ctrl + I (Windows) 또는 ⌘ + I (Mac)로 선택영역 반전(Invert) 시키기
+#### 영상 90.1.3.3.a103. 단축키 Ctrl + I (Windows) 또는 ⌘ + I (Mac)로 선택영역 반전(Invert) 시키기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ce0dd549-3101-4ca7-84f1-1ca53a3dc54b"></video>
 
 ***
