@@ -7,7 +7,7 @@
 #### 그림 90.1.3.4.a101. `선택` → `띄우기`
 ![그림 90.1.3.4.a101. `선택` → `띄우기`](https://github.com/wonder13662/gimp/assets/15767104/8080d2be-dc54-4cf0-80ed-e13dfdacfb9a)
 
-[4.2.1. 떠있는 선택(floating selection) - 그림 90.1.3.4.a101. `선택` → `띄우기`]()
+[4.2.1. 떠있는 선택(floating selection) - 그림 90.1.3.4.a101. `선택` → `띄우기`](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-01-there-is-a-floating-selection.html#%EA%B7%B8%EB%A6%BC-90134a101-%EC%84%A0%ED%83%9D--%EB%9D%84%EC%9A%B0%EA%B8%B0)
 
 ***
 
