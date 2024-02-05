@@ -245,17 +245,57 @@
 
 [90.1.4. 보기(View)](./90-01-04-view.md)
 
-[90.1.4.1. 보기(View) - 확대(Zoom)](./90-01-04-viewx-01-zoom.md)
+[90.1.4.1. 새 창으로 보기(New View)](./90-01-04-viewx-01-new_view.md)
 
-[90.1.4.2. 보기(View) - 뒤집기/회전(Flip & Rotate (0°))](./90-01-04-viewx-02-flip-n-rotate.md)
+[90.1.4.2. Show All(Show All)](./90-01-04-viewx-02-show_all.md)
 
-[90.1.4.3. 보기(View) - 색상 관리(Color management)](./90-01-04-viewx-03-color_management.md)
+[90.1.4.3. 점대점(Dot for Dot)](./90-01-04-viewx-03-dot_for_dot.md)
 
-[90.1.4.3.1. 보기(View) - 색상 관리(Color management) - 화면 렌더링 목적(Display rendering intent)](./90-01-04-viewx-03-color_managementx-01-display_rendering_intent.md)
+[90.1.4.4. 확대 (100%)(Zoom (100%))](./90-01-04-viewx-04-zoom.md)
 
-[90.1.4.3.2. 보기(View) - 색상 관리(Color management) - 색상 교정 렌더링 목적(Soft proofing rendering intent)](./90-01-04-viewx-03-color_managementx-02-soft_proofing_rendering_intent.md)
+[90.1.4.5. 뒤집기와 회전 (0°)(Flip & Rotate (0°))](./90-01-04-viewx-05-flip_n_rotate.md)
 
-[90.1.4.4. 보기(View) - 색 채우기(Padding color)](./90-01-04-viewx-04-padding_color.md)
+[90.1.4.6. 이미지를 창의 가운데로 옮김(Center Image in Window)](./90-01-04-viewx-06-center_image_in_window.md)
+
+[90.1.4.7. 창 크기를 이미지에 맞춤(Shrink Wrap)](./90-01-04-viewx-07-shrink_wrap.md)
+
+[90.1.4.8. 전체화면(Fullscreen)](./90-01-04-viewx-08-fullscreen.md)
+
+[90.1.4.9. 내비게이션 창(Navigation Window)](./90-01-04-viewx-09-navigation_window.md)
+
+[90.1.4.10. 필터 보이기(Display Filters)](./90-01-04-viewx-10-display_filters.md)
+
+[90.1.4.11. 색상 관리(Color Management)](./90-01-04-viewx-11-color_management.md)
+
+[90.1.4.12. 선택 영역 보이기(Show Selection)](./90-01-04-viewx-12-show_selection.md)
+
+[90.1.4.13. 레이어 경계 보이기(Show Layer Boundary)](./90-01-04-viewx-13-show_layer_boundary.md)
+
+[90.1.4.14. 캔버스 경계 보이기(Show Canvas Boundary)](./90-01-04-viewx-14-show_canvas_boundary.md)
+
+[90.1.4.15. 안내선 보이기(Show Guides)](./90-01-04-viewx-15-show_guides.md)
+
+[90.1.4.16. 격자 보이기(Show Grid)](./90-01-04-viewx-16-show_grid.md)
+
+[90.1.4.17. 표본점 보이기(Show Sample Points)](./90-01-04-viewx-17-show_sample_points.md)
+
+[90.1.4.18. 안내선에 맞추기(Snap to Guides)](./90-01-04-viewx-18-snap_to_guides.md)
+
+[90.1.4.19. 격자에 맞추기(Snap to Grid)](./90-01-04-viewx-19-snap_to_grid.md)
+
+[90.1.4.20. 캔버스 경계에 맞추기(Snap to Canvas Edges)](./90-01-04-viewx-20-snap_to_canvas_edges.md)
+
+[90.1.4.21. 활성 경로에 맞추기(Snap to Active Path)](./90-01-04-viewx-21-snap_to_active_path.md)
+
+[90.1.4.22. 색 채우기(Padding Color)](./90-01-04-viewx-22-padding_color.md)
+
+[90.1.4.23. 메뉴 표시줄 보이기(Show Menubar)](./90-01-04-viewx-23-show_menubar.md)
+
+[90.1.4.24. 눈금자 보이기(Show Rulers)](./90-01-04-viewx-24-show_rulers.md)
+
+[90.1.4.25. 스크롤 막대 표시(Show Scrollbars)](./90-01-04-viewx-25-show_scrollbars.md)
+
+[90.1.4.26. 상태표시줄 보이기(Show Statusbar)](./90-01-04-viewx-26-show_statusbar.md)
 
 [90.1.5. 이미지(Image)](./90-01-05-image.md)
 
