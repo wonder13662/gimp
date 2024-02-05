@@ -1,9 +1,9 @@
 # 4.2.1. 떠있는 선택(floating selection)
 
-#### 그림 90.4.3.a101. 레이어 대화상자 - 떠있는 선택 (Windows)
-![그림 90.4.3.a101. 레이어 대화상자 - 떠있는 선택 (Windows)](https://github.com/wonder13662/gimp/assets/15767104/93a410f7-cde7-4146-831c-287b9ae1b014)
+#### [그림 90.4.3.a101. 레이어 대화상자 - 떠있는 선택 (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a101-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D-windows)
+[![그림 90.4.3.a101. 레이어 대화상자 - 떠있는 선택 (Windows)](https://github.com/wonder13662/gimp/assets/15767104/93a410f7-cde7-4146-831c-287b9ae1b014)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a101-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D-windows)
 
-[다른 운영체제와 언어의 '떠있는 선택' 확인하기]()
+[다른 운영체제와 언어의 '떠있는 선택' 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a101-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D-windows)
 
 떠있는 선택은 고정(anchored)하거나 새로운 레이어로 바꿀수 있습니다.
 
