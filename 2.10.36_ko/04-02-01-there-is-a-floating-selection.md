@@ -22,7 +22,7 @@
 #### [그림 90.1.3.4.a101. `선택` → `띄우기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-04-float.html#%EA%B7%B8%EB%A6%BC-90134a101-%EC%84%A0%ED%83%9D--%EB%9D%84%EC%9A%B0%EA%B8%B0)
 [![그림 90.1.3.4.a101. `선택` → `띄우기`](https://github.com/wonder13662/gimp/assets/15767104/8080d2be-dc54-4cf0-80ed-e13dfdacfb9a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-04-float.html#%EA%B7%B8%EB%A6%BC-90134a101-%EC%84%A0%ED%83%9D--%EB%9D%84%EC%9A%B0%EA%B8%B0)
 
-#### 영상 90.1.3.4.a112. `선택` → `띄우기`로 떠있는 선택 만들기
+#### [영상 90.1.3.4.a112. `선택` → `띄우기`로 떠있는 선택 만들기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-04-float.html#%EC%98%81%EC%83%81-90134a112-%EC%84%A0%ED%83%9D--%EB%9D%84%EC%9A%B0%EA%B8%B0%EB%A1%9C-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb5074b1-9e67-40bd-8c8f-03cafe24aeea"></video>
 
 ### 이미지 메뉴 바의 `선택` → `띄우기`의 단축키로 떠있는 선택 만들기
