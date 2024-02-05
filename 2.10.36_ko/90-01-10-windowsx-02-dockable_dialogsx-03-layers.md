@@ -11,6 +11,7 @@
 (TODO 이미지 추가)
 
 #### 영상 90.1.10.2.3.a111. `창` → `도킹가능한 대화` → `레이어`의 단축키 사용 (Windows)
+(TODO 영상 추가)
 
 #### 영상 90.1.10.2.3.a121. `창` → `도킹가능한 대화` → `레이어`의 단축키 사용 (Mac)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/626ceaad-b1d8-4f80-8540-e78a04a1c93a"></video>
