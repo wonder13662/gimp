@@ -24,6 +24,9 @@
 #### [그림 90.1.3.4.a101. `선택` → `띄우기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-04-float.html#%EA%B7%B8%EB%A6%BC-90134a101-%EC%84%A0%ED%83%9D--%EB%9D%84%EC%9A%B0%EA%B8%B0)
 [![그림 90.1.3.4.a101. `선택` → `띄우기`](https://github.com/wonder13662/gimp/assets/15767104/8080d2be-dc54-4cf0-80ed-e13dfdacfb9a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-04-float.html#%EA%B7%B8%EB%A6%BC-90134a101-%EC%84%A0%ED%83%9D--%EB%9D%84%EC%9A%B0%EA%B8%B0)
 
+#### 영상 90.1.3.4.a112. `선택` → `띄우기`로 떠있는 선택 만들기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb5074b1-9e67-40bd-8c8f-03cafe24aeea"></video>
+
 ### 이미지 메뉴 바의 `선택` → `띄우기`의 단축키로 떠있는 선택 만들기
 #### [영상 90.1.10.2.3.a121. `창` → `도킹가능한 대화` → `레이어`의 단축키 사용 (Mac)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-03-layers.html#%EC%98%81%EC%83%81-9011023a121-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94--%EB%A0%88%EC%9D%B4%EC%96%B4%EC%9D%98-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%82%AC%EC%9A%A9-mac)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/626ceaad-b1d8-4f80-8540-e78a04a1c93a"></video>
