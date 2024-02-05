@@ -28,7 +28,7 @@
 #### [영상 90.4.3.a135. 레이어의 눈 아이콘 토글로 레이어 보이기/숨기기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EC%98%81%EC%83%81-9043a135-%EB%A0%88%EC%9D%B4%EC%96%B4%EC%9D%98-%EB%88%88-%EC%95%84%EC%9D%B4%EC%BD%98-%ED%86%A0%EA%B8%80%EB%A1%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%B3%B4%EC%9D%B4%EA%B8%B0%EC%88%A8%EA%B8%B0%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/836a5ca4-2185-4148-9e0e-60e3a50f8480"></video>
 
-영상의 레이어의 눈 아이콘이 체크되지 않았을 때는 붓으로 그리려고 하면 경고 메시지가 이미지 창 하단에 노출됩니다. 레이어 눈 아이콘을 체크한 뒤에는 붓으로 그리기가 성공합니다.
+영상의 레이어의 눈 아이콘이 체크되지 않았을 때는 붓으로 그리려고 하면 [경고 메시지](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-04-the-active-drawable-is-not-visible.html#%EC%98%81%EC%83%81-9043a133-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%B9%84%ED%99%9C%EC%84%B1%ED%99%94%EB%90%9C-drawable%EC%97%90-%EB%B6%93%EC%9C%BC%EB%A1%9C-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EC%8B%A4%ED%8C%A8)가 이미지 창 하단에 노출됩니다. 레이어 눈 아이콘을 체크한 뒤에는 붓으로 그리기가 성공합니다.
 
 ***
 
