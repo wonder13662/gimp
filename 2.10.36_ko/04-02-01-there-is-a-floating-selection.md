@@ -10,8 +10,8 @@
 ## 4.2.1.1. 떠있는 선택(floating selection)이 있는지 어떻게 알 수 있나요?
 떠있는 선택이 있다면, 많은 기능이 비활성화됩니다. 작업중인 레이어에서 단축키 Ctrl + Shift + L(Windows) 또는 ⌘ + ⇧ + L(Mac)을 눌러 [레이어 대화상자](./15-02-01-layers-dialog.md)의 가장 위쪽에 "떠있는 선택(Floating Selection)"이 보이는지 확인합니다. 이와 같은 레이어가 있다면 떠있는 선택이 있는 것을 알 수 있습니다.
 
-#### 그림 4.2.1.1.a1 이미지 메뉴 바의 띄우기 메뉴의 위치
-<img width="480" alt="그림 4.2.1.1.a1 이미지 메뉴 바의 띄우기 메뉴의 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/40d3ce59-5131-42ea-95fb-3c48bce0af76">
+#### 그림 90.1.3.4.a101. `선택` → `띄우기`
+![그림 90.1.3.4.a101. `선택` → `띄우기`](https://github.com/wonder13662/gimp/assets/15767104/8080d2be-dc54-4cf0-80ed-e13dfdacfb9a)
 
 #### 영상 4.2.1.1.a2 단축키로 떠있는 선택 만들기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/96771078-ba0f-4aee-a5cd-b49153aa6c6c"></video>
