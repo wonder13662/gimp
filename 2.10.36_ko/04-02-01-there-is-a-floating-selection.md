@@ -8,9 +8,7 @@
 떠있는 선택은 고정(anchored)하거나 새로운 레이어로 바꿀수 있습니다.
 
 ## 4.2.1.1. 떠있는 선택(floating selection)이 있는지 어떻게 알 수 있나요?
-떠있는 선택이 있다면, 많은 기능이 비활성화됩니다. 작업중인 레이어에서 단축키 Ctrl + Shift + L(Windows) 또는 ⌘ + ⇧ + L(Mac)을 눌러 [레이어 대화상자](./15-02-01-layers-dialog.md)를 엽니다. 
-
-그리고 [레이어 대화상자](./15-02-01-layers-dialog.md)의 가장 위쪽에 "떠있는 선택(Floating Selection)"이 보이는지 확인합니다. 아래와 같은 레이어가 있다면 떠있는 선택이 있는 것을 알 수 있습니다.
+떠있는 선택이 있다면, 많은 기능이 비활성화됩니다. 작업중인 레이어에서 단축키 Ctrl + Shift + L(Windows) 또는 ⌘ + ⇧ + L(Mac)을 눌러 [레이어 대화상자](./15-02-01-layers-dialog.md)를 엽니다. 그리고 [레이어 대화상자](./15-02-01-layers-dialog.md)의 가장 위쪽에 "떠있는 선택(Floating Selection)"이 보이는지 확인합니다. 아래와 같은 레이어가 있다면 떠있는 선택이 있는 것을 알 수 있습니다.
 
 #### [그림 90.4.3.a101. 레이어 대화상자 - 떠있는 선택 (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a101-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D-windows)
 [![그림 90.4.3.a101. 레이어 대화상자 - 떠있는 선택 (Windows)](https://github.com/wonder13662/gimp/assets/15767104/93a410f7-cde7-4146-831c-287b9ae1b014)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a101-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D-windows)
