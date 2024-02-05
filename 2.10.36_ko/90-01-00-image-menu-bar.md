@@ -168,6 +168,24 @@
 
 [90.1.4.11. 색상 관리(Color Management)](./90-01-04-viewx-11-color_management.md)
 
+[90.1.4.11.1. Color-Manage this View(Color-Manage this View)](./90-01-04-viewx-11-color_managementx-01-color_manage_this_view.md)
+
+[90.1.4.11.2. Proof Colors(Proof Colors)](./90-01-04-viewx-11-color_managementx-02-proof_colors.md)
+
+[90.1.4.11.3. Display Rendering Intent(Display Rendering Intent)](./90-01-04-viewx-11-color_managementx-03-display_rendering_intent.md)
+
+[90.1.4.11.4. 흑점 보상(Black Point Compensation)](./90-01-04-viewx-11-color_managementx-04-black_point_compensation.md)
+
+[90.1.4.11.5. 색상 교정 프로파일(Soft-Proofing Profile)](./90-01-04-viewx-11-color_managementx-05-soft_proofing_profile.md)
+
+[90.1.4.11.6. 색상 교정 렌더링 목적(Soft-Proofing Rendering Intent)](./90-01-04-viewx-11-color_managementx-06-soft_proofing_rendering_intent.md)
+
+[90.1.4.11.7. 흑점 보상(Black Point Compensation)](./90-01-04-viewx-11-color_managementx-07-black_point_compensation.md)
+
+[90.1.4.11.8. Mark Out Of Gamut Colors(Mark Out Of Gamut Colors)](./90-01-04-viewx-11-color_managementx-08-mark_out_of_gamut_colors.md)
+
+[90.1.4.11.9. 기본 설정 값으로 되돌리기(As in Preferences)](./90-01-04-viewx-11-color_managementx-09-as_in_preferences.md)
+
 [90.1.4.12. 선택 영역 보이기(Show Selection)](./90-01-04-viewx-12-show_selection.md)
 
 [90.1.4.13. 레이어 경계 보이기(Show Layer Boundary)](./90-01-04-viewx-13-show_layer_boundary.md)

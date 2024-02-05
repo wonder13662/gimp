@@ -11,7 +11,7 @@
 
 [➡️ 다음: 90.1.4.13. 레이어 경계 보이기(Show Layer Boundary)](./90-01-04-viewx-13-show_layer_boundary.md)
 
-[⬅️ 이전: 90.1.4.11. 색상 관리(Color Management)](./90-01-04-viewx-11-color_management.md)
+[⬅️ 이전: 90.1.4.11.9. 기본 설정 값으로 되돌리기(As in Preferences)](./90-01-04-viewx-11-color_managementx-09-as_in_preferences.md)
 
 [⬆️ 위: 90.1.4. 보기(View)](./90-01-04-view.md)
 
