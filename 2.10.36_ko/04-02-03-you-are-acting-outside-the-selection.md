@@ -6,10 +6,13 @@
 ### 4.2.3.2.1. 해결방안 - 선택영역을 지우기
 선택영역이 보이지 않는 경우라면, 선택영역이 매우 작거나, 화면에서 보이는 영역의 바깥에 선택영역이 있을 수 있습니다. 또는 선택영역이 픽셀을 가지지 않을수도 있습니다. 이런 경우라면, 선택 영역을 지우면 됩니다. 이미지 메뉴 바의 `선택(Select)` → `없음(None)` 또는 단축키 Shift + Ctrl + A (Windows) 또는 ⇧ + ⌘ + A (Mac)를 누릅니다.
 
-#### 영상 4.2.3.2.1.a1 이미지 메뉴 바의 `선택(Select)` → `없음(None)`로 선택 영역 없애기
+#### 그림 90.1.3.2.a101. `선택` → `없음`
+![그림 90.1.3.2.a101. `선택` → `없음`](https://github.com/wonder13662/gimp/assets/15767104/bf711fb1-5309-4a8d-bdb0-a698aea8c0d7)
+
+#### 영상 90.1.3.2.a111. 이미지 메뉴 바의 `선택(Select)` → `없음(None)`로 선택 영역 없애기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ef2e45f7-53d1-4a7a-b576-2a0e91fcdae8"></video>
 
-#### 영상 4.2.3.2.1.a2 단축키 Shift + Ctrl + A (Windows) 또는 ⇧ + ⌘ + A (Mac)로 선택 영역 없애기
+#### 영상 90.1.3.2.a112. 단축키 Shift + Ctrl + A (Windows) 또는 ⇧ + ⌘ + A (Mac)로 선택 영역 없애기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2ab9dd30-30a4-4563-a938-31b94219327b"></video>
 
 ### 4.2.3.2.2. 해결방안 - 선택영역을 퀵마스크로 확인하기
