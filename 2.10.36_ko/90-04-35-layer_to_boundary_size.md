@@ -3,6 +3,8 @@
 #### 그림 90.4.35.a101. `레이어 경계 크기` 대화상자 (Windows) (우리말)
 ![90-04-35-layer_to_boundary_size(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/e85a3f18-db98-44a4-9a2e-b1be86828c4d)
 
+[4.2.6. 레이어 바깥쪽에서 작업을 하려는 경우 - 그림 90.4.35.a101. `레이어 경계 크기` 대화상자 (Windows) (우리말)]()
+
 #### 그림 90.4.35.a102. `레이어 경계 크기` 대화상자 (Windows) (영어)
 ![90-04-35-layer_to_boundary_size(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/55af67dc-7c9d-4085-8f11-07182675627c)
 

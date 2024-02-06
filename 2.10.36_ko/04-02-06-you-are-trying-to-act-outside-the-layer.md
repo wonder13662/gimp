@@ -28,6 +28,11 @@ GIMP에서 레이어는 이미지와 같은 크기를 갖지 않을수도 있습
 #### 그림 90.1.6.11.a101. `레이어` → `레이어 경계 크기`
 ![그림 90.1.6.11.a101. `레이어` → `레이어 경계 크기`](https://github.com/wonder13662/gimp/assets/15767104/8bc87bfb-5f7b-43f1-bd21-458ad1fadd75)
 
+#### 그림 90.4.35.a101. `레이어 경계 크기` 대화상자 (Windows) (우리말)
+![90-04-35-layer_to_boundary_size(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/e85a3f18-db98-44a4-9a2e-b1be86828c4d)
+
+[다른 운영체제와 언어의 `레이어 경계 크기` 대화상자 확인하기](./90-04-35-layer_to_boundary_size.md)
+
 #### 영상 90.1.6.11.a102. '레이어 경계 크기(Layer Boundary Size)' 사용하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c9c8062e-5035-49db-8ddf-5272b6a17b9a"></video>
 
@@ -36,6 +41,11 @@ GIMP에서 레이어는 이미지와 같은 크기를 갖지 않을수도 있습
 
 #### 그림 90.1.6.13.a101. `레이어` → `레이어 크기 조정`
 ![그림 90.1.6.13.a101. `레이어` → `레이어 크기 조정`](https://github.com/wonder13662/gimp/assets/15767104/7a1b1caf-66a5-4806-b202-5dcffa19a8e8)
+
+#### 그림 90.4.36.a101. `레이어 크기 조정` 대화상자 (Windows) (우리말)
+![90-04-36-scale_layer(ko)](https://github.com/wonder13662/gimp/assets/15767104/2425d28c-3011-4c27-afed-728c962aff00)
+
+[다른 운영체제와 언어의 `레이어 크기 조정` 대화상자 확인하기](./90-04-36-scale_layer.md)
 
 #### 영상 90.1.6.13.a102. '레이어 크기 조정(Scale Layer)' 사용하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8fe93a42-c805-4b1a-8b15-2d1765da17f4"></video>

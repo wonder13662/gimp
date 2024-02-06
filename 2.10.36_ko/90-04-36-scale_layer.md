@@ -3,6 +3,8 @@
 #### 그림 90.4.36.a101. `레이어 크기 조정` 대화상자 (Windows) (우리말)
 ![90-04-36-scale_layer(ko)](https://github.com/wonder13662/gimp/assets/15767104/2425d28c-3011-4c27-afed-728c962aff00)
 
+[4.2.6. 레이어 바깥쪽에서 작업을 하려는 경우 - 그림 90.4.36.a101. `레이어 크기 조정` 대화상자 (Windows) (우리말)]()
+
 #### 그림 90.4.36.a102. `레이어 크기 조정` 대화상자 (Windows) (영어)
 ![90-04-36-scale_layer(en)](https://github.com/wonder13662/gimp/assets/15767104/1839595c-ee1b-4654-8d87-f81e7689e9f8)
 
