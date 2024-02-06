@@ -210,6 +210,12 @@
 ### [90.4.34. 이미지 내보내기(Export As...)](./90-04-34-export_as.md)
 (TODO 이미지 추가 필요)
 
+### [90.4.35. 레이어 경계 크기(Layer Boundary Size...)](./90-04-35-layer_to_boundary_size.md)
+(TODO 이미지 추가 필요)
+
+### [90.4.36. 레이어 크기 조정(Scale Layer...)](./90-04-36-scale_layer.md)
+(TODO 이미지 추가 필요)
+
 ***
 
 ## 기능이 쓰인 곳

@@ -32,6 +32,8 @@
 
 [➡️ 다음: 90.5.2. 이미지 메뉴 (Image Menu)](./90-05-02-image_menu.md)
 
+[⬅️ 이전: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+
 [⬆️ 위: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
