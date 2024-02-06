@@ -1,7 +1,7 @@
 # 90.1.6.12. 레이어 경계 크기(Layer to Image Size)
-
-#### 그림 90.1.6.12.a101. `레이어(Layer)` → `레이어를 이미지 크기로(Layer to Image Size)`
-![그림 90.1.6.12.a101. `레이어(Layer)` → `레이어를 이미지 크기로(Layer to Image Size)`](https://github.com/wonder13662/gimp/assets/15767104/9a9a8ecc-0fed-4853-8f8e-b33d33d4ab1f)
+## 운영체제(OS)와 언어설정 조건에 따른 모습
+#### 그림 90.1.6.12.a101. `레이어` → `레이어를 이미지 크기로`
+![그림 90.1.6.12.a101. `레이어` → `레이어를 이미지 크기로`](https://github.com/wonder13662/gimp/assets/15767104/9a9a8ecc-0fed-4853-8f8e-b33d33d4ab1f)
 
 [4.2.6. 레이어 바깥쪽에서 작업을 하려는 경우 - 그림 90.1.6.12.a101. `레이어(Layer)` → `레이어를 이미지 크기로(Layer to Image Size)`]()
 

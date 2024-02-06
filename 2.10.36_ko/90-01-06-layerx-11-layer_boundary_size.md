@@ -1,6 +1,14 @@
 # 90.1.6.11. 레이어 경계 크기(Layer Boundary Size)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+#### 그림 90.1.6.11.a101. `레이어` → `레이어 경계 크기`
+![그림 90.1.6.11.a101. `레이어` → `레이어 경계 크기`](https://github.com/wonder13662/gimp/assets/15767104/8bc87bfb-5f7b-43f1-bd21-458ad1fadd75)
+
+[4.2.6. 레이어 바깥쪽에서 작업을 하려는 경우 - 그림 90.1.6.11.a101. `레이어` → `레이어 경계 크기`]()
+
+#### 영상 90.1.6.11.a102. '레이어 경계 크기(Layer Boundary Size)' 사용하기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c9c8062e-5035-49db-8ddf-5272b6a17b9a"></video>
+
+[4.2.6. 레이어 바깥쪽에서 작업을 하려는 경우 - 영상 90.1.6.11.a102. '레이어 경계 크기(Layer Boundary Size)' 사용하기]()
 
 ***
 

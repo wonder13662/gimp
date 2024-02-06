@@ -25,10 +25,10 @@ GIMP에서 레이어는 이미지와 같은 크기를 갖지 않을수도 있습
 ### 4.2.6.2.2. `레이어(Layer)` → `레이어 경계 크기(Layer Boundary Size)`
 이 명령을 실행하면 대화상자가 열립니다. 이 대화상자에서 레이어의 경계 크기를 조정할 수 있습니다. 주의할 점은 경계(boundary)만 늘어날 뿐, 레이어의 이미지 정보가 함께 늘어나지는 않습니다.
 
-#### 그림 4.2.6.2.2.a1. 이미지 메뉴 바의 '레이어 경계 크기(Layer Boundary Size)' 위치
-<img width="480" alt="그림 4.2.6.2.2.a1. 이미지 메뉴 바의 '레이어 경계 크기(Layer Boundary Size)' 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/145b775e-dda1-44c8-80a5-4b5f6583e16c">
+#### 그림 90.1.6.11.a101. `레이어` → `레이어 경계 크기`
+![그림 90.1.6.11.a101. `레이어` → `레이어 경계 크기`](https://github.com/wonder13662/gimp/assets/15767104/8bc87bfb-5f7b-43f1-bd21-458ad1fadd75)
 
-#### 영상 4.2.6.2.2.a2. '레이어 경계 크기(Layer Boundary Size)' 사용하기
+#### 영상 90.1.6.11.a102. '레이어 경계 크기(Layer Boundary Size)' 사용하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c9c8062e-5035-49db-8ddf-5272b6a17b9a"></video>
 
 ### 4.2.6.2.3. `레이어(Layer)` → `레이어 크기 조정(Scale Layer)`
