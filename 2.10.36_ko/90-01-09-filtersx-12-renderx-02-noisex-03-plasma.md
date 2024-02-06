@@ -1,8 +1,3 @@
-# [90. 이미지 맵](./90-00-image-map.md)
-# [90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
-# [90.1.9. 필터(Filters)](./90-01-09-filters.md)
-# [90.1.9.12. 렌더(Render)](./90-01-09-filtersx-12-render.md)
-# [90.1.9.12.2. 노이즈(Noise)](./90-01-09-filtersx-12-renderx-02-noise.md)
 # 90.1.9.12.2.3. 플라즈마(Plasma)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.9.12.2.3.a1. `필터` → `렌더` → `노이즈` → `플라즈마` (Windows) (우리말)

@@ -1,5 +1,3 @@
-# [90. 이미지 맵](./90-00-image-map.md)
-# [90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 # 90.1.10. 창(Windows)
 #### 그림 90.1.10.a101. `창(Windows)`
 ![90-01-10-windows(w1080)](https://github.com/wonder13662/gimp/assets/15767104/89c93d52-e3d5-43c8-8bdb-97d732f75268)
@@ -108,5 +106,7 @@
 [⬅️ 이전: 90.1.9.16. Script-Fu](./90-01-09-filtersx-16-script_fu.md)
 
 [⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
+
+[⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 
 [🏠 홈](./00-home.md)
