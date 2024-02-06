@@ -1,5 +1,3 @@
-# [홈](./00-home.md)
-# [90. 이미지 맵](./90-00-image-map.md)
 # 90.1. 이미지 메뉴 바(Image Menu Bar)
 
 <img width="720" alt="90.1. 이미지 메뉴 바(Image Menu Bar)" src="https://github.com/wonder13662/gimp/assets/15767104/85463d2a-4897-4283-b76b-6a64241ccbd9">
