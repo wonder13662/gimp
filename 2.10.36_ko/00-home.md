@@ -413,7 +413,7 @@
 
 [90.1.6.11. 레이어 경계 크기(Layer Boundary Size)](./90-01-06-layerx-11-layer_boundary_size.md)
 
-[90.1.6.12. 레이어 경계 크기(Layer to Image Size)](./90-01-06-layerx-12-layer_to_image_size.md)
+[90.1.6.12. 레이어를 이미지 크기로(Layer to Image Size)](./90-01-06-layerx-12-layer_to_image_size.md)
 
 [90.1.6.13. 레이어 크기 조정(Scale Layer)](./90-01-06-layerx-13-scale_layer.md)
 

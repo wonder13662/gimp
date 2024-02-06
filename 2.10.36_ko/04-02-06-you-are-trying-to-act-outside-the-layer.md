@@ -3,7 +3,7 @@
 ## 4.2.6.1. 문제 확인
 GIMP에서 레이어는 이미지와 같은 크기를 갖지 않을수도 있습니다. 이미지보다 작을수도 클 수도 있습니다. 레이어의 바깥쪽에 칠을 하려고 한다면, 아무것도 칠해지지 않습니다. 이런 문제라면, 검은색과 노란색 점선의 사각형의 안쪽이 아닌 바깥쪽에서 작업하고 있는지 확인해야 합니다.
 
-#### 영상 90.4.3.a151. 레이어 바깥쪽에서 붓 그리기 실패
+#### [영상 90.4.3.a151. 레이어 바깥쪽에서 붓 그리기 실패](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EC%98%81%EC%83%81-9043a151-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%B0%94%EA%B9%A5%EC%AA%BD%EC%97%90%EC%84%9C-%EB%B6%93-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EC%8B%A4%ED%8C%A8)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5a35814d-80fd-4b66-9294-916bcb160cb7"></video>
 
 레이어 영역 바깥에서의 붓 그리기는 실패합니다. 레이어 영역 안에서의 붓 그리기는 성공합니다.
@@ -14,10 +14,10 @@ GIMP에서 레이어는 이미지와 같은 크기를 갖지 않을수도 있습
 ### 4.2.6.2.1. `레이어(Layer)` → `레이어를 이미지 크기로(Layer to Image Size)`
 레이어의 경계를 이미지와 같은 크기로 맞춰줍니다
 
-#### 그림 90.1.6.12.a101. `레이어(Layer)` → `레이어를 이미지 크기로(Layer to Image Size)`
-![그림 90.1.6.12.a101. `레이어(Layer)` → `레이어를 이미지 크기로(Layer to Image Size)`](https://github.com/wonder13662/gimp/assets/15767104/9a9a8ecc-0fed-4853-8f8e-b33d33d4ab1f)
+#### [그림 90.1.6.12.a101. `레이어(Layer)` → `레이어를 이미지 크기로(Layer to Image Size)`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-12-layer_to_image_size.html#%EA%B7%B8%EB%A6%BC-901612a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%81%AC%EA%B8%B0%EB%A1%9C)
+[![그림 90.1.6.12.a101. `레이어(Layer)` → `레이어를 이미지 크기로(Layer to Image Size)`](https://github.com/wonder13662/gimp/assets/15767104/9a9a8ecc-0fed-4853-8f8e-b33d33d4ab1f)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-12-layer_to_image_size.html#%EA%B7%B8%EB%A6%BC-901612a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%81%AC%EA%B8%B0%EB%A1%9C)
 
-#### 영상 90.1.6.12.a102. '레이어를 이미지 크기로(Layer to Image Size)' 사용하기
+#### [영상 90.1.6.12.a102. '레이어를 이미지 크기로(Layer to Image Size)' 사용하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-12-layer_to_image_size.html#%EC%98%81%EC%83%81-901612a102-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%81%AC%EA%B8%B0%EB%A1%9Clayer-to-image-size-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/38ec687e-8280-457b-90ea-deb1c6f1722e"></video>
 
 레이어의 경계 바깥쪽에서 붓 그리기가 실패하는 것을 확인한 뒤에 '레이어를 이미지 크기로(Layer to Image Size)'를 사용합니다. 사용한 이후에는 레이어에 붓 그리기가 성공합니다.
