@@ -20,17 +20,14 @@
 
 [3.2.2.9. 상태 표시 영역 (Status Area) - 그림 90.5.9.a112. 이미지 창 아래의 상태 표시 영역(이미지 잘라내기 시의 정보)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-09-status-area.html#%EA%B7%B8%EB%A6%BC-9059a112-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD-%EC%95%84%EB%9E%98%EC%9D%98-%EC%83%81%ED%83%9C-%ED%91%9C%EC%8B%9C-%EC%98%81%EC%97%AD%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EC%8B%9C%EC%9D%98-%EC%A0%95%EB%B3%B4)
 
-#### 그림 3.4.5.2.1. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들
-#### 그림 90.5.9.a121. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들
-![그림 90.5.9.a121. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들](https://github.com/wonder13662/gimp/assets/15767104/6aec1edb-2fd8-4a66-b2b2-be41480e1858)
+#### [그림 90.4.1.10.a201. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-10-crop.html#%EA%B7%B8%EB%A6%BC-904110a201-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EC%98%81%EC%97%AD-%EC%A1%B0%EC%A0%95%ED%95%A0-%EB%95%8C-%ED%95%A8%EA%BB%98-%EC%97%B0%EB%8F%99%EB%90%98%EC%96%B4-%ED%91%9C%EC%8B%9C%EB%90%98%EB%8A%94-%EA%B0%92%EB%93%A4)
+[![그림 90.4.1.10.a201. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들](https://github.com/wonder13662/gimp/assets/15767104/6aec1edb-2fd8-4a66-b2b2-be41480e1858)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-10-crop.html#%EA%B7%B8%EB%A6%BC-904110a201-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EC%98%81%EC%97%AD-%EC%A1%B0%EC%A0%95%ED%95%A0-%EB%95%8C-%ED%95%A8%EA%BB%98-%EC%97%B0%EB%8F%99%EB%90%98%EC%96%B4-%ED%91%9C%EC%8B%9C%EB%90%98%EB%8A%94-%EA%B0%92%EB%93%A4)
 
-[3.4.5. 이미지 잘라내기 - 그림 90.5.9.a121. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들]()
-
-#### 영상 3.4.5.2.2. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들
-#### 영상 90.5.9.a122. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들
+#### [영상 90.4.1.10.a202. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-10-crop.html#%EC%98%81%EC%83%81-904110a202-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EC%98%81%EC%97%AD-%EC%A1%B0%EC%A0%95%ED%95%A0-%EB%95%8C-%ED%95%A8%EA%BB%98-%EC%97%B0%EB%8F%99%EB%90%98%EC%96%B4-%ED%91%9C%EC%8B%9C%EB%90%98%EB%8A%94-%EA%B0%92%EB%93%A4)
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f71b6061-3536-4119-8e2e-6361407988df"></video>
 
-[3.4.5. 이미지 잘라내기 - 영상 90.5.9.a122. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들]()
+#### 영상 90.4.3.a162. 레이어 그룹에 직접 작업시, 에러 메시지 노출
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/99cbfad6-a162-444c-b4e7-2a0c721952b1"></video>
 
 ***
 
