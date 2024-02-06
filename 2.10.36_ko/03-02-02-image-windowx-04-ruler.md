@@ -1,6 +1,3 @@
-# [3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
-# [3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
-# [3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
 # 3.2.2.4. 눈금자 (Ruler)
 ## 3.2.2.4.1. 눈금자의 위치
 #### [그림 90.5.4.a101. (4)눈금자의 위치 (다중창)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-04-ruler.html#%EA%B7%B8%EB%A6%BC-9054a101-4%EB%88%88%EA%B8%88%EC%9E%90%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A4%EC%A4%91%EC%B0%BD)

@@ -1,5 +1,3 @@
-# [90. 이미지 맵](./90-00-image-map.md)
-# [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 # 90.5.11. 내비게이션 (Navigation Control)
 
 #### 그림 90.5.11.a101. (11)내비게이션의 위치 (다중창)

@@ -1,5 +1,3 @@
-# [90. 이미지 맵](./90-00-image-map.md)
-# [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 # 90.5.6. 커서 좌표 (Pointer Coordinates)
 
 #### 그림 90.5.6.a101. 커서 좌표의 위치 (다중창)

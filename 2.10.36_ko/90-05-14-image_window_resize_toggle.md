@@ -1,5 +1,3 @@
-# [90. 이미지 맵](./90-00-image-map.md)
-# [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 # 90.5.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)
 
 #### 그림 90.5.14.a101. (14)이미지 확대/축소 버튼의 위치 (다중창)

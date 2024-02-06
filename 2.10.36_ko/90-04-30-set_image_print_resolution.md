@@ -1,5 +1,3 @@
-# [90. 이미지 맵](./90-00-image-map.md)
-# [90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 # 90.4.30. 인쇄 해상도 설정(Set Image Print Resolution)
 
 #### 그림 90.4.30.a101 인쇄 해상도 설정 대화상자 (Windows) (우리말)

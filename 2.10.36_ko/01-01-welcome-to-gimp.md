@@ -1,7 +1,3 @@
-# [홈](./00-home.md)
-
-# [1. 소개](./01-00-introduction.md)
-
 # 1.1. GIMP(김프)에 오신 것을 환영합니다
 GIMP는 여러 플랫폼에서 모든 종류의 이미지를 만들고 편집할 수 있는 도구입니다. GIMP는 그누 이미지 편집 프로그램(GNU Image Manipulation Program)의 약자이기도 합니다.
 

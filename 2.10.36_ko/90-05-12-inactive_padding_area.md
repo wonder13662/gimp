@@ -1,5 +1,3 @@
-# [90. 이미지 맵](./90-00-image-map.md)
-# [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 # 90.5.12. 비활성 여백 공간 (Inactive Padding Area)
 
 #### 그림 90.5.12.a101. (12)비활성 여백 공간의 위치 (다중창)

@@ -1,5 +1,3 @@
-# [90. 이미지 맵](./90-00-image-map.md)
-# [90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 # 90.4.33. JPEG로 이미지 내보내기(Export Image as JPEG)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.4.33.a101. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 (Windows) (우리말)
