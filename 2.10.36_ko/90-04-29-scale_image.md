@@ -13,10 +13,6 @@
 #### 그림 90.4.29.a104. `이미지 비율 조정` 대화상자 (Mac) (영어)
 ![그림 90.4.29.a104. `이미지 비율 조정` 대화상자 (Mac) (영어)](https://github.com/wonder13662/gimp/assets/15767104/3886d777-e45c-45b7-81c5-008668dfcd0d)
 
-***
-
-## 실제 사용 사례
-
 #### 영상 90.4.29.a201. 이미지 너비나 높이 변경시, 배율에 맞춰 다른 부분도 바뀜
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6314855c-937d-49b6-a60f-c21520351012"></video>
 
@@ -27,11 +23,10 @@
 
 [3.4.2. 이미지의 크기 바꾸기 (화면용) - 영상 90.4.29.a202. 이미지 크기 변경](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-02-change-the-size-of-an-image-for-the-screen.html#%EC%98%81%EC%83%81-90429a202-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%81%AC%EA%B8%B0-%EB%B3%80%EA%B2%BD)
 
-***
+#### 영상 90.1.6.13.a102. '레이어 크기 조정(Scale Layer)' 사용하기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8fe93a42-c805-4b1a-8b15-2d1765da17f4"></video>
 
-## 관련 정보
-
-[3.4.2. 이미지의 크기 바꾸기 (화면용)](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-02-change-the-size-of-an-image-for-the-screen.html#%EA%B7%B8%EB%A6%BC-90429a101-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%95-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[4.2.6. 레이어 바깥쪽에서 작업을 하려는 경우 - 영상 90.1.6.13.a102. '레이어 크기 조정(Scale Layer)' 사용하기]()
 
 ***
 

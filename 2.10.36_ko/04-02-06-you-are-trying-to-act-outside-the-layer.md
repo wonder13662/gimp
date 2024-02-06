@@ -34,10 +34,10 @@ GIMP에서 레이어는 이미지와 같은 크기를 갖지 않을수도 있습
 ### 4.2.6.2.3. `레이어(Layer)` → `레이어 크기 조정(Scale Layer)`
 이 명령을 실행하면 대화상자가 열립니다. 이 대화상자에서 레이어의 크기를 조정할 수 있습니다. 레이어의 이미지 정보도 함께 늘어납니다.
 
-#### 그림 4.2.6.2.3.a1. 이미지 메뉴 바의 '레이어 크기 조정(Scale Layer)' 위치
-<img width="480" alt="그림 4.2.6.2.3.a1. 이미지 메뉴 바의 '레이어 크기 조정(Scale Layer)' 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/940b3a0e-d7ac-47d6-a6d8-c09cc4a4eab5">
+#### 그림 90.1.6.13.a101. `레이어` → `레이어 크기 조정`
+![그림 90.1.6.13.a101. `레이어` → `레이어 크기 조정`](https://github.com/wonder13662/gimp/assets/15767104/7a1b1caf-66a5-4806-b202-5dcffa19a8e8)
 
-#### 영상 4.2.6.2.3.a2. '레이어 크기 조정(Scale Layer)' 사용하기
+#### 영상 90.1.6.13.a102. '레이어 크기 조정(Scale Layer)' 사용하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8fe93a42-c805-4b1a-8b15-2d1765da17f4"></video>
 
 ***
