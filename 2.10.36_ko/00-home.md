@@ -373,13 +373,35 @@
 
 [90.1.6. 레이어(Layer)](./90-01-06-layer.md)
 
-[90.1.6.1. 스택(Stack)](./90-01-06-layerx-01-stack.md)
+[90.1.6.1. 새 레이어(New Layer)](./90-01-06-layerx-01-new_layer.md)
 
-[90.1.6.2. 마스크(Mask)](./90-01-06-layerx-02-mask.md)
+[90.1.6.2. 보이는 영역에서 새로 만들기(New From Visible)](./90-01-06-layerx-02-new_from_visible.md)
 
-[90.1.6.3. 투명도(Transparency)](./90-01-06-layerx-03-transparency.md)
+[90.1.6.3. 새 레이어 그룹(New Layer Group)](./90-01-06-layerx-03-new_layer_group.md)
 
-[90.1.6.4. 변형(Transform)](./90-01-06-layerx-04-transform.md)
+[90.1.6.4. 레이어 복제(Duplicate Layer)](./90-01-06-layerx-04-duplicate_layer.md)
+
+[90.1.6.5. 아래로 합치기(Merge Down)](./90-01-06-layerx-05-merge_down.md)
+
+[90.1.6.6. 레이어 삭제(Delete Layer)](./90-01-06-layerx-06-delete_layer.md)
+
+[90.1.6.7. 스택(Stack)](./90-01-06-layerx-07-stack.md)
+
+[90.1.6.8. 마스크(Mask)](./90-01-06-layerx-08-mask.md)
+
+[90.1.6.9. 투명도(Transparency)](./90-01-06-layerx-09-transparency.md)
+
+[90.1.6.10. 변형(Transform)](./90-01-06-layerx-10-transform.md)
+
+[90.1.6.11. 레이어 경계 크기(Layer Boundary Size)](./90-01-06-layerx-11-layer_boundary_size.md)
+
+[90.1.6.12. 레이어 경계 크기(Layer to Image Size)](./90-01-06-layerx-12-layer_to_image_size.md)
+
+[90.1.6.13. 레이어 크기 조정(Scale Layer)](./90-01-06-layerx-13-scale_layer.md)
+
+[90.1.6.14. 선택 영역 잘라내기(Crop to Selection)](./90-01-06-layerx-14-crop_to_selection.md)
+
+[90.1.6.15. 콘텐츠에 맞춰 잘라내기(Crop to Content)](./90-01-06-layerx-15-crop_to_content.md)
 
 [90.1.7. 색(Colors)](./90-01-07-colors.md)
 

@@ -1,4 +1,4 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 90.1.6.6. 레이어 삭제(Delete Layer)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 (TODO 이미지 추가)
 
@@ -6,9 +6,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 90.1.6.7. 스택(Stack)](./90-01-06-layerx-07-stack.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 90.1.6.5. 아래로 합치기(Merge Down)](./90-01-06-layerx-05-merge_down.md)
 
 [⬆️ 위: 90.1.6. 레이어(Layer)](./90-01-06-layer.md)
 
