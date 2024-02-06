@@ -1,4 +1,4 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 90.1.6.9.4. Semi-Flatten(Semi-Flatten)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 (TODO 이미지 추가)
 
@@ -6,9 +6,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 90.1.6.9.5. 임계 알파(Threshold Alpha)](./90-01-06-layerx-09-transparencyx-05-threshold_alpha.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 90.1.6.9.3. 색상을 알파로(Color to Alpha)](./90-01-06-layerx-09-transparencyx-03-color_to_alpha.md)
 
 [⬆️ 위: 90.1.6.9. 투명도(Transparency)](./90-01-06-layerx-09-transparency.md)
 

@@ -391,6 +391,24 @@
 
 [90.1.6.9. 투명도(Transparency)](./90-01-06-layerx-09-transparency.md)
 
+[90.1.6.9.1. 알파 채널 추가(Add Alpha Channel)](./90-01-06-layerx-09-transparencyx-01-add_alpha_channel.md)
+
+[90.1.6.9.2. 알파 채널 제거(Remove Alpha Channel)](./90-01-06-layerx-09-transparencyx-02-remove_alpha_channel.md)
+
+[90.1.6.9.3. 색상을 알파로(Color to Alpha)](./90-01-06-layerx-09-transparencyx-03-color_to_alpha.md)
+
+[90.1.6.9.4. Semi-Flatten(Semi-Flatten)](./90-01-06-layerx-09-transparencyx-04-semi_flatten.md)
+
+[90.1.6.9.5. 임계 알파(Threshold Alpha)](./90-01-06-layerx-09-transparencyx-05-threshold_alpha.md)
+
+[90.1.6.9.6. 알파를 선택 영역으로(Alpha to Selection)](./90-01-06-layerx-09-transparencyx-06-alpha_to_selection.md)
+
+[90.1.6.9.7. 선택에 추가(Add to Selection)](./90-01-06-layerx-09-transparencyx-07-add_to_selection.md)
+
+[90.1.6.9.8. 선택 영역에서 빼기(Subtract from Selection)](./90-01-06-layerx-09-transparencyx-08-subtract_from_selection.md)
+
+[90.1.6.9.9. 선택 영역과 겹치기(Intersect from Selection)](./90-01-06-layerx-09-transparencyx-09-intersect_from_selection.md)
+
 [90.1.6.10. 변형(Transform)](./90-01-06-layerx-10-transform.md)
 
 [90.1.6.11. 레이어 경계 크기(Layer Boundary Size)](./90-01-06-layerx-11-layer_boundary_size.md)

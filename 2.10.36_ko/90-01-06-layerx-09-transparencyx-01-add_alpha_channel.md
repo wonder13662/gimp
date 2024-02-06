@@ -1,4 +1,4 @@
-# 90.1.6.3.1. 알파 채널 추가(Add Alpha Channel)
+# 90.1.6.9.1. 알파 채널 추가(Add Alpha Channel)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.6.3.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)
 ![그림 90.1.6.3.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3fb3ad7c-4a41-492e-9797-bed56dc9d936)
@@ -12,11 +12,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.6.3.2. 알파 채널 제거(Remove Alpha Channel)](./90-01-06-layerx-03-transparencyx-02-remove_alpha_channel.md)
+[➡️ 다음: 90.1.6.9.2. 알파 채널 제거(Remove Alpha Channel)](./90-01-06-layerx-09-transparencyx-02-remove_alpha_channel.md)
 
-[⬅️ 이전: 90.1.6.3. 투명도(Transparency)](./90-01-06-layerx-03-transparency.md)
+[⬅️ 이전: 90.1.6.9. 투명도(Transparency)](./90-01-06-layerx-09-transparency.md)
 
-[⬆️ 위: 90.1.6.3. 투명도(Transparency)](./90-01-06-layerx-03-transparency.md)
+[⬆️ 위: 90.1.6.9. 투명도(Transparency)](./90-01-06-layerx-09-transparency.md)
 
 [⬆️ 위: 90.1.6. 레이어(Layer)](./90-01-06-layer.md)
 
