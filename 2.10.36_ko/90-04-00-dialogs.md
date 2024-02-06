@@ -1,4 +1,3 @@
-# [90. 이미지 맵](./90-00-image-map.md)
 # 90.4. 대화상자(Dialogs)
 
 ## 하위 페이지
@@ -269,7 +268,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.3.2.1. 도구 아이콘(Tool icon) - 이동(Move)](./90-03-02-tool_iconx-01-move.md)
+[➡️ 다음: 90.4.1. 도구 옵션(Tool Options)](./90-04-01-tool_options.md)
+
+[⬅️ 이전: 90.3.5. 활성화된 이미지(Active Image)](./90-03-05-active_image.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

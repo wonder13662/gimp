@@ -1,5 +1,3 @@
-# [90. 이미지 맵](./90-00-image-map.md)
-# [90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
 # 90.3.3. 전경색/배경색(Foreground/Background color)
 
 #### 그림 90.3.3.a1. 도구상자의 '젼경색/배경색'
