@@ -1,7 +1,3 @@
-# [90. 이미지 맵](./90-00-image-map.md)
-# [90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
-# [90.1.5. 이미지(Image)](./90-01-05-image.md)
-# [90.1.5.5. 변형(Transform)](./90-01-05-imagex-05-transform.md)
 # 90.1.5.5.3. 시계방향으로 90도 회전(Rotate 90° clockwise)
 
 #### 영상 90.1.5.5.3.a101. "이미지 회전하기" 예시 - 시계 방향으로 90도 회전(Rotate 90° clockwise)
