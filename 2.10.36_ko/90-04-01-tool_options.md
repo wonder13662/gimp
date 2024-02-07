@@ -3,10 +3,6 @@
 #### 그림 90.4.1.a1. 도구 옵션 대화상자
 ![그림 90.4.1.a1. 도구 옵션 대화상자](https://github.com/wonder13662/gimp/assets/15767104/71b968e1-ade9-44bb-a064-286b9fa9989b)
 
-***
-
-## 관련 정보
-
 [3.2. GIMP(김프)의 주요 화면 - 2. 도구 옵션(Tool Options)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#2-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options-1)
 
 [3.4.5. 이미지 잘라내기](./03-04-05-crop-an-image.md)
@@ -104,3 +100,9 @@
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 
 [🏠 홈](./00-home.md)
+
+*** 
+
+## 관련 정보
+[Gimp-Forum.net: Get back the [Tool Options] in one click](https://www.gimp-forum.net/Thread-Get-back-the-Tool-Options-in-one-click)
+(TODO 정리필요)
