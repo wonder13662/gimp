@@ -3,7 +3,7 @@
 #### 그림 90.4.6.a1. 색상표 대화상자
 ![그림 90.4.6.a1. 색상표 대화상자](https://github.com/wonder13662/gimp/assets/15767104/e6fff5e0-f875-48d7-9d55-71a8c40ab677)
 
-[4.2.8. 인덱스 모드에서의 이미지 - 그림 90.4.6.a1. 색상표 대화상자]()
+[4.2.8. 인덱스 모드에서의 이미지 - 그림 90.4.6.a1. 색상표 대화상자](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-08-the-image-is-in-indexed-color-mode.html#%EA%B7%B8%EB%A6%BC-9046a1-%EC%83%89%EC%83%81%ED%91%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
 
 ***
 

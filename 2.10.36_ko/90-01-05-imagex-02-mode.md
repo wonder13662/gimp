@@ -5,7 +5,7 @@
 
 [3.4.7. 모드 바꾸기 - 그림 90.1.5.2.a1. `이미지` → `모드` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-07-change-the-mode.html#%EA%B7%B8%EB%A6%BC-90152a1-%EC%9D%B4%EB%AF%B8%EC%A7%80--%EB%AA%A8%EB%93%9C-windows)
 
-[4.2.8. 인덱스 모드에서의 이미지 - 그림 90.1.5.2.a1. `이미지` → `모드` (Windows)]()
+[4.2.8. 인덱스 모드에서의 이미지 - 그림 90.1.5.2.a1. `이미지` → `모드` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-08-the-image-is-in-indexed-color-mode.html#%EA%B7%B8%EB%A6%BC-90152a1-%EC%9D%B4%EB%AF%B8%EC%A7%80--%EB%AA%A8%EB%93%9C-windows)
 
 #### 그림 90.1.5.2.a2. `이미지` → `모드` (Mac)
 ![그림 90.1.5.2.a2. `이미지` → `모드` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/1f953983-8b10-49af-8b84-13d0d3441d7c)
