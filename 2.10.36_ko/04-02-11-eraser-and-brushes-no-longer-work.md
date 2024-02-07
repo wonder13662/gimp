@@ -17,8 +17,7 @@
 ## 4.2.11.2. 해결방법
 [붓 대화상자](./15-03-02-brushes-dialog.md)에서 현재 사용하고 있는 브러시를 확인해주세요. 클립보드 이미지(Clipboard Image) 또는 클립보드 마스크(Clipboard Mask)가 선택되어 있다면, 다른 브러시를 선택해주세요.
 
-#### 4.2.11.2.a1. 일반 브러시와 빈 브러시의 작업을 비교해봅시다
-#### 영상 90.4.15.a115. 일반 브러시와 빈 브러시의 작업을 비교해봅시다
+#### [영상 90.4.15.a115. 일반 브러시와 빈 브러시의 작업을 비교해봅시다](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a115-%EC%9D%BC%EB%B0%98-%EB%B8%8C%EB%9F%AC%EC%8B%9C%EC%99%80-%EB%B9%88-%EB%B8%8C%EB%9F%AC%EC%8B%9C%EC%9D%98-%EC%9E%91%EC%97%85%EC%9D%84-%EB%B9%84%EA%B5%90%ED%95%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8baa56c2-31a5-49b6-8323-4c4f08d3d752"></video>
 
 ## 4.2.11.3. 빈 브러시는 왜 있는 걸까요?
