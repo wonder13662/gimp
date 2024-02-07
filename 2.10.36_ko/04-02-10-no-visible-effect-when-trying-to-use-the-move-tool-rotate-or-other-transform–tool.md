@@ -29,7 +29,7 @@
 
 도구 옵션 설정에서 레이어(Layer)를 선택하면 레이어를 이동시킬 수 있습니다.
 
-#### [그림 90.4.1.1.a113. 레이어를 변형(Transform)시킬 수 없는 도구 옵션의 변형](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-01-move.html#%EA%B7%B8%EB%A6%BC-90411a113-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EB%B3%80%ED%98%95transform%EC%8B%9C%ED%82%AC-%EC%88%98-%EC%97%86%EB%8A%94-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98%EC%9D%98-%EB%B3%80%ED%98%95trnasform%EC%9D%98-%EB%B2%84%ED%8A%BC%EB%93%A4)(Trnasform)의 버튼들
+#### [그림 90.4.1.1.a113. 레이어를 변형(Transform)시킬 수 없는 도구 옵션의 변형(Trnasform)의 버튼들](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-01-move.html#%EA%B7%B8%EB%A6%BC-90411a113-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EB%B3%80%ED%98%95transform%EC%8B%9C%ED%82%AC-%EC%88%98-%EC%97%86%EB%8A%94-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98%EC%9D%98-%EB%B3%80%ED%98%95trnasform%EC%9D%98-%EB%B2%84%ED%8A%BC%EB%93%A4)
 [<img width="480" alt="그림 4.2.10.2.a4. 도구 옵션의 변형(Trnasform)의 버튼들" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ceed67ee-3638-4b51-b26f-924406d53ed8">](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-01-move.html#%EA%B7%B8%EB%A6%BC-90411a113-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EB%B3%80%ED%98%95transform%EC%8B%9C%ED%82%AC-%EC%88%98-%EC%97%86%EB%8A%94-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98%EC%9D%98-%EB%B3%80%ED%98%95trnasform%EC%9D%98-%EB%B2%84%ED%8A%BC%EB%93%A4)
 
 레이어를 변형(Transform)하려고 할 때, 위의 도구 옵션 설정이면 레이어는 변형하지 않습니다. 도구 옵션 설정에서 레이어(Layer)를 선택해주세요.
