@@ -4,3 +4,9 @@
 ### [Parent: 13.2. Using script-fu scripts](./13-02-00-using-script-fu-scripts.md)
 ### [Prev: 13.1. Plugins](./13-01-plugins.md)
 ### [Next: 13.2.2. Installing script-fu scripts](./13-02-02-installing-script-fu-scripts.md)
+
+***
+
+## 관련 정보
+[GimpHelp: Script-fu와 Brush 모음](https://www.gimphelp.org/)
+(TODO 정리 필요)
