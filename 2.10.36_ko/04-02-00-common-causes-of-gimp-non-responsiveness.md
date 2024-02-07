@@ -1,5 +1,7 @@
 # 4.2. GIMP(김프)가 멈추었을 때의 원인
 
+## 하위 페이지
+
 [4.2.1. 떠있는 선택(floating selection)](./04-02-01-there-is-a-floating-selection.md)
 
 [4.2.2. 숨겨진 선택](./04-02-02-the-selection-is-hidden.md)
@@ -31,6 +33,12 @@
 [4.2.15. 오랫동안 기다려도 GIMP가 반응하지 않습니다](./04-02-15-i-ve-been-waiting-for-a-long-time-and-gimp-is-not-responding.md)
 
 [4.2.16. 문제가 생겼을 때 확인해보면 좋은 것들](./04-02-16-general-guidelines-on-what-to-check-if-you-are-stuck.md)
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 4.2.1. 떠있는 선택(floating selection)](./04-02-01-there-is-a-floating-selection.md)
+
+[⬅️ 이전: 4.1. 소개](./04-01-introduction.md)
 
 [⬆️ 위: 4. 문제 해결하기](./04-00-what-to-do-if-you-are-stuck.md)
 
