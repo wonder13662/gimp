@@ -44,7 +44,7 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 ## 3.2.3.1.7. 다중창 모드에서 대화상자 추가하기
 다중창 모드에서는 새 창, 대화 상자 등이 화면에 표시됩니다.
 
-#### [영상 90.1.10.a101. 다중창 모드에서 대화상자 추가](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogs.html#%EC%98%81%EC%83%81-90110a101-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C%EC%97%90%EC%84%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%B6%94%EA%B0%80)
+#### [영상 90.1.10.2.a101. 다중창 모드에서 대화상자 추가]()
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/09ddc773-aabd-4ea8-8447-435e2d010e3d"></video>
 
 ## 3.2.3.1.8. 단일창 모드에서 대화상자 추가하기
