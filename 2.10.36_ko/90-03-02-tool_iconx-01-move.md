@@ -1,7 +1,7 @@
 # 90.3.2.1. 도구 아이콘(Tool icon) - 이동(Move)
 
 #### 그림 90.3.2.1.a1. 도구상자의 이동의 도구옵션
-<img width="1080" alt="그림 90.3.2.1.a1. 도구상자의 이동의 도구옵션" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e078f711-5e32-4fbf-9ef9-a681a9f1bcb3">
+![그림 90.3.2.1.a1. 도구상자의 이동의 도구옵션](https://github.com/wonder13662/gimp/assets/15767104/e078f711-5e32-4fbf-9ef9-a681a9f1bcb3)
 
 #### 그림 90.3.2.1.a2. 도구상자 - 이동
 ![그림 90.3.2.1.a2. 도구상자 - 이동](https://github.com/wonder13662/gimp/assets/15767104/ad8fbe93-d22d-4767-988a-21b3a01fc174)
