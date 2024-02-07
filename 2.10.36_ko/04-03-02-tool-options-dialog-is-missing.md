@@ -36,11 +36,10 @@
 >
 > 도구 옵션 대화상자나 다른 대화상자가 우연히 옮겨지거나 닫히는 일이 없도록 하기 위해서, 독(dock)에 잠가둘 수 있습니다. 잠그기 위해서는 독의 오른쪽 위의 작은 삼각형을 눌러 메뉴를 엽니다. 메뉴에서 `독에 탭 잠그기(Lock Tab to Dock)`이 체크되어 있지 않다면 체크합니다.
 
-#### 그림 4.3.2.a4 탭 메뉴의 '독에 탭 잠그기(Lock Tab to Dock)' (우리말)
-<img width="720" alt="그림 4.3.2.a4 탭 메뉴의 '독에 탭 잠그기(Lock Tab to Dock)' (우리말)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/dc3e9c6f-117a-4c7b-b78a-1ea71a8bd9d5">
+#### 그림 90.5.16.a221. 독의 탭 메뉴: `독에 탭 잠그기` (Windows)
+![90-05-16-tab_menu-entry-focus-lock_tab_to_dock](https://github.com/wonder13662/gimp/assets/15767104/089ab9a9-30e1-4732-bd01-dde7dfbeb28f)
 
-#### 그림 4.3.2.a5 탭 메뉴의 '독에 탭 잠그기(Lock Tab to Dock)' (영어)
-<img width="720" alt="그림 4.3.2.a5 탭 메뉴의 '독에 탭 잠그기(Lock Tab to Dock)' (영어)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/02e3ac43-0ec5-470d-9f15-055c08cf103b">
+[다른 운영체제와 언어의 `독에 탭 잠그기` 확인하기]()
 
 ***
 

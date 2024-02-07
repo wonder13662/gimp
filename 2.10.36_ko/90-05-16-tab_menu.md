@@ -142,6 +142,14 @@
 
 [4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 영상 90.5.16.a213. 탭 메뉴의 '도구 옵션'으로 독(Dock)에 '도구 옵션' 대화상자 추가하기](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-02-tool-options-dialog-is-missing.html#%EC%98%81%EC%83%81-90516a213-%ED%83%AD-%EB%A9%94%EB%89%B4%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98%EC%9C%BC%EB%A1%9C-%EB%8F%85dock%EC%97%90-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 
+#### 그림 90.5.16.a221. 독의 탭 메뉴: `독에 탭 잠그기` (Windows)
+![90-05-16-tab_menu-entry-focus-lock_tab_to_dock](https://github.com/wonder13662/gimp/assets/15767104/089ab9a9-30e1-4732-bd01-dde7dfbeb28f)
+
+[4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 그림 90.5.16.a221. 독의 탭 메뉴: `독에 탭 잠그기` (Windows)]()
+
+#### 그림 90.5.16.a222. 독의 탭 메뉴: `독에 탭 잠그기` (Mac)
+![90-05-16-tab_menu(mac)-entry(50%)-focus-lock_tab_to_dock](https://github.com/wonder13662/gimp/assets/15767104/86007760-43fc-44c8-82c5-74b395fbdba3)
+
 ***
 
 ## 다른 페이지로 가기
