@@ -6,10 +6,12 @@
 
 이 메뉴에서 `탭 추가(Add Tab)`을 누르고, `도구 옵션(Tool Options)`을 누릅니다.
 
-#### 그림 90.5.16.a211. 독의 탭 메뉴: `탭 추가` → `도구 옵션` (Windows)
-![90-05-16-tab_menu-add_tab(windows)-focus-tool_options](https://github.com/wonder13662/gimp/assets/15767104/1459d9da-e563-4094-974b-0ef6479d7aa5)
+#### [그림 90.5.16.a211. 독의 탭 메뉴: `탭 추가` → `도구 옵션` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a211-%EB%8F%85%EC%9D%98-%ED%83%AD-%EB%A9%94%EB%89%B4-%ED%83%AD-%EC%B6%94%EA%B0%80--%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-windows)
+[![90-05-16-tab_menu-add_tab(windows)-focus-tool_options](https://github.com/wonder13662/gimp/assets/15767104/1459d9da-e563-4094-974b-0ef6479d7aa5)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a211-%EB%8F%85%EC%9D%98-%ED%83%AD-%EB%A9%94%EB%89%B4-%ED%83%AD-%EC%B6%94%EA%B0%80--%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-windows)
 
-#### 영상 90.5.16.a213. 탭 메뉴의 '도구 옵션'으로 독(Dock)에 '도구 옵션' 대화상자 추가하기
+[다른 운영체제와 언어의 `탭 추가` → `도구 옵션` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EA%B7%B8%EB%A6%BC-90516a211-%EB%8F%85%EC%9D%98-%ED%83%AD-%EB%A9%94%EB%89%B4-%ED%83%AD-%EC%B6%94%EA%B0%80--%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-windows)
+
+#### [영상 90.5.16.a213. 탭 메뉴의 '도구 옵션'으로 독(Dock)에 '도구 옵션' 대화상자 추가하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-16-tab_menu.html#%EC%98%81%EC%83%81-90516a213-%ED%83%AD-%EB%A9%94%EB%89%B4%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98%EC%9C%BC%EB%A1%9C-%EB%8F%85dock%EC%97%90-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb11afcc-44a5-43a7-a01a-ad7aa2f34dd6"></video>
 
 ## 4.3.2.2. 이미지 메뉴 바(Image Menu Bar)로 '도구 옵션 대화상자' 되돌리기
