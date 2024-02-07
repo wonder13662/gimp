@@ -145,7 +145,7 @@
 #### 그림 90.5.16.a221. 독의 탭 메뉴: `독에 탭 잠그기` (Windows)
 ![90-05-16-tab_menu-entry-focus-lock_tab_to_dock](https://github.com/wonder13662/gimp/assets/15767104/089ab9a9-30e1-4732-bd01-dde7dfbeb28f)
 
-[4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 그림 90.5.16.a221. 독의 탭 메뉴: `독에 탭 잠그기` (Windows)]()
+[4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 그림 90.5.16.a221. 독의 탭 메뉴: `독에 탭 잠그기` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-02-tool-options-dialog-is-missing.html#%EA%B7%B8%EB%A6%BC-90516a221-%EB%8F%85%EC%9D%98-%ED%83%AD-%EB%A9%94%EB%89%B4-%EB%8F%85%EC%97%90-%ED%83%AD-%EC%9E%A0%EA%B7%B8%EA%B8%B0-windows)
 
 #### 그림 90.5.16.a222. 독의 탭 메뉴: `독에 탭 잠그기` (Mac)
 ![90-05-16-tab_menu(mac)-entry(50%)-focus-lock_tab_to_dock](https://github.com/wonder13662/gimp/assets/15767104/86007760-43fc-44c8-82c5-74b395fbdba3)
