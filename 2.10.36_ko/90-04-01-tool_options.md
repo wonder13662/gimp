@@ -10,7 +10,7 @@
 #### 영상 90.4.1.a101. '도구 옵션' 대화상자를 드래그해서 옮기기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4a654ab9-d649-477f-a106-694cc5f1f98d"></video>
 
-[4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 영상 90.4.1.a101. '도구 옵션' 대화상자를 드래그해서 옮기기]()
+[4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 영상 90.4.1.a101. '도구 옵션' 대화상자를 드래그해서 옮기기](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-02-tool-options-dialog-is-missing.html#%EC%98%81%EC%83%81-9041a101-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EB%A5%BC-%EB%93%9C%EB%9E%98%EA%B7%B8%ED%95%B4%EC%84%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0)
 
 ***
 

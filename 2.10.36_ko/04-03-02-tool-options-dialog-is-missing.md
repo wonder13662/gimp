@@ -27,7 +27,7 @@
 #### [영상 90.1.10.2.1.a103. `창` → `도킹가능한 대화` → `도구 옵션`으로 독(Dock)에 '도구 옵션' 대화상자 추가하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-01-tool_options.html#%EC%98%81%EC%83%81-9011021a103-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94--%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98%EC%9C%BC%EB%A1%9C-%EB%8F%85dock%EC%97%90-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ab33a968-752d-4ae6-99ef-41f0c1441a64"></video>
 
-#### 영상 90.4.1.a101. '도구 옵션' 대화상자를 드래그해서 옮기기
+#### [영상 90.4.1.a101. '도구 옵션' 대화상자를 드래그해서 옮기기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_options.html#%EC%98%81%EC%83%81-9041a101-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EB%A5%BC-%EB%93%9C%EB%9E%98%EA%B7%B8%ED%95%B4%EC%84%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4a654ab9-d649-477f-a106-694cc5f1f98d"></video>
 
 ## 4.3.3. 대화상자를 독에 잠궈두기
