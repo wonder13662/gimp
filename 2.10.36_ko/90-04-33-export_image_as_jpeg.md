@@ -40,7 +40,7 @@
 
 [➡️ 다음: 90.4.34. 이미지 내보내기(Export As...)](./90-04-34-export_as.md)
 
-[⬅️ 이전: 90.4.32. 색인 색상 변환(Indexed Color Conversion)](./90-04-32-indexed_color_conversion.md)
+[⬅️ 이전: 90.4.32. 이미지를 색인 색상으로 변환(Convert Image to Indexed Colors)](./90-04-32-convert_image_to_indexed_colors.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

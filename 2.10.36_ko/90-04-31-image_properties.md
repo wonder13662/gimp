@@ -19,7 +19,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.32. 색인 색상 변환(Indexed Color Conversion)](./90-04-32-indexed_color_conversion.md)
+[➡️ 다음: 90.4.32. 이미지를 색인 색상으로 변환(Convert Image to Indexed Colors)](./90-04-32-convert_image_to_indexed_colors.md)
 
 [⬅️ 이전: 90.4.30. 인쇄 해상도 설정(Set Image Print Resolution)](./90-04-30-set_image_print_resolution.md)
 

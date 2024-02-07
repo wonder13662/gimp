@@ -891,7 +891,7 @@
 
 [90.4.31. 이미지 속성(Image Properties)](./90-04-31-image_properties.md)
 
-[90.4.32. 색인 색상 변환(Indexed Color Conversion)](./90-04-32-indexed_color_conversion.md)
+[90.4.32. 이미지를 색인 색상으로 변환(Convert Image to Indexed Colors)](./90-04-32-convert_image_to_indexed_colors.md)
 
 [90.4.33. JPEG로 이미지 내보내기(Export Image as JPEG)](./90-04-33-export_image_as_jpeg.md)
 
