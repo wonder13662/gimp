@@ -14,18 +14,22 @@
 
 아래 영상에서 `도구 그룹 사용하기(Use tool groups)`의 체크 여부에 따라 도구 상자(왼쪽 상단)의 구조가 바뀌는 것을 확인할 수 있습니다.
 
-#### 영상 90.2.6.3.a215. `인터페이스` → `도구상자`→ `Use tool groups` 체크
+#### [영상 90.2.6.3.a215. `인터페이스` → `도구상자`→ `Use tool groups` 체크](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EC%98%81%EC%83%81-90263a215-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90--menu-mode--use-tool-groups-%EC%B2%B4%ED%81%AC)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d67ef8f4-2b60-4652-9acd-4b1b9f7679db"></video>
 
-아래 영상에서 `Menu mode`의 `Show on click`으로 설정하고, 도구 상자의 도구 아이콘을 클릭할 때, 도구 그룹의 내용을 추가적으로 보여줍니다.
+아래 영상에서 `Menu mode`의 `Show on click`으로 설정하고, 도구 상자의 도구 아이콘을 클릭할 때, 도구 그룹의 내용을 보여주는 것을 확인할 수 있습니다.
 
-#### 영상 90.2.6.3.a216. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on click)
+#### [영상 90.2.6.3.a216. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on click)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EC%98%81%EC%83%81-90263a216-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-use-tool-groups--menu-mode-%EC%84%A4%EC%A0%95show-on-click)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c40ab776-0acc-4619-95fc-f8acd7f4647d"></video>
 
-#### 영상 90.2.6.3.a217. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover)
+아래 영상에서 `Menu mode`의 `Show on hover`으로 설정하고, 마우스 커서를 도구 상자의 도구 아이콘 위로 움직이면, 도구 그룹의 내용을 보여주는 것을 확인할 수 있습니다.
+
+#### [영상 90.2.6.3.a217. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EC%98%81%EC%83%81-90263a217-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-use-tool-groups--menu-mode-%EC%84%A4%EC%A0%95show-on-hover)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/132811b8-33e8-45c0-a667-b857554cb643"></video>
 
-#### 영상 90.2.6.3.a218. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover in single column)
+아래 영상에서 `Menu mode`의 `Show on hover in single column`으로 설정하고, 마우스 커서를 도구 상자의 도구 아이콘 위로 움직이면, 선택한 도구의 설명과 도구 그룹의 내용이 함께 보여지는 것을 확인할 수 있습니다.
+
+#### [영상 90.2.6.3.a218. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover in single column)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EC%98%81%EC%83%81-90263a218-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-use-tool-groups--menu-mode-%EC%84%A4%EC%A0%95show-on-hover-in-single-column)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/12ba640c-4c30-4d51-b81c-4da35c8cec1a"></video>
 
 (TODO 관련 설정 페이지 링크 추가가 필요합니다)

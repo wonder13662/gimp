@@ -55,17 +55,17 @@
 #### 영상 90.2.6.3.a216. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on click)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c40ab776-0acc-4619-95fc-f8acd7f4647d"></video>
 
-[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.2.6.3.a216. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on click)]()
+[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.2.6.3.a216. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on click)](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-03-some-of-the-tool-icons-are-missing.html#%EC%98%81%EC%83%81-90263a216-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-use-tool-groups--menu-mode-%EC%84%A4%EC%A0%95show-on-click)
 
 #### 영상 90.2.6.3.a217. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/132811b8-33e8-45c0-a667-b857554cb643"></video>
 
-[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.2.6.3.a217. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover)]()
+[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.2.6.3.a217. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover)](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-03-some-of-the-tool-icons-are-missing.html#%EC%98%81%EC%83%81-90263a217-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-use-tool-groups--menu-mode-%EC%84%A4%EC%A0%95show-on-hover)
 
 #### 영상 90.2.6.3.a218. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover in single column)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/12ba640c-4c30-4d51-b81c-4da35c8cec1a"></video>
 
-[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.2.6.3.a218. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover in single column)]()
+[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.2.6.3.a218. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover in single column)](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-03-some-of-the-tool-icons-are-missing.html#%EC%98%81%EC%83%81-90263a218-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-use-tool-groups--menu-mode-%EC%84%A4%EC%A0%95show-on-hover-in-single-column)
 
 ***
 
