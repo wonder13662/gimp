@@ -1,15 +1,13 @@
 # 4.3.4. 이미지 창의 위쪽의 탭 바의 미리보기가 사라졌습니다
 
 ## 4.3.4.1. 문제
-You are using [3.2. GIMP(김프)의 주요 화면 - 단일창 모드(single-window mode)](./03-02-00-main-window.md) and the tab bar at the top, that shows which images you have opened, is missing.
+[단일창 모드](./03-02-00-main-window.md)에서 열어놓은 이미지를 표시하는 이미지 창의 위쪽의 탭 바의 미리보기가 사라졌습니다.
 
-(TODO 세부 링크 설정이 필요합니다)
+#### 그림 90.5.17.a111. 이미지 창의 위쪽의 탭 바가 정상적으로 보이는 경우
+![그림 90 5 17 a111  이미지 창의 위쪽의 탭 바가 정상적으로 보이는 경우](https://github.com/wonder13662/gimp/assets/15767104/3ccba78d-28a9-422a-b0d4-82c7873843d3)
 
-#### 그림 4.3.4.1.a1. 이미지 창의 위쪽의 탭 바가 정상적으로 보이는 경우
-<img width="720" alt="그림 4.3.4.1.a1. 이미지 창의 위쪽의 탭 바가 정상적으로 보이는 경우" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b03625ac-58aa-4c76-a9b1-35672d7190e8">
-
-#### 그림 4.3.4.1.a2. 이미지 창의 위쪽의 탭 바가 보이지 않는 경우
-<img width="720" alt="그림 4.3.4.1.a2. 이미지 창의 위쪽의 탭 바가 보이지 않는 경우" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/56bd64ca-48d6-4fc9-828f-577249a55780">
+#### 그림 90.5.17.a112. 이미지 창의 위쪽의 탭 바가 보이지 않는 경우
+![그림 90 5 17 a112  이미지 창의 위쪽의 탭 바가 보이지 않는 경우](https://github.com/wonder13662/gimp/assets/15767104/47816aca-1b82-4149-86ca-46d06faa984d)
 
 ## 4.3.4.2. 해결방법
 Go to menu `Windows` → `Show Tabs` and make sure that `Show Tabs` is checked.
