@@ -2,7 +2,7 @@
 
 비슷한 기능의 도구들은 기본 설정으로 그룹으로 함께 묶여 있습니다. 그룹 안의 다른 아이콘을 보려면 아이콘 위에 마우스 커서를 올리면 됩니다.
 
-#### 영상 4.3.3.a1. 그룹 아이콘 위에 마우스 커서를 올려 다른 아이콘 확인하기
+#### 영상 90.3.a111. 그룹 아이콘 위에 마우스 커서를 올려 다른 아이콘 확인하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b8ea8940-8743-488e-a46f-b8158f8886d9"></video>
 
 기본 설정(Preference)의 `인터페이스` → `도구상자` → `Menu mode`의 설정에 따라 다른 아이콘을 보는 방식이 마우스 커서를 호버(마우스 커서를 올려두기) 또는 아이콘을 클릭하는 것일 수도 있습니다.
@@ -45,13 +45,10 @@
 #### [영상 90.3.a102. 도구 상자의 아이콘의 작은 삼각형 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-00-toolbox.html#%EC%98%81%EC%83%81-903a102-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%98-%EC%9E%91%EC%9D%80-%EC%82%BC%EA%B0%81%ED%98%95-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/55e454c5-8d51-48dc-bfb6-4c27930d8848"></video>
 
-[12.1.13. 기본 도구 상자 - 기본설정](./12-01-13-toolbox.md)에 그룹핑을 해제할 수 있는 옵션이 있습니다. 또한 그룹 안의 기능들을 바꾸거나 새로운 그룹을 만들 수도 있습니다.
+[12.1.13. 기본 도구 상자 - 기본설정](./12-01-13-toolbox.md)에 그룹핑을 해제할 수 있는 옵션이 있습니다. 또한 그룹 안의 기능들을 바꾸거나 새로운 그룹을 만들 수도 있습니다. 아래 예시 이미지의 `인터페이스` → `도구상자`→ `도구 설정`을 사용하여 도구 상자에 보여지는 아이콘을 숨기거나 노출할 수 있도록 설정할 수 있습니다.
 
-#### 그림 4.3.3.a10. 기본 설정에서 도구 상자의 그룹을 설정하기 (우리말)
-<img width="720" alt="그림 4.3.3.a10. 기본 설정에서 도구 상자의 그룹을 설정하기 (우리말)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/244de16c-9356-4755-94e5-601fbe7ed5a2">
-
-#### 그림 4.3.3.a11. 기본 설정에서 도구 상자의 그룹을 설정하기 (영어)
-<img width="720" alt="그림 4.3.3.a11. 기본 설정에서 도구 상자의 그룹을 설정하기 (영어)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1983d559-4321-4a09-998f-ea0716a52bfc">
+#### 그림 90.2.6.3.a231. `인터페이스` → `도구상자`→ `도구 설정` (Windows) (우리말)
+![90-02-06-interfacex-03-toolbox(ko)(windows)(small)-focus-tool_configuration](https://github.com/wonder13662/gimp/assets/15767104/9df78d57-2554-4148-bd90-d6d54744677a)
 
 ***
 

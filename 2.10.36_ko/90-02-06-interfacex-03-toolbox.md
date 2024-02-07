@@ -72,6 +72,20 @@
 
 [4.3.3. 도구 아이콘이 사라졌습니다 - 그림 90.2.6.3.a219. `Menu mode` 설정별 도구 그룹 표시 방식 차이](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-03-some-of-the-tool-icons-are-missing.html#%EA%B7%B8%EB%A6%BC-90263a219-menu-mode-%EC%84%A4%EC%A0%95%EB%B3%84-%EB%8F%84%EA%B5%AC-%EA%B7%B8%EB%A3%B9-%ED%91%9C%EC%8B%9C-%EB%B0%A9%EC%8B%9D-%EC%B0%A8%EC%9D%B4)
 
+#### 그림 90.2.6.3.a231. `인터페이스` → `도구상자`→ `도구 설정` (Windows) (우리말)
+![90-02-06-interfacex-03-toolbox(ko)(windows)(small)-focus-tool_configuration](https://github.com/wonder13662/gimp/assets/15767104/9df78d57-2554-4148-bd90-d6d54744677a)
+
+[4.3.3. 도구 아이콘이 사라졌습니다 - 그림 90.2.6.3.a231. `인터페이스` → `도구상자`→ `도구 설정` (Windows) (우리말)]()
+
+#### 그림 90.2.6.3.a232. `인터페이스` → `도구상자`→ `도구 설정` (Windows) (영어)
+![90-02-06-interfacex-03-toolbox(en)(windows)(small)-focus-tool_configuration](https://github.com/wonder13662/gimp/assets/15767104/e9de525c-f192-4cfb-bbc9-969fd7090dba)
+
+#### 그림 90.2.6.3.a233. `인터페이스` → `도구상자`→ `도구 설정` (Mac) (우리말)
+![90-02-06-interfacex-03-toolbox(ko)(windows)(small)-focus-tool_configuration](https://github.com/wonder13662/gimp/assets/15767104/caff67e8-0f4e-42ee-bce2-549cccd8c56e)
+
+#### 그림 90.2.6.3.a234. `인터페이스` → `도구상자`→ `도구 설정` (Mac) (영어)
+![90-02-06-interfacex-03-toolbox(en)(windows)(small)-focus-tool_configuration](https://github.com/wonder13662/gimp/assets/15767104/a21f2cc2-7afe-4ff9-b261-42c135b490d9)
+
 ***
 
 ## 기능이 쓰인 곳

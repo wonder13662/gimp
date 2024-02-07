@@ -16,6 +16,11 @@
 
 [4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.3.a102. 도구 상자의 아이콘의 작은 삼각형 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-03-some-of-the-tool-icons-are-missing.html#%EC%98%81%EC%83%81-903a102-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%98-%EC%9E%91%EC%9D%80-%EC%82%BC%EA%B0%81%ED%98%95-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
+#### 영상 90.3.a111. 그룹 아이콘 위에 마우스 커서를 올려 다른 아이콘 확인하기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b8ea8940-8743-488e-a46f-b8158f8886d9"></video>
+
+[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.3.a111. 그룹 아이콘 위에 마우스 커서를 올려 다른 아이콘 확인하기]()
+
 ## 하위 페이지
 
 ### [90.3.1. GIMP 로고(GIMP Logo)](./90-03-01-gimp_logo.md)
