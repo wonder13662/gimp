@@ -4,7 +4,7 @@
 
 ### [90.4.1. 도구 옵션(Tool Options)](./90-04-01-tool_options.md)
 #### [그림 90.4.1.a1. 도구 옵션 대화상자](./90-04-01-tool_options.md)
-[![그림 90.4.1.a1. 도구 옵션 대화상자](https://github.com/wonder13662/gimp/assets/15767104/71b968e1-ade9-44bb-a064-286b9fa9989b)](./90-04-01-tool_options.md)
+![그림 90.4.1.a1. 도구 옵션 대화상자](https://github.com/wonder13662/gimp/assets/15767104/71b968e1-ade9-44bb-a064-286b9fa9989b)
 
 [90.4.1.1. 이동(Move)](./90-04-01-tool_optionsx-01-move.md)
 
