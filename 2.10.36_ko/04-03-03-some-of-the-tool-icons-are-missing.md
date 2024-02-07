@@ -50,6 +50,8 @@
 #### [그림 90.2.6.3.a231. `인터페이스` → `도구상자`→ `도구 설정` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a231-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8F%84%EA%B5%AC-%EC%84%A4%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-02-06-interfacex-03-toolbox(ko)(windows)(small)-focus-tool_configuration](https://github.com/wonder13662/gimp/assets/15767104/9df78d57-2554-4148-bd90-d6d54744677a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a231-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8F%84%EA%B5%AC-%EC%84%A4%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+[다른 운영체제와 언어의 `인터페이스` → `도구상자`→ `도구 설정` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a232-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8F%84%EA%B5%AC-%EC%84%A4%EC%A0%95-windows-%EC%98%81%EC%96%B4)
+
 ***
 
 ## 다른 페이지로 가기
