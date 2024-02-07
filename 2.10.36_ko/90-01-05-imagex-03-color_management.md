@@ -12,7 +12,7 @@
 
 [➡️ 다음: 90.1.5.4. 정밀도(Precision)](./90-01-05-imagex-04-precision.md)
 
-[⬅️ 이전: 90.1.5.2. 모드(Mode)](./90-01-05-imagex-02-mode.md)
+[⬅️ 이전: 90.1.5.2.3. 인덱스(Indexed)](./90-01-05-imagex-02-modex-03-indexed.md)
 
 [⬆️ 위: 90.1.5. 이미지(Image)](./90-01-05-image.md)
 

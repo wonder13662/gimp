@@ -221,6 +221,12 @@
 
 [90.1.5.2. 모드(Mode)](./90-01-05-imagex-02-mode.md)
 
+[90.1.5.2.1. RGB(RGB)](./90-01-05-imagex-02-modex-01-rgb.md)
+
+[90.1.5.2.2. 그레이스케일(Grayscale)](./90-01-05-imagex-02-modex-02-grayscale.md)
+
+[90.1.5.2.3. 인덱스(Indexed)](./90-01-05-imagex-02-modex-03-indexed.md)
+
 [90.1.5.3. 색상 관리(Color management)](./90-01-05-imagex-03-color_management.md)
 
 [90.1.5.4. 정밀도(Precision)](./90-01-05-imagex-04-precision.md)

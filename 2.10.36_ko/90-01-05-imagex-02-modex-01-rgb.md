@@ -1,4 +1,4 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 90.1.5.2.1. RGB(RGB)
 
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 (TODO 이미지 추가)
@@ -7,9 +7,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 90.1.5.2.2. 그레이스케일(Grayscale)](./90-01-05-imagex-02-modex-02-grayscale.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 90.1.5.2. 모드(Mode)](./90-01-05-imagex-02-mode.md)
 
 [⬆️ 위: 90.1.5.2. 모드(Mode)](./90-01-05-imagex-02-mode.md)
 
