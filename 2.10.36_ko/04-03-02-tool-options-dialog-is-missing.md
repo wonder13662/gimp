@@ -1,17 +1,15 @@
 # 4.3.2. 도구 옵션 대화상자가 사라졌습니다
 
 ## 4.3.2.1. 독의 탭 메뉴로 '도구 옵션 대화상자' 되돌리기
-#### 그림 4.9. 사라진 도구 옵션 대화상자 보이도록 되돌리기(우리말)
-<img width="1080" alt="그림 4.9. 사라진 도구 옵션 대화상자 보이도록 되돌리기(우리말)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2318d127-eba0-403e-87f2-a2838ca10f60">
-
-#### 그림 4.9. 사라진 도구 옵션 대화상자 보이도록 되돌리기(영어)
-<img width="1080" alt="그림 4.9. 사라진 도구 옵션 대화상자 보이도록 되돌리기(영어)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/585ab7e2-1f47-4b17-b0bb-5c14a7460a2e">
 
 [도구 옵션 대화상자](./14-01-04-tool-options.md)는 우연히 닫힐 수 있습니다. 되돌리기 위해서는 독의 오른쪽 위의 작은 사각형을 클릭합니다. 메뉴가 열립니다.
 
 이 메뉴에서 `탭 추가(Add Tab)`을 누르고, `도구 옵션(Tool Options)`을 누릅니다.
 
-#### 영상 4.3.2.1.a1 탭 메뉴의 '도구 옵션'으로 독(Dock)에 '도구 옵션' 대화상자 추가하기
+#### 그림 90.5.16.a211. 독의 탭 메뉴: `탭 추가` → `도구 옵션` (Windows)
+![90-05-16-tab_menu-add_tab(windows)-focus-tool_options](https://github.com/wonder13662/gimp/assets/15767104/1459d9da-e563-4094-974b-0ef6479d7aa5)
+
+#### 영상 90.5.16.a213. 탭 메뉴의 '도구 옵션'으로 독(Dock)에 '도구 옵션' 대화상자 추가하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb11afcc-44a5-43a7-a01a-ad7aa2f34dd6"></video>
 
 ## 4.3.2.2. 이미지 메뉴 바(Image Menu Bar)로 '도구 옵션 대화상자' 되돌리기
