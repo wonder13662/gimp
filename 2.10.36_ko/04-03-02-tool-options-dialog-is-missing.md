@@ -19,10 +19,12 @@
 
 만일 다른 독(dock)에 대화상자가 나타났다면 클릭, 드래그해서 원하는 독(dock)으로 옮겨주세요.
 
-#### 그림 4.3.2.2.a1 이미지 메뉴 바의 '도구 옵션'
-<img width="720" alt="그림 4.3.2.2.a1 이미지 메뉴 바의 '도구 옵션'" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/db5d23b6-d2c6-4292-92c8-7e1a495b3291">
+#### 그림 90.1.10.2.1.a101. `창` → `도킹가능한 대화` → `도구 옵션` (Windows)
+![그림 90.1.10.2.1.a101. `창` → `도킹가능한 대화` → `도구 옵션` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/b5d990a0-b382-402d-8de9-d9d3293bb095)
 
-#### 영상 4.3.2.2.a2 이미지 메뉴 바의 '도구 옵션'으로 독(Dock)에 '도구 옵션' 대화상자 추가하기
+[다른 운영체제와 언어의 `창` → `도킹가능한 대화` → `도구 옵션` 확인하기]()
+
+#### 영상 90.1.10.2.1.a103. `창` → `도킹가능한 대화` → `도구 옵션`으로 독(Dock)에 '도구 옵션' 대화상자 추가하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ab33a968-752d-4ae6-99ef-41f0c1441a64"></video>
 
 #### 영상 4.3.2.2.a3 '도구 옵션' 대화상자를 드래그해서 옮기기
