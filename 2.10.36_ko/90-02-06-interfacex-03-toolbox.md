@@ -33,12 +33,23 @@
 #### 영상 90.2.6.3.a205. 모양새(Appearance) 설정에 따라 도구 상자의 모양이 바뀝니다
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
 
+#### 그림 90.2.6.3.a211. `인터페이스` → `도구상자` → `Menu mode` (Windows) (우리말)
+![90-02-06-interfacex-03-toolbox(ko)(windows)-menu_mode-focus-menu_mode](https://github.com/wonder13662/gimp/assets/15767104/31561911-a06d-4ab4-bb98-40e86e0a0ee1)
+
+[4.3.3. 도구 아이콘이 사라졌습니다 - 그림 90.2.6.3.a211. `인터페이스` → `도구상자` → `Menu mode` (Windows) (우리말)]()
+
+#### 그림 90.2.6.3.a212. `인터페이스` → `도구상자` → `Menu mode` (Windows) (영어)
+![90-02-06-interfacex-03-toolbox(en)(windows)-menu_mode-focus-menu_mode](https://github.com/wonder13662/gimp/assets/15767104/18ffd27b-ab5c-464a-befc-5e90b9f44787)
+
+#### 그림 90.2.6.3.a213. `인터페이스` → `도구상자` → `Menu mode` (Mac) (우리말)
+![그림 90.2.6.3.a213. `인터페이스` → `도구상자` → `Menu mode` (Mac) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/bb8c62a2-5636-4b09-bf96-ffedd790e5d5)
+
+#### 그림 90.2.6.3.a214. `인터페이스` → `도구상자` → `Menu mode` (Mac) (영어)
+![그림 90.2.6.3.a214. `인터페이스` → `도구상자` → `Menu mode` (Mac) (영어)](https://github.com/wonder13662/gimp/assets/15767104/c2f86cf6-dd7a-4c7c-baca-8724ac563976)
+
 ***
 
 ## 기능이 쓰인 곳
-
-
-
 
 #### [영상 3.2.1.a102. `Show GIMP logo(drag-and-drop target)`로 도구 상자에서 노출 제어하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EC%98%81%EC%83%81-321a102-show-gimp-logodrag-and-drop-target%EB%A1%9C-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%EB%85%B8%EC%B6%9C-%EC%A0%9C%EC%96%B4%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9a8813c3-e223-422f-9436-a75ee551bbd3"></video>

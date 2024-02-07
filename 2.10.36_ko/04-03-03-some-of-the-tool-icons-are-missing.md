@@ -7,11 +7,10 @@
 
 기본 설정(Preference)에 따라 다른 아이콘을 보는 방식이 마우스 커서를 호버(마우스 커서를 올려두기) 또는 아이콘을 클릭하는 것일 수도 있습니다.
 
-#### 그림 4.3.3.a2. 기본 설정(Preference)의 다른 아이콘 보는 방식 확인하기 (우리말)
-<img width="720" alt="그림 4.3.3.a2. 기본 설정(Preference)의 다른 아이콘 보는 방식 확인하기 (우리말)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/bb8c62a2-5636-4b09-bf96-ffedd790e5d5">
+#### 그림 90.2.6.3.a211. `인터페이스` → `도구상자` → `Menu mode` (Windows) (우리말)
+![90-02-06-interfacex-03-toolbox(ko)(windows)-menu_mode-focus-menu_mode](https://github.com/wonder13662/gimp/assets/15767104/31561911-a06d-4ab4-bb98-40e86e0a0ee1)
 
-#### 그림 4.3.3.a3. 기본 설정(Preference)의 다른 아이콘 보는 방식 확인하기 (영어)
-<img width="720" alt="그림 4.3.3.a3. 기본 설정(Preference)의 다른 아이콘 보는 방식 확인하기 (영어)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2f86cf6-dd7a-4c7c-baca-8724ac563976">
+[다른 운영체제와 언어의 `인터페이스` → `도구상자` → `Menu mode` 확인하기]()
 
 #### 영상 4.3.3.a4. 기본 설정(Preference)의 도구 그룹 사용하기(Use tool groups) 설정
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d67ef8f4-2b60-4652-9acd-4b1b9f7679db"></video>
