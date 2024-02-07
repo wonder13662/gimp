@@ -7,6 +7,11 @@
 
 [3.4.5. 이미지 잘라내기](./03-04-05-crop-an-image.md)
 
+#### 영상 90.4.1.a101. '도구 옵션' 대화상자를 드래그해서 옮기기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4a654ab9-d649-477f-a106-694cc5f1f98d"></video>
+
+[4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 영상 90.4.1.a101. '도구 옵션' 대화상자를 드래그해서 옮기기]()
+
 ***
 
 ## 하위 페이지
