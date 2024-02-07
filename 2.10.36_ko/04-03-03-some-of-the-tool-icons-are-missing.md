@@ -7,10 +7,10 @@
 
 기본 설정(Preference)에 따라 다른 아이콘을 보는 방식이 마우스 커서를 호버(마우스 커서를 올려두기) 또는 아이콘을 클릭하는 것일 수도 있습니다.
 
-#### 그림 90.2.6.3.a211. `인터페이스` → `도구상자` → `Menu mode` (Windows) (우리말)
-![90-02-06-interfacex-03-toolbox(ko)(windows)-menu_mode-focus-menu_mode](https://github.com/wonder13662/gimp/assets/15767104/31561911-a06d-4ab4-bb98-40e86e0a0ee1)
+#### [그림 90.2.6.3.a211. `인터페이스` → `도구상자` → `Menu mode` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a211-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90--menu-mode-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-02-06-interfacex-03-toolbox(ko)(windows)-menu_mode-focus-menu_mode](https://github.com/wonder13662/gimp/assets/15767104/31561911-a06d-4ab4-bb98-40e86e0a0ee1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a211-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90--menu-mode-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-[다른 운영체제와 언어의 `인터페이스` → `도구상자` → `Menu mode` 확인하기]()
+[다른 운영체제와 언어의 `인터페이스` → `도구상자` → `Menu mode` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a212-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90--menu-mode-windows-%EC%98%81%EC%96%B4)
 
 #### 영상 4.3.3.a4. 기본 설정(Preference)의 도구 그룹 사용하기(Use tool groups) 설정
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d67ef8f4-2b60-4652-9acd-4b1b9f7679db"></video>

@@ -36,7 +36,7 @@
 #### 그림 90.2.6.3.a211. `인터페이스` → `도구상자` → `Menu mode` (Windows) (우리말)
 ![90-02-06-interfacex-03-toolbox(ko)(windows)-menu_mode-focus-menu_mode](https://github.com/wonder13662/gimp/assets/15767104/31561911-a06d-4ab4-bb98-40e86e0a0ee1)
 
-[4.3.3. 도구 아이콘이 사라졌습니다 - 그림 90.2.6.3.a211. `인터페이스` → `도구상자` → `Menu mode` (Windows) (우리말)]()
+[4.3.3. 도구 아이콘이 사라졌습니다 - 그림 90.2.6.3.a211. `인터페이스` → `도구상자` → `Menu mode` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-03-some-of-the-tool-icons-are-missing.html#%EA%B7%B8%EB%A6%BC-90263a211-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90--menu-mode-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.2.6.3.a212. `인터페이스` → `도구상자` → `Menu mode` (Windows) (영어)
 ![90-02-06-interfacex-03-toolbox(en)(windows)-menu_mode-focus-menu_mode](https://github.com/wonder13662/gimp/assets/15767104/18ffd27b-ab5c-464a-befc-5e90b9f44787)
