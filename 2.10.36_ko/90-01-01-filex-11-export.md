@@ -15,6 +15,10 @@
 
 ## 다른 페이지로 가기
 
+[➡️ 다음: 90.1.1.12. 덮어쓰기(Overwrite)](./90-01-01-filex-12-overwrite.md)
+
+[⬅️ 이전: 90.1.1.10. 원래대로(Revert)](./90-01-01-filex-10-revert.md)
+
 [⬆️ 위: 90.1.1. 파일(File)](./90-01-01-file.md)
 
 [⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)

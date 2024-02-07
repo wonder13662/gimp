@@ -141,7 +141,7 @@
 
 [90.1.1.16. 인쇄(Print)](./90-01-01-filex-16-print.md)
 
-[90.1.1.17. 이메일로 보내기(Sendy By Email)](./90-01-01-filex-17-send_by_email.md)
+[90.1.1.17. 이메일로 보내기(Send By Email)](./90-01-01-filex-17-send_by_email.md)
 
 [90.1.1.18. 이미지 위치 복사하기(Copy Image Location)](./90-01-01-filex-18-copy_image_location.md)
 
