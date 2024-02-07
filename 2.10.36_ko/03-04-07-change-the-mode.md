@@ -15,8 +15,8 @@
 ## 3.4.7.3. 인덱스(Indexed)
 인덱스 모드는 파일 크기가 작아야 하거나, 이미지의 일부 색상만 가지고 작업해야 할 때 씁니다. 인덱스 모드는 전체 이미지의 색상으로 256개 이하의 고정된 개수의 색상을 사용합니다. 기본동작으로 이미지를 제한된 색상의 이미지로 바꿀 때, GIMP는 최적화된 팔레트(optimum palette)를 만들어서 이미지를 나타냅니다.
 
-#### [그림 90.4.32.a101. `이미지를 색인 색상으로 변환` 대화상자 (Windows) (우리말)]()
-[![그림 90.4.32.a101. `이미지를 색인 색상으로 변환` 대화상자 (Windows) (우리말)]()
+#### [그림 90.4.32.a101. `이미지를 색인 색상으로 변환` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-32-convert_image_to_indexed_colors.html#%EA%B7%B8%EB%A6%BC-90432a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%83%89%EC%9D%B8-%EC%83%89%EC%83%81%EC%9C%BC%EB%A1%9C-%EB%B3%80%ED%99%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![그림 90.4.32.a101. `이미지를 색인 색상으로 변환` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/309f2a53-e806-4d69-bb89-22799ea04368)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-32-convert_image_to_indexed_colors.html#%EA%B7%B8%EB%A6%BC-90432a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%83%89%EC%9D%B8-%EC%83%89%EC%83%81%EC%9C%BC%EB%A1%9C-%EB%B3%80%ED%99%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 [다른 운영체제와 언어의 `이미지를 색인 색상으로 변환` 대화상자 확인하기](./90-04-32-convert_image_to_indexed_colors.md)
 
