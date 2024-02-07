@@ -47,8 +47,8 @@
 
 [12.1.13. 기본 도구 상자 - 기본설정](./12-01-13-toolbox.md)에 그룹핑을 해제할 수 있는 옵션이 있습니다. 또한 그룹 안의 기능들을 바꾸거나 새로운 그룹을 만들 수도 있습니다. 아래 예시 이미지의 `인터페이스` → `도구상자`→ `도구 설정`을 사용하여 도구 상자에 보여지는 아이콘을 숨기거나 노출할 수 있도록 설정할 수 있습니다.
 
-#### 그림 90.2.6.3.a231. `인터페이스` → `도구상자`→ `도구 설정` (Windows) (우리말)
-![90-02-06-interfacex-03-toolbox(ko)(windows)(small)-focus-tool_configuration](https://github.com/wonder13662/gimp/assets/15767104/9df78d57-2554-4148-bd90-d6d54744677a)
+#### [그림 90.2.6.3.a231. `인터페이스` → `도구상자`→ `도구 설정` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a231-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8F%84%EA%B5%AC-%EC%84%A4%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-02-06-interfacex-03-toolbox(ko)(windows)(small)-focus-tool_configuration](https://github.com/wonder13662/gimp/assets/15767104/9df78d57-2554-4148-bd90-d6d54744677a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a231-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8F%84%EA%B5%AC-%EC%84%A4%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 
