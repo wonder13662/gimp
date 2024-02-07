@@ -10,3 +10,7 @@
 ## [14.2.8. Foreground select](./14-02-08-foreground-select.md)
 
 ### [Home](./00-home.md)
+
+## 관련 정보
+[Gimp-Forum.net: Painless use of selection tools](https://www.gimp-forum.net/Thread-Painless-use-of-selection-tools)
+(TODO 정리 필요)
