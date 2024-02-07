@@ -70,7 +70,7 @@
 #### 그림 90.2.6.3.a219. `Menu mode` 설정별 도구 그룹 표시 방식 차이
 ![90-02-06-interfacex-03-toolbox-menu_mode(우리말)(mac)](https://github.com/wonder13662/gimp/assets/15767104/3d7513d3-37f0-44eb-a34b-26cca0766f0f)
 
-[4.3.3. 도구 아이콘이 사라졌습니다 - 그림 90.2.6.3.a219. `Menu mode` 설정별 도구 그룹 표시 방식 차이]()
+[4.3.3. 도구 아이콘이 사라졌습니다 - 그림 90.2.6.3.a219. `Menu mode` 설정별 도구 그룹 표시 방식 차이](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-03-some-of-the-tool-icons-are-missing.html#%EA%B7%B8%EB%A6%BC-90263a219-menu-mode-%EC%84%A4%EC%A0%95%EB%B3%84-%EB%8F%84%EA%B5%AC-%EA%B7%B8%EB%A3%B9-%ED%91%9C%EC%8B%9C-%EB%B0%A9%EC%8B%9D-%EC%B0%A8%EC%9D%B4)
 
 ***
 

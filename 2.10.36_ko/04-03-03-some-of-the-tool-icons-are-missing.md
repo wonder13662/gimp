@@ -34,15 +34,15 @@
 
 각 설정별로 도구 그룹과 도구 아이콘의 표시 방식을 요약하면 아래와 같습니다.
 
-#### 그림 90.2.6.3.a219. `Menu mode` 설정별 도구 그룹 표시 방식 차이
-![90-02-06-interfacex-03-toolbox-menu_mode(우리말)(mac)](https://github.com/wonder13662/gimp/assets/15767104/3d7513d3-37f0-44eb-a34b-26cca0766f0f)
+#### [그림 90.2.6.3.a219. `Menu mode` 설정별 도구 그룹 표시 방식 차이](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a219-menu-mode-%EC%84%A4%EC%A0%95%EB%B3%84-%EB%8F%84%EA%B5%AC-%EA%B7%B8%EB%A3%B9-%ED%91%9C%EC%8B%9C-%EB%B0%A9%EC%8B%9D-%EC%B0%A8%EC%9D%B4)
+[![90-02-06-interfacex-03-toolbox-menu_mode(우리말)(mac)](https://github.com/wonder13662/gimp/assets/15767104/3d7513d3-37f0-44eb-a34b-26cca0766f0f)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a219-menu-mode-%EC%84%A4%EC%A0%95%EB%B3%84-%EB%8F%84%EA%B5%AC-%EA%B7%B8%EB%A3%B9-%ED%91%9C%EC%8B%9C-%EB%B0%A9%EC%8B%9D-%EC%B0%A8%EC%9D%B4)
 
 도구 상자 아이콘의 오른쪽 아래의 작은 삼각형 기호는 그룹에 더 많은 아이콘이 있다는 뜻입니다.
 
-#### 그림 90.3.a101. 도구 상자의 아이콘의 작은 삼각형 확인하기
-<img width="231" alt="그림 4.3.3.a8. 도구 상자의 아이콘의 작은 삼각형 확인하기" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5599059d-e637-42d7-aa47-37a8d4e48e5d">
+#### [그림 90.3.a101. 도구 상자의 아이콘의 작은 삼각형 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-00-toolbox.html#%EA%B7%B8%EB%A6%BC-903a101-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%98-%EC%9E%91%EC%9D%80-%EC%82%BC%EA%B0%81%ED%98%95-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+[<img width="231" alt="그림 4.3.3.a8. 도구 상자의 아이콘의 작은 삼각형 확인하기" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5599059d-e637-42d7-aa47-37a8d4e48e5d">](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-00-toolbox.html#%EA%B7%B8%EB%A6%BC-903a101-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%98-%EC%9E%91%EC%9D%80-%EC%82%BC%EA%B0%81%ED%98%95-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
-#### 영상 90.3.a102. 도구 상자의 아이콘의 작은 삼각형 확인하기
+#### [영상 90.3.a102. 도구 상자의 아이콘의 작은 삼각형 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-00-toolbox.html#%EC%98%81%EC%83%81-903a102-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%98-%EC%9E%91%EC%9D%80-%EC%82%BC%EA%B0%81%ED%98%95-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/55e454c5-8d51-48dc-bfb6-4c27930d8848"></video>
 
 [12.1.13. 기본 도구 상자 - 기본설정](./12-01-13-toolbox.md)에 그룹핑을 해제할 수 있는 옵션이 있습니다. 또한 그룹 안의 기능들을 바꾸거나 새로운 그룹을 만들 수도 있습니다.

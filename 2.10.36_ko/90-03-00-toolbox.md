@@ -9,12 +9,12 @@
 #### 그림 90.3.a101. 도구 상자의 아이콘의 작은 삼각형 확인하기
 <img width="231" alt="그림 4.3.3.a8. 도구 상자의 아이콘의 작은 삼각형 확인하기" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5599059d-e637-42d7-aa47-37a8d4e48e5d">
 
-[4.3.3. 도구 아이콘이 사라졌습니다 - 그림 90.3.a101. 도구 상자의 아이콘의 작은 삼각형 확인하기]()
+[4.3.3. 도구 아이콘이 사라졌습니다 - 그림 90.3.a101. 도구 상자의 아이콘의 작은 삼각형 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-03-some-of-the-tool-icons-are-missing.html#%EA%B7%B8%EB%A6%BC-903a101-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%98-%EC%9E%91%EC%9D%80-%EC%82%BC%EA%B0%81%ED%98%95-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
 #### 영상 90.3.a102. 도구 상자의 아이콘의 작은 삼각형 확인하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/55e454c5-8d51-48dc-bfb6-4c27930d8848"></video>
 
-[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.3.a102. 도구 상자의 아이콘의 작은 삼각형 확인하기]()
+[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.3.a102. 도구 상자의 아이콘의 작은 삼각형 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-03-some-of-the-tool-icons-are-missing.html#%EC%98%81%EC%83%81-903a102-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%98-%EC%9E%91%EC%9D%80-%EC%82%BC%EA%B0%81%ED%98%95-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
 ## 하위 페이지
 
