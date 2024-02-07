@@ -32,4 +32,6 @@
 
 [4.2.16. 문제가 생겼을 때 확인해보면 좋은 것들](./04-02-16-general-guidelines-on-what-to-check-if-you-are-stuck.md)
 
+[⬆️ 위: 4. 문제 해결하기](./04-00-what-to-do-if-you-are-stuck.md)
+
 [🏠 홈](./00-home.md)

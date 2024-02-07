@@ -32,6 +32,8 @@ GIMP는 세가자의 컬러 모드를 사용합니다.[RGB(A), 그레이스케�
 
 [⬆️ 위: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
 
+[⬆️ 위: 4. 문제 해결하기](./04-00-what-to-do-if-you-are-stuck.md)
+
 [🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-stuck-indexed-mode.html)

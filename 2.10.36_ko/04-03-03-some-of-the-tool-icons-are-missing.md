@@ -53,6 +53,8 @@
 
 [⬆️ 위: 4.3. 잃어버린 창과 대화상자 해결하기](./04-03-00-how-to-fix-missing-windows-and-dialogs.md)
 
+[⬆️ 위: 4. 문제 해결하기](./04-00-what-to-do-if-you-are-stuck.md)
+
 [🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-stuck-missing-tool-icons.html)
