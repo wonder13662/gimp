@@ -25,6 +25,16 @@
 
 [3.4.5. 이미지 잘라내기 - 영상 90.4.1.10.a213. 새로운 종횡비 비율 적용 및 유지(가로모드에서 세로모드로 바꾸기)](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-05-crop-an-image.html#%EC%98%81%EC%83%81-904110a213-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%A2%85%ED%9A%A1%EB%B9%84-%EB%B9%84%EC%9C%A8-%EC%A0%81%EC%9A%A9-%EB%B0%8F-%EC%9C%A0%EC%A7%80%EA%B0%80%EB%A1%9C%EB%AA%A8%EB%93%9C%EC%97%90%EC%84%9C-%EC%84%B8%EB%A1%9C%EB%AA%A8%EB%93%9C%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
+#### 영상 90.4.1.10.a221. 도구 옵션의 잘라낸 픽셀 삭제(Delete cropped pixels) 켜고 잘라내기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7edad087-e61d-468c-8a6d-a2e7ee1a4564"></video>
+
+[4.2.14. 잘라내기 도구로 잘라낸 뒤에 빈 공간이 생깁니다 - 영상 90.4.1.10.a221. 도구 옵션의 잘라낸 픽셀 삭제(Delete cropped pixels) 켜고 잘라내기]()
+
+#### 영상 90.4.1.10.a222. 도구 옵션의 잘라낸 픽셀 삭제(Delete cropped pixels) 끄고 잘라내기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/664085c3-d727-4ef5-afaf-38fe9262f2a5"></video>
+
+[4.2.14. 잘라내기 도구로 잘라낸 뒤에 빈 공간이 생깁니다 - 영상 90.4.1.10.a222. 도구 옵션의 잘라낸 픽셀 삭제(Delete cropped pixels) 끄고 잘라내기]()
+
 ***
 
 ## 다른 페이지로 가기
