@@ -6,14 +6,18 @@ GIMP는 세가자의 컬러 모드를 사용합니다.[RGB(A), 그레이스케�
 ## 4.2.8.2. 해결방법
 가능한한 RGB 모드로 색을 칠하세요. 이미지 메뉴 바의 [모드(Mode)](./16-06-03-mode.md) 메뉴를 클릭해서 다른 컬러 모드를 선택하고 시험해볼 수 있습니다. 인덱스 모드로 작업해야 한다면 [색상표 대화상자](./15-02-04-colormap-dialog.md)에서 색깔을 고를 수 있습니다.
 
-#### 그림 4.2.8.1.a1. 이미지 메뉴 바의 모드(Mode) 메뉴 위치
-<img width="480" alt="그림 4.2.8.1.a1. 이미지 메뉴 바의 모드(Mode) 메뉴 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/06ef5a31-51c6-498f-b884-37871b04781b">
+#### 그림 90.1.5.2.a1. `이미지` → `모드` (Windows)
+![그림 90.1.5.2.a1. `이미지` → `모드` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/97db94d4-9a8b-4ab5-9ab3-5e65da6737c7)
 
-#### 그림 4.2.8.1.a2. 이미지 메뉴 바의 색상표(Colormap) 대화상자 메뉴 위치
-<img width="480" alt="그림 4.2.8.1.a2. 이미지 메뉴 바의 색상표(Colormap) 대화상자 메뉴 위치" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/67090b33-5b61-4315-8174-8cb1e09f5ba5">
+[다른 운영체제와 언어의 `이미지` → `모드` 확인하기](./90-01-05-imagex-02-mode.md)
 
-#### 그림 4.2.8.1.a3. 색상표(Colormap) 대화상자
-<img width="480" alt="그림 4.2.8.1.a3. 색상표(Colormap) 대화상자" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f58cf8ea-5dfe-4f24-b8d0-864e8eb83bbf">
+#### 그림 90.1.10.2.6.a101. `창` → `색상표` (Windows)
+![90-01-10-windowsx-01-dockable_dialogs(windows)(1080)-focus-colormap](https://github.com/wonder13662/gimp/assets/15767104/6bde90e9-1786-4537-8dc8-631d03c446db)
+
+[다른 운영체제와 언어의 `창` → `색상표` 확인하기](./90-01-10-windowsx-02-dockable_dialogsx-06-colormap.md)
+
+#### 그림 90.4.6.a1. 색상표 대화상자
+![그림 90.4.6.a1. 색상표 대화상자](https://github.com/wonder13662/gimp/assets/15767104/e6fff5e0-f875-48d7-9d55-71a8c40ab677)
 
 #### 영상 4.2.8.1.a4. 색상모드를 인덱스로 바꿔 색상표(Colormap) 대화상자 만들기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e1b86121-19a0-4830-b091-c3a2db7e6d72"></video>

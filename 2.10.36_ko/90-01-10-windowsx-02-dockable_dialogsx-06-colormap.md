@@ -1,10 +1,12 @@
 # 90.1.10.2.6. 색상표(Colormap)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.10.2.6.a101. `창` → `색상표` (Windows)
-(TODO 이미지 추가)
+![90-01-10-windowsx-01-dockable_dialogs(windows)(1080)-focus-colormap](https://github.com/wonder13662/gimp/assets/15767104/6bde90e9-1786-4537-8dc8-631d03c446db)
+
+[4.2.8. 인덱스 모드에서의 이미지 - 그림 90.1.10.2.6.a101. `창` → `색상표` (Windows)]()
 
 #### 그림 90.1.10.2.6.a102. `창` → `색상표` (Mac)
-(TODO 이미지 추가)
+![90-01-10-windowsx-01-dockable_dialogs(mac)(1080)-focus-colormap](https://github.com/wonder13662/gimp/assets/15767104/bf75068a-5957-41d4-b089-4bbdf726c72f)
 
 ***
 
