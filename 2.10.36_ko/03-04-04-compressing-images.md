@@ -128,3 +128,7 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 [🏠 홈](./00-home.md)
 
 [원본](https://docs.gimp.org/2.10/en_GB/gimp-tutorial-quickie-jpeg.html)
+
+## 관련 정보
+[Gimp-Forum.net: What your mom never told you about PNG compression levels](https://www.gimp-forum.net/Thread-What-your-mom-never-told-you-about-PNG-compression-levels)
+(TODO 정리 필요)
