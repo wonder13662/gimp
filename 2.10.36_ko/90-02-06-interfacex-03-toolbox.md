@@ -47,6 +47,26 @@
 #### 그림 90.2.6.3.a214. `인터페이스` → `도구상자` → `Menu mode` (Mac) (영어)
 ![그림 90.2.6.3.a214. `인터페이스` → `도구상자` → `Menu mode` (Mac) (영어)](https://github.com/wonder13662/gimp/assets/15767104/c2f86cf6-dd7a-4c7c-baca-8724ac563976)
 
+#### 영상 90.2.6.3.a215. `인터페이스` → `도구상자` → `Menu mode` → `Use tool groups` 체크
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d67ef8f4-2b60-4652-9acd-4b1b9f7679db"></video>
+
+[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.2.6.3.a215. `인터페이스` → `도구상자` → `Menu mode` → `Use tool groups` 설정]()
+
+#### 영상 90.2.6.3.a216. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on click)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c40ab776-0acc-4619-95fc-f8acd7f4647d"></video>
+
+[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.2.6.3.a216. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on click)]()
+
+#### 영상 90.2.6.3.a217. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/132811b8-33e8-45c0-a667-b857554cb643"></video>
+
+[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.2.6.3.a217. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover)]()
+
+#### 영상 90.2.6.3.a218. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover in single column)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/12ba640c-4c30-4d51-b81c-4da35c8cec1a"></video>
+
+[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.2.6.3.a218. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover in single column)]()
+
 ***
 
 ## 기능이 쓰인 곳

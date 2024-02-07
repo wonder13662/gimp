@@ -5,23 +5,27 @@
 #### 영상 4.3.3.a1. 그룹 아이콘 위에 마우스 커서를 올려 다른 아이콘 확인하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b8ea8940-8743-488e-a46f-b8158f8886d9"></video>
 
-기본 설정(Preference)에 따라 다른 아이콘을 보는 방식이 마우스 커서를 호버(마우스 커서를 올려두기) 또는 아이콘을 클릭하는 것일 수도 있습니다.
+기본 설정(Preference)의 `인터페이스` → `도구상자` → `Menu mode`의 설정에 따라 다른 아이콘을 보는 방식이 마우스 커서를 호버(마우스 커서를 올려두기) 또는 아이콘을 클릭하는 것일 수도 있습니다.
 
 #### [그림 90.2.6.3.a211. `인터페이스` → `도구상자` → `Menu mode` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a211-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90--menu-mode-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-02-06-interfacex-03-toolbox(ko)(windows)-menu_mode-focus-menu_mode](https://github.com/wonder13662/gimp/assets/15767104/31561911-a06d-4ab4-bb98-40e86e0a0ee1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a211-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90--menu-mode-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 [다른 운영체제와 언어의 `인터페이스` → `도구상자` → `Menu mode` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a212-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90--menu-mode-windows-%EC%98%81%EC%96%B4)
 
-#### 영상 4.3.3.a4. 기본 설정(Preference)의 도구 그룹 사용하기(Use tool groups) 설정
+아래 영상에서 `도구 그룹 사용하기(Use tool groups)`의 체크 여부에 따라 도구 상자(왼쪽 상단)의 구조가 바뀌는 것을 확인할 수 있습니다.
+
+#### 영상 90.2.6.3.a215. `인터페이스` → `도구상자`→ `Use tool groups` 체크
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d67ef8f4-2b60-4652-9acd-4b1b9f7679db"></video>
 
-#### 영상 4.3.3.a5. 기본 설정(Preference)의 메뉴 모드(Menu Mode) - Show on click
+아래 영상에서 `Menu mode`의 `Show on click`으로 설정하고, 도구 상자의 도구 아이콘을 클릭할 때, 도구 그룹의 내용을 추가적으로 보여줍니다.
+
+#### 영상 90.2.6.3.a216. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on click)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c40ab776-0acc-4619-95fc-f8acd7f4647d"></video>
 
-#### 영상 4.3.3.a6. 기본 설정(Preference)의 메뉴 모드(Menu Mode) - Show on hover
+#### 영상 90.2.6.3.a217. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/132811b8-33e8-45c0-a667-b857554cb643"></video>
 
-#### 영상 4.3.3.a7. 기본 설정(Preference)의 메뉴 모드(Menu Mode) - Show on hover in single column
+#### 영상 90.2.6.3.a218. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on hover in single column)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/12ba640c-4c30-4d51-b81c-4da35c8cec1a"></video>
 
 (TODO 관련 설정 페이지 링크 추가가 필요합니다)
