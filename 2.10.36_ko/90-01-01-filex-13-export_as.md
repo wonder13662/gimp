@@ -14,7 +14,7 @@
 [4.4.1. jpeg 이미지로 내보냈더니 투명 부분이 흰색 또는 검은색으로 바뀌었습니다 - 그림 90.1.1.13.a112. 투명도를 가지는 이미지를 `jpeg`(투명도를 가지지 않음)으로 출력한 모습]()
 
 #### 영상 90.1.1.13.a113. 투명도를 가지는 이미지를 `jpeg`(투명도를 가지지 않음)으로 출력하는 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6bf5fd7d-9254-4c8a-b46d-a1253d5e6b77"></video>
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/54433f17-5d6d-48b1-b4f0-118bee4a6049"></video>
 
 [4.4.1. jpeg 이미지로 내보냈더니 투명 부분이 흰색 또는 검은색으로 바뀌었습니다 - 영상 90.1.1.13.a113. 투명도를 가지는 이미지를 `jpeg`(투명도를 가지지 않음)으로 출력하는 과정]()
 
@@ -24,7 +24,7 @@
 [4.4.1. jpeg 이미지로 내보냈더니 투명 부분이 흰색 또는 검은색으로 바뀌었습니다 - 그림 90.1.1.13.a114. 투명도를 가지는 이미지를 `png`(투명도를 가짐)으로 출력한 모습]()
 
 #### 영상 90.1.1.13.a115. 투명도를 가지는 이미지를 `png`(투명도를 가짐)으로 출력하는 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f70f2756-382a-4b76-8838-1ca2c7e86517"></video>
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c3e0af32-420d-4477-9311-1051c377bebd"></video>
 
 [4.4.1. jpeg 이미지로 내보냈더니 투명 부분이 흰색 또는 검은색으로 바뀌었습니다 - 영상 90.1.1.13.a115. 투명도를 가지는 이미지를 `png`(투명도를 가짐)으로 출력하는 과정]()
 
