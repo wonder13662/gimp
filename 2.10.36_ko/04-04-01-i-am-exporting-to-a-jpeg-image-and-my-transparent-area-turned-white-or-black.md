@@ -8,16 +8,10 @@
 #### 그림 90.1.1.13.a112. 투명도를 가지는 이미지를 `jpeg`(투명도를 가지지 않음)으로 출력한 모습
 ![image_menu_bar-file(ko)(windows)-export-tranparency_test-jpeg_output](https://github.com/wonder13662/gimp/assets/15767104/cec22f48-e277-457d-b9dd-70caa00f3786)
 
-#### 영상 90.1.1.13.a113. 투명도를 가지는 이미지를 `jpeg`(투명도를 가지지 않음)으로 출력하는 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/54433f17-5d6d-48b1-b4f0-118bee4a6049"></video>
-
 투명도를 이미지에 포함시키기 위해서, 투명도를 지원하는 `png` 또는 `tiff` 같은 다른 이미지 형식으로 바꿔야 합니다.
 
-#### 그림 90.1.1.13.a114. 투명도를 가지는 이미지를 `png`(투명도를 가짐)으로 출력한 모습
+#### 그림 90.1.1.13.a113. 투명도를 가지는 이미지를 `png`(투명도를 가짐)으로 출력한 모습
 ![image_menu_bar-file(ko)(windows)-export-tranparency_test-png_output](https://github.com/wonder13662/gimp/assets/15767104/bfe00d75-1ed7-4f80-b9ae-b48b99f91cb4)
-
-#### 영상 90.1.1.13.a115. 투명도를 가지는 이미지를 `png`(투명도를 가짐)으로 출력하는 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c3e0af32-420d-4477-9311-1051c377bebd"></video>
 
 ## 다른 페이지로 가기
 
