@@ -15,7 +15,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ]()
+[➡️ 다음: 4.4.2. gif 이미지로 내보냈더니 색상이 바뀌었습니다](./04-04-02-i-am-exporting-to-a-gif-image-and-the-colors-changed.md)
 
 [⬅️ 이전: 4.4. 이미지 내보내기 할 때의 문제 해결하기](./04-04-00-how-to-fix-problems-exporting-images.md)
 
