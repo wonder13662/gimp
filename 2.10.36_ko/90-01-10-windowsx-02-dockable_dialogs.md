@@ -25,7 +25,6 @@
 
 [3.4.5. 이미지 잘라내기 - 그림 90.1.10.a201. 이미지 메뉴 바(Image menu bar)의 도구 옵션(Tool Options) 메뉴 (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-05-crop-an-image.html#%EA%B7%B8%EB%A6%BC-90110a201-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94image-menu-bar%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options-%EB%A9%94%EB%89%B4-windows)
 
-#### 그림 3.4.5.3.a2. 이미지 메뉴 바(Image menu bar)의 도구 옵션(Tool Options) 메뉴 (Mac)
 #### 그림 90.1.10.a202. 이미지 메뉴 바(Image menu bar)의 도구 옵션(Tool Options) 메뉴 (Mac)
 ![그림 90.1.10.a202. 이미지 메뉴 바(Image menu bar)의 도구 옵션(Tool Options) 메뉴 (Mac)](https://github.com/wonder13662/gimp/assets/15767104/7b9a6eda-355a-4fe1-8d56-d7359b00ff77)
 

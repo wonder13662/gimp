@@ -1,4 +1,8 @@
 # 90.1.10.5. 탭 보이기(Show Tabs)
+#### 그림 90.1.10.5. `창` → `Show Tabs`
+![90-01-10-windows(w1080)-focus-show_tabs](https://github.com/wonder13662/gimp/assets/15767104/a143c671-190a-4982-9f45-3c87a171e616)
+
+[4.3.4. 이미지 창의 위쪽의 탭 바의 미리보기가 사라졌습니다 - 그림 90.1.10.5. `창` → `Show Tabs`]()
 
 ***
 
