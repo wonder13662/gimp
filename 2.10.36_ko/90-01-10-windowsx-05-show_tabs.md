@@ -1,8 +1,13 @@
 # 90.1.10.5. 탭 보이기(Show Tabs)
-#### 그림 90.1.10.5. `창` → `Show Tabs`
+#### 그림 90.1.10.5.a101. `창` → `Show Tabs`
 ![90-01-10-windows(w1080)-focus-show_tabs](https://github.com/wonder13662/gimp/assets/15767104/a143c671-190a-4982-9f45-3c87a171e616)
 
 [4.3.4. 이미지 창의 위쪽의 탭 바의 미리보기가 사라졌습니다 - 그림 90.1.10.5. `창` → `Show Tabs`]()
+
+#### 영상 90.1.10.5.a102. 이미지 메뉴 바(Image Menu Bar)의 탭 보이기(Show Tabs)를 켜고 끄기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b56f399f-7a32-40d8-92cc-76cdcd0336ee"></video>
+
+[4.3.4. 이미지 창의 위쪽의 탭 바의 미리보기가 사라졌습니다 - 영상 90.1.10.5.a102. 이미지 메뉴 바(Image Menu Bar)의 탭 보이기(Show Tabs)를 켜고 끄기]()
 
 ***
 
