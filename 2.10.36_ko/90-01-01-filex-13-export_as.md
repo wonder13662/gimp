@@ -3,6 +3,31 @@
 #### 그림 90.1.1.13.a101. `파일(File)` → `Export As...` 메뉴의 위치
 ![90-01-01-file-export_as(w1080)-focus-export_as](https://github.com/wonder13662/gimp/assets/15767104/2762d1a1-b41e-4087-9a3c-d6321facc69a)
 
+#### 그림 90.1.1.13.a111. 작업중인 이미지가 투명도를 가지는 모습
+![image_menu_bar-file(ko)(windows)-export-tranparency_test-xcf_source](https://github.com/wonder13662/gimp/assets/15767104/20997fbf-1d29-4bf7-86eb-ae8b63ef79d4)
+
+[4.4.1. jpeg 이미지로 내보냈더니 투명 부분이 흰색 또는 검은색으로 바뀌었습니다 - 그림 90.1.1.13.a111. 작업중인 이미지가 투명도를 가지는 모습]()
+
+#### 그림 90.1.1.13.a112. 투명도를 가지는 이미지를 `jpeg`(투명도를 가지지 않음)으로 출력한 모습
+![image_menu_bar-file(ko)(windows)-export-tranparency_test-jpeg_output](https://github.com/wonder13662/gimp/assets/15767104/cec22f48-e277-457d-b9dd-70caa00f3786)
+
+[4.4.1. jpeg 이미지로 내보냈더니 투명 부분이 흰색 또는 검은색으로 바뀌었습니다 - 그림 90.1.1.13.a112. 투명도를 가지는 이미지를 `jpeg`(투명도를 가지지 않음)으로 출력한 모습]()
+
+#### 영상 90.1.1.13.a113. 투명도를 가지는 이미지를 `jpeg`(투명도를 가지지 않음)으로 출력하는 과정
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6bf5fd7d-9254-4c8a-b46d-a1253d5e6b77"></video>
+
+[4.4.1. jpeg 이미지로 내보냈더니 투명 부분이 흰색 또는 검은색으로 바뀌었습니다 - 영상 90.1.1.13.a113. 투명도를 가지는 이미지를 `jpeg`(투명도를 가지지 않음)으로 출력하는 과정]()
+
+#### 그림 90.1.1.13.a114. 투명도를 가지는 이미지를 `png`(투명도를 가짐)으로 출력한 모습
+![image_menu_bar-file(ko)(windows)-export-tranparency_test-png_output](https://github.com/wonder13662/gimp/assets/15767104/bfe00d75-1ed7-4f80-b9ae-b48b99f91cb4)
+
+[4.4.1. jpeg 이미지로 내보냈더니 투명 부분이 흰색 또는 검은색으로 바뀌었습니다 - 그림 90.1.1.13.a114. 투명도를 가지는 이미지를 `png`(투명도를 가짐)으로 출력한 모습]()
+
+#### 영상 90.1.1.13.a115. 투명도를 가지는 이미지를 `png`(투명도를 가짐)으로 출력하는 과정
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f70f2756-382a-4b76-8838-1ca2c7e86517"></video>
+
+[4.4.1. jpeg 이미지로 내보냈더니 투명 부분이 흰색 또는 검은색으로 바뀌었습니다 - 영상 90.1.1.13.a115. 투명도를 가지는 이미지를 `png`(투명도를 가짐)으로 출력하는 과정]()
+
 ***
 
 ## 위 이미지를 사용한 곳
