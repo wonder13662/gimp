@@ -1,4 +1,6 @@
-# 6.2.2. Reducing the file size even more
+# 6.2.2. 파일 크기를 조금 더 줄이기
+
+## 다른 페이지로 가기
 
 ### [Home](./00-home.md)
 ### [Parent: 6.2. Preparing your images for the web](./06-02-00-preparing-your-images-for-the-web.md)
