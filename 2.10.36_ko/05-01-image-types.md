@@ -5,7 +5,7 @@
 
 ## 그레이스케일(grayscale)
 
-`그레이스케일(grayscale)` 이미지는 각 점이 0(검정)에서 255(흰색)까지의 발기 값을 가지는 여러가지 회색들로 표현됩니다. 개념적으로 `그레이스케일(grayscale)` 이미지와 `RGB` 이미지 사이의 차이는 컬러 채널의 갯수의 차이입니다. `그레이스케일(grayscale)` 이미지는 광도에 관한 1개의 컬러 채널을 가지고 있습니다. 
+`그레이스케일(grayscale)` 이미지는 각 점이 0(검정)에서 255(흰색)까지의 발기 값을 가지는 여러가지 회색들로 표현됩니다. 개념적으로 `그레이스케일(grayscale)` 이미지와 `RGB` 이미지 사이의 차이는 컬러 채널의 갯수의 차이입니다. `그레이스케일(grayscale)` 이미지는 밝기(brightness)에 관한 1개의 컬러 채널을 가지고 있습니다.
 
 #### [그림 90.90.1.a112. Color Channel: Grayscale](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a112-color-channel-grayscale)
 [![wilber-channel-gray](https://github.com/wonder13662/gimp/assets/15767104/17dfeee9-0dc1-4bd9-850d-814be3ced385)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a112-color-channel-grayscale)
