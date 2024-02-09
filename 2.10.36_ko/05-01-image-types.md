@@ -3,13 +3,6 @@
 
 이미지의 가장 기본적인 속성은 이미지의 색상 모드입니다. GIMP(에서) 선택할 수 있는 3가지의 색상 모드가 있습니다. `RGB`, `그레이스케일(grayscale)`, 그리고 `인덱스(indexed)` 입니다. 그리고 현재 GIMP 2.10.36 버전에서는 지원하지 않지만, 인쇄시 사용되는 `CMY(K)`도 함께 알아보도록 하겠습니다.
 
-## 그레이스케일(grayscale)
-
-`그레이스케일(grayscale)` 이미지는 각 점이 0(검정)에서 255(흰색)까지의 밝기(brightness) 값을 가지는 여러가지 회색들로 표현됩니다. 개념적으로 `그레이스케일(grayscale)` 이미지와 `RGB` 이미지 사이의 차이는 컬러 채널의 갯수의 차이입니다. `그레이스케일(grayscale)` 이미지는 밝기(brightness)에 관한 1개의 컬러 채널을 가지고 있습니다.
-
-#### [그림 90.90.1.a112. Color Channel: Grayscale](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a112-color-channel-grayscale)
-[![wilber-channel-gray](https://github.com/wonder13662/gimp/assets/15767104/17dfeee9-0dc1-4bd9-850d-814be3ced385)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a112-color-channel-grayscale)
-
 ## RGB
 
 `RGB`는 Red(빨강), Green(초록), Blue(파랑)을 의미합니다. 그리고 이미지의 각 점(픽셀)은 "red", "green", "blue"의 각 레벨로 표시합니다. 이로써 색상을 가지는 이미지로 표시됩니다. 각 색상 채널은 256 단계의 강도를 가집니다. 더 자세한 내용은 [컬러 모델(Color Models)](./19-glossaryx-color-model.md)을 참고해주세요.
@@ -23,6 +16,13 @@
 
 #### [그림 90.90.1.a101. Color Model: RGB](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a101-color-model-rgb)
 [![color-model-additive](https://github.com/wonder13662/gimp/assets/15767104/20ee4023-afb8-4233-8d2b-70c46d5924c8)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a101-color-model-rgb)
+
+## 그레이스케일(grayscale)
+
+`그레이스케일(grayscale)` 이미지는 각 점이 0(검정)에서 255(흰색)까지의 밝기(brightness) 값을 가지는 여러가지 회색들로 표현됩니다. 개념적으로 `그레이스케일(grayscale)` 이미지와 `RGB` 이미지 사이의 차이는 컬러 채널의 갯수의 차이입니다. `그레이스케일(grayscale)` 이미지는 밝기(brightness)에 관한 1개의 컬러 채널을 가지고 있습니다.
+
+#### [그림 90.90.1.a112. Color Channel: Grayscale](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a112-color-channel-grayscale)
+[![wilber-channel-gray](https://github.com/wonder13662/gimp/assets/15767104/17dfeee9-0dc1-4bd9-850d-814be3ced385)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a112-color-channel-grayscale)
 
 ## 인덱스(indexed)
 
