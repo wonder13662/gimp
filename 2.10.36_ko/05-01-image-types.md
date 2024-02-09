@@ -2,10 +2,15 @@
 **이미지**를 이미지 창에 보여지는 그림 또는 [JPEG](./06-01-filesx-02-file_formatsx-03-export_image_as_jpeg.md)같은 파일이라고 생각하기 쉽습니다. 하지만 실제로는 GIMP(김프)의 이미지는 복잡한 구조를 가지고 있습니다. 여러가지 타입의 객체가 더해진 레이어 층을 가지고 있습니다. 여러가지 타입의 객체는 마스크 선택 영역, 채널, 경로, 그리고 "실행 취소" 이력 등을 말합니다. 이 장에서는 GIMP(김프)의 이미지의 구성요소들을 자세히 살펴보겠습니다. 그리고 이 구성요소들로 할 수 있는 작업들을 알아보겠습니다.
 
 [GIMP의 이미지의 색상 모드 - RGB](https://wonder13662.github.io/gimp/2.10.36_ko/05-01-image-types.html#rgb)
+
 [GIMP의 이미지의 색상 모드 - 그레이스케일(grayscale)](https://wonder13662.github.io/gimp/2.10.36_ko/05-01-image-types.html#%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%BCgrayscale)
+
 [GIMP의 이미지의 색상 모드 - 인덱스(indexed)](https://wonder13662.github.io/gimp/2.10.36_ko/05-01-image-types.html#%EC%9D%B8%EB%8D%B1%EC%8A%A4indexed)
+
 [CMY(K)](https://wonder13662.github.io/gimp/2.10.36_ko/05-01-image-types.html#cmyk)
+
 [알파 채널](https://wonder13662.github.io/gimp/2.10.36_ko/05-01-image-types.html#%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90)
+
 [이미지 모드의 전환](https://wonder13662.github.io/gimp/2.10.36_ko/05-01-image-types.html#%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%AA%A8%EB%93%9C%EC%9D%98-%EC%A0%84%ED%99%98)
 
 ## GIMP의 이미지의 색상 모드
