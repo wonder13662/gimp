@@ -8,6 +8,11 @@
 #### 그림 90.1.5.2.a2. `이미지` → `모드` (Mac)
 ![그림 90.1.5.2.a2. `이미지` → `모드` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/1f953983-8b10-49af-8b84-13d0d3441d7c)
 
+#### 그림 90.1.5.2.a101. Format: PNG와 Format: GIF의 결과물 비교
+![90-01-05-imagex-01-mode(windows)-indexed-comparing_png_n_gif](https://github.com/wonder13662/gimp/assets/15767104/a1224063-b554-4861-8502-eccc67dd703d)
+
+[4.4.2. gif 이미지로 내보냈더니 색상이 바뀌었습니다 - 그림 90.1.5.2.a101. Format: PNG와 Format: GIF의 결과물 비교]()
+
 ***
 
 ## 하위 페이지
