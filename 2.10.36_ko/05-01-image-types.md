@@ -11,13 +11,13 @@
 
 `그레이스케일(grayscale)` 이미지는 광도에 관한 1개의 컬러 채널을 가지고 있습니다. 
 
-#### 그림 90.90.1.a112. Color Channel: Grayscale
-![wilber-channel-gray](https://github.com/wonder13662/gimp/assets/15767104/17dfeee9-0dc1-4bd9-850d-814be3ced385)
+#### [그림 90.90.1.a112. Color Channel: Grayscale](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a112-color-channel-grayscale)
+[![wilber-channel-gray](https://github.com/wonder13662/gimp/assets/15767104/17dfeee9-0dc1-4bd9-850d-814be3ced385)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a112-color-channel-grayscale)
 
 `RGB` 이미지는 3개의 컬러 채널을 가지고 있습니다. `RGB` 이미지는 3개의 컬러 채널(Red(빨강), Green(초록), Blue(파랑))을 포개어 놓은 것으로 생각할 수 있습니다. 
 
-#### 그림 90.90.1.a111. Color Channel: RGB
-![wilber-channel-rgb](https://github.com/wonder13662/gimp/assets/15767104/02f98ed9-ad8e-4901-8707-03b02d1cc976)
+#### [그림 90.90.1.a111. Color Channel: RGB](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a111-color-channel-rgb)
+[![wilber-channel-rgb](https://github.com/wonder13662/gimp/assets/15767104/02f98ed9-ad8e-4901-8707-03b02d1cc976)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a111-color-channel-rgb)
 
 실제로 `RGB` 이미지와 `그레이스케일(grayscale)` 이미지는 알파 채널이라고 하는 추가적인 색상 채널을 가지고 있습니다. 알파 채널은 이미지의 투명도를 나타냅니다. 레이어의 특정 위치의 알파 채널의 값이 최소값인 0이면, 레이어의 특정 위치는 투명합니다. 그러므로 아래의 레이어의 모습을 볼 수 있습니다. 레이어의 특정 위치의 알파 채널의 값이 최대값인 255이면, 레이어의 특정 위치는 불투명합니다. 그러므로 아래의 레이어의 모습을 볼 수 없고, 알파 채널의 레이어의 모습만 볼 수 있습니다. 알파 채널의 값을 조정함으로써 투명도/불투명도를 설정할 수 있습니다. 이 값을 조정하면 현재 레이어와 아래의 레이어와의 픽셀의 색상을 섞는 비율을 바꿀 수 있습니다.
 
@@ -25,13 +25,13 @@ GIMP(김프)에서의 알파 채널을 포함한 모든 컬러 채널은 이미�
 
 `RGB` 컬러 모델에서는 빨강, 초록, 파랑을 모두 합치면 흰색이 됩니다. 이 방식은 실제로 모니터에서 색을 조합하는 방식(가산 혼합 - addictive)입니다.
 
-#### 그림 90.90.1.a101. Color Model: RGB
-![color-model-additive](https://github.com/wonder13662/gimp/assets/15767104/20ee4023-afb8-4233-8d2b-70c46d5924c8)
+#### [그림 90.90.1.a101. Color Model: RGB](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a101-color-model-rgb)
+[![color-model-additive](https://github.com/wonder13662/gimp/assets/15767104/20ee4023-afb8-4233-8d2b-70c46d5924c8)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a101-color-model-rgb)
 
 `CMY(K)` 컬러 모델에서는 사이언(Cyan), 마젠다(Magenta), 노랑(Yellow)를 합치면 검정이 됩니다. 이 방식은 실제로 인쇄할 때의 방식(감산 혼합 - subtractive)입니다. 인쇄기는 실제로도 사이언(Cyan), 마젠다(Magenta), 노랑(Yellow) 카트리지의 색상을 합치지 않고 단 하나의 검은색 카트리지를 사용해 인쇄를 합니다. 이는 색상을 적게 사용하는 경제적인 이유도 있고, 더 나은 색상을 보여주는 결과를 가져옵니다.
 
-#### 그림 90.90.1.a102. Color Model: CMY
-![color-model-subtractive](https://github.com/wonder13662/gimp/assets/15767104/e101bf1e-8f07-463f-9bc2-2113927937c2)
+#### [그림 90.90.1.a102. Color Model: CMY](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a102-color-model-cmy)
+[![color-model-subtractive](https://github.com/wonder13662/gimp/assets/15767104/e101bf1e-8f07-463f-9bc2-2113927937c2)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a102-color-model-cmy)
 
 세번째 타입인 `인덱스(indexed)` 컬러 모델은 다소 이해하기 쉽지 않습니다. `인덱스(indexed)` 이미지는 제한된 색상들만 사용할 수 있습니다. 보통은 256 색상이거나 그보다 적은 색상을 사용합니다. `인덱스(indexed)` 컬러 모델은 8비트 정확도의 이미지에만 적용할 수 있습니다. 이 색상들은 이미지의 색상표(colormap)를 구성합니다. 그리고 이미지의 각 픽셀의 색상은 이 색상표(colormap)에서 온 것입니다. `인덱스(indexed)` 이미지는 상대적으로 매우 적은 메모리를 사용하는 이점을 가지고 있습니다. 그래서 10년 전의 환경에서는 `인덱스(indexed)` 이미지가 매우 널리 사용되었습니다. 시간이 지나면서, `인덱스(indexed)` 이미지는 점점 사용하지 않게 되었습니다. 하지만 아직까지는 GIMP(김프)에서 `인덱스(indexed)` 이미지를 지원하고 있습니다. (또한 몇가지 이미지 조작에서 `RGB` 이미지보다 `인덱스(indexed)` 이미지가 더 나은 점이 있습니다.)
 
