@@ -5,7 +5,7 @@
 
 ## 그레이스케일(grayscale)
 
-`그레이스케일(grayscale)` 이미지는 각 점이 0(검정)에서 255(흰색)까지의 발기 값을 가지는 여러가지 회색들로 표현됩니다. 개념적으로 `그레이스케일(grayscale)` 이미지와 `RGB` 이미지 사이의 차이는 컬러 채널의 갯수의 차이입니다. `그레이스케일(grayscale)` 이미지는 밝기(brightness)에 관한 1개의 컬러 채널을 가지고 있습니다.
+`그레이스케일(grayscale)` 이미지는 각 점이 0(검정)에서 255(흰색)까지의 밝기(brightness) 값을 가지는 여러가지 회색들로 표현됩니다. 개념적으로 `그레이스케일(grayscale)` 이미지와 `RGB` 이미지 사이의 차이는 컬러 채널의 갯수의 차이입니다. `그레이스케일(grayscale)` 이미지는 밝기(brightness)에 관한 1개의 컬러 채널을 가지고 있습니다.
 
 #### [그림 90.90.1.a112. Color Channel: Grayscale](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a112-color-channel-grayscale)
 [![wilber-channel-gray](https://github.com/wonder13662/gimp/assets/15767104/17dfeee9-0dc1-4bd9-850d-814be3ced385)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a112-color-channel-grayscale)
@@ -18,10 +18,6 @@
 
 #### [그림 90.90.1.a111. Color Channel: RGB](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a111-color-channel-rgb)
 [![wilber-channel-rgb](https://github.com/wonder13662/gimp/assets/15767104/02f98ed9-ad8e-4901-8707-03b02d1cc976)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a111-color-channel-rgb)
-
-실제로 `RGB` 이미지와 `그레이스케일(grayscale)` 이미지는 알파 채널이라고 하는 추가적인 색상 채널을 가지고 있습니다. 알파 채널은 이미지의 투명도를 나타냅니다. 레이어의 특정 위치의 알파 채널의 값이 최소값인 0이면, 레이어의 특정 위치는 투명합니다. 그러므로 아래의 레이어의 모습을 볼 수 있습니다. 레이어의 특정 위치의 알파 채널의 값이 최대값인 255이면, 레이어의 특정 위치는 불투명합니다. 그러므로 아래의 레이어의 모습을 볼 수 없고, 알파 채널의 레이어의 모습만 볼 수 있습니다. 알파 채널의 값을 조정함으로써 투명도/불투명도를 설정할 수 있습니다. 이 값을 조정하면 현재 레이어와 아래의 레이어와의 픽셀의 색상을 섞는 비율을 바꿀 수 있습니다.
-
-GIMP(김프)에서의 알파 채널을 포함한 모든 컬러 채널은 이미지 정확도에 따른 값 범위를 가지고 있습니다. 8비트 이미지의 색상 깊이의 경우, 0부터 255까지의 값을 가집니다. GIMP(김프)는 16비트 그리고 32비트 이미지를 열 수 있습니다. 그리고 16비트와 32비트의 경우, 더 넓은 색상 깊이를 가질 수 있습니다.
 
 `RGB` 컬러 모델에서는 빨강, 초록, 파랑을 모두 합치면 흰색이 됩니다. 이 방식은 실제로 모니터에서 색을 조합하는 방식(가산 혼합 - addictive)입니다.
 
@@ -40,6 +36,12 @@ GIMP(김프)에서 파일을 열 때, 자주 사용되는 파일 형식([GIF](./
 
 #### [그림 90.90.1.a102. Color Model: CMY](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a102-color-model-cmy)
 [![color-model-subtractive](https://github.com/wonder13662/gimp/assets/15767104/e101bf1e-8f07-463f-9bc2-2113927937c2)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a102-color-model-cmy)
+
+## 알파 채널
+
+`RGB` 이미지와 `그레이스케일(grayscale)` 이미지는 알파 채널이라고 하는 추가적인 색상 채널을 가지고 있습니다. 알파 채널은 이미지의 투명도를 나타냅니다. 레이어의 특정 위치의 알파 채널의 값이 최소값인 0이면, 레이어의 특정 위치는 투명합니다. 그러므로 아래의 레이어의 모습을 볼 수 있습니다. 레이어의 특정 위치의 알파 채널의 값이 최대값인 255이면, 레이어의 특정 위치는 불투명합니다. 그러므로 아래의 레이어의 모습을 볼 수 없고, 알파 채널의 레이어의 모습만 볼 수 있습니다. 알파 채널의 값을 조정함으로써 투명도/불투명도를 설정할 수 있습니다. 이 값을 조정하면 현재 레이어와 아래의 레이어와의 픽셀의 색상을 섞는 비율을 바꿀 수 있습니다.
+
+GIMP(김프)에서의 알파 채널을 포함한 모든 컬러 채널은 이미지 정확도에 따른 값 범위를 가지고 있습니다. 8비트 이미지의 색상 깊이의 경우, 0부터 255까지의 값을 가집니다. GIMP(김프)는 16비트 그리고 32비트 이미지를 열 수 있습니다. 그리고 16비트와 32비트의 경우, 더 넓은 색상 깊이를 가질 수 있습니다.
 
 ## 이미지 모드의 전환
 
@@ -60,4 +62,4 @@ GIMP(김프)에서는 이미지 메뉴 바의 [Mode](./16-06-03-mode.md) 명령�
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-stuck-export-gif-colors-changed.https://docs.gimp.org/2.10/ko/gimp-images-in.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-images-in.html)
