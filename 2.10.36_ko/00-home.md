@@ -119,8 +119,14 @@
 
 [4.4.2. gif 이미지로 내보냈더니 색상이 바뀌었습니다](./04-04-02-i-am-exporting-to-a-gif-image-and-the-colors-changed.md)
 
-# Part II. How do I Become a GIMP Wizard?
-[5. Getting Images into GIMP](./05-00-getting-images-into-gimp.md)
+# Part II. GIMP(김프) 마법사가 되려면?
+[5. GIMP(김프)로 이미지 불러오기](./05-00-getting-images-into-gimp.md)
+
+[5.1. 이미지 타입](./05-01-image-types.md)
+
+[5.2. 새 파일 만들기](./05-02-creating-new-files.md)
+
+[5.3. 파열 열기](./05-03-00-opening-files.md)
 
 [6. Getting Images out of GIMP](./06-00-getting-images-out-of-gimp.md)
 

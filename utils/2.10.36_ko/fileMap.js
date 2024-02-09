@@ -277,7 +277,8 @@ module.exports = {
       ],
       [
         '05-00-getting-images-into-gimp.md', 
-        '5. Getting images into GIMP'
+        '5. Getting images into GIMP',
+        '5. GIMP(김프)로 이미지 불러오기',
       ],
       [
         '05-01-image-types.md', 
