@@ -11,7 +11,7 @@
 #### 그림 90.1.5.2.a101. Format: PNG와 Format: GIF의 결과물 비교
 ![90-01-05-imagex-01-mode(windows)-indexed-comparing_png_n_gif](https://github.com/wonder13662/gimp/assets/15767104/a1224063-b554-4861-8502-eccc67dd703d)
 
-[4.4.2. gif 이미지로 내보냈더니 색상이 바뀌었습니다 - 그림 90.1.5.2.a101. Format: PNG와 Format: GIF의 결과물 비교]()
+[4.4.2. gif 이미지로 내보냈더니 색상이 바뀌었습니다 - 그림 90.1.5.2.a101. Format: PNG와 Format: GIF의 결과물 비교](https://wonder13662.github.io/gimp/2.10.36_ko/04-04-02-i-am-exporting-to-a-gif-image-and-the-colors-changed.html#%EA%B7%B8%EB%A6%BC-90152a101-format-png%EC%99%80-format-gif%EC%9D%98-%EA%B2%B0%EA%B3%BC%EB%AC%BC-%EB%B9%84%EA%B5%90)
 
 ***
 
