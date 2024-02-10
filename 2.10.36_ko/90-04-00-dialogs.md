@@ -216,6 +216,9 @@
 ### [90.4.36. 레이어 크기 조정(Scale Layer...)](./90-04-36-scale_layer.md)
 (TODO 이미지 추가 필요)
 
+### [90.4.37. 새 이미지 만들기(Create a New Image)](./90-04-37-create_a_new_image.md)
+(TODO 이미지 추가 필요)
+
 ***
 
 ## 기능이 쓰인 곳

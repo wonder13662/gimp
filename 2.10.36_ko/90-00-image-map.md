@@ -929,6 +929,8 @@
 
 [90.4.36. 레이어 크기 조정(Scale Layer...)](./90-04-36-scale_layer.md)
 
+[90.4.37. 새 이미지 만들기(Create a New Image)](./90-04-37-create_a_new_image.md)
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
