@@ -4,7 +4,7 @@
 #### 그림 90.1.1.3.a101. `파일` → `열기`
 ![90-01-01-file-export_as(w1080)-focus-open](https://github.com/wonder13662/gimp/assets/15767104/2c3f68e7-4733-4bcb-82ec-2b732860a4e7)
 
-[5.3.1. 파일 열기 - 그림 90.1.1.3.a101. `파일` → `열기`]()
+[5.3.1. 파일 열기 - 그림 90.1.1.3.a101. `파일` → `열기`](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-file.html#%EA%B7%B8%EB%A6%BC-90113a101-%ED%8C%8C%EC%9D%BC--%EC%97%B4%EA%B8%B0)
 
 ***
 
