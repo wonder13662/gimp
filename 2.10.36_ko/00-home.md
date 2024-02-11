@@ -128,6 +128,26 @@
 
 [5.3. 파열 열기](./05-03-00-opening-files.md)
 
+[5.3.1. 파일 열기](./05-03-01-open-file.md)
+
+[5.3.1.1. PDF 불러오기](./05-03-01-open-filex-01-import_from_pdf.md)
+
+[5.3.1.2. PostScript 불러오기](./05-03-01-open-filex-02-import_from_postscript.md)
+
+[5.3.2. 위치 열기](./05-03-02-open-location.md)
+
+[5.3.3. 최근 파일 열기](./05-03-03-open-recent.md)
+
+[5.3.4. 외부 프로그램 사용하기](./05-03-04-using-external-programs.md)
+
+[5.3.5. 파일 관리자](./05-03-05-file-manager.md)
+
+[5.3.6. 끌어놓기(드래그 앤 드랍)](./05-03-06-drag-and-drop.md)
+
+[5.3.7. 복사와 붙여넣기](./05-03-07-copy-and-paste.md)
+
+[5.3.8. 이미지 브라우저](./05-03-08-image-browser.md)
+
 [6. Getting Images out of GIMP](./06-00-getting-images-out-of-gimp.md)
 
 [7. Painting with GIMP](./07-00-painting-with-gimp.md)

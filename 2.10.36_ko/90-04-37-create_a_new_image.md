@@ -17,9 +17,9 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.38. 이미지 열기(Create a New Image)](./90-04-38-open_image.md)
 
-[⬅️ 이전: 90.4.37. 레이어 크기 조정(Scale Layer...)](./90-04-36-scale_layer.md)
+[⬅️ 이전: 90.4.36. 레이어 크기 조정(Scale Layer...)](./90-04-36-scale_layer.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 
