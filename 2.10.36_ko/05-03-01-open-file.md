@@ -27,7 +27,7 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 [![90-04-38-open_image(windows)(ko)-focus-place_list](https://github.com/wonder13662/gimp/assets/15767104/9395a68d-1c2a-4fc2-a690-9952a690f276)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a111-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ### 위치(Places) 목록의 기본 폴더
-이 목록의 가장 위쪽의 `위치(Places)`(`바탕 화면` 등)은 기본적으로 제공되는 값입니다. 
+이 목록의 가장 위쪽에 표시된 폴더들(`바탕 화면` 등)은 시스템에서 기본적으로 제공되는 값입니다. 
 
 #### [그림 90.4.38.a112. `이미지 열기` 대화상자 - 위치(Places) 목록의 기본 폴더 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a112-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98-%EA%B8%B0%EB%B3%B8-%ED%8F%B4%EB%8D%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-38-open_image(windows)(ko)-focus-place_list_default_folders](https://github.com/wonder13662/gimp/assets/15767104/e2b038c2-8142-42c0-86a6-392fe5daf53a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a112-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98-%EA%B8%B0%EB%B3%B8-%ED%8F%B4%EB%8D%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
