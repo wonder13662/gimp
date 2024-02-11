@@ -24,6 +24,16 @@
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a112. `이미지 열기` 대화상자 - 위치(Places) 목록의 기본 폴더 (Windows) (우리말)]()
 
+#### 그림 90.4.38.a113. `이미지 열기` 대화상자 - 위치(Places) 목록의 `+` 버튼 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-focus-place_list-btn_add](https://github.com/wonder13662/gimp/assets/15767104/bada7425-8039-46d7-ace5-e85d466dccc4)
+
+[5.3.1. 파일 열기 - 그림 90.4.38.a113. `이미지 열기` 대화상자 - 위치(Places) 목록의 `+` 버튼 (Windows) (우리말)]()
+
+#### 그림 90.4.38.a114. `이미지 열기` 대화상자 - 위치(Places) 목록의 `-` 버튼 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-focus-place_list-btn_remove](https://github.com/wonder13662/gimp/assets/15767104/2c0fea1e-4006-42b0-9faa-0f12c7594ce2)
+
+[5.3.1. 파일 열기 - 그림 90.4.38.a114. `이미지 열기` 대화상자 - 위치(Places) 목록의 `-` 버튼 (Windows) (우리말)]()
+
 ***
 
 ## 다른 페이지로 가기

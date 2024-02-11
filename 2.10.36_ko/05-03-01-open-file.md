@@ -33,10 +33,16 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 ![90-04-38-open_image(windows)(ko)-focus-place_list_default_folders](https://github.com/wonder13662/gimp/assets/15767104/e2b038c2-8142-42c0-86a6-392fe5daf53a)
 
 ### 위치(Places) 목록의 `+` 버튼
-`위치(Places)` 목록의 아래쪽의 `+` 버튼은 파일 목록에서 선택한 폴더를 추가합니다. 
+`위치(Places)` 목록의 아래쪽의 `+` 버튼은 파일 목록에서 선택한 폴더를 추가합니다.
+
+#### 그림 90.4.38.a113. `이미지 열기` 대화상자 - 위치(Places) 목록의 `+` 버튼 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-focus-place_list-btn_add](https://github.com/wonder13662/gimp/assets/15767104/bada7425-8039-46d7-ace5-e85d466dccc4)
 
 ### 위치(Places) 목록의 `-` 버튼
-`위치(Places)` 목록의 아래쪽의 `-` 버튼은 `위치(Places)` 목록에서 선택된 폴더를 지웁니다. 
+`위치(Places)` 목록의 아래쪽의 `-` 버튼은 `위치(Places)` 목록에서 선택된 폴더를 지웁니다.
+
+#### 그림 90.4.38.a114. `이미지 열기` 대화상자 - 위치(Places) 목록의 `-` 버튼 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-focus-place_list-btn_remove](https://github.com/wonder13662/gimp/assets/15767104/2c0fea1e-4006-42b0-9faa-0f12c7594ce2)
 
 ### 위치(Places) 목록의 폴더 더블 클릭
 `위치(Places)` 목록의 폴더를 더블 클릭하면 파일 목록이 해당 폴더로 바로 이동합니다.
