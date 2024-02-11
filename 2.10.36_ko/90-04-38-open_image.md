@@ -19,6 +19,11 @@
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a111. `이미지 열기` 대화상자 - 위치(Places) 목록 (Windows) (우리말)]()
 
+#### 그림 90.4.38.a112. `이미지 열기` 대화상자 - 위치(Places) 목록의 기본 폴더 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-focus-place_list_default_folders](https://github.com/wonder13662/gimp/assets/15767104/e2b038c2-8142-42c0-86a6-392fe5daf53a)
+
+[5.3.1. 파일 열기 - 그림 90.4.38.a112. `이미지 열기` 대화상자 - 위치(Places) 목록의 기본 폴더 (Windows) (우리말)]()
+
 ***
 
 ## 다른 페이지로 가기

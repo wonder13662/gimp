@@ -2,13 +2,13 @@
 
 [이미지 메뉴 바](./90-01-00-image-menu-bar.md)를 통해 이미지 파일을 열 수 있습니다. [이미지 메뉴 바](./90-01-00-image-menu-bar.md)의 `파일` → `열기`를 눌러 `이미지 열기` 대화상자를 엽니다.
 
-#### 그림 90.1.1.3.a101. `파일` → `열기`
-![90-01-01-file-export_as(w1080)-focus-open](https://github.com/wonder13662/gimp/assets/15767104/2c3f68e7-4733-4bcb-82ec-2b732860a4e7)
+#### [그림 90.1.1.3.a101. `파일` → `열기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-03-open.html#%EA%B7%B8%EB%A6%BC-90113a101-%ED%8C%8C%EC%9D%BC--%EC%97%B4%EA%B8%B0)
+[![90-01-01-file-export_as(w1080)-focus-open](https://github.com/wonder13662/gimp/assets/15767104/2c3f68e7-4733-4bcb-82ec-2b732860a4e7)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-03-open.html#%EA%B7%B8%EB%A6%BC-90113a101-%ED%8C%8C%EC%9D%BC--%EC%97%B4%EA%B8%B0)
 
 `이미지 열기` 대화상자에서 파일을 탐색할 수 있습니다. 그리고 파일 이름을 클릭해서 파일을 GIMP(김프)에서 엽니다. `이미지 열기` 대화상자에서 미리보기(Preview) 영역이 있기는 하지만, 찾는 이미지를 확인하기에는 편리하지 않습니다.
 
-#### 그림 90.4.38.a101. `이미지 열기` 대화상자 (Windows) (우리말)
-![90-04-38-open_image(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/208d13e1-6dd5-482a-be16-3288a358895d)
+#### [그림 90.4.38.a101. `이미지 열기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a101-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-38-open_image(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/208d13e1-6dd5-482a-be16-3288a358895d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a101-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 [다른 운영체제와 언어의 `이미지 열기` 대화상자 확인하기](./90-04-38-open_image.md)
 
@@ -18,16 +18,19 @@
 
 ## 위치(Places)
 
-GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게 검색할 수 있는 여러 기능들이 추가되었습니다. 가장 중요한 기능은 `위치(Places)`를 추가하는 것입니다. 이것은 자주 사용하는 폴더를 `이미지 열기` 대화상자에 추가하는 기능입니다. 
+GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게 검색할 수 있는 여러 기능들이 추가되었습니다. 가장 중요한 기능은 `위치(Places)`를 등록하는 것입니다. 자주 사용하는 폴더를 `이미지 열기` 대화상자의 `위치(Places)` 목록에 추가할 수 있습니다.
 
 ### 위치(Places) 목록
 사용자의 `위치(Places)` 목록은 `이미지 열기` 대화상자의 왼쪽에 표시됩니다.
 
-#### 그림 90.4.38.a111. `이미지 열기` 대화상자 - 위치(Places) 목록 (Windows) (우리말)
-![90-04-38-open_image(windows)(ko)-focus-place_list](https://github.com/wonder13662/gimp/assets/15767104/9395a68d-1c2a-4fc2-a690-9952a690f276)
+#### [그림 90.4.38.a111. `이미지 열기` 대화상자 - 위치(Places) 목록 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a111-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-38-open_image(windows)(ko)-focus-place_list](https://github.com/wonder13662/gimp/assets/15767104/9395a68d-1c2a-4fc2-a690-9952a690f276)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a111-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-### 위치(Places) 목록의 기본값
+### 위치(Places) 목록의 기본 폴더
 이 목록의 가장 위쪽의 `위치(Places)`(`바탕 화면` 등)은 기본적으로 제공되는 값입니다. 
+
+#### 그림 90.4.38.a112. `이미지 열기` 대화상자 - 위치(Places) 목록의 기본 폴더 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-focus-place_list_default_folders](https://github.com/wonder13662/gimp/assets/15767104/e2b038c2-8142-42c0-86a6-392fe5daf53a)
 
 ### 위치(Places) 목록의 `+` 버튼
 `위치(Places)` 목록의 아래쪽의 `+` 버튼은 파일 목록에서 선택한 폴더를 추가합니다. 
