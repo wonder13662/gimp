@@ -8,7 +8,7 @@
 `이미지 열기` 대화상자에서 파일을 탐색할 수 있습니다. 그리고 파일 이름을 클릭해서 파일을 GIMP(김프)에서 엽니다. `이미지 열기` 대화상자에서 미리보기(Preview) 영역이 있기는 하지만, 찾는 이미지를 확인하기에는 편리하지 않습니다.
 
 #### 그림 90.4.38.a101. `이미지 열기` 대화상자 (Windows) (우리말)
-![90-04-38-open_image(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/09b2470e-543e-4215-9cf7-74b26e7aa0d9)
+![90-04-38-open_image(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b3368ddb-3ac9-4680-8836-2afeed0e05f3)
 
 [다른 운영체제와 언어의 `이미지 열기` 대화상자 확인하기](./90-04-38-open_image.md)
 
