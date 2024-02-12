@@ -58,9 +58,31 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 
 > 🗒️ 참고
 >
-> [원문](https://docs.gimp.org/2.10/ko/gimp-using-fileformats-opening.html)에서는 폴더를 더블 클릭해야 이동하는 것으로 설명하고 있습니다. 하지만 가이드에서 설명하는 Windows와 Mac 환경에서는 클릭만으로 이동합니다.
+> [원문](https://docs.gimp.org/2.10/ko/gimp-using-fileformats-opening.html)에서는 폴더를 더블 클릭해야 이동하는 것으로 설명하고 있습니다. 하지만 가이드에서 설명하는 `Windows`와 `Mac` 환경에서는 클릭만으로 이동합니다.
 
-The center of the dialog contains a listing of the contents of the selected directory. Subdirectories are shown at the top of the list, files below them. By default, all files in the directory are listed, but you can restrict the listing to image files of a specific type using the File Type selection menu that appears beneath the directory listing.
+## 콘텐츠 목록
+`이미지 열기` 대화상자의 가운데에는 선택된 폴더(디렉토리)의 콘텐츠 목록이 있습니다.
+
+#### 그림 90.4.38.a121. `이미지 열기` 대화상자 - 콘텐츠 목록 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-focus-content_list](https://github.com/wonder13662/gimp/assets/15767104/d2fa06b0-52b7-4b39-a993-ffa4232b5ba9)
+
+### 콘텐츠 목록의 하위 폴더(디렉토리)
+하위 폴더(디렉토리)는 목록의 위쪽에 보여줍니다.
+
+#### 그림 90.4.38.a122. `이미지 열기` 대화상자 - 콘텐츠 목록의 하위 폴더(디렉토리) (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-focus-content_list-subdirectory](https://github.com/wonder13662/gimp/assets/15767104/da0dcebb-81fc-4668-ab6a-05ee7ab4d4ba)
+
+### 콘텐츠 목록의 파일
+파일은 하위 폴더(디렉토리)의 아래쪽에 있습니다.
+
+#### 그림 90.4.38.a123. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-focus-content_list-image_file](https://github.com/wonder13662/gimp/assets/15767104/36aa5cf7-6627-48d7-b49f-c383298b7261)
+
+### 콘텐츠 목록의 파일 유형 제한
+기본값으로 폴더(디렉토리)의 모든 파일을 보여줍니다. 하지만 특정 유형의 이미지 파일만 보여지도록 제한할 수 있습니다. 보여지는 파일 유형을 제한하려면, 대화상자의 콘텐츠 목록의 아래의 `파일 유형 선택`에서 보여질 파일 유형을 선택할 수 있습니다.
+
+#### 그림 90.4.38.a124. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-focus-file_type](https://github.com/wonder13662/gimp/assets/15767104/c58708b1-dbd0-4647-b849-5308410438b2)
 
 ## 하위 페이지
 [5.3.1.1. PDF 불러오기](./05-03-01-open-filex-01-import_from_pdf.md)

@@ -49,6 +49,26 @@
 
 [5.3.1. 파일 열기 - 영상 90.4.38.a117. `이미지 열기` 대화상자 - 폴더 제거하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-file.html#%EC%98%81%EC%83%81-90438a117-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8F%B4%EB%8D%94-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+#### 그림 90.4.38.a121. `이미지 열기` 대화상자 - 콘텐츠 목록 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-focus-content_list](https://github.com/wonder13662/gimp/assets/15767104/d2fa06b0-52b7-4b39-a993-ffa4232b5ba9)
+
+[5.3.1. 파일 열기 - 그림 90.4.38.a121. `이미지 열기` 대화상자 - 콘텐츠 목록 (Windows) (우리말)]()
+
+#### 그림 90.4.38.a122. `이미지 열기` 대화상자 - 콘텐츠 목록의 하위 폴더(디렉토리) (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-focus-content_list-subdirectory](https://github.com/wonder13662/gimp/assets/15767104/da0dcebb-81fc-4668-ab6a-05ee7ab4d4ba)
+
+[5.3.1. 파일 열기 - 그림 90.4.38.a122. `이미지 열기` 대화상자 - 콘텐츠 목록의 하위 폴더(디렉토리) (Windows) (우리말)]()
+
+#### 그림 90.4.38.a123. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-focus-content_list-image_file](https://github.com/wonder13662/gimp/assets/15767104/36aa5cf7-6627-48d7-b49f-c383298b7261)
+
+[5.3.1. 파일 열기 - 그림 90.4.38.a123. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 (Windows) (우리말)]()
+
+#### 그림 90.4.38.a124. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-focus-file_type](https://github.com/wonder13662/gimp/assets/15767104/c58708b1-dbd0-4647-b849-5308410438b2)
+
+[5.3.1. 파일 열기 - 그림 90.4.38.a124. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 (Windows) (우리말)]()
+
 ***
 
 ## 다른 페이지로 가기
