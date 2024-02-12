@@ -89,6 +89,18 @@
 
 [5.3.1. 파일 열기 - 영상 90.4.38.a133. `이미지 열기` 대화상자 - 미리보기(Preview)의 수동 캐시 해제 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-file.html#%EC%98%81%EC%83%81-90438a133-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0preview%EC%9D%98-%EC%88%98%EB%8F%99-%EC%BA%90%EC%8B%9C-%ED%95%B4%EC%A0%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+#### 그림 90.4.38.a141. `이미지 열기` 대화상자 - 위치 입력창 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-location-focus-locatoin_text_box](https://github.com/wonder13662/gimp/assets/15767104/48cfaeaa-15aa-494e-afbe-635402e0ade6)
+
+#### 영상 90.4.38.a142. `이미지 열기` 대화상자 - 단축키로 위치 입력창 열기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3e62d548-d9f0-4065-be61-4902f17bcc23"></video>
+
+#### 그림 90.4.38.a143. `이미지 열기` 대화상자 - 종이와 연필 아이콘 (우리말)
+![90-04-38-open_image(windows)(ko)-location-paper_n_pencil_icon](https://github.com/wonder13662/gimp/assets/15767104/7145e76c-7546-425a-ad8a-0ae7302168df)
+
+#### 영상 90.4.38.a144. `이미지 열기` 대화상자 - 종이와 연필 아이콘 버튼으로 위치 입력창 열기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1af03cff-f32b-4a45-b866-eaebf1efe82e"></video>
+
 ***
 
 ## 다른 페이지로 가기
