@@ -74,6 +74,9 @@
 
 [5.3.1. 파일 열기 - 영상 90.4.38.a125. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 설정하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-file.html#%EC%98%81%EC%83%81-90438a125-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%9C%A0%ED%98%95-%EC%A0%9C%ED%95%9C-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+#### 그림 90.4.38.a131. `이미지 열기` 대화상자 - 미리보기(Preview) (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-focus-preview](https://github.com/wonder13662/gimp/assets/15767104/d92741cb-065f-47b0-b18a-e67b3ee01192)
+
 ***
 
 ## 다른 페이지로 가기
