@@ -38,7 +38,7 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 #### [그림 90.4.38.a113. `이미지 열기` 대화상자 - 위치(Places) 목록의 `+` 버튼 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a113-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98--%EB%B2%84%ED%8A%BC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-38-open_image(windows)(ko)-focus-place_list-btn_add](https://github.com/wonder13662/gimp/assets/15767104/bada7425-8039-46d7-ace5-e85d466dccc4)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a113-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98--%EB%B2%84%ED%8A%BC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-#### 영상 90.4.38.a116. `이미지 열기` 대화상자 - 폴더 추가하기 (Windows) (우리말)
+#### [영상 90.4.38.a116. `이미지 열기` 대화상자 - 폴더 추가하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a116-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8F%B4%EB%8D%94-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8c68793e-8495-406d-86f0-71860f5a8741"></video>
 
 ### 위치(Places) 목록의 `-` 버튼
@@ -47,7 +47,7 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 #### [그림 90.4.38.a114. `이미지 열기` 대화상자 - 위치(Places) 목록의 `-` 버튼 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a114-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98---%EB%B2%84%ED%8A%BC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-38-open_image(windows)(ko)-focus-place_list-btn_remove](https://github.com/wonder13662/gimp/assets/15767104/2c0fea1e-4006-42b0-9faa-0f12c7594ce2)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a114-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98---%EB%B2%84%ED%8A%BC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-#### 영상 90.4.38.a117. `이미지 열기` 대화상자 - 폴더 제거하기 (Windows) (우리말)
+#### [영상 90.4.38.a117. `이미지 열기` 대화상자 - 폴더 제거하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a117-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8F%B4%EB%8D%94-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/336620da-9ae1-4d7e-a102-5199c0449001"></video>
 
 ### 위치(Places) 목록의 폴더 클릭
@@ -59,6 +59,8 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 > 🗒️ 참고
 >
 > [원문](https://docs.gimp.org/2.10/ko/gimp-using-fileformats-opening.html)에서는 폴더를 더블 클릭해야 이동하는 것으로 설명하고 있습니다. 하지만 가이드에서 설명하는 Windows와 Mac 환경에서는 클릭만으로 이동합니다.
+
+The center of the dialog contains a listing of the contents of the selected directory. Subdirectories are shown at the top of the list, files below them. By default, all files in the directory are listed, but you can restrict the listing to image files of a specific type using the File Type selection menu that appears beneath the directory listing.
 
 ## 하위 페이지
 [5.3.1.1. PDF 불러오기](./05-03-01-open-filex-01-import_from_pdf.md)
