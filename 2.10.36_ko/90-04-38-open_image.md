@@ -37,7 +37,7 @@
 #### 영상 90.4.38.a115. `이미지 열기` 대화상자 - 위치(Places) 목록의 폴더를 클릭 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c792bbc8-26cc-49a7-b2de-6c66008ec909"></video>
 
-[5.3.1. 파일 열기 - 영상 90.4.38.a115. `이미지 열기` 대화상자 - 위치(Places) 목록의 폴더를 클릭 (Windows) (우리말)]()
+[5.3.1. 파일 열기 - 영상 90.4.38.a115. `이미지 열기` 대화상자 - 위치(Places) 목록의 폴더를 클릭 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-file.html#%EC%98%81%EC%83%81-90438a115-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%8F%B4%EB%8D%94%EB%A5%BC-%ED%81%B4%EB%A6%AD-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 영상 90.4.38.a116. `이미지 열기` 대화상자 - 폴더 추가하기 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8c68793e-8495-406d-86f0-71860f5a8741"></video>
