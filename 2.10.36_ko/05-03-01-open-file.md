@@ -44,8 +44,15 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 #### [그림 90.4.38.a114. `이미지 열기` 대화상자 - 위치(Places) 목록의 `-` 버튼 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a114-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98---%EB%B2%84%ED%8A%BC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-38-open_image(windows)(ko)-focus-place_list-btn_remove](https://github.com/wonder13662/gimp/assets/15767104/2c0fea1e-4006-42b0-9faa-0f12c7594ce2)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a114-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98---%EB%B2%84%ED%8A%BC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-### 위치(Places) 목록의 폴더 더블 클릭
-`위치(Places)` 목록의 폴더를 더블 클릭하면 파일 목록이 해당 폴더로 바로 이동합니다.
+### 위치(Places) 목록의 폴더 클릭
+`위치(Places)` 목록의 폴더를 클릭하면 파일 목록이 해당 폴더로 바로 이동합니다.
+
+#### 그림 90.4.38.a115. `이미지 열기` 대화상자 - 위치(Places) 목록의 폴더 더블 클릭 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c792bbc8-26cc-49a7-b2de-6c66008ec909"></video>
+
+> 🗒️ 참고
+>
+> [원문](https://docs.gimp.org/2.10/ko/gimp-using-fileformats-opening.html)에서는 폴더를 더블 클릭해야 이동하는 것으로 설명하고 있습니다. 하지만 가이드에서 설명하는 Windows와 Mac 환경에서는 클릭만으로 이동합니다.
 
 ## 하위 페이지
 [5.3.1.1. PDF 불러오기](./05-03-01-open-filex-01-import_from_pdf.md)
