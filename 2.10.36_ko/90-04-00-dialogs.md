@@ -222,6 +222,12 @@
 ### [90.4.38. 이미지 열기(Create a New Image)](./90-04-38-open_image.md)
 (TODO 이미지 추가 필요)
 
+### [90.4.39. 포스트스크립트 가져오기(Import from PostScript)](./90-04-39-import_from_postscript.md)
+(TODO 이미지 추가 필요)
+
+### [90.4.40. PDF 가져오기(Import from PDF)](./90-04-40-import_from_pdf.md)
+(TODO 이미지 추가 필요)
+
 ***
 
 ## 기능이 쓰인 곳

@@ -122,7 +122,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.39. 포스트스크립트 가져오기(Import from PostScript)](./90-04-39-import_from_postscript.md)
 
 [⬅️ 이전: 90.4.37. 새 이미지 만들기(Create a New Image)](./90-04-37-create_a_new_image.md)
 
