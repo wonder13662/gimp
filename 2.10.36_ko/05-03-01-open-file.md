@@ -92,20 +92,20 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 ## 미리보기(Preview)
 콘텐츠 목록의 이미지 파일을 선택하면, 이미지의 기본 정보와 함께 미리보기가 `이미지 열기` 대화상자의 오른쪽에 나타납니다.
 
-#### 그림 90.4.38.a131. `이미지 열기` 대화상자 - 미리보기(Preview) (Windows) (우리말)
-![90-04-38-open_image(windows)(ko)-focus-preview](https://github.com/wonder13662/gimp/assets/15767104/d92741cb-065f-47b0-b18a-e67b3ee01192)
+#### [그림 90.4.38.a131. `이미지 열기` 대화상자 - 미리보기(Preview) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a131-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0preview-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-38-open_image(windows)(ko)-focus-preview](https://github.com/wonder13662/gimp/assets/15767104/d92741cb-065f-47b0-b18a-e67b3ee01192)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a131-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0preview-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ### 미리보기 캐시 해제
 미리보기는 만들어지면서 캐싱되는 점에 주의하세요. 미리보기는 캐싱되었기 때문에 이미지의 최신 상태를 보여주지 못할 수도 있습니다. 미리보기가 이미지의 최신 상태를 보여주지 않는다고 생각된다면, Ctrl(Windows) 또는 ⌘(Mac)을 누른 채로 키를 누른 상태로 미리보기 영역을 클릭하세요. 미리보기의 캐시가 해제되고 새로운 미리보기 이미지를 강제로 만들수 있습니다.
 
 아래 예시 이미지(`자동 캐시 해제`)에서 GIMP(김프) 자체적으로 이미지의 상태를 검사하여, 미리보기를 자동으로 업데이트하는 경우를 확인할 수 있습니다.
 
-#### 영상 90.4.38.a132. `이미지 열기` 대화상자 - 미리보기(Preview)의 자동 캐시 해제 (Windows) (우리말)
+#### [영상 90.4.38.a132. `이미지 열기` 대화상자 - 미리보기(Preview)의 자동 캐시 해제 ](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a132-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0preview%EC%9D%98-%EC%9E%90%EB%8F%99-%EC%BA%90%EC%8B%9C-%ED%95%B4%EC%A0%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)(Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4a1a94b6-99e7-42c9-95db-a4d031676ef3"></video>
 
 시스템의 상황에 따라 미리보기의 자동 업데이트가 지연되거나 이루어지지 않는 경우가 있습니다. 이럴 때는 위의 설명대로 직접 Ctrl(Windows) 또는 ⌘(Mac) + 클릭으로 강제로 미리보기 업데이트를 진행하면 최신의 미리보기를 볼 수 있습니다.
 
-#### 영상 90.4.38.a133. `이미지 열기` 대화상자 - 미리보기(Preview)의 수동 캐시 해제 (Windows) (우리말)
+#### [영상 90.4.38.a133. `이미지 열기` 대화상자 - 미리보기(Preview)의 수동 캐시 해제](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a133-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0preview%EC%9D%98-%EC%88%98%EB%8F%99-%EC%BA%90%EC%8B%9C-%ED%95%B4%EC%A0%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)(Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ff987087-ee28-45f0-a630-52ca3a7987dd"></video>
 
 ## 하위 페이지
