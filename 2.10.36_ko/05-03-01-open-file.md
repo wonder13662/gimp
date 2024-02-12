@@ -111,24 +111,24 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 ## 위치 입력창(Location text box)
 위치 입력창(Location text box)은 기본값으로 `이미지 열기` 대화상자에 표시됩니다. 위치 입력창에 이미지 파일의 경로를 직접 입력해서 이미지를 열 수 있습니다.
 
-#### 그림 90.4.38.a141. `이미지 열기` 대화상자 - 위치 입력창 (Windows) (우리말)
-![90-04-38-open_image(windows)(ko)-location-focus-locatoin_text_box](https://github.com/wonder13662/gimp/assets/15767104/48cfaeaa-15aa-494e-afbe-635402e0ade6)
+#### [그림 90.4.38.a141. `이미지 열기` 대화상자 - 위치 입력창 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a141-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98-%EC%9E%85%EB%A0%A5%EC%B0%BD-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-38-open_image(windows)(ko)-location-focus-locatoin_text_box](https://github.com/wonder13662/gimp/assets/15767104/48cfaeaa-15aa-494e-afbe-635402e0ade6)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a141-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98-%EC%9E%85%EB%A0%A5%EC%B0%BD-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-## 위치 입력창 단축키
+### 위치 입력창 단축키
 위치 입력창이 표시되지 않을 수도 있는데요, 이런 경우에는 `Ctrl + L`(Windows, Mac 동일)를 눌러서 위치 입력창을 표시하거나 하지 않는 토글을 할 수 있습니다. 아래 동영상에서 단축키로 위치 입력창을 열고, 이미지 경로를 직접 입력해서 이미지를 여는 과정을 확인할 수 있습니다.
 
-#### 영상 90.4.38.a142. `이미지 열기` 대화상자 - 단축키로 위치 입력창 열기 (Windows) (우리말)
+#### [영상 90.4.38.a142. `이미지 열기` 대화상자 - 단축키로 위치 입력창 열기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a142-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%8B%A8%EC%B6%95%ED%82%A4%EB%A1%9C-%EC%9C%84%EC%B9%98-%EC%9E%85%EB%A0%A5%EC%B0%BD-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3e62d548-d9f0-4065-be61-4902f17bcc23"></video>
 
-## 위치 입력창 버튼
+### 위치 입력창 버튼
 또 다른 방법으로, "종이와 연필 아이콘"을 눌러 위치 입력창을 표시하거나 하지 않는 토글을 할 수 있습니다. "종이와 연필 아이콘"은 `이미지 열기` 대화상자의 위쪽의 왼편에 있습니다.
 
-#### 그림 90.4.38.a143. `이미지 열기` 대화상자 - 종이와 연필 아이콘 (우리말)
-![90-04-38-open_image(windows)(ko)-location-paper_n_pencil_icon](https://github.com/wonder13662/gimp/assets/15767104/7145e76c-7546-425a-ad8a-0ae7302168df)
+#### [그림 90.4.38.a143. `이미지 열기` 대화상자 - 종이와 연필 아이콘 (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a143-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%A2%85%EC%9D%B4%EC%99%80-%EC%97%B0%ED%95%84-%EC%95%84%EC%9D%B4%EC%BD%98-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-38-open_image(windows)(ko)-location-paper_n_pencil_icon](https://github.com/wonder13662/gimp/assets/15767104/7145e76c-7546-425a-ad8a-0ae7302168df)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a143-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%A2%85%EC%9D%B4%EC%99%80-%EC%97%B0%ED%95%84-%EC%95%84%EC%9D%B4%EC%BD%98-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 아래 동영상에서 "종이와 연필 아이콘"을 눌러 위치 입력창을 열고, 이미지 경로를 직접 입력하여 이미지를 여는 과정을 확인할 수 있습니다.
 
-#### 영상 90.4.38.a144. `이미지 열기` 대화상자 - 종이와 연필 아이콘 버튼으로 위치 입력창 열기 (Windows) (우리말)
+#### [영상 90.4.38.a144. `이미지 열기` 대화상자 - 종이와 연필 아이콘 버튼으로 위치 입력창 열기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a144-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%A2%85%EC%9D%B4%EC%99%80-%EC%97%B0%ED%95%84-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%B2%84%ED%8A%BC%EC%9C%BC%EB%A1%9C-%EC%9C%84%EC%B9%98-%EC%9E%85%EB%A0%A5%EC%B0%BD-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1af03cff-f32b-4a45-b866-eaebf1efe82e"></video>
 
 ## 하위 페이지
