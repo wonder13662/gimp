@@ -112,12 +112,12 @@
 #### 그림 90.4.38.a151. `이미지 열기` 대화상자 - 폴더 계층 (Windows) (우리말)
 ![90-04-38-open_image(windows)(ko)-folder_hierarchy-focus-folder_hierarchy](https://github.com/wonder13662/gimp/assets/15767104/8d722a80-c3dd-4d2f-ad08-1d1083f17df1)
 
-[5.3.1. 파일 열기 - 그림 90.4.38.a151]()
+[5.3.1. 파일 열기 - 그림 90.4.38.a151](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-file.html#%EA%B7%B8%EB%A6%BC-90438a151-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8F%B4%EB%8D%94-%EA%B3%84%EC%B8%B5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 영상 90.4.38.a152. `이미지 열기` 대화상자 - 폴더 계층에서 다른 계층의 폴더로 이동하기 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5381f2bb-1ac3-488e-93b5-ea9bd441400d"></video>
 
-[5.3.1. 파일 열기 - 영상 90.4.38.a152]()
+[5.3.1. 파일 열기 - 영상 90.4.38.a152](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-file.html#%EC%98%81%EC%83%81-90438a152-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8F%B4%EB%8D%94-%EA%B3%84%EC%B8%B5%EC%97%90%EC%84%9C-%EB%8B%A4%EB%A5%B8-%EA%B3%84%EC%B8%B5%EC%9D%98-%ED%8F%B4%EB%8D%94%EB%A1%9C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 
