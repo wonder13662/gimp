@@ -88,8 +88,7 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 
 #### [영상 90.4.38.a125. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 설정하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a125-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%9C%A0%ED%98%95-%EC%A0%9C%ED%95%9C-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0ecf2554-c3cc-4949-9ece-70d688a0834a"></video>
-
-
+<br/>
 > 🗒️ 참고
 > `이미지 열기` 대화상자의 콘텐츠 목록에서 이미지 파일을 선택하고 대화상자 아래쪽 오른편의 `열기(Open)` 버튼을 누르면, 거의 대부분은 GIMP(김프)에서 파일 유형(File Type)을 자동으로 선택합니다. 매우 드문 경우지만, 파일 유형이 일반적이지 않거나, 확장자가 빠져있는 경우, GIMP(김프)에서 파일 유형을 파악하지 못할 수 있습니다. 이런 경우에는 필요하다면 대화 상자 아래쪽에 있는 `파일 유형 선택(Select File Type)`을 사용해서 파일 유형을 직접 선택할 수 있습니다. 만약 GIMP(김프)가 이미지 파일을 여는 데 실패한다면, 이미지 파일이 손상되었거나 지원하지 않은 파일 유형일 수 있습니다.
 
