@@ -84,6 +84,8 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 #### [그림 90.4.38.a124. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a124-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%9C%A0%ED%98%95-%EC%A0%9C%ED%95%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-38-open_image(windows)(ko)-focus-file_type](https://github.com/wonder13662/gimp/assets/15767104/c58708b1-dbd0-4647-b849-5308410438b2)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a124-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%9C%A0%ED%98%95-%EC%A0%9C%ED%95%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+아래 예시 영상에서는 `파일 유형 선택`에서 파일 유형을 `jpg`로 제한해서, `xcf` 유형 파일이 목록에서 사라지는 모습을 볼 수 있습니다.
+
 #### [영상 90.4.38.a125. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 설정하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a125-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%9C%A0%ED%98%95-%EC%A0%9C%ED%95%9C-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1ef4bc6f-c171-40ee-b358-4843701cf87a"></video>
 
