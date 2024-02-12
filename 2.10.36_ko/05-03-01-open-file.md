@@ -131,6 +131,18 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 #### [영상 90.4.38.a144. `이미지 열기` 대화상자 - 종이와 연필 아이콘 버튼으로 위치 입력창 열기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a144-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%A2%85%EC%9D%B4%EC%99%80-%EC%97%B0%ED%95%84-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%B2%84%ED%8A%BC%EC%9C%BC%EB%A1%9C-%EC%9C%84%EC%B9%98-%EC%9E%85%EB%A0%A5%EC%B0%BD-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1af03cff-f32b-4a45-b866-eaebf1efe82e"></video>
 
+## 폴더(디렉토리) 이동하기
+"종이와 연필 아이콘" 버튼의 오른쪽의 폴더 계층(hierarchy)을 이용해서 상위(부모) 폴더로 이동할 수 있습니다.
+
+#### 그림 90.4.38.a151. `이미지 열기` 대화상자 - 폴더 계층 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-folder_hierarchy-focus-folder_hierarchy](https://github.com/wonder13662/gimp/assets/15767104/8d722a80-c3dd-4d2f-ad08-1d1083f17df1)
+
+#### 영상 90.4.38.a152. `이미지 열기` 대화상자 - 폴더 계층에서 다른 계층의 폴더로 이동하기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5381f2bb-1ac3-488e-93b5-ea9bd441400d"></video>
+
+> 🗒️ 참고
+> `이미지 열기` 대화상자의 콘텐츠 목록에서 이미지 파일을 선택하고 대화상자 아래쪽 오른편의 `열기(Open)` 버튼을 누르면, 거의 대부분은 GIMP(김프)에서 파일 유형(File Type)을 자동으로 선택합니다. 매우 드문 경우지만, 파일 유형이 일반적이지 않거나, 확장자가 빠져있는 경우, GIMP(김프)에서 파일 유형을 파악하지 못할 수 있습니다. 이런 경우에는 필요하다면 대화 상자 아래쪽에 있는 `파일 유형 선택(Select File Type)`을 사용해서 파일 유형을 직접 선택할 수 있습니다. 만약 GIMP(김프)가 이미지 파일을 여는 데 실패한다면, 이미지 파일이 손상되었거나 지원하지 않은 파일 유형일 수 있습니다.
+
 ## 하위 페이지
 [5.3.1.1. PDF 불러오기](./05-03-01-open-filex-01-import_from_pdf.md)
 
