@@ -84,6 +84,9 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 #### 그림 90.4.38.a124. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 (Windows) (우리말)
 ![90-04-38-open_image(windows)(ko)-focus-file_type](https://github.com/wonder13662/gimp/assets/15767104/c58708b1-dbd0-4647-b849-5308410438b2)
 
+#### 영상 90.4.38.a125. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 설정하기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1ef4bc6f-c171-40ee-b358-4843701cf87a"></video>
+
 ## 하위 페이지
 [5.3.1.1. PDF 불러오기](./05-03-01-open-filex-01-import_from_pdf.md)
 
