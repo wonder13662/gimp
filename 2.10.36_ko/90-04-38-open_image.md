@@ -70,7 +70,7 @@
 [5.3.1. 파일 열기 - 그림 90.4.38.a124](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-file.html#%EA%B7%B8%EB%A6%BC-90438a124-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%9C%A0%ED%98%95-%EC%A0%9C%ED%95%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 영상 90.4.38.a125. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 설정하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1ef4bc6f-c171-40ee-b358-4843701cf87a"></video>
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0ecf2554-c3cc-4949-9ece-70d688a0834a"></video>
 
 [5.3.1. 파일 열기 - 영상 90.4.38.a125](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-file.html#%EC%98%81%EC%83%81-90438a125-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%9C%A0%ED%98%95-%EC%A0%9C%ED%95%9C-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
