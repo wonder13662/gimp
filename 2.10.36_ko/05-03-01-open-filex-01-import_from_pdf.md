@@ -1,4 +1,32 @@
 # 5.3.1.1. PDF 불러오기
+`이미지 열기` 대화상자에서 PDF 파일을 열면, 추가적인 대화상자가 뜹니다. 이 대화상자에는 PDF 파일 유형에 관련된 선택사항들이 있습니다.
+
+#### 그림 90.4.40.a101. `PDF 가져오기` 대화상자 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-extra_dialog-pdf](https://github.com/wonder13662/gimp/assets/15767104/43a4c258-15c8-4070-806a-538078b8fd23)
+
+[다른 운영체제와 언어의 `PDF 가져오기` 대화상자 확인하기](./90-04-40-import_from_pdf.md)
+
+아래 영상에서 PDF 파일을 여는 과정에서 `PDF 가져오기` 대화상자가 추가적으로 열리는 모습을 확인할 수 있습니다.
+
+#### 영상 90.4.40.a105. `PDF 가져오기` 대화상자 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5fb81830-f54c-4cb4-a143-9b151997452e"></video>
+
+## 선택된 페이지(Page Selection)
+`PDF 가져오기` 대화상자의 `선택된 페이지` 영역의 `범위 선택`의 입력창에 하나 이상의 페이지 번호 또는 범위를 입력할 수 있습니다. 각 페이지는 콤마(`,`)로 구분합니다.
+
+#### 그림 90.4.40.a111. `PDF 가져오기` 대화상자 - `선택된 페이지` (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-extra_dialog-pdf-page_selection-focus-page_selection](https://github.com/wonder13662/gimp/assets/15767104/34245ea5-a837-4026-b577-4d89469aa08c)
+
+예를 들어서, 4-7, 9를 입력한다면, PDF 이미지의 4,5,6,7 페이지와 9 페이지가 선택됩니다. 기본값으로 두면 PDF 이미지의 모든 페이지가 선택됩니다. 아래 영상에서 위 예시에서 말한 페이지 선택 과정을 확인할 수 있습니다.
+
+#### 영상 90.4.40.a112. `PDF 가져오기` 대화상자 - `선택된 페이지`의 `범위 선택`으로 페이지 선택하기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b353e1e-80e1-475f-8d24-4a1df1b17a93"></video>
+
+## 페이지 열기(Open pages as)
+
+## 이미지 크기(Image size)
+
+## 안티-앨리어싱 사용(Use Anti-Aliasing)
 
 ## 다른 페이지로 가기
 
