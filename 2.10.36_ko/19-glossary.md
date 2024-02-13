@@ -1,4 +1,4 @@
-# 19. Glossary
+# 19. 용어집(Glossary)
 
 ### [Home](./00-home.md)
 ### [Prev: 18. Keys and Mouse Reference](./18-00-keys-and-mouse-reference.md)
