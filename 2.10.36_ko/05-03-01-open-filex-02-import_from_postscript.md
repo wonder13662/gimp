@@ -46,8 +46,8 @@
 ## 안티-앨리어싱(Anti-Aliasing)
 포스트스크립트 이미지의 텍스트와 그래픽에 각각 [안티-앨리어싱(Anti-Aliasing)](./19-glossaryx-Anti-Aliasing.md)을 적용할 수 있습니다. `약함`과 `강함` 둘 중 하나를 선택할 수 있습니다.
 
-#### 그림 90.4.39.a141. `포스트스크립트 가져오기` 대화상자 - 안티-앨리어싱 (Windows) (우리말)
-![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-anti_aliasing](https://github.com/wonder13662/gimp/assets/15767104/67e7bfb0-68a2-4f21-9c68-b7ace8182660)
+#### [그림 90.4.39.a141. `포스트스크립트 가져오기` 대화상자 - 안티-앨리어싱 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-39-import_from_postscript.html#%EA%B7%B8%EB%A6%BC-90439a141-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%95%88%ED%8B%B0-%EC%95%A8%EB%A6%AC%EC%96%B4%EC%8B%B1-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-anti_aliasing](https://github.com/wonder13662/gimp/assets/15767104/67e7bfb0-68a2-4f21-9c68-b7ace8182660)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-39-import_from_postscript.html#%EA%B7%B8%EB%A6%BC-90439a141-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%95%88%ED%8B%B0-%EC%95%A8%EB%A6%AC%EC%96%B4%EC%8B%B1-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 (TODO 원문의 Page selection, Open pages as 항목이 대화상자에는 없습니다. 관련 내용 제보가 필요합니다.)
 
