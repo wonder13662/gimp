@@ -38,6 +38,10 @@
 [![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-coloring_automatic](https://github.com/wonder13662/gimp/assets/15767104/b358edbf-e82f-40aa-b060-94358c3423ee)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-39-import_from_postscript.html#%EA%B7%B8%EB%A6%BC-90439a124-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81%ED%99%94---%EC%9E%90%EB%8F%99-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ## 경계 상자 시도(Try Bounding Box)
+`경계 상자 시도` 체크박스가 체크되어 있으면, GIMP(김프)는 포스트스크립트의 경계 상자 정보를 사용합니다. 경계 상자 정보는 페이지의 얼마만큼의 영역을 사용할 것인지 결정합니다. 이미지의 경계로부터 여백을 잘라내는 것과 같은 효과가 있습니다. 포스트스크립트에 경계 상자 정보가 없다면, `경계 상자 시도` 체크박스의 역할은 무시됩니다.
+
+#### 그림 90.4.39.a131. `포스트스크립트 가져오기` 대화상자 - 경계 상자 시도 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-try_bounding_box](https://github.com/wonder13662/gimp/assets/15767104/12023097-dfc8-4b5a-8ad0-899e3323429e)
 
 ## Antialasing
 
