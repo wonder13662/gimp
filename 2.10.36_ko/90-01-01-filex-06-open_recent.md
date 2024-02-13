@@ -1,10 +1,24 @@
 # 90.1.1.6. 최근 연 파일(Open Recent)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.1.1.2.a1. 이미지 메뉴 바 - 파일 - 최근 연 파일 (Windows)
-<img width="1080" alt="그림 90.1.1.2.a1. 이미지 메뉴 바 - 파일 - 최근 연 파일 (Windows)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2c55c239-796a-429a-88f4-420f4056d189">
 
-#### 그림 90.1.1.2.a2. 이미지 메뉴 바 - 파일 - 최근 연 파일 (Mac)
-<img width="1080" alt="그림 90.1.1.2.a2. 이미지 메뉴 바 - 파일 - 최근 연 파일 (Mac)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5dfac9e7-af6a-41df-ba23-851a03548025">
+#### 그림 90.1.1.6.a101. `파일` → `최근 연 파일` (Windows) (우리말)
+![90-01-01-filex-02-open_recent(우리말)(windows)](https://github.com/wonder13662/gimp/assets/15767104/8b3469cd-433a-4fe9-924a-11ca476febb8)
+
+[5.3.3. 최근 연 파일 - 그림 90.1.1.6.a101]()
+
+#### 그림 90.1.1.6.a102. `파일` → `최근 연 파일` (Windows) (영어)
+![90-01-01-filex-02-open_recent(영어)(windows)](https://github.com/wonder13662/gimp/assets/15767104/02097da3-a7a4-4041-aef2-7f6fe3af9201)
+
+#### 그림 90.1.1.6.a103. `파일` → `최근 연 파일` (Mac) (우리말)
+![90-01-01-filex-02-open_recent(우리말)(mac)(720)](https://github.com/wonder13662/gimp/assets/15767104/2923cc3b-0348-4ddc-9346-ab22cbb957c3)
+
+#### 그림 90.1.1.6.a104. `파일` → `최근 연 파일` (Mac) (영어)
+![90-01-01-filex-02-open_recent(영어)(mac)(720)](https://github.com/wonder13662/gimp/assets/15767104/ef9580a2-adc8-40d5-b9e2-11e1db045405)
+
+#### 영상 90.1.1.6.a105. `파일` → `최근 연 파일`에서 파일을 여는 과정 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5510afcd-1d8d-46df-b2d9-3f9369597e15"></video>
+
+[5.3.3. 최근 연 파일 - 영상 90.1.1.6.a105]()
 
 ***
 

@@ -18,7 +18,7 @@
 
 [5.3.2. 위치 열기](./05-03-02-open-location.md)
 
-[5.3.3. 최근 파일 열기](./05-03-03-open-recent.md)
+[5.3.3. 최근 연 파일](./05-03-03-open-recent.md)
 
 [5.3.4. 외부 프로그램 사용하기](./05-03-04-using-external-programs.md)
 
