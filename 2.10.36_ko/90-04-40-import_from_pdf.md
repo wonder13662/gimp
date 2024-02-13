@@ -47,7 +47,7 @@
 #### 그림 90.4.40.a131. `PDF 가져오기` 대화상자 - `이미지 크기` (Windows) (우리말)
 ![90-04-38-open_image(windows)(ko)-extra_dialog-pdf-page_selection-focus-image_size](https://github.com/wonder13662/gimp/assets/15767104/e59a2488-e764-41ca-907f-20582502fbc1)
 
-[5.3.1.1. PDF 불러오기 - 그림 90.4.40.a131]()
+[5.3.1.1. PDF 불러오기 - 그림 90.4.40.a131](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-filex-01-import_from_pdf.html#%EA%B7%B8%EB%A6%BC-90440a131-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%81%AC%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 

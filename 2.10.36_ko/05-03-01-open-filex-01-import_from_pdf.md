@@ -43,8 +43,8 @@ PDF 이미지의 페이지들을 별개의 이미지 또는 레이어로 선택�
 ## 이미지 크기(Image size)
 이미지의 크기를 너비(width), 높이(height) 그리고 해상도(resolution) 설정으로 제어할 수 있습니다. PDF 문서는 물리적인 길이의 단위로 너비와 높이에 대한 정보를 갖고 있습니다. 그러므로 1 픽셀당 물리적인 길이의 단위가 너비, 높이, 해상도에 영향을 줍니다. 너비, 높이, 해상도 중 하나라도 바꾼다면, 나머지 값들이 자동으로 바뀐 값에 맞게 조정됩니다.
 
-#### 그림 90.4.40.a131. `PDF 가져오기` 대화상자 - `이미지 크기` (Windows) (우리말)
-![90-04-38-open_image(windows)(ko)-extra_dialog-pdf-page_selection-focus-image_size](https://github.com/wonder13662/gimp/assets/15767104/e59a2488-e764-41ca-907f-20582502fbc1)
+#### [그림 90.4.40.a131. `PDF 가져오기` 대화상자 - `이미지 크기` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-40-import_from_pdf.html#%EA%B7%B8%EB%A6%BC-90440a131-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%81%AC%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-38-open_image(windows)(ko)-extra_dialog-pdf-page_selection-focus-image_size](https://github.com/wonder13662/gimp/assets/15767104/e59a2488-e764-41ca-907f-20582502fbc1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-40-import_from_pdf.html#%EA%B7%B8%EB%A6%BC-90440a131-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%81%AC%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ## 안티-앨리어싱 사용(Use Anti-Aliasing)
 
