@@ -16,26 +16,26 @@
 ### 검정/흰색(B/W)
 검정과 흰색으로 2가지 색상의 인덱스 이미지로 만듭니다. [5.1. 이미지 타입 - 인덱스(indexed)](https://wonder13662.github.io/gimp/2.10.36_ko/05-01-image-types.html#%EC%9D%B8%EB%8D%B1%EC%8A%A4indexed)에서 상세한 설명을 확인할 수 있습니다.
 
-#### 그림 90.4.39.a121. `포스트스크립트 가져오기` 대화상자 - 색상화 - 검정/흰색 (Windows) (우리말)
-![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-coloring_bw](https://github.com/wonder13662/gimp/assets/15767104/0f22a599-7bf5-4618-8f10-b22f07d63875)
+#### [그림 90.4.39.a121. `포스트스크립트 가져오기` 대화상자 - 색상화 - 검정/흰색 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-39-import_from_postscript.html#%EA%B7%B8%EB%A6%BC-90439a121-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81%ED%99%94---%EA%B2%80%EC%A0%95%ED%9D%B0%EC%83%89-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-coloring_bw](https://github.com/wonder13662/gimp/assets/15767104/0f22a599-7bf5-4618-8f10-b22f07d63875)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-39-import_from_postscript.html#%EA%B7%B8%EB%A6%BC-90439a121-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81%ED%99%94---%EA%B2%80%EC%A0%95%ED%9D%B0%EC%83%89-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ### 회색(Gray)
 `그레이스케일(grayscale)` 이미지의 회색입니다. [5.1. 이미지 타입 - 그레이스케일(grayscale)](https://wonder13662.github.io/gimp/2.10.36_ko/05-01-image-types.html#%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%BCgrayscale)에서 상세한 설명을 확인할 수 있습니다.
 
-#### 그림 90.4.39.a122. `포스트스크립트 가져오기` 대화상자 - 색상화 - 회색 (Windows) (우리말)
-![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-coloring_gray](https://github.com/wonder13662/gimp/assets/15767104/aa033cfe-0363-439c-a8ab-c6537f685e9c)
+#### [그림 90.4.39.a122. `포스트스크립트 가져오기` 대화상자 - 색상화 - 회색 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-39-import_from_postscript.html#%EA%B7%B8%EB%A6%BC-90439a122-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81%ED%99%94---%ED%9A%8C%EC%83%89-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-coloring_gray](https://github.com/wonder13662/gimp/assets/15767104/aa033cfe-0363-439c-a8ab-c6537f685e9c)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-39-import_from_postscript.html#%EA%B7%B8%EB%A6%BC-90439a122-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81%ED%99%94---%ED%9A%8C%EC%83%89-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ### 색상(Color)
 `색상(Color)`을 선택하면 RGB 이미지를 사용합니다. [5.1. 이미지 타입 - RGB](https://wonder13662.github.io/gimp/2.10.36_ko/05-01-image-types.html#rgb)에서 상세한 설명을 확인할 수 있습니다.
 
-#### 그림 90.4.39.a123. `포스트스크립트 가져오기` 대화상자 - 색상화 - 색상 (Windows) (우리말)
-![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-coloring_color](https://github.com/wonder13662/gimp/assets/15767104/ac0ea23f-7c05-4838-901f-046c66286f9e)
+#### [그림 90.4.39.a123. `포스트스크립트 가져오기` 대화상자 - 색상화 - 색상 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-39-import_from_postscript.html#%EA%B7%B8%EB%A6%BC-90439a123-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81%ED%99%94---%EC%83%89%EC%83%81-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-coloring_color](https://github.com/wonder13662/gimp/assets/15767104/ac0ea23f-7c05-4838-901f-046c66286f9e)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-39-import_from_postscript.html#%EA%B7%B8%EB%A6%BC-90439a123-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81%ED%99%94---%EC%83%89%EC%83%81-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ### 자동(Automatic)
 `자동(Automatic)`을 선택하면, GIMP(김프)에서 가장 적절한 색상 모드를 파일의 컨텐츠를 통해서 결정합니다.
 
-#### 그림 90.4.39.a124. `포스트스크립트 가져오기` 대화상자 - 색상화 - 자동 (Windows) (우리말)
-![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-coloring_automatic](https://github.com/wonder13662/gimp/assets/15767104/b358edbf-e82f-40aa-b060-94358c3423ee)
+#### [그림 90.4.39.a124. `포스트스크립트 가져오기` 대화상자 - 색상화 - 자동 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-39-import_from_postscript.html#%EA%B7%B8%EB%A6%BC-90439a124-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81%ED%99%94---%EC%9E%90%EB%8F%99-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-coloring_automatic](https://github.com/wonder13662/gimp/assets/15767104/b358edbf-e82f-40aa-b060-94358c3423ee)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-39-import_from_postscript.html#%EA%B7%B8%EB%A6%BC-90439a124-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81%ED%99%94---%EC%9E%90%EB%8F%99-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ## 경계 상자 시도(Try Bounding Box)
 
