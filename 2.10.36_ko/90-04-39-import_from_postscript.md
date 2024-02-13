@@ -22,6 +22,26 @@
 
 [5.3.1.2. 포스트스크립트(PostScript) 불러오기 - 그림 90.4.39.a111]()
 
+#### 그림 90.4.39.a121. `포스트스크립트 가져오기` 대화상자 - 색상화 - 검정/흰색 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-coloring_bw](https://github.com/wonder13662/gimp/assets/15767104/0f22a599-7bf5-4618-8f10-b22f07d63875)
+
+[5.3.1.2. 포스트스크립트(PostScript) 불러오기 - 그림 90.4.39.a121]()
+
+#### 그림 90.4.39.a122. `포스트스크립트 가져오기` 대화상자 - 색상화 - 회색 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-coloring_gray](https://github.com/wonder13662/gimp/assets/15767104/aa033cfe-0363-439c-a8ab-c6537f685e9c)
+
+[5.3.1.2. 포스트스크립트(PostScript) 불러오기 - 그림 90.4.39.a122]()
+
+#### 그림 90.4.39.a123. `포스트스크립트 가져오기` 대화상자 - 색상화 - 색상 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-coloring_color](https://github.com/wonder13662/gimp/assets/15767104/ac0ea23f-7c05-4838-901f-046c66286f9e)
+
+[5.3.1.2. 포스트스크립트(PostScript) 불러오기 - 그림 90.4.39.a123]()
+
+#### 그림 90.4.39.a124. `포스트스크립트 가져오기` 대화상자 - 색상화 - 자동 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-coloring_automatic](https://github.com/wonder13662/gimp/assets/15767104/b358edbf-e82f-40aa-b060-94358c3423ee)
+
+[5.3.1.2. 포스트스크립트(PostScript) 불러오기 - 그림 90.4.39.a124]()
+
 ***
 
 ## 다른 페이지로 가기
