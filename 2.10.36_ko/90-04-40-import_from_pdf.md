@@ -52,12 +52,12 @@
 #### 그림 90.4.40.a141. `PDF 가져오기` 대화상자 - `안티-앨리어싱 사용` (Windows) (우리말)
 ![90-04-38-open_image(windows)(ko)-extra_dialog-pdf-page_selection-focus-anti-aliasing](https://github.com/wonder13662/gimp/assets/15767104/cb30cc32-7852-4a73-a622-48cd426f3d03)
 
-[5.3.1.1. PDF 불러오기 - 그림 90.4.40.a141]()
+[5.3.1.1. PDF 불러오기 - 그림 90.4.40.a141](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-filex-01-import_from_pdf.html#%EA%B7%B8%EB%A6%BC-90440a141-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%95%88%ED%8B%B0-%EC%95%A8%EB%A6%AC%EC%96%B4%EC%8B%B1-%EC%82%AC%EC%9A%A9-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 영상 90.4.40.a142. `PDF 가져오기` 대화상자 - `안티-앨리어싱 사용` 체크박스 토글 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1c0123c7-d8fb-4b3b-829f-1287ab389fa7"></video>
 
-[5.3.1.1. PDF 불러오기 - 영상 90.4.40.a142]()
+[5.3.1.1. PDF 불러오기 - 영상 90.4.40.a142](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-filex-01-import_from_pdf.html#%EC%98%81%EC%83%81-90440a142-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%95%88%ED%8B%B0-%EC%95%A8%EB%A6%AC%EC%96%B4%EC%8B%B1-%EC%82%AC%EC%9A%A9-%EC%B2%B4%ED%81%AC%EB%B0%95%EC%8A%A4-%ED%86%A0%EA%B8%80-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 
