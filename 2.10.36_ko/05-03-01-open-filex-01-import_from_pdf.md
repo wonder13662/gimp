@@ -47,6 +47,13 @@ PDF 이미지의 페이지들을 별개의 이미지 또는 레이어로 선택�
 [![90-04-38-open_image(windows)(ko)-extra_dialog-pdf-page_selection-focus-image_size](https://github.com/wonder13662/gimp/assets/15767104/e59a2488-e764-41ca-907f-20582502fbc1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-40-import_from_pdf.html#%EA%B7%B8%EB%A6%BC-90440a131-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%81%AC%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ## 안티-앨리어싱 사용(Use Anti-Aliasing)
+이미지 안의 텍스트에 [안티-앨리어싱](./19-glossaryx-antialiasing.md)을 적용하려면 이 체크박스를 체크해주세요.
+
+#### 그림 90.4.40.a141. `PDF 가져오기` 대화상자 - `안티-앨리어싱 사용` (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-extra_dialog-pdf-page_selection-focus-anti-aliasing](https://github.com/wonder13662/gimp/assets/15767104/cb30cc32-7852-4a73-a622-48cd426f3d03)
+
+#### 영상 90.4.40.a142. `PDF 가져오기` 대화상자 - `안티-앨리어싱 사용` 체크박스 토글 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1c0123c7-d8fb-4b3b-829f-1287ab389fa7"></video>
 
 ## 다른 페이지로 가기
 
