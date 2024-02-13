@@ -9,6 +9,9 @@
 ## 랜더링(Rendering)
 이미지의 크기를 너비(width), 높이(height) 그리고 해상도(resolution) 설정으로 제어할 수 있습니다. 포스트스크립트 문서는 물리적인 길이의 단위로 너비와 높이에 대한 정보를 갖고 있습니다. 그러므로 1 픽셀당 물리적인 길이의 단위가 너비, 높이, 해상도에 영향을 줍니다. 너비, 높이, 해상도 중 하나라도 바꾼다면, 나머지 값들이 자동으로 바뀐 값에 맞게 조정됩니다.
 
+#### 그림 90.4.39.a111. `포스트스크립트 가져오기` 대화상자 - 랜더링 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-rendering](https://github.com/wonder13662/gimp/assets/15767104/398f20d2-5366-456c-9ffe-84280704d9bf)
+
 ## Coloring
 
 ## 경계 상자 시도(Try Bounding Box)
