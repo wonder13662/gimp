@@ -44,6 +44,11 @@
 
 [5.3.1.1. PDF 불러오기 - 영상 90.4.40.a123](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-filex-01-import_from_pdf.html#%EC%98%81%EC%83%81-90440a123-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%B4%EA%B8%B0%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%84%A0%ED%83%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+#### 그림 90.4.40.a131. `PDF 가져오기` 대화상자 - `이미지 크기` (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-extra_dialog-pdf-page_selection-focus-image_size](https://github.com/wonder13662/gimp/assets/15767104/e59a2488-e764-41ca-907f-20582502fbc1)
+
+[5.3.1.1. PDF 불러오기 - 그림 90.4.40.a131]()
+
 ***
 
 ## 다른 페이지로 가기
