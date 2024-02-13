@@ -20,7 +20,7 @@
 [5.3.1.1. PDF 불러오기 - 영상 90.4.40.a105](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-filex-01-import_from_pdf.html#%EC%98%81%EC%83%81-90440a105-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.40.a111. `PDF 가져오기` 대화상자 - `페이지 선택` (Windows) (우리말)
-![90-04-38-open_image(windows)(ko)-extra_dialog-pdf-page_selection-focus-page_selection](https://github.com/wonder13662/gimp/assets/15767104/34245ea5-a837-4026-b577-4d89469aa08c)
+![90-04-38-open_image(windows)(ko)-extra_dialog-pdf-page_selection-focus-page_selection](https://github.com/wonder13662/gimp/assets/15767104/1a567be9-6a55-4130-be65-dfbc6bf07136)
 
 [5.3.1.1. PDF 불러오기 - 그림 90.4.40.a111](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-filex-01-import_from_pdf.html#%EA%B7%B8%EB%A6%BC-90440a111-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A0%ED%83%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
