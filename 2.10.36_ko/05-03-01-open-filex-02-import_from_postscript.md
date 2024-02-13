@@ -1,8 +1,8 @@
 # 5.3.1.2. 포스트스크립트(PostScript) 불러오기
 `이미지 열기` 대화상자에서 포스트스크립트(PostScript) 파일을 열면, 추가적인 대화상자가 뜹니다. 이 대화상자에는 포스트스크립트 파일 유형에 관련된 선택사항들이 있습니다.
 
-#### 그림 90.4.39.a101. `포스트스크립트 가져오기` 대화상자 (Windows) (우리말)
-![90-04-38-open_image(windows)(ko)-extra_dialog-postscript](https://github.com/wonder13662/gimp/assets/15767104/b31fc9f9-07e1-4315-a4a2-6c7dcf601c68)
+#### [그림 90.4.39.a101. `포스트스크립트 가져오기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-39-import_from_postscript.html#%EA%B7%B8%EB%A6%BC-90439a101-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-38-open_image(windows)(ko)-extra_dialog-postscript](https://github.com/wonder13662/gimp/assets/15767104/b31fc9f9-07e1-4315-a4a2-6c7dcf601c68)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-39-import_from_postscript.html#%EA%B7%B8%EB%A6%BC-90439a101-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 [다른 운영체제와 언어의 `포스트스크립트 가져오기` 대화상자 확인하기](./90-04-39-import_from_postscript.md)
 
