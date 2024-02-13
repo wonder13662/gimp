@@ -32,17 +32,17 @@
 #### 그림 90.4.40.a121. `PDF 가져오기` 대화상자 - `페이지 열기` (Windows) (우리말)
 ![90-04-38-open_image(windows)(en)-extra_dialog-pdf-open_page_as-focus-open_page_as](https://github.com/wonder13662/gimp/assets/15767104/262d920e-6224-499b-bb13-302b7b9a35ed)
 
-[5.3.1.1. PDF 불러오기 - 그림 90.4.40.a121]()
+[5.3.1.1. PDF 불러오기 - 그림 90.4.40.a121](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-filex-01-import_from_pdf.html#%EA%B7%B8%EB%A6%BC-90440a121-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 영상 90.4.40.a122. `PDF 가져오기` 대화상자 - `페이지 열기`에서 `레이어` 선택 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3ee9b4f0-0076-4921-a675-6070f288cd5d"></video>
 
-[5.3.1.1. PDF 불러오기 - 영상 90.4.40.a122]()
+[5.3.1.1. PDF 불러오기 - 영상 90.4.40.a122](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-filex-01-import_from_pdf.html#%EC%98%81%EC%83%81-90440a122-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%B4%EA%B8%B0%EC%97%90%EC%84%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%84%A0%ED%83%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 영상 90.4.40.a123. `PDF 가져오기` 대화상자 - `페이지 열기`에서 `이미지` 선택 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/11b5a9f2-a498-4797-91ae-ff1b264d3a14"></video>
 
-[5.3.1.1. PDF 불러오기 - 영상 90.4.40.a123]()
+[5.3.1.1. PDF 불러오기 - 영상 90.4.40.a123](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-filex-01-import_from_pdf.html#%EC%98%81%EC%83%81-90440a123-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%B4%EA%B8%B0%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%84%A0%ED%83%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 

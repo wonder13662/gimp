@@ -23,23 +23,21 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b353e1e-80e1-475f-8d24-4a1df1b17a93"></video>
 
 ## 페이지 열기(Open pages as)
-If this is set to Images, then GIMP will open each of the selected pages as a separate image. If it is set to Layers, then GIMP will create one image with each of the selected pages in its own layer.
-
 PDF 이미지의 페이지들을 별개의 이미지 또는 레이어로 선택할 수 있습니다.
 
-#### 그림 90.4.40.a121. `PDF 가져오기` 대화상자 - `페이지 열기` (Windows) (우리말)
-![90-04-38-open_image(windows)(en)-extra_dialog-pdf-open_page_as-focus-open_page_as](https://github.com/wonder13662/gimp/assets/15767104/262d920e-6224-499b-bb13-302b7b9a35ed)
+#### [그림 90.4.40.a121. `PDF 가져오기` 대화상자 - `페이지 열기` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-40-import_from_pdf.html#%EA%B7%B8%EB%A6%BC-90440a121-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-38-open_image(windows)(en)-extra_dialog-pdf-open_page_as-focus-open_page_as](https://github.com/wonder13662/gimp/assets/15767104/262d920e-6224-499b-bb13-302b7b9a35ed)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-40-import_from_pdf.html#%EA%B7%B8%EB%A6%BC-90440a121-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ### 레이어로 페이지 열기
 레이어로 페이지를 열면, PDF의 페이지들은 하나의 이미지 안에 낱개의 레이어로 가져옵니다. 아래 영상에서 레이어로 페이지 열기 과정을 확인할 수 있습니다.
 
-#### 영상 90.4.40.a122. `PDF 가져오기` 대화상자 - `페이지 열기`에서 `레이어` 선택 (Windows) (우리말)
+#### [영상 90.4.40.a122. `PDF 가져오기` 대화상자 - `페이지 열기`에서 `레이어` 선택 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-40-import_from_pdf.html#%EC%98%81%EC%83%81-90440a122-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%B4%EA%B8%B0%EC%97%90%EC%84%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%84%A0%ED%83%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3ee9b4f0-0076-4921-a675-6070f288cd5d"></video>
 
 ### 이미지로 페이지 열기
 이미지로 페이지를 열면, PDF의 페이지들은 개별 이미지로 가져옵니다. 아래 영상에서 이미지로 페이지 열기 과정을 확인할 수 있습니다.
 
-#### 영상 90.4.40.a123. `PDF 가져오기` 대화상자 - `페이지 열기`에서 `이미지` 선택 (Windows) (우리말)
+#### [영상 90.4.40.a123. `PDF 가져오기` 대화상자 - `페이지 열기`에서 `이미지` 선택 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-40-import_from_pdf.html#%EC%98%81%EC%83%81-90440a123-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%97%B4%EA%B8%B0%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%84%A0%ED%83%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/11b5a9f2-a498-4797-91ae-ff1b264d3a14"></video>
 
 ## 이미지 크기(Image size)
