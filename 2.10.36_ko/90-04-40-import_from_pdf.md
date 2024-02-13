@@ -22,12 +22,12 @@
 #### 그림 90.4.40.a111. `PDF 가져오기` 대화상자 - `페이지 선택` (Windows) (우리말)
 ![90-04-38-open_image(windows)(ko)-extra_dialog-pdf-page_selection-focus-page_selection](https://github.com/wonder13662/gimp/assets/15767104/34245ea5-a837-4026-b577-4d89469aa08c)
 
-[5.3.1.1. PDF 불러오기 - 그림 90.4.40.a111](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-filex-01-import_from_pdf.html#%EA%B7%B8%EB%A6%BC-90440a111-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%EB%90%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[5.3.1.1. PDF 불러오기 - 그림 90.4.40.a111](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-filex-01-import_from_pdf.html#%EA%B7%B8%EB%A6%BC-90440a111-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A0%ED%83%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 영상 90.4.40.a112. `PDF 가져오기` 대화상자 - `페이지 선택`의 `범위 선택`으로 페이지 선택하기 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b353e1e-80e1-475f-8d24-4a1df1b17a93"></video>
 
-[5.3.1.1. PDF 불러오기 - 영상 90.4.40.a112](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-filex-01-import_from_pdf.html#%EC%98%81%EC%83%81-90440a112-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%EB%90%9C-%ED%8E%98%EC%9D%B4%EC%A7%80%EC%9D%98-%EB%B2%94%EC%9C%84-%EC%84%A0%ED%83%9D%EC%9C%BC%EB%A1%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[5.3.1.1. PDF 불러오기 - 영상 90.4.40.a112](https://wonder13662.github.io/gimp/2.10.36_ko/05-03-01-open-filex-01-import_from_pdf.html#%EC%98%81%EC%83%81-90440a112-pdf-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A0%ED%83%9D%EC%9D%98-%EB%B2%94%EC%9C%84-%EC%84%A0%ED%83%9D%EC%9C%BC%EB%A1%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 
