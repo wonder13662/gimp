@@ -43,7 +43,8 @@
 #### 그림 90.4.39.a131. `포스트스크립트 가져오기` 대화상자 - 경계 상자 시도 (Windows) (우리말)
 ![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-try_bounding_box](https://github.com/wonder13662/gimp/assets/15767104/12023097-dfc8-4b5a-8ad0-899e3323429e)
 
-## Antialasing
+## 안티-앨리어싱(Anti-Aliasing)
+포스트스크립트 이미지의 텍스트와 그래픽에 각각 [안티-앨리어싱(Anti-Aliasing)](./19-glossaryx-Anti-Aliasing.md)을 적용할 수 있습니다. `약함`과 `강함` 둘 중 하나를 선택할 수 있습니다.
 
 (TODO 원문의 Page selection, Open pages as 항목이 대화상자에는 없습니다. 관련 내용 제보가 필요합니다.)
 

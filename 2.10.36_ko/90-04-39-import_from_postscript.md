@@ -47,6 +47,11 @@
 
 [5.3.1.2. 포스트스크립트(PostScript) 불러오기 - 그림 90.4.39.a131]()
 
+#### 그림 90.4.39.a141. `포스트스크립트 가져오기` 대화상자 - 안티-앨리어싱 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-anti_aliasing](https://github.com/wonder13662/gimp/assets/15767104/67e7bfb0-68a2-4f21-9c68-b7ace8182660)
+
+[5.3.1.2. 포스트스크립트(PostScript) 불러오기 - 그림 90.4.39.a141]()
+
 ***
 
 ## 다른 페이지로 가기
