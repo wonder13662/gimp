@@ -937,6 +937,8 @@
 
 [90.4.40. PDF 가져오기(Import from PDF)](./90-04-40-import_from_pdf.md)
 
+[90.4.41. 위치 열기(Open Location)](./90-04-41-open_location.md)
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

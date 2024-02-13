@@ -1,15 +1,8 @@
 # 90.1.1.5. 위치 열기(Open Location)
 
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가 필요)
-
-***
-
-## 기능이 쓰인 곳
-
-***
-
-## 관련 정보
+#### 90.1.1.5.a101. `파일` → `위치 열기`
+![90-01-01-file-export_as(w1080)-focus-open_location](https://github.com/wonder13662/gimp/assets/15767104/cea94475-0758-4db0-8730-d9360385349b)
 
 ***
 

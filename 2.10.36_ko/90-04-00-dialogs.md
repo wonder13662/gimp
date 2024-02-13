@@ -228,6 +228,9 @@
 ### [90.4.40. PDF 가져오기(Import from PDF)](./90-04-40-import_from_pdf.md)
 (TODO 이미지 추가 필요)
 
+### [90.4.41. 위치 열기(Open Location)](./90-04-41-open_location.md)
+(TODO 이미지 추가 필요)
+
 ***
 
 ## 기능이 쓰인 곳
