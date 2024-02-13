@@ -3,6 +3,8 @@
 #### 그림 90.4.39.a101. `포스트스크립트 가져오기` 대화상자 (Windows) (우리말)
 ![90-04-38-open_image(windows)(ko)-extra_dialog-postscript](https://github.com/wonder13662/gimp/assets/15767104/b31fc9f9-07e1-4315-a4a2-6c7dcf601c68)
 
+[5.3.1.2. 포스트스크립트(PostScript) 불러오기 - 그림 90.4.39.a101]()
+
 #### 그림 90.4.39.a102. `포스트스크립트 가져오기` 대화상자 (Windows) (영어)
 ![90-04-38-open_image(windows)(en)-extra_dialog-postscript](https://github.com/wonder13662/gimp/assets/15767104/37ace5dc-27bc-4ca3-b84d-77b5c2b55e1f)
 
@@ -14,6 +16,11 @@
 
 #### 영상 90.4.39.a105. `포스트스크립트 가져오기` 대화상자 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9949db29-bbde-46c9-9391-781fa65add94"></video>
+
+#### 그림 90.4.39.a111. `포스트스크립트 가져오기` 대화상자 - 랜더링 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-extra_dialog-postscript-focus-rendering](https://github.com/wonder13662/gimp/assets/15767104/398f20d2-5366-456c-9ffe-84280704d9bf)
+
+[5.3.1.2. 포스트스크립트(PostScript) 불러오기 - 그림 90.4.39.a111]()
 
 ***
 
