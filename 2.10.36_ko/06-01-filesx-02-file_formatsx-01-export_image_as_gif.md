@@ -37,16 +37,11 @@ GIF 설명은 [7비트 ASCII 문자](https://en.wikipedia.org/wiki/ASCII#ASCII_p
 [다른 운영체제와 언어의 `이미지를 GIF로 내보내기` 대화상자 - 프레임의 기본 처리 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-43-export_image_as_gif.html#%EA%B7%B8%EB%A6%BC-90443a122-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-gif%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%B2%98%EB%A6%AC-windows-%EC%98%81%EC%96%B4)
 
 1. 보호하지 않습니다(I don't care)
-
-모든 레이어가 불투명하다면 이 옵션을 사용할 수 있습니다. 아래의 레이어에 윗 레이어가 덮여쓰여집니다.
-
+   - 모든 레이어가 불투명하다면 이 옵션을 사용할 수 있습니다. 아래의 레이어에 윗 레이어가 덮여쓰여집니다.
 2. 레이어 누적 (합치기)(Cumulative Layers (combine))
-
-다음 프레임의 레이어가 보여질 때, 이전 프레임의 레이어가 삭제되지 않고 함께 보여집니다.
-
+   - 다음 프레임의 레이어가 보여질 때, 이전 프레임의 레이어가 삭제되지 않고 함께 보여집니다.
 3. 레이어당 프레임 하나 (바꾸기)(One frame per layer (replace))
-
-다음 프레임의 레이어가 보여질 때, 이전 프레임의 레이어가 삭제됩니다.
+   - 다음 프레임의 레이어가 보여질 때, 이전 프레임의 레이어가 삭제됩니다.
 
 ### 모든 프레임에 입력된 지연시간 사용(Use delay entered above for all frames)
 "프레임의 기본 지연 시간"의 입력창에 입력한 지연시간을 모든 프레임에 적용합니다.
