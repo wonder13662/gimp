@@ -17,6 +17,8 @@ GIMP(김프)에서는 작업 결과를 다양한 이미지 파일 유형으로 �
 #### [그림 90.4.42.a101. `뷰 닫기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-42-close_view.html#%EA%B7%B8%EB%A6%BC-90442a101-%EB%B7%B0-%EB%8B%AB%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-42-close_view(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/310282c7-ac1e-42ca-8741-78fd81577bc2)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-42-close_view.html#%EA%B7%B8%EB%A6%BC-90442a101-%EB%B7%B0-%EB%8B%AB%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+[다른 운영체제와 언어의 `뷰 닫기` 대화상자 확인하기](./90-04-42-close_view.md)
+
 아래 영상에서 수정된 이미지가 `dirty` 상태일 때의 경고 대화상자가 노출되는 과정을 확인할 수 있습니다.
 #### [영상 90.1.1.20.a102. 바뀐 이미지의 “이미지 닫기(Close View)”의 실행여부 확인](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-20-close_view.html#%EC%98%81%EC%83%81-901120a102-%EB%B0%94%EB%80%90-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8B%AB%EA%B8%B0close-view%EC%9D%98-%EC%8B%A4%ED%96%89%EC%97%AC%EB%B6%80-%ED%99%95%EC%9D%B8)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/00f55691-d4a1-42d3-90a4-f3c8c75f50b3"></video>
