@@ -7,7 +7,7 @@
 
 [다른 운영체제와 언어의 `파일` → `만들기` → `클립보드에서` 확인하기](./90-01-01-filex-02-createx-01-from_clipboard.md)
 
-#### 영상 90.1.1.1.2.1.a111. 전체화면 캡쳐를 클립보드에 저장해서 `파일` → `만들기` → `클립보드에서`로 새 이미지 만들기  (Windows)
+#### 영상 90.1.1.2.1.a111. 전체화면 캡쳐를 클립보드에 저장해서 `파일` → `만들기` → `클립보드에서`로 새 이미지 만들기  (Windows)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/39d15a61-bd64-4bb8-a980-41207100f4f3"></video>
 
 #### 영상 90.1.2.11.3.a111. 전체화면 캡쳐를 클립보드에 저장해서 `편집` → `붙여넣기(고급)` → `새 이미지`로 새 이미지 만들기 (Windows)
@@ -27,7 +27,7 @@ Windows 환경에서 Alt + `Print Screen`으로 활성화된 창만 캡쳐해서
 #### 영상 90.1.2.11.3.a112. 활성화 창의 캡쳐를 클립보드에 저장해서 `편집` → `붙여넣기(고급)` → `새 이미지`로 새 이미지 만들기 (Windows)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eb716971-ba1b-4165-a99c-f028d83e9846"></video>
 
-#### 영상 90.1.1.1.2.1.a112. 활성화 창의 캡쳐를 클립보드에 저장해서 `파일` → `만들기` → `클립보드에서`로 새 이미지 만들기  (Windows)
+#### 영상 90.1.1.2.1.a112. 활성화 창의 캡쳐를 클립보드에 저장해서 `파일` → `만들기` → `클립보드에서`로 새 이미지 만들기  (Windows)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ed2939d1-3b5f-4ba3-b86c-141bf376be1d"></video>
 
 ## 다른 페이지로 가기
