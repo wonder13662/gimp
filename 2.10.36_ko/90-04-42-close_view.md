@@ -17,7 +17,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.43. 이미지를 GIF로 내보내기(Export Image as GIF)](./90-04-43-export_image_as_gif.md)
 
 [⬅️ 이전: 90.4.41. 위치 열기(Open Location)](./90-04-41-open_location.md)
 

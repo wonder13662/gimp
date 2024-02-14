@@ -22,7 +22,7 @@
 ## 다른 페이지로 가기
 [➡️ 다음: 90.4.36. 레이어 크기 조정(Scale Layer...)](./90-04-36-scale_layer.md)
 
-[⬅️ 이전: 90.4.33. JPEG로 이미지 내보내기(Export Image as JPEG)](./90-04-33-export_image_as_jpeg.md)
+[⬅️ 이전: 90.4.34. 이미지 내보내기(Export As...)](./90-04-34-export_as.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

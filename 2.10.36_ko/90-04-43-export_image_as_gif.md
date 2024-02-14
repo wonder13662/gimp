@@ -36,9 +36,9 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.44. 이미지를 HEIF로 내보내기(Export Image as HEIF)](./90-04-44-export_image_as_heif.md)
 
-[⬅️ 이전: 90.4.41. 위치 열기(Open Location)](./90-04-41-open_location.md)
+[⬅️ 이전: 90.4.42. 뷰 닫기(Close View)](./90-04-42-close_view.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 
