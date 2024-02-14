@@ -9,7 +9,7 @@
 >
 > `GIF` 파일 유형은 "인쇄 해상도" 같은 기본적인 이미지 속성을 가지고 있지 않습니다. 만약 이런 속성이 필요하다면 `PNG`와 같은 다른 이미지 파일 유형을 사용해보세요.
 
-## GIF 저장 옵션
+## GIF 저장 옵션(GIF Options)
 ### 인터레이스(Interlace)
 인터레이스(Interlace) 체크박스를 체크하면 웹페이지 위의 이미지가 다운로드되면서 보여지게 됩니다. 여기서 보여지는 이미지는 원본 이미지의 저해상도 이미지입니다. 이 기능은 네트워크 속도가 느린 경우에 중요하지 않은 이미지를 다운로드하는 것을 멈출 수 있어서 유용합니다. 오늘날은 훨씬 빠른 네트워크를 사용할 수 있으므로 인터레이스는 많이 쓰이고 있지 않습니다.
 
@@ -21,16 +21,35 @@ GIF 설명은 [7비트 ASCII 문자](https://en.wikipedia.org/wiki/ASCII#ASCII_p
 #### 영상 90.4.43.a111. GIF 설명 입력제한 - 7비트 ASCII 문자만 가능 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/aa25ead1-29e9-46ff-8427-e9b5f4bbb779"></video>
 
-## 움직이는 GIF 옵션
+## 움직이는 GIF 옵션(Animated GIF Options)
 ### 무한 반복(Loop forever)
+무한 반복(Loop forever) 체크박스가 체크되어 있으면, 멈출때까지 애니메이션이 반복 재생됩니다.
 
 ### 프레임의 기본 지연 시간(Delay between frames where unspecified)
+프레임 간의 지연시간이 설정되지 않았다면 여기서 설정한 지연시간(밀리초(1/1000 초) 단위)을 기본값으로 사용합니다. 프레임 간의 지연시간은 레이어 대화상자에서 수정할 수 있습니다.
 
 ### 프레임의 기본 처리(Frame disposal where unspecified)
+동작이 설정되지 않은 프레임의 동작을 설정합니다. 세가지 옵션 중에 하나를 선택할 수 있습니다.
+
+#### 그림 90.4.43.a121. `이미지를 GIF로 내보내기` 대화상자 - 프레임의 기본 처리 (Windows) (우리말)
+![90-04-43-export_image_as_gif(windows)(ko)-focus-frame_disposal_when_unspecified](https://github.com/wonder13662/gimp/assets/15767104/96d97235-0b46-4cff-81a3-09687a85d88c)
+
+[다른 운영체제와 언어의 `이미지를 GIF로 내보내기` 대화상자 - 프레임의 기본 처리 확인하기]()
+
+1. 보호하지 않습니다(I don't care)
+모든 레이어가 불투명하다면 이 옵션을 사용할 수 있습니다. 아래의 레이어에 윗 레이어가 덮여쓰여집니다.
+
+2. 레이어 누적 (합치기)(Cumulative Layers (combine))
+다음 프레임의 레이어가 보여질 때, 이전 프레임의 레이어가 삭제되지 않고 함께 보여집니다.
+
+3. 레이어당 프레임 하나 (바꾸기)(One frame per layer (replace))
+다음 프레임의 레이어가 보여질 때, 이전 프레임의 레이어가 삭제됩니다.
 
 ### 모든 프레임에 입력된 지연시간 사용(Use delay entered above for all frames)
+"프레임의 기본 지연 시간"의 입력창에 입력한 지연시간을 모든 프레임에 적용합니다.
 
 ### 모든 프레임에 적용(Use disposal entered above for all frames)
+"프레임의 기본 처리"의 옵션을 모든 프레임에 적용합니다.
 
 ***
 

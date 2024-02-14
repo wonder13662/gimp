@@ -1120,6 +1120,8 @@
 
 [90.4.42. 뷰 닫기(Close View)](./90-04-42-close_view.md)
 
+[90.4.43. 이미지를 GIF로 내보내기(Export Image as GIF)](./90-04-43-export_image_as_gif.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
