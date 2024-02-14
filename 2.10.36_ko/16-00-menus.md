@@ -1,7 +1,7 @@
 # 16. Menus
 
 ## [16.1. Introduction to menus](./16-01-introduction-to-menus.md)
-## [16.2. The file menu](./16-02-00-the-file-menu.md)
+## [16.2. 파일 메뉴](./16-02-00-the-file-menu.md)
 ## [16.2.1. Overview](./16-02-01-overview.md)
 ## [16.2.2. New](./16-02-02-new.md)
 ## [16.2.3. Create](./16-02-03-create.md)

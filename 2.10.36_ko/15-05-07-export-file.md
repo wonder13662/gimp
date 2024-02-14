@@ -1,4 +1,4 @@
-# 15.5.7. Export file
+# 15.5.7. 파일 내보내기
 
 ### [Home](./00-home.md)
 ### [Parent: 15.5. Miscellaneous dialogs](./15-05-00-miscellaneous-dialogs.md)

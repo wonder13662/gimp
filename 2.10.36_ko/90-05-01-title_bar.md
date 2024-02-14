@@ -26,6 +26,11 @@
 [3.4.2. 이미지의 크기 바꾸기 (화면용) - 그림 90.5.1.a121. 화면 표시 상의 확대/축소 비율과 RGB 모드](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-02-change-the-size-of-an-image-for-the-screen.html#%EA%B7%B8%EB%A6%BC-9051a121-%ED%99%94%EB%A9%B4-%ED%91%9C%EC%8B%9C-%EC%83%81%EC%9D%98-%ED%99%95%EB%8C%80%EC%B6%95%EC%86%8C-%EB%B9%84%EC%9C%A8%EA%B3%BC-rgb-%EB%AA%A8%EB%93%9C)
 [90.5.7. 단위 메뉴 (Units Menu) - 그림 90.5.1.a121. 화면 표시 상의 확대/축소 비율과 RGB 모드](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-07-units_menu.html#%EA%B7%B8%EB%A6%BC-9051a121-%ED%99%94%EB%A9%B4-%ED%91%9C%EC%8B%9C-%EC%83%81%EC%9D%98-%ED%99%95%EB%8C%80%EC%B6%95%EC%86%8C-%EB%B9%84%EC%9C%A8%EA%B3%BC-rgb-%EB%AA%A8%EB%93%9C)
 
+#### 그림 90.5.1.a131. 이미지 이름 표시 - dirty 상태이므로 이름 맨 앞에 `*` 표시
+![90-05-01-title_bar-image_status_dirty-focus-asterisk](https://github.com/wonder13662/gimp/assets/15767104/a02c4aad-a110-4391-93cd-ac03a813b8f3)
+
+[6.1.2. 파일 형식 - 그림 90.5.1.a131]()
+
 ***
 
 ## 다른 페이지로 가기

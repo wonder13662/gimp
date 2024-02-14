@@ -27,7 +27,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.42. 뷰 닫기(Close View)](./90-04-42-close_view.md)
 
 [⬅️ 이전: 90.4.40. PDF 가져오기(Import from PDF)](./90-04-40-import_from_pdf.md)
 

@@ -1168,7 +1168,8 @@ module.exports = {
       ],
       [
         '15-05-07-export-file.md', 
-        '15.5.7. Export file'
+        '15.5.7. Export file',
+        '15.5.7. 파일 내보내기'
       ],
       [
         '15-05-08-sample-points-dialog.md', 
@@ -1196,7 +1197,8 @@ module.exports = {
       ],
       [
         '16-02-00-the-file-menu.md', 
-        '16.2. The file menu'
+        '16.2. The file menu',
+        '16.2. 파일 메뉴'
       ],
       [
         '16-02-01-overview.md', 
