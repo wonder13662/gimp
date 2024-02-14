@@ -8,7 +8,7 @@
 
 [3.3. 실행 취소하기 - 영상 90.1.1.20.a102](https://wonder13662.github.io/gimp/2.10.36_ko/03-03-undoing.html#%EC%98%81%EC%83%81-901120a102-%EB%B0%94%EB%80%90-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8B%AB%EA%B8%B0close-view%EC%9D%98-%EC%8B%A4%ED%96%89%EC%97%AC%EB%B6%80-%ED%99%95%EC%9D%B8)
 
-[6.1.2. 파일 형식 - 영상 90.1.1.20.a102]()
+[6.1.2. 파일 형식 - 영상 90.1.1.20.a102](https://wonder13662.github.io/gimp/2.10.36_ko/06-01-filesx-02-file_formats.html#%EC%98%81%EC%83%81-901120a102-%EB%B0%94%EB%80%90-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8B%AB%EA%B8%B0close-view%EC%9D%98-%EC%8B%A4%ED%96%89%EC%97%AC%EB%B6%80-%ED%99%95%EC%9D%B8)
 
 ***
 
