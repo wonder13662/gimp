@@ -1,5 +1,7 @@
 # 6.1.2.1. GIF로 이미지 내보내기
 
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 6.1.2.2. HEIF/HEIC로 이미지 내보내기](./06-01-filesx-02-file_formatsx-02-export_image_as_heif.md)

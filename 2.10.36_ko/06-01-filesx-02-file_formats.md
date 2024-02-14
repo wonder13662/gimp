@@ -2,19 +2,19 @@
 
 ## 하위 페이지
 
-[6.1.2.1. Export Image as GIF](./06-01-filesx-02-file_formatsx-01-export_image_as_gif.md)
+[6.1.2.1. GIF로 이미지 내보내기](./06-01-filesx-02-file_formatsx-01-export_image_as_gif.md)
 
-[6.1.2.2. Export Image as HEIF/HEIC](./06-01-filesx-02-file_formatsx-02-export_image_as_heif.md)
+[6.1.2.2. HEIF/HEIC로 이미지 내보내기](./06-01-filesx-02-file_formatsx-02-export_image_as_heif.md)
 
-[6.1.2.3. Export Image as JPEG](./06-01-filesx-02-file_formatsx-03-export_image_as_jpeg.md)
+[6.1.2.3. JPEG로 이미지 내보내기](./06-01-filesx-02-file_formatsx-03-export_image_as_jpeg.md)
 
-[6.1.2.4. Export Image as PNG](./06-01-filesx-02-file_formatsx-04-export_image_as_png.md)
+[6.1.2.4. PNG로 이미지 내보내기](./06-01-filesx-02-file_formatsx-04-export_image_as_png.md)
 
-[6.1.2.5. Export Image as TIFF](./06-01-filesx-02-file_formatsx-05-export_image_as_tiff.md)
+[6.1.2.5. TIFF로 이미지 내보내기](./06-01-filesx-02-file_formatsx-05-export_image_as_tiff.md)
 
-[6.1.2.6. Export Image as WebP](./06-01-filesx-02-file_formatsx-06-export_image_as_webp.md)
+[6.1.2.6. WebP로 이미지 내보내기](./06-01-filesx-02-file_formatsx-06-export_image_as_webp.md)
 
-[6.1.2.7. Export Image as MNG](./06-01-filesx-02-file_formatsx-07-export_image_as_mng.md)
+[6.1.2.7. MNG로 이미지 내보내기](./06-01-filesx-02-file_formatsx-07-export_image_as_mng.md)
 
 ## 다른 페이지로 가기
 
