@@ -7,7 +7,7 @@ GIMP(김프)에서는 작업 결과를 다양한 이미지 파일 유형으로 �
 
 > 🗒️ 참고
 >
-> GIMP(김프)에서는 이미지가 원본과 다르게 수정된 뒤에 저장되지 않은 이미지의 상태를 `dirty`라고 표현합니다. 이미지를 닫을 때(아마도 GIMP를 끌 때), 이미지의 상태가 `dirty`라면 [경고 메시지 대화상자](https://wonder13662.github.io/gimp/2.10.36_ko/06-01-filesx-02-file_formats.html#%EA%B7%B8%EB%A6%BC-90442a101-%EB%B7%B0-%EB%8B%AB%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)를 볼 수 있습니다. 또한 [타이틀 바](./03-02-02-image-windowx-01-title-bar.md)에 [표시된 파일 이름의 맨 앞에 `*`이 붙어 있는 것](https://wonder13662.github.io/gimp/2.10.36_ko/06-01-filesx-02-file_formats.html#%EA%B7%B8%EB%A6%BC-9051a131-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B4%EB%A6%84-%ED%91%9C%EC%8B%9C---dirty-%EC%83%81%ED%83%9C%EC%9D%B4%EB%AF%80%EB%A1%9C-%EC%9D%B4%EB%A6%84-%EB%A7%A8-%EC%95%9E%EC%97%90--%ED%91%9C%EC%8B%9C)을 확인할 수 있습니다.
+> GIMP(김프)에서는 이미지가 원본과 다르게 수정된 뒤에 저장되지 않은 이미지의 상태를 `dirty`라고 표현합니다. 이미지를 닫을 때(아마도 GIMP를 끌 때), 이미지의 상태가 `dirty`라면 경고 메시지 대화상자(그림 90.4.42.a101)를 볼 수 있습니다. 또한 [타이틀 바](./03-02-02-image-windowx-01-title-bar.md)에 표시된 파일 이름의 맨 앞에 `*`이 붙어 있는 것(그림 90.5.1.a131)을 확인할 수 있습니다.
 >
 > 이미지를 GIMP(김프)의 고유한 파일 유형인 `XCF`로 저장(save)하면, 이미지의 상태가 `dirty`가 아닌 것으로 판단합니다. GIMP(김프)는 저장한 이미지의 모든 정보가 유지될 것을 알 수 있기 때문입니다. 반대로 이미지를 내보내면(export) 여전히 이미지의 상태는 `dirty`인 상태로 판단합니다. 왜냐하면 GIMP(김프)는 내보낸 이미지의 정보가 모두 유지될 것인지 아니면 잃어버릴 것인지 알 수 없기 때문입니다.
 
@@ -16,6 +16,10 @@ GIMP(김프)에서는 작업 결과를 다양한 이미지 파일 유형으로 �
 
 #### [그림 90.4.42.a101. `뷰 닫기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-42-close_view.html#%EA%B7%B8%EB%A6%BC-90442a101-%EB%B7%B0-%EB%8B%AB%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-42-close_view(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/310282c7-ac1e-42ca-8741-78fd81577bc2)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-42-close_view.html#%EA%B7%B8%EB%A6%BC-90442a101-%EB%B7%B0-%EB%8B%AB%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
+아래 영상에서 수정된 이미지가 `dirty` 상태일 때의 경고 대화상자가 노출되는 과정을 확인할 수 있습니다.
+#### 영상 90.1.1.20.a102. 바뀐 이미지의 “이미지 닫기(Close View)”의 실행여부 확인
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/00f55691-d4a1-42d3-90a4-f3c8c75f50b3"></video>
 
 ## 하위 페이지
 
