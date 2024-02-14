@@ -22,6 +22,8 @@
 #### 그림 90.4.43.a121. `이미지를 GIF로 내보내기` 대화상자 - 프레임의 기본 처리 (Windows) (우리말)
 ![90-04-43-export_image_as_gif(windows)(ko)-focus-frame_disposal_when_unspecified](https://github.com/wonder13662/gimp/assets/15767104/96d97235-0b46-4cff-81a3-09687a85d88c)
 
+[6.1.2.1. GIF로 이미지 내보내기 - 그림 90.4.43.a121](https://wonder13662.github.io/gimp/2.10.36_ko/06-01-filesx-02-file_formatsx-01-export_image_as_gif.html#%EA%B7%B8%EB%A6%BC-90443a121-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-gif%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%B2%98%EB%A6%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
 #### 그림 90.4.43.a122. `이미지를 GIF로 내보내기` 대화상자 - 프레임의 기본 처리 (Windows) (영어)
 ![90-04-43-export_image_as_gif(windows)(en)-focus-frame_disposal_when_unspecified](https://github.com/wonder13662/gimp/assets/15767104/4b9d7c66-d0a6-4908-82d2-f1890fe4d45d)
 
