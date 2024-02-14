@@ -12,7 +12,7 @@
 
 [➡️ 다음: 90.1.2.13. 지우기(Clear)](./90-01-02-editx-13-clear.md)
 
-[⬅️ 이전: 90.1.2.11. 붙여넣기(고급)(Paste as)](./90-01-02-editx-11-paste_as.md)
+[⬅️ 이전: 90.1.2.11.4. 새 무늬(New Pattern)](./90-01-02-editx-11-paste_asx-04-new_brush.md)
 
 [⬆️ 위: 90.1.2. 편집(Edit)](./90-01-02-edit.md)
 

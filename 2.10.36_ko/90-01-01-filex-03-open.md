@@ -12,7 +12,7 @@
 
 [➡️ 다음: 90.1.1.4. 레이어로 열기(Open as Layers)](./90-01-01-filex-04-open_as_layers.md)
 
-[⬅️ 이전: 90.1.1.2. 만들기(Create)](./90-01-01-filex-02-create.md)
+[⬅️ 이전: 90.1.1.2.4. 스크린샷...(Screenshot...)](./90-01-01-filex-02-createx-04-screenshot.md)
 
 [⬆️ 위: 90.1.1. 파일(File)](./90-01-01-file.md)
 
