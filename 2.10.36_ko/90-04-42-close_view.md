@@ -3,7 +3,7 @@
 #### 그림 90.4.42.a101. `뷰 닫기` 대화상자 (Windows) (우리말)
 ![90-04-42-close_view(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/310282c7-ac1e-42ca-8741-78fd81577bc2)
 
-[6.1.2. 파일 형식 - 그림 90.4.42.a101]()
+[6.1.2. 파일 형식 - 그림 90.4.42.a101](https://wonder13662.github.io/gimp/2.10.36_ko/06-01-filesx-02-file_formats.html#%EA%B7%B8%EB%A6%BC-90442a101-%EB%B7%B0-%EB%8B%AB%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.42.a102. `뷰 닫기` 대화상자 (Windows) (영어)
 ![90-04-42-close_view(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/df72343d-1483-4a78-a102-3978e45eebd3)

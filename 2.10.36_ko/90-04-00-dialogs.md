@@ -231,6 +231,9 @@
 ### [90.4.41. 위치 열기(Open Location)](./90-04-41-open_location.md)
 (TODO 이미지 추가 필요)
 
+### [90.4.42. 뷰 닫기(Close View)](./90-04-42-close_view.md)
+(TODO 이미지 추가 필요)
+
 ***
 
 ## 기능이 쓰인 곳

@@ -29,7 +29,7 @@
 #### 그림 90.5.1.a131. 타이틀 바의 이미지 이름 표시 - dirty 상태이므로 이름 맨 앞에 `*` 표시
 ![90-05-01-title_bar-image_status_dirty-focus-asterisk](https://github.com/wonder13662/gimp/assets/15767104/a02c4aad-a110-4391-93cd-ac03a813b8f3)
 
-[6.1.2. 파일 형식 - 그림 90.5.1.a131]()
+[6.1.2. 파일 형식 - 그림 90.5.1.a131](https://wonder13662.github.io/gimp/2.10.36_ko/06-01-filesx-02-file_formats.html#%EA%B7%B8%EB%A6%BC-9051a131-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B4%EB%A6%84-%ED%91%9C%EC%8B%9C---dirty-%EC%83%81%ED%83%9C%EC%9D%B4%EB%AF%80%EB%A1%9C-%EC%9D%B4%EB%A6%84-%EB%A7%A8-%EC%95%9E%EC%97%90--%ED%91%9C%EC%8B%9C)
 
 ***
 

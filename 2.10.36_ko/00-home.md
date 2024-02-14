@@ -1118,6 +1118,8 @@
 
 [90.4.41. 위치 열기(Open Location)](./90-04-41-open_location.md)
 
+[90.4.42. 뷰 닫기(Close View)](./90-04-42-close_view.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
