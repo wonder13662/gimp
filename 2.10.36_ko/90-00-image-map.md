@@ -10,6 +10,14 @@
 
 [90.1.1.2. 만들기(Create)](./90-01-01-filex-02-create.md)
 
+[90.1.1.2.1. 클립보드에서(From Clipboard)](./90-01-01-filex-02-createx-01-from_clipboard.md)
+
+[90.1.1.2.2. 웹페이지에서...(From Webpage...)](./90-01-01-filex-02-createx-02-from_webpage.md)
+
+[90.1.1.2.3. 스캐너/카메라...(Scanner/Camera...)](./90-01-01-filex-02-createx-03-scanner_n_camera.md)
+
+[90.1.1.2.4. 스크린샷...(Screenshot...)](./90-01-01-filex-02-createx-04-screenshot.md)
+
 [90.1.1.3. 열기(Open)](./90-01-01-filex-03-open.md)
 
 [90.1.1.4. 레이어로 열기(Open as Layers)](./90-01-01-filex-04-open_as_layers.md)
@@ -73,6 +81,16 @@
 [90.1.2.10. 지정한 좌표의 선택영역에 붙여넣기(Paste Into Selection In Place)](./90-01-02-editx-10-paste_into_selection_in_place.md)
 
 [90.1.2.11. 붙여넣기(고급)(Paste as)](./90-01-02-editx-11-paste_as.md)
+
+[90.1.2.11.1. 새 레이어(New Layer)](./90-01-02-editx-11-paste_asx-01-new_layer.md)
+
+[90.1.2.11.2. New Layer In Place(New Layer In Place)](./90-01-02-editx-11-paste_asx-02-new_layer_in_place.md)
+
+[90.1.2.11.3. 새 이미지(New Image)](./90-01-02-editx-11-paste_asx-03-new_image.md)
+
+[90.1.2.11.4. 새 붓(New Brush)](./90-01-02-editx-11-paste_asx-04-new_brush.md)
+
+[90.1.2.11.5. 새 무늬(New Pattern)](./90-01-02-editx-11-paste_asx-05-new_pattern.md)
 
 [90.1.2.12. 버퍼(Buffer)](./90-01-02-editx-12-buffer.md)
 

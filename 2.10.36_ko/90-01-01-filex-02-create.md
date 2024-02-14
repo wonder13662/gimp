@@ -8,6 +8,18 @@
 
 ***
 
+## 하위 페이지
+
+[90.1.1.2.1. 클립보드에서(From Clipboard)](./90-01-01-filex-02-createx-01-from_clipboard.md)
+
+[90.1.1.2.2. 웹페이지에서...(From Webpage...)](./90-01-01-filex-02-createx-02-from_webpage.md)
+
+[90.1.1.2.3. 스캐너/카메라...(Scanner/Camera...)](./90-01-01-filex-02-createx-03-scanner_n_camera.md)
+
+[90.1.1.2.4. 스크린샷...(Screenshot...)](./90-01-01-filex-02-createx-04-screenshot.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.1.1.2.1. 클립보드에서(From Clipboard)](./90-01-01-filex-02-createx-01-from_clipboard.md)

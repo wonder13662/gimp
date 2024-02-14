@@ -8,6 +8,20 @@
 
 ***
 
+## 하위 페이지
+
+[90.1.2.11.1. 새 레이어(New Layer)](./90-01-02-editx-11-paste_asx-01-new_layer.md)
+
+[90.1.2.11.2. New Layer In Place(New Layer In Place)](./90-01-02-editx-11-paste_asx-02-new_layer_in_place.md)
+
+[90.1.2.11.3. 새 이미지(New Image)](./90-01-02-editx-11-paste_asx-03-new_image.md)
+
+[90.1.2.11.4. 새 붓(New Brush)](./90-01-02-editx-11-paste_asx-04-new_brush.md)
+
+[90.1.2.11.5. 새 무늬(New Pattern)](./90-01-02-editx-11-paste_asx-05-new_pattern.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.1.2.11.1. 새 레이어(New Layer)](./90-01-02-editx-11-paste_asx-01-new_layer.md)
