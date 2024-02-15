@@ -12,8 +12,8 @@
 
 ### 화질(Quality)
 
-#### 그림 90.4.33.a141. '이미지를 JPEG로 내보내기' 대화상자 - 화질 (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-focus-quality](https://github.com/wonder13662/gimp/assets/15767104/bed7ef5d-8fa2-4bb2-b9c8-4d898925381a)
+#### [그림 90.4.33.a141. '이미지를 JPEG로 내보내기' 대화상자 - 화질 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a141-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%99%94%EC%A7%88-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-focus-quality](https://github.com/wonder13662/gimp/assets/15767104/bed7ef5d-8fa2-4bb2-b9c8-4d898925381a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a141-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%99%94%EC%A7%88-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 `JPEG` 파일 유형(포맷)으로 저장을 하면, 0에서 100까지 압축률을 조절할 수 있는 대화상자가 열립니다. 기본값은 85로 가장 좋은 결과를 보여주지만, 많은 경우 그보다 낮은 값에서도 큰 화질 저하없이 저장이 가능합니다. 대화상자의 `이미지 창에 미리 보기 표시(Show preview in image window)`를 이용하면 값에 따른 화질을 미리 확인해 볼 수 있습니다. 이는 대화상자의 각 옵션의 설정값에 따른 변화를 즉시 보여주지만 원본 이미지 자체를 변형시키지는 않습니다. 따라서 대화상자를 닫으면 원래 이미지로 돌아갑니다.
 
@@ -23,8 +23,8 @@
 
 ### 원본 이미지의 화질 설정값 사용(Use quality settings from original image)
 
-#### 그림 90.4.33.a142. '이미지를 JPEG로 내보내기' 대화상자 - 원본 이미지의 화질 설정값 사용 (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-focus-use_quality_setting_from_original_image](https://github.com/wonder13662/gimp/assets/15767104/60e03d6a-4d44-48e0-b117-0218ba81f414)
+#### [그림 90.4.33.a142. '이미지를 JPEG로 내보내기' 대화상자 - 원본 이미지의 화질 설정값 사용 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a142-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9B%90%EB%B3%B8-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%ED%99%94%EC%A7%88-%EC%84%A4%EC%A0%95%EA%B0%92-%EC%82%AC%EC%9A%A9-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-focus-use_quality_setting_from_original_image](https://github.com/wonder13662/gimp/assets/15767104/60e03d6a-4d44-48e0-b117-0218ba81f414)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a142-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9B%90%EB%B3%B8-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%ED%99%94%EC%A7%88-%EC%84%A4%EC%A0%95%EA%B0%92-%EC%82%AC%EC%9A%A9-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 이 체크박스를 체크하면, 특별한 화질 설정(또는 "양자화 테이블")이 이미지에 있다면 이미지를 불러올때, 이 설정을 기본 화질 설정을 대신해 사용하게 됩니다.
 
@@ -34,8 +34,8 @@
 
 ### 이미지 창에 미리 보기 표시(Show preview in image window)
 
-#### 그림 90.4.33.a143. '이미지를 JPEG로 내보내기' 대화상자 - 이미지 창에 미리 보기 표시 (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-focus-show_preview_in_image_window](https://github.com/wonder13662/gimp/assets/15767104/a94cfd81-681b-4729-89b3-71155d2707b1)
+#### [그림 90.4.33.a143. '이미지를 JPEG로 내보내기' 대화상자 - 이미지 창에 미리 보기 표시 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a143-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%97%90-%EB%AF%B8%EB%A6%AC-%EB%B3%B4%EA%B8%B0-%ED%91%9C%EC%8B%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-focus-show_preview_in_image_window](https://github.com/wonder13662/gimp/assets/15767104/a94cfd81-681b-4729-89b3-71155d2707b1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a143-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%97%90-%EB%AF%B8%EB%A6%AC-%EB%B3%B4%EA%B8%B0-%ED%91%9C%EC%8B%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 이 체크박스를 체크하면 대화상자의 화질(Quality) 설정 및 옵션들을 바꿀 때마다 이미지 창(Image Display)에 변경사항이 적용되어 보여집니다. (이미지의 데이터를 실제로 바꾸는 것은 아닙니다. `JPEG` 대화상자를 닫으면 이미지의 원래 상태로 돌아옵니다.)
 
@@ -45,8 +45,8 @@
 
 ### 메타데이터 유지하기(Keep metadata)
 
-#### 그림 90.4.33.a144. '이미지를 JPEG로 내보내기' 대화상자 - 메타데이터 유지하기 (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-focus-keep_metadata](https://github.com/wonder13662/gimp/assets/15767104/a2afaf3a-5ad5-4492-9f31-ea88272db903)
+#### [그림 90.4.33.a144. '이미지를 JPEG로 내보내기' 대화상자 - 메타데이터 유지하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a144-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-focus-keep_metadata](https://github.com/wonder13662/gimp/assets/15767104/a2afaf3a-5ad5-4492-9f31-ea88272db903)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a144-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 불러온 이미지가 `Exif`, `XMP`, `IPTC`의 메타데이터를 갖고 있다면, `JPEG` 이미지로 내보낼 때, 체크박스를 체크한 메타데이터 항목에 대해 유지합니다. 체크하지 않으면 내보낼 때 해당 메타데이터를 버립니다.
 
@@ -56,24 +56,26 @@
 
 ### 미리 보기 저장(Save thumbnail)
 
-#### 그림 90.4.33.a145. '이미지를 JPEG로 내보내기' 대화상자 - 미리 보기 저장 (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-focus-save_thumbnail](https://github.com/wonder13662/gimp/assets/15767104/f7f8b955-cbac-41db-9603-0144f9b79c6d)
+#### [그림 90.4.33.a145. '이미지를 JPEG로 내보내기' 대화상자 - 미리 보기 저장 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a145-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%AF%B8%EB%A6%AC-%EB%B3%B4%EA%B8%B0-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-focus-save_thumbnail](https://github.com/wonder13662/gimp/assets/15767104/f7f8b955-cbac-41db-9603-0144f9b79c6d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a145-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%AF%B8%EB%A6%AC-%EB%B3%B4%EA%B8%B0-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 이 체크박스를 체크하면 다른 어플리케이션에서 보여줄 수 있는 이미지에 대한 작은 미리보기 섬네일을 저장합니다.
 
 ### 색상 프로필 저장(Save color profile)
 
-#### 그림 90.4.33.a146. '이미지를 JPEG로 내보내기' 대화상자 - 색상 프로필 저장 (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-focus-save_color_profile](https://github.com/wonder13662/gimp/assets/15767104/158c0db7-6d73-4c21-a6e5-702fd310205b)
+#### [그림 90.4.33.a146. '이미지를 JPEG로 내보내기' 대화상자 - 색상 프로필 저장 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a146-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81-%ED%94%84%EB%A1%9C%ED%95%84-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-focus-save_color_profile](https://github.com/wonder13662/gimp/assets/15767104/158c0db7-6d73-4c21-a6e5-702fd310205b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a146-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81-%ED%94%84%EB%A1%9C%ED%95%84-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 (TODO 내용 추가 필요)
 
 ### 설명(Comment)
 
-#### 그림 90.4.33.a147. '이미지를 JPEG로 내보내기' 대화상자 - 설명 (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-focus-comment](https://github.com/wonder13662/gimp/assets/15767104/efeb9ea3-e94c-4076-a1fc-d6bff72a08e4)
+#### [그림 90.4.33.a147. '이미지를 JPEG로 내보내기' 대화상자 - 설명 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a147-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A4%EB%AA%85-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-focus-comment](https://github.com/wonder13662/gimp/assets/15767104/efeb9ea3-e94c-4076-a1fc-d6bff72a08e4)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a147-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A4%EB%AA%85-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 이미지에 첨부될 설명을 수정할 수 있습니다. 한글 입력도 가능합니다.
+
+(TODO 설명에 추가한 내용을 GIMP에서 확인하는 과정 추가해야 합니다.)
 
 ### 고급 설정(Advanced Options)
 
