@@ -204,7 +204,7 @@
 ### [90.4.32. 이미지를 색인 색상으로 변환(Convert Image to Indexed Colors)](./90-04-32-convert_image_to_indexed_colors.md)
 (TODO 이미지 추가 필요)
 
-### [90.4.33. JPEG로 이미지 내보내기(Export Image as JPEG)](./90-04-33-export_image_as_jpeg.md)
+### [90.4.33. 이미지를 JPEG로 내보내기(Export Image as JPEG)](./90-04-33-export_image_as_jpeg.md)
 (TODO 이미지 추가 필요)
 
 ### [90.4.34. 이미지 내보내기(Export As...)](./90-04-34-export_as.md)

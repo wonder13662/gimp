@@ -10,18 +10,18 @@
 GIMP에서 이미지들은 `.XCF` 파일 포맷으로 불러오거나 저장됩니다. `JPG` 이미지들도 열면 `.XCF` 파일 포맷으로 불러옵니다. 
 
 ## 3.4.4.1. "image-name.jpg 덮어쓰기(Overwrite image-name.jpg)"
-GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)`를 클릭하면 “JPEG로 이미지 내보내기(Export Image as JPEG)” 대화상자를 열 수 있습니다.
+GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)`를 클릭하면 “이미지를 JPEG로 내보내기(Export Image as JPEG)” 대화상자를 열 수 있습니다.
 
 #### [그림 90.1.1.12.a101 `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)` 메뉴의 위치](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-12-overwrite.html#%EA%B7%B8%EB%A6%BC-901112a101-%ED%8C%8C%EC%9D%BCfile--image-namejpg-%EB%8D%AE%EC%96%B4%EC%93%B0%EA%B8%B0overwrite-image-namejpg-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
 [<img width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/246f4277-5f56-4c3d-b1a0-d3cae594c5dd">](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-12-overwrite.html#%EA%B7%B8%EB%A6%BC-901112a101-%ED%8C%8C%EC%9D%BCfile--image-namejpg-%EB%8D%AE%EC%96%B4%EC%93%B0%EA%B8%B0overwrite-image-namejpg-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
 
-#### [그림 90.4.33.a101. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a101-jpeg%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0export-image-as-jpeg-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### [그림 90.4.33.a101. '이미지를 JPEG로 내보내기(Export Image as JPEG)' 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a101-jpeg%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0export-image-as-jpeg-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-33-export_image_as_jpeg(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b1e96240-69ca-44e6-90a5-782059a2d383)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a101-jpeg%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0export-image-as-jpeg-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-[다른 운영체제와 언어의 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 확인하기](./90-04-33-export_image_as_jpeg.md)
+[다른 운영체제와 언어의 '이미지를 JPEG로 내보내기(Export Image as JPEG)' 대화상자 확인하기](./90-04-33-export_image_as_jpeg.md)
 
 ## 3.4.4.2. "Export As..."
-GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의  `파일(File)` → `Export As...`를 누르면 "이미지 내보내기(Export Image)" 대화상자를 열 수 있습니다. "이미지 내보내기(Export Image)" 대화상자에서 파일 이름과 확장자를 설정하면 다시 "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자를 열 수 있습니다.
+GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의  `파일(File)` → `Export As...`를 누르면 "이미지 내보내기(Export Image)" 대화상자를 열 수 있습니다. "이미지 내보내기(Export Image)" 대화상자에서 파일 이름과 확장자를 설정하면 다시 "이미지를 JPEG로 내보내기(Export Image as JPEG)" 대화상자를 열 수 있습니다.
 
 #### [그림 90.1.1.13.a101. `파일(File)` → `Export As...` 메뉴의 위치](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-13-export_as.html#%EA%B7%B8%EB%A6%BC-901113a101-%ED%8C%8C%EC%9D%BCfile--export-as-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
 [![90-01-01-file-export_as(w1080)-focus-export_as](https://github.com/wonder13662/gimp/assets/15767104/2762d1a1-b41e-4087-9a3c-d6321facc69a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-13-export_as.html#%EA%B7%B8%EB%A6%BC-901113a101-%ED%8C%8C%EC%9D%BCfile--export-as-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
@@ -40,18 +40,18 @@ GIMP에서 [이미지 메뉴바](./03-02-02-image-windowx-02-image-menu.md#32222
 ## 3.4.4.4. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 목록에서 선택)
 GIMP에서 지원하는 파일 타입을 확인하기 위해 "Export As..." 대화상자의 아래쪽의 "파일 유형 선택(Select File Type)"의 목록을 엽니다.
 
-GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 따라 달라집니다. 만약 "JPEG" 확장자가 비활성화되어 있다면, 취소한 뒤에 [3.4.7. 모드 바꾸기](./03-04-07-change-the-mode.md)의 과정을 진행해주세요. 그 이후, `내보내기(Export)` 버튼을 클릭하면 "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자를 열 수 있습니다.
+GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 따라 달라집니다. 만약 "JPEG" 확장자가 비활성화되어 있다면, 취소한 뒤에 [3.4.7. 모드 바꾸기](./03-04-07-change-the-mode.md)의 과정을 진행해주세요. 그 이후, `내보내기(Export)` 버튼을 클릭하면 "이미지를 JPEG로 내보내기(Export Image as JPEG)" 대화상자를 열 수 있습니다.
 
 #### [영상 90.4.34.a112. "파일 유형 선택(Select File Type)"의 목록 열기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-34-export_as.html#%EC%98%81%EC%83%81-90434a112-%ED%8C%8C%EC%9D%BC-%EC%9C%A0%ED%98%95-%EC%84%A0%ED%83%9Dselect-file-type%EC%9D%98-%EB%AA%A9%EB%A1%9D-%EC%97%B4%EA%B8%B0)
 <video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/39b4460b-2c53-43d4-8f37-58eb7888b9b7"></video>
 
-## 3.4.4.5. "JPEG로 이미지 내보내기(Export Image as JPEG)" 대화상자
-"JPEG로 이미지 내보내기" 대화상자는 좋은 화질을 유지하면서 메모리 크기를 줄이는 기본값을 사용합니다. 대화상자의 `이미지 창에 미리 보기 표시(Show preview in image window)` 체크박스를 체크하면 화질을 바꿀때마다 변하는 이미지의 화질을 직접 확인할 수 있습니다.
+## 3.4.4.5. "이미지를 JPEG로 내보내기(Export Image as JPEG)" 대화상자
+"이미지를 JPEG로 내보내기" 대화상자는 좋은 화질을 유지하면서 메모리 크기를 줄이는 기본값을 사용합니다. 대화상자의 `이미지 창에 미리 보기 표시(Show preview in image window)` 체크박스를 체크하면 화질을 바꿀때마다 변하는 이미지의 화질을 직접 확인할 수 있습니다.
 
-#### [그림 90.4.33.a101. 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a101-jpeg%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0export-image-as-jpeg-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### [그림 90.4.33.a101. '이미지를 JPEG로 내보내기(Export Image as JPEG)' 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a101-jpeg%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0export-image-as-jpeg-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-33-export_image_as_jpeg(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b1e96240-69ca-44e6-90a5-782059a2d383)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a101-jpeg%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0export-image-as-jpeg-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-[다른 운영체제와 언어의 'JPEG로 이미지 내보내기(Export Image as JPEG)' 대화상자 확인하기](./90-04-33-export_image_as_jpeg.md)
+[다른 운영체제와 언어의 '이미지를 JPEG로 내보내기(Export Image as JPEG)' 대화상자 확인하기](./90-04-33-export_image_as_jpeg.md)
 
 #### [영상 90.4.33.a201. `이미지 창에 미리 보기 표시(Show preview in image window)`](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EC%98%81%EC%83%81-90433a201-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%97%90-%EB%AF%B8%EB%A6%AC-%EB%B3%B4%EA%B8%B0-%ED%91%9C%EC%8B%9Cshow-preview-in-image-window)
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a651f208-7406-43e3-bcf5-b89629dbf51c"></video>

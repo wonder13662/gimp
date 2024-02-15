@@ -31,7 +31,7 @@ GIMP(김프)에서는 작업 결과를 다양한 이미지 파일 유형으로 �
 
 [6.1.2.2. HEIF/HEIC로 이미지 내보내기](./06-01-filesx-02-file_formatsx-02-export_image_as_heif.md)
 
-[6.1.2.3. JPEG로 이미지 내보내기](./06-01-filesx-02-file_formatsx-03-export_image_as_jpeg.md)
+[6.1.2.3. 이미지를 JPEG로 내보내기](./06-01-filesx-02-file_formatsx-03-export_image_as_jpeg.md)
 
 [6.1.2.4. PNG로 이미지 내보내기](./06-01-filesx-02-file_formatsx-04-export_image_as_png.md)
 
