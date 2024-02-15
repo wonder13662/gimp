@@ -2,7 +2,8 @@
 각 메뉴들의 미리보기 이미지를 제공하여 찾으려는 메뉴의 관련 내용을 빠르게 확인할 수 있도록 도와줍니다.
 
 ## [90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
-[<img width="1080" alt="90.1. 이미지 메뉴 바(Image Menu Bar)" src="https://github.com/wonder13662/gimp/assets/15767104/85463d2a-4897-4283-b76b-6a64241ccbd9">](./90-01-00-image-menu-bar.md)
+#### 그림 90.1.a101. 이미지 메뉴 바 (Windows) (우리말)
+![image_menu_bar(windows)(우리말)(mini)](https://github.com/wonder13662/gimp/assets/15767104/030fb542-2a4a-47f8-8ee6-a75a8c3893d6)
 
 [90.1.1. 파일(File)](./90-01-01-file.md)
 
