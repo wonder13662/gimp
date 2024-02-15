@@ -85,6 +85,37 @@
 
 [6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a147](https://wonder13662.github.io/gimp/2.10.36_ko/06-01-filesx-02-file_formatsx-03-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a147-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A4%EB%AA%85-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+#### 그림 90.4.33.a151. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 최적화 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-optimize](https://github.com/wonder13662/gimp/assets/15767104/006ec18a-fa60-4b19-8c54-87216d331949)
+
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a151]()
+
+#### 그림 90.4.33.a152. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 부드럽게 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-smoothing](https://github.com/wonder13662/gimp/assets/15767104/6fc95981-c200-4cf7-a07b-54081af410d3)
+
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a152]()
+
+#### 그림 90.4.33.a153. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 산술 부호화 사용 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-use_arithmetic_coding](https://github.com/wonder13662/gimp/assets/15767104/98022f25-e9b5-4767-a185-93d74e6fafb4)
+
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a153]()
+
+#### 그림 90.4.33.a154. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 재시작 표식 사용 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-use_restart_marker](https://github.com/wonder13662/gimp/assets/15767104/69f0385a-86c5-43e5-a434-8cdbfa1c27b1)
+
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a154]()
+
+#### 그림 90.4.33.a155. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 간격(MCU 행) (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-interval](https://github.com/wonder13662/gimp/assets/15767104/c2c09675-c5a0-4ac0-a332-7da1a716b80e)
+
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a155]()
+
+#### 그림 90.4.33.a156. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 점진적으로 표시 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-progressive](https://github.com/wonder13662/gimp/assets/15767104/41c8db31-a757-4247-a5ef-7089774a9e6f)
+
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a156]()
+
+
 #### 영상 90.4.33.a201. `이미지 창에 미리 보기 표시(Show preview in image window)`
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a651f208-7406-43e3-bcf5-b89629dbf51c"></video>
 
