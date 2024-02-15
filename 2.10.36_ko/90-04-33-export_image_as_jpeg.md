@@ -26,6 +26,30 @@
 #### 그림 90.4.33.a114. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 (Mac) (영어)
 ![90-04-33-export_image_as_jpeg(mac)(en)-advanced_options(50%)](https://github.com/wonder13662/gimp/assets/15767104/c83d2999-1127-4fca-9230-9fed82f1b754)
 
+#### 그림 90.4.33.a121. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 서브샘플링 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-subsampling-focus](https://github.com/wonder13662/gimp/assets/15767104/57d939ba-5165-41e1-a80f-700fe6b20e56)
+
+#### 그림 90.4.33.a122. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 서브샘플링 (Windows) (영어)
+![90-04-33-export_image_as_jpeg(windows)(en)-advanced_options-subsampling-focus](https://github.com/wonder13662/gimp/assets/15767104/d9dc3be0-22b2-4522-9674-54b9ed467eec)
+
+#### 그림 90.4.33.a123. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 서브샘플링 (Mac) (우리말)
+![90-04-33-export_image_as_jpeg(mac)(ko)-advanced_options-subsampling(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/b06697ee-eda3-4764-b827-178058b08725)
+
+#### 그림 90.4.33.a124. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 서브샘플링 (Mac) (영어)
+![90-04-33-export_image_as_jpeg(mac)(en)-advanced_options-subsampling(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/6b6458ea-2806-42f2-9a9f-f4a08c4f3bdd)
+
+#### 그림 90.4.33.a131. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - DCT 기법 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-dct_method-focus](https://github.com/wonder13662/gimp/assets/15767104/491c73d1-21e0-40bb-91ab-4fc0f20eee84)
+
+#### 그림 90.4.33.a132. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - DCT 기법 (Windows) (영어)
+![90-04-33-export_image_as_jpeg(windows)(en)-advanced_options-dct_method-focus](https://github.com/wonder13662/gimp/assets/15767104/71945028-d02f-4df6-93b6-eb524bd1ff73)
+
+#### 그림 90.4.33.a133. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - DCT 기법 (Mac) (우리말)
+![90-04-33-export_image_as_jpeg(mac)(ko)-advanced_options-dct_method(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/e403ec20-1172-4694-854c-3ddc2295e7a0)
+
+#### 그림 90.4.33.a134. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - DCT 기법 (Mac) (영어)
+![90-04-33-export_image_as_jpeg(mac)(en)-advanced_options-dct_method(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/c4825b6a-b6da-4879-8d76-9ced93077955)
+
 #### 영상 90.4.33.a201. `이미지 창에 미리 보기 표시(Show preview in image window)`
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a651f208-7406-43e3-bcf5-b89629dbf51c"></video>
 
