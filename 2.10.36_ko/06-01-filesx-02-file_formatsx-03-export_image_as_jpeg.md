@@ -40,7 +40,7 @@
 이 체크박스를 체크하면 대화상자의 화질(Quality) 설정 및 옵션들을 바꿀 때마다 이미지 창(Image Display)에 변경사항이 적용되어 보여집니다. (이미지의 데이터를 실제로 바꾸는 것은 아닙니다. `JPEG` 대화상자를 닫으면 이미지의 원래 상태로 돌아옵니다.)
 
 아래 영상에서 `이미지 창에 미리 보기 표시` 체크박스를 체크한 뒤에 화질을 바꾸면 이미지에서 즉시 반영되는 모습을 확인할 수 있습니다.
-#### 영상 90.4.33.a211. 화질 변화와 파일 크기 빠르게 보기
+#### [영상 90.4.33.a211. 화질 변화와 파일 크기 빠르게 보기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EC%98%81%EC%83%81-90433a211-%ED%99%94%EC%A7%88-%EB%B3%80%ED%99%94%EC%99%80-%ED%8C%8C%EC%9D%BC-%ED%81%AC%EA%B8%B0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B3%B4%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a0f3f4b6-c40d-45a3-8c70-a58238efc2c1"></video>
 
 ### 메타데이터 유지하기(Keep metadata)
