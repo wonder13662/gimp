@@ -85,6 +85,11 @@
 
 [6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a147](https://wonder13662.github.io/gimp/2.10.36_ko/06-01-filesx-02-file_formatsx-03-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a147-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A4%EB%AA%85-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+#### 그림 90.4.33.a148. '이미지를 JPEG로 내보내기' 대화상자 - 설명 - 이미지 속성에서 확인 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-comment-image_properties-comment-focus](https://github.com/wonder13662/gimp/assets/15767104/f219e319-5b01-4a6a-ab3d-44e809637f29)
+
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a148]()
+
 #### 그림 90.4.33.a151. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 최적화 (Windows) (우리말)
 ![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-optimize](https://github.com/wonder13662/gimp/assets/15767104/006ec18a-fa60-4b19-8c54-87216d331949)
 
