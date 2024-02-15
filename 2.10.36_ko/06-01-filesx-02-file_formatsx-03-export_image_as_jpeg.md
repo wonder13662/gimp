@@ -75,7 +75,7 @@
 
 이미지에 첨부될 설명을 수정할 수 있습니다. 한글 입력도 가능합니다.
 
-입력한 설명은 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `이미지` → `이미지 속성` → `설명(Comment)`에서 확인할 수 있습니다.
+입력한 설명은 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `이미지` → `이미지 성질` → `설명(Comment)`에서 확인할 수 있습니다.
 #### 그림 90.4.33.a148. '이미지를 JPEG로 내보내기' 대화상자 - 설명 - 이미지 속성에서 확인 (Windows) (우리말)
 ![90-04-33-export_image_as_jpeg(windows)(ko)-comment-image_properties-comment-focus](https://github.com/wonder13662/gimp/assets/15767104/f219e319-5b01-4a6a-ab3d-44e809637f29)
 
