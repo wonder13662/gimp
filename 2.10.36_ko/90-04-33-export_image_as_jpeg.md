@@ -16,6 +16,7 @@
 
 #### 그림 90.4.33.a111. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 (Windows) (우리말)
 ![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options](https://github.com/wonder13662/gimp/assets/15767104/670a2bf9-6396-4f11-a566-82d9d27c7cdd)
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a111](https://wonder13662.github.io/gimp/2.10.36_ko/06-01-filesx-02-file_formatsx-03-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a111-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.33.a112. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 (Windows) (영어)
 ![90-04-33-export_image_as_jpeg(windows)(en)-advanced_options](https://github.com/wonder13662/gimp/assets/15767104/12e176fe-ca08-4006-bde0-2bfd85fc7f05)
