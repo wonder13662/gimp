@@ -1,8 +1,8 @@
 # 6.1.2.3. 이미지를 JPEG로 내보내기
 `JPEG` 파일들은 `.jpg`, `.JPG`, 또는 `.jpeg`의 파일 확장자를 가집니다. `JPEG`는 매우 널리 쓰이는 이미지 파일 유형입니다. `JPEG`는 이미지 압축이 매우 효과적이고, 이미지 품질의 손실이 적습니다. 다른 이미지 형식으로는 `JPEG`의 압축률에 따라갈 수 없습니다. 하지만 `JPEG`는 투명도와 여러 개의 레이어를 사용할 수 없습니다.
 
-#### 그림 90.4.33.a111. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options](https://github.com/wonder13662/gimp/assets/15767104/670a2bf9-6396-4f11-a566-82d9d27c7cdd)
+#### [그림 90.4.33.a111. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a111-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options](https://github.com/wonder13662/gimp/assets/15767104/670a2bf9-6396-4f11-a566-82d9d27c7cdd)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a111-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 [다른 운영체제와 언어의 '이미지를 JPEG로 내보내기(Export Image as JPEG)' 대화상자 - 고급 설정 확인하기]()
 
@@ -133,8 +133,8 @@
 
 #### 서브샘플링(Subsampling)
 
-#### 그림 90.4.33.a121. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 서브샘플링 (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-subsampling-focus](https://github.com/wonder13662/gimp/assets/15767104/57d939ba-5165-41e1-a80f-700fe6b20e56)
+#### [그림 90.4.33.a121. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 서브샘플링 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a121-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---%EC%84%9C%EB%B8%8C%EC%83%98%ED%94%8C%EB%A7%81-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-subsampling-focus](https://github.com/wonder13662/gimp/assets/15767104/57d939ba-5165-41e1-a80f-700fe6b20e56)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a121-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---%EC%84%9C%EB%B8%8C%EC%83%98%ED%94%8C%EB%A7%81-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 사람의 눈은 밝기의 변화에 비해 색상의 변화에는 둔감합니다. 이에 따라 밝기 정보와 색상 정보를 분리하여 색상 정보만을 압축하면 사람의 눈은 약간 다른 색이라도 같은 색상으로 느끼게 할 수 있습니다. 이를 통해 색상 정보의 용량을 크게 절약할 수 있습니다. 이 과정을 [크로마 서브샘플링(Chroma subsampling)](https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A1%9C%EB%A7%88_%EC%84%9C%EB%B8%8C%EC%83%98%ED%94%8C%EB%A7%81)이라고 합니다. 색차 정보를 명도 정보보다 줄여서 이미지를 인코딩하는 방식입니다. 이렇게 하기 위한 3가지 방법이 있습니다.
 
@@ -151,8 +151,8 @@
 
 #### DCT 기법(DCT method)
 
-#### 그림 90.4.33.a131. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - DCT 기법 (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-dct_method-focus](https://github.com/wonder13662/gimp/assets/15767104/491c73d1-21e0-40bb-91ab-4fc0f20eee84)
+#### [그림 90.4.33.a131. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - DCT 기법 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a131-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---dct-%EA%B8%B0%EB%B2%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-dct_method-focus](https://github.com/wonder13662/gimp/assets/15767104/491c73d1-21e0-40bb-91ab-4fc0f20eee84)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a131-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---dct-%EA%B8%B0%EB%B2%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 DCT는 [이산 코사인 변환(discrete cosine transform)](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%82%B0_%EC%BD%94%EC%82%AC%EC%9D%B8_%EB%B3%80%ED%99%98)의 약자이며 공간 영역을 주파수 영역으로 옮기는 JPEG 알고리즘의 첫번째 과정입니다. `부동형(float)`, `정수형(integer)` - 기본값, `빠른 정수형(fast integer)`의 옵션이 있습니다.
 
