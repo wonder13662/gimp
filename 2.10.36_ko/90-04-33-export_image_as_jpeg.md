@@ -50,6 +50,41 @@
 #### 그림 90.4.33.a134. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - DCT 기법 (Mac) (영어)
 ![90-04-33-export_image_as_jpeg(mac)(en)-advanced_options-dct_method(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/c4825b6a-b6da-4879-8d76-9ced93077955)
 
+#### 그림 90.4.33.a141. '이미지를 JPEG로 내보내기' 대화상자 - 화질 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-focus-quality](https://github.com/wonder13662/gimp/assets/15767104/bed7ef5d-8fa2-4bb2-b9c8-4d898925381a)
+
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a141]()
+
+#### 그림 90.4.33.a142. '이미지를 JPEG로 내보내기' 대화상자 - 원본 이미지의 화질 설정값 사용 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-focus-use_quality_setting_from_original_image](https://github.com/wonder13662/gimp/assets/15767104/60e03d6a-4d44-48e0-b117-0218ba81f414)
+
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a142]()
+
+#### 그림 90.4.33.a143. '이미지를 JPEG로 내보내기' 대화상자 - 이미지 창에 미리 보기 표시 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-focus-show_preview_in_image_window](https://github.com/wonder13662/gimp/assets/15767104/a94cfd81-681b-4729-89b3-71155d2707b1)
+
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a143]()
+
+#### 그림 90.4.33.a144. '이미지를 JPEG로 내보내기' 대화상자 - 메타데이터 유지하기 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-focus-keep_metadata](https://github.com/wonder13662/gimp/assets/15767104/a2afaf3a-5ad5-4492-9f31-ea88272db903)
+
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a144]()
+
+#### 그림 90.4.33.a145. '이미지를 JPEG로 내보내기' 대화상자 - 미리 보기 저장 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-focus-save_thumbnail](https://github.com/wonder13662/gimp/assets/15767104/f7f8b955-cbac-41db-9603-0144f9b79c6d)
+
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a145]()
+
+#### 그림 90.4.33.a146. '이미지를 JPEG로 내보내기' 대화상자 - 색상 프로필 저장 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-focus-save_color_profile](https://github.com/wonder13662/gimp/assets/15767104/158c0db7-6d73-4c21-a6e5-702fd310205b)
+
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a146]()
+
+#### 그림 90.4.33.a147. '이미지를 JPEG로 내보내기' 대화상자 - 설명 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-focus-comment](https://github.com/wonder13662/gimp/assets/15767104/efeb9ea3-e94c-4076-a1fc-d6bff72a08e4)
+
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a147]()
+
 #### 영상 90.4.33.a201. `이미지 창에 미리 보기 표시(Show preview in image window)`
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a651f208-7406-43e3-bcf5-b89629dbf51c"></video>
 
