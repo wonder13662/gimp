@@ -31,6 +31,8 @@
 #### 그림 90.4.33.a121. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 서브샘플링 (Windows) (우리말)
 ![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-subsampling-focus](https://github.com/wonder13662/gimp/assets/15767104/57d939ba-5165-41e1-a80f-700fe6b20e56)
 
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a121](https://wonder13662.github.io/gimp/2.10.36_ko/06-01-filesx-02-file_formatsx-03-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a121-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---%EC%84%9C%EB%B8%8C%EC%83%98%ED%94%8C%EB%A7%81-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
 #### 그림 90.4.33.a122. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 서브샘플링 (Windows) (영어)
 ![90-04-33-export_image_as_jpeg(windows)(en)-advanced_options-subsampling-focus](https://github.com/wonder13662/gimp/assets/15767104/d9dc3be0-22b2-4522-9674-54b9ed467eec)
 
@@ -42,6 +44,8 @@
 
 #### 그림 90.4.33.a131. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - DCT 기법 (Windows) (우리말)
 ![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-dct_method-focus](https://github.com/wonder13662/gimp/assets/15767104/491c73d1-21e0-40bb-91ab-4fc0f20eee84)
+
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a131](https://wonder13662.github.io/gimp/2.10.36_ko/06-01-filesx-02-file_formatsx-03-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a131-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---dct-%EA%B8%B0%EB%B2%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.33.a132. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - DCT 기법 (Windows) (영어)
 ![90-04-33-export_image_as_jpeg(windows)(en)-advanced_options-dct_method-focus](https://github.com/wonder13662/gimp/assets/15767104/71945028-d02f-4df6-93b6-eb524bd1ff73)
