@@ -81,8 +81,8 @@
 
 #### 최적화(Optimize)
 
-#### 그림 90.4.33.a151. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 최적화 (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-optimize](https://github.com/wonder13662/gimp/assets/15767104/006ec18a-fa60-4b19-8c54-87216d331949)
+#### [그림 90.4.33.a151. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 최적화 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a151-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---%EC%B5%9C%EC%A0%81%ED%99%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-optimize](https://github.com/wonder13662/gimp/assets/15767104/006ec18a-fa60-4b19-8c54-87216d331949)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a151-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---%EC%B5%9C%EC%A0%81%ED%99%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 이 체크박스를 체크하면, "엔트로피 부호화 인자(entropy encoding parameters)"들의 최적화를 합니다. 결과물은 보통 크기가 더 작은 파일입니다. 하지만 만드는 데 시간이 더 걸립니다.
 
@@ -90,15 +90,15 @@
 
 #### 부드럽게(Smoothing)
 
-#### 그림 90.4.33.a152. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 부드럽게 (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-smoothing](https://github.com/wonder13662/gimp/assets/15767104/6fc95981-c200-4cf7-a07b-54081af410d3)
+#### [그림 90.4.33.a152. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 부드럽게 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a152-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-smoothing](https://github.com/wonder13662/gimp/assets/15767104/6fc95981-c200-4cf7-a07b-54081af410d3)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a152-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 `JPG` 압축은 쓸모없는 부산물을 만듭니다. 이 체크박스를 켜면, 이미지를 내보낼 때 이 부산물을 줄이고 부드럽게 만들어 줍니다. 하지만 어느 정도는 흐려지는 효과가 생깁니다.
 
 #### 산술 부호화 사용(Use arithmetic coding)
 
-#### 그림 90.4.33.a153. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 산술 부호화 사용 (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-use_arithmetic_coding](https://github.com/wonder13662/gimp/assets/15767104/98022f25-e9b5-4767-a185-93d74e6fafb4)
+#### [그림 90.4.33.a153. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 산술 부호화 사용 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a153-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---%EC%82%B0%EC%88%A0-%EB%B6%80%ED%98%B8%ED%99%94-%EC%82%AC%EC%9A%A9-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-use_arithmetic_coding](https://github.com/wonder13662/gimp/assets/15767104/98022f25-e9b5-4767-a185-93d74e6fafb4)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a153-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---%EC%82%B0%EC%88%A0-%EB%B6%80%ED%98%B8%ED%99%94-%EC%82%AC%EC%9A%A9-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 이 체크박스를 체크하면 산술 부호화(Arithmetic encoding)을 사용합니다. 산술 부호화는 엔트로피 부호화(entropy encoding)의 형태 중 하나이며 무손실 데이터 압축 알고리즘입니다. GIMP 2.10 버전 이후로 이미지를 `JPEG`로 내보낼 때 사용합니다. 산술 부호화를 사용한 이미지는 5 - 10% 정도 더 작습니다. 하지만 오래된 소프트웨어에서 이런 이미지들을 여는 데 문제가 생길 수 있습니다.
 
@@ -106,22 +106,22 @@
 
 #### 재시작 표식 사용(Use restart markers)
 
-#### 그림 90.4.33.a154. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 재시작 표식 사용 (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-use_restart_marker](https://github.com/wonder13662/gimp/assets/15767104/69f0385a-86c5-43e5-a434-8cdbfa1c27b1)
+#### [그림 90.4.33.a154. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 재시작 표식 사용 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a154-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---%EC%9E%AC%EC%8B%9C%EC%9E%91-%ED%91%9C%EC%8B%9D-%EC%82%AC%EC%9A%A9-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-use_restart_marker](https://github.com/wonder13662/gimp/assets/15767104/69f0385a-86c5-43e5-a434-8cdbfa1c27b1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a154-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---%EC%9E%AC%EC%8B%9C%EC%9E%91-%ED%91%9C%EC%8B%9D-%EC%82%AC%EC%9A%A9-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 이 체크박스를 체크하면 이미지 파일에서 읽어들이는 조각 단위의 재시작 표식(마커)를 쓸 수 있습니다. 만약 이미지를 웹페이지에서 읽어들이는데 네트워크가 끊어져서 이미지 로딩이 중단된다면, 네트워크가 회복되고나서 이 재시작 표식(마커)를 사용해 다음에 읽어들일 조각을 알아내서 이미지를 계속 읽어들일 수 있습니다.
 
 #### 간격(MCU 행)(Interval (MCU rows))
 
-#### 그림 90.4.33.a155. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 간격(MCU 행) (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-interval](https://github.com/wonder13662/gimp/assets/15767104/c2c09675-c5a0-4ac0-a332-7da1a716b80e)
+#### [그림 90.4.33.a155. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 간격(MCU 행) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a155-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---%EA%B0%84%EA%B2%A9mcu-%ED%96%89-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-interval](https://github.com/wonder13662/gimp/assets/15767104/c2c09675-c5a0-4ac0-a332-7da1a716b80e)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a155-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---%EA%B0%84%EA%B2%A9mcu-%ED%96%89-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 `JPEG` 이미지들은 MCU(Minimum Coding Unit)라고 하는 연이어 있는 압축된 사각형 타일들로 저장됩니다. 이 타일들의 크기를 픽셀 단위로 설정할 수 있습니다.
 
 #### 점진적으로 표시(Progressive)
 
-#### 그림 90.4.33.a156. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 점진적으로 표시 (Windows) (우리말)
-![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-progressive](https://github.com/wonder13662/gimp/assets/15767104/41c8db31-a757-4247-a5ef-7089774a9e6f)
+#### [그림 90.4.33.a156. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - 점진적으로 표시 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a156-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%91%9C%EC%8B%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-focus-progressive](https://github.com/wonder13662/gimp/assets/15767104/41c8db31-a757-4247-a5ef-7089774a9e6f)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-33-export_image_as_jpeg.html#%EA%B7%B8%EB%A6%BC-90433a156-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-jpeg%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89-%EC%84%A4%EC%A0%95---%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%91%9C%EC%8B%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 이 체크박스를 체크하면, 느린 네트워크에서 이미지를 다운로드할 때 점진적으로 이미지가 표시되도록 이미지 파일 안에 이미지 조각들로 저장이 됩니다. `JPG`의 "점진적으로 표시" 옵션은 `GIF`의 인터레이스(interlace) 옵션과 같은 목적으로 만들어 졌습니다. 안타깝게도 "점진적으로 표시" 옵션을 사용하면 이 옵션을 사용하지 않았을 때보다 파일 크기가 좀 더 커집니다.
 
