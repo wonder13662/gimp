@@ -133,7 +133,7 @@
 
 [3.4.4. 이미지 압축하기 - 영상 90.4.33.a211](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-04-compressing-images.html#%EC%98%81%EC%83%81-90433a211-%ED%99%94%EC%A7%88-%EB%B3%80%ED%99%94%EC%99%80-%ED%8C%8C%EC%9D%BC-%ED%81%AC%EA%B8%B0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B3%B4%EA%B8%B0)
 
-[6.1.2.3. 이미지를 JPEG로 내보내기 - 영상 90.4.33.a211]()
+[6.1.2.3. 이미지를 JPEG로 내보내기 - 영상 90.4.33.a211](https://wonder13662.github.io/gimp/2.10.36_ko/06-01-filesx-02-file_formatsx-03-export_image_as_jpeg.html#%EC%98%81%EC%83%81-90433a211-%ED%99%94%EC%A7%88-%EB%B3%80%ED%99%94%EC%99%80-%ED%8C%8C%EC%9D%BC-%ED%81%AC%EA%B8%B0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B3%B4%EA%B8%B0)
 
 #### [영상 90.4.34.a113. 'Export As...' 전체 과정](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-34-export_as.html#%EC%98%81%EC%83%81-90434a113-export-as-%EC%A0%84%EC%B2%B4-%EA%B3%BC%EC%A0%95)
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/48f1ccae-f4b9-4695-b676-ab8f57c463b0"></video>
