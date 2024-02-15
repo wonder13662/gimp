@@ -94,7 +94,11 @@
 [위키피디아 - 크로마 서브샘플링](https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A1%9C%EB%A7%88_%EC%84%9C%EB%B8%8C%EC%83%98%ED%94%8C%EB%A7%81)
 
 #### DCT 기법(DCT method)
-DCT는 "이산 코사인 변환(discrete cosine transform)"의 약자이며 공간 영역을 주파수 영역으로 옮기는 JPEG 알고리즘의 첫번째 과정입니다. `부동형(float)`, `정수형(integer)` - 기본값, `빠른 정수형(fast integer)`의 옵션이 있습니다.
+
+#### 그림 90.4.33.a131. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 - DCT 기법 (Windows) (우리말)
+![90-04-33-export_image_as_jpeg(windows)(ko)-advanced_options-dct_method-focus](https://github.com/wonder13662/gimp/assets/15767104/491c73d1-21e0-40bb-91ab-4fc0f20eee84)
+
+DCT는 [이산 코사인 변환(discrete cosine transform)](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%82%B0_%EC%BD%94%EC%82%AC%EC%9D%B8_%EB%B3%80%ED%99%98)의 약자이며 공간 영역을 주파수 영역으로 옮기는 JPEG 알고리즘의 첫번째 과정입니다. `부동형(float)`, `정수형(integer)` - 기본값, `빠른 정수형(fast integer)`의 옵션이 있습니다.
 
 1. `부동형(float)`
    - `부동형(float)` 방식은 `정수형(integer)` 방식보다 조금 더 정확한 결과를 얻을 수 있습니다. 하지만 부동소수점 연산이 매우 빠른 장비를 가지고 있지 않다면 연산 과정이 훨씬 더 느립니다. 또한 부동소수점 연산은 장비마다 다르기 때문에 장비별로 다른 결과를 얻을 수도 있습니다. 하지만, `정수형(integer)` 방식은 어디서든 동일한 계산 결과를 얻을 수 있습니다.
@@ -102,6 +106,8 @@ DCT는 "이산 코사인 변환(discrete cosine transform)"의 약자이며 공�
    - 이 방식은 `부동형(float)` 방식보다는 빠르지만, 정확도는 떨어집니다.
 3. `빠른 정수형(fast integer)`
    - 이 방식은 위 두가지 방식보다 계산 속도는 가장 빠르지만, 정확도는 가장 떨어집니다.
+
+[위키피디아 - 이산 코사인 변환](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%82%B0_%EC%BD%94%EC%82%AC%EC%9D%B8_%EB%B3%80%ED%99%98)
 
 ## 다른 페이지로 가기
 
