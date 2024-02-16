@@ -20,7 +20,7 @@
 #### 그림 90.4.32.a111. `이미지를 색인 색상으로 변환` 대화상자 - 흑백(1비트) 팔레트 사용 (Windows) (우리말)
 ![90-04-32-indexed_color_conversion(windows)(ko)-focus-use_black_and_white_palette](https://github.com/wonder13662/gimp/assets/15767104/10c9fc28-e330-430a-8a8f-70d752eb7162)
 
-[6.1.2.5. TIFF로 이미지 내보내기 - 그림 90.4.32.a111]()
+[6.1.2.5. TIFF로 이미지 내보내기 - 그림 90.4.32.a111](https://wonder13662.github.io/gimp/2.10.36_ko/06-01-filesx-02-file_formatsx-05-export_image_as_tiff.html#%EA%B7%B8%EB%A6%BC-90432a111-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%83%89%EC%9D%B8-%EC%83%89%EC%83%81%EC%9C%BC%EB%A1%9C-%EB%B3%80%ED%99%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%9D%91%EB%B0%B11%EB%B9%84%ED%8A%B8-%ED%8C%94%EB%A0%88%ED%8A%B8-%EC%82%AC%EC%9A%A9-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 

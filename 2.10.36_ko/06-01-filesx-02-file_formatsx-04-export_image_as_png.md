@@ -102,7 +102,7 @@
 #### [그림 90.4.45.a132. `이미지를 PNG로 내보내기` 대화상자 - 색상 프로필 저장 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a132-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81-%ED%94%84%EB%A1%9C%ED%95%84-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-45-export_image_as_png(windows)(ko)-focus-save_color_profile](https://github.com/wonder13662/gimp/assets/15767104/8c5e9086-96cf-4692-a341-0d9f83feab89)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a132-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81-%ED%94%84%EB%A1%9C%ED%95%84-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-(TODO 설명 추가 필요)
+이 체크박스가 체크되면 색상 프로필(color profile)이 내보내는 `PNG` 이미지에 저장됩니다.
 
 ## 기본값 저장(Save Default)
 
