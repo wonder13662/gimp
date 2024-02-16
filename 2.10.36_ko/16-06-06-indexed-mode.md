@@ -1,4 +1,3 @@
-# 16.6.6. Indexed mode
 # 16.6.6. 인덱스 모드
 
 ### [Home](./00-home.md)

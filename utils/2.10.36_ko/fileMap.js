@@ -1622,7 +1622,8 @@ module.exports = {
       ],
       [
         '16-06-06-indexed-mode.md', 
-        '16.6.6. Indexed mode'
+        '16.6.6. Indexed mode',
+        '16.6.6. 인덱스 모드',
       ],
       [
         '16-06-07-precision.md', 

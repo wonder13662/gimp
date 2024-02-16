@@ -33,42 +33,62 @@
 #### [그림 90.4.45.a124. `이미지를 PNG로 내보내기` 대화상자 - 레이어 오프셋 저장 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a124-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%98%A4%ED%94%84%EC%85%8B-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-45-export_image_as_png(windows)(ko)-focus-save_layer_offset](https://github.com/wonder13662/gimp/assets/15767104/0e2e0325-28b7-4b8b-bf29-fe1bb1132387)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a124-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%98%A4%ED%94%84%EC%85%8B-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+`PNG`는 `oFFs chunk`라고 하는 오프셋 값을 지원합니다. `oFFs chunk`는 위치 정보를 가지고 있습니다. 아쉽게도, `PNG`의 `oFFs chunk`은 GIMP(김프)에서는 정상적으로 지원되지 않습니다. 만약 설정한다면, 다른 어플리케이션과 호환할 수 없습니다. 이 문제는 꽤 오랫동안 개선되지 않고 있습니다. 그러므로 이 체크박스를 활성화 하지 않는 것을 권장합니다. 대신 `PNG`로 내보내기 전에 레이어를 하나로 합친다면 이 문제를 피할 수 있습니다.
+
 ## 해상도 저장(Save resolution)
 
 #### [그림 90.4.45.a125. `이미지를 PNG로 내보내기` 대화상자 - 해상도 저장 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a125-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%95%B4%EC%83%81%EB%8F%84-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-45-export_image_as_png(windows)(ko)-focus-save_resolution](https://github.com/wonder13662/gimp/assets/15767104/79f18587-46ad-4586-a23c-0a2c3f2b5761)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a125-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%95%B4%EC%83%81%EB%8F%84-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
+이 체크박스를 체크하면 이미지 해상도를 `ppi` - 인치 당 픽셀 갯수(pixels per inch)로 저장합니다.
 
 ## 생성 시각 저장(Save creation time)
 
 #### [그림 90.4.45.a126. `이미지를 PNG로 내보내기` 대화상자 - 생성 시각 저장 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a126-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%9D%EC%84%B1-%EC%8B%9C%EA%B0%81-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-45-export_image_as_png(windows)(ko)-focus-save_creation_time](https://github.com/wonder13662/gimp/assets/15767104/4168aef3-30fb-4831-a02d-957b6d6b6f19)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a126-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%9D%EC%84%B1-%EC%8B%9C%EA%B0%81-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+이 체크박스를 체크하면 이미지 파일이 저장된 시각을 저장합니다.
+
 ## 설명 저장(Save comment)
 
 #### [그림 90.4.45.a127. `이미지를 PNG로 내보내기` 대화상자 - 설명 저장 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a127-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A4%EB%AA%85-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-45-export_image_as_png(windows)(ko)-focus-save_comment](https://github.com/wonder13662/gimp/assets/15767104/b49ec3a0-2164-42cd-8c94-8dcaf659725a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a127-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A4%EB%AA%85-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
+입력한 설명을 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `이미지` → `이미지 성질` → `설명(Comment)`에서 확인할 수 있습니다.
+
+⚠️ 주의: Windows와 Mac 환경에서 이 체크박스는 비활성화 상태입니다. 그러므로 체크할 수 없습니다.
 
 ## 투명한 픽셀의 색상값 저장(Save color values from transparent pixels)
 
 #### [그림 90.4.45.a128. `이미지를 PNG로 내보내기` 대화상자 - 투명한 픽셀의 색상값 저장 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a128-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%88%AC%EB%AA%85%ED%95%9C-%ED%94%BD%EC%85%80%EC%9D%98-%EC%83%89%EC%83%81%EA%B0%92-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-45-export_image_as_png(windows)(ko)-focus-save_color_value_from_transparent_pixels](https://github.com/wonder13662/gimp/assets/15767104/b72a6107-9b26-4ef3-964a-9174923072db)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a128-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%88%AC%EB%AA%85%ED%95%9C-%ED%94%BD%EC%85%80%EC%9D%98-%EC%83%89%EC%83%81%EA%B0%92-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-## Pixelformat
+이 체크박스가 체크되면, 픽셀이 완전히 투명이더라도 색상값이 저장됩니다. 이 동작은 단일 레이어일때만 가능합니다. 여러 개의 레이어로 이루어진 이미지가 단일 레이어의 파일 유형으로 내보내진다면, GIMP(김프)는 투명 픽셀에서 색상값을 유지할 수 없습니다.
+
+(TODO 좀 더 이해하기 쉽게 바뀌어야 함. 그리고 투명한 픽셀 값이 실제로 유용하게 쓰이는 경우는 무엇일까?)
+
+## 픽셀포맷(Pixelformat)
 
 #### [그림 90.4.45.a111. `이미지를 PNG로 내보내기` 대화상자 - Pixelformat (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a111-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---pixelformat-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-45-export_image_as_png(windows)(ko)-pixelformat-focus](https://github.com/wonder13662/gimp/assets/15767104/76687c0c-a96b-4b39-81fc-0990df8f9fbe)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a111-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---pixelformat-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 [다른 운영체제와 언어의 `이미지를 PNG로 내보내기` 대화상자 - Pixelformat 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a112-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---pixelformat-windows-%EC%98%81%EC%96%B4)
 
+기본적으로 `PNG` 이미지는 GIMP(김프)에서 작업중인 이미지와 비슷한 설정의 픽셀포맷(pixelformat)으로 내보냅니다. 보통은 이 방식으로 내보내면 됩니다. 하지만 때로는 구체적인 출력 유형으로 설정해야 할 경우도 있습니다. RGB 또는 Grayscale 채널당 8비트 혹은 16비트로 설정하거나 알파채널을 포함하거나 없어버리는 경우도 있습니다. 이런 경우에 픽셀포맷에서 적절한 출력 유형을 설정해주시면 됩니다.
+
 ## 압축 레벨(Compression level)
 
 #### [그림 90.4.45.a129. `이미지를 PNG로 내보내기` 대화상자 - 압축 레벨 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a129-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%95%95%EC%B6%95-%EB%A0%88%EB%B2%A8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-45-export_image_as_png(windows)(ko)-focus-compression_level](https://github.com/wonder13662/gimp/assets/15767104/2a139a3e-81fd-4759-8503-8a1d3aa7bd24)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a129-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%95%95%EC%B6%95-%EB%A0%88%EB%B2%A8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+압축할 경우 손실이 없기 때문에, 압축 레벨을 9보다 낮게 설정하는 경우는 느린 컴퓨터에서 압축 과정이 너무 오래 걸리는 것 외에는 없습니다. 압축을 되돌리는 과정도 걱정할 필요는 없습니다. 압축 레벨과 상관없이 빠르게 처리됩니다.
+
 ## 메타데이터 유지하기(Keep metadata)
 
 #### [그림 90.4.45.a130. `이미지를 PNG로 내보내기` 대화상자 - 메타데이터 유지하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a130-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-45-export_image_as_png(windows)(ko)-focus-keep_metadata](https://github.com/wonder13662/gimp/assets/15767104/cb3f5c7f-a714-41e5-b051-a4055f982533)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a130-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
+이 체크박스를 체크하면 로딩한 이미지가 `Exif`, `XMP`, `IPTC` 메타데이터를 가지고 있는 경우, `PNG`로 내보내기할 때 함께 유지됩니다.
 
 ## 섬네일 저장(Save thumbnail)
 
@@ -88,6 +108,13 @@
 
 #### [그림 90.4.45.a133. `이미지를 PNG로 내보내기` 대화상자 - 기본값 저장 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a133-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B8%B0%EB%B3%B8%EA%B0%92-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-45-export_image_as_png(windows)(ko)-focus-save_default](https://github.com/wonder13662/gimp/assets/15767104/83d1ae7f-218b-4f8e-a26d-656d5c420402)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a133-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B8%B0%EB%B3%B8%EA%B0%92-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
+이 버튼을 클릭하면 현재 대화상자의 설정을 저장합니다. 나중에 기본값 불러오기(Load Defaults) 버튼을 눌러 저장된 설정을 가져올 수 있습니다.
+
+> 🗒️ 참고
+> `PNG` 포맷은 인덱스 모드의 이미지를 지원합니다. 적은 색상을 쓰면 더 작은 크기의 파일이 됩니다. 이 특성은 웹 이미지를 만들 때 유용합니다. [16.6.6. 인덱스 모드](./16-06-06-indexed-mode.md)를 참고해주세요.
+> 
+> 컴퓨터는 8 bit로 이루어진 `Byte`를 기본 단위로 동작합니다. 1 byte는 256색을 지원하는데, 최소 1 byte 이상이 사용되기 때문에 색상수를 256개 이하로 줄여도 파일 크기를 줄이는데에는 큰 도움이 되지 않습니다. 그리고 `PNG8` 포맷은 `GIF`와 마찬가지로 투명도 여부를 표시하도록 투명도에 1 bit만 사용합니다.
 
 ## 다른 페이지로 가기
 
