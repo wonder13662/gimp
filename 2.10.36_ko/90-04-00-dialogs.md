@@ -193,49 +193,72 @@
 [<img width="240" alt="그림 90.4.a28. 상황판(Dashboard)" src="https://github.com/wonder13662/gimp/assets/15767104/af816df2-6864-4188-aed7-b8b5d713ee25">](./90-04-28-dashboard.md)
 
 ### [90.4.29. 이미지 비율 조정(Scale Image)](./90-04-29-scale_image.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.29.a101. `이미지 비율 조정` 대화상자 (Windows) (우리말)
+![그림 90.4.29.a101. `이미지 비율 조정` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/b88ded56-3fe1-4009-84ce-aa0939259794)
 
 ### [90.4.30. 인쇄 해상도 설정(Set Image Print Resolution)](./90-04-30-set_image_print_resolution.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.30.a101 인쇄 해상도 설정 대화상자 (Windows) (우리말)
+![90-04-30-set_image_print_resolution(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/6f4138fe-b944-4a86-bd46-9b30ddd4181c)
 
 ### [90.4.31. 이미지 속성(Image Properties)](./90-04-31-image_properties.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.31.a101. `이미지 속성` 대화상자 (Windows) (우리말)
+![그림 90.4.31.a101. `이미지 속성` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/f703fc45-fe75-4cb5-bd04-c009c145ef1e)
 
 ### [90.4.32. 이미지를 색인 색상으로 변환(Convert Image to Indexed Colors)](./90-04-32-convert_image_to_indexed_colors.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.32.a101. `이미지를 색인 색상으로 변환` 대화상자 (Windows) (우리말)
+![그림 90.4.32.a101. `이미지를 색인 색상으로 변환` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/309f2a53-e806-4d69-bb89-22799ea04368)
 
 ### [90.4.33. 이미지를 JPEG로 내보내기(Export Image as JPEG)](./90-04-33-export_image_as_jpeg.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.33.a101. '이미지를 JPEG로 내보내기' 대화상자 (Windows) (우리말)
+![그림 90.4.33.a101. '이미지를 JPEG로 내보내기' 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/b1e96240-69ca-44e6-90a5-782059a2d383)
 
 ### [90.4.34. 이미지 내보내기(Export As...)](./90-04-34-export_as.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.34.a101. `Export As...` 대화상자 (Windows) (우리말)
+![90-04-34-export_as(windows)(ko)(w720)](https://github.com/wonder13662/gimp/assets/15767104/b633f0c9-d50d-42f3-b43d-9e7a848ff01e)
 
 ### [90.4.35. 레이어 경계 크기(Layer Boundary Size...)](./90-04-35-layer_to_boundary_size.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.35.a101. `레이어 경계 크기` 대화상자 (Windows) (우리말)
+![90-04-35-layer_to_boundary_size(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/e85a3f18-db98-44a4-9a2e-b1be86828c4d)
 
 ### [90.4.36. 레이어 크기 조정(Scale Layer...)](./90-04-36-scale_layer.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.36.a101. `레이어 크기 조정` 대화상자 (Windows) (우리말)
+![90-04-36-scale_layer(ko)](https://github.com/wonder13662/gimp/assets/15767104/2425d28c-3011-4c27-afed-728c962aff00)
 
 ### [90.4.37. 새 이미지 만들기(Create a New Image)](./90-04-37-create_a_new_image.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.37.a101. `새 이미지 만들기` 대화상자 (Windows) (우리말)
+![90-04-37-create_a_new_image(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/4dec9acc-8261-45c9-9223-48db1f819154)
 
 ### [90.4.38. 이미지 열기(Create a New Image)](./90-04-38-open_image.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.38.a101. `이미지 열기` 대화상자 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/208d13e1-6dd5-482a-be16-3288a358895d)
 
 ### [90.4.39. 포스트스크립트 가져오기(Import from PostScript)](./90-04-39-import_from_postscript.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.39.a101. `포스트스크립트 가져오기` 대화상자 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-extra_dialog-postscript](https://github.com/wonder13662/gimp/assets/15767104/b31fc9f9-07e1-4315-a4a2-6c7dcf601c68)
 
 ### [90.4.40. PDF 가져오기(Import from PDF)](./90-04-40-import_from_pdf.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.40.a101. `PDF 가져오기` 대화상자 (Windows) (우리말)
+![90-04-38-open_image(windows)(ko)-extra_dialog-pdf](https://github.com/wonder13662/gimp/assets/15767104/43a4c258-15c8-4070-806a-538078b8fd23)
 
 ### [90.4.41. 위치 열기(Open Location)](./90-04-41-open_location.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.41.a101. `위치 열기` 대화상자 (Windows) (우리말)
+![90-04-41-open_location(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/606fa2a9-9f74-4bb8-a475-2e78623584ee)
 
 ### [90.4.42. 뷰 닫기(Close View)](./90-04-42-close_view.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.42.a101. `뷰 닫기` 대화상자 (Windows) (우리말)
+![90-04-42-close_view(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/310282c7-ac1e-42ca-8741-78fd81577bc2)
 
 ### [90.4.43. 이미지를 GIF로 내보내기(Export Image as GIF)](./90-04-43-export_image_as_gif.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.43.a101. `이미지를 GIF로 내보내기` 대화상자 (Windows) (우리말)
+![90-04-43-export_image_as_gif(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/8fed8899-7e30-4e49-b170-9f263fdc4843)
+
+### [90.4.44. 이미지를 HEIF로 내보내기(Export Image as HEIF)](./90-04-44-export_image_as_heif.md)
+#### 그림 90.4.44.a101. `이미지를 HEIF로 내보내기` 대화상자 (Windows) (우리말)
+![90-04-44-export_image_as_heif(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/138ff527-f520-452f-a402-7acc0afbc0b5)
+
+### [90.4.45. 이미지를 PNG로 내보내기(Export Image as PNG)](./90-04-45-export_image_as_png.md)
+#### 그림 90.4.45.a101. `이미지를 PNG로 내보내기` 대화상자 (Windows) (우리말)
+![90-04-45-export_image_as_png(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/093a94ce-fef7-4d2b-ba35-dca536da6ee2)
 
 ***
 

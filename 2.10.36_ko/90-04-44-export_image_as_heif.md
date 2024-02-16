@@ -17,7 +17,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.45. 이미지를 PNG로 내보내기(Export Image as PNG)](./90-04-45-export_image_as_png.md)
 
 [⬅️ 이전: 90.4.43. 이미지를 GIF로 내보내기(Export Image as GIF)](./90-04-43-export_image_as_gif.md)
 

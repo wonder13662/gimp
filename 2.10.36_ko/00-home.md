@@ -1142,6 +1142,10 @@
 
 [90.4.43. 이미지를 GIF로 내보내기(Export Image as GIF)](./90-04-43-export_image_as_gif.md)
 
+[90.4.44. 이미지를 HEIF로 내보내기(Export Image as HEIF)](./90-04-44-export_image_as_heif.md)
+
+[90.4.45. 이미지를 PNG로 내보내기(Export Image as PNG)](./90-04-45-export_image_as_png.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
