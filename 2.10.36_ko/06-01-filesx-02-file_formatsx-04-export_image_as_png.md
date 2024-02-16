@@ -26,6 +26,8 @@
 #### [그림 90.4.45.a123. `이미지를 PNG로 내보내기` 대화상자 - 감마값 저장 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a123-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B0%90%EB%A7%88%EA%B0%92-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-45-export_image_as_png(windows)(ko)-focus-save_gamma](https://github.com/wonder13662/gimp/assets/15767104/5cc5a47d-6211-4132-8af6-78e85497b10c)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a123-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B0%90%EB%A7%88%EA%B0%92-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+[감마 보정](./19-glossaryx-gamma_correction.md)은 컴퓨터가 색상의 값을 해석한 결과에 대한 차이를 고치는 것입니다. 감마 보정은 `PNG` 이미지에 사용중인 디스플레이 장치의 감마 정보를 저장합니다. 이 감마 정보를 이용해서 다른 컴퓨터에서 이 `PNG` 이미지를 볼 때, 이미지가 너무 어둡거나 밝지 않도록 보정할 수 있습니다.
+
 ## 레이어 오프셋 저장(Save layer offset)
 
 #### [그림 90.4.45.a124. `이미지를 PNG로 내보내기` 대화상자 - 레이어 오프셋 저장 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a124-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%98%A4%ED%94%84%EC%85%8B-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
