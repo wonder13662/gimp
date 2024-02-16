@@ -260,6 +260,9 @@
 #### 그림 90.4.45.a101. `이미지를 PNG로 내보내기` 대화상자 (Windows) (우리말)
 ![90-04-45-export_image_as_png(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/093a94ce-fef7-4d2b-ba35-dca536da6ee2)
 
+### [90.4.46. 이미지를 TIFF로 내보내기(Export Image as TIFF)](./90-04-46-export_image_as_tiff.md)
+(TODO 이미지 추가)
+
 ***
 
 ## 기능이 쓰인 곳
