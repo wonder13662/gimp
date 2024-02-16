@@ -17,6 +17,9 @@
 #### 그림 90.4.32.a104. `이미지를 색인 색상으로 변환` 대화상자 (Mac) (영어)
 ![그림 90.4.32.a104. `이미지를 색인 색상으로 변환` 대화상자 (Mac) (영어)](https://github.com/wonder13662/gimp/assets/15767104/4111dfa8-156c-45f4-ad3c-42d9313e496a)
 
+#### 그림 90.4.32.a111. `이미지를 색인 색상으로 변환` 대화상자 - 흑백(1비트) 팔레트 사용 (Windows) (우리말)
+![90-04-32-indexed_color_conversion(windows)(ko)-focus-use_black_and_white_palette](https://github.com/wonder13662/gimp/assets/15767104/10c9fc28-e330-430a-8a8f-70d752eb7162)
+
 ***
 
 ## 다른 페이지로 가기
