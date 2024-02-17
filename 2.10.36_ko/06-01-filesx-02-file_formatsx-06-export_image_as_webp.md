@@ -10,6 +10,13 @@
 #### [그림 90.4.47.a121. `이미지를 WebP로 내보내기` 대화상자 - 무손실 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-47-export_image_as_webp.html#%EA%B7%B8%EB%A6%BC-90447a121-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-webp%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%AC%B4%EC%86%90%EC%8B%A4-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-47-export_image_as_webp(windows)(ko)-focus-lossless](https://github.com/wonder13662/gimp/assets/15767104/cba2618d-8ef3-4248-8b89-e3b4f4e95a5c)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-47-export_image_as_webp.html#%EA%B7%B8%EB%A6%BC-90447a121-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-webp%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%AC%B4%EC%86%90%EC%8B%A4-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+이 체크박스를 체크하면 이미지는 원본의 이미지 품질을 유지하면서 동시에 `이미지 품질(Image Quality)`과 `알파 품질(Alpha Quality)` 항목을 비활성화시킵니다. 체크박스의 체크를 해제하면 `이미지 품질(Image Quality)`과 `알파 품질(Alpha Quality)` 항목의 설정값을 사용합니다. 이 설정값은 압축 효율은 더 낫지만, 이미지 품질과 데이터 손실에 영향을 줄 수 있습니다. 기본값은 체크박스가 해제된 것입니다.
+
+아래 영상에서 체크박스의 체크를 해제하면 `이미지 품질(Image Quality)`과 `알파 품질(Alpha Quality)` 항목이 활성화되는 모습을 확인할 수 있습니다.
+
+#### 영상 90.4.47.a128. `이미지를 WebP로 내보내기` 대화상자 - 무손실 (Windows) 체크박스 토글 (우리말)
+![90-04-47-export_image_as_webp(windows)(ko)-toggle_lossless](https://github.com/wonder13662/gimp/assets/15767104/a44ef4d0-31ca-45ad-a965-3e1f8b55f338)
+
 ## 이미지 품질(Image quality), 알파 품질(Alpha quality)
 
 #### [그림 90.4.47.a122. `이미지를 WebP로 내보내기` 대화상자 - 이미지 품질, 알파 품질 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-47-export_image_as_webp.html#%EA%B7%B8%EB%A6%BC-90447a122-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-webp%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%92%88%EC%A7%88-%EC%95%8C%ED%8C%8C-%ED%92%88%EC%A7%88-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)

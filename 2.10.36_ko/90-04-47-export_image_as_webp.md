@@ -63,6 +63,9 @@
 
 [6.1.2.6. WebP로 이미지 내보내기 - 그림 90.4.47.a127](https://wonder13662.github.io/gimp/2.10.36_ko/06-01-filesx-02-file_formatsx-06-export_image_as_webp.html#%EA%B7%B8%EB%A6%BC-90447a127-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-webp%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%AF%B8%EB%A6%AC-%EB%B3%B4%EA%B8%B0-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+#### 영상 90.4.47.a128. `이미지를 WebP로 내보내기` 대화상자 - 무손실 (Windows) 체크박스 토글 (우리말)
+![90-04-47-export_image_as_webp(windows)(ko)-toggle_lossless](https://github.com/wonder13662/gimp/assets/15767104/a44ef4d0-31ca-45ad-a965-3e1f8b55f338)
+
 ***
 
 ## 다른 페이지로 가기
