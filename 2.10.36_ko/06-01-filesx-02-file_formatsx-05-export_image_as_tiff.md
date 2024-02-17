@@ -75,21 +75,21 @@ GIMP(김프) 2.10.12 버전부터 `TIFF`로 이미지를 내보낼 때, 레이�
 #### [그림 90.4.46.a117. `이미지를 TIFF로 내보내기` 대화상자 - Exif 데이터 저장 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-46-export_image_as_tiff.html#%EA%B7%B8%EB%A6%BC-90446a117-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-tiff%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---exif-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-46-export_image_as_tiff(windows)(ko)-focus-save_exif_data](https://github.com/wonder13662/gimp/assets/15767104/8e714a1a-1427-49b0-a18c-aa317651d469)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-46-export_image_as_tiff.html#%EA%B7%B8%EB%A6%BC-90446a117-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-tiff%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---exif-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-이 체크박스가 체크되면 `TIFF` 이미지를 내보내때 `Exif` 메타데이터가 함께 저장되어 내보내집니다.
+이 체크박스가 체크되면 `TIFF` 이미지를 내보낼 때 `Exif` 메타데이터가 함께 저장되어 내보내집니다.
 
 ## XMP 데이터 저장(Save XMP data)
 
 #### [그림 90.4.46.a118. `이미지를 TIFF로 내보내기` 대화상자 - XMP 데이터 저장 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-46-export_image_as_tiff.html#%EA%B7%B8%EB%A6%BC-90446a118-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-tiff%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---xmp-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-46-export_image_as_tiff(windows)(ko)-focus-save_xmp_data](https://github.com/wonder13662/gimp/assets/15767104/8f3dcef8-62b5-4fe8-a79c-822273d844c3)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-46-export_image_as_tiff.html#%EA%B7%B8%EB%A6%BC-90446a118-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-tiff%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---xmp-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-이 체크박스가 체크되면 `TIFF` 이미지를 내보내때 `XMP` 메타데이터가 함께 저장되어 내보내집니다.
+이 체크박스가 체크되면 `TIFF` 이미지를 내보낼 때 `XMP` 메타데이터가 함께 저장되어 내보내집니다.
 
 ## IPTC 데이터 저장(Save IPTC data)
 
 #### [그림 90.4.46.a119. `이미지를 TIFF로 내보내기` 대화상자 - IPTC 데이터 저장 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-46-export_image_as_tiff.html#%EA%B7%B8%EB%A6%BC-90446a119-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-tiff%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---iptc-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-46-export_image_as_tiff(windows)(ko)-focus-save_iptc_data](https://github.com/wonder13662/gimp/assets/15767104/f2d85050-2cc3-49a2-bd12-5932baeb8bbb)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-46-export_image_as_tiff.html#%EA%B7%B8%EB%A6%BC-90446a119-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-tiff%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---iptc-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-이 체크박스가 체크되면 `IPTC` 이미지를 내보내때 `XMP` 메타데이터가 함께 저장되어 내보내집니다.
+이 체크박스가 체크되면 `TIFF` 이미지를 내보낼 때 `IPTC` 메타데이터가 함께 저장되어 내보내집니다.
 
 ## 미리 보기 저장(Save thumbnail)
 
