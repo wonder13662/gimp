@@ -261,6 +261,10 @@
 ![90-04-45-export_image_as_png(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/093a94ce-fef7-4d2b-ba35-dca536da6ee2)
 
 ### [90.4.46. 이미지를 TIFF로 내보내기(Export Image as TIFF)](./90-04-46-export_image_as_tiff.md)
+#### 그림 90.4.46.a101. `이미지를 TIFF로 내보내기` 대화상자 (Windows) (우리말)
+![90-04-46-export_image_as_tiff(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/35aed86b-c4ed-4465-b24c-e1992d83939d)
+
+### [90.4.47. 이미지를 WebP로 내보내기(Export Image as WebP)](./90-04-47-export_image_as_webp.md)
 (TODO 이미지 추가)
 
 ***

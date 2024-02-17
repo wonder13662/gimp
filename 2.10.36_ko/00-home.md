@@ -1148,6 +1148,8 @@
 
 [90.4.46. 이미지를 TIFF로 내보내기(Export Image as TIFF)](./90-04-46-export_image_as_tiff.md)
 
+[90.4.47. 이미지를 WebP로 내보내기(Export Image as WebP)](./90-04-47-export_image_as_webp.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
