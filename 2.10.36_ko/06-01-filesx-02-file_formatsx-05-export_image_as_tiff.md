@@ -126,4 +126,4 @@ GIMP(김프) 2.10.12 버전부터 `TIFF`로 이미지를 내보낼 때, 레이�
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-images-out.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-images-out.html#file-tiff-save)

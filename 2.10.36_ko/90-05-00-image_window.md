@@ -84,7 +84,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.47. 이미지를 WebP로 내보내기(Export Image as WebP)](./90-04-47-export_image_as_webp.md)
+[⬅️ 이전: 90.4.48. 이미지를 MNG로 내보내기(Export Image as MNG)](./90-04-48-export_image_as_mng.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

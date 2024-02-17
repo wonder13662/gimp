@@ -69,7 +69,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.48. 이미지를 MNG로 내보내기(Export Image as MNG)](./90-04-48-export_image_as_mng.md)
 
 [⬅️ 이전: 90.4.46. 이미지를 TIFF로 내보내기(Export Image as TIFF)](./90-04-46-export_image_as_tiff.md)
 

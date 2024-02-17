@@ -67,4 +67,4 @@ GIF 설명은 [7비트 ASCII 문자](https://en.wikipedia.org/wiki/ASCII#ASCII_p
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-images-out.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-images-out.html#file-gif-save)
