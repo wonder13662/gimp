@@ -355,11 +355,13 @@ module.exports = {
       ],
       [
         '07-01-the-selection.md', 
-        '7.1. The selection'
+        '7.1. The selection',
+        '7.1. 선택'
       ],
       [
         '07-02-00-creating-and-using-selections.md', 
-        '7.2. Creating and using selections'
+        '7.2. Creating and using selections',
+        '7.2. 선택 만들기와 사용하기'
       ],
       [
         '07-02-01-moving-or-resizing-a-selection.md', 
@@ -377,7 +379,8 @@ module.exports = {
       ],
       [
         '07-03-01-overview.md', 
-        '7.3.1. Overview'
+        '7.3.1. Overview',
+        '7.3.1. 퀵마스크 개요'
       ],
       [
         '07-03-02-properties.md', 
@@ -389,11 +392,13 @@ module.exports = {
       ],
       [
         '07-05-00-paths.md', 
-        '7.5. Paths'
+        '7.5. Paths',
+        '7.5. 경로',
       ],
       [
         '07-05-01-path-creation.md', 
-        '7.5.1. Path creation'
+        '7.5.1. Path creation',
+        '7.5.1. 경로 만들기',
       ],
       [
         '07-05-02-path-properties.md', 
@@ -401,23 +406,28 @@ module.exports = {
       ],
       [
         '07-05-03-paths-and-selections.md', 
-        '7.5.3. Paths and selections'
+        '7.5.3. Paths and selections',
+        '7.5.3. 경로와 선택'
       ],
       [
         '07-05-04-transforming-paths.md', 
-        '7.5.4. Transforming paths'
+        '7.5.4. Transforming paths',
+        '7.5.4. 경로 변형하기'
       ],
       [
         '07-05-05-stroking-a-path.md', 
-        '7.5.5. Stroking a path'
+        '7.5.5. Stroking a path',
+        '7.5.5. 경로따라 그리기'
       ],
       [
         '07-05-06-paths-and-text.md', 
-        '7.5.6. Paths and text'
+        '7.5.6. Paths and text',
+        '7.5.6. 경로와 텍스트'
       ],
       [
         '07-05-07-paths-and-svg-files.md', 
-        '7.5.7. Paths and svg files'
+        '7.5.7. Paths and svg files',
+        '7.5.7. 경로와 SVG 파일'
       ],
       [
         '07-06-brushes.md', 
@@ -426,23 +436,28 @@ module.exports = {
       ],
       [
         '07-07-adding-new-brushes.md', 
-        '7.7. Adding new brushes'
+        '7.7. Adding new brushes',
+        '7.7. 새 붓 추가하기'
       ],
       [
         '07-08-the-gih-dialog-box.md', 
-        '7.8. The GIH dialog box'
+        '7.8. The GIH dialog box',
+        '7.8. GIH 대화상자'
       ],
       [
         '07-09-00-changing-brush-size.md', 
-        '7.9. Changing brush size'
+        '7.9. Changing brush size',
+        '7.9. 붓 크기 바꾸기'
       ],
       [
         '07-09-01-how-to-change-the-size-of-a-brush.md', 
-        '7.9.1. How to change the size of a brush'
+        '7.9.1. How to change the size of a brush',
+        '7.9.1. 붓 크기를 바꾸는 방법',
       ],
       [
         '07-09-02-creating-a-brush-quickly.md', 
-        '7.9.2. Creating a brush quickly'
+        '7.9.2. Creating a brush quickly',
+        '7.9.2. 새 붓 빨리 만들기'
       ],
       [
         '07-10-gradients.md', 
@@ -456,7 +471,8 @@ module.exports = {
       ],
       [
         '07-12-00-palettes.md', 
-        '7.12. Palettes'
+        '7.12. Palettes',
+        '7.12. 팔레트'
       ],
       [
         '07-12-01-colormap.md', 
@@ -464,19 +480,23 @@ module.exports = {
       ],
       [
         '07-13-presets.md', 
-        '7.13. Presets'
+        '7.13. Presets',
+        '7.13. 프리셋'
       ],
       [
         '07-14-00-drawing-simple-objects.md', 
-        '7.14. Drawing simple objects'
+        '7.14. Drawing simple objects',
+        '7.14. 간단한 물체 그리기'
       ],
       [
         '07-14-01-drawing-a-straight-line.md', 
-        '7.14.1. Drawing a straight line'
+        '7.14.1. Drawing a straight line',
+        '7.14.1. 직선 그리기'
       ],
       [
         '07-14-02-creating-a-basic-shape.md', 
-        '7.14.2. Creating a basic shape'
+        '7.14.2. Creating a basic shape',
+        '7.14.2. 기본 도형 그리기'
       ],
       [
         '08-00-combining-images.md', 
