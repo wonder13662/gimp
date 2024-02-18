@@ -3,8 +3,8 @@
 
 아래 이미지로 부드러운 그라디언트를 RGB 모드와 인덱스 모드로 바꾼 것을 비교해 볼 수 있습니다.
 
-#### 그림 90.99.a142. RGB 모드와 인덱스 모드의 그라디언트 비교
-![gradient-color-comparison](https://github.com/wonder13662/gimp/assets/15767104/ac0e1788-95b1-466b-b7b3-b6bf4a216eaa)
+#### [그림 90.99.a142. RGB 모드와 인덱스 모드의 그라디언트 비교](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a142-rgb-%EB%AA%A8%EB%93%9C%EC%99%80-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EB%AA%A8%EB%93%9C%EC%9D%98-%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8-%EB%B9%84%EA%B5%90)
+[![gradient-color-comparison](https://github.com/wonder13662/gimp/assets/15767104/ac0e1788-95b1-466b-b7b3-b6bf4a216eaa)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a142-rgb-%EB%AA%A8%EB%93%9C%EC%99%80-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EB%AA%A8%EB%93%9C%EC%9D%98-%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8-%EB%B9%84%EA%B5%90)
 
 ***
 
