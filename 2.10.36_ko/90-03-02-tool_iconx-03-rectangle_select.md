@@ -6,6 +6,11 @@
 #### 그림 90.3.3.a2. 도구상자 - 사각 선택
 ![그림 90.3.3.a2. 도구상자 - 사각 선택](https://github.com/wonder13662/gimp/assets/15767104/c5be9f26-28a5-4b98-92c3-4ae57a29580e)
 
+#### 그림 90.3.3.a101. 선택(selection)은 점선으로 표시됩니다
+![select-outline](https://github.com/wonder13662/gimp/assets/15767104/2c93d29c-8a0f-492b-8b82-75f14ce0809e)
+
+[7.1. 선택 - 그림 90.3.3.a101]()
+
 ***
 
 ## 다른 페이지로 가기
