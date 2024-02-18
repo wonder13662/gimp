@@ -4,7 +4,7 @@
 아래 이미지로 부드러운 그라디언트를 RGB 모드와 인덱스 모드로 바꾼 것을 비교해 볼 수 있습니다.
 
 #### 그림 90.99.a142. RGB 모드와 인덱스 모드의 그라디언트 비교
-[gradient-color-comparison](https://github.com/wonder13662/gimp/assets/15767104/ac0e1788-95b1-466b-b7b3-b6bf4a216eaa)
+![gradient-color-comparison](https://github.com/wonder13662/gimp/assets/15767104/ac0e1788-95b1-466b-b7b3-b6bf4a216eaa)
 
 ***
 
