@@ -350,7 +350,8 @@ module.exports = {
       ],
       [
         '07-00-painting-with-gimp.md', 
-        '7. Painting with GIMP'
+        '7. Painting with GIMP',
+        '7. GIMP(김프)로 그리기'
       ],
       [
         '07-01-the-selection.md', 

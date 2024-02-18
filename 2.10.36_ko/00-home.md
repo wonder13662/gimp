@@ -198,7 +198,7 @@
 
 [6.2.3. 투명한 부분이 있는 이미지 저장하기](./06-02-03-saving-images-with-transparency.md)
 
-[7. Painting with GIMP](./07-00-painting-with-gimp.md)
+[7. GIMP(김프)로 그리기](./07-00-painting-with-gimp.md)
 
 [8. Combining Images](./08-00-combining-images.md)
 

@@ -1,4 +1,4 @@
-# 7. Painting with GIMP
+# 7. GIMP(김프)로 그리기
 ## 7.1. [The Selection](./07-01-the-selection.md)
 ## 7.2. [Creating and Using Selections](./07-02-00-creating-and-using-selections.md)
 ## 7.3. [The QuickMask](./07-03-00-the-quickmask.md)

@@ -20,12 +20,27 @@
 
 [다른 운영체제와 언어의 `레이어` → `투명` → `알파 채널 추가` 확인하기](./90-01-06-layerx-09-transparencyx-01-add_alpha_channel.md)
 
+`XCF` 파일의 배경 레이어는 지울 수 있습니다. 지운 이후에는 투명한 배경을 볼 수 있습니다.
+
+(TODO 알파 채널을 이용한 좋은 예제와의 연결이 필요하다. 매뉴얼의 내용이 다소 부실하다고 생각됨)
+
+***
+
 ## 다른 페이지로 가기
 
-### [Home](./00-home.md)
-### [Parent: 6.2. Preparing your images for the web](./06-02-00-preparing-your-images-for-the-web.md)
-### [Prev: 6.2.2. Reducing the file size even more](./06-02-02-reducing-the-file-size-even-more.md)
-### [Next: 7.1. The selection](./07-01-the-selection.md)
+[➡️ 다음: 7. GIMP(김프)로 그리기](./07-00-painting-with-gimp.md)
+
+[⬅️ 이전: 6.2.2. 파일 크기를 조금 더 줄이기](./06-02-02-reducing-the-file-size-even-more.md)
+
+[⬆️ 위: 6.2. 웹용 이미지 만들기](./06-02-00-preparing-your-images-for-the-web.md)
+
+[⬆️ 위: 6. GIMP(김프)에서 이미지 내보내기](./06-00-getting-images-out-of-gimp.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-using-web-reducing-file-size.html)
+
+***
 
 ## 관련 정보
 [Gimp-Forum.net: Copying and pasting from the Internet](https://www.gimp-forum.net/Thread-Copying-and-pasting-from-the-Internet)
