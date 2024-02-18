@@ -8,7 +8,9 @@
 #### 그림 90.5.5.a102. (5)퀵마스크 토글 버튼의 위치 (단일창)
 ![그림 90.5.5.a102. (5)퀵마스크 토글 버튼의 위치 (단일창)](https://github.com/wonder13662/gimp/assets/15767104/64879a12-f3e5-47ad-94da-f47653824bc6)
 
-[3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 그림 90.5.5.a102. (5)퀵마스크 토글 버튼의 위치 (단일창)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-05-quickmask-toggle.html#%EA%B7%B8%EB%A6%BC-9055a102-5%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD)
+[3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 그림 90.5.5.a102.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-05-quickmask-toggle.html#%EA%B7%B8%EB%A6%BC-9055a102-5%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD)
+
+[7.1. 선택 - 그림 90.5.5.a102]()
 
 #### 영상 90.5.5.a111. 퀵 마스크 토글하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/74f2db78-a06e-48d8-bcc7-7c99e3d57180"></video>
@@ -23,7 +25,9 @@
 #### 영상 90.5.5.a121. 퀵마스크 적용으로 선택영역 확인하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ecb7111d-e19d-4959-bd35-65dd55af06a0"></video>
 
-[4.2.3. 선택영역 바깥쪽에서 작업을 하려는 경우 - 영상 90.5.5.a121. 퀵마스크 적용으로 선택영역 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-03-you-are-acting-outside-the-selection.html#%EC%98%81%EC%83%81-9055a121-%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%A0%81%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%84%A0%ED%83%9D%EC%98%81%EC%97%AD-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+[4.2.3. 선택영역 바깥쪽에서 작업을 하려는 경우 - 영상 90.5.5.a121](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-03-you-are-acting-outside-the-selection.html#%EC%98%81%EC%83%81-9055a121-%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%A0%81%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%84%A0%ED%83%9D%EC%98%81%EC%97%AD-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+
+[7.1. 선택 - 영상 90.5.5.a121]()
 
 ***
 
