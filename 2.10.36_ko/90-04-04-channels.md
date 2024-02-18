@@ -6,7 +6,7 @@
 #### 그림 90.4.4.a2. 채널 대화상자 - 알파 채널
 ![90-04-04-channels-alpha_channels-focus](https://github.com/wonder13662/gimp/assets/15767104/6a94fd5e-24c4-407a-928c-9f43640ac45b)
 
-[6.2.3. 투명한 부분이 있는 이미지 저장하기 - 그림 90.4.4.a2]()
+[6.2.3. 투명한 부분이 있는 이미지 저장하기 - 그림 90.4.4.a2](https://wonder13662.github.io/gimp/2.10.36_ko/06-02-03-saving-images-with-transparency.html#%EA%B7%B8%EB%A6%BC-9044a2-%EC%B1%84%EB%84%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90)
 
 #### 영상 90.4.4.a101. 채널에 붓 또는 지우개를 사용
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3c33f116-7eed-4e3c-9efa-35bf3b511ab5"></video>
