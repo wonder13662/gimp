@@ -36,8 +36,8 @@
 [![그림 90.3.2.2.a2. 도구상자 - 정렬](https://github.com/wonder13662/gimp/assets/15767104/8d4dc2f9-8480-4ed7-9682-a71e65076e84)](./90-03-02-tool_iconx-02-alignment.md)
 
 ### [90.3.2.3. 도구 아이콘(Tool icon) - 사각 선택(Rectangle select)](./90-03-02-tool_iconx-03-rectangle_select.md)
-#### 그림 90.3.3.a2. 도구상자 - 사각 선택
-[![그림 90.3.3.a2. 도구상자 - 사각 선택](https://github.com/wonder13662/gimp/assets/15767104/c5be9f26-28a5-4b98-92c3-4ae57a29580e)](./90-03-02-tool_iconx-03-rectangle_select.md)
+#### 그림 90.3.2.3.a2. 도구상자 - 사각 선택
+[![그림 90.3.2.3.a2. 도구상자 - 사각 선택](https://github.com/wonder13662/gimp/assets/15767104/c5be9f26-28a5-4b98-92c3-4ae57a29580e)](./90-03-02-tool_iconx-03-rectangle_select.md)
 
 ### [90.3.2.4. 도구 아이콘(Tool icon) - 타원 선택(Ellipse select)](./90-03-02-tool_iconx-04-ellipse_select.md)
 #### 그림 90.3.4.a2. 도구상자 - 타원 선택

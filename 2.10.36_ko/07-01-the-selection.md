@@ -10,7 +10,7 @@
 
 ## "선택(selection)"이란 무엇일까요?
 
-#### [그림 90.3.3.a101. 선택(selection)은 점선으로 표시됩니다](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-03-rectangle_select.html#%EA%B7%B8%EB%A6%BC-9033a101-%EC%84%A0%ED%83%9Dselection%EC%9D%80-%EC%A0%90%EC%84%A0%EC%9C%BC%EB%A1%9C-%ED%91%9C%EC%8B%9C%EB%90%A9%EB%8B%88%EB%8B%A4)
+#### [그림 90.3.2.3.a101. 선택(selection)은 점선으로 표시됩니다](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-03-rectangle_select.html#%EA%B7%B8%EB%A6%BC-9033a101-%EC%84%A0%ED%83%9Dselection%EC%9D%80-%EC%A0%90%EC%84%A0%EC%9C%BC%EB%A1%9C-%ED%91%9C%EC%8B%9C%EB%90%A9%EB%8B%88%EB%8B%A4)
 [![select-outline](https://github.com/wonder13662/gimp/assets/15767104/2c93d29c-8a0f-492b-8b82-75f14ce0809e)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-03-rectangle_select.html#%EA%B7%B8%EB%A6%BC-9033a101-%EC%84%A0%ED%83%9Dselection%EC%9D%80-%EC%A0%90%EC%84%A0%EC%9C%BC%EB%A1%9C-%ED%91%9C%EC%8B%9C%EB%90%A9%EB%8B%88%EB%8B%A4)
 
 꼭 이해하고 넘어가야 할 개념이 있습니다. 보통 만드는 "선택"은 이미지의 일부분이 막혀있는 점선으로 보입니다. 하지만 이는 정확한 표현이 아닙니다. "선택"은 일종의 컨테이너입니다. 이 컨테이너는 선택된 이미지의 안쪽과 선택되지 않은 바깥쪽을 가지고 있습니다.
