@@ -1,6 +1,8 @@
 # 90.1.3.9. 또렷하게(Sharpen)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+#### 90.1.3.8.a101. `선택` → `또렷하게`
+![90-01-03-select(1080)-focus-sharpen](https://github.com/wonder13662/gimp/assets/15767104/55b640bc-7417-4b2a-90b2-f8aaba346979)
+
+[7.1.1. 페더링(Feathering) - 90.1.3.8.a101]()
 
 ***
 

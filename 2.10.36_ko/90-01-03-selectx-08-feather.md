@@ -1,6 +1,9 @@
 # 90.1.3.8. 페더(Feather)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+
+#### 90.1.3.8.a101. `선택` → `페더`
+![90-01-03-select(1080)-focus-feather](https://github.com/wonder13662/gimp/assets/15767104/7773abad-3799-4a2d-98e1-971fd9b158fe)
+
+[7.1.1. 페더링(Feathering) - 90.1.3.8.a101]()
 
 ***
 

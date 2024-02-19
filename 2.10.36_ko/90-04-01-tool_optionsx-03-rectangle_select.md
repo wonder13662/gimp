@@ -1,6 +1,10 @@
 # 90.4.1.3. 사각 선택(Rectangle Select)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+
+#### 그림 90.3.3.a1. 도구상자의 사각 선택의 도구옵션
+<img width="1080" alt="그림 90.3.3.a1. 도구상자의 사각 선택의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/ea9abf7e-e1c4-4bcf-9109-57b8b1f3f97d">
+
+#### 그림 90.4.1.a101. 도구상자의 사각 선택의 도구옵션 - 가장자리 페더 (windows) (우리말)
+![90-03-03-rectangle_select-feather_edges-focus](https://github.com/wonder13662/gimp/assets/15767104/1a24855f-3c21-42de-8d18-9b7630121395)
 
 ***
 
