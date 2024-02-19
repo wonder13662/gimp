@@ -1,8 +1,13 @@
 # 90.1.3.9. 또렷하게(Sharpen)
-#### 90.1.3.9.a101. `선택` → `또렷하게`
+#### 그림 90.1.3.9.a101. `선택` → `또렷하게`
 ![90-01-03-select(1080)-focus-sharpen](https://github.com/wonder13662/gimp/assets/15767104/55b640bc-7417-4b2a-90b2-f8aaba346979)
 
-[7.1.1. 페더링(Feathering) - 90.1.3.8.a101]()
+[7.1.1. 페더링(Feathering) - 그림 90.1.3.9.a101]()
+
+#### 영상 90.1.3.9.a102. `선택` → `또렷하게` 전체 과정
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/133bfb84-569f-4a68-9951-65a4e6b7dc9d"></video>
+
+[7.1.1. 페더링(Feathering) - 영상 90.1.3.9.a102]()
 
 ***
 
