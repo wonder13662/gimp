@@ -62,10 +62,10 @@ use `Layer` → `Mask` → `Add Layer Mask` to add a layer mask to the layer wit
 
 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `레이어` → `마스크` → `레이어 마스크 추가`을 클릭하면, `레이어 마스크 추가` 대화상자가 나옵니다. 이 대화상자에서 `선택`으로 초기화합니다. 그 다음에 `붓`을 사용해서 원하는 투명도로 `선택` 영역에 검은색(검은색으로 칠하면 투명이 됩니다)으로 칠합니다. 상세한 내용은 [15.2.1.4. 레이어 마스크](./15-02-01-layers-dialogx-04-layer_mask.md)를 확인해주세요.
 
-#### 그림 90.4.50.a111. `레이어 마스크 추가` 대화상자 - `선택` (Windows) (우리말)
-![90-04-50-add_layer_mask(windows)(ko)-focus-selection](https://github.com/wonder13662/gimp/assets/15767104/84a8bfde-b6f6-4472-b11c-f7bf3613f6de)
+#### [그림 90.4.50.a111. `레이어 마스크 추가` 대화상자 - `선택` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-50-add_layer_mask.html#%EA%B7%B8%EB%A6%BC-90450a111-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%B6%94%EA%B0%80-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-50-add_layer_mask(windows)(ko)-focus-selection](https://github.com/wonder13662/gimp/assets/15767104/84a8bfde-b6f6-4472-b11c-f7bf3613f6de)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-50-add_layer_mask.html#%EA%B7%B8%EB%A6%BC-90450a111-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%B6%94%EA%B0%80-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-#### 영상 90.1.6.2.a101. 선택 영역에 `레이어 마스크 추가` 뒤에 마스크 칠하기 (Windows)
+#### 영상 90.1.6.8.a102. 선택 영역에 `레이어 마스크 추가` 뒤에 마스크 칠하기 (Windows)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b33bf497-251b-4cb7-828b-22c37908be97"></video>
 
 ## 이미지 배경을 투명으로 만들기
@@ -78,8 +78,8 @@ use `Layer` → `Mask` → `Add Layer Mask` to add a layer mask to the layer wit
 ### 2. 배경 영역 선택
 그리고 [퍼지 선택(Fuzzy selection)](./14-02-05-fuzzy-selection-magic-wand.md)을 사용해서 이미지 안의 배경 영역을 선택하세요.
 
-#### 그림 90.3.2.8.a2. 도구상자 - 퍼지 선택
-![그림 90.3.2.8.a2. 도구상자 - 퍼지 선택](https://github.com/wonder13662/gimp/assets/15767104/9f2fad3e-18f9-43ea-a3ba-a9cb736bc1d5)
+#### [그림 90.3.2.8.a2. 도구상자 - 퍼지 선택](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-08-fuzzy_select.html#%EA%B7%B8%EB%A6%BC-90328a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%ED%8D%BC%EC%A7%80-%EC%84%A0%ED%83%9D)
+[![그림 90.3.2.8.a2. 도구상자 - 퍼지 선택](https://github.com/wonder13662/gimp/assets/15767104/9f2fad3e-18f9-43ea-a3ba-a9cb736bc1d5)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-08-fuzzy_select.html#%EA%B7%B8%EB%A6%BC-90328a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%ED%8D%BC%EC%A7%80-%EC%84%A0%ED%83%9D)
 
 #### 영상 7.1.2.a102. 이미지 안의 배경 영역 선택
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5bdf065c-08c3-4e6d-b7db-b32c8d9f36aa"></video>
@@ -87,8 +87,8 @@ use `Layer` → `Mask` → `Add Layer Mask` to add a layer mask to the layer wit
 ### 3. 배경색 선택
 그 다음에 [색상 추출(Color Picker)](./14-05-03-color-picker.md) 도구를 사용해서 배경색을 선택합니다. 선택한 배경색은 도구상자의 전경색이 됩니다. 
 
-#### 그림 90.3.2.37.a2. 도구상자 - 색상 추출
-![그림 90.3.2.37.a2. 도구상자 - 색상 추출](https://github.com/wonder13662/gimp/assets/15767104/92807e43-d7d2-49ab-89cb-e4e343aa5fd7)
+#### [그림 90.3.2.37.a2. 도구상자 - 색상 추출](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-37-color_picker.html#%EA%B7%B8%EB%A6%BC-903237a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81-%EC%B6%94%EC%B6%9C)
+[![그림 90.3.2.37.a2. 도구상자 - 색상 추출](https://github.com/wonder13662/gimp/assets/15767104/92807e43-d7d2-49ab-89cb-e4e343aa5fd7)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-37-color_picker.html#%EA%B7%B8%EB%A6%BC-903237a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81-%EC%B6%94%EC%B6%9C)
 
 #### 영상 7.1.2.a103. 배경의 색상 추출
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/72becdd4-4f2a-477d-94da-c8bc2fef893e"></video>
@@ -96,7 +96,7 @@ use `Layer` → `Mask` → `Add Layer Mask` to add a layer mask to the layer wit
 ### 4. 색상 지우기로 투명하게 만들기
 [영역 채우기(Bucket Fill)](./14-03-04-bucket-fill.md) 도구를 사용해서 선택한 색으로 채웁니다. "영역 채우기"의 모드를 `색상 지우기(Color Erase)`로 설정합니다. `색상 지우기(Color Erase)`는 선택된 색상의 픽셀을 지웁니다. 그 외의 다른 픽셀들은 부분적으로 지워지고, 색상이 바뀝니다.
 
-#### 그림 90.3.2.21.a2. 도구상자 - 영역 채우기
+#### [그림 90.3.2.21.a2. 도구상자 - 영역 채우기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-21-bucket_fill.html#%EA%B7%B8%EB%A6%BC-903221a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%98%81%EC%97%AD-%EC%B1%84%EC%9A%B0%EA%B8%B0)
 ![그림 90.3.2.21.a2. 도구상자 - 영역 채우기](https://github.com/wonder13662/gimp/assets/15767104/0550285d-2807-4201-87b2-77b5e8cd8278)
 
 #### 영상 7.1.2.a104. 색상 지우기
@@ -107,13 +107,13 @@ use `Layer` → `Mask` → `Add Layer Mask` to add a layer mask to the layer wit
 
 ⚠️ 주의: 알파 채널이 없는 상태에서 지우기를 하면, 지운 부분이 배경색으로 채워집니다.
 
-#### 그림 90.1.2.13.a101. `편집` → `지우기`
-![90-00-image_menu_bar-edit(w1080)-focus-clear](https://github.com/wonder13662/gimp/assets/15767104/194a7e4a-e39b-42bf-9921-222a15ed6166)
+#### [그림 90.1.2.13.a101. `편집` → `지우기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-13-clear.html#%EA%B7%B8%EB%A6%BC-901213a101-%ED%8E%B8%EC%A7%91--%EC%A7%80%EC%9A%B0%EA%B8%B0)
+[![90-00-image_menu_bar-edit(w1080)-focus-clear](https://github.com/wonder13662/gimp/assets/15767104/194a7e4a-e39b-42bf-9921-222a15ed6166)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-13-clear.html#%EA%B7%B8%EB%A6%BC-901213a101-%ED%8E%B8%EC%A7%91--%EC%A7%80%EC%9A%B0%EA%B8%B0)
 
-#### 영상 90.1.2.13.a102. 알파 채널없이 선택 영역 지우기
+#### [영상 90.1.2.13.a102. 알파 채널없이 선택 영역 지우기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-13-clear.html#%EC%98%81%EC%83%81-901213a102-%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90%EC%97%86%EC%9D%B4-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD-%EC%A7%80%EC%9A%B0%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5842da0e-e8a3-439f-b2fa-275e268841e7"></video>
 
-#### 영상 90.1.2.13.a103. 알파 채널을 추가한 뒤 선택 영역 지우기
+#### [영상 90.1.2.13.a103. 알파 채널을 추가한 뒤 선택 영역 지우기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-13-clear.html#%EC%98%81%EC%83%81-901213a103-%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90%EC%9D%84-%EC%B6%94%EA%B0%80%ED%95%9C-%EB%92%A4-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD-%EC%A7%80%EC%9A%B0%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1964123e-fecc-47b3-acca-8cb10f36673d"></video>
 
 ***

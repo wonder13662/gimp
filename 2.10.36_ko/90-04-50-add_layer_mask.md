@@ -15,7 +15,7 @@
 #### 그림 90.4.50.a111. `레이어 마스크 추가` 대화상자 - `선택` (Windows) (우리말)
 ![90-04-50-add_layer_mask(windows)(ko)-focus-selection](https://github.com/wonder13662/gimp/assets/15767104/84a8bfde-b6f6-4472-b11c-f7bf3613f6de)
 
-[7.1.2. 부분적으로 투명한 선택 만들기 - 그림 90.4.50.a111]()
+[7.1.2. 부분적으로 투명한 선택 만들기 - 그림 90.4.50.a111](https://wonder13662.github.io/gimp/2.10.36_ko/07-01-the-selectionx-02-making_a_selection_partially_transparent.html#%EA%B7%B8%EB%A6%BC-90450a111-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%B6%94%EA%B0%80-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 
