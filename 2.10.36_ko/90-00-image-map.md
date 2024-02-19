@@ -972,6 +972,8 @@
 
 [90.4.48. 이미지를 MNG로 내보내기(Export Image as MNG)](./90-04-48-export_image_as_mng.md)
 
+[90.4.49. 선택 영역 페더(Feather Selection)](./90-04-49-feather_selection.md)
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

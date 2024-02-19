@@ -23,6 +23,9 @@
 #### 90.1.3.8.a101. `선택` → `페더`
 ![90-01-03-select(1080)-focus-feather](https://github.com/wonder13662/gimp/assets/15767104/7773abad-3799-4a2d-98e1-971fd9b158fe)
 
+#### 그림 90.4.49.a101. `선택 영역 페더` 대화상자 (Windows) (우리말)
+![90-04-49-feather_selection(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b468219f-1b07-4ded-97e5-d6df5278c41b)
+
 (TODO) 시연 영상 첨부하기
 
 ## 이미지 메뉴 바의 `선택` → `또렷하게` 사용하기
