@@ -20,18 +20,20 @@
 ## 이미지 메뉴 바의 `선택` → `페더` 사용하기
 언제든지 `선택`에 `페더`을 적용할 수 있습니다. 심지어 예리한 `선택`에도 `페더`을 적용할 수 있습니다. [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `선택` → `페더`를 클릭해서 `선택 영역 페더(Feather Selection)` 대화상자를 엽니다. 대화상자의 `선택 영역 페더 량(Feather selection by)`를 설정하고 `OK` 버튼을 누릅니다.
 
-#### 90.1.3.8.a101. `선택` → `페더`
-![90-01-03-select(1080)-focus-feather](https://github.com/wonder13662/gimp/assets/15767104/7773abad-3799-4a2d-98e1-971fd9b158fe)
+#### [90.1.3.8.a101. `선택` → `페더`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-08-feather.html#90138a101-%EC%84%A0%ED%83%9D--%ED%8E%98%EB%8D%94)
+[![90-01-03-select(1080)-focus-feather](https://github.com/wonder13662/gimp/assets/15767104/7773abad-3799-4a2d-98e1-971fd9b158fe)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-08-feather.html#90138a101-%EC%84%A0%ED%83%9D--%ED%8E%98%EB%8D%94)
 
-#### 그림 90.4.49.a101. `선택 영역 페더` 대화상자 (Windows) (우리말)
-![90-04-49-feather_selection(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b468219f-1b07-4ded-97e5-d6df5278c41b)
+#### [그림 90.4.49.a101. `선택 영역 페더` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-49-feather_selection.html#%EA%B7%B8%EB%A6%BC-90449a101-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD-%ED%8E%98%EB%8D%94-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-49-feather_selection(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b468219f-1b07-4ded-97e5-d6df5278c41b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-49-feather_selection.html#%EA%B7%B8%EB%A6%BC-90449a101-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD-%ED%8E%98%EB%8D%94-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
+[다른 운영체제와 언어의 `선택 영역 페더` 대화상자 확인하기](./90-04-49-feather_selection.md)
 
 (TODO) 시연 영상 첨부하기
 
 ## 이미지 메뉴 바의 `선택` → `또렷하게` 사용하기
 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `선택` → `또렷하게`를 클릭해서 흐릿한 선택을 예리하고 또렷한 선택(0 또는 255)으로 바꿀 수 있습니다.
 
-#### 90.1.3.8.a101. `선택` → `또렷하게`
+#### 90.1.3.9.a101. `선택` → `또렷하게`
 ![90-01-03-select(1080)-focus-sharpen](https://github.com/wonder13662/gimp/assets/15767104/55b640bc-7417-4b2a-90b2-f8aaba346979)
 
 (TODO) 시연 영상 첨부하기
