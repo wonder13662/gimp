@@ -8,7 +8,10 @@
 #### 그림 90.3.2.28.a2. 도구상자 - 지우개
 ![그림 90.3.2.28.a2. 도구상자 - 지우개](https://github.com/wonder13662/gimp/assets/15767104/8e448288-3d80-449d-ac03-89757a056a1b)
 
-(TODO 시연 영상)
+아래 영상에서 지우개 도구의 투명도를 바꿔 선택 영역 안쪽을 지우는 것을 확인해보세요.
+
+#### 영상 90.3.2.28.a122. 투명도 조정한 지우개 도구로 선택영역 지우기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2569f6bc-62eb-4783-afa5-16f4f5522fc6"></video>
 
 ## Complext selection
 use `Select` → `Float` to create a floating selection. This create a new layer with the selection called "Floating Selection" ([Float](./16-04-05-float.md)). Set the opacity slider in the Layer Dialog to the desired opacity. Then anchor the selection: outside the selection, the mouse pointer includes an anchor. When you click while the mouse pointer includes the anchor, the floating selection disappears from the Layer Dialog and the selection is at the right place and partially transparent (anchoring works this way only if a selection tool is activated: you can also use the Anchor Layer command in the context menu by right clicking on the selected layer in the layer dialog).
