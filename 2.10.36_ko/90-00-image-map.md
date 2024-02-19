@@ -994,6 +994,8 @@
 
 [90.4.49. 선택 영역 페더(Feather Selection)](./90-04-49-feather_selection.md)
 
+[90.4.50. 레이어 마스크 추가(Add Layer Mask)](./90-04-50-add_layer_mask.md)
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

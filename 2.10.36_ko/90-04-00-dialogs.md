@@ -273,6 +273,10 @@
 ![90-04-48-export_image_as_mng(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7066528c-47b4-41d3-9efd-f2a311aed943)
 
 ### [90.4.49. 선택 영역 페더(Feather Selection)](./90-04-49-feather_selection.md)
+#### 그림 90.4.49.a101. `선택 영역 페더` 대화상자 (Windows) (우리말)
+![90-04-49-feather_selection(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b468219f-1b07-4ded-97e5-d6df5278c41b)
+
+### [90.4.50. 레이어 마스크 추가(Add Layer Mask)](./90-04-50-add_layer_mask.md)
 (TODO 이미지 추가)
 
 ***

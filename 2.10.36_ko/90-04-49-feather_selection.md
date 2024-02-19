@@ -17,7 +17,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.50. 레이어 마스크 추가(Add Layer Mask)](./90-04-50-add_layer_mask.md)
 
 [⬅️ 이전: 90.4.48. 이미지를 MNG로 내보내기(Export Image as MNG)](./90-04-48-export_image_as_mng.md)
 
