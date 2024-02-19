@@ -10,6 +10,9 @@
 #### 그림 90.1.6.3.1.a102. `레이어` → `투명` → `알파 채널 추가` (Mac)
 ![그림 90.1.6.3.1.a102. `레이어` → `투명` → `알파 채널 추가` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/1152070e-e431-4b9a-9f38-4cf219f66151)
 
+#### 영상 7.1.2.a101. 알파 채널 추가
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0769da7a-654a-4185-bf7d-396e69346085"></video>
+
 ***
 
 ## 다른 페이지로 가기
