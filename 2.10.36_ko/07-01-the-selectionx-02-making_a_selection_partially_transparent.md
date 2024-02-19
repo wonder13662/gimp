@@ -98,8 +98,19 @@ use `Layer` → `Mask` → `Add Layer Mask` to add a layer mask to the layer wit
 #### 영상 7.1.2.a104. 색상 지우기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/57683b6c-4c5f-4637-b22e-4c3582fbf8d2"></video>
 
-## ?
-The simplest method is to use `Edit` → `Clear`, which gives complete transparency to a selection.
+## 지우기
+가장 간단한 방법은 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `편집` → `지우기`를 클릭하는 것입니다. 지우면 선택 영역이 완전한 투명이 됩니다. 아래 영상으로 알파 채널이 없는 경우와 있는 경우의 지우기 결과를 확인해보세요.
+
+⚠️ 주의: 알파 채널이 없는 상태에서 지우기를 하면, 지운 부분이 배경색으로 채워집니다.
+
+#### 그림 90.1.2.13.a101. `편집` → `지우기`
+![90-00-image_menu_bar-edit(w1080)-focus-clear](https://github.com/wonder13662/gimp/assets/15767104/194a7e4a-e39b-42bf-9921-222a15ed6166)
+
+#### 영상 90.1.2.13.a102. 알파 채널없이 선택 영역 지우기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5842da0e-e8a3-439f-b2fa-275e268841e7"></video>
+
+#### 영상 90.1.2.13.a103. 알파 채널을 추가한 뒤 선택 영역 지우기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1964123e-fecc-47b3-acca-8cb10f36673d"></video>
 
 ***
 
