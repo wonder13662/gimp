@@ -69,11 +69,13 @@ use `Layer` → `Mask` → `Add Layer Mask` to add a layer mask to the layer wit
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b33bf497-251b-4cb7-828b-22c37908be97"></video>
 
 ## 이미지 배경을 투명으로 만들기
+### 1. 알패 채널 추가
 이미지의 단색의 배경색을 투명으로 만들려면, 알파 채널을 추가하세요. 
 
 #### 영상 7.1.2.a101. 알파 채널 추가
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0769da7a-654a-4185-bf7d-396e69346085"></video>
 
+### 2. 배경 영역 선택
 그리고 [퍼지 선택(Fuzzy selection)](./14-02-05-fuzzy-selection-magic-wand.md)을 사용해서 이미지 안의 배경 영역을 선택하세요.
 
 #### 그림 90.3.2.8.a2. 도구상자 - 퍼지 선택
@@ -82,6 +84,7 @@ use `Layer` → `Mask` → `Add Layer Mask` to add a layer mask to the layer wit
 #### 영상 7.1.2.a102. 이미지 안의 배경 영역 선택
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5bdf065c-08c3-4e6d-b7db-b32c8d9f36aa"></video>
 
+### 3. 배경색 선택
 그 다음에 [색상 추출(Color Picker)](./14-05-03-color-picker.md) 도구를 사용해서 배경색을 선택합니다. 선택한 배경색은 도구상자의 전경색이 됩니다. 
 
 #### 그림 90.3.2.37.a2. 도구상자 - 색상 추출
@@ -90,6 +93,7 @@ use `Layer` → `Mask` → `Add Layer Mask` to add a layer mask to the layer wit
 #### 영상 7.1.2.a103. 배경의 색상 추출
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/72becdd4-4f2a-477d-94da-c8bc2fef893e"></video>
 
+### 4. 색상 지우기로 투명하게 만들기
 [영역 채우기(Bucket Fill)](./14-03-04-bucket-fill.md) 도구를 사용해서 선택한 색으로 채웁니다. "영역 채우기"의 모드를 `색상 지우기(Color Erase)`로 설정합니다. `색상 지우기(Color Erase)`는 선택된 색상의 픽셀을 지웁니다. 그 외의 다른 픽셀들은 부분적으로 지워지고, 색상이 바뀝니다.
 
 #### 그림 90.3.2.21.a2. 도구상자 - 영역 채우기
