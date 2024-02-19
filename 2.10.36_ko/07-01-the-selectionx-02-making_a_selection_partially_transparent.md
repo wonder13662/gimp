@@ -16,7 +16,8 @@
 ## 떠있는 선택(floating selection) 사용하기
 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `선택` → `띄우기`는 떠있는 선택(floating selection)을 만듭니다. 이 명령은 [`떠있는 선택(floating selection)`](./16-04-05-float.md)이라고 하는 새로운 레이어를 만듭니다. 
 
-(TODO 이미지 메뉴 바의 선택 - 띄우기 이미지 추가하기)
+#### 그림 90.1.3.4.a101. `선택` → `띄우기`
+![그림 90.1.3.4.a101. `선택` → `띄우기`](https://github.com/wonder13662/gimp/assets/15767104/8080d2be-dc54-4cf0-80ed-e13dfdacfb9a)
 
 레이어 대화상자의 투명도 슬라이더를 조정해서 원하는 투명도로 만들 수 있습니다.
 
