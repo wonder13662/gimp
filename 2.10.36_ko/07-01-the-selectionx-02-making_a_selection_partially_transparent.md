@@ -5,12 +5,12 @@
 ## 지우개 도구 사용하기
 지우개 도구로 원하는 투명도를 줄 수 있습니다.
 
-#### 그림 90.3.2.28.a2. 도구상자 - 지우개
-![그림 90.3.2.28.a2. 도구상자 - 지우개](https://github.com/wonder13662/gimp/assets/15767104/8e448288-3d80-449d-ac03-89757a056a1b)
+#### [그림 90.3.2.28.a2. 도구상자 - 지우개](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-28-eraser.html#%EA%B7%B8%EB%A6%BC-903228a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%A7%80%EC%9A%B0%EA%B0%9C)
+[![그림 90.3.2.28.a2. 도구상자 - 지우개](https://github.com/wonder13662/gimp/assets/15767104/8e448288-3d80-449d-ac03-89757a056a1b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-28-eraser.html#%EA%B7%B8%EB%A6%BC-903228a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%A7%80%EC%9A%B0%EA%B0%9C)
 
 아래 영상에서 지우개 도구의 투명도를 바꿔 선택 영역 안쪽을 지우는 것을 확인해보세요.
 
-#### 영상 90.3.2.28.a122. 투명도 조정한 지우개 도구로 선택영역 지우기
+#### [영상 90.3.2.28.a122. 투명도 조정한 지우개 도구로 선택영역 지우기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-28-eraser.html#%EC%98%81%EC%83%81-903228a122-%ED%88%AC%EB%AA%85%EB%8F%84-%EC%A1%B0%EC%A0%95%ED%95%9C-%EC%A7%80%EC%9A%B0%EA%B0%9C-%EB%8F%84%EA%B5%AC%EB%A1%9C-%EC%84%A0%ED%83%9D%EC%98%81%EC%97%AD-%EC%A7%80%EC%9A%B0%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2569f6bc-62eb-4783-afa5-16f4f5522fc6"></video>
 
 ## 떠있는 선택(floating selection) 사용하기
@@ -34,12 +34,12 @@
 
 ⚠️ 주의: 닻(anchor) 아이콘은 Windows에서는 표시되지만, Mac에서는 표시되지 않습니다.
 
-#### 영상 90.4.3.a181. "떠있는 선택(Floating selection)" 바깥의 마우스 커서의 닻(Anchor) 아이콘
-![90-04-03-layers(windows)(ko)-floating_selection-anchor_icon(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/593587b7-b4f5-402c-94c9-9e404840d47c)
+#### [영상 90.4.3.a181. "떠있는 선택(Floating selection)" 바깥의 마우스 커서의 닻(Anchor) 아이콘](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EC%98%81%EC%83%81-9043a181-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9Dfloating-selection-%EB%B0%94%EA%B9%A5%EC%9D%98-%EB%A7%88%EC%9A%B0%EC%8A%A4-%EC%BB%A4%EC%84%9C%EC%9D%98-%EB%8B%BBanchor-%EC%95%84%EC%9D%B4%EC%BD%98)
+[![90-04-03-layers(windows)(ko)-floating_selection-anchor_icon(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/593587b7-b4f5-402c-94c9-9e404840d47c)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EC%98%81%EC%83%81-9043a181-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9Dfloating-selection-%EB%B0%94%EA%B9%A5%EC%9D%98-%EB%A7%88%EC%9A%B0%EC%8A%A4-%EC%BB%A4%EC%84%9C%EC%9D%98-%EB%8B%BBanchor-%EC%95%84%EC%9D%B4%EC%BD%98)
 
 아래 영상에서 선택 영역의 바깥쪽을 클릭하는 과정을 확인할 수 있습니다.
 
-#### 영상 90.4.3.a182. "떠있는 선택(Floating selection)" 바깥을 클릭해서 고정하기
+#### [영상 90.4.3.a182. "떠있는 선택(Floating selection)" 바깥을 클릭해서 고정하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EC%98%81%EC%83%81-9043a182-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9Dfloating-selection-%EB%B0%94%EA%B9%A5%EC%9D%84-%ED%81%B4%EB%A6%AD%ED%95%B4%EC%84%9C-%EA%B3%A0%EC%A0%95%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7383c9e9-060f-4b97-8205-49ac68134863"></video>
 
 ### 3. 레이어 대화상자의 컨텍스트 메뉴 사용
