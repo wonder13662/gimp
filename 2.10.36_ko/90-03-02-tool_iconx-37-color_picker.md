@@ -6,6 +6,11 @@
 #### 그림 90.3.2.37.a2. 도구상자 - 색상 추출
 ![그림 90.3.2.37.a2. 도구상자 - 색상 추출](https://github.com/wonder13662/gimp/assets/15767104/92807e43-d7d2-49ab-89cb-e4e343aa5fd7)
 
+[7.1.2. 부분적으로 투명한 선택 만들기 - 그림 90.3.2.37.a2]()
+
+#### 영상 7.1.2.a103. 배경의 색상 추출
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/72becdd4-4f2a-477d-94da-c8bc2fef893e"></video>
+
 ***
 
 ## 다른 페이지로 가기

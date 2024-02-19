@@ -56,8 +56,8 @@
 [![그림 90.3.2.7.a2. 도구상자 - 전경 선택](https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21)](./90-03-02-tool_iconx-07-foreground_select.md)
 
 ### [90.3.2.8. 도구 아이콘(Tool icon) - 퍼지 선택(Fuzzy select)](./90-03-02-tool_iconx-08-fuzzy_select.md)
-#### 그림 90.3.8.a2. 도구상자 - 퍼지 선택
-[![그림 90.3.8.a2. 도구상자 - 퍼지 선택](https://github.com/wonder13662/gimp/assets/15767104/9f2fad3e-18f9-43ea-a3ba-a9cb736bc1d5)](./90-03-02-tool_iconx-08-fuzzy_select.md)
+#### 그림 90.3.2.8.a2. 도구상자 - 퍼지 선택
+[![그림 90.3.2.8.a2. 도구상자 - 퍼지 선택](https://github.com/wonder13662/gimp/assets/15767104/9f2fad3e-18f9-43ea-a3ba-a9cb736bc1d5)](./90-03-02-tool_iconx-08-fuzzy_select.md)
 
 ### [90.3.2.9. 도구 아이콘(Tool icon) - 색상으로 선택(Select by color)](./90-03-02-tool_iconx-09-select_by_color.md)
 #### 그림 90.3.9.a2. 도구상자 - '색상으로 선택'
