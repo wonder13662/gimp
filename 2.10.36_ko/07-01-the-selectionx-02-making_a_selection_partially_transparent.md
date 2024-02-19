@@ -67,7 +67,7 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b33bf497-251b-4cb7-828b-22c37908be97"></video>
 
 ## 이미지 배경을 투명으로 만들기
-### 1. 알패 채널 추가
+### 1. 알파 채널 추가
 이미지의 단색의 배경색을 투명으로 만들려면, 알파 채널을 추가하세요. 
 
 #### 영상 7.1.2.a101. 알파 채널 추가
