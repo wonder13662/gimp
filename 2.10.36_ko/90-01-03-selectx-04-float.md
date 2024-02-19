@@ -6,7 +6,7 @@
 
 [4.2.1. 떠있는 선택(floating selection) - 그림 90.1.3.4.a101](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-01-there-is-a-floating-selection.html#%EA%B7%B8%EB%A6%BC-90134a101-%EC%84%A0%ED%83%9D--%EB%9D%84%EC%9A%B0%EA%B8%B0)
 
-[7.1.2. 부분적으로 투명한 선택 만들기 - 그림 90.1.3.4.a101]()
+[7.1.2. 부분적으로 투명한 선택 만들기 - 그림 90.1.3.4.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-01-the-selectionx-02-making_a_selection_partially_transparent.html#%EA%B7%B8%EB%A6%BC-90134a101-%EC%84%A0%ED%83%9D--%EB%9D%84%EC%9A%B0%EA%B8%B0)
 
 #### 영상 90.1.3.4.a111. 단축키로 떠있는 선택 만들기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/96771078-ba0f-4aee-a5cd-b49153aa6c6c"></video>
