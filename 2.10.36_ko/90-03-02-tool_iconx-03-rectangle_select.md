@@ -14,7 +14,7 @@
 #### 그림 90.3.2.3.a102. 선택의 페더 적용 유무 비교
 ![90-04-01-tool_optionsx-03-rectangle_select-feather_comparison_animation](https://github.com/wonder13662/gimp/assets/15767104/654431dd-7223-489f-8f89-392116226b34)
 
-[7.1.1. 페더링(Feathering) - 그림 90.3.2.3.a102]()
+[7.1.1. 페더링(Feathering) - 그림 90.3.2.3.a102](https://wonder13662.github.io/gimp/2.10.36_ko/07-01-the-selectionx-01-feathering.html#%EA%B7%B8%EB%A6%BC-90323a102-%EC%84%A0%ED%83%9D%EC%9D%98-%ED%8E%98%EB%8D%94-%EC%A0%81%EC%9A%A9-%EC%9C%A0%EB%AC%B4-%EB%B9%84%EA%B5%90)
 
 ***
 

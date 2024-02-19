@@ -3,6 +3,8 @@
 #### 그림 90.4.49.a101. `선택 영역 페더` 대화상자 (Windows) (우리말)
 ![90-04-49-feather_selection(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b468219f-1b07-4ded-97e5-d6df5278c41b)
 
+[7.1.1. 페더링(Feathering) - 그림 90.4.49.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-01-the-selectionx-01-feathering.html#%EA%B7%B8%EB%A6%BC-90449a101-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD-%ED%8E%98%EB%8D%94-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
 #### 그림 90.4.49.a102. `선택 영역 페더` 대화상자 (Windows) (영어)
 ![90-04-49-feather_selection(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/7f29cda4-9dbb-4820-968f-72ef8884d23a)
 

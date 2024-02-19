@@ -3,12 +3,12 @@
 #### 그림 90.1.3.8.a101. `선택` → `페더`
 ![90-01-03-select(1080)-focus-feather](https://github.com/wonder13662/gimp/assets/15767104/7773abad-3799-4a2d-98e1-971fd9b158fe)
 
-[7.1.1. 페더링(Feathering) - 그림 90.1.3.8.a101]()
+[7.1.1. 페더링(Feathering) - 그림 90.1.3.8.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-01-the-selectionx-01-feathering.html#%EA%B7%B8%EB%A6%BC-90138a101-%EC%84%A0%ED%83%9D--%ED%8E%98%EB%8D%94)
 
 #### 영상 90.1.3.8.a102. `선택` → `페더` 전체 과정
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/442f2320-e848-4da9-9d18-c05634337d82"></video>
 
-[7.1.1. 페더링(Feathering) - 영상 90.1.3.8.a102]()
+[7.1.1. 페더링(Feathering) - 영상 90.1.3.8.a102](https://wonder13662.github.io/gimp/2.10.36_ko/07-01-the-selectionx-01-feathering.html#%EC%98%81%EC%83%81-90138a102-%EC%84%A0%ED%83%9D--%ED%8E%98%EB%8D%94-%EC%A0%84%EC%B2%B4-%EA%B3%BC%EC%A0%95)
 
 ***
 
