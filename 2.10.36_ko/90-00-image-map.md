@@ -1,6 +1,26 @@
 # 90. 이미지 맵
 각 메뉴들의 미리보기 이미지를 제공하여 찾으려는 메뉴의 관련 내용을 빠르게 확인할 수 있도록 도와줍니다.
 
+***
+
+## 바로가기
+
+[90.1. 이미지 메뉴 바(Image Menu Bar)](https://wonder13662.github.io/gimp/2.10.36_ko/90-00-image-map.html#901-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94image-menu-bar)
+
+[90.2. 기본 설정(Preference)](https://wonder13662.github.io/gimp/2.10.36_ko/90-00-image-map.html#902-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95preference)
+
+[90.3. 도구상자(Toolbox)](https://wonder13662.github.io/gimp/2.10.36_ko/90-00-image-map.html#903-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90toolbox)
+
+[90.4. 대화상자(Dialogs)](https://wonder13662.github.io/gimp/2.10.36_ko/90-00-image-map.html#904-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90dialogs)
+
+[90.5. 이미지 창(Image Window)](https://wonder13662.github.io/gimp/2.10.36_ko/90-00-image-map.html#905-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BDimage-window)
+
+[90.90. 개념(Concept)](https://wonder13662.github.io/gimp/2.10.36_ko/90-00-image-map.html#9090-%EA%B0%9C%EB%85%90concept)
+
+[90.99. 기타](https://wonder13662.github.io/gimp/2.10.36_ko/90-00-image-map.html#9099-%EA%B8%B0%ED%83%80)
+
+***
+
 ## [90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 #### 그림 90.1.a101. 이미지 메뉴 바 (Windows) (우리말)
 ![image_menu_bar(windows)(우리말)(mini)](https://github.com/wonder13662/gimp/assets/15767104/030fb542-2a4a-47f8-8ee6-a75a8c3893d6)
