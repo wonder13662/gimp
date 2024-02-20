@@ -18,6 +18,8 @@
 #### 영상 90.3.2.8.a112. 퍼지 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Windows)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dd0912b8-9201-4a49-9f9e-b641aba4fcf1"></video>
 
+[7.2.1.2. 다른 선택 도구들을 옮기기 - 영상 90.3.2.8.a112](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-01-moving-or-resizing-a-selectionx-02-moving_using_other_selection_tools.html#%EC%98%81%EC%83%81-90328a112-%ED%8D%BC%EC%A7%80-%EC%84%A0%ED%83%9D-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%B5%EC%82%AC%ED%95%B4%EC%84%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0-windows)
+
 ***
 
 ## 다른 페이지로 가기

@@ -21,6 +21,8 @@
 #### 영상 90.3.2.5.a111. 자유 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Windows)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/04966e0f-0d99-45a0-8200-fb9ec5fc6eda"></video>
 
+[7.2.1.2. 다른 선택 도구들을 옮기기 - 영상 90.3.2.5.a111](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-01-moving-or-resizing-a-selectionx-02-moving_using_other_selection_tools.html#%EC%98%81%EC%83%81-90325a111-%EC%9E%90%EC%9C%A0-%EC%84%A0%ED%83%9D-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%96%BC%EC%96%B4%EC%84%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0-windows)
+
 #### 영상 90.3.2.5.a112. 자유 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Windows)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/733e479b-7354-4067-93bc-df91a86b99fd"></video>
 
