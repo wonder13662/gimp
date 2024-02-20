@@ -57,6 +57,10 @@ Tools have options that you can configure. Each selection tool allows you to set
 #### 영상 90.4.1.3.a127. Shift(⇧) + Ctrl(⌘) 눌러 선택 모드:현재 선택과 교차하기(Intersect)로 전환
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e7aa6955-7b2b-4281-ba2e-3d0d702fa14d"></video>
 
+> 🗒️ 참고
+>
+> 선택에서 미세하게 틀린 부분을 수정하려면 [퀵마스크](./07-03-00-the-quickmask.md)를 이용합니다.
+
 ***
 
 ## 다른 페이지로 가기
@@ -72,4 +76,4 @@ Tools have options that you can configure. Each selection tool allows you to set
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-using-selections.html#idm3984)
+[원문](https://docs.gimp.org/2.10/ko/gimp-using-selections-add.html)
