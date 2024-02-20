@@ -11,58 +11,58 @@
 #### 그림 90.4.1.3.a111. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택 바꾸기(Replace) 
 ![90-04-01-03-mode-replace(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/522ef08a-7878-4a19-a5e4-26e8f3572831)
 
-[7.2.2. 선택 더하기/빼기 - 그림 90.4.1.3.a111]()
+[7.2.2. 선택 더하기/빼기 - 그림 90.4.1.3.a111](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-02-adding-or-subtracting-selections.html#%EA%B7%B8%EB%A6%BC-90413a111-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%EC%9D%98-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98---%EC%84%A0%ED%83%9D-%EB%AA%A8%EB%93%9C%ED%98%84%EC%9E%AC-%EC%84%A0%ED%83%9D-%EB%B0%94%EA%BE%B8%EA%B8%B0replace)
 
 #### 그림 90.4.1.3.a112. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택에 더하기(Add) 
 ![90-04-01-03-mode-add(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/54d29b7a-1ee2-45dd-806e-13a43d7a14e8)
 
-[7.2.2. 선택 더하기/빼기 - 그림 90.4.1.3.a112]()
+[7.2.2. 선택 더하기/빼기 - 그림 90.4.1.3.a112](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-02-adding-or-subtracting-selections.html#%EA%B7%B8%EB%A6%BC-90413a112-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%EC%9D%98-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98---%EC%84%A0%ED%83%9D-%EB%AA%A8%EB%93%9C%ED%98%84%EC%9E%AC-%EC%84%A0%ED%83%9D%EC%97%90-%EB%8D%94%ED%95%98%EA%B8%B0add)
 
 #### 그림 90.4.1.3.a113. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택에 빼기(Subtract) 
 ![90-04-01-03-mode-subtract(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/e5f77996-607d-41c0-8c0e-ca66a0b106cf)
 
-[7.2.2. 선택 더하기/빼기 - 그림 90.4.1.3.a113]()
+[7.2.2. 선택 더하기/빼기 - 그림 90.4.1.3.a113](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-02-adding-or-subtracting-selections.html#%EA%B7%B8%EB%A6%BC-90413a113-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%EC%9D%98-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98---%EC%84%A0%ED%83%9D-%EB%AA%A8%EB%93%9C%ED%98%84%EC%9E%AC-%EC%84%A0%ED%83%9D%EC%97%90-%EB%B9%BC%EA%B8%B0subtract)
 
 #### 그림 90.4.1.3.a114. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택과 교차하기(Intersect) 
 ![90-04-01-03-mode-intersect(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b56ef663-fc6a-4691-a04a-adb588d6038f)
 
-[7.2.2. 선택 더하기/빼기 - 그림 90.4.1.3.a114]()
+[7.2.2. 선택 더하기/빼기 - 그림 90.4.1.3.a114](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-02-adding-or-subtracting-selections.html#%EA%B7%B8%EB%A6%BC-90413a114-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%EC%9D%98-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98---%EC%84%A0%ED%83%9D-%EB%AA%A8%EB%93%9C%ED%98%84%EC%9E%AC-%EC%84%A0%ED%83%9D%EA%B3%BC-%EA%B5%90%EC%B0%A8%ED%95%98%EA%B8%B0intersect)
 
 #### 영상 90.4.1.3.a121. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택 바꾸기(Replace)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3c61de0e-8173-4e64-a531-4f9c8fa3080f"></video>
 
-[7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a121]()
+[7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a121](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-02-adding-or-subtracting-selections.html#%EC%98%81%EC%83%81-90413a121-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%EC%9D%98-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98---%EC%84%A0%ED%83%9D-%EB%AA%A8%EB%93%9C%ED%98%84%EC%9E%AC-%EC%84%A0%ED%83%9D-%EB%B0%94%EA%BE%B8%EA%B8%B0replace)
 
 #### 영상 90.4.1.3.a122. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택에 더하기(Add)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/31a3604e-c552-4fe4-805a-2c90e22c42f8
 "></video>
 
-[7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a122]()
+[7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a122](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-02-adding-or-subtracting-selections.html#%EC%98%81%EC%83%81-90413a122-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%EC%9D%98-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98---%EC%84%A0%ED%83%9D-%EB%AA%A8%EB%93%9C%ED%98%84%EC%9E%AC-%EC%84%A0%ED%83%9D%EC%97%90-%EB%8D%94%ED%95%98%EA%B8%B0add)
 
 #### 영상 90.4.1.3.a123. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택에 빼기(Subtract)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a40217fa-c45e-4cfd-b54f-defc71a331db"></video>
 
-[7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a123]()
+[7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a123](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-02-adding-or-subtracting-selections.html#%EC%98%81%EC%83%81-90413a123-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%EC%9D%98-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98---%EC%84%A0%ED%83%9D-%EB%AA%A8%EB%93%9C%ED%98%84%EC%9E%AC-%EC%84%A0%ED%83%9D%EC%97%90-%EB%B9%BC%EA%B8%B0subtract)
 
 #### 영상 90.4.1.3.a124. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택과 교차하기(Intersect)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a0c68f09-01b8-4e59-8656-2f6797a5a7db"></video>
 
-[7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a124]()
+[7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a124](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-02-adding-or-subtracting-selections.html#%EC%98%81%EC%83%81-90413a124-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%EC%9D%98-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98---%EC%84%A0%ED%83%9D-%EB%AA%A8%EB%93%9C%ED%98%84%EC%9E%AC-%EC%84%A0%ED%83%9D%EA%B3%BC-%EA%B5%90%EC%B0%A8%ED%95%98%EA%B8%B0intersect)
 
 #### 영상 90.4.1.3.a125. Shift(⇧) 눌러 선택 모드:현재 선택에 더하기(Add)로 전환
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e2b0823e-0ed6-4efb-b1e0-a07fd79e6c09"></video>
 
-[7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a125]()
+[7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a125](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-02-adding-or-subtracting-selections.html#%EC%98%81%EC%83%81-90413a125-shift-%EB%88%8C%EB%9F%AC-%EC%84%A0%ED%83%9D-%EB%AA%A8%EB%93%9C%ED%98%84%EC%9E%AC-%EC%84%A0%ED%83%9D%EC%97%90-%EB%8D%94%ED%95%98%EA%B8%B0add%EB%A1%9C-%EC%A0%84%ED%99%98)
 
 #### 영상 90.4.1.3.a126. Ctrl(⌘) 눌러 선택 모드:현재 선택에 빼기(Subtract)로 전환
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/33d4202e-d83f-4660-9b5f-a3e01585f98d"></video>
 
-[7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a126]()
+[7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a126](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-02-adding-or-subtracting-selections.html#%EC%98%81%EC%83%81-90413a126-ctrl-%EB%88%8C%EB%9F%AC-%EC%84%A0%ED%83%9D-%EB%AA%A8%EB%93%9C%ED%98%84%EC%9E%AC-%EC%84%A0%ED%83%9D%EC%97%90-%EB%B9%BC%EA%B8%B0subtract%EB%A1%9C-%EC%A0%84%ED%99%98)
 
 #### 영상 90.4.1.3.a127. Shift(⇧) + Ctrl(⌘) 눌러 선택 모드:현재 선택과 교차하기(Intersect)로 전환
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e7aa6955-7b2b-4281-ba2e-3d0d702fa14d"></video>
 
-[7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a127]()
+[7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a127](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-02-adding-or-subtracting-selections.html#%EC%98%81%EC%83%81-90413a127-shift--ctrl-%EB%88%8C%EB%9F%AC-%EC%84%A0%ED%83%9D-%EB%AA%A8%EB%93%9C%ED%98%84%EC%9E%AC-%EC%84%A0%ED%83%9D%EA%B3%BC-%EA%B5%90%EC%B0%A8%ED%95%98%EA%B8%B0intersect%EB%A1%9C-%EC%A0%84%ED%99%98)
 
 ***
 
