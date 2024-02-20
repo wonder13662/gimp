@@ -78,6 +78,26 @@
 
 [7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a128](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-01-moving-or-resizing-a-selectionx-01-moving_selections_using_the_rectangle_and_ellipse_select_toolsx-01-moving_and_resizing_the_selection_outline.html#%EC%98%81%EC%83%81-90323a128-%EC%84%A0%ED%83%9D-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C%EB%A1%9C-%ED%82%A4%EB%B3%B4%EB%93%9C%EB%A1%9C-25%ED%94%BD%EC%85%80%EC%94%A9-%ED%81%AC%EA%B8%B0-%EB%B0%94%EA%BF%88-mac)
 
+#### 영상 90.3.2.3.a131. 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Windows)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/91f98102-d20f-4c2a-8e55-8053db29855b"></video>
+
+[7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기 - 영상 90.3.2.3.a131]()
+
+#### 영상 90.3.2.3.a132. 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Mac)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3ae6839a-940b-4d2f-87ee-9f604178aaa7"></video>
+
+[7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기 - 영상 90.3.2.3.a132]()
+
+#### 영상 90.3.2.3.a133. 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Windows)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f073dc29-cfdb-432c-973a-758a043d3629"></video>
+
+[7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기 - 영상 90.3.2.3.a133]()
+
+#### 영상 90.3.2.3.a134. 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Mac)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f4aec06c-3ffd-4c8a-82b2-7d92a5b9af61"></video>
+
+[7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기 - 영상 90.3.2.3.a134]()
+
 ***
 
 ## 다른 페이지로 가기
