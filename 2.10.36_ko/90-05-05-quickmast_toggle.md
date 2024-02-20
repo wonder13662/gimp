@@ -29,6 +29,8 @@
 
 [7.1. 선택 - 영상 90.5.5.a121](https://wonder13662.github.io/gimp/2.10.36_ko/07-01-the-selection.html#%EC%98%81%EC%83%81-9055a121-%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%A0%81%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%84%A0%ED%83%9D%EC%98%81%EC%97%AD-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
+[7.3. 퀵마스크 - 영상 90.5.5.a121]()
+
 ***
 
 ## 다른 페이지로 가기
