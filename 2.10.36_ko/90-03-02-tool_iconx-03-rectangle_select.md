@@ -26,6 +26,8 @@
 
 [7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a112](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-01-moving-or-resizing-a-selection.html#%EC%98%81%EC%83%81-90323a112-%EC%84%A0%ED%83%9D%EC%9D%98-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C---%EC%84%A0%ED%83%9D-%EC%9B%80%EC%A7%81%EC%9D%B4%EA%B8%B0)
 
+[7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a112]()
+
 #### 영상 90.3.2.3.a113. 선택을 `핸들 모드`에서 `점선 모드`로 변경
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/144097b9-643e-4bfc-8154-212931839d49"></video>
 
@@ -35,6 +37,46 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b8f33945-e07c-44a2-aec3-fa503336369b"></video>
 
 [7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a114](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-01-moving-or-resizing-a-selection.html#%EC%98%81%EC%83%81-90323a114-%EC%84%A0%ED%83%9D%EC%9D%98-%EC%A0%90%EC%84%A0-%EB%AA%A8%EB%93%9C---%EB%93%9C%EB%9E%98%EA%B7%B8%EB%A1%9C-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%84%A0%ED%83%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
+#### 영상 90.3.2.3.a121. 선택 `핸들 모드`로 키보드로 1픽셀씩 이동 (Windows)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/90dc823b-7564-44a3-93d8-64485e706c73"></video>
+
+[7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a121]()
+
+#### 영상 90.3.2.3.a122. 선택 `핸들 모드`로 키보드로 1픽셀씩 이동 (Mac)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c3ac258f-19d2-4a9a-90dc-b4d6185b4ec1"></video>
+
+[7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a122]()
+
+#### 영상 90.3.2.3.a123. 선택 `핸들 모드`로 키보드로 25픽셀씩 이동 (Windows)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9aa7785b-b9cc-49ba-822f-c5df04fa2a43"></video>
+
+[7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a123]()
+
+#### 영상 90.3.2.3.a124. 선택 `핸들 모드`로 키보드로 25픽셀씩 이동 (Mac)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6118945b-4dc2-41e8-be72-c63e3c44a315"></video>
+
+[7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a124]()
+
+#### 영상 90.3.2.3.a125. 선택 `핸들 모드`로 키보드로 1픽셀씩 크기 바꿈 (Windows)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9d48e2c8-c9d7-4faa-bcf1-c2d8978a7d65"></video>
+
+[7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a125]()
+
+#### 영상 90.3.2.3.a126. 선택 `핸들 모드`로 키보드로 1픽셀씩 크기 바꿈 (Mac)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5bc46321-1a26-469d-bcab-3384a8a12b4e"></video>
+
+[7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a126]()
+
+#### 영상 90.3.2.3.a127. 선택 `핸들 모드`로 키보드로 25픽셀씩 크기 바꿈 (Windows)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/42a2469d-1b1c-4085-a4e8-0fe082c4bddc"></video>
+
+[7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a127]()
+
+#### 영상 90.3.2.3.a128. 선택 `핸들 모드`로 키보드로 25픽셀씩 크기 바꿈 (Mac)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/20697796-0962-45d8-aa78-6c2e4caf815f"></video>
+
+[7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a128]()
 
 ***
 
