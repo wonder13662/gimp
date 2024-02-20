@@ -87,7 +87,7 @@
 
 [➡️ 다음: 6.1.2.7. MNG로 이미지 내보내기](./06-01-filesx-02-file_formatsx-07-export_image_as_mng.md)
 
-[⬅️ 이전: 6.1.2.5. TIFF로 이미지 내보내기](./06-01-filesx-02-file_formatsx-06-export_image_as_webp.md)
+[⬅️ 이전: 6.1.2.5. TIFF로 이미지 내보내기](./06-01-filesx-02-file_formatsx-05-export_image_as_tiff.md)
 
 [⬆️ 위: 6.1.2. 파일 형식](./06-01-filesx-02-file_formats.md)
 
