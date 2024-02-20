@@ -19,22 +19,22 @@
 #### 영상 90.3.2.3.a111. 선택의 `핸들 모드` - 핸들로 크기 바꾸기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/37be8e66-b382-4ae5-ace4-0cbccc31686a"></video>
 
-[7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a111]()
+[7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a111](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-01-moving-or-resizing-a-selection.html#%EC%98%81%EC%83%81-90323a111-%EC%84%A0%ED%83%9D%EC%9D%98-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C---%ED%95%B8%EB%93%A4%EB%A1%9C-%ED%81%AC%EA%B8%B0-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
 #### 영상 90.3.2.3.a112. 선택의 `핸들 모드` - 선택 움직이기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/994c594d-36ca-400d-9ca5-c44ce7074539"></video>
 
-[7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a112]()
+[7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a112](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-01-moving-or-resizing-a-selection.html#%EC%98%81%EC%83%81-90323a112-%EC%84%A0%ED%83%9D%EC%9D%98-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C---%EC%84%A0%ED%83%9D-%EC%9B%80%EC%A7%81%EC%9D%B4%EA%B8%B0)
 
 #### 영상 90.3.2.3.a113. 선택을 `핸들 모드`에서 `점선 모드`로 변경
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/144097b9-643e-4bfc-8154-212931839d49"></video>
 
-[7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a113]()
+[7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a113](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-01-moving-or-resizing-a-selection.html#%EC%98%81%EC%83%81-90323a113-%EC%84%A0%ED%83%9D%EC%9D%84-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C%EC%97%90%EC%84%9C-%EC%A0%90%EC%84%A0-%EB%AA%A8%EB%93%9C%EB%A1%9C-%EB%B3%80%EA%B2%BD)
 
 #### 영상 90.3.2.3.a114. 선택의 `점선 모드` - 드래그로 새로운 선택 만들기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b8f33945-e07c-44a2-aec3-fa503336369b"></video>
 
-[7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a114]()
+[7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a114](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-01-moving-or-resizing-a-selection.html#%EC%98%81%EC%83%81-90323a114-%EC%84%A0%ED%83%9D%EC%9D%98-%EC%A0%90%EC%84%A0-%EB%AA%A8%EB%93%9C---%EB%93%9C%EB%9E%98%EA%B7%B8%EB%A1%9C-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%84%A0%ED%83%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 ***
 

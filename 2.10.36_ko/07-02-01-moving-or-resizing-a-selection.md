@@ -6,26 +6,26 @@
 ### 선택의 크기 바꾸기
 첫번째 기본 모드(`핸들 모드`)는 선택 위에 핸들이 있습니다. 이 핸들은 선택의 크기를 바꾸는데 사용합니다. 
 
-#### 영상 90.3.2.3.a111. 선택의 `핸들 모드` - 핸들로 크기 바꾸기
+#### [영상 90.3.2.3.a111. 선택의 `핸들 모드` - 핸들로 크기 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-03-rectangle_select.html#%EC%98%81%EC%83%81-90323a111-%EC%84%A0%ED%83%9D%EC%9D%98-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C---%ED%95%B8%EB%93%A4%EB%A1%9C-%ED%81%AC%EA%B8%B0-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/37be8e66-b382-4ae5-ace4-0cbccc31686a"></video>
 
 ### 선택을 움직이기
 선택의 안쪽을 드래그하면 - 선택의 안쪽의 핸들이 아닙니다 - 선택을 움직일 수 있습니다.
 
-#### 영상 90.3.2.3.a112. 선택의 `핸들 모드` - 선택 움직이기
+#### [영상 90.3.2.3.a112. 선택의 `핸들 모드` - 선택 움직이기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-03-rectangle_select.html#%EC%98%81%EC%83%81-90323a112-%EC%84%A0%ED%83%9D%EC%9D%98-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C---%EC%84%A0%ED%83%9D-%EC%9B%80%EC%A7%81%EC%9D%B4%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/994c594d-36ca-400d-9ca5-c44ce7074539"></video>
 
 ## 점선 모드
 ### 핸들 모드에서 점선 모드로 바꾸기
 두번째 모드(`점선 모드`)는 선택을 클릭하거나 엔터키를 누르면, 핸들이 사라지고 점선 선택 외곽선(행진하는 개미)만 남습니다. 핸들이 있는 첫번째 기본 모드(`핸들 모드`)로 되돌리기 위해서는 선택의 안쪽을 다시 클릭하면 됩니다.
 
-#### 영상 90.3.2.3.a113. 선택을 `핸들 모드`에서 `점선 모드`로 변경
+#### [영상 90.3.2.3.a113. 선택을 `핸들 모드`에서 `점선 모드`로 변경](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-03-rectangle_select.html#%EC%98%81%EC%83%81-90323a113-%EC%84%A0%ED%83%9D%EC%9D%84-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C%EC%97%90%EC%84%9C-%EC%A0%90%EC%84%A0-%EB%AA%A8%EB%93%9C%EB%A1%9C-%EB%B3%80%EA%B2%BD)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/144097b9-643e-4bfc-8154-212931839d49"></video>
 
 ### 새로운 선택 만들기
 핸들이 없는 두번째 모드(`점선 모드`)의 선택을 클릭, 드래그하면 새로운 선택을 만들 수 있습니다.
 
-#### 영상 90.3.2.3.a114. 선택의 `점선 모드` - 드래그로 새로운 선택 만들기
+#### [영상 90.3.2.3.a114. 선택의 `점선 모드` - 드래그로 새로운 선택 만들기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-03-rectangle_select.html#%EC%98%81%EC%83%81-90323a114-%EC%84%A0%ED%83%9D%EC%9D%98-%EC%A0%90%EC%84%A0-%EB%AA%A8%EB%93%9C---%EB%93%9C%EB%9E%98%EA%B7%B8%EB%A1%9C-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%84%A0%ED%83%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b8f33945-e07c-44a2-aec3-fa503336369b"></video>
 
 ## 다른 선택에도 핸들 모드와 점선 모드가 있나요?
