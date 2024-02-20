@@ -81,22 +81,22 @@
 #### 영상 90.3.2.3.a131. 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Windows)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/91f98102-d20f-4c2a-8e55-8053db29855b"></video>
 
-[7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기 - 영상 90.3.2.3.a131]()
+[7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기 - 영상 90.3.2.3.a131](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-01-moving-or-resizing-a-selectionx-01-moving_selections_using_the_rectangle_and_ellipse_select_toolsx-02-moving_the_selection_with_the_image_contents.html#%EC%98%81%EC%83%81-90323a131-%EC%84%A0%ED%83%9D-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%96%BC%EC%96%B4%EC%84%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0-windows)
 
 #### 영상 90.3.2.3.a132. 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Mac)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3ae6839a-940b-4d2f-87ee-9f604178aaa7"></video>
 
-[7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기 - 영상 90.3.2.3.a132]()
+[7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기 - 영상 90.3.2.3.a132](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-01-moving-or-resizing-a-selectionx-01-moving_selections_using_the_rectangle_and_ellipse_select_toolsx-02-moving_the_selection_with_the_image_contents.html#%EC%98%81%EC%83%81-90323a132-%EC%84%A0%ED%83%9D-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%96%BC%EC%96%B4%EC%84%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0-mac)
 
 #### 영상 90.3.2.3.a133. 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Windows)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f073dc29-cfdb-432c-973a-758a043d3629"></video>
 
-[7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기 - 영상 90.3.2.3.a133]()
+[7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기 - 영상 90.3.2.3.a133](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-01-moving-or-resizing-a-selectionx-01-moving_selections_using_the_rectangle_and_ellipse_select_toolsx-02-moving_the_selection_with_the_image_contents.html#%EC%98%81%EC%83%81-90323a133-%EC%84%A0%ED%83%9D-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%B5%EC%82%AC%ED%95%B4%EC%84%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0-windows)
 
 #### 영상 90.3.2.3.a134. 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Mac)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f4aec06c-3ffd-4c8a-82b2-7d92a5b9af61"></video>
 
-[7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기 - 영상 90.3.2.3.a134]()
+[7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기 - 영상 90.3.2.3.a134](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-01-moving-or-resizing-a-selectionx-01-moving_selections_using_the_rectangle_and_ellipse_select_toolsx-02-moving_the_selection_with_the_image_contents.html#%EC%98%81%EC%83%81-90323a134-%EC%84%A0%ED%83%9D-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%B5%EC%82%AC%ED%95%B4%EC%84%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0-mac)
 
 ***
 
