@@ -6,6 +6,12 @@
 #### 그림 90.3.9.a2. 도구상자 - '색상으로 선택'
 ![그림 90.3.9.a2. 도구상자 - '색상으로 선택'](https://github.com/wonder13662/gimp/assets/15767104/9e8e22db-18f5-4690-ac6f-b49d1975a32e)
 
+#### 영상 90.3.2.9.a111. 색상으로 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Windows)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/367cdb31-2dc2-4f6f-bb89-ccfc1d7d9501"></video>
+
+#### 영상 90.3.2.9.a112. 색상으로 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Windows)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a016247a-7fc7-47c4-bcdb-c96356ef9407"></video>
+
 ***
 
 ## 다른 페이지로 가기

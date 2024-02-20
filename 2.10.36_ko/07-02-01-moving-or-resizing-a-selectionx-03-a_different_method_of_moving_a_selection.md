@@ -1,5 +1,6 @@
 # 7.2.1.3. 선택을 옮기는 또다른 방법
 
+You can also use a more roundabout method to move a selection. Make the [selection floating](). Then you can move its content using the [Move] tool, emptying the original location, by click-and-dragging or keyboard arrow keys.
 
 ***
 
