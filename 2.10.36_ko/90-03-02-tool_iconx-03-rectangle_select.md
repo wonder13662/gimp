@@ -16,6 +16,26 @@
 
 [7.1.1. 페더링(Feathering) - 그림 90.3.2.3.a102](https://wonder13662.github.io/gimp/2.10.36_ko/07-01-the-selectionx-01-feathering.html#%EA%B7%B8%EB%A6%BC-90323a102-%EC%84%A0%ED%83%9D%EC%9D%98-%ED%8E%98%EB%8D%94-%EC%A0%81%EC%9A%A9-%EC%9C%A0%EB%AC%B4-%EB%B9%84%EA%B5%90)
 
+#### 영상 90.3.2.3.a111. 선택의 `핸들 모드` - 핸들로 크기 바꾸기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/37be8e66-b382-4ae5-ace4-0cbccc31686a"></video>
+
+[7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a111]()
+
+#### 영상 90.3.2.3.a112. 선택의 `핸들 모드` - 선택 움직이기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/994c594d-36ca-400d-9ca5-c44ce7074539"></video>
+
+[7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a112]()
+
+#### 영상 90.3.2.3.a113. 선택을 `핸들 모드`에서 `점선 모드`로 변경
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/144097b9-643e-4bfc-8154-212931839d49"></video>
+
+[7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a113]()
+
+#### 영상 90.3.2.3.a114. 선택의 `점선 모드` - 드래그로 새로운 선택 만들기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b8f33945-e07c-44a2-aec3-fa503336369b"></video>
+
+[7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a114]()
+
 ***
 
 ## 다른 페이지로 가기
