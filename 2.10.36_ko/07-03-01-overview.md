@@ -48,7 +48,7 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 #### [그림 90.1.3.17.a101. `선택` → `채널로 저장`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-17-save_to_channel.html#%EA%B7%B8%EB%A6%BC-901317a101-%EC%84%A0%ED%83%9D--%EC%B1%84%EB%84%90%EB%A1%9C-%EC%A0%80%EC%9E%A5)
 [![90-01-03-select(1080)-focus-save_to_channel](https://github.com/wonder13662/gimp/assets/15767104/edec29a9-4f48-46d7-8295-72f059bdce3e)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-17-save_to_channel.html#%EA%B7%B8%EB%A6%BC-901317a101-%EC%84%A0%ED%83%9D--%EC%B1%84%EB%84%90%EB%A1%9C-%EC%A0%80%EC%9E%A5)
 
-새로운 채널의 이름은 "선택 영역 마스크 복사(SelectionMask copy)"이 됩니다. 
+새로운 채널의 이름은 "선택 영역 마스크 복사(SelectionMask copy)"이 됩니다.
 
 #### [영상 90.1.3.17.a102. `선택` → `채널로 저장`으로 선택영역을 채널에 저장하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-17-save_to_channel.html#%EC%98%81%EC%83%81-901317a102-%EC%84%A0%ED%83%9D--%EC%B1%84%EB%84%90%EB%A1%9C-%EC%A0%80%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%84%A0%ED%83%9D%EC%98%81%EC%97%AD%EC%9D%84-%EC%B1%84%EB%84%90%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/67209be1-b3f4-48c7-a2bb-265f963bcbb5"></video>
