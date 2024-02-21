@@ -13,7 +13,7 @@
 [![그림 90.3.2.35.a2. 도구상자 - 경로](https://github.com/wonder13662/gimp/assets/15767104/577e558a-9a9e-4376-9fde-a49781286f10)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EA%B2%BD%EB%A1%9C)
 
 ### 3. 단축키 `B` 클릭
-#### 영상 90.3.2.35.a3. 단축키로 도구상자 - 경로 열기
+#### [영상 90.3.2.35.a3. 단축키로 도구상자 - 경로 열기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EC%98%81%EC%83%81-903235a3-%EB%8B%A8%EC%B6%95%ED%82%A4%EB%A1%9C-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EA%B2%BD%EB%A1%9C-%EC%97%B4%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8434cfe3-b8c1-428c-b563-7f20dc7e6d38"></video>
 
 ## 마우스 커서 바뀌는 모습 확인하기

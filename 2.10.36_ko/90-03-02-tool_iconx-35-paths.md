@@ -11,7 +11,7 @@
 #### 영상 90.3.2.35.a3. 단축키로 도구상자 - 경로 열기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8434cfe3-b8c1-428c-b563-7f20dc7e6d38"></video>
 
-[7.5.1. 경로 만들기 - 영상 90.3.2.35.a3]()
+[7.5.1. 경로 만들기 - 영상 90.3.2.35.a3](https://wonder13662.github.io/gimp/2.10.36_ko/07-05-01-path-creation.html#%EC%98%81%EC%83%81-903235a3-%EB%8B%A8%EC%B6%95%ED%82%A4%EB%A1%9C-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EA%B2%BD%EB%A1%9C-%EC%97%B4%EA%B8%B0)
 
 ***
 
