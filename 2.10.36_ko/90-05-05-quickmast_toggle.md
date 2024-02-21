@@ -12,15 +12,19 @@
 
 [7.1. 선택 - 그림 90.5.5.a102](https://wonder13662.github.io/gimp/2.10.36_ko/07-01-the-selection.html#%EA%B7%B8%EB%A6%BC-9055a102-5%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD)
 
+[7.3.1. 퀵마스크 개요 - 그림 90.5.5.a102]()
+
 #### 영상 90.5.5.a111. 퀵 마스크 토글하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/74f2db78-a06e-48d8-bcc7-7c99e3d57180"></video>
 
-[3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 영상 90.5.5.a111. 퀵 마스크 토글하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-05-quickmask-toggle.html#%EC%98%81%EC%83%81-9055a111-%ED%80%B5-%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80%ED%95%98%EA%B8%B0)
+[3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 영상 90.5.5.a111](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-05-quickmask-toggle.html#%EC%98%81%EC%83%81-9055a111-%ED%80%B5-%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80%ED%95%98%EA%B8%B0)
+
+[7.3.1. 퀵마스크 개요 - 영상 90.5.5.a111]()
 
 #### 영상 90.5.5.a112. 퀵 마스크 토글 확대해서 보기
 <video controls="controls" width="170" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2a4236c9-ff2d-4200-9ce6-6dc880a50a84"></video>
 
-[3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 영상 90.5.5.a112. 퀵 마스크 토글 확대해서 보기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-05-quickmask-toggle.html#%EC%98%81%EC%83%81-9055a112-%ED%80%B5-%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80-%ED%99%95%EB%8C%80%ED%95%B4%EC%84%9C-%EB%B3%B4%EA%B8%B0)
+[3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 영상 90.5.5.a112](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-05-quickmask-toggle.html#%EC%98%81%EC%83%81-9055a112-%ED%80%B5-%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80-%ED%99%95%EB%8C%80%ED%95%B4%EC%84%9C-%EB%B3%B4%EA%B8%B0)
 
 #### 영상 90.5.5.a121. 퀵마스크 적용으로 선택영역 확인하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ecb7111d-e19d-4959-bd35-65dd55af06a0"></video>

@@ -7,20 +7,24 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 하지만, 선택의 외곽선말고도 선택을 보여주는 방법이 더 있습니다. GIMP(김프) 선택은 실제로는 이미지 전체를 덮는 그레이스케일 채널입니다. 이 채널은 0(선택안됨)부터 255(선택됨)까지 픽셀값을 가지고 있습니다. 선택의 외곽선은 절반만 선택(127)된 픽셀을 따라 그려집니다. 그러므로 선택의 외곽선이 보여주는 경계의 안쪽과 바깥쪽은 0부터 255까지 표현되는 선택의 연속성의 일부분만 보여줄 수 밖에 없습니다.
 
 ## 퀵마스크 모드로 바꾸기
+퀵마스크는 GIMP(김프)에서 선택 영역의 구조를 상세히 보여주는 방식입니다. 퀵마스크를 사용하면 선택을 더 강력하게 제어할 수 있습니다. 이미지 창의 왼쪽 아래편 외곽의 작은 버튼(아래 그림의 5번 영역)을 클릭해서 퀵마스크를 켜거나 끌 수 있습니다. 이 버튼으로 퀵마스크 모드와 선택 외곽선(행진하는 개미) 모드로 전환할 수 있습니다.
 
-The QuickMask is GIMP's way of showing the full structure of the selection. QuickMask also provides the ability to interact with selection in new, and substantially more powerful, ways. Click the small outlined button at the lower left of the image window to toggle QuickMask on and off. The button switches between QuickMask mode, and marching ants mode.
+#### [그림 90.5.5.a102. (5)퀵마스크 토글 버튼의 위치 (단일창)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-05-quickmast_toggle.html#%EA%B7%B8%EB%A6%BC-9055a102-5%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD)
+[![그림 90.5.5.a102. (5)퀵마스크 토글 버튼의 위치 (단일창)](https://github.com/wonder13662/gimp/assets/15767104/64879a12-f3e5-47ad-94da-f47653824bc6)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-05-quickmast_toggle.html#%EA%B7%B8%EB%A6%BC-9055a102-5%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD)
 
-(TODO 퀵마스크 위치 이미지 넣기)
+#### [영상 90.5.5.a111. 퀵 마스크 토글하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-05-quickmast_toggle.html#%EC%98%81%EC%83%81-9055a111-%ED%80%B5-%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80%ED%95%98%EA%B8%B0)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/74f2db78-a06e-48d8-bcc7-7c99e3d57180"></video>
 
-(TODO 퀵마스크 토글 영상 넣기)
+[이미지 메뉴 바(Image Menu Bar)](./03-02-02-image-windowx-02-image-menu.md)의 `선택` → `퀵마스크 전환` 또는 단축키 Shift(⇧) + Q를 눌러 퀵마스크 모드와 선택 외곽선(행진하는 개미) 모드로 전환할 수 있습니다.
 
-You can also use `Select` → `Toggle QuickMask`, or Shift + Q, to toggle between QuickMask and marching ants mode.
+#### 그림 90.1.3.16.a101. `선택` → `퀵마스크 전환`
+![90-01-03-select(1080)-focus-toggle_quick_mask](https://github.com/wonder13662/gimp/assets/15767104/33b44419-8d09-45e2-83ea-130e8c25397f)
 
-(TODO 이미지 메뉴 바에서 `Select` → `Toggle QuickMask`의 이미지 넣기)
+#### 영상 90.1.3.16.a102. `선택` → `퀵마스크 전환`
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0082b9cc-700f-4ecb-8e95-7e8d351c17ec"></video>
 
-(TODO 이미지 메뉴 바에서 `Select` → `Toggle QuickMask`로 퀵마스크 토글 영상 넣기)
-
-(TODO 단축키 Shift + Q로 퀵마스크 토글 영상 넣기)
+#### 영상 90.1.3.16.a103. 단축키 Shift(⇧) + Q로 퀵마스크 전환
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f6f70ab6-dd6e-418d-b400-b77efe7dbf9e"></video>
 
 ## 퀵마스크의 반투명 덮개
 In QuickMask mode, the selection is shown as a translucent screen overlying the image, whose transparency at each pixel indicates the degree to which that pixel is selected. By default the mask is shown in red, but you change this if another mask color is more convenient. The less a pixel is selected, the more it is obscured by the mask. Fully selected pixels are shown completely clear.
