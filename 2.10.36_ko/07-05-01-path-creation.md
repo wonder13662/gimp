@@ -57,18 +57,43 @@ Ctrl(⌘)을 누른채로 닫을 경로 위에 마우스 커서를 올리면 `�
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a22f0f9b-0562-4f0d-bf57-52f8f56ae0bc"></video>
 
 ## 경로 고치기
-You can also keep adding more points, or start changing the curves of the path.
+경로를 닫은 뒤에도 계속 점을 추가할 수 있습니다. 또는 경로의 곡선을 바꿀 수도 있습니다.
 
-To edit the curves of your path, move the mouse cursor close to a line segment, left-click and drag the line segment. Two events occur.
+경로를 수정하는데 필요한 속성들을 먼저 살펴보겠습니다.
 
-- The line segment bends and curves as it is pulled.
-- Each line segment has two start points and end points marked by little square rectangles, these are called handles. A "direction line" now projects from each start point for the line segment that was moved. This direction line usually has a different color than the lines of the path.
+### 경로 속성 - 선분(line segment)
+선분은 두 개의 점 사이의 직선을 가리키는 말입니다. 아래의 이미지에서 두 개의 점 사이의 선이 선분입니다. 선분은 2개의 시작점과 2개의 끝점을 가집니다. 사전적 정의와는 다르게 곡선으로 보이지만, 끝점과 방향선을 조정하기 전에는 직선이므로 선분이라는 표현을 썼습니다. 끝점과 방향선을 조절해서 구부릴 수 있습니다.
 
-The curved line segment leaves an end point in the same direction that the "direction line" leaves the start point. The length of this line controls how far the line segment projects along the "direction line" before curving towards the other path point.
+#### 그림 90.3.2.35.a21. 경로 속성 - 선분(line segment)
+![path_props-line-segment-animation](https://github.com/wonder13662/gimp/assets/15767104/154dde14-8ab5-4d67-8d2a-5923ae7bc2a2)
 
-The handle at the end of each "direction line" can be dragged to change the direction and length of the curve. The handles on the other end, where they connect to the path, can be used to move the position of that path point.
+### 경로 속성 - 시작점(start point)
+선분은 2개의 시작점을 가집니다. 시작점은 원의 형태를 하고 있습니다. 그리고 2개의 시작점 사이에 선분이 있습니다. 여기서의 시작점은 선분의 시작점이 아닌 방향선의 시작점을 의미합니다.
 
-The path is comprised of two components with both straight and curved segments. Black squares are anchor points, the open circle indicates the selected anchor, and the two open squares are the handles associated with the selected anchor.
+#### 그림 90.3.2.35.a22. 경로 속성 - 시작점(start point)
+![path_props-start_point-animation](https://github.com/wonder13662/gimp/assets/15767104/edd6c798-eb98-4ce0-9d37-5caabfa56e09)
+
+### 경로 속성 - 끝점(end point)
+끝점은 손잡이(handle)이라고도 합니다. 끝점은 작은 사각형의 모양입니다. 끝점을 클릭,드래그해서 방향선의 방향과 길이를 조정할 수 있습니다. 방향선의 길이와 방향은 선분의 휘어지는 도를 조절합니다.
+
+#### 그림 90.3.2.35.a23. 경로 속성 - 끝점(end point)
+![path_props-end_point-animation](https://github.com/wonder13662/gimp/assets/15767104/9165159d-a9ca-42a4-a64e-571c7c8aa0ab)
+
+### 경로 속성 - 방향선(direction line)
+방향선의 길이와 방향은 선분의 휘어지는 도를 조절합니다. 방향선을 조정하기 위해서는 끝점을 클릭, 드래그해야 합니다. 방향선은 다른 선들과는 다른색(노란색)으로 표시됩니다.
+
+#### 그림 90.3.2.35.a24. 경로 속성 - 방향선(direction line)
+![path_props-direction_line-animation](https://github.com/wonder13662/gimp/assets/15767104/0dd4625e-1d17-4554-9592-31b0a1963b98)
+
+⚠️ 주의: 위 이미지에는 시작점과 끝점 그리고 방향선이 모두 2개씩 보입니다. 이는 이해를 돕기 위해 한 선분이 가지고 있는 경로 요소를 모두 표시한 것입니다. 실제로는 한번에 시작점과 끝점 그리고 방향선이 모두 1개씩 보입니다.
+
+경로의 곡선을 고치려면, 마우스 커서를 선분에 가까이 가져가서 왼쪽 클릭을 하고 드래그해야 합니다. 그러면 두가지 일이 일어납니다.
+
+1. 선분을 당기는 방향대로 구부러집니다
+2. 드래그한 각 선분은 두 개의 시작점과 두 개의 끝점(작은 사각형 모양, 핸들이라고 합니다)을 갖습니다. 방향선은 각 시작점으로부터 선분의 움직임에 맞춰 움직입니다.
+
+#### 그림 90.3.2.35.a31. 경로의 선분을 클릭 + 드래그
+<video controls="controls" width="320" src="https://github.com/wonder13662/gimp/assets/15767104/0e5783cb-84c0-4b3f-bf02-5ba477be10f1"></video>
 
 ***
 

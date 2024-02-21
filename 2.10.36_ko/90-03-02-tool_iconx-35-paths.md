@@ -48,6 +48,31 @@
 
 [7.5.1. 경로 만들기 - 영상 90.3.2.35.a10]()
 
+#### 그림 90.3.2.35.a21. 경로 속성 - 선분(line segment)
+![path_props-line-segment-animation](https://github.com/wonder13662/gimp/assets/15767104/154dde14-8ab5-4d67-8d2a-5923ae7bc2a2)
+
+[7.5.1. 경로 만들기 - ]()
+
+#### 그림 90.3.2.35.a22. 경로 속성 - 시작점(start point)
+![path_props-start_point-animation](https://github.com/wonder13662/gimp/assets/15767104/edd6c798-eb98-4ce0-9d37-5caabfa56e09)
+
+[7.5.1. 경로 만들기 - ]()
+
+#### 그림 90.3.2.35.a23. 경로 속성 - 끝점(end point)
+![path_props-end_point-animation](https://github.com/wonder13662/gimp/assets/15767104/9165159d-a9ca-42a4-a64e-571c7c8aa0ab)
+
+[7.5.1. 경로 만들기 - ]()
+
+#### 그림 90.3.2.35.a24. 경로 속성 - 방향선(direction line)
+![path_props-direction_line-animation](https://github.com/wonder13662/gimp/assets/15767104/0dd4625e-1d17-4554-9592-31b0a1963b98)
+
+[7.5.1. 경로 만들기 - ]()
+
+#### 그림 90.3.2.35.a31. 경로의 선분을 클릭 + 드래그
+<video controls="controls" width="320" src="https://github.com/wonder13662/gimp/assets/15767104/0e5783cb-84c0-4b3f-bf02-5ba477be10f1"></video>
+
+[7.5.1. 경로 만들기 - ]()
+
 ***
 
 ## 다른 페이지로 가기
