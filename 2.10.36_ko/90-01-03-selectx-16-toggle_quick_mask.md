@@ -15,6 +15,16 @@
 
 [7.3.1. 퀵마스크 개요 - 영상 90.1.3.16.a103]()
 
+#### 그림 90.1.3.16.a111. 퀵마스크 덮개 - 부드러운 경계 사용
+![90-01-03-selectx-16-toggle_quick_mask(mac)(ko)-quickmask_on(25%)](https://github.com/wonder13662/gimp/assets/15767104/aa409b0b-6d5d-4b0d-ba94-3c10f26183ec)
+
+[7.3.1. 퀵마스크 개요 - 그림 90.1.3.16.a111]()
+
+#### 그림 90.1.3.16.a112. 퀵마스크 덮개에 표시된 선택 영역만의 이미지(부드러운 경계)
+![90-01-03-selectx-16-toggle_quick_mask(mac)(ko)-mask_applied(25%)](https://github.com/wonder13662/gimp/assets/15767104/adbd41f3-27f5-4222-a04c-d6baf0eb2106)
+
+[7.3.1. 퀵마스크 개요 - 그림 90.1.3.16.a112]()
+
 ***
 
 ## 다른 페이지로 가기

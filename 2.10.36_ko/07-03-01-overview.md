@@ -27,9 +27,13 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f6f70ab6-dd6e-418d-b400-b77efe7dbf9e"></video>
 
 ## 퀵마스크의 반투명 덮개
-In QuickMask mode, the selection is shown as a translucent screen overlying the image, whose transparency at each pixel indicates the degree to which that pixel is selected. By default the mask is shown in red, but you change this if another mask color is more convenient. The less a pixel is selected, the more it is obscured by the mask. Fully selected pixels are shown completely clear.
+퀵마스크 모드에서는 선택 영역이 반투명 덮개가 이미지 위에 덮인 것처럼 보여집니다. 이 덮개의 각 픽셀의 투명도가 각 픽셀의 선택된 정도(0부터 255까지)를 나타냅니다. 기본적으로 마스크(선택되지 않음)는 빨간색으로 보입니다. 하지만 이 색깔은 필요하다면 바꿀 수 있습니다. 픽셀이 선택된 정도가 낮아지면, 마스크는 더 불투명해집니다. 완전히 선택된 픽셀은 완전한 투명입니다. 아래 이미지에서 퀵마스크에서 표시된 부드러운 경계(픽셀의 선택된 정도가 다양함)와 실제로 부드러운 경계를 적용한 이미지 경계를 확인할 수 있습니다.
 
-(TODO 선택의 정도의 변화가 퀵마스크로 나타난 이미지 첨부 필요)
+#### 그림 90.1.3.16.a111. 퀵마스크 덮개 - 부드러운 경계 사용
+![90-01-03-selectx-16-toggle_quick_mask(mac)(ko)-quickmask_on(25%)](https://github.com/wonder13662/gimp/assets/15767104/aa409b0b-6d5d-4b0d-ba94-3c10f26183ec)
+
+#### 그림 90.1.3.16.a112. 퀵마스크 덮개에 표시된 선택 영역만의 이미지(부드러운 경계)
+![90-01-03-selectx-16-toggle_quick_mask(mac)(ko)-mask_applied(25%)](https://github.com/wonder13662/gimp/assets/15767104/adbd41f3-27f5-4222-a04c-d6baf0eb2106)
 
 ## 퀵마스크 수정하기
 In QuickMask mode, many image manipulations act an the selection channel rather than image itself. This includes, in particular, paint tools. Painting with white selects pixels, and painting with black unselect pixels. You can use any of the paint tools, as well as the bucket fill and gradient fill tools, in this way. Advanced users of GIMP learn that "painting the selection" is the easiest and most effective way to delicately manipulate the image.
