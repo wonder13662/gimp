@@ -27,8 +27,7 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f6f70ab6-dd6e-418d-b400-b77efe7dbf9e"></video>
 
 ## 퀵마스크의 반투명 덮개
-퀵마스크 모드에서는 선택 영역이 반투명 덮개가 이미지 위에 덮인 것처럼 보여집니다. 이 덮개의 각 픽셀의 투명도가 각 픽셀의 선택된 정도(0부터 255까지)를 나타냅니다. 기본적으로 마스크(선택되지 않음)는 빨간색으로 보입니다. 하지만 이 색깔은 필요하다면 바꿀 수 있습니다. 픽셀이 선택된 정도가 낮아지면, 마스크는 더 불투명해집니다. 완전히 선택된 픽셀은 완전한 투명입니다. 아래 이미지에서 퀵마스크에서 표시된 부드러운 경계(픽셀의 선택된 정도가 다양함)와 실제로 부드러운 경계를 적용한 이미지 경계를 확인할 수 있습니다.
-(TODO 추후 퀵마스크 색상을 변경하는 방법의 링크를 추가해야 함)
+퀵마스크 모드에서는 선택 영역이 반투명 덮개가 이미지 위에 덮인 것처럼 보여집니다. 이 덮개의 각 픽셀의 투명도가 각 픽셀의 선택된 정도(0부터 255까지)를 나타냅니다. 기본적으로 마스크(선택되지 않음)는 빨간색으로 보입니다. 하지만 이 색깔은 필요하다면 바꿀 수 있습니다. [퀵마스크의 색상과 투명도 변경하기](https://wonder13662.github.io/gimp/2.10.36_ko/07-03-02-properties.html#%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC%EC%9D%98-%EC%83%89%EC%83%81%EA%B3%BC-%ED%88%AC%EB%AA%85%EB%8F%84-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0) 픽셀이 선택된 정도가 낮아지면, 마스크는 더 불투명해집니다. 완전히 선택된 픽셀은 완전한 투명입니다. 아래 이미지에서 퀵마스크에서 표시된 부드러운 경계(픽셀의 선택된 정도가 다양함)와 실제로 부드러운 경계를 적용한 이미지 경계를 확인할 수 있습니다.
 
 #### [그림 90.1.3.16.a111. 퀵마스크 덮개 - 부드러운 경계 사용](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-16-toggle_quick_mask.html#%EA%B7%B8%EB%A6%BC-901316a111-%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%EB%8D%AE%EA%B0%9C---%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4-%EA%B2%BD%EA%B3%84-%EC%82%AC%EC%9A%A9)
 [![90-01-03-selectx-16-toggle_quick_mask(mac)(ko)-quickmask_on(25%)](https://github.com/wonder13662/gimp/assets/15767104/aa409b0b-6d5d-4b0d-ba94-3c10f26183ec)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-16-toggle_quick_mask.html#%EA%B7%B8%EB%A6%BC-901316a111-%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%EB%8D%AE%EA%B0%9C---%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4-%EA%B2%BD%EA%B3%84-%EC%82%AC%EC%9A%A9)
