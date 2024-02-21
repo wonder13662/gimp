@@ -57,16 +57,15 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 #### 영상 90.1.3.17.a103. `선택` → `채널로 저장`으로 선택영역을 채널에 저장하기 반복
 <video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/0f574c75-7c75-459c-9974-5a77c362605a"></video>
 
-## 퀵 마스크 잘라내고 붙이기
+## 퀵 마스크의 선택영역을 잘라내고 붙이기
+퀵마스크 모드에서 잘라내고 붙이기는 이미지가 아닌 선택 영역에 대해 적용됩니다. 때로는 이 방법을 사용해서 이미지의 선택을 다른 이미지로 가져갈 수 있습니다.
 
-> ℹ️ 작은 정보
->
-> In QuickMask mode, Cut and Paste act on the selection rather than the image. You can sometimes make use of this as the most convenient way of transferring a selection from one image to another.
-
-(TODO 퀵 마스크를 복사해서 다른 이미지로 붙여넣는 얘시 영상 필요)
+#### 영상 90.5.5.a131. 퀵마스크 선택영역 복사해서 다른 이미지로 옮기기
+<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/b483961a-5697-4257-8424-1f235d7ec9ba"></video>
 
 ## 추가 정보: 선택영역 마스크
-You can learn more on [Selection masks](./15-02-02-channel-dialogx-03-selection_masks.md) in the section dedicated to the channel dialog.
+채널 대화상자의 [선택 마스크](./15-02-02-channel-dialogx-03-selection_masks.md)에서 좀 더 많은 내용을 확인할 수 있습니다.
+(TODO 채널 대화상자의 내용 추가후, 봐야할 내용이 무엇인지 업데이트해야 한다.)
 
 ***
 
