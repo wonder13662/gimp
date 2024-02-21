@@ -27,11 +27,14 @@
 #### 그림 90.3.2.35.a5. 경로 대화상자의 편집모드 - 디자인
 ![90-03-35-paths(w1080)-focus-edit_design](https://github.com/wonder13662/gimp/assets/15767104/c820622b-61fa-4991-9a1f-8d3d7efc8234)
 
-## 경로의 점(Point) 추가하기
+## 경로에 새로운 점(Point) 추가하기
+이미지에 왼쪽 마우스 클릭을 하면 경로의 첫번째 점이 생깁니다. 마우스를 새로운 지점으로 옮겨서 왼쪽 마우스 클릭을 하면 또다른 점이 생기며, 직전에 만든 점과 연결됩니다. 
 
-Left click in the image to create the first point of the path. Move the mouse to a new point and left click to create another point linked to the previous point. Although you can create as many points as you desire, you only need two points to learn about Paths.
+점을 추가하는 동안에는 마우스 커서는 곡선 아이콘 옆에 작은 `+` 표시를 가지고 있습니다. 이 표시는 클릭하면 새로운 점을 추가한다는 의미입니다.
 
-While adding points, the mouse cursor has a little "+" next to the curve, which indicates that clicking will add a new point.
+아래 영상에서 마우스 커서가 추가한 점에 가까이 갔을 때는 점을 이동시키는 `십자 화살표`가 표시되며, 점에서 떨어졌을 때는 새로운 점을 추가하는 `+`가 표시되는 것을 확인할 수 있습니다.
+#### 그림 90.3.2.35.a6. 경로의 점을 추가할 때 마우스 커서의 `+` 아이콘
+![90-03-02-35-mouse_cursor-add_icon(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/69e85afe-9002-4a92-b1ae-5b74a265c8ba)
 
 ## 경로 옮기기
 When the mouse cursor is close to one of the path points, the "+" changes into a cross with arrows; like the move tool. You can then move the existing path point.
