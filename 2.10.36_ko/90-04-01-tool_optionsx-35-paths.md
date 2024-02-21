@@ -5,7 +5,7 @@
 #### 그림 90.4.1.35.a111. 네가지 다른 종류의 경로
 ![path-examples](https://github.com/wonder13662/gimp/assets/15767104/ede51131-8fdf-403f-a64c-62e98272841a)
 
-[7.5. 경로 - 그림 90.4.1.35.a111]()
+[7.5. 경로 - 그림 90.4.1.35.a111](https://wonder13662.github.io/gimp/2.10.36_ko/07-05-00-paths.html#%EA%B7%B8%EB%A6%BC-904135a111-%EB%84%A4%EA%B0%80%EC%A7%80-%EB%8B%A4%EB%A5%B8-%EC%A2%85%EB%A5%98%EC%9D%98-%EA%B2%BD%EB%A1%9C)
 
 ***
 
