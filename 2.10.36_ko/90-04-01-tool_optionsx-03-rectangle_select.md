@@ -67,7 +67,7 @@
 #### 영상 90.4.1.3.a131. 선택 외곽선 - 행진하는 개미(Marching ants)
 ![marching_ants](https://github.com/wonder13662/gimp/assets/15767104/ba34706e-68e9-4b1f-9c29-1f649109a9b3)
 
-[7.3.1. 퀵마스크 개요 - 영상 90.4.1.3.a131]()
+[7.3.1. 퀵마스크 개요 - 영상 90.4.1.3.a131](https://wonder13662.github.io/gimp/2.10.36_ko/07-03-01-overview.html#%EC%98%81%EC%83%81-90413a131-%EC%84%A0%ED%83%9D-%EC%99%B8%EA%B3%BD%EC%84%A0---%ED%96%89%EC%A7%84%ED%95%98%EB%8A%94-%EA%B0%9C%EB%AF%B8marching-ants)
 
 ***
 
