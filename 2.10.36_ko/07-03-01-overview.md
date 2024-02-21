@@ -42,12 +42,20 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/44c82438-bb6a-426d-b9fd-453fcfb46906"></video>
 
 ## 퀵 마스크를 새로운 채널로 저장하기
+퀵마스크 선택을 새로운 채널로 저장하려면 우선 선택 영역이 있는 것을 확인합니다. 그리고 이미지 창에서 퀵마스크 모드는 비활성화 상태여야 합니다. [이미지 메뉴 바(Image Menu Bar)](./03-02-02-image-windowx-02-image-menu.md)의 `선택` → `채널로 저장`을 클릭해서 채널 대화상제에 새로운 채널을 만듭니다. 
 
-> ℹ️ 작은 정보
->
-> To save a QuickMask selection to a new channel; Make sure that there is a selection and that QuickMask mode is not active in the image window. Use `Select` → `Save to Channel` to create a new channel in the channel dialog called "SelectionMask copy" (repeating this command creates "..copy#1", "..copy#2" and so on...).
+#### 그림 90.1.3.17.a101. `선택` → `채널로 저장`
+![90-01-03-select(1080)-focus-save_to_channel](https://github.com/wonder13662/gimp/assets/15767104/edec29a9-4f48-46d7-8295-72f059bdce3e)
 
-(TODO 퀵 마스크를 새로운 채널로 저장하는 예시 영상 필요)
+새로운 채널의 이름은 "선택 영역 마스크 복사(SelectionMask copy)"이 됩니다. 
+
+#### 영상 90.1.3.17.a102. `선택` → `채널로 저장`으로 선택영역을 채널에 저장하기
+<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/67209be1-b3f4-48c7-a2bb-265f963bcbb5"></video>
+
+반복해서 새로운 채널을 추가하면 "선택 영역 마스크 복사#1(SelectionMask copy#1)", "선택 영역 마스크 복사#2(SelectionMask copy#2)"의 방식으로 이름의 숫자가 증가합니다.
+
+#### 영상 90.1.3.17.a103. `선택` → `채널로 저장`으로 선택영역을 채널에 저장하기 반복
+<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/0f574c75-7c75-459c-9974-5a77c362605a"></video>
 
 ## 퀵 마스크 잘라내고 붙이기
 
