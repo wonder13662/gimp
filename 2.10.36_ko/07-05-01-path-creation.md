@@ -17,8 +17,15 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8434cfe3-b8c1-428c-b563-7f20dc7e6d38"></video>
 
 ## 마우스 커서 바뀌는 모습 확인하기
+경로 도구가 선택되면, 마우스 커서가 곡선 아이콘이 옆이 있는 십자선(cross hair)으로 바뀝니다. 실제 모양은 [마우스 포인터 모드 설정](./12-01-18-image-window.md)에 따라 다릅니다. 
 
-When the Paths tool is selected, the mouse cursor changes into a crosshair with a curve by default. The actual shape depends on your [mouse pointer mode setting](./12-01-18-image-window.md). Make sure that the Paths `Edit Mode` in Tool Options is set to `Design`.
+#### 그림 90.3.2.35.a4. 경로 선택하면 십자선(crosshair) 아이콘으로 바뀜 
+![90-03-02-35-paths-cross_hair_animation](https://github.com/wonder13662/gimp/assets/15767104/ed6d4fbd-604c-4310-be1e-1d3b7a6a1092)
+
+경로 대화상자의 `편집모드`의 `디자인`이 선택되어 있어야 합니다.
+
+#### 그림 90.3.2.35.a5. 경로 대화상자의 편집모드 - 디자인
+![90-03-35-paths(w1080)-focus-edit_design](https://github.com/wonder13662/gimp/assets/15767104/c820622b-61fa-4991-9a1f-8d3d7efc8234)
 
 ## 경로의 점(Point) 추가하기
 

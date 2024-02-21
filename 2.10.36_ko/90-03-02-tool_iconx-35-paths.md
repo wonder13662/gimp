@@ -13,6 +13,16 @@
 
 [7.5.1. 경로 만들기 - 영상 90.3.2.35.a3](https://wonder13662.github.io/gimp/2.10.36_ko/07-05-01-path-creation.html#%EC%98%81%EC%83%81-903235a3-%EB%8B%A8%EC%B6%95%ED%82%A4%EB%A1%9C-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EA%B2%BD%EB%A1%9C-%EC%97%B4%EA%B8%B0)
 
+#### 그림 90.3.2.35.a4. 경로 선택하면 십자선(crosshair) 아이콘으로 바뀜 
+![90-03-02-35-paths-cross_hair_animation](https://github.com/wonder13662/gimp/assets/15767104/ed6d4fbd-604c-4310-be1e-1d3b7a6a1092)
+
+[7.5.1. 경로 만들기 - 그림 90.3.2.35.a4]()
+
+#### 그림 90.3.2.35.a5. 경로 대화상자의 편집모드 - 디자인
+![90-03-35-paths(w1080)-focus-edit_design](https://github.com/wonder13662/gimp/assets/15767104/c820622b-61fa-4991-9a1f-8d3d7efc8234)
+
+[7.5.1. 경로 만들기 - 그림 90.3.2.35.a5]()
+
 ***
 
 ## 다른 페이지로 가기
