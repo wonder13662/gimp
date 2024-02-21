@@ -64,6 +64,11 @@
 
 [7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a127](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-02-adding-or-subtracting-selections.html#%EC%98%81%EC%83%81-90413a127-shift--ctrl-%EB%88%8C%EB%9F%AC-%EC%84%A0%ED%83%9D-%EB%AA%A8%EB%93%9C%ED%98%84%EC%9E%AC-%EC%84%A0%ED%83%9D%EA%B3%BC-%EA%B5%90%EC%B0%A8%ED%95%98%EA%B8%B0intersect%EB%A1%9C-%EC%A0%84%ED%99%98)
 
+#### 영상 90.4.1.3.a131. 선택 외곽선 - 행진하는 개미(Marching ants)
+![marching_ants](https://github.com/wonder13662/gimp/assets/15767104/ba34706e-68e9-4b1f-9c29-1f649109a9b3)
+
+[7.3.1. 퀵마스크 개요 - 영상 90.4.1.3.a131]()
+
 ***
 
 ## 다른 페이지로 가기
