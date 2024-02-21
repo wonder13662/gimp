@@ -74,13 +74,13 @@ Ctrl(⌘)을 누른채로 닫을 경로 위에 마우스 커서를 올리면 `�
 ![path_props-start_point-animation](https://github.com/wonder13662/gimp/assets/15767104/edd6c798-eb98-4ce0-9d37-5caabfa56e09)
 
 ### 경로 속성 - 끝점(end point)
-끝점은 손잡이(handle)이라고도 합니다. 끝점은 작은 사각형의 모양입니다. 끝점을 클릭,드래그해서 방향선의 방향과 길이를 조정할 수 있습니다. 방향선의 길이와 방향은 선분의 휘어지는 도를 조절합니다.
+끝점은 손잡이(handle)이라고도 합니다. 끝점은 작은 사각형의 모양입니다. 끝점을 클릭,드래그해서 방향선의 방향과 길이를 조정할 수 있습니다. 방향선의 길이와 방향은 선분의 휘어지는 정도를 조절합니다.
 
 #### 그림 90.3.2.35.a23. 경로 속성 - 끝점(end point)
 ![path_props-end_point-animation](https://github.com/wonder13662/gimp/assets/15767104/9165159d-a9ca-42a4-a64e-571c7c8aa0ab)
 
 ### 경로 속성 - 방향선(direction line)
-방향선의 길이와 방향은 선분의 휘어지는 도를 조절합니다. 방향선을 조정하기 위해서는 끝점을 클릭, 드래그해야 합니다. 방향선은 다른 선들과는 다른색(노란색)으로 표시됩니다.
+방향선의 길이와 방향은 선분의 휘어지는 정도를 조절합니다. 방향선을 조정하기 위해서는 끝점을 클릭, 드래그해야 합니다. 방향선은 다른 선들과는 다른색(노란색)으로 표시됩니다.
 
 #### 그림 90.3.2.35.a24. 경로 속성 - 방향선(direction line)
 ![path_props-direction_line-animation](https://github.com/wonder13662/gimp/assets/15767104/0dd4625e-1d17-4554-9592-31b0a1963b98)
