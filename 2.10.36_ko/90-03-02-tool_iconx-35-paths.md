@@ -23,10 +23,22 @@
 
 [7.5.1. 경로 만들기 - 그림 90.3.2.35.a5]()
 
-#### 그림 90.3.2.35.a6. 경로의 점을 추가할 때 마우스 커서의 `+` 아이콘
+#### 그림 90.3.2.35.a6. 경로의 점을 추가할 때 마우스 커서의 `십자 화살표`와 `+` 아이콘
 ![90-03-02-35-mouse_cursor-add_icon(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/69e85afe-9002-4a92-b1ae-5b74a265c8ba)
 
 [7.5.1. 경로 만들기 - 그림 90.3.2.35.a6]()
+
+#### 그림 90.3.2.35.a7. 닫을 경로의 점 위로 마우스를 올리면 나타나는 `고리` 아이콘
+<video controls="controls" src="https://github.com/wonder13662/gimp/assets/15767104/67509d5c-c57a-4273-a845-022f5b25ed06"></video>
+
+#### 그림 90.3.2.35.a8. 다른 작업을 한 뒤에 닫을 경로의 점 위로 마우스를 올리면 `고리` 아이콘이 나타나지 않음
+<video controls="controls" src="https://github.com/wonder13662/gimp/assets/15767104/32b1c31f-b749-42d4-87ed-b6ad7267c745"></video>
+
+#### 그림 90.3.2.35.a9. 닫은 경로를 엔터키를 눌러 선택으로 바꿈
+<video controls="controls" src="https://github.com/wonder13662/gimp/assets/15767104/005e56f8-22ed-4216-82f9-19aba6387ba4"></video>
+
+#### 그림 90.3.2.35.a10. 닫은 경로를 대화상자의 "경로로부터 선택 영역 만들기"를 클릭해서 선택으로 바꿈
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a22f0f9b-0562-4f0d-bf57-52f8f56ae0bc"></video>
 
 ***
 

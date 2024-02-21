@@ -32,15 +32,29 @@
 
 점을 추가하는 동안에는 마우스 커서는 곡선 아이콘 옆에 작은 `+` 표시를 가지고 있습니다. 이 표시는 클릭하면 새로운 점을 추가한다는 의미입니다.
 
-아래 영상에서 마우스 커서가 추가한 점에 가까이 갔을 때는 점을 이동시키는 `십자 화살표`가 표시되며, 점에서 떨어졌을 때는 새로운 점을 추가하는 `+`가 표시되는 것을 확인할 수 있습니다.
-#### 그림 90.3.2.35.a6. 경로의 점을 추가할 때 마우스 커서의 `+` 아이콘
+아래 영상에서 마우스 커서가 추가한 점에 가까이 갔을 때는 점을 옮길 수 있는 상태인 `십자 화살표`가 표시되며, 점에서 떨어졌을 때는 새로운 점을 추가할 수 있는 상태인 `+` 가 표시되는 것을 확인할 수 있습니다.
+
+#### 그림 90.3.2.35.a6. 경로의 점을 추가할 때 마우스 커서의 `십자 화살표`와 `+` 아이콘
 ![90-03-02-35-mouse_cursor-add_icon(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/69e85afe-9002-4a92-b1ae-5b74a265c8ba)
 
-## 경로 옮기기
-When the mouse cursor is close to one of the path points, the "+" changes into a cross with arrows; like the move tool. You can then move the existing path point.
-
 ## 경로 닫기
-To close your path, go with the mouse on top of the point you want to connect to, and then Ctrl + click that point. When you are done designing your path, you can click Enter. This will turn the path into a Selection. 
+경로를 닫을 때, 마우스 커서를 연결하고 싶은 점 위로 옮깁니다. 그리고 Ctrl(⌘)을 누른채로 점을 클릭합니다. 경로를 그리는 것이 완료되면, 엔터를 누릅니다. 그러면 경로가 선택으로 바뀝니다.
+
+Ctrl(⌘)을 누른채로 닫을 경로 위에 마우스 커서를 올리면 `고리` 모양의 아이콘이 마우스 커서(십자선) 옆에 나타납니다. 이 상태에서 점을 클릭하면 경로가 닫히게 됩니다.
+#### 그림 90.3.2.35.a7. 닫을 경로의 점 위로 마우스를 올리면 나타나는 `고리` 아이콘
+<video controls="controls" src="https://github.com/wonder13662/gimp/assets/15767104/67509d5c-c57a-4273-a845-022f5b25ed06"></video>
+
+⚠️ 주의: 때로는 닫을 경로에 마우스 커서를 올리면 `고리` 모양의 아이콘이 나타나지 않을 경우도 있습니다. 하지만 Ctrl(⌘)을 누른채로 클릭하면 경로를 닫을 수 있습니다.
+#### 그림 90.3.2.35.a8. 다른 작업을 한 뒤에 닫을 경로의 점 위로 마우스를 올리면 `고리` 아이콘이 나타나지 않음
+<video controls="controls" src="https://github.com/wonder13662/gimp/assets/15767104/32b1c31f-b749-42d4-87ed-b6ad7267c745"></video>
+
+닫은 경로를 만든 뒤에 엔터키를 누르면 경로에서 선택을 만듭니다. 경로가 사라지는 것은 아닙니다.
+#### 그림 90.3.2.35.a9. 닫은 경로를 엔터키를 눌러 선택으로 바꿈
+<video controls="controls" src="https://github.com/wonder13662/gimp/assets/15767104/005e56f8-22ed-4216-82f9-19aba6387ba4"></video>
+
+닫은 경로를 만든 뒤에 대화상자의 "경로로부터 선택 영역 만들기"를 클릭해도 선택을 만들 수 있습니다.
+#### 그림 90.3.2.35.a10. 닫은 경로를 대화상자의 "경로로부터 선택 영역 만들기"를 클릭해서 선택으로 바꿈
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a22f0f9b-0562-4f0d-bf57-52f8f56ae0bc"></video>
 
 ## 경로 고치기
 You can also keep adding more points, or start changing the curves of the path.
