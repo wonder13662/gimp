@@ -1,5 +1,5 @@
 # 7.3.1. 퀵마스크 개요
-GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marching ants)"라고 부르는 선택의 외곽선입니다. 
+GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marching ants)"라고 부르는 선택의 외곽선을 사용하는 것입니다.
 
 #### [영상 90.4.1.3.a131. 선택 외곽선 - 행진하는 개미(Marching ants)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-03-rectangle_select.html#%EC%98%81%EC%83%81-90413a131-%EC%84%A0%ED%83%9D-%EC%99%B8%EA%B3%BD%EC%84%A0---%ED%96%89%EC%A7%84%ED%95%98%EB%8A%94-%EA%B0%9C%EB%AF%B8marching-ants)
 [![marching_ants](https://github.com/wonder13662/gimp/assets/15767104/ba34706e-68e9-4b1f-9c29-1f649109a9b3)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-03-rectangle_select.html#%EC%98%81%EC%83%81-90413a131-%EC%84%A0%ED%83%9D-%EC%99%B8%EA%B3%BD%EC%84%A0---%ED%96%89%EC%A7%84%ED%95%98%EB%8A%94-%EA%B0%9C%EB%AF%B8marching-ants)
