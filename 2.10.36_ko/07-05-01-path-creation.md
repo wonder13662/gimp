@@ -5,15 +5,15 @@
 경로 도구를 선택합니다. 아래 방법 중 하나를 선택해주세요.
 
 ### 1. 이미지 메뉴바의 `도구` → `경로` 선택
-#### 그림 90.1.8.4.a101. `도구` → `경로`
-![90-01-08-tools(1080)-focus-paths](https://github.com/wonder13662/gimp/assets/15767104/724c198c-17ce-441b-ad81-56b4e9155759)
+#### [그림 90.1.8.4.a101. `도구` → `경로`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-04-paths.html#%EA%B7%B8%EB%A6%BC-90184a101-%EB%8F%84%EA%B5%AC--%EA%B2%BD%EB%A1%9C)
+[![90-01-08-tools(1080)-focus-paths](https://github.com/wonder13662/gimp/assets/15767104/724c198c-17ce-441b-ad81-56b4e9155759)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-04-paths.html#%EA%B7%B8%EB%A6%BC-90184a101-%EB%8F%84%EA%B5%AC--%EA%B2%BD%EB%A1%9C)
 
 ### 2. 도구 상자에서 `경로` 선택
-#### 그림 90.3.2.35.a2. 도구상자 - 경로
-![그림 90.3.2.35.a2. 도구상자 - 경로](https://github.com/wonder13662/gimp/assets/15767104/577e558a-9a9e-4376-9fde-a49781286f10)zebu80
+#### [그림 90.3.2.35.a2. 도구상자 - 경로](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EA%B2%BD%EB%A1%9C)
+[![그림 90.3.2.35.a2. 도구상자 - 경로](https://github.com/wonder13662/gimp/assets/15767104/577e558a-9a9e-4376-9fde-a49781286f10)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EA%B2%BD%EB%A1%9C)
 
 ### 3. 단축키 `B` 클릭
-#### 영상 90.3.2.35.a2. 단축키로 도구상자 - 경로 열기
+#### 영상 90.3.2.35.a3. 단축키로 도구상자 - 경로 열기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8434cfe3-b8c1-428c-b563-7f20dc7e6d38"></video>
 
 ## 마우스 커서 바뀌는 모습 확인하기

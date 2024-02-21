@@ -6,12 +6,12 @@
 #### 그림 90.3.2.35.a2. 도구상자 - 경로
 ![그림 90.3.2.35.a2. 도구상자 - 경로](https://github.com/wonder13662/gimp/assets/15767104/577e558a-9a9e-4376-9fde-a49781286f10)
 
-[7.5.1. 경로 만들기 - 그림 90.3.2.35.a2]()
+[7.5.1. 경로 만들기 - 그림 90.3.2.35.a2](https://wonder13662.github.io/gimp/2.10.36_ko/07-05-01-path-creation.html#%EA%B7%B8%EB%A6%BC-903235a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EA%B2%BD%EB%A1%9C)
 
-#### 영상 90.3.2.35.a2. 단축키로 도구상자 - 경로 열기
+#### 영상 90.3.2.35.a3. 단축키로 도구상자 - 경로 열기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8434cfe3-b8c1-428c-b563-7f20dc7e6d38"></video>
 
-[7.5.1. 경로 만들기 - 영상 90.3.2.35.a2]()
+[7.5.1. 경로 만들기 - 영상 90.3.2.35.a3]()
 
 ***
 

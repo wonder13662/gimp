@@ -3,7 +3,7 @@
 #### 그림 90.1.8.4.a101. `도구` → `경로`
 ![90-01-08-tools(1080)-focus-paths](https://github.com/wonder13662/gimp/assets/15767104/724c198c-17ce-441b-ad81-56b4e9155759)
 
-[7.5.1. 경로 만들기 - 그림 90.1.8.4.a101]()
+[7.5.1. 경로 만들기 - 그림 90.1.8.4.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-05-01-path-creation.html#%EA%B7%B8%EB%A6%BC-90184a101-%EB%8F%84%EA%B5%AC--%EA%B2%BD%EB%A1%9C)
 
 ***
 
