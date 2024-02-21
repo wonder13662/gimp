@@ -17,7 +17,7 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8434cfe3-b8c1-428c-b563-7f20dc7e6d38"></video>
 
 ## 마우스 커서 바뀌는 모습 확인하기
-경로 도구가 선택되면, 마우스 커서가 곡선 아이콘이 옆이 있는 십자선(cross hair)으로 바뀝니다. 실제 모양은 [마우스 포인터 모드 설정](./12-01-18-image-window.md)에 따라 다릅니다. 
+경로 도구가 선택되면, 마우스 커서의 오른쪽 아래의 아이콘이 곡선 아이콘으로 바뀝니다. 실제 모양은 [마우스 포인터 모드 설정](./12-01-18-image-window.md)에 따라 다를 수 있습니다.
 
 #### [그림 90.3.2.35.a4. 경로 선택하면 마우스 커서의 아이콘이 곡선 아이콘으로 바뀜](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a4-%EA%B2%BD%EB%A1%9C-%EC%84%A0%ED%83%9D%ED%95%98%EB%A9%B4-%EB%A7%88%EC%9A%B0%EC%8A%A4-%EC%BB%A4%EC%84%9C%EC%9D%98-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%B4-%EA%B3%A1%EC%84%A0-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9C%BC%EB%A1%9C-%EB%B0%94%EB%80%9C)
 [![90-03-02-35-paths-cross_hair_animation](https://github.com/wonder13662/gimp/assets/15767104/ed6d4fbd-604c-4310-be1e-1d3b7a6a1092)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a4-%EA%B2%BD%EB%A1%9C-%EC%84%A0%ED%83%9D%ED%95%98%EB%A9%B4-%EB%A7%88%EC%9A%B0%EC%8A%A4-%EC%BB%A4%EC%84%9C%EC%9D%98-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%B4-%EA%B3%A1%EC%84%A0-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9C%BC%EB%A1%9C-%EB%B0%94%EB%80%9C)
@@ -85,8 +85,6 @@ Ctrl(⌘)을 누른채로 닫을 경로 위에 마우스 커서를 올리면 `�
 #### [그림 90.3.2.35.a24. 경로 속성 - 방향선(direction line)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a24-%EA%B2%BD%EB%A1%9C-%EC%86%8D%EC%84%B1---%EB%B0%A9%ED%96%A5%EC%84%A0direction-line)
 [![path_props-direction_line-animation](https://github.com/wonder13662/gimp/assets/15767104/0dd4625e-1d17-4554-9592-31b0a1963b98)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a24-%EA%B2%BD%EB%A1%9C-%EC%86%8D%EC%84%B1---%EB%B0%A9%ED%96%A5%EC%84%A0direction-line)
 
-⚠️ 주의: 위 이미지에는 시작점과 끝점 그리고 방향선이 모두 2개씩 보입니다. 이는 이해를 돕기 위해 한 선분이 가지고 있는 경로 요소를 모두 표시한 것입니다. 실제로는 한번에 시작점과 끝점 그리고 방향선이 모두 1개씩 보입니다.
-
 경로의 곡선을 고치려면, 마우스 커서를 선분에 가까이 가져가서 왼쪽 클릭을 하고 드래그해야 합니다. 그러면 두가지 일이 일어납니다.
 
 1. 선분을 당기는 방향대로 구부러집니다
@@ -94,6 +92,9 @@ Ctrl(⌘)을 누른채로 닫을 경로 위에 마우스 커서를 올리면 `�
 
 #### [그림 90.3.2.35.a31. 경로의 선분을 클릭 + 드래그](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a31-%EA%B2%BD%EB%A1%9C%EC%9D%98-%EC%84%A0%EB%B6%84%EC%9D%84-%ED%81%B4%EB%A6%AD--%EB%93%9C%EB%9E%98%EA%B7%B8)
 <video controls="controls" width="320" src="https://github.com/wonder13662/gimp/assets/15767104/0e5783cb-84c0-4b3f-bf02-5ba477be10f1"></video>
+
+(TODO 고정된 점(anchor point), 선택된 점(selected anchor)에 대한 추가 설명이 필요하다. 시작점에서 내용 추가하면 될 듯 - 점의 상태는 Path의 상세 설명이 추가된 뒤에 다시 정리하는 것이 좋을 것 같다.)
+(TODO 각 모드(디자인, 편집, 이동)에 대한 설명이 부족하다. 이것은 이후 Path에 대한 상세 설명이 된다면 연동해서 내용을 추가하는 것이 좋을 것 같다.)
 
 ***
 
