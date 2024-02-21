@@ -23,12 +23,12 @@
 
 점선 외곽선으로 "선택"을 나타내는 것은 완전하지 않습니다. 점선 외곽선만으로는 선택된 영역인지, 선택되지 않은 영역인지 확인하기 어려울 때가 많습니다. "선택"을 확실하게 확인하고 싶다면, 이미지 창의 왼쪽 구석의 [퀵마스크 버튼](./07-03-00-the-quickmask.md)을 클릭하세요(아래 이미지의 반투명 녹색으로 깜빡이는 5번 영역입니다.).
 
-#### [그림 90.5.5.a102. (5)퀵마스크 토글 버튼의 위치 (단일창)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-05-quickmast_toggle.html#%EA%B7%B8%EB%A6%BC-9055a102-5%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD)
-[![그림 90.5.5.a102. (5)퀵마스크 토글 버튼의 위치 (단일창)](https://github.com/wonder13662/gimp/assets/15767104/64879a12-f3e5-47ad-94da-f47653824bc6)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-05-quickmast_toggle.html#%EA%B7%B8%EB%A6%BC-9055a102-5%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD)
+#### [그림 90.5.5.a102. (5)퀵마스크 토글 버튼의 위치 (단일창)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-05-quickmask_toggle.html#%EA%B7%B8%EB%A6%BC-9055a102-5%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD)
+[![그림 90.5.5.a102. (5)퀵마스크 토글 버튼의 위치 (단일창)](https://github.com/wonder13662/gimp/assets/15767104/64879a12-f3e5-47ad-94da-f47653824bc6)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-05-quickmask_toggle.html#%EA%B7%B8%EB%A6%BC-9055a102-5%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD)
 
 클릭하면, 이미지의 위의 반투명의 덮개(overlay)로 "선택" 영역이 보입니다. 선택된 영역은 퀵마스크의 영향을 받지 않습니다. 선택되지 않은 곳은 붉게 보입니다. 더 완전히 선택된 곳일수록 덜 붉게 보입니다. 아래 영상에서 퀵마스크 모드로 선택 영역을 확인하는 과정을 볼 수 있습니다.
 
-#### [영상 90.5.5.a121. 퀵마스크 적용으로 선택영역 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-05-quickmast_toggle.html#%EC%98%81%EC%83%81-9055a121-%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%A0%81%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%84%A0%ED%83%9D%EC%98%81%EC%97%AD-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+#### [영상 90.5.5.a121. 퀵마스크 적용으로 선택영역 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-05-quickmask_toggle.html#%EC%98%81%EC%83%81-9055a121-%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%A0%81%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%84%A0%ED%83%9D%EC%98%81%EC%97%AD-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ecb7111d-e19d-4959-bd35-65dd55af06a0"></video>
 
 [퀵마스크 개요](./07-03-01-overview.md)에서도 이야기하겠지만, 많은 기능이 퀵마스크 모드에서는 다르게 동작합니다.

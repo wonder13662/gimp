@@ -40,6 +40,36 @@
 
 [7.3.1. 퀵마스크 개요 - 영상 90.5.5.a131](https://wonder13662.github.io/gimp/2.10.36_ko/07-03-01-overview.html#%EC%98%81%EC%83%81-9055a131-%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%84%A0%ED%83%9D%EC%98%81%EC%97%AD-%EB%B3%B5%EC%82%AC%ED%95%B4%EC%84%9C-%EB%8B%A4%EB%A5%B8-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0)
 
+#### 그림 90.5.5.a141. 퀵마스크 속성 팝업
+![90-05-05-quickmask_toggle](https://github.com/wonder13662/gimp/assets/15767104/2954402e-430e-4388-8e8c-976b686a4b65)
+
+[7.3.2. 퀵마스크 속성 - ]()
+
+#### 그림 90.5.5.a142. 퀵마스크 모드 전환하기
+<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/cf060f8f-fd3b-493f-8346-be27b376f749"></video>
+
+[7.3.2. 퀵마스크 속성 - ]()
+
+#### 그림 90.5.5.a143. 퀵마스크 속성 팝업 띄우기
+<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/1ca29c3a-3aa8-4243-8c21-b1d66c414546"></video>
+
+[7.3.2. 퀵마스크 속성 - ]()
+
+#### 그림 90.5.5.a144. 퀵마스크 속성 팝업 - 마스크 전환하기
+<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/6b63bcb2-cc5a-4179-a226-d78c58b060eb"></video>
+
+[7.3.2. 퀵마스크 속성 - ]()
+
+#### 그림 90.5.5.a145. 퀵마스크 속성 팝업 - 마스크 색상 변경하기
+<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/27b1498b-a9f5-4c6d-9f4c-1ab75c1d2091"></video>
+
+[7.3.2. 퀵마스크 속성 - ]()
+
+#### 그림 90.5.5.a146. 퀵마스크 속성 팝업 - 마스크 투명도 변경하기
+<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/dc28a625-11cc-4941-b37c-8a141381a7e6"></video>
+
+[7.3.2. 퀵마스크 속성 - ]()
+
 ***
 
 ## 다른 페이지로 가기
