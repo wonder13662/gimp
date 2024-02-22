@@ -62,19 +62,19 @@ Ctrl(⌘)을 누른채로 닫을 경로 위에 마우스 커서를 올리면 `�
 경로를 수정하는데 필요한 속성들을 먼저 살펴보겠습니다.
 
 ### 경로 속성 - 선분(line segment)
-선분은 두 개의 점 사이의 직선을 가리키는 말입니다. 아래의 이미지에서 두 개의 점 사이의 선이 선분입니다. 선분은 2개의 시작점과 2개의 끝점을 가집니다. 사전적 정의와는 다르게 곡선으로 보이지만, 끝점과 방향선을 조정하기 전에는 직선이므로 선분이라는 표현을 썼습니다. 끝점과 방향선을 조절해서 구부릴 수 있습니다.
+선분은 두 개의 점 사이의 직선을 가리키는 말입니다. 아래의 이미지에서 두 개의 점 사이의 선이 선분입니다. 선분은 2개의 시작점과 2개의 끝점을 가집니다. 사전적 정의와는 다르게 곡선으로 보이지만, 끝점과 방향선을 조정하기 전에는 직선이므로 선분이라는 표현을 썼습니다. 끝점과 방향선을 조절해서 구부릴 수 있습니다. 경로 마디(Path segment)라고도 합니다.
 
 #### [그림 90.3.2.35.a21. 경로 속성 - 선분(line segment)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a21-%EA%B2%BD%EB%A1%9C-%EC%86%8D%EC%84%B1---%EC%84%A0%EB%B6%84line-segment)
 [![path_props-line-segment-animation](https://github.com/wonder13662/gimp/assets/15767104/154dde14-8ab5-4d67-8d2a-5923ae7bc2a2)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a21-%EA%B2%BD%EB%A1%9C-%EC%86%8D%EC%84%B1---%EC%84%A0%EB%B6%84line-segment)
 
-### 경로 속성 - 시작점(start point)
-선분은 2개의 시작점을 가집니다. 시작점은 원의 형태를 하고 있습니다. 그리고 2개의 시작점 사이에 선분이 있습니다. 여기서의 시작점은 선분의 시작점이 아닌 방향선의 시작점을 의미합니다.
+### 경로 속성 - 시작점(start point) 또는 고정점(anchor)
+선분은 2개의 시작점을 가집니다. 시작점은 원의 형태를 하고 있습니다. 그리고 2개의 시작점 사이에 선분이 있습니다. 여기서의 시작점은 선분의 시작점이 아닌 방향선의 시작점을 의미합니다. 시작점은 고정점(anchor)라고도 합니다. 고정점은 경로가 지나가는 점입니다.
 
-#### [그림 90.3.2.35.a22. 경로 속성 - 시작점(start point)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a22-%EA%B2%BD%EB%A1%9C-%EC%86%8D%EC%84%B1---%EC%8B%9C%EC%9E%91%EC%A0%90start-point)
-[![path_props-start_point-animation](https://github.com/wonder13662/gimp/assets/15767104/edd6c798-eb98-4ce0-9d37-5caabfa56e09)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a22-%EA%B2%BD%EB%A1%9C-%EC%86%8D%EC%84%B1---%EC%8B%9C%EC%9E%91%EC%A0%90start-point)
+#### [그림 90.3.2.35.a22. 경로 속성 - 시작점(start point) 또는 고정점(anchor)]()
+[![path_props-start_point-animation](https://github.com/wonder13662/gimp/assets/15767104/edd6c798-eb98-4ce0-9d37-5caabfa56e09)]()
 
 ### 경로 속성 - 끝점(end point)
-끝점은 손잡이(handle)이라고도 합니다. 끝점은 작은 사각형의 모양입니다. 끝점을 클릭,드래그해서 방향선의 방향과 길이를 조정할 수 있습니다. 방향선의 길이와 방향은 선분의 휘어지는 정도를 조절합니다.
+끝점은 핸들(handle)이라고도 합니다. 끝점은 작은 사각형의 모양입니다. 끝점을 클릭,드래그해서 방향선의 방향과 길이를 조정할 수 있습니다. 방향선의 길이와 방향은 선분의 휘어지는 정도를 조절합니다.
 
 #### [그림 90.3.2.35.a23. 경로 속성 - 끝점(end point)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a23-%EA%B2%BD%EB%A1%9C-%EC%86%8D%EC%84%B1---%EB%81%9D%EC%A0%90end-point)
 [![path_props-end_point-animation](https://github.com/wonder13662/gimp/assets/15767104/9165159d-a9ca-42a4-a64e-571c7c8aa0ab)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a23-%EA%B2%BD%EB%A1%9C-%EC%86%8D%EC%84%B1---%EB%81%9D%EC%A0%90end-point)

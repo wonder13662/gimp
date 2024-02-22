@@ -53,10 +53,10 @@
 
 [7.5.1. 경로 만들기 - 그림 90.3.2.35.a21](https://wonder13662.github.io/gimp/2.10.36_ko/07-05-01-path-creation.html#%EA%B7%B8%EB%A6%BC-903235a21-%EA%B2%BD%EB%A1%9C-%EC%86%8D%EC%84%B1---%EC%84%A0%EB%B6%84line-segment)
 
-#### 그림 90.3.2.35.a22. 경로 속성 - 시작점(start point)
+#### 그림 90.3.2.35.a22. 경로 속성 - 시작점(start point) 또는 고정점(anchor)
 ![path_props-start_point-animation](https://github.com/wonder13662/gimp/assets/15767104/edd6c798-eb98-4ce0-9d37-5caabfa56e09)
 
-[7.5.1. 경로 만들기 - 그림 90.3.2.35.a22](https://wonder13662.github.io/gimp/2.10.36_ko/07-05-01-path-creation.html#%EA%B7%B8%EB%A6%BC-903235a22-%EA%B2%BD%EB%A1%9C-%EC%86%8D%EC%84%B1---%EC%8B%9C%EC%9E%91%EC%A0%90start-point)
+[7.5.1. 경로 만들기 - 그림 90.3.2.35.a22]()
 
 #### 그림 90.3.2.35.a23. 경로 속성 - 끝점(end point)
 ![path_props-end_point-animation](https://github.com/wonder13662/gimp/assets/15767104/9165159d-a9ca-42a4-a64e-571c7c8aa0ab)
