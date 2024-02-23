@@ -1,10 +1,12 @@
 # 90.1.2.20. 경로 따라 그리기(Stroke Path)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.2.20.a101. `편집` - `경로 따라 그리기`
+![90-00-image_menu_bar-edit-focus-stroke_path(w1080)](https://github.com/wonder13662/gimp/assets/15767104/d4b34f6b-d4da-41f2-aa6e-128ba1125b7d)
 
-***
+#### 그림 90.1.2.20.a102. `편집` - `경로 따라 그리기`로 선 그리기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4248aea3-b002-4970-9f06-1c9b00c961eb"></video>
 
-## 관련 정보
+[7.5.5. 경로 따라 그리기 - 그림 90.1.2.20.a102]()
 
 ***
 

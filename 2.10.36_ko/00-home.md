@@ -1226,6 +1226,8 @@
 
 [90.4.50. 레이어 마스크 추가(Add Layer Mask)](./90-04-50-add_layer_mask.md)
 
+[90.4.51. 경로 따라 그리기(Stroke Path)](./90-04-51-stroke_path.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

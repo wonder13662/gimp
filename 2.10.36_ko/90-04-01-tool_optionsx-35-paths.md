@@ -1,6 +1,17 @@
 # 90.4.1.35. 경로(Paths)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+#### 그림 90.4.1.35.a101. 경로 도구옵션
+![90-04-01-tool_optionsx-35-paths](https://github.com/wonder13662/gimp/assets/15767104/dee59e10-5d74-4f0f-967a-a6cbb5415df4)
+
+#### 그림 90.4.1.35.a102. 경로 도구옵션 - `경로 따라 그리기`
+![90-04-01-tool_optionsx-35-paths-focus-stroke_path](https://github.com/wonder13662/gimp/assets/15767104/34a212ad-f35f-4fb7-94a9-015a873882ae)
+
+[7.5.5. 경로 따라 그리기 - 그림 90.4.1.35.a102]()
+
+#### 영상 90.4.1.35.a103. 경로 도구옵션 - `경로 따라 그리기`로 선 그리기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ebad5fdc-7c60-47b8-bc42-9e3ed00ec004"></video>
+
+[7.5.5. 경로 따라 그리기 - 영상 90.4.1.35.a103]()
 
 #### 그림 90.4.1.35.a111. 네가지 다른 종류의 경로
 ![path-examples](https://github.com/wonder13662/gimp/assets/15767104/ede51131-8fdf-403f-a64c-62e98272841a)

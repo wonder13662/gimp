@@ -277,6 +277,10 @@
 ![90-04-49-feather_selection(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b468219f-1b07-4ded-97e5-d6df5278c41b)
 
 ### [90.4.50. 레이어 마스크 추가(Add Layer Mask)](./90-04-50-add_layer_mask.md)
+#### 그림 90.4.50.a101. `레이어 마스크 추가` 대화상자 (Windows) (우리말)
+![90-04-50-add_layer_mask(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/0d4accd8-02e8-401e-af08-5d0a15d0e8fe)
+
+### [90.4.51. 경로 따라 그리기(Stroke Path)](./90-04-51-stroke_path.md)
 (TODO 이미지 추가)
 
 ***
