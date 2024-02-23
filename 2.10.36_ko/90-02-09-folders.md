@@ -32,7 +32,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.2.10. 실험 놀이터 (Experimental Playground)](./90-02-10-playground.md)
+[➡️ 다음: 90.2.9.1. 폴더(Folders) - 붓(Brushes)](./90-02-09-foldersx-01-brushes.md)
 
 [⬅️ 이전: 90.2.8.1. 입력 제어기 (Input Controllers)](./90-02-08-input-devicex-01-input-controllers.md)
 

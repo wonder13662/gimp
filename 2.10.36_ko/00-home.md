@@ -956,6 +956,8 @@
 
 [90.2.9. 폴더 (Folders)](./90-02-09-folders.md)
 
+[90.2.9.1. 폴더(Folders) - 붓(Brushes)](./90-02-09-foldersx-01-brushes.md)
+
 [90.2.10. 실험 놀이터 (Experimental Playground)](./90-02-10-playground.md)
 
 [90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)

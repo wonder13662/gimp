@@ -17,13 +17,9 @@
 
 ***
 
-## 관련 정보
-
-***
-
 ## 다른 페이지로 가기
 
-[⬅️ 이전: 90.2.9. 폴더 (Folders)](./90-02-09-folders.md)
+[⬅️ 이전: 90.2.9.1. 폴더(Folders) - 붓(Brushes)](./90-02-09-foldersx-01-brushes.md)
 
 [⬆️ 위: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 
