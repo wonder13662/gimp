@@ -4,35 +4,35 @@
 ## 이미지 메뉴 바의 `편집` → `경로 따라 그리기`
 이미지 메뉴 바의 `편집` → `경로 따라 그리기`을 선택합니다.
 
-#### 그림 90.1.2.20.a101. `편집` - `경로 따라 그리기`
-![90-00-image_menu_bar-edit-focus-stroke_path(w1080)](https://github.com/wonder13662/gimp/assets/15767104/d4b34f6b-d4da-41f2-aa6e-128ba1125b7d)
+#### [그림 90.1.2.20.a101. `편집` - `경로 따라 그리기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-20-stroke_path.html#%EA%B7%B8%EB%A6%BC-901220a101-%ED%8E%B8%EC%A7%91---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
+[![90-00-image_menu_bar-edit-focus-stroke_path(w1080)](https://github.com/wonder13662/gimp/assets/15767104/d4b34f6b-d4da-41f2-aa6e-128ba1125b7d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-20-stroke_path.html#%EA%B7%B8%EB%A6%BC-901220a101-%ED%8E%B8%EC%A7%91---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
 
-#### 그림 90.1.2.20.a102. `편집` - `경로 따라 그리기`로 선 그리기
+#### [그림 90.1.2.20.a102. `편집` - `경로 따라 그리기`로 선 그리기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-20-stroke_path.html#%EA%B7%B8%EB%A6%BC-901220a102-%ED%8E%B8%EC%A7%91---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0%EB%A1%9C-%EC%84%A0-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4248aea3-b002-4970-9f06-1c9b00c961eb"></video>
 
 ## 경로 대화상자의 팝업 메뉴 - `경로 따라 그리기`
 [경로 대화상자](./15-02-03-paths-dialog.md)에서 오른쪽 클릭을 해서 나오는 팝업 메뉴에서 `경로 따라 그리기`를 선택합니다.
 
-#### 그림 90.4.5.a2201. 경로 대화상자의 오른쪽 클릭시 팝업 메뉴 - `경로 따라 그리기`
-![90-04-05-paths-right_click_popup-focus-stroke_path](https://github.com/wonder13662/gimp/assets/15767104/45674148-01d8-4956-a37d-be595b71c5eb)
+#### [그림 90.4.5.a2201. 경로 대화상자의 오른쪽 클릭시 팝업 메뉴 - `경로 따라 그리기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EA%B7%B8%EB%A6%BC-9045a2201-%EA%B2%BD%EB%A1%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%8B%9C-%ED%8C%9D%EC%97%85-%EB%A9%94%EB%89%B4---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
+[![90-04-05-paths-right_click_popup-focus-stroke_path](https://github.com/wonder13662/gimp/assets/15767104/45674148-01d8-4956-a37d-be595b71c5eb)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EA%B7%B8%EB%A6%BC-9045a2201-%EA%B2%BD%EB%A1%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%8B%9C-%ED%8C%9D%EC%97%85-%EB%A9%94%EB%89%B4---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
 
-#### 영상 90.4.5.a2202. 경로 대화상자의 오른쪽 클릭시 팝업 메뉴 - `경로 따라 그리기`로 선 그리기
+#### [영상 90.4.5.a2202. 경로 대화상자의 오른쪽 클릭시 팝업 메뉴 - `경로 따라 그리기`로 선 그리기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EC%98%81%EC%83%81-9045a2202-%EA%B2%BD%EB%A1%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%8B%9C-%ED%8C%9D%EC%97%85-%EB%A9%94%EB%89%B4---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0%EB%A1%9C-%EC%84%A0-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/205b1bc1-955d-4a5e-a678-ce17ece4c4df"></video>
 
 ## 경로 도구옵션 대화상자의 `경로 따라 그리기`
 경로 도구 옵션 대화상자의 `경로 따라 그리기` 버튼을 클릭합니다.
 
-#### 그림 90.4.1.35.a102. 경로 도구옵션 - `경로 따라 그리기`
-![90-04-01-tool_optionsx-35-paths-focus-stroke_path](https://github.com/wonder13662/gimp/assets/15767104/34a212ad-f35f-4fb7-94a9-015a873882ae)
+#### [그림 90.4.1.35.a102. 경로 도구옵션 - `경로 따라 그리기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-35-paths.html#%EA%B7%B8%EB%A6%BC-904135a102-%EA%B2%BD%EB%A1%9C-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
+[![90-04-01-tool_optionsx-35-paths-focus-stroke_path](https://github.com/wonder13662/gimp/assets/15767104/34a212ad-f35f-4fb7-94a9-015a873882ae)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-35-paths.html#%EA%B7%B8%EB%A6%BC-904135a102-%EA%B2%BD%EB%A1%9C-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
 
-#### 영상 90.4.1.35.a103. 경로 도구옵션 - `경로 따라 그리기`로 선 그리기
+#### [영상 90.4.1.35.a103. 경로 도구옵션 - `경로 따라 그리기`로 선 그리기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-35-paths.html#%EC%98%81%EC%83%81-904135a103-%EA%B2%BD%EB%A1%9C-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0%EB%A1%9C-%EC%84%A0-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ebad5fdc-7c60-47b8-bc42-9e3ed00ec004"></video>
 
 ## `경로 따라 그리기` 대화상자
 "경로 따라 그리기"를 선택하면 선을 따라 그리는 방법을 조정할 수 있는 대화상자가 뜹니다. 다양한 선 종류를 선택할 수 있고, 도장, 문지르기, 지우개 등도 선택할 수 있습니다.
 
-#### 그림 90.4.51.a101. `경로 따라 그리기` 대화상자 (Windows) (우리말)
-![90-04-51-stroke_path(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/6afd212b-526f-498b-a8cd-a29cb373c15a)
+#### [그림 90.4.51.a101. `경로 따라 그리기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-51-stroke_path.html#%EA%B7%B8%EB%A6%BC-90451a101-%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-51-stroke_path(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/6afd212b-526f-498b-a8cd-a29cb373c15a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-51-stroke_path.html#%EA%B7%B8%EB%A6%BC-90451a101-%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 [다른 운영체제와 언어의 `경로 따라 그리기` 대화상자 확인하기](./90-04-51-stroke_path.md)
 

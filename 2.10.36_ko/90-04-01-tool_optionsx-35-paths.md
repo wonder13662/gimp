@@ -6,12 +6,12 @@
 #### 그림 90.4.1.35.a102. 경로 도구옵션 - `경로 따라 그리기`
 ![90-04-01-tool_optionsx-35-paths-focus-stroke_path](https://github.com/wonder13662/gimp/assets/15767104/34a212ad-f35f-4fb7-94a9-015a873882ae)
 
-[7.5.5. 경로 따라 그리기 - 그림 90.4.1.35.a102]()
+[7.5.5. 경로 따라 그리기 - 그림 90.4.1.35.a102](https://wonder13662.github.io/gimp/2.10.36_ko/07-05-05-stroking-a-path.html#%EA%B7%B8%EB%A6%BC-904135a102-%EA%B2%BD%EB%A1%9C-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
 
 #### 영상 90.4.1.35.a103. 경로 도구옵션 - `경로 따라 그리기`로 선 그리기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ebad5fdc-7c60-47b8-bc42-9e3ed00ec004"></video>
 
-[7.5.5. 경로 따라 그리기 - 영상 90.4.1.35.a103]()
+[7.5.5. 경로 따라 그리기 - 영상 90.4.1.35.a103](https://wonder13662.github.io/gimp/2.10.36_ko/07-05-05-stroking-a-path.html#%EC%98%81%EC%83%81-904135a103-%EA%B2%BD%EB%A1%9C-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0%EB%A1%9C-%EC%84%A0-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
 
 #### 그림 90.4.1.35.a111. 네가지 다른 종류의 경로
 ![path-examples](https://github.com/wonder13662/gimp/assets/15767104/ede51131-8fdf-403f-a64c-62e98272841a)
