@@ -6,6 +6,14 @@
 #### 그림 90.3.2.36.a2. 도구상자 - 텍스트
 ![그림 90.3.2.36.a2. 도구상자 - 텍스트](https://github.com/wonder13662/gimp/assets/15767104/6048b169-9886-400b-808c-5f46c40854ae)
 
+#### 그림 90.3.2.36.a101. 도구상자 - 텍스트의 오른쪽 클릭 팝업 메뉴
+![90-03-02-36-text-right_click_popup(w1080)](https://github.com/wonder13662/gimp/assets/15767104/fe0d1f24-44b6-44a0-a3c6-c06b7b370779)
+
+#### 그림 90.3.2.36.a102. 도구상자 - 텍스트의 오른쪽 클릭 팝업 메뉴 - 텍스트에서 경로
+![90-03-02-36-text-right_click_popup(w1080)-focus-path_from_text](https://github.com/wonder13662/gimp/assets/15767104/e568f659-779c-41c7-9210-3d6f3e0abe91)
+
+[7.5.6. 경로와 텍스트 - 그림 90.3.2.36.a102]()
+
 ***
 
 ## 다른 페이지로 가기
