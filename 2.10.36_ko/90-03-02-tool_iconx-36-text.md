@@ -12,7 +12,7 @@
 #### 그림 90.3.2.36.a102. 도구상자 - 텍스트의 오른쪽 클릭 팝업 메뉴 - 텍스트에서 경로
 ![90-03-02-36-text-right_click_popup(w1080)-focus-path_from_text](https://github.com/wonder13662/gimp/assets/15767104/e568f659-779c-41c7-9210-3d6f3e0abe91)
 
-[7.5.6. 경로와 텍스트 - 그림 90.3.2.36.a102]()
+[7.5.6. 경로와 텍스트 - 그림 90.3.2.36.a102](https://wonder13662.github.io/gimp/2.10.36_ko/07-05-06-paths-and-text.html#%EA%B7%B8%EB%A6%BC-903236a102-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD-%ED%8C%9D%EC%97%85-%EB%A9%94%EB%89%B4---%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B2%BD%EB%A1%9C)
 
 ***
 

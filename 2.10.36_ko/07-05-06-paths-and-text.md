@@ -1,10 +1,10 @@
 # 7.5.6. 경로와 텍스트
 [텍스트](./14-05-06-text.md) 도구로 만든 글자는 경로로 바꿀 수 있습니다. [텍스트](./14-05-06-text.md) 도구로 입력시, 오른쪽 클릭 팝업 메뉴의 `텍스트에서 경로`를 선택하면 됩니다.
 
-#### 그림 90.3.2.36.a102. 도구상자 - 텍스트의 오른쪽 클릭 팝업 메뉴 - 텍스트에서 경로
-![90-03-02-36-text-right_click_popup(w1080)-focus-path_from_text](https://github.com/wonder13662/gimp/assets/15767104/e568f659-779c-41c7-9210-3d6f3e0abe91)
+#### [그림 90.3.2.36.a102. 도구상자 - 텍스트의 오른쪽 클릭 팝업 메뉴 - 텍스트에서 경로](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-36-text.html#%EA%B7%B8%EB%A6%BC-903236a102-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD-%ED%8C%9D%EC%97%85-%EB%A9%94%EB%89%B4---%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B2%BD%EB%A1%9C)
+[![90-03-02-36-text-right_click_popup(w1080)-focus-path_from_text](https://github.com/wonder13662/gimp/assets/15767104/e568f659-779c-41c7-9210-3d6f3e0abe91)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-36-text.html#%EA%B7%B8%EB%A6%BC-903236a102-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD-%ED%8C%9D%EC%97%85-%EB%A9%94%EB%89%B4---%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B2%BD%EB%A1%9C)
 
-#### 영상 90.4.5.a111. 글자를 경로로 바꿈
+#### [영상 90.4.5.a111. 글자를 경로로 바꿈](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EC%98%81%EC%83%81-9045a111-%EA%B8%80%EC%9E%90%EB%A5%BC-%EA%B2%BD%EB%A1%9C%EB%A1%9C-%EB%B0%94%EA%BF%88)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a990f9d9-6d50-48c3-87de-124661170a9e"></video>
 
 이렇게 만든 경로는 여러가지 방법으로 사용할 수 있습니다.
