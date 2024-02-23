@@ -53,18 +53,28 @@ GIMP(김프)에서의 붓은 대부분 `일반 붓`입니다. `일반 붓`은 �
 When you paint using them, the current foreground color (as shown in the Color Area of the Toolbox) is substituted for black
 
 ### 일반 붓 만들기
-`일반 붓`을 만들려면, 작은 회색 이미지를 준비합니다. 이 이미지를 `.gbr` 확장자로 저장합니다. 
+`일반 붓`을 만들려면, 작은 크기의 흑백 이미지를 준비합니다. 
 
-(TODO gbr 파일 만드는 과정 영상추가)
+#### 그림 90.4.15.a151. 일반붓 만들기 - 흑백 이미지
+![ordinary_brush-pixmap](https://github.com/wonder13662/gimp/assets/15767104/4c9eb9f3-b404-4804-8d58-07a490da11ac)
 
-`.gbr` 파일을 `기본 설정` → `폴더` → `붓`에 선택된 폴더 경로로 옮깁니다.
+이 이미지를 `.gbr` 확장자로 저장합니다. 
 
-#### 90.2.9.1.a111. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더
+#### 영상 90.4.15.a152. 일반붓 만들기 - 흑백 이미지를 `.gbr` 파일로 내보내기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/88fa3ae4-6970-4ed4-a1ed-32aa26eb56db"></video>
+
+`.gbr` 파일을 `기본 설정` → `폴더` → `붓`에 선택된 "붓 폴더" 경로로 옮깁니다. 저장한 파일은 `Refresh brushes` 버튼을 눌러서 새로 추가한 `일반 붓`을 붓 대화상자에 띄웁니다.
+
+#### 그림 90.2.9.1.a111. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더
 ![90-02-09-foldersx-01-brushes(windows)(ko)-focus-selected_folder](https://github.com/wonder13662/gimp/assets/15767104/a9032345-5c9e-4bf3-b184-34a6de4bc5b9)
 
-저장한 파일은 `Refresh brushes` 버튼을 눌러서 새로 추가한 `일반 붓`을 붓 대화상자에 띄웁니다.
+#### 영상 90.4.15.a153. 일반붓 만들기 - `.gbr` 파일을 불러오기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40fdc204-f9d5-4cce-b7dd-289c00a9cbf3"></video>
 
-(TODO 붓 대화상자에 띄우기 영상 추가하기)
+이제 새로 만든 붓으로 칠해보겠습니다. 여러가지 색상을 바꿔가며 칠할 수도 있습니다.
+
+#### 영상 90.4.15.a154. 일반붓 만들기 - 새로운 일반붓으로 칠해보기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c4e5e43b-c351-43d1-9e24-a61d786a6e55"></video>
 
 ### 색상 붓(Color brushes)
 이 항목의 붓들은 붓 도구 대화상자에 색상 이미지로 표현됩니다. 이러한 붓으로 칠하면, 전경색이 아닌 붓 도구 대화상자에 나타낸 색으로 칠해집니다. 그 외의 동작은 일반 붓과 같습니다.

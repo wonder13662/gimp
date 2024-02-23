@@ -66,6 +66,26 @@
 
 [7.6. 붓 - 그림 90.4.15.a143]()
 
+#### 그림 90.4.15.a151. 일반붓 만들기 - 흑백 이미지
+![ordinary_brush-pixmap](https://github.com/wonder13662/gimp/assets/15767104/4c9eb9f3-b404-4804-8d58-07a490da11ac)
+
+[7.6. 붓 - 그림 90.4.15.a151]()
+
+#### 영상 90.4.15.a152. 일반붓 만들기 - 흑백 이미지를 `.gbr` 파일로 내보내기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/88fa3ae4-6970-4ed4-a1ed-32aa26eb56db"></video>
+
+[7.6. 붓 - 영상 90.4.15.a152]()
+
+#### 영상 90.4.15.a153. 일반붓 만들기 - `.gbr` 파일을 불러오기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40fdc204-f9d5-4cce-b7dd-289c00a9cbf3"></video>
+
+[7.6. 붓 - 영상 90.4.15.a153]()
+
+#### 영상 90.4.15.a154. 일반붓 만들기 - 새로운 일반붓으로 칠해보기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c4e5e43b-c351-43d1-9e24-a61d786a6e55"></video>
+
+[7.6. 붓 - 영상 90.4.15.a154]()
+
 ***
 
 ## 관련 정보
