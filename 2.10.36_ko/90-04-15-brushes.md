@@ -106,6 +106,26 @@
 
 [7.6. 붓 - 영상 90.4.15.a164]()
 
+#### 그림 90.4.15.a171. 클립보드 마스크, 클립보드 이미지 만들기
+![90-04-15-brushes(windows)(ko)-clipboard_mask_n_clipboard_image](https://github.com/wonder13662/gimp/assets/15767104/302a8b30-c573-4bc4-b512-08e93d821f87)
+
+[7.6. 붓 - 그림 90.4.15.a171]()
+
+#### 영상 90.4.15.a172. 클립보드 마스크, 클립보드 이미지 만들기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eb75db8d-7c74-40a2-a398-26c67299874c"></video>
+
+[7.6. 붓 - 영상 90.4.15.a172]()
+
+#### 영상 90.4.15.a173. 클립보드 마스크 칠하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7e116df4-d25e-48bc-8465-16d10da6b676"></video>
+
+[7.6. 붓 - 영상 90.4.15.a173]()
+
+#### 영상 90.4.15.a174. 클립보드 이미지 칠하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ff7726fb-79f6-46ff-a98a-10b13f4763a1"></video>
+
+[7.6. 붓 - 영상 90.4.15.a174]()
+
 ***
 
 ## 관련 정보

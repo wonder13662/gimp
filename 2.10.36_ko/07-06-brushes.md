@@ -122,15 +122,24 @@ GIMP(김프)에서의 붓은 대부분 `일반 붓`입니다. `일반 붓`은 �
 #### 영상 90.4.15.a164. 색상붓 만들기 - 색상붓으로 칠하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7162b436-f9c5-4b27-a706-9a7d8e59f383"></video>
 
-### 선택된 이미지의 복사, 붙여넣기로 붓 대화상자에 붓 추가하기
+### 클립보드 마스크, 클립보드 이미지
+선택을 복사하거나 잘라넣기를 하면, 선택의 내용은 클립보드로 복사가 되며, 붓 대화상자의 첫번째(클립보드 마스크)와 두번째(클립보드 이미지) 칸에 표시가 됩니다.
 
-> ℹ️ 작은 정보
->
-> 선택을 복사하거나 잘라넣기를 하면, 선택의 내용은 클립보드로 복사가 되며, 붓 대화상자의 첫번째 칸에 표시가 됩니다. 이를 붓처럼 칠하기 등의 작업에 이용할 수도 있습니다. (TODO 이 부분 이해가 잘 안간다. 파악 필요)
+#### 그림 90.4.15.a171. 클립보드 마스크, 클립보드 이미지 만들기
+![90-04-15-brushes(windows)(ko)-clipboard_mask_n_clipboard_image](https://github.com/wonder13662/gimp/assets/15767104/302a8b30-c573-4bc4-b512-08e93d821f87)
 
-그래서 붓의 이름이 클립보드... 였던 것인듯! 이 내용도 추가하자.
+#### 영상 90.4.15.a172. 클립보드 마스크, 클립보드 이미지 만들기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eb75db8d-7c74-40a2-a398-26c67299874c"></video>
 
-(TODO 붙여넣기로 붓 대화상자에 붓을 추가히는 과정 영상 필요)
+클립보드 마스크는 `일반 붓`이므로 전경색에 따라 칠하는 자국의 색이 달라집니다.
+
+#### 영상 90.4.15.a173. 클립보드 마스크 칠하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7e116df4-d25e-48bc-8465-16d10da6b676"></video>
+
+클립보드 이미지는 `색상 붓`이므로 전경색이 변하더라도 영향을 받지 않습니다.
+
+#### 영상 90.4.15.a174. 클립보드 이미지 칠하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ff7726fb-79f6-46ff-a98a-10b13f4763a1"></video>
 
 ### 이미지 호스(image hose)/이미지 파이프(image pipe)
 Brushes in this category can make more than one kind of mark on an image. They are indicated by small red triangles at the lower right corner of the brush symbol in the Brushes dialog. They are sometimes called "animated brush" because the marks changes as you trace out a brushstroke. In principle, image hose brushes can be very sophiscated, especially if you use a tablet, changing shape as a function of pressure, angle, etc. These possibilities have never really been exploited, however; and the ones supplied with GIMP are relatively simple (but still quite useful).
