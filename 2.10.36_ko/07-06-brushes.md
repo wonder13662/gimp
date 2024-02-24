@@ -8,7 +8,8 @@
 #### 그림 90.4.15.a121. 붓 대화상자 - 간격
 ![90-04-15-brushes(w1080)-focus-spacing](https://github.com/wonder13662/gimp/assets/15767104/0d9d484a-d99e-4ef6-a9d6-700c4dfe0808)
 
-(TODO 픽스맵의 붓 간격 정보입력 이미지 또는 영상 추가)
+#### 그림 90.4.52.a101. `이미지를 붓으로 내보내기` 대화상자 (Windows) (우리말)
+![90-04-52-export_image_as_brush(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7f5a1766-b93a-438a-9092-0f99e5e169f6)
 
 ## GIMP(김프)의 칠하기 도구
 GIMP(김프)에는 10개의 `칠하기 도구(paint tool)`가 있습니다. 채색 작업만이 아닌 지우기, 복사하기, 문지르기, 밝게하기, 어둡게하기 등의 작업까지 할 수 있습니다. 잉크 도구를 제외한 모든 `칠하기 도구`는 같은 붓을 사용합니다.
@@ -49,8 +50,8 @@ GIMP(김프)에서 다양한 종류의 붓을 사용할 수 있습니다. 모든
 ### 일반 붓(Ordinary brushes)
 GIMP(김프)에서의 붓은 대부분 `일반 붓`입니다. `일반 붓`은 그레이스케일(grayscale) [픽스맵](./19-glossaryx-pixmap.md)입니다. 붓으로 이미지 위에 그려진 곳에 픽스맵의 자국이 보입니다.
 
-(TODO 다음 문장을 재현하지 못함. 추가 조사 필요!)
-When you paint using them, the current foreground color (as shown in the Color Area of the Toolbox) is substituted for black
+[comment]: <> (TODO 다음 문장을 재현하지 못함. 추가 조사 필요!)
+[comment]: <> (When you paint using them, the current foreground color \(as shown in the Color Area of the Toolbox\) is substituted for black)
 
 ### 일반 붓 만들기
 `일반 붓`을 만들려면, 작은 크기의 흑백 이미지를 준비합니다. 
@@ -63,10 +64,16 @@ When you paint using them, the current foreground color (as shown in the Color A
 #### 영상 90.4.15.a152. 일반붓 만들기 - 흑백 이미지를 `.gbr` 파일로 내보내기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/88fa3ae4-6970-4ed4-a1ed-32aa26eb56db"></video>
 
+#### 그림 90.4.52.a101. `이미지를 붓으로 내보내기` 대화상자 (Windows) (우리말)
+![90-04-52-export_image_as_brush(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7f5a1766-b93a-438a-9092-0f99e5e169f6)
+
 `.gbr` 파일을 `기본 설정` → `폴더` → `붓`에 선택된 "붓 폴더" 경로로 옮깁니다. 저장한 파일은 `Refresh brushes` 버튼을 눌러서 새로 추가한 `일반 붓`을 붓 대화상자에 띄웁니다.
 
 #### 그림 90.2.9.1.a111. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더
 ![90-02-09-foldersx-01-brushes(windows)(ko)-focus-selected_folder](https://github.com/wonder13662/gimp/assets/15767104/a9032345-5c9e-4bf3-b184-34a6de4bc5b9)
+
+#### 영상 90.2.9.1.a112. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더를 파일탐색기로 열기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e16a09ae-d1fe-46a9-915c-4eb28bc95558"></video>
 
 #### 영상 90.4.15.a153. 일반붓 만들기 - `.gbr` 파일을 불러오기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40fdc204-f9d5-4cce-b7dd-289c00a9cbf3"></video>
@@ -82,13 +89,48 @@ When you paint using them, the current foreground color (as shown in the Color A
 (TODO 색상 붓 채색 영상 추가하기)
 
 ### 색상 붓 만들기
-To create such a brush: Create a small RGBA image. For this, open New Image, select RGB for image type and Transparent for fill type. Draw your image and first save it as an `.xcf` file to keep its properties. Then save it in `.gbr` format. Click on the Refresh button in Brush Dialog to get your brush without it being necessary to restart GIMP.
+색상 붓을 만들기 위해서 우선 작은 RGBA 이미지를 준비합니다. 새 이미지를 열고, 고급 설정의 색상 모드(Color space)를 `RGB`로 합니다. 그리고 Fill with를 투명(Transparent)로 설정합니다.
 
-(TODO `.gbr` 추가하는 과정 영상 추가하기)
+#### 그림 90.4.37.a111. `새 이미지 만들기` 대화상자 (Windows) (우리말) - 색상붓을 만들기 위한 설정
+![90-04-37-create_a_new_image(windows)(ko)-color_brush_setting-focus](https://github.com/wonder13662/gimp/assets/15767104/17dfd4b8-7373-4a92-838a-a853c07f1b44)
+
+이미지를 그리고, 작업한 이미지의 모든 속성을 `.xcf` 파일로 저장합니다.
+
+#### 그림 90.4.15.a161. 색상붓 만들기 - RGBA 이미지
+![color_brush](https://github.com/wonder13662/gimp/assets/15767104/31d1859a-794e-4674-9142-0c331d2f9de0)
+
+그리고 그 다음에 `.gbr` 파일로 내보냅니다.
+
+#### 영상 90.4.15.a162. 색상붓 만들기 - RGBA 이미지를 `.gbr` 파일로 내보내기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dc1297a0-7e4b-47a3-b60a-21f90d9da2fe"></video>
+
+`.gbr` 파일을 옮길 `기본 설정` → `폴더` → `붓`에 선택된 "붓 폴더" 경로를 파일 탐색기로 엽니다.
+
+#### 그림 90.2.9.1.a111. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더
+![90-02-09-foldersx-01-brushes(windows)(ko)-focus-selected_folder](https://github.com/wonder13662/gimp/assets/15767104/a9032345-5c9e-4bf3-b184-34a6de4bc5b9)
+
+#### 영상 90.2.9.1.a112. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더를 파일탐색기로 열기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e16a09ae-d1fe-46a9-915c-4eb28bc95558"></video>
+
+`.gbr` 파일을 `기본 설정` → `폴더` → `붓`에 선택된 "붓 폴더" 경로로 옮깁니다. 새로 저장한 파일은 `Refresh brushes` 버튼을 눌러서 새로 추가한 `색상 붓`을 붓 대화상자에 띄웁니다.
+
+#### 영상 90.4.15.a163. 색상붓 만들기 - `.gbr` 파일을 불러오기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/012bc61a-d955-42d3-99fa-d4b9297cfefa"></video>
+
+이제 새로 만든 붓으로 칠해보겠습니다. 전경색과는 상관없이 색상 붓의 자국이 가지고 있는 색상만이 표시됩니다.
+
+#### 영상 90.4.15.a164. 색상붓 만들기 - 색상붓으로 칠하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7162b436-f9c5-4b27-a706-9a7d8e59f383"></video>
+
+### 선택된 이미지의 복사, 붙여넣기로 붓 대화상자에 붓 추가하기
 
 > ℹ️ 작은 정보
 >
 > 선택을 복사하거나 잘라넣기를 하면, 선택의 내용은 클립보드로 복사가 되며, 붓 대화상자의 첫번째 칸에 표시가 됩니다. 이를 붓처럼 칠하기 등의 작업에 이용할 수도 있습니다. (TODO 이 부분 이해가 잘 안간다. 파악 필요)
+
+그래서 붓의 이름이 클립보드... 였던 것인듯! 이 내용도 추가하자.
+
+(TODO 붙여넣기로 붓 대화상자에 붓을 추가히는 과정 영상 필요)
 
 ### 이미지 호스(image hose)/이미지 파이프(image pipe)
 Brushes in this category can make more than one kind of mark on an image. They are indicated by small red triangles at the lower right corner of the brush symbol in the Brushes dialog. They are sometimes called "animated brush" because the marks changes as you trace out a brushstroke. In principle, image hose brushes can be very sophiscated, especially if you use a tablet, changing shape as a function of pressure, angle, etc. These possibilities have never really been exploited, however; and the ones supplied with GIMP are relatively simple (but still quite useful).

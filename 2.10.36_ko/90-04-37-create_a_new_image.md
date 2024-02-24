@@ -14,6 +14,11 @@
 #### 그림 90.4.37.a104. `새 이미지 만들기` 대화상자 (Mac) (영어)
 ![90-04-37-create_a_new_image(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/4bf97770-ca20-4b07-91ed-7ef815b1373c)
 
+#### 그림 90.4.37.a111. `새 이미지 만들기` 대화상자 (Windows) (우리말) - 색상붓을 만들기 위한 설정
+![90-04-37-create_a_new_image(windows)(ko)-color_brush_setting-focus](https://github.com/wonder13662/gimp/assets/15767104/17dfd4b8-7373-4a92-838a-a853c07f1b44)
+
+[7.6. 붓 - 그림 90.4.37.a111]()
+
 ***
 
 ## 다른 페이지로 가기

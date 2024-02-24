@@ -86,6 +86,26 @@
 
 [7.6. 붓 - 영상 90.4.15.a154]()
 
+#### 그림 90.4.15.a161. 색상붓 만들기 - RGBA 이미지
+![color_brush](https://github.com/wonder13662/gimp/assets/15767104/31d1859a-794e-4674-9142-0c331d2f9de0)
+
+[7.6. 붓 - 그림 90.4.15.a161]()
+
+#### 영상 90.4.15.a162. 색상붓 만들기 - RGBA 이미지를 `.gbr` 파일로 내보내기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dc1297a0-7e4b-47a3-b60a-21f90d9da2fe"></video>
+
+[7.6. 붓 - 영상 90.4.15.a162]()
+
+#### 영상 90.4.15.a163. 색상붓 만들기 - `.gbr` 파일을 불러오기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/012bc61a-d955-42d3-99fa-d4b9297cfefa"></video>
+
+[7.6. 붓 - 영상 90.4.15.a163]()
+
+#### 영상 90.4.15.a164. 색상붓 만들기 - 색상붓으로 칠하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7162b436-f9c5-4b27-a706-9a7d8e59f383"></video>
+
+[7.6. 붓 - 영상 90.4.15.a164]()
+
 ***
 
 ## 관련 정보

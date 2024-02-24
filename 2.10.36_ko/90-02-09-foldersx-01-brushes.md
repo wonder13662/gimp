@@ -15,7 +15,12 @@
 #### 그림 90.2.9.1.a111. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더
 ![90-02-09-foldersx-01-brushes(windows)(ko)-focus-selected_folder](https://github.com/wonder13662/gimp/assets/15767104/a9032345-5c9e-4bf3-b184-34a6de4bc5b9)
 
-[7.6. 붓 - 90.2.9.1.a111]()
+[7.6. 붓 - 그림 90.2.9.1.a111]()
+
+#### 영상 90.2.9.1.a112. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더를 파일탐색기로 열기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e16a09ae-d1fe-46a9-915c-4eb28bc95558"></video>
+
+[7.6. 붓 - 영상 90.2.9.1.a112]()
 
 ***
 
