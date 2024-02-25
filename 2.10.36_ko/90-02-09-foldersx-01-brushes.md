@@ -17,10 +17,14 @@
 
 [7.6.1. 일반 붓(Ordinary brushes) - 그림 90.2.9.1.a111](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-01-ordinary_brush.html#%EA%B7%B8%EB%A6%BC-90291a111-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EB%B6%93-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%84%A0%ED%83%9D%EB%90%9C-%EB%B6%93-%ED%8F%B4%EB%8D%94)
 
+[7.6.2. 색상 붓(Color brushes) - 그림 90.2.9.1.a111](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-02-color_brush.html#%EA%B7%B8%EB%A6%BC-90291a111-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EB%B6%93-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%84%A0%ED%83%9D%EB%90%9C-%EB%B6%93-%ED%8F%B4%EB%8D%94)
+
 #### 영상 90.2.9.1.a112. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더를 파일탐색기로 열기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e16a09ae-d1fe-46a9-915c-4eb28bc95558"></video>
 
 [7.6.1. 일반 붓(Ordinary brushes) - 영상 90.2.9.1.a112](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-01-ordinary_brush.html#%EC%98%81%EC%83%81-90291a112-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EB%B6%93-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%84%A0%ED%83%9D%EB%90%9C-%EB%B6%93-%ED%8F%B4%EB%8D%94%EB%A5%BC-%ED%8C%8C%EC%9D%BC%ED%83%90%EC%83%89%EA%B8%B0%EB%A1%9C-%EC%97%B4%EA%B8%B0)
+
+[7.6.2. 색상 붓(Color brushes) - 영상 90.2.9.1.a112](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-02-color_brush.html#%EC%98%81%EC%83%81-90291a112-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EB%B6%93-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%84%A0%ED%83%9D%EB%90%9C-%EB%B6%93-%ED%8F%B4%EB%8D%94%EB%A5%BC-%ED%8C%8C%EC%9D%BC%ED%83%90%EC%83%89%EA%B8%B0%EB%A1%9C-%EC%97%B4%EA%B8%B0)
 
 ***
 

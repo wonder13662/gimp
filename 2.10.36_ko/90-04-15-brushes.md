@@ -91,22 +91,22 @@
 #### 그림 90.4.15.a161. 색상붓 만들기 - RGBA 이미지
 ![color_brush](https://github.com/wonder13662/gimp/assets/15767104/31d1859a-794e-4674-9142-0c331d2f9de0)
 
-[7.6. 붓 - 그림 90.4.15.a161](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EA%B7%B8%EB%A6%BC-90415a161-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---rgba-%EC%9D%B4%EB%AF%B8%EC%A7%80)
+[7.6.2. 색상 붓(Color brushes) - 그림 90.4.15.a161](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-02-color_brush.html#%EA%B7%B8%EB%A6%BC-90415a161-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---rgba-%EC%9D%B4%EB%AF%B8%EC%A7%80)
 
 #### 영상 90.4.15.a162. 색상붓 만들기 - RGBA 이미지를 `.gbr` 파일로 내보내기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dc1297a0-7e4b-47a3-b60a-21f90d9da2fe"></video>
 
-[7.6. 붓 - 영상 90.4.15.a162](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EC%98%81%EC%83%81-90415a162-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---rgba-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-gbr-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0)
+[7.6.2. 색상 붓(Color brushes) - 영상 90.4.15.a162](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-02-color_brush.html#%EC%98%81%EC%83%81-90415a162-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---rgba-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-gbr-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0)
 
 #### 영상 90.4.15.a163. 색상붓 만들기 - `.gbr` 파일을 불러오기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/012bc61a-d955-42d3-99fa-d4b9297cfefa"></video>
 
-[7.6. 붓 - 영상 90.4.15.a163](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EC%98%81%EC%83%81-90415a163-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---gbr-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0)
+[7.6.2. 색상 붓(Color brushes) - 영상 90.4.15.a163](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-02-color_brush.html#%EC%98%81%EC%83%81-90415a163-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---gbr-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0)
 
 #### 영상 90.4.15.a164. 색상붓 만들기 - 색상붓으로 칠하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7162b436-f9c5-4b27-a706-9a7d8e59f383"></video>
 
-[7.6. 붓 - 영상 90.4.15.a164](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EC%98%81%EC%83%81-90415a164-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%83%89%EC%83%81%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%98%EA%B8%B0)
+[7.6.2. 색상 붓(Color brushes) - 영상 90.4.15.a164](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-02-color_brush.html#%EC%98%81%EC%83%81-90415a164-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%83%89%EC%83%81%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%98%EA%B8%B0)
 
 #### 그림 90.4.15.a171. 클립보드 마스크, 클립보드 이미지 만들기
 ![90-04-15-brushes(windows)(ko)-clipboard_mask_n_clipboard_image](https://github.com/wonder13662/gimp/assets/15767104/302a8b30-c573-4bc4-b512-08e93d821f87)
