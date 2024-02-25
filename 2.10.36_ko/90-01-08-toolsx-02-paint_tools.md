@@ -9,6 +9,8 @@
 #### 그림 90.1.8.2.a3. 도구 - 칠하기 도구 (Windows) - 붓 대화상자를 사용하는 칠하기 도구
 ![90-01-08-toolsx-02-paint_tools(windows)(1080)-highlight_paingtool_with_brush](https://github.com/wonder13662/gimp/assets/15767104/575ab6ad-1299-4594-b2d8-3dbeb9537763)
 
+[7.6. 붓 - 그림 90.1.8.2.a3](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EA%B7%B8%EB%A6%BC-90182a3-%EB%8F%84%EA%B5%AC---%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC-windows---%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC)
+
 ***
 
 ## 하위 페이지

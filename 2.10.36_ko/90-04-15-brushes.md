@@ -37,7 +37,7 @@
 #### 그림 90.4.15.a121. 붓 대화상자 - 간격
 ![90-04-15-brushes(w1080)-focus-spacing](https://github.com/wonder13662/gimp/assets/15767104/0d9d484a-d99e-4ef6-a9d6-700c4dfe0808)
 
-[7.6. 붓 - 그림 90.4.15.a121]()
+[7.6. 붓 - 그림 90.4.15.a121](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EA%B7%B8%EB%A6%BC-90415a121-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B0%84%EA%B2%A9)
 
 #### 그림 90.4.15.a131. 붓 대화상자 (Windows) (우리말)
 ![90-04-15-brushes(windows)(ko)(slim)](https://github.com/wonder13662/gimp/assets/15767104/1c2606df-09ba-415e-94cd-f00dae3bf670)

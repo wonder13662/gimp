@@ -19,7 +19,7 @@ GIMP(김프)에는 `칠하기 도구(paint tool)`가 있습니다. 채색 작업
 #### 그림 90.1.8.2.a3. 도구 - 칠하기 도구 (Windows) - 붓 대화상자를 사용하는 칠하기 도구
 ![90-01-08-toolsx-02-paint_tools(windows)(1080)-highlight_paingtool_with_brush](https://github.com/wonder13662/gimp/assets/15767104/575ab6ad-1299-4594-b2d8-3dbeb9537763)
 
-#### 이미지 90.3.a121. 붓 대화상자를 사용하는 도구상자 아이콘
+#### 그림 90.3.a121. 붓 대화상자를 사용하는 도구상자 아이콘
 ![toolbox-no_tool_group(ko)(windows)-highlight-painting_tool_with_brush](https://github.com/wonder13662/gimp/assets/15767104/635881f0-263f-4d76-8160-08b88c515945)
 
 #### 그림 90.4.15.a131. 붓 대화상자 (Windows) (우리말)
@@ -169,7 +169,7 @@ GIMP(김프)에서의 붓은 대부분 `일반 붓`입니다. `일반 붓`은 �
 #### 영상 90.4.15.a182. 붓 대화상자의 이미지 호스 붓으로 칠하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b02ace8a-6100-4f26-997e-302d3420912d"></video>
 
-원칙적으로는 이미지 호스 붓은 펜 태블릿을 사용하는 경우에 압력, 각도에 따라 모영을 바꾸면 매우 복잡해질 수 있습니다. 하지만 GIMP(김프)에서 자체적으로 제공하는 이미지 호스 붓은 상대적으로 간단하고 쓸모가 많습니다.
+원칙적으로는 `이미지 호스 붓`은 펜 태블릿을 사용하는 경우에 압력, 각도에 따라 모영을 바꾸면 매우 복잡해질 수 있습니다. 하지만 GIMP(김프)에서 자체적으로 제공하는 `이미지 호스 붓`은 상대적으로 간단하고 쓸모가 많습니다.
 
 움직이는 붓(animated brush)을 만드는 예는 움직이는 붓에서 찾아볼 수 있습니다. 
 
