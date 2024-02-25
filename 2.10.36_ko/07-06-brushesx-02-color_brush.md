@@ -52,7 +52,7 @@
 
 [⬅️ 이전: 7.6.1. 일반 붓(Ordinary brushes)](./07-06-brushesx-01-ordinary_brush.md)
 
-[⬆️ 위: 7.7. 새 붓 추가하기](./07-07-adding-new-brushes.md)
+[⬆️ 위: 7.6. 붓](./07-06-brushes.md)
 
 [⬆️ 위: 7. GIMP(김프)로 그리기](./07-00-painting-with-gimp.md)
 
