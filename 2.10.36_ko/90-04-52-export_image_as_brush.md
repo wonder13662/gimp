@@ -17,7 +17,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.53. 붓 편집기(Brush Editor)](./90-04-53-brush_editor.md)
 
 [⬅️ 이전: 90.4.51. 경로 따라 그리기(Stroke Path)](./90-04-51-stroke_path.md)
 

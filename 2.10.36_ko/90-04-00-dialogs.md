@@ -285,6 +285,10 @@
 ![90-04-51-stroke_path(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/6afd212b-526f-498b-a8cd-a29cb373c15a)
 
 ### [90.4.52. 이미지를 붓으로 내보내기(Export image as brush)](./90-04-52-export_image_as_brush.md)
+#### 그림 90.4.52.a101. `이미지를 붓으로 내보내기` 대화상자 (Windows) (우리말)
+![90-04-52-export_image_as_brush(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7f5a1766-b93a-438a-9092-0f99e5e169f6)
+
+### [90.4.53. 붓 편집기(Brush Editor)](./90-04-53-brush_editor.md)
 (TODO 이미지 추가 필요)
 
 ***

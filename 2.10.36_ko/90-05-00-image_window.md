@@ -84,7 +84,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.52. 이미지를 붓으로 내보내기(Export image as brush)](./90-04-52-export_image_as_brush.md)
+[⬅️ 이전: 90.4.53. 붓 편집기(Brush Editor)](./90-04-53-brush_editor.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 
