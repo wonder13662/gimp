@@ -76,7 +76,7 @@
 #### 영상 90.4.15.a152. 일반붓 만들기 - 흑백 이미지를 `.gbr` 파일로 내보내기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/88fa3ae4-6970-4ed4-a1ed-32aa26eb56db"></video>
 
-[7.6. 붓 - 영상 90.4.15.a152]()
+[7.6. 붓 - 영상 90.4.15.a152](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EC%98%81%EC%83%81-90415a152-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%ED%9D%91%EB%B0%B1-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-gbr-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0)
 
 #### 영상 90.4.15.a153. 일반붓 만들기 - `.gbr` 파일을 불러오기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40fdc204-f9d5-4cce-b7dd-289c00a9cbf3"></video>
