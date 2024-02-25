@@ -131,12 +131,12 @@
 #### 그림 90.4.15.a181. 붓 대화상자의 이미지 호스 붓(오른쪽 아래의 빨간 삼각형 표시)
 ![90-04-15-brushes(windows)(en)(slim)-highlight-image_hose_brush](https://github.com/wonder13662/gimp/assets/15767104/d0f12bea-887e-4f2f-93f8-f6cfa4117e58)
 
-[7.6. 붓 - 그림 90.4.15.a181](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EA%B7%B8%EB%A6%BC-90415a181-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%98%B8%EC%8A%A4-%EB%B6%93%EC%98%A4%EB%A5%B8%EC%AA%BD-%EC%95%84%EB%9E%98%EC%9D%98-%EB%B9%A8%EA%B0%84-%EC%82%BC%EA%B0%81%ED%98%95-%ED%91%9C%EC%8B%9C)
+[7.6.4. 이미지 호스(image hose)/이미지 파이프(image pipe) - 그림 90.4.15.a181](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-04-gih_brush.html#%EA%B7%B8%EB%A6%BC-90415a181-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%98%B8%EC%8A%A4-%EB%B6%93%EC%98%A4%EB%A5%B8%EC%AA%BD-%EC%95%84%EB%9E%98%EC%9D%98-%EB%B9%A8%EA%B0%84-%EC%82%BC%EA%B0%81%ED%98%95-%ED%91%9C%EC%8B%9C)
 
 #### 영상 90.4.15.a182. 붓 대화상자의 이미지 호스 붓으로 칠하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b02ace8a-6100-4f26-997e-302d3420912d"></video>
 
-[7.6. 붓 - 영상 90.4.15.a182](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EC%98%81%EC%83%81-90415a182-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%98%B8%EC%8A%A4-%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%98%EA%B8%B0)
+[7.6.4. 이미지 호스(image hose)/이미지 파이프(image pipe) - 영상 90.4.15.a182](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-04-gih_brush.html#%EC%98%81%EC%83%81-90415a182-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%98%B8%EC%8A%A4-%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%98%EA%B8%B0)
 
 ***
 
