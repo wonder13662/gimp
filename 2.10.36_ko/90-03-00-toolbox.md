@@ -24,6 +24,8 @@
 #### 그림 90.3.a121. 붓 대화상자를 사용하는 도구상자 아이콘
 ![toolbox-no_tool_group(ko)(windows)-highlight-painting_tool_with_brush](https://github.com/wonder13662/gimp/assets/15767104/635881f0-263f-4d76-8160-08b88c515945)
 
+[7.6. 붓 - 그림 90.3.a121](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EA%B7%B8%EB%A6%BC-903a121-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EC%95%84%EC%9D%B4%EC%BD%98)
+
 ***
 
 ## 하위 페이지

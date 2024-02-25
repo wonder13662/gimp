@@ -28,7 +28,7 @@
 #### 영상 90.3.2.23.a113. 그리기 붓(Paintbrush)의 붓 긋기(Brush stroke)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f71f220a-c5e6-4262-afa0-f1dd7e1e2fde"></video>
 
-[7.6. 붓 - 영상 90.3.2.23.a113]()
+[7.6. 붓 - 영상 90.3.2.23.a113](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EC%98%81%EC%83%81-903223a113-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93paintbrush%EC%9D%98-%EB%B6%93-%EA%B8%8B%EA%B8%B0brush-stroke)
 
 ***
 
