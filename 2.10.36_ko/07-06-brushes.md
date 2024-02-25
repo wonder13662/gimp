@@ -12,7 +12,15 @@
 ![90-04-52-export_image_as_brush(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7f5a1766-b93a-438a-9092-0f99e5e169f6)
 
 ## GIMP(김프)의 칠하기 도구
-GIMP(김프)에는 10개의 `칠하기 도구(paint tool)`가 있습니다. 채색 작업만이 아닌 지우기, 복사하기, 문지르기, 밝게하기, 어둡게하기 등의 작업까지 할 수 있습니다. 잉크 도구를 제외한 모든 `칠하기 도구`는 같은 붓을 사용합니다.
+GIMP(김프)에는 `칠하기 도구(paint tool)`가 있습니다. 채색 작업만이 아닌 지우기, 복사하기, 문지르기, 밝게하기, 어둡게하기 등의 작업까지 할 수 있습니다. 잉크 도구를 제외한 모든 `칠하기 도구`는 같은 붓을 사용합니다.
+
+아래 이미지에서 밝게 표시된 도구들이 붓 대화상자의 붓을 사용합니다.
+
+#### 그림 90.1.8.2.a3. 도구 - 칠하기 도구 (Windows) - 붓 대화상자를 사용하는 칠하기 도구
+![90-01-08-toolsx-02-paint_tools(windows)(1080)-highlight_paingtool_with_brush](https://github.com/wonder13662/gimp/assets/15767104/575ab6ad-1299-4594-b2d8-3dbeb9537763)
+
+#### 이미지 90.3.a121. 붓 대화상자를 사용하는 도구상자 아이콘
+![toolbox-no_tool_group(ko)(windows)-highlight-painting_tool_with_brush](https://github.com/wonder13662/gimp/assets/15767104/635881f0-263f-4d76-8160-08b88c515945)
 
 #### 그림 90.4.15.a131. 붓 대화상자 (Windows) (우리말)
 ![90-04-15-brushes(windows)(ko)(slim)](https://github.com/wonder13662/gimp/assets/15767104/1c2606df-09ba-415e-94cd-f00dae3bf670)
@@ -22,6 +30,15 @@ GIMP(김프)에는 10개의 `칠하기 도구(paint tool)`가 있습니다. 채�
 
 #### 영상 90.3.2.23.a113. 그리기 붓(Paintbrush)의 붓 긋기(Brush stroke)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f71f220a-c5e6-4262-afa0-f1dd7e1e2fde"></video>
+
+붓의 간격의 경우에는 붓의 기본 간격 설정이 기본값으로 영향을 미칩니다.
+
+#### 그림 90.4.52.a101. `이미지를 붓으로 내보내기` 대화상자 (Windows) (우리말)
+![90-04-52-export_image_as_brush(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7f5a1766-b93a-438a-9092-0f99e5e169f6)
+
+그 외에도 붓 도구옵션의 간격 설정, 붓 대화상자의 간격 설정이 바뀌면 기본값보다 우선순위가 높게 적용됩니다.
+
+(TODO 관련 이미지 추가)
 
 ## 붓 선택하기
 붓은 [붓 대화상자](./15-03-02-brushes-dialog.md)에서 아이콘을 클릭해서 선택할 수 있습니다.
@@ -86,7 +103,7 @@ GIMP(김프)에서의 붓은 대부분 `일반 붓`입니다. `일반 붓`은 �
 ### 색상 붓(Color brushes)
 이 항목의 붓들은 붓 도구 대화상자에 색상 이미지로 표현됩니다. 이러한 붓으로 칠하면, 전경색이 아닌 붓 도구 대화상자에 나타낸 색으로 칠해집니다. 그 외의 동작은 일반 붓과 같습니다.
 
-(TODO 색상 붓 채색 영상 추가하기)
+[comment]: <> (TODO 색상 붓 채색 영상 추가하기)
 
 ### 색상 붓 만들기
 색상 붓을 만들기 위해서 우선 작은 RGBA 이미지를 준비합니다. 새 이미지를 열고, 고급 설정의 색상 모드(Color space)를 `RGB`로 합니다. 그리고 Fill with를 투명(Transparent)로 설정합니다.
@@ -142,9 +159,18 @@ GIMP(김프)에서의 붓은 대부분 `일반 붓`입니다. `일반 붓`은 �
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ff7726fb-79f6-46ff-a98a-10b13f4763a1"></video>
 
 ### 이미지 호스(image hose)/이미지 파이프(image pipe)
-Brushes in this category can make more than one kind of mark on an image. They are indicated by small red triangles at the lower right corner of the brush symbol in the Brushes dialog. They are sometimes called "animated brush" because the marks changes as you trace out a brushstroke. In principle, image hose brushes can be very sophiscated, especially if you use a tablet, changing shape as a function of pressure, angle, etc. These possibilities have never really been exploited, however; and the ones supplied with GIMP are relatively simple (but still quite useful).
+이 종류의 붓은 이미지에 칠할 때, 여러가지 자국을 남길 수 있습니다. 이미지 호스와 이미지 파이프는 `붓 대화상자`의 붓 이미지의 오른쪽 아래에 빨간 삼각형 표시가 있습니다. 
 
-움직이는 붓(animated brush)을 만드는 예는 움직이는 붓에서 찾아볼 수 있습니다. (TODO 페이지 링크 연동하기)
+[comment]: <> (TODO 붓 대화상자의 삼각형 포시가 있는 붓들을 표시하는 이미지가 필요하다)
+
+붓을 그을 때마다 자국이 달라지기 때문에 움직이는 붓(animated brush)이라고 부르기도 합니다. 
+
+[comment]: <> (TODO 이미지 호스 붓으로 실제 그리는 영상을 추가하자)
+
+원칙적으로는 이미지 호스 붓은 펜 태블릿을 사용하는 경우에 압력, 각도에 따라 모영을 바꾸면 매우 복잡해질 수 있습니다. 하지만 GIMP(김프)에서 자체적으로 제공하는 이미지 호스 붓은 상대적으로 간단하고 쓸모가 많습니다.
+
+움직이는 붓(animated brush)을 만드는 예는 움직이는 붓에서 찾아볼 수 있습니다. 
+[comment]: <> (TODO 페이지 링크 연동하기)
 
 ### 파라매트릭 붓(parametric brush)
 이 붓은 붓 편집기로 만듭니다. 붓 편집기는 간단한 인터페이스로 다양한 모양의 붓을 만들 수 있는 프로그램입니다. 파라매트릭 붓의 주요한 특징은 크기조정이 가능하다는 점입니다. `기본 설정 대화상자`에서 키 압력이나 마우스 휠의 움직에 따라 파라메트릭 붓의 크기를 조정할 수 있도록 설정할 수 있씁니다.
