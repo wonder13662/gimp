@@ -126,6 +126,16 @@
 
 [7.6. 붓 - 영상 90.4.15.a174]()
 
+#### 그림 90.4.15.a181. 붓 대화상자의 이미지 호스 붓(오른쪽 아래의 빨간 삼각형 표시)
+![90-04-15-brushes(windows)(en)(slim)-highlight-image_hose_brush](https://github.com/wonder13662/gimp/assets/15767104/d0f12bea-887e-4f2f-93f8-f6cfa4117e58)
+
+[7.6. 붓 - 그림 90.4.15.a181]()
+
+#### 영상 90.4.15.a182. 붓 대화상자의 이미지 호스 붓으로 칠하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b02ace8a-6100-4f26-997e-302d3420912d"></video>
+
+[7.6. 붓 - 영상 90.4.15.a182]()
+
 ***
 
 ## 관련 정보
