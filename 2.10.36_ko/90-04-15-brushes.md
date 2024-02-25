@@ -63,10 +63,10 @@
 
 [7.6. 붓 - 그림 90.4.15.a142](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EA%B7%B8%EB%A6%BC-90415a142-%EC%A7%80%EA%B8%88-%EC%93%B0%EA%B3%A0-%EC%9E%88%EB%8A%94-%EB%B6%93-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
-#### 그림 90.4.15.a143. 붓 대화상자 활성화하기 - 도구상자의 붓/무늬/그라디언트 영역의 붓 클릭
+#### 영상 90.4.15.a143. 붓 대화상자 활성화하기 - 도구상자의 붓/무늬/그라디언트 영역의 붓 클릭
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/16c8b4fc-f86f-4f08-aa58-fd37dd7fccc1"></video>
 
-[7.6. 붓 - 그림 90.4.15.a143](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EA%B7%B8%EB%A6%BC-90415a143-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%ED%99%9C%EC%84%B1%ED%99%94%ED%95%98%EA%B8%B0---%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8-%EC%98%81%EC%97%AD%EC%9D%98-%EB%B6%93-%ED%81%B4%EB%A6%AD)
+[7.6. 붓 - 영상 90.4.15.a143]()
 
 #### 그림 90.4.15.a151. 일반붓 만들기 - 흑백 이미지
 ![ordinary_brush-pixmap](https://github.com/wonder13662/gimp/assets/15767104/4c9eb9f3-b404-4804-8d58-07a490da11ac)
