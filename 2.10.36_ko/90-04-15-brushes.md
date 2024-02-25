@@ -83,6 +83,8 @@
 
 [7.6.1. 일반 붓(Ordinary brushes) - 영상 90.4.15.a153](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-01-ordinary_brush.html#%EC%98%81%EC%83%81-90415a153-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---gbr-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0)
 
+[7.7. 새 붓 추가하기 - 영상 90.4.15.a153](https://wonder13662.github.io/gimp/2.10.36_ko/07-07-adding-new-brushes.html#%EC%98%81%EC%83%81-90415a153-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---gbr-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0)
+
 #### 영상 90.4.15.a154. 일반붓 만들기 - 새로운 일반붓으로 칠해보기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c4e5e43b-c351-43d1-9e24-a61d786a6e55"></video>
 

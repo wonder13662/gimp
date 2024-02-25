@@ -46,6 +46,18 @@
 
 [7.6. 붓](./07-06-brushes.md)
 
+[7.6.1. 일반 붓(Ordinary brushes)](./07-06-brushesx-01-ordinary_brush.md)
+
+[7.6.2. 색상 붓(Color brushes)](./07-06-brushesx-02-color_brush.md)
+
+[7.6.3. 클립보드 붓(Clipboard Brush)](./07-06-brushesx-03-clipboard_brush.md)
+
+[7.6.4. 이미지 호스(image hose)/이미지 파이프(image pipe)](./07-06-brushesx-04-gih_brush.md)
+
+[7.6.5. 파라매트릭 붓(parametric brush)](./07-06-brushesx-05-paramatric_brush.md)
+
+[7.6.6. MyPaint 붓](./07-06-brushesx-06-mypaint_brush.md)
+
 [7.7. 새 붓 추가하기](./07-07-adding-new-brushes.md)
 
 [7.8. GIH 대화상자](./07-08-the-gih-dialog-box.md)

@@ -5,6 +5,8 @@
 
 [7.6.1. 일반 붓(Ordinary brushes) - 그림 90.4.52.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-01-ordinary_brush.html#%EA%B7%B8%EB%A6%BC-90452a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93%EC%9C%BC%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+[7.7. 새 붓 추가하기 - 그림 90.4.52.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-07-adding-new-brushes.html#%EA%B7%B8%EB%A6%BC-90452a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93%EC%9C%BC%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
 #### 그림 90.4.52.a102. `이미지를 붓으로 내보내기` 대화상자 (Windows) (영어)
 ![90-04-52-export_image_as_brush(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/8ee3d122-7510-45ca-951d-64893a3c7339)
 
