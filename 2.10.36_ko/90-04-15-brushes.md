@@ -71,22 +71,22 @@
 #### 그림 90.4.15.a151. 일반붓 만들기 - 흑백 이미지
 ![ordinary_brush-pixmap](https://github.com/wonder13662/gimp/assets/15767104/4c9eb9f3-b404-4804-8d58-07a490da11ac)
 
-[7.6. 붓 - 그림 90.4.15.a151](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EA%B7%B8%EB%A6%BC-90415a151-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%ED%9D%91%EB%B0%B1-%EC%9D%B4%EB%AF%B8%EC%A7%80)
+[7.6.1. 일반 붓(Ordinary brushes) - 그림 90.4.15.a151](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-01-ordinary_brush.html#%EA%B7%B8%EB%A6%BC-90415a151-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%ED%9D%91%EB%B0%B1-%EC%9D%B4%EB%AF%B8%EC%A7%80)
 
 #### 영상 90.4.15.a152. 일반붓 만들기 - 흑백 이미지를 `.gbr` 파일로 내보내기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/88fa3ae4-6970-4ed4-a1ed-32aa26eb56db"></video>
 
-[7.6. 붓 - 영상 90.4.15.a152](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EC%98%81%EC%83%81-90415a152-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%ED%9D%91%EB%B0%B1-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-gbr-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0)
+[7.6.1. 일반 붓(Ordinary brushes) - 영상 90.4.15.a152](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-01-ordinary_brush.html#%EC%98%81%EC%83%81-90415a152-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%ED%9D%91%EB%B0%B1-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-gbr-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0)
 
 #### 영상 90.4.15.a153. 일반붓 만들기 - `.gbr` 파일을 불러오기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40fdc204-f9d5-4cce-b7dd-289c00a9cbf3"></video>
 
-[7.6. 붓 - 영상 90.4.15.a153](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EC%98%81%EC%83%81-90415a153-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---gbr-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0)
+[7.6.1. 일반 붓(Ordinary brushes) - 영상 90.4.15.a153](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-01-ordinary_brush.html#%EC%98%81%EC%83%81-90415a153-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---gbr-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0)
 
 #### 영상 90.4.15.a154. 일반붓 만들기 - 새로운 일반붓으로 칠해보기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c4e5e43b-c351-43d1-9e24-a61d786a6e55"></video>
 
-[7.6. 붓 - 영상 90.4.15.a154](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EC%98%81%EC%83%81-90415a154-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%BC%EB%B0%98%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%B4%EB%B3%B4%EA%B8%B0)
+[7.6.1. 일반 붓(Ordinary brushes) - 영상 90.4.15.a154](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-01-ordinary_brush.html#%EC%98%81%EC%83%81-90415a154-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%BC%EB%B0%98%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
 #### 그림 90.4.15.a161. 색상붓 만들기 - RGBA 이미지
 ![color_brush](https://github.com/wonder13662/gimp/assets/15767104/31d1859a-794e-4674-9142-0c331d2f9de0)
