@@ -1,21 +1,4 @@
 # 7.7. 새 붓 추가하기
-
-> 🗒️ 참고
->
-> 새 붓을 빨리 추가하는 방법은 [9.2. 새 붓 빨리 만들기](./07-09-02-creating-a-brush-quickly.md)을 참고해주세요.
-
-새로운 붓을 추가하기 위해서는, 붓을 만들거나 다운로드 받은 뒤에, GIMP(김프)에서 사용 가능한 포맷으로 저장해야 합니다. 새로운 붓 파일은 GIMP(김프) 붓 디렉토리 안에 있어야 GIMP(김프)가 인식하고 `붓 대화상자`에 표시할 수 있습니다. 
-
-#### [그림 90.2.9.1.a111. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-01-brushes.html#%EA%B7%B8%EB%A6%BC-90291a111-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EB%B6%93-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%84%A0%ED%83%9D%EB%90%9C-%EB%B6%93-%ED%8F%B4%EB%8D%94)
-[![90-02-09-foldersx-01-brushes(windows)(ko)-focus-selected_folder](https://github.com/wonder13662/gimp/assets/15767104/a9032345-5c9e-4bf3-b184-34a6de4bc5b9)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-01-brushes.html#%EA%B7%B8%EB%A6%BC-90291a111-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EB%B6%93-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%84%A0%ED%83%9D%EB%90%9C-%EB%B6%93-%ED%8F%B4%EB%8D%94)
-
-[다른 운영체제와 언어의 `기본 설정` → `폴더` → `붓` 확인하기](./90-02-09-foldersx-01-brushes.md)
-
-`붓 대화상자`에서 `새로고침` 버튼을 클릭하면 붓 디렉토리를 최신으로 업데이트할 수 있습니다.
-
-#### [영상 90.4.15.a153. 일반붓 만들기 - `.gbr` 파일을 불러오기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a153-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---gbr-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40fdc204-f9d5-4cce-b7dd-289c00a9cbf3"></video>
-
 ## 1. GIMP(김프)의 붓의 파일 형식
 ### 1-1. GBR
 `.gbr` 확장자는 "gimp brush"를 의미합니다. `.gbr` 확장자는 [일반 붓](./07-06-brushesx-01-ordinary_brush.md)과 [색상 붓](./07-06-brushesx-02-color_brush.md)에 사용됩니다. 여러 타입의 이미지나 다른 프로그램에서 사용되는 붓들을 GIMP(김프)로 연 다음에 `.gbr`로 내보냄으로써 GIMP(김프)의 붓으로 바꿀 수 있습니다. `.gbr`로 내보내기 할 때 붓의 기본 간격을 설정허는 대화상자가 뜹니다.
@@ -52,6 +35,23 @@
 > `붓 편집기`로 새로운 `파라매트릭 붓`을 만들면, 자동으로 사용자 붓 폴더에 저장됩니다.
 
 [comment]: <> (TODO 김프 전용 붓 다운로드 링크 추가필요)
+
+## 3. 새 붓 추가하고 불러오기
+새로운 붓을 추가하기 위해서는, 붓을 만들거나 다운로드 받은 뒤에, GIMP(김프)에서 사용 가능한 포맷으로 저장해야 합니다. 새로운 붓 파일은 GIMP(김프) 붓 디렉토리 안에 있어야 GIMP(김프)가 인식하고 `붓 대화상자`에 표시할 수 있습니다. 
+
+#### [그림 90.2.9.1.a111. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-01-brushes.html#%EA%B7%B8%EB%A6%BC-90291a111-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EB%B6%93-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%84%A0%ED%83%9D%EB%90%9C-%EB%B6%93-%ED%8F%B4%EB%8D%94)
+[![90-02-09-foldersx-01-brushes(windows)(ko)-focus-selected_folder](https://github.com/wonder13662/gimp/assets/15767104/a9032345-5c9e-4bf3-b184-34a6de4bc5b9)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-01-brushes.html#%EA%B7%B8%EB%A6%BC-90291a111-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EB%B6%93-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%84%A0%ED%83%9D%EB%90%9C-%EB%B6%93-%ED%8F%B4%EB%8D%94)
+
+[다른 운영체제와 언어의 `기본 설정` → `폴더` → `붓` 확인하기](./90-02-09-foldersx-01-brushes.md)
+
+`붓 대화상자`에서 `새로고침` 버튼을 클릭하면 붓 디렉토리를 최신으로 업데이트할 수 있습니다.
+
+#### [영상 90.4.15.a153. 일반붓 만들기 - `.gbr` 파일을 불러오기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a153-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---gbr-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40fdc204-f9d5-4cce-b7dd-289c00a9cbf3"></video>
+
+> 🗒️ 참고
+>
+> 새 붓을 빨리 추가하는 방법은 [9.2. 새 붓 빨리 만들기](./07-09-02-creating-a-brush-quickly.md)을 참고해주세요.
 
 ***
 
