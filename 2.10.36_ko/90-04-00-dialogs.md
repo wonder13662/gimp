@@ -228,7 +228,7 @@
 #### 그림 90.4.37.a101. `새 이미지 만들기` 대화상자 (Windows) (우리말)
 ![90-04-37-create_a_new_image(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/4dec9acc-8261-45c9-9223-48db1f819154)
 
-### [90.4.38. 이미지 열기(Create a New Image)](./90-04-38-open_image.md)
+### [90.4.38. 이미지 열기(Open Image)](./90-04-38-open_image.md)
 #### 그림 90.4.38.a101. `이미지 열기` 대화상자 (Windows) (우리말)
 ![90-04-38-open_image(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/208d13e1-6dd5-482a-be16-3288a358895d)
 

@@ -1,4 +1,4 @@
-# 90.4.38. 이미지 열기(Create a New Image)
+# 90.4.38. 이미지 열기(Open Image)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.4.38.a101. `이미지 열기` 대화상자 (Windows) (우리말)
 ![90-04-38-open_image(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/208d13e1-6dd5-482a-be16-3288a358895d)

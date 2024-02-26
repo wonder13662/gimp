@@ -1220,7 +1220,7 @@
 
 [90.4.37. 새 이미지 만들기(Create a New Image)](./90-04-37-create_a_new_image.md)
 
-[90.4.38. 이미지 열기(Create a New Image)](./90-04-38-open_image.md)
+[90.4.38. 이미지 열기(Open Image)](./90-04-38-open_image.md)
 
 [90.4.39. 포스트스크립트 가져오기(Import from PostScript)](./90-04-39-import_from_postscript.md)
 

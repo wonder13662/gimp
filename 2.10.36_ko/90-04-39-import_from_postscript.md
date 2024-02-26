@@ -57,7 +57,7 @@
 ## 다른 페이지로 가기
 [➡️ 다음: 90.4.40. PDF 가져오기(Import from PDF)](./90-04-40-import_from_pdf.md)
 
-[⬅️ 이전: 90.4.38. 이미지 열기(Create a New Image)](./90-04-38-open_image.md)
+[⬅️ 이전: 90.4.38. 이미지 열기(Open Image)](./90-04-38-open_image.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 
