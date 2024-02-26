@@ -289,7 +289,16 @@
 ![90-04-52-export_image_as_brush(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7f5a1766-b93a-438a-9092-0f99e5e169f6)
 
 ### [90.4.53. 붓 편집기(Brush Editor)](./90-04-53-brush_editor.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.4.53.a101. `붓 편집기` 대화상자 (Windows) (우리말)
+![90-04-53-brush_editor(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/4693b288-1d33-4d6d-a3bd-c59094824432)
+
+### [90.4.54. 이미지를 붓 파이프로 내보내기(Export image as brush pipe)](./90-04-54-export_image_as_brush_pipe.md)
+#### 그림 90.4.54.a101. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말)
+![90-04-54-export_image_as_brush_pipe(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/772cddf7-fec0-4394-8394-99ec12a986e8)
+
+### [90.4.55. 이미지 저장(Save Image)](./90-04-55-save_image.md)
+#### 그림 90.4.55.a101. `이미지 저장` 대화상자 (Windows) (우리말)
+![90-04-55-save_image(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/4998ac9f-01a4-469f-a414-4c2e48f37525)
 
 ***
 

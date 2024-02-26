@@ -1246,6 +1246,10 @@
 
 [90.4.53. 붓 편집기(Brush Editor)](./90-04-53-brush_editor.md)
 
+[90.4.54. 이미지를 붓 파이프로 내보내기(Export image as brush pipe)](./90-04-54-export_image_as_brush_pipe.md)
+
+[90.4.55. 이미지 저장(Save Image)](./90-04-55-save_image.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
