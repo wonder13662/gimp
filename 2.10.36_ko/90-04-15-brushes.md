@@ -140,6 +140,11 @@
 
 [7.6.4. 이미지 호스(image hose)/이미지 파이프(image pipe) - 영상 90.4.15.a182](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-04-gih_brush.html#%EC%98%81%EC%83%81-90415a182-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%98%B8%EC%8A%A4-%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%98%EA%B8%B0)
 
+#### 영상 90.4.15.a191. 붓 대화상자의 붓 설명(description)
+![90-04-15-view_as_grid(windows)(ko)-focus-brush_description](https://github.com/wonder13662/gimp/assets/15767104/fb4f6097-a9e0-4cc0-aa68-c03d0b462846)
+
+[7.8.1. GIH 대화상자 - 설정값 - 영상 90.4.15.a191]()
+
 ***
 
 ## 다른 페이지로 가기

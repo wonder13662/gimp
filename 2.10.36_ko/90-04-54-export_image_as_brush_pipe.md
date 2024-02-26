@@ -7,6 +7,8 @@
 
 [7.8. GIH 대화상자 - 그림 90.4.54.a101]()
 
+[7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a101]()
+
 #### 그림 90.4.54.a102. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (영어)
 ![90-04-54-export_image_as_brush_pipe(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/62dab00b-faa8-4e1e-99c7-7f9ddd0399b4)
 

@@ -302,7 +302,7 @@
 
 ***
 
-## 기능이 쓰인 곳
+## 공통 기능
 
 #### 영상 90.4.a101. 탭 추가(Add Tab)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2859f79-24af-41ff-8ec6-e859da6c8fb8"></video>
@@ -353,6 +353,18 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d388c0bb-d596-406a-a154-ae52b4808828"></video>
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.4.a132. 다중창에서 이미지 창을 선택할 때마다 이미지 선택 표시의 내용이 바뀝니다](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-03-dialogs-and-dockingx-02-tab-menu.html#%EC%98%81%EC%83%81-904a132-%EB%8B%A4%EC%A4%91%EC%B0%BD%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%A0-%EB%95%8C%EB%A7%88%EB%8B%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%84%A0%ED%83%9D-%ED%91%9C%EC%8B%9C%EC%9D%98-%EB%82%B4%EC%9A%A9%EC%9D%B4-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4)
+
+#### 그림 90.4.a141. 탭 메뉴 열기 - 붓 대화상자
+![90-04-tab_menu(windows)(ko)(animation)](https://github.com/wonder13662/gimp/assets/15767104/8c44f727-4e56-4f18-817c-91efe0b4bdd1)
+
+#### 그림 90.4.a142. 탭 메뉴 - 붓 대화상자
+![90-04-tab_menu(windows)(ko)-tab_menu](https://github.com/wonder13662/gimp/assets/15767104/fb2e0147-3462-4fa4-8a03-612bf7ab70b5)
+
+#### 그림 90.4.a143. 목록으로 보기(View as List) - 붓 대화상자
+![90-04-view_as_list(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/bc46cfdc-2ab1-4252-b719-d7bbf8b36727)
+
+#### 그림 90.4.a144. 격자로 보기(View as Grid) - 붓 대화상자
+![90-04-view_as_grid(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/5f913792-16d7-4438-b170-b9399ef10ede)
 
 ***
 

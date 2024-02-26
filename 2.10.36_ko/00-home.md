@@ -260,6 +260,12 @@
 
 [7.8. GIH 대화상자](./07-08-the-gih-dialog-box.md)
 
+[7.8.1. `이미지를 붓 파이프로 내보내기` 대화상자의 설정값](./07-08-the-gih-dialog-boxx-01-dialog_options_of_export_image_as_brush_pipe.md)
+
+[7.8.2.1. 1차원 이미지 파이프(One diemnsion image pipe)](./07-08-the-gih-dialog-boxx-02-examplex-01-one_dimension_image_pipe.md)
+
+[7.8.2.3. 3차원 이미지 호스(A 3 dimension image hose)](./07-08-the-gih-dialog-boxx-02-examplex-02-three_dimension_image_hose.md)
+
 [7.9. 붓 크기 바꾸기](./07-09-00-changing-brush-size.md)
 
 [7.9.1. 붓 크기를 바꾸는 방법](./07-09-01-how-to-change-the-size-of-a-brush.md)
