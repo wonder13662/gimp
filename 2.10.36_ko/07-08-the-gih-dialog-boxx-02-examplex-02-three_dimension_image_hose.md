@@ -137,6 +137,9 @@ GIMP(김프)에서 이 배열을 어떻게 읽을까요? GIMP(김프)는 첫번�
 |두번째 차원|2열, 선택: "증분(Incremental)"|
 |세번째 차원|2열, 선택: "무작위(Random)"|
 
+#### 그림 7.8.2.2.a119. `.gih` 형식으로 내보내기의 설정값
+![07-08-02-02-dialog-export_image_as_brush_pipe-three_dimension(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/af66c68a-0062-4742-b528-7034ac42f60f)
+
 ## 6. `.gih` 포맷으로 내보낼 위치 정하기
 `.gih` 파일은 GIMP(김프)의 붓 폴더에 저장해야 합니다. `기본 설정` → `폴더` → `붓`의 폴더 위치를 확인하여서 `.gih` 파일을 그곳에 저장합니다. 
 
