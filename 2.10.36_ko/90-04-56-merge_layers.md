@@ -22,7 +22,7 @@
 ## 다른 페이지로 가기
 [➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
-[⬅️ 이전: 90.4.54. 이미지를 붓 파이프로 내보내기(Export image as brush pipe)](./90-04-54-export_image_as_brush_pipe.md)
+[⬅️ 이전: 90.4.55. 이미지 저장(Save Image)](./90-04-55-save_image.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

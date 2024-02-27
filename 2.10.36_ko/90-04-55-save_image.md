@@ -17,7 +17,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.56. 레이어 합치기(Merge Layers)](./90-04-56-merge_layers.md)
 
 [⬅️ 이전: 90.4.54. 이미지를 붓 파이프로 내보내기(Export image as brush pipe)](./90-04-54-export_image_as_brush_pipe.md)
 

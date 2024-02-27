@@ -1008,6 +1008,8 @@
 
 [90.4.55. 이미지 저장(Save Image)](./90-04-55-save_image.md)
 
+[90.4.56. 레이어 합치기(Merge Layers)](./90-04-56-merge_layers.md)
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

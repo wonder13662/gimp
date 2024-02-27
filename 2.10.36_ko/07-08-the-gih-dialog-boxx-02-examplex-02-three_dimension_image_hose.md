@@ -26,8 +26,8 @@
 
 레이어를 복사합니다. 복사한 레이어만 보이도록 합니다. 복사한 레이어를 선택한 다음, [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `레이어` → `변형` → `시계 방향으로 90도 회전`을 선택하여 90° 회전을 시켜줍니다. 그리고 레이어의 이름을 "handL90k"로 바꿔줍니다. 
 
-#### 그림 90.1.6.10.a3. `레이어` → `변형` → `시계 방향으로 90도 회전` (windows) (우리말)
-![90-01-06-layerx-04-transform(우리말)(windows)-focus-rotate_90_clockwise](https://github.com/wonder13662/gimp/assets/15767104/1b35693a-4884-465c-a73f-f542de620b26)
+#### [그림 90.1.6.10.a3. `레이어` → `변형` → `시계 방향으로 90도 회전` (windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-10-transform.html#%EA%B7%B8%EB%A6%BC-901610a3-%EB%A0%88%EC%9D%B4%EC%96%B4---%EB%B3%80%ED%98%95-windows---%EC%8B%9C%EA%B3%84-%EB%B0%A9%ED%96%A5%EC%9C%BC%EB%A1%9C-90%EB%8F%84-%ED%9A%8C%EC%A0%84)
+[![90-01-06-layerx-04-transform(우리말)(windows)-focus-rotate_90_clockwise](https://github.com/wonder13662/gimp/assets/15767104/1b35693a-4884-465c-a73f-f542de620b26)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-10-transform.html#%EA%B7%B8%EB%A6%BC-901610a3-%EB%A0%88%EC%9D%B4%EC%96%B4---%EB%B3%80%ED%98%95-windows---%EC%8B%9C%EA%B3%84-%EB%B0%A9%ED%96%A5%EC%9C%BC%EB%A1%9C-90%EB%8F%84-%ED%9A%8C%EC%A0%84)
 
 레이어를 복제해서 90도씩 회전시키는 작업을 반복해서 "handL180k" 그리고 "hand270k"를 만듭니다.
 
@@ -39,8 +39,8 @@
 
 "handL0k" 레이어를 복제하고 새로 복제한 레이어만 보이게 합니다. 레이어 이름을 "handR0k"로 바꾸고, [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `레이어` → `변형` → `수평 뒤집기`를 선택하여 적용합니다.
 
-#### 그림 90.1.6.10.a4. `레이어` → `변형` → `수평 뒤집기` (windows) (우리말)
-![90-01-06-layerx-04-transform(우리말)(windows)-focus-flip_horizontal](https://github.com/wonder13662/gimp/assets/15767104/0e4cf75c-c78d-48a3-aec8-d12f874e300a)
+#### [그림 90.1.6.10.a4. `레이어` → `변형` → `수평 뒤집기` (windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-10-transform.html#%EA%B7%B8%EB%A6%BC-901610a4-%EB%A0%88%EC%9D%B4%EC%96%B4--%EB%B3%80%ED%98%95--%EC%88%98%ED%8F%89-%EB%92%A4%EC%A7%91%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-01-06-layerx-04-transform(우리말)(windows)-focus-flip_horizontal](https://github.com/wonder13662/gimp/assets/15767104/0e4cf75c-c78d-48a3-aec8-d12f874e300a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-10-transform.html#%EA%B7%B8%EB%A6%BC-901610a4-%EB%A0%88%EC%9D%B4%EC%96%B4--%EB%B3%80%ED%98%95--%EC%88%98%ED%8F%89-%EB%92%A4%EC%A7%91%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 다른 왼손 레이어에 대해서도 같은 작업을 반복하여 오른손 레이어를 만듭니다.
 
@@ -54,25 +54,25 @@
 
 "handL0k" 레이어를 선택하고 보이도록 설정합니다. [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `이미지` → `캔버스 크기`를 선택해 캔버스 크기를 60x30 픽셀로 변경합니다.
 
-#### 그림 90.1.5.6.a101. `이미지` → `캔버스 크기`
-![90-01-05-image(1080)-focus-canvas_size](https://github.com/wonder13662/gimp/assets/15767104/8c5ef4cb-a978-4950-b033-e576e342931f)
+#### [그림 90.1.5.6.a101. `이미지` → `캔버스 크기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-05-imagex-06-canvas_size.html#%EA%B7%B8%EB%A6%BC-90156a101-%EC%9D%B4%EB%AF%B8%EC%A7%80--%EC%BA%94%EB%B2%84%EC%8A%A4-%ED%81%AC%EA%B8%B0)
+[![90-01-05-image(1080)-focus-canvas_size](https://github.com/wonder13662/gimp/assets/15767104/8c5ef4cb-a978-4950-b033-e576e342931f)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-05-imagex-06-canvas_size.html#%EA%B7%B8%EB%A6%BC-90156a101-%EC%9D%B4%EB%AF%B8%EC%A7%80--%EC%BA%94%EB%B2%84%EC%8A%A4-%ED%81%AC%EA%B8%B0)
 
 이동 도구를 선택합니다. 이동 도구의 도구 옵션(Tool Options)의 대화상자의 `도구 전환(Tool Toggle)`의 `현재 레이어 이동(Move the active layer)`을 선택합니다. 
 
-#### 그림 90.4.1.1.a121. 이동 도구 대화상자 - 도구 옵션 - 현재 레이어 이동 (windows) (우리말)
-![90-03-01-move(windows)(ko)-focus-move_the_active_layer](https://github.com/wonder13662/gimp/assets/15767104/38844140-f6fa-4850-b6fe-6004b8195cc0)
+#### [그림 90.4.1.1.a121. 이동 도구 대화상자 - 도구 옵션 - 현재 레이어 이동 (windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-01-move.html#%EA%B7%B8%EB%A6%BC-90411a121-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98---%ED%98%84%EC%9E%AC-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%9D%B4%EB%8F%99-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-03-01-move(windows)(ko)-focus-move_the_active_layer](https://github.com/wonder13662/gimp/assets/15767104/38844140-f6fa-4850-b6fe-6004b8195cc0)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-01-move.html#%EA%B7%B8%EB%A6%BC-90411a121-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98---%ED%98%84%EC%9E%AC-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%9D%B4%EB%8F%99-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 파란색 속 이미지를 이미지의 오른쪽으로 옮깁니다.
 
 "hand0k"와 파란색 손 복사본만 보이도록 합니다. 레이어 대화상자에 오른쪽 클릭을 하여서 컨텍스트 메뉴를 엽니다.
 
-#### 그림 90.4.3.a202. 레이어 대화상자의 컨텍스트 메뉴 열기 (windows) (우리말)
-![90-04-03-layer_dialog-toggle_context_menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/faac9099-0657-4cd8-8bc0-b1bce6a098b6)
+#### [그림 90.4.3.a202. 레이어 대화상자의 컨텍스트 메뉴 열기 (windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a202-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-03-layer_dialog-toggle_context_menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/faac9099-0657-4cd8-8bc0-b1bce6a098b6)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a202-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 컨텍스트 메뉴의 `보이는 레이어 합치기`를 선택합니다.
 
-#### 그림 90.4.3.a203. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴 (windows) (우리말) - `보이는 레이어 합치기`
-![90-04-03-layer_dialog-context_menu(windows)(ko)-focus-merge_visible_layers](https://github.com/wonder13662/gimp/assets/15767104/11f7092a-a90f-401f-83ae-dbb1bd5bf149)
+#### [그림 90.4.3.a203. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴 (windows) (우리말) - `보이는 레이어 합치기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a203-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%9C%BC%EB%A1%9C-%EC%97%AC%EB%8A%94-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EB%B3%B4%EC%9D%B4%EB%8A%94-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%95%A9%EC%B9%98%EA%B8%B0)
+[![90-04-03-layer_dialog-context_menu(windows)(ko)-focus-merge_visible_layers](https://github.com/wonder13662/gimp/assets/15767104/11f7092a-a90f-401f-83ae-dbb1bd5bf149)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a203-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%9C%BC%EB%A1%9C-%EC%97%AC%EB%8A%94-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EB%B3%B4%EC%9D%B4%EB%8A%94-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%95%A9%EC%B9%98%EA%B8%B0)
 
 `레이어 합치기` 대화상자의 `필요한만큼 넓히기(Expanded as necessasry)`를 선택합니다.
 

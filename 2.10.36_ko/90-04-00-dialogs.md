@@ -300,6 +300,10 @@
 #### 그림 90.4.55.a101. `이미지 저장` 대화상자 (Windows) (우리말)
 ![90-04-55-save_image(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/4998ac9f-01a4-469f-a414-4c2e48f37525)
 
+### [90.4.56. 레이어 합치기(Merge Layers)](./90-04-56-merge_layers.md)
+#### 그림 90.4.56.a101. `레이어 합치기` 대화상자 (Windows) (우리말)
+![90-04-56-merge_layers(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/ad7f1780-41ca-4be3-974c-53a51ef352ad)
+
 ***
 
 ## 공통 기능

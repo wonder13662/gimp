@@ -1,7 +1,7 @@
 # 7.8.1. GIH 대화상자 - 설정값
 
-#### 그림 90.4.54.a101. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말)
-![90-04-54-export_image_as_brush_pipe(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/772cddf7-fec0-4394-8394-99ec12a986e8)
+#### [그림 90.4.54.a101. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-54-export_image_as_brush_pipe.html#%EA%B7%B8%EB%A6%BC-90454a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-54-export_image_as_brush_pipe(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/772cddf7-fec0-4394-8394-99ec12a986e8)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-54-export_image_as_brush_pipe.html#%EA%B7%B8%EB%A6%BC-90454a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ## 1. 간격(Spacing)
 단위는 퍼센트(%) 입니다. `간격`은 연속된 붓의 자국의 거리입니다. 어떤 칠하기 도구라도 선택한 붓으로 그릴 때의 간격을 고려해야 합니다. 만약 간격이 좁다면, 자국이 매우 가까워 이어져 보일 수 있습니다. 반대로 간격이 넓다면, 자국은 분리되어 보일 것입니다. [색상 붓](./07-06-brushesx-02-color_brush.md)의 경우에는 유용할 수 있습니다. 값의 입력 범위는 1부터 200까지 입니다. 그리고 이 입력 범위는 붓의 지름(diameter)을 기준으로 삼습니다. 예를 들어 100%는 붓의 지름 1개의 거리입니다.
@@ -9,8 +9,8 @@
 ## 2. 설명(Description)
 `붓 대화상자`에서 `격자로 보기(View as Grid)`일 경우, 붓 선택시 나오는 붓의 이름입니다.
 
-#### 영상 90.4.15.a191. 붓 대화상자의 붓 설명(description)
-![90-04-15-view_as_grid(windows)(ko)-focus-brush_description](https://github.com/wonder13662/gimp/assets/15767104/fb4f6097-a9e0-4cc0-aa68-c03d0b462846)
+#### [영상 90.4.15.a191. 붓 대화상자의 붓 설명(description)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a191-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93-%EC%84%A4%EB%AA%85description)
+[![90-04-15-view_as_grid(windows)(ko)-focus-brush_description](https://github.com/wonder13662/gimp/assets/15767104/fb4f6097-a9e0-4cc0-aa68-c03d0b462846)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a191-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93-%EC%84%A4%EB%AA%85description)
 
 ## 3. 셀 크기(Cell size)
 레이어에서 잘라낸 셀의 크기입니다. 기본값은 레이어당 1 셀이며, 크기는 레이어의 크기입니다. 이 경우, 레이어당 한 개의 모양의 붓만 가지게 됩니다.
@@ -28,8 +28,8 @@
 ## 6. 차원(Dimension), 순위(Ranks)
 GIMP(김프)는 각 레이어에서 셀을 가져옵니다. 그리고 가져온 셀들을 가져온 순서대로 쌓습니다. 쌓은 층을 스택(stack)이라고 합니다. 그리고 스택의 첫번째 셀을 제일 먼저 처리합니다. 이 방식을 [선입선출(FIFO)](https://ko.wikipedia.org/wiki/%EC%84%A0%EC%9E%85_%EC%84%A0%EC%B6%9C)이라고 합니다. 
 
-#### 그림 90.99.a144. 선입선출(FIFO - first in, first out)
-![Fifo_queue](https://github.com/wonder13662/gimp/assets/15767104/6e7cd780-e5cb-4347-911e-1ce4fa3ceade)
+#### [그림 90.99.a144. 선입선출(FIFO - first in, first out)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a144-%EC%84%A0%EC%9E%85%EC%84%A0%EC%B6%9Cfifo---first-in-first-out)
+[![Fifo_queue](https://github.com/wonder13662/gimp/assets/15767104/6e7cd780-e5cb-4347-911e-1ce4fa3ceade)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a144-%EC%84%A0%EC%9E%85%EC%84%A0%EC%B6%9Cfifo---first-in-first-out)
 
 이번 예제에서는 4개의 레이어가 각각 2개의 셀을 가지고 있습니다. 레이어당 1개의 셀인 경우와 레이어당 여러 개의 셀인 경우라도 결과는 같습니다. 결과물인 [`.gih`](./19-glossaryx-gih.md) 파일의 레이어 대화상자를 확인해보면, 각 셀이 레이어 층으로 바뀌어 있는 것을 확인할 수 있습니다.
 
@@ -41,13 +41,13 @@ GIMP(김프)는 각 레이어에서 셀을 가져옵니다. 그리고 가져온 
 
 2차원 배열을 상상하는 것은 쉽습니다. `행(row)`과 `열(column)`로 이루어진 배열입니다.
 
-#### 그림 90.99.a145. 행(row)과 열(column)로 이루어진 2차원 배열(array)
-![gih-array2D](https://github.com/wonder13662/gimp/assets/15767104/a7c1b608-6ad5-4d66-b035-2286ce82115d)
+#### [그림 90.99.a145. 행(row)과 열(column)로 이루어진 2차원 배열(array)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a145-%ED%96%89row%EA%B3%BC-%EC%97%B4column%EB%A1%9C-%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%84-2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4array)
+[![gih-array2D](https://github.com/wonder13662/gimp/assets/15767104/a7c1b608-6ad5-4d66-b035-2286ce82115d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a145-%ED%96%89row%EA%B3%BC-%EC%97%B4column%EB%A1%9C-%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%84-2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4array)
 
 3차원 배열은 행과 열이 아닌 `차원(Dimension)`과 `순위(Ranks)`로 이루어진 배열입니다. 첫번째 `차원`은 x 축입니다. 두번째 `차원`은 y 축입니다. 세번째 `차원`은 z 축입니다. 각 `차원`은 `순위`로 된 `셀(cell)`을 가지고 있습니다.
 
-#### 그림 90.99.a146. 차원(Dimension)과 순위(Ranks)로 이루어진 3차원 배열(array)
-![gih-array3D](https://github.com/wonder13662/gimp/assets/15767104/9e144c26-051e-4617-9331-28c2cc2968ef)
+#### [그림 90.99.a146. 차원(Dimension)과 순위(Ranks)로 이루어진 3차원 배열(array)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a146-%EC%B0%A8%EC%9B%90dimension%EA%B3%BC-%ED%9A%A1%EB%A0%ACranks%EB%A1%9C-%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%84-3%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4array)
+[![gih-array3D](https://github.com/wonder13662/gimp/assets/15767104/9e144c26-051e-4617-9331-28c2cc2968ef)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a146-%EC%B0%A8%EC%9B%90dimension%EA%B3%BC-%ED%9A%A1%EB%A0%ACranks%EB%A1%9C-%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%84-3%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4array)
 
 이제 스택에서 셀을 빼어 배열을 채우기 시작합니다. 배열을 채우는 방식은 `순위`의 왼쪽부터 오른쪽으로 채워지며, `순위`의 오른쪽의 끝까지 다 차면, 다시 `순위`의 첫번째로 돌아옵니다. 예시로 배열(4,2,2)는 아래와 같은 방식으로 채워지게 됩니다.
 
