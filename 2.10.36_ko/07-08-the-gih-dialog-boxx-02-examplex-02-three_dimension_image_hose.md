@@ -76,8 +76,8 @@
 
 `레이어 합치기` 대화상자의 `필요한만큼 넓히기(Expanded as necessasry)`를 선택합니다.
 
-#### 그림 90.4.56.a105. `레이어 합치기` 대화상자 (Windows) (우리말) - 필요한만큼 넓히기(Expanded as necessasry)
-![90-04-56-merge_layers(windows)(ko)-focus-expanded_as_necesssary](https://github.com/wonder13662/gimp/assets/15767104/1c7e6ae5-f2a2-413e-a314-dce5d4a8149f)
+#### [그림 90.4.56.a105. `레이어 합치기` 대화상자 (Windows) (우리말) - 필요한만큼 넓히기(Expanded as necessasry)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-56-merge_layers.html#%EA%B7%B8%EB%A6%BC-90456a105-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%95%A9%EC%B9%98%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%ED%95%84%EC%9A%94%ED%95%9C%EB%A7%8C%ED%81%BC-%EB%84%93%ED%9E%88%EA%B8%B0expanded-as-necessasry)
+[![90-04-56-merge_layers(windows)(ko)-focus-expanded_as_necesssary](https://github.com/wonder13662/gimp/assets/15767104/1c7e6ae5-f2a2-413e-a314-dce5d4a8149f)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-56-merge_layers.html#%EA%B7%B8%EB%A6%BC-90456a105-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%95%A9%EC%B9%98%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%ED%95%84%EC%9A%94%ED%95%9C%EB%A7%8C%ED%81%BC-%EB%84%93%ED%9E%88%EA%B8%B0expanded-as-necessasry)
 
 왼쪽에는 검은색의 손, 오른쪽에는 파란색 손이 있는 60x30 픽셀 크기의 레이어가 되었습니다. "handsL0"으로 이름을 바꿔줍니다.
 
@@ -143,8 +143,8 @@ GIMP(김프)에서 이 배열을 어떻게 읽을까요? GIMP(김프)는 첫번�
 ## 6. `.gih` 포맷으로 내보낼 위치 정하기
 `.gih` 파일은 GIMP(김프)의 붓 폴더에 저장해야 합니다. `기본 설정` → `폴더` → `붓`의 폴더 위치를 확인하여서 `.gih` 파일을 그곳에 저장합니다. 
 
-#### 그림 90.2.9.1.a111. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더
-![90-02-09-foldersx-01-brushes(windows)(ko)-focus-selected_folder](https://github.com/wonder13662/gimp/assets/15767104/a9032345-5c9e-4bf3-b184-34a6de4bc5b9)
+#### [그림 90.2.9.1.a111. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-01-brushes.html#%EA%B7%B8%EB%A6%BC-90291a111-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EB%B6%93-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%84%A0%ED%83%9D%EB%90%9C-%EB%B6%93-%ED%8F%B4%EB%8D%94)
+[![90-02-09-foldersx-01-brushes(windows)(ko)-focus-selected_folder](https://github.com/wonder13662/gimp/assets/15767104/a9032345-5c9e-4bf3-b184-34a6de4bc5b9)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-01-brushes.html#%EA%B7%B8%EB%A6%BC-90291a111-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EB%B6%93-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%84%A0%ED%83%9D%EB%90%9C-%EB%B6%93-%ED%8F%B4%EB%8D%94)
 
 ## 7. `붓 대화상자` 새로고침
 `붓 대화상자`를 열고, `새로고침`버튼을 누릅니다. `붓 대화상자`에 새로운 붓이 나타나는 것을 확인할 수 있습니다. 
