@@ -264,7 +264,7 @@
 
 [7.8.2.1. 1차원 이미지 파이프(One diemnsion image pipe)](./07-08-the-gih-dialog-boxx-02-examplex-01-one_dimension_image_pipe.md)
 
-[7.8.2.3. 3차원 이미지 호스(A 3 dimension image hose)](./07-08-the-gih-dialog-boxx-02-examplex-02-three_dimension_image_hose.md)
+[7.8.2.2. 3차원 이미지 호스(A 3 dimension image hose)](./07-08-the-gih-dialog-boxx-02-examplex-02-three_dimension_image_hose.md)
 
 [7.9. 붓 크기 바꾸기](./07-09-00-changing-brush-size.md)
 
