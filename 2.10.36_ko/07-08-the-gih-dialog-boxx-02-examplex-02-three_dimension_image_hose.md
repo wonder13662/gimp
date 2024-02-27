@@ -86,6 +86,75 @@
 #### 그림 7.8.2.2.a116. 파란손 이미지가 추가된 레이어 대화상자
 ![07-08-02-02-third_dimension-layer_dialog_done](https://github.com/wonder13662/gimp/assets/15767104/83188754-f677-48a3-8574-bdca1843ca93)
 
+## 4. 레이어 정렬하기
+레이어는 정렬이 되어 있어야 붓으로 칠할 때, GIMP(김프)에서 필요한 이미지를 찾을 수 있습니다. 작업한 레이어는 이제부터 정렬을 해야 하지만, 어떻게 정렬이 되는지에 대해서는 반드시 이해해야 합니다. 정렬을 하는 과정을 2가지 방법으로 설명해보겠습니다.
+
+### 1-1. 계산과정으로 설명하기
+GIMP(김프)는 16개의 레이어를 4로 나눕니다. 4로 나누면 첫번째 차원에 대해 4개의 그룹으로 나뉘며, 각 그룹은 4개의 레이어를 갖습니다. 각 그룹은 붓의 방향을 나타냅니다. 그리고 두번째 차원에 대해 각 그룹을 다시 2로 나눕니다. 나뉘어진 각 그룹은 오른손과 왼손의 번갈아 나타나는 것을 나타냅니다. 그리고 세번째 차원에 대해 2로 나누면 검정색과 파란색이 무작위로 선택되는 것을 나타냅니다.
+
+### 1-2. 시각적으로 설명하기
+다른 방법은 배열 표현을 이용한 시각적인 방법입니다. 두 방법의 상관관계는 다음 그림에서 볼 수 있습니다.
+
+|Layer|Stack|Cell No.|Array|Choice|
+|---|---|---|---|---|
+|handsL0|handsL0k|<span style="background:#e37171;color:black;">1</span>|1,1,1||
+||handsL0b|<span style="background:#e37171;color:black;">2</span>|1,1,2||
+|handsR0|handsR0k|<span style="background:#e37171;color:black;">3</span>|1,2,1||
+||handsR0b|<span style="background:#e37171;color:black;">4</span>|1,2,2||
+|handsL270|handsL270k|<span style="background:#f9fb0a;color:black;">5</span>|2,1,1|<span style="background:#f9fb0a;color:black;border: 1px solid black;">5</span> 5|
+||handsL270b|<span style="background:#f9fb0a;color:black;">6</span>|2,1,2|<span style="background:#f9fb0a;color:black;border: 1px solid black;">6</span> <span style="background:#f9fb0a;color:black;border: 1px solid black;">6</span>|
+|handsR270|handsR270k|<span style="background:#f9fb0a;color:black;">7</span>|2,2,1|<span style="background:white;color:black;border: 1px solid black;">7</span> 7|
+||handsR270b|<span style="background:#f9fb0a;color:black;">8</span>|2,2,2|<span style="background:white;color:black;border: 1px solid black;">8</span> 8|
+|handsL180|handsL180k|<span style="background:#4de3f1;color:black;">9</span>|3,1,1||
+||handsL180b|<span style="background:#4de3f1;color:black;">10</span>|3,1,2||
+|handsR180|handsR180k|<span style="background:#4de3f1;color:black;">11</span>|3,2,1||
+||handsR180b|<span style="background:#4de3f1;color:black;">12</span>|3,2,2||
+|handsL90|handsL90k|<span style="background:#f4adee;color:black;">13</span>|3,1,1||
+||handsL90b|<span style="background:#f4adee;color:black;">14</span>|3,1,2||
+|handsR90|handsR90k|<span style="background:#f4adee;color:black;">15</span>|3,2,1||
+||handsR90b|<span style="background:#f4adee;color:black;">16</span>|3,2,2||
+
+#### 그림 7.8.2.2.a116. 삼차원 배열과 삼차원 축과의 관계
+![07-08-02-02-three_dimension_graph](https://github.com/wonder13662/gimp/assets/15767104/fb01df25-e715-4a3a-83d3-475ea3613a2e)
+
+- **x 축**: 첫번째 차원이며 붓의 방향입니다. 각도 선택(angular selection)입니다.
+- **y 축**: 두번째 차원이며 왼쪽손과 오른쪽 손의 번갈아 가며 바뀌는 교차입니다. 증가 선택(increment selection)입니다.
+- **z 축**: 세번째 차원이며 손의 색상(검정색, 파란색)을 의미합니다. 무작위 선택(random selection)입니다.
+
+GIMP(김프)에서 이 배열을 어떻게 읽을까요? GIMP(김프)는 첫번째 차원부터 시작합니다. 첫번째 차원은 "각도(angular)"로 설정되어 있습니다. 270도를 예를 들어 보겠습니다. 270도인 순위(Rank)이면 노란색 영역입니다. 두번째 차원에서는 왼손과 오른손 중에 하나를 선택합니다. "증분(incremental)" 방식입니다(이전에 오른쪽이라면 이번에는 왼쪽을 선택합니다). 그리고 세번째 차원에서는 "무작위(random)" 방식입니다. 무작위로 색상을 선택합니다.
+
+## 5. `.gih` 형식으로 내보내기
+`.xcf` 형식으로 로 우선 저장하고, 아래 설정으로 `.gih` 형식으로 내보내기를 합니다.
+
+|항목|값|
+|---|---|
+|간격(Spacing)|100|
+|설명(Description)|손(Hands)|
+|셀 크기(Cell size)|30x30|
+|셀 개수(Number of cells)|16|
+|차원(Dimensions)|3|
+|첫번째 차원|4열, 선택: "각도(Angular)"|
+|두번째 차원|2열, 선택: "증분(Incremental)"|
+|세번째 차원|2열, 선택: "무작위(Random)"|
+
+## 6. `.gih` 포맷으로 내보낼 위치 정하기
+`.gih` 파일은 GIMP(김프)의 붓 폴더에 저장해야 합니다. `기본 설정` → `폴더` → `붓`의 폴더 위치를 확인하여서 `.gih` 파일을 그곳에 저장합니다. 
+
+#### 그림 90.2.9.1.a111. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더
+![90-02-09-foldersx-01-brushes(windows)(ko)-focus-selected_folder](https://github.com/wonder13662/gimp/assets/15767104/a9032345-5c9e-4bf3-b184-34a6de4bc5b9)
+
+## 7. `붓 대화상자` 새로고침
+`붓 대화상자`를 열고, `새로고침`버튼을 누릅니다. `붓 대화상자`에 새로운 붓이 나타나는 것을 확인할 수 있습니다. 
+
+#### 영상 7.8.2.2.a117. `붓 대화상자` 새로고침
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ef2cc773-28c1-4254-a9fa-7f7630541f63"></video>
+
+## 8. 새로운 붓으로 칠하기
+새로운 붓으로 이미지를 칠해보면, 세가지 차원을 기준으로 붓의 자국이 남는 것을 확인할 수 있습니다.
+
+#### 영상 7.8.2.2.a118. 새로운 붓으로 칠하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ef3a8c7e-fe12-47ee-9b91-dbe9e6fe3b11"></video>
+
 ***
 
 ## 다른 페이지로 가기

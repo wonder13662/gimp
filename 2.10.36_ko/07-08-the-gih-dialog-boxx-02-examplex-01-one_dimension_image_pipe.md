@@ -20,12 +20,15 @@
 `.xcf`으로 저장합니다. 그 다음에 `이미지 내보내기(Export As...)`로 `.gih` 포맷으로 내보냅니다.
 
 `이미지 내보내기(Export As...)` 대화상자에서 이미지가 저장될 위치를 선택합니다. `내보내기(Export)` 버튼을 클릭합니다. `Export Image as 붓 파이프(Export image as brush pipe)` 대화상자가 열립니다. 각 항목에 아래처럼 입력합니다.
-   - `간격(Spacing)`: 100
-   - `설명(Description)`: 이름을 입력
-   - `Cell size`: 30x30
-   - `Dimension`: 1
-   - `Ranks`: 4
-   - `Selection`: "Incremental"
+
+|항목|값|
+|---|---|
+|간격(Spacing)|100|
+|설명(Description)|이름을 입력|
+|셀 크기(Cell size)|30x30|
+|셀 개수(Number of cells)|4|
+|차원(Dimensions)|1|
+|첫번째 차원|4열, 선택: "증분(Incremental)"|
 
 #### 그림 7.8.2.1.a111. `.gih` 포맷으로 `이미지 내보내기(Export As...)`의 설정
 ![07-08-02-01-one_dimension-02-export_gih_dialog](https://github.com/wonder13662/gimp/assets/15767104/621794bc-d27f-4b38-b7b4-2a3f86c84729)

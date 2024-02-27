@@ -60,7 +60,7 @@ GIMP(김프)는 각 레이어에서 셀을 가져옵니다. 그리고 가져온 
 ## 7. 선택(Selection)
 각 `차원(Dimension)`에 설정하는 `순위(Ranks)`에 `선택(Selection)` 모드를 설정할 수 있습니다. 실제로 이미지에 붓을 칠할 때, `선택(Selection)` 모드에 영향을 받습니다. 각 모드는 아래와 같습니다.
 
-### 7-1. 증가(Incremental)
+### 7-1. 증분(Incremental)
 선택한 `차원(Dimension)`에서의 `순위(Ranks)`는 차원 안에서의 순서에 따라 결정됩니다.
 
 ### 7-2. 무작위(Random)
