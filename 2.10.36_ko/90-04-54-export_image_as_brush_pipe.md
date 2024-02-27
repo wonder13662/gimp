@@ -5,7 +5,7 @@
 
 [7.7. 새 붓 추가하기 - 그림 90.4.54.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-07-adding-new-brushes.html#%EA%B7%B8%EB%A6%BC-90454a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-[7.8. GIH 대화상자 - 그림 90.4.54.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-07-adding-new-brushes.html#%EA%B7%B8%EB%A6%BC-90454a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[7.8. GIH 대화상자 - 그림 90.4.54.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-the-gih-dialog-box.html#%EA%B7%B8%EB%A6%BC-90454a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 [7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-the-gih-dialog-boxx-01-dialog_options_of_export_image_as_brush_pipe.md#%EA%B7%B8%EB%A6%BC-90454a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
