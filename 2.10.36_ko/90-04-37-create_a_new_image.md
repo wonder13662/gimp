@@ -34,7 +34,7 @@
 #### 그림 90.4.37.a125. `새 이미지 만들기` 대화상자 - 고급옵션 (Windows) (우리말) - 1차원 이미지 파이프 만들기
 ![90-04-37-create_a_new_image-advanced_options(windows)(ko)-07-08-02-01-one_dimension](https://github.com/wonder13662/gimp/assets/15767104/1af96891-f5e0-4a4e-8503-62c64e760165)
 
-[7.8.2.1. 1차원 이미지 파이프(One diemnsion image pipe) - 그림 90.4.37.a125]()
+[7.8.2.1. 1차원 이미지 파이프(One diemnsion image pipe) - 그림 90.4.37.a125](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-the-gih-dialog-boxx-02-examplex-01-one_dimension_image_pipe.html#%EA%B7%B8%EB%A6%BC-90437a125-%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89%EC%98%B5%EC%85%98-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---1%EC%B0%A8%EC%9B%90-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%B4%ED%94%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 ***
 

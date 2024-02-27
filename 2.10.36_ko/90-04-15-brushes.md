@@ -143,7 +143,7 @@
 #### 영상 90.4.15.a191. 붓 대화상자의 붓 설명(description)
 ![90-04-15-view_as_grid(windows)(ko)-focus-brush_description](https://github.com/wonder13662/gimp/assets/15767104/fb4f6097-a9e0-4cc0-aa68-c03d0b462846)
 
-[7.8.1. GIH 대화상자 - 설정값 - 영상 90.4.15.a191]()
+[7.8.1. GIH 대화상자 - 설정값 - 영상 90.4.15.a191](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-the-gih-dialog-boxx-01-dialog_options_of_export_image_as_brush_pipe.md#%EC%98%81%EC%83%81-90415a191-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93-%EC%84%A4%EB%AA%85description)
 
 ***
 

@@ -4,7 +4,7 @@
 #### 그림 90.4.34.a101. 이미지 내보내기 대화상자 (Windows) (우리말)
 ![90-04-34-export_as(windows)(ko)(w720)](https://github.com/wonder13662/gimp/assets/15767104/b633f0c9-d50d-42f3-b43d-9e7a848ff01e)
 
-[7.8. GIH 대화상자 - 그림 90.4.34.a101]()
+[7.8. GIH 대화상자 - 그림 90.4.34.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-the-gih-dialog-box.html#%EA%B7%B8%EB%A6%BC-90434a101-export-as-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.34.a102. 이미지 내보내기 대화상자 (Windows) (영어)
 ![90-04-34-export_as(windows)(en)(w720)](https://github.com/wonder13662/gimp/assets/15767104/e353f75a-5bf4-4465-840f-70bd433f6324)

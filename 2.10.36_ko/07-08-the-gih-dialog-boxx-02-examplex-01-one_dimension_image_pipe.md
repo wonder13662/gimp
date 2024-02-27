@@ -2,7 +2,7 @@
 선택 모드를 알아보기 위해 1차원 배열부터 시작해보겠습니다. 아래와 같은 모양을 상상해보겠습니다.
 
 #### 그림 90.99.a147. 1차원 배열(array)
-![gih-array1D](https://github.com/wonder13662/gimp/assets/15767104/24b438c3-fe29-45b9-8a46-c98c8f714da9)
+![gih-array1D](https://github.com/wonder13662/gimp/assets/15767104/75d078d4-d4bb-4106-adb1-15df4a1fd485)
 
 ## 1. 새 이미지 만들기
 너비 30 픽셀, 높이 30 픽셀의 새로운 이미지를 엽니다. `색상 공간(Color space)`은 `RGB` 색상으로 맞추고, `채우기(Fill with)`는 `투명(Transparency)`로 설정합니다.

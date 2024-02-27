@@ -41,7 +41,7 @@
 #### 그림 90.4.1.1.a121. 이동 도구 대화상자 - 도구 옵션 - 현재 레이어 이동 (windows) (우리말)
 ![90-03-01-move(windows)(ko)-focus-move_the_active_layer](https://github.com/wonder13662/gimp/assets/15767104/38844140-f6fa-4850-b6fe-6004b8195cc0)
 
-[7.8.2.2. 3차원 이미지 호스(A three dimension image hose) - 그림 90.4.1.1.a121]()
+[7.8.2.2. 3차원 이미지 호스(A three dimension image hose) - 그림 90.4.1.1.a121](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-the-gih-dialog-boxx-02-examplex-02-three_dimension_image_hose.html#%EA%B7%B8%EB%A6%BC-90411a121-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98---%ED%98%84%EC%9E%AC-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%9D%B4%EB%8F%99-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 
