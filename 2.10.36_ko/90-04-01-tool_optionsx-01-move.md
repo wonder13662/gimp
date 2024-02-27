@@ -38,6 +38,11 @@
 
 [4.2.10. 이동, 회전 또는 다른 변형 도구로 작업한 효과가 보이지 않는 경우 - 그림 90.4.1.1.a114. 레이어를 변형(Transform)시킬 수 있는 도구 옵션의 이동(Move)의 레이어(Layer) 버튼](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-10-no-visible-effect-when-trying-to-use-the-move-tool-rotate-or-other-transform%E2%80%93tool.html#%EA%B7%B8%EB%A6%BC-90411a114-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EB%B3%80%ED%98%95transform%EC%8B%9C%ED%82%AC-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98%EC%9D%98-%EC%9D%B4%EB%8F%99move%EC%9D%98-%EB%A0%88%EC%9D%B4%EC%96%B4layer-%EB%B2%84%ED%8A%BC)
 
+#### 그림 90.4.1.1.a121. 이동 도구 대화상자 - 도구 옵션 - 현재 레이어 이동 (windows) (우리말)
+![90-03-01-move(windows)(ko)-focus-move_the_active_layer](https://github.com/wonder13662/gimp/assets/15767104/38844140-f6fa-4850-b6fe-6004b8195cc0)
+
+[7.8.2.2. 3차원 이미지 호스(A three dimension image hose) - 그림 90.4.1.1.a121]()
+
 ***
 
 ## 다른 페이지로 가기
