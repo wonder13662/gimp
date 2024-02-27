@@ -153,7 +153,11 @@ GIMP(김프)에서 이 배열을 어떻게 읽을까요? GIMP(김프)는 첫번�
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ef2cc773-28c1-4254-a9fa-7f7630541f63"></video>
 
 ## 8. 새로운 붓으로 칠하기
-새로운 붓으로 이미지를 칠해보면, 세가지 차원을 기준으로 붓의 자국이 남는 것을 확인할 수 있습니다.
+새로운 붓으로 이미지를 칠해보면, 세가지 차원을 기준으로 붓의 자국이 남는 것을 확인할 수 있습니다. 
+
+1. 오른손과 왼손이 차례대로 바뀝니다(선택: "증분(Incremental)")
+2. 검은색과 파란색은 무작위로 바뀝니다(선택: "무작위(Random)")
+2. 손의 방향은 붓의 4개 입력방향에 맞춰 바뀝니다(선택: "각도(Angular)")
 
 #### 영상 7.8.2.2.a118. 새로운 붓으로 칠하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ef3a8c7e-fe12-47ee-9b91-dbe9e6fe3b11"></video>
