@@ -90,6 +90,8 @@
 
 [7.6.1. 일반 붓(Ordinary brushes) - 영상 90.4.15.a154](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-01-ordinary_brush.html#%EC%98%81%EC%83%81-90415a154-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%BC%EB%B0%98%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
+[7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a154]()
+
 #### 그림 90.4.15.a161. 색상붓 만들기 - RGBA 이미지
 ![color_brush](https://github.com/wonder13662/gimp/assets/15767104/31d1859a-794e-4674-9142-0c331d2f9de0)
 
@@ -109,6 +111,8 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7162b436-f9c5-4b27-a706-9a7d8e59f383"></video>
 
 [7.6.2. 색상 붓(Color brushes) - 영상 90.4.15.a164](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-02-color_brush.html#%EC%98%81%EC%83%81-90415a164-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%83%89%EC%83%81%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%98%EA%B8%B0)
+
+[7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a164]()
 
 #### 그림 90.4.15.a171. 클립보드 마스크, 클립보드 이미지 만들기
 ![90-04-15-brushes(windows)(ko)-clipboard_mask_n_clipboard_image](https://github.com/wonder13662/gimp/assets/15767104/302a8b30-c573-4bc4-b512-08e93d821f87)
