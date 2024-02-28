@@ -79,12 +79,23 @@
 
 ## 5. 키보드 위, 아래 화살표키에 붓 크기 바꾸기 설정하기
 
-1. `기본 설정` → `입력 장치` → `입력 제어기`를 선택합니다.
-2. **현재 사용중인 제어기** 목록에서 "Main Keyboard"을 더블 클릭합니다.
-3. 입력 제어기 설정 창이 나옵니다. 왼쪽 컬럼 "Event"에서 "Cursor Up"과 "Cursor Down"에 각각 연결합니다.
-4. 이제 위, 아래 화살표 키를 이용해 붓의 크기를 조절할 수 있습니다.
+### 5-1. `기본 설정` → `입력 장치` → `입력 제어기`
+`기본 설정` → `입력 장치` → `입력 제어기`를 선택합니다. **현재 사용중인 제어기** 목록에서 "Main Keyboard"을 더블 클릭합니다.
 
-(TODO 시연 영상 추가 필요)
+#### 90.2.8.1.a11. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말) - Main Keyboard
+![90-02-08-input-devicex-01-input-controllers(우리말)(windows)-focus-main_keyboard](https://github.com/wonder13662/gimp/assets/15767104/3b5a7005-bb64-4809-86bf-67fb2f110245)
+
+### 5-2. 입력 제어기 설정 창
+입력 제어기 설정 창이 나옵니다. 왼쪽 컬럼 "이벤트(Event)"에서 "커서 위(Cursor Up)"과 "커서 아래(Cursor Down)"에 각각 연결합니다.
+
+#### 그림 7.9.1.a111. 키보드와 이벤트 연동
+![07-09-01-dialog-change_brush_size_by_arrow_up_n_down(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/610ecca0-712d-4cfd-b056-195935a5ccb4)
+
+### 5-3. 키보드 위, 아래 화살표키로 붓 크기 바꾸기
+이제 위, 아래 화살표 키를 이용해 붓의 크기를 조절할 수 있습니다.
+
+#### 영상 7.9.1.a112. 키보드 위, 아래 화살표키로 붓 크기 바꾸기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5f1c563b-ede3-453a-81f8-a9d2e294fba1"></video>
 
 ***
 
