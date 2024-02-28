@@ -24,12 +24,15 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/67d2fc42-5b50-4d13-b0e2-ffc5359217fc"></video>
 
 ## 3. 마우스 스크롤휠로 붓 크기 바꾸기
+마우스 스크롤휠로 붓의 크기를 바꿀 수 있습니다.
 
-By using the default mouse scrollwheel actions for changing a tool's size:
-- Decrease size by 1: Ctrl + Alt + Scrollwheel Down
-- Increase size by 1: Ctrl + Alt + Scrollwheel Up
+- "Ctrl + Alt + 스크롤휠 내리기"로  1씩 붓의 크기를 줄입니다.
+- "Ctrl + Alt + 스크롤휠 올리기"로  1씩 붓의 크기를 키웁니다.
 
-(TODO 시연 영상 추가 필요 - 마우스 휠이 시연 영상 효과가 있을까?)
+#### 그림 7.9.1.a102. 마우스 스크롤휠로 붓 크기 바꾸기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/713a231e-16c4-4b8a-ae6c-859ab3b016f6"></video>
+
+⚠️ 주의: Mac에서는 마우스 스크롤휠로 붓 크기 바꾸기가 작동하지 않습니다.
 
 ## 4. 마우스 휠에 붓 크기 바꾸기 설정하기
 
