@@ -158,12 +158,12 @@
 #### 그림 90.4.15.a201. 붓 대화상자 아래의 "이 붓을 복제합니다(Duplicate this brush)" 버튼
 ![90-04-15-brushes(windows)(ko)(slim)-focus-duplicate_this_brush](https://github.com/wonder13662/gimp/assets/15767104/8433834e-aeb8-484d-a33e-ed37d4e2b5a1)
 
-[7.9.2. 새 붓 빨리 만들기 - 그림 90.4.15.a201]()
+[7.9.2. 새 붓 빨리 만들기 - 그림 90.4.15.a201](https://wonder13662.github.io/gimp/2.10.36_ko/07-09-02-creating-a-brush-quickly.html#%EA%B7%B8%EB%A6%BC-90415a201-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%95%84%EB%9E%98%EC%9D%98-%EC%9D%B4-%EB%B6%93%EC%9D%84-%EB%B3%B5%EC%A0%9C%ED%95%A9%EB%8B%88%EB%8B%A4duplicate-this-brush-%EB%B2%84%ED%8A%BC)
 
 #### 영상 90.4.15.a202. 클립보드 마스크 붓 복제하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/22d0ee6c-82f1-46d1-a352-c2b3ac9e807d"></video>
 
-[7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a202]()
+[7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a202](https://wonder13662.github.io/gimp/2.10.36_ko/07-09-02-creating-a-brush-quickly.html#%EC%98%81%EC%83%81-90415a202-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%81%AC-%EB%B6%93-%EB%B3%B5%EC%A0%9C%ED%95%98%EA%B8%B0)
 
 ***
 
