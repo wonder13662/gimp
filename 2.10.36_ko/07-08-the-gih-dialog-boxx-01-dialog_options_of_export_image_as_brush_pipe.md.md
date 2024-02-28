@@ -54,7 +54,7 @@ GIMP(김프)에서는 최대 4개의 차원까지 가질 수 있습니다. 차�
 ![90-04-54-dimension_animated(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/9a713938-38c1-4b5b-b1d9-613bce3b07ad)
 
 ## 7. 횡렬(Ranks)
-움직이는 붓(animated brush)이 쓸 셀을 선택하는 조건으로 쓰일 차원의 횡렬을 설정합니다. 횡렬은 차원 축에서 가질 수 있는 0부터 최대 값 사이의 어떤 값을 가리키는 용어로도 쓰입니다. 
+움직이는 붓(animated brush)이 쓸 셀을 선택하는 조건인 차원의 횡렬을 설정합니다. 횡렬은 차원 축에서 가질 수 있는 0부터 최대 값 사이의 어떤 값을 가리키는 용어로도 쓰입니다. 
 
 ### 7-1. 횡렬 최대값
 횡렬 최대값은 차원 축에서 가질 수 있는 최대값을 의미합니다. 
@@ -62,19 +62,19 @@ GIMP(김프)에서는 최대 4개의 차원까지 가질 수 있습니다. 차�
 #### 그림 90.4.54.a106. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬(Rank)
 ![90-04-54-rank_selection(windows)(ko)-focus-rank](https://github.com/wonder13662/gimp/assets/15767104/c417dd31-8a16-4b05-8c30-52b00d3f05e4)
 
-## 7-2. 차원의 횡렬의 선택(Selection)
+### 7-2. 차원의 횡렬의 선택(Selection)
 #### 그림 90.4.54.a107. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬의 선택(selection)
 ![90-04-54-rank_selection(windows)(ko)-focus-rank_selection](https://github.com/wonder13662/gimp/assets/15767104/f87bf33c-8ac1-46ba-950f-46ddc4f2c6c4)
 
 각 `차원(Dimension)`에 설정하는 `횡렬(Ranks)`에 `선택(Selection)` 모드를 설정할 수 있습니다. 실제로 이미지에 붓을 칠할 때, 붓의 모양을 고르는 기준은 `선택(Selection)` 모드의 영향을 받습니다. 각 모드는 아래와 같습니다.
 
-### 7-1. 증분(Incremental)
+### 7-2-1. 증분(Incremental)
 선택한 `차원(Dimension)`에서의 `횡렬(Ranks)`은 이전에 차원에서 사용했던 횡렬 순서(rank order)에서 1이 증가한 값으로 결정됩니다. 결정된 값이 횡렬의 셀의 갯수(Ranks of cell)를 넘으면 맨 처음 값을 가지게 됩니다.
 
-### 7-2. 무작위(Random)
+### 7-2-2. 무작위(Random)
 선택한 `차원(Dimension)`에서의 `횡렬(Ranks)`은 횡렬의 셀(Ranks of cell)의 갯수 중에 무작위로 결정됩니다.
 
-### 7-3. 각도(Angular)
+### 7-2-3. 각도(Angular)
 선택한 `차원(Dimension)`에서의 `횡렬(Ranks)`은 붓의 움직이는 각도에 따라 결정됩니다.
 
 첫번째 횡렬은 위쪽인 0°입니다. 첫번째 외의 다른 횡렬은 횡렬의 셀의 갯수에서 360°를 나눈 각도(`360/횡렬의 셀의 갯수`)만큼씩 시계방향으로 영향을 받습니다. 선택된 차원에서 4개의 횡렬가 있다고 한다면, 각 횡렬에 90°씩 시계방향으로 바뀌게 됩니다. 두번째 횡렬은 90°도이며 오른쪽 방향입니다. 세번째 횡렬은 180°이며 아래쪽 방향입니다. 마지막 네번째 횡렬은 270°(-90°)이며 왼쪽 방향입니다.
@@ -86,7 +86,7 @@ GIMP(김프)에서는 최대 4개의 차원까지 가질 수 있습니다. 차�
 
 관련 내용은 [7.8.2.2. 3차원 이미지 호스(A three dimension image hose)](./07-08-the-gih-dialog-boxx-02-examplex-02-three_dimension_image_hose.md)을 확인해주세요.
 
-### 8-4. Speed, Pressure, x tilt, y tilt
+### 7-2-4. Speed, Pressure, x tilt, y tilt
 이 설정들은 정교한 펜 타블렛을 위한 설정입니다.
 
 ***
