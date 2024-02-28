@@ -18,6 +18,22 @@
 #### 그림 90.4.54.a104. `이미지를 붓 파이프로 내보내기` 대화상자 (Mac) (영어)
 ![90-04-54-export_image_as_brush_pipe(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/2e6c2d23-c508-4a25-a5b0-e8096651823a)
 
+#### 그림 90.4.54.a105. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 차원을 바꾸면 횡렬도 영향을 받습니다
+![90-04-54-dimension_animated(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/9a713938-38c1-4b5b-b1d9-613bce3b07ad)
+
+[7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a105]()
+
+#### 그림 90.4.54.a106. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬(Rank)
+![90-04-54-rank_selection(windows)(ko)-focus-rank](https://github.com/wonder13662/gimp/assets/15767104/c417dd31-8a16-4b05-8c30-52b00d3f05e4)
+
+[7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a106]()
+
+#### 그림 90.4.54.a107. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬의 선택(selection)
+![90-04-54-rank_selection(windows)(ko)-focus-rank_selection](https://github.com/wonder13662/gimp/assets/15767104/f87bf33c-8ac1-46ba-950f-46ddc4f2c6c4)
+
+[7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a106]()
+
+
 ***
 
 ## 다른 페이지로 가기
