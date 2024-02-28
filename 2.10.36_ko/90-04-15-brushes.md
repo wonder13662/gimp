@@ -115,15 +115,21 @@
 
 [7.6.3. 클립보드 붓(Clipboard Brush) - 그림 90.4.15.a171](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-03-clipboard_brush.html#%EA%B7%B8%EB%A6%BC-90415a171-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+[7.9.2. 새 붓 빨리 만들기 - 그림 90.4.15.a171]()
+
 #### 영상 90.4.15.a172. 클립보드 마스크, 클립보드 이미지 만들기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eb75db8d-7c74-40a2-a398-26c67299874c"></video>
 
 [7.6.3. 클립보드 붓(Clipboard Brush) - 영상 90.4.15.a172](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-03-clipboard_brush.html#%EC%98%81%EC%83%81-90415a172-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+[7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a172]()
+
 #### 영상 90.4.15.a173. 클립보드 마스크 칠하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7e116df4-d25e-48bc-8465-16d10da6b676"></video>
 
 [7.6.3. 클립보드 붓(Clipboard Brush) - 영상 90.4.15.a173](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-03-clipboard_brush.html#%EC%98%81%EC%83%81-90415a173-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%B9%A0%ED%95%98%EA%B8%B0)
+
+[7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a173]()
 
 #### 영상 90.4.15.a174. 클립보드 이미지 칠하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ff7726fb-79f6-46ff-a98a-10b13f4763a1"></video>
