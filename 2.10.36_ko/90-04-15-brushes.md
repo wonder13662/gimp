@@ -90,7 +90,7 @@
 
 [7.6.1. 일반 붓(Ordinary brushes) - 영상 90.4.15.a154](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-01-ordinary_brush.html#%EC%98%81%EC%83%81-90415a154-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%BC%EB%B0%98%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
-[7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a154]()
+[7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a154](https://wonder13662.github.io/gimp/2.10.36_ko/07-09-02-creating-a-brush-quickly.html#%EC%98%81%EC%83%81-90415a154-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%BC%EB%B0%98%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
 #### 그림 90.4.15.a161. 색상붓 만들기 - RGBA 이미지
 ![color_brush](https://github.com/wonder13662/gimp/assets/15767104/31d1859a-794e-4674-9142-0c331d2f9de0)
@@ -112,28 +112,28 @@
 
 [7.6.2. 색상 붓(Color brushes) - 영상 90.4.15.a164](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-02-color_brush.html#%EC%98%81%EC%83%81-90415a164-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%83%89%EC%83%81%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%98%EA%B8%B0)
 
-[7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a164]()
+[7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a164](https://wonder13662.github.io/gimp/2.10.36_ko/07-09-02-creating-a-brush-quickly.html#%EC%98%81%EC%83%81-90415a164-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%83%89%EC%83%81%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%98%EA%B8%B0)
 
 #### 그림 90.4.15.a171. 클립보드 마스크, 클립보드 이미지 만들기
 ![90-04-15-brushes(windows)(ko)-clipboard_mask_n_clipboard_image](https://github.com/wonder13662/gimp/assets/15767104/302a8b30-c573-4bc4-b512-08e93d821f87)
 
 [7.6.3. 클립보드 붓(Clipboard Brush) - 그림 90.4.15.a171](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-03-clipboard_brush.html#%EA%B7%B8%EB%A6%BC-90415a171-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
-[7.9.2. 새 붓 빨리 만들기 - 그림 90.4.15.a171]()
+[7.9.2. 새 붓 빨리 만들기 - 그림 90.4.15.a171](https://wonder13662.github.io/gimp/2.10.36_ko/07-09-02-creating-a-brush-quickly.html#%EA%B7%B8%EB%A6%BC-90415a171-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 #### 영상 90.4.15.a172. 클립보드 마스크, 클립보드 이미지 만들기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eb75db8d-7c74-40a2-a398-26c67299874c"></video>
 
 [7.6.3. 클립보드 붓(Clipboard Brush) - 영상 90.4.15.a172](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-03-clipboard_brush.html#%EC%98%81%EC%83%81-90415a172-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
-[7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a172]()
+[7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a172](https://wonder13662.github.io/gimp/2.10.36_ko/07-09-02-creating-a-brush-quickly.html#%EC%98%81%EC%83%81-90415a172-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 #### 영상 90.4.15.a173. 클립보드 마스크 칠하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7e116df4-d25e-48bc-8465-16d10da6b676"></video>
 
 [7.6.3. 클립보드 붓(Clipboard Brush) - 영상 90.4.15.a173](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushesx-03-clipboard_brush.html#%EC%98%81%EC%83%81-90415a173-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%B9%A0%ED%95%98%EA%B8%B0)
 
-[7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a173]()
+[7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a173](https://wonder13662.github.io/gimp/2.10.36_ko/07-09-02-creating-a-brush-quickly.html#%EC%98%81%EC%83%81-90415a173-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%B9%A0%ED%95%98%EA%B8%B0)
 
 #### 영상 90.4.15.a174. 클립보드 이미지 칠하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ff7726fb-79f6-46ff-a98a-10b13f4763a1"></video>
