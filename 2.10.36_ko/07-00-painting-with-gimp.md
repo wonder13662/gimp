@@ -62,7 +62,7 @@
 
 [7.8. GIH 대화상자](./07-08-the-gih-dialog-box.md)
 
-[7.8.1. `이미지를 붓 파이프로 내보내기` 대화상자의 설정값](./07-08-the-gih-dialog-boxx-01-dialog_options_of_export_image_as_brush_pipe.md)
+[7.8.1. GIH 대화상자 - 설정값](./07-08-the-gih-dialog-boxx-01-dialog_options_of_export_image_as_brush_pipe.md)
 
 [7.8.2.1. 1차원 이미지 파이프(One diemnsion image pipe)](./07-08-the-gih-dialog-boxx-02-examplex-01-one_dimension_image_pipe.md)
 
