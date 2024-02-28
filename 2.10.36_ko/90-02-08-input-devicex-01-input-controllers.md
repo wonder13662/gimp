@@ -1,20 +1,19 @@
 # 90.2.8.1. 입력 제어기 (Input Controllers)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 90.2.8.1.a1. 언어설정: 우리말 (한국어) - windows
+#### 90.2.8.1.a1. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말)
+![90.2.8.1.a1. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/fdd257be-6bbc-4d67-b0b3-427c29416f2c)
 
-<img width="720" alt="90.2.8.1.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/fdd257be-6bbc-4d67-b0b3-427c29416f2c">
+#### 90.2.8.1.a2. `기본설정` → `입력 장치` → `입력 제어기` (windows) (영어)
+![90.2.8.1.a2. `기본설정` → `입력 장치` → `입력 제어기` (windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/f2e1b11a-addf-42c4-86ef-f334ddf5d9e6)
 
-#### 90.2.8.1.a2. 언어설정: 우리말 (한국어) - mac
+#### 90.2.8.1.a3. `기본설정` → `입력 장치` → `입력 제어기` (mac) (우리말)
+![90.2.8.1.a3. `기본설정` → `입력 장치` → `입력 제어기` (mac) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/0104a955-98c8-4984-b3e4-bc92a4fb4831)
 
-<img width="720" alt="90.2.8.1.a2. 언어설정: 우리말 (한국어) - mac" src="https://github.com/wonder13662/gimp/assets/15767104/f2e1b11a-addf-42c4-86ef-f334ddf5d9e6">
+#### 90.2.8.1.a4. `기본설정` → `입력 장치` → `입력 제어기` (mac) (영어)
+![90.2.8.1.a4. `기본설정` → `입력 장치` → `입력 제어기` (mac) (영어)](https://github.com/wonder13662/gimp/assets/15767104/1b520516-3bad-477d-a5b3-a48a0f273a50)
 
-#### 90.2.8.1.a3. 언어설정: 영어 - windows
-
-<img width="720" alt="90.2.8.1.a3. 언어설정: 영어 - windows" src="https://github.com/wonder13662/gimp/assets/15767104/0104a955-98c8-4984-b3e4-bc92a4fb4831">
-
-#### 90.2.8.1.a4. 언어설정: 영어 - mac
-
-<img width="720" alt="90.2.8.1.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/1b520516-3bad-477d-a5b3-a48a0f273a50">
+#### 90.2.8.1.a11. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말) - Main Mouse Wheel
+![90-02-08-input-devicex-01-input-controllers(우리말)(windows)-focus-main_mouse_wheel](https://github.com/wonder13662/gimp/assets/15767104/91f6814e-14a0-4125-b424-ce08d3e6790a)
 
 ***
 

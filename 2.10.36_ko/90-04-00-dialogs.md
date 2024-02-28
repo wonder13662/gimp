@@ -304,6 +304,14 @@
 #### 그림 90.4.56.a101. `레이어 합치기` 대화상자 (Windows) (우리말)
 ![90-04-56-merge_layers(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/ad7f1780-41ca-4be3-974c-53a51ef352ad)
 
+### [90.4.57. 입력 제어기 설정(Configure Input Controller)](./90-04-57-configure_input_controller.md)
+#### 그림 90.4.57.a101. `입력 제어기 설정` 대화상자 (Windows) (우리말)
+![90-04-57-configure_input_controller(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/27dd0768-453d-4ec9-b449-79527c6ed202)
+
+### [90.4.58. 제어기의 이벤트 동작 선택(Select Controller Event Action)](./90-04-58-select_controller_event_action.md)
+#### 그림 90.4.58.a101. `제어기의 이벤트 동작 선택` 대화상자 (Windows) (우리말)
+![90-04-58-select_controller_event_action(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/228fb28c-b18c-4dc0-a1ec-18149721a830)
+
 ***
 
 ## 공통 기능

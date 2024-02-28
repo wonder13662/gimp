@@ -1010,6 +1010,10 @@
 
 [90.4.56. 레이어 합치기(Merge Layers)](./90-04-56-merge_layers.md)
 
+[90.4.57. 입력 제어기 설정(Configure Input Controller)](./90-04-57-configure_input_controller.md)
+
+[90.4.58. 제어기의 이벤트 동작 선택(Select Controller Event Action)](./90-04-58-select_controller_event_action.md)
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
