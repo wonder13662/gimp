@@ -30,6 +30,9 @@
 
 [7.6. 붓 - 영상 90.3.2.23.a113](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EC%98%81%EC%83%81-903223a113-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93paintbrush%EC%9D%98-%EB%B6%93-%EA%B8%8B%EA%B8%B0brush-stroke)
 
+#### 그림 90.3.2.23.a114. 그리기 붓의 도구 옵션 - 크기
+![90-03-02-23-paintbrush(windows)(ko)-focus-size](https://github.com/wonder13662/gimp/assets/15767104/184fcad8-9cac-4838-aefd-c76e731b0be8)
+
 ***
 
 ## 다른 페이지로 가기
