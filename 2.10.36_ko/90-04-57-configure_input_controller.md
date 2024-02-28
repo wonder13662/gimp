@@ -12,6 +12,9 @@
 #### 그림 90.4.57.a104. `입력 제어기 설정` 대화상자 (Mac) (영어)
 ![90-04-57-configure_input_controller(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/ac879db2-344d-4afc-87c6-1b9d8f506cb2)
 
+#### 그림 90.4.57.a111. `입력 제어기 설정` 대화상자 (Windows) (우리말) - 위로 스크롤
+![90-04-57-configure_input_controller(windows)(ko)-focus-scrollup](https://github.com/wonder13662/gimp/assets/15767104/d28846a0-8ded-4e2b-9f45-c572d8398035)
+
 ***
 
 ## 다른 페이지로 가기

@@ -37,19 +37,44 @@
 ## 4. 마우스 휠에 붓 크기 바꾸기 설정하기
 
 1. `기본 설정` → `입력 장치` → `입력 제어기`를 선택합니다.
+
+#### 90.2.8.1.a11. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말) - Main Mouse Wheel
+![90-02-08-input-devicex-01-input-controllers(우리말)(windows)-focus-main_mouse_wheel](https://github.com/wonder13662/gimp/assets/15767104/91f6814e-14a0-4125-b424-ce08d3e6790a)
+
 2. **현재 사용중인 제어기** 목록에서 "Main Mouse Wheel"을 더블 클릭합니다.
-3. 입력 제어기 설정 창이 나옵니다. 왼쪽 컬럼 "Event"에서 "Scroll Up"을 클릭해서 하이라이트 상태로 만듭니다.
-4. 창 아래쪽의 "편집" 버튼을 누릅니다.
-5. "제어기의 이벤트 동작 선텍" 창이 뜹니다. 왼쪽 작은 삼각형을 클릭해서 "도구" 항목을 펼칩니다.
+
+3. 입력 제어기 설정 창이 나옵니다. 왼쪽 컬럼 "이벤트(Event)"에서 "위로 스크롤(Scroll Up)"을 클릭해서 하이라이트 상태로 만듭니다.
+
+#### 그림 90.4.58.a111. `제어기의 이벤트 동작 선택` 대화상자 (Windows) (우리말) - 위로 스크롤
+![90-04-57-configure_input_controller(windows)(ko)-focus-scrollup](https://github.com/wonder13662/gimp/assets/15767104/d28846a0-8ded-4e2b-9f45-c572d8398035)
+
+4. 창 아래쪽의 "이벤트 편집(Edit Event)" 버튼을 누릅니다.
+
+5. "제어기의 이벤트 동작 선텍" 창이 뜹니다. 왼쪽 "+" 버튼을 클릭해서 "도구" 항목을 펼칩니다.
+
+#### 그림 7.9.1.a103. "도구" 항목 펼치기
+![07-09-01-toggle-tools](https://github.com/wonder13662/gimp/assets/15767104/9ae77b6e-42fe-4e83-ad1d-a9d11c949a1a)
+
 6. 왼쪽 컬럼 "Action"에서 "Increase Brush Scale"을 클릭해서 하이라이트 상태로 만듭니다. 그리고 "OK" 버튼을 클릭합니다.
-7. 이제 "Scroll Up" 앞에 "tools-paint-brush-scale-increase"가 보입니다.
+
+#### 그림 90.4.58.a111. `제어기의 이벤트 동작 선택` 대화상자 (Windows) (우리말) - 도구 크기: 1 증가
+![90-04-58-tools_size_increase-focus(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/11f23ab7-9b0d-4160-873f-2e1eb7b666a3)
+
+7. 이제 "위로 스크롤"에 "tools-size-increase"가 보입니다.
+
+#### 그림 7.9.1.a104. "위로 스크롤"에 "tools-size-increase" 설정완료
+![07-09-01-scroll_up-tools-size-increase(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/a394835d-aa22-474b-a771-d8da4e1e3fc1)
+
 8. 창을 닫습니다.
+
 9. 같은 방식으로 "Scroll Down"에 "Decrease Brush Scale"을 설정해주세요
+
 10. 완료 후, `기본 설정` 창의 "확인" 버튼을 클릭해주세요
 
 이제 마우스 휠을 이용해 붓 크기를 조절할 수 있습니다. 
 
-(TODO 마우스 휠 시연 영상 추가 필요)
+#### 영상 7.9.1.a105. 마우스 스크롤휠로 붓 크기 바꾸기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c31a1aa7-056a-40fd-aed8-ead4eca8b294"></video>
 
 ## 5. 키보드 위, 아래 화살표키에 붓 크기 바꾸기 설정하기
 
