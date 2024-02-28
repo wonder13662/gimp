@@ -155,6 +155,16 @@
 
 [7.8.1. GIH 대화상자 - 설정값 - 영상 90.4.15.a191](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-the-gih-dialog-boxx-01-dialog_options_of_export_image_as_brush_pipe.md#%EC%98%81%EC%83%81-90415a191-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93-%EC%84%A4%EB%AA%85description)
 
+#### 그림 90.4.15.a201. 붓 대화상자 아래의 "이 붓을 복제합니다(Duplicate this brush)" 버튼
+![90-04-15-brushes(windows)(ko)(slim)-focus-duplicate_this_brush](https://github.com/wonder13662/gimp/assets/15767104/8433834e-aeb8-484d-a33e-ed37d4e2b5a1)
+
+[7.9.2. 새 붓 빨리 만들기 - 그림 90.4.15.a201]()
+
+#### 영상 90.4.15.a202. 클립보드 마스크 붓 복제하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/22d0ee6c-82f1-46d1-a352-c2b3ac9e807d"></video>
+
+[7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a202]()
+
 ***
 
 ## 다른 페이지로 가기
