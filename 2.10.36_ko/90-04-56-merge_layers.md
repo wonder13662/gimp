@@ -20,7 +20,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.57. 입력 제어기 설정(Configure Input Controller)](./90-04-57-configure_input_controller.md)
 
 [⬅️ 이전: 90.4.55. 이미지 저장(Save Image)](./90-04-55-save_image.md)
 

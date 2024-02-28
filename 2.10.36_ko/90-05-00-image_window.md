@@ -84,7 +84,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.55. 이미지 저장(Save Image)](./90-04-55-save_image.md)
+[⬅️ 이전: 90.4.58. 제어기의 이벤트 동작 선택(Select Controller Event Action)](./90-04-58-select_controller_event_action.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 
