@@ -50,8 +50,8 @@ GIMP(김프)는 셀을 각 레이어에서 셀 크기를 기준으로 가져옵�
 
 GIMP(김프)에서는 최대 4개의 차원까지 가질 수 있습니다. 차원(Dimension)을 바꿀때마다 차원 아래의 횡렬(Rank) 입력 목록의 활성화 갯수가 달라집니다.
 
-#### 그림 90.4.54.a105. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 차원을 바꾸면 횡렬도 영향을 받습니다
-![90-04-54-dimension_animated(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/9a713938-38c1-4b5b-b1d9-613bce3b07ad)
+#### [그림 90.4.54.a105. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 차원을 바꾸면 횡렬도 영향을 받습니다](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-54-export_image_as_brush_pipe.html#%EA%B7%B8%EB%A6%BC-90454a105-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%B0%A8%EC%9B%90%EC%9D%84-%EB%B0%94%EA%BE%B8%EB%A9%B4-%ED%9A%A1%EB%A0%AC%EB%8F%84-%EC%98%81%ED%96%A5%EC%9D%84-%EB%B0%9B%EC%8A%B5%EB%8B%88%EB%8B%A4)
+[![90-04-54-dimension_animated(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/9a713938-38c1-4b5b-b1d9-613bce3b07ad)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-54-export_image_as_brush_pipe.html#%EA%B7%B8%EB%A6%BC-90454a105-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%B0%A8%EC%9B%90%EC%9D%84-%EB%B0%94%EA%BE%B8%EB%A9%B4-%ED%9A%A1%EB%A0%AC%EB%8F%84-%EC%98%81%ED%96%A5%EC%9D%84-%EB%B0%9B%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
 ## 7. 횡렬(Ranks)
 움직이는 붓(animated brush)이 쓸 셀을 선택하는 조건인 차원의 횡렬을 설정합니다. 횡렬은 차원 축에서 가질 수 있는 0부터 최대 값 사이의 어떤 값을 가리키는 용어로도 쓰입니다. 
@@ -59,12 +59,12 @@ GIMP(김프)에서는 최대 4개의 차원까지 가질 수 있습니다. 차�
 ### 7-1. 횡렬 최대값
 횡렬 최대값은 차원 축에서 가질 수 있는 최대값을 의미합니다. 
 
-#### 그림 90.4.54.a106. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬(Rank)
-![90-04-54-rank_selection(windows)(ko)-focus-rank](https://github.com/wonder13662/gimp/assets/15767104/4f2e2c68-8619-4002-8dde-9c4977dd7dd2)
+#### [그림 90.4.54.a106. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬(Rank)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-54-export_image_as_brush_pipe.html#%EA%B7%B8%EB%A6%BC-90454a106-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%ED%9A%A1%EB%A0%ACrank)
+[![90-04-54-rank_selection(windows)(ko)-focus-rank](https://github.com/wonder13662/gimp/assets/15767104/4f2e2c68-8619-4002-8dde-9c4977dd7dd2)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-54-export_image_as_brush_pipe.html#%EA%B7%B8%EB%A6%BC-90454a106-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%ED%9A%A1%EB%A0%ACrank)
 
 ### 7-2. 차원의 횡렬의 선택(Selection)
-#### 그림 90.4.54.a107. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬의 선택(selection)
-![90-04-54-rank_selection(windows)(ko)-focus-rank_selection](https://github.com/wonder13662/gimp/assets/15767104/d902c779-d0e8-4b51-8fe8-28cc739a76c8)
+#### [그림 90.4.54.a107. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬의 선택(selection)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-54-export_image_as_brush_pipe.html#%EA%B7%B8%EB%A6%BC-90454a107-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%ED%9A%A1%EB%A0%AC%EC%9D%98-%EC%84%A0%ED%83%9Dselection)
+[![90-04-54-rank_selection(windows)(ko)-focus-rank_selection](https://github.com/wonder13662/gimp/assets/15767104/d902c779-d0e8-4b51-8fe8-28cc739a76c8)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-54-export_image_as_brush_pipe.html#%EA%B7%B8%EB%A6%BC-90454a107-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%ED%9A%A1%EB%A0%AC%EC%9D%98-%EC%84%A0%ED%83%9Dselection)
 
 각 `차원(Dimension)`에 설정하는 `횡렬(Ranks)`에 `선택(Selection)` 모드를 설정할 수 있습니다. 실제로 이미지에 붓을 칠할 때, 붓의 모양을 고르는 기준은 `선택(Selection)` 모드의 영향을 받습니다. 각 모드는 아래와 같습니다.
 
