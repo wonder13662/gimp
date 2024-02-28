@@ -24,12 +24,12 @@
 [7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a105]()
 
 #### 그림 90.4.54.a106. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬(Rank)
-![90-04-54-rank_selection(windows)(ko)-focus-rank](https://github.com/wonder13662/gimp/assets/15767104/c417dd31-8a16-4b05-8c30-52b00d3f05e4)
+![90-04-54-rank_selection(windows)(ko)-focus-rank](https://github.com/wonder13662/gimp/assets/15767104/4f2e2c68-8619-4002-8dde-9c4977dd7dd2)
 
 [7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a106]()
 
 #### 그림 90.4.54.a107. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬의 선택(selection)
-![90-04-54-rank_selection(windows)(ko)-focus-rank_selection](https://github.com/wonder13662/gimp/assets/15767104/f87bf33c-8ac1-46ba-950f-46ddc4f2c6c4)
+![90-04-54-rank_selection(windows)(ko)-focus-rank_selection](https://github.com/wonder13662/gimp/assets/15767104/d902c779-d0e8-4b51-8fe8-28cc739a76c8)
 
 [7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a106]()
 

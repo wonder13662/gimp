@@ -60,11 +60,11 @@ GIMP(김프)에서는 최대 4개의 차원까지 가질 수 있습니다. 차�
 횡렬 최대값은 차원 축에서 가질 수 있는 최대값을 의미합니다. 
 
 #### 그림 90.4.54.a106. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬(Rank)
-![90-04-54-rank_selection(windows)(ko)-focus-rank](https://github.com/wonder13662/gimp/assets/15767104/c417dd31-8a16-4b05-8c30-52b00d3f05e4)
+![90-04-54-rank_selection(windows)(ko)-focus-rank](https://github.com/wonder13662/gimp/assets/15767104/4f2e2c68-8619-4002-8dde-9c4977dd7dd2)
 
 ### 7-2. 차원의 횡렬의 선택(Selection)
 #### 그림 90.4.54.a107. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬의 선택(selection)
-![90-04-54-rank_selection(windows)(ko)-focus-rank_selection](https://github.com/wonder13662/gimp/assets/15767104/f87bf33c-8ac1-46ba-950f-46ddc4f2c6c4)
+![90-04-54-rank_selection(windows)(ko)-focus-rank_selection](https://github.com/wonder13662/gimp/assets/15767104/d902c779-d0e8-4b51-8fe8-28cc739a76c8)
 
 각 `차원(Dimension)`에 설정하는 `횡렬(Ranks)`에 `선택(Selection)` 모드를 설정할 수 있습니다. 실제로 이미지에 붓을 칠할 때, 붓의 모양을 고르는 기준은 `선택(Selection)` 모드의 영향을 받습니다. 각 모드는 아래와 같습니다.
 
