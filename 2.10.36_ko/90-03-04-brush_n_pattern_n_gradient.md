@@ -4,7 +4,7 @@
 ![90-03-04-brush_pattern_gradient(windows)(ko)-focus-brush_pattern_gradient](https://github.com/wonder13662/gimp/assets/15767104/43215714-8479-4a14-8f54-3daffdb5fcda)
 
 #### 그림 90.3.4.a2. 도구상자의 '붓/무늬/그라디언트' - `그라디언트`
-![90-03-04-brush_pattern_gradient(windows)(ko)-focus-gradient](https://github.com/wonder13662/gimp/assets/15767104/9bafbe18-bbf9-4b10-bf81-e34c27a1e8c3)
+![90-03-04-brush_pattern_gradient(windows)(ko)-focus-gradient](https://github.com/wonder13662/gimp/assets/15767104/f0f3242f-006c-417b-8d6b-82044636c631)
 
 [7.10. 그라디언트 - 그림 90.3.4.a2]()
 
