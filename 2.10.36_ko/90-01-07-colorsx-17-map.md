@@ -8,6 +8,26 @@
 
 ***
 
+## 하위 페이지
+
+[90.1.7.17.1. 색상표 재배치...(Rearrange Colormap...)](./90-01-07-colorsx-17-mapx-01-rearrange_colormap.md)
+
+[90.1.7.17.2. 색상표 설정...(Set Colormap...)](./90-01-07-colorsx-17-mapx-02-set_colormap.md)
+
+[90.1.7.17.3. 에일리언 맵...(Alien Map...)](./90-01-07-colorsx-17-mapx-03-alien_map.md)
+
+[90.1.7.17.4. 색상 교환...(Color Exchange...)](./90-01-07-colorsx-17-mapx-04-color_exchange.md)
+
+[90.1.7.17.5. 색 전환...(Rotate Colors...)](./90-01-07-colorsx-17-mapx-05-rotate_colors.md)
+
+[90.1.7.17.6. 그라디언트 맵(Gradient Map)](./90-01-07-colorsx-17-mapx-06-gradient_map.md)
+
+[90.1.7.17.7. 팔레트 맵(Palette Map)](./90-01-07-colorsx-17-mapx-07-palette_map.md)
+
+[90.1.7.17.8. 표본 색상화...(Sample Colorize...)](./90-01-07-colorsx-17-mapx-08-sample_colorize.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.1.7.18. 톤 대응(Tone Mapping)](./90-01-07-colorsx-18-tone_mapping.md)

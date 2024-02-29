@@ -1,4 +1,4 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 90.1.7.17.7. 팔레트 맵(Palette Map)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.7.17.?.a1. `색` → `지도` → `?` (Windows)
 
@@ -8,9 +8,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 90.1.7.17.8. 표본 색상화...(Sample Colorize...)](./90-01-07-colorsx-17-mapx-08-sample_colorize.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 90.1.7.17.6. 그라디언트 맵(Gradient Map)](./90-01-07-colorsx-17-mapx-06-gradient_map.md)
 
 [⬆️ 위: 90.1.7.17. 지도(Map)](./90-01-07-colorsx-17-map.md)
 

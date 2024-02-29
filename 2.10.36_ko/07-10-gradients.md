@@ -13,7 +13,19 @@ GIMP(김프)의 기본적인 칠하기 도구는 그라디언트의 색상을 �
 위 영상 관련 작업 내용은 [3.5.2.1. 그리기 붓과 `Color From Gradient` 사용하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-02-examples.html#3521-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93%EA%B3%BC-color-from-gradient-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)을 참고해주세요.
 
 ## 그라디언트 맵 필터(The Gradient Map Filter)
-이 필터는 색상 메뉴에 있습니다. 회색톤 이미지의 각 점을 회색톤 농도에 따라 현재 그라디언트의 색상으로 교체하여 이미지를 "색상화"하는 필터입니다. 농도가 0이면 가장 어두운 색으로 그라디언트의 가장 왼쪽 색으로 교체되고, 농도가 255면 가장 밝은 색으로 그라디언트의 가장 오른쪽 색상으로 교체됩니다. 이에 대한 자세한 내용은 그라디언트 맵을 참고하세요.
+이 필터는 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `색` → `지도` → `그라디언트 맵` 메뉴에 있습니다. 
+
+#### 그림 90.1.7.17.6.a1. `색` → `지도` → `그라디언트 맵` (Windows)
+![90-01-07-colorsx-04-map(windows)(1080)-focus-gradient_map](https://github.com/wonder13662/gimp/assets/15767104/20931627-823c-41a7-b2d9-a35017e5f28f)
+
+[다른 운영체제와 언어의 `색` → `지도` → `그라디언트 맵` 확인하기](./90-01-07-colorsx-17-mapx-06-gradient_map.md)
+
+회색톤 이미지의 각 점을 회색톤 농도에 따라 현재 그라디언트의 색상으로 바꾸는 필터입니다. 농도가 0이면 가장 어두운 색으로 그라디언트의 가장 왼쪽 색으로 교체되고, 농도가 255면 가장 밝은 색으로 그라디언트의 가장 오른쪽 색상으로 교체됩니다. 
+
+#### 영상 90.1.7.17.6.a3. `색` → `지도` → `그라디언트 맵` (Windows) - 이미지 색상 바꾸기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8a25ac5e-ee10-4700-b1dc-92f336d9365b"></video>
+
+이에 대한 자세한 내용은 [그라디언트 맵](./16-08-40-gradient-map.md)을 참고하세요.
 
 ## 그라디언트 대화상자 사용하기
 When you install GIMP, it comes presupplied with a large number of interesting gradients, and you can add new ones that you create or download from other sources. You can access the full set of available gradients using the [Gradient dialog](./15-03-05-gradient-dialog.md), a dockable dialog that you can either activate when you need it, or keep around as a tab in a dock. 
