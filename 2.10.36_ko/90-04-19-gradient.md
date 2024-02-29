@@ -5,6 +5,11 @@
 
 [7.10. 그라디언트 - 그림 90.4.19.a1]()
 
+#### 그림 90.4.19.a2. 그라디언트 대화상자 - 전경색과 배경색을 이용하는 그라디언트
+![90-04-19-dialog-gradient-using_foreground(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/7ebf3b09-7c0e-4cff-892a-a6b1232adae0)
+
+[7.10. 그라디언트 - 그림 90.4.19.a2]()
+
 ***
 
 ## 기능이 쓰인 곳
