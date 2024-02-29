@@ -28,7 +28,10 @@ GIMP(김프)의 기본적인 칠하기 도구는 그라디언트의 색상을 �
 이에 대한 자세한 내용은 [그라디언트 맵](./16-08-40-gradient-map.md)을 참고하세요.
 
 ## 그라디언트 대화상자 사용하기
-When you install GIMP, it comes presupplied with a large number of interesting gradients, and you can add new ones that you create or download from other sources. You can access the full set of available gradients using the [Gradient dialog](./15-03-05-gradient-dialog.md), a dockable dialog that you can either activate when you need it, or keep around as a tab in a dock. 
+GIMP(김프)를 설치하면, 기본으로 제공되는 많은 그라디언트가 있습니다. 그리고 직접 새로운 그라디언트를 만들거나 다운로드받아 그라디언트를 설치할 수도 있습니다. [그라디언트 대화상자](./15-03-05-gradient-dialog.md)를 이용해서 사용할 수 있는 그라디언트 목록을 확인할 수 있습니다. 그라디언트 대화상자를 탭에 추가해두거나, 필요할 때 띄울수도 있습니다.
+
+#### 그림 90.4.19.a1. 그라디언트 대화상자
+![그림 90.4.19.a1. 그라디언트 대화상자](https://github.com/wonder13662/gimp/assets/15767104/d1e99d30-8cd8-40b4-bbdf-b91c16439727)
 
 ## 지금 사용중인 그라디언트 확인하기
 The "currend graident", used in most gradient-related operations, is shown in the Brush/Pattern/Gradient area of the Toolbox. Clicking on the graident symbol in the Toolbox is an alternative way of bringing up the Gradient dialog.
