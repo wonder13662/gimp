@@ -39,14 +39,11 @@ GIMP(김프)를 설치하면, 기본으로 제공되는 많은 그라디언트�
 #### 그림 90.3.4.a2. 도구상자의 '붓/무늬/그라디언트' - `그라디언트`
 ![90-03-04-brush_pattern_gradient(windows)(ko)-focus-gradient](https://github.com/wonder13662/gimp/assets/15767104/f0f3242f-006c-417b-8d6b-82044636c631)
 
-Many quickly examples of working with gradient (for more information see [Gradient Tool](./14-03-05-gradient.md))
-
 ## 예제 1: 선택에 그라디언트 적용하기
-그라디언트를 선택합니다.
+그라디언트를 선택합니다. 선택 내부의 한 점에서 다른 지점으로 클릭후 끌어놓기를 합니다. 그라디언트의 색상들이 마우스를 끌어놓기 한 방향에 수직으로, 그리고 끌어놓기 한 길이에 맞게 퍼져 적용됩니다.
 
-혼합 도구로 선택 내부의 한 점에서 다른 지점으로 클릭후 끌어놓기를 합니다.
-
-그라디언트의 색상들이 마우스를 끌어놓기 한 방향에 수직으로, 그리고 끌어놓기 한 길이에 맞게 퍼져 적용됩니다.
+#### 영상 7.10.a102. 선택에 그라디언트 적용하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d99784f0-8f16-4154-bc2f-971386c6725d"></video>
 
 ## 예제 2: 그라디언트로 칠하기(Painting with a gradient)
 You can also use a gradient with the Pencil, Paintbrush or Airbrush tools if you choose the dynamics `Color From Gradient`. In the next step choose a suitable gradient from `Color options` and in the `Fade options` set the gradients length and the style of the repeating. The chapter [14.3.2.6. Dynamics Options](./14-03-02-dynamicsx-06-dynamics_options.md)
