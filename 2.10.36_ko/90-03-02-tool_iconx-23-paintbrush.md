@@ -25,7 +25,7 @@
 
 [3.5.2. 직선그리기 예제들 - 영상 90.3.2.23.a112](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-02-examples.html#%EC%98%81%EC%83%81-903223a112-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93paintbrush%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options%EC%9D%98-color-from-gradient-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 
-[7.10. 그라디언트 - 영상 90.3.2.23.a112]()
+[7.10. 그라디언트 - 영상 90.3.2.23.a112](https://wonder13662.github.io/gimp/2.10.36_ko/07-10-gradients.html#%EC%98%81%EC%83%81-903223a112-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93paintbrush%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options%EC%9D%98-color-from-gradient-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 #### 영상 90.3.2.23.a113. 그리기 붓(Paintbrush)의 붓 긋기(Brush stroke)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f71f220a-c5e6-4262-afa0-f1dd7e1e2fde"></video>
