@@ -1,0 +1,1 @@
+# 14.3.2.6. 동적 요소 옵션(Dynamics Options)

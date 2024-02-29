@@ -46,9 +46,13 @@ GIMP(김프)를 설치하면, 기본으로 제공되는 많은 그라디언트�
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d99784f0-8f16-4154-bc2f-971386c6725d"></video>
 
 ## 예제 2: 그라디언트로 칠하기(Painting with a gradient)
-You can also use a gradient with the Pencil, Paintbrush or Airbrush tools if you choose the dynamics `Color From Gradient`. In the next step choose a suitable gradient from `Color options` and in the `Fade options` set the gradients length and the style of the repeating. The chapter [14.3.2.6. Dynamics Options](./14-03-02-dynamicsx-06-dynamics_options.md)
+그리기 툴의 도구옵션의 `동적요소(Dynamics)`에서 `Color From Gradient`를 선택하면 그라디언트를 그리기 툴로 칠할 수 있습니다. `Color From Gradient`를 선택한 다음에 `동적요소(Dynamics)`의 `색상 옵션(Color options)`에서 원하는 그라디언트를 고를 수 있습니다. 그리고 `동적요소(Dynamics)`의 `페이드 옵션(Fade options)`에서 그라디언트의 길이와 반복되는 스타일을 설정할 수 있습니다. [14.3.2.6. 동적 요소 옵션(Dynamics Options)](./14-03-02-dynamicsx-06-dynamics_options.md)에서 위에서 사용된 옵션의 인자(parameter)에 대한 상세한 내용을 확인할 수 있습니다.
 
-The following example shows the impact on the Pencil tool. You see in the upper side of the figure the necessary settings and the lower side of the figure shows the resulting succession of the gradients colors.
+#### 그림 7.10.a111. 도구 옵션의 동적요소와 페이드 옵션, 색상옵션
+![07-10-paint_with_gradient(windows)(ko)-focus-dynamics](https://github.com/wonder13662/gimp/assets/15767104/b42d0b8e-45e4-4c33-871f-7934b668f88b)
+
+#### 영상 7.10.a112. 그라디언트를 색상으로 칠하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/af015474-29d4-4afe-9aed-7cfb08d09bf2"></video>
 
 ## 예제 3: 같은 그라디언트로 다른 효과 만들기
 네 가지의 화려한 색상을 이용한 그라디언트: 선형 그라디언트로 채우기, 그라디언트 모양으로 채우기, 그라이던트의 색으로 스트로크 칠하기, 퍼지 브러시로 스트로크를 칠하고, 그라디언트 맵 필터로 색칠하기.
