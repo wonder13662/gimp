@@ -994,7 +994,35 @@
 
 [90.2.9. 폴더 (Folders)](./90-02-09-folders.md)
 
-[90.2.9.1. 폴더(Folders) - 붓(Brushes)](./90-02-09-foldersx-01-brushes.md)
+[90.2.9.1. 붓(Brushes)](./90-02-09-foldersx-01-brushes.md)
+
+[90.2.9.2. 동적 요소(Dynamics)](./90-02-09-foldersx-02-dynamics.md)
+
+[90.2.9.3. 무늬(Patterns)](./90-02-09-foldersx-03-patterns.md)
+
+[90.2.9.4. 팔레트(Palettes)](./90-02-09-foldersx-04-palettes.md)
+
+[90.2.9.5. 그라디언트(Gradients)](./90-02-09-foldersx-05-gradients.md)
+
+[90.2.9.6. 글꼴(Fonts)](./90-02-09-foldersx-06-fonts.md)
+
+[90.2.9.7. 도구 프리셋(Tool Presets)](./90-02-09-foldersx-07-tool_presets.md)
+
+[90.2.9.8. 마이페인트 붓(MyPaint Brushes)](./90-02-09-foldersx-08-mypaint_brushes.md)
+
+[90.2.9.9. 플러그인(Plug-ins)](./90-02-09-foldersx-09-plugins.md)
+
+[90.2.9.10. 스크립트(Scripts)](./90-02-09-foldersx-10-scripts.md)
+
+[90.2.9.11. 모듈(Modules)](./90-02-09-foldersx-11-modules.md)
+
+[90.2.9.12. 해석기(Interpreters)](./90-02-09-foldersx-12-interpreters.md)
+
+[90.2.9.13. 환경(Environment)](./90-02-09-foldersx-13-environment.md)
+
+[90.2.9.14. 테마(Themes)](./90-02-09-foldersx-14-themes.md)
+
+[90.2.9.15. 아이콘 테마(Icon Themes)](./90-02-09-foldersx-15-icon_themes.md)
 
 [90.2.10. 실험 놀이터 (Experimental Playground)](./90-02-10-playground.md)
 

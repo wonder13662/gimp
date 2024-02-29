@@ -1,4 +1,4 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 90.2.9.12. 해석기(Interpreters)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.2.9.?.a1. `기본 설정` → `폴더` → `?` (Windows)
 
@@ -8,9 +8,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 90.2.9.13. 환경(Environment)](./90-02-09-foldersx-13-environment.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 90.2.9.11. 모듈(Modules)](./90-02-09-foldersx-11-modules.md)
 
 [⬆️ 위: 90.2.9. 폴더 (Folders)](./90-02-09-folders.md)
 

@@ -79,15 +79,20 @@ GIMP(김프)를 설치하면, 기본으로 제공되는 많은 그라디언트�
 ![90-04-19-gradient_transparency(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/e40620e8-1c48-4a87-ae16-7827bc284afc)
 
 ## 9. 커스텀 그라디언트 
-You can create new custom gradient, using the [Gradient Editor](./14-03-05-gradientx-03-the_gradient_editor.md). You cannot modify the gradients that are supplied with GIMP, but you can duplicate them or create new ones, and then edit those.
+[그라디언트 편집기](./14-03-05-gradientx-03-the_gradient_editor.md)를 이용해서 커스텀 그라디언트를 만들 수 있습니다. GIMP(김프)에서 기본으로 제공되는 그라디언트는 수정할 수 없지만, 기본 제공 그라디언트를 복사해서 새로운 그라디언트로 만들 수 있습니다. 그 다음 이 복제본을 수정할 수 있습니다.
 
-## 그라디언트 파일의 위치
-The gradients that are supplied with GIMP are stored in a system gradient folder. By default, gradients that you create are stored in a folder called `gradients` in your personal GIMP directory. Any gradient files (ending with the extension [`.ggr`](./19-glossaryx-ggr.md)) found in one of these folders, will automatically be loaded when you start GIMP. You can add more directories to the gradient search path, if you want to, in the Gradient tab of the [Data Folders](./12-01-25-data-folders.md) pages of the Preference dialog.
+## 10. 그라디언트 파일의 위치
+GIMP(김프)에서 기본으로 제공되는 그라디언트는 시스템 그라디언트 폴더에 저장되어 있습니다. 기본적으로 사용자가 만드는 커스텀 그라디언트는 사용자 GIMP(김프) 디렉토리 중에 `gradients` 폴더에 저장됩니다. GIMP(김프)를 시작할 때, [`.ggr`](./19-glossaryx-ggr.md) 확장자를 갖는 그라디언트 파일을 이 폴더들에서 찾는다면, 자동적으로 그라디언트 대화상자에 추가됩니다. 그라디언트 파일을 찾는 폴더를 더 추가할 수도 있습니다.
 
-(TODO 기본 설정창의 이미지 추가하기)
+#### 그림 90.2.9.5.a1. `기본 설정` → `폴더` → `그라디언트` (Windows) (우리말)
+![90-02-09-05-gradient-folders(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/80176c1a-aa96-4021-a089-aeb950c150eb)
 
-## `.svg` 포맷 파일 불러오기
+[다른 운영체제와 언어의 `기본 설정` → `폴더` → `그라디언트` 확인하기](./90-02-09-foldersx-05-gradients.md)
+
+## 11. `.svg` 포맷 파일 불러오기
 GIMP can aslo load gradient files in `.svg` format, used by many vector graphics programs. To make GIMP load an SVG gradient file, all you need to do is place it in the `gradients` folder of your personal GIMP directory, or any other folder in your gradient search path.
+
+
 
 ***
 
