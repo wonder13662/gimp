@@ -34,7 +34,10 @@ GIMP(김프)를 설치하면, 기본으로 제공되는 많은 그라디언트�
 ![그림 90.4.19.a1. 그라디언트 대화상자](https://github.com/wonder13662/gimp/assets/15767104/d1e99d30-8cd8-40b4-bbdf-b91c16439727)
 
 ## 지금 사용중인 그라디언트 확인하기
-The "currend graident", used in most gradient-related operations, is shown in the Brush/Pattern/Gradient area of the Toolbox. Clicking on the graident symbol in the Toolbox is an alternative way of bringing up the Gradient dialog.
+"지금 사용중인 그라디언트"는 도구상자의 "붓/무늬/그라디언트" 영역에 표시됩니다. "지금 사용중인 그라디언트"는 그라디언트와 관련된 동작에서 씁니다. 도구상자의 그라디언트 심볼을 클릭하면 [그라디언트 대화상자](./15-03-05-gradient-dialog.md)를 열 수 있습니다.
+
+#### 그림 90.3.4.a2. 도구상자의 '붓/무늬/그라디언트' - `그라디언트`
+![90-03-04-brush_pattern_gradient(windows)(ko)-focus-gradient](https://github.com/wonder13662/gimp/assets/15767104/9bafbe18-bbf9-4b10-bf81-e34c27a1e8c3)
 
 Many quickly examples of working with gradient (for more information see [Gradient Tool](./14-03-05-gradient.md))
 
