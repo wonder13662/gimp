@@ -1,6 +1,73 @@
 # 7.10. 그라디언트
-(TODO 원문의 이미지 추가)
-A gradient is a set of colors arranged in a linear order.
+#### 7.10.a101. 그라디언트 예제
+![gradient-examples](https://github.com/wonder13662/gimp/assets/15767104/f629cd76-7e22-4d32-b534-d3aa233d3d44)
+
+그라디언트는 선형적인 순서로 색깔들이 배치된 된 것입니다. 그라디언트는 [그라디언트 도구](./14-03-05-gradient.md) 또는 "그라디언트 채우기 도구(gradient fill tool)"을 사용해 선택 영역을 그라디언트의 색상으로 채웁니다. 선택 영역 안의 그라디언트의 색상을 조정하는 여러가지 방법이 있습니다.
+
+## 그라디언트로 칠하기(Painting with a grandient)
+GIMP(김프)의 기본적인 칠하기 도구는 그라디언트의 색상을 사용할 수 있습니다. 붓으로 칠하는 색상이 그라디언트 색상으로 나옵니다.
+
+#### [영상 90.3.2.23.a112. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options)의 `Color From Gradient` 적용하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-23-paintbrush.html#%EC%98%81%EC%83%81-903223a112-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93paintbrush%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options%EC%9D%98-color-from-gradient-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6215e2ac-b807-4732-b106-e37b2c0c2c82"></video>
+
+위 영상 관련 작업 내용은 [3.5.2.1. 그리기 붓과 `Color From Gradient` 사용하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-02-examples.html#3521-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93%EA%B3%BC-color-from-gradient-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)을 참고해주세요.
+
+## 그라디언트 맵 필터(The Gradient Map Filter)
+이 필터는 색상 메뉴에 있습니다. 회색톤 이미지의 각 점을 회색톤 농도에 따라 현재 그라디언트의 색상으로 교체하여 이미지를 "색상화"하는 필터입니다. 농도가 0이면 가장 어두운 색으로 그라디언트의 가장 왼쪽 색으로 교체되고, 농도가 255면 가장 밝은 색으로 그라디언트의 가장 오른쪽 색상으로 교체됩니다. 이에 대한 자세한 내용은 그라디언트 맵을 참고하세요.
+
+## 그라디언트 대화상자 사용하기
+When you install GIMP, it comes presupplied with a large number of interesting gradients, and you can add new ones that you create or download from other sources. You can access the full set of available gradients using the [Gradient dialog](./15-03-05-gradient-dialog.md), a dockable dialog that you can either activate when you need it, or keep around as a tab in a dock. 
+
+## 지금 사용중인 그라디언트 확인하기
+The "currend graident", used in most gradient-related operations, is shown in the Brush/Pattern/Gradient area of the Toolbox. Clicking on the graident symbol in the Toolbox is an alternative way of bringing up the Gradient dialog.
+
+Many quickly examples of working with gradient (for more information see [Gradient Tool](./14-03-05-gradient.md))
+
+## 예제 1: 선택에 그라디언트 적용하기
+그라디언트를 선택합니다.
+
+혼합 도구로 선택 내부의 한 점에서 다른 지점으로 클릭후 끌어놓기를 합니다.
+
+그라디언트의 색상들이 마우스를 끌어놓기 한 방향에 수직으로, 그리고 끌어놓기 한 길이에 맞게 퍼져 적용됩니다.
+
+## 예제 2: 그라디언트로 칠하기(Painting with a gradient)
+You can also use a gradient with the Pencil, Paintbrush or Airbrush tools if you choose the dynamics `Color From Gradient`. In the next step choose a suitable gradient from `Color options` and in the `Fade options` set the gradients length and the style of the repeating. The chapter [14.3.2.6. Dynamics Options](./14-03-02-dynamicsx-06-dynamics_options.md)
+
+The following example shows the impact on the Pencil tool. You see in the upper side of the figure the necessary settings and the lower side of the figure shows the resulting succession of the gradients colors.
+
+## 예제 3: 같은 그라디언트로 다른 효과 만들기
+네 가지의 화려한 색상을 이용한 그라디언트: 선형 그라디언트로 채우기, 그라디언트 모양으로 채우기, 그라이던트의 색으로 스트로크 칠하기, 퍼지 브러시로 스트로크를 칠하고, 그라디언트 맵 필터로 색칠하기.
+
+A few useful things to know about GIMP's grandients:
+
+## 전경색과 배경색을 이용하는 그라디언트
+다음 리스트 중에 처음 네가지 그라디언트는 조금 특별합니다. 그것들은 설정된 색상이 아닌 도구 상자의 색상 영역에 있는 전경색과 배경색을 이용합니다. 여기서 사용되는 전경색은 색상 선택기를 통해 바꿀 수 있습니다. 이처럼 전경색과 배경색을 바꿈으로써, 서로 다른 두 가지색을 부드럽게 전환시키면서 그라디언트 할 수 있습니다.
+
+### 1. 전경색을 배경색으로(RGB)
+도구 상자의 전경색으로부터 배경색까지 `RGB` 모드로 그라디언트가 표현됩니다. 
+
+### 2. 전경색을 배경색으로(HSV 시계반대방향)
+전경색으로부터 색상환에서 시계반대 방향으로 전경색으로부터 360도에 있는 색까지의 색조를 표현합니다.
+
+### 3. 전경색을 배경색으로(HSV 시계방향)
+전경색으로부터 색상환에서 시계 방향으로 전경색으로부터 0도에 있는 색까지의 색조를 표현합니다.
+
+### 4. 전경색에서 투명으로
+선택된 색조가 점점 투명하게 표현됩니다.
+
+## 그라디언트의 투명도 변화
+그라디언트는 색상의 변화뿐만 아니라 투명도의 변화도 포함합니다. 어떤 그라디언트는 완전히 불투명하기도 하고, 투명하거나 일부가 투명한 그라디언트도 있습니다. 불투명하지 않은 그라디언트로 채우거나 칠할 경우, 레이어에 있는 이미지가 그라디언트 아래로 비쳐보일 수 있습니다.
+
+## 커스텀 그라디언트 
+You can create new custom gradient, using the [Gradient Editor](./14-03-05-gradientx-03-the_gradient_editor.md). You cannot modify the gradients that are supplied with GIMP, but you can duplicate them or create new ones, and then edit those.
+
+## 그라디언트 파일의 위치
+The gradients that are supplied with GIMP are stored in a system gradient folder. By default, gradients that you create are stored in a folder called `gradients` in your personal GIMP directory. Any gradient files (ending with the extension [`.ggr`](./19-glossaryx-ggr.md)) found in one of these folders, will automatically be loaded when you start GIMP. You can add more directories to the gradient search path, if you want to, in the Gradient tab of the [Data Folders](./12-01-25-data-folders.md) pages of the Preference dialog.
+
+(TODO 기본 설정창의 이미지 추가하기)
+
+## `.svg` 포맷 파일 불러오기
+GIMP can aslo load gradient files in `.svg` format, used by many vector graphics programs. To make GIMP load an SVG gradient file, all you need to do is place it in the `gradients` folder of your personal GIMP directory, or any other folder in your gradient search path.
 
 ***
 
