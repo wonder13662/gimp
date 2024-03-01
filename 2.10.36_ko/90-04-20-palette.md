@@ -3,6 +3,8 @@
 #### 그림 90.4.20.a1. 팔레트 대화상자
 ![그림 90.4.20.a1. 팔레트 대화상자](https://github.com/wonder13662/gimp/assets/15767104/1f14c961-9eaa-4209-8d9f-1cd3ee9c393e)
 
+[7.12. 팔레트 - 그림 90.4.20.a1](https://wonder13662.github.io/gimp/2.10.36_ko/07-12-00-palettes.html#%EA%B7%B8%EB%A6%BC-90420a1-%ED%8C%94%EB%A0%88%ED%8A%B8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
+
 ***
 
 ## 기능이 쓰인 곳
