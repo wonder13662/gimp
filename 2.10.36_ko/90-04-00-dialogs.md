@@ -316,6 +316,10 @@
 #### 그림 90.4.59.a101. `선택 영역 따라 그리기` 대화상자 (Windows) (우리말)
 ![90-04-59-stroke_selection(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/adb8ac3c-a0b5-4810-9466-a147c0ac8e70)
 
+### [90.4.60. 팔레트 편집기(Palette Editor)](./90-04-60-palette_editor.md)
+#### 그림 90.4.60.a101. `팔레트 편집기` 대화상자 (Windows) (우리말)
+![90-04-60-palette_editor(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/f294ef6c-443d-4e55-8a64-de2283ca5ba5)
+
 ***
 
 ## 공통 기능

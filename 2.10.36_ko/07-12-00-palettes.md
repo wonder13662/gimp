@@ -10,38 +10,40 @@ GIMP(김프)에서는 팔레트는 주로 두가지 용도로 씁니다.
 ## 2. 팔레트가 자주 쓰이나요?
 실제로 위에서 말한 두가지 용도는 GIMP(김프)에서 자주 쓰이지는 않습니다. 하지만 여전히 고급 사용자라면 팔레트 기능을 이해하고 있어야 합니다. 고급 사용자가 아니라도 GIF 파일을 작업할 때는 팔레트 기능을 이해하고 있어야 합니다.
 
-#### 그림 90.4.20.a1. 팔레트 대화상자
-![그림 90.4.20.a1. 팔레트 대화상자](https://github.com/wonder13662/gimp/assets/15767104/1f14c961-9eaa-4209-8d9f-1cd3ee9c393e)
+#### [그림 90.4.20.a1. 팔레트 대화상자](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-20-palette.html#%EA%B7%B8%EB%A6%BC-90420a1-%ED%8C%94%EB%A0%88%ED%8A%B8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
+[![그림 90.4.20.a1. 팔레트 대화상자](https://github.com/wonder13662/gimp/assets/15767104/1f14c961-9eaa-4209-8d9f-1cd3ee9c393e)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-20-palette.html#%EA%B7%B8%EB%A6%BC-90420a1-%ED%8C%94%EB%A0%88%ED%8A%B8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
 
 ## 3. 팔레트 대화상자
 GIMP(김프)를 설치하면, 수십 개의 팔레트가 기본적으로 함께 설치됩니다. 그리고 직접 새로운 팔레트를 만들 수 있습니다. 기본 제공되는 팔레트 중에 "웹" 팔레트처럼 유용한 것들도 있습니다. 이 팔레트는 웹에서 안전하게 쓸 수 있는 색상들만 모아 놓았습니다. [팔레트 대화상자](./15-03-06-palettes-dialog.md)에서 사용 가능한 팔레트들을 확인할 수 있습니다. 또한 새로운 팔레트를 팔레트 대화상자에서 만들 수 있습니다.
 
 ## 4. 팔레트 편집기
-#### 그림 90.4.60.a101. `팔레트 편집기` 대화상자 (Windows) (우리말)
-![90-04-60-palette_editor(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/f294ef6c-443d-4e55-8a64-de2283ca5ba5)
+#### [그림 90.4.60.a101. `팔레트 편집기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-60-palette_editor.html#%EA%B7%B8%EB%A6%BC-90460a101-%ED%8C%94%EB%A0%88%ED%8A%B8-%ED%8E%B8%EC%A7%91%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-60-palette_editor(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/f294ef6c-443d-4e55-8a64-de2283ca5ba5)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-60-palette_editor.html#%EA%B7%B8%EB%A6%BC-90460a101-%ED%8C%94%EB%A0%88%ED%8A%B8-%ED%8E%B8%EC%A7%91%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
+[다른 운영체제와 언어의 `팔레트 편집기` 대화상자 확인하기](./90-04-60-palette_editor.md)
 
 ### 4-1. 팔레트 편집기 열기
 `팔레트` 대화상자의 팔레트를 더블 클릭을 하면 [`팔레트 편집기`](./15-03-06-palettes-dialogx-04-palette_editor.md)를 열 수 있습니다. [`팔레트 편집기`](./15-03-06-palettes-dialogx-04-palette_editor.md)는 선택한 팔레트의 색상을 보여줍니다.
 
-#### 영상 90.4.60.a105. `팔레트` 대화상자에서 `팔레트 편집기` 대화상자 열기 (Windows) (우리말)
+#### [영상 90.4.60.a105. `팔레트` 대화상자에서 `팔레트 편집기` 대화상자 열기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-60-palette_editor.html#%EC%98%81%EC%83%81-90460a105-%ED%8C%94%EB%A0%88%ED%8A%B8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%ED%8C%94%EB%A0%88%ED%8A%B8-%ED%8E%B8%EC%A7%91%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8f8431a6-e746-4dc2-bb05-7ed2e4adc1e4"></video>
 
 ### 4-2. 팔레트 편집기의 색으로 전경색(Foreground color) 바꾸기
 [`팔레트 편집기`](./15-03-06-palettes-dialogx-04-palette_editor.md)의 색상을 클릭하면 도구 상자의 전경색을 바꿀 수 있습니다.
 
-#### 그림 90.3.4.a5. 도구상자의 '붓/무늬/그라디언트' - `색상(전경색)`
-![90-03-04-brush_pattern_gradient(windows)(ko)-focus-fg](https://github.com/wonder13662/gimp/assets/15767104/f1ae8ae0-2e40-437c-924d-e961c58438b4)
+#### [그림 90.3.4.a5. 도구상자의 '붓/무늬/그라디언트' - `색상(전경색)`](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a5-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%EC%83%89%EC%83%81%EC%A0%84%EA%B2%BD%EC%83%89)
+[![90-03-04-brush_pattern_gradient(windows)(ko)-focus-fg](https://github.com/wonder13662/gimp/assets/15767104/f1ae8ae0-2e40-437c-924d-e961c58438b4)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a5-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%EC%83%89%EC%83%81%EC%A0%84%EA%B2%BD%EC%83%89)
 
-#### 영상 90.4.60.a106. `팔레트 편집기` 대화상자에서 전경색 바꾸기 (Windows) (우리말)
+#### [영상 90.4.60.a106. `팔레트 편집기` 대화상자에서 전경색 바꾸기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-60-palette_editor.html#%EC%98%81%EC%83%81-90460a106-%ED%8C%94%EB%A0%88%ED%8A%B8-%ED%8E%B8%EC%A7%91%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%EC%A0%84%EA%B2%BD%EC%83%89-%EB%B0%94%EA%BE%B8%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ca43d56d-6833-41fe-a46b-b5107ba50a35"></video>
 
 ### 4-3. 팔레트 편집기의 색으로 배경색(Background color) 바꾸기
 Ctrl(⌘) 키를 누른 채로 [`팔레트 편집기`](./15-03-06-palettes-dialogx-04-palette_editor.md)의 색상을 클릭하면 도구 상자의 배경색을 바꿀 수 있습니다.
 
-#### 그림 90.3.4.a6. 도구상자의 '붓/무늬/그라디언트' - `색상(배경색)`
-![90-03-04-brush_pattern_gradient(windows)(ko)-focus-bg](https://github.com/wonder13662/gimp/assets/15767104/2fcabec2-7760-4394-b1cd-8d93cb643d2e)
+#### [그림 90.3.4.a6. 도구상자의 '붓/무늬/그라디언트' - `색상(배경색)`](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a6-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%EC%83%89%EC%83%81%EB%B0%B0%EA%B2%BD%EC%83%89)
+[![90-03-04-brush_pattern_gradient(windows)(ko)-focus-bg](https://github.com/wonder13662/gimp/assets/15767104/2fcabec2-7760-4394-b1cd-8d93cb643d2e)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a6-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%EC%83%89%EC%83%81%EB%B0%B0%EA%B2%BD%EC%83%89)
 
-#### 영상 90.4.60.a107. `팔레트 편집기` 대화상자에서 배경색 바꾸기 (Windows) (우리말)
+#### [영상 90.4.60.a107. `팔레트 편집기` 대화상자에서 배경색 바꾸기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-60-palette_editor.html#%EC%98%81%EC%83%81-90460a107-%ED%8C%94%EB%A0%88%ED%8A%B8-%ED%8E%B8%EC%A7%91%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%EB%B0%B0%EA%B2%BD%EC%83%89-%EB%B0%94%EA%BE%B8%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5c521c2d-36df-4f9f-91c2-7d6d30c8d3b4"></video>
 
 ### 4-4. 팔레트 편집기로 팔레트의 색상을 수정하기
@@ -53,8 +55,10 @@ Ctrl(⌘) 키를 누른 채로 [`팔레트 편집기`](./15-03-06-palettes-dialo
 ## 5. 팔레트 파일이 저장되는 위치
 [`팔레트 편집기`](./15-03-06-palettes-dialogx-04-palette_editor.md)로 새로운 팔레트를 만들면, GIMP(김프)를 종료하자마자 사용자의 GIMP(김프)의 팔레트 폴더에 자동으로 저장됩니다. 이 폴더에 있는 팔레트 파일이라면 GIMP(김프)를 시작할 때 팔레트 대화상자에 로드됩니다. `기본 설정` → `폴더` → `팔레트`에서 팔레트 파일을 불러올 수 있는 폴더를 추가할 수 있습니다.
 
-#### 그림 90.2.9.4.a1. `기본 설정` → `폴더` → `팔레트` (Windows) (우리말)
-![90-02-09-04-preference-folders-palettes(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/83e174ab-9286-40de-b1a7-8fafdfa2e8c1)
+#### [그림 90.2.9.4.a1. `기본 설정` → `폴더` → `팔레트` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-04-palettes.html#%EA%B7%B8%EB%A6%BC-90294a1-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%ED%8C%94%EB%A0%88%ED%8A%B8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-02-09-04-preference-folders-palettes(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/83e174ab-9286-40de-b1a7-8fafdfa2e8c1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-04-palettes.html#%EA%B7%B8%EB%A6%BC-90294a1-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%ED%8C%94%EB%A0%88%ED%8A%B8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
+[다른 운영체제와 언어의 `기본 설정` → `폴더` → `팔레트` 확인하기](./90-02-09-foldersx-04-palettes.md)
 
 ## 6. 팔레트 파일 확장자 - `.gpl`
 GIMP(김프)의 팔레트 파일은 [`.gpl`](./19-glossaryx-gpl.md)이라는 확장자를 가집니다. `.gpl` 파일은 ASCII 형식의 매우 단순한 파일입니다. 다른 출처의 `.gpl` 파일을 받았다면, GIMP(김프)에서 쓸 수 있도록 바꾸는 것은 그리 어렵지 않습니다. `.gpl` 파일을 열어 직접 확인해보세요. 예제로 기본 설치되어 있는 팔레트인 `Blues.gpl`의 앞부분 내용을 보면 아래와 같습니다.

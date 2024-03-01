@@ -1060,6 +1060,8 @@
 
 [90.4.59. 선택 영역 따라 그리기(Stroke Selection)](./90-04-59-stroke_selection.md)
 
+[90.4.60. 팔레트 편집기(Palette Editor)](./90-04-60-palette_editor.md)
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

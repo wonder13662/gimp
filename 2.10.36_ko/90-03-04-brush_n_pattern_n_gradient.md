@@ -19,12 +19,12 @@
 #### 그림 90.3.4.a5. 도구상자의 '붓/무늬/그라디언트' - `색상(전경색)`
 ![90-03-04-brush_pattern_gradient(windows)(ko)-focus-fg](https://github.com/wonder13662/gimp/assets/15767104/f1ae8ae0-2e40-437c-924d-e961c58438b4)
 
-[7.12. 팔레트 - 그림 90.3.4.a5]()
+[7.12. 팔레트 - 그림 90.3.4.a5](https://wonder13662.github.io/gimp/2.10.36_ko/07-12-00-palettes.html#%EA%B7%B8%EB%A6%BC-9034a5-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%EC%83%89%EC%83%81%EC%A0%84%EA%B2%BD%EC%83%89)
 
 #### 그림 90.3.4.a6. 도구상자의 '붓/무늬/그라디언트' - `색상(배경색)`
 ![90-03-04-brush_pattern_gradient(windows)(ko)-focus-bg](https://github.com/wonder13662/gimp/assets/15767104/2fcabec2-7760-4394-b1cd-8d93cb643d2e)
 
-[7.12. 팔레트 - 그림 90.3.4.a6]()
+[7.12. 팔레트 - 그림 90.3.4.a6](https://wonder13662.github.io/gimp/2.10.36_ko/07-12-00-palettes.html#%EA%B7%B8%EB%A6%BC-9034a6-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%EC%83%89%EC%83%81%EB%B0%B0%EA%B2%BD%EC%83%89)
 
 ***
 
