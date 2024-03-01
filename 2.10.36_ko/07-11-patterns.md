@@ -22,6 +22,8 @@
 #### [그림 90.1.10.2.18.a101. `창` → `무늬` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-18-patterns.html#%EA%B7%B8%EB%A6%BC-90110218a101-%EC%B0%BD--%EB%AC%B4%EB%8A%AC-windows)
 [![90-01-10-windowsx-01-dockable_dialogs(windows)(1080)-focus-pattern](https://github.com/wonder13662/gimp/assets/15767104/2ef22dcd-68a9-4e02-afcd-b761e5ded300)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-18-patterns.html#%EA%B7%B8%EB%A6%BC-90110218a101-%EC%B0%BD--%EB%AC%B4%EB%8A%AC-windows)
 
+[다른 운영체제와 언어의 `창` → `무늬` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-18-patterns.html#%EA%B7%B8%EB%A6%BC-90110218a102-%EC%B0%BD--%EB%AC%B4%EB%8A%AC-mac)
+
 ## 3. 새로운 무늬 추가하기
 새로운 무늬를 추가시키려면 GIMP(김프)에서 사용 가능한 포맷으로 `기본 설정` → `폴더` → `무늬`에 등록된 폴더에 저장해야 합니다. 
 
