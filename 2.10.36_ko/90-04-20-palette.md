@@ -1,7 +1,7 @@
 # 90.4.20. 팔레트(Palette)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.4.20.a1. 팔레트 대화상자
-<img width="1080" alt="그림 90.4.20.a1. 팔레트 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/1f14c961-9eaa-4209-8d9f-1cd3ee9c393e">
+![그림 90.4.20.a1. 팔레트 대화상자](https://github.com/wonder13662/gimp/assets/15767104/1f14c961-9eaa-4209-8d9f-1cd3ee9c393e)
 
 ***
 

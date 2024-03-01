@@ -15,7 +15,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.60. 팔레트 편집기(Palette Editor)](./90-04-60-palette_editor.md)
 
 [⬅️ 이전: 90.4.58. 입력 제어기 설정(Configure Input Controller)](./90-04-58-select_controller_event_action.md)
 

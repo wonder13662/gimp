@@ -1,8 +1,16 @@
 # 90.2.9.4. 팔레트(Palettes)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.2.9.?.a1. `기본 설정` → `폴더` → `?` (Windows)
+#### 그림 90.2.9.4.a1. `기본 설정` → `폴더` → `팔레트` (Windows) (우리말)
+![90-02-09-04-preference-folders-palettes(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/83e174ab-9286-40de-b1a7-8fafdfa2e8c1)
 
-#### 그림 90.2.9.?.a2. `기본 설정` → `폴더` → `?` (Mac)
+#### 그림 90.2.9.4.a2. `기본 설정` → `폴더` → `팔레트` (Windows) (영어)
+![90-02-09-04-preference-folders-palettes(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/92a9c95f-dc02-462f-89b4-787a0a7e5e34)
+
+#### 그림 90.2.9.4.a3. `기본 설정` → `폴더` → `팔레트` (Mac) (우리말)
+![90-02-09-04-preference-folders-palettes(mac)(ko)(50%)](https://github.com/wonder13662/gimp/assets/15767104/fc85d94f-c0af-42b5-b6c9-37c8659d10f7)
+
+#### 그림 90.2.9.4.a4. `기본 설정` → `폴더` → `팔레트` (Mac) (영어)
+![90-02-09-04-preference-folders-palettes(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/f4b2ee4e-0f93-4b84-97d3-fc2974eaec91)
 
 ***
 
