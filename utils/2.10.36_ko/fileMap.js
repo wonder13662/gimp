@@ -467,7 +467,7 @@ module.exports = {
       [
         '07-11-patterns.md', 
         '7.11. Patterns',
-        '7.11. 무늬'
+        '7.11. 무늬(Pattern)'
       ],
       [
         '07-12-00-palettes.md', 

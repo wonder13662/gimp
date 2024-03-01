@@ -18,9 +18,9 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.59. 선택 영역 따라 그리기(Stroke Selection)](./90-04-59-stroke_selection.md)
 
-[⬅️ 이전: 90.4.58. 입력 제어기 설정(Configure Input Controller)](./90-04-57-configure_input_controller.md)
+[⬅️ 이전: 90.4.57. 입력 제어기 설정(Configure Input Controller)](./90-04-57-configure_input_controller.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

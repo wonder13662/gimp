@@ -1,8 +1,18 @@
 # 90.2.9.3. 무늬(Patterns)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.2.9.?.a1. `기본 설정` → `폴더` → `?` (Windows)
+#### 그림 90.2.9.3.a1. `기본 설정` → `폴더` → `무늬` (Windows) (우리말)
+![90-02-09-03-pattern(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/0e3d37d3-dd90-4e03-9dbe-8122b2337f74)
 
-#### 그림 90.2.9.?.a2. `기본 설정` → `폴더` → `?` (Mac)
+[7.11. 무늬(Pattern) - 그림 90.2.9.3.a1]()
+
+#### 그림 90.2.9.3.a2. `기본 설정` → `폴더` → `무늬` (Windows) (영어)
+![90-02-09-03-pattern(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/c1559e64-7f78-4a67-9785-38ac8d71676f)
+
+#### 그림 90.2.9.3.a3. `기본 설정` → `폴더` → `무늬` (Mac) (우리말)
+![90-02-09-03-pattern(mac)(ko)(50%)](https://github.com/wonder13662/gimp/assets/15767104/92d0adc1-475a-4a6e-bb7a-a07b9147f7d0)
+
+#### 그림 90.2.9.3.a4. `기본 설정` → `폴더` → `무늬` (Mac) (영어)
+![90-02-09-03-pattern(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/bcb94642-6419-462c-8ea3-e71ce526d433)
 
 ***
 

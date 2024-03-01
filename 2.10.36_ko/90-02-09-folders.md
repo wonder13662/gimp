@@ -1,20 +1,16 @@
 # 90.2.9. 폴더 (Folders)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 90.2.9.a1. 언어설정: 우리말 (한국어) - windows
+#### 90.2.9.a1. `기본 설정` → `폴더` (Windows) (우리말)
+![90-02-09-folders(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7abef06e-d8d3-45fc-8688-87cafb17eeca)
 
-<img width="720" alt="90.2.9.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/f6ce6a93-c730-4aa4-aa84-6fa406f3e276">
+#### 90.2.9.a2. `기본 설정` → `폴더` (Windows) (영어)
+![90-02-09-folders(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/f1774df6-9ce9-4715-9869-3e2fe214f821)
 
-#### 90.2.9.a2. 언어설정: 우리말 (한국어) - mac
+#### 90.2.9.a3. `기본 설정` → `폴더` (Mac) (우리말)
+![_90-02-09-folders(mac)(ko)(50%)](https://github.com/wonder13662/gimp/assets/15767104/9c143985-420c-47c8-82e0-0c4ae3c438d0)
 
-<img width="720" alt="90.2.9.a2. 언어설정: 우리말 (한국어) - mac" src="https://github.com/wonder13662/gimp/assets/15767104/f60a8f2a-f3e7-4530-a380-2aa6b1bff1be">
-
-#### 90.2.9.a3. 언어설정: 영어 - windows
-
-<img width="720" alt="90.2.9.a3. 언어설정: 영어 - windows" src="https://github.com/wonder13662/gimp/assets/15767104/f94db303-d73a-46b6-8287-d8feef95d514">
-
-#### 90.2.9.a4. 언어설정: 영어 - mac
-
-<img width="720" alt="90.2.9.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/19d42cdd-58ed-4aee-b7fb-bedff9cfe966">
+#### 90.2.9.a4. `기본 설정` → `폴더` (Mac) (영어)
+![_90-02-09-folders(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/3f4776e5-d05a-4cfe-b49c-32fba834ebfb)
 
 ***
 

@@ -278,7 +278,7 @@
 
 [7.10. 그라디언트](./07-10-gradients.md)
 
-[7.11. 무늬](./07-11-patterns.md)
+[7.11. 무늬(Pattern)](./07-11-patterns.md)
 
 [7.12. 팔레트](./07-12-00-palettes.md)
 
@@ -1309,6 +1309,8 @@
 [90.4.57. 입력 제어기 설정(Configure Input Controller)](./90-04-57-configure_input_controller.md)
 
 [90.4.58. 제어기의 이벤트 동작 선택(Select Controller Event Action)](./90-04-58-select_controller_event_action.md)
+
+[90.4.59. 선택 영역 따라 그리기(Stroke Selection)](./90-04-59-stroke_selection.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

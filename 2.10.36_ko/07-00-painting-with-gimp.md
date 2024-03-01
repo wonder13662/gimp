@@ -76,7 +76,7 @@
 
 [7.10. 그라디언트](./07-10-gradients.md)
 
-[7.11. 무늬](./07-11-patterns.md)
+[7.11. 무늬(Pattern)](./07-11-patterns.md)
 
 [7.12. 팔레트](./07-12-00-palettes.md)
 

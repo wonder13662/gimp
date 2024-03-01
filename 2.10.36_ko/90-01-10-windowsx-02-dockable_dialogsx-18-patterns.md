@@ -1,10 +1,12 @@
 # 90.1.10.2.18. 무늬(Patterns)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.10.2.18.a101. `창` → `무늬` (Windows)
-(TODO 이미지 추가)
+![90-01-10-windowsx-01-dockable_dialogs(windows)(1080)-focus-pattern](https://github.com/wonder13662/gimp/assets/15767104/2ef22dcd-68a9-4e02-afcd-b761e5ded300)
+
+[7.11. 무늬(Pattern) - 그림 90.1.10.2.18.a101]()
 
 #### 그림 90.1.10.2.18.a102. `창` → `무늬` (Mac)
-(TODO 이미지 추가)
+![90-01-10-windowsx-01-dockable_dialogs(mac)(1080)-focus-pattern](https://github.com/wonder13662/gimp/assets/15767104/56d9f646-d04c-4035-afac-a89acfc676f3)
 
 ***
 

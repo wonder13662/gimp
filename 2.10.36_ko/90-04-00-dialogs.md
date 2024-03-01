@@ -312,6 +312,10 @@
 #### 그림 90.4.58.a101. `제어기의 이벤트 동작 선택` 대화상자 (Windows) (우리말)
 ![90-04-58-select_controller_event_action(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/228fb28c-b18c-4dc0-a1ec-18149721a830)
 
+### [90.4.59. 선택 영역 따라 그리기(Stroke Selection)](./90-04-59-stroke_selection.md)
+#### 그림 90.4.59.a101. `선택 영역 따라 그리기` 대화상자 (Windows) (우리말)
+![90-04-59-stroke_selection(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/adb8ac3c-a0b5-4810-9466-a147c0ac8e70)
+
 ***
 
 ## 공통 기능

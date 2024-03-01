@@ -63,7 +63,7 @@
 [<img width="720" alt="90.2.8.1.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/fdd257be-6bbc-4d67-b0b3-427c29416f2c">](./90-02-08-input-devicex-01-input-controllers.md)
 
 ## [90.2.9. 폴더 (Folders)](./90-02-09-folders.md)
-[<img width="720" alt="90.2.9.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/f6ce6a93-c730-4aa4-aa84-6fa406f3e276">](./90-02-09-folders.md)
+[<img width="720" alt="90.2.9.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/7abef06e-d8d3-45fc-8688-87cafb17eeca">](./90-02-09-folders.md)
 
 [90.2.9.1. 붓(Brushes)](./90-02-09-foldersx-01-brushes.md)
 
