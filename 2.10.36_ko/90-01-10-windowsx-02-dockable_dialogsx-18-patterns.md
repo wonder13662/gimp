@@ -3,7 +3,7 @@
 #### 그림 90.1.10.2.18.a101. `창` → `무늬` (Windows)
 ![90-01-10-windowsx-01-dockable_dialogs(windows)(1080)-focus-pattern](https://github.com/wonder13662/gimp/assets/15767104/2ef22dcd-68a9-4e02-afcd-b761e5ded300)
 
-[7.11. 무늬(Pattern) - 그림 90.1.10.2.18.a101]()
+[7.11. 무늬(Pattern) - 그림 90.1.10.2.18.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-11-patterns.html#%EA%B7%B8%EB%A6%BC-90110218a101-%EC%B0%BD--%EB%AC%B4%EB%8A%AC-windows)
 
 #### 그림 90.1.10.2.18.a102. `창` → `무늬` (Mac)
 ![90-01-10-windowsx-01-dockable_dialogs(mac)(1080)-focus-pattern](https://github.com/wonder13662/gimp/assets/15767104/56d9f646-d04c-4035-afac-a89acfc676f3)

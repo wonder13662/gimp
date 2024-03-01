@@ -1,5 +1,5 @@
 # 7.11. 무늬(Pattern)
-무늬(Pattern)는 타일링으로 채우기를 하는 작은 이미지입니다. 이것은 마치 세라믹 타일처럼 무늬의 복사본들을 조각조각 이어붙인다는 말입니다. 무늬를 서로 이어붙였을 때 상하좌우의 경계가 명확하게 드러나지 않고 자연스럽게 서로 이어질 경우, 그 무늬를 `tileable`하다고 합니다. 모든 무늬가 `tileable`한 것은 아니지만, `tileable`한 무늬는 여러 용도에 굉장히 유용합니다.
+무늬(Pattern)는 타일링으로 채우기를 하는 작은 이미지입니다. 타일링은 마치 세라믹 타일처럼 무늬의 복사본들을 조각조각 이어붙인다는 말입니다. 무늬를 서로 이어붙였을 때 상하좌우의 경계가 명확하게 드러나지 않고 자연스럽게 서로 이어질 경우, 그 무늬를 `tileable`하다고 합니다. 모든 무늬가 `tileable`한 것은 아니지만, `tileable`한 무늬는 여러 용도에 굉장히 유용합니다.
 
 #### 그림 7.11.a1. 무늬 사용 - 선택 채우기
 ![07-11-pattern-fill_with_selection(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/b8cad5c0-7316-40fd-9eac-4a7a21da7ef8)
@@ -13,20 +13,20 @@
 ## 1. 지금 쓰고있는 무늬
 지금 쓰고있는 무늬는 도구 상자의 붓/무늬/그라디언트 영역에 표시됩니다. 여기서 무늬 모양을 클릭하면, 무늬 대화 상자가 호출되고, 이를 통해 다른 무늬를 선택할 수 있습니다.
 
-#### 그림 90.3.4.a3. 도구상자의 '붓/무늬/그라디언트' - `패턴`
-![90-03-04-brush_pattern_gradient(windows)(ko)-focus-pattern](https://github.com/wonder13662/gimp/assets/15767104/2eb5399d-e741-48c7-ae76-c1d8277c4b08)
+#### [그림 90.3.4.a3. 도구상자의 '붓/무늬/그라디언트' - `패턴`](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a3-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%ED%8C%A8%ED%84%B4)
+[![90-03-04-brush_pattern_gradient(windows)(ko)-focus-pattern](https://github.com/wonder13662/gimp/assets/15767104/2eb5399d-e741-48c7-ae76-c1d8277c4b08)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a3-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%ED%8C%A8%ED%84%B4)
 
 ## 2. 메뉴를 통해 무늬 대화상자 열기
 메뉴를 통해 무늬 대화상자를 열 수 있습니다. 이 대화상자를 독에 도킹시킬수도 있습니다.
 
-#### 그림 90.1.10.2.18.a101. `창` → `무늬` (Windows)
-![90-01-10-windowsx-01-dockable_dialogs(windows)(1080)-focus-pattern](https://github.com/wonder13662/gimp/assets/15767104/2ef22dcd-68a9-4e02-afcd-b761e5ded300)
+#### [그림 90.1.10.2.18.a101. `창` → `무늬` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-18-patterns.html#%EA%B7%B8%EB%A6%BC-90110218a101-%EC%B0%BD--%EB%AC%B4%EB%8A%AC-windows)
+[![90-01-10-windowsx-01-dockable_dialogs(windows)(1080)-focus-pattern](https://github.com/wonder13662/gimp/assets/15767104/2ef22dcd-68a9-4e02-afcd-b761e5ded300)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-18-patterns.html#%EA%B7%B8%EB%A6%BC-90110218a101-%EC%B0%BD--%EB%AC%B4%EB%8A%AC-windows)
 
 ## 3. 새로운 무늬 추가하기
 새로운 무늬를 추가시키려면 GIMP(김프)에서 사용 가능한 포맷으로 `기본 설정` → `폴더` → `무늬`에 등록된 폴더에 저장해야 합니다. 
 
-#### 그림 90.2.9.3.a1. `기본 설정` → `폴더` → `무늬` (Windows) (우리말)
-![90-02-09-03-pattern(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/0e3d37d3-dd90-4e03-9dbe-8122b2337f74)
+#### [그림 90.2.9.3.a1. `기본 설정` → `폴더` → `무늬` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-03-patterns.html#%EA%B7%B8%EB%A6%BC-90293a1-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EB%AC%B4%EB%8A%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-02-09-03-pattern(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/0e3d37d3-dd90-4e03-9dbe-8122b2337f74)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-03-patterns.html#%EA%B7%B8%EB%A6%BC-90293a1-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EB%AC%B4%EB%8A%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 이렇게 추가된 새 무늬는 무늬 대화상자에 표시됩니다. 다음은 무늬로 사용가능한 파일 포맷입니다.
 
