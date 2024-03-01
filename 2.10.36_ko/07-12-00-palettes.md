@@ -102,12 +102,12 @@ Name: Blues
 
 ## 하위 페이지
 
-[7.12.1. 색상표](./07-12-01-colormap.md)
+[7.12.1. 색상표(Colormap)](./07-12-01-colormap.md)
 
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 7.12.1. 색상표](./07-12-01-colormap.md)
+[➡️ 다음: 7.12.1. 색상표(Colormap)](./07-12-01-colormap.md)
 
 [⬅️ 이전: 7.11. 무늬(Pattern)](./07-11-patterns.md)
 
