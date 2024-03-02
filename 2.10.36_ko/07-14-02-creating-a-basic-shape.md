@@ -42,7 +42,7 @@ GIMP(김프)는 그리기에 적합한 도구는 아닙니다. 그러나, 선택
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 8.1. 레이어 소개](./08-01-introduction-to-layers.md)
+[➡️ 다음: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 
 [⬅️ 이전: 7.14.1. 직선 그리기](./07-14-01-drawing-a-straight-line.md)
 

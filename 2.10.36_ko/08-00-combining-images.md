@@ -5,13 +5,13 @@
 ## 하위 페이지
 [8.1. 레이어 소개](./08-01-introduction-to-layers.md)
 
-[8.2. Layer Modes](./08-02-00-layer-modes.md)
+[8.2. 레이어 모드](./08-02-00-layer-modes.md)
 
-[8.3. Legacy Layer Modes](./08-03-legacy-layer-modes.md)
+[8.3. 레거시 레이어 모드](./08-03-legacy-layer-modes.md)
 
-[8.4. Creating New Layers](./08-04-creating-new-layers.md)
+[8.4. 새 레이어 만들기](./08-04-creating-new-layers.md)
 
-[8.5. Layer Groups](./08-05-layer-groups.md)
+[8.5. 레이어 그룹](./08-05-layer-groups.md)
 
 ***
 

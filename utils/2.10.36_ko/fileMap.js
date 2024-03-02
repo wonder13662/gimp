@@ -510,43 +510,53 @@ module.exports = {
       ],
       [
         '08-02-00-layer-modes.md', 
-        '8.2. Layer modes'
+        '8.2. Layer modes',
+        '8.2. 레이어 모드'
       ],
       [
         '08-02-01-normal-layer-mode.md', 
-        '8.2.1. Normal layer mode'
+        '8.2.1. Normal layer mode',
+        '8.2.1. 레이어 모드-Normal'
       ],
       [
         '08-02-02-lighten-layer-mode.md', 
-        '8.2.2. Lighten layer mode'
+        '8.2.2. Lighten layer mode',
+        '8.2.2. 레이어 모드-Lighten'
       ],
       [
         '08-02-03-darken-layer-modes.md', 
-        '8.2.3. Darken layer modes'
+        '8.2.3. Darken layer modes',
+        '8.2.3. 레이어 모드-Darken'
       ],
       [
         '08-02-04-contrast-layer-modes.md', 
-        '8.2.4. Contrast layer modes'
+        '8.2.4. Contrast layer modes',
+        '8.2.4. 레이어 모드-Contrast'
       ],
       [
         '08-02-05-inversion-layer-modes.md', 
-        '8.2.5. Inversion layer modes'
+        '8.2.5. Inversion layer modes',
+        '8.2.5. 레이어 모드-Inversion'
       ],
       [
         '08-02-06-hsv-components-layer-modes.md', 
-        '8.2.6. HSV components layer modes'
+        '8.2.6. HSV components layer modes',
+        '8.2.6. 레이어 모드-HSV components'
       ],
       [
         '08-02-07-lch-components-layer-modes.md', 
-        '8.2.7. LCh components layer modes'
+        '8.2.7. LCh components layer modes',
+        '8.2.7. 레이어 모드-LCh components'
       ],
       [
         '08-03-legacy-layer-modes.md', 
-        '8.3. Legacy layer modes'
+        '8.3. Legacy layer modes',
+        '8.3. 레거시 레이어 모드'
       ],
       [
         '08-04-creating-new-layers.md', 
-        '8.4. Creating new layers'
+        '8.4. Creating new layers',
+        '8.4. 새 레이어 만들기'
       ],
       [
         '08-05-layer-groups.md',
