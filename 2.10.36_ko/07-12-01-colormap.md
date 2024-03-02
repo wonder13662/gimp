@@ -1,23 +1,37 @@
 # 7.12.1. 색상표(Colormap)
 ## 1. 두 가지 유형의 팔레트
-Confusingly, GIMP makes use of two types of palettes. 
+GIMP(김프)는 두 가지 유형의 팔레트를 씁니다.
+
 ### 1-1. 팔레트 대화상자의 팔레트
-The more noticeable are the type shown in the Palettes dialog: palettes that exist independently of any image. 
+첫번째 유형은 [팔레트 대화상자](./15-03-06-palettes-dialog.md)의 팔레트입니다. 이 팔레트는 이미지와는 별개로 독립적입니다.
+
+#### 그림 90.4.20.a1. 팔레트 대화상자
+![그림 90.4.20.a1. 팔레트 대화상자](https://github.com/wonder13662/gimp/assets/15767104/1f14c961-9eaa-4209-8d9f-1cd3ee9c393e)
 
 ### 1-2. 인덱스 모드 이미지의 인덱스 팔레트
-The secone type, indexed palettes, form the colormaps of indexed images. Each indexed image has its own private indexed palette, defining the set of colors available in the image: the maximum number of colors allowed in an indexed palette is 256. These palettes are called "indexed" because each color is associated with an index number. (Actually, the colors in ordinary palettes are numbered as well. but the numbers have no functional significance.)
+두번째 유형은 인덱스 팔레트입니다. 인덱스 팔레트는 인덱스 모드 이미지의 색상표입니다. 각각의 인덱스 모드의 이미지는 자신만의 인덱스 팔레트를 갖고 있습니다. 이 인덱스 팔레트는 이미지 안에서 사용할 수 있는 색상을 정의합니다. 인덱스 팔레트에서 최대 256개의 색을 사용할 수 있습니다. 이 팔레트가 "인덱스(색인)"라고 부르는 이유는 각 색상이 색인 번호로 연결되어 있기 때문입니다. (실제로 일반적인 팔레트의 색상에도 색인 번호가 있지만, 이 색인 번호는 기능적인 의미는 없습니다.)
 
-(TODO 색상표 이미지 추가)
+#### 그림 90.4.6.a1. 색상표 대화상자
+![그림 90.4.6.a1. 색상표 대화상자](https://github.com/wonder13662/gimp/assets/15767104/e6fff5e0-f875-48d7-9d55-71a8c40ab677)
 
 ## 2. 색상표(Colormap)
-The colormap of an indexed image is shown in the [Indexed Palette dialog](./15-02-04-colormap-dialog.md), which should not be confused with the Palette dialog. The Palettes dialog shows a list of all of the palettes available; the Colormap dialog shows the colormap of the currently active image, if it is an indexed image - otherwise it shows nothing.
+인덱스 이미지의 색상표(Colormap)은 [색상표 대화상자](./15-02-04-colormap-dialog.md)에서 확인할 수 있습니다. [팔레트 대화상자](./15-03-06-palettes-dialog.md)와 혼동할 수 있으니 주의하세요. 팔레트 대화상자는 사용가능한 팔레트 목록을 보여줍니다. 색상표 대화상자는 인덱스 이미지인 경우에만, 지금 작업중인 활성화된 이미지의 색상표를 보여줍니다. 인덱스 이미지가 아니면 아무것도 보여주지 않습니다.
 
-(TODO 색상표 이미지 - 인덱스 모드 이미지 아닌 경우 아무것도 보여주지 않는 그림 추가)
+#### 그림 90.4.6.a2. 색상표 대화상자 - 인덱스 이미지가 아닌 경우
+![90-04-06-colormap-not_indexed_image(w1080)](https://github.com/wonder13662/gimp/assets/15767104/01d022d2-7073-4ce2-a275-2e0f3f3c9c5b)
 
 ## 3. 인덱스 모드 이미지에서 팔레트 만들기
-You can, however, create an ordinary palette from the colors in an indexed image-actually from the colors in any image. To do this, choose `Import Palette` from the right-click popup menu in the Palettes dialog: this pops up a dialog that gives you several options, including the option to import the palette from an image. (You can also import any of GIMP's gradients as a palette.) This possibility becomes important if you want to create a set of indexed images that all use the same set of colors.
+인덱스 이미지의 색상으로부터 일반 팔레트를 만들 수 있습니다. [팔레트 대화상자](./15-03-06-palettes-dialog.md)에서 오른쪽 클릭해서 팝업 메뉴를 엽니다. 팝업 메뉴에서 `팔레트 가져오기...` 메뉴를 클릭합니다. 
 
-(TODO Import Palette 이미지 추가하기)
+#### 그림 90.4.20.a3. 팔레트 대화상자 → 오른쪽 클릭 팝업 메뉴 → `팔레트 가져오기...`
+![90-04-20-palette-popup_menu-focus-import_palette](https://github.com/wonder13662/gimp/assets/15767104/e2af3336-3ac1-40a7-8980-fdbdb558936d)
+
+`새 팔레트 가져오기` 대화상자가 열립니다. 이 대화상자에 이미지에서 팔레트를 만들어 가져오는 기능이 있습니다. (GIMP(김프)의 그라디언트를 팔레트로 가져올 수도 있습니다.) 이 기능은 같은 색상의 인덱스 이미지를 만들 때 쓸 수 있습니다.
+
+#### 그림 90.4.61.a101. `새 팔레트 가져오기` 대화상자 (Windows) (우리말)
+![90-04-61-dialog-import_a_new_palette(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7332d337-2901-4f96-88ab-0859849d7246)
+
+[다른 운영체제와 언어의 `새 팔레트 가져오기` 대화상자 확인하기](./90-04-61-import_a_new_palette.md)
 
 ## 4. 인덱스 색상표 만들기
 이미지를 인덱스 모드로 바꿀 때, 가장 주된 작업은 이미지에 대한 인덱스 색상표를 만드는 것입니다. 이에 대한 자세한 설명은 [인덱스 모드](./16-06-06-indexed-mode.md)을 참고해주세요. 간단히 말하자면, 팔레트 대화상자에 있는 특정 팔레트를 이용하는 것입니다.
@@ -25,9 +39,14 @@ You can, however, create an ordinary palette from the colors in an indexed image
 ## 5. 정리
 정리하자면, 일반적인 팔레트는 이미지를 인덱스 모드로 바꿀때 인덱스 색상표로 바꾸게 되며, 인덱스 색상표는 팔레트 대화상자에서 가져오기를 통해 일반적인 팔레트로 만들 수 있습니다.
 
-(TODO 이미지를 인덱스 모드로 바꿔 인덱스 색상표 만들기 영상 추가)
+#### 영상 90.1.5.2.3.a101. 색상모드를 인덱스로 바꿔 색상표(Colormap) 대화상자 만들기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e1b86121-19a0-4830-b091-c3a2db7e6d72"></video>
 
-(TODO 인덱스 색상표를 팔레트 대화상자에서 가져와서 일반 팔레트로 바꾸기 영상 추가)
+#### 영상 7.12.1.a1. `새 팔레트 가져오기` 대화상자 → `원본 선택`  → `이미지`로 인덱스 이미지의 팔레트 가져오기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d1bb72ed-5cec-4607-b802-b667f74bb76a"></video>
+
+#### 영상 7.12.1.a2. `팔레트` 대화상자의 인덱스 이미지의 팔레트를 복제해서 일반 팔레트로 가져오기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/303fc516-4d4e-4c34-9530-81b2bb0ffedd"></video>
 
 ***
 

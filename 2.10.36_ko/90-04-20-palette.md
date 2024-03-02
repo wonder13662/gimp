@@ -5,6 +5,18 @@
 
 [7.12. 팔레트 - 그림 90.4.20.a1](https://wonder13662.github.io/gimp/2.10.36_ko/07-12-00-palettes.html#%EA%B7%B8%EB%A6%BC-90420a1-%ED%8C%94%EB%A0%88%ED%8A%B8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
 
+[7.12.1. 색상표(Colormap) - 그림 90.4.20.a1]()
+
+#### 그림 90.4.20.a2. 팔레트 대화상자 → 오른쪽 클릭 팝업 메뉴
+![90-04-20-palette-popup_menu](https://github.com/wonder13662/gimp/assets/15767104/815e573b-42a5-47ba-94fa-3c008156b620)
+
+[7.12.1. 색상표(Colormap) - 그림 90.4.20.a2]()
+
+#### 그림 90.4.20.a3. 팔레트 대화상자 → 오른쪽 클릭 팝업 메뉴 → `팔레트 가져오기...`
+![90-04-20-palette-popup_menu-focus-import_palette](https://github.com/wonder13662/gimp/assets/15767104/e2af3336-3ac1-40a7-8980-fdbdb558936d)
+
+[7.12.1. 색상표(Colormap) - 그림 90.4.20.a3]()
+
 ***
 
 ## 기능이 쓰인 곳

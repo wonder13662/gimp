@@ -1314,6 +1314,8 @@
 
 [90.4.60. 팔레트 편집기(Palette Editor)](./90-04-60-palette_editor.md)
 
+[90.4.61. 새 팔레트 가져오기(Import a New Palette)](./90-04-61-import_a_new_palette.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

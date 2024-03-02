@@ -32,7 +32,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.61. 새 팔레트 가져오기(Import a New Palette)](./90-04-61-import_a_new_palette.md)
 
 [⬅️ 이전: 90.4.59. 선택 영역 따라 그리기(Stroke Selection)](./90-04-59-stroke_selection.md)
 

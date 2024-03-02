@@ -320,6 +320,10 @@
 #### 그림 90.4.60.a101. `팔레트 편집기` 대화상자 (Windows) (우리말)
 ![90-04-60-palette_editor(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/f294ef6c-443d-4e55-8a64-de2283ca5ba5)
 
+### [90.4.61. 새 팔레트 가져오기(Import a New Palette)](./90-04-61-import_a_new_palette.md)
+#### 그림 90.4.61.a101. `새 팔레트 가져오기` 대화상자 (Windows) (우리말)
+![90-04-61-dialog-import_a_new_palette(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7332d337-2901-4f96-88ab-0859849d7246)
+
 ***
 
 ## 공통 기능
