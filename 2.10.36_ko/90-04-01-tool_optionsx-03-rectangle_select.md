@@ -74,6 +74,21 @@
 
 [7.13. 프리셋(Presets) - 영상 90.4.1.3.a141](https://wonder13662.github.io/gimp/2.10.36_ko/07-13-presets.html)
 
+#### 영상 90.4.1.3.a151. 새로운 이미지에서 사각 선택하기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3bbc8add-a2a5-401b-bf15-0b580cd9cbfe"></video>
+
+[7.14.2. 기본 도형 그리기 - 영상 90.4.1.3.a151]()
+
+#### 영상 90.4.1.3.a152. 사각 선택에 전경색 채우기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2e94a6c7-d961-4748-9d2b-0a8a369d1a8e"></video>
+
+[7.14.2. 기본 도형 그리기 - 영상 90.4.1.3.a152]()
+
+#### 영상 90.4.1.3.a153. 사각 선택에 선택 영역 따라그리기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d402e542-4a98-433b-bd86-dda9b6a0186c"></video>
+
+[7.14.2. 기본 도형 그리기 - 영상 90.4.1.3.a153]()
+
 ***
 
 ## 다른 페이지로 가기

@@ -16,6 +16,8 @@
 #### 그림 90.3.4.a4. 도구상자의 '붓/무늬/그라디언트' - `색상(전경색/배경색)`
 ![90-03-04-brush_pattern_gradient(windows)(ko)-focus-colors](https://github.com/wonder13662/gimp/assets/15767104/5c0772d5-07d5-404f-bb30-836be3943703)
 
+[7.14.2. 기본 도형 그리기 - 그림 90.3.4.a4]()
+
 #### 그림 90.3.4.a5. 도구상자의 '붓/무늬/그라디언트' - `색상(전경색)`
 ![90-03-04-brush_pattern_gradient(windows)(ko)-focus-fg](https://github.com/wonder13662/gimp/assets/15767104/f1ae8ae0-2e40-437c-924d-e961c58438b4)
 
