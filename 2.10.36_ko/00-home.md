@@ -292,7 +292,7 @@
 
 [7.14.2. 기본 도형 그리기](./07-14-02-creating-a-basic-shape.md)
 
-[8. Combining Images](./08-00-combining-images.md)
+[8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 
 [9. Text Management](./09-00-text-management.md)
 

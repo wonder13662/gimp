@@ -16,4 +16,4 @@
 
 ### [Home](./00-home.md)
 ### [Prev: 6. Getting Images out of GIMP](./06-00-getting-images-out-of-gimp.md)
-### [Next: 8. Combining Images](./08-00-combining-images.md)
+### [Next: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)

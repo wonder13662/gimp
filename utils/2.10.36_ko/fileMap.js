@@ -500,11 +500,13 @@ module.exports = {
       ],
       [
         '08-00-combining-images.md', 
-        '8. Combining images'
+        '8. Combining images',
+        '8. 이미지 합치기(Combining Images)'
       ],
       [
         '08-01-introduction-to-layers.md', 
-        '8.1. Introduction to layers'
+        '8.1. Introduction to layers',
+        '8.1. 레이어 소개'
       ],
       [
         '08-02-00-layer-modes.md', 

@@ -77,17 +77,17 @@
 #### 영상 90.4.1.3.a151. 새로운 이미지에서 사각 선택하기 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3bbc8add-a2a5-401b-bf15-0b580cd9cbfe"></video>
 
-[7.14.2. 기본 도형 그리기 - 영상 90.4.1.3.a151]()
+[7.14.2. 기본 도형 그리기 - 영상 90.4.1.3.a151](https://wonder13662.github.io/gimp/2.10.36_ko/07-14-02-creating-a-basic-shape.html#%EC%98%81%EC%83%81-90413a151-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90%EC%84%9C-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 영상 90.4.1.3.a152. 사각 선택에 전경색 채우기 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2e94a6c7-d961-4748-9d2b-0a8a369d1a8e"></video>
 
-[7.14.2. 기본 도형 그리기 - 영상 90.4.1.3.a152]()
+[7.14.2. 기본 도형 그리기 - 영상 90.4.1.3.a152](https://wonder13662.github.io/gimp/2.10.36_ko/07-14-02-creating-a-basic-shape.html#%EC%98%81%EC%83%81-90413a152-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%EC%97%90-%EC%A0%84%EA%B2%BD%EC%83%89-%EC%B1%84%EC%9A%B0%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 영상 90.4.1.3.a153. 사각 선택에 선택 영역 따라그리기 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d402e542-4a98-433b-bd86-dda9b6a0186c"></video>
 
-[7.14.2. 기본 도형 그리기 - 영상 90.4.1.3.a153]()
+[7.14.2. 기본 도형 그리기 - 영상 90.4.1.3.a153](https://wonder13662.github.io/gimp/2.10.36_ko/07-14-02-creating-a-basic-shape.html#%EC%98%81%EC%83%81-90413a153-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%EC%97%90-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD-%EB%94%B0%EB%9D%BC%EA%B7%B8%EB%A6%AC%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 

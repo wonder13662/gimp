@@ -1,4 +1,4 @@
-# 8. Combining Images
+# 8. 이미지 합치기(Combining Images)
 ## 8.1. [Introduction to Layers](./08-01-introduction-to-layers.md)
 ## 8.2. [Layer Modes](./08-02-00-layer-modes.md)
 ## 8.3. [Legacy Layer Modes](./08-03-legacy-layer-modes.md)
