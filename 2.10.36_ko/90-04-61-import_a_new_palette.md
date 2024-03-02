@@ -3,6 +3,8 @@
 #### 그림 90.4.61.a101. `새 팔레트 가져오기` 대화상자 (Windows) (우리말)
 ![90-04-61-dialog-import_a_new_palette(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7332d337-2901-4f96-88ab-0859849d7246)
 
+[7.12.1. 색상표(Colormap) - 그림 90.4.61.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-12-01-colormap.html#%EA%B7%B8%EB%A6%BC-90461a101-%EC%83%88-%ED%8C%94%EB%A0%88%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
 #### 그림 90.4.61.a102. `새 팔레트 가져오기` 대화상자 (Windows) (영어)
 ![90-04-61-dialog-import_a_new_palette(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/39777564-f2b1-4b26-8a06-9d2cd213d471)
 

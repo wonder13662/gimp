@@ -14,7 +14,7 @@
 
 [4.2.8. 인덱스 모드에서의 이미지 - 영상 90.1.5.2.3.a101](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-08-the-image-is-in-indexed-color-mode.html#%EC%98%81%EC%83%81-901523a101-%EC%83%89%EC%83%81%EB%AA%A8%EB%93%9C%EB%A5%BC-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A1%9C-%EB%B0%94%EA%BF%94-%EC%83%89%EC%83%81%ED%91%9Ccolormap-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
-[7.12.1. 색상표(Colormap) - 영상 90.1.5.2.3.a101]()
+[7.12.1. 색상표(Colormap) - 영상 90.1.5.2.3.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-12-01-colormap.html#%EC%98%81%EC%83%81-901523a101-%EC%83%89%EC%83%81%EB%AA%A8%EB%93%9C%EB%A5%BC-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A1%9C-%EB%B0%94%EA%BF%94-%EC%83%89%EC%83%81%ED%91%9Ccolormap-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 ***
 
