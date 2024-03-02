@@ -22,4 +22,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-using-rectangular.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-image-combining.html)
