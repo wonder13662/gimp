@@ -72,7 +72,7 @@
 #### 영상 90.4.1.3.a141. 도구 옵션 대화상자의 아래쪽 4개 버튼
 ![90-04-01-tool_optionsx-03-rectangle_select(windows)(ko)-focus-bottom_bar_buttons](https://github.com/wonder13662/gimp/assets/15767104/ba5a5c19-f1ef-45bf-a0c7-e129ad19faaf)
 
-[7.13. 프리셋(Presets) - 영상 90.4.1.3.a141]()
+[7.13. 프리셋(Presets) - 영상 90.4.1.3.a141](https://wonder13662.github.io/gimp/2.10.36_ko/07-13-presets.html)
 
 ***
 
