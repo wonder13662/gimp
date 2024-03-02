@@ -3,7 +3,9 @@
 #### 그림 90.1.3.2.a101. `선택` → `없음`
 ![그림 90.1.3.2.a101. `선택` → `없음`](https://github.com/wonder13662/gimp/assets/15767104/bf711fb1-5309-4a8d-bdb0-a698aea8c0d7)
 
-[4.2.3. 선택영역 바깥쪽에서 작업을 하려는 경우 - 그림 90.1.3.2.a101. `선택` → `없음`](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-03-you-are-acting-outside-the-selection.html#%EA%B7%B8%EB%A6%BC-90132a101-%EC%84%A0%ED%83%9D--%EC%97%86%EC%9D%8C)
+[4.2.3. 선택영역 바깥쪽에서 작업을 하려는 경우 - 그림 90.1.3.2.a101](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-03-you-are-acting-outside-the-selection.html#%EA%B7%B8%EB%A6%BC-90132a101-%EC%84%A0%ED%83%9D--%EC%97%86%EC%9D%8C)
+
+[7.14.2. 기본 도형 그리기 - 그림 90.1.3.2.a101]()
 
 #### 영상 90.1.3.2.a111. 이미지 메뉴 바의 `선택(Select)` → `없음(None)`로 선택 영역 없애기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ef2e45f7-53d1-4a7a-b576-2a0e91fcdae8"></video>

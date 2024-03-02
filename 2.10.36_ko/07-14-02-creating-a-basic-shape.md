@@ -29,10 +29,15 @@ GIMP(김프)는 그리기에 적합한 도구는 아닙니다. 그러나, 선택
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2e94a6c7-d961-4748-9d2b-0a8a369d1a8e"></video>
 
 ## 5. 선택영역을 따라 그리기
-그리고 외곽 테두리를 그리려면, `편집` → `선택 영역 따라 그리기` 메뉴를 선택해서 외곽선을 그립니다. 그리고 그 뒤에 `선택` → `없음` 메뉴를 선택해서 선택을 없앱니다.
+그리고 외곽 테두리를 그리려면, `편집` → `선택 영역 따라 그리기` 메뉴를 선택해서 외곽선을 그립니다.
 
 #### 영상 90.4.1.3.a153. 사각 선택에 선택 영역 따라그리기 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d402e542-4a98-433b-bd86-dda9b6a0186c"></video>
+
+그리고 그 뒤에 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `선택` → `없음` 메뉴를 선택해서 선택을 없앱니다.
+
+#### 그림 90.1.3.2.a101. `선택` → `없음`
+![그림 90.1.3.2.a101. `선택` → `없음`](https://github.com/wonder13662/gimp/assets/15767104/bf711fb1-5309-4a8d-bdb0-a698aea8c0d7)
 
 ***
 
