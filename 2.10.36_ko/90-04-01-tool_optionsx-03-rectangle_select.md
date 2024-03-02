@@ -69,6 +69,11 @@
 
 [7.3.1. 퀵마스크 개요 - 영상 90.4.1.3.a131](https://wonder13662.github.io/gimp/2.10.36_ko/07-03-01-overview.html#%EC%98%81%EC%83%81-90413a131-%EC%84%A0%ED%83%9D-%EC%99%B8%EA%B3%BD%EC%84%A0---%ED%96%89%EC%A7%84%ED%95%98%EB%8A%94-%EA%B0%9C%EB%AF%B8marching-ants)
 
+#### 영상 90.4.1.3.a141. 도구 옵션 대화상자의 아래쪽 4개 버튼
+![90-04-01-tool_optionsx-03-rectangle_select(windows)(ko)-focus-bottom_bar_buttons](https://github.com/wonder13662/gimp/assets/15767104/ba5a5c19-f1ef-45bf-a0c7-e129ad19faaf)
+
+[7.13. 프리셋(Presets) - 영상 90.4.1.3.a141]()
+
 ***
 
 ## 다른 페이지로 가기

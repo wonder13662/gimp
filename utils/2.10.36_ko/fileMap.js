@@ -481,7 +481,7 @@ module.exports = {
       [
         '07-13-presets.md', 
         '7.13. Presets',
-        '7.13. 프리셋'
+        '7.13. 프리셋(Presets)'
       ],
       [
         '07-14-00-drawing-simple-objects.md', 

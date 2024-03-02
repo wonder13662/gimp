@@ -284,7 +284,7 @@
 
 [7.12.1. 색상표(Colormap)](./07-12-01-colormap.md)
 
-[7.13. 프리셋](./07-13-presets.md)
+[7.13. 프리셋(Presets)](./07-13-presets.md)
 
 [7.14. 간단한 물체 그리기](./07-14-00-drawing-simple-objects.md)
 
