@@ -49,11 +49,17 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/93e62ca8-bebc-4479-9c76-109acdbd3966"></video>
 
 ### 2-3. 새로 추가하는 레이어는 알파 채널을 갖습니다
-If you add a new layer, even with an opaque Fill type, an Alpha channel is automatically added to the layer.
+레이어를 새로 추가하면, 이미지가 불투명 채우기 타입(Opaque Fill type)이더라도, 레이어에 알파 채널이 자동으로 추가됩니다.
 
-(TODO 영상: 새로운 레이어 추가)
+#### 영상 90.4.3.a208. 새로운 레이어를 추가해서 알파 채널도 함께 추가 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0035aaa0-0cfe-4ccb-9539-1f81f5728b76"></video>
 
-Every layer other than the bottom layer of an image automatically has an Alpha channel, but you can't see a grayscale representation of the alpha values. See [Alpha](./19-glossaryx-alpha.md) in Glossary for more information.
+그리고 새로운 레이어를 삭제하면 추가되었던 알파 채널도 함께 삭제됩니다.
+
+#### 영상 90.4.3.a209. 새로운 레이어를 삭제해서 알파 채널도 함께 삭제 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ba438dec-3083-4714-851b-80b1af5a0147"></video>
+
+이미지의 가장 아래의 배경 레이어를 제외한 모든 레이어는 자동적으로 알파 채널을 갖습니다. 하지만 그레이스케일로 표현된 알파 값은 볼 수 없습니다. 좀 더 자세한 내용은 [용어집 - 알파](./19-glossaryx-alpha.md)를 참고해주세요.
 
 ### 2-4. 알파 채널 예제: 기본 이미지
 This image has three layers painted with pure 100% opaque Red, Green, and Blue. In the Channel Dialog, you can see that an alpha channel has been added. It is white because the image is not transparent since there is at least one 100% opaque layer. The current layer is the red one: since it is painted with pure red, there is no green and no blue and the corresponding channels are black.
