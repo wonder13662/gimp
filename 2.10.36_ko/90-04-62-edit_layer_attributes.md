@@ -15,7 +15,13 @@
 #### 그림 90.4.62.a105. `레이어 속성 편집` 대화상자 → `레이어 이름` (Windows) (우리말)
 ![90-04-62-edit_layer_attributes(windows)(ko)-focus-layer_name](https://github.com/wonder13662/gimp/assets/15767104/20633024-7d4c-4357-9de9-1e5a8e0c29c4)
 
-[8.1.1. 레이어 속성 - 그림 90.4.62.a105]()
+[8.1.1. 레이어 속성 - 그림 90.4.62.a105](https://wonder13662.github.io/gimp/2.10.36_ko/08-01-introduction-to-layersx-01-layer_properties.html#%EA%B7%B8%EB%A6%BC-90462a105-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%86%8D%EC%84%B1-%ED%8E%B8%EC%A7%91-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%9D%B4%EB%A6%84-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
+#### 영상 90.4.62.a111. `레이어 속성 편집` 대화상자에서 이름 바꾸기 
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d5a4bc9d-fee8-4487-9682-c06bc495b71f"></video>
+
+[8.1.1. 레이어 속성 - 영상 90.4.62.a111]()
+
 
 ***
 
