@@ -153,7 +153,7 @@ Shift(⇧) 버튼을 누른 채, 연결 아이콘을 클릭하면, 같은 레벨
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0a2cc219-8a7d-4ae1-ae42-00a6405e81ff"></video>
 
 ## 7. 크기와 경계
-In GIMP, the boundaries of a layer do not necessarily match the boundaries of the image that contains it. When you create text, for example, each text item belongs to its own separate layer, and the layer size is automatically adjusted to contain the text and nothing more. Also, when you create a new layer using cut-and-paste, the new layer is sized just large enough to contain the pasted item. In the image window, the boundaries of the currently active layer are shown outlined with a black-and-yellow dashed line.
+GIMP(김프)에서는 레이어의 경계가 이미지(캔버스)의 경계와 일치할 필요는 없습니다. 예를 들어, 텍스트를 만들때, 각 텍스트 아이템은 분리된 레이어에 속해 있습니다. 그리고 텍스트의 레이어의 크기는 텍스트의 내용에 따라 달라집니다. 또한 잘라내기-붙여넣기로 새로운 레이어를 만들 때, 새 레이어는 붙여넣기한 대상에 맞춰 늘어납니다. 이미지 창에서는 현재 활성화된 레이어의 경계가 검정-노랑 점선으로 보여집니다.
 
 이 검은색과 노란색 점선 밖의 공간에서는 어떤 작업도 할 수 없습니다. 왜냐하면 실제로 점선 밖의 공간에는 아무것도 존재하지 않기 때문입니다. 따라서, 이 경우에는 레이어의 크기를 조정하면 됩니다.
 
@@ -163,6 +163,9 @@ In GIMP, the boundaries of a layer do not necessarily match the boundaries of th
 
 ## 8. 불투명도
 레이어의 불투명도는 바로 밑에 위치한 레이어의 색상을 얼마만큼 투과시킬 것인가에 대한 것입니다. 불투명도의 범위는 0부터 100으로, 0은 완전 투명, 100은 완전 불투명입니다.
+
+#### 그림 90.4.3.a241. 불투명도(Opacity)
+![90-04-03-layers(windows)(ko)(slim)-focus-opacity](https://github.com/wonder13662/gimp/assets/15767104/867dbf9f-8d77-4a15-ac3d-6fa53ee79f60)
 
 ## 9. 모드
 레이어의 모드는 레이어의 색상을 아래에 위치한 레이어의 색상과 혼합시키는 방식을 정하는 것입니다. 레이어 모드는 상당히 복잡하지만, 중요하므로 보다 상세한 내용은 [8.2. 레이어 모드](./08-02-00-layer-modes.md)을 참고해주세요.
