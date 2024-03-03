@@ -78,6 +78,9 @@
 ### 2-6. 알파 채널 예제: 두 개의 투명한 레이어가 있는 경우
 두번째 레이어의 왼쪽 부분도 투명하게 만들었습니다. 따라서 세번째 파랑색 레이어가 첫번째, 두번째 레이어를 통해 보이게 됩니다. 하지만 이미지에 불투명한 레이어가 있기 때문에 알파채널은 여전히 흰색입니다.
 
+#### 그림 8.1.1.a3. 알파 채널 예제: 두 개의 투명한 레이어가 있는 경우
+![08-01-01-alpha_channel-03-two_transparent_layer(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/dd860e65-0e0f-4467-a4e5-94c09b98d081)
+
 ### 2-7. 알파 채널 예제: 셰 개의 투명한 레이어가 있는 경우
 The left part of the third layer has been cleared. The Alpha channel is still white and the left part of the layer is opaque, because the background layer has no Alpha channel. In this case, the Clear command works like the Eraser and uses the Background color of Toolbox.
 
