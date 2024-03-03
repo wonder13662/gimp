@@ -7,6 +7,8 @@
 
 [6.2.3. 투명한 부분이 있는 이미지 저장하기 - 그림 90.1.6.3.1.a101](https://wonder13662.github.io/gimp/2.10.36_ko/06-02-03-saving-images-with-transparency.html#%EA%B7%B8%EB%A6%BC-901631a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%88%AC%EB%AA%85--%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EA%B0%80-windows)
 
+[8.1.1. 레이어 속성 - 그림 90.1.6.3.1.a101]()
+
 #### 그림 90.1.6.3.1.a102. `레이어` → `투명` → `알파 채널 추가` (Mac)
 ![그림 90.1.6.3.1.a102. `레이어` → `투명` → `알파 채널 추가` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/1152070e-e431-4b9a-9f38-4cf219f66151)
 

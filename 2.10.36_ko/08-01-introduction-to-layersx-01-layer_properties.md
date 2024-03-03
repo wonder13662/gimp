@@ -82,10 +82,24 @@
 ![08-01-01-alpha_channel-03-two_transparent_layer(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/dd860e65-0e0f-4467-a4e5-94c09b98d081)
 
 ### 2-7. 알파 채널 예제: 셰 개의 투명한 레이어가 있는 경우
-The left part of the third layer has been cleared. The Alpha channel is still white and the left part of the layer is opaque, because the background layer has no Alpha channel. In this case, the Clear command works like the Eraser and uses the Background color of Toolbox.
+세번째 레이어의 왼쪽 부분이 지워졌습니다. 알파 채널은 여전히 하얀색이고, 레이어의 왼쪽 부분은 불투명 합니다. 왜냐하면 배경 레이어는 알파 채널이 없기 때문입니다. 이 경우에 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `편집` → `지우기`는 도구 상자의 지우개처럼 작동합니다. 그리고 지워진 부분에는 알파 채널이 없기 때문에 도구 상자의 배경색을 채웁니다.
+
+#### 그림 8.1.1.a4. 알파 채널 예제: 세 개의 투명한 레이어가 있는 경우
+![08-01-01-alpha_channel-04-three_transparent_layer(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/946ccf9f-1cc6-4dbe-988f-a5e740a0a3c2)
+
+#### 그림 90.1.2.13.a101. `편집` → `지우기`
+![90-00-image_menu_bar-edit(w1080)-focus-clear](https://github.com/wonder13662/gimp/assets/15767104/194a7e4a-e39b-42bf-9921-222a15ed6166)
 
 ### 2-8. 알파 채널 예제: 배경레이어에 알파 채널을 추가한 경우
-We used the `Layer` → `Transparency` → `Add Alpha Channel` command, on the Background layer. Now, the left part of the image is fully transparent and has the color of the page where the image is shown. The left part of the Alpha channel thumbnail is black (transparent) in the Channel Dialog.
+[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `레이어` → `투명도` → `알파 채널 추가`를 배경 레이어에 적용했습니다.
+
+#### 그림 90.1.6.3.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)
+![그림 90.1.6.3.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3fb3ad7c-4a41-492e-9797-bed56dc9d936)
+
+이제 이미지의 왼쪽 부분은 완전히 투명합니다. [채널 대화상자](./15-02-02-channel-dialog.md)의 알파 채널의 왼쪽 부분 미리보기는 검은색(투명)입니다.
+
+#### 그림 8.1.1.a5. 알파 채널 예제: 배경레이어에 알파 채널을 추가한 경우
+![08-01-01-alpha_channel-05-bg_with_transparent_layer(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/6bcea8e9-5092-4f60-8dac-61a3d60e6560)
 
 ## 3. 레이어 타입
 The layer type is determined by the image type (see previous section), and the presence or absence of an alpha channel. These are the possible layer types:
