@@ -1,7 +1,7 @@
 # 8.1.1. 레이어 속성
 이미지의 각 레이어들은 다음과 같은 속성을 갖습니다.
 
-## 1. 이름
+## 1. 레이어의 이름
 Every layer has a name. This is assigned automatically when the layer is created, but you can change it. You can change the name of a layer either by double-clicking on it in the Layers dialog, or by right-clicking there, and the selecting the top entry in the menu appears, `Edit Layer Attributes`.
 
 모든 레이어는 이름을 갖고 있습니다. 이름은 레이어가 만들어 질때 자동으로 생깁니다. 하지만 나중에 이름을 바꿀 수 있습니다. 레이어의 이름은 두 가지 방법으로 바꿀 수 있습니다.
