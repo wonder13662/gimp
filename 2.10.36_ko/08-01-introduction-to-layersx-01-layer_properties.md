@@ -27,10 +27,26 @@
 
 ## 2. 알파 채널의 유무
 ### 2-1. 알파 채널이란?
-An alpha channel encodes information about how transparent a layer is at each pixel. It is visible in the Channel Dialog: white is complete opacity, black is complete transparency and gray levels are partial transparencies.
+알파 채널은 레이어의 각 픽셀의 투명도를 부호화(encode)한 것입니다. [채널 대화상자](./15-02-02-channel-dialog.md)에서 알파 채널을 확인할 수 있습니다. 알파 채널에서의 흰색은 완전히 불투명한 것입니다. 알파 채널에서의 검은색은 완전히 투명한 것입니다. 알파 채널에서의 회색은 부분적으로 투명도를 갖습니다.
 
 ### 2-2. 배경 레이어
-The background layer is special. If you have just created a new image, it only has one layer, which is the background layer. If the image has been created with an opaque Fill type, this one layer has no Alpha channel. To get a background layer with transparency, either create your new image with a transparent Fill type, or you use the [Add an Alpha Channel](./16-07-34-add-alpha-channel.md) command.
+배경 레이어는 특별한 존재입니다. 새로운 이미지를 만들면, 1개의 레이어만 있습니다. 이 레이어는 배경 레이어입니다. 새로 만든 이미지가 불투명 채우기 타입(Opaque Fill type)이면, 배경 레이어는 알파 채널을 갖고 있지 않습니다.
+
+배경 레이어에 투명도를 주고 싶다면, 이미지를 새로 만들때 투명 채우기 타입(Transparent Fill type)을 선택합니다.
+
+#### 그림 90.4.37.a126. `새 이미지 만들기` 대화상자 → 고급옵션 → `채우기`: 투명 (Windows) (우리말)
+![90-04-37-create_a_new_image(windows)(ko)-focus-fill_with_transparency](https://github.com/wonder13662/gimp/assets/15767104/24efa990-083d-40f3-9f9f-de554f0e973a)
+
+#### 영상 90.4.37.a127. `새 이미지 만들기` 대화상자 → 고급옵션 → `채우기`: 투명 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/374e5ad4-7c3c-4832-b140-7e25c1ccc7cf"></video>
+
+또다른 방법은 레이어 대화상자의 오른쪽 클릭 팝업 메뉴에서 [`알파 채널 추가`](./16-07-34-add-alpha-channel.md)를 클릭합니다.
+
+#### 그림 90.4.3.a206. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `알파 채널 추가` (windows) (우리말)
+![90-04-03-layer_dialog-context_menu(windows)(ko)-focus-add_alpha_channel](https://github.com/wonder13662/gimp/assets/15767104/58bcb9be-b3d1-4376-99c1-b3671d7f6bc0)
+
+#### 영상 90.4.3.a207. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `알파 채널 추가` (windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/93e62ca8-bebc-4479-9c76-109acdbd3966"></video>
 
 ### 2-3. 새로 추가하는 레이어는 알파 채널을 갖습니다
 If you add a new layer, even with an opaque Fill type, an Alpha channel is automatically added to the layer.
