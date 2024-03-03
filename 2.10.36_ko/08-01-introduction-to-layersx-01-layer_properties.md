@@ -61,8 +61,13 @@
 
 이미지의 가장 아래의 배경 레이어를 제외한 모든 레이어는 자동적으로 알파 채널을 갖습니다. 하지만 그레이스케일로 표현된 알파 값은 볼 수 없습니다. 좀 더 자세한 내용은 [용어집 - 알파](./19-glossaryx-alpha.md)를 참고해주세요.
 
+(TODO 알파 관련 정의를 확인한 뒤에 알파 채널의 그레이스케일 표현이 왜 없는지 설명해야 한다)
+
 ### 2-4. 알파 채널 예제: 기본 이미지
-This image has three layers painted with pure 100% opaque Red, Green, and Blue. In the Channel Dialog, you can see that an alpha channel has been added. It is white because the image is not transparent since there is at least one 100% opaque layer. The current layer is the red one: since it is painted with pure red, there is no green and no blue and the corresponding channels are black.
+이 이미지는 100%의 불투명도인 빨강, 초록, 파랑으로 칠한 3개의 레이어를 갖고 있습니다. [채널 대화상자](./15-02-02-channel-dialog.md)에서 알파 채널이 추가된 것을 확인할 수 있습니다. 알파 채널은 하얀색입니다. 왜냐하면 이미지는 최소 1개 이상의 100% 불투명도를 가진 레이어가 있어서 불투명하기 때문입니다. 현재 활성화된 레이어는 빨강으로 칠한 레이어입니다. 순수한 빨강으로 칠했기 때문에 이미지의 최종 결과물에서 초록과 파랑의 색상은 없습니다. 그래서 [채널 대화상자](./15-02-02-channel-dialog.md)의 빨강 채널은 하얀색, 초록 채널은 검은색, 파랑 채널은 검은색입니다.
+
+#### 그림 8.1.1.a1. 알파 채널 예제: 기본 이미지
+![08-01-01-alpha_channel-base_image(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/af886b99-98a2-42b9-bc73-e46788c62a54)
 
 ### 2-5. 알파 채널 예제: 한 개의 투명한 레이어가 있는 경우
 첫번째 레이어의 왼쪽 부분을 투명하게 만들었습니다. 두번째 레이어는 녹색으로 첫번째 레이어의 투명한 부분을 통해 일부가 보입니다. 하지만 이미지에 불투명한 레이어가 있기 때문에 알파 채널은 여전히 흰색입니다.
