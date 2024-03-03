@@ -124,7 +124,7 @@
 #### 그림 90.4.3.a211. 가시성(Visibility) 심볼 토글하기
 ![08-01-01-toggle_visibility_off(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/ab991f4a-988a-4729-8561-108d8e37572f)
 
-Shift 버튼을 누른 채, 눈 모양을 클릭하면, 방금 클릭한 레이어를 제외한 모든 레이어를 숨깁니다.
+Shift(⇧) 버튼을 누른 채, 눈 모양을 클릭하면, 방금 클릭한 레이어를 제외한 모든 레이어를 숨깁니다.
 
 #### 영상 90.4.3.a212. Shift(⇧)를 누른채로 가시성(Visibility) 심볼 토글하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1b3ab6fc-c557-4cca-a3b6-c3280fa74002"></video>
@@ -144,6 +144,13 @@ Shift 버튼을 누른 채, 눈 모양을 클릭하면, 방금 클릭한 레이�
 
 ## 6. 다른 레이어에 연결(Linkage to other layers)
 눈 모양 아이콘과 레이어 미리보기 사이를 클릭하면 연결 아이콘이 나타납니다. 이것을 이용해 움직이거나 변형하기 등의 여러 개의 레이어에 적용해야 하는 동작들을 위해 레이어들을 묶을 수 있습니다.
+
+#### 영상 90.4.3.a231. 다른 레이어에 연결(Linkage to other layers) 뒤에 레이어 이동
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/49aed398-f05f-4c92-84cc-ee1fd5496ca5"></video>
+
+Shift(⇧) 버튼을 누른 채, 연결 아이콘을 클릭하면, 같은 레벨의 모든 레이어에 대해 연결 아이콘을 모두 켭니다. 만약 같은 레벨의 레이어의 연결 아이콘이 이미 켜져 있다면, 클릭 대상 레이어를 제외한 나머지 레이어의 연결 아이콘이 모두 꺼집니다. (이는 레이어 가시성과 같은 동작입니다.)
+#### 영상 90.4.3.a232. Shift(⇧) + 연결(Linkage) 아이콘 클릭
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0a2cc219-8a7d-4ae1-ae42-00a6405e81ff"></video>
 
 ## 7. 크기와 경계
 In GIMP, the boundaries of a layer do not necessarily match the boundaries of the image that contains it. When you create text, for example, each text item belongs to its own separate layer, and the layer size is automatically adjusted to contain the text and nothing more. Also, when you create a new layer using cut-and-paste, the new layer is sized just large enough to contain the pasted item. In the image window, the boundaries of the currently active layer are shown outlined with a black-and-yellow dashed line.
