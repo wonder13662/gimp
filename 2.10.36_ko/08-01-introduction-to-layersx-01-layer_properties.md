@@ -102,7 +102,7 @@
 ![08-01-01-alpha_channel-05-bg_with_transparent_layer(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/6bcea8e9-5092-4f60-8dac-61a3d60e6560)
 
 ## 3. 레이어 타입
-The layer type is determined by the image type (see previous section), and the presence or absence of an alpha channel. These are the possible layer types:
+레이어 타입은 이미지 타입과 그리고 알파 채널의 유무에 의해서 결정됩니다. 이렇게 가능한 타입들은 아래와 같습니다.
 
 - RGB
 - RGBA
@@ -111,7 +111,12 @@ The layer type is determined by the image type (see previous section), and the p
 - Indexed
 - IndexedA
 
-The main reason this matters is that some filters (in the `Filters` menu) only accept a subset of layer types, and appear disabled in the menu if the active layer does not have a supported type. Often you can rectify this either by changing the mode of image, or by adding or removing an alpha channel.
+레이어 타입이 중요한 이유는 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `필터` 메뉴가 레이어 타입 중 일부에만 사용할 수 있기 때문입니다. 활성화된 레이어가 지원하지 않는 레이어 타입이라면, `필터` 메뉴는 비활성화됩니다. 
+
+#### 그림 8.1.1.a6. 이미지 모드(인덱스)에서 필터가 비활성화
+![08-01-01-image_mode_rgb-filter_artistic-disabled(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/9d131319-a6ab-427b-a6ad-6295fc1ec5c6)
+
+`필터` 메뉴가 비활성화되는 문제는 이미지의 모드를 바꾸거나, 알파 채널을 추가하거나 없애서 해결할 수 있습니다.
 
 ## 4. 가시성(Visibility)
 It is possible to remove a layer from an image, without destroying it, by clicking on the symbol in the Layers dialog. This is called "toggling the visibility" of the layer. Most operations on an image treat toggled-off layers as if they did not exist. When you work with images containing many layers, with varying opacity, you often can get a better picture of the contents of the layer you want to work on by hiding some of the other layers. Shift 버튼을 누른 채, 눈 모양을 클릭하면, 방금 클릭한 레이어를 제외한 모든 레이어를 숨깁니다.
