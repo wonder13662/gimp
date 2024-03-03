@@ -324,6 +324,9 @@
 #### 그림 90.4.61.a101. `새 팔레트 가져오기` 대화상자 (Windows) (우리말)
 ![90-04-61-dialog-import_a_new_palette(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7332d337-2901-4f96-88ab-0859849d7246)
 
+### [90.4.62. 레이어 속성 편집(Edit Layer Attributes)](./90-04-62-edit_layer_attributes.md)
+(TODO 이미지 추가)
+
 ***
 
 ## 공통 기능

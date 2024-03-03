@@ -17,7 +17,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.62. 레이어 속성 편집(Edit Layer Attributes)](./90-04-62-edit_layer_attributes.md)
 
 [⬅️ 이전: 90.4.60. 팔레트 편집기(Palette Editor)](./90-04-60-palette_editor.md)
 
