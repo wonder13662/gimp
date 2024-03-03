@@ -5,12 +5,12 @@
 모든 레이어는 이름을 갖고 있습니다. 이름은 레이어가 만들어 질때 자동으로 생깁니다. 하지만 나중에 이름을 바꿀 수 있습니다. 레이어의 이름은 두 가지 방법으로 바꿀 수 있습니다.
 
 ### 1-1. 레이어 대화상자에서 이름 바꾸기
-레이어 대화상자의 레이어에 더블 클릭을 해서 이름을 바로 바꿀 수 있습니다. 아래 영상에서 확인해보세요.
+[레이어 대화상자](./15-02-01-layers-dialog.md)의 레이어에 더블 클릭을 해서 이름을 바로 바꿀 수 있습니다. 아래 영상에서 확인해보세요.
 #### 영상 90.4.3.a205. 레이어 대화상자에서 레이어 더블 클릭으로 이름 바꾸기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/95a3c67c-426e-4a07-a758-63098453ae03"></video>
 
 ### 1-2. 레이어 속성 편집 대화상자에서 이름 바꾸기 
-레이어 대화상자의 레이어에서 오른쪽 클릭해서 팝업 메뉴를 띄웁니다. 이 팝업 메뉴에서 `레이어 속성 편집...`을 클릭합니다.
+[레이어 대화상자](./15-02-01-layers-dialog.md)의 레이어에서 오른쪽 클릭해서 팝업 메뉴를 띄웁니다. 이 팝업 메뉴에서 `레이어 속성 편집...`을 클릭합니다.
 
 #### 그림 90.4.3.a203. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `레이어 속성 편집...` (windows) (우리말)
 ![90-04-03-layer_dialog-context_menu(windows)(ko)-focus-edit_layer_properties](https://github.com/wonder13662/gimp/assets/15767104/00f2273c-924c-4429-b216-aff875a26734)
@@ -40,7 +40,7 @@
 #### 영상 90.4.37.a127. `새 이미지 만들기` 대화상자 → 고급옵션 → `채우기`: 투명 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/374e5ad4-7c3c-4832-b140-7e25c1ccc7cf"></video>
 
-또다른 방법은 레이어 대화상자의 오른쪽 클릭 팝업 메뉴에서 [`알파 채널 추가`](./16-07-34-add-alpha-channel.md)를 클릭합니다.
+또다른 방법은 [레이어 대화상자](./15-02-01-layers-dialog.md)의 오른쪽 클릭 팝업 메뉴에서 [`알파 채널 추가`](./16-07-34-add-alpha-channel.md)를 클릭합니다.
 
 #### 그림 90.4.3.a206. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `알파 채널 추가` (windows) (우리말)
 ![90-04-03-layer_dialog-context_menu(windows)(ko)-focus-add_alpha_channel](https://github.com/wonder13662/gimp/assets/15767104/58bcb9be-b3d1-4376-99c1-b3671d7f6bc0)
@@ -118,8 +118,16 @@
 
 `필터` 메뉴가 비활성화되는 문제는 이미지의 모드를 바꾸거나, 알파 채널을 추가하거나 없애서 해결할 수 있습니다.
 
-## 4. 가시성(Visibility)
-It is possible to remove a layer from an image, without destroying it, by clicking on the symbol in the Layers dialog. This is called "toggling the visibility" of the layer. Most operations on an image treat toggled-off layers as if they did not exist. When you work with images containing many layers, with varying opacity, you often can get a better picture of the contents of the layer you want to work on by hiding some of the other layers. Shift 버튼을 누른 채, 눈 모양을 클릭하면, 방금 클릭한 레이어를 제외한 모든 레이어를 숨깁니다.
+## 
+이미지에서 레이어를 물리적으로 없애지 않고도 보이지 않게 만들 수 있습니다. [레이어 대화상자](./15-02-01-layers-dialog.md)의 눈 모양 심볼(아이콘)을 클릭하면 됩니다. 이를 "가시성 토글하기(Toggling the visibility)"라고 합니다. 가시성을 토글로 끄면, 대부분의 명령을 마치 레이어가 없는 상태로 진행할 수 있습니다. 많은 레이어가 다양한 불투명도를 가진 상태에서 작업을 하는 경우, 일부 레이어를 숨김으로써 작업을 더 쉽게 할 수 있습니다. 
+
+#### 그림 90.4.3.a211. 가시성(Visibility) 심볼 토글하기
+![08-01-01-toggle_visibility_off(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/ab991f4a-988a-4729-8561-108d8e37572f)
+
+Shift 버튼을 누른 채, 눈 모양을 클릭하면, 방금 클릭한 레이어를 제외한 모든 레이어를 숨깁니다.
+
+#### 영상 90.4.3.a212. Shift(⇧)를 누른채로 가시성(Visibility) 심볼 토글하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1b3ab6fc-c557-4cca-a3b6-c3280fa74002"></video>
 
 ## 5. 활성화 레이어(Active Layer)
 Usually, you activate a layer, to work on it, clicking it in the layer list. When you have a lot of layers, finding which layer an element of the image belongs to is not easy: then, press Alt and click with Mouse wheel on this element to activate its layer. The available layers will be looped through (starting from the upper one) while the Alt is held and the picked layer will be temporarily displayed in the status bar.
