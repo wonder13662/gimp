@@ -14,12 +14,28 @@
 #### 영상 8.2.2.a2. 밝은 색만(Lighten only): 위쪽 레이어가 검정색 또는 하얀색
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8ab044b7-7fb3-4a81-8996-51f698d5fa6a"></video>
 
-`밝은 색만(Lighten only)` 모드는 `서로 바꿀 수 있는 레이어(Commutative Layer)` 모드이므로 두 레이어 모두 `밝은 색만(Lighten only)` 모드이면 레이어의 순서를 바꾸면, 두 레이어가 겹치는 이미지에 대해서는 결과가 같습니다. 다만, 두 레이어의 크기가 다른 경우에는 크기가 더 큰 레이어가 위쪽일 경우, 크기가 작은 레이어의 영역까지만 보이도록 바뀌므로 주의하세요.
+`밝은 색만(Lighten only)` 모드는 `서로 바꿀 수 있는 레이어(Commutative Layer)` 모드이므로 두 레이어 모두 `밝은 색만(Lighten only)` 모드이면 레이어의 순서를 바꿔도 두 레이어가 겹치는 이미지에 대해서는 결과가 같습니다. 다만, 두 레이어의 크기가 다른 경우에는 크기가 더 큰 레이어가 위쪽일 경우, 크기가 작은 레이어의 영역까지만 보이도록 바뀌므로 주의하세요.
 
 #### 영상 8.2.2.a3. 밝은 색만(Lighten only): 레이어 순서를 바꿔도 결과는 같음 - 서로 바꿀 수 있는 레이어(Commutative Layer)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ba0c1475-7112-4a0b-a595-5feeac2eb4e1"></video>
 
-## 2. 휘도 밝기만(Luma/Luminance lighten only)
+## 2. 휘도가 밝은 색만(Luma/Luminance lighten only)
+`휘도가 밝은 색만(Luma/Luminance lighten only)` 모드는 위 아래의 레이어의 각 픽셀의 휘도(luminance)를 비교합니다. 그리고 더 큰 값(더 밝은 픽셀)을 결과 이미지에 씁니다.
+
+#### 그림 8.2.2.a11. 휘도가 밝은 색만(Luma/Luminance lighten only)
+![layer_mode-lighten-02-luma_luminance_lighten_only](https://github.com/wonder13662/gimp/assets/15767104/dd263715-e508-42e1-a75f-3781b744faa7)
+
+완전히 검은색 레이어는 결과 이미지에 영향을 주지 않습니다. 완전히 하얀색 이미지는 결과 이미지를 하얀색 이미지로 만들어 버립니다. 
+
+#### 영상 8.2.2.a12. 휘도가 밝은 색만(Luma/Luminance lighten only): 위쪽 레이어가 검정색 또는 하얀색
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/79601a9a-5922-4e58-8d3a-d020fd08eefb"></video>
+
+`휘도가 밝은 색만(Luma/Luminance lighten only)` 모드는 `서로 바꿀 수 있는 레이어(Commutative Layer)` 모드이므로 두 레이어 모두 `밝은 색만(Lighten only)` 모드이면 레이어의 순서를 바꿔도 두 레이어가 겹치는 이미지에 대해서는 결과가 같습니다. 다만, 두 레이어의 크기가 다른 경우에는 크기가 더 큰 레이어가 위쪽일 경우, 크기가 작은 레이어의 영역까지만 보이도록 바뀌므로 주의하세요.
+
+#### 영상 8.2.2.a23. 밝은 색만(Lighten only): 레이어 순서를 바꿔도 결과는 같음 - 서로 바꿀 수 있는 레이어(Commutative Layer)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/61ae966e-78f3-4583-952f-4cc88238759a"></video>
+
+`휘도(Luminance)`는 밝기(Brightness)와 색상(Color)이 함께 고려되는 값입니다. `Luma`는 사람이 인식할 수 있는 범위 안에서의 휘도입니다.
 
 ## 3. 화면(Screen)
 
