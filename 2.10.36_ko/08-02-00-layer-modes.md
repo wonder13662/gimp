@@ -19,8 +19,8 @@ GIMP(김프)는 38개의 레이어 모드가 있습니다. 이 38개의 레이�
 ## 4. 레이어 모드는 어떻게 설정하나요?
 [레이어 대화상자](./15-02-01-layers-dialog.md)의 위쪽의 "모드" 드롭다운 메뉴에서 레이어 모드를 설정할 수 있습니다. GIMP(김프)는 레이어 모드를 위쪽의 레이어와 그 밑의 레이어의 픽셀을 어떻게 합칠지 결정하는 방법으로 사용합니다.
 
-#### 그림 90.4.3.a251. 모드(Mode)
-![90-04-03-layers(windows)(ko)(slim)-focus-mode](https://github.com/wonder13662/gimp/assets/15767104/0f62ad29-be47-4bcf-bcb1-6b94dbb95038)
+#### [그림 90.4.3.a251. 모드(Mode)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a251-%EB%AA%A8%EB%93%9Cmode)
+[![90-04-03-layers(windows)(ko)(slim)-focus-mode](https://github.com/wonder13662/gimp/assets/15767104/0f62ad29-be47-4bcf-bcb1-6b94dbb95038)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a251-%EB%AA%A8%EB%93%9Cmode)
 
 ## 5. 레이어 모드의 효과
 레이어 모드는 이미지 안에서 복합적으로 색상을 바꿀 수 있게 해줍니다. 레이어 모드는 새로운 레이어를 마스크처럼 쓸 수 있게 해줍니다. 예를 들어서, 하얀색으로 불투명하게 채워진 레이어를 이미지 위에 두고, 레이어 모드를 "HSV 채도(HSV Saturation)"으로 설정하면, 아래의 보여지는 레이어는 흑백으로 보입니다.
@@ -31,8 +31,8 @@ GIMP(김프)는 38개의 레이어 모드가 있습니다. 이 38개의 레이�
 ## 6. 추가정보: 레이어 모드와 비슷한 페인트 모드
 활성화된 도구가 칠하기 도구(painting tool)이라면, 도구 옵션에 레이어 모드와 비슷하게 모드를 선택할 수 있는 드롭다운 목록이 있습니다. 레이어 모드와 같은 모드를 칠하기에 사용할 수 있습니다. 그리고 칠하기 도구만의 추가적인 모드가 있습니다. 상세한 정보는 [14.3.1.3. 칠하기 모드 예제](./14-03-01-common-featuresx-03-paint_mode_examples.md)를 확인해주세요.
 
-#### 그림 90.3.2.23.a115. 그리기 붓의 도구 옵션 - 모드
-![90-03-02-23-paintbrush(windows)(ko)-focus-mode](https://github.com/wonder13662/gimp/assets/15767104/45e4f406-089e-4ebc-a295-4a5e6ab9e687)
+#### [그림 90.3.2.23.a115. 그리기 붓의 도구 옵션 - 모드](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-23-paintbrush.html#%EA%B7%B8%EB%A6%BC-903223a115-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98---%EB%AA%A8%EB%93%9C)
+[![90-03-02-23-paintbrush(windows)(ko)-focus-mode](https://github.com/wonder13662/gimp/assets/15767104/45e4f406-089e-4ebc-a295-4a5e6ab9e687)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-23-paintbrush.html#%EA%B7%B8%EB%A6%BC-903223a115-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93%EC%9D%98-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98---%EB%AA%A8%EB%93%9C)
 
 ## 7. 이번 장에서 사용할 예제 이미지
 
