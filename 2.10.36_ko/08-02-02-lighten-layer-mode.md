@@ -86,6 +86,8 @@
 
 ## 5. 더하기(Addition)
 
+[8.2.2.3. 더하기(Addition) 모드 방정식](./08-02-02-lighten-layer-modex-03-addition_mode_equation.md)
+
 ***
 
 ## 다른 페이지로 가기
