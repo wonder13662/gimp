@@ -1,8 +1,8 @@
 # 8.2.2.2. 닷지(Dodge) 모드 방정식
 닷지(Dodge) 모드는 아래와 같은 방정식을 갖습니다.
 
-#### 8.2.2.2.a21. 닷지(Dodge) 모드 방정식
-![layer_mode-lighten-03-screen-equation](https://github.com/wonder13662/gimp/assets/15767104/981c61cb-c9c4-4f8c-9215-9d87c82f9778)
+#### 그림 8.2.2.a31. 닷지(Dodge)
+![layer_mode-lighten-04-dodge](https://github.com/wonder13662/gimp/assets/15767104/6f0872ea-c3e8-48bf-8aa9-818cf24d10d2)
 
 위 방정식을 쉽게 풀어쓰면 아래와 같습니다. 방정식에서 `M`은 "아래쪽 레이어의 RGB 값", `I`는 "위쪽 레이어의 RGB 값"입니다.
 
