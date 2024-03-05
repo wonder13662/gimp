@@ -83,7 +83,7 @@
 ### 2-1. 더하기(Addition) 모드의 RGB의 Red 값 구하기
 - 위쪽 레이어의 RGB Red: 227
 - 아래쪽 레이어의 RGB Red: 53
-- 최종 결과 RGB Red: 232
+- 최종 결과 RGB Red: 232 (TODO 계산 값과 다름!)
 
 ```
 최종 결과 RGB Red
@@ -95,7 +95,7 @@
 ### 2-2. 더하기(Addition) 모드의 RGB의 Green 값 구하기
 - 위쪽 레이어의 RGB Green: 113
 - 아래쪽 레이어의 RGB Green: 61
-- 최종 결과 RGB Green: 127
+- 최종 결과 RGB Green: 127 (TODO 계산 값과 다름!)
 
 ```
 최종 결과 RGB Green
@@ -107,7 +107,7 @@
 ### 2-3. 더하기(Addition) 모드의 RGB의 Blue 값 구하기
 - 위쪽 레이어의 RGB Green: 113
 - 아래쪽 레이어의 RGB Green: 123
-- 최종 결과 RGB Green: 162
+- 최종 결과 RGB Green: 162 (TODO 계산 값과 다름!)
 
 ```
 최종 결과 RGB Blue
