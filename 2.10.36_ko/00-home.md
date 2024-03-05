@@ -294,6 +294,34 @@
 
 [8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 
+[8.1. 레이어 소개](./08-01-introduction-to-layers.md)
+
+[8.1.1. 레이어 속성](./08-01-introduction-to-layersx-01-layer_properties.md)
+
+[8.2. 레이어 모드](./08-02-00-layer-modes.md)
+
+[8.2.1. 레이어 모드-Normal](./08-02-01-normal-layer-mode.md)
+
+[8.2.2. 레이어 모드-Lighten](./08-02-02-lighten-layer-mode.md)
+
+[8.2.2.1. 화면(Screen) 모드 방정식](./08-02-02-lighten-layer-modex-01-screen_mode_equation.md)
+
+[8.2.3. 레이어 모드-Darken](./08-02-03-darken-layer-modes.md)
+
+[8.2.4. 레이어 모드-Contrast](./08-02-04-contrast-layer-modes.md)
+
+[8.2.5. 레이어 모드-Inversion](./08-02-05-inversion-layer-modes.md)
+
+[8.2.6. 레이어 모드-HSV components](./08-02-06-hsv-components-layer-modes.md)
+
+[8.2.7. 레이어 모드-LCh components](./08-02-07-lch-components-layer-modes.md)
+
+[8.3. 레거시 레이어 모드](./08-03-legacy-layer-modes.md)
+
+[8.4. 새 레이어 만들기](./08-04-creating-new-layers.md)
+
+[8.5. 레이어 그룹](./08-05-layer-groups.md)
+
 [9. Text Management](./09-00-text-management.md)
 
 [10. Enhancing Photographs](./10-00-enhancing-photographs.md)
