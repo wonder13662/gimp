@@ -120,34 +120,34 @@
 
 ### 3-1. 밝은 색만(Lighten only) 모드의 RGB의 Red 값 구하기
 - 위쪽 레이어의 RGB Red: 227
-- 아래쪽 레이어의 RGB Red: 53
+- 아래쪽 레이어의 RGB Red: 0
 - 최종 결과 RGB Red: 227
 
 ```
 최종 결과 RGB Red
-= max(227, 53)
+= max(227, 0)
 = 227
 ```
 
 ### 3-2. 밝은 색만(Lighten only) 모드의 RGB의 Green 값 구하기
 - 위쪽 레이어의 RGB Green: 113
-- 아래쪽 레이어의 RGB Green: 61
+- 아래쪽 레이어의 RGB Green: 0
 - 최종 결과 RGB Green: 113
 
 ```
 최종 결과 RGB Green
-= max(113, 61)
+= max(113, 0)
 = 113
 ```
 
 ### 3-3. 밝은 색만(Lighten only) 모드의 RGB의 Blue 값 구하기
 - 위쪽 레이어의 RGB Green: 113
-- 아래쪽 레이어의 RGB Green: 123
-- 최종 결과 RGB Green: 123
+- 아래쪽 레이어의 RGB Green: 0
+- 최종 결과 RGB Green: 113
 
 ```
 최종 결과 RGB Blue
-= max(113, 123)
+= max(113, 0)
 = 123
 ```
 
@@ -167,35 +167,35 @@
 
 ### 4-1. 밝은 색만(Lighten only) 모드의 RGB의 Red 값 구하기
 - 위쪽 레이어의 RGB Red: 227
-- 아래쪽 레이어의 RGB Red: 53
-- 최종 결과 RGB Red: 227
+- 아래쪽 레이어의 RGB Red: 255
+- 최종 결과 RGB Red: 255
 
 ```
 최종 결과 RGB Red
-= max(227, 53)
-= 227
+= max(227, 255)
+= 255
 ```
 
 ### 4-2. 밝은 색만(Lighten only) 모드의 RGB의 Green 값 구하기
 - 위쪽 레이어의 RGB Green: 113
-- 아래쪽 레이어의 RGB Green: 61
-- 최종 결과 RGB Green: 113
+- 아래쪽 레이어의 RGB Green: 255
+- 최종 결과 RGB Green: 255
 
 ```
 최종 결과 RGB Green
-= max(113, 61)
-= 113
+= max(113, 255)
+= 255
 ```
 
 ### 4-3. 밝은 색만(Lighten only) 모드의 RGB의 Blue 값 구하기
 - 위쪽 레이어의 RGB Green: 113
-- 아래쪽 레이어의 RGB Green: 123
-- 최종 결과 RGB Green: 123
+- 아래쪽 레이어의 RGB Green: 255
+- 최종 결과 RGB Green: 255
 
 ```
 최종 결과 RGB Blue
-= max(113, 123)
-= 123
+= max(113, 255)
+= 255
 ```
 
 위 3가지 방정식 계산을 통해 밝은 색만(Lighten only) 모드 방정식이 올바르게 사용되었음을 확인할 수 있습니다.
