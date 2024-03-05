@@ -13,7 +13,7 @@
 ## 1. 첫번째 예제
 
 #### 그림 8.2.2.1.a11. 밝은 색만(Lighten only) 모드 예제
-![layer_mode-lighten-05-addition_color_examples-01](https://github.com/wonder13662/gimp/assets/15767104/01043b35-f9fe-492b-89fd-5cd57b7263e7)
+![layer_mode-lighten-01-lighten_only-color_examples-01](https://github.com/wonder13662/gimp/assets/15767104/980d4b55-7a1d-47ce-8555-a118f9680daa)
 
 #### 그림 8.2.2.a101. 레이어 모드: 예제1 - 위쪽 레이어 색상 정보
 ![layer_mode-lighten-color_example-01-top_layer-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/0b3c8936-39be-48f0-8bda-30c266deec0c)
@@ -61,7 +61,7 @@
 
 ## 2. 두번째 예제
 #### 그림 8.2.2.1.a21. 밝은 색만(Lighten only) 모드 예제
-![layer_mode-lighten-05-addition_color_examples-02](https://github.com/wonder13662/gimp/assets/15767104/710aee03-3fc6-431d-9f89-ebbee61eca18)
+![layer_mode-lighten-01-lighten_only-color_examples-02](https://github.com/wonder13662/gimp/assets/15767104/3755a45c-11a5-4dc2-a904-10ac45c64ffa)
 
 #### 그림 8.2.2.a103. 레이어 모드: 예제2 - 위쪽 레이어 색상 정보
 ![layer_mode-lighten-color_example-02-top_layer-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/cac56536-eb1e-4feb-93d3-7cc86c150196)
@@ -107,7 +107,7 @@
 
 ## 3. 세번째 예제 - 아래쪽 레이어가 검은색
 #### 그림 8.2.2.1.a31. 밝은 색만(Lighten only) 모드 예제
-![layer_mode-lighten-01-lighten_only-color_examples-03-black](https://github.com/wonder13662/gimp/assets/15767104/99cca441-dd83-442c-99bf-ad99b613b573)
+![layer_mode-lighten-01-lighten_only-color_examples-03-black](https://github.com/wonder13662/gimp/assets/15767104/4b8564b7-0411-40d7-beab-d82eb0e23c8d)
 
 #### 그림 8.2.2.a103. 레이어 모드: 예제 - 위쪽 레이어 색상 정보
 ![layer_mode-lighten-color_example-02-top_layer-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/cac56536-eb1e-4feb-93d3-7cc86c150196)
@@ -154,7 +154,7 @@
 ## 4. 네번째 예제 - 아래쪽 레이어가 하얀색
 
 #### 그림 8.2.2.1.a41. 밝은 색만(Lighten only) 모드 예제
-![layer_mode-lighten-01-lighten_only-color_examples-04-white](https://github.com/wonder13662/gimp/assets/15767104/cb60e2b5-f87c-42d5-941a-484f871fd157)
+![layer_mode-lighten-01-lighten_only-color_examples-04-white](https://github.com/wonder13662/gimp/assets/15767104/f5170fa0-5989-4f7b-b8cd-a732e7c66620)
 
 #### 그림 8.2.2.a103. 레이어 모드: 예제 - 위쪽 레이어 색상 정보
 ![layer_mode-lighten-color_example-02-top_layer-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/cac56536-eb1e-4feb-93d3-7cc86c150196)
