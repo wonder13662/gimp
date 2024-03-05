@@ -1,12 +1,12 @@
 # 8.2.2.2. 닷지(Dodge) 모드 방정식
 닷지(Dodge) 모드는 아래와 같은 방정식을 갖습니다.
 
-#### 그림 8.2.2.a31. 닷지(Dodge)
-![layer_mode-lighten-04-dodge](https://github.com/wonder13662/gimp/assets/15767104/6f0872ea-c3e8-48bf-8aa9-818cf24d10d2)
+#### 8.2.2.2.a1. 닷지(Dodge) 모드 방정식
+![layer_mode-lighten-04-dodge-equation](https://github.com/wonder13662/gimp/assets/15767104/0aa732a5-1d58-4211-993f-6f87a6d90ba0)
 
 위 방정식을 쉽게 풀어쓰면 아래와 같습니다. 방정식에서 `M`은 "아래쪽 레이어의 RGB 값", `I`는 "위쪽 레이어의 RGB 값"입니다.
 
-#### 8.2.2.2.a1. RGB 색상값의 0부터 255인 경우의 닷지(Dodge) 모드 방정식
+#### 8.2.2.2.a2. RGB 색상값의 0부터 255인 경우의 닷지(Dodge) 모드 방정식
 ```
 픽셀의 `닷지(Dodge)` 모드의 RGB 색상값 = (256 x 아래쪽 레이어의 RGB 값) / ((255 - 위쪽 레이어의 RGB 값) + 1)
 ```

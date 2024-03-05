@@ -70,10 +70,10 @@
 
 `닷지(Dodge)` 모드는 아래쪽 레이어의 픽셀의 RGB값을 위쪽 레이어의 반전시킨 픽셀의 RGB값으로 나눈 것입니다. 결과 이미지는 보통 더 밝아집니다. 하지만 일부 색상은 반전될 수도 있습니다.
 
-#### 8.2.2.2.a21. 닷지(Dodge) 모드 방정식
-![layer_mode-lighten-03-screen-equation](https://github.com/wonder13662/gimp/assets/15767104/981c61cb-c9c4-4f8c-9215-9d87c82f9778)
+#### 8.2.2.2.a1. 닷지(Dodge) 모드 방정식
+![layer_mode-lighten-04-dodge-equation](https://github.com/wonder13662/gimp/assets/15767104/0aa732a5-1d58-4211-993f-6f87a6d90ba0)
 
-#### 8.2.2.2.a1. RGB 색상값의 0부터 255인 경우의 닷지(Dodge) 모드 방정식
+#### 8.2.2.2.a2. RGB 색상값의 0부터 255인 경우의 닷지(Dodge) 모드 방정식
 ```
 픽셀의 `닷지(Dodge)` 모드의 RGB 색상값 = (256 x 아래쪽 레이어의 RGB 값) / ((255 - 위쪽 레이어의 RGB 값) + 1)
 ```
