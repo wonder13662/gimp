@@ -107,7 +107,7 @@
 = 147
 ```
 
-### 1-3. 화면(Screen) 모드의 RGB의 Blue 값 구하기
+### 2-3. 화면(Screen) 모드의 RGB의 Blue 값 구하기
 - 위쪽 레이어의 RGB Green: 113
 - 아래쪽 레이어의 RGB Green: 123
 - 최종 결과 RGB Green: 181
