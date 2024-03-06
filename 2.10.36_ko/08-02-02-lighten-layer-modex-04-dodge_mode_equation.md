@@ -77,6 +77,20 @@
 
 위 계산 결과를 통하여 얻은 RGB의 Blue 값인 255.0이 "레이어 모드 적용 결과"의 "전경색 바꾸기" 대화상자의 `G` 값과 같은 것을 확인할 수 있습니다.
 
+### 1-4. 최종 결과 RGB
+#### 그림 8.2.2.4.a141. GIMP(김프)에서 `닷지(Dodge)` 모드를 적용하여 얻은 RGB 값
+![layer_mode-lighten-04-dodge-color_example-01-result(50%)-focus-RGB](https://github.com/wonder13662/gimp/assets/15767104/7589474a-6057-4b63-bdb0-37eb4f14ac6b)
+
+#### 표 8.2.2.4.a142. 방정식 계산으로 얻은 최종 결과 RGB 값
+
+|RGB 채널|색상값|
+|---|---|
+|Red|255.0|
+|Green|0.0|
+|Blue|255.0|
+
+GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
+
 ## 2. 두번째 예제
 #### 8.2.2.4.a21. 닷지(Dodge) 모드 예제
 ![layer_mode-lighten-04-dodge_color_examples-02](https://github.com/wonder13662/gimp/assets/15767104/b32a7b78-df5a-492a-bd67-90657236a287)
