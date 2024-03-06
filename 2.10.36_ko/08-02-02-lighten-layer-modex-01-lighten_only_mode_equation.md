@@ -228,7 +228,6 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
 ## 4. 네번째 예제 - 아래쪽 레이어가 하얀색
-
 #### 그림 8.2.2.1.a41. 밝은 색만(Lighten only) 모드 예제
 ![layer_mode-lighten-01-lighten_only-color_examples-04-white](https://github.com/wonder13662/gimp/assets/15767104/f5170fa0-5989-4f7b-b8cd-a732e7c66620)
 
