@@ -69,7 +69,7 @@
 
 위 계산 결과를 통하여 RGB의 Blue 값이 255로 더 큰 아래쪽 레이어의 색상이 선택된 것을 "결과 값"에서 확인할 수 있습니다.
 
-### 1-4. 최종 결과 RGB Red
+### 1-4. 최종 결과 RGB
 #### 그림 8.2.2.1.a141. GIMP(김프)에서 `밝은 색만(Lighten only)` 모드를 적용하여 얻은 RGB 값
 ![layer_mode-lighten-01-lighten_only-color_examples-01-result-rgb(50%)-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/02b916f9-d599-4cb7-9e4c-0d093caeb126)
 

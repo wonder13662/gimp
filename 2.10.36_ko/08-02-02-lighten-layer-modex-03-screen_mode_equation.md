@@ -15,56 +15,85 @@
 
 ## 1. 첫번째 예제
 
-#### 8.2.2.3.a11. 화면(Screen) 모드 예제
+#### 8.2.2.3.a101. 화면(Screen) 모드 예제
 ![layer_mode-lighten-03-screen_color_examples](https://github.com/wonder13662/gimp/assets/15767104/e1d30b5f-65bf-48f7-bcc5-abdd54fabd42)
 
-#### 8.2.2.3.a12. 위쪽 레이어의 색상 정보
-![layer_mode-lighten-03-screen-color_example-01-top_layer(50%)-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/37635056-3751-4995-a23a-d872c99e0bb1)
-
-#### 8.2.2.3.a13. 아래쪽 레이어의 색상 정보
-![layer_mode-lighten-03-screen-color_example-01-bottom_layer(50%)-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/b0d3413f-4505-4617-a1f8-ea50f469d7de)
-
-#### 8.2.2.3.a14. 결과 이미지의 색상 정보
-![layer_mode-lighten-03-screen-color_example-01-result(50%)-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/20e2f92c-f197-473c-871a-1d342c91e9ee)
-
 ### 1-1. 화면(Screen) 모드의 RGB의 Red 값 구하기
-- 위쪽 레이어의 RGB Red: 249
-- 아래쪽 레이어의 RGB Red: 255
-- 최종 결과 RGB Red: 255
+#### 그림 8.2.2.3.a111. 각 레이어별 RGB의 Red 값
+![layer_mode-lighten-03-screen-color_example-01-comparison-rgb(w1080)-focus-RGB-Red](https://github.com/wonder13662/gimp/assets/15767104/7312f5a7-9b1d-4764-ba2f-a921146c49d0)
+
+#### 표 8.2.2.3.a112. 레이어별 RGB의 Red 값 방정식 계산
+
+|위쪽 레이어|아래쪽 레이어|결과 값|
+|---|---|---|
+|249.0|255.0|255.0|
 
 ```
 최종 결과 RGB Red
-= 255 - ((255 - 249) x (255 - 255) / 255)
+= 255 - ((255 - 249.0) x (255 - 255.0) / 255)
 = 255 - (6 x 0 / 255)
+= 255 - (0 / 255)
+= 255 - 0
 = 255
 ```
 
+위 계산 결과를 통하여 RGB의 Red 값이 255로 계산된 것을 "결과 값"에서 확인할 수 있습니다.
+
 ### 1-2. 화면(Screen) 모드의 RGB의 Green 값 구하기
-- 위쪽 레이어의 RGB Green: 251
-- 아래쪽 레이어의 RGB Green: 0
-- 최종 결과 RGB Green: 251
+#### 그림 8.2.2.3.a121. 각 레이어별 RGB의 Green 값
+![layer_mode-lighten-03-screen-color_example-01-comparison-rgb(w1080)-focus-RGB-Green](https://github.com/wonder13662/gimp/assets/15767104/b750d4d9-2718-42ce-b845-43220027cc6e)
+
+#### 표 8.2.2.3.a122. 레이어별 RGB의 Green 값 방정식 계산
+
+|위쪽 레이어|아래쪽 레이어|결과 값|
+|---|---|---|
+|251.0|0.0|251.0|
 
 ```
 최종 결과 RGB Green
-= 255 - ((255 - 251) x (255 - 0) / 255)
+= 255 - ((255 - 251.0) x (255 - 0.0) / 255)
 = 255 - (4 x 255 / 255)
+= 255 - (4 x 1)
 = 255 - 4
 = 251
 ```
 
+위 계산 결과를 통하여 RGB의 Green 값이 251.0으로 계산된 것을 "결과 값"에서 확인할 수 있습니다.
+
 ### 1-3. 화면(Screen) 모드의 RGB의 Blue 값 구하기
-- 위쪽 레이어의 RGB Green: 10
-- 아래쪽 레이어의 RGB Green: 255
-- 최종 결과 RGB Green: 255
+#### 그림 8.2.2.3.a131. 각 레이어별 RGB의 Blue 값
+![layer_mode-lighten-03-screen-color_example-01-comparison-rgb(w1080)-focus-RGB-Blue](https://github.com/wonder13662/gimp/assets/15767104/b8a41f69-be58-4e76-a66e-bebcf32475c3)
+
+#### 표 8.2.2.3.a132. 레이어별 RGB의 Blue 값 방정식 계산
+
+|위쪽 레이어|아래쪽 레이어|결과 값|
+|---|---|---|
+|10.0|255.0|255.0|
 
 ```
-최종 결과 RGB Blue
-= 255 - ((255 - 10) x (255 - 255) / 255)
+최종 결과 RGB Red
+= 255 - ((255 - 10.0) x (255 - 255.0) / 255)
 = 255 - (245 x 0 / 255)
+= 255 - (0 / 255)
+= 255 - 0
 = 255
 ```
 
-위 3가지 방정식 계산을 통해 화면(Screen) 모드 방정식이 올바르게 사용되었음을 확인할 수 있습니다.
+위 계산 결과를 통하여 RGB의 Blue 값이 255.0으로 계산된 것을 "결과 값"에서 확인할 수 있습니다.
+
+### 1-4. 최종 결과 RGB
+#### 그림 8.2.2.3.a141. GIMP(김프)에서 `화면(Screen)` 모드를 적용하여 얻은 RGB 값
+![layer_mode-lighten-03-screen-color_example-01-result(50%)-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/d9685d6e-e13c-4280-8f4a-3923e0f546d8)
+
+#### 표 8.2.2.3.a142. 방정식 계산으로 얻은 최종 결과 RGB 값
+
+|RGB 채널|색상값|
+|---|---|
+|Red|255.0|
+|Green|251.0|
+|Blue|255.0|
+
+GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
 ## 2. 두번째 예제
 #### 8.2.2.3.a21. 화면(Screen) 모드 예제
