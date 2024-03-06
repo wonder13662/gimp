@@ -65,10 +65,10 @@
 #### 그림 8.2.2.2.a11. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
 ![layer_mode-lighten-02-luma-color_examples-01](https://github.com/wonder13662/gimp/assets/15767104/b54908fb-c564-4924-808b-81568faf4ec7)
 
-#### 그림 8.2.2.a101. 레이어 모드: 각 레이어별 휘도 정보
+#### 그림 8.2.2.2.a12. 레이어 모드: 각 레이어별 휘도 정보
 ![layer_mode-lighten-02-luma-color_examples-01-comparison-lch(w1080)-focus](https://github.com/wonder13662/gimp/assets/15767104/85ba3968-5a14-4c14-8922-7c50ee456ac4)
 
-#### 표 8.2.2.2.a101-1. 레이어별 LCh의 L(Lightness) 값
+#### 표 8.2.2.2.a13. 레이어별 LCh의 L(Lightness) 값
 
 |위쪽 레이어|아래쪽 레이어|결과 색상|
 |---|---|---|
@@ -80,52 +80,23 @@
 = 96.1
 ```
 
-위 방정식 계산을 통해 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 방정식이 올바르게 사용되었음을 확인할 수 있습니다.
-
 ## 3. 두번째 예제
 #### 그림 8.2.2.2.a21. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
 ![layer_mode-lighten-02-luma-color_examples-02](https://github.com/wonder13662/gimp/assets/15767104/005ba29a-8b46-44b3-b7f4-baa4c58560b1)
 
-#### 그림 8.2.2.a103. 레이어 모드: 예제2 - 위쪽 레이어 색상 정보
-![layer_mode-lighten-color_example-02-top_layer-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/cac56536-eb1e-4feb-93d3-7cc86c150196)
+#### 그림 8.2.2.2.a22. 레이어 모드: 각 레이어별 휘도 정보
+![layer_mode-lighten-02-luma-color_examples-02-comparison-lch(w1080)-focus-luma](https://github.com/wonder13662/gimp/assets/15767104/57507423-1096-4c37-968d-1917bda19775)
 
-#### 그림 8.2.2.a104. 레이어 모드: 예제2 - 아래쪽 레이어 색상 정보
-![layer_mode-lighten-color_example-02-bottom_layer-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/8aa80214-9dd0-4af6-8edb-cdfd7f3c1be9)
+#### 표 8.2.2.2.a13. 레이어별 LCh의 L(Lightness) 값
 
-#### 그림 8.2.2.2.a22. 결과 이미지의 색상 정보
-![layer_mode-lighten-01-lighten_only-color_example-02-result(50%)-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/1534ef27-a607-474e-a64d-4a26dce85a82)
-
-### 3-1. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드의 RGB의 Red 값 구하기
-- 위쪽 레이어의 RGB Red: 227
-- 아래쪽 레이어의 RGB Red: 53
-- 최종 결과 RGB Red: 227
+|위쪽 레이어|아래쪽 레이어|결과 색상|
+|---|---|---|
+|61.6|27.7|61.6|
 
 ```
-최종 결과 RGB Red
-= max(227, 53)
-= 227
-```
-
-### 3-2. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드의 RGB의 Green 값 구하기
-- 위쪽 레이어의 RGB Green: 113
-- 아래쪽 레이어의 RGB Green: 61
-- 최종 결과 RGB Green: 113
-
-```
-최종 결과 RGB Green
-= max(113, 61)
-= 113
-```
-
-### 3-3. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드의 RGB의 Blue 값 구하기
-- 위쪽 레이어의 RGB Green: 113
-- 아래쪽 레이어의 RGB Green: 123
-- 최종 결과 RGB Green: 123
-
-```
-최종 결과 RGB Blue
-= max(113, 123)
-= 123
+선택된 LCh의 L(Lightness) 값
+= max(61.6, 27.7)
+= 61.6
 ```
 
 ## 4. 세번째 예제 - 아래쪽 레이어가 검은색
