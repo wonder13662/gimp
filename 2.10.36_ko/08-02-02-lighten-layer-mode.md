@@ -5,7 +5,7 @@
 #### 그림 8.2.2.a1. 밝은 색만(Lighten only): 위쪽 레이어(마스크)의 불투명도(Opacity)가 100%
 ![layer_mode-lighten-01-lighten_only](https://github.com/wonder13662/gimp/assets/15767104/b3feb4cb-af62-4ab3-bb31-0393fa70baf1)
 
-`밝은 색만(Lighten only)` 모드는 위쪽 레이어와 아래쪽 레이어의 각 픽셀의 RGB값을 비교하여 더 밝은 RGB값을 선택합니다. 따라서 한 레이어가 검정색 이미지이면 최종 이미지에는 변화가 없고, 하얀색 이미지이면 최종 이미지는 하얀색 이미지가 됩니다. 
+`밝은 색만(Lighten only)` 모드는 위쪽 레이어와 아래쪽 레이어의 각 픽셀의 RGB값을 비교하여 더 밝은 RGB값을 선택합니다. 따라서 한 레이어가 [검정색 이미지](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-modex-01-lighten_only_mode_equation.html#3-%EC%84%B8%EB%B2%88%EC%A7%B8-%EC%98%88%EC%A0%9C---%EC%95%84%EB%9E%98%EC%AA%BD-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%EA%B2%80%EC%9D%80%EC%83%89)이면 최종 이미지에는 변화가 없고, [하얀색 이미지](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-modex-01-lighten_only_mode_equation.html#4-%EB%84%A4%EB%B2%88%EC%A7%B8-%EC%98%88%EC%A0%9C---%EC%95%84%EB%9E%98%EC%AA%BD-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%ED%95%98%EC%96%80%EC%83%89)이면 최종 이미지는 하얀색 이미지가 됩니다. 
 
 #### 영상 8.2.2.a2. 밝은 색만(Lighten only): 위쪽 레이어가 검정색 또는 하얀색
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8ab044b7-7fb3-4a81-8996-51f698d5fa6a"></video>
