@@ -1,6 +1,8 @@
 # 8.2.2.3. 더하기(Addition) 모드 방정식
 더하기(Addition) 모드는 아래와 같은 방정식을 갖습니다.
 
+(TODO 여기의 내용은 Legacy로 이동해야 합니다. 최신 Addition은 Legacy Addition과 다르게 동작합니다. 최신 Addition은 정확한 방정식을 알 수 없는 상태입니다.)
+
 #### 8.2.2.3.a1. 더하기(Addition) 모드 방정식
 ![layer_mode-lighten-05-addition-equation](https://github.com/wonder13662/gimp/assets/15767104/2c067664-64b2-4887-b6fe-97e2202997f5)
 

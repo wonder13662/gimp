@@ -63,7 +63,7 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5abc2173-d9c6-4abe-9947-a0541133cd4e"></video>
 
 ## 4. 닷지(Dodge)
-#### 그림 8.2.2.a31. 닷지(Dodge)
+#### 그림 8.2.2.a41. 닷지(Dodge)
 ![layer_mode-lighten-04-dodge](https://github.com/wonder13662/gimp/assets/15767104/6f0872ea-c3e8-48bf-8aa9-818cf24d10d2)
 
 `닷지(Dodge)` 모드는 아래쪽 레이어의 픽셀의 RGB값을 위쪽 레이어의 반전시킨 픽셀의 RGB값으로 나눈 것입니다. 결과 이미지는 보통 더 밝아집니다. 하지만 일부 색상은 반전될 수도 있습니다.
@@ -81,8 +81,26 @@
 사진 보정에서 닷지(Dodge)는 어두운 방에서 찍은 사진의 특정 부분 노출값을 증가시켜 줄 때 사용됩니다. 이를 적용하면 그림자 속에 숨어있던 부분들이 드러납니다. 하지만 그레이스케일의 이미지에서 이러한 용도로 사용한다면, 레이어 모드보다 페인팅 도구 중 닷지(Dodge)/번(Burn) 도구를 사용하는 것이 좋습니다.
 
 ## 5. 더하기(Addition)
+#### 그림 8.2.2.a51. 더하기(Addition)
+![layer_mode-lighten-05-addition](https://github.com/wonder13662/gimp/assets/15767104/17783a75-d06b-488c-85ad-e5906b65fdb8)
 
-[8.2.2.5. 더하기(Addition) 모드 방정식](./08-02-02-lighten-layer-modex-05-addition_mode_equation.md)
+`더하기(Addition)` 모드는 매우 간단합니다. 위쪽 레이어와 아래쪽 레이어의 픽셀의 RGB 값을 서로 더합니다. 결과 이미지는 보통 더 밝아지게 됩니다. `더하기(Addition)` 모드의 방정식의 결과값은 RGB의 최대값보다 커질 수 있습니다.
+
+⚠️ 주의: 실제로 `더하기(Addition)` 모드를 적용해서 RGB 값을 비교해보면, 정확하게 위쪽 레이어와 아래쪽 레이어가 더해진 값을 결과로 주진 않습니다. 다만, 두 레이어의 픽셀의 RGB값보다는 더 큰 값을 얻는다는 점은 확인할 수 있습니다.
+
+#### 그림 8.2.2.a52. 더하기(Addition) 예제
+![layer_mode-lighten-05-addition_color_examples-02](https://github.com/wonder13662/gimp/assets/15767104/8c1d029c-b35a-4024-b97d-406d1c69e1f5)
+
+#### 그림 8.2.2.a53. 더하기(Addition) 예제의 각 색상의 RGB 정보 비교
+![layer_mode-lighten-05-addtion-color_example-02-comparison-rgb(w1080)-focus-RGB_Red](https://github.com/wonder13662/gimp/assets/15767104/485e8e29-c864-4055-8ce3-8e6e66fab5d2)
+
+#### 표 8.2.2.a54. 레이어별 RGB의 Red 값 방정식 계산
+
+|위쪽 레이어|아래쪽 레이어|결과 값|
+|---|---|---|
+|227.0|53.0|232.0|
+
+위의 설명에서와 같이 위쪽 레이어의 RGB Red(227.0)와 아래쪽 레이어의 RGB Red(53.0)의 더한 값은 280입니다. 하지만 실제 결과값은 232.0 이므로 두 레이어의 RGB 값을 더한 것과 같지 않습니다.
 
 ***
 
