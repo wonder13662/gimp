@@ -15,25 +15,24 @@
 #### 그림 8.2.2.1.a11. 밝은 색만(Lighten only) 모드 예제
 ![layer_mode-lighten-01-lighten_only-color_examples-01](https://github.com/wonder13662/gimp/assets/15767104/980d4b55-7a1d-47ce-8555-a118f9680daa)
 
-#### 그림 8.2.2.a101. 레이어 모드: 예제1 - 위쪽 레이어 색상 정보
-![layer_mode-lighten-color_example-01-top_layer-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/0b3c8936-39be-48f0-8bda-30c266deec0c)
-
-#### 그림 8.2.2.a102. 레이어 모드: 예제1 - 아래쪽 레이어 색상 정보
-![layer_mode-lighten-color_example-01-bottom_layer-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/11159a29-09e1-4ed3-96ed-a57b0ba715d6)
-
-#### 그림 8.2.2.1.a12. 결과 이미지의 색상 정보
-![layer_mode-lighten-01-lighten_only-color_example-01-result(50%)-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/d4bbffc9-549a-4754-ab79-c436407b3730)
-
 ### 1-1. 밝은 색만(Lighten only) 모드의 RGB의 Red 값 구하기
-- 위쪽 레이어의 RGB Red: 249
-- 아래쪽 레이어의 RGB Red: 255
-- 최종 결과 RGB Red: 255
+#### 그림 8.2.2.1.a12. 각 레이어별 RGB의 Red 값
+![layer_mode-lighten-01-lighten_only-color_examples-01-comparison-rgb(w1080)-focus-RGB_Red](https://github.com/wonder13662/gimp/assets/15767104/a282f1f9-f1ff-4039-b46e-638d1da21e4e)
+
+#### 표 8.2.2.1.a13. 레이어별 RGB의 Red 값 방정식 계산
+
+|위쪽 레이어|아래쪽 레이어|결과 값|
+|---|---|---|
+|249.0|255.0|255.0|
 
 ```
 최종 결과 RGB Red
-= max(249, 255)
+= max(249.0, 255.0)
+= 255.0
 = 255
 ```
+
+위 계산 결과를 통하여 RGB의 Red 값이 255.0로 더 큰 아래쪽 레이어의 색상이 선택된 것을 "결과 값"에서 확인할 수 있습니다.
 
 ### 1-2. 밝은 색만(Lighten only) 모드의 RGB의 Green 값 구하기
 - 위쪽 레이어의 RGB Green: 251

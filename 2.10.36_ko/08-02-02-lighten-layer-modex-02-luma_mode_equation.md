@@ -20,9 +20,9 @@
 ![layer_mode-lighten-02-luma-color_examples-01-comparison-lch(w1080)-focus](https://github.com/wonder13662/gimp/assets/15767104/85ba3968-5a14-4c14-8922-7c50ee456ac4)
 
 ### 1-2-2. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드의 방정식 계산 - LCh의 L(Lightness) 기준
-#### 표 8.2.2.2.a101-1. 레이어별 LCh의 L(Lightness) 값
+#### 표 8.2.2.2.a101-1. 레이어별 LCh의 L(Lightness) 값 방정식 계산
 
-|위쪽 레이어|아래쪽 레이어|결과 색상|
+|위쪽 레이어|아래쪽 레이어|결과 값|
 |---|---|---|
 |96.1|60.2|96.1|
 
@@ -41,7 +41,7 @@
 ### 1-3-2. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드의 방정식 계산 - HSV의 V(Value) 기준
 #### 표 8.2.2.2.a102-1. 레이어별 HSV의 V(Value) 값
 
-|위쪽 레이어|아래쪽 레이어|결과 색상|
+|위쪽 레이어|아래쪽 레이어|결과 값|
 |---|---|---|
 |60.5|300.0|60.5|
 
@@ -67,9 +67,9 @@
 #### 그림 8.2.2.2.a12. 레이어 모드: 각 레이어별 휘도 정보
 ![layer_mode-lighten-02-luma-color_examples-01-comparison-lch(w1080)-focus](https://github.com/wonder13662/gimp/assets/15767104/85ba3968-5a14-4c14-8922-7c50ee456ac4)
 
-#### 표 8.2.2.2.a13. 레이어별 LCh의 L(Lightness) 값
+#### 표 8.2.2.2.a13. 레이어별 LCh의 L(Lightness) 값 방정식 계산
 
-|위쪽 레이어|아래쪽 레이어|결과 색상|
+|위쪽 레이어|아래쪽 레이어|결과 값|
 |---|---|---|
 |96.1|60.2|96.1|
 
@@ -88,9 +88,9 @@
 #### 그림 8.2.2.2.a22. 레이어 모드: 각 레이어별 휘도 정보
 ![layer_mode-lighten-02-luma-color_examples-02-comparison-lch(w1080)-focus-luma](https://github.com/wonder13662/gimp/assets/15767104/57507423-1096-4c37-968d-1917bda19775)
 
-#### 표 8.2.2.2.a23. 레이어별 LCh의 L(Lightness) 값
+#### 표 8.2.2.2.a23. 레이어별 LCh의 L(Lightness) 값 방정식 계산
 
-|위쪽 레이어|아래쪽 레이어|결과 색상|
+|위쪽 레이어|아래쪽 레이어|결과 값|
 |---|---|---|
 |61.6|27.7|61.6|
 
@@ -109,9 +109,9 @@
 #### 그림 8.2.2.2.a32. 레이어 모드: 각 레이어별 휘도 정보
 ![layer_mode-lighten-02-luma-color_examples-03-comparison-lch(w1080)-focus-luma](https://github.com/wonder13662/gimp/assets/15767104/20a1dead-5ef7-49b7-addf-0406bace23f5)
 
-#### 표 8.2.2.2.a33. 레이어별 LCh의 L(Lightness) 값
+#### 표 8.2.2.2.a33. 레이어별 LCh의 L(Lightness) 값 방정식 계산
 
-|위쪽 레이어|아래쪽 레이어|결과 색상|
+|위쪽 레이어|아래쪽 레이어|결과 값|
 |---|---|---|
 |61.6|0|61.6|
 
@@ -130,9 +130,9 @@
 #### 그림 8.2.2.2.a42. 레이어 모드: 각 레이어별 휘도 정보
 ![layer_mode-lighten-02-luma-color_examples-04-comparison-lch(w1080)-focus-lch](https://github.com/wonder13662/gimp/assets/15767104/00380343-adef-4d84-90d6-386228925898)
 
-#### 표 8.2.2.2.a43. 레이어별 LCh의 L(Lightness) 값
+#### 표 8.2.2.2.a43. 레이어별 LCh의 L(Lightness) 값 방정식 계산
 
-|위쪽 레이어|아래쪽 레이어|결과 색상|
+|위쪽 레이어|아래쪽 레이어|결과 값|
 |---|---|---|
 |61.6|100|100|
 
