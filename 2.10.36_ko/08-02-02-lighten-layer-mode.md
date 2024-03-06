@@ -102,6 +102,11 @@
 
 위의 설명에서와 같이 위쪽 레이어의 RGB Red(227.0)와 아래쪽 레이어의 RGB Red(53.0)의 더한 값은 280입니다. 하지만 실제 결과값은 232.0 이므로 두 레이어의 RGB 값을 더한 것과 같지 않습니다.
 
+[comment]: <> (TODO 관련 소스 코드 app/operations/layer-modes/gimpoperationlayermode-blend.c)
+[comment]: <> (TODO 관련 메서드 gimp_operation_layer_mode_blend_addition)
+[comment]: <> (TODO 관련 소스 코드 app/operations/layer-modes-legacy/gimpoperationadditionlegacy.c)
+[comment]: <> (TODO 관련 메서드 gimp_operation_addition_legacy_process)
+
 ***
 
 ## 다른 페이지로 가기
