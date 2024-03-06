@@ -65,49 +65,22 @@
 #### 그림 8.2.2.2.a11. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
 ![layer_mode-lighten-02-luma-color_examples-01](https://github.com/wonder13662/gimp/assets/15767104/b54908fb-c564-4924-808b-81568faf4ec7)
 
-#### 그림 8.2.2.a101. 레이어 모드: 예제1 - 위쪽 레이어 색상 정보
-![layer_mode-lighten-color_example-01-top_layer-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/0b3c8936-39be-48f0-8bda-30c266deec0c)
+#### 그림 8.2.2.a101. 레이어 모드: 각 레이어별 휘도 정보
+![layer_mode-lighten-02-luma-color_examples-01-comparison-lch(w1080)-focus](https://github.com/wonder13662/gimp/assets/15767104/85ba3968-5a14-4c14-8922-7c50ee456ac4)
 
-#### 그림 8.2.2.a102. 레이어 모드: 예제1 - 아래쪽 레이어 색상 정보
-![layer_mode-lighten-color_example-01-bottom_layer-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/11159a29-09e1-4ed3-96ed-a57b0ba715d6)
+#### 표 8.2.2.2.a101-1. 레이어별 LCh의 L(Lightness) 값
 
-#### 그림 8.2.2.2.a12. 결과 이미지의 색상 정보
-![layer_mode-lighten-01-lighten_only-color_example-01-result(50%)-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/d4bbffc9-549a-4754-ab79-c436407b3730)
-
-### 2-1. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드의 RGB의 Red 값 구하기
-- 위쪽 레이어의 RGB Red: 249
-- 아래쪽 레이어의 RGB Red: 255
-- 최종 결과 RGB Red: 255
+|위쪽 레이어|아래쪽 레이어|결과 색상|
+|---|---|---|
+|96.1|60.2|96.1|
 
 ```
-최종 결과 RGB Red
-= max(249, 255)
-= 255
+선택된 LCh의 L(Lightness) 값
+= max(96.1, 60.2)
+= 96.1
 ```
 
-### 2-2. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드의 RGB의 Green 값 구하기
-- 위쪽 레이어의 RGB Green: 251
-- 아래쪽 레이어의 RGB Green: 0
-- 최종 결과 RGB Green: 251
-
-```
-최종 결과 RGB Green
-= max(251, 0)
-= 251
-```
-
-### 2-3. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드의 RGB의 Blue 값 구하기
-- 위쪽 레이어의 RGB Green: 10
-- 아래쪽 레이어의 RGB Green: 255
-- 최종 결과 RGB Green: 255
-
-```
-최종 결과 RGB Blue
-= max(10, 255)
-= 255
-```
-
-위 3가지 방정식 계산을 통해 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 방정식이 올바르게 사용되었음을 확인할 수 있습니다.
+위 방정식 계산을 통해 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 방정식이 올바르게 사용되었음을 확인할 수 있습니다.
 
 ## 3. 두번째 예제
 #### 그림 8.2.2.2.a21. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
