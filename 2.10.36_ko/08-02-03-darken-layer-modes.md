@@ -7,6 +7,8 @@
 
 `어두운 색만(Darken only)` 모드는 상위 레이어와 하위 레이어의 각 픽셀 값을 대조하여 작은 값을 선택합니다. 따라서 한 레이어가 흰색 이미지면 최종 이미지에는 변화가 없고, 검정색 이미지이면 최종 이미지는 검정색 이미지가 됩니다.
 
+[8.2.3.1. 어두운 색만(Darken only) 모드 방정식](./08-02-03-darken-layer-modesx-01-darken_only_mode_equation.md)에서 다른 사례들을 확인해볼 수 있습니다.
+
 ## 2. 휘도가 어두운 색만(Luma/Luminance darken only)
 
 ## 3. 곱하기(Multiply)
