@@ -1,7 +1,7 @@
 # 8.2.2.3. 화면(Screen) 모드 방정식
 화면(Screen) 모드는 아래와 같은 방정식을 갖습니다.
 
-#### 8.2.2.3.a21. 화면(Screen) 모드 방정식
+#### 그림 8.2.2.3.a21. 화면(Screen) 모드 방정식
 ![layer_mode-lighten-03-screen-equation](https://github.com/wonder13662/gimp/assets/15767104/981c61cb-c9c4-4f8c-9215-9d87c82f9778)
 
 위 방정식을 쉽게 풀어쓰면 아래와 같습니다.
