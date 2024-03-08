@@ -18,7 +18,7 @@
 [8.2.2.1. 밝은 색만(Lighten only) 모드 방정식](./08-02-02-lighten-layer-modex-01-lighten_only_mode_equation.md)에서 실제 사례로 확인해보실 수 있습니다.
 
 ## 2. 휘도가 밝은 색만(Luma/Luminance lighten only)
-`휘도가 밝은 색만(Luma/Luminance lighten only)` 모드는 위 아래의 레이어의 각 픽셀의 휘도(luminance)를 비교합니다. 그리고 더 큰 휘도값을 가진 픽셀의 RGB값을 결과 이미지에 씁니다. `휘도(Luminance)`값은 LCh의 L(Lightness)입니다. 이에 대한 내용은 [8.2.2.2. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 방정식](./08-02-02-lighten-layer-modex-02-luma_mode_equation.md)을 참고해주세요.
+`휘도가 밝은 색만(Luma/Luminance lighten only)` 모드는 위 아래의 레이어의 각 픽셀의 휘도(luminance)를 비교합니다. 그리고 더 큰 휘도값을 가진 픽셀의 RGB값을 결과 이미지에 씁니다. 이에 대한 내용은 [8.2.2.2. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 방정식](./08-02-02-lighten-layer-modex-02-luma_mode_equation.md)을 참고해주세요.
 
 #### 그림 8.2.2.a11. 휘도가 밝은 색만(Luma/Luminance lighten only)
 ![layer_mode-lighten-02-luma_luminance_lighten_only](https://github.com/wonder13662/gimp/assets/15767104/dd263715-e508-42e1-a75f-3781b744faa7)
