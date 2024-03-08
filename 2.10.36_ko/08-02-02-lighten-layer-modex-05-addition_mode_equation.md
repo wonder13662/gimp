@@ -32,36 +32,36 @@
 ![layer_mode-lighten-05-addition-color_example-01-result(50%)-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/193d1981-1d19-4d38-9a80-638c5c2216ed)
 
 ### 1-1. 더하기(Addition) 모드의 RGB의 Red 값 구하기
-- 위쪽 레이어의 RGB Red: 249
-- 아래쪽 레이어의 RGB Red: 255
-- 최종 결과 RGB Red: 255
+- 위쪽 레이어의 RGB(Red): 249
+- 아래쪽 레이어의 RGB(Red): 255
+- 최종 결과 RGB(Red): 255
 
 ```
-최종 결과 RGB Red
+최종 결과 RGB(Red)
 = min((255 + 249), 255)
 = min(504, 255)
 = 255
 ```
 
 ### 1-2. 더하기(Addition) 모드의 RGB의 Green 값 구하기
-- 위쪽 레이어의 RGB Green: 251
-- 아래쪽 레이어의 RGB Green: 0
-- 최종 결과 RGB Green: 251
+- 위쪽 레이어의 RGB(Green): 251
+- 아래쪽 레이어의 RGB(Green): 0
+- 최종 결과 RGB(Green): 251
 
 ```
-최종 결과 RGB Green
+최종 결과 RGB(Green)
 = min((0 + 251), 255)
 = min(251, 255)
 = 251
 ```
 
 ### 1-3. 더하기(Addition) 모드의 RGB의 Blue 값 구하기
-- 위쪽 레이어의 RGB Green: 10
-- 아래쪽 레이어의 RGB Green: 255
-- 최종 결과 RGB Green: 255
+- 위쪽 레이어의 RGB(Green): 10
+- 아래쪽 레이어의 RGB(Green): 255
+- 최종 결과 RGB(Green): 255
 
 ```
-최종 결과 RGB Blue
+최종 결과 RGB(Blue)
 = min((255 + 10), 255)
 = min(265, 255)
 = 255
@@ -83,36 +83,36 @@
 ![layer_mode-lighten-05-addition-color_example-02-result(50%)-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/fef06563-f6a1-4b1a-9b65-4741cfeccef4)
 
 ### 2-1. 더하기(Addition) 모드의 RGB의 Red 값 구하기
-- 위쪽 레이어의 RGB Red: 227
-- 아래쪽 레이어의 RGB Red: 53
-- 최종 결과 RGB Red: 232 (TODO 계산 값과 다름!)
+- 위쪽 레이어의 RGB(Red): 227
+- 아래쪽 레이어의 RGB(Red): 53
+- 최종 결과 RGB(Red): 232 (TODO 계산 값과 다름!)
 
 ```
-최종 결과 RGB Red
+최종 결과 RGB(Red)
 = min((53 + 227), 255)
 = min(280, 255)
 = 255
 ```
 
 ### 2-2. 더하기(Addition) 모드의 RGB의 Green 값 구하기
-- 위쪽 레이어의 RGB Green: 113
-- 아래쪽 레이어의 RGB Green: 61
-- 최종 결과 RGB Green: 127 (TODO 계산 값과 다름!)
+- 위쪽 레이어의 RGB(Green): 113
+- 아래쪽 레이어의 RGB(Green): 61
+- 최종 결과 RGB(Green): 127 (TODO 계산 값과 다름!)
 
 ```
-최종 결과 RGB Green
+최종 결과 RGB(Green)
 = min((61 + 113), 255)
 = min(174, 255)
 = 174
 ```
 
 ### 2-3. 더하기(Addition) 모드의 RGB의 Blue 값 구하기
-- 위쪽 레이어의 RGB Green: 113
-- 아래쪽 레이어의 RGB Green: 123
-- 최종 결과 RGB Green: 162 (TODO 계산 값과 다름!)
+- 위쪽 레이어의 RGB(Green): 113
+- 아래쪽 레이어의 RGB(Green): 123
+- 최종 결과 RGB(Green): 162 (TODO 계산 값과 다름!)
 
 ```
-최종 결과 RGB Blue
+최종 결과 RGB(Blue)
 = min((123 + 113), 255)
 = min(236, 255)
 = 236
