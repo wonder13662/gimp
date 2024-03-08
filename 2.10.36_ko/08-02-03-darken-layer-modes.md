@@ -12,6 +12,8 @@
 #### 영상 8.2.3.a11. 어두운 색만(Darken only) - 서로 바꿀 수 있는 레이어(Commutative Layer)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3e1f48f5-058d-436b-a845-ce46a35ac280"></video>
 
+`어두운 색만(Darken only)` 모드는 [`밝은 색만(Lighten only)`](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-mode.html#1-%EB%B0%9D%EC%9D%80-%EC%83%89%EB%A7%8Clighten-only)의 동작과 반대로 동작합니다.
+
 [8.2.3.1. 어두운 색만(Darken only) 모드 방정식](./08-02-03-darken-layer-modesx-01-darken_only_mode_equation.md)에서 다른 사례들을 확인해볼 수 있습니다.
 
 ## 2. 휘도가 어두운 색만(Luma/Luminance darken only)
