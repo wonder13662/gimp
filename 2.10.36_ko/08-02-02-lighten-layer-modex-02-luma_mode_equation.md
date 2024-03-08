@@ -67,6 +67,8 @@
 #### 그림 8.2.2.2.a11. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
 ![layer_mode-lighten-02-luma-color_examples-01](https://github.com/wonder13662/gimp/assets/15767104/b54908fb-c564-4924-808b-81568faf4ec7)
 
+[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`로 휘도값을 가진 흑백이미지로 변경합니다.
+
 #### 그림 8.2.2.2.a12. 레이어 모드: 각 레이어별 휘도 정보
 ![layer_mode-lighten-02-luma-color_examples-01-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/a7347b5d-cdc0-4b09-a14e-d66821bbef46)
 
@@ -91,7 +93,7 @@
 |녹색(Green)|251.0|0.0|251.0|
 |청색(Blue)|10.0|255.0|10.0|
 
-위 계산 결과를 통하여 휘도가 96.1로 더 밝은 위쪽 레이어의 색상이 선택된 것을 확인할 수 있습니다.
+위 계산 결과를 통하여 휘도가 244.0로 더 밝은 `위쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
 
 ## 2-2. 두번째 예제
 #### 그림 8.2.2.2.a21. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
