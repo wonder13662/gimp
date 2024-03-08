@@ -55,7 +55,7 @@ GIMP(김프)에서 회색음영으로 이미지 변경시에 필요한 휘도값
 
 #### 무채화(Desaturate) 옵션 - 회색음영(The shade of gray) 방정식
 ```
-Luma = (0.22 × R) + (0.72 × G) + (0.06 × B)
+Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 ```
 
 더 자세한 내용은 [19.용어집 - 휘도(Luminance)](./19-glossaryx-luminance.md)를 참고해주세요.

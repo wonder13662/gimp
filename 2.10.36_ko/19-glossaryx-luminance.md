@@ -2,7 +2,7 @@
 
 #### 무채화(Desaturate) 옵션 - 회색음영(The shade of gray) 방정식
 ```
-Luma = (0.22 × R) + (0.72 × G) + (0.06 × B)
+Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 ```
 
 *** 
