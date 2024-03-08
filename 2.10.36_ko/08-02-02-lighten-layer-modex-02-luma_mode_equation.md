@@ -99,22 +99,33 @@
 #### 그림 8.2.2.2.a21. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
 ![layer_mode-lighten-02-luma-color_examples-02](https://github.com/wonder13662/gimp/assets/15767104/005ba29a-8b46-44b3-b7f4-baa4c58560b1)
 
+[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`로 휘도값을 가진 흑백이미지로 변경합니다.
+
 #### 그림 8.2.2.2.a22. 레이어 모드: 각 레이어별 휘도 정보
-![layer_mode-lighten-02-luma-color_examples-01-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/a7347b5d-cdc0-4b09-a14e-d66821bbef46)
+![layer_mode-lighten-02-luma-color_examples-02-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/76cd39b8-eeb1-42e5-af59-80d00373818d)
 
-#### 표 8.2.2.2.a25. 레이어별 LCh의 L(Lightness) 값 방정식 계산
-
-|위쪽 레이어|아래쪽 레이어|결과 값|
+||위쪽 레이어|아래쪽 레이어|
 |---|---|---|
-|61.6|27.7|61.6|
+|적색(Red)|149.0|65.0|
+|녹색(Green)|149.0|65.0|
+|청색(Blue)|149.0|65.0|
 
 ```
-선택된 LCh의 L(Lightness) 값
-= max(61.6, 27.7)
-= 61.6
+선택된 휘도(Luminance) 값
+= max(149.0, 65.0)
+= 149.0
 ```
 
-위 계산 결과를 통하여 휘도가 61.6으로 더 밝은 위쪽 레이어의 색상이 선택된 것을 확인할 수 있습니다.
+#### 그림 8.2.2.2.a23. 레이어 모드: 각 레이어별 RGB 정보
+![layer_mode-lighten-02-luma-color_examples-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/1dc4efb7-b9f7-4d04-b351-3cc43d365b4e)
+
+||위쪽 레이어|아래쪽 레이어|레이어 모드 적용 결과|
+|---|---|---|---|
+|적색(Red)|227.0|53.0|227.0|
+|녹색(Green)|113.0|61.0|113.0|
+|청색(Blue)|113.0|123.0|113.0|
+
+위 계산 결과를 통하여 휘도가 149.0로 더 밝은 `위쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
 
 ### 2-3. 세번째 예제 - 아래쪽 레이어가 검은색
 #### 그림 8.2.2.2.a31. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
