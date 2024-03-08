@@ -63,7 +63,7 @@
 
 그럼 실제 사례를 살펴보겠습니다.
 
-## 2-1. 첫번째 예제
+### 2-1. 첫번째 예제
 #### 그림 8.2.2.2.a11. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
 ![layer_mode-lighten-02-luma-color_examples-01](https://github.com/wonder13662/gimp/assets/15767104/b54908fb-c564-4924-808b-81568faf4ec7)
 
@@ -95,7 +95,7 @@
 
 위 계산 결과를 통하여 휘도가 244.0로 더 밝은 `위쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
 
-## 2-2. 두번째 예제
+### 2-2. 두번째 예제
 #### 그림 8.2.2.2.a21. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
 ![layer_mode-lighten-02-luma-color_examples-02](https://github.com/wonder13662/gimp/assets/15767104/005ba29a-8b46-44b3-b7f4-baa4c58560b1)
 
