@@ -50,6 +50,15 @@
 ### 1-3. 결론
 계산에서 결과값으로 받은 휘도(Luminance) 값(244.0)의 무채화 이전의 RGB 색상값과 "레이어 모드 적용 결과"의 RGB 색상값이 일치합니다. 그러므로 휘도(Luminance)을 기준으로 `휘도가 밝은 색만(Luma/Luminance lighten only) 모드`가 동작하는 것을 확인할 수 있습니다.
 
+#### 그림 8.2.2.2.a23. 레이어 모드: 각 레이어별 RGB 정보
+![layer_mode-lighten-02-luma-color_examples-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/d5305f19-9abd-43ed-9729-b7163c7f3b9e)
+
+||위쪽 레이어|아래쪽 레이어|레이어 모드 적용 결과|
+|---|---|---|---|
+|적색(Red)|249.0|255.0|249.0|
+|녹색(Green)|251.0|0.0|251.0|
+|청색(Blue)|10.0|255.0|10.0|
+
 ## 2. 예제들
 
 그럼 실제 사례를 살펴보겠습니다.
@@ -80,9 +89,9 @@
 ![layer_mode-lighten-02-luma-color_examples-02](https://github.com/wonder13662/gimp/assets/15767104/005ba29a-8b46-44b3-b7f4-baa4c58560b1)
 
 #### 그림 8.2.2.2.a22. 레이어 모드: 각 레이어별 휘도 정보
-![layer_mode-lighten-02-luma-color_examples-02-comparison-lch(w1080)-focus-luma](https://github.com/wonder13662/gimp/assets/15767104/57507423-1096-4c37-968d-1917bda19775)
+![layer_mode-lighten-02-luma-color_examples-01-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/a7347b5d-cdc0-4b09-a14e-d66821bbef46)
 
-#### 표 8.2.2.2.a23. 레이어별 LCh의 L(Lightness) 값 방정식 계산
+#### 표 8.2.2.2.a25. 레이어별 LCh의 L(Lightness) 값 방정식 계산
 
 |위쪽 레이어|아래쪽 레이어|결과 값|
 |---|---|---|
