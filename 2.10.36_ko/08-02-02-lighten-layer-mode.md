@@ -107,6 +107,7 @@
 [comment]: <> (TODO 관련 메서드 gimp_operation_layer_mode_blend_addition)
 [comment]: <> (TODO 관련 소스 코드 app/operations/layer-modes-legacy/gimpoperationadditionlegacy.c)
 [comment]: <> (TODO 관련 메서드 gimp_operation_addition_legacy_process)
+[comment]: <> (TODO https://www.gimp-forum.net/Thread-Layer-Mode-Addition-equation-is-working-differently-to-official-guide)
 
 ***
 

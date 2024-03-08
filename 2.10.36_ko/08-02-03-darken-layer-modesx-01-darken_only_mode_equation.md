@@ -16,9 +16,34 @@
 ## 1. 첫번째 예제
 
 #### 그림 8.2.3.1.a101. 어두운 색만(Darken only) 모드 예제
-![layer_mode-lighten-01-darken_only-color_example-01](https://github.com/wonder13662/gimp/assets/15767104/60828095-c55c-4e18-8d20-b3b6142a16cb)
+![layer_mode-darken-01-darken_only-color_example-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/87c56e73-b94d-4303-94e1-870619e5c079)
 
 ### 1-1. 어두운 색만(Darken only) 모드의 RGB의 Red 값 구하기
+#### 그림 8.2.3.1.a111. 각 레이어별 RGB  값
+![layer_mode-darken-01-darken_only-color_example-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/29f37554-28ac-4c7b-b367-6cdadbce3c3f)
+
+#### 표 8.2.3.1.a112. 레이어별 RGB의 Red 값 방정식 계산
+
+||위쪽 레이어|아래쪽 레이어|결과 값|
+|---|---|---|---|
+|RGB Red|249.0|255.0|249.0|
+|RGB Green|251.0|0.0|0.0|
+|RGB Blue|10.0|255.0|10.0|
+
+```
+결과 값 RGB Red
+= min(249.0, 255.0)
+= 249.0
+
+결과 값 RGB Green
+= min(251.0, 0.0)
+= 0.0
+
+결과 값 RGB Blue
+= min(10.0, 255.0)
+= 10.0
+```
+
 #### 그림 8.2.3.1.a111. 각 레이어별 RGB의 Red 값
 ![layer_mode-lighten-01-darken_only-color_example-01-comparison-rgb(w1080)-focus-RGB_Red](https://github.com/wonder13662/gimp/assets/15767104/c13f261e-207b-4ed4-a262-5d59cada0663)
 

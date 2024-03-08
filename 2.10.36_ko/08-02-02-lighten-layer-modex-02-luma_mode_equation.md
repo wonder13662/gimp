@@ -32,7 +32,7 @@
 
 그 결과, 이미지는 흑백이미지로 바뀌면서, RGB 채널에 동일한 휘도(Luminance) 값이 적용됩니다. 이제 `휘도가 밝은 색만(Luma/Luminance lighten only) 모드`에서 선택될 색상을 판단할 수 있습니다. 이 예제에서는 휘도값이 244인 위쪽 레이어의 색상이 선택됩니다.
 
-#### 그림 8.2.2.2.a12. 레이어 모드: 각 레이어별 휘도 정보
+#### 그림 8.2.2.2.a12. 각 레이어별 휘도 정보
 ![layer_mode-lighten-02-luma-color_examples-01-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/a7347b5d-cdc0-4b09-a14e-d66821bbef46)
 
 ||위쪽 레이어|아래쪽 레이어|
@@ -60,7 +60,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 
 더 자세한 내용은 [19.용어집 - 휘도(Luminance)](./19-glossaryx-luminance.md)를 참고해주세요.
 
-#### 그림 8.2.2.2.a13. 레이어 모드: 각 레이어별 RGB 정보
+#### 그림 8.2.2.2.a13. 각 레이어별 RGB 정보
 ![layer_mode-lighten-02-luma-color_examples-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/d5305f19-9abd-43ed-9729-b7163c7f3b9e)
 
 ||위쪽 레이어|아래쪽 레이어|레이어 모드 적용 결과|
@@ -79,7 +79,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 
 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`로 휘도값을 가진 흑백이미지로 변경합니다.
 
-#### 그림 8.2.2.2.a12. 레이어 모드: 각 레이어별 휘도 정보
+#### 그림 8.2.2.2.a12. 각 레이어별 휘도 정보
 ![layer_mode-lighten-02-luma-color_examples-01-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/a7347b5d-cdc0-4b09-a14e-d66821bbef46)
 
 ||위쪽 레이어|아래쪽 레이어|
@@ -94,7 +94,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 = 244.0
 ```
 
-#### 그림 8.2.2.2.a13. 레이어 모드: 각 레이어별 RGB 정보
+#### 그림 8.2.2.2.a13. 각 레이어별 RGB 정보
 ![layer_mode-lighten-02-luma-color_examples-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/d5305f19-9abd-43ed-9729-b7163c7f3b9e)
 
 ||위쪽 레이어|아래쪽 레이어|레이어 모드 적용 결과|
@@ -111,7 +111,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 
 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`로 휘도값을 가진 흑백이미지로 변경합니다.
 
-#### 그림 8.2.2.2.a22. 레이어 모드: 각 레이어별 휘도 정보
+#### 그림 8.2.2.2.a22. 각 레이어별 휘도 정보
 ![layer_mode-lighten-02-luma-color_examples-02-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/76cd39b8-eeb1-42e5-af59-80d00373818d)
 
 ||위쪽 레이어|아래쪽 레이어|
@@ -126,7 +126,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 = 149.0
 ```
 
-#### 그림 8.2.2.2.a23. 레이어 모드: 각 레이어별 RGB 정보
+#### 그림 8.2.2.2.a23. 각 레이어별 RGB 정보
 ![layer_mode-lighten-02-luma-color_examples-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/1dc4efb7-b9f7-4d04-b351-3cc43d365b4e)
 
 ||위쪽 레이어|아래쪽 레이어|레이어 모드 적용 결과|
@@ -143,7 +143,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 
 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`로 휘도값을 가진 흑백이미지로 변경합니다.
 
-#### 그림 8.2.2.2.a32. 레이어 모드: 각 레이어별 휘도 정보
+#### 그림 8.2.2.2.a32. 각 레이어별 휘도 정보
 ![layer_mode-lighten-02-luma-color_examples-03-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/8368de5a-63ce-45a9-8efd-e3547579e635)
 
 ||위쪽 레이어|아래쪽 레이어|
@@ -158,7 +158,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 = 149.0
 ```
 
-#### 그림 8.2.2.2.a33. 레이어 모드: 각 레이어별 RGB 정보
+#### 그림 8.2.2.2.a33. 각 레이어별 RGB 정보
 ![layer_mode-lighten-02-luma-color_examples-03-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/ac050f7d-4694-476a-8580-b5bcf3104f86)
 
 ||위쪽 레이어|아래쪽 레이어|레이어 모드 적용 결과|
@@ -173,7 +173,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 #### 그림 8.2.2.2.a41. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
 ![layer_mode-lighten-02-luma-color_examples-04-white](https://github.com/wonder13662/gimp/assets/15767104/f51a6c1d-9b4b-4a50-9d82-bc22ebf8e058)
 
-#### 그림 8.2.2.2.a42. 레이어 모드: 각 레이어별 휘도 정보
+#### 그림 8.2.2.2.a42. 각 레이어별 휘도 정보
 ![layer_mode-lighten-02-luma-color_examples-04-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/5511dd4d-21a0-4dc6-baf9-ef3d993e561b)
 
 ||위쪽 레이어|아래쪽 레이어|
@@ -188,7 +188,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 = 255.0
 ```
 
-#### 그림 8.2.2.2.a43. 레이어 모드: 각 레이어별 RGB 정보
+#### 그림 8.2.2.2.a43. 각 레이어별 RGB 정보
 ![layer_mode-lighten-02-luma-color_examples-04-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/ca5058ac-0271-42a0-adcb-de9b676e06ee)
 
 ||위쪽 레이어|아래쪽 레이어|레이어 모드 적용 결과|
