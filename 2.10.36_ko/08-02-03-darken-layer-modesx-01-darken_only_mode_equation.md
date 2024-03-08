@@ -14,15 +14,14 @@
 그럼 실제 사례를 살펴보겠습니다.
 
 ## 1. 첫번째 예제
-
 #### 그림 8.2.3.1.a101. 어두운 색만(Darken only) 모드 예제
 ![layer_mode-darken-01-darken_only-color_example-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/87c56e73-b94d-4303-94e1-870619e5c079)
 
-### 1-1. 어두운 색만(Darken only) 모드의 RGB의 Red 값 구하기
+### 1-1. 어두운 색만(Darken only) 모드의 RGB 값 구하기
 #### 그림 8.2.3.1.a111. 각 레이어별 RGB  값
 ![layer_mode-darken-01-darken_only-color_example-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/29f37554-28ac-4c7b-b367-6cdadbce3c3f)
 
-#### 표 8.2.3.1.a112. 레이어별 RGB의 Red 값 방정식 계산
+#### 표 8.2.3.1.a112. 레이어별 RGB 값 방정식 계산
 
 ||위쪽 레이어|아래쪽 레이어|결과 값|
 |---|---|---|---|
@@ -48,73 +47,33 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 
 ## 2. 두번째 예제
 #### 그림 8.2.3.1.a201. 어두운 색만(Darken only) 모드 예제
-![layer_mode-lighten-01-darken_only-color_example-02](https://github.com/wonder13662/gimp/assets/15767104/1c72c7f6-fa38-45de-840c-7e89f8c41299)
+![layer_mode-darken-01-darken_only-color_example-02(50%)](https://github.com/wonder13662/gimp/assets/15767104/0e5ef339-dfe8-48f6-b478-97f3bd763e0b)
 
-### 2-1. 어두운 색만(Darken only) 모드의 RGB의 Red 값 구하기
-#### 그림 8.2.3.1.a211. 각 레이어별 RGB의 Red 값
-![layer_mode-lighten-01-darken_only-color_example-02-comparison-rgb(w1080)-focus-RGB_Red](https://github.com/wonder13662/gimp/assets/15767104/9ae94dbb-7da1-4048-9182-10c917b04905)
+### 2-1. 어두운 색만(Darken only) 모드의 RGB 값 구하기
+#### 그림 8.2.3.1.a211. 각 레이어별 RGB 값
+![layer_mode-darken-01-darken_only-color_example-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/5d9a5090-6bd5-48f7-b5fa-628d4f14ee69)
 
-#### 표 8.2.3.1.a212. 레이어별 RGB의 Red 값 방정식 계산
+#### 표 8.2.3.1.a212. 레이어별 RGB 값 방정식 계산
 
-|위쪽 레이어|아래쪽 레이어|결과 값|
-|---|---|---|
-|227.0|53.0|53.0|
+||위쪽 레이어|아래쪽 레이어|결과 값|
+|---|---|---|---|
+|RGB Red|227.0|53.0|53.0|
+|RGB Green|113.0|61.0|61.0|
+|RGB Blue|113.0|123.0|113.0|
 
 ```
-최종 결과 RGB Red
+결과 값 RGB Red
 = min(227.0, 53.0)
-= 53.0
-```
+= 3.0
 
-위 계산 결과를 통하여 얻은 RGB의 Red 값인 53.0가 "레이어 모드 적용 결과"의 "전경색 바꾸기" 대화상자의 `R` 값과 같은 것을 확인할 수 있습니다.
-
-### 2-2. 어두운 색만(Darken only) 모드의 RGB의 Green 값 구하기
-#### 그림 8.2.3.1.a221. 각 레이어별 RGB의 Green 값
-![layer_mode-lighten-01-darken_only-color_example-02-comparison-rgb(w1080)-focus-RGB_Green](https://github.com/wonder13662/gimp/assets/15767104/1ec2a764-e985-4351-be54-3eade0990814)
-
-#### 표 8.2.3.1.a212. 레이어별 RGB의 Green 값 방정식 계산
-
-|위쪽 레이어|아래쪽 레이어|결과 값|
-|---|---|---|
-|113.0|61.0|61.0|
-
-```
-최종 결과 RGB Green
+결과 값 RGB Green
 = min(113.0, 61.0)
 = 61.0
-```
 
-위 계산 결과를 통하여 얻은 RGB의 Green 값인 61.0가 "레이어 모드 적용 결과"의 "전경색 바꾸기" 대화상자의 `G` 값과 같은 것을 확인할 수 있습니다.
-
-### 2-3. 어두운 색만(Darken only) 모드의 RGB의 Blue 값 구하기
-#### 그림 8.2.3.1.a231. 각 레이어별 RGB의 Blue 값
-![layer_mode-lighten-01-darken_only-color_example-02-comparison-rgb(w1080)-focus-RGB_Blue](https://github.com/wonder13662/gimp/assets/15767104/a4d8661b-eb68-4e30-a9e3-a8c2f3fcbde1)
-
-#### 표 8.2.3.1.a232. 레이어별 RGB의 Blue 값 방정식 계산
-
-|위쪽 레이어|아래쪽 레이어|결과 값|
-|---|---|---|
-|113.0|123.0|113.0|
-
-```
-최종 결과 RGB Blue
+결과 값 RGB Blue
 = min(113.0, 123.0)
 = 113.0
 ```
-
-위 계산 결과를 통하여 얻은 RGB의 Blue 값인 113.0가 "레이어 모드 적용 결과"의 "전경색 바꾸기" 대화상자의 `B` 값과 같은 것을 확인할 수 있습니다.
-
-### 2-4. 최종 결과 RGB
-#### 그림 8.2.3.1.a241. GIMP(김프)에서 `어두운 색만(Darken only)` 모드를 적용하여 얻은 RGB 값
-![layer_mode-lighten-01-darken_only-color_example-02-result(50%)-focus-RGB](https://github.com/wonder13662/gimp/assets/15767104/321fa4cd-62e2-450c-8469-854d87423159)
-
-#### 표 8.2.3.1.a242. 방정식 계산으로 얻은 최종 결과 RGB 값
-
-|RGB 채널|색상값|
-|---|---|
-|Red|53.0|
-|Green|61.0|
-|Blue|113.0|
 
 GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
