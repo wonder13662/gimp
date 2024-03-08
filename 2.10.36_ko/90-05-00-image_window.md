@@ -84,7 +84,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.62. 레이어 속성 편집(Edit Layer Attributes)](./90-04-62-edit_layer_attributes.md)
+[⬅️ 이전: 90.4.63. 무채화(Desaturate)](./90-04-63-desaturate.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

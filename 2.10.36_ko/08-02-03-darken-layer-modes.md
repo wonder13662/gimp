@@ -5,11 +5,18 @@
 #### 그림 8.2.3.a10. 어두운 색만(Darken only)
 ![layer_mode-darken-01-darken_only](https://github.com/wonder13662/gimp/assets/15767104/9da2f52f-87ab-4d09-9db1-f2386145745a)
 
-`어두운 색만(Darken only)` 모드는 상위 레이어와 하위 레이어의 각 픽셀 값을 대조하여 작은 값을 선택합니다. 따라서 한 레이어가 흰색 이미지면 최종 이미지에는 변화가 없고, 검정색 이미지이면 최종 이미지는 검정색 이미지가 됩니다.
+`어두운 색만(Darken only)` 모드는 상위 레이어와 하위 레이어의 각 픽셀 값을 대조하여 작은 값을 선택합니다. 따라서 한 레이어가 [흰색 이미지](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-03-darken-layer-modesx-01-darken_only_mode_equation.html#4-%EB%84%A4%EB%B2%88%EC%A7%B8-%EC%98%88%EC%A0%9C---%EC%95%84%EB%9E%98%EC%AA%BD-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%ED%95%98%EC%96%80%EC%83%89)면 최종 이미지에는 변화가 없고, [검정색 이미지](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-03-darken-layer-modesx-01-darken_only_mode_equation.html#3-%EC%84%B8%EB%B2%88%EC%A7%B8-%EC%98%88%EC%A0%9C---%EC%95%84%EB%9E%98%EC%AA%BD-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%EA%B2%80%EC%9D%80%EC%83%89)이면 최종 이미지는 검정색 이미지가 됩니다.
+
+`어두운 색만(Darken only)` 모드는 `서로 바꿀 수 있는 레이어(Commutative Layer)` 모드이므로 두 레이어 모두 `어두운 색만(Darken only)` 모드이면 레이어의 순서를 바꿔도 두 레이어가 겹치는 부분에 대해서는 결과가 같습니다. 다만, 아래쪽 레이어의 투명 영역에 대해서는 이 레이어 모드의 효과가 적용되지 않으므로 주의하세요.
+
+#### 영상 8.2.3.a11. 어두운 색만(Darken only) - 서로 바꿀 수 있는 레이어(Commutative Layer)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3e1f48f5-058d-436b-a845-ce46a35ac280"></video>
 
 [8.2.3.1. 어두운 색만(Darken only) 모드 방정식](./08-02-03-darken-layer-modesx-01-darken_only_mode_equation.md)에서 다른 사례들을 확인해볼 수 있습니다.
 
 ## 2. 휘도가 어두운 색만(Luma/Luminance darken only)
+
+Luma/luminance Darken only mode compares the luminance of each pixel in the upper layer with the corresponding one in the lower layer and uses the smaller value in the resulting image. Completely white layers have no effect on the final image and completely black layers result in 
 
 ## 3. 곱하기(Multiply)
 

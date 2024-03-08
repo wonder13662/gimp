@@ -133,3 +133,8 @@
 [🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/layer-mode-group-lighten.html)
+
+***
+
+## 관련 정보
+[Gimp-forum.net: Layer Mode: Addition equation is working differently to official guide](https://www.gimp-forum.net/Thread-Layer-Mode-Addition-equation-is-working-differently-to-official-guide?pid=38377#pid38377)

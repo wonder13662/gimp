@@ -26,7 +26,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.63. 무채화(Desaturate)](./90-04-63-desaturate.md)
 
 [⬅️ 이전: 90.4.61. 새 팔레트 가져오기(Import a New Palette)](./90-04-61-import_a_new_palette.md)
 

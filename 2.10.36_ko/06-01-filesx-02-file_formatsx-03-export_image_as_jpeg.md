@@ -165,6 +165,8 @@ DCT는 [이산 코사인 변환(discrete cosine transform)](https://ko.wikipedia
 
 [위키피디아 - 이산 코사인 변환](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%82%B0_%EC%BD%94%EC%82%AC%EC%9D%B8_%EB%B3%80%ED%99%98)
 
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 6.1.2.4. PNG로 이미지 내보내기](./06-01-filesx-02-file_formatsx-04-export_image_as_png.md)
@@ -180,3 +182,8 @@ DCT는 [이산 코사인 변환(discrete cosine transform)](https://ko.wikipedia
 [🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-images-out.html#file-jpeg-save)
+
+***
+
+## 관련 정보
+[Gimp-forum.net: JPG and profil include in the EXIFS : why ?](https://www.gimp-forum.net/Thread-JPG-and-profil-include-in-the-EXIFS-why)

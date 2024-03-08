@@ -9,52 +9,46 @@
 ⚠️ 주의: 위 방정식의 `max`은 두개의 값 중 더 큰 값을 돌려줍니다.
 
 ## 1. 픽셀의 휘도(Luminance) 값은 어디서 확인할 수 있을까요?
-공식 가이드에는 픽셀의 `휘도(Luminance)`값을 확인할 수 있는 방법을 설명하고 있지 않습니다. 그래서 `휘도가 밝은 색만(Luma/Luminance lighten only)` 모드의 예제를 통하여 `휘도(Luminance)`값으로 사용할 가능성이 높은 것을 찾아내보기로 했습니다.
+공식 가이드에는 픽셀의 `휘도(Luminance)`값을 확인할 수 있는 방법을 설명하고 있지 않습니다. 하지만 무채화 기능을 사용하여 `휘도(Luminance)`값을 확인할 수 있습니다.
 
 ### 1-1. 검사에 사용될 예제
 #### 그림 8.2.2.2.a11. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
 ![layer_mode-lighten-02-luma-color_examples-01](https://github.com/wonder13662/gimp/assets/15767104/b54908fb-c564-4924-808b-81568faf4ec7)
 
-### 1-2-1. `전경색 바꾸기` 대화상자의 LCh의 L(Lightness)가 휘도(Luminance)일 가능성
-#### 그림 8.2.2.2.a101. 위쪽 레이어 색상, 아래쪽 레이어 색상과 결과 색상의 LCh 비교
-![layer_mode-lighten-02-luma-color_examples-01-comparison-lch(w1080)-focus](https://github.com/wonder13662/gimp/assets/15767104/85ba3968-5a14-4c14-8922-7c50ee456ac4)
+### 1-2. 무채화(Desaturate)를 사용하여 휘도(Luminance) 값 구하기
+[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`를 선택하여 `무채화` 대화상자를 엽니다.
 
-### 1-2-2. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드의 방정식 계산 - LCh의 L(Lightness) 기준
-#### 표 8.2.2.2.a101-1. 레이어별 LCh의 L(Lightness) 값 방정식 계산
+#### 그림 90.1.7.16.a1. `색` → `무채화` (Windows)
+![그림 90.1.7.16.a1. `색` → `무채화` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/a35c267e-bebe-406d-9d05-2301280d1ae8)
 
-|위쪽 레이어|아래쪽 레이어|결과 값|
+[다른 운영체제와 언어의 `색` → `무채화` 확인하기](./90-01-07-colorsx-16-desaturate.md)
+
+`무채화` 대화상자의 모드 드롭다운에서 `휘도(Luminance)`를 선택합니다. 그리고 `확인` 버튼을 눌러줍니다.
+
+#### 그림 90.4.63.a115. `무채화` 대화상자 (Windows) (우리말) - 모드 드롭다운 - Luminance
+![90-04-63-dialog-desaturate(windows)(ko)-mode_dropdown-focus-mode_luminance](https://github.com/wonder13662/gimp/assets/15767104/b704e87a-99b3-4ba3-8a87-73e795a9bf61)
+
+[다른 운영체제와 언어의 `무채화` 대화상자 확인하기](./90-04-63-desaturate.md)
+
+그 결과, 이미지는 흑백이미지로 바뀌면서, RGB 채널에 동일한 휘도(Luminance) 값이 적용됩니다. 이제 `휘도가 밝은 색만(Luma/Luminance lighten only) 모드`에서 선택될 색상을 판단할 수 있습니다. 이 예제에서는 휘도값이 244인 위쪽 레이어의 색상이 선택됩니다.
+
+#### 그림 8.2.2.2.a22. 레이어 모드: 각 레이어별 휘도 정보
+![layer_mode-lighten-02-luma-color_examples-01-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/a7347b5d-cdc0-4b09-a14e-d66821bbef46)
+
+||위쪽 레이어|아래쪽 레이어|
 |---|---|---|
-|96.1|60.2|96.1|
+|적색(Red)|244.0|145.0|
+|녹색(Green)|244.0|145.0|
+|청색(Blue)|244.0|145.0|
 
 ```
-선택된 LCh의 L(Lightness) 값
-= max(96.1, 60.2)
-= 96.1
+선택된 휘도(Luminance) 값
+= max(244.0, 145.0)
+= 244.0
 ```
 
-계산에서 결과값으로 받은 LCh의 L(Lightness) 값(96.1)과 실제 픽셀의 결과 LCh의 L(Lightness) 값(96.1)이 일치합니다.
-
-### 1-3-1. `전경색 바꾸기` 대화상자의 HSV의 V(Value)가 휘도(Luminance)일 가능성
-#### 그림 8.2.2.2.a102. 위쪽 레이어 색상, 아래쪽 레이어 색상과 결과 색상의 HSV 비교
-![layer_mode-lighten-02-luma-color_examples-01-comparison-hsv(w1080)-focus](https://github.com/wonder13662/gimp/assets/15767104/9dcec7db-fc6b-47ee-9add-14479570d576)
-
-### 1-3-2. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드의 방정식 계산 - HSV의 V(Value) 기준
-#### 표 8.2.2.2.a102-1. 레이어별 HSV의 V(Value) 값
-
-|위쪽 레이어|아래쪽 레이어|결과 값|
-|---|---|---|
-|60.5|300.0|60.5|
-
-```
-선택된 HSV의 V(Value) 값
-= max(60.5, 300.0)
-= 300.0
-```
-
-계산에서 결과값으로 받은 HSV의 V(Value) 값(300.0)과 실제 픽셀의 결과 HSV의 V(Value) 값(60.5)이 일치하지 않습니다.
-
-### 1-4. 결론
-위 비교과정을 통해 휘도가 밝은 색만(Luma/Luminance lighten only) 모드에서 사용하는 `휘도(Luminance)`값은 LCh의 L(Lightness)이라고 볼 수 있습니다.
+### 1-3. 결론
+계산에서 결과값으로 받은 휘도(Luminance) 값(244.0)의 무채화 이전의 RGB 색상값과 "레이어 모드 적용 결과"의 RGB 색상값이 일치합니다. 그러므로 휘도(Luminance)을 기준으로 `휘도가 밝은 색만(Luma/Luminance lighten only) 모드`가 동작하는 것을 확인할 수 있습니다.
 
 ## 2. 예제들
 
