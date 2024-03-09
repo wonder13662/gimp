@@ -97,80 +97,40 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
 ## 3. 세번째 예제 - 아래쪽 레이어가 검은색
-#### 그림 8.2.2.3.a31. 화면(Screen) 모드 예제
-![layer_mode-lighten-03-screen-color_example-03-black](https://github.com/wonder13662/gimp/assets/15767104/57f05785-da67-4a50-a58f-20e23e0a9253)
+#### 그림 8.2.2.3.a301. 화면(Screen) 모드 예제
+![layer_mode-lighten-03-screen-color_example-03-black(50%)](https://github.com/wonder13662/gimp/assets/15767104/7b40c0d7-d540-4f16-afc9-505d722eeba8)
 
-### 3-1. 화면(Screen) 모드의 RGB의 Red 값 구하기
-#### 그림 8.2.2.3.a311. 각 레이어별 RGB의 Red 값
-![layer_mode-lighten-03-screen-color_example-03-comparison-rgb(w1080)-focus-RGB_Red](https://github.com/wonder13662/gimp/assets/15767104/4239e3f5-1c94-4440-847e-259b1c4aac1e)
+### 3-1. 화면(Screen) 모드의 RGB 값 구하기
+#### 그림 8.2.2.3.a311. 각 레이어별 RGB 값
+![layer_mode-lighten-03-screen-color_example-03-black-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/a72f18f8-cbda-4921-8465-8306069c857e)
 
-#### 표 8.2.2.3.a312. 레이어별 RGB의 Red 값 방정식 계산
+#### 표 8.2.2.3.a312. 레이어별 RGB 값 방정식 계산
 
-|위쪽 레이어|아래쪽 레이어|결과 값|
-|---|---|---|
-|227.0|0.0|227.0|
+||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
+|---|---|---|---|
+|RGB(Red)|227.0|0.0|**227.0**|
+|RGB(Green)|113.0|0.0|**113.0**|
+|RGB(Blue)|113.0|0.0|**113.0**|
 
 ```
-최종 결과 RGB(Red)
+레이어 모드 적용 결과: RGB(Red)
 = 255 - ((255 - 227.0) x (255 - 0.0) / 255)
 = 255 - (28 x 255 / 255)
 = 255 - 28
 = 227.0
-```
 
-위 계산 결과를 통하여 얻은 RGB의 Red 값인 227.0이 "레이어 모드 적용 결과"의 "전경색 바꾸기" 대화상자의 `R` 값과 같은 것을 확인할 수 있습니다.
+레이어 모드 적용 결과: RGB(Green)
+= 255 - ((255 - 113.0) x (255 - 0.0) / 255)
+= 255 - (142 x 255 / 255)
+= 255 - 142
+= 113.0
 
-### 3-2. 화면(Screen) 모드의 RGB의 Green 값 구하기
-#### 그림 8.2.2.3.a321. 각 레이어별 RGB의 Green 값
-![layer_mode-lighten-03-screen-color_example-03-comparison-rgb(w1080)-focus-RGB_Green](https://github.com/wonder13662/gimp/assets/15767104/9a6c3f8f-3ec6-4fb0-9c57-33d071af1c20)
-
-#### 표 8.2.2.3.a322. 레이어별 RGB의 Green 값 방정식 계산
-
-|위쪽 레이어|아래쪽 레이어|결과 값|
-|---|---|---|
-|113.0|0.0|113.0|
-
-```
-최종 결과 RGB(Green)
+레이어 모드 적용 결과: RGB(Blue)
 = 255 - ((255 - 113.0) x (255 - 0.0) / 255)
 = 255 - (142 x 255 / 255)
 = 255 - 142
 = 113.0
 ```
-
-위 계산 결과를 통하여 얻은 RGB의 Green 값인 113.0이 "레이어 모드 적용 결과"의 "전경색 바꾸기" 대화상자의 `G` 값과 같은 것을 확인할 수 있습니다.
-
-### 3-3. 화면(Screen) 모드의 RGB의 Blue 값 구하기
-#### 그림 8.2.2.3.a331. 각 레이어별 RGB의 Blue 값
-![layer_mode-lighten-03-screen-color_example-03-comparison-rgb(w1080)-focus-RGB_Blue](https://github.com/wonder13662/gimp/assets/15767104/4e6f76a6-4003-4c25-96b6-c68a39e491bc)
-
-#### 표 8.2.2.3.a332. 레이어별 RGB의 Blue 값 방정식 계산
-
-|위쪽 레이어|아래쪽 레이어|결과 값|
-|---|---|---|
-|113.0|0.0|113.0|
-
-```
-최종 결과 RGB(Blue)
-= 255 - ((255 - 113.0) x (255 - 0.0) / 255)
-= 255 - (142 x 255 / 255)
-= 255 - 142
-= 113.0
-```
-
-위 계산 결과를 통하여 얻은 RGB의 Blue 값인 113.0이 "레이어 모드 적용 결과"의 "전경색 바꾸기" 대화상자의 `B` 값과 같은 것을 확인할 수 있습니다.
-
-### 3-4. 최종 결과 RGB
-#### 그림 8.2.2.3.a341. GIMP(김프)에서 `화면(Screen)` 모드를 적용하여 얻은 RGB 값
-![layer_mode-lighten-03-screen-color_example-03-black-result(50%)-focus-RGB](https://github.com/wonder13662/gimp/assets/15767104/8af49aa4-ec32-402c-ae9f-9eae44e36a0b)
-
-#### 표 8.2.2.3.a342. 방정식 계산으로 얻은 최종 결과 RGB 값
-
-|RGB 채널|색상값|
-|---|---|
-|Red|227.0|
-|Green|113.0|
-|Blue|113.0|
 
 GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
