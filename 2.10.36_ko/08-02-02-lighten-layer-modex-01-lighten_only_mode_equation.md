@@ -43,76 +43,34 @@
 GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
 ## 2. 두번째 예제
-#### 그림 8.2.2.1.a21. 밝은 색만(Lighten only) 모드 예제
-![layer_mode-lighten-01-lighten_only-color_examples-02](https://github.com/wonder13662/gimp/assets/15767104/3755a45c-11a5-4dc2-a904-10ac45c64ffa)
+#### 그림 8.2.2.1.a201. 밝은 색만(Lighten only) 모드 예제
+![layer_mode-lighten-01-lighten_only-color_examples-02(50%)](https://github.com/wonder13662/gimp/assets/15767104/75bab22c-2518-40a4-b6c1-953a4b04747f)
 
 ### 2-1. 밝은 색만(Lighten only) 모드의 RGB의 Red 값 구하기
-#### 그림 8.2.2.1.a211. 각 레이어별 RGB의 Red 값
-![layer_mode-lighten-01-lighten_only-color_examples-02-comparison-rgb(w1080)-focus-RGB_Red](https://github.com/wonder13662/gimp/assets/15767104/ebdf5a0f-c0b6-4044-b9db-cdf33e247237)
+#### 그림 8.2.2.1.a211. 각 레이어별 RGB 값
+![layer_mode-lighten-01-lighten_only-color_examples-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/57cc62b0-39d7-402f-8d73-f4a1fef106d6)
 
-#### 표 8.2.2.1.a212. 레이어별 RGB의 Red 값 방정식 계산
+#### 표 8.2.2.1.a212. 레이어별 RGB 값 방정식 계산
 
-|위쪽 레이어|아래쪽 레이어|결과 값|
-|---|---|---|
-|227.0|53.0|227.0|
+||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
+|---|---|---|---|
+|RGB(Red)|227.0|53.0|**227.0**|
+|RGB(Green)|113.0|61.0|**113.0**|
+|RGB(Blue)|113.0|123.0|123.0|
 
 ```
-최종 결과 RGB(Red)
+레이어 모드 적용 결과: RGB(Red)
 = max(227.0, 53.0)
 = 227.0
-```
 
-위 계산 결과를 통하여 두 값중 더 큰 RGB의 Red 값이 227로 위쪽 레이어의 RGB(Red) 값이 선택된 것을 "결과 값"에서 확인할 수 있습니다.
-
-### 2-2. 밝은 색만(Lighten only) 모드의 RGB의 Green 값 구하기
-#### 그림 8.2.2.1.a221. 각 레이어별 RGB의 Green 값
-![layer_mode-lighten-01-lighten_only-color_examples-02-comparison-rgb(w1080)-focus-RGB_Green](https://github.com/wonder13662/gimp/assets/15767104/edc00f39-27b3-421c-8732-05080a557f64)
-
-#### 표 8.2.2.1.a212. 레이어별 RGB의 Green 값 방정식 계산
-
-|위쪽 레이어|아래쪽 레이어|결과 값|
-|---|---|---|
-|113.0|61.0|113.0|
-
-```
-최종 결과 RGB(Green)
+레이어 모드 적용 결과: RGB(Green)
 = max(113.0, 61.0)
 = 113.0
-```
 
-위 계산 결과를 통하여 두 값중 더 큰 RGB의 Green 값이 113로 위쪽 레이어의 RGB(Green) 값이 선택된 것을 "결과 값"에서 확인할 수 있습니다.
-
-### 2-3. 밝은 색만(Lighten only) 모드의 RGB의 Blue 값 구하기
-#### 그림 8.2.2.1.a231. 각 레이어별 RGB의 Blue 값
-![layer_mode-lighten-01-lighten_only-color_examples-02-comparison-rgb(w1080)-focus-RGB_Blue](https://github.com/wonder13662/gimp/assets/15767104/3a22bf10-53a0-4c78-9aff-c1d16ee66755)
-
-#### 표 8.2.2.1.a232. 레이어별 RGB의 Blue 값 방정식 계산
-
-|위쪽 레이어|아래쪽 레이어|결과 값|
-|---|---|---|
-|113.0|123.0|123.0|
-
-```
-최종 결과 RGB(Blue)
+레이어 모드 적용 결과: RGB(Blue)
 = max(113.0, 123.0)
 = 123.0
 ```
-
-위 계산 결과를 통하여 두 값중 더 큰 RGB의 Blue 값이 123으로 아래쪽 레이어의 RGB(Blue) 값이 선택된 것을 "결과 값"에서 확인할 수 있습니다.
-
-### 2-4. 최종 결과 RGB
-#### 그림 8.2.2.1.a241. GIMP(김프)에서 `밝은 색만(Lighten only)` 모드를 적용하여 얻은 RGB 값
-![layer_mode-lighten-01-lighten_only-color_examples-02-result-rgb(50%)-focus-rgb](https://github.com/wonder13662/gimp/assets/15767104/283c0b2b-0765-479d-aec1-d97aa14d3f5f)
-
-#### 표 8.2.2.1.a242. 방정식 계산으로 얻은 최종 결과 RGB 값
-
-|RGB 채널|색상값|
-|---|---|
-|Red|227.0|
-|Green|113.0|
-|Blue|123.0|
-
-GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
 ## 3. 세번째 예제 - 아래쪽 레이어가 검은색
 #### 그림 8.2.2.1.a31. 밝은 색만(Lighten only) 모드 예제
