@@ -1,59 +1,62 @@
 # 8.2.3.2. 휘도가 어두운 색만(Luma/Luminance darken only) 모드 방정식
 `휘도가 어두운 색만(Luma/Luminance darken only)` 모드는 아래와 같은 방정식을 갖습니다.
 
-#### 그림 8.2.3.1.a1. 어두운 색만(Darken only) 모드 방정식
-![layer_mode-darken-01-darken_only-equation](https://github.com/wonder13662/gimp/assets/15767104/89116205-49c1-444b-942d-afc891c45ba9)
-
-#### 8.2.3.1.a2. 어두운 색만(Darken only) 모드 방정식 해석
+#### 8.2.3.2.a2. 휘도가 어두운 색만(Luma/Luminance darken only) 모드 방정식 해석
 ```
-픽셀의 `어두운 색만(Darken only)` 모드의 RGB 색상값 = min(위쪽 레이어의 RGB 값, 아래쪽 레이어의 RGB 값)
+최종 결과 휘도값 = min(아래쪽 레이어의 휘도 값, 위쪽 레이어의 휘도 값)
 ```
 
 ⚠️ 주의: 위 방정식의 `min`은 두개의 값 중 더 작은 값을 돌려줍니다.
 
+휘도(luminance)의 값을 구하는 방법은 [1. 픽셀의 휘도(Luminance) 값은 어디서 확인할 수 있을까요?](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-modex-02-luma_mode_equation.html#1-%ED%94%BD%EC%85%80%EC%9D%98-%ED%9C%98%EB%8F%84luminance-%EA%B0%92%EC%9D%80-%EC%96%B4%EB%94%94%EC%84%9C-%ED%99%95%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)을 참고해주세요.
+
 그럼 실제 사례를 살펴보겠습니다.
 
 ## 1. 첫번째 예제
-#### 그림 8.2.3.1.a101. 어두운 색만(Darken only) 모드 예제
-![layer_mode-darken-01-darken_only-color_example-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/87c56e73-b94d-4303-94e1-870619e5c079)
+#### 그림 8.2.3.2.a101. 휘도가 어두운 색만(Luma/Luminance darken only) 모드 예제
+![08-02-03-02-layer_mode-darken-02-luma_darken_only-color_example-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/537c63e9-43b9-4eb7-b226-be184c733a88)
 
-### 1-1. 어두운 색만(Darken only) 모드의 RGB 값 구하기
-#### 그림 8.2.3.1.a111. 각 레이어별 RGB  값
-![layer_mode-darken-01-darken_only-color_example-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/29f37554-28ac-4c7b-b367-6cdadbce3c3f)
+[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`로 휘도값을 가진 흑백이미지로 변경합니다.
 
-#### 표 8.2.3.1.a112. 레이어별 RGB 값 방정식 계산
+#### 그림 8.2.3.2.a102. 각 레이어별 휘도 정보
+![08-02-03-02-layer_mode-darken-02-luma_darken_only-color_example-01-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/45967494-290a-4254-8f39-42fcb993c2af)
+
+||위쪽 레이어|아래쪽 레이어|
+|---|---|---|
+|적색(Red)|244.0|**145.0**|
+|녹색(Green)|244.0|**145.0**|
+|청색(Blue)|244.0|**145.0**|
+
+```
+선택된 휘도(Luminance) 값
+= max(244.0, 145.0)
+= 145.0
+```
+
+아래쪽 레이어의 휘도값(145.0)이 위쪽 레이어의 휘도값(244.0)보다 낮으므로 아래쪽 레이어의 RGB 값이 결과 이미지에 반영됩니다.
+
+#### 그림 8.2.3.2.a103. 각 레이어별 RGB  값
+![08-02-03-02-layer_mode-darken-02-luma_darken_only-color_example-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/3d980e25-4443-498e-86e6-17a34052040a)
+
+#### 표 8.2.3.2.a104. 레이어별 RGB 값
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
 |---|---|---|---|
-|RGB(Red)|**249.0**|255.0|**249.0**|
-|RGB(Green)|251.0|**0.0**|**0.0**|
-|RGB(Blue)|**10.0**|255.0|**10.0**|
+|적색(Red)|249.0|**255.0**|**255.0**|
+|녹색(Green)|251.0|**0.0**|**0.0**|
+|청색(Blue)|10.0|**255.0**|**255.0**|
 
-```
-결과 값 RGB(Red)
-= min(249.0, 255.0)
-= 249.0
-
-결과 값 RGB(Green)
-= min(251.0, 0.0)
-= 0.0
-
-결과 값 RGB(Blue)
-= min(10.0, 255.0)
-= 10.0
-```
-
-GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
+위 계산 결과를 통하여 휘도가 244.0로 더 밝은 `위쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
 
 ## 2. 두번째 예제
-#### 그림 8.2.3.1.a201. 어두운 색만(Darken only) 모드 예제
+#### 그림 8.2.3.2.a201. 휘도가 어두운 색만(Luma/Luminance darken only) 모드 예제
 ![layer_mode-darken-01-darken_only-color_example-02(50%)](https://github.com/wonder13662/gimp/assets/15767104/0e5ef339-dfe8-48f6-b478-97f3bd763e0b)
 
-### 2-1. 어두운 색만(Darken only) 모드의 RGB 값 구하기
-#### 그림 8.2.3.1.a211. 각 레이어별 RGB 값
+### 2-1. 휘도가 어두운 색만(Luma/Luminance darken only) 모드의 RGB 값 구하기
+#### 그림 8.2.3.2.a211. 각 레이어별 RGB 값
 ![layer_mode-darken-01-darken_only-color_example-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/5d9a5090-6bd5-48f7-b5fa-628d4f14ee69)
 
-#### 표 8.2.3.1.a212. 레이어별 RGB 값 방정식 계산
+#### 표 8.2.3.2.a212. 레이어별 RGB 값 방정식 계산
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
 |---|---|---|---|
@@ -78,14 +81,14 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
 ## 3. 세번째 예제 - 아래쪽 레이어가 검은색
-#### 그림 8.2.3.1.a301. 어두운 색만(Darken only) 모드 예제
+#### 그림 8.2.3.2.a301. 휘도가 어두운 색만(Luma/Luminance darken only) 모드 예제
 ![layer_mode-darken-01-darken_only-color_example-03-black(50%)](https://github.com/wonder13662/gimp/assets/15767104/7d0593fb-7f77-4c32-b330-adbd6f553c53)
 
-### 3-1. 어두운 색만(Darken only) 모드의 RGB 값 구하기
-#### 그림 8.2.3.1.a311. 각 레이어별 RGB 값
+### 3-1. 휘도가 어두운 색만(Luma/Luminance darken only) 모드의 RGB 값 구하기
+#### 그림 8.2.3.2.a311. 각 레이어별 RGB 값
 ![layer_mode-darken-01-darken_only-color_example-03-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/5902e4e8-a91a-45a2-b3ca-b6cbef0bf8bf)
 
-#### 표 8.2.3.1.a312. 레이어별 RGB 값 방정식 계산
+#### 표 8.2.3.2.a312. 레이어별 RGB 값 방정식 계산
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
 |---|---|---|---|
@@ -110,14 +113,14 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
 ## 4. 네번째 예제 - 아래쪽 레이어가 하얀색
-#### 그림 8.2.3.1.a401. 어두운 색만(Darken only) 모드 예제
+#### 그림 8.2.3.2.a401. 휘도가 어두운 색만(Luma/Luminance darken only) 모드 예제
 ![layer_mode-darken-01-darken_only-color_example-04-white(50%)](https://github.com/wonder13662/gimp/assets/15767104/131f7904-77b2-45e2-97a4-5d0afe74c1e3)
 
-### 4-1. 어두운 색만(Darken only) 모드의 RGB 값 구하기
-#### 그림 8.2.3.1.a411. 각 레이어별 RGB 값
+### 4-1. 휘도가 어두운 색만(Luma/Luminance darken only) 모드의 RGB 값 구하기
+#### 그림 8.2.3.2.a411. 각 레이어별 RGB 값
 ![layer_mode-darken-01-darken_only-color_example-04-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/0b84267b-3c4d-4d92-be3a-5bd24b4448ba)
 
-#### 표 8.2.3.1.a412. 레이어별 RGB 값 방정식 계산
+#### 표 8.2.3.2.a412. 레이어별 RGB 값 방정식 계산
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
 |---|---|---|---|
