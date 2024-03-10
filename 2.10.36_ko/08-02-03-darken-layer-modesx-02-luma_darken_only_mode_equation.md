@@ -29,7 +29,7 @@
 
 ```
 선택된 휘도(Luminance) 값
-= max(244.0, 145.0)
+= min(244.0, 145.0)
 = 145.0
 ```
 
@@ -65,7 +65,7 @@
 
 ```
 선택된 휘도(Luminance) 값
-= max(149.0, 65.0)
+= min(149.0, 65.0)
 = 65.0
 ```
 
@@ -99,7 +99,7 @@
 
 ```
 선택된 휘도(Luminance) 값
-= max(149.0, 0.0)
+= min(149.0, 0.0)
 = 0.0
 ```
 
@@ -118,35 +118,37 @@
 
 ## 4. 네번째 예제 - 아래쪽 레이어가 하얀색
 #### 그림 8.2.3.2.a401. 휘도가 어두운 색만(Luma/Luminance darken only) 모드 예제
-![layer_mode-darken-01-darken_only-color_example-04-white(50%)](https://github.com/wonder13662/gimp/assets/15767104/131f7904-77b2-45e2-97a4-5d0afe74c1e3)
+![08-02-03-02-layer_mode-darken-02-luma_darken_only-color_example-04-white(50%)](https://github.com/wonder13662/gimp/assets/15767104/b71d5afd-f643-42aa-b322-0f9a91cb633f)
 
-### 4-1. 휘도가 어두운 색만(Luma/Luminance darken only) 모드의 RGB 값 구하기
-#### 그림 8.2.3.2.a411. 각 레이어별 RGB 값
-![layer_mode-darken-01-darken_only-color_example-04-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/0b84267b-3c4d-4d92-be3a-5bd24b4448ba)
+[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`로 휘도값을 가진 흑백이미지로 변경합니다.
 
-#### 표 8.2.3.2.a412. 레이어별 RGB 값 방정식 계산
+#### 그림 8.2.3.2.a402. 각 레이어별 휘도 정보
+![08-02-03-02-layer_mode-darken-02-luma_darken_only-color_example-04-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/035832f1-661c-478a-90eb-2c8d49d1114e)
+
+||위쪽 레이어|아래쪽 레이어|
+|---|---|---|
+|적색(Red)|**149.0**|255.0|
+|녹색(Green)|**149.0**|255.0|
+|청색(Blue)|**149.0**|255.0|
+
+```
+선택된 휘도(Luminance) 값
+= min(149.0, 255.0)
+= 149.0
+```
+
+위쪽 레이어의 휘도값(149.0)이 아래쪽 레이어의 휘도값(255.0)이 보다 낮으므로 아래쪽 레이어의 RGB 값이 결과 이미지에 반영됩니다.
+
+#### 그림 8.2.3.2.a403. 각 레이어별 RGB  값
+![08-02-03-02-layer_mode-darken-02-luma_darken_only-color_example-04-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/2c0bfddc-97d1-4fab-91cb-8c965106e6d1)
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
 |---|---|---|---|
-|RGB(Red)|**227.0**|255.0|**227.0**|
-|RGB(Green)|**113.0**|255.0|**113.0**|
-|RGB(Blue)|**113.0**|255.0|**113.0**|
+|적색(Red)|**227.0**|255.0|**227.0**|
+|녹색(Green)|**113.0**|255.0|**113.0**|
+|청색(Blue)|**113.0**|255.0|**113.0**|
 
-```
-결과 값 RGB(Red)
-= min(227.0, 255.0)
-= 227.0
-
-결과 값 RGB(Green)
-= min(113.0, 255.0)
-= 113.0
-
-결과 값 RGB(Blue)
-= min(113.0, 255.0)
-= 113.0
-```
-
-GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
+위 계산 결과를 통하여 휘도가 149.0로 더 어두운 `위쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
 
 ***
 
