@@ -14,80 +14,40 @@
 그럼 실제 사례를 살펴보겠습니다.
 
 ## 1. 첫번째 예제
+#### 그림 8.2.2.4.a101. 닷지(Dodge) 모드 예제
+![layer_mode-lighten-04-dodge_color_examples-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/d12384fa-315a-4f81-ae62-2d3dc242950c)
 
-#### 8.2.2.4.a11. 닷지(Dodge) 모드 예제
-![layer_mode-lighten-04-dodge_color_examples-01](https://github.com/wonder13662/gimp/assets/15767104/6fba97d9-f63a-46fc-8950-0280023e37b4)
+### 1-1. 닷지(Dodge) 모드의 RGB 값 구하기
+#### 그림 8.2.2.4.a111. 각 레이어별 RGB 값
+![layer_mode-lighten-04-dodge_color_examples-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/2cd9b7c0-af84-469d-b174-f558ac543344)
 
-### 1-1. 닷지(Dodge) 모드의 RGB의 Red 값 구하기
-#### 그림 8.2.2.4.a111. 각 레이어별 RGB의 Red 값
-![layer_mode-lighten-04-dodge-color_example-01-comparison-rgb(w1080)-focus-RGB_Red](https://github.com/wonder13662/gimp/assets/15767104/1e94de73-461b-4226-91cf-23c0c300c3e1)
+#### 표 8.2.2.4.a112. 레이어별 RGB 값 방정식 계산
 
-#### 표 8.2.2.4.a112. 레이어별 RGB의 Red 값 방정식 계산
+||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
+|---|---|---|---|
+|RGB(Red)|249.0|255.0|**255.0**|
+|RGB(Green)|251.0|0.0|**0.0**|
+|RGB(Blue)|10.0|255.0|**255.0**|
 
-|위쪽 레이어|아래쪽 레이어|결과 값|
-|---|---|---|
-|249.0|255.0|255.0|
 
 ```
-최종 결과 RGB(Red)
+레이어 모드 적용 결과: RGB(Red)
 = (256 x 255.0) / ((255 - 249.0) + 1)
 = 65280 / 7
 = 9325.7142857143
 = 255.0
-```
 
-위 계산 결과를 통하여 얻은 RGB의 Red 값인 255.0이 "레이어 모드 적용 결과"의 "전경색 바꾸기" 대화상자의 `R` 값과 같은 것을 확인할 수 있습니다.
-
-### 1-2. 닷지(Dodge) 모드의 RGB의 Green 값 구하기
-#### 그림 8.2.2.4.a121. 각 레이어별 RGB의 Green 값
-![layer_mode-lighten-04-dodge-color_example-01-comparison-rgb(w1080)-focus-RGB_Green](https://github.com/wonder13662/gimp/assets/15767104/adf6089d-bbf1-4b66-8d6e-70681e4d7eab)
-
-#### 표 8.2.2.4.a122. 레이어별 RGB의 Green 값 방정식 계산
-
-|위쪽 레이어|아래쪽 레이어|결과 값|
-|---|---|---|
-|251.0|0.0|0.0|
-
-```
-최종 결과 RGB Green
+레이어 모드 적용 결과: RGB(Green)
 = (256 x 0.0) / ((255 - 251.0) + 1)
 = 0 / 5
 = 0.0
-```
 
-위 계산 결과를 통하여 얻은 RGB의 Green 값인 0.0이 "레이어 모드 적용 결과"의 "전경색 바꾸기" 대화상자의 `G` 값과 같은 것을 확인할 수 있습니다.
-
-### 1-3. 닷지(Dodge) 모드의 RGB의 Blue 값 구하기
-#### 그림 8.2.2.4.a131. 각 레이어별 RGB의 Blue 값
-![layer_mode-lighten-04-dodge-color_example-01-comparison-rgb(w1080)-focus-RGB_Blue](https://github.com/wonder13662/gimp/assets/15767104/baec3a4c-b68e-4a9c-9275-7bd94209ede8)
-
-#### 표 8.2.2.4.a132. 레이어별 RGB의 Blue 값 방정식 계산
-
-|위쪽 레이어|아래쪽 레이어|결과 값|
-|---|---|---|
-|10.0|255.0|255.0|
-
-```
-최종 결과 RGB(Red)
+레이어 모드 적용 결과: RGB(Red)
 = (256 x 255.0) / ((255 - 10.0) + 1)
 = 65280 / 246
 = 265.3658536585
 = 255.0
 ```
-
-위 계산 결과를 통하여 얻은 RGB의 Blue 값인 255.0이 "레이어 모드 적용 결과"의 "전경색 바꾸기" 대화상자의 `G` 값과 같은 것을 확인할 수 있습니다.
-
-### 1-4. 최종 결과 RGB
-#### 그림 8.2.2.4.a141. GIMP(김프)에서 `닷지(Dodge)` 모드를 적용하여 얻은 RGB 값
-![layer_mode-lighten-04-dodge-color_example-01-result(50%)-focus-RGB](https://github.com/wonder13662/gimp/assets/15767104/7589474a-6057-4b63-bdb0-37eb4f14ac6b)
-
-#### 표 8.2.2.4.a142. 방정식 계산으로 얻은 최종 결과 RGB 값
-
-|RGB 채널|색상값|
-|---|---|
-|Red|255.0|
-|Green|0.0|
-|Blue|255.0|
 
 GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
