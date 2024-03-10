@@ -46,39 +46,39 @@
 |녹색(Green)|251.0|**0.0**|**0.0**|
 |청색(Blue)|10.0|**255.0**|**255.0**|
 
-위 계산 결과를 통하여 휘도가 244.0로 더 밝은 `위쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
+위 계산 결과를 통하여 휘도가 145.0로 더 어두운 `아래쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
 
 ## 2. 두번째 예제
 #### 그림 8.2.3.2.a201. 휘도가 어두운 색만(Luma/Luminance darken only) 모드 예제
-![layer_mode-darken-01-darken_only-color_example-02(50%)](https://github.com/wonder13662/gimp/assets/15767104/0e5ef339-dfe8-48f6-b478-97f3bd763e0b)
+![08-02-03-02-layer_mode-darken-02-luma_darken_only-color_example-02(50%)](https://github.com/wonder13662/gimp/assets/15767104/b98dcf9e-19ff-49c7-b0c9-e4c669ae70eb)
 
-### 2-1. 휘도가 어두운 색만(Luma/Luminance darken only) 모드의 RGB 값 구하기
-#### 그림 8.2.3.2.a211. 각 레이어별 RGB 값
-![layer_mode-darken-01-darken_only-color_example-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/5d9a5090-6bd5-48f7-b5fa-628d4f14ee69)
+#### 그림 8.2.3.2.a202. 각 레이어별 휘도 정보
+![08-02-03-02-layer_mode-darken-02-luma_darken_only-color_example-02-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/afe586a7-78d1-4eab-926f-7daf97264638)
 
-#### 표 8.2.3.2.a212. 레이어별 RGB 값 방정식 계산
+||위쪽 레이어|아래쪽 레이어|
+|---|---|---|
+|적색(Red)|149.0|**65.0**|
+|녹색(Green)|149.0|**65.0**|
+|청색(Blue)|149.0|**65.0**|
+
+```
+선택된 휘도(Luminance) 값
+= max(149.0, 65.0)
+= 65.0
+```
+
+아래쪽 레이어의 휘도값(65.0)이 위쪽 레이어의 휘도값(149.0)보다 낮으므로 아래쪽 레이어의 RGB 값이 결과 이미지에 반영됩니다.
+
+#### 그림 8.2.3.2.a203. 각 레이어별 RGB  값
+![08-02-03-02-layer_mode-darken-02-luma_darken_only-color_example-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/9c76013e-70bc-427a-aa94-bc27a4b0a9a5)
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
 |---|---|---|---|
-|RGB(Red)|227.0|**53.0**|**53.0**|
-|RGB(Green)|113.0|**61.0**|**61.0**|
-|RGB(Blue)|**113.0**|123.0|**113.0**|
+|적색(Red)|227.0|**53.0**|**53.0**|
+|녹색(Green)|113.0|**61.0**|**61.0**|
+|청색(Blue)|113.0|**123.0**|**123.0**|
 
-```
-결과 값 RGB(Red)
-= min(227.0, 53.0)
-= 53.0
-
-결과 값 RGB(Green)
-= min(113.0, 61.0)
-= 61.0
-
-결과 값 RGB(Blue)
-= min(113.0, 123.0)
-= 113.0
-```
-
-GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
+위 계산 결과를 통하여 휘도가 65.0로 더 어두운 `아래쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
 
 ## 3. 세번째 예제 - 아래쪽 레이어가 검은색
 #### 그림 8.2.3.2.a301. 휘도가 어두운 색만(Luma/Luminance darken only) 모드 예제

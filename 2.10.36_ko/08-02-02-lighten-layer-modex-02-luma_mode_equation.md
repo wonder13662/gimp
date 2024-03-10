@@ -128,6 +128,8 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 = 149.0
 ```
 
+위쪽 레이어의 휘도값(149.0)이 아래쪽 레이어의 휘도값(65.0)보다 높으므로 위쪽 레이어의 RGB 값이 결과 이미지에 반영됩니다.
+
 #### 그림 8.2.2.2.a23. 각 레이어별 RGB 정보
 ![layer_mode-lighten-02-luma-color_examples-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/1dc4efb7-b9f7-4d04-b351-3cc43d365b4e)
 
