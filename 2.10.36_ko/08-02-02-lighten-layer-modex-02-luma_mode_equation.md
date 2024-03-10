@@ -13,7 +13,7 @@
 
 ### 1-1. 검사에 사용될 예제
 #### 그림 8.2.2.2.a11. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
-![layer_mode-lighten-02-luma-color_examples-01](https://github.com/wonder13662/gimp/assets/15767104/b54908fb-c564-4924-808b-81568faf4ec7)
+![layer_mode-lighten-02-luma-color_examples-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/4550410e-a064-4f37-9d07-c9ff3d14c78f)
 
 ### 1-2. 무채화(Desaturate)를 사용하여 휘도(Luminance) 값 구하기
 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`를 선택하여 `무채화` 대화상자를 엽니다.
@@ -75,7 +75,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 
 ### 2-1. 첫번째 예제
 #### 그림 8.2.2.2.a11. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
-![layer_mode-lighten-02-luma-color_examples-01](https://github.com/wonder13662/gimp/assets/15767104/b54908fb-c564-4924-808b-81568faf4ec7)
+![layer_mode-lighten-02-luma-color_examples-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/4550410e-a064-4f37-9d07-c9ff3d14c78f)
 
 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`로 휘도값을 가진 흑백이미지로 변경합니다.
 
@@ -107,7 +107,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 
 ### 2-2. 두번째 예제
 #### 그림 8.2.2.2.a21. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
-![layer_mode-lighten-02-luma-color_examples-02](https://github.com/wonder13662/gimp/assets/15767104/005ba29a-8b46-44b3-b7f4-baa4c58560b1)
+![layer_mode-lighten-02-luma-color_examples-02(50%)](https://github.com/wonder13662/gimp/assets/15767104/1c337768-e736-4a70-a43c-b539380c30aa)
 
 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`로 휘도값을 가진 흑백이미지로 변경합니다.
 
@@ -139,7 +139,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 
 ### 2-3. 세번째 예제 - 아래쪽 레이어가 검은색
 #### 그림 8.2.2.2.a31. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
-![layer_mode-lighten-02-luma-color_examples-03-black](https://github.com/wonder13662/gimp/assets/15767104/e4daee08-40e0-455f-83dd-377ce9b2e111)
+![layer_mode-lighten-02-luma-color_examples-03-black(50%)](https://github.com/wonder13662/gimp/assets/15767104/916d4d42-8ec1-4070-9a12-7681f7aec4d9)
 
 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`로 휘도값을 가진 흑백이미지로 변경합니다.
 
@@ -171,7 +171,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 
 ### 2-4. 네번째 예제 - 아래쪽 레이어가 하얀색
 #### 그림 8.2.2.2.a41. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
-![layer_mode-lighten-02-luma-color_examples-04-white](https://github.com/wonder13662/gimp/assets/15767104/f51a6c1d-9b4b-4a50-9d82-bc22ebf8e058)
+![layer_mode-lighten-02-luma-color_examples-04-white(50%)](https://github.com/wonder13662/gimp/assets/15767104/1380f35e-1a9f-4b87-8b51-aa1ec285295c)
 
 #### 그림 8.2.2.2.a42. 각 레이어별 휘도 정보
 ![layer_mode-lighten-02-luma-color_examples-04-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/5511dd4d-21a0-4dc6-baf9-ef3d993e561b)
