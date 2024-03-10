@@ -90,16 +90,18 @@
 실제로 `더하기(Addition)` 모드를 적용해서 RGB 값을 비교해보면, 정확하게 위쪽 레이어와 아래쪽 레이어가 더해진 값을 결과로 주진 않습니다. 다만, 두 레이어의 픽셀의 RGB값보다는 더 큰 값을 얻는다는 점은 확인할 수 있습니다.
 
 #### 그림 8.2.2.a52. 더하기(Addition) 예제
-![layer_mode-lighten-05-addition_color_examples-02](https://github.com/wonder13662/gimp/assets/15767104/8c1d029c-b35a-4024-b97d-406d1c69e1f5)
+![layer_mode-lighten-05-addition_color_example-02(50%)](https://github.com/wonder13662/gimp/assets/15767104/d55efadf-122d-4020-8186-a2738d5c3e03)
 
 #### 그림 8.2.2.a53. 더하기(Addition) 예제의 각 색상의 RGB 정보 비교
-![layer_mode-lighten-05-addtion-color_example-02-comparison-rgb(w1080)-focus-RGB_Red](https://github.com/wonder13662/gimp/assets/15767104/485e8e29-c864-4055-8ce3-8e6e66fab5d2)
+![layer_mode-lighten-05-addition_color_example-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/fbf9051a-66bf-473b-a7c9-2e78282d7754)
 
-#### 표 8.2.2.a54. 레이어별 RGB의 Red 값 방정식 계산
+#### 표 8.2.2.a54. 레이어별 RGB 값
 
-|위쪽 레이어|아래쪽 레이어|결과 값|
-|---|---|---|
-|227.0|53.0|232.0|
+||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
+|---|---|---|---|
+|RGB(Red)|227.0|53.0|**232.0**|
+|RGB(Green)|113.0|61.0|**127.0**|
+|RGB(Blue)|113.0|123.0|**162.0**|
 
 위의 설명에서와 같이 위쪽 레이어의 RGB Red(227.0)와 아래쪽 레이어의 RGB Red(53.0)의 더한 값은 280입니다. 하지만 실제 결과값은 232.0 이므로 두 레이어의 RGB 값을 더한 것과 같지 않습니다.
 
@@ -107,7 +109,7 @@
 [comment]: <> (TODO 관련 메서드 gimp_operation_layer_mode_blend_addition)
 [comment]: <> (TODO 관련 소스 코드 app/operations/layer-modes-legacy/gimpoperationadditionlegacy.c)
 [comment]: <> (TODO 관련 메서드 gimp_operation_addition_legacy_process)
-[comment]: <> (TODO https://www.gimp-forum.net/Thread-Layer-Mode-Addition-equation-is-working-differently-to-official-guide)
+[comment]: <> (TODO https://www.gimp-forum.net/Thread-Layer-Mode-Addition-equation-is-working-differently-to-official-guide - 이 글은 Addition에 대한 과정에 대해 설명하고 있으나, GIMP 팀의 공식적인 내용이 아니므로 검증되지 않았다고 판단하여 함께 싣지 않았습니다. 아울러 저작권에 대한 문제도 있습니다.)
 
 ***
 
