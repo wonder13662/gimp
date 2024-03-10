@@ -22,6 +22,8 @@
 
 `휘도가 어두운 색만(Luma/Luminance darken only)` 모드에서는 위쪽 레이어의 픽셀에 대응하는 아래쪽 레이어의 픽셀의 휘도(luminance)를 비교합니다. 그리고 휘도의 값이 더 적은 이미지의 픽셀을 선택합니다. 완전히 하얀색의 레이어는 아무런 효과가 없습니다. 그리고 완전히 검은색의 레이어는 검은색의 이미지로 보입니다. `Luma`는 사람이 인식할 수 있는 범위 안에서의 휘도입니다.
 
+더 많은 사례를 확인하려면 [8.2.3.2. 휘도가 어두운 색만(Luma/Luminance darken only) 모드 방정식](./08-02-03-darken-layer-modesx-02-luma_darken_only_mode_equation.md)를 참고해주세요.
+
 `휘도가 어두운 색만(Luma/Luminance darken only)` 모드는 `서로 바꿀 수 있는 레이어(Commutative Layer)` 모드이므로 두 레이어 모두 `휘도가 어두운 색만(Luma/Luminance darken only)` 모드이면 레이어의 순서를 바꿔도 두 레이어가 겹치는 부분에 대해서는 결과가 같습니다. 다만, 아래쪽 레이어의 투명 영역에 대해서는 이 레이어 모드의 효과가 적용되지 않으므로 주의하세요.
 
 (TODO 시연 동영상 추가)
