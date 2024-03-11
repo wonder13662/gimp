@@ -30,6 +30,17 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8c4e1227-885b-4a6d-bfeb-84f62aec13ef"></video>
 
 ## 3. 곱하기(Multiply)
+#### 그림 8.2.3.a30. 곱하기(Multiply)
+![layer_mode-darken-03-multiply](https://github.com/wonder13662/gimp/assets/15767104/e95afa21-1848-43cb-9cae-3fdb1a367e2c)
+
+`곱하기(Multiply)` 모드는 위쪽 레이어의 픽셀 값들과 아래쪽 레이어의 픽셀 값들을 곱합니다. 결과값은 보통 더 어두워집니다. 두 레이어 중 한 레이어가 하얀색이라면, 결과값은 하얀색이 아닌 레이어와 같은 이미지입니다. 두 레이어 중 한 레이어가 검은색이면, 결과값은 검은색 이미지입니다.
+
+더 많은 사례를 확인하려면 [8.2.3.3. 곱하기(Multiply) 방정식](./08-02-03-darken-layer-modesx-02-luma_darken_only_mode_equation.md)를 참고해주세요.
+
+#### 영상 8.2.3.a31. 곱하기(Multiply): 레이어 순서를 바꿔도 결과는 같음 - 서로 바꿀 수 있는 레이어(Commutative Layer)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/163a1375-ab6f-4b21-9946-74b8f674095c"></video>
+
+`곱하기(Multiply)` 모드는는 `서로 바꿀 수 있는 레이어(Commutative Layer)` 모드이므로 두 레이어 모두 `곱하기(Multiply)` 모드이면 레이어의 순서를 바꿔도 두 레이어가 겹치는 부분에 대해서는 결과가 같습니다. 다만, 아래쪽 레이어의 투명 영역에 대해서는 이 레이어 모드의 효과가 적용되지 않으므로 주의하세요.
 
 ## 4. 번(Burn)
 
