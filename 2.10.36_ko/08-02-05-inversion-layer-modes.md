@@ -24,9 +24,21 @@ RGB 결과값 = |위쪽 레이어 RGB 값 - 아래쪽 레이어 RGB 값|
 #### 그림 8.2.5.a20. 제외(Exclusion)
 ![08-02-05-layer_mode-inversion-02-exclusion](https://github.com/wonder13662/gimp/assets/15767104/1688b8bd-600d-4308-b42b-189a9b439344)
 
+`제외(Exclusion)` 모드는 `차이점(Difference)` 모드의 부드러운 버전입니다. `제외(Exclusion)` 모드는 다른 레이어의 밝은 부분에 대해서 반전시킵니다. 매우 어두운 부분에는 아무것도 하지 않습니다.
+
+#### 영상 8.2.5.a21. 제외(Exclusion): 예시 영상
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2f86dd4b-da63-4821-96ab-ca9ec710cb4a"></video>
+
+`제외(Exclusion)` 모드는 `서로 바꿀 수 있는 레이어(Commutative Layer)` 모드이므로 두 레이어 모두 `제외(Exclusion)` 모드이면 레이어의 순서를 바꿔도 두 레이어가 겹치는 부분에 대해서는 결과가 같습니다. 다만, 아래쪽 레이어의 투명 영역에 대해서는 이 레이어 모드의 효과가 적용되지 않으므로 주의하세요.
+
+#### 영상 8.2.5.a22. 제외(Exclusion): 레이어 순서를 바꿔도 결과는 같음 - 서로 바꿀 수 있는 레이어(Commutative Layer)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/68d82cd7-a7c7-4c18-825a-795b06677b6e"></video>
+
 ## 3. 빼기(Subtract)
 #### 그림 8.2.5.a30. 빼기(Subtract)
 ![08-02-05-layer_mode-inversion-03-subtract](https://github.com/wonder13662/gimp/assets/15767104/99cc7034-cb9b-4d83-acdb-4e8366e45d69)
+
+Subtract mode subtracts the pixel value of the upper layer from the pixel value of the lower layer. The resulting image is normally darker. You might get a lot of black or near-black in the resulting image.
 
 ## 4. 질감 드러내기(Grain extract)
 #### 그림 8.2.5.a40. 질감 드러내기(Grain extract)
