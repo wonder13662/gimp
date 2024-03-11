@@ -5,6 +5,8 @@
 
 [5.1. 이미지 타입 - 그림 90.90.1.a101. Color Model: RGB](https://wonder13662.github.io/gimp/2.10.36_ko/05-01-image-types.html#%EA%B7%B8%EB%A6%BC-90901a101-color-model-rgb)
 
+[8.2.4. 레이어 모드-대조(Contrast) - 그림 90.90.1.a101]()
+
 #### 그림 90.90.1.a102. Color Model: CMY
 ![color-model-subtractive](https://github.com/wonder13662/gimp/assets/15767104/e101bf1e-8f07-463f-9bc2-2113927937c2)
 
