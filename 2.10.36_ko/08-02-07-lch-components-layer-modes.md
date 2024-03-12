@@ -30,9 +30,38 @@
 #### 그림 8.2.7.a20. LCh 크로마(LCh Chroma)
 ![08-02-07-layer_mode-lch_component-02-lch_chroma](https://github.com/wonder13662/gimp/assets/15767104/fc528e3b-9c0d-4c20-8a79-848e95c99d52)
 
+`LCh 크로마(LCh Chroma)` 모드는 [HSV 채도(HSV Saturation)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-06-hsv-components-layer-modes.html#2-hsv-%EC%B1%84%EB%8F%84hsv-saturation)와 상당히 비슷하지만, 다른 방정식을 사용합니다.
+
+`LCh 크로마(LCh Chroma)` 모드는 위쪽 레이어의 채도(Chroma)와 아래쪽 레이어의 밝기(Lightness)와 색상(Hue)를 합쳐 결과 이미지를 만듭니다.
+
+|LCh 값|대상 레이어|
+|---|---|
+|밝기(Lightness)|아래쪽 레이어|
+|**채도(Chroma)**|**위쪽 레이어**|
+|색상(Hue)|아래쪽 레이어|
+
+#### 영상 8.2.7.a21. `LCh 크로마(LCh Chroma)` 적용하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7a1090df-7966-4c49-b92b-1170cafb617d"></video>
+
 ## 3. LCh Color(LCh Color)
 #### 그림 8.2.7.a30. LCh Color(LCh Color)
 ![08-02-07-layer_mode-lch_component-03-lch_color](https://github.com/wonder13662/gimp/assets/15767104/20ce38dd-51dd-4620-b5b0-001d7f5d5fbc)
+
+`LCh Color(LCh Color)` 모드는 위쪽 레이어의 채도(Chroma), 색상(Hue) 그리고 아래쪽 레이어의 밝기(Lightness)를 합쳐 결과 이미지를 만듭니다.
+
+|LCh 값|대상 레이어|
+|---|---|
+|밝기(Lightness)|아래쪽 레이어|
+|**채도(Chroma)**|**위쪽 레이어**|
+|**색상(Hue)**|**위쪽 레이어**|
+
+`LCh Color(LCh Color)` 모드는 [HSL 색상(HSL Color)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-06-hsv-components-layer-modes.html#3-hsl-%EC%83%89%EC%83%81hsl-color)와 비슷하게 동작합니다. 하지만 `LCh Color(LCh Color)` 모드는 [HSL 색상(HSL Color)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-06-hsv-components-layer-modes.html#3-hsl-%EC%83%89%EC%83%81hsl-color)보다 좀 더 어둡습니다. 아래 영상에서 확인해보세요.
+
+#### 영상 8.2.7.a31. `LCh Color(LCh Color)`로 대상의 색깔 바꾸기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6cb9a75d-3faa-4db0-b849-2c681cb82b11"></video>
+
+#### 영상 8.2.7.a32. `LCh Color(LCh Color)`와 `HSL 색상(HSL Color)` 비교하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1a6d68ce-8e83-40db-9edb-ed9d0999ffe8"></video>
 
 ## 4. LCh 밝기(LCh Lightness)
 #### 그림 8.2.7.a40. LCh 밝기(LCh Lightness)
