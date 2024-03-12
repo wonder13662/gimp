@@ -63,14 +63,30 @@
 #### 영상 8.2.7.a32. `LCh Color(LCh Color)`와 `HSL 색상(HSL Color)` 비교하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1a6d68ce-8e83-40db-9edb-ed9d0999ffe8"></video>
 
+`LCh Color(LCh Color)` 모드를 활용한 예로 [A tutorial on GIMP's very awesome LCH Blend Modes](https://ninedegreesbelow.com/photography/gimp-lch-blend-modes.html)를 참고해주세요.
+
 ## 4. LCh 밝기(LCh Lightness)
 #### 그림 8.2.7.a40. LCh 밝기(LCh Lightness)
 ![08-02-07-layer_mode-lch_component-04-lch_lightness](https://github.com/wonder13662/gimp/assets/15767104/b7f27b94-2707-44c6-b341-b1ccda27f9eb)
+
+`LCh 밝기(LCh Lightness)` 모드는 위쪽 레이어의 밝기(Lightness) 그리고 아래쪽 레이어의 채도(Chroma), 색상(Hue)을 합쳐 결과 이미지를 만듭니다.
+
+|LCh 값|대상 레이어|
+|---|---|
+|**밝기(Lightness)**|**위쪽 레이어**|
+|채도(Chroma)|아래쪽 레이어|
+|색상(Hue)|아래쪽 레이어|
+
+`LCh 밝기(LCh Lightness)` 모드는 [HSV 명도(HSV Value)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-06-hsv-components-layer-modes.html#4-hsv-%EB%AA%85%EB%8F%84hsv-value)와 비슷하게 동작합니다.
+
+`LCh 밝기(LCh Lightness)` 모드를 활용한 예로 [A tutorial on GIMP's very awesome LCH Blend Modes](https://ninedegreesbelow.com/photography/gimp-lch-blend-modes.html)를 참고해주세요.
 
 ## 5. 휘도(Luminance)
 #### 그림 8.2.7.a50. 휘도(Luminance)
 ![08-02-07-layer_mode-lch_component-05-luminance](https://github.com/wonder13662/gimp/assets/15767104/bb450a4a-aac8-468f-880f-ff8fd1626805)
 
+`휘도(Luminance)` 모드는 위쪽 레이어의 휘도를 아래쪽 레이어의 휘도로 나눕니다. 나눈 몫을 아래쪽 레이어의 컴포넌트의 값에 곱합니다.
+[comment]: <> (TODO 실제 사용 사례에 대해서 내용 추가해야 함. 어디에 쓰는걸까?)
 ***
 
 ## 다른 페이지로 가기
