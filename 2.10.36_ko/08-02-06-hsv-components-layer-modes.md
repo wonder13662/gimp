@@ -54,6 +54,21 @@
 #### 그림 8.2.6.a40. HSV 명도(HSV Value)
 ![08-02-06-layer_mode-hsv_component-04-hsv_value](https://github.com/wonder13662/gimp/assets/15767104/ec2b6046-1917-426c-8214-d6a8d5815323)
 
+HSV Value mode uses the Value of the upper layer and the Saturation and Hue of the lower layer to form the resulting image. You can use this mode to reveal the details in dark and light areas of an image without changing the Saturation.
+
+`HSV 명도(HSV Value)` 모드는 위쪽 레이어의 명도(Value)와 아래쪽 레이어의 채도(Saturation)와 색조(Hue)를 합쳐 결과 이미지를 만듭니다. `HSV 명도(HSV Value)` 모드는 채도(Saturation)를 바꾸지 않고 이미지의 어둡거나 밝은 영역의 상세한 모습을 드러낼 때 사용할 수 있습니다.
+
+|HSV 값|대상 레이어|
+|---|---|
+|색조(Hue)|아래쪽 레이어|
+|채도(Saturation)|아래쪽 레이어|
+|**명도(Value)**|위쪽 레이어|
+
+아래 영상에서 위쪽 레이어의 명도를 아래쪽 레이어에 적용하여 이미지가 전체적으로 밝아지는 모습을 확인할 수 있습니다.
+
+#### 영상 8.2.6.a41. `HSV 명도(HSV Value)`: 명도 높이기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/39adcadf-2162-45fe-a01c-135f4b8b182c"></video>
+
 ***
 
 ## 다른 페이지로 가기
