@@ -37,6 +37,19 @@
 #### 그림 8.2.6.a30. HSL 색상(HSL Color)
 ![08-02-06-layer_mode-hsv_component-03-hsl_color](https://github.com/wonder13662/gimp/assets/15767104/b91f0429-5220-4127-a5da-eef221a5db87)
 
+`HSL 색상(HSL Color)` 모드는 위쪽 레이어의 색조(Hue)와 채도(Saturation), 아래쪽 레이어의 밝기(Lightness)를 합쳐 결과 이미지를 만듭니다.
+
+|HSL 값|대상 레이어|
+|---|---|
+|**색조(Hue)**|위쪽 레이어|
+|**채도(Saturation)**|위쪽 레이어|
+|밝기(Lightness)|아래쪽 레이어|
+
+`HSL 색상(HSL Color)` 모드는 어떤 대상의 부분의 색깔을 바꿔야 할 때 유용합니다. 아래 예시 영상에서 푸른핵 자동차의 색상을 `HSL 색상(HSL Color)` 모드를 사용하여 빨간색으로 바꾸는 과정을 확인할 수 있습니다.
+
+#### 영상 8.2.6.a31. `HSL 색상(HSL Color)`: 자동차 이미지의 색상 바꾸기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5cea6ccf-cc42-47c3-8064-7cccfbadb0e9"></video>
+
 ## 4. HSV 명도(HSV Value)
 #### 그림 8.2.6.a40. HSV 명도(HSV Value)
 ![08-02-06-layer_mode-hsv_component-04-hsv_value](https://github.com/wonder13662/gimp/assets/15767104/ec2b6046-1917-426c-8214-d6a8d5815323)
