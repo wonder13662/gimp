@@ -81,6 +81,16 @@ RGB 결과값 = max((위쪽 레이어 RGB 값 - 아래쪽 레이어 RGB 값 - 12
 #### 그림 8.2.5.a60. 나누기(Divide)
 ![08-02-05-layer_mode-inversion-06-divide](https://github.com/wonder13662/gimp/assets/15767104/e8d1f72e-42ec-484c-b1e9-53dc06b9351d)
 
+`나누기(Divide)` 모드는 위쪽 레이어의 픽셀의 값을 아래쪽 레이어의 픽셀의 값으로 나눕니다. 결과 이미지는 더 밝아집니다. 때로는 완전히 하얗게(burned out) 되버리기도 합니다.
+
+#### 8.2.5.a61. 나누기(Divide) 모드의 방정식
+```
+RGB 결과값 = (256 x 위쪽 레이어 RGB 값) / (아래쪽 레이어 RGB 값 + 1)
+```
+
+#### 영상 8.2.5.a62. 나누기(Divide) 모드: 밝은 영역을 더 밝게 만들기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/537087ac-1eb0-4832-a78c-f0a2ce283c42"></video>
+
 ***
 
 ## 다른 페이지로 가기
