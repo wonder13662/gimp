@@ -17,6 +17,8 @@
 #### 그림 8.3.8.a21. 레이어 모드(Legacy) - 곱하기(Multiply): 방정식
 ![08-03-08-layer_mode_legacy-multiply-equation](https://github.com/wonder13662/gimp/assets/15767104/acf9f17b-2528-44a1-af25-817530ef5bc7)
 
+아래 예시 이미지의 색상 정보를 확인해보면, 위 방정식이 적용된 것을 확인할 수 있습니다.
+
 #### 그림 8.3.8.a22. 각 레이어별 RGB 값
 ![08-03-08-layer_mode_legacy-multiply-color_example-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/3be80233-1944-4fc6-a364-e7073951246c)
 
