@@ -10,6 +10,8 @@
 
 [8.3.5. 레이어 모드(Legacy) - 닷지(Dodge) - 그림 90.3.2.34.a2]()
 
+[8.3.9. 레이어 모드(Legacy) - 번(Burn) - 그림 90.3.2.34.a2]()
+
 #### 영상 90.3.2.34.a101. 닷지/번(Dodge/Burn)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4b92840d-58f5-4c5d-b664-87a6227dc0c8"></video>
 
