@@ -56,7 +56,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 8.3.9. 레이어 모드(Legacy) - 번(Burn)](./08-03-legacy-layer-modesx-09-darken_layer_mode-burn.md)
 
 [⬅️ 이전: 8.3.7. 레이어 모드(Legacy) - 어두운 색만(Darken only)](./08-03-legacy-layer-modesx-07-darken_layer_mode-darken_only.md)
 

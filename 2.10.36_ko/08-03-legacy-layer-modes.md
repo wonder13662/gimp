@@ -49,6 +49,8 @@ GIMP(김프) 2.10 버전의 레이어 모드에 대한 정보는 [레이어 모�
 
 [8.3.8. 레이어 모드(Legacy) - 곱하기(Multiply)](./08-03-legacy-layer-modesx-08-darken_layer_mode-multiply.md)
 
+[8.3.9. 레이어 모드(Legacy) - 번(Burn)](./08-03-legacy-layer-modesx-09-darken_layer_mode-burn.md)
+
 ***
 
 ## 다른 페이지로 가기

@@ -52,7 +52,7 @@
 ## 다른 페이지로 가기
 [➡️ 다음: ?]()
 
-[⬅️ 이전: 8.3.7. 레이어 모드(Legacy) - 어두운 색만(Darken only)](./08-03-legacy-layer-modesx-07-darken_layer_mode-darken_only.md)
+[⬅️ 이전: 8.3.8. 레이어 모드(Legacy) - 곱하기(Multiply)](./08-03-legacy-layer-modesx-08-darken_layer_mode-multiply.md)
 
 [⬆️ 위: 8.3. 레거시 레이어 모드](./08-03-legacy-layer-modes.md)
 
