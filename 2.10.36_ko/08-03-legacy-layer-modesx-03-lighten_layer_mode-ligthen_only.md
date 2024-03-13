@@ -17,9 +17,9 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 8.3.4. 레이어 모드(Legacy) - 화면(Screen)](./08-03-legacy-layer-modesx-04-lighten_layer_mode-screen.md)
 
-[⬅️ 이전: 8.3.1. 레이어 모드(Legacy) - 일반(Normal)](./08-03-legacy-layer-modesx-01-normal_layer_mode-normal.md)
+[⬅️ 이전: 8.3.2. 레이어 모드(Legacy) - 분해(Dissolve)](./08-03-legacy-layer-modesx-02-normal_layer_mode-dissolve.md)
 
 [⬆️ 위: 8.3. 레거시 레이어 모드](./08-03-legacy-layer-modes.md)
 

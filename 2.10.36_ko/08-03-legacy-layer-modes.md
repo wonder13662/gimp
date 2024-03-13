@@ -35,6 +35,10 @@ GIMP(김프) 2.10 버전의 레이어 모드에 대한 정보는 [레이어 모�
 
 [8.3.2. 레이어 모드(Legacy) - 분해(Dissolve)](./08-03-legacy-layer-modesx-02-normal_layer_mode-dissolve.md)
 
+[8.3.3. 레이어 모드(Legacy) - 밝은 색만(Lighten only)](./08-03-legacy-layer-modesx-03-lighten_layer_mode-ligthen_only.md)
+
+[8.3.4. 레이어 모드(Legacy) - 화면(Screen)](./08-03-legacy-layer-modesx-04-lighten_layer_mode-screen.md)
+
 ### Lighten Layer Modes
 
 ***

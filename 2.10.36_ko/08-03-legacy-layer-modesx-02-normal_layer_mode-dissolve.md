@@ -10,7 +10,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 8.3.3. 레이어 모드(Legacy) - 밝은 색만(Lighten only)](./08-03-legacy-layer-modesx-03-lighten_layer_mode-ligthen_only.md)
 
 [⬅️ 이전: 8.3.1. 레이어 모드(Legacy) - 일반(Normal)](./08-03-legacy-layer-modesx-01-normal_layer_mode-normal.md)
 
