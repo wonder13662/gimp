@@ -18,7 +18,7 @@ TODO Linear
 #### 그림 8.2.3.3.a101. 곱하기(Multiply) 모드 예제
 ![08-02-03-03-layer_mode-darken-03-multiply-color_example-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/847bd9eb-c5d0-4644-b435-0bae21b67dc1)
 
-#### 그림 8.2.3.3.a102. 각 레이어별 RGB  값
+#### 그림 8.2.3.3.a102. 각 레이어별 RGB 값
 ![08-02-03-03-layer_mode-darken-03-multiply-color_example-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/275a8496-e5c5-4c61-b425-becaebdd2fcd)
 
 #### 표 8.2.3.3.a103. 레이어별 RGB 값
@@ -49,7 +49,7 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 #### 그림 8.2.3.3.a201. 곱하기(Multiply) 모드 예제
 ![08-02-03-03-layer_mode-darken-03-multiply-color_example-02(50%)](https://github.com/wonder13662/gimp/assets/15767104/f900747f-a44f-4abb-817c-30df117e1425)
 
-#### 그림 8.2.3.3.a202. 각 레이어별 RGB  값
+#### 그림 8.2.3.3.a202. 각 레이어별 RGB 값
 ![08-02-03-03-layer_mode-darken-03-multiply-color_example-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/3ec745f7-6092-4084-a458-694273a2b6c7)
 
 #### 표 8.2.3.3.a203. 레이어별 RGB 값
@@ -121,7 +121,7 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 
 아래쪽 레이어의 휘도값(0.0)이 위쪽 레이어의 휘도값(149.0)보다 낮으므로 아래쪽 레이어의 RGB 값이 결과 이미지에 반영됩니다.
 
-#### 그림 8.2.3.3.a303. 각 레이어별 RGB  값
+#### 그림 8.2.3.3.a303. 각 레이어별 RGB 값
 ![08-02-03-02-layer_mode-darken-02-luma_darken_only-color_example-03-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/778d2218-73b4-4866-bb7e-4060633df5ac)
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
@@ -155,7 +155,7 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 
 위쪽 레이어의 휘도값(149.0)이 아래쪽 레이어의 휘도값(255.0)이 보다 낮으므로 아래쪽 레이어의 RGB 값이 결과 이미지에 반영됩니다.
 
-#### 그림 8.2.3.3.a403. 각 레이어별 RGB  값
+#### 그림 8.2.3.3.a403. 각 레이어별 RGB 값
 ![08-02-03-02-layer_mode-darken-02-luma_darken_only-color_example-04-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/2c0bfddc-97d1-4fab-91cb-8c965106e6d1)
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|

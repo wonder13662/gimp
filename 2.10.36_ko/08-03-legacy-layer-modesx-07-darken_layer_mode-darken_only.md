@@ -25,7 +25,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 8.3.8. 레이어 모드(Legacy) - 곱하기(Multiply)](./08-03-legacy-layer-modesx-08-darken_layer_mode-multiply.md)
 
 [⬅️ 이전: 8.3.6. 레이어 모드(Legacy) - 더하기(Addition)](./08-03-legacy-layer-modesx-06-lighten_layer_mode-addition.md)
 

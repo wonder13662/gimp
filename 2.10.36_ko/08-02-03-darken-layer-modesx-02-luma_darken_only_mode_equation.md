@@ -35,7 +35,7 @@
 
 아래쪽 레이어의 휘도값(145.0)이 위쪽 레이어의 휘도값(244.0)보다 낮으므로 아래쪽 레이어의 RGB 값이 결과 이미지에 반영됩니다.
 
-#### 그림 8.2.3.2.a103. 각 레이어별 RGB  값
+#### 그림 8.2.3.2.a103. 각 레이어별 RGB 값
 ![08-02-03-02-layer_mode-darken-02-luma_darken_only-color_example-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/3d980e25-4443-498e-86e6-17a34052040a)
 
 #### 표 8.2.3.2.a104. 레이어별 RGB 값
@@ -71,7 +71,7 @@
 
 아래쪽 레이어의 휘도값(65.0)이 위쪽 레이어의 휘도값(149.0)보다 낮으므로 아래쪽 레이어의 RGB 값이 결과 이미지에 반영됩니다.
 
-#### 그림 8.2.3.2.a203. 각 레이어별 RGB  값
+#### 그림 8.2.3.2.a203. 각 레이어별 RGB 값
 ![08-02-03-02-layer_mode-darken-02-luma_darken_only-color_example-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/9c76013e-70bc-427a-aa94-bc27a4b0a9a5)
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
@@ -105,7 +105,7 @@
 
 아래쪽 레이어의 휘도값(0.0)이 위쪽 레이어의 휘도값(149.0)보다 낮으므로 아래쪽 레이어의 RGB 값이 결과 이미지에 반영됩니다.
 
-#### 그림 8.2.3.2.a303. 각 레이어별 RGB  값
+#### 그림 8.2.3.2.a303. 각 레이어별 RGB 값
 ![08-02-03-02-layer_mode-darken-02-luma_darken_only-color_example-03-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/778d2218-73b4-4866-bb7e-4060633df5ac)
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
@@ -139,7 +139,7 @@
 
 위쪽 레이어의 휘도값(149.0)이 아래쪽 레이어의 휘도값(255.0)이 보다 낮으므로 아래쪽 레이어의 RGB 값이 결과 이미지에 반영됩니다.
 
-#### 그림 8.2.3.2.a403. 각 레이어별 RGB  값
+#### 그림 8.2.3.2.a403. 각 레이어별 RGB 값
 ![08-02-03-02-layer_mode-darken-02-luma_darken_only-color_example-04-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/2c0bfddc-97d1-4fab-91cb-8c965106e6d1)
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|

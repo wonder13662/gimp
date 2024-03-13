@@ -18,7 +18,7 @@
 ![layer_mode-darken-01-darken_only-color_example-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/87c56e73-b94d-4303-94e1-870619e5c079)
 
 ### 1-1. 어두운 색만(Darken only) 모드의 RGB 값 구하기
-#### 그림 8.2.3.1.a111. 각 레이어별 RGB  값
+#### 그림 8.2.3.1.a111. 각 레이어별 RGB 값
 ![layer_mode-darken-01-darken_only-color_example-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/29f37554-28ac-4c7b-b367-6cdadbce3c3f)
 
 #### 표 8.2.3.1.a112. 레이어별 RGB 값 방정식 계산

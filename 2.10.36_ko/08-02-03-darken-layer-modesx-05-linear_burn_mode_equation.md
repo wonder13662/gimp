@@ -12,7 +12,7 @@
 #### 그림 8.2.3.5.a101. 선형적 번(Linear burn) 모드 예제
 ![08-02-03-03-layer_mode-darken-05-linear_burn-color_example-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/e0e7912f-047b-459a-aa79-b916483a5c58)
 
-#### 그림 8.2.3.5.a102. 각 레이어별 RGB  값
+#### 그림 8.2.3.5.a102. 각 레이어별 RGB 값
 ![08-02-03-03-layer_mode-darken-05-linear_burn-color_example-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/325ef3b1-6ee9-478d-9c60-609fb715330a)
 
 #### 표 8.2.3.5.a103. 레이어별 RGB 값
@@ -46,7 +46,7 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 #### 그림 8.2.3.5.a201. 선형적 번(Linear burn) 모드 예제
 ![08-02-03-layer_mode-darken-05-linear_burn-color_example-02(50%)](https://github.com/wonder13662/gimp/assets/15767104/ab2610cd-062f-42a5-ad3a-0bdf5a542029)
 
-#### 그림 8.2.3.5.a202. 각 레이어별 RGB  값
+#### 그림 8.2.3.5.a202. 각 레이어별 RGB 값
 ![08-02-03-layer_mode-darken-05-linear_burn-color_example-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/100394a8-ce5f-4ea4-87cf-c22ff0d0cec0)
 
 #### 표 8.2.3.5.a203. 레이어별 RGB 값
@@ -80,7 +80,7 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 #### 그림 8.2.3.5.a301. 선형적 번(Linear burn) 모드 예제
 ![08-02-03-layer_mode-darken-05-linear_burn-color_example-03-black(50%)](https://github.com/wonder13662/gimp/assets/15767104/d008ccfc-19fb-4924-aaf6-e3ae6532c1bd)
 
-#### 그림 8.2.3.5.a302. 각 레이어별 RGB  값
+#### 그림 8.2.3.5.a302. 각 레이어별 RGB 값
 ![08-02-03-layer_mode-darken-05-linear_burn-color_example-03-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/9747f71d-accc-4ff3-9d7e-3824278f402d)
 
 #### 표 8.2.3.5.a303. 레이어별 RGB 값
@@ -114,7 +114,7 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 #### 그림 8.2.3.5.a401. 선형적 번(Linear burn) 모드 예제
 ![08-02-03-layer_mode-darken-05-linear_burn-color_example-04-white(50%)](https://github.com/wonder13662/gimp/assets/15767104/5ff039b2-e44f-4ab6-8d91-516160471fac)
 
-#### 그림 8.2.3.5.a402. 각 레이어별 RGB  값
+#### 그림 8.2.3.5.a402. 각 레이어별 RGB 값
 ![08-02-03-layer_mode-darken-05-linear_burn-color_example-03-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/3f9e3336-0e64-4a60-925f-d9288863f59b)
 
 #### 표 8.2.3.5.a303. 레이어별 RGB 값
