@@ -6,7 +6,9 @@
 #### 그림 90.3.2.34.a2. 도구상자 - '닷지/번'
 ![그림 90.3.2.34.a2. 도구상자 - '닷지/번'](https://github.com/wonder13662/gimp/assets/15767104/f602486b-595d-4b15-ba4c-826982b153ce)
 
-[3.5.1. 목적 - 그림 90.3.2.34.a2. 도구상자 - '닷지/번'](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EA%B7%B8%EB%A6%BC-903234a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%8B%B7%EC%A7%80%EB%B2%88)
+[3.5.1. 목적 - 그림 90.3.2.34.a2. 도구상자 - '닷지/번' - 그림 90.3.2.34.a2](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-01-intention.html#%EA%B7%B8%EB%A6%BC-903234a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%8B%B7%EC%A7%80%EB%B2%88)
+
+[8.3.5. 레이어 모드(Legacy) - 닷지(Dodge) - 그림 90.3.2.34.a2]()
 
 #### 영상 90.3.2.34.a101. 닷지/번(Dodge/Burn)의 직선그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4b92840d-58f5-4c5d-b664-87a6227dc0c8"></video>
