@@ -39,6 +39,8 @@ GIMP(김프) 2.10 버전의 레이어 모드에 대한 정보는 [레이어 모�
 
 [8.3.4. 레이어 모드(Legacy) - 화면(Screen)](./08-03-legacy-layer-modesx-04-lighten_layer_mode-screen.md)
 
+[8.3.5. 레이어 모드(Legacy) - 닷지(Dodge)](./08-03-legacy-layer-modesx-05-lighten_layer_mode-dodge.md)
+
 ### Lighten Layer Modes
 
 ***

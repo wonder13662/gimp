@@ -23,7 +23,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 8.3.5. 레이어 모드(Legacy) - 닷지(Dodge)](./08-03-legacy-layer-modesx-05-lighten_layer_mode-dodge.md)
 
 [⬅️ 이전: 8.3.3. 레이어 모드(Legacy) - 밝은 색만(Lighten only)](./08-03-legacy-layer-modesx-03-lighten_layer_mode-ligthen_only.md)
 
