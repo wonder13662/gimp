@@ -19,9 +19,9 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 8.3.7. 레이어 모드(Legacy) - 어두운 색만(Darken only)](./08-03-legacy-layer-modesx-07-darken_layer_mode-darken_only.md)
 
-[⬅️ 이전: 8.3.4. 레이어 모드(Legacy) - 더하기(Addition)](./08-03-legacy-layer-modesx-04-lighten_layer_mode-screen.md)
+[⬅️ 이전: 8.3.5. 레이어 모드(Legacy) - 닷지(Dodge)](./08-03-legacy-layer-modesx-05-lighten_layer_mode-dodge.md)
 
 [⬆️ 위: 8.3. 레거시 레이어 모드](./08-03-legacy-layer-modes.md)
 

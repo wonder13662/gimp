@@ -13,7 +13,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 8.3.6. 레이어 모드(Legacy) - 더하기(Addition)](./08-03-legacy-layer-modesx-06-lighten_layer_mode-addition.md)
 
 [⬅️ 이전: 8.3.4. 레이어 모드(Legacy) - 화면(Screen)](./08-03-legacy-layer-modesx-04-lighten_layer_mode-screen.md)
 
