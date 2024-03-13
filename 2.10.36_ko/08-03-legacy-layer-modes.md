@@ -56,6 +56,8 @@ GIMP(김프) 2.10 버전의 레이어 모드에 대한 정보는 [레이어 모�
 
 [8.3.11. 레이어 모드(Legacy) - 부드러운 빛(Soft light)](./08-03-legacy-layer-modesx-11-contrast_layer_mode-soft_light.md)
 
+[8.3.12. 레이어 모드(Legacy) - 강한 빛(Hard light)](./08-03-legacy-layer-modesx-12-contrast_layer_mode-hard_light.md)
+
 ***
 
 ## 다른 페이지로 가기

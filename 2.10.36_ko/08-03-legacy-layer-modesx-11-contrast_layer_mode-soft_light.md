@@ -17,7 +17,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 8.3.12. 레이어 모드(Legacy) - 강한 빛(Hard light)](./08-03-legacy-layer-modesx-12-contrast_layer_mode-hard_light.md)
 
 [⬅️ 이전: 8.3.10. 레이어 모드(Legacy) - 덧씌우기(Overlay)](./08-03-legacy-layer-modesx-10-contrast_layer_mode-overlay.md)
 
