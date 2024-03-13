@@ -30,10 +30,12 @@ GIMP(김프) 2.10 버전의 레이어 모드에 대한 정보는 [레이어 모�
 ***
 
 ## 하위 페이지
-
+### Normal Layer Modes 
 [8.3.1. 레이어 모드(Legacy) - 일반(Normal)](./08-03-legacy-layer-modesx-01-normal_layer_mode-normal.md)
 
 [8.3.2. 레이어 모드(Legacy) - 분해(Dissolve)](./08-03-legacy-layer-modesx-02-normal_layer_mode-dissolve.md)
+
+### Lighten Layer Modes
 
 ***
 
