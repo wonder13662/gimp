@@ -51,6 +51,11 @@ GIMP(김프) 2.10 버전의 레이어 모드에 대한 정보는 [레이어 모�
 
 [8.3.9. 레이어 모드(Legacy) - 번(Burn)](./08-03-legacy-layer-modesx-09-darken_layer_mode-burn.md)
 
+### Contrast Layer Modes
+[8.3.10. 레이어 모드(Legacy) - 덧씌우기(Overlay)](./08-03-legacy-layer-modesx-10-contrast_layer_mode-overlay.md)
+
+[8.3.11. 레이어 모드(Legacy) - 부드러운 빛(Soft light)](./08-03-legacy-layer-modesx-11-contrast_layer_mode-soft_light.md)
+
 ***
 
 ## 다른 페이지로 가기
