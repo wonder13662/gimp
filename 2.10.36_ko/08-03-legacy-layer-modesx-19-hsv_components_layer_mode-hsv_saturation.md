@@ -8,7 +8,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 8.3.20. 레이어 모드(Legacy) - HSL 색상(HSL Color)](./08-03-legacy-layer-modesx-20-hsv_components_layer_mode-hsv_color.md)
+[➡️ 다음: 8.3.20. 레이어 모드(Legacy) - HSL 색상(HSL Color)](./08-03-legacy-layer-modesx-20-hsv_components_layer_mode-hsl_color.md)
 
 [⬅️ 이전: 8.3.18. 레이어 모드(Legacy) - HSV 색상(HSV Hue)](./08-03-legacy-layer-modesx-18-hsv_components_layer_mode-hsv_hue.md)
 
