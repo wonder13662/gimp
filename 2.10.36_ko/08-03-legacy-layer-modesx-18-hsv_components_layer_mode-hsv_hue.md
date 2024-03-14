@@ -8,7 +8,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 8.3.19. 레이어 모드(Legacy) - HSV 채도(HSV Saturation)](./08-03-legacy-layer-modesx-19-hsv_components_layer_mode-hsv_saturation.md)
 
 [⬅️ 이전: 8.3.17. 레이어 모드(Legacy) - 나누기(Divide)](./08-03-legacy-layer-modesx-17-inversion_layer_mode-divide.md)
 

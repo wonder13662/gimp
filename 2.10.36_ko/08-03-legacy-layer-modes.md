@@ -71,6 +71,8 @@ GIMP(김프) 2.10 버전의 레이어 모드에 대한 정보는 [레이어 모�
 
 ### HSV Components Layer Modes
 [8.3.18. 레이어 모드(Legacy) - HSV 색상(HSV Hue)](./08-03-legacy-layer-modesx-18-hsv_components_layer_mode-hsv_hue.md)
+
+[8.3.19. 레이어 모드(Legacy) - HSV 채도(HSV Saturation)](./08-03-legacy-layer-modesx-19-hsv_components_layer_mode-hsv_saturation.md)
 ***
 
 ## 다른 페이지로 가기
