@@ -64,6 +64,8 @@ GIMP(김프) 2.10 버전의 레이어 모드에 대한 정보는 [레이어 모�
 [8.3.14. 레이어 모드(Legacy) - 빼기(Subtract)](./08-03-legacy-layer-modesx-14-inversion_layer_mode-subtract.md)
 
 [8.3.15. 레이어 모드(Legacy) - 질감 드러내기(Grain extract)](./08-03-legacy-layer-modesx-15-inversion_layer_mode-grain_extract.md)
+
+[8.3.16. 레이어 모드(Legacy) - 질감 합치기(Grain merge)](./08-03-legacy-layer-modesx-16-inversion_layer_mode-grain_merge.md)
 ***
 
 ## 다른 페이지로 가기

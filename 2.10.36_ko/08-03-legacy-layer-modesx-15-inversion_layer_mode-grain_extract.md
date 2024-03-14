@@ -44,7 +44,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 8.3.16. 레이어 모드(Legacy) - 질감 합치기(Grain merge)](./08-03-legacy-layer-modesx-16-inversion_layer_mode-grain_merge.md)
 
 [⬅️ 이전: 8.3.14. 레이어 모드(Legacy) - 빼기(Subtract)](./08-03-legacy-layer-modesx-14-inversion_layer_mode-subtract.md)
 
