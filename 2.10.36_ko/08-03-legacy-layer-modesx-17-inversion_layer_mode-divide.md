@@ -49,7 +49,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 8.3.18. 레이어 모드(Legacy) - HSV 색상(HSV Hue)](./08-03-legacy-layer-modesx-18-hsv_components_layer_mode-hsv_hue.md)
 
 [⬅️ 이전: 8.3.16. 레이어 모드(Legacy) - 질감 합치기(Grain merge)](./08-03-legacy-layer-modesx-16-inversion_layer_mode-grain_merge.md)
 
