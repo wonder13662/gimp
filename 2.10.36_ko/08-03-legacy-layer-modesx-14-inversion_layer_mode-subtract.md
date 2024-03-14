@@ -44,7 +44,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 8.3.15. 레이어 모드(Legacy) - 질감 드러내기(Grain extract)](./08-03-legacy-layer-modesx-15-inversion_layer_mode-grain_extract.md)
 
 [⬅️ 이전: 8.3.13. 레이어 모드(Legacy) - 차이점(Difference)](./08-03-legacy-layer-modesx-13-inversion_layer_mode-difference.md)
 
