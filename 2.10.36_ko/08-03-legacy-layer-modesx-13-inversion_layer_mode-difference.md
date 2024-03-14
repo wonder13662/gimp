@@ -50,7 +50,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 8.3.14. 레이어 모드(Legacy) - 빼기(Subtract)](./08-03-legacy-layer-modesx-14-inversion_layer_mode-subtract.md)
 
 [⬅️ 이전: 8.3.12. 레이어 모드(Legacy) - 강한 빛(Hard light)](./08-03-legacy-layer-modesx-12-contrast_layer_mode-hard_light.md)
 
