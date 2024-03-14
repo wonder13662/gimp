@@ -37,7 +37,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 8.3.17. 레이어 모드(Legacy) - 나누기(Divide)](./08-03-legacy-layer-modesx-17-inversion_layer_mode-divide.md)
 
 [⬅️ 이전: 8.3.15. 레이어 모드(Legacy) - 질감 드러내기(Grain extract)](./08-03-legacy-layer-modesx-15-inversion_layer_mode-grain_extract.md)
 
