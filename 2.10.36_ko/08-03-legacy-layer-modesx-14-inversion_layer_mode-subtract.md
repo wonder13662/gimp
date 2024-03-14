@@ -1,8 +1,13 @@
 # 8.3.14. 레이어 모드(Legacy) - 빼기(Subtract)
 ## 1. 이미지 예시
 #### 그림 8.3.14.a11. 레이어 모드(Legacy) - 빼기(Subtract)
+![08-03-14-layer_mode_legacy-subtract](https://github.com/wonder13662/gimp/assets/15767104/3c43c065-12e8-4463-8795-c19850b58526)
+
+`레이어 모드(Legacy) - 빼기(Subtract)` 모드를 적용하면 보통 이미지는 어두워집니다.
 
 ## 2. 방정식과 예시
+`레이어 모드(Legacy) - 빼기(Subtract)` 모드는 아래쪽 레이어의 픽셀 값에서 위쪽 레이어의 픽셀 값을 뺀 결과를 가져갑니다. 음수값을 갖게 되는 픽셀 값은 0으로 조정됩니다.
+
 #### 그림 8.3.14.a21. 레이어 모드(Legacy) - 빼기(Subtract): 방정식
 ![08-03-14-layer_mode_legacy-subtract-equation](https://github.com/wonder13662/gimp/assets/15767104/7f6194a4-5dc6-407b-bf60-23c149db26ef)
 
