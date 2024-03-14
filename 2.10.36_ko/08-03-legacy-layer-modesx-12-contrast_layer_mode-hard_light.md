@@ -17,9 +17,9 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 8.3.13. 레이어 모드(Legacy) - 차이점(Difference)](./08-03-legacy-layer-modesx-13-inversion_layer_mode-difference.md)
 
-[⬅️ 이전: 레이어 모드(Legacy) - 부드러운 빛(Soft light)](./08-03-legacy-layer-modesx-11-contrast_layer_mode-soft_light.md)
+[⬅️ 이전: 8.3.11. 레이어 모드(Legacy) - 부드러운 빛(Soft light)](./08-03-legacy-layer-modesx-11-contrast_layer_mode-soft_light.md)
 
 [⬆️ 위: 8.3. 레거시 레이어 모드](./08-03-legacy-layer-modes.md)
 

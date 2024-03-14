@@ -58,6 +58,8 @@ GIMP(김프) 2.10 버전의 레이어 모드에 대한 정보는 [레이어 모�
 
 [8.3.12. 레이어 모드(Legacy) - 강한 빛(Hard light)](./08-03-legacy-layer-modesx-12-contrast_layer_mode-hard_light.md)
 
+### Inversion Layer Modes
+[8.3.13. 레이어 모드(Legacy) - 차이점(Difference)](./08-03-legacy-layer-modesx-13-inversion_layer_mode-difference.md)
 ***
 
 ## 다른 페이지로 가기
