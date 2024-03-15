@@ -28,7 +28,7 @@
 
 ⚠️ 주의: 단축키 사용시에는 입력 언어가 영문으로 설정되어야 합니다. 우리말(한글)로 설정된 경우에 작동하지 않습니다.
 
-#### 영상 90.1.6.1.a3. 단축키 Alt(⌥) + L → N로 `레이어` → `새 레이어` 메뉴를 클릭해서 새 레이어를 레이어 그룹에 추가하기
+#### [영상 90.1.6.1.a3. 단축키 Alt(⌥) + L → N로 `레이어` → `새 레이어` 메뉴를 클릭해서 새 레이어를 레이어 그룹에 추가하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-01-new_layer.html#%EC%98%81%EC%83%81-90161a3-%EB%8B%A8%EC%B6%95%ED%82%A4-alt--l--n%EB%A1%9C-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A9%94%EB%89%B4%EB%A5%BC-%ED%81%B4%EB%A6%AD%ED%95%B4%EC%84%9C-%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%97%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eca5011b-10e8-47d3-9266-9f1c394d24e2"></video>
 
 
@@ -37,23 +37,23 @@
 
 ⚠️ 주의: 단축키 사용시에는 입력 언어가 영문으로 설정되어야 합니다. 우리말(한글)로 설정된 경우에 작동하지 않습니다.
 
-#### 영상 90.1.6.1.a4. 단축키 Shift(⇧) + Ctrl(⌘) + N로 `레이어` → `새 레이어` 메뉴를 클릭해서 새 레이어를 레이어 그룹에 추가하기
+#### [영상 90.1.6.1.a4. 단축키 Shift(⇧) + Ctrl(⌘) + N로 `레이어` → `새 레이어` 메뉴를 클릭해서 새 레이어를 레이어 그룹에 추가하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-01-new_layer.html#%EC%98%81%EC%83%81-90161a4-%EB%8B%A8%EC%B6%95%ED%82%A4-shift--ctrl--n%EB%A1%9C-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A9%94%EB%89%B4%EB%A5%BC-%ED%81%B4%EB%A6%AD%ED%95%B4%EC%84%9C-%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%97%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f3e8ccdc-2725-4c47-979c-e28fc013d5bf"></video>
 
 ## 3. 레이어 그룹 열기/닫기
 레이어 그룹이 비어 있지 않다면, 작은 아이콘이 나타납니다. 이 아이콘을 클릭하면, 레이어 그룹을 닫거나 열 수 있습니다.
 
-#### 그림 90.4.3.a331. 레이어 그룹 안에 내용이 있을 때, 레이어 그룹 열기/닫기 아이콘 (Windows) (우리말)
-![90-04-03-a331-dialog_layer-layer_group_closed(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/cdaafc7a-f56e-4831-8027-5c8a4b99aefb)
+#### [그림 90.4.3.a331. 레이어 그룹 안에 내용이 있을 때, 레이어 그룹 열기/닫기 아이콘 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a331-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%95%88%EC%97%90-%EB%82%B4%EC%9A%A9%EC%9D%B4-%EC%9E%88%EC%9D%84-%EB%95%8C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%97%B4%EA%B8%B0%EB%8B%AB%EA%B8%B0-%EC%95%84%EC%9D%B4%EC%BD%98-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-03-a331-dialog_layer-layer_group_closed(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/cdaafc7a-f56e-4831-8027-5c8a4b99aefb)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a331-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%95%88%EC%97%90-%EB%82%B4%EC%9A%A9%EC%9D%B4-%EC%9E%88%EC%9D%84-%EB%95%8C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%97%B4%EA%B8%B0%EB%8B%AB%EA%B8%B0-%EC%95%84%EC%9D%B4%EC%BD%98-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-#### 그림 90.4.3.a332. 레이어 그룹 안에 내용이 있을 때, 레이어 그룹 열기/닫기 (Windows) (우리말)
-![90-04-03-a331-dialog_layer-layer_group_toggle(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/a2f7d143-b1ab-453c-b701-ce219baf8002)
+#### [그림 90.4.3.a332. 레이어 그룹 안에 내용이 있을 때, 레이어 그룹 열기/닫기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a332-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%95%88%EC%97%90-%EB%82%B4%EC%9A%A9%EC%9D%B4-%EC%9E%88%EC%9D%84-%EB%95%8C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%97%B4%EA%B8%B0%EB%8B%AB%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-03-a331-dialog_layer-layer_group_toggle(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/a2f7d143-b1ab-453c-b701-ce219baf8002)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a332-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%95%88%EC%97%90-%EB%82%B4%EC%9A%A9%EC%9D%B4-%EC%9E%88%EC%9D%84-%EB%95%8C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%97%B4%EA%B8%B0%EB%8B%AB%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ## 4. 레이어 그룹 안의 레이어의 들여쓰기
 레이어 그룹에 속해있는 레이어들은 부모 레이어와 구분되기 쉽게 오른쪽으로 살짝 들어가 있습니다. 아래 이미지에서 깜빡이는 부분이 오른쪽으로 살짝 들어간 공간입니다.
 
-#### 그림 90.4.3.a333. 레이어 그룹 안에 내용의 들여쓰기 (Windows) (우리말)
-![90-04-03-a333-dialog_layer-indentation(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/923c0f99-8fee-4937-b339-98b15ceec6e0)
+#### [그림 90.4.3.a333. 레이어 그룹 안에 내용의 들여쓰기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a333-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%95%88%EC%97%90-%EB%82%B4%EC%9A%A9%EC%9D%98-%EB%93%A4%EC%97%AC%EC%93%B0%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-03-a333-dialog_layer-indentation(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/923c0f99-8fee-4937-b339-98b15ceec6e0)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a333-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%95%88%EC%97%90-%EB%82%B4%EC%9A%A9%EC%9D%98-%EB%93%A4%EC%97%AC%EC%93%B0%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 
