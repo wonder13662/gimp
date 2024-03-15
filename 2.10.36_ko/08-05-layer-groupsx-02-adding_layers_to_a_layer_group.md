@@ -9,18 +9,18 @@
 
 ### 2-1. 레이어 대화상자의 아래쪽 버튼(`새 레이어`) 누르기
 
-#### 그림 90.4.3.a3-1. 레이어 대화상자 - 새 레이어 추가 버튼
-![90-04-03-layers(w1080)-focus-new_layer](https://github.com/wonder13662/gimp/assets/15767104/aa91e238-e989-4481-af07-02ecef80c0fc)
+#### [그림 90.4.3.a3-1. 레이어 대화상자 - 새 레이어 추가 버튼](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a3-1-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%B6%94%EA%B0%80-%EB%B2%84%ED%8A%BC)
+[![90-04-03-layers(w1080)-focus-new_layer](https://github.com/wonder13662/gimp/assets/15767104/aa91e238-e989-4481-af07-02ecef80c0fc)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a3-1-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%B6%94%EA%B0%80-%EB%B2%84%ED%8A%BC)
 
-#### 영상 90.4.3.a3-2. 레이어 대화상자 - 새 레이어 추가 버튼으로 레이어 그룹 안에 레이어 추가
+#### [영상 90.4.3.a3-2. 레이어 대화상자 - 새 레이어 추가 버튼으로 레이어 그룹 안에 레이어 추가](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EC%98%81%EC%83%81-9043a3-2-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%B6%94%EA%B0%80-%EB%B2%84%ED%8A%BC%EC%9C%BC%EB%A1%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%95%88%EC%97%90-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%B6%94%EA%B0%80)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/877ae55c-d51f-4d42-808e-10b27d6b192d"></video>
 
 ### 2-2. 이미지 메뉴 바의 `레이어` → `새 레이어` 메뉴 선택
 
-#### 그림 90.1.6.1.a1. `레이어` → `새 레이어`
-![90-01-06-layer(1080)-focus-new_layer](https://github.com/wonder13662/gimp/assets/15767104/0ed82adb-7ea5-4238-ad3b-c669e6ce926a)
+#### [그림 90.1.6.1.a1. `레이어` → `새 레이어`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-01-new_layer.html#%EA%B7%B8%EB%A6%BC-90161a1-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4)
+[![90-01-06-layer(1080)-focus-new_layer](https://github.com/wonder13662/gimp/assets/15767104/0ed82adb-7ea5-4238-ad3b-c669e6ce926a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-01-new_layer.html#%EA%B7%B8%EB%A6%BC-90161a1-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4)
 
-#### 영상 90.1.6.1.a2. `레이어` → `새 레이어`로 새 레이어를 레이어 그룹에 추가하기
+#### [영상 90.1.6.1.a2. `레이어` → `새 레이어`로 새 레이어를 레이어 그룹에 추가하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-01-new_layer.html#%EC%98%81%EC%83%81-90161a2-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A1%9C-%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%97%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/af7787db-3634-4cc5-a833-5d2052d2228c"></video>
 
 ### 2-3. 이미지 메뉴 바의 `레이어` → `새 레이어` 메뉴 선택(단축키)

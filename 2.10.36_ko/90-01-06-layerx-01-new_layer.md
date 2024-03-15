@@ -5,12 +5,12 @@
 
 [8.4. 새 레이어 만들기 - 그림 90.1.6.1.a1.](https://wonder13662.github.io/gimp/2.10.36_ko/08-04-creating-new-layers.html#%EA%B7%B8%EB%A6%BC-90161a1-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4)
 
-[8.5.2. 레이어 그룹에 레이어 넣기(Adding Layers to a Layer Group) - 그림 90.1.6.1.a1.]()
+[8.5.2. 레이어 그룹에 레이어 넣기(Adding Layers to a Layer Group) - 그림 90.1.6.1.a1.](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-02-adding_layers_to_a_layer_group.html#%EA%B7%B8%EB%A6%BC-90161a1-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4)
 
 #### 영상 90.1.6.1.a2. `레이어` → `새 레이어`로 새 레이어를 레이어 그룹에 추가하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/af7787db-3634-4cc5-a833-5d2052d2228c"></video>
 
-[8.5.2. 레이어 그룹에 레이어 넣기(Adding Layers to a Layer Group) - 영상 90.1.6.1.a2]()
+[8.5.2. 레이어 그룹에 레이어 넣기(Adding Layers to a Layer Group) - 영상 90.1.6.1.a2](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-02-adding_layers_to_a_layer_group.html#%EC%98%81%EC%83%81-90161a2-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A1%9C-%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%97%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 
 ***
 
