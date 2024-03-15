@@ -25,6 +25,8 @@
 #### 영상 90.4.62.a112. `레이어 속성 편집` 대화상자에서 레이어 그룹의 이름 바꾸기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/441d47e0-1b58-433f-bdb8-285814e411a7"></video>
 
+[8.5.1. 레이어 그룹 만들기(Create a Layer Group) - 영상 90.4.62.a112](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-01-create_a_layer_group.html#%EC%98%81%EC%83%81-90462a112-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%86%8D%EC%84%B1-%ED%8E%B8%EC%A7%91-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%98-%EC%9D%B4%EB%A6%84-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+
 ***
 
 ## 다른 페이지로 가기
