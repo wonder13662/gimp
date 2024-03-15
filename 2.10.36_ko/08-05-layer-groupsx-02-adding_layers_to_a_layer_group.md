@@ -26,20 +26,34 @@
 ### 2-3. 이미지 메뉴 바의 `레이어` → `새 레이어` 메뉴 선택(단축키)
 단축키 Alt(⌥) + L → N 으로 `레이어` → `새 레이어` 메뉴 선택를 선택하여 `새 레이어` 대화상자를 엽니다. 이 대화상자로 새로운 레이어를 추가합니다.
 
+⚠️ 주의: 단축키 사용시에는 입력 언어가 영문으로 설정되어야 합니다. 우리말(한글)로 설정된 경우에 작동하지 않습니다.
+
 #### 영상 90.1.6.1.a3. 단축키 Alt(⌥) + L → N로 `레이어` → `새 레이어` 메뉴를 클릭해서 새 레이어를 레이어 그룹에 추가하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eca5011b-10e8-47d3-9266-9f1c394d24e2"></video>
 
+
 ### 2-4. 단축키 Shift(⇧) + Ctrl(⌘) + N
 단축키 Shift(⇧) + Ctrl(⌘) + N으로 `레이어` → `새 레이어` 메뉴 선택를 선택하여 `새 레이어` 대화상자를 엽니다. 이 대화상자로 새로운 레이어를 추가합니다.
+
+⚠️ 주의: 단축키 사용시에는 입력 언어가 영문으로 설정되어야 합니다. 우리말(한글)로 설정된 경우에 작동하지 않습니다.
 
 #### 영상 90.1.6.1.a4. 단축키 Shift(⇧) + Ctrl(⌘) + N로 `레이어` → `새 레이어` 메뉴를 클릭해서 새 레이어를 레이어 그룹에 추가하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f3e8ccdc-2725-4c47-979c-e28fc013d5bf"></video>
 
 ## 3. 레이어 그룹 열기/닫기
-When a layer group is not empty, a small icon appears. By clicking it, you can fold or unfold the group.
+레이어 그룹이 비어 있지 않다면, 작은 아이콘이 나타납니다. 이 아이콘을 클릭하면, 레이어 그룹을 닫거나 열 수 있습니다.
+
+#### 그림 90.4.3.a331. 레이어 그룹 안에 내용이 있을 때, 레이어 그룹 열기/닫기 아이콘 (Windows) (우리말)
+![90-04-03-a331-dialog_layer-layer_group_closed(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/cdaafc7a-f56e-4831-8027-5c8a4b99aefb)
+
+#### 그림 90.4.3.a332. 레이어 그룹 안에 내용이 있을 때, 레이어 그룹 열기/닫기 (Windows) (우리말)
+![90-04-03-a331-dialog_layer-layer_group_toggle(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/a2f7d143-b1ab-453c-b701-ce219baf8002)
 
 ## 4. 레이어 그룹 안의 레이어의 들여쓰기
-Layers that belong to a layer group are slightly indented to the right, allowing you to easily see which layers are part of the group.
+레이어 그룹에 속해있는 레이어들은 부모 레이어와 구분되기 쉽게 오른쪽으로 살짝 들어가 있습니다. 아래 이미지에서 깜빡이는 부분이 오른쪽으로 살짝 들어간 공간입니다.
+
+#### 그림 90.4.3.a333. 레이어 그룹 안에 내용의 들여쓰기 (Windows) (우리말)
+![90-04-03-a333-dialog_layer-indentation(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/923c0f99-8fee-4937-b339-98b15ceec6e0)
 
 ***
 
