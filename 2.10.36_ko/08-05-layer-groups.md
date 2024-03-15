@@ -1,4 +1,5 @@
 # 8.5. 레이어 그룹
+레이어 그룹은 계층 구조로 레이어들을 함께 묶을 수 있게 해줍니다. 레이어 그룹으로 작업하는 프로젝트의 레이어가 많을 경우, 프로젝트를 쉽게 관리할 수 있습니다.
 
 ***
 
@@ -33,7 +34,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 9.1. Text management](./09-01-text-management.md)
+[➡️ 다음: 8.5.1. 레이어 그룹 만들기(Create a Layer Group)](./08-05-layer-groupsx-01-create_a_layer_group.md)
 
 [⬅️ 이전: 8.4. 새 레이어 만들기](./08-04-creating-new-layers.md)
 

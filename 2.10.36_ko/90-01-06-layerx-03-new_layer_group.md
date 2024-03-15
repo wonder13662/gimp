@@ -1,6 +1,14 @@
 # 90.1.6.3. 새 레이어 그룹(New Layer Group)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+#### 그림 90.1.6.3.a101. 이미지 메뉴 바의 `레이어` → `새 레이어 그룹(New Layer Group)`
+![90-01-06-layer(1080)-focus-new_layer_group](https://github.com/wonder13662/gimp/assets/15767104/b3eda053-5e55-418a-88c8-78df73aa47b4)
+
+[8.5.1. 레이어 그룹 만들기(Create a Layer Group) - 그림 90.1.6.3.a101]()
+
+#### 영상 90.1.6.3.a102. 이미지 메뉴 바의 `레이어` → `새 레이어 그룹(New Layer Group)`를 클릭해서 레이어 그룹 추가
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e47ba4a2-8f6e-4db1-9001-5ac0d71b3dc8"></video>
+
+[8.5.1. 레이어 그룹 만들기(Create a Layer Group) - 영상 90.1.6.3.a102]()
 
 ***
 

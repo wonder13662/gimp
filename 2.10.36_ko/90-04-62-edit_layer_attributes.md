@@ -17,11 +17,13 @@
 
 [8.1.1. 레이어 속성 - 그림 90.4.62.a105](https://wonder13662.github.io/gimp/2.10.36_ko/08-01-introduction-to-layersx-01-layer_properties.html#%EA%B7%B8%EB%A6%BC-90462a105-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%86%8D%EC%84%B1-%ED%8E%B8%EC%A7%91-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%9D%B4%EB%A6%84-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-#### 영상 90.4.62.a111. `레이어 속성 편집` 대화상자에서 이름 바꾸기 
+#### 영상 90.4.62.a111. `레이어 속성 편집` 대화상자에서 레이어의 이름 바꾸기 
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d5a4bc9d-fee8-4487-9682-c06bc495b71f"></video>
 
 [8.1.1. 레이어 속성 - 영상 90.4.62.a111](https://wonder13662.github.io/gimp/2.10.36_ko/08-01-introduction-to-layersx-01-layer_properties.html#%EC%98%81%EC%83%81-90462a111-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%86%8D%EC%84%B1-%ED%8E%B8%EC%A7%91-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%EC%9D%B4%EB%A6%84-%EB%B0%94%EA%BE%B8%EA%B8%B0-)
 
+#### 영상 90.4.62.a112. `레이어 속성 편집` 대화상자에서 레이어 그룹의 이름 바꾸기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/441d47e0-1b58-433f-bdb8-285814e411a7"></video>
 
 ***
 

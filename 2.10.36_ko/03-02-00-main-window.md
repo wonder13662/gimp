@@ -113,7 +113,7 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 
 ### 3. 레이어 대화상자(Layers Dialog)
 #### [그림 90.4.3.a1. 레이어 대화상자](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a1-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
-[![레이어 대화상자](https://github.com/wonder13662/gimp/assets/15767104/75ca9047-dd8f-4ea2-9a2a-f99e2507acf8)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a1-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
+[![90-04-03-layers(w1080)](https://github.com/wonder13662/gimp/assets/15767104/a374b8d4-5ea0-4cdd-b22f-127ea060d73b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a1-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
 
 여러개의 레이어를 가진 이미지를 편집할 때 사용됩니다. GIMP를 전문적으로 사용하려면 필수적으로 사용하게 됩니다. 그리고 레이어 대화 상자는 작업중인 이미지를 보는데에도 사용합니다.
 
