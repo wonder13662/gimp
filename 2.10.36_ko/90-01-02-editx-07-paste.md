@@ -1,6 +1,12 @@
 # 90.1.2.7. 붙여넣기(Paste)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.2.7.a101. `편집` - `붙여넣기`
+![90-00-image_menu_bar-edit(w1080)-focus-paste](https://github.com/wonder13662/gimp/assets/15767104/a7bb7001-47a9-4d99-b44e-03c1cbadb76d)
+
+#### 영상 90.1.2.7.a102. `편집` → `붙여넣기`로 복사해서 새로운 레이어 만들기
+<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/f8692879-8260-4957-a3c9-22373c6817ad"></video>
+
+[8.4. 새 레이어 만들기 - 영상 90.1.2.7.a102]()
 
 ***
 
