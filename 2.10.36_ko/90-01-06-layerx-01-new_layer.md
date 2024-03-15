@@ -1,9 +1,16 @@
 # 90.1.6.1. 새 레이어(New Layer)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 90.1.6.1.a1. `레이어` → `새 레이어`
+#### 그림 90.1.6.1.a1. `레이어` → `새 레이어`
 ![90-01-06-layer(1080)-focus-new_layer](https://github.com/wonder13662/gimp/assets/15767104/0ed82adb-7ea5-4238-ad3b-c669e6ce926a)
 
-[8.4. 새 레이어 만들기 - 90.1.6.1.a1](https://wonder13662.github.io/gimp/2.10.36_ko/08-04-creating-new-layers.html#%EA%B7%B8%EB%A6%BC-90161a1-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4)
+[8.4. 새 레이어 만들기 - 그림 90.1.6.1.a1.](https://wonder13662.github.io/gimp/2.10.36_ko/08-04-creating-new-layers.html#%EA%B7%B8%EB%A6%BC-90161a1-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4)
+
+[8.5.2. 레이어 그룹에 레이어 넣기(Adding Layers to a Layer Group) - 그림 90.1.6.1.a1.]()
+
+#### 영상 90.1.6.1.a2. `레이어` → `새 레이어`로 새 레이어를 레이어 그룹에 추가하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/af7787db-3634-4cc5-a833-5d2052d2228c"></video>
+
+[8.5.2. 레이어 그룹에 레이어 넣기(Adding Layers to a Layer Group) - 영상 90.1.6.1.a2]()
 
 ***
 
