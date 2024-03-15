@@ -2,8 +2,8 @@
 ## 1. 이미지 메뉴 바의 `레이어` → `새 레이어`
 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `레이어` → `새 레이어`를 선택합니다. 그 다음에 [`새 레이어` 대화상자](./16-07-02-new-layer.md)가 열립니다. 대화상자의 `확인` 버튼을 클릭해서 레이어 대화상자에 선택한 레이어와 똑같은 레이어가 활성화되어 추가됩니다.
 
-#### 그림 90.1.6.1.a1. `레이어` → `새 레이어`
-![90-01-06-layer(1080)-focus-new_layer](https://github.com/wonder13662/gimp/assets/15767104/0ed82adb-7ea5-4238-ad3b-c669e6ce926a)
+#### [그림 90.1.6.1.a1. `레이어` → `새 레이어`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-01-new_layer.html#90161a1-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4)
+[![90-01-06-layer(1080)-focus-new_layer](https://github.com/wonder13662/gimp/assets/15767104/0ed82adb-7ea5-4238-ad3b-c669e6ce926a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-01-new_layer.html#90161a1-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4)
 
 #### 그림 90.4.64.a101. `새 레이어` 대화상자 (Windows) (우리말)
 ![90-04-64-new_layer(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7e0337c7-1786-4630-822d-47832eaee97a)

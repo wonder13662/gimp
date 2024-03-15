@@ -3,7 +3,7 @@
 #### 90.1.6.1.a1. `레이어` → `새 레이어`
 ![90-01-06-layer(1080)-focus-new_layer](https://github.com/wonder13662/gimp/assets/15767104/0ed82adb-7ea5-4238-ad3b-c669e6ce926a)
 
-[8.4. 새 레이어 만들기 - 90.1.6.1.a1]()
+[8.4. 새 레이어 만들기 - 90.1.6.1.a1](https://wonder13662.github.io/gimp/2.10.36_ko/08-04-creating-new-layers.html#%EA%B7%B8%EB%A6%BC-90161a1-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4)
 
 ***
 

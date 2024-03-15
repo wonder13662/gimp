@@ -328,6 +328,14 @@
 #### 그림 90.4.62.a101. `레이어 속성 편집` 대화상자 (Windows) (우리말)
 ![90-04-62-edit_layer_attributes(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/115397e4-f061-4d6f-9baf-64557ded1253)
 
+### [90.4.63. 무채화(Desaturate)](./90-04-63-desaturate.md)
+#### 그림 90.4.63.a101. `무채화` 대화상자 (Windows) (우리말)
+![90-04-63-dialog-desaturate(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/96cb6498-179a-4825-84c9-68b6f28e1743)
+
+### [90.4.64. 새 레이어(New layer)](./90-04-64-new_layer.md)
+#### 그림 90.4.64.a101. `새 레이어` 대화상자 (Windows) (우리말)
+![90-04-64-new_layer(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7e0337c7-1786-4630-822d-47832eaee97a)
+
 ***
 
 ## 공통 기능

@@ -1428,6 +1428,10 @@
 
 [90.4.62. 레이어 속성 편집(Edit Layer Attributes)](./90-04-62-edit_layer_attributes.md)
 
+[90.4.63. 무채화(Desaturate)](./90-04-63-desaturate.md)
+
+[90.4.64. 새 레이어(New layer)](./90-04-64-new_layer.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
