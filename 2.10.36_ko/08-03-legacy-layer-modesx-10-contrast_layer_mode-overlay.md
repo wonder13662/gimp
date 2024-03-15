@@ -13,9 +13,9 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 8.3.9. 레이어 모드(Legacy) - 번(Burn)](./08-03-legacy-layer-modesx-09-darken_layer_mode-burn.md)
+[➡️ 다음: 8.3.11. 레이어 모드(Legacy) - 부드러운 빛(Soft light)](./08-03-legacy-layer-modesx-11-contrast_layer_mode-soft_light.md)
 
-[⬅️ 이전: 8.3.11. 레이어 모드(Legacy) - 부드러운 빛(Soft light)](./08-03-legacy-layer-modesx-11-contrast_layer_mode-soft_light.md)
+[⬅️ 이전: 8.3.9. 레이어 모드(Legacy) - 번(Burn)](./08-03-legacy-layer-modesx-09-darken_layer_mode-burn.md)
 
 [⬆️ 위: 8.3. 레거시 레이어 모드](./08-03-legacy-layer-modes.md)
 
