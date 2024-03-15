@@ -14,6 +14,8 @@
 #### 그림 90.4.64.a104. `새 레이어` 대화상자 (Mac) (영어)
 ![90-04-64-new_layer(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/958d9047-e2a0-4dab-9a9f-d36aac1fd720)
 
+#### 그림 90.4.64.a111. 단축키 Shift(⇧) + Ctrl(⌘) + N로 `새 레이어` 대화상자 열기 (Windows) (우리말)
+
 ***
 
 ## 다른 페이지로 가기

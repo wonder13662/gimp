@@ -24,9 +24,16 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/af7787db-3634-4cc5-a833-5d2052d2228c"></video>
 
 ### 2-3. 이미지 메뉴 바의 `레이어` → `새 레이어` 메뉴 선택(단축키)
+단축키 Alt(⌥) + L → N 으로 `레이어` → `새 레이어` 메뉴 선택를 선택하여 `새 레이어` 대화상자를 엽니다. 이 대화상자로 새로운 레이어를 추가합니다.
 
-### 2-4. 단축키 Shift + Ctrl + N
-(TODO Mac에서도 같은 동작을 하는지 확인 필요)
+#### 영상 90.1.6.1.a3. 단축키 Alt(⌥) + L → N로 `레이어` → `새 레이어` 메뉴를 클릭해서 새 레이어를 레이어 그룹에 추가하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eca5011b-10e8-47d3-9266-9f1c394d24e2"></video>
+
+### 2-4. 단축키 Shift(⇧) + Ctrl(⌘) + N
+단축키 Shift(⇧) + Ctrl(⌘) + N으로 `레이어` → `새 레이어` 메뉴 선택를 선택하여 `새 레이어` 대화상자를 엽니다. 이 대화상자로 새로운 레이어를 추가합니다.
+
+#### 영상 90.1.6.1.a4. 단축키 Shift(⇧) + Ctrl(⌘) + N로 `레이어` → `새 레이어` 메뉴를 클릭해서 새 레이어를 레이어 그룹에 추가하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f3e8ccdc-2725-4c47-979c-e28fc013d5bf"></video>
 
 ## 3. 레이어 그룹 열기/닫기
 When a layer group is not empty, a small icon appears. By clicking it, you can fold or unfold the group.
