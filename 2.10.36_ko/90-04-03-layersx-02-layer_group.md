@@ -16,7 +16,7 @@
 [8.5.2. 레이어 그룹에 레이어 넣기(Adding Layers to a Layer Group) - 영상 90.4.3.2.a31](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-02-adding_layers_to_a_layer_group.html#%EC%98%81%EC%83%81-90432a31-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%B6%94%EA%B0%80-%EB%B2%84%ED%8A%BC%EC%9C%BC%EB%A1%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%95%88%EC%97%90-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%B6%94%EA%B0%80)
 
 #### 그림 90.4.3.2.a41. 레이어 그룹 선택
-![그림 90.4.3.a14. 레이어 그룹 선택](https://github.com/wonder13662/gimp/assets/15767104/b3ec520c-c895-400a-948c-2eeeb8e18422)
+![그림 90.4.3.a14. 레이어 그룹 선택](https://github.com/wonder13662/gimp/assets/15767104/69c1509d-c8a3-4680-8987-4298afc51f90)
 
 [4.2.7. 레이어 그룹에서 작업을 하려는 경우 - 그림 90.4.3.2.a41](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-07-you-are-trying-to-act-on-a-layer-group.html#%EA%B7%B8%EB%A6%BC-90432a41-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%84%A0%ED%83%9D)
 
@@ -90,7 +90,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.4. 채널(Channels)](./90-04-04-channels.md)
+[➡️ 다음: 90.4.3.3. 떠있는 선택(Floating selection)](./90-04-03-layersx-03-floating_selection.md)
 
 [⬅️ 이전: 90.4.3.1. 레이어 대화상자의 컨텍스트 메뉴](./90-04-03-layersx-01-context_menu.md)
 

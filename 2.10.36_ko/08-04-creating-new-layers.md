@@ -20,7 +20,7 @@
 #### [영상 90.1.2.7.a102. `편집` → `붙여넣기`로 복사해서 새로운 레이어 만들기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-07-paste.html#%EA%B7%B8%EB%A6%BC-90127a101-%ED%8E%B8%EC%A7%91---%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0)
 <video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/f8692879-8260-4957-a3c9-22373c6817ad"></video>
 
-#### [영상 90.4.3.a124. 단축키로 잘라내서 고정(anchor)하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EC%98%81%EC%83%81-9043a124-%EB%8B%A8%EC%B6%95%ED%82%A4%EB%A1%9C-%EC%9E%98%EB%9D%BC%EB%82%B4%EC%84%9C-%EA%B3%A0%EC%A0%95anchor%ED%95%98%EA%B8%B0)
+#### [영상 90.4.3.3.a71. 단축키로 잘라내서 고정(anchor)하기]()
 <video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/75c81567-91ea-4306-a716-037fd0264037"></video>
 
 ***

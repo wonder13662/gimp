@@ -1,7 +1,7 @@
 # 4.2.7. 레이어 그룹에서 작업을 하려는 경우
 
 #### [그림 90.4.3.2.a41. 레이어 그룹 선택](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-02-layer_group.html#%EA%B7%B8%EB%A6%BC-90432a41-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%84%A0%ED%83%9D)
-[![그림 90.4.3.a14. 레이어 그룹 선택](https://github.com/wonder13662/gimp/assets/15767104/b3ec520c-c895-400a-948c-2eeeb8e18422)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-02-layer_group.html#%EA%B7%B8%EB%A6%BC-90432a41-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%84%A0%ED%83%9D)
+[![그림 90.4.3.a14. 레이어 그룹 선택](https://github.com/wonder13662/gimp/assets/15767104/69c1509d-c8a3-4680-8987-4298afc51f90)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-02-layer_group.html#%EA%B7%B8%EB%A6%BC-90432a41-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%84%A0%ED%83%9D)
 
 레이어 대화상자 안에서 레이어 그룹이 선택된 모습
 
