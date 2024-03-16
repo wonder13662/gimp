@@ -33,23 +33,23 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/96771078-ba0f-4aee-a5cd-b49153aa6c6c"></video>
 
 ### 선택 영역의 복사 + 붙여넣기로 떠있는 선택 만들기
-#### [그림 90.4.3.3.a31. 선택 영역의 복사 + 붙여넣기로 떠있는 선택 만들기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-03-floating_selection.html#%EA%B7%B8%EB%A6%BC-90433a31-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD%EC%9D%98-%EB%B3%B5%EC%82%AC--%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0%EB%A1%9C-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+#### [영상 90.4.3.3.a31. 선택 영역의 복사 + 붙여넣기로 떠있는 선택 만들기]()
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/df01454e-345e-43ad-af3b-eeb2001c8f4b"></video>
 
 ## 4.2.1.2. 어떻게 해결하나요?
 떠있는 선택 레이어에서 우클릭을 하여 레이어 메뉴를 엽니다. 레이어 메뉴에서 `레이어 고정(Anchor Layer)`을 클릭해서 떠있는 레이어의 아래 레이어로 합칩니다.
 
-#### [그림 90.4.3.3.a41. 떠있는 선택을 고정(anchor)하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-03-floating_selection.html#%EA%B7%B8%EB%A6%BC-90433a41-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D%EC%9D%84-%EA%B3%A0%EC%A0%95anchor%ED%95%98%EA%B8%B0)
+#### [영상 90.4.3.3.a41. 떠있는 선택을 고정(anchor)하기]()
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c175c5af-83c8-4fb6-874b-50893df5dc66"></video>
 
 또는 `새 레이어`를 클릭해서 떠있는 선택을 일반적인 레이어로 바꿀 수 있습니다.
 
-#### [그림 90.4.3.3.a51. 떠있는 선택을 탭 메뉴로 새 레이어로 만들기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-03-floating_selection.html#%EA%B7%B8%EB%A6%BC-90433a51-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D%EC%9D%84-%ED%83%AD-%EB%A9%94%EB%89%B4%EB%A1%9C-%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+#### [영상 90.4.3.3.a51. 떠있는 선택을 탭 메뉴로 새 레이어로 만들기]()
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c4472841-c8ce-4b80-8f0f-a9ca33067258"></video>
 
 단축키 Shift + Ctrl + N(Windows) 또는 ⇧ + ⌘ + N(Mac)으로 떠있는 선택을 일반적인 레이어로 바꿀 수 있습니다.
 
-#### [그림 90.4.3.3.a61. 떠있는 선택을 단축키로 새 레이어로 만들기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-03-floating_selection.html#%EA%B7%B8%EB%A6%BC-90433a61-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D%EC%9D%84-%EB%8B%A8%EC%B6%95%ED%82%A4%EB%A1%9C-%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+#### [영상 90.4.3.3.a61. 떠있는 선택을 단축키로 새 레이어로 만들기]()
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d78747ae-8278-417e-bc9d-969f6eff3a03"></video>
 
 자세한 내용은 [16.4.5. 띄우기(Float)](./16-04-05-float.md)를 참고해주세요.

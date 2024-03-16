@@ -5,30 +5,34 @@
 
 [4.2.1. 떠있는 선택(floating selection) - 그림 90.4.3.3.a11](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-01-there-is-a-floating-selection.html#%EA%B7%B8%EB%A6%BC-90433a11-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D-windows)
 
+(TODO 이미지 크기 50%로 조정)
+
 #### 그림 90.4.3.3.a21. 레이어 대화상자 - 떠있는 선택 (Mac)
 ![그림 90.4.3.a102. 레이어 대화상자 - 떠있는 선택 (Mac)](https://github.com/wonder13662/gimp/assets/15767104/3d81e7cb-81fb-4694-9ec3-bd3ad8e172ca)
 
-#### 그림 90.4.3.3.a31. 선택 영역의 복사 + 붙여넣기로 떠있는 선택 만들기
+(TODO 이미지 크기 50%로 조정)
+
+#### 영상 90.4.3.3.a31. 선택 영역의 복사 + 붙여넣기로 떠있는 선택 만들기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/df01454e-345e-43ad-af3b-eeb2001c8f4b"></video>
 
-[4.2.1. 떠있는 선택(floating selection) - 그림 90.4.3.3.a31](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-01-there-is-a-floating-selection.html#%EA%B7%B8%EB%A6%BC-90433a31-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD%EC%9D%98-%EB%B3%B5%EC%82%AC--%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0%EB%A1%9C-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+[4.2.1. 떠있는 선택(floating selection) - 영상 90.4.3.3.a31]()
 
-[7.1.2. 부분적으로 투명한 선택 만들기 - 그림 90.4.3.3.a31](https://wonder13662.github.io/gimp/2.10.36_ko/07-01-the-selectionx-02-making_a_selection_partially_transparent.html#%EA%B7%B8%EB%A6%BC-90433a31-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD%EC%9D%98-%EB%B3%B5%EC%82%AC--%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0%EB%A1%9C-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+[7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.4.3.3.a31]()
 
-#### 그림 90.4.3.3.a41. 떠있는 선택을 고정(anchor)하기
+#### 영상 90.4.3.3.a41. 떠있는 선택을 고정(anchor)하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c175c5af-83c8-4fb6-874b-50893df5dc66"></video>
 
-[4.2.1. 떠있는 선택(floating selection) - 그림 90.4.3.3.a41](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-01-there-is-a-floating-selection.html#%EA%B7%B8%EB%A6%BC-90433a41-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D%EC%9D%84-%EA%B3%A0%EC%A0%95anchor%ED%95%98%EA%B8%B0)
+[4.2.1. 떠있는 선택(floating selection) - 영상 90.4.3.3.a41]()
 
-#### 그림 90.4.3.3.a51. 떠있는 선택을 탭 메뉴로 새 레이어로 만들기
+#### 영상 90.4.3.3.a51. 떠있는 선택을 탭 메뉴로 새 레이어로 만들기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c4472841-c8ce-4b80-8f0f-a9ca33067258"></video>
 
-[4.2.1. 떠있는 선택(floating selection) - 그림 90.4.3.3.a51](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-01-there-is-a-floating-selection.html#%EA%B7%B8%EB%A6%BC-90433a51-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D%EC%9D%84-%ED%83%AD-%EB%A9%94%EB%89%B4%EB%A1%9C-%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+[4.2.1. 떠있는 선택(floating selection) - 영상 90.4.3.3.a51]()
 
-#### 그림 90.4.3.3.a61. 떠있는 선택을 단축키로 새 레이어로 만들기
+#### 영상 90.4.3.3.a61. 떠있는 선택을 단축키로 새 레이어로 만들기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d78747ae-8278-417e-bc9d-969f6eff3a03"></video>
 
-[4.2.1. 떠있는 선택(floating selection) - 그림 90.4.3.a61](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-01-there-is-a-floating-selection.html#%EA%B7%B8%EB%A6%BC-90433a61-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D%EC%9D%84-%EB%8B%A8%EC%B6%95%ED%82%A4%EB%A1%9C-%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+[4.2.1. 떠있는 선택(floating selection) - 그림 90.4.3.a61]()
 
 #### 영상 90.4.3.3.a71. 단축키로 잘라내서 고정(anchor)하기
 <video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/75c81567-91ea-4306-a716-037fd0264037"></video>
