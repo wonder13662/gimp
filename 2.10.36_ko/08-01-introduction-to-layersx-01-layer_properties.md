@@ -126,7 +126,7 @@
 
 Shift(⇧) 버튼을 누른 채, 눈 모양을 클릭하면, 방금 클릭한 레이어를 제외한 모든 레이어를 숨깁니다.
 
-#### [영상 90.4.3.5.a31. Shift(⇧)를 누른채로 가시성(Visibility) 심볼 토글하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-05-visibility.html#%EA%B7%B8%EB%A6%BC-90435a21-%EA%B0%80%EC%8B%9C%EC%84%B1visibility-%EC%8B%AC%EB%B3%BC-%ED%86%A0%EA%B8%80%ED%95%98%EA%B8%B0)
+#### [영상 90.4.3.5.a31. Shift(⇧)를 누른채로 가시성(Visibility) 심볼 토글하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-05-visibility.html#%EC%98%81%EC%83%81-90435a31-shift%EB%A5%BC-%EB%88%84%EB%A5%B8%EC%B1%84%EB%A1%9C-%EA%B0%80%EC%8B%9C%EC%84%B1visibility-%EC%8B%AC%EB%B3%BC-%ED%86%A0%EA%B8%80%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1b3ab6fc-c557-4cca-a3b6-c3280fa74002"></video>
 
 ## 5. 활성화 레이어(Active Layer)
