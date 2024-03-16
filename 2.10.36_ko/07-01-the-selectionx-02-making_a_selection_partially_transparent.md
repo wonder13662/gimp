@@ -48,7 +48,7 @@
 ### 3. 레이어 대화상자의 컨텍스트 메뉴 사용
 레이어 대화상자의 `떠있는 선택(floating selection)` 레이어의 오른쪽 클릭을 해서 컨텍스트 메뉴를 엽니다. 그리고 `레이어 고정`을 선택합니다
 
-#### [영상 90.4.3.1.a71. "떠있는 선택(Floating selection)"을 대화상자의 컨텍스트 메뉴의 `레이어 고정`으로 고정하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EC%98%81%EC%83%81-9043a185-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9Dfloating-selection%EC%9D%84-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4%EC%9D%98-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B3%A0%EC%A0%95%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EC%A0%95%ED%95%98%EA%B8%B0)
+#### [영상 90.4.3.1.a71. "떠있는 선택(Floating selection)"을 대화상자의 컨텍스트 메뉴의 `레이어 고정`으로 고정하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-01-context_menu.html#%EC%98%81%EC%83%81-90431a71-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9Dfloating-selection%EC%9D%84-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4%EC%9D%98-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B3%A0%EC%A0%95%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EC%A0%95%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4ea970be-7bdb-4b9b-8c05-fdc3d899aae2"></video>
 
 ### 복사 + 붙여넣기 방법
