@@ -18,15 +18,6 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 
 더 자세한 내용은 [19.용어집 - 휘도(Luminance)](./19-glossaryx-luminance.md)를 참고해주세요.
 
-#### 그림 8.2.2.2.a13. 각 레이어별 RGB 정보
-![layer_mode-lighten-02-luma-color_examples-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/d5305f19-9abd-43ed-9729-b7163c7f3b9e)
-
-||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
-|---|---|---|---|
-|적색(Red)|249.0|255.0|249.0|
-|녹색(Green)|251.0|0.0|251.0|
-|청색(Blue)|10.0|255.0|10.0|
-
 ## 2. 예제들
 
 그럼 실제 사례를 살펴보겠습니다.
