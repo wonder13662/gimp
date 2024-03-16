@@ -3,7 +3,7 @@
 #### 그림 90.4.3.5.a1. 레이어의 숨김 상태
 ![그림 4.4. 레이어의 숨김 상태](https://github.com/wonder13662/gimp/assets/15767104/5724d0c0-8444-4d84-a4b8-26dd4f15170c)
 
-[4.2.4. 활성화된 drawable이 보이지 않는 경우 - 그림 90.4.3.5.a1]()
+[4.2.4. 활성화된 drawable이 보이지 않는 경우 - 그림 90.4.3.5.a1](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-04-the-active-drawable-is-not-visible.html#%EA%B7%B8%EB%A6%BC-90435a1-%EB%A0%88%EC%9D%B4%EC%96%B4%EC%9D%98-%EC%88%A8%EA%B9%80-%EC%83%81%ED%83%9C)
 
 #### 영상 90.4.3.5.a11. 레이어의 눈 아이콘 토글로 레이어 보이기/숨기기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/836a5ca4-2185-4148-9e0e-60e3a50f8480"></video>
