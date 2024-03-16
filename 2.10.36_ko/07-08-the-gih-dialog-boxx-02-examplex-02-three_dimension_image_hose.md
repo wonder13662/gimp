@@ -66,13 +66,13 @@
 
 "hand0k"와 파란색 손 복사본만 보이도록 합니다. 레이어 대화상자에 오른쪽 클릭을 하여서 컨텍스트 메뉴를 엽니다.
 
-#### [그림 90.4.3.a202. 레이어 대화상자의 컨텍스트 메뉴 열기 (windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a202-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-03-layer_dialog-toggle_context_menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/faac9099-0657-4cd8-8bc0-b1bce6a098b6)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a202-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### [그림 90.4.3.1.a41. 레이어 대화상자의 컨텍스트 메뉴 열기 (windows) (우리말)]()
+[![90-04-03-layer_dialog-toggle_context_menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/faac9099-0657-4cd8-8bc0-b1bce6a098b6)]()
 
 컨텍스트 메뉴의 `보이는 레이어 합치기`를 선택합니다.
 
-#### [그림 90.4.3.a203. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴 (windows) (우리말) - `보이는 레이어 합치기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a203-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%9C%BC%EB%A1%9C-%EC%97%AC%EB%8A%94-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EB%B3%B4%EC%9D%B4%EB%8A%94-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%95%A9%EC%B9%98%EA%B8%B0)
-[![90-04-03-layer_dialog-context_menu(windows)(ko)-focus-merge_visible_layers](https://github.com/wonder13662/gimp/assets/15767104/11f7092a-a90f-401f-83ae-dbb1bd5bf149)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a203-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%9C%BC%EB%A1%9C-%EC%97%AC%EB%8A%94-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EB%B3%B4%EC%9D%B4%EB%8A%94-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%95%A9%EC%B9%98%EA%B8%B0)
+#### [그림 90.4.3.1.a51. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴 (windows) (우리말) - `보이는 레이어 합치기`]()
+[![90-04-03-layer_dialog-context_menu(windows)(ko)-focus-merge_visible_layers](https://github.com/wonder13662/gimp/assets/15767104/11f7092a-a90f-401f-83ae-dbb1bd5bf149)]()
 
 `레이어 합치기` 대화상자의 `필요한만큼 넓히기(Expanded as necessasry)`를 선택합니다.
 
