@@ -54,7 +54,7 @@
 ### 복사 + 붙여넣기 방법
 이 과정을 작업중에 자주 사용한다면 더 나은 방법이 있습니다. `Ctrl` + `C`로 선택을 복사하고, `Ctrl` + `V`로 클립보드에 붙여넣어 [`떠있는 선택(floating selection)`](./16-04-05-float.md)으로 새로운 레이어를 만듭니다. 이 새로운 레이어의 투명도를 조정하면 됩니다.
 
-#### [영상 90.4.3.3.a31. 선택 영역의 복사 + 붙여넣기로 떠있는 선택 만들기]()
+#### [영상 90.4.3.3.a31. 선택 영역의 복사 + 붙여넣기로 떠있는 선택 만들기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-03-floating_selection.html#%EC%98%81%EC%83%81-90433a31-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD%EC%9D%98-%EB%B3%B5%EC%82%AC--%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0%EB%A1%9C-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/df01454e-345e-43ad-af3b-eeb2001c8f4b"></video>
 
 ## 레이어 마스크 사용하기
