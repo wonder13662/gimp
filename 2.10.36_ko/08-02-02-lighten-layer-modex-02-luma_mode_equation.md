@@ -216,3 +216,9 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 [🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/layer-mode-group-lighten.html)
+
+***
+
+## 관련 정보
+
+[8.2.2.2.1. 휘도(Luminance)가 CIE Lab 또는 CIE LCh의 밝기(Lightness) 인가요?](./08-02-02-lighten-layer-modex-02-luma_mode_equationx-01-lch_lightness.md)
