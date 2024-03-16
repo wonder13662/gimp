@@ -3,10 +3,10 @@
 [레이어 대화상자](./15-02-01-layers-dialog.md)의 아래쪽의 `레이어 그룹 추가` 버튼을 눌러서 레이어 그룹을 만들 수 있습니다. 레이어 그룹을 만들면, 새로운 빈 레이어 그룹이 현재 레이어 위에 생깁니다.
 
 ### 1-1. 레이어 대화상자의 아래쪽 레이어 그룹 추가 버튼
-#### [그림 90.4.3.2.a11. 레이어 대화상자 - 레이어 그룹 추가 버튼]()
-[![90-04-03-layers(w1080)-focus-add_layer_group](https://github.com/wonder13662/gimp/assets/15767104/1d059924-dec2-466c-bcb7-7f28d23c01b3)]()
+#### [그림 90.4.3.2.a11. 레이어 대화상자 - 레이어 그룹 추가 버튼](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-02-layer_group.html#%EA%B7%B8%EB%A6%BC-90432a11-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%B6%94%EA%B0%80-%EB%B2%84%ED%8A%BC)
+[![90-04-03-layers(w1080)-focus-add_layer_group](https://github.com/wonder13662/gimp/assets/15767104/1d059924-dec2-466c-bcb7-7f28d23c01b3)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-02-layer_group.html#%EA%B7%B8%EB%A6%BC-90432a11-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%B6%94%EA%B0%80-%EB%B2%84%ED%8A%BC)
 
-#### [영상 90.4.3.2.a21. 레이어 대화상자 - 레이어 그룹 추가 버튼으로 레이어 그룹 추가]()
+#### [영상 90.4.3.2.a21. 레이어 대화상자 - 레이어 그룹 추가 버튼으로 레이어 그룹 추가](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-02-layer_group.html#%EC%98%81%EC%83%81-90432a21-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%B6%94%EA%B0%80-%EB%B2%84%ED%8A%BC%EC%9C%BC%EB%A1%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%B6%94%EA%B0%80)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d41a23d7-ca29-4045-8ab8-be7e4932b61c"></video>
 
 ### 1-2. 이미지 메뉴 바의 `레이어` → `새 레이어 그룹(New Layer Group)`
@@ -34,19 +34,19 @@
 1. 레이어 대화상자의 레이어에서 더블 클릭
 2. 레이어 그룹 이름 바꾸기
 
-#### [영상 90.4.3.2.a71. 레이어 대화상자의 레이어 그룹을 더블 클릭 → 레이어 그룹 이름 바꾸기]()
+#### [영상 90.4.3.2.a71. 레이어 대화상자의 레이어 그룹을 더블 클릭 → 레이어 그룹 이름 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-02-layer_group.html#%EC%98%81%EC%83%81-90432a71-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%84-%EB%8D%94%EB%B8%94-%ED%81%B4%EB%A6%AD--%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%9D%B4%EB%A6%84-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7c82b7cd-53ef-439d-9802-1cc6f6ac73d4"></video>
 
 ### 2-2. F2 키 누르기
 1. 레이어 대화상자의 레이어에서 F2 키 누르기
 2. 레이어 그룹 이름 바꾸기
 
-#### [영상 90.4.3.2.a81. 레이어 대화상자의 레이어 그룹 위에서 F2 키 누르기 → 레이어 그룹 이름 바꾸기 (Windows) (우리말)]()
+#### [영상 90.4.3.2.a81. 레이어 대화상자의 레이어 그룹 위에서 F2 키 누르기 → 레이어 그룹 이름 바꾸기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-02-layer_group.html#%EC%98%81%EC%83%81-90432a81-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%9C%84%EC%97%90%EC%84%9C-f2-%ED%82%A4-%EB%88%84%EB%A5%B4%EA%B8%B0--%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%9D%B4%EB%A6%84-%EB%B0%94%EA%BE%B8%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4ea1cb5e-3a81-4edc-8fad-50287aae21b4"></video>
 
 Mac의 경우에는 fn + F2으로 레이어 그룹의 이름을 바꿀 수 있습니다.
 
-#### [영상 90.4.3.2.a91. 레이어 대화상자의 레이어 그룹 위에서 fn + F2 키 누르기 → 레이어 그룹 이름 바꾸기 (Mac) (우리말)]()
+#### [영상 90.4.3.2.a91. 레이어 대화상자의 레이어 그룹 위에서 fn + F2 키 누르기 → 레이어 그룹 이름 바꾸기 (Mac) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-02-layer_group.html#%EC%98%81%EC%83%81-90432a91-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%9C%84%EC%97%90%EC%84%9C-fn--f2-%ED%82%A4-%EB%88%84%EB%A5%B4%EA%B8%B0--%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%9D%B4%EB%A6%84-%EB%B0%94%EA%BE%B8%EA%B8%B0-mac-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/300bd553-c6ab-4801-a99a-f94fafa326c3"></video>
 
 ### 2-3. 레이어 속성 편집(Edit Layer Attributes)
@@ -60,13 +60,13 @@ Mac의 경우에는 fn + F2으로 레이어 그룹의 이름을 바꿀 수 있�
 ## 3. 레이어 그룹 이름을 바꾸지 않고 계속 레이어 그룹을 만들면 어떻게 되나요?
 레이어 그룹의 이름을 바꾸지 않고 계속 레이어 그룹을 만들게 되면, "레이어 그룹 #1", "레이어 그룹 #2"처럼 자동으로 이름이 붙여지게 됩니다. 이런 레이어 그룹의 갯수가 많아지면 매우 혼란스러워 질 수 있습니다.
 
-#### [영상 90.4.3.2.a101. 레이어 대화상자에서 레이어 그룹을 계속 추가하면 어떤 이름이 붙을까? (Windows) (우리말)]()
+#### [영상 90.4.3.2.a101. 레이어 대화상자에서 레이어 그룹을 계속 추가하면 어떤 이름이 붙을까? (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-02-layer_group.html#%EC%98%81%EC%83%81-90432a101-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%84-%EA%B3%84%EC%86%8D-%EC%B6%94%EA%B0%80%ED%95%98%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%9D%B4%EB%A6%84%EC%9D%B4-%EB%B6%99%EC%9D%84%EA%B9%8C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/19f06f78-32cd-47e8-a566-f1964b872c1a"></video>
 
 ## 4. 레이어 그룹에 다른 레이어 그룹 넣기
 새로운 레이어 그룹을 만들어 다른 레이어 그룹에 집어 넣을 수 있습니다. 레이어 그룹 안에 이미 다른 레이어 그룹이 포함되어 있는 상태도 다른 레이어 그룹에 집어 넣을 수 있습니다.
 
-#### [영상 90.4.3.2.a111. 중첩된 레이어 그룹을 다른 레이어 그룹에 집어 넣기]()
+#### [영상 90.4.3.2.a111. 중첩된 레이어 그룹을 다른 레이어 그룹에 집어 넣기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-02-layer_group.html#%EC%98%81%EC%83%81-90432a111-%EC%A4%91%EC%B2%A9%EB%90%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%84-%EB%8B%A4%EB%A5%B8-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%97%90-%EC%A7%91%EC%96%B4-%EB%84%A3%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/421b5d6b-a79d-4003-b2f1-4edee45731ba"></video>
 
 레이어 그룹을 드래그하는 것이 안되는 경우에는 [문제해결: 레이어의 클릭, 드래그가 안되요](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-04-raise_n_lower_layer_groups.html#3-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EB%A0%88%EC%9D%B4%EC%96%B4%EC%9D%98-%ED%81%B4%EB%A6%AD-%EB%93%9C%EB%9E%98%EA%B7%B8%EA%B0%80-%EC%95%88%EB%90%98%EC%9A%94)를 참고해주세요.
