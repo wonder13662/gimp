@@ -1,14 +1,14 @@
 # 90.4.3.3. 떠있는 선택(Floating selection)
 
 #### 그림 90.4.3.3.a11. 레이어 대화상자 - 떠있는 선택 (Windows)
-![그림 90.4.3.3.a11. 레이어 대화상자 - 떠있는 선택 (Windows)](https://github.com/wonder13662/gimp/assets/15767104/93a410f7-cde7-4146-831c-287b9ae1b014)
+![90-04-03-layers(windows)-floating_layer-focus-floating_layer(50%)](https://github.com/wonder13662/gimp/assets/15767104/833cda8e-50c1-4176-a614-6f6be559a5f3)
 
 [4.2.1. 떠있는 선택(floating selection) - 그림 90.4.3.3.a11](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-01-there-is-a-floating-selection.html#%EA%B7%B8%EB%A6%BC-90433a11-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D-windows)
 
 (TODO 이미지 크기 50%로 조정)
 
 #### 그림 90.4.3.3.a21. 레이어 대화상자 - 떠있는 선택 (Mac)
-![그림 90.4.3.a102. 레이어 대화상자 - 떠있는 선택 (Mac)](https://github.com/wonder13662/gimp/assets/15767104/3d81e7cb-81fb-4694-9ec3-bd3ad8e172ca)
+![90-04-03-layers(mac)-floating_layer(50%)](https://github.com/wonder13662/gimp/assets/15767104/49417685-7f42-424a-ad08-e7e90cdfb1da)
 
 (TODO 이미지 크기 50%로 조정)
 
