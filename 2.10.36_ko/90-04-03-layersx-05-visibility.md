@@ -1,8 +1,7 @@
 # 90.4.3.5. 레이어의 눈 아이콘(Visibility)
 
-#### 그림 90.4.3.a131. 레이어의 숨김 상태
 #### 그림 90.4.3.5.a1. 레이어의 숨김 상태
-<img width="480" alt="그림 4.4. 레이어의 숨김 상태" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5724d0c0-8444-4d84-a4b8-26dd4f15170c">
+![그림 4.4. 레이어의 숨김 상태](https://github.com/wonder13662/gimp/assets/15767104/5724d0c0-8444-4d84-a4b8-26dd4f15170c)
 
 [4.2.4. 활성화된 drawable이 보이지 않는 경우 - 그림 90.4.3.5.a1]()
 
