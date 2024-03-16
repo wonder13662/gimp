@@ -9,49 +9,7 @@
 ⚠️ 주의: 위 방정식의 `max`은 두개의 값 중 더 큰 값을 돌려줍니다.
 
 ## 1. 픽셀의 휘도(Luminance) 값은 어디서 확인할 수 있을까요?
-공식 가이드에는 픽셀의 `휘도(Luminance)`값을 확인할 수 있는 방법을 설명하고 있지 않습니다. 하지만 무채화 기능을 사용하여 `휘도(Luminance)`값을 확인할 수 있습니다.
-
-### 1-1. 검사에 사용될 예제
-#### 그림 8.2.2.2.a11. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
-![layer_mode-lighten-02-luma-color_examples-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/4550410e-a064-4f37-9d07-c9ff3d14c78f)
-
-### 1-2. 무채화(Desaturate)를 사용하여 휘도(Luminance) 값 구하기
-[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`를 선택하여 `무채화` 대화상자를 엽니다.
-
-#### 그림 90.1.7.16.a1. `색` → `무채화` (Windows)
-![그림 90.1.7.16.a1. `색` → `무채화` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/a35c267e-bebe-406d-9d05-2301280d1ae8)
-
-[다른 운영체제와 언어의 `색` → `무채화` 확인하기](./90-01-07-colorsx-16-desaturate.md)
-
-`무채화` 대화상자의 모드 드롭다운에서 `휘도(Luminance)`를 선택합니다. 그리고 `확인` 버튼을 눌러줍니다.
-
-#### 그림 90.4.63.a115. `무채화` 대화상자 (Windows) (우리말) - 모드 드롭다운 - Luminance
-![90-04-63-dialog-desaturate(windows)(ko)-mode_dropdown-focus-mode_luminance](https://github.com/wonder13662/gimp/assets/15767104/b704e87a-99b3-4ba3-8a87-73e795a9bf61)
-
-[다른 운영체제와 언어의 `무채화` 대화상자 확인하기](./90-04-63-desaturate.md)
-
-그 결과, 이미지는 흑백이미지로 바뀌면서, RGB 채널에 동일한 휘도(Luminance) 값이 적용됩니다. 이제 `휘도가 밝은 색만(Luma/Luminance lighten only) 모드`에서 선택될 색상을 판단할 수 있습니다. 이 예제에서는 휘도값이 244인 위쪽 레이어의 색상이 선택됩니다.
-
-#### 그림 8.2.2.2.a12. 각 레이어별 휘도 정보
-![layer_mode-lighten-02-luma-color_examples-01-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/a7347b5d-cdc0-4b09-a14e-d66821bbef46)
-
-||위쪽 레이어|아래쪽 레이어|
-|---|---|---|
-|적색(Red)|244.0|145.0|
-|녹색(Green)|244.0|145.0|
-|청색(Blue)|244.0|145.0|
-
-```
-선택된 휘도(Luminance) 값
-= max(244.0, 145.0)
-= 244.0
-```
-
-### 1-3. 결론
-계산에서 결과값으로 받은 휘도(Luminance) 값(244.0)의 무채화 이전의 "위쪽 레이어"의 RGB 색상값과 "레이어 모드 적용 결과"의 RGB 색상값이 일치합니다. 그러므로 휘도(Luminance)을 기준으로 `휘도가 밝은 색만(Luma/Luminance lighten only) 모드`가 동작하는 것을 확인할 수 있습니다.
-
-### 1-4. 참고: 휘도 회색음영 방정식
-GIMP(김프)에서 회색음영으로 이미지 변경시에 필요한 휘도값을 구하는 방정식은 다음과 같습니다.
+공식 가이드에는 픽셀의 `휘도(Luminance)`값을 확인할 수 있는 방법을 설명하고 있지 않습니다. 하지만 `휘도(Luminance)` 방정식으로 휘도 값을 확인할 수 있습니다.
 
 #### 무채화(Desaturate) 옵션 - 회색음영(The shade of gray) 방정식
 ```
@@ -74,28 +32,6 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 그럼 실제 사례를 살펴보겠습니다.
 
 ### 2-1. 첫번째 예제
-#### 그림 8.2.2.2.a11. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
-![layer_mode-lighten-02-luma-color_examples-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/4550410e-a064-4f37-9d07-c9ff3d14c78f)
-
-[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`로 휘도값을 가진 흑백이미지로 변경합니다.
-
-#### 그림 8.2.2.2.a12. 각 레이어별 휘도 정보
-![layer_mode-lighten-02-luma-color_examples-01-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/a7347b5d-cdc0-4b09-a14e-d66821bbef46)
-
-||위쪽 레이어|아래쪽 레이어|
-|---|---|---|
-|적색(Red)|**244.0**|145.0|
-|녹색(Green)|**244.0**|145.0|
-|청색(Blue)|**244.0**|145.0|
-
-```
-선택된 휘도(Luminance) 값
-= max(244.0, 145.0)
-= 244.0
-```
-
-위쪽 레이어의 휘도값(244.0)이 아래쪽 레이어의 휘도값(145.0)보다 높으므로 위쪽 레이어의 RGB 값이 결과 이미지에 반영됩니다.
-
 #### 그림 8.2.2.2.a13. 각 레이어별 RGB 정보
 ![layer_mode-lighten-02-luma-color_examples-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/d5305f19-9abd-43ed-9729-b7163c7f3b9e)
 
@@ -104,32 +40,22 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 |적색(Red)|**249.0**|255.0|**249.0**|
 |녹색(Green)|**251.0**|0.0|**251.0**|
 |청색(Blue)|**10.0**|255.0|**10.0**|
+|휘도(Luminance)|**236.1**|71.4||
 
-위 계산 결과를 통하여 휘도가 244.0로 더 밝은 `위쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
+```
+휘도 계산 방정식
+Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
+
+마스크(위쪽 레이어)의 휘도(Luminance)
+236.1 = (0.22 × 249.0) + (0.72 × 251.0) + (0.06 × 10.0)
+
+배경 이미지(아래쪽 레이어)의 휘도(Luminance)
+71.4 = (0.22 × 255.0) + (0.72 × 0.0) + (0.06 × 255.0)
+```
+
+위 계산 결과를 통하여 휘도가 236.1로 더 밝은 `위쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
 
 ### 2-2. 두번째 예제
-#### 그림 8.2.2.2.a21. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
-![layer_mode-lighten-02-luma-color_examples-02(50%)](https://github.com/wonder13662/gimp/assets/15767104/1c337768-e736-4a70-a43c-b539380c30aa)
-
-[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`로 휘도값을 가진 흑백이미지로 변경합니다.
-
-#### 그림 8.2.2.2.a22. 각 레이어별 휘도 정보
-![layer_mode-lighten-02-luma-color_examples-02-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/76cd39b8-eeb1-42e5-af59-80d00373818d)
-
-||위쪽 레이어|아래쪽 레이어|
-|---|---|---|
-|적색(Red)|**149.0**|65.0|
-|녹색(Green)|**149.0**|65.0|
-|청색(Blue)|**149.0**|65.0|
-
-```
-선택된 휘도(Luminance) 값
-= max(149.0, 65.0)
-= 149.0
-```
-
-위쪽 레이어의 휘도값(149.0)이 아래쪽 레이어의 휘도값(65.0)보다 높으므로 위쪽 레이어의 RGB 값이 결과 이미지에 반영됩니다.
-
 #### 그림 8.2.2.2.a23. 각 레이어별 RGB 정보
 ![layer_mode-lighten-02-luma-color_examples-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/1dc4efb7-b9f7-4d04-b351-3cc43d365b4e)
 
@@ -138,30 +64,22 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 |적색(Red)|**227.0**|53.0|227.0|
 |녹색(Green)|**113.0**|61.0|113.0|
 |청색(Blue)|**113.0**|123.0|113.0|
+|휘도(Luminance)|**138.08**|62.96||
 
-위 계산 결과를 통하여 휘도가 149.0로 더 밝은 `위쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
+```
+휘도 계산 방정식
+Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
+
+마스크(위쪽 레이어)의 휘도(Luminance)
+138.08 = (0.22 × 227.0) + (0.72 × 113.0) + (0.06 × 113.0)
+
+배경 이미지(아래쪽 레이어)의 휘도(Luminance)
+62.96 = (0.22 × 53.0) + (0.72 × 61.0) + (0.06 × 123.0)
+```
+
+위 계산 결과를 통하여 휘도가 138.08로 더 밝은 `위쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
 
 ### 2-3. 세번째 예제 - 아래쪽 레이어가 검은색
-#### 그림 8.2.2.2.a31. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
-![layer_mode-lighten-02-luma-color_examples-03-black(50%)](https://github.com/wonder13662/gimp/assets/15767104/916d4d42-8ec1-4070-9a12-7681f7aec4d9)
-
-[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `무채화` → `무채화`로 휘도값을 가진 흑백이미지로 변경합니다.
-
-#### 그림 8.2.2.2.a32. 각 레이어별 휘도 정보
-![layer_mode-lighten-02-luma-color_examples-03-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/8368de5a-63ce-45a9-8efd-e3547579e635)
-
-||위쪽 레이어|아래쪽 레이어|
-|---|---|---|
-|적색(Red)|**149.0**|0.0|
-|녹색(Green)|**149.0**|0.0|
-|청색(Blue)|**149.0**|0.0|
-
-```
-선택된 휘도(Luminance) 값
-= max(149.0, 0.0)
-= 149.0
-```
-
 #### 그림 8.2.2.2.a33. 각 레이어별 RGB 정보
 ![layer_mode-lighten-02-luma-color_examples-03-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/ac050f7d-4694-476a-8580-b5bcf3104f86)
 
@@ -170,36 +88,42 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 |적색(Red)|**227.0**|0.0|227.0|
 |녹색(Green)|**113.0**|0.0|113.0|
 |청색(Blue)|**113.0**|0.0|113.0|
+|휘도(Luminance)|**138.08**|0.0||
 
-위 계산 결과를 통하여 휘도가 113.0로 더 밝은 `위쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
+```
+휘도 계산 방정식
+Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
+
+마스크(위쪽 레이어)의 휘도(Luminance)
+138.08 = (0.22 × 227.0) + (0.72 × 113.0) + (0.06 × 113.0)
+
+배경 이미지(아래쪽 레이어)의 휘도(Luminance)
+0.0 = (0.22 × 0.0) + (0.72 × 0.0) + (0.06 × 0.0)
+```
+
+위 계산 결과를 통하여 휘도가 138.08로 더 밝은 `위쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
 
 ### 2-4. 네번째 예제 - 아래쪽 레이어가 하얀색
-#### 그림 8.2.2.2.a41. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 예제
-![layer_mode-lighten-02-luma-color_examples-04-white(50%)](https://github.com/wonder13662/gimp/assets/15767104/1380f35e-1a9f-4b87-8b51-aa1ec285295c)
-
-#### 그림 8.2.2.2.a42. 각 레이어별 휘도 정보
-![layer_mode-lighten-02-luma-color_examples-04-BW_luminance(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/5511dd4d-21a0-4dc6-baf9-ef3d993e561b)
-
-||위쪽 레이어|아래쪽 레이어|
-|---|---|---|
-|적색(Red)|149.0|255.0|
-|녹색(Green)|149.0|255.0|
-|청색(Blue)|149.0|255.0|
-
-```
-선택된 휘도(Luminance) 값
-= max(149.0, 255.0)
-= 255.0
-```
-
 #### 그림 8.2.2.2.a43. 각 레이어별 RGB 정보
 ![layer_mode-lighten-02-luma-color_examples-04-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/ca5058ac-0271-42a0-adcb-de9b676e06ee)
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
 |---|---|---|---|
-|적색(Red)|227.0|255.0|255.0|
-|녹색(Green)|113.0|255.0|255.0|
-|청색(Blue)|113.0|255.0|255.0|
+|적색(Red)|227.0|**255.0**|255.0|
+|녹색(Green)|113.0|**255.0**|255.0|
+|청색(Blue)|113.0|**255.0**|255.0|
+|휘도(Luminance)|138.08|**255.0**||
+
+```
+휘도 계산 방정식
+Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
+
+마스크(위쪽 레이어)의 휘도(Luminance)
+138.08 = (0.22 × 227.0) + (0.72 × 113.0) + (0.06 × 113.0)
+
+배경 이미지(아래쪽 레이어)의 휘도(Luminance)
+255.0 = (0.22 × 255.0) + (0.72 × 255.0) + (0.06 × 255.0)
+```
 
 위 계산 결과를 통하여 휘도가 255.0로 더 밝은 `아래쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
 
