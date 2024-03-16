@@ -954,6 +954,8 @@
 
 [90.4.3.3. 떠있는 선택(Floating selection)](./90-04-03-layersx-03-floating_selection.md)
 
+[90.4.3.4. 불투명도(Opacity)](./90-04-03-layersx-04-opacity.md)
+
 [90.4.4. 채널(Channels)](./90-04-04-channels.md)
 
 [90.4.5. 경로(Paths)](./90-04-05-paths.md)

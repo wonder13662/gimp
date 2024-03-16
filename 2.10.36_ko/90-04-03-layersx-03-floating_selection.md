@@ -5,12 +5,8 @@
 
 [4.2.1. 떠있는 선택(floating selection) - 그림 90.4.3.3.a11](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-01-there-is-a-floating-selection.html#%EA%B7%B8%EB%A6%BC-90433a11-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D-windows)
 
-(TODO 이미지 크기 50%로 조정)
-
 #### 그림 90.4.3.3.a21. 레이어 대화상자 - 떠있는 선택 (Mac)
 ![90-04-03-layers(mac)-floating_layer(50%)](https://github.com/wonder13662/gimp/assets/15767104/49417685-7f42-424a-ad08-e7e90cdfb1da)
-
-(TODO 이미지 크기 50%로 조정)
 
 #### 영상 90.4.3.3.a31. 선택 영역의 복사 + 붙여넣기로 떠있는 선택 만들기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/df01454e-345e-43ad-af3b-eeb2001c8f4b"></video>
@@ -63,7 +59,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.4. 채널(Channels)](./90-04-04-channels.md)
+[➡️ 다음: 90.4.3.4. 불투명도(Opacity)](./90-04-03-layersx-04-opacity.md)
 
 [⬅️ 이전: 90.4.3.2. 레이어 그룹](./90-04-03-layersx-02-layer_group.md)
 
