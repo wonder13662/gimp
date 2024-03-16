@@ -956,6 +956,8 @@
 
 [90.4.3.4. 불투명도(Opacity)](./90-04-03-layersx-04-opacity.md)
 
+[90.4.3.5. 레이어의 눈 아이콘(Visibility)](./90-04-03-layersx-05-visibility.md)
+
 [90.4.4. 채널(Channels)](./90-04-04-channels.md)
 
 [90.4.5. 경로(Paths)](./90-04-05-paths.md)
