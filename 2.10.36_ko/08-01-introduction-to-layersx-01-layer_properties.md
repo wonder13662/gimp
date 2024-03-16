@@ -167,8 +167,8 @@ GIMP(김프)에서는 레이어의 경계가 이미지(캔버스)의 경계와 �
 ## 8. 불투명도
 레이어의 불투명도는 바로 밑에 위치한 레이어의 색상을 얼마만큼 투과시킬 것인가에 대한 것입니다. 불투명도의 범위는 0부터 100으로, 0은 완전 투명, 100은 완전 불투명입니다.
 
-#### [그림 90.4.3.a241. 불투명도(Opacity)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a241-%EB%B6%88%ED%88%AC%EB%AA%85%EB%8F%84opacity)
-[![90-04-03-layers(windows)(ko)(slim)-focus-opacity](https://github.com/wonder13662/gimp/assets/15767104/867dbf9f-8d77-4a15-ac3d-6fa53ee79f60)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a241-%EB%B6%88%ED%88%AC%EB%AA%85%EB%8F%84opacity)
+#### [그림 90.4.3.4.a41. 불투명도(Opacity)]()
+[![90-04-03-layers(windows)(ko)(slim)-focus-opacity](https://github.com/wonder13662/gimp/assets/15767104/867dbf9f-8d77-4a15-ac3d-6fa53ee79f60)]()
 
 ## 9. 모드
 레이어의 모드는 레이어의 색상을 아래에 위치한 레이어의 색상과 혼합시키는 방식을 정하는 것입니다. 레이어 모드는 상당히 복잡하지만, 중요하므로 보다 상세한 내용은 [8.2. 레이어 모드](./08-02-00-layer-modes.md)을 참고해주세요.
