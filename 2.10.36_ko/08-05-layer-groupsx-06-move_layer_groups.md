@@ -1,10 +1,16 @@
 # 8.5.6. 다른 이미지로 레이어 그룹 옮기기(Move Layer Groups)
 
 ## 1. 클릭, 드래그로 레이어 그룹을 다른 이미지로 옮기기
-You can move a layer group to another image by click-and-dragging. 
+레이어 그룹을 클릭, 드래그로 다른 이미지로 옮길 수 있습니다. 아래 영상에서 전체 과정을 확인할 수 있습니다.
+
+#### 영상 90.4.3.a51. 클릭, 드래그로 레이어 그룹을 다른 이미지로 옮기기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/997c285a-2459-4da0-93b2-c4ce79429045"></video>
 
 ## 2. 복사, 붙여넣기로 레이어 그룹을 다른 이미지로 옮기기
-You can also copy-paste it using Ctrl + C and Ctrl + V: then, you get a floating selectionthat you must anchor (anchor button at the bottom of the layer dialog).
+레이어 그룹을 복사(Ctrl(⌘) + C), 붙여넣기(Ctrl(⌘) + V)로 다른 이미지로 복사할 수 있습니다. 다만, 붙여넣기 시에 떠있는 선택(Floating selection)이 되므로 고정(anchor) 또는 새로운 레이어로 바꾸어야 합니다. 그리고 고정 또는 새로운 레이어로 바꾸면, 그룹은 사라지고 단일 이미지 레이어가 됩니다. 아래 영상에서 전체 과정을 확인해 볼 수 있습니다.
+
+#### 영상 90.4.3.a61. 복사, 붙여넣기로 레이어 그룹을 다른 이미지로 옮기기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2a5c1570-9e27-46a0-878a-b18d7ca813b6"></video>
 
 ***
 
