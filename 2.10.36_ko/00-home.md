@@ -1304,6 +1304,8 @@
 
 [90.4.3.5. 레이어의 눈 아이콘(Visibility)](./90-04-03-layersx-05-visibility.md)
 
+[90.4.3.6. 레이어의 연결 아이콘(Linkage)](./90-04-03-layersx-06-linkage.md)
+
 [90.4.4. 채널(Channels)](./90-04-04-channels.md)
 
 [90.4.5. 경로(Paths)](./90-04-05-paths.md)
