@@ -19,6 +19,12 @@
 #### 영상 90.4.3.1.a31-2. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴 → `레이어 복제(Duplicate Layer)`를 선택해서 레이어 그룹 복사하기 (windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/743b6509-18ba-49da-8cbf-f4b3bce6710c"></video>
 
+## 3. 캔버스로 레이어 그룹을 옮겨 레이어 그룹을 복사하기
+캔버스로 레이어 그룹을 옮겨서 레이어 그룹을 복사할 수 있습니다. 다만, 이 경우에는 선택된 레이어 그룹 안에 복사한 그룹이 추가됩니다. 레이어 그룹 안에 있는 내용들도 함께 복사됩니다. 아래 영상에서 확인해보세요.
+
+#### 영상 90.4.3.a41. 캔버스로 레이어 그룹을 옮겨 레이어 그룹을 복사하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4cc69ddb-51b0-473c-85d0-bf375d5ecbf1"></video>
+
 ***
 
 ## 다른 페이지로 가기
