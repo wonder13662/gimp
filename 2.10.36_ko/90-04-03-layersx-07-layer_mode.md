@@ -21,7 +21,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.4. 채널(Channels)](./90-04-04-channels.md)
+[➡️ 다음: 90.4.3.8. 레이어 대화상자 아래쪽 버튼들(Bottom bar buttons)](./90-04-03-layersx-08-bottom_bar_buttons.md)
 
 [⬅️ 이전: 90.4.3.6. 레이어의 연결 아이콘(Linkage)](./90-04-03-layersx-06-linkage.md)
 

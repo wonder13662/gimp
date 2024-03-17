@@ -1308,6 +1308,8 @@
 
 [90.4.3.7. 레이어 모드(Layer Mode)](./90-04-03-layersx-07-layer_mode.md)
 
+[90.4.3.8. 레이어 대화상자 아래쪽 버튼들(Bottom bar buttons)](./90-04-03-layersx-08-bottom_bar_buttons.md)
+
 [90.4.4. 채널(Channels)](./90-04-04-channels.md)
 
 [90.4.5. 경로(Paths)](./90-04-05-paths.md)
