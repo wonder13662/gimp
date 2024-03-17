@@ -51,12 +51,12 @@
 ### 2-3. 새로 추가하는 레이어는 알파 채널을 갖습니다
 레이어를 새로 추가하면, 이미지가 불투명 채우기 타입(Opaque Fill type)이더라도, 레이어에 알파 채널이 자동으로 추가됩니다.
 
-#### [영상 90.4.3.a208. 새로운 레이어를 추가해서 알파 채널도 함께 추가 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EC%98%81%EC%83%81-9043a208-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EC%B6%94%EA%B0%80%ED%95%B4%EC%84%9C-%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90%EB%8F%84-%ED%95%A8%EA%BB%98-%EC%B6%94%EA%B0%80-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### [영상 90.4.3.11.a11. 새로운 레이어를 추가해서 알파 채널도 함께 추가 (Windows) (우리말)]()
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0035aaa0-0cfe-4ccb-9539-1f81f5728b76"></video>
 
 그리고 새로운 레이어를 삭제하면 추가되었던 알파 채널도 함께 삭제됩니다.
 
-#### [영상 90.4.3.a209. 새로운 레이어를 삭제해서 알파 채널도 함께 삭제 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EC%98%81%EC%83%81-9043a209-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EC%82%AD%EC%A0%9C%ED%95%B4%EC%84%9C-%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90%EB%8F%84-%ED%95%A8%EA%BB%98-%EC%82%AD%EC%A0%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### [영상 90.4.3.11.a21. 새로운 레이어를 삭제해서 알파 채널도 함께 삭제 (Windows) (우리말)]()
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ba438dec-3083-4714-851b-80b1af5a0147"></video>
 
 이미지의 가장 아래의 배경 레이어를 제외한 모든 레이어는 자동적으로 알파 채널을 갖습니다. 하지만 그레이스케일로 표현된 알파 값은 볼 수 없습니다. 좀 더 자세한 내용은 [용어집 - 알파](./19-glossaryx-alpha.md)를 참고해주세요.

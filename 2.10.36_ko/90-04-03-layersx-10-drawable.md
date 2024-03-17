@@ -24,7 +24,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.4. 채널(Channels)](./90-04-04-channels.md)
+[➡️ 다음: 90.4.3.11. 이미지의 알파 채널(Alpha Channel)](./90-04-03-layersx-11-alpha_channel.md)
 
 [⬅️ 이전: 90.4.3.9. 레이어를 드래그, 드롭하기(Drag & Drop Layers)](./90-04-03-layersx-09-drag_n_drop_layers.md)
 
