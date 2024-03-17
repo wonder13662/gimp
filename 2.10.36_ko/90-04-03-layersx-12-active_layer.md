@@ -14,7 +14,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.4. 채널(Channels)](./90-04-04-channels.md)
+[➡️ 다음: 90.4.3.13. 레이어 마스크(Layer Mask)](./90-04-03-layersx-13-layer_mask.md)
 
 [⬅️ 이전: 90.4.3.11. 이미지의 알파 채널(Alpha Channel)](./90-04-03-layersx-11-alpha_channel.md)
 
