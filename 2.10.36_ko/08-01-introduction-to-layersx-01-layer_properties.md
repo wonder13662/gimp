@@ -145,11 +145,11 @@ Shift(⇧) 버튼을 누른 채, 눈 모양을 클릭하면, 방금 클릭한 �
 ## 6. 다른 레이어에 연결(Linkage to other layers)
 눈 모양 아이콘과 레이어 미리보기 사이를 클릭하면 연결 아이콘이 나타납니다. 이것을 이용해 움직이거나 변형하기 등의 여러 개의 레이어에 적용해야 하는 동작들을 위해 레이어들을 묶을 수 있습니다.
 
-#### [영상 90.4.3.6.a21. 다른 레이어에 연결(Linkage to other layers) 뒤에 레이어 이동]()
+#### [영상 90.4.3.6.a21. 다른 레이어에 연결(Linkage to other layers) 뒤에 레이어 이동](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-06-linkage.html#%EC%98%81%EC%83%81-90436a21-%EB%8B%A4%EB%A5%B8-%EB%A0%88%EC%9D%B4%EC%96%B4%EC%97%90-%EC%97%B0%EA%B2%B0linkage-to-other-layers-%EB%92%A4%EC%97%90-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%9D%B4%EB%8F%99)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/49aed398-f05f-4c92-84cc-ee1fd5496ca5"></video>
 
 Shift(⇧) 버튼을 누른 채, 연결 아이콘을 클릭하면, 같은 레벨의 모든 레이어에 대해 연결 아이콘을 모두 켭니다. 만약 같은 레벨의 레이어의 연결 아이콘이 이미 켜져 있다면, 클릭 대상 레이어를 제외한 나머지 레이어의 연결 아이콘이 모두 꺼집니다. (이는 레이어 가시성과 같은 동작입니다.)
-#### [영상 90.4.6.a31. Shift(⇧) + 연결(Linkage) 아이콘 클릭]()
+#### [영상 90.4.6.a31. Shift(⇧) + 연결(Linkage) 아이콘 클릭](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-06-linkage.html#%EC%98%81%EC%83%81-9046a31-shift--%EC%97%B0%EA%B2%B0linkage-%EC%95%84%EC%9D%B4%EC%BD%98-%ED%81%B4%EB%A6%AD)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0a2cc219-8a7d-4ae1-ae42-00a6405e81ff"></video>
 
 ## 7. 크기와 경계
