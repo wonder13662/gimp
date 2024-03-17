@@ -14,7 +14,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.4. 채널(Channels)](./90-04-04-channels.md)
+[➡️ 다음: 90.4.3.10. 드로어블(drawable)](./90-04-03-layersx-10-drawable.md)
 
 [⬅️ 이전: 90.4.3.8. 레이어 대화상자 아래쪽 버튼들(Bottom bar buttons)](./90-04-03-layersx-08-bottom_bar_buttons.md)
 
