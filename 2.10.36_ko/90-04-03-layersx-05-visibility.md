@@ -24,9 +24,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.4. 채널(Channels)](./90-04-04-channels.md)
+[➡️ 다음: 90.4.3.6. 레이어의 연결 아이콘(Linkage)](./90-04-03-layersx-06-linkage.md)
 
-[⬅️ 이전: 90.4.3.3. 떠있는 선택(Floating selection)](./90-04-03-layersx-03-floating_selection.md)
+[⬅️ 이전: 90.4.3.4. 불투명도(Opacity)](./90-04-03-layersx-04-opacity.md)
 
 [⬆️ 위: 90.4.3. 레이어(Layers)](./90-04-03-layers.md)
 

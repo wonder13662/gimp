@@ -22,9 +22,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.4. 채널(Channels)](./90-04-04-channels.md)
+[➡️ 다음: 90.4.3.7. 레이어 모드(Layer Mode)](./90-04-03-layersx-07-layer_mode.md)
 
-[⬅️ 이전: 90.4.3.3. 떠있는 선택(Floating selection)](./90-04-03-layersx-03-floating_selection.md)
+[⬅️ 이전: 90.4.3.5. 레이어의 눈 아이콘(Visibility)](./90-04-03-layersx-05-visibility.md)
 
 [⬆️ 위: 90.4.3. 레이어(Layers)](./90-04-03-layers.md)
 
