@@ -132,15 +132,18 @@ Shift(⇧) 버튼을 누른 채, 눈 모양을 클릭하면, 방금 클릭한 �
 ## 5. 활성화 레이어(Active Layer)
 보통 레이어를 활성화하려면, [레이어 대화상자](./15-02-01-layers-dialog.md)의 레이어 목록에서 원하는 레이어를 클릭합니다. 레이어가 레이어 목록에서 찾기 힘들 정도로 많다면, Alt(⌥)를 누른 채로 마우스 휠(Mouse Middle Button)로 클릭하면 엘리먼트의 레이어를 활성화할 수 있습니다.  
 
-#### [영상 90.4.3.12.a11. Alt(⌥) + Mouse Middle Button으로 레이어 활성화하기 (Windows) (우리말)]()
+#### [영상 90.4.3.12.a11. Alt(⌥) + Mouse Middle Button으로 레이어 활성화하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-12-active_layer.html#%EC%98%81%EC%83%81-904312a11-alt--mouse-middle-button%EC%9C%BC%EB%A1%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%99%9C%EC%84%B1%ED%99%94%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f59e6885-7269-488e-a8f5-51f5952ae7b0"></video>
 
 만일 같은 위치에 여러 레이어가 있다면 가장 위의 레이어부터 차례대로 활성화됩니다. 또한 활성화된 레이어의 이름이 [상태 표시 영역](./03-02-02-image-windowx-09-status-area.md)에 나타납니다.
 
-#### [영상 90.4.3.12.a21. Alt(⌥) + Mouse Middle Button으로 같은 위치의 여러 레이어 활성화하기 (Mac) (우리말)]()
+#### [영상 90.4.3.12.a21. Alt(⌥) + Mouse Middle Button으로 같은 위치의 여러 레이어 활성화하기 (Mac) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-12-active_layer.html#%EC%98%81%EC%83%81-904312a11-alt--mouse-middle-button%EC%9C%BC%EB%A1%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%99%9C%EC%84%B1%ED%99%94%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ed6cbb18-0e70-4b9a-9a87-482d6743ce71"></video>
 
 ⚠️ 주의: 같은 위치의 여러 레이어에 대해 번갈아 활성화하는 기능이 Mac에서는 작동하나 Windows에서는 작동하지 않는 현상을 발견했습니다. (TODO 조사 필요!)
+
+(TODO 드래그 앤 드롭의 이슈와 같은 원인(다른 어플리케이션 간섭)이 아닌지 확인 필요)
+[관련 문서](./08-05-layer-groupsx-04-raise_n_lower_layer_groups.md)
 
 ## 6. 다른 레이어에 연결(Linkage to other layers)
 눈 모양 아이콘과 레이어 미리보기 사이를 클릭하면 연결 아이콘이 나타납니다. 이것을 이용해 움직이거나 변형하기 등의 여러 개의 레이어에 적용해야 하는 동작들을 위해 레이어들을 묶을 수 있습니다.
