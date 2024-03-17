@@ -970,6 +970,8 @@
 
 [90.4.3.11. 이미지의 알파 채널(Alpha Channel)](./90-04-03-layersx-11-alpha_channel.md)
 
+[90.4.3.12. 활성화된 레이어(Active Layer)](./90-04-03-layersx-12-active_layer.md)
+
 [90.4.4. 채널(Channels)](./90-04-04-channels.md)
 
 [90.4.5. 경로(Paths)](./90-04-05-paths.md)
