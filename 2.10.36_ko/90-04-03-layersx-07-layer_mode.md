@@ -1,18 +1,18 @@
 # 90.4.3.7. 레이어 모드(Layer Mode)
 
-#### 그림 90.4.3.6.a11. 모드(Mode)
+#### 그림 90.4.3.7.a11. 모드(Mode)
 ![90-04-03-layers(windows)(ko)(slim)-focus-mode](https://github.com/wonder13662/gimp/assets/15767104/0f62ad29-be47-4bcf-bcb1-6b94dbb95038)
 
 [8.1.1. 레이어 속성 - 그림 90.4.3.a251]()
 
 [8.2. 레이어 모드 - 그림 90.4.3.a251]()
 
-#### 그림 90.4.3.6.a21. 일반 레이어 모드와 레거시 레이어 모드 목록
+#### 그림 90.4.3.7.a21. 일반 레이어 모드와 레거시 레이어 모드 목록
 ![08-03-layer_dialog-legacy_layer_mode(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/4f770fba-8374-4805-9617-2c82096ec759)
 
 [8.3. 레거시 레이어 모드 - 그림 90.4.3.a401]()
 
-#### 영상 90.4.3.6.a31. 일반 레이어 모드와 레거시 레이어 모드 전환하기
+#### 영상 90.4.3.7.a31. 일반 레이어 모드와 레거시 레이어 모드 전환하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ca578991-bac1-452b-bdf3-978e7fa9ae6e"></video>
 
 [8.3. 레거시 레이어 모드 - 영상 90.4.3.a402]()
