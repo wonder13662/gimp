@@ -1310,6 +1310,8 @@
 
 [90.4.3.8. 레이어 대화상자 아래쪽 버튼들(Bottom bar buttons)](./90-04-03-layersx-08-bottom_bar_buttons.md)
 
+[90.4.3.9. 레이어를 드래그, 드롭하기(Drag & Drop Layers)](./90-04-03-layersx-09-drag_n_drop_layers.md)
+
 [90.4.4. 채널(Channels)](./90-04-04-channels.md)
 
 [90.4.5. 경로(Paths)](./90-04-05-paths.md)

@@ -12,10 +12,10 @@
 ## 3. 문제해결: 레이어의 클릭, 드래그가 안되요
 GIMP(김프)와 함께 실행중인 어플리케이션이 레이어의 drag & drop 기능을 방해할 수 있습니다. 레이어의 drag & drop 기능이 동작하지 않는다면 함께 실행중인 어플리케이션을 중단해보세요. [관련 문서 - Gimp-Forum.net: Can't drag and drop to reorder layers - fixed](https://www.gimp-forum.net/Thread-Can-t-drag-and-drop-to-reorder-layers-fixed)
 
-#### [영상 90.4.3.a322. 함께 작동중인 어플리케이션의 영향으로 레이어의 drag & drop이 실패](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EC%98%81%EC%83%81-9043a322-%ED%95%A8%EA%BB%98-%EC%9E%91%EB%8F%99%EC%A4%91%EC%9D%B8-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98-%EC%98%81%ED%96%A5%EC%9C%BC%EB%A1%9C-%EB%A0%88%EC%9D%B4%EC%96%B4%EC%9D%98-drag--drop%EC%9D%B4-%EC%8B%A4%ED%8C%A8)
+#### [영상 90.4.3.9.a11. 함께 작동중인 어플리케이션의 영향으로 레이어의 drag & drop이 실패]()
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dc28432e-b50f-42ec-a9f1-db2ad15d3247"></video>
 
-#### [영상 90.4.3.a323. 함께 작동중인 어플리케이션을 중단하여 레이어의 drag & drop이 성공](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EC%98%81%EC%83%81-9043a323-%ED%95%A8%EA%BB%98-%EC%9E%91%EB%8F%99%EC%A4%91%EC%9D%B8-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84-%EC%A4%91%EB%8B%A8%ED%95%98%EC%97%AC-%EB%A0%88%EC%9D%B4%EC%96%B4%EC%9D%98-drag--drop%EC%9D%B4-%EC%84%B1%EA%B3%B5)
+#### [영상 90.4.3.9.a21. 함께 작동중인 어플리케이션을 중단하여 레이어의 drag & drop이 성공]()
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ba032e49-e1ca-48c2-bd83-50b7179dc735"></video>
 
 ***
