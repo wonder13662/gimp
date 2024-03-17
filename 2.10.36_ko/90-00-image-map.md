@@ -960,6 +960,8 @@
 
 [90.4.3.6. 레이어의 연결 아이콘(Linkage)](./90-04-03-layersx-06-linkage.md)
 
+[90.4.3.7. 레이어 모드(Layer Mode)](./90-04-03-layersx-07-layer_mode.md)
+
 [90.4.4. 채널(Channels)](./90-04-04-channels.md)
 
 [90.4.5. 경로(Paths)](./90-04-05-paths.md)
