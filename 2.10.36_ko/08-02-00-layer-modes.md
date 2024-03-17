@@ -19,8 +19,8 @@ GIMP(김프)는 38개의 레이어 모드가 있습니다. 이 38개의 레이�
 ## 4. 레이어 모드는 어떻게 설정하나요?
 [레이어 대화상자](./15-02-01-layers-dialog.md)의 위쪽의 "모드" 드롭다운 메뉴에서 레이어 모드를 설정할 수 있습니다. GIMP(김프)는 레이어 모드를 위쪽의 레이어와 그 밑의 레이어의 픽셀을 어떻게 합칠지 결정하는 방법으로 사용합니다.
 
-#### [그림 90.4.3.a251. 모드(Mode)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a251-%EB%AA%A8%EB%93%9Cmode)
-[![90-04-03-layers(windows)(ko)(slim)-focus-mode](https://github.com/wonder13662/gimp/assets/15767104/0f62ad29-be47-4bcf-bcb1-6b94dbb95038)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a251-%EB%AA%A8%EB%93%9Cmode)
+#### [그림 90.4.3.6.a11. 모드(Mode)]()
+[![90-04-03-layers(windows)(ko)(slim)-focus-mode](https://github.com/wonder13662/gimp/assets/15767104/0f62ad29-be47-4bcf-bcb1-6b94dbb95038)]()
 
 ## 5. 레이어 모드의 효과
 레이어 모드는 이미지 안에서 복합적으로 색상을 바꿀 수 있게 해줍니다. 레이어 모드는 새로운 레이어를 마스크처럼 쓸 수 있게 해줍니다. 예를 들어서, 하얀색으로 불투명하게 채워진 레이어를 이미지 위에 두고, 레이어 모드를 "HSV 채도(HSV Saturation)"으로 설정하면, 아래의 보여지는 레이어는 흑백으로 보입니다.

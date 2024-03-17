@@ -173,8 +173,8 @@ GIMP(김프)에서는 레이어의 경계가 이미지(캔버스)의 경계와 �
 ## 9. 모드
 레이어의 모드는 레이어의 색상을 아래에 위치한 레이어의 색상과 혼합시키는 방식을 정하는 것입니다. 레이어 모드는 상당히 복잡하지만, 중요하므로 보다 상세한 내용은 [8.2. 레이어 모드](./08-02-00-layer-modes.md)을 참고해주세요.
 
-#### [그림 90.4.3.a251. 모드(Mode)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a251-%EB%AA%A8%EB%93%9Cmode)
-[![90-04-03-layers(windows)(ko)(slim)-focus-mode](https://github.com/wonder13662/gimp/assets/15767104/0f62ad29-be47-4bcf-bcb1-6b94dbb95038)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a251-%EB%AA%A8%EB%93%9Cmode)
+#### [그림 90.4.3.6.a11. 모드(Mode)]()
+[![90-04-03-layers(windows)(ko)(slim)-focus-mode](https://github.com/wonder13662/gimp/assets/15767104/0f62ad29-be47-4bcf-bcb1-6b94dbb95038)]()
 
 ## 10. 레이어 마스크
 레이어에는 알파 채널외에도 투명도를 조절할 수 있는 방법이 하나 더 있습니다. 레이어 마스크를 추가해서 레이어의 투명도를 조절할 수 있습니다. 레이어 마스크는 레이어와 연동된 그레이스케일 `drawable` 영역입니다. 기본적으로 레이어에는 레이어 마스크가 없습니다. 그러므로 따로 레이어 마스크를 추가해 주어야 합니다. 보다 자세한 설명은 [15.2.1.4. 레이어 마스크](./15-02-01-layers-dialogx-04-layer_mask.md)을 참고해주세요.
