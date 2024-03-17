@@ -5,7 +5,7 @@
 
 [8.1.1. 레이어 속성 - 그림 90.4.3.7.a11.](https://wonder13662.github.io/gimp/2.10.36_ko/08-01-introduction-to-layersx-01-layer_properties.html#%EA%B7%B8%EB%A6%BC-90437a11-%EB%AA%A8%EB%93%9Cmode)
 
-[8.2. 레이어 모드 - 그림 90.4.3.7.a11.](https://wonder13662.github.io/gimp/2.10.36_ko/08-01-introduction-to-layersx-01-layer_properties.html#%EA%B7%B8%EB%A6%BC-90437a11-%EB%AA%A8%EB%93%9Cmode)
+[8.2. 레이어 모드 - 그림 90.4.3.7.a11.](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-00-layer-modes.html#%EA%B7%B8%EB%A6%BC-90437a11-%EB%AA%A8%EB%93%9Cmode)
 
 #### 그림 90.4.3.7.a21. 일반 레이어 모드와 레거시 레이어 모드 목록
 ![08-03-layer_dialog-legacy_layer_mode(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/4f770fba-8374-4805-9617-2c82096ec759)
