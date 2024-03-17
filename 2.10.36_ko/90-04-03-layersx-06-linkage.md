@@ -15,7 +15,8 @@
 
 [8.1.1. 레이어 속성 - 영상 90.4.6.a31](https://wonder13662.github.io/gimp/2.10.36_ko/08-01-introduction-to-layersx-01-layer_properties.html#%EC%98%81%EC%83%81-9046a31-shift--%EC%97%B0%EA%B2%B0linkage-%EC%95%84%EC%9D%B4%EC%BD%98-%ED%81%B4%EB%A6%AD)
 
-#### 영상 90.4.5.a133
+#### [영상 90.4.5.a133. 변형 잠금한 경로와 레이어가 함께 변형](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EC%98%81%EC%83%81-9045a133-%EB%B3%80%ED%98%95-%EC%9E%A0%EA%B8%88%ED%95%9C-%EA%B2%BD%EB%A1%9C%EC%99%80-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%ED%95%A8%EA%BB%98-%EB%B3%80%ED%98%95)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0ddac041-8166-4152-920e-4c68426d2e29"></video>
 
 ***
 
