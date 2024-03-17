@@ -22,7 +22,7 @@
 ## 3. 캔버스로 레이어 그룹을 옮겨 레이어 그룹을 복사하기
 캔버스로 레이어 그룹을 옮겨서 레이어 그룹을 복사할 수 있습니다. 다만, 이 경우에는 선택된 레이어 그룹 안에 복사한 그룹이 추가됩니다. 레이어 그룹 안에 있는 내용들도 함께 복사됩니다. 아래 영상에서 확인해보세요.
 
-#### 영상 90.4.3.a41. 캔버스로 레이어 그룹을 옮겨 레이어 그룹을 복사하기
+#### [영상 90.4.3.a41. 캔버스로 레이어 그룹을 옮겨 레이어 그룹을 복사하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EC%98%81%EC%83%81-9043a41-%EC%BA%94%EB%B2%84%EC%8A%A4%EB%A1%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%84-%EC%98%AE%EA%B2%A8-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%84-%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4cc69ddb-51b0-473c-85d0-bf375d5ecbf1"></video>
 
 ***
