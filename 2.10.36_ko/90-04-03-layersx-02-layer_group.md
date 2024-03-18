@@ -105,6 +105,16 @@
 
 [8.5.10. 불투명도(Opacity) - 영상 90.4.3.2.a181](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-10-opacity.html#%EC%98%81%EC%83%81-90432a181-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%98-%ED%88%AC%EB%AA%85%EB%8F%84-%EC%A1%B0%EC%A0%95)
 
+#### 영상 90.4.3.2.a191. 레이어 그룹의 경계가 줄어들어 레이어 그룹 마스크의 크기가 작아짐
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bc97311e-27d2-4342-b28b-be81e1dfc6f2"></video>
+
+[8.5.11. 레이어 그룹 마스크(Layer Group Mask) - 영상 90.4.3.2.a191]()
+
+#### 영상 90.4.3.2.a192. 레이어 그룹의 경계가 늘어나서 레이어 그룹 마스크의 크기가 커짐
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dafb7205-1a89-4fe4-a0e0-719c42ee5cd9"></video>
+
+[8.5.11. 레이어 그룹 마스크(Layer Group Mask) - 영상 90.4.3.2.a192]()
+
 ***
 
 ## 다른 페이지로 가기
