@@ -9,7 +9,7 @@
 #### 그림 90.1.6.8.a101. `레이어` → `마스크` → `레이어 마스크 추가` (Windows)
 ![90-01-06-layerx-02-mask(windows)(1080)-focus-add_layer_mask](https://github.com/wonder13662/gimp/assets/15767104/8cf43c8a-2b13-4273-97ec-cd326080347c)
 
-[7.1.2. 부분적으로 투명한 선택 만들기 - 그림 90.1.6.8.a101]()
+[7.1.2. 부분적으로 투명한 선택 만들기 - 그림 90.1.6.8.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-01-the-selectionx-02-making_a_selection_partially_transparent.html#%EA%B7%B8%EB%A6%BC-90168a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%EB%A7%88%EC%8A%A4%ED%81%AC--%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%B6%94%EA%B0%80-windows)
 
 #### 영상 90.1.6.8.a102. 선택 영역에 `레이어 마스크 추가` 뒤에 마스크 칠하기 (Windows)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b33bf497-251b-4cb7-828b-22c37908be97"></video>
