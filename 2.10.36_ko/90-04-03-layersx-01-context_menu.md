@@ -14,15 +14,6 @@
 
 [7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.4.3.1.a71](https://wonder13662.github.io/gimp/2.10.36_ko/07-01-the-selectionx-02-making_a_selection_partially_transparent.html#%EC%98%81%EC%83%81-90431a71-%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9Dfloating-selection%EC%9D%84-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4%EC%9D%98-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B3%A0%EC%A0%95%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EC%A0%95%ED%95%98%EA%B8%B0)
 
-#### 그림 90.4.3.1.a101. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `레이어 삭제(Delete Layer)` (windows) (우리말)
-![90-04-03-layersx-01-context_menu-focus-delete_layer](https://github.com/wonder13662/gimp/assets/15767104/8c5f2238-dc9a-43fd-8fa5-ed6ba55288ac)
-
-[8.5.7. 레이어 그룹 지우기(Delete a Layer Groups) - 그림 90.4.3.1.a101](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-07-delete_a_layer_group.html#%EA%B7%B8%EB%A6%BC-90431a101-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD-%ED%8C%9D%EC%97%85%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%82%AD%EC%A0%9Cdelete-layer-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-
-#### 영상 90.4.3.1.a102. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `레이어 삭제(Delete Layer)` (windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d39d052b-f104-44a7-b42b-7c44e036e6b9"></video>
-
-[8.5.7. 레이어 그룹 지우기(Delete a Layer Groups) - 영상 90.4.3.1.a102](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-07-delete_a_layer_group.html#%EC%98%81%EC%83%81-90431a102-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD-%ED%8C%9D%EC%97%85%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%82%AD%EC%A0%9Cdelete-layer-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 
