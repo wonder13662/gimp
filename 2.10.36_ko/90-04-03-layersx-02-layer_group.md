@@ -93,12 +93,12 @@
 #### 영상 90.4.3.2.a171. 레이어 그룹 안의 레이어에 레이어 모드 적용
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/64014aa2-f75b-4ee4-afc6-5228029613c4"></video>
 
-[8.5.9. 레이어 모드와 그룹(Layer Modes and Groups) - 영상 90.4.3.2.a171]()
+[8.5.9. 레이어 모드와 그룹(Layer Modes and Groups) - 영상 90.4.3.2.a171](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-09-layer_modes_n_groups.html#%EC%98%81%EC%83%81-90432a171-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%95%88%EC%9D%98-%EB%A0%88%EC%9D%B4%EC%96%B4%EC%97%90-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%AA%A8%EB%93%9C-%EC%A0%81%EC%9A%A9)
 
 #### 영상 90.4.3.2.a172. 레이어 그룹 바깥의 레이어에 레이어 모드 적용
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/af44a9be-d32d-4723-b326-f5aaa8cb7d11"></video>
 
-[8.5.9. 레이어 모드와 그룹(Layer Modes and Groups) - 영상 90.4.3.2.a172]()
+[8.5.9. 레이어 모드와 그룹(Layer Modes and Groups) - 영상 90.4.3.2.a172](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-09-layer_modes_n_groups.html#%EC%98%81%EC%83%81-90432a172-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EB%B0%94%EA%B9%A5%EC%9D%98-%EB%A0%88%EC%9D%B4%EC%96%B4%EC%97%90-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%AA%A8%EB%93%9C-%EC%A0%81%EC%9A%A9)
 
 ***
 
