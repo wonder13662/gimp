@@ -388,7 +388,7 @@
 
 [8.5.13. 레이어 미리보기(Layer preview)](./08-05-layer-groupsx-13-layer_preview.md)
 
-[9. Text Management](./09-00-text-management.md)
+[9. 텍스트 관리(Text management)](./09-00-text-management.md)
 
 [10. Enhancing Photographs](./10-00-enhancing-photographs.md)
 

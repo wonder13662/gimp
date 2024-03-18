@@ -115,6 +115,11 @@
 
 [8.5.11. 레이어 그룹 마스크(Layer Group Mask) - 영상 90.4.3.2.a192](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-11-layer_mask.html#%EC%98%81%EC%83%81-90432a192-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%98-%EA%B2%BD%EA%B3%84%EA%B0%80-%EB%8A%98%EC%96%B4%EB%82%98%EC%84%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EB%A7%88%EC%8A%A4%ED%81%AC%EC%9D%98-%ED%81%AC%EA%B8%B0%EA%B0%80-%EC%BB%A4%EC%A7%90)
 
+#### 영상 90.4.3.2.a201. 레이어 그룹의 미리보기 기능 끄기/켜기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9bb1f1d8-8c14-490b-b4c3-8f756e988a54"></video>
+
+[8.5.13. 레이어 미리보기(Layer preview) - 영상 90.4.3.2.a201]()
+
 ***
 
 ## 다른 페이지로 가기

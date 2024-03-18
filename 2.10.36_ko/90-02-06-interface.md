@@ -40,6 +40,11 @@
 #### 그림 90.2.6.a114. 키보드 단축키 설정 (Mac) (우리말)
 ![그림 90.2.6.a114. 키보드 단축키 설정 (Mac) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/6184f674-34dd-4ad4-b584-877e77516c42)
 
+#### 그림 90.2.6.a121. `기본 설정` → `인터페이스` → `미리보기` → `레이어 그룹 미리 보기 활성화` (Windows) (우리말)
+![90-02-06-interface(우리말)(windows)(compact)(w720)-focus-preview_layer_group](https://github.com/wonder13662/gimp/assets/15767104/367baff3-6646-4b4e-a7e6-a0787f7e1350)
+
+[8.5.13. 레이어 미리보기(Layer preview) - 그림 90.2.6.a121]()
+
 ***
 
 ## 관련 정보
