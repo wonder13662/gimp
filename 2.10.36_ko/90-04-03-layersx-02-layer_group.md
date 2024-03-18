@@ -90,6 +90,16 @@
 
 [8.5.3. 레이어 그룹 보기(Visibility) - 그림 90.4.3.2.a161](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-03-visibility.html#%EA%B7%B8%EB%A6%BC-90432a161-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%98-%EB%88%88%EB%B3%B4%EA%B8%B0-%EC%95%84%EC%9D%B4%EC%BD%98-%ED%86%A0%EA%B8%80-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+#### 영상 90.4.3.2.a171. 레이어 그룹 안의 레이어에 레이어 모드 적용
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/64014aa2-f75b-4ee4-afc6-5228029613c4"></video>
+
+[8.5.9. 레이어 모드와 그룹(Layer Modes and Groups) - 영상 90.4.3.2.a171]()
+
+#### 영상 90.4.3.2.a172. 레이어 그룹 바깥의 레이어에 레이어 모드 적용
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/af44a9be-d32d-4723-b326-f5aaa8cb7d11"></video>
+
+[8.5.9. 레이어 모드와 그룹(Layer Modes and Groups) - 영상 90.4.3.2.a172]()
+
 ***
 
 ## 다른 페이지로 가기
