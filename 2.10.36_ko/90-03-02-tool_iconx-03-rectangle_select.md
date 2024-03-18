@@ -26,7 +26,7 @@
 
 [7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a112](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-01-moving-or-resizing-a-selection.html#%EC%98%81%EC%83%81-90323a112-%EC%84%A0%ED%83%9D%EC%9D%98-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C---%EC%84%A0%ED%83%9D-%EC%9B%80%EC%A7%81%EC%9D%B4%EA%B8%B0)
 
-[7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a112]()
+[7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a112](https://wonder13662.github.io/gimp/2.10.36_ko/07-02-01-moving-or-resizing-a-selectionx-01-moving_selections_using_the_rectangle_and_ellipse_select_toolsx-01-moving_and_resizing_the_selection_outline.html#%EC%98%81%EC%83%81-90323a112-%EC%84%A0%ED%83%9D%EC%9D%98-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C---%EC%84%A0%ED%83%9D-%EC%9B%80%EC%A7%81%EC%9D%B4%EA%B8%B0)
 
 #### 영상 90.3.2.3.a113. 선택을 `핸들 모드`에서 `점선 모드`로 변경
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/144097b9-643e-4bfc-8154-212931839d49"></video>

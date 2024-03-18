@@ -20,7 +20,7 @@
 #### [그림 90.5.1.a112. 이미지 창에 이미지가 있는 경우의 타이틀바](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-01-title_bar.html#%EA%B7%B8%EB%A6%BC-9051a112-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%97%90-%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B0%80-%EC%9E%88%EB%8A%94-%EA%B2%BD%EC%9A%B0%EC%9D%98-%ED%83%80%EC%9D%B4%ED%8B%80%EB%B0%94)
 [![그림 90.5.1.a112. 이미지 창에 이미지가 있는 경우의 타이틀바](https://github.com/wonder13662/gimp/assets/15767104/c19f1f48-355b-4ce3-9848-33a417744178)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-01-title_bar.html#%EA%B7%B8%EB%A6%BC-9051a112-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%97%90-%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B0%80-%EC%9E%88%EB%8A%94-%EA%B2%BD%EC%9A%B0%EC%9D%98-%ED%83%80%EC%9D%B4%ED%8B%80%EB%B0%94)
 
-[xcf(GIMP 작업 파일 포맷)]() 형식이 아닌 이미지를 열면, 이 이미지는 `.xcf` 파일 형식으로 "(가져옴)" 상태가 되며, 이미지창 하단에 있는 상태 표시줄에 원본 이름이 표시됩니다.(TODO 링크 연결)
+[xcf(GIMP 작업 파일 포맷)](./19-glossaryx-xcf.md) 형식이 아닌 이미지를 열면, 이 이미지는 `.xcf` 파일 형식으로 "(가져옴)" 상태가 되며, 이미지창 하단에 있는 상태 표시줄에 원본 이름이 표시됩니다.(TODO 링크 연결)
 
 ***
 

@@ -58,10 +58,17 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/df01454e-345e-43ad-af3b-eeb2001c8f4b"></video>
 
 ## 레이어 마스크 사용하기
-[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `레이어` → `마스크` → `레이어 마스크 추가`을 클릭하면, `레이어 마스크 추가` 대화상자가 나옵니다. 이 대화상자에서 `선택`으로 초기화합니다. 그 다음에 `붓`을 사용해서 원하는 투명도로 `선택` 영역에 검은색(검은색으로 칠하면 투명이 됩니다)으로 칠합니다. 상세한 내용은 [15.2.1.4. 레이어 마스크](./15-02-01-layers-dialogx-04-layer_mask.md)를 확인해주세요.
+[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `레이어` → `마스크` → `레이어 마스크 추가`을 클릭하면, `레이어 마스크 추가` 대화상자가 나옵니다. 
+
+#### [그림 90.1.6.8.a101. `레이어` → `마스크` → `레이어 마스크 추가` (Windows)]()
+[![90-01-06-layerx-02-mask(windows)(1080)-focus-add_layer_mask](https://github.com/wonder13662/gimp/assets/15767104/8cf43c8a-2b13-4273-97ec-cd326080347c)]()
+
+이 대화상자에서 `선택`으로 초기화합니다. 
 
 #### [그림 90.4.50.a111. `레이어 마스크 추가` 대화상자 - `선택` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-50-add_layer_mask.html#%EA%B7%B8%EB%A6%BC-90450a111-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%B6%94%EA%B0%80-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-50-add_layer_mask(windows)(ko)-focus-selection](https://github.com/wonder13662/gimp/assets/15767104/84a8bfde-b6f6-4472-b11c-f7bf3613f6de)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-50-add_layer_mask.html#%EA%B7%B8%EB%A6%BC-90450a111-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%B6%94%EA%B0%80-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
+그 다음에 `붓`을 사용해서 원하는 투명도로 `선택` 영역에 검은색(검은색으로 칠하면 투명이 됩니다)으로 칠합니다. 상세한 내용은 [15.2.1.4. 레이어 마스크](./15-02-01-layers-dialogx-04-layer_mask.md)를 확인해주세요.
 
 #### [영상 90.1.6.8.a102. 선택 영역에 `레이어 마스크 추가` 뒤에 마스크 칠하기 (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-08-mask.html#%EC%98%81%EC%83%81-90168a102-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD%EC%97%90-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%B6%94%EA%B0%80-%EB%92%A4%EC%97%90-%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%B9%A0%ED%95%98%EA%B8%B0-windows)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b33bf497-251b-4cb7-828b-22c37908be97"></video>

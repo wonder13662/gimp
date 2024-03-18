@@ -50,7 +50,7 @@
 #### 영상 90.2.6.3.a215. `인터페이스` → `도구상자` → `Menu mode` → `Use tool groups` 체크
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d67ef8f4-2b60-4652-9acd-4b1b9f7679db"></video>
 
-[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.2.6.3.a215. `인터페이스` → `도구상자` → `Menu mode` → `Use tool groups` 설정]()
+[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.2.6.3.a215. `인터페이스` → `도구상자` → `Menu mode` → `Use tool groups` 설정](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-03-some-of-the-tool-icons-are-missing.html#%EC%98%81%EC%83%81-90263a215-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-use-tool-groups-%EC%B2%B4%ED%81%AC)
 
 #### 영상 90.2.6.3.a216. `인터페이스` → `도구상자`→ `Use tool groups` → `Menu mode` 설정(Show on click)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c40ab776-0acc-4619-95fc-f8acd7f4647d"></video>

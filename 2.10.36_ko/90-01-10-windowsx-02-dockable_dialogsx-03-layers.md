@@ -12,7 +12,7 @@
 #### 영상 90.1.10.2.3.a121. `창` → `도킹가능한 대화` → `레이어`의 단축키 사용 (Mac)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/626ceaad-b1d8-4f80-8540-e78a04a1c93a"></video>
 
-[4.2.1. 떠있는 선택(floating selection) - 영상 90.1.10.2.3.a121. `창` → `도킹가능한 대화` → `레이어`의 단축키 사용 (Mac)]()
+[4.2.1. 떠있는 선택(floating selection) - 영상 90.1.10.2.3.a121. `창` → `도킹가능한 대화` → `레이어`의 단축키 사용 (Mac)](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-01-there-is-a-floating-selection.html#%EC%98%81%EC%83%81-9011023a121-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94--%EB%A0%88%EC%9D%B4%EC%96%B4%EC%9D%98-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%82%AC%EC%9A%A9-mac)
 
 ***
 

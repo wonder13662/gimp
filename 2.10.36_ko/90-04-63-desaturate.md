@@ -27,8 +27,6 @@
 #### 그림 90.4.63.a115. `무채화` 대화상자 (Windows) (우리말) - 모드 드롭다운 - Luminance
 ![90-04-63-dialog-desaturate(windows)(ko)-mode_dropdown-focus-mode_luminance](https://github.com/wonder13662/gimp/assets/15767104/b704e87a-99b3-4ba3-8a87-73e795a9bf61)
 
-[8.2.2.2. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 방정식 - 그림 90.4.63.a115]()
-
 ***
 
 ## 다른 페이지로 가기

@@ -3,8 +3,6 @@
 #### 그림 90.4.55.a101. `이미지 저장` 대화상자 (Windows) (우리말)
 ![90-04-55-save_image(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/4998ac9f-01a4-469f-a414-4c2e48f37525)
 
-[7.8. GIH 대화상자 - 그림 90.4.55.a101]()
-
 #### 그림 90.4.55.a102. `이미지 저장` 대화상자 (Windows) (영어)
 ![90-04-55-save_image(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/62afbf4d-078d-46d0-92a6-c8ef80007933)
 

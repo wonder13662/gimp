@@ -10,7 +10,7 @@
 [![그림 90 5 17 a112  이미지 창의 위쪽의 탭 바가 보이지 않는 경우](https://github.com/wonder13662/gimp/assets/15767104/47816aca-1b82-4149-86ca-46d06faa984d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-17-image_tab_bar.html#%EA%B7%B8%EB%A6%BC-90517a112-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%9D%98-%EC%9C%84%EC%AA%BD%EC%9D%98-%ED%83%AD-%EB%B0%94%EA%B0%80-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B2%BD%EC%9A%B0)
 
 ## 4.3.4.2. 해결방법
-[이미지 메뉴 바]()의 `창` → `Show Tabs`을 엽니다. 그리고 `Show Tabs`이 체크되어 있는지 확인합니다.
+[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `창` → `Show Tabs`을 엽니다. 그리고 `Show Tabs`이 체크되어 있는지 확인합니다.
 
 #### [그림 90.1.10.5.a101. `창` → `Show Tabs`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-05-show_tabs.html#%EA%B7%B8%EB%A6%BC-901105a101-%EC%B0%BD--show-tabs)
 [![90-01-10-windows(w1080)-focus-show_tabs](https://github.com/wonder13662/gimp/assets/15767104/a143c671-190a-4982-9f45-3c87a171e616)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-05-show_tabs.html#%EA%B7%B8%EB%A6%BC-901105a101-%EC%B0%BD--show-tabs)
