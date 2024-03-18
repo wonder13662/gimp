@@ -118,7 +118,7 @@
 #### 영상 90.4.3.2.a201. 레이어 그룹의 미리보기 기능 끄기/켜기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9bb1f1d8-8c14-490b-b4c3-8f756e988a54"></video>
 
-[8.5.13. 레이어 미리보기(Layer preview) - 영상 90.4.3.2.a201]()
+[8.5.13. 레이어 미리보기(Layer preview) - 영상 90.4.3.2.a201](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-13-layer_preview.html#%EC%98%81%EC%83%81-90432a201-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%98-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EA%B8%B0%EB%8A%A5-%EB%81%84%EA%B8%B0%EC%BC%9C%EA%B8%B0)
 
 ***
 
