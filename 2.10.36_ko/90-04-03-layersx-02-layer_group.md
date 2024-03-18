@@ -108,12 +108,12 @@
 #### 영상 90.4.3.2.a191. 레이어 그룹의 경계가 줄어들어 레이어 그룹 마스크의 크기가 작아짐
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bc97311e-27d2-4342-b28b-be81e1dfc6f2"></video>
 
-[8.5.11. 레이어 그룹 마스크(Layer Group Mask) - 영상 90.4.3.2.a191]()
+[8.5.11. 레이어 그룹 마스크(Layer Group Mask) - 영상 90.4.3.2.a191](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-11-layer_mask.html#%EC%98%81%EC%83%81-90432a191-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%98-%EA%B2%BD%EA%B3%84%EA%B0%80-%EC%A4%84%EC%96%B4%EB%93%A4%EC%96%B4-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EB%A7%88%EC%8A%A4%ED%81%AC%EC%9D%98-%ED%81%AC%EA%B8%B0%EA%B0%80-%EC%9E%91%EC%95%84%EC%A7%90)
 
 #### 영상 90.4.3.2.a192. 레이어 그룹의 경계가 늘어나서 레이어 그룹 마스크의 크기가 커짐
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dafb7205-1a89-4fe4-a0e0-719c42ee5cd9"></video>
 
-[8.5.11. 레이어 그룹 마스크(Layer Group Mask) - 영상 90.4.3.2.a192]()
+[8.5.11. 레이어 그룹 마스크(Layer Group Mask) - 영상 90.4.3.2.a192](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-11-layer_mask.html#%EC%98%81%EC%83%81-90432a192-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%98-%EA%B2%BD%EA%B3%84%EA%B0%80-%EB%8A%98%EC%96%B4%EB%82%98%EC%84%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EB%A7%88%EC%8A%A4%ED%81%AC%EC%9D%98-%ED%81%AC%EA%B8%B0%EA%B0%80-%EC%BB%A4%EC%A7%90)
 
 ***
 
