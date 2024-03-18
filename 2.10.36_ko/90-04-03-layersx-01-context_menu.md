@@ -9,11 +9,6 @@
 
 [7.8.2.2. 3차원 이미지 호스(A three dimension image hose) - 그림 90.4.3.1.a41](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-the-gih-dialog-boxx-02-examplex-02-three_dimension_image_hose.html#%EA%B7%B8%EB%A6%BC-90431a41-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-#### 그림 90.4.3.1.a61. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `레이어 속성 편집...` (windows) (우리말)
-![90-04-03-layer_dialog-context_menu(windows)(ko)-focus-edit_layer_properties](https://github.com/wonder13662/gimp/assets/15767104/00f2273c-924c-4429-b216-aff875a26734)
-
-[8.1.1. 레이어 속성 - 그림 90.4.3.1.a61](https://wonder13662.github.io/gimp/2.10.36_ko/08-01-introduction-to-layersx-01-layer_properties.html#%EA%B7%B8%EB%A6%BC-90431a61-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD-%ED%8C%9D%EC%97%85%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%86%8D%EC%84%B1-%ED%8E%B8%EC%A7%91-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-
 #### 영상 90.4.3.1.a71. "떠있는 선택(Floating selection)"을 대화상자의 컨텍스트 메뉴의 `레이어 고정`으로 고정하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4ea970be-7bdb-4b9b-8c05-fdc3d899aae2"></video>
 
