@@ -4,10 +4,10 @@
 ## 1. 레이어 대화상자의 아래쪽의 복사하기 버튼
 레이어 대화상자의 아래쪽의 버튼들 중, 복사하기 버튼을 클릭해서 선택된 레이어 그룹을 복사할 수 있습니다.
 
-#### 그림 90.4.3.8.a21. 레이어 대화상자 - 레이어 복제 버튼
-![90-04-03-layersx-08-bottom_bar_buttons(w1080)-focus-duplicate_layer](https://github.com/wonder13662/gimp/assets/15767104/6f8e5bba-ff2b-45e4-bae0-c66bf6060cce)
+#### [그림 90.4.3.8.a21. 레이어 대화상자 - 레이어 복제 버튼](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-08-bottom_bar_buttons.html#%EA%B7%B8%EB%A6%BC-90438a21-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%B3%B5%EC%A0%9C-%EB%B2%84%ED%8A%BC)
+[![90-04-03-layersx-08-bottom_bar_buttons(w1080)-focus-duplicate_layer](https://github.com/wonder13662/gimp/assets/15767104/6f8e5bba-ff2b-45e4-bae0-c66bf6060cce)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-08-bottom_bar_buttons.html#%EA%B7%B8%EB%A6%BC-90438a21-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%B3%B5%EC%A0%9C-%EB%B2%84%ED%8A%BC)
 
-#### 영상 90.4.3.8.a22. 레이어 대화상자 - 레이어 복제 버튼으로 레이어 그룹 복사하기 (Windows) (우리말)
+#### [영상 90.4.3.8.a22. 레이어 대화상자 - 레이어 복제 버튼으로 레이어 그룹 복사하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-08-bottom_bar_buttons.html#%EC%98%81%EC%83%81-90438a22-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%B3%B5%EC%A0%9C-%EB%B2%84%ED%8A%BC%EC%9C%BC%EB%A1%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/f7cc9472-fba4-4ae2-aabb-a5c999c92c86"></video>
 
 ## 2. 레이어 대화상자의 컨텍스트 메뉴의 `레이어 복제(Duplicate Layer)`
