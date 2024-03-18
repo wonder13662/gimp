@@ -1,12 +1,12 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 90.4.3.1.10. 아래로 합치기(Merge Down)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 90.4.3.1.11. 레이어 삭제(Delete Layer)](./90-04-03-layersx-01-context_menux-11-delete_layer.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 90.4.3.1.9. 레이어 복제(Duplicate Layer)](./90-04-03-layersx-01-context_menux-09-duplicate_layer.md)
 
 [⬆️ 위: 90.4.3.1. 레이어 대화상자의 컨텍스트 메뉴](./90-04-03-layersx-01-context_menu.md)
 

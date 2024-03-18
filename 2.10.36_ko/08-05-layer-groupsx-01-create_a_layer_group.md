@@ -3,6 +3,8 @@
 [레이어 대화상자](./15-02-01-layers-dialog.md)의 아래쪽의 `레이어 그룹 추가` 버튼을 눌러서 레이어 그룹을 만들 수 있습니다. 레이어 그룹을 만들면, 새로운 빈 레이어 그룹이 현재 레이어 위에 생깁니다.
 
 ### 1-1. 레이어 대화상자의 아래쪽 레이어 그룹 추가 버튼
+레이어 대화상자의 아래쪽의 버튼들 중에 `레이어 그룹 추가` 버튼을 눌러 새로운 레이어 그룹을 추가할 수 있습니다.
+
 #### [그림 90.4.3.2.a11. 레이어 대화상자 - 레이어 그룹 추가 버튼](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-02-layer_group.html#%EA%B7%B8%EB%A6%BC-90432a11-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%B6%94%EA%B0%80-%EB%B2%84%ED%8A%BC)
 [![90-04-03-layers(w1080)-focus-add_layer_group](https://github.com/wonder13662/gimp/assets/15767104/1d059924-dec2-466c-bcb7-7f28d23c01b3)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-02-layer_group.html#%EA%B7%B8%EB%A6%BC-90432a11-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%B6%94%EA%B0%80-%EB%B2%84%ED%8A%BC)
 
@@ -21,10 +23,10 @@
 ### 1-3. 레이어 대화상자의 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)`
 [레이어 대화상자](./15-02-01-layers-dialog.md)의 오른쪽 클릭으로 여는 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)` 메뉴를 선택해서 레이어 그룹을 만들 수 있습니다.
 
-#### [그림 90.4.3.1.a21. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)` (windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-01-context_menu.html#%EA%B7%B8%EB%A6%BC-90431a21-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%9C%BC%EB%A1%9C-%EC%97%AC%EB%8A%94-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9new-layer-group-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-03-layers-context_menu-focus-new_layer_group](https://github.com/wonder13662/gimp/assets/15767104/de4661c7-01e2-4dcf-9c10-d594f133c26b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-01-context_menu.html#%EA%B7%B8%EB%A6%BC-90431a21-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%9C%BC%EB%A1%9C-%EC%97%AC%EB%8A%94-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9new-layer-group-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### [그림 90.4.3.1.8.a11. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)` (windows) (우리말)]()
+[![90-04-03-layers-context_menu-focus-new_layer_group](https://github.com/wonder13662/gimp/assets/15767104/de4661c7-01e2-4dcf-9c10-d594f133c26b)]()
 
-#### [영상 90.4.3.1.a31. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)`를 선택해서 레이어 그룹 만들기 (windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-01-context_menu.html#%EC%98%81%EC%83%81-90431a31-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%9C%BC%EB%A1%9C-%EC%97%AC%EB%8A%94-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9new-layer-group%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EB%A7%8C%EB%93%A4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### [영상 90.4.3.1.8.a21. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)`를 선택해서 레이어 그룹 만들기 (windows) (우리말)]()
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a2332994-6abc-4d79-8221-fca060c38d73"></video>
 
 ## 2. 레이어 그룹 이름 바꾸기

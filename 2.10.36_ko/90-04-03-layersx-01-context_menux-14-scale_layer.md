@@ -1,12 +1,12 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 90.4.3.1.14. 레이어 크기조정...(Scale Layer...)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 90.4.3.1.15. 레이어 마스크 추가...(Add Layer Mask...)](./90-04-03-layersx-01-context_menux-15-add_layer_mask.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 90.4.3.1.13. 레이어를 이미지 크기로(Layer to Image Size)](./90-04-03-layersx-01-context_menux-13-layer_to_image_size.md)
 
 [⬆️ 위: 90.4.3.1. 레이어 대화상자의 컨텍스트 메뉴](./90-04-03-layersx-01-context_menu.md)
 

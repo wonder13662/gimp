@@ -1,12 +1,12 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 90.4.3.1.24. 알파를 선택 영역으로(Alpha to Selection)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 90.4.3.1.25. 보이는 레이어 합치기...(Merge Visible Layers...)](./90-04-03-layersx-01-context_menux-25-merge_visible_layers.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 90.4.3.1.23. 알파 채널 제거(Remove Alpha Channel)](./90-04-03-layersx-01-context_menux-23-remove_alpha_channel.md)
 
 [⬆️ 위: 90.4.3.1. 레이어 대화상자의 컨텍스트 메뉴](./90-04-03-layersx-01-context_menu.md)
 

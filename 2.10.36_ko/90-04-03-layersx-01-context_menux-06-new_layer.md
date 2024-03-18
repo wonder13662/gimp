@@ -1,12 +1,12 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 90.4.3.1.6. 새 레이어...(New Layer...)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 90.4.3.1.7. 보이는 영역에서 새로 만들기(New from Visible)](./90-04-03-layersx-01-context_menux-07-new_from_visible.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 90.4.3.1.5. 색상 태그(Color Tag)](./90-04-03-layersx-01-context_menux-05-color_tag.md)
 
 [⬆️ 위: 90.4.3.1. 레이어 대화상자의 컨텍스트 메뉴](./90-04-03-layersx-01-context_menu.md)
 
