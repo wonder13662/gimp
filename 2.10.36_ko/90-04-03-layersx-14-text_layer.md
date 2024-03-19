@@ -78,22 +78,22 @@
 #### 영상 90.4.3.14.a101. 이동 도구로 텍스트 옮기기 - 텍스트를 선택함(성공)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/89882d0d-12c9-418d-8c84-5aa374379f35"></video>
 
-[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a101]()
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a101](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EC%98%81%EC%83%81-904314a101-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%AE%EA%B8%B0%EA%B8%B0---%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%A8%EC%84%B1%EA%B3%B5)
 
 #### 영상 90.4.3.14.a102. 이동 도구로 텍스트 옮기기 - 텍스트가 아닌 다른 레이어를 선택함(실패)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c9ab77e9-0870-48bb-b278-ad6da21f5cc7"></video>
 
-[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a102]()
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a102](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EC%98%81%EC%83%81-904314a102-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%AE%EA%B8%B0%EA%B8%B0---%ED%85%8D%EC%8A%A4%ED%8A%B8%EA%B0%80-%EC%95%84%EB%8B%8C-%EB%8B%A4%EB%A5%B8-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%A8%EC%8B%A4%ED%8C%A8)
 
 #### 그림 90.4.3.14.a103. 이동 도구로 텍스트 옮기기 - 텍스트를 선택했을 때의 커서 아이콘
 ![90-04-03-14-a103-move_tool_cursor_on_text(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/171b8704-df6c-474a-bf94-c5ad02e37711)
 
-[9.1.1. 텍스트 영역(Text Area) - 그림 90.4.3.14.a103]()
+[9.1.1. 텍스트 영역(Text Area) - 그림 90.4.3.14.a103](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EA%B7%B8%EB%A6%BC-904314a103-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%AE%EA%B8%B0%EA%B8%B0---%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84-%EB%95%8C%EC%9D%98-%EC%BB%A4%EC%84%9C-%EC%95%84%EC%9D%B4%EC%BD%98)
 
 #### 그림 90.4.3.14.a104. 이동 도구로 텍스트 옮기기 - 텍스트가 아닌 다른 레이어를 선택했을 때의 커서 아이콘
 ![90-04-03-14-a103-move_tool_cursor_on_other_layer(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/dad75751-3910-4e37-8e8f-c0b90f07cb45)
 
-[9.1.1. 텍스트 영역(Text Area) - 그림 90.4.3.14.a104]()
+[9.1.1. 텍스트 영역(Text Area) - 그림 90.4.3.14.a104](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EA%B7%B8%EB%A6%BC-904314a104-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%AE%EA%B8%B0%EA%B8%B0---%ED%85%8D%EC%8A%A4%ED%8A%B8%EA%B0%80-%EC%95%84%EB%8B%8C-%EB%8B%A4%EB%A5%B8-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84-%EB%95%8C%EC%9D%98-%EC%BB%A4%EC%84%9C-%EC%95%84%EC%9D%B4%EC%BD%98)
 
 ***
 

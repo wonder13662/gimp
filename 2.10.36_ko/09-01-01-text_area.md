@@ -52,19 +52,19 @@
 ## 5. 텍스트 옮기기
 [14.4.3. 이동 도구](./14-04-03-move.md)를 사용해서 텍스트를 옮길 수 있습니다. 다만, 배경이 아닌 글자를 클릭해야 합니다.
 
-#### [영상 90.4.3.14.a101. 이동 도구로 텍스트 옮기기 - 텍스트를 선택함(성공)]()
+#### [영상 90.4.3.14.a101. 이동 도구로 텍스트 옮기기 - 텍스트를 선택함(성공)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-14-text_layer.html#%EC%98%81%EC%83%81-904314a101-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%AE%EA%B8%B0%EA%B8%B0---%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%A8%EC%84%B1%EA%B3%B5)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/89882d0d-12c9-418d-8c84-5aa374379f35"></video>
 
-#### [영상 90.4.3.14.a102. 이동 도구로 텍스트 옮기기 - 텍스트가 아닌 다른 레이어를 선택함(실패)]()
+#### [영상 90.4.3.14.a102. 이동 도구로 텍스트 옮기기 - 텍스트가 아닌 다른 레이어를 선택함(실패)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-14-text_layer.html#%EC%98%81%EC%83%81-904314a102-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%AE%EA%B8%B0%EA%B8%B0---%ED%85%8D%EC%8A%A4%ED%8A%B8%EA%B0%80-%EC%95%84%EB%8B%8C-%EB%8B%A4%EB%A5%B8-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%A8%EC%8B%A4%ED%8C%A8)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c9ab77e9-0870-48bb-b278-ad6da21f5cc7"></video>
 
 이동 도구로 텍스트를 옮기는 것이 가능한지 확인하기 다소 어려울 수 있습니다. 이런 경우에는 이동 도구의 커서 모양을 확인하세요. 십자모양 화살표가 아래쪽에 아이콘으로 노출되는 경우에 텍스트가 선택되어 텍스트를 이동시킬 수 있는 상태입니다. 아래 이미지를 확인해주세요.
 
-#### [그림 90.4.3.14.a103. 이동 도구로 텍스트 옮기기 - 텍스트를 선택했을 때의 커서 아이콘]()
-[![90-04-03-14-a103-move_tool_cursor_on_text(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/171b8704-df6c-474a-bf94-c5ad02e37711)]()
+#### [그림 90.4.3.14.a103. 이동 도구로 텍스트 옮기기 - 텍스트를 선택했을 때의 커서 아이콘](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-14-text_layer.html#%EA%B7%B8%EB%A6%BC-904314a103-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%AE%EA%B8%B0%EA%B8%B0---%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84-%EB%95%8C%EC%9D%98-%EC%BB%A4%EC%84%9C-%EC%95%84%EC%9D%B4%EC%BD%98)
+[![90-04-03-14-a103-move_tool_cursor_on_text(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/171b8704-df6c-474a-bf94-c5ad02e37711)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-14-text_layer.html#%EA%B7%B8%EB%A6%BC-904314a103-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%AE%EA%B8%B0%EA%B8%B0---%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84-%EB%95%8C%EC%9D%98-%EC%BB%A4%EC%84%9C-%EC%95%84%EC%9D%B4%EC%BD%98)
 
-#### [그림 90.4.3.14.a104. 이동 도구로 텍스트 옮기기 - 텍스트가 아닌 다른 레이어를 선택했을 때의 커서 아이콘]()
-[![90-04-03-14-a103-move_tool_cursor_on_other_layer(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/dad75751-3910-4e37-8e8f-c0b90f07cb45)]()
+#### [그림 90.4.3.14.a104. 이동 도구로 텍스트 옮기기 - 텍스트가 아닌 다른 레이어를 선택했을 때의 커서 아이콘](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-14-text_layer.html#%EA%B7%B8%EB%A6%BC-904314a104-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%AE%EA%B8%B0%EA%B8%B0---%ED%85%8D%EC%8A%A4%ED%8A%B8%EA%B0%80-%EC%95%84%EB%8B%8C-%EB%8B%A4%EB%A5%B8-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84-%EB%95%8C%EC%9D%98-%EC%BB%A4%EC%84%9C-%EC%95%84%EC%9D%B4%EC%BD%98)
+[![90-04-03-14-a103-move_tool_cursor_on_other_layer(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/dad75751-3910-4e37-8e8f-c0b90f07cb45)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-14-text_layer.html#%EA%B7%B8%EB%A6%BC-904314a104-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%AE%EA%B8%B0%EA%B8%B0---%ED%85%8D%EC%8A%A4%ED%8A%B8%EA%B0%80-%EC%95%84%EB%8B%8C-%EB%8B%A4%EB%A5%B8-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84-%EB%95%8C%EC%9D%98-%EC%BB%A4%EC%84%9C-%EC%95%84%EC%9D%B4%EC%BD%98)
 
 ## 6. 유니코드(Unicode) 문자 입력하기
 You can get Unicode character with Ctrl + Shift + U plus hexadecimal Unicode of the desired char, for example: 
