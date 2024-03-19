@@ -50,6 +50,21 @@
 
 [9.1.1. 텍스트 영역(Text Area) - 그림 90.4.3.14.a72](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EA%B7%B8%EB%A6%BC-904314a72-%EC%83%81%ED%83%9C-%ED%91%9C%EC%8B%9C-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90%EC%9D%98-%ED%81%AC%EA%B8%B0-%EC%A0%95%EB%B3%B4-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
+#### 영상 90.4.3.14.a81. 클릭, 드래그로 수정할 텍스트 선택하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7813997d-28cc-45ac-a0d4-4a375e16e3aa"></video>
+
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a81]()
+
+#### 영상 90.4.3.14.a82. 키보드의 Shift(⇧) + 방향키로 수정할 텍스트 선택하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7bbfc91e-08be-4878-99cb-ae29c661e051"></video>
+
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a82]()
+
+#### 영상 90.4.3.14.a83. 선택한 텍스트에 텍스트 도구 상자의 옵션(이탤릭체, 밑줄 등) 적용하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3b23fd7a-6501-45c5-b8a7-a39b3305feae"></video>
+
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a83]()
+
 ***
 
 ## 다른 페이지로 가기

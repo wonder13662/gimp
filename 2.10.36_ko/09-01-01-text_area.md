@@ -24,9 +24,18 @@
 ## 3. 텍스트 수정하기
 텍스트를 수정하기 위해서는 수정하고 싶은 부분을 클릭, 드래그로 선택해야 합니다.
 
-또는 키보드의 Shift + 방향키로 수정할 부분을 선택할 수 있습니다.
+#### [영상 90.4.3.14.a81. 클릭, 드래그로 수정할 텍스트 선택하기]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7813997d-28cc-45ac-a0d4-4a375e16e3aa"></video>
+
+또는 키보드의 Shift(⇧) + 방향키로 수정할 부분을 선택할 수 있습니다.
+
+#### [영상 90.4.3.14.a82. 키보드의 Shift(⇧) + 방향키로 수정할 텍스트 선택하기]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7bbfc91e-08be-4878-99cb-ae29c661e051"></video>
 
 선택한 텍스트에 대해 [9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-text_toolbox.md)의 옵션을 사용할 수 있습니다.
+
+#### [영상 90.4.3.14.a83. 선택한 텍스트에 텍스트 도구 상자의 옵션(이탤릭체, 밑줄 등) 적용하기]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3b23fd7a-6501-45c5-b8a7-a39b3305feae"></video>
 
 ## 4. 텍스트 수정 대화상자(Text Editor Dialog)로 텍스트 수정하기
 Instead of using the on-canvas text editing, you can use the text editor dialog described in [14.5.6.3. 텍스트 에디터(Text Editor)](./14-05-06-textx-03-text_editor.md)
