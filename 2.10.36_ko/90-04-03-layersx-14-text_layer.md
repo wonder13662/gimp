@@ -30,6 +30,16 @@
 
 [9.1. 텍스트 관리(Text management) - 영상 90.4.3.14.a51](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-00-text-management.html#%EC%98%81%EC%83%81-904314a51-%EC%BA%94%EB%B2%84%EC%8A%A4-%ED%81%B4%EB%A6%AD%EC%8B%9C-%EB%8B%AB%ED%9E%8C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90%EC%99%80-%EB%B0%98%ED%88%AC%EB%AA%85-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EA%B0%80-%EB%82%98%ED%83%80%EB%82%A9%EB%8B%88%EB%8B%A4)
 
+#### 영상 90.4.3.14.a61. 텍스트 입력에 따라 텍스트 상자가 커집니다
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8c29a051-d425-4457-bb74-1fd570f57bee"></video>
+
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a61]()
+
+#### 영상 90.4.3.14.a62. 엔터키로 텍스트 상자안에서 줄바꿈하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/950131ca-1a15-4cb1-8a4c-8e2e7670698f"></video>
+
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a62]()
+
 ***
 
 ## 다른 페이지로 가기
