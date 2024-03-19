@@ -98,17 +98,17 @@
 #### 그림 90.4.3.14.a111. 텍스트 상자에 유니코드를 입력하기 전에 `입력기(Input Method)` → `간단(Simple)` 확인하기
 ![90-04-03-14-a111-text_box-context_menu-input_method-default(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/d5c9ed51-1076-4917-a563-f97d058ec69d)
 
-[9.1.1. 텍스트 영역(Text Area) - 그림 90.4.3.14.a111]()
+[9.1.1. 텍스트 영역(Text Area) - 그림 90.4.3.14.a111](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EA%B7%B8%EB%A6%BC-904314a111-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90%EC%97%90-%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-%EC%9E%85%EB%A0%A5%EA%B8%B0input-method--%EA%B0%84%EB%8B%A8simple-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
 #### 영상 90.4.3.14.a112. `입력기(Input Method)`의 기본값인 경우의 유니코드 입력 실패
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ec1ffc13-c6de-40ee-b54c-a951045a77ca"></video>
 
-[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a112]()
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a112](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EC%98%81%EC%83%81-904314a112-%EC%9E%85%EB%A0%A5%EA%B8%B0input-method%EC%9D%98-%EA%B8%B0%EB%B3%B8%EA%B0%92%EC%9D%B8-%EA%B2%BD%EC%9A%B0%EC%9D%98-%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C-%EC%9E%85%EB%A0%A5-%EC%8B%A4%ED%8C%A8)
 
 #### 영상 90.4.3.14.a113. `입력기(Input Method)` → `간단(Simple)` 경우의 유니코드 입력 성공
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7090d432-188b-4e3b-92a3-b9c09dff4d4b"></video>
 
-[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a113]()
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a113](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EC%98%81%EC%83%81-904314a113-%EC%9E%85%EB%A0%A5%EA%B8%B0input-method--%EA%B0%84%EB%8B%A8simple-%EA%B2%BD%EC%9A%B0%EC%9D%98-%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C-%EC%9E%85%EB%A0%A5-%EC%84%B1%EA%B3%B5)
 
 ***
 
