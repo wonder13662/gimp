@@ -40,6 +40,16 @@
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a62](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EC%98%81%EC%83%81-904314a62-%EC%97%94%ED%84%B0%ED%82%A4%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90%EC%95%88%EC%97%90%EC%84%9C-%EC%A4%84%EB%B0%94%EA%BF%88%ED%95%98%EA%B8%B0)
 
+#### 영상 90.4.3.14.a71. 클릭, 드래그로 텍스트 상자 크기 바꾸기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/71a150b3-fdbf-4b6e-bc0d-deadb1777067"></video>
+
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a71]()
+
+#### 그림 90.4.3.14.a72. 상태 표시 영역에서 텍스트 상자의 크기 정보 확인하기
+![90-04-03-14-a72-text_box_size_at_status_area(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/46338887-39f0-4d15-a0c0-c1380e3c1aaa)
+
+[9.1.1. 텍스트 영역(Text Area) - 그림 90.4.3.14.a72]()
+
 ***
 
 ## 다른 페이지로 가기

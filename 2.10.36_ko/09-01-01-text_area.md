@@ -11,7 +11,16 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/950131ca-1a15-4cb1-8a4c-8e2e7670698f"></video>
 
 ## 2. 텍스트 박스 크기 늘리기
-You can also enlarge the text box by click-and-dragging, as you do with selection. The box size appears then in the status bar at the bottom of the image:
+텍스트 박스를 클릭, 드래그로 더 크게 만들 수 있습니다. 이 동작은 선택 영역을 크게 만드는 방법과 같습니다. 
+
+#### [영상 90.4.3.14.a71. 클릭, 드래그로 텍스트 상자 크기 바꾸기]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/71a150b3-fdbf-4b6e-bc0d-deadb1777067"></video>
+
+텍스트 박스의 크기는 [3.2.2.9. 상태 표시 영역 (Status Area)](./03-02-02-image-windowx-09-status-area.md)에 표시됩니다.
+
+#### [그림 90.4.3.14.a72. 상태 표시 영역에서 텍스트 상자의 크기 정보 확인하기]()
+![90-04-03-14-a72-text_box_size_at_status_area(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/46338887-39f0-4d15-a0c0-c1380e3c1aaa)
+
 
 ## 3. 텍스트 수정하기
 To edit text, you must, first, select the part you want to edit by click-and-drag, or Shift + arrow keys and then use the options of the [9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-text_toolbox.md).
