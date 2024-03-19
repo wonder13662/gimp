@@ -1514,6 +1514,8 @@
 
 [90.4.64. 새 레이어(New layer)](./90-04-64-new_layer.md)
 
+[90.4.65. 김프 텍스트 편집기(GIMP Text Editor)](./90-04-65-gimp_text_editor.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
