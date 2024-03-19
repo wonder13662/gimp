@@ -33,12 +33,12 @@
 #### 영상 90.4.3.14.a61. 텍스트 입력에 따라 텍스트 상자가 커집니다
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8c29a051-d425-4457-bb74-1fd570f57bee"></video>
 
-[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a61]()
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a61](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EC%98%81%EC%83%81-904314a61-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%A0%A5%EC%97%90-%EB%94%B0%EB%9D%BC-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90%EA%B0%80-%EC%BB%A4%EC%A7%91%EB%8B%88%EB%8B%A4)
 
 #### 영상 90.4.3.14.a62. 엔터키로 텍스트 상자안에서 줄바꿈하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/950131ca-1a15-4cb1-8a4c-8e2e7670698f"></video>
 
-[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a62]()
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a62](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EC%98%81%EC%83%81-904314a62-%EC%97%94%ED%84%B0%ED%82%A4%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90%EC%95%88%EC%97%90%EC%84%9C-%EC%A4%84%EB%B0%94%EA%BF%88%ED%95%98%EA%B8%B0)
 
 ***
 
