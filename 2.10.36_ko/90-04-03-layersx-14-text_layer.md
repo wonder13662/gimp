@@ -110,6 +110,8 @@
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a113](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EC%98%81%EC%83%81-904314a113-%EC%9E%85%EB%A0%A5%EA%B8%B0input-method--%EA%B0%84%EB%8B%A8simple-%EA%B2%BD%EC%9A%B0%EC%9D%98-%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C-%EC%9E%85%EB%A0%A5-%EC%84%B1%EA%B3%B5)
 
+#### 영상 90.4.3.14.a121. 텍스트 편집 확인
+
 ***
 
 ## 다른 페이지로 가기
