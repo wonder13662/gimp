@@ -68,12 +68,12 @@
 #### 영상 90.4.3.14.a91. 김프 텍스트 에디터 열기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c3aa7144-a18f-4f82-9bdf-d9afa4ae9dcc"></video>
 
-[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a91]()
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a91](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EC%98%81%EC%83%81-904314a91-%EA%B9%80%ED%94%84-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%90%EB%94%94%ED%84%B0-%EC%97%B4%EA%B8%B0)
 
 #### 영상 90.4.3.14.a92. 김프 텍스트 에디터로 텍스트 수정
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e0711e5b-de00-4c3e-a82d-4860718005f1"></video>
 
-[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a92]()
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a92](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EC%98%81%EC%83%81-904314a92-%EA%B9%80%ED%94%84-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%90%EB%94%94%ED%84%B0%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%88%98%EC%A0%95)
 
 ***
 
