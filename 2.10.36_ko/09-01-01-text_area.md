@@ -13,17 +13,20 @@
 ## 2. 텍스트 박스 크기 늘리기
 텍스트 박스를 클릭, 드래그로 더 크게 만들 수 있습니다. 이 동작은 선택 영역을 크게 만드는 방법과 같습니다. 
 
-#### [영상 90.4.3.14.a71. 클릭, 드래그로 텍스트 상자 크기 바꾸기]()
+#### [영상 90.4.3.14.a71. 클릭, 드래그로 텍스트 상자 크기 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-14-text_layer.html#%EC%98%81%EC%83%81-904314a71-%ED%81%B4%EB%A6%AD-%EB%93%9C%EB%9E%98%EA%B7%B8%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90-%ED%81%AC%EA%B8%B0-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/71a150b3-fdbf-4b6e-bc0d-deadb1777067"></video>
 
 텍스트 박스의 크기는 [3.2.2.9. 상태 표시 영역 (Status Area)](./03-02-02-image-windowx-09-status-area.md)에 표시됩니다.
 
-#### [그림 90.4.3.14.a72. 상태 표시 영역에서 텍스트 상자의 크기 정보 확인하기]()
-![90-04-03-14-a72-text_box_size_at_status_area(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/46338887-39f0-4d15-a0c0-c1380e3c1aaa)
-
+#### [그림 90.4.3.14.a72. 상태 표시 영역에서 텍스트 상자의 크기 정보 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-14-text_layer.html#%EA%B7%B8%EB%A6%BC-904314a72-%EC%83%81%ED%83%9C-%ED%91%9C%EC%8B%9C-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90%EC%9D%98-%ED%81%AC%EA%B8%B0-%EC%A0%95%EB%B3%B4-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+[![90-04-03-14-a72-text_box_size_at_status_area(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/46338887-39f0-4d15-a0c0-c1380e3c1aaa)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-14-text_layer.html#%EA%B7%B8%EB%A6%BC-904314a72-%EC%83%81%ED%83%9C-%ED%91%9C%EC%8B%9C-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90%EC%9D%98-%ED%81%AC%EA%B8%B0-%EC%A0%95%EB%B3%B4-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
 ## 3. 텍스트 수정하기
-To edit text, you must, first, select the part you want to edit by click-and-drag, or Shift + arrow keys and then use the options of the [9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-text_toolbox.md).
+텍스트를 수정하기 위해서는 수정하고 싶은 부분을 클릭, 드래그로 선택해야 합니다.
+
+또는 키보드의 Shift + 방향키로 수정할 부분을 선택할 수 있습니다.
+
+선택한 텍스트에 대해 [9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-text_toolbox.md)의 옵션을 사용할 수 있습니다.
 
 ## 4. 텍스트 수정 대화상자(Text Editor Dialog)로 텍스트 수정하기
 Instead of using the on-canvas text editing, you can use the text editor dialog described in [14.5.6.3. 텍스트 에디터(Text Editor)](./14-05-06-textx-03-text_editor.md)
