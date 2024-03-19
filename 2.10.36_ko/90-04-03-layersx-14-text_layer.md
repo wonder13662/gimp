@@ -65,6 +65,16 @@
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a83](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EC%98%81%EC%83%81-904314a83-%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%B5%EC%85%98%EC%9D%B4%ED%83%A4%EB%A6%AD%EC%B2%B4-%EB%B0%91%EC%A4%84-%EB%93%B1-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 
+#### 영상 90.4.3.14.a91. 김프 텍스트 에디터 열기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c3aa7144-a18f-4f82-9bdf-d9afa4ae9dcc"></video>
+
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a91]()
+
+#### 영상 90.4.3.14.a92. 김프 텍스트 에디터로 텍스트 수정
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e0711e5b-de00-4c3e-a82d-4860718005f1"></video>
+
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a92]()
+
 ***
 
 ## 다른 페이지로 가기

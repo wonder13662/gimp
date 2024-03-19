@@ -38,7 +38,16 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3b23fd7a-6501-45c5-b8a7-a39b3305feae"></video>
 
 ## 4. 텍스트 수정 대화상자(Text Editor Dialog)로 텍스트 수정하기
-Instead of using the on-canvas text editing, you can use the text editor dialog described in [14.5.6.3. 텍스트 에디터(Text Editor)](./14-05-06-textx-03-text_editor.md)
+캔버스(이미지 창) 위에서 텍스트 수정을 하는 것을 대신해, [14.5.6.3. 텍스트 에디터(Text Editor)](./14-05-06-textx-03-text_editor.md)를 사용해 텍스트 수정을 할 수 있습니다.
+
+#### [그림 90.4.65.a101. `김프 텍스트 편집기` 대화상자 (Windows) (우리말)]()
+![90-04-65-a101-dialog_text_editor(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/25862942-c6dc-42ed-ad90-9eb590a47e3e)
+
+#### [영상 90.4.3.14.a91. 김프 텍스트 에디터 열기]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c3aa7144-a18f-4f82-9bdf-d9afa4ae9dcc"></video>
+
+#### [영상 90.4.3.14.a92. 김프 텍스트 에디터로 텍스트 수정]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e0711e5b-de00-4c3e-a82d-4860718005f1"></video>
 
 ## 5. 텍스트 옮기기
 You can move the text on the image using the Move tool: you must click on a character, not on the background.
