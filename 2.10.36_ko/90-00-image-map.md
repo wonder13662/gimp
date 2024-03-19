@@ -1026,6 +1026,8 @@
 
 [90.4.3.13. 레이어 마스크(Layer Mask)](./90-04-03-layersx-13-layer_mask.md)
 
+[90.4.3.14. 텍스트 레이어(Text Layer)](./90-04-03-layersx-14-text_layer.md)
+
 [90.4.4. 채널(Channels)](./90-04-04-channels.md)
 
 [90.4.5. 경로(Paths)](./90-04-05-paths.md)

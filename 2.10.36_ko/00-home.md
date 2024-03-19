@@ -390,6 +390,24 @@
 
 [9. 텍스트 관리(Text management)](./09-00-text-management.md)
 
+[9.1. 텍스트 관리(Text management)](./09-01-00-text-management.md)
+
+[9.1.1. 텍스트 영역(Text Area)](./09-01-01-text_area.md)
+
+[9.1.2. 텍스트 레이어 관리(Managing Text Layer)](./09-01-02-managing_text_layer.md)
+
+[9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-text_toolbox.md)
+
+[9.1.4. 텍스트 컨텍스트 메뉴(Text Context Menu)](./09-01-04-text_context_menu.md)
+
+[9.2. 텍스트(Text)](./09-02-00-text.md)
+
+[9.2.1. 텍스트 꾸미기(Embellishing text)](./09-02-01-embellishing-text.md)
+
+[9.2.2. 글꼴 추가하기(Adding fonts)](./09-02-02-adding-fonts.md)
+
+[9.2.3. 글꼴 문제(Font problems)](./09-02-03-font-problems.md)
+
 [10. Enhancing Photographs](./10-00-enhancing-photographs.md)
 
 [11. Color Management](./11-00-color-management-with-gimp.md)
@@ -1371,6 +1389,8 @@
 [90.4.3.12. 활성화된 레이어(Active Layer)](./90-04-03-layersx-12-active_layer.md)
 
 [90.4.3.13. 레이어 마스크(Layer Mask)](./90-04-03-layersx-13-layer_mask.md)
+
+[90.4.3.14. 텍스트 레이어(Text Layer)](./90-04-03-layersx-14-text_layer.md)
 
 [90.4.4. 채널(Channels)](./90-04-04-channels.md)
 
