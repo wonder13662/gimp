@@ -67,12 +67,22 @@
 [![90-04-03-14-a103-move_tool_cursor_on_other_layer(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/dad75751-3910-4e37-8e8f-c0b90f07cb45)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-14-text_layer.html#%EA%B7%B8%EB%A6%BC-904314a104-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%AE%EA%B8%B0%EA%B8%B0---%ED%85%8D%EC%8A%A4%ED%8A%B8%EA%B0%80-%EC%95%84%EB%8B%8C-%EB%8B%A4%EB%A5%B8-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84-%EB%95%8C%EC%9D%98-%EC%BB%A4%EC%84%9C-%EC%95%84%EC%9D%B4%EC%BD%98)
 
 ## 6. 유니코드(Unicode) 문자 입력하기
-You can get Unicode character with Ctrl + Shift + U plus hexadecimal Unicode of the desired char, for example: 
+⚠️ 주의: 유니코드를 입력하기 위해서는 텍스트 박스의 오른쪽 클릭으로 나오는 컨텍스트 메뉴의 `입력기(Input Method)`의 설정값이 `간단(Simple)`이어야 합니다. 그렇지 않은 경우, 유니코드 입력이 작동하지 않습니다.
 
-Of course this feature is more useful for entering special (even exotic) characters, provided that the required glyphs for these characters are supplied by the selected font.
+#### [그림 90.4.3.14.a111. 텍스트 상자에 유니코드를 입력하기 전에 `입력기(Input Method)` → `간단(Simple)` 확인하기]()
+[![90-04-03-14-a111-text_box-context_menu-input_method-default(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/d5c9ed51-1076-4917-a563-f97d058ec69d)]()
+
+`입력기(Input Method)`의 값이 올바르지 않아 유니코드를 입력할 수 없는 상황은 아래 영상을 참고해주세요.
+#### 영상 90.4.3.14.a112. `입력기(Input Method)`의 기본값인 경우의 유니코드 입력 실패
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ec1ffc13-c6de-40ee-b54c-a951045a77ca"></video>
+
+텍스트 박스에서 Ctrl(⌘) + Shift(⇧) + U를 누르면 밑줄(underscore)이 쳐진 `u`가 추가됩니다. 그 뒤로 16진수의 유니코드를 입력하면 원하는 유니코드 문자를 입력할 수 있습니다.
+
+#### [영상 90.4.3.14.a113. `입력기(Input Method)` → `간단(Simple)` 경우의 유니코드 입력 성공]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7090d432-188b-4e3b-92a3-b9c09dff4d4b"></video>
 
 ## 7. 나중에 텍스트 수정하기
-You can edit the text later, if the text layer still exists and has not been modified by another tool (see below): make the text layer active in the [레이어 대화상자](./15-02-01-layers-dialog.md), select the Text tool and click on the text in the image window.
+텍스트 레이어가 [레이어 대화상자](./15-02-01-layers-dialog.md)의 목록에 있고, 다른 도구로 수정되지 않았다면, 텍스트는 나중에 수정할 수 있습니다. 텍스트를 [레이어 대화상자](./15-02-01-layers-dialog.md)에서 활성화(선택)하고 텍스트 도구를 선택한 다음, 이미지 창(캔버스)에서 보이는 텍스트를 클릭하면 수정할 수 있습니다.
 
 ***
 
