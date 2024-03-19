@@ -28,7 +28,7 @@
 #### 영상 90.4.3.14.a51. 캔버스 클릭시, 닫힌 텍스트 상자와 반투명 텍스트 도구 상자가 나타납니다
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9d02267d-6876-4447-8390-f5c8808a8673"></video>
 
-[9.1. 텍스트 관리(Text management) - 영상 90.4.3.14.a51]()
+[9.1. 텍스트 관리(Text management) - 영상 90.4.3.14.a51](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-00-text-management.html#%EC%98%81%EC%83%81-904314a51-%EC%BA%94%EB%B2%84%EC%8A%A4-%ED%81%B4%EB%A6%AD%EC%8B%9C-%EB%8B%AB%ED%9E%8C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90%EC%99%80-%EB%B0%98%ED%88%AC%EB%AA%85-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EA%B0%80-%EB%82%98%ED%83%80%EB%82%A9%EB%8B%88%EB%8B%A4)
 
 ***
 
