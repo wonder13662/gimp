@@ -75,6 +75,26 @@
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a92](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-01-text_area.html#%EC%98%81%EC%83%81-904314a92-%EA%B9%80%ED%94%84-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%90%EB%94%94%ED%84%B0%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%88%98%EC%A0%95)
 
+#### 영상 90.4.3.14.a101. 이동 도구로 텍스트 옮기기 - 텍스트를 선택함(성공)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/89882d0d-12c9-418d-8c84-5aa374379f35"></video>
+
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a101]()
+
+#### 영상 90.4.3.14.a102. 이동 도구로 텍스트 옮기기 - 텍스트가 아닌 다른 레이어를 선택함(실패)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c9ab77e9-0870-48bb-b278-ad6da21f5cc7"></video>
+
+[9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a102]()
+
+#### 그림 90.4.3.14.a103. 이동 도구로 텍스트 옮기기 - 텍스트를 선택했을 때의 커서 아이콘
+![90-04-03-14-a103-move_tool_cursor_on_text(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/171b8704-df6c-474a-bf94-c5ad02e37711)
+
+[9.1.1. 텍스트 영역(Text Area) - 그림 90.4.3.14.a103]()
+
+#### 그림 90.4.3.14.a104. 이동 도구로 텍스트 옮기기 - 텍스트가 아닌 다른 레이어를 선택했을 때의 커서 아이콘
+![90-04-03-14-a103-move_tool_cursor_on_other_layer(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/dad75751-3910-4e37-8e8f-c0b90f07cb45)
+
+[9.1.1. 텍스트 영역(Text Area) - 그림 90.4.3.14.a104]()
+
 ***
 
 ## 다른 페이지로 가기
