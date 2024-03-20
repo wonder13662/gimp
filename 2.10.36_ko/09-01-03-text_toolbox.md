@@ -67,12 +67,28 @@ HTML에서는 여러 종류의 기준선([alphabetic](https://drafts.csswg.org/c
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d6119171-59ab-4fed-97e0-0664b993f945"></video>
 
 ### 2-5. 선택한 텍스트의 자간(kerning) 바꾸기
+자간(Kerning)의 정의는 위키피디아에 따르면 다음과 같습니다.
+
+> "글자의 모양 때문에 활자가 고르게 배열되지 않은 것처럼 보이는 것을 글자 모양에 따라 적당한 간격을 두게 조정하여 시각적으로 매끄럽게 보이게 하는 것을 말한다."
+
+#### [그림 19.용어집.자간(Baseline).a11](./19-glossaryx-kerning.md)
+![19-glossary-kerning-wikipedia(w480)](https://github.com/wonder13662/gimp/assets/15767104/4a5f5cb0-a718-44de-b7b2-8e0a44230498)
+
+자간은 선택한 텍스트의 글자 간격을 조정할 때 사용합니다. 아래 영상에서 글자 간격을 조정하는 과정을 확인할 수 있습니다.
 
 #### [그림 90.4.67.a150. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 자간(Kerning)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EA%B7%B8%EB%A6%BC-90467a150-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%9E%90%EA%B0%84kerning)
 [![90-04-67-a101-text_toolbox(windows)(ko)-focus-kerning](https://github.com/wonder13662/gimp/assets/15767104/2f8116a5-f697-4ab8-977e-42523ccc52b9)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EA%B7%B8%EB%A6%BC-90467a150-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%9E%90%EA%B0%84kerning)
 
 #### [영상 90.4.67.a151. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 자간(Kerning) 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EC%98%81%EC%83%81-90467a151-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%9E%90%EA%B0%84kerning-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3d63d236-c76e-4a6f-a70f-fd6983107898"></video>
+
+전체 글자 간격을 조정하기 위해서는 `텍스트` 대화상자의 `글자 간격 조정(Adjust letter spacing)` 입력창에서 글자 간격 값을 조정해야 합니다. 아래 영상에서 이 과정을 확인해보세요.
+
+#### [그림 90.4.1.36.a121. `텍스트` 대화상자 → `글자 간격 조정` (Windows) (우리말)]()
+[![90-04-01-36-a11-dialog_text_tool(windows)(ko)-focus-adjust_letter_spacing](https://github.com/wonder13662/gimp/assets/15767104/d5af7634-9cbb-49f1-ac4b-e34877f86180)]()
+
+#### [영상 90.4.1.36.a122. `텍스트` 대화상자 → `글자 간격 조정`으로 텍스트 전체 글자 간격 조정하기]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1d998055-5dd7-442c-b70d-02f5b67dfa35"></video>
 
 ### 2-6. 선택한 텍스트의 색 바꾸기
 
