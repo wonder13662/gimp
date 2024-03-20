@@ -5,9 +5,7 @@
 
 [다른 운영체제와 언어의 '텍스트 컨텍스트 메뉴' 확인하기](./90-04-68-text_context_menu.md)
 
-You get this menu by right-clicking on text. It is somewhat different from that of the Text Editor dialog.
-
-`텍스트 컨텍스트 메뉴`는 텍스트 위에서 오른쪽 클릭을 하면 열 수 있습니다. 
+`텍스트 컨텍스트 메뉴`는 텍스트 위에서 오른쪽 클릭을 하면 열 수 있습니다. [김프 텍스트 편집기]()와는 다릅니다.
 
 ***
 
