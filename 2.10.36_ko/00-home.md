@@ -398,6 +398,26 @@
 
 [9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-text_toolbox.md)
 
+[9.1.3.1. 선택한 텍스트의 글꼴(Font) 바꾸기](./09-01-03-text_toolboxx-01-font.md)
+
+[9.1.3.2. 선택한 텍스트의 크기(Size) 바꾸기](./09-01-03-text_toolboxx-02-size.md)
+
+[9.1.3.3. 선택한 텍스트의 스타일 지우기](./09-01-03-text_toolboxx-03-clear.md)
+
+[9.1.3.4. 선택한 텍스트의 굵게(Bold)](./09-01-03-text_toolboxx-04-bold.md)
+
+[9.1.3.5. 선택한 텍스트의 이탤릭체(Italic)](./09-01-03-text_toolboxx-05-italic.md)
+
+[9.1.3.6. 선택한 텍스트의 밑줄(Underline)](./09-01-03-text_toolboxx-06-underline.md)
+
+[9.1.3.7. 선택한 텍스트의 취소선(Strikethrough)](./09-01-03-text_toolboxx-07-strikethrough.md)
+
+[9.1.3.8. 선택한 텍스트의 기준선(Baseline) 바꾸기](./09-01-03-text_toolboxx-08-baseline.md)
+
+[9.1.3.9. 선택한 텍스트의 자간(kerning) 바꾸기](./09-01-03-text_toolboxx-09-kerning.md)
+
+[9.1.3.10. 선택한 텍스트의 색 바꾸기](./09-01-03-text_toolboxx-10-color.md)
+
 [9.1.4. 텍스트 컨텍스트 메뉴(Text Context Menu)](./09-01-04-text_context_menu.md)
 
 [9.2. 텍스트(Text)](./09-02-00-text.md)
