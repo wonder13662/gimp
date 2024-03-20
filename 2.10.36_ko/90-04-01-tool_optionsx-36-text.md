@@ -1,6 +1,26 @@
 # 90.4.1.36. 텍스트(Text)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+#### 그림 90.4.1.36.a101. `텍스트` 대화상자 (Windows) (우리말)
+![90-04-01-36-a11-dialog_text_tool(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/0200040b-5d80-41ed-9bc0-70df22797fe2)
+
+#### 그림 90.4.1.36.a102. `텍스트` 대화상자 (Windows) (영어)
+![90-04-01-36-a11-dialog_text_tool(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/93221a12-37c6-4629-b01c-c73b11296709)
+
+#### 그림 90.4.1.36.a103. `텍스트` 대화상자 (Mac) (우리말)
+![90-04-01-36-a11-dialog_text_tool(mac)(ko)(50%)](https://github.com/wonder13662/gimp/assets/15767104/d4a5f578-214f-47eb-b599-9c16978fcb2c)
+
+#### 그림 90.4.1.36.a104. `텍스트` 대화상자 (Mac) (영어)
+![90-04-01-36-a11-dialog_text_tool(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/1c4fca5d-3f8a-4005-80d1-3c92a173a690)
+
+#### 그림 90.4.1.36.a111. `텍스트` 대화상자 → `줄 간격 조정` (Windows) (우리말)
+![90-04-01-36-a11-dialog_text_tool(windows)(ko)-focus-adjust_line_spacing](https://github.com/wonder13662/gimp/assets/15767104/1c56142b-a906-41a6-a023-46645dafe277)
+
+[9.1.3. 텍스트 도구 상자(Text Toolbox) - 그림 90.4.1.36.a111]()
+
+#### 영상 90.4.1.36.a112. `텍스트` 대화상자 → `줄 간격 조정`으로 텍스트 전체 줄 간격 조정하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d6119171-59ab-4fed-97e0-0664b993f945"></video>
+
+[9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.1.36.a112]()
 
 ***
 

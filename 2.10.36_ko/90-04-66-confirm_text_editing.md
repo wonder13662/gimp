@@ -37,7 +37,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.67. 텍스트 도구상자(Text Toolbox)](./90-04-67-text_toolbox.md)
 
 [⬅️ 이전: 90.4.65. 김프 텍스트 편집기(GIMP Text Editor)](./90-04-65-gimp_text_editor.md)
 

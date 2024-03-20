@@ -1154,6 +1154,8 @@
 
 [90.4.66. 텍스트 편집 확인(Confirm Text Editing)](./90-04-66-confirm_text_editing.md)
 
+[90.4.67. 텍스트 도구상자(Text Toolbox)](./90-04-67-text_toolbox.md)
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
