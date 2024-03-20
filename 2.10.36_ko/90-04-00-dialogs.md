@@ -336,6 +336,22 @@
 #### 그림 90.4.64.a101. `새 레이어` 대화상자 (Windows) (우리말)
 ![90-04-64-new_layer(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7e0337c7-1786-4630-822d-47832eaee97a)
 
+### [90.4.65. 김프 텍스트 편집기(GIMP Text Editor)](./90-04-65-gimp_text_editor.md)
+#### 그림 90.4.65.a101. `김프 텍스트 편집기` 대화상자 (Windows) (우리말)
+![90-04-65-a101-dialog_text_editor(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/25862942-c6dc-42ed-ad90-9eb590a47e3e)
+
+### [90.4.66. 텍스트 편집 확인(Confirm Text Editing)](./90-04-66-confirm_text_editing.md)
+#### 그림 90.4.66.a101. `텍스트 편집 확인` 대화상자 (Windows) (우리말)
+![90-04-66-a101-dialog_confirm_text_editing(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/d82593ac-48e6-4939-a096-e4be7ab09f71)
+
+### [90.4.67. 텍스트 도구상자(Text Toolbox)](./90-04-66-confirm_text_editing.md)
+#### 그림 90.4.67.a101. `텍스트 도구상자` 대화상자
+![90-04-67-a101-text_toolbox(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/103ac210-7099-4af7-85b3-e745b9fc7a42)
+
+### [90.4.68. 텍스트 컨텍스트 메뉴(Text Context Menu)](./90-04-68-text_context_menu.md)
+#### 그림 90.4.68.a101. `텍스트 컨텍스트 메뉴` (Windows) (우리말)
+![90-04-68-a101-text_context_menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/30c207a9-7939-4b4c-8635-e9760639d2ee)
+
 ***
 
 ## 공통 기능

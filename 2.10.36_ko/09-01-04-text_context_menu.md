@@ -1,11 +1,13 @@
 # 9.1.4. 텍스트 컨텍스트 메뉴(Text Context Menu)
 
-#### 그림 90.4.68.a101. 텍스트 컨텍스트 메뉴 (Windows) (우리말)
-![90-04-68-a102-text_context_menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/2facb8b4-a660-42da-8b88-fb0fc00b46da)
+#### 그림 90.4.68.a101. `텍스트 컨텍스트 메뉴` (Windows) (우리말)
+![90-04-68-a101-text_context_menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/30c207a9-7939-4b4c-8635-e9760639d2ee)
 
 [다른 운영체제와 언어의 '텍스트 컨텍스트 메뉴' 확인하기](./90-04-68-text_context_menu.md)
 
 You get this menu by right-clicking on text. It is somewhat different from that of the Text Editor dialog.
+
+`텍스트 컨텍스트 메뉴`는 텍스트 위에서 오른쪽 클릭을 하면 열 수 있습니다. 
 
 ***
 
