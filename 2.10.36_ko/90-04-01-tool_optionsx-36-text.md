@@ -15,12 +15,12 @@
 #### 그림 90.4.1.36.a111. `텍스트` 대화상자 → `줄 간격 조정` (Windows) (우리말)
 ![90-04-01-36-a11-dialog_text_tool(windows)(ko)-focus-adjust_line_spacing](https://github.com/wonder13662/gimp/assets/15767104/1c56142b-a906-41a6-a023-46645dafe277)
 
-[9.1.3. 텍스트 도구 상자(Text Toolbox) - 그림 90.4.1.36.a111]()
+[9.1.3. 텍스트 도구 상자(Text Toolbox) - 그림 90.4.1.36.a111](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-03-text_toolbox.html#%EA%B7%B8%EB%A6%BC-904136a111-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EC%A4%84-%EA%B0%84%EA%B2%A9-%EC%A1%B0%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 영상 90.4.1.36.a112. `텍스트` 대화상자 → `줄 간격 조정`으로 텍스트 전체 줄 간격 조정하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d6119171-59ab-4fed-97e0-0664b993f945"></video>
 
-[9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.1.36.a112]()
+[9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.1.36.a112](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-03-text_toolbox.html#%EC%98%81%EC%83%81-904136a112-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EC%A4%84-%EA%B0%84%EA%B2%A9-%EC%A1%B0%EC%A0%95%EC%9C%BC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%84%EC%B2%B4-%EC%A4%84-%EA%B0%84%EA%B2%A9-%EC%A1%B0%EC%A0%95%ED%95%98%EA%B8%B0)
 
 ***
 
