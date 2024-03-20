@@ -28,16 +28,16 @@
 
 ### 2-3. 선택한 텍스트의 굵게(Bold), 이탤릭체(Italic), 밑줄(Underline), 취소선(Strikethrough)
 
-#### [영상 90.4.67.a130-1. `텍스트 도구상자` 대화상자 - 굵게(Bold)]()
+#### [그림 90.4.67.a130-1. `텍스트 도구상자` 대화상자 - 굵게(Bold)]()
 [![90-04-67-a101-text_toolbox(windows)(ko)-focus-bold](https://github.com/wonder13662/gimp/assets/15767104/0c7d629b-d654-48f2-b656-79ea12eab282)]()
 
-#### [영상 90.4.67.a130-2. `텍스트 도구상자` 대화상자 - 이탤릭체(Italic)]()
+#### [그림 90.4.67.a130-2. `텍스트 도구상자` 대화상자 - 이탤릭체(Italic)]()
 [![90-04-67-a101-text_toolbox(windows)(ko)-focus-italic](https://github.com/wonder13662/gimp/assets/15767104/97f10064-9859-46ac-8eca-1d3b2a10e07e)]()
 
-#### [영상 90.4.67.a130-3. `텍스트 도구상자` 대화상자 - 밑줄(Underline)]()
+#### [그림 90.4.67.a130-3. `텍스트 도구상자` 대화상자 - 밑줄(Underline)]()
 [![90-04-67-a101-text_toolbox(windows)(ko)-focus-underline](https://github.com/wonder13662/gimp/assets/15767104/dbfb9275-5f4e-40f9-87d1-bbd7cafa85f6)]()
 
-#### [영상 90.4.67.a130-4. `텍스트 도구상자` 대화상자 - 취소선(Strikethrough)]()
+#### [그림 90.4.67.a130-4. `텍스트 도구상자` 대화상자 - 취소선(Strikethrough)]()
 [![90-04-67-a101-text_toolbox(windows)(ko)-focus-strikethrough](https://github.com/wonder13662/gimp/assets/15767104/371ebf8f-2ed4-46f2-81ce-7ceb32c60cf6)]()
 
 #### [영상 90.4.67.a131. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 굵게(Bold), 이탤릭체(Italic), 밑줄(Underline), 취소선(Strikethrough)]()

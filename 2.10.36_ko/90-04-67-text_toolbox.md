@@ -18,37 +18,39 @@
 #### 그림 90.4.67.a110. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 글꼴(Font)
 ![90-04-67-a101-text_toolbox(windows)(ko)-focus-font](https://github.com/wonder13662/gimp/assets/15767104/354a0640-2ce6-4092-91c8-191d6728ee3e)
 
-[9.1.3. 텍스트 도구 상자(Text Toolbox) - 그림 90.4.67.a110]()
+[9.1.3. 텍스트 도구 상자(Text Toolbox) - 그림 90.4.67.a110](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-03-text_toolbox.html#%EA%B7%B8%EB%A6%BC-90467a110-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EA%B8%80%EA%BC%B4font)
 
 #### 영상 90.4.67.a111. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 글꼴(Font) 바꾸기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/32d125bd-d541-46d2-a140-b2a1711f16e4"></video>
 
-[9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.67.a111]()
+[9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.67.a111](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-03-text_toolbox.html#%EC%98%81%EC%83%81-90467a111-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EA%B8%80%EA%BC%B4font-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
 #### 그림 90.4.67.a120. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 크기(Size)
 ![90-04-67-a101-text_toolbox(windows)(ko)-focus-size](https://github.com/wonder13662/gimp/assets/15767104/88686255-b6d9-47da-93f0-6fe3ec9ab357)
 
+[9.1.3. 텍스트 도구 상자(Text Toolbox) - 그림 90.4.67.a120](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-03-text_toolbox.html#%EA%B7%B8%EB%A6%BC-90467a120-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%ED%81%AC%EA%B8%B0size)
+
 #### 영상 90.4.67.a121. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 크기(Size) 바꾸기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/17499dcb-a1de-4f09-919a-02239715a286"></video>
 
-[9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.67.a121]()
+[9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.67.a121](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-03-text_toolbox.html#%EC%98%81%EC%83%81-90467a121-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%ED%81%AC%EA%B8%B0size-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
-#### 영상 90.4.67.a130-1. `텍스트 도구상자` 대화상자 - 굵게(Bold)
+#### 그림 90.4.67.a130-1. `텍스트 도구상자` 대화상자 - 굵게(Bold)
 ![90-04-67-a101-text_toolbox(windows)(ko)-focus-bold](https://github.com/wonder13662/gimp/assets/15767104/0c7d629b-d654-48f2-b656-79ea12eab282)
 
 [9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.67.a130-1]()
 
-#### 영상 90.4.67.a130-2. `텍스트 도구상자` 대화상자 - 이탤릭체(Italic)
+#### 그림 90.4.67.a130-2. `텍스트 도구상자` 대화상자 - 이탤릭체(Italic)
 ![90-04-67-a101-text_toolbox(windows)(ko)-focus-italic](https://github.com/wonder13662/gimp/assets/15767104/97f10064-9859-46ac-8eca-1d3b2a10e07e)
 
 [9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.67.a130-2]()
 
-#### 영상 90.4.67.a130-3. `텍스트 도구상자` 대화상자 - 밑줄(Underline)
+#### 그림 90.4.67.a130-3. `텍스트 도구상자` 대화상자 - 밑줄(Underline)
 ![90-04-67-a101-text_toolbox(windows)(ko)-focus-underline](https://github.com/wonder13662/gimp/assets/15767104/dbfb9275-5f4e-40f9-87d1-bbd7cafa85f6)
 
 [9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.67.a130-3]()
 
-#### 영상 90.4.67.a130-4. `텍스트 도구상자` 대화상자 - 취소선(Strikethrough)
+#### 그림 90.4.67.a130-4. `텍스트 도구상자` 대화상자 - 취소선(Strikethrough)
 ![90-04-67-a101-text_toolbox(windows)(ko)-focus-strikethrough](https://github.com/wonder13662/gimp/assets/15767104/371ebf8f-2ed4-46f2-81ce-7ceb32c60cf6)
 
 [9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.67.a130-4]()
