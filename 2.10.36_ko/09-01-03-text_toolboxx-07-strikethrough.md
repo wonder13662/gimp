@@ -1,4 +1,5 @@
 # 9.1.3.7. 선택한 텍스트의 취소선(Strikethrough)
+`텍스트 도구상자` 대화상자의 `취소선(Strikethrough)` 버튼을 클릭하면 선택한 텍스트 가운데에 취소선을 추가할 수 있습니다. 아래 영상에서 전체 과정을 확인할 수 있습니다.
 
 #### [그림 90.4.67.a130-4. `텍스트 도구상자` 대화상자 - 취소선(Strikethrough)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EA%B7%B8%EB%A6%BC-90467a130-4-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%B7%A8%EC%86%8C%EC%84%A0strikethrough)
 [![90-04-67-a101-text_toolbox(windows)(ko)-focus-strikethrough](https://github.com/wonder13662/gimp/assets/15767104/371ebf8f-2ed4-46f2-81ce-7ceb32c60cf6)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EA%B7%B8%EB%A6%BC-90467a130-4-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%B7%A8%EC%86%8C%EC%84%A0strikethrough)

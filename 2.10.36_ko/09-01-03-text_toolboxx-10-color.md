@@ -1,4 +1,5 @@
 # 9.1.3.10. 선택한 텍스트의 색 바꾸기
+`텍스트 도구상자` 대화상자의 `선택한 텍스트의 색` 버튼을 클릭하면 색 대화상자가 열립니다. 여기서 텍스트의 색을 선택할 수 있습니다.
 
 #### [그림 90.4.67.a160. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 색](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EA%B7%B8%EB%A6%BC-90467a160-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%83%89)
 [![90-04-67-a101-text_toolbox(windows)(ko)-focus-color](https://github.com/wonder13662/gimp/assets/15767104/18fc42b2-faea-47a9-8911-326439ddec72)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EA%B7%B8%EB%A6%BC-90467a160-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%83%89)
