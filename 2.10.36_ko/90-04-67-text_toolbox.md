@@ -70,6 +70,11 @@
 
 [9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.67.a141](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-03-text_toolbox.html#%EC%98%81%EC%83%81-90467a141-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EA%B8%B0%EC%A4%80%EC%84%A0baseline-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
+#### 영상 90.4.67.a142. 단축키 Alt(⌥) + 방향키 오른쪽, 왼쪽으로 선택한 텍스트의 기준선(Baseline) 바꾸기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0b6995a4-3211-45d1-9b42-b9e79179a476"></video>
+
+[9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.67.a142]()
+
 #### 그림 90.4.67.a150. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 자간(Kerning)
 ![90-04-67-a101-text_toolbox(windows)(ko)-focus-kerning](https://github.com/wonder13662/gimp/assets/15767104/2f8116a5-f697-4ab8-977e-42523ccc52b9)
 
@@ -79,6 +84,11 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3d63d236-c76e-4a6f-a70f-fd6983107898"></video>
 
 [9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.67.a151](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-03-text_toolbox.html#%EC%98%81%EC%83%81-90467a151-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%9E%90%EA%B0%84kerning-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+
+#### 영상 90.4.67.a152. 단축키 Alt(⌥) + 방향키 윗쪽, 아래쪽으로 선택한 텍스트의 자간(Kerning) 바꾸기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/55b274c9-608e-4855-acf6-9ce253f9725f"></video>
+
+[9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.67.a152]()
 
 #### 그림 90.4.67.a160. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 색
 ![90-04-67-a101-text_toolbox(windows)(ko)-focus-color](https://github.com/wonder13662/gimp/assets/15767104/18fc42b2-faea-47a9-8911-326439ddec72)

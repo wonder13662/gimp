@@ -66,6 +66,11 @@ HTML에서는 여러 종류의 기준선([alphabetic](https://drafts.csswg.org/c
 #### [영상 90.4.1.36.a112. `텍스트` 대화상자 → `줄 간격 조정`으로 텍스트 전체 줄 간격 조정하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-36-text.html#%EC%98%81%EC%83%81-904136a112-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EC%A4%84-%EA%B0%84%EA%B2%A9-%EC%A1%B0%EC%A0%95%EC%9C%BC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%84%EC%B2%B4-%EC%A4%84-%EA%B0%84%EA%B2%A9-%EC%A1%B0%EC%A0%95%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d6119171-59ab-4fed-97e0-0664b993f945"></video>
 
+단축키 Alt(⌥) + 방향키 오른쪽, 왼쪽을 눌러서 텍스트 상자의 커서가 있는 글자의 자간을 바꿀 수 있습니다. 아래 영상에서 확인해보세요.
+
+#### [영상 90.4.67.a142. 단축키 Alt(⌥) + 방향키 오른쪽, 왼쪽으로 선택한 텍스트의 기준선(Baseline) 바꾸기]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0b6995a4-3211-45d1-9b42-b9e79179a476"></video>
+
 ### 2-5. 선택한 텍스트의 자간(kerning) 바꾸기
 자간(Kerning)의 정의는 위키피디아에 따르면 다음과 같습니다.
 
@@ -89,6 +94,11 @@ HTML에서는 여러 종류의 기준선([alphabetic](https://drafts.csswg.org/c
 
 #### [영상 90.4.1.36.a122. `텍스트` 대화상자 → `글자 간격 조정`으로 텍스트 전체 글자 간격 조정하기]()
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1d998055-5dd7-442c-b70d-02f5b67dfa35"></video>
+
+단축키 Alt(⌥) + 방향키 윗쪽, 아래쪽을 눌러서 텍스트 상자의 커서가 있는 글자의 자간을 바꿀 수 있습니다. 아래 영상에서 확인해보세요.
+
+#### [영상 90.4.67.a152. 단축키 Alt(⌥) + 방향키 윗쪽, 아래쪽으로 선택한 텍스트의 자간(Kerning) 바꾸기]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/55b274c9-608e-4855-acf6-9ce253f9725f"></video>
 
 ### 2-6. 선택한 텍스트의 색 바꾸기
 
