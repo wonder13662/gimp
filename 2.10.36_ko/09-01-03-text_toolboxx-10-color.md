@@ -1,0 +1,25 @@
+# 9.1.3.10. 선택한 텍스트의 색 바꾸기
+
+#### [그림 90.4.67.a160. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 색](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EA%B7%B8%EB%A6%BC-90467a160-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%83%89)
+[![90-04-67-a101-text_toolbox(windows)(ko)-focus-color](https://github.com/wonder13662/gimp/assets/15767104/18fc42b2-faea-47a9-8911-326439ddec72)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EA%B7%B8%EB%A6%BC-90467a160-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%83%89)
+
+#### [영상 90.4.67.a161. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 색 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EC%98%81%EC%83%81-90467a161-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%83%89-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/86bdee65-dd49-4b62-ba9e-38cb07edff0a"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 9.1.4. 텍스트 컨텍스트 메뉴(Text Context Menu)](./09-01-04-text_context_menu.md)
+
+[⬅️ 이전: 9.1.3.9. 선택한 텍스트의 자간(kerning) 바꾸기](./09-01-03-text_toolboxx-09-kerning.md)
+
+[⬆️ 위: 9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-text_toolbox.md)
+
+[⬆️ 위: 9.1. 텍스트 관리(Text management)](./09-01-text-management.md)
+
+[⬆️ 위: 9. 텍스트 관리(Text management)](./09-00-text-management.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-image-text-management.html#gimp-text-toolbox)

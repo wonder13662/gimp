@@ -1,0 +1,26 @@
+# 9.1.3.1. 선택한 텍스트의 글꼴(Font) 바꾸기
+설정된 글꼴 이름을 고치면, 글꼴 드롭다운 목록이 나타납니다. 여기서 글꼴을 선택할 수 있습니다.
+
+#### [그림 90.4.67.a110. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 글꼴(Font)]()
+[![90-04-67-a101-text_toolbox(windows)(ko)-focus-font](https://github.com/wonder13662/gimp/assets/15767104/354a0640-2ce6-4092-91c8-191d6728ee3e)]()
+
+#### [영상 90.4.67.a111. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 글꼴(Font) 바꾸기]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/32d125bd-d541-46d2-a140-b2a1711f16e4"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 9.1.3.2. 선택한 텍스트의 크기(Size) 바꾸기](./09-01-03-text_toolboxx-02-size.md)
+
+[⬅️ 이전: 9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-text_toolbox.md)
+
+[⬆️ 위: 9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-text_toolbox.md)
+
+[⬆️ 위: 9.1. 텍스트 관리(Text management)](./09-01-text-management.md)
+
+[⬆️ 위: 9. 텍스트 관리(Text management)](./09-00-text-management.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-image-text-management.html#gimp-text-toolbox)

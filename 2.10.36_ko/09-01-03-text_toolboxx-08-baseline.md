@@ -1,0 +1,51 @@
+# 9.1.3.8. 선택한 텍스트의 기준선(Baseline) 바꾸기
+
+#### [그림 90.4.67.a140. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 기준선(Baseline)]()
+[![90-04-67-a101-text_toolbox(windows)(ko)-focus-baseline](https://github.com/wonder13662/gimp/assets/15767104/a0f2aed8-4699-45bd-a253-53f9a0f3b045)]()
+
+#### [영상 90.4.67.a141. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 기준선(Baseline) 바꾸기]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c03a1213-2852-4d5d-b0e8-58d205db970c"></video>
+
+#### [그림 19.용어집.기준선(Baseline).a11](./19-glossaryx-baseline.md)
+![19-glossary-baseline-a11-Typography_Line_Terms svg(w480)](https://github.com/wonder13662/gimp/assets/15767104/1ba2c8c1-a3dd-4412-8ee0-0ff2b712ac4a)
+
+[Wikipedia - Baseline (typography)](https://en.wikipedia.org/wiki/Baseline_(typography))에 따르면 [기준선](./19-glossaryx-baseline.md)의 정의는 다음과 같습니다.
+
+> "유럽 타이포그라피와 서체(penmanship)에서 기준선(baseline)은 대부분의 글자가 앉아있는 선입니다. 기준선 아래로 디센더(descender - 기준선 아래로 뻗은 부분을 가리키는 말. p, q, j, y 등)를 가지고 있습니다."
+
+HTML에서는 여러 종류의 기준선([alphabetic](https://drafts.csswg.org/css-inline/#alphabetic-baseline), [ideographic](https://drafts.csswg.org/css-inline/#ideographic-under-baseline), bottom...)들이 있습니다. 여기서의 기준선은 "bottom"이며, 디센더를 위한 공간을 결정합니다. 기준선의 기본값인 "0"은 디센더의 높이만큼의 공간입니다. 기준선을 사용하면 선택한 텍스트와 그 아래의 텍스트, 두 개의 줄의 간격에 대해서만 제어합니다. 모든 줄에 대한 간격을 늘리기 위해서는 도구 옵션인 "줄 간격 조정(Adjust line spacing)"을 사용해야 합니다.
+
+#### [그림 90.4.1.36.a111. `텍스트` 대화상자 → `줄 간격 조정` (Windows) (우리말)]()
+[![90-04-01-36-a11-dialog_text_tool(windows)(ko)-focus-adjust_line_spacing](https://github.com/wonder13662/gimp/assets/15767104/1c56142b-a906-41a6-a023-46645dafe277)]()
+
+#### [영상 90.4.1.36.a112. `텍스트` 대화상자 → `줄 간격 조정`으로 텍스트 전체 줄 간격 조정하기]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d6119171-59ab-4fed-97e0-0664b993f945"></video>
+
+단축키 Alt(⌥) + 방향키 오른쪽, 왼쪽을 눌러서 텍스트 상자의 커서가 있는 글자의 자간을 바꿀 수 있습니다. 아래 영상에서 확인해보세요.
+
+#### [영상 90.4.67.a142. 단축키 Alt(⌥) + 방향키 오른쪽, 왼쪽으로 선택한 텍스트의 기준선(Baseline) 바꾸기]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0b6995a4-3211-45d1-9b42-b9e79179a476"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 9.1.3.9. 선택한 텍스트의 자간(kerning) 바꾸기](./09-01-03-text_toolboxx-09-kerning.md)
+
+[⬅️ 이전: 9.1.3.7. 선택한 텍스트의 취소선(Strikethrough)](./09-01-03-text_toolboxx-07-strikethrough.md)
+
+[⬆️ 위: 9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-text_toolbox.md)
+
+[⬆️ 위: 9.1. 텍스트 관리(Text management)](./09-01-text-management.md)
+
+[⬆️ 위: 9. 텍스트 관리(Text management)](./09-00-text-management.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-image-text-management.html#gimp-text-toolbox)
+
+***
+
+## 관련 정보
+
+[Gimp-Forum.net: Is It Possible to Adjust the Line Spacing of Individual Lines of Text?](https://www.gimp-forum.net/Thread-Is-It-Possible-to-Adjust-the-Line-Spacing-of-Individual-Lines-of-Text)

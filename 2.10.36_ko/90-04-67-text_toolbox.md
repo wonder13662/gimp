@@ -88,7 +88,7 @@
 #### 영상 90.4.67.a152. 단축키 Alt(⌥) + 방향키 윗쪽, 아래쪽으로 선택한 텍스트의 자간(Kerning) 바꾸기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/55b274c9-608e-4855-acf6-9ce253f9725f"></video>
 
-[9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.67.a152]()
+[9.1.3. 텍스트 도구 상자(Text Toolbox) - 영상 90.4.67.a152](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-03-text_toolbox.html#%EC%98%81%EC%83%81-90467a152-%EB%8B%A8%EC%B6%95%ED%82%A4-alt--%EB%B0%A9%ED%96%A5%ED%82%A4-%EC%9C%97%EC%AA%BD-%EC%95%84%EB%9E%98%EC%AA%BD%EC%9C%BC%EB%A1%9C-%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%9E%90%EA%B0%84kerning-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
 #### 그림 90.4.67.a160. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 색
 ![90-04-67-a101-text_toolbox(windows)(ko)-focus-color](https://github.com/wonder13662/gimp/assets/15767104/18fc42b2-faea-47a9-8911-326439ddec72)
