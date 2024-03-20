@@ -1,9 +1,9 @@
 # 9.1.3.8. 선택한 텍스트의 기준선(Baseline) 바꾸기
 
-#### [그림 90.4.67.a140. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 기준선(Baseline)]()
-[![90-04-67-a101-text_toolbox(windows)(ko)-focus-baseline](https://github.com/wonder13662/gimp/assets/15767104/a0f2aed8-4699-45bd-a253-53f9a0f3b045)]()
+#### [그림 90.4.67.a140. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 기준선(Baseline)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EA%B7%B8%EB%A6%BC-90467a140-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EA%B8%B0%EC%A4%80%EC%84%A0baseline)
+[![90-04-67-a101-text_toolbox(windows)(ko)-focus-baseline](https://github.com/wonder13662/gimp/assets/15767104/a0f2aed8-4699-45bd-a253-53f9a0f3b045)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EA%B7%B8%EB%A6%BC-90467a140-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EA%B8%B0%EC%A4%80%EC%84%A0baseline)
 
-#### [영상 90.4.67.a141. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 기준선(Baseline) 바꾸기]()
+#### [영상 90.4.67.a141. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 기준선(Baseline) 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EC%98%81%EC%83%81-90467a141-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EA%B8%B0%EC%A4%80%EC%84%A0baseline-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c03a1213-2852-4d5d-b0e8-58d205db970c"></video>
 
 #### [그림 19.용어집.기준선(Baseline).a11](./19-glossaryx-baseline.md)
@@ -15,15 +15,15 @@
 
 HTML에서는 여러 종류의 기준선([alphabetic](https://drafts.csswg.org/css-inline/#alphabetic-baseline), [ideographic](https://drafts.csswg.org/css-inline/#ideographic-under-baseline), bottom...)들이 있습니다. 여기서의 기준선은 "bottom"이며, 디센더를 위한 공간을 결정합니다. 기준선의 기본값인 "0"은 디센더의 높이만큼의 공간입니다. 기준선을 사용하면 선택한 텍스트와 그 아래의 텍스트, 두 개의 줄의 간격에 대해서만 제어합니다. 모든 줄에 대한 간격을 늘리기 위해서는 도구 옵션인 "줄 간격 조정(Adjust line spacing)"을 사용해야 합니다.
 
-#### [그림 90.4.1.36.a111. `텍스트` 대화상자 → `줄 간격 조정` (Windows) (우리말)]()
-[![90-04-01-36-a11-dialog_text_tool(windows)(ko)-focus-adjust_line_spacing](https://github.com/wonder13662/gimp/assets/15767104/1c56142b-a906-41a6-a023-46645dafe277)]()
+#### [그림 90.4.1.36.a111. `텍스트` 대화상자 → `줄 간격 조정` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-36-text.html#%EA%B7%B8%EB%A6%BC-904136a111-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EC%A4%84-%EA%B0%84%EA%B2%A9-%EC%A1%B0%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-01-36-a11-dialog_text_tool(windows)(ko)-focus-adjust_line_spacing](https://github.com/wonder13662/gimp/assets/15767104/1c56142b-a906-41a6-a023-46645dafe277)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-36-text.html#%EA%B7%B8%EB%A6%BC-904136a111-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EC%A4%84-%EA%B0%84%EA%B2%A9-%EC%A1%B0%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-#### [영상 90.4.1.36.a112. `텍스트` 대화상자 → `줄 간격 조정`으로 텍스트 전체 줄 간격 조정하기]()
+#### [영상 90.4.1.36.a112. `텍스트` 대화상자 → `줄 간격 조정`으로 텍스트 전체 줄 간격 조정하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-36-text.html#%EC%98%81%EC%83%81-904136a112-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EC%A4%84-%EA%B0%84%EA%B2%A9-%EC%A1%B0%EC%A0%95%EC%9C%BC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%84%EC%B2%B4-%EC%A4%84-%EA%B0%84%EA%B2%A9-%EC%A1%B0%EC%A0%95%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d6119171-59ab-4fed-97e0-0664b993f945"></video>
 
 단축키 Alt(⌥) + 방향키 오른쪽, 왼쪽을 눌러서 텍스트 상자의 커서가 있는 글자의 자간을 바꿀 수 있습니다. 아래 영상에서 확인해보세요.
 
-#### [영상 90.4.67.a142. 단축키 Alt(⌥) + 방향키 오른쪽, 왼쪽으로 선택한 텍스트의 기준선(Baseline) 바꾸기]()
+#### [영상 90.4.67.a142. 단축키 Alt(⌥) + 방향키 오른쪽, 왼쪽으로 선택한 텍스트의 기준선(Baseline) 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EC%98%81%EC%83%81-90467a142-%EB%8B%A8%EC%B6%95%ED%82%A4-alt--%EB%B0%A9%ED%96%A5%ED%82%A4-%EC%98%A4%EB%A5%B8%EC%AA%BD-%EC%99%BC%EC%AA%BD%EC%9C%BC%EB%A1%9C-%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EA%B8%B0%EC%A4%80%EC%84%A0baseline-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0b6995a4-3211-45d1-9b42-b9e79179a476"></video>
 
 ***
