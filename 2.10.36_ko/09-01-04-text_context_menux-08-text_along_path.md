@@ -1,13 +1,23 @@
 # 9.1.4.8. 경로따라 텍스트(Text along Path)
+텍스트를 경로에 맞춰 그릴 수 있습니다. 아래 방법들을 확인해보세요.
+
+## 1. `텍스트 컨텍스트 메뉴` → `경로따라 텍스트`
+경로가 있어야만 `텍스트 컨텍스트 메뉴` → `경로따라 텍스트` 메뉴가 활성화됩니다. 만약 2개 이상의 경로가 [경로 대화상자](./15-02-03-paths-dialog.md)에 있다면, 활성화된 경로를 사용하게 됩니다. `텍스트 컨텍스트 메뉴` → `경로따라 텍스트` 메뉴를 클릭합니다. 텍스트는 경로를 따라 배치됩니다. 텍스트는 외곽선을 따라 경로로 바뀝니다. 이 외곽선 경로는 [경로 대화상자](./15-02-03-paths-dialog.md)에 등록됩니다. 아래 영상에서 동작 과정을 확인해보세요.
 
 #### [그림 90.4.68.a271. `텍스트 컨텍스트 메뉴` → `경로따라 텍스트` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EA%B7%B8%EB%A6%BC-90468a271-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EA%B2%BD%EB%A1%9C%EB%94%B0%EB%9D%BC-%ED%85%8D%EC%8A%A4%ED%8A%B8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-68-a271-text_context_menu(windows)(ko)-focus-text_along_path](https://github.com/wonder13662/gimp/assets/15767104/ecfea23f-4f0b-4a50-b386-be03f2a313bc)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EA%B7%B8%EB%A6%BC-90468a271-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EA%B2%BD%EB%A1%9C%EB%94%B0%EB%9D%BC-%ED%85%8D%EC%8A%A4%ED%8A%B8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-This option is enabled only if a path exists. When your text is created, then create or import a path and make it active. If you create your path before the text, the path becomes invisible and you have to make it visible in the Path Dialog.
+#### [영상 90.4.68.a272. `텍스트 컨텍스트 메뉴` → `경로따라 텍스트` (Windows) (우리말)]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a9461d21-1561-4a01-b23d-78813edab053"></video>
 
-This command is also available from the "Layer" menu.
+## 2. 이미지 메뉴 바의 `레이어` → `경로따라 텍스트`
+이 기능은 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `레이어` → `경로따라 텍스트`을 클릭하면 동일하게 동작합니다. 아래 영상에서 동작 과정을 확인해보세요.
 
-Click on the Text along Path button. The text is bent along the path. Letters are represented with their outline. Each of them is a component of the new path that appears in the Path dialog. All path options should apply to this new path.
+#### [그림 90.1.6.17.a1. `레이어` → `경로따라 텍스트` (텍스트 레이어가 활성화된 경우)]()
+[![90-01-06-layer-activated_text_layer(1080w)-focus-text_along_path](https://github.com/wonder13662/gimp/assets/15767104/b1984799-39f9-442e-9be0-8dadbe878a7e)]()
+
+#### [영상 90.1.6.17.a2. `레이어` → `경로따라 텍스트` (텍스트 레이어가 활성화된 경우)]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d0a59058-784d-4cf9-abd7-b2284e699b7b"></video>
 
 ***
 

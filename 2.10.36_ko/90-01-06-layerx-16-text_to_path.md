@@ -14,7 +14,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.7. 색(Colors)](./90-01-07-colors.md)
+[➡️ 다음: 90.1.6.17. 경로따라 텍스트(Text to Path)](./90-01-06-layerx-17-text_along_path.md)
 
 [⬅️ 이전: 90.1.6.15. 콘텐츠에 맞춰 잘라내기(Crop to Content)](./90-01-06-layerx-15-crop_to_content.md)
 

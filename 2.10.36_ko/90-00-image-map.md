@@ -365,6 +365,8 @@
 
 [90.1.6.16. 텍스트를 경로로(Text to Path)](./90-01-06-layerx-16-text_to_path.md)
 
+[90.1.6.17. 경로따라 텍스트(Text to Path)](./90-01-06-layerx-17-text_along_path.md)
+
 [90.1.7. 색(Colors)](./90-01-07-colors.md)
 
 [90.1.7.1. 색상 균형(Color Balance)](./90-01-07-colorsx-01-color_balance.md)

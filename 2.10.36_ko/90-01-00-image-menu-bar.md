@@ -364,6 +364,8 @@
 
 [90.1.6.16. 텍스트를 경로로(Text to Path)](./90-01-06-layerx-16-text_to_path.md)
 
+[90.1.6.17. 경로따라 텍스트(Text to Path)](./90-01-06-layerx-17-text_along_path.md)
+
 ## [90.1.7. 색(Colors)](./90-01-07-colors.md)
 [<img width="1080" alt="90.1.7. 색(Colors)" src="https://github.com/wonder13662/gimp/assets/15767104/42cde5a6-9f41-4765-8cb6-21b7acb1631c">](./90-01-07-colors.md)
 
