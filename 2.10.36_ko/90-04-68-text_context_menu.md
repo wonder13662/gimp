@@ -44,6 +44,8 @@
 
 [9.1.4.2. 복사(Copy) - 영상 90.4.68.a212](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-02-copy.html#%EC%98%81%EC%83%81-90468a212-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EB%B3%B5%EC%82%AC--%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+[9.1.4.3. 붙여넣기(Paste) - 영상 90.4.68.a212](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-03-paste.html#%EC%98%81%EC%83%81-90468a212-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EB%B3%B5%EC%82%AC--%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
 #### 그림 90.4.68.a221. `텍스트 컨텍스트 메뉴` → `붙여넣기` (Windows) (우리말)
 ![90-04-68-a221-text_context_menu(windows)(ko)-focus-paste](https://github.com/wonder13662/gimp/assets/15767104/fcd95294-eb1c-40a2-bfef-e709e634c27c)
 
