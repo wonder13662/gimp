@@ -24,8 +24,11 @@
 ## 3. 레이어 대화상자 안의 텍스트 레이어 컨텍스트 메뉴의 `텍스트에서 경로(Path from Text)`
 텍스트 레이어 컨텍스트 메뉴의 `텍스트에서 경로(Path from Text)`를 클릭해서 같은 작업을 할 수 있습니다.
 
-(TODO 레이어 대화상자의 컨텍스트 메뉴 이미지 필요)
-(TODO 시연 동영상 필요)
+#### 그림 90.4.3.1.28.a101. `컨텍스트 메뉴` → `텍스트를 경로로`
+![90-04-03-layersx-01-context_menu-activated_text_layer-focus-text_to_path](https://github.com/wonder13662/gimp/assets/15767104/0291f72b-3c48-4495-b42f-1fddbcab05a3)
+
+#### 영상 90.4.3.1.28.a102. `컨텍스트 메뉴` → `텍스트를 경로로`
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/65212867-b4f2-4860-a414-eaf95c1423c9"></video>
 
 ***
 
