@@ -4,7 +4,7 @@
 #### [그림 90.4.68.a251. `텍스트 컨텍스트 메뉴` → `지우기` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EA%B7%B8%EB%A6%BC-90468a251-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%A7%80%EC%9A%B0%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-68-a251-text_context_menu(windows)(ko)-focus-clear](https://github.com/wonder13662/gimp/assets/15767104/68c53bc0-0a4f-4ac6-b474-7d6d547ca2c6)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EA%B7%B8%EB%A6%BC-90468a251-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%A7%80%EC%9A%B0%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-#### [영상 90.4.68.a252. `텍스트 컨텍스트 메뉴` → `지우기` (Windows) (우리말)]()
+#### [영상 90.4.68.a252. `텍스트 컨텍스트 메뉴` → `지우기` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EC%98%81%EC%83%81-90468a252-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%A7%80%EC%9A%B0%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6bff6da2-c779-4301-84cc-c2215aa3b5c1"></video>
 
 ***
