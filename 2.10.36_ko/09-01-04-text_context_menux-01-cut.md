@@ -1,9 +1,11 @@
 # 9.1.4.1. 잘라내기(Cut)
+텍스트를 선택한 뒤에 `텍스트 컨텍스트 메뉴` → `잘라내기`를 클릭하면, 텍스트에 선택한 부분이 사라지고, 선택한 텍스트 내용이 클립보드에 저장됩니다. 클립보드에 저장된 내용은 `텍스트 컨텍스트 메뉴` → `붙여넣기`로 텍스트 박스 안에 추가할 수 있습니다. 아래 영상에서 전체 과정을 확인해보세요.
 
 #### [그림 90.4.68.a201. `텍스트 컨텍스트 메뉴` → `잘라내기` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EA%B7%B8%EB%A6%BC-90468a201-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-68-a201-text_context_menu(windows)(ko)-focus-cut](https://github.com/wonder13662/gimp/assets/15767104/307e50c4-9fe3-4e95-a6e1-00c55c3c9c29)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EA%B7%B8%EB%A6%BC-90468a201-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-- Cut, Copy, Paste, Delete: these options concern a selected text. They remain grayed out as long as no text is selected. "Paste" is activated if the clipboard is full of text.
+#### 영상 90.4.68.a202. `텍스트 컨텍스트 메뉴` → `잘라내기` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/88cc564a-2d5e-4cee-a038-bb07ff23fecf"></video>
 
 ***
 
