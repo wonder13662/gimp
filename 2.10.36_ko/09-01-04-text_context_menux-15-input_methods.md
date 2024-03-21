@@ -1,4 +1,7 @@
-# 9.1.4.15. 입력기(Input Method)
+# 9.1.4.15. 입력기(Input Methods)
+
+#### 그림 90.4.68.a341. `텍스트 컨텍스트 메뉴` → `입력기` (Windows) (우리말)
+![90-04-68-a341-text_context_menu(windows)(ko)-focus-input_methods](https://github.com/wonder13662/gimp/assets/15767104/e40644d1-2a4e-4ac7-970b-3acf20c0818a)
 
 - Input Methods: methods are available for some languages. For example, selecting "Inuktitut" transforms your keyboard into an Inuktitut keyboard, temporarily.
 

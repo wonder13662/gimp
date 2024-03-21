@@ -448,7 +448,7 @@
 
 [9.1.4.14. 수직으로 왼쪽에서 오른쪽(수직 방향) - Vertical, left to right (upright orientation)](./09-01-04-text_context_menux-14-vertical_left_to_right_upright_orientation.md)
 
-[9.1.4.15. 입력기(Input Method)](./09-01-04-text_context_menux-15-input_methods.md)
+[9.1.4.15. 입력기(Input Methods)](./09-01-04-text_context_menux-15-input_methods.md)
 
 [9.2. 텍스트(Text)](./09-02-00-text.md)
 

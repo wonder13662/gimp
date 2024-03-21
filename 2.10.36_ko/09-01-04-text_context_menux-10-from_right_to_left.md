@@ -1,4 +1,8 @@
 # 9.1.4.10 오른쪽에서 왼쪽으로(From Right to Left)
+
+#### 그림 90.4.68.a291. `텍스트 컨텍스트 메뉴` → `오른쪽에서 왼쪽으로` (Windows) (우리말)
+![90-04-68-a291-text_context_menu(windows)(ko)-focus-from_right_to_left](https://github.com/wonder13662/gimp/assets/15767104/25505d30-c399-49ee-bbc6-3472a5724b18)
+
 fix the writing direction of your language.
 
 ***

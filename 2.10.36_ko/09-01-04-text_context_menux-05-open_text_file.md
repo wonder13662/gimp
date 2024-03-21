@@ -1,5 +1,8 @@
 # 9.1.4.5. 텍스트 파일 열기(Open text file)
 
+#### 그림 90.4.68.a241. `텍스트 컨텍스트 메뉴` → `텍스트 파일 열기...` (Windows) (우리말)
+![90-04-68-a241-text_context_menu(windows)(ko)-focus-open_text_file](https://github.com/wonder13662/gimp/assets/15767104/45129cb3-199c-42bd-a9c7-193345490d62)
+
 - Open text file: this command opens a file browser where you can find the wanted text file.
 
 ***

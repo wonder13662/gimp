@@ -1,4 +1,8 @@
 # 9.1.4.11. 수직으로 오른쪽에서 왼쪽(혼합 방향) - Vertical, right to left(mixed orientation)
+
+#### 그림 90.4.68.a301. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (Windows) (우리말)
+![90-04-68-a301-text_context_menu(windows)(ko)-focus-vertical_right_to_left_mixed_orientation](https://github.com/wonder13662/gimp/assets/15767104/8148ae54-3092-480c-8a14-9fb88136a26f)
+
 fix the writing direction of your language.
 
 ***

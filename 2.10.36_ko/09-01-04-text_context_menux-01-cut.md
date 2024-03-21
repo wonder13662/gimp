@@ -1,5 +1,8 @@
 # 9.1.4.1. 잘라내기(Cut)
 
+#### 그림 90.4.68.a201. `텍스트 컨텍스트 메뉴` → `잘라내기` (Windows) (우리말)
+![90-04-68-a201-text_context_menu(windows)(ko)-focus-cut](https://github.com/wonder13662/gimp/assets/15767104/307e50c4-9fe3-4e95-a6e1-00c55c3c9c29)
+
 - Cut, Copy, Paste, Delete: these options concern a selected text. They remain grayed out as long as no text is selected. "Paste" is activated if the clipboard is full of text.
 
 ***

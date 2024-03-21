@@ -1,4 +1,8 @@
 # 9.1.4.8. 경로따라 텍스트(Text along Path)
+
+#### 그림 90.4.68.a271. `텍스트 컨텍스트 메뉴` → `경로따라 텍스트` (Windows) (우리말)
+![90-04-68-a271-text_context_menu(windows)(ko)-focus-text_along_path](https://github.com/wonder13662/gimp/assets/15767104/ecfea23f-4f0b-4a50-b386-be03f2a313bc)
+
 This option is enabled only if a path exists. When your text is created, then create or import a path and make it active. If you create your path before the text, the path becomes invisible and you have to make it visible in the Path Dialog.
 
 This command is also available from the "Layer" menu.

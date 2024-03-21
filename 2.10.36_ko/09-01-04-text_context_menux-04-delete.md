@@ -1,5 +1,8 @@
 # 9.1.4.4. 삭제(Delete)
 
+#### 그림 90.4.68.a231. `텍스트 컨텍스트 메뉴` → `삭제` (Windows) (우리말)
+![90-04-68-a231-text_context_menu(windows)(ko)-focus-delete](https://github.com/wonder13662/gimp/assets/15767104/9344f6f8-cd2b-4c46-a143-9edaa40cfe74)
+
 - Cut, Copy, Paste, Delete: these options concern a selected text. They remain grayed out as long as no text is selected. "Paste" is activated if the clipboard is full of text.
 
 ***

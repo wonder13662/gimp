@@ -3,9 +3,9 @@
 #### 그림 90.4.68.a101. `텍스트 컨텍스트 메뉴` (Windows) (우리말)
 ![90-04-68-a101-text_context_menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/30c207a9-7939-4b4c-8635-e9760639d2ee)
 
-[다른 운영체제와 언어의 '텍스트 컨텍스트 메뉴' 확인하기](./90-04-68-text_context_menu.md)
+[다른 운영체제와 언어의 '텍스트 컨텍스트 메뉴' 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EA%B7%B8%EB%A6%BC-90468a102-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4-windows-%EC%98%81%EC%96%B4)
 
-`텍스트 컨텍스트 메뉴`는 텍스트 위에서 오른쪽 클릭을 하면 열 수 있습니다. [김프 텍스트 편집기]()와는 다릅니다.
+`텍스트 컨텍스트 메뉴`는 텍스트 위에서 오른쪽 클릭을 하면 열 수 있습니다. [김프 텍스트 편집기](./90-04-65-gimp_text_editor.md)와는 다릅니다.
 
 ***
 
@@ -39,7 +39,7 @@
 
 [9.1.4.14. 수직으로 왼쪽에서 오른쪽(수직 방향) - Vertical, left to right (upright orientation)](./09-01-04-text_context_menux-14-vertical_left_to_right_upright_orientation.md)
 
-[9.1.4.15. 입력기(Input Method)](./09-01-04-text_context_menux-15-input_methods.md)
+[9.1.4.15. 입력기(Input Methods)](./09-01-04-text_context_menux-15-input_methods.md)
 
 ***
 

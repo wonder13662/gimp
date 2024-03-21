@@ -1,4 +1,8 @@
 # 9.1.4.12. 수직으로 오른쪽에서 왼쪽(수직 방향) - Vertical, right to left(upright orientation)
+
+#### 그림 90.4.68.a311. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Windows) (우리말)
+![90-04-68-a311-text_context_menu(windows)(ko)-focus-vertical_right_to_left_upright_orientation](https://github.com/wonder13662/gimp/assets/15767104/c0bda1dc-0110-42b9-8a81-eeec90c9a831)
+
 fix the writing direction of your language.
 
 ***
