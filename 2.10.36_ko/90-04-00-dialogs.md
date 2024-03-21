@@ -352,6 +352,10 @@
 #### 그림 90.4.68.a101. `텍스트 컨텍스트 메뉴` (Windows) (우리말)
 ![90-04-68-a101-text_context_menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/30c207a9-7939-4b4c-8635-e9760639d2ee)
 
+### [90.4.69. 텍스트 파일 열기(Open Text File)](./90-04-69-open_text_file.md)
+#### 그림 90.4.69.a101. `텍스트 파일 열기` 대화상자 (Windows) (우리말)
+![90-04-69-a101-open_text_file(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/6b8151ff-4bc0-4051-9765-bb75d969f807)
+
 ***
 
 ## 공통 기능

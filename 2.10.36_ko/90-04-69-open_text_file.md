@@ -3,7 +3,7 @@
 #### 그림 90.4.69.a101. `텍스트 파일 열기` 대화상자 (Windows) (우리말)
 ![90-04-69-a101-open_text_file(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/6b8151ff-4bc0-4051-9765-bb75d969f807)
 
-[9.1.4.5. 텍스트 파일 열기(Open text file) - 그림 90.4.69.a101]()
+[9.1.4.5. 텍스트 파일 열기(Open text file) - 그림 90.4.69.a101](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-05-open_text_file.html#%EA%B7%B8%EB%A6%BC-90469a101-%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%BC-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.69.a102. `텍스트 파일 열기` 대화상자 (Windows) (영어)
 ![90-04-69-a102-open_text_file(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/39dceb85-d31c-4f1d-a27e-722bcb1b588f)

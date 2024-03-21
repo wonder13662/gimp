@@ -11,10 +11,8 @@
 
 [다른 운영체제와 언어의 `텍스트 파일 열기` 대화상자 확인하기]()
 
-#### [영상 90.4.68.a242. `텍스트 컨텍스트 메뉴` → `텍스트 파일 열기...` (Windows) (우리말)]()
+#### [영상 90.4.68.a242. `텍스트 컨텍스트 메뉴` → `텍스트 파일 열기...` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EC%98%81%EC%83%81-90468a242-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%BC-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7d455590-ff7c-4556-bc3d-3f7f8352b4b8"></video>
-
-- Open text file: this command opens a file browser where you can find the wanted text file.
 
 ***
 
