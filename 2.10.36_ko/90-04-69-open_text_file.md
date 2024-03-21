@@ -20,7 +20,7 @@
 
 [➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
-[⬅️ 이전: 90.4.67. 텍스트 도구상자(Text Toolbox)](./90-04-67-text_toolbox.md)
+[⬅️ 이전: 90.4.68. 텍스트 컨텍스트 메뉴(Text Context Menu)](./90-04-68-text_context_menu.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

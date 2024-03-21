@@ -129,7 +129,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.69. 텍스트 파일 열기(Open Text File)](./90-04-69-open_text_file.md)
 
 [⬅️ 이전: 90.4.67. 텍스트 도구상자(Text Toolbox)](./90-04-67-text_toolbox.md)
 
