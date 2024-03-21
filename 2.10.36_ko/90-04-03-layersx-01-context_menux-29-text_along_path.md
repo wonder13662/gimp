@@ -1,5 +1,8 @@
 # 90.4.3.1.29. 경로따라 텍스트(Text along Path)
 
+#### 그림 90.4.3.1.29.a101. `컨텍스트 메뉴` → `경로따라 텍스트`
+![90-04-03-layersx-01-context_menu-activated_text_layer-focus-text_along_path](https://github.com/wonder13662/gimp/assets/15767104/a0eecbc6-f787-4489-92b8-c0cc68ee31ac)
+
 ***
 
 ## 다른 페이지로 가기
