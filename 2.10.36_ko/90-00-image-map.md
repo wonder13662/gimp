@@ -1008,7 +1008,7 @@
 
 [90.4.3.1.28. 텍스트를 경로로(Text to Path)](./90-04-03-layersx-01-context_menux-28-text_to_path.md)
 
-[90.4.3.1.29. 텍스트를 경로로(Text to Path)](./90-04-03-layersx-01-context_menux-29-text_along_path.md)
+[90.4.3.1.29. 경로따라 텍스트(Text along Path)](./90-04-03-layersx-01-context_menux-29-text_along_path.md)
 
 [90.4.3.1.30. 캔버스 텍스트 편집(Edit Text on canvas)](./90-04-03-layersx-01-context_menux-30-edit_text_on_canvas.md)
 
