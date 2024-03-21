@@ -32,7 +32,7 @@
 #### 영상 90.4.68.a202. `텍스트 컨텍스트 메뉴` → `잘라내기` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/88cc564a-2d5e-4cee-a038-bb07ff23fecf"></video>
 
-[9.1.4.1. 잘라내기(Cut) - 영상 90.4.68.a202]()
+[9.1.4.1. 잘라내기(Cut) - 영상 90.4.68.a202](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-01-cut.html#%EC%98%81%EC%83%81-90468a202-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.68.a211. `텍스트 컨텍스트 메뉴` → `복사` (Windows) (우리말)
 ![90-04-68-a211-text_context_menu(windows)(ko)-focus-copy](https://github.com/wonder13662/gimp/assets/15767104/0ded0358-58a8-4e9d-96f0-6d81e02d32ae)
