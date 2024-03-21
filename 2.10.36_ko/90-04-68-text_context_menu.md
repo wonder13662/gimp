@@ -27,47 +27,77 @@
 #### 그림 90.4.68.a201. `텍스트 컨텍스트 메뉴` → `잘라내기` (Windows) (우리말)
 ![90-04-68-a201-text_context_menu(windows)(ko)-focus-cut](https://github.com/wonder13662/gimp/assets/15767104/307e50c4-9fe3-4e95-a6e1-00c55c3c9c29)
 
+[9.1.4.1. 잘라내기(Cut) - 그림 90.4.68.a201](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-01-cut.html#%EA%B7%B8%EB%A6%BC-90468a201-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
 #### 그림 90.4.68.a211. `텍스트 컨텍스트 메뉴` → `복사` (Windows) (우리말)
 ![90-04-68-a211-text_context_menu(windows)(ko)-focus-copy](https://github.com/wonder13662/gimp/assets/15767104/0ded0358-58a8-4e9d-96f0-6d81e02d32ae)
+
+[9.1.4.2. 복사(Copy) - 그림 90.4.68.a211](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-02-copy.html#%EA%B7%B8%EB%A6%BC-90468a211-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EB%B3%B5%EC%82%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.68.a221. `텍스트 컨텍스트 메뉴` → `붙여넣기` (Windows) (우리말)
 ![90-04-68-a221-text_context_menu(windows)(ko)-focus-paste](https://github.com/wonder13662/gimp/assets/15767104/fcd95294-eb1c-40a2-bfef-e709e634c27c)
 
+[9.1.4.3. 붙여넣기(Paste) - 그림 90.4.68.a221](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-03-paste.html#%EA%B7%B8%EB%A6%BC-90468a221-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
 #### 그림 90.4.68.a231. `텍스트 컨텍스트 메뉴` → `삭제` (Windows) (우리말)
 ![90-04-68-a231-text_context_menu(windows)(ko)-focus-delete](https://github.com/wonder13662/gimp/assets/15767104/9344f6f8-cd2b-4c46-a143-9edaa40cfe74)
+
+[9.1.4.4. 삭제(Delete) - 그림 90.4.68.a231](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-04-delete.html#%EA%B7%B8%EB%A6%BC-90468a231-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%82%AD%EC%A0%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.68.a241. `텍스트 컨텍스트 메뉴` → `텍스트 파일 열기...` (Windows) (우리말)
 ![90-04-68-a241-text_context_menu(windows)(ko)-focus-open_text_file](https://github.com/wonder13662/gimp/assets/15767104/45129cb3-199c-42bd-a9c7-193345490d62)
 
+[9.1.4.5. 텍스트 파일 열기(Open text file) - 그림 90.4.68.a241](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-05-open_text_file.html#%EA%B7%B8%EB%A6%BC-90468a241-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%BC-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
 #### 그림 90.4.68.a251. `텍스트 컨텍스트 메뉴` → `지우기` (Windows) (우리말)
 ![90-04-68-a251-text_context_menu(windows)(ko)-focus-clear](https://github.com/wonder13662/gimp/assets/15767104/68c53bc0-0a4f-4ac6-b474-7d6d547ca2c6)
+
+[9.1.4.6. 지우기(Clear) - 그림 90.4.68.a251](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-06-clear.html#%EA%B7%B8%EB%A6%BC-90468a251-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%A7%80%EC%9A%B0%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.68.a261. `텍스트 컨텍스트 메뉴` → `텍스트에서 경로` (Windows) (우리말)
 ![90-04-68-a261-text_context_menu(windows)(ko)-focus-path_from_text](https://github.com/wonder13662/gimp/assets/15767104/0d349dd1-0332-4384-905b-76bbac0d51f2)
 
+[9.1.4.7. 텍스트에서 경로(Path from Text) - 그림 90.4.68.a261](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-07-path_from_text.html#%EA%B7%B8%EB%A6%BC-90468a261-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B2%BD%EB%A1%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
 #### 그림 90.4.68.a271. `텍스트 컨텍스트 메뉴` → `경로따라 텍스트` (Windows) (우리말)
 ![90-04-68-a271-text_context_menu(windows)(ko)-focus-text_along_path](https://github.com/wonder13662/gimp/assets/15767104/ecfea23f-4f0b-4a50-b386-be03f2a313bc)
+
+[9.1.4.8. 경로따라 텍스트(Text along Path) - 그림 90.4.68.a271](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-08-text_along_path.html#%EA%B7%B8%EB%A6%BC-90468a271-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EA%B2%BD%EB%A1%9C%EB%94%B0%EB%9D%BC-%ED%85%8D%EC%8A%A4%ED%8A%B8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.68.a281. `텍스트 컨텍스트 메뉴` → `왼쪽에서 오른쪽으로` (Windows) (우리말)
 ![90-04-68-a281-text_context_menu(windows)(ko)-focus-from_left_to_right](https://github.com/wonder13662/gimp/assets/15767104/4f392194-5fd3-4c0f-9da8-601aa30878e0)
 
+[9.1.4.9. 왼쪽에서 오른쪽으로(From Left to Right) - 그림 90.4.68.a281](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-09-from_left_to_right.html#%EA%B7%B8%EB%A6%BC-90468a281-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%99%BC%EC%AA%BD%EC%97%90%EC%84%9C-%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%9C%BC%EB%A1%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
 #### 그림 90.4.68.a291. `텍스트 컨텍스트 메뉴` → `오른쪽에서 왼쪽으로` (Windows) (우리말)
 ![90-04-68-a291-text_context_menu(windows)(ko)-focus-from_right_to_left](https://github.com/wonder13662/gimp/assets/15767104/25505d30-c399-49ee-bbc6-3472a5724b18)
+
+[9.1.4.10 오른쪽에서 왼쪽으로(From Right to Left) - 그림 90.4.68.a291](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-10-from_right_to_left.html#%EA%B7%B8%EB%A6%BC-90468a291-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EC%84%9C-%EC%99%BC%EC%AA%BD%EC%9C%BC%EB%A1%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.68.a301. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (Windows) (우리말)
 ![90-04-68-a301-text_context_menu(windows)(ko)-focus-vertical_right_to_left_mixed_orientation](https://github.com/wonder13662/gimp/assets/15767104/8148ae54-3092-480c-8a14-9fb88136a26f)
 
+[9.1.4.11. 수직으로 오른쪽에서 왼쪽(혼합 방향) - Vertical, right to left(mixed orientation) - 그림 90.4.68.a301](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-11-vertical_right_to_left_mixed_orientation.html#%EA%B7%B8%EB%A6%BC-90468a301-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%88%98%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EC%84%9C-%EC%99%BC%EC%AA%BD%ED%98%BC%ED%95%A9-%EB%B0%A9%ED%96%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
 #### 그림 90.4.68.a311. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Windows) (우리말)
 ![90-04-68-a311-text_context_menu(windows)(ko)-focus-vertical_right_to_left_upright_orientation](https://github.com/wonder13662/gimp/assets/15767104/c0bda1dc-0110-42b9-8a81-eeec90c9a831)
+
+[9.1.4.12. 수직으로 오른쪽에서 왼쪽(수직 방향) - Vertical, right to left(upright orientation) - 그림 90.4.68.a311](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-12-vertical_right_to_left_upright_orientation.html#%EA%B7%B8%EB%A6%BC-90468a311-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%88%98%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EC%84%9C-%EC%99%BC%EC%AA%BD%EC%88%98%EC%A7%81-%EB%B0%A9%ED%96%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.68.a321. `텍스트 컨텍스트 메뉴` → `수직으로 왼쪽에서 오른쪽(혼합 방향)` (Windows) (우리말)
 ![90-04-68-a321-text_context_menu(windows)(ko)-focus-vertical_left_to_right_mixed_orientation](https://github.com/wonder13662/gimp/assets/15767104/f4bdd2c0-e2c0-419c-915d-fd9458fe076b)
 
+[9.1.4.13. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 그림 90.4.68.a321](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-13-vertical_left_to_right_mixed_orientation.html#%EA%B7%B8%EB%A6%BC-90468a321-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%88%98%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%99%BC%EC%AA%BD%EC%97%90%EC%84%9C-%EC%98%A4%EB%A5%B8%EC%AA%BD%ED%98%BC%ED%95%A9-%EB%B0%A9%ED%96%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
 #### 그림 90.4.68.a331. `텍스트 컨텍스트 메뉴` → `수직으로 왼쪽에서 오른쪽(수직 방향)` (Windows) (우리말)
 ![90-04-68-a331-text_context_menu(windows)(ko)-focus-vertical_left_to_right_upright_orientation](https://github.com/wonder13662/gimp/assets/15767104/e6697ad7-ec66-46ba-a85a-95c666678501)
 
+[9.1.4.14. 수직으로 왼쪽에서 오른쪽(수직 방향) - Vertical, left to right (upright orientation) - 그림 90.4.68.a331](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-14-vertical_left_to_right_upright_orientation.html#%EA%B7%B8%EB%A6%BC-90468a331-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%88%98%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%99%BC%EC%AA%BD%EC%97%90%EC%84%9C-%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%88%98%EC%A7%81-%EB%B0%A9%ED%96%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
 #### 그림 90.4.68.a341. `텍스트 컨텍스트 메뉴` → `입력기` (Windows) (우리말)
 ![90-04-68-a341-text_context_menu(windows)(ko)-focus-input_methods](https://github.com/wonder13662/gimp/assets/15767104/e40644d1-2a4e-4ac7-970b-3acf20c0818a)
+
+[9.1.4.15. 입력기(Input Methods) - 그림 90.4.68.a341](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-15-input_methods.html#%EA%B7%B8%EB%A6%BC-90468a341-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%9E%85%EB%A0%A5%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 

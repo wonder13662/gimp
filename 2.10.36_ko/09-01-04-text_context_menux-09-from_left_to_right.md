@@ -1,7 +1,7 @@
 # 9.1.4.9. 왼쪽에서 오른쪽으로(From Left to Right)
 
-#### 그림 90.4.68.a281. `텍스트 컨텍스트 메뉴` → `왼쪽에서 오른쪽으로` (Windows) (우리말)
-![90-04-68-a281-text_context_menu(windows)(ko)-focus-from_left_to_right](https://github.com/wonder13662/gimp/assets/15767104/4f392194-5fd3-4c0f-9da8-601aa30878e0)
+#### [그림 90.4.68.a281. `텍스트 컨텍스트 메뉴` → `왼쪽에서 오른쪽으로` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EA%B7%B8%EB%A6%BC-90468a281-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%99%BC%EC%AA%BD%EC%97%90%EC%84%9C-%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%9C%BC%EB%A1%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![90-04-68-a281-text_context_menu(windows)(ko)-focus-from_left_to_right](https://github.com/wonder13662/gimp/assets/15767104/4f392194-5fd3-4c0f-9da8-601aa30878e0)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EA%B7%B8%EB%A6%BC-90468a281-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%99%BC%EC%AA%BD%EC%97%90%EC%84%9C-%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%9C%BC%EB%A1%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 fix the writing direction of your language.
 
