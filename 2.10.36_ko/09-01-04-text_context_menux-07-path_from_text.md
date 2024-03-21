@@ -9,25 +9,25 @@
 #### [그림 90.4.68.a261. `텍스트 컨텍스트 메뉴` → `텍스트에서 경로` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EA%B7%B8%EB%A6%BC-90468a261-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B2%BD%EB%A1%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-68-a261-text_context_menu(windows)(ko)-focus-path_from_text](https://github.com/wonder13662/gimp/assets/15767104/0d349dd1-0332-4384-905b-76bbac0d51f2)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EA%B7%B8%EB%A6%BC-90468a261-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B2%BD%EB%A1%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-#### [영상 90.4.68.a262. `텍스트 컨텍스트 메뉴` → `텍스트에서 경로` (Windows) (우리말)]()
+#### [영상 90.4.68.a262. `텍스트 컨텍스트 메뉴` → `텍스트에서 경로` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EC%98%81%EC%83%81-90468a262-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B2%BD%EB%A1%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4c73031c-7d97-49c9-9639-2174b718924d"></video>
 
 ## 2. 이미지 메뉴 바의 `레이어` → `텍스트를 경로로`
 이미지 메뉴 바의 `레이어` → `텍스트를 경로로`를 클릭해서 `텍스트에서 경로(Path from Text)`와 같은 작업을 할 수 있습니다. 이번 경우에는 경로 모드로 전환하기 위해서 경로를 더블 클릭하였습니다. 아래 영상으로 진행 과정을 확인해보세요.
 
-#### [그림 90.1.6.16.a1. `레이어` → `텍스트를 경로로` (텍스트 레이어가 활성화된 경우)]()
-[![90-01-06-layer-activated_text_layer(1080w)-focus-text_to_path](https://github.com/wonder13662/gimp/assets/15767104/b95ff242-0768-41f7-959f-94ab2e62746c)]()
+#### [그림 90.1.6.16.a1. `레이어` → `텍스트를 경로로` (텍스트 레이어가 활성화된 경우)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-16-text_to_path.html#%EA%B7%B8%EB%A6%BC-901616a1-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EA%B2%BD%EB%A1%9C%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%ED%99%9C%EC%84%B1%ED%99%94%EB%90%9C-%EA%B2%BD%EC%9A%B0)
+[![90-01-06-layer-activated_text_layer(1080w)-focus-text_to_path](https://github.com/wonder13662/gimp/assets/15767104/b95ff242-0768-41f7-959f-94ab2e62746c)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-16-text_to_path.html#%EA%B7%B8%EB%A6%BC-901616a1-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EA%B2%BD%EB%A1%9C%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%ED%99%9C%EC%84%B1%ED%99%94%EB%90%9C-%EA%B2%BD%EC%9A%B0)
 
-#### [영상 90.1.6.16.a2. `레이어` → `텍스트를 경로로` (텍스트 레이어가 활성화된 경우)]()
+#### [영상 90.1.6.16.a2. `레이어` → `텍스트를 경로로` (텍스트 레이어가 활성화된 경우)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-16-text_to_path.html#%EC%98%81%EC%83%81-901616a2-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EA%B2%BD%EB%A1%9C%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%ED%99%9C%EC%84%B1%ED%99%94%EB%90%9C-%EA%B2%BD%EC%9A%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9baf0f30-76d3-4934-9830-ad5a8c5e7ca8"></video>
 
 ## 3. 레이어 대화상자 안의 텍스트 레이어 컨텍스트 메뉴의 `텍스트에서 경로(Path from Text)`
 텍스트 레이어 컨텍스트 메뉴의 `텍스트에서 경로(Path from Text)`를 클릭해서 같은 작업을 할 수 있습니다.
 
-#### 그림 90.4.3.1.28.a101. `컨텍스트 메뉴` → `텍스트를 경로로`
+#### [그림 90.4.3.1.28.a101. `컨텍스트 메뉴` → `텍스트를 경로로`]()
 ![90-04-03-layersx-01-context_menu-activated_text_layer-focus-text_to_path](https://github.com/wonder13662/gimp/assets/15767104/0291f72b-3c48-4495-b42f-1fddbcab05a3)
 
-#### 영상 90.4.3.1.28.a102. `컨텍스트 메뉴` → `텍스트를 경로로`
+#### [영상 90.4.3.1.28.a102. `컨텍스트 메뉴` → `텍스트를 경로로`]()
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/65212867-b4f2-4860-a414-eaf95c1423c9"></video>
 
 ***
