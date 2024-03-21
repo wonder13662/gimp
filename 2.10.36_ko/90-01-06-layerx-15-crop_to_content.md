@@ -6,7 +6,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ]()
+[➡️ 다음: 90.1.6.16. 텍스트를 경로로(Text to Path)](./90-01-06-layerx-16-text_to_path.md)
 
 [⬅️ 이전: 90.1.6.14. 선택 영역 잘라내기(Crop to Selection)](./90-01-06-layerx-14-crop_to_selection.md)
 

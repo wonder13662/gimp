@@ -824,6 +824,8 @@
 
 [90.1.6.15. 콘텐츠에 맞춰 잘라내기(Crop to Content)](./90-01-06-layerx-15-crop_to_content.md)
 
+[90.1.6.16. 텍스트를 경로로(Text to Path)](./90-01-06-layerx-16-text_to_path.md)
+
 [90.1.7. 색(Colors)](./90-01-07-colors.md)
 
 [90.1.7.1. 색상 균형(Color Balance)](./90-01-07-colorsx-01-color_balance.md)

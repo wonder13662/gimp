@@ -362,6 +362,8 @@
 
 [90.1.6.15. 콘텐츠에 맞춰 잘라내기(Crop to Content)](./90-01-06-layerx-15-crop_to_content.md)
 
+[90.1.6.16. 텍스트를 경로로(Text to Path)](./90-01-06-layerx-16-text_to_path.md)
+
 ## [90.1.7. 색(Colors)](./90-01-07-colors.md)
 [<img width="1080" alt="90.1.7. 색(Colors)" src="https://github.com/wonder13662/gimp/assets/15767104/42cde5a6-9f41-4765-8cb6-21b7acb1631c">](./90-01-07-colors.md)
 

@@ -91,6 +91,11 @@
 
 [9.1.4.7. 텍스트에서 경로(Path from Text) - 그림 90.4.68.a261](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-07-path_from_text.html#%EA%B7%B8%EB%A6%BC-90468a261-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B2%BD%EB%A1%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
+#### 영상 90.4.68.a262. `텍스트 컨텍스트 메뉴` → `텍스트에서 경로` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4c73031c-7d97-49c9-9639-2174b718924d"></video>
+
+[9.1.4.7. 텍스트에서 경로(Path from Text) - 영상 90.4.68.a262]()
+
 #### 그림 90.4.68.a271. `텍스트 컨텍스트 메뉴` → `경로따라 텍스트` (Windows) (우리말)
 ![90-04-68-a271-text_context_menu(windows)(ko)-focus-text_along_path](https://github.com/wonder13662/gimp/assets/15767104/ecfea23f-4f0b-4a50-b386-be03f2a313bc)
 
