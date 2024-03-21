@@ -22,8 +22,11 @@
 ## 3. 레이어 대화상자 안의 텍스트 레이어 컨텍스트 메뉴의 `경로따라 텍스트(Text along Path)`
 레이어 대화상자 안의 텍스트 레이어 컨텍스트 메뉴의 `경로따라 텍스트(Text along Path)`를 클릭하면 앞서 설명한 기능과 똑같이 동작합니다. 아래 영상에서 동작 과정을 확인해보세요.
 
-#### 그림 90.4.3.1.29.a101. `컨텍스트 메뉴` → `경로따라 텍스트`
-![90-04-03-layersx-01-context_menu-activated_text_layer-focus-text_along_path](https://github.com/wonder13662/gimp/assets/15767104/a0eecbc6-f787-4489-92b8-c0cc68ee31ac)
+#### [그림 90.4.3.1.29.a101. `컨텍스트 메뉴` → `경로따라 텍스트`]()
+[![90-04-03-layersx-01-context_menu-activated_text_layer-focus-text_along_path](https://github.com/wonder13662/gimp/assets/15767104/a0eecbc6-f787-4489-92b8-c0cc68ee31ac) ]()
+
+#### [영상 90.4.3.1.29.a102. `컨텍스트 메뉴` → `경로따라 텍스트`]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e7a01554-cc39-43cb-af91-8d35bfe0e5b1"></video>
 
 ***
 
