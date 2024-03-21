@@ -1,9 +1,11 @@
 # 9.1.4.2. 복사(Copy)
+텍스트를 선택한 뒤에 `텍스트 컨텍스트 메뉴` → `복사`를 클릭하면, 선택한 텍스트 내용이 클립보드에 저장됩니다. 클립보드에 저장된 내용은 `텍스트 컨텍스트 메뉴` → `붙여넣기`로 텍스트 박스 안에 추가할 수 있습니다. 아래 영상에서 전체 과정을 확인해보세요.
 
 #### [그림 90.4.68.a211. `텍스트 컨텍스트 메뉴` → `복사` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EA%B7%B8%EB%A6%BC-90468a211-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EB%B3%B5%EC%82%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-68-a211-text_context_menu(windows)(ko)-focus-copy](https://github.com/wonder13662/gimp/assets/15767104/0ded0358-58a8-4e9d-96f0-6d81e02d32ae)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-68-text_context_menu.html#%EA%B7%B8%EB%A6%BC-90468a211-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EB%B3%B5%EC%82%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-- Cut, Copy, Paste, Delete: these options concern a selected text. They remain grayed out as long as no text is selected. "Paste" is activated if the clipboard is full of text.
+#### [영상 90.4.68.a212. `텍스트 컨텍스트 메뉴` → `복사` (Windows) (우리말)]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/13fe74cb-eadc-427c-9c89-efee7440afc1"></video>
 
 ***
 
