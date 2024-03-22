@@ -14,6 +14,26 @@
 #### 그림 90.4.65.a104. `김프 텍스트 편집기` 대화상자 (Mac) (영어)
 ![90-04-65-a104-dialog_text_editor(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/01f54257-1a10-4837-8395-97e84089b8aa)
 
+#### 그림 90.4.65.a111. `김프 텍스트 편집기` 대화상자 → `왼쪽에서 오른쪽으로` (Windows) (우리말)
+![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-from_left_to_right](https://github.com/wonder13662/gimp/assets/15767104/933b742f-5f5d-4826-b781-ac676096ab49)
+
+[9.1.4.9. 왼쪽에서 오른쪽으로(From Left to Right) - 그림 90.4.65.a111]()
+
+#### 그림 90.4.65.a121. `김프 텍스트 편집기` 대화상자 → `오른쪽에서 왼쪽으로` (Windows) (우리말)
+![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-from_right_to_left](https://github.com/wonder13662/gimp/assets/15767104/7f7842c1-0650-4599-951f-b7ad76df3171)
+
+#### 그림 90.4.65.a122. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (Windows) (우리말)
+![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-vertical_right_to_left_mixed_orientation](https://github.com/wonder13662/gimp/assets/15767104/98ced6fb-b638-4e9c-9f81-cde51c14adb6)
+
+#### 그림 90.4.65.a123. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Windows) (우리말)
+![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-vertical_right_to_left_upright_orientation](https://github.com/wonder13662/gimp/assets/15767104/b69cb10f-0aa5-4f97-af6a-9e479049391c)
+
+#### 그림 90.4.65.a124. `김프 텍스트 편집기` 대화상자 → `수직으로 왼쪽에서 오른쪽(혼합 방향)` (Windows) (우리말)
+![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-vertical_left_to_right_mixed_orientation](https://github.com/wonder13662/gimp/assets/15767104/1e05238e-c012-4c0a-87a5-ad61e79f60fb)
+
+#### 그림 90.4.65.a125. `김프 텍스트 편집기` 대화상자 → `수직으로 왼쪽에서 오른쪽(수직 방향)` (Windows) (우리말)
+![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-vertical_left_to_right_upright_orientation](https://github.com/wonder13662/gimp/assets/15767104/349dcc37-e216-4237-841c-ceb1cde8c3e8)
+
 ***
 
 ## 다른 페이지로 가기

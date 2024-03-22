@@ -114,7 +114,7 @@
 #### 그림 90.4.68.a291. `텍스트 컨텍스트 메뉴` → `오른쪽에서 왼쪽으로` (Windows) (우리말)
 ![90-04-68-a291-text_context_menu(windows)(ko)-focus-from_right_to_left](https://github.com/wonder13662/gimp/assets/15767104/25505d30-c399-49ee-bbc6-3472a5724b18)
 
-[9.1.4.10 오른쪽에서 왼쪽으로(From Right to Left) - 그림 90.4.68.a291](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-10-from_right_to_left.html#%EA%B7%B8%EB%A6%BC-90468a291-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EC%84%9C-%EC%99%BC%EC%AA%BD%EC%9C%BC%EB%A1%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[9.1.4.10. 오른쪽에서 왼쪽으로(From Right to Left) - 그림 90.4.68.a291](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-10-from_right_to_left.html#%EA%B7%B8%EB%A6%BC-90468a291-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EC%84%9C-%EC%99%BC%EC%AA%BD%EC%9C%BC%EB%A1%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.68.a301. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (Windows) (우리말)
 ![90-04-68-a301-text_context_menu(windows)(ko)-focus-vertical_right_to_left_mixed_orientation](https://github.com/wonder13662/gimp/assets/15767104/8148ae54-3092-480c-8a14-9fb88136a26f)

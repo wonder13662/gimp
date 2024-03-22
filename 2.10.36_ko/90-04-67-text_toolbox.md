@@ -120,6 +120,12 @@
 
 [9.1.3.10. 선택한 텍스트의 색 바꾸기 - 영상 90.4.67.a161](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-03-text_toolboxx-10-color.html#%EC%98%81%EC%83%81-90467a161-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%83%89-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
+#### 영상 90.4.67.a171. `텍스트 도구상자` 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 오른쪽에서 왼쪽으로
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a8f81f46-cd91-4635-9fcd-8c964f04cb6a"></video>
+
+#### 영상 90.4.67.a172. `텍스트 도구상자` 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 오른쪽에서 왼쪽으로
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/50e952e1-910f-4546-b340-9625708eb373"></video>
+
 ***
 
 ## 다른 페이지로 가기

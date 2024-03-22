@@ -52,7 +52,7 @@
 
 [9.1.4.9. 왼쪽에서 오른쪽으로(From Left to Right)](./09-01-04-text_context_menux-09-from_left_to_right.md)
 
-[9.1.4.10 오른쪽에서 왼쪽으로(From Right to Left)](./09-01-04-text_context_menux-10-from_right_to_left.md)
+[9.1.4.10. 오른쪽에서 왼쪽으로(From Right to Left)](./09-01-04-text_context_menux-10-from_right_to_left.md)
 
 [9.1.4.11 수직으로 오른쪽에서 왼쪽(혼합 방향) - Vertical, right to left(mixed orientation)](./09-01-04-text_context_menux-11-vertical_right_to_left_mixed_orientation.md)
 
