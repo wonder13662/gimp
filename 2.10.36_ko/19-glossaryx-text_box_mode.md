@@ -12,3 +12,9 @@
 
 #### [영상 90.4.67.a172. `텍스트 도구상자` 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 오른쪽에서 왼쪽으로](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EC%98%81%EC%83%81-90467a172-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90-%EA%B3%A0%EC%A0%95fixed-%EB%AA%A8%EB%93%9C---%EC%9E%85%EB%A0%A5-%EB%B0%A9%ED%96%A5%EC%9D%80-%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EC%84%9C-%EC%99%BC%EC%AA%BD%EC%9C%BC%EB%A1%9C)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/50e952e1-910f-4546-b340-9625708eb373"></video>
+
+***
+
+## 관련 정보
+
+[Gimp-Forum.net: text from right to left](https://www.gimp-forum.net/Thread-text-from-right-to-left)

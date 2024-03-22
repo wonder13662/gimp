@@ -44,9 +44,3 @@
 [🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-image-text-management.html#text-context-menu)
-
-***
-
-## 관련 정보
-
-[Gimp-Forum.net: text from right to left](https://www.gimp-forum.net/Thread-text-from-right-to-left)
