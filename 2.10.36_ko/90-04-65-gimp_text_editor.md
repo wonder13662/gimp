@@ -32,6 +32,18 @@
 #### 그림 90.4.65.a121. `김프 텍스트 편집기` 대화상자 → `오른쪽에서 왼쪽으로` (Windows) (우리말)
 ![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-from_right_to_left](https://github.com/wonder13662/gimp/assets/15767104/7f7842c1-0650-4599-951f-b7ad76df3171)
 
+[9.1.4.10. 오른쪽에서 왼쪽으로(From Right to Left) - 그림 90.4.65.a121]()
+
+#### 그림 90.4.65.a122. `김프 텍스트 편집기` 대화상자 → `오른쪽에서 왼쪽으로` (텍스트 박스 동적모드) (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6a474371-4ebf-45f1-be7f-1655c3948c49"></video>
+
+[9.1.4.10. 오른쪽에서 왼쪽으로(From Right to Left) - 그림 90.4.65.a122]()
+
+#### 그림 90.4.65.a123. `김프 텍스트 편집기` 대화상자 → `오른쪽에서 왼쪽으로` (텍스트 박스 고정모드) (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/799f8096-e911-4293-a48d-d2ce4c7c73e5"></video>
+
+[9.1.4.10. 오른쪽에서 왼쪽으로(From Right to Left) - 그림 90.4.65.a123]()
+
 #### 그림 90.4.65.a131. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (Windows) (우리말)
 ![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-vertical_right_to_left_mixed_orientation](https://github.com/wonder13662/gimp/assets/15767104/98ced6fb-b638-4e9c-9f81-cde51c14adb6)
 
