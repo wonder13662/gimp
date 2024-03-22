@@ -123,14 +123,22 @@
 #### 영상 90.4.67.a171. `텍스트 도구상자` 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 오른쪽에서 왼쪽으로
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a8f81f46-cd91-4635-9fcd-8c964f04cb6a"></video>
 
+[9.1.4.9. 왼쪽에서 오른쪽으로(From Left to Right) - 영상 90.4.67.a171](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-09-from_left_to_right.html#%EC%98%81%EC%83%81-90467a171-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90-%EB%8F%99%EC%A0%81dynamic-%EB%AA%A8%EB%93%9C---%EC%9E%85%EB%A0%A5-%EB%B0%A9%ED%96%A5%EC%9D%80-%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EC%84%9C-%EC%99%BC%EC%AA%BD%EC%9C%BC%EB%A1%9C)
+
 #### 영상 90.4.67.a172. `텍스트 도구상자` 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 오른쪽에서 왼쪽으로
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/50e952e1-910f-4546-b340-9625708eb373"></video>
+
+[9.1.4.9. 왼쪽에서 오른쪽으로(From Left to Right) - 영상 90.4.67.a172](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-09-from_left_to_right.html#%EC%98%81%EC%83%81-90467a172-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90-%EA%B3%A0%EC%A0%95fixed-%EB%AA%A8%EB%93%9C---%EC%9E%85%EB%A0%A5-%EB%B0%A9%ED%96%A5%EC%9D%80-%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EC%84%9C-%EC%99%BC%EC%AA%BD%EC%9C%BC%EB%A1%9C)
 
 #### 영상 90.4.67.a181. `텍스트 도구상자` 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 왼쪽에서 오른쪽으로
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bb531556-a06d-4a2a-8397-3291aef6f270"></video>
 
+[9.1.4.9. 왼쪽에서 오른쪽으로(From Left to Right) - 영상 90.4.67.a181](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-09-from_left_to_right.html#%EC%98%81%EC%83%81-90467a181-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90-%EB%8F%99%EC%A0%81dynamic-%EB%AA%A8%EB%93%9C---%EC%9E%85%EB%A0%A5-%EB%B0%A9%ED%96%A5%EC%9D%80-%EC%99%BC%EC%AA%BD%EC%97%90%EC%84%9C-%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%9C%BC%EB%A1%9C)
+
 #### 영상 90.4.67.a182. `텍스트 도구상자` 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 왼쪽에서 오른쪽으로
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eb45c554-45f7-4ef7-9b1d-3341c3051ed2"></video>
+
+[9.1.4.9. 왼쪽에서 오른쪽으로(From Left to Right) - 영상 90.4.67.a182](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-09-from_left_to_right.html#%EC%98%81%EC%83%81-90467a182-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90-%EA%B3%A0%EC%A0%95fixed-%EB%AA%A8%EB%93%9C---%EC%9E%85%EB%A0%A5-%EB%B0%A9%ED%96%A5%EC%9D%80-%EC%99%BC%EC%AA%BD%EC%97%90%EC%84%9C-%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%9C%BC%EB%A1%9C)
 
 ***
 
