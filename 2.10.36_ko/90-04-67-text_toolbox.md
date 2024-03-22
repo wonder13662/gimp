@@ -126,6 +126,12 @@
 #### 영상 90.4.67.a172. `텍스트 도구상자` 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 오른쪽에서 왼쪽으로
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/50e952e1-910f-4546-b340-9625708eb373"></video>
 
+#### 영상 90.4.67.a181. `텍스트 도구상자` 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 왼쪽에서 오른쪽으로
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bb531556-a06d-4a2a-8397-3291aef6f270"></video>
+
+#### 영상 90.4.67.a182. `텍스트 도구상자` 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 왼쪽에서 오른쪽으로
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eb45c554-45f7-4ef7-9b1d-3341c3051ed2"></video>
+
 ***
 
 ## 다른 페이지로 가기
