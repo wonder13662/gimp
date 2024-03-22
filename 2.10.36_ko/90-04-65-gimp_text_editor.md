@@ -77,6 +77,18 @@
 #### 그림 90.4.65.a151. `김프 텍스트 편집기` 대화상자 → `수직으로 왼쪽에서 오른쪽(혼합 방향)` (Windows) (우리말)
 ![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-vertical_left_to_right_mixed_orientation](https://github.com/wonder13662/gimp/assets/15767104/1e05238e-c012-4c0a-87a5-ad61e79f60fb)
 
+[9.1.4.13. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 그림 90.4.65.a151]()
+
+#### 영상 90.4.65.a152. `김프 텍스트 편집기` 대화상자 → 수직으로 왼쪽에서 오른쪽(혼합 방향) (텍스트 박스 동적모드) (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3ce67eb2-1e16-400a-8f59-23dcbff81f80"></video>
+
+[9.1.4.13. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 영상 90.4.65.a152]()
+
+#### 영상 90.4.65.a153. `김프 텍스트 편집기` 대화상자 → 수직으로 왼쪽에서 오른쪽(혼합 방향) (텍스트 박스 고정모드) (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3d8e2bcd-4ca6-4779-b939-dfc84f204f6b"></video>
+
+[9.1.4.13. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 영상 90.4.65.a153]()
+
 #### 그림 90.4.65.a161. `김프 텍스트 편집기` 대화상자 → `수직으로 왼쪽에서 오른쪽(수직 방향)` (Windows) (우리말)
 ![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-vertical_left_to_right_upright_orientation](https://github.com/wonder13662/gimp/assets/15767104/349dcc37-e216-4237-841c-ceb1cde8c3e8)
 
