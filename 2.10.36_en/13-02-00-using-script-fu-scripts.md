@@ -1,4 +1,4 @@
-# 13.2. Using script-fu scripts
+# 13.2. Script-fu 스크립트 사용하기(Using script-fu scripts)
 
 ## [13.2.1. Script-fu?](./13-02-01-script-fu.md)
 ## [13.2.2. Installing script-fu scripts](./13-02-02-installing-script-fu-scripts.md)
