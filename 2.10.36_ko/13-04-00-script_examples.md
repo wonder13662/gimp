@@ -1,4 +1,4 @@
-# 13.4. Examples
+# 13.4. 스크립트 예제
 
 ### [Home](./00-home.md)
 ### [Parent: 13.3. A script-fu tutorial](./13-03-00-a-script-fu-tutorial.md)

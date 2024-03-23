@@ -466,6 +466,14 @@
 
 [13. Scripting](./13-00-scripting.md)
 
+[13.4. 스크립트 예제](./13-04-00-script_examples.md)
+
+[13.4.1. 3D Outlines](./13-04-01-3d_outline.md)
+
+[13.4.2. Bovination](./13-04-02-bovination.md)
+
+[13.4.3. Camouflage](./13-04-03-camo.md)
+
 # Part III. Function Reference
 [14. Tools](./14-00-tools.md)
 
