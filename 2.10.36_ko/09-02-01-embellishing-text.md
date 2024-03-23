@@ -1,14 +1,19 @@
 # 9.2.1. 텍스트 꾸미기(Embellishing text)
 텍스트를 경로나 선택으로 바꾸어 색을 채우거나 외곽선을 따라그리거나 다른 도구들을 사용해서 다양한 모양으로 바꿀 수 있습니다. 아래 하위 페이지에서 텍스트에 효과를 주는 스크립트를 소개하는 페이지를 확인해보세요. 스크립트를 수정해서 사용하고 싶다면, [13.2. Script-fu 스크립트 사용하기](./13-02-00-using-script-fu-scripts.md)와 [13.3. Script-fu 튜토리얼](./13-03-00-a-script-fu-tutorial.md)를 참고해주세요.
 
-#### 그림 9.2.1.1.a3. 3D Outline 결과 이미지
-![09-02-01-01-3d_outline-after](https://github.com/wonder13662/gimp/assets/15767104/2cb9d362-7c56-4725-8d45-acb1be56066d)
-
 ***
 
 ## 하위 페이지
 
 [9.2.1.1. 3D Outline](./09-02-01-embellishing-textx-01-3d_outline.md)
+
+#### 그림 9.2.1.1.a3. 3D Outline 결과 이미지
+![09-02-01-01-3d_outline-after](https://github.com/wonder13662/gimp/assets/15767104/2cb9d362-7c56-4725-8d45-acb1be56066d)
+
+[9.2.1.2. Bovination](./09-02-01-embellishing-textx-02-bovination.md)
+
+#### 그림 9.2.1.2.a112. 결과 이미지
+![09-02-01-02-a112-result](https://github.com/wonder13662/gimp/assets/15767104/a3e4a853-caa9-498c-b52c-7c808c5614ca)
 
 ***
 
