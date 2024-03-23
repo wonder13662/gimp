@@ -1,34 +1,34 @@
-# 9.2.1.2. Bovination
+# 13.4.2. Bovination
 
 ## 1. `파일` → `만들기` → `로고` → `Bovination`
 
-#### 그림 9.2.1.2.a101. 결과 이미지
+#### 그림 13.4.2.a101. 결과 이미지
 ![09-02-01-02-a101-result(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/87cef2b0-dfa9-4099-9d4d-bca13d7f3a13)
 
-#### 그림 9.2.1.2.a102. 메뉴 위치
+#### 그림 13.4.2.a102. 메뉴 위치
 ![09-02-01-02-a102-menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/f89ff1d7-5546-48c4-828b-d291e605b8fd)
 
-#### 그림 9.2.1.2.a103. 대화상자
+#### 그림 13.4.2.a103. 대화상자
 ![09-02-01-02-a103-dialog(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/abf7fbd1-14b3-49f1-806f-aa35e49d23dc)
 
-#### 영상 9.2.1.2.a104. 전체 과정
+#### 영상 13.4.2.a104. 전체 과정
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c63c006c-3ff3-4922-95db-c00f7cf9b9b5"></video>
 
 ## 2. `필터` → `알파를 로고로` → `Bovination`
 
-#### 그림 9.2.1.2.a111. 원본 이미지
+#### 그림 13.4.2.a111. 원본 이미지
 ![09-02-01-02-a111-source](https://github.com/wonder13662/gimp/assets/15767104/eec322e9-d6d5-4245-b5d2-de22cc666fa2)
 
-#### 그림 9.2.1.2.a112. 결과 이미지
+#### 그림 13.4.2.a112. 결과 이미지
 ![09-02-01-02-a112-result](https://github.com/wonder13662/gimp/assets/15767104/a3e4a853-caa9-498c-b52c-7c808c5614ca)
 
-#### 그림 9.2.1.2.a113. 메뉴 위치
+#### 그림 13.4.2.a113. 메뉴 위치
 ![09-02-01-02-a113-menu](https://github.com/wonder13662/gimp/assets/15767104/0fbaad77-f5c3-4c5a-b985-7a051be5c497)
 
-#### 그림 9.2.1.2.a114. 대화상자
+#### 그림 13.4.2.a114. 대화상자
 ![09-02-01-02-a114-dialog](https://github.com/wonder13662/gimp/assets/15767104/8852e327-932f-4130-8058-d9efd3b66dbf)
 
-#### 영상 9.2.1.2.a115. 전체 과정
+#### 영상 13.4.2.a115. 전체 과정
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/02e63b34-33a9-4186-9ebf-b86ef80c20ff"></video>
 
 ## 3. 스크립트
@@ -164,11 +164,9 @@
 
 [⬅️ 이전: ?]()
 
-[⬆️ 위: 9.2.1. 텍스트 꾸미기(Embellishing text)](./09-02-01-embellishing-text.md)
+[⬆️ 위: 13.4. 스크립트 예제](./13-04-00-examples.md)
 
-[⬆️ 위: 9.2. 텍스트(Text)](./09-02-00-text.md)
-
-[⬆️ 위: 9. 텍스트 관리(Text management)](./09-00-text-management.md)
+[⬆️ 위: 13. 스크립팅](./13-00-scripting.md)
 
 [🏠 홈](./00-home.md)
 

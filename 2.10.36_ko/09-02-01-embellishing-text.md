@@ -3,16 +3,16 @@
 
 ***
 
-## 하위 페이지
+## 텍스트 관련 스크립트 목록
 
-[9.2.1.1. 3D Outline](./09-02-01-embellishing-textx-01-3d_outline.md)
+[13.4.1. 3D Outlines](./13-04-01-3d_outline.md)
 
-#### 그림 9.2.1.1.a3. 3D Outline 결과 이미지
-![09-02-01-01-3d_outline-after](https://github.com/wonder13662/gimp/assets/15767104/2cb9d362-7c56-4725-8d45-acb1be56066d)
+#### 그림 13.4.1.a112. 결과 이미지
+![09-02-01-01-a112-filters-alpha_to_logo-3d_outline-result(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/d93efd52-fa2c-4fb5-8280-64ac95a73054)
 
-[9.2.1.2. Bovination](./09-02-01-embellishing-textx-02-bovination.md)
+[13.4.2. Bovination](./13-04-02-bovination.md)
 
-#### 그림 9.2.1.2.a112. 결과 이미지
+#### 그림 13.4.2.a112. 결과 이미지
 ![09-02-01-02-a112-result](https://github.com/wonder13662/gimp/assets/15767104/a3e4a853-caa9-498c-b52c-7c808c5614ca)
 
 ***
