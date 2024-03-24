@@ -335,7 +335,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 13.4.8. Imigre-26](./13-04-08-Imigre_26.md)
+[➡️ 다음: 13.4.11. Round Button](./13-04-11-round_button.md)
 
 [⬅️ 이전: 13.4.6. Chrome](./13-04-06-chrome_logo.md)
 

@@ -488,6 +488,8 @@
 
 [13.4.10. Neon Logo](./13-04-10-neon_logo.md)
 
+[13.4.11. Round Button](./13-04-11-round_button.md)
+
 # Part III. Function Reference
 [14. Tools](./14-00-tools.md)
 
