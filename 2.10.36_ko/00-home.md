@@ -474,6 +474,20 @@
 
 [13.4.3. Camouflage](./13-04-03-camo.md)
 
+[13.4.4. Chalk](./13-04-04-chalk.md)
+
+[13.4.5. Chip Away](./13-04-05-chip_away.md)
+
+[13.4.6. Chrome](./13-04-06-chrome_logo.md)
+
+[13.4.7. Glowing Logo](./13-04-07-glowing_logo.md)
+
+[13.4.8. Imigre-26](./13-04-08-Imigre_26.md)
+
+[13.4.9. Land](./13-04-09-land.md)
+
+[13.4.10. Neon Logo](./13-04-10-neon_logo.md)
+
 # Part III. Function Reference
 [14. Tools](./14-00-tools.md)
 
