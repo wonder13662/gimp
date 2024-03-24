@@ -16,6 +16,8 @@
 
 [13.4.6. Chrome](./13-04-06-chrome_logo.md)
 
+[13.4.7. Glowing Logo](./13-04-07-glowing_logo.md)
+
 ***
 
 ## 다른 페이지로 가기
