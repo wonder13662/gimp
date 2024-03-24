@@ -1,9 +1,16 @@
 # 13.4. 스크립트 예제
 
-### [Home](./00-home.md)
-### [Parent: 13.3. A script-fu tutorial](./13-03-00-a-script-fu-tutorial.md)
-### [Prev: 13.3.6. Extending the text box script](./13-03-06-extending-the-text-box-script.md)
-### [Next: 14.1.1. Introduction](./14-01-01-introduction.md)
+***
+
+## 하위 페이지
+
+[13.4.1. 3D Outlines](./13-04-01-3d_outline.md)
+
+[13.4.2. Bovination](./13-04-02-bovination.md)
+
+[13.4.3. Camouflage](./13-04-03-camo.md)
+
+[13.4.4. Chalk](./13-04-04-chalk.md)
 
 ***
 

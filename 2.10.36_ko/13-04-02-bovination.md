@@ -1,6 +1,6 @@
 # 13.4.2. Bovination
 
-## 1. `파일` → `만들기` → `로고` → `Bovination`
+## 1. `파일` → `만들기` → `로고` → `Bovination...`
 
 #### 그림 13.4.2.a101. 결과 이미지
 ![09-02-01-02-a101-result(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/87cef2b0-dfa9-4099-9d4d-bca13d7f3a13)
@@ -14,7 +14,7 @@
 #### 영상 13.4.2.a104. 전체 과정
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c63c006c-3ff3-4922-95db-c00f7cf9b9b5"></video>
 
-## 2. `필터` → `알파를 로고로` → `Bovination`
+## 2. `필터` → `알파를 로고로` → `Bovination...`
 
 #### 그림 13.4.2.a111. 원본 이미지
 ![09-02-01-02-a111-source](https://github.com/wonder13662/gimp/assets/15767104/eec322e9-d6d5-4245-b5d2-de22cc666fa2)
@@ -160,11 +160,11 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 13.4.3. Camouflage](./13-04-03-camo.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 13.4.1. 3D Outlines](./13-04-01-3d_outline.md)
 
-[⬆️ 위: 13.4. 스크립트 예제](./13-04-00-script_examples.md)
+[⬆️ 위: 13.4. 스크립트 예제](./13-04-00-examples.md)
 
 [⬆️ 위: 13. 스크립팅](./13-00-scripting.md)
 
