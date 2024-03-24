@@ -14,6 +14,8 @@
 
 [13.4.5. Chip Away](./13-04-05-chip_away.md)
 
+[13.4.6. Chrome](./13-04-06-chrome_logo.md)
+
 ***
 
 ## 다른 페이지로 가기
