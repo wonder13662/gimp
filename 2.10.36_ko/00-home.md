@@ -458,7 +458,7 @@
 
 [9.2.3. 글꼴 문제(Font problems)](./09-02-03-font-problems.md)
 
-[10. Enhancing Photographs](./10-00-enhancing-photographs.md)
+[10. 사진 편집하기](./10-00-enhancing-photographs.md)
 
 [11. Color Management](./11-00-color-management-with-gimp.md)
 

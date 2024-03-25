@@ -589,11 +589,13 @@ module.exports = {
       ],
       [
         '10-00-enhancing-photographs.md', 
-        '10. Enhancing photographs'
+        '10. Enhancing photographs',
+        '10. 사진 편집하기'
       ],
       [
         '10-01-working-with-digital-camera-photos.md', 
-        '10.1. Working with digital camera photos'
+        '10.1. Working with digital camera photos',
+        '10.1. 디지털 카메라로 찍은 사진 편집하기'
       ],
       [
         '11-00-color-management-with-gimp.md', 

@@ -13,7 +13,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 10. Enhancing Photographs](./10-00-enhancing-photographs.md)
+[➡️ 다음: 10. 사진 편집하기](./10-00-enhancing-photographs.md)
 
 [⬅️ 이전: 9.2.2. 글꼴 추가하기(Adding fonts)](./09-02-02-adding-fonts.md)
 
