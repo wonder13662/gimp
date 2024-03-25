@@ -1,6 +1,12 @@
 # 90.4.1.12. 회전(Rotate)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+#### 그림 90.4.1.12.a1. 도구상자의 회전의 도구옵션
+![90-04-01-tool_optionsx-12-rotate](https://github.com/wonder13662/gimp/assets/15767104/1eae8a20-f34b-4db8-b4a3-7861442a3e64)
+
+#### 그림 90.4.1.12.a101. 변형: 레이어 변형 (Windows) (우리말)
+![90-04-01-12-a101-rotate(windows)(ko)-focus-transform_layer](https://github.com/wonder13662/gimp/assets/15767104/a37012ad-9d58-44c0-a4d5-dc2635f9f9b3)
+
+[10.1.2.1. 이미지 회전시키기 - 그림 90.4.1.12.a101]()
 
 ***
 

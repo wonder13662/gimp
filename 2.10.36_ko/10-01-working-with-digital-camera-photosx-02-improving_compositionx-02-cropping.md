@@ -1,12 +1,4 @@
-# 10.1.2. 구조적 교정
-
-***
-
-## 하위 페이지
-
-[10.1.2.1. 이미지 회전시키기](./10-01-working-with-digital-camera-photosx-02-improving_compositionx-01-rotating_an_image.md)
-
-[10.1.2.2. 이미지 잘라내기](./10-01-working-with-digital-camera-photosx-02-improving_compositionx-02-cropping.md)
+# 10.1.2.2. 이미지 잘라내기
 
 ***
 
