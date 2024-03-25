@@ -26,6 +26,8 @@
 
 [13.4.11. Round Button](./13-04-11-round_button.md)
 
+[13.4.12. Random Map](./13-04-12-random_map.md)
+
 ***
 
 ## 다른 페이지로 가기

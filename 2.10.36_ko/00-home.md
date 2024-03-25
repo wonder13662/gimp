@@ -490,6 +490,8 @@
 
 [13.4.11. Round Button](./13-04-11-round_button.md)
 
+[13.4.12. Random Map](./13-04-12-random_map.md)
+
 # Part III. Function Reference
 [14. Tools](./14-00-tools.md)
 
