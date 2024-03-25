@@ -15,6 +15,31 @@
 #### 그림 13.4.2.a112. 결과 이미지
 ![09-02-01-02-a112-result](https://github.com/wonder13662/gimp/assets/15767104/a3e4a853-caa9-498c-b52c-7c808c5614ca)
 
+[13.4.4. Chalk](./13-04-04-chalk.md)
+
+#### 그림 13.4.4.a112. 결과 이미지
+![13-04-04-a112-result](https://github.com/wonder13662/gimp/assets/15767104/07cf3537-4ea4-427d-9e5c-75c194a8b09f)
+
+[13.4.5. Chip Away](./13-04-05-chip_away.md)
+
+#### 그림 13.4.5.a112. 결과 이미지
+![13-04-05-a112-result](https://github.com/wonder13662/gimp/assets/15767104/af8952e6-2ded-42f8-ac89-7493e593492c)
+
+[13.4.6. Chrome](./13-04-06-chrome_logo.md)
+
+#### 그림 13.4.6.a112. 결과 이미지
+![13-04-06-a112-result](https://github.com/wonder13662/gimp/assets/15767104/fa2822d0-5aed-4e63-9401-bf6cd3f49568)
+
+[13.4.7. Glowing Logo](./13-04-07-glowing_logo.md)
+
+#### 그림 13.4.7.a112. 결과 이미지
+![13-04-07-a112-result](https://github.com/wonder13662/gimp/assets/15767104/8f092da9-0d6c-4da0-ad24-49630cef5a23)
+
+[13.4.10. Neon Logo](./13-04-10-neon_logo.md)
+
+#### 그림 13.4.10.a112. 결과 이미지
+![13-04-10-a112-result](https://github.com/wonder13662/gimp/assets/15767104/4452bc02-fdcf-44a8-97be-bcbf279368af)
+
 ***
 
 ## 다른 페이지로 가기
