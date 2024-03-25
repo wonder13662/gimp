@@ -1,6 +1,4 @@
 # 9.2.2. 글꼴 추가하기(Adding fonts)
-이 장에서는 대략적인 내용만 다룰 것이므로, 김프 글꼴에 대한 자세한 정보는 [9.2.2.1. GIMP 2.X의 글꼴 (Fonts in GIMP 2.X)](./09-02-02-adding-fontsx-01-fonts_in_gimp_2x.md)를 참고해주세요.
-
 ## 1. FreeType 2 글꼴 엔진
 GIMP(김프)는 FreeType 2 글꼴 엔진을 이용해 글꼴을 구현하며, 관리를 위해 `Fontconfig` 시스템을 사용합니다. `Fongconfig`의 글꼴 경로나 GIMP(김프) 글꼴 경로에 있는 모든 글꼴을 사용할 수 있습니다.
 
