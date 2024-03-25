@@ -492,6 +492,8 @@
 
 [13.4.12. Random Map](./13-04-12-random_map.md)
 
+[13.4.13. Truchet](./13-04-13-truchet.md)
+
 # Part III. Function Reference
 [14. Tools](./14-00-tools.md)
 
