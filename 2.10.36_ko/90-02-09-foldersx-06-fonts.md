@@ -3,7 +3,7 @@
 #### 그림 90.2.9.6.a1. `기본 설정` → `폴더` → `글꼴` (Windows) (우리말)
 ![90-02-09-06-fonts(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/f4ab0207-eddd-4c48-b2e6-33040be23d40)
 
-[9.2.2. 글꼴 추가하기(Adding fonts) - 그림 90.2.9.6.a1]()
+[9.2.2. 글꼴 추가하기(Adding fonts) - 그림 90.2.9.6.a1](https://wonder13662.github.io/gimp/2.10.36_ko/09-02-02-adding-fonts.html#%EA%B7%B8%EB%A6%BC-90296a1-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EA%B8%80%EA%BC%B4-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.2.9.6.a2. `기본 설정` → `폴더` → `글꼴` (Windows) (영어)
 ![90-02-09-06-fonts(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/96ea2ad2-90d0-4206-91d3-7744d0ef88cf)
