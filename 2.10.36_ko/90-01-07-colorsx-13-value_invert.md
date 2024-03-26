@@ -8,7 +8,7 @@
 
 [➡️ 다음: 90.1.7.14. 자동(Auto)](./90-01-07-colorsx-14-auto.md)
 
-[⬅️ 이전: 90.1.7.12. 선형 반전(Linear Invert)](./90-01-07-colorsx-12-linear invert.md)
+[⬅️ 이전: 90.1.7.12. 선형 반전(Linear Invert)](./90-01-07-colorsx-12-linear_invert.md)
 
 [⬆️ 위: 90.1.7. 색(Colors)](./90-01-07-colors.md)
 

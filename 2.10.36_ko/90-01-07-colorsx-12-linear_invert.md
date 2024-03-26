@@ -6,7 +6,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.7.13. 명도 반전(Value Invert)](./90-01-07-colorsx-13-value invert.md)
+[➡️ 다음: 90.1.7.13. 명도 반전(Value Invert)](./90-01-07-colorsx-13-value_invert.md)
 
 [⬅️ 이전: 90.1.7.11. 반전(Invert)](./90-01-07-colorsx-11-invert.md)
 

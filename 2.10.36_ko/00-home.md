@@ -472,6 +472,12 @@
 
 [10.1.3. 색상 보정](./10-01-working-with-digital-camera-photosx-03-improving_colors.md)
 
+[10.1.3.1. 자동화 도구](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-01-automated_tools.md)
+
+[10.1.3.2. 노출 문제](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problems.md)
+
+[10.1.3.3. 색조 및 채도 조정](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-03-adjusting_hue_and_saturation.md)
+
 [10.1.4. 선명도 조절하기](./10-01-working-with-digital-camera-photosx-04-adjusting_sharpness.md)
 
 [10.1.5. 이미지에서 필요없는 물체 없애기](./10-01-working-with-digital-camera-photosx-05-removing_unwanted_objects_from_an_image.md)
@@ -898,11 +904,23 @@
 
 [90.1.7.11. 반전(Invert)](./90-01-07-colorsx-11-invert.md)
 
-[90.1.7.12. 선형 반전(Linear Invert)](./90-01-07-colorsx-12-linear invert.md)
+[90.1.7.12. 선형 반전(Linear Invert)](./90-01-07-colorsx-12-linear_invert.md)
 
-[90.1.7.13. 명도 반전(Value Invert)](./90-01-07-colorsx-13-value invert.md)
+[90.1.7.13. 명도 반전(Value Invert)](./90-01-07-colorsx-13-value_invert.md)
 
 [90.1.7.14. 자동(Auto)](./90-01-07-colorsx-14-auto.md)
+
+[90.1.7.14.1. 평준화(Equalize)](./90-01-07-colorsx-14-autox-01-equalize.md)
+
+[90.1.7.14.2. 화이트 밸런스(White Balance)](./90-01-07-colorsx-14-autox-02-white_balance.md)
+
+[90.1.7.14.3. 대비 증가...(Stretch Contrast...)](./90-01-07-colorsx-14-autox-03-stretch_contrast.md)
+
+[90.1.7.14.4. HSV 대비 증가(Stretch Contrast HSV)](./90-01-07-colorsx-14-autox-04-stretch_contrast_hsv.md)
+
+[90.1.7.14.5. 색상 보강(Color Enhance)](./90-01-07-colorsx-14-autox-05-color_enhance.md)
+
+[90.1.7.14.6. 색상 보강(레거시)(Color Enhance (legacy))](./90-01-07-colorsx-14-autox-06-color_enhance_legacy.md)
 
 [90.1.7.15. 성분(Components)](./90-01-07-colorsx-15-components.md)
 

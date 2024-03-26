@@ -8,11 +8,27 @@
 
 ***
 
+## 하위 페이지
+
+[90.1.7.14.1. 평준화(Equalize)](./90-01-07-colorsx-14-autox-01-equalize.md)
+
+[90.1.7.14.2. 화이트 밸런스(White Balance)](./90-01-07-colorsx-14-autox-02-white_balance.md)
+
+[90.1.7.14.3. 대비 증가...(Stretch Contrast...)](./90-01-07-colorsx-14-autox-03-stretch_contrast.md)
+
+[90.1.7.14.4. HSV 대비 증가(Stretch Contrast HSV)](./90-01-07-colorsx-14-autox-04-stretch_contrast_hsv.md)
+
+[90.1.7.14.5. 색상 보강(Color Enhance)](./90-01-07-colorsx-14-autox-05-color_enhance.md)
+
+[90.1.7.14.6. 색상 보강(레거시)(Color Enhance (legacy))](./90-01-07-colorsx-14-autox-06-color_enhance_legacy.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.1.7.15. 성분(Components)](./90-01-07-colorsx-15-components.md)
 
-[⬅️ 이전: 90.1.7.13. 명도 반전(Value Invert)](./90-01-07-colorsx-13-value invert.md)
+[⬅️ 이전: 90.1.7.13. 명도 반전(Value Invert)](./90-01-07-colorsx-13-value_invert.md)
 
 [⬆️ 위: 90.1.7. 색(Colors)](./90-01-07-colors.md)
 

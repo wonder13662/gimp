@@ -6,7 +6,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.7.12. 선형 반전(Linear Invert)](./90-01-07-colorsx-12-linear invert.md)
+[➡️ 다음: 90.1.7.12. 선형 반전(Linear Invert)](./90-01-07-colorsx-12-linear_invert.md)
 
 [⬅️ 이전: 90.1.7.10. 커브(Curves)](./90-01-07-colorsx-10-curves.md)
 
