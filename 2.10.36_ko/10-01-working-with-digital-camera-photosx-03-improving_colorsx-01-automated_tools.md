@@ -31,25 +31,36 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/995fa1b9-a38b-43c3-bd41-dbb7b056bd1b"></video>
 
 ## 3. 대비 증가(Stretch Contrast)
-#### [그림 90.1.7.14.3.a1. `색` → `자동` → `대비 증가...` (Windows)]()
-[![90-01-07-colorsx-01-auto(windows)-focus-stretch_contrast](https://github.com/wonder13662/gimp/assets/15767104/f7f9e92f-a885-41e0-a503-8a10e3e4d55c)]()
+#### [그림 90.1.7.14.3.a1. `색` → `자동` → `대비 증가...` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-03-stretch_contrast.html#%EA%B7%B8%EB%A6%BC-9017143a1-%EC%83%89--%EC%9E%90%EB%8F%99--%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-windows)
+[![90-01-07-colorsx-01-auto(windows)-focus-stretch_contrast](https://github.com/wonder13662/gimp/assets/15767104/f7f9e92f-a885-41e0-a503-8a10e3e4d55c)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-03-stretch_contrast.html#%EA%B7%B8%EB%A6%BC-9017143a1-%EC%83%89--%EC%9E%90%EB%8F%99--%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-windows)
 
-[다른 운영체제와 언어의 `색` → `자동` → `대비 증가...` 확인하기]()
+[다른 운영체제와 언어의 `색` → `자동` → `대비 증가...` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-03-stretch_contrast.html#%EA%B7%B8%EB%A6%BC-9017143a2-%EC%83%89--%EC%9E%90%EB%8F%99--%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-mac)
 
 `대비 증가(Stretch Contrast)`는 노출이 부족한 이미지에 효과적입니다. 이 기능은 가장 밝은 부분이 색조 범위의 오른쪽에, 그리고 가장 어두운 부분이 검은색이 될 때까지 전체 이미지를 조정합니다.
 
-#### [그림 90.1.7.14.3.a4. 대비 증가 적용 전후 비교]()
-[![90-01-07-14-03-a3-stretch_contrast-before_n_after(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/13c1f0b0-67be-4891-9d18-2ee4e77147b4)]()
+#### [그림 90.1.7.14.3.a4. 대비 증가 적용 전후 비교](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-03-stretch_contrast.html#%EA%B7%B8%EB%A6%BC-9017143a4-%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-%EC%A0%81%EC%9A%A9-%EC%A0%84%ED%9B%84-%EB%B9%84%EA%B5%90)
+[![90-01-07-14-03-a3-stretch_contrast-before_n_after(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/13c1f0b0-67be-4891-9d18-2ee4e77147b4)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-03-stretch_contrast.html#%EA%B7%B8%EB%A6%BC-9017143a4-%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-%EC%A0%81%EC%9A%A9-%EC%A0%84%ED%9B%84-%EB%B9%84%EA%B5%90)
 
-#### [영상 90.1.7.14.3.a5. `색` → `자동` → `대비 증가...` (Windows) (우리말)]()
+#### [영상 90.1.7.14.3.a5. `색` → `자동` → `대비 증가...` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-03-stretch_contrast.html#%EC%98%81%EC%83%81-9017143a5-%EC%83%89--%EC%9E%90%EB%8F%99--%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/049288bc-b11d-43ae-8d5e-4c7907f8fcfc"></video>
 
 `대비 증가(Stretch Contrast)`의 단점으로는 밝기의 양이 전적으로 이미지의 가장 밝은 곳과 가장 어두운 곳에 의해서 결정된다는 것입니다. 그래서 이미지 안에 하얀 점 픽셀이나 검은색 점 픽셀이 하나라도 있으면, 표준화시킬때 효과적이지 않게 작동하게 됩니다.
 
 `대비 증가(Stretch Contrast)`는 빨강, 녹색, 파랑 채널에 독립적으로 작동합니다. 이 기능은 [컬러 캐스트](./19-glossaryx-color_cast.md)를 줄이는 데 효과적입니다.
 
-
 ## 4. HSV 대비 증가(Stretch Contrast HSV)
+#### [그림 90.1.7.14.4.a1. `색` → `자동` → `HSV 대비 증가` (Windows)]()
+[![90-01-07-colorsx-01-auto(windows)-focus-stretch_contrast_hsv](https://github.com/wonder13662/gimp/assets/15767104/f6f801fb-7a62-41e8-a6a2-dacbc4004850)]()
+
+[다른 운영체제와 언어의 `색` → `자동` → `HSV 대비 증가` 확인하기]()
+
+`HSV 대비 증가(Stretch Contrast HSV)`는 `대비 증가(Stretch Contrast)`와 비슷하게 `HSV` 색상을 강화합니다. 단 채도(Saturation)는 그대로 유지합니다.
+
+#### [그림 90.1.7.14.4.a3. HSV 대비 증가 사용 전후 비교]()
+[![90-01-07-14-04-a3-comparing-label](https://github.com/wonder13662/gimp/assets/15767104/6d2d5b9c-6b22-4658-b93e-d59b28ad1ae8)]()
+
+#### [영상 90.1.7.14.4.a4. `색` → `자동` → `HSV 대비 증가` (Windows) (우리말)]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e6033fa8-72c5-4643-ad8c-db1063f86e8f"></video>
 
 ## 5. 화이트 밸런스
 
