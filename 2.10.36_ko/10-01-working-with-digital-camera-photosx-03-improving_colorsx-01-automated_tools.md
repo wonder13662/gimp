@@ -24,7 +24,7 @@
 
 `색상 보강(Color Enhance)`은 레이어 색상의 밝기(Lightness)나 색조(Hue)를 변경하지 않고 채도(Saturation) 범위만 증가시킵니다. 그러므로 `색상 보강(Color Enhance)`은 그레이스케일 이미지에서 동작하지 않습니다.
 
-#### [그림 90.1.7.14.5.a4. 색상 보강 사용 전후 비교]()
+#### [그림 90.1.7.14.5.a4. 색상 보강 사용 전후 비교](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-05-color_enhance.html#%EA%B7%B8%EB%A6%BC-9017145a4-%EC%83%89%EC%83%81-%EB%B3%B4%EA%B0%95-%EC%82%AC%EC%9A%A9-%EC%A0%84%ED%9B%84-%EB%B9%84%EA%B5%90)
 [![90-01-07-14-05-a4-before_n_after(windows)(ko)-label](https://github.com/wonder13662/gimp/assets/15767104/89c75c04-cf70-4a31-9484-e3487870aff9)]()
 
 #### [영상 90.1.7.14.5.a3. `색` → `자동` → `색상 보강` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-05-color_enhance.html#%EC%98%81%EC%83%81-9017145a3-%EC%83%89--%EC%9E%90%EB%8F%99--%EC%83%89%EC%83%81-%EB%B3%B4%EA%B0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
@@ -78,8 +78,8 @@
 
 ## 6. 레벨 자동조절(Auto Levels)
 ### 6-1. `색상` → `레벨`에서 자동조절 사용
-#### [그림 90.1.7.9.a1. `색` → `레벨`]()
-[![90-00-image_menu_bar-color-focus-level](https://github.com/wonder13662/gimp/assets/15767104/6b7630bd-f3bd-4c29-959d-98611857918d)]()
+#### [그림 90.1.7.9.a1. `색` → `레벨`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-09-levels.html#%EA%B7%B8%EB%A6%BC-90179a1-%EC%83%89--%EB%A0%88%EB%B2%A8)
+[![90-00-image_menu_bar-color-focus-level](https://github.com/wonder13662/gimp/assets/15767104/6b7630bd-f3bd-4c29-959d-98611857918d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-09-levels.html#%EA%B7%B8%EB%A6%BC-90179a1-%EC%83%89--%EB%A0%88%EB%B2%A8)
 
 이미지 메뉴에서 `색상` → `레벨`을 선택하면 도구 대화상자가 나타납니다. 
 

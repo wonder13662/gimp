@@ -1188,6 +1188,8 @@
 
 [90.4.71. 대비 증가(Stretch Contrast)](./90-04-71-stretch_contrast.md)
 
+[90.4.72. 레벨(Level)](./90-04-72-level.md)
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
