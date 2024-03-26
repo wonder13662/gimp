@@ -1,6 +1,9 @@
 # 90.1.7.9. 레벨(Levels)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+#### 그림 90.1.7.9.a1. `색` → `레벨`
+![90-00-image_menu_bar-color-focus-level](https://github.com/wonder13662/gimp/assets/15767104/6b7630bd-f3bd-4c29-959d-98611857918d)
+
+[10.1.3.1. 자동화 도구 - 그림 90.1.7.9.a1]()
 
 ***
 

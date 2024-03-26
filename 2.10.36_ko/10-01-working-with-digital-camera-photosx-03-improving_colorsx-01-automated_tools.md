@@ -63,20 +63,56 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e6033fa8-72c5-4643-ad8c-db1063f86e8f"></video>
 
 ## 5. 화이트 밸런스(White balance)
-#### [그림 90.1.7.14.2.a1. `색` → `자동` → `화이트 밸런스` (Windows)]()
-[![90-01-07-colorsx-01-auto(windows)-focus-white_balance](https://github.com/wonder13662/gimp/assets/15767104/8ad7c354-97b5-4702-9f3b-35d1c432424d)]()
+#### [그림 90.1.7.14.2.a1. `색` → `자동` → `화이트 밸런스` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-02-white_balance.html#%EA%B7%B8%EB%A6%BC-9017142a1-%EC%83%89--%EC%9E%90%EB%8F%99--%ED%99%94%EC%9D%B4%ED%8A%B8-%EB%B0%B8%EB%9F%B0%EC%8A%A4-windows)
+[![90-01-07-colorsx-01-auto(windows)-focus-white_balance](https://github.com/wonder13662/gimp/assets/15767104/8ad7c354-97b5-4702-9f3b-35d1c432424d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-02-white_balance.html#%EA%B7%B8%EB%A6%BC-9017142a1-%EC%83%89--%EC%9E%90%EB%8F%99--%ED%99%94%EC%9D%B4%ED%8A%B8-%EB%B0%B8%EB%9F%B0%EC%8A%A4-windows)
 
-[다른 운영체제와 언어의 `색` → `자동` → `화이트 밸런스` 확인하기]()
+[다른 운영체제와 언어의 `색` → `자동` → `화이트 밸런스` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-02-white_balance.html#%EA%B7%B8%EB%A6%BC-9017142a2-%EC%83%89--%EC%9E%90%EB%8F%99--%ED%99%94%EC%9D%B4%ED%8A%B8-%EB%B0%B8%EB%9F%B0%EC%8A%A4-mac)
 
 `화이트 밸런스(White balance)`는 거의 사용되지 않는 색을 제거해서 흰색이나 검정색이 부족한 이미지를 보기 좋게 만들어줍니다.
 
-#### [그림 90.1.7.14.2.a3. 화이트 밸런스 적용 전후 비교]()
-[![90-01-07-14-02-a3-comparing-label](https://github.com/wonder13662/gimp/assets/15767104/b4ae9544-94e5-45dd-b3d0-6224a6b90908)]()
+#### [그림 90.1.7.14.2.a3. 화이트 밸런스 적용 전후 비교](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-02-white_balance.html#%EA%B7%B8%EB%A6%BC-9017142a3-%ED%99%94%EC%9D%B4%ED%8A%B8-%EB%B0%B8%EB%9F%B0%EC%8A%A4-%EC%A0%81%EC%9A%A9-%EC%A0%84%ED%9B%84-%EB%B9%84%EA%B5%90)
+[![90-01-07-14-02-a3-comparing-label](https://github.com/wonder13662/gimp/assets/15767104/b4ae9544-94e5-45dd-b3d0-6224a6b90908)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-02-white_balance.html#%EA%B7%B8%EB%A6%BC-9017142a3-%ED%99%94%EC%9D%B4%ED%8A%B8-%EB%B0%B8%EB%9F%B0%EC%8A%A4-%EC%A0%81%EC%9A%A9-%EC%A0%84%ED%9B%84-%EB%B9%84%EA%B5%90)
 
-#### [영상 90.1.7.14.2.a4. `색` → `자동` → `화이트 밸런스` (Windows) (우리말)]()
+#### [영상 90.1.7.14.2.a4. `색` → `자동` → `화이트 밸런스` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-02-white_balance.html#%EC%98%81%EC%83%81-9017142a4-%EC%83%89--%EC%9E%90%EB%8F%99--%ED%99%94%EC%9D%B4%ED%8A%B8-%EB%B0%B8%EB%9F%B0%EC%8A%A4-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ce19f698-5f49-4fdd-8b6e-77eee91f7561"></video>
 
 ## 6. 레벨 자동조절(Auto Levels)
+### 6-1. `색상` → `레벨`에서 자동조절 사용
+#### [그림 90.1.7.9.a1. `색` → `레벨`]()
+[![90-00-image_menu_bar-color-focus-level](https://github.com/wonder13662/gimp/assets/15767104/6b7630bd-f3bd-4c29-959d-98611857918d)]()
+
+이미지 메뉴에서 `색상` → `레벨`을 선택하면 도구 대화상자가 나타납니다. 
+
+#### [그림 90.4.72.a111. `레벨` 대화상자 → `입력 레벨 자동화` (Windows) (우리말)]()
+[![그림 90 4 72 a101  `레벨` 대화상자 (Windows) (우리말)-focus-auto-input-levels](https://github.com/wonder13662/gimp/assets/15767104/a8e7e121-5c16-447c-a5b7-6e59f6993adc)]()
+
+이 대화상자의 아래쪽에 있는 `입력 레벨 자동화`을 클릭합니다. 결과에 대한 미리보기가 가능하며, 효과를 적용하려면 확인 버튼을 누릅니다. 만약 취소 버튼을 누르면 이미지는 이전 상태로 되돌아갑니다.
+
+#### [영상 90.4.72.a121. `레벨` 대화상자 → `입력 레벨 자동화` (Windows) (우리말)]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ec75e09d-a736-40d8-bb36-3d75857f61e1"></video>
+
+#### [영상 90.1.7.9.a2. `색` → `레벨` → `입력 레벨 자동화` (Windows) (우리말)]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ec75e09d-a736-40d8-bb36-3d75857f61e1"></video>
+
+### 6-2. `색상` → `레벨`에서 반자동조절 사용
+만약 이미지에서 완전하게 하얀색이거나 검정색인 부분이 있다면, 반자동 조정모드로 레벨 도구를 사용할 수 있습니다. 이는 밝기나 색상 조절에 좋은 방법입니다. 먼저 앞서 말한 레벨 도구를 불러옵니다. 그런 후에 레벨 대화상자의 아래쪽에 있는 스포이드 모양의 세 개의 아이콘을 찾습니다. 
+
+왼쪽 아이콘에 마우스를 가져가면 `모든 채널에 대한 검정색 점 고르기(Pick black point for all channels)`라고 설명이 나옵니다. 
+
+#### [그림 90.4.72.a131. `레벨` 대화상자 → 모든 채널에 대한 검정색 점 고르기(Pick black point for all channels) (Windows) (우리말)]()
+[![그림 90 4 72 a131](https://github.com/wonder13662/gimp/assets/15767104/31fbe106-2d71-4950-9e31-79b1181021d1)]()
+
+이것을 클릭한 뒤 이미지에서 완벽하게 검정색이라고 생각되는 부분을 클릭합니다. 
+
+이번에는 제일 오른쪽에 있는 `모든 채널에 대한 하얀색 점 고르기(Pick white point for all channels)`를 클릭한 후, 완벽하게 흰색이라고 생각되는 부분을 클릭하고 이미지가 변하는 것을 확인합니다. 
+
+#### [그림 90.4.72.a133. `레벨` 대화상자 → 모든 채널에 대한 하얀색 점 고르기(Pick white point for all channels) (Windows) (우리말)]()
+[![그림 90 4 72 a133](https://github.com/wonder13662/gimp/assets/15767104/5ceb437f-65dd-49a0-8de9-b6a8b067f97a)]()
+
+원하는 결과가 나왔다면 확인 버튼을 누르고, 그렇지 않다면 취소 버튼을 누릅니다. 아래 영상에서 전체 과정을 확인해보세요.
+
+#### [영상 90.4.72.a134. `레벨` 대화상자에서 검정색 점과 하얀색 점 고르기 (Windows) (우리말)]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/628b689d-52a0-459f-9e1e-87a9aa855a58"></video>
 
 ***
 
