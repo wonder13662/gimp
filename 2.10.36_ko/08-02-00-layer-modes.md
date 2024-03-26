@@ -53,6 +53,18 @@ GIMP(김프)는 38개의 레이어 모드가 있습니다. 이 38개의 레이�
 
 [8.2.1. 레이어 모드-Normal](./08-02-01-normal-layer-mode.md)
 
+[8.2.1.1. 일반(Normal)](./08-02-01-normal-layer-modex-01-normal.md)
+
+[8.2.1.2. 분해(Dissolve)](./08-02-01-normal-layer-modex-02-dissolve.md)
+
+[8.2.1.3. 색상 지우기(Color Erase)](./08-02-01-normal-layer-modex-03-color_erase.md)
+
+[8.2.1.4. 지우기(Erase)](./08-02-01-normal-layer-modex-04-erase.md)
+
+[8.2.1.5. 합치기(Merge)](./08-02-01-normal-layer-modex-05-merge.md)
+
+[8.2.1.6. 분할(Split)](./08-02-01-normal-layer-modex-06-split.md)
+
 [8.2.2. 레이어 모드-Lighten](./08-02-02-lighten-layer-mode.md)
 
 [8.2.3. 레이어 모드-Darken](./08-02-03-darken-layer-modes.md)

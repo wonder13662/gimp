@@ -1,0 +1,35 @@
+# 8.2.1.2. 분해(Dissolve)
+`분해(Dissolve)` 모드는 위쪽 레이어의 투명도가 0보다 크고 100보다 작은 "반투명 상태(partial transparency)"의 영역들의 픽셀에 무작위 패턴을 그려서 분해합니다. 분해된 픽셀 패턴은 결과 이미지에서 투명한 영역이 되어 아래쪽 이미지의 픽셀의 색상을 보여줍니다. 특히 이미지의 경계 부분에서 잘 볼 수 있습니다. 레이어 모드에서도 유용하지만, 칠하기 모드에서도 자주 쓰입니다. 완전히 투명(불투명도 0)이거나 완전히 불투명(불투명도 100)인 경우에는 `분해(Dissolve)` 모드의 결과는 볼 수 없습니다.
+
+아래 이미지는 불투명도가 100인 경우의 `분해(Dissolve)` 모드입니다. 레이어의 경계 부분 중 "반투명 상태"인 것만 `분해(Dissolve)` 모드에 영향을 받는 것을 확인할 수 있습니다.
+
+#### 그림 8.2.1.2.a1. 분해(Dissolve): 위쪽 레이어(마스크)의 불투명도(Opacity)가 50%
+![layer_mode-normal-01-dissolve_opacity_50](https://github.com/wonder13662/gimp/assets/15767104/70b18498-0d5b-4a3b-809b-7b4f2d3c4721)
+
+아래 이미지는 불투명도가 50인 경우의 `분해(Dissolve)` 모드입니다. `분해(Dissolve)` 모드의 영향이 투명 영역을 제외한 거의 모든 부분에서 확인할 수 있습니다.
+
+#### 그림 8.2.1.2.a2. 분해(Dissolve): 위쪽 레이어(마스크)의 불투명도(Opacity)가 100%
+![layer_mode-normal-01-dissolve_opacity_100](https://github.com/wonder13662/gimp/assets/15767104/2cc9e84b-baa0-47e2-a6c6-4af55ca3c997)
+
+아래 이미지는 위에서 설명한 픽셀을 무작위 분해한 모습을 확대한 것입니다.
+
+#### 그림 8.2.1.2.a3. 분해(Dissolve): 분해한 픽셀 패턴을 확대해서 본 모습
+![08-02-01-normal_layer_mode-dissolve-pixel_pattern](https://github.com/wonder13662/gimp/assets/15767104/1616fee9-7868-49c8-8b4b-1229fa202555)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 8.2.1.3. 색상 지우기(Color Erase)](./08-02-01-normal-layer-modex-03-color_erase.md)
+
+[⬅️ 이전: 8.2.1.1. 일반(Normal)](./08-02-01-normal-layer-modex-01-normal.md)
+
+[⬆️ 위: 8.2.1. 레이어 모드-Normal](./08-02-01-normal-layer-mode.md)
+
+[⬆️ 위: 8.2. 레이어 모드](./08-02-00-layer-modes.md)
+
+[⬆️ 위: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-concepts-layer-modes.html#layer-mode-dissolve)
