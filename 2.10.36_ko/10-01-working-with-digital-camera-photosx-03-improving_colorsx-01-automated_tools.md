@@ -49,20 +49,34 @@
 `대비 증가(Stretch Contrast)`는 빨강, 녹색, 파랑 채널에 독립적으로 작동합니다. 이 기능은 [컬러 캐스트](./19-glossaryx-color_cast.md)를 줄이는 데 효과적입니다.
 
 ## 4. HSV 대비 증가(Stretch Contrast HSV)
-#### [그림 90.1.7.14.4.a1. `색` → `자동` → `HSV 대비 증가` (Windows)]()
-[![90-01-07-colorsx-01-auto(windows)-focus-stretch_contrast_hsv](https://github.com/wonder13662/gimp/assets/15767104/f6f801fb-7a62-41e8-a6a2-dacbc4004850)]()
+#### [그림 90.1.7.14.4.a1. `색` → `자동` → `HSV 대비 증가` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-04-stretch_contrast_hsv.html#%EA%B7%B8%EB%A6%BC-9017144a1-%EC%83%89--%EC%9E%90%EB%8F%99--hsv-%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-windows)
+[![90-01-07-colorsx-01-auto(windows)-focus-stretch_contrast_hsv](https://github.com/wonder13662/gimp/assets/15767104/f6f801fb-7a62-41e8-a6a2-dacbc4004850)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-04-stretch_contrast_hsv.html#%EA%B7%B8%EB%A6%BC-9017144a1-%EC%83%89--%EC%9E%90%EB%8F%99--hsv-%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-windows)
 
-[다른 운영체제와 언어의 `색` → `자동` → `HSV 대비 증가` 확인하기]()
+[다른 운영체제와 언어의 `색` → `자동` → `HSV 대비 증가` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-04-stretch_contrast_hsv.html#%EA%B7%B8%EB%A6%BC-9017144a2-%EC%83%89--%EC%9E%90%EB%8F%99--hsv-%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-mac)
 
 `HSV 대비 증가(Stretch Contrast HSV)`는 `대비 증가(Stretch Contrast)`와 비슷하게 `HSV` 색상을 강화합니다. 단 채도(Saturation)는 그대로 유지합니다.
 
-#### [그림 90.1.7.14.4.a3. HSV 대비 증가 사용 전후 비교]()
-[![90-01-07-14-04-a3-comparing-label](https://github.com/wonder13662/gimp/assets/15767104/6d2d5b9c-6b22-4658-b93e-d59b28ad1ae8)]()
+#### [그림 90.1.7.14.4.a3. HSV 대비 증가 사용 전후 비교](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-04-stretch_contrast_hsv.html#%EA%B7%B8%EB%A6%BC-9017144a3-hsv-%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-%EC%82%AC%EC%9A%A9-%EC%A0%84%ED%9B%84-%EB%B9%84%EA%B5%90)
+[![90-01-07-14-04-a3-comparing-label](https://github.com/wonder13662/gimp/assets/15767104/6d2d5b9c-6b22-4658-b93e-d59b28ad1ae8)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-04-stretch_contrast_hsv.html#%EA%B7%B8%EB%A6%BC-9017144a3-hsv-%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-%EC%82%AC%EC%9A%A9-%EC%A0%84%ED%9B%84-%EB%B9%84%EA%B5%90)
 
-#### [영상 90.1.7.14.4.a4. `색` → `자동` → `HSV 대비 증가` (Windows) (우리말)]()
+#### [영상 90.1.7.14.4.a4. `색` → `자동` → `HSV 대비 증가` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-04-stretch_contrast_hsv.html#%EC%98%81%EC%83%81-9017144a4-%EC%83%89--%EC%9E%90%EB%8F%99--hsv-%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e6033fa8-72c5-4643-ad8c-db1063f86e8f"></video>
 
-## 5. 화이트 밸런스
+## 5. 화이트 밸런스(White balance)
+#### [그림 90.1.7.14.2.a1. `색` → `자동` → `화이트 밸런스` (Windows)]()
+[![90-01-07-colorsx-01-auto(windows)-focus-white_balance](https://github.com/wonder13662/gimp/assets/15767104/8ad7c354-97b5-4702-9f3b-35d1c432424d)]()
+
+[다른 운영체제와 언어의 `색` → `자동` → `화이트 밸런스` 확인하기]()
+
+`화이트 밸런스(White balance)`는 거의 사용되지 않는 색을 제거해서 흰색이나 검정색이 부족한 이미지를 보기 좋게 만들어줍니다.
+
+#### [그림 90.1.7.14.2.a3. 화이트 밸런스 적용 전후 비교]()
+[![90-01-07-14-02-a3-comparing-label](https://github.com/wonder13662/gimp/assets/15767104/b4ae9544-94e5-45dd-b3d0-6224a6b90908)]()
+
+#### [영상 90.1.7.14.2.a4. `색` → `자동` → `화이트 밸런스` (Windows) (우리말)]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ce19f698-5f49-4fdd-8b6e-77eee91f7561"></video>
+
+## 6. 레벨 자동조절(Auto Levels)
 
 ***
 
