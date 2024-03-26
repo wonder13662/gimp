@@ -118,9 +118,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 10.1.3.2. 노출 문제](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problems.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 10.1.3. 색상 보정](./10-01-working-with-digital-camera-photosx-03-improving_colors.md)
 
 [⬆️ 위: 10.1.3. 색상 보정](./10-01-working-with-digital-camera-photosx-03-improving_colors.md)
 
