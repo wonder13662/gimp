@@ -18,7 +18,7 @@
 
 [➡️ 다음: 90.1.7.14.2. 화이트 밸런스(White Balance)](./90-01-07-colorsx-14-autox-02-white_balance.md)
 
-[⬅️ 이전: ]()
+[⬅️ 이전: 90.1.7.14. 자동(Auto)](./90-01-07-colorsx-14-auto.md)
 
 [⬆️ 위: 90.1.7.14. 자동(Auto)](./90-01-07-colorsx-14-auto.md)
 
