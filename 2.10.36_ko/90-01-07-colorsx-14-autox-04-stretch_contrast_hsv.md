@@ -2,6 +2,8 @@
 #### 그림 90.1.7.14.4.a1. `색` → `자동` → `HSV 대비 증가` (Windows)
 ![90-01-07-colorsx-01-auto(windows)-focus-stretch_contrast_hsv](https://github.com/wonder13662/gimp/assets/15767104/f6f801fb-7a62-41e8-a6a2-dacbc4004850)
 
+[10.1.3.1. 자동화 도구 - 그림 90.1.7.14.4.a1](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-03-improving_colorsx-01-automated_tools.html#%EA%B7%B8%EB%A6%BC-9017144a1-%EC%83%89--%EC%9E%90%EB%8F%99--hsv-%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-windows)
+
 #### 그림 90.1.7.14.4.a2. `색` → `자동` → `HSV 대비 증가` (Mac)
 ![90-01-07-colorsx-01-auto(mac)(50%)-focus-stretch_contrast_hsv](https://github.com/wonder13662/gimp/assets/15767104/76c9f510-d09e-4141-803d-12d61a0a56f8)
 비 증가` (Mac)
@@ -9,8 +11,12 @@
 #### 그림 90.1.7.14.4.a3. HSV 대비 증가 사용 전후 비교
 ![90-01-07-14-04-a3-comparing-label](https://github.com/wonder13662/gimp/assets/15767104/6d2d5b9c-6b22-4658-b93e-d59b28ad1ae8)
 
+[10.1.3.1. 자동화 도구 - 그림 90.1.7.14.4.a3](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-03-improving_colorsx-01-automated_tools.html#%EA%B7%B8%EB%A6%BC-9017144a3-hsv-%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-%EC%82%AC%EC%9A%A9-%EC%A0%84%ED%9B%84-%EB%B9%84%EA%B5%90)
+
 #### 영상 90.1.7.14.4.a4. `색` → `자동` → `HSV 대비 증가` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e6033fa8-72c5-4643-ad8c-db1063f86e8f"></video>
+
+[10.1.3.1. 자동화 도구 - 영상 90.1.7.14.4.a4](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-03-improving_colorsx-01-automated_tools.html#%EC%98%81%EC%83%81-9017144a4-%EC%83%89--%EC%9E%90%EB%8F%99--hsv-%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 

@@ -25,7 +25,7 @@
 `색상 보강(Color Enhance)`은 레이어 색상의 밝기(Lightness)나 색조(Hue)를 변경하지 않고 채도(Saturation) 범위만 증가시킵니다. 그러므로 `색상 보강(Color Enhance)`은 그레이스케일 이미지에서 동작하지 않습니다.
 
 #### [그림 90.1.7.14.5.a4. 색상 보강 사용 전후 비교](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-05-color_enhance.html#%EA%B7%B8%EB%A6%BC-9017145a4-%EC%83%89%EC%83%81-%EB%B3%B4%EA%B0%95-%EC%82%AC%EC%9A%A9-%EC%A0%84%ED%9B%84-%EB%B9%84%EA%B5%90)
-[![90-01-07-14-05-a4-before_n_after(windows)(ko)-label](https://github.com/wonder13662/gimp/assets/15767104/89c75c04-cf70-4a31-9484-e3487870aff9)]()
+[![90-01-07-14-05-a4-before_n_after(windows)(ko)-label](https://github.com/wonder13662/gimp/assets/15767104/89c75c04-cf70-4a31-9484-e3487870aff9)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-05-color_enhance.html#%EA%B7%B8%EB%A6%BC-9017145a4-%EC%83%89%EC%83%81-%EB%B3%B4%EA%B0%95-%EC%82%AC%EC%9A%A9-%EC%A0%84%ED%9B%84-%EB%B9%84%EA%B5%90)
 
 #### [영상 90.1.7.14.5.a3. `색` → `자동` → `색상 보강` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-14-autox-05-color_enhance.html#%EC%98%81%EC%83%81-9017145a3-%EC%83%89--%EC%9E%90%EB%8F%99--%EC%83%89%EC%83%81-%EB%B3%B4%EA%B0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/995fa1b9-a38b-43c3-bd41-dbb7b056bd1b"></video>
@@ -83,15 +83,12 @@
 
 이미지 메뉴에서 `색상` → `레벨`을 선택하면 도구 대화상자가 나타납니다. 
 
-#### [그림 90.4.72.a111. `레벨` 대화상자 → `입력 레벨 자동화` (Windows) (우리말)]()
-[![그림 90 4 72 a101  `레벨` 대화상자 (Windows) (우리말)-focus-auto-input-levels](https://github.com/wonder13662/gimp/assets/15767104/a8e7e121-5c16-447c-a5b7-6e59f6993adc)]()
+#### [그림 90.4.72.a111. `레벨` 대화상자 → `입력 레벨 자동화` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-72-level.html#%EA%B7%B8%EB%A6%BC-90472a111-%EB%A0%88%EB%B2%A8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EC%9E%85%EB%A0%A5-%EB%A0%88%EB%B2%A8-%EC%9E%90%EB%8F%99%ED%99%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![그림 90 4 72 a101  `레벨` 대화상자 (Windows) (우리말)-focus-auto-input-levels](https://github.com/wonder13662/gimp/assets/15767104/a8e7e121-5c16-447c-a5b7-6e59f6993adc)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-72-level.html#%EA%B7%B8%EB%A6%BC-90472a111-%EB%A0%88%EB%B2%A8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EC%9E%85%EB%A0%A5-%EB%A0%88%EB%B2%A8-%EC%9E%90%EB%8F%99%ED%99%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 이 대화상자의 아래쪽에 있는 `입력 레벨 자동화`을 클릭합니다. 결과에 대한 미리보기가 가능하며, 효과를 적용하려면 확인 버튼을 누릅니다. 만약 취소 버튼을 누르면 이미지는 이전 상태로 되돌아갑니다.
 
-#### [영상 90.4.72.a121. `레벨` 대화상자 → `입력 레벨 자동화` (Windows) (우리말)]()
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ec75e09d-a736-40d8-bb36-3d75857f61e1"></video>
-
-#### [영상 90.1.7.9.a2. `색` → `레벨` → `입력 레벨 자동화` (Windows) (우리말)]()
+#### [영상 90.4.72.a121. `레벨` 대화상자 → `입력 레벨 자동화` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-72-level.html#%EC%98%81%EC%83%81-90472a121-%EB%A0%88%EB%B2%A8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EC%9E%85%EB%A0%A5-%EB%A0%88%EB%B2%A8-%EC%9E%90%EB%8F%99%ED%99%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ec75e09d-a736-40d8-bb36-3d75857f61e1"></video>
 
 ### 6-2. `색상` → `레벨`에서 반자동조절 사용
@@ -99,19 +96,19 @@
 
 왼쪽 아이콘에 마우스를 가져가면 `모든 채널에 대한 검정색 점 고르기(Pick black point for all channels)`라고 설명이 나옵니다. 
 
-#### [그림 90.4.72.a131. `레벨` 대화상자 → 모든 채널에 대한 검정색 점 고르기(Pick black point for all channels) (Windows) (우리말)]()
-[![그림 90 4 72 a131](https://github.com/wonder13662/gimp/assets/15767104/31fbe106-2d71-4950-9e31-79b1181021d1)]()
+#### [그림 90.4.72.a131. `레벨` 대화상자 → 모든 채널에 대한 검정색 점 고르기(Pick black point for all channels) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-72-level.html#%EA%B7%B8%EB%A6%BC-90472a131-%EB%A0%88%EB%B2%A8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EB%AA%A8%EB%93%A0-%EC%B1%84%EB%84%90%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B2%80%EC%A0%95%EC%83%89-%EC%A0%90-%EA%B3%A0%EB%A5%B4%EA%B8%B0pick-black-point-for-all-channels-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![그림 90 4 72 a131](https://github.com/wonder13662/gimp/assets/15767104/31fbe106-2d71-4950-9e31-79b1181021d1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-72-level.html#%EA%B7%B8%EB%A6%BC-90472a131-%EB%A0%88%EB%B2%A8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EB%AA%A8%EB%93%A0-%EC%B1%84%EB%84%90%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B2%80%EC%A0%95%EC%83%89-%EC%A0%90-%EA%B3%A0%EB%A5%B4%EA%B8%B0pick-black-point-for-all-channels-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 이것을 클릭한 뒤 이미지에서 완벽하게 검정색이라고 생각되는 부분을 클릭합니다. 
 
 이번에는 제일 오른쪽에 있는 `모든 채널에 대한 하얀색 점 고르기(Pick white point for all channels)`를 클릭한 후, 완벽하게 흰색이라고 생각되는 부분을 클릭하고 이미지가 변하는 것을 확인합니다. 
 
-#### [그림 90.4.72.a133. `레벨` 대화상자 → 모든 채널에 대한 하얀색 점 고르기(Pick white point for all channels) (Windows) (우리말)]()
-[![그림 90 4 72 a133](https://github.com/wonder13662/gimp/assets/15767104/5ceb437f-65dd-49a0-8de9-b6a8b067f97a)]()
+#### [그림 90.4.72.a133. `레벨` 대화상자 → 모든 채널에 대한 하얀색 점 고르기(Pick white point for all channels) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-72-level.html#%EA%B7%B8%EB%A6%BC-90472a133-%EB%A0%88%EB%B2%A8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EB%AA%A8%EB%93%A0-%EC%B1%84%EB%84%90%EC%97%90-%EB%8C%80%ED%95%9C-%ED%95%98%EC%96%80%EC%83%89-%EC%A0%90-%EA%B3%A0%EB%A5%B4%EA%B8%B0pick-white-point-for-all-channels-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![그림 90 4 72 a133](https://github.com/wonder13662/gimp/assets/15767104/5ceb437f-65dd-49a0-8de9-b6a8b067f97a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-72-level.html#%EA%B7%B8%EB%A6%BC-90472a133-%EB%A0%88%EB%B2%A8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EB%AA%A8%EB%93%A0-%EC%B1%84%EB%84%90%EC%97%90-%EB%8C%80%ED%95%9C-%ED%95%98%EC%96%80%EC%83%89-%EC%A0%90-%EA%B3%A0%EB%A5%B4%EA%B8%B0pick-white-point-for-all-channels-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 원하는 결과가 나왔다면 확인 버튼을 누르고, 그렇지 않다면 취소 버튼을 누릅니다. 아래 영상에서 전체 과정을 확인해보세요.
 
-#### [영상 90.4.72.a134. `레벨` 대화상자에서 검정색 점과 하얀색 점 고르기 (Windows) (우리말)]()
+#### [영상 90.4.72.a134. `레벨` 대화상자에서 검정색 점과 하얀색 점 고르기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-72-level.html#%EC%98%81%EC%83%81-90472a134-%EB%A0%88%EB%B2%A8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%EA%B2%80%EC%A0%95%EC%83%89-%EC%A0%90%EA%B3%BC-%ED%95%98%EC%96%80%EC%83%89-%EC%A0%90-%EA%B3%A0%EB%A5%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/628b689d-52a0-459f-9e1e-87a9aa855a58"></video>
 
 ***
