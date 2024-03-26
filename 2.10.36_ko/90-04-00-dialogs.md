@@ -356,6 +356,14 @@
 #### 그림 90.4.69.a101. `텍스트 파일 열기` 대화상자 (Windows) (우리말)
 ![90-04-69-a101-open_text_file(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/6b8151ff-4bc0-4051-9765-bb75d969f807)
 
+### [90.4.70. 레이어 컨텍스트 메뉴(Layer Dialog Context Menu)](./90-04-70-layer_dialog_context_menu.md)
+#### 그림 90.4.70.a101. `레이어 컨텍스트 메뉴` (Windows) (우리말)
+![그림 90 4 70 a101  `레이어 컨텍스트 메뉴` (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/cb29bd7d-f9d3-4b67-a373-7769ec978854)
+
+### [90.4.71. 대비 증가(Stretch Contrast)](./90-04-71-stretch_contrast.md)
+#### 그림 90.4.71.a101. `대비 증가` 대화상자 (Windows) (우리말)
+![그림 90 4 71 a101  `대비 증가` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/a56a1a74-ae4f-478e-a979-8a52d7bc7241)
+
 ***
 
 ## 공통 기능

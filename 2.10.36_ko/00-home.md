@@ -1650,6 +1650,10 @@
 
 [90.4.69. 텍스트 파일 열기(Open Text File)](./90-04-69-open_text_file.md)
 
+[90.4.70. 레이어 컨텍스트 메뉴(Layer Dialog Context Menu)](./90-04-70-layer_dialog_context_menu.md)
+
+[90.4.71. 대비 증가(Stretch Contrast)](./90-04-71-stretch_contrast.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
