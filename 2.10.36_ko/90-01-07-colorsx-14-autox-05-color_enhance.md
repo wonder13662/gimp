@@ -10,7 +10,7 @@
 #### 영상 90.1.7.14.5.a3. `색` → `자동` → `색상 보강` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/995fa1b9-a38b-43c3-bd41-dbb7b056bd1b"></video>
 
-[10.1.3.1. 자동화 도구 - 영상 90.1.7.14.5.a3](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-03-improving_colorsx-01-automated_tools.html#%EC%98%81%EC%83%81-9017141a3-%EC%83%89--%EC%9E%90%EB%8F%99--%ED%8F%89%EC%A4%80%ED%99%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[10.1.3.1. 자동화 도구 - 영상 90.1.7.14.5.a3](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-03-improving_colorsx-01-automated_tools.html#%EC%98%81%EC%83%81-9017145a3-%EC%83%89--%EC%9E%90%EB%8F%99--%EC%83%89%EC%83%81-%EB%B3%B4%EA%B0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.1.7.14.5.a4. 색상 보강 사용 전후 비교
 ![90-01-07-14-05-a4-before_n_after(windows)(ko)-label](https://github.com/wonder13662/gimp/assets/15767104/89c75c04-cf70-4a31-9484-e3487870aff9)
