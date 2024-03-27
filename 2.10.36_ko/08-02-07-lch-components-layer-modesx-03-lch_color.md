@@ -1,0 +1,39 @@
+## 8.2.7.3. LCh Color(LCh Color)
+#### 그림 8.2.7.3.a30. LCh Color(LCh Color)
+![08-02-07-layer_mode-lch_component-03-lch_color](https://github.com/wonder13662/gimp/assets/15767104/20ce38dd-51dd-4620-b5b0-001d7f5d5fbc)
+
+`LCh Color(LCh Color)` 모드는 위쪽 레이어의 채도(Chroma), 색상(Hue) 그리고 아래쪽 레이어의 밝기(Lightness)를 합쳐 결과 이미지를 만듭니다.
+
+|LCh 값|대상 레이어|
+|---|---|
+|밝기(Lightness)|아래쪽 레이어|
+|**채도(Chroma)**|**위쪽 레이어**|
+|**색상(Hue)**|**위쪽 레이어**|
+
+`LCh Color(LCh Color)` 모드는 [HSL 색상(HSL Color)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-06-hsv-components-layer-modes.html#3-hsl-%EC%83%89%EC%83%81hsl-color)와 비슷하게 동작합니다. 하지만 `LCh Color(LCh Color)` 모드는 [HSL 색상(HSL Color)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-06-hsv-components-layer-modes.html#3-hsl-%EC%83%89%EC%83%81hsl-color)보다 좀 더 어둡습니다. 아래 영상에서 확인해보세요.
+
+#### 영상 8.2.7.3.a31. `LCh Color(LCh Color)`로 대상의 색깔 바꾸기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6cb9a75d-3faa-4db0-b849-2c681cb82b11"></video>
+
+#### 영상 8.2.7.3.a32. `LCh Color(LCh Color)`와 `HSL 색상(HSL Color)` 비교하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1a6d68ce-8e83-40db-9edb-ed9d0999ffe8"></video>
+
+`LCh Color(LCh Color)` 모드를 활용한 예로 [A tutorial on GIMP's very awesome LCH Blend Modes](https://ninedegreesbelow.com/photography/gimp-lch-blend-modes.html)를 참고해주세요.
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 8.2.7.4. LCh 밝기(LCh Lightness)](./08-02-07-lch-components-layer-modesx-04-lch_lightness.md)
+
+[⬅️ 이전: 8.2.7.2. LCh 크로마(LCh Chroma)](./08-02-07-lch-components-layer-modesx-02-lch_chroma.md)
+
+[⬆️ 위: 8.2.7. 레이어 모드-LCh components](./08-02-07-lch-components-layer-modes.md)
+
+[⬆️ 위: 8.2. 레이어 모드](./08-02-00-layer-modes.md)
+
+[⬆️ 위: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/layer-mode-group-lch.html#layer-mode-lch-color)
