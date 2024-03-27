@@ -16,7 +16,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.72. 레벨(Level)](./90-04-72-level.md)
 
 [⬅️ 이전: 90.4.70. 레이어 컨텍스트 메뉴(Layer Dialog Context Menu)](./90-04-70-layer_dialog_context_menu.md)
 
