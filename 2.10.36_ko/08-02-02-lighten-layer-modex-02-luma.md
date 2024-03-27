@@ -16,7 +16,7 @@
 
 `Luma`는 사람이 인식할 수 있는 범위 안에서의 휘도입니다.
 
-[8.2.2.2. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 방정식](./08-02-02-lighten-layer-modex-02-luma_mode_equation.md)에서 `휘도가 밝은 색만(Luma/Luminance lighten only)` 모드의 예제를 확인할 수 있습니다.
+[8.2.2.2.1. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 방정식](./08-02-02-lighten-layer-modex-02-lumax-01-equation.md)에서 `휘도가 밝은 색만(Luma/Luminance lighten only)` 모드의 예제를 확인할 수 있습니다.
 
 ***
 
