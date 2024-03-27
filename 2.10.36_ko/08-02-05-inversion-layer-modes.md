@@ -96,7 +96,7 @@ RGB 결과값 = (256 x 위쪽 레이어 RGB 값) / (아래쪽 레이어 RGB 값 
 ## 다른 페이지로 가기
 [➡️ 다음: 8.2.6. 레이어 모드-HSV components](./08-02-06-hsv-components-layer-modes.md)
 
-[⬅️ 이전: 8.2.4. 레이어 모드-Contrast](./08-02-04-contrast-layer-modes.md)
+[⬅️ 이전: 8.2.4. 레이어 모드-대조(Contrast)](./08-02-04-contrast-layer-modes.md)
 
 [⬆️ 위: 8.2. 레이어 모드](./08-02-00-layer-modes.md)
 

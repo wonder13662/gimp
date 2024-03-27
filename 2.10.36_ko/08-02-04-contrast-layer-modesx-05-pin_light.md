@@ -1,0 +1,28 @@
+# 8.2.4.5. 핀 조명(Pin light)
+#### 그림 8.2.4.5.a1. 핀 조명(Pin light)
+![08-02-04-layer_mode-contrast-05-pin_light](https://github.com/wonder13662/gimp/assets/15767104/1b71a5bf-699b-4f08-86fc-c94ed930f362)
+
+`핀 조명(Pin light)` 모드는 픽셀의 값이 중간값보다 밝으면 [밝은 색만(Lighten only)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-mode.html#1-%EB%B0%9D%EC%9D%80-%EC%83%89%EB%A7%8Clighten-only)를 적용해서 밝은 부분의 대조를 강하게 만듭니다. 반대로 픽셀의 값이 중간값보다 어두우면 [어두운 색만(Darken only)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-03-darken-layer-modes.html#1-%EC%96%B4%EB%91%90%EC%9A%B4-%EC%83%89%EB%A7%8Cdarken-only)을 적용해서 어두운 부분의 대조를 강하게 만듭니다.
+
+아래 영상을 확인해보면 위쪽의 흑백 그라디언트 레이어가 `핀 조명(Pin light)` 모드로 바꿀 때에 아래 레이어의 밝은 부분과 어두운 부분에 영향을 미치는 것을 확인할 수 있습니다.
+
+#### 영상 8.2.4.5.a2. 핀 조명(Pin light) 사용 예시 - 위쪽 레이어(그라디언트)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/350df6a2-2d0d-4a03-b7dc-6d25d1b4e509"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 8.2.4.6. 선형 조명(Linear light)](./08-02-04-contrast-layer-modesx-06-linear_light.md)
+
+[⬅️ 이전: 8.2.4.4. 은은한 조명(Vivid light)](./08-02-04-contrast-layer-modesx-04-vivid_light.md)
+
+[⬆️ 위: 8.2.4. 레이어 모드-대조(Contrast)](./08-02-04-contrast-layer-modes.md)
+
+[⬆️ 위: 8.2. 레이어 모드](./08-02-00-layer-modes.md)
+
+[⬆️ 위: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/layer-mode-group-contrast.html#layer-mode-pin-light)

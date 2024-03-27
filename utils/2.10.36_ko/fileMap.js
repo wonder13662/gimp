@@ -531,7 +531,7 @@ module.exports = {
       [
         '08-02-04-contrast-layer-modes.md', 
         '8.2.4. Contrast layer modes',
-        '8.2.4. 레이어 모드-Contrast'
+        '8.2.4. 레이어 모드-대조(Contrast)'
       ],
       [
         '08-02-05-inversion-layer-modes.md', 
