@@ -1192,7 +1192,7 @@
 
 [90.4.73. 명도-대비(Brightness-Contrast)](./90-04-73-brightness_contrast.md)
 
-[90.4.73. 명도-대비(Brightness-Contrast)](./90-04-73-brightness_contrast.md)
+[90.4.74. 커브(Curves)](./90-04-74-curves.md)
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
