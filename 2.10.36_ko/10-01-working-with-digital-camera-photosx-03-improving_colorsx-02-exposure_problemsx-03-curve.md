@@ -2,7 +2,7 @@
 `커브(Curves)` 도구를 사용해서 노출 문제를 해결할 수 있습니다. `커브(Curves)` 도구는 클릭, 드래그로 곡선을 움직여서 밝기의 입력과 출력 레벨을 조정할 수 있습니다. `커브(Curves)` 도구는 `명도/대비` 도구, `레벨` 도구로 만들 수 있는 효과들을 모두 만들 수 있으며, 심지어 더 나은 기능을 갖고 있습니다. 자세한 설명은 [16.8.11. 커브(Curves)](./16-08-11-curves.md)을 참고해주세요.
 
 #### [그림 90.1.7.10.a1. `색` → `커브`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-10-curves.html#%EA%B7%B8%EB%A6%BC-901710a1-%EC%83%89--%EC%BB%A4%EB%B8%8C)
-[![90-00-image_menu_bar-color-focus-curves](https://github.com/wonder13662/gimp/assets/15767104/ed25c24a-469b-4589-bad6-fe663acf08a6)]()
+[![90-00-image_menu_bar-color-focus-curves](https://github.com/wonder13662/gimp/assets/15767104/ed25c24a-469b-4589-bad6-fe663acf08a6)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-10-curves.html#%EA%B7%B8%EB%A6%BC-901710a1-%EC%83%89--%EC%BB%A4%EB%B8%8C)
 
 #### [그림 90.4.74.a101. `커브` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-74-curves.html#%EA%B7%B8%EB%A6%BC-90474a101-%EC%BB%A4%EB%B8%8C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![그림 90 4 74 a101  `커브` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/ad31fe00-27fe-459a-9fd9-e02f454a0fe1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-74-curves.html#%EA%B7%B8%EB%A6%BC-90474a101-%EC%BB%A4%EB%B8%8C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
