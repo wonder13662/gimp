@@ -536,7 +536,7 @@ module.exports = {
       [
         '08-02-05-inversion-layer-modes.md', 
         '8.2.5. Inversion layer modes',
-        '8.2.5. 레이어 모드-Inversion'
+        '8.2.5. 레이어 모드-반전(Inversion)'
       ],
       [
         '08-02-06-hsv-components-layer-modes.md', 
