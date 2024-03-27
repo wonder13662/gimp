@@ -21,7 +21,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 8.2.5. 레이어 모드-Inversion](./08-02-05-inversion-layer-modes.md)
+[➡️ 다음: 8.2.4.1. 덧씌우기(Overlay)](./08-02-04-contrast-layer-modesx-01-overlay.md)
 
 [⬅️ 이전: 8.2.3. 레이어 모드-어두움(Darken)](./08-02-03-darken-layer-modes.md)
 
