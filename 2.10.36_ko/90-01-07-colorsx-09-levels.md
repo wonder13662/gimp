@@ -5,10 +5,12 @@
 
 [10.1.3.1. 자동화 도구 - 그림 90.1.7.9.a1](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-03-improving_colorsx-01-automated_tools.html#%EA%B7%B8%EB%A6%BC-90179a1-%EC%83%89--%EB%A0%88%EB%B2%A8)
 
-[10.1.3.2.2. 레벨 도구 - 그림 90.1.7.9.a1]()
+[10.1.3.2.2. 레벨 도구 - 그림 90.1.7.9.a1](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problemsx-02-level.html#%EA%B7%B8%EB%A6%BC-90179a1-%EC%83%89--%EB%A0%88%EB%B2%A8)
 
 #### 영상 90.1.7.9.a2. `색` → `레벨` → `레벨` 대화상자: 슬라이더 조정 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/10213bb2-5c80-4ebd-8964-c6128ad89c3e"></video>
+
+[10.1.3.2.2. 레벨 도구 - 영상 90.1.7.9.a2](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problemsx-02-level.html#%EC%98%81%EC%83%81-90179a2-%EC%83%89--%EB%A0%88%EB%B2%A8--%EB%A0%88%EB%B2%A8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%8D%94-%EC%A1%B0%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 
