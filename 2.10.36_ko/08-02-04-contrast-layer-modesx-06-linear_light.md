@@ -2,7 +2,7 @@
 #### 그림 8.2.4.6.a1. 선형 조명(Linear light)
 ![08-02-04-layer_mode-contrast-06-linear_light](https://github.com/wonder13662/gimp/assets/15767104/8c237518-856d-499e-80b1-5a636b0413cb)
 
-`선형 조명(Linear light)` 모드는 픽셀의 값이 중간값보다 밝으면 [닷지(Dodge) 모드](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-mode.html#4-%EB%8B%B7%EC%A7%80dodge)를 적용해서 밝은 부분의 대조를 강하게 만듭니다. 반대로 픽셀의 값이 중간값보다 어두우면 [번(Burn) 모드](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-03-darken-layer-modes.html#4-%EB%B2%88burn)을 적용해서 어두운 부분의 대조를 강하게 만듭니다. `선형 조명(Linear light)` 모드는 [은은한 조명(Vivid light) 모드](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-04-contrast-layer-modes.html#4-%EC%9D%80%EC%9D%80%ED%95%9C-%EC%A1%B0%EB%AA%85vivid-light)와 같은 동작을 하지만, 대조를 하는 정도가 살짝 덜합니다.
+`선형 조명(Linear light)` 모드는 픽셀의 값이 중간값보다 밝으면 [닷지(Dodge)](./08-02-02-lighten-layer-modex-04-dodge.md) 모드를 적용해서 밝은 부분의 대조를 강하게 만듭니다. 반대로 픽셀의 값이 중간값보다 어두우면 [번(Burn)](./08-02-03-darken-layer-modesx-04-burn.md) 모드를 적용해서 어두운 부분의 대조를 강하게 만듭니다. `선형 조명(Linear light)` 모드는 [은은한 조명(Vivid light)](./08-02-04-contrast-layer-modesx-04-vivid_light.md) 모드와 같은 동작을 하지만, 대조를 하는 정도가 살짝 덜합니다.
 
 ***
 
