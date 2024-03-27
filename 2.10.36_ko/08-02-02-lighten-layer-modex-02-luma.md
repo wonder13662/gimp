@@ -4,7 +4,7 @@
 #### 그림 8.2.2.2.a1. 휘도가 밝은 색만(Luma/Luminance lighten only)
 ![layer_mode-lighten-02-luma_luminance_lighten_only](https://github.com/wonder13662/gimp/assets/15767104/dd263715-e508-42e1-a75f-3781b744faa7)
 
-[완전히 검은색 레이어](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-modex-02-luma_mode_equation.html#2-3-%EC%84%B8%EB%B2%88%EC%A7%B8-%EC%98%88%EC%A0%9C---%EC%95%84%EB%9E%98%EC%AA%BD-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%EA%B2%80%EC%9D%80%EC%83%89)는 결과 이미지에 영향을 주지 않습니다. [완전히 하얀색 레이어](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-modex-02-luma_mode_equation.html#2-4-%EB%84%A4%EB%B2%88%EC%A7%B8-%EC%98%88%EC%A0%9C---%EC%95%84%EB%9E%98%EC%AA%BD-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%ED%95%98%EC%96%80%EC%83%89)는 결과 이미지를 하얀색 이미지로 만들어 버립니다. 
+[완전히 검은색 레이어](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-modex-02-lumax-01-equation.html#2-3-%EC%84%B8%EB%B2%88%EC%A7%B8-%EC%98%88%EC%A0%9C---%EC%95%84%EB%9E%98%EC%AA%BD-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%EA%B2%80%EC%9D%80%EC%83%89)는 결과 이미지에 영향을 주지 않습니다. [완전히 하얀색 레이어](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-modex-02-lumax-01-equation.html#2-4-%EB%84%A4%EB%B2%88%EC%A7%B8-%EC%98%88%EC%A0%9C---%EC%95%84%EB%9E%98%EC%AA%BD-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%ED%95%98%EC%96%80%EC%83%89)는 결과 이미지를 하얀색 이미지로 만들어 버립니다. 
 
 #### 영상 8.2.2.2.a2. 휘도가 밝은 색만(Luma/Luminance lighten only): 위쪽 레이어가 검정색 또는 하얀색
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/79601a9a-5922-4e58-8d3a-d020fd08eefb"></video>
