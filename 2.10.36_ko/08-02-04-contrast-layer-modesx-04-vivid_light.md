@@ -2,7 +2,7 @@
 #### 그림 8.2.4.4.a1. 은은한 조명(Vivid light)
 ![08-02-04-layer_mode-contrast-04-vivid_light](https://github.com/wonder13662/gimp/assets/15767104/858763f5-db0d-4246-8de3-ae54d8dd4e3a)
 
-`은은한 조명(Vivid light)` 모드는 픽셀의 값이 중간값보다 밝으면 [닷지(Dodge)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-mode.html#4-%EB%8B%B7%EC%A7%80dodge)를 적용해서 밝은 부분의 대조를 강하게 만듭니다. 반대로 픽셀의 값이 중간값보다 어두우면 [번(Burn)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-03-darken-layer-modes.html#4-%EB%B2%88burn)을 적용해서 어두운 부분의 대조를 강하게 만듭니다.
+`은은한 조명(Vivid light)` 모드는 픽셀의 값이 중간값보다 밝으면 [닷지(Dodge)](./08-02-02-lighten-layer-modex-04-dodge.md)를 적용해서 밝은 부분의 대조를 강하게 만듭니다. 반대로 픽셀의 값이 중간값보다 어두우면 [번(Burn)](./08-02-03-darken-layer-modesx-04-burn.md)을 적용해서 어두운 부분의 대조를 강하게 만듭니다.
 
 ***
 
