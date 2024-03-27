@@ -1192,6 +1192,8 @@
 
 [90.4.73. 명도-대비(Brightness-Contrast)](./90-04-73-brightness_contrast.md)
 
+[90.4.73. 명도-대비(Brightness-Contrast)](./90-04-73-brightness_contrast.md)
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

@@ -372,6 +372,10 @@
 #### 그림 90.4.73.a101. `명도-대비` 대화상자 (Windows) (우리말)
 ![90-04-73-a101](https://github.com/wonder13662/gimp/assets/15767104/03903513-f3f8-4bb0-a666-31e6675ce148)
 
+### [90.4.73. 명도-대비(Brightness-Contrast)](./90-04-73-brightness_contrast.md)
+#### 그림 90.4.74.a101. `커브` 대화상자 (Windows) (우리말)
+![그림 90 4 74 a101  `커브` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/ad31fe00-27fe-459a-9fd9-e02f454a0fe1)
+
 ***
 
 ## 공통 기능
