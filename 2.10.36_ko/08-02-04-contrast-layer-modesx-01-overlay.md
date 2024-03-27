@@ -2,7 +2,7 @@
 #### 그림 8.2.4.1.a1. 덧씌우기(Overlay)
 ![08-02-04-layer_mode-contrast-01-overylay](https://github.com/wonder13662/gimp/assets/15767104/9bebd04f-79a3-4588-bc22-7f058bf19732)
 
-`덧씌우기(Overlay)` 모드는 밝은 픽셀은 더 밝게, 어두운 픽셀은 더 어둡게 만들어 줍니다. `덧씌우기(Overlay)` 모드는 [곱하기(Multiply)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-03-darken-layer-modes.html#3-%EA%B3%B1%ED%95%98%EA%B8%B0multiply) 모드와 [화면(Screen)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-mode.html#3-%ED%99%94%EB%A9%B4screen) 모드를 합친 것입니다.
+`덧씌우기(Overlay)` 모드는 밝은 픽셀은 더 밝게, 어두운 픽셀은 더 어둡게 만들어 줍니다. `덧씌우기(Overlay)` 모드는 [곱하기(Multiply)](./08-02-03-darken-layer-modesx-03-multiply.md) 모드와 [화면(Screen)](./08-02-02-lighten-layer-modex-03-screen.md) 모드를 합친 것입니다.
 
 ***
 
