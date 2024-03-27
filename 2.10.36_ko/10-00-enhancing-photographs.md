@@ -24,7 +24,7 @@
 
 [10.1.3.2.2. 레벨 도구](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problemsx-02-level.md)
 
-[10.1.3.2.3. 곡선 도구](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problemsx-03-curve.md)
+[10.1.3.2.3. 커브 도구](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problemsx-03-curve.md)
 
 [10.1.3.2.4. 레이어 모드 - 곱하기(Multiply)](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problemsx-04-layer_mode_multiply.md)
 

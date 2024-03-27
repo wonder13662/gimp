@@ -13,7 +13,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 10.1.3.2.3. 곡선 도구](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problemsx-03-curve.md)
+[➡️ 다음: 10.1.3.2.3. 커브 도구](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problemsx-03-curve.md)
 
 [⬅️ 이전: 10.1.3.2.1. 명도/대비 도구](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problemsx-01-brightness_contrast.md)
 
