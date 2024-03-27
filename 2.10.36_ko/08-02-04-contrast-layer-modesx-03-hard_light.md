@@ -2,7 +2,7 @@
 #### 그림 8.2.4.3.a1. 강한 조명(Hard light)
 ![08-02-04-layer_mode-contrast-03-hard_light](https://github.com/wonder13662/gimp/assets/15767104/3121fc44-fd8a-400c-aecd-b5a353125dd2)
 
-`강한 조명(Hard light)` 모드는 픽셀의 최대값의 절반 미만(RGB255의 경우, 128 미만)이라면 더 어둡게 만듭니다. 반대로 픽셀의 최대값의 절반 초과(RGB255의 경우, 128 초과)라면 더 밝게 만듭니다. `강한 조명(Hard light)` 모드는 [곱하기(Multiply)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-03-darken-layer-modes.html#3-%EA%B3%B1%ED%95%98%EA%B8%B0multiply) 모드와 [화면(Screen)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-mode.html#3-%ED%99%94%EB%A9%B4screen) 모드를 조합해 사용합니다. `강한 조명(Hard light)` 모드를 2개의 사진을 조합해 더 밝은 색상과 예리한 경계를 얻을 때 사용할 수 있습니다.
+`강한 조명(Hard light)` 모드는 픽셀의 최대값의 절반 미만(RGB255의 경우, 128 미만)이라면 더 어둡게 만듭니다. 반대로 픽셀의 최대값의 절반 초과(RGB255의 경우, 128 초과)라면 더 밝게 만듭니다. `강한 조명(Hard light)` 모드는 [곱하기(Multiply)](./08-02-03-darken-layer-modesx-03-multiply.md) 모드와 [화면(Screen)](./08-02-02-lighten-layer-modex-03-screen.md) 모드를 조합해 사용합니다. `강한 조명(Hard light)` 모드를 2개의 사진을 조합해 더 밝은 색상과 예리한 경계를 얻을 때 사용할 수 있습니다.
 
 아래 영상을 확인해보면 위쪽의 흑백 그라디언트 레이어가 `강한 조명(Hard light)` 모드로 바꿀 때에 아래 레이어의 밝은 부분과 어두운 부분에 영향을 미치는 것을 확인할 수 있습니다.
 
