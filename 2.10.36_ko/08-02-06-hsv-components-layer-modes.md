@@ -1,6 +1,10 @@
 # 8.2.6. 레이어 모드-HSV components
 `HSV` 레이어 모드는 `HSV` 컬러 모델을 사용합니다.
 
+***
+
+## 하위 페이지
+
 [8.2.6.1. HSV 색상(HSV Hue)](./08-02-06-hsv-components-layer-modesx-01-hsv_hue.md)
 
 [8.2.6.2. HSV 채도(HSV Saturation)](./08-02-06-hsv-components-layer-modesx-02-hsv_saturation.md)
@@ -8,10 +12,6 @@
 [8.2.6.3. HSL 색상(HSL Color)](./08-02-06-hsv-components-layer-modesx-03-hsl_color.md)
 
 [8.2.6.4. HSV 명도(HSV Value)](./08-02-06-hsv-components-layer-modesx-04-hsv_value.md)
-
-***
-
-## 하위 페이지
 
 ***
 
