@@ -1,12 +1,12 @@
 # 10.1.3.2.2. 레벨 도구
 `레벨` 도구를 사용해서 노출 문제를 해결할 수 있습니다.
 
-#### [그림 90.1.7.9.a1. `색` → `레벨`]()
-[![90-00-image_menu_bar-color-focus-level](https://github.com/wonder13662/gimp/assets/15767104/6b7630bd-f3bd-4c29-959d-98611857918d)]()
+#### [그림 90.1.7.9.a1. `색` → `레벨`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-09-levels.html#%EA%B7%B8%EB%A6%BC-90179a1-%EC%83%89--%EB%A0%88%EB%B2%A8)
+[![90-00-image_menu_bar-color-focus-level](https://github.com/wonder13662/gimp/assets/15767104/6b7630bd-f3bd-4c29-959d-98611857918d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-09-levels.html#%EA%B7%B8%EB%A6%BC-90179a1-%EC%83%89--%EB%A0%88%EB%B2%A8)
 
 `레벨` 도구의 대화상자의 "입력 레벨"의 그래프의 아래 쪽의 세 개의 삼각형 슬라이더를 사용합니다. 세 개의 슬라이더를 움직여보면서 이미지가 어떻게 변하는지 직접 확인해보세요. 자세한 설명은 [16.8.10. 레벨](./16-08-10-levels.md)을 참고해주세요.
 
-#### [영상 90.1.7.9.a2. `색` → `레벨` → `레벨` 대화상자: 슬라이더 조정 (Windows) (우리말)]()
+#### [영상 90.1.7.9.a2. `색` → `레벨` → `레벨` 대화상자: 슬라이더 조정 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-09-levels.html#%EC%98%81%EC%83%81-90179a2-%EC%83%89--%EB%A0%88%EB%B2%A8--%EB%A0%88%EB%B2%A8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%8D%94-%EC%A1%B0%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/10213bb2-5c80-4ebd-8964-c6128ad89c3e"></video>
 
 ***
