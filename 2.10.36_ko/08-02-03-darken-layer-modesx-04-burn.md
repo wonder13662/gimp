@@ -14,9 +14,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 8.2.3.5. 선형적 번(Linear burn)](./08-02-03-darken-layer-modesx-05-linear_burn.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 8.2.3.3. 곱하기(Multiply)](./08-02-03-darken-layer-modesx-03-multiply.md)
 
 [⬆️ 위: 8.2.3. 레이어 모드-어두움(Darken)](./08-02-03-darken-layer-modes.md)
 

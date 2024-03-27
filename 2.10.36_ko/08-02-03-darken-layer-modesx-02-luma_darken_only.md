@@ -15,9 +15,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 8.2.3.3. 곱하기(Multiply)](./08-02-03-darken-layer-modesx-03-multiply.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 8.2.3.1. 어두운 색만(Darken only)](./08-02-03-darken-layer-modesx-01-darken_only.md)
 
 [⬆️ 위: 8.2.3. 레이어 모드-어두움(Darken)](./08-02-03-darken-layer-modes.md)
 

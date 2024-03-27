@@ -14,9 +14,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 8.2.4. 레이어 모드-대조(Contrast)](./08-02-04-contrast-layer-modes.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 8.2.3.4. 번(Burn)](./08-02-03-darken-layer-modesx-04-burn.md)
 
 [⬆️ 위: 8.2.3. 레이어 모드-어두움(Darken)](./08-02-03-darken-layer-modes.md)
 

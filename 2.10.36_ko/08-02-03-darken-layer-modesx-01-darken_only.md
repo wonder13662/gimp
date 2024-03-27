@@ -17,9 +17,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 8.2.3.2. 휘도가 어두운 색만(Luma/Luminance darken only)](./08-02-03-darken-layer-modesx-02-luma_darken_only.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 8.2.3. 레이어 모드-어두움(Darken)](./08-02-03-darken-layer-modes.md)
 
 [⬆️ 위: 8.2.3. 레이어 모드-어두움(Darken)](./08-02-03-darken-layer-modes.md)
 
