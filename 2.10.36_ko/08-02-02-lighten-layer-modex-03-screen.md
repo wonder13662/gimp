@@ -1,10 +1,10 @@
 # 8.2.2.3. 화면(Screen)
-#### 그림 8.2.2.3.a25. 화면(Screen)
+#### 그림 8.2.2.3.a1. 화면(Screen)
 ![layer_mode-lighten-03-screen](https://github.com/wonder13662/gimp/assets/15767104/2eb78d94-6380-4697-8aa3-7c460c8333ff)
 
 `화면(Screen)` 모드는 이미지의 2개의 레이어의 보이는 각각의 픽셀의 RGB 값을 아래 방정식에 따라 결과값을 얻습니다. 
 
-#### 그림 8.2.2.3.1.a21. 화면(Screen) 모드 방정식
+#### 그림 8.2.2.3.1.a1. 화면(Screen) 모드 방정식
 ![layer_mode-lighten-03-screen-equation](https://github.com/wonder13662/gimp/assets/15767104/981c61cb-c9c4-4f8c-9215-9d87c82f9778)
 
 #### 8.2.2.3.1.a1. RGB 색상값의 0부터 255인 경우의 화면(Screen) 모드 방정식
@@ -12,7 +12,7 @@
 픽셀의 `화면(Screen)` 모드의 RGB 색상값 = 255 - ((255 - 위쪽 레이어의 픽셀의 RGB 색상값) x (255 - 아래쪽 레이어의 픽셀의 RGB 색상값) / 255)
 ```
 
-[8.2.2.3. 화면(Screen) 모드 방정식](./08-02-02-lighten-layer-modex-03-screen_mode_equation.md)에서 `화면(Screen)` 모드의 픽셀 RGB 값의 계산 과정의 실제 사례를 확인할 수 있습니다.
+[8.2.2.3.1. 화면(Screen) 모드 방정식](./08-02-02-lighten-layer-modex-03-screenx-01-equation.md)에서 `화면(Screen)` 모드의 픽셀 RGB 값의 계산 과정의 실제 사례를 확인할 수 있습니다.
 
 결과 이미지는 보통은 더 밝아집니다. 때때로 형체의 일부분이 사라지기도 합니다. 예외적으로 [검은색 레이어](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-modex-03-screen_mode_equation.html#3-%EC%84%B8%EB%B2%88%EC%A7%B8-%EC%98%88%EC%A0%9C---%EC%95%84%EB%9E%98%EC%AA%BD-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%EA%B2%80%EC%9D%80%EC%83%89)는 다른 레이어를 바꾸지 않습니다. 그리고 [하얀색 레이어](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-modex-03-screen_mode_equation.html#4-%EB%84%A4%EB%B2%88%EC%A7%B8-%EC%98%88%EC%A0%9C---%EC%95%84%EB%9E%98%EC%AA%BD-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%ED%95%98%EC%96%80%EC%83%89)는 결과 이미지를 하얗게 만듭니다. 이미지의 어두운 색은 좀 더 투명하게 바뀝니다.
 
