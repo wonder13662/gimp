@@ -368,6 +368,10 @@
 #### 그림 90.4.72.a101. `레벨` 대화상자 (Windows) (우리말)
 ![그림 90 4 72 a101  `레벨` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/c3b636d7-61fc-4973-8a21-ed928335fdd9)
 
+### [90.4.73. 명도-대비(Brightness-Contrast)](./90-04-73-brightness_contrast.md)
+#### 그림 90.4.73.a101. `명도-대비` 대화상자 (Windows) (우리말)
+![90-04-73-a101](https://github.com/wonder13662/gimp/assets/15767104/03903513-f3f8-4bb0-a666-31e6675ce148)
+
 ***
 
 ## 공통 기능

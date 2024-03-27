@@ -1,8 +1,8 @@
 # 10.1.3.2.1. 명도/대비 도구
 사용하기에 가장 쉬운 것은 `명도/대비` 도구입니다. 이 도구는 주로 지나치게 노출값이 높거나 노출값이 낮은 이미지를 보정하는데 사용됩니다. 색조 보정에는 사용하지 않습니다. 
 
-#### [그림 90.1.7.8.a1. `색` → `명도-대비`]()
-[![90-00-image_menu_bar-color-focus-brightness_contrast](https://github.com/wonder13662/gimp/assets/15767104/1e472d06-319e-469c-b8e4-ea8b23a1efac)]()
+#### [그림 90.1.7.8.a1. `색` → `명도-대비`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-08-brightness_contrast.html#%EA%B7%B8%EB%A6%BC-90178a1-%EC%83%89--%EB%AA%85%EB%8F%84-%EB%8C%80%EB%B9%84)
+[![90-00-image_menu_bar-color-focus-brightness_contrast](https://github.com/wonder13662/gimp/assets/15767104/1e472d06-319e-469c-b8e4-ea8b23a1efac)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-08-brightness_contrast.html#%EA%B7%B8%EB%A6%BC-90178a1-%EC%83%89--%EB%AA%85%EB%8F%84-%EB%8C%80%EB%B9%84)
 
 `명도/대비` 도구에는 `명도`와 `대비`를 조절할 수 있는 두 개의 슬라이드 바가 있습니다. "미리보기" 옵션을 체크하면 값에 따라 이미지가 변하는 것을 볼 수 있습니다.
 
