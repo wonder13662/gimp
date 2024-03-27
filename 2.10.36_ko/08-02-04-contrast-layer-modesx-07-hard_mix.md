@@ -1,5 +1,5 @@
 # 8.2.4.7. 강한 혼합(Hard mix)
-#### 그림 8.2.3.a70. 강한 혼합(Hard mix)
+#### 그림 8.2.4.7.a70. 강한 혼합(Hard mix)
 ![08-02-04-layer_mode-contrast-07-hard_mix](https://github.com/wonder13662/gimp/assets/15767104/87b0abaf-9ebe-428f-95e5-8e7a32a644fd)
 
 `강한 혼합(Hard mix)` 모드는 [주요 가산 혼합 색상(Primary addictive colors)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a101-color-model-rgb)의 6가지 색상과 검정색, 하얀색만을 가지고 있습니다. `강한 혼합(Hard mix)` 모드는 위쪽 레이어와 아래쪽 레이어의 RGB 색상을 각각 합산하여 위의 허용된 8개의 색상으로 바꿉니다.
@@ -9,7 +9,7 @@
 
 아래 영상을 확인해보면 위쪽의 전경색/배경색 그라디언트 레이어가 `강한 혼합(Hard mix)` 모드로 아래 레이어에 영향을 미치는 것을 확인할 수 있습니다.
 
-#### 영상 8.2.3.a71. 강한 혼합(Hard mix) 사용 예시 - 위쪽 레이어(그라디언트)
+#### 영상 8.2.4.7.a71. 강한 혼합(Hard mix) 사용 예시 - 위쪽 레이어(그라디언트)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/15c11aac-f206-4c24-af4d-41620a32433c"></video>
 
 ***
