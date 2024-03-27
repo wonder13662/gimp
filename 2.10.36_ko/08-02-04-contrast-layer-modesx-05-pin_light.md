@@ -2,7 +2,7 @@
 #### 그림 8.2.4.5.a1. 핀 조명(Pin light)
 ![08-02-04-layer_mode-contrast-05-pin_light](https://github.com/wonder13662/gimp/assets/15767104/1b71a5bf-699b-4f08-86fc-c94ed930f362)
 
-`핀 조명(Pin light)` 모드는 픽셀의 값이 중간값보다 밝으면 [밝은 색만(Lighten only)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-02-lighten-layer-mode.html#1-%EB%B0%9D%EC%9D%80-%EC%83%89%EB%A7%8Clighten-only)를 적용해서 밝은 부분의 대조를 강하게 만듭니다. 반대로 픽셀의 값이 중간값보다 어두우면 [어두운 색만(Darken only)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-03-darken-layer-modes.html#1-%EC%96%B4%EB%91%90%EC%9A%B4-%EC%83%89%EB%A7%8Cdarken-only)을 적용해서 어두운 부분의 대조를 강하게 만듭니다.
+`핀 조명(Pin light)` 모드는 픽셀의 값이 중간값보다 밝으면 [밝은 색만(Lighten only)](./08-02-02-lighten-layer-modex-01-lighten_only.md)를 적용해서 밝은 부분의 대조를 강하게 만듭니다. 반대로 픽셀의 값이 중간값보다 어두우면 [어두운 색만(Darken only)](./08-02-03-darken-layer-modesx-01-darken_only.md)을 적용해서 어두운 부분의 대조를 강하게 만듭니다.
 
 아래 영상을 확인해보면 위쪽의 흑백 그라디언트 레이어가 `핀 조명(Pin light)` 모드로 바꿀 때에 아래 레이어의 밝은 부분과 어두운 부분에 영향을 미치는 것을 확인할 수 있습니다.
 
