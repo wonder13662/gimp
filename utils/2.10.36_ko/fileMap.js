@@ -526,7 +526,7 @@ module.exports = {
       [
         '08-02-03-darken-layer-modes.md', 
         '8.2.3. Darken layer modes',
-        '8.2.3. 레이어 모드-Darken'
+        '8.2.3. 레이어 모드-어두움(Darken)'
       ],
       [
         '08-02-04-contrast-layer-modes.md', 
