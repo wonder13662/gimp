@@ -1,12 +1,12 @@
-# 8.2.2.3. 화면(Screen) 모드 방정식
+# 8.2.2.3.1. 화면(Screen) 모드 방정식
 화면(Screen) 모드는 아래와 같은 방정식을 갖습니다.
 
-#### 그림 8.2.2.3.a21. 화면(Screen) 모드 방정식
+#### 그림 8.2.2.3.1.a21. 화면(Screen) 모드 방정식
 ![layer_mode-lighten-03-screen-equation](https://github.com/wonder13662/gimp/assets/15767104/981c61cb-c9c4-4f8c-9215-9d87c82f9778)
 
 위 방정식을 쉽게 풀어쓰면 아래와 같습니다.
 
-#### 8.2.2.3.a1. RGB 색상값의 0부터 255인 경우의 화면(Screen) 모드 방정식
+#### 8.2.2.3.1.a1. RGB 색상값의 0부터 255인 경우의 화면(Screen) 모드 방정식
 ```
 픽셀의 `화면(Screen)` 모드의 RGB 색상값 = 255 - ((255 - 위쪽 레이어의 픽셀의 RGB 색상값) x (255 - 아래쪽 레이어의 픽셀의 RGB 색상값) / 255)
 ```
@@ -15,14 +15,14 @@
 
 ## 1. 첫번째 예제
 
-#### 8.2.2.3.a101. 화면(Screen) 모드 예제
+#### 8.2.2.3.1.a101. 화면(Screen) 모드 예제
 ![layer_mode-lighten-03-screen_color_example-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/9eaef991-3f5e-4230-b194-40a0c0de8fc8)
 
 ### 1-1. 화면(Screen) 모드의 RGB 값 구하기
-#### 그림 8.2.2.3.a111. 각 레이어별 RGB 값
+#### 그림 8.2.2.3.1.a111. 각 레이어별 RGB 값
 ![layer_mode-lighten-03-screen_color_example-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/b686dcf1-1b3e-4208-807b-4e2c81561114)
 
-#### 표 8.2.2.3.a112. 레이어별 RGB 값 방정식 계산
+#### 표 8.2.2.3.1.a112. 레이어별 RGB 값 방정식 계산
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
 |---|---|---|---|
@@ -56,14 +56,14 @@
 GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
 ## 2. 두번째 예제
-#### 8.2.2.3.a201. 화면(Screen) 모드 예제
+#### 8.2.2.3.1.a201. 화면(Screen) 모드 예제
 ![layer_mode-lighten-03-screen_color_example-02(50%)](https://github.com/wonder13662/gimp/assets/15767104/1b4dcddd-70d7-4572-bf1b-5d41e0d79687)
 
 ### 2-1. 화면(Screen) 모드의 RGB 값 구하기
-#### 그림 8.2.2.3.a211. 각 레이어별 RGB 값
+#### 그림 8.2.2.3.1.a211. 각 레이어별 RGB 값
 ![layer_mode-lighten-03-screen_color_example-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/183c2288-3cb7-4859-b517-20c4ebf05bfe)
 
-#### 표 8.2.2.3.a212. 레이어별 RGB 값 방정식 계산
+#### 표 8.2.2.3.1.a212. 레이어별 RGB 값 방정식 계산
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
 |---|---|---|---|
@@ -97,14 +97,14 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
 ## 3. 세번째 예제 - 아래쪽 레이어가 검은색
-#### 그림 8.2.2.3.a301. 화면(Screen) 모드 예제
+#### 그림 8.2.2.3.1.a301. 화면(Screen) 모드 예제
 ![layer_mode-lighten-03-screen-color_example-03-black(50%)](https://github.com/wonder13662/gimp/assets/15767104/7b40c0d7-d540-4f16-afc9-505d722eeba8)
 
 ### 3-1. 화면(Screen) 모드의 RGB 값 구하기
-#### 그림 8.2.2.3.a311. 각 레이어별 RGB 값
+#### 그림 8.2.2.3.1.a311. 각 레이어별 RGB 값
 ![layer_mode-lighten-03-screen-color_example-03-black-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/a72f18f8-cbda-4921-8465-8306069c857e)
 
-#### 표 8.2.2.3.a312. 레이어별 RGB 값 방정식 계산
+#### 표 8.2.2.3.1.a312. 레이어별 RGB 값 방정식 계산
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
 |---|---|---|---|
@@ -135,14 +135,14 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
 ## 4. 네번째 예제 - 아래쪽 레이어가 하얀색
-#### 그림 8.2.2.3.a401. 화면(Screen) 모드 예제
+#### 그림 8.2.2.3.1.a401. 화면(Screen) 모드 예제
 ![layer_mode-lighten-03-screen-color_example-04-white(50%)](https://github.com/wonder13662/gimp/assets/15767104/41a01418-a161-4ef4-8d97-49a7cb181840)
 
 ### 4-1. 화면(Screen) 모드의 RGB 값 구하기
-#### 그림 8.2.2.3.a411. 각 레이어별 RGB 값
+#### 그림 8.2.2.3.1.a411. 각 레이어별 RGB 값
 ![layer_mode-lighten-03-screen-color_example-04-white-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/523e8a88-805a-486e-afd1-df085c811d83)
 
-#### 표 8.2.2.3.a412. 레이어별 RGB 값 방정식 계산
+#### 표 8.2.2.3.1.a412. 레이어별 RGB 값 방정식 계산
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
 |---|---|---|---|
@@ -175,6 +175,8 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 ***
 
 ## 다른 페이지로 가기
+
+[⬆️ 위: 8.2.2.3. 화면(Screen)](./08-02-02-lighten-layer-modex-03-screen.md)
 
 [⬆️ 위: 8.2.2. 레이어 모드-Lighten](./08-02-02-lighten-layer-mode.md)
 

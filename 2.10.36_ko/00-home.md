@@ -316,6 +316,16 @@
 
 [8.2.2. 레이어 모드-Lighten](./08-02-02-lighten-layer-mode.md)
 
+[8.2.2.1. 밝은 색만(Lighten only)](./08-02-02-lighten-layer-modex-01-lighten_only.md)
+
+[8.2.2.2. 휘도가 밝은 색만(Luma/Luminance lighten only)](./08-02-02-lighten-layer-modex-02-luma.md)
+
+[8.2.2.3. 화면(Screen)](./08-02-02-lighten-layer-modex-03-screen.md)
+
+[8.2.2.4. 닷지(Dodge)](./08-02-02-lighten-layer-modex-04-dodge.md)
+
+[8.2.2.5. 더하기(Addition)](./08-02-02-lighten-layer-modex-05-addition.md)
+
 [8.2.3. 레이어 모드-Darken](./08-02-03-darken-layer-modes.md)
 
 [8.2.4. 레이어 모드-Contrast](./08-02-04-contrast-layer-modes.md)

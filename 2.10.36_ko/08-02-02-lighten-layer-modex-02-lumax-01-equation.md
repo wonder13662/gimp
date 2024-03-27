@@ -1,7 +1,7 @@
-# 8.2.2.2. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 방정식
+# 8.2.2.2.1. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 방정식
 `휘도가 밝은 색만(Luma/Luminance lighten only)` 모드는 아래와 같은 방정식을 갖습니다.
 
-#### 8.2.2.2.a1. RGB 색상값의 0부터 255인 경우의 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 방정식
+#### 8.2.2.2.1.a1. RGB 색상값의 0부터 255인 경우의 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 방정식
 ```
 최종 결과 휘도값 = max(아래쪽 레이어의 휘도 값, 위쪽 레이어의 휘도 값)
 ```
@@ -23,7 +23,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 그럼 실제 사례를 살펴보겠습니다.
 
 ### 2-1. 첫번째 예제
-#### 그림 8.2.2.2.a13. 각 레이어별 RGB 정보
+#### 그림 8.2.2.2.1.a13. 각 레이어별 RGB 정보
 ![layer_mode-lighten-02-luma-color_examples-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/d5305f19-9abd-43ed-9729-b7163c7f3b9e)
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
@@ -47,7 +47,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 위 계산 결과를 통하여 휘도가 236.1로 더 밝은 `위쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
 
 ### 2-2. 두번째 예제
-#### 그림 8.2.2.2.a23. 각 레이어별 RGB 정보
+#### 그림 8.2.2.2.1.a23. 각 레이어별 RGB 정보
 ![layer_mode-lighten-02-luma-color_examples-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/1dc4efb7-b9f7-4d04-b351-3cc43d365b4e)
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
@@ -71,7 +71,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 위 계산 결과를 통하여 휘도가 138.08로 더 밝은 `위쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
 
 ### 2-3. 세번째 예제 - 아래쪽 레이어가 검은색
-#### 그림 8.2.2.2.a33. 각 레이어별 RGB 정보
+#### 그림 8.2.2.2.1.a33. 각 레이어별 RGB 정보
 ![layer_mode-lighten-02-luma-color_examples-03-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/ac050f7d-4694-476a-8580-b5bcf3104f86)
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
@@ -95,7 +95,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 위 계산 결과를 통하여 휘도가 138.08로 더 밝은 `위쪽 레이어`의 색상이 선택된 것을 확인할 수 있습니다.
 
 ### 2-4. 네번째 예제 - 아래쪽 레이어가 하얀색
-#### 그림 8.2.2.2.a43. 각 레이어별 RGB 정보
+#### 그림 8.2.2.2.1.a43. 각 레이어별 RGB 정보
 ![layer_mode-lighten-02-luma-color_examples-04-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/ca5058ac-0271-42a0-adcb-de9b676e06ee)
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
@@ -121,6 +121,7 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 ***
 
 ## 다른 페이지로 가기
+[⬆️ 위: 8.2.2.2. 휘도가 밝은 색만(Luma/Luminance lighten only)](./08-02-02-lighten-layer-modex-02-luma.md)
 
 [⬆️ 위: 8.2.2. 레이어 모드-Lighten](./08-02-02-lighten-layer-mode.md)
 
@@ -136,4 +137,4 @@ Luminance = (0.22 × R) + (0.72 × G) + (0.06 × B)
 
 ## 관련 정보
 
-[8.2.2.2.1. 휘도(Luminance)가 CIE Lab 또는 CIE LCh의 밝기(Lightness) 인가요?](./08-02-02-lighten-layer-modex-02-luma_mode_equationx-01-lch_lightness.md)
+[8.2.2.2.1.1. 휘도(Luminance)가 CIE Lab 또는 CIE LCh의 밝기(Lightness) 인가요?](./08-02-02-lighten-layer-modex-02-lumax-01-equationx-01-lch_lightness.md)

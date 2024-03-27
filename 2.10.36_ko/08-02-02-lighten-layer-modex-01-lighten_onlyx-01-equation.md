@@ -1,7 +1,7 @@
-# 8.2.2.1. 밝은 색만(Lighten only) 모드 방정식
+# 8.2.2.1.1. 밝은 색만(Lighten only) 모드 방정식
 밝은 색만(Lighten only) 모드는 아래와 같은 방정식을 갖습니다.
 
-#### 8.2.2.1.a1. RGB 색상값의 0부터 255인 경우의 밝은 색만(Lighten only) 모드 방정식
+#### 8.2.2.1.1.a1. RGB 색상값의 0부터 255인 경우의 밝은 색만(Lighten only) 모드 방정식
 ```
 픽셀의 `밝은 색만(Lighten only)` 모드의 RGB 색상값 = max(아래쪽 레이어의 RGB 값, 위쪽 레이어의 RGB 값)
 ```
@@ -11,14 +11,14 @@
 그럼 실제 사례를 살펴보겠습니다.
 
 ## 1. 첫번째 예제
-#### 그림 8.2.2.1.a101. 밝은 색만(Lighten only) 모드 예제
+#### 그림 8.2.2.1.1.a101. 밝은 색만(Lighten only) 모드 예제
 ![layer_mode-lighten-01-lighten_only-color_examples-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/3ac83696-9391-4868-834e-6605bf1b7d3d)
 
 ### 1-1. 밝은 색만(Lighten only) 모드의 RGB 값 구하기
-#### 그림 8.2.2.1.a111. 각 레이어별 RGB 값
+#### 그림 8.2.2.1.1.a111. 각 레이어별 RGB 값
 ![layer_mode-lighten-01-lighten_only-color_examples-01-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/ddc225e9-71e5-4796-949b-92989ffb68c5)
 
-#### 표 8.2.2.1.a112. 레이어별 RGB 값 방정식 계산
+#### 표 8.2.2.1.1.a112. 레이어별 RGB 값 방정식 계산
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
 |---|---|---|---|
@@ -43,14 +43,14 @@
 GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
 ## 2. 두번째 예제
-#### 그림 8.2.2.1.a201. 밝은 색만(Lighten only) 모드 예제
+#### 그림 8.2.2.1.1.a201. 밝은 색만(Lighten only) 모드 예제
 ![layer_mode-lighten-01-lighten_only-color_examples-02(50%)](https://github.com/wonder13662/gimp/assets/15767104/75bab22c-2518-40a4-b6c1-953a4b04747f)
 
 ### 2-1. 밝은 색만(Lighten only) 모드의 RGB의 Red 값 구하기
-#### 그림 8.2.2.1.a211. 각 레이어별 RGB 값
+#### 그림 8.2.2.1.1.a211. 각 레이어별 RGB 값
 ![layer_mode-lighten-01-lighten_only-color_examples-02-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/57cc62b0-39d7-402f-8d73-f4a1fef106d6)
 
-#### 표 8.2.2.1.a212. 레이어별 RGB 값 방정식 계산
+#### 표 8.2.2.1.1.a212. 레이어별 RGB 값 방정식 계산
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
 |---|---|---|---|
@@ -75,14 +75,14 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
 ## 3. 세번째 예제 - 아래쪽 레이어가 검은색
-#### 그림 8.2.2.1.a301. 밝은 색만(Lighten only) 모드 예제
+#### 그림 8.2.2.1.1.a301. 밝은 색만(Lighten only) 모드 예제
 ![layer_mode-lighten-01-lighten_only-color_examples-03-black(50%)](https://github.com/wonder13662/gimp/assets/15767104/3b103f46-7d3a-400f-89ef-88b4debd2647)
 
 ### 3-1. 밝은 색만(Lighten only) 모드의 RGB 값 구하기
-#### 그림 8.2.2.1.a311. 각 레이어별 RGB 값
+#### 그림 8.2.2.1.1.a311. 각 레이어별 RGB 값
 ![layer_mode-lighten-01-lighten_only-color_examples-03-black-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/cd4ffc04-cf48-487e-a784-42ae0e395609)
 
-#### 표 8.2.2.1.a312. 레이어별 RGB 값 방정식 계산
+#### 표 8.2.2.1.1.a312. 레이어별 RGB 값 방정식 계산
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
 |---|---|---|---|
@@ -107,14 +107,14 @@ GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 
 GIMP(김프)에서 실제로 레이어 모드를 적용한 RGB 값과 방정식 계산으로 얻은 최종 결과 RGB값이 같은 것을 확인할 수 있습니다.
 
 ## 4. 네번째 예제 - 아래쪽 레이어가 하얀색
-#### 그림 8.2.2.1.a401. 밝은 색만(Lighten only) 모드 예제
+#### 그림 8.2.2.1.1.a401. 밝은 색만(Lighten only) 모드 예제
 ![layer_mode-lighten-01-lighten_only-color_examples-04-white(50%)](https://github.com/wonder13662/gimp/assets/15767104/3a38ec77-092c-4da3-8397-00a45e1741a8)
 
 ### 4-1. 밝은 색만(Lighten only) 모드의 RGB 값 구하기
-#### 그림 8.2.2.1.a411. 각 레이어별 RGB 값
+#### 그림 8.2.2.1.1.a411. 각 레이어별 RGB 값
 ![layer_mode-lighten-01-lighten_only-color_examples-04-white-sample_points(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/2256b275-3145-4fee-9e1b-a1286a66f37e)
 
-#### 표 8.2.2.1.a412. 레이어별 RGB 값 방정식 계산
+#### 표 8.2.2.1.1.a412. 레이어별 RGB 값 방정식 계산
 
 ||마스크(위쪽 레이어)|배경 이미지(아래쪽 레이어)|레이어 모드 적용 결과|
 |---|---|---|---|
