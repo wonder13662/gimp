@@ -3,6 +3,7 @@
 ![08-02-07-layer_mode-lch_component-05-luminance](https://github.com/wonder13662/gimp/assets/15767104/bb450a4a-aac8-468f-880f-ff8fd1626805)
 
 `휘도(Luminance)` 모드는 위쪽 레이어의 휘도를 아래쪽 레이어의 휘도로 나눕니다. 나눈 몫을 아래쪽 레이어의 컴포넌트의 값에 곱합니다.
+
 [comment]: <> (TODO 실제 사용 사례에 대해서 내용 추가해야 함. 어디에 쓰는걸까?)
 
 ***

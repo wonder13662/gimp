@@ -2,7 +2,7 @@
 #### 그림 8.2.7.2.a20. LCh 크로마(LCh Chroma)
 ![08-02-07-layer_mode-lch_component-02-lch_chroma](https://github.com/wonder13662/gimp/assets/15767104/fc528e3b-9c0d-4c20-8a79-848e95c99d52)
 
-`LCh 크로마(LCh Chroma)` 모드는 [HSV 채도(HSV Saturation)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-06-hsv-components-layer-modes.html#2-hsv-%EC%B1%84%EB%8F%84hsv-saturation)와 상당히 비슷하지만, 다른 방정식을 사용합니다.
+`LCh 크로마(LCh Chroma)` 모드는 [HSV 채도(HSV Saturation)](./08-02-06-hsv-components-layer-modesx-02-hsv_saturation.md)와 상당히 비슷하지만, 다른 방정식을 사용합니다.
 
 `LCh 크로마(LCh Chroma)` 모드는 위쪽 레이어의 채도(Chroma)와 아래쪽 레이어의 밝기(Lightness)와 색상(Hue)를 합쳐 결과 이미지를 만듭니다.
 

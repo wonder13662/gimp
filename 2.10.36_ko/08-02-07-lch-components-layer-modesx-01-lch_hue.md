@@ -2,7 +2,7 @@
 #### 그림 8.2.7.1.a10. LCh 색상(LCh Hue)
 ![08-02-07-layer_mode-lch_component-01-lch_hue](https://github.com/wonder13662/gimp/assets/15767104/1ab7457f-18b7-4d6b-b53f-862a61a49c25)
 
-`LCh 색상(LCh Hue)` 모드는 [HSV 명도(HSV Value)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-06-hsv-components-layer-modes.html#4-hsv-%EB%AA%85%EB%8F%84hsv-value)와 상당히 비슷하지만, 다른 방정식을 사용합니다.
+`LCh 색상(LCh Hue)` 모드는 [HSV 명도(HSV Value)](./08-02-06-hsv-components-layer-modesx-04-hsv_value.md)와 상당히 비슷하지만, 다른 방정식을 사용합니다.
 
 `LCh 색상(LCh Hue)` 모드는 위쪽 레이어의 색상(Hue)와 아래쪽 레이어의 밝기(Lightness)와 채도(Chroma)를 합쳐 결과 이미지를 만듭니다.
 

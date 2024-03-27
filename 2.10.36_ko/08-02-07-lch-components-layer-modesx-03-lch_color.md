@@ -10,7 +10,7 @@
 |**채도(Chroma)**|**위쪽 레이어**|
 |**색상(Hue)**|**위쪽 레이어**|
 
-`LCh Color(LCh Color)` 모드는 [HSL 색상(HSL Color)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-06-hsv-components-layer-modes.html#3-hsl-%EC%83%89%EC%83%81hsl-color)와 비슷하게 동작합니다. 하지만 `LCh Color(LCh Color)` 모드는 [HSL 색상(HSL Color)](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-06-hsv-components-layer-modes.html#3-hsl-%EC%83%89%EC%83%81hsl-color)보다 좀 더 어둡습니다. 아래 영상에서 확인해보세요.
+`LCh Color(LCh Color)` 모드는 [HSL 색상(HSL Color)](./08-02-06-hsv-components-layer-modesx-03-hsl_color.md)와 비슷하게 동작합니다. 하지만 `LCh Color(LCh Color)` 모드는 [HSL 색상(HSL Color)](./08-02-06-hsv-components-layer-modesx-03-hsl_color.md)보다 좀 더 어둡습니다. 아래 영상에서 확인해보세요.
 
 #### 영상 8.2.7.3.a31. `LCh Color(LCh Color)`로 대상의 색깔 바꾸기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6cb9a75d-3faa-4db0-b849-2c681cb82b11"></video>
