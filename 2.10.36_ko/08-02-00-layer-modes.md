@@ -121,6 +121,14 @@ GIMP(김프)는 38개의 레이어 모드가 있습니다. 이 38개의 레이�
 
 [8.2.6. 레이어 모드-HSV components](./08-02-06-hsv-components-layer-modes.md)
 
+[8.2.6.1. HSV 색상(HSV Hue)](./08-02-06-hsv-components-layer-modesx-01-hsv_hue.md)
+
+[8.2.6.2. HSV 채도(HSV Saturation)](./08-02-06-hsv-components-layer-modesx-02-hsv_saturation.md)
+
+[8.2.6.3. HSL 색상(HSL Color)](./08-02-06-hsv-components-layer-modesx-03-hsl_color.md)
+
+[8.2.6.4. HSV 명도(HSV Value)](./08-02-06-hsv-components-layer-modesx-04-hsv_value.md)
+
 [8.2.7. 레이어 모드-LCh components](./08-02-07-lch-components-layer-modes.md)
 
 ***
