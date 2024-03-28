@@ -3,7 +3,7 @@
 #### 그림 90.4.78.a101. `구성` 대화상자 (Windows) (우리말)
 ![그림 90 4 78 a101  `구성` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/01e35985-22bd-48e7-b439-0f4f880e9fcb)
 
-[10.1.4.1. 선명하게 하기(Unblurring) - 그림 90.4.78.a101]()
+[10.1.4.1. 선명하게 하기(Unblurring) - 그림 90.4.78.a101](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-04-adjusting_sharpnessx-01-unblurring.html#%EA%B7%B8%EB%A6%BC-90478a101-%EA%B5%AC%EC%84%B1-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.78.a102. `구성` 대화상자 (Windows) (영어)
 ![그림 90 4 78 a102  `구성` 대화상자 (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/d7ea1e58-d16e-4159-be7e-f91a986ef44d)
