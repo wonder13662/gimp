@@ -3,6 +3,8 @@
 #### 그림 90.4.79.a101. `분해` 대화상자 (Windows) (우리말)
 ![그림 90 4 79 a101  `분해` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/5fe50758-137a-4841-ab81-7670c79cae03)
 
+[10.1.4.1. 선명하게 하기(Unblurring) - 그림 90.4.79.a101]()
+
 #### 그림 90.4.79.a102. `분해` 대화상자 (Windows) (영어)
 ![그림 90 4 79 a102  `분해` 대화상자 (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/cdda2159-3d7a-4e1d-8891-adcedaf815fd)
 

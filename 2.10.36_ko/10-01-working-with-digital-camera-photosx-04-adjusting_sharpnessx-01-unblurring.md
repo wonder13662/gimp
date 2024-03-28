@@ -29,19 +29,27 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6c3d191e-63ea-402a-bf42-a5e2c1436f5e"></video>
 
 ## 2. 분해(Decompose) 및 구성(Compose)
-`필터` → `보강` → `선명하게...`을 사용하면 이미지의 대조가 강한 경우에 때때로 색상 왜곡이 일어납니다.
+[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `필터` → `보강` → `선명하게...`을 사용하면 이미지의 대조가 강한 경우에 때때로 색상 왜곡이 일어납니다. 색상 왜곡이 일어나면, 이미지를 HSV로 분해(Decompose)해서 색상(Hue)-채도(Saturation)-명도(Value) 레이어로 분리합니다.
 
-색상 왜곡이 일어나면, 이미지를 HSV로 분해(Decompose)해서 색상(Hue)-채도(Saturation)-명도(Value) 레이어로 분리합니다.
+#### [그림 90.4.79.a101. `분해` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-79-decompose.html#%EA%B7%B8%EB%A6%BC-90479a101-%EB%B6%84%ED%95%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![그림 90 4 79 a101  `분해` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/5fe50758-137a-4841-ab81-7670c79cae03)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-79-decompose.html#%EA%B7%B8%EB%A6%BC-90479a101-%EB%B6%84%ED%95%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
+[다른 운영체제와 언어의 `분해` 대화상자 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-79-decompose.html#%EA%B7%B8%EB%A6%BC-90479a102-%EB%B6%84%ED%95%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%98%81%EC%96%B4)
 
 #### [영상 90.4.79.a111. `분해` 대화상자 → `HSV` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-79-decompose.html#%EC%98%81%EC%83%81-90479a111-%EB%B6%84%ED%95%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--hsv-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4982e199-8f77-4f22-91dc-521bf57be295"></video>
 
-그리고 명도(Value) 레이어에만 `필터` → `보강` → `선명하게...`를 적용합니다. 
+그리고 명도(Value) 레이어에만 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `필터` → `보강` → `선명하게...`를 적용합니다. 
 
 #### 영상 10.1.4.1.a101. 명도(Value) 레이어에 `선명하게` 적용
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/58e8ef4f-2186-425d-a2d5-fa3b56aa20de"></video>
 
-그리고 다시 레이어들을 `색` → `성분` → `구성...`을 적용해서 하나로 만듭니다.
+그리고 다시 레이어들을 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `성분` → `구성...`을 적용해서 하나로 만듭니다.
+
+#### [그림 90.4.78.a101. `구성` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-78-compose.html#%EA%B7%B8%EB%A6%BC-90478a101-%EA%B5%AC%EC%84%B1-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[![그림 90 4 78 a101  `구성` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/01e35985-22bd-48e7-b439-0f4f880e9fcb)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-78-compose.html#%EA%B7%B8%EB%A6%BC-90478a101-%EA%B5%AC%EC%84%B1-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+
+[다른 운영체제와 언어의 `구성` 대화상자 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-78-compose.html#%EA%B7%B8%EB%A6%BC-90478a102-%EA%B5%AC%EC%84%B1-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%98%81%EC%96%B4)
 
 #### [영상 90.4.78.a105. `구성` 대화상자 → `HSV` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-78-compose.html#%EC%98%81%EC%83%81-90478a105-%EA%B5%AC%EC%84%B1-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--hsv-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/43016a08-52b6-46ef-853b-4989f8e7ab40"></video>
