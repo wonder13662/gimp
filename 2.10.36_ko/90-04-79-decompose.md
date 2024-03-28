@@ -15,7 +15,7 @@
 #### 영상 90.4.79.a111. `분해` 대화상자 → `HSV` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4982e199-8f77-4f22-91dc-521bf57be295"></video>
 
-[10.1.4.1. 선명하게 하기(Unblurring) - 영상 90.4.79.a111]()
+[10.1.4.1. 선명하게 하기(Unblurring) - 영상 90.4.79.a111](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-04-adjusting_sharpnessx-01-unblurring.html#%EC%98%81%EC%83%81-90479a111-%EB%B6%84%ED%95%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--hsv-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 
