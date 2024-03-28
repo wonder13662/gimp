@@ -3,17 +3,17 @@
 #### 그림 90.4.75.a101. `색상 추출` 대화상자 - 캔버스에 포함 (Windows) (우리말)
 ![그림 90 4 75 a101  `색상 추출` 대화상자 - 캔버스에 포함 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/2937fd4f-5117-4fe9-9694-f0948aba3c04)
 
-[10.1.3.3. 색조 및 채도 조정 - 그림 90.4.75.a101]()
+[10.1.3.3. 색조 및 채도 조정 - 그림 90.4.75.a101](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-03-improving_colorsx-03-adjusting_hue_and_saturation.html#%EA%B7%B8%EB%A6%BC-90475a101-%EC%83%89%EC%83%81-%EC%B6%94%EC%B6%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BA%94%EB%B2%84%EC%8A%A4%EC%97%90-%ED%8F%AC%ED%95%A8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 영상 90.4.75.a102. `색상 추출` 대화상자 - 캔버스에 포함 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/65684fa9-aa57-4b6b-b68a-00a0bd858e2c"></video>
 
-[10.1.3.3. 색조 및 채도 조정 - 영상 90.4.75.a102]()
+[10.1.3.3. 색조 및 채도 조정 - 영상 90.4.75.a102](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-03-improving_colorsx-03-adjusting_hue_and_saturation.html#%EC%98%81%EC%83%81-90475a102-%EC%83%89%EC%83%81-%EC%B6%94%EC%B6%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BA%94%EB%B2%84%EC%8A%A4%EC%97%90-%ED%8F%AC%ED%95%A8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.75.a111. `색상 추출` 대화상자 - 캔버스에서 분리 (Windows) (우리말)
 ![그림 90 4 75 a102  `색상 추출` 대화상자 - 캔버스에서 분리 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/bd79d8ab-a559-4a8c-a397-8beb0a26f563)
 
-[10.1.3.3. 색조 및 채도 조정 - 그림 90.4.75.a111]()
+[10.1.3.3. 색조 및 채도 조정 - 그림 90.4.75.a111](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-03-improving_colorsx-03-adjusting_hue_and_saturation.html#%EA%B7%B8%EB%A6%BC-90475a111-%EC%83%89%EC%83%81-%EC%B6%94%EC%B6%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BA%94%EB%B2%84%EC%8A%A4%EC%97%90%EC%84%9C-%EB%B6%84%EB%A6%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.75.a121. `색상 추출` 대화상자 - 캔버스에 포함 (Windows) (영어)
 ![그림 90 4 75 a111  `색상 추출` 대화상자 - 캔버스에 포함 (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/3201015f-a934-4add-8af9-8579db6605b6)
