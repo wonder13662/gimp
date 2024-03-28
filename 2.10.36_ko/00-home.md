@@ -556,7 +556,13 @@
 
 [10.1.3.3. 색조 및 채도 조정](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-03-adjusting_hue_and_saturation.md)
 
-[10.1.4. 선명도 조절하기](./10-01-working-with-digital-camera-photosx-04-adjusting_sharpness.md)
+[10.1.4. 선명도 조절하기(Adjust Sharpness)](./10-01-working-with-digital-camera-photosx-04-adjusting_sharpness.md)
+
+[10.1.4.1. 선명하게 하기(Unblurring)](./10-01-working-with-digital-camera-photosx-04-adjusting_sharpnessx-01-unblurring.md)
+
+[10.1.4.2. 거친 정도 줄이기(Reducing Graininess)](./10-01-working-with-digital-camera-photosx-04-adjusting_sharpnessx-02-reducing_graininess.md)
+
+[10.1.4.3. 부드럽게 하기(Softening)](./10-01-working-with-digital-camera-photosx-04-adjusting_sharpnessx-03-softening.md)
 
 [10.1.5. 이미지에서 필요없는 물체 없애기](./10-01-working-with-digital-camera-photosx-05-removing_unwanted_objects_from_an_image.md)
 
@@ -1002,6 +1008,18 @@
 
 [90.1.7.15. 성분(Components)](./90-01-07-colorsx-15-components.md)
 
+[90.1.7.15.1. 채널 혼합...(Channel Mixer...)](./90-01-07-colorsx-15-componentsx-01-channel_mixer.md)
+
+[90.1.7.15.2. 요소 추출...(Extract Component...)](./90-01-07-colorsx-15-componentsx-02-extract_component.md)
+
+[90.1.7.15.3. Mono Mixer...(Mono Mixer...)](./90-01-07-colorsx-15-componentsx-03-mono_mixer.md)
+
+[90.1.7.15.4. 구성...(Compose...)](./90-01-07-colorsx-15-componentsx-04-compose.md)
+
+[90.1.7.15.5. 분해...(Decompose...)](./90-01-07-colorsx-15-componentsx-05-decompose.md)
+
+[90.1.7.15.6. 재구성(Recompose)](./90-01-07-colorsx-15-componentsx-06-recompose.md)
+
 [90.1.7.16. 무채화(Desaturate)](./90-01-07-colorsx-16-desaturate.md)
 
 [90.1.7.17. 지도(Map)](./90-01-07-colorsx-17-map.md)
@@ -1095,6 +1113,28 @@
 [90.1.9.1. 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
 
 [90.1.9.2. 보강(Enhance)](./90-01-09-filtersx-02-enhance.md)
+
+[90.1.9.2.1. 안티 에일리어싱(Antialias)](./90-01-09-filtersx-02-enhancex-01-antialias.md)
+
+[90.1.9.2.2. 디인터레이스...(Deinterlace...)](./90-01-09-filtersx-02-enhancex-02-deinterlace.md)
+
+[90.1.9.2.3. 고역 통과...(High Pass...)](./90-01-09-filtersx-02-enhancex-03-high_pass.md)
+
+[90.1.9.2.4. 노이즈 감소...(Noise Reduction...)](./90-01-09-filtersx-02-enhancex-04-noise_reduction.md)
+
+[90.1.9.2.5. 적목 제거...(Red Eye Removal...)](./90-01-09-filtersx-02-enhancex-05-red_eye_removal.md)
+
+[90.1.9.2.6. 인접 요소 대칭...(Symmetric Nearest Neighbor...)](./90-01-09-filtersx-02-enhancex-06-symmetric_nearest_neighbor.md)
+
+[90.1.9.2.7. 선명하게... - Sharpen (Unsharp Mask)...](./90-01-09-filtersx-02-enhancex-07-sharpen_unsharp_mask.md)
+
+[90.1.9.2.8. 잡티 없애기...(Despeckle...)](./90-01-09-filtersx-02-enhancex-08-despeckle.md)
+
+[90.1.9.2.9. 줄무늬 없애기...(Desprite...)](./90-01-09-filtersx-02-enhancex-09-desprite.md)
+
+[90.1.9.2.10. NL 필터...(NL Filter...)](./90-01-09-filtersx-02-enhancex-10-nl_filter.md)
+
+[90.1.9.2.11. Wavelet-decompose...(Wavelet-decompose...)](./90-01-09-filtersx-02-enhancex-11-wavelet_decompose.md)
 
 [90.1.9.3. 왜곡(Distorts)](./90-01-09-filtersx-03-distorts.md)
 
@@ -1741,6 +1781,12 @@
 [90.4.75. 색상 추출(Color Picker)](./90-04-75-color_picker.md)
 
 [90.4.76. 색상-채도(Hue/Saturation)](./90-04-76-hue_saturation.md)
+
+[90.4.77. 선명하게 하기 - Sharpen(Unsharp Mask)](./90-04-77-sharpen_unsharp_mask.md)
+
+[90.4.78. 구성(Compose)](./90-04-78-compose.md)
+
+[90.4.79. 분해(Decompose)](./90-04-79-decompose.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

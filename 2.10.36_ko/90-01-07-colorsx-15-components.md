@@ -8,6 +8,22 @@
 
 ***
 
+## 하위 페이지
+
+[90.1.7.15.1. 채널 혼합...(Channel Mixer...)](./90-01-07-colorsx-15-componentsx-01-channel_mixer.md)
+
+[90.1.7.15.2. 요소 추출...(Extract Component...)](./90-01-07-colorsx-15-componentsx-02-extract_component.md)
+
+[90.1.7.15.3. Mono Mixer...(Mono Mixer...)](./90-01-07-colorsx-15-componentsx-03-mono_mixer.md)
+
+[90.1.7.15.4. 구성...(Compose...)](./90-01-07-colorsx-15-componentsx-04-compose.md)
+
+[90.1.7.15.5. 분해...(Decompose...)](./90-01-07-colorsx-15-componentsx-05-decompose.md)
+
+[90.1.7.15.6. 재구성(Recompose)](./90-01-07-colorsx-15-componentsx-06-recompose.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.1.7.16. 무채화(Desaturate)](./90-01-07-colorsx-16-desaturate.md)

@@ -1,16 +1,16 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 90.1.7.15.1. 채널 혼합...(Channel Mixer...)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 ${page_no}a1. `색` → `성분` → `${page_name_ko}` (Windows)
+#### 그림 90.1.7.15.1.a1. `색` → `성분` → `채널 혼합...` (Windows)
 
-#### 그림 ${page_no}a2. `색` → `성분` → `${page_name_ko}` (Mac)
+#### 그림 90.1.7.15.1.a2. `색` → `성분` → `채널 혼합...` (Mac)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 90.1.7.15.2. 요소 추출...(Extract Component...)](./90-01-07-colorsx-15-componentsx-02-extract_component.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: ]()
 
 [⬆️ 위: 90.1.7.15. 성분(Components)](./90-01-07-colorsx-15-components.md)
 

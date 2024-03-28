@@ -388,6 +388,18 @@
 #### 그림 90.4.76.a101. `색상-채도` 대화상자 (Windows) (우리말)
 ![그림 90 4 76 a101  `색상-채도` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/1e845854-a7e1-4f7e-bfd4-5b5c21b223f5)
 
+### [90.4.77. 선명하게 하기 - Sharpen(Unsharp Mask)](./90-04-77-sharpen_unsharp_mask.md)
+#### 그림 90.4.77.a101. `선명하게 하기` 대화상자 (Windows) (우리말)
+![그림 90 4 77 a101  `선명하게 하기` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/6318a007-1f0d-4ec5-bfae-9d4afad17625)
+
+### [90.4.78. 구성(Compose)](./90-04-78-compose.md)
+#### 그림 90.4.78.a101. `구성` 대화상자 (Windows) (우리말)
+![그림 90 4 78 a101  `구성` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/01e35985-22bd-48e7-b439-0f4f880e9fcb)
+
+### [90.4.79. 분해(Decompose)](./90-04-79-decompose.md)
+#### 그림 90.4.79.a101. `분해` 대화상자 (Windows) (우리말)
+![그림 90 4 79 a101  `분해` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/5fe50758-137a-4841-ab81-7670c79cae03)
+
 ***
 
 ## 공통 기능

@@ -8,6 +8,32 @@
 
 ***
 
+## 하위 페이지
+
+[90.1.9.2.1. 안티 에일리어싱(Antialias)](./90-01-09-filtersx-02-enhancex-01-antialias.md)
+
+[90.1.9.2.2. 디인터레이스...(Deinterlace...)](./90-01-09-filtersx-02-enhancex-02-deinterlace.md)
+
+[90.1.9.2.3. 고역 통과...(High Pass...)](./90-01-09-filtersx-02-enhancex-03-high_pass.md)
+
+[90.1.9.2.4. 노이즈 감소...(Noise Reduction...)](./90-01-09-filtersx-02-enhancex-04-noise_reduction.md)
+
+[90.1.9.2.5. 적목 제거...(Red Eye Removal...)](./90-01-09-filtersx-02-enhancex-05-red_eye_removal.md)
+
+[90.1.9.2.6. 인접 요소 대칭...(Symmetric Nearest Neighbor...)](./90-01-09-filtersx-02-enhancex-06-symmetric_nearest_neighbor.md)
+
+[90.1.9.2.7. 선명하게... - Sharpen (Unsharp Mask)...](./90-01-09-filtersx-02-enhancex-07-sharpen_unsharp_mask.md)
+
+[90.1.9.2.8. 잡티 없애기...(Despeckle...)](./90-01-09-filtersx-02-enhancex-08-despeckle.md)
+
+[90.1.9.2.9. 줄무늬 없애기...(Desprite...)](./90-01-09-filtersx-02-enhancex-09-desprite.md)
+
+[90.1.9.2.10. NL 필터...(NL Filter...)](./90-01-09-filtersx-02-enhancex-10-nl_filter.md)
+
+[90.1.9.2.11. Wavelet-decompose...(Wavelet-decompose...)](./90-01-09-filtersx-02-enhancex-11-wavelet_decompose.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.1.9.3. 왜곡(Distorts)](./90-01-09-filtersx-03-distorts.md)

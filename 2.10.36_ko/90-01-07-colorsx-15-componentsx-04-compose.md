@@ -1,16 +1,16 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 90.1.7.15.4. 구성...(Compose...)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 ${page_no}a1. `색` → `성분` → `${page_name_ko}` (Windows)
+#### 그림 90.1.7.15.4.a1. `색` → `성분` → `구성...` (Windows)
 
-#### 그림 ${page_no}a2. `색` → `성분` → `${page_name_ko}` (Mac)
+#### 그림 90.1.7.15.4.a2. `색` → `성분` → `구성...` (Mac)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 90.1.7.15.5. 분해...(Decompose...)](./90-01-07-colorsx-15-componentsx-05-decompose.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 90.1.7.15.3. Mono Mixer...(Mono Mixer...)](./90-01-07-colorsx-15-componentsx-03-mono_mixer.md)
 
 [⬆️ 위: 90.1.7.15. 성분(Components)](./90-01-07-colorsx-15-components.md)
 

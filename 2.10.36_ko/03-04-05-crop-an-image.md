@@ -43,7 +43,7 @@
 #### [그림 90.1.10.2.1.a101. `창` → `도킹가능한 대화` → `도구 옵션` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-01-tool_options.html#%EA%B7%B8%EB%A6%BC-9011021a101-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94--%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-windows)
 [![그림 90.1.10.2.1.a101. `창` → `도킹가능한 대화` → `도구 옵션` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/b5d990a0-b382-402d-8de9-d9d3293bb095)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-01-tool_options.html#%EA%B7%B8%EB%A6%BC-9011021a101-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94--%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-windows)
 
-[다른 운영체제와 언어의 `창` → `도킹가능한 대화` → `도구 옵션` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-01-tool_options.html#%EA%B7%B8%EB%A6%BC-9011021a101-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94--%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-windows)
+운영체제와 언어의 `창` → `도킹가능한 대화` → `도구 옵션` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-01-tool_options.html#%EA%B7%B8%EB%A6%BC-9011021a101-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94--%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-windows)
 
 도구 옵션의 `고정(Fixed)`의 `종횡비(Aspect ratio)`로 설정되어 있는지 확인해 주세요. 바로 아래의 입력창에 `1:1`과 같은 종횡비(Aspect ratio)를 입력할 수 있습니다.
 

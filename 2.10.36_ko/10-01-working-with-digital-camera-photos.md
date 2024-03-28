@@ -14,7 +14,13 @@
 
 [10.1.3. 색상 보정](./10-01-working-with-digital-camera-photosx-03-improving_colors.md)
 
-[10.1.4. 선명도 조절하기](./10-01-working-with-digital-camera-photosx-04-adjusting_sharpness.md)
+[10.1.4. 선명도 조절하기(Adjust Sharpness)](./10-01-working-with-digital-camera-photosx-04-adjusting_sharpness.md)
+
+[10.1.4.1. 선명하게 하기(Unblurring)](./10-01-working-with-digital-camera-photosx-04-adjusting_sharpnessx-01-unblurring.md)
+
+[10.1.4.2. 거친 정도 줄이기(Reducing Graininess)](./10-01-working-with-digital-camera-photosx-04-adjusting_sharpnessx-02-reducing_graininess.md)
+
+[10.1.4.3. 부드럽게 하기(Softening)](./10-01-working-with-digital-camera-photosx-04-adjusting_sharpnessx-03-softening.md)
 
 [10.1.5. 이미지에서 필요없는 물체 없애기](./10-01-working-with-digital-camera-photosx-05-removing_unwanted_objects_from_an_image.md)
 
