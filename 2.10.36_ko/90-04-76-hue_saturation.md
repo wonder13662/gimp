@@ -25,7 +25,7 @@
 
 [➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
-[⬅️ 이전: 90.4.73. 명도-대비(Brightness-Contrast)](./90-04-73-brightness_contrast.md)
+[⬅️ 이전: 90.4.75. 색상 추출(Color Picker)](./90-04-75-color_picker.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

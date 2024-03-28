@@ -376,6 +376,18 @@
 #### 그림 90.4.74.a101. `커브` 대화상자 (Windows) (우리말)
 ![그림 90 4 74 a101  `커브` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/ad31fe00-27fe-459a-9fd9-e02f454a0fe1)
 
+### [90.4.74. 커브(Curves)](./90-04-74-curves.md)
+#### 그림 90.4.74.a101. `커브` 대화상자 (Windows) (우리말)
+![그림 90 4 74 a101  `커브` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/ad31fe00-27fe-459a-9fd9-e02f454a0fe1)
+
+### [90.4.75. 색상 추출(Color Picker)](./90-04-75-color_picker.md)
+#### 그림 90.4.75.a101. `색상 추출` 대화상자 - 캔버스에 포함 (Windows) (우리말)
+![그림 90 4 75 a101  `색상 추출` 대화상자 - 캔버스에 포함 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/2937fd4f-5117-4fe9-9694-f0948aba3c04)
+
+### [90.4.76. 색상-채도(Hue/Saturation)](./90-04-76-hue_saturation.md)
+#### 그림 90.4.76.a101. `색상-채도` 대화상자 (Windows) (우리말)
+![그림 90 4 76 a101  `색상-채도` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/1e845854-a7e1-4f7e-bfd4-5b5c21b223f5)
+
 ***
 
 ## 공통 기능
