@@ -40,9 +40,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 10.1.4. 선명도 조절하기(Adjust Sharpness)](./10-01-working-with-digital-camera-photosx-04-adjusting_sharpness.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 10.1.3.2.6. 그 외의 레이어 모드](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problemsx-06-layer_mode_etc.md)
 
 [⬆️ 위: 10.1.3. 색상 보정](./10-01-working-with-digital-camera-photosx-03-improving_colors.md)
 
