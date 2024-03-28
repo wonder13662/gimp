@@ -14,6 +14,12 @@
 #### 그림 90.4.77.a104. `선명하게 하기` 대화상자 (Mac) (영어)
 ![그림 90 4 77 a104  `선명하게 하기` 대화상자 (Mac) (영어)(50%)](https://github.com/wonder13662/gimp/assets/15767104/1887d0a8-ecf5-4fee-bc28-f9ebc9ae9fda)
 
+#### 영상 90.4.77.a111. `선명하게 하기` 대화상자 → 슬라이더 `반경(Radius)` 조절 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/46b1c757-8229-4592-8f3b-7983376a0420"></video>
+
+#### 영상 90.4.77.a112. `선명하게 하기` 대화상자 → 슬라이더 `양(Amount)` 조절 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6c3d191e-63ea-402a-bf42-a5e2c1436f5e"></video>
+
 ***
 
 ## 다른 페이지로 가기

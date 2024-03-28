@@ -1,8 +1,10 @@
 # 90.1.7.15.4. 구성...(Compose...)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.7.15.4.a1. `색` → `성분` → `구성...` (Windows)
+![90-01-07-colorsx-15-components-focus-compose(windows)](https://github.com/wonder13662/gimp/assets/15767104/9aae7bfe-ed69-4ab2-8829-01b61656987e)
 
 #### 그림 90.1.7.15.4.a2. `색` → `성분` → `구성...` (Mac)
+![90-01-07-colorsx-15-components-focus-compose(mac)](https://github.com/wonder13662/gimp/assets/15767104/c384829d-c2b8-4d21-8aef-9406b0855451)
 
 ***
 

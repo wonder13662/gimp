@@ -1,4 +1,15 @@
 # 10.1.4.2. 거친 정도 줄이기(Reducing Graininess)
+빛이 적은 조건이거나 매우 빠른 노출시간으로 사진을 찍으면, 카메라는 각 픽셀의 색상값을 계산할 데이터가 부족하게 됩니다. 그 결과, 이미지의 입자가 거칠게 보입니다.
+
+You can "smooth out" the graininess by blurring the image, but then you will also lose sharpness. There are a couple of approaches that may give better results. 
+
+이미지를 흐리게 해서 거친 입자들을 감출 수 있습니다. 하지만 이미지의 선명함을 잃게 됩니다.
+
+## 1. Selective Blur
+Probably the best, if the graininess is not too bad, is to use the filter called [Selective Blur](), setting the blurring radius to 1 or 2 pixels.
+
+## 2. Despeckle filter
+The other approach is to use the [Despeckle]() filter. This has a nice preview, so you can play with the settings and try to find some that give good results. When graininess is really bad, though, it is often very difficult to fix by anything except heroic measures (i.e., retouching with paint tools).
 
 ***
 

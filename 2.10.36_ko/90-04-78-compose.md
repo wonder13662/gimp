@@ -3,8 +3,6 @@
 #### 그림 90.4.78.a101. `구성` 대화상자 (Windows) (우리말)
 ![그림 90 4 78 a101  `구성` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/01e35985-22bd-48e7-b439-0f4f880e9fcb)
 
-[10.1.4.1. 선명하게 하기(Unblurring) - 그림 90.4.78.a101]()
-
 #### 그림 90.4.78.a102. `구성` 대화상자 (Windows) (영어)
 ![그림 90 4 78 a102  `구성` 대화상자 (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/d7ea1e58-d16e-4159-be7e-f91a986ef44d)
 
@@ -13,6 +11,11 @@
 
 #### 그림 90.4.78.a104. `구성` 대화상자 (Mac) (영어)
 ![그림 90 4 78 a104  `구성` 대화상자 (Mac) (영어)(50%)](https://github.com/wonder13662/gimp/assets/15767104/2b5dcb2d-dfd5-4fd7-9842-9b05024b40e8)
+
+#### 영상 90.4.78.a105. `구성` 대화상자 → `HSV` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/43016a08-52b6-46ef-853b-4989f8e7ab40"></video>
+
+[10.1.4.1. 선명하게 하기(Unblurring) - 영상 90.4.78.a105]()
 
 ***
 
