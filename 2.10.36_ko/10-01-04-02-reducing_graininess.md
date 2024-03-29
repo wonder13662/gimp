@@ -39,13 +39,13 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 10.1.4.3. 부드럽게 하기(Softening)](./10-01-working-with-digital-camera-photosx-04-adjusting_sharpnessx-03-softening.md)
+[➡️ 다음: 10.1.4.3. 부드럽게 하기(Softening)](./10-01-04-03-softening.md)
 
-[⬅️ 이전: 10.1.4.1. 선명하게 하기(Unblurring)](./10-01-working-with-digital-camera-photosx-04-adjusting_sharpnessx-01-unblurring.md)
+[⬅️ 이전: 10.1.4.1. 선명하게 하기(Unblurring)](./10-01-04-01-unblurring.md)
 
-[⬆️ 위: 10.1.4. 선명도 조절하기(Adjust Sharpness)](./10-01-working-with-digital-camera-photosx-04-adjusting_sharpness.md)
+[⬆️ 위: 10.1.4. 선명도 조절하기(Adjust Sharpness)](./10-01-04-00-adjusting_sharpness.md)
 
-[⬆️ 위: 10.1. 디지털 카메라로 찍은 사진 편집하기](./10-01-working-with-digital-camera-photos.md)
+[⬆️ 위: 10.1. 디지털 카메라로 찍은 사진 편집하기](./10-01-00-working-with-digital-camera-photos.md)
 
 [⬆️ 위: 10. 사진 편집하기](./10-00-enhancing-photographs.md)
 

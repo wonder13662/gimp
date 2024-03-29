@@ -18,15 +18,15 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 10.1.3.2.2. 레벨 도구](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problemsx-02-level.md)
+[➡️ 다음: 10.1.3.2.2. 레벨 도구](./10-01-03-02-02-level.md)
 
-[⬅️ 이전: 10.1.3.2. 노출 문제](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problems.md)
+[⬅️ 이전: 10.1.3.2. 노출 문제](./10-01-03-02-00-exposure_problems.md)
 
-[⬆️ 위: 10.1.3.2. 노출 문제](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problems.md)
+[⬆️ 위: 10.1.3.2. 노출 문제](./10-01-03-02-00-exposure_problems.md)
 
-[⬆️ 위: 10.1.3. 색상 보정](./10-01-working-with-digital-camera-photosx-03-improving_colors.md)
+[⬆️ 위: 10.1.3. 색상 보정](./10-01-03-00-improving_colors.md)
 
-[⬆️ 위: 10.1. 디지털 카메라로 찍은 사진 편집하기](./10-01-working-with-digital-camera-photos.md)
+[⬆️ 위: 10.1. 디지털 카메라로 찍은 사진 편집하기](./10-01-00-working-with-digital-camera-photos.md)
 
 [⬆️ 위: 10. 사진 편집하기](./10-00-enhancing-photographs.md)
 

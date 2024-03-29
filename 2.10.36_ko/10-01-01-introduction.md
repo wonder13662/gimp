@@ -5,11 +5,11 @@ GIMP(김프)의 중요한 용도 중 하나는 디지털 카메라로 찍은 사
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 10.1.2. 구조적 교정](./10-01-working-with-digital-camera-photosx-02-improving_composition.md)
+[➡️ 다음: 10.1.2. 구조적 교정](./10-01-02-00-improving_composition.md)
 
-[⬅️ 이전: 10.1. 디지털 카메라로 찍은 사진 편집하기](./10-01-working-with-digital-camera-photos.md)
+[⬅️ 이전: 10.1. 디지털 카메라로 찍은 사진 편집하기](./10-01-00-working-with-digital-camera-photos.md)
 
-[⬆️ 위: 10.1. 디지털 카메라로 찍은 사진 편집하기](./10-01-working-with-digital-camera-photos.md)
+[⬆️ 위: 10.1. 디지털 카메라로 찍은 사진 편집하기](./10-01-00-working-with-digital-camera-photos.md)
 
 [⬆️ 위: 10. 사진 편집하기](./10-00-enhancing-photographs.md)
 

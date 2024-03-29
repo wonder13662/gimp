@@ -5,15 +5,15 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 10.1.3.3. 색조 및 채도 조정](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-03-adjusting_hue_and_saturation.md)
+[➡️ 다음: 10.1.3.3. 색조 및 채도 조정](./10-01-03-03-adjusting_hue_and_saturation.md)
 
-[⬅️ 이전: 10.1.3.2.5. 레이어 모드 - 나누기(Divide)](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problemsx-05-layer_mode_divide.md)
+[⬅️ 이전: 10.1.3.2.5. 레이어 모드 - 나누기(Divide)](./10-01-03-02-05-layer_mode_divide.md)
 
-[⬆️ 위: 10.1.3.2. 노출 문제](./10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problems.md)
+[⬆️ 위: 10.1.3.2. 노출 문제](./10-01-03-02-00-exposure_problems.md)
 
-[⬆️ 위: 10.1.3. 색상 보정](./10-01-working-with-digital-camera-photosx-03-improving_colors.md)
+[⬆️ 위: 10.1.3. 색상 보정](./10-01-03-00-improving_colors.md)
 
-[⬆️ 위: 10.1. 디지털 카메라로 찍은 사진 편집하기](./10-01-working-with-digital-camera-photos.md)
+[⬆️ 위: 10.1. 디지털 카메라로 찍은 사진 편집하기](./10-01-00-working-with-digital-camera-photos.md)
 
 [⬆️ 위: 10. 사진 편집하기](./10-00-enhancing-photographs.md)
 
