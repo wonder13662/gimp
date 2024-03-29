@@ -12,6 +12,8 @@
 
 도구 옵션의 "변형:" 부분에서 "레이어 변형"이 선택되어 있는지 확인합니다.
 
+[TEST](./90-04-01-tool_optionsx-12-rotate.md#90-04-01-12-a101)
+
 #### [그림 90.4.1.12.a101. 변형: 레이어 변형 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-12-rotate.html#%EA%B7%B8%EB%A6%BC-904112a101-%EB%B3%80%ED%98%95-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%B3%80%ED%98%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-01-12-a101-rotate(windows)(ko)-focus-transform_layer](https://github.com/wonder13662/gimp/assets/15767104/a37012ad-9d58-44c0-a4d5-dc2635f9f9b3)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-12-rotate.html#%EA%B7%B8%EB%A6%BC-904112a101-%EB%B3%80%ED%98%95-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%B3%80%ED%98%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 

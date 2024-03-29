@@ -3,6 +3,7 @@
 #### 그림 90.4.1.12.a1. 도구상자의 회전의 도구옵션
 ![90-04-01-tool_optionsx-12-rotate](https://github.com/wonder13662/gimp/assets/15767104/1eae8a20-f34b-4db8-b4a3-7861442a3e64)
 
+<a id="90-04-01-12-a101"></a>
 #### 그림 90.4.1.12.a101. 변형: 레이어 변형 (Windows) (우리말)
 ![90-04-01-12-a101-rotate(windows)(ko)-focus-transform_layer](https://github.com/wonder13662/gimp/assets/15767104/a37012ad-9d58-44c0-a4d5-dc2635f9f9b3)
 
