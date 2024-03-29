@@ -5,7 +5,7 @@
 #### 그림 90.1.7.14.4.a1. `색` → `자동` → `HSV 대비 증가` (Windows)
 ![90-01-07-colorsx-01-auto(windows)-focus-stretch_contrast_hsv](https://github.com/wonder13662/gimp/assets/15767104/f6f801fb-7a62-41e8-a6a2-dacbc4004850)
 
-[10.1.3.1. 자동화 도구 - 그림 90.1.7.14.4.a1](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-03-improving_colorsx-01-automated_tools.html#%EA%B7%B8%EB%A6%BC-9017144a1-%EC%83%89--%EC%9E%90%EB%8F%99--hsv-%EB%8C%80%EB%B9%84-%EC%A6%9D%EA%B0%80-windows)
+[10.1.3.1. 자동화 도구 - 그림 90.1.7.14.4.a1](./10-01-03-01-automated_tools.md#90-01-07-14-04-a1)
 
 <a id="90-01-07-14-04-a2"></a>
 
