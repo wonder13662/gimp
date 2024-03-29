@@ -561,6 +561,30 @@
 
 [90.1.9.1. 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
 
+[90.1.9.1.1. 포커스 흐림처리...(Focus Blur...)](./90-01-09-filtersx-01-blurx-01-focus_blur.md)
+
+[90.1.9.1.2. 가우시안 흐림처리...(Gaussian Blur...)](./90-01-09-filtersx-01-blurx-02-gaussian_blur.md)
+
+[90.1.9.1.3. 렌즈 흐림처리...(Lens Blur...)](./90-01-09-filtersx-01-blurx-03-lens_blur.md)
+
+[90.1.9.1.4. Mean Curvature 흐림처리...(Mean Curvature Blur...)](./90-01-09-filtersx-01-blurx-04-mean_curvature_blur.md)
+
+[90.1.9.1.5. 중앙값 흐림처리...(Median Blur...)](./90-01-09-filtersx-01-blurx-05-median_blur.md)
+
+[90.1.9.1.6. 픽셀화...(Pixelize...)](./90-01-09-filtersx-01-blurx-06-pixelize.md)
+
+[90.1.9.1.7. 일부 가우시안 흐림처리...(Selective Gaussian Blur...)](./90-01-09-filtersx-01-blurx-07-selective_gaussian_blur.md)
+
+[90.1.9.1.8. 변수 흐림처리...(Variable Blur...)](./90-01-09-filtersx-01-blurx-08-variable_blur.md)
+
+[90.1.9.1.9. 원형 움직임 흐림처리...(Circular Motion Blur...)](./90-01-09-filtersx-01-blurx-09-circular_motion_blur.md)
+
+[90.1.9.1.10. 선형 움직임 흐림처리...(Linear Motion Blur...)](./90-01-09-filtersx-01-blurx-10-linear_motion_blur.md)
+
+[90.1.9.1.11. 확대 움직임 흐림처리...(Zoom Motion Blur...)](./90-01-09-filtersx-01-blurx-11-zoom_motion_blur.md)
+
+[90.1.9.1.12. 타일 흐림처리...(Tileable Blur...)](./90-01-09-filtersx-01-blurx-12-tileable_blur.md)
+
 [90.1.9.2. 보강(Enhance)](./90-01-09-filtersx-02-enhance.md)
 
 [90.1.9.2.1. 안티 에일리어싱(Antialias)](./90-01-09-filtersx-02-enhancex-01-antialias.md)

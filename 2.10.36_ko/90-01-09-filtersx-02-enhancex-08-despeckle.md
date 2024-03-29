@@ -1,8 +1,12 @@
 # 90.1.9.2.8. 잡티 없애기...(Despeckle...)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.1.9.2.8..a1. `필터` → `보강` → `잡티 없애기...` (Windows)
+#### 그림 90.1.9.2.8.a1. `필터` → `보강` → `잡티 없애기...` (Windows)
+![90-01-09-filtersx-02-enhance(w1080)-focus-despeckle(windows)](https://github.com/wonder13662/gimp/assets/15767104/12f92e0b-47e4-4620-aee8-7efa050f1829)
 
-#### 그림 90.1.9.2.8..a2. `필터` → `보강` → `잡티 없애기...` (Mac)
+[10.1.4.2. 거친 정도 줄이기(Reducing Graininess) - 그림 90.1.9.2.8.a1]()
+
+#### 그림 90.1.9.2.8.a2. `필터` → `보강` → `잡티 없애기...` (Mac)
+![90-01-09-filtersx-02-enhance-focus-despeckle(mac)](https://github.com/wonder13662/gimp/assets/15767104/750262eb-2b97-4506-9ca1-bd25a86b3b46)
 
 ***
 
