@@ -12,10 +12,12 @@
 #### 그림 90.4.73.a104. `명도-대비` 대화상자 (Mac) (영어)
 ![90-04-73-a104(50%)](https://github.com/wonder13662/gimp/assets/15767104/5356fe7b-e023-44ac-98cc-a4f3ce2842ce)
 
+<a id="90-04-73-a111"></a>
+
 #### 그림 90.4.73.a111. `명도-대비` 대화상자 → 명도-대비 슬라이드 바 (Windows) (우리말)
 ![90-04-73-a101-focus-brightness_contrast_slider](https://github.com/wonder13662/gimp/assets/15767104/b6105699-b69f-41f6-a6c0-6a013ba0fea5)
 
-[10.1.3.2. 노출 문제 - 그림 90.4.73.a111](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-03-improving_colorsx-02-exposure_problemsx-01-brightness_contrast.html#%EA%B7%B8%EB%A6%BC-90473a111-%EB%AA%85%EB%8F%84-%EB%8C%80%EB%B9%84-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EB%AA%85%EB%8F%84-%EB%8C%80%EB%B9%84-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EB%B0%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[10.1.3.2.1. 명도/대비 도구 - 그림 90.4.73.a111](./10-01-03-02-01-brightness_contrast.md#90-04-73-a111)
 
 ***
 
