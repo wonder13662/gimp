@@ -15,6 +15,8 @@
 
 [다른 운영체제와 언어의 `가우시안 흐림처리` 대화상자 확인하기](./90-04-82-gaussian_blur.md#90-04-82-a102)
 
+<a id="90-04-82-a105"></a>
+
 #### [영상 90.4.82.a105. `가우시안 흐림처리` 대화상자 (Windows) (우리말)](./90-04-82-gaussian_blur.md#90-04-82-a105)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4591eca0-d7ee-4e82-81f3-3081031b7676"></video>
 
