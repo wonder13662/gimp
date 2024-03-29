@@ -32,11 +32,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 9.1.4.9. 왼쪽에서 오른쪽으로(From Left to Right)](./09-01-04-text_context_menux-09-from_left_to_right.md)
+[➡️ 다음: 9.1.4.9. 왼쪽에서 오른쪽으로(From Left to Right)](./09-01-04-09-from_left_to_right.md)
 
-[⬅️ 이전: 9.1.4.7. 텍스트에서 경로(Path from Text)](./09-01-04-text_context_menux-07-path_from_text.md)
+[⬅️ 이전: 9.1.4.7. 텍스트에서 경로(Path from Text)](./09-01-04-07-path_from_text.md)
 
-[⬆️ 위: 9.1.4. 텍스트 컨텍스트 메뉴(Text Context Menu)](./09-01-04-text_context_menu.md)
+[⬆️ 위: 9.1.4. 텍스트 컨텍스트 메뉴(Text Context Menu)](./09-01-04-00-text_context_menu.md)
 
 [⬆️ 위: 9.1. 텍스트 관리(Text management)](./09-01-text-management.md)
 

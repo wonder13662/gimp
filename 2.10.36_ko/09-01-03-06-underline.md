@@ -11,11 +11,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 9.1.3.7. 선택한 텍스트의 취소선(Strikethrough)](./09-01-03-text_toolboxx-07-strikethrough.md)
+[➡️ 다음: 9.1.3.7. 선택한 텍스트의 취소선(Strikethrough)](./09-01-03-07-strikethrough.md)
 
-[⬅️ 이전: 9.1.3.5. 선택한 텍스트의 이탤릭체(Italic)](./09-01-03-text_toolboxx-05-italic.md)
+[⬅️ 이전: 9.1.3.5. 선택한 텍스트의 이탤릭체(Italic)](./09-01-03-05-italic.md)
 
-[⬆️ 위: 9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-text_toolbox.md)
+[⬆️ 위: 9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-00-text_toolbox.md)
 
 [⬆️ 위: 9.1. 텍스트 관리(Text management)](./09-01-text-management.md)
 

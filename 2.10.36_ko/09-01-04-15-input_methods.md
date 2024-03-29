@@ -9,9 +9,9 @@
 ## 다른 페이지로 가기
 [➡️ 다음: 9.2. 텍스트(Text)](./09-02-00-text.md)
 
-[⬅️ 이전: 9.1.4.14. 수직으로 왼쪽에서 오른쪽(수직 방향) - Vertical, left to right (upright orientation)](./09-01-04-text_context_menux-14-vertical_left_to_right_upright_orientation.md)
+[⬅️ 이전: 9.1.4.14. 수직으로 왼쪽에서 오른쪽(수직 방향) - Vertical, left to right (upright orientation)](./09-01-04-14-vertical_left_to_right_upright_orientation.md)
 
-[⬆️ 위: 9.1.4. 텍스트 컨텍스트 메뉴(Text Context Menu)](./09-01-04-text_context_menu.md)
+[⬆️ 위: 9.1.4. 텍스트 컨텍스트 메뉴(Text Context Menu)](./09-01-04-00-text_context_menu.md)
 
 [⬆️ 위: 9.1. 텍스트 관리(Text management)](./09-01-text-management.md)
 

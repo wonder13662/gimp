@@ -32,7 +32,7 @@
 #### [영상 90.4.3.14.a82. 키보드의 Shift(⇧) + 방향키로 수정할 텍스트 선택하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-14-text_layer.html#%EC%98%81%EC%83%81-904314a82-%ED%82%A4%EB%B3%B4%EB%93%9C%EC%9D%98-shift--%EB%B0%A9%ED%96%A5%ED%82%A4%EB%A1%9C-%EC%88%98%EC%A0%95%ED%95%A0-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7bbfc91e-08be-4878-99cb-ae29c661e051"></video>
 
-선택한 텍스트에 대해 [9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-text_toolbox.md)의 옵션을 사용할 수 있습니다.
+선택한 텍스트에 대해 [9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-00-text_toolbox.md)의 옵션을 사용할 수 있습니다.
 
 #### [영상 90.4.3.14.a83. 선택한 텍스트에 텍스트 도구 상자의 옵션(이탤릭체, 밑줄 등) 적용하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-14-text_layer.html#%EC%98%81%EC%83%81-904314a83-%EC%84%A0%ED%83%9D%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%B5%EC%85%98%EC%9D%B4%ED%83%A4%EB%A6%AD%EC%B2%B4-%EB%B0%91%EC%A4%84-%EB%93%B1-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3b23fd7a-6501-45c5-b8a7-a39b3305feae"></video>
