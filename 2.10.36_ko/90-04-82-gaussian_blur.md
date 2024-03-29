@@ -23,9 +23,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.81. 잡티 없애기(Despeckle)](./90-04-81-despeckle.md)
+[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
-[⬅️ 이전: 90.4.79. 분해(Decompose)](./90-04-79-decompose.md)
+[⬅️ 이전: 90.4.81. 잡티 없애기(Despeckle)](./90-04-81-despeckle.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 
