@@ -24,7 +24,7 @@
 #### 영상 90.1.7.14.2.a4. `색` → `자동` → `화이트 밸런스` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ce19f698-5f49-4fdd-8b6e-77eee91f7561"></video>
 
-[10.1.3.1. 자동화 도구 - 영상 90.1.7.14.2.a4](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-03-improving_colorsx-01-automated_tools.html#%EC%98%81%EC%83%81-9017142a4-%EC%83%89--%EC%9E%90%EB%8F%99--%ED%99%94%EC%9D%B4%ED%8A%B8-%EB%B0%B8%EB%9F%B0%EC%8A%A4-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[10.1.3.1. 자동화 도구 - 영상 90.1.7.14.2.a4](./10-01-03-01-automated_tools.md#90-01-07-14-02-a4)
 
 ***
 
