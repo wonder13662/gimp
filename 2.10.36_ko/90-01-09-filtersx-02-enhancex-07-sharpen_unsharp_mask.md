@@ -6,7 +6,7 @@
 #### 그림 90.1.9.2.7.a1. `필터` → `보강` → `선명하게...` (Windows)
 ![90-01-09-filtersx-02-enhance(w1080)-focus-sharpen_unsharpen_mask(windows)](https://github.com/wonder13662/gimp/assets/15767104/1a306ad6-8d76-446b-bfb0-ecd7aeb70ad3)
 
-[10.1.4.1. 선명하게 하기(Unblurring) - 그림 90.1.9.2.7.a1](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-04-adjusting_sharpnessx-01-unblurring.html#%EA%B7%B8%EB%A6%BC-901927a1-%ED%95%84%ED%84%B0--%EB%B3%B4%EA%B0%95--%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C-windows)
+[10.1.4.1. 선명하게 하기(Unblurring) - 그림 90.1.9.2.7.a1](./10-01-04-01-unblurring.md#90-01-09-02-07-a1)
 
 <a id="90-01-09-02-07-a2"></a>
 
