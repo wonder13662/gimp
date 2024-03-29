@@ -4,7 +4,7 @@
 
 ## 하위 페이지
 
-[10.1.1. 들어가기](./10-01-01-introduction.md.md)
+[10.1.1. 들어가기](./10-01-01-introduction.md)
 
 [10.1.2. 구조적 교정](./10-01-02-00-improving_composition.md)
 
@@ -30,7 +30,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 10.1.1. 들어가기](./10-01-01-introduction.md.md)
+[➡️ 다음: 10.1.1. 들어가기](./10-01-01-introduction.md)
 
 [⬅️ 이전: 10. 사진 편집하기](./10-00-enhancing-photographs.md)
 

@@ -33,7 +33,7 @@ GIMP(김프)에서 이 문제를 해결하기 위한 또다른 방법으로 회�
 
 [➡️ 다음: 10.1.3. 색상 보정](./10-01-03-00-improving_colors.md)
 
-[⬅️ 이전: 10.1.1. 들어가기](./10-01-01-introduction.md.md)
+[⬅️ 이전: 10.1.1. 들어가기](./10-01-01-introduction.md)
 
 [⬆️ 위: 10.1. 디지털 카메라로 찍은 사진 편집하기](./10-01-00-working-with-digital-camera-photos.md)
 
