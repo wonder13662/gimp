@@ -66,6 +66,8 @@
 #### [그림 90.4.3.14.a104. 이동 도구로 텍스트 옮기기 - 텍스트가 아닌 다른 레이어를 선택했을 때의 커서 아이콘](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-14-text_layer.html#%EA%B7%B8%EB%A6%BC-904314a104-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%AE%EA%B8%B0%EA%B8%B0---%ED%85%8D%EC%8A%A4%ED%8A%B8%EA%B0%80-%EC%95%84%EB%8B%8C-%EB%8B%A4%EB%A5%B8-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84-%EB%95%8C%EC%9D%98-%EC%BB%A4%EC%84%9C-%EC%95%84%EC%9D%B4%EC%BD%98)
 [![90-04-03-14-a103-move_tool_cursor_on_other_layer(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/dad75751-3910-4e37-8e8f-c0b90f07cb45)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-14-text_layer.html#%EA%B7%B8%EB%A6%BC-904314a104-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%AE%EA%B8%B0%EA%B8%B0---%ED%85%8D%EC%8A%A4%ED%8A%B8%EA%B0%80-%EC%95%84%EB%8B%8C-%EB%8B%A4%EB%A5%B8-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84-%EB%95%8C%EC%9D%98-%EC%BB%A4%EC%84%9C-%EC%95%84%EC%9D%B4%EC%BD%98)
 
+<a id="09-01-01-s6"></a>
+
 ## 6. 유니코드(Unicode) 문자 입력하기
 텍스트 박스에서 Ctrl(⌘) + Shift(⇧) + U를 누르면 밑줄(underscore)이 쳐진 `u`가 추가됩니다. 그 뒤로 16진수의 유니코드를 입력하면 원하는 유니코드 문자를 입력할 수 있습니다.
 
