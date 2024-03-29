@@ -4,10 +4,11 @@
 ![90-04-01-tool_optionsx-12-rotate](https://github.com/wonder13662/gimp/assets/15767104/1eae8a20-f34b-4db8-b4a3-7861442a3e64)
 
 <a id="90-04-01-12-a101"></a>
+
 #### 그림 90.4.1.12.a101. 변형: 레이어 변형 (Windows) (우리말)
 ![90-04-01-12-a101-rotate(windows)(ko)-focus-transform_layer](https://github.com/wonder13662/gimp/assets/15767104/a37012ad-9d58-44c0-a4d5-dc2635f9f9b3)
 
-[10.1.2.1. 이미지 회전시키기 - 그림 90.4.1.12.a101](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-02-improving_compositionx-01-rotating_an_image.html#%EA%B7%B8%EB%A6%BC-904112a101-%EB%B3%80%ED%98%95-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%B3%80%ED%98%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[10.1.2.1. 이미지 회전시키기 - 그림 90.4.1.12.a101](./10-01-02-01-rotating_an_image.md#90-04-01-12-a101)
 
 ***
 
