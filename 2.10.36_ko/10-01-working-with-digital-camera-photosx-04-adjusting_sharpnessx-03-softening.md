@@ -1,4 +1,19 @@
 # 10.1.4.3. 부드럽게 하기(Softening)
+이미지가 너무 선명하다면, 약간 흐릿하게 만들어 줍니다. [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `필터` → `흐림처리` → `가우시안 흐림처리...`을 선택합니다. 결과 이미지는 다소 흐릿해집니다.
+
+#### [그림 90.1.9.1.2.a1. `필터` → `흐림처리` → `가우시안 흐림처리...` (Windows)]()
+[![90-01-09-filtersx-01-blur-focus-gaussian_blur(windows)](https://github.com/wonder13662/gimp/assets/15767104/6ce59f61-1e4a-4d6e-a14c-32b2ffe1cb77)]()
+
+[다른 운영체제와 언어의 `필터` → `흐림처리` → `가우시안 흐림처리...` 확인하기]()
+
+#### [그림 90.4.82.a101. `가우시안 흐림처리` 대화상자 (Windows) (우리말)]()
+[![그림 90 4 82 a101  `가우시안 흐림처리` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/b1edba3b-1764-42a5-a6be-0c03be3b662a)]()
+
+[다른 운영체제와 언어의 `가우시안 흐림처리` 대화상자 확인하기]()
+
+#### [영상 90.4.82.a105. `가우시안 흐림처리` 대화상자 (Windows) (우리말)]()
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4591eca0-d7ee-4e82-81f3-3081031b7676"></video>
+
 ***
 
 ## 다른 페이지로 가기

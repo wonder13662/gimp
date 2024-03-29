@@ -1,8 +1,12 @@
 # 90.1.9.1.2. 가우시안 흐림처리...(Gaussian Blur...)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 #### 그림 90.1.9.1.2.a1. `필터` → `흐림처리` → `가우시안 흐림처리...` (Windows)
+![90-01-09-filtersx-01-blur-focus-gaussian_blur(windows)](https://github.com/wonder13662/gimp/assets/15767104/6ce59f61-1e4a-4d6e-a14c-32b2ffe1cb77)
+
+[10.1.4.3. 부드럽게 하기(Softening) - 그림 90.1.9.1.2.a1]()
 
 #### 그림 90.1.9.1.2.a2. `필터` → `흐림처리` → `가우시안 흐림처리...` (Mac)
+![90-01-09-filtersx-01-blur-focus-gaussian_blur(mac)](https://github.com/wonder13662/gimp/assets/15767104/ab7744aa-cbd7-44a2-8e50-c1a0db77593f)
 
 ***
 

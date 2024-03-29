@@ -1266,6 +1266,8 @@
 
 [90.4.81. 잡티 없애기(Despeckle)](./90-04-81-despeckle.md)
 
+[90.4.82. 가우시안 흐림처리(Gaussian Blur)](./90-04-82-gaussian_blur.md)
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
