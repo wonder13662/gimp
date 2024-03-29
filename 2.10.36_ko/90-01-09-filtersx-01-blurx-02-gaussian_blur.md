@@ -3,7 +3,7 @@
 #### 그림 90.1.9.1.2.a1. `필터` → `흐림처리` → `가우시안 흐림처리...` (Windows)
 ![90-01-09-filtersx-01-blur-focus-gaussian_blur(windows)](https://github.com/wonder13662/gimp/assets/15767104/6ce59f61-1e4a-4d6e-a14c-32b2ffe1cb77)
 
-[10.1.4.3. 부드럽게 하기(Softening) - 그림 90.1.9.1.2.a1]()
+[10.1.4.3. 부드럽게 하기(Softening) - 그림 90.1.9.1.2.a1](https://wonder13662.github.io/gimp/2.10.36_ko/10-01-working-with-digital-camera-photosx-04-adjusting_sharpnessx-03-softening.html#%EA%B7%B8%EB%A6%BC-901912a1-%ED%95%84%ED%84%B0--%ED%9D%90%EB%A6%BC%EC%B2%98%EB%A6%AC--%EA%B0%80%EC%9A%B0%EC%8B%9C%EC%95%88-%ED%9D%90%EB%A6%BC%EC%B2%98%EB%A6%AC-windows)
 
 #### 그림 90.1.9.1.2.a2. `필터` → `흐림처리` → `가우시안 흐림처리...` (Mac)
 ![90-01-09-filtersx-01-blur-focus-gaussian_blur(mac)](https://github.com/wonder13662/gimp/assets/15767104/ab7744aa-cbd7-44a2-8e50-c1a0db77593f)
