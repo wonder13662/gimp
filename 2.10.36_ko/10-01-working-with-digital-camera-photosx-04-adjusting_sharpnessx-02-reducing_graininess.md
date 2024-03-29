@@ -4,8 +4,8 @@
 ## 1. 일부 가우시안 흐림처리(Selective Gaussian Blur)
 이미지의 거친 입자가 너무 나쁘지 않다면, [일부 가우시안 흐림처리(Selective Gaussian Blur)](./17-03-08-selective-gaussian-blur.md)를 흐림 반경(blurring radius)을 1 또는 2 픽셀로 설정해서 적용하면 좋은 결과를 얻을 수 있습니다.
 
-#### 그림 90.1.9.1.7.a1. `필터` → `흐림처리` → `일부 가우시안 흐림처리...` (Windows)
-![90-01-09-filtersx-01-blur-focus-selective_gaussian_blur(windows)](https://github.com/wonder13662/gimp/assets/15767104/1d26326a-237c-45c5-b1cc-0eb3656d1e51)
+#### [그림 90.1.9.1.7.a1. `필터` → `흐림처리` → `일부 가우시안 흐림처리...` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-09-filtersx-01-blurx-07-selective_gaussian_blur.html#%EA%B7%B8%EB%A6%BC-901917a1-%ED%95%84%ED%84%B0--%ED%9D%90%EB%A6%BC%EC%B2%98%EB%A6%AC--%EC%9D%BC%EB%B6%80-%EA%B0%80%EC%9A%B0%EC%8B%9C%EC%95%88-%ED%9D%90%EB%A6%BC%EC%B2%98%EB%A6%AC-windows)
+[![90-01-09-filtersx-01-blur-focus-selective_gaussian_blur(windows)](https://github.com/wonder13662/gimp/assets/15767104/1d26326a-237c-45c5-b1cc-0eb3656d1e51)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-09-filtersx-01-blurx-07-selective_gaussian_blur.html#%EA%B7%B8%EB%A6%BC-901917a1-%ED%95%84%ED%84%B0--%ED%9D%90%EB%A6%BC%EC%B2%98%EB%A6%AC--%EC%9D%BC%EB%B6%80-%EA%B0%80%EC%9A%B0%EC%8B%9C%EC%95%88-%ED%9D%90%EB%A6%BC%EC%B2%98%EB%A6%AC-windows)
 
 [다른 운영체제와 언어의 `필터` → `흐림처리` → `일부 가우시안 흐림처리...` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-09-filtersx-01-blurx-07-selective_gaussian_blur.html#%EA%B7%B8%EB%A6%BC-901917a2-%ED%95%84%ED%84%B0--%ED%9D%90%EB%A6%BC%EC%B2%98%EB%A6%AC--%EC%9D%BC%EB%B6%80-%EA%B0%80%EC%9A%B0%EC%8B%9C%EC%95%88-%ED%9D%90%EB%A6%BC%EC%B2%98%EB%A6%AC-mac)
 
