@@ -8,35 +8,47 @@
 
 이 기능은 플러그인이며, [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `필터` → `보강` → `선명하게...`로 사용할 수 있습니다.
 
-#### [그림 90.1.9.2.7.a1. `필터` → `보강` → `선명하게...` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-09-filtersx-02-enhancex-07-sharpen_unsharp_mask.html#%EA%B7%B8%EB%A6%BC-901927a1-%ED%95%84%ED%84%B0--%EB%B3%B4%EA%B0%95--%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C-windows)
-[![90-01-09-filtersx-02-enhance(w1080)-focus-sharpen_unsharpen_mask(windows)](https://github.com/wonder13662/gimp/assets/15767104/1a306ad6-8d76-446b-bfb0-ecd7aeb70ad3)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-09-filtersx-02-enhancex-07-sharpen_unsharp_mask.html#%EA%B7%B8%EB%A6%BC-901927a1-%ED%95%84%ED%84%B0--%EB%B3%B4%EA%B0%95--%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C-windows)
+<a id="90-01-09-02-07-a1"></a>
 
-[다른 운영체제와 언어의 `필터` → `보강` → `선명하게...` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-09-filtersx-02-enhancex-07-sharpen_unsharp_mask.html#%EA%B7%B8%EB%A6%BC-901927a2-%ED%95%84%ED%84%B0--%EB%B3%B4%EA%B0%95--%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C-mac)
+#### [그림 90.1.9.2.7.a1. `필터` → `보강` → `선명하게...` (Windows)](./90-01-09-filtersx-02-enhancex-07-sharpen_unsharp_mask.md#90-01-09-02-07-a1)
+![90-01-09-filtersx-02-enhance(w1080)-focus-sharpen_unsharpen_mask(windows)](https://github.com/wonder13662/gimp/assets/15767104/1a306ad6-8d76-446b-bfb0-ecd7aeb70ad3)
+
+[다른 운영체제와 언어의 `필터` → `보강` → `선명하게...` 확인하기](./90-01-09-filtersx-02-enhancex-07-sharpen_unsharp_mask.md#90-01-09-02-07-a2)
 
 슬라이더 `반경(Radius)`과 `양(Amount)`으로 입력값을 조절할 수 있습니다. 기본값으로도 잘 작동하므로, 우선 기본값으로 적용해보세요.
 
-#### [그림 90.4.77.a101. `선명하게 하기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-77-sharpen_unsharp_mask.html#%EA%B7%B8%EB%A6%BC-90477a101-%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C-%ED%95%98%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![그림 90 4 77 a101  `선명하게 하기` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/6318a007-1f0d-4ec5-bfae-9d4afad17625)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-77-sharpen_unsharp_mask.html#%EA%B7%B8%EB%A6%BC-90477a101-%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C-%ED%95%98%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-77-a101"></a>
 
-[다른 운영체제와 언어의 `선명하게 하기` 대화상자 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-77-sharpen_unsharp_mask.html#%EA%B7%B8%EB%A6%BC-90477a102-%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C-%ED%95%98%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%98%81%EC%96%B4)
+#### [그림 90.4.77.a101. `선명하게 하기` 대화상자 (Windows) (우리말)](./90-04-77-sharpen_unsharp_mask.md#90-04-77-a101)
+![그림 90 4 77 a101  `선명하게 하기` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/6318a007-1f0d-4ec5-bfae-9d4afad17625)
+
+[다른 운영체제와 언어의 `선명하게 하기` 대화상자 확인하기](./90-04-77-sharpen_unsharp_mask.md#90-04-77-a102)
 
 슬라이더 `반경(Radius)`과 `양(Amount)`의 값을 높이면, 이미지의 노이즈를 강하게 합니다. 또한 선명한 경계에 시각적인 부산물이 보여집니다.
 
-#### [영상 90.4.77.a111. `선명하게 하기` 대화상자 → 슬라이더 `반경(Radius)` 조절 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-77-sharpen_unsharp_mask.html#%EC%98%81%EC%83%81-90477a111-%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C-%ED%95%98%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%8D%94-%EB%B0%98%EA%B2%BDradius-%EC%A1%B0%EC%A0%88-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-77-a111"></a>
+
+#### [영상 90.4.77.a111. `선명하게 하기` 대화상자 → 슬라이더 `반경(Radius)` 조절 (Windows) (우리말)](./90-04-77-sharpen_unsharp_mask.md#90-04-77-a111)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/46b1c757-8229-4592-8f3b-7983376a0420"></video>
 
-#### [영상 90.4.77.a112. `선명하게 하기` 대화상자 → 슬라이더 `양(Amount)` 조절 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-77-sharpen_unsharp_mask.html#%EC%98%81%EC%83%81-90477a112-%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C-%ED%95%98%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%8D%94-%EC%96%91amount-%EC%A1%B0%EC%A0%88-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-77-a112"></a>
+
+#### [영상 90.4.77.a112. `선명하게 하기` 대화상자 → 슬라이더 `양(Amount)` 조절 (Windows) (우리말)](./90-04-77-sharpen_unsharp_mask.md#90-04-77-a112)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6c3d191e-63ea-402a-bf42-a5e2c1436f5e"></video>
 
 ## 2. 분해(Decompose) 및 구성(Compose)
 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `필터` → `보강` → `선명하게...`을 사용하면 이미지의 대조가 강한 경우에 때때로 색상 왜곡이 일어납니다. 색상 왜곡이 일어나면, 이미지를 HSV로 분해(Decompose)해서 색상(Hue)-채도(Saturation)-명도(Value) 레이어로 분리합니다.
 
-#### [그림 90.4.79.a101. `분해` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-79-decompose.html#%EA%B7%B8%EB%A6%BC-90479a101-%EB%B6%84%ED%95%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![그림 90 4 79 a101  `분해` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/5fe50758-137a-4841-ab81-7670c79cae03)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-79-decompose.html#%EA%B7%B8%EB%A6%BC-90479a101-%EB%B6%84%ED%95%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-79-a101"></a>
 
-[다른 운영체제와 언어의 `분해` 대화상자 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-79-decompose.html#%EA%B7%B8%EB%A6%BC-90479a102-%EB%B6%84%ED%95%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%98%81%EC%96%B4)
+#### [그림 90.4.79.a101. `분해` 대화상자 (Windows) (우리말)](./90-04-79-decompose.md#90-04-79-a101)
+![그림 90 4 79 a101  `분해` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/5fe50758-137a-4841-ab81-7670c79cae03)
 
-#### [영상 90.4.79.a111. `분해` 대화상자 → `HSV` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-79-decompose.html#%EC%98%81%EC%83%81-90479a111-%EB%B6%84%ED%95%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--hsv-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[다른 운영체제와 언어의 `분해` 대화상자 확인하기](./90-04-79-decompose.md#90-04-79-a102)
+
+<a id="90-04-79-a111"></a>
+
+#### [영상 90.4.79.a111. `분해` 대화상자 → `HSV` (Windows) (우리말)](./90-04-79-decompose.md#90-04-79-a111)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4982e199-8f77-4f22-91dc-521bf57be295"></video>
 
 그리고 명도(Value) 레이어에만 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `필터` → `보강` → `선명하게...`를 적용합니다. 
@@ -46,12 +58,16 @@
 
 그리고 다시 레이어들을 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `색` → `성분` → `구성...`을 적용해서 하나로 만듭니다.
 
-#### [그림 90.4.78.a101. `구성` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-78-compose.html#%EA%B7%B8%EB%A6%BC-90478a101-%EA%B5%AC%EC%84%B1-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![그림 90 4 78 a101  `구성` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/01e35985-22bd-48e7-b439-0f4f880e9fcb)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-78-compose.html#%EA%B7%B8%EB%A6%BC-90478a101-%EA%B5%AC%EC%84%B1-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-78-a101"></a>
 
-[다른 운영체제와 언어의 `구성` 대화상자 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-78-compose.html#%EA%B7%B8%EB%A6%BC-90478a102-%EA%B5%AC%EC%84%B1-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%98%81%EC%96%B4)
+#### [그림 90.4.78.a101. `구성` 대화상자 (Windows) (우리말)](./90-04-78-compose.md#90-04-78-a101)
+![그림 90 4 78 a101  `구성` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/01e35985-22bd-48e7-b439-0f4f880e9fcb)
 
-#### [영상 90.4.78.a105. `구성` 대화상자 → `HSV` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-78-compose.html#%EC%98%81%EC%83%81-90478a105-%EA%B5%AC%EC%84%B1-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--hsv-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[다른 운영체제와 언어의 `구성` 대화상자 확인하기](./90-04-78-compose.md#90-04-78-a102)
+
+<a id="90-04-78-a105"></a>
+
+#### [영상 90.4.78.a105. `구성` 대화상자 → `HSV` (Windows) (우리말)](./90-04-78-compose.md#90-04-78-a105)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/43016a08-52b6-46ef-853b-4989f8e7ab40"></video>
 
 사람의 시각은 색상보다 명암에 대해 더 민감하므로 이 방법은 효과적입니다. 더 자세한 내용은 [16.8.27. 분해(Decompose)](./16-08-27-decompose.md)와 [16.8.26. 구성(Compose)](./16-08-26-compose.md)을 참고해주세요.
@@ -59,12 +75,16 @@
 ## 3. 흐릿하게/선명하게(Blur/Sharpen) 도구
 [흐릿하게/선명하게(Blur/Sharpen)]() 도구의 "선명하게" 모드로 이미지의 부분만을 "선명하게" 처리를 하는 것이 좋을 수도 있습니다. 칠하기 붓으로 이미지를 칠해서 영역의 선명도를 올려줍니다.
 
-#### [그림 90.3.2.33.a2. 도구상자 - '흐릿하게/선명하게'](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-33-blur_sharpen.html#%EA%B7%B8%EB%A6%BC-903233a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%ED%9D%90%EB%A6%BF%ED%95%98%EA%B2%8C%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C)
-[![그림 90.3.2.33.a2. 도구상자 - '흐릿하게/선명하게'](https://github.com/wonder13662/gimp/assets/15767104/b0a3539c-e757-40c6-b3a8-66e730e743ce)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-33-blur_sharpen.html#%EA%B7%B8%EB%A6%BC-903233a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%ED%9D%90%EB%A6%BF%ED%95%98%EA%B2%8C%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C)
+<a id="90-03-02-33-a2"></a>
+
+#### [그림 90.3.2.33.a2. 도구상자 - '흐릿하게/선명하게'](./90-03-02-tool_iconx-33-blur_sharpen.md#90-03-02-33-a2)
+![그림 90.3.2.33.a2. 도구상자 - '흐릿하게/선명하게'](https://github.com/wonder13662/gimp/assets/15767104/b0a3539c-e757-40c6-b3a8-66e730e743ce)
 
 이 방법은 매우 부자연스러운 결과가 나올 수 있기 때문에 자제하면서 사용해야 합니다. "선명하게(Sharpen)"은 이미지의 경계의 선명한 정도를 증가시키며 노이즈도 역시 함께 확대합니다.
 
-#### [영상 90.3.2.33.a111. 흐릿하게/선명하게(Blur/Sharpen)로 이미지의 선명도 올리기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-33-blur_sharpen.html#%EC%98%81%EC%83%81-903233a111-%ED%9D%90%EB%A6%BF%ED%95%98%EA%B2%8C%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8Cblursharpen%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EC%84%A0%EB%AA%85%EB%8F%84-%EC%98%AC%EB%A6%AC%EA%B8%B0)
+<a id="90-03-02-33-a111"></a>
+
+#### [영상 90.3.2.33.a111. 흐릿하게/선명하게(Blur/Sharpen)로 이미지의 선명도 올리기](./90-03-02-tool_iconx-33-blur_sharpen.md#90-03-02-33-a111)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/82df94fb-425d-491a-a6e8-a997bb566094"></video>
 
 ***
