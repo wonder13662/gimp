@@ -24,7 +24,7 @@
 #### 영상 90.4.81.a105. `잡티 없애기` 대화상자 - 거친 입자 부드럽게 하기 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9ca58211-df8e-476b-8930-bfc0d781027d"></video>
 
-[10.1.4.2. 거친 정도 줄이기(Reducing Graininess) - 영상 90.4.81.a105](./10-01-04-02-reducing_graininess.md)
+[10.1.4.2. 거친 정도 줄이기(Reducing Graininess) - 영상 90.4.81.a105](./10-01-04-02-reducing_graininess.md#90-04-81-a105)
 
 ***
 
