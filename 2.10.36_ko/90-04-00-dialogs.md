@@ -400,6 +400,14 @@
 #### 그림 90.4.79.a101. `분해` 대화상자 (Windows) (우리말)
 ![그림 90 4 79 a101  `분해` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/5fe50758-137a-4841-ab81-7670c79cae03)
 
+### [90.4.80. 일부 가우시안 흐림처리(Selective Gaussian Blur)](./90-04-80-selective_gaussian_blur.md)
+#### 그림 90.4.80.a101. `일부 가우시안 흐림처리` 대화상자 (Windows) (우리말)
+![그림 90 4 80 a101  `일부 가우시안 흐림처리` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/c8f24a85-5d48-4f78-898c-027973bc3c30)
+
+### [90.4.81. 잡티 없애기(Despeckle)](./90-04-81-despeckle.md)
+#### 그림 90.4.81.a101. `잡티 없애기` 대화상자 (Windows) (우리말)
+![그림 90 4 81 a101  `잡티 없애기` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/18fe823c-197d-4c19-b900-bac592aad42d)
+
 ***
 
 ## 공통 기능

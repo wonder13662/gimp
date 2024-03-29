@@ -1262,6 +1262,10 @@
 
 [90.4.79. 분해(Decompose)](./90-04-79-decompose.md)
 
+[90.4.80. 일부 가우시안 흐림처리(Selective Gaussian Blur)](./90-04-80-selective_gaussian_blur.md)
+
+[90.4.81. 잡티 없애기(Despeckle)](./90-04-81-despeckle.md)
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

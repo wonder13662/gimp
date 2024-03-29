@@ -25,7 +25,7 @@
 
 [➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
-[⬅️ 이전: 90.4.78. 구성(Compose)](./90-04-78-compose.md)
+[⬅️ 이전: 90.4.80. 일부 가우시안 흐림처리(Selective Gaussian Blur)](./90-04-80-selective_gaussian_blur.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

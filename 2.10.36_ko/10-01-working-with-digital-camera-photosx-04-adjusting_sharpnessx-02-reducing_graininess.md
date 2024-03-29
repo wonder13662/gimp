@@ -7,8 +7,12 @@
 #### 그림 90.1.9.1.7.a1. `필터` → `흐림처리` → `일부 가우시안 흐림처리...` (Windows)
 ![90-01-09-filtersx-01-blur-focus-selective_gaussian_blur(windows)](https://github.com/wonder13662/gimp/assets/15767104/1d26326a-237c-45c5-b1cc-0eb3656d1e51)
 
+[다른 운영체제와 언어의 `필터` → `흐림처리` → `일부 가우시안 흐림처리...` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-09-filtersx-01-blurx-07-selective_gaussian_blur.html#%EA%B7%B8%EB%A6%BC-901917a2-%ED%95%84%ED%84%B0--%ED%9D%90%EB%A6%BC%EC%B2%98%EB%A6%AC--%EC%9D%BC%EB%B6%80-%EA%B0%80%EC%9A%B0%EC%8B%9C%EC%95%88-%ED%9D%90%EB%A6%BC%EC%B2%98%EB%A6%AC-mac)
+
 #### [그림 90.4.80.a101. `일부 가우시안 흐림처리` 대화상자 (Windows) (우리말)]()
 ![그림 90 4 80 a101  `일부 가우시안 흐림처리` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/c8f24a85-5d48-4f78-898c-027973bc3c30)
+
+[다른 운영체제와 언어의 `일부 가우시안 흐림처리` 대화상자 확인하기]()
 
 #### [영상 90.4.80.a105. `일부 가우시안 흐림처리` 대화상자 (Windows) (우리말)]()
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a1015b6e-565e-4e69-ad4a-1e461a34776c"></video>
@@ -16,16 +20,20 @@
 ## 2. 잡티 없애기 필터(Despeckle filter)
 다른 방법은 [잡티 없애기](./17-04-09-despeckle.md) 필터를 사용하는 것입니다. [잡티 없애기](./17-04-09-despeckle.md)는 미리보기 기능으로 설정을 조정해서 좋은 결과를 만들어 낼 수 있습니다.
 
-이미지의 거친 입자가 너무 나쁘다면, 수정하기 불가능할 수도 있습니다. 예외적으로 칠하기 도구 등으로 리터칭을 하는 방법을 사용할 수도 있습니다.
+#### [그림 90.1.9.2.8.a1. `필터` → `보강` → `잡티 없애기...` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-09-filtersx-02-enhancex-08-despeckle.html#%EA%B7%B8%EB%A6%BC-901928a1-%ED%95%84%ED%84%B0--%EB%B3%B4%EA%B0%95--%EC%9E%A1%ED%8B%B0-%EC%97%86%EC%95%A0%EA%B8%B0-windows)
+[![90-01-09-filtersx-02-enhance(w1080)-focus-despeckle(windows)](https://github.com/wonder13662/gimp/assets/15767104/12f92e0b-47e4-4620-aee8-7efa050f1829)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-09-filtersx-02-enhancex-08-despeckle.html#%EA%B7%B8%EB%A6%BC-901928a1-%ED%95%84%ED%84%B0--%EB%B3%B4%EA%B0%95--%EC%9E%A1%ED%8B%B0-%EC%97%86%EC%95%A0%EA%B8%B0-windows)
 
-#### [그림 90.1.9.2.8.a1. `필터` → `보강` → `잡티 없애기...` (Windows)]()
-[![90-01-09-filtersx-02-enhance(w1080)-focus-despeckle(windows)](https://github.com/wonder13662/gimp/assets/15767104/12f92e0b-47e4-4620-aee8-7efa050f1829)]()
+[다른 운영체제와 언어의 `필터` → `보강` → `잡티 없애기...` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-09-filtersx-02-enhancex-08-despeckle.html#%EA%B7%B8%EB%A6%BC-901928a2-%ED%95%84%ED%84%B0--%EB%B3%B4%EA%B0%95--%EC%9E%A1%ED%8B%B0-%EC%97%86%EC%95%A0%EA%B8%B0-mac)
 
 #### [그림 90.4.81.a101. `잡티 없애기` 대화상자 (Windows) (우리말)]()
 [![그림 90 4 81 a101  `잡티 없애기` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/18fe823c-197d-4c19-b900-bac592aad42d)]()
 
+[다른 운영체제와 언어의 `잡티 없애기` 대화상자 확인하기]()
+
 #### [영상 90.4.81.a105. `잡티 없애기` 대화상자 - 거친 입자 부드럽게 하기 (Windows) (우리말)]()
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9ca58211-df8e-476b-8930-bfc0d781027d"></video>
+
+이미지의 거친 입자가 너무 나쁘다면, 수정하기 불가능할 수도 있습니다. 예외적으로 칠하기 도구 등으로 리터칭을 하는 방법을 사용할 수도 있습니다.
 
 ***
 
