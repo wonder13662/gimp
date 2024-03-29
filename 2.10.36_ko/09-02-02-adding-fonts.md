@@ -49,10 +49,12 @@ Mac OS X 시스템에서 폰트를 추가하는 여러가지 방법이 있습니
 ## 4. 글꼴(Fonts) 경로 설정
 GIMP(김프) 글꼴 경로는 기본 설정 대화 상자의 글꼴 폴더에서 설정할 수 있습니다.
 
-#### [그림 90.2.9.6.a1. `기본 설정` → `폴더` → `글꼴` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-06-fonts.html#%EA%B7%B8%EB%A6%BC-90296a1-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EA%B8%80%EA%BC%B4-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-02-09-06-fonts(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/f4ab0207-eddd-4c48-b2e6-33040be23d40)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-06-fonts.html#%EA%B7%B8%EB%A6%BC-90296a1-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EA%B8%80%EA%BC%B4-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-02-09-06-a1"></a>
 
-[다른 운영체제와 언어의 `기본 설정` → `폴더` → `글꼴` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-06-fonts.html#%EA%B7%B8%EB%A6%BC-90296a2-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EA%B8%80%EA%BC%B4-windows-%EC%98%81%EC%96%B4)
+#### [그림 90.2.9.6.a1. `기본 설정` → `폴더` → `글꼴` (Windows) (우리말)](./90-02-09-foldersx-06-fonts.md#90-02-09-06-a1)
+![90-02-09-06-fonts(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/f4ab0207-eddd-4c48-b2e6-33040be23d40)
+
+[다른 운영체제와 언어의 `기본 설정` → `폴더` → `글꼴` 확인하기](./90-02-09-foldersx-06-fonts.md#90-02-09-06-a2)
 
 GIMP(김프) 글꼴 경로에는 GIMP(김프)의 시스템 글꼴 폴더와 GIMP(김프) 사용자 fonts 폴더가 있습니다. 그리고 다른 폴더를 추가할 수도 있습니다.
 
