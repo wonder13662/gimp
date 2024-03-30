@@ -3,8 +3,10 @@
 
 <a id="90-04-68-15-a101"></a>
 
-#### [그림 90.4.68.15.a101. `텍스트 컨텍스트 메뉴` → `입력기` (Windows) (우리말)](./90-04-68-15-input_methods.md#90-04-68-15-a101)
-![90-04-68-a341-text_context_menu(windows)(ko)-focus-input_methods](https://github.com/wonder13662/gimp/assets/15767104/e40644d1-2a4e-4ac7-970b-3acf20c0818a)
+#### [그림 90.4.68.15.a101. `텍스트 컨텍스트 메뉴` → `입력기` (Windows)](./90-04-68-15-input_methods.md#90-04-68-15-a101)
+![90-04-68-a101-text_context_menu(windows)-focus-input_methods](https://github.com/wonder13662/gimp/assets/15767104/f3d78521-7e4a-4710-a35f-ee77845f6553)
+
+[다른 운영체제와 언어의 `텍스트 컨텍스트 메뉴` → `입력기` 확인하기](./90-04-68-15-input_methods.md#90-04-68-15-a201)
 
 ***
 
