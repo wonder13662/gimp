@@ -144,15 +144,19 @@
 
 [9.1.4.9. 왼쪽에서 오른쪽으로(From Left to Right) - 영상 90.4.67.a182](./09-01-04-09-from_left_to_right.md#90-04-67-a182)
 
+<a id="90-04-67-a191"></a>
+
 #### 영상 90.4.67.a191. 텍스트 도구상자 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 오른쪽에서 왼쪽으로
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/167630eb-ac4d-421f-bd09-f2355c1d20ce"></video>
 
-[9.1.4.10. 오른쪽에서 왼쪽으로(From Right to Left) - 영상 90.4.67.a191](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-10-from_right_to_left.html#%EC%98%81%EC%83%81-90467a191-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90-%EB%8F%99%EC%A0%81dynamic-%EB%AA%A8%EB%93%9C---%EC%9E%85%EB%A0%A5-%EB%B0%A9%ED%96%A5%EC%9D%80-%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EC%84%9C-%EC%99%BC%EC%AA%BD%EC%9C%BC%EB%A1%9C)
+[9.1.4.10. 오른쪽에서 왼쪽으로(From Right to Left) - 영상 90.4.67.a191](./09-01-04-10-from_right_to_left.md#90-04-67-a191)
+
+<a id="90-04-67-a192"></a>
 
 #### 영상 90.4.67.a192. 텍스트 도구상자 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 오른쪽에서 왼쪽으로
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/88e999ba-9a6d-4a5b-8ad6-67511b969c56"></video>
 
-[9.1.4.10. 오른쪽에서 왼쪽으로(From Right to Left) - 영상 90.4.67.a192](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-10-from_right_to_left.html#%EC%98%81%EC%83%81-90467a192-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90-%EA%B3%A0%EC%A0%95fixed-%EB%AA%A8%EB%93%9C---%EC%9E%85%EB%A0%A5-%EB%B0%A9%ED%96%A5%EC%9D%80-%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EC%84%9C-%EC%99%BC%EC%AA%BD%EC%9C%BC%EB%A1%9C)
+[9.1.4.10. 오른쪽에서 왼쪽으로(From Right to Left) - 영상 90.4.67.a191](./09-01-04-10-from_right_to_left.md#90-04-67-a192)
 
 #### 영상 90.4.67.a201. 텍스트 도구상자 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 수직으로 오른쪽에서 왼쪽(혼합 방향)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f12614ee-5a81-4102-a4ad-7a30d8a654ab"></video>
