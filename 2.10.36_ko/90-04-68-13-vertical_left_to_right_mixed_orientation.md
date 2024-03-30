@@ -6,6 +6,8 @@
 #### 그림 90.4.68.13.a101. `텍스트 컨텍스트 메뉴` → `수직으로 왼쪽에서 오른쪽(혼합 방향)` (Windows)
 ![90-04-68-a101-text_context_menu(windows)-focus-vertical_left_to_right-mixed_orientation](https://github.com/wonder13662/gimp/assets/15767104/ca5b6229-f6a4-4d73-bf79-aaff690b7689)
 
+[9.1.4.13. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 그림 90.4.68.13.a101](./09-01-04-13-vertical_left_to_right_mixed_orientation.md#90-04-68-13-a101)
+
 <a id="90-04-68-13-a201"></a>
 
 #### 그림 90.4.68.13.a201. `텍스트 컨텍스트 메뉴` → `수직으로 왼쪽에서 오른쪽(혼합 방향)` (Mac)
