@@ -12,16 +12,6 @@
 #### 그림 90.4.68.a104. `텍스트 컨텍스트 메뉴` (Mac) (영어)
 ![90-04-68-a104-text_context_menu(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/6e8c4c0b-f28a-4456-8ad2-55695f214471)
 
-#### 그림 90.4.68.a321. `텍스트 컨텍스트 메뉴` → `수직으로 왼쪽에서 오른쪽(혼합 방향)` (Windows) (우리말)
-![90-04-68-a321-text_context_menu(windows)(ko)-focus-vertical_left_to_right_mixed_orientation](https://github.com/wonder13662/gimp/assets/15767104/f4bdd2c0-e2c0-419c-915d-fd9458fe076b)
-
-[9.1.4.13. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 그림 90.4.68.a321](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-13-vertical_left_to_right_mixed_orientation.html#%EA%B7%B8%EB%A6%BC-90468a321-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%88%98%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%99%BC%EC%AA%BD%EC%97%90%EC%84%9C-%EC%98%A4%EB%A5%B8%EC%AA%BD%ED%98%BC%ED%95%A9-%EB%B0%A9%ED%96%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-
-#### 그림 90.4.68.a331. `텍스트 컨텍스트 메뉴` → `수직으로 왼쪽에서 오른쪽(수직 방향)` (Windows) (우리말)
-![90-04-68-a331-text_context_menu(windows)(ko)-focus-vertical_left_to_right_upright_orientation](https://github.com/wonder13662/gimp/assets/15767104/e6697ad7-ec66-46ba-a85a-95c666678501)
-
-[9.1.4.14. 수직으로 왼쪽에서 오른쪽(수직 방향) - Vertical, left to right (upright orientation) - 그림 90.4.68.a331](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-14-vertical_left_to_right_upright_orientation.html#%EA%B7%B8%EB%A6%BC-90468a331-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%88%98%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%99%BC%EC%AA%BD%EC%97%90%EC%84%9C-%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%88%98%EC%A7%81-%EB%B0%A9%ED%96%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-
 <a id="90-04-68-a341"></a>
 
 #### 그림 90.4.68.a341. `텍스트 컨텍스트 메뉴` → `입력기` (Windows) (우리말)
