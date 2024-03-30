@@ -12,16 +12,6 @@
 #### 그림 90.4.68.a104. `텍스트 컨텍스트 메뉴` (Mac) (영어)
 ![90-04-68-a104-text_context_menu(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/6e8c4c0b-f28a-4456-8ad2-55695f214471)
 
-#### 그림 90.4.68.a231. `텍스트 컨텍스트 메뉴` → `삭제` (Windows) (우리말)
-![90-04-68-a231-text_context_menu(windows)(ko)-focus-delete](https://github.com/wonder13662/gimp/assets/15767104/9344f6f8-cd2b-4c46-a143-9edaa40cfe74)
-
-[9.1.4.4. 삭제(Delete) - 그림 90.4.68.a231](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-04-delete.html#%EA%B7%B8%EB%A6%BC-90468a231-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%82%AD%EC%A0%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-
-#### 영상 90.4.68.a232. `텍스트 컨텍스트 메뉴` → `삭제` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/601cdc5b-0511-49a5-89a4-295d6bd5e66b"></video>
-
-[9.1.4.4. 삭제(Delete) - 영상 90.4.68.a232](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-04-delete.html#%EC%98%81%EC%83%81-90468a232-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%82%AD%EC%A0%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-
 #### 그림 90.4.68.a241. `텍스트 컨텍스트 메뉴` → `텍스트 파일 열기...` (Windows) (우리말)
 ![90-04-68-a241-text_context_menu(windows)(ko)-focus-open_text_file](https://github.com/wonder13662/gimp/assets/15767104/45129cb3-199c-42bd-a9c7-193345490d62)
 
