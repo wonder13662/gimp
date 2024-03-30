@@ -212,7 +212,7 @@
 #### 영상 90.4.67.a232. 텍스트 도구상자 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 수직으로 왼쪽에서 오른쪽(수직 방향)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7883d2db-eada-4382-889c-c6149f5f8f4c"></video>
 
-[9.1.4.14. 수직으로 왼쪽에서 오른쪽(수직 방향) - Vertical, left to right (upright orientation) - 영상 90.4.67.a232]()
+[9.1.4.14. 수직으로 왼쪽에서 오른쪽(수직 방향) - Vertical, left to right (upright orientation) - 영상 90.4.67.a232](./09-01-04-14-vertical_left_to_right_upright_orientation.md#90-04-67-a232)
 
 ***
 
