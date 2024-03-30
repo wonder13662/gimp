@@ -186,15 +186,19 @@
 
 [9.1.4.12. 수직으로 오른쪽에서 왼쪽(수직 방향) - Vertical, right to left(upright orientation) - 영상 90.4.67.a212](./09-01-04-12-vertical_right_to_left_upright_orientation.md#90-04-67-a212)
 
+<a id="90-04-67-a221"></a>
+
 #### 영상 90.4.67.a221. 텍스트 도구상자 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 수직으로 왼쪽에서 오른쪽(혼합 방향)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a61bc776-9d07-46e7-8e16-2121d49ccd3b"></video>
 
-[9.1.4.13. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 영상 90.4.67.a221](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-13-vertical_left_to_right_mixed_orientation.html#%EC%98%81%EC%83%81-90467a221-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90-%EB%8F%99%EC%A0%81dynamic-%EB%AA%A8%EB%93%9C---%EC%9E%85%EB%A0%A5-%EB%B0%A9%ED%96%A5%EC%9D%80-%EC%88%98%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%99%BC%EC%AA%BD%EC%97%90%EC%84%9C-%EC%98%A4%EB%A5%B8%EC%AA%BD%ED%98%BC%ED%95%A9-%EB%B0%A9%ED%96%A5)
+[9.1.4.13. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 영상 90.4.67.a221](./09-01-04-13-vertical_left_to_right_mixed_orientation.md#90-04-67-a221)
+
+<a id="90-04-67-a222"></a>
 
 #### 영상 90.4.67.a222. 텍스트 도구상자 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 수직으로 왼쪽에서 오른쪽(혼합 방향)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/aab0a342-543c-49de-b3f1-3aa6e26bc53b"></video>
 
-[9.1.4.13. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 영상 90.4.67.a222](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-13-vertical_left_to_right_mixed_orientation.html#%EC%98%81%EC%83%81-90467a222-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%83%81%EC%9E%90-%EA%B3%A0%EC%A0%95fixed-%EB%AA%A8%EB%93%9C---%EC%9E%85%EB%A0%A5-%EB%B0%A9%ED%96%A5%EC%9D%80-%EC%88%98%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%99%BC%EC%AA%BD%EC%97%90%EC%84%9C-%EC%98%A4%EB%A5%B8%EC%AA%BD%ED%98%BC%ED%95%A9-%EB%B0%A9%ED%96%A5)
+[9.1.4.13. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 영상 90.4.67.a222](./09-01-04-13-vertical_left_to_right_mixed_orientation.md#90-04-67-a222)
 
 #### 영상 90.4.67.a231. 텍스트 도구상자 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 수직으로 왼쪽에서 오른쪽(수직 방향)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/29e7383a-f237-4e76-b511-8368b6aeab70"></video>
