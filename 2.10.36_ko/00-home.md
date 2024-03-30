@@ -1788,7 +1788,37 @@
 
 [90.4.67. 텍스트 도구상자(Text Toolbox)](./90-04-67-text_toolbox.md)
 
-[90.4.68. 텍스트 컨텍스트 메뉴(Text Context Menu)](./90-04-68-text_context_menu.md)
+[90.4.68. 텍스트 컨텍스트 메뉴(Text Context Menu)](./90-04-68-00-text_context_menu.md)
+
+[90.4.68.1. 잘라내기(Cut)](./90-04-68-01-cut.md)
+
+[90.4.68.2. 복사(Copy)](./90-04-68-02-copy.md)
+
+[90.4.68.3. 붙여넣기(Paste)](./90-04-68-03-paste.md)
+
+[90.4.68.4. 삭제(Delete)](./90-04-68-04-delete.md)
+
+[90.4.68.5. 텍스트 파일 열기...(Open Text File...)](./90-04-68-05-open_text_file.md)
+
+[90.4.68.6. 지우기(Clear)](./90-04-68-06-clear.md)
+
+[90.4.68.7. 텍스트에서 경로(Path from Text)](./90-04-68-07-path_from_text.md)
+
+[90.4.68.8. 경로따라 텍스트(Text along Path)](./90-04-68-08-text_along_path.md)
+
+[90.4.68.9. 왼쪽에서 오른쪽으로(From left to right)](./90-04-68-09-from_left_to_right.md)
+
+[90.4.68.10. 오른쪽에서 왼쪽으로(From right to left)](./90-04-68-10-from_right_to_left.md)
+
+[90.4.68.11. 수직으로 오른쪽에서 왼쪽(혼합 방향)(Vertical, right to left (mixed orientation))](./90-04-68-11-vertical_right_to_left_mixed_orientation.md)
+
+[90.4.68.12. 수직으로 오른쪽에서 왼쪽(수직 방향)(Vertical, right to left (upright orientation))](./90-04-68-12-vertical_right_to_left_upright_orientation.md)
+
+[90.4.68.13. 수직으로 왼쪽에서 오른쪽(혼합 방향)(Vertical, left to right(mixed orientation))](./90-04-68-13-vertical_left_to_right_mixed_orientation.md)
+
+[90.4.68.14. 수직으로 왼쪽에서 오른쪽(수직 방향)(Vertical, left to right (upright orientation))](./90-04-68-14-vertical_left_to_right_upright_orientation.md)
+
+[90.4.68.15. 입력기(Input Methods)](./90-04-68-15-input_methods.md)
 
 [90.4.69. 텍스트 파일 열기(Open Text File)](./90-04-69-open_text_file.md)
 

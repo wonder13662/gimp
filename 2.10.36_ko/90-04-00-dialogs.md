@@ -348,7 +348,7 @@
 #### 그림 90.4.67.a101. `텍스트 도구상자` 대화상자
 ![90-04-67-a101-text_toolbox(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/103ac210-7099-4af7-85b3-e745b9fc7a42)
 
-### [90.4.68. 텍스트 컨텍스트 메뉴(Text Context Menu)](./90-04-68-text_context_menu.md)
+### [90.4.68. 텍스트 컨텍스트 메뉴(Text Context Menu)](./90-04-68-00-text_context_menu.md)
 #### 그림 90.4.68.a101. `텍스트 컨텍스트 메뉴` (Windows) (우리말)
 ![90-04-68-a101-text_context_menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/30c207a9-7939-4b4c-8635-e9760639d2ee)
 

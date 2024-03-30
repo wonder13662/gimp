@@ -20,7 +20,7 @@
 
 [➡️ 다음: 90.4.70. 레이어 컨텍스트 메뉴(Layer Dialog Context Menu)](./90-04-70-layer_dialog_context_menu.md)
 
-[⬅️ 이전: 90.4.68. 텍스트 컨텍스트 메뉴(Text Context Menu)](./90-04-68-text_context_menu.md)
+[⬅️ 이전: 90.4.68. 텍스트 컨텍스트 메뉴(Text Context Menu)](./90-04-68-00-text_context_menu.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

@@ -12,28 +12,6 @@
 #### 그림 90.4.68.a104. `텍스트 컨텍스트 메뉴` (Mac) (영어)
 ![90-04-68-a104-text_context_menu(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/6e8c4c0b-f28a-4456-8ad2-55695f214471)
 
-#### 그림 90.4.68.a111. `텍스트 컨텍스트 메뉴` → `입력기` (Windows) (우리말)
-![90-04-68-a102-text_context_menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/2facb8b4-a660-42da-8b88-fb0fc00b46da)
-
-#### 그림 90.4.68.a112. `텍스트 컨텍스트 메뉴` → `입력기` (Windows) (영어)
-![90-04-68-a102-text_context_menu(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/c9c76ab6-e9ad-4930-846c-6e8bbf5b721e)
-
-#### 그림 90.4.68.a113. `텍스트 컨텍스트 메뉴` → `입력기` (Mac) (우리말)
-![90-04-68-a102-text_context_menu(mac)(ko)(50%)](https://github.com/wonder13662/gimp/assets/15767104/de26ecd7-1a07-4a2e-ba20-cf321ce38c85)
-
-#### 그림 90.4.68.a114. `텍스트 컨텍스트 메뉴` → `입력기` (Mac) (영어)
-![90-04-68-a102-text_context_menu(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/d78bda5e-4b81-43db-8314-cb1f8fc28f70)
-
-#### 그림 90.4.68.a201. `텍스트 컨텍스트 메뉴` → `잘라내기` (Windows) (우리말)
-![90-04-68-a201-text_context_menu(windows)(ko)-focus-cut](https://github.com/wonder13662/gimp/assets/15767104/307e50c4-9fe3-4e95-a6e1-00c55c3c9c29)
-
-[9.1.4.1. 잘라내기(Cut) - 그림 90.4.68.a201](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-01-cut.html#%EA%B7%B8%EB%A6%BC-90468a201-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-
-#### 영상 90.4.68.a202. `텍스트 컨텍스트 메뉴` → `잘라내기` → `붙여넣기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/88cc564a-2d5e-4cee-a038-bb07ff23fecf"></video>
-
-[9.1.4.1. 잘라내기(Cut) - 영상 90.4.68.a202](https://wonder13662.github.io/gimp/2.10.36_ko/09-01-04-text_context_menux-01-cut.html#%EC%98%81%EC%83%81-90468a202-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0--%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-
 #### 그림 90.4.68.a211. `텍스트 컨텍스트 메뉴` → `복사` (Windows) (우리말)
 ![90-04-68-a211-text_context_menu(windows)(ko)-focus-copy](https://github.com/wonder13662/gimp/assets/15767104/0ded0358-58a8-4e9d-96f0-6d81e02d32ae)
 
@@ -142,6 +120,40 @@
 ![90-04-68-a341-text_context_menu(windows)(ko)-focus-input_methods](https://github.com/wonder13662/gimp/assets/15767104/e40644d1-2a4e-4ac7-970b-3acf20c0818a)
 
 [9.1.4.15. 입력기(Input Methods) - 그림 90.4.68.a341](./09-01-04-15-input_methods.md#90-04-68-a341)
+
+***
+
+## 하위 페이지
+
+[90.4.68.1. 잘라내기(Cut)](./90-04-68-01-cut.md)
+
+[90.4.68.2. 복사(Copy)](./90-04-68-02-copy.md)
+
+[90.4.68.3. 붙여넣기(Paste)](./90-04-68-03-paste.md)
+
+[90.4.68.4. 삭제(Delete)](./90-04-68-04-delete.md)
+
+[90.4.68.5. 텍스트 파일 열기...(Open Text File...)](./90-04-68-05-open_text_file.md)
+
+[90.4.68.6. 지우기(Clear)](./90-04-68-06-clear.md)
+
+[90.4.68.7. 텍스트에서 경로(Path from Text)](./90-04-68-07-path_from_text.md)
+
+[90.4.68.8. 경로따라 텍스트(Text along Path)](./90-04-68-08-text_along_path.md)
+
+[90.4.68.9. 왼쪽에서 오른쪽으로(From left to right)](./90-04-68-09-from_left_to_right.md)
+
+[90.4.68.10. 오른쪽에서 왼쪽으로(From right to left)](./90-04-68-10-from_right_to_left.md)
+
+[90.4.68.11. 수직으로 오른쪽에서 왼쪽(혼합 방향)(Vertical, right to left (mixed orientation))](./90-04-68-11-vertical_right_to_left_mixed_orientation.md)
+
+[90.4.68.12. 수직으로 오른쪽에서 왼쪽(수직 방향)(Vertical, right to left (upright orientation))](./90-04-68-12-vertical_right_to_left_upright_orientation.md)
+
+[90.4.68.13. 수직으로 왼쪽에서 오른쪽(혼합 방향)(Vertical, left to right(mixed orientation))](./90-04-68-13-vertical_left_to_right_mixed_orientation.md)
+
+[90.4.68.14. 수직으로 왼쪽에서 오른쪽(수직 방향)(Vertical, left to right (upright orientation))](./90-04-68-14-vertical_left_to_right_upright_orientation.md)
+
+[90.4.68.15. 입력기(Input Methods)](./90-04-68-15-input_methods.md)
 
 ***
 

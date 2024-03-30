@@ -3,7 +3,7 @@
 
 <a id="90-04-68-a341"></a>
 
-#### [그림 90.4.68.a341. `텍스트 컨텍스트 메뉴` → `입력기` (Windows) (우리말)](./90-04-68-text_context_menu.md#90-04-68-a341)
+#### [그림 90.4.68.a341. `텍스트 컨텍스트 메뉴` → `입력기` (Windows) (우리말)](./90-04-68-00-text_context_menu.md#90-04-68-a341)
 ![90-04-68-a341-text_context_menu(windows)(ko)-focus-input_methods](https://github.com/wonder13662/gimp/assets/15767104/e40644d1-2a4e-4ac7-970b-3acf20c0818a)
 
 ***
