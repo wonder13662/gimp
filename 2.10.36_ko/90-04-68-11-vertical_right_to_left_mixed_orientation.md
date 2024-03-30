@@ -1,16 +1,17 @@
 # 90.4.68.11. 수직으로 오른쪽에서 왼쪽(혼합 방향)(Vertical, right to left (mixed orientation))
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.4.68.11.a101. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (Windows) (우리말)
 
-#### 그림 90.4.68.11.a111. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (Windows) (영어)
+<a id="90-04-68-11-a101"></a>
 
-#### 그림 90.4.68.11.a121. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (Windows)
+#### 그림 90.4.68.11.a101. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (Windows)
+![90-04-68-a101-text_context_menu(windows)-focus-vertical_right_to_left-mixed_orientation](https://github.com/wonder13662/gimp/assets/15767104/3b080970-aeba-446f-bd7b-7ec4f99d2ba8)
 
-#### 그림 90.4.68.11.a201. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (Mac) (우리말)
+[9.1.4.11. 수직으로 오른쪽에서 왼쪽(혼합 방향) - Vertical, right to left(mixed orientation) - 그림 90.4.68.11.a101](./09-01-04-11-vertical_right_to_left_mixed_orientation.md#90-04-68-11-a101)
 
-#### 그림 90.4.68.11.a211. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (Mac) (영어)
+<a id="90-04-68-11-a201"></a>
 
-#### 그림 90.4.68.11.a221. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (Mac)
+#### 그림 90.4.68.11.a201. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (Mac)
+![90-04-68-a101-text_context_menu(mac)-focus-vertical_right_to_left-mixed_orientation](https://github.com/wonder13662/gimp/assets/15767104/080a82af-a687-4064-b212-e74324076970)
 
 ***
 
