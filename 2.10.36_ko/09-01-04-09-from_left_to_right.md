@@ -9,7 +9,7 @@
 
 <a id="90-04-68-09-a101"></a>
 
-#### 그림 90.4.68.9.a101. `텍스트 컨텍스트 메뉴` → `왼쪽에서 오른쪽으로` (Windows)
+#### [그림 90.4.68.9.a101. `텍스트 컨텍스트 메뉴` → `왼쪽에서 오른쪽으로` (Windows)](./90-04-68-09-from_left_to_right.md#90-04-68-09-a101)
 ![90-04-68-a101-text_context_menu(windows)-focus-from_left_to_right](https://github.com/wonder13662/gimp/assets/15767104/b46381b5-ba54-4d74-92e4-6a59e905b091)
 
 <a id="90-04-67-a181"></a>
