@@ -1,16 +1,17 @@
 # 90.4.68.12. 수직으로 오른쪽에서 왼쪽(수직 방향)(Vertical, right to left (upright orientation))
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.4.68.12.a101. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Windows) (우리말)
 
-#### 그림 90.4.68.12.a111. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Windows) (영어)
+<a id="90-04-68-12-a101"></a>
 
-#### 그림 90.4.68.12.a121. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Windows)
+#### 그림 90.4.68.12.a101. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Windows)
+![90-04-68-a101-text_context_menu(windows)-focus-vertical_right_to_left-upright_orientation](https://github.com/wonder13662/gimp/assets/15767104/671f4db3-1096-43c9-8b5d-713984d4ff5e)
 
-#### 그림 90.4.68.12.a201. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Mac) (우리말)
+[9.1.4.12. 수직으로 오른쪽에서 왼쪽(수직 방향) - Vertical, right to left(upright orientation) - 그림 90.4.68.12.a101](./09-01-04-12-vertical_right_to_left_upright_orientation.md#90-04-68-12-a101)
 
-#### 그림 90.4.68.12.a211. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Mac) (영어)
+<a id="90-04-68-12-a201"></a>
 
-#### 그림 90.4.68.12.a221. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Mac)
+#### 그림 90.4.68.12.a201. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Mac)
+![90-04-68-a101-text_context_menu(mac)-focus-vertical_right_to_left-upright_orientation](https://github.com/wonder13662/gimp/assets/15767104/688e1893-8feb-4cd6-af38-25d2651bc5d3)
 
 ***
 
