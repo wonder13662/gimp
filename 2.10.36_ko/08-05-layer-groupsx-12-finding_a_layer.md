@@ -3,14 +3,14 @@
 
 <a id="90-04-03-12-a11"></a>
 
-#### [영상 90.4.3.12.a11. Alt(⌥) + Mouse Middle Button으로 레이어 활성화하기 (Windows) (우리말)](./90-04-03-12-a11#90-04-03-12-a11)
+#### [영상 90.4.3.12.a11. Alt(⌥) + Mouse Middle Button으로 레이어 활성화하기 (Windows) (우리말)](./90-04-03-12-active_layer.md#90-04-03-12-a11)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f59e6885-7269-488e-a8f5-51f5952ae7b0"></video>
 
 만일 같은 위치에 여러 레이어가 있다면 가장 위의 레이어부터 차례대로 활성화됩니다. 또한 활성화된 레이어의 이름이 [상태 표시 영역](./03-02-02-image-windowx-09-status-area.md)에 나타납니다.
 
 <a id="90-04-03-12-a21"></a>
 
-#### [영상 90.4.3.12.a21. Alt(⌥) + Mouse Middle Button으로 같은 위치의 여러 레이어 활성화하기 (Mac) (우리말)](./90-04-03-12-a11#90-04-03-12-a21)
+#### [영상 90.4.3.12.a21. Alt(⌥) + Mouse Middle Button으로 같은 위치의 여러 레이어 활성화하기 (Mac) (우리말)](./90-04-03-12-active_layer.md#90-04-03-12-a21)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ed6cbb18-0e70-4b9a-9a87-482d6743ce71"></video>
 
 ⚠️ 주의: 같은 위치의 여러 레이어에 대해 번갈아 활성화하는 기능이 Mac에서는 작동하나 Windows에서는 작동하지 않는 현상을 발견했습니다. (TODO 조사 필요!)
