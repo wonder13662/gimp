@@ -5,7 +5,7 @@
 #### 그림 90.4.3.1.a11. 레이어 대화상자의 오른쪽 클릭으로 여는 팝업(컨텍스트) 메뉴
 ![90-04-03-layers-context_menu](https://github.com/wonder13662/gimp/assets/15767104/8af04c42-4bdb-42f1-a95e-7f870b07b11b)
 
-[8.1. 레이어 소개 - 그림 90.4.3.1.a11](./08-01-introduction-to-layers.md#90-04-03-01-a11)
+[8.1. 레이어 소개 - 그림 90.4.3.1.a11](./08-01-00-introduction-to-layers.md#90-04-03-01-a11)
 
 <a id="90-04-03-01-a12"></a>
 

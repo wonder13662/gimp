@@ -77,7 +77,7 @@
 ## 다른 페이지로 가기
 [➡️ 다음: 9.1. 텍스트 관리(Text management)](./09-01-text-management.md)
 
-[⬅️ 이전: 8.5.13. 레이어 미리보기(Layer preview)](./08-05-layer-groupsx-13-layer_preview.md)
+[⬅️ 이전: 8.5.13. 레이어 미리보기(Layer preview)](./08-05-13-layer_preview.md)
 
 [🏠 홈](./00-home.md)
 

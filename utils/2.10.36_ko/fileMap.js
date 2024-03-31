@@ -504,7 +504,7 @@ module.exports = {
         '8. 이미지 합치기(Combining Images)'
       ],
       [
-        '08-01-introduction-to-layers.md', 
+        '08-01-00-introduction-to-layers.md', 
         '8.1. Introduction to layers',
         '8.1. 레이어 소개'
       ],
@@ -514,42 +514,42 @@ module.exports = {
         '8.2. 레이어 모드'
       ],
       [
-        '08-02-01-normal-layer-mode.md', 
+        '08-02-01-00-normal-layer-mode.md', 
         '8.2.1. Normal layer mode',
         '8.2.1. 레이어 모드-Normal'
       ],
       [
-        '08-02-02-lighten-layer-mode.md', 
+        '08-02-02-00-lighten-layer-mode.md', 
         '8.2.2. Lighten layer mode',
         '8.2.2. 레이어 모드-Lighten'
       ],
       [
-        '08-02-03-darken-layer-modes.md', 
+        '08-02-03-00-darken-layer-modes.md', 
         '8.2.3. Darken layer modes',
         '8.2.3. 레이어 모드-어두움(Darken)'
       ],
       [
-        '08-02-04-contrast-layer-modes.md', 
+        '08-02-04-00-contrast-layer-modes.md', 
         '8.2.4. Contrast layer modes',
         '8.2.4. 레이어 모드-대조(Contrast)'
       ],
       [
-        '08-02-05-inversion-layer-modes.md', 
+        '08-02-05-00-inversion-layer-modes.md', 
         '8.2.5. Inversion layer modes',
         '8.2.5. 레이어 모드-반전(Inversion)'
       ],
       [
-        '08-02-06-hsv-components-layer-modes.md', 
+        '08-02-06-00-hsv-components-layer-modes.md', 
         '8.2.6. HSV components layer modes',
         '8.2.6. 레이어 모드-HSV components'
       ],
       [
-        '08-02-07-lch-components-layer-modes.md', 
+        '08-02-07-00-lch-components-layer-modes.md', 
         '8.2.7. LCh components layer modes',
         '8.2.7. 레이어 모드-LCh components'
       ],
       [
-        '08-03-legacy-layer-modes.md', 
+        '08-03-00-legacy-layer-modes.md', 
         '8.3. Legacy layer modes',
         '8.3. 레거시 레이어 모드'
       ],
@@ -559,7 +559,7 @@ module.exports = {
         '8.4. 새 레이어 만들기'
       ],
       [
-        '08-05-layer-groups.md',
+        '08-05-00-layer-groups.md',
         '8.5. Layer groups',
         '8.5. 레이어 그룹'
       ],

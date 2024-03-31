@@ -5,14 +5,14 @@
 #### 그림 90.4.3.1.22.a11. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `알파 채널 추가` (windows) (우리말)
 ![90-04-03-layer_dialog-context_menu(windows)(ko)-focus-add_alpha_channel](https://github.com/wonder13662/gimp/assets/15767104/58bcb9be-b3d1-4376-99c1-b3671d7f6bc0)
 
-[8.1.1. 레이어 속성 - 그림 90.4.3.1.22.a11](./08-01-introduction-to-layersx-01-layer_properties.md#90-04-03-01-22-a11)
+[8.1.1. 레이어 속성 - 그림 90.4.3.1.22.a11](./08-01-01-layer_properties.md#90-04-03-01-22-a11)
 
 <a id="90-04-03-01-22-a21"></a>
 
 #### 영상 90.4.3.1.22.a21. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `알파 채널 추가` (windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/93e62ca8-bebc-4479-9c76-109acdbd3966"></video>
 
-[8.1.1. 레이어 속성 - 영상 90.4.3.1.22.a21](./08-01-introduction-to-layersx-01-layer_properties.md#90-04-03-01-22-a21)
+[8.1.1. 레이어 속성 - 영상 90.4.3.1.22.a21](./08-01-01-layer_properties.md#90-04-03-01-22-a21)
 
 ***
 

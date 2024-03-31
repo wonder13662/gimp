@@ -28,9 +28,9 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 8.5. 레이어 그룹](./08-05-layer-groups.md)
+[➡️ 다음: 8.5. 레이어 그룹](./08-05-00-layer-groups.md)
 
-[⬅️ 이전: 8.3.21. 레이어 모드(Legacy) - HSV 명도(HSV Value)](./08-03-legacy-layer-modesx-21-hsv_components_layer_mode-hsv_value.md)
+[⬅️ 이전: 8.3.21. 레이어 모드(Legacy) - HSV 명도(HSV Value)](./08-03-21-hsv_components_layer_mode-hsv_value.md)
 
 [⬆️ 위: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 

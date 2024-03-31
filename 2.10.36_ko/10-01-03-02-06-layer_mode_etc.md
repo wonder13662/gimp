@@ -1,5 +1,5 @@
 # 10.1.3.2.6. 그 외의 레이어 모드
-레이어 모드 [곱하기(Multiply)](./08-02-03-darken-layer-modesx-03-multiply.md), [나누기(Divide)](./08-02-05-inversion-layer-modesx-06-divide.md) 외에도 [닷지(Dodge)](./08-02-02-lighten-layer-modex-04-dodge.md), [번(Burn)](./08-02-03-darken-layer-modesx-04-burn.md), [부드러운 빛(Soft Light)](./08-02-04-contrast-layer-modesx-02-soft_light.md) 등의 다양한 레이어 모드의 조합을 통해 효과를 얻을 수 있습니다.
+레이어 모드 [곱하기(Multiply)](./08-02-03-03-00-multiply.md), [나누기(Divide)](./08-02-05-06-divide.md) 외에도 [닷지(Dodge)](./08-02-02-04-00-dodge.md), [번(Burn)](./08-02-03-04-burn.md), [부드러운 빛(Soft Light)](./08-02-04-02-soft_light.md) 등의 다양한 레이어 모드의 조합을 통해 효과를 얻을 수 있습니다.
 
 ***
 
