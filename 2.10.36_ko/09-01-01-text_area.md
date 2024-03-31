@@ -54,8 +54,12 @@
 ## 4. 김프 텍스트 편집기(GIMP Text Editor)로 텍스트 수정하기
 캔버스(이미지 창) 위에서 텍스트 수정을 하는 것을 대신해, [14.5.6.3. 텍스트 에디터(Text Editor)](./14-05-06-textx-03-text_editor.md)를 사용해 텍스트 수정을 할 수 있습니다.
 
-#### [그림 90.4.65.a101. `김프 텍스트 편집기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-65-gimp_text_editor.html#%EA%B7%B8%EB%A6%BC-90465a101-%EA%B9%80%ED%94%84-%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%8E%B8%EC%A7%91%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-65-a101-dialog_text_editor(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/25862942-c6dc-42ed-ad90-9eb590a47e3e)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-65-gimp_text_editor.html#%EA%B7%B8%EB%A6%BC-90465a101-%EA%B9%80%ED%94%84-%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%8E%B8%EC%A7%91%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-65-a101"></a>
+
+#### [그림 90.4.65.a101. `김프 텍스트 편집기` 대화상자 (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a101)
+![90-04-65-a101-dialog_text_editor(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/25862942-c6dc-42ed-ad90-9eb590a47e3e)
+
+[다른 운영체제와 언어의 `김프 텍스트 편집기` 대화상자 확인하기](./90-04-65-gimp_text_editor.md#90-04-65-a102)
 
 <a id="90-04-03-14-a91"></a>
 
