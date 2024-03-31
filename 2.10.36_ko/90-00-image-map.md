@@ -1020,95 +1020,95 @@
 
 [90.4.2. 장치 상태(Device status)](./90-04-02-device_status.md)
 
-[90.4.3. 레이어(Layers)](./90-04-03-layers.md)
+[90.4.3. 레이어(Layers)](./90-04-03-00-layers.md)
 
-[90.4.3.1. 레이어 대화상자의 컨텍스트 메뉴](./90-04-03-layersx-01-context_menu.md)
+[90.4.3.1. 레이어 대화상자의 컨텍스트 메뉴](./90-04-03-01-00-context_menu.md)
 
-[90.4.3.1.1. 레이어 속성 편집...(Edit Layer Attributes...)](./90-04-03-layersx-01-context_menux-01-edit_layer_attributes.md)
+[90.4.3.1.1. 레이어 속성 편집...(Edit Layer Attributes...)](./90-04-03-01-01-edit_layer_attributes.md)
 
-[90.4.3.1.2. 혼합 영역(Blend Space)](./90-04-03-layersx-01-context_menux-02-blend_space.md)
+[90.4.3.1.2. 혼합 영역(Blend Space)](./90-04-03-01-02-blend_space.md)
 
-[90.4.3.1.3. 합성 공간(Composite Space)](./90-04-03-layersx-01-context_menux-03-composite_space.md)
+[90.4.3.1.3. 합성 공간(Composite Space)](./90-04-03-01-03-composite_space.md)
 
-[90.4.3.1.4. 합성 모드(Composite Mode)](./90-04-03-layersx-01-context_menux-04-composite_mode.md)
+[90.4.3.1.4. 합성 모드(Composite Mode)](./90-04-03-01-04-composite_mode.md)
 
-[90.4.3.1.5. 색상 태그(Color Tag)](./90-04-03-layersx-01-context_menux-05-color_tag.md)
+[90.4.3.1.5. 색상 태그(Color Tag)](./90-04-03-01-05-color_tag.md)
 
-[90.4.3.1.6. 새 레이어...(New Layer...)](./90-04-03-layersx-01-context_menux-06-new_layer.md)
+[90.4.3.1.6. 새 레이어...(New Layer...)](./90-04-03-01-06-new_layer.md)
 
-[90.4.3.1.7. 보이는 영역에서 새로 만들기(New from Visible)](./90-04-03-layersx-01-context_menux-07-new_from_visible.md)
+[90.4.3.1.7. 보이는 영역에서 새로 만들기(New from Visible)](./90-04-03-01-07-new_from_visible.md)
 
-[90.4.3.1.8. 새 레이어 그룹(New Layer Group)](./90-04-03-layersx-01-context_menux-08-new_layer_group.md)
+[90.4.3.1.8. 새 레이어 그룹(New Layer Group)](./90-04-03-01-08-new_layer_group.md)
 
-[90.4.3.1.9. 레이어 복제(Duplicate Layer)](./90-04-03-layersx-01-context_menux-09-duplicate_layer.md)
+[90.4.3.1.9. 레이어 복제(Duplicate Layer)](./90-04-03-01-09-duplicate_layer.md)
 
-[90.4.3.1.10. 아래로 합치기(Merge Down)](./90-04-03-layersx-01-context_menux-10-merge_down.md)
+[90.4.3.1.10. 아래로 합치기(Merge Down)](./90-04-03-01-10-merge_down.md)
 
-[90.4.3.1.11. 레이어 삭제(Delete Layer)](./90-04-03-layersx-01-context_menux-11-delete_layer.md)
+[90.4.3.1.11. 레이어 삭제(Delete Layer)](./90-04-03-01-11-delete_layer.md)
 
-[90.4.3.1.12. 레이어 경계 크기...(Layer Boundary Size...)](./90-04-03-layersx-01-context_menux-12-layer_boundary_size.md)
+[90.4.3.1.12. 레이어 경계 크기...(Layer Boundary Size...)](./90-04-03-01-12-layer_boundary_size.md)
 
-[90.4.3.1.13. 레이어를 이미지 크기로(Layer to Image Size)](./90-04-03-layersx-01-context_menux-13-layer_to_image_size.md)
+[90.4.3.1.13. 레이어를 이미지 크기로(Layer to Image Size)](./90-04-03-01-13-layer_to_image_size.md)
 
-[90.4.3.1.14. 레이어 크기조정...(Scale Layer...)](./90-04-03-layersx-01-context_menux-14-scale_layer.md)
+[90.4.3.1.14. 레이어 크기조정...(Scale Layer...)](./90-04-03-01-14-scale_layer.md)
 
-[90.4.3.1.15. 레이어 마스크 추가...(Add Layer Mask...)](./90-04-03-layersx-01-context_menux-15-add_layer_mask.md)
+[90.4.3.1.15. 레이어 마스크 추가...(Add Layer Mask...)](./90-04-03-01-15-add_layer_mask.md)
 
-[90.4.3.1.16. 레이어 마스크 적용(Apply Layer Mask)](./90-04-03-layersx-01-context_menux-16-apply_layer_mask.md)
+[90.4.3.1.16. 레이어 마스크 적용(Apply Layer Mask)](./90-04-03-01-16-apply_layer_mask.md)
 
-[90.4.3.1.17. 레이어 마스크 삭제(Delete Layer Mask)](./90-04-03-layersx-01-context_menux-17-delete_layer_mask.md)
+[90.4.3.1.17. 레이어 마스크 삭제(Delete Layer Mask)](./90-04-03-01-17-delete_layer_mask.md)
 
-[90.4.3.1.18. 레이어 마스크 보이기(Show Layer Mask)](./90-04-03-layersx-01-context_menux-18-show_layer_mask.md)
+[90.4.3.1.18. 레이어 마스크 보이기(Show Layer Mask)](./90-04-03-01-18-show_layer_mask.md)
 
-[90.4.3.1.19. 레이어 마스크 편집(Edit Layer Mask)](./90-04-03-layersx-01-context_menux-19-edit_layer_mask.md)
+[90.4.3.1.19. 레이어 마스크 편집(Edit Layer Mask)](./90-04-03-01-19-edit_layer_mask.md)
 
-[90.4.3.1.20. 레이어 마스크 비활성화(Disable Layer Mask)](./90-04-03-layersx-01-context_menux-20-disable_layer_mask.md)
+[90.4.3.1.20. 레이어 마스크 비활성화(Disable Layer Mask)](./90-04-03-01-20-disable_layer_mask.md)
 
-[90.4.3.1.21. 마스크를 선택 영역으로(Mask to Selection)](./90-04-03-layersx-01-context_menux-21-mask_to_selection.md)
+[90.4.3.1.21. 마스크를 선택 영역으로(Mask to Selection)](./90-04-03-01-21-mask_to_selection.md)
 
-[90.4.3.1.22. 알파 채널 추가(Add Alpha Channel)](./90-04-03-layersx-01-context_menux-22-add_alpha_channel.md)
+[90.4.3.1.22. 알파 채널 추가(Add Alpha Channel)](./90-04-03-01-22-add_alpha_channel.md)
 
-[90.4.3.1.23. 알파 채널 제거(Remove Alpha Channel)](./90-04-03-layersx-01-context_menux-23-remove_alpha_channel.md)
+[90.4.3.1.23. 알파 채널 제거(Remove Alpha Channel)](./90-04-03-01-23-remove_alpha_channel.md)
 
-[90.4.3.1.24. 알파를 선택 영역으로(Alpha to Selection)](./90-04-03-layersx-01-context_menux-24-alpha_to_selection.md)
+[90.4.3.1.24. 알파를 선택 영역으로(Alpha to Selection)](./90-04-03-01-24-alpha_to_selection.md)
 
-[90.4.3.1.25. 보이는 레이어 합치기...(Merge Visible Layers...)](./90-04-03-layersx-01-context_menux-25-merge_visible_layers.md)
+[90.4.3.1.25. 보이는 레이어 합치기...(Merge Visible Layers...)](./90-04-03-01-25-merge_visible_layers.md)
 
-[90.4.3.1.26. 이미지 평탄화(Flatten Image)](./90-04-03-layersx-01-context_menux-26-flatten_image.md)
+[90.4.3.1.26. 이미지 평탄화(Flatten Image)](./90-04-03-01-26-flatten_image.md)
 
-[90.4.3.1.27. 텍스트 정보 버리기(Discard Text Information)](./90-04-03-layersx-01-context_menux-27-discard_text_information.md)
+[90.4.3.1.27. 텍스트 정보 버리기(Discard Text Information)](./90-04-03-01-27-discard_text_information.md)
 
-[90.4.3.1.28. 텍스트를 경로로(Text to Path)](./90-04-03-layersx-01-context_menux-28-text_to_path.md)
+[90.4.3.1.28. 텍스트를 경로로(Text to Path)](./90-04-03-01-28-text_to_path.md)
 
-[90.4.3.1.29. 경로따라 텍스트(Text along Path)](./90-04-03-layersx-01-context_menux-29-text_along_path.md)
+[90.4.3.1.29. 경로따라 텍스트(Text along Path)](./90-04-03-01-29-text_along_path.md)
 
-[90.4.3.1.30. 캔버스 텍스트 편집(Edit Text on canvas)](./90-04-03-layersx-01-context_menux-30-edit_text_on_canvas.md)
+[90.4.3.1.30. 캔버스 텍스트 편집(Edit Text on canvas)](./90-04-03-01-30-edit_text_on_canvas.md)
 
-[90.4.3.2. 레이어 그룹](./90-04-03-layersx-02-layer_group.md)
+[90.4.3.2. 레이어 그룹](./90-04-03-02-layer_group.md)
 
-[90.4.3.3. 떠있는 선택(Floating selection)](./90-04-03-layersx-03-floating_selection.md)
+[90.4.3.3. 떠있는 선택(Floating selection)](./90-04-03-03-floating_selection.md)
 
-[90.4.3.4. 불투명도(Opacity)](./90-04-03-layersx-04-opacity.md)
+[90.4.3.4. 불투명도(Opacity)](./90-04-03-04-opacity.md)
 
-[90.4.3.5. 레이어의 눈 아이콘(Visibility)](./90-04-03-layersx-05-visibility.md)
+[90.4.3.5. 레이어의 눈 아이콘(Visibility)](./90-04-03-05-visibility.md)
 
-[90.4.3.6. 레이어의 연결 아이콘(Linkage)](./90-04-03-layersx-06-linkage.md)
+[90.4.3.6. 레이어의 연결 아이콘(Linkage)](./90-04-03-06-linkage.md)
 
-[90.4.3.7. 레이어 모드(Layer Mode)](./90-04-03-layersx-07-layer_mode.md)
+[90.4.3.7. 레이어 모드(Layer Mode)](./90-04-03-07-layer_mode.md)
 
-[90.4.3.8. 레이어 대화상자 아래쪽 버튼들(Bottom bar buttons)](./90-04-03-layersx-08-bottom_bar_buttons.md)
+[90.4.3.8. 레이어 대화상자 아래쪽 버튼들(Bottom bar buttons)](./90-04-03-08-bottom_bar_buttons.md)
 
-[90.4.3.9. 레이어를 드래그, 드롭하기(Drag & Drop Layers)](./90-04-03-layersx-09-drag_n_drop_layers.md)
+[90.4.3.9. 레이어를 드래그, 드롭하기(Drag & Drop Layers)](./90-04-03-09-drag_n_drop_layers.md)
 
-[90.4.3.10. 드로어블(drawable)](./90-04-03-layersx-10-drawable.md)
+[90.4.3.10. 드로어블(drawable)](./90-04-03-10-drawable.md)
 
-[90.4.3.11. 이미지의 알파 채널(Alpha Channel)](./90-04-03-layersx-11-alpha_channel.md)
+[90.4.3.11. 이미지의 알파 채널(Alpha Channel)](./90-04-03-11-alpha_channel.md)
 
-[90.4.3.12. 활성화된 레이어(Active Layer)](./90-04-03-layersx-12-active_layer.md)
+[90.4.3.12. 활성화된 레이어(Active Layer)](./90-04-03-12-active_layer.md)
 
-[90.4.3.13. 레이어 마스크(Layer Mask)](./90-04-03-layersx-13-layer_mask.md)
+[90.4.3.13. 레이어 마스크(Layer Mask)](./90-04-03-13-layer_mask.md)
 
-[90.4.3.14. 텍스트 레이어(Text Layer)](./90-04-03-layersx-14-text_layer.md)
+[90.4.3.14. 텍스트 레이어(Text Layer)](./90-04-03-14-text_layer.md)
 
 [90.4.4. 채널(Channels)](./90-04-04-channels.md)
 

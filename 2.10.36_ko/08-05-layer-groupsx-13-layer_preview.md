@@ -4,7 +4,9 @@
 #### [그림 90.2.6.a121. `기본 설정` → `인터페이스` → `미리보기` → `레이어 그룹 미리 보기 활성화` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interface.html#%EA%B7%B8%EB%A6%BC-9026a121-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0--%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EB%AF%B8%EB%A6%AC-%EB%B3%B4%EA%B8%B0-%ED%99%9C%EC%84%B1%ED%99%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-02-06-interface(우리말)(windows)(compact)(w720)-focus-preview_layer_group](https://github.com/wonder13662/gimp/assets/15767104/367baff3-6646-4b4e-a7e6-a0787f7e1350)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interface.html#%EA%B7%B8%EB%A6%BC-9026a121-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0--%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EB%AF%B8%EB%A6%AC-%EB%B3%B4%EA%B8%B0-%ED%99%9C%EC%84%B1%ED%99%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-#### [영상 90.4.3.2.a201. 레이어 그룹의 미리보기 기능 끄기/켜기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-02-layer_group.html#%EC%98%81%EC%83%81-90432a201-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%98-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EA%B8%B0%EB%8A%A5-%EB%81%84%EA%B8%B0%EC%BC%9C%EA%B8%B0)
+<a id="90-04-03-02-a201"></a>
+
+#### [영상 90.4.3.2.a201. 레이어 그룹의 미리보기 기능 끄기/켜기](./90-04-03-02-layer_group.md#90-04-03-02-a201)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9bb1f1d8-8c14-490b-b4c3-8f756e988a54"></video>
 
 ***

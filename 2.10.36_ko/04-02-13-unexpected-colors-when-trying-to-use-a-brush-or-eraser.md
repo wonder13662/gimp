@@ -7,7 +7,9 @@
 ### 4.2.13.2.1. 레이어 마스크
 작업중인 레이어의 [레이어 마스크](./15-02-01-layers-dialog.md)에 칠하고 있는 것은 아닌지 확인해보세요. 그렇다면, 레이어가 아닌 레이어 마스크를 대상으로 칠하고 있는 것입니다. 이 경우, 레이어의 레이어 마스크가 아닌 활성 채색 영역을 클릭해서 레이어에 칠할 수 있도록 해줍니다.
 
-#### [영상 90.4.3.13.a11. 레이어 마스크에 붓 또는 지우개를 사용](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-13-layer_mask.html#%EC%98%81%EC%83%81-904313a11-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%A7%88%EC%8A%A4%ED%81%AC%EC%97%90-%EB%B6%93-%EB%98%90%EB%8A%94-%EC%A7%80%EC%9A%B0%EA%B0%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9)
+<a id="90-04-03-13-a11"></a>
+
+#### [영상 90.4.3.13.a11. 레이어 마스크에 붓 또는 지우개를 사용](./90-04-03-13-layer_mask.md#90-04-03-13-a11)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f1463207-278b-49b4-8b84-9ebf053253d1"></video>
 
 ### 4.2.13.2.2. 채널

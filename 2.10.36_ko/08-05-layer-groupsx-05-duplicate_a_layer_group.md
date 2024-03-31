@@ -4,25 +4,35 @@
 ## 1. 레이어 대화상자의 아래쪽의 복사하기 버튼
 레이어 대화상자의 아래쪽의 버튼들 중, 복사하기 버튼을 클릭해서 선택된 레이어 그룹을 복사할 수 있습니다.
 
-#### [그림 90.4.3.8.a21. 레이어 대화상자 - 레이어 복제 버튼](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-08-bottom_bar_buttons.html#%EA%B7%B8%EB%A6%BC-90438a21-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%B3%B5%EC%A0%9C-%EB%B2%84%ED%8A%BC)
-[![90-04-03-layersx-08-bottom_bar_buttons(w1080)-focus-duplicate_layer](https://github.com/wonder13662/gimp/assets/15767104/6f8e5bba-ff2b-45e4-bae0-c66bf6060cce)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-08-bottom_bar_buttons.html#%EA%B7%B8%EB%A6%BC-90438a21-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%B3%B5%EC%A0%9C-%EB%B2%84%ED%8A%BC)
+<a id="90-04-03-08-a21"></a>
 
-#### [영상 90.4.3.8.a22. 레이어 대화상자 - 레이어 복제 버튼으로 레이어 그룹 복사하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-08-bottom_bar_buttons.html#%EC%98%81%EC%83%81-90438a22-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%B3%B5%EC%A0%9C-%EB%B2%84%ED%8A%BC%EC%9C%BC%EB%A1%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### [그림 90.4.3.8.a21. 레이어 대화상자 - 레이어 복제 버튼](./90-04-03-08-bottom_bar_buttons.md#90-04-03-08-a21)
+![90-04-03-layersx-08-bottom_bar_buttons(w1080)-focus-duplicate_layer](https://github.com/wonder13662/gimp/assets/15767104/6f8e5bba-ff2b-45e4-bae0-c66bf6060cce)
+
+<a id="90-04-03-08-a22"></a>
+
+#### [영상 90.4.3.8.a22. 레이어 대화상자 - 레이어 복제 버튼으로 레이어 그룹 복사하기 (Windows) (우리말)](./90-04-03-08-bottom_bar_buttons.md#90-04-03-08-a22)
 <video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/f7cc9472-fba4-4ae2-aabb-a5c999c92c86"></video>
 
 ## 2. 레이어 대화상자의 컨텍스트 메뉴의 `레이어 복제(Duplicate Layer)`
 레이어 대화상자에서 오른쪽 클릭으로 컨텍스트 메뉴를 열어 `레이어 복제(Duplicate Layer)` 메뉴를 클릭합니다. 선택된 레이어 그룹을 복사할 수 있습니다.
 
-#### [그림 90.4.3.1.9.a11. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴 → `레이어 복제(Duplicate Layer)` (windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-01-context_menux-09-duplicate_layer.html#%EA%B7%B8%EB%A6%BC-904319a11-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%9C%BC%EB%A1%9C-%EC%97%AC%EB%8A%94-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%B3%B5%EC%A0%9Cduplicate-layer-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-03-layersx-01-context_menu-focus-duplicate_layer](https://github.com/wonder13662/gimp/assets/15767104/4452467f-2986-45f1-9d46-02575d662849)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-01-context_menux-09-duplicate_layer.html#%EA%B7%B8%EB%A6%BC-904319a11-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%9C%BC%EB%A1%9C-%EC%97%AC%EB%8A%94-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%B3%B5%EC%A0%9Cduplicate-layer-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-03-01-09-a11"></a>
 
-#### [영상 90.4.3.1.9.a21. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴 → `레이어 복제(Duplicate Layer)`를 선택해서 레이어 그룹 복사하기 (windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layersx-01-context_menux-09-duplicate_layer.html#%EC%98%81%EC%83%81-904319a21-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%9C%BC%EB%A1%9C-%EC%97%AC%EB%8A%94-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%89%B4--%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%B3%B5%EC%A0%9Cduplicate-layer%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%B4%EC%84%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### [그림 90.4.3.1.9.a11. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴 → `레이어 복제(Duplicate Layer)` (windows) (우리말)](./90-04-03-01-09-duplicate_layer.md#90-04-03-01-09-a11)
+![90-04-03-layersx-01-context_menu-focus-duplicate_layer](https://github.com/wonder13662/gimp/assets/15767104/4452467f-2986-45f1-9d46-02575d662849)
+
+<a id="90-04-03-01-09-a21"></a>
+
+#### [영상 90.4.3.1.9.a21. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴 → `레이어 복제(Duplicate Layer)`를 선택해서 레이어 그룹 복사하기 (windows) (우리말)](./90-04-03-01-09-duplicate_layer.md#90-04-03-01-09-a21)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/743b6509-18ba-49da-8cbf-f4b3bce6710c"></video>
 
 ## 3. 캔버스로 레이어 그룹을 옮겨 레이어 그룹을 복사하기
 캔버스로 레이어 그룹을 옮겨서 레이어 그룹을 복사할 수 있습니다. 다만, 이 경우에는 선택된 레이어 그룹 안에 복사한 그룹이 추가됩니다. 레이어 그룹 안에 있는 내용들도 함께 복사됩니다. 아래 영상에서 확인해보세요.
 
-#### [영상 90.4.3.a41. 캔버스로 레이어 그룹을 옮겨 레이어 그룹을 복사하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EC%98%81%EC%83%81-9043a41-%EC%BA%94%EB%B2%84%EC%8A%A4%EB%A1%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%84-%EC%98%AE%EA%B2%A8-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%84-%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0)
+<a id="90-04-03-a41"></a>
+
+#### [영상 90.4.3.a41. 캔버스로 레이어 그룹을 옮겨 레이어 그룹을 복사하기](./90-04-03-00-layers.md#90-04-03-a41)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4cc69ddb-51b0-473c-85d0-bf375d5ecbf1"></video>
 
 ***

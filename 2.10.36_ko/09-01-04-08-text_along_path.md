@@ -34,12 +34,12 @@
 
 <a id="90-04-03-01-29-a101"></a>
 
-#### [그림 90.4.3.1.29.a101. `컨텍스트 메뉴` → `경로따라 텍스트`](./90-04-03-layersx-01-context_menux-29-text_along_path.md#90-04-03-01-29-a101)
+#### [그림 90.4.3.1.29.a101. `컨텍스트 메뉴` → `경로따라 텍스트`](./90-04-03-01-29-text_along_path.md#90-04-03-01-29-a101)
 ![90-04-03-layersx-01-context_menu-activated_text_layer-focus-text_along_path](https://github.com/wonder13662/gimp/assets/15767104/a0eecbc6-f787-4489-92b8-c0cc68ee31ac)
 
 <a id="90-04-03-01-29-a102"></a>
 
-#### [영상 90.4.3.1.29.a102. `컨텍스트 메뉴` → `경로따라 텍스트`](./90-04-03-layersx-01-context_menux-29-text_along_path.md#90-04-03-01-29-a102)
+#### [영상 90.4.3.1.29.a102. `컨텍스트 메뉴` → `경로따라 텍스트`](./90-04-03-01-29-text_along_path.md#90-04-03-01-29-a102)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e7a01554-cc39-43cb-af91-8d35bfe0e5b1"></video>
 
 ***

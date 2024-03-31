@@ -88,9 +88,9 @@
 #### 그림 90.4.a2. 장치 상태(Device status)
 [<img width="240" alt="그림 90.4.1.a1. 도구 옵션 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/925ce4eb-be41-4ef3-b9db-558810edbd6c">](./90-04-02-device_status.md)
 
-### [90.4.3. 레이어(Layers)](./90-04-03-layers.md)
+### [90.4.3. 레이어(Layers)](./90-04-03-00-layers.md)
 #### 그림 90.4.a3. 레이어(Layers)
-[<img width="240" alt="그림 90.4.a3. 레이어(Layers)" src="https://github.com/wonder13662/gimp/assets/15767104/b49bae4c-6cf6-42ca-931e-89efad9ee3f1">](./90-04-03-layers.md)
+[<img width="240" alt="그림 90.4.a3. 레이어(Layers)" src="https://github.com/wonder13662/gimp/assets/15767104/b49bae4c-6cf6-42ca-931e-89efad9ee3f1">](./90-04-03-00-layers.md)
 
 ### [90.4.4. 채널(Channels)](./90-04-04-channels.md)
 #### 그림 90.4.a4. 채널(Channels)
