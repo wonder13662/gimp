@@ -59,8 +59,10 @@
 
 이동 도구를 선택합니다. 이동 도구의 도구 옵션(Tool Options)의 대화상자의 `도구 전환(Tool Toggle)`의 `현재 레이어 이동(Move the active layer)`을 선택합니다. 
 
-#### [그림 90.4.1.1.a121. 이동 도구 대화상자 - 도구 옵션 - 현재 레이어 이동 (windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-01-move.html#%EA%B7%B8%EB%A6%BC-90411a121-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98---%ED%98%84%EC%9E%AC-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%9D%B4%EB%8F%99-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-03-01-move(windows)(ko)-focus-move_the_active_layer](https://github.com/wonder13662/gimp/assets/15767104/38844140-f6fa-4850-b6fe-6004b8195cc0)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-01-move.html#%EA%B7%B8%EB%A6%BC-90411a121-%EC%9D%B4%EB%8F%99-%EB%8F%84%EA%B5%AC-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98---%ED%98%84%EC%9E%AC-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%9D%B4%EB%8F%99-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-01-01-a121"></a>
+
+#### [그림 90.4.1.1.a121. 이동 도구 대화상자 - 도구 옵션 - 현재 레이어 이동 (windows) (우리말)](./90-04-01-01-move.md#90-04-01-01-a121)
+![90-03-01-move(windows)(ko)-focus-move_the_active_layer](https://github.com/wonder13662/gimp/assets/15767104/38844140-f6fa-4850-b6fe-6004b8195cc0)
 
 파란색 속 이미지를 이미지의 오른쪽으로 옮깁니다.
 

@@ -4,8 +4,10 @@
 
 ## 가장자리 페더 적용해보기
 
-#### [그림 90.4.1.3.a101. 도구상자의 사각 선택의 도구옵션 - 가장자리 페더 (windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-03-rectangle_select.html#%EA%B7%B8%EB%A6%BC-90413a101-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%EC%9D%98-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98---%EA%B0%80%EC%9E%A5%EC%9E%90%EB%A6%AC-%ED%8E%98%EB%8D%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-03-03-rectangle_select-feather_edges-focus](https://github.com/wonder13662/gimp/assets/15767104/1a24855f-3c21-42de-8d18-9b7630121395)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-03-rectangle_select.html#%EA%B7%B8%EB%A6%BC-90413a101-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%EC%9D%98-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98---%EA%B0%80%EC%9E%A5%EC%9E%90%EB%A6%AC-%ED%8E%98%EB%8D%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-01-03-a101"></a>
+
+#### [그림 90.4.1.3.a101. 도구상자의 사각 선택의 도구옵션 - 가장자리 페더 (windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a101)
+![90-03-03-rectangle_select-feather_edges-focus](https://github.com/wonder13662/gimp/assets/15767104/1a24855f-3c21-42de-8d18-9b7630121395)
 
 도구옵션 "사각 선택(Rectangle Select)"의 "가장자리 페더(Feather edges)" 체크박스를 체크하면, 점진적인 선택을 사용할 수 있습니다. 이 체크박스를 끄면 예리한 선택을 사용할 수 있습니다. "가장자리 페더"의 "반경(Radius)"을 조정해서 점진적 선택의 범위를 설정할 수 있습니다.
 

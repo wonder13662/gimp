@@ -1,9 +1,11 @@
 # 90.3.2.28. 도구 아이콘(Tool icon) - 지우개(Eraser)
 
+<a id="90-03-02-28-a1"></a>
+
 #### 그림 90.3.2.28.a1. 도구상자의 지우개의 도구옵션
 ![그림 90.3.2.28.a1. 도구상자의 지우개의 도구옵션](https://github.com/wonder13662/gimp/assets/15767104/9b0b855b-0923-4c7d-a71b-91a32b0876d5)
 
-[90.4.1.28. 지우개(Eraser) - 그림 90.3.2.28.a1. 도구상자의 지우개의 도구옵션](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-28-eraser.html#%EA%B7%B8%EB%A6%BC-903228a1-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EC%A7%80%EC%9A%B0%EA%B0%9C%EC%9D%98-%EB%8F%84%EA%B5%AC%EC%98%B5%EC%85%98)
+[90.4.1.28. 지우개(Eraser) - 그림 90.3.2.28.a1](./90-04-01-28-eraser.md#90-03-02-28-a1)
 
 #### 그림 90.3.2.28.a2. 도구상자 - 지우개
 ![그림 90.3.2.28.a2. 도구상자 - 지우개](https://github.com/wonder13662/gimp/assets/15767104/8e448288-3d80-449d-ac03-89757a056a1b)

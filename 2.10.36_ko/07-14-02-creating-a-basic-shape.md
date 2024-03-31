@@ -19,19 +19,25 @@ GIMP(김프)는 그리기에 적합한 도구는 아닙니다. 그러나, 선택
 ## 3. 사각 선택으로 사각형 선택영역 만들기
 사각형이나 삼각형, 타원 등의 기본 도형은 [선택 도구](./14-02-00-selection-tools.md)를 이용하면 쉽게 그릴 수 있습니다. 예를 들어 사각형의 경우, [사각 선택 도구](./14-02-02-rectangle-selection.md)를 선택하고 "사각 선택 만들기"처럼 마우스 왼쪽 버튼을 누른 채 원하는 지점으로 마우스 커서를 이동시켜 새로운 선택을 만듭니다.
 
-#### [영상 90.4.1.3.a151. 새로운 이미지에서 사각 선택하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-03-rectangle_select.html#%EC%98%81%EC%83%81-90413a151-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90%EC%84%9C-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-01-03-a151"></a>
+
+#### [영상 90.4.1.3.a151. 새로운 이미지에서 사각 선택하기 (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a151)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3bbc8add-a2a5-401b-bf15-0b580cd9cbfe"></video>
 
 ## 4. 선택영역을 색으로 칠하기
 선택을 만든 뒤, 원하는 전경색으로 선택을 칠하거나 외곽 테두리를 그릴 수 있습니다. 색으로 칠하려면 먼저 전경색을 선택하고, [채우기 도구](./14-03-04-bucket-fill.md)로 선택 영역에 색상을 채워 넣습니다.
 
-#### [영상 90.4.1.3.a152. 사각 선택에 전경색 채우기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-03-rectangle_select.html#%EC%98%81%EC%83%81-90413a152-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%EC%97%90-%EC%A0%84%EA%B2%BD%EC%83%89-%EC%B1%84%EC%9A%B0%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-01-03-a152"></a>
+
+#### [영상 90.4.1.3.a152. 사각 선택에 전경색 채우기 (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a152)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2e94a6c7-d961-4748-9d2b-0a8a369d1a8e"></video>
 
 ## 5. 선택영역을 따라 그리기
 그리고 외곽 테두리를 그리려면, `편집` → `선택 영역 따라 그리기` 메뉴를 선택해서 외곽선을 그립니다.
 
-#### [영상 90.4.1.3.a153. 사각 선택에 선택 영역 따라그리기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_optionsx-03-rectangle_select.html#%EC%98%81%EC%83%81-90413a153-%EC%82%AC%EA%B0%81-%EC%84%A0%ED%83%9D%EC%97%90-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD-%EB%94%B0%EB%9D%BC%EA%B7%B8%EB%A6%AC%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-01-03-a153"></a>
+
+#### [영상 90.4.1.3.a153. 사각 선택에 선택 영역 따라그리기 (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a153)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d402e542-4a98-433b-bd86-dda9b6a0186c"></video>
 
 그리고 그 뒤에 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `선택` → `없음` 메뉴를 선택해서 선택을 없앱니다.

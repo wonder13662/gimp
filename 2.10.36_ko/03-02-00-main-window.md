@@ -106,8 +106,11 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 많은 GIMP 기능을 사용하는데 필수적입니다.
 
 ### 2. 도구 옵션(Tool Options)
-#### [그림 90.4.1.a1. 도구 옵션 대화상자](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_options.html#%EA%B7%B8%EB%A6%BC-9041a1-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
-[![그림 90.4.1.a1. 도구 옵션 대화상자](https://github.com/wonder13662/gimp/assets/15767104/71b968e1-ade9-44bb-a064-286b9fa9989b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-01-tool_options.html#%EA%B7%B8%EB%A6%BC-9041a1-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
+
+<a id="90-04-01-a1"></a>
+
+#### [그림 90.4.1.a1. 도구 옵션 대화상자](./90-04-01-00-tool_options.md#90-04-01-a1)
+![그림 90.4.1.a1. 도구 옵션 대화상자](https://github.com/wonder13662/gimp/assets/15767104/71b968e1-ade9-44bb-a064-286b9fa9989b)
 
 독립적으로 분리되어 있는 대화상자입니다. 도구 상자의 아래에 연결되어 있습니다. 도구를 효과적으로 사용하기 위해 도구의 설정상태를 보면서 작업해야 하기에 항상 필요합니다.
 
