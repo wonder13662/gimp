@@ -86,7 +86,7 @@ Mac의 경우에는 fn + F2으로 레이어 그룹의 이름을 바꿀 수 있�
 
 <a id="90-04-03-02-a111"></a>
 
-#### [영상 90.4.3.2.a111. 중첩된 레이어 그룹을 다른 레이어 그룹에 집어 넣기]()
+#### [영상 90.4.3.2.a111. 중첩된 레이어 그룹을 다른 레이어 그룹에 집어 넣기](./90-04-03-02-layer_group.md#90-04-03-02-a111)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/421b5d6b-a79d-4003-b2f1-4edee45731ba"></video>
 
 레이어 그룹을 드래그하는 것이 안되는 경우에는 [문제해결: 레이어의 클릭, 드래그가 안되요](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-04-raise_n_lower_layer_groups.html#3-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EB%A0%88%EC%9D%B4%EC%96%B4%EC%9D%98-%ED%81%B4%EB%A6%AD-%EB%93%9C%EB%9E%98%EA%B7%B8%EA%B0%80-%EC%95%88%EB%90%98%EC%9A%94)를 참고해주세요.
