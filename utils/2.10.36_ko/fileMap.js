@@ -27,7 +27,7 @@ module.exports = {
         '2. GIMP(김프) 시작하기'
       ],
       [
-        '02-01-running-gimp.md', 
+        '02-01-00-running-gimp.md', 
         '2.1. Running GIMP',
         '2.1. GIMP(김프) 실행하기'
       ],

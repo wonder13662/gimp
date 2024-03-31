@@ -7,9 +7,9 @@
 
 [2. GIMP(김프) 시작하기](./02-00-fire-up-gimp.md)
 
-[2.1. GIMP(김프) 실행하기](./02-01-running-gimp.md)
+[2.1. GIMP(김프) 실행하기](./02-01-00-running-gimp.md)
 
-[2.1.1. 여러 개의 언어 설정으로 다른 언어의 GIMP(김프) 띄우기](./02-01-running-gimpx-01-multiple-instances.md)
+[2.1.1. 여러 개의 언어 설정으로 다른 언어의 GIMP(김프) 띄우기](./02-01-01-multiple-instances.md)
 
 [2.2. 설정 폴더들](./02-02-configuration-folders.md)
 
