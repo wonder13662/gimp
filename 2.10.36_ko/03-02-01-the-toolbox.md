@@ -110,7 +110,7 @@ GIMP가 새로 시작할 때마다, 이전에 종료하기 전까지 사용했�
 [다른 운영체제와 언어의 '모양새(Appearance)' 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a201-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ## 다른 페이지로 가기
-[➡️ 다음: 3.2.2. 이미지 창](./03-02-02-image-window.md)
+[➡️ 다음: 3.2.2. 이미지 창](./03-02-02-00-image-window.md)
 
 [⬅️ 이전: 3.1. GIMP(김프)의 기본 개념들](./03-01-basic-concepts.md)
 

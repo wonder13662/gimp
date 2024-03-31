@@ -14,7 +14,7 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2569f6bc-62eb-4783-afa5-16f4f5522fc6"></video>
 
 ## 떠있는 선택(floating selection) 사용하기
-[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `선택` → `띄우기`는 떠있는 선택(floating selection)을 만듭니다. 이 명령은 [`떠있는 선택(floating selection)`](./16-04-05-float.md)이라고 하는 새로운 레이어를 만듭니다. 
+[이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `선택` → `띄우기`는 떠있는 선택(floating selection)을 만듭니다. 이 명령은 [`떠있는 선택(floating selection)`](./16-04-05-float.md)이라고 하는 새로운 레이어를 만듭니다. 
 
 #### [그림 90.1.3.4.a101. `선택` → `띄우기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-04-float.html#%EA%B7%B8%EB%A6%BC-90134a101-%EC%84%A0%ED%83%9D--%EB%9D%84%EC%9A%B0%EA%B8%B0)
 [![그림 90.1.3.4.a101. `선택` → `띄우기`](https://github.com/wonder13662/gimp/assets/15767104/8080d2be-dc54-4cf0-80ed-e13dfdacfb9a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-04-float.html#%EA%B7%B8%EB%A6%BC-90134a101-%EC%84%A0%ED%83%9D--%EB%9D%84%EC%9A%B0%EA%B8%B0)
@@ -70,7 +70,7 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/df01454e-345e-43ad-af3b-eeb2001c8f4b"></video>
 
 ## 레이어 마스크 사용하기
-[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `레이어` → `마스크` → `레이어 마스크 추가`을 클릭하면, `레이어 마스크 추가` 대화상자가 나옵니다. 
+[이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `레이어` → `마스크` → `레이어 마스크 추가`을 클릭하면, `레이어 마스크 추가` 대화상자가 나옵니다. 
 
 #### [그림 90.1.6.8.a101. `레이어` → `마스크` → `레이어 마스크 추가` (Windows)]()
 [![90-01-06-layerx-02-mask(windows)(1080)-focus-add_layer_mask](https://github.com/wonder13662/gimp/assets/15767104/8cf43c8a-2b13-4273-97ec-cd326080347c)]()
@@ -120,7 +120,7 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/57683b6c-4c5f-4637-b22e-4c3582fbf8d2"></video>
 
 ## 지우기
-가장 간단한 방법은 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `편집` → `지우기`를 클릭하는 것입니다. 지우면 선택 영역이 완전한 투명이 됩니다. 아래 영상으로 알파 채널이 없는 경우와 있는 경우의 지우기 결과를 확인해보세요.
+가장 간단한 방법은 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `편집` → `지우기`를 클릭하는 것입니다. 지우면 선택 영역이 완전한 투명이 됩니다. 아래 영상으로 알파 채널이 없는 경우와 있는 경우의 지우기 결과를 확인해보세요.
 
 ⚠️ 주의: 알파 채널이 없는 상태에서 지우기를 하면, 지운 부분이 배경색으로 채워집니다.
 

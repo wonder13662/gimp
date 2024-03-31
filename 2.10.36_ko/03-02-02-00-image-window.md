@@ -20,38 +20,38 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 
 ***
 
-[3.2.2.1. 타이틀 바 (Title Bar)](./03-02-02-image-windowx-01-title-bar.md)
+[3.2.2.1. 타이틀 바 (Title Bar)](./03-02-02-01-title-bar.md)
 
-[3.2.2.2. 이미지 메뉴 (Image Menu)](./03-02-02-image-windowx-02-image-menu.md)
+[3.2.2.2. 이미지 메뉴 (Image Menu)](./03-02-02-02-image-menu.md)
 
-[3.2.2.3. 메뉴 버튼 (Menu Button)](./03-02-02-image-windowx-03-menu-button.md)
+[3.2.2.3. 메뉴 버튼 (Menu Button)](./03-02-02-03-menu-button.md)
 
-[3.2.2.4. 눈금자 (Ruler)](./03-02-02-image-windowx-04-ruler.md)
+[3.2.2.4. 눈금자 (Ruler)](./03-02-02-04-ruler.md)
 
-[3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle)](./03-02-02-image-windowx-05-quickmask-toggle.md)
+[3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle)](./03-02-02-05-quickmask-toggle.md)
 
-[3.2.2.6. 커서 좌표 (Pointer Coordinates)](./03-02-02-image-windowx-06-pointer-coordinates.md)
+[3.2.2.6. 커서 좌표 (Pointer Coordinates)](./03-02-02-06-pointer-coordinates.md)
 
-[3.2.2.7. 단위 메뉴 (Units Menu)](./03-02-02-image-windowx-07-units-menu.md)
+[3.2.2.7. 단위 메뉴 (Units Menu)](./03-02-02-07-units-menu.md)
 
-[3.2.2.8. 확대/축소 버튼 (Zoom Button)](./03-02-02-image-windowx-08-zoom-button.md)
+[3.2.2.8. 확대/축소 버튼 (Zoom Button)](./03-02-02-08-zoom-button.md)
 
-[3.2.2.9. 상태 표시 영역 (Status Area)](./03-02-02-image-windowx-09-status-area.md)
+[3.2.2.9. 상태 표시 영역 (Status Area)](./03-02-02-09-status-area.md)
 
-[3.2.2.10. 취소 버튼 (Cancel Button)](./03-02-02-image-windowx-10-cancel-button.md)
+[3.2.2.10. 취소 버튼 (Cancel Button)](./03-02-02-10-cancel-button.md)
 
-[3.2.2.11. 내비게이션 (Navigation Control)](./03-02-02-image-windowx-11-navigation-control.md)
+[3.2.2.11. 내비게이션 (Navigation Control)](./03-02-02-11-navigation-control.md)
 
-[3.2.2.12. 비활성 여백 공간 (Inactive Padding Area)](./03-02-02-image-windowx-12-inactive-padding-area.md)
+[3.2.2.12. 비활성 여백 공간 (Inactive Padding Area)](./03-02-02-12-inactive-padding-area.md)
 
-[3.2.2.13. 이미지 (Image Display)](./03-02-02-image-windowx-13-image-display.md)
+[3.2.2.13. 이미지 (Image Display)](./03-02-02-13-image-display.md)
 
-[3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)](./03-02-02-image-windowx-14-image-window-resize-toggle.md)
+[3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)](./03-02-02-14-image-window-resize-toggle.md)
 
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 3.2.3. 대화상자(Dialog)와 도킹(docking)](./03-02-03-dialogs-and-docking.md)
+[➡️ 다음: 3.2.3. 대화상자(Dialog)와 도킹(docking)](./03-02-03-00-dialogs-and-docking.md)
 
 [⬅️ 이전: 3.2.1. 기본 도구 상자(The toolbox)](./03-02-01-the-toolbox.md)
 

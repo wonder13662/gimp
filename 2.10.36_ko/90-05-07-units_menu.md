@@ -22,7 +22,7 @@
 
 ## 관련 정보
 
-[3.2.2.7. 단위 메뉴 (Units Menu)](./03-02-02-image-windowx-07-units-menu.md)
+[3.2.2.7. 단위 메뉴 (Units Menu)](./03-02-02-07-units-menu.md)
 
 ***
 

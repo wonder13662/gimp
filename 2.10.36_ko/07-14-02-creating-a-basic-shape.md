@@ -2,7 +2,7 @@
 GIMP(김프)는 그리기에 적합한 도구는 아닙니다. 그러나, 선택 도구를 사용하거나 [7.14.1. 직선 그리기](./07-14-01-drawing-a-straight-line.md)로 형태를 그릴 수 있습니다. 
 
 ## 1. 새로운 이미지 만들기
-새로운 이미지를 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 [`파일` → `새 이미지`](./16-02-02-new.md) 메뉴를 선택합니다.
+새로운 이미지를 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 [`파일` → `새 이미지`](./16-02-02-new.md) 메뉴를 선택합니다.
 
 #### [그림 90.1.1.1.a101. `파일` → `새 이미지`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-01-new.html#%EA%B7%B8%EB%A6%BC-90111a101-%ED%8C%8C%EC%9D%BC--%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80)
 [![그림 90.1.1.1.a101. `파일` → `새 이미지`](https://github.com/wonder13662/gimp/assets/15767104/116f6c42-66d8-47ae-8877-9e49d80dc431)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-01-new.html#%EA%B7%B8%EB%A6%BC-90111a101-%ED%8C%8C%EC%9D%BC--%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80)
@@ -40,7 +40,7 @@ GIMP(김프)는 그리기에 적합한 도구는 아닙니다. 그러나, 선택
 #### [영상 90.4.1.3.a153. 사각 선택에 선택 영역 따라그리기 (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a153)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d402e542-4a98-433b-bd86-dda9b6a0186c"></video>
 
-그리고 그 뒤에 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `선택` → `없음` 메뉴를 선택해서 선택을 없앱니다.
+그리고 그 뒤에 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `선택` → `없음` 메뉴를 선택해서 선택을 없앱니다.
 
 #### [그림 90.1.3.2.a101. `선택` → `없음`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-02-none.html#%EA%B7%B8%EB%A6%BC-90132a101-%EC%84%A0%ED%83%9D--%EC%97%86%EC%9D%8C)
 [![그림 90.1.3.2.a101. `선택` → `없음`](https://github.com/wonder13662/gimp/assets/15767104/bf711fb1-5309-4a8d-bdb0-a698aea8c0d7)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-02-none.html#%EA%B7%B8%EB%A6%BC-90132a101-%EC%84%A0%ED%83%9D--%EC%97%86%EC%9D%8C)

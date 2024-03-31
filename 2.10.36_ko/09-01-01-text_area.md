@@ -22,7 +22,7 @@
 #### [영상 90.4.3.14.a71. 클릭, 드래그로 텍스트 상자 크기 바꾸기](./90-04-03-14-text_layer.md#90-04-03-14-a71)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/71a150b3-fdbf-4b6e-bc0d-deadb1777067"></video>
 
-텍스트 박스의 크기는 [3.2.2.9. 상태 표시 영역 (Status Area)](./03-02-02-image-windowx-09-status-area.md)에 표시됩니다.
+텍스트 박스의 크기는 [3.2.2.9. 상태 표시 영역 (Status Area)](./03-02-02-09-status-area.md)에 표시됩니다.
 
 <a id="90-04-03-14-a72"></a>
 

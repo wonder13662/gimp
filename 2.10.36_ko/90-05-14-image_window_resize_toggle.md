@@ -39,7 +39,7 @@
 
 ## 관련 정보
 
-[3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)](./03-02-02-image-windowx-14-image-window-resize-toggle.md)
+[3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)](./03-02-02-14-image-window-resize-toggle.md)
 
 ***
 

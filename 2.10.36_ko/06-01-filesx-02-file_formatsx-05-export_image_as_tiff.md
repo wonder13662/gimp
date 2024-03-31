@@ -26,7 +26,7 @@
    - 팩스의 이미지 전송을 위해 개발된 흑백 이미지 포맷입니다.
 
 > 🗒️ 참고
-> `CCITT 그룹 3 팩스(CCITT Group 3 fax)`과 `CCITT 그룹 4 팩스(CCITT Group 4 fax)`은 이미지가 [인덱스 모드](./16-06-06-indexed-mode.md)이고 2개의 색상으로 줄였을 때만 선택할 수 있습니다. [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `이미지` → `모드` → `인덱스` 메뉴를 선택해서 이미지를 인덱스 모드로 바꿀 수 있습니다. 인덱스 모드로 바꿀 때, `색인 색상 변환` 대화상자에서 색상표의 `Use black and white (1-bit) palette` 라디오 버튼이 반드시 체크되어야 합니다.
+> `CCITT 그룹 3 팩스(CCITT Group 3 fax)`과 `CCITT 그룹 4 팩스(CCITT Group 4 fax)`은 이미지가 [인덱스 모드](./16-06-06-indexed-mode.md)이고 2개의 색상으로 줄였을 때만 선택할 수 있습니다. [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `이미지` → `모드` → `인덱스` 메뉴를 선택해서 이미지를 인덱스 모드로 바꿀 수 있습니다. 인덱스 모드로 바꿀 때, `색인 색상 변환` 대화상자에서 색상표의 `Use black and white (1-bit) palette` 라디오 버튼이 반드시 체크되어야 합니다.
 
 #### 그림 90.4.32.a111. `이미지를 색인 색상으로 변환` 대화상자 - 흑백(1비트) 팔레트 사용 (Windows) (우리말)
 ![90-04-32-indexed_color_conversion(windows)(ko)-focus-use_black_and_white_palette](https://github.com/wonder13662/gimp/assets/15767104/10c9fc28-e330-430a-8a8f-70d752eb7162)
@@ -66,7 +66,7 @@ GIMP(김프) 2.10.12 버전부터 `TIFF`로 이미지를 내보낼 때, 레이�
 #### [그림 90.4.46.a116. `이미지를 TIFF로 내보내기` 대화상자 - 설명 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-46-export_image_as_tiff.html#%EA%B7%B8%EB%A6%BC-90446a116-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-tiff%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A4%EB%AA%85-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-46-export_image_as_tiff(windows)(ko)-focus-comment](https://github.com/wonder13662/gimp/assets/15767104/041936af-de8c-442a-9268-057464a51001)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-46-export_image_as_tiff.html#%EA%B7%B8%EB%A6%BC-90446a116-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-tiff%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A4%EB%AA%85-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-입력창에 입력한 텍스트는 이미지의 설명으로 저장됩니다. 입력한 설명을 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `이미지` → `이미지 성질` → `설명(Comment)`에서 확인할 수 있습니다.
+입력창에 입력한 텍스트는 이미지의 설명으로 저장됩니다. 입력한 설명을 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `이미지` → `이미지 성질` → `설명(Comment)`에서 확인할 수 있습니다.
 
 ⚠️ 주의: 한글은 입력창에 입력 가능하나 실제로는 저장되지 않습니다.
 

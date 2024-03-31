@@ -5,7 +5,7 @@
 
 ## 3.5.1.1. 새 이미지 만들기
 
-[이미지 메뉴 바(Image Menu Bar)](./03-02-02-image-windowx-02-image-menu.md)의 `파일(File)` → `새 이미지(New...)` 메뉴를 클릭해 새로운 이미지 창을 만듭니다.
+[이미지 메뉴 바(Image Menu Bar)](./03-02-02-02-image-menu.md)의 `파일(File)` → `새 이미지(New...)` 메뉴를 클릭해 새로운 이미지 창을 만듭니다.
 
 #### [그림 90.1.1.1.a101. `파일` → `새 이미지`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-01-new.html#%EA%B7%B8%EB%A6%BC-90111a101-%ED%8C%8C%EC%9D%BC--%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80)
 [![그림 90.1.1.1.a101. `파일` → `새 이미지`](https://github.com/wonder13662/gimp/assets/15767104/116f6c42-66d8-47ae-8877-9e49d80dc431)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-01-new.html#%EA%B7%B8%EB%A6%BC-90111a101-%ED%8C%8C%EC%9D%BC--%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80)

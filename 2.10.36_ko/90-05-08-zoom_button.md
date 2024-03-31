@@ -17,7 +17,7 @@
 
 ## 관련 정보
 
-[3.2.2.8. 확대/축소 버튼 (Zoom Button)](./03-02-02-image-windowx-08-zoom-button.md)
+[3.2.2.8. 확대/축소 버튼 (Zoom Button)](./03-02-02-08-zoom-button.md)
 
 ***
 

@@ -24,7 +24,7 @@
 
 ## 관련 정보
 
-[3.2.2.3. 메뉴 버튼 (Menu Button)](./03-02-02-image-windowx-03-menu-button.md)
+[3.2.2.3. 메뉴 버튼 (Menu Button)](./03-02-02-03-menu-button.md)
 
 ***
 

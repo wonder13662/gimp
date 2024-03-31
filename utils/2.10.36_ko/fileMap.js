@@ -57,12 +57,12 @@ module.exports = {
         '3.2.1. 기본 도구 상자(The toolbox)',
       ],
       [
-        '03-02-02-image-window.md',
+        '03-02-02-00-image-window.md',
         '3.2.2. Image window',
         '3.2.2. 이미지 창(Image window)',
       ],
       [
-        '03-02-03-dialogs-and-docking.md', 
+        '03-02-03-00-dialogs-and-docking.md', 
         '3.2.3. Dialogs and docking',
         '3.2.3. 대화상자(Dialog)와 도킹(docking)',
       ],

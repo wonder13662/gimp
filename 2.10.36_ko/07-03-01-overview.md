@@ -17,7 +17,7 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 #### [영상 90.5.5.a111. 퀵 마스크 토글하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-05-quickmask_toggle.html#%EC%98%81%EC%83%81-9055a111-%ED%80%B5-%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/74f2db78-a06e-48d8-bcc7-7c99e3d57180"></video>
 
-[이미지 메뉴 바(Image Menu Bar)](./03-02-02-image-windowx-02-image-menu.md)의 `선택` → `퀵마스크 전환` 또는 단축키 Shift(⇧) + Q를 눌러 퀵마스크 모드와 선택 외곽선(행진하는 개미) 모드로 전환할 수 있습니다.
+[이미지 메뉴 바(Image Menu Bar)](./03-02-02-02-image-menu.md)의 `선택` → `퀵마스크 전환` 또는 단축키 Shift(⇧) + Q를 눌러 퀵마스크 모드와 선택 외곽선(행진하는 개미) 모드로 전환할 수 있습니다.
 
 #### [그림 90.1.3.16.a101. `선택` → `퀵마스크 전환`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-16-toggle_quick_mask.html#%EA%B7%B8%EB%A6%BC-901316a101-%EC%84%A0%ED%83%9D--%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%A0%84%ED%99%98)
 [![90-01-03-select(1080)-focus-toggle_quick_mask](https://github.com/wonder13662/gimp/assets/15767104/33b44419-8d09-45e2-83ea-130e8c25397f)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-16-toggle_quick_mask.html#%EA%B7%B8%EB%A6%BC-901316a101-%EC%84%A0%ED%83%9D--%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%A0%84%ED%99%98)
@@ -44,7 +44,7 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/44c82438-bb6a-426d-b9fd-453fcfb46906"></video>
 
 ## 퀵 마스크를 새로운 채널로 저장하기
-퀵마스크 선택을 새로운 채널로 저장하려면 우선 선택 영역이 있는 것을 확인합니다. 그리고 이미지 창에서 퀵마스크 모드는 비활성화 상태여야 합니다. [이미지 메뉴 바(Image Menu Bar)](./03-02-02-image-windowx-02-image-menu.md)의 `선택` → `채널로 저장`을 클릭해서 채널 대화상제에 새로운 채널을 만듭니다. 
+퀵마스크 선택을 새로운 채널로 저장하려면 우선 선택 영역이 있는 것을 확인합니다. 그리고 이미지 창에서 퀵마스크 모드는 비활성화 상태여야 합니다. [이미지 메뉴 바(Image Menu Bar)](./03-02-02-02-image-menu.md)의 `선택` → `채널로 저장`을 클릭해서 채널 대화상제에 새로운 채널을 만듭니다. 
 
 #### [그림 90.1.3.17.a101. `선택` → `채널로 저장`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-17-save_to_channel.html#%EA%B7%B8%EB%A6%BC-901317a101-%EC%84%A0%ED%83%9D--%EC%B1%84%EB%84%90%EB%A1%9C-%EC%A0%80%EC%9E%A5)
 [![90-01-03-select(1080)-focus-save_to_channel](https://github.com/wonder13662/gimp/assets/15767104/edec29a9-4f48-46d7-8295-72f059bdce3e)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-17-save_to_channel.html#%EA%B7%B8%EB%A6%BC-901317a101-%EC%84%A0%ED%83%9D--%EC%B1%84%EB%84%90%EB%A1%9C-%EC%A0%80%EC%9E%A5)

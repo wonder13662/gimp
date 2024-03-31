@@ -54,7 +54,7 @@
 #### [그림 90.4.45.a127. `이미지를 PNG로 내보내기` 대화상자 - 설명 저장 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a127-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A4%EB%AA%85-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-45-export_image_as_png(windows)(ko)-focus-save_comment](https://github.com/wonder13662/gimp/assets/15767104/b49ec3a0-2164-42cd-8c94-8dcaf659725a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-45-export_image_as_png.html#%EA%B7%B8%EB%A6%BC-90445a127-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-png%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%84%A4%EB%AA%85-%EC%A0%80%EC%9E%A5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-입력한 설명을 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `이미지` → `이미지 성질` → `설명(Comment)`에서 확인할 수 있습니다.
+입력한 설명을 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `이미지` → `이미지 성질` → `설명(Comment)`에서 확인할 수 있습니다.
 
 ⚠️ 주의: Windows와 Mac 환경에서 이 체크박스는 비활성화 상태입니다. 그러므로 체크할 수 없습니다.
 

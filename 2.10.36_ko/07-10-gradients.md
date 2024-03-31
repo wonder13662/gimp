@@ -13,7 +13,7 @@ GIMP(김프)의 기본적인 칠하기 도구는 그라디언트의 색상을 �
 위 영상 관련 작업 내용은 [3.5.2.1. 그리기 붓과 `Color From Gradient` 사용하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-05-02-examples.html#3521-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93%EA%B3%BC-color-from-gradient-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)을 참고해주세요.
 
 ## 2. 그라디언트 맵 필터(The Gradient Map Filter)
-이 필터는 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `색` → `지도` → `그라디언트 맵` 메뉴에 있습니다. 
+이 필터는 [이미지 메뉴 바](./03-02-02-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `색` → `지도` → `그라디언트 맵` 메뉴에 있습니다. 
 
 #### [그림 90.1.7.17.6.a1. `색` → `지도` → `그라디언트 맵` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-17-mapx-06-gradient_map.html#%EA%B7%B8%EB%A6%BC-9017176a1-%EC%83%89--%EC%A7%80%EB%8F%84--%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8-%EB%A7%B5-windows)
 [![90-01-07-colorsx-04-map(windows)(1080)-focus-gradient_map](https://github.com/wonder13662/gimp/assets/15767104/20931627-823c-41a7-b2d9-a35017e5f28f)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-17-mapx-06-gradient_map.html#%EA%B7%B8%EB%A6%BC-9017176a1-%EC%83%89--%EC%A7%80%EB%8F%84--%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8-%EB%A7%B5-windows)

@@ -49,7 +49,7 @@
 
 ## 관련 정보
 
-[3.2.2.2. 이미지 메뉴 (Image Menu)](./03-02-02-image-windowx-02-image-menu.md)
+[3.2.2.2. 이미지 메뉴 (Image Menu)](./03-02-02-02-image-menu.md)
 
 ***
 

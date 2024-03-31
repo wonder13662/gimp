@@ -68,7 +68,7 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c89116d8-2ce7-462a-9043-01fb9a07ec3a"></video>
 
 ### 3.4.10.1.2. 선택한 개체의 색상은 유지하면서 배경만 흑백으로 만들기
-[이미지 메뉴 바(Image Menu Bar)](./03-02-02-image-windowx-02-image-menu.md)의 `색(Colors)` → `무채화(Desaturate)` 메뉴를 선택합니다. 무채화 대화상자에서 모드를 변경하면서 가장 좋은 모드를 선택한 다음 "확인" 버튼을 누릅니다.
+[이미지 메뉴 바(Image Menu Bar)](./03-02-02-02-image-menu.md)의 `색(Colors)` → `무채화(Desaturate)` 메뉴를 선택합니다. 무채화 대화상자에서 모드를 변경하면서 가장 좋은 모드를 선택한 다음 "확인" 버튼을 누릅니다.
 
 #### [그림 90.1.7.16.a1. `색` → `무채화` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-16-desaturate.html#%EA%B7%B8%EB%A6%BC-901716a1-%EC%83%89--%EB%AC%B4%EC%B1%84%ED%99%94-windows)
 [![그림 90.1.7.16.a1. `색` → `무채화` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/a35c267e-bebe-406d-9d05-2301280d1ae8)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-16-desaturate.html#%EA%B7%B8%EB%A6%BC-901716a1-%EC%83%89--%EB%AC%B4%EC%B1%84%ED%99%94-windows)

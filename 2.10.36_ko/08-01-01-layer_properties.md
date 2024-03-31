@@ -95,7 +95,7 @@
 ![08-01-01-alpha_channel-03-two_transparent_layer(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/dd860e65-0e0f-4467-a4e5-94c09b98d081)
 
 ### 2-7. 알파 채널 예제: 셰 개의 투명한 레이어가 있는 경우
-세번째 레이어의 왼쪽 부분이 지워졌습니다. 알파 채널은 여전히 하얀색이고, 레이어의 왼쪽 부분은 불투명 합니다. 왜냐하면 배경 레이어는 알파 채널이 없기 때문입니다. 이 경우에 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `편집` → `지우기`는 도구 상자의 지우개처럼 작동합니다. 그리고 지워진 부분에는 알파 채널이 없기 때문에 도구 상자의 배경색을 채웁니다.
+세번째 레이어의 왼쪽 부분이 지워졌습니다. 알파 채널은 여전히 하얀색이고, 레이어의 왼쪽 부분은 불투명 합니다. 왜냐하면 배경 레이어는 알파 채널이 없기 때문입니다. 이 경우에 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `편집` → `지우기`는 도구 상자의 지우개처럼 작동합니다. 그리고 지워진 부분에는 알파 채널이 없기 때문에 도구 상자의 배경색을 채웁니다.
 
 #### 그림 8.1.1.a4. 알파 채널 예제: 세 개의 투명한 레이어가 있는 경우
 ![08-01-01-alpha_channel-04-three_transparent_layer(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/946ccf9f-1cc6-4dbe-988f-a5e740a0a3c2)
@@ -104,7 +104,7 @@
 [![90-00-image_menu_bar-edit(w1080)-focus-clear](https://github.com/wonder13662/gimp/assets/15767104/194a7e4a-e39b-42bf-9921-222a15ed6166)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-13-clear.html#%EA%B7%B8%EB%A6%BC-901213a101-%ED%8E%B8%EC%A7%91--%EC%A7%80%EC%9A%B0%EA%B8%B0)
 
 ### 2-8. 알파 채널 예제: 배경레이어에 알파 채널을 추가한 경우
-[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `레이어` → `투명도` → `알파 채널 추가`를 배경 레이어에 적용했습니다.
+[이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `레이어` → `투명도` → `알파 채널 추가`를 배경 레이어에 적용했습니다.
 
 #### [그림 90.1.6.9.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-09-transparencyx-01-add_alpha_channel.html#%EA%B7%B8%EB%A6%BC-901691a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%88%AC%EB%AA%85--%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EA%B0%80-windows)
 [![그림 90.1.6.9.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3fb3ad7c-4a41-492e-9797-bed56dc9d936)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-09-transparencyx-01-add_alpha_channel.html#%EA%B7%B8%EB%A6%BC-901691a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%88%AC%EB%AA%85--%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EA%B0%80-windows)
@@ -124,7 +124,7 @@
 - Indexed
 - IndexedA
 
-레이어 타입이 중요한 이유는 [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `필터` 메뉴가 레이어 타입 중 일부에만 사용할 수 있기 때문입니다. 활성화된 레이어가 지원하지 않는 레이어 타입이라면, `필터` 메뉴는 비활성화됩니다. 
+레이어 타입이 중요한 이유는 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `필터` 메뉴가 레이어 타입 중 일부에만 사용할 수 있기 때문입니다. 활성화된 레이어가 지원하지 않는 레이어 타입이라면, `필터` 메뉴는 비활성화됩니다. 
 
 #### 그림 8.1.1.a6. 이미지 모드(인덱스)에서 필터가 비활성화
 ![08-01-01-image_mode_rgb-filter_artistic-disabled(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/9d131319-a6ab-427b-a6ad-6295fc1ec5c6)
@@ -154,7 +154,7 @@ Shift(⇧) 버튼을 누른 채, 눈 모양을 클릭하면, 방금 클릭한 �
 #### [영상 90.4.3.12.a11. Alt(⌥) + Mouse Middle Button으로 레이어 활성화하기 (Windows) (우리말)](./90-04-03-12-active_layer.md#90-04-03-12-a11)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f59e6885-7269-488e-a8f5-51f5952ae7b0"></video>
 
-만일 같은 위치에 여러 레이어가 있다면 가장 위의 레이어부터 차례대로 활성화됩니다. 또한 활성화된 레이어의 이름이 [상태 표시 영역](./03-02-02-image-windowx-09-status-area.md)에 나타납니다.
+만일 같은 위치에 여러 레이어가 있다면 가장 위의 레이어부터 차례대로 활성화됩니다. 또한 활성화된 레이어의 이름이 [상태 표시 영역](./03-02-02-09-status-area.md)에 나타납니다.
 
 <a id="90-04-03-12-a21"></a>
 

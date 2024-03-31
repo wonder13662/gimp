@@ -23,11 +23,11 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 3.2.2.6. 커서 좌표 (Pointer Coordinates)](./03-02-02-image-windowx-06-pointer-coordinates.md)
+[➡️ 다음: 3.2.2.6. 커서 좌표 (Pointer Coordinates)](./03-02-02-06-pointer-coordinates.md)
 
-[⬅️ 이전: 3.2.2.4. 눈금자 (Ruler)](./03-02-02-image-windowx-04-ruler.md)
+[⬅️ 이전: 3.2.2.4. 눈금자 (Ruler)](./03-02-02-04-ruler.md)
 
-[⬆️ 위: 3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
+[⬆️ 위: 3.2.2. 이미지 창(Image window)](./03-02-02-00-image-window.md)
 
 [⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 

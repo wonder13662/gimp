@@ -20,7 +20,7 @@
 페더는 이미지를 잘라내거나 붙일때 쓸 수 있습니다. 페더를 사용하면 붙인 객체가 부드럽고, 눈에 띄지 않게 주변 사물과 어울리게 해줍니다.
 
 ## 이미지 메뉴 바의 `선택` → `페더` 사용하기
-언제든지 `선택`에 `페더`을 적용할 수 있습니다. 심지어 예리한 `선택`에도 `페더`을 적용할 수 있습니다. [이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `선택` → `페더`를 클릭해서 `선택 영역 페더(Feather Selection)` 대화상자를 엽니다. 대화상자의 `선택 영역 페더 량(Feather selection by)`를 설정하고 `OK` 버튼을 누릅니다.
+언제든지 `선택`에 `페더`을 적용할 수 있습니다. 심지어 예리한 `선택`에도 `페더`을 적용할 수 있습니다. [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `선택` → `페더`를 클릭해서 `선택 영역 페더(Feather Selection)` 대화상자를 엽니다. 대화상자의 `선택 영역 페더 량(Feather selection by)`를 설정하고 `OK` 버튼을 누릅니다.
 
 #### [그림 90.1.3.8.a101. `선택` → `페더`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-08-feather.html#%EA%B7%B8%EB%A6%BC-90138a101-%EC%84%A0%ED%83%9D--%ED%8E%98%EB%8D%94)
 [![90-01-03-select(1080)-focus-feather](https://github.com/wonder13662/gimp/assets/15767104/7773abad-3799-4a2d-98e1-971fd9b158fe)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-08-feather.html#%EA%B7%B8%EB%A6%BC-90138a101-%EC%84%A0%ED%83%9D--%ED%8E%98%EB%8D%94)
@@ -34,7 +34,7 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/442f2320-e848-4da9-9d18-c05634337d82"></video>
 
 ## 이미지 메뉴 바의 `선택` → `또렷하게` 사용하기
-[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md)의 `선택` → `또렷하게`를 클릭해서 흐릿한 선택을 예리하고 또렷한 선택(0 또는 255)으로 바꿀 수 있습니다.
+[이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `선택` → `또렷하게`를 클릭해서 흐릿한 선택을 예리하고 또렷한 선택(0 또는 255)으로 바꿀 수 있습니다.
 
 #### [그림 90.1.3.9.a101. `선택` → `또렷하게`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-09-sharpen.html#%EA%B7%B8%EB%A6%BC-90139a101-%EC%84%A0%ED%83%9D--%EB%98%90%EB%A0%B7%ED%95%98%EA%B2%8C)
 [![90-01-03-select(1080)-focus-sharpen](https://github.com/wonder13662/gimp/assets/15767104/55b640bc-7417-4b2a-90b2-f8aaba346979)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-09-sharpen.html#%EA%B7%B8%EB%A6%BC-90139a101-%EC%84%A0%ED%83%9D--%EB%98%90%EB%A0%B7%ED%95%98%EA%B2%8C)

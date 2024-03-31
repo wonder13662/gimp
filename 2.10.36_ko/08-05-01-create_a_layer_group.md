@@ -16,7 +16,7 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d41a23d7-ca29-4045-8ab8-be7e4932b61c"></video>
 
 ### 1-2. 이미지 메뉴 바의 `레이어` → `새 레이어 그룹(New Layer Group)`
-[이미지 메뉴 바](./03-02-02-image-windowx-02-image-menu.md) `레이어` → `새 레이어 그룹(New Layer Group)` 메뉴를 클릭해서 레이어 그룹을 만들 수 있습니다.
+[이미지 메뉴 바](./03-02-02-02-image-menu.md) `레이어` → `새 레이어 그룹(New Layer Group)` 메뉴를 클릭해서 레이어 그룹을 만들 수 있습니다.
 
 #### [그림 90.1.6.3.a101. 이미지 메뉴 바의 `레이어` → `새 레이어 그룹(New Layer Group)`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-03-new_layer_group.html#%EA%B7%B8%EB%A6%BC-90163a101-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94%EC%9D%98-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9new-layer-group)
 [![90-01-06-layer(1080)-focus-new_layer_group](https://github.com/wonder13662/gimp/assets/15767104/b3eda053-5e55-418a-88c8-78df73aa47b4)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-03-new_layer_group.html#%EA%B7%B8%EB%A6%BC-90163a101-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94%EC%9D%98-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9new-layer-group)

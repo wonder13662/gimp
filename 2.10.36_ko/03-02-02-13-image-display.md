@@ -21,11 +21,11 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)](./03-02-02-image-windowx-14-image-window-resize-toggle.md)
+[➡️ 다음: 3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)](./03-02-02-14-image-window-resize-toggle.md)
 
-[⬅️ 이전: 3.2.2.12. 비활성 여백 공간 (Inactive Padding Area)](./03-02-02-image-windowx-12-inactive-padding-area.md)
+[⬅️ 이전: 3.2.2.12. 비활성 여백 공간 (Inactive Padding Area)](./03-02-02-12-inactive-padding-area.md)
 
-[⬆️ 위: 3.2.2. 이미지 창(Image window)](./03-02-02-image-window.md)
+[⬆️ 위: 3.2.2. 이미지 창(Image window)](./03-02-02-00-image-window.md)
 
 [⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 
