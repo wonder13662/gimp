@@ -6,10 +6,10 @@
 
 <a id="90-01-09-01-07-a1"></a>
 
-#### [그림 90.1.9.1.7.a1. `필터` → `흐림처리` → `일부 가우시안 흐림처리...` (Windows)](./90-01-09-filtersx-01-blurx-07-selective_gaussian_blur.md#90-01-09-01-07-a1)
+#### [그림 90.1.9.1.7.a1. `필터` → `흐림처리` → `일부 가우시안 흐림처리...` (Windows)](./90-01-09-01-07-selective_gaussian_blur.md#90-01-09-01-07-a1)
 ![90-01-09-filtersx-01-blur-focus-selective_gaussian_blur(windows)](https://github.com/wonder13662/gimp/assets/15767104/1d26326a-237c-45c5-b1cc-0eb3656d1e51)
 
-[다른 운영체제와 언어의 `필터` → `흐림처리` → `일부 가우시안 흐림처리...` 확인하기](./90-01-09-filtersx-01-blurx-07-selective_gaussian_blur.md#90-01-09-01-07-a2)
+[다른 운영체제와 언어의 `필터` → `흐림처리` → `일부 가우시안 흐림처리...` 확인하기](./90-01-09-01-07-selective_gaussian_blur.md#90-01-09-01-07-a2)
 
 <a id="90-04-80-a101"></a>
 
@@ -28,10 +28,10 @@
 
 <a id="90-01-09-02-08-a1"></a>
 
-#### [그림 90.1.9.2.8.a1. `필터` → `보강` → `잡티 없애기...` (Windows)](./90-01-09-filtersx-02-enhancex-08-despeckle.md#90-01-09-02-08-a1)
+#### [그림 90.1.9.2.8.a1. `필터` → `보강` → `잡티 없애기...` (Windows)](./90-01-09-02-08-despeckle.md#90-01-09-02-08-a1)
 ![90-01-09-filtersx-02-enhance(w1080)-focus-despeckle(windows)](https://github.com/wonder13662/gimp/assets/15767104/12f92e0b-47e4-4620-aee8-7efa050f1829)
 
-[다른 운영체제와 언어의 `필터` → `보강` → `잡티 없애기...` 확인하기](./90-01-09-filtersx-02-enhancex-08-despeckle.md#90-01-09-02-08-a2)
+[다른 운영체제와 언어의 `필터` → `보강` → `잡티 없애기...` 확인하기](./90-01-09-02-08-despeckle.md#90-01-09-02-08-a2)
 
 <a id="90-04-81-a101"></a>
 

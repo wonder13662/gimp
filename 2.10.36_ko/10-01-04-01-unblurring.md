@@ -10,10 +10,10 @@
 
 <a id="90-01-09-02-07-a1"></a>
 
-#### [그림 90.1.9.2.7.a1. `필터` → `보강` → `선명하게...` (Windows)](./90-01-09-filtersx-02-enhancex-07-sharpen_unsharp_mask.md#90-01-09-02-07-a1)
+#### [그림 90.1.9.2.7.a1. `필터` → `보강` → `선명하게...` (Windows)](./90-01-09-02-07-sharpen_unsharp_mask.md#90-01-09-02-07-a1)
 ![90-01-09-filtersx-02-enhance(w1080)-focus-sharpen_unsharpen_mask(windows)](https://github.com/wonder13662/gimp/assets/15767104/1a306ad6-8d76-446b-bfb0-ecd7aeb70ad3)
 
-[다른 운영체제와 언어의 `필터` → `보강` → `선명하게...` 확인하기](./90-01-09-filtersx-02-enhancex-07-sharpen_unsharp_mask.md#90-01-09-02-07-a2)
+[다른 운영체제와 언어의 `필터` → `보강` → `선명하게...` 확인하기](./90-01-09-02-07-sharpen_unsharp_mask.md#90-01-09-02-07-a2)
 
 슬라이더 `반경(Radius)`과 `양(Amount)`으로 입력값을 조절할 수 있습니다. 기본값으로도 잘 작동하므로, 우선 기본값으로 적용해보세요.
 

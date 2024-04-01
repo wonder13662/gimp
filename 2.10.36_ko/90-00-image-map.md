@@ -555,141 +555,141 @@
 
 [90.1.8.12. 색 바꾸기(Swap Colors)](./90-01-08-12-swap_colors.md)
 
-[90.1.9. 필터(Filters)](./90-01-09-filters.md)
+[90.1.9. 필터(Filters)](./90-01-09-00-filters.md)
 
-[90.1.9.1. 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
+[90.1.9.1. 흐림 처리(Blur)](./90-01-09-01-00-blur.md)
 
-[90.1.9.1.1. 포커스 흐림처리...(Focus Blur...)](./90-01-09-filtersx-01-blurx-01-focus_blur.md)
+[90.1.9.1.1. 포커스 흐림처리...(Focus Blur...)](./90-01-09-01-01-focus_blur.md)
 
-[90.1.9.1.2. 가우시안 흐림처리...(Gaussian Blur...)](./90-01-09-filtersx-01-blurx-02-gaussian_blur.md)
+[90.1.9.1.2. 가우시안 흐림처리...(Gaussian Blur...)](./90-01-09-01-02-gaussian_blur.md)
 
-[90.1.9.1.3. 렌즈 흐림처리...(Lens Blur...)](./90-01-09-filtersx-01-blurx-03-lens_blur.md)
+[90.1.9.1.3. 렌즈 흐림처리...(Lens Blur...)](./90-01-09-01-03-lens_blur.md)
 
-[90.1.9.1.4. Mean Curvature 흐림처리...(Mean Curvature Blur...)](./90-01-09-filtersx-01-blurx-04-mean_curvature_blur.md)
+[90.1.9.1.4. Mean Curvature 흐림처리...(Mean Curvature Blur...)](./90-01-09-01-04-mean_curvature_blur.md)
 
-[90.1.9.1.5. 중앙값 흐림처리...(Median Blur...)](./90-01-09-filtersx-01-blurx-05-median_blur.md)
+[90.1.9.1.5. 중앙값 흐림처리...(Median Blur...)](./90-01-09-01-05-median_blur.md)
 
-[90.1.9.1.6. 픽셀화...(Pixelize...)](./90-01-09-filtersx-01-blurx-06-pixelize.md)
+[90.1.9.1.6. 픽셀화...(Pixelize...)](./90-01-09-01-06-pixelize.md)
 
-[90.1.9.1.7. 일부 가우시안 흐림처리...(Selective Gaussian Blur...)](./90-01-09-filtersx-01-blurx-07-selective_gaussian_blur.md)
+[90.1.9.1.7. 일부 가우시안 흐림처리...(Selective Gaussian Blur...)](./90-01-09-01-07-selective_gaussian_blur.md)
 
-[90.1.9.1.8. 변수 흐림처리...(Variable Blur...)](./90-01-09-filtersx-01-blurx-08-variable_blur.md)
+[90.1.9.1.8. 변수 흐림처리...(Variable Blur...)](./90-01-09-01-08-variable_blur.md)
 
-[90.1.9.1.9. 원형 움직임 흐림처리...(Circular Motion Blur...)](./90-01-09-filtersx-01-blurx-09-circular_motion_blur.md)
+[90.1.9.1.9. 원형 움직임 흐림처리...(Circular Motion Blur...)](./90-01-09-01-09-circular_motion_blur.md)
 
-[90.1.9.1.10. 선형 움직임 흐림처리...(Linear Motion Blur...)](./90-01-09-filtersx-01-blurx-10-linear_motion_blur.md)
+[90.1.9.1.10. 선형 움직임 흐림처리...(Linear Motion Blur...)](./90-01-09-01-10-linear_motion_blur.md)
 
-[90.1.9.1.11. 확대 움직임 흐림처리...(Zoom Motion Blur...)](./90-01-09-filtersx-01-blurx-11-zoom_motion_blur.md)
+[90.1.9.1.11. 확대 움직임 흐림처리...(Zoom Motion Blur...)](./90-01-09-01-11-zoom_motion_blur.md)
 
-[90.1.9.1.12. 타일 흐림처리...(Tileable Blur...)](./90-01-09-filtersx-01-blurx-12-tileable_blur.md)
+[90.1.9.1.12. 타일 흐림처리...(Tileable Blur...)](./90-01-09-01-12-tileable_blur.md)
 
-[90.1.9.2. 보강(Enhance)](./90-01-09-filtersx-02-enhance.md)
+[90.1.9.2. 보강(Enhance)](./90-01-09-02-00-enhance.md)
 
-[90.1.9.2.1. 안티 에일리어싱(Antialias)](./90-01-09-filtersx-02-enhancex-01-antialias.md)
+[90.1.9.2.1. 안티 에일리어싱(Antialias)](./90-01-09-02-01-antialias.md)
 
-[90.1.9.2.2. 디인터레이스...(Deinterlace...)](./90-01-09-filtersx-02-enhancex-02-deinterlace.md)
+[90.1.9.2.2. 디인터레이스...(Deinterlace...)](./90-01-09-02-02-deinterlace.md)
 
-[90.1.9.2.3. 고역 통과...(High Pass...)](./90-01-09-filtersx-02-enhancex-03-high_pass.md)
+[90.1.9.2.3. 고역 통과...(High Pass...)](./90-01-09-02-03-high_pass.md)
 
-[90.1.9.2.4. 노이즈 감소...(Noise Reduction...)](./90-01-09-filtersx-02-enhancex-04-noise_reduction.md)
+[90.1.9.2.4. 노이즈 감소...(Noise Reduction...)](./90-01-09-02-04-noise_reduction.md)
 
-[90.1.9.2.5. 적목 제거...(Red Eye Removal...)](./90-01-09-filtersx-02-enhancex-05-red_eye_removal.md)
+[90.1.9.2.5. 적목 제거...(Red Eye Removal...)](./90-01-09-02-05-red_eye_removal.md)
 
-[90.1.9.2.6. 인접 요소 대칭...(Symmetric Nearest Neighbor...)](./90-01-09-filtersx-02-enhancex-06-symmetric_nearest_neighbor.md)
+[90.1.9.2.6. 인접 요소 대칭...(Symmetric Nearest Neighbor...)](./90-01-09-02-06-symmetric_nearest_neighbor.md)
 
-[90.1.9.2.7. 선명하게... - Sharpen (Unsharp Mask)...](./90-01-09-filtersx-02-enhancex-07-sharpen_unsharp_mask.md)
+[90.1.9.2.7. 선명하게... - Sharpen (Unsharp Mask)...](./90-01-09-02-07-sharpen_unsharp_mask.md)
 
-[90.1.9.2.8. 잡티 없애기...(Despeckle...)](./90-01-09-filtersx-02-enhancex-08-despeckle.md)
+[90.1.9.2.8. 잡티 없애기...(Despeckle...)](./90-01-09-02-08-despeckle.md)
 
-[90.1.9.2.9. 줄무늬 없애기...(Desprite...)](./90-01-09-filtersx-02-enhancex-09-desprite.md)
+[90.1.9.2.9. 줄무늬 없애기...(Desprite...)](./90-01-09-02-09-desprite.md)
 
-[90.1.9.2.10. NL 필터...(NL Filter...)](./90-01-09-filtersx-02-enhancex-10-nl_filter.md)
+[90.1.9.2.10. NL 필터...(NL Filter...)](./90-01-09-02-10-nl_filter.md)
 
-[90.1.9.2.11. Wavelet-decompose...(Wavelet-decompose...)](./90-01-09-filtersx-02-enhancex-11-wavelet_decompose.md)
+[90.1.9.2.11. Wavelet-decompose...(Wavelet-decompose...)](./90-01-09-02-11-wavelet_decompose.md)
 
-[90.1.9.3. 왜곡(Distorts)](./90-01-09-filtersx-03-distorts.md)
+[90.1.9.3. 왜곡(Distorts)](./90-01-09-03-distorts.md)
 
-[90.1.9.4. 빛/그림자(Light & Shadow)](./90-01-09-filtersx-04-light_n_shadow.md)
+[90.1.9.4. 빛/그림자(Light & Shadow)](./90-01-09-04-light_n_shadow.md)
 
-[90.1.9.5. 노이즈(Noise)](./90-01-09-filtersx-05-noise.md)
+[90.1.9.5. 노이즈(Noise)](./90-01-09-05-noise.md)
 
-[90.1.9.6. 경계-검출(Edge-Detect)](./90-01-09-filtersx-06-edge_detect.md)
+[90.1.9.6. 경계-검출(Edge-Detect)](./90-01-09-06-edge_detect.md)
 
-[90.1.9.7. 일반(Generic)](./90-01-09-filtersx-07-generic.md)
+[90.1.9.7. 일반(Generic)](./90-01-09-07-generic.md)
 
-[90.1.9.8. 결합(Combine)](./90-01-09-filtersx-08-combine.md)
+[90.1.9.8. 결합(Combine)](./90-01-09-08-combine.md)
 
-[90.1.9.9. 예술(Artistic)](./90-01-09-filtersx-09-artistic.md)
+[90.1.9.9. 예술(Artistic)](./90-01-09-09-artistic.md)
 
-[90.1.9.10. 장식(Decor)](./90-01-09-filtersx-10-decor.md)
+[90.1.9.10. 장식(Decor)](./90-01-09-10-decor.md)
 
-[90.1.9.11. 맵(Map)](./90-01-09-filtersx-11-map.md)
+[90.1.9.11. 맵(Map)](./90-01-09-11-map.md)
 
-[90.1.9.12. 렌더(Render)](./90-01-09-filtersx-12-render.md)
+[90.1.9.12. 렌더(Render)](./90-01-09-12-00-render.md)
 
-[90.1.9.12.1. 프랙탈(Fractal)](./90-01-09-filtersx-12-renderx-01-fractal.md)
+[90.1.9.12.1. 프랙탈(Fractal)](./90-01-09-12-01-fractal.md)
 
-[90.1.9.12.2. 노이즈(Noise)](./90-01-09-filtersx-12-renderx-02-noise.md)
+[90.1.9.12.2. 노이즈(Noise)](./90-01-09-12-02-00-noise.md)
 
-[90.1.9.12.2.1. Cell Noise(Cell Noise)](./90-01-09-filtersx-12-renderx-02-noisex-01-cell_noise.md)
+[90.1.9.12.2.1. Cell Noise(Cell Noise)](./90-01-09-12-02-01-cell_noise.md)
 
-[90.1.9.12.2.2. Perlin Noise(Perlin Noise)](./90-01-09-filtersx-12-renderx-02-noisex-02-perlin_noise.md)
+[90.1.9.12.2.2. Perlin Noise(Perlin Noise)](./90-01-09-12-02-02-perlin_noise.md)
 
-[90.1.9.12.2.3. 플라즈마(Plasma)](./90-01-09-filtersx-12-renderx-02-noisex-03-plasma.md)
+[90.1.9.12.2.3. 플라즈마(Plasma)](./90-01-09-12-02-03-plasma.md)
 
-[90.1.9.12.2.4. Simplex Noise(Simplex Noise)](./90-01-09-filtersx-12-renderx-02-noisex-04-simplex_noise.md)
+[90.1.9.12.2.4. Simplex Noise(Simplex Noise)](./90-01-09-12-02-04-simplex_noise.md)
 
-[90.1.9.12.2.5. Solid Noise(Solid Noise)](./90-01-09-filtersx-12-renderx-02-noisex-05-solid_noise.md)
+[90.1.9.12.2.5. Solid Noise(Solid Noise)](./90-01-09-12-02-05-solid_noise.md)
 
-[90.1.9.12.2.6. Difference Clouds(Difference Clouds)](./90-01-09-filtersx-12-renderx-02-noisex-06-difference_clouds.md)
+[90.1.9.12.2.6. Difference Clouds(Difference Clouds)](./90-01-09-12-02-06-difference_clouds.md)
 
-[90.1.9.12.3. 무늬(Pattern)](./90-01-09-filtersx-12-renderx-03-pattern.md)
+[90.1.9.12.3. 무늬(Pattern)](./90-01-09-12-03-00-pattern.md)
 
-[90.1.9.12.3.1. Bayer Matrix(Bayer Matrix)](./90-01-09-filtersx-12-renderx-03-patternx-01-bayer_matrix.md)
+[90.1.9.12.3.1. Bayer Matrix(Bayer Matrix)](./90-01-09-12-03-01-bayer_matrix.md)
 
-[90.1.9.12.3.2. 체커보드(Checkerboard)](./90-01-09-filtersx-12-renderx-03-patternx-02-checkerboard.md)
+[90.1.9.12.3.2. 체커보드(Checkerboard)](./90-01-09-12-03-02-checkerboard.md)
 
-[90.1.9.12.3.3. Diffraction Pattern(Diffraction Pattern)](./90-01-09-filtersx-12-renderx-03-patternx-03-diffraction_pattern.md)
+[90.1.9.12.3.3. Diffraction Pattern(Diffraction Pattern)](./90-01-09-12-03-03-diffraction_pattern.md)
 
-[90.1.9.12.3.4. 격자(Grid)](./90-01-09-filtersx-12-renderx-03-patternx-04-grid.md)
+[90.1.9.12.3.4. 격자(Grid)](./90-01-09-12-03-04-grid.md)
 
-[90.1.9.12.3.5. 선형 사인곡선(Linear Sinusoid)](./90-01-09-filtersx-12-renderx-03-patternx-05-linear_sinusoid.md)
+[90.1.9.12.3.5. 선형 사인곡선(Linear Sinusoid)](./90-01-09-12-03-05-linear_sinusoid.md)
 
-[90.1.9.12.3.6. 미로(Maze)](./90-01-09-filtersx-12-renderx-03-patternx-06-maze.md)
+[90.1.9.12.3.6. 미로(Maze)](./90-01-09-12-03-06-maze.md)
 
-[90.1.9.12.3.7. 구부러짐(Sinus)](./90-01-09-filtersx-12-renderx-03-patternx-07-sinus.md)
+[90.1.9.12.3.7. 구부러짐(Sinus)](./90-01-09-12-03-07-sinus.md)
 
-[90.1.9.12.3.8. 나선형(Spiral)](./90-01-09-filtersx-12-renderx-03-patternx-08-spiral.md)
+[90.1.9.12.3.8. 나선형(Spiral)](./90-01-09-12-03-08-spiral.md)
 
-[90.1.9.12.3.9. CML 탐색기(CML Explorer)](./90-01-09-filtersx-12-renderx-03-patternx-09-cml_explorer.md)
+[90.1.9.12.3.9. CML 탐색기(CML Explorer)](./90-01-09-12-03-09-cml_explorer.md)
 
-[90.1.9.12.3.10. 체커보드 (이전버전)(Checkerboard (legacy))](./90-01-09-filtersx-12-renderx-03-patternx-10-checkerboard_legacy.md)
+[90.1.9.12.3.10. 체커보드 (이전버전)(Checkerboard (legacy))](./90-01-09-12-03-10-checkerboard_legacy.md)
 
-[90.1.9.12.3.11. 격자 (이전버전)(Grid (legacy))](./90-01-09-filtersx-12-renderx-03-patternx-11-grid_legacy.md)
+[90.1.9.12.3.11. 격자 (이전버전)(Grid (legacy))](./90-01-09-12-03-11-grid_legacy.md)
 
-[90.1.9.12.3.12. 실톱(Jigsaw)](./90-01-09-filtersx-12-renderx-03-patternx-12-jigsaw.md)
+[90.1.9.12.3.12. 실톱(Jigsaw)](./90-01-09-12-03-12-jigsaw.md)
 
-[90.1.9.12.3.13. Qbist(Qbist)](./90-01-09-filtersx-12-renderx-03-patternx-13-qbist.md)
+[90.1.9.12.3.13. Qbist(Qbist)](./90-01-09-12-03-13-qbist.md)
 
-[90.1.9.12.4. Spyrogimp(Spyrogimp)](./90-01-09-filtersx-12-renderx-04-spyrogimp.md)
+[90.1.9.12.4. Spyrogimp(Spyrogimp)](./90-01-09-12-04-spyrogimp.md)
 
-[90.1.9.12.5. Circuit(Circuit)](./90-01-09-filtersx-12-renderx-05-circuit.md)
+[90.1.9.12.5. Circuit(Circuit)](./90-01-09-12-05-circuit.md)
 
-[90.1.9.12.6. Gfig(Gfig)](./90-01-09-filtersx-12-renderx-06-gfig.md)
+[90.1.9.12.6. Gfig(Gfig)](./90-01-09-12-06-gfig.md)
 
-[90.1.9.12.7. Lava(Lava)](./90-01-09-filtersx-12-renderx-07-lava.md)
+[90.1.9.12.7. Lava(Lava)](./90-01-09-12-07-lava.md)
 
-[90.1.9.12.8. Line Nova(Line Nova)](./90-01-09-filtersx-12-renderx-08-line_nova.md)
+[90.1.9.12.8. Line Nova(Line Nova)](./90-01-09-12-08-line_nova.md)
 
-[90.1.9.12.9. 구체 디자이너(Sphere Designer)](./90-01-09-filtersx-12-renderx-09-sphere_designer.md)
+[90.1.9.12.9. 구체 디자이너(Sphere Designer)](./90-01-09-12-09-sphere_designer.md)
 
-[90.1.9.13. 웹(Web)](./90-01-09-filtersx-13-web.md)
+[90.1.9.13. 웹(Web)](./90-01-09-13-web.md)
 
-[90.1.9.14. 애니메이션(Animation)](./90-01-09-filtersx-14-animation.md)
+[90.1.9.14. 애니메이션(Animation)](./90-01-09-14-animation.md)
 
-[90.1.9.15. Python-Fu](./90-01-09-filtersx-15-python_fu.md)
+[90.1.9.15. Python-Fu](./90-01-09-15-python_fu.md)
 
-[90.1.9.16. Script-Fu](./90-01-09-filtersx-16-script_fu.md)
+[90.1.9.16. Script-Fu](./90-01-09-16-script_fu.md)
 
 [90.1.10. 창(Windows)](./90-01-10-windows.md)
 
