@@ -1,7 +1,7 @@
 # 7.7. 새 붓 추가하기
 ## 1. GIMP(김프)의 붓의 파일 형식
 ### 1-1. GBR
-`.gbr` 확장자는 "gimp brush"를 의미합니다. `.gbr` 확장자는 [일반 붓](./07-06-brushesx-01-ordinary_brush.md)과 [색상 붓](./07-06-brushesx-02-color_brush.md)에 사용됩니다. 여러 타입의 이미지나 다른 프로그램에서 사용되는 붓들을 GIMP(김프)로 연 다음에 `.gbr`로 내보냄으로써 GIMP(김프)의 붓으로 바꿀 수 있습니다. `.gbr`로 내보내기 할 때 붓의 기본 간격을 설정허는 대화상자가 뜹니다.
+`.gbr` 확장자는 "gimp brush"를 의미합니다. `.gbr` 확장자는 [일반 붓](./07-06-01-ordinary_brush.md)과 [색상 붓](./07-06-02-color_brush.md)에 사용됩니다. 여러 타입의 이미지나 다른 프로그램에서 사용되는 붓들을 GIMP(김프)로 연 다음에 `.gbr`로 내보냄으로써 GIMP(김프)의 붓으로 바꿀 수 있습니다. `.gbr`로 내보내기 할 때 붓의 기본 간격을 설정허는 대화상자가 뜹니다.
 
 #### [그림 90.4.52.a101. `이미지를 붓으로 내보내기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-52-export_image_as_brush.html#%EA%B7%B8%EB%A6%BC-90452a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93%EC%9C%BC%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-52-export_image_as_brush(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7f5a1766-b93a-438a-9092-0f99e5e169f6)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-52-export_image_as_brush.html#%EA%B7%B8%EB%A6%BC-90452a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93%EC%9C%BC%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
@@ -16,12 +16,12 @@
 #### [그림 90.4.54.a101. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-54-export_image_as_brush_pipe.html#%EA%B7%B8%EB%A6%BC-90454a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-54-export_image_as_brush_pipe(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/772cddf7-fec0-4394-8394-99ec12a986e8)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-54-export_image_as_brush_pipe.html#%EA%B7%B8%EB%A6%BC-90454a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-더 자세한 내용은 [GIH 대화상자](./07-08-the-gih-dialog-box.md)을 참고해주세요.
+더 자세한 내용은 [GIH 대화상자](./07-08-00-the-gih-dialog-box.md)을 참고해주세요.
 
 [comment]: <> (TODO 원문에 파일 타입관련 상세 내용 있음. 확인 필요.)
 
 ### 1-3. VBR
-`.vbr` 확장자는 `붓 편집기`로 만드는 [파라매트릭 붓](./07-06-brushesx-05-paramatric_brush.md)의 확장자입니다.
+`.vbr` 확장자는 `붓 편집기`로 만드는 [파라매트릭 붓](./07-06-05-paramatric_brush.md)의 확장자입니다.
 
 [comment]: <> (TODO 원문에 파일 타입관련 상세 내용 있음. 확인 필요.)
 
@@ -56,9 +56,9 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 7.8. GIH 대화상자](./07-08-the-gih-dialog-box.md)
+[➡️ 다음: 7.8. GIH 대화상자](./07-08-00-the-gih-dialog-box.md)
 
-[⬅️ 이전: 7.6. 붓](./07-06-brushes.md)
+[⬅️ 이전: 7.6. 붓](./07-06-00-brushes.md)
 
 [⬆️ 위: 7. GIMP(김프)로 그리기](./07-00-painting-with-gimp.md)
 

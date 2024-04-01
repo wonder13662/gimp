@@ -17,7 +17,7 @@
 #### 그림 90.4.3.1.a41. 레이어 대화상자의 컨텍스트 메뉴 열기 (windows) (우리말)
 ![90-04-03-layer_dialog-toggle_context_menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/faac9099-0657-4cd8-8bc0-b1bce6a098b6)
 
-[7.8.2.2. 3차원 이미지 호스(A three dimension image hose) - 그림 90.4.3.1.a41](./07-08-the-gih-dialog-boxx-02-examplex-02-three_dimension_image_hose.md#90-04-03-01-a41)
+[7.8.2.2. 3차원 이미지 호스(A three dimension image hose) - 그림 90.4.3.1.a41](./07-08-02-02-three_dimension_image_hose.md#90-04-03-01-a41)
 
 <a id="90-04-03-01-a71"></a>
 

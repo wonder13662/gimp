@@ -7,7 +7,7 @@
 
 [7.8. GIH 대화상자 - 그림 90.4.54.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-the-gih-dialog-box.html#%EA%B7%B8%EB%A6%BC-90454a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-[7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-the-gih-dialog-boxx-01-dialog_options_of_export_image_as_brush_pipe.md#%EA%B7%B8%EB%A6%BC-90454a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-01-dialog_options_of_export_image_as_brush_pipe.md#%EA%B7%B8%EB%A6%BC-90454a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 #### 그림 90.4.54.a102. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (영어)
 ![90-04-54-export_image_as_brush_pipe(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/62dab00b-faa8-4e1e-99c7-7f9ddd0399b4)
@@ -21,17 +21,17 @@
 #### 그림 90.4.54.a105. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 차원을 바꾸면 횡렬도 영향을 받습니다
 ![90-04-54-dimension_animated(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/9a713938-38c1-4b5b-b1d9-613bce3b07ad)
 
-[7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a105](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-the-gih-dialog-boxx-01-dialog_options_of_export_image_as_brush_pipe.md#%EA%B7%B8%EB%A6%BC-90454a105-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%B0%A8%EC%9B%90%EC%9D%84-%EB%B0%94%EA%BE%B8%EB%A9%B4-%ED%9A%A1%EB%A0%AC%EB%8F%84-%EC%98%81%ED%96%A5%EC%9D%84-%EB%B0%9B%EC%8A%B5%EB%8B%88%EB%8B%A4)
+[7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a105](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-01-dialog_options_of_export_image_as_brush_pipe.md#%EA%B7%B8%EB%A6%BC-90454a105-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%B0%A8%EC%9B%90%EC%9D%84-%EB%B0%94%EA%BE%B8%EB%A9%B4-%ED%9A%A1%EB%A0%AC%EB%8F%84-%EC%98%81%ED%96%A5%EC%9D%84-%EB%B0%9B%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
 #### 그림 90.4.54.a106. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬(Rank)
 ![90-04-54-rank_selection(windows)(ko)-focus-rank](https://github.com/wonder13662/gimp/assets/15767104/4f2e2c68-8619-4002-8dde-9c4977dd7dd2)
 
-[7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a106](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-the-gih-dialog-boxx-01-dialog_options_of_export_image_as_brush_pipe.md#%EA%B7%B8%EB%A6%BC-90454a106-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%ED%9A%A1%EB%A0%ACrank)
+[7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a106](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-01-dialog_options_of_export_image_as_brush_pipe.md#%EA%B7%B8%EB%A6%BC-90454a106-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%ED%9A%A1%EB%A0%ACrank)
 
 #### 그림 90.4.54.a107. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬의 선택(selection)
 ![90-04-54-rank_selection(windows)(ko)-focus-rank_selection](https://github.com/wonder13662/gimp/assets/15767104/d902c779-d0e8-4b51-8fe8-28cc739a76c8)
 
-[7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a107](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-the-gih-dialog-boxx-01-dialog_options_of_export_image_as_brush_pipe.md#%EA%B7%B8%EB%A6%BC-90454a107-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%ED%9A%A1%EB%A0%AC%EC%9D%98-%EC%84%A0%ED%83%9Dselection)
+[7.8.1. GIH 대화상자 - 설정값 - 그림 90.4.54.a107](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-01-dialog_options_of_export_image_as_brush_pipe.md#%EA%B7%B8%EB%A6%BC-90454a107-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%ED%9A%A1%EB%A0%AC%EC%9D%98-%EC%84%A0%ED%83%9Dselection)
 
 ***
 

@@ -23,11 +23,11 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 7.6.4. 이미지 호스(image hose)/이미지 파이프(image pipe)](./07-06-brushesx-04-gih_brush.md)
+[➡️ 다음: 7.6.4. 이미지 호스(image hose)/이미지 파이프(image pipe)](./07-06-04-gih_brush.md)
 
-[⬅️ 이전: 7.6.2. 색상 붓(Color brushes)](./07-06-brushesx-02-color_brush.md)
+[⬅️ 이전: 7.6.2. 색상 붓(Color brushes)](./07-06-02-color_brush.md)
 
-[⬆️ 위: 7.6. 붓](./07-06-brushes.md)
+[⬆️ 위: 7.6. 붓](./07-06-00-brushes.md)
 
 [⬆️ 위: 7. GIMP(김프)로 그리기](./07-00-painting-with-gimp.md)
 

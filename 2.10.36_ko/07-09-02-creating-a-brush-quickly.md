@@ -20,10 +20,10 @@
 #### [영상 90.4.15.a202. 클립보드 마스크 붓 복제하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a202-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C-%EB%A7%88%EC%8A%A4%ED%81%AC-%EB%B6%93-%EB%B3%B5%EC%A0%9C%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/22d0ee6c-82f1-46d1-a352-c2b3ac9e807d"></video>
 
-더 상세한 내용은 [7.6.3. 클립보드 붓(Clipboard Brush)](./07-06-brushesx-03-clipboard_brush.md)을 참고해주세요.
+더 상세한 내용은 [7.6.3. 클립보드 붓(Clipboard Brush)](./07-06-03-clipboard_brush.md)을 참고해주세요.
 
 ## 2. `.gbr` 내보내기로 새 붓 만들기
-이미지를 `.gbr`로 내보내서 새 붓으로 사용할 수 있습니다. `.gbr` 형식은 [색상 붓(Color brushes)](./07-06-brushesx-02-color_brush.md)과 [일반 붓(Ordinary brushes)](./07-06-brushesx-01-ordinary_brush.md)을 만들 수 있습니다. 이 방법은 GIMP(김프)를 재시작하지 않아도 새로 만든 붓을 바로 사용할 수 있습니다.
+이미지를 `.gbr`로 내보내서 새 붓으로 사용할 수 있습니다. `.gbr` 형식은 [색상 붓(Color brushes)](./07-06-02-color_brush.md)과 [일반 붓(Ordinary brushes)](./07-06-01-ordinary_brush.md)을 만들 수 있습니다. 이 방법은 GIMP(김프)를 재시작하지 않아도 새로 만든 붓을 바로 사용할 수 있습니다.
 
 #### [영상 90.4.15.a154. 일반붓 만들기 - 새로운 일반붓으로 칠해보기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a154-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%BC%EB%B0%98%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%B4%EB%B3%B4%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c4e5e43b-c351-43d1-9e24-a61d786a6e55"></video>
@@ -31,7 +31,7 @@
 #### [영상 90.4.15.a164. 색상붓 만들기 - 색상붓으로 칠하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a164-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%83%89%EC%83%81%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%98%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7162b436-f9c5-4b27-a706-9a7d8e59f383"></video>
 
-더 상세한 내용은 [7.6.1. 일반 붓(Ordinary brushes)](./07-06-brushesx-01-ordinary_brush.md)과 [7.6.2. 색상 붓(Color brushes)](./07-06-brushesx-02-color_brush.md)을 참고해주세요.
+더 상세한 내용은 [7.6.1. 일반 붓(Ordinary brushes)](./07-06-01-ordinary_brush.md)과 [7.6.2. 색상 붓(Color brushes)](./07-06-02-color_brush.md)을 참고해주세요.
 
 ***
 

@@ -190,9 +190,9 @@ GIMP(김프)에서 이 배열을 어떻게 읽을까요? GIMP(김프)는 첫번�
 ## 다른 페이지로 가기
 [➡️ 다음: 7.9. 붓 크기 바꾸기](./07-09-00-changing-brush-size.md)
 
-[⬅️ 이전: 7.8.2.1. 1차원 이미지 파이프(One diemnsion image pipe)](./07-08-the-gih-dialog-boxx-02-examplex-01-one_dimension_image_pipe.md)
+[⬅️ 이전: 7.8.2.1. 1차원 이미지 파이프(One diemnsion image pipe)](./07-08-02-01-one_dimension_image_pipe.md)
 
-[⬆️ 위: 7.8. GIH 대화상자](./07-08-the-gih-dialog-box.md)
+[⬆️ 위: 7.8. GIH 대화상자](./07-08-00-the-gih-dialog-box.md)
 
 [⬆️ 위: 7. GIMP(김프)로 그리기](./07-00-painting-with-gimp.md)
 

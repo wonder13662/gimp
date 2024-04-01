@@ -10,7 +10,7 @@
 [![90-04-15-view_as_grid(windows)(ko)-focus-brush_description](https://github.com/wonder13662/gimp/assets/15767104/fb4f6097-a9e0-4cc0-aa68-c03d0b462846)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a191-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93-%EC%84%A4%EB%AA%85description)
 
 ## 2. 간격(Spacing)
-단위는 퍼센트(%) 입니다. `간격`은 연속된 붓의 자국의 거리입니다. 어떤 칠하기 도구라도 선택한 붓으로 그릴 때의 간격을 고려해야 합니다. 만약 간격이 좁다면, 자국이 매우 가까워 이어져 보일 수 있습니다. 반대로 간격이 넓다면, 자국은 분리되어 보일 것입니다. [색상 붓](./07-06-brushesx-02-color_brush.md)의 경우에는 유용할 수 있습니다. 값의 입력 범위는 1부터 200까지 입니다. 그리고 이 입력 범위는 붓의 지름(diameter)을 기준으로 삼습니다. 예를 들어 100%는 붓의 지름 1개의 거리입니다.
+단위는 퍼센트(%) 입니다. `간격`은 연속된 붓의 자국의 거리입니다. 어떤 칠하기 도구라도 선택한 붓으로 그릴 때의 간격을 고려해야 합니다. 만약 간격이 좁다면, 자국이 매우 가까워 이어져 보일 수 있습니다. 반대로 간격이 넓다면, 자국은 분리되어 보일 것입니다. [색상 붓](./07-06-02-color_brush.md)의 경우에는 유용할 수 있습니다. 값의 입력 범위는 1부터 200까지 입니다. 그리고 이 입력 범위는 붓의 지름(diameter)을 기준으로 삼습니다. 예를 들어 100%는 붓의 지름 1개의 거리입니다.
 
 ## 3. 셀 크기(Cell size)
 GIMP(김프)에서의 셀은 움직이는 붓(animated brush)에서 사용하는 여러 개의 이미지 중 한 이미지를 가리키는 말입니다. 연속된 이미지를 보는 애니메이션을 멈추었을 때 볼 수 있는 낱개의 이미지 한장과 같은 개념입니다. 셀 크기는 레이어에서 잘라낸 셀의 크기입니다. 기본값은 레이어당 1 셀이며, 크기는 레이어의 크기입니다. 이 경우, 레이어당 한 개의 모양의 붓만 가지게 됩니다.
@@ -84,7 +84,7 @@ GIMP(김프)에서는 최대 4개의 차원까지 가질 수 있습니다. 차�
 #### 영상 7.8.2.2.a118. 새로운 붓으로 칠하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ef3a8c7e-fe12-47ee-9b91-dbe9e6fe3b11"></video>
 
-관련 내용은 [7.8.2.2. 3차원 이미지 호스(A three dimension image hose)](./07-08-the-gih-dialog-boxx-02-examplex-02-three_dimension_image_hose.md)을 확인해주세요.
+관련 내용은 [7.8.2.2. 3차원 이미지 호스(A three dimension image hose)](./07-08-02-02-three_dimension_image_hose.md)을 확인해주세요.
 
 ### 7-2-4. Speed, Pressure, x tilt, y tilt
 이 설정들은 정교한 펜 타블렛을 위한 설정입니다.
@@ -92,11 +92,11 @@ GIMP(김프)에서는 최대 4개의 차원까지 가질 수 있습니다. 차�
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 7.8.2.1. 1차원 이미지 파이프(One diemnsion image pipe)](./07-08-the-gih-dialog-boxx-02-examplex-01-one_dimension_image_pipe.md)
+[➡️ 다음: 7.8.2.1. 1차원 이미지 파이프(One diemnsion image pipe)](./07-08-02-01-one_dimension_image_pipe.md)
 
-[⬅️ 이전: 7.8. GIH 대화상자](./07-08-the-gih-dialog-box.md)
+[⬅️ 이전: 7.8. GIH 대화상자](./07-08-00-the-gih-dialog-box.md)
 
-[⬆️ 위: 7.8. GIH 대화상자](./07-08-the-gih-dialog-box.md)
+[⬆️ 위: 7.8. GIH 대화상자](./07-08-00-the-gih-dialog-box.md)
 
 [⬆️ 위: 7. GIMP(김프)로 그리기](./07-00-painting-with-gimp.md)
 

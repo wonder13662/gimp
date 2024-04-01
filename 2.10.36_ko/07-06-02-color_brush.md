@@ -48,11 +48,11 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 7.6.3. 클립보드 붓(Clipboard Brush)](./07-06-brushesx-03-clipboard_brush.md)
+[➡️ 다음: 7.6.3. 클립보드 붓(Clipboard Brush)](./07-06-03-clipboard_brush.md)
 
-[⬅️ 이전: 7.6.1. 일반 붓(Ordinary brushes)](./07-06-brushesx-01-ordinary_brush.md)
+[⬅️ 이전: 7.6.1. 일반 붓(Ordinary brushes)](./07-06-01-ordinary_brush.md)
 
-[⬆️ 위: 7.6. 붓](./07-06-brushes.md)
+[⬆️ 위: 7.6. 붓](./07-06-00-brushes.md)
 
 [⬆️ 위: 7. GIMP(김프)로 그리기](./07-00-painting-with-gimp.md)
 

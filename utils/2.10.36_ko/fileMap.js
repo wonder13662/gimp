@@ -430,7 +430,7 @@ module.exports = {
         '7.5.7. 경로와 SVG 파일'
       ],
       [
-        '07-06-brushes.md', 
+        '07-06-00-brushes.md', 
         '7.6. Brushes',
         '7.6. 붓'
       ],
@@ -440,7 +440,7 @@ module.exports = {
         '7.7. 새 붓 추가하기'
       ],
       [
-        '07-08-the-gih-dialog-box.md', 
+        '07-08-00-the-gih-dialog-box.md', 
         '7.8. The GIH dialog box',
         '7.8. GIH 대화상자'
       ],

@@ -66,22 +66,22 @@ GIMP(김프)를 처음 설치하면, 기본 붓이 함께 설치되어 있습니
 ## 붓의 종류 알아보기
 GIMP(김프)에서 다양한 종류의 붓을 사용할 수 있습니다. 모든 붓은 같은 방식으로 씁니다. 아래에서 사용가능한 붓의 종류를 확인해보세요.
 
-[7.6.1. 일반 붓(Ordinary brushes)](./07-06-brushesx-01-ordinary_brush.md)
+[7.6.1. 일반 붓(Ordinary brushes)](./07-06-01-ordinary_brush.md)
 
-[7.6.2. 색상 붓(Color brushes)](./07-06-brushesx-02-color_brush.md)
+[7.6.2. 색상 붓(Color brushes)](./07-06-02-color_brush.md)
 
-[7.6.3. 클립보드 붓(Clipboard Brush)](./07-06-brushesx-03-clipboard_brush.md)
+[7.6.3. 클립보드 붓(Clipboard Brush)](./07-06-03-clipboard_brush.md)
 
-[7.6.4. 이미지 호스(image hose)/이미지 파이프(image pipe)](./07-06-brushesx-04-gih_brush.md)
+[7.6.4. 이미지 호스(image hose)/이미지 파이프(image pipe)](./07-06-04-gih_brush.md)
 
-[7.6.5. 파라매트릭 붓(parametric brush)](./07-06-brushesx-05-paramatric_brush.md)
+[7.6.5. 파라매트릭 붓(parametric brush)](./07-06-05-paramatric_brush.md)
 
-[7.6.6. MyPaint 붓](./07-06-brushesx-06-mypaint_brush.md)
+[7.6.6. MyPaint 붓](./07-06-06-mypaint_brush.md)
 
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 7.6.1. 일반 붓(Ordinary brushes)](./07-06-brushesx-01-ordinary_brush.md)
+[➡️ 다음: 7.6.1. 일반 붓(Ordinary brushes)](./07-06-01-ordinary_brush.md)
 
 [⬅️ 이전: 7.5.7. 경로와 SVG 파일](./07-05-07-paths-and-svg-files.md)
 
