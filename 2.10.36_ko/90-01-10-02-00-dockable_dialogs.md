@@ -98,7 +98,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.10.3. 창(Windows) - 탭 위치(Tab position)](./90-01-10-windowsx-03-tab_position.md)
+[➡️ 다음: 90.1.10.2.1. 도구 옵션(Tool Options)](./90-01-10-02-01-tool_options.md)
 
 [⬅️ 이전: 90.1.10.1. 최근 닫은 독(Recently Closed Docks)](./90-01-10-01-recently_closed_docks.md)
 
