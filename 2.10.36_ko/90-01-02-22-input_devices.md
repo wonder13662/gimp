@@ -10,7 +10,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.2.23. 키보드 단축키(Keyboard Shortcuts)](./90-01-02-00-edit.md)
+[➡️ 다음: 90.1.2.23. 키보드 단축키(Keyboard Shortcuts)](./90-01-02-23-keyboard_shortcuts.md)
 
 [⬅️ 이전: 90.1.2.21. 기본 설정(Preferences)](./90-01-02-21-preferences.md)
 
