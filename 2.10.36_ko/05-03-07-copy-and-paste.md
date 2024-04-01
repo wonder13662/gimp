@@ -5,7 +5,7 @@
 #### [그림 90.1.1.2.1.a101. `파일` → `만들기` → `클립보드에서` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-02-createx-01-from_clipboard.html#%EA%B7%B8%EB%A6%BC-901121a101-%ED%8C%8C%EC%9D%BC--%EB%A7%8C%EB%93%A4%EA%B8%B0--%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C%EC%97%90%EC%84%9C-windows)
 [![90-01-01-filex-01-create(windows)(1080)-focus-from_clipboard](https://github.com/wonder13662/gimp/assets/15767104/6778a8af-f31a-452c-8b6b-a6f178c7bfcf)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-02-createx-01-from_clipboard.html#%EA%B7%B8%EB%A6%BC-901121a101-%ED%8C%8C%EC%9D%BC--%EB%A7%8C%EB%93%A4%EA%B8%B0--%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C%EC%97%90%EC%84%9C-windows)
 
-[다른 운영체제와 언어의 `파일` → `만들기` → `클립보드에서` 확인하기](./90-01-01-filex-02-createx-01-from_clipboard.md)
+[다른 운영체제와 언어의 `파일` → `만들기` → `클립보드에서` 확인하기](./90-01-01-02-01-from_clipboard.md)
 
 #### [영상 90.1.1.2.1.a111. 전체화면 캡쳐를 클립보드에 저장해서 `파일` → `만들기` → `클립보드에서`로 새 이미지 만들기  (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-02-createx-01-from_clipboard.html#%EC%98%81%EC%83%81-901121a111-%EC%A0%84%EC%B2%B4%ED%99%94%EB%A9%B4-%EC%BA%A1%EC%B3%90%EB%A5%BC-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%B4%EC%84%9C-%ED%8C%8C%EC%9D%BC--%EB%A7%8C%EB%93%A4%EA%B8%B0--%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C%EC%97%90%EC%84%9C%EB%A1%9C-%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0--windows)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/39d15a61-bd64-4bb8-a980-41207100f4f3"></video>

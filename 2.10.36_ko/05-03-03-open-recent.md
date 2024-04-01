@@ -4,7 +4,7 @@ GIMP(김프)에서 최근에 열었떤 이미지 파일을 열려면 이미지 �
 #### [그림 90.1.1.6.a101. `파일` → `최근 연 파일` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-06-open_recent.html#%EA%B7%B8%EB%A6%BC-90116a101-%ED%8C%8C%EC%9D%BC--%EC%B5%9C%EA%B7%BC-%EC%97%B0-%ED%8C%8C%EC%9D%BC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-01-01-filex-02-open_recent(우리말)(windows)](https://github.com/wonder13662/gimp/assets/15767104/8b3469cd-433a-4fe9-924a-11ca476febb8)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-06-open_recent.html#%EA%B7%B8%EB%A6%BC-90116a101-%ED%8C%8C%EC%9D%BC--%EC%B5%9C%EA%B7%BC-%EC%97%B0-%ED%8C%8C%EC%9D%BC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-[다른 운영체제와 언어의 `파일` → `최근 연 파일` 확인하기](./90-01-01-filex-06-open_recent.md)
+[다른 운영체제와 언어의 `파일` → `최근 연 파일` 확인하기](./90-01-01-06-open_recent.md)
 
 이 목록에서 원하는 이미지 파일을 클릭하면 해당 이미지 파일을 열 수 있습니다. 아래 영상에서 전체 과정을 확인할 수 있습니다.
 

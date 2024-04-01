@@ -25,59 +25,59 @@
 #### 그림 90.1.a101. 이미지 메뉴 바 (Windows) (우리말)
 ![image_menu_bar(windows)(우리말)(mini)](https://github.com/wonder13662/gimp/assets/15767104/030fb542-2a4a-47f8-8ee6-a75a8c3893d6)
 
-[90.1.1. 파일(File)](./90-01-01-file.md)
+[90.1.1. 파일(File)](./90-01-01-00-file.md)
 
-[90.1.1.1. 새 이미지(New...)](./90-01-01-filex-01-new.md)
+[90.1.1.1. 새 이미지(New...)](./90-01-01-01-new.md)
 
-[90.1.1.2. 만들기(Create)](./90-01-01-filex-02-create.md)
+[90.1.1.2. 만들기(Create)](./90-01-01-02-00-create.md)
 
-[90.1.1.2.1. 클립보드에서(From Clipboard)](./90-01-01-filex-02-createx-01-from_clipboard.md)
+[90.1.1.2.1. 클립보드에서(From Clipboard)](./90-01-01-02-01-from_clipboard.md)
 
-[90.1.1.2.2. 웹페이지에서...(From Webpage...)](./90-01-01-filex-02-createx-02-from_webpage.md)
+[90.1.1.2.2. 웹페이지에서...(From Webpage...)](./90-01-01-02-02-from_webpage.md)
 
-[90.1.1.2.3. 스캐너/카메라...(Scanner/Camera...)](./90-01-01-filex-02-createx-03-scanner_n_camera.md)
+[90.1.1.2.3. 스캐너/카메라...(Scanner/Camera...)](./90-01-01-02-03-scanner_n_camera.md)
 
-[90.1.1.2.4. 스크린샷...(Screenshot...)](./90-01-01-filex-02-createx-04-screenshot.md)
+[90.1.1.2.4. 스크린샷...(Screenshot...)](./90-01-01-02-04-screenshot.md)
 
-[90.1.1.3. 열기(Open)](./90-01-01-filex-03-open.md)
+[90.1.1.3. 열기(Open)](./90-01-01-03-open.md)
 
-[90.1.1.4. 레이어로 열기(Open as Layers)](./90-01-01-filex-04-open_as_layers.md)
+[90.1.1.4. 레이어로 열기(Open as Layers)](./90-01-01-04-open_as_layers.md)
 
-[90.1.1.5. 위치 열기(Open Location)](./90-01-01-filex-05-open_location.md)
+[90.1.1.5. 위치 열기(Open Location)](./90-01-01-05-open_location.md)
 
-[90.1.1.6. 최근 연 파일(Open Recent)](./90-01-01-filex-06-open_recent.md)
+[90.1.1.6. 최근 연 파일(Open Recent)](./90-01-01-06-open_recent.md)
 
-[90.1.1.7. 저장(Save)](./90-01-01-filex-07-save.md)
+[90.1.1.7. 저장(Save)](./90-01-01-07-save.md)
 
-[90.1.1.8. 다른 이름으로 저장(Save As)](./90-01-01-filex-08-save_as.md)
+[90.1.1.8. 다른 이름으로 저장(Save As)](./90-01-01-08-save_as.md)
 
-[90.1.1.9. 사본 저장(Save a Copy)](./90-01-01-filex-09-save_a_copy.md)
+[90.1.1.9. 사본 저장(Save a Copy)](./90-01-01-09-save_a_copy.md)
 
-[90.1.1.10. 원래대로(Revert)](./90-01-01-filex-10-revert.md)
+[90.1.1.10. 원래대로(Revert)](./90-01-01-10-revert.md)
 
-[90.1.1.11. 이미지 내보내기(Export)](./90-01-01-filex-11-export.md)
+[90.1.1.11. 이미지 내보내기(Export)](./90-01-01-11-export.md)
 
-[90.1.1.12. 덮어쓰기(Overwrite)](./90-01-01-filex-12-overwrite.md)
+[90.1.1.12. 덮어쓰기(Overwrite)](./90-01-01-12-overwrite.md)
 
-[90.1.1.13. 다른 이름으로 이미지 내보내기(Export as)](./90-01-01-filex-13-export_as.md)
+[90.1.1.13. 다른 이름으로 이미지 내보내기(Export as)](./90-01-01-13-export_as.md)
 
-[90.1.1.14. 템플릿 만들기(Create Template)](./90-01-01-filex-14-create_template.md)
+[90.1.1.14. 템플릿 만들기(Create Template)](./90-01-01-14-create_template.md)
 
-[90.1.1.15. 페이지 설정하기(Page Setup)](./90-01-01-filex-15-page_setup.md)
+[90.1.1.15. 페이지 설정하기(Page Setup)](./90-01-01-15-page_setup.md)
 
-[90.1.1.16. 인쇄(Print)](./90-01-01-filex-16-print.md)
+[90.1.1.16. 인쇄(Print)](./90-01-01-16-print.md)
 
-[90.1.1.17. 이메일로 보내기(Send By Email)](./90-01-01-filex-17-send_by_email.md)
+[90.1.1.17. 이메일로 보내기(Send By Email)](./90-01-01-17-send_by_email.md)
 
-[90.1.1.18. 이미지 위치 복사하기(Copy Image Location)](./90-01-01-filex-18-copy_image_location.md)
+[90.1.1.18. 이미지 위치 복사하기(Copy Image Location)](./90-01-01-18-copy_image_location.md)
 
-[90.1.1.19. 파일 관리자에 표시(Show in File Manager)](./90-01-01-filex-19-show_in_file_manager.md)
+[90.1.1.19. 파일 관리자에 표시(Show in File Manager)](./90-01-01-19-show_in_file_manager.md)
 
-[90.1.1.20. 이미지 닫기(Close View)](./90-01-01-filex-20-close_view.md)
+[90.1.1.20. 이미지 닫기(Close View)](./90-01-01-20-close_view.md)
 
-[90.1.1.21. 모든 이미지 창 닫기(Close All)](./90-01-01-filex-21-close_all.md)
+[90.1.1.21. 모든 이미지 창 닫기(Close All)](./90-01-01-21-close_all.md)
 
-[90.1.1.22. 끝내기(Quit)](./90-01-01-filex-22-quit.md)
+[90.1.1.22. 끝내기(Quit)](./90-01-01-22-quit.md)
 
 [90.1.2. 편집(Edit)](./90-01-02-edit.md)
 

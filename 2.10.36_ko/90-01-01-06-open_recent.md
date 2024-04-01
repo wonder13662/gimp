@@ -24,11 +24,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.1.7. 저장(Save)](./90-01-01-filex-07-save.md)
+[➡️ 다음: 90.1.1.7. 저장(Save)](./90-01-01-07-save.md)
 
-[⬅️ 이전: 90.1.1.5. 위치 열기(Open Location)](./90-01-01-filex-05-open_location.md)
+[⬅️ 이전: 90.1.1.5. 위치 열기(Open Location)](./90-01-01-05-open_location.md)
 
-[⬆️ 위: 90.1.1. 파일(File)](./90-01-01-file.md)
+[⬆️ 위: 90.1.1. 파일(File)](./90-01-01-00-file.md)
 
 [⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
