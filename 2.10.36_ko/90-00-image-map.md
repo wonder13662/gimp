@@ -179,77 +179,77 @@
 
 [90.1.3.18. 경로로(To Path)](./90-01-03-18-to_path.md)
 
-[90.1.4. 보기(View)](./90-01-04-view.md)
+[90.1.4. 보기(View)](./90-01-04-00-view.md)
 
-[90.1.4.1. 새 창으로 보기(New View)](./90-01-04-viewx-01-new_view.md)
+[90.1.4.1. 새 창으로 보기(New View)](./90-01-04-01-new_view.md)
 
-[90.1.4.2. Show All(Show All)](./90-01-04-viewx-02-show_all.md)
+[90.1.4.2. Show All(Show All)](./90-01-04-02-show_all.md)
 
-[90.1.4.3. 점대점(Dot for Dot)](./90-01-04-viewx-03-dot_for_dot.md)
+[90.1.4.3. 점대점(Dot for Dot)](./90-01-04-03-dot_for_dot.md)
 
-[90.1.4.4. 확대 (100%)(Zoom (100%))](./90-01-04-viewx-04-zoom.md)
+[90.1.4.4. 확대 (100%)(Zoom (100%))](./90-01-04-04-zoom.md)
 
-[90.1.4.5. 뒤집기와 회전 (0°)(Flip & Rotate (0°))](./90-01-04-viewx-05-flip_n_rotate.md)
+[90.1.4.5. 뒤집기와 회전 (0°)(Flip & Rotate (0°))](./90-01-04-05-flip_n_rotate.md)
 
-[90.1.4.6. 이미지를 창의 가운데로 옮김(Center Image in Window)](./90-01-04-viewx-06-center_image_in_window.md)
+[90.1.4.6. 이미지를 창의 가운데로 옮김(Center Image in Window)](./90-01-04-06-center_image_in_window.md)
 
-[90.1.4.7. 창 크기를 이미지에 맞춤(Shrink Wrap)](./90-01-04-viewx-07-shrink_wrap.md)
+[90.1.4.7. 창 크기를 이미지에 맞춤(Shrink Wrap)](./90-01-04-07-shrink_wrap.md)
 
-[90.1.4.8. 전체화면(Fullscreen)](./90-01-04-viewx-08-fullscreen.md)
+[90.1.4.8. 전체화면(Fullscreen)](./90-01-04-08-fullscreen.md)
 
-[90.1.4.9. 내비게이션 창(Navigation Window)](./90-01-04-viewx-09-navigation_window.md)
+[90.1.4.9. 내비게이션 창(Navigation Window)](./90-01-04-09-navigation_window.md)
 
-[90.1.4.10. 필터 보이기(Display Filters)](./90-01-04-viewx-10-display_filters.md)
+[90.1.4.10. 필터 보이기(Display Filters)](./90-01-04-10-display_filters.md)
 
-[90.1.4.11. 색상 관리(Color Management)](./90-01-04-viewx-11-color_management.md)
+[90.1.4.11. 색상 관리(Color Management)](./90-01-04-11-00-color_management.md)
 
-[90.1.4.11.1. Color-Manage this View(Color-Manage this View)](./90-01-04-viewx-11-color_managementx-01-color_manage_this_view.md)
+[90.1.4.11.1. Color-Manage this View(Color-Manage this View)](./90-01-04-11-01-color_manage_this_view.md)
 
-[90.1.4.11.2. Proof Colors(Proof Colors)](./90-01-04-viewx-11-color_managementx-02-proof_colors.md)
+[90.1.4.11.2. Proof Colors(Proof Colors)](./90-01-04-11-02-proof_colors.md)
 
-[90.1.4.11.3. Display Rendering Intent(Display Rendering Intent)](./90-01-04-viewx-11-color_managementx-03-display_rendering_intent.md)
+[90.1.4.11.3. Display Rendering Intent(Display Rendering Intent)](./90-01-04-11-03-display_rendering_intent.md)
 
-[90.1.4.11.4. 흑점 보상(Black Point Compensation)](./90-01-04-viewx-11-color_managementx-04-black_point_compensation.md)
+[90.1.4.11.4. 흑점 보상(Black Point Compensation)](./90-01-04-11-04-black_point_compensation.md)
 
-[90.1.4.11.5. 색상 교정 프로파일(Soft-Proofing Profile)](./90-01-04-viewx-11-color_managementx-05-soft_proofing_profile.md)
+[90.1.4.11.5. 색상 교정 프로파일(Soft-Proofing Profile)](./90-01-04-11-05-soft_proofing_profile.md)
 
-[90.1.4.11.6. 색상 교정 렌더링 목적(Soft-Proofing Rendering Intent)](./90-01-04-viewx-11-color_managementx-06-soft_proofing_rendering_intent.md)
+[90.1.4.11.6. 색상 교정 렌더링 목적(Soft-Proofing Rendering Intent)](./90-01-04-11-06-soft_proofing_rendering_intent.md)
 
-[90.1.4.11.7. 흑점 보상(Black Point Compensation)](./90-01-04-viewx-11-color_managementx-07-black_point_compensation.md)
+[90.1.4.11.7. 흑점 보상(Black Point Compensation)](./90-01-04-11-07-black_point_compensation.md)
 
-[90.1.4.11.8. Mark Out Of Gamut Colors(Mark Out Of Gamut Colors)](./90-01-04-viewx-11-color_managementx-08-mark_out_of_gamut_colors.md)
+[90.1.4.11.8. Mark Out Of Gamut Colors(Mark Out Of Gamut Colors)](./90-01-04-11-08-mark_out_of_gamut_colors.md)
 
-[90.1.4.11.9. 기본 설정 값으로 되돌리기(As in Preferences)](./90-01-04-viewx-11-color_managementx-09-as_in_preferences.md)
+[90.1.4.11.9. 기본 설정 값으로 되돌리기(As in Preferences)](./90-01-04-11-09-as_in_preferences.md)
 
-[90.1.4.12. 선택 영역 보이기(Show Selection)](./90-01-04-viewx-12-show_selection.md)
+[90.1.4.12. 선택 영역 보이기(Show Selection)](./90-01-04-12-show_selection.md)
 
-[90.1.4.13. 레이어 경계 보이기(Show Layer Boundary)](./90-01-04-viewx-13-show_layer_boundary.md)
+[90.1.4.13. 레이어 경계 보이기(Show Layer Boundary)](./90-01-04-13-show_layer_boundary.md)
 
-[90.1.4.14. 캔버스 경계 보이기(Show Canvas Boundary)](./90-01-04-viewx-14-show_canvas_boundary.md)
+[90.1.4.14. 캔버스 경계 보이기(Show Canvas Boundary)](./90-01-04-14-show_canvas_boundary.md)
 
-[90.1.4.15. 안내선 보이기(Show Guides)](./90-01-04-viewx-15-show_guides.md)
+[90.1.4.15. 안내선 보이기(Show Guides)](./90-01-04-15-show_guides.md)
 
-[90.1.4.16. 격자 보이기(Show Grid)](./90-01-04-viewx-16-show_grid.md)
+[90.1.4.16. 격자 보이기(Show Grid)](./90-01-04-16-show_grid.md)
 
-[90.1.4.17. 표본점 보이기(Show Sample Points)](./90-01-04-viewx-17-show_sample_points.md)
+[90.1.4.17. 표본점 보이기(Show Sample Points)](./90-01-04-17-show_sample_points.md)
 
-[90.1.4.18. 안내선에 맞추기(Snap to Guides)](./90-01-04-viewx-18-snap_to_guides.md)
+[90.1.4.18. 안내선에 맞추기(Snap to Guides)](./90-01-04-18-snap_to_guides.md)
 
-[90.1.4.19. 격자에 맞추기(Snap to Grid)](./90-01-04-viewx-19-snap_to_grid.md)
+[90.1.4.19. 격자에 맞추기(Snap to Grid)](./90-01-04-19-snap_to_grid.md)
 
-[90.1.4.20. 캔버스 경계에 맞추기(Snap to Canvas Edges)](./90-01-04-viewx-20-snap_to_canvas_edges.md)
+[90.1.4.20. 캔버스 경계에 맞추기(Snap to Canvas Edges)](./90-01-04-20-snap_to_canvas_edges.md)
 
-[90.1.4.21. 활성 경로에 맞추기(Snap to Active Path)](./90-01-04-viewx-21-snap_to_active_path.md)
+[90.1.4.21. 활성 경로에 맞추기(Snap to Active Path)](./90-01-04-21-snap_to_active_path.md)
 
-[90.1.4.22. 색 채우기(Padding Color)](./90-01-04-viewx-22-padding_color.md)
+[90.1.4.22. 색 채우기(Padding Color)](./90-01-04-22-padding_color.md)
 
-[90.1.4.23. 메뉴 표시줄 보이기(Show Menubar)](./90-01-04-viewx-23-show_menubar.md)
+[90.1.4.23. 메뉴 표시줄 보이기(Show Menubar)](./90-01-04-23-show_menubar.md)
 
-[90.1.4.24. 눈금자 보이기(Show Rulers)](./90-01-04-viewx-24-show_rulers.md)
+[90.1.4.24. 눈금자 보이기(Show Rulers)](./90-01-04-24-show_rulers.md)
 
-[90.1.4.25. 스크롤 막대 표시(Show Scrollbars)](./90-01-04-viewx-25-show_scrollbars.md)
+[90.1.4.25. 스크롤 막대 표시(Show Scrollbars)](./90-01-04-25-show_scrollbars.md)
 
-[90.1.4.26. 상태표시줄 보이기(Show Statusbar)](./90-01-04-viewx-26-show_statusbar.md)
+[90.1.4.26. 상태표시줄 보이기(Show Statusbar)](./90-01-04-26-show_statusbar.md)
 
 [90.1.5. 이미지(Image)](./90-01-05-image.md)
 
