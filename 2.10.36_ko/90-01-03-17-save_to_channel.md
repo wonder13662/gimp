@@ -19,11 +19,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.3.18. 경로로(To Path)](./90-01-03-selectx-18-to_path.md)
+[➡️ 다음: 90.1.3.18. 경로로(To Path)](./90-01-03-18-to_path.md)
 
-[⬅️ 이전: 90.1.3.16. 퀵 마스크 전환(Toggle Quick Mask)](./90-01-03-selectx-16-toggle_quick_mask.md)
+[⬅️ 이전: 90.1.3.16. 퀵 마스크 전환(Toggle Quick Mask)](./90-01-03-16-toggle_quick_mask.md)
 
-[⬆️ 위: 90.1.3. 선택(Select)](./90-01-03-select.md)
+[⬆️ 위: 90.1.3. 선택(Select)](./90-01-03-00-select.md)
 
 [⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
