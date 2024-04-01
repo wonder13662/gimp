@@ -11,7 +11,7 @@ GIMP(김프)는 그리기에 적합한 도구는 아닙니다. 그러나, 선택
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/028b4f82-b28c-4c2d-96b3-76ab15e9c09a"></video>
 
 ## 2. 전경색과 배경색 확인
-그 다음, 도구 상자의 [전경색과 배경색](./14-01-03-color-and-indicator-areax-01-color_area.md)이 다른 것을 확인합니다.
+그 다음, 도구 상자의 [전경색과 배경색](./14-01-03-01-color_area.md)이 다른 것을 확인합니다.
 
 #### [그림 90.3.4.a4. 도구상자의 '붓/무늬/그라디언트' - `색상(전경색/배경색)`](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a4-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%EC%83%89%EC%83%81%EC%A0%84%EA%B2%BD%EC%83%89%EB%B0%B0%EA%B2%BD%EC%83%89)
 [![90-03-04-brush_pattern_gradient(windows)(ko)-focus-colors](https://github.com/wonder13662/gimp/assets/15767104/5c0772d5-07d5-404f-bb30-836be3943703)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a4-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%EC%83%89%EC%83%81%EC%A0%84%EA%B2%BD%EC%83%89%EB%B0%B0%EA%B2%BD%EC%83%89)

@@ -3,7 +3,7 @@
 GIMP(김프)는 두 가지 유형의 팔레트를 씁니다.
 
 ### 1-1. 팔레트 대화상자의 팔레트
-첫번째 유형은 [팔레트 대화상자](./15-03-06-palettes-dialog.md)의 팔레트입니다. 이 팔레트는 이미지와는 별개로 독립적입니다.
+첫번째 유형은 [팔레트 대화상자](./15-03-06-00-palettes-dialog.md)의 팔레트입니다. 이 팔레트는 이미지와는 별개로 독립적입니다.
 
 #### [그림 90.4.20.a1. 팔레트 대화상자](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-20-palette.html#%EA%B7%B8%EB%A6%BC-90420a1-%ED%8C%94%EB%A0%88%ED%8A%B8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
 [![그림 90.4.20.a1. 팔레트 대화상자](https://github.com/wonder13662/gimp/assets/15767104/1f14c961-9eaa-4209-8d9f-1cd3ee9c393e)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-20-palette.html#%EA%B7%B8%EB%A6%BC-90420a1-%ED%8C%94%EB%A0%88%ED%8A%B8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
@@ -15,13 +15,13 @@ GIMP(김프)는 두 가지 유형의 팔레트를 씁니다.
 [![그림 90.4.6.a1. 색상표 대화상자](https://github.com/wonder13662/gimp/assets/15767104/e6fff5e0-f875-48d7-9d55-71a8c40ab677)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-06-colormap.html#%EA%B7%B8%EB%A6%BC-9046a1-%EC%83%89%EC%83%81%ED%91%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
 
 ## 2. 색상표(Colormap)
-인덱스 이미지의 색상표(Colormap)은 [색상표 대화상자](./15-02-04-colormap-dialog.md)에서 확인할 수 있습니다. [팔레트 대화상자](./15-03-06-palettes-dialog.md)와 혼동할 수 있으니 주의하세요. 팔레트 대화상자는 사용가능한 팔레트 목록을 보여줍니다. 색상표 대화상자는 인덱스 이미지인 경우에만, 지금 작업중인 활성화된 이미지의 색상표를 보여줍니다. 인덱스 이미지가 아니면 아무것도 보여주지 않습니다.
+인덱스 이미지의 색상표(Colormap)은 [색상표 대화상자](./15-02-04-colormap-dialog.md)에서 확인할 수 있습니다. [팔레트 대화상자](./15-03-06-00-palettes-dialog.md)와 혼동할 수 있으니 주의하세요. 팔레트 대화상자는 사용가능한 팔레트 목록을 보여줍니다. 색상표 대화상자는 인덱스 이미지인 경우에만, 지금 작업중인 활성화된 이미지의 색상표를 보여줍니다. 인덱스 이미지가 아니면 아무것도 보여주지 않습니다.
 
 #### [그림 90.4.6.a2. 색상표 대화상자 - 인덱스 이미지가 아닌 경우](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-06-colormap.html#%EA%B7%B8%EB%A6%BC-9046a2-%EC%83%89%EC%83%81%ED%91%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B0%80-%EC%95%84%EB%8B%8C-%EA%B2%BD%EC%9A%B0)
 [![90-04-06-colormap-not_indexed_image(w1080)](https://github.com/wonder13662/gimp/assets/15767104/01d022d2-7073-4ce2-a275-2e0f3f3c9c5b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-06-colormap.html#%EA%B7%B8%EB%A6%BC-9046a2-%EC%83%89%EC%83%81%ED%91%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B0%80-%EC%95%84%EB%8B%8C-%EA%B2%BD%EC%9A%B0)
 
 ## 3. 인덱스 모드 이미지에서 팔레트 만들기
-인덱스 이미지의 색상으로부터 일반 팔레트를 만들 수 있습니다. [팔레트 대화상자](./15-03-06-palettes-dialog.md)에서 오른쪽 클릭해서 팝업 메뉴를 엽니다. 팝업 메뉴에서 `팔레트 가져오기...` 메뉴를 클릭합니다. 
+인덱스 이미지의 색상으로부터 일반 팔레트를 만들 수 있습니다. [팔레트 대화상자](./15-03-06-00-palettes-dialog.md)에서 오른쪽 클릭해서 팝업 메뉴를 엽니다. 팝업 메뉴에서 `팔레트 가져오기...` 메뉴를 클릭합니다. 
 
 #### [그림 90.4.20.a3. 팔레트 대화상자 → 오른쪽 클릭 팝업 메뉴 → `팔레트 가져오기...`](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-20-palette.html#%EA%B7%B8%EB%A6%BC-90420a3-%ED%8C%94%EB%A0%88%ED%8A%B8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD-%ED%8C%9D%EC%97%85-%EB%A9%94%EB%89%B4--%ED%8C%94%EB%A0%88%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 [![90-04-20-palette-popup_menu-focus-import_palette](https://github.com/wonder13662/gimp/assets/15767104/e2af3336-3ac1-40a7-8980-fdbdb558936d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-20-palette.html#%EA%B7%B8%EB%A6%BC-90420a3-%ED%8C%94%EB%A0%88%ED%8A%B8-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD-%ED%8C%9D%EC%97%85-%EB%A9%94%EB%89%B4--%ED%8C%94%EB%A0%88%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)

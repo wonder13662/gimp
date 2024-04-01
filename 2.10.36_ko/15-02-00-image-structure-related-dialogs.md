@@ -1,7 +1,7 @@
 # 15.2. Image structure related dialogs
 
-## [15.2.1. Layers dialog](./15-02-01-layers-dialog.md)
-## [15.2.2. Channel dialog](./15-02-02-channel-dialog.md)
+## [15.2.1. Layers dialog](./15-02-01-00-layers-dialog.md)
+## [15.2.2. Channel dialog](./15-02-02-00-channel-dialog.md)
 ## [15.2.3. Paths dialog](./15-02-03-paths-dialog.md)
 ## [15.2.4. Colormap dialog](./15-02-04-colormap-dialog.md)
 ## [15.2.5. Histogram dialog](./15-02-05-histogram-dialog.md)

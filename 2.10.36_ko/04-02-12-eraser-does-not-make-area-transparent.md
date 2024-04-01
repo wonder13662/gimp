@@ -9,7 +9,7 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7fb6a549-876d-4ef0-8508-214c418da6bd"></video>
 
 ## 4.2.12.2. 해결방법
-[레이어 대화상자](./15-02-01-layers-dialog.md)에서 활성화된 레이어를 확인하세요. 우클릭을 해서 메뉴를 열고, `알파 채널 추가(Add Alpha Channel)`이 활성화되어 있는지 확안하세요. 메뉴의 `알파 채널 추가(Add Alpha Channel)`이 활성화 되어 있다면, 지금은 알파 채널이 없다는 의미입니다. 메뉴의 `알파 채널 추가(Add Alpha Channel)`를 클릭해서 알파 채널을 추가합니다. 추가한 뒤에 지우개로 지우면 지운 부분이 투명하게 된 것을 확인할 수 있습니다.
+[레이어 대화상자](./15-02-01-00-layers-dialog.md)에서 활성화된 레이어를 확인하세요. 우클릭을 해서 메뉴를 열고, `알파 채널 추가(Add Alpha Channel)`이 활성화되어 있는지 확안하세요. 메뉴의 `알파 채널 추가(Add Alpha Channel)`이 활성화 되어 있다면, 지금은 알파 채널이 없다는 의미입니다. 메뉴의 `알파 채널 추가(Add Alpha Channel)`를 클릭해서 알파 채널을 추가합니다. 추가한 뒤에 지우개로 지우면 지운 부분이 투명하게 된 것을 확인할 수 있습니다.
 
 <a id="90-04-01-28-a102"></a>
 

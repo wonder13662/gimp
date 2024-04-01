@@ -839,11 +839,11 @@ module.exports = {
         '14.1.2. 도구 아이콘(Tool icons)'
       ],
       [
-        '14-01-03-color-and-indicator-area.md', 
+        '14-01-03-00-color-and-indicator-area.md', 
         '14.1.3. Color and indicator area'
       ],
       [
-        '14-01-04-tool-options.md',
+        '14-01-04-00-tool-options.md',
         '14.1.4. Tool options',
         '14.1.4. 도구 옵션',
       ],
@@ -891,11 +891,11 @@ module.exports = {
         '14.3. Paint tools'
       ],
       [
-        '14-03-01-common-features.md', 
+        '14-03-01-00-common-features.md', 
         '14.3.1. Common features'
       ],
       [
-        '14-03-02-dynamics.md', 
+        '14-03-02-00-dynamics.md', 
         '14.3.2. Dynamics'
       ],
       [
@@ -1061,7 +1061,7 @@ module.exports = {
         '14.5.5. Measure'
       ],
       [
-        '14-05-06-text.md', 
+        '14-05-06-00-text.md', 
         '14.5.6. Text'
       ],
       [
@@ -1081,12 +1081,12 @@ module.exports = {
         '15.2. Image structure related dialogs'
       ],
       [
-        '15-02-01-layers-dialog.md',
+        '15-02-01-00-layers-dialog.md',
         '15.2.1. Layers dialog',
         '15.2.1. 레이어 대화상자'
       ],
       [
-        '15-02-02-channel-dialog.md',
+        '15-02-02-00-channel-dialog.md',
         '15.2.2. Channel dialog',
         '15.2.2. 채널 대화상자'
       ],
@@ -1141,7 +1141,7 @@ module.exports = {
         '15.3.5. Gradient dialog'
       ],
       [
-        '15-03-06-palettes-dialog.md', 
+        '15-03-06-00-palettes-dialog.md', 
         '15.3.6. Palettes dialog'
       ],
       [

@@ -66,7 +66,7 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 <video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/b483961a-5697-4257-8424-1f235d7ec9ba"></video>
 
 ## 추가 정보: 선택영역 마스크
-채널 대화상자의 [선택 마스크](./15-02-02-channel-dialogx-03-selection_masks.md)에서 좀 더 많은 내용을 확인할 수 있습니다.
+채널 대화상자의 [선택 마스크](./15-02-02-03-00-selection_masks.md)에서 좀 더 많은 내용을 확인할 수 있습니다.
 (TODO 채널 대화상자의 내용 추가후, 봐야할 내용이 무엇인지 업데이트해야 한다.)
 
 ***

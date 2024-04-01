@@ -1,7 +1,7 @@
 # 14.3. Paint tools
 
-## [14.3.1. Common features](./14-03-01-common-features.md)
-## [14.3.2. Dynamics](./14-03-02-dynamics.md)
+## [14.3.1. Common features](./14-03-01-00-common-features.md)
+## [14.3.2. Dynamics](./14-03-02-00-dynamics.md)
 ## [14.3.3. Brush tools (pencil, paintbrush, airbrush)](./14-03-03-brush-tools-pencil-paintbrush-airbrush.md)
 ## [14.3.4. Bucket fill](./14-03-04-bucket-fill.md)
 ## [14.3.5. Gradient](./14-03-05-gradient.md)

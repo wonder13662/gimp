@@ -1,7 +1,7 @@
 # 7.13. 프리셋(Presets)
 도구를 특정한 설정으로 자주 쓴다면, 프리셋(Presets)을 이용해보세요. 프리셋은 도구에 대한 설정을 저장해서 필요할 때 불러와서 사용할 수 있습니다. 필요하다면 각 프리셋에 이름을 지어서 찾기 쉽게 할 수 있습니다.
 
-도구 옵션 대화상자의 아래쪽의 4개 버튼으로 프리셋을 [저장하기](./14-01-04-tool-optionsx-01-save_tool_preset.md), [불러오기](./14-01-04-tool-optionsx-02-restore_tool_preset.md), [삭제하기](./14-01-04-tool-optionsx-03-delete_tool_preset.md), [초기화하기](./14-01-04-tool-optionsx-04-reset_to_default_values.md) 할 수 있습니다.
+도구 옵션 대화상자의 아래쪽의 4개 버튼으로 프리셋을 [저장하기](./14-01-04-01-save_tool_preset.md), [불러오기](./14-01-04-02-restore_tool_preset.md), [삭제하기](./14-01-04-03-delete_tool_preset.md), [초기화하기](./14-01-04-04-reset_to_default_values.md) 할 수 있습니다.
 
 <a id="90-04-01-03-a141"></a>
 
