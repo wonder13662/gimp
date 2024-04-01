@@ -6,11 +6,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.6.3. 새 레이어 그룹(New Layer Group)](./90-01-06-layerx-03-new_layer_group.md)
+[➡️ 다음: 90.1.6.3. 새 레이어 그룹(New Layer Group)](./90-01-06-03-new_layer_group.md)
 
-[⬅️ 이전: 90.1.6.1. 새 레이어(New Layer)](./90-01-06-layerx-01-new_layer.md)
+[⬅️ 이전: 90.1.6.1. 새 레이어(New Layer)](./90-01-06-01-new_layer.md)
 
-[⬆️ 위: 90.1.6. 레이어(Layer)](./90-01-06-layer.md)
+[⬆️ 위: 90.1.6. 레이어(Layer)](./90-01-06-00-layer.md)
 
 [⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 

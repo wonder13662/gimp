@@ -18,7 +18,7 @@
 #### [그림 90.1.6.9.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-09-transparencyx-01-add_alpha_channel.html#%EA%B7%B8%EB%A6%BC-901631a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%88%AC%EB%AA%85--%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EA%B0%80-windows)
 [![그림 90.1.6.9.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3fb3ad7c-4a41-492e-9797-bed56dc9d936)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-09-transparencyx-01-add_alpha_channel.html#%EA%B7%B8%EB%A6%BC-901631a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%88%AC%EB%AA%85--%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EA%B0%80-windows)
 
-[다른 운영체제와 언어의 `레이어` → `투명` → `알파 채널 추가` 확인하기](./90-01-06-layerx-09-transparencyx-01-add_alpha_channel.md)
+[다른 운영체제와 언어의 `레이어` → `투명` → `알파 채널 추가` 확인하기](./90-01-06-09-01-add_alpha_channel.md)
 
 `XCF` 파일의 배경 레이어는 지울 수 있습니다. 지운 이후에는 투명한 배경을 볼 수 있습니다.
 

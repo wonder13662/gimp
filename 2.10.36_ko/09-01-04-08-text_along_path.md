@@ -21,12 +21,12 @@
 
 <a id="90-01-06-17-a1"></a>
 
-#### [그림 90.1.6.17.a1. `레이어` → `경로따라 텍스트` (텍스트 레이어가 활성화된 경우)](./90-01-06-layerx-17-text_along_path.md#90-01-06-17-a1)
+#### [그림 90.1.6.17.a1. `레이어` → `경로따라 텍스트` (텍스트 레이어가 활성화된 경우)](./90-01-06-17-text_along_path.md#90-01-06-17-a1)
 ![90-01-06-layer-activated_text_layer(1080w)-focus-text_along_path](https://github.com/wonder13662/gimp/assets/15767104/b1984799-39f9-442e-9be0-8dadbe878a7e)
 
 <a id="90-01-06-17-a2"></a>
 
-#### [영상 90.1.6.17.a2. `레이어` → `경로따라 텍스트` (텍스트 레이어가 활성화된 경우)](./90-01-06-layerx-17-text_along_path.md#90-01-06-17-a2)
+#### [영상 90.1.6.17.a2. `레이어` → `경로따라 텍스트` (텍스트 레이어가 활성화된 경우)](./90-01-06-17-text_along_path.md#90-01-06-17-a2)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d0a59058-784d-4cf9-abd7-b2284e699b7b"></video>
 
 ## 3. 레이어 대화상자 안의 텍스트 레이어 컨텍스트 메뉴의 `경로따라 텍스트(Text along Path)`

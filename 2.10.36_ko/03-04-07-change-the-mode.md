@@ -25,7 +25,7 @@
 #### [그림 90.1.6.9.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-09-transparencyx-01-add_alpha_channel.html#%EA%B7%B8%EB%A6%BC-901691a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%88%AC%EB%AA%85--%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EA%B0%80-windows)
 [![그림 90.1.6.9.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3fb3ad7c-4a41-492e-9797-bed56dc9d936)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-09-transparencyx-01-add_alpha_channel.html#%EA%B7%B8%EB%A6%BC-901691a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%88%AC%EB%AA%85--%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EA%B0%80-windows)
 
-[다른 운영체제와 언어의 `레이어` → `투명` → `알파 채널 추가` 대화상자 확인하기](./90-01-06-layerx-09-transparencyx-01-add_alpha_channel.md)
+[다른 운영체제와 언어의 `레이어` → `투명` → `알파 채널 추가` 대화상자 확인하기](./90-01-06-09-01-add_alpha_channel.md)
 
 GIMP는 똑똑한 내보내기 기능을 지원하기 때문에, 원하는 파일 형식으로 저장하기 전에 특정한 모드로 변환하지 않아도 알아서 변환이 됩니다.(TODO gif 이미지 변환시에 이런 사례가 보일 것 같음. 확인해보고 추가하자.)
 

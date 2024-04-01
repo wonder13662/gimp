@@ -8,11 +8,11 @@
 
 [➡️ 다음: 90.1.6.9.7. 선택에 추가(Add to Selection)](./90-01-06-layerx-09-transparencyx-07-add_to_selection.md)
 
-[⬅️ 이전: 90.1.6.9.5. 임계 알파(Threshold Alpha)](./90-01-06-layerx-09-transparencyx-05-threshold_alpha.md)
+[⬅️ 이전: 90.1.6.9.5. 임계 알파(Threshold Alpha)](./90-01-06-09-05-threshold_alpha.md)
 
-[⬆️ 위: 90.1.6.9. 투명도(Transparency)](./90-01-06-layerx-09-transparency.md)
+[⬆️ 위: 90.1.6.9. 투명도(Transparency)](./90-01-06-09-00-transparency.md)
 
-[⬆️ 위: 90.1.6. 레이어(Layer)](./90-01-06-layer.md)
+[⬆️ 위: 90.1.6. 레이어(Layer)](./90-01-06-00-layer.md)
 
 [⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
