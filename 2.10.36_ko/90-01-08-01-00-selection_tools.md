@@ -28,7 +28,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.8.2. 칠하기 도구(Paint Tools)](./90-01-08-02-00-paint_tools.md)
+[➡️ 다음: 90.1.8.1.1. 사각 선택(Rectangle Select)](./90-01-08-01-01-rectangle_select.md)
 
 [⬅️ 이전: 90.1.8. 도구(Tools)](./90-01-08-00-tools.md)
 
