@@ -366,100 +366,100 @@
 
 [90.1.6.17. 경로따라 텍스트(Text to Path)](./90-01-06-17-text_along_path.md)
 
-## [90.1.7. 색(Colors)](./90-01-07-colors.md)
-[<img width="1080" alt="90.1.7. 색(Colors)" src="https://github.com/wonder13662/gimp/assets/15767104/42cde5a6-9f41-4765-8cb6-21b7acb1631c">](./90-01-07-colors.md)
+## [90.1.7. 색(Colors)](./90-01-07-00-colors.md)
+[<img width="1080" alt="90.1.7. 색(Colors)" src="https://github.com/wonder13662/gimp/assets/15767104/42cde5a6-9f41-4765-8cb6-21b7acb1631c">](./90-01-07-00-colors.md)
 
-[90.1.7.1. 색상 균형(Color Balance)](./90-01-07-colorsx-01-color_balance.md)
+[90.1.7.1. 색상 균형(Color Balance)](./90-01-07-01-color_balance.md)
 
-[90.1.7.2. 색 온도(Color Temperature)](./90-01-07-colorsx-02-color_temperature.md)
+[90.1.7.2. 색 온도(Color Temperature)](./90-01-07-02-color_temperature.md)
 
-[90.1.7.3. 색상-채도(Chroma)(Hue-Chroma)](./90-01-07-colorsx-03-hue_chroma.md)
+[90.1.7.3. 색상-채도(Chroma)(Hue-Chroma)](./90-01-07-03-hue_chroma.md)
 
-[90.1.7.4. 색상-채도(Saturation)(Hue-Saturation)](./90-01-07-colorsx-04-hue_saturation.md)
+[90.1.7.4. 색상-채도(Saturation)(Hue-Saturation)](./90-01-07-04-hue_saturation.md)
 
-[90.1.7.5. 채도(Saturation)](./90-01-07-colorsx-05-saturation.md)
+[90.1.7.5. 채도(Saturation)](./90-01-07-05-saturation.md)
 
-[90.1.7.6. 노출(Exposure)](./90-01-07-colorsx-06-exposure.md)
+[90.1.7.6. 노출(Exposure)](./90-01-07-06-exposure.md)
 
-[90.1.7.7. 그림자-강조(Shadows-Highlights)](./90-01-07-colorsx-07-shadows_highlights.md)
+[90.1.7.7. 그림자-강조(Shadows-Highlights)](./90-01-07-07-shadows_highlights.md)
 
-[90.1.7.8. 명도-대비(Brightness-Contrast)](./90-01-07-colorsx-08-brightness_contrast.md)
+[90.1.7.8. 명도-대비(Brightness-Contrast)](./90-01-07-08-brightness_contrast.md)
 
-[90.1.7.9. 레벨(Levels)](./90-01-07-colorsx-09-levels.md)
+[90.1.7.9. 레벨(Levels)](./90-01-07-09-levels.md)
 
-[90.1.7.10. 커브(Curves)](./90-01-07-colorsx-10-curves.md)
+[90.1.7.10. 커브(Curves)](./90-01-07-10-curves.md)
 
-[90.1.7.11. 반전(Invert)](./90-01-07-colorsx-11-invert.md)
+[90.1.7.11. 반전(Invert)](./90-01-07-11-invert.md)
 
-[90.1.7.12. 선형 반전(Linear Invert)](./90-01-07-colorsx-12-linear_invert.md)
+[90.1.7.12. 선형 반전(Linear Invert)](./90-01-07-12-linear_invert.md)
 
-[90.1.7.13. 명도 반전(Value Invert)](./90-01-07-colorsx-13-value_invert.md)
+[90.1.7.13. 명도 반전(Value Invert)](./90-01-07-13-value_invert.md)
 
-[90.1.7.14. 자동(Auto)](./90-01-07-colorsx-14-auto.md)
+[90.1.7.14. 자동(Auto)](./90-01-07-14-00-auto.md)
 
-[90.1.7.14.1. 평준화(Equalize)](./90-01-07-colorsx-14-autox-01-equalize.md)
+[90.1.7.14.1. 평준화(Equalize)](./90-01-07-14-01-equalize.md)
 
-[90.1.7.14.2. 화이트 밸런스(White Balance)](./90-01-07-colorsx-14-autox-02-white_balance.md)
+[90.1.7.14.2. 화이트 밸런스(White Balance)](./90-01-07-14-02-white_balance.md)
 
-[90.1.7.14.3. 대비 증가...(Stretch Contrast...)](./90-01-07-colorsx-14-autox-03-stretch_contrast.md)
+[90.1.7.14.3. 대비 증가...(Stretch Contrast...)](./90-01-07-14-03-stretch_contrast.md)
 
-[90.1.7.14.4. HSV 대비 증가(Stretch Contrast HSV)](./90-01-07-colorsx-14-autox-04-stretch_contrast_hsv.md)
+[90.1.7.14.4. HSV 대비 증가(Stretch Contrast HSV)](./90-01-07-14-04-stretch_contrast_hsv.md)
 
-[90.1.7.14.5. 색상 보강(Color Enhance)](./90-01-07-colorsx-14-autox-05-color_enhance.md)
+[90.1.7.14.5. 색상 보강(Color Enhance)](./90-01-07-14-05-color_enhance.md)
 
-[90.1.7.14.6. 색상 보강(레거시)(Color Enhance (legacy))](./90-01-07-colorsx-14-autox-06-color_enhance_legacy.md)
+[90.1.7.14.6. 색상 보강(레거시)(Color Enhance (legacy))](./90-01-07-14-06-color_enhance_legacy.md)
 
-[90.1.7.15. 성분(Components)](./90-01-07-colorsx-15-components.md)
+[90.1.7.15. 성분(Components)](./90-01-07-15-00-components.md)
 
-[90.1.7.15.1. 채널 혼합...(Channel Mixer...)](./90-01-07-colorsx-15-componentsx-01-channel_mixer.md)
+[90.1.7.15.1. 채널 혼합...(Channel Mixer...)](./90-01-07-15-01-channel_mixer.md)
 
-[90.1.7.15.2. 요소 추출...(Extract Component...)](./90-01-07-colorsx-15-componentsx-02-extract_component.md)
+[90.1.7.15.2. 요소 추출...(Extract Component...)](./90-01-07-15-02-extract_component.md)
 
-[90.1.7.15.3. Mono Mixer...(Mono Mixer...)](./90-01-07-colorsx-15-componentsx-03-mono_mixer.md)
+[90.1.7.15.3. Mono Mixer...(Mono Mixer...)](./90-01-07-15-03-mono_mixer.md)
 
-[90.1.7.15.4. 구성...(Compose...)](./90-01-07-colorsx-15-componentsx-04-compose.md)
+[90.1.7.15.4. 구성...(Compose...)](./90-01-07-15-04-compose.md)
 
-[90.1.7.15.5. 분해...(Decompose...)](./90-01-07-colorsx-15-componentsx-05-decompose.md)
+[90.1.7.15.5. 분해...(Decompose...)](./90-01-07-15-05-decompose.md)
 
-[90.1.7.15.6. 재구성(Recompose)](./90-01-07-colorsx-15-componentsx-06-recompose.md)
+[90.1.7.15.6. 재구성(Recompose)](./90-01-07-15-06-recompose.md)
 
-[90.1.7.16. 무채화(Desaturate)](./90-01-07-colorsx-16-desaturate.md)
+[90.1.7.16. 무채화(Desaturate)](./90-01-07-16-desaturate.md)
 
-[90.1.7.17. 지도(Map)](./90-01-07-colorsx-17-map.md)
+[90.1.7.17. 지도(Map)](./90-01-07-17-00-map.md)
 
-[90.1.7.17.1. 색상표 재배치...(Rearrange Colormap...)](./90-01-07-colorsx-17-mapx-01-rearrange_colormap.md)
+[90.1.7.17.1. 색상표 재배치...(Rearrange Colormap...)](./90-01-07-17-01-rearrange_colormap.md)
 
-[90.1.7.17.2. 색상표 설정...(Set Colormap...)](./90-01-07-colorsx-17-mapx-02-set_colormap.md)
+[90.1.7.17.2. 색상표 설정...(Set Colormap...)](./90-01-07-17-02-set_colormap.md)
 
-[90.1.7.17.3. 에일리언 맵...(Alien Map...)](./90-01-07-colorsx-17-mapx-03-alien_map.md)
+[90.1.7.17.3. 에일리언 맵...(Alien Map...)](./90-01-07-17-03-alien_map.md)
 
-[90.1.7.17.4. 색상 교환...(Color Exchange...)](./90-01-07-colorsx-17-mapx-04-color_exchange.md)
+[90.1.7.17.4. 색상 교환...(Color Exchange...)](./90-01-07-17-04-color_exchange.md)
 
-[90.1.7.17.5. 색 전환...(Rotate Colors...)](./90-01-07-colorsx-17-mapx-05-rotate_colors.md)
+[90.1.7.17.5. 색 전환...(Rotate Colors...)](./90-01-07-17-05-rotate_colors.md)
 
-[90.1.7.17.6. 그라디언트 맵(Gradient Map)](./90-01-07-colorsx-17-mapx-06-gradient_map.md)
+[90.1.7.17.6. 그라디언트 맵(Gradient Map)](./90-01-07-17-06-gradient_map.md)
 
-[90.1.7.17.7. 팔레트 맵(Palette Map)](./90-01-07-colorsx-17-mapx-07-palette_map.md)
+[90.1.7.17.7. 팔레트 맵(Palette Map)](./90-01-07-17-07-palette_map.md)
 
-[90.1.7.17.8. 표본 색상화...(Sample Colorize...)](./90-01-07-colorsx-17-mapx-08-sample_colorize.md)
+[90.1.7.17.8. 표본 색상화...(Sample Colorize...)](./90-01-07-17-08-sample_colorize.md)
 
-[90.1.7.18. 톤 대응(Tone Mapping)](./90-01-07-colorsx-18-tone_mapping.md)
+[90.1.7.18. 톤 대응(Tone Mapping)](./90-01-07-18-tone_mapping.md)
 
-[90.1.7.19. 정보(Info)](./90-01-07-colorsx-19-info.md)
+[90.1.7.19. 정보(Info)](./90-01-07-19-info.md)
 
-[90.1.7.20. 임계(Threshold)](./90-01-07-colorsx-20-threshold.md)
+[90.1.7.20. 임계(Threshold)](./90-01-07-20-threshold.md)
 
-[90.1.7.21. 색상화(Colorize)](./90-01-07-colorsx-21-colorize.md)
+[90.1.7.21. 색상화(Colorize)](./90-01-07-21-colorize.md)
 
-[90.1.7.22. Posterize(Posterize)](./90-01-07-colorsx-22-Posterize.md)
+[90.1.7.22. Posterize(Posterize)](./90-01-07-22-posterize.md)
 
-[90.1.7.23. 색상을 알파로(Color to Alpha)](./90-01-07-colorsx-23-color_to_alpha.md)
+[90.1.7.23. 색상을 알파로(Color to Alpha)](./90-01-07-23-color_to_alpha.md)
 
-[90.1.7.24. Dither(Dither)](./90-01-07-colorsx-24-dither.md)
+[90.1.7.24. Dither(Dither)](./90-01-07-24-dither.md)
 
-[90.1.7.25. RGB 클립(RGB Clip)](./90-01-07-colorsx-25-rgb_clip.md)
+[90.1.7.25. RGB 클립(RGB Clip)](./90-01-07-25-rgb_clip.md)
 
-[90.1.7.26. 뜨거움(Hot)](./90-01-07-colorsx-26-hot.md)
+[90.1.7.26. 뜨거움(Hot)](./90-01-07-26-hot.md)
 
 ## [90.1.8. 도구(Tools)](./90-01-08-tools.md)
 [<img width="1080" alt="90.1.8. 도구(Tools)" src="https://github.com/wonder13662/gimp/assets/15767104/e7a9601b-01af-44e2-b6c4-ee512d1a884b">](./90-01-08-tools.md)

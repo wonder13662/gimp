@@ -73,7 +73,7 @@
 #### [그림 90.1.7.16.a1. `색` → `무채화` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-16-desaturate.html#%EA%B7%B8%EB%A6%BC-901716a1-%EC%83%89--%EB%AC%B4%EC%B1%84%ED%99%94-windows)
 [![그림 90.1.7.16.a1. `색` → `무채화` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/a35c267e-bebe-406d-9d05-2301280d1ae8)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-16-desaturate.html#%EA%B7%B8%EB%A6%BC-901716a1-%EC%83%89--%EB%AC%B4%EC%B1%84%ED%99%94-windows)
 
-[다른 운영체제와 언어의 `색` → `무채화` 확인하기](./90-01-07-colorsx-16-desaturate.md)
+[다른 운영체제와 언어의 `색` → `무채화` 확인하기](./90-01-07-16-desaturate.md)
 
 #### 그림 3.44. 배경을 흑백으로 만든 결과
 <img width="480" alt="그림 3.44. 배경을 흑백으로 만든 결과" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/97ab65f1-e0bd-41fc-9e06-3c5ac9eeb7bb">

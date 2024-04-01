@@ -1,4 +1,4 @@
-# 90.1.7.26. 뜨거움(Hot)
+# 90.1.7.3. 색상-채도(Chroma)(Hue-Chroma)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 (TODO 이미지 추가)
 
@@ -6,9 +6,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.8. 도구(Tools)](./90-01-08-tools.md)
+[➡️ 다음: 90.1.7.4. 색상-채도(Saturation)(Hue-Saturation)](./90-01-07-04-hue_saturation.md)
 
-[⬅️ 이전: 90.1.7.25. RGB 클립(RGB Clip)](./90-01-07-25-rgb_clip.md)
+[⬅️ 이전: 90.1.7.2. 색 온도(Color Temperature)](./90-01-07-02-color_temperature.md)
 
 [⬆️ 위: 90.1.7. 색(Colors)](./90-01-07-00-colors.md)
 
