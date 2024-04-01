@@ -8,7 +8,7 @@
 
 [➡️ 다음: 90.1.6.9.9. 선택 영역과 겹치기(Intersect from Selection)](./90-01-06-09-09-intersect_from_selection.md)
 
-[⬅️ 이전: 90.1.6.9.7. 선택에 추가(Add to Selection)](./90-01-06-layerx-09-transparencyx-07-add_to_selection.md)
+[⬅️ 이전: 90.1.6.9.7. 선택에 추가(Add to Selection)](./90-01-06-09-07-add_to_selection.md)
 
 [⬆️ 위: 90.1.6.9. 투명도(Transparency)](./90-01-06-09-00-transparency.md)
 

@@ -6,7 +6,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.6.9.7. 선택에 추가(Add to Selection)](./90-01-06-layerx-09-transparencyx-07-add_to_selection.md)
+[➡️ 다음: 90.1.6.9.7. 선택에 추가(Add to Selection)](./90-01-06-09-07-add_to_selection.md)
 
 [⬅️ 이전: 90.1.6.9.5. 임계 알파(Threshold Alpha)](./90-01-06-09-05-threshold_alpha.md)
 

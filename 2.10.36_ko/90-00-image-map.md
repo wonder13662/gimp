@@ -345,7 +345,7 @@
 
 [90.1.6.9.6. 알파를 선택 영역으로(Alpha to Selection)](./90-01-06-09-06-alpha_to_selection.md)
 
-[90.1.6.9.7. 선택에 추가(Add to Selection)](./90-01-06-layerx-09-transparencyx-07-add_to_selection.md)
+[90.1.6.9.7. 선택에 추가(Add to Selection)](./90-01-06-09-07-add_to_selection.md)
 
 [90.1.6.9.8. 선택 영역에서 빼기(Subtract from Selection)](./90-01-06-09-08-subtract_from_selection.md)
 
