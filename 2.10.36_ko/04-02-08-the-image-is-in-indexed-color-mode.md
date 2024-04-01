@@ -28,7 +28,7 @@ GIMP는 세가자의 컬러 모드를 사용합니다.[RGB(A), 그레이스케�
 #### [그림 90.1.10.2.6.a101. `창` → `색상표` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-06-colormap.html#%EA%B7%B8%EB%A6%BC-9011026a101-%EC%B0%BD--%EC%83%89%EC%83%81%ED%91%9C-windows)
 [![90-01-10-windowsx-01-dockable_dialogs(windows)(1080)-focus-colormap](https://github.com/wonder13662/gimp/assets/15767104/6bde90e9-1786-4537-8dc8-631d03c446db)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-06-colormap.html#%EA%B7%B8%EB%A6%BC-9011026a101-%EC%B0%BD--%EC%83%89%EC%83%81%ED%91%9C-windows)
 
-[다른 운영체제와 언어의 `창` → `색상표` 확인하기](./90-01-10-windowsx-02-dockable_dialogsx-06-colormap.md)
+[다른 운영체제와 언어의 `창` → `색상표` 확인하기](./90-01-10-02-06-colormap.md)
 
 전체 작업 과정은 아래 동영상으로 확인할 수 있습니다.
 

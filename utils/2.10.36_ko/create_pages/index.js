@@ -29,7 +29,7 @@ const doAsyncJob = async () => {
       // (예시) page_name_prev: 90.1.10.2.1. 도구 옵션
       const page_name_prev = hasPrev ? getPageFullName(prevIdx) : ''
       content = content.replace('${page_name_prev}', page_name_prev)
-      // (예시) page_prev: ./90-01-10-windowsx-02-dockable_dialogsx-01-tool_options.md
+      // (예시) page_prev: ./90-01-10-02-01-tool_options.md
       const page_prev = hasPrev ? `./${getPageFileName(prevIdx)}` : ''
       content = content.replace('${page_prev}', page_prev)
 
@@ -39,7 +39,7 @@ const doAsyncJob = async () => {
       // (예시) page_name_next: 90.1.10.2.3. 레이어
       const page_name_next = hasNext ? getPageFullName(nextIdx) : ''
       content = content.replace('${page_name_next}', page_name_next)
-      // (예시) page_next: ./90-01-10-windowsx-02-dockable_dialogsx-03-layers.md
+      // (예시) page_next: ./90-01-10-02-03-layers.md
       const page_next = hasNext ? `./${getPageFileName(nextIdx)}` : ''
       content = content.replace('${page_next}', page_next)
 

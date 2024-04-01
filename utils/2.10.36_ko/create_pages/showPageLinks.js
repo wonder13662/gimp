@@ -21,7 +21,7 @@ const doAsyncJob = async () => {
       const pageFileName = getPageFileName(idx)
       // (예시) page_name: 90.1.10.2.1. 도구 옵션
       const page_name = getPageFullName(idx)
-      // (예시) page: ./90-01-10-windowsx-02-dockable_dialogsx-01-tool_options.md
+      // (예시) page: ./90-01-10-02-01-tool_options.md
       const page = `./${getPageFileName(idx)}`
 
       const pageLink = `[${page_name}](${page})`

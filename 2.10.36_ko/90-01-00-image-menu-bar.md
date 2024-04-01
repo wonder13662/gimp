@@ -693,78 +693,78 @@
 
 [90.1.9.16. Script-Fu](./90-01-09-16-script_fu.md)
 
-## [90.1.10. 창(Windows)](./90-01-10-windows.md)
-[<img width="1080" alt="90.1.10. 창(Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/5898f1cf-caac-4702-a2a8-eb6586d704fe">](./90-01-10-windows.md)
+## [90.1.10. 창(Windows)](./90-01-10-00-windows.md)
+[<img width="1080" alt="90.1.10. 창(Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/5898f1cf-caac-4702-a2a8-eb6586d704fe">](./90-01-10-00-windows.md)
 
-[90.1.10.1. 최근 닫은 독(Recently Closed Docks)](./90-01-10-windowsx-01-recently_closed_docks.md)
+[90.1.10.1. 최근 닫은 독(Recently Closed Docks)](./90-01-10-01-recently_closed_docks.md)
 
-[90.1.10.2. 도킹가능한 대화(Dockable dialogs)](./90-01-10-windowsx-02-dockable_dialogs.md)
+[90.1.10.2. 도킹가능한 대화(Dockable dialogs)](./90-01-10-02-00-dockable_dialogs.md)
 
-[90.1.10.2.1. 도구 옵션(Tool Options)](./90-01-10-windowsx-02-dockable_dialogsx-01-tool_options.md)
+[90.1.10.2.1. 도구 옵션(Tool Options)](./90-01-10-02-01-tool_options.md)
 
-[90.1.10.2.2. 장치 상태(Device Status)](./90-01-10-windowsx-02-dockable_dialogsx-02-device_status.md)
+[90.1.10.2.2. 장치 상태(Device Status)](./90-01-10-02-02-device_status.md)
 
-[90.1.10.2.3. 레이어(Layers)](./90-01-10-windowsx-02-dockable_dialogsx-03-layers.md)
+[90.1.10.2.3. 레이어(Layers)](./90-01-10-02-03-layers.md)
 
-[90.1.10.2.4. 채널(Channels)](./90-01-10-windowsx-02-dockable_dialogsx-04-channels.md)
+[90.1.10.2.4. 채널(Channels)](./90-01-10-02-04-channels.md)
 
-[90.1.10.2.5. 경로(Paths)](./90-01-10-windowsx-02-dockable_dialogsx-05-paths.md)
+[90.1.10.2.5. 경로(Paths)](./90-01-10-02-05-paths.md)
 
-[90.1.10.2.6. 색상표(Colormap)](./90-01-10-windowsx-02-dockable_dialogsx-06-colormap.md)
+[90.1.10.2.6. 색상표(Colormap)](./90-01-10-02-06-colormap.md)
 
-[90.1.10.2.7. 히스토그램(Histogram)](./90-01-10-windowsx-02-dockable_dialogsx-07-histogram.md)
+[90.1.10.2.7. 히스토그램(Histogram)](./90-01-10-02-07-histogram.md)
 
-[90.1.10.2.8. 선택 영역 편집기(Selection editor)](./90-01-10-windowsx-02-dockable_dialogsx-08-selection_editor.md)
+[90.1.10.2.8. 선택 영역 편집기(Selection editor)](./90-01-10-02-08-selection_editor.md)
 
-[90.1.10.2.9. 내비게이션(Navigation)](./90-01-10-windowsx-02-dockable_dialogsx-09-navigation.md)
+[90.1.10.2.9. 내비게이션(Navigation)](./90-01-10-02-09-navigation.md)
 
-[90.1.10.2.10. 실행취소 이력(Undo History)](./90-01-10-windowsx-02-dockable_dialogsx-10-undo_history.md)
+[90.1.10.2.10. 실행취소 이력(Undo History)](./90-01-10-02-10-undo_history.md)
 
-[90.1.10.2.11. 포인터(Pointer)](./90-01-10-windowsx-02-dockable_dialogsx-11-pointer.md)
+[90.1.10.2.11. 포인터(Pointer)](./90-01-10-02-11-pointer.md)
 
-[90.1.10.2.12. 표본점(Sample Points)](./90-01-10-windowsx-02-dockable_dialogsx-12-sample_points.md)
+[90.1.10.2.12. 표본점(Sample Points)](./90-01-10-02-12-sample_points.md)
 
-[90.1.10.2.13. 대칭 페인팅(Symmetry Painting)](./90-01-10-windowsx-02-dockable_dialogsx-13-symmetry_painting.md)
+[90.1.10.2.13. 대칭 페인팅(Symmetry Painting)](./90-01-10-02-13-symmetry_painting.md)
 
-[90.1.10.2.14. 색(Colors)](./90-01-10-windowsx-02-dockable_dialogsx-14-colors.md)
+[90.1.10.2.14. 색(Colors)](./90-01-10-02-14-colors.md)
 
-[90.1.10.2.15. 붓(Brushes)](./90-01-10-windowsx-02-dockable_dialogsx-15-brushes.md)
+[90.1.10.2.15. 붓(Brushes)](./90-01-10-02-15-brushes.md)
 
-[90.1.10.2.16. 페인트 동적 요소(Paint Dynamics)](./90-01-10-windowsx-02-dockable_dialogsx-16-paint_dynamics.md)
+[90.1.10.2.16. 페인트 동적 요소(Paint Dynamics)](./90-01-10-02-16-paint_dynamics.md)
 
-[90.1.10.2.17. 마이페인트 붓(Mypaint Brushes)](./90-01-10-windowsx-02-dockable_dialogsx-17-mypaint_brushes.md)
+[90.1.10.2.17. 마이페인트 붓(Mypaint Brushes)](./90-01-10-02-17-mypaint_brushes.md)
 
-[90.1.10.2.18. 무늬(Patterns)](./90-01-10-windowsx-02-dockable_dialogsx-18-patterns.md)
+[90.1.10.2.18. 무늬(Patterns)](./90-01-10-02-18-patterns.md)
 
-[90.1.10.2.19. 그라디언트(Gradients)](./90-01-10-windowsx-02-dockable_dialogsx-19-gradients.md)
+[90.1.10.2.19. 그라디언트(Gradients)](./90-01-10-02-19-gradients.md)
 
-[90.1.10.2.20. 팔레트(Palettes)](./90-01-10-windowsx-02-dockable_dialogsx-20-palettes.md)
+[90.1.10.2.20. 팔레트(Palettes)](./90-01-10-02-20-palettes.md)
 
-[90.1.10.2.21. 글꼴(Fonts)](./90-01-10-windowsx-02-dockable_dialogsx-21-fonts.md)
+[90.1.10.2.21. 글꼴(Fonts)](./90-01-10-02-21-fonts.md)
 
-[90.1.10.2.22. 도구 프리셋(Tool Preset)](./90-01-10-windowsx-02-dockable_dialogsx-22-tool_preset.md)
+[90.1.10.2.22. 도구 프리셋(Tool Preset)](./90-01-10-02-22-tool_preset.md)
 
-[90.1.10.2.23. 버퍼(Buffers)](./90-01-10-windowsx-02-dockable_dialogsx-23-buffers.md)
+[90.1.10.2.23. 버퍼(Buffers)](./90-01-10-02-23-buffers.md)
 
-[90.1.10.2.24. 이미지(Images)](./90-01-10-windowsx-02-dockable_dialogsx-24-images.md)
+[90.1.10.2.24. 이미지(Images)](./90-01-10-02-24-images.md)
 
-[90.1.10.2.25. 문서 이력(Document History)](./90-01-10-windowsx-02-dockable_dialogsx-25-document_history.md)
+[90.1.10.2.25. 문서 이력(Document History)](./90-01-10-02-25-document_history.md)
 
-[90.1.10.2.26. 양식(Templates)](./90-01-10-windowsx-02-dockable_dialogsx-26-templates.md)
+[90.1.10.2.26. 양식(Templates)](./90-01-10-02-26-templates.md)
 
-[90.1.10.2.27. 오류콘솔(Error Console)](./90-01-10-windowsx-02-dockable_dialogsx-27-error_console.md)
+[90.1.10.2.27. 오류콘솔(Error Console)](./90-01-10-02-27-error_console.md)
 
-[90.1.10.2.28. 상황판(Dashboard)](./90-01-10-windowsx-02-dockable_dialogsx-28-dashboard.md)
+[90.1.10.2.28. 상황판(Dashboard)](./90-01-10-02-28-dashboard.md)
 
-[90.1.10.3. 도구상자(Toolbox)](./90-01-10-windowsx-03-toolbox.md)
+[90.1.10.3. 도구상자(Toolbox)](./90-01-10-03-toolbox.md)
 
-[90.1.10.4. 독 숨기기(Hide Docks)](./90-01-10-windowsx-04-hide_docks.md)
+[90.1.10.4. 독 숨기기(Hide Docks)](./90-01-10-04-hide_docks.md)
 
-[90.1.10.5. 탭 보이기(Show Tabs)](./90-01-10-windowsx-05-show_tabs.md)
+[90.1.10.5. 탭 보이기(Show Tabs)](./90-01-10-05-show_tabs.md)
 
-[90.1.10.6. 탭 위치(Tab position)](./90-01-10-windowsx-06-tab_position.md)
+[90.1.10.6. 탭 위치(Tab position)](./90-01-10-06-tab_position.md)
 
-[90.1.10.7. 단일창 모드(Single-Window Mode)](./90-01-10-windowsx-07-single_window_mode.md)
+[90.1.10.7. 단일창 모드(Single-Window Mode)](./90-01-10-07-single_window_mode.md)
 
 ## [90.1.11. 도움말(Help)](./90-01-11-help.md)
 [<img width="1080" alt="90.1.11. 도움말(Help)" src="https://github.com/wonder13662/gimp/assets/15767104/e42b3e1d-4d42-46d3-a209-9ca6584cdddd">](./90-01-11-help.md)
