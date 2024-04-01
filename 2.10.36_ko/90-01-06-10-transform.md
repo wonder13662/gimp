@@ -20,7 +20,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.6.9.9. 선택 영역과 겹치기(Intersect from Selection)](./90-01-06-09-09-intersect_from_selection.md)
+[➡️ 다음: 90.1.6.11. 레이어 경계 크기(Layer Boundary Size)](./90-01-06-11-layer_boundary_size.md)
 
 [⬅️ 이전: 90.1.6.9. 투명도(Transparency)](./90-01-06-09-00-transparency.md)
 
