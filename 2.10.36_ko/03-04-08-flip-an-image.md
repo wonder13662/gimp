@@ -4,7 +4,7 @@
 #### [그림 90.1.8.3.11.a101. `도구` → `변형 도구` → `뒤집기` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-03-transform_toolsx-11-flip.html#%EA%B7%B8%EB%A6%BC-9018311a101-%EB%8F%84%EA%B5%AC--%EB%B3%80%ED%98%95-%EB%8F%84%EA%B5%AC--%EB%92%A4%EC%A7%91%EA%B8%B0-windows)
 [![그림 90.1.8.3.11.a101. `도구` → `변형 도구` → `뒤집기` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/c600ff82-fda1-41f0-b5dd-2474dc062e24)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-03-transform_toolsx-11-flip.html#%EA%B7%B8%EB%A6%BC-9018311a101-%EB%8F%84%EA%B5%AC--%EB%B3%80%ED%98%95-%EB%8F%84%EA%B5%AC--%EB%92%A4%EC%A7%91%EA%B8%B0-windows)
 
-[다른 운영체제와 언어의 `도구` → `변형 도구` → `뒤집기` 확인하기](./90-01-08-toolsx-03-transform_toolsx-11-flip.md)
+[다른 운영체제와 언어의 `도구` → `변형 도구` → `뒤집기` 확인하기](./90-01-08-03-11-flip.md)
 
 #### [그림 90.3.2.15.a2. 도구상자(Toolbox)의 뒤집기(Flip) 버튼](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-15-flip.html#%EA%B7%B8%EB%A6%BC-903215a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90toolbox%EC%9D%98-%EB%92%A4%EC%A7%91%EA%B8%B0flip-%EB%B2%84%ED%8A%BC)
 [![그림 90.3.2.15.a2. 도구상자(Toolbox)의 뒤집기(Flip) 버튼](https://github.com/wonder13662/gimp/assets/15767104/8f63d644-7b1d-4ebb-9191-3d5583dc2cb7)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-15-flip.html#%EA%B7%B8%EB%A6%BC-903215a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90toolbox%EC%9D%98-%EB%92%A4%EC%A7%91%EA%B8%B0flip-%EB%B2%84%ED%8A%BC)

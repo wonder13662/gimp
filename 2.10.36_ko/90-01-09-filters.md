@@ -144,7 +144,7 @@
 
 [➡️ 다음: 90.1.9.1. 흐림 처리(Blur)](./90-01-09-filtersx-01-blur.md)
 
-[⬅️ 이전: 90.1.8.3. 변형 도구(Transform Tools)](./90-01-08-toolsx-03-transform_tools.md)
+[⬅️ 이전: 90.1.8.3. 변형 도구(Transform Tools)](./90-01-08-03-00-transform_tools.md)
 
 [⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 

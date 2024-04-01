@@ -72,7 +72,7 @@
 #### [그림 90.1.8.2.3.a101. `도구` → `칠하기 도구` → `연필` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-03-pencil.html#%EA%B7%B8%EB%A6%BC-901823a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EC%97%B0%ED%95%84-windows)
 [![그림 90.1.8.2.3.a101. `도구` → `칠하기 도구` → `연필` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3a212da3-0bfd-486e-8ec5-273f6e7eac2a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-03-pencil.html#%EA%B7%B8%EB%A6%BC-901823a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EC%97%B0%ED%95%84-windows)
 
-[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `연필` 확인하기](./90-01-08-toolsx-02-paint_toolsx-03-pencil.md)
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `연필` 확인하기](./90-01-08-02-03-pencil.md)
 
 #### [그림 90.3.2.24.a2. 도구상자 - 연필](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-24-pencil.html#%EA%B7%B8%EB%A6%BC-903224a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%97%B0%ED%95%84)
 [![그림 90.3.2.24.a2. 도구상자 - 연필](https://github.com/wonder13662/gimp/assets/15767104/aa88490b-f8f2-4087-9151-da457b0e271b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-24-pencil.html#%EA%B7%B8%EB%A6%BC-903224a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%97%B0%ED%95%84)
@@ -84,7 +84,7 @@
 #### [그림 90.1.8.2.6.a101. `도구` → `칠하기 도구` → `에어브러시` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-06-airbrush.html#%EA%B7%B8%EB%A6%BC-901826a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EC%97%90%EC%96%B4%EB%B8%8C%EB%9F%AC%EC%8B%9C-windows)
 [![그림 90.1.8.2.6.a101. `도구` → `칠하기 도구` → `에어브러시` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/7596369b-dfdd-4b1f-8c2e-321e27407159)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-06-airbrush.html#%EA%B7%B8%EB%A6%BC-901826a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EC%97%90%EC%96%B4%EB%B8%8C%EB%9F%AC%EC%8B%9C-windows)
 
-[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `에어브러시` 확인하기](./90-01-08-toolsx-02-paint_toolsx-06-airbrush.md)
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `에어브러시` 확인하기](./90-01-08-02-06-airbrush.md)
 
 #### [그림 90.3.2.25.a2. 도구상자 - 에어브러시](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-25-airbrush.html#%EA%B7%B8%EB%A6%BC-903225a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%97%90%EC%96%B4%EB%B8%8C%EB%9F%AC%EC%8B%9C)
 [![그림 90.3.2.25.a2. 도구상자 - 에어브러시](https://github.com/wonder13662/gimp/assets/15767104/2f122e0d-c2bf-4473-9471-88d655f28a52)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-25-airbrush.html#%EA%B7%B8%EB%A6%BC-903225a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%97%90%EC%96%B4%EB%B8%8C%EB%9F%AC%EC%8B%9C)
@@ -96,7 +96,7 @@
 #### [그림 90.1.8.2.7.a101. `도구` → `칠하기 도구` → `잉크` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-07-ink.html#%EA%B7%B8%EB%A6%BC-901827a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EC%9E%89%ED%81%AC-windows)
 [![그림 90.1.8.2.7.a101. `도구` → `칠하기 도구` → `잉크` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/07732c34-128e-4b88-bc0c-f9fc71b1c14a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-07-ink.html#%EA%B7%B8%EB%A6%BC-901827a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EC%9E%89%ED%81%AC-windows)
 
-[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `잉크` 확인하기](./90-01-08-toolsx-02-paint_toolsx-07-ink.md)
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `잉크` 확인하기](./90-01-08-02-07-ink.md)
 
 #### [그림 90.3.2.26.a2. 도구상자 - 잉크](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-26-ink.html#%EA%B7%B8%EB%A6%BC-903226a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%9E%89%ED%81%AC)
 [![그림 90.3.2.26.a2. 도구상자 - 잉크](https://github.com/wonder13662/gimp/assets/15767104/7cf5d992-ae21-45d0-88c5-fa9a5cccf23c)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-26-ink.html#%EA%B7%B8%EB%A6%BC-903226a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%9E%89%ED%81%AC)
@@ -108,7 +108,7 @@
 #### [그림 90.1.8.2.8.a101. `도구` → `칠하기 도구` → `마이페인트 붓` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-08-mypaint_brush.html#%EA%B7%B8%EB%A6%BC-901828a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B8%ED%8A%B8-%EB%B6%93-windows)
 [![그림 90.1.8.2.8.a101. `도구` → `칠하기 도구` → `마이페인트 붓` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/9328114e-96bb-4ea6-ae1c-93fec8d988b1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-08-mypaint_brush.html#%EA%B7%B8%EB%A6%BC-901828a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B8%ED%8A%B8-%EB%B6%93-windows)
 
-[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `마이페인트 붓` 확인하기](./90-01-08-toolsx-02-paint_toolsx-08-mypaint_brush.md)
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `마이페인트 붓` 확인하기](./90-01-08-02-08-mypaint_brush.md)
 
 #### [그림 90.3.2.27.a2. 도구상자 - MyPaint 붓](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-27-mypaint_brush.html#%EA%B7%B8%EB%A6%BC-903227a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---mypaint-%EB%B6%93)
 [![그림 90.3.2.27.a2. 도구상자 - MyPaint 붓](https://github.com/wonder13662/gimp/assets/15767104/bfba0689-02ca-4a52-9eaf-7280e95a50da)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-27-mypaint_brush.html#%EA%B7%B8%EB%A6%BC-903227a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---mypaint-%EB%B6%93)
@@ -120,7 +120,7 @@
 #### [그림 90.1.8.2.9.a101. `도구` → `칠하기 도구` → `도장 도구` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-09-clone.html#%EA%B7%B8%EB%A6%BC-901829a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%8F%84%EC%9E%A5-%EB%8F%84%EA%B5%AC-windows)
 [![그림 90.1.8.2.9.a101. `도구` → `칠하기 도구` → `도장 도구` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/6bda17cc-00d8-4df4-8a59-0e396d52226a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-09-clone.html#%EA%B7%B8%EB%A6%BC-901829a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%8F%84%EC%9E%A5-%EB%8F%84%EA%B5%AC-windows)
 
-[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `도장 도구` 확인하기](./90-01-08-toolsx-02-paint_toolsx-09-clone.md)
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `도장 도구` 확인하기](./90-01-08-02-09-clone.md)
 
 #### [그림 90.3.2.29.a2. 도구상자 - 도장](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-29-clone.html#%EA%B7%B8%EB%A6%BC-903229a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%8F%84%EC%9E%A5)
 [![그림 90.3.2.29.a2. 도구상자 - 도장](https://github.com/wonder13662/gimp/assets/15767104/7dcf76c1-dbf5-41c6-94de-a1a610a75d3d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-29-clone.html#%EA%B7%B8%EB%A6%BC-903229a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%8F%84%EC%9E%A5)
@@ -132,7 +132,7 @@
 #### [그림 90.1.8.2.11.a101. `도구` → `칠하기 도구` → `원근 복제` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-11-perspective_clone.html#%EA%B7%B8%EB%A6%BC-9018211a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EC%9B%90%EA%B7%BC-%EB%B3%B5%EC%A0%9C-windows)
 [![그림 90.1.8.2.11.a101. `도구` → `칠하기 도구` → `원근 복제` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/65d7cffd-1507-486e-b3e9-a0ca9e51467a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-11-perspective_clone.html#%EA%B7%B8%EB%A6%BC-9018211a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EC%9B%90%EA%B7%BC-%EB%B3%B5%EC%A0%9C-windows)
 
-[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `원근 복제` 확인하기](./90-01-08-toolsx-02-paint_toolsx-11-perspective_clone.md)
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `원근 복제` 확인하기](./90-01-08-02-11-perspective_clone.md)
 
 #### [그림 90.3.2.30.a2. 도구상자 - 원근 복제](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-30-perspective_clone.html#%EA%B7%B8%EB%A6%BC-903230a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%9B%90%EA%B7%BC-%EB%B3%B5%EC%A0%9C)
 [![그림 90.3.2.30.a2. 도구상자 - 원근 복제](https://github.com/wonder13662/gimp/assets/15767104/1bebe4c7-108c-47be-a1e8-2e6f2e93a8a9)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-30-perspective_clone.html#%EA%B7%B8%EB%A6%BC-903230a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%9B%90%EA%B7%BC-%EB%B3%B5%EC%A0%9C)
@@ -144,7 +144,7 @@
 #### [그림 90.1.8.2.10.a101. `도구` → `칠하기 도구` → `복원` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-10-heal.html#%EA%B7%B8%EB%A6%BC-9018210a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%B3%B5%EC%9B%90-windows)
 [![그림 90.1.8.2.10.a101. `도구` → `칠하기 도구` → `복원` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/d69f5547-31de-4687-864a-cb8af86c97ec)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-10-heal.html#%EA%B7%B8%EB%A6%BC-9018210a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%B3%B5%EC%9B%90-windows)
 
-[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `복원` 확인하기](./90-01-08-toolsx-02-paint_toolsx-10-heal.md)
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `복원` 확인하기](./90-01-08-02-10-heal.md)
 
 #### [그림 90.3.2.31.a2. 도구상자 - 복원](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-31-healing.html#%EA%B7%B8%EB%A6%BC-903231a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%B3%B5%EC%9B%90)
 [![그림 90.3.2.31.a2. 도구상자 - 복원](https://github.com/wonder13662/gimp/assets/15767104/b9fafcea-e1e4-4534-b7e6-cd7eeb0617b0)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-31-healing.html#%EA%B7%B8%EB%A6%BC-903231a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%B3%B5%EC%9B%90)
@@ -156,7 +156,7 @@
 #### [그림 90.1.8.2.13.a101. `도구` → `칠하기 도구` → `문지르기` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-13-smudge.html#%EA%B7%B8%EB%A6%BC-9018213a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%AC%B8%EC%A7%80%EB%A5%B4%EA%B8%B0-windows)
 [![그림 90.1.8.2.13.a101. `도구` → `칠하기 도구` → `문지르기` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/86a6aeab-e50f-4204-b5ba-5419ed668bfd)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-13-smudge.html#%EA%B7%B8%EB%A6%BC-9018213a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%AC%B8%EC%A7%80%EB%A5%B4%EA%B8%B0-windows)
 
-[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `문지르기` 확인하기](./90-01-08-toolsx-02-paint_toolsx-13-smudge.md)
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `문지르기` 확인하기](./90-01-08-02-13-smudge.md)
 
 #### [그림 90.3.2.32.a2. 도구상자 - 문지르기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-32-smudge.html#%EA%B7%B8%EB%A6%BC-903232a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%AC%B8%EC%A7%80%EB%A5%B4%EA%B8%B0)
 [![그림 90.3.2.32.a2. 도구상자 - 문지르기](https://github.com/wonder13662/gimp/assets/15767104/29694b78-a2b8-40a3-b11c-a4b0a6dbdb9b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-32-smudge.html#%EA%B7%B8%EB%A6%BC-903232a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%AC%B8%EC%A7%80%EB%A5%B4%EA%B8%B0)
@@ -168,7 +168,7 @@
 #### [그림 90.1.8.2.12.a101. `도구` → `칠하기 도구` → `흐릿하게/선명하게` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-12-blur_sharpen.html#%EA%B7%B8%EB%A6%BC-9018212a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%ED%9D%90%EB%A6%BF%ED%95%98%EA%B2%8C%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C-windows)
 [![그림 90.1.8.2.12.a101. `도구` → `칠하기 도구` → `흐릿하게/선명하게` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/2b7da1fb-028e-4375-be60-8437cd6d45f2)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-12-blur_sharpen.html#%EA%B7%B8%EB%A6%BC-9018212a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%ED%9D%90%EB%A6%BF%ED%95%98%EA%B2%8C%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C-windows)
 
-[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `흐릿하게/선명하게` 확인하기](./90-01-08-toolsx-02-paint_toolsx-12-blur_sharpen.md)
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `흐릿하게/선명하게` 확인하기](./90-01-08-02-12-blur_sharpen.md)
 
 #### [그림 90.3.2.33.a2. 도구상자 - '흐릿하게/선명하게'](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-33-blur_sharpen.html#%EA%B7%B8%EB%A6%BC-903233a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%ED%9D%90%EB%A6%BF%ED%95%98%EA%B2%8C%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C)
 [![그림 90.3.2.33.a2. 도구상자 - '흐릿하게/선명하게'](https://github.com/wonder13662/gimp/assets/15767104/b0a3539c-e757-40c6-b3a8-66e730e743ce)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-33-blur_sharpen.html#%EA%B7%B8%EB%A6%BC-903233a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%ED%9D%90%EB%A6%BF%ED%95%98%EA%B2%8C%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C)
@@ -180,7 +180,7 @@
 #### [그림 90.1.8.2.14.a101. `도구` → `칠하기 도구` → `닷지/번` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-14-dodge_burn.html#%EA%B7%B8%EB%A6%BC-9018214a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%8B%B7%EC%A7%80%EB%B2%88-windows)
 [![그림 90.1.8.2.14.a101. `도구` → `칠하기 도구` → `닷지/번` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3860e5da-44f2-4088-a577-4f7de529a868)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-14-dodge_burn.html#%EA%B7%B8%EB%A6%BC-9018214a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EB%8B%B7%EC%A7%80%EB%B2%88-windows)
 
-[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `닷지/번` 확인하기](./90-01-08-toolsx-02-paint_toolsx-14-dodge_burn.md)
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `닷지/번` 확인하기](./90-01-08-02-14-dodge_burn.md)
 
 #### [그림 90.3.2.34.a2. 도구상자 - '닷지/번'](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-34-dodge_burn.html#%EA%B7%B8%EB%A6%BC-903234a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%8B%B7%EC%A7%80%EB%B2%88)
 [![그림 90.3.2.34.a2. 도구상자 - '닷지/번'](https://github.com/wonder13662/gimp/assets/15767104/f602486b-595d-4b15-ba4c-826982b153ce)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-34-dodge_burn.html#%EA%B7%B8%EB%A6%BC-903234a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%8B%B7%EC%A7%80%EB%B2%88)
@@ -192,7 +192,7 @@
 #### [그림 90.1.8.2.5.a101. `도구` → `칠하기 도구` → `지우개` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-05-eraser.html#%EA%B7%B8%EB%A6%BC-901825a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EC%A7%80%EC%9A%B0%EA%B0%9C-windows)
 [![그림 90.1.8.2.5.a101. `도구` → `칠하기 도구` → `지우개` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/c5491885-1e32-470f-bc20-23f3271a59fc)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-02-paint_toolsx-05-eraser.html#%EA%B7%B8%EB%A6%BC-901825a101-%EB%8F%84%EA%B5%AC--%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC--%EC%A7%80%EC%9A%B0%EA%B0%9C-windows)
 
-[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `지우개` 확인하기](./90-01-08-toolsx-02-paint_toolsx-05-eraser.md)
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `지우개` 확인하기](./90-01-08-02-05-eraser.md)
 
 #### [그림 90.3.2.28.a2. 도구상자 - 지우개](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-28-eraser.html#%EA%B7%B8%EB%A6%BC-903228a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%A7%80%EC%9A%B0%EA%B0%9C)
 [![그림 90.3.2.28.a2. 도구상자 - 지우개](https://github.com/wonder13662/gimp/assets/15767104/8e448288-3d80-449d-ac03-89757a056a1b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-28-eraser.html#%EA%B7%B8%EB%A6%BC-903228a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%A7%80%EC%9A%B0%EA%B0%9C)
