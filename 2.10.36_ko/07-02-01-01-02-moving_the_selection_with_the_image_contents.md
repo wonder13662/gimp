@@ -39,13 +39,13 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 7.2.1.2. 다른 선택 도구들을 옮기기](./07-02-01-moving-or-resizing-a-selectionx-02-moving_using_other_selection_tools.md)
+[➡️ 다음: 7.2.1.2. 다른 선택 도구들을 옮기기](./07-02-01-02-moving_using_other_selection_tools.md)
 
-[⬅️ 이전: 7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기](./07-02-01-moving-or-resizing-a-selectionx-01-moving_selections_using_the_rectangle_and_ellipse_select_toolsx-01-moving_and_resizing_the_selection_outline.md)
+[⬅️ 이전: 7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기](./07-02-01-01-01-moving_and_resizing_the_selection_outline.md)
 
-[⬆️ 위: 7.2.1.1. 사각 선택 도구와 타원 선택 도구를 사용해서 선택 옮기기](./07-02-01-moving-or-resizing-a-selection.md)
+[⬆️ 위: 7.2.1.1. 사각 선택 도구와 타원 선택 도구를 사용해서 선택 옮기기](./07-02-01-00-moving-or-resizing-a-selection.md)
 
-[⬆️ 위: 7.2.1. 선택 옮기기와 크기 조정하기](./07-02-01-moving-or-resizing-a-selection.md)
+[⬆️ 위: 7.2.1. 선택 옮기기와 크기 조정하기](./07-02-01-00-moving-or-resizing-a-selection.md)
 
 [⬆️ 위: 7.2. 선택 만들기와 사용하기](./07-02-00-creating-and-using-selections.md)
 

@@ -7,9 +7,9 @@
 ## 다른 페이지로 가기
 [➡️ 다음: 7.2.2. 선택 더하기/빼기](./07-02-02-adding-or-subtracting-selections.md)
 
-[⬅️ 이전: 7.2.1.2. 다른 선택 도구들을 옮기기](./07-02-01-moving-or-resizing-a-selectionx-02-moving_using_other_selection_tools.md)
+[⬅️ 이전: 7.2.1.2. 다른 선택 도구들을 옮기기](./07-02-01-02-moving_using_other_selection_tools.md)
 
-[⬆️ 위: 7.2.1. 선택 옮기기와 크기 조정하기](./07-02-01-moving-or-resizing-a-selection.md)
+[⬆️ 위: 7.2.1. 선택 옮기기와 크기 조정하기](./07-02-01-00-moving-or-resizing-a-selection.md)
 
 [⬆️ 위: 7.2. 선택 만들기와 사용하기](./07-02-00-creating-and-using-selections.md)
 

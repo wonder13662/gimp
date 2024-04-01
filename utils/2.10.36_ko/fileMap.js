@@ -354,7 +354,7 @@ module.exports = {
         '7. GIMP(김프)로 그리기'
       ],
       [
-        '07-01-the-selection.md', 
+        '07-01-00-the-selection.md', 
         '7.1. The selection',
         '7.1. 선택'
       ],
@@ -364,7 +364,7 @@ module.exports = {
         '7.2. 선택 만들기와 사용하기'
       ],
       [
-        '07-02-01-moving-or-resizing-a-selection.md', 
+        '07-02-01-00-moving-or-resizing-a-selection.md', 
         '7.2.1. Moving or resizing a selection',
         '7.2.1. 선택 영역 옮기기 또는 크기 조절하기',
       ],

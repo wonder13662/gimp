@@ -36,7 +36,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 7.1.1. 페더링](./07-01-the-selectionx-01-feathering.md)
+[➡️ 다음: 7.1.1. 페더링](./07-01-01-feathering.md)
 
 [⬅️ 이전: 7. GIMP(김프)로 그리기](./07-00-painting-with-gimp.md)
 

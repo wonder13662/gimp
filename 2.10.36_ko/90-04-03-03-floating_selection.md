@@ -21,7 +21,7 @@
 
 [4.2.1. 떠있는 선택(floating selection) - 영상 90.4.3.3.a31](./04-02-01-there-is-a-floating-selection.md#90-04-03-03-a31)
 
-[7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.4.3.3.a31](./07-01-the-selectionx-02-making_a_selection_partially_transparent.md#90-04-03-03-a31)
+[7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.4.3.3.a31](./07-01-02-making_a_selection_partially_transparent.md#90-04-03-03-a31)
 
 <a id="90-04-03-03-a41"></a>
 
@@ -56,28 +56,28 @@
 #### 영상 90.4.3.3.a81. "떠있는 선택(Floating selection)" 바깥의 마우스 커서의 닻(Anchor) 아이콘
 ![90-04-03-layers(windows)(ko)-floating_selection-anchor_icon(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/593587b7-b4f5-402c-94c9-9e404840d47c)
 
-[7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.4.3.3.a81](./07-01-the-selectionx-02-making_a_selection_partially_transparent.md#90-04-03-03-a81)
+[7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.4.3.3.a81](./07-01-02-making_a_selection_partially_transparent.md#90-04-03-03-a81)
 
 <a id="90-04-03-03-a91"></a>
 
 #### 영상 90.4.3.3.a91. "떠있는 선택(Floating selection)" 바깥을 클릭해서 고정하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7383c9e9-060f-4b97-8205-49ac68134863"></video>
 
-[7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.4.3.3.a91](./07-01-the-selectionx-02-making_a_selection_partially_transparent.md#90-04-03-03-a91)
+[7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.4.3.3.a91](./07-01-02-making_a_selection_partially_transparent.md#90-04-03-03-a91)
 
 <a id="90-04-03-03-a101"></a>
 
 #### 영상 90.4.3.3.a101. "떠있는 선택(Floating selection)"의 투명도 조정하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/da6c8a2b-6811-43ac-a361-b8a05eb7ac0c"></video>
 
-[7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.4.3.3.a101](./07-01-the-selectionx-02-making_a_selection_partially_transparent.md#90-04-03-03-a101)
+[7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.4.3.3.a101](./07-01-02-making_a_selection_partially_transparent.md#90-04-03-03-a101)
 
 <a id="90-04-03-03-a111"></a>
 
 #### 영상 90.4.3.3.a111. "떠있는 선택(Floating selection)"을 대화상자 아래의 고정 버튼 클릭으로 고정하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3a3b84fe-c6b3-49d2-92ec-c81a9061d76c"></video>
 
-[7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.4.3.3.a111](./07-01-the-selectionx-02-making_a_selection_partially_transparent.md#90-04-03-03-a111)
+[7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.4.3.3.a111](./07-01-02-making_a_selection_partially_transparent.md#90-04-03-03-a111)
 
 ***
 
