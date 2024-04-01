@@ -96,7 +96,7 @@ GIMP(김프)에서 기본으로 제공되는 그라디언트는 시스템 그라
 #### [그림 90.2.9.5.a1. `기본 설정` → `폴더` → `그라디언트` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-05-gradients.html#%EA%B7%B8%EB%A6%BC-90295a1-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-02-09-05-gradient-folders(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/80176c1a-aa96-4021-a089-aeb950c150eb)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-05-gradients.html#%EA%B7%B8%EB%A6%BC-90295a1-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-[다른 운영체제와 언어의 `기본 설정` → `폴더` → `그라디언트` 확인하기](./90-02-09-foldersx-05-gradients.md)
+[다른 운영체제와 언어의 `기본 설정` → `폴더` → `그라디언트` 확인하기](./90-02-09-05-gradients.md)
 
 ## 11. `.svg` 포맷 파일 불러오기
 GIMP(김프)는 벡터 그래픽 프로그램에서 많이 쓰이는 `.svg` 포맷에서 그라디언트 파일을 불러올 수 있습니다. `기본 설정` → `폴더` → `그라디언트`에 설정된 폴더에 `.svg` 포맷 파일을 옮겨두고 GIMP(김프)를 재시작하거나, 그라디언트 대화상자를 새로고침하면 그라디언트를 사용할 수 있습니다.

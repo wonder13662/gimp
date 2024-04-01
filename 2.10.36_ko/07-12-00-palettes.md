@@ -58,7 +58,7 @@ Ctrl(⌘) 키를 누른 채로 [`팔레트 편집기`](./15-03-06-04-palette_edi
 #### [그림 90.2.9.4.a1. `기본 설정` → `폴더` → `팔레트` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-04-palettes.html#%EA%B7%B8%EB%A6%BC-90294a1-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%ED%8C%94%EB%A0%88%ED%8A%B8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-02-09-04-preference-folders-palettes(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/83e174ab-9286-40de-b1a7-8fafdfa2e8c1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-04-palettes.html#%EA%B7%B8%EB%A6%BC-90294a1-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%ED%8C%94%EB%A0%88%ED%8A%B8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
-[다른 운영체제와 언어의 `기본 설정` → `폴더` → `팔레트` 확인하기](./90-02-09-foldersx-04-palettes.md)
+[다른 운영체제와 언어의 `기본 설정` → `폴더` → `팔레트` 확인하기](./90-02-09-04-palettes.md)
 
 ## 6. 팔레트 파일 확장자 - `.gpl`
 GIMP(김프)의 팔레트 파일은 [`.gpl`](./19-glossaryx-gpl.md)이라는 확장자를 가집니다. `.gpl` 파일은 ASCII 형식의 매우 단순한 파일입니다. 다른 출처의 `.gpl` 파일을 받았다면, GIMP(김프)에서 쓸 수 있도록 바꾸는 것은 그리 어렵지 않습니다. `.gpl` 파일을 열어 직접 확인해보세요. 예제로 기본 설치되어 있는 팔레트인 `Blues.gpl`의 앞부분 내용을 보면 아래와 같습니다.

@@ -766,8 +766,8 @@
 
 [90.1.10.7. 단일창 모드(Single-Window Mode)](./90-01-10-07-single_window_mode.md)
 
-## [90.1.11. 도움말(Help)](./90-01-11-help.md)
-[<img width="1080" alt="90.1.11. 도움말(Help)" src="https://github.com/wonder13662/gimp/assets/15767104/e42b3e1d-4d42-46d3-a209-9ca6584cdddd">](./90-01-11-help.md)
+## [90.1.11. 도움말(Help)](./90-01-11-00-help.md)
+[<img width="1080" alt="90.1.11. 도움말(Help)" src="https://github.com/wonder13662/gimp/assets/15767104/e42b3e1d-4d42-46d3-a209-9ca6584cdddd">](./90-01-11-00-help.md)
 
 ***
 
