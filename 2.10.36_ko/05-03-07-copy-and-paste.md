@@ -19,7 +19,7 @@
 #### [그림 90.1.2.11.3.a101. `편집` → `붙여넣기(고급)` → `새 이미지` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-11-paste_asx-03-new_image.html#%EA%B7%B8%EB%A6%BC-9012113a101-%ED%8E%B8%EC%A7%91--%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0%EA%B3%A0%EA%B8%89--%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-windows)
 [![90-01-02-editx-01-paste_as(windows)(1080)-focus-new_image](https://github.com/wonder13662/gimp/assets/15767104/df554206-b47d-4f48-ab03-03e3202bb3be)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-11-paste_asx-03-new_image.html#%EA%B7%B8%EB%A6%BC-9012113a101-%ED%8E%B8%EC%A7%91--%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0%EA%B3%A0%EA%B8%89--%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-windows)
 
-[다른 운영체제와 언어의 `편집` → `붙여넣기(고급)` → `새 이미지` 확인하기](./90-01-02-editx-11-paste_asx-03-new_image.md)
+[다른 운영체제와 언어의 `편집` → `붙여넣기(고급)` → `새 이미지` 확인하기](./90-01-02-11-03-new_image.md)
 
 ## Windows에서 Alt + `Print Screen`으로 활성화된 창만 클립보드에 저장하기
 Windows 환경에서 Alt + `Print Screen`으로 활성화된 창만 캡쳐해서 클립보드에 저장할 수 있습니다. 아래 영상에서 이 과정을 확인할 수 있습니다.

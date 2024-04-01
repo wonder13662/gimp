@@ -10,11 +10,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.2.16. 무늬로 채우기(Fill with Pattern)](./90-01-02-editx-16-fill_with_pattern.md)
+[➡️ 다음: 90.1.2.16. 무늬로 채우기(Fill with Pattern)](./90-01-02-16-fill_with_pattern.md)
 
-[⬅️ 이전: 90.1.2.14. 전경색으로 채우기(Fill with FG Color)](./90-01-02-editx-14-fill_with_fg_color.md)
+[⬅️ 이전: 90.1.2.14. 전경색으로 채우기(Fill with FG Color)](./90-01-02-14-fill_with_fg_color.md)
 
-[⬆️ 위: 90.1.2. 편집(Edit)](./90-01-02-edit.md)
+[⬆️ 위: 90.1.2. 편집(Edit)](./90-01-02-00-edit.md)
 
 [⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 

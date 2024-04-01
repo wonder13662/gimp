@@ -73,68 +73,68 @@
 
 [90.1.1.22. 끝내기(Quit)](./90-01-01-22-quit.md)
 
-## [90.1.2. 편집(Edit)](./90-01-02-edit.md)
-[<img width="1080" alt="90.1.2. 편집(Edit)" src="https://github.com/wonder13662/gimp/assets/15767104/c89e5738-a331-4f74-adb2-c83c0ef14101">](./90-01-02-edit.md)
+## [90.1.2. 편집(Edit)](./90-01-02-00-edit.md)
+[<img width="1080" alt="90.1.2. 편집(Edit)" src="https://github.com/wonder13662/gimp/assets/15767104/c89e5738-a331-4f74-adb2-c83c0ef14101">](./90-01-02-00-edit.md)
 
-[90.1.2.1. 실행 취소(Undo)](./90-01-02-editx-01-undo.md)
+[90.1.2.1. 실행 취소(Undo)](./90-01-02-01-undo.md)
 
-[90.1.2.2. 재실행(Redo)](./90-01-02-editx-02-redo.md)
+[90.1.2.2. 재실행(Redo)](./90-01-02-02-redo.md)
 
-[90.1.2.3. 실행취소 이력(Undo History)](./90-01-02-editx-03-undo_history.md)
+[90.1.2.3. 실행취소 이력(Undo History)](./90-01-02-03-undo_history.md)
 
-[90.1.2.4. 잘라내기(Cut)](./90-01-02-editx-04-cut.md)
+[90.1.2.4. 잘라내기(Cut)](./90-01-02-04-cut.md)
 
-[90.1.2.5. 복사(Copy)](./90-01-02-editx-05-copy.md)
+[90.1.2.5. 복사(Copy)](./90-01-02-05-copy.md)
 
-[90.1.2.6. 보이는 부분 복사(Copy Visible)](./90-01-02-editx-06-copy_visible.md)
+[90.1.2.6. 보이는 부분 복사(Copy Visible)](./90-01-02-06-copy_visible.md)
 
-[90.1.2.7. 붙여넣기(Paste)](./90-01-02-editx-07-paste.md)
+[90.1.2.7. 붙여넣기(Paste)](./90-01-02-07-paste.md)
 
-[90.1.2.8. 지정한 좌표에 붙여넣기(Paste In Place)](./90-01-02-editx-08-paste_in_place.md)
+[90.1.2.8. 지정한 좌표에 붙여넣기(Paste In Place)](./90-01-02-08-paste_in_place.md)
 
-[90.1.2.9. 선택영역에 붙여넣기(Paste Into Selection)](./90-01-02-editx-09-paste_into_selection.md)
+[90.1.2.9. 선택영역에 붙여넣기(Paste Into Selection)](./90-01-02-09-paste_into_selection.md)
 
-[90.1.2.10. 지정한 좌표의 선택영역에 붙여넣기(Paste Into Selection In Place)](./90-01-02-editx-10-paste_into_selection_in_place.md)
+[90.1.2.10. 지정한 좌표의 선택영역에 붙여넣기(Paste Into Selection In Place)](./90-01-02-10-paste_into_selection_in_place.md)
 
-[90.1.2.11. 붙여넣기(고급)(Paste as)](./90-01-02-editx-11-paste_as.md)
+[90.1.2.11. 붙여넣기(고급)(Paste as)](./90-01-02-11-00-paste_as.md)
 
-[90.1.2.11.1. 새 레이어(New Layer)](./90-01-02-editx-11-paste_asx-01-new_layer.md)
+[90.1.2.11.1. 새 레이어(New Layer)](./90-01-02-11-01-new_layer.md)
 
-[90.1.2.11.2. New Layer In Place(New Layer In Place)](./90-01-02-editx-11-paste_asx-02-new_layer_in_place.md)
+[90.1.2.11.2. New Layer In Place(New Layer In Place)](./90-01-02-11-02-new_layer_in_place.md)
 
-[90.1.2.11.3. 새 이미지(New Image)](./90-01-02-editx-11-paste_asx-03-new_image.md)
+[90.1.2.11.3. 새 이미지(New Image)](./90-01-02-11-03-new_image.md)
 
-[90.1.2.11.4. 새 붓(New Brush)](./90-01-02-editx-11-paste_asx-04-new_brush.md)
+[90.1.2.11.4. 새 붓(New Brush)](./90-01-02-11-04-new_brush.md)
 
-[90.1.2.11.5. 새 무늬(New Pattern)](./90-01-02-editx-11-paste_asx-05-new_pattern.md)
+[90.1.2.11.5. 새 무늬(New Pattern)](./90-01-02-11-05-new_pattern.md)
 
-[90.1.2.12. 버퍼(Buffer)](./90-01-02-editx-12-buffer.md)
+[90.1.2.12. 버퍼(Buffer)](./90-01-02-12-buffer.md)
 
-[90.1.2.13. 지우기(Clear)](./90-01-02-editx-13-clear.md)
+[90.1.2.13. 지우기(Clear)](./90-01-02-13-clear.md)
 
-[90.1.2.14. 전경색으로 채우기(Fill with FG Color)](./90-01-02-editx-14-fill_with_fg_color.md)
+[90.1.2.14. 전경색으로 채우기(Fill with FG Color)](./90-01-02-14-fill_with_fg_color.md)
 
-[90.1.2.15. 배경색으로 채우기(Fill with BG Color)](./90-01-02-editx-15-fill_with_bg_color.md)
+[90.1.2.15. 배경색으로 채우기(Fill with BG Color)](./90-01-02-15-fill_with_bg_color.md)
 
-[90.1.2.16. 무늬로 채우기(Fill with Pattern)](./90-01-02-editx-16-fill_with_pattern.md)
+[90.1.2.16. 무늬로 채우기(Fill with Pattern)](./90-01-02-16-fill_with_pattern.md)
 
-[90.1.2.17. 선택 영역 채우기(Fill Selection Outline)](./90-01-02-editx-17-fill_selection_outline.md)
+[90.1.2.17. 선택 영역 채우기(Fill Selection Outline)](./90-01-02-17-fill_selection_outline.md)
 
-[90.1.2.18. 경로 채우기(Fill Path)](./90-01-02-editx-18-fill_path.md)
+[90.1.2.18. 경로 채우기(Fill Path)](./90-01-02-18-fill_path.md)
 
-[90.1.2.19. 선택 영역 따라 그리기(Stroke Selection)](./90-01-02-editx-19-stroke_selection.md)
+[90.1.2.19. 선택 영역 따라 그리기(Stroke Selection)](./90-01-02-19-stroke_selection.md)
 
-[90.1.2.20. 경로 따라 그리기(Stroke Path)](./90-01-02-editx-20-stroke_path.md)
+[90.1.2.20. 경로 따라 그리기(Stroke Path)](./90-01-02-20-stroke_path.md)
 
-[90.1.2.21. 기본 설정(Preferences)](./90-01-02-editx-21-preferences.md)
+[90.1.2.21. 기본 설정(Preferences)](./90-01-02-21-preferences.md)
 
-[90.1.2.22. 입력장치(Input Devices)](./90-01-02-editx-22-input_devices.md)
+[90.1.2.22. 입력장치(Input Devices)](./90-01-02-22-input_devices.md)
 
-[90.1.2.23. 키보드 단축키(Keyboard Shortcuts)](./90-01-02-edit.md)
+[90.1.2.23. 키보드 단축키(Keyboard Shortcuts)](./90-01-02-00-edit.md)
 
-[90.1.2.24. 모듈(Modules)](./90-01-02-editx-24-modules.md)
+[90.1.2.24. 모듈(Modules)](./90-01-02-24-modules.md)
 
-[90.1.2.25. 단위(Units)](./90-01-02-editx-25-units.md)
+[90.1.2.25. 단위(Units)](./90-01-02-25-units.md)
 
 ## [90.1.3. 선택(Select)](./90-01-03-select.md)
 [<img width="1080" alt="90.1.3. 선택(Select)" src="https://github.com/wonder13662/gimp/assets/15767104/752b4ef7-9216-4e89-968e-319c4994fff3">](./90-01-03-select.md)

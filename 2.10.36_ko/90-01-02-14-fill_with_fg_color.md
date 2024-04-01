@@ -10,11 +10,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.2.15. 배경색으로 채우기(Fill with BG Color)](./90-01-02-editx-15-fill_with_bg_color.md)
+[➡️ 다음: 90.1.2.15. 배경색으로 채우기(Fill with BG Color)](./90-01-02-15-fill_with_bg_color.md)
 
-[⬅️ 이전: 90.1.2.13. 지우기(Clear)](./90-01-02-editx-13-clear.md)
+[⬅️ 이전: 90.1.2.13. 지우기(Clear)](./90-01-02-13-clear.md)
 
-[⬆️ 위: 90.1.2. 편집(Edit)](./90-01-02-edit.md)
+[⬆️ 위: 90.1.2. 편집(Edit)](./90-01-02-00-edit.md)
 
 [⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 

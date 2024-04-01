@@ -10,11 +10,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.2.17. 선택 영역 채우기(Fill Selection Outline)](./90-01-02-editx-17-fill_selection_outline.md)
+[➡️ 다음: 90.1.2.17. 선택 영역 채우기(Fill Selection Outline)](./90-01-02-17-fill_selection_outline.md)
 
-[⬅️ 이전: 90.1.2.15. 배경색으로 채우기(Fill with BG Color)](./90-01-02-editx-15-fill_with_bg_color.md)
+[⬅️ 이전: 90.1.2.15. 배경색으로 채우기(Fill with BG Color)](./90-01-02-15-fill_with_bg_color.md)
 
-[⬆️ 위: 90.1.2. 편집(Edit)](./90-01-02-edit.md)
+[⬆️ 위: 90.1.2. 편집(Edit)](./90-01-02-00-edit.md)
 
 [⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
