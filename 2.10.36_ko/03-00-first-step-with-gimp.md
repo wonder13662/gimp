@@ -66,6 +66,10 @@
 
 [3.5. 직선 그리기](./03-05-00-how-to-draw-straight-lines.md)
 
+[3.5.1. 목적](./03-05-01-intention.md)
+
+[3.5.2. 직선그리기 예제들](./03-05-02-examples.md)
+
 ## 다른 페이지로 가기
 [➡️ 다음: 4. What to do if you are stuck](./04-00-what-to-do-if-you-are-stuck.md)
 

@@ -329,7 +329,7 @@ module.exports = {
         '6. Getting images out of GIMP'
       ],
       [
-        '06-01-files.md', 
+        '06-01-00-files.md', 
         '6.1. Files'
       ],
       [

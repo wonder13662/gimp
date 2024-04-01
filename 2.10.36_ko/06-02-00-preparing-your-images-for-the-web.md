@@ -17,7 +17,7 @@ GIMP(김프)의 가장 일반적인 사용방법 중 하나는 웹사이트를 �
 
 [➡️ 다음: 6.2.1. 이미지의 최적 크기 및 화질 비율](./06-02-01-images-with-an-optimal-size-quality-ratio.md)
 
-[⬅️ 이전: 6.1.2.7. MNG로 이미지 내보내기](./06-01-filesx-02-file_formatsx-07-export_image_as_mng.md)
+[⬅️ 이전: 6.1.2.7. MNG로 이미지 내보내기](./06-01-02-07-export_image_as_mng.md)
 
 [⬆️ 위: 6. GIMP(김프)에서 이미지 내보내기](./06-00-getting-images-out-of-gimp.md)
 
