@@ -9,13 +9,13 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.5.5.5. 180도 회전(Rotate 180°)](./90-01-05-imagex-05-transformx-05-rotate_180.md)
+[➡️ 다음: 90.1.5.5.5. 180도 회전(Rotate 180°)](./90-01-05-05-05-rotate_180.md)
 
-[⬅️ 이전: 90.1.5.5.3. 시계방향으로 90도 회전(Rotate 90° clockwise)](./90-01-05-imagex-05-transformx-03-rotate_90_clockwise.md)
+[⬅️ 이전: 90.1.5.5.3. 시계방향으로 90도 회전(Rotate 90° clockwise)](./90-01-05-05-03-rotate_90_clockwise.md)
 
-[⬆️ 위: 90.1.5.5. 변형(Transform)](./90-01-05-imagex-05-transform.md)
+[⬆️ 위: 90.1.5.5. 변형(Transform)](./90-01-05-05-00-transform.md)
 
-[⬆️ 위: 90.1.5. 이미지(Image)](./90-01-05-image.md)
+[⬆️ 위: 90.1.5. 이미지(Image)](./90-01-05-00-image.md)
 
 [⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 

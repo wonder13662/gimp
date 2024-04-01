@@ -11,11 +11,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.5.12. 콘텐츠로 잘라내기(Crop to content)](./90-01-05-imagex-12-crop_to_content.md)
+[➡️ 다음: 90.1.5.12. 콘텐츠로 잘라내기(Crop to content)](./90-01-05-12-crop_to_content.md)
 
-[⬅️ 이전: 90.1.5.10. 이미지 크기조정(Scale Image)](./90-01-05-imagex-10-scale_image.md)
+[⬅️ 이전: 90.1.5.10. 이미지 크기조정(Scale Image)](./90-01-05-10-scale_image.md)
 
-[⬆️ 위: 90.1.5. 이미지(Image)](./90-01-05-image.md)
+[⬆️ 위: 90.1.5. 이미지(Image)](./90-01-05-00-image.md)
 
 [⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 

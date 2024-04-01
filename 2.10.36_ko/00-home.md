@@ -848,67 +848,67 @@
 
 [90.1.4.26. 상태표시줄 보이기(Show Statusbar)](./90-01-04-26-show_statusbar.md)
 
-[90.1.5. 이미지(Image)](./90-01-05-image.md)
+[90.1.5. 이미지(Image)](./90-01-05-00-image.md)
 
-[90.1.5.1. 복제(Duplicate)](./90-01-05-imagex-01-duplicate.md)
+[90.1.5.1. 복제(Duplicate)](./90-01-05-01-duplicate.md)
 
-[90.1.5.2. 모드(Mode)](./90-01-05-imagex-02-mode.md)
+[90.1.5.2. 모드(Mode)](./90-01-05-02-00-mode.md)
 
-[90.1.5.2.1. RGB(RGB)](./90-01-05-imagex-02-modex-01-rgb.md)
+[90.1.5.2.1. RGB(RGB)](./90-01-05-02-01-rgb.md)
 
-[90.1.5.2.2. 그레이스케일(Grayscale)](./90-01-05-imagex-02-modex-02-grayscale.md)
+[90.1.5.2.2. 그레이스케일(Grayscale)](./90-01-05-02-02-grayscale.md)
 
-[90.1.5.2.3. 인덱스(Indexed)](./90-01-05-imagex-02-modex-03-indexed.md)
+[90.1.5.2.3. 인덱스(Indexed)](./90-01-05-02-03-indexed.md)
 
-[90.1.5.3. 색상 관리(Color management)](./90-01-05-imagex-03-color_management.md)
+[90.1.5.3. 색상 관리(Color management)](./90-01-05-03-color_management.md)
 
-[90.1.5.4. 정밀도(Precision)](./90-01-05-imagex-04-precision.md)
+[90.1.5.4. 정밀도(Precision)](./90-01-05-04-precision.md)
 
-[90.1.5.5. 변형(Transform)](./90-01-05-imagex-05-transform.md)
+[90.1.5.5. 변형(Transform)](./90-01-05-05-00-transform.md)
 
-[90.1.5.5.1. 수평 뒤집기(Flip Horizontally)](./90-01-05-imagex-05-transformx-01-flip_horizontally.md)
+[90.1.5.5.1. 수평 뒤집기(Flip Horizontally)](./90-01-05-05-01-flip_horizontally.md)
 
-[90.1.5.5.2. 수직 뒤집기(Flip Vertically)](./90-01-05-imagex-05-transformx-02-flip_vertically.md)
+[90.1.5.5.2. 수직 뒤집기(Flip Vertically)](./90-01-05-05-02-flip_vertically.md)
 
-[90.1.5.5.3. 시계방향으로 90도 회전(Rotate 90° clockwise)](./90-01-05-imagex-05-transformx-03-rotate_90_clockwise.md)
+[90.1.5.5.3. 시계방향으로 90도 회전(Rotate 90° clockwise)](./90-01-05-05-03-rotate_90_clockwise.md)
 
-[90.1.5.5.4. 시계 반대방향으로 90도 회전(Rotate 90° counter-clockwise)](./90-01-05-imagex-05-transformx-04-rotate_90_counter_clockwise.md)
+[90.1.5.5.4. 시계 반대방향으로 90도 회전(Rotate 90° counter-clockwise)](./90-01-05-05-04-rotate_90_counter_clockwise.md)
 
-[90.1.5.5.5. 180도 회전(Rotate 180°)](./90-01-05-imagex-05-transformx-05-rotate_180.md)
+[90.1.5.5.5. 180도 회전(Rotate 180°)](./90-01-05-05-05-rotate_180.md)
 
-[90.1.5.5.6. 임의 각도 회전(Arbitrary Rotation)](./90-01-05-imagex-05-transformx-06-arbitrary_rotation.md)
+[90.1.5.5.6. 임의 각도 회전(Arbitrary Rotation)](./90-01-05-06-arbitrary_rotation.md)
 
-[90.1.5.6. 캔버스 크기(Canvas Size)](./90-01-05-imagex-06-canvas_size.md)
+[90.1.5.6. 캔버스 크기(Canvas Size)](./90-01-05-06-canvas_size.md)
 
-[90.1.5.7. 캔버스 크기를 레이어에 맞춥니다(Fit Canvas to Layers)](./90-01-05-imagex-07-fit_canvas_to_layers.md)
+[90.1.5.7. 캔버스 크기를 레이어에 맞춥니다(Fit Canvas to Layers)](./90-01-05-07-fit_canvas_to_layers.md)
 
-[90.1.5.8. 선택 영역에 캔버스 크기 맞추기(Fit Canvas to Selection)](./90-01-05-imagex-08-fit_canvas_to_selection.md)
+[90.1.5.8. 선택 영역에 캔버스 크기 맞추기(Fit Canvas to Selection)](./90-01-05-08-fit_canvas_to_selection.md)
 
-[90.1.5.9. 인쇄 크기(Print Size)](./90-01-05-imagex-09-print_size.md)
+[90.1.5.9. 인쇄 크기(Print Size)](./90-01-05-09-print_size.md)
 
-[90.1.5.10. 이미지 크기조정(Scale Image)](./90-01-05-imagex-10-scale_image.md)
+[90.1.5.10. 이미지 크기조정(Scale Image)](./90-01-05-10-scale_image.md)
 
-[90.1.5.11. 선택 영역 잘라내기(Crop to selection)](./90-01-05-imagex-11-crop_to_selection.md)
+[90.1.5.11. 선택 영역 잘라내기(Crop to selection)](./90-01-05-11-crop_to_selection.md)
 
-[90.1.5.12. 콘텐츠로 잘라내기(Crop to content)](./90-01-05-imagex-12-crop_to_content.md)
+[90.1.5.12. 콘텐츠로 잘라내기(Crop to content)](./90-01-05-12-crop_to_content.md)
 
-[90.1.5.13. 가이드로 잘라내기(Slice Using Guides)](./90-01-05-imagex-13-slice_using_guides.md)
+[90.1.5.13. 가이드로 잘라내기(Slice Using Guides)](./90-01-05-13-slice_using_guides.md)
 
-[90.1.5.14. 지능적으로 잘라내기(Zealous Crop)](./90-01-05-imagex-14-zealous_crop.md)
+[90.1.5.14. 지능적으로 잘라내기(Zealous Crop)](./90-01-05-14-zealous_crop.md)
 
-[90.1.5.15. 보이는 레이어 합치기(Merge Visible Layers)](./90-01-05-imagex-15-merge_visible_layers.md)
+[90.1.5.15. 보이는 레이어 합치기(Merge Visible Layers)](./90-01-05-15-merge_visible_layers.md)
 
-[90.1.5.16. 이미지 평탄화(Flatten Image)](./90-01-05-imagex-16-flatten_image.md)
+[90.1.5.16. 이미지 평탄화(Flatten Image)](./90-01-05-16-flatten_image.md)
 
-[90.1.5.17. 보이는 레이어 정렬(Align Visible Layers)](./90-01-05-imagex-17-align_visible_layers.md)
+[90.1.5.17. 보이는 레이어 정렬(Align Visible Layers)](./90-01-05-17-align_visible_layers.md)
 
-[90.1.5.18. 안내선(Guides)](./90-01-05-imagex-18-guides.md)
+[90.1.5.18. 안내선(Guides)](./90-01-05-18-guides.md)
 
-[90.1.5.19. 격자 설정(Configure Gird)](./90-01-05-imagex-19-configure_grid.md)
+[90.1.5.19. 격자 설정(Configure Gird)](./90-01-05-19-configure_grid.md)
 
-[90.1.5.20. 이미지 성질(Image Properties)](./90-01-05-imagex-20-image_properties.md)
+[90.1.5.20. 이미지 성질(Image Properties)](./90-01-05-20-image_properties.md)
 
-[90.1.5.21. 메타데이터(Metadata)](./90-01-05-imagex-21-metadata.md)
+[90.1.5.21. 메타데이터(Metadata)](./90-01-05-21-metadata.md)
 
 [90.1.6. 레이어(Layer)](./90-01-06-layer.md)
 
