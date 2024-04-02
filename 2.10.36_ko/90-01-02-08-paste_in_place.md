@@ -4,10 +4,6 @@
 
 ***
 
-## 관련 정보
-
-***
-
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.1.2.9. 선택영역에 붙여넣기(Paste Into Selection)](./90-01-02-09-paste_into_selection.md)

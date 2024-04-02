@@ -39,7 +39,9 @@ GIMP(김프)는 두 가지 유형의 팔레트를 씁니다.
 ## 5. 정리
 정리하자면, 일반적인 팔레트는 이미지를 인덱스 모드로 바꿀때 인덱스 색상표로 바꾸게 되며, 인덱스 색상표는 팔레트 대화상자에서 가져오기를 통해 일반적인 팔레트로 만들 수 있습니다.
 
-#### [영상 90.1.5.2.3.a101. 색상모드를 인덱스로 바꿔 색상표(Colormap) 대화상자 만들기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-05-imagex-02-modex-03-indexed.html#%EC%98%81%EC%83%81-901523a101-%EC%83%89%EC%83%81%EB%AA%A8%EB%93%9C%EB%A5%BC-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A1%9C-%EB%B0%94%EA%BF%94-%EC%83%89%EC%83%81%ED%91%9Ccolormap-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+<a id="90-01-05-02-03-a101"></a>
+
+#### [영상 90.1.5.2.3.a101. 색상모드를 인덱스로 바꿔 색상표(Colormap) 대화상자 만들기](./90-01-05-02-03-indexed.md#90-01-05-02-03-a101)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e1b86121-19a0-4830-b091-c3a2db7e6d72"></video>
 
 #### 영상 7.12.1.a1. `새 팔레트 가져오기` 대화상자 → `원본 선택`  → `이미지`로 인덱스 이미지의 팔레트 가져오기 (Windows) (우리말)

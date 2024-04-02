@@ -4,10 +4,6 @@
 
 ***
 
-## 관련 정보
-
-***
-
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.1.2.10. 지정한 좌표의 선택영역에 붙여넣기(Paste Into Selection In Place)](./90-01-02-10-paste_into_selection_in_place.md)

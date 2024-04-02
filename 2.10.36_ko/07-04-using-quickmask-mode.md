@@ -8,7 +8,9 @@
 
 4. 이미지창의 왼쪽 아래편의 버튼을 클릭해서 퀵마스크 모드를 끕니다. 이제 "선택"이 선택의 외곽선(행진하는 개미)로 보입니다.
 
-#### [영상 90.1.3.16.a113. 퀵마스크를 칠하기 도구로 수정하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-16-toggle_quick_mask.html#%EC%98%81%EC%83%81-901316a113-%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC%EB%A5%BC-%EC%B9%A0%ED%95%98%EA%B8%B0-%EB%8F%84%EA%B5%AC%EB%A1%9C-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0)
+<a id="90-01-03-16-a113"></a>
+
+#### [영상 90.1.3.16.a113. 퀵마스크를 칠하기 도구로 수정하기](./90-01-03-16-toggle_quick_mask.md#90-01-03-16-a113)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/44c82438-bb6a-426d-b9fd-453fcfb46906"></video>
 
 ***

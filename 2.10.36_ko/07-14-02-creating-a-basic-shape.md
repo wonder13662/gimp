@@ -4,10 +4,14 @@ GIMP(김프)는 그리기에 적합한 도구는 아닙니다. 그러나, 선택
 ## 1. 새로운 이미지 만들기
 새로운 이미지를 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 [`파일` → `새 이미지`](./16-02-02-new.md) 메뉴를 선택합니다.
 
-#### [그림 90.1.1.1.a101. `파일` → `새 이미지`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-01-new.html#%EA%B7%B8%EB%A6%BC-90111a101-%ED%8C%8C%EC%9D%BC--%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80)
-[![그림 90.1.1.1.a101. `파일` → `새 이미지`](https://github.com/wonder13662/gimp/assets/15767104/116f6c42-66d8-47ae-8877-9e49d80dc431)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-01-new.html#%EA%B7%B8%EB%A6%BC-90111a101-%ED%8C%8C%EC%9D%BC--%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80)
+<a id="90-01-01-01-a101"></a>
 
-#### [영상 90.1.1.1.a111. 새 이미지 만들기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-01-new.html#%EC%98%81%EC%83%81-90111a111-%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+#### [그림 90.1.1.1.a101. `파일` → `새 이미지`](./90-01-01-01-new.md#90-01-01-01-a101)
+![그림 90.1.1.1.a101. `파일` → `새 이미지`](https://github.com/wonder13662/gimp/assets/15767104/116f6c42-66d8-47ae-8877-9e49d80dc431)
+
+<a id="90-01-01-01-a111"></a>
+
+#### [영상 90.1.1.1.a111. 새 이미지 만들기](./90-01-01-01-new.md#90-01-01-01-a111)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/028b4f82-b28c-4c2d-96b3-76ab15e9c09a"></video>
 
 ## 2. 전경색과 배경색 확인
@@ -42,8 +46,10 @@ GIMP(김프)는 그리기에 적합한 도구는 아닙니다. 그러나, 선택
 
 그리고 그 뒤에 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `선택` → `없음` 메뉴를 선택해서 선택을 없앱니다.
 
-#### [그림 90.1.3.2.a101. `선택` → `없음`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-02-none.html#%EA%B7%B8%EB%A6%BC-90132a101-%EC%84%A0%ED%83%9D--%EC%97%86%EC%9D%8C)
-[![그림 90.1.3.2.a101. `선택` → `없음`](https://github.com/wonder13662/gimp/assets/15767104/bf711fb1-5309-4a8d-bdb0-a698aea8c0d7)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-02-none.html#%EA%B7%B8%EB%A6%BC-90132a101-%EC%84%A0%ED%83%9D--%EC%97%86%EC%9D%8C)
+<a id="90-01-03-02-a101"></a>
+
+#### [그림 90.1.3.2.a101. `선택` → `없음`](./90-01-03-02-none.md#90-01-03-02-a101)
+![그림 90.1.3.2.a101. `선택` → `없음`](https://github.com/wonder13662/gimp/assets/15767104/bf711fb1-5309-4a8d-bdb0-a698aea8c0d7)
 
 ***
 

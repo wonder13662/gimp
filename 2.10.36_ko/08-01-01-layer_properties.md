@@ -100,8 +100,10 @@
 #### 그림 8.1.1.a4. 알파 채널 예제: 세 개의 투명한 레이어가 있는 경우
 ![08-01-01-alpha_channel-04-three_transparent_layer(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/946ccf9f-1cc6-4dbe-988f-a5e740a0a3c2)
 
-#### [그림 90.1.2.13.a101. `편집` → `지우기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-13-clear.html#%EA%B7%B8%EB%A6%BC-901213a101-%ED%8E%B8%EC%A7%91--%EC%A7%80%EC%9A%B0%EA%B8%B0)
-[![90-00-image_menu_bar-edit(w1080)-focus-clear](https://github.com/wonder13662/gimp/assets/15767104/194a7e4a-e39b-42bf-9921-222a15ed6166)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-13-clear.html#%EA%B7%B8%EB%A6%BC-901213a101-%ED%8E%B8%EC%A7%91--%EC%A7%80%EC%9A%B0%EA%B8%B0)
+<a id="90-01-02-13-a101"></a>
+
+#### [그림 90.1.2.13.a101. `편집` → `지우기`](./90-01-02-13-clear.md#90-01-02-13-a101)
+![90-00-image_menu_bar-edit(w1080)-focus-clear](https://github.com/wonder13662/gimp/assets/15767104/194a7e4a-e39b-42bf-9921-222a15ed6166)
 
 ### 2-8. 알파 채널 예제: 배경레이어에 알파 채널을 추가한 경우
 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `레이어` → `투명도` → `알파 채널 추가`를 배경 레이어에 적용했습니다.

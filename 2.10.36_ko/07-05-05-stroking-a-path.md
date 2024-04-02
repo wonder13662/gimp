@@ -4,10 +4,14 @@
 ## 이미지 메뉴 바의 `편집` → `경로 따라 그리기`
 이미지 메뉴 바의 `편집` → `경로 따라 그리기`을 선택합니다.
 
-#### [그림 90.1.2.20.a101. `편집` - `경로 따라 그리기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-20-stroke_path.html#%EA%B7%B8%EB%A6%BC-901220a101-%ED%8E%B8%EC%A7%91---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
-[![90-00-image_menu_bar-edit-focus-stroke_path(w1080)](https://github.com/wonder13662/gimp/assets/15767104/d4b34f6b-d4da-41f2-aa6e-128ba1125b7d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-20-stroke_path.html#%EA%B7%B8%EB%A6%BC-901220a101-%ED%8E%B8%EC%A7%91---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
+<a id="90-01-02-20-a101"></a>
 
-#### [그림 90.1.2.20.a102. `편집` - `경로 따라 그리기`로 선 그리기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-20-stroke_path.html#%EA%B7%B8%EB%A6%BC-901220a102-%ED%8E%B8%EC%A7%91---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0%EB%A1%9C-%EC%84%A0-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
+#### [그림 90.1.2.20.a101. `편집` → `경로 따라 그리기`](./90-01-02-20-stroke_path.md#90-01-02-20-a101)
+![90-00-image_menu_bar-edit-focus-stroke_path(w1080)](https://github.com/wonder13662/gimp/assets/15767104/d4b34f6b-d4da-41f2-aa6e-128ba1125b7d)
+
+<a id="90-01-02-20-a102"></a>
+
+#### [그림 90.1.2.20.a102. `편집` → `경로 따라 그리기`로 선 그리기](./90-01-02-20-stroke_path.md#90-01-02-20-a102)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4248aea3-b002-4970-9f06-1c9b00c961eb"></video>
 
 ## 경로 대화상자의 팝업 메뉴 - `경로 따라 그리기`

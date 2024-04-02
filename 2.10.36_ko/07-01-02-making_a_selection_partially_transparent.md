@@ -16,8 +16,10 @@
 ## 떠있는 선택(floating selection) 사용하기
 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `선택` → `띄우기`는 떠있는 선택(floating selection)을 만듭니다. 이 명령은 [`떠있는 선택(floating selection)`](./16-04-05-float.md)이라고 하는 새로운 레이어를 만듭니다. 
 
-#### [그림 90.1.3.4.a101. `선택` → `띄우기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-04-float.html#%EA%B7%B8%EB%A6%BC-90134a101-%EC%84%A0%ED%83%9D--%EB%9D%84%EC%9A%B0%EA%B8%B0)
-[![그림 90.1.3.4.a101. `선택` → `띄우기`](https://github.com/wonder13662/gimp/assets/15767104/8080d2be-dc54-4cf0-80ed-e13dfdacfb9a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-03-selectx-04-float.html#%EA%B7%B8%EB%A6%BC-90134a101-%EC%84%A0%ED%83%9D--%EB%9D%84%EC%9A%B0%EA%B8%B0)
+<a id="90-01-03-04-a101"></a>
+
+#### [그림 90.1.3.4.a101. `선택` → `띄우기`](./90-01-03-04-float.md#90-01-03-04-a101)
+![그림 90.1.3.4.a101. `선택` → `띄우기`](https://github.com/wonder13662/gimp/assets/15767104/8080d2be-dc54-4cf0-80ed-e13dfdacfb9a)
 
 레이어 대화상자의 투명도 슬라이더를 조정해서 원하는 투명도로 만들 수 있습니다.
 
@@ -124,13 +126,19 @@
 
 ⚠️ 주의: 알파 채널이 없는 상태에서 지우기를 하면, 지운 부분이 배경색으로 채워집니다.
 
-#### [그림 90.1.2.13.a101. `편집` → `지우기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-13-clear.html#%EA%B7%B8%EB%A6%BC-901213a101-%ED%8E%B8%EC%A7%91--%EC%A7%80%EC%9A%B0%EA%B8%B0)
-[![90-00-image_menu_bar-edit(w1080)-focus-clear](https://github.com/wonder13662/gimp/assets/15767104/194a7e4a-e39b-42bf-9921-222a15ed6166)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-13-clear.html#%EA%B7%B8%EB%A6%BC-901213a101-%ED%8E%B8%EC%A7%91--%EC%A7%80%EC%9A%B0%EA%B8%B0)
+<a id="90-01-02-13-a101"></a>
 
-#### [영상 90.1.2.13.a102. 알파 채널없이 선택 영역 지우기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-13-clear.html#%EC%98%81%EC%83%81-901213a102-%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90%EC%97%86%EC%9D%B4-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD-%EC%A7%80%EC%9A%B0%EA%B8%B0)
+#### [그림 90.1.2.13.a101. `편집` → `지우기`](./90-01-02-13-clear.md#90-01-02-13-a101)
+![90-00-image_menu_bar-edit(w1080)-focus-clear](https://github.com/wonder13662/gimp/assets/15767104/194a7e4a-e39b-42bf-9921-222a15ed6166)
+
+<a id="90-01-02-13-a102"></a>
+
+#### [영상 90.1.2.13.a102. 알파 채널없이 선택 영역 지우기](./90-01-02-13-clear.md#90-01-02-13-a102)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5842da0e-e8a3-439f-b2fa-275e268841e7"></video>
 
-#### [영상 90.1.2.13.a103. 알파 채널을 추가한 뒤 선택 영역 지우기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-13-clear.html#%EC%98%81%EC%83%81-901213a103-%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90%EC%9D%84-%EC%B6%94%EA%B0%80%ED%95%9C-%EB%92%A4-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD-%EC%A7%80%EC%9A%B0%EA%B8%B0)
+<a id="90-01-02-13-a103"></a>
+
+#### [영상 90.1.2.13.a103. 알파 채널을 추가한 뒤 선택 영역 지우기](./90-01-02-13-clear.md#90-01-02-13-a103)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1964123e-fecc-47b3-acca-8cb10f36673d"></video>
 
 ***

@@ -2,8 +2,10 @@
 
 [이미지 메뉴 바](./90-01-00-image-menu-bar.md)를 통해 이미지 파일을 열 수 있습니다. [이미지 메뉴 바](./90-01-00-image-menu-bar.md)의 `파일` → `열기`를 눌러 `이미지 열기` 대화상자를 엽니다.
 
-#### [그림 90.1.1.3.a101. `파일` → `열기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-03-open.html#%EA%B7%B8%EB%A6%BC-90113a101-%ED%8C%8C%EC%9D%BC--%EC%97%B4%EA%B8%B0)
-[![90-01-01-file-export_as(w1080)-focus-open](https://github.com/wonder13662/gimp/assets/15767104/2c3f68e7-4733-4bcb-82ec-2b732860a4e7)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-03-open.html#%EA%B7%B8%EB%A6%BC-90113a101-%ED%8C%8C%EC%9D%BC--%EC%97%B4%EA%B8%B0)
+<a id="90-01-01-03-a101"></a>
+
+#### [그림 90.1.1.3.a101. `파일` → `열기`](./90-01-01-03-open.md#90-01-01-03-a101)
+![90-01-01-file-export_as(w1080)-focus-open](https://github.com/wonder13662/gimp/assets/15767104/2c3f68e7-4733-4bcb-82ec-2b732860a4e7)
 
 `이미지 열기` 대화상자에서 파일을 탐색할 수 있습니다. 그리고 파일 이름을 클릭해서 파일을 GIMP(김프)에서 엽니다. `이미지 열기` 대화상자에서 미리보기(Preview) 영역이 있기는 하지만, 찾는 이미지를 확인하기에는 편리하지 않습니다.
 

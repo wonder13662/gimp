@@ -4,10 +4,6 @@
 
 ***
 
-## 관련 정보
-
-***
-
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.1.2.17. 선택 영역 채우기(Fill Selection Outline)](./90-01-02-17-fill_selection_outline.md)

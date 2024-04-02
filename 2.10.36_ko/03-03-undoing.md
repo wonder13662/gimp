@@ -2,13 +2,17 @@
 
 GIMP에서 이미지에 작업한 대부분의 일은 취소할 수 있습니다. 가장 최근에 한 작업을 취소하려면 이미지 메뉴에서 `편집` → `실행 취소`를 선택하거나 단축키 Ctrl + `z`(Windows) or ⌘ + `z`(Mac)을 사용합니다.
 
-#### [그림 90.1.2.1.a101. `편집` - `실행 취소`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-01-undo.html#%EA%B7%B8%EB%A6%BC-90121a101-%ED%8E%B8%EC%A7%91---%EC%8B%A4%ED%96%89-%EC%B7%A8%EC%86%8C)
-[![`편집` → `실행 취소`](https://github.com/wonder13662/gimp/assets/15767104/36cf9d75-c1b8-435c-980a-e553994883b7)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-01-undo.html#%EA%B7%B8%EB%A6%BC-90121a101-%ED%8E%B8%EC%A7%91---%EC%8B%A4%ED%96%89-%EC%B7%A8%EC%86%8C)
+<a id="90-01-02-01-a101"></a>
+
+#### [그림 90.1.2.1.a101. `편집` - `실행 취소`](./90-01-02-01-undo.md#90-01-02-01-a101)
+![`편집` → `실행 취소`](https://github.com/wonder13662/gimp/assets/15767104/36cf9d75-c1b8-435c-980a-e553994883b7)
 
 실행 취소 또한 취소할 수 있는데, 이것은 실행 취소를 한 다음에 이미지 메뉴에서 `편집` → `재실행`을 선택하거나 단축키 Ctrl + `y`(Windows) or ⌘ + `y`(Mac)를 누르면 됩니다.
 
-#### [그림 90.1.2.2.a101. `편집` - `재실행`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-02-redo.html#%EA%B7%B8%EB%A6%BC-90122a101-%ED%8E%B8%EC%A7%91---%EC%9E%AC%EC%8B%A4%ED%96%89)
-[![90-00-image_menu_bar-edit(w1080)-focus-redo](https://github.com/wonder13662/gimp/assets/15767104/519863ec-8348-4b05-b52f-bd74788e09de)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-02-editx-02-redo.html#%EA%B7%B8%EB%A6%BC-90122a101-%ED%8E%B8%EC%A7%91---%EC%9E%AC%EC%8B%A4%ED%96%89)
+<a id="90-01-02-02-a101"></a>
+
+#### [그림 90.1.2.2.a101. `편집` - `재실행`](./90-01-02-02-redo.md#90-01-02-02-a101)
+![90-00-image_menu_bar-edit(w1080)-focus-redo](https://github.com/wonder13662/gimp/assets/15767104/519863ec-8348-4b05-b52f-bd74788e09de)
 
 실행 취소와 재실행은 종종 특정 작업의 효과를 확인하기 위해 사용됩니다. 이는 대체로 빠르고, 추가적인 리소스도 필요하지 않고, 실행취소 이력에 어떠한 영향도 주지 않기 때문에 여러번 반복해도 괜찮습니다.
 
@@ -56,25 +60,35 @@ GIMP의 실행 취소 기능으로 아주 작은 실행 취소 메모리만으�
 ### 3.3.1.1. 이미지 닫기
 "실행 취소 기록"이 이미지를 구성하는 정보이지만, 이미지가 닫히고 이미지의 모든 리소스가 해제되면, "실행 취소 기록"은 사라집니다. 그러므로 마지막으로 저장한 이후로 이미지가 바뀌었다면, GIMP는 이미지를 정말 닫을 것인지 사용자에게 반드시 확인합니다.
 
-#### [그림 90.1.1.20.a101. `파일(File)` → `이미지 닫기(Close View)` 메뉴의 위치](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-20-close_view.html#%EA%B7%B8%EB%A6%BC-901120a101-%ED%8C%8C%EC%9D%BCfile--%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8B%AB%EA%B8%B0close-view-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
-[![90-01-01-file-export_as(w1080)-focus-close_view](https://github.com/wonder13662/gimp/assets/15767104/1bda99cb-780b-42b8-b770-44e3b761c9ea)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-20-close_view.html#%EA%B7%B8%EB%A6%BC-901120a101-%ED%8C%8C%EC%9D%BCfile--%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8B%AB%EA%B8%B0close-view-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
+<a id="90-01-01-20-a101"></a>
 
-#### [영상 90.1.1.20.a102. 바뀐 이미지의 “이미지 닫기(Close View)”의 실행여부 확인](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-20-close_view.html#%EC%98%81%EC%83%81-901120a102-%EB%B0%94%EB%80%90-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8B%AB%EA%B8%B0close-view%EC%9D%98-%EC%8B%A4%ED%96%89%EC%97%AC%EB%B6%80-%ED%99%95%EC%9D%B8)
+#### [그림 90.1.1.20.a101. `파일(File)` → `이미지 닫기(Close View)` 메뉴의 위치](./90-01-01-20-close_view.md#90-01-01-20-a101)
+![90-01-01-file-export_as(w1080)-focus-close_view](https://github.com/wonder13662/gimp/assets/15767104/1bda99cb-780b-42b8-b770-44e3b761c9ea)
+
+<a id="90-01-01-20-a102"></a>
+
+#### [영상 90.1.1.20.a102. 바뀐 이미지의 “이미지 닫기(Close View)”의 실행여부 확인](./90-01-01-20-close_view.md#90-01-01-20-a102)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/00f55691-d4a1-42d3-90a4-f3c8c75f50b3"></video>
 
 ### 3.3.1.2. 이미지 원래대로 만들기
 "원래대로" 라는 것은 이미지를 파일로부터 다시 읽어들이는 것을 말합니다. GIMP에서 이 메뉴를 실행시키면, 현재 이미지를 닫고 새로 이미지를 엽니다. 따라서 "실행 취소 기록"은 모두 사라지게 됩니다. 그리고 이미지가 바뀌었다면 "원래대로"를 실행하기 전에 항상 실행 여부를 확인합니다. 
 
-#### [그림 90.1.1.10.a101. `파일(File)` → `원래대로(Revert)` 메뉴의 위치](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-10-revert.html#%EA%B7%B8%EB%A6%BC-901110a101-%ED%8C%8C%EC%9D%BCfile--%EC%9B%90%EB%9E%98%EB%8C%80%EB%A1%9Crevert-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
-[![90-01-01-file-export_as(w1080)-focus-revert](https://github.com/wonder13662/gimp/assets/15767104/b7170e9a-6879-4bfc-9712-e188bf1dadec)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-10-revert.html#%EA%B7%B8%EB%A6%BC-901110a101-%ED%8C%8C%EC%9D%BCfile--%EC%9B%90%EB%9E%98%EB%8C%80%EB%A1%9Crevert-%EB%A9%94%EB%89%B4%EC%9D%98-%EC%9C%84%EC%B9%98)
+<a id="90-01-01-10-a101"></a>
 
-#### [영상 90.1.1.10.a102. 바뀐 이미지의 "원래대로(Revert)"의 실행여부 확인](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-10-revert.html#%EC%98%81%EC%83%81-901110a102-%EB%B0%94%EB%80%90-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EC%9B%90%EB%9E%98%EB%8C%80%EB%A1%9Crevert%EC%9D%98-%EC%8B%A4%ED%96%89%EC%97%AC%EB%B6%80-%ED%99%95%EC%9D%B8)
+#### [그림 90.1.1.10.a101. `파일(File)` → `원래대로(Revert)` 메뉴의 위치](./90-01-01-10-revert.md#90-01-01-10-a101)
+![90-01-01-file-export_as(w1080)-focus-revert](https://github.com/wonder13662/gimp/assets/15767104/b7170e9a-6879-4bfc-9712-e188bf1dadec)
+
+<a id="90-01-01-10-a102"></a>
+
+#### [영상 90.1.1.10.a102. 바뀐 이미지의 "원래대로(Revert)"의 실행여부 확인](./90-01-01-10-revert.md#90-01-01-10-a102)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/260e4946-a74b-40bc-9125-c9f9c184862c"></video>
 
 ### 3.3.1.3. 동작의 "일부분"
 어떤 도구들은 해당 도구를 사용하기 위해 복잡한 편집과정들 거쳐야 합니다. 이런 경우 그 각각의 과정들에 대해서는 실행 취소를 할 수 없고, 오직 전체 과정에 대한 실행 취소만 할 수 있습니다. 예를 들어 "가위 선택 영역 도구(scissors select)" 도구는 이미지 위의 여러 지점을 찍어 폐쇄된 경로를 만들고, 그 내부를 클릭해서 선택을 만듭니다. 이 상태에서 실행 취소를 하면 바로 직전에 한 클릭이 아닌 "가위 선택 영역 도구(scissors select)"를 시작한 처음 지점으로 돌아갑니다.
 
-#### [영상 90.1.1.10.a103. "가위 선택 영역 도구(scissors select)"의 실행 취소](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-01-filex-10-revert.html#%EC%98%81%EC%83%81-901110a103-%EA%B0%80%EC%9C%84-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD-%EB%8F%84%EA%B5%ACscissors-select%EC%9D%98-%EC%8B%A4%ED%96%89-%EC%B7%A8%EC%86%8C)
+<a id="90-01-01-10-a103"></a>
+
+#### [영상 90.1.1.10.a103. "가위 선택 영역 도구(scissors select)"의 실행 취소](./90-01-01-10-revert.md#90-01-01-10-a103)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4d945d9f-f551-4056-be54-7189b72dbf77"></video>
 
 플러그인이나 스크립트로 실행된 필터나 다른 작업들 역시 GIMP에서 직접 실행된 작업들처럼 실행 취소를 할 수 있습니다. 단, 해당 플러그인이나 필터에서 김프의 실행 취소 기능을 정확히 사용했을 때만 가능합니다. 그렇지 않으면 GIMP의 실행 취소 기능과 충돌을 일으켜 해당 작업뿐만 아니라 그 전의 작업들마저도 취소할 수 없는 일이 발생될 수 있습니다. GIMP에 포함되어 배포되는 플러그인이나 스크립트를 제외한 다른 경로로 설치한 플러그인이나 스크립트의 경우에 이런 문제가 발생할 수 있습니다. 또한 코드가 정확하더라도 해당 플러그인이 동작하는 중간에 취소를 하는 경우, 실행 취소 이력에 문제가 생길 수도 있습니다. 따라서 순차적으로 진행되는 과정 중간에 종료하지 않는 것이 이러한 문제를 피하는 최선의 방법입니다.
