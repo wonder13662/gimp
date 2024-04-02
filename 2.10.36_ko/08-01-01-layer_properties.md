@@ -108,8 +108,12 @@
 ### 2-8. 알파 채널 예제: 배경레이어에 알파 채널을 추가한 경우
 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `레이어` → `투명도` → `알파 채널 추가`를 배경 레이어에 적용했습니다.
 
-#### [그림 90.1.6.9.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-09-transparencyx-01-add_alpha_channel.html#%EA%B7%B8%EB%A6%BC-901691a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%88%AC%EB%AA%85--%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EA%B0%80-windows)
-[![그림 90.1.6.9.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3fb3ad7c-4a41-492e-9797-bed56dc9d936)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-09-transparencyx-01-add_alpha_channel.html#%EA%B7%B8%EB%A6%BC-901691a101-%EB%A0%88%EC%9D%B4%EC%96%B4--%ED%88%AC%EB%AA%85--%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EA%B0%80-windows)
+<a id="90-01-06-09-01-a101"></a>
+
+#### [그림 90.1.6.9.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](./90-01-06-09-01-add_alpha_channel.md#90-01-06-09-01-a101)
+![그림 90.1.6.9.1.a101. `레이어` → `투명` → `알파 채널 추가` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/3fb3ad7c-4a41-492e-9797-bed56dc9d936)
+
+[다른 운영체제와 언어의 `레이어` → `투명` → `알파 채널 추가` 대화상자 확인하기](./90-01-06-09-01-add_alpha_channel.md#90-01-06-09-01-a102)
 
 이제 이미지의 왼쪽 부분은 완전히 투명합니다. [채널 대화상자](./15-02-02-00-channel-dialog.md)의 알파 채널의 왼쪽 부분 미리보기는 검은색(투명)입니다.
 

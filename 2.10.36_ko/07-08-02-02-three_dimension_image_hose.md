@@ -26,8 +26,10 @@
 
 레이어를 복사합니다. 복사한 레이어만 보이도록 합니다. 복사한 레이어를 선택한 다음, [이미지 메뉴 바](./03-02-02-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `레이어` → `변형` → `시계 방향으로 90도 회전`을 선택하여 90° 회전을 시켜줍니다. 그리고 레이어의 이름을 "handL90k"로 바꿔줍니다. 
 
-#### [그림 90.1.6.10.a3. `레이어` → `변형` → `시계 방향으로 90도 회전` (windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-10-transform.html#%EA%B7%B8%EB%A6%BC-901610a3-%EB%A0%88%EC%9D%B4%EC%96%B4---%EB%B3%80%ED%98%95-windows---%EC%8B%9C%EA%B3%84-%EB%B0%A9%ED%96%A5%EC%9C%BC%EB%A1%9C-90%EB%8F%84-%ED%9A%8C%EC%A0%84)
-[![90-01-06-layerx-04-transform(우리말)(windows)-focus-rotate_90_clockwise](https://github.com/wonder13662/gimp/assets/15767104/1b35693a-4884-465c-a73f-f542de620b26)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-10-transform.html#%EA%B7%B8%EB%A6%BC-901610a3-%EB%A0%88%EC%9D%B4%EC%96%B4---%EB%B3%80%ED%98%95-windows---%EC%8B%9C%EA%B3%84-%EB%B0%A9%ED%96%A5%EC%9C%BC%EB%A1%9C-90%EB%8F%84-%ED%9A%8C%EC%A0%84)
+<a id="90-01-06-10-a3"></a>
+
+#### [그림 90.1.6.10.a3. `레이어` → `변형` → `시계 방향으로 90도 회전` (windows) (우리말)](./90-01-06-10-transform.md#90-01-06-10-a3)
+![90-01-06-layerx-04-transform(우리말)(windows)-focus-rotate_90_clockwise](https://github.com/wonder13662/gimp/assets/15767104/1b35693a-4884-465c-a73f-f542de620b26)
 
 레이어를 복제해서 90도씩 회전시키는 작업을 반복해서 "handL180k" 그리고 "hand270k"를 만듭니다.
 
@@ -39,8 +41,10 @@
 
 "handL0k" 레이어를 복제하고 새로 복제한 레이어만 보이게 합니다. 레이어 이름을 "handR0k"로 바꾸고, [이미지 메뉴 바](./03-02-02-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `레이어` → `변형` → `수평 뒤집기`를 선택하여 적용합니다.
 
-#### [그림 90.1.6.10.a4. `레이어` → `변형` → `수평 뒤집기` (windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-10-transform.html#%EA%B7%B8%EB%A6%BC-901610a4-%EB%A0%88%EC%9D%B4%EC%96%B4--%EB%B3%80%ED%98%95--%EC%88%98%ED%8F%89-%EB%92%A4%EC%A7%91%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-01-06-layerx-04-transform(우리말)(windows)-focus-flip_horizontal](https://github.com/wonder13662/gimp/assets/15767104/0e4cf75c-c78d-48a3-aec8-d12f874e300a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-10-transform.html#%EA%B7%B8%EB%A6%BC-901610a4-%EB%A0%88%EC%9D%B4%EC%96%B4--%EB%B3%80%ED%98%95--%EC%88%98%ED%8F%89-%EB%92%A4%EC%A7%91%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-01-06-10-a4"></a>
+
+#### [그림 90.1.6.10.a4. `레이어` → `변형` → `수평 뒤집기` (windows) (우리말)](./90-01-06-10-transform.md#90-01-06-10-a4)
+![90-01-06-layerx-04-transform(우리말)(windows)-focus-flip_horizontal](https://github.com/wonder13662/gimp/assets/15767104/0e4cf75c-c78d-48a3-aec8-d12f874e300a)
 
 다른 왼손 레이어에 대해서도 같은 작업을 반복하여 오른손 레이어를 만듭니다.
 
@@ -54,8 +58,10 @@
 
 "handL0k" 레이어를 선택하고 보이도록 설정합니다. [이미지 메뉴 바](./03-02-02-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `이미지` → `캔버스 크기`를 선택해 캔버스 크기를 60x30 픽셀로 변경합니다.
 
-#### [그림 90.1.5.6.a101. `이미지` → `캔버스 크기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-05-imagex-06-canvas_size.html#%EA%B7%B8%EB%A6%BC-90156a101-%EC%9D%B4%EB%AF%B8%EC%A7%80--%EC%BA%94%EB%B2%84%EC%8A%A4-%ED%81%AC%EA%B8%B0)
-[![90-01-05-image(1080)-focus-canvas_size](https://github.com/wonder13662/gimp/assets/15767104/8c5ef4cb-a978-4950-b033-e576e342931f)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-05-imagex-06-canvas_size.html#%EA%B7%B8%EB%A6%BC-90156a101-%EC%9D%B4%EB%AF%B8%EC%A7%80--%EC%BA%94%EB%B2%84%EC%8A%A4-%ED%81%AC%EA%B8%B0)
+<a id="90-01-05-06-a101"></a>
+
+#### [그림 90.1.5.6.a101. `이미지` → `캔버스 크기`](./90-01-05-06-canvas_size.md#90-01-05-06-a101)
+![90-01-05-image(1080)-focus-canvas_size](https://github.com/wonder13662/gimp/assets/15767104/8c5ef4cb-a978-4950-b033-e576e342931f)
 
 이동 도구를 선택합니다. 이동 도구의 도구 옵션(Tool Options)의 대화상자의 `도구 전환(Tool Toggle)`의 `현재 레이어 이동(Move the active layer)`을 선택합니다. 
 

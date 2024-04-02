@@ -5,8 +5,11 @@
 경로 도구를 선택합니다. 아래 방법 중 하나를 선택해주세요.
 
 ### 1. 이미지 메뉴바의 `도구` → `경로` 선택
-#### [그림 90.1.8.4.a101. `도구` → `경로`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-04-paths.html#%EA%B7%B8%EB%A6%BC-90184a101-%EB%8F%84%EA%B5%AC--%EA%B2%BD%EB%A1%9C)
-[![90-01-08-tools(1080)-focus-paths](https://github.com/wonder13662/gimp/assets/15767104/724c198c-17ce-441b-ad81-56b4e9155759)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-04-paths.html#%EA%B7%B8%EB%A6%BC-90184a101-%EB%8F%84%EA%B5%AC--%EA%B2%BD%EB%A1%9C)
+
+<a id="90-01-08-04-a101"></a>
+
+#### [그림 90.1.8.4.a101. `도구` → `경로`](./90-01-08-04-paths.md#90-01-08-04-a101)
+![90-01-08-tools(1080)-focus-paths](https://github.com/wonder13662/gimp/assets/15767104/724c198c-17ce-441b-ad81-56b4e9155759)
 
 ### 2. 도구 상자에서 `경로` 선택
 #### [그림 90.3.2.35.a2. 도구상자 - 경로](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EA%B2%BD%EB%A1%9C)

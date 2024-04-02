@@ -14,7 +14,9 @@
 #### 그림 90.4.36.a104. `레이어 크기 조정` 대화상자 (Mac) (영어)
 ![90-04-36-scale_layer(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/a27e270f-09eb-4b91-af95-a62fbbbe19eb)
 
-#### [영상 90.1.6.13.a102. '레이어 크기 조정(Scale Layer)' 사용하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-13-scale_layer.html#%EC%98%81%EC%83%81-901613a102-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%95scale-layer-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+<a id="90-01-06-13-a102"></a>
+
+#### [영상 90.1.6.13.a102. '레이어 크기 조정(Scale Layer)' 사용하기](./90-01-06-13-scale_layer.md#90-01-06-13-a102)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8fe93a42-c805-4b1a-8b15-2d1765da17f4"></video>
 
 ***

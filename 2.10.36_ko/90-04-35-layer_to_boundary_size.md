@@ -14,7 +14,9 @@
 #### 그림 90.4.35.a104. `레이어 경계 크기` 대화상자 (Mac) (영어)
 ![90-04-35-layer_to_boundary_size(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/e6296abd-ccb8-4ae1-a90c-b4db8ef0272f)
 
-#### [영상 90.1.6.11.a102. '레이어 경계 크기(Layer Boundary Size)' 사용하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-11-layer_boundary_size.html#%EC%98%81%EC%83%81-901611a102-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B2%BD%EA%B3%84-%ED%81%AC%EA%B8%B0layer-boundary-size-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+<a id="90-01-06-11-a102"></a>
+
+#### [영상 90.1.6.11.a102. '레이어 경계 크기(Layer Boundary Size)' 사용하기](./90-01-06-11-layer_boundary_size.md#90-01-06-11-a102)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c9c8062e-5035-49db-8ddf-5272b6a17b9a"></video>
 
 ***

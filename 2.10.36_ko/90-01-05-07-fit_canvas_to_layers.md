@@ -5,10 +5,6 @@
 
 ***
 
-## 관련 정보
-
-***
-
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.1.5.8. 선택 영역에 캔버스 크기 맞추기(Fit Canvas to Selection)](./90-01-05-08-fit_canvas_to_selection.md)

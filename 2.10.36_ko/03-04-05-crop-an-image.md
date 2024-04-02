@@ -10,15 +10,19 @@
 # 3.4.5.1. 이미지 잘라내기 메뉴 사용하기
 이런 경우를 위한 잘라내기 도구를 사용하려면 도구 상자에 있는 아이콘을 누르거나, 이미지 창의 메뉴 모음에서 `도구` → `변형 도구` → `잘라내기`를 선택합니다. 그러면 마우스 커서가 사각형 모양으로 바뀌면서 이미지를 잘라낼 수 있게 됩니다.
 
-#### [그림 90.1.8.3.3.a101. `도구` → `변형 도구` → `잘라내기` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-03-transform_toolsx-03-crop.html#%EA%B7%B8%EB%A6%BC-901833a101-%EB%8F%84%EA%B5%AC--%EB%B3%80%ED%98%95-%EB%8F%84%EA%B5%AC--%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-windows)
-[![그림 90.1.8.3.3.a101. `도구` → `변형 도구` → `잘라내기` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/df066931-8457-4197-befd-95356b2212cf)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-03-transform_toolsx-03-crop.html#%EA%B7%B8%EB%A6%BC-901833a101-%EB%8F%84%EA%B5%AC--%EB%B3%80%ED%98%95-%EB%8F%84%EA%B5%AC--%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-windows)
+<a id="90-01-08-03-03-a101"></a>
 
-[다른 운영체제와 언어의 `잘라내기 메뉴` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-03-transform_toolsx-03-crop.html#%EA%B7%B8%EB%A6%BC-901833a101-%EB%8F%84%EA%B5%AC--%EB%B3%80%ED%98%95-%EB%8F%84%EA%B5%AC--%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-windows)
+#### [그림 90.1.8.3.3.a101. `도구` → `변형 도구` → `잘라내기` (Windows)](./90-01-08-03-03-crop.md#90-01-08-03-03-a101)
+![90-01-08-03-03-a101](https://github.com/wonder13662/gimp/assets/15767104/df066931-8457-4197-befd-95356b2212cf)
+
+[다른 운영체제와 언어의 `잘라내기 메뉴` 확인하기](./90-01-08-03-03-crop.md#90-01-08-03-03-a101)
 
 #### [그림 90.3.2.10.a2. 도구 상자(Toolbox)의 잘라내기 메뉴 위치](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-10-crop.html#%EA%B7%B8%EB%A6%BC-903210a2-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90toolbox%EC%9D%98-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EB%A9%94%EB%89%B4-%EC%9C%84%EC%B9%98)
 [![그림 90.3.2.10.a2. 도구 상자(Toolbox)의 잘라내기 메뉴 위치](https://github.com/wonder13662/gimp/assets/15767104/8e9db3fb-d8b3-418b-9ea4-74bef33aef62)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-10-crop.html#%EA%B7%B8%EB%A6%BC-903210a2-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90toolbox%EC%9D%98-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EB%A9%94%EB%89%B4-%EC%9C%84%EC%B9%98)
 
-#### [영상 90.1.8.3.3.a203. 잘라내기 직접 해보기(이미지 메뉴 바의 잘라내기 메뉴)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-03-transform_toolsx-03-crop.html#%EC%98%81%EC%83%81-901833a203-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EC%A7%81%EC%A0%91-%ED%95%B4%EB%B3%B4%EA%B8%B0%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94%EC%9D%98-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EB%A9%94%EB%89%B4)
+<a id="90-01-08-03-03-a203"></a>
+
+#### [영상 90.1.8.3.3.a203. 잘라내기 직접 해보기(이미지 메뉴 바의 잘라내기 메뉴)](./90-01-08-03-03-crop.md#90-01-08-03-03-a203)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/746c7197-2b70-4ae7-a9ef-134ea29961f5"></video>
 
 #### [영상 90.3.2.10.a101. 잘라내기 직접 해보기(도구 상자(Toolbox)의 잘라내기 메뉴)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-10-crop.html#%EC%98%81%EC%83%81-903210a101-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EC%A7%81%EC%A0%91-%ED%95%B4%EB%B3%B4%EA%B8%B0%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90toolbox%EC%9D%98-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EB%A9%94%EB%89%B4)
@@ -44,10 +48,12 @@
 # 3.4.5.3. 이미지 잘라내기 도구 옵션
 가로, 세로 비율, 예를 들어 정사각형으로 이미지를 자르려면 이미지 잘라내기 [12.1.7. 도구 옵션(Tool Options)](./12-01-07-tool-options.md)에서 비율을 설정할 수 있습니다. 도구 옵션이 보이지 않는다면, 이미지 메뉴 바(Image menu bar)의 `창(Windows)` → `도킹가능한 대화(Dockable Dialogs)` → `도구 옵션(Tool Options)`으로 도구 옵션을 불러올 수 있습니다. 
 
-#### [그림 90.1.10.2.1.a101. `창` → `도킹가능한 대화` → `도구 옵션` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-01-tool_options.html#%EA%B7%B8%EB%A6%BC-9011021a101-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94--%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-windows)
-[![그림 90.1.10.2.1.a101. `창` → `도킹가능한 대화` → `도구 옵션` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/b5d990a0-b382-402d-8de9-d9d3293bb095)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-01-tool_options.html#%EA%B7%B8%EB%A6%BC-9011021a101-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94--%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-windows)
+<a id="90-01-10-02-01-a101"></a>
 
-운영체제와 언어의 `창` → `도킹가능한 대화` → `도구 옵션` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-01-tool_options.html#%EA%B7%B8%EB%A6%BC-9011021a101-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94--%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-windows)
+#### [그림 90.1.10.2.1.a101. `창` → `도킹가능한 대화` → `도구 옵션` (Windows)](./90-01-10-02-01-tool_options.md#90-01-10-02-01-a101)
+![90-01-10-02-01-a101](https://github.com/wonder13662/gimp/assets/15767104/b5d990a0-b382-402d-8de9-d9d3293bb095)
+
+[다른 운영체제와 언어의 `창` → `도킹가능한 대화` → `도구 옵션` 확인하기](./90-01-10-02-01-tool_options.md#90-01-10-02-01-a102)
 
 도구 옵션의 `고정(Fixed)`의 `종횡비(Aspect ratio)`로 설정되어 있는지 확인해 주세요. 바로 아래의 입력창에 `1:1`과 같은 종횡비(Aspect ratio)를 입력할 수 있습니다.
 

@@ -1,8 +1,12 @@
 # 90.4.29. 이미지 비율 조정(Scale Image)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 
+<a id="90-04-29-a101"></a>
+
 #### 그림 90.4.29.a101. `이미지 비율 조정` 대화상자 (Windows) (우리말)
 ![그림 90.4.29.a101. `이미지 비율 조정` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/b88ded56-3fe1-4009-84ce-aa0939259794)
+
+[90.1.5.10. 이미지 크기조정(Scale Image) - 그림 90.4.29.a101](./90-01-05-10-scale_image.md#90-04-29-a101)
 
 #### 그림 90.4.29.a102. `이미지 비율 조정` 대화상자 (Windows) (영어)
 ![그림 90.4.29.a102. `이미지 비율 조정` 대화상자 (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/669ea869-7a4f-4e5e-86e5-15e397a34f5f)
@@ -23,10 +27,10 @@
 
 [3.4.2. 이미지의 크기 바꾸기 (화면용) - 영상 90.4.29.a202. 이미지 크기 변경](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-02-change-the-size-of-an-image-for-the-screen.html#%EC%98%81%EC%83%81-90429a202-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%81%AC%EA%B8%B0-%EB%B3%80%EA%B2%BD)
 
-#### 영상 90.1.6.13.a102. '레이어 크기 조정(Scale Layer)' 사용하기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8fe93a42-c805-4b1a-8b15-2d1765da17f4"></video>
+<a id="90-01-06-13-a102"></a>
 
-[4.2.6. 레이어 바깥쪽에서 작업을 하려는 경우 - 영상 90.1.6.13.a102. '레이어 크기 조정(Scale Layer)' 사용하기](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-06-you-are-trying-to-act-outside-the-layer.html#%EC%98%81%EC%83%81-901613a102-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%95scale-layer-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+#### [영상 90.1.6.13.a102. '레이어 크기 조정(Scale Layer)' 사용하기](./90-01-06-13-scale_layer.md#90-01-06-13-a102)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8fe93a42-c805-4b1a-8b15-2d1765da17f4"></video>
 
 ***
 

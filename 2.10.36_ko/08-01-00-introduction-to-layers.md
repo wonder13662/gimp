@@ -23,8 +23,10 @@
 ## 5. 레이어 메뉴
 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `레이어` 메뉴에는 이미지의 활성화된 레이어를 수정할 수 있는 기능들이 있습니다. [레이어 대화상자](./15-02-01-00-layers-dialog.md)의 오른쪽 클릭 팝업 메뉴를 통해 같은 기능들을 쓸 수 있습니다.
 
-#### [그림 90.1.6.a1. `레이어`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layer.html#%EA%B7%B8%EB%A6%BC-9016a1-%EB%A0%88%EC%9D%B4%EC%96%B4) 
-[![90.1.6. 레이어(Layer)](https://github.com/wonder13662/gimp/assets/15767104/3f4bfc3c-ecba-45b9-bca5-c4ffcc4a28bf)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layer.html#%EA%B7%B8%EB%A6%BC-9016a1-%EB%A0%88%EC%9D%B4%EC%96%B4) 
+<a id="90-01-06-a1"></a>
+
+#### [그림 90.1.6.a1. `레이어`](./90-01-06-00-layer.md#90-01-06-a1)
+![90.1.6. 레이어(Layer)](https://github.com/wonder13662/gimp/assets/15767104/3f4bfc3c-ecba-45b9-bca5-c4ffcc4a28bf)
 
 <a id="90-04-03-01-a11"></a>
 

@@ -30,10 +30,14 @@
 ## 3. 이미지 메뉴 바의 `레이어` → `레이어 삭제(Delete Layer)`
 삭제할 레이어 그룹을 선택한 뒤에 이미지 메뉴바의 `레이어` → `레이어 삭제(Delete Layer)`를 클릭하면 선택한 레이어 그룹을 삭제할 수 있습니다. 아래 영상에서 전체 과정을 확인해보세요.
 
-#### [그림 90.1.6.6.a11. `레이어` → `레이어 삭제`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-06-delete_layer.html#%EA%B7%B8%EB%A6%BC-90166a11-%EB%A0%88%EC%9D%B4%EC%96%B4--%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%82%AD%EC%A0%9C)
-[![90-01-06-layerx-06-delete_layer-focus-delete_layer(w1080)](https://github.com/wonder13662/gimp/assets/15767104/7edd2df5-6655-4060-bfc2-0a7ab4122139)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-06-delete_layer.html#%EA%B7%B8%EB%A6%BC-90166a11-%EB%A0%88%EC%9D%B4%EC%96%B4--%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%82%AD%EC%A0%9C)
+<a id="90-01-06-06-a11"></a>
 
-#### [영상 90.1.6.6.a12. `레이어` → `레이어 삭제`로 레이어 그룹 삭제하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-06-delete_layer.html#%EC%98%81%EC%83%81-90166a12-%EB%A0%88%EC%9D%B4%EC%96%B4--%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%82%AD%EC%A0%9C%EB%A1%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
+#### [그림 90.1.6.6.a11. `레이어` → `레이어 삭제`](./90-01-06-06-delete_layer.md#90-01-06-06-a11)
+![90-01-06-layerx-06-delete_layer-focus-delete_layer(w1080)](https://github.com/wonder13662/gimp/assets/15767104/7edd2df5-6655-4060-bfc2-0a7ab4122139)
+
+<a id="90-01-06-06-a12"></a>
+
+#### [영상 90.1.6.6.a12. `레이어` → `레이어 삭제`로 레이어 그룹 삭제하기](./90-01-06-06-delete_layer.md#90-01-06-06-a12)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e6585b5b-f5a1-4f4b-b8ef-9fb5297c3ee6"></video>
 
 ***

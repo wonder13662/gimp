@@ -5,10 +5,6 @@
 
 ***
 
-## 관련 정보
-
-***
-
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.1.5.15. 보이는 레이어 합치기(Merge Visible Layers)](./90-01-05-15-merge_visible_layers.md)

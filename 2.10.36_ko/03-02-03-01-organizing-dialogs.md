@@ -34,23 +34,29 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 ## 3.2.3.1.6. 독에 보여지는 대화상자 설정하기
 `창` → `도킹가능한 대화` 메뉴에 도킹을 할 수 있는 대화상자 목록이 있습니다. 
 
-#### [그림 90.1.10.2.a1. `창` → `도킹가능한 대화` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogs.html#%EA%B7%B8%EB%A6%BC-901102a1-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94-windows)
-[![그림 90.1.10.2.a1. 창 - 도킹가능한 대화 (Windows)](https://github.com/wonder13662/gimp/assets/15767104/2a664a57-69e3-4890-86c2-400a912ecb2b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogs.html#%EA%B7%B8%EB%A6%BC-901102a1-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94-windows)
+<a id="90-01-10-02-a1"></a>
 
-[다른 운영체제와 언어의 `도킹가능한 대화` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogs.html#%EA%B7%B8%EB%A6%BC-901102a1-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94-windows)
+#### [그림 90.1.10.2.a1. `창` → `도킹가능한 대화` (Windows)](./90-01-10-02-00-dockable_dialogs.md#90-01-10-02-a1)
+![그림 90.1.10.2.a1. 창 - 도킹가능한 대화 (Windows)](https://github.com/wonder13662/gimp/assets/15767104/2a664a57-69e3-4890-86c2-400a912ecb2b)
+
+[다른 운영체제와 언어의 `도킹가능한 대화` 확인하기](./90-01-10-02-00-dockable_dialogs.md#90-01-10-02-a2)
 
 이 목록에서 원하는 대화상자를 선택하면 해당 대화상자가 표시됩니다. 선택한 대화상자가 이미 독(dock)안에 포함되어 있으면 해당 대화 상자를 활성화시키고, 없으면 창 모드에 따라 다음과 같이 동작합니다. 
 
 ## 3.2.3.1.7. 다중창 모드에서 대화상자 추가하기
 다중창 모드에서는 새 창, 대화 상자 등이 화면에 표시됩니다.
 
-#### [영상 90.1.10.2.a101. 다중창 모드에서 대화상자 추가](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogs.html#%EC%98%81%EC%83%81-901102a101-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C%EC%97%90%EC%84%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%B6%94%EA%B0%80)
+<a id="90-01-10-02-a101"></a>
+
+#### [영상 90.1.10.2.a101. 다중창 모드에서 대화상자 추가](./90-01-10-02-00-dockable_dialogs.md#90-01-10-02-a101)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/09ddc773-aabd-4ea8-8447-435e2d010e3d"></video>
 
 ## 3.2.3.1.8. 단일창 모드에서 대화상자 추가하기
 단일창 모드에서는 대화상자는 자동으로 GIMP의 오른쪽 판위의 위쪽의 독에 추가됩니다.
 
-#### [영상 90.1.10.2.a111. 단일창 모드에서 대화상자 추가](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogs.html#%EC%98%81%EC%83%81-901102a111-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9C%EC%97%90%EC%84%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%B6%94%EA%B0%80)
+<a id="90-01-10-02-a111"></a>
+
+#### [영상 90.1.10.2.a111. 단일창 모드에서 대화상자 추가](./90-01-10-02-00-dockable_dialogs.md#90-01-10-02-a111)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cc6aec8e-3d77-4945-8685-b7aa00245c07"></video>
 
 ## 3.2.3.1.9. 탭의 위쪽을 끌어서 대화상자를 원하는 곳으로 이동

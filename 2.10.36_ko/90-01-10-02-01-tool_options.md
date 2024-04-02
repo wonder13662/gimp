@@ -1,20 +1,30 @@
 # 90.1.10.2.1. 도구 옵션(Tool Options)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 
+<a id="90-01-10-02-01-a101"></a>
+
 #### 그림 90.1.10.2.1.a101. `창` → `도킹가능한 대화` → `도구 옵션` (Windows)
-![그림 90.1.10.2.1.a101. `창` → `도킹가능한 대화` → `도구 옵션` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/b5d990a0-b382-402d-8de9-d9d3293bb095)
+![90-01-10-02-01-a101](https://github.com/wonder13662/gimp/assets/15767104/b5d990a0-b382-402d-8de9-d9d3293bb095)
 
-[3.4.5. 이미지 잘라내기 - 그림 90.1.10.2.1.a101. `창` → `도킹가능한 대화` → `도구 옵션` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-05-crop-an-image.html#%EA%B7%B8%EB%A6%BC-9011021a101-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94--%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-windows)
+[3.4.5. 이미지 잘라내기 - 그림 90.1.10.2.1.a101](./03-04-05-crop-an-image.md#90-01-10-02-01-a101)
 
-[4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 그림 90.1.10.2.1.a101. `창` → `도킹가능한 대화` → `도구 옵션` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-02-tool-options-dialog-is-missing.html#%EA%B7%B8%EB%A6%BC-9011021a101-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94--%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-windows)
+[4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 그림 90.1.10.2.1.a101](./04-03-02-tool-options-dialog-is-missing.md#90-01-10-02-01-a101)
+
+[90.1.10.2. 창(Windows) - 도킹가능한 대화(Dockable dialogs) - 그림 90.1.10.2.1.a101](./90-01-10-02-00-dockable_dialogs.md#90-01-10-02-01-a101)
+
+<a id="90-01-10-02-01-a102"></a>
 
 #### 그림 90.1.10.2.1.a102. `창` → `도킹가능한 대화` → `도구 옵션` (Mac)
 ![그림 90.1.10.2.1.a102. `창` → `도킹가능한 대화` → `도구 옵션` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/7b9a6eda-355a-4fe1-8d56-d7359b00ff77)
 
+[90.1.10.2. 창(Windows) - 도킹가능한 대화(Dockable dialogs) - 그림 90.1.10.2.1.a102](./90-01-10-02-00-dockable_dialogs.md#90-01-10-02-01-a102)
+
+<a id="90-01-10-02-01-a103"></a>
+
 #### 영상 90.1.10.2.1.a103. `창` → `도킹가능한 대화` → `도구 옵션`으로 독(Dock)에 '도구 옵션' 대화상자 추가하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ab33a968-752d-4ae6-99ef-41f0c1441a64"></video>
 
-[4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 영상 90.1.10.2.1.a103. `창` → `도킹가능한 대화` → `도구 옵션`으로 독(Dock)에 '도구 옵션' 대화상자 추가하기](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-02-tool-options-dialog-is-missing.html#%EC%98%81%EC%83%81-9011021a103-%EC%B0%BD--%EB%8F%84%ED%82%B9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%ED%99%94--%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98%EC%9C%BC%EB%A1%9C-%EB%8F%85dock%EC%97%90-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+[4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 영상 90.1.10.2.1.a103](./04-03-02-tool-options-dialog-is-missing.md#90-01-10-02-01-a103)
 
 ***
 

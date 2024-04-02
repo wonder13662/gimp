@@ -10,10 +10,12 @@
 #### [그림 90.3.2.5.a2. 도구상자 - 자유 선택 도구(올가미)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-05-free_select.html#%EA%B7%B8%EB%A6%BC-90325a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%9E%90%EC%9C%A0-%EC%84%A0%ED%83%9D-%EB%8F%84%EA%B5%AC%EC%98%AC%EA%B0%80%EB%AF%B8)
 [![그림 90.3.2.5.a2. 도구상자 - 자유 선택 도구(올가미)](https://github.com/wonder13662/gimp/assets/15767104/f0d4efd4-aee4-4af4-a282-a4d2756369fa)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-05-free_select.html#%EA%B7%B8%EB%A6%BC-90325a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%9E%90%EC%9C%A0-%EC%84%A0%ED%83%9D-%EB%8F%84%EA%B5%AC%EC%98%AC%EA%B0%80%EB%AF%B8)
 
-#### [그림 90.1.8.1.3.a101. `도구` → `선택도구` → `자유 선택` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-03-free_select.html#%EA%B7%B8%EB%A6%BC-901813a101%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D%EB%8F%84%EA%B5%AC--%EC%9E%90%EC%9C%A0-%EC%84%A0%ED%83%9D-windows)
-[![그림 90.1.8.1.3.a101. `도구` → `선택도구` → `자유 선택` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/0e52854b-a1bb-44b9-80e5-5fbf63bb586c)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-03-free_select.html#%EA%B7%B8%EB%A6%BC-901813a101%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D%EB%8F%84%EA%B5%AC--%EC%9E%90%EC%9C%A0-%EC%84%A0%ED%83%9D-windows)
+<a id="90-01-08-01-03-a101"></a>
 
-[다른 운영체제와 언어의 `도구` → `선택도구` → `자유 선택` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-03-free_select.html#%EA%B7%B8%EB%A6%BC-901813a101%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D%EB%8F%84%EA%B5%AC--%EC%9E%90%EC%9C%A0-%EC%84%A0%ED%83%9D-windows)
+#### [그림 90.1.8.1.3.a101. `도구` → `선택도구` → `자유 선택` (Windows)](./90-01-08-01-03-free_select.md#90-01-08-01-03-a101)
+![그림 90.1.8.1.3.a101. `도구` → `선택도구` → `자유 선택` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/0e52854b-a1bb-44b9-80e5-5fbf63bb586c)
+
+[다른 운영체제와 언어의 `도구` → `선택도구` → `자유 선택` 확인하기](./90-01-08-01-03-free_select.md#90-01-08-01-03-a102)
 
 #### [영상 90.3.2.5.a101. 자유 선택 도구(올가미) 사용하기 - 자유롭게 그리기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-05-free_select.html#%EC%98%81%EC%83%81-90325a101-%EC%9E%90%EC%9C%A0-%EC%84%A0%ED%83%9D-%EB%8F%84%EA%B5%AC%EC%98%AC%EA%B0%80%EB%AF%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0---%EC%9E%90%EC%9C%A0%EB%A1%AD%EA%B2%8C-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fa4089d6-4cff-4b95-9a37-b38ce28e642a"></video>
@@ -27,12 +29,16 @@
 #### [그림 90.3.2.6.a2. 도구상자 - 똑똑한 가위](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-06-scissors_select.html#%EA%B7%B8%EB%A6%BC-90326a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%80%EC%9C%84)
 [![그림 90.3.2.6.a2. 도구상자 - 똑똑한 가위](https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-06-scissors_select.html#%EA%B7%B8%EB%A6%BC-90326a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%80%EC%9C%84)
 
-#### [그림 90.1.8.1.7.a101. `도구` → `선택 도구` → `똑똑한 가위` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-07-intelligent_scissors.html#%EA%B7%B8%EB%A6%BC-901817a101-%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D-%EB%8F%84%EA%B5%AC--%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%80%EC%9C%84-windows)
-[![그림 90.1.8.1.7.a101. `도구` → `선택 도구` → `똑똑한 가위` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/c0186fc5-3219-4061-8885-751f87493a9a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-07-intelligent_scissors.html#%EA%B7%B8%EB%A6%BC-901817a101-%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D-%EB%8F%84%EA%B5%AC--%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%80%EC%9C%84-windows)
+<a id="90-01-08-01-07-a101"></a>
 
-[다른 운영체제와 언어의 `도구` → `선택 도구` → `똑똑한 가위` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-07-intelligent_scissors.html#%EA%B7%B8%EB%A6%BC-901817a101-%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D-%EB%8F%84%EA%B5%AC--%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%80%EC%9C%84-windows)
+#### [그림 90.1.8.1.7.a101. `도구` → `선택 도구` → `똑똑한 가위` (Windows)](./90-01-08-01-07-intelligent_scissors.md#90-01-08-01-07-a101)
+![그림 90.1.8.1.7.a101. `도구` → `선택 도구` → `똑똑한 가위` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/c0186fc5-3219-4061-8885-751f87493a9a)
 
-#### [영상 90.1.8.1.7.a103. 똑똑한 가위 선택 사용](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-07-intelligent_scissors.html#%EC%98%81%EC%83%81-901817a103-%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%80%EC%9C%84-%EC%84%A0%ED%83%9D-%EC%82%AC%EC%9A%A9)
+[다른 운영체제와 언어의 `도구` → `선택 도구` → `똑똑한 가위` 확인하기](./90-01-08-01-07-intelligent_scissors.md#90-01-08-01-07-a102)
+
+<a id="90-01-08-01-07-a103"></a>
+
+#### [영상 90.1.8.1.7.a103. 똑똑한 가위 선택 사용](./90-01-08-01-07-intelligent_scissors.md#90-01-08-01-07-a103)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/207b3a3a-7d36-4e60-a49a-d9c3d9e23e86"></video>
 
 ### 3.4.10.0.3. 전경 선택(The "Foreground Select Tool")
@@ -41,12 +47,16 @@
 #### [그림 90.3.2.7.a2. 도구상자 - 전경 선택](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-07-foreground_select.html#%EA%B7%B8%EB%A6%BC-90327a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%A0%84%EA%B2%BD-%EC%84%A0%ED%83%9D)
 [![그림 90.3.2.7.a2. 도구상자 - 전경 선택](https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-07-foreground_select.html#%EA%B7%B8%EB%A6%BC-90327a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%A0%84%EA%B2%BD-%EC%84%A0%ED%83%9D)
 
-#### [그림 90.1.8.1.4.a101.`도구` → `선택도구` → `전경 선택` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-04-foreground_select.html#%EA%B7%B8%EB%A6%BC-901814a101%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D%EB%8F%84%EA%B5%AC--%EC%A0%84%EA%B2%BD-%EC%84%A0%ED%83%9D-windows)
-[![그림 90.1.8.1.4.a101.`도구` → `선택도구` → `전경 선택` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/7c56969f-2f81-4f34-93c9-0259b5e6da5e)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-04-foreground_select.html#%EA%B7%B8%EB%A6%BC-901814a101%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D%EB%8F%84%EA%B5%AC--%EC%A0%84%EA%B2%BD-%EC%84%A0%ED%83%9D-windows)
+<a id="90-01-08-01-04-a101"></a>
 
-[다른 운영체제와 언어의 `도구` → `선택도구` → `전경 선택` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-04-foreground_select.html#%EA%B7%B8%EB%A6%BC-901814a101%EB%8F%84%EA%B5%AC--%EC%84%A0%ED%83%9D%EB%8F%84%EA%B5%AC--%EC%A0%84%EA%B2%BD-%EC%84%A0%ED%83%9D-windows)
+#### [그림 90.1.8.1.4.a101.`도구` → `선택도구` → `전경 선택` (Windows)](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a101)
+![그림 90.1.8.1.4.a101.`도구` → `선택도구` → `전경 선택` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/7c56969f-2f81-4f34-93c9-0259b5e6da5e)
 
-#### [영상 90.1.8.1.4.a111. 전경 선택 사용](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-08-toolsx-01-selection_toolsx-04-foreground_select.html#%EC%98%81%EC%83%81-901814a111-%EC%A0%84%EA%B2%BD-%EC%84%A0%ED%83%9D-%EC%82%AC%EC%9A%A9)
+[다른 운영체제와 언어의 `도구` → `선택도구` → `전경 선택` 확인하기](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a102)
+
+<a id="90-01-08-01-04-a111"></a>
+
+#### [영상 90.1.8.1.4.a111. 전경 선택 사용](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a111)
 <video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1e7277a6-5d44-4ce8-a74d-e163c8faa259"></video>
 
 ## 3.4.10.1. 개체를 선택 영역으로 선택한 뒤
@@ -72,10 +82,12 @@
 ### 3.4.10.1.2. 선택한 개체의 색상은 유지하면서 배경만 흑백으로 만들기
 [이미지 메뉴 바(Image Menu Bar)](./03-02-02-02-image-menu.md)의 `색(Colors)` → `무채화(Desaturate)` 메뉴를 선택합니다. 무채화 대화상자에서 모드를 변경하면서 가장 좋은 모드를 선택한 다음 "확인" 버튼을 누릅니다.
 
-#### [그림 90.1.7.16.a1. `색` → `무채화` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-16-desaturate.html#%EA%B7%B8%EB%A6%BC-901716a1-%EC%83%89--%EB%AC%B4%EC%B1%84%ED%99%94-windows)
-[![그림 90.1.7.16.a1. `색` → `무채화` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/a35c267e-bebe-406d-9d05-2301280d1ae8)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-07-colorsx-16-desaturate.html#%EA%B7%B8%EB%A6%BC-901716a1-%EC%83%89--%EB%AC%B4%EC%B1%84%ED%99%94-windows)
+<a id="90-01-07-16-a1"></a>
 
-[다른 운영체제와 언어의 `색` → `무채화` 확인하기](./90-01-07-16-desaturate.md)
+#### [그림 90.1.7.16.a1. `색` → `무채화` (Windows)](./90-01-07-16-desaturate.md#90-01-07-16-a1)
+![그림 90.1.7.16.a1. `색` → `무채화` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/a35c267e-bebe-406d-9d05-2301280d1ae8)
+
+[다른 운영체제와 언어의 `색` → `무채화` 확인하기](./90-01-07-16-desaturate.md#90-01-07-16-a2)
 
 #### 그림 3.44. 배경을 흑백으로 만든 결과
 <img width="480" alt="그림 3.44. 배경을 흑백으로 만든 결과" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/97ab65f1-e0bd-41fc-9e06-3c5ac9eeb7bb">
