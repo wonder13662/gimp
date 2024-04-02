@@ -230,7 +230,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.3.2.1. 도구 아이콘(Tool icon) - 이동(Move)](./90-03-02-01-move.md)
+[➡️ 다음: 90.3.1. GIMP 로고(GIMP Logo)](./90-03-01-gimp_logo.md)
+
+[⬅️ 이전: 90.2.10. 실험 놀이터 (Experimental Playground)](./90-02-10-playground.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 
