@@ -1402,83 +1402,83 @@
 
 [90.3.1. GIMP 로고(GIMP Logo)](./90-03-01-gimp_logo.md)
 
-[90.3.2.1. 도구 아이콘(Tool icon) - 이동(Move)](./90-03-02-tool_iconx-01-move.md)
+[90.3.2.1. 도구 아이콘(Tool icon) - 이동(Move)](./90-03-02-01-move.md)
 
-[90.3.2.2. 도구 아이콘(Tool icon) - 정렬(Alignment)](./90-03-02-tool_iconx-02-alignment.md)
+[90.3.2.2. 도구 아이콘(Tool icon) - 정렬(Alignment)](./90-03-02-02-alignment.md)
 
-[90.3.2.3. 도구 아이콘(Tool icon) - 사각 선택(Rectangle select)](./90-03-02-tool_iconx-03-rectangle_select.md)
+[90.3.2.3. 도구 아이콘(Tool icon) - 사각 선택(Rectangle select)](./90-03-02-03-rectangle_select.md)
 
-[90.3.2.4. 도구 아이콘(Tool icon) - 타원 선택(Ellipse select)](./90-03-02-tool_iconx-04-ellipse_select.md)
+[90.3.2.4. 도구 아이콘(Tool icon) - 타원 선택(Ellipse select)](./90-03-02-04-ellipse_select.md)
 
-[90.3.2.5. 도구 아이콘(Tool icon) - 자유 선택(Free select)](./90-03-02-tool_iconx-05-free_select.md)
+[90.3.2.5. 도구 아이콘(Tool icon) - 자유 선택(Free select)](./90-03-02-05-free_select.md)
 
-[90.3.2.6. 도구 아이콘(Tool icon) - 가위 선택(Scissors select)](./90-03-02-tool_iconx-06-scissors_select.md)
+[90.3.2.6. 도구 아이콘(Tool icon) - 가위 선택(Scissors select)](./90-03-02-06-scissors_select.md)
 
-[90.3.2.7. 도구 아이콘(Tool icon) - 전경 선택(Foreground select)](./90-03-02-tool_iconx-07-foreground_select.md)
+[90.3.2.7. 도구 아이콘(Tool icon) - 전경 선택(Foreground select)](./90-03-02-07-foreground_select.md)
 
-[90.3.2.8. 도구 아이콘(Tool icon) - 퍼지 선택(Fuzzy select)](./90-03-02-tool_iconx-08-fuzzy_select.md)
+[90.3.2.8. 도구 아이콘(Tool icon) - 퍼지 선택(Fuzzy select)](./90-03-02-08-fuzzy_select.md)
 
-[90.3.2.9. 도구 아이콘(Tool icon) - 색상으로 선택(Select by color)](./90-03-02-tool_iconx-09-select_by_color.md)
+[90.3.2.9. 도구 아이콘(Tool icon) - 색상으로 선택(Select by color)](./90-03-02-09-select_by_color.md)
 
-[90.3.2.10. 도구 아이콘(Tool icon) - 잘라내기(Crop)](./90-03-02-tool_iconx-10-crop.md)
+[90.3.2.10. 도구 아이콘(Tool icon) - 잘라내기(Crop)](./90-03-02-10-crop.md)
 
-[90.3.2.11. 도구 아이콘(Tool icon) - 통합 변형(Unified transform)](./90-03-02-tool_iconx-11-unified_transform.md)
+[90.3.2.11. 도구 아이콘(Tool icon) - 통합 변형(Unified transform)](./90-03-02-11-unified_transform.md)
 
-[90.3.2.12. 도구 아이콘(Tool icon) - 회전(Rotate)](./90-03-02-tool_iconx-12-rotate.md)
+[90.3.2.12. 도구 아이콘(Tool icon) - 회전(Rotate)](./90-03-02-12-rotate.md)
 
-[90.3.2.13. 도구 아이콘(Tool icon) - 크기 조정(Scale)](./90-03-02-tool_iconx-13-scale.md)
+[90.3.2.13. 도구 아이콘(Tool icon) - 크기 조정(Scale)](./90-03-02-13-scale.md)
 
-[90.3.2.14. 도구 아이콘(Tool icon) - 기울이기(Shear)](./90-03-02-tool_iconx-14-shear.md)
+[90.3.2.14. 도구 아이콘(Tool icon) - 기울이기(Shear)](./90-03-02-14-shear.md)
 
-[90.3.2.15. 도구 아이콘(Tool icon) - 뒤집기(Flip)](./90-03-02-tool_iconx-15-flip.md)
+[90.3.2.15. 도구 아이콘(Tool icon) - 뒤집기(Flip)](./90-03-02-15-flip.md)
 
-[90.3.2.16. 도구 아이콘(Tool icon) - 원근법(Perspective)](./90-03-02-tool_iconx-16-perspective.md)
+[90.3.2.16. 도구 아이콘(Tool icon) - 원근법(Perspective)](./90-03-02-16-perspective.md)
 
-[90.3.2.17. 도구 아이콘(Tool icon) - 3차원 변형(3D Transform)](./90-03-02-tool_iconx-17-3d_transform.md)
+[90.3.2.17. 도구 아이콘(Tool icon) - 3차원 변형(3D Transform)](./90-03-02-17-3d_transform.md)
 
-[90.3.2.18. 도구 아이콘(Tool icon) - 변형 다루기(Handle transform)](./90-03-02-tool_iconx-18-handle_transform.md)
+[90.3.2.18. 도구 아이콘(Tool icon) - 변형 다루기(Handle transform)](./90-03-02-18-handle_transform.md)
 
-[90.3.2.19. 도구 아이콘(Tool icon) - 워프 변형(Warp transform)](./90-03-02-tool_iconx-19-warp_transform.md)
+[90.3.2.19. 도구 아이콘(Tool icon) - 워프 변형(Warp transform)](./90-03-02-19-warp_transform.md)
 
-[90.3.2.20. 도구 아이콘(Tool icon) - 골조 변형(Cage transform)](./90-03-02-tool_iconx-20-cage_transform.md)
+[90.3.2.20. 도구 아이콘(Tool icon) - 골조 변형(Cage transform)](./90-03-02-20-cage_transform.md)
 
-[90.3.2.21. 도구 아이콘(Tool icon) - 영역 채우기(Bucket fill)](./90-03-02-tool_iconx-21-bucket_fill.md)
+[90.3.2.21. 도구 아이콘(Tool icon) - 영역 채우기(Bucket fill)](./90-03-02-21-bucket_fill.md)
 
-[90.3.2.22. 도구 아이콘(Tool icon) - 그라디언트(Gradient)](./90-03-02-tool_iconx-22-gradient.md)
+[90.3.2.22. 도구 아이콘(Tool icon) - 그라디언트(Gradient)](./90-03-02-22-gradient.md)
 
-[90.3.2.23. 도구 아이콘(Tool icon) - 그리기 붓(Paintbrush)](./90-03-02-tool_iconx-23-paintbrush.md)
+[90.3.2.23. 도구 아이콘(Tool icon) - 그리기 붓(Paintbrush)](./90-03-02-23-paintbrush.md)
 
-[90.3.2.24. 도구 아이콘(Tool icon) - 연필(Pencil)](./90-03-02-tool_iconx-24-pencil.md)
+[90.3.2.24. 도구 아이콘(Tool icon) - 연필(Pencil)](./90-03-02-24-pencil.md)
 
-[90.3.2.25. 도구 아이콘(Tool icon) - 에어브러시(Airbrush)](./90-03-02-tool_iconx-25-airbrush.md)
+[90.3.2.25. 도구 아이콘(Tool icon) - 에어브러시(Airbrush)](./90-03-02-25-airbrush.md)
 
-[90.3.2.26. 도구 아이콘(Tool icon) - 잉크(Ink)](./90-03-02-tool_iconx-26-ink.md)
+[90.3.2.26. 도구 아이콘(Tool icon) - 잉크(Ink)](./90-03-02-26-ink.md)
 
-[90.3.2.27. 도구 아이콘(Tool icon) - MyPaint 붓(MyPaint brush)](./90-03-02-tool_iconx-27-mypaint_brush.md)
+[90.3.2.27. 도구 아이콘(Tool icon) - MyPaint 붓(MyPaint brush)](./90-03-02-27-mypaint_brush.md)
 
-[90.3.2.28. 도구 아이콘(Tool icon) - 지우개(Eraser)](./90-03-02-tool_iconx-28-eraser.md)
+[90.3.2.28. 도구 아이콘(Tool icon) - 지우개(Eraser)](./90-03-02-28-eraser.md)
 
-[90.3.2.29. 도구 아이콘(Tool icon) - 도장(Clone)](./90-03-02-tool_iconx-29-clone.md)
+[90.3.2.29. 도구 아이콘(Tool icon) - 도장(Clone)](./90-03-02-29-clone.md)
 
-[90.3.2.30. 도구 아이콘(Tool icon) - 원근 복제(Perspective clone)](./90-03-02-tool_iconx-30-perspective_clone.md)
+[90.3.2.30. 도구 아이콘(Tool icon) - 원근 복제(Perspective clone)](./90-03-02-30-perspective_clone.md)
 
-[90.3.2.31. 도구 아이콘(Tool icon) - 복원(Healing)](./90-03-02-tool_iconx-31-healing.md)
+[90.3.2.31. 도구 아이콘(Tool icon) - 복원(Healing)](./90-03-02-31-healing.md)
 
-[90.3.2.32. 도구 아이콘(Tool icon) - 문지르기(Smudge)](./90-03-02-tool_iconx-32-smudge.md)
+[90.3.2.32. 도구 아이콘(Tool icon) - 문지르기(Smudge)](./90-03-02-32-smudge.md)
 
-[90.3.2.33. 도구 아이콘(Tool icon) - 흐릿하게/선명하게(Blur/Sharpen)](./90-03-02-tool_iconx-33-blur_sharpen.md)
+[90.3.2.33. 도구 아이콘(Tool icon) - 흐릿하게/선명하게(Blur/Sharpen)](./90-03-02-33-blur_sharpen.md)
 
-[90.3.2.34. 도구 아이콘(Tool icon) - 닷지/번(Dodge/Burn)](./90-03-02-tool_iconx-34-dodge_burn.md)
+[90.3.2.34. 도구 아이콘(Tool icon) - 닷지/번(Dodge/Burn)](./90-03-02-34-dodge_burn.md)
 
-[90.3.2.35. 도구 아이콘(Tool icon) - 경로(Paths)](./90-03-02-tool_iconx-35-paths.md)
+[90.3.2.35. 도구 아이콘(Tool icon) - 경로(Paths)](./90-03-02-35-paths.md)
 
-[90.3.2.36. 도구 아이콘(Tool icon) - 텍스트(Text)](./90-03-02-tool_iconx-36-text.md)
+[90.3.2.36. 도구 아이콘(Tool icon) - 텍스트(Text)](./90-03-02-36-text.md)
 
-[90.3.2.37. 도구 아이콘(Tool icon) - 색상 추출(Color picker)](./90-03-02-tool_iconx-37-color_picker.md)
+[90.3.2.37. 도구 아이콘(Tool icon) - 색상 추출(Color picker)](./90-03-02-37-color_picker.md)
 
-[90.3.2.38. 도구 아이콘(Tool icon) - 측정(Measure)](./90-03-02-tool_iconx-38-measure.md)
+[90.3.2.38. 도구 아이콘(Tool icon) - 측정(Measure)](./90-03-02-38-measure.md)
 
-[90.3.2.39. 도구 아이콘(Tool icon) - 확대/축소(Zoom)](./90-03-02-tool_iconx-39-zoom.md)
+[90.3.2.39. 도구 아이콘(Tool icon) - 확대/축소(Zoom)](./90-03-02-39-zoom.md)
 
 [90.3.3. 전경색/배경색(Foreground/Background color)](./90-03-03-foreground_color_n_background_color.md)
 

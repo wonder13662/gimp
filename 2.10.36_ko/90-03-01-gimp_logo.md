@@ -25,7 +25,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.3.2.2. 도구 아이콘(Tool icon) - 정렬(Alignment)](./90-03-02-tool_iconx-02-alignment.md)
+[➡️ 다음: 90.3.2.2. 도구 아이콘(Tool icon) - 정렬(Alignment)](./90-03-02-02-alignment.md)
 
 [⬆️ 위: 90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
 
