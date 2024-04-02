@@ -8,7 +8,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ]()
+[➡️ 다음: 90.2.10. 실험 놀이터 (Experimental Playground)](./90-02-10-playground.md)
 
 [⬅️ 이전: 90.2.9.14. 테마(Themes)](./90-02-09-14-themes.md)
 
