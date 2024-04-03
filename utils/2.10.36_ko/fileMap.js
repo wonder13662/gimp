@@ -293,7 +293,7 @@ module.exports = {
         '5.3. Opening files'
       ],
       [
-        '05-03-01-open-file.md', 
+        '05-03-01-00-open-file.md', 
         '5.3.1. Open file'
       ],
       [

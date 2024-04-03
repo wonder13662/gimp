@@ -1,11 +1,11 @@
 # 5.3. 파열 열기
 
 ## 하위 페이지
-[5.3.1. 파일 열기](./05-03-01-open-file.md)
+[5.3.1. 파일 열기](./05-03-01-00-open-file.md)
 
-[5.3.1.1. PDF 불러오기](./05-03-01-open-filex-01-import_from_pdf.md)
+[5.3.1.1. PDF 불러오기](./05-03-01-01-import_from_pdf.md)
 
-[5.3.1.2. PostScript 불러오기](./05-03-01-open-filex-02-import_from_postscript.md)
+[5.3.1.2. PostScript 불러오기](./05-03-01-02-import_from_postscript.md)
 
 [5.3.2. 위치 열기](./05-03-02-open-location.md)
 
@@ -23,7 +23,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 5.3.1. 파일 열기](./05-03-01-open-file.md)
+[➡️ 다음: 5.3.1. 파일 열기](./05-03-01-00-open-file.md)
 
 [⬅️ 이전: 5.2. 새 파일 만들기](./05-02-creating-new-files.md)
 

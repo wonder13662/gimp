@@ -16,10 +16,12 @@ GIMP(김프)에서는 작업 결과를 다양한 이미지 파일 유형으로 �
 #### [그림 90.5.1.a131. 타이틀 바의 이미지 이름 표시 - dirty 상태이므로 이름 맨 앞에 `*` 표시](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-01-title_bar.html#%EA%B7%B8%EB%A6%BC-9051a131-%ED%83%80%EC%9D%B4%ED%8B%80-%EB%B0%94%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B4%EB%A6%84-%ED%91%9C%EC%8B%9C---dirty-%EC%83%81%ED%83%9C%EC%9D%B4%EB%AF%80%EB%A1%9C-%EC%9D%B4%EB%A6%84-%EB%A7%A8-%EC%95%9E%EC%97%90--%ED%91%9C%EC%8B%9C)
 [![90-05-01-title_bar-image_status_dirty-focus-asterisk](https://github.com/wonder13662/gimp/assets/15767104/a02c4aad-a110-4391-93cd-ac03a813b8f3)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-01-title_bar.html#%EA%B7%B8%EB%A6%BC-9051a131-%ED%83%80%EC%9D%B4%ED%8B%80-%EB%B0%94%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B4%EB%A6%84-%ED%91%9C%EC%8B%9C---dirty-%EC%83%81%ED%83%9C%EC%9D%B4%EB%AF%80%EB%A1%9C-%EC%9D%B4%EB%A6%84-%EB%A7%A8-%EC%95%9E%EC%97%90--%ED%91%9C%EC%8B%9C)
 
-#### [그림 90.4.42.a101. `뷰 닫기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-42-close_view.html#%EA%B7%B8%EB%A6%BC-90442a101-%EB%B7%B0-%EB%8B%AB%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-42-close_view(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/310282c7-ac1e-42ca-8741-78fd81577bc2)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-42-close_view.html#%EA%B7%B8%EB%A6%BC-90442a101-%EB%B7%B0-%EB%8B%AB%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-42-a101"></a>
 
-[다른 운영체제와 언어의 `뷰 닫기` 대화상자 확인하기](./90-04-42-close_view.md)
+#### [그림 90.4.42.a101. `뷰 닫기` 대화상자 (Windows) (우리말)](./90-04-42-close_view.md#90-04-42-a101)
+![90-04-42-a101](https://github.com/wonder13662/gimp/assets/15767104/310282c7-ac1e-42ca-8741-78fd81577bc2)
+
+[다른 운영체제와 언어의 `뷰 닫기` 대화상자 확인하기](./90-04-42-close_view.md#90-04-42-a102)
 
 아래 영상에서 수정된 이미지가 `dirty` 상태일 때의 경고 대화상자가 노출되는 과정을 확인할 수 있습니다.
 
