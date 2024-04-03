@@ -5,8 +5,10 @@
 ### 1. 새 이미지 열기
 새 이미지를 열고, 고급 설정의 색상 모드(Color space)를 `RGB`로 합니다. 그리고 `채우기(Fill with)`를 `투명(Transparent)`로 설정합니다.
 
-#### [그림 90.4.37.a111. `새 이미지 만들기` 대화상자 (Windows) (우리말) - 색상붓을 만들기 위한 설정](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-37-create_a_new_image.html#%EA%B7%B8%EB%A6%BC-90437a111-%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%83%89%EC%83%81%EB%B6%93%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%84%A4%EC%A0%95)
-[![90-04-37-create_a_new_image(windows)(ko)-color_brush_setting-focus](https://github.com/wonder13662/gimp/assets/15767104/17dfd4b8-7373-4a92-838a-a853c07f1b44)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-37-create_a_new_image.html#%EA%B7%B8%EB%A6%BC-90437a111-%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%83%89%EC%83%81%EB%B6%93%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%84%A4%EC%A0%95)
+<a id="90-04-37-a111"></a>
+
+#### [그림 90.4.37.a111. `새 이미지 만들기` 대화상자 (Windows) (우리말) - 색상붓을 만들기 위한 설정](./90-04-37-create_a_new_image.md#90-04-37-a111)
+![90-04-37-a111](https://github.com/wonder13662/gimp/assets/15767104/17dfd4b8-7373-4a92-838a-a853c07f1b44)
 
 ### 2. 색상 붓 이미지 만들기
 `색상 붓`을 만들기 위해서 작은 RGBA 이미지를 준비합니다. 이미지를 그리고, 작업한 이미지의 모든 속성을 `.xcf` 파일로 저장합니다.

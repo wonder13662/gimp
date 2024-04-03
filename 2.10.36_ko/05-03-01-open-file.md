@@ -9,10 +9,12 @@
 
 `이미지 열기` 대화상자에서 파일을 탐색할 수 있습니다. 그리고 파일 이름을 클릭해서 파일을 GIMP(김프)에서 엽니다. `이미지 열기` 대화상자에서 미리보기(Preview) 영역이 있기는 하지만, 찾는 이미지를 확인하기에는 편리하지 않습니다.
 
-#### [그림 90.4.38.a101. `이미지 열기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a101-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-38-open_image(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/208d13e1-6dd5-482a-be16-3288a358895d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a101-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a101"></a>
 
-[다른 운영체제와 언어의 `이미지 열기` 대화상자 확인하기](./90-04-38-open_image.md)
+#### [그림 90.4.38.a101. `이미지 열기` 대화상자 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a101)
+![90-04-38-a101](https://github.com/wonder13662/gimp/assets/15767104/208d13e1-6dd5-482a-be16-3288a358895d)
+
+[다른 운영체제와 언어의 `이미지 열기` 대화상자 확인하기](./90-04-38-open_image.md#90-04-38-a102)
 
 > 🗒️ 참고
 >
@@ -25,37 +27,51 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 ### 위치(Places) 목록
 사용자의 `위치(Places)` 목록은 `이미지 열기` 대화상자의 왼쪽에 표시됩니다.
 
-#### [그림 90.4.38.a111. `이미지 열기` 대화상자 - 위치(Places) 목록 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a111-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-38-open_image(windows)(ko)-focus-place_list](https://github.com/wonder13662/gimp/assets/15767104/9395a68d-1c2a-4fc2-a690-9952a690f276)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a111-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a111"></a>
+
+#### [그림 90.4.38.a111. `이미지 열기` 대화상자 - 위치(Places) 목록 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a111)
+![90-04-38-a111](https://github.com/wonder13662/gimp/assets/15767104/9395a68d-1c2a-4fc2-a690-9952a690f276)
 
 ### 위치(Places) 목록의 기본 폴더
 이 목록의 가장 위쪽에 표시된 폴더들(`바탕 화면` 등)은 시스템에서 기본적으로 제공되는 값입니다. 
 
-#### [그림 90.4.38.a112. `이미지 열기` 대화상자 - 위치(Places) 목록의 기본 폴더 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a112-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98-%EA%B8%B0%EB%B3%B8-%ED%8F%B4%EB%8D%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-38-open_image(windows)(ko)-focus-place_list_default_folders](https://github.com/wonder13662/gimp/assets/15767104/e2b038c2-8142-42c0-86a6-392fe5daf53a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a112-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98-%EA%B8%B0%EB%B3%B8-%ED%8F%B4%EB%8D%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a112"></a>
+
+#### [그림 90.4.38.a112. `이미지 열기` 대화상자 - 위치(Places) 목록의 기본 폴더 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a112)
+![90-04-38-a112](https://github.com/wonder13662/gimp/assets/15767104/e2b038c2-8142-42c0-86a6-392fe5daf53a)
 
 ### 위치(Places) 목록의 `+` 버튼
 `위치(Places)` 목록의 아래쪽의 `+` 버튼은 파일 목록에서 선택한 폴더를 `위치(Places)` 목록에 추가합니다.
 
-#### [그림 90.4.38.a113. `이미지 열기` 대화상자 - 위치(Places) 목록의 `+` 버튼 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a113-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98--%EB%B2%84%ED%8A%BC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-38-open_image(windows)(ko)-focus-place_list-btn_add](https://github.com/wonder13662/gimp/assets/15767104/bada7425-8039-46d7-ace5-e85d466dccc4)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a113-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98--%EB%B2%84%ED%8A%BC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a113"></a>
 
-#### [영상 90.4.38.a116. `이미지 열기` 대화상자 - 폴더 추가하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a116-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8F%B4%EB%8D%94-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### [그림 90.4.38.a113. `이미지 열기` 대화상자 - 위치(Places) 목록의 `+` 버튼 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a113)
+![90-04-38-a113](https://github.com/wonder13662/gimp/assets/15767104/bada7425-8039-46d7-ace5-e85d466dccc4)
+
+<a id="90-04-38-a116"></a>
+
+#### [영상 90.4.38.a116. `이미지 열기` 대화상자 - 폴더 추가하기 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a116)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8c68793e-8495-406d-86f0-71860f5a8741"></video>
 
 ### 위치(Places) 목록의 `-` 버튼
 `위치(Places)` 목록의 아래쪽의 `-` 버튼은 `위치(Places)` 목록에서 선택된 폴더를 지웁니다.
 
-#### [그림 90.4.38.a114. `이미지 열기` 대화상자 - 위치(Places) 목록의 `-` 버튼 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a114-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98---%EB%B2%84%ED%8A%BC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-38-open_image(windows)(ko)-focus-place_list-btn_remove](https://github.com/wonder13662/gimp/assets/15767104/2c0fea1e-4006-42b0-9faa-0f12c7594ce2)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a114-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98---%EB%B2%84%ED%8A%BC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a114"></a>
 
-#### [영상 90.4.38.a117. `이미지 열기` 대화상자 - 폴더 제거하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a117-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8F%B4%EB%8D%94-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### [그림 90.4.38.a114. `이미지 열기` 대화상자 - 위치(Places) 목록의 `-` 버튼 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a114)
+![90-04-38-a114](https://github.com/wonder13662/gimp/assets/15767104/2c0fea1e-4006-42b0-9faa-0f12c7594ce2)
+
+<a id="90-04-38-a117"></a>
+
+#### [영상 90.4.38.a117. `이미지 열기` 대화상자 - 폴더 제거하기 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a117)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b23db11-11fb-4f3f-bebe-2ae1e13b7b93"></video>
 
 ### 위치(Places) 목록의 폴더 클릭
 `위치(Places)` 목록의 폴더를 클릭하면 파일 목록이 해당 폴더로 바로 이동합니다.
 
-#### [영상 90.4.38.a115. `이미지 열기` 대화상자 - 위치(Places) 목록의 폴더를 클릭 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a115-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98places-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%8F%B4%EB%8D%94%EB%A5%BC-%ED%81%B4%EB%A6%AD-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a115"></a>
+
+#### [영상 90.4.38.a115. `이미지 열기` 대화상자 - 위치(Places) 목록의 폴더를 클릭 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a115)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c792bbc8-26cc-49a7-b2de-6c66008ec909"></video>
 
 > 🗒️ 참고
@@ -65,31 +81,42 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 ## 콘텐츠 목록
 `이미지 열기` 대화상자의 가운데에는 선택된 폴더(디렉토리)의 콘텐츠 목록이 있습니다.
 
-#### [그림 90.4.38.a121. `이미지 열기` 대화상자 - 콘텐츠 목록 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a121-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-38-open_image(windows)(ko)-focus-content_list](https://github.com/wonder13662/gimp/assets/15767104/d2fa06b0-52b7-4b39-a993-ffa4232b5ba9)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a121-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a121"></a>
+
+#### [그림 90.4.38.a121. `이미지 열기` 대화상자 - 콘텐츠 목록 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a121)
+![90-04-38-a121](https://github.com/wonder13662/gimp/assets/15767104/d2fa06b0-52b7-4b39-a993-ffa4232b5ba9)
 
 ### 콘텐츠 목록의 하위 폴더(디렉토리)
 하위 폴더(디렉토리)는 목록의 위쪽에 보여줍니다.
 
-#### [그림 90.4.38.a122. `이미지 열기` 대화상자 - 콘텐츠 목록의 하위 폴더(디렉토리) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a122-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%95%98%EC%9C%84-%ED%8F%B4%EB%8D%94%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-38-open_image(windows)(ko)-focus-content_list-subdirectory](https://github.com/wonder13662/gimp/assets/15767104/da0dcebb-81fc-4668-ab6a-05ee7ab4d4ba)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a122-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%95%98%EC%9C%84-%ED%8F%B4%EB%8D%94%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a122"></a>
+
+#### [그림 90.4.38.a122. `이미지 열기` 대화상자 - 콘텐츠 목록의 하위 폴더(디렉토리) (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a122)
+![90-04-38-a122](https://github.com/wonder13662/gimp/assets/15767104/da0dcebb-81fc-4668-ab6a-05ee7ab4d4ba)
 
 ### 콘텐츠 목록의 파일
 파일은 하위 폴더(디렉토리)의 아래쪽에 있습니다.
 
-#### [그림 90.4.38.a123. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a123-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%8C%8C%EC%9D%BC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-38-open_image(windows)(ko)-focus-content_list-image_file](https://github.com/wonder13662/gimp/assets/15767104/36aa5cf7-6627-48d7-b49f-c383298b7261)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a123-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%8C%8C%EC%9D%BC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a123"></a>
+
+#### [그림 90.4.38.a123. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a123)
+![90-04-38-a123](https://github.com/wonder13662/gimp/assets/15767104/36aa5cf7-6627-48d7-b49f-c383298b7261)
 
 ### 콘텐츠 목록의 파일 유형 제한
 기본값으로 폴더(디렉토리)의 모든 파일을 보여줍니다. 하지만 특정 유형의 이미지 파일만 보여지도록 제한할 수 있습니다. 보여지는 파일 유형을 제한하려면, 대화상자의 콘텐츠 목록의 아래의 `파일 유형 선택`에서 보여질 파일 유형을 선택할 수 있습니다.
 
-#### [그림 90.4.38.a124. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a124-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%9C%A0%ED%98%95-%EC%A0%9C%ED%95%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-38-open_image(windows)(ko)-focus-file_type](https://github.com/wonder13662/gimp/assets/15767104/c58708b1-dbd0-4647-b849-5308410438b2)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a124-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%9C%A0%ED%98%95-%EC%A0%9C%ED%95%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a124"></a>
+
+#### [그림 90.4.38.a124. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a124)
+![90-04-38-a124](https://github.com/wonder13662/gimp/assets/15767104/c58708b1-dbd0-4647-b849-5308410438b2)
 
 아래 예시 영상에서는 `파일 유형 선택`에서 파일 유형을 `jpg`로 제한해서, `xcf` 유형 파일이 목록에서 사라지는 모습을 볼 수 있습니다.
 
-#### [영상 90.4.38.a125. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 설정하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a125-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%BD%98%ED%85%90%EC%B8%A0-%EB%AA%A9%EB%A1%9D%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%9C%A0%ED%98%95-%EC%A0%9C%ED%95%9C-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a125"></a>
+
+#### [영상 90.4.38.a125. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 설정하기 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a125)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0ecf2554-c3cc-4949-9ece-70d688a0834a"></video>
+
 <br/>
 > 🗒️ 참고
 > `이미지 열기` 대화상자의 콘텐츠 목록에서 이미지 파일을 선택하고 대화상자 아래쪽 오른편의 `열기(Open)` 버튼을 누르면, 거의 대부분은 GIMP(김프)에서 파일 유형(File Type)을 자동으로 선택합니다. 매우 드문 경우지만, 파일 유형이 일반적이지 않거나, 확장자가 빠져있는 경우, GIMP(김프)에서 파일 유형을 파악하지 못할 수 있습니다. 이런 경우에는 필요하다면 대화 상자 아래쪽에 있는 `파일 유형 선택(Select File Type)`을 사용해서 파일 유형을 직접 선택할 수 있습니다. 만약 GIMP(김프)가 이미지 파일을 여는 데 실패한다면, 이미지 파일이 손상되었거나 지원하지 않은 파일 유형일 수 있습니다.
@@ -97,27 +124,35 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 ## 미리보기(Preview)
 콘텐츠 목록의 이미지 파일을 선택하면, 이미지의 기본 정보와 함께 미리보기가 `이미지 열기` 대화상자의 오른쪽에 나타납니다.
 
-#### [그림 90.4.38.a131. `이미지 열기` 대화상자 - 미리보기(Preview) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a131-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0preview-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-38-open_image(windows)(ko)-focus-preview](https://github.com/wonder13662/gimp/assets/15767104/d92741cb-065f-47b0-b18a-e67b3ee01192)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a131-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0preview-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a131"></a>
+
+#### [그림 90.4.38.a131. `이미지 열기` 대화상자 - 미리보기(Preview) (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a131)
+![90-04-38-a131](https://github.com/wonder13662/gimp/assets/15767104/d92741cb-065f-47b0-b18a-e67b3ee01192)
 
 ### 미리보기 캐시 해제
 미리보기는 만들어지면서 캐싱되는 점에 주의하세요. 미리보기는 캐싱되었기 때문에 이미지의 최신 상태를 보여주지 못할 수도 있습니다. 미리보기가 이미지의 최신 상태를 보여주지 않는다고 생각된다면, Ctrl(Windows) 또는 ⌘(Mac)을 누른 채로 키를 누른 상태로 미리보기 영역을 클릭하세요. 미리보기의 캐시가 해제되고 새로운 미리보기 이미지를 강제로 만들수 있습니다.
 
 아래 예시 이미지(`자동 캐시 해제`)에서 GIMP(김프) 자체적으로 이미지의 상태를 검사하여, 미리보기를 자동으로 업데이트하는 경우를 확인할 수 있습니다.
 
-#### [영상 90.4.38.a132. `이미지 열기` 대화상자 - 미리보기(Preview)의 자동 캐시 해제 ](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a132-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0preview%EC%9D%98-%EC%9E%90%EB%8F%99-%EC%BA%90%EC%8B%9C-%ED%95%B4%EC%A0%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)(Windows) (우리말)
+<a id="90-04-38-a132"></a>
+
+#### [영상 90.4.38.a132. `이미지 열기` 대화상자 - 미리보기(Preview)의 자동 캐시 해제 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a132)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4a1a94b6-99e7-42c9-95db-a4d031676ef3"></video>
 
 시스템의 상황에 따라 미리보기의 자동 업데이트가 지연되거나 이루어지지 않는 경우가 있습니다. 이럴 때는 위의 설명대로 직접 Ctrl + 클릭(Windows) 또는 ⌘ + 클릭(Mac)으로 강제로 미리보기 업데이트를 진행하면 최신의 미리보기를 볼 수 있습니다.
 
-#### [영상 90.4.38.a133. `이미지 열기` 대화상자 - 미리보기(Preview)의 수동 캐시 해제](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a133-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0preview%EC%9D%98-%EC%88%98%EB%8F%99-%EC%BA%90%EC%8B%9C-%ED%95%B4%EC%A0%9C-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)(Windows) (우리말)
+<a id="90-04-38-a133"></a>
+
+#### [영상 90.4.38.a133. `이미지 열기` 대화상자 - 미리보기(Preview)의 수동 캐시 해제 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a133)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ff987087-ee28-45f0-a630-52ca3a7987dd"></video>
 
 ## 위치 입력창(Location text box)
 위치 입력창(Location text box)은 기본값으로 `이미지 열기` 대화상자에 표시됩니다. 위치 입력창에 이미지 파일의 경로를 직접 입력해서 이미지를 열 수 있습니다.
 
-#### [그림 90.4.38.a141. `이미지 열기` 대화상자 - 위치 입력창 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a141-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98-%EC%9E%85%EB%A0%A5%EC%B0%BD-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-38-open_image(windows)(ko)-location-focus-locatoin_text_box](https://github.com/wonder13662/gimp/assets/15767104/48cfaeaa-15aa-494e-afbe-635402e0ade6)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a141-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%9C%84%EC%B9%98-%EC%9E%85%EB%A0%A5%EC%B0%BD-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a141"></a>
+
+#### [그림 90.4.38.a141. `이미지 열기` 대화상자 - 위치 입력창 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a141)
+![90-04-38-a141](https://github.com/wonder13662/gimp/assets/15767104/48cfaeaa-15aa-494e-afbe-635402e0ade6)
 
 ### 위치 입력창 단축키
 위치 입력창이 표시되지 않을 수도 있는데요, 이런 경우에는 `Ctrl + L`(Windows, Mac 동일)를 눌러서 위치 입력창을 표시하거나 하지 않는 토글을 할 수 있습니다. 아래 동영상에서 단축키로 위치 입력창을 열고, 이미지 경로를 직접 입력해서 이미지를 여는 과정을 확인할 수 있습니다.
@@ -128,21 +163,29 @@ GIMP(김프) 2.2부터 `이미지 열기` 대화상자에서 파일을 빠르게
 ### 위치 입력창 버튼
 또 다른 방법으로, "종이와 연필 아이콘"을 눌러 위치 입력창을 표시하거나 하지 않는 토글을 할 수 있습니다. "종이와 연필 아이콘"은 `이미지 열기` 대화상자의 위쪽의 왼편에 있습니다.
 
-#### [그림 90.4.38.a143. `이미지 열기` 대화상자 - 종이와 연필 아이콘 (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a143-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%A2%85%EC%9D%B4%EC%99%80-%EC%97%B0%ED%95%84-%EC%95%84%EC%9D%B4%EC%BD%98-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-38-open_image(windows)(ko)-location-paper_n_pencil_icon](https://github.com/wonder13662/gimp/assets/15767104/7145e76c-7546-425a-ad8a-0ae7302168df)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a143-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%A2%85%EC%9D%B4%EC%99%80-%EC%97%B0%ED%95%84-%EC%95%84%EC%9D%B4%EC%BD%98-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a143"></a>
+
+#### [그림 90.4.38.a143. `이미지 열기` 대화상자 - 종이와 연필 아이콘 (우리말)](./90-04-38-open_image.md#90-04-38-a143)
+![90-04-38-a143](https://github.com/wonder13662/gimp/assets/15767104/7145e76c-7546-425a-ad8a-0ae7302168df)
 
 아래 동영상에서 "종이와 연필 아이콘"을 눌러 위치 입력창을 열고, 이미지 경로를 직접 입력하여 이미지를 여는 과정을 확인할 수 있습니다.
 
-#### [영상 90.4.38.a144. `이미지 열기` 대화상자 - 종이와 연필 아이콘 버튼으로 위치 입력창 열기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a144-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%A2%85%EC%9D%B4%EC%99%80-%EC%97%B0%ED%95%84-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%B2%84%ED%8A%BC%EC%9C%BC%EB%A1%9C-%EC%9C%84%EC%B9%98-%EC%9E%85%EB%A0%A5%EC%B0%BD-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a144"></a>
+
+#### [영상 90.4.38.a144. `이미지 열기` 대화상자 - 종이와 연필 아이콘 버튼으로 위치 입력창 열기 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a144)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1af03cff-f32b-4a45-b866-eaebf1efe82e"></video>
 
 ## 폴더(디렉토리) 이동하기
 "종이와 연필 아이콘" 버튼의 오른쪽의 폴더 계층(hierarchy)을 이용해서 상위(부모) 폴더로 이동할 수 있습니다.
 
-#### [그림 90.4.38.a151. `이미지 열기` 대화상자 - 폴더 계층 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a151-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8F%B4%EB%8D%94-%EA%B3%84%EC%B8%B5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-38-open_image(windows)(ko)-folder_hierarchy-focus-folder_hierarchy](https://github.com/wonder13662/gimp/assets/15767104/8d722a80-c3dd-4d2f-ad08-1d1083f17df1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EA%B7%B8%EB%A6%BC-90438a151-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8F%B4%EB%8D%94-%EA%B3%84%EC%B8%B5-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-38-a151"></a>
 
-#### [영상 90.4.38.a152. `이미지 열기` 대화상자 - 폴더 계층에서 다른 계층의 폴더로 이동하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-38-open_image.html#%EC%98%81%EC%83%81-90438a152-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%8F%B4%EB%8D%94-%EA%B3%84%EC%B8%B5%EC%97%90%EC%84%9C-%EB%8B%A4%EB%A5%B8-%EA%B3%84%EC%B8%B5%EC%9D%98-%ED%8F%B4%EB%8D%94%EB%A1%9C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### [그림 90.4.38.a151. `이미지 열기` 대화상자 - 폴더 계층 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a151)
+![90-04-38-a151](https://github.com/wonder13662/gimp/assets/15767104/8d722a80-c3dd-4d2f-ad08-1d1083f17df1)
+
+<a id="90-04-38-a152"></a>
+
+#### [영상 90.4.38.a152. `이미지 열기` 대화상자 - 폴더 계층에서 다른 계층의 폴더로 이동하기 (Windows) (우리말)](./90-04-38-open_image.md#90-04-38-a152)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5381f2bb-1ac3-488e-93b5-ea9bd441400d"></video>
 
 ## 하위 페이지

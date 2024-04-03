@@ -1,26 +1,36 @@
 # 90.4.32. 이미지를 색인 색상으로 변환(Convert Image to Indexed Colors)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 
+<a id="90-04-32-a101"></a>
+
 #### 그림 90.4.32.a101. `이미지를 색인 색상으로 변환` 대화상자 (Windows) (우리말)
-![그림 90.4.32.a101. `이미지를 색인 색상으로 변환` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/309f2a53-e806-4d69-bb89-22799ea04368)
+![90-04-32-a101](https://github.com/wonder13662/gimp/assets/15767104/309f2a53-e806-4d69-bb89-22799ea04368)
 
-[3.4.7. 모드 바꾸기 - 그림 90.4.32.a101](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-07-change-the-mode.html#%EA%B7%B8%EB%A6%BC-90432a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%83%89%EC%9D%B8-%EC%83%89%EC%83%81%EC%9C%BC%EB%A1%9C-%EB%B3%80%ED%99%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[3.4.7. 모드 바꾸기 - 그림 90.4.32.a101](./03-04-07-change-the-mode.md#90-04-32-a101)
 
-[4.2.8. 인덱스 모드에서의 이미지 - 그림 90.4.32.a101](https://wonder13662.github.io/gimp/2.10.36_ko/04-02-08-the-image-is-in-indexed-color-mode.html#%EA%B7%B8%EB%A6%BC-90432a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%83%89%EC%9D%B8-%EC%83%89%EC%83%81%EC%9C%BC%EB%A1%9C-%EB%B3%80%ED%99%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[4.2.8. 인덱스 모드에서의 이미지 - 그림 90.4.32.a101](./04-02-08-the-image-is-in-indexed-color-mode.md#90-04-32-a101)
+
+<a id="90-04-32-a102"></a>
 
 #### 그림 90.4.32.a102. `이미지를 색인 색상으로 변환` 대화상자 (Windows) (영어)
-![그림 90.4.32.a102. `이미지를 색인 색상으로 변환` 대화상자 (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/0a185bb8-269a-4a5b-8444-86605abc7282)
+![90-04-32-a102](https://github.com/wonder13662/gimp/assets/15767104/0a185bb8-269a-4a5b-8444-86605abc7282)
+
+<a id="90-04-32-a103"></a>
 
 #### 그림 90.4.32.a103. `이미지를 색인 색상으로 변환` 대화상자 (Mac) (우리말)
-![그림 90.4.32.a103. `이미지를 색인 색상으로 변환` 대화상자 (Mac) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/54164ac2-e6e3-4156-addb-5ed92e82e10d)
+![90-04-32-a103](https://github.com/wonder13662/gimp/assets/15767104/54164ac2-e6e3-4156-addb-5ed92e82e10d)
+
+<a id="90-04-32-a104"></a>
 
 #### 그림 90.4.32.a104. `이미지를 색인 색상으로 변환` 대화상자 (Mac) (영어)
-![그림 90.4.32.a104. `이미지를 색인 색상으로 변환` 대화상자 (Mac) (영어)](https://github.com/wonder13662/gimp/assets/15767104/4111dfa8-156c-45f4-ad3c-42d9313e496a)
+![90-04-32-a104](https://github.com/wonder13662/gimp/assets/15767104/4111dfa8-156c-45f4-ad3c-42d9313e496a)
+
+<a id="90-04-32-a111"></a>
 
 #### 그림 90.4.32.a111. `이미지를 색인 색상으로 변환` 대화상자 - 흑백(1비트) 팔레트 사용 (Windows) (우리말)
-![90-04-32-indexed_color_conversion(windows)(ko)-focus-use_black_and_white_palette](https://github.com/wonder13662/gimp/assets/15767104/10c9fc28-e330-430a-8a8f-70d752eb7162)
+![90-04-32-a111](https://github.com/wonder13662/gimp/assets/15767104/10c9fc28-e330-430a-8a8f-70d752eb7162)
 
-[6.1.2.5. TIFF로 이미지 내보내기 - 그림 90.4.32.a111](https://wonder13662.github.io/gimp/2.10.36_ko/06-01-filesx-02-file_formatsx-05-export_image_as_tiff.html#%EA%B7%B8%EB%A6%BC-90432a111-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%83%89%EC%9D%B8-%EC%83%89%EC%83%81%EC%9C%BC%EB%A1%9C-%EB%B3%80%ED%99%98-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%ED%9D%91%EB%B0%B11%EB%B9%84%ED%8A%B8-%ED%8C%94%EB%A0%88%ED%8A%B8-%EC%82%AC%EC%9A%A9-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+[6.1.2.5. TIFF로 이미지 내보내기 - 그림 90.4.32.a111](./06-01-02-05-export_image_as_tiff.md#90-04-32-a111)
 
 ***
 

@@ -7,8 +7,10 @@
 ## 1. 새 이미지 만들기
 너비 30 픽셀, 높이 30 픽셀의 새로운 이미지를 엽니다. `색상 공간(Color space)`은 `RGB` 색상으로 맞추고, `채우기(Fill with)`는 `투명(Transparency)`로 설정합니다.
 
-#### [그림 90.4.37.a125. `새 이미지 만들기` 대화상자 - 고급옵션 (Windows) (우리말) - 1차원 이미지 파이프 만들기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-37-create_a_new_image.html#%EA%B7%B8%EB%A6%BC-90437a125-%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89%EC%98%B5%EC%85%98-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---1%EC%B0%A8%EC%9B%90-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%B4%ED%94%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-[![90-04-37-create_a_new_image-advanced_options(windows)(ko)-07-08-02-01-one_dimension](https://github.com/wonder13662/gimp/assets/15767104/1af96891-f5e0-4a4e-8503-62c64e760165)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-37-create_a_new_image.html#%EA%B7%B8%EB%A6%BC-90437a125-%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B3%A0%EA%B8%89%EC%98%B5%EC%85%98-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---1%EC%B0%A8%EC%9B%90-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%B4%ED%94%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+<a id="90-04-37-a125"></a>
+
+#### [그림 90.4.37.a125. `새 이미지 만들기` 대화상자 - 고급옵션 (Windows) (우리말) - 1차원 이미지 파이프 만들기](./90-04-37-create_a_new_image.md#90-04-37-a125)
+![90-04-37-a125](https://github.com/wonder13662/gimp/assets/15767104/1af96891-f5e0-4a4e-8503-62c64e760165)
 
 ## 2. 레이어 만들기
 `텍스트` 도구로 4개의 레이어에 각각 "1", "2", "3", "4"을 만듭니다. 기본적으로 추가된 `배경(background)` 레이어를 삭제합니다. 아래 이미지의 레이어 순서에 주의하세요. 레이어 순서가 붓을 칠할때 그려질 순서가 됩니다.

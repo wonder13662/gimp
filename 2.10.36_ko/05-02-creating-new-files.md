@@ -8,10 +8,12 @@
 
 대화상자에서 너비와 높이를 조정하거나 초기값을 사용하여 새로운 이미지 파일을 만듭니다. `새 이미지 만들기` 대화상자에 대한 좀 더 많은 정보는 [16.2.2. 새 이미지](./16-02-02-new.md)를 확인해주세요.
 
-#### [그림 90.4.37.a101. `새 이미지 만들기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-37-create_a_new_image.html#%EA%B7%B8%EB%A6%BC-90437a101-%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-37-create_a_new_image(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/4dec9acc-8261-45c9-9223-48db1f819154)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-37-create_a_new_image.html#%EA%B7%B8%EB%A6%BC-90437a101-%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-37-a101"></a>
 
-[다른 운영체제와 언어의 `새 이미지 만들기` 대화상자 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-37-create_a_new_image.html#%EA%B7%B8%EB%A6%BC-90437a102-%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%98%81%EC%96%B4)
+#### [그림 90.4.37.a101. `새 이미지 만들기` 대화상자 (Windows) (우리말)](./90-04-37-create_a_new_image.md#90-04-37-a101)
+![90-04-37-a101](https://github.com/wonder13662/gimp/assets/15767104/4dec9acc-8261-45c9-9223-48db1f819154)
+
+[다른 운영체제와 언어의 `새 이미지 만들기` 대화상자 확인하기](./90-04-37-create_a_new_image.md#90-04-37-a102)
 
 <a id="90-01-01-01-a111"></a>
 

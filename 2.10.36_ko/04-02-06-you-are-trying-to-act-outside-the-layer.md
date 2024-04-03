@@ -36,10 +36,12 @@ GIMP에서 레이어는 이미지와 같은 크기를 갖지 않을수도 있습
 #### [그림 90.1.6.11.a101. `레이어` → `레이어 경계 크기`](./90-01-06-11-layer_boundary_size.md#90-01-06-11-a101)
 ![그림 90.1.6.11.a101. `레이어` → `레이어 경계 크기`](https://github.com/wonder13662/gimp/assets/15767104/8bc87bfb-5f7b-43f1-bd21-458ad1fadd75)
 
-#### [그림 90.4.35.a101. `레이어 경계 크기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-35-layer_to_boundary_size.html#%EA%B7%B8%EB%A6%BC-90435a101-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B2%BD%EA%B3%84-%ED%81%AC%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-35-layer_to_boundary_size(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/e85a3f18-db98-44a4-9a2e-b1be86828c4d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-35-layer_to_boundary_size.html#%EA%B7%B8%EB%A6%BC-90435a101-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B2%BD%EA%B3%84-%ED%81%AC%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-35-a101"></a>
 
-[다른 운영체제와 언어의 `레이어 경계 크기` 대화상자 확인하기](./90-04-35-layer_to_boundary_size.md)
+#### [그림 90.4.35.a101. `레이어 경계 크기` 대화상자 (Windows) (우리말)](./90-04-35-layer_to_boundary_size.md#90-04-35-a101)
+![90-04-35-a101](https://github.com/wonder13662/gimp/assets/15767104/e85a3f18-db98-44a4-9a2e-b1be86828c4d)
+
+[다른 운영체제와 언어의 `레이어 경계 크기` 대화상자 확인하기](./90-04-35-layer_to_boundary_size.md#90-04-35-a102)
 
 <a id="90-01-06-11-a102"></a>
 
@@ -54,10 +56,12 @@ GIMP에서 레이어는 이미지와 같은 크기를 갖지 않을수도 있습
 #### [그림 90.1.6.13.a101. `레이어` → `레이어 크기 조정`](./90-01-06-13-scale_layer.md#90-01-06-13-a101)
 ![그림 90.1.6.13.a101. `레이어` → `레이어 크기 조정`](https://github.com/wonder13662/gimp/assets/15767104/7a1b1caf-66a5-4806-b202-5dcffa19a8e8)
 
-#### [그림 90.4.36.a101. `레이어 크기 조정` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-36-scale_layer.html#%EA%B7%B8%EB%A6%BC-90436a101-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%95-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-36-scale_layer(ko)](https://github.com/wonder13662/gimp/assets/15767104/2425d28c-3011-4c27-afed-728c962aff00)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-36-scale_layer.html#%EA%B7%B8%EB%A6%BC-90436a101-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%95-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-36-a101"></a>
 
-[다른 운영체제와 언어의 `레이어 크기 조정` 대화상자 확인하기](./90-04-36-scale_layer.md)
+#### [그림 90.4.36.a101. `레이어 크기 조정` 대화상자 (Windows) (우리말)](./90-04-36-scale_layer.md#90-04-36-a101)
+![90-04-36-a101](https://github.com/wonder13662/gimp/assets/15767104/2425d28c-3011-4c27-afed-728c962aff00)
+
+[다른 운영체제와 언어의 `레이어 크기 조정` 대화상자 확인하기](./90-04-36-scale_layer.md#90-04-36-a102)
 
 <a id="90-01-06-13-a102"></a>
 

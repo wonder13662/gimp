@@ -39,10 +39,14 @@
 
 배경 레이어에 투명도를 주고 싶다면, 이미지를 새로 만들때 투명 채우기 타입(Transparent Fill type)을 선택합니다.
 
-#### [그림 90.4.37.a126. `새 이미지 만들기` 대화상자 → 고급옵션 → `채우기`: 투명 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-37-create_a_new_image.html#%EA%B7%B8%EB%A6%BC-90437a126-%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EA%B3%A0%EA%B8%89%EC%98%B5%EC%85%98--%EC%B1%84%EC%9A%B0%EA%B8%B0-%ED%88%AC%EB%AA%85-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-37-create_a_new_image(windows)(ko)-focus-fill_with_transparency](https://github.com/wonder13662/gimp/assets/15767104/24efa990-083d-40f3-9f9f-de554f0e973a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-37-create_a_new_image.html#%EA%B7%B8%EB%A6%BC-90437a126-%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EA%B3%A0%EA%B8%89%EC%98%B5%EC%85%98--%EC%B1%84%EC%9A%B0%EA%B8%B0-%ED%88%AC%EB%AA%85-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-37-a126"></a>
 
-#### [영상 90.4.37.a127. `새 이미지 만들기` 대화상자 → 고급옵션 → `채우기`: 투명 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-37-create_a_new_image.html#%EC%98%81%EC%83%81-90437a127-%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EA%B3%A0%EA%B8%89%EC%98%B5%EC%85%98--%EC%B1%84%EC%9A%B0%EA%B8%B0-%ED%88%AC%EB%AA%85-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### [그림 90.4.37.a126. `새 이미지 만들기` 대화상자 → 고급옵션 → `채우기`: 투명 (Windows) (우리말)](./90-04-37-create_a_new_image.md#90-04-37-a126)
+![90-04-37-a126](https://github.com/wonder13662/gimp/assets/15767104/24efa990-083d-40f3-9f9f-de554f0e973a)
+
+<a id="90-04-37-a127"></a>
+
+#### [영상 90.4.37.a127. `새 이미지 만들기` 대화상자 → 고급옵션 → `채우기`: 투명 (Windows) (우리말)](./90-04-37-create_a_new_image.md#90-04-37-a127)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/374e5ad4-7c3c-4832-b140-7e25c1ccc7cf"></video>
 
 또다른 방법은 [레이어 대화상자](./15-02-01-00-layers-dialog.md)의 오른쪽 클릭 팝업 메뉴에서 [`알파 채널 추가`](./16-07-34-add-alpha-channel.md)를 클릭합니다.

@@ -8,10 +8,12 @@
 #### [그림 90.1.5.9.a101. 이미지 메뉴 바에서 '인쇄 크기'의 위치](./90-01-05-09-print_size.md#90-01-05-09-a101)
 ![그림 3.4.3.1 인쇄 크기(Print Size...)의 위치](https://github.com/wonder13662/gimp/assets/15767104/e0860f85-9f68-4778-becb-23e3e6d62ac8)
 
-#### [그림 90.4.30.a101 인쇄 해상도 설정 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-30-set_image_print_resolution.html#%EA%B7%B8%EB%A6%BC-90430a101-%EC%9D%B8%EC%87%84-%ED%95%B4%EC%83%81%EB%8F%84-%EC%84%A4%EC%A0%95-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-30-set_image_print_resolution(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/6f4138fe-b944-4a86-bd46-9b30ddd4181c)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-30-set_image_print_resolution.html#%EA%B7%B8%EB%A6%BC-90430a101-%EC%9D%B8%EC%87%84-%ED%95%B4%EC%83%81%EB%8F%84-%EC%84%A4%EC%A0%95-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-30-a101"></a>
 
-[다른 운영체제와 언어의 '인쇄 해상도 설정' 대화상자 확인하기](./90-04-30-set_image_print_resolution.md)
+#### [그림 90.4.30.a101 인쇄 해상도 설정 대화상자 (Windows) (우리말)](./90-04-30-set_image_print_resolution.md#90-04-30-a101)
+![90-04-30-a101](https://github.com/wonder13662/gimp/assets/15767104/6f4138fe-b944-4a86-bd46-9b30ddd4181c)
+
+[다른 운영체제와 언어의 '인쇄 해상도 설정' 대화상자 확인하기](./90-04-30-set_image_print_resolution.md#90-04-30-a102)
 
 ***
 

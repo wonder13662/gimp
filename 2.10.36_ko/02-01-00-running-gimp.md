@@ -162,11 +162,15 @@ GTK+ 옵션을 보여줍니다.
 #### [그림 90.4.15.a101. 붓 대화상자(brush dialog)](./90-04-15-brushes.md#90-04-15-a101)
 ![90-04-15-a101](https://github.com/wonder13662/gimp/assets/15767104/59bbf85f-d885-4f8a-bc09-d05a0fc7ac23)
 
-#### 그림 2.1.3.a14. 그라디언트 대화상자(gradient dialog)
-<img width="426" alt="no-data-gradient" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ad0a4680-d117-47f0-90f0-edf3e532020a">
+<a id="90-04-19-a4"></a>
 
-#### 그림 2.1.3.a15. 팔레트 대화상자(palette dialog)
-<img width="425" alt="no-data-palette" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0734f993-5e82-4182-a986-931dadbb3eb9">
+#### [그림 90.4.19.a4. 그라디언트 대화상자(gradient dialog)](./90-04-19-gradient.md#90-04-19-a4)
+![90-04-19-a4](https://github.com/wonder13662/gimp/assets/15767104/ad0a4680-d117-47f0-90f0-edf3e532020a)
+
+<a id="90-04-20-a4"></a>
+
+#### [그림 90.4.20.a4. 팔레트 대화상자(palette dialog)](./90-04-20-palette.md#90-04-20-a4)
+![90-04-20-a4](https://github.com/wonder13662/gimp/assets/15767104/0734f993-5e82-4182-a986-931dadbb3eb9)
 
 <a id="90-04-18-a2"></a>
 
@@ -180,10 +184,10 @@ GTK+ 옵션을 보여줍니다.
 
 아래 이미지는 위 옵션으로 실행한 경우(`-no-fonts`)와 그렇지 않은 경우를 비교한 이미지입니다.
 
-<a id="02-01-03-a18"></a>
+<a id="90-04-21-a2"></a>
 
-#### 그림 2.1.3.a18. `-no-fonts` 사용한 경우와 그렇지 않은 경우 비교
-<img width="480" alt="no-fonts" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fc8d52e4-09ac-46b2-8e46-278fd53bef95">
+#### [그림 90.4.21.a2. `-no-fonts` 사용한 경우와 그렇지 않은 경우 비교](./90-04-21-fonts.md#90-04-21-a2)
+![90-04-21-a2](https://github.com/wonder13662/gimp/assets/15767104/fc8d52e4-09ac-46b2-8e46-278fd53bef95)
 
 ### `-s`, `--no-splash`
 시작시 스플래쉬 화면을 보여주지 않습니다.
