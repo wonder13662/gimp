@@ -60,14 +60,22 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cc6aec8e-3d77-4945-8685-b7aa00245c07"></video>
 
 ## 3.2.3.1.9. 탭의 위쪽을 끌어서 대화상자를 원하는 곳으로 이동
-#### [영상 90.4.a111. 대화상자 이동](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EC%98%81%EC%83%81-904a111-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%9D%B4%EB%8F%99)
+
+<a id="90-04-a111"></a>
+
+#### [영상 90.4.a111. 대화상자 이동](./90-04-00-dialogs.md#90-04-a111)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d493e232-1630-47f5-8e5b-5fda0fdd0b87"></video>
 
 ## 3.2.3.1.10. 새 대화상자를 대화상자 그룹에 넣기
-#### [영상 90.4.a112. 대화상자그룹에 넣기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EC%98%81%EC%83%81-904a112-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EA%B7%B8%EB%A3%B9%EC%97%90-%EB%84%A3%EA%B8%B0)
+
+<a id="90-04-a112"></a>
+
+#### [영상 90.4.a112. 대화상자그룹에 넣기](./90-04-00-dialogs.md#90-04-a112)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e3a0a266-aba7-4a96-86f4-ab00cc4168d2"></video>
 
-#### [영상 90.4.a113. 독(Dock) 한쪽에 대화상자 추가](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EC%98%81%EC%83%81-904a113-%EB%8F%85dock-%ED%95%9C%EC%AA%BD%EC%97%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%EC%B6%94%EA%B0%80)
+<a id="90-04-a113"></a>
+
+#### [영상 90.4.a113. 독(Dock) 한쪽에 대화상자 추가](./90-04-00-dialogs.md#90-04-a113)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b1acca7-a83c-4b8d-a5fe-10a4ab7b7979"></video>
 
 ## 3.2.3.1.12. 탭 메뉴의 탭 추가하기

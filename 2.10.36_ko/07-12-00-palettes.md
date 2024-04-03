@@ -31,8 +31,10 @@ GIMP(김프)를 설치하면, 수십 개의 팔레트가 기본적으로 함께 
 ### 4-2. 팔레트 편집기의 색으로 전경색(Foreground color) 바꾸기
 [`팔레트 편집기`](./15-03-06-04-palette_editor.md)의 색상을 클릭하면 도구 상자의 전경색을 바꿀 수 있습니다.
 
-#### [그림 90.3.4.a5. 도구상자의 '붓/무늬/그라디언트' - `색상(전경색)`](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a5-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%EC%83%89%EC%83%81%EC%A0%84%EA%B2%BD%EC%83%89)
-[![90-03-04-brush_pattern_gradient(windows)(ko)-focus-fg](https://github.com/wonder13662/gimp/assets/15767104/f1ae8ae0-2e40-437c-924d-e961c58438b4)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a5-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%EC%83%89%EC%83%81%EC%A0%84%EA%B2%BD%EC%83%89)
+<a id="90-03-04-a5"></a>
+
+#### [그림 90.3.4.a5. 도구상자의 '붓/무늬/그라디언트' - `색상(전경색)`](./90-03-04-brush_n_pattern_n_gradient.md#90-03-04-a5)
+![90-03-04-a5](https://github.com/wonder13662/gimp/assets/15767104/f1ae8ae0-2e40-437c-924d-e961c58438b4)
 
 #### [영상 90.4.60.a106. `팔레트 편집기` 대화상자에서 전경색 바꾸기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-60-palette_editor.html#%EC%98%81%EC%83%81-90460a106-%ED%8C%94%EB%A0%88%ED%8A%B8-%ED%8E%B8%EC%A7%91%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%EC%A0%84%EA%B2%BD%EC%83%89-%EB%B0%94%EA%BE%B8%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ca43d56d-6833-41fe-a46b-b5107ba50a35"></video>
@@ -40,8 +42,10 @@ GIMP(김프)를 설치하면, 수십 개의 팔레트가 기본적으로 함께 
 ### 4-3. 팔레트 편집기의 색으로 배경색(Background color) 바꾸기
 Ctrl(⌘) 키를 누른 채로 [`팔레트 편집기`](./15-03-06-04-palette_editor.md)의 색상을 클릭하면 도구 상자의 배경색을 바꿀 수 있습니다.
 
-#### [그림 90.3.4.a6. 도구상자의 '붓/무늬/그라디언트' - `색상(배경색)`](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a6-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%EC%83%89%EC%83%81%EB%B0%B0%EA%B2%BD%EC%83%89)
-[![90-03-04-brush_pattern_gradient(windows)(ko)-focus-bg](https://github.com/wonder13662/gimp/assets/15767104/2fcabec2-7760-4394-b1cd-8d93cb643d2e)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a6-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%EC%83%89%EC%83%81%EB%B0%B0%EA%B2%BD%EC%83%89)
+<a id="90-03-04-a6"></a>
+
+#### [그림 90.3.4.a6. 도구상자의 '붓/무늬/그라디언트' - `색상(배경색)`](./90-03-04-brush_n_pattern_n_gradient.md#90-03-04-a6)
+![90-03-04-a6](https://github.com/wonder13662/gimp/assets/15767104/2fcabec2-7760-4394-b1cd-8d93cb643d2e)
 
 #### [영상 90.4.60.a107. `팔레트 편집기` 대화상자에서 배경색 바꾸기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-60-palette_editor.html#%EC%98%81%EC%83%81-90460a107-%ED%8C%94%EB%A0%88%ED%8A%B8-%ED%8E%B8%EC%A7%91%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%EB%B0%B0%EA%B2%BD%EC%83%89-%EB%B0%94%EA%BE%B8%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5c521c2d-36df-4f9f-91c2-7d6d30c8d3b4"></video>

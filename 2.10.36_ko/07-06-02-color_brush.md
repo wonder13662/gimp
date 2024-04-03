@@ -11,13 +11,17 @@
 ### 2. 색상 붓 이미지 만들기
 `색상 붓`을 만들기 위해서 작은 RGBA 이미지를 준비합니다. 이미지를 그리고, 작업한 이미지의 모든 속성을 `.xcf` 파일로 저장합니다.
 
-#### [그림 90.4.15.a161. 색상붓 만들기 - RGBA 이미지](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EA%B7%B8%EB%A6%BC-90415a161-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---rgba-%EC%9D%B4%EB%AF%B8%EC%A7%80)
-[![color_brush](https://github.com/wonder13662/gimp/assets/15767104/31d1859a-794e-4674-9142-0c331d2f9de0)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EA%B7%B8%EB%A6%BC-90415a161-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---rgba-%EC%9D%B4%EB%AF%B8%EC%A7%80)
+<a id="90-04-15-a161"></a>
+
+#### [그림 90.4.15.a161. 색상붓 만들기 - RGBA 이미지](./90-04-15-brushes.md#90-04-15-a161)
+![90-04-15-a161](https://github.com/wonder13662/gimp/assets/15767104/31d1859a-794e-4674-9142-0c331d2f9de0)
 
 ### 3. 색상 붓 이미지를 `.gbr`로 내보내기
 그 다음에 `.gbr` 파일로 내보냅니다.
 
-#### [영상 90.4.15.a162. 색상붓 만들기 - RGBA 이미지를 `.gbr` 파일로 내보내기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a162-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---rgba-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-gbr-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0)
+<a id="90-04-15-a162"></a>
+
+#### [영상 90.4.15.a162. 색상붓 만들기 - RGBA 이미지를 `.gbr` 파일로 내보내기](./90-04-15-brushes.md#90-04-15-a162)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dc1297a0-7e4b-47a3-b60a-21f90d9da2fe"></video>
 
 ### 4. 저장한 `.gbr` 파일을 GIMP(김프)의 브러시 폴더로 옮기기
@@ -36,13 +40,17 @@
 ### 5. `붓 대화상자`에 새로운 색상 붓 불러오기
 `붓 대화상자`의 `Refresh brushes` 버튼을 눌러서 새로 추가한 `색상 붓`을 붓 대화상자에 띄웁니다.
 
-#### [영상 90.4.15.a163. 색상붓 만들기 - `.gbr` 파일을 불러오기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a163-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---gbr-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0)
+<a id="90-04-15-a163"></a>
+
+#### [영상 90.4.15.a163. 색상붓 만들기 - `.gbr` 파일을 불러오기](./90-04-15-brushes.md#90-04-15-a163)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/012bc61a-d955-42d3-99fa-d4b9297cfefa"></video>
 
 ### 6. 새로운 색상 붓으로 칠하기
 이제 새로 만든 붓으로 칠해보겠습니다. 전경색과는 상관없이 색상 붓의 자국이 가지고 있는 색상만이 표시됩니다.
 
-#### [영상 90.4.15.a164. 색상붓 만들기 - 색상붓으로 칠하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a164-%EC%83%89%EC%83%81%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%83%89%EC%83%81%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%98%EA%B8%B0)
+<a id="90-04-15-a164"></a>
+
+#### [영상 90.4.15.a164. 색상붓 만들기 - 색상붓으로 칠하기](./90-04-15-brushes.md#90-04-15-a164)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7162b436-f9c5-4b27-a706-9a7d8e59f383"></video>
 
 ***

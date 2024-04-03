@@ -4,16 +4,22 @@
 ## 경로 목록
 [경로 대화상자](./15-02-03-paths-dialog.md)에서 이미지 안에서 작업했던 경로의 목록을 볼 수 있습니다.
 
-#### [그림 90.4.5.a1. 경로 대화상자](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EA%B7%B8%EB%A6%BC-9045a1-%EA%B2%BD%EB%A1%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
-[![그림 90.4.5.a1. 경로 대화상자](https://github.com/wonder13662/gimp/assets/15767104/65211e47-f3d5-48cc-ab61-7c57babfa5ed)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EA%B7%B8%EB%A6%BC-9045a1-%EA%B2%BD%EB%A1%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
+<a id="90-04-05-a1"></a>
+
+#### [그림 90.4.5.a1. 경로 대화상자](./90-04-05-paths.md#90-04-05-a1)
+![90-04-05-a1](https://github.com/wonder13662/gimp/assets/15767104/65211e47-f3d5-48cc-ab61-7c57babfa5ed)
 
 ## 경로 복사
 경로 대화상자의 팝업 메뉴를 사용해서 경로를 작업중인 이미지에서 다른 이미지로 복사해서 붙여 넣을 수 있습니다. 또는 경로 대화상자에서 아이콘을 드래그해서 대상 이미지 창으로 옮길 수도 있습니다.
 
-#### [영상 90.4.5.a101. 경로를 팝업 메뉴로 복사 + 붙여넣기로 다른 이미지로 복사](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EC%98%81%EC%83%81-9045a101-%EA%B2%BD%EB%A1%9C%EB%A5%BC-%ED%8C%9D%EC%97%85-%EB%A9%94%EB%89%B4%EB%A1%9C-%EB%B3%B5%EC%82%AC--%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%B3%B5%EC%82%AC)
+<a id="90-04-05-a101"></a>
+
+#### [영상 90.4.5.a101. 경로를 팝업 메뉴로 복사 + 붙여넣기로 다른 이미지로 복사](./90-04-05-paths.md#90-04-05-a101)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7d23392f-30de-4885-a2bb-e8d5753564ab"></video>
 
-#### [영상 90.4.5.a102. 경로를 드래그해서 다른 이미지로 복사](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EC%98%81%EC%83%81-9045a102-%EA%B2%BD%EB%A1%9C%EB%A5%BC-%EB%93%9C%EB%9E%98%EA%B7%B8%ED%95%B4%EC%84%9C-%EB%8B%A4%EB%A5%B8-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%B3%B5%EC%82%AC)
+<a id="90-04-05-a102"></a>
+
+#### [영상 90.4.5.a102. 경로를 드래그해서 다른 이미지로 복사](./90-04-05-paths.md#90-04-05-a102)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bb16c014-9cd0-4009-a337-de5a34e6be21"></video>
 
 ## 경로는 베지에 곡선
@@ -22,19 +28,25 @@ GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입
 ## 경로의 고정점(Anchor) 또는 시작점(start point)
 고정점(anchor)은 경로가 지나가는 점입니다. [시작점(start point)]()이라고도 합니다.
 
-#### [그림 90.3.2.35.a22. 경로 속성 - 시작점(start point) 또는 고정점(anchor)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a22-%EA%B2%BD%EB%A1%9C-%EC%86%8D%EC%84%B1---%EC%8B%9C%EC%9E%91%EC%A0%90start-point-%EB%98%90%EB%8A%94-%EA%B3%A0%EC%A0%95%EC%A0%90anchor)
-[![path_props-start_point-animation](https://github.com/wonder13662/gimp/assets/15767104/edd6c798-eb98-4ce0-9d37-5caabfa56e09)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a22-%EA%B2%BD%EB%A1%9C-%EC%86%8D%EC%84%B1---%EC%8B%9C%EC%9E%91%EC%A0%90start-point-%EB%98%90%EB%8A%94-%EA%B3%A0%EC%A0%95%EC%A0%90anchor)
+<a id="90-03-02-35-a22"></a>
+
+#### [그림 90.3.2.35.a22. 경로 속성 - 시작점(start point) 또는 고정점(anchor)](./90-03-02-35-paths.md#90-03-02-35-a22)
+![90-03-02-35-a22](https://github.com/wonder13662/gimp/assets/15767104/edd6c798-eb98-4ce0-9d37-5caabfa56e09)
 
 ## 경로의 핸들(Handle)
 핸들(handle)는 고정점을 지나가는 경로의 방향을 결정합니다. 각 고정점에는 두개의 핸들(handle)가 있습니다. [끝점(end point)]()이라고도 합니다.
 
-#### [그림 90.3.2.35.a23. 경로 속성 - 끝점(end point)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a23-%EA%B2%BD%EB%A1%9C-%EC%86%8D%EC%84%B1---%EB%81%9D%EC%A0%90end-point)
-[![path_props-end_point-animation](https://github.com/wonder13662/gimp/assets/15767104/9165159d-a9ca-42a4-a64e-571c7c8aa0ab)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-35-paths.html#%EA%B7%B8%EB%A6%BC-903235a23-%EA%B2%BD%EB%A1%9C-%EC%86%8D%EC%84%B1---%EB%81%9D%EC%A0%90end-point)
+<a id="90-03-02-35-a23"></a>
+
+#### [그림 90.3.2.35.a23. 경로 속성 - 끝점(end point)](./90-03-02-35-paths.md#90-03-02-35-a23)
+![90-03-02-35-a23](https://github.com/wonder13662/gimp/assets/15767104/9165159d-a9ca-42a4-a64e-571c7c8aa0ab)
 
 ## 경로의 복잡도
 경로는 매우 복잡해질 수 있습니다. [경로](./14-05-02-paths.md) 도구로 직접 경로를 만들면 수십개의 고정점을 갖고 있는 정도일 것입니다. 그러나 선택을 경로로 바꾸거나, 글자를 경로로 바꾸면, 결과로 수백 혹은 수천개의 고정점이 될 수 있습니다.
 
-#### [영상 90.4.5.a111. 글자를 경로로 바꿈](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EC%98%81%EC%83%81-9045a111-%EA%B8%80%EC%9E%90%EB%A5%BC-%EA%B2%BD%EB%A1%9C%EB%A1%9C-%EB%B0%94%EA%BF%88)
+<a id="90-04-05-a111"></a>
+
+#### [영상 90.4.5.a111. 글자를 경로로 바꿈](./90-04-05-paths.md#90-04-05-a111)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a990f9d9-6d50-48c3-87de-124661170a9e"></video>
 
 ## 컴포넌트
@@ -43,8 +55,10 @@ GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입
 ## 컴포넌트의 상태: 닫힘(closed)과 열림(open)
 경로의 각 컴포넌트는 열림(open) 상태이거나 닫힘(closed) 상태입니다.
 
-#### [그림 90.4.5.a112. 컴포넌트의 상태: 닫힘(closed)과 열림(open)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EA%B7%B8%EB%A6%BC-9045a112-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%9D%98-%EC%83%81%ED%83%9C-%EB%8B%AB%ED%9E%98closed%EA%B3%BC-%EC%97%B4%EB%A6%BCopen)
-[![90-04-05-path-status_open_n_closed(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/960de051-aec1-4fce-9e82-bfe556923e82)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EA%B7%B8%EB%A6%BC-9045a112-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%9D%98-%EC%83%81%ED%83%9C-%EB%8B%AB%ED%9E%98closed%EA%B3%BC-%EC%97%B4%EB%A6%BCopen)
+<a id="90-04-05-a112"></a>
+
+#### [그림 90.4.5.a112. 컴포넌트의 상태: 닫힘(closed)과 열림(open)](./90-04-05-paths.md#90-04-05-a112)
+![90-04-05-a112](https://github.com/wonder13662/gimp/assets/15767104/960de051-aec1-4fce-9e82-bfe556923e82)
 
 ### 닫힘(closed)
 "닫힘(closed)"은 컴포넌트의 마지막 고정점이 첫번째 고정점에 연결되어 있다는 뜻입니다.
@@ -52,7 +66,9 @@ GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입
 ### 열림(open)
 "열림(open)"은 컴포넌트의 마지막 고정점이 첫번째 고정점에 연결되어 있지 않다는 뜻입니다. 경로를 선택으로 바꾸면, 자동으로 "열림(open)" 상태의 컴포넌트의 첫번째 고정점과 마지막 고정점을 직선으로 이어 "닫힘(closed)" 상태의 컴포넌트로 바꿉니다.
 
-#### [영상 90.4.5.a113. 경로를 선택으로 바꾸는 과정](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EC%98%81%EC%83%81-9045a113-%EA%B2%BD%EB%A1%9C%EB%A5%BC-%EC%84%A0%ED%83%9D%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EB%8A%94-%EA%B3%BC%EC%A0%95)
+<a id="90-04-05-a113"></a>
+
+#### [영상 90.4.5.a113. 경로를 선택으로 바꾸는 과정](./90-04-05-paths.md#90-04-05-a113)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e6b16e2a-f5f4-4f6d-8506-ecad9c2ba385"></video>
 
 ## 경로 선분(Path segment) 또는 선분(line segment)
@@ -60,7 +76,9 @@ GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입
 
 핸들(handle)은 핸들의 길이가 0인 경우(초기값)은 고정점 바로 위에 있습니다. 핸들의 길이가 0인 경우는 경로 선분(Path segment)는 직선입니다. 핸들를 드래그해서 고정점에서 떨어뜨리면 경로 선분(Path segment)는 곡선이 됩니다.
 
-#### [영상 90.4.5.a114. 경로 선분을 직선에서 곡선으로 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EC%98%81%EC%83%81-9045a114-%EA%B2%BD%EB%A1%9C-%EC%84%A0%EB%B6%84%EC%9D%84-%EC%A7%81%EC%84%A0%EC%97%90%EC%84%9C-%EA%B3%A1%EC%84%A0%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+<a id="90-04-05-a114"></a>
+
+#### [영상 90.4.5.a114. 경로 선분을 직선에서 곡선으로 바꾸기](./90-04-05-paths.md#90-04-05-a114)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/20584d2f-1e2a-4381-945a-d29434dfdbe5"></video>
 
 ## 경로는 매우 적은 리소스를 씁니다

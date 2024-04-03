@@ -1,8 +1,10 @@
 # 8.5.13. 레이어 미리보기(Layer preview)
 레이어 그룹 안의 레이어가 큰 이미지인데다 갯수가 많다면, 레이어 그룹의 미리보기가 매우 느려질 수 있습니다. 이런 문제를 겪고 있다면, 레이어 그룹의 미리보기를 `기본 설정` → `인터페이스` → `미리보기` → `레이어 그룹 미리 보기 활성화` 체크박스를 꺼서 비활성화 시킬 수 있습니다. 아래 영상에서 전체 과정을 확인해볼 수 있습니다.
 
-#### [그림 90.2.6.a121. `기본 설정` → `인터페이스` → `미리보기` → `레이어 그룹 미리 보기 활성화` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interface.html#%EA%B7%B8%EB%A6%BC-9026a121-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0--%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EB%AF%B8%EB%A6%AC-%EB%B3%B4%EA%B8%B0-%ED%99%9C%EC%84%B1%ED%99%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-02-06-interface(우리말)(windows)(compact)(w720)-focus-preview_layer_group](https://github.com/wonder13662/gimp/assets/15767104/367baff3-6646-4b4e-a7e6-a0787f7e1350)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interface.html#%EA%B7%B8%EB%A6%BC-9026a121-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4--%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0--%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EB%AF%B8%EB%A6%AC-%EB%B3%B4%EA%B8%B0-%ED%99%9C%EC%84%B1%ED%99%94-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-02-06-a121"></a>
+
+#### [그림 90.2.6.a121. `기본 설정` → `인터페이스` → `미리보기` → `레이어 그룹 미리 보기 활성화` (Windows) (우리말)](./90-02-06-00-interface.md#90-02-06-a121)
+![90-02-06-a121](https://github.com/wonder13662/gimp/assets/15767104/367baff3-6646-4b4e-a7e6-a0787f7e1350)
 
 <a id="90-04-03-02-a201"></a>
 

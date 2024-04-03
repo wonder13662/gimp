@@ -6,8 +6,10 @@
 ## 1. 설명(Description)
 `붓 대화상자`에서 `격자로 보기(View as Grid)`일 경우, 붓 선택시 나오는 붓의 이름입니다.
 
-#### [영상 90.4.15.a191. 붓 대화상자의 붓 설명(description)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a191-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93-%EC%84%A4%EB%AA%85description)
-[![90-04-15-view_as_grid(windows)(ko)-focus-brush_description](https://github.com/wonder13662/gimp/assets/15767104/fb4f6097-a9e0-4cc0-aa68-c03d0b462846)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a191-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93-%EC%84%A4%EB%AA%85description)
+<a id="90-04-15-a191"></a>
+
+#### [영상 90.4.15.a191. 붓 대화상자의 붓 설명(description)](./90-04-15-brushes.md#90-04-15-a191)
+![90-04-15-a191](https://github.com/wonder13662/gimp/assets/15767104/fb4f6097-a9e0-4cc0-aa68-c03d0b462846)
 
 ## 2. 간격(Spacing)
 단위는 퍼센트(%) 입니다. `간격`은 연속된 붓의 자국의 거리입니다. 어떤 칠하기 도구라도 선택한 붓으로 그릴 때의 간격을 고려해야 합니다. 만약 간격이 좁다면, 자국이 매우 가까워 이어져 보일 수 있습니다. 반대로 간격이 넓다면, 자국은 분리되어 보일 것입니다. [색상 붓](./07-06-02-color_brush.md)의 경우에는 유용할 수 있습니다. 값의 입력 범위는 1부터 200까지 입니다. 그리고 이 입력 범위는 붓의 지름(diameter)을 기준으로 삼습니다. 예를 들어 100%는 붓의 지름 1개의 거리입니다.

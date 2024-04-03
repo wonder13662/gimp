@@ -7,8 +7,10 @@
 
 사진 보정에서 `레이어 모드(Legacy) - 번(Burn)` 모드는 어두운 방에서 찍은 사진의 특정 부분의 노출값을 낮출 때 사용됩니다. 이를 이용하면 밝은 부분에 있던 부분들이 드러납니다. 그레이스케일 이미지에서는 `레이어 모드(Legacy) - 번(Burn)` 모드보다 칠하기 도구의 `닷지(Dodge)/번(Burn)`의 `번(Burn)`를 사용하는 편이 좋습니다.
 
-#### [그림 90.3.2.34.a2. 도구상자 - '닷지/번'](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-34-dodge_burn.html#%EA%B7%B8%EB%A6%BC-903234a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%8B%B7%EC%A7%80%EB%B2%88)
-[![그림 90.3.2.34.a2. 도구상자 - '닷지/번'](https://github.com/wonder13662/gimp/assets/15767104/f602486b-595d-4b15-ba4c-826982b153ce)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-34-dodge_burn.html#%EA%B7%B8%EB%A6%BC-903234a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%8B%B7%EC%A7%80%EB%B2%88)
+<a id="90-03-02-34-a2"></a>
+
+#### [그림 90.3.2.34.a2. 도구상자 - '닷지/번'](./90-03-02-34-dodge_burn.md#90-03-02-34-a2)
+![90-03-02-34-a2](https://github.com/wonder13662/gimp/assets/15767104/f602486b-595d-4b15-ba4c-826982b153ce)
 
 ## 2. 방정식과 예시
 #### 그림 8.3.9.a21. 레이어 모드(Legacy) - 번(Burn): 방정식

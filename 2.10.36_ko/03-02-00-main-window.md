@@ -10,8 +10,10 @@
 
 GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single window mode)로 열립니다. 다중창 모드(multi-window mode)를 활성화하기 위해서는 이미지 메뉴바의 `Windows` → `Single-Window Mode` 옵션을 끄면 됩니다. GIMP를 종료한 뒤에는, 다시 GIMP 시작할 때 마지막으로 선택한 옵션으로 적용됩니다.
 
-#### [그림 90.1.10.7.a101. `창(Windows)` - `단일창 모드(Single-Window Mode)`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-07-single_window_mode.html#%EA%B7%B8%EB%A6%BC-901107a101-%EC%B0%BDwindows---%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
-[![90-01-10-windows(w1080)-focus-single_window_mode](https://github.com/wonder13662/gimp/assets/15767104/08f5fc97-386f-4c20-b602-715731c24987)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-07-single_window_mode.html#%EA%B7%B8%EB%A6%BC-901107a101-%EC%B0%BDwindows---%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
+<a id="90-01-10-07-a101"></a>
+
+#### [그림 90.1.10.7.a101. `창(Windows)` - `단일창 모드(Single-Window Mode)`](./90-01-10-07-single_window_mode.md#90-01-10-07-a101)
+![90-01-10-07-a101](https://github.com/wonder13662/gimp/assets/15767104/08f5fc97-386f-4c20-b602-715731c24987)
 
 ## 다중창 모드(multi-window mode)
 #### [그림 90.5.a323. 다중창 모드 스크린샷](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a323-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7)
@@ -30,12 +32,16 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 ### 1. 도구 상자(Toolbox)
 여러 가지 도구들을 선택할 수 있는 아이콘들이 모아져 있습니다. 그리고 전경색(Foreground color)/배경색(Background color)이 표시됩니다. [붓(Brushes)](./07-06-00-brushes.md), [무늬(Patterns)](./07-11-patterns.md), [그라디언트(Gradient)](./07-10-gradients.md), 현재 이미지의 아이콘 등을 추가할 수도 있습니다. `GIMP` → `기본 설정(Settings...)` → `인터페이스(Interface)` → `도구상자(Toolbox)` → `모양새(Appearance)`를 이용하여 추가로 표시할 수 있는 항목들을 표시하거나 숨길 수 있습니다.
 
-#### [그림 90.2.6.3.a201. 모양새(Appearance) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a201-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![모양새(Appearance) (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/761e1ee7-aa5f-423c-97dc-6cd6c55c6965)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a201-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-02-06-03-a201"></a>
 
-[다른 운영체제와 언어의 '모양새(Appearance)' 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a201-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### [그림 90.2.6.3.a201. 모양새(Appearance) (Windows) (우리말)](./90-02-06-03-toolbox.md#90-02-06-03-a201)
+![90-02-06-03-a201](https://github.com/wonder13662/gimp/assets/15767104/761e1ee7-aa5f-423c-97dc-6cd6c55c6965)
 
-#### [영상 90.2.6.3.a205. 모양새(Appearance) 설정에 따라 도구 상자의 모양이 바뀝니다](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EC%98%81%EC%83%81-90263a205-%EB%AA%A8%EC%96%91%EC%83%88appearance-%EC%84%A4%EC%A0%95%EC%97%90-%EB%94%B0%EB%9D%BC-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EB%AA%A8%EC%96%91%EC%9D%B4-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4)
+[다른 운영체제와 언어의 '모양새(Appearance)' 확인하기](./90-02-06-03-toolbox.md#90-02-06-03-a202)
+
+<a id="90-02-06-03-a205"></a>
+
+#### [영상 90.2.6.3.a205. 모양새(Appearance) 설정에 따라 도구 상자의 모양이 바뀝니다](./90-02-06-03-toolbox.md#90-02-06-03-a205)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
 
 ### 2. 도구 옵션(Tool Options)
@@ -100,8 +106,10 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 위 내용은 가장 기본적인 대화 상자(dialog)들입니다. 이외에 목적에 따라 수많은 대화 상자들이 있지만, 대부분은 필요에 따라 그때그때 열어 쓰고 닫아두게 됩니다. 일반적으로 도구 옵션을 포함한 도구 상자와 레이어 대화 상자는 항상 열어두는 편이 좋습니다. 작업 후 저장을 하지 않고 이미지 창을 닫으면, 이미지 창을 닫을 것인지 묻는 창이 표시됩니다.
 
 ### 1. 도구 상자(Tool box)
-#### [그림 90.3.a2. 도구상자](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-00-toolbox.html#%EA%B7%B8%EB%A6%BC-903a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90)
-[![toolbox](https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-00-toolbox.html#%EA%B7%B8%EB%A6%BC-903a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90)
+<a id="90-03-a131"></a>
+
+#### [그림 90.3.a131. 도구 상자의 모습](./90-03-00-toolbox.md#90-03-a131)
+![90-03-a131](https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5)
 
 많은 GIMP 기능을 사용하는데 필수적입니다.
 
@@ -132,13 +140,19 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 ### `탭 설정(Configure this tab)` 버튼
 독(dock)에 탭을 추가하거나, 닫기, 떼어내기를 하려면 대화 상자의 오른쪽 상단에 있는 `탭 설정(Configure this tab)` 버튼을 클릭합니다. 이 버튼을 누르면 탭 메뉴가 표시됩니다. 메뉴에서 `탭 추가(Add Tab)`, `탭 닫기(Close Tab)`, 또는 `탭 떼어내기(Detach Tab)` 중 필요한 메뉴를 선택합니다.
 
-#### [영상 90.4.a101. 탭 추가(Add Tab)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EC%98%81%EC%83%81-904a101-%ED%83%AD-%EC%B6%94%EA%B0%80add-tab)
+<a id="90-04-a101"></a>
+
+#### [영상 90.4.a101. 탭 추가(Add Tab)](./90-04-00-dialogs.md#90-04-a101)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2859f79-24af-41ff-8ec6-e859da6c8fb8"></video>
 
-#### [영상 90.4.a102. 탭 닫기(Close Tab)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EC%98%81%EC%83%81-904a102-%ED%83%AD-%EB%8B%AB%EA%B8%B0close-tab)
+<a id="90-04-a102"></a>
+
+#### [영상 90.4.a102. 탭 닫기(Close Tab)](./90-04-00-dialogs.md#90-04-a102)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5d38720a-30b5-4466-9719-292c7f66dc5c"></video>
 
-#### [영상 90.4.a103. 탭 떼어내기(Detach Tab)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-00-dialogs.html#%EC%98%81%EC%83%81-904a103-%ED%83%AD-%EB%96%BC%EC%96%B4%EB%82%B4%EA%B8%B0detach-tab)
+<a id="90-04-a103"></a>
+
+#### [영상 90.4.a103. 탭 떼어내기(Detach Tab)](./90-04-00-dialogs.md#90-04-a103)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/50310e90-46d0-445f-9801-a676bd5db9e7"></video>
 
 [다음 절(3.2.1. 도구 상자)](./03-02-01-the-toolbox.md)에서는 스크린샷에 있는 각 창(Window)의 구성 요소들과 기능에 대해 설명하겠습니다. [3.2.1. 도구 상자](./03-02-01-the-toolbox.md)와 [GIMP 이미지의 기본 구조]()를 통해 GIMP를 이용한 기본적인 이미지 편집의 다양한 방법을 배울 수 있습니다.

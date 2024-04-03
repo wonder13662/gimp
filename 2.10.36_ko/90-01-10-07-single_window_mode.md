@@ -1,15 +1,13 @@
 # 90.1.10.7. 단일창 모드(Single-Window Mode)
 
+<a id="90-01-10-07-a101"></a>
+
 #### 그림 90.1.10.7.a101. `창(Windows)` - `단일창 모드(Single-Window Mode)`
-![90-01-10-windows(w1080)-focus-single_window_mode](https://github.com/wonder13662/gimp/assets/15767104/08f5fc97-386f-4c20-b602-715731c24987)
+![90-01-10-07-a101](https://github.com/wonder13662/gimp/assets/15767104/08f5fc97-386f-4c20-b602-715731c24987)
 
-***
+[3.2. GIMP(김프)의 주요 화면 - 그림 90.1.10.7.a101](./03-02-00-main-window.md#90-01-10-07-a101)
 
-## 관련 정보
-
-[3.2. GIMP(김프)의 주요 화면](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-901107a101-%EC%B0%BDwindows---%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
-
-[3.2.2. 이미지 창(Image window)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-window.html#%EA%B7%B8%EB%A6%BC-901107a101-%EC%B0%BDwindows---%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
+[3.2.2. 이미지 창(Image window) - 그림 90.1.10.7.a101](./03-02-02-00-image-window.md#90-01-10-07-a101)
 
 ***
 

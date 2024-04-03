@@ -12,10 +12,14 @@
 ## 4.3.4.2. 해결방법
 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `창` → `Show Tabs`을 엽니다. 그리고 `Show Tabs`이 체크되어 있는지 확인합니다.
 
-#### [그림 90.1.10.5.a101. `창` → `Show Tabs`](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-05-show_tabs.html#%EA%B7%B8%EB%A6%BC-901105a101-%EC%B0%BD--show-tabs)
-[![90-01-10-windows(w1080)-focus-show_tabs](https://github.com/wonder13662/gimp/assets/15767104/a143c671-190a-4982-9f45-3c87a171e616)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-05-show_tabs.html#%EA%B7%B8%EB%A6%BC-901105a101-%EC%B0%BD--show-tabs)
+<a id="90-01-10-05-a101"></a>
 
-#### [영상 90.1.10.5.a102. 이미지 메뉴 바(Image Menu Bar)의 탭 보이기(Show Tabs)를 켜고 끄기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-05-show_tabs.html#%EC%98%81%EC%83%81-901105a102-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94image-menu-bar%EC%9D%98-%ED%83%AD-%EB%B3%B4%EC%9D%B4%EA%B8%B0show-tabs%EB%A5%BC-%EC%BC%9C%EA%B3%A0-%EB%81%84%EA%B8%B0)
+#### [그림 90.1.10.5.a101. `창` → `Show Tabs`](./90-01-10-05-show_tabs.md#90-01-10-05-a101)
+![90-01-10-windows(w1080)-focus-show_tabs](https://github.com/wonder13662/gimp/assets/15767104/a143c671-190a-4982-9f45-3c87a171e616)
+
+<a id="90-01-10-05-a102"></a>
+
+#### [영상 90.1.10.5.a102. 이미지 메뉴 바(Image Menu Bar)의 탭 보이기(Show Tabs)를 켜고 끄기](./90-01-10-05-show_tabs.md#90-01-10-05-a102)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b56f399f-7a32-40d8-92cc-76cdcd0336ee"></video>
 
 ***

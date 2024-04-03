@@ -8,8 +8,10 @@
 
 [다른 운영체제와 언어의 `도구` → `변형 도구` → `뒤집기` 확인하기](./90-01-08-03-11-flip.md#90-01-08-03-11-a102)
 
-#### [그림 90.3.2.15.a2. 도구상자(Toolbox)의 뒤집기(Flip) 버튼](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-15-flip.html#%EA%B7%B8%EB%A6%BC-903215a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90toolbox%EC%9D%98-%EB%92%A4%EC%A7%91%EA%B8%B0flip-%EB%B2%84%ED%8A%BC)
-[![그림 90.3.2.15.a2. 도구상자(Toolbox)의 뒤집기(Flip) 버튼](https://github.com/wonder13662/gimp/assets/15767104/8f63d644-7b1d-4ebb-9191-3d5583dc2cb7)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-15-flip.html#%EA%B7%B8%EB%A6%BC-903215a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90toolbox%EC%9D%98-%EB%92%A4%EC%A7%91%EA%B8%B0flip-%EB%B2%84%ED%8A%BC)
+<a id="90-03-02-15-a2"></a>
+
+#### [그림 90.3.2.15.a2. 도구상자(Toolbox)의 뒤집기(Flip) 버튼](./90-03-02-15-flip.md#90-03-02-15-a2)
+![90-03-02-15-a2](https://github.com/wonder13662/gimp/assets/15767104/8f63d644-7b1d-4ebb-9191-3d5583dc2cb7)
 
 도구상자에서 "뒤집기" 도구를 선택한 다음에 캔버스의 안쪽을 클릭합니다. 도구 옵션(Tool Options) 안의 방향(direction)의 가로모드(Horizontal)와 세로모드(Vertical)를 선택해서 뒤집기의 방향을 바꿀 수 있습니다.
 

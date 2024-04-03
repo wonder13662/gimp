@@ -8,13 +8,17 @@ GIMP(김프)에서의 붓은 대부분 `일반 붓`입니다. `일반 붓`은 �
 ### 1. 흑백 이미지 준비
 `일반 붓`을 만들려면, 작은 크기의 흑백 이미지를 준비합니다. 
 
-#### [그림 90.4.15.a151. 일반붓 만들기 - 흑백 이미지](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EA%B7%B8%EB%A6%BC-90415a151-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%ED%9D%91%EB%B0%B1-%EC%9D%B4%EB%AF%B8%EC%A7%80)
-[![ordinary_brush-pixmap](https://github.com/wonder13662/gimp/assets/15767104/4c9eb9f3-b404-4804-8d58-07a490da11ac)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EA%B7%B8%EB%A6%BC-90415a151-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%ED%9D%91%EB%B0%B1-%EC%9D%B4%EB%AF%B8%EC%A7%80)
+<a id="90-04-15-a151"></a>
+
+#### [그림 90.4.15.a151. 일반붓 만들기 - 흑백 이미지](./90-04-15-brushes.md#90-04-15-a151)
+![90-04-15-a151](https://github.com/wonder13662/gimp/assets/15767104/4c9eb9f3-b404-4804-8d58-07a490da11ac)
 
 ### 2. `.gbr`로 내보내기
 이 이미지를 `.gbr` 확장자로 내보내기 합니다.
 
-#### [영상 90.4.15.a152. 일반붓 만들기 - 흑백 이미지를 `.gbr` 파일로 내보내기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a152-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%ED%9D%91%EB%B0%B1-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-gbr-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0)
+<a id="90-04-15-a152"></a>
+
+#### [영상 90.4.15.a152. 일반붓 만들기 - 흑백 이미지를 `.gbr` 파일로 내보내기](./90-04-15-brushes.md#90-04-15-a152)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/88fa3ae4-6970-4ed4-a1ed-32aa26eb56db"></video>
 
 #### [그림 90.4.52.a101. `이미지를 붓으로 내보내기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-52-export_image_as_brush.html#%EA%B7%B8%EB%A6%BC-90452a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93%EC%9C%BC%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
@@ -33,13 +37,17 @@ GIMP(김프)에서의 붓은 대부분 `일반 붓`입니다. `일반 붓`은 �
 #### [영상 90.2.9.1.a112. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더를 파일탐색기로 열기](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-01-brushes.html#%EC%98%81%EC%83%81-90291a112-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EB%B6%93-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EC%84%A0%ED%83%9D%EB%90%9C-%EB%B6%93-%ED%8F%B4%EB%8D%94%EB%A5%BC-%ED%8C%8C%EC%9D%BC%ED%83%90%EC%83%89%EA%B8%B0%EB%A1%9C-%EC%97%B4%EA%B8%B0)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e16a09ae-d1fe-46a9-915c-4eb28bc95558"></video>
 
-#### [영상 90.4.15.a153. 일반붓 만들기 - `.gbr` 파일을 불러오기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a153-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---gbr-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0)
+<a id="90-04-15-a153"></a>
+
+#### [영상 90.4.15.a153. 일반붓 만들기 - `.gbr` 파일을 불러오기](./90-04-15-brushes.md#90-04-15-a153)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40fdc204-f9d5-4cce-b7dd-289c00a9cbf3"></video>
 
 ### 4. 새로운 붓으로 칠하기
 이제 새로 만든 붓으로 칠해보겠습니다. 여러가지 색상을 바꿔가며 칠할 수도 있습니다.
 
-#### [영상 90.4.15.a154. 일반붓 만들기 - 새로운 일반붓으로 칠해보기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a154-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%BC%EB%B0%98%EB%B6%93%EC%9C%BC%EB%A1%9C-%EC%B9%A0%ED%95%B4%EB%B3%B4%EA%B8%B0)
+<a id="90-04-15-a154"></a>
+
+#### [영상 90.4.15.a154. 일반붓 만들기 - 새로운 일반붓으로 칠해보기](./90-04-15-brushes.md#90-04-15-a154)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c4e5e43b-c351-43d1-9e24-a61d786a6e55"></video>
 
 ***

@@ -15,7 +15,9 @@
 ### 4.2.13.2.2. 채널
 레이어 대신 채널에 칠하고 있을 수도 있습니다. 이 경우에는 레이어 대화상자에서 레이어를 클릭해서 활성화해줍니다.
 
-#### [영상 90.4.4.a101. 채널에 붓 또는 지우개를 사용](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-04-channels.html#%EC%98%81%EC%83%81-9044a101-%EC%B1%84%EB%84%90%EC%97%90-%EB%B6%93-%EB%98%90%EB%8A%94-%EC%A7%80%EC%9A%B0%EA%B0%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9)
+<a id="90-04-04-a101"></a>
+
+#### [영상 90.4.4.a101. 채널에 붓 또는 지우개를 사용](./90-04-04-channels.md#90-04-04-a101)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3c33f116-7eed-4e3c-9efa-35bf3b511ab5"></video>
 
 ***

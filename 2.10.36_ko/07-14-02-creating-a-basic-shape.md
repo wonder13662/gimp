@@ -17,8 +17,10 @@ GIMP(김프)는 그리기에 적합한 도구는 아닙니다. 그러나, 선택
 ## 2. 전경색과 배경색 확인
 그 다음, 도구 상자의 [전경색과 배경색](./14-01-03-01-color_area.md)이 다른 것을 확인합니다.
 
-#### [그림 90.3.4.a4. 도구상자의 '붓/무늬/그라디언트' - `색상(전경색/배경색)`](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a4-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%EC%83%89%EC%83%81%EC%A0%84%EA%B2%BD%EC%83%89%EB%B0%B0%EA%B2%BD%EC%83%89)
-[![90-03-04-brush_pattern_gradient(windows)(ko)-focus-colors](https://github.com/wonder13662/gimp/assets/15767104/5c0772d5-07d5-404f-bb30-836be3943703)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a4-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%EC%83%89%EC%83%81%EC%A0%84%EA%B2%BD%EC%83%89%EB%B0%B0%EA%B2%BD%EC%83%89)
+<a id="90-03-04-a4"></a>
+
+#### [그림 90.3.4.a4. 도구상자의 '붓/무늬/그라디언트' - `색상(전경색/배경색)`](./90-03-04-brush_n_pattern_n_gradient.md#90-03-04-a4)
+![90-03-04-a4](https://github.com/wonder13662/gimp/assets/15767104/5c0772d5-07d5-404f-bb30-836be3943703)
 
 ## 3. 사각 선택으로 사각형 선택영역 만들기
 사각형이나 삼각형, 타원 등의 기본 도형은 [선택 도구](./14-02-00-selection-tools.md)를 이용하면 쉽게 그릴 수 있습니다. 예를 들어 사각형의 경우, [사각 선택 도구](./14-02-02-rectangle-selection.md)를 선택하고 "사각 선택 만들기"처럼 마우스 왼쪽 버튼을 누른 채 원하는 지점으로 마우스 커서를 이동시켜 새로운 선택을 만듭니다.

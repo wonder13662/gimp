@@ -38,7 +38,9 @@
 > 파일 탐색기에서 이미지 파일을 도구 상자 창으로 끌어 놓으면, 이미지가 새 이미지 창이나 탭으로 열립니다. 
 > 이미지 파일을 레이어 대화 상자로 끌어 놓으면, 이미지가 새 레이어로 추가됩니다.
 
-#### [영상 90.99.a101. 이미지 드래그 앤 드랍으로 새 이미지로 열기](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EC%98%81%EC%83%81-9099a101-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%93%9C%EB%9E%98%EA%B7%B8-%EC%95%A4-%EB%93%9C%EB%9E%8D%EC%9C%BC%EB%A1%9C-%EC%83%88-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EC%97%B4%EA%B8%B0)
+<a id="90-03-01-a221"></a>
+
+#### [영상 90.3.1.a221. GIMP 로고에 이미지 드래그 앤 드랍으로 GIMP에서 이미지 열기](./90-03-01-gimp_logo.md#90-03-01-a221)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/246a2a2d-0d6e-4177-944a-ec4718341c12"></video>
 
 #### [영상 90.99.a102. 이미지 드래그 앤 드랍으로 새 레이어로 열기(이미지 창)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EC%98%81%EC%83%81-9099a102-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%93%9C%EB%9E%98%EA%B7%B8-%EC%95%A4-%EB%93%9C%EB%9E%8D%EC%9C%BC%EB%A1%9C-%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A1%9C-%EC%97%B4%EA%B8%B0%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD)

@@ -17,10 +17,14 @@
 ## 경로 대화상자의 팝업 메뉴 - `경로 따라 그리기`
 [경로 대화상자](./15-02-03-paths-dialog.md)에서 오른쪽 클릭을 해서 나오는 팝업 메뉴에서 `경로 따라 그리기`를 선택합니다.
 
-#### [그림 90.4.5.a2201. 경로 대화상자의 오른쪽 클릭시 팝업 메뉴 - `경로 따라 그리기`](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EA%B7%B8%EB%A6%BC-9045a2201-%EA%B2%BD%EB%A1%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%8B%9C-%ED%8C%9D%EC%97%85-%EB%A9%94%EB%89%B4---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
-[![90-04-05-paths-right_click_popup-focus-stroke_path](https://github.com/wonder13662/gimp/assets/15767104/45674148-01d8-4956-a37d-be595b71c5eb)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EA%B7%B8%EB%A6%BC-9045a2201-%EA%B2%BD%EB%A1%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%8B%9C-%ED%8C%9D%EC%97%85-%EB%A9%94%EB%89%B4---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
+<a id="90-04-05-a2201"></a>
 
-#### [영상 90.4.5.a2202. 경로 대화상자의 오른쪽 클릭시 팝업 메뉴 - `경로 따라 그리기`로 선 그리기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-05-paths.html#%EC%98%81%EC%83%81-9045a2202-%EA%B2%BD%EB%A1%9C-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%81%B4%EB%A6%AD%EC%8B%9C-%ED%8C%9D%EC%97%85-%EB%A9%94%EB%89%B4---%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0%EB%A1%9C-%EC%84%A0-%EA%B7%B8%EB%A6%AC%EA%B8%B0)
+#### [그림 90.4.5.a2201. 경로 대화상자의 오른쪽 클릭시 팝업 메뉴 - `경로 따라 그리기`](./90-04-05-paths.md#90-04-05-a2201)
+![90-04-05-a2201](https://github.com/wonder13662/gimp/assets/15767104/45674148-01d8-4956-a37d-be595b71c5eb)
+
+<a id="90-04-05-a2202"></a>
+
+#### [영상 90.4.5.a2202. 경로 대화상자의 오른쪽 클릭시 팝업 메뉴 - `경로 따라 그리기`로 선 그리기](./90-04-05-paths.md#90-04-05-a2202)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/205b1bc1-955d-4a5e-a678-ce17ece4c4df"></video>
 
 ## 경로 도구옵션 대화상자의 `경로 따라 그리기`

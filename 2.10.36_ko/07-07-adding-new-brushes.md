@@ -46,7 +46,9 @@
 
 `기본 설정` → `폴더` → `붓`에 포함된 폴더에 있는 새로 추가된 모든 `.gbr`, `.gih`, `.vrb`, `.myb` 파일은 `붓 대화상자`의 새로고침 버튼으로 업데이트하거나, GIMP(김프)를 재시작하면 사용할 수 있습니다.
 
-#### [영상 90.4.15.a153. 일반붓 만들기 - `.gbr` 파일을 불러오기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a153-%EC%9D%BC%EB%B0%98%EB%B6%93-%EB%A7%8C%EB%93%A4%EA%B8%B0---gbr-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0)
+<a id="90-04-15-a153"></a>
+
+#### [영상 90.4.15.a153. 일반붓 만들기 - `.gbr` 파일을 불러오기](./90-04-15-brushes.md#90-04-15-a153)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40fdc204-f9d5-4cce-b7dd-289c00a9cbf3"></video>
 
 > 🗒️ 참고

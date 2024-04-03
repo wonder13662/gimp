@@ -5,8 +5,10 @@
 
 `레이어 모드(Legacy) - 닷지(Dodge)` 모드는 이미지를 밝게 만듭니다. 일부 색상은 반전되기도 합니다. 이 모드는 사진 보정에서 이미지의 어두운 영역의 노출값을 증가시킬 때 사용됩니다. 이를 이용해서 그림자 속의 숨어있던 부분들이 드러납니다. 하지만 그레이스케일 이미지에서는 `레이어 모드(Legacy) - 닷지(Dodge)` 모드보다는 칠하기 도구의 `닷지(Dodge)/번(Burn)`의 `닷지(Dodge)`를 사용하는 편이 좋습니다.
 
-#### [그림 90.3.2.34.a2. 도구상자 - '닷지/번'](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-34-dodge_burn.html#%EA%B7%B8%EB%A6%BC-903234a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%8B%B7%EC%A7%80%EB%B2%88)
-[![그림 90.3.2.34.a2. 도구상자 - '닷지/번'](https://github.com/wonder13662/gimp/assets/15767104/f602486b-595d-4b15-ba4c-826982b153ce)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-34-dodge_burn.html#%EA%B7%B8%EB%A6%BC-903234a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%8B%B7%EC%A7%80%EB%B2%88)
+<a id="90-03-02-34-a2"></a>
+
+#### [그림 90.3.2.34.a2. 도구상자 - '닷지/번'](./90-03-02-34-dodge_burn.md#90-03-02-34-a2)
+![90-03-02-34-a2](https://github.com/wonder13662/gimp/assets/15767104/f602486b-595d-4b15-ba4c-826982b153ce)
 
 ## 2. 방정식과 예시
 #### 그림 8.3.5.a21. 레이어 모드(Legacy) - 닷지(Dodge): 방정식

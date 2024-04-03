@@ -5,12 +5,16 @@
 ## 지우개 도구 사용하기
 지우개 도구로 원하는 투명도를 줄 수 있습니다.
 
-#### [그림 90.3.2.28.a2. 도구상자 - 지우개](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-28-eraser.html#%EA%B7%B8%EB%A6%BC-903228a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%A7%80%EC%9A%B0%EA%B0%9C)
-[![그림 90.3.2.28.a2. 도구상자 - 지우개](https://github.com/wonder13662/gimp/assets/15767104/8e448288-3d80-449d-ac03-89757a056a1b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-28-eraser.html#%EA%B7%B8%EB%A6%BC-903228a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%A7%80%EC%9A%B0%EA%B0%9C)
+<a id="90-03-02-28-a2"></a>
+
+#### [그림 90.3.2.28.a2. 도구상자 - 지우개](./90-03-02-28-eraser.md#90-03-02-28-a2)
+![90-03-02-28-a2](https://github.com/wonder13662/gimp/assets/15767104/8e448288-3d80-449d-ac03-89757a056a1b)
 
 아래 영상에서 지우개 도구의 투명도를 바꿔 선택 영역 안쪽을 지우는 것을 확인해보세요.
 
-#### [영상 90.3.2.28.a122. 투명도 조정한 지우개 도구로 선택영역 지우기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-28-eraser.html#%EC%98%81%EC%83%81-903228a122-%ED%88%AC%EB%AA%85%EB%8F%84-%EC%A1%B0%EC%A0%95%ED%95%9C-%EC%A7%80%EC%9A%B0%EA%B0%9C-%EB%8F%84%EA%B5%AC%EB%A1%9C-%EC%84%A0%ED%83%9D%EC%98%81%EC%97%AD-%EC%A7%80%EC%9A%B0%EA%B8%B0)
+<a id="90-03-02-28-a122"></a>
+
+#### [영상 90.3.2.28.a122. 투명도 조정한 지우개 도구로 선택영역 지우기](./90-03-02-28-eraser.md#90-03-02-28-a122)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2569f6bc-62eb-4783-afa5-16f4f5522fc6"></video>
 
 ## 떠있는 선택(floating selection) 사용하기
@@ -103,28 +107,40 @@
 ### 2. 배경 영역 선택
 그리고 [퍼지 선택(Fuzzy selection)](./14-02-05-fuzzy-selection-magic-wand.md)을 사용해서 이미지 안의 배경 영역을 선택하세요.
 
-#### [그림 90.3.2.8.a2. 도구상자 - 퍼지 선택](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-08-fuzzy_select.html#%EA%B7%B8%EB%A6%BC-90328a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%ED%8D%BC%EC%A7%80-%EC%84%A0%ED%83%9D)
-[![그림 90.3.2.8.a2. 도구상자 - 퍼지 선택](https://github.com/wonder13662/gimp/assets/15767104/9f2fad3e-18f9-43ea-a3ba-a9cb736bc1d5)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-08-fuzzy_select.html#%EA%B7%B8%EB%A6%BC-90328a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%ED%8D%BC%EC%A7%80-%EC%84%A0%ED%83%9D)
+<a id="90-03-02-08-a2"></a>
 
-#### 영상 7.1.2.a102. 이미지 안의 배경 영역 선택
+#### [그림 90.3.2.8.a2. 도구상자 - 퍼지 선택](./90-03-02-08-fuzzy_select.md#90-03-02-08-a2)
+![그림 90.3.2.8.a2. 도구상자 - 퍼지 선택](https://github.com/wonder13662/gimp/assets/15767104/9f2fad3e-18f9-43ea-a3ba-a9cb736bc1d5)
+
+<a id="90-03-02-08-a101"></a>
+
+#### [영상 90.3.2.8.a101. 이미지 안의 배경 영역 선택](./90-03-02-08-fuzzy_select.md#90-03-02-08-a101)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5bdf065c-08c3-4e6d-b7db-b32c8d9f36aa"></video>
 
 ### 3. 배경색 선택
 그 다음에 [색상 추출(Color Picker)](./14-05-03-color-picker.md) 도구를 사용해서 배경색을 선택합니다. 선택한 배경색은 도구상자의 전경색이 됩니다. 
 
-#### [그림 90.3.2.37.a2. 도구상자 - 색상 추출](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-37-color_picker.html#%EA%B7%B8%EB%A6%BC-903237a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81-%EC%B6%94%EC%B6%9C)
-[![그림 90.3.2.37.a2. 도구상자 - 색상 추출](https://github.com/wonder13662/gimp/assets/15767104/92807e43-d7d2-49ab-89cb-e4e343aa5fd7)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-37-color_picker.html#%EA%B7%B8%EB%A6%BC-903237a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%83%89%EC%83%81-%EC%B6%94%EC%B6%9C)
+<a id="90-03-02-37-a2"></a>
 
-#### 영상 7.1.2.a103. 배경의 색상 추출
+#### [그림 90.3.2.37.a2. 도구상자 - 색상 추출](./90-03-02-37-color_picker.md#90-03-02-37-a2)
+![90-03-02-37-a2](https://github.com/wonder13662/gimp/assets/15767104/92807e43-d7d2-49ab-89cb-e4e343aa5fd7)
+
+<a id="90-03-02-37-a3"></a>
+
+#### [영상 90.3.2.37.a3. 배경의 색상 추출](./90-03-02-37-color_picker.md#90-03-02-37-a3)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/72becdd4-4f2a-477d-94da-c8bc2fef893e"></video>
 
 ### 4. 색상 지우기로 투명하게 만들기
 [영역 채우기(Bucket Fill)](./14-03-04-bucket-fill.md) 도구를 사용해서 선택한 색으로 채웁니다. "영역 채우기"의 모드를 `색상 지우기(Color Erase)`로 설정합니다. `색상 지우기(Color Erase)`는 선택된 색상의 픽셀을 지웁니다. 그 외의 다른 픽셀들은 부분적으로 지워지고, 색상이 바뀝니다.
 
-#### [그림 90.3.2.21.a2. 도구상자 - 영역 채우기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-21-bucket_fill.html#%EA%B7%B8%EB%A6%BC-903221a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EC%98%81%EC%97%AD-%EC%B1%84%EC%9A%B0%EA%B8%B0)
-![그림 90.3.2.21.a2. 도구상자 - 영역 채우기](https://github.com/wonder13662/gimp/assets/15767104/0550285d-2807-4201-87b2-77b5e8cd8278)
+<a id="90-03-02-21-a2"></a>
 
-#### 영상 7.1.2.a104. 색상 지우기
+#### [그림 90.3.2.21.a2. 도구상자 - 영역 채우기](./90-03-02-21-bucket_fill.md#90-03-02-21-a2)
+![90-03-02-21-a2](https://github.com/wonder13662/gimp/assets/15767104/0550285d-2807-4201-87b2-77b5e8cd8278)
+
+<a id="90-03-02-21-a3"></a>
+
+#### [영상 90.3.2.21.a3. 색상 지우기](./90-03-02-21-bucket_fill.md#90-03-02-21-a3)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/57683b6c-4c5f-4637-b22e-4c3582fbf8d2"></video>
 
 ## 지우기

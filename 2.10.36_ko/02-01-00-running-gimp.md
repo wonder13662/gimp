@@ -40,7 +40,9 @@ GIMP는 소스 코드의 가용성 덕분에 쉽게 다른 운영체제로 포�
 ## 2.1.2. 언어 설정
 GIMP는 자동으로 시스템의 언어를 감지합니다. 언어 감지가 실패하는 경우는 드물지만, GIMP에서 다른 언어를 사용하고 싶다면, `Edit` → `Preference` → `Interface` → `Language`에서 바꿀 수 있습니다.
 
-#### 그림 2.1.1. Settings(Preference) > GIMP 언어설정 바꾸기
+<a id="90-02-06-a101"></a>
+
+#### [그림 90.2.6.a101. Settings(Preference) > GIMP 언어설정 바꾸기](./90-02-06-00-interface.md#90-02-06-a101)
 <img width="720" alt="user interface language" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8a58b8e2-270c-4983-b65d-a9f7b4b6ce1a">
 
 또는 다음 방법 중 하나를 사용합니다.
@@ -154,8 +156,11 @@ GTK+ 옵션을 보여줍니다.
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a232c28c-a137-497b-a2d6-0fec8b6ace11"></video>
 
 아래 예시들은 위 옵션으로 실행한 경우(`-no-data`)와 그렇지 않은 경우를 비교한 이미지입니다.
-#### 그림 2.1.3.a13. 붓 대화상자(brush dialog)
-<img width="480" alt="no-data-brush" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/59bbf85f-d885-4f8a-bc09-d05a0fc7ac23">
+
+<a id="90-04-15-a101"></a>
+
+#### [그림 90.4.15.a101. 붓 대화상자(brush dialog)](./90-04-15-brushes.md#90-04-15-a101)
+![90-04-15-a101](https://github.com/wonder13662/gimp/assets/15767104/59bbf85f-d885-4f8a-bc09-d05a0fc7ac23)
 
 #### 그림 2.1.3.a14. 그라디언트 대화상자(gradient dialog)
 <img width="426" alt="no-data-gradient" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ad0a4680-d117-47f0-90f0-edf3e532020a">
@@ -163,8 +168,10 @@ GTK+ 옵션을 보여줍니다.
 #### 그림 2.1.3.a15. 팔레트 대화상자(palette dialog)
 <img width="425" alt="no-data-palette" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0734f993-5e82-4182-a986-931dadbb3eb9">
 
-#### 그림 2.1.3.a16. 무늬 대화상자(pattern dialog)
-<img width="429" alt="no-data-pattern" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c918e337-d746-438c-ab0c-f036dbc7e46f">
+<a id="90-04-18-a2"></a>
+
+#### [그림 90.4.18.a2. 무늬 대화상자(pattern dialog)](./90-04-18-patterns.md#90-04-18-a2)
+![90-04-18-a2](https://github.com/wonder13662/gimp/assets/15767104/c918e337-d746-438c-ab0c-f036dbc7e46f)
 
 ### 영상 2.1.3.a17. `-f`, `-no-fonts`
 글꼴(font)을 읽어오지 않습니다. 이 옵션은 글꼴(font)을 사용하지 않는 스크립트를 사용하거나 문제가 있는 글꼴(font)을 찾아내기 위해 GIMP(김프)를 시작할 때 유용합니다.

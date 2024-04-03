@@ -36,8 +36,10 @@
 ## 3.2.2.2.4. 이미지 메뉴 단축키 설정
 또한 대부분의 메뉴는 메뉴에 표시된 키보드 단축키를 이용해 간편하게 실행할 수 있습니다. [12.1. 기본 설정 대화상자](./12-01-00-preference-dialog.md)에서 [12.1.10. 인터페이스 - 동적 키보드 단축키 사용](./12-01-10-interface.md) 항목을 활성화하면, 메뉴 동작에 대한 단축키를 직접 설정할 수 있습니다.(TODO "동적 키보드 단축키 사용" 링크 연동하기)
 
-#### [그림 90.2.6.a111. 키보드 단축키 설정 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interface.html#%EA%B7%B8%EB%A6%BC-9026a111-%ED%82%A4%EB%B3%B4%EB%93%9C-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%84%A4%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![그림 90.2.6.a111. 키보드 단축키 설정 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/800d56b6-e120-4022-b483-9e403c229425)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interface.html#%EA%B7%B8%EB%A6%BC-9026a111-%ED%82%A4%EB%B3%B4%EB%93%9C-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%84%A4%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-02-06-a111"></a>
+
+#### [그림 90.2.6.a111. 키보드 단축키 설정 (Windows) (우리말)](./90-02-06-00-interface.md#90-02-06-a111)
+![90-02-06-a111](https://github.com/wonder13662/gimp/assets/15767104/800d56b6-e120-4022-b483-9e403c229425)
 
 [다른 운영체제와 언어의 '키보드 단축키 설정' 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interface.html#%EA%B7%B8%EB%A6%BC-9026a111-%ED%82%A4%EB%B3%B4%EB%93%9C-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%84%A4%EC%A0%95-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 

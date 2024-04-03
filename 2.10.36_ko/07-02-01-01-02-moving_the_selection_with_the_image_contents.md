@@ -5,13 +5,17 @@
 ### Windows
 이미지의 선택된 부분을 옮기려면, Ctrl + Alt를 누른채로 클릭 + 드래그 합니다.
 
-#### [영상 90.3.2.3.a131. 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-03-rectangle_select.html#%EC%98%81%EC%83%81-90323a131-%EC%84%A0%ED%83%9D-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%96%BC%EC%96%B4%EC%84%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0-windows)
+<a id="90-03-02-03-a131"></a>
+
+#### [영상 90.3.2.3.a131. 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Windows)](./90-03-02-03-rectangle_select.md#90-03-02-03-a131)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/91f98102-d20f-4c2a-8e55-8053db29855b"></video>
 
 ### Mac
 이미지의 선택된 부분을 옮기려면, ⌘ + ⌥를 누른채로 클릭 + 드래그 합니다.
 
-#### [영상 90.3.2.3.a132. 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Mac)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-03-rectangle_select.html#%EC%98%81%EC%83%81-90323a132-%EC%84%A0%ED%83%9D-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%96%BC%EC%96%B4%EC%84%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0-mac)
+<a id="90-03-02-03-a132"></a>
+
+#### [영상 90.3.2.3.a132. 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Mac)](./90-03-02-03-rectangle_select.md#90-03-02-03-a132)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3ae6839a-940b-4d2f-87ee-9f604178aaa7"></video>
 
 이렇게 옮기고 나면 원래 이미지의 위치는 비워지게 됩니다. 비워진 부분은 알파채널이 없는 경우, 배경색으로 채워지게 됩니다. 
@@ -23,13 +27,17 @@
 ### Windows
 이미지의 선택된 부분을 옮기려면, Shift + Alt를 누른채로 클릭 + 드래그 합니다.
 
-#### [영상 90.3.2.3.a133. 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-03-rectangle_select.html#%EC%98%81%EC%83%81-90323a133-%EC%84%A0%ED%83%9D-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%B5%EC%82%AC%ED%95%B4%EC%84%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0-windows)
+<a id="90-03-02-03-a133"></a>
+
+#### [영상 90.3.2.3.a133. 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Windows)](./90-03-02-03-rectangle_select.md#90-03-02-03-a133)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f073dc29-cfdb-432c-973a-758a043d3629"></video>
 
 ### Mac
 이미지의 선택된 부분을 옮기려면, ⇧ + ⌥를 누른채로 클릭 + 드래그 합니다.
 
-#### [영상 90.3.2.3.a134. 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Mac)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-03-rectangle_select.html#%EC%98%81%EC%83%81-90323a134-%EC%84%A0%ED%83%9D-%ED%95%B8%EB%93%A4-%EB%AA%A8%EB%93%9C%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%B5%EC%82%AC%ED%95%B4%EC%84%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0-mac)
+<a id="90-03-02-03-a134"></a>
+
+#### [영상 90.3.2.3.a134. 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Mac)](./90-03-02-03-rectangle_select.md#90-03-02-03-a134)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f4aec06c-3ffd-4c8a-82b2-7d92a5b9af61"></video>
 
 이렇게 옮기고 나면, 선택 영역이 있던 이미지의 영역은 변화가 없습니다. 새로운 이미지의 부분이 복사되어 옮겨지게 됩니다.

@@ -1,7 +1,9 @@
 # 3.2.1. 기본 도구 상자(The toolbox)
 
-#### 그림 3.4. 도구 상자의 모습
-<img width="450" src="https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5">
+<a id="90-03-a131"></a>
+
+#### [그림 90.3.a131. 도구 상자의 모습](./90-03-00-toolbox.md#90-03-a131)
+![90-03-a131](https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5)
 
 1. [GIMP 로고](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#1-gimp-%EB%A1%9C%EA%B3%A0)
 2. [도구 아이콘](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#2-%EB%8F%84%EA%B5%AC-%EC%95%84%EC%9D%B4%EC%BD%98)
@@ -12,25 +14,24 @@
 ## 1. GIMP 로고
 도구 상자의 가장 위쪽에 GIMP 로고 또는 "윌버의 눈"을 볼 수 있습니다. 파일 관리자로부터 파일을 드래그하여 여기에 놓으면 파일을 GIMP에서 열 수 있습니다. 
 
-#### 영상 3.2.1.a101. GIMP 로고에 이미지 드래그 앤 드랍으로 GIMP에서 이미지 열기
+<a id="90-03-01-a221"></a>
+
+#### [영상 90.3.1.a221. GIMP 로고에 이미지 드래그 앤 드랍으로 GIMP에서 이미지 열기](./90-03-01-gimp_logo.md#90-03-01-a221)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/246a2a2d-0d6e-4177-944a-ec4718341c12"></video>
 
 이 GIMP 로고 또는 "윌버의 눈"은 [12.1.13. 기본 도구 상자](./12-01-13-toolbox.md)에서 `Show GIMP logo(drag-and-drop target)` 체크박스를 켜고 끔으로서 제어할 수 있습니다.
 
-#### 영상 3.2.1.a102. `Show GIMP logo(drag-and-drop target)`로 도구 상자에서 노출 제어하기
+<a id="90-03-01-a201"></a>
+
+#### [영상 90.3.1.a201. `Show GIMP logo(drag-and-drop target)`로 도구 상자에서 노출 제어하기](./90-03-01-gimp_logo.md#90-03-01-a201)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9a8813c3-e223-422f-9436-a75ee551bbd3"></video>
 
-#### 그림 3.2.1.a111. Show GIMP logo(drag-and-drop target) (Windows) (우리말)
-<img width="720" alt="그림 3.2.1.a111. Show GIMP logo(drag-and-drop target) (Windows) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/7e470c99-82ff-4e49-a85d-5e6b0fe7ba72">
+<a id="90-03-01-a211"></a>
 
-#### 그림 3.2.1.a112. Show GIMP logo(drag-and-drop target) (Windows) (영어)
-<img width="720" alt="그림 3.2.1.a112. Show GIMP logo(drag-and-drop target) (Windows) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/8837f072-bd53-4324-9836-3519a514937b">
+#### [그림 90.3.1.a211. Show GIMP logo(drag-and-drop target) (Windows) (우리말)](./90-03-01-gimp_logo.md#90-03-01-a211)
+![90-03-01-a211](https://github.com/wonder13662/gimp/assets/15767104/7e470c99-82ff-4e49-a85d-5e6b0fe7ba72)
 
-#### 그림 3.2.1.a113. Show GIMP logo(drag-and-drop target) (Mac) (우리말)
-<img width="720" alt="그림 3.2.1.a113. Show GIMP logo(drag-and-drop target) (Mac) (우리말)" src="https://github.com/wonder13662/gimp/assets/15767104/1aba52cb-0c64-4419-ac26-fb1c32019f8a">
-
-#### 그림 3.2.1.a114. Show GIMP logo(drag-and-drop target) (Mac) (영어)
-<img width="720" alt="그림 3.2.1.a114. Show GIMP logo(drag-and-drop target) (Mac) (영어)" src="https://github.com/wonder13662/gimp/assets/15767104/429c4829-e03d-4a53-9fea-815079141635">
+[다른 운영체제와 언어의 'Show GIMP logo(drag-and-drop target)' 확인하기](./90-03-01-gimp_logo.md#90-03-01-a212)
 
 ## 2. 도구 아이콘
 이 아이콘들은 그림의 일부를 선택하거나, 칠하거나 변형시킬 수 있습니다. 도구들의 간단한 사용법은 [14.1.1. 소개(도구 상자)](./14-01-01-introduction.md) 섹션에 있고, 각 도구들에 대해서는 해당 페이지 안에 도구별로 자세히 설명되어 있습니다.
@@ -52,7 +53,9 @@
 ## 3. 전경색/배경색(Foreground/Background color)
 GIMP의 현재 전경색과 배경색이 표시됩니다. 각 부분을 클릭하면 색상 선택 대화 상자가 나타나고 그곳에서 다른 색상으로 변경할 수 있습니다. 그리고 양방향 화살표를 클릭하면 두 색상을 맞바꿀 수 있으며, 왼쪽 하단의 조그만 심볼을 클릭하면 기본값인 검정색과 흰색으로 초기화할 수 있습니다.
 
-#### 영상 3.2.1.a303. 전경색/배경색 제어하기(색상 변경, 색상 맞바꾸기, 색상 초기화)
+<a id="90-03-03-a2"></a>
+
+#### [그림 90.3.3.a2. 도구상자의 '젼경색/배경색'](./90-03-03-foreground_color_n_background_color.md#90-03-03-a2)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8c499d07-443e-4a2e-bf27-4e3ec708cb6b"></video>
 
 ## 4. 붓(Brush)/무늬(Pattern)/그라디언트(Gradient)
@@ -67,13 +70,17 @@ GIMP의 현재 전경색과 배경색이 표시됩니다. 각 부분을 클릭�
 
 위 심볼들 중에 하나를 클릭하면 대화상자 창을 열수 있습니다. 이 대화상자 창으로 선택한 기능을 제어할 수 있습니다.
 
-#### 영상 3.2.1.a401. 붓/무늬/그라디언트 대화상자 열기
+<a id="90-03-04-a7"></a>
+
+#### [영상 90.3.4.a7. 붓/무늬/그라디언트 대화상자 열기](./90-03-04-brush_n_pattern_n_gradient.md#90-03-04-a7)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/06e78030-2328-4850-8822-8f78700a80af"></video>
 
 ## 5. 활성화된 이미지(Active Image)
 GIMP에서는 한 번에 여러 이미지를 열어 두고 작업을 할 수 있습니다. 하지만 그렇더라도 어느 한순간에는 한 이미지에서만 작업을 하게 되는데, 그 이미지의 미리 보기가 이 영역에 표시됩니다. 이 영역을 클릭하면, 현재 열린 이미지의 목록이 담긴 대화 상자가 열립니다. 대화 상자에 있는 이미지 중 하나를 선택하면 해당 이미지가 활성화됩니다. 다중 창 모드에서는 이미지 창을 클릭하거나 싱글창 모드에서는 이미지 탭을 클릭해서 원하는 이미지를 활성화할 수도 있습니다.
 
-#### 영상 3.2.1.a501. 활성화 이미지 바꾸기
+<a id="90-03-05-a2"></a>
+
+#### [영상 3.2.1.a501. 활성화 이미지 바꾸기](./90-03-05-active_image.md#90-03-05-a2)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2954d835-ff30-460a-b9b2-302a4411ff4f"></video>
 
 ## 마칠 때 장치 상태 저장(Save input device settings on exit)
@@ -101,13 +108,17 @@ GIMP가 새로 시작할 때마다, 이전에 종료하기 전까지 사용했�
 - Windows: `편집(Edit)` → `기본 설정(Preference)` → `인터페이스(Interface)` → `도구 상자(Toolbox)` → `모양새(Appearance)`
 - Mac: `GIMP`→ `기본 설정(Preference)` → `인터페이스(Interface)` → `도구 상자(Toolbox)` → `모양새(Appearance)`
 
-#### 영상 3.2.1.a701. `모양새(Appearance)`에서 아이콘 추가하기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
+<a id="90-02-06-03-a205"></a>
 
-#### [그림 90.2.6.3.a201. 모양새(Appearance) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a201-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![모양새(Appearance) (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/761e1ee7-aa5f-423c-97dc-6cd6c55c6965)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a201-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### [영상 90.2.6.3.a205. 모양새(Appearance) 설정에 따라 도구 상자의 모양이 바뀝니다](./90-02-06-03-toolbox.md#90-02-06-03-a205)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
 
-[다른 운영체제와 언어의 '모양새(Appearance)' 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-06-interfacex-03-toolbox.html#%EA%B7%B8%EB%A6%BC-90263a201-%EB%AA%A8%EC%96%91%EC%83%88appearance-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-02-06-03-a201"></a>
+
+#### [그림 90.2.6.3.a201. 모양새(Appearance) (Windows) (우리말)](./90-02-06-03-toolbox.md#90-02-06-03-a201)
+![90-02-06-03-a201](https://github.com/wonder13662/gimp/assets/15767104/761e1ee7-aa5f-423c-97dc-6cd6c55c6965)
+
+[다른 운영체제와 언어의 '모양새(Appearance)' 확인하기](./90-02-06-03-toolbox.md#90-02-06-03-a202)
 
 ## 다른 페이지로 가기
 [➡️ 다음: 3.2.2. 이미지 창](./03-02-02-00-image-window.md)

@@ -28,6 +28,15 @@
 
 [7.9.1. 붓 크기를 바꾸는 방법 - 그림 90.3.a121](https://wonder13662.github.io/gimp/2.10.36_ko/07-09-01-how-to-change-the-size-of-a-brush.html#%EA%B7%B8%EB%A6%BC-903a121-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EC%95%84%EC%9D%B4%EC%BD%98)
 
+<a id="90-03-a131"></a>
+
+#### 그림 90.3.a131. 도구 상자의 모습
+![90-03-a131](https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5)
+
+[3.2. GIMP(김프)의 주요 화면 - 그림 90.3.a131](03-02-00-main-window.md#90-03-a131)
+
+[3.2.1. 기본 도구 상자(The toolbox) - 그림 90.3.a131](03-02-01-the-toolbox.md#90-03-a131)
+
 ***
 
 ## 하위 페이지
@@ -45,8 +54,11 @@
 [![그림 90.3.2.2.a2. 도구상자 - 정렬](https://github.com/wonder13662/gimp/assets/15767104/8d4dc2f9-8480-4ed7-9682-a71e65076e84)](./90-03-02-02-alignment.md)
 
 ### [90.3.2.3. 도구 아이콘(Tool icon) - 사각 선택(Rectangle select)](./90-03-02-03-rectangle_select.md)
-#### 그림 90.3.2.3.a2. 도구상자 - 사각 선택
-[![그림 90.3.2.3.a2. 도구상자 - 사각 선택](https://github.com/wonder13662/gimp/assets/15767104/c5be9f26-28a5-4b98-92c3-4ae57a29580e)](./90-03-02-03-rectangle_select.md)
+
+<a id="90-03-02-03-a2"></a>
+
+#### [그림 90.3.2.3.a2. 도구상자 - 사각 선택](./90-03-02-03-rectangle_select.md#90-03-02-03-a2)
+![90-03-02-03-a2](https://github.com/wonder13662/gimp/assets/15767104/c5be9f26-28a5-4b98-92c3-4ae57a29580e)
 
 ### [90.3.2.4. 도구 아이콘(Tool icon) - 타원 선택(Ellipse select)](./90-03-02-04-ellipse_select.md)
 #### 그림 90.3.4.a2. 도구상자 - 타원 선택

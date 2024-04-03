@@ -5,8 +5,10 @@
 
 붓 픽스맵에는 `붓 간격(brush spacing)`이라는 중요한 속성이 있습니다. `붓 간격`은 연속된 붓 자국 사이의 거리를 나타냅니다. 각각의 붓은 `붓 간격`에 대한 기본값이 있습니다. `붓 간격`은 붓 대화상자에서 `간격(spacing)`을 조정해서 바꿀 수 있습니다.
 
-#### [그림 90.4.15.a121. 붓 대화상자 - 간격](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EA%B7%B8%EB%A6%BC-90415a121-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B0%84%EA%B2%A9)
-[![90-04-15-brushes(w1080)-focus-spacing](https://github.com/wonder13662/gimp/assets/15767104/0d9d484a-d99e-4ef6-a9d6-700c4dfe0808)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EA%B7%B8%EB%A6%BC-90415a121-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EA%B0%84%EA%B2%A9)
+<a id="90-04-15-a121"></a>
+
+#### [그림 90.4.15.a121. 붓 대화상자 - 간격](./90-04-15-brushes.md#90-04-15-a121)
+![90-04-15-a121](https://github.com/wonder13662/gimp/assets/15767104/0d9d484a-d99e-4ef6-a9d6-700c4dfe0808)
 
 #### [그림 90.4.52.a101. `이미지를 붓으로 내보내기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-52-export_image_as_brush.html#%EA%B7%B8%EB%A6%BC-90452a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93%EC%9C%BC%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 [![90-04-52-export_image_as_brush(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7f5a1766-b93a-438a-9092-0f99e5e169f6)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-52-export_image_as_brush.html#%EA%B7%B8%EB%A6%BC-90452a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93%EC%9C%BC%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
@@ -26,13 +28,19 @@ GIMP(김프)에는 `칠하기 도구(paint tool)`가 있습니다. 채색 작업
 #### [그림 90.3.a121. 붓 대화상자를 사용하는 도구상자 아이콘](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-00-toolbox.html#%EA%B7%B8%EB%A6%BC-903a121-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EC%95%84%EC%9D%B4%EC%BD%98)
 [![toolbox-no_tool_group(ko)(windows)-highlight-painting_tool_with_brush](https://github.com/wonder13662/gimp/assets/15767104/3d227356-1a44-4a9b-95be-7912d864e348)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-00-toolbox.html#%EA%B7%B8%EB%A6%BC-903a121-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EC%95%84%EC%9D%B4%EC%BD%98)
 
-#### [그림 90.4.15.a131. 붓 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EA%B7%B8%EB%A6%BC-90415a131-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-15-brushes(windows)(ko)(slim)](https://github.com/wonder13662/gimp/assets/15767104/1c2606df-09ba-415e-94cd-f00dae3bf670)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EA%B7%B8%EB%A6%BC-90415a131-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-15-a131"></a>
+
+#### [그림 90.4.15.a131. 붓 대화상자 (Windows) (우리말)](./90-04-15-brushes.md#90-04-15-a131)
+![90-04-15-a131](https://github.com/wonder13662/gimp/assets/15767104/1c2606df-09ba-415e-94cd-f00dae3bf670)
+
+[다른 운영체제와 언어의 `붓` 대화상자 확인하기](./90-04-15-brushes.md#90-04-15-a132)
 
 ## 붓 긋기(Brush stroke)
 마우스 버튼을 누른채로 마우스 포인터를 이미지 위로 움직이면 "붓 긋기"를 할 수 있습니다. 그려진 길을 따라 일정한 간격으로 붓자국이 남습니다. 여기에는 붓과 칠하기 도구의 설정이 영향을 미칩니다.
 
-#### [영상 90.3.2.23.a113. 그리기 붓(Paintbrush)의 붓 긋기(Brush stroke)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-23-paintbrush.html#%EC%98%81%EC%83%81-903223a113-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B6%93paintbrush%EC%9D%98-%EB%B6%93-%EA%B8%8B%EA%B8%B0brush-stroke)
+<a id="90-03-02-23-a113"></a>
+
+#### [영상 90.3.2.23.a113. 그리기 붓(Paintbrush)의 붓 긋기(Brush stroke)](./90-03-02-23-paintbrush.md#90-03-02-23-a113)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f71f220a-c5e6-4262-afa0-f1dd7e1e2fde"></video>
 
 붓의 간격의 경우에는 붓의 기본 간격 설정이 기본값으로 영향을 미칩니다.
@@ -47,19 +55,25 @@ GIMP(김프)에는 `칠하기 도구(paint tool)`가 있습니다. 채색 작업
 ## 붓 선택하기
 붓은 [붓 대화상자](./15-03-02-brushes-dialog.md)에서 아이콘을 클릭해서 선택할 수 있습니다.
 
-#### [영상 90.4.15.a141. 붓 대화상자 (Windows) (우리말) - 붓 선택하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a141-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%EB%B6%93-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
+<a id="90-04-15-a141"></a>
+
+#### [영상 90.4.15.a141. 붓 대화상자 (Windows) (우리말) - 붓 선택하기](./90-04-15-brushes.md#90-04-15-a141)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/93612d28-ed12-4590-bafe-f64469f081a3"></video>
 
 ## 지금 쓰고 있는 붓 확인하기
 GIMP(김프)에서 지금 쓰고 있는 붓은 도구상자의 붓/무늬/그라디언트 영역과 도구 옵션의 `붓` 항목에서 확인할 수 있습니다. 
 
-#### [그림 90.4.15.a142. 지금 쓰고 있는 붓 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EA%B7%B8%EB%A6%BC-90415a142-%EC%A7%80%EA%B8%88-%EC%93%B0%EA%B3%A0-%EC%9E%88%EB%8A%94-%EB%B6%93-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
-[![90-03-02-23-paint_brush(windows)(ko)-current_brush](https://github.com/wonder13662/gimp/assets/15767104/d520907a-0666-465c-95d7-fc302fb7b947)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EA%B7%B8%EB%A6%BC-90415a142-%EC%A7%80%EA%B8%88-%EC%93%B0%EA%B3%A0-%EC%9E%88%EB%8A%94-%EB%B6%93-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+<a id="90-04-15-a142"></a>
+
+#### [그림 90.4.15.a142. 지금 쓰고 있는 붓 확인하기](./90-04-15-brushes.md#90-04-15-a142)
+![90-04-15-a142](https://github.com/wonder13662/gimp/assets/15767104/d520907a-0666-465c-95d7-fc302fb7b947)
 
 ## 붓 대화상자 활성화하기
 도구상자의 붓/무늬/그라디언트 영역의 붓 모양을 클릭하면 [붓 대화상자](./15-03-02-brushes-dialog.md)를 활성화할 수 있습니다.
 
-#### [영상 90.4.15.a143. 붓 대화상자 활성화하기 - 도구상자의 붓/무늬/그라디언트 영역의 붓 클릭](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-15-brushes.html#%EC%98%81%EC%83%81-90415a143-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-%ED%99%9C%EC%84%B1%ED%99%94%ED%95%98%EA%B8%B0---%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8-%EC%98%81%EC%97%AD%EC%9D%98-%EB%B6%93-%ED%81%B4%EB%A6%AD)
+<a id="90-04-15-a143"></a>
+
+#### [영상 90.4.15.a143. 붓 대화상자 활성화하기 - 도구상자의 붓/무늬/그라디언트 영역의 붓 클릭](./90-04-15-brushes.md#90-04-15-a143)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/16c8b4fc-f86f-4f08-aa58-fd37dd7fccc1"></video>
 
 ## 기본 붓과 붓 추가하기

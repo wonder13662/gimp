@@ -22,13 +22,17 @@ GIMP에서 이미지에 작업한 대부분의 일은 취소할 수 있습니다
 
 한번에 많은 과정을 실행 취소하거나 재실행을 자주한다면, 실행 취소 이력 대화상자를 이용하면 편리합니다.
 
-#### [그림 90.1.10.2.10.a101. `창` → `실행취소 이력` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-10-undo_history.html#%EA%B7%B8%EB%A6%BC-90110210a101-%EC%B0%BD--%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5-windows)
-[![그림 90.1.10.2.10.a101. `창` → `실행취소 이력` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/69de469c-0fd6-48bb-ad05-afe85d91740b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-10-undo_history.html#%EA%B7%B8%EB%A6%BC-90110210a101-%EC%B0%BD--%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5-windows)
+<a id="90-01-10-02-10-a101"></a>
 
-[다른 운영체제와 언어의 '실행취소 이력` (Windows)' 메뉴 확인하기](./90-01-10-02-10-undo_history.md)
+#### [그림 90.1.10.2.10.a101. `창` → `실행취소 이력` (Windows)](./90-01-10-02-10-undo_history.md#90-01-10-02-10-a101)
+![그림 90.1.10.2.10.a101. `창` → `실행취소 이력` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/69de469c-0fd6-48bb-ad05-afe85d91740b)
 
-#### [그림 90.4.10.a1. 실행취소 이력 대화상자](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-10-undo_history.html#%EA%B7%B8%EB%A6%BC-90410a1-%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
-[![실행취소 이력 대화상자](https://github.com/wonder13662/gimp/assets/15767104/351ada2a-1b19-4105-803c-abeff657ee07)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-10-undo_history.html#%EA%B7%B8%EB%A6%BC-90410a1-%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%9D%B4%EB%A0%A5-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
+[다른 운영체제와 언어의 '실행취소 이력` (Windows)' 메뉴 확인하기](./90-01-10-02-10-undo_history.md#90-01-10-02-10-a102)
+
+<a id="90-04-10-a1"></a>
+
+#### [그림 90.4.10.a1. 실행취소 이력 대화상자](./90-04-10-undo_history.md#90-04-10-a1)
+![90-04-10-a1](https://github.com/wonder13662/gimp/assets/15767104/351ada2a-1b19-4105-803c-abeff657ee07)
 
 ⚠️ 주의: 우리말 버전의 경우, 도킹가능한 대화에서는 `실행취소 이력`, 독의 대화상자에서는 `실행 취소 기록`로 부르고 있습니다. 향후, 하나의 이름으로 맞출 필요가 있습니다.
 
@@ -36,10 +40,12 @@ GIMP에서 이미지에 작업한 대부분의 일은 취소할 수 있습니다
 
 실행취소는 이미지에만 실행할 수 있습니다. "실행 취소 기록"은 이미지를 구성하는 정보입니다. GIMP는 "실행취소"를 하기 위해 일정량의 메모리를 할당합니다. "기본 설정(Preferences)"의 [12.1.2. 시스템 자원(System Resource)](./12-01-02-system-resources.md)에서 "실행취소"를 하기 위한 메모리 할당량을 늘이거나 줄일 수 있습니다.
 
-#### [90.2.1.a110. 시스템 리소스 - 실행취소 최소횟수, 실행취소 최대메모리 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-01-system-resource.html#9021a110-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A6%AC%EC%86%8C%EC%8A%A4---%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%B5%9C%EC%86%8C%ED%9A%9F%EC%88%98-%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%B5%9C%EB%8C%80%EB%A9%94%EB%AA%A8%EB%A6%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-02-01-system-resource(우리말)(windows)(compact)-focus-resource_consumption](https://github.com/wonder13662/gimp/assets/15767104/d606c417-ba0b-48a4-a6bf-fcc373517866)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-01-system-resource.html#9021a110-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A6%AC%EC%86%8C%EC%8A%A4---%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%B5%9C%EC%86%8C%ED%9A%9F%EC%88%98-%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%B5%9C%EB%8C%80%EB%A9%94%EB%AA%A8%EB%A6%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-02-01-a110"></a>
 
-[다른 운영체제와 언어의 '실행취소 최소횟수, 실행취소 최대메모리' 확인하기](./90-02-01-system-resource.md)
+#### [90.2.1.a110. 시스템 리소스 - 실행취소 최소횟수, 실행취소 최대메모리 (Windows) (우리말)](./90-02-01-system-resource.md#90-02-01-a110)
+![90-02-01-system-resource(우리말)(windows)(compact)-focus-resource_consumption](https://github.com/wonder13662/gimp/assets/15767104/d606c417-ba0b-48a4-a6bf-fcc373517866)
+
+[다른 운영체제와 언어의 '실행취소 최소횟수, 실행취소 최대메모리' 확인하기](./90-02-01-system-resource.md#90-02-01-a201)
 
 ### `시스템 자원(System Resource)` → `자원소비량(Resource Consumption)` → `실행 취소 최소 횟수(Minimal number of undo levels)`
 GIMP가 메모리와 상관없이 관리해야 할 실행취소 최소 횟수를 지정합니다.

@@ -847,7 +847,7 @@
 [90.2.10. 실험 놀이터 (Experimental Playground)](./90-02-10-playground.md)
 
 ## [90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
-[<img width="450" src="https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5">](./90-03-00-toolbox.md)
+![90-03-a131](https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5)
 
 [90.3.1. GIMP 로고(GIMP Logo)](./90-03-01-gimp_logo.md)
 

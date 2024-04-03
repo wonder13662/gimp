@@ -10,8 +10,10 @@
 ### 알파 채널 확인하기
 이미지를 알파 투명도를 포함해서 내보내기 위해서, 이미지에 알파 채널이 있어야 합니다. 알파 채널이 이미지에 있는 것을 확인하기 위해서, [채널 대화상자](./15-02-02-00-channel-dialog.md)로 가서 "빨강(Red)", "초록(Green)", "파랑(Blue)" 외에 "알파(Alpha)" 항목이 있는지 확인합니다. 
 
-#### [그림 90.4.4.a2. 채널 대화상자 - 알파 채널](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-04-channels.html#%EA%B7%B8%EB%A6%BC-9044a2-%EC%B1%84%EB%84%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90)
-[![90-04-04-channels-alpha_channels-focus](https://github.com/wonder13662/gimp/assets/15767104/6a94fd5e-24c4-407a-928c-9f43640ac45b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-04-channels.html#%EA%B7%B8%EB%A6%BC-9044a2-%EC%B1%84%EB%84%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EC%95%8C%ED%8C%8C-%EC%B1%84%EB%84%90)
+<a id="90-04-04-a2"></a>
+
+#### [그림 90.4.4.a2. 채널 대화상자 - 알파 채널](./90-04-04-channels.md#90-04-04-a2)
+![90-04-04-a2](https://github.com/wonder13662/gimp/assets/15767104/6a94fd5e-24c4-407a-928c-9f43640ac45b)
 
 만약 "알파(Alpha)" 항목이 없다면, 이미지 메뉴바의 `레어어(Layer)` → `투명도(Transparency)` → [`알파 채널 추가(Add Alpha Channel)`](./16-07-34-add-alpha-channel.md)를 선택해서 알파 채널을 추가합니다.
 

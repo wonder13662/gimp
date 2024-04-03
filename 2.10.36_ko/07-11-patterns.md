@@ -13,16 +13,20 @@
 ## 1. 지금 쓰고있는 무늬
 지금 쓰고있는 무늬는 도구 상자의 붓/무늬/그라디언트 영역에 표시됩니다. 여기서 무늬 모양을 클릭하면, 무늬 대화 상자가 호출되고, 이를 통해 다른 무늬를 선택할 수 있습니다.
 
-#### [그림 90.3.4.a3. 도구상자의 '붓/무늬/그라디언트' - `패턴`](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a3-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%ED%8C%A8%ED%84%B4)
-[![90-03-04-brush_pattern_gradient(windows)(ko)-focus-pattern](https://github.com/wonder13662/gimp/assets/15767104/2eb5399d-e741-48c7-ae76-c1d8277c4b08)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-04-brush_n_pattern_n_gradient.html#%EA%B7%B8%EB%A6%BC-9034a3-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90%EC%9D%98-%EB%B6%93%EB%AC%B4%EB%8A%AC%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8---%ED%8C%A8%ED%84%B4)
+<a id="90-03-04-a3"></a>
+
+#### [그림 90.3.4.a3. 도구상자의 '붓/무늬/그라디언트' - `패턴`](./90-03-04-brush_n_pattern_n_gradient.md#90-03-04-a3)
+![90-03-04-a3](https://github.com/wonder13662/gimp/assets/15767104/2eb5399d-e741-48c7-ae76-c1d8277c4b08)
 
 ## 2. 메뉴를 통해 무늬 대화상자 열기
 메뉴를 통해 무늬 대화상자를 열 수 있습니다. 이 대화상자를 독에 도킹시킬수도 있습니다.
 
-#### [그림 90.1.10.2.18.a101. `창` → `무늬` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-18-patterns.html#%EA%B7%B8%EB%A6%BC-90110218a101-%EC%B0%BD--%EB%AC%B4%EB%8A%AC-windows)
-[![90-01-10-windowsx-01-dockable_dialogs(windows)(1080)-focus-pattern](https://github.com/wonder13662/gimp/assets/15767104/2ef22dcd-68a9-4e02-afcd-b761e5ded300)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-18-patterns.html#%EA%B7%B8%EB%A6%BC-90110218a101-%EC%B0%BD--%EB%AC%B4%EB%8A%AC-windows)
+<a id="90-01-10-02-18-a101"></a>
 
-[다른 운영체제와 언어의 `창` → `무늬` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-10-windowsx-02-dockable_dialogsx-18-patterns.html#%EA%B7%B8%EB%A6%BC-90110218a102-%EC%B0%BD--%EB%AC%B4%EB%8A%AC-mac)
+#### [그림 90.1.10.2.18.a101. `창` → `무늬` (Windows)](./90-01-10-02-18-patterns.md#90-01-10-02-18-a101)
+![90-01-10-windowsx-01-dockable_dialogs(windows)(1080)-focus-pattern](https://github.com/wonder13662/gimp/assets/15767104/2ef22dcd-68a9-4e02-afcd-b761e5ded300)
+
+[다른 운영체제와 언어의 `창` → `무늬` 확인하기](./90-01-10-02-18-patterns.md#90-01-10-02-18-a102)
 
 ## 3. 새로운 무늬 추가하기
 새로운 무늬를 추가시키려면 GIMP(김프)에서 사용 가능한 포맷으로 `기본 설정` → `폴더` → `무늬`에 등록된 폴더에 저장해야 합니다. 

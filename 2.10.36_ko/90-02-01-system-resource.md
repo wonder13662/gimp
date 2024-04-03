@@ -3,8 +3,14 @@
 #### 90.2.1.a101. 시스템 리소스 (Windows) (우리말)
 ![90-02-01-system-resource(우리말)(windows)(compact)](https://github.com/wonder13662/gimp/assets/15767104/2752c284-09dc-4bf0-9adc-58ea2bc58b21)
 
+<a id="90-02-01-a110"></a>
+
 #### 90.2.1.a110. 시스템 리소스 - 실행취소 최소횟수, 실행취소 최대메모리 (Windows) (우리말)
 ![90-02-01-system-resource(우리말)(windows)(compact)-focus-resource_consumption](https://github.com/wonder13662/gimp/assets/15767104/d606c417-ba0b-48a4-a6bf-fcc373517866)
+
+[3.3. 실행 취소하기 - 90.2.1.a110](./03-03-undoing.md#90-02-01-a110)
+
+<a id="90-02-01-a201"></a>
 
 #### 90.2.1.a201. 시스템 리소스 (Windows) (영어)
 ![90-02-01-system-resource(영어)(windows)(compact)](https://github.com/wonder13662/gimp/assets/15767104/e56e023e-ecca-4115-940d-237d8e2ba0f5)
@@ -14,12 +20,6 @@
 
 #### 90.2.1.a401. 시스템 리소스 (Mac) (영어)
 ![90-02-01-system-resource(영어)(mac)(compact)](https://github.com/wonder13662/gimp/assets/15767104/0ba61e8a-8cd0-4be7-b828-2f72ae8058f2)
-
-***
-
-## 관련 정보
-
-[3.3. 실행 취소하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-03-undoing.html#9021a110-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A6%AC%EC%86%8C%EC%8A%A4---%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%B5%9C%EC%86%8C%ED%9A%9F%EC%88%98-%EC%8B%A4%ED%96%89%EC%B7%A8%EC%86%8C-%EC%B5%9C%EB%8C%80%EB%A9%94%EB%AA%A8%EB%A6%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
 
 ***
 

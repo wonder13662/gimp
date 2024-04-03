@@ -3,10 +3,12 @@
 #### 그림 90.3.2.6.a1. 도구상자의 가위 선택의 도구옵션
 <img width="1080" alt="그림 90.3.2.6.a1. 도구상자의 가위 선택의 도구옵션" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cc1e65f5-b6ed-49dc-bf37-1895a7e7706b">
 
-#### 그림 90.3.2.6.a2. 도구상자 - 똑똑한 가위
-![그림 90.3.2.6.a2. 도구상자 - 똑똑한 가위](https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08)
+<a id="90-03-02-06-a2"></a>
 
-[3.4.10. 원하는 개체만 선택하여 분리하기 - 그림 90.3.2.6.a2. 도구상자 - 똑똑한 가위](https://wonder13662.github.io/gimp/2.10.36_ko/03-04-10-separating-an-object-from-its-background.html#%EA%B7%B8%EB%A6%BC-90326a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90---%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%80%EC%9C%84)
+#### 그림 90.3.2.6.a2. 도구상자 - 똑똑한 가위
+![90-03-02-06-a2](https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08)
+
+[3.4.10. 원하는 개체만 선택하여 분리하기 - 그림 90.3.2.6.a2](./03-04-10-separating-an-object-from-its-background.md#90-03-02-06-a2)
 
 ***
 

@@ -13,8 +13,10 @@
 
 위 설명을 사각 선택(Rectangle Select) 도구로 따라해보세요. 그리고 퀵마스크를 켜면 흐릿한 경계를 가진 사각형을 볼 수 있습니다. 아래 예시 이미지로 페더의 적용한 상태와 그렇지 않은 상태를 확인해보세요.
 
-#### [그림 90.3.2.3.a102. 선택의 페더 적용 유무 비교](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-03-rectangle_select.html#%EA%B7%B8%EB%A6%BC-90323a102-%EC%84%A0%ED%83%9D%EC%9D%98-%ED%8E%98%EB%8D%94-%EC%A0%81%EC%9A%A9-%EC%9C%A0%EB%AC%B4-%EB%B9%84%EA%B5%90)
-[![90-04-01-tool_optionsx-03-rectangle_select-feather_comparison_animation](https://github.com/wonder13662/gimp/assets/15767104/654431dd-7223-489f-8f89-392116226b34)](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-03-rectangle_select.html#%EA%B7%B8%EB%A6%BC-90323a102-%EC%84%A0%ED%83%9D%EC%9D%98-%ED%8E%98%EB%8D%94-%EC%A0%81%EC%9A%A9-%EC%9C%A0%EB%AC%B4-%EB%B9%84%EA%B5%90)
+<a id="90-03-02-03-a102"></a>
+
+#### [그림 90.3.2.3.a102. 선택의 페더 적용 유무 비교](./90-03-02-03-rectangle_select.md#90-03-02-03-a102)
+![90-03-02-03-a102](https://github.com/wonder13662/gimp/assets/15767104/654431dd-7223-489f-8f89-392116226b34)
 
 ## 페더(Feather)는 언제 사용하나요?
 페더는 이미지를 잘라내거나 붙일때 쓸 수 있습니다. 페더를 사용하면 붙인 객체가 부드럽고, 눈에 띄지 않게 주변 사물과 어울리게 해줍니다.
