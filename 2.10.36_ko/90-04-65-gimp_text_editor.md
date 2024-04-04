@@ -148,6 +148,7 @@
 ***
 
 ## 다른 페이지로 가기
+
 [➡️ 다음: 90.4.66. 텍스트 편집 확인(Confirm Text Editing)](./90-04-66-confirm_text_editing.md)
 
 [⬅️ 이전: 90.4.64. 새 레이어(New layer)](./90-04-64-new_layer.md)

@@ -12,10 +12,12 @@
 #### 그림 90.4.56.a104. `레이어 합치기` 대화상자 (Mac) (영어)
 ![90-04-56-merge_layers(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/445ec7a7-8acc-4b97-b5e2-000edd108d16)
 
-#### 그림 90.4.56.a105. `레이어 합치기` 대화상자 (Windows) (우리말) - 필요한만큼 넓히기(Expanded as necessasry)
-![90-04-56-merge_layers(windows)(ko)-focus-expanded_as_necesssary](https://github.com/wonder13662/gimp/assets/15767104/1c7e6ae5-f2a2-413e-a314-dce5d4a8149f)
+<a id="90-04-56-a105"></a>
 
-[7.8.2.2. 3차원 이미지 호스(A three dimension image hose) - 그림 90.4.56.a105](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-the-gih-dialog-boxx-02-examplex-02-three_dimension_image_hose.html#%EA%B7%B8%EB%A6%BC-90456a105-%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%95%A9%EC%B9%98%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90---%ED%95%84%EC%9A%94%ED%95%9C%EB%A7%8C%ED%81%BC-%EB%84%93%ED%9E%88%EA%B8%B0expanded-as-necessasry)
+#### 그림 90.4.56.a105. `레이어 합치기` 대화상자 (Windows) (우리말) - 필요한만큼 넓히기(Expanded as necessasry)
+![90-04-56-a105](https://github.com/wonder13662/gimp/assets/15767104/1c7e6ae5-f2a2-413e-a314-dce5d4a8149f)
+
+[7.8.2.2. 3차원 이미지 호스(A three dimension image hose) - 그림 90.4.56.a105](./07-08-02-02-three_dimension_image_hose.md#90-04-56-a105)
 
 ***
 

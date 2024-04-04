@@ -7,8 +7,12 @@
 #### [그림 90.1.6.1.a1. `레이어` → `새 레이어`](./90-01-06-01-new_layer.md#90-01-06-01-a1)
 ![90-01-06-layer(1080)-focus-new_layer](https://github.com/wonder13662/gimp/assets/15767104/0ed82adb-7ea5-4238-ad3b-c669e6ce926a)
 
-#### [그림 90.4.64.a101. `새 레이어` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-64-new_layer.html#%EA%B7%B8%EB%A6%BC-90464a101-%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-64-new_layer(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7e0337c7-1786-4630-822d-47832eaee97a)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-64-new_layer.html#%EA%B7%B8%EB%A6%BC-90464a101-%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-64-a101"></a>
+
+#### [그림 90.4.64.a101. `새 레이어` 대화상자 (Windows) (우리말)](./90-04-64-new_layer.md#90-04-64-a101)
+![90-04-64-a101](https://github.com/wonder13662/gimp/assets/15767104/7e0337c7-1786-4630-822d-47832eaee97a)
+
+[다른 운영체제와 언어의 `새 레이어` 대화상자 확인하기](./90-04-64-new_layer.md#90-04-64-a102)
 
 ## 2. 이미지 메뉴 바의 `레이어` → `레이어 복제`
 [이미지 메뉴 바](./03-02-02-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `레이어` → `레이어 복제`를 선택합니다. 그리고 나서 레이어 대화상자에 선택한 레이어와 똑같은 레이어가 활성화되어 추가됩니다.

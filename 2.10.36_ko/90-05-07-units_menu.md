@@ -15,14 +15,10 @@
 
 [3.2.2.7. 단위 메뉴 (Units Menu) - 그림 90.5.7.a111. 단위 메뉴의 단위 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-02-image-windowx-07-units-menu.html#%EA%B7%B8%EB%A6%BC-9057a111-%EB%8B%A8%EC%9C%84-%EB%A9%94%EB%89%B4%EC%9D%98-%EB%8B%A8%EC%9C%84-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
-#### 그림 90.5.1.a121. 화면 표시 상의 확대/축소 비율과 RGB 모드
-![그림 90.5.1.a121. 화면 표시 상의 확대/축소 비율과 RGB 모드](https://github.com/wonder13662/gimp/assets/15767104/e9973caf-e8ae-4fbc-9814-9b9d13e6f982)
+<a id="90-05-01-a121"></a>
 
-***
-
-## 관련 정보
-
-[3.2.2.7. 단위 메뉴 (Units Menu)](./03-02-02-07-units-menu.md)
+#### [그림 90.5.1.a121. 화면 표시 상의 확대/축소 비율과 RGB 모드](./90-05-01-title_bar.md#90-05-01-a121)
+![90-05-01-a121](https://github.com/wonder13662/gimp/assets/15767104/e9973caf-e8ae-4fbc-9814-9b9d13e6f982)
 
 ***
 

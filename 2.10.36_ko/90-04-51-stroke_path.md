@@ -1,9 +1,14 @@
 # 90.4.51. 경로 따라 그리기(Stroke Path)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.4.51.a101. `경로 따라 그리기` 대화상자 (Windows) (우리말)
-![90-04-51-stroke_path(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/6afd212b-526f-498b-a8cd-a29cb373c15a)
 
-[7.5.5. 경로 따라 그리기 - 그림 90.4.51.a101](https://wonder13662.github.io/gimp/2.10.36_ko/07-05-05-stroking-a-path.html#%EA%B7%B8%EB%A6%BC-90451a101-%EA%B2%BD%EB%A1%9C-%EB%94%B0%EB%9D%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-51-a101"></a>
+
+#### 그림 90.4.51.a101. `경로 따라 그리기` 대화상자 (Windows) (우리말)
+![90-04-51-a101](https://github.com/wonder13662/gimp/assets/15767104/6afd212b-526f-498b-a8cd-a29cb373c15a)
+
+[7.5.5. 경로 따라 그리기 - 그림 90.4.51.a101](./07-05-05-stroking-a-path.md#90-04-51-a101)
+
+<a id="90-04-51-a102"></a>
 
 #### 그림 90.4.51.a102. `경로 따라 그리기` 대화상자 (Windows) (영어)
 ![90-04-51-stroke_path(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/d0c572d9-5e05-4f1a-936d-9999595f1e9a)
@@ -17,6 +22,7 @@
 ***
 
 ## 다른 페이지로 가기
+
 [➡️ 다음: 90.4.52. 이미지를 붓으로 내보내기(Export image as brush)](./90-04-52-export_image_as_brush.md)
 
 [⬅️ 이전: 90.4.50. 레이어 마스크 추가(Add Layer Mask)](./90-04-50-add_layer_mask.md)

@@ -1,7 +1,9 @@
 # 9.1.3. 텍스트 도구 상자(Text Toolbox)
 
-#### [그림 90.4.67.a101. `텍스트 도구상자` 대화상자](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EA%B7%B8%EB%A6%BC-90467a101-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
-[![90-04-67-a101-text_toolbox(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/103ac210-7099-4af7-85b3-e745b9fc7a42)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-67-text_toolbox.html#%EA%B7%B8%EB%A6%BC-90467a101-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90)
+<a id="90-04-67-a101"></a>
+
+#### [그림 90.4.67.a101. `텍스트 도구상자` 대화상자](./90-04-67-text_toolbox.md#90-04-67-a101)
+![90-04-67-a101](https://github.com/wonder13662/gimp/assets/15767104/103ac210-7099-4af7-85b3-e745b9fc7a42)
 
 ## 1. 텍스트 도구 상자 열기
 텍스트 도구를 선택한 뒤, 캔버스 위를 클릭하면 캔버스 위에 텍스트 도구 상자가 나타납니다. 텍스트 도구 상자로 텍스트를 캔버스 위에서 직접 수정할 수 있습니다.

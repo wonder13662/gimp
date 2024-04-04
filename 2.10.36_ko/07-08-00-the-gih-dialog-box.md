@@ -11,8 +11,12 @@
 
 `이미지 내보내기` 대화상자에서 저장할 파일의 확장자를 [`.gih`](./19-glossaryx-gih.md)로 설정한 뒤, `저장` 버튼을 누르면 `이미지를 붓 파이프로 내보내기(Export image as brush pipe)` 대화상자가 열립니다.
 
-#### [그림 90.4.54.a101. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-54-export_image_as_brush_pipe.html#%EA%B7%B8%EB%A6%BC-90454a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-54-export_image_as_brush_pipe(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/772cddf7-fec0-4394-8394-99ec12a986e8)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-54-export_image_as_brush_pipe.html#%EA%B7%B8%EB%A6%BC-90454a101-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B6%93-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-54-a101"></a>
+
+#### [그림 90.4.54.a101. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말)](./90-04-54-export_image_as_brush_pipe.md#90-04-54-a101)
+![90-04-54-a101](https://github.com/wonder13662/gimp/assets/15767104/772cddf7-fec0-4394-8394-99ec12a986e8)
+
+[다른 운영체제와 언어의 `이미지를 붓 파이프로 내보내기` 대화상자 확인하기](./90-04-54-export_image_as_brush_pipe.md#90-04-54-a102)
 
 ## 2. `이미지를 붓 파이프로 내보내기` 대화상자의 설정값
 [7.8.1. GIH 대화상자 - 설정값](./07-08-01-dialog_options_of_export_image_as_brush_pipe.md)

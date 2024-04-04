@@ -22,12 +22,16 @@
 
 `레이어 속성 편집` 대화상자가 뜹니다. `레이어 속성 편집` 대화상자의 `레이어 이름`의 이름을 수정합니다. 대화상자 아래의 `확인` 버튼을 클릭해서 수정을 완료합니다.
 
-#### [그림 90.4.62.a105. `레이어 속성 편집` 대화상자 → `레이어 이름` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-62-edit_layer_attributes.html#%EA%B7%B8%EB%A6%BC-90462a105-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%86%8D%EC%84%B1-%ED%8E%B8%EC%A7%91-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%9D%B4%EB%A6%84-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-62-edit_layer_attributes(windows)(ko)-focus-layer_name](https://github.com/wonder13662/gimp/assets/15767104/20633024-7d4c-4357-9de9-1e5a8e0c29c4)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-62-edit_layer_attributes.html#%EA%B7%B8%EB%A6%BC-90462a105-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%86%8D%EC%84%B1-%ED%8E%B8%EC%A7%91-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%9D%B4%EB%A6%84-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-62-a105"></a>
+
+#### [그림 90.4.62.a105. `레이어 속성 편집` 대화상자 → `레이어 이름` (Windows) (우리말)](./90-04-62-edit_layer_attributes.md#90-04-62-a105)
+![90-04-62-a105](https://github.com/wonder13662/gimp/assets/15767104/20633024-7d4c-4357-9de9-1e5a8e0c29c4)
 
 아래 영상에서 전체 과정을 확인할 수 있습니다.
 
-#### [영상 90.4.62.a111. `레이어 속성 편집` 대화상자에서 레이어의 이름 바꾸기 ](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-62-edit_layer_attributes.html#%EC%98%81%EC%83%81-90462a111-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%86%8D%EC%84%B1-%ED%8E%B8%EC%A7%91-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%EC%9D%B4%EB%A6%84-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+<a id="90-04-62-a111"></a>
+
+#### [영상 90.4.62.a111. `레이어 속성 편집` 대화상자에서 레이어의 이름 바꾸기 ](./90-04-62-edit_layer_attributes.md#90-04-62-a111)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d5a4bc9d-fee8-4487-9682-c06bc495b71f"></video>
 
 ## 2. 알파 채널의 유무

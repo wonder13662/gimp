@@ -36,10 +36,12 @@ GIMP(김프)는 두 가지 유형의 팔레트를 씁니다.
 
 `새 팔레트 가져오기` 대화상자가 열립니다. 이 대화상자에 이미지에서 팔레트를 만들어 가져오는 기능이 있습니다. (GIMP(김프)의 그라디언트를 팔레트로 가져올 수도 있습니다.) 이 기능은 같은 색상의 인덱스 이미지를 만들 때 쓸 수 있습니다.
 
-#### [그림 90.4.61.a101. `새 팔레트 가져오기` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-61-import_a_new_palette.html#%EA%B7%B8%EB%A6%BC-90461a101-%EC%83%88-%ED%8C%94%EB%A0%88%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-61-dialog-import_a_new_palette(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7332d337-2901-4f96-88ab-0859849d7246)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-61-import_a_new_palette.html#%EA%B7%B8%EB%A6%BC-90461a101-%EC%83%88-%ED%8C%94%EB%A0%88%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-61-a101"></a>
 
-[다른 운영체제와 언어의 `새 팔레트 가져오기` 대화상자 확인하기](./90-04-61-import_a_new_palette.md)
+#### [그림 90.4.61.a101. `새 팔레트 가져오기` 대화상자 (Windows) (우리말)](./90-04-61-import_a_new_palette.md#90-04-61-a101)
+![90-04-61-a101](https://github.com/wonder13662/gimp/assets/15767104/7332d337-2901-4f96-88ab-0859849d7246)
+
+[다른 운영체제와 언어의 `새 팔레트 가져오기` 대화상자 확인하기](./90-04-61-import_a_new_palette.md#90-04-61-a102)
 
 ## 4. 인덱스 색상표 만들기
 이미지를 인덱스 모드로 바꿀 때, 가장 주된 작업은 이미지에 대한 인덱스 색상표를 만드는 것입니다. 이에 대한 자세한 설명은 [인덱스 모드](./16-06-06-indexed-mode.md)을 참고해주세요. 간단히 말하자면, 팔레트 대화상자에 있는 특정 팔레트를 이용하는 것입니다.

@@ -29,10 +29,12 @@
 #### [그림 90.1.3.8.a101. `선택` → `페더`](./90-01-03-08-feather.md#90-01-03-08-a101)
 ![90-01-03-select(1080)-focus-feather](https://github.com/wonder13662/gimp/assets/15767104/7773abad-3799-4a2d-98e1-971fd9b158fe)
 
-#### [그림 90.4.49.a101. `선택 영역 페더` 대화상자 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-49-feather_selection.html#%EA%B7%B8%EB%A6%BC-90449a101-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD-%ED%8E%98%EB%8D%94-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-04-49-feather_selection(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b468219f-1b07-4ded-97e5-d6df5278c41b)](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-49-feather_selection.html#%EA%B7%B8%EB%A6%BC-90449a101-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD-%ED%8E%98%EB%8D%94-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-49-a101"></a>
 
-[다른 운영체제와 언어의 `선택 영역 페더` 대화상자 확인하기](./90-04-49-feather_selection.md)
+#### [그림 90.4.49.a101. `선택 영역 페더` 대화상자 (Windows) (우리말)](./90-04-49-feather_selection.md#90-04-49-a101)
+![90-04-49-a101](https://github.com/wonder13662/gimp/assets/15767104/b468219f-1b07-4ded-97e5-d6df5278c41b)
+
+[다른 운영체제와 언어의 `선택 영역 페더` 대화상자 확인하기](./90-04-49-feather_selection.md#90-04-49-a102)
 
 <a id="90-01-03-08-a102"></a>
 

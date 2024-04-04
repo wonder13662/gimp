@@ -12,20 +12,26 @@
 #### 그림 90.4.62.a104. `레이어 속성 편집` 대화상자 (Mac) (영어)
 ![90-04-62-edit_layer_attributes(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/2b2d4d0b-e4db-43ce-8e1b-6ccaf52a3a5c)
 
-#### 그림 90.4.62.a105. `레이어 속성 편집` 대화상자 → `레이어 이름` (Windows) (우리말)
-![90-04-62-edit_layer_attributes(windows)(ko)-focus-layer_name](https://github.com/wonder13662/gimp/assets/15767104/20633024-7d4c-4357-9de9-1e5a8e0c29c4)
+<a id="90-04-62-a105"></a>
 
-[8.1.1. 레이어 속성 - 그림 90.4.62.a105](https://wonder13662.github.io/gimp/2.10.36_ko/08-01-introduction-to-layersx-01-layer_properties.html#%EA%B7%B8%EB%A6%BC-90462a105-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%86%8D%EC%84%B1-%ED%8E%B8%EC%A7%91-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90--%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%9D%B4%EB%A6%84-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+#### 그림 90.4.62.a105. `레이어 속성 편집` 대화상자 → `레이어 이름` (Windows) (우리말)
+![90-04-62-a105](https://github.com/wonder13662/gimp/assets/15767104/20633024-7d4c-4357-9de9-1e5a8e0c29c4)
+
+[8.1.1. 레이어 속성 - 그림 90.4.62.a105](./08-01-01-layer_properties.md#90-04-62-a105)
+
+<a id="90-04-62-a111"></a>
 
 #### 영상 90.4.62.a111. `레이어 속성 편집` 대화상자에서 레이어의 이름 바꾸기 
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d5a4bc9d-fee8-4487-9682-c06bc495b71f"></video>
 
-[8.1.1. 레이어 속성 - 영상 90.4.62.a111](https://wonder13662.github.io/gimp/2.10.36_ko/08-01-introduction-to-layersx-01-layer_properties.html#%EC%98%81%EC%83%81-90462a111-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%86%8D%EC%84%B1-%ED%8E%B8%EC%A7%91-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%EC%9D%B4%EB%A6%84-%EB%B0%94%EA%BE%B8%EA%B8%B0-)
+[8.1.1. 레이어 속성 - 영상 90.4.62.a111](./08-01-01-layer_properties.md#90-04-62-a111)
+
+<a id="90-04-62-a112"></a>
 
 #### 영상 90.4.62.a112. `레이어 속성 편집` 대화상자에서 레이어 그룹의 이름 바꾸기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/441d47e0-1b58-433f-bdb8-285814e411a7"></video>
 
-[8.5.1. 레이어 그룹 만들기(Create a Layer Group) - 영상 90.4.62.a112](https://wonder13662.github.io/gimp/2.10.36_ko/08-05-layer-groupsx-01-create_a_layer_group.html#%EC%98%81%EC%83%81-90462a112-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%86%8D%EC%84%B1-%ED%8E%B8%EC%A7%91-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EC%97%90%EC%84%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9%EC%9D%98-%EC%9D%B4%EB%A6%84-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+[8.5.1. 레이어 그룹 만들기(Create a Layer Group) - 영상 90.4.62.a112](./08-05-01-create_a_layer_group.md#90-04-62-a112)
 
 ***
 

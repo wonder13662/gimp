@@ -8,8 +8,10 @@
 
 GIMP는 이미지를 보기 좋은 크기로 엽니다. 따라서 열려고 하는 이미지가 예제 이미지처럼 정말 거대하다면 보기 좋게 축소된 형태로 열립니다. 이미지 창 하단에 있는 상태 표시줄에 표시된 확대/축소 비율은 화면 표시 상의 확대/축소 비율입니다. 실제 이미지가 줄어든 것은 아닙니다. 제목 표시줄에는 모드도 표시됩니다. RGB로 되어 있으면 정상입니다. 
 
-#### [그림 90.5.1.a121. 화면 표시 상의 확대/축소 비율과 RGB 모드](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-01-title_bar.html#%EA%B7%B8%EB%A6%BC-9051a121-%ED%99%94%EB%A9%B4-%ED%91%9C%EC%8B%9C-%EC%83%81%EC%9D%98-%ED%99%95%EB%8C%80%EC%B6%95%EC%86%8C-%EB%B9%84%EC%9C%A8%EA%B3%BC-rgb-%EB%AA%A8%EB%93%9C)
-[![그림 90.5.1.a121. 화면 표시 상의 확대/축소 비율과 RGB 모드](https://github.com/wonder13662/gimp/assets/15767104/e9973caf-e8ae-4fbc-9814-9b9d13e6f982)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-01-title_bar.html#%EA%B7%B8%EB%A6%BC-9051a121-%ED%99%94%EB%A9%B4-%ED%91%9C%EC%8B%9C-%EC%83%81%EC%9D%98-%ED%99%95%EB%8C%80%EC%B6%95%EC%86%8C-%EB%B9%84%EC%9C%A8%EA%B3%BC-rgb-%EB%AA%A8%EB%93%9C)
+<a id="90-05-01-a121"></a>
+
+#### [그림 90.5.1.a121. 화면 표시 상의 확대/축소 비율과 RGB 모드](./90-05-01-title_bar.md#90-05-01-a121)
+![90-05-01-a121](https://github.com/wonder13662/gimp/assets/15767104/e9973caf-e8ae-4fbc-9814-9b9d13e6f982)
 
 만약 인덱스(Indexed)나 그레이스케일(grayscale)로 되어 있다면 [3.4.7. 모드 바꾸기](03-04-07-change-the-mode.md)를 참고하세요.
 

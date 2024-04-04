@@ -1,7 +1,14 @@
 # 90.4.68. 텍스트 컨텍스트 메뉴(Text Context Menu)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
+
+<a id="90-04-68-a101"></a>
+
 #### 그림 90.4.68.a101. `텍스트 컨텍스트 메뉴` (Windows) (우리말)
 ![90-04-68-a101-text_context_menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/30c207a9-7939-4b4c-8635-e9760639d2ee)
+
+[9.1.4. 텍스트 컨텍스트 메뉴(Text Context Menu) - 그림 90.4.68.a101](./09-01-04-00-text_context_menu.md#90-04-68-a101)
+
+<a id="90-04-68-a102"></a>
 
 #### 그림 90.4.68.a102. `텍스트 컨텍스트 메뉴` (Windows) (영어)
 ![90-04-68-a102-text_context_menu(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/4034a42f-500a-4030-9d99-33d6b0c56348)

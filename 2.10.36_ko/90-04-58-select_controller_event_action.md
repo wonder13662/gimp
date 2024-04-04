@@ -12,8 +12,12 @@
 #### 그림 90.4.58.a104. `제어기의 이벤트 동작 선택` 대화상자 (Mac) (영어)
 ![90-04-58-select_controller_event_action(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/b5715755-74fa-4b91-9025-5eb17b321cbd)
 
+<a id="90-04-58-a111"></a>
+
 #### 그림 90.4.58.a111. `제어기의 이벤트 동작 선택` 대화상자 (Windows) (우리말) - 도구 크기: 1 증가
 ![90-04-58-tools_size_increase-focus(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/11f23ab7-9b0d-4160-873f-2e1eb7b666a3)
+
+[7.9.1. 붓 크기를 바꾸는 방법 - 그림 90.4.58.a111](./07-09-01-how-to-change-the-size-of-a-brush.md#90-04-58-a111)
 
 ***
 

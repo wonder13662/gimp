@@ -1,9 +1,14 @@
 # 90.4.64. 새 레이어(New layer)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.4.64.a101. `새 레이어` 대화상자 (Windows) (우리말)
-![90-04-64-new_layer(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/7e0337c7-1786-4630-822d-47832eaee97a)
 
-[8.4. 새 레이어 만들기 - 그림 90.4.64.a101](https://wonder13662.github.io/gimp/2.10.36_ko/08-04-creating-new-layers.html#%EA%B7%B8%EB%A6%BC-90464a101-%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-04-64-a101"></a>
+
+#### 그림 90.4.64.a101. `새 레이어` 대화상자 (Windows) (우리말)
+![90-04-64-a101](https://github.com/wonder13662/gimp/assets/15767104/7e0337c7-1786-4630-822d-47832eaee97a)
+
+[8.4. 새 레이어 만들기 - 그림 90.4.64.a101](./08-04-creating-new-layers.md#90-04-64-a101)
+
+<a id="90-04-64-a102"></a>
 
 #### 그림 90.4.64.a102. `새 레이어` 대화상자 (Windows) (영어)
 ![90-04-64-new_layer(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/95372e58-2cd1-43a5-9a48-44d2ed8cc109)

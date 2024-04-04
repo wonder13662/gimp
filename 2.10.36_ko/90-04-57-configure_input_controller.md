@@ -12,12 +12,17 @@
 #### 그림 90.4.57.a104. `입력 제어기 설정` 대화상자 (Mac) (영어)
 ![90-04-57-configure_input_controller(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/ac879db2-344d-4afc-87c6-1b9d8f506cb2)
 
+<a id="90-04-57-a111"></a>
+
 #### 그림 90.4.57.a111. `입력 제어기 설정` 대화상자 (Windows) (우리말) - 위로 스크롤
-![90-04-57-configure_input_controller(windows)(ko)-focus-scrollup](https://github.com/wonder13662/gimp/assets/15767104/d28846a0-8ded-4e2b-9f45-c572d8398035)
+![90-04-57-a111](https://github.com/wonder13662/gimp/assets/15767104/d28846a0-8ded-4e2b-9f45-c572d8398035)
+
+[7.9.1. 붓 크기를 바꾸는 방법 - 그림 90.4.57.a111](./07-09-01-how-to-change-the-size-of-a-brush.md#90-04-57-a111)
 
 ***
 
 ## 다른 페이지로 가기
+
 [➡️ 다음: 90.4.58. 제어기의 이벤트 동작 선택(Select Controller Event Action)](./90-04-58-select_controller_event_action.md)
 
 [⬅️ 이전: 90.4.56. 레이어 합치기(Merge Layers)](./90-04-56-merge_layers.md)
