@@ -2,7 +2,7 @@
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 
 <a id="90-01-02-20-a101"></a>
- → 
+
 #### 그림 90.1.2.20.a101. `편집` → `경로 따라 그리기`
 ![90-00-image_menu_bar-edit-focus-stroke_path(w1080)](https://github.com/wonder13662/gimp/assets/15767104/d4b34f6b-d4da-41f2-aa6e-128ba1125b7d)
 
