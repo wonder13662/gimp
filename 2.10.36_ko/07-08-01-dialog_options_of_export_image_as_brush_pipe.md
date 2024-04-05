@@ -27,8 +27,10 @@ GIMP(김프)에서의 셀은 움직이는 붓(animated brush)에서 사용하는
 
 GIMP(김프)는 셀을 각 레이어에서 셀 크기를 기준으로 가져옵니다. 그리고 가져온 셀들을 가져온 순서대로 쌓습니다. 쌓은 층을 스택(stack)이라고 합니다. 그리고 스택의 첫번째 셀을 제일 먼저 처리합니다. 이 방식을 [선입선출(FIFO)](https://ko.wikipedia.org/wiki/%EC%84%A0%EC%9E%85_%EC%84%A0%EC%B6%9C)이라고 합니다. 
 
-#### [그림 90.99.a144. 선입선출(FIFO - first in, first out)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a144-%EC%84%A0%EC%9E%85%EC%84%A0%EC%B6%9Cfifo---first-in-first-out)
-[![Fifo_queue](https://github.com/wonder13662/gimp/assets/15767104/6e7cd780-e5cb-4347-911e-1ce4fa3ceade)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a144-%EC%84%A0%EC%9E%85%EC%84%A0%EC%B6%9Cfifo---first-in-first-out)
+<a id="90-99-a144"></a>
+
+#### [그림 90.99.a144. 선입선출(FIFO - first in, first out)](./90-99-etc.md#90-99-a144)
+![90-99-a144](https://github.com/wonder13662/gimp/assets/15767104/6e7cd780-e5cb-4347-911e-1ce4fa3ceade)
 
 ## 4. 셀의 수(Number of cells)
 모든 레이어에서 잘라내는 셀의 모든 갯수입니다. 셀의 모든 갯수가 1개일 경우는 붓 모양이 1개가 됩니다. 기본값은 레이어의 갯수로 붓 모양 한개에 하나의 레이어가 사용됩니다.
@@ -41,18 +43,24 @@ GIMP(김프)는 셀을 각 레이어에서 셀 크기를 기준으로 가져옵�
 
 1차원 배열에서는 1개의 차원을 가집니다.
 
-#### [그림 90.99.a147. 1차원 배열(array)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a147-1%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4array)
-[![gih-array1D](https://github.com/wonder13662/gimp/assets/15767104/75d078d4-d4bb-4106-adb1-15df4a1fd485)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a147-1%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4array)
+<a id="90-99-a147"></a>
+
+#### [그림 90.99.a147. 1차원 배열(array)](./90-99-etc.md#90-99-a147)
+![90-99-a147](https://github.com/wonder13662/gimp/assets/15767104/75d078d4-d4bb-4106-adb1-15df4a1fd485)
 
 2차원 배열에서는 2개의 차원을 가집니다.
 
-#### [그림 90.99.a145. 2차원 배열(array)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a145-2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4array)
-[![gih-array2D](https://github.com/wonder13662/gimp/assets/15767104/a7c1b608-6ad5-4d66-b035-2286ce82115d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a145-2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4array)
+<a id="90-99-a145"></a>
+
+#### [그림 90.99.a145. 2차원 배열(array)](./90-99-etc.md#90-99-a145)
+![90-99-a145](https://github.com/wonder13662/gimp/assets/15767104/a7c1b608-6ad5-4d66-b035-2286ce82115d)
 
 3차원 배열에서는 3개의 차원을 가집니다.
 
-#### [그림 90.99.a146. 3차원 배열(array)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a146-3%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4array)
-[![gih-array3D](https://github.com/wonder13662/gimp/assets/15767104/9e144c26-051e-4617-9331-28c2cc2968ef)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a146-3%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4array)
+<a id="90-99-a146"></a>
+
+#### [그림 90.99.a146. 3차원 배열(array)](./90-99-etc.md#90-99-a146)
+![90-99-a146](https://github.com/wonder13662/gimp/assets/15767104/9e144c26-051e-4617-9331-28c2cc2968ef)
 
 GIMP(김프)에서는 최대 4개의 차원까지 가질 수 있습니다. 차원(Dimension)을 바꿀때마다 차원 아래의 횡렬(Rank) 입력 목록의 활성화 갯수가 달라집니다.
 

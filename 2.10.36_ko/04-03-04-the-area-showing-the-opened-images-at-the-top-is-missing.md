@@ -3,11 +3,15 @@
 ## 4.3.4.1. 문제
 [단일창 모드](./03-02-00-main-window.md)에서 열어놓은 이미지를 표시하는 이미지 창의 위쪽의 탭 바의 미리보기가 사라졌습니다.
 
-#### [그림 90.5.17.a111. 이미지 창의 위쪽의 탭 바가 정상적으로 보이는 경우](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-17-image_tab_bar.html#%EA%B7%B8%EB%A6%BC-90517a111-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%9D%98-%EC%9C%84%EC%AA%BD%EC%9D%98-%ED%83%AD-%EB%B0%94%EA%B0%80-%EC%A0%95%EC%83%81%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EA%B2%BD%EC%9A%B0)
-[![그림 90 5 17 a111  이미지 창의 위쪽의 탭 바가 정상적으로 보이는 경우](https://github.com/wonder13662/gimp/assets/15767104/3ccba78d-28a9-422a-b0d4-82c7873843d3)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-17-image_tab_bar.html#%EA%B7%B8%EB%A6%BC-90517a111-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%9D%98-%EC%9C%84%EC%AA%BD%EC%9D%98-%ED%83%AD-%EB%B0%94%EA%B0%80-%EC%A0%95%EC%83%81%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EA%B2%BD%EC%9A%B0)
+<a id="90-05-17-a111"></a>
 
-#### [그림 90.5.17.a112. 이미지 창의 위쪽의 탭 바가 보이지 않는 경우](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-17-image_tab_bar.html#%EA%B7%B8%EB%A6%BC-90517a112-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%9D%98-%EC%9C%84%EC%AA%BD%EC%9D%98-%ED%83%AD-%EB%B0%94%EA%B0%80-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B2%BD%EC%9A%B0)
-[![그림 90 5 17 a112  이미지 창의 위쪽의 탭 바가 보이지 않는 경우](https://github.com/wonder13662/gimp/assets/15767104/47816aca-1b82-4149-86ca-46d06faa984d)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-17-image_tab_bar.html#%EA%B7%B8%EB%A6%BC-90517a112-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BD%EC%9D%98-%EC%9C%84%EC%AA%BD%EC%9D%98-%ED%83%AD-%EB%B0%94%EA%B0%80-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B2%BD%EC%9A%B0)
+#### [그림 90.5.17.a111. 이미지 창의 위쪽의 탭 바가 정상적으로 보이는 경우](./90-05-17-image_tab_bar.md#90-05-17-a111)
+![90-05-17-a111](https://github.com/wonder13662/gimp/assets/15767104/3ccba78d-28a9-422a-b0d4-82c7873843d3)
+
+<a id="90-05-17-a112"></a>
+
+#### [그림 90.5.17.a112. 이미지 창의 위쪽의 탭 바가 보이지 않는 경우](./90-05-17-image_tab_bar.md#90-05-17-a112)
+![90-05-17-a112](https://github.com/wonder13662/gimp/assets/15767104/47816aca-1b82-4149-86ca-46d06faa984d)
 
 ## 4.3.4.2. 해결방법
 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `창` → `Show Tabs`을 엽니다. 그리고 `Show Tabs`이 체크되어 있는지 확인합니다.

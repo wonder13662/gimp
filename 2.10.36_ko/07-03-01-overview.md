@@ -11,10 +11,14 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 ## 퀵마스크 모드로 바꾸기
 퀵마스크는 GIMP(김프)에서 선택 영역의 구조를 상세히 보여주는 방식입니다. 퀵마스크를 사용하면 선택을 더 강력하게 제어할 수 있습니다. 이미지 창의 왼쪽 아래편 외곽의 작은 버튼(아래 그림의 5번 영역)을 클릭해서 퀵마스크를 켜거나 끌 수 있습니다. 이 버튼으로 퀵마스크 모드와 선택 외곽선(행진하는 개미) 모드로 전환할 수 있습니다.
 
-#### [그림 90.5.5.a102. (5)퀵마스크 토글 버튼의 위치 (단일창)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-05-quickmask_toggle.html#%EA%B7%B8%EB%A6%BC-9055a102-5%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD)
-[![그림 90.5.5.a102. (5)퀵마스크 토글 버튼의 위치 (단일창)](https://github.com/wonder13662/gimp/assets/15767104/64879a12-f3e5-47ad-94da-f47653824bc6)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-05-quickmask_toggle.html#%EA%B7%B8%EB%A6%BC-9055a102-5%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD)
+<a id="90-05-05-a102"></a>
 
-#### [영상 90.5.5.a111. 퀵 마스크 토글하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-05-quickmask_toggle.html#%EC%98%81%EC%83%81-9055a111-%ED%80%B5-%EB%A7%88%EC%8A%A4%ED%81%AC-%ED%86%A0%EA%B8%80%ED%95%98%EA%B8%B0)
+#### [그림 90.5.5.a102. (5)퀵마스크 토글 버튼의 위치 (단일창)](./90-05-05-quickmask_toggle.md#90-05-05-a101)
+![90-05-05-a101](https://github.com/wonder13662/gimp/assets/15767104/64879a12-f3e5-47ad-94da-f47653824bc6)
+
+<a id="90-05-05-a111"></a>
+
+#### [영상 90.5.5.a111. 퀵 마스크 토글하기](./90-05-05-quickmask_toggle.md#90-05-05-a111)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/74f2db78-a06e-48d8-bcc7-7c99e3d57180"></video>
 
 [이미지 메뉴 바(Image Menu Bar)](./03-02-02-02-image-menu.md)의 `선택` → `퀵마스크 전환` 또는 단축키 Shift(⇧) + Q를 눌러 퀵마스크 모드와 선택 외곽선(행진하는 개미) 모드로 전환할 수 있습니다.
@@ -80,7 +84,9 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 ## 퀵 마스크의 선택영역을 잘라내고 붙이기
 퀵마스크 모드에서 잘라내고 붙이기는 이미지가 아닌 선택 영역에 대해 적용됩니다. 때로는 이 방법을 사용해서 이미지의 선택을 다른 이미지로 가져갈 수 있습니다.
 
-#### [영상 90.5.5.a131. 퀵마스크 선택영역 복사해서 다른 이미지로 옮기기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-05-quickmask_toggle.html#%EC%98%81%EC%83%81-9055a131-%ED%80%B5%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%84%A0%ED%83%9D%EC%98%81%EC%97%AD-%EB%B3%B5%EC%82%AC%ED%95%B4%EC%84%9C-%EB%8B%A4%EB%A5%B8-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EC%98%AE%EA%B8%B0%EA%B8%B0)
+<a id="90-05-05-a131"></a>
+
+#### [영상 90.5.5.a131. 퀵마스크 선택영역 복사해서 다른 이미지로 옮기기](./90-05-05-quickmask_toggle.md#90-05-05-a131)
 <video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/b483961a-5697-4257-8424-1f235d7ec9ba"></video>
 
 ## 추가 정보: 선택영역 마스크

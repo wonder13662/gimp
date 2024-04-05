@@ -10,8 +10,10 @@
 
 `HEIF` 이미지는 같은 크기의 `JPEG` 이미지에 비해 두배의 정보를 저장할 수 있어 더 나은 이미지 품질을 보여줍니다. 2024년 2월 시점으로 웹브라우저 중 Safari 17.0 버전 이상만 `HEIF`을 지원하고 있습니다. [Can I use에서 `HEIF` 지원 브라우저 현황 확인](https://caniuse.com/heif)
 
-#### [그림 90.99.a131. `HEIF` 지원 브라우저 현황 - Can I use](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a131-heif-%EC%A7%80%EC%9B%90-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%ED%98%84%ED%99%A9---can-i-use)
-[![HEIC_browser_support_2024_02_15](https://github.com/wonder13662/gimp/assets/15767104/ba2f517a-b807-4df4-a98d-599657e45216)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a131-heif-%EC%A7%80%EC%9B%90-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%ED%98%84%ED%99%A9---can-i-use)
+<a id="90-99-a131"></a>
+
+#### [그림 90.99.a131. `HEIF` 지원 브라우저 현황 - Can I use](./90-99-etc.md#90-99-a131)
+![90-99-a131](https://github.com/wonder13662/gimp/assets/15767104/ba2f517a-b807-4df4-a98d-599657e45216)
 
 더 자세한 정보는 [위키피디아](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format)에서 확인할 수 있습니다.
 

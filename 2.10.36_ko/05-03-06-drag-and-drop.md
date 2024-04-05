@@ -3,13 +3,17 @@ Drag and drop a file onto the GIMP Toolbox to open the file. Drag an image into 
 ## 끌어놓기로 새로운 이미지 열기
 이미지 파일을 끌어놓기(드래그 앤 드랍)로 GIMP(김프)의 도구상자 위에 놓으면 이미지 파일을 열 수 있습니다. GIMP(김프) 안에 열린 이미지가 없는 경우에는 GIMP(김프)의 안쪽에만 놓아도 이미지 파일이 열립니다.
 
-#### [영상 90.99.a121. 끌어놓기 - 새로운 파일 열기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EC%98%81%EC%83%81-9099a121-%EB%81%8C%EC%96%B4%EB%86%93%EA%B8%B0---%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%8C%EC%9D%BC-%EC%97%B4%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-99-a121"></a>
+
+#### [영상 90.99.a121. 끌어놓기 - 새로운 파일 열기 (Windows) (우리말)](./90-99-etc.md#90-99-a121)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/add99d3a-6fff-4753-9397-ea5ccdce793a"></video>
 
 ## 끌어놓기로 열린 이미지에 레이어로 추가하기
 열린 이미지 위에 다른 이미지 파일을 끌어놓으면 새로운 레이어 또는 레이어 묶음으로 추가됩니다.
 
-#### [영상 90.99.a122. 끌어놓기 - 열린 이미지에 레이어로 추가하기 (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EC%98%81%EC%83%81-9099a122-%EB%81%8C%EC%96%B4%EB%86%93%EA%B8%B0---%EC%97%B4%EB%A6%B0-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A1%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-99-a122"></a>
+
+#### [영상 90.99.a122. 끌어놓기 - 열린 이미지에 레이어로 추가하기 (Windows) (우리말)](./90-99-etc.md#90-99-a122)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1085f5f4-e52c-4ee4-a84b-d4a8fe111904"></video>
 
 ## 끌어놓기로 다른 어플리케이션의 이미지 열기(실패)
@@ -17,16 +21,24 @@ Drag and drop a file onto the GIMP Toolbox to open the file. Drag an image into 
 
 ⚠️ 주의: 실제 Windows와 Mac 환경에서 다른 어플리케이션에서 이미지를 끌어놓는 기능은 동작하지 않을 수 있습니다. Windows와 Mac의 Chrome, Firefox 브라우저에서의 이미지 끌어놓기 동작은 실패하는 것을 확인했습니다.
 
-#### [영상 90.99.a123. 끌어놓기 - 다른 어플리케이션에서 끌어놓기(Chrome)(실패) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EC%98%81%EC%83%81-9099a123-%EB%81%8C%EC%96%B4%EB%86%93%EA%B8%B0---%EB%8B%A4%EB%A5%B8-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%97%90%EC%84%9C-%EB%81%8C%EC%96%B4%EB%86%93%EA%B8%B0chrome%EC%8B%A4%ED%8C%A8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-99-a123"></a>
+
+#### [영상 90.99.a123. 끌어놓기 - 다른 어플리케이션에서 끌어놓기(Chrome)(실패) (Windows) (우리말)](./90-99-etc.md#90-99-a123)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6301f0f3-bfa1-4de9-9c77-3cf4764347ac"></video>
 
-#### [영상 90.99.a124. 끌어놓기 - 다른 어플리케이션에서 끌어놓기(Firefox)(실패) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EC%98%81%EC%83%81-9099a124-%EB%81%8C%EC%96%B4%EB%86%93%EA%B8%B0---%EB%8B%A4%EB%A5%B8-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%97%90%EC%84%9C-%EB%81%8C%EC%96%B4%EB%86%93%EA%B8%B0firefox%EC%8B%A4%ED%8C%A8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-99-a124"></a>
+
+#### [영상 90.99.a124. 끌어놓기 - 다른 어플리케이션에서 끌어놓기(Firefox)(실패) (Windows) (우리말)](./90-99-etc.md#90-99-a124)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cbce2e6e-f8a9-41dc-adce-cb85f12d65d0"></video>
 
-#### [영상 90.99.a125. 끌어놓기 - 다른 어플리케이션에서 끌어놓기(Chrome)(실패) (Mac) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EC%98%81%EC%83%81-9099a125-%EB%81%8C%EC%96%B4%EB%86%93%EA%B8%B0---%EB%8B%A4%EB%A5%B8-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%97%90%EC%84%9C-%EB%81%8C%EC%96%B4%EB%86%93%EA%B8%B0chrome%EC%8B%A4%ED%8C%A8-mac-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-99-a125"></a>
+
+#### [영상 90.99.a125. 끌어놓기 - 다른 어플리케이션에서 끌어놓기(Chrome)(실패) (Mac) (우리말)](./90-99-etc.md#90-99-a125)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9fedff1a-3111-4dd8-8065-dec64494258e"></video>
 
-#### [영상 90.99.a126. 끌어놓기 - 다른 어플리케이션에서 끌어놓기(Firefox)(실패) (Mac) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EC%98%81%EC%83%81-9099a126-%EB%81%8C%EC%96%B4%EB%86%93%EA%B8%B0---%EB%8B%A4%EB%A5%B8-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%97%90%EC%84%9C-%EB%81%8C%EC%96%B4%EB%86%93%EA%B8%B0firefox%EC%8B%A4%ED%8C%A8-mac-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-99-a126"></a>
+
+#### [영상 90.99.a126. 끌어놓기 - 다른 어플리케이션에서 끌어놓기(Firefox)(실패) (Mac) (우리말)](./90-99-etc.md#90-99-a126)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bebe060c-5d2e-4c12-bcb5-cd46bbd6e1e7"></video>
 
 ## 다른 페이지로 가기

@@ -6,8 +6,10 @@
 ## 1. 이미지 열기
 먼저 이미지를 엽니다. 여기서는 윌버 그림을 예제로 사용하였습니다.
 
-#### [그림 90.99.a141. 웹 이미지로 최적화하기 과정의 소스 이미지](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a141-%EC%9B%B9-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0-%EA%B3%BC%EC%A0%95%EC%9D%98-%EC%86%8C%EC%8A%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80)
-[![preparing_for_web1](https://github.com/wonder13662/gimp/assets/15767104/d0a43808-34bf-4fe1-a3ce-8f1d7260e6ab)](https://wonder13662.github.io/gimp/2.10.36_ko/90-99-etc.html#%EA%B7%B8%EB%A6%BC-9099a141-%EC%9B%B9-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0-%EA%B3%BC%EC%A0%95%EC%9D%98-%EC%86%8C%EC%8A%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80)
+<a id="90-99-a141"></a>
+
+#### [그림 90.99.a141. 웹 이미지로 최적화하기 과정의 소스 이미지](./90-99-etc.md#90-99-a141)
+![90-99-a141](https://github.com/wonder13662/gimp/assets/15767104/d0a43808-34bf-4fe1-a3ce-8f1d7260e6ab)
 
 ## 2. 이미지의 알파 채널 제거
 위 이미지는 [알파 채널](./19-glossaryx-alpha.md)이 추가된 RGB 모드(RGBA)로 되어 있습니다. 하지만 일반적으로 웹이미지에는 알파채널이 필요 없습니다. 따라서 배경으로 합치기를 통해 알파채널을 없애도 됩니다. 사진은 알파 채널을 갖는 경우가 드뭅니다. 그래서 이미지는 `RGBA` 모드보다 `RGB` 모드로 열립니다. 그러므로 알파 채널을 별도로 제거할 필요가 없습니다.

@@ -2,11 +2,15 @@
 
 김프의 사용자 인터페이스는 다음 두 가지 모드를 지원합니다.
 
-#### [그림 90.5.a321. 다중창 모드(multi-window mode)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a321-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9Cmulti-window-mode)
-[![multi-window-mode](https://github.com/wonder13662/gimp/assets/15767104/c253f6d6-0ad2-4791-bbd2-e60c2f0c0c69)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a321-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9Cmulti-window-mode)
+<a id="90-05-a321"></a>
 
-#### [그림 90.5.a322. 단일창 모드(single window mode)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a322-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
-[![single-window-mode](https://github.com/wonder13662/gimp/assets/15767104/39df1a43-0890-41ff-babd-d59c75196179)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a322-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9Csingle-window-mode)
+#### [그림 90.5.a321. 다중창 모드(multi-window mode)](./90-05-00-image_window.md#90-05-a321)
+![90-05-a321](https://github.com/wonder13662/gimp/assets/15767104/c253f6d6-0ad2-4791-bbd2-e60c2f0c0c69)
+
+<a id="90-05-a322"></a>
+
+#### [그림 90.5.a322. 단일창 모드(single window mode)](./90-05-00-image_window.md#90-05-a322)
+![90-05-a322](https://github.com/wonder13662/gimp/assets/15767104/39df1a43-0890-41ff-babd-d59c75196179)
 
 GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single window mode)로 열립니다. 다중창 모드(multi-window mode)를 활성화하기 위해서는 이미지 메뉴바의 `Windows` → `Single-Window Mode` 옵션을 끄면 됩니다. GIMP를 종료한 뒤에는, 다시 GIMP 시작할 때 마지막으로 선택한 옵션으로 적용됩니다.
 
@@ -15,9 +19,11 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 #### [그림 90.1.10.7.a101. `창(Windows)` - `단일창 모드(Single-Window Mode)`](./90-01-10-07-single_window_mode.md#90-01-10-07-a101)
 ![90-01-10-07-a101](https://github.com/wonder13662/gimp/assets/15767104/08f5fc97-386f-4c20-b602-715731c24987)
 
+<a id="90-05-a323"></a>
+
 ## 다중창 모드(multi-window mode)
-#### [그림 90.5.a323. 다중창 모드 스크린샷](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a323-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7)
-[![multiple-window](https://github.com/wonder13662/gimp/assets/15767104/7fa9ac60-26d8-4547-9b43-aa914e002e93)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a323-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7)
+#### [그림 90.5.a323. 다중창 모드 스크린샷](./90-05-00-image_window.md#90-05-a323)
+![90-05-a323](https://github.com/wonder13662/gimp/assets/15767104/7fa9ac60-26d8-4547-9b43-aa914e002e93)
 
 1. [도구 상자(Toolbox)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#1-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90toolbox)
 2. [도구 옵션(Tool Options)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#2-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options)
@@ -64,12 +70,18 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 
 ### 다중창 모드의 탭키
 다중창 모드에서는 상단 오른쪽, 왼쪽의 탭 키를 이용해 보여지는 대화창들을 선택할 수 있습니다.
-#### [영상 90.5.15.a101. 다중창 모드의 독의 탭 키로 대화창 선택](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-15-dock.html#%EC%98%81%EC%83%81-90515a101-%EB%8B%A4%EC%A4%91%EC%B0%BD-%EB%AA%A8%EB%93%9C%EC%9D%98-%EB%8F%85%EC%9D%98-%ED%83%AD-%ED%82%A4%EB%A1%9C-%EB%8C%80%ED%99%94%EC%B0%BD-%EC%84%A0%ED%83%9D)
+
+<a id="90-05-15-a101"></a>
+
+#### [영상 90.5.15.a101. 다중창 모드의 독의 탭 키로 대화창 선택](./90-05-15-dock.md#90-05-15-a101)
 <video controls="controls" width="394" src="https://github.com/wonder13662/gimp/assets/15767104/dc6bca6a-ac80-41a3-9d40-904cf22a563c"></video>
 
 ## 단일창 모드(single window mode)
-#### [그림 90.5.a324. 단일창 모드 스크린샷](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a324-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7)
-[![single-window](https://github.com/wonder13662/gimp/assets/15767104/fd9a7449-3d1b-4f4e-b166-c97fa84da161)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EA%B7%B8%EB%A6%BC-905a324-%EB%8B%A8%EC%9D%BC%EC%B0%BD-%EB%AA%A8%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7)
+
+<a id="90-05-a324"></a>
+
+#### [그림 90.5.a324. 단일창 모드 스크린샷](./90-05-00-image_window.md#90-05-a324)
+![90-05-a324](https://github.com/wonder13662/gimp/assets/15767104/fd9a7449-3d1b-4f4e-b166-c97fa84da161)
 
 다중창 모드와 같은 요소들을 포함하고 있지만, 사용법은 다소 다릅니다.
 
@@ -79,26 +91,38 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 ### 왼쪽, 오른쪽 판(Panel) 너비 수정하기
 왼쪽(1,2)과 오른쪽(4,5) 판(panel)의 너비는 마우스 커서가 각 판의 경계에 올라가 있을 경우 나타나는 이동 포인터(moving pointer)를 드래그해서 늘이거나 줄일 수 있습니다. 이동 포인터는 왼쪽 판의 오른쪽 경계, 오른쪽 판의 왼쪽 경계 위에 올라갈 경우 나타납니다. 각 판의 너비를 좁게 두고 싶다면, 도구 옵션의 아래의 스크롤바를 사용하면 됩니다.
 
-#### [영상 90.5.a323. 왼쪽 판(panel)의 너비를 조정하는 경우](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EC%98%81%EC%83%81-905a323-%EC%99%BC%EC%AA%BD-%ED%8C%90panel%EC%9D%98-%EB%84%88%EB%B9%84%EB%A5%BC-%EC%A1%B0%EC%A0%95%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
+<a id="90-05-a323"></a>
+
+#### [영상 90.5.a323. 왼쪽 판(panel)의 너비를 조정하는 경우](./90-05-00-image_window.md#90-05-a323)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/122a8fa7-0b37-4651-af7e-c5aea59ccb32"></video>
 
-#### [영상 90.5.a324. 오른쪽 판(panel)의 너비를 조정하는 경우](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-00-image_window.html#%EC%98%81%EC%83%81-905a324-%EC%98%A4%EB%A5%B8%EC%AA%BD-%ED%8C%90panel%EC%9D%98-%EB%84%88%EB%B9%84%EB%A5%BC-%EC%A1%B0%EC%A0%95%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
+<a id="90-05-a324"></a>
+
+#### [영상 90.5.a324. 오른쪽 판(panel)의 너비를 조정하는 경우](./90-05-00-image_window.md#90-05-a324)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/49be469f-50cb-47d0-9a91-6b0247b56ee5"></video>
 
 ### 이미지 창(Image window) 제어하기
 이미지는 왼쪽과 오른쪽 판(panel) 사이에 가득 차게 표시됩니다. 여러 개의 이미지가 열리면, 이미지 창 위에 모든 이미지의 탭이 보이는 새로운 바(bar)가 나타납니다.
 
-#### [영상 90.5.17.a101. 여러 개의 이미지를 여는 경우에 '이미지 탭 바'를 사용할 수 있습니다](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-17-image_tab_bar.html#%EC%98%81%EC%83%81-90517-%EC%97%AC%EB%9F%AC-%EA%B0%9C%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%97%AC%EB%8A%94-%EA%B2%BD%EC%9A%B0%EC%97%90-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD-%EB%B0%94%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
+<a id="90-05-17-a101"></a>
+
+#### [영상 90.5.17.a101. 여러 개의 이미지를 여는 경우에 '이미지 탭 바'를 사용할 수 있습니다](./90-05-17-image_tab_bar.md#90-05-17-a101)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7f7cff40-6263-4edb-a536-9d4fcfe022f8"></video>  
 
+<a id="90-05-17-a102"></a>
+
 ### 열어놓은 이미지 선택하기
-#### [영상 90.5.17.a102. '이미지 탭 바'의 '이미지 탭'을 클릭하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-17-image_tab_bar.html#%EC%98%81%EC%83%81-90517a102-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD-%EB%B0%94%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD%EC%9D%84-%ED%81%B4%EB%A6%AD%ED%95%98%EA%B8%B0)
+#### [영상 90.5.17.a102. '이미지 탭 바'의 '이미지 탭'을 클릭하기](./90-05-17-image_tab_bar.md#90-05-17-a102)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ee8e8031-edfb-4885-92ca-98f8fa72995f"></video>  
 
-#### [영상 90.5.17.a103. Ctrl(Windows, Mac) + `Page Up` 또는 Ctrl(Windows, Mac) + `Page Down` 으로 '이미지 탭' 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-17-image_tab_bar.html#%EC%98%81%EC%83%81-90517a103-ctrlwindows-mac--page-up-%EB%98%90%EB%8A%94-ctrlwindows-mac--page-down-%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+<a id="90-05-17-a103"></a>
+
+#### [영상 90.5.17.a103. Ctrl(Windows, Mac) + `Page Up` 또는 Ctrl(Windows, Mac) + `Page Down` 으로 '이미지 탭' 바꾸기](./90-05-17-image_tab_bar.md#90-05-17-a103)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ffd040b7-a63c-4db1-882d-a76a44d45d4a"></video>
 
-#### [영상 90.5.17.a104. Alt(Windows) + `숫자키` 또는 ⌥(Mac) + `숫자키`로 '이미지 탭' 바꾸기](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-17-image_tab_bar.html#%EC%98%81%EC%83%81-90517a104-altwindows--%EC%88%AB%EC%9E%90%ED%82%A4-%EB%98%90%EB%8A%94-mac--%EC%88%AB%EC%9E%90%ED%82%A4%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%AD-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+<a id="90-05-17-a104"></a>
+
+#### [영상 90.5.17.a104. Alt(Windows) + `숫자키` 또는 ⌥(Mac) + `숫자키`로 '이미지 탭' 바꾸기](./90-05-17-image_tab_bar.md#90-05-17-a104)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/262a1036-9dc3-4cb8-82f9-825383aec2b9"></video>
 
 ("숫자키"는 탭의 번호를 의미합니다. 1번부터 시작합니다) - 키보드 위쪽의 숫자키를 사용해야 합니다. 키보드 오른쪽의 키패드의 숫자키는 허용되지 않습니다.

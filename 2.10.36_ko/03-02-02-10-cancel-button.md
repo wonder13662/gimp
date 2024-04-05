@@ -1,17 +1,23 @@
 # 3.2.2.10. 취소 버튼 (Cancel Button)
 ## 3.2.2.10.1. 취소 버튼의 위치
 
-#### [그림 90.5.10.a101. (10)취소 버튼의 위치 (다중창)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-10-cancel_button.html#%EA%B7%B8%EB%A6%BC-90510a101-10%EC%B7%A8%EC%86%8C-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A4%EC%A4%91%EC%B0%BD)
-[![그림 90.5.10.a101. (10)취소 버튼의 위치 (다중창)](https://github.com/wonder13662/gimp/assets/15767104/04c8fab7-4f24-47a0-a0b1-614d032f61df)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-10-cancel_button.html#%EA%B7%B8%EB%A6%BC-90510a101-10%EC%B7%A8%EC%86%8C-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A4%EC%A4%91%EC%B0%BD)
+<a id="90-05-10-a101"></a>
 
-#### [그림 90.5.10.a102. (10)취소 버튼의 위치 (단일창)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-10-cancel_button.html#%EA%B7%B8%EB%A6%BC-90510a102-10%EC%B7%A8%EC%86%8C-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD)
-[![그림 90.5.10.a102. (10)취소 버튼의 위치 (단일창)](https://github.com/wonder13662/gimp/assets/15767104/014cd09d-1256-4661-ba38-84129c3ad9b9)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-10-cancel_button.html#%EA%B7%B8%EB%A6%BC-90510a102-10%EC%B7%A8%EC%86%8C-%EB%B2%84%ED%8A%BC%EC%9D%98-%EC%9C%84%EC%B9%98-%EB%8B%A8%EC%9D%BC%EC%B0%BD)
+#### [그림 90.5.10.a101. (10)취소 버튼의 위치 (다중창)](./90-05-10-cancel_button.md#90-05-10-a101)
+![90-05-10-a101](https://github.com/wonder13662/gimp/assets/15767104/04c8fab7-4f24-47a0-a0b1-614d032f61df)
+
+<a id="90-05-10-a102"></a>
+
+#### [그림 90.5.10.a102. (10)취소 버튼의 위치 (단일창)](./90-05-10-cancel_button.md#90-05-10-a102)
+![90-05-10-a102](https://github.com/wonder13662/gimp/assets/15767104/014cd09d-1256-4661-ba38-84129c3ad9b9)
 
 ## 3.2.2.10.2. 취소 버튼의 역할
 플러그인 사용과 같이 복잡하고 시간이 걸리는 작업을 하는 경우, 이미지 창(Image Window)의 오른쪽 하단에 취소 버튼이 표시됩니다. 이 취소 버튼을 눌러 작업을 취소할 수 있습니다.
 
-#### [그림 90.5.10.a111. 실제 작업에서 보여지는 취소버튼 모양](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-10-cancel_button.html#%EA%B7%B8%EB%A6%BC-90510a111-%EC%8B%A4%EC%A0%9C-%EC%9E%91%EC%97%85%EC%97%90%EC%84%9C-%EB%B3%B4%EC%97%AC%EC%A7%80%EB%8A%94-%EC%B7%A8%EC%86%8C%EB%B2%84%ED%8A%BC-%EB%AA%A8%EC%96%91)
-[![그림 90.5.10.a111. 실제 작업에서 보여지는 취소버튼 모양](https://github.com/wonder13662/gimp/assets/15767104/e6344f0c-64a7-4816-8cbb-6e10adc80e62)](https://wonder13662.github.io/gimp/2.10.36_ko/90-05-10-cancel_button.html#%EA%B7%B8%EB%A6%BC-90510a111-%EC%8B%A4%EC%A0%9C-%EC%9E%91%EC%97%85%EC%97%90%EC%84%9C-%EB%B3%B4%EC%97%AC%EC%A7%80%EB%8A%94-%EC%B7%A8%EC%86%8C%EB%B2%84%ED%8A%BC-%EB%AA%A8%EC%96%91)
+<a id="90-05-10-a111"></a>
+
+#### [그림 90.5.10.a111. 실제 작업에서 보여지는 취소버튼 모양](./90-05-10-cancel_button.md#90-05-10-a111)
+![90-05-10-a111](https://github.com/wonder13662/gimp/assets/15767104/e6344f0c-64a7-4816-8cbb-6e10adc80e62)
 
 > 🗒️ 참고
 >

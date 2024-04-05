@@ -21,20 +21,26 @@
 
 `RGB` 이미지는 3개의 컬러 채널을 가지고 있습니다. `RGB` 이미지는 3개의 컬러 채널(Red(빨강), Green(초록), Blue(파랑))을 포개어 놓은 것으로 생각할 수 있습니다. 
 
-#### [그림 90.90.1.a111. Color Channel: RGB](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a111-color-channel-rgb)
-[![wilber-channel-rgb](https://github.com/wonder13662/gimp/assets/15767104/02f98ed9-ad8e-4901-8707-03b02d1cc976)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a111-color-channel-rgb)
+<a id="90-90-01-a111"></a>
+
+#### [그림 90.90.1.a111. Color Channel: RGB](./90-90-01-color_model.md#90-90-01-a111)
+![90-90-01-a111](https://github.com/wonder13662/gimp/assets/15767104/02f98ed9-ad8e-4901-8707-03b02d1cc976)
 
 `RGB` 컬러 모델에서는 빨강, 초록, 파랑을 모두 합치면 흰색이 됩니다. 이 방식은 실제로 모니터에서 색을 조합하는 방식(가산 혼합 - addictive)입니다.
 
-#### [그림 90.90.1.a101. Color Model: RGB](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a101-color-model-rgb)
-[![color-model-additive](https://github.com/wonder13662/gimp/assets/15767104/20ee4023-afb8-4233-8d2b-70c46d5924c8)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a101-color-model-rgb)
+<a id="90-90-01-a101"></a>
+
+#### [그림 90.90.1.a101. Color Model: RGB](./90-90-01-color_model.md#90-90-01-a101)
+![90-90-01-a101](https://github.com/wonder13662/gimp/assets/15767104/20ee4023-afb8-4233-8d2b-70c46d5924c8)
 
 ### 그레이스케일(grayscale)
 
 `그레이스케일(grayscale)` 이미지는 각 점이 0(검정)에서 255(흰색)까지의 밝기(brightness) 값을 가지는 여러가지 회색들로 표현됩니다. 개념적으로 `그레이스케일(grayscale)` 이미지와 `RGB` 이미지 사이의 차이는 컬러 채널의 갯수의 차이입니다. `그레이스케일(grayscale)` 이미지는 밝기(brightness)에 관한 1개의 컬러 채널을 가지고 있습니다.
 
-#### [그림 90.90.1.a112. Color Channel: Grayscale](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a112-color-channel-grayscale)
-[![wilber-channel-gray](https://github.com/wonder13662/gimp/assets/15767104/17dfeee9-0dc1-4bd9-850d-814be3ced385)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a112-color-channel-grayscale)
+<a id="90-90-01-a112"></a>
+
+#### [그림 90.90.1.a112. Color Channel: Grayscale](./90-90-01-color_model.md#90-90-01-a112)
+![90-90-01-a112](https://github.com/wonder13662/gimp/assets/15767104/17dfeee9-0dc1-4bd9-850d-814be3ced385)
 
 ### 인덱스(indexed)
 
@@ -46,8 +52,10 @@ GIMP(김프)에서 파일을 열 때, 자주 사용되는 파일 형식([GIF](./
 
 `CMY(K)` 컬러 모델에서는 사이언(Cyan), 마젠다(Magenta), 노랑(Yellow)를 합치면 검정이 됩니다. 이 방식은 실제로 인쇄할 때의 방식(감산 혼합 - subtractive)입니다. 인쇄기는 실제로도 사이언(Cyan), 마젠다(Magenta), 노랑(Yellow) 카트리지의 색상을 합치지 않고 단 하나의 검은색 카트리지를 사용해 인쇄를 합니다. 이는 색상을 적게 사용하는 경제적인 이유도 있고, 더 나은 색상을 보여주는 결과를 가져옵니다. 단, GIMP(김프) 2.10.36 버전에서는 `CMY(K)`로 변환은 기본적으로 지원하지 않습니다. 이를 위해서는 추가적인 플러그인 설치가 필요합니다. (TODO GIMP 3 버전 이상부터는 해당 기능을 지원하므로 관련 내용을 추가해야 합니다.)
 
-#### [그림 90.90.1.a102. Color Model: CMY](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a102-color-model-cmy)
-[![color-model-subtractive](https://github.com/wonder13662/gimp/assets/15767104/e101bf1e-8f07-463f-9bc2-2113927937c2)](https://wonder13662.github.io/gimp/2.10.36_ko/90-90-01-color_model.html#%EA%B7%B8%EB%A6%BC-90901a102-color-model-cmy)
+<a id="90-90-01-a102"></a>
+
+#### [그림 90.90.1.a102. Color Model: CMY](./90-90-01-color_model.md#90-90-01-a102)
+![90-90-01-a102](https://github.com/wonder13662/gimp/assets/15767104/e101bf1e-8f07-463f-9bc2-2113927937c2)
 
 ## 알파 채널
 
