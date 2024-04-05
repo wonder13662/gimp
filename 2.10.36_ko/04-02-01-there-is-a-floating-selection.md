@@ -17,7 +17,7 @@
 #### [그림 90.4.3.3.a11. 레이어 대화상자 - 떠있는 선택 (Windows)](./90-04-03-03-floating_selection.md#90-04-03-03-a11)
 ![90-04-03-layers(windows)-floating_layer-focus-floating_layer(50%)](https://github.com/wonder13662/gimp/assets/15767104/833cda8e-50c1-4176-a614-6f6be559a5f3)
 
-[다른 운영체제와 언어의 '떠있는 선택' 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-04-03-layers.html#%EA%B7%B8%EB%A6%BC-9043a101-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90---%EB%96%A0%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D-windows)
+[다른 운영체제와 언어의 '떠있는 선택' 확인하기](./90-04-03-03-floating_selection.md#90-04-03-03-a21)
 
 아래와 같은 방법으로 떠있는 레이어를 만들 수 있습니다.
 

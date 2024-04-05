@@ -1,8 +1,11 @@
 # 3.4.9. 이미지 회전하기
-#### [그림 90.1.5.5.a101. `이미지` → `변형` → `이미지 회전하기` (Windows)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-05-imagex-05-transform.html#%EA%B7%B8%EB%A6%BC-90155a101-%EC%9D%B4%EB%AF%B8%EC%A7%80--%EB%B3%80%ED%98%95--%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0-windows)
-[![그림 90.1.5.5.a101. `이미지` → `변형` → `이미지 회전하기` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/a8b8f281-73f2-4d8d-94ab-6ee42e0dc2c3)](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-05-imagex-05-transform.html#%EA%B7%B8%EB%A6%BC-90155a101-%EC%9D%B4%EB%AF%B8%EC%A7%80--%EB%B3%80%ED%98%95--%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0-windows)
 
-[다른 운영체제와 언어의 `이미지` → `변형` → `이미지 회전하기` 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-05-imagex-05-transform.html#%EA%B7%B8%EB%A6%BC-90155a101-%EC%9D%B4%EB%AF%B8%EC%A7%80--%EB%B3%80%ED%98%95--%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0-windows)
+<a id="90-01-05-05-a101"></a>
+
+#### [그림 90.1.5.5.a101. `이미지` → `변형` → `이미지 회전하기` (Windows)](./90-01-05-05-00-transform.md#90-01-05-05-a101)
+![90-01-05-05-a101](https://github.com/wonder13662/gimp/assets/15767104/a8b8f281-73f2-4d8d-94ab-6ee42e0dc2c3)
+
+[다른 운영체제와 언어의 `이미지` → `변형` → `이미지 회전하기` 확인하기](./90-01-05-05-00-transform.md#90-01-05-05-a102)
 
 [이미지 메뉴 바(Image Menu Bar)](./03-02-02-02-image-menu.md)에서 `이미지(Image)` → `변형(Transform)` → `시계 방향으로 90도 회전(Rotate 90° clockwise)`을 선택하여 이미지를 회전시킬 수 있습니다.
 

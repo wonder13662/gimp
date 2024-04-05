@@ -109,7 +109,7 @@
 #### 그림 7.8.2.2.a120. 이미지 위의 칠한 자국
 ![07-08-02-02-gih_painting(windows)(ko)-trimmed-focus-fisrt_mark](https://github.com/wonder13662/gimp/assets/15767104/cc2e4c16-3ad3-4e68-b493-09232ea4a7c7)
 
-[그림 7.8.2.2.a119. .gih 형식으로 내보내기의 설정값](https://wonder13662.github.io/gimp/2.10.36_ko/07-08-the-gih-dialog-boxx-02-examplex-02-three_dimension_image_hose.html#%EA%B7%B8%EB%A6%BC-7822a119-gih-%ED%98%95%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0%EC%9D%98-%EC%84%A4%EC%A0%95%EA%B0%92)에서 모두 3개의 차원을 설정하였습니다.
+[그림 7.8.2.2.a119. `.gih` 형식으로 내보내기의 설정값](./07-08-02-02-three_dimension_image_hose.md#07-08-02-02-a119)에서 모두 3개의 차원을 설정하였습니다.
 
 #### 그림 7.8.2.2.a121. `.gih`의 레이어에서 붓 모양 선택 흐름
 ![07-08-02-02-animated_brush-cell_select_phase](https://github.com/wonder13662/gimp/assets/15767104/f9be4db2-b738-4743-82a8-042b0a44bbab)
@@ -167,6 +167,8 @@ GIMP(김프)에서 이 배열을 어떻게 읽을까요? GIMP(김프)는 첫번�
 |첫번째 차원|4열, 선택: "각도(Angular)"|
 |두번째 차원|2열, 선택: "증분(Incremental)"|
 |세번째 차원|2열, 선택: "무작위(Random)"|
+
+<a id="07-08-02-02-a119"></a>
 
 #### 그림 7.8.2.2.a119. `.gih` 형식으로 내보내기의 설정값
 ![07-08-02-02-dialog-export_image_as_brush_pipe-three_dimension(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/af66c68a-0062-4742-b528-7034ac42f60f)

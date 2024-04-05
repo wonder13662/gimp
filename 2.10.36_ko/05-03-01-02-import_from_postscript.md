@@ -18,7 +18,7 @@
 
 ## 색상화(Coloring)
 ### 검정/흰색(B/W)
-검정과 흰색으로 2가지 색상의 인덱스 이미지로 만듭니다. [5.1. 이미지 타입 - 인덱스(indexed)](https://wonder13662.github.io/gimp/2.10.36_ko/05-01-image-types.html#%EC%9D%B8%EB%8D%B1%EC%8A%A4indexed)에서 상세한 설명을 확인할 수 있습니다.
+검정과 흰색으로 2가지 색상의 인덱스 이미지로 만듭니다. [5.1. 이미지 타입 - 인덱스(indexed)](./05-01-image-types.md#05-01-s3)에서 상세한 설명을 확인할 수 있습니다.
 
 <a id="90-04-39-a121"></a>
 
@@ -26,7 +26,7 @@
 ![90-04-39-a121](https://github.com/wonder13662/gimp/assets/15767104/0f22a599-7bf5-4618-8f10-b22f07d63875)
 
 ### 회색(Gray)
-`그레이스케일(grayscale)` 이미지의 회색입니다. [5.1. 이미지 타입 - 그레이스케일(grayscale)](https://wonder13662.github.io/gimp/2.10.36_ko/05-01-image-types.html#%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%BCgrayscale)에서 상세한 설명을 확인할 수 있습니다.
+`그레이스케일(grayscale)` 이미지의 회색입니다. [5.1. 이미지 타입 - 그레이스케일(grayscale)](./05-01-image-types.md#05-01-s2)에서 상세한 설명을 확인할 수 있습니다.
 
 <a id="90-04-39-a122"></a>
 
@@ -34,7 +34,7 @@
 ![90-04-39-a122](https://github.com/wonder13662/gimp/assets/15767104/aa033cfe-0363-439c-a8ab-c6537f685e9c)
 
 ### 색상(Color)
-`색상(Color)`을 선택하면 RGB 이미지를 사용합니다. [5.1. 이미지 타입 - RGB](https://wonder13662.github.io/gimp/2.10.36_ko/05-01-image-types.html#rgb)에서 상세한 설명을 확인할 수 있습니다.
+`색상(Color)`을 선택하면 RGB 이미지를 사용합니다. [5.1. 이미지 타입 - RGB](./05-01-image-types.md#05-01-s1)에서 상세한 설명을 확인할 수 있습니다.
 
 <a id="90-04-39-a123"></a>
 

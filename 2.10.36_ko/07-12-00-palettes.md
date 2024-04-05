@@ -70,10 +70,12 @@ Ctrl(⌘) 키를 누른 채로 [`팔레트 편집기`](./15-03-06-04-palette_edi
 ## 5. 팔레트 파일이 저장되는 위치
 [`팔레트 편집기`](./15-03-06-04-palette_editor.md)로 새로운 팔레트를 만들면, GIMP(김프)를 종료하자마자 사용자의 GIMP(김프)의 팔레트 폴더에 자동으로 저장됩니다. 이 폴더에 있는 팔레트 파일이라면 GIMP(김프)를 시작할 때 팔레트 대화상자에 로드됩니다. `기본 설정` → `폴더` → `팔레트`에서 팔레트 파일을 불러올 수 있는 폴더를 추가할 수 있습니다.
 
-#### [그림 90.2.9.4.a1. `기본 설정` → `폴더` → `팔레트` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-04-palettes.html#%EA%B7%B8%EB%A6%BC-90294a1-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%ED%8C%94%EB%A0%88%ED%8A%B8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-02-09-04-preference-folders-palettes(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/83e174ab-9286-40de-b1a7-8fafdfa2e8c1)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-04-palettes.html#%EA%B7%B8%EB%A6%BC-90294a1-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%ED%8C%94%EB%A0%88%ED%8A%B8-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-02-09-04-a1"></a>
 
-[다른 운영체제와 언어의 `기본 설정` → `폴더` → `팔레트` 확인하기](./90-02-09-04-palettes.md)
+#### [그림 90.2.9.4.a1. `기본 설정` → `폴더` → `팔레트` (Windows) (우리말)](./90-02-09-04-palettes.md#90-02-09-04-a1)
+![90-02-09-04-a1](https://github.com/wonder13662/gimp/assets/15767104/83e174ab-9286-40de-b1a7-8fafdfa2e8c1)
+
+[다른 운영체제와 언어의 `기본 설정` → `폴더` → `팔레트` 확인하기](./90-02-09-04-palettes.md#90-02-09-04-a2)
 
 ## 6. 팔레트 파일 확장자 - `.gpl`
 GIMP(김프)의 팔레트 파일은 [`.gpl`](./19-glossaryx-gpl.md)이라는 확장자를 가집니다. `.gpl` 파일은 ASCII 형식의 매우 단순한 파일입니다. 다른 출처의 `.gpl` 파일을 받았다면, GIMP(김프)에서 쓸 수 있도록 바꾸는 것은 그리 어렵지 않습니다. `.gpl` 파일을 열어 직접 확인해보세요. 예제로 기본 설치되어 있는 팔레트인 `Blues.gpl`의 앞부분 내용을 보면 아래와 같습니다.

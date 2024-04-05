@@ -131,7 +131,9 @@
 #### [그림 90.3.2.26.a2. 도구상자 - 잉크](./90-03-02-26-ink.md#90-03-02-26-a2)
 ![90-03-02-26-a2](https://github.com/wonder13662/gimp/assets/15767104/7cf5d992-ae21-45d0-88c5-fa9a5cccf23c)
 
-#### [영상 90.3.2.26.a101. 잉크(Ink)의 직선그리기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-26-ink.html#%EC%98%81%EC%83%81-903226a101-%EC%9E%89%ED%81%ACink%EC%9D%98-%EC%A7%81%EC%84%A0%EA%B7%B8%EB%A6%AC%EA%B8%B0)
+<a id="90-03-02-26-a101"></a>
+
+#### [영상 90.3.2.26.a101. 잉크(Ink)의 직선그리기](./90-03-02-26-ink.md#90-03-02-26-a101)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c51b0ee6-da41-4c09-9771-af91e685fccd"></video>
 
 <a id="90-01-08-02-08-a101"></a>
@@ -201,7 +203,9 @@
 #### [그림 90.3.2.31.a2. 도구상자 - 복원](./90-03-02-31-healing.md#90-03-02-31-a2)
 ![90-03-02-31-a2](https://github.com/wonder13662/gimp/assets/15767104/b9fafcea-e1e4-4534-b7e6-cd7eeb0617b0)
 
-#### [영상 90.3.2.31.a101. 복원(Heal)의 직선그리기](https://wonder13662.github.io/gimp/2.10.36_ko/90-03-02-tool_iconx-31-healing.html#%EC%98%81%EC%83%81-903231a101-%EB%B3%B5%EC%9B%90heal%EC%9D%98-%EC%A7%81%EC%84%A0%EA%B7%B8%EB%A6%AC%EA%B8%B0)
+<a id="90-03-02-31-a101"></a>
+
+#### [영상 90.3.2.31.a101. 복원(Heal)의 직선그리기](./90-03-02-31-healing.md#90-03-02-31-a101)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b74e842f-c696-4453-97b6-db95884b4e3c"></video>
 
 <a id="90-01-08-02-13-a101"></a>

@@ -242,10 +242,13 @@ X-윈도우 스타일을 사용합니다(Microsoft Windows에서는 사용불가
 ### `--show-playground`
 [기본 설정(preference page)](./12-01-06-experimental-playground.md)의 실험적 기능(experimental features) 항목을 보여줍니다.
 
-#### 그림 2.1.3.a20. 기본 설정(preference page)의 실험적 기능(experimental features) 항목 비교
-<img width="720" alt="--show-playground" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0c9bd441-4cb1-4aac-80d9-3b387ab124cc">
+<a id="90-02-10-a101"></a>
+
+#### [그림 90.2.10.a101. 기본 설정(preference page)의 실험적 기능(experimental features) 항목 비교](./90-02-10-playground.md#90-02-10-a101)
+![90-02-10-a101](https://github.com/wonder13662/gimp/assets/15767104/0c9bd441-4cb1-4aac-80d9-3b387ab124cc)
 
 ## 다른 페이지로 가기
+
 [➡️ 다음: 2.2. 설정 폴더들](./02-02-configuration-folders.md)
 
 [⬅️ 이전: 1.2. GIMP(김프)의 새로운 기능 알아보기](./01-02-whats-new-in-gimp.md)

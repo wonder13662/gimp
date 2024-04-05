@@ -16,27 +16,27 @@
 
 <img width="720" alt="90.2.8.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/ab384a95-d23d-460a-830d-f5985b67d8e3">
 
-***
+<a id="90-02-08-a101"></a>
 
-## 기능이 쓰인 곳
+#### 90.2.8.a101. 마칠 때 장치 상태 저장(Save input device settings on exit) (Windows) (우리말)
+![90-02-08-a101](https://github.com/wonder13662/gimp/assets/15767104/6064a65a-bbfd-4df9-bcce-41d6ed2800cb)
 
-#### [그림 3.2.1.a601. 마칠 때 장치 상태 저장(Save input device settings on exit) (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EA%B7%B8%EB%A6%BC-321a601-%EB%A7%88%EC%B9%A0-%EB%95%8C-%EC%9E%A5%EC%B9%98-%EC%83%81%ED%83%9C-%EC%A0%80%EC%9E%A5save-input-device-settings-on-exit-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-<img width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6064a65a-bbfd-4df9-bcce-41d6ed2800cb">
+[3.2.1. 기본 도구 상자(The toolbox) - 90.2.8.a101](./03-02-01-the-toolbox.md#90-02-08-a101)
 
-#### [그림 3.2.1.a602. 마칠 때 장치 상태 저장(Save input device settings on exit) (Windows) (영어)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EA%B7%B8%EB%A6%BC-321a602-%EB%A7%88%EC%B9%A0-%EB%95%8C-%EC%9E%A5%EC%B9%98-%EC%83%81%ED%83%9C-%EC%A0%80%EC%9E%A5save-input-device-settings-on-exit-windows-%EC%98%81%EC%96%B4)
-<img width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cdfd294a-b430-45d8-827a-eb60cf32b039">
+<a id="90-02-08-a102"></a>
 
-#### [그림 3.2.1.a603. 마칠 때 장치 상태 저장(Save input device settings on exit) (Mac) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EA%B7%B8%EB%A6%BC-321a603-%EB%A7%88%EC%B9%A0-%EB%95%8C-%EC%9E%A5%EC%B9%98-%EC%83%81%ED%83%9C-%EC%A0%80%EC%9E%A5save-input-device-settings-on-exit-mac-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-<img width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eaf9ec2c-2a4c-4b7a-b24a-d859ab3d075c">
+#### 90.2.8.a102. 마칠 때 장치 상태 저장(Save input device settings on exit) (Windows) (영어)
+![90-02-08-a101](https://github.com/wonder13662/gimp/assets/15767104/cdfd294a-b430-45d8-827a-eb60cf32b039)
 
-#### [그림 3.2.1.a604. 마칠 때 장치 상태 저장(Save input device settings on exit) (Mac) (영어)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EA%B7%B8%EB%A6%BC-321a604-%EB%A7%88%EC%B9%A0-%EB%95%8C-%EC%9E%A5%EC%B9%98-%EC%83%81%ED%83%9C-%EC%A0%80%EC%9E%A5save-input-device-settings-on-exit-mac-%EC%98%81%EC%96%B4)
-<img width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3e11f4a5-69de-4904-83fd-4b72d2431ee4">
+<a id="90-02-08-a103"></a>
 
-***
+#### 90.2.8.a103. 마칠 때 장치 상태 저장(Save input device settings on exit) (Mac) (우리말)
+![90-02-08-a103](https://github.com/wonder13662/gimp/assets/15767104/eaf9ec2c-2a4c-4b7a-b24a-d859ab3d075c)
 
-## 관련 정보
+<a id="90-02-08-a104"></a>
 
-[3.2.1. 기본 도구 상자(The toolbox)](./03-02-01-the-toolbox.md)
+#### 90.2.8.a104. 마칠 때 장치 상태 저장(Save input device settings on exit) (Mac) (영어)
+![90-02-08-a103](https://github.com/wonder13662/gimp/assets/15767104/3e11f4a5-69de-4904-83fd-4b72d2431ee4)
 
 ***
 

@@ -13,6 +13,8 @@
 
 퀵마스크 팝업에서 퀵마스크의 속성을 변경할 수 있습니다.
 
+<a id="07-03-02-s1"></a>
+
 ## 퀵마스크 모드 전환
 
 <a id="90-05-05-a142"></a>
@@ -20,11 +22,16 @@
 #### [영상 90.5.5.a142. 퀵마스크 모드 전환하기](./90-05-05-quickmask_toggle.md#90-05-05-a142)
 <video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/cf060f8f-fd3b-493f-8346-be27b376f749"></video>
 
-<a id="90-05-05-a144"></a>
+<a id="07-03-02-s2"></a>
 
 ## 퀵마스크 마스크 적용 영역 전환하기
+
+<a id="90-05-05-a144"></a>
+
 #### [영상 90.5.5.a144. 퀵마스크 속성 팝업 - 마스크 전환하기](./90-05-05-quickmask_toggle.md#90-05-05-a144)
 <video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/6b63bcb2-cc5a-4179-a226-d78c58b060eb"></video>
+
+<a id="07-03-02-s3"></a>
 
 ## 퀵마스크의 색상과 투명도 변경하기
 

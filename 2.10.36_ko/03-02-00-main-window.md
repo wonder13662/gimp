@@ -25,15 +25,17 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 #### [그림 90.5.a323. 다중창 모드 스크린샷](./90-05-00-image_window.md#90-05-a323)
 ![90-05-a323](https://github.com/wonder13662/gimp/assets/15767104/7fa9ac60-26d8-4547-9b43-aa914e002e93)
 
-1. [도구 상자(Toolbox)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#1-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90toolbox)
-2. [도구 옵션(Tool Options)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#2-%EB%8F%84%EA%B5%AC-%EC%98%B5%EC%85%98tool-options)
-3. [이미지 창(Image Window)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#3-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BDimage-window)
-4. [붓(Brushes), 무늬(Patterns), 글꼴(Fonts), 문서 이력(Document History) 독](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#4-%EB%B6%93brushes-%EB%AC%B4%EB%8A%ACpatterns-%EA%B8%80%EA%BC%B4fonts-%EB%AC%B8%EC%84%9C-%EC%9D%B4%EB%A0%A5document-history-%EB%8F%85)
-5. [레이어(Layers), 채널(Channels), 패스(Paths)](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#5-%EB%A0%88%EC%9D%B4%EC%96%B4layers-%EC%B1%84%EB%84%90channels-%ED%8C%A8%EC%8A%A4paths)
+1. [도구 상자(Toolbox)](./03-02-00-main-window.md#03-02-00-s1)
+2. [도구 옵션(Tool Options)](./03-02-00-main-window.md#03-02-00-s2)
+3. [이미지 창(Image Window)](./03-02-00-main-window.md#03-02-00-s3)
+4. [붓(Brushes), 무늬(Patterns), 글꼴(Fonts), 문서 이력(Document History) 독](./03-02-00-main-window.md#03-02-00-s4)
+5. [레이어(Layers), 채널(Channels), 패스(Paths)](./03-02-00-main-window.md#03-02-00-s5)
 
 위의 스크린샷은 가장 기본적인 다중창 모드 배치입니다.
 
 왼쪽과 오른쪽에 2개의 패널이 각각 있습니다. 그리고 가운데에는 이미지 창(image window)가 있습니다. 두번째 이미지 창(image window)는 첫번째 이미지 창에 가려 일부분만 보입니다. 왼쪽 패널은 [도구 상자(Toolbox)](./12-01-13-toolbox.md), [도구 옵션(Tool Options)](./12-01-07-tool-options.md), [실행취소 이력 대화상자(Undo history dialog)](./15-02-07-undo-history-dialog.md), [장치 상태 대화상자(Device Status dialog)](./15-05-03-device-status-dialog.md) 그리고 [이미지 대화상자(Images dialogs)](./15-04-02-images-dialog.md)를 갖고 있습니다. 오른쪽 패널은 [붓 대화상자(Brushes dialog)](./15-03-02-brushes-dialog.md), [무늬 대화상자(Patterns dialog)](./15-03-04-patterns-dialog.md), [글꼴(Fonts)]() 그리고 [문서 이력 대화상자(Document Hisoty dialog)](./15-04-03-document-history-dialog.md)가 있는 다중 탭 독(multi-tab dock)과 [레이어 대화상자(Layers dialog)](./15-02-01-00-layers-dialog.md), [채널 대화상자(Channels dialog)](./15-02-02-00-channel-dialog.md) 그리고 [경로 대화상자(Paths dialog)](./15-02-03-paths-dialog.md)가 있는 또다른 다중 탭 독(multi-tab dock)을 가지고 있습니다.
+
+<a id="03-02-00-s1"></a>
 
 ### 1. 도구 상자(Toolbox)
 여러 가지 도구들을 선택할 수 있는 아이콘들이 모아져 있습니다. 그리고 전경색(Foreground color)/배경색(Background color)이 표시됩니다. [붓(Brushes)](./07-06-00-brushes.md), [무늬(Patterns)](./07-11-patterns.md), [그라디언트(Gradient)](./07-10-gradients.md), 현재 이미지의 아이콘 등을 추가할 수도 있습니다. `GIMP` → `기본 설정(Settings...)` → `인터페이스(Interface)` → `도구상자(Toolbox)` → `모양새(Appearance)`를 이용하여 추가로 표시할 수 있는 항목들을 표시하거나 숨길 수 있습니다.
@@ -50,8 +52,12 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 #### [영상 90.2.6.3.a205. 모양새(Appearance) 설정에 따라 도구 상자의 모양이 바뀝니다](./90-02-06-03-toolbox.md#90-02-06-03-a205)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
 
+<a id="03-02-00-s2"></a>
+
 ### 2. 도구 옵션(Tool Options)
 도구 옵션(Tool Options) 대화 상자는 도구 상자(Toolbox) 아래에 연결되어 있으며, 현재 선택된 도구의 옵션을 표시합니다(위의 스크린샷에는 이동 도구(Move Tool)의 옵션이 표시되고 있습니다).
+
+<a id="03-02-00-s3"></a>
 
 ### 3. 이미지 창(Image Window)
 GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다. 그리고 시스템 리소스가 허용하는 한 많은 이미지를 동시에 열 수 있습니다. GIMP를 이용하여 이미지를 편집하려면, 우선 이 이미지 창을 이용해 그림을 불러와야 합니다. 이미지 창의 한쪽 구석에는 메뉴 모음(파일, 편집, 선택 등...)이 있으며, 이 메뉴 모음은 마우스 버튼 우클릭으로도 사용할 수 있습니다.
@@ -60,8 +66,12 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 
 **참고**: (MacOS:Sonoma 14.2.1 GIMP 2.10.36)에서는 이미지 창안의 메뉴 모음이 없습니다.
 
+<a id="03-02-00-s4"></a>
+
 ### 4. 붓(Brushes), 무늬(Patterns), 글꼴(Fonts), 문서 이력(Document History) 독
 독(dock)안의 대화상자(dialog)들은 탭(tab)입니다. 이미지에는 붓(Brushes) 탭이 열려 있습니다. 칠하기 도구(Paint tools)에서 사용된 붓(brushes) 종류롤 보여줍니다.
+
+<a id="03-02-00-s5"></a>
 
 ### 5. 레이어(Layers), 채널(Channels), 패스(Paths)
 레이어(Layers), 채널(Channels) 그리고 경로(Paths)는 붓(Brushes) 대화상자 아래의 독(dock) 안의 대화상자에서 관리합니다. 이미지에서는 레이어 탭이 열려 있습니다. 레이어 탭은 레이어 구조에서 현재 활성화된 이미지를 보여주며, 다양한 방식으로 수정할 수 있도록 해줍니다. 레이어 대화상자를 사용하지 않고도 기본적인 것들을 하는 것은 가능합니다만, 어느정도 숙련된 GIMP 사용자들이라면 레이어 대화상자가 항상 필수적이라는 것을 알고 있습니다.

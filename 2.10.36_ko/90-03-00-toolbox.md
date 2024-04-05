@@ -1,32 +1,39 @@
 # 90.3. 도구상자(Toolbox)
 
+<a id="90-03-a1"></a>
+
 #### 그림 90.3.a1. 도구상자 - 도구상자 그룹의 사용 여부에 따른 차이
-<img width="1080" alt="그림 90.3.a1. 도구상자 - 도구상자 그룹의 사용 여부에 따른 차이" src="https://github.com/wonder13662/gimp/assets/15767104/e292b65b-23e4-4957-bded-138a364bac56">
+![90-03-a1](https://github.com/wonder13662/gimp/assets/15767104/e292b65b-23e4-4957-bded-138a364bac56)
 
-#### 그림 90.3.a2. 도구상자
-![toolbox](https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5)
+<a id="90-03-a101"></a>
 
-#### 그림 90.3.a101. 도구 상자의 아이콘의 작은 삼각형 확인하기
-<img width="231" alt="그림 4.3.3.a8. 도구 상자의 아이콘의 작은 삼각형 확인하기" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5599059d-e637-42d7-aa47-37a8d4e48e5d">
+#### 그림 90.3.a101. 도구 상자의 아이콘의 작은 삼각형 
+![90-03-a101](https://github.com/wonder13662/gimp/assets/15767104/5599059d-e637-42d7-aa47-37a8d4e48e5d)
 
-[4.3.3. 도구 아이콘이 사라졌습니다 - 그림 90.3.a101. 도구 상자의 아이콘의 작은 삼각형 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-03-some-of-the-tool-icons-are-missing.html#%EA%B7%B8%EB%A6%BC-903a101-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%98-%EC%9E%91%EC%9D%80-%EC%82%BC%EA%B0%81%ED%98%95-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+[4.3.3. 도구 아이콘이 사라졌습니다 - 그림 90.3.a101](./04-03-03-some-of-the-tool-icons-are-missing.md#90-03-a101)
+
+<a id="90-03-a102"></a>
 
 #### 영상 90.3.a102. 도구 상자의 아이콘의 작은 삼각형 확인하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/55e454c5-8d51-48dc-bfb6-4c27930d8848"></video>
 
-[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.3.a102. 도구 상자의 아이콘의 작은 삼각형 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-03-some-of-the-tool-icons-are-missing.html#%EC%98%81%EC%83%81-903a102-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%98-%EC%9E%91%EC%9D%80-%EC%82%BC%EA%B0%81%ED%98%95-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.3.a102](./04-03-03-some-of-the-tool-icons-are-missing.md#90-03-a102)
+
+<a id="90-03-a111"></a>
 
 #### 영상 90.3.a111. 그룹 아이콘 위에 마우스 커서를 올려 다른 아이콘 확인하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b8ea8940-8743-488e-a46f-b8158f8886d9"></video>
 
-[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.3.a111. 그룹 아이콘 위에 마우스 커서를 올려 다른 아이콘 확인하기](https://wonder13662.github.io/gimp/2.10.36_ko/04-03-03-some-of-the-tool-icons-are-missing.html#%EC%98%81%EC%83%81-903a111-%EA%B7%B8%EB%A3%B9-%EC%95%84%EC%9D%B4%EC%BD%98-%EC%9C%84%EC%97%90-%EB%A7%88%EC%9A%B0%EC%8A%A4-%EC%BB%A4%EC%84%9C%EB%A5%BC-%EC%98%AC%EB%A0%A4-%EB%8B%A4%EB%A5%B8-%EC%95%84%EC%9D%B4%EC%BD%98-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+[4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.3.a111](./04-03-03-some-of-the-tool-icons-are-missing.md#90-03-a111)
+
+<a id="90-03-a121"></a>
 
 #### 그림 90.3.a121. 붓 대화상자를 사용하는 도구상자 아이콘
-![toolbox-no_tool_group(ko)(windows)-highlight-painting_tool_with_brush](https://github.com/wonder13662/gimp/assets/15767104/3d227356-1a44-4a9b-95be-7912d864e348)
+![90-03-a121](https://github.com/wonder13662/gimp/assets/15767104/3d227356-1a44-4a9b-95be-7912d864e348)
 
-[7.6. 붓 - 그림 90.3.a121](https://wonder13662.github.io/gimp/2.10.36_ko/07-06-brushes.html#%EA%B7%B8%EB%A6%BC-903a121-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EC%95%84%EC%9D%B4%EC%BD%98)
+[7.6. 붓 - 그림 90.3.a121](./07-06-00-brushes.md#90-03-a121)
 
-[7.9.1. 붓 크기를 바꾸는 방법 - 그림 90.3.a121](https://wonder13662.github.io/gimp/2.10.36_ko/07-09-01-how-to-change-the-size-of-a-brush.html#%EA%B7%B8%EB%A6%BC-903a121-%EB%B6%93-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90-%EC%95%84%EC%9D%B4%EC%BD%98)
+[7.9.1. 붓 크기를 바꾸는 방법 - 그림 90.3.a121](./07-09-01-how-to-change-the-size-of-a-brush.md#90-03-a121)
 
 <a id="90-03-a131"></a>
 
@@ -36,6 +43,20 @@
 [3.2. GIMP(김프)의 주요 화면 - 그림 90.3.a131](03-02-00-main-window.md#90-03-a131)
 
 [3.2.1. 기본 도구 상자(The toolbox) - 그림 90.3.a131](03-02-01-the-toolbox.md#90-03-a131)
+
+<a id="90-03-a141"></a>
+
+#### 영상 90.3.a141. 마우스 커서를 올려놓으면 도구의 설명이 보입니다
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0022d833-4dab-4e04-a388-af9ef0011b1d"></video>
+
+[3.2.1. 기본 도구 상자(The toolbox) - 영상 90.3.a141](./03-02-01-the-toolbox.md#90-03-a141)
+
+<a id="90-03-a142"></a>
+
+#### 영상 90.3.a142. 마우스 커서를 올려놓고 F1 키를 눌러 사용자 매뉴얼 페이지로 이동하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/95fd3621-1b95-40a3-ae7b-669ecb1596bf"></video>
+
+[3.2.1. 기본 도구 상자(The toolbox) - 영상 90.3.a142](./03-02-01-the-toolbox.md#90-03-a142)
 
 ***
 
@@ -214,29 +235,6 @@
 (TODO 이미지 추가 필요)
 
 (TODO 도구 상자의 이미지가 수정되어야 합니다. 전경/배경색, 붓/무늬/그라디언트, 활성화 이미지가 함께 노출되어야 합니다.)
-
-***
-
-## 기능이 쓰인 곳
-#### [그림 3.2.6.](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-326)
-[<img width="203" alt="toolbox" src="https://github.com/wonder13662/gimp/assets/15767104/cd57acfd-21e1-494e-ab23-978bc54b0686">](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-326)
-
-#### [그림 3.4. 도구 상자의 모습](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EA%B7%B8%EB%A6%BC-34-%EB%8F%84%EA%B5%AC-%EC%83%81%EC%9E%90%EC%9D%98-%EB%AA%A8%EC%8A%B5)
-<img width="450" src="https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5">
-
-#### [영상 3.2.1.a201. 마우스 커서를 올려놓으면 도구의 설명이 보입니다](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EC%98%81%EC%83%81-321a201-%EB%A7%88%EC%9A%B0%EC%8A%A4-%EC%BB%A4%EC%84%9C%EB%A5%BC-%EC%98%AC%EB%A0%A4%EB%86%93%EC%9C%BC%EB%A9%B4-%EB%8F%84%EA%B5%AC%EC%9D%98-%EC%84%A4%EB%AA%85%EC%9D%B4-%EB%B3%B4%EC%9E%85%EB%8B%88%EB%8B%A4)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0022d833-4dab-4e04-a388-af9ef0011b1d"></video>
-
-#### [영상 3.2.1.a202. 마우스 커서를 올려놓고 F1 키를 눌러 사용자 매뉴얼 페이지로 이동하기](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-01-the-toolbox.html#%EC%98%81%EC%83%81-321a202-%EB%A7%88%EC%9A%B0%EC%8A%A4-%EC%BB%A4%EC%84%9C%EB%A5%BC-%EC%98%AC%EB%A0%A4%EB%86%93%EA%B3%A0-f1-%ED%82%A4%EB%A5%BC-%EB%88%8C%EB%9F%AC-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A7%A4%EB%89%B4%EC%96%BC-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A1%9C-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/95fd3621-1b95-40a3-ae7b-669ecb1596bf"></video>
-
-***
-
-## 관련 정보
-
-[3.2. GIMP(김프)의 주요 화면 - 그림 90.3.a2. 도구상자](https://wonder13662.github.io/gimp/2.10.36_ko/03-02-00-main-window.html#%EA%B7%B8%EB%A6%BC-903a2-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90)
-
-[3.2.1. 기본 도구 상자(The toolbox)](./03-02-01-the-toolbox.md)
 
 ***
 

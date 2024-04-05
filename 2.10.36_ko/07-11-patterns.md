@@ -31,8 +31,12 @@
 ## 3. 새로운 무늬 추가하기
 새로운 무늬를 추가시키려면 GIMP(김프)에서 사용 가능한 포맷으로 `기본 설정` → `폴더` → `무늬`에 등록된 폴더에 저장해야 합니다. 
 
-#### [그림 90.2.9.3.a1. `기본 설정` → `폴더` → `무늬` (Windows) (우리말)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-03-patterns.html#%EA%B7%B8%EB%A6%BC-90293a1-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EB%AC%B4%EB%8A%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
-[![90-02-09-03-pattern(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/0e3d37d3-dd90-4e03-9dbe-8122b2337f74)](https://wonder13662.github.io/gimp/2.10.36_ko/90-02-09-foldersx-03-patterns.html#%EA%B7%B8%EB%A6%BC-90293a1-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95--%ED%8F%B4%EB%8D%94--%EB%AC%B4%EB%8A%AC-windows-%EC%9A%B0%EB%A6%AC%EB%A7%90)
+<a id="90-02-09-03-a1"></a>
+
+#### [그림 90.2.9.3.a1. `기본 설정` → `폴더` → `무늬` (Windows) (우리말)](./90-02-09-03-patterns.md#90-02-09-03-a1)
+![90-02-09-03-a1](https://github.com/wonder13662/gimp/assets/15767104/0e3d37d3-dd90-4e03-9dbe-8122b2337f74)
+
+[다른 운영체제와 언어의 `기본 설정` → `폴더` → `무늬` 확인하기](./90-02-09-03-patterns.md#90-02-09-03-a2)
 
 이렇게 추가된 새 무늬는 무늬 대화상자에 표시됩니다. 다음은 무늬로 사용가능한 파일 포맷입니다.
 

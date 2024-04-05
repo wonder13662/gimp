@@ -5,21 +5,23 @@
 
 ## 바로가기
 
-[90.1. 이미지 메뉴 바(Image Menu Bar)](https://wonder13662.github.io/gimp/2.10.36_ko/90-00-image-map.html#901-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94image-menu-bar)
+[90.1. 이미지 메뉴 바(Image Menu Bar)](./90-00-image-map.md#90-00-s1)
 
-[90.2. 기본 설정(Preference)](https://wonder13662.github.io/gimp/2.10.36_ko/90-00-image-map.html#902-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95preference)
+[90.2. 기본 설정(Preference)](./90-00-image-map.md#90-00-s2)
 
-[90.3. 도구상자(Toolbox)](https://wonder13662.github.io/gimp/2.10.36_ko/90-00-image-map.html#903-%EB%8F%84%EA%B5%AC%EC%83%81%EC%9E%90toolbox)
+[90.3. 도구상자(Toolbox)](./90-00-image-map.md#90-00-s3)
 
-[90.4. 대화상자(Dialogs)](https://wonder13662.github.io/gimp/2.10.36_ko/90-00-image-map.html#904-%EB%8C%80%ED%99%94%EC%83%81%EC%9E%90dialogs)
+[90.4. 대화상자(Dialogs)](./90-00-image-map.md#90-00-s4)
 
-[90.5. 이미지 창(Image Window)](https://wonder13662.github.io/gimp/2.10.36_ko/90-00-image-map.html#905-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BDimage-window)
+[90.5. 이미지 창(Image Window)](./90-00-image-map.md#90-00-s5)
 
-[90.90. 개념(Concept)](https://wonder13662.github.io/gimp/2.10.36_ko/90-00-image-map.html#9090-%EA%B0%9C%EB%85%90concept)
+[90.90. 개념(Concept)](./90-00-image-map.md#90-00-s6)
 
-[90.99. 기타](https://wonder13662.github.io/gimp/2.10.36_ko/90-00-image-map.html#9099-%EA%B8%B0%ED%83%80)
+[90.99. 기타](./90-00-image-map.md#90-00-s7)
 
 ***
+
+<a id="90-00-s1"></a>
 
 ## [90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 #### 그림 90.1.a101. 이미지 메뉴 바 (Windows) (우리말)
@@ -769,6 +771,8 @@
 
 [90.1.11.2. 도움말(Help) - 사용자 설명서(User manual)](./90-01-11-02-user_manual.md)
 
+<a id="90-00-s3"></a>
+
 ## [90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 [<img width="1080" alt="90.2. 기본 설정(Preference)" src="https://github.com/wonder13662/gimp/assets/15767104/e20eb713-6ff2-4bc0-944b-cdb021e01974">](./90-02-00-preference.md)
 
@@ -845,6 +849,8 @@
 [90.2.9.15. 아이콘 테마(Icon Themes)](./90-02-09-15-icon_themes.md)
 
 [90.2.10. 실험 놀이터 (Experimental Playground)](./90-02-10-playground.md)
+
+<a id="90-00-s3"></a>
 
 ## [90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
 ![90-03-a131](https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5)
@@ -934,6 +940,8 @@
 [90.3.4. 붓(Brush)/무늬(Pattern)/그라디언트(Gradient)](./90-03-04-brush_n_pattern_n_gradient.md)
 
 [90.3.5. 활성화된 이미지(Active Image)](./90-03-05-active_image.md)
+
+<a id="90-00-s4"></a>
 
 ## [90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 [<img width="324" alt="90.4. 대화상자(Dialogs)" src="https://github.com/wonder13662/gimp/assets/15767104/1751c179-af5f-4b81-88f9-55b5b1d2c9f9">](./90-04-00-dialogs.md)
@@ -1298,6 +1306,8 @@
 
 [90.4.82. 가우시안 흐림처리(Gaussian Blur)](./90-04-82-gaussian_blur.md)
 
+<a id="90-00-s5"></a>
+
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
@@ -1334,9 +1344,13 @@
 
 [90.5.17. 이미지 탭 바 (Image Tab Bar)](./90-05-17-image_tab_bar.md)
 
+<a id="90-00-s6"></a>
+
 ## [90.90. 개념(Concept)](./90-90-00-concept.md)
 
 [90.90.1. 컬러 모델(Color Model)](./90-90-01-color_model.md)
+
+<a id="90-00-s7"></a>
 
 ## [90.99. 기타](./90-99-etc.md)
 

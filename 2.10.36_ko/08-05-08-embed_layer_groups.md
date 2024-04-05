@@ -22,7 +22,9 @@
 #### [그림 90.1.6.3.a101. 이미지 메뉴 바의 `레이어` → `새 레이어 그룹(New Layer Group)`](./90-01-06-03-new_layer_group.md#90-01-06-03-a101)
 ![90-01-06-layer(1080)-focus-new_layer_group](https://github.com/wonder13662/gimp/assets/15767104/b3eda053-5e55-418a-88c8-78df73aa47b4)
 
-#### [영상 90.1.6.3.a103. 이미지 메뉴 바의 `레이어` → `새 레이어 그룹(New Layer Group)`를 클릭해서 선택한 레이어 그룹 안에 레이어 그룹 추가](https://wonder13662.github.io/gimp/2.10.36_ko/90-01-06-layerx-03-new_layer_group.html#%EC%98%81%EC%83%81-90163a103-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A9%94%EB%89%B4-%EB%B0%94%EC%9D%98-%EB%A0%88%EC%9D%B4%EC%96%B4--%EC%83%88-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9new-layer-group%EB%A5%BC-%ED%81%B4%EB%A6%AD%ED%95%B4%EC%84%9C-%EC%84%A0%ED%83%9D%ED%95%9C-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%95%88%EC%97%90-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B7%B8%EB%A3%B9-%EC%B6%94%EA%B0%80)
+<a id="90-01-06-03-a103"></a>
+
+#### [영상 90.1.6.3.a103. 이미지 메뉴 바의 `레이어` → `새 레이어 그룹(New Layer Group)`를 클릭해서 선택한 레이어 그룹 안에 레이어 그룹 추가](./90-01-06-03-new_layer_group.md#90-01-06-03-a103)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/12793dbf-af25-42ee-a439-bb56408f8608"></video>
 
 ### 3. 레이어 대화상자의 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)`

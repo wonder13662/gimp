@@ -2,7 +2,7 @@
 #### 그림 8.2.3.2.a1. 휘도가 어두운 색만(Luma/Luminance darken only)
 ![layer_mode-darken-02-luma_darken_only](https://github.com/wonder13662/gimp/assets/15767104/b1c11680-b3b3-48fa-85e0-34f249abd281)
 
-`휘도가 어두운 색만(Luma/Luminance darken only)` 모드에서는 위쪽 레이어의 픽셀에 대응하는 아래쪽 레이어의 픽셀의 휘도(luminance)를 비교합니다. 그리고 휘도의 값이 더 적은 이미지의 픽셀을 선택합니다. 완전히 [하얀색의 레이어](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-03-darken-layer-modesx-02-luma_darken_onlyx-01-equation.html#4-%EB%84%A4%EB%B2%88%EC%A7%B8-%EC%98%88%EC%A0%9C---%EC%95%84%EB%9E%98%EC%AA%BD-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%ED%95%98%EC%96%80%EC%83%89)는 아무런 효과가 없습니다. 그리고 완전히 [검은색의 레이어](https://wonder13662.github.io/gimp/2.10.36_ko/08-02-03-darken-layer-modesx-02-luma_darken_onlyx-01-equation.html#3-%EC%84%B8%EB%B2%88%EC%A7%B8-%EC%98%88%EC%A0%9C---%EC%95%84%EB%9E%98%EC%AA%BD-%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%80-%EA%B2%80%EC%9D%80%EC%83%89)는 검은색의 이미지로 보입니다. `Luma`는 사람이 인식할 수 있는 범위 안에서의 휘도입니다.
+`휘도가 어두운 색만(Luma/Luminance darken only)` 모드에서는 위쪽 레이어의 픽셀에 대응하는 아래쪽 레이어의 픽셀의 휘도(luminance)를 비교합니다. 그리고 휘도의 값이 더 적은 이미지의 픽셀을 선택합니다. 완전히 [하얀색의 레이어](./08-02-03-02-01-equation.md#08-02-03-02-01-s4)는 아무런 효과가 없습니다. 그리고 완전히 [검은색의 레이어](./08-02-03-02-01-equation.md#08-02-03-02-01-s3)는 검은색의 이미지로 보입니다. `Luma`는 사람이 인식할 수 있는 범위 안에서의 휘도입니다.
 
 더 많은 사례를 확인하려면 [8.2.3.2.1. 휘도가 어두운 색만(Luma/Luminance darken only) 모드 방정식](./08-02-03-02-01-equation.md)를 참고해주세요.
 
