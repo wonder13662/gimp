@@ -6,14 +6,14 @@
 #### 그림 90.4.1.a1. 도구 옵션 대화상자
 ![90-04-01-a1](https://github.com/wonder13662/gimp/assets/15767104/71b968e1-ade9-44bb-a064-286b9fa9989b)
 
-[3.2. GIMP(김프)의 주요 화면 - 2. 도구 옵션(Tool Options)](./03-02-00-main-window.md#90-04-01-a1)
+[3.2. GIMP(김프)의 주요 화면 - 2. 도구 옵션(Tool Options) - 그림 90.4.1.a1](./03-02-00-main-window.md#90-04-01-a1)
 
 <a id="90-04-01-a101"></a>
 
 #### 영상 90.4.1.a101. '도구 옵션' 대화상자를 드래그해서 옮기기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4a654ab9-d649-477f-a106-694cc5f1f98d"></video>
 
-[4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 영상 90.4.1.a101. '도구 옵션' 대화상자를 드래그해서 옮기기](./04-03-02-tool-options-dialog-is-missing.md#90-04-01-a101)
+[4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 영상 90.4.1.a101](./04-03-02-tool-options-dialog-is-missing.md#90-04-01-a101)
 
 ***
 
