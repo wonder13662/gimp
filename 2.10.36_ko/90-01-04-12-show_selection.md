@@ -4,7 +4,7 @@
 <a id="90-01-04-12-a101"></a>
 
 #### 그림 90.1.4.12.a101. `보기`  →  `선택 영역 보이기`
-![그림 90.1.4.12.a101. `보기`  →  `선택 영역 보이기`](https://github.com/wonder13662/gimp/assets/15767104/bb794f64-e5fb-449c-85b2-1cddac0ea296)
+![90-01-04-12-a101](https://github.com/wonder13662/gimp/assets/15767104/bb794f64-e5fb-449c-85b2-1cddac0ea296)
 
 [4.2.2. 숨겨진 선택 - 그림 90.1.4.12.a101](./04-02-02-the-selection-is-hidden.md#90-01-04-12-a101)
 

@@ -3,7 +3,7 @@
 <a id="90-04-03-05-a1"></a>
 
 #### 그림 90.4.3.5.a1. 레이어의 숨김 상태
-![그림 4.4. 레이어의 숨김 상태](https://github.com/wonder13662/gimp/assets/15767104/5724d0c0-8444-4d84-a4b8-26dd4f15170c)
+![90-04-03-05-a1](https://github.com/wonder13662/gimp/assets/15767104/5724d0c0-8444-4d84-a4b8-26dd4f15170c)
 
 [4.2.4. 활성화된 drawable이 보이지 않는 경우 - 그림 90.4.3.5.a1](./04-02-04-the-active-drawable-is-not-visible.md#90-04-03-05-a1)
 
@@ -17,7 +17,7 @@
 <a id="90-04-03-05-a21"></a>
 
 #### 그림 90.4.3.5.a21. 가시성(Visibility) 심볼 토글하기
-![08-01-01-toggle_visibility_off(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/ab991f4a-988a-4729-8561-108d8e37572f)
+![90-04-03-05-a21](https://github.com/wonder13662/gimp/assets/15767104/ab991f4a-988a-4729-8561-108d8e37572f)
 
 [8.1.1. 레이어 속성 - 그림 90.4.3.5.a21](./08-01-01-layer_properties.md#90-04-03-05-a21)
 

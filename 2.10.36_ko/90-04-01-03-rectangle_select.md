@@ -3,7 +3,7 @@
 <a id="90-03-02-03-a1"></a>
 
 #### [그림 90.3.2.3.a1. 도구상자의 사각 선택의 도구옵션](./90-03-02-03-rectangle_select.md#90-03-02-03-a1)
-![그림 90.3.2.3.a1](https://github.com/wonder13662/gimp/assets/15767104/ea9abf7e-e1c4-4bcf-9109-57b8b1f3f97d)
+![90-03-02-03-a1](https://github.com/wonder13662/gimp/assets/15767104/ea9abf7e-e1c4-4bcf-9109-57b8b1f3f97d)
 
 <a id="90-04-01-03-a101"></a>
 
@@ -22,21 +22,21 @@
 <a id="90-04-01-03-a112"></a>
 
 #### 그림 90.4.1.3.a112. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택에 더하기(Add) 
-![90-04-01-03-mode-add(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/54d29b7a-1ee2-45dd-806e-13a43d7a14e8)
+![90-04-01-03-a112](https://github.com/wonder13662/gimp/assets/15767104/54d29b7a-1ee2-45dd-806e-13a43d7a14e8)
 
 [7.2.2. 선택 더하기/빼기 - 그림 90.4.1.3.a112](./07-02-02-adding-or-subtracting-selections.md#90-04-01-03-a112)
 
 <a id="90-04-01-03-a113"></a>
 
 #### 그림 90.4.1.3.a113. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택에 빼기(Subtract)
-![90-04-01-03-mode-subtract(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/e5f77996-607d-41c0-8c0e-ca66a0b106cf)
+![90-04-01-03-a113](https://github.com/wonder13662/gimp/assets/15767104/e5f77996-607d-41c0-8c0e-ca66a0b106cf)
 
 [7.2.2. 선택 더하기/빼기 - 그림 90.4.1.3.a113](./07-02-02-adding-or-subtracting-selections.md#90-04-01-03-a113)
 
 <a id="90-04-01-03-a114"></a>
 
 #### 그림 90.4.1.3.a114. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택과 교차하기(Intersect) 
-![90-04-01-03-mode-intersect(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b56ef663-fc6a-4691-a04a-adb588d6038f)
+![90-04-01-03-a114](https://github.com/wonder13662/gimp/assets/15767104/b56ef663-fc6a-4691-a04a-adb588d6038f)
 
 [7.2.2. 선택 더하기/빼기 - 그림 90.4.1.3.a114](./07-02-02-adding-or-subtracting-selections.md#90-04-01-03-a114)
 
@@ -93,14 +93,14 @@
 <a id="90-04-01-03-a131"></a>
 
 #### 영상 90.4.1.3.a131. 선택 외곽선 - 행진하는 개미(Marching ants)
-![marching_ants](https://github.com/wonder13662/gimp/assets/15767104/ba34706e-68e9-4b1f-9c29-1f649109a9b3)
+![90-04-01-03-a131](https://github.com/wonder13662/gimp/assets/15767104/ba34706e-68e9-4b1f-9c29-1f649109a9b3)
 
 [7.3.1. 퀵마스크 개요 - 영상 90.4.1.3.a131](./07-03-01-overview.md#90-04-01-03-a131)
 
 <a id="90-04-01-03-a141"></a>
 
 #### 영상 90.4.1.3.a141. 도구 옵션 대화상자의 아래쪽 4개 버튼
-![90-04-01-tool_optionsx-03-rectangle_select(windows)(ko)-focus-bottom_bar_buttons](https://github.com/wonder13662/gimp/assets/15767104/ba5a5c19-f1ef-45bf-a0c7-e129ad19faaf)
+![90-04-01-03-a141](https://github.com/wonder13662/gimp/assets/15767104/ba5a5c19-f1ef-45bf-a0c7-e129ad19faaf)
 
 [7.13. 프리셋(Presets) - 영상 90.4.1.3.a141](./07-13-presets.md#90-04-01-03-a141)
 

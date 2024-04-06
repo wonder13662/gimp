@@ -9,14 +9,14 @@
 <a id="90-01-06-10-a3"></a>
 
 #### 그림 90.1.6.10.a3. 레이어 - 변형 (Windows) - 시계 방향으로 90도 회전
-![90-01-06-layerx-04-transform(우리말)(windows)-focus-rotate_90_clockwise](https://github.com/wonder13662/gimp/assets/15767104/1b35693a-4884-465c-a73f-f542de620b26)
+![90-01-06-10-a3](https://github.com/wonder13662/gimp/assets/15767104/1b35693a-4884-465c-a73f-f542de620b26)
 
 [7.8.2.2. 3차원 이미지 호스(A three dimension image hose) - 그림 90.1.6.10.a3](./07-08-02-02-three_dimension_image_hose.md#90-01-06-10-a3)
 
 <a id="90-01-06-10-a4"></a>
 
 #### 그림 90.1.6.10.a4. `레이어` → `변형` → `수평 뒤집기` (windows) (우리말)
-![90-01-06-layerx-04-transform(우리말)(windows)-focus-flip_horizontal](https://github.com/wonder13662/gimp/assets/15767104/0e4cf75c-c78d-48a3-aec8-d12f874e300a)
+![90-01-06-10-a4](https://github.com/wonder13662/gimp/assets/15767104/0e4cf75c-c78d-48a3-aec8-d12f874e300a)
 
 [7.8.2.2. 3차원 이미지 호스(A three dimension image hose) - 그림 90.1.6.10.a4](./07-08-02-02-three_dimension_image_hose.md#90-01-06-10-a4)
 

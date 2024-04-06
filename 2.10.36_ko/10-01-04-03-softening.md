@@ -4,14 +4,14 @@
 <a id="90-01-09-01-02-a1"></a>
 
 #### [그림 90.1.9.1.2.a1. `필터` → `흐림처리` → `가우시안 흐림처리...` (Windows)](./90-01-09-01-02-gaussian_blur.md#90-01-09-01-02-a1)
-![90-01-09-filtersx-01-blur-focus-gaussian_blur(windows)](https://github.com/wonder13662/gimp/assets/15767104/6ce59f61-1e4a-4d6e-a14c-32b2ffe1cb77)
+![90-01-09-01-02-a1](https://github.com/wonder13662/gimp/assets/15767104/6ce59f61-1e4a-4d6e-a14c-32b2ffe1cb77)
 
 [다른 운영체제와 언어의 `필터` → `흐림처리` → `가우시안 흐림처리...` 확인하기](./90-01-09-01-02-gaussian_blur.md#90-01-09-01-02-a2)
 
 <a id="90-04-82-a101"></a>
 
 #### [그림 90.4.82.a101. `가우시안 흐림처리` 대화상자 (Windows) (우리말)](./90-04-82-gaussian_blur.md#90-04-82-a101)
-![그림 90 4 82 a101  `가우시안 흐림처리` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/b1edba3b-1764-42a5-a6be-0c03be3b662a)
+![90-04-82-a101](https://github.com/wonder13662/gimp/assets/15767104/b1edba3b-1764-42a5-a6be-0c03be3b662a)
 
 [다른 운영체제와 언어의 `가우시안 흐림처리` 대화상자 확인하기](./90-04-82-gaussian_blur.md#90-04-82-a102)
 

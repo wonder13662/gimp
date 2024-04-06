@@ -17,7 +17,7 @@
 <a id="90-03-02-03-a101"></a>
 
 #### 그림 90.3.2.3.a101. 선택(selection)은 점선으로 표시됩니다
-![select-outline](https://github.com/wonder13662/gimp/assets/15767104/2c93d29c-8a0f-492b-8b82-75f14ce0809e)
+![90-03-02-03-a101](https://github.com/wonder13662/gimp/assets/15767104/2c93d29c-8a0f-492b-8b82-75f14ce0809e)
 
 [7.1. 선택 - 그림 90.3.3.a101](./07-01-00-the-selection.md#90-03-02-03-a101)
 

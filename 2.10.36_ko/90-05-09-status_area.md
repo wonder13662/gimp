@@ -10,7 +10,7 @@
 <a id="90-05-09-a102"></a>
 
 #### 그림 90.5.9.a102. (9)상태 표시 영역의 위치 (단일창)
-![그림 90.5.9.a102](https://github.com/wonder13662/gimp/assets/15767104/f5a7b618-59ce-4c89-9539-07775d0bc6db)
+![90-05-09-a102](https://github.com/wonder13662/gimp/assets/15767104/f5a7b618-59ce-4c89-9539-07775d0bc6db)
 
 [3.2.2.9. 상태 표시 영역 (Status Area) - 그림 90.5.9.a102](./03-02-02-09-status-area.md#90-05-09-a102)
 

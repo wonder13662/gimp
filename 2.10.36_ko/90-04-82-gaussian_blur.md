@@ -4,20 +4,20 @@
 <a id="90-04-82-a101"></a>
 
 #### 그림 90.4.82.a101. `가우시안 흐림처리` 대화상자 (Windows) (우리말)
-![그림 90 4 82 a101  `가우시안 흐림처리` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/b1edba3b-1764-42a5-a6be-0c03be3b662a)
+![90-04-82-a101](https://github.com/wonder13662/gimp/assets/15767104/b1edba3b-1764-42a5-a6be-0c03be3b662a)
 
 [10.1.4.3. 부드럽게 하기(Softening) - 그림 90.4.82.a101](./10-01-04-03-softening.md#90-04-82-a101)
 
 <a id="90-04-82-a102"></a>
 
 #### 그림 90.4.82.a102. `가우시안 흐림처리` 대화상자 (Windows) (영어)
-![그림 90 4 82 a102  `가우시안 흐림처리` 대화상자 (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/2662cd1c-5155-4d4c-9dc7-a542630c1b92)
+![90-04-82-a102](https://github.com/wonder13662/gimp/assets/15767104/2662cd1c-5155-4d4c-9dc7-a542630c1b92)
 
 #### 그림 90.4.82.a103. `가우시안 흐림처리` 대화상자 (Mac) (우리말)
-![그림 90 4 82 a103  `가우시안 흐림처리` 대화상자 (Mac) (우리말)(50%)](https://github.com/wonder13662/gimp/assets/15767104/3c340aeb-82d3-462b-84fc-b1c7315ae1d2)
+![90-04-82-a103](https://github.com/wonder13662/gimp/assets/15767104/3c340aeb-82d3-462b-84fc-b1c7315ae1d2)
 
 #### 그림 90.4.82.a104. `가우시안 흐림처리` 대화상자 (Mac) (영어)
-![그림 90 4 82 a104  `가우시안 흐림처리` 대화상자 (Mac) (영어)(50%)](https://github.com/wonder13662/gimp/assets/15767104/1fc01b68-6a85-4c71-8a2e-a9f8188f9ca6)
+![90-04-82-a104](https://github.com/wonder13662/gimp/assets/15767104/1fc01b68-6a85-4c71-8a2e-a9f8188f9ca6)
 
 <a id="90-04-82-a105"></a>
 

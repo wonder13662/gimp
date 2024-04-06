@@ -4,7 +4,7 @@
 <a id="90-01-06-13-a101"></a>
 
 #### 그림 90.1.6.13.a101. `레이어` → `레이어 크기 조정`
-![그림 90.1.6.13.a101. `레이어` → `레이어 크기 조정`](https://github.com/wonder13662/gimp/assets/15767104/7a1b1caf-66a5-4806-b202-5dcffa19a8e8)
+![90-01-06-13-a101](https://github.com/wonder13662/gimp/assets/15767104/7a1b1caf-66a5-4806-b202-5dcffa19a8e8)
 
 [4.2.6. 레이어 바깥쪽에서 작업을 하려는 경우 - 그림 90.1.6.13.a101](./04-02-06-you-are-trying-to-act-outside-the-layer.md#90-01-06-13-a101)
 

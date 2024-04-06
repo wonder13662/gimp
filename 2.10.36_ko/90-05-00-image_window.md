@@ -64,7 +64,7 @@
 <a id="90-05-a324"></a>
 
 #### 그림 90.5.a324. 단일창 모드 스크린샷
-![single-window](https://github.com/wonder13662/gimp/assets/15767104/fd9a7449-3d1b-4f4e-b166-c97fa84da161)
+![90-05-a324](https://github.com/wonder13662/gimp/assets/15767104/fd9a7449-3d1b-4f4e-b166-c97fa84da161)
 
 [3.2. GIMP(김프)의 주요 화면 - 그림 90.5.a324](./03-02-00-main-window.md#90-05-a324)
 

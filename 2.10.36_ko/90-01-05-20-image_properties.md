@@ -3,7 +3,7 @@
 <a id="90-01-05-20-a101"></a>
 
 #### 그림 90.1.5.20.a101. `이미지` → `이미지 성질`
-![그림 90.1.5.20.a101. `이미지` → `이미지 성질`](https://github.com/wonder13662/gimp/assets/15767104/176a709d-e4bc-477a-8ce2-0cfd458ca55d)
+![90-01-05-20-a101](https://github.com/wonder13662/gimp/assets/15767104/176a709d-e4bc-477a-8ce2-0cfd458ca55d)
 
 [3.4.6. 이미지 정보 확인하기 - 그림 90.1.5.20.a101](./03-04-06-find-info-about-your-image.md#90-01-05-20-a101)
 

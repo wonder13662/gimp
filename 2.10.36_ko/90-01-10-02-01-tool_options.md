@@ -15,7 +15,7 @@
 <a id="90-01-10-02-01-a102"></a>
 
 #### 그림 90.1.10.2.1.a102. `창` → `도킹가능한 대화` → `도구 옵션` (Mac)
-![그림 90.1.10.2.1.a102. `창` → `도킹가능한 대화` → `도구 옵션` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/7b9a6eda-355a-4fe1-8d56-d7359b00ff77)
+![90-01-10-02-01-a102](https://github.com/wonder13662/gimp/assets/15767104/7b9a6eda-355a-4fe1-8d56-d7359b00ff77)
 
 [90.1.10.2. 창(Windows) - 도킹가능한 대화(Dockable dialogs) - 그림 90.1.10.2.1.a102](./90-01-10-02-00-dockable_dialogs.md#90-01-10-02-01-a102)
 

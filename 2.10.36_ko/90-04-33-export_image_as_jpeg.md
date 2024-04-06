@@ -13,17 +13,17 @@
 <a id="90-04-33-a102"></a>
 
 #### 그림 90.4.33.a102. '이미지를 JPEG로 내보내기' 대화상자 (Windows) (영어)
-![그림 90.4.33.a102. '이미지를 JPEG로 내보내기' 대화상자 (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/4c0aa6b8-8e6d-4ce4-846a-6a6ce7dc367e)
+![90-04-33-a102](https://github.com/wonder13662/gimp/assets/15767104/4c0aa6b8-8e6d-4ce4-846a-6a6ce7dc367e)
 
 <a id="90-04-33-a103"></a>
 
 #### 그림 90.4.33.a103. '이미지를 JPEG로 내보내기' 대화상자 (Mac) (우리말)
-![그림 90.4.33.a103. '이미지를 JPEG로 내보내기' 대화상자 (Mac) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/39d0f01f-3627-4320-b05e-e25215698717)
+![90-04-33-a103](https://github.com/wonder13662/gimp/assets/15767104/39d0f01f-3627-4320-b05e-e25215698717)
 
 <a id="90-04-33-a104"></a>
 
 #### 그림 90.4.33.a104. '이미지를 JPEG로 내보내기' 대화상자 (Mac) (영어)
-![그림 90.4.33.a104. '이미지를 JPEG로 내보내기' 대화상자 (Mac) (영어)](https://github.com/wonder13662/gimp/assets/15767104/3dd0ed78-e7b0-451a-bbcc-c5385f2ec792)
+![90-04-33-a104](https://github.com/wonder13662/gimp/assets/15767104/3dd0ed78-e7b0-451a-bbcc-c5385f2ec792)
 
 <a id="90-04-33-a111"></a>
 
@@ -35,17 +35,17 @@
 <a id="90-04-33-a112"></a>
 
 #### 그림 90.4.33.a112. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 (Windows) (영어)
-![90-04-33-export_image_as_jpeg(windows)(en)-advanced_options](https://github.com/wonder13662/gimp/assets/15767104/12e176fe-ca08-4006-bde0-2bfd85fc7f05)
+![90-04-33-a112](https://github.com/wonder13662/gimp/assets/15767104/12e176fe-ca08-4006-bde0-2bfd85fc7f05)
 
 <a id="90-04-33-a113"></a>
 
 #### 그림 90.4.33.a113. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 (Mac) (우리말)
-![90-04-33-export_image_as_jpeg(mac)(ko)-advanced_options(50%)](https://github.com/wonder13662/gimp/assets/15767104/7fa2a60f-42f9-484f-b2db-26a24451dc4f)
+![90-04-33-a113](https://github.com/wonder13662/gimp/assets/15767104/7fa2a60f-42f9-484f-b2db-26a24451dc4f)
 
 <a id="90-04-33-a114"></a>
 
 #### 그림 90.4.33.a114. '이미지를 JPEG로 내보내기' 대화상자 - 고급 설정 (Mac) (영어)
-![90-04-33-export_image_as_jpeg(mac)(en)-advanced_options(50%)](https://github.com/wonder13662/gimp/assets/15767104/c83d2999-1127-4fca-9230-9fed82f1b754)
+![90-04-33-a114](https://github.com/wonder13662/gimp/assets/15767104/c83d2999-1127-4fca-9230-9fed82f1b754)
 
 <a id="90-04-33-a121"></a>
 
@@ -57,17 +57,17 @@
 <a id="90-04-33-a122"></a>
 
 #### 그림 90.4.33.a122. '이미지를 JPEG로 내보내기' 대화상자 → 고급 설정 → 서브샘플링 (Windows) (영어)
-![90-04-33-export_image_as_jpeg(windows)(en)-advanced_options-subsampling-focus](https://github.com/wonder13662/gimp/assets/15767104/d9dc3be0-22b2-4522-9674-54b9ed467eec)
+![90-04-33-a122](https://github.com/wonder13662/gimp/assets/15767104/d9dc3be0-22b2-4522-9674-54b9ed467eec)
 
 <a id="90-04-33-a123"></a>
 
 #### 그림 90.4.33.a123. '이미지를 JPEG로 내보내기' 대화상자 → 고급 설정 → 서브샘플링 (Mac) (우리말)
-![90-04-33-export_image_as_jpeg(mac)(ko)-advanced_options-subsampling(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/b06697ee-eda3-4764-b827-178058b08725)
+![90-04-33-a123](https://github.com/wonder13662/gimp/assets/15767104/b06697ee-eda3-4764-b827-178058b08725)
 
 <a id="90-04-33-a124"></a>
 
 #### 그림 90.4.33.a124. '이미지를 JPEG로 내보내기' 대화상자 → 고급 설정 → 서브샘플링 (Mac) (영어)
-![90-04-33-export_image_as_jpeg(mac)(en)-advanced_options-subsampling(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/6b6458ea-2806-42f2-9a9f-f4a08c4f3bdd)
+![90-04-33-a124](https://github.com/wonder13662/gimp/assets/15767104/6b6458ea-2806-42f2-9a9f-f4a08c4f3bdd)
 
 <a id="90-04-33-a131"></a>
 
@@ -79,13 +79,13 @@
 <a id="90-04-33-a132"></a>
 
 #### 그림 90.4.33.a132. '이미지를 JPEG로 내보내기' 대화상자 → 고급 설정 → DCT 기법 (Windows) (영어)
-![90-04-33-export_image_as_jpeg(windows)(en)-advanced_options-dct_method-focus](https://github.com/wonder13662/gimp/assets/15767104/71945028-d02f-4df6-93b6-eb524bd1ff73)
+![90-04-33-a132](https://github.com/wonder13662/gimp/assets/15767104/71945028-d02f-4df6-93b6-eb524bd1ff73)
 
 #### 그림 90.4.33.a133. '이미지를 JPEG로 내보내기' 대화상자 → 고급 설정 → DCT 기법 (Mac) (우리말)
-![90-04-33-export_image_as_jpeg(mac)(ko)-advanced_options-dct_method(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/e403ec20-1172-4694-854c-3ddc2295e7a0)
+![90-04-33-a133](https://github.com/wonder13662/gimp/assets/15767104/e403ec20-1172-4694-854c-3ddc2295e7a0)
 
 #### 그림 90.4.33.a134. '이미지를 JPEG로 내보내기' 대화상자 → 고급 설정 → DCT 기법 (Mac) (영어)
-![90-04-33-export_image_as_jpeg(mac)(en)-advanced_options-dct_method(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/c4825b6a-b6da-4879-8d76-9ced93077955)
+![90-04-33-a134](https://github.com/wonder13662/gimp/assets/15767104/c4825b6a-b6da-4879-8d76-9ced93077955)
 
 <a id="90-04-33-a141"></a>
 

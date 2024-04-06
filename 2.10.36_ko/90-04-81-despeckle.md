@@ -4,20 +4,20 @@
 <a id="90-04-81-a101"></a>
 
 #### 그림 90.4.81.a101. `잡티 없애기` 대화상자 (Windows) (우리말)
-![그림 90 4 81 a101  `잡티 없애기` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/18fe823c-197d-4c19-b900-bac592aad42d)
+![90-04-81-a101](https://github.com/wonder13662/gimp/assets/15767104/18fe823c-197d-4c19-b900-bac592aad42d)
 
 [10.1.4.2. 거친 정도 줄이기(Reducing Graininess) - 그림 90.4.81.a101](./10-01-04-02-reducing_graininess.md#90-04-81-a101)
 
 <a id="90-04-81-a102"></a>
 
 #### 그림 90.4.81.a102. `잡티 없애기` 대화상자 (Windows) (영어)
-![그림 90 4 81 a102  `잡티 없애기` 대화상자 (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/cd0026d7-bce2-4ad0-a861-7fb59e67dfa5)
+![90-04-81-a102](https://github.com/wonder13662/gimp/assets/15767104/cd0026d7-bce2-4ad0-a861-7fb59e67dfa5)
 
 #### 그림 90.4.81.a103. `잡티 없애기` 대화상자 (Mac) (우리말)
-![그림 90 4 81 a103  `잡티 없애기` 대화상자 (Mac) (우리말)(50%)](https://github.com/wonder13662/gimp/assets/15767104/40789ecf-622c-4df9-a1a7-9184ca66f6de)
+![90-04-81-a103](https://github.com/wonder13662/gimp/assets/15767104/40789ecf-622c-4df9-a1a7-9184ca66f6de)
 
 #### 그림 90.4.81.a104. `잡티 없애기` 대화상자 (Mac) (영어)
-![그림 90 4 81 a104  `잡티 없애기` 대화상자 (Mac) (영어)(50%)](https://github.com/wonder13662/gimp/assets/15767104/70604779-2b81-4824-84b4-d5dc26f2b395)
+![90-04-81-a104](https://github.com/wonder13662/gimp/assets/15767104/70604779-2b81-4824-84b4-d5dc26f2b395)
 
 <a id="90-04-81-a105"></a>
 

@@ -3,7 +3,7 @@
 <a id="90-04-03-07-a11"></a>
 
 #### 그림 90.4.3.7.a11. 모드(Mode)
-![90-04-03-layers(windows)(ko)(slim)-focus-mode](https://github.com/wonder13662/gimp/assets/15767104/0f62ad29-be47-4bcf-bcb1-6b94dbb95038)
+![90-04-03-07-a11](https://github.com/wonder13662/gimp/assets/15767104/0f62ad29-be47-4bcf-bcb1-6b94dbb95038)
 
 [8.1.1. 레이어 속성 - 그림 90.4.3.7.a11.](./08-01-01-layer_properties.md#90-04-03-07-a11)
 
@@ -12,7 +12,7 @@
 <a id="90-04-03-07-a21"></a>
 
 #### 그림 90.4.3.7.a21. 일반 레이어 모드와 레거시 레이어 모드 목록
-![08-03-layer_dialog-legacy_layer_mode(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/4f770fba-8374-4805-9617-2c82096ec759)
+![90-04-03-07-a21](https://github.com/wonder13662/gimp/assets/15767104/4f770fba-8374-4805-9617-2c82096ec759)
 
 [8.3. 레거시 레이어 모드 - 그림 90.4.3.7.a21](./08-03-00-legacy-layer-modes.md#90-04-03-07-a21)
 

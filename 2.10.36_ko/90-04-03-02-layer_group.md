@@ -3,7 +3,7 @@
 <a id="90-04-03-02-a11"></a>
 
 #### 그림 90.4.3.2.a11. 레이어 대화상자 - 레이어 그룹 추가 버튼
-![90-04-03-layers(w1080)-focus-add_layer_group](https://github.com/wonder13662/gimp/assets/15767104/1d059924-dec2-466c-bcb7-7f28d23c01b3)
+![90-04-03-02-a11](https://github.com/wonder13662/gimp/assets/15767104/1d059924-dec2-466c-bcb7-7f28d23c01b3)
 
 [8.5.1. 레이어 그룹 만들기(Create a Layer Group) - 그림 90.4.3.2.a11](./08-05-01-create_a_layer_group.md#90-04-03-02-a11)
 
@@ -28,7 +28,7 @@
 <a id="90-04-03-02-a41"></a>
 
 #### 그림 90.4.3.2.a41. 레이어 그룹 선택
-![그림 90.4.3.a14. 레이어 그룹 선택](https://github.com/wonder13662/gimp/assets/15767104/69c1509d-c8a3-4680-8987-4298afc51f90)
+![90-04-03-02-a41](https://github.com/wonder13662/gimp/assets/15767104/69c1509d-c8a3-4680-8987-4298afc51f90)
 
 [4.2.7. 레이어 그룹에서 작업을 하려는 경우 - 그림 90.4.3.2.a41](./04-02-07-you-are-trying-to-act-on-a-layer-group.md#90-04-03-02-a41)
 
@@ -97,28 +97,28 @@
 <a id="90-04-03-02-a131"></a>
 
 #### 그림 90.4.3.2.a131. 레이어 그룹 안에 내용이 있을 때, 레이어 그룹 열기/닫기 아이콘 (Windows) (우리말)
-![90-04-03-a331-dialog_layer-layer_group_closed(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/cdaafc7a-f56e-4831-8027-5c8a4b99aefb)
+![90-04-03-02-a131](https://github.com/wonder13662/gimp/assets/15767104/cdaafc7a-f56e-4831-8027-5c8a4b99aefb)
 
 [8.5.2. 레이어 그룹에 레이어 넣기(Adding Layers to a Layer Group) - 그림 90.4.3.2.a131](./08-05-02-adding_layers_to_a_layer_group.md#90-04-03-02-a131)
 
 <a id="90-04-03-02-a141"></a>
 
 #### 그림 90.4.3.2.a141. 레이어 그룹 안에 내용이 있을 때, 레이어 그룹 열기/닫기 (Windows) (우리말)
-![90-04-03-a331-dialog_layer-layer_group_toggle(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/a2f7d143-b1ab-453c-b701-ce219baf8002)
+![90-04-03-02-a141](https://github.com/wonder13662/gimp/assets/15767104/a2f7d143-b1ab-453c-b701-ce219baf8002)
 
 [8.5.2. 레이어 그룹에 레이어 넣기(Adding Layers to a Layer Group) - 그림 90.4.3.2.a141](./08-05-02-adding_layers_to_a_layer_group.md#90-04-03-02-a141)
 
 <a id="90-04-03-02-a151"></a>
 
 #### 그림 90.4.3.2.a151. 레이어 그룹 안에 내용의 들여쓰기 (Windows) (우리말)
-![90-04-03-a333-dialog_layer-indentation(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/923c0f99-8fee-4937-b339-98b15ceec6e0)
+![90-04-03-02-a151](https://github.com/wonder13662/gimp/assets/15767104/923c0f99-8fee-4937-b339-98b15ceec6e0)
 
 [8.5.2. 레이어 그룹에 레이어 넣기(Adding Layers to a Layer Group) - 그림 90.4.3.2.a151](./08-05-02-adding_layers_to_a_layer_group.md#90-04-03-02-a151)
 
 <a id="90-04-03-02-a161"></a>
 
 #### 그림 90.4.3.2.a161. 레이어 그룹의 눈(보기) 아이콘 토글 (Windows) (우리말)
-![90-04-03-a401-dialog_layer-layer_group-visibility_toggle(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/87e1b566-0587-45b8-83a3-e5e12a5bbf9b)
+![90-04-03-02-a161](https://github.com/wonder13662/gimp/assets/15767104/87e1b566-0587-45b8-83a3-e5e12a5bbf9b)
 
 [8.5.3. 레이어 그룹 보기(Visibility) - 그림 90.4.3.2.a161](./08-05-03-visibility.md#90-04-03-02-a161)
 

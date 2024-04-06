@@ -4,7 +4,7 @@
 <a id="90-03-02-23-a1"></a>
 
 #### [그림 90.3.2.23.a1. 도구상자의 그리기 붓의 도구옵션](./90-03-02-23-paintbrush.md#90-03-02-23-a1)
-![그림 90.3.2.23.a1. 도구상자의 그리기 붓의 도구옵션](https://github.com/wonder13662/gimp/assets/15767104/a8ef3a23-51e7-46db-a10a-15cffa7ccd6b)
+![90-03-02-23-a1](https://github.com/wonder13662/gimp/assets/15767104/a8ef3a23-51e7-46db-a10a-15cffa7ccd6b)
 
 <a id="90-03-02-23-a101"></a>
 

@@ -4,14 +4,14 @@
 <a id="90-01-08-01-04-a101"></a>
 
 #### 그림 90.1.8.1.4.a101.`도구` → `선택도구` → `전경 선택` (Windows)
-![그림 90.1.8.1.4.a101.`도구` → `선택도구` → `전경 선택` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/7c56969f-2f81-4f34-93c9-0259b5e6da5e)
+![90-01-08-01-04-a101](https://github.com/wonder13662/gimp/assets/15767104/7c56969f-2f81-4f34-93c9-0259b5e6da5e)
 
 [3.4.10. 원하는 개체만 선택하여 분리하기 - 그림 90.1.8.1.4.a101](./03-04-10-separating-an-object-from-its-background.md#90-01-08-01-04-a101)
 
 <a id="90-01-08-01-04-a102"></a>
 
 #### 그림 90.1.8.1.4.a102.`도구` → `선택도구` → `전경 선택` (Mac)
-![그림 90.1.8.1.4.a102.`도구` → `선택도구` → `전경 선택` (Mac)](https://github.com/wonder13662/gimp/assets/15767104/5fa63ac2-c2bc-436e-97a0-2b09eb71186d)
+![90-01-08-01-04-a102](https://github.com/wonder13662/gimp/assets/15767104/5fa63ac2-c2bc-436e-97a0-2b09eb71186d)
 
 <a id="90-01-08-01-04-a111"></a>
 

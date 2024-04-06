@@ -4,20 +4,20 @@
 <a id="90-04-77-a101"></a>
 
 #### 그림 90.4.77.a101. `선명하게 하기` 대화상자 (Windows) (우리말)
-![그림 90 4 77 a101  `선명하게 하기` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/6318a007-1f0d-4ec5-bfae-9d4afad17625)
+![90-04-77-a101](https://github.com/wonder13662/gimp/assets/15767104/6318a007-1f0d-4ec5-bfae-9d4afad17625)
 
 [10.1.4.1. 선명하게 하기(Unblurring) - 그림 90.4.77.a101](./10-01-04-01-unblurring.md#90-04-77-a101)
 
 <a id="90-04-77-a102"></a>
 
 #### 그림 90.4.77.a102. `선명하게 하기` 대화상자 (Windows) (영어)
-![그림 90 4 77 a102  `선명하게 하기` 대화상자 (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/27bd8fcc-cfe0-4ee4-bb6f-996a1c65363a)
+![90-04-77-a102](https://github.com/wonder13662/gimp/assets/15767104/27bd8fcc-cfe0-4ee4-bb6f-996a1c65363a)
 
 #### 그림 90.4.77.a103. `선명하게 하기` 대화상자 (Mac) (우리말)
-![그림 90 4 77 a103  `선명하게 하기` 대화상자 (Mac) (우리말)(50%)](https://github.com/wonder13662/gimp/assets/15767104/ebe2ff20-156d-4c05-b6f5-810b1f82dfaa)
+![90-04-77-a103](https://github.com/wonder13662/gimp/assets/15767104/ebe2ff20-156d-4c05-b6f5-810b1f82dfaa)
 
 #### 그림 90.4.77.a104. `선명하게 하기` 대화상자 (Mac) (영어)
-![그림 90 4 77 a104  `선명하게 하기` 대화상자 (Mac) (영어)(50%)](https://github.com/wonder13662/gimp/assets/15767104/1887d0a8-ecf5-4fee-bc28-f9ebc9ae9fda)
+![90-04-77-a104](https://github.com/wonder13662/gimp/assets/15767104/1887d0a8-ecf5-4fee-bc28-f9ebc9ae9fda)
 
 <a id="90-04-77-a111"></a>
 

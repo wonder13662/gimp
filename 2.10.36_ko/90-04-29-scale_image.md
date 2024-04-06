@@ -13,7 +13,7 @@
 <a id="90-04-29-a102"></a>
 
 #### 그림 90.4.29.a102. `이미지 비율 조정` 대화상자 (Windows) (영어)
-![그림 90.4.29.a102. `이미지 비율 조정` 대화상자 (Windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/669ea869-7a4f-4e5e-86e5-15e397a34f5f)
+![90-04-29-a102](https://github.com/wonder13662/gimp/assets/15767104/669ea869-7a4f-4e5e-86e5-15e397a34f5f)
 
 #### 그림 90.4.29.a103. `이미지 비율 조정` 대화상자 (Mac) (우리말)
 ![그림 90.4.29.a103. `이미지 비율 조정` 대화상자 (Mac) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/4aee5c4d-5f75-4e2f-b272-517e34fbc4d7)
