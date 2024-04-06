@@ -94,7 +94,7 @@ GIMP에서는 한 번에 여러 이미지를 열어 두고 작업을 할 수 있
 
 <a id="90-03-05-a2"></a>
 
-#### [영상 3.2.1.a501. 활성화 이미지 바꾸기](./90-03-05-active_image.md#90-03-05-a2)
+#### [영상 90.3.5.a2. 활성화 이미지 바꾸기](./90-03-05-active_image.md#90-03-05-a2)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2954d835-ff30-460a-b9b2-302a4411ff4f"></video>
 
 ## 마칠 때 장치 상태 저장(Save input device settings on exit)
