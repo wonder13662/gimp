@@ -51,6 +51,8 @@
 
 [➡️ 다음: 90.3.2.2. 도구 아이콘(Tool icon) - 정렬(Alignment)](./90-03-02-02-alignment.md)
 
+[⬅️ 이전: 90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
+
 [⬆️ 위: 90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
