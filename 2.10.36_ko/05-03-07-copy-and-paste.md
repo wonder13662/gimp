@@ -5,7 +5,7 @@
 <a id="90-01-01-02-01-a101"></a>
 
 #### [그림 90.1.1.2.1.a101. `파일` → `만들기` → `클립보드에서` (Windows)](./90-01-01-02-01-from_clipboard.md#90-01-01-02-01-a101)
-![90-01-01-filex-01-create(windows)(1080)-focus-from_clipboard](https://github.com/wonder13662/gimp/assets/15767104/6778a8af-f31a-452c-8b6b-a6f178c7bfcf)
+![90-01-01-02-01-a101](https://github.com/wonder13662/gimp/assets/15767104/6778a8af-f31a-452c-8b6b-a6f178c7bfcf)
 
 [다른 운영체제와 언어의 `파일` → `만들기` → `클립보드에서` 확인하기](./90-01-01-02-01-from_clipboard.md#90-01-01-02-01-a102)
 
@@ -25,7 +25,7 @@
 <a id="90-01-02-11-03-a101"></a>
 
 #### [그림 90.1.2.11.3.a101. `편집` → `붙여넣기(고급)` → `새 이미지` (Windows)](./90-01-02-11-03-new_image.md#90-01-02-11-03-a101)
-![90-01-02-editx-01-paste_as(windows)(1080)-focus-new_image](https://github.com/wonder13662/gimp/assets/15767104/df554206-b47d-4f48-ab03-03e3202bb3be)
+![90-01-02-11-03-a101](https://github.com/wonder13662/gimp/assets/15767104/df554206-b47d-4f48-ab03-03e3202bb3be)
 
 [다른 운영체제와 언어의 `편집` → `붙여넣기(고급)` → `새 이미지` 확인하기](./90-01-02-11-03-new_image.md#90-01-02-11-03-a102)
 

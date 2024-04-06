@@ -23,7 +23,7 @@
 <a id="90-01-03-04-a101"></a>
 
 #### [그림 90.1.3.4.a101. `선택` → `띄우기`](./90-01-03-04-float.md#90-01-03-04-a101)
-![그림 90.1.3.4.a101. `선택` → `띄우기`](https://github.com/wonder13662/gimp/assets/15767104/8080d2be-dc54-4cf0-80ed-e13dfdacfb9a)
+![90-01-03-04-a101](https://github.com/wonder13662/gimp/assets/15767104/8080d2be-dc54-4cf0-80ed-e13dfdacfb9a)
 
 레이어 대화상자의 투명도 슬라이더를 조정해서 원하는 투명도로 만들 수 있습니다.
 
@@ -50,7 +50,7 @@
 <a id="90-04-03-03-a81"></a>
 
 #### [영상 90.4.3.3.a81. "떠있는 선택(Floating selection)" 바깥의 마우스 커서의 닻(Anchor) 아이콘](./90-04-03-03-floating_selection.md#90-04-03-03-a81)
-![90-04-03-layers(windows)(ko)-floating_selection-anchor_icon(50%)-focus](https://github.com/wonder13662/gimp/assets/15767104/593587b7-b4f5-402c-94c9-9e404840d47c)
+![90-04-03-03-a81](https://github.com/wonder13662/gimp/assets/15767104/593587b7-b4f5-402c-94c9-9e404840d47c)
 
 아래 영상에서 선택 영역의 바깥쪽을 클릭하는 과정을 확인할 수 있습니다.
 
@@ -81,7 +81,7 @@
 <a id="90-01-06-08-a101"></a>
 
 #### [그림 90.1.6.8.a101. `레이어` → `마스크` → `레이어 마스크 추가` (Windows)](./90-01-06-08-mask.md#90-01-06-08-a101)
-![90-01-06-layerx-02-mask(windows)(1080)-focus-add_layer_mask](https://github.com/wonder13662/gimp/assets/15767104/8cf43c8a-2b13-4273-97ec-cd326080347c)
+![90-01-06-08-a101](https://github.com/wonder13662/gimp/assets/15767104/8cf43c8a-2b13-4273-97ec-cd326080347c)
 
 이 대화상자에서 `선택`으로 초기화합니다. 
 
@@ -112,7 +112,7 @@
 <a id="90-03-02-08-a2"></a>
 
 #### [그림 90.3.2.8.a2. 도구상자 - 퍼지 선택](./90-03-02-08-fuzzy_select.md#90-03-02-08-a2)
-![그림 90.3.2.8.a2. 도구상자 - 퍼지 선택](https://github.com/wonder13662/gimp/assets/15767104/9f2fad3e-18f9-43ea-a3ba-a9cb736bc1d5)
+![90-03-02-08-a2](https://github.com/wonder13662/gimp/assets/15767104/9f2fad3e-18f9-43ea-a3ba-a9cb736bc1d5)
 
 <a id="90-03-02-08-a101"></a>
 
@@ -153,7 +153,7 @@
 <a id="90-01-02-13-a101"></a>
 
 #### [그림 90.1.2.13.a101. `편집` → `지우기`](./90-01-02-13-clear.md#90-01-02-13-a101)
-![90-00-image_menu_bar-edit(w1080)-focus-clear](https://github.com/wonder13662/gimp/assets/15767104/194a7e4a-e39b-42bf-9921-222a15ed6166)
+![90-01-02-13-a101](https://github.com/wonder13662/gimp/assets/15767104/194a7e4a-e39b-42bf-9921-222a15ed6166)
 
 <a id="90-01-02-13-a102"></a>
 

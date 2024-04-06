@@ -101,7 +101,7 @@
 <a id="90-04-45-a129"></a>
 
 #### [그림 90.4.45.a129. `이미지를 PNG로 내보내기` 대화상자 - 압축 레벨 (Windows) (우리말)](./90-04-45-export_image_as_png.md#90-04-45-a129)
-![90-04-45-export_image_as_png(windows)(ko)-focus-compression_level](https://github.com/wonder13662/gimp/assets/15767104/2a139a3e-81fd-4759-8503-8a1d3aa7bd24)
+![90-04-45-a129](https://github.com/wonder13662/gimp/assets/15767104/2a139a3e-81fd-4759-8503-8a1d3aa7bd24)
 
 압축할 경우 손실이 없기 때문에, 압축 레벨을 9보다 낮게 설정하는 경우는 느린 컴퓨터에서 압축 과정이 너무 오래 걸리는 것 외에는 없습니다. 압축을 되돌리는 과정도 걱정할 필요는 없습니다. 압축 레벨과 상관없이 빠르게 처리됩니다.
 

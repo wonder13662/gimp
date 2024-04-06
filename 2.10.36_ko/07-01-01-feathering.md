@@ -7,7 +7,7 @@
 <a id="90-04-01-03-a101"></a>
 
 #### [그림 90.4.1.3.a101. 도구상자의 사각 선택의 도구옵션 - 가장자리 페더 (windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a101)
-![90-03-03-rectangle_select-feather_edges-focus](https://github.com/wonder13662/gimp/assets/15767104/1a24855f-3c21-42de-8d18-9b7630121395)
+![90-04-01-03-a101](https://github.com/wonder13662/gimp/assets/15767104/1a24855f-3c21-42de-8d18-9b7630121395)
 
 도구옵션 "사각 선택(Rectangle Select)"의 "가장자리 페더(Feather edges)" 체크박스를 체크하면, 점진적인 선택을 사용할 수 있습니다. 이 체크박스를 끄면 예리한 선택을 사용할 수 있습니다. "가장자리 페더"의 "반경(Radius)"을 조정해서 점진적 선택의 범위를 설정할 수 있습니다.
 
@@ -27,7 +27,7 @@
 <a id="90-01-03-08-a101"></a>
 
 #### [그림 90.1.3.8.a101. `선택` → `페더`](./90-01-03-08-feather.md#90-01-03-08-a101)
-![90-01-03-select(1080)-focus-feather](https://github.com/wonder13662/gimp/assets/15767104/7773abad-3799-4a2d-98e1-971fd9b158fe)
+![90-01-03-08-a101](https://github.com/wonder13662/gimp/assets/15767104/7773abad-3799-4a2d-98e1-971fd9b158fe)
 
 <a id="90-04-49-a101"></a>
 
@@ -47,7 +47,7 @@
 <a id="90-01-03-09-a101"></a>
 
 #### [그림 90.1.3.9.a101. `선택` → `또렷하게`](./90-01-03-09-sharpen.md#90-01-03-09-a101)
-![90-01-03-select(1080)-focus-sharpen](https://github.com/wonder13662/gimp/assets/15767104/55b640bc-7417-4b2a-90b2-f8aaba346979)
+![90-01-03-09-a101](https://github.com/wonder13662/gimp/assets/15767104/55b640bc-7417-4b2a-90b2-f8aaba346979)
 
 <a id="90-01-03-09-a102"></a>
 
