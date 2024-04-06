@@ -3,7 +3,7 @@
 <a id="90-01-05-20-a101"></a>
 
 #### [그림 90.1.5.20.a101. `이미지` → `이미지 성질`](./90-01-05-20-image_properties.md#90-01-05-20-a101)
-![그림 90.1.5.20.a101. `이미지` → `이미지 성질`](https://github.com/wonder13662/gimp/assets/15767104/176a709d-e4bc-477a-8ce2-0cfd458ca55d)
+![90-01-05-20-a101](https://github.com/wonder13662/gimp/assets/15767104/176a709d-e4bc-477a-8ce2-0cfd458ca55d)
 
 이미지 정보를 확인하려면 `이미지(Image)` → `이미지 성질(Image Properties)` 메뉴를 이용해 "이미지 속성(Image Properties)" 대화상자를 엽니다.
 

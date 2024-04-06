@@ -4,7 +4,7 @@
 <a id="90-01-01-05-a101"></a>
 
 #### [그림 90.1.1.5.a101. `파일` → `위치 열기`](./90-01-01-05-open_location.md#90-01-01-05-a101)
-![90-01-01-file-export_as(w1080)-focus-open_location](https://github.com/wonder13662/gimp/assets/15767104/cea94475-0758-4db0-8730-d9360385349b)
+![90-01-01-05-a101](https://github.com/wonder13662/gimp/assets/15767104/cea94475-0758-4db0-8730-d9360385349b)
 
 이 메뉴를 선택하면 URI를 입력할 수 있는 작은 대화 상자가 뜹니다. 
 

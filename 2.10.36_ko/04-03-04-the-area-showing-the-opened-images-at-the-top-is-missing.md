@@ -19,7 +19,7 @@
 <a id="90-01-10-05-a101"></a>
 
 #### [그림 90.1.10.5.a101. `창` → `Show Tabs`](./90-01-10-05-show_tabs.md#90-01-10-05-a101)
-![90-01-10-windows(w1080)-focus-show_tabs](https://github.com/wonder13662/gimp/assets/15767104/a143c671-190a-4982-9f45-3c87a171e616)
+![90-01-10-05-a101](https://github.com/wonder13662/gimp/assets/15767104/a143c671-190a-4982-9f45-3c87a171e616)
 
 <a id="90-01-10-05-a102"></a>
 

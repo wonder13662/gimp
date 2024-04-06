@@ -5,19 +5,19 @@
 <a id="90-01-01-13-a111"></a>
 
 #### [그림 90.1.1.13.a111. 작업중인 이미지가 투명도를 가지는 모습]()
-![image_menu_bar-file(ko)(windows)-export-tranparency_test-xcf_source](https://github.com/wonder13662/gimp/assets/15767104/20997fbf-1d29-4bf7-86eb-ae8b63ef79d4#90-01-01-13-a111)
+![90-01-01-13-a111](https://github.com/wonder13662/gimp/assets/15767104/20997fbf-1d29-4bf7-86eb-ae8b63ef79d4#90-01-01-13-a111)
 
 <a id="90-01-01-13-a112"></a>
 
 #### [그림 90.1.1.13.a112. 투명도를 가지는 이미지를 `jpeg`(투명도를 가지지 않음)으로 출력한 모습](./90-01-01-13-export_as.md#90-01-01-13-a112)
-![image_menu_bar-file(ko)(windows)-export-tranparency_test-jpeg_output](https://github.com/wonder13662/gimp/assets/15767104/cec22f48-e277-457d-b9dd-70caa00f3786)
+![90-01-01-13-a112](https://github.com/wonder13662/gimp/assets/15767104/cec22f48-e277-457d-b9dd-70caa00f3786)
 
 투명도를 이미지에 포함시키기 위해서, 투명도를 지원하는 `png` 또는 `tiff` 같은 다른 이미지 형식으로 바꿔야 합니다.
 
 <a id="90-01-01-13-a113"></a>
 
 #### [그림 90.1.1.13.a113. 투명도를 가지는 이미지를 `png`(투명도를 가짐)으로 출력한 모습](./90-01-01-13-export_as.md#90-01-01-13-a113)
-![image_menu_bar-file(ko)(windows)-export-tranparency_test-png_output](https://github.com/wonder13662/gimp/assets/15767104/bfe00d75-1ed7-4f80-b9ae-b48b99f91cb4)
+![90-01-01-13-a113](https://github.com/wonder13662/gimp/assets/15767104/bfe00d75-1ed7-4f80-b9ae-b48b99f91cb4)
 
 ## 다른 페이지로 가기
 

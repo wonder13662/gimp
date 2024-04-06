@@ -41,7 +41,7 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 <a id="90-01-10-02-a1"></a>
 
 #### [그림 90.1.10.2.a1. `창` → `도킹가능한 대화` (Windows)](./90-01-10-02-00-dockable_dialogs.md#90-01-10-02-a1)
-![그림 90.1.10.2.a1. 창 - 도킹가능한 대화 (Windows)](https://github.com/wonder13662/gimp/assets/15767104/2a664a57-69e3-4890-86c2-400a912ecb2b)
+![90-01-10-02-a1](https://github.com/wonder13662/gimp/assets/15767104/2a664a57-69e3-4890-86c2-400a912ecb2b)
 
 [다른 운영체제와 언어의 `도킹가능한 대화` 확인하기](./90-01-10-02-00-dockable_dialogs.md#90-01-10-02-a2)
 

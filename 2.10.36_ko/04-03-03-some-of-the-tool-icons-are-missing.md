@@ -12,7 +12,7 @@
 <a id="90-02-06-03-a211"></a>
 
 #### [그림 90.2.6.3.a211. `인터페이스` → `도구상자` → `Menu mode` (Windows) (우리말)](./90-02-06-03-toolbox.md#90-02-06-03-a211)
-![90-02-06-interfacex-03-toolbox(ko)(windows)-menu_mode-focus-menu_mode](https://github.com/wonder13662/gimp/assets/15767104/31561911-a06d-4ab4-bb98-40e86e0a0ee1)
+![90-02-06-03-a211](https://github.com/wonder13662/gimp/assets/15767104/31561911-a06d-4ab4-bb98-40e86e0a0ee1)
 
 [다른 운영체제와 언어의 `인터페이스` → `도구상자` → `Menu mode` 확인하기](./90-02-06-03-toolbox.md#90-02-06-03-a212)
 

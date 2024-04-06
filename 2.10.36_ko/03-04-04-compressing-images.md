@@ -15,12 +15,12 @@ GIMP에서 [이미지 메뉴 바](./03-02-02-02-image-menu.md#32222-이미지-�
 <a id="90-01-01-012-a101"></a>
 
 #### [그림 90.1.1.12.a101. `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)` 메뉴의 위치](./90-01-01-12-overwrite.md#90-01-01-012-a101)
-![90-01-01-file-overwrite(w1080)-focus-overwrite](https://github.com/wonder13662/gimp/assets/15767104/246f4277-5f56-4c3d-b1a0-d3cae594c5dd)
+![90-01-01-012-a101](https://github.com/wonder13662/gimp/assets/15767104/246f4277-5f56-4c3d-b1a0-d3cae594c5dd)
 
 <a id="90-04-33-a101-1"></a>
 
 #### [그림 90.4.33.a101. '이미지를 JPEG로 내보내기' 대화상자 (Windows) (우리말)](./90-04-33-export_image_as_jpeg.md#90-04-33-a101)
-![90-04-33-a101](https://github.com/wonder13662/gimp/assets/15767104/b1e96240-69ca-44e6-90a5-782059a2d383)
+![90-04-33-a101-1](https://github.com/wonder13662/gimp/assets/15767104/b1e96240-69ca-44e6-90a5-782059a2d383)
 
 [다른 운영체제와 언어의 '이미지를 JPEG로 내보내기' 대화상자 확인하기](./90-04-33-export_image_as_jpeg.md#90-04-33-a102)
 

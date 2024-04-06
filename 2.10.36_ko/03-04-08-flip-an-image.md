@@ -4,7 +4,7 @@
 <a id="90-01-08-03-11-a101"></a>
 
 #### [그림 90.1.8.3.11.a101. `도구` → `변형 도구` → `뒤집기` (Windows)](./90-01-08-03-11-flip.md#90-01-08-03-11-a101)
-![그림 90.1.8.3.11.a101. `도구` → `변형 도구` → `뒤집기` (Windows)](https://github.com/wonder13662/gimp/assets/15767104/c600ff82-fda1-41f0-b5dd-2474dc062e24)
+![90-01-08-03-11-a101](https://github.com/wonder13662/gimp/assets/15767104/c600ff82-fda1-41f0-b5dd-2474dc062e24)
 
 [다른 운영체제와 언어의 `도구` → `변형 도구` → `뒤집기` 확인하기](./90-01-08-03-11-flip.md#90-01-08-03-11-a102)
 
@@ -18,7 +18,7 @@
 <a id="90-04-01-15-a201"></a>
 
 #### [그림 90.4.1.15.a201. 도구 옵션(Tool Options) 안의 가로모드(Horizontal)와 세로모드(Vertical)](./90-04-01-15-flip.md#90-04-01-15-a201)
-![그림 90.4.1.15.a201. 도구 옵션(Tool Options) 안의 가로모드(Horizontal)와 세로모드(Vertical)](https://github.com/wonder13662/gimp/assets/15767104/8efa0cb3-dadf-4625-bf39-543a3a0058d3)
+![90-04-01-15-a201](https://github.com/wonder13662/gimp/assets/15767104/8efa0cb3-dadf-4625-bf39-543a3a0058d3)
 
 기본 설정으로 사용하면 이미지의 좌우가 뒤집힙니다. 위아래로 뒤집기를 하려면 도구 옵션에서 "Vertical"을 클릭합니다. 
 

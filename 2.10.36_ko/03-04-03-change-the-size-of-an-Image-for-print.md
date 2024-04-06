@@ -6,7 +6,7 @@
 <a id="90-01-05-09-a101"></a>
 
 #### [그림 90.1.5.9.a101. 이미지 메뉴 바에서 '인쇄 크기'의 위치](./90-01-05-09-print_size.md#90-01-05-09-a101)
-![그림 3.4.3.1 인쇄 크기(Print Size...)의 위치](https://github.com/wonder13662/gimp/assets/15767104/e0860f85-9f68-4778-becb-23e3e6d62ac8)
+![90-01-05-09-a101](https://github.com/wonder13662/gimp/assets/15767104/e0860f85-9f68-4778-becb-23e3e6d62ac8)
 
 <a id="90-04-30-a101"></a>
 
