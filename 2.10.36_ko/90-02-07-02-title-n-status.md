@@ -6,7 +6,7 @@
 #### 90.2.7.2.a1. 제목과 상태 (Title & Status) (Windows) (우리말)
 ![90-02-07-02-a1](https://github.com/wonder13662/gimp/assets/15767104/48ec56a1-7da9-467c-b51b-027cbfcb2823)
 
-[3.2.2.9. 상태 표시 영역 (Status Area) - 90.2.7.2.a1]()
+[3.2.2.9. 상태 표시 영역 (Status Area) - 90.2.7.2.a1](./03-02-02-09-status-area.md#90-02-07-02-a1)
 
 <a id="90-02-07-02-a2"></a>
 
