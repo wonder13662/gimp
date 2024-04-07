@@ -18,11 +18,12 @@
 <a id="90-05-08-a3"></a>
 
 #### [영상 90.5.8.a3. 확대/축소 버튼으로 이미지의 크기를 조정하기](./90-05-08-zoom_button.md#90-05-08-a3)
-![90-05-08-a3](https://github.com/wonder13662/gimp/assets/15767104/a1fea92d-db44-4fa8-a7d6-ba5527d25498)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a1fea92d-db44-4fa8-a7d6-ba5527d25498"></video>
 
 ***
 
 ## 다른 페이지로 가기
+
 [➡️ 다음: 3.2.2.9. 상태 표시 영역 (Status Area)](./03-02-02-09-status-area.md)
 
 [⬅️ 이전: 3.2.2.7. 단위 메뉴 (Units Menu)](./03-02-02-07-units-menu.md)
