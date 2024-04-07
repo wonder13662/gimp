@@ -46,6 +46,8 @@
 
 ## 다른 페이지로 가기
 
+[➡️ 다음: 90.90. 개념(Concept)](./90-90-00-concept.md)
+
 [⬅️ 이전: 90.5.16. 탭 메뉴 (Tab Menu)](./90-05-16-tab_menu.md)
 
 [⬆️ 위: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

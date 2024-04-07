@@ -10,7 +10,7 @@
 
 [➡️ 다음: 90.90.1. 컬러 모델(Color Model)](./90-90-01-color_model.md)
 
-[⬅️ 이전: ]()
+[⬅️ 이전: 90.5.17. 이미지 탭 바 (Image Tab Bar)](./90-05-17-image_tab_bar.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 
