@@ -31,9 +31,9 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: ?]()
+[➡️ 다음: 13.4.1. 3D Outlines](./13-04-01-3d_outline.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 13.3.7. Your script and its working](./13-03-07-your-script-and-its-working.md)
 
 [⬆️ 위: 13. 스크립팅](./13-00-scripting.md)
 
