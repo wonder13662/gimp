@@ -44,6 +44,12 @@
 
 [10.1.5. 이미지에서 필요없는 물체 없애기](./10-01-05-00-removing_unwanted_objects_from_an_image.md)
 
+[10.1.5.1. 잡티 없애기(Despeckling)](./10-01-05-01-despeckling.md)
+
+[10.1.5.2. 불필요한 것 제거하기(Garbage Removal)](./10-01-05-02-garbage_removal.md)
+
+[10.1.5.3. 적목 현상 제거(Removing Red-eye)](./10-01-05-03-removing_red_eye.md)
+
 [10.1.6. 결과물 저장하기](./10-01-06-saving_your_results.md)
 
 ***

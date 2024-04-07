@@ -6,7 +6,7 @@
 
 [➡️ 다음: 10.1.5.3. 적목 현상 제거(Removing Red-eye)](./10-01-05-03-removing_red_eye.md)
 
-[⬅️ 이전: 10.1.5.1. 얼룩 지우기(Despeckling)](./10-01-05-01-despeckling.md)
+[⬅️ 이전: 10.1.5.1. 잡티 없애기(Despeckling)](./10-01-05-01-despeckling.md)
 
 [⬆️ 위: 10.1.5. 이미지에서 필요없는 물체 없애기](./10-01-05-00-removing_unwanted_objects_from_an_image.md)
 

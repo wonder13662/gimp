@@ -8,6 +8,8 @@
 
 [10.1.4.2. 거친 정도 줄이기(Reducing Graininess) - 그림 90.4.81.a101](./10-01-04-02-reducing_graininess.md#90-04-81-a101)
 
+[10.1.5.1. 잡티 없애기(Despeckling) - 그림 90.4.81.a101](./10-01-05-01-despeckling.md#90-04-81-a101)
+
 <a id="90-04-81-a102"></a>
 
 #### 그림 90.4.81.a102. `잡티 없애기` 대화상자 (Windows) (영어)
@@ -25,6 +27,27 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9ca58211-df8e-476b-8930-bfc0d781027d"></video>
 
 [10.1.4.2. 거친 정도 줄이기(Reducing Graininess) - 영상 90.4.81.a105](./10-01-04-02-reducing_graininess.md#90-04-81-a105)
+
+<a id="90-04-81-a106"></a>
+
+#### 영상 90.4.81.a106. `잡티 없애기` 대화상자 - CCD의 거친 입자 부드럽게 하기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d91134ee-1d7d-4115-b06e-7bd300d9efba"></video>
+
+[관련 이미지 및 튜토리얼 출처](https://www.gimp.org/tutorials/Reducing_CCD_Noise)
+
+<a id="90-04-81-a111"></a>
+
+#### 그림 90.4.81.a111. 손상된 사진 스캔 이미지 원본
+![damaged_old_photo](https://github.com/wonder13662/gimp/assets/15767104/91c607b8-ac90-4414-aca5-fd737779de1f)
+
+[이미지 출처: pexel.com](https://www.pexels.com/photo/vintage-photo-of-woman-in-coat-with-hands-in-pockets-8537298/)
+
+<a id="90-04-81-a112"></a>
+
+#### 영상 90.4.81.a112. `잡티 없애기` 대화상자 - 손상된 사진 스캔 이미지를 부드럽게 고치기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cf7c7c55-b386-4577-a2c3-c9f8eb9a7e29"></video>
+
+[10.1.5.1. 잡티 없애기(Despeckling) - 영상 90.4.81.a112](./10-01-05-01-despeckling.md#90-04-81-a112)
 
 ***
 
