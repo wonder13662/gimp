@@ -101,14 +101,14 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 ### 왼쪽, 오른쪽 판(Panel) 너비 수정하기
 왼쪽(1,2)과 오른쪽(4,5) 판(panel)의 너비는 마우스 커서가 각 판의 경계에 올라가 있을 경우 나타나는 이동 포인터(moving pointer)를 드래그해서 늘이거나 줄일 수 있습니다. 이동 포인터는 왼쪽 판의 오른쪽 경계, 오른쪽 판의 왼쪽 경계 위에 올라갈 경우 나타납니다. 각 판의 너비를 좁게 두고 싶다면, 도구 옵션의 아래의 스크롤바를 사용하면 됩니다.
 
-<a id="90-05-a323"></a>
+<a id="90-05-a371"></a>
 
-#### [영상 90.5.a323. 왼쪽 판(panel)의 너비를 조정하는 경우](./90-05-00-image_window.md#90-05-a323)
+#### [영상 90.5.a371. 왼쪽 판(panel)의 너비를 조정하는 경우](./90-05-00-image_window.md#90-05-a323)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/122a8fa7-0b37-4651-af7e-c5aea59ccb32"></video>
 
-<a id="90-05-a324"></a>
+<a id="90-05-a372"></a>
 
-#### [영상 90.5.a324. 오른쪽 판(panel)의 너비를 조정하는 경우](./90-05-00-image_window.md#90-05-a324)
+#### [영상 90.5.a372. 오른쪽 판(panel)의 너비를 조정하는 경우](./90-05-00-image_window.md#90-05-a324)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/49be469f-50cb-47d0-9a91-6b0247b56ee5"></video>
 
 ### 이미지 창(Image window) 제어하기
