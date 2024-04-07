@@ -3,8 +3,6 @@
 #### 그림 90.4.15.a1. 붓 대화상자
 <img width="1080" alt="그림 90.4.15.a1. 붓 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/ad919f08-86ac-4258-ae07-67a799afe3df">
 
-#### 그림 2.1.4. 붓 대화상자(brush dialog)
-
 <a id="90-04-15-a101"></a>
 
 #### 그림 90.4.15.a101. 붓 대화상자(brush dialog)
