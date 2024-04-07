@@ -94,6 +94,8 @@
 #### 영상 90.5.a324. 오른쪽 판(panel)의 너비를 조정하는 경우
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/49be469f-50cb-47d0-9a91-6b0247b56ee5"></video>
 
+[3.2. GIMP(김프)의 주요 화면 - 영상 90.5.a324](./03-02-00-main-window.md#90-05-a324)
+
 ***
 
 ## 다른 페이지로 가기
