@@ -8,7 +8,7 @@
 #### 그림 90.4.18.a2. 무늬 대화상자(pattern dialog)
 ![90-04-18-a2](https://github.com/wonder13662/gimp/assets/15767104/c918e337-d746-438c-ab0c-f036dbc7e46f)
 
-[2.1. GIMP(김프) 실행하기 - 그림 90.4.18.a2](./02-01-00-running-gimp.md)
+[2.1. GIMP(김프) 실행하기 - 그림 90.4.18.a2](./02-01-00-running-gimp.md#90-04-18-a2)
 
 ***
 
