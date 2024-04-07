@@ -10,7 +10,7 @@
 <a id="90-05-05-a102"></a>
 
 #### 그림 90.5.5.a102. (5)퀵마스크 토글 버튼의 위치 (단일창)
-![90-05-05-a101](https://github.com/wonder13662/gimp/assets/15767104/64879a12-f3e5-47ad-94da-f47653824bc6)
+![90-05-05-a102](https://github.com/wonder13662/gimp/assets/15767104/64879a12-f3e5-47ad-94da-f47653824bc6)
 
 [3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 그림 90.5.5.a102](./03-02-02-05-quickmask-toggle.md#90-05-05-a102)
 
