@@ -42,7 +42,7 @@
 
 [10.1.4.3. 부드럽게 하기(Softening)](./10-01-04-03-softening.md)
 
-[10.1.5. 이미지에서 필요없는 물체 없애기](./10-01-05-removing_unwanted_objects_from_an_image.md)
+[10.1.5. 이미지에서 필요없는 물체 없애기](./10-01-05-00-removing_unwanted_objects_from_an_image.md)
 
 [10.1.6. 결과물 저장하기](./10-01-06-saving_your_results.md)
 

@@ -24,7 +24,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 10.1.5. 이미지에서 필요없는 물체 없애기](./10-01-05-removing_unwanted_objects_from_an_image.md)
+[➡️ 다음: 10.1.5. 이미지에서 필요없는 물체 없애기](./10-01-05-00-removing_unwanted_objects_from_an_image.md)
 
 [⬅️ 이전: 10.1.4.2. 거친 정도 줄이기(Reducing Graininess)](./10-01-04-02-reducing_graininess.md)
 

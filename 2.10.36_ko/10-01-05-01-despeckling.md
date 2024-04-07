@@ -1,12 +1,14 @@
-# 10.1.5. 이미지에서 필요없는 물체 없애기
+# 10.1.5.1. 얼룩 지우기(Despeckling)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 10.1.6. 결과물 저장하기](./10-01-06-saving_your_results.md)
+[➡️ 다음: 10.1.5.2. 불필요한 것 제거하기(Garbage Removal)](./10-01-05-02-garbage_removal.md)
 
-[⬅️ 이전: 10.1.4. 선명도 조절하기(Adjust Sharpness)](./10-01-04-00-adjusting_sharpness.md)
+[⬅️ 이전: ]()
+
+[⬆️ 위: 10.1.5. 이미지에서 필요없는 물체 없애기](./10-01-05-00-removing_unwanted_objects_from_an_image.md)
 
 [⬆️ 위: 10.1. 디지털 카메라로 찍은 사진 편집하기](./10-01-00-working-with-digital-camera-photos.md)
 
