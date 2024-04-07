@@ -103,12 +103,12 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 
 <a id="90-05-a371"></a>
 
-#### [영상 90.5.a371. 왼쪽 판(panel)의 너비를 조정하는 경우](./90-05-00-image_window.md#90-05-a323)
+#### [영상 90.5.a371. 왼쪽 판(panel)의 너비를 조정하는 경우](./90-05-00-image_window.md#90-05-a371)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/122a8fa7-0b37-4651-af7e-c5aea59ccb32"></video>
 
 <a id="90-05-a372"></a>
 
-#### [영상 90.5.a372. 오른쪽 판(panel)의 너비를 조정하는 경우](./90-05-00-image_window.md#90-05-a324)
+#### [영상 90.5.a372. 오른쪽 판(panel)의 너비를 조정하는 경우](./90-05-00-image_window.md#90-05-a372)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/49be469f-50cb-47d0-9a91-6b0247b56ee5"></video>
 
 ### 이미지 창(Image window) 제어하기
