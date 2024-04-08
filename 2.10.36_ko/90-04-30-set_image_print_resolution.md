@@ -7,6 +7,8 @@
 
 [3.4.3. 이미지의 크기 바꾸기 (인쇄용) - 그림 90.4.30.a101](./03-04-03-change-the-size-of-an-Image-for-print.md#90-04-30-a101)
 
+[10.1.6.2. 사진 인쇄하기(Printing Your Photos)](./10-01-06-02-printing_your_photos.md#90-04-30-a101)
+
 <a id="90-04-30-a102"></a>
 
 #### 그림 90.4.30.a102. 인쇄 해상도 설정 대화상자 (Windows) (영어)
