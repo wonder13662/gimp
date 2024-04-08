@@ -1854,6 +1854,8 @@
 
 [90.4.82. 가우시안 흐림처리(Gaussian Blur)](./90-04-82-gaussian_blur.md)
 
+[90.4.83. 적목 제거(Red Eye Removal)](./90-04-83-red_eye_removal.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

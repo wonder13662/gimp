@@ -412,6 +412,10 @@
 #### 그림 90.4.82.a101. `가우시안 흐림처리` 대화상자 (Windows) (우리말)
 ![그림 90 4 82 a101  `가우시안 흐림처리` 대화상자 (Windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/b1edba3b-1764-42a5-a6be-0c03be3b662a)
 
+### [90.4.83. 적목 제거(Red Eye Removal)](./90-04-83-red_eye_removal.md)
+#### 그림 90.4.83.a101. `적목 제거` 대화상자 (Windows) (우리말)
+![90-04-83-a101](https://github.com/wonder13662/gimp/assets/15767104/a99788db-2056-46d2-beef-6564dfd1f3ab)
+
 ***
 
 ## 공통 기능

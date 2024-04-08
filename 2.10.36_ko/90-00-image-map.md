@@ -1306,6 +1306,8 @@
 
 [90.4.82. 가우시안 흐림처리(Gaussian Blur)](./90-04-82-gaussian_blur.md)
 
+[90.4.83. 적목 제거(Red Eye Removal)](./90-04-83-red_eye_removal.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
