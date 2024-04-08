@@ -26,7 +26,7 @@
 
 [10.1.5.1. 잡티 없애기(Despeckling)](./10-01-05-01-despeckling.md)
 
-[10.1.5.2. 불필요한 것 제거하기(Garbage Removal)](./10-01-05-02-garbage_removal.md)
+[10.1.5.2. 불필요한 것 제거하기(Garbage Removal)](./10-01-05-02-00-garbage_removal.md)
 
 [10.1.5.3. 적목 현상 제거(Removing Red-eye)](./10-01-05-03-removing_red_eye.md)
 
