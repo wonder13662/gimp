@@ -28,7 +28,10 @@
 
 [10.1.5.2.2. Mac OSX에서 Resynthesizer 사용하기](./10-01-05-02-02-resynthesizer_on_mac.md)
 
-(TODO Windows 환경에서 Resynthesizer 사용 영상 추가하기)
+<a id="10-01-05-02-01-a11"></a>
+
+#### [영상 10.1.5.2.1.a11. 사용하기](./10-01-05-02-01-resynthesizer_on_windows.md#10-01-05-02-01-a11)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0477be8f-4c32-4109-95f7-55e7ad9bd0cf"></video>
 
 ***
 
