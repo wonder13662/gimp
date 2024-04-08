@@ -18,11 +18,11 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fa699710-6f4f-49b9-a828-a1c0acf68108"></video>
 
 ### 1-2. 플러그인 파일 설치
-6. GIMP(김프)를 엽니다.
-7. 기본설정(Preferences)을 열어, 폴더(Folders)의 `Plug-ins`을 선택합니다.
-8. GIMP(김프)의 `Plug-ins`의 기본 디렉토리 위치를 클릭한 뒤, 캐비닛 모양의 버튼을 클릭합니다.
-9. 파일 탐색기가 열립니다. 파일 탐색기에서 `plug-ins` 디렉토리를 클릭합니다.
-10. 압축을 풀었던 디렉토리에 들어가서 아래 파일들을 선택합니다. 선택한 파일외에는 GIMP(김프)에서 동작하지 않으므로 참고하세요.
+1. GIMP(김프)를 엽니다.
+2. 기본설정(Preferences)을 열어, 폴더(Folders)의 `Plug-ins`을 선택합니다.
+3. GIMP(김프)의 `Plug-ins`의 기본 디렉토리 위치를 클릭한 뒤, 캐비닛 모양의 버튼을 클릭합니다.
+4. 파일 탐색기가 열립니다. 파일 탐색기에서 `plug-ins` 디렉토리를 클릭합니다.
+5. 압축을 풀었던 디렉토리에 들어가서 아래 파일들을 선택합니다. 선택한 파일외에는 GIMP(김프)에서 동작하지 않으므로 참고하세요.
    - plugin-heal-selection.py
    - plugin-heal-transparency.py
    - plugin-render-texture.py
@@ -31,21 +31,21 @@
    - plugin-resynth-sharpen.py
    - resynthesizer-gui.exe
    - resynthesizer.exe
-11. 선택한 파일을 파일 탐색기의 `plug-ins` 디렉토리로 복사합니다.
+6. 선택한 파일을 파일 탐색기의 `plug-ins` 디렉토리로 복사합니다.
 
 <a id="10-01-05-02-01-a2"></a>
 
 #### 그림 10.1.5.2.1.a2. 설치하기: Part 2
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6ae6d745-a4e6-42bb-a75b-ecf80b4706d8"></video>
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d2a1be3f-56d8-417d-9a0f-147438d33664"></video>
 
 ### 1-3. GIMP(김프) 재시작 및 설치 확인
-12. GIMP(김프)를 재시작합니다.
-13. [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `필터` → `보강` → `Heal selection...`을 확인할 수 있다면, 설치가 완료된 것입니다.
+1. GIMP(김프)를 재시작합니다.
+2. [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `필터` → `보강` → `Heal selection...`을 확인할 수 있다면, 설치가 완료된 것입니다.
 
 <a id="10-01-05-02-01-a3"></a>
 
 #### 그림 10.1.5.2.1.a3. 설치하기: Part 3
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ae07e05f-42a8-41b8-a1fa-08a76905ce6e"></video>
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4f37fd72-bf52-4dea-9ed0-9325f330e0a4"></video>
 
 ## 2. 사용하기 - Heal selection
 1. GIMP(김프)를 재시작합니다.
