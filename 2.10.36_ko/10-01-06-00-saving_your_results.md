@@ -14,7 +14,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 11. Color management with GIMP](./11-00-color-management-with-gimp.md)
+[➡️ 다음: 10.1.6.1. 파일(Files)](./10-01-06-01-files.md)
 
 [⬅️ 이전: 10.1.5.3. 적목 현상 제거(Removing Red-eye)](./10-01-05-03-removing_red_eye.md)
 
