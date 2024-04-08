@@ -22,7 +22,7 @@
 
 ## 3. `Resynthesizer` 플러그인으로 불필요한 것 제거하기
 
-어떤 경우에는 `Resynthesizer` 플러그인을 사용하는 것이 좋을 수도 있습니다. `Resynthesizer` 플러그인은 이미지에서 제거할 대상을 잘라낸 뒤에, 빈 공간을 채웁니다. `Resynthesizer` 플러그인은 GIMP(김프)에서 기보능로 제공되는 플러그인이 아니므로 사용자가 직접 설치해야 합니다. 각 운영체제마다 아래 링크를 확인해서 `Resynthesizer` 플러그인을 설치해보세요.
+어떤 경우에는 `Resynthesizer` 플러그인을 사용하는 것이 좋을 수도 있습니다. `Resynthesizer` 플러그인은 이미지에서 제거할 대상을 잘라낸 뒤에, 빈 공간을 채웁니다. `Resynthesizer` 플러그인은 GIMP(김프)에서 기본으로 제공되는 플러그인이 아니므로 사용자가 직접 설치해야 합니다. 각 운영체제마다 아래 링크를 확인해서 `Resynthesizer` 플러그인을 설치해보세요.
 
 [10.1.5.2.1. Windows에서 Resynthesizer 사용하기](./10-01-05-02-01-resynthesizer_on_windows.md)
 
