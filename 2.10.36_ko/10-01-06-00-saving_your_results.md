@@ -2,11 +2,21 @@
 
 ***
 
+## 하위 페이지
+
+[10.1.6.1. 파일(Files)](./10-01-06-01-files.md)
+
+[10.1.6.2. 사진 인쇄하기(Printing Your Photos)](./10-01-06-02-printing_your_photos.md)
+
+[10.1.6.3. EXIF 데이터(EXIF Data)](./10-01-06-03-exif_data.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 11. Color management with GIMP](./11-00-color-management-with-gimp.md)
 
-[⬅️ 이전: 10.1.5. 이미지에서 필요없는 물체 없애기](./10-01-05-00-removing_unwanted_objects_from_an_image.md)
+[⬅️ 이전: 10.1.5.3. 적목 현상 제거(Removing Red-eye)](./10-01-05-03-removing_red_eye.md)
 
 [⬆️ 위: 10.1. 디지털 카메라로 찍은 사진 편집하기](./10-01-00-working-with-digital-camera-photos.md)
 

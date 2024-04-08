@@ -50,7 +50,13 @@
 
 [10.1.5.3. 적목 현상 제거(Removing Red-eye)](./10-01-05-03-removing_red_eye.md)
 
-[10.1.6. 결과물 저장하기](./10-01-06-saving_your_results.md)
+[10.1.6. 결과물 저장하기](./10-01-06-00-saving_your_results.md)
+
+[10.1.6.1. 파일(Files)](./10-01-06-01-files.md)
+
+[10.1.6.2. 사진 인쇄하기(Printing Your Photos)](./10-01-06-02-printing_your_photos.md)
+
+[10.1.6.3. EXIF 데이터(EXIF Data)](./10-01-06-03-exif_data.md)
 
 ***
 
