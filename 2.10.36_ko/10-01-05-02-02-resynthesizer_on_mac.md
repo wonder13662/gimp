@@ -1,9 +1,35 @@
 # 10.1.5.2.2. Mac OSX에서 Resynthesizer 사용하기
 ## 1. 설치하기
-1. [Github의 Resynthesizer 저장소 페이지](https://github.com/bootchk/resynthesizer)로 이동합니다.
-2. 도착한 페이지에서 [install Resynthesizer for Windows](https://github.com/bootchk/resynthesizer/wiki/Install-Resynthesizer#windows)를 클릭해서 설치 안내 페이지로 이동합니다.
 
-(TODO 설치 영상 추가하기)
+사용자의 Mac에 MacPorts가 설치되어 있지 않다면, [MacPorts 설치하기](https://guide.macports.org/) 페이지의 내용을 확인하여 MacPorts를 설치합니다. 설치가 완료되었다면, 아래 명령으로 MacPorts가 설치되었는지 확인합니다.
+
+```
+$ port version
+```
+
+사용자의 Mac에 MacPorts를 설치한 뒤에, [MacPorts의 gimp-resynthesizer](https://ports.macports.org/port/gimp-resynthesizer/details/)를 설치합니다.
+
+```
+$ sudo port install gimp-resynthesizer
+```
+
+⚠️ 주의: 처음으로 MacPorts를 설치하는 경우, `gimp-resynthesizer`에 필요한 라이브러리를 설치하기 위해 오래 기다려야 할 수 있습니다. 이 예제를 위해 설치할 당시, 약 7분 30초 정도가 걸려 설치가 완료되었습니다.
+
+#### 영상 10.1.5.2.2.a1. Mac의 터미널에서 MacPorts로 `gimp-resynthesizer` 설치 (Mac) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/106c8e8a-32b3-44f8-99ee-2c62bdef602d"></video>
+
+[MacPorts의 gimp-resynthesizer](https://ports.macports.org/port/gimp-resynthesizer/details/)을 설치한 이후에 아래 명령으로 플러그인 파일이 설치된 위치를 확인해야 합니다.
+
+```
+$ port contents gimp-resynthesizer
+```
+
+플러그인 파일의 경로를 확인해서 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `기본 설정` → `폴더` → `플러그인`에서 플러그인 파일의 경로를 추가합니다.
+
+GIMP(김프)를 재시작하면, Resynthesizer 플러그인이 설치된 것을 확인할 수 있습니다.
+
+#### 영상 10.1.5.2.2.a2. GIMP(김프)에 플러그인 경로 추가 (Mac) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/58f01bee-cecc-41d1-a3ef-ed8c77113bae"></video>
 
 ## 2. 사용하기 - Heal selection
 1. GIMP(김프)를 재시작합니다.
@@ -19,7 +45,8 @@
 6. `python_fu_heal_selection` 대화상자의 입력항목의 값을 설정한 뒤에 `OK` 버튼을 클릭합니다.
 7. 제거할 대상이 이미지에서 지워진 것을 확인할 수 있습니다.
 
-(TODO 사용하기 영상 추가하기)
+#### 영상 10.1.5.2.2.a3. 플러그인 `Heal Selection` 사용 (Mac) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/af379030-c0ee-44a9-8f42-4f7ea6a11221"></video>
 
 ***
 
