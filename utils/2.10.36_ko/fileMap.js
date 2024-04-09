@@ -599,11 +599,13 @@ module.exports = {
       ],
       [
         '11-00-color-management-with-gimp.md', 
-        '11. Color management with GIMP'
+        '11. Color management with GIMP',
+        '11. GIMP(김프)에서의 색상 관리',
       ],
       [
-        '11-01-color-management-in-gimp.md', 
-        '11.1. Color management in GIMP'
+        '11-01-00-color-management-in-gimp.md', 
+        '11.1. Color management in GIMP',
+        '11.1. GIMP(김프)에서의 색상 관리'
       ],
       [
         '12-00-enrich-my-gimp.md', 
