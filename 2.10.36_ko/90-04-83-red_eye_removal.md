@@ -30,7 +30,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.84. 메타데이터 뷰어(Metadata Viewer)](./90-04-84-metadata_viewer.md)
 
 [⬅️ 이전: 90.4.82. 가우시안 흐림처리(Gaussian Blur)](./90-04-82-gaussian_blur.md)
 
