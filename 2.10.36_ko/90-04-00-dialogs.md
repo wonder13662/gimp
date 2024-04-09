@@ -416,6 +416,10 @@
 #### 그림 90.4.83.a101. `적목 제거` 대화상자 (Windows) (우리말)
 ![90-04-83-a101](https://github.com/wonder13662/gimp/assets/15767104/a99788db-2056-46d2-beef-6564dfd1f3ab)
 
+### [90.4.84. 메타데이터 뷰어(Metadata Viewer)](./90-04-84-metadata_viewer.md)
+#### 그림 90.4.84.a101. `메타데이터 뷰어` 대화상자 (Windows) (우리말)
+![90-04-84-a101](https://github.com/wonder13662/gimp/assets/15767104/c01c2215-b9e4-4347-b445-74cd53be7911)
+
 ***
 
 ## 공통 기능
