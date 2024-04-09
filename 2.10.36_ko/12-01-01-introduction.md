@@ -1,6 +1,42 @@
-# 12.1.1. Introduction
+# 12.1.1. 소개
 
-### [Home](./00-home.md)
-### [Parent: 12.1. Preference dialog](./12-01-00-preference-dialog.md)
-### [Prev: 11.1. GIMP(김프)에서의 색상 관리](./11-01-00-color-management-in-gimp.md)
-### [Next: 12.1.2. System Resources](./12-01-02-system-resources.md)
+<a id="90-02-a1"></a>
+
+#### [그림 90.2.a1. 기본 설정 좌측 메뉴 목록](./90-02-00-preference.md#90-02-a1)
+![90-02-a1](https://github.com/wonder13662/gimp/assets/15767104/e20eb713-6ff2-4bc0-944b-cdb021e01974)
+
+기본설정 대화상자를 접근하는 방법은 운영체제마다 조금 다릅니다.
+
+### Windows: `편집` → `기본설정`
+
+<a id="90-01-02-21-a101"></a>
+
+#### 그림 90.1.2.21.a101. `편집` → `기본 설정`
+![90-01-02-21-a101](https://github.com/wonder13662/gimp/assets/15767104/8426a638-5149-4df4-a5d3-5fae46fa701c)
+
+### Mac OSX: `GIMP` → `기본설정`
+
+<a id="90-01-12-03-a1"></a>
+
+#### 그림 90.1.12.3.a1. `GIMP` → `기본 설정`
+![90-01-12-03-a1](https://github.com/wonder13662/gimp/assets/15767104/7b12ebb7-3b19-4c74-9950-5033182ba4ff)
+
+기본설정 대화상자는 GIMP(김프)의 동작하는 방식을 바꿀 수 있습니다. 이어지는 내용은 사용자가 바꿀 수 있는 설정과 효과에 대해서 설명하고 있습니다.
+
+기본 설정에서 설정한 모든 내용은 GIMP(김프) 사용자 디렉토리의 `gimprc` 파일에 저장됩니다. 따라서 이 파일을 텍스트 에디터로 직접 수정할 수도 있습니다. 그리고 만약 리눅스를 사용하고 있다면, `man gimprc` 명령(참고: gimprc에 대한 매뉴얼을 보여주는 명령)을 통해 파일 내용과 사용 방법에 대해 많은 정보를 얻을 수 있습니다.
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 12.1.2. 시스템 자원(System Resources)](./12-01-02-system-resources.md)
+
+[⬅️ 이전: 12.1. 기본설정 대화상자](./12-01-00-preference-dialog.md)
+
+[⬆️ 위: 12.1. 기본설정 대화상자](./12-01-00-preference-dialog.md)
+
+[⬆️ 위: 12. 나만의 GIMP(김프) 만들기](./12-00-enrich-my-gimp.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/en_GB/gimp-pimping.html#idm7946)

@@ -1,6 +1,11 @@
 # 90.2. 기본 설정(Preference)
 
-<img width="720" alt="90.2. 기본 설정(Preference)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e20eb713-6ff2-4bc0-944b-cdb021e01974">
+<a id="90-02-a1"></a>
+
+#### 그림 90.2.a1. 기본 설정 좌측 메뉴 목록
+![90-02-a1](https://github.com/wonder13662/gimp/assets/15767104/e20eb713-6ff2-4bc0-944b-cdb021e01974)
+
+[12.1.1. 소개 - 그림 90.2.a1](./12-01-01-introduction.md#90-02-a1)
 
 ## [90.2.1. 시스템 리소스(System Resource)](./90-02-01-system-resource.md)
 [<img width="720" alt="90.2.1.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/566c6134-42c4-4db7-a9e7-105608e1b9fa">](./90-02-01-system-resource.md)

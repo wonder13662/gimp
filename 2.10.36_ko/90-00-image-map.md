@@ -771,6 +771,30 @@
 
 [90.1.11.2. 도움말(Help) - 사용자 설명서(User manual)](./90-01-11-02-user_manual.md)
 
+[90.1.12. GIMP](./90-01-12-00-gimp.md)
+
+[90.1.12.1. GIMP(김프)에 대하여(About GIMP)](./90-01-12-01-about_gimp.md)
+
+[90.1.12.2. 서비스(Services)](./90-01-12-02-services.md)
+
+[90.1.12.3. 기본 설정(Settings...)](./90-01-12-03-settings.md)
+
+[90.1.12.4. 입력장치(Input Devices)](./90-01-12-04-input_devices.md)
+
+[90.1.12.5. 키보드 단축키(Keyboard Shortcuts)](./90-01-12-05-keyboard_shortcuts.md)
+
+[90.1.12.6. 모듈(Modules)](./90-01-12-06-modules.md)
+
+[90.1.12.7. 단위(Units)](./90-01-12-07-units.md)
+
+[90.1.12.8. GIMP(김프) 숨기기(Hide GIMP)](./90-01-12-08-hide_gimp.md)
+
+[90.1.12.9. 다른 것 숨기기(Hide Others)](./90-01-12-09-hide_others.md)
+
+[90.1.12.10. 모두 보여주기(Show All)](./90-01-12-10-show_all.md)
+
+[90.1.12.11. GIMP(김프) 끝내기(Quit GIMP)](./90-01-12-11-quit_gmip.md)
+
 <a id="90-00-s2"></a>
 
 ## [90.2. 기본 설정(Preference)](./90-02-00-preference.md)

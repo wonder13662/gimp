@@ -1,12 +1,12 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 90.1.12.4. 입력장치(Input Devices)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 90.1.12.5. 키보드 단축키(Keyboard Shortcuts)](./90-01-12-05-keyboard_shortcuts.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 90.1.12.3. 기본 설정(Settings...)](./90-01-12-03-settings.md)
 
 [⬆️ 위: 90.1.12. GIMP](./90-01-12-00-gimp.md)
 
