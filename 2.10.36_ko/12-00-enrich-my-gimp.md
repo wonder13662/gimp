@@ -4,7 +4,7 @@
 
 ## 하위 페이지
 
-[12.1. 기본설정 대화상자](./12-01-preference-dialog.md)
+[12.1. 기본설정 대화상자](./12-01-00-preference-dialog.md)
 
 [12.1.1. 소개](./12-01-01-introduction.md)
 
@@ -74,7 +74,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 12.1. 기본설정 대화상자](./12-01-preference-dialog.md)
+[➡️ 다음: 12.1. 기본설정 대화상자](./12-01-preference12-01-00-preference-dialog.md-dialog.md)
 
 [⬅️ 이전: 11.1.2.3. 모의 인쇄](./11-01-02-02-display.md)
 
