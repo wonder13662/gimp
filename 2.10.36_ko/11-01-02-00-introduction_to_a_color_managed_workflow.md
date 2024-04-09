@@ -16,7 +16,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 12. Enrich my GIMP](./12-00-enrich-my-gimp.md)
+[➡️ 다음: 11.1.2.1. 입력](./11-01-02-01-input.md)
 
 [⬅️ 이전: 11.1.1. 색상 관리를 하지 않는 작업의 문제점](./11-01-01-problems_of_a_non_color_managed_workflow.md)
 

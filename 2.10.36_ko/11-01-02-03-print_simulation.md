@@ -4,9 +4,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 12. Enrich my GIMP](./12-00-enrich-my-gimp.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 11.1.2.2. 화면](./11-01-02-02-display.md)
 
 [⬆️ 위: 11.1.2. 색상 관리 작업 소개](./11-01-02-00-introduction_to_a_color_managed_workflow.md)
 

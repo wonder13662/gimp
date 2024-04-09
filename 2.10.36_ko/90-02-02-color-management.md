@@ -1,20 +1,23 @@
 # 90.2.2. 색상관리 (Color Management)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 90.2.2.a1. 언어설정: 우리말 (한국어) - windows
+#### 그림 90.2.2.a1. `기본설정` → `색상관리` (Windows) (우리말)
+![90-02-02-a1](https://github.com/wonder13662/gimp/assets/15767104/bb017670-c041-49ea-a783-c5084fb3eece)
 
-<img width="720" alt="90.2.2.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/1bf19100-fd45-4c14-aa76-ca9b55e66b42">
+#### 그림 90.2.2.a2. `기본설정` → `색상관리` (Windows) (영어)
+![90-02-02-a3](https://github.com/wonder13662/gimp/assets/15767104/fa59372d-f147-48ac-862f-03469076c758)
 
-#### 90.2.2.a2. 언어설정: 우리말 (한국어) - mac
+#### 그림 90.2.2.a3. `기본설정` → `색상관리` (Mac) (우리말)
+![90-02-02-a2](https://github.com/wonder13662/gimp/assets/15767104/fed2cf8e-f004-4a68-8c00-40ef71d4228a)
 
-<img width="720" alt="90.2.2.a2. 언어설정: 우리말 (한국어) - mac" src="https://github.com/wonder13662/gimp/assets/15767104/fed2cf8e-f004-4a68-8c00-40ef71d4228a">
+#### 그림 90.2.2.a4. `기본설정` → `색상관리` (Mac) (영어)
+![90-02-02-a4](https://github.com/wonder13662/gimp/assets/15767104/b9480594-ca6a-4a72-80d8-0a69833601ab)
 
-#### 90.2.2.a3. 언어설정: 영어 - windows
+<a id="90-02-02-a11"></a>
 
-<img width="720" alt="90.2.2.a3. 언어설정: 영어 - windows" src="https://github.com/wonder13662/gimp/assets/15767104/063b33e9-79ca-40d4-8771-78983a2e1518">
+#### 그림 90.2.2.a11. `기본설정` → `색상관리` → `색상 관리 디스플레이` → `모니터 프로파일` (Windows) (우리말)
+![90-02-02-a11](https://github.com/wonder13662/gimp/assets/15767104/8c24a2e7-d20a-4782-9518-bce8d69709e6)
 
-#### 90.2.2.a4. 언어설정: 영어 - mac
-
-<img width="720" alt="90.2.2.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/b9480594-ca6a-4a72-80d8-0a69833601ab">
+[11.1.2.2. 화면 - 그림 90.2.2.a11](./11-01-02-02-display.md#90-02-02-a11)
 
 ***
 
