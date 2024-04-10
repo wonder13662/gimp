@@ -58,6 +58,18 @@
 #### 그림 90.2.1.a134. `시스템 리소스` → `자원 소비량` → `스왑 압축` (Mac) (영어)
 ![90-02-01-a134(50%)-focus-swap_compression](https://github.com/wonder13662/gimp/assets/15767104/692560e4-bf3d-4cf6-a145-25b3f1326336)
 
+<a id="90-02-01-a141"></a>
+
+#### 그림 90.2.1.a141. `시스템 리소스` → `네트워크 접근` (Windows)
+![90-02-01-system-resource(windows)-focus-network_access(w1080)](https://github.com/wonder13662/gimp/assets/15767104/91c3df40-81fb-4cf8-b549-1f50c174ea46)
+
+[12.1.2.2. 네트워크 접근(Network Access) - 그림 90.2.1.a141](./12-01-02-02-network_access.md#90-02-01-a141)
+
+<a id="90-02-01-a142"></a>
+
+#### 그림 90.2.1.a142. `시스템 리소스` → `네트워크 접근` (Mac)
+![90-02-01-system-resource(mac)-focus-network_access(w1080)](https://github.com/wonder13662/gimp/assets/15767104/4fce482e-b3ef-4bb0-8321-8e3e3b7ec494)
+
 ***
 
 ## 다른 페이지로 가기

@@ -1,5 +1,15 @@
 # 12.1.2.2. 네트워크 접근(Network Access)
 
+<a id="90-02-01-a141"></a>
+
+#### [그림 90.2.1.a141. `시스템 리소스` → `네트워크 접근` (Windows)](./90-02-01-system-resource.md#90-02-01-a141)
+![90-02-01-system-resource(windows)-focus-network_access(w1080)](https://github.com/wonder13662/gimp/assets/15767104/91c3df40-81fb-4cf8-b549-1f50c174ea46)
+
+[다른 운영체제와 언어의 `시스템 리소스` → `네트워크 접근` 확인하기](./90-02-01-system-resource.md#90-02-01-a142)
+
+## 업데이트 검사(Check for update)
+`업데이트 검사(Check for update)` 체크박스를 체크하면, GIMP(김프)가 시작될 때마다 새로운 버전이 사용가능한지 검사합니다. 만약 사용가능한 새로운 버전이 있다면, 업데이트를 할 수 있는 대화상자를 띄웁니다. 이 옵션은 인터넷 연결이 필요합니다.
+
 ***
 
 ## 다른 페이지로 가기
