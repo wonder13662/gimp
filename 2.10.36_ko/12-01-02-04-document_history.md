@@ -1,5 +1,27 @@
 # 12.1.2.4. 문서 이력(Document History)
 
+<a id="90-02-01-a161"></a>
+
+#### [그림 90.2.1.a161. `시스템 리소스` → `문서 이력` (Windows)](./90-02-01-system-resource.md#90-02-01-a161)
+![90-02-01-a161](https://github.com/wonder13662/gimp/assets/15767104/8458d2a3-7f77-4d8f-8a79-e01b2b6c40eb)
+
+[다른 운영체제와 언어의 `시스템 리소스` → `문서 이력` 확인하기](./90-02-01-system-resource.md#90-02-01-a162)
+
+## 최근 문서 목록에서 사용한 파일의 기록을 유지(Keep record of used files in the Recent Documents list)
+`최근 문서 목록에서 사용한 파일의 기록을 유지` 옵션을 체크하면, 사용자가 열었던 이미지 파일들은 [문서 이력 대화상자](./15-04-03-document-history-dialog.md)에 저장됩니다. [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `파일` → `최근 연 파일` → `문서 이력` 메뉴를 클릭해서 [문서 이력 대화상자](./15-04-03-document-history-dialog.md)을 엽니다. 이 대화상자에서 사용자가 열었던 이미지 파일들을 확인해서 다시 열 수 있습니다.
+
+<a id="90-01-01-06-a101"></a>
+
+#### [그림 90.1.1.6.a101. `파일` → `최근 연 파일` (Windows) (우리말)](./90-01-01-06-open_recent.md#90-01-01-06-a101)
+![90-01-01-filex-02-open_recent(우리말)(windows)](https://github.com/wonder13662/gimp/assets/15767104/8b3469cd-433a-4fe9-924a-11ca476febb8)
+
+[다른 운영체제와 언어의 `파일` → `최근 연 파일` 확인하기](./90-01-01-06-open_recent.md#90-01-01-06-a102)
+
+<a id="90-04-25-a1"></a>
+
+#### 그림 90.4.25.a1. 문서 이력 대화상자
+![90-04-25-a1](https://github.com/wonder13662/gimp/assets/15767104/88c5223f-c760-4132-b0f3-274efd8a5067)
+
 ***
 
 ## 다른 페이지로 가기
