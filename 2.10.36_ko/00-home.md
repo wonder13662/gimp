@@ -612,7 +612,7 @@
 
 [12.1.3. 디버깅(Debugging)](./12-01-03-debugging.md)
 
-[12.1.4. 색상 관리(Color Management)](./12-01-04-color-management.md)
+[12.1.4. 색상 관리(Color Management)](./12-01-04-00-color-management.md)
 
 [12.1.5. 이미지 불러오기와 내보내기(Image Import and Export)](./12-01-05-image-import-and-export.md)
 
@@ -1519,6 +1519,8 @@
 [90.2.9.15. 아이콘 테마(Icon Themes)](./90-02-09-15-icon_themes.md)
 
 [90.2.10. 실험 놀이터 (Experimental Playground)](./90-02-10-playground.md)
+
+[90.2.11. 디버깅(Debugging)](./90-02-11-debugging.md)
 
 [90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
 

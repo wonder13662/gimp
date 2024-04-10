@@ -1,7 +1,14 @@
 # 90.2.2. 색상관리 (Color Management)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
+
+<a id="90-02-02-a1"></a>
+
 #### 그림 90.2.2.a1. `기본설정` → `색상관리` (Windows) (우리말)
 ![90-02-02-a1](https://github.com/wonder13662/gimp/assets/15767104/bb017670-c041-49ea-a783-c5084fb3eece)
+
+[12.1.4. 색상 관리(Color Management) - 그림 90.2.2.a1](./12-01-04-00-color-management.md#90-02-02-a1)
+
+<a id="90-02-02-a2"></a>
 
 #### 그림 90.2.2.a2. `기본설정` → `색상관리` (Windows) (영어)
 ![90-02-02-a3](https://github.com/wonder13662/gimp/assets/15767104/fa59372d-f147-48ac-862f-03469076c758)

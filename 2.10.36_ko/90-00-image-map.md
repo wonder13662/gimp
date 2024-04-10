@@ -874,6 +874,8 @@
 
 [90.2.10. 실험 놀이터 (Experimental Playground)](./90-02-10-playground.md)
 
+[90.2.11. 디버깅(Debugging)](./90-02-11-debugging.md)
+
 <a id="90-00-s3"></a>
 
 ## [90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)

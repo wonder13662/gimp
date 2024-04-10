@@ -30,7 +30,7 @@ GIMP(김프)의 충돌 상황에만 디버깅을 시작합니다.
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 12.1.4. 색상 관리(Color Management)](./12-01-04-color-management.md)
+[➡️ 다음: 12.1.4. 색상 관리(Color Management)](./12-01-04-00-color-management.md)
 
 [⬅️ 이전: 12.1.2.4. 문서 이력(Document History)](./12-01-02-04-document_history.md)
 

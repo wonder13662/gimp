@@ -631,7 +631,7 @@ module.exports = {
         '12.1.3. Debugging'
       ],
       [
-        '12-01-04-color-management.md', 
+        '12-01-04-00-color-management.md', 
         '12.1.4. Color Management',
         '12.1.4. 색상 관리',
       ],

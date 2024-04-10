@@ -101,7 +101,12 @@
 [90.2.9.15. 아이콘 테마(Icon Themes)](./90-02-09-15-icon_themes.md)
 
 ## [90.2.10. 실험 놀이터 (Experimental Playground)](./90-02-10-playground.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.2.10.a101. 기본 설정(preference page)의 실험적 기능(experimental features) 항목 비교
+![90-02-10-a101](https://github.com/wonder13662/gimp/assets/15767104/0c9bd441-4cb1-4aac-80d9-3b387ab124cc)
+
+## [90.2.11. 디버깅(Debugging)](./90-02-11-debugging.md)
+#### 그림 90.2.11.a1. `기본 설정` → `디버깅` (Mac) (우리말)
+![90-02-11-a1(50%)](https://github.com/wonder13662/gimp/assets/15767104/5258e2b0-c5cc-49e1-8acd-0ce2902b4af9)
 
 ***
 

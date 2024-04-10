@@ -20,7 +20,7 @@
 
 [12.1.3. 디버깅(Debugging)](./12-01-03-debugging.md)
 
-[12.1.4. 색상 관리(Color Management)](./12-01-04-color-management.md)
+[12.1.4. 색상 관리(Color Management)](./12-01-04-00-color-management.md)
 
 [12.1.5. 이미지 불러오기와 내보내기(Image Import and Export)](./12-01-05-image-import-and-export.md)
 
