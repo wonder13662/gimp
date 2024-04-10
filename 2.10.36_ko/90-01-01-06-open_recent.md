@@ -8,8 +8,6 @@
 
 [5.3.3. 최근 연 파일 - 그림 90.1.1.6.a101](./05-03-03-open-recent.md#90-01-01-06-a101)
 
-[12.1.2.4. 문서 이력(Document History) - 그림 90.1.1.6.a101](./12-01-02-04-document_history.md#90-01-01-06-a101)
-
 #### 그림 90.1.1.6.a102. `파일` → `최근 연 파일` (Windows) (영어)
 ![90-01-01-filex-02-open_recent(영어)(windows)](https://github.com/wonder13662/gimp/assets/15767104/02097da3-a7a4-4041-aef2-7f6fe3af9201)
 
@@ -30,6 +28,8 @@
 
 #### 그림 90.1.1.6.a111. `파일` → `최근 연 파일` → `문서 이력` (Windows) (우리말)
 ![90-01-01-06-a111](https://github.com/wonder13662/gimp/assets/15767104/84d8fb0f-231a-4c04-be20-a206eb0d18ff)
+
+[12.1.2.4. 문서 이력(Document History) - 그림 90.1.1.6.a111](./12-01-02-04-document_history.md#90-01-01-06-a111)
 
 ***
 
