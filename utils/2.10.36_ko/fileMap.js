@@ -622,7 +622,7 @@ module.exports = {
         '12.1.1. Introduction'
       ],
       [
-        '12-01-02-system-resources.md', 
+        '12-01-02-00-system-resources.md', 
         '12.1.2. System Resources',
         '12.1.2. 시스템 자원',
       ],

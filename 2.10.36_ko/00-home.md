@@ -600,7 +600,15 @@
 
 [12.1.1. 소개](./12-01-01-introduction.md)
 
-[12.1.2. 시스템 자원(System Resources)](./12-01-02-system-resources.md)
+[12.1.2. 시스템 자원(System Resources)](./12-01-02-00-system-resources.md)
+
+[12.1.2.1. 자원 소비량(System Resources)](./12-01-02-01-resource_consumption.md)
+
+[12.1.2.2. 네트워크 접근(Network Access)](./12-01-02-02-network_access.md)
+
+[12.1.2.3. 이미지 미리보기(Image Thumbnails)](./12-01-02-03-image_thumbnails.md)
+
+[12.1.2.4. 문서 이력(Document History)](./12-01-02-04-document_history.md)
 
 [12.1.3. 디버깅(Debugging)](./12-01-03-debugging.md)
 

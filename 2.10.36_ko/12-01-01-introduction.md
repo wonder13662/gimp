@@ -29,7 +29,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 12.1.2. 시스템 자원(System Resources)](./12-01-02-system-resources.md)
+[➡️ 다음: 12.1.2. 시스템 자원(System Resources)](./12-01-02-00-system-resources.md)
 
 [⬅️ 이전: 12.1. 기본설정 대화상자](./12-01-00-preference-dialog.md)
 
