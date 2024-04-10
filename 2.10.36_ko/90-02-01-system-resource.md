@@ -70,6 +70,16 @@
 #### 그림 90.2.1.a142. `시스템 리소스` → `네트워크 접근` (Mac)
 ![90-02-01-system-resource(mac)-focus-network_access(w1080)](https://github.com/wonder13662/gimp/assets/15767104/4fce482e-b3ef-4bb0-8321-8e3e3b7ec494)
 
+<a id="90-02-01-a151"></a>
+
+#### 그림 90.2.1.a151. `시스템 리소스` → `이미지 미리보기` (Windows)
+![90-02-01-system-resource(windows)-focus-image_thumbnails(w1080)](https://github.com/wonder13662/gimp/assets/15767104/fdebf365-afc5-4e85-ba77-5f3a9942d088)
+
+<a id="90-02-01-a152"></a>
+
+#### 그림 90.2.1.a152. `시스템 리소스` → `이미지 미리보기` (Mac)
+![90-02-01-system-resource(mac)-focus-image_thumbnails(w1080)](https://github.com/wonder13662/gimp/assets/15767104/bf4bf90e-a898-4241-909b-41c6ca07dd19)
+
 ***
 
 ## 다른 페이지로 가기
