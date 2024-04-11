@@ -33,6 +33,34 @@
 
 [12.1.4.1. 이미지 표시 모드(Image Display Mode) - 그림 90.2.2.a12](./12-01-04-01-image_display_mode.md#90-02-02-a12)
 
+<a id="90-02-02-a13"></a>
+
+#### 그림 90.2.2.a13. `기본설정` → `색상관리` → `색상 관리 디스플레이` (Windows) (우리말)
+![90-02-02-a13](https://github.com/wonder13662/gimp/assets/15767104/8d5548c3-737e-4926-9ccf-5aa5b2f43571)
+
+[12.1.4.2. 색상 관리 디스플레이(Color Managed Display) - 그림 90.2.2.a13](./12-01-04-02-color_managed_display.md#90-02-02-a13)
+
+<a id="90-02-02-a13-01"></a>
+
+#### 그림 90.2.2.a13.1. `기본설정` → `색상관리` → `색상 관리 디스플레이` → `모니터 프로파일` (Windows)
+![90-02-02-a13-01](https://github.com/wonder13662/gimp/assets/15767104/1e44957b-6c4a-438e-b5e2-b8fbb26ebc06)
+
+[12.1.4.2. 색상 관리 디스플레이(Color Managed Display) - 그림 90.2.2.a13.1](./12-01-04-02-color_managed_display.md#90-02-02-a13-01)
+
+<a id="90-02-02-a13-02"></a>
+
+#### 그림 90.2.2.a13.2. `기본설정` → `색상관리` → `색상 관리 디스플레이` → `렌더링 목적` (Windows)
+![90-02-02-a13-02](https://github.com/wonder13662/gimp/assets/15767104/ca0d2f03-9751-4b65-8188-0ae55b653ac9)
+
+[12.1.4.2. 색상 관리 디스플레이(Color Managed Display) - 그림 90.2.2.a13.2](./12-01-04-02-color_managed_display.md#90-02-02-a13-02)
+
+<a id="90-02-02-a13-03"></a>
+
+#### 그림 90.2.2.a13.3. `기본설정` → `색상관리` → `색상 관리 디스플레이` → `이미지 표시 최적화 대상` (Windows)
+![90-02-02-a13-03](https://github.com/wonder13662/gimp/assets/15767104/bb9643d2-bad0-4433-a234-e879f4754124)
+
+[12.1.4.2. 색상 관리 디스플레이(Color Managed Display) - 그림 90.2.2.a13.3](./12-01-04-02-color_managed_display.md#90-02-02-a13-03)
+
 ***
 
 ## 다른 페이지로 가기
