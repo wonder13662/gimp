@@ -23,7 +23,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.85. 이미지 크기 확인(Confirm Image Size)](./90-04-85-confirm_image_size.md)
 
 [⬅️ 이전: 90.4.83. 적목 제거(Red Eye Removal)](./90-04-83-red_eye_removal.md)
 
