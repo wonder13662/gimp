@@ -29,7 +29,7 @@
 
 [12.1.4.2. 색상 관리 디스플레이(Color Managed Display)](./12-01-04-02-color_managed_display.md)
 
-[12.1.4.3. 소프트 프루핑(Soft Proofing)](./12-01-04-03-soft_proofing.md)
+[12.1.4.3. 색상 교정(Soft-Proofing)](./12-01-04-03-soft_proofing.md)
 
 [12.1.4.4. 선호 프로파일(Preferred Profiles)](./12-01-04-04-preferred_profiles.md)
 

@@ -9,6 +9,11 @@
 
 ## 1. 모니터 프로필(Monitor profile)
 
+<a id="90-02-02-a13-01"></a>
+
+#### [그림 90.2.2.a13.1. `기본설정` → `색상관리` → `색상 관리 디스플레이` → `모니터 프로필` (Windows)](./90-02-02-a13-01#90-02-02-a13-01)
+![90-02-02-a13-01-monitor_profile](https://github.com/wonder13662/gimp/assets/15767104/1e44957b-6c4a-438e-b5e2-b8fbb26ebc06)
+
 <a id="12-01-04-02-s1-01"></a>
 
 ### 1-1. 없음(None)
@@ -17,11 +22,6 @@ GIMP(김프)에서 모니터의 [비색계(colorimetric)](./19-glossaryx-colorim
 <a id="12-01-04-02-s1-02"></a>
 
 ### 1-2. 디스크에서 색상 프로필 선택...(Select color profile from disk)
-
-<a id="90-02-02-a13-01"></a>
-
-#### [그림 90.2.2.a13.1. `기본설정` → `색상관리` → `색상 관리 디스플레이` → `모니터 프로파일` (Windows)](./90-02-02-a13-01#90-02-02-a13-01)
-![90-02-02-a13-01-monitor_profile](https://github.com/wonder13662/gimp/assets/15767104/1e44957b-6c4a-438e-b5e2-b8fbb26ebc06)
 
 사용자의 컴퓨터 디스크에서 색상 프로필 파일(`.icc`)를 선택합니다.
 
@@ -80,7 +80,7 @@ GIMP(김프)에서 모니터의 [비색계(colorimetric)](./19-glossaryx-colorim
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 12.1.4.3. 소프트 프루핑(Soft Proofing)](./12-01-04-03-soft_proofing.md)
+[➡️ 다음: 12.1.4.3. 색상 교정(Soft-Proofing)](./12-01-04-03-soft_proofing.md)
 
 [⬅️ 이전: 12.1.4.1. 이미지 표시 모드(Image Display Mode)](./12-01-04-01-image_display_mode.md)
 

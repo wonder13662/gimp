@@ -6,7 +6,7 @@
 
 [➡️ 다음: 12.1.4.5. 정책(Policies)](./12-01-04-05-policies.md)
 
-[⬅️ 이전: 12.1.4.3. 소프트 프루핑(Soft Proofing)](./12-01-04-03-soft_proofing.md)
+[⬅️ 이전: 12.1.4.3. 색상 교정(Soft-Proofing)](./12-01-04-03-soft_proofing.md)
 
 [⬆️ 위: 12.1. 기본설정 대화상자](./12-01-00-preference-dialog.md)
 
