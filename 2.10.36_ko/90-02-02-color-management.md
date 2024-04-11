@@ -43,7 +43,7 @@
 <a id="90-02-02-a13-01"></a>
 
 #### 그림 90.2.2.a13.1. `기본설정` → `색상관리` → `색상 관리 디스플레이` → `모니터 프로필` (Windows)
-![90-02-02-a13-01](https://github.com/wonder13662/gimp/assets/15767104/1e44957b-6c4a-438e-b5e2-b8fbb26ebc06)
+![90-02-02-a13-01](https://github.com/wonder13662/gimp/assets/15767104/1d039db4-1285-4af9-aa91-13a1a3706567)
 
 [12.1.4.2. 색상 관리 디스플레이(Color Managed Display) - 그림 90.2.2.a13.1](./12-01-04-02-color_managed_display.md#90-02-02-a13-01)
 
