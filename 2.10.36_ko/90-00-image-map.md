@@ -1336,6 +1336,10 @@
 
 [90.4.84. 메타데이터 뷰어(Metadata Viewer)](./90-04-84-metadata_viewer.md)
 
+[90.4.85. 이미지 크기 확인(Confirm Image Size)](./90-04-85-confirm_image_size.md)
+
+[90.4.86. RGB 작업 공간 바꾸기(Convert to RGB Working Space?)](./90-04-86-convert_to_rgb_working_space.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

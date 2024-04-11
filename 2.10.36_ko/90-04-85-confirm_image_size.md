@@ -20,9 +20,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.86. RGB 작업 공간 바꾸기(Convert to RGB Working Space?)](./90-04-86-convert_to_rgb_working_space.md)
 
-[⬅️ 이전: 90.4.83. 적목 제거(Red Eye Removal)](./90-04-83-red_eye_removal.md)
+[⬅️ 이전: 90.4.84. 메타데이터 뷰어(Metadata Viewer)](./90-04-84-metadata_viewer.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

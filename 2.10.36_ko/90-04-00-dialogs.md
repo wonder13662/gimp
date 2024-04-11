@@ -420,6 +420,14 @@
 #### 그림 90.4.84.a101. `메타데이터 뷰어` 대화상자 (Windows) (우리말)
 ![90-04-84-a101](https://github.com/wonder13662/gimp/assets/15767104/c01c2215-b9e4-4347-b445-74cd53be7911)
 
+### [90.4.85. 이미지 크기 확인(Confirm Image Size)](./90-04-85-confirm_image_size.md)
+#### 그림 90.4.85.a101. `이미지 크기 확인` 대화상자 (Windows) (우리말)
+![90-04-85-a101](https://github.com/wonder13662/gimp/assets/15767104/b15f3278-3ecc-462e-b769-a181411a2a76)
+
+### [90.4.86. RGB 작업 공간 바꾸기(Convert to RGB Working Space?)](./90-04-86-convert_to_rgb_working_space.md)
+#### 그림 90.4.86.a101. `RGB 작업 공간 바꾸기` 대화상자 (Windows) (우리말)
+![90-04-86-a101](https://github.com/wonder13662/gimp/assets/15767104/aafd69a7-9b1f-4fed-b378-0e0eeeed444d)
+
 ***
 
 ## 공통 기능
