@@ -30,6 +30,20 @@
 
 [12.1.7.1. 일반(General) - 그림 90.2.4.a11](./12-01-07-01-general.md#90-02-04-a11)
 
+<a id="90-02-04-a12"></a>
+
+#### 그림 90.2.4.a12. `기본설정` → `도구 옵션` → `비율 조정` (Windows) (우리말)
+![90-02-04-a12](https://github.com/wonder13662/gimp/assets/15767104/f1be8add-3a3a-4df6-a191-6b92cdd61748)
+
+[12.1.7.3. 비율 조정(Scaling) - 그림 90.2.4.a12](./12-01-07-03-paint_options_shared_between_tools.md#90-02-04-a12)
+
+<a id="90-02-04-a12-01"></a>
+
+#### 그림 90.2.4.a12.1. `기본설정` → `도구 옵션` → `비율 조정` → `기본 보간법` (Mac)
+![90-02-04-a12-01](https://github.com/wonder13662/gimp/assets/15767104/0cdf6732-77b5-4cdb-bac5-777f7d60bb52)
+
+[12.1.7.3. 비율 조정(Scaling) - 그림 90.2.4.a12.1](./12-01-07-03-paint_options_shared_between_tools.md#90-02-04-a12-01)
+
 ***
 
 ## 다른 페이지로 가기
