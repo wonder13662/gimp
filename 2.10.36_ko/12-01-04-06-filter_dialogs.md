@@ -1,4 +1,8 @@
 # 12.1.4.6. 필터 대화상자(Filter Dialogs)
+## 고급 색상 옵션 보여주기(Show advanced color options)
+`고급 색상 옵션 보여주기` 옵션을 체크하면 고급 색상 옵션을 [필터 대화상자]()에서 보여줍니다.
+
+[comment]: <> (TODO "고급 색상 옵션"이 있는 "필터 대화상자"의 예시 이미지가 필요함. GIMP Forum에 관련 질문 올림 https://www.gimp-forum.net/Thread-Where-is-Advanced-color-options)
 
 ***
 
