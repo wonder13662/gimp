@@ -1,6 +1,12 @@
 # 12.1.7.3. 그리기 도구 공통 옵션(Paint Options Shared Between Tools)
 
 ## 붓, 동적요소, 무늬, 그라디언트(Brush, Dynamics, Pattern, Gradient)
+
+<a id="90-02-04-a13"></a>
+
+#### [그림 90.2.4.a13. `기본설정` → `도구 옵션` → `그리고 도구 공통 옵션` (Windows) (우리말)](./90-02-04-tool-options.md#90-02-04-a13)
+![90-02-04-a13](https://github.com/wonder13662/gimp/assets/15767104/253064d6-445d-4785-8483-ec4d3b74e49d)
+
 `그리기 도구 공통 옵션`의 항목들을 활성화시키면, 도구 옵션(Tool Options)의 붓(Brush), 동적요소(Dynamics), 무늬(Pattern), 그라디언트(Gradient)의 선택을 다른 도구에서 같이 사용합니다. 반대로 비활성화시키면 각 도구들은 마지막으로 사용한 항목을 기억하여 각 도구별로 다른 항목을 사용하게 됩니다. 아래 영상에서 확인해보실 수 있습니다.
 
 #### 영상 12.1.7.a31-1. `그리기 도구 공통 옵션`의 붓(Brush) 옵션 켜기 (Windows) (우리말)
