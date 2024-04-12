@@ -1,21 +1,27 @@
 # 90.2.3. 이미지 불러오기 및 내보내기 (Image Import & Export)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 90.2.3.a1. 언어설정: 우리말 (한국어) - windows
 
-<img width="720" alt="90.2.3.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/a5884460-99cc-44c3-92a0-ee6bf517cb79">
+<a id="90-02-03-a1"></a>
 
-#### 90.2.3.a2. 언어설정: 우리말 (한국어) - mac
+#### 그림 90.2.3.a1. `기본설정` → `이미지 불러오기 및 내보내기` (Windows) (우리말)
+![90-02-03-a1](https://github.com/wonder13662/gimp/assets/15767104/14028ff0-e3c4-4eb0-8dee-57885a107a3d)
 
-<img width="720" alt="90.2.3.a2. 언어설정: 우리말 (한국어) - mac" src="https://github.com/wonder13662/gimp/assets/15767104/37c834d2-0fd1-42a2-9a86-4471802d79b3">
+[12.1.5. 이미지 불러오기와 내보내기(Image Import and Export) - 그림 90.2.3.a1](./12-01-05-image-import-and-export.md#90-02-03-a1)
 
-#### 90.2.3.a3. 언어설정: 영어 - windows
+<a id="90-02-03-a2"></a>
 
-<img width="720" alt="90.2.3.a3. 언어설정: 영어 - windows" src="https://github.com/wonder13662/gimp/assets/15767104/8f0e09bd-9e9e-4677-9855-f7abbfc2df2d">
+#### 그림 90.2.3.a2. `기본설정` → `이미지 불러오기 및 내보내기` (Windows) (영어)
+![90-02-03-a2](https://github.com/wonder13662/gimp/assets/15767104/a2723414-71f7-4801-867b-e2c99a36a156)
 
-#### 90.2.3.a4. 언어설정: 영어 - mac
+<a id="90-02-03-a3"></a>
 
-<img width="720" alt="90.2.3.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/ca697eb3-646f-4cff-9572-69f530bc6af9">
+#### 그림 90.2.3.a3. `기본설정` → `이미지 불러오기 및 내보내기` (Mac) (우리말)
+![90-02-03-image-import-n-export(우리말)(mac)(50%)](https://github.com/wonder13662/gimp/assets/15767104/53f2510a-b212-4e3d-b091-39e820aac0cd)
 
+<a id="90-02-03-a4"></a>
+
+#### 그림 90.2.3.a4. `기본설정` → `이미지 불러오기 및 내보내기` (Mac) (영어)
+![90-02-03-image-import-n-export(영어)(mac)(50%)](https://github.com/wonder13662/gimp/assets/15767104/e0cd35c6-adf8-4406-a487-97dea36c0416)
 
 ***
 
