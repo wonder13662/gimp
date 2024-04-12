@@ -87,11 +87,15 @@ GIMP를 시작할 때, 추가적인 인자(argument) 또는 옵션(Option) 값�
 
 참고: 여기서의 인자(argument)와 옵션(Option)은 같은 의미로 사용되었습니다. 
 
+<a id="02-01-03-s1"></a>
+
 ### `-?`, `--help`
 모든 커맨드 라인 옵션을 보여줍니다.
 
 #### 영상 2.1.3.a1. `--help`
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2b7a28d-eba2-4d6b-bc6e-bebb9f869d45"></video>
+
+<a id="02-01-03-s2"></a>
 
 ### `--help-all`
 모든 도움말 옵션을 보여줍니다.
@@ -99,11 +103,15 @@ GIMP를 시작할 때, 추가적인 인자(argument) 또는 옵션(Option) 값�
 #### 영상 2.1.3.a2. `--help-all`
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/652dc754-d0a7-4683-9a2a-be05a8dfd92f"></video>
 
+<a id="02-01-03-s3"></a>
+
 ### `--help-gtk`
 GTK+ 옵션을 보여줍니다.
 
 #### 영상 2.1.3.a3. `--help-gtk`
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e83a6f1f-4156-4bda-a95d-a2cfbbf28fca"></video>
+
+<a id="02-01-03-s4"></a>
 
 ### `-v`, `--version`
 현재 사용중인 GIMP 버전 정보를 보여준 뒤 종료합니다. `-v`, `--version`에서 각각 노출하는 정보가 다릅니다.
@@ -116,17 +124,23 @@ GTK+ 옵션을 보여줍니다.
 #### 영상 2.1.3.a5. `--version`
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9295c1c8-4e4c-459c-b67a-813a041b2369"></video>
 
+<a id="02-01-03-s5"></a>
+
 ### `--license`
 사용 허가서 정보를 보여준 뒤 GIMP를 종료합니다.
 
 #### 영상 2.1.3.a6. `--license`
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e80f0686-4205-4c3f-935d-b8c2ccb235b0"></video>
 
+<a id="02-01-03-s6"></a>
+
 ### `--verbose`
 시작 메시지를 자세히 보여줍니다.
 
 #### 영상 2.1.3.a7. `--verbose`
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c7dc47d7-610d-4c30-a391-19e77fffb54c"></video>
+
+<a id="02-01-03-s7"></a>
 
 ### `-n`, `--new-instance`
 새로운 인스턴스로 GIMP를 시작합니다.. 여러 개의 GIMP 인스턴스를 시작할 수 있습니다.
@@ -137,8 +151,12 @@ GTK+ 옵션을 보여줍니다.
 #### 영상 2.1.3.a9. `--new-instance`
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d6a4c696-424c-48cd-b6f3-a25977d513f1"></video>
 
+<a id="02-01-03-s8"></a>
+
 ### `-a`, `--as-new`
 새 이미지를 만듭니다. (TODO 정확한 사용방법을 파악하지 못했습니다)
+
+<a id="02-01-03-s9"></a>
 
 ### `-i`, `--no-interface`
 사용자 인터페이스 없이 실행합니다.
@@ -148,6 +166,8 @@ GTK+ 옵션을 보여줍니다.
 
 #### 영상 2.1.3.a11. `--no-interface`
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b375e345-867e-450c-a8b9-ec5fc58766c0"></video>
+
+<a id="02-01-03-s10"></a>
 
 ### `-d`, `-no-data`
 무늬(pattern), 그라디언트(gradient), 색상표(palette), 붓(brush) 등을 읽어 들이지 않습니다. 비대화식 환경에서 시작 시간을 최소화할 때 유용합니다.
@@ -189,6 +209,8 @@ GTK+ 옵션을 보여줍니다.
 #### [그림 90.4.21.a2. `-no-fonts` 사용한 경우와 그렇지 않은 경우 비교](./90-04-21-fonts.md#90-04-21-a2)
 ![90-04-21-a2](https://github.com/wonder13662/gimp/assets/15767104/fc8d52e4-09ac-46b2-8e46-278fd53bef95)
 
+<a id="02-01-03-s11"></a>
+
 ### `-s`, `--no-splash`
 시작시 스플래쉬 화면을 보여주지 않습니다.
 
@@ -197,47 +219,77 @@ GTK+ 옵션을 보여줍니다.
 
 참고: 맥OS에서는 커맨드 라인으로 실행시 스플래시 화면을 보여주지 않는 것이 기본값입니다.
 
+<a id="02-01-03-s12"></a>
+
 ### `--no-shm`
 GIMP와 플러그인 사이의 공유 메모리를 사용하지 않습니다.
+
+<a id="02-01-03-s13"></a>
 
 ### `--no-cpu-accel`
 특수한 CPU 가속 기능을 사용하지 않습니다. 문제가 많은 하드웨어 가속기나 기능을 찾아내거나 사용하지 않을 때 유용합니다.
 
+<a id="02-01-03-s14"></a>
+
 ### `--session=name`
 현재 GIMP 세션에 다른 `sessionrc`를 사용합니다. 새 세션 이름은 기본 `sessionrc` 파일명에 덧붙여집니다.
+
+<a id="02-01-03-s15"></a>
 
 ### `--gimprc=filename`
 기본값 외의 다른 `gimprc`를 사용합니다. `gimprc`는 GIMP 설정값을 담고 있는 파일입니다. 플러그인 위치나 시스템 사양이 틀린 경우에 유용합니다. 
 
+<a id="02-01-03-s16"></a>
+
 ### `--system-gimprc=filename`
 다른 시스템의 `gimprc` 파일을 사용합니다.
+
+<a id="02-01-03-s17"></a>
 
 ### `-b`, `--batch=commands`
 비대화명 명령(command)들의 모음을 실행합니다. 명령 모음(set of commands)은 일반적으로 GIMP 스크립팅 확장에서 실행할 수 있는 스크립트 형태로 되어 있습니다. 명령이 `-`일 경우, 이는 표준 입력으로 해석됩니다.
 
+<a id="02-01-03-s18"></a>
+
 ### `--batch-interpreter=proc`
 일괄처리 명령을 수행하기 위한 프로시저입니다. 기본 프로시저는 Script-Fu입니다.
+
+<a id="02-01-03-s19"></a>
 
 ### `--console-messages`
 에러나 경고를 다이얼로그 박스에 나타내지 않습니다. 대신 콘솔에 메시지를 출력합니다.
 
+<a id="02-01-03-s20"></a>
+
 ### `--pdb-compat-mode=mode`
 PDB 호환 모드 (`off`|`on`|`warn`)
+
+<a id="02-01-03-s21"></a>
 
 ### `--stack-trace-mode=mode`
 충돌시 디버그를 합니다. (`never`|`query`|`always`)
 
+<a id="02-01-03-s22"></a>
+
 ### `--debug-handlers`
 치명적이지 않은 디버깅 시그널 처리기를 사용합니다. GIMP(김프) 디버깅 시에 유용합니다.
+
+<a id="02-01-03-s23"></a>
 
 ### `--g-fatal-warnings`
 모든 경고를 치명적인 단계로 설정합니다. GIMP(김프) 디버깅 시에 유용합니다.
 
+<a id="02-01-03-s24"></a>
+
 ### `--dump-gimprc`
 기본 설정으로 `gimprc` 파일을 출력합니다. `gimprc` 파일을 결합할 때 유용합니다.
 
+<a id="02-01-03-s25"></a>
+
 ### `--display=display`
 X-윈도우 스타일을 사용합니다(Microsoft Windows에서는 사용불가).
+
+<a id="02-01-03-s26"></a>
 
 ### `--show-playground`
 [기본 설정(preference page)](./12-01-06-experimental-playground.md)의 실험적 기능(experimental features) 항목을 보여줍니다.
