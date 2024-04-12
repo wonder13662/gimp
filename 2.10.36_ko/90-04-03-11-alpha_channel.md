@@ -5,14 +5,14 @@
 #### 영상 90.4.3.11.a11. 새로운 레이어를 추가해서 알파 채널도 함께 추가 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0035aaa0-0cfe-4ccb-9539-1f81f5728b76"></video>
 
-[8.1.1. 레이어 속성 - 영상 90.4.3.11.a11](./08-01-01-layer_properties.md#90-04-03-11-a11)
+[8.1.1.2. 알파 채널(Alpha Channel) - 영상 90.4.3.11.a11](./08-01-01-02-alpha_channel.md#90-04-03-11-a11)
 
 <a id="90-04-03-11-a21"></a>
 
 #### 영상 90.4.3.11.a21. 새로운 레이어를 삭제해서 알파 채널도 함께 삭제 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ba438dec-3083-4714-851b-80b1af5a0147"></video>
 
-[8.1.1. 레이어 속성 - 영상 90.4.3.11.a21](./08-01-01-layer_properties.md#90-04-03-11-a21)
+[8.1.1.2. 알파 채널(Alpha Channel) - 영상 90.4.3.11.a21](./08-01-01-02-alpha_channel.md#90-04-03-11-a21)
 
 ***
 

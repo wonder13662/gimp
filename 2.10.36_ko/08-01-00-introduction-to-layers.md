@@ -36,7 +36,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 8.1.1. 레이어 속성](./08-01-01-layer_properties.md)
+[➡️ 다음: 8.1.1. 레이어 속성](./08-01-01-00-layer_properties.md)
 
 [⬅️ 이전: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 

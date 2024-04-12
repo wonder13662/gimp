@@ -8,10 +8,12 @@
 
 [⬅️ 이전: ${page_name_prev}](${page_prev})
 
-[⬆️ 위: 12.1. 기본설정 대화상자](./12-01-00-preference-dialog.md)
+[⬆️ 위: 8.1.1. 레이어 속성](./08-01-01-00-layer_properties.md)
 
-[⬆️ 위: 12. 나만의 GIMP(김프) 만들기](./12-00-enrich-my-gimp.md)
+[⬆️ 위: 8.1. 레이어 소개](./08-01-00-introduction-to-layers.md)
+
+[⬆️ 위: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-pimping.html#gimp-prefs-color-management)
+[원문](https://docs.gimp.org/2.10/ko/gimp-image-combining.html#gimp-layer-properties)

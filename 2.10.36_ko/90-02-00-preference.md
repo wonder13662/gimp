@@ -17,7 +17,7 @@
 [<img width="720" alt="90.2.3.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/a5884460-99cc-44c3-92a0-ee6bf517cb79">](./90-02-03-image-import-n-export.md)
 
 ## [90.2.4. 도구 옵션 (Tool Options)](./90-02-04-tool-options.md)
-[<img width="720" alt="90.2.4.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/789d111c-2374-497f-920d-26b8048f2539">](./90-02-04-tool-options.md)
+[<img width="720" alt="90.2.4.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/59ad6d60-38b8-45af-8e95-f504483329a4">](./90-02-04-tool-options.md)
 
 ## [90.2.5. 기본 이미지 (Default Image)](./90-02-05-00-default-image.md)
 [<img width="720" alt="90.2.5.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/fc74618b-6589-450d-bcda-fbed58879eab">](./90-02-05-00-default-image.md)

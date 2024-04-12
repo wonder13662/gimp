@@ -1,20 +1,34 @@
 # 90.2.4. 도구 옵션 (Tool Options)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 90.2.4.a1. 언어설정: 우리말 (한국어) - windows
 
-<img width="720" alt="90.2.4.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/789d111c-2374-497f-920d-26b8048f2539">
+<a id="90-02-04-a1"></a>
 
-#### 90.2.4.a2. 언어설정: 우리말 (한국어) - mac
+#### 그림 90.2.4.a1. `기본설정` → `도구 옵션` (Windows) (우리말)
+![90-02-04-a1](https://github.com/wonder13662/gimp/assets/15767104/59ad6d60-38b8-45af-8e95-f504483329a4)
 
-<img width="720" alt="90.2.4.a2. 언어설정: 우리말 (한국어) - mac" src="https://github.com/wonder13662/gimp/assets/15767104/dcb0f40a-cbb6-43bc-a7b9-d1b73db39bce">
+[12.1.7. 도구 옵션(Tool Options) - 그림 90.2.4.a1](./12-01-07-00-tool-options.md#90-02-04-a1)
 
-#### 90.2.4.a3. 언어설정: 영어 - windows
+<a id="90-02-04-a2"></a>
 
-<img width="720" alt="90.2.4.a3. 언어설정: 영어 - windows" src="https://github.com/wonder13662/gimp/assets/15767104/560f9274-98c3-45db-8c61-c0dd1f110d6a">
+#### 그림 90.2.4.a2. `기본설정` → `도구 옵션` (Windows) (영어)
+![90-02-04-a2](https://github.com/wonder13662/gimp/assets/15767104/4facbf60-5b48-4a9e-adbf-a6e8aa92b941)
 
-#### 90.2.4.a4. 언어설정: 영어 - mac
+<a id="90-02-04-a3"></a>
 
-<img width="720" alt="90.2.4.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/6c3f9ee1-2fc8-46f7-b377-628fbf5a241d">
+#### 그림 90.2.4.a3. `기본설정` → `도구 옵션` (Mac) (우리말)
+![90-02-04-a3](https://github.com/wonder13662/gimp/assets/15767104/1ac9864c-0c7c-487d-9666-890f3b0bac04)
+
+<a id="90-02-04-a4"></a>
+
+#### 그림 90.2.4.a4. `기본설정` → `도구 옵션` (Mac) (영어)
+![90-02-04-a4](https://github.com/wonder13662/gimp/assets/15767104/6958fdbc-030e-42ea-9204-45f23715c6a6)
+
+<a id="90-02-04-a11"></a>
+
+#### 그림 90.2.4.a11. `기본설정` → `도구 옵션` → `일반` (Windows) (우리말)
+![90-02-04-a11](https://github.com/wonder13662/gimp/assets/15767104/92b59858-2183-4041-8cbf-79e62762fd84)
+
+[12.1.7.1. 일반(General) - 그림 90.2.4.a11](./12-01-07-01-general.md#90-02-04-a11)
 
 ***
 

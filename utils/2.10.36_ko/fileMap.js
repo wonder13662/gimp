@@ -646,7 +646,7 @@ module.exports = {
         '12.1.6. 실험 놀이터(Experimental Playground)'
       ],
       [
-        '12-01-07-tool-options.md', 
+        '12-01-07-00-tool-options.md', 
         '12.1.7. Tool Options',
         '12.1.7. 도구 옵션(Tool Options)'
       ],

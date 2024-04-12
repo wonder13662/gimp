@@ -26,7 +26,15 @@
 
 [12.1.6. 실험 놀이터(Experimental Playground)](./12-01-06-experimental-playground.md)
 
-[12.1.7. 도구 옵션(Tool Options)](./12-01-07-tool-options.md)
+[12.1.7. 도구 옵션(Tool Options)](./12-01-07-00-tool-options.md)
+
+[12.1.7.1. 일반(General)](./12-01-07-01-general.md)
+
+[12.1.7.2. 비율 조정(Scaling)](./12-01-07-02-scaling.md)
+
+[12.1.7.3. 그리기 도구 공통 옵션(Paint Options Shared Between Tools)](./12-01-07-03-paint_options_shared_between_tools.md)
+
+[12.1.7.4. 이동 도구(Move Tool)](./12-01-07-04-move_tool.md)
 
 [12.1.8. 기본 이미지 설정(Default Image Preferences)](./12-01-08-default-image-preferences.md)
 

@@ -19,14 +19,14 @@
 #### 그림 90.4.3.5.a21. 가시성(Visibility) 심볼 토글하기
 ![90-04-03-05-a21](https://github.com/wonder13662/gimp/assets/15767104/ab991f4a-988a-4729-8561-108d8e37572f)
 
-[8.1.1. 레이어 속성 - 그림 90.4.3.5.a21](./08-01-01-layer_properties.md#90-04-03-05-a21)
+[8.1.1.4. 가시성(Visibility) - 그림 90.4.3.5.a21](./08-01-01-04-visibility.md#90-04-03-05-a21)
 
 <a id="90-04-03-05-a31"></a>
 
 #### 영상 90.4.3.5.a31. Shift(⇧)를 누른채로 가시성(Visibility) 심볼 토글하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1b3ab6fc-c557-4cca-a3b6-c3280fa74002"></video>
 
-[8.1.1. 레이어 속성 - 영상 90.4.3.5.a31](./08-01-01-layer_properties.md#90-04-03-05-a31)
+[8.1.1.4. 가시성(Visibility) - 영상 90.4.3.5.a31](./08-01-01-04-visibility.md#90-04-03-05-a31)
 
 ***
 

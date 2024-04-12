@@ -12,7 +12,7 @@
 #### 그림 90.4.3.13.a21. 레이어 마스크(Layer Mask)
 ![90-04-03-layer_mask(windows)(ko)-focus-layer_mask](https://github.com/wonder13662/gimp/assets/15767104/4c7a0323-5473-498f-bfaa-7ebe1caaf5b6)
 
-[8.1.1. 레이어 속성 - 그림 90.4.3.13.a21](./08-01-01-layer_properties.md#90-04-03-13-a21)
+[8.1.1.10. 레이어 마스크(Layer mask) - 그림 90.4.3.13.a21](./08-01-01-10-layer_mask.md#90-04-03-13-a21)
 
 ***
 

@@ -50,14 +50,14 @@
 #### 그림 90.4.37.a126. `새 이미지 만들기` 대화상자 → 고급옵션 → `채우기`: 투명 (Windows) (우리말)
 ![90-04-37-a126](https://github.com/wonder13662/gimp/assets/15767104/24efa990-083d-40f3-9f9f-de554f0e973a)
 
-[8.1.1. 레이어 속성 - 그림 90.4.37.a126](./08-01-01-layer_properties.md#90-04-37-a126)
+[8.1.1.2. 알파 채널(Alpha Channel) - 그림 90.4.37.a126](./08-01-01-02-alpha_channel.md#90-04-37-a126)
 
 <a id="90-04-37-a127"></a>
 
 #### 영상 90.4.37.a127. `새 이미지 만들기` 대화상자 → 고급옵션 → `채우기`: 투명 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/374e5ad4-7c3c-4832-b140-7e25c1ccc7cf"></video>
 
-[8.1.1. 레이어 속성 - 영상 90.4.37.a127](./08-01-01-layer_properties.md#90-04-37-a127)
+[8.1.1.2. 알파 채널(Alpha Channel) - 영상 90.4.37.a127](./08-01-01-02-alpha_channel.md#90-04-37-a127)
 
 ***
 

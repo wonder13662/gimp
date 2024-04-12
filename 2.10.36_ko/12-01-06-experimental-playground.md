@@ -38,7 +38,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 12.1.7. 도구 옵션(Tool Options)](./12-01-07-tool-options.md)
+[➡️ 다음: 12.1.7. 도구 옵션(Tool Options)](./12-01-07-00-tool-options.md)
 
 [⬅️ 이전: 12.1.5. 이미지 불러오기와 내보내기(Image Import and Export)](./12-01-05-image-import-and-export.md)
 
