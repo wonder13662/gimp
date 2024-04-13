@@ -23,7 +23,7 @@
 ![90-02-05-a1](https://github.com/wonder13662/gimp/assets/15767104/0b42f7de-2737-46a6-bdea-dc3acba881c3)
 
 ### [90.2.5.1. 기본 격자 (Default Grid)](./90-02-05-01-default-grid.md)
-[<img width="720" alt="90.2.5.1.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/d58ba6c0-6329-411b-b8a3-94c7a8b80150">](./90-02-05-01-default-grid.md)
+[<img width="720" alt="90.2.5.1.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/61ddd723-395d-4d4f-a703-7b5022b76e34">](./90-02-05-01-default-grid.md)
 
 ## [90.2.6. 인터페이스 (Interface)](./90-02-06-00-interface.md)
 [<img width="720" alt="90.2.6.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/843a0255-d6f4-4b80-aca4-83e70c0bf657">](./90-02-06-00-interface.md)

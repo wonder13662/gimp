@@ -1,20 +1,27 @@
 # 90.2.5.1. 기본 격자(Default Grid)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 90.2.5.1.a1. 언어설정: 우리말 (한국어) - windows
 
-<img width="720" alt="90.2.5.1.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/d58ba6c0-6329-411b-b8a3-94c7a8b80150">
+<a id="90-02-05-01-a1"></a>
 
-#### 90.2.5.1.a2. 언어설정: 우리말 (한국어) - mac
+#### 그림 90.2.5.1.a1. `기본설정` → `기본 이미지` → `기본 격자` (Windows) (우리말)
+![90-02-05-01-a1](https://github.com/wonder13662/gimp/assets/15767104/61ddd723-395d-4d4f-a703-7b5022b76e34)
 
-<img width="720" alt="90.2.5.1.a2. 언어설정: 우리말 (한국어) - mac" src="https://github.com/wonder13662/gimp/assets/15767104/71074324-5c32-44fa-b3af-18a31bfdd50c">
+[12.1.9. 기본 이미지 격자(Default Image Grid) - 그림 90.2.5.1.a1]()
 
-#### 90.2.5.1.a3. 언어설정: 영어 - windows
+<a id="90-02-05-01-a2"></a>
 
-<img width="720" alt="90.2.5.1.a3. 언어설정: 영어 - windows" src="https://github.com/wonder13662/gimp/assets/15767104/c380b6c5-abab-4bd2-a53f-7d611da79230">
+#### 그림 90.2.5.1.a2. `기본설정` → `기본 이미지` → `기본 격자` (Windows) (영어)
+![90-02-05-01-a2](https://github.com/wonder13662/gimp/assets/15767104/09039acf-ba5b-40d1-92f8-43f6ab102717)
 
-#### 90.2.5.1.a4. 언어설정: 영어 - mac
+<a id="90-02-05-01-a3"></a>
 
-<img width="720" alt="90.2.5.1.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/2048a81d-6915-42b2-ba9a-6762e4dba7a9">
+#### 그림 90.2.5.1.a3. `기본설정` → `기본 이미지` → `기본 격자` (Mac) (우리말)
+![90-02-05-01-a3](https://github.com/wonder13662/gimp/assets/15767104/6fefac55-cf85-41fe-8eae-784dbd488296)
+
+<a id="90-02-05-01-a4"></a>
+
+#### 그림 90.2.5.1.a4. `기본설정` → `기본 이미지` → `기본 격자` (Mac) (영어)
+![90-02-05-01-a4](https://github.com/wonder13662/gimp/assets/15767104/490f2e42-a8f8-40e0-b551-50cf3eae0004)
 
 ***
 
