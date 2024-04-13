@@ -6,7 +6,7 @@
 #### 그림 90.2.5.1.a1. `기본설정` → `기본 이미지` → `기본 격자` (Windows) (우리말)
 ![90-02-05-01-a1](https://github.com/wonder13662/gimp/assets/15767104/61ddd723-395d-4d4f-a703-7b5022b76e34)
 
-[12.1.9. 기본 이미지 격자(Default Image Grid) - 그림 90.2.5.1.a1]()
+[12.1.9. 기본 이미지 격자(Default Image Grid) - 그림 90.2.5.1.a1](./12-01-09-default-image-grid.md#90-02-05-01-a1)
 
 <a id="90-02-05-01-a2"></a>
 
