@@ -1,20 +1,25 @@
 # 90.2.5. 기본 이미지(Default Image)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 90.2.5.a1. 언어설정: 우리말 (한국어) - windows
 
-<img width="720" alt="90.2.5.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/fc74618b-6589-450d-bcda-fbed58879eab">
+<a id="90-02-05-a1"></a>
 
-#### 90.2.5.a2. 언어설정: 우리말 (한국어) - mac
+#### 90.2.5.a1. `기본설정` → `기본 이미지` (Windows) (우리말)
+![90-02-05-a1](https://github.com/wonder13662/gimp/assets/15767104/0b42f7de-2737-46a6-bdea-dc3acba881c3)
 
-<img width="720" alt="90.2.5.a2. 언어설정: 우리말 (한국어) - mac" src="https://github.com/wonder13662/gimp/assets/15767104/ccd55f35-9ce4-4b5f-9bca-a85a0d1fd45f">
+<a id="90-02-05-a2"></a>
 
-#### 90.2.5.a3. 언어설정: 영어 - windows
+#### 90.2.5.a2. `기본설정` → `기본 이미지` (Windows) (영어)
+![90-02-05-a2](https://github.com/wonder13662/gimp/assets/15767104/08f83fc5-f825-467e-8847-03749075db27)
 
-<img width="720" alt="90.2.5.a3. 언어설정: 영어 - windows" src="https://github.com/wonder13662/gimp/assets/15767104/bb4966bb-c94d-497e-8fe7-97260fd408e4">
+<a id="90-02-05-a3"></a>
 
-#### 90.2.5.a4. 언어설정: 영어 - mac
+#### 90.2.5.a3. `기본설정` → `기본 이미지` (Mac) (우리말)
+![90-02-05-a3](https://github.com/wonder13662/gimp/assets/15767104/d779bd76-8747-49ee-9911-2f69cae064f4)
 
-<img width="720" alt="90.2.5.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/b7a17612-0ef3-473d-b3bc-ccc5e3dbae66">
+<a id="90-02-05-a4"></a>
+
+#### 90.2.5.a4. `기본설정` → `기본 이미지` (Mac) (영어)
+![90-02-05-a4](https://github.com/wonder13662/gimp/assets/15767104/e9064d5f-e875-4269-b6ad-970135e1968b)
 
 ***
 
