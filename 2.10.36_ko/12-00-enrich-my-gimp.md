@@ -22,6 +22,18 @@
 
 [12.1.4. 색상 관리(Color Management)](./12-01-04-00-color-management.md)
 
+[12.1.4.1. 이미지 표시 모드(Image Display Mode)](./12-01-04-01-image_display_mode.md)
+
+[12.1.4.2. 색상 관리 디스플레이(Color Managed Display)](./12-01-04-02-color_managed_display.md)
+
+[12.1.4.3. 색상 교정(Soft-Proofing)](./12-01-04-03-soft_proofing.md)
+
+[12.1.4.4. 선호 프로파일(Preferred Profiles)](./12-01-04-04-preferred_profiles.md)
+
+[12.1.4.5. 정책(Policies)](./12-01-04-05-policies.md)
+
+[12.1.4.6. 필터 대화상자(Filter Dialogs)](./12-01-04-06-filter_dialogs.md)
+
 [12.1.5. 이미지 불러오기와 내보내기(Image Import and Export)](./12-01-05-image-import-and-export.md)
 
 [12.1.6. 실험 놀이터(Experimental Playground)](./12-01-06-experimental-playground.md)
