@@ -14,6 +14,7 @@
 #### 영상 2.1.3. 파일 확장자와 GIMP 연동(file association)해서 바로 열기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6a73ad52-3751-4174-aa74-f8d8a3a782ea"></video>
 
+<a id="02-01-s1"></a>
 
 ## 2.1.1. GIMP(김프)가 실행가능한 플랫폼들
 GIMP는 오늘날 가장 많은 플랫폼을 지원하는 이미지 편집 프로그램입니다. GIMP가 지원하는 플랫폼은 아래와 같습니다.
@@ -37,13 +38,15 @@ GIMP는 오늘날 가장 많은 플랫폼을 지원하는 이미지 편집 프�
 
 GIMP는 소스 코드의 가용성 덕분에 쉽게 다른 운영체제로 포팅될 수 있습니다. 좀 더 많은 정보를 알고 싶다면 GIMP 개발자 홈페이지를 참고해주세요. [GIMP-DEV](https://developer.gimp.org/)
 
+<a id="02-01-s2"></a>
+
 ## 2.1.2. 언어 설정
 GIMP는 자동으로 시스템의 언어를 감지합니다. 언어 감지가 실패하는 경우는 드물지만, GIMP에서 다른 언어를 사용하고 싶다면, `Edit` → `Preference` → `Interface` → `Language`에서 바꿀 수 있습니다.
 
 <a id="90-02-06-a101"></a>
 
-#### [그림 90.2.6.a101. Settings(Preference) > GIMP 언어설정 바꾸기](./90-02-06-00-interface.md#90-02-06-a101)
-<img width="720" alt="user interface language" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8a58b8e2-270c-4983-b65d-a9f7b4b6ce1a">
+#### [그림 90.2.6.a101. `기본설정` → `인터페이스` → `언어`](./90-02-06-00-interface.md#90-02-06-a101)
+<img width="720" alt="user interface language" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7db9bad7-1d10-4927-870a-026b2f0f2dad">
 
 또는 다음 방법 중 하나를 사용합니다.
 
@@ -79,6 +82,8 @@ GIMP를 커맨드라인으로 실행할 때, `-n` 옵션을 추가해서 여러 
 <img width="720" alt="Screenshot 2024-01-02 at 4 01 47 PM" src="https://github.com/wonder13662/gimp/assets/15767104/71928696-cfb7-4578-82b8-f0d6cf1a27cb">
 
 [2.1.1. 다른 언어로 여러 개의 GIMP(김프) 띄우기 (MacOS:Sonoma 14.2.1 GIMP 2.10.36)](./02-01-01-multiple-instances.md)
+
+<a id="02-01-s3"></a>
 
 ## 2.1.3. 커맨드 라인 실행 옵션들
 GIMP를 시작할 때, 추가적인 인자(argument) 또는 옵션(Option) 값이 필요하지는 않습니다. 하지만 가장 자주 사용되는 것들을 설명해두었습니다. Unix 시스템에서는 `man gimp` 명령으로 전체 인자(argument) 목록을 확인할 수 있습니다.

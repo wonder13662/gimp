@@ -24,10 +24,12 @@
 
 <a id="90-02-06-a101"></a>
 
-#### 그림 90.2.6.a101. Settings(Preference) > GIMP 언어설정 바꾸기
-![90-02-06-a101](https://github.com/wonder13662/gimp/assets/15767104/8a58b8e2-270c-4983-b65d-a9f7b4b6ce1a)
+#### 그림 90.2.6.a101. `기본설정` → `인터페이스` → `언어`
+![90-02-06-a101](https://github.com/wonder13662/gimp/assets/15767104/7db9bad7-1d10-4927-870a-026b2f0f2dad)
 
 [2.1. GIMP(김프) 실행하기 - 그림 90.2.6.a101](./02-01-00-running-gimp.md#90-02-06-a101)
+
+[12.1.10.1. 언어(Language) - 그림 90.2.6.a101](./12-01-10-01-language.md#90-02-06-a101)
 
 <a id="90-02-06-a111"></a>
 
