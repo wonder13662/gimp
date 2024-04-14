@@ -652,7 +652,15 @@
 
 [12.1.9. 기본 이미지 격자(Default Image Grid)](./12-01-09-default-image-grid.md)
 
-[12.1.10. 인터페이스(Interface)](./12-01-10-interface.md)
+[12.1.10. 인터페이스(Interface)](./12-01-10-00-interface.md)
+
+[12.1.10.1. 언어(Language)](./12-01-10-01-language.md)
+
+[12.1.10.2. 스타일(Style)](./12-01-10-02-style.md)
+
+[12.1.10.3. 미리보기(Previews)](./12-01-10-03-previews.md)
+
+[12.1.10.4. 키보드 단축키(Keyboard Shortcuts)](./12-01-10-04-keyboard_shortcuts.md)
 
 [12.1.11. 테마(Theme)](./12-01-11-theme.md)
 

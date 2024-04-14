@@ -26,7 +26,7 @@
 [<img width="720" alt="90.2.5.1.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/61ddd723-395d-4d4f-a703-7b5022b76e34">](./90-02-05-01-default-grid.md)
 
 ## [90.2.6. 인터페이스 (Interface)](./90-02-06-00-interface.md)
-[<img width="720" alt="90.2.6.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/843a0255-d6f4-4b80-aca4-83e70c0bf657">](./90-02-06-00-interface.md)
+[<img width="720" alt="90.2.6.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/8b897aaf-5e2d-4fb7-91c7-0700fd0bdb75">](./90-02-06-00-interface.md)
 
 ### [90.2.6.1. 테마 (Theme)](./90-02-06-01-theme.md)
 [<img width="720" alt="90.2.6.1.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/3809ad67-a5d8-4e7d-bb3d-2f7e82d44306">](./90-02-06-01-theme.md)

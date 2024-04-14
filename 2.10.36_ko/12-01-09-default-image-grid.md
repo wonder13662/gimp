@@ -25,7 +25,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 12.1.10. 인터페이스(Interface)](./12-01-10-interface.md)
+[➡️ 다음: 12.1.10. 인터페이스(Interface)](./12-01-10-00-interface.md)
 
 [⬅️ 이전: 12.1.8. 기본 이미지 설정(Default Image Preferences)](./12-01-08-default-image-preferences.md)
 

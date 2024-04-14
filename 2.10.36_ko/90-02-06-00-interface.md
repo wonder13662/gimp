@@ -1,20 +1,26 @@
 # 90.2.6. 인터페이스 (Interface)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 90.2.6.a1. 언어설정: 우리말 (한국어) - windows
+<a id="90-02-06-a1"></a>
 
-<img width="720" alt="90.2.6.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/843a0255-d6f4-4b80-aca4-83e70c0bf657">
+#### 그림 90.2.6.a1. `기본설정` → `인터페이스` (Windows) (우리말)
+![90-02-06-a1](https://github.com/wonder13662/gimp/assets/15767104/8b897aaf-5e2d-4fb7-91c7-0700fd0bdb75)
 
-#### 90.2.6.a2. 언어설정: 우리말 (한국어) - mac
+[12.1.10. 인터페이스(Interface) - 그림 90.2.6.a1](./12-01-10-00-interface.md#90-02-06-a1)
 
-<img width="720" alt="90.2.6.a2. 언어설정: 우리말 (한국어) - mac" src="https://github.com/wonder13662/gimp/assets/15767104/d6c0923f-76bd-4bbb-845e-c7fb557c10e7">
+<a id="90-02-06-a2"></a>
 
-#### 90.2.6.a3. 언어설정: 영어 - windows
+#### 그림 90.2.6.a2. `기본설정` → `인터페이스` (Windows) (영어)
+![90-02-06-a2](https://github.com/wonder13662/gimp/assets/15767104/21f5e7e3-04f6-42d5-beac-ee2dd85e6c02)
 
-<img width="720" alt="90.2.6.a3. 언어설정: 영어 - windows" src="https://github.com/wonder13662/gimp/assets/15767104/975de428-6fc7-4aa4-85b0-2754a2771d39">
+<a id="90-02-06-a3"></a>
 
-#### 90.2.6.a4. 언어설정: 영어 - mac
+#### 그림 90.2.6.a3. `기본설정` → `인터페이스` (Mac) (우리말)
+![90-02-06-a3](https://github.com/wonder13662/gimp/assets/15767104/dc5aeeed-4c19-436e-a4a2-617e9d954d54)
 
-<img width="720" alt="90.2.6.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/4c736ff0-fc88-4d36-a7b7-94f5ff3689b7">
+<a id="90-02-06-a4"></a>
+
+#### 그림 90.2.6.a4. `기본설정` → `인터페이스` (Mac) (영어)
+![90-02-06-a4](https://github.com/wonder13662/gimp/assets/15767104/393d7430-e88b-4512-95fd-d94a65ddddd7)
 
 <a id="90-02-06-a101"></a>
 

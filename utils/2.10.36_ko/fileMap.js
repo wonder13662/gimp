@@ -661,7 +661,7 @@ module.exports = {
         '12.1.9. 기본 이미지 격자',
       ],
       [
-        '12-01-10-interface.md', 
+        '12-01-10-00-interface.md', 
         '12.1.10. Interface',
         '12.1.10. 인터페이스(Interface)',
       ],
