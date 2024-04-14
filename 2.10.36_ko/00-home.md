@@ -2026,7 +2026,9 @@
 
 [90.4.85. 이미지 크기 확인(Confirm Image Size)](./90-04-85-confirm_image_size.md)
 
-[90.4.86. RGB 작업 공간 바꾸기(Convert to RGB Working Space?)](./90-04-86-convert_to_rgb_working_space.md)
+[90.4.86. RGB 작업 공간 바꾸기(Convert to RGB Working Space)](./90-04-86-convert_to_rgb_working_space.md)
+
+[90.4.87. 키보드 단축키 설정(Convert to RGB Working Space)](./90-04-87-configure_keyboard_shortcuts.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
