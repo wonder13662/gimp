@@ -3,7 +3,7 @@
 <a id="90-02-06-04-a1"></a>
 
 #### [그림 90.2.6.4.a1. `인터페이스` → `대화상자 기본` (Windows) (우리말)](./90-02-06-04-dialog-defaults.md#90-02-06-04-a1)
-![90-02-06-04-a1](https://github.com/wonder13662/gimp/assets/15767104/b8b8e448-26bf-47a5-972e-331b84e9130f)
+![90-02-06-04-a1](https://github.com/wonder13662/gimp/assets/15767104/76ea6ad3-7d56-48db-8f98-1518f292ffdd)
 
 [다른 운영체제와 언어의 `인터페이스` → `대화상자 기본` 확인하기](./90-02-06-04-dialog-defaults.md#90-02-06-04-a2)
 

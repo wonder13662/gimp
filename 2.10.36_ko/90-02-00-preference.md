@@ -38,7 +38,7 @@
 [<img width="720" alt="90.2.6.3.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/4d7736a6-effe-4d8e-bfb2-77fb21bf9b09">](./90-02-06-03-toolbox.md)
 
 ### [90.2.6.4. 대화상자 기본값(Dialog Defaults)](./90-02-06-04-dialog-defaults.md)
-[<img width="720" alt="90.2.6.4.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/b8b8e448-26bf-47a5-972e-331b84e9130f">](./90-02-06-04-dialog-defaults.md)
+[<img width="720" alt="90.2.6.4.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/76ea6ad3-7d56-48db-8f98-1518f292ffdd">](./90-02-06-04-dialog-defaults.md)
 
 ### [90.2.6.5. 도움말 시스템 (Help System)](./90-02-06-05-help-system.md)
 [<img width="720" alt="90.2.6.5.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/e468b794-52be-4336-92f4-f4e9ee14a578">](./90-02-06-05-help-system.md)
