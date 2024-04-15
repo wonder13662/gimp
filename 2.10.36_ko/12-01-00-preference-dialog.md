@@ -64,7 +64,11 @@
 
 [12.1.12. 아이콘 테마(Icon Theme)](./12-01-12-icon-theme.md)
 
-[12.1.13. 도구상자(Toolbox)](./12-01-13-toolbox.md)
+[12.1.13. 도구상자(Toolbox)](./12-01-13-00-toolbox.md)
+
+[12.1.13.1. 모양새(Appearance)](./12-01-13-01-appearance.md)
+
+[12.1.13.2. 도구 설정(Tools Configuration)](./12-01-13-02-tools_configuration.md)
 
 [12.1.14. 대화상자 기본값(Dialog Defaults)](./12-01-14-dialog-defaults.md)
 

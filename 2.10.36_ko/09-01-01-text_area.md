@@ -44,11 +44,11 @@
 #### [영상 90.4.3.14.a82. 키보드의 Shift(⇧) + 방향키로 수정할 텍스트 선택하기](./90-04-03-14-text_layer.md#90-04-03-14-a82)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7bbfc91e-08be-4878-99cb-ae29c661e051"></video>
 
-선택한 텍스트에 대해 [9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-00-text_toolbox.md)의 옵션을 사용할 수 있습니다.
+선택한 텍스트에 대해 [9.1.3. 텍스트 도구상자(Text Toolbox)](./09-01-03-00-text_toolbox.md)의 옵션을 사용할 수 있습니다.
 
 <a id="90-04-03-14-a83"></a>
 
-#### [영상 90.4.3.14.a83. 선택한 텍스트에 텍스트 도구 상자의 옵션(이탤릭체, 밑줄 등) 적용하기](./90-04-03-14-text_layer.md#90-04-03-14-a83)
+#### [영상 90.4.3.14.a83. 선택한 텍스트에 텍스트 도구상자의 옵션(이탤릭체, 밑줄 등) 적용하기](./90-04-03-14-text_layer.md#90-04-03-14-a83)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3b23fd7a-6501-45c5-b8a7-a39b3305feae"></video>
 
 ## 4. 김프 텍스트 편집기(GIMP Text Editor)로 텍스트 수정하기

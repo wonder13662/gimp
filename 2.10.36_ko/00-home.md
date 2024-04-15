@@ -19,7 +19,7 @@
 
 [3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 
-[3.2.1. 기본 도구 상자(The toolbox)](./03-02-01-the-toolbox.md)
+[3.2.1. 기본 도구상자(The toolbox)](./03-02-01-the-toolbox.md)
 
 [3.2.2. 이미지 창(Image window)](./03-02-02-00-image-window.md)
 
@@ -482,7 +482,7 @@
 
 [9.1.2. 텍스트 레이어 관리(Managing Text Layer)](./09-01-02-managing_text_layer.md)
 
-[9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-00-text_toolbox.md)
+[9.1.3. 텍스트 도구상자(Text Toolbox)](./09-01-03-00-text_toolbox.md)
 
 [9.1.3.1. 선택한 텍스트의 글꼴(Font) 바꾸기](./09-01-03-01-font.md)
 
@@ -678,7 +678,11 @@
 
 [12.1.12. 아이콘 테마(Icon Theme)](./12-01-12-icon-theme.md)
 
-[12.1.13. 도구상자(Toolbox)](./12-01-13-toolbox.md)
+[12.1.13. 도구상자(Toolbox)](./12-01-13-00-toolbox.md)
+
+[12.1.13.1. 모양새(Appearance)](./12-01-13-01-appearance.md)
+
+[12.1.13.2. 도구 설정(Tools Configuration)](./12-01-13-02-tools_configuration.md)
 
 [12.1.14. 대화상자 기본값(Dialog Defaults)](./12-01-14-dialog-defaults.md)
 
@@ -2029,6 +2033,8 @@
 [90.4.86. RGB 작업 공간 바꾸기(Convert to RGB Working Space)](./90-04-86-convert_to_rgb_working_space.md)
 
 [90.4.87. 키보드 단축키 설정(Convert to RGB Working Space)](./90-04-87-configure_keyboard_shortcuts.md)
+
+[90.4.88. GIMP 정보(About GIMP)](./90-04-88-about_gimp.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

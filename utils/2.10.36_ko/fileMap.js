@@ -54,7 +54,7 @@ module.exports = {
       [
         '03-02-01-the-toolbox.md', 
         '3.2.1. The toolbox',
-        '3.2.1. 기본 도구 상자(The toolbox)',
+        '3.2.1. 기본 도구상자(The toolbox)',
       ],
       [
         '03-02-02-00-image-window.md',
@@ -675,9 +675,9 @@ module.exports = {
         '12.1.12. Icon Theme'
       ],
       [
-        '12-01-13-toolbox.md', 
+        '12-01-13-00-toolbox.md', 
         '12.1.13. Toolbox',
-        '12.1.13. 기본 도구 상자'
+        '12.1.13. 기본 도구상자'
       ],
       [
         '12-01-14-dialog-defaults.md', 
@@ -845,7 +845,7 @@ module.exports = {
       [
         '14-01-01-introduction.md', 
         '14.1.1. Introduction',
-        '14.1.1. 소개(도구 상자)'
+        '14.1.1. 소개(도구상자)'
       ],
       [
         '14-01-02-tool-icons.md', 

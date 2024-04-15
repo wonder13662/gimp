@@ -36,7 +36,7 @@ GIMP(김프)를 설치하면, 수십 개의 팔레트가 기본적으로 함께 
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8f8431a6-e746-4dc2-bb05-7ed2e4adc1e4"></video>
 
 ### 4-2. 팔레트 편집기의 색으로 전경색(Foreground color) 바꾸기
-[`팔레트 편집기`](./15-03-06-04-palette_editor.md)의 색상을 클릭하면 도구 상자의 전경색을 바꿀 수 있습니다.
+[`팔레트 편집기`](./15-03-06-04-palette_editor.md)의 색상을 클릭하면 도구상자의 전경색을 바꿀 수 있습니다.
 
 <a id="90-03-04-a5"></a>
 
@@ -49,7 +49,7 @@ GIMP(김프)를 설치하면, 수십 개의 팔레트가 기본적으로 함께 
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ca43d56d-6833-41fe-a46b-b5107ba50a35"></video>
 
 ### 4-3. 팔레트 편집기의 색으로 배경색(Background color) 바꾸기
-Ctrl(⌘) 키를 누른 채로 [`팔레트 편집기`](./15-03-06-04-palette_editor.md)의 색상을 클릭하면 도구 상자의 배경색을 바꿀 수 있습니다.
+Ctrl(⌘) 키를 누른 채로 [`팔레트 편집기`](./15-03-06-04-palette_editor.md)의 색상을 클릭하면 도구상자의 배경색을 바꿀 수 있습니다.
 
 <a id="90-03-04-a6"></a>
 

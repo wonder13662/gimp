@@ -7,14 +7,14 @@
 
 <a id="90-03-a101"></a>
 
-#### 그림 90.3.a101. 도구 상자의 아이콘의 작은 삼각형 
+#### 그림 90.3.a101. 도구상자의 아이콘의 작은 삼각형 
 ![90-03-a101](https://github.com/wonder13662/gimp/assets/15767104/5599059d-e637-42d7-aa47-37a8d4e48e5d)
 
 [4.3.3. 도구 아이콘이 사라졌습니다 - 그림 90.3.a101](./04-03-03-some-of-the-tool-icons-are-missing.md#90-03-a101)
 
 <a id="90-03-a102"></a>
 
-#### 영상 90.3.a102. 도구 상자의 아이콘의 작은 삼각형 확인하기
+#### 영상 90.3.a102. 도구상자의 아이콘의 작은 삼각형 확인하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/55e454c5-8d51-48dc-bfb6-4c27930d8848"></video>
 
 [4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.3.a102](./04-03-03-some-of-the-tool-icons-are-missing.md#90-03-a102)
@@ -37,26 +37,30 @@
 
 <a id="90-03-a131"></a>
 
-#### 그림 90.3.a131. 도구 상자의 모습
+#### 그림 90.3.a131. 도구상자의 모습
 ![90-03-a131](https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5)
 
-[3.2. GIMP(김프)의 주요 화면 - 그림 90.3.a131](03-02-00-main-window.md#90-03-a131)
+[3.2. GIMP(김프)의 주요 화면 - 그림 90.3.a131](./03-02-00-main-window.md#90-03-a131)
 
-[3.2.1. 기본 도구 상자(The toolbox) - 그림 90.3.a131](03-02-01-the-toolbox.md#90-03-a131)
+[3.2.1. 기본 도구상자(The toolbox) - 그림 90.3.a131](./03-02-01-the-toolbox.md#90-03-a131)
+
+[12.1.13. 도구상자(Toolbox) - 그림 90.3.a131](./12-01-13-00-toolbox.md#90-03-a131)
+
+[12.1.13.1. 모양새(Appearance) - 그림 90.3.a131](./12-01-13-01-appearance.md#90-03-a131)
 
 <a id="90-03-a141"></a>
 
 #### 영상 90.3.a141. 마우스 커서를 올려놓으면 도구의 설명이 보입니다
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0022d833-4dab-4e04-a388-af9ef0011b1d"></video>
 
-[3.2.1. 기본 도구 상자(The toolbox) - 영상 90.3.a141](./03-02-01-the-toolbox.md#90-03-a141)
+[3.2.1. 기본 도구상자(The toolbox) - 영상 90.3.a141](./03-02-01-the-toolbox.md#90-03-a141)
 
 <a id="90-03-a142"></a>
 
 #### 영상 90.3.a142. 마우스 커서를 올려놓고 F1 키를 눌러 사용자 매뉴얼 페이지로 이동하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/95fd3621-1b95-40a3-ae7b-669ecb1596bf"></video>
 
-[3.2.1. 기본 도구 상자(The toolbox) - 영상 90.3.a142](./03-02-01-the-toolbox.md#90-03-a142)
+[3.2.1. 기본 도구상자(The toolbox) - 영상 90.3.a142](./03-02-01-the-toolbox.md#90-03-a142)
 
 ***
 
@@ -106,8 +110,8 @@
 [![그림 90.3.9.a2. 도구상자 - '색상으로 선택'](https://github.com/wonder13662/gimp/assets/15767104/9e8e22db-18f5-4690-ac6f-b49d1975a32e)](./90-03-02-09-select_by_color.md)
 
 ### [90.3.2.10. 도구 아이콘(Tool icon) - 잘라내기(Crop)](./90-03-02-10-crop.md)
-#### 그림 90.3.2.10.a2. 도구 상자(Toolbox)의 잘라내기 메뉴 위치
-[![그림 90.3.2.10.a2. 도구 상자(Toolbox)의 잘라내기 메뉴 위치](https://github.com/wonder13662/gimp/assets/15767104/8e9db3fb-d8b3-418b-9ea4-74bef33aef62)](./90-03-02-10-crop.md)
+#### 그림 90.3.2.10.a2. 도구상자(Toolbox)의 잘라내기 메뉴 위치
+[![그림 90.3.2.10.a2. 도구상자(Toolbox)의 잘라내기 메뉴 위치](https://github.com/wonder13662/gimp/assets/15767104/8e9db3fb-d8b3-418b-9ea4-74bef33aef62)](./90-03-02-10-crop.md)
 
 ### [90.3.2.11. 도구 아이콘(Tool icon) - 통합 변형(Unified transform)](./90-03-02-11-unified_transform.md)
 #### 그림 90.3.2.11.a2. 도구상자 - 통합 변형
@@ -234,7 +238,7 @@
 ### [90.3.5. 활성화된 이미지(Active Image)](./90-03-05-active_image.md)
 (TODO 이미지 추가 필요)
 
-(TODO 도구 상자의 이미지가 수정되어야 합니다. 전경/배경색, 붓/무늬/그라디언트, 활성화 이미지가 함께 노출되어야 합니다.)
+(TODO 도구상자의 이미지가 수정되어야 합니다. 전경/배경색, 붓/무늬/그라디언트, 활성화 이미지가 함께 노출되어야 합니다.)
 
 ***
 

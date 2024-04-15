@@ -19,7 +19,7 @@
 
 [⬅️ 이전: 9.1.3.6. 선택한 텍스트의 밑줄(Underline)](./09-01-03-06-underline.md)
 
-[⬆️ 위: 9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-00-text_toolbox.md)
+[⬆️ 위: 9.1.3. 텍스트 도구상자(Text Toolbox)](./09-01-03-00-text_toolbox.md)
 
 [⬆️ 위: 9.1. 텍스트 관리(Text management)](./09-01-text-management.md)
 

@@ -1342,6 +1342,8 @@
 
 [90.4.87. 키보드 단축키 설정(Convert to RGB Working Space)](./90-04-87-configure_keyboard_shortcuts.md)
 
+[90.4.88. GIMP 정보(About GIMP)](./90-04-88-about_gimp.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

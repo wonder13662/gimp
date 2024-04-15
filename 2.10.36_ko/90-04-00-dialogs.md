@@ -432,6 +432,10 @@
 #### 그림 90.4.87.a101. `키보드 단축키 설정` 대화상자 (Windows) (우리말)
 ![90-04-87-a101](https://github.com/wonder13662/gimp/assets/15767104/7bc6c2be-e65c-453c-8566-d6d975d6d3f3)
 
+### [90.4.88. GIMP 정보(About GIMP)](./90-04-88-about_gimp.md)
+#### 그림 90.4.88.a101. `GIMP 정보` 대화상자 (Windows) (우리말)
+![90-04-88-a101](https://github.com/wonder13662/gimp/assets/15767104/87dc3ba0-e8f2-4827-81b1-9ded96f2242c)
+
 ***
 
 ## 공통 기능

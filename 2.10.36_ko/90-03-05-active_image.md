@@ -8,7 +8,7 @@
 #### 영상 90.3.5.a2. 활성화 이미지 바꾸기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2954d835-ff30-460a-b9b2-302a4411ff4f"></video>
 
-[3.2.1. 기본 도구 상자(The toolbox) - 영상 90.3.5.a2](./03-02-01-the-toolbox.md#90-03-05-a2)
+[3.2.1. 기본 도구상자(The toolbox) - 영상 90.3.5.a2](./03-02-01-the-toolbox.md#90-03-05-a2)
 
 ***
 

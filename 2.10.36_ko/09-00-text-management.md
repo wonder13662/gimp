@@ -10,7 +10,7 @@
 
 [9.1.2. 텍스트 레이어 관리(Managing Text Layer)](./09-01-02-managing_text_layer.md)
 
-[9.1.3. 텍스트 도구 상자(Text Toolbox)](./09-01-03-00-text_toolbox.md)
+[9.1.3. 텍스트 도구상자(Text Toolbox)](./09-01-03-00-text_toolbox.md)
 
 [9.1.3.1. 선택한 텍스트의 글꼴(Font) 바꾸기](./09-01-03-01-font.md)
 
