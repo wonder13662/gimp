@@ -685,7 +685,7 @@ module.exports = {
         '12.1.14. 대화상자 기본값(Dialog Defaults)'
       ],
       [
-        '12-01-15-help-system.md', 
+        '12-01-15-00-help_system.md', 
         '12.1.15. Help System',
         '12.1.15. 도움말 시스템(Help System)',
       ],

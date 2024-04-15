@@ -41,7 +41,7 @@
 [<img width="720" alt="90.2.6.4.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/76ea6ad3-7d56-48db-8f98-1518f292ffdd">](./90-02-06-04-dialog-defaults.md)
 
 ### [90.2.6.5. 도움말 시스템 (Help System)](./90-02-06-05-help-system.md)
-[<img width="720" alt="90.2.6.5.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/e468b794-52be-4336-92f4-f4e9ee14a578">](./90-02-06-05-help-system.md)
+[<img width="720" alt="90.2.6.5.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/f39e991a-046d-471c-af55-42d58d120f2e">](./90-02-06-05-help-system.md)
 
 ### [90.2.6.6. 화면 (Display)](./90-02-06-06-display.md)
 [<img width="720" alt="90.2.6.6.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/f63a0831-b7f2-4cc6-9d37-1305b1937908">](./90-02-06-06-display.md)

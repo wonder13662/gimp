@@ -72,7 +72,13 @@
 
 [12.1.14. 대화상자 기본값(Dialog Defaults)](./12-01-14-dialog-defaults.md)
 
-[12.1.15. 도움말 시스템(Help System)](./12-01-15-help-system.md)
+[12.1.15. 도움말 시스템(Help System)](./12-01-15-00-help_system.md)
+
+[12.1.15.1. 일반(General)](./12-01-15-01-general.md)
+
+[12.1.15.2. 도움말 탐색기(Help Browser)](./12-01-15-02-help_browser.md)
+
+[12.1.15.3. 동작 검색(Action Search)](./12-01-15-03-action_search.md)
 
 [12.1.16. 화면(Display)](./12-01-16-display.md)
 

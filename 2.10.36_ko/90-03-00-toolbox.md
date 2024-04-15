@@ -21,10 +21,12 @@
 
 <a id="90-03-a111"></a>
 
-#### 영상 90.3.a111. 그룹 아이콘 위에 마우스 커서를 올려 다른 아이콘 확인하기
+#### 영상 90.3.a111. 그룹 아이콘 위에 마우스 커서를 올려 도구 아이콘의 툴팁 확인하기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b8ea8940-8743-488e-a46f-b8158f8886d9"></video>
 
 [4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.3.a111](./04-03-03-some-of-the-tool-icons-are-missing.md#90-03-a111)
+
+[12.1.15.1. 일반(General) -  - 영상 90.3.a111](./12-01-15-01-general.md#90-03-a111)
 
 <a id="90-03-a121"></a>
 

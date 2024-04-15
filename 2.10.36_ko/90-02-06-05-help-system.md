@@ -1,21 +1,51 @@
 # 90.2.6.5. 도움말 시스템 (Help System)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 90.2.6.5.a1. 언어설정: 우리말 (한국어) - windows
 
-<img width="720" alt="90.2.6.5.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/e468b794-52be-4336-92f4-f4e9ee14a578">
+<a id="90-02-06-05-a1"></a>
 
-#### 90.2.6.5.a2. 언어설정: 우리말 (한국어) - mac
+#### 그림 90.2.6.5.a1. `기본 설정` → `인터페이스` → `도움말 시스템` (Windows) (우리말)
+![90-02-06-05-a1](https://github.com/wonder13662/gimp/assets/15767104/f39e991a-046d-471c-af55-42d58d120f2e)
 
-<img width="720" alt="90.2.6.5.a2. 언어설정: 우리말 (한국어) - mac" src="https://github.com/wonder13662/gimp/assets/15767104/6b1ae5d8-c93f-44e1-a4ef-fe5f221dfacc">
+[12.1.15. 도움말 시스템(Help System) - 그림 90.2.6.5.a1](./12-01-15-00-help_system.md#90-02-06-05-a1)
 
-#### 90.2.6.5.a3. 언어설정: 영어 - windows
+<a id="90-02-06-05-a2"></a>
 
-<img width="720" alt="90.2.6.5.a3. 언어설정: 영어 - windows" src="https://github.com/wonder13662/gimp/assets/15767104/ae3f5747-783d-43e5-ac84-91c81e0aad06">
+#### 그림 90.2.6.5.a2. `기본 설정` → `인터페이스` → `도움말 시스템` (Windows) (영어)
+![90-02-06-05-a2](https://github.com/wonder13662/gimp/assets/15767104/48808753-417a-47e0-bf96-365566e2a4e6)
 
-#### 90.2.6.5.a4. 언어설정: 영어 - mac
+<a id="90-02-06-05-a3"></a>
 
-<img width="720" alt="90.2.6.5.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/a8de1c61-568f-43ed-97c8-dc2f63b99cd5">
+#### 그림 90.2.6.5.a3. `기본 설정` → `인터페이스` → `도움말 시스템` (Mac) (우리말)
+![90-02-06-05-a3](https://github.com/wonder13662/gimp/assets/15767104/8f748c09-4810-4b21-ac33-7377eb68eae4)
 
+<a id="90-02-06-05-a4"></a>
+
+#### 그림 90.2.6.5.a4. `기본 설정` → `인터페이스` → `도움말 시스템` (Mac) (영어)
+![90-02-06-05-a4](https://github.com/wonder13662/gimp/assets/15767104/fb80dcd8-8bf9-4180-9c70-5f0e630ec9d1)
+
+<a id="90-02-06-05-a11"></a>
+
+#### 그림 90.2.6.5.a11. `기본 설정` → `인터페이스` → `도움말 시스템` → `일반` (Windows) (우리말)
+![90-02-06-05-a11](https://github.com/wonder13662/gimp/assets/15767104/fccf5eed-4870-4944-9a96-286fa0f6e72d)
+
+[12.1.15.1. 일반(General) - 그림 90.2.6.5.a11](./12-01-15-01-general.md#90-02-06-05-a11)
+
+<a id="90-02-06-05-a11-03-01"></a>
+
+#### 그림 90.2.6.5.a11.3.1. `기본 설정` → `인터페이스` → `도움말 시스템` → `일반` → `사용자 매뉴얼`: 첫번째 드롭다운 목록 (Windows) (우리말)
+![90-02-06-05-a11-03-01-user_manual](https://github.com/wonder13662/gimp/assets/15767104/738dbb87-ad5f-427e-bea5-ccf6a4533841)
+
+[12.1.15.1. 일반(General) - 그림 90.2.6.5.a11.3.1](./12-01-15-01-general.md#90-02-06-05-a11-03-01)
+
+<a id="90-02-06-05-a12"></a>
+
+#### 그림 90.2.6.5.a12. `기본 설정` → `인터페이스` → `도움말 시스템` → `도움말 탐색기` (Windows) (우리말)
+![90-02-06-05-a12](https://github.com/wonder13662/gimp/assets/15767104/fff01933-3696-402a-8d4c-cfceafc0323c)
+
+<a id="90-02-06-05-a13"></a>
+
+#### 그림 90.2.6.5.a13. `기본 설정` → `인터페이스` → `도움말 시스템` → `동작 검색` (Windows) (우리말)
+![90-02-06-05-a13](https://github.com/wonder13662/gimp/assets/15767104/f9d6c2ac-7ff9-4c19-8b03-c3581316b965)
 
 ***
 
