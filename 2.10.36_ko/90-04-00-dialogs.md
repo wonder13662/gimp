@@ -436,6 +436,10 @@
 #### 그림 90.4.88.a101. `GIMP 정보` 대화상자 (Windows) (우리말)
 ![90-04-88-a101](https://github.com/wonder13662/gimp/assets/15767104/87dc3ba0-e8f2-4827-81b1-9ded96f2242c)
 
+### [90.4.89. 모니터 해상도 측정(Calibrate Monitor Resolution)](./90-04-89-calibrate_monitor_resolution.md)
+#### 그림 90.4.89.a101. `모니터 해상도 측정` 대화상자 (Windows) (우리말)
+![90-04-09-a101](https://github.com/wonder13662/gimp/assets/15767104/aba5816c-b1e9-4926-9095-25fec6f9725d)
+
 ***
 
 ## 공통 기능

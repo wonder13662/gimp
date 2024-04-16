@@ -27,7 +27,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.89. 모니터 해상도 측정(Calibrate Monitor Resolution)](./90-04-89-calibrate_monitor_resolution.md)
 
 [⬅️ 이전: 90.4.87. 키보드 단축키 설정(Convert to RGB Working Space)](./90-04-87-configure_keyboard_shortcuts.md)
 
