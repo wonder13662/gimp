@@ -700,7 +700,7 @@ module.exports = {
         '12.1.17. 창 관리(Window Management)',
       ],
       [
-        '12-01-18-image-window.md', 
+        '12-01-18-00-image-window.md', 
         '12.1.18. Image Window',
         '12.1.18. 이미지 창(Image Window)',
       ],

@@ -21,7 +21,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 12.1.18. 이미지 창(Image Window)](./12-01-18-image-window.md)
+[➡️ 다음: 12.1.18. 이미지 창(Image Window)](./12-01-18-00-image-window.md)
 
 [⬅️ 이전: 12.1.16.2. 모니터 해상도(Monitor Resolution)](./12-01-16-02-monitor_resolution.md)
 

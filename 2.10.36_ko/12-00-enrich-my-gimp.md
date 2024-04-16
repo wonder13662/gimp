@@ -92,7 +92,15 @@
 
 [12.1.17.3. 창 위치(Window Positions)](./12-01-17-03-window_positions.md)
 
-[12.1.18. 이미지 창(Image Window)](./12-01-18-image-window.md)
+[12.1.18. 이미지 창(Image Window)](./12-01-18-00-image-window.md)
+
+[12.1.18.1. 일반(General)](./12-01-18-01-general.md)
+
+[12.1.18.2. 확대와 크기 조정 동작(Zoom & Resize Behavior)](./12-01-18-02-zoom_n_resize_behavior.md)
+
+[12.1.18.3. 스페이스 바(Space Bar)](./12-01-18-03-space_bar.md)
+
+[12.1.18.4. 마우스 포인터(Mouse Pointers)](./12-01-18-04-mouse_pointers.md)
 
 [12.1.19. 이미지 창 모양(Image Window Appearance)](./12-01-19-image-window-appearance.md)
 
