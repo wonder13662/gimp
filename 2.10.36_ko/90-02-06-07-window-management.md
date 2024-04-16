@@ -89,6 +89,8 @@
 #### 그림 90.2.6.7.a31. `기본 설정` → `인터페이스` → `창 관리` → `창 위치` (Windows) (우리말)
 ![90-02-06-07-a31](https://github.com/wonder13662/gimp/assets/15767104/04bdfe13-ea8c-4440-a5b0-1abf03e90bcb)
 
+[12.1.17.3. 창 위치(Window Positions) - 그림 90.2.6.7.a31](./12-01-17-03-window_positions.md#90-02-06-07-a31)
+
 ***
 
 ## 다른 페이지로 가기
