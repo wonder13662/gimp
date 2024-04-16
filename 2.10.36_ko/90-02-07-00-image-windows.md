@@ -49,10 +49,61 @@
 #### 그림 90.2.7.a21. `기본 설정` → `이미지 창` → `확대와 크기 조정 동작` (Windows) (우리말)
 ![90-02-07-a21](https://github.com/wonder13662/gimp/assets/15767104/d460c028-a511-4978-a944-7f278433760c)
 
+<a id="90-02-07-a21-01"></a>
+
+#### 영상 90.2.7.a21.1. `기본 설정` → `이미지 창` → `확대와 크기 조정 동작` → `확대/축소시 창 크기 조정`: 켜기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/10bb8b8f-b04d-454f-afb4-ca0c4ca97c0e"></video>
+
+[12.1.18.2. 확대와 크기 조정 동작(Zoom & Resize Behavior) - 영상 90.2.7.a21.1](./12-01-18-02-zoom_n_resize_behavior.md#90-02-07-a21-01)
+
+<a id="90-02-07-a21-02"></a>
+
+#### 영상 90.2.7.a21.2. `기본 설정` → `이미지 창` → `확대와 크기 조정 동작` → `확대/축소시 창 크기 조정`: 끄기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4fe54ca6-93ca-432f-8f44-d3030f25b667"></video>
+
+[12.1.18.2. 확대와 크기 조정 동작(Zoom & Resize Behavior) - 영상 90.2.7.a21.2](./12-01-18-02-zoom_n_resize_behavior.md#90-02-07-a21-02)
+
+<a id="90-02-07-a21-03"></a>
+
+#### 영상 90.2.7.a21.3. `기본 설정` → `이미지 창` → `확대와 크기 조정 동작` → `이미지 크기에 따라 창 크기 조정`: 켜기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7f6ea4d3-8788-4189-b577-35ea28774ab2"></video>
+
+[12.1.18.2. 확대와 크기 조정 동작(Zoom & Resize Behavior) - 영상 90.2.7.a21.3](./12-01-18-02-zoom_n_resize_behavior.md#90-02-07-a21-03)
+
+<a id="90-02-07-a21-04"></a>
+
+#### 영상 90.2.7.a21.4. `기본 설정` → `이미지 창` → `확대와 크기 조정 동작` → `이미지 크기에 따라 창 크기 조정`: 끄기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/64c2728b-46ed-4fc8-8324-8f49e46cb690"></video>
+
+[12.1.18.2. 확대와 크기 조정 동작(Zoom & Resize Behavior) - 영상 90.2.7.a21.4](./12-01-18-02-zoom_n_resize_behavior.md#90-02-07-a21-04)
+
+<a id="90-02-07-a21-05"></a>
+
+#### 그림 90.2.7.a21.5. `기본 설정` → `이미지 창` → `확대와 크기 조정 동작` → `초기 확대 배율`: 드롭다운 목록 (Windows)
+![90-02-07-a21-05](https://github.com/wonder13662/gimp/assets/15767104/75f39667-5275-4c6b-b394-d39624ce854a)
+
+[12.1.18.2. 확대와 크기 조정 동작(Zoom & Resize Behavior) - 그림 90.2.7.a21.5](./12-01-18-02-zoom_n_resize_behavior.md#90-02-07-a21-05)
+
+<a id="90-02-07-a21-06"></a>
+
+#### 영상 90.2.7.a21.6. `기본 설정` → `이미지 창` → `확대와 크기 조정 동작` → `초기 확대 배율` → `전체 이미지 표시` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/884a729c-df67-4d75-8444-1f5cff35bdf3"></video>
+
+[12.1.18.2. 확대와 크기 조정 동작(Zoom & Resize Behavior) - ](./12-01-18-02-zoom_n_resize_behavior.md#)
+
+<a id="90-02-07-a21-07"></a>
+
+#### 영상 90.2.7.a21.7. `기본 설정` → `이미지 창` → `확대와 크기 조정 동작` → `초기 확대 배율` → `1:1` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/76136db6-169f-445a-a9a1-71e6c1a5cb0b"></video>
+
+[12.1.18.2. 확대와 크기 조정 동작(Zoom & Resize Behavior) - ](./12-01-18-02-zoom_n_resize_behavior.md#)
+
 <a id="90-02-07-a31"></a>
 
 #### 그림 90.2.7.a31. `기본 설정` → `이미지 창` → `스페이스 바` (Windows) (우리말)
 ![90-02-07-a31](https://github.com/wonder13662/gimp/assets/15767104/0dbf52b9-4174-44e2-a40a-d0c82915c4de)
+
+[12.1.18.2. 확대와 크기 조정 동작(Zoom & Resize Behavior) - 그림 90.2.7.a31](./12-01-18-02-zoom_n_resize_behavior.md#90-02-07-a31)
 
 <a id="90-02-07-a41"></a>
 
