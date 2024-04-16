@@ -696,7 +696,13 @@
 
 [12.1.16. 화면(Display)](./12-01-16-00-display.md)
 
-[12.1.17. 창 관리(Window Management)](./12-01-17-window-management.md)
+[12.1.17. 창 관리(Window Management)](./12-01-17-00-window-management.md)
+
+[12.1.17.1. 창 관리 설정(Window Manager Hints)](./12-01-17-01-window_manager_hints.md)
+
+[12.1.17.2. 포커스(Focus)](./12-01-17-02-focus.md)
+
+[12.1.17.3. 창 위치(Window Positions)](./12-01-17-03-window_positions.md)
 
 [12.1.18. 이미지 창(Image Window)](./12-01-18-image-window.md)
 

@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 12.1.17. 창 관리(Window Management)](./12-01-17-window-management.md)
+[➡️ 다음: 12.1.17. 창 관리(Window Management)](./12-01-17-00-window-management.md)
 
 [⬅️ 이전: 12.1.16.1. 투명(Transparency)](./12-01-16-01-transparency.md)
 

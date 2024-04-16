@@ -695,7 +695,7 @@ module.exports = {
         '12.1.16. 화면(Display)',
       ],
       [
-        '12-01-17-window-management.md', 
+        '12-01-17-00-window-management.md', 
         '12.1.17. Window Management',
         '12.1.17. 창 관리(Window Management)',
       ],

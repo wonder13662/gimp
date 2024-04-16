@@ -1,20 +1,25 @@
 # 90.2.6.7. 창 관리 (Window Management)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 90.2.6.7.a1. 언어설정: 우리말 (한국어) - windows
 
-<img width="720" alt="90.2.6.7.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/f3915310-b9fd-4591-9d31-1a628604706f">
+<a id="90-02-06-07-a1"></a>
 
-#### 90.2.6.7.a2. 언어설정: 우리말 (한국어) - mac
+#### 90.2.6.7.a1. `기본 설정` → `인터페이스` → `창 관리` (Windows) (우리말)
+![90-02-06-07-a1](https://github.com/wonder13662/gimp/assets/15767104/0d0913a5-a78c-4a5e-acb1-cad285cdc61f)
 
-<img width="720" alt="90.2.6.7.a2. 언어설정: 우리말 (한국어) - mac" src="https://github.com/wonder13662/gimp/assets/15767104/a33235ce-ba57-4e9c-8f3d-4e7a2beb2925">
+<a id="90-02-06-07-a2"></a>
 
-#### 90.2.6.7.a3. 언어설정: 영어 - windows
+#### 90.2.6.7.a2. `기본 설정` → `인터페이스` → `창 관리` (Windows) (영어)
+![90-02-06-07-a2](https://github.com/wonder13662/gimp/assets/15767104/9c8a3118-69c6-4f69-8754-2d77e876875f)
 
-<img width="720" alt="90.2.6.7.a3. 언어설정: 영어 - windows" src="https://github.com/wonder13662/gimp/assets/15767104/d6f69b22-93c1-4024-b866-9ac43a7ebb7e">
+<a id="90-02-06-07-a3"></a>
 
-#### 90.2.6.7.a4. 언어설정: 영어 - mac
+#### 90.2.6.7.a3. `기본 설정` → `인터페이스` → `창 관리` (Mac) (우리말)
+![90-02-06-07-a3](https://github.com/wonder13662/gimp/assets/15767104/d0d6a1d2-bad7-4a63-a4d8-a767c1d6c781)
 
-<img width="720" alt="90.2.6.7.a4. 언어설정: 영어 - mac" src="https://github.com/wonder13662/gimp/assets/15767104/754a7e0b-f7c1-4ef7-8493-2b892bd1b6bc">
+<a id="90-02-06-07-a4"></a>
+
+#### 90.2.6.7.a4. `기본 설정` → `인터페이스` → `창 관리` (Mac) (영어)
+![90-02-06-07-a4](https://github.com/wonder13662/gimp/assets/15767104/bc450a87-ec81-419d-b7d7-839beb1924bf)
 
 ***
 
