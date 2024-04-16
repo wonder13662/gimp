@@ -25,7 +25,7 @@ GIMP(김프)는 창을 직접 제어할 수 없다는 점을 주의하세요. �
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 12.1.17.1. 창 관리 설정(Window Manager Hints)](./12-01-17-01-window_manager_hints.md)
 
 [⬅️ 이전: 12.1.16.2. 모니터 해상도(Monitor Resolution)](./12-01-16-02-monitor_resolution.md)
 
