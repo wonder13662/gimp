@@ -80,7 +80,7 @@
 
 [12.1.15.3. 동작 검색(Action Search)](./12-01-15-03-action_search.md)
 
-[12.1.16. 화면(Display)](./12-01-16-display.md)
+[12.1.16. 화면(Display)](./12-01-16-00-display.md)
 
 [12.1.17. 창 관리(Window Management)](./12-01-17-window-management.md)
 

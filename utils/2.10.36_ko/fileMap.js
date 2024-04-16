@@ -690,7 +690,7 @@ module.exports = {
         '12.1.15. 도움말 시스템(Help System)',
       ],
       [
-        '12-01-16-display.md', 
+        '12-01-16-00-display.md', 
         '12.1.16. Display',
         '12.1.16. 화면(Display)',
       ],
