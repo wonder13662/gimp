@@ -53,7 +53,7 @@
 [<img width="720" alt="90.2.7.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/018566bf-dbe6-495a-a62e-648509399ba5">](./90-02-07-00-image-windows.md)
 
 ### [90.2.7.1. 모양새 (Appearance)](./90-02-07-01-appearance.md)
-[<img width="720" alt="90.2.7.1.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/02c6dea9-0a86-4dd6-9920-cc840a6cdb46">](./90-02-07-01-appearance.md)
+[<img width="720" alt="90.2.7.1.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/d1a75c59-320f-4835-b679-c037ec4f7425">](./90-02-07-01-appearance.md)
 
 ### [90.2.7.2. 제목과 상태 (Title & Status)](./90-02-07-02-title-n-status.md)
 [<img width="720" alt="90.2.7.2.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/d5e10d65-40b5-4cd9-ba08-a82a02468e86">](./90-02-07-02-title-n-status.md)
