@@ -2,7 +2,7 @@
 
 <a id="90-02-07-02-a1"></a>
 
-#### [90.2.7.2.a1. `기본 설정` → `이미지 창` → `제목과 상태` (Windows) (우리말)](./90-02-07-02-title-n-status.md#90-02-07-02-a1)
+#### [그림 90.2.7.2.a1. `기본 설정` → `이미지 창` → `제목과 상태` (Windows) (우리말)](./90-02-07-02-title-n-status.md#90-02-07-02-a1)
 ![90-02-07-02-a1](https://github.com/wonder13662/gimp/assets/15767104/48ec56a1-7da9-467c-b51b-027cbfcb2823)
 
 [다른 운영체제와 언어의 `기본 설정` → `이미지 창` → `제목과 상태` 확인하기](./90-02-07-02-title-n-status.md#90-02-07-02-a2)
@@ -51,7 +51,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 12.1.21. 이미지 창 스냅 동작(Image Window Snapping Behavior)](./12-01-21-image-window-snapping-behavior.
+[➡️ 다음: 12.1.21. 이미지 창 스냅 동작(Image Window Snapping Behavior)](./12-01-21-image-window-snapping-behavior.md)
 
 [⬅️ 이전: 12.1.19. 이미지 창 모양(Image Window Appearance)](./12-01-19-image-window-appearance.md)
 
