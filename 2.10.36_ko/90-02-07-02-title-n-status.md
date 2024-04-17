@@ -3,20 +3,20 @@
 
 <a id="90-02-07-02-a1"></a>
 
-#### 90.2.7.2.a1. 제목과 상태 (Title & Status) (Windows) (우리말)
+#### 90.2.7.2.a1. `기본 설정` → `이미지 창` → `제목과 상태` (Windows) (우리말)
 ![90-02-07-02-a1](https://github.com/wonder13662/gimp/assets/15767104/48ec56a1-7da9-467c-b51b-027cbfcb2823)
 
 [3.2.2.9. 상태 표시 영역 (Status Area) - 90.2.7.2.a1](./03-02-02-09-status-area.md#90-02-07-02-a1)
 
 <a id="90-02-07-02-a2"></a>
 
-#### 90.2.7.2.a2. 제목과 상태 (Title & Status) (Windows) (영어)
+#### 90.2.7.2.a2. `기본 설정` → `이미지 창` → `제목과 상태` (Windows) (영어)
 ![90-02-07-image-windowx-02-tile-n-status(영어)(windows)(compact)](https://github.com/wonder13662/gimp/assets/15767104/380e83b4-d7f7-4885-aa73-cc517aa8bbb0)
 
-#### 90.2.7.2.a3. 제목과 상태 (Title & Status) (Mac) (우리말)
+#### 90.2.7.2.a3. `기본 설정` → `이미지 창` → `제목과 상태` (Mac) (우리말)
 ![90-02-07-image-windowx-02-tile-n-status(우리말)(mac)(compact)(720)](https://github.com/wonder13662/gimp/assets/15767104/23cc87ad-4220-42a3-8258-89cfca4fb7d6)
 
-#### 90.2.7.2.a4. 제목과 상태 (Title & Status) (Mac) (영어)
+#### 90.2.7.2.a4. `기본 설정` → `이미지 창` → `제목과 상태` (Mac) (영어)
 ![90-02-07-image-windowx-02-tile-n-status(영문)(mac)(compact)(720)](https://github.com/wonder13662/gimp/assets/15767104/63ea910e-3ca1-4b93-89af-4e24b9405772)
 
 ***
