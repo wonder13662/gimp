@@ -717,7 +717,7 @@ module.exports = {
       [
         '12-01-21-image-window-snapping-behavior.md', 
         '12.1.21. Image Window Snapping Behavior',
-        '12.1.21. 이미지 창 스냅 동작(Image Window Snapping Behavior)'
+        '12.1.21. 이미지 창 달라붙기 동작(Image Window Snapping Behavior)'
       ],
       [
         '12-01-22-input-devices.md', 

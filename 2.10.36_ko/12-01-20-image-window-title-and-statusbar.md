@@ -51,7 +51,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 12.1.21. 이미지 창 스냅 동작(Image Window Snapping Behavior)](./12-01-21-image-window-snapping-behavior.md)
+[➡️ 다음: 12.1.21. 이미지 창 달라붙기 동작(Image Window Snapping Behavior)](./12-01-21-image-window-snapping-behavior.md)
 
 [⬅️ 이전: 12.1.19. 이미지 창 모양(Image Window Appearance)](./12-01-19-image-window-appearance.md)
 

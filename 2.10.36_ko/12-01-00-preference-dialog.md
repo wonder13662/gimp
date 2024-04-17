@@ -104,7 +104,7 @@
 
 [12.1.20. 이미지 창 제목표시줄과 상태표시줄(Image Window Title and Statusbar)](./12-01-20-image-window-title-and-statusbar.md)
 
-[12.1.21. 이미지 창 스냅 동작(Image Window Snapping Behavior)](./12-01-21-image-window-snapping-behavior.md)
+[12.1.21. 이미지 창 달라붙기 동작(Image Window Snapping Behavior)](./12-01-21-image-window-snapping-behavior.md)
 
 [12.1.22. 입력 장치(Input Devices)](./12-01-22-input-devices.md)
 
