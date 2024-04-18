@@ -1,6 +1,8 @@
 # 7.9.1. 붓 크기를 바꾸는 방법
 붓 크기를 여러가지 방법으로 바꿀 수 있습니다.
 
+<a id="07-09-01-s1"></a>
+
 ## 1. 슬라이더로 붓 크기 바꾸기
 도구 옵션의 `크기` 슬라이더를 사용해서 붓 크기를 바꿀 수 있습니다.
 
@@ -16,6 +18,8 @@
 #### [그림 90.3.a121. 붓 대화상자를 사용하는 도구상자 아이콘](./90-03-00-toolbox.md#90-03-a121)
 ![90-03-a121](https://github.com/wonder13662/gimp/assets/15767104/3d227356-1a44-4a9b-95be-7912d864e348)
 
+<a id="07-09-01-s2"></a>
+
 ## 2. 단축키로 붓 크기 바꾸기
 붓 크기를 바꾸는 기본 단축키를 사용할 수 있습니다.
 
@@ -26,6 +30,8 @@
 
 #### 그림 7.9.1.a101. 단축키로 붓 크기 바꾸기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/67d2fc42-5b50-4d13-b0e2-ffc5359217fc"></video>
+
+<a id="07-09-01-s3"></a>
 
 ## 3. 마우스 스크롤휠로 붓 크기 바꾸기
 마우스 스크롤휠로 붓의 크기를 바꿀 수 있습니다.
@@ -38,13 +44,17 @@
 
 ⚠️ 주의: Mac에서는 마우스 스크롤휠로 붓 크기 바꾸기가 작동하지 않습니다.
 
+<a id="07-09-01-s4"></a>
+
 ## 4. 마우스 휠에 붓 크기 바꾸기 설정하기
 
 ### 4-1. `기본 설정` → `입력 장치` → `입력 제어기`
 `기본 설정` → `입력 장치` → `입력 제어기`를 선택합니다. **현재 사용중인 제어기** 목록에서 "Main Mouse Wheel"을 더블 클릭합니다.
 
-#### 90.2.8.1.a11. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말) - Main Mouse Wheel
-![90-02-08-input-devicex-01-input-controllers(우리말)(windows)-focus-main_mouse_wheel](https://github.com/wonder13662/gimp/assets/15767104/91f6814e-14a0-4125-b424-ce08d3e6790a)
+<a id="90-02-08-01-a11"></a>
+
+#### [90.2.8.1.a11. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말) - Main Mouse Wheel](./90-02-08-01-input-controllers.md#90-02-08-01-a11)
+![90-02-08-01-a11](https://github.com/wonder13662/gimp/assets/15767104/323465c7-7f4e-42f8-bf4f-e79fe10e5d6e)
 
 ### 4-2. 이벤트 편집 모드로 들어가기
 
@@ -85,13 +95,17 @@
 #### 영상 7.9.1.a105. 마우스 스크롤휠로 붓 크기 바꾸기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c31a1aa7-056a-40fd-aed8-ead4eca8b294"></video>
 
+<a id="07-09-01-s5"></a>
+
 ## 5. 키보드 위, 아래 화살표키에 붓 크기 바꾸기 설정하기
 
 ### 5-1. `기본 설정` → `입력 장치` → `입력 제어기`
 `기본 설정` → `입력 장치` → `입력 제어기`를 선택합니다. **현재 사용중인 제어기** 목록에서 "Main Keyboard"을 더블 클릭합니다.
 
-#### 90.2.8.1.a11. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말) - Main Keyboard
-![90-02-08-input-devicex-01-input-controllers(우리말)(windows)-focus-main_keyboard](https://github.com/wonder13662/gimp/assets/15767104/3b5a7005-bb64-4809-86bf-67fb2f110245)
+<a id="90-02-08-01-a12"></a>
+
+#### [90.2.8.1.a12. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말) - Main Keyboard](./90-02-08-01-input-controllers.md#)
+![90-02-08-01-a12](https://github.com/wonder13662/gimp/assets/15767104/532d0cf8-1bd4-4cf3-a0d6-8c9e45d5ec8e)
 
 ### 5-2. 입력 제어기 설정 창
 입력 제어기 설정 창이 나옵니다. 왼쪽 컬럼 "이벤트(Event)"에서 "커서 위(Cursor Up)"과 "커서 아래(Cursor Down)"에 각각 연결합니다.
@@ -104,6 +118,12 @@
 
 #### 영상 7.9.1.a112. 키보드 위, 아래 화살표키로 붓 크기 바꾸기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5f1c563b-ede3-453a-81f8-a9d2e294fba1"></video>
+
+***
+
+## 관련 정보
+
+[12.1.23. 입력 제어기(Input Controllers)](./12-01-23-input-controllers.md)
 
 ***
 

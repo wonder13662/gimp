@@ -1,19 +1,45 @@
 # 90.2.8.1. 입력 제어기 (Input Controllers)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 90.2.8.1.a1. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말)
-![90.2.8.1.a1. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/fdd257be-6bbc-4d67-b0b3-427c29416f2c)
 
-#### 90.2.8.1.a2. `기본설정` → `입력 장치` → `입력 제어기` (windows) (영어)
-![90.2.8.1.a2. `기본설정` → `입력 장치` → `입력 제어기` (windows) (영어)](https://github.com/wonder13662/gimp/assets/15767104/f2e1b11a-addf-42c4-86ef-f334ddf5d9e6)
+<a id="90-02-08-01-a1"></a>
 
-#### 90.2.8.1.a3. `기본설정` → `입력 장치` → `입력 제어기` (mac) (우리말)
-![90.2.8.1.a3. `기본설정` → `입력 장치` → `입력 제어기` (mac) (우리말)](https://github.com/wonder13662/gimp/assets/15767104/0104a955-98c8-4984-b3e4-bc92a4fb4831)
+#### 그림 90.2.8.1.a1. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말)
+![90-02-08-01-a1](https://github.com/wonder13662/gimp/assets/15767104/ecc47b6c-f2ef-44a9-9401-bb1a12352671)
 
-#### 90.2.8.1.a4. `기본설정` → `입력 장치` → `입력 제어기` (mac) (영어)
-![90.2.8.1.a4. `기본설정` → `입력 장치` → `입력 제어기` (mac) (영어)](https://github.com/wonder13662/gimp/assets/15767104/1b520516-3bad-477d-a5b3-a48a0f273a50)
+[12.1.23. 입력 제어기(Input Controllers) - 그림 90.2.8.1.a1](./12-01-23-input-controllers.md#90-02-08-01-a1)
 
-#### 90.2.8.1.a11. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말) - Main Mouse Wheel
-![90-02-08-input-devicex-01-input-controllers(우리말)(windows)-focus-main_mouse_wheel](https://github.com/wonder13662/gimp/assets/15767104/91f6814e-14a0-4125-b424-ce08d3e6790a)
+<a id="90-02-08-01-a2"></a>
+
+#### 그림 90.2.8.1.a2. `기본설정` → `입력 장치` → `입력 제어기` (windows) (영어)
+![90-02-08-01-a2](https://github.com/wonder13662/gimp/assets/15767104/2746eb93-dd69-4a75-843d-62cc78f5f54b)
+
+<a id="90-02-08-01-a3"></a>
+
+#### 그림 90.2.8.1.a3. `기본설정` → `입력 장치` → `입력 제어기` (mac) (우리말)
+![90-02-08-01-a3](https://github.com/wonder13662/gimp/assets/15767104/ad36cd72-c207-4b6d-9690-6ae7e43b1821)
+
+<a id="90-02-08-01-a4"></a>
+
+#### 그림 90.2.8.1.a4. `기본설정` → `입력 장치` → `입력 제어기` (mac) (영어)
+![90-02-08-01-a4](https://github.com/wonder13662/gimp/assets/15767104/1ba5575b-de87-480e-87b3-f492b64b8d77)
+
+<a id="90-02-08-01-a11"></a>
+
+#### 그림 90.2.8.1.a11. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말) - Main Mouse Wheel
+![90-02-08-01-a11](https://github.com/wonder13662/gimp/assets/15767104/323465c7-7f4e-42f8-bf4f-e79fe10e5d6e)
+
+[7.9.1. 붓 크기를 바꾸는 방법 - 그림 90.2.8.1.a11](./07-09-01-how-to-change-the-size-of-a-brush.md#90-02-08-01-a11)
+
+<a id="90-02-08-01-a12"></a>
+
+#### 그림 90.2.8.1.a12. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말) - Main Keyboard
+![90-02-08-01-a12](https://github.com/wonder13662/gimp/assets/15767104/532d0cf8-1bd4-4cf3-a0d6-8c9e45d5ec8e)
+
+[7.9.1. 붓 크기를 바꾸는 방법 - 그림 90.2.8.1.a12](./07-09-01-how-to-change-the-size-of-a-brush.md#90-02-08-01-a12)
+
+#### 그림 90.2.8.1.a21. `기본설정` → `입력 장치` → `입력 제어기` → `현재 사용중인 제어기`: 수정버튼 (windows) (우리말)
+
+#### 영상 90.2.8.1.a22. `기본설정` → `입력 장치` → `입력 제어기` → `현재 사용중인 제어기`: 수정버튼 (windows) (우리말)
 
 ***
 

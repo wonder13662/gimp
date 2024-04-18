@@ -2060,6 +2060,10 @@
 
 [90.4.90. 입력 장치 설정(Calibrate Monitor Resolution)](./90-04-90-configure_input_devices.md)
 
+[90.4.91. 제어기 제거(Remove Controller)](./90-04-91-remove_controller.md)
+
+[90.4.92. 제어기의 이벤트 동작 선택(Select Controller Event Action)](./90-04-92-select_controller_event_action.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

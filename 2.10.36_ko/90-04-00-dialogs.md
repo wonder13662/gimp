@@ -306,7 +306,7 @@
 
 ### [90.4.57. 입력 제어기 설정(Configure Input Controller)](./90-04-57-configure_input_controller.md)
 #### 그림 90.4.57.a101. `입력 제어기 설정` 대화상자 (Windows) (우리말)
-![90-04-57-configure_input_controller(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/27dd0768-453d-4ec9-b449-79527c6ed202)
+![90-04-57-a101](https://github.com/wonder13662/gimp/assets/15767104/27dd0768-453d-4ec9-b449-79527c6ed202)
 
 ### [90.4.58. 제어기의 이벤트 동작 선택(Select Controller Event Action)](./90-04-58-select_controller_event_action.md)
 #### 그림 90.4.58.a101. `제어기의 이벤트 동작 선택` 대화상자 (Windows) (우리말)
@@ -443,6 +443,14 @@
 ### [90.4.90. 입력 장치 설정(Calibrate Monitor Resolution)](./90-04-90-configure_input_devices.md)
 #### 그림 90.4.90.a101. `입력 장치 설정` 대화상자 (Windows) (우리말)
 ![90-04-90-a101](https://github.com/wonder13662/gimp/assets/15767104/d06f8fe9-27f3-4fb9-8a32-66c60e199663)
+
+### [90.4.91. 제어기 제거(Remove Controller)](./90-04-91-remove_controller.md)
+#### 그림 90.4.91.a101. `제어기 제거` 대화상자 (Windows) (우리말)
+![90-04-91-a101](https://github.com/wonder13662/gimp/assets/15767104/ddbf4cc9-4e84-422a-8733-1f7e30227cab)
+
+### [90.4.92. 제어기의 이벤트 동작 선택(Select Controller Event Action)](./90-04-92-select_controller_event_action.md)
+#### 그림 90.4.92.a101. `제어기의 이벤트 동작 선택` 대화상자 (Windows) (우리말)
+![90-04-92-a101](https://github.com/wonder13662/gimp/assets/15767104/3da0ec1a-15c1-4361-983c-e860b0395570)
 
 ***
 
