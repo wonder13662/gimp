@@ -27,7 +27,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.92. 제어기의 이벤트 동작 선택(Select Controller Event Action)](./90-04-92-select_controller_event_action.md)
 
 [⬅️ 이전: 90.4.90. 입력 장치 설정(Calibrate Monitor Resolution)](./90-04-90-configure_input_devices.md)
 

@@ -452,6 +452,14 @@
 #### 그림 90.4.92.a101. `제어기의 이벤트 동작 선택` 대화상자 (Windows) (우리말)
 ![90-04-92-a101](https://github.com/wonder13662/gimp/assets/15767104/3da0ec1a-15c1-4361-983c-e860b0395570)
 
+### [90.4.93. 임시 폴더 선택(Select Folder for Temporary Files)](./90-04-93-select_folder_for_temporary_files.md)
+#### 그림 90.4.93.a101. `임시 폴더 선택` 대화상자 (Windows) (우리말)
+![90-04-93-a101](https://github.com/wonder13662/gimp/assets/15767104/18b11064-4a1f-49f1-b67c-13ea8ae12dcc)
+
+### [90.4.94. 스왑 디렉터리 선택(Select Swap Folder)](./90-04-94-select_swap_folder.md)
+#### 그림 90.4.94.a101. `스왑 디렉터리 선택` 대화상자 (Windows) (우리말)
+![90-04-94-a101](https://github.com/wonder13662/gimp/assets/15767104/302f4c9e-f77c-4389-ae2f-5a0295b4e15e)
+
 ***
 
 ## 공통 기능

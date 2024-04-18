@@ -1352,6 +1352,10 @@
 
 [90.4.92. 제어기의 이벤트 동작 선택(Select Controller Event Action)](./90-04-92-select_controller_event_action.md)
 
+[90.4.93. 임시 폴더 선택(Select Folder for Temporary Files)](./90-04-93-select_folder_for_temporary_files.md)
+
+[90.4.94. 스왑 디렉터리 선택(Select Swap Folder)](./90-04-94-select_swap_folder.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

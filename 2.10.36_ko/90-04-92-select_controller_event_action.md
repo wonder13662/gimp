@@ -27,9 +27,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.93. 임시 폴더 선택(Select Folder for Temporary Files)](./90-04-93-select_folder_for_temporary_files.md)
 
-[⬅️ 이전: 90.4.90. 입력 장치 설정(Calibrate Monitor Resolution)](./90-04-90-configure_input_devices.md)
+[⬅️ 이전: 90.4.91. 제어기 제거(Remove Controller)](./90-04-91-remove_controller.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 
