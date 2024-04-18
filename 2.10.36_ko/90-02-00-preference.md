@@ -62,7 +62,7 @@
 [<img width="720" alt="90.2.7.3.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/3efba49e-d8a7-4af4-9779-d8b09393593b">](./90-02-07-03-snapping.md)
 
 ## [90.2.8. 입력 장치 (Input Devices)](./90-02-08-00-input-device.md)
-[<img width="720" alt="90.2.8.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/2f0d3e1d-d971-4159-92ff-c9a51e114081">](./90-02-08-00-input-device.md)
+[<img width="720" alt="90.2.8.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/e9e26526-e067-46a9-a2f3-9164d0d7986e">](./90-02-08-00-input-device.md)
 
 ### [90.2.8.1. 입력 제어기 (Input Controllers)](./90-02-08-01-input-controllers.md)
 [<img width="720" alt="90.2.8.1.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/fdd257be-6bbc-4d67-b0b3-427c29416f2c">](./90-02-08-01-input-controllers.md)

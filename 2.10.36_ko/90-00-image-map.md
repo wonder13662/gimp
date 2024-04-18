@@ -1346,6 +1346,8 @@
 
 [90.4.89. 모니터 해상도 측정(Calibrate Monitor Resolution)](./90-04-89-calibrate_monitor_resolution.md)
 
+[90.4.90. 입력 장치 설정(Calibrate Monitor Resolution)](./90-04-90-configure_input_devices.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

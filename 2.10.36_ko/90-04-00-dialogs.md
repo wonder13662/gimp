@@ -438,7 +438,11 @@
 
 ### [90.4.89. 모니터 해상도 측정(Calibrate Monitor Resolution)](./90-04-89-calibrate_monitor_resolution.md)
 #### 그림 90.4.89.a101. `모니터 해상도 측정` 대화상자 (Windows) (우리말)
-![90-04-09-a101](https://github.com/wonder13662/gimp/assets/15767104/aba5816c-b1e9-4926-9095-25fec6f9725d)
+![90-04-89-a101](https://github.com/wonder13662/gimp/assets/15767104/aba5816c-b1e9-4926-9095-25fec6f9725d)
+
+### [90.4.90. 입력 장치 설정(Calibrate Monitor Resolution)](./90-04-90-configure_input_devices.md)
+#### 그림 90.4.90.a101. `입력 장치 설정` 대화상자 (Windows) (우리말)
+![90-04-90-a101](https://github.com/wonder13662/gimp/assets/15767104/d06f8fe9-27f3-4fb9-8a32-66c60e199663)
 
 ***
 
