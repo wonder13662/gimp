@@ -36,7 +36,7 @@
 
 [➡️ 다음: 90.2.8.1. 입력 제어기 (Input Controllers)](./90-02-08-01-input-controllers.md)
 
-[⬅️ 이전: 90.2.7.3. 달라붙기 설정 (Snapping)](./90-02-07-03-snapping.md)
+[⬅️ 이전: 90.2.7.3. 맞추기 설정 (Snapping)](./90-02-07-03-snapping.md)
 
 [⬆️ 위: 90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 

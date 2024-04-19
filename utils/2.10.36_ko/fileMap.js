@@ -717,7 +717,7 @@ module.exports = {
       [
         '12-01-21-image-window-snapping-behavior.md', 
         '12.1.21. Image Window Snapping Behavior',
-        '12.1.21. 이미지 창 달라붙기 동작(Image Window Snapping Behavior)'
+        '12.1.21. 이미지 창 맞추기 동작(Image Window Snapping Behavior)'
       ],
       [
         '12-01-22-input-devices.md', 
@@ -742,12 +742,12 @@ module.exports = {
       [
         '12-02-00-grids-and-guides.md', 
         '12.2. Grids and guides',
-        '12.2. 모눈과 안내선(Grids and guides)'
+        '12.2. 격자과 안내선(Grids and guides)'
       ],
       [
         '12-02-01-the-image-grid.md', 
         '12.2.1. The image grid',
-        '12.2.1. 이미지 모눈(The image grid)'
+        '12.2.1. 이미지 격자(The image grid)'
       ],
       [
         '12-02-02-guides.md', 
@@ -757,7 +757,7 @@ module.exports = {
       [
         '12-03-rendering-a-grid.md', 
         '12.3. Rendering a grid',
-        '12.3. 모눈 만들기(Rendering a grid)'
+        '12.3. 격자 만들기(Rendering a grid)'
       ],
       [
         '12-04-how-to-set-your-tile-cache.md', 

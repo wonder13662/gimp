@@ -460,6 +460,10 @@
 #### 그림 90.4.94.a101. `스왑 디렉터리 선택` 대화상자 (Windows) (우리말)
 ![90-04-94-a101](https://github.com/wonder13662/gimp/assets/15767104/302f4c9e-f77c-4389-ae2f-5a0295b4e15e)
 
+### [90.4.95. 격자 설정(Configure Grid)](./90-04-95-configure_grid.md)
+#### 그림 90.4.95.a101. `격자 설정` 대화상자 (Windows) (우리말)
+![90-04-95-a101](https://github.com/wonder13662/gimp/assets/15767104/e764ecdc-495a-452d-b171-1cec974d01b1)
+
 ***
 
 ## 공통 기능

@@ -58,7 +58,7 @@
 ### [90.2.7.2. 제목과 상태 (Title & Status)](./90-02-07-02-title-n-status.md)
 [<img width="720" alt="90.2.7.2.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/d5e10d65-40b5-4cd9-ba08-a82a02468e86">](./90-02-07-02-title-n-status.md)
 
-### [90.2.7.3. 달라붙기 설정 (Snapping)](./90-02-07-03-snapping.md)
+### [90.2.7.3. 맞추기 설정 (Snapping)](./90-02-07-03-snapping.md)
 [<img width="720" alt="90.2.7.3.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/3efba49e-d8a7-4af4-9779-d8b09393593b">](./90-02-07-03-snapping.md)
 
 ## [90.2.8. 입력 장치 (Input Devices)](./90-02-08-00-input-device.md)

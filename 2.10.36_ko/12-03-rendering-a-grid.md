@@ -1,4 +1,4 @@
-# 12.3. 모눈 만들기(Rendering a grid)
+# 12.3. 격자 만들기(Rendering a grid)
 ## ? [?]()
 
 ### [Home](./00-home.md)

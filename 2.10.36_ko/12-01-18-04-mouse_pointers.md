@@ -29,7 +29,7 @@
 
 <a id="12-01-18-04-s1-01"></a>
 
-### 1-1. 스트로크에 붓 윤곽에 달라붙기(Snap brush outline to stroke)
+### 1-1. 스트로크에 붓 윤곽에 맞추기(Snap brush outline to stroke)
 (TODO 이 기능은 공식 가이드에 나와있지 않습니다. 추후 확인하여 내용을 추가할 예정입니다)
 
 <a id="12-01-18-04-s2"></a>

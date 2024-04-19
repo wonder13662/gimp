@@ -106,7 +106,7 @@
 
 [12.1.20. 이미지 창 제목표시줄과 상태표시줄(Image Window Title and Statusbar)](./12-01-20-image-window-title-and-statusbar.md)
 
-[12.1.21. 이미지 창 달라붙기 동작(Image Window Snapping Behavior)](./12-01-21-image-window-snapping-behavior.md)
+[12.1.21. 이미지 창 맞추기 동작(Image Window Snapping Behavior)](./12-01-21-image-window-snapping-behavior.md)
 
 [12.1.22. 입력 장치(Input Devices)](./12-01-22-input-devices.md)
 
@@ -116,13 +116,13 @@
 
 [12.1.25. 데이터 폴더(DataFolders)](./12-01-25-data-folders.md)
 
-[12.2. 모눈과 안내선(Grids and guides)](./12-02-00-grids-and-guides.md)
+[12.2. 격자과 안내선(Grids and guides)](./12-02-00-grids-and-guides.md)
 
-[12.2.1. 이미지 모눈(The image grid)](./12-02-01-the-image-grid.md)
+[12.2.1. 이미지 격자(The image grid)](./12-02-01-the-image-grid.md)
 
 [12.2.2. 안내선(Guides)](./12-02-02-guides.md)
 
-[12.3. 모눈 만들기(Rendering a grid)](./12-03-rendering-a-grid.md)
+[12.3. 격자 만들기(Rendering a grid)](./12-03-rendering-a-grid.md)
 
 [12.4. 타일 캐쉬 설정하는 방법(How to set your tile cache)](./12-04-how-to-set-your-tile-cache.md)
 

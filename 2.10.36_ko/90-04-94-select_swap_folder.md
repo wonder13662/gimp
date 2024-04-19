@@ -34,7 +34,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.95. 격자 설정(Configure Grid)](./90-04-95-configure_grid.md)
 
 [⬅️ 이전: 90.4.93. 임시 폴더 선택(Select Folder for Temporary Files)](./90-04-93-select_folder_for_temporary_files.md)
 

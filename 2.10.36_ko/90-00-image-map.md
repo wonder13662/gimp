@@ -834,7 +834,7 @@
 
 [90.2.7.2. 제목과 상태 (Title & Status)](./90-02-07-02-title-n-status.md)
 
-[90.2.7.3. 달라붙기 설정 (Snapping)](./90-02-07-03-snapping.md)
+[90.2.7.3. 맞추기 설정 (Snapping)](./90-02-07-03-snapping.md)
 
 [90.2.8. 입력 장치 (Input Devices)](./90-02-08-00-input-device.md)
 
@@ -1355,6 +1355,8 @@
 [90.4.93. 임시 폴더 선택(Select Folder for Temporary Files)](./90-04-93-select_folder_for_temporary_files.md)
 
 [90.4.94. 스왑 디렉터리 선택(Select Swap Folder)](./90-04-94-select_swap_folder.md)
+
+[90.4.95. 격자 설정(Configure Grid)](./90-04-95-configure_grid.md)
 
 <a id="90-00-s5"></a>
 
