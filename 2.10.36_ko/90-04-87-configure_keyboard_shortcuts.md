@@ -1,4 +1,4 @@
-# 90.4.87. 키보드 단축키 설정(Convert to RGB Working Space)
+# 90.4.87. 키보드 단축키 설정(Configure Keyboard Shortcuts)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 
 <a id="90-04-87-a101"></a>
@@ -22,6 +22,13 @@
 
 #### 그림 90.4.87.a104. `키보드 단축키 설정` 대화상자 (Mac) (영어)
 ![90-04-87-a104](https://github.com/wonder13662/gimp/assets/15767104/0330f563-f531-4b1e-8da5-fa565f72daa8)
+
+<a id="90-04-87-a111"></a>
+
+#### 영상 90.4.87.a111. `키보드 단축키 설정` 대화상자: 단축키 설정 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e495b362-c470-4c28-91b7-b02f3f21bb14"></video>
+
+[12.5. 메뉴 단축키 설정하기(Creating shortcuts to menu commands) - 영상 90.4.87.a111](./12-05-creating-shortcuts-to-menu-commands.md#90-04-87-a111)
 
 ***
 

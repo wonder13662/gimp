@@ -1340,7 +1340,7 @@
 
 [90.4.86. RGB 작업 공간 바꾸기(Convert to RGB Working Space)](./90-04-86-convert_to_rgb_working_space.md)
 
-[90.4.87. 키보드 단축키 설정(Convert to RGB Working Space)](./90-04-87-configure_keyboard_shortcuts.md)
+[90.4.87. 키보드 단축키 설정(Configure Keyboard Shortcuts)](./90-04-87-configure_keyboard_shortcuts.md)
 
 [90.4.88. GIMP 정보(About GIMP)](./90-04-88-about_gimp.md)
 

@@ -25,7 +25,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.87. 키보드 단축키 설정(Convert to RGB Working Space)](./90-04-87-configure_keyboard_shortcuts.md)
+[➡️ 다음: 90.4.87. 키보드 단축키 설정(Configure Keyboard Shortcuts)](./90-04-87-configure_keyboard_shortcuts.md)
 
 [⬅️ 이전: 90.4.85. 이미지 크기 확인(Confirm Image Size)](./90-04-85-confirm_image_size.md)
 

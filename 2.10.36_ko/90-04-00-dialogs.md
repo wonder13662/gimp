@@ -428,7 +428,7 @@
 #### 그림 90.4.86.a101. `RGB 작업 공간 바꾸기` 대화상자 (Windows) (우리말)
 ![90-04-86-a101](https://github.com/wonder13662/gimp/assets/15767104/aafd69a7-9b1f-4fed-b378-0e0eeeed444d)
 
-### [90.4.87. 키보드 단축키 설정(Convert to RGB Working Space)](./90-04-87-configure_keyboard_shortcuts.md)
+### [90.4.87. 키보드 단축키 설정(Configure Keyboard Shortcuts)](./90-04-87-configure_keyboard_shortcuts.md)
 #### 그림 90.4.87.a101. `키보드 단축키 설정` 대화상자 (Windows) (우리말)
 ![90-04-87-a101](https://github.com/wonder13662/gimp/assets/15767104/7bc6c2be-e65c-453c-8566-d6d975d6d3f3)
 

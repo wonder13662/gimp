@@ -29,7 +29,7 @@
 
 [➡️ 다음: 90.4.89. 모니터 해상도 측정(Calibrate Monitor Resolution)](./90-04-89-calibrate_monitor_resolution.md)
 
-[⬅️ 이전: 90.4.87. 키보드 단축키 설정(Convert to RGB Working Space)](./90-04-87-configure_keyboard_shortcuts.md)
+[⬅️ 이전: 90.4.87. 키보드 단축키 설정(Configure Keyboard Shortcuts)](./90-04-87-configure_keyboard_shortcuts.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 
