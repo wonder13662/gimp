@@ -776,23 +776,28 @@ module.exports = {
       ],
       [
         '13-00-scripting.md', 
-        '13. Scripting'
+        '13. Scripting',
+        '13. 스크립팅(Scripting)'
       ],
       [
-        '13-01-plugins.md', 
-        '13.1. Plugins'
+        '13-01-00-plugins.md', 
+        '13.1. Plugins',
+        '13.1. 플러그인(Plugins)'
       ],
       [
         '13-02-00-using-script-fu-scripts.md', 
-        '13.2. Using script-fu scripts'
+        '13.2. Using script-fu scripts',
+        '13.2. script-fu 사용하기(Using script-fu scripts)'
       ],
       [
         '13-02-01-script-fu.md', 
-        '13.2.1. Script-fu?'
+        '13.2.1. Script-fu?',
+        '13.2.1. Script-fu는 무엇인가요?(Script-fu?)'
       ],
       [
         '13-02-02-installing-script-fu-scripts.md', 
-        '13.2.2. Installing script-fu scripts'
+        '13.2.2. Installing script-fu scripts',
+        '13.2.2. script-fu 스크립트 설치하기(Installing script-fu scripts)'
       ],
       [
         '13-02-03-do-s-and-don-ts.md', 
@@ -800,27 +805,33 @@ module.exports = {
       ],
       [
         '13-02-04-different-kinds-of-script-fus.md', 
-        '13.2.4. Different kinds of script-fus'
+        '13.2.4. Different kinds of script-fus',
+        '13.2.4. 다른 종류의 script-fu(Different kinds of script-fus)'
       ],
       [
         '13-03-00-a-script-fu-tutorial.md', 
-        '13.3. A script-fu tutorial'
+        '13.3. A script-fu tutorial',
+        '13.3. script-fu 튜토리얼(A script-fu tutorial)'
       ],
       [
         '13-03-01-getting-acquainted-with-scheme.md', 
-        '13.3.1. Getting acquainted with scheme'
+        '13.3.1. Getting acquainted with scheme',
+        '13.3.1. scheme에 익숙해지기(Getting acquainted with scheme)'
       ],
       [
         '13-03-02-variables-and-functions.md', 
-        '13.3.2. Variables and functions'
+        '13.3.2. Variables and functions',
+        '13.3.2. 변수와 함수(Variables and functions)'
       ],
       [
         '13-03-03-lists-lists-and-more-lists.md', 
-        '13.3.3. Lists lists and more lists'
+        '13.3.3. Lists, lists and more lists',
+        '13.3.3. 더 많은 리스트(Lists, lists and more lists)'
       ],
       [
         '13-03-04-your-first-script-fu-script.md', 
-        '13.3.4. Your first script-fu script'
+        '13.3.4. Your first script-fu script',
+        '13.3.4. 첫번째 script-fu 스크립트(Your first script-fu script)'
       ],
       [
         '13-03-05-giving-our-script-some-guts.md', 
@@ -828,11 +839,13 @@ module.exports = {
       ],
       [
         '13-03-06-extending-the-text-box-script.md', 
-        '13.3.6. Extending the text box script'
+        '13.3.6. Extending the text box script',
+        '13.3.6. 텍스트 박스 스크립트 확장하기(Extending the text box script)'
       ],
       [
         '13-03-07-your-script-and-its-working.md', 
-        '13.3.7. Your script and its working'
+        '13.3.7. Your script and its working',
+        '13.3.7. 최종 스크립트 결과 확인하기(Your script and its working)'
       ],
       [
         '14-00-tools.md', 

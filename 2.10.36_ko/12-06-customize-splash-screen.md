@@ -40,7 +40,7 @@ C:\Users\user_name\AppData\Roaming\GIMP\2.10\
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13. Scripting](./13-00-scripting.md)
+[➡️ 다음: 13. 스크립팅(Scripting)](./13-00-scripting.md)
 
 [⬅️ 이전: 12.5. 메뉴 단축키 설정하기(Creating shortcuts to menu commands)](./12-05-creating-shortcuts-to-menu-commands.md)
 
