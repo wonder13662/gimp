@@ -11,7 +11,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.1.3. 새 플러그인 설치하기(Installing New Plugins)](./13-01-03-installing_new_plugins.md)
+[➡️ 다음: 13.1.3. 새 플러그인 설치하기(Installing New Plugins)](./13-01-03-00-installing_new_plugins.md)
 
 [⬅️ 이전: 13.1.1. 소개(Introduction)](./13-01-01-introduction.md)
 
