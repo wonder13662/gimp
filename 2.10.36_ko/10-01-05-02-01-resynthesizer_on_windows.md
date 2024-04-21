@@ -73,6 +73,12 @@
 
 ***
 
+## 관련 정보
+
+[13.1.3. 새 플러그인 설치하기(Installing New Plugins)](./13-01-03-00-installing_new_plugins.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 10.1.5.2.2. Mac OSX에서 Resynthesizer 사용하기](./10-01-05-02-02-resynthesizer_on_mac.md)

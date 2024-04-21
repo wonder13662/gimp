@@ -50,6 +50,12 @@ GIMP(김프)를 재시작하면, Resynthesizer 플러그인이 설치된 것을 
 
 ***
 
+## 관련 정보
+
+[13.1.3. 새 플러그인 설치하기(Installing New Plugins)](./13-01-03-00-installing_new_plugins.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 10.1.5.3. 적목 현상 제거(Removing Red-eye)](./10-01-05-03-removing_red_eye.md)
