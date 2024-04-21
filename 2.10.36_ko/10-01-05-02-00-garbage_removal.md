@@ -35,6 +35,14 @@
 
 ***
 
+## 하위 페이지
+
+[10.1.5.2.1. Windows에서 Resynthesizer 사용하기](./10-01-05-02-01-resynthesizer_on_windows.md)
+
+[10.1.5.2.2. Mac OSX에서 Resynthesizer 사용하기](./10-01-05-02-02-resynthesizer_on_mac.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 10.1.5.2.1. Windows에서 Resynthesizer 사용하기](./10-01-05-02-01-resynthesizer_on_windows.md)

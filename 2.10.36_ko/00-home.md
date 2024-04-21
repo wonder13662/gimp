@@ -590,6 +590,10 @@
 
 [10.1.5.2. 불필요한 것 제거하기(Garbage Removal)](./10-01-05-02-00-garbage_removal.md)
 
+[10.1.5.2.1. Windows에서 Resynthesizer 사용하기](./10-01-05-02-01-resynthesizer_on_windows.md)
+
+[10.1.5.2.2. Mac OSX에서 Resynthesizer 사용하기](./10-01-05-02-02-resynthesizer_on_mac.md)
+
 [10.1.5.3. 적목 현상 제거(Removing Red-eye)](./10-01-05-03-removing_red_eye.md)
 
 [10.1.6. 결과물 저장하기](./10-01-06-00-saving_your_results.md)
