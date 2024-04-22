@@ -1460,7 +1460,13 @@
 
 [90.1.9.15. Python-Fu](./90-01-09-15-python_fu.md)
 
-[90.1.9.16. Script-Fu](./90-01-09-16-script_fu.md)
+[90.1.9.16. Script-Fu](./90-01-09-16-00-script_fu.md)
+
+[90.1.9.16.1. 콘솔(Console)](./90-01-09-16-01-console.md)
+
+[90.1.9.16.2. 스크립트 새로고침(Refresh Scripts)](./90-01-09-16-02-refresh_scripts.md)
+
+[90.1.9.16.3. 서버 시작...(Start Server...)](./90-01-09-16-03-start_server.md)
 
 [90.1.10. 창(Windows)](./90-01-10-00-windows.md)
 
