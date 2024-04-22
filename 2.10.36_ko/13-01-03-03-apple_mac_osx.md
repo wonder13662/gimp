@@ -1,6 +1,4 @@
 # 13.1.3.3. 애플 맥 OS X(Apple Mac OS X)
-How you install plugins on OS X mostly depends on how you installed GIMP itself. If you were one of the brave and installed GIMP through one of the 
-
 [FINK](https://www.finkproject.org/)나 [MacPorts](https://www.macports.org/)같은 패키지 매니저로 GIMP(김프)를 설치했다면, 플러그인 설치도 [13.1.3.1. 리눅스/유닉스 계열 시스템(Linux/Unix-like systems)](./13-01-03-01-linux_unix_like_systems.md)와 같은 방법으로 진행할 수 있습니다. 한가지 차이점은 패키지 매니저에 GIMP(김프) 플러그인이 등록되어있다면 패키지 매니저로 플러그인을 바로 설치할 수 있다는 것입니다.
 
 컴파일된 바이너리 형식의 파일을 직접 복사해서 설치하는 경우는, [`기본 설정` → `폴더` → `플러그인`](./12-01-25-data-folders.md)을 직접 확인해야 합니다.
