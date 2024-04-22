@@ -25,6 +25,7 @@
 
 ## 관련 정보
 [GimpHelp: Script-fu와 Brush 모음](https://www.gimphelp.org/)
+
 [comment]: <> (TODO 정리 필요)
 
 ***
