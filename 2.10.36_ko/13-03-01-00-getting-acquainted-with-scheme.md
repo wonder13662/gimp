@@ -6,7 +6,7 @@
 
 [13.3.1.1. Scheme을 시작해봅시다(Let's Start Scheme'ing))](./13-03-01-01-lets_start_schemeing.md)
 
-[13.3.1.2. 접두사, 접미사, 삽입사 예제(Examples Of Prefix, Infix, And Postfix Notations)](./13-03-01-02-example_of_prefix_infix_n_postfix_notations.md)
+[13.3.1.2. 접두사, 삽입사, 접미사 예제(Examples Of Prefix, Infix, And Postfix Notations)](./13-03-01-02-example_of_prefix_infix_n_postfix_notations.md)
 
 [13.3.1.3. scheme 연습하기(Practicing In Scheme)](./13-03-01-03-practicing_in_scheme.md)
 
