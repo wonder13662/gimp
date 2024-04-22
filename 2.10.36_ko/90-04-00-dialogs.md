@@ -464,6 +464,10 @@
 #### 그림 90.4.95.a101. `격자 설정` 대화상자 (Windows) (우리말)
 ![90-04-95-a101](https://github.com/wonder13662/gimp/assets/15767104/e764ecdc-495a-452d-b171-1cec974d01b1)
 
+### [90.4.96. 검색 동작(Search Action)](./90-04-96-search_action.md)
+#### 그림 90.4.96.a101. `검색 동작` 대화상자 (Windows) (우리말)
+![90-04-96-a101](https://github.com/wonder13662/gimp/assets/15767104/29892da1-42f9-41dd-a60e-e5a6d104cc66)
+
 ***
 
 ## 공통 기능

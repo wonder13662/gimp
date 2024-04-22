@@ -2118,6 +2118,8 @@
 
 [90.4.95. 격자 설정(Configure Grid)](./90-04-95-configure_grid.md)
 
+[90.4.96. 검색 동작(Search Action)](./90-04-96-search_action.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
