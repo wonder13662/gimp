@@ -5,7 +5,7 @@
 
 ## 하위 페이지
 
-[13.3.1. scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-getting-acquainted-with-scheme.md)
+[13.3.1. scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-00-getting-acquainted-with-scheme.md)
 
 [13.3.2. 변수와 함수(Variables and functions)](./13-03-02-variables-and-functions.md)
 
@@ -23,7 +23,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.1. scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-getting-acquainted-with-scheme.md)
+[➡️ 다음: 13.3.1. scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-00-getting-acquainted-with-scheme.md)
 
 [⬅️ 이전: 13.2.4. 다른 종류의 Script-Fu(Different kinds of Script-Fus)](./13-02-04-different-kinds-of-script-fus.md)
 

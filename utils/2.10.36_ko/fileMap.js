@@ -814,7 +814,7 @@ module.exports = {
         '13.3. script-fu 튜토리얼(A script-fu tutorial)'
       ],
       [
-        '13-03-01-getting-acquainted-with-scheme.md', 
+        '13-03-01-00-getting-acquainted-with-scheme.md', 
         '13.3.1. Getting acquainted with scheme',
         '13.3.1. scheme에 익숙해지기(Getting acquainted with scheme)'
       ],

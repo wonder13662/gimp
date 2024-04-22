@@ -34,7 +34,7 @@
 
 [13.3. script-fu 튜토리얼(A script-fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
 
-[13.3.1. scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-getting-acquainted-with-scheme.md)
+[13.3.1. scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-00-getting-acquainted-with-scheme.md)
 
 [13.3.2. 변수와 함수(Variables and functions)](./13-03-02-variables-and-functions.md)
 
