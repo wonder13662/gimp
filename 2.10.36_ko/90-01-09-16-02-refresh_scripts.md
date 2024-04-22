@@ -6,7 +6,7 @@
 #### 그림 90.1.9.16.2.a1. `필터` → `Script-Fu` → `스크립트 새로고침` (Windows)
 ![90-01-09-16-02-a1](https://github.com/wonder13662/gimp/assets/15767104/7acc7e38-7cbc-449d-bd21-de2b19c10d9a)
 
-[13.2.1. Script-fu는 무엇인가요?(Script-fu?) - 그림 90.1.9.16.2.a1](./13-02-01-script-fu.md#90-01-09-16-02-a1)
+[13.2.2. script-fu 스크립트 설치하기(Installing script-fu scripts) - 그림 90.1.9.16.2.a1](./13-02-02-installing-script-fu-scripts.md#90-01-09-16-02-a1)
 
 <a id="90-01-09-16-02-a2"></a>
 
