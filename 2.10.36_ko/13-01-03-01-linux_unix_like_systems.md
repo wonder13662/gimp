@@ -19,4 +19,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-scripting.html#gimp-concepts-plugins)
+[원문](https://docs.gimp.org/2.10/ko/gimp-scripting.html#idm9427)

@@ -12,6 +12,8 @@
 
 [다른 운영체제와 언어의 `기본 설정` → `폴더` → `플러그인` 확인하기](./90-02-09-09-plugins.md#90-02-09-09-a2)
 
+[comment]: <> (TODO 원문 해석의 오류가 있습니다)
+
 ***
 
 ## 다른 페이지로 가기
@@ -28,4 +30,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-scripting.html#gimp-concepts-plugins)
+[원문](https://docs.gimp.org/2.10/ko/gimp-scripting.html#idm9436)
