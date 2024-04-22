@@ -38,4 +38,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/common-script-fu-errors.html)
+[원문](https://docs.gimp.org/2.10/ko/kinds-of-script-fu.html)
