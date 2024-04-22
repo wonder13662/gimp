@@ -32,8 +32,6 @@ GIMP(김프)에 포함된 스크립트는 상당히 유용합니다. 또한 이 
 
 [⬆️ 위: 13.2. Script-Fu 사용하기(Using script-fu scripts)](./13-02-00-using-script-fu-scripts.md)
 
-[⬆️ 위: 13.1. 플러그인(Plugins)](./13-01-00-plugins.md)
-
 [⬆️ 위: 13. 스크립팅(Scripting)](./13-00-scripting.md)
 
 [🏠 홈](./00-home.md)
