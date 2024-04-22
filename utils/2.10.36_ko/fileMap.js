@@ -787,7 +787,7 @@ module.exports = {
       [
         '13-02-00-using-script-fu-scripts.md', 
         '13.2. Using script-fu scripts',
-        '13.2. script-fu 사용하기(Using script-fu scripts)'
+        '13.2. Script-Fu 사용하기(Using script-fu scripts)'
       ],
       [
         '13-02-01-script-fu.md', 

@@ -22,7 +22,7 @@
 
 [13.1.4. 플러그인 작성하기(Writing Plugins)](./13-01-04-writing_plugins.md)
 
-[13.2. script-fu 사용하기(Using script-fu scripts)](./13-02-00-using-script-fu-scripts.md)
+[13.2. Script-Fu 사용하기(Using script-fu scripts)](./13-02-00-using-script-fu-scripts.md)
 
 [13.2.1. Script-fu는 무엇인가요?(Script-fu?)](./13-02-01-script-fu.md)
 

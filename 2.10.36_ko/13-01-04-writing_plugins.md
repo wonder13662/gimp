@@ -5,7 +5,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.2. script-fu 사용하기(Using script-fu scripts)](./13-02-00-using-script-fu-scripts.md)
+[➡️ 다음: 13.2. Script-Fu 사용하기(Using script-fu scripts)](./13-02-00-using-script-fu-scripts.md)
 
 [⬅️ 이전: 13.1.3.4. 설치한 플러그인 실행하기(Running the installed plugin)](./13-01-03-04-running_the_installed_plugin.md)
 
