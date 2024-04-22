@@ -17,7 +17,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.2.4. 다른 종류의 script-fu(Different kinds of script-fus)](./13-02-04-different-kinds-of-script-fus.md)
+[➡️ 다음: 13.2.4. 다른 종류의 Script-Fu(Different kinds of Script-Fus)](./13-02-04-different-kinds-of-script-fus.md)
 
 [⬅️ 이전: 13.2.2. script-fu 스크립트 설치하기(Installing script-fu scripts)](./13-02-02-installing-script-fu-scripts.md)
 

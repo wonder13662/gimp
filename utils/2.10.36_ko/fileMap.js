@@ -806,7 +806,7 @@ module.exports = {
       [
         '13-02-04-different-kinds-of-script-fus.md', 
         '13.2.4. Different kinds of script-fus',
-        '13.2.4. 다른 종류의 script-fu(Different kinds of script-fus)'
+        '13.2.4. 다른 종류의 Script-Fu(Different kinds of Script-Fus)'
       ],
       [
         '13-03-00-a-script-fu-tutorial.md', 

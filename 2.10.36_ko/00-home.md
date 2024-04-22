@@ -774,7 +774,7 @@
 
 [13.2.3. 해야할 것과 하지 말아야 할 것(Do's and don'ts)](./13-02-03-do-s-and-don-ts.md)
 
-[13.2.4. 다른 종류의 script-fu(Different kinds of script-fus)](./13-02-04-different-kinds-of-script-fus.md)
+[13.2.4. 다른 종류의 Script-Fu(Different kinds of Script-Fus)](./13-02-04-different-kinds-of-script-fus.md)
 
 [13.3. script-fu 튜토리얼(A script-fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
 
