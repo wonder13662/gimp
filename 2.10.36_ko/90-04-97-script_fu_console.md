@@ -77,6 +77,20 @@
 
 [13.3.2.1. 변수 선언하기(Declaring Variables) - 그림 90.4.97.a142](./13-03-02-01-declaring_variables.md#90-04-97-a142)
 
+<a id="90-04-97-a143"></a>
+
+#### 그림 90.4.97.a143. 지역변수 읽어오기: `let*` 표현식 바깥에서 읽기(실패)
+![90-04-97-a143](https://github.com/wonder13662/gimp/assets/15767104/36417616-79d0-4faf-a085-930ff2abff5e)
+
+[13.3.2.2. 지역 변수는 무엇인가요?(What is a Local Variable?) - 그림 90.4.97.a143](./13-03-02-02-what_is_a_local_variable.md#90-04-97-a143)
+
+<a id="90-04-97-a144"></a>
+
+#### 그림 90.4.97.a144. 지역변수 읽어오기: `let*` 표현식 안쪽에서 읽기(성공)
+![90-04-97-a144](https://github.com/wonder13662/gimp/assets/15767104/096d0401-8860-47c6-b943-94ba03cb47d1)
+
+[13.3.2.2. 지역 변수는 무엇인가요?(What is a Local Variable?) - 그림 90.4.97.a144](./13-03-02-02-what_is_a_local_variable.md#90-04-97-a144)
+
 ***
 
 ## 다른 페이지로 가기
