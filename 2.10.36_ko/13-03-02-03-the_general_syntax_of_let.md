@@ -1,4 +1,12 @@
 # 13.3.2.3. `let*`의 기본 문법(The General Syntax of `let*`)
+일반적인 형태의 `let*` 구문은 아래와 같습니다.
+
+```scheme
+(let* ( variables )
+  expression )
+```
+
+괄호 안에 선언된 변수들(예: `(a 2)`)과 표현식은 유효한 `Scheme` 표현식입니다. 여기서 선언된 변수는 `let*` 구문 안에서만 유효합니다. 이 변수는 지역 변수(Local variable)입니다.
 
 ***
 
