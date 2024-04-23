@@ -10,7 +10,9 @@
 
 이제 `Script-Fu` 콘솔 창이 열립니다. 이 콘솔 창에서 `Scheme` 구문을 실제로 작성해보고 결과를 바로 확인할 수 있습니다.
 
-#### 영상 13.3.1.3.a1. `Script-Fu` 콘솔 창
+<a id="90-04-97-a110"></a>
+
+#### [영상 90.4.97.a110. `필터` → `Script-Fu` → `콘솔` 메뉴로 `Script-Fu` 콘솔 창 열기](./90-04-97-script_fu_console.md#90-04-97-a110)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8280c21f-edca-4504-931b-a4aa31418611"></video>
 
 ***

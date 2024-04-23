@@ -21,6 +21,13 @@
 #### 그림 90.4.97.a104. `Scirpt-Fu 콘솔` 대화상자 (Mac) (영어)
 ![90-04-97-a104](https://github.com/wonder13662/gimp/assets/15767104/ed2ecdfa-931a-4040-ac88-c464fe4e2c77)
 
+<a id="90-04-97-a110"></a>
+
+#### 영상 90.4.97.a110. `필터` → `Script-Fu` → `콘솔` 메뉴로 `Script-Fu` 콘솔 창 열기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8280c21f-edca-4504-931b-a4aa31418611"></video>
+
+[13.3.1.3. Scheme 연습하기(Practicing In Scheme) - 영상 90.4.97.a110](./13-03-01-03-practicing_in_scheme.md#90-04-97-a110)
+
 <a id="90-04-97-a111"></a>
 
 #### 영상 90.4.97.a111. 계산 과정
