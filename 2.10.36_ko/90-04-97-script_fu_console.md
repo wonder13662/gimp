@@ -49,6 +49,13 @@
 
 [13.3.1.5. 추가적인 괄호를 주의하세요(Watch Out For Extra Parentheses) - 영상 90.4.97.a122](./13-03-01-05-watch_out_for_extra_parentheses.md#90-04-97-a122)
 
+<a id="90-04-97-a131"></a>
+
+#### 영상 90.4.97.a131. `Scheme`에서 연산자와 인수 사이에 공백이 있는 경우와 없는 경우
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d21e7c38-0d19-4c53-842d-7859d45544d6"></video>
+
+[13.3.1.6. 꼭 적절한 여백을 두세요(Make Sure You Have The Proper Spacing, Too) - 영상 90.4.97.a131](./13-03-01-06-make_sure_you_have_the_proper_spacing.md#90-04-97-a131)
+
 ***
 
 ## 다른 페이지로 가기
