@@ -39,7 +39,7 @@
 
 [⬅️ 이전: 13.3.1.4. Script-Fu 콘솔 출력 창(Script-Fu Console Window)](./13-03-01-04-script_fu_console_window.md)
 
-[⬆️ 위: 13.3.1. scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-00-getting-acquainted-with-scheme.md)
+[⬆️ 위: 13.3.1. Scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-00-getting-acquainted-with-scheme.md)
 
 [⬆️ 위: 13.3. script-fu 튜토리얼(A script-fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
 

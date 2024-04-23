@@ -34,7 +34,7 @@
 
 [13.3. script-fu 튜토리얼(A script-fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
 
-[13.3.1. scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-00-getting-acquainted-with-scheme.md)
+[13.3.1. Scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-00-getting-acquainted-with-scheme.md)
 
 [13.3.1.1. Scheme을 시작해봅시다(Let's Start Scheme'ing))](./13-03-01-01-lets_start_schemeing.md)
 

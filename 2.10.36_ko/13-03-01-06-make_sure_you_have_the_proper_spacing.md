@@ -24,7 +24,7 @@
 
 [⬅️ 이전: 13.3.1.5. 추가적인 괄호를 주의하세요(Watch Out For Extra Parentheses)](./13-03-01-05-watch_out_for_extra_parentheses.md)
 
-[⬆️ 위: 13.3.1. scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-00-getting-acquainted-with-scheme.md)
+[⬆️ 위: 13.3.1. Scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-00-getting-acquainted-with-scheme.md)
 
 [⬆️ 위: 13.3. script-fu 튜토리얼(A script-fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
 

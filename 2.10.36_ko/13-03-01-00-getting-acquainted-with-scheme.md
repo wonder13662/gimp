@@ -1,4 +1,4 @@
-# 13.3.1. scheme에 익숙해지기(Getting acquainted with scheme)
+# 13.3.1. Scheme에 익숙해지기(Getting acquainted with scheme)
 
 ***
 
@@ -20,7 +20,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.2. 변수와 함수(Variables and functions)](./13-03-02-variables-and-functions.md)
+[➡️ 다음: 13.3.1.1. Scheme을 시작해봅시다(Let's Start Scheme'ing))](./13-03-01-01-lets_start_schemeing.md)
 
 [⬅️ 이전: 13.3. script-fu 튜토리얼(A script-fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
 

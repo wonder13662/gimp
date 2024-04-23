@@ -816,7 +816,7 @@ module.exports = {
       [
         '13-03-01-00-getting-acquainted-with-scheme.md', 
         '13.3.1. Getting acquainted with scheme',
-        '13.3.1. scheme에 익숙해지기(Getting acquainted with scheme)'
+        '13.3.1. Scheme에 익숙해지기(Getting acquainted with scheme)'
       ],
       [
         '13-03-02-variables-and-functions.md', 
