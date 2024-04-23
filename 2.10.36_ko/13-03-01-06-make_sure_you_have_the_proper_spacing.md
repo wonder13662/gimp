@@ -20,7 +20,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.2. 변수와 함수(Variables and functions)](./13-03-02-variables-and-functions.md)
+[➡️ 다음: 13.3.2. 변수와 함수(Variables and functions)](./13-03-02-00-variables-and-functions.md)
 
 [⬅️ 이전: 13.3.1.5. 추가적인 괄호를 주의하세요(Watch Out For Extra Parentheses)](./13-03-01-05-watch_out_for_extra_parentheses.md)
 

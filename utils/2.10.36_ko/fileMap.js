@@ -819,7 +819,7 @@ module.exports = {
         '13.3.1. Scheme에 익숙해지기(Getting acquainted with scheme)'
       ],
       [
-        '13-03-02-variables-and-functions.md', 
+        '13-03-02-00-variables-and-functions.md', 
         '13.3.2. Variables and functions',
         '13.3.2. 변수와 함수(Variables and functions)'
       ],
