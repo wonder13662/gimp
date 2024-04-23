@@ -91,6 +91,13 @@
 
 [13.3.2.2. 지역 변수는 무엇인가요?(What is a Local Variable?) - 그림 90.4.97.a144](./13-03-02-02-what_is_a_local_variable.md#90-04-97-a144)
 
+<a id="90-04-97-a151"></a>
+
+#### 그림 90.4.97.a151. 변수에 새로운 값을 할당하기
+![90-04-97-a151](https://github.com/wonder13662/gimp/assets/15767104/4bdb9752-748d-4d14-9add-6a1df0436ecf)
+
+[13.3.2.5. 변수에 새로운 값을 할당하기(Assigning a New Value to a Variable) - 그림 90.4.97.a151](./13-03-02-05-assigning_a_new_value_to_a_variable.md#90-04-97-a151)
+
 ***
 
 ## 다른 페이지로 가기

@@ -1,4 +1,16 @@
 # 13.3.2.5. 변수에 새로운 값을 할당하기(Assigning a New Value to a Variable)
+변수를 초기화하고 나서, 스크립트 안에서 변수의 값을 바꿔야 할 때가 있습니다. 이 경우, `set!` 구문을 사용해서 변수의 값을 바꿔줍니다.
+
+```scheme
+(let* ( (theNum 10) ) (set! theNum (+ theNum theNum)) )
+```
+
+위 코드가 어떻게 동작할지 예상해보세요. 그리고 `Script-Fu` 콘솔 창에 위 코드를 입력해서 결과를 확인해보세요.
+
+<a id="90-04-97-a151"></a>
+
+#### [그림 90.4.97.a151. 변수에 새로운 값을 할당하기](./90-04-97-script_fu_console.md#90-04-97-a151)
+![90-04-97-a151](https://github.com/wonder13662/gimp/assets/15767104/4bdb9752-748d-4d14-9add-6a1df0436ecf)
 
 ***
 
