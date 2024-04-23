@@ -1,0 +1,64 @@
+# 90.4.97. Scirpt-Fu 콘솔(Scirpt-Fu Console)
+## 운영체제(OS)와 언어설정 조건에 따른 모습
+
+<a id="90-04-97-a101"></a>
+
+#### 그림 90.4.97.a101. `Scirpt-Fu 콘솔` 대화상자 (Windows) (우리말)
+![90-04-97-a101](https://github.com/wonder13662/gimp/assets/15767104/c403f748-57b5-4d8e-be38-c53ef11ea61c)
+
+<a id="90-04-97-a102"></a>
+
+#### 그림 90.4.97.a102. `Scirpt-Fu 콘솔` 대화상자 (Windows) (영어)
+![90-04-97-a102](https://github.com/wonder13662/gimp/assets/15767104/360feccc-fdec-4a23-87cc-8cab6f2bf731)
+
+<a id="90-04-97-a103"></a>
+
+#### 그림 90.4.97.a103. `Scirpt-Fu 콘솔` 대화상자 (Mac) (우리말)
+![90-04-97-a103](https://github.com/wonder13662/gimp/assets/15767104/cfb57cb9-da24-479d-a3b5-65c011acdece)
+
+<a id="90-04-97-a104"></a>
+
+#### 그림 90.4.97.a104. `Scirpt-Fu 콘솔` 대화상자 (Mac) (영어)
+![90-04-97-a104](https://github.com/wonder13662/gimp/assets/15767104/ed2ecdfa-931a-4040-ac88-c464fe4e2c77)
+
+<a id="90-04-97-a111"></a>
+
+#### 영상 90.4.97.a111. 계산 과정
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7bde698b-3c08-4f7e-9872-e4ae0968a5e2"></video>
+
+[13.3.1.4. Script-Fu 콘솔 출력 창(Script-Fu Console Window) - 영상 90.4.97.a111](./13-03-01-04-script_fu_console_window.md#90-04-97-a111)
+
+<a id="90-04-97-a112"></a>
+
+#### 영상 90.4.97.a112. 계산 과정
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c24a6051-d69c-49d8-ba99-a9681f64e80b"></video>
+
+[13.3.1.4. Script-Fu 콘솔 출력 창(Script-Fu Console Window) - 영상 90.4.97.a112](./13-03-01-04-script_fu_console_window.md#90-04-97-a112)
+
+<a id="90-04-97-a121"></a>
+
+#### 영상 90.4.97.a121. `Scheme`에서 잘못된 중첩 괄호 사용
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/51c2e727-9414-4462-b6be-cc5e1bd9aabe"></video>
+
+[13.3.1.5. 추가적인 괄호를 주의하세요(Watch Out For Extra Parentheses) - 영상 90.4.97.a121](./13-03-01-05-watch_out_for_extra_parentheses.md#90-04-97-a121)
+
+<a id="90-04-97-a122"></a>
+
+#### 영상 90.4.97.a122. `Scheme`에서 올바른 중첩 괄호 사용
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a85d47ee-e6aa-4878-8263-ff1a7fe296f6"></video>
+
+[13.3.1.5. 추가적인 괄호를 주의하세요(Watch Out For Extra Parentheses) - 영상 90.4.97.a122](./13-03-01-05-watch_out_for_extra_parentheses.md#90-04-97-a122)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+
+[⬅️ 이전: 90.4.96. 검색 동작(Search Action)](./90-04-96-search_action.md)
+
+[⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
+
+[⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
+
+[🏠 홈](./00-home.md)

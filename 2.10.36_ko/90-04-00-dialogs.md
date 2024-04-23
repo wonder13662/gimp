@@ -468,6 +468,10 @@
 #### 그림 90.4.96.a101. `검색 동작` 대화상자 (Windows) (우리말)
 ![90-04-96-a101](https://github.com/wonder13662/gimp/assets/15767104/29892da1-42f9-41dd-a60e-e5a6d104cc66)
 
+### [90.4.97. Scirpt-Fu 콘솔(Scirpt-Fu Console)](./90-04-97-script_fu_console.md)
+#### 그림 90.4.97.a101. `Scirpt-Fu 콘솔` 대화상자 (Windows) (우리말)
+![90-04-97-a101](https://github.com/wonder13662/gimp/assets/15767104/c403f748-57b5-4d8e-be38-c53ef11ea61c)
+
 ***
 
 ## 공통 기능
