@@ -42,7 +42,7 @@
 
 [⬆️ 위: 13.3.1. Scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-00-getting-acquainted-with-scheme.md)
 
-[⬆️ 위: 13.3. script-fu 튜토리얼(A script-fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
+[⬆️ 위: 13.3. Script-Fu 튜토리얼(A Script-Fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
 
 [⬆️ 위: 13. 스크립팅(Scripting)](./13-00-scripting.md)
 

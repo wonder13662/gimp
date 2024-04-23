@@ -811,7 +811,7 @@ module.exports = {
       [
         '13-03-00-a-script-fu-tutorial.md', 
         '13.3. A script-fu tutorial',
-        '13.3. script-fu 튜토리얼(A script-fu tutorial)'
+        '13.3. Script-Fu 튜토리얼(A Script-Fu tutorial)'
       ],
       [
         '13-03-01-00-getting-acquainted-with-scheme.md', 

@@ -1,4 +1,4 @@
-# 13.3.1.3. scheme 연습하기(Practicing In Scheme)
+# 13.3.1.3. Scheme 연습하기(Practicing In Scheme)
 지금까지 배운 것을 연습해봅시다. GIMP(김프)를 시작하고, [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `필터` → `Script-Fu` → `콘솔` 메뉴를 선택해주세요.
 
 <a id="90-01-09-16-01-a1"></a>
@@ -22,7 +22,7 @@
 
 [⬆️ 위: 13.3.1. Scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-00-getting-acquainted-with-scheme.md)
 
-[⬆️ 위: 13.3. script-fu 튜토리얼(A script-fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
+[⬆️ 위: 13.3. Script-Fu 튜토리얼(A Script-Fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
 
 [⬆️ 위: 13. 스크립팅(Scripting)](./13-00-scripting.md)
 
