@@ -806,7 +806,23 @@
 
 [13.3.2.6. 함수(Functions)](./13-03-02-06-functions.md)
 
-[13.3.3. 더 많은 리스트(Lists, lists and more lists)](./13-03-03-lists-lists-and-more-lists.md)
+[13.3.3. 더 많은 리스트(Lists, lists and more lists)](./13-03-03-00-lists-lists-and-more-lists.md)
+
+[13.3.3.1. 리스트 정의하기](./13-03-03-01-defining_a_list.md)
+
+[13.3.3.2. 리스트의 구조 이해하기](./13-03-03-02-how_to_think_of_lists.md)
+
+[13.3.3.3. `cons` 함수로 리스트 만들기](./13-03-03-03-creating_lists_through_concatenation.md)
+
+[13.3.3.4. `list` 함수로 리스트 정의하기](./13-03-03-04-defining_a_list_using_the_list_function.md)
+
+[13.3.3.5. 리스트의 값 가져오기](./13-03-03-05-accessing_values_in_a_list.md)
+
+[13.3.3.6. `car` 함수](./13-03-03-06-the_car_function.md)
+
+[13.3.3.7. `cdr` 함수](./13-03-03-07-the_cdr_function.md)
+
+[13.3.3.8. 리스트의 다른 요소 가져오기](./13-03-03-08-accessing_other_elements_in_a_list.md)
 
 [13.3.4. 첫번째 script-fu 스크립트(Your first script-fu script)](./13-03-04-your-first-script-fu-script.md)
 

@@ -40,7 +40,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.3. 더 많은 리스트(Lists, lists and more lists)](./13-03-03-lists-lists-and-more-lists.md)
+[➡️ 다음: 13.3.3. 더 많은 리스트(Lists, lists and more lists)](./13-03-03-00-lists-lists-and-more-lists.md)
 
 [⬅️ 이전: 13.3.2.5. 변수에 새로운 값을 할당하기(Assigning a New Value to a Variable)](./13-03-02-05-assigning_a_new_value_to_a_variable.md)
 

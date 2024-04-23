@@ -824,7 +824,7 @@ module.exports = {
         '13.3.2. 변수와 함수(Variables and functions)'
       ],
       [
-        '13-03-03-lists-lists-and-more-lists.md', 
+        '13-03-03-00-lists-lists-and-more-lists.md', 
         '13.3.3. Lists, lists and more lists',
         '13.3.3. 더 많은 리스트(Lists, lists and more lists)'
       ],
