@@ -63,6 +63,20 @@
 
 [13.3.1.6. 꼭 적절한 여백을 두세요(Make Sure You Have The Proper Spacing, Too) - 영상 90.4.97.a131](./13-03-01-06-make_sure_you_have_the_proper_spacing.md#90-04-97-a131)
 
+<a id="90-04-97-a141"></a>
+
+#### 그림 90.4.97.a141. 변수 선언하기: 여러 줄로 코드 작성하기
+![90-04-97-a141](https://github.com/wonder13662/gimp/assets/15767104/8228d750-66e0-41ca-a730-0e0aec0e184f)
+
+[13.3.2.1. 변수 선언하기(Declaring Variables) - 그림 90.4.97.a141](./13-03-02-01-declaring_variables.md#90-04-97-a141)
+
+<a id="90-04-97-a142"></a>
+
+#### 그림 90.4.97.a142. 변수 선언하기: 한 줄로 코드 작성하기
+![90-04-97-a142](https://github.com/wonder13662/gimp/assets/15767104/30fe5213-11c1-4427-a55c-ccb724e01f2e)
+
+[13.3.2.1. 변수 선언하기(Declaring Variables) - 그림 90.4.97.a142](./13-03-02-01-declaring_variables.md#90-04-97-a142)
+
 ***
 
 ## 다른 페이지로 가기
