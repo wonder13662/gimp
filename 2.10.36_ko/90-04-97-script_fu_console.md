@@ -98,6 +98,13 @@
 
 [13.3.2.5. 변수에 새로운 값을 할당하기(Assigning a New Value to a Variable) - 그림 90.4.97.a151](./13-03-02-05-assigning_a_new_value_to_a_variable.md#90-04-97-a151)
 
+<a id="90-04-97-a161"></a>
+
+#### 그림 90.4.97.a161. 함수 사용하기
+![90-04-97-a161](https://github.com/wonder13662/gimp/assets/15767104/6536edfa-ca49-4533-bf0e-f3bcbc12d7c8)
+
+[13.3.2.6. 함수(Functions) - 그림 90.4.97.a161](./13-03-02-06-functions.md#90-04-97-a161)
+
 ***
 
 ## 다른 페이지로 가기
