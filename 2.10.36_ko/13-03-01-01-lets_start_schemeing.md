@@ -36,7 +36,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.2. 변수와 함수(Variables and functions)](./13-03-02-variables-and-functions.md)
+[➡️ 다음: 13.3.1.2. 접두사, 삽입사, 접미사 예제(Examples Of Prefix, Infix, And Postfix Notations)](./13-03-01-02-example_of_prefix_infix_n_postfix_notations.md)
 
 [⬅️ 이전: 13.3.1. Scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-00-getting-acquainted-with-scheme.md)
 
