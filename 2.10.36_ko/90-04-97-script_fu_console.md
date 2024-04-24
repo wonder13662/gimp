@@ -161,6 +161,13 @@
 
 [13.3.3.3. `cons` 함수로 리스트 만들기 - 그림 90.4.97.a178](./13-03-03-03-creating_lists_through_concatenation.md#90-04-97-a178)
 
+<a id="90-04-97-a181"></a>
+
+#### 그림 90.4.97.a181. `list` 함수로 리스트 정의하기 (Windows) (우리말)
+![90-04-97-a181](https://github.com/wonder13662/gimp/assets/15767104/2689293a-9fc8-477f-838a-316a7331ba2e)
+
+[13.3.3.4. `list` 함수로 리스트 정의하기 - 그림 90.4.97.a181](./13-03-03-04-defining_a_list_using_the_list_function.md#90-04-97-a181)
+
 ***
 
 ## 다른 페이지로 가기
