@@ -1,11 +1,11 @@
 # 13.3.4.4. 이름 규칙(Naming Conventions)
-`Scheme`에서 함수의 이름 규칙은 소문자(lowercase)와 하이픈(`-`)을 선호합니다. 하지만, 인자(Parameter)의 이름 규칙은 [카멜 표기법(CamelCase)](https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%A9%9C_%ED%91%9C%EA%B8%B0%EB%B2%95)입니다.
+`Scheme`에서 함수의 이름 규칙은 소문자(lowercase)와 하이픈(`-`)을 선호합니다. 하지만, 매개변수(Parameter)의 이름 규칙은 [카멜 표기법(CamelCase)](https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%A9%9C_%ED%91%9C%EA%B8%B0%EB%B2%95)입니다.
 
 ```scheme
 (define (script-fu-text-box inText inFont inFontSize inTextColor))
 ```
 
-인자에 접두사(prefix)로 `in`을 인자에 붙였습니다. 스크립트 안에서 선언된 변수에는 `the`를 붙입니다. 이렇게 표시해두면, 스크립트 안에서 인자와 변수의 구분이 쉬워집니다.
+매개변수에 접두사(prefix)로 `in`을 매개변수에 붙였습니다. 스크립트 안에서 선언된 변수에는 `the`를 붙입니다. 이렇게 표시해두면, 스크립트 안에서 매개변수와 변수의 구분이 쉬워집니다.
 
 (TODO 추후 변수의 이름 규칙 적용한 코드 추가하기)
 

@@ -1,4 +1,4 @@
-# 13.3.4.8. Script-Fu 인자(parameter) API(The Script-Fu parameter API)
+# 13.3.4.8. Script-Fu 매개변수(parameter) API(The Script-Fu parameter API)
 
 ***
 
@@ -6,7 +6,7 @@
 
 [➡️ 다음: 13.3.4.9. 메뉴 위치 등록하기(Registering the Menu Location)](./13-03-04-09-registering_the_menu_location.md)
 
-[⬅️ 이전: 13.3.4.7. 스크립트의 인자를 등록하기(Registering The Script's Parameters)](./13-03-04-07-registering_the_scripts_parameters.md)
+[⬅️ 이전: 13.3.4.7. 스크립트의 매개변수를 등록하기(Registering The Script's Parameters)](./13-03-04-07-registering_the_scripts_parameters.md)
 
 [⬆️ 위: 13.3.4. 첫번째 Script-Fu 스크립트(Your first Script-Fu script)](./13-03-04-00-your-first-script-fu-script.md)
 

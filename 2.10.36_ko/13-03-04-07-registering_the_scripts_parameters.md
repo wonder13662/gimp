@@ -1,10 +1,10 @@
-# 13.3.4.7. 스크립트의 인자를 등록하기(Registering The Script's Parameters)
+# 13.3.4.7. 스크립트의 매개변수를 등록하기(Registering The Script's Parameters)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.4.8. Script-Fu 인자(parameter) API(The Script-Fu parameter API)](./13-03-04-08-the_script_fu_parameter_api.md)
+[➡️ 다음: 13.3.4.8. Script-Fu 매개변수(parameter) API(The Script-Fu parameter API)](./13-03-04-08-the_script_fu_parameter_api.md)
 
 [⬅️ 이전: 13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script)](./13-03-04-06-steps_for_registering_the_script.md)
 

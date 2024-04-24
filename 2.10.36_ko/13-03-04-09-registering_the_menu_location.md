@@ -6,7 +6,7 @@
 
 [➡️ 다음: ]()
 
-[⬅️ 이전: 13.3.4.8. Script-Fu 인자(parameter) API(The Script-Fu parameter API)](./13-03-04-08-the_script_fu_parameter_api.md)
+[⬅️ 이전: 13.3.4.8. Script-Fu 매개변수(parameter) API(The Script-Fu parameter API)](./13-03-04-08-the_script_fu_parameter_api.md)
 
 [⬆️ 위: 13.3.4. 첫번째 Script-Fu 스크립트(Your first Script-Fu script)](./13-03-04-00-your-first-script-fu-script.md)
 
