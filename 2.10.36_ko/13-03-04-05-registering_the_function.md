@@ -9,7 +9,7 @@ GIMP(김프)가 이 스크립트를 읽으면, `script-fu-register` 함수를 �
 
 ```scheme
 (script-fu-register
-  "script-fu-text-box"                        ;스크립트 이름(script name)
+  "script-fu-text-box"                        ;스크립트의 진입점 함수의 이름(entry-point function name)
   "Text Box"                                  ;메뉴 라벨(menu label)
   "Creates a simple text box, sized to fit\
     around the user's choice of text,\
