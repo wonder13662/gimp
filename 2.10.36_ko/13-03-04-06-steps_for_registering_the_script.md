@@ -1,6 +1,6 @@
 # 13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script)
 
-#### 코드 13.3.4.6.a1. 스크립트 예시
+#### 코드 13.3.4.6.a1. `script-fu-register` 예시
 
 ```scheme
 (script-fu-register
@@ -28,7 +28,7 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
 ## 1. 스크립트 이름(script name)(필수)
 정의한 함수의 이름입니다. 이 함수는 스크립트가 호출될 때, 실행되는 진입점(entry-point) 함수입니다. 스크립트 안에는 이 함수 외에도 다른 함수를 추가적으로 정의할 수 있으므로, GIMP(김프)에게 진입점이 되는 함수의 이름을 알려주어야 합니다.
 
-#### 코드 13.3.4.6.a2. 스크립트 예시 - 함수 이름
+#### 코드 13.3.4.6.a2. `script-fu-register` 예시 - 함수 이름
 
 ```scheme
 (script-fu-register
@@ -48,7 +48,7 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
 ## 2. 메뉴 라벨(menu label)(필수)
 메뉴 라벨은 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 메뉴에서 보여지는 이름입니다. GIMP(김프) 2.10 버전 이전에는 메뉴 라벨에 메뉴의 위치를 직접 지정해야 했었습니다. 하지만 GIMP(김프) 2.10 버전부터는 메뉴의 위치는 `script-fu-menu-register` 함수의 두번째 인자(parameter)로 넘기도록 바뀌었습니다. 참고로 메뉴의 위치를 설정하는 방법은 [13.3.4.9. 메뉴 위치 등록하기(Registering the Menu Location)](./13-03-04-09-registering_the_menu_location.md)에서 확인할 수 있습니다.
 
-#### 코드 13.3.4.6.a3. 스크립트 예시 - 메뉴 라벨
+#### 코드 13.3.4.6.a3. `script-fu-register` 예시 - 메뉴 라벨
 
 ```scheme
 (script-fu-register
@@ -62,7 +62,7 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
 ## 3. 스크립트 설명(선택)
 스크립트에 대한 설명입니다.
 
-#### 코드 13.3.4.6.a4. 스크립트 예시 - 스크립트 설명
+#### 코드 13.3.4.6.a4. `script-fu-register` 예시 - 스크립트 설명
 
 ```scheme
 (script-fu-register
@@ -85,7 +85,7 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
 ## 4. 스크립트 작성자 이름(선택)
 스크립트 작성자의 이름입니다.
 
-#### 코드 13.3.4.6.a5. 스크립트 예시 - 스크립트 작성자 이름
+#### 코드 13.3.4.6.a5. `script-fu-register` 예시 - 스크립트 작성자 이름
 
 ```scheme
 (script-fu-register
@@ -106,7 +106,7 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
 ## 5. 저작권 알림(선택)
 스크립트의 저작권 알림 정보입니다. 
 
-#### 코드 13.3.4.6.a6. 스크립트 예시 - 저작권 알림
+#### 코드 13.3.4.6.a6. `script-fu-register` 예시 - 저작권 알림
 
 ```scheme
 (script-fu-register
@@ -128,7 +128,7 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
 ## 6. 작성 날짜와 버전 정보(선택)
 스크립트의 작성일과 마지막 버전 정보입니다. 
 
-#### 코드 13.3.4.6.a7. 스크립트 예시 - 작성 날짜와 버전 정보
+#### 코드 13.3.4.6.a7. `script-fu-register` 예시 - 작성 날짜와 버전 정보
 ```scheme
 (script-fu-register
   ...
@@ -155,7 +155,7 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
 - INDEXED
 - INDEXEDA
 
-#### 코드 13.3.4.6.a8. 스크립트 예시 - 스크립트가 동작하는 이미지 타입
+#### 코드 13.3.4.6.a8. `script-fu-register` 예시 - 스크립트가 동작하는 이미지 타입
 
 ```scheme
 (script-fu-register
