@@ -207,7 +207,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.98. 프로시저 브라우저(Procedure Browser)](./90-04-98-procedure_browser.md)
 
 [⬅️ 이전: 90.4.96. 검색 동작(Search Action)](./90-04-96-search_action.md)
 

@@ -9,21 +9,21 @@ GIMP(김프)가 이 스크립트를 읽으면, `script-fu-register` 함수를 �
 
 ```scheme
 (script-fu-register
-  "script-fu-text-box"                        ;function name
-  "Text Box"                                  ;menu label
+  "script-fu-text-box"                        ;함수 이름(function name)
+  "Text Box"                                  ;메뉴 라벨(menu label)
   "Creates a simple text box, sized to fit\
     around the user's choice of text,\
-    font, font size, and color."              ;description
-  "Michael Terry"                             ;author
+    font, font size, and color."              ;함수 설명(description)
+  "Michael Terry"                             ;스크립트 작성자(author)
   "copyright 1997, Michael Terry;\
-    2009, the GIMP Documentation Team"        ;copyright notice
-  "October 27, 1997"                          ;date created
-  ""                                      ;image type that the script works on
-  SF-STRING      "Text"          "Text Box"   ;a string variable
-  SF-FONT        "Font"          "Charter"    ;a font variable
+    2009, the GIMP Documentation Team"        ;저작권 알림(copyright notice)
+  "October 27, 1997"                          ;작성일(date created)
+  ""                                          ;스크립트가 동작하는 이미지 타입(image type that the script works on)
+  SF-STRING      "Text"          "Text Box"   ;프롬프트의 사용자 입력 문자열 변수(a string variable)
+  SF-FONT        "Font"          "Charter"    ;프롬프트의 사용자 입력 글꼴(a font variable)
   SF-ADJUSTMENT  "Font size"     '(50 1 1000 1 10 0 1)
-                                              ;a spin-button
-  SF-COLOR       "Color"         '(0 0 0)     ;color variable
+                                              ;프롬프트의 사용자 입력 글꼴 크기(a spin-button)
+  SF-COLOR       "Color"         '(0 0 0)     ;프롬프트의 사용자 입력 색상(color variable)
 )
 (script-fu-menu-register "script-fu-text-box" "<Image>/File/Create/Text")
 ```
@@ -55,7 +55,7 @@ GIMP(김프)가 이 스크립트를 읽으면, `script-fu-register` 함수를 �
 <a id="90-04-98-a111"></a>
 
 #### [그림 90.4.98.a111. `프로시저 브라우저` 대화상자 - 추가한 스크립트 확인 (Windows) (우리말)](./90-04-98-procedure_browser.md#90-04-98-a111)
-![90-04-98-a111](https://github.com/wonder13662/gimp/assets/15767104/4abcfae2-6367-4695-9aeb-73c8f89ba986)
+![90-04-98-a111](https://github.com/wonder13662/gimp/assets/15767104/e35a44e3-27fc-4b62-82b2-2496b012b11b)
 
 ***
 

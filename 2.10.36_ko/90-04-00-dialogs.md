@@ -472,6 +472,10 @@
 #### 그림 90.4.97.a101. `Scirpt-Fu 콘솔` 대화상자 (Windows) (우리말)
 ![90-04-97-a101](https://github.com/wonder13662/gimp/assets/15767104/c403f748-57b5-4d8e-be38-c53ef11ea61c)
 
+### [90.4.98. 프로시저 브라우저(Procedure Browser)](./90-04-98-procedure_browser.md)
+#### 그림 90.4.98.a101. `프로시저 브라우저` 대화상자 (Windows) (우리말)
+![90-04-98-a101](https://github.com/wonder13662/gimp/assets/15767104/47d3addf-f353-4909-88e9-fa3aedc69b9b)
+
 ***
 
 ## 공통 기능

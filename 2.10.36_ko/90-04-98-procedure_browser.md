@@ -24,9 +24,46 @@
 <a id="90-04-98-a111"></a>
 
 #### 그림 90.4.98.a111. `프로시저 브라우저` 대화상자 - 추가한 스크립트 확인 (Windows) (우리말)
-![90-04-98-a111](https://github.com/wonder13662/gimp/assets/15767104/4abcfae2-6367-4695-9aeb-73c8f89ba986)
+![90-04-98-a111](https://github.com/wonder13662/gimp/assets/15767104/e35a44e3-27fc-4b62-82b2-2496b012b11b)
 
 [13.3.4.5. 함수 등록하기(Registering The Function) - 그림 90.4.98.a111](./13-03-04-05-registering_the_function.md#90-04-98-a111)
+
+[13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script)](./13-03-04-06-steps_for_registering_the_script.md#90-04-98-a111)
+
+<a id="90-04-98-a111-01"></a>
+
+#### 그림 90.4.98.a111.1. `프로시저 브라우저` 대화상자 - 추가한 스크립트 - 함수 이름 (Windows) (우리말)
+![90-04-98-a111-01](https://github.com/wonder13662/gimp/assets/15767104/988b5ec1-fe75-4931-95ce-503e9a8ab94d)
+
+[13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script) - 그림 90.4.98.a111.1](./13-03-04-06-steps_for_registering_the_script.md#90-04-98-a111-01)
+
+<a id="90-04-98-a111-02"></a>
+
+#### 그림 90.4.98.a111.2. `프로시저 브라우저` 대화상자 - 추가한 스크립트 - 함수 설명 (Windows) (우리말)
+![90-04-98-a111-02](https://github.com/wonder13662/gimp/assets/15767104/7e5c6482-2d03-4c16-b0a2-2a953f8e4f41)
+
+[13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script) - 그림 90.4.98.a111.2](./13-03-04-06-steps_for_registering_the_script.md#90-04-98-a111-02)
+
+<a id="90-04-98-a111-03"></a>
+
+#### 그림 90.4.98.a111.3. `프로시저 브라우저` 대화상자 - 추가한 스크립트 - 스크립트 작성자 (Windows) (우리말)
+![90-04-98-a111-03](https://github.com/wonder13662/gimp/assets/15767104/0bf15ae7-ba04-4520-906d-70edb71a2162)
+
+[13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script) - 그림 90.4.98.a111.3](./13-03-04-06-steps_for_registering_the_script.md#90-04-98-a111-03)
+
+<a id="90-04-98-a111-04"></a>
+
+#### 그림 90.4.98.a111.4. `프로시저 브라우저` 대화상자 - 추가한 스크립트 - 스크립트 작성일 (Windows) (우리말)
+![90-04-98-a111-04](https://github.com/wonder13662/gimp/assets/15767104/a7b325af-72d2-49a9-b99c-0e2345ddca6b)
+
+[13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script) - 그림 90.4.98.a111.4](./13-03-04-06-steps_for_registering_the_script.md#90-04-98-a111-04)
+
+<a id="90-04-98-a111-05"></a>
+
+#### 그림 90.4.98.a111.5. `프로시저 브라우저` 대화상자 - 추가한 스크립트 - 저작권 정보 (Windows) (우리말)
+![90-04-98-a111-05-focus-copyright](https://github.com/wonder13662/gimp/assets/15767104/f2b40d64-ab90-4a94-9de0-85c4ed56b073)
+
+[13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script) - 그림 90.4.98.a111.5](./13-03-04-06-steps_for_registering_the_script.md#90-04-98-a111-05)
 
 ***
 
@@ -34,7 +71,7 @@
 
 [➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
-[⬅️ 이전: 90.4.96. 검색 동작(Search Action)](./90-04-96-search_action.md)
+[⬅️ 이전: 90.4.97. Scirpt-Fu 콘솔(Scirpt-Fu Console)](./90-04-97-script_fu_console.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 
