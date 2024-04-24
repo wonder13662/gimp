@@ -1,5 +1,5 @@
 # 13.3.4.4. 이름 규칙(Naming Conventions)
-`Scheme`에서 함수의 이름 규칙은 소문자(lowercase)와 하이픈(`-`)을 선호합니다. 하지만, 인자(Parameter)의 이름 규칙은 [카멜케이스(CamelCase)](https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%A9%9C_%ED%91%9C%EA%B8%B0%EB%B2%95)입니다.
+`Scheme`에서 함수의 이름 규칙은 소문자(lowercase)와 하이픈(`-`)을 선호합니다. 하지만, 인자(Parameter)의 이름 규칙은 [카멜 표기법(CamelCase)](https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%A9%9C_%ED%91%9C%EA%B8%B0%EB%B2%95)입니다.
 
 ```scheme
 (define (script-fu-text-box inText inFont inFontSize inTextColor))
