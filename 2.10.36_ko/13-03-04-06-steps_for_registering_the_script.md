@@ -4,11 +4,11 @@
 
 ```scheme
 (script-fu-register
-  "script-fu-text-box"                        ;함수 이름(function name)
+  "script-fu-text-box"                        ;스크립트 이름(script name)
   "Text Box"                                  ;메뉴 라벨(menu label)
   "Creates a simple text box, sized to fit\
     around the user's choice of text,\
-    font, font size, and color."              ;함수 설명(description)
+    font, font size, and color."              ;스크립트 설명(description)
   "Michael Terry"                             ;스크립트 작성자(author)
   "copyright 1997, Michael Terry;\
     2009, the GIMP Documentation Team"        ;저작권 알림(copyright notice)
@@ -25,14 +25,14 @@
 
 GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` 함수를 호출해야 합니다. 스크립트 등록을 위해 `script-fu-register`에게 인자로 줄 2개의 필수 파라미터와 5개의 선택 파라미터를 스크립트에 추가해야 합니다. 파라미터는 아래와 같습니다.
 
-## 1. 함수 이름(function name)(필수)
+## 1. 스크립트 이름(script name)(필수)
 정의한 함수의 이름입니다. 이 함수는 스크립트가 호출될 때, 실행되는 진입점(entry-point) 함수입니다. 스크립트 안에는 이 함수 외에도 다른 함수를 추가적으로 정의할 수 있으므로, GIMP(김프)에게 진입점이 되는 함수의 이름을 알려주어야 합니다.
 
 #### 코드 13.3.4.6.a2. 스크립트 예시 - 함수 이름
 
 ```scheme
 (script-fu-register
-  "script-fu-text-box"                        ;함수 이름(function name)
+  "script-fu-text-box"                        ;스크립트 이름(script name)
   ...
 )
 (script-fu-menu-register "script-fu-text-box" "<Image>/File/Create/Text")
@@ -69,7 +69,7 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
   ...
   "Creates a simple text box, sized to fit\
     around the user's choice of text,\
-    font, font size, and color."              ;함수 설명(description)
+    font, font size, and color."              ;스크립트 설명(description)
   ...
 )
 (script-fu-menu-register "script-fu-text-box" "<Image>/File/Create/Text")

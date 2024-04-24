@@ -9,11 +9,11 @@ GIMP(김프)가 이 스크립트를 읽으면, `script-fu-register` 함수를 �
 
 ```scheme
 (script-fu-register
-  "script-fu-text-box"                        ;함수 이름(function name)
+  "script-fu-text-box"                        ;스크립트 이름(script name)
   "Text Box"                                  ;메뉴 라벨(menu label)
   "Creates a simple text box, sized to fit\
     around the user's choice of text,\
-    font, font size, and color."              ;함수 설명(description)
+    font, font size, and color."              ;스크립트 설명(description)
   "Michael Terry"                             ;스크립트 작성자(author)
   "copyright 1997, Michael Terry;\
     2009, the GIMP Documentation Team"        ;저작권 알림(copyright notice)
