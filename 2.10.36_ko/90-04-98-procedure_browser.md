@@ -60,7 +60,7 @@
 
 <a id="90-04-98-a111-05"></a>
 
-#### 그림 90.4.98.a111.5. `프로시저 브라우저` 대화상자 - 추가한 스크립트 - 저작권 정보 (Windows) (우리말)
+#### 그림 90.4.98.a111.5. `프로시저 브라우저` 대화상자 - 추가한 스크립트 - 저작권 알림 (Windows) (우리말)
 ![90-04-98-a111-05-focus-copyright](https://github.com/wonder13662/gimp/assets/15767104/f2b40d64-ab90-4a94-9de0-85c4ed56b073)
 
 [13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script) - 그림 90.4.98.a111.5](./13-03-04-06-steps_for_registering_the_script.md#90-04-98-a111-05)
