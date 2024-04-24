@@ -1,4 +1,4 @@
-# 19.용어집 - 절차적 데이터베이스(Procedural Database)
+# 19.용어집 - 프로시저 데이터베이스(Procedural Database)
 
 ***
 

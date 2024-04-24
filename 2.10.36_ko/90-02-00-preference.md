@@ -114,7 +114,7 @@
 
 [➡️ 다음: 90.2.1. 시스템 리소스 (System Resource)](./90-02-01-system-resource.md)
 
-[⬅️ 이전: 90.1.11.2. 도움말(Help) - 사용자 설명서(User manual)](./90-01-11-02-user_manual.md)
+[⬅️ 이전: 90.1.11.2. 도움말(Help) - 사용자 설명서(User manual)](./90-01-11-10-user_manual.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

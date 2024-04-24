@@ -9,7 +9,7 @@
 
 (TODO 추후 변수의 이름 규칙 적용한 코드 추가하기)
 
-스크립트의 `abc` 함수를 `script-fu-abc`라고 이름짓는 것은 GIMP(김프)의 이름 규칙입니다. 이런 스타일로 이름을 지어두면, [절차적 데이터베이스(Procedual Database)](./19-glossaryx-procedural_database.md)에 등록되어, [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `필터` → `Script-Fu`의 아래에 보여지게 됩니다. 이 방식은 스크립트가 플러그인과 구분되어 보이게 해줍니다.
+스크립트의 `abc` 함수를 `script-fu-abc`라고 이름짓는 것은 GIMP(김프)의 이름 규칙입니다. 이런 스타일로 이름을 지어두면, [프로시저 데이터베이스(Procedual Database)](./19-glossaryx-procedural_database.md)에 등록되어, [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `필터` → `Script-Fu`의 아래에 보여지게 됩니다. 이 방식은 스크립트가 플러그인과 구분되어 보이게 해줍니다.
 
 ***
 

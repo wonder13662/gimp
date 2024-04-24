@@ -773,9 +773,25 @@
 
 [90.1.11. 도움말(Help)](./90-01-11-00-help.md)
 
-[90.1.11.1. 도움말(Help) - 김프 온라인(GIMP Online)](./90-01-11-01-gimp_online.md)
+[90.1.11.1. 도움말(Help)](./90-01-11-01-help.md)
 
-[90.1.11.2. 도움말(Help) - 사용자 설명서(User manual)](./90-01-11-02-user_manual.md)
+[90.1.11.2. 문맥 도움말(Context Help)](./90-01-11-02-context_help.md)
+
+[90.1.11.3. 오늘의 팁(Tip of the Day)](./90-01-11-03-tip_of_the_day.md)
+
+[90.1.11.4. 김프 정보입니다(About GIMP)](./90-01-11-04-about_gimp.md)
+
+[90.1.11.5. 명령 검색 및 실행(Search and Run a Command)](./90-01-11-05-search_and_run_a_command.md)
+
+[90.1.11.6. 플러그인 찾아보기(Plug-in Browser)](./90-01-11-06-plug_in_browser.md)
+
+[90.1.11.7. 프로시저 찾아보기(Procedure Browser)](./90-01-11-07-procedure_browser.md)
+
+[90.1.11.8. 버그 제보와 기능 요청(Bug Reports and Feature Requests)](./90-01-11-08-bug_reports_and_feature_requests.md)
+
+[90.1.11.9. 김프 온라인(GIMP Online)](./90-01-11-09-gimp_online.md)
+
+[90.1.11.10. 사용자 설명서(User manual)](./90-01-11-10-user_manual.md)
 
 [90.1.12. GIMP](./90-01-12-00-gimp.md)
 
