@@ -6,7 +6,7 @@
 (cdr '("first" 2 "third"))
 ```
 
-returns:
+위 스크립트는 아래 결과를 돌려줍니다.
 
 ```scheme
 (2 "third")
@@ -22,7 +22,7 @@ returns:
 (cdr '("one and only"))
 ```
 
-returns:
+위 스크립트는 아래 결과를 돌려줍니다.
 
 ```scheme
 ()
