@@ -147,6 +147,20 @@
 
 [13.3.3.1. 리스트 정의하기 - 그림 90.4.97.a176](./13-03-03-01-defining_a_list.md#90-04-97-a176)
 
+<a id="90-04-97-a177"></a>
+
+#### 그림 90.4.97.a177. `cons` 함수로 리스트 선언 (Windows) (우리말)
+![90-04-97-a177](https://github.com/wonder13662/gimp/assets/15767104/36c009c7-e3cc-422f-849a-43325acad8eb)
+
+[13.3.3.3. `cons` 함수로 리스트 만들기 - 그림 90.4.97.a177](./13-03-03-03-creating_lists_through_concatenation.md#90-04-97-a177)
+
+<a id="90-04-97-a178"></a>
+
+#### 그림 90.4.97.a178. `cons` 함수로 요소 1개인 리스트 선언 (Windows) (우리말)
+![90-04-97-a178](https://github.com/wonder13662/gimp/assets/15767104/1a55eb82-5c91-42fd-afe0-9c741a079ee9)
+
+[13.3.3.3. `cons` 함수로 리스트 만들기 - 그림 90.4.97.a178](./13-03-03-03-creating_lists_through_concatenation.md#90-04-97-a178)
+
 ***
 
 ## 다른 페이지로 가기
