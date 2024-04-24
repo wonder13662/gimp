@@ -5,7 +5,7 @@ GIMP(김프)가 이 스크립트를 읽으면, `script-fu-register` 함수를 �
 
 `script-fu-register` 함수는 스크립트 어디든 위치시킬수 있습니다. 보통은 스크립트의 가장 아래쪽에 둡니다.
 
-메인 함수와 `script-fu-register` 함수가 있는 스크립트의 내용은 아래와 같습니다. 인자(Parameter)에 대해서는 [13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script)](./13-03-04-06-steps_for_registering_the_script.md)에서 설명하겠습니다.
+메인 함수와 `script-fu-register` 함수가 있는 스크립트의 내용은 아래와 같습니다. `script-fu-register` 함수의 인자(Parameter)에 대해서는 [13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script)](./13-03-04-06-steps_for_registering_the_script.md)에서 설명하겠습니다.
 
 ```scheme
 (script-fu-register
