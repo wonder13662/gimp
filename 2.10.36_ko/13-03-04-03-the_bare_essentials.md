@@ -1,4 +1,13 @@
 # 13.3.4.3. 가장 필요한 것들(The Bare Essentials)
+모든 `Script-Fu` 스크립트는 최소한 1개의 함수를 정의합니다. 이 1개의 함수가 메인 함수(Main function)입니다. 모든 스크립트는 반드시 `절차 데이터베이스(Procedural database)`에 등록되어야 합니다. 그래야만 GIMP(김프)안에서 스크립트를 접근할 수 있습니다. 
+
+먼저 메인 함수를 정의하도록 하겠습니다.
+
+```scheme
+(define (script-fu-text-box inText inFont inFontSize inTextColor))
+```
+
+여기서 `script-fu-text-box`이라고 하는 새로운 함수를 정의했습니다. 이 함수는 4개의 인자를 갖습니다. 각 인자는 사용자가 입력한 텍스트, 글꼴, 글꼴의 크기, 텍스트의 색깔에 해당합니다. 현재 이 함수는 비어있으므로 아무것도 하지 않습니다.
 
 ***
 
