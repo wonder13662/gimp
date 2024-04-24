@@ -23,4 +23,4 @@ GIMP(김프)에서 자주 쓰는 기능 중 하나는 웹 페이지나 로고 �
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-using-script-fu-tutorial-first-script.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-using-script-fu-tutorial-first-script.html#idm9832)
