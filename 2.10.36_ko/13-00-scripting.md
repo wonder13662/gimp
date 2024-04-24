@@ -80,7 +80,25 @@
 
 [13.3.3.8. 리스트의 다른 요소 가져오기](./13-03-03-08-accessing_other_elements_in_a_list.md)
 
-[13.3.4. 첫번째 script-fu 스크립트(Your first script-fu script)](./13-03-04-your-first-script-fu-script.md)
+[13.3.4. 첫번째 Script-Fu 스크립트(Your first Script-Fu script)](./13-03-04-00-your-first-script-fu-script.md)
+
+[13.3.4.1. 텍스트 박스 스크립트 만들기(Creating A Text Box Script)](./13-03-04-01-creating_a_text_box_script.md)
+
+[13.3.4.2. 스크립트 수정하고 저장하기(Editing And Storing Your Scripts)](./13-03-04-02-editing_and_storing_your_scripts.md)
+
+[13.3.4.3. 가장 필요한 것들(The Bare Essentials)](./13-03-04-03-the_bare_essentials.md)
+
+[13.3.4.4. 이름 규칙(Naming Conventions)](./13-03-04-04-naming_conventions.md)
+
+[13.3.4.5. 함수 등록하기(Registering The Function)](./13-03-04-05-registering_the_function.md)
+
+[13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script)](./13-03-04-06-steps_for_registering_the_script.md)
+
+[13.3.4.7. 스크립트의 인자를 등록하기(Registering The Script's Parameters)](./13-03-04-07-registering_the_scripts_parameters.md)
+
+[13.3.4.8. Script-Fu 인자(parameter) API(The Script-Fu parameter API)](./13-03-04-08-the_script_fu_parameter_api.md)
+
+[13.3.4.9. 메뉴 위치 등록하기(Registering the Menu Location)](./13-03-04-09-registering_the_menu_location.md)
 
 [13.3.5. 스크립트 개선하기(Giving our script some guts)](./13-03-05-giving-our-script-some-guts.md)
 

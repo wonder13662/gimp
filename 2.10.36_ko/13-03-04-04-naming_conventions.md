@@ -1,12 +1,12 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 13.3.4.4. 이름 규칙(Naming Conventions)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 13.3.4.5. 함수 등록하기(Registering The Function)](./13-03-04-05-registering_the_function.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 13.3.4.3. 가장 필요한 것들(The Bare Essentials)](./13-03-04-03-the_bare_essentials.md)
 
 [⬆️ 위: 13.3.4. 첫번째 Script-Fu 스크립트(Your first Script-Fu script)](./13-03-04-00-your-first-script-fu-script.md)
 

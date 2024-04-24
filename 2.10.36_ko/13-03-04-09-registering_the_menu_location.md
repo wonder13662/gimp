@@ -1,12 +1,12 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 13.3.4.9. 메뉴 위치 등록하기(Registering the Menu Location)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: ]()
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 13.3.4.8. Script-Fu 인자(parameter) API(The Script-Fu parameter API)](./13-03-04-08-the_script_fu_parameter_api.md)
 
 [⬆️ 위: 13.3.4. 첫번째 Script-Fu 스크립트(Your first Script-Fu script)](./13-03-04-00-your-first-script-fu-script.md)
 

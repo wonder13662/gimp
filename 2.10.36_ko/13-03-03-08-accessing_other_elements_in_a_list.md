@@ -43,7 +43,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.5. 스크립트 개선하기(Giving our script some guts)](./13-03-05-giving-our-script-some-guts.md)
+[➡️ 다음: 13.3.4. 첫번째 Script-Fu 스크립트(Your first Script-Fu script)](./13-03-04-00-your-first-script-fu-script.md)
 
 [⬅️ 이전: 13.3.3.7. `cdr` 함수](./13-03-03-07-the_cdr_function.md)
 
