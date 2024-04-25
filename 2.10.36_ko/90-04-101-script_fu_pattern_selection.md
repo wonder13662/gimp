@@ -27,7 +27,7 @@
 
 [➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
-[⬅️ 이전: 90.4.99. Script-Fu 글꼴 선택(Script-Fu Font Selection)](./90-04-99-script_fu_font_selection.md)
+[⬅️ 이전: 90.4.100. Script-Fu 브러시 선택(Script-Fu Brush Selection)](./90-04-100-script_fu_brush_selection.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 
