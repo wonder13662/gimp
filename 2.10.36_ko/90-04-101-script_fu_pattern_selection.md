@@ -6,6 +6,8 @@
 #### 그림 90.4.101.a101. `Script-Fu 무늬 선택` 대화상자 (Windows) (우리말)
 ![90-04-101-a101](https://github.com/wonder13662/gimp/assets/15767104/4f425bf0-5e49-4c47-a97f-3e77d9c858bb)
 
+[13.3.4.8.5. SF-PATTERN - 그림 90.4.101.a101](./13-03-04-08-05-sf_pattern.md#90-04-101-a101)
+
 <a id="90-04-101-a102"></a>
 
 #### 그림 90.4.101.a102. `Script-Fu 무늬 선택` 대화상자 (Windows) (영어)
