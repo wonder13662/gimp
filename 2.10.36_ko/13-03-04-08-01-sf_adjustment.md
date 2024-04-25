@@ -35,8 +35,8 @@ SF-ADJUSTMENT "label" (list value min max step_inc page_inc digits type)
 
 ## 3. 예시: 매개변수의 정의와 위젯 모습
 
-#### 그림 13.3.4.8.a131. Script-Fu: Sphere - Radius (in pixels)
-![13-03-04-08-a131](https://github.com/wonder13662/gimp/assets/15767104/09abd31b-b796-4a19-8cd0-547ad4c8c247)
+#### 그림 13.3.4.8.1.a131. Script-Fu: Sphere - Radius (in pixels)
+![13-03-04-08-01-a131](https://github.com/wonder13662/gimp/assets/15767104/09abd31b-b796-4a19-8cd0-547ad4c8c247)
 
 ```scheme
 (script-fu-register "script-fu-test-sphere"
@@ -57,8 +57,8 @@ SF-ADJUSTMENT "label" (list value min max step_inc page_inc digits type)
 |digits|0|
 |type|SF-SPINNER|
 
-#### 그림 13.3.4.8.a132. Script-Fu: Sphere - Radius (in pixels)
-![13-03-04-08-a132](https://github.com/wonder13662/gimp/assets/15767104/149a2593-369e-4572-b81e-124b07593e4d)
+#### 그림 13.3.4.8.1.a132. Script-Fu: Sphere - Radius (in pixels)
+![13-03-04-08-01-a132](https://github.com/wonder13662/gimp/assets/15767104/149a2593-369e-4572-b81e-124b07593e4d)
 
 ```scheme
 (script-fu-register "script-fu-test-sphere"
@@ -79,8 +79,8 @@ SF-ADJUSTMENT "label" (list value min max step_inc page_inc digits type)
 |digits|1|
 |type|SF-SLIDER|
 
-#### 그림 13.3.4.8.a133. Script-Fu: Sphere - Font size (pixels)
-![13-03-04-08-a133](https://github.com/wonder13662/gimp/assets/15767104/374a210c-85f8-49e6-bdaa-d342b1e05e04)
+#### 그림 13.3.4.8.1.a133. Script-Fu: Sphere - Font size (pixels)
+![13-03-04-08-01-a133](https://github.com/wonder13662/gimp/assets/15767104/374a210c-85f8-49e6-bdaa-d342b1e05e04)
 
 ```scheme
 (script-fu-register "script-fu-test-sphere"
@@ -105,7 +105,7 @@ SF-ADJUSTMENT "label" (list value min max step_inc page_inc digits type)
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 13.3.4.8.2. SF-COLOR](./13-03-04-08-02-sf_color.md)
 
 [⬅️ 이전: 13.3.4.8. Script-Fu 매개변수(parameter) API(The Script-Fu parameter API)](./13-03-04-08-00-the_script_fu_parameter_api.md)
 
