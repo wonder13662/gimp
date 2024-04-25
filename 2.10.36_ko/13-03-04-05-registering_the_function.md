@@ -42,8 +42,12 @@ GIMP(김프)가 이 스크립트를 읽으면, `script-fu-register` 함수를 �
 
 새로운 스크립트를 호출하면 실제로는 아무런 동작도 하지 않습니다. 하지만 프롬프트 대화상자를 볼 수 있습니다.
 
+<a id="13-03-04-05-a2"></a>
+
 #### 그림 13.3.4.5.a2. `Text Box` 대화상자
 ![13-03-04-05-a2](https://github.com/wonder13662/gimp/assets/15767104/252d3a23-be1d-4d7c-9b04-5c29d0ad8b54)
+
+[13.3.4.7. 스크립트의 매개변수를 등록하기(Registering The Script's Parameters) - 그림 13.3.4.5.a2](./13-03-04-07-registering_the_scripts_parameters.md#13-03-04-05-a2)
 
 마지막으로, [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `도움말` → `프로시저 찾아보기` 메뉴를 클릭하면, 작업한 스크립트가 등록된 것을 확인할 수 있습니다.
 
