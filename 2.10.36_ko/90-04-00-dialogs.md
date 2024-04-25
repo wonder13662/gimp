@@ -476,6 +476,10 @@
 #### 그림 90.4.98.a101. `프로시저 브라우저` 대화상자 (Windows) (우리말)
 ![90-04-98-a101](https://github.com/wonder13662/gimp/assets/15767104/47d3addf-f353-4909-88e9-fa3aedc69b9b)
 
+### [90.4.99. Script-Fu 글꼴 선택(Script-Fu Font Selection)](./90-04-99-script_fu_font_selection.md)
+#### 그림 90.4.99.a101. `Script-Fu 글꼴 선택` 대화상자 (Windows) (우리말)
+![90-04-99-a101](https://github.com/wonder13662/gimp/assets/15767104/40ba7365-7938-4b32-8a8e-361ce0131234)
+
 ***
 
 ## 공통 기능

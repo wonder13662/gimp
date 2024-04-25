@@ -69,7 +69,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.99. Script-Fu 글꼴 선택(Script-Fu Font Selection)](./90-04-99-script_fu_font_selection.md)
 
 [⬅️ 이전: 90.4.97. Scirpt-Fu 콘솔(Scirpt-Fu Console)](./90-04-97-script_fu_console.md)
 
