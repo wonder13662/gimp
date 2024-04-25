@@ -19,7 +19,7 @@
 
 <a id="13-03-04-05-a2"></a>
 
-#### [그림 13.3.4.5.a2. `Text Box` 대화상자](./13-03-04-05-registering_the_function.md)
+#### [그림 13.3.4.5.a2. `Text Box` 대화상자](./13-03-04-05-registering_the_function.md#13-03-04-05-a2)
 ![13-03-04-05-a2](https://github.com/wonder13662/gimp/assets/15767104/252d3a23-be1d-4d7c-9b04-5c29d0ad8b54)
 
 스크립트 등록 과정에서 아래와 같은 매개변수의 타입을 사용합니다.
