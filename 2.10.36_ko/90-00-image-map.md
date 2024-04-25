@@ -1388,6 +1388,8 @@
 
 [90.4.99. Script-Fu 글꼴 선택(Script-Fu Font Selection)](./90-04-99-script_fu_font_selection.md)
 
+[90.4.100. Script-Fu 브러시 선택(Script-Fu Brush Selection)](./90-04-100-script_fu_brush_selection.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

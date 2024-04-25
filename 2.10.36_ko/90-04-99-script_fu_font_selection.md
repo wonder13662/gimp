@@ -25,7 +25,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.100. Script-Fu 브러시 선택(Script-Fu Brush Selection)](./90-04-100-script_fu_brush_selection.md)
 
 [⬅️ 이전: 90.4.98. 프로시저 브라우저(Procedure Browser)](./90-04-98-procedure_browser.md)
 

@@ -480,6 +480,10 @@
 #### 그림 90.4.99.a101. `Script-Fu 글꼴 선택` 대화상자 (Windows) (우리말)
 ![90-04-99-a101](https://github.com/wonder13662/gimp/assets/15767104/40ba7365-7938-4b32-8a8e-361ce0131234)
 
+### [90.4.100. Script-Fu 브러시 선택(Script-Fu Brush Selection)](./90-04-100-script_fu_brush_selection.md)
+#### 그림 90.4.100.a101. `Script-Fu 브러시 선택` 대화상자 (Windows) (우리말)
+![90-04-100-a101](https://github.com/wonder13662/gimp/assets/15767104/140530c7-06b7-4b3b-9372-d2a770bf6108)
+
 ***
 
 ## 공통 기능
