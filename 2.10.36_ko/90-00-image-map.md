@@ -1394,6 +1394,10 @@
 
 [90.4.102. Script-Fu 그라디언트 선택(Script-Fu Gradient Selection)](./90-04-102-script_fu_gradient_selection.md)
 
+[90.4.103. Script-Fu 팔레트 선택(Script-Fu Palette Selection)](./90-04-103-script_fu_palette_selection.md)
+
+[90.4.104. Script-Fu 파일 선택(Script-Fu File Selection)](./90-04-104-script_fu_file_selection.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

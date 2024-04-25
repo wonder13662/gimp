@@ -492,6 +492,14 @@
 #### 그림 90.4.102.a101. `Script-Fu 그라디언트 선택` 대화상자 (Windows) (우리말)
 ![90-04-102-a101](https://github.com/wonder13662/gimp/assets/15767104/048b42ca-5ec3-4583-9bc6-5f70a8addc23)
 
+### [90.4.103. Script-Fu 팔레트 선택(Script-Fu Palette Selection)](./90-04-103-script_fu_palette_selection.md)
+#### 그림 90.4.103.a101. `Script-Fu 팔레트 선택` 대화상자 (Windows) (우리말)
+![90-04-103-a101](https://github.com/wonder13662/gimp/assets/15767104/c9082c6f-eae8-4474-a841-28847b1c4dda)
+
+### [90.4.104. Script-Fu 파일 선택(Script-Fu File Selection)](./90-04-104-script_fu_file_selection.md)
+#### 그림 90.4.104.a101. `Script-Fu 파일 선택` 대화상자 (Windows) (우리말)
+![90-04-104-a101](https://github.com/wonder13662/gimp/assets/15767104/77e426ac-a453-4775-80ab-0634f17c038c)
+
 ***
 
 ## 공통 기능
