@@ -32,7 +32,7 @@ SF-ADJUSTMENT "label" (list value min max step_inc page_inc digits type)
 ## 3. 예시: 매개변수의 정의와 위젯 모습
 
 #### 그림 13.3.4.8.a131. Script-Fu: Sphere - Radius (in pixels)
-![13-03-04-08-a131-sf_adjustment-radius](https://github.com/wonder13662/gimp/assets/15767104/09abd31b-b796-4a19-8cd0-547ad4c8c247)
+![13-03-04-08-a131](https://github.com/wonder13662/gimp/assets/15767104/09abd31b-b796-4a19-8cd0-547ad4c8c247)
 
 ```scheme
 (script-fu-register "script-fu-test-sphere"
@@ -54,7 +54,7 @@ SF-ADJUSTMENT "label" (list value min max step_inc page_inc digits type)
 |type|SF-SPINNER|
 
 #### 그림 13.3.4.8.a132. Script-Fu: Sphere - Radius (in pixels)
-![13-03-04-08-a132-sf_adjustment-lighting](https://github.com/wonder13662/gimp/assets/15767104/149a2593-369e-4572-b81e-124b07593e4d)
+![13-03-04-08-a132](https://github.com/wonder13662/gimp/assets/15767104/149a2593-369e-4572-b81e-124b07593e4d)
 
 ```scheme
 (script-fu-register "script-fu-test-sphere"
@@ -76,7 +76,7 @@ SF-ADJUSTMENT "label" (list value min max step_inc page_inc digits type)
 |type|SF-SLIDER|
 
 #### 그림 13.3.4.8.a133. Script-Fu: Sphere - Font size (pixels)
-![13-03-04-08-a133-sf_adjustment-font_size](https://github.com/wonder13662/gimp/assets/15767104/39c09e89-3773-4728-a14c-3acbe702b0e9)
+![13-03-04-08-a133](https://github.com/wonder13662/gimp/assets/15767104/374a210c-85f8-49e6-bdaa-d342b1e05e04)
 
 ```scheme
 (script-fu-register "script-fu-test-sphere"
