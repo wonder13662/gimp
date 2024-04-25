@@ -42,7 +42,7 @@ SF-ADJUSTMENT "label" (list value min max step_inc page_inc digits type)
 )
 ```
 
-|요소|설명|
+|요소|값|
 |---|---|
 |label|"Radius (in pixels)"|
 |value|100|
@@ -64,7 +64,7 @@ SF-ADJUSTMENT "label" (list value min max step_inc page_inc digits type)
 )
 ```
 
-|요소|설명|
+|요소|값|
 |---|---|
 |label|"Lighting (degrees)"|
 |value|45|
@@ -86,7 +86,7 @@ SF-ADJUSTMENT "label" (list value min max step_inc page_inc digits type)
 )
 ```
 
-|요소|설명|
+|요소|값|
 |---|---|
 |label|"Font size (pixels)"|
 |value|50|
