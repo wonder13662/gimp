@@ -20,7 +20,7 @@ SF-ADJUSTMENT "label" (list value min max step_inc page_inc digits type)
 
 [관련 문서: 13.3.3.4. `list` 함수로 리스트 정의하기](./13-03-03-04-defining_a_list_using_the_list_function.md)
 
-## 2. 위젯 인자 목록
+## 2. 매개변수의 인자 목록
 
 |요소|설명|
 |---|---|
