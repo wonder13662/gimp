@@ -2210,6 +2210,8 @@
 
 [90.4.101. Script-Fu 무늬 선택(Script-Fu Pattern Selection)](./90-04-101-script_fu_pattern_selection.md)
 
+[90.4.102. Script-Fu 그라디언트 선택(Script-Fu Gradient Selection)](./90-04-102-script_fu_gradient_selection.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

@@ -25,7 +25,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.102. Script-Fu 그라디언트 선택(Script-Fu Gradient Selection)](./90-04-102-script_fu_gradient_selection.md)
 
 [⬅️ 이전: 90.4.100. Script-Fu 브러시 선택(Script-Fu Brush Selection)](./90-04-100-script_fu_brush_selection.md)
 
