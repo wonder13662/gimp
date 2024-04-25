@@ -3,9 +3,6 @@
 
 이 매개변수들은 [test-sphere.scm](./13-03-04-08-21-script_fu_example_test_sphere.md)에서 추가적인 설명과 예시를 확인해볼 수 있습니다.
 
-#### 파일 13.3.4.8.a1. 예시 파일: test-sphere.scm
-[13-03-04-08-a1](https://github.com/wonder13662/gimp/files/15102795/test-sphere.scm.zip)
-
 ***
 
 ## 하위 페이지
