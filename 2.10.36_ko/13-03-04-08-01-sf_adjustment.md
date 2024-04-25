@@ -34,7 +34,7 @@ SF-ADJUSTMENT "label" (list value min max step_inc page_inc digits type)
 |type|`SF-SLIDER` 또는 `0`, `SF-SPINNER` 또는 `1`|
 
 ## 3. 예시: 매개변수의 정의와 위젯 모습
-
+### 3-1. Radius (in pixels)
 #### 그림 13.3.4.8.1.a1. Script-Fu: Sphere - Radius (in pixels)
 ![13-03-04-08-01-a1](https://github.com/wonder13662/gimp/assets/15767104/09abd31b-b796-4a19-8cd0-547ad4c8c247)
 
@@ -57,7 +57,8 @@ SF-ADJUSTMENT "label" (list value min max step_inc page_inc digits type)
 |digits|0|
 |type|SF-SPINNER|
 
-#### 그림 13.3.4.8.1.a2. Script-Fu: Sphere - Radius (in pixels)
+### 3-2. Lighting (in pixels)
+#### 그림 13.3.4.8.1.a2. Script-Fu: Sphere - Lighting (in pixels)
 ![13-03-04-08-01-a2](https://github.com/wonder13662/gimp/assets/15767104/149a2593-369e-4572-b81e-124b07593e4d)
 
 ```scheme
@@ -79,6 +80,7 @@ SF-ADJUSTMENT "label" (list value min max step_inc page_inc digits type)
 |digits|1|
 |type|SF-SLIDER|
 
+### 3-3. Font size (pixels)
 #### 그림 13.3.4.8.1.a3. Script-Fu: Sphere - Font size (pixels)
 ![13-03-04-08-01-a3](https://github.com/wonder13662/gimp/assets/15767104/374a210c-85f8-49e6-bdaa-d342b1e05e04)
 
