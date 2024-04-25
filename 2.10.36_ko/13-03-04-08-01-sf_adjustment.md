@@ -6,11 +6,15 @@
 
 ```scheme
 SF-ADJUSTMENT "label" '(value min max step_inc page_inc digits type)
+```
 
 또는
 
+```scheme
 SF-ADJUSTMENT "label" (list value min max step_inc page_inc digits type)
 ```
+
+⚠️ 주의: 매개변수를 목록으로 넣기 위해 `list` 또는 `'`(어퍼스트로피)를 써야 하는 점을 유의하세요. [관련 문서: 13.3.3.1. 리스트 정의하기](./13-03-03-01-defining_a_list.md)
 
 ## 2. 위젯 인자 목록
 |요소|설명|
