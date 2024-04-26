@@ -2216,6 +2216,8 @@
 
 [90.4.104. Script-Fu 파일 선택(Script-Fu File Selection)](./90-04-104-script_fu_file_selection.md)
 
+[90.4.105. Script-Fu 폴더 선택(Script-Fu Folder Selection)](./90-04-105-script_fu_folder_selection.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

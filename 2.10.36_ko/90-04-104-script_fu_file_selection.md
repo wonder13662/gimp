@@ -27,7 +27,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.105. Script-Fu 폴더 선택(Script-Fu Folder Selection)](./90-04-105-script_fu_folder_selection.md)
 
 [⬅️ 이전: 90.4.103. Script-Fu 팔레트 선택(Script-Fu Palette Selection)](./90-04-103-script_fu_palette_selection.md)
 

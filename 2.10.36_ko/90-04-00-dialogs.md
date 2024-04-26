@@ -500,6 +500,10 @@
 #### 그림 90.4.104.a101. `Script-Fu 파일 선택` 대화상자 (Windows) (우리말)
 ![90-04-104-a101](https://github.com/wonder13662/gimp/assets/15767104/77e426ac-a453-4775-80ab-0634f17c038c)
 
+### [90.4.105. Script-Fu 폴더 선택(Script-Fu Folder Selection)](./90-04-105-script_fu_folder_selection.md)
+#### 그림 90.4.105.a101. `Script-Fu 폴더 선택` 대화상자 (Windows) (우리말)
+![90-04-105-a101](https://github.com/wonder13662/gimp/assets/15767104/2abf8d19-df2e-44a8-b508-eaff7664c9cf)
+
 ***
 
 ## 공통 기능
