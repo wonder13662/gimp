@@ -11,7 +11,7 @@
 
 [13.3.5.3. 텍스트 추가하기(Adding the Text)](./13-03-05-03-00-adding_the_text.md)
 
-[13.3.5.4. 더티 플래그 지우기(Clearing the Dirty Flag)](./13-03-05-04-clearing_the_dirty_flag.md)
+[13.3.5.4. 더티 플래그 지우기(Clearing the Dirty Flag)](./13-03-05-04-00-clearing_the_dirty_flag.md)
 
 ***
 

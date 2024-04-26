@@ -876,7 +876,7 @@
 
 [13.3.5.3. 텍스트 추가하기(Adding the Text)](./13-03-05-03-00-adding_the_text.md)
 
-[13.3.5.4. 더티 플래그 지우기(Clearing the Dirty Flag)](./13-03-05-04-clearing_the_dirty_flag.md)
+[13.3.5.4. 더티 플래그 지우기(Clearing the Dirty Flag)](./13-03-05-04-00-clearing_the_dirty_flag.md)
 
 [13.3.6. 텍스트 박스 스크립트 확장하기(Extending the text box script)](./13-03-06-extending-the-text-box-script.md)
 
@@ -2249,6 +2249,8 @@
 [90.4.104. Script-Fu 파일 선택(Script-Fu File Selection)](./90-04-104-script_fu_file_selection.md)
 
 [90.4.105. Script-Fu 폴더 선택(Script-Fu Folder Selection)](./90-04-105-script_fu_folder_selection.md)
+
+[90.4.106. 변화 저장하기(Save the changes)](./90-04-106-save_the_change.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

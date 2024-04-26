@@ -1400,6 +1400,8 @@
 
 [90.4.105. Script-Fu 폴더 선택(Script-Fu Folder Selection)](./90-04-105-script_fu_folder_selection.md)
 
+[90.4.106. 변화 저장하기(Save the changes)](./90-04-106-save_the_change.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

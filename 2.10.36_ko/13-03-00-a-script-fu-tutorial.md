@@ -103,7 +103,7 @@
 
 [13.3.5.3. 텍스트 추가하기(Adding the Text)](./13-03-05-03-00-adding_the_text.md)
 
-[13.3.5.4. 더티 플래그 지우기(Clearing the Dirty Flag)](./13-03-05-04-clearing_the_dirty_flag.md)
+[13.3.5.4. 더티 플래그 지우기(Clearing the Dirty Flag)](./13-03-05-04-00-clearing_the_dirty_flag.md)
 
 [13.3.5.1. 새 이미지 만들기(Creating a New Image)](./13-03-05-01-creating_a_new_image.md)
 
@@ -111,7 +111,7 @@
 
 [13.3.5.3. 텍스트 추가하기(Adding the Text)](./13-03-05-03-00-adding_the_text.md)
 
-[13.3.5.4. 더티 플래그 지우기(Clearing the Dirty Flag)](./13-03-05-04-clearing_the_dirty_flag.md)
+[13.3.5.4. 더티 플래그 지우기(Clearing the Dirty Flag)](./13-03-05-04-00-clearing_the_dirty_flag.md)
 
 [13.3.6. 텍스트 박스 스크립트 확장하기(Extending the text box script)](./13-03-06-extending-the-text-box-script.md)
 
