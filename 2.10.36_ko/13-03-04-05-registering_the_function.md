@@ -37,8 +37,12 @@ GIMP(김프)가 이 스크립트를 읽으면, `script-fu-register` 함수를 �
 
 [다른 운영체제와 언어의 `필터` → `Script-Fu` → `스크립트 새로고침` 확인하기](./90-01-09-16-02-refresh_scripts.md#90-01-09-16-02-a2)
 
+<a id="13-03-04-05-a1"></a>
+
 #### 그림 13.3.4.5.a1. `파일` → `만들기` → `Text` → `Text Box`
 ![13-03-04-05-a1](https://github.com/wonder13662/gimp/assets/15767104/4f11ae5b-7199-40b4-9402-e1bfbfa0bb47)
+
+[13.3.4.9. 메뉴 위치 등록하기(Registering the Menu Location) - 그림 13.3.4.5.a1](./13-03-04-09-registering_the_menu_location.md#13-03-04-05-a1)
 
 새로운 스크립트를 호출하면 실제로는 아무런 동작도 하지 않습니다. 하지만 프롬프트 대화상자를 볼 수 있습니다.
 
