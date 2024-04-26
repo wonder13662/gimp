@@ -874,7 +874,7 @@
 
 [13.3.5.2. 이미지에 새 레이어 추가하기(Adding a New Layer to the Image)](./13-03-05-02-00-adding_a_new_layer_to_the_image.md)
 
-[13.3.5.3. 텍스트 추가하기(Adding the Text)](./13-03-05-03-adding_the_text.md)
+[13.3.5.3. 텍스트 추가하기(Adding the Text)](./13-03-05-03-00-adding_the_text.md)
 
 [13.3.5.4. 더티 플래그 지우기(Clearing the Dirty Flag)](./13-03-05-04-clearing_the_dirty_flag.md)
 

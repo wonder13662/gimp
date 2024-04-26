@@ -1,8 +1,8 @@
-# 13.3.5.2.1. 작업중인 스크립트
+# 13.3.5.3.1. 작업중인 스크립트
 지금까지 작업한 스크립트의 내용은 다음과 같습니다.
 
-#### 파일 13.3.5.2.1.a1. 지금까지 작업한 "Text Box" 스크립트
-[textbox.scm.zip](https://github.com/wonder13662/gimp/files/15125976/textbox.scm.zip)
+#### 파일 13.3.5.3.1.a1. 지금까지 작업한 "Text Box" 스크립트
+[textbox.scm.zip](https://github.com/wonder13662/gimp/files/15131931/textbox.scm.zip)
 
 ```scheme
 (define (script-fu-text-box inText inFont inFontSize inTextColor)
@@ -42,8 +42,38 @@
     ;새 레이어를 이미지에 추가
     (gimp-image-insert-layer theImage theLayer 0 0)
 
+    ;전경색, 배경색 바꾸기
+    (gimp-context-set-background '(255 255 255) )
+    (gimp-context-set-foreground inTextColor)
+
+    ;이미지에 텍스트 추가
+    (gimp-drawable-fill theLayer BACKGROUND-FILL)
+
+    ;이미지에 텍스트 추가하기
+    (set! theText
+      (car
+        (gimp-text-fontname
+          theImage theLayer
+          0 0
+          inText
+          0
+          TRUE
+          inFontSize PIXELS
+          inFont
+        )
+      )
+    )
+
+    ;이미지를 텍스트에 맞추기
+    (set! theImageWidth   (car (gimp-drawable-width  theText) ) )
+    (set! theImageHeight  (car (gimp-drawable-height theText) ) )
+
+    (gimp-image-resize theImage theImageWidth theImageHeight 0 0)
+
+    (gimp-layer-resize theLayer theImageWidth theImageHeight 0 0)
+
     ;새 이미지를 이미지 창에 띄우기
-    (gimp-display-new theImage)    
+    (gimp-display-new theImage)
   )
 )
 
