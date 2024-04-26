@@ -2,5 +2,5 @@
 
 ### [Home](./00-home.md)
 ### [Parent: 13.3. Script-Fu 튜토리얼(A Script-Fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
-### [Prev: 13.3.5. Giving our script some guts](./13-03-05-giving-our-script-some-guts.md)
+### [Prev: 13.3.5. Giving our script some guts](./13-03-05-00-giving-our-script-some-guts.md)
 ### [Next: 13.3.7. 최종 스크립트 결과 확인하기(Your script and its working)](./13-03-07-your-script-and-its-working.md)

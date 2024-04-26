@@ -65,6 +65,20 @@
 
 [13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script) - 그림 90.4.98.a111.5](./13-03-04-06-steps_for_registering_the_script.md#90-04-98-a111-05)
 
+<a id="90-04-98-a121-01"></a>
+
+#### 그림 90.4.98.a121.1. `프로시저 브라우저` 대화상자 - `gimp-image-new`: 매개변수 (Windows) (우리말)
+![90-04-98-a121-01](https://github.com/wonder13662/gimp/assets/15767104/ddc6ea1a-0ddf-4409-88bd-d81837fb9be1)
+
+[13.3.5.1. 새 이미지 만들기(Creating a New Image) - 그림 90.4.98.a121](./13-03-05-01-creating_a_new_image.md#90-04-98-a121-01)
+
+<a id="90-04-98-a121-02"></a>
+
+#### 그림 90.4.98.a121.2. `프로시저 브라우저` 대화상자 - `gimp-image-new`: 반환값 (Windows) (우리말)
+![90-04-98-a121-02](https://github.com/wonder13662/gimp/assets/15767104/94ebba38-d458-4ed9-a64f-421755082ce2)
+
+[13.3.5.1. 새 이미지 만들기(Creating a New Image) - 그림 90.4.98.a121.2](./13-03-05-01-creating_a_new_image.md#90-04-98-a121-02)
+
 ***
 
 ## 다른 페이지로 가기

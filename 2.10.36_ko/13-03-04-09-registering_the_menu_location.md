@@ -18,7 +18,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.5. 스크립트 개선하기(Giving our script some guts)](./13-03-05-giving-our-script-some-guts.md)
+[➡️ 다음: 13.3.5. 스크립트 개선하기(Giving our script some guts)](./13-03-05-00-giving-our-script-some-guts.md)
 
 [⬅️ 이전: 13.3.4.8. Script-Fu 매개변수(parameter) API(The Script-Fu parameter API)](./13-03-04-08-00-the_script_fu_parameter_api.md)
 

@@ -834,7 +834,7 @@ module.exports = {
         '13.3.4. 첫번째 Script-Fu 스크립트(Your first Script-Fu script)'
       ],
       [
-        '13-03-05-giving-our-script-some-guts.md', 
+        '13-03-05-00-giving-our-script-some-guts.md', 
         '13.3.5. Giving our script some guts'
       ],
       [
