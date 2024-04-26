@@ -22,22 +22,24 @@
 ```scheme
 (define (script-fu-text-box inText inFont inFontSize inTextColor)
   (let*
-        (
-            ; 지역 변수를 선언합니다.
-            ; 새로운 이미지를 만듭니다.
-            (theImageWidth  10)
-            (theImageHeight 10)
-            (theImage (car
-                          (gimp-image-new
-                            theImageWidth
-                            theImageHeight
-                            RGB
-                          )
-                      )
-            )
-            (theText)     ;텍스트를 저장하는 변수입니다.
-                          ;텍스트는 나중에 만들 것입니다.
+    (
+      ; 지역 변수를 선언합니다.
+      ; 새로운 이미지를 만듭니다.
+      (theImageWidth  10)
+      (theImageHeight 10)
+      (theImage
+        (car
+          (gimp-image-new
+            theImageWidth
+            theImageHeight
+            RGB
+          )
         )
+      )
+      ;텍스트를 저장하는 변수입니다.
+      ;텍스트는 나중에 만들 것입니다.
+      (theText)
+    )
   )
 )
 ```
@@ -57,7 +59,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.5.2. 이미지에 새 레이어 추가하기(Adding a New Layer to the Image)](./13-03-05-02-adding_a_new_layer_to_the_image.md)
+[➡️ 다음: 13.3.5.2. 이미지에 새 레이어 추가하기(Adding a New Layer to the Image)](./13-03-05-02-00-adding_a_new_layer_to_the_image.md)
 
 [⬅️ 이전: 13.3.5. 스크립트 개선하기(Giving our script some guts)](./13-03-05-00-giving-our-script-some-guts.md)
 
