@@ -1,4 +1,4 @@
-# 13.3.4.8.21. Script-Fu 매개변수(parameter) API 예시:test-sphere.scm
+# 13.3.4.8.12. Script-Fu 매개변수(parameter) API 예시:test-sphere.scm
 
 #### 파일 13.3.4.8.21.a1. 예시 파일: test-sphere.scm
 [13-03-04-08-a1](https://github.com/wonder13662/gimp/files/15102795/test-sphere.scm.zip)
