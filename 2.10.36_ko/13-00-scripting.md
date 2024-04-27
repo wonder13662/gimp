@@ -88,9 +88,13 @@
 
 [13.3.4.3. 가장 필요한 것들(The Bare Essentials)](./13-03-04-03-00-the_bare_essentials.md)
 
+[13.3.4.3.1. 작업중인 스크립트](./13-03-04-03-01-script_in_progress.md)
+
 [13.3.4.4. 이름 규칙(Naming Conventions)](./13-03-04-04-naming_conventions.md)
 
 [13.3.4.5. 함수 등록하기(Registering The Function)](./13-03-04-05-00-registering_the_function.md)
+
+[13.3.4.5.1. 작업중인 스크립트](./13-03-04-05-01-script_in_progress.md)
 
 [13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script)](./13-03-04-06-steps_for_registering_the_script.md)
 
@@ -124,15 +128,25 @@
 
 [13.3.4.9. 메뉴 위치 등록하기(Registering the Menu Location)](./13-03-04-09-00-registering_the_menu_location.md)
 
+[13.3.4.9.1. 작업중인 스크립트](./13-03-04-09-01-script_in_progress.md)
+
 [13.3.5. 스크립트 개선하기(Giving our script some guts)](./13-03-05-00-giving-our-script-some-guts.md)
 
 [13.3.5.1. 새 이미지 만들기(Creating a New Image)](./13-03-05-01-00-creating_a_new_image.md)
 
+[13.3.5.1.1. 작업중인 스크립트](./13-03-05-01-01-script_in_progress.md)
+
 [13.3.5.2. 이미지에 새 레이어 추가하기(Adding a New Layer to the Image)](./13-03-05-02-00-adding_a_new_layer_to_the_image.md)
+
+[13.3.5.2.1. 작업중인 스크립트](./13-03-05-02-01-script_in_progress.md)
 
 [13.3.5.3. 텍스트 추가하기(Adding the Text)](./13-03-05-03-00-adding_the_text.md)
 
+[13.3.5.3.1. 작업중인 스크립트](./13-03-05-03-01-script_in_progress.md)
+
 [13.3.5.4. 더티 플래그 지우기(Clearing the Dirty Flag)](./13-03-05-04-00-clearing_the_dirty_flag.md)
+
+[13.3.5.4.1. 작업중인 스크립트](./13-03-05-04-01-script_in_progress.md)
 
 [13.3.6. 텍스트 박스 스크립트 확장하기(Extending the text box script)](./13-03-06-00-extending-the-text-box-script.md)
 
