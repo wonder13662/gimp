@@ -13,7 +13,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.4.4. 이름 규칙(Naming Conventions)](./13-03-04-04-naming_conventions.md)
+[➡️ 다음: 13.3.4.3.1. 작업중인 스크립트](./13-03-04-03-01-script_in_progress.md)
 
 [⬅️ 이전: 13.3.4.2. 스크립트 수정하고 저장하기(Editing And Storing Your Scripts)](./13-03-04-02-editing_and_storing_your_scripts.md)
 

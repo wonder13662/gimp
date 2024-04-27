@@ -1,8 +1,8 @@
-# 13.3.5.4.1. 작업중인 스크립트
+# 13.3.5.1.1. 작업중인 스크립트
 지금까지 작업한 스크립트의 내용은 다음과 같습니다.
 
-#### 파일 13.3.5.4.1.a1. 지금까지 작업한 "Text Box" 스크립트
-[textbox.scm.zip](https://github.com/wonder13662/gimp/files/15135853/textbox.scm.zip)
+#### 파일 13.3.5.1.1.a1. 지금까지 작업한 "Text Box" 스크립트
+[textbox.scm.zip](https://github.com/wonder13662/gimp/files/15125976/textbox.scm.zip)
 
 ```scheme
 ; 스크립트를 프로시저 데이터베이스(Procedure Database)에 등록
@@ -46,59 +46,7 @@
       ;텍스트를 저장하는 변수입니다.
       ;텍스트는 나중에 만들 것입니다.
       (theText)     
-      ;이미지에 새로운 레이어를 만듭니다.
-      (theLayer
-        (car
-          (gimp-layer-new
-            theImage
-            theImageWidth
-            theImageHeight
-            RGB-IMAGE
-            "layer 1"
-            100
-            LAYER-MODE-NORMAL
-          )
-        )
-      )
     ) ;지역변수 끝
-
-    ;새 레이어를 이미지에 추가
-    (gimp-image-insert-layer theImage theLayer 0 0)
-
-    ;전경색, 배경색 바꾸기
-    (gimp-context-set-background '(255 255 255) )
-    (gimp-context-set-foreground inTextColor)
-
-    ;이미지에 텍스트 추가
-    (gimp-drawable-fill theLayer BACKGROUND-FILL)
-
-    ;이미지에 텍스트 추가하기
-    (set! theText
-      (car
-        (gimp-text-fontname
-          theImage theLayer
-          0 0
-          inText
-          0
-          TRUE
-          inFontSize PIXELS
-          inFont
-        )
-      )
-    )
-
-    ;이미지를 텍스트에 맞추기
-    (set! theImageWidth   (car (gimp-drawable-width  theText) ) )
-    (set! theImageHeight  (car (gimp-drawable-height theText) ) )
-
-    (gimp-image-resize theImage theImageWidth theImageHeight 0 0)
-    (gimp-layer-resize theLayer theImageWidth theImageHeight 0 0)
-
-    ;새 이미지를 이미지 창에 띄우기
-    (gimp-display-new theImage)
-
-    ;더티 플래그 지우기
-    (gimp-image-clean-all theImage)
   )
 )
 ```
@@ -107,11 +55,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.6. 텍스트 박스 스크립트 확장하기(Extending the text box script)](./13-03-06-00-extending-the-text-box-script.md)
+[➡️ 다음: 13.3.5.2. 이미지에 새 레이어 추가하기(Adding a New Layer to the Image)](./13-03-05-02-00-adding_a_new_layer_to_the_image.md)
 
-[⬅️ 이전: 13.3.5.4. 더티 플래그 지우기(Clearing the Dirty Flag)](./13-03-05-04-00-clearing_the_dirty_flag.md)
+[⬅️ 이전: 13.3.5.1. 새 이미지 만들기(Creating a New Image)](./13-03-05-01-00-creating_a_new_image.md)
 
-[⬆️ 위: 13.3.5.4. 더티 플래그 지우기(Clearing the Dirty Flag)](./13-03-05-04-00-clearing_the_dirty_flag.md)
+[⬆️ 위: 13.3.5.2. 이미지에 새 레이어 추가하기(Adding a New Layer to the Image)](./13-03-05-02-00-adding_a_new_layer_to_the_image.md)
 
 [⬆️ 위: 13.3.5. 스크립트 개선하기(Giving our script some guts)](./13-03-05-00-giving-our-script-some-guts.md)
 

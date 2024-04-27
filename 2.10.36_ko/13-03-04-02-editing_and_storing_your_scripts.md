@@ -16,7 +16,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.4.3. 가장 필요한 것들(The Bare Essentials)](./13-03-04-03-the_bare_essentials.md)
+[➡️ 다음: 13.3.4.3. 가장 필요한 것들(The Bare Essentials)](./13-03-04-03-00-the_bare_essentials.md)
 
 [⬅️ 이전: 13.3.4.1. 텍스트 박스 스크립트 만들기(Creating A Text Box Script)](./13-03-04-01-creating_a_text_box_script.md)
 

@@ -26,7 +26,7 @@
 #### 그림 90.4.98.a111. `프로시저 브라우저` 대화상자 - 추가한 스크립트 확인 (Windows) (우리말)
 ![90-04-98-a111](https://github.com/wonder13662/gimp/assets/15767104/e35a44e3-27fc-4b62-82b2-2496b012b11b)
 
-[13.3.4.5. 함수 등록하기(Registering The Function) - 그림 90.4.98.a111](./13-03-04-05-registering_the_function.md#90-04-98-a111)
+[13.3.4.5. 함수 등록하기(Registering The Function) - 그림 90.4.98.a111](./13-03-04-05-00-registering_the_function.md#90-04-98-a111)
 
 [13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script)](./13-03-04-06-steps_for_registering_the_script.md#90-04-98-a111)
 
@@ -70,14 +70,14 @@
 #### 그림 90.4.98.a121.1. `프로시저 브라우저` 대화상자 - `gimp-image-new`: 매개변수 (Windows) (우리말)
 ![90-04-98-a121-01](https://github.com/wonder13662/gimp/assets/15767104/ddc6ea1a-0ddf-4409-88bd-d81837fb9be1)
 
-[13.3.5.1. 새 이미지 만들기(Creating a New Image) - 그림 90.4.98.a121](./13-03-05-01-creating_a_new_image.md#90-04-98-a121-01)
+[13.3.5.1. 새 이미지 만들기(Creating a New Image) - 그림 90.4.98.a121](./13-03-05-01-00-creating_a_new_image.md#90-04-98-a121-01)
 
 <a id="90-04-98-a121-02"></a>
 
 #### 그림 90.4.98.a121.2. `프로시저 브라우저` 대화상자 - `gimp-image-new`: 반환값 (Windows) (우리말)
 ![90-04-98-a121-02](https://github.com/wonder13662/gimp/assets/15767104/94ebba38-d458-4ed9-a64f-421755082ce2)
 
-[13.3.5.1. 새 이미지 만들기(Creating a New Image) - 그림 90.4.98.a121.2](./13-03-05-01-creating_a_new_image.md#90-04-98-a121-02)
+[13.3.5.1. 새 이미지 만들기(Creating a New Image) - 그림 90.4.98.a121.2](./13-03-05-01-00-creating_a_new_image.md#90-04-98-a121-02)
 
 ***
 

@@ -1,8 +1,7 @@
-# 13.3.5.2.1. 작업중인 스크립트
+# 13.3.4.5.1. 작업중인 스크립트
 지금까지 작업한 스크립트의 내용은 다음과 같습니다.
 
-#### 파일 13.3.5.2.1.a1. 지금까지 작업한 "Text Box" 스크립트
-[textbox.scm.zip](https://github.com/wonder13662/gimp/files/15125976/textbox.scm.zip)
+#### 파일 13.3.4.5.1.a1. 지금까지 작업한 "Text Box" 스크립트
 
 ```scheme
 ; 스크립트를 프로시저 데이터베이스(Procedure Database)에 등록
@@ -24,60 +23,17 @@
   SF-COLOR       "Color"         '(0 0 0)     ;프롬프트의 사용자 입력 색상(color variable)
 )
 
-; 스크립트가 표시될 메뉴 위치를 설정
-(script-fu-menu-register "script-fu-text-box" "<Image>/File/Create/Text")
-
 ; Text Box 함수 정의
-(define (script-fu-text-box inText inFont inFontSize inTextColor)
-  (let*
-    (
-      ; 지역 변수를 선언합니다.
-      ; 새로운 이미지를 만듭니다.
-      (theImageWidth  10)
-      (theImageHeight 10)
-      (theImage (car
-                  (gimp-image-new
-                    theImageWidth
-                    theImageHeight
-                    RGB
-                  )
-                )
-      )
-      ;텍스트를 저장하는 변수입니다.
-      ;텍스트는 나중에 만들 것입니다.
-      (theText)     
-      ;이미지에 새로운 레이어를 만듭니다.
-      (theLayer
-        (car
-          (gimp-layer-new
-            theImage
-            theImageWidth
-            theImageHeight
-            RGB-IMAGE
-            "layer 1"
-            100
-            LAYER-MODE-NORMAL
-          )
-        )
-      )
-    ) ;지역변수 끝
-
-    ;새 레이어를 이미지에 추가
-    (gimp-image-insert-layer theImage theLayer 0 0)
-
-    ;새 이미지를 이미지 창에 띄우기
-    (gimp-display-new theImage)    
-  )
-)
+(define (script-fu-text-box inText inFont inFontSize inTextColor))
 ```
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.5.3. 텍스트 추가하기(Adding the Text)](./13-03-05-03-00-adding_the_text.md)
+[➡️ 다음: 13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script)](./13-03-04-06-steps_for_registering_the_script.md)
 
-[⬅️ 이전: 13.3.5.2. 이미지에 새 레이어 추가하기(Adding a New Layer to the Image)](./13-03-05-02-00-adding_a_new_layer_to_the_image.md)
+[⬅️ 이전: 13.3.4.5. 함수 등록하기(Registering The Function)](./13-03-04-05-00-registering_the_function.md)
 
 [⬆️ 위: 13.3.5.2. 이미지에 새 레이어 추가하기(Adding a New Layer to the Image)](./13-03-05-02-00-adding_a_new_layer_to_the_image.md)
 

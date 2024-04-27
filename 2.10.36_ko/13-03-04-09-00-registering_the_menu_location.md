@@ -4,6 +4,7 @@
 메뉴의 적절한 위치는 함수에 따라 달라집니다. 대부분의 스크립트는 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `필터`와 `색`에 위치하고 있습니다.
 
 ```scheme
+; 스크립트가 표시될 메뉴 위치를 설정
 (script-fu-menu-register "script-fu-text-box" "<Image>/File/Create/Text")
 ```
 
@@ -11,16 +12,16 @@
 
 <a id="13-03-04-05-a1"></a>
 
-#### [그림 13.3.4.5.a1. `파일` → `만들기` → `Text` → `Text Box`](./13-03-04-05-registering_the_function.md#13-03-04-05-a1)
+#### [그림 13.3.4.5.a1. `파일` → `만들기` → `Text` → `Text Box`](./13-03-04-05-00-registering_the_function.md#13-03-04-05-a1)
 ![13-03-04-05-a1](https://github.com/wonder13662/gimp/assets/15767104/4f11ae5b-7199-40b4-9402-e1bfbfa0bb47)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.5. 스크립트 개선하기(Giving our script some guts)](./13-03-05-00-giving-our-script-some-guts.md)
+[➡️ 다음: 13.3.4.9.1. 작업중인 스크립트](./13-03-04-09-01-script_in_progress.md)
 
-[⬅️ 이전: 13.3.4.8. Script-Fu 매개변수(parameter) API(The Script-Fu parameter API)](./13-03-04-08-00-the_script_fu_parameter_api.md)
+[⬅️ 이전: 13.3.4.8.12. Script-Fu 매개변수(parameter) API 예시:test-sphere.scm](./13-03-04-08-12-script_fu_example_test_sphere.md)
 
 [⬆️ 위: 13.3.4. 첫번째 Script-Fu 스크립트(Your first Script-Fu script)](./13-03-04-00-your-first-script-fu-script.md)
 

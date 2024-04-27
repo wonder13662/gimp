@@ -838,7 +838,7 @@ module.exports = {
         '13.3.5. Giving our script some guts'
       ],
       [
-        '13-03-06-extending-the-text-box-script.md', 
+        '13-03-06-00-extending-the-text-box-script.md', 
         '13.3.6. Extending the text box script',
         '13.3.6. 텍스트 박스 스크립트 확장하기(Extending the text box script)'
       ],

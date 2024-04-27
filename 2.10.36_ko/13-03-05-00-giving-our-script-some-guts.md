@@ -5,7 +5,7 @@
 
 ## 하위 페이지
 
-[13.3.5.1. 새 이미지 만들기(Creating a New Image)](./13-03-05-01-creating_a_new_image.md)
+[13.3.5.1. 새 이미지 만들기(Creating a New Image)](./13-03-05-01-00-creating_a_new_image.md)
 
 [13.3.5.2. 이미지에 새 레이어 추가하기(Adding a New Layer to the Image)](./13-03-05-02-00-adding_a_new_layer_to_the_image.md)
 
@@ -17,9 +17,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.5.1. 새 이미지 만들기(Creating a New Image)](./13-03-05-01-creating_a_new_image.md)
+[➡️ 다음: 13.3.5.1. 새 이미지 만들기(Creating a New Image)](./13-03-05-01-00-creating_a_new_image.md)
 
-[⬅️ 이전: 13.3.4.9. 메뉴 위치 등록하기(Registering the Menu Location)](./13-03-04-09-registering_the_menu_location.md)
+[⬅️ 이전: 13.3.4.9.1. 작업중인 스크립트](./13-03-04-09-01-script_in_progress.md)
 
 [⬆️ 위: 13.3. Script-Fu 튜토리얼(A Script-Fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
 

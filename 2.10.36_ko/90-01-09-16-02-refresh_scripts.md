@@ -8,7 +8,7 @@
 
 [13.2.2. script-fu 스크립트 설치하기(Installing script-fu scripts) - 그림 90.1.9.16.2.a1](./13-02-02-installing-script-fu-scripts.md#90-01-09-16-02-a1)
 
-[13.3.4.5. 함수 등록하기(Registering The Function) - 그림 90.1.9.16.2.a1](./13-03-04-05-registering_the_function.md#90-01-09-16-02-a1)
+[13.3.4.5. 함수 등록하기(Registering The Function) - 그림 90.1.9.16.2.a1](./13-03-04-05-00-registering_the_function.md#90-01-09-16-02-a1)
 
 <a id="90-01-09-16-02-a2"></a>
 

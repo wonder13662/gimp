@@ -6,7 +6,7 @@
 #### 그림 90.1.11.7.a1. `도움말` → `프로시저 찾아보기`
 ![90-01-11-07-a1](https://github.com/wonder13662/gimp/assets/15767104/a000dc6a-07b3-497f-a76d-ab8baa918332)
 
-[13.3.4.5. 함수 등록하기(Registering The Function) - 그림 90.1.11.7.a1](./13-03-04-05-registering_the_function.md#90-01-11-07-a1)
+[13.3.4.5. 함수 등록하기(Registering The Function) - 그림 90.1.11.7.a1](./13-03-04-05-00-registering_the_function.md#90-01-11-07-a1)
 
 ***
 

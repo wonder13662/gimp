@@ -8,11 +8,11 @@
 
 [13.3.4.2. 스크립트 수정하고 저장하기(Editing And Storing Your Scripts)](./13-03-04-02-editing_and_storing_your_scripts.md)
 
-[13.3.4.3. 가장 필요한 것들(The Bare Essentials)](./13-03-04-03-the_bare_essentials.md)
+[13.3.4.3. 가장 필요한 것들(The Bare Essentials)](./13-03-04-03-00-the_bare_essentials.md)
 
 [13.3.4.4. 이름 규칙(Naming Conventions)](./13-03-04-04-naming_conventions.md)
 
-[13.3.4.5. 함수 등록하기(Registering The Function)](./13-03-04-05-registering_the_function.md)
+[13.3.4.5. 함수 등록하기(Registering The Function)](./13-03-04-05-00-registering_the_function.md)
 
 [13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script)](./13-03-04-06-steps_for_registering_the_script.md)
 
@@ -44,7 +44,7 @@
 
 [13.3.4.8.12. Script-Fu 매개변수(parameter) API 예시:test-sphere.scm](./13-03-04-08-12-script_fu_example_test_sphere.md)
 
-[13.3.4.9. 메뉴 위치 등록하기(Registering the Menu Location)](./13-03-04-09-registering_the_menu_location.md)
+[13.3.4.9. 메뉴 위치 등록하기(Registering the Menu Location)](./13-03-04-09-00-registering_the_menu_location.md)
 
 ***
 

@@ -5,6 +5,29 @@
 [textbox.scm.zip](https://github.com/wonder13662/gimp/files/15131931/textbox.scm.zip)
 
 ```scheme
+; 스크립트를 프로시저 데이터베이스(Procedure Database)에 등록
+(script-fu-register
+  "script-fu-text-box"                        ;스크립트의 진입점 함수의 이름(entry-point function name)
+  "Text Box"                                  ;메뉴 라벨(menu label)
+  "Creates a simple text box, sized to fit\
+    around the user's choice of text,\
+    font, font size, and color."              ;스크립트 설명(description)
+  "Michael Terry"                             ;스크립트 작성자(author)
+  "copyright 1997, Michael Terry;\
+    2009, the GIMP Documentation Team"        ;저작권 알림(copyright notice)
+  "October 27, 1997"                          ;작성일(date created)
+  ""                                          ;스크립트가 동작하는 이미지 타입(image type that the script works on)
+  SF-STRING      "Text"          "Text Box"   ;프롬프트의 사용자 입력 문자열 변수(a string variable)
+  SF-FONT        "Font"          "Charter"    ;프롬프트의 사용자 입력 글꼴(a font variable)
+  SF-ADJUSTMENT  "Font size"     '(50 1 1000 1 10 0 1)
+                                              ;프롬프트의 사용자 입력 글꼴 크기(a spin-button)
+  SF-COLOR       "Color"         '(0 0 0)     ;프롬프트의 사용자 입력 색상(color variable)
+)
+
+; 스크립트가 표시될 메뉴 위치를 설정
+(script-fu-menu-register "script-fu-text-box" "<Image>/File/Create/Text")
+
+; Text Box 함수 정의
 (define (script-fu-text-box inText inFont inFontSize inTextColor)
   (let*
     (
@@ -76,25 +99,6 @@
     (gimp-display-new theImage)
   )
 )
-
-(script-fu-register
-  "script-fu-text-box"                        ;스크립트의 진입점 함수의 이름(entry-point function name)
-  "Text Box"                                  ;메뉴 라벨(menu label)
-  "Creates a simple text box, sized to fit\
-    around the user's choice of text,\
-    font, font size, and color."              ;스크립트 설명(description)
-  "Michael Terry"                             ;스크립트 작성자(author)
-  "copyright 1997, Michael Terry;\
-    2009, the GIMP Documentation Team"        ;저작권 알림(copyright notice)
-  "October 27, 1997"                          ;작성일(date created)
-  ""                                          ;스크립트가 동작하는 이미지 타입(image type that the script works on)
-  SF-STRING      "Text"          "Text Box"   ;프롬프트의 사용자 입력 문자열 변수(a string variable)
-  SF-FONT        "Font"          "Charter"    ;프롬프트의 사용자 입력 글꼴(a font variable)
-  SF-ADJUSTMENT  "Font size"     '(50 1 1000 1 10 0 1)
-                                              ;프롬프트의 사용자 입력 글꼴 크기(a spin-button)
-  SF-COLOR       "Color"         '(0 0 0)     ;프롬프트의 사용자 입력 색상(color variable)
-)
-(script-fu-menu-register "script-fu-text-box" "<Image>/File/Create/Text")
 ```
 
 ***
