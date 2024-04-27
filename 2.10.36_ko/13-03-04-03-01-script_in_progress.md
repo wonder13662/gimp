@@ -5,7 +5,7 @@
 [13-03-04-03-01.zip](https://github.com/wonder13662/gimp/files/15140164/13-03-04-03-01.zip)
 
 ```scheme
-; Text Box 함수 정의
+;Text Box 함수 정의
 (define (script-fu-text-box inText inFont inFontSize inTextColor))
 ```
 

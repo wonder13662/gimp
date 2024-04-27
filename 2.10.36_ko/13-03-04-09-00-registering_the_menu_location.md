@@ -4,7 +4,7 @@
 메뉴의 적절한 위치는 함수에 따라 달라집니다. 대부분의 스크립트는 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `필터`와 `색`에 위치하고 있습니다.
 
 ```scheme
-; 스크립트가 표시될 메뉴 위치를 설정
+;스크립트가 표시될 메뉴 위치를 설정
 (script-fu-menu-register "script-fu-text-box" "<Image>/File/Create/Text")
 ```
 

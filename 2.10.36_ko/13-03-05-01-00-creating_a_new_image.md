@@ -23,8 +23,8 @@
 (define (script-fu-text-box inText inFont inFontSize inTextColor)
   (let*
     (
-      ; 지역 변수를 선언합니다.
-      ; 새로운 이미지를 만듭니다.
+      ;지역 변수를 선언합니다.
+      ;새로운 이미지를 만듭니다.
       (theImageWidth  10)
       (theImageHeight 10)
       (theImage

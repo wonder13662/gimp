@@ -2,7 +2,7 @@
 여백 공간의 크기를 사용자가 설정할 수 있도록 하기 위해서, 매개변수를 텍스트 박스 함수와 등록 함수에 추가하겠습니다. 
 
 ```diff
-; 스크립트를 프로시저 데이터베이스(Procedure Database)에 등록
+;스크립트를 프로시저 데이터베이스(Procedure Database)에 등록
 (script-fu-register
   ...
   SF-COLOR       "Color"         '(0 0 0)     ;프롬프트의 사용자 입력 색상(color variable)
@@ -12,12 +12,12 @@
 
 ...
 
-; Text Box 함수 정의
+;Text Box 함수 정의
 (define (script-fu-text-box inText inFont inFontSize inTextColor)
   (let*
     (
-      ; 지역 변수를 선언합니다.
-      ; 새로운 이미지를 만듭니다.
+      ;지역 변수를 선언합니다.
+      ;새로운 이미지를 만듭니다.
       (theImageWidth  10)
       (theImageHeight 10)
       (theImage (car
