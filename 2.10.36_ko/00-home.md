@@ -894,6 +894,18 @@
 
 [13.3.6. 텍스트 박스 스크립트 확장하기(Extending the text box script)](./13-03-06-00-extending-the-text-box-script.md)
 
+[13.3.6.1. 실행취소 다루기(Handling Undo Correctly)](./13-03-06-01-00-handling_undo_correctly.md)
+
+[13.3.6.1.1. 작업중인 스크립트](./13-03-06-01-01-script_in_progress.md)
+
+[13.3.6.2. 스크립트를 더 확장하기(Extending The Script a Little More)](./13-03-06-02-extending_the_script_a_little_more.md)
+
+[13.3.6.3. 매개변수와 등록 함수 수정하기(Modifying the Parameters and the Regitration Function)](./13-03-06-03-00-modifying_the_parameters_and_the_regitration_function.md)
+
+[13.3.6.3.1. 작업중인 스크립트](./13-03-06-03-01-script_in_progress.md)
+
+[13.3.6.4. 새 코드 추가하기(Adding the New Code)](./13-03-06-04-adding_the_new_code.md)
+
 [13.3.7. 최종 스크립트 결과 확인하기(Your script and its working)](./13-03-07-your-script-and-its-working.md)
 
 [13.4. 스크립트 예제](./13-04-00-script_examples.md)

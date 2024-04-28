@@ -22,6 +22,16 @@
 
 ***
 
+## 관련 정보
+
+[How to write a GIMP plug-in, part I](https://developer.gimp.org/resource/writing-a-plug-in/1/)
+
+[How to write a GIMP plug-in, part II](https://developer.gimp.org/resource/writing-a-plug-in/2/)
+
+[How to write a GIMP plug-in, part III](https://developer.gimp.org/resource/writing-a-plug-in/3/)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 13.1.1. 소개(Introduction)](./13-01-01-introduction.md)
