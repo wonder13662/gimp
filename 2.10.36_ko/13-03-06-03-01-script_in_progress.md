@@ -2,7 +2,7 @@
 지금까지 작업한 스크립트의 내용은 다음과 같습니다.
 
 #### 파일 13.3.6.3.1.a1. 지금까지 작업한 "Text Box" 스크립트
-[13-03-06-03-01.zip](https://github.com/wonder13662/gimp/files/15140207/13-03-06-03-01.zip)
+[13-03-06-03-01.zip](https://github.com/wonder13662/gimp/files/15140865/13-03-06-03-01.zip)
 
 ```scheme
 ;스크립트를 프로시저 데이터베이스(Procedure Database)에 등록
