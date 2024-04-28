@@ -36,6 +36,13 @@
 #### [영상 90.4.3.2.a51. 레이어 그룹에 직접 작업시, 에러 메시지 노출](./90-04-03-02-layer_group.md#90-04-03-02-a51)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/99cbfad6-a162-444c-b4e7-2a0c721952b1"></video>
 
+<a id="90-05-09-a121"></a>
+
+#### 그림 90.5.9.a121. `상태 표시 영역(Status Area)`의 메시지 출력 모습
+![90-05-09-a121](https://github.com/wonder13662/gimp/assets/15767104/0ea14a53-c8c4-4e3a-b03c-fb753a5e0b6b)
+
+[13.3.8. Script-Fu 디버깅하기(Debugging Script-Fu) - 그림 90.5.9.a121](./13-03-08-debugging_script_fu.md#90-05-09-a121)
+
 ***
 
 ## 다른 페이지로 가기

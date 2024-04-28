@@ -167,6 +167,11 @@
 ***
 
 ## 관련 정보
+
+[Basic Scheme](https://www.gimp.org/tutorials/Basic_Scheme/)
+
+[Debugging Script-Fu Plug-ins](https://developer.gimp.org/resource/script-fu/debug-script-fu/)
+
 [Gimp-Forum.net: Scripting Questions](https://www.gimp-forum.net/Forum-Scripting-questions)
 (TODO 정리필요)
 

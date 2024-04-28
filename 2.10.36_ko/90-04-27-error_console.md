@@ -10,6 +10,13 @@
 
 (TODO windows 에러 메시지 노출 이미지로 교체 필요합니다.)
 
+<a id="90-04-27-a11"></a>
+
+#### 그림 90.4.27.a11. 오류 콘솔 대화상자의 메시지 출력 모습
+![90-04-27-a11](https://github.com/wonder13662/gimp/assets/15767104/0832a315-4a10-4414-97ca-57e94f997c52)
+
+[13.3.8. Script-Fu 디버깅하기(Debugging Script-Fu) - 그림 90.4.27.a11](./13-03-08-debugging_script_fu.md#90-04-27-a11)
+
 ***
 
 ## 다른 페이지로 가기
