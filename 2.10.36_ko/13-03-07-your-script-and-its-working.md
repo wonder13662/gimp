@@ -151,7 +151,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.4. 스크립트 예제](./13-04-00-script_examples.md)
+[➡️ 다음: 13.3.8. Script-Fu 디버깅하기(Debugging Script-Fu)](./13-03-08-debugging_script_fu.md)
 
 [⬅️ 이전: 13.3.6.4. 새 코드 추가하기(Adding the New Code)](./13-03-06-04-adding_the_new_code.md)
 
