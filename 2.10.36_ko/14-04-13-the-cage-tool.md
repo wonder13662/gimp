@@ -1,9 +1,9 @@
-# 14.4.13. The cage tool
+# 14.4.13. 케이지 변형(The cage tool)
 
 ### [Home](./00-home.md)
-### [Parent: 14.4. Transform tools](./14-04-00-transform-tools.md)
-### [Prev: 14.4.12. Flip](./14-04-12-flip.md)
-### [Next: 14.4.14. Warp transform](./14-04-14-warp-transform.md)
+### [Parent: 14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)
+### [Prev: 14.4.12. 뒤집기(Flip)](./14-04-12-flip.md)
+### [Next: 14.4.14. 워프 변형(Warp transform)](./14-04-14-warp-transform.md)
 
 ## 관련 정보
 [Graphic Design: Is it possible to uncurl an image of a handwritten book page?](https://graphicdesign.stackexchange.com/questions/136140/is-it-possible-to-uncurl-an-image-of-a-handwritten-book-page)

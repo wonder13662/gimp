@@ -1,6 +1,34 @@
-# 14.1.1. Introduction
+# 14.1.1. 소개(Introduction)
+GIMP(김프)에는 경로를 그리거나 선택영역을 마스킹하는 등의 기본 작업을 빠르게 할 수 있는 편리한 도구상자가 있습니다. 이 장에서는 이 도구상자의 도구들에 대해서 설명합니다.
 
-### [Home](./00-home.md)
-### [Parent: 14.1. The toolbox](./14-01-00-the-toolbox.md)
-### [Prev: 13.3.7. 최종 스크립트 결과 확인하기(Your script and its working)](./13-03-07-your-script-and-its-working.md)
-### [Next: 14.1.2. Tool icons](./14-01-02-tool-icons.md)
+GIMP(김프)에서 "도구(tool)"이라는 용어는 이미지에서 접근해서 동작하는 것을 말합니다. 또는 마우스 포인터를 움직여서 작업하는 것을 의미하기도 합니다. 그리고 사용자의 작업 결과를 즉시 보여주는 것도 포함합니다. 하지만 단순하게 도구는 톱이고, 이미지는 잘라야할 나무조각이라고 생각해도 큰 맥락에서는 맞습니다.
+
+> 🗒️ 참고
+>
+> 도구 상자의 전체적인 모습과 구성요소를 확인하려면 [3.2.1. 기본 도구상자(The toolbox)](./03-02-01-the-toolbox.md)을 참고해주세요.
+
+GIMP(김프)는 여러가지 작업을 수행하는 다양한 도구로 나눌 수 있습니다. 도구는 4개의 카테고리로 나뉩니다.
+
+1. [선택 도구(Selection tools)](./14-02-00-selection-tools.md): 이미지의 일부분을 선택합니다.
+
+2. [칠하기 도구(Paint tools)](./14-03-00-paint-tools.md): 이미지의 일부의 색상을 바꿉니다.
+
+3. [변형 도구(Transform tools)](./14-04-00-transform-tools.md): 이미지의 기하학적인 구조(크기, 각도 등)를 바꿉니다.
+
+4. [그 밖의 도구들(Other)](./14-05-00-other.md): 위 세 카테고리에 해당하지 않는 도구들입니다.
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 14.1.2. 도구 아이콘(Tool icons)](./14-01-02-tool-icons.md)
+
+[⬅️ 이전: 14.1. 도구상자(The toolbox)](./14-01-00-the-toolbox.md)
+
+[⬆️ 위: 14.1. 도구상자(The toolbox)](./14-01-00-the-toolbox.md)
+
+[⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-tools.html#gimp-toolbox-introduction)
