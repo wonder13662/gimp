@@ -1,4 +1,4 @@
-# 14.1.3.1. Color Area
+# 14.1.3.1. 색상 영역(Color Area)
 
 ### [Home](./00-home.md)
 ### [Parent: 14.1. 도구상자(The toolbox)](./14-01-00-the-toolbox.md)

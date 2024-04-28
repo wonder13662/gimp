@@ -1,4 +1,4 @@
-# 14.1.3.2. Tools Indicator Area
+# 14.1.3.2. 도구 표시 영역(Tools Indicator Area)
 
 ### [Home](./00-home.md)
 ### [Parent: 14.1. 도구상자(The toolbox)](./14-01-00-the-toolbox.md)

@@ -38,10 +38,10 @@ GIMP(김프)를 설치하면, 수십 개의 팔레트가 기본적으로 함께 
 ### 4-2. 팔레트 편집기의 색으로 전경색(Foreground color) 바꾸기
 [`팔레트 편집기`](./15-03-06-04-palette_editor.md)의 색상을 클릭하면 도구상자의 전경색을 바꿀 수 있습니다.
 
-<a id="90-03-04-a5"></a>
+<a id="90-03-03-a2"></a>
 
-#### [그림 90.3.4.a5. 도구상자의 '붓/무늬/그라디언트' - `색상(전경색)`](./90-03-04-brush_n_pattern_n_gradient.md#90-03-04-a5)
-![90-03-04-a5](https://github.com/wonder13662/gimp/assets/15767104/f1ae8ae0-2e40-437c-924d-e961c58438b4)
+#### [그림 90.3.3.a2. 도구상자의 '젼경색/배경색' - `색상(전경색)`](./90-03-03-foreground_color_n_background_color.md#90-03-03-a2)
+![90-03-03-a2](https://github.com/wonder13662/gimp/assets/15767104/f1ae8ae0-2e40-437c-924d-e961c58438b4)
 
 <a id="90-04-60-a106"></a>
 
@@ -51,10 +51,10 @@ GIMP(김프)를 설치하면, 수십 개의 팔레트가 기본적으로 함께 
 ### 4-3. 팔레트 편집기의 색으로 배경색(Background color) 바꾸기
 Ctrl(⌘) 키를 누른 채로 [`팔레트 편집기`](./15-03-06-04-palette_editor.md)의 색상을 클릭하면 도구상자의 배경색을 바꿀 수 있습니다.
 
-<a id="90-03-04-a6"></a>
+<a id="90-03-03-a3"></a>
 
-#### [그림 90.3.4.a6. 도구상자의 '붓/무늬/그라디언트' - `색상(배경색)`](./90-03-04-brush_n_pattern_n_gradient.md#90-03-04-a6)
-![90-03-04-a6](https://github.com/wonder13662/gimp/assets/15767104/2fcabec2-7760-4394-b1cd-8d93cb643d2e)
+#### [그림 90.3.3.a3. 도구상자의 '젼경색/배경색' - `색상(배경색)`](./90-03-03-foreground_color_n_background_color.md#90-03-03-a3)
+![90-03-03-a3](https://github.com/wonder13662/gimp/assets/15767104/2fcabec2-7760-4394-b1cd-8d93cb643d2e)
 
 <a id="90-04-60-a107"></a>
 

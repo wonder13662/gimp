@@ -10,6 +10,12 @@
 
 [14.1.3. 색상과 표시기 영역(Color and indicator area)](./14-01-03-00-color-and-indicator-area.md)
 
+[14.1.3.1. 색상 영역(Color Area)](./14-01-03-01-color_area.md)
+
+[14.1.3.2. 도구 표시 영역(Tools Indicator Area)](./14-01-03-02-tools_indicator_area.md)
+
+[14.1.3.3. 활성화 이미지 영역(Active Image Area)](./14-01-03-03-active_image_area.md)
+
 [14.1.4. 도구 옵션(Tool options)](./14-01-04-00-tool-options.md)
 
 ***

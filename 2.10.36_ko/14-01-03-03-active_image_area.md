@@ -1,4 +1,4 @@
-# 14.1.3.3. Active Image Area
+# 14.1.3.3. 활성화 이미지 영역(Active Image Area)
 
 ### [Home](./00-home.md)
 ### [Parent: 14.1. 도구상자(The toolbox)](./14-01-00-the-toolbox.md)
