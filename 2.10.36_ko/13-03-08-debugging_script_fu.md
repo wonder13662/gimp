@@ -10,8 +10,14 @@ Script-Fu API 함수인 `gimp-message`을 이용한 디버깅 방법을 소개�
 
 ```scheme
 ; 전역변수를 선언합니다.
+; 여기서 debug의 값은 true(#t)입니다. 
+; 값을 false(#f)로 바꿀수 있습니다.
 (define debug #t)
 ```
+
+> 🗒️ 참고
+>
+> `Scheme`에서 `True`, `False`의 `Boolean` 값은 각각 `#t`, `#f`로 나타냅니다. [관련 정보: 1.2.5 True and False](https://www.gnu.org/software/mit-scheme/documentation/stable/mit-scheme-ref/True-and-False.html)
 
 스크립트에서 위 코드처럼 전역변수를 정의하고, "if true" 표현식을 사용하여 메시지 출력 여부를 제어할 수 있습니다.
 
@@ -76,7 +82,7 @@ Script-Fu API 함수인 `gimp-message`을 이용한 디버깅 방법을 소개�
 아래 스크립트를 추가한 뒤에, [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `필터` → `Script-Fu` → `스크립트 새로고침` 메뉴를 클릭해서 스크립트를 읽어들입니다. [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `Fu-Plugin` → `디버깅 예제` 메뉴를 선택하여, 아래 스크립트를 실행할 수 있습니다.
 
 #### 파일 13.3.8.a1. debug.scm
-[debug.scm.zip](https://github.com/wonder13662/gimp/files/15141153/debug.scm.zip)
+[debug.scm.zip](https://github.com/wonder13662/gimp/files/15142046/debug.scm.zip)
 
 ```scheme
 (define (script-fu-debug-examples)
@@ -192,12 +198,18 @@ Script-Fu API 함수인 `gimp-message`을 이용한 디버깅 방법을 소개�
 )
 
 
+; 전역변수 및 전역함수를 선언합니다.
 ; debug and error macro
 (define (err msg)(gimp-message(string-append " >>> " msg " <<<"))(quit))
 (define (here x)(gimp-message(string-append " >>> " (number->string x) " <<<")))
-(define debug #t) ; print all debug information
-(define info #t)  ; print information
-(define falseFlag  #f) ; example of error message
+; 메시지 표시 등급: debug는 모든 메시지를 표시합니다.
+; debug의 값은 true(#t)입니다. 
+; 값을 false(#f)로 바꿀수 있습니다.
+(define debug #t)
+; 메시지 표시 등급: info는 정보만을 표시합니다.
+(define info #t)
+; 에러 메시지 예제
+(define falseFlag  #f)
 
 (script-fu-register "script-fu-debug-examples"
  "디버깅 예제"

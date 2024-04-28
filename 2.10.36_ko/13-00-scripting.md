@@ -172,6 +172,8 @@
 
 [Basic Scheme](https://www.gimp.org/tutorials/Basic_Scheme/)
 
+[MIT Scheme Documentation](https://www.gnu.org/software/mit-scheme/documentation/stable/mit-scheme-ref/Overview.html)
+
 [Debugging Script-Fu Plug-ins](https://developer.gimp.org/resource/script-fu/debug-script-fu/)
 
 [Gimp-Forum.net: Scripting Questions](https://www.gimp-forum.net/Forum-Scripting-questions)
