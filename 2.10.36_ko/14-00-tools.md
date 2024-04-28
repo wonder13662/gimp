@@ -1,4 +1,4 @@
-# 14. Tools
+# 14. 도구(Tools)
 
 ## [14.1. The toolbox](./14-01-00-the-toolbox.md)
 ## [14.1.1. Introduction](./14-01-01-introduction.md)

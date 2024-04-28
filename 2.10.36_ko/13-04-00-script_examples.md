@@ -33,7 +33,7 @@
 ## 다른 페이지로 가기
 [➡️ 다음: 13.4.1. 3D Outlines](./13-04-01-3d_outline.md)
 
-[⬅️ 이전: 13.3.7. 최종 스크립트 결과 확인하기(Your script and its working)](./13-03-07-your-script-and-its-working.md)
+[⬅️ 이전: 13.3.8. Script-Fu 디버깅하기(Debugging Script-Fu)](./13-03-08-debugging_script_fu.md)
 
 [⬆️ 위: 13. 스크립팅](./13-00-scripting.md)
 

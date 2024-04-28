@@ -216,7 +216,7 @@ Script-Fu API 함수인 `gimp-message`을 이용한 디버깅 방법을 소개�
 
 [➡️ 다음: 13.4. 스크립트 예제](./13-04-00-script_examples.md)
 
-[⬅️ 이전: 13.3.6.4. 새 코드 추가하기(Adding the New Code)](./13-03-06-04-adding_the_new_code.md)
+[⬅️ 이전: 13.3.7. 최종 스크립트 결과 확인하기(Your script and its working)](./13-03-07-your-script-and-its-working.md)
 
 [⬆️ 위: 13.3. Script-Fu 튜토리얼(A Script-Fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
 
