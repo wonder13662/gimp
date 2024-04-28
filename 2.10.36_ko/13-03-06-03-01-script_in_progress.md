@@ -51,7 +51,7 @@
 (script-fu-menu-register "script-fu-text-box" "<Image>/File/Create/Text")
 
 ;Text Box 함수 정의
-(define (script-fu-text-box inText inFont inFontSize inTextColor)
+(define (script-fu-text-box inText inFont inFontSize inTextColor inBufferAmount)
   (let*
     (
       ;지역 변수를 선언합니다.

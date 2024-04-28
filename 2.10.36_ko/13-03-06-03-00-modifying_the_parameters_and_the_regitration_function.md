@@ -13,7 +13,8 @@
 ...
 
 ;Text Box 함수 정의
-(define (script-fu-text-box inText inFont inFontSize inTextColor)
+- (define (script-fu-text-box inText inFont inFontSize inTextColor)
++ (define (script-fu-text-box inText inFont inFontSize inBufferAmount)
   (let*
     (
       ;지역 변수를 선언합니다.
@@ -70,3 +71,5 @@
 [⬆️ 위: 13. 스크립팅(Scripting)](./13-00-scripting.md)
 
 [🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-using-script-fu-tutorial-extending-text-box.html#idm10248)
