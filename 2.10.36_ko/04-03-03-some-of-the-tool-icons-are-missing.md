@@ -74,6 +74,14 @@
 
 ***
 
+## 관련 정보
+
+[관련 정보: 12.1.13.2. 도구 설정(Tools Configuration)](./12-01-13-02-tools_configuration.md)
+
+[관련 정보: 14.1.2. 도구 아이콘(Tool icons) - 2. 도구 그룹에서 표시되지 않은 도구들 보여주기](./14-01-02-tool-icons.md#14-01-02-s2)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 4.3.4. 이미지 창의 위쪽의 탭 바의 미리보기가 사라졌습니다](./04-03-04-the-area-showing-the-opened-images-at-the-top-is-missing.md)
