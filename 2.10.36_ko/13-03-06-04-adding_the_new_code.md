@@ -59,7 +59,8 @@
 
 축하합니다! 드디어 TextBox 스크립트를 완성했습니다!
 
-(TODO 예시영상 추가하기)
+#### 영상 13.3.6.4.a1. 최종 스크립트 확인하기
+<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/e907c457-27b4-472c-ae59-f3432f00c4b4"></video>
 
 ***
 
