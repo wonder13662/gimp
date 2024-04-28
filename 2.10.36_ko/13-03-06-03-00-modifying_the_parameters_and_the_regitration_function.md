@@ -1,5 +1,5 @@
 # 13.3.6.3. 매개변수와 등록 함수 수정하기(Modifying the Parameters and the Regitration Function)
-여백 공간의 크기를 사용자가 설정할 수 있도록 하기 위해서, 매개변수를 텍스트 박스 함수와 등록 함수에 추가하겠습니다. 
+여백 공간의 크기를 사용자가 설정할 수 있도록 하기 위해서, 매개변수를 텍스트 박스 함수와 등록 함수에 추가하겠습니다. 참고로 아래 코드에서 녹색으로 표시된 부분은 추가된 코드이며, 빨간색으로 표시된 부분은 삭제된 코드입니다.
 
 ```diff
 ;스크립트를 프로시저 데이터베이스(Procedure Database)에 등록
@@ -14,7 +14,7 @@
 
 ;Text Box 함수 정의
 - (define (script-fu-text-box inText inFont inFontSize inTextColor)
-+ (define (script-fu-text-box inText inFont inFontSize inBufferAmount)
++ (define (script-fu-text-box inText inFont inFontSize inTextColor inBufferAmount)
   (let*
     (
       ;지역 변수를 선언합니다.
