@@ -241,13 +241,16 @@
 [![그림 90.3.2.39.a2. 도구상자 - '확대/축소'](https://github.com/wonder13662/gimp/assets/15767104/d7a5302f-b3f2-48b3-88b7-067689321102)](./90-03-02-39-zoom.md)
 
 ### [90.3.3. 전경색/배경색(Foreground/Background color)](./90-03-03-foreground_color_n_background_color.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.3.3.a1. 도구상자의 '전경색/배경색'
+![90-03-03-a1](https://github.com/wonder13662/gimp/assets/15767104/5c0772d5-07d5-404f-bb30-836be3943703)
 
 ### [90.3.4. 붓(Brush)/무늬(Pattern)/그라디언트(Gradient)](./90-03-04-brush_n_pattern_n_gradient.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.3.4.a1. 도구상자의 '붓/무늬/그라디언트'
+![90-03-04-brush_pattern_gradient(windows)(ko)-focus-brush_pattern_gradient](https://github.com/wonder13662/gimp/assets/15767104/43215714-8479-4a14-8f54-3daffdb5fcda)
 
 ### [90.3.5. 활성화된 이미지(Active Image)](./90-03-05-active_image.md)
-(TODO 이미지 추가 필요)
+#### 그림 90.3.5.a1. 도구상자의 '활성화된 이미지'
+![90-03-04-brush_pattern_gradient(windows)(ko)-focus-active_image](https://github.com/wonder13662/gimp/assets/15767104/4c133414-8d70-422d-86ab-fdda83f0eaa8)
 
 (TODO 도구상자의 이미지가 수정되어야 합니다. 전경/배경색, 붓/무늬/그라디언트, 활성화 이미지가 함께 노출되어야 합니다.)
 

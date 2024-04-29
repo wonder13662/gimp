@@ -1,7 +1,9 @@
 # 90.3.5. 활성화된 이미지(Active Image)
 
+<a id="90-03-05-a1"></a>
+
 #### 그림 90.3.5.a1. 도구상자의 '활성화된 이미지'
-(TODO 이미지 추가 필요)
+![90-03-04-brush_pattern_gradient(windows)(ko)-focus-active_image](https://github.com/wonder13662/gimp/assets/15767104/4c133414-8d70-422d-86ab-fdda83f0eaa8)
 
 <a id="90-03-05-a2"></a>
 

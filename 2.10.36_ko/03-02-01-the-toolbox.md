@@ -63,9 +63,9 @@
 ## 3. 전경색/배경색(Foreground/Background color)
 GIMP의 현재 전경색과 배경색이 표시됩니다. 각 부분을 클릭하면 색상 선택 대화 상자가 나타나고 그곳에서 다른 색상으로 변경할 수 있습니다. 그리고 양방향 화살표를 클릭하면 두 색상을 맞바꿀 수 있으며, 왼쪽 하단의 조그만 심볼을 클릭하면 기본값인 검정색과 흰색으로 초기화할 수 있습니다.
 
-<a id="90-03-03-a2"></a>
+<a id="90-03-03-a11"></a>
 
-#### [그림 90.3.3.a2. 도구상자의 '젼경색/배경색'](./90-03-03-foreground_color_n_background_color.md#90-03-03-a2)
+#### [그림 90.3.3.a11. 도구상자의 '전경색/배경색'](./90-03-03-foreground_color_n_background_color.md#90-03-03-a11)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8c499d07-443e-4a2e-bf27-4e3ec708cb6b"></video>
 
 <a id="03-02-01-s4"></a>
