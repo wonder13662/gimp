@@ -49,9 +49,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.108. 도구 프리셋 편집기(Tool Preset Editor)](./90-04-108-tool_preset_editor.md)
 
-[⬅️ 이전: 90.4.105. Script-Fu 폴더 선택(Script-Fu Folder Selection)](./90-04-107-script_fu_folder_selection.md)
+[⬅️ 이전: 90.4.106. 변화 저장하기(Save the changes)](./90-04-106-save_the_change.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

@@ -80,6 +80,8 @@
 #### [영상 90.3.3.a6. 도구상자의 '전경색/배경색' - 전경색과 배경색으로 레이어 채우기](./90-03-03-foreground_color_n_background_color.md#90-03-03-a6)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fceb9e53-c2b5-4704-bf9b-b11c910472ec"></video>
 
+⚠️ 주의: 실제로는 레이어 채우기를 위해 클릭, 드래그를 할 경우, Windows 환경에서는 문제가 있습니다. 간헐적으로 채우기가 실패하는 경우가 있습니다. 위 영상에서도 그런 모습을 확인할 수 있습니다. 반면, Mac OSX에서는 문제없이 동작합니다.
+
 ***
 
 ## 관련 정보

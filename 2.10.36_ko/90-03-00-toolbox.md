@@ -73,6 +73,31 @@
 
 [3.2.1. 기본 도구상자(The toolbox) - 영상 90.3.a142](./03-02-01-the-toolbox.md#90-03-a142)
 
+<a id="90-03-a151"></a>
+
+#### 그림 90.3.a151. 도구 옵션 아래쪽의 버튼들
+![90-03-a151](https://github.com/wonder13662/gimp/assets/15767104/bd39b5a2-88e7-4e34-bd62-fbe4035e3b31)
+
+<a id="90-03-a151-01"></a>
+
+#### 그림 90.3.a151.1. 도구 옵션 아래쪽의 버튼들 - 도구 프리셋 저장
+![90-03-a151-01](https://github.com/wonder13662/gimp/assets/15767104/89b0739c-1f47-4216-b7a5-681b0c4cfc17)
+
+<a id="90-03-a151-02"></a>
+
+#### 그림 90.3.a151.2. 도구 옵션 아래쪽의 버튼들 - 도구 프리셋 되돌리기
+![90-03-a151-02](https://github.com/wonder13662/gimp/assets/15767104/a617ca0d-0ef8-43bf-be31-514955b7e601)
+
+<a id="90-03-a151-03"></a>
+
+#### 그림 90.3.a151.3. 도구 옵션 아래쪽의 버튼들 - 도구 프리셋 삭제
+![90-03-a151-03](https://github.com/wonder13662/gimp/assets/15767104/2a37ecab-dcf3-4ce3-8f63-6ceb86bd0df1)
+
+<a id="90-03-a151-04"></a>
+
+#### 그림 90.3.a151.4. 도구 옵션 아래쪽의 버튼들 - 기본값으로 초기화
+![90-03-a151-04](https://github.com/wonder13662/gimp/assets/15767104/81f39901-6d0f-47b4-9b4b-48b384243ba0)
+
 ***
 
 ## 하위 페이지
@@ -251,8 +276,6 @@
 ### [90.3.5. 활성화된 이미지(Active Image)](./90-03-05-active_image.md)
 #### 그림 90.3.5.a1. 도구상자의 '활성화된 이미지'
 ![90-03-04-brush_pattern_gradient(windows)(ko)-focus-active_image](https://github.com/wonder13662/gimp/assets/15767104/4c133414-8d70-422d-86ab-fdda83f0eaa8)
-
-(TODO 도구상자의 이미지가 수정되어야 합니다. 전경/배경색, 붓/무늬/그라디언트, 활성화 이미지가 함께 노출되어야 합니다.)
 
 ***
 

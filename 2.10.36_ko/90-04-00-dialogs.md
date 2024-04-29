@@ -508,6 +508,14 @@
 #### 그림 90.4.106.a101. `변화 저장하기` 대화상자 (Windows) (우리말)
 ![90-04-105-a101](https://github.com/wonder13662/gimp/assets/15767104/35aaa961-74eb-40c4-9b76-ba2c5b756437)
 
+### [90.4.107. 색 바꾸기(Change Color)](./90-04-107-change_color.md)
+#### 그림 90.4.107.a101. `색 바꾸기` 대화상자 - 전경색 (Windows) (우리말)
+![90-04-107-a101](https://github.com/wonder13662/gimp/assets/15767104/4f72c392-dc3c-4e07-86de-4a3191b9a1d5)
+
+### [90.4.108. 도구 프리셋 편집기(Tool Preset Editor)](./90-04-108-tool_preset_editor.md)
+#### 그림 90.4.108.a101. `도구 프리셋 편집기` 대화상자 (Windows) (우리말)
+![90-04-108-a101](https://github.com/wonder13662/gimp/assets/15767104/4d9c9ef8-18ca-4b9c-bd95-049f05fc1b0f)
+
 ***
 
 ## 공통 기능
