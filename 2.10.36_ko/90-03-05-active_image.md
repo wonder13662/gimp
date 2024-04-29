@@ -3,7 +3,9 @@
 <a id="90-03-05-a1"></a>
 
 #### 그림 90.3.5.a1. 도구상자의 '활성화된 이미지'
-![90-03-04-brush_pattern_gradient(windows)(ko)-focus-active_image](https://github.com/wonder13662/gimp/assets/15767104/4c133414-8d70-422d-86ab-fdda83f0eaa8)
+![90-03-05-a1](https://github.com/wonder13662/gimp/assets/15767104/4c133414-8d70-422d-86ab-fdda83f0eaa8)
+
+[14.1.3.3. 활성화 이미지 영역(Active Image Area) - 그림 90.3.5.a1](./14-01-03-03-active_image_area.md#90-03-05-a1)
 
 <a id="90-03-05-a2"></a>
 
