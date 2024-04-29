@@ -1,9 +1,10 @@
 # 14.1.4.5. 도구 프리셋 수정(Edit Tool Preset)
+도구 옵션의 하위 메뉴인 `도구 프리셋 수정(Edit Tool Preset)` 메뉴는 수정가능한 사용중인 도구의 프리셋의 목록을 보여줍니다. 목록의 프리셋을 선택하면 [15.5.1. 도구 프리셋 대화상자](./15-05-01-tool-preset-dialog.md)가 선택한 프리셋의 내용으로 열립니다. 프리셋이 GIMP(김프)의 기본 프리셋이 아니라면, 이 대화상자에서 편집이 가능합니다.
 
-### [Home](./00-home.md)
-### [Parent: 14.1. 도구상자(The toolbox)](./14-01-00-the-toolbox.md)
-### [Prev: 14.1.3. 색상과 표시기 영역(Color and indicator area)](./14-01-03-00-color-and-indicator-area.md)
-### [Next: 14.2.1. 일반적인 특징(Common features)](./14-02-01-common-features.md)
+<a id="90-04-01-a161"></a>
+
+#### [영상 90.4.1.a161. `도구 옵션 메뉴` → `도구 프리셋 편집`](./90-04-01-00-tool_options.md#90-04-01-a161)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/75c33015-4bf8-48c3-9485-84bfa2d213e3"></video>
 
 ***
 

@@ -62,6 +62,13 @@
 
 [14.1.4.4. 기본값으로 초기화(Reset to default values) - 그림 90.4.1.a151.4](./14-01-04-04-reset_to_default_values.md#90-04-01-a151-04)
 
+<a id="90-04-01-a161"></a>
+
+#### 영상 90.4.1.a161. `도구 옵션 메뉴` → `도구 프리셋 편집`
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/75c33015-4bf8-48c3-9485-84bfa2d213e3"></video>
+
+[14.1.4.5. 도구 프리셋 수정(Edit Tool Preset) - 영상 90.4.1.a161](./14-01-04-05-edit_tool_preset.md)
+
 ***
 
 ## 하위 페이지
