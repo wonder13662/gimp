@@ -18,6 +18,20 @@
 
 [14.1.4. 도구 옵션(Tool options)](./14-01-04-00-tool-options.md)
 
+[14.1.4.1. 도구 프리셋 저장...(Save Tool Preset...)](./14-01-04-01-save_tool_preset.md)
+
+[14.1.4.2. 도구 프리셋 되돌리기...(Restore Tool Preset...)](./14-01-04-02-restore_tool_preset.md)
+
+[14.1.4.3. 도구 프리셋 삭제(Delete Tool Preset)](./14-01-04-03-delete_tool_preset.md)
+
+[14.1.4.4. 기본값으로 초기화(Reset to default values)](./14-01-04-04-reset_to_default_values.md)
+
+[14.1.4.5. 도구 프리셋 수정(Edit Tool Preset)](./14-01-04-05-edit_tool_preset.md)
+
+[14.1.4.6. 새로운 슬라이더(New sliders)](./14-01-04-06-new_sliders.md)
+
+[14.1.4.7. 캔버스 위에서의 마우스 스크롤 휠 동작(Mouse Scroll-Wheel actions on canvas)](./14-01-04-07-mouse_scroll_wheel_actions_on_canvas.md)
+
 ***
 
 ## 다른 페이지로 가기
