@@ -879,7 +879,7 @@ module.exports = {
         '14.2. 선택 도구(Selection tools)'
       ],
       [
-        '14-02-01-common-features.md', 
+        '14-02-01-00-common-features.md', 
         '14.2.1. 일반적인 특징(Common features)'
       ],
       [

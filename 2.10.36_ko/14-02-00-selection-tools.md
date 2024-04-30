@@ -16,7 +16,7 @@
 
 ## 하위 페이지
 
-[14.2.1. 일반적인 특징(Common features)](./14-02-01-common-features.md)
+[14.2.1. 일반적인 특징(Common features)](./14-02-01-00-common-features.md)
 
 [14.2.2. 사각 선택 도구(Rectangle selection)](./14-02-02-rectangle-selection.md)
 
@@ -42,11 +42,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.2.1. 일반적인 특징(Common features)](./14-02-01-common-features.md)
+[➡️ 다음: 14.2.1. 일반적인 특징(Common features)](./14-02-01-00-common-features.md)
 
 [⬅️ 이전: 14.1.4.7. 캔버스 위에서의 마우스 스크롤 휠 동작(Mouse Scroll-Wheel actions on canvas)](./14-01-04-07-mouse_scroll_wheel_actions_on_canvas.md)
-
-[⬆️ 위: 14.1. 도구상자(The toolbox)](./14-01-00-the-toolbox.md)
 
 [⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)
 
