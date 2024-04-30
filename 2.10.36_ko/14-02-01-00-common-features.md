@@ -19,7 +19,7 @@ GIMP(김프)에서의 "선택"에 대해서 알고 싶다면, [7.1. 선택](./07
 
 ## 하위 페이지
 
-[14.2.1.1. 키 변형자(Key modifiers)](./14-02-01-01-key_modifiers.md)
+[14.2.1.1. 동작 변경키(Key modifiers)](./14-02-01-01-key_modifiers.md)
 
 [14.2.1.2. 옵션(Options)](./14-02-01-02-options.md)
 
@@ -33,7 +33,7 @@ GIMP(김프)에서의 "선택"에 대해서 알고 싶다면, [7.1. 선택](./07
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.2.1.1. 키 변형자(Key modifiers)](./14-02-01-01-key_modifiers.md)
+[➡️ 다음: 14.2.1.1. 동작 변경키(Key modifiers)](./14-02-01-01-key_modifiers.md)
 
 [⬅️ 이전: 14.2. 선택 도구(Selection tools)](./14-02-00-selection-tools.md)
 

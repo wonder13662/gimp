@@ -38,7 +38,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.2.2.2. 키 변형자(Key modifiers)](./14-02-02-02-key_modifiers.md)
+[➡️ 다음: 14.2.2.2. 동작 변경키(Key modifiers)](./14-02-02-02-key_modifiers.md)
 
 [⬅️ 이전: 14.2.2. 사각 선택 도구(Rectangle selection)](./14-02-02-00-rectangle-selection.md)
 
