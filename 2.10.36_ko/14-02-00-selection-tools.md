@@ -2,7 +2,7 @@
 
 <a id="90-01-08-01-a1"></a>
 
-#### [그림 90.1.8.1.a1. 도구 - 선택도구 (Windows)](./90-01-08-01-00-selection_tools.md#90-01-08-01-a1)
+#### [그림 90.1.8.1.a1. 도구 → 선택도구 (Windows)](./90-01-08-01-00-selection_tools.md#90-01-08-01-a1)
 ![90-01-08-01-a1](https://github.com/wonder13662/gimp/assets/15767104/a85ef310-890f-4a63-ba43-6195e03c36bc)
 
 [다른 운영체제와 언어의 'Show GIMP logo(drag-and-drop target)' 확인하기](./90-01-08-01-00-selection_tools.md#90-01-08-01-a2)

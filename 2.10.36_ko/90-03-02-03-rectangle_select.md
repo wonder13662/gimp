@@ -18,6 +18,15 @@
 
 [14.2.2. 사각 선택 도구(Rectangle selection) - 그림 90.3.2.3.a2](./14-02-02-00-rectangle-selection.md#90-03-02-03-a2)
 
+[14.2.2.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.3.a2](./14-02-02-01-activating_the_tool.md#90-03-02-03-a2)
+
+<a id="90-03-02-03-a3"></a>
+
+#### 영상 90.3.2.3.a3. 도구상자 - 사각 선택
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/824415d7-241b-404c-90d9-446ecaab965d"></video>
+
+[14.2.2.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.3.a3](./14-02-02-01-activating_the_tool.md#90-03-02-03-a3)
+
 <a id="90-03-02-03-a101"></a>
 
 #### 그림 90.3.2.3.a101. 선택(selection)은 점선으로 표시됩니다
