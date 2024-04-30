@@ -7,12 +7,16 @@
 
 [90.4.1.3. 사각 선택(Rectangle Select) - 그림 90.3.2.3.a1](./90-04-01-03-rectangle_select.md#90-03-02-03-a1)
 
+[14.2.2. 사각 선택 도구(Rectangle selection) - 그림 90.3.2.3.a1](./14-02-02-00-rectangle-selection.md#90-03-02-03-a1)
+
 <a id="90-03-02-03-a2"></a>
 
 #### 그림 90.3.2.3.a2. 도구상자 - 사각 선택
 ![90-03-02-03-a2](https://github.com/wonder13662/gimp/assets/15767104/c5be9f26-28a5-4b98-92c3-4ae57a29580e)
 
 [90.3. 도구상자(Toolbox) - 그림 90.3.2.3.a2](./90-03-00-toolbox.md#90-03-02-03-a2)
+
+[14.2.2. 사각 선택 도구(Rectangle selection) - 그림 90.3.2.3.a2](./14-02-02-00-rectangle-selection.md#90-03-02-03-a2)
 
 <a id="90-03-02-03-a101"></a>
 

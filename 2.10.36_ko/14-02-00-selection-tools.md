@@ -18,7 +18,19 @@
 
 [14.2.1. 일반적인 특징(Common features)](./14-02-01-00-common-features.md)
 
-[14.2.2. 사각 선택 도구(Rectangle selection)](./14-02-02-rectangle-selection.md)
+[14.2.1.1. 키 변형자(Key modifiers)](./14-02-01-01-key_modifiers.md)
+
+[14.2.1.2. 옵션(Options)](./14-02-01-02-options.md)
+
+[14.2.2. 사각 선택 도구(Rectangle selection)](./14-02-02-00-rectangle-selection.md)
+
+[14.2.2.1. 도구 활성화하기(Activating the tools)](./14-02-02-01-activating_the_tool.md)
+
+[14.2.2.2. 키 변형자(Key modifiers)](./14-02-02-02-key_modifiers.md)
+
+[14.2.2.3. 도구 조작(Tool manipulation)](./14-02-02-03-tool_manipulation.md)
+
+[14.2.2.4. 도구 옵션(Tool Options)](./14-02-02-04-tool_options.md)
 
 [14.2.3. 타원 선택 도구(Ellipse selection)](./14-02-03-ellipse-selection.md)
 

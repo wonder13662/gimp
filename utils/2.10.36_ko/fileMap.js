@@ -883,7 +883,7 @@ module.exports = {
         '14.2.1. 일반적인 특징(Common features)'
       ],
       [
-        '14-02-02-rectangle-selection.md', 
+        '14-02-02-00-rectangle-selection.md', 
         '14.2.2. 사각 선택 도구(Rectangle selection)'
       ],
       [

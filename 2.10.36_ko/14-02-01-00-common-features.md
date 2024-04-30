@@ -7,7 +7,7 @@ GIMP(김프)에서의 "선택"에 대해서 알고 싶다면, [7.1. 선택](./07
 
 ## 여섯가지 선택 도구들
 
-1. [14.2.2. 사각 선택 도구(Rectangle selection)](./14-02-02-rectangle-selection.md)
+1. [14.2.2. 사각 선택 도구(Rectangle selection)](./14-02-02-00-rectangle-selection.md)
 2. [14.2.3. 타원 선택 도구(Ellipse selection)](./14-02-03-ellipse-selection.md)
 3. [14.2.4. 자유 선택 도구(올가미) - Free selection (lasso)](./14-02-04-free-selection-lasso.md)
 4. [14.2.5. 퍼지 선택 (마법 지팡이) - Fuzzy selection (magic wand)](./14-02-05-fuzzy-selection-magic-wand.md)
@@ -22,6 +22,12 @@ GIMP(김프)에서의 "선택"에 대해서 알고 싶다면, [7.1. 선택](./07
 [14.2.1.1. 키 변형자(Key modifiers)](./14-02-01-01-key_modifiers.md)
 
 [14.2.1.2. 옵션(Options)](./14-02-01-02-options.md)
+
+***
+
+## 관련 정보
+
+[14.2.2. 사각 선택 도구(Rectangle selection)](./14-02-02-00-rectangle-selection.md)
 
 ***
 

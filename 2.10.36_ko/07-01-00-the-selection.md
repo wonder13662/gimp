@@ -43,6 +43,12 @@
 
 ***
 
+## 관련 정보
+
+[14.2.2. 사각 선택 도구(Rectangle selection)](./14-02-02-00-rectangle-selection.md)
+
+***
+
 ## 다른 페이지로 가기
 [➡️ 다음: 7.1.1. 페더링](./07-01-01-feathering.md)
 
