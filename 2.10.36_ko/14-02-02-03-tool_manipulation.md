@@ -25,9 +25,9 @@
 
 <a id="14-02-02-03-s3"></a>
 
-## 3. 민감한 선택 영역(Sensitive selection areas) 위의 마우스 포인터의 변화
+## 3. 선택 영역 위의 마우스 포인터의 변화
 
-#### 그림 14.2.2.3.a111. 민감한 선택 영역 위의 마우스 포인터들
+#### 그림 14.2.2.3.a111. 선택 영역 위의 마우스 포인터들
 ![14-02-02-03-a111](https://github.com/wonder13662/gimp/assets/15767104/fd41ee4d-d9c4-4d8f-aae7-2497738a040d)
 
 선택 영역의 주변에 마우스 포인터가 올라가면, 위 그림처럼 위치에 따라 다양한 모양으로 바뀝니다. 마우스 포인터가 선택 영역의 네 귀퉁이와 모서리에 올라가면 선택 영역의 핸들이 보여집니다. 이 핸들로 선택 영역의 크기를 조정할 수 있습니다.
@@ -93,12 +93,22 @@
 #### [영상 90.3.2.3.a121. 선택 `핸들 모드`로 키보드로 1픽셀씩 이동 (Windows)](./90-03-02-03-rectangle_select.md#90-03-02-03-a121)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/90dc823b-7564-44a3-93d8-64485e706c73"></video>
 
-<a id="90-03-02-03-a123"></a>
+<a id="90-03-02-03-a125"></a>
+
+#### [영상 90.3.2.3.a125. 선택 `핸들 모드`로 키보드로 1픽셀씩 크기 바꿈 (Windows)](./90-03-02-03-rectangle_select.md#90-03-02-03-a125)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9d48e2c8-c9d7-4faa-bcf1-c2d8978a7d65"></video>
 
 화살표키 + Shift(⇧)를 누르면 이동값은 25픽셀입니다.
 
+<a id="90-03-02-03-a123"></a>
+
 #### [영상 90.3.2.3.a123. 선택 `핸들 모드`로 키보드로 25픽셀씩 이동 (Windows)](./90-03-02-03-rectangle_select.md#90-03-02-03-a123)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9aa7785b-b9cc-49ba-822f-c5df04fa2a43"></video>
+
+<a id="90-03-02-03-a127"></a>
+
+#### [영상 90.3.2.3.a127. 선택 `핸들 모드`로 키보드로 25픽셀씩 크기 바꿈 (Windows)](./90-03-02-03-rectangle_select.md#90-03-02-03-a127)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/42a2469d-1b1c-4085-a4e8-0fe082c4bddc"></video>
 
 <a id="14-02-02-03-s6"></a>
 
