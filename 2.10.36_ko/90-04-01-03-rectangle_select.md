@@ -7,7 +7,7 @@
 
 <a id="90-04-01-03-a101"></a>
 
-#### 그림 90.4.1.3.a101. 도구상자의 사각 선택의 도구옵션 - 가장자리 페더 (windows) (우리말)
+#### 그림 90.4.1.3.a101. `도구 옵션` → `사각 선택` → `가장자리 페더 `(windows) (우리말)
 ![90-03-03-rectangle_select-feather_edges-focus](https://github.com/wonder13662/gimp/assets/15767104/1a24855f-3c21-42de-8d18-9b7630121395)
 
 [7.1.1. 페더링(Feathering) - 그림 90.4.1.3.a101](./07-01-01-feathering.md#90-04-01-03-a101)
@@ -16,14 +16,14 @@
 
 <a id="90-04-01-03-a110"></a>
 
-#### 그림 90.4.1.3.a110. 도구상자의 사각 선택의 도구옵션 - 모드
+#### 그림 90.4.1.3.a110. `도구 옵션` → `사각 선택` → `모드`
 ![90-03-03-rectangle_select(1080w)-focus-mode](https://github.com/wonder13662/gimp/assets/15767104/f62273c3-142b-40bf-9256-d2e9856aaca4)
 
 [14.2.1.2. 옵션(Options) - 그림 90.4.1.3.a110](./14-02-01-02-options.md#90-04-01-03-a110)
 
 <a id="90-04-01-03-a111"></a>
 
-#### 그림 90.4.1.3.a111. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택 바꾸기(Replace) 
+#### 그림 90.4.1.3.a111. `도구 옵션` → `사각 선택` → `모드`:현재 선택 바꾸기(Replace)
 ![90-04-01-03-mode-replace(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/522ef08a-7878-4a19-a5e4-26e8f3572831)
 
 [7.2.2. 선택 더하기/빼기 - 그림 90.4.1.3.a111](./07-02-02-adding-or-subtracting-selections.md#90-04-01-03-a111)
@@ -32,7 +32,7 @@
 
 <a id="90-04-01-03-a112"></a>
 
-#### 그림 90.4.1.3.a112. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택에 더하기(Add) 
+#### 그림 90.4.1.3.a112. `도구 옵션` → `사각 선택` → `모드`:현재 선택에 더하기(Add)
 ![90-04-01-03-a112](https://github.com/wonder13662/gimp/assets/15767104/54d29b7a-1ee2-45dd-806e-13a43d7a14e8)
 
 [7.2.2. 선택 더하기/빼기 - 그림 90.4.1.3.a112](./07-02-02-adding-or-subtracting-selections.md#90-04-01-03-a112)
@@ -41,7 +41,7 @@
 
 <a id="90-04-01-03-a113"></a>
 
-#### 그림 90.4.1.3.a113. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택에 빼기(Subtract)
+#### 그림 90.4.1.3.a113. `도구 옵션` → `사각 선택` → `모드`:현재 선택에 빼기(Subtract)
 ![90-04-01-03-a113](https://github.com/wonder13662/gimp/assets/15767104/e5f77996-607d-41c0-8c0e-ca66a0b106cf)
 
 [7.2.2. 선택 더하기/빼기 - 그림 90.4.1.3.a113](./07-02-02-adding-or-subtracting-selections.md#90-04-01-03-a113)
@@ -50,7 +50,7 @@
 
 <a id="90-04-01-03-a114"></a>
 
-#### 그림 90.4.1.3.a114. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택과 교차하기(Intersect) 
+#### 그림 90.4.1.3.a114. `도구 옵션` → `사각 선택` → `모드`:현재 선택과 교차하기(Intersect)
 ![90-04-01-03-a114](https://github.com/wonder13662/gimp/assets/15767104/b56ef663-fc6a-4691-a04a-adb588d6038f)
 
 [7.2.2. 선택 더하기/빼기 - 그림 90.4.1.3.a114](./07-02-02-adding-or-subtracting-selections.md#90-04-01-03-a114)
@@ -59,7 +59,7 @@
 
 <a id="90-04-01-03-a121"></a>
 
-#### 영상 90.4.1.3.a121. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택 바꾸기(Replace)
+#### 영상 90.4.1.3.a121. `도구 옵션` → `사각 선택` → `모드`:현재 선택 바꾸기(Replace)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3c61de0e-8173-4e64-a531-4f9c8fa3080f"></video>
 
 [7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a121](./07-02-02-adding-or-subtracting-selections.md#90-04-01-03-a121)
@@ -68,7 +68,7 @@
 
 <a id="90-04-01-03-a122"></a>
 
-#### 영상 90.4.1.3.a122. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택에 더하기(Add)
+#### 영상 90.4.1.3.a122. `도구 옵션` → `사각 선택` → `모드`:현재 선택에 더하기(Add)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/31a3604e-c552-4fe4-805a-2c90e22c42f8
 "></video>
 
@@ -78,7 +78,7 @@
 
 <a id="90-04-01-03-a123"></a>
 
-#### 영상 90.4.1.3.a123. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택에 빼기(Subtract)
+#### 영상 90.4.1.3.a123. `도구 옵션` → `사각 선택` → `모드`:현재 선택에 빼기(Subtract)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a40217fa-c45e-4cfd-b54f-defc71a331db"></video>
 
 [7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a123](./07-02-02-adding-or-subtracting-selections.md#90-04-01-03-a123)
@@ -87,7 +87,7 @@
 
 <a id="90-04-01-03-a124"></a>
 
-#### 영상 90.4.1.3.a124. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택과 교차하기(Intersect)
+#### 영상 90.4.1.3.a124. `도구 옵션` → `사각 선택` → `모드`:현재 선택과 교차하기(Intersect)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a0c68f09-01b8-4e59-8656-2f6797a5a7db"></video>
 
 [7.2.2. 선택 더하기/빼기 - 영상 90.4.1.3.a124](./07-02-02-adding-or-subtracting-selections.md#90-04-01-03-a124)
@@ -184,17 +184,73 @@
 
 <a id="90-04-01-03-a161"></a>
 
-#### 그림 90.4.1.3.a161. 사각 선택 - 도구 옵션 - 강조 (Windows) (우리말)
+#### 그림 90.4.1.3.a161. `도구 옵션` → `사각 선택` → `강조` (Windows) (우리말)
 ![90-04-01-03-a161](https://github.com/wonder13662/gimp/assets/15767104/6f510a86-552c-4099-8b63-47816bf0afe1)
 
 [14.2.2.3. 도구 조작(Tool manipulation) - 그림 90.4.1.3.a161](./14-02-02-03-tool_manipulation.md#90-04-01-03-a161)
 
 <a id="90-04-01-03-a162"></a>
 
-#### 영상 90.4.1.3.a162. 사각 선택 - 도구 옵션 - 강조 (Windows) (우리말)
+#### 영상 90.4.1.3.a162. `도구 옵션` → `사각 선택` → `강조` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ce2e0413-333d-488b-accb-56e01f2af887"></video>
 
 [14.2.2.3. 도구 조작(Tool manipulation) - 영상 90.4.1.3.a162](./14-02-02-03-tool_manipulation.md#90-04-01-03-a162)
+
+<a id="90-04-01-03-a171"></a>
+
+#### 그림 90.4.1.3.a171. `도구 옵션` → `사각 선택` → `고정` (Mac)
+![90-04-01-03-a171](https://github.com/wonder13662/gimp/assets/15767104/20a3d32c-0169-4fd7-8936-37d50d5ed182)
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a171](./14-02-02-04-tool_options.md#90-04-01-03-a171)
+
+<a id="90-04-01-03-a172"></a>
+
+#### 그림 90.4.1.3.a172. `도구 옵션` → `사각 선택` → `안내선` (Mac)
+![90-04-01-03-a172](https://github.com/wonder13662/gimp/assets/15767104/a115713a-6535-4392-923f-923f80fa6137)
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a172](./14-02-02-04-tool_options.md#90-04-01-03-a172)
+
+<a id="90-04-01-03-a173"></a>
+
+#### 그림 90.4.1.3.a173. `도구 옵션` → `사각 선택` → `둥근 모서리` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7d6d6393-c064-4ebe-9a09-a01ad7475ee3"></video>
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a173](./14-02-02-04-tool_options.md#90-04-01-03-a173)
+
+<a id="90-04-01-03-a174"></a>
+
+#### 그림 90.4.1.3.a174. `도구 옵션` → `사각 선택` → `중앙으로부터 확장` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b0fbd786-c06c-4f00-a74d-65b9292049e1"></video>
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a174](./14-02-02-04-tool_options.md#90-04-01-03-a174)
+
+<a id="90-04-01-03-a175-01"></a>
+
+#### 그림 90.4.1.3.a175.1. `도구 옵션` → `사각 선택` → `고정` → `종횡비` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9d9051b8-418a-4220-9094-44d43ee13359"></video>
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a175.1](./14-02-02-04-tool_options.md#90-04-01-03-a175-01)
+
+<a id="90-04-01-03-a175-02"></a>
+
+#### 그림 90.4.1.3.a175.2. `도구 옵션` → `사각 선택` → `고정` → `너비` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eab5148b-8f79-4ac1-948f-a8c323f4d9c4"></video>
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a175.2](./14-02-02-04-tool_options.md#90-04-01-03-a175-02)
+
+<a id="90-04-01-03-a175-03"></a>
+
+#### 그림 90.4.1.3.a175.3. `도구 옵션` → `사각 선택` → `고정` → `높이` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/73f36215-caaa-4b41-bcbf-3f5b4dfcc27c"></video>
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a175.3](./14-02-02-04-tool_options.md#90-04-01-03-a175-03)
+
+<a id="90-04-01-03-a175-04"></a>
+
+#### 그림 90.4.1.3.a175.4. `도구 옵션` → `사각 선택` → `고정` → `크기` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c6513d9b-ef69-4f85-adca-5a8b6d5071df"></video>
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a175.4](./14-02-02-04-tool_options.md#90-04-01-03-a175-04)
 
 ***
 

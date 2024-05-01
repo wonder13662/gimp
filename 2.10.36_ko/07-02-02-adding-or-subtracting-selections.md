@@ -14,7 +14,7 @@
 
 <a id="90-04-01-03-a121"></a>
 
-#### [영상 90.4.1.3.a121. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택 바꾸기(Replace)](./90-04-01-03-rectangle_select.md#90-04-01-03-a121)
+#### [영상 90.4.1.3.a121. `도구 옵션` → `사각 선택` → `모드`:현재 선택 바꾸기(Replace)](./90-04-01-03-rectangle_select.md#90-04-01-03-a121)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3c61de0e-8173-4e64-a531-4f9c8fa3080f"></video>
 
 <a id="07-02-02-s2"></a>
@@ -30,7 +30,7 @@
 
 <a id="90-04-01-03-a122"></a>
 
-#### [영상 90.4.1.3.a122. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택에 더하기(Add)](./90-04-01-03-rectangle_select.md#90-04-01-03-a122)
+#### [영상 90.4.1.3.a122. `도구 옵션` → `사각 선택` → `모드`:현재 선택에 더하기(Add)](./90-04-01-03-rectangle_select.md#90-04-01-03-a122)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/31a3604e-c552-4fe4-805a-2c90e22c42f8
 "></video>
 
@@ -54,7 +54,7 @@
 
 <a id="90-04-01-03-a123"></a>
 
-#### [영상 90.4.1.3.a123. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택에 빼기(Subtract)](./90-04-01-03-rectangle_select.md#90-04-01-03-a123)
+#### [영상 90.4.1.3.a123. `도구 옵션` → `사각 선택` → `모드`:현재 선택에 빼기(Subtract)](./90-04-01-03-rectangle_select.md#90-04-01-03-a123)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a40217fa-c45e-4cfd-b54f-defc71a331db"></video>
 
 또한 Ctrl(⌘) 키를 누른 채로 유지하면 일시적으로 `현재 선택에 빼기(Subtract)` 모드로 바뀝니다. Ctrl(⌘) 키를 누른 채로 클릭 + 드래그 한 뒤에 엔터키를 누르면, 기존 선택에서 새로운 선택을 지울 수 있습니다.
@@ -70,14 +70,14 @@
 
 <a id="90-04-01-03-a114"></a>
 
-#### [그림 90.4.1.3.a114. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택과 교차하기(Intersect)](./90-04-01-03-rectangle_select.md#90-04-01-03-a114)
+#### [그림 90.4.1.3.a114. `도구 옵션` → `사각 선택` → `모드`:현재 선택과 교차하기(Intersect)](./90-04-01-03-rectangle_select.md#90-04-01-03-a114)
 ![90-04-01-03-mode-intersect(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/b56ef663-fc6a-4691-a04a-adb588d6038f)
 
 `현재 선택과 교차하기(Intersect)` 모드는 새로운 선택과 이미 있는 선택의 교차한 부분을 새로운 선택으로 만듭니다.
 
 <a id="90-04-01-03-a124"></a>
 
-#### [영상 90.4.1.3.a124. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택과 교차하기(Intersect)](./90-04-01-03-rectangle_select.md#90-04-01-03-a124)
+#### [영상 90.4.1.3.a124. `도구 옵션` → `사각 선택` → `모드`:현재 선택과 교차하기(Intersect)](./90-04-01-03-rectangle_select.md#90-04-01-03-a124)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a0c68f09-01b8-4e59-8656-2f6797a5a7db"></video>
 
 또한 Shift(⇧) + Ctrl(⌘) 키를 누른 채로 유지하면 일시적으로 `현재 선택과 교차하기(Intersect)` 모드로 바뀝니다. Shift(⇧) + Ctrl(⌘) 키를 누른 채로 클릭 + 드래그 한 뒤에 엔터키를 누르면, 교차된 새로운 선택을 만들 수 있습니다.
