@@ -187,7 +187,7 @@
 #### 그림 90.4.1.3.a161. 사각 선택 - 도구 옵션 - 강조 (Windows) (우리말)
 ![90-04-01-03-a161](https://github.com/wonder13662/gimp/assets/15767104/6f510a86-552c-4099-8b63-47816bf0afe1)
 
-[14.2.2.3. 도구 조작(Tool manipulation) - 그림 90.4.1.3.a161](./14-02-02-03-tool_manipulation.md#그림 90.4.1.3.a161)
+[14.2.2.3. 도구 조작(Tool manipulation) - 그림 90.4.1.3.a161](./14-02-02-03-tool_manipulation.md#90-04-01-03-a161)
 
 <a id="90-04-01-03-a162"></a>
 
