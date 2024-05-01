@@ -46,7 +46,7 @@ GEGEL 기반 필터나 도구 옵션의 슬라이더가 매우 날렵한 스타�
 
 #### 영상 14.1.4.6.a3-2. Ctrl(⌘) + 마우스 휠 스크롤
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6471cb63-2bfd-4992-a13c-c935aa55b36f"></video>
- d
+
 ## 4. 슬라이더의 텍스트 입력창에 직접 입력
 슬라이더의 값 영역은 텍스트 입력창처럼 동작합니다. 이 영역에서 값을 수정하거나 새로운 값을 입력할 수 있습니다.
 
