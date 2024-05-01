@@ -101,6 +101,8 @@
 
 [12.1.18.1. 일반(General) - 영상 90.4.1.3.a131](./12-01-18-01-general.md#90-04-01-03-a131)
 
+[14.2.2.3. 도구 조작(Tool manipulation) - 영상 90.4.1.3.a131](./14-02-02-03-tool_manipulation.md#90-04-01-03-a131)
+
 <a id="90-04-01-03-a141"></a>
 
 #### 영상 90.4.1.3.a141. 도구 옵션 대화상자의 아래쪽 4개 버튼
@@ -128,6 +130,26 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d402e542-4a98-433b-bd86-dda9b6a0186c"></video>
 
 [7.14.2. 기본 도형 그리기 - 영상 90.4.1.3.a153](./07-14-02-creating-a-basic-shape.md#90-04-01-03-a153)
+
+<a id="90-04-01-03-a161"></a>
+
+#### 그림 90.4.1.3.a161. 사각 선택 - 도구 옵션 - 강조 (Windows) (우리말)
+![90-04-01-03-a161](https://github.com/wonder13662/gimp/assets/15767104/6f510a86-552c-4099-8b63-47816bf0afe1)
+
+[14.2.2.3. 도구 조작(Tool manipulation) - 그림 90.4.1.3.a161](./14-02-02-03-tool_manipulation.md#그림 90.4.1.3.a161)
+
+<a id="90-04-01-03-a162"></a>
+
+#### 영상 90.4.1.3.a162. 사각 선택 - 도구 옵션 - 강조 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ce2e0413-333d-488b-accb-56e01f2af887"></video>
+
+[14.2.2.3. 도구 조작(Tool manipulation) - 영상 90.4.1.3.a162](./14-02-02-03-tool_manipulation.md#90-04-01-03-a162)
+
+***
+
+## 관련 정보
+
+[90.3.2.3. 도구 아이콘(Tool icon) - 사각 선택(Rectangle select)](./90-03-02-03-rectangle_select.md)
 
 ***
 

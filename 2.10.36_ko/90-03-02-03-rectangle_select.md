@@ -50,6 +50,8 @@
 
 [7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a111](./07-02-01-00-moving-or-resizing-a-selection.md#90-03-02-03-a111)
 
+[14.2.2.3. 도구 조작(Tool manipulation) - 영상 90.3.2.3.a111](./14-02-02-03-tool_manipulation.md#90-03-02-03-a111)
+
 <a id="90-03-02-03-a112"></a>
 
 #### 영상 90.3.2.3.a112. 선택의 `핸들 모드` - 선택 움직이기
@@ -66,6 +68,8 @@
 
 [7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a113](./07-02-01-00-moving-or-resizing-a-selection.md#90-03-02-03-a113)
 
+[14.2.2.3. 도구 조작(Tool manipulation) - 영상 90.3.2.3.a113](./14-02-02-03-tool_manipulation.md#90-03-02-03-a113)
+
 <a id="90-03-02-03-a114"></a>
 
 #### 영상 90.3.2.3.a114. 선택의 `점선 모드` - 드래그로 새로운 선택 만들기
@@ -80,6 +84,8 @@
 
 [7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a121](./07-02-01-01-01-moving_and_resizing_the_selection_outline.md#90-03-02-03-a121)
 
+[14.2.2.3. 도구 조작(Tool manipulation) - 영상 90.3.2.3.a121](./14-02-02-03-tool_manipulation.md#90-03-02-03-a121)
+
 <a id="90-03-02-03-a122"></a>
 
 #### 영상 90.3.2.3.a122. 선택 `핸들 모드`로 키보드로 1픽셀씩 이동 (Mac)
@@ -93,6 +99,8 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9aa7785b-b9cc-49ba-822f-c5df04fa2a43"></video>
 
 [7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a123](./07-02-01-01-01-moving_and_resizing_the_selection_outline.md#90-03-02-03-a123)
+
+[14.2.2.3. 도구 조작(Tool manipulation) - 영상 90.3.2.3.a123](./14-02-02-03-tool_manipulation.md#90-03-02-03-a123)
 
 <a id="90-03-02-03-a124"></a>
 
@@ -156,6 +164,12 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f4aec06c-3ffd-4c8a-82b2-7d92a5b9af61"></video>
 
 [7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기 - 영상 90.3.2.3.a134](./07-02-01-01-02-moving_the_selection_with_the_image_contents.md#90-03-02-03-a134)
+
+***
+
+## 관련 정보
+
+[90.4.1.3. 사각 선택(Rectangle Select)](./90-04-01-03-rectangle_select.md)
 
 ***
 
