@@ -18,6 +18,8 @@
 #### 영상 90.1.8.1.1.a11. `도구` → `선택도구` → `사각 선택` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2725f0ad-2223-420b-addd-1456d391ee87"></video>
 
+[14.2.2.1. 도구 활성화하기(Activating the tools) - 영상 90.1.8.1.1.a11](./14-02-02-01-activating_the_tool.md#90-01-08-01-01-a11)
+
 ***
 
 ## 다른 페이지로 가기
