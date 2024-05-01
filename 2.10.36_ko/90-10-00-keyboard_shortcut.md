@@ -101,6 +101,41 @@
 
 [14.2.2.2. 동작 변경키(Key modifiers) - 영상 90.10.a104.4](./14-02-02-02-key_modifiers.md#90-10-a104-04)
 
+<a id="90-10-a901-01"></a>
+
+#### 영상 90.10.a901.1. Alt(⌥) + 마우스 휠: 도구 옵션의 불투명도(Opacity) 조절
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d3356aa5-bfcc-4cf7-a7ae-014bbd530df5"></video>
+
+[14.1.4.7. 캔버스 위에서의 마우스 스크롤 휠 동작(Mouse Scroll-Wheel actions on canvas) - 영상 90.10.a901.1](./14-01-04-07-mouse_scroll_wheel_actions_on_canvas.md#90-10-a901-01)
+
+<a id="90-10-a901-02"></a>
+
+#### 영상 90.10.a901.2. Shift(⇧) + Ctrl(⌘) + 마우스 휠: 도구 옵션의 종횡비(Aspect Ratio) 조절
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2f5ffa16-9715-4da6-a0ee-508a303e8ed8"></video>
+
+[14.1.4.7. 캔버스 위에서의 마우스 스크롤 휠 동작(Mouse Scroll-Wheel actions on canvas) - 영상 90.10.a901.2](./14-01-04-07-mouse_scroll_wheel_actions_on_canvas.md#90-10-a901-02)
+
+<a id="90-10-a901-03"></a>
+
+#### 영상 90.10.a901.3. Shift(⇧) + Alt(⌥) + 마우스 휠: 도구 옵션의 각도(Angle) 조절
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/59dcd48c-cedd-4a08-83a8-9c68af9919f5"></video>
+
+[14.1.4.7. 캔버스 위에서의 마우스 스크롤 휠 동작(Mouse Scroll-Wheel actions on canvas) - 영상 90.10.a901.3](./14-01-04-07-mouse_scroll_wheel_actions_on_canvas.md#90-10-a901-03)
+
+<a id="90-10-a901-04"></a>
+
+#### 영상 90.10.a901.4. Ctrl(⌘) + Alt(⌥) + 마우스 휠: 도구 옵션의 크기(Size) 조절
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/212a0a2b-b861-466e-a11f-8ade0f06a3a2"></video>
+
+[14.1.4.7. 캔버스 위에서의 마우스 스크롤 휠 동작(Mouse Scroll-Wheel actions on canvas) - 영상 90.10.a901.4](./14-01-04-07-mouse_scroll_wheel_actions_on_canvas.md#90-10-a901-04)
+
+<a id="90-10-a901-05"></a>
+
+#### 영상 90.10.a901.5. Shift(⇧) + Ctrl(⌘) + Alt(⌥) + 마우스 휠: 도구 옵션의 간격(Spacing) 조절
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5e4248af-4cd1-490d-add6-7c1fd4e62dbf"></video>
+
+[14.1.4.7. 캔버스 위에서의 마우스 스크롤 휠 동작(Mouse Scroll-Wheel actions on canvas) - 영상 90.10.a901.5](./14-01-04-07-mouse_scroll_wheel_actions_on_canvas.md#90-10-a901-05)
+
 ***
 
 ## 다른 페이지로 가기
