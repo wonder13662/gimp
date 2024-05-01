@@ -85,7 +85,9 @@ Ctrl(⌘) + Shift(⇧) 키를 누르면 사용중인 도구에 따라 다양한 
 ### 5-1. Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그
 Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그로 선택 영역의 콘텐츠로 옮기게 되면, 옮긴 콘텐츠의 원래 자리는 배경색(Background Color)로 채워지게 됩니다. 옮긴 콘텐츠는 [떠있는 선택(floating selection)](./04-02-01-there-is-a-floating-selection.md)이 됩니다.
 
-#### 영상 14.2.1.1.a501. Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그
+<a id="90-10-a106-01"></a>
+
+#### [영상 90.10.a106.1. Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그](./90-10-00-keyboard_shortcut.md#90-10-a106-01)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6a5f12d6-af9d-4e79-a1af-6dad5b8e1e63"></video>
 
 <a id="14-02-01-01-s5-02"></a>
@@ -93,7 +95,9 @@ Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그로 선택 영역의 콘텐츠�
 ### 5-2. Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그
 Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그로 선택 영역의 콘텐츠로 옮기게 되면, 옮긴 콘텐츠의 원래 자리는 원래 이미지로 유지됩니다. 옮긴 콘텐츠는 [떠있는 선택(floating selection)](./04-02-01-there-is-a-floating-selection.md)이 됩니다.
 
-#### 영상 14.2.1.1.a502. Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그
+<a id="90-10-a106-02"></a>
+
+#### [영상 90.10.a106.2. Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그](./90-10-00-keyboard_shortcut.md#90-10-a106-02)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b2df02c-54cc-49e4-a13d-3fa52edeed4d"></video>
 
 <a id="14-02-01-01-s6"></a>

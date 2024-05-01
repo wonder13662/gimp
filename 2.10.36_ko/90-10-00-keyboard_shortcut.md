@@ -108,6 +108,22 @@
 
 [14.2.1.1. 동작 변경키(Key modifiers) - 영상 90.10.a105.1](./14-02-01-01-key_modifiers.md#90-10-a105-01)
 
+<a id="90-10-a106-01"></a>
+
+#### 영상 90.10.a106.1. Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6a5f12d6-af9d-4e79-a1af-6dad5b8e1e63"></video>
+
+[14.2.1.1. 동작 변경키(Key modifiers) - 영상 90.10.a106.1](./14-02-01-01-key_modifiers.md#90-10-a106-01)
+
+<a id="90-10-a106-02"></a>
+
+#### 영상 90.10.a106.2. Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b2df02c-54cc-49e4-a13d-3fa52edeed4d"></video>
+
+[14.2.1.1. 동작 변경키(Key modifiers) - 영상 90.10.a106.2](./14-02-01-01-key_modifiers.md#90-10-a106-02)
+
+<a id="14-02-01-01-s5-02"></a>
+
 <a id="90-10-a901-01"></a>
 
 #### 영상 90.10.a901.1. Alt(⌥) + 마우스 휠: 도구 옵션의 불투명도(Opacity) 조절
