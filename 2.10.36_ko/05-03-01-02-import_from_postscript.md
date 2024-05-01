@@ -58,7 +58,7 @@
 ![90-04-39-a131](https://github.com/wonder13662/gimp/assets/15767104/12023097-dfc8-4b5a-8ad0-899e3323429e)
 
 ## 안티-앨리어싱(Anti-Aliasing)
-포스트스크립트 이미지의 텍스트와 그래픽에 각각 [안티-앨리어싱(Anti-Aliasing)](./19-glossaryx-Anti-Aliasing.md)을 적용할 수 있습니다. `약함`과 `강함` 둘 중 하나를 선택할 수 있습니다.
+포스트스크립트 이미지의 텍스트와 그래픽에 각각 [안티-앨리어싱(Anti-Aliasing)](././19-glossaryx-antialiasing.md)을 적용할 수 있습니다. `약함`과 `강함` 둘 중 하나를 선택할 수 있습니다.
 
 <a id="90-04-39-a141"></a>
 
