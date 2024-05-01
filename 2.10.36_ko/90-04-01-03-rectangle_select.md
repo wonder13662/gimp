@@ -212,45 +212,115 @@
 
 <a id="90-04-01-03-a173"></a>
 
-#### 그림 90.4.1.3.a173. `도구 옵션` → `사각 선택` → `둥근 모서리` (Windows) (우리말)
+#### 영상 90.4.1.3.a173. `도구 옵션` → `사각 선택` → `둥근 모서리` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7d6d6393-c064-4ebe-9a09-a01ad7475ee3"></video>
 
 [14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a173](./14-02-02-04-tool_options.md#90-04-01-03-a173)
 
 <a id="90-04-01-03-a174"></a>
 
-#### 그림 90.4.1.3.a174. `도구 옵션` → `사각 선택` → `중앙으로부터 확장` (Windows) (우리말)
+#### 영상 90.4.1.3.a174. `도구 옵션` → `사각 선택` → `중앙으로부터 확장` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b0fbd786-c06c-4f00-a74d-65b9292049e1"></video>
 
 [14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a174](./14-02-02-04-tool_options.md#90-04-01-03-a174)
 
 <a id="90-04-01-03-a175-01"></a>
 
-#### 그림 90.4.1.3.a175.1. `도구 옵션` → `사각 선택` → `고정` → `종횡비` (Windows) (우리말)
+#### 영상 90.4.1.3.a175.1. `도구 옵션` → `사각 선택` → `고정` → `종횡비` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9d9051b8-418a-4220-9094-44d43ee13359"></video>
 
 [14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a175.1](./14-02-02-04-tool_options.md#90-04-01-03-a175-01)
 
 <a id="90-04-01-03-a175-02"></a>
 
-#### 그림 90.4.1.3.a175.2. `도구 옵션` → `사각 선택` → `고정` → `너비` (Windows) (우리말)
+#### 영상 90.4.1.3.a175.2. `도구 옵션` → `사각 선택` → `고정` → `너비` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eab5148b-8f79-4ac1-948f-a8c323f4d9c4"></video>
 
 [14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a175.2](./14-02-02-04-tool_options.md#90-04-01-03-a175-02)
 
 <a id="90-04-01-03-a175-03"></a>
 
-#### 그림 90.4.1.3.a175.3. `도구 옵션` → `사각 선택` → `고정` → `높이` (Windows) (우리말)
+#### 영상 90.4.1.3.a175.3. `도구 옵션` → `사각 선택` → `고정` → `높이` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/73f36215-caaa-4b41-bcbf-3f5b4dfcc27c"></video>
 
 [14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a175.3](./14-02-02-04-tool_options.md#90-04-01-03-a175-03)
 
 <a id="90-04-01-03-a175-04"></a>
 
-#### 그림 90.4.1.3.a175.4. `도구 옵션` → `사각 선택` → `고정` → `크기` (Windows) (우리말)
+#### 영상 90.4.1.3.a175.4. `도구 옵션` → `사각 선택` → `고정` → `크기` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c6513d9b-ef69-4f85-adca-5a8b6d5071df"></video>
 
 [14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a175.4](./14-02-02-04-tool_options.md#90-04-01-03-a175-04)
+
+<a id="90-04-01-03-a176"></a>
+
+#### 영상 90.4.1.3.a176. `도구 옵션` → `사각 선택` → `위치` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3ef8ae10-7cc1-4230-adef-d105d496cf3e"></video>
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a176](./14-02-02-04-tool_options.md#90-04-01-03-a176)
+
+<a id="90-04-01-03-a177"></a>
+
+#### 영상 90.4.1.3.a177. `도구 옵션` → `사각 선택` → `크기` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d988c494-208b-4308-85ad-c15b61579b87"></video>
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a177](./14-02-02-04-tool_options.md#90-04-01-03-a177)
+
+<a id="90-04-01-03-a178-01"></a>
+
+#### 그림 90.4.1.3.a178.1. `도구 옵션` → `사각 선택` → `안내선` → `안내선 없음` (Windows) (우리말)
+![90-04-01-03-a178-01](https://github.com/wonder13662/gimp/assets/15767104/853d3150-ab53-4863-ae47-67e48b8f2965)
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a178.1](./14-02-02-04-tool_options.md#90-04-01-03-a178-01)
+
+<a id="90-04-01-03-a178-02"></a>
+
+#### 그림 90.4.1.3.a178.2. `도구 옵션` → `사각 선택` → `안내선` → `가운데 선` (Windows) (우리말)
+![90-04-01-03-a178-02](https://github.com/wonder13662/gimp/assets/15767104/f148bda2-aa70-4e1d-8902-124e0acfe113)
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a178.2](./14-02-02-04-tool_options.md#90-04-01-03-a178-02)
+
+<a id="90-04-01-03-a178-03"></a>
+
+#### 그림 90.4.1.3.a178.3. `도구 옵션` → `사각 선택` → `안내선` → `세 번째 규칙` (Windows) (우리말)
+![90-04-01-03-a178-03](https://github.com/wonder13662/gimp/assets/15767104/6eb9083a-42c8-4a48-87ee-31e4b7cef10d)
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a178.3](./14-02-02-04-tool_options.md#90-04-01-03-a178-03)
+
+<a id="90-04-01-03-a178-04"></a>
+
+#### 그림 90.4.1.3.a178.4. `도구 옵션` → `사각 선택` → `안내선` → `다섯 번째 규칙` (Windows) (우리말)
+![90-04-01-03-a178-04](https://github.com/wonder13662/gimp/assets/15767104/5f6e5498-42b8-45d4-81e9-871a499e2aa3)
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a178.4](./14-02-02-04-tool_options.md#90-04-01-03-a178-04)
+
+<a id="90-04-01-03-a178-05"></a>
+
+#### 그림 90.4.1.3.a178.5. `도구 옵션` → `사각 선택` → `안내선` → `중요 구역` (Windows) (우리말)
+![90-04-01-03-a178-05](https://github.com/wonder13662/gimp/assets/15767104/c362e488-1d21-4d55-b3fe-d340c0fcbcde)
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a178.5](./14-02-02-04-tool_options.md#90-04-01-03-a178-05)
+
+<a id="90-04-01-03-a178-06"></a>
+
+#### 그림 90.4.1.3.a178.6. `도구 옵션` → `사각 선택` → `안내선` → `대각선` (Windows) (우리말)
+![90-04-01-03-a178-06](https://github.com/wonder13662/gimp/assets/15767104/1c3228c5-85c8-455a-bedd-9d0a1783ca2f)
+
+[14.2.2.4. 도구 옵션(Tool Options) - 그림 90.4.1.3.a178.6](./14-02-02-04-tool_options.md#90-04-01-03-a178-06)
+
+<a id="90-04-01-03-a179"></a>
+
+#### 영상 90.4.1.3.a179. `도구 옵션` → `사각 선택` → `자동 줄이기` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f6b28685-3f02-478e-a424-983d1ad115d6"></video>
+
+[14.2.2.4. 도구 옵션(Tool Options) - 영상 90.4.1.3.a179](./14-02-02-04-tool_options.md#90-04-01-03-a179)
+
+<a id="90-04-01-03-a180"></a>
+
+#### 영상 90.4.1.3.a180. `도구 옵션` → `사각 선택` → `표본 합치기` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b8800862-5162-47b7-b0ac-4efad16970ad"></video>
+
+[14.2.2.4. 도구 옵션(Tool Options) - 영상 90.4.1.3.a180](./14-02-02-04-tool_options.md#90-04-01-03-a180)
 
 ***
 
