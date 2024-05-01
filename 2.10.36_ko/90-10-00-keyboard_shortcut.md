@@ -101,6 +101,13 @@
 
 [14.2.2.2. 동작 변경키(Key modifiers) - 영상 90.10.a104.4](./14-02-02-02-key_modifiers.md#90-10-a104-04)
 
+<a id="90-10-a105-01"></a>
+
+#### 영상 90.10.a105.1. Alt(⌥) 키를 눌러 선택 옮기기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/10babd74-77a0-4c67-999d-bf5836b6682d"></video>
+
+[14.2.1.1. 동작 변경키(Key modifiers) - 영상 90.10.a105.1](./14-02-01-01-key_modifiers.md#90-10-a105-01)
+
 <a id="90-10-a901-01"></a>
 
 #### 영상 90.10.a901.1. Alt(⌥) + 마우스 휠: 도구 옵션의 불투명도(Opacity) 조절
