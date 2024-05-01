@@ -46,6 +46,8 @@
 #### 그림 90.3.a122. 선택도구인 도구상자 아이콘
 ![90-03-a122](https://github.com/wonder13662/gimp/assets/15767104/6ce3ee5b-2832-46dc-addf-e67de2892ed9)
 
+[14.2. 선택 도구(Selection tools) - 그림 90.3.a122](./14-02-00-selection-tools.md#90-03-a122)
+
 <a id="90-03-a131"></a>
 
 #### 그림 90.3.a131. 도구상자의 모습
