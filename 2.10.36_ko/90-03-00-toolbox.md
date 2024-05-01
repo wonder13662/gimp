@@ -179,9 +179,9 @@
 #### 그림 90.3.2.22.a2. 도구상자 - 그라디언트
 [![그림 90.3.2.22.a2. 도구상자 - 그라디언트](https://github.com/wonder13662/gimp/assets/15767104/38dd2450-ba2d-4f63-8dff-d2d71f0147bb)](./90-03-02-22-gradient.md)
 
-### [90.3.2.23. 도구 아이콘(Tool icon) - 그리기 붓(Paintbrush)](./90-03-02-23-paintbrush.md)
-#### 그림 90.3.2.23.a2. 도구상자 - 그리기 붓
-[![그림 90.3.2.23.a2. 도구상자 - 그리기 붓](https://github.com/wonder13662/gimp/assets/15767104/8037e4e3-2df5-4bee-ab58-5efab4efefd1)](./90-03-02-23-paintbrush.md)
+### [90.3.2.23. 도구 아이콘(Tool icon) - 칠하기 붓(Paintbrush)](./90-03-02-23-paintbrush.md)
+#### 그림 90.3.2.23.a2. 도구상자 - 칠하기 붓
+[![그림 90.3.2.23.a2. 도구상자 - 칠하기 붓](https://github.com/wonder13662/gimp/assets/15767104/8037e4e3-2df5-4bee-ab58-5efab4efefd1)](./90-03-02-23-paintbrush.md)
 
 ### [90.3.2.24. 도구 아이콘(Tool icon) - 연필(Pencil)](./90-03-02-24-pencil.md)
 #### 그림 90.3.2.24.a2. 도구상자 - 연필

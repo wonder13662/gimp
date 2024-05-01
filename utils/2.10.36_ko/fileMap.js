@@ -945,7 +945,7 @@ module.exports = {
       [
         '14-03-07-paintbrush.md', 
         '14.3.7. 칠하기 붓(Paintbrush)',
-        '14.3.7. 그리기 붓'
+        '14.3.7. 칠하기 붓'
       ],
       [
         '14-03-08-mypaint-brush.md', 
