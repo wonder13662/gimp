@@ -1,7 +1,9 @@
 # 7.2.2. 선택 더하기/빼기
 도구에는 직접 설정할 수 있는 옵션이 있습니다. 각 선택 도구는 옵션 안에서 선택 모드를 정할 수 있습니다. 아래에 나온 선택 모드를 사용할 수 있습니다.
 
-## 선택 모드:현재 선택 바꾸기(Replace)
+<a id="07-02-02-s1"></a>
+
+## 1. 선택 모드:현재 선택 바꾸기(Replace)
 
 <a id="90-04-01-03-a111"></a>
 
@@ -15,12 +17,14 @@
 #### [영상 90.4.1.3.a121. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택 바꾸기(Replace)](./90-04-01-03-rectangle_select.md#90-04-01-03-a121)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3c61de0e-8173-4e64-a531-4f9c8fa3080f"></video>
 
-## 선택 모드:현재 선택에 더하기(Add)
+<a id="07-02-02-s2"></a>
+
+## 2. 선택 모드:현재 선택에 더하기(Add)
 
 <a id="90-04-01-03-a112"></a>
 
 #### [그림 90.4.1.3.a112. 도구상자의 사각 선택의 도구옵션 - 선택 모드:현재 선택에 더하기(Add)](./90-04-01-03-rectangle_select.md#90-04-01-03-a112)
-![90-04-01-03-mode-add(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/54d29b7a-1ee2-45dd-806e-13a43d7a14e8)
+![90-04-01-03-a112](https://github.com/wonder13662/gimp/assets/15767104/54d29b7a-1ee2-45dd-806e-13a43d7a14e8)
 
 `현재 선택에 더하기(Add)` 모드는 새로운 선택을 이미 있는 선택에 추가합니다.
 
@@ -37,7 +41,9 @@
 #### [영상 90.4.1.3.a125. Shift(⇧) 눌러 선택 모드:현재 선택에 더하기(Add)로 전환](./90-04-01-03-rectangle_select.md#90-04-01-03-a125)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e2b0823e-0ed6-4efb-b1e0-a07fd79e6c09"></video>
 
-## 선택 모드:현재 선택에 빼기(Subtract)
+<a id="07-02-02-s3"></a>
+
+## 3. 선택 모드:현재 선택에 빼기(Subtract)
 
 <a id="90-04-01-03-a113"></a>
 
@@ -58,7 +64,9 @@
 #### [영상 90.4.1.3.a126. Ctrl(⌘) 눌러 선택 모드:현재 선택에 빼기(Subtract)로 전환](./90-04-01-03-rectangle_select.md#90-04-01-03-a126)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/33d4202e-d83f-4660-9b5f-a3e01585f98d"></video>
 
-## 선택 모드:현재 선택과 교차하기(Intersect)
+<a id="07-02-02-s4"></a>
+
+## 4. 선택 모드:현재 선택과 교차하기(Intersect)
 
 <a id="90-04-01-03-a114"></a>
 
@@ -82,6 +90,12 @@
 > 🗒️ 참고
 >
 > 선택에서 미세하게 틀린 부분을 수정하려면 [퀵마스크](./07-03-00-the-quickmask.md)를 이용합니다.
+
+***
+
+## 관련 정보
+
+[14.2.1.2. 옵션(Options)](./14-02-01-02-options.md)
 
 ***
 
