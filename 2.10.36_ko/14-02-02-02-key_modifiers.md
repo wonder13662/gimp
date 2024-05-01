@@ -5,10 +5,89 @@
 > 모든 선택 도구에 동일하게 적용되는 동작 변경키(Key modifiers)에 대해서는 [14.2.1.1. 동작 변경키(Key modifiers)](./14-02-01-01-key_modifiers.md)를 확인해주세요. 이번 장에서는 사각 선택 도구에만 적용되는 경우에 대해서만 설명합니다.
 
 ## 1. Ctrl(⌘)
+### 1-1. 선택을 만들기 전에 Ctrl(⌘) 키를 누름
+기존 선택 영역에서 새로 선택된 영역을 빼는 모드(Subtract Mode)로 동작합니다. 이는 선택 도구의 공통 기능이므로 [14.2.1.1. 동작 변경키(Key modifiers) - 1-1. 선택을 만들기 전에 Ctrl(⌘) 키를 누름](./14-02-01-01-key_modifiers.md#14-02-01-01-s1-01)을 확인해주세요.
+
+<a id="90-10-a102-03"></a>
+
+#### [영상 90.10.a102.3. 선택을 만들기 전에 Ctrl(⌘) 키를 누름](./90-10-00-keyboard_shortcut.md#90-10-a102-03)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1aa010b3-2198-44d2-a4d8-35fb9bf64d91"></video>
+
+Ctrl(⌘)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시 영역의 변화는 아래를 참고해주세요.
+
+<a id="90-10-a102-01"></a>
+
+#### [그림 90.10.a102.1. 사각 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터](./90-10-00-keyboard_shortcut.md#90-10-a102-01)
+![90-10-a102-01](https://github.com/wonder13662/gimp/assets/15767104/5a1a2504-84b5-45b8-ac02-6ddd73bfc636)
+
+<a id="90-10-a102-02"></a>
+
+#### [그림 90.10.a102.2. 사각 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-00-keyboard_shortcut.md#90-10-a102-02)
+![90-10-a102-02](https://github.com/wonder13662/gimp/assets/15767104/d194b607-f4b4-4fb6-ac63-5e9c499edad4)
+
+### 1-2. 선택을 만든 후에 Ctrl(⌘) 키를 누름
+선택을 만든 후에 Ctrl(⌘) 키를 누르고, 선택을 완료할 때까지 누르고 있다면, 클릭을 시작한 지점을 중심으로 선택 영역이 그려집니다. 참고로 Ctrl(⌘) 키를 누르지 않았을 때는 클릭을 시작한 지점을 네 귀퉁이 중 한 곳을 중심으로 선택 영역이 그려집니다.
+
+<a id="90-10-a102-04"></a>
+
+#### [영상 90.10.a102.4. 선택을 만든 후에 Ctrl(⌘) 키를 누름](./90-10-00-keyboard_shortcut.md#90-10-a102-04)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ab044c3b-b060-42be-870f-f505d08aebb8"></video>
 
 ## 2. Shift(⇧)
+### 2-1. 선택을 만들기 전에 Shift(⇧) 키를 누름
+기존 선택 영역에서 새로 선택된 영역을 더하기 모드(Add Mode)로 동작합니다. 이는 선택 도구의 공통 기능이므로 [14.2.1.1. 동작 변경키(Key modifiers) - 3-1. 선택을 만들기 전에 Shift(⇧) 키를 누름](./14-02-01-01-key_modifiers.md#14-02-01-01-s3-01)을 확인해주세요.
+
+<a id="90-10-a103-03"></a>
+
+#### [영상 90.10.a103.3. 선택을 만들기 전에 Shift(⇧) 키를 누름](./90-10-00-keyboard_shortcut.md#90-10-a103-03)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1f578f18-d0d4-4397-aef1-7d725af1a1a9"></video>
+
+Shift(⇧)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시 영역의 변화는 아래를 참고해주세요.
+
+<a id="90-10-a103-01"></a>
+
+#### [그림 90.10.a103.1. 사각 선택 도구 - 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터](./90-10-00-keyboard_shortcut.md#90-10-a103-01)
+![90-10-a103-01](https://github.com/wonder13662/gimp/assets/15767104/9e74c029-ce2b-4982-9f5e-d100ca631697)
+
+<a id="90-10-a103-02"></a>
+
+#### [그림 90.10.a103.2. 사각 선택 도구 - 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-00-keyboard_shortcut.md#90-10-a103-02)
+![90-10-a103-02](https://github.com/wonder13662/gimp/assets/15767104/54d6b5cc-b1a1-495a-9027-a8385d25369b)
+
+### 2-2. 선택을 만든 후에 Shift(⇧) 키를 누름
+선택을 만든 후에 Shift(⇧) 키를 누르면 고정(Fixed) 옵션이 켜집니다. 선택을 완료할 때까지 누르고 있는 상태에서 선택 영역을 그리면, 고정(Fixed) 옵션의 설정값(기본값은 1:1 정사각형)에 따라 선택 영역의 모양이 제한됩니다.
+
+<a id="90-10-a103-04"></a>
+
+#### [영상 90.10.a103.4. 선택을 만든 후에 Shift(⇧) 키를 누름](./90-10-00-keyboard_shortcut.md#90-10-a103-04)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c745012f-36ea-42e6-92b9-2a3b69a80d68"></video>
 
 ## 3. Ctrl(⌘) + Shift(⇧)
+### 3-1. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름
+선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누르면서 선택 영역을 그리면, 클릭을 시작한 지점을 중심으로 고정(Fixed) 옵션의 설정값(기본값은 1:1 정사각형)에 따라 선택 영역의 모양이 제한됩니다.
+
+<a id="90-10-a104-01"></a>
+
+#### [그림 90.10.a104.1. 사각 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름 - 마우스 포인터](./90-10-00-keyboard_shortcut.md#90-10-a104-01)
+![90-10-a104-01](https://github.com/wonder13662/gimp/assets/15767104/0935daf6-5926-4ae6-8512-b79ed7b53420)
+
+<a id="90-10-a104-02"></a>
+
+#### [그림 90.10.a104.2. 사각 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-00-keyboard_shortcut.md#90-10-a104-02)
+![90-10-a104-02](https://github.com/wonder13662/gimp/assets/15767104/ac4fe530-5692-4fd6-8d04-f994e67bc2e8)
+
+<a id="90-10-a104-03"></a>
+
+#### [영상 90.10.a104.3. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-00-keyboard_shortcut.md#90-10-a104-03)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/adf540cb-fdc9-4d79-abc0-43763ac3c7ea"></video>
+
+### 3-2. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름
+선택 모드가 교차 모드(intersection mode)로 바뀝니다. 동작이 끝나면, 선택 영역은 사용자가 선택한 영역과 이전에 있던 선택 영역과 교차된 영역으로 바뀝니다.
+
+<a id="90-10-a104-04"></a>
+
+#### [영상 90.10.a104.4. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-00-keyboard_shortcut.md#90-10-a104-04)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/97ebc183-71d3-4642-93fa-bdb8dabc799c"></video>
 
 ***
 

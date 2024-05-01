@@ -11,15 +11,19 @@ Ctrl(⌘) 키를 누른 채, 선택을 만들 경우, 상황에 따라 서로 �
 ### 1-1. 선택을 만들기 전에 Ctrl(⌘) 키를 누름
 기존 선택 영역에서 새로 선택된 영역을 빼는 모드(Subtract Mode)로 동작합니다.
 
-#### 영상 14.2.1.1.a101. 선택을 만들기 전에 Ctrl(⌘) 키를 누름
+<a id="90-10-a102-03"></a>
+
+#### [영상 90.10.a102.3. 선택을 만들기 전에 Ctrl(⌘) 키를 누름](./90-10-00-keyboard_shortcut.md#90-10-a102-03)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1aa010b3-2198-44d2-a4d8-35fb9bf64d91"></video>
 
-<a id="14-02-01-01-s1-02"></a>
+[14.2.2.2. 동작 변경키(Key modifiers) - 영상 14.2.1.1.a101](./14-02-02-02-key_modifiers.md#14-02-01-01-a101)
 
 ### 1-2. 선택을 만든 후에 Ctrl(⌘) 키를 누름
 어떤 도구를 사용하고 있느냐에 따라 달라집니다. 예를 들어, 사각 선택 도구의 경우에는 선택 영역을 그릴 때, 클릭한 지점을 중심으로 크기가 확대/축소됩니다.
 
-#### 영상 14.2.1.1.a102. 선택을 만든 후에 Ctrl(⌘) 키를 누름
+<a id="90-10-a102-04"></a>
+
+#### [영상 90.10.a102.4. 선택을 만든 후에 Ctrl(⌘) 키를 누름](./90-10-00-keyboard_shortcut.md#90-10-a102-04)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ab044c3b-b060-42be-870f-f505d08aebb8"></video>
 
 <a id="14-02-01-01-s2"></a>
@@ -40,9 +44,11 @@ Shift(⇧) 키를 누르고 선택을 만들 경우, 상황에 따라 서로 다
 <a id="14-02-01-01-s3-01"></a>
 
 ### 3-1. 선택을 만들기 전에 Shift(⇧) 키를 누름
-기존 선택 영역에서 새로 선택된 영역을 추가 모드(Add Mode)로 동작합니다.
+기존 선택 영역에서 새로 선택된 영역을 더하기 모드(Add Mode)로 동작합니다.
 
-#### 영상 14.2.1.1.a301. 선택을 만들기 전에 Shift(⇧) 키를 누름
+<a id="90-10-a103-03"></a>
+
+#### [영상 90.10.a103.3. 선택을 만들기 전에 Shift(⇧) 키를 누름](./90-10-00-keyboard_shortcut.md#90-10-a103-03)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1f578f18-d0d4-4397-aef1-7d725af1a1a9"></video>
 
 <a id="14-02-01-01-s3-02"></a>
@@ -50,7 +56,9 @@ Shift(⇧) 키를 누르고 선택을 만들 경우, 상황에 따라 서로 다
 ### 3-2. 선택을 만든 후에 Shift(⇧) 키를 누름
 사용자가 어떤 도구를 사용하고 있느냐에 따라 달라집니다. 예를 들어 [사각 선택 도구](./14-02-02-00-rectangle-selection.md)의 경우, 정사각형의 선택을 만들 수 있습니다.
 
-#### 영상 14.2.1.1.a302. 선택을 만든 후에 Shift(⇧) 키를 누름
+<a id="90-10-a103-04"></a>
+
+#### [영상 90.10.a103.4. 선택을 만든 후에 Shift(⇧) 키를 누름](./90-10-00-keyboard_shortcut.md#90-10-a103-04)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c745012f-36ea-42e6-92b9-2a3b69a80d68"></video>
 
 <a id="14-02-01-01-s4"></a>
@@ -62,7 +70,9 @@ Ctrl(⌘) + Shift(⇧) 키를 누르면 사용중인 도구에 따라 다양한 
 
 아래 영상에서 이 동작을 확인해볼 수 있습니다. Ctrl(⌘) + Shift(⇧) 키를 누를 때마다 이미지 창 하단의 도구 동작을 설명하는 메시지가 바뀌는 것도 같이 확인할 수 있습니다.
 
-#### 영상 14.2.1.1.a401. 사각 선택 도구에서 Ctrl(⌘) + Shift(⇧) 키를 눌러 교차 모드(intersection mode)로 바꿈
+<a id="90-10-a104-04"></a>
+
+#### [영상 90.10.a104.4. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-00-keyboard_shortcut.md#90-10-a104-04)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/97ebc183-71d3-4642-93fa-bdb8dabc799c"></video>
 
 <a id="14-02-01-01-s5"></a>
