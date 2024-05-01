@@ -226,4 +226,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-tool-rect-select.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-tool-rect-select.html#tool-rect-select-options)
