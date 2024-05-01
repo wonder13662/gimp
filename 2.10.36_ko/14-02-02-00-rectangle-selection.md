@@ -38,9 +38,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 14.2.2.1. 도구 활성화하기(Activating the tools)](./14-02-02-01-activating_the_tool.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 14.2.1.2. 옵션(Options)](./14-02-01-02-options.md)
 
 [⬆️ 위: 14.2. 선택 도구(Selection tools)](./14-02-00-selection-tools.md)
 
