@@ -73,12 +73,12 @@
 
 <a id="90-04-01-03-a161"></a>
 
-#### 그림 90.4.1.3.a161. 사각 선택 - 도구 옵션 - 강조 (Windows) (우리말)
+#### [그림 90.4.1.3.a161. 사각 선택 - 도구 옵션 - 강조 (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a161)
 ![90-04-01-03-a161](https://github.com/wonder13662/gimp/assets/15767104/6f510a86-552c-4099-8b63-47816bf0afe1)
 
 <a id="90-04-01-03-a162"></a>
 
-#### 영상 90.4.1.3.a162. 사각 선택 - 도구 옵션 - 강조 (Windows) (우리말)
+#### [영상 90.4.1.3.a162. 사각 선택 - 도구 옵션 - 강조 (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a162)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ce2e0413-333d-488b-accb-56e01f2af887"></video>
 
 <a id="14-02-02-03-s5"></a>
