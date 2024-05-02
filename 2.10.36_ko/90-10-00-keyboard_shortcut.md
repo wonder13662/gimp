@@ -129,6 +129,90 @@
 
 [14.2.3.1. 도구 활성화하기(Activating the tools)](./14-02-03-01-activating_the_tool.md#90-10-a111)
 
+<a id="90-10-a111-01"></a>
+
+#### 영상 90.10.a111.1. 타원 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) 키를 누름
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7295065a-c665-4020-b5c0-5505421f0a58"></video>
+
+[14.2.3.2. 동작 변경키(Key modifiers) - 영상 90.10.a111.1](./14-02-03-02-key_modifiers.md#90-10-a111-01)
+
+<a id="90-10-a111-02"></a>
+
+#### 그림 90.10.a111.2. 타원 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터
+![90-10-a111-02](https://github.com/wonder13662/gimp/assets/15767104/5f2afcba-9fd4-4437-9efb-ca54d8a31ec9)
+
+[14.2.3.2. 동작 변경키(Key modifiers) - 그림 90.10.a111.2](./14-02-03-02-key_modifiers.md#90-10-a111-02)
+
+<a id="90-10-a111-03"></a>
+
+#### 그림 90.10.a111.3. 타원 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역
+![90-10-a111-03](https://github.com/wonder13662/gimp/assets/15767104/bc85b923-52b8-491a-8c8d-88186c0f9180)
+
+[14.2.3.2. 동작 변경키(Key modifiers) - 그림 90.10.a111.3](./14-02-03-02-key_modifiers.md#90-10-a111-03)
+
+<a id="90-10-a111-04"></a>
+
+#### 영상 90.10.a111.4. 선택을 만든 후에 Ctrl(⌘) 키를 누름
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40c9c123-98e9-4919-890d-e792766eaa3c"></video>
+
+[14.2.3.2. 동작 변경키(Key modifiers) - 영상 90.10.a111.4](./14-02-03-02-key_modifiers.md#90-10-a111-04)
+
+<a id="90-10-a112-01"></a>
+
+#### 영상 90.10.a112.1. 선택을 만들기 전에 Shift(⇧) 키를 누름
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/58d730c9-4403-4a29-a1c9-a28dc1cf2c5c"></video>
+
+[14.2.3.2. 동작 변경키(Key modifiers) - 영상 90.10.a112.1](./14-02-03-02-key_modifiers.md#90-10-a112-01)
+
+<a id="90-10-a112-02"></a>
+
+#### 그림 90.10.a112.2. 타원 선택 도구 - 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터
+![90-10-a112-02](https://github.com/wonder13662/gimp/assets/15767104/b56d1932-98d1-4765-be60-fe3d30d6a102)
+
+[14.2.3.2. 동작 변경키(Key modifiers) - 그림 90.10.a112.2](./14-02-03-02-key_modifiers.md#90-10-a112-02)
+
+<a id="90-10-a112-03"></a>
+
+#### 그림 90.10.a112.3. 타원 선택 도구 - 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역
+![90-10-a112-03](https://github.com/wonder13662/gimp/assets/15767104/039a1cdf-ca77-4d09-9cb6-baaaa5f9cf04)
+
+[14.2.3.2. 동작 변경키(Key modifiers) - 그림 90.10.a112.3](./14-02-03-02-key_modifiers.md#90-10-a112-03)
+
+<a id="90-10-a112-04"></a>
+
+#### 영상 90.10.a112.4. 선택을 만든 후에 Shift(⇧) 키를 누름
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/06a056a6-7ecd-41cc-8093-928ab24f0787"></video>
+
+[14.2.3.2. 동작 변경키(Key modifiers) - 영상 90.10.a112.4](./14-02-03-02-key_modifiers.md#90-10-a112-04)
+
+<a id="90-10-a113-01"></a>
+
+#### 영상 90.10.a113.1. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8f4d2e43-8a60-41bf-8b71-51b77e526223"></video>
+
+[14.2.3.2. 동작 변경키(Key modifiers) - 영상 90.10.a113.1](./14-02-03-02-key_modifiers.md#90-10-a113-01)
+
+<a id="90-10-a113-02"></a>
+
+#### 그림 90.10.a113.2. 타원 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름 - 마우스 포인터
+![90-10-a113-02](https://github.com/wonder13662/gimp/assets/15767104/886095e4-f593-431d-bf3d-2f51b98b93e4)
+
+[14.2.3.2. 동작 변경키(Key modifiers) - 그림 90.10.a113.2](./14-02-03-02-key_modifiers.md#90-10-a113-02)
+
+<a id="90-10-a113-03"></a>
+
+#### 그림 90.10.a113.3. 타원 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역
+![90-10-a113-03](https://github.com/wonder13662/gimp/assets/15767104/dd15a86f-22ac-421a-9141-e4ff2753605c)
+
+[14.2.3.2. 동작 변경키(Key modifiers) - 그림 90.10.a113.3](./14-02-03-02-key_modifiers.md#90-10-a113-03)
+
+<a id="90-10-a113-04"></a>
+
+#### 영상 90.10.a113.4. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/74cea726-972f-47cd-9fba-4ccfa590d7af"></video>
+
+[14.2.3.2. 동작 변경키(Key modifiers) - 영상 90.10.a113.4](./14-02-03-02-key_modifiers.md#90-10-a113-04)
+
 <a id="90-10-a901-01"></a>
 
 #### 영상 90.10.a901.1. Alt(⌥) + 마우스 휠: 도구 옵션의 불투명도(Opacity) 조절
