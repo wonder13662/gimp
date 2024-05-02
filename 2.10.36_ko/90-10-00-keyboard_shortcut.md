@@ -122,7 +122,12 @@
 
 [14.2.1.1. 동작 변경키(Key modifiers) - 영상 90.10.a106.2](./14-02-01-01-key_modifiers.md#90-10-a106-02)
 
-<a id="14-02-01-01-s5-02"></a>
+<a id="90-10-a111"></a>
+
+#### 영상 90.10.a111. 타원 선택 도구 - 키보드 단축키 `E`
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cc9bd585-91d3-48e7-863d-f566e496a1f6"></video>
+
+[14.2.3.1. 도구 활성화하기(Activating the tools)](./14-02-03-01-activating_the_tool.md#90-10-a111)
 
 <a id="90-10-a901-01"></a>
 

@@ -19,7 +19,7 @@
 ## [16.3.17. Fill with pattern](./16-03-17-fill-with-pattern.md)
 ## [16.3.18. Fill selection outline](./16-03-18-fill-selection-outline.md)
 ## [16.3.19. Fill path](./16-03-19-fill-path.md)
-## [16.3.20. Stroke selection](./16-03-20-stroke-selection.md)
+## [16.3.20. 선택 영역 따라 그리기(Stroke selection)](./16-03-20-stroke-selection.md)
 ## [16.3.21. Stroke path](./16-03-21-stroke-path.md)
 ## [16.3.22. Preference](./16-03-22-preference.md)
 ## [16.3.23. Input devices](./16-03-23-input-devices.md)

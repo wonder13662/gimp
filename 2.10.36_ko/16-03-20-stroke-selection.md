@@ -1,4 +1,4 @@
-# 16.3.20. Stroke selection
+# 16.3.20. 선택 영역 따라 그리기(Stroke selection)
 
 ### [Home](./00-home.md)
 ### [Parent: 16.3. The edit menu](./16-03-00-the-edit-menu.md)

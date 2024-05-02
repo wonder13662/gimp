@@ -61,7 +61,7 @@
 
 ## 관련 정보
 
-[14.2.2.3. 도구 조작(Tool manipulation)](./14-02-02-03-tool_manipulation.md)
+[14.2.2.3. 도구 사용(Tool manipulation)](./14-02-02-03-tool_manipulation.md)
 
 ***
 

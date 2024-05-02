@@ -985,11 +985,21 @@
 
 [14.2.2.2. 동작 변경키(Key modifiers)](./14-02-02-02-key_modifiers.md)
 
-[14.2.2.3. 도구 조작(Tool manipulation)](./14-02-02-03-tool_manipulation.md)
+[14.2.2.3. 도구 사용(Tool manipulation)](./14-02-02-03-tool_manipulation.md)
 
 [14.2.2.4. 도구 옵션(Tool Options)](./14-02-02-04-tool_options.md)
 
-[14.2.3. 타원 선택 도구(Ellipse selection)](./14-02-03-ellipse-selection.md)
+[14.2.3. 타원 선택 도구(Ellipse selection)](./14-02-03-00-ellipse-selection.md)
+
+[14.2.3.1. 도구 활성화하기(Activating the tools)](./14-02-03-01-activating_the_tool.md)
+
+[14.2.3.2. 동작 변경키(Key modifiers)](./14-02-03-02-key_modifiers.md)
+
+[14.2.3.3. 도구 사용(Tool manipulation)](./14-02-03-03-tool_manipulation.md)
+
+[14.2.3.4. 도구 옵션(Tool Options)](./14-02-03-04-tool_options.md)
+
+[14.2.3.5. 타원 그리기(Draw ellipse)](./14-02-03-05-draw_ellipse.md)
 
 [14.2.4. 자유 선택 도구(올가미) - Free selection (lasso)](./14-02-04-free-selection-lasso.md)
 

@@ -52,7 +52,7 @@
 
 [7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a111](./07-02-01-00-moving-or-resizing-a-selection.md#90-03-02-03-a111)
 
-[14.2.2.3. 도구 조작(Tool manipulation) - 영상 90.3.2.3.a111](./14-02-02-03-tool_manipulation.md#90-03-02-03-a111)
+[14.2.2.3. 도구 사용(Tool manipulation) - 영상 90.3.2.3.a111](./14-02-02-03-tool_manipulation.md#90-03-02-03-a111)
 
 <a id="90-03-02-03-a112"></a>
 
@@ -70,7 +70,7 @@
 
 [7.2.1. 선택 옮기기와 크기 조정하기 - 영상 90.3.2.3.a113](./07-02-01-00-moving-or-resizing-a-selection.md#90-03-02-03-a113)
 
-[14.2.2.3. 도구 조작(Tool manipulation) - 영상 90.3.2.3.a113](./14-02-02-03-tool_manipulation.md#90-03-02-03-a113)
+[14.2.2.3. 도구 사용(Tool manipulation) - 영상 90.3.2.3.a113](./14-02-02-03-tool_manipulation.md#90-03-02-03-a113)
 
 <a id="90-03-02-03-a114"></a>
 
@@ -86,7 +86,7 @@
 
 [7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a121](./07-02-01-01-01-moving_and_resizing_the_selection_outline.md#90-03-02-03-a121)
 
-[14.2.2.3. 도구 조작(Tool manipulation) - 영상 90.3.2.3.a121](./14-02-02-03-tool_manipulation.md#90-03-02-03-a121)
+[14.2.2.3. 도구 사용(Tool manipulation) - 영상 90.3.2.3.a121](./14-02-02-03-tool_manipulation.md#90-03-02-03-a121)
 
 <a id="90-03-02-03-a122"></a>
 
@@ -102,7 +102,7 @@
 
 [7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a123](./07-02-01-01-01-moving_and_resizing_the_selection_outline.md#90-03-02-03-a123)
 
-[14.2.2.3. 도구 조작(Tool manipulation) - 영상 90.3.2.3.a123](./14-02-02-03-tool_manipulation.md#90-03-02-03-a123)
+[14.2.2.3. 도구 사용(Tool manipulation) - 영상 90.3.2.3.a123](./14-02-02-03-tool_manipulation.md#90-03-02-03-a123)
 
 <a id="90-03-02-03-a124"></a>
 
@@ -118,7 +118,7 @@
 
 [7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a125](./07-02-01-01-01-moving_and_resizing_the_selection_outline.md#90-03-02-03-a125)
 
-[14.2.2.3. 도구 조작(Tool manipulation) - 영상 90.3.2.3.a125](./14-02-02-03-tool_manipulation.md#90-03-02-03-a125)
+[14.2.2.3. 도구 사용(Tool manipulation) - 영상 90.3.2.3.a125](./14-02-02-03-tool_manipulation.md#90-03-02-03-a125)
 
 <a id="90-03-02-03-a126"></a>
 
@@ -135,7 +135,7 @@
 [7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기 - 영상 90.3.2.3.a127](./07-02-01-01-01-moving_and_resizing_the_selection_outline.md#90-03-02-03-a127)
 
 
-[14.2.2.3. 도구 조작(Tool manipulation) - 영상 90.3.2.3.a127](./14-02-02-03-tool_manipulation.md#90-03-02-03-a127)
+[14.2.2.3. 도구 사용(Tool manipulation) - 영상 90.3.2.3.a127](./14-02-02-03-tool_manipulation.md#90-03-02-03-a127)
 <a id="90-03-02-03-a128"></a>
 
 #### 영상 90.3.2.3.a128. 선택 `핸들 모드`로 키보드로 25픽셀씩 크기 바꿈 (Mac)

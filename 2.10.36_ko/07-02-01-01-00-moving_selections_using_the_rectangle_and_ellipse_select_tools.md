@@ -1,5 +1,5 @@
 # 7.2.1.1. 사각 선택 도구와 타원 선택 도구를 사용해서 선택 옮기기
-앞서 이야기했듯이, [사각 선택](./14-02-02-00-rectangle-selection.md)과 [타원 선택](./14-02-03-ellipse-selection.md) 도구는 기본적으로 핸들이 있는 선택([핸들모드](./19-glossaryx-selection_mode-handle_mode.md))입니다. 선택의 위치와 크기를 바꿀 수 있고, 선택에 포함된 레이어의 콘텐츠도 함께 움직일 수 있습니다.
+앞서 이야기했듯이, [사각 선택](./14-02-02-00-rectangle-selection.md)과 [타원 선택](./14-02-03-00-ellipse-selection.md) 도구는 기본적으로 핸들이 있는 선택([핸들모드](./19-glossaryx-selection_mode-handle_mode.md))입니다. 선택의 위치와 크기를 바꿀 수 있고, 선택에 포함된 레이어의 콘텐츠도 함께 움직일 수 있습니다.
 
 ## 하위 페이지
 

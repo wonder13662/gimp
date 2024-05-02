@@ -887,7 +887,7 @@ module.exports = {
         '14.2.2. 사각 선택 도구(Rectangle selection)'
       ],
       [
-        '14-02-03-ellipse-selection.md', 
+        '14-02-03-00-ellipse-selection.md', 
         '14.2.3. 타원 선택 도구(Ellipse selection)'
       ],
       [
@@ -1430,7 +1430,7 @@ module.exports = {
       ],
       [
         '16-03-20-stroke-selection.md', 
-        '16.3.20. Stroke selection'
+        '16.3.20. 선택 영역 따라 그리기(Stroke selection)'
       ],
       [
         '16-03-21-stroke-path.md', 

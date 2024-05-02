@@ -117,7 +117,7 @@
 ## 9. 강조(Highlight)
 `강조(Highlight)` 옵션을 활성화하면, 선택 영역의 바깥쪽이 마스크 처리되어서 선택 영역이 강조되어 훨씬 구분하기 쉬워집니다.
 
-[관련 정보: 14.2.2.3. 도구 조작(Tool manipulation) - 4. 선택 영역의 하이라이트 사용하기](./14-02-02-03-tool_manipulation.md#14-02-02-03-s4)
+[관련 정보: 14.2.2.3. 도구 사용(Tool manipulation) - 4. 선택 영역의 하이라이트 사용하기](./14-02-02-03-tool_manipulation.md#14-02-02-03-s4)
 
 <a id="90-04-01-03-a162"></a>
 
@@ -214,9 +214,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.2.3. 타원 선택 도구(Ellipse selection)](./14-02-03-ellipse-selection.md)
+[➡️ 다음: 14.2.3. 타원 선택 도구(Ellipse selection)](./14-02-03-00-ellipse-selection.md)
 
-[⬅️ 이전: 14.2.2.3. 도구 조작(Tool manipulation)](./14-02-02-03-tool_manipulation.md)
+[⬅️ 이전: 14.2.2.3. 도구 사용(Tool manipulation)](./14-02-02-03-tool_manipulation.md)
 
 [⬆️ 위: 14.2.2. 사각 선택 도구(Rectangle selection)](./14-02-02-00-rectangle-selection.md)
 

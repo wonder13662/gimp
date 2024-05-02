@@ -93,7 +93,7 @@ Shift(⇧)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.2.2.3. 도구 조작(Tool manipulation)](./14-02-02-03-tool_manipulation.md)
+[➡️ 다음: 14.2.2.3. 도구 사용(Tool manipulation)](./14-02-02-03-tool_manipulation.md)
 
 [⬅️ 이전: 14.2.2.1. 도구 활성화하기(Activating the tools)](./14-02-02-01-activating_the_tool.md)
 

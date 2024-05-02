@@ -30,7 +30,7 @@
 
 [14.2.2.2. 동작 변경키(Key modifiers)](./14-02-02-02-key_modifiers.md)
 
-[14.2.2.3. 도구 조작(Tool manipulation)](./14-02-02-03-tool_manipulation.md)
+[14.2.2.3. 도구 사용(Tool manipulation)](./14-02-02-03-tool_manipulation.md)
 
 [14.2.2.4. 도구 옵션(Tool Options)](./14-02-02-04-tool_options.md)
 

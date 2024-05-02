@@ -1,4 +1,4 @@
-# 14.2.2.3. 도구 조작(Tool manipulation)
+# 14.2.2.3. 도구 사용(Tool manipulation)
 
 <a id="14-02-02-03-s1"></a>
 
