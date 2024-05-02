@@ -21,6 +21,20 @@
 
 [14.2.3.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.4.a3](./14-02-03-01-activating_the_tool.md#90-03-02-04-a3)
 
+<a id="90-03-02-04-a11"></a>
+
+#### 영상 90.3.2.4.a11. `도구상자` → `타원 선택`: 타원 선택 도구와 채우기 도구로 원이나 타원 그리기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9235f139-37f0-4e81-bf30-d5db22e825ed"></video>
+
+[14.2.3.5. 타원 그리기(Draw ellipse) - 영상 90.3.2.4.a11](./14-02-03-05-draw_ellipse.md#90-03-02-04-a11)
+
+<a id="90-03-02-04-a12"></a>
+
+#### 영상 90.3.2.4.a12. `도구상자` → `타원 선택`: 선택 영역 따라 그리기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f02c8f80-ff6f-465b-bdb2-50ac30aa719f"></video>
+
+[14.2.3.5. 타원 그리기(Draw ellipse) - 영상 90.3.2.4.a12](./14-02-03-05-draw_ellipse.md#90-03-02-04-a12)
+
 ***
 
 ## 관련 정보
