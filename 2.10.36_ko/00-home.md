@@ -1001,7 +1001,7 @@
 
 [14.2.3.5. 타원 그리기(Draw ellipse)](./14-02-03-05-draw_ellipse.md)
 
-[14.2.4. 자유 선택 도구(올가미) - Free selection (lasso)](./14-02-04-free-selection-lasso.md)
+[14.2.4. 자유 선택 도구(올가미) - Free selection (lasso)](./14-02-04-00-free-selection-lasso.md)
 
 [14.2.5. 퍼지 선택 (마법 지팡이) - Fuzzy selection (magic wand)](./14-02-05-fuzzy-selection-magic-wand.md)
 

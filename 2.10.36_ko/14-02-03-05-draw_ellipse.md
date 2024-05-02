@@ -68,7 +68,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.2.4. 자유 선택 도구(올가미) - Free selection (lasso)](./14-02-04-free-selection-lasso.md)
+[➡️ 다음: 14.2.4. 자유 선택 도구(올가미) - Free selection (lasso)](./14-02-04-00-free-selection-lasso.md)
 
 [⬅️ 이전: 14.2.3.4. 도구 옵션(Tool Options)](./14-02-03-04-tool_options.md)
 

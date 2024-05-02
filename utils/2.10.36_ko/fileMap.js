@@ -891,7 +891,7 @@ module.exports = {
         '14.2.3. 타원 선택 도구(Ellipse selection)'
       ],
       [
-        '14-02-04-free-selection-lasso.md', 
+        '14-02-04-00-free-selection-lasso.md', 
         '14.2.4. 자유 선택 도구(올가미) - Free selection (lasso)',
         '14.2.4. 자유 선택 도구(올가미)'
       ],
@@ -1114,7 +1114,7 @@ module.exports = {
       ],
       [
         '15-02-02-00-channel-dialog.md',
-        '15.2.2. Channel dialog',
+        '15.2.2. 채널 대화상자(Channel dialog)',
         '15.2.2. 채널 대화상자'
       ],
       [
