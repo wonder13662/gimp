@@ -4,6 +4,12 @@
 
 ***
 
+## 관련 정보
+
+[90.3.2.4. 도구 아이콘(Tool icon) - 타원 선택(Ellipse select)](./90-03-02-04-ellipse_select.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.4.1.5. 자유 선택(Free Select)](./90-04-01-05-free_select.md)
