@@ -111,4 +111,4 @@ Shift(⇧)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-tools.html#gimp-tool-options-dialog)
+[원문](https://docs.gimp.org/2.10/ko/gimp-tool-ellipse-select.html#idm11002)
