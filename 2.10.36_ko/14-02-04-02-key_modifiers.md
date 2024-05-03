@@ -5,7 +5,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.2.4.3. 자유 선택 도구(올가미) - Free selection (lasso)](./14-02-04-03-tool_manipulation.md)
+[➡️ 다음: 14.2.4.3. 도구 사용(Tool manipulation)](./14-02-04-03-tool_manipulation.md)
 
 [⬅️ 이전: 14.2.4.1. 도구 활성화하기(Activating the tools)](./14-02-04-01-activating_the_tool.md)
 
@@ -17,4 +17,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-tool-free-select.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-tool-free-select.html#idm11135)

@@ -123,7 +123,7 @@ Ctrl(⌘) 키를 누르고 마우스 포인터를 이동하면, 그어지는 선
 
 [14.2.4.2. 동작 변경키(Key modifiers)](./14-02-04-02-key_modifiers.md)
 
-[14.2.4.3. 자유 선택 도구(올가미) - Free selection (lasso)](./14-02-04-03-tool_manipulation.md)
+[14.2.4.3. 도구 사용(Tool manipulation)](./14-02-04-03-tool_manipulation.md)
 
 [14.2.4.4. 도구 옵션(Tool Options)](./14-02-04-04-tool_options.md)
 
