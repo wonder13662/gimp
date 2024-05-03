@@ -220,6 +220,13 @@
 
 [14.2.4.1. 도구 활성화하기(Activating the tools) - 영상 90.10.a121](./14-02-04-01-activating_the_tool.md#90-10-a121)
 
+<a id="90-10-a131"></a>
+
+#### 영상 90.10.a131. 퍼지 선택 도구 - 키보드 단축키 `U`
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0686e204-36e5-436e-a18f-d855b36afa3f"></video>
+
+[14.2.5.1. 도구 활성화하기(Activating the tools) - 영상 90.10.a131](./14-02-05-01-activating_the_tool.md#90-10-a131)
+
 <a id="90-10-a901-01"></a>
 
 #### 영상 90.10.a901.1. Alt(⌥) + 마우스 휠: 도구 옵션의 불투명도(Opacity) 조절

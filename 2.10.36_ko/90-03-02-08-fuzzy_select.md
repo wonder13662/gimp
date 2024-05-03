@@ -15,6 +15,8 @@
 
 [7.1.2. 부분적으로 투명한 선택 만들기 - 그림 90.3.2.8.a2](./07-01-02-making_a_selection_partially_transparent.md#90-03-02-08-a2)
 
+[14.2.5.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.8.a2](./14-02-05-01-activating_the_tool.md#90-03-02-08-a2)
+
 <a id="90-03-02-08-a101"></a>
 
 #### 영상 90.3.2.8.a101. 이미지 안의 배경 영역 선택
@@ -23,6 +25,8 @@
 [7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.3.2.8.a101](./07-01-02-making_a_selection_partially_transparent.md#90-03-02-08-a101)
 
 [14.2.5. 퍼지 선택(마법 지팡이) - Fuzzy selection(magic wand) - 영상 90.3.2.8.a101](./14-02-05-00-fuzzy-selection-magic-wand.md#90-03-02-08-a101)
+
+[14.2.5.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.8.a101](./14-02-05-01-activating_the_tool.md#90-03-02-08-a101)
 
 <a id="90-03-02-08-a111"></a>
 

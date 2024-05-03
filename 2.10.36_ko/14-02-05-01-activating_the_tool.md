@@ -15,7 +15,22 @@
 
 ## 2. 도구 상자에서 `퍼지 선택` 클릭
 
+<a id="90-03-02-08-a2"></a>
+
+#### [그림 90.3.2.8.a2. 도구상자 - 퍼지 선택](./90-03-02-08-fuzzy_select.md#90-03-02-08-a2)
+![90-03-02-08-a2](https://github.com/wonder13662/gimp/assets/15767104/9f2fad3e-18f9-43ea-a3ba-a9cb736bc1d5)
+
+<a id="90-03-02-08-a101"></a>
+
+#### [영상 90.3.2.8.a101. 이미지 안의 배경 영역 선택](./90-03-02-08-fuzzy_select.md#90-03-02-08-a101)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5bdf065c-08c3-4e6d-b7db-b32c8d9f36aa"></video>
+
 ## 3. 키보드 단축키 `U`
+
+<a id="90-10-a131"></a>
+
+#### [영상 90.10.a131. 퍼지 선택 도구 - 키보드 단축키 `U`](./90-10-00-keyboard_shortcut.md#90-10-a131)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0686e204-36e5-436e-a18f-d855b36afa3f"></video>
 
 ***
 
