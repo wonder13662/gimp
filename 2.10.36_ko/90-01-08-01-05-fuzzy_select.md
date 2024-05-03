@@ -1,6 +1,23 @@
 # 90.1.8.1.5. 퍼지 선택(Fuzzy Select)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+<a id="90-01-08-01-05-a1"></a>
+
+#### 그림 90.1.8.1.5.a1. `도구` → `선택도구` → `퍼지 선택` (Windows)
+![90-01-08-toolsx-01-selection_tools(windows)(1080)-focus-fuzzy_select](https://github.com/wonder13662/gimp/assets/15767104/14cd5243-74b1-4b70-91c1-1eb477a7ba6c)
+
+[14.2.5.1. 도구 활성화하기(Activating the tools) - 그림 90.1.8.1.5.a1](./14-02-05-01-activating_the_tool.md#90-01-08-01-05-a1)
+
+<a id="90-01-08-01-05-a2"></a>
+
+#### 그림 90.1.8.1.5.a2. `도구` → `선택도구` → `퍼지 선택` (Mac)
+![90-01-08-toolsx-01-selection_tools(mac)(1080)-focus-fuzzy_select](https://github.com/wonder13662/gimp/assets/15767104/ed08b1eb-3314-418a-bd4e-a35ef1146338)
+
+<a id="90-01-08-01-05-a11"></a>
+
+#### 영상 90.1.8.1.5.a11. `도구` → `선택도구` → `퍼지 선택` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3eccbf37-fbfd-44df-a9f4-79f26a827382"></video>
+
+[14.2.5.1. 도구 활성화하기(Activating the tools) - 영상 90.1.8.1.5.a11](./14-02-05-01-activating_the_tool.md#90-01-08-01-05-a11)
 
 ***
 
