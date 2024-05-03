@@ -4,22 +4,40 @@
 ## 1. 자유 선택 만드는 방법
 `자유 선택 도구(올가미)`는 두가지 방법으로 만들 수 있습니다.
 
+[관련 정보: 3.4.10. 원하는 개체만 선택하여 분리하기 - 1-1. 자유 선택 도구(올가미)](./03-04-10-separating-an-object-from-its-background.md#03-04-10-s1-01)
+
 ### 1-1. 자유롭게 그리기(Free hand segment)
-First create the starting point by clicking on your image. Then:
+이미지 위의 한 지점을 클릭합니다. 그리고 클릭한 뒤에 마우스 버튼을 계속 누른 채로 드래그하여 자유 선택을 그립니다. 시작점에 도착하면, 마우스 버튼을 놓아서 선택을 닫습니다.
 
-Keep the mouse button pressed (i.e click-and-drag), drag to draw a freehand selection. When the end point is on top of the starting point, release the mouse button to close the selection.
+<a id="90-03-02-05-a101"></a>
 
-If you click on the end point, it turns accompanied by a moving cross. Then, dragging enlarges the shape.
+#### [영상 90.3.2.5.a101. 자유 선택 도구(올가미) 사용하기 - 자유롭게 그리기](./90-03-02-05-free_select.md#90-03-02-05-a101)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fa4089d6-4cff-4b95-9a37-b38ce28e642a"></video>
 
 ### 1-2. 다각형으로 그리기(Polygonal segment)
-Or release the mouse button and drag to draw a polygonal selection. When the end point is on top of the starting point, click to close the selection.
+이미지 위의 한 지점을 클릭합니다. 그리고 마우스 버튼을 놓습니다. 이후 다른 지점을 클릭하면서, 다각형 선택을 만듭니다. 시작점을 클릭해 닫힌 선택을 선택을 만듭니다.
 
-Press the Ctrl key and click on the end point: moving the mouse pointer forces moving angles to 15 degrees; so, you can draw horizontal or vertical lines easily.
+<a id="90-03-02-05-a102"></a>
 
-In both cases, double clicking on the end point closes the selection with a straight line.
+#### [영상 90.3.2.5.a102. 자유 선택 도구(올가미) 사용하기 - 다각형으로 그리기](./90-03-02-05-free_select.md#90-03-02-05-a102)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/65c479b4-d623-434a-a094-f5b8283e9e1a"></video>
 
-## 1-3. 자유롭게 그리기와 다각형으로 그리기 섞어 쓰기
-Pressing and releasing the mouse pointer allows you to mix free hand segment and polygonal segments. You can go outside the edge of the image display and come back in if you want to.
+Ctrl(⌘) 키를 누르고 마우스 포인터를 이동하면, 그어지는 선의 각도가 15도씩 움직이도록 제한합니다. 이 방법으로 수직, 수평선을 쉽게 그릴 수 있습니다.
+
+<a id="90-03-02-05-a102-01"></a>
+
+#### [영상 90.3.2.5.a102.1. 자유 선택 도구(올가미) 사용하기 - 다각형으로 그리기 - 15도 회전 제한](./90-03-02-05-free_select.md#90-03-02-05-a102-01)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0dbba48e-5423-4f5b-a1d5-cd4d40e95d73"></video>
+
+### 1-3. 끝점을 더블클릭해서 선택 닫기
+`자유롭게 그리기(Free hand segment)`와 `다각형으로 그리기(Polygonal segment)`에서 닫히지 않은 자유 선택의 마지막 점을 더블 클릭하면, 시작점과 마지막 점이 직선으로 연결되며, 자유 선택이 닫힙니다.
+
+### 1-4. 자유롭게 그리기와 다각형으로 그리기 섞어 쓰기
+자유 선택을 그릴 때, 클릭과 드래그, 드롭을 섞어쓰면 `자유롭게 그리기(Free hand segment)`와 `다각형으로 그리기(Polygonal segment)`를 함께 그릴 수 있습니다.
+
+마우스 커서가 이미지 창 바깥으로 나갔을 경우, 다시 이미지 창 안쪽으로 들어오면 언제든지 다시 자유 선택을 그릴 수 있습니다.
+
+시작점과 다른 점이 분리되어 있는 경우, 다른 점을 클릭, 드래그하면, 자유 선택의 크기를 확대/축소할 수 있습니다.
 
 ## 2. 자유 선택 되돌리기
 In polygonal mode, this selection is a preliminary selection; ants are marching, but the small yellow circle is still present: you can copy the selection and, pressing the Backspace key, you return to the previous selection step (re-open the shape), and you can edit the selection 
@@ -29,6 +47,12 @@ Press Enter or double click inside the shape to validate the selection.
 
 ## 4. 언제 자유 선택 도구를 쓰나요?
 The Lasso is often a good tool to use of "roughing in" a selection; it is not so good for precise definition. Experienced users find that it is often convenient to begin with the lasso tool, but then swith to [15.2.2. 채널 대화상자(Channel dialog) - 퀵 마스크](./15-02-02-00-channel-dialog.md) mode for detail work.
+
+***
+
+## 관련 정보
+
+[관련 정보: 3.4.10. 원하는 개체만 선택하여 분리하기 - 1-1. 자유 선택 도구(올가미)](./03-04-10-separating-an-object-from-its-background.md#03-04-10-s1-01)
 
 ***
 

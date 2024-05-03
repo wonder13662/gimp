@@ -17,12 +17,23 @@
 
 [3.4.10. 원하는 개체만 선택하여 분리하기 - 영상 90.3.2.5.a101](./03-04-10-separating-an-object-from-its-background.md#90-03-02-05-a101)
 
+[14.2.4. 자유 선택 도구(올가미) - Free selection (lasso) - 영상 90.3.2.5.a101](./14-02-04-00-free-selection-lasso.md#90-03-02-05-a101)
+
 <a id="90-03-02-05-a102"></a>
 
-#### 영상 90.3.2.5.a102. 자유 선택 도구(올가미) 사용하기 - 직선으로 그리기
+#### 영상 90.3.2.5.a102. 자유 선택 도구(올가미) 사용하기 - 다각형으로 그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/65c479b4-d623-434a-a094-f5b8283e9e1a"></video>
 
 [3.4.10. 원하는 개체만 선택하여 분리하기 - 영상 90.3.2.5.a102](./03-04-10-separating-an-object-from-its-background.md#90-03-02-05-a102)
+
+[14.2.4. 자유 선택 도구(올가미) - Free selection (lasso) - 영상 90.3.2.5.a102](./14-02-04-00-free-selection-lasso.md#90-03-02-05-a102)
+
+<a id="90-03-02-05-a102-01"></a>
+
+#### 영상 90.3.2.5.a102.1. 자유 선택 도구(올가미) 사용하기 - 다각형으로 그리기 - 15도 회전 제한
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0dbba48e-5423-4f5b-a1d5-cd4d40e95d73"></video>
+
+[14.2.4. 자유 선택 도구(올가미) - Free selection (lasso) - 영상 90.3.2.5.a102.1](./14-02-04-00-free-selection-lasso.md#90-03-02-05-a102-01)
 
 <a id="90-03-02-05-a111"></a>
 
