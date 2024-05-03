@@ -60,19 +60,60 @@ Ctrl(⌘) 키를 누르고 마우스 포인터를 이동하면, 그어지는 선
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1961cf9e-cc36-4b45-a60b-0ff5e5e6c830"></video>
 
 ## 2. 자유 선택 되돌리기
-In polygonal mode, this selection is a preliminary selection; ants are marching, but the small yellow circle is still present: you can copy the selection and, pressing the Backspace key, you return to the previous selection step (re-open the shape), and you can edit the selection 
+`다각형으로 그리기(Polygonal segment)` 모드에서 만든 선택은 예비 선택(행진하는 개미)입니다. 아직 작은 노란 원이 보이는 상태입니다. 
+
+이 상태에서 선택을 복사할 수 있습니다.
+
+<a id="90-03-02-05-a125"></a>
+
+#### [영상 90.3.2.5.a125. 예비 선택 복사 및 붙여넣기 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a125)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0bbd16c2-e4aa-4805-9880-69271840592b"></video>
+
+그리고 백 스페이스 키를 눌러서 이전 선택 단계(닫힌 선택 열린 상태로 되돌리기)로 되돌릴 수 있습니다. 그리고 선택을 수정할 수 있습니다.
+
+<a id="90-03-02-05-a126"></a>
+
+#### [영상 90.3.2.5.a126. 백 스페이스를 눌러 이전 단계로 되돌리기 및 수정 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a126)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2cac7668-9e54-4eab-8e5c-4c26873cc9d5"></video>
+
+⚠️ 주의: Ctrl(⌘) + Z 로 실행취소를 하게 되면, 자유 선택의 단계가 아닌 자유 선택 자체가 취소되게 됩니다.
+
+<a id="90-03-02-05-a127"></a>
+
+#### [영상 90.3.2.5.a127. 예비 선택을 Ctrl(⌘) + Z 로 실행취소 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a127)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/21cc5ff8-12ec-421b-84f7-73a48d675312"></video>
+
+## 3. 자유 선택 취소하기
+작업 중이던 예비 선택은 ESC 키를 눌러 취소할 수 있습니다. 이 동작은 실행 취소(Ctrl(⌘) + Z)로 되돌릴 수 없으니, 실행하기 전에 다시 한번 더 확인해주세요.
+
+<a id="90-03-02-05-a128"></a>
+
+#### [영상 90.3.2.5.a128. 자유 선택 취소하기 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a128)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/11cc6106-4480-4395-bbda-92d6425e1b4e"></video>
 
 ## 3. 자유 선택 검증하기(Validation)
-Press Enter or double click inside the shape to validate the selection.
+자유 선택을 만든 뒤 엔터키를 누르거나 마우스 포인터를 자유 선택의 안쪽에 두고 더블 클릭을 하면, 자유 선택이 선택 영역으로 바뀝니다.
+
+<a id="90-03-02-05-a129"></a>
+
+#### [영상 90.3.2.5.a129. 자유 선택 검증하기: 엔터키 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a129)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/82ee4c9d-865b-47ef-aafb-dc895ff581dc"></video>
+
+<a id="90-03-02-05-a130"></a>
+
+#### [영상 90.3.2.5.a130. 자유 선택 검증하기: 자유 선택 안에 더블클릭 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a130)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b6652178-d85c-4146-8f4c-7df4a41f6977"></video>
 
 ## 4. 언제 자유 선택 도구를 쓰나요?
-The Lasso is often a good tool to use of "roughing in" a selection; it is not so good for precise definition. Experienced users find that it is often convenient to begin with the lasso tool, but then swith to [15.2.2. 채널 대화상자(Channel dialog) - 퀵 마스크](./15-02-02-00-channel-dialog.md) mode for detail work.
+자유선택 도구는 간단하게 선택을 만드는 데 자주 사용됩니다. 하지만, 세밀한 선택을 만들기에는 적합하지 않습니다. 경험이 많은 GMIP(김프) 사용자는 자유선택 도구로 선택을 만들고, [퀵 마스크](./15-02-02-00-channel-dialog.md) 모드에서 세밀한 작업을 진행합니다.
 
 ***
 
 ## 관련 정보
 
-[관련 정보: 3.4.10. 원하는 개체만 선택하여 분리하기 - 1-1. 자유 선택 도구(올가미)](./03-04-10-separating-an-object-from-its-background.md#03-04-10-s1-01)
+[3.4.10. 원하는 개체만 선택하여 분리하기 - 1-1. 자유 선택 도구(올가미)](./03-04-10-separating-an-object-from-its-background.md#03-04-10-s1-01)
+
+[15.2.2. 채널 대화상자(Channel dialog)](./15-02-02-00-channel-dialog.md)
 
 ***
 

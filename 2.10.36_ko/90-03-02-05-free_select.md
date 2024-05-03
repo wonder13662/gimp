@@ -75,6 +75,48 @@
 
 [14.2.4. 자유 선택 도구(올가미) - Free selection (lasso) - 영상 90.3.2.5.a124](./14-02-04-00-free-selection-lasso.md#90-03-02-05-a124)
 
+<a id="90-03-02-05-a125"></a>
+
+#### 영상 90.3.2.5.a125. 예비 선택 복사 및 붙여넣기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0bbd16c2-e4aa-4805-9880-69271840592b"></video>
+
+[14.2.4. 자유 선택 도구(올가미) - Free selection (lasso) - 영상 90.3.2.5.a125](./14-02-04-00-free-selection-lasso.md#90-03-02-05-a125)
+
+<a id="90-03-02-05-a126"></a>
+
+#### 영상 90.3.2.5.a126. 백 스페이스를 눌러 이전 단계로 되돌리기 및 수정 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2cac7668-9e54-4eab-8e5c-4c26873cc9d5"></video>
+
+[14.2.4. 자유 선택 도구(올가미) - Free selection (lasso) - 영상 90.3.2.5.a126](./14-02-04-00-free-selection-lasso.md#90-03-02-05-a126)
+
+<a id="90-03-02-05-a127"></a>
+
+#### 영상 90.3.2.5.a127. 예비 선택을 Ctrl(⌘) + Z 로 실행취소 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/21cc5ff8-12ec-421b-84f7-73a48d675312"></video>
+
+[14.2.4. 자유 선택 도구(올가미) - Free selection (lasso) - 영상 90.3.2.5.a127](./14-02-04-00-free-selection-lasso.md#90-03-02-05-a127)
+
+<a id="90-03-02-05-a128"></a>
+
+#### 영상 90.3.2.5.a128. 자유 선택 취소하기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/11cc6106-4480-4395-bbda-92d6425e1b4e"></video>
+
+[14.2.4. 자유 선택 도구(올가미) - Free selection (lasso) - 영상 90.3.2.5.a128](./14-02-04-00-free-selection-lasso.md#90-03-02-05-a128)
+
+<a id="90-03-02-05-a129"></a>
+
+#### 영상 90.3.2.5.a129. 자유 선택 검증하기: 엔터키 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/82ee4c9d-865b-47ef-aafb-dc895ff581dc"></video>
+
+[14.2.4. 자유 선택 도구(올가미) - Free selection (lasso) - 영상 90.3.2.5.a129](./14-02-04-00-free-selection-lasso.md#90-03-02-05-a129)
+
+<a id="90-03-02-05-a130"></a>
+
+#### 영상 90.3.2.5.a130. 자유 선택 검증하기: 자유 선택 안에 더블클릭 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b6652178-d85c-4146-8f4c-7df4a41f6977"></video>
+
+[14.2.4. 자유 선택 도구(올가미) - Free selection (lasso) - 영상 90.3.2.5.a130](./14-02-04-00-free-selection-lasso.md#90-03-02-05-a130)
+
 ***
 
 ## 다른 페이지로 가기
