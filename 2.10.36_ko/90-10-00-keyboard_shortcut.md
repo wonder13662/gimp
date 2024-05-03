@@ -227,6 +227,27 @@
 
 [14.2.5.1. 도구 활성화하기(Activating the tools) - 영상 90.10.a131](./14-02-05-01-activating_the_tool.md#90-10-a131)
 
+<a id="90-10-a131-01"></a>
+
+#### 영상 90.10.a131.1. 퍼지 선택 도구 - 선택 영역 확대(오른쪽)/축소(왼쪽)하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0bb99679-a7a4-4ce9-b49b-039ed8f5bdbe"></video>
+
+[14.2.5.3. 도구 사용(Tool manipulation) - 영상 90.10.a131.1](./14-02-05-03-tool_manipulation.md#90-10-a131-01)
+
+<a id="90-10-a131-02"></a>
+
+#### 영상 90.10.a131.2. 퍼지 선택 도구 - 선택 영역 확대(아래쪽)/축소(위쪽)하기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8a2a054b-ea34-41e7-b8f1-96684f8873bd"></video>
+
+[14.2.5.3. 도구 사용(Tool manipulation) - 영상 90.10.a131.2](./14-02-05-03-tool_manipulation.md#90-10-a131-02)
+
+<a id="90-10-a131-03"></a>
+
+#### 영상 90.10.a131.3. 퍼지 선택 도구 - 선택 영역 옮기기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bf4655ea-f943-4ba5-9a66-03f5ea1a6cca"></video>
+
+[14.2.5.3. 도구 사용(Tool manipulation) - 영상 90.10.a131.3](./14-02-05-03-tool_manipulation.md#90-10-a131-03)
+
 <a id="90-10-a901-01"></a>
 
 #### 영상 90.10.a901.1. Alt(⌥) + 마우스 휠: 도구 옵션의 불투명도(Opacity) 조절
