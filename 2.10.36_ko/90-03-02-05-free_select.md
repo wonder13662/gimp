@@ -1,7 +1,9 @@
 # 90.3.2.5. 도구 아이콘(Tool icon) - 자유 선택(Free select)
 
+<a id="90-03-02-05-a1"></a>
+
 #### 그림 90.3.2.5.a1. 도구상자의 자유 선택의 도구옵션
-![그림 90.3.2.5.a1. 도구상자의 자유 선택의 도구옵션](https://github.com/wonder13662/gimp/assets/15767104/f4fbb26a-7a4d-48d0-982b-890aecfd3e65)
+![90-03-02-05-a1](https://github.com/wonder13662/gimp/assets/15767104/f4fbb26a-7a4d-48d0-982b-890aecfd3e65)
 
 <a id="90-03-02-05-a2"></a>
 
