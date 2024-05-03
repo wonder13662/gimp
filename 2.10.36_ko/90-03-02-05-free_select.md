@@ -42,8 +42,38 @@
 
 [7.2.1.2. 다른 선택 도구들을 옮기기 - 영상 90.3.2.5.a111](./07-02-01-02-moving_using_other_selection_tools.md#90-03-02-05-a111)
 
+<a id="90-03-02-05-a112"></a>
+
 #### 영상 90.3.2.5.a112. 자유 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Windows)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/733e479b-7354-4067-93bc-df91a86b99fd"></video>
+
+<a id="90-03-02-05-a121"></a>
+
+#### 영상 90.3.2.5.a121. 끝점을 더블클릭해서 선택 닫기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/08b3d9f3-e5b1-4fff-8b98-e9003e58f916"></video>
+
+[14.2.4. 자유 선택 도구(올가미) - Free selection (lasso) - 영상 90.3.2.5.a121](./14-02-04-00-free-selection-lasso.md#90-03-02-05-a121)
+
+<a id="90-03-02-05-a122"></a>
+
+#### 영상 90.3.2.5.a122. 자유롭게 그리기와 다각형으로 그리기 섞어 쓰기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/640ba2ac-e74a-4ab6-a49e-6dfc960e2fba"></video>
+
+[14.2.4. 자유 선택 도구(올가미) - Free selection (lasso) - 영상 90.3.2.5.a122](./14-02-04-00-free-selection-lasso.md#90-03-02-05-a122)
+
+<a id="90-03-02-05-a123"></a>
+
+#### 영상 90.3.2.5.a123. 자유 선택을 중단한 뒤에 이어서 그리기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7bf5a406-b8e6-469c-b66f-f0718e017966"></video>
+
+[14.2.4. 자유 선택 도구(올가미) - Free selection (lasso) - 영상 90.3.2.5.a123](./14-02-04-00-free-selection-lasso.md#90-03-02-05-a123)
+
+<a id="90-03-02-05-a124"></a>
+
+#### 영상 90.3.2.5.a124. 자유 선택의 크기를 확대/축소 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1961cf9e-cc36-4b45-a60b-0ff5e5e6c830"></video>
+
+[14.2.4. 자유 선택 도구(올가미) - Free selection (lasso) - 영상 90.3.2.5.a124](./14-02-04-00-free-selection-lasso.md#90-03-02-05-a124)
 
 ***
 

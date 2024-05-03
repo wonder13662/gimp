@@ -32,12 +32,32 @@ Ctrl(⌘) 키를 누르고 마우스 포인터를 이동하면, 그어지는 선
 ### 1-3. 끝점을 더블클릭해서 선택 닫기
 `자유롭게 그리기(Free hand segment)`와 `다각형으로 그리기(Polygonal segment)`에서 닫히지 않은 자유 선택의 마지막 점을 더블 클릭하면, 시작점과 마지막 점이 직선으로 연결되며, 자유 선택이 닫힙니다.
 
+<a id="90-03-02-05-a121"></a>
+
+#### [영상 90.3.2.5.a121. 끝점을 더블클릭해서 선택 닫기 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a121)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/08b3d9f3-e5b1-4fff-8b98-e9003e58f916"></video>
+
 ### 1-4. 자유롭게 그리기와 다각형으로 그리기 섞어 쓰기
 자유 선택을 그릴 때, 클릭과 드래그, 드롭을 섞어쓰면 `자유롭게 그리기(Free hand segment)`와 `다각형으로 그리기(Polygonal segment)`를 함께 그릴 수 있습니다.
 
+<a id="90-03-02-05-a122"></a>
+
+#### [영상 90.3.2.5.a122. 자유롭게 그리기와 다각형으로 그리기 섞어 쓰기 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a122)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/640ba2ac-e74a-4ab6-a49e-6dfc960e2fba"></video>
+
 마우스 커서가 이미지 창 바깥으로 나갔을 경우, 다시 이미지 창 안쪽으로 들어오면 언제든지 다시 자유 선택을 그릴 수 있습니다.
 
+<a id="90-03-02-05-a123"></a>
+
+#### [영상 90.3.2.5.a123. 자유 선택을 중단한 뒤에 이어서 그리기 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a123)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7bf5a406-b8e6-469c-b66f-f0718e017966"></video>
+
 시작점과 다른 점이 분리되어 있는 경우, 다른 점을 클릭, 드래그하면, 자유 선택의 크기를 확대/축소할 수 있습니다.
+
+<a id="90-03-02-05-a124"></a>
+
+#### [영상 90.3.2.5.a124. 자유 선택의 크기를 확대/축소 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a124)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1961cf9e-cc36-4b45-a60b-0ff5e5e6c830"></video>
 
 ## 2. 자유 선택 되돌리기
 In polygonal mode, this selection is a preliminary selection; ants are marching, but the small yellow circle is still present: you can copy the selection and, pressing the Backspace key, you return to the previous selection step (re-open the shape), and you can edit the selection 
