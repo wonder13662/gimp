@@ -896,8 +896,8 @@ module.exports = {
         '14.2.4. 자유 선택 도구(올가미)'
       ],
       [
-        '14-02-05-fuzzy-selection-magic-wand.md', 
-        '14.2.5. 퍼지 선택 (마법 지팡이) - Fuzzy selection (magic wand)'
+        '14-02-05-00-fuzzy-selection-magic-wand.md', 
+        '14.2.5. 퍼지 선택(마법 지팡이) - Fuzzy selection(magic wand)'
       ],
       [
         '14-02-06-select-by-color.md', 

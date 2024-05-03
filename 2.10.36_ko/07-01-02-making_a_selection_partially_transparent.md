@@ -107,7 +107,7 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0769da7a-654a-4185-bf7d-396e69346085"></video>
 
 ### 2. 배경 영역 선택
-그리고 [퍼지 선택(Fuzzy selection)](./14-02-05-fuzzy-selection-magic-wand.md)을 사용해서 이미지 안의 배경 영역을 선택하세요.
+그리고 [퍼지 선택(Fuzzy selection)](./14-02-05-00-fuzzy-selection-magic-wand.md)을 사용해서 이미지 안의 배경 영역을 선택하세요.
 
 <a id="90-03-02-08-a2"></a>
 

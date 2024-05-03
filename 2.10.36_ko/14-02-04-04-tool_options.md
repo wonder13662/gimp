@@ -28,7 +28,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.2.5. 퍼지 선택 (마법 지팡이) - Fuzzy selection (magic wand)](./14-02-05-fuzzy-selection-magic-wand.md)
+[➡️ 다음: 14.2.5. 퍼지 선택(마법 지팡이) - Fuzzy selection(magic wand)](./14-02-05-00-fuzzy-selection-magic-wand.md)
 
 [⬅️ 이전: 14.2.4.3. 도구 사용(Tool manipulation)](./14-02-04-03-tool_manipulation.md)
 
@@ -40,4 +40,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-tool-free-select.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-tool-free-select.html#idm11150)

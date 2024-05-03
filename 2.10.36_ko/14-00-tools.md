@@ -66,7 +66,23 @@
 
 [14.2.4. 자유 선택 도구(올가미) - Free selection (lasso)](./14-02-04-00-free-selection-lasso.md)
 
-[14.2.5. 퍼지 선택 (마법 지팡이) - Fuzzy selection (magic wand)](./14-02-05-fuzzy-selection-magic-wand.md)
+[14.2.4.1. 도구 활성화하기(Activating the tools)](./14-02-04-01-activating_the_tool.md)
+
+[14.2.4.2. 동작 변경키(Key modifiers)](./14-02-04-02-key_modifiers.md)
+
+[14.2.4.3. 도구 사용(Tool manipulation)](./14-02-04-03-tool_manipulation.md)
+
+[14.2.4.4. 도구 옵션(Tool Options)](./14-02-04-04-tool_options.md)
+
+[14.2.5. 퍼지 선택(마법 지팡이) - Fuzzy selection(magic wand)](./14-02-05-00-fuzzy-selection-magic-wand.md)
+
+[14.2.5.1. 도구 활성화하기(Activating the tools)](./14-02-05-01-activating_the_tool.md)
+
+[14.2.5.2. 동작 변경키(Key modifiers)](./14-02-05-02-key_modifiers.md)
+
+[14.2.5.3. 도구 사용(Tool manipulation)](./14-02-05-03-tool_manipulation.md)
+
+[14.2.5.4. 도구 옵션(Tool Options)](./14-02-05-04-tool_options.md)
 
 [14.2.6. 색상으로 선택하기(Select by color)](./14-02-06-select-by-color.md)
 
