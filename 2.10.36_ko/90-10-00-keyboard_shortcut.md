@@ -213,6 +213,13 @@
 
 [14.2.3.2. 동작 변경키(Key modifiers) - 영상 90.10.a113.4](./14-02-03-02-key_modifiers.md#90-10-a113-04)
 
+<a id="90-10-a121"></a>
+
+#### 영상 90.10.a121. 자유 선택 도구 - 키보드 단축키 `F`
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f42fbb2b-8286-441b-8421-a08ef891a9b8"></video>
+
+[14.2.4.1. 도구 활성화하기(Activating the tools) - 영상 90.10.a121](./14-02-04-01-activating_the_tool.md#90-10-a121)
+
 <a id="90-10-a901-01"></a>
 
 #### 영상 90.10.a901.1. Alt(⌥) + 마우스 휠: 도구 옵션의 불투명도(Opacity) 조절

@@ -131,7 +131,7 @@ Ctrl(⌘) 키를 누르고 마우스 포인터를 이동하면, 그어지는 선
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 14.2.4.1. 도구 활성화하기(Activating the tools)](./14-02-04-01-activating_the_tool.md)
 
 [⬅️ 이전: 14.2.3.5. 타원 그리기(Draw ellipse)](./14-02-03-05-draw_ellipse.md)
 

@@ -5,10 +5,19 @@
 
 <a id="90-03-02-05-a2"></a>
 
-#### 그림 90.3.2.5.a2. 도구상자 - 자유 선택 도구(올가미)
+#### 그림 90.3.2.5.a2. `도구상자` → `자유 선택 도구(올가미)`
 ![90-03-02-05-a2](https://github.com/wonder13662/gimp/assets/15767104/f0d4efd4-aee4-4af4-a282-a4d2756369fa)
 
 [3.4.10. 원하는 개체만 선택하여 분리하기 - 그림 90.3.2.5.a2](./03-04-10-separating-an-object-from-its-background.md#90-03-02-05-a2)
+
+[14.2.4.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.5.a2](./14-02-04-01-activating_the_tool.md#90-03-02-05-a2)
+
+<a id="90-03-02-05-a3"></a>
+
+#### 영상 90.3.2.5.a3. `도구상자` → `자유 선택 도구(올가미)`
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ebbfc2ef-9adf-4e46-9fbf-e561d83c7d6c"></video>
+
+[14.2.4.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.5.a3](./14-02-04-01-activating_the_tool.md#90-03-02-05-a3)
 
 <a id="90-03-02-05-a101"></a>
 

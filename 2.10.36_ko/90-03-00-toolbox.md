@@ -110,7 +110,7 @@
 [![그림 90.3.4.a2. 도구상자 - 타원 선택](https://github.com/wonder13662/gimp/assets/15767104/7d0d8ae9-663d-42e3-9912-365b4df0ca49)](./90-03-02-04-ellipse_select.md)
 
 ### [90.3.2.5. 도구 아이콘(Tool icon) - 자유 선택(Free select)](./90-03-02-05-free_select.md)
-#### 그림 90.3.2.5.a2. 도구상자 - 자유 선택 도구(올가미)
+#### 그림 90.3.2.5.a2. `도구상자` → `자유 선택 도구(올가미)`
 [![그림 90.3.2.5.a2. 도구상자 - 자유 선택 도구(올가미)](https://github.com/wonder13662/gimp/assets/15767104/f0d4efd4-aee4-4af4-a282-a4d2756369fa)](./90-03-02-05-free_select.md)
 
 ### [90.3.2.6. 도구 아이콘(Tool icon) - 가위 선택(Scissors select)](./90-03-02-06-scissors_select.md)
