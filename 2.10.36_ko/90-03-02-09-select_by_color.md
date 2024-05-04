@@ -1,10 +1,16 @@
 # 90.3.2.9. 도구 아이콘(Tool icon) - 색상으로 선택(Select by color)
 
+<a id="90-03-02-09-a1"></a>
+
 #### 그림 90.3.9.a1. 도구상자의 '색상으로 선택'의 도구옵션
-<img width="1080" alt="그림 90.3.9.a1. 도구상자의 '색상으로 선택'의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/eedf4c08-3efd-45e8-8d08-a894bb22c301">
+![90-03-02-09-a1](https://github.com/wonder13662/gimp/assets/15767104/eedf4c08-3efd-45e8-8d08-a894bb22c301)
+
+<a id="90-03-02-09-a2"></a>
 
 #### 그림 90.3.9.a2. 도구상자 - '색상으로 선택'
-![그림 90.3.9.a2. 도구상자 - '색상으로 선택'](https://github.com/wonder13662/gimp/assets/15767104/9e8e22db-18f5-4690-ac6f-b49d1975a32e)
+![90-03-02-09-a2](https://github.com/wonder13662/gimp/assets/15767104/9e8e22db-18f5-4690-ac6f-b49d1975a32e)
+
+[14.2.6. 색상으로 선택하기(Select by color) - 그림 90.3.9.a2](./14-02-06-00-select-by-color.md#90-03-02-09-a2)
 
 <a id="90-03-02-09-a111"></a>
 

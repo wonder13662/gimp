@@ -900,7 +900,7 @@ module.exports = {
         '14.2.5. 퍼지 선택(마법 지팡이) - Fuzzy selection(magic wand)'
       ],
       [
-        '14-02-06-select-by-color.md', 
+        '14-02-06-00-select-by-color.md', 
         '14.2.6. 색상으로 선택하기(Select by color)'
       ],
       [

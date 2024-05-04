@@ -1021,7 +1021,15 @@
 
 [14.2.5.4. 도구 옵션(Tool Options)](./14-02-05-04-tool_options.md)
 
-[14.2.6. 색상으로 선택하기(Select by color)](./14-02-06-select-by-color.md)
+[14.2.6. 색상으로 선택하기(Select by color)](./14-02-06-00-select-by-color.md)
+
+[14.2.6.1. 도구 활성화하기(Activating the tools)](./14-02-06-01-activating_the_tool.md)
+
+[14.2.6.2. 동작 변경키(Key modifiers)](./14-02-06-02-key_modifiers.md)
+
+[14.2.6.3. 도구 사용(Tool manipulation)](./14-02-06-03-tool_manipulation.md)
+
+[14.2.6.4. 도구 옵션(Tool Options)](./14-02-06-04-tool_options.md)
 
 [14.2.7. 똑똑한 가위(Intelligent scissors)](./14-02-07-intelligent-scissors.md)
 
