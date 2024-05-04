@@ -56,6 +56,48 @@
 
 [14.2.5. 퍼지 선택(마법 지팡이) - Fuzzy selection(magic wand) - 영상 90.3.2.8.a122](./14-02-05-00-fuzzy-selection-magic-wand.md#90-03-02-08-a122)
 
+<a id="90-03-02-08-a123"></a>
+
+#### 그림 90.3.2.8.a123. `도구 옵션` → `퍼지 선택` → `대각선 이웃`: 예시
+![14-02-05-04-a1](https://github.com/wonder13662/gimp/assets/15767104/141bdc24-6620-4c37-b819-3a94aabf6521)
+
+[14.2.5.4. 도구 옵션(Tool Options) - 그림 90.3.2.8.a123](./14-02-05-04-tool_options.md#90-03-02-08-a123)
+
+<a id="90-03-02-08-a124-01"></a>
+
+#### 영상 90.3.2.8.a124.1. `도구 옵션` → `퍼지 선택` → `대각선 이웃`: 옵션 비활성화(체크 꺼짐)(Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7f27e8cd-1990-4086-b265-9103eeb64136"></video>
+
+[14.2.5.4. 도구 옵션(Tool Options) - 영상 90.3.2.8.a124.1](./14-02-05-04-tool_options.md#90-03-02-08-a124-01)
+
+<a id="90-03-02-08-a124-02"></a>
+
+#### 영상 90.3.2.8.a124.2. `도구 옵션` → `퍼지 선택` → `대각선 이웃`: 옵션 활성화(체크 켜짐) (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6ecd75f6-3186-44a3-848b-6c022a8af972"></video>
+
+[14.2.5.4. 도구 옵션(Tool Options) - 영상 90.3.2.8.a124.2](./14-02-05-04-tool_options.md#90-03-02-08-a124-02)
+
+<a id="90-03-02-08-a125-01"></a>
+
+#### 그림 90.3.2.8.a125.1. `도구 옵션` → `퍼지 선택` → `선택 기준`: 드롭다운 목록 (Windows) (우리말)
+![90-03-02-08-a125-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/62676375-e0d6-4031-9e36-5f779fd94782)
+
+[14.2.5.4. 도구 옵션(Tool Options) - 그림 90.3.2.8.a125.1](./14-02-05-04-tool_options.md#90-03-02-08-a125-01)
+
+<a id="90-03-02-08-a126-01"></a>
+
+#### 영상 90.3.2.8.a126.1. `도구 옵션` → `퍼지 선택` → `선택을 마스크 보여주기`: 옵션 활성화(체크 켜짐) (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bb292af7-9ad3-4239-a586-574040e58522"></video>
+
+[14.2.5.4. 도구 옵션(Tool Options) - 영상 90.3.2.8.a126.1](./14-02-05-04-tool_options.md#90-03-02-08-a126-01)
+
+<a id="90-03-02-08-a126-02"></a>
+
+#### 영상 90.3.2.8.a126.2. `도구 옵션` → `퍼지 선택` → `선택을 마스크 보여주기`: 옵션 비활성화(체크 꺼짐) (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4090a052-2bdc-4974-b465-1007e723fb22"></video>
+
+[14.2.5.4. 도구 옵션(Tool Options) - 영상 90.3.2.8.a126.2](./14-02-05-04-tool_options.md#90-03-02-08-a126-02)
+
 ***
 
 ## 다른 페이지로 가기

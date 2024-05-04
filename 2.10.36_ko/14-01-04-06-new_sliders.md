@@ -67,6 +67,12 @@ GEGEL 기반 필터나 도구 옵션의 슬라이더가 매우 날렵한 스타�
 
 ***
 
+## 관련 정보
+
+[14.2.5.4. 도구 옵션(Tool Options) - 7. 임계값(Threshold)](./14-02-05-04-tool_options.md#14-02-05-04-s7)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 14.1.4.7. 캔버스 위에서의 마우스 스크롤 휠 동작(Mouse Scroll-Wheel actions on canvas)](./14-01-04-07-mouse_scroll_wheel_actions_on_canvas.md)
