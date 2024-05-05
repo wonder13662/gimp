@@ -84,7 +84,7 @@
 
 [14.2.5.4. 도구 옵션(Tool Options)](./14-02-05-04-tool_options.md)
 
-[14.2.6. 색상으로 선택하기(Select by color)](./14-02-06-00-select-by-color.md)
+[14.2.6. 색상으로 선택(Select by color)](./14-02-06-00-select-by-color.md)
 
 [14.2.6.1. 도구 활성화하기(Activating the tools)](./14-02-06-01-activating_the_tool.md)
 

@@ -248,6 +248,13 @@
 
 [14.2.5.3. 도구 사용(Tool manipulation) - 영상 90.10.a131.3](./14-02-05-03-tool_manipulation.md#90-10-a131-03)
 
+<a id="90-10-a141"></a>
+
+#### 영상 90.10.a141. 색상으로 선택 도구 - 키보드 단축키 Shift(⇧) + O
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9e22bed6-f96c-42ce-9f80-72f13957a790"></video>
+
+[14.2.6.1. 도구 활성화하기(Activating the tools) - 영상 90.10.a141](./14-02-06-01-activating_the_tool.md#90-10-a141)
+
 <a id="90-10-a901-01"></a>
 
 #### 영상 90.10.a901.1. Alt(⌥) + 마우스 휠: 도구 옵션의 불투명도(Opacity) 조절

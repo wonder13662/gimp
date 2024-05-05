@@ -10,7 +10,16 @@
 #### 그림 90.3.9.a2. 도구상자 - '색상으로 선택'
 ![90-03-02-09-a2](https://github.com/wonder13662/gimp/assets/15767104/9e8e22db-18f5-4690-ac6f-b49d1975a32e)
 
-[14.2.6. 색상으로 선택하기(Select by color) - 그림 90.3.9.a2](./14-02-06-00-select-by-color.md#90-03-02-09-a2)
+[14.2.6. 색상으로 선택(Select by color) - 그림 90.3.9.a2](./14-02-06-00-select-by-color.md#90-03-02-09-a2)
+
+[14.2.6.1. 도구 활성화하기(Activating the tools) - 그림 90.3.9.a2](./14-02-06-01-activating_the_tool.md#90-03-02-09-a2)
+
+<a id="90-03-02-09-a3"></a>
+
+#### 영상 90.3.9.a3. 도구상자 - '색상으로 선택'
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/97b3f37d-f83a-4c3c-a193-f70cdd8f3ee1"></video>
+
+[14.2.6.1. 도구 활성화하기(Activating the tools) - 영상 90.3.9.a3](./14-02-06-01-activating_the_tool.md#90-03-02-09-a3)
 
 <a id="90-03-02-09-a111"></a>
 

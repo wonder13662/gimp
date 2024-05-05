@@ -8,7 +8,7 @@
 
 [⬅️ 이전: 14.2.6.2. 동작 변경키(Key modifiers)](./14-02-06-02-key_modifiers.md)
 
-[⬆️ 위: 14.2.6. 색상으로 선택하기(Select by color)](./14-02-06-00-select-by-color.md)
+[⬆️ 위: 14.2.6. 색상으로 선택(Select by color)](./14-02-06-00-select-by-color.md)
 
 [⬆️ 위: 14.2. 선택 도구(Selection tools)](./14-02-00-selection-tools.md)
 

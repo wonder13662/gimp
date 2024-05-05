@@ -901,7 +901,7 @@ module.exports = {
       ],
       [
         '14-02-06-00-select-by-color.md', 
-        '14.2.6. 색상으로 선택하기(Select by color)'
+        '14.2.6. 색상으로 선택(Select by color)'
       ],
       [
         '14-02-07-intelligent-scissors.md', 
