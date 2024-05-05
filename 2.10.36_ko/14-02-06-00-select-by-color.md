@@ -2,7 +2,7 @@
 
 <a id="90-03-02-09-a2"></a>
 
-#### [그림 90.3.9.a2. 도구상자 - '색상으로 선택'](./90-03-02-09-select_by_color.md#90-03-02-09-a2)
+#### [그림 90.3.2.9.a2. 도구상자 - '색상으로 선택'](./90-03-02-09-select_by_color.md#90-03-02-09-a2)
 ![90-03-02-09-a2](https://github.com/wonder13662/gimp/assets/15767104/9e8e22db-18f5-4690-ac6f-b49d1975a32e)
 
 `색상으로 선택(Select by color)`는 비슷한 색상을 선택합니다. [14.2.5. 퍼지 선택(마법 지팡이) - Fuzzy selection(magic wand)](./14-02-05-00-fuzzy-selection-magic-wand.md)와 상당히 비슷하게 동작합니다.

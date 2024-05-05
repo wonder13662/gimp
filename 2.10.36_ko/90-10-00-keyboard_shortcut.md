@@ -260,15 +260,21 @@
 #### 영상 90.10.a141.1. `색상으로 선택` 도구 - 선택 영역 확대(오른쪽)/축소(왼쪽)하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b4885029-0b0a-4309-98ac-214197e17e82"></video>
 
+[14.2.6.3. 도구 사용(Tool manipulation) - 영상 90.10.a141.1](./14-02-06-03-tool_manipulation.md#90-10-a141-01)
+
 <a id="90-10-a141-02"></a>
 
 #### 영상 90.10.a141.2. `색상으로 선택` 도구 - 선택 영역 확대(아래쪽)/축소(위쪽)하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/518a4abc-e3d0-413c-b391-9da93d5080e3"></video>
 
+[14.2.6.3. 도구 사용(Tool manipulation) - 영상 90.10.a141.2](./14-02-06-03-tool_manipulation.md#90-10-a141-02)
+
 <a id="90-10-a141-03"></a>
 
 #### 영상 90.10.a141.3. `색상으로 선택` - 선택 영역 옮기기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/96d9db17-d423-4889-acac-a87780e0c190"></video>
+
+[14.2.6.3. 도구 사용(Tool manipulation) - 영상 90.10.a141.3](./14-02-06-03-tool_manipulation.md#90-10-a141-03)
 
 <a id="90-10-a901-01"></a>
 

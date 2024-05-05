@@ -126,8 +126,8 @@
 [![그림 90.3.2.8.a2. 도구상자 - 퍼지 선택](https://github.com/wonder13662/gimp/assets/15767104/9f2fad3e-18f9-43ea-a3ba-a9cb736bc1d5)](./90-03-02-08-fuzzy_select.md)
 
 ### [90.3.2.9. 도구 아이콘(Tool icon) - 색상으로 선택(Select by color)](./90-03-02-09-select_by_color.md)
-#### 그림 90.3.9.a2. 도구상자 - '색상으로 선택'
-[![그림 90.3.9.a2. 도구상자 - '색상으로 선택'](https://github.com/wonder13662/gimp/assets/15767104/9e8e22db-18f5-4690-ac6f-b49d1975a32e)](./90-03-02-09-select_by_color.md)
+#### 그림 90.3.2.9.a2. 도구상자 - '색상으로 선택'
+[![그림 90.3.2.9.a2. 도구상자 - '색상으로 선택'](https://github.com/wonder13662/gimp/assets/15767104/9e8e22db-18f5-4690-ac6f-b49d1975a32e)](./90-03-02-09-select_by_color.md)
 
 ### [90.3.2.10. 도구 아이콘(Tool icon) - 잘라내기(Crop)](./90-03-02-10-crop.md)
 #### 그림 90.3.2.10.a2. 도구상자(Toolbox)의 잘라내기 메뉴 위치
