@@ -278,10 +278,24 @@
 
 <a id="90-10-a151"></a>
 
-#### 영상 90.10.a151. 똑똑한 가위 도구 - 키보드 단축키 `I`
+#### 영상 90.10.a151. `똑똑한 가위` 도구 - 키보드 단축키 `I`
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/354c5a99-6eec-4f37-b6d9-a7493a2a2f35"></video>
 
 [14.2.7.1. 도구 활성화하기(Activating the tools)](./14-02-07-01-activating_the_tool.md#90-10-a151)
+
+<a id="90-10-a151-01"></a>
+
+#### 영상 90.10.a151.1. `똑똑한 가위` 도구 - 백 스페이스(⌫) 키
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a4a2ca03-8f44-46a4-884a-50de09e25de7"></video>
+
+[14.2.7.2. 동작 변경키(Key modifiers) - 영상 90.10.a151.1](./14-02-07-02-key_modifiers.md#90-10-a151-01)
+
+<a id="90-10-a151-02"></a>
+
+#### 영상 90.10.a151.2. `똑똑한 가위` 도구 - ESC 키
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/12d9528e-9b23-49c9-91f3-2bd0e6631c81"></video>
+
+[14.2.7.2. 동작 변경키(Key modifiers) - 영상 90.10.a151.2](./14-02-07-02-key_modifiers.md#90-10-a151-02)
 
 <a id="90-10-a901-01"></a>
 

@@ -97,7 +97,7 @@
 
 <a id="90-03-02-05-a126"></a>
 
-#### 영상 90.3.2.5.a126. 백 스페이스를 눌러 이전 단계로 되돌리기 및 수정 (Windows) (우리말)
+#### 영상 90.3.2.5.a126. 백 스페이스(⌫)를 눌러 이전 단계로 되돌리기 및 수정 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2cac7668-9e54-4eab-8e5c-4c26873cc9d5"></video>
 
 [14.2.4. 자유 선택 도구(올가미) - Free selection (lasso) - 영상 90.3.2.5.a126](./14-02-04-00-free-selection-lasso.md#90-03-02-05-a126)

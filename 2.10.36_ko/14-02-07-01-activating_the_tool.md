@@ -28,7 +28,7 @@
 
 <a id="90-10-a151"></a>
 
-#### [영상 90.10.a151. 똑똑한 가위 도구 - 키보드 단축키 `I`](./90-10-00-keyboard_shortcut.md#90-10-a151)
+#### [영상 90.10.a151. `똑똑한 가위` 도구 - 키보드 단축키 `I`](./90-10-00-keyboard_shortcut.md#90-10-a151)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/354c5a99-6eec-4f37-b6d9-a7493a2a2f35"></video>
 
 ***
@@ -47,4 +47,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-tools.html#gimp-tool-options-dialog)
+[원문](https://docs.gimp.org/2.10/ko/gimp-tool-iscissors.html#idm11422)
