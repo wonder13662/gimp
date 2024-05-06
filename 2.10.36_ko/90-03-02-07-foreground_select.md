@@ -7,12 +7,17 @@
 
 <a id="90-03-02-07-a2"></a>
 
-#### 그림 90.3.2.7.a2. 도구상자 - 전경 선택
+#### 그림 90.3.2.7.a2. `도구상자` → `전경 선택`
 ![90-03-02-07-a2](https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21)
 
 [3.4.10. 원하는 개체만 선택하여 분리하기 - 그림 90.3.2.7.a2](./03-04-10-separating-an-object-from-its-background.md#90-03-02-07-a2)
 
 [14.2.8. 전경 선택(Foreground select) - 그림 90.3.2.7.a2](./14-02-08-00-foreground-select.md#90-03-02-07-a2)
+
+<a id="90-03-02-07-a2-01"></a>
+
+#### 영상 90.3.2.7.a2.1. `도구상자` → `전경 선택`
+<video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/98243d94-2fe7-4a47-99d8-7e827849f265"></video>
 
 ***
 

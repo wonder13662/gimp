@@ -118,8 +118,8 @@
 [![그림 90.3.2.6.a2. `도구상자` → `똑똑한 가위`](https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08)](./90-03-02-06-scissors_select.md)
 
 ### [90.3.2.7. 도구 아이콘(Tool icon) - 전경 선택(Foreground select)](./90-03-02-07-foreground_select.md)
-#### 그림 90.3.2.7.a2. 도구상자 - 전경 선택
-[![그림 90.3.2.7.a2. 도구상자 - 전경 선택](https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21)](./90-03-02-07-foreground_select.md)
+#### 그림 90.3.2.7.a2. `도구상자` → `전경 선택`
+[![그림 90.3.2.7.a2. `도구상자` → `전경 선택`](https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21)](./90-03-02-07-foreground_select.md)
 
 ### [90.3.2.8. 도구 아이콘(Tool icon) - 퍼지 선택(Fuzzy select)](./90-03-02-08-fuzzy_select.md)
 #### 그림 90.3.2.8.a2. 도구상자 - 퍼지 선택

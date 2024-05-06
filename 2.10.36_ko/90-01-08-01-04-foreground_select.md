@@ -8,6 +8,15 @@
 
 [3.4.10. 원하는 개체만 선택하여 분리하기 - 그림 90.1.8.1.4.a101](./03-04-10-separating-an-object-from-its-background.md#90-01-08-01-04-a101)
 
+[14.2.8.1. 도구 활성화하기(Activating the tools) - 그림 90.1.8.1.4.a101](./14-02-08-01-activating_the_tool.md#90-01-08-01-04-a101)
+
+<a id="90-01-08-01-04-a101-01"></a>
+
+#### 영상 90.1.8.1.4.a101.1.`도구` → `선택도구` → `전경 선택` (Windows)
+<video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/df687681-fe5e-4c9f-a3e1-e50a3fd3dc2f"></video>
+
+[14.2.8.1. 도구 활성화하기(Activating the tools) - 영상 90.1.8.1.4.a101.1](./14-02-08-01-activating_the_tool.md#90-01-08-01-04-a101-01)
+
 <a id="90-01-08-01-04-a102"></a>
 
 #### 그림 90.1.8.1.4.a102.`도구` → `선택도구` → `전경 선택` (Mac)
