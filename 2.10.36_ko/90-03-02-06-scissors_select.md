@@ -1,7 +1,9 @@
 # 90.3.2.6. 도구 아이콘(Tool icon) - 가위 선택(Scissors select)
 
+<a id="90-03-02-06-a1"></a>
+
 #### 그림 90.3.2.6.a1. 도구상자의 가위 선택의 도구옵션
-<img width="1080" alt="그림 90.3.2.6.a1. 도구상자의 가위 선택의 도구옵션" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cc1e65f5-b6ed-49dc-bf37-1895a7e7706b">
+![90-03-02-06-a1](https://github.com/wonder13662/gimp/assets/15767104/cc1e65f5-b6ed-49dc-bf37-1895a7e7706b)
 
 <a id="90-03-02-06-a2"></a>
 
@@ -9,6 +11,15 @@
 ![90-03-02-06-a2](https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08)
 
 [3.4.10. 원하는 개체만 선택하여 분리하기 - 그림 90.3.2.6.a2](./03-04-10-separating-an-object-from-its-background.md#90-03-02-06-a2)
+
+[14.2.7.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.6.a2](./14-02-07-01-activating_the_tool.md#90-03-02-06-a2)
+
+<a id="90-03-02-06-a2-01"></a>
+
+#### 영상 90.3.2.6.a2.1. 도구상자 - 똑똑한 가위
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cbcfeb6d-f231-46e9-bb96-9b75c687aff0"></video>
+
+[14.2.7.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.6.a2.1](./14-02-07-01-activating_the_tool.md#90-03-02-06-a2-01)
 
 ***
 

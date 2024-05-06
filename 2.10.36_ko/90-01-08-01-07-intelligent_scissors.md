@@ -8,6 +8,15 @@
 
 [3.4.10. 원하는 개체만 선택하여 분리하기 - 그림 90.1.8.1.7.a101](./03-04-10-separating-an-object-from-its-background.md#90-01-08-01-07-a101)
 
+[14.2.7.1. 도구 활성화하기(Activating the tools) - 그림 90.1.8.1.7.a101](./14-02-07-01-activating_the_tool.md#90-01-08-01-07-a101)
+
+<a id="90-01-08-01-07-a101-01"></a>
+
+#### 영상 90.1.8.1.7.a101.1. `도구` → `선택 도구` → `똑똑한 가위` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e75dfb27-2445-48ef-97e6-565df23a9192"></video>
+
+[14.2.7.1. 도구 활성화하기(Activating the tools) - 영상 90.1.8.1.7.a101.1](./14-02-07-01-activating_the_tool.md#90-01-08-01-07-a101-01)
+
 <a id="90-01-08-01-07-a102"></a>
 
 #### 그림 90.1.8.1.7.a102. `도구` → `선택 도구` → `똑똑한 가위` (Mac)

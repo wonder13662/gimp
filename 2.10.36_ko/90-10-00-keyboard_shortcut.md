@@ -276,6 +276,13 @@
 
 [14.2.6.3. 도구 사용(Tool manipulation) - 영상 90.10.a141.3](./14-02-06-03-tool_manipulation.md#90-10-a141-03)
 
+<a id="90-10-a151"></a>
+
+#### 영상 90.10.a151. 똑똑한 가위 도구 - 키보드 단축키 `I`
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/354c5a99-6eec-4f37-b6d9-a7493a2a2f35"></video>
+
+[14.2.7.1. 도구 활성화하기(Activating the tools)](./14-02-07-01-activating_the_tool.md#90-10-a151)
+
 <a id="90-10-a901-01"></a>
 
 #### 영상 90.10.a901.1. Alt(⌥) + 마우스 휠: 도구 옵션의 불투명도(Opacity) 조절
