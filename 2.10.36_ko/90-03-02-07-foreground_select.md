@@ -19,6 +19,13 @@
 #### 영상 90.3.2.7.a2.1. `도구상자` → `전경 선택`
 <video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/98243d94-2fe7-4a47-99d8-7e827849f265"></video>
 
+<a id="90-03-02-07-a3-01"></a>
+
+#### 영상 90.3.2.7.a3.1. `도구옵션` → `전경 선택` → `엔진`: 드롭다운 목록 (Mac)
+![90-03-02-07-a3-01](https://github.com/wonder13662/gimp/assets/15767104/f4c3f71f-696e-4071-9227-803b25d2a357)
+
+[14.2.8.2. 사용법(Direction for use) - 영상 90.3.2.7.a3.1](./14-02-08-02-directions_for_use.md#90-03-02-07-a3-01)
+
 ***
 
 ## 다른 페이지로 가기

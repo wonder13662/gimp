@@ -516,6 +516,10 @@
 #### 그림 90.4.108.a101. `도구 프리셋 편집기` 대화상자 (Windows) (우리말)
 ![90-04-108-a101](https://github.com/wonder13662/gimp/assets/15767104/4d9c9ef8-18ca-4b9c-bd95-049f05fc1b0f)
 
+### [90.4.109. 전경 선택(Foreground Select)](./90-04-109-foreground_select.md)
+#### 그림 90.4.109.a101. `전경 선택` 대화상자 (Windows) (우리말)
+![90-04-109-a101](https://github.com/wonder13662/gimp/assets/15767104/1cfe2f58-293d-411e-84d6-6a2ac35c8d1f)
+
 ***
 
 ## 공통 기능

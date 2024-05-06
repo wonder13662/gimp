@@ -11,8 +11,8 @@
 
 <a id="90-01-08-01-04-a101-01"></a>
 
-#### [영상 90.1.8.1.4.a101.1.`도구` → `선택도구` → `전경 선택` (Windows)](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a101-01)
-<video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/df687681-fe5e-4c9f-a3e1-e50a3fd3dc2f"></video>
+#### [영상 90.1.8.1.4.a101.1.`도구` → `선택도구` → `전경 선택` (Windows) (우리말)](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a101-01)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/df687681-fe5e-4c9f-a3e1-e50a3fd3dc2f"></video>
 
 ## 2. 도구 상자에서 `전경 선택` 클릭
 
@@ -30,7 +30,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.2.8.2. 동작 변경키(Key modifiers)](./14-02-08-02-key_modifiers.md)
+[➡️ 다음: 14.2.8.2. 사용법(Direction for use)](./14-02-08-02-directions_for_use.md)
 
 [⬅️ 이전: 14.2.8. 전경 선택(Foreground select)](./14-02-08-00-foreground-select.md)
 

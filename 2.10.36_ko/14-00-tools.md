@@ -108,11 +108,11 @@
 
 [14.2.8.1. 도구 활성화하기(Activating the tools)](./14-02-08-01-activating_the_tool.md)
 
-[14.2.8.2. 동작 변경키(Key modifiers)](./14-02-08-02-key_modifiers.md)
+[14.2.8.2. 사용법(Direction for use)](./14-02-08-02-directions_for_use.md)
 
-[14.2.8.3. 도구 사용(Tool manipulation)](./14-02-08-03-tool_manipulation.md)
+[14.2.8.3. 도구 옵션(Options)](./14-02-08-03-options.md)
 
-[14.2.8.4. 전경 추출 정제하기(Refining Foreground Extraction)](./14-02-08-04-tool_options.md)
+[14.2.8.4. 전경 추출 정제하기(Refining Foreground Extraction)](./14-02-08-04-refining_foreground_extraction.md)
 
 [14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
 

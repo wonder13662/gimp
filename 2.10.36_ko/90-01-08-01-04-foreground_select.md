@@ -12,10 +12,45 @@
 
 <a id="90-01-08-01-04-a101-01"></a>
 
-#### 영상 90.1.8.1.4.a101.1.`도구` → `선택도구` → `전경 선택` (Windows)
-<video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/df687681-fe5e-4c9f-a3e1-e50a3fd3dc2f"></video>
+#### 영상 90.1.8.1.4.a101.1.`도구` → `선택도구` → `전경 선택` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/df687681-fe5e-4c9f-a3e1-e50a3fd3dc2f"></video>
 
 [14.2.8.1. 도구 활성화하기(Activating the tools) - 영상 90.1.8.1.4.a101.1](./14-02-08-01-activating_the_tool.md#90-01-08-01-04-a101-01)
+
+<a id="90-01-08-01-04-a101-02"></a>
+
+#### 영상 90.1.8.1.4.a101.2.`도구` → `선택도구` → `전경 선택`: 선택을 자유롭게 곡선으로 그리기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b6b55e9-21fd-4018-a3e1-1ec3d68fb2c5"></video>
+
+[14.2.8.2. 사용법(Direction for use) - 영상 90.1.8.1.4.a101.2](./14-02-08-02-directions_for_use.md#90-01-08-01-04-a101-02)
+
+<a id="90-01-08-01-04-a101-03"></a>
+
+#### 영상 90.1.8.1.4.a101.3.`도구` → `선택도구` → `전경 선택`: 선택을 직선으로 그리기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40302bc8-123e-44f1-9556-2f35467de20a"></video>
+
+[14.2.8.2. 사용법(Direction for use) - 영상 90.1.8.1.4.a101.3](./14-02-08-02-directions_for_use.md#90-01-08-01-04-a101-03)
+
+<a id="90-01-08-01-04-a101-04"></a>
+
+#### 영상 90.1.8.1.4.a101.4.`도구` → `선택도구` → `전경 선택`: 선택을 곡선과 직선을 함께 그리기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/267ab44e-b68b-4e30-aba5-e281941ecb0f"></video>
+
+[14.2.8.2. 사용법(Direction for use) - 영상 90.1.8.1.4.a101.4](./14-02-08-02-directions_for_use.md#90-01-08-01-04-a101-04)
+
+<a id="90-01-08-01-04-a101-05"></a>
+
+#### 영상 90.1.8.1.4.a101.5.`도구` → `선택도구` → `전경 선택`: 선택 닫기(시작점 클릭) (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/736102e5-898a-470f-97de-ab8dae36d5d2"></video>
+
+[14.2.8.2. 사용법(Direction for use) - 영상 90.1.8.1.4.a101.5](./14-02-08-02-directions_for_use.md#90-01-08-01-04-a101-05)
+
+<a id="90-01-08-01-04-a101-06"></a>
+
+#### 영상 90.1.8.1.4.a101.6.`도구` → `선택도구` → `전경 선택`: 선택 닫기(끝점 더블 클릭) (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/13386b0c-e80f-4c33-92b9-ad931169c4b0"></video>
+
+[14.2.8.2. 사용법(Direction for use) - 영상 90.1.8.1.4.a101.6](./14-02-08-02-directions_for_use.md#90-01-08-01-04-a101-06)
 
 <a id="90-01-08-01-04-a102"></a>
 

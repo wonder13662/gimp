@@ -6,7 +6,7 @@
 
 [➡️ 다음: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
 
-[⬅️ 이전: 14.2.8.3. 도구 사용(Tool manipulation)](./14-02-08-03-tool_manipulation.md)
+[⬅️ 이전: 14.2.8.3. 도구 옵션(Options)](./14-02-08-03-options.md)
 
 [⬆️ 위: 14.2.8. 전경 선택(Foreground select)](./14-02-08-00-foreground-select.md)
 
