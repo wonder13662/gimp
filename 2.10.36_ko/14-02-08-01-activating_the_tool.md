@@ -30,7 +30,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.2.8.2. 사용법(Direction for use)](./14-02-08-02-directions_for_use.md)
+[➡️ 다음: 14.2.8.2. 사용법(Direction for use)](./14-02-08-02-00-directions_for_use.md)
 
 [⬅️ 이전: 14.2.8. 전경 선택(Foreground select)](./14-02-08-00-foreground-select.md)
 

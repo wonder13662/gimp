@@ -1,6 +1,23 @@
 # 90.4.1.7. 전경 선택(Foreground Select)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+<a id="90-03-02-07-a1"></a>
+
+#### [그림 90.3.2.7.a1. 도구상자의 전경 선택의 도구옵션](./90-03-02-07-foreground_select.md#90-03-02-07-a1)
+![90-03-02-07-a1](https://github.com/wonder13662/gimp/assets/15767104/a2bff298-8bdf-4c4d-b2df-51c86f3ef6cf)
+
+<a id="90-04-01-07-a2"></a>
+
+#### 영상 90.4.1.7.a2. `도구옵션` → `전경 선택` → `엔진`: 드롭다운 목록 (Mac)
+![90-04-01-07-a2](https://github.com/wonder13662/gimp/assets/15767104/f4c3f71f-696e-4071-9227-803b25d2a357)
+
+[14.2.8.2. 사용법(Direction for use) - 영상 90.4.1.7.a2](./14-02-08-02-00-directions_for_use.md#90-04-01-07-a2)
+
+<a id="90-04-01-07-a3"></a>
+
+#### 영상 90.4.1.7.a3. `도구옵션` → `전경 선택` → `미리보기 모드`: 색상 바꾸기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4e0267da-e6b6-4c8c-a033-dd98aad123ff"></video>
+
+[14.2.8.2.2. 마스크 만들기 - 영상 90.4.1.7.a3](./14-02-08-02-02-create_mask.md#90-04-01-07-a3)
 
 ***
 

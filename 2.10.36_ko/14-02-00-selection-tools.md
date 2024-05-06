@@ -88,7 +88,7 @@
 
 [14.2.8.1. 도구 활성화하기(Activating the tools)](./14-02-08-01-activating_the_tool.md)
 
-[14.2.8.2. 사용법(Direction for use)](./14-02-08-02-directions_for_use.md)
+[14.2.8.2. 사용법(Direction for use)](./14-02-08-02-00-directions_for_use.md)
 
 [14.2.8.3. 도구 옵션(Options)](./14-02-08-03-options.md)
 
