@@ -13,7 +13,7 @@ GIMP(김프)에서의 "선택"에 대해서 알고 싶다면, [7.1. 선택](./07
 4. [14.2.5. 퍼지 선택(마법 지팡이) - Fuzzy selection(magic wand)](./14-02-05-00-fuzzy-selection-magic-wand.md)
 5. [14.2.6. 색상으로 선택(Select by color)](./14-02-06-00-select-by-color.md)
 6. [14.2.7. 똑똑한 가위(Intelligent scissors)](./14-02-07-00-intelligent-scissors.md)
-7. [14.2.8. 전경 선택(Foreground select)](./14-02-08-foreground-select.md)
+7. [14.2.8. 전경 선택(Foreground select)](./14-02-08-00-foreground-select.md)
 
 ***
 

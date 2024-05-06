@@ -909,7 +909,7 @@ module.exports = {
         '14.2.7. 똑똑한 가위'
       ],
       [
-        '14-02-08-foreground-select.md', 
+        '14-02-08-00-foreground-select.md', 
         '14.2.8. 전경 선택(Foreground select)',
         '14.2.8. 물체 선택 도구'
       ],

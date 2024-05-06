@@ -1,7 +1,9 @@
 # 90.3.2.7. 도구 아이콘(Tool icon) - 전경 선택(Foreground select)
 
+<a id="90-03-02-07-a1"></a>
+
 #### 그림 90.3.2.7.a1. 도구상자의 전경 선택의 도구옵션
-<img width="1080" alt="그림 90.3.2.7.a1. 도구상자의 전경 선택의 도구옵션" environment="Windows 10 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a2bff298-8bdf-4c4d-b2df-51c86f3ef6cf">
+![90-03-02-07-a1](https://github.com/wonder13662/gimp/assets/15767104/a2bff298-8bdf-4c4d-b2df-51c86f3ef6cf)
 
 <a id="90-03-02-07-a2"></a>
 
@@ -9,6 +11,8 @@
 ![90-03-02-07-a2](https://github.com/wonder13662/gimp/assets/15767104/05285a09-156c-43d6-839f-60da3269ea21)
 
 [3.4.10. 원하는 개체만 선택하여 분리하기 - 그림 90.3.2.7.a2](./03-04-10-separating-an-object-from-its-background.md#90-03-02-07-a2)
+
+[14.2.8. 전경 선택(Foreground select) - 그림 90.3.2.7.a2](./14-02-08-00-foreground-select.md#90-03-02-07-a2)
 
 ***
 
