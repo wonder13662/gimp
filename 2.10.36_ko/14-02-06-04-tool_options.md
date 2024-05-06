@@ -53,7 +53,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.2.7. 똑똑한 가위(Intelligent scissors)](./14-02-07-intelligent-scissors.md)
+[➡️ 다음: 14.2.7. 똑똑한 가위(Intelligent scissors)](./14-02-07-00-intelligent-scissors.md)
 
 [⬅️ 이전: 14.2.6.3. 도구 사용(Tool manipulation)](./14-02-06-03-tool_manipulation.md)
 

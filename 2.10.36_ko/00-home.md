@@ -1031,7 +1031,15 @@
 
 [14.2.6.4. 도구 옵션(Tool Options)](./14-02-06-04-tool_options.md)
 
-[14.2.7. 똑똑한 가위(Intelligent scissors)](./14-02-07-intelligent-scissors.md)
+[14.2.7. 똑똑한 가위(Intelligent scissors)](./14-02-07-00-intelligent-scissors.md)
+
+[14.2.7.1. 도구 활성화하기(Activating the tools)](./14-02-07-01-activating_the_tool.md)
+
+[14.2.7.2. 동작 변경키(Key modifiers)](./14-02-07-02-key_modifiers.md)
+
+[14.2.7.3. 도구 사용(Tool manipulation)](./14-02-07-03-tool_manipulation.md)
+
+[14.2.7.4. 도구 옵션(Tool Options)](./14-02-07-04-tool_options.md)
 
 [14.2.8. 전경 선택(Foreground select)](./14-02-08-foreground-select.md)
 

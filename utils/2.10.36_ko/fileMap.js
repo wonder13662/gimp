@@ -904,7 +904,7 @@ module.exports = {
         '14.2.6. 색상으로 선택(Select by color)'
       ],
       [
-        '14-02-07-intelligent-scissors.md', 
+        '14-02-07-00-intelligent-scissors.md', 
         '14.2.7. 똑똑한 가위(Intelligent scissors)',
         '14.2.7. 똑똑한 가위'
       ],
