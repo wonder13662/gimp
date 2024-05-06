@@ -19,6 +19,28 @@
 
 [14.2.8.2.2. 마스크 만들기 - 영상 90.4.1.7.a3](./14-02-08-02-02-create_mask.md#90-04-01-07-a3)
 
+<a id="90-04-01-07-a4"></a>
+
+#### 그림 90.4.1.7.a4. `도구옵션` → `전경 선택` → `선 너비`
+![90-04-01-07-a4](https://github.com/wonder13662/gimp/assets/15767104/31f2b4da-cd20-4398-b0b5-d40f461bda39)
+
+[14.2.8.2.3. 전경 추출하기(Extract Foreground) - 그림 90.4.1.7.a4](./14-02-08-02-03-extract_foreground.md#90-04-01-07-a4)
+
+<a id="90-04-01-07-a5"></a>
+
+#### 영상 90.4.1.7.a5. `도구옵션` → `전경 선택` → `선 너비`: 너비 바꾸기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4c6d43fb-e1d6-401f-be9a-48e0ab9c701c"></video>
+
+[14.2.8.2.3. 전경 추출하기(Extract Foreground) - 영상 90.4.1.7.a5](./14-02-08-02-03-extract_foreground.md#90-04-01-07-a5)
+
+***
+
+## 관련 정보
+
+[90.1.8.1.4. 전경 선택(Foreground Select)](./90-01-08-01-04-foreground_select.md)
+
+[90.3.2.7. 도구 아이콘(Tool icon) - 전경 선택(Foreground select)](./90-03-02-07-foreground_select.md)
+
 ***
 
 ## 다른 페이지로 가기

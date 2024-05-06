@@ -68,6 +68,28 @@
 
 [3.4.10. 원하는 개체만 선택하여 분리하기 - 영상 90.1.8.1.4.a111](./03-04-10-separating-an-object-from-its-background.md#90-01-08-01-04-a111)
 
+<a id="90-01-08-01-04-a112-01"></a>
+
+#### 영상 90.1.8.1.4.a112.1. 전경 영역에서 추출할 색 칠하기
+<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/b7d305ed-c809-4d39-bd58-ecfd6a658700"></video>
+
+[14.2.8.2.3. 전경 추출하기(Extract Foreground) - 영상 90.1.8.1.4.a112.1](./14-02-08-02-03-extract_foreground.md#90-01-08-01-04-a112-01)
+
+<a id="90-01-08-01-04-a112-02"></a>
+
+#### 영상 90.1.8.1.4.a112.2. 추출한 색상의 미리보기 및 선택 완료
+<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/f86271a7-9643-4ee6-a3ed-40a59c838a96"></video>
+
+[14.2.8.2.3. 전경 추출하기(Extract Foreground) - 영상 90.1.8.1.4.a112.2](./14-02-08-02-03-extract_foreground.md#90-01-08-01-04-a112-02)
+
+***
+
+## 관련 정보
+
+[90.3.2.7. 도구 아이콘(Tool icon) - 전경 선택(Foreground select)](./90-03-02-07-foreground_select.md)
+
+[90.4.1.7. 전경 선택(Foreground Select)](./90-04-01-07-foreground_select.md)
+
 ***
 
 ## 다른 페이지로 가기

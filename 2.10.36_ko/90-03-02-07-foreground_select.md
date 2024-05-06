@@ -28,6 +28,14 @@
 
 ***
 
+## 관련 정보
+
+[90.1.8.1.4. 전경 선택(Foreground Select)](./90-01-08-01-04-foreground_select.md)
+
+[90.4.1.7. 전경 선택(Foreground Select)](./90-04-01-07-foreground_select.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.3.2.8. 도구 아이콘(Tool icon) - 퍼지 선택(Fuzzy select)](./90-03-02-08-fuzzy_select.md)
