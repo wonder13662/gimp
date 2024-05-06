@@ -114,8 +114,8 @@
 [![그림 90.3.2.5.a2. 도구상자 - 자유 선택 도구(올가미)](https://github.com/wonder13662/gimp/assets/15767104/f0d4efd4-aee4-4af4-a282-a4d2756369fa)](./90-03-02-05-free_select.md)
 
 ### [90.3.2.6. 도구 아이콘(Tool icon) - 가위 선택(Scissors select)](./90-03-02-06-scissors_select.md)
-#### 그림 90.3.2.6.a2. 도구상자 - 똑똑한 가위
-[![그림 90.3.2.6.a2. 도구상자 - 똑똑한 가위](https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08)](./90-03-02-06-scissors_select.md)
+#### 그림 90.3.2.6.a2. `도구상자` → `똑똑한 가위`
+[![그림 90.3.2.6.a2. `도구상자` → `똑똑한 가위`](https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08)](./90-03-02-06-scissors_select.md)
 
 ### [90.3.2.7. 도구 아이콘(Tool icon) - 전경 선택(Foreground select)](./90-03-02-07-foreground_select.md)
 #### 그림 90.3.2.7.a2. 도구상자 - 전경 선택

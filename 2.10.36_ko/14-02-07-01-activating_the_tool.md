@@ -18,12 +18,12 @@
 
 <a id="90-03-02-06-a2"></a>
 
-#### [그림 90.3.2.6.a2. 도구상자 - 똑똑한 가위](./90-03-02-06-scissors_select.md#90-03-02-06-a2)
+#### [그림 90.3.2.6.a2. `도구상자` → `똑똑한 가위`](./90-03-02-06-scissors_select.md#90-03-02-06-a2)
 ![90-03-02-06-a2](https://github.com/wonder13662/gimp/assets/15767104/5c84b429-415b-40b7-a348-b803a667fd08)
 
 <a id="90-03-02-06-a2-01"></a>
 
-#### [영상 90.3.2.6.a2.1. 도구상자 - 똑똑한 가위](./90-03-02-06-scissors_select.md#90-03-02-06-a2-01)
+#### [영상 90.3.2.6.a2.1. `도구상자` → `똑똑한 가위`](./90-03-02-06-scissors_select.md#90-03-02-06-a2-01)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cbcfeb6d-f231-46e9-bb96-9b75c687aff0"></video>
 
 <a id="90-10-a151"></a>
