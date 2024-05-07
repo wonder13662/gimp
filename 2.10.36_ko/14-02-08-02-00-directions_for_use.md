@@ -5,11 +5,17 @@
 
 ## 하위 페이지
 
+[14.2.8.2.1. 선택 만들기(Create Selection)](./14-02-08-02-01-create_selection.md)
+
+[14.2.8.2.2. 마스크 만들기(Create Mask)](./14-02-08-02-02-create_mask.md)
+
+[14.2.8.2.3. 전경 추출하기(Extract Foreground)](./14-02-08-02-03-extract_foreground.md)
+
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.2.8.3. 도구 옵션(Options)](./14-02-08-03-options.md)
+[➡️ 다음: 14.2.8.2.1. 선택 만들기(Create Selection)](./14-02-08-02-01-create_selection.md)
 
 [⬅️ 이전: 14.2.8.1. 도구 활성화하기(Activating the tools)](./14-02-08-01-activating_the_tool.md)
 

@@ -93,9 +93,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.2.8.3. 도구 옵션(Options)](./14-02-08-03-options.md)
+[➡️ 다음: 14.2.8.2.2. 마스크 만들기(Create Mask)](./14-02-08-02-02-create_mask.md)
 
-[⬅️ 이전: 14.2.8.1. 도구 활성화하기(Activating the tools)](./14-02-08-01-activating_the_tool.md)
+[⬅️ 이전: 14.2.8.2. 사용법(Direction for use)](./14-02-08-02-00-directions_for_use.md)
+
+[⬆️ 위: 14.2.8.2. 사용법(Direction for use)](./14-02-08-02-00-directions_for_use.md)
 
 [⬆️ 위: 14.2.8. 전경 선택(Foreground select)](./14-02-08-00-foreground-select.md)
 

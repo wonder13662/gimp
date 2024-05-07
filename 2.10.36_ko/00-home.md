@@ -1047,6 +1047,12 @@
 
 [14.2.8.2. 사용법(Direction for use)](./14-02-08-02-00-directions_for_use.md)
 
+[14.2.8.2.1. 선택 만들기(Create Selection)](./14-02-08-02-01-create_selection.md)
+
+[14.2.8.2.2. 마스크 만들기(Create Mask)](./14-02-08-02-02-create_mask.md)
+
+[14.2.8.2.3. 전경 추출하기(Extract Foreground)](./14-02-08-02-03-extract_foreground.md)
+
 [14.2.8.3. 도구 옵션(Options)](./14-02-08-03-options.md)
 
 [14.2.8.4. 전경 추출 정제하기(Refining Foreground Extraction)](./14-02-08-04-refining_foreground_extraction.md)
