@@ -82,6 +82,20 @@
 
 [14.2.8.2.3. 전경 추출하기(Extract Foreground) - 영상 90.1.8.1.4.a112.2](./14-02-08-02-03-extract_foreground.md#90-01-08-01-04-a112-02)
 
+<a id="90-01-08-01-04-a113"></a>
+
+#### 영상 90.1.8.1.4.a113. 잘못 그린 전경 영역 수정하기
+<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/18679c4a-27e5-43b7-ac18-02abc3fdbd93"></video>
+
+[14.2.8.4. 전경 추출 정제하기(Refining Foreground Extraction) - 영상 90.1.8.1.4.a113](./14-02-08-04-refining_foreground_extraction.md#90-01-08-01-04-a113)
+
+<a id="90-01-08-01-04-a114"></a>
+
+#### 영상 90.1.8.1.4.a114. 잘못 그린 배경 영역 수정하기
+<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/64cc459b-c993-4d6e-acaf-f1a3da13bef8"></video>
+
+[14.2.8.4. 전경 추출 정제하기(Refining Foreground Extraction) - 영상 90.1.8.1.4.a114](./14-02-08-04-refining_foreground_extraction.md#90-01-08-01-04-a114)
+
 ***
 
 ## 관련 정보
