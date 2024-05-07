@@ -9,17 +9,10 @@
 
 <a id="90-03-02-23-a2"></a>
 
-#### 그림 90.3.2.23.a2. 도구상자 - 칠하기 붓
+#### 그림 90.3.2.23.a2. `도구상자` → `칠하기 붓`
 ![90-03-02-23-a2](https://github.com/wonder13662/gimp/assets/15767104/8037e4e3-2df5-4bee-ab58-5efab4efefd1)
 
 [3.5.1. 목적 - 그림 90.3.2.23.a2](./03-05-01-intention.md#90-03-02-23-a2)
-
-<a id="90-03-02-23-a101"></a>
-
-#### 영상 90.3.2.23.a101. 칠하기 붓(Paintbrush)의 직선그리기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a31aa347-7971-4b8f-8de0-96667cb763de"></video>
-
-[3.5.1. 목적 - 영상 90.3.2.23.a101](./03-05-01-intention.md#90-03-02-23-a101)
 
 <a id="90-03-02-23-a111"></a>
 

@@ -6,9 +6,9 @@
 ## 4.2.9.2. 해결방법
 [도구 옵션(Tool Options)](./14-01-04-00-tool-options.md)의 `불투명도(Opacity)`가 0이 아닌지 확인해주세요.
 
-<a id="90-03-02-23-a101"></a>
+<a id="90-04-01-23-a101"></a>
 
-#### [영상 90.4.1.23.a101. 도구 옵션(Tool Options)의 불투명도(Opacity)가 0인 상태에서 작업](./90-04-01-23-paintbrush.md#90-03-02-23-a101)
+#### [영상 90.4.1.23.a101. 도구 옵션(Tool Options)의 불투명도(Opacity)가 0인 상태에서 작업](./90-04-01-23-paintbrush.md#90-04-01-23-a101)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/848ebe82-a4d8-44a4-9c99-f6c00c7870b4"></video>
 
 불투명도가 100인 상태에서는 정상적으로 붓으로 작업이 됩니다. 불투명도가 0인 상태에서는 붓으로 한 작업이 보이지 않습니다.

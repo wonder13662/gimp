@@ -1,4 +1,4 @@
-# 14.3.1.2. Tool Options
+# 14.3.1.2. 도구 옵션(Tool Options)
 
 ### [Home](./00-home.md)
 ### [Parent: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)

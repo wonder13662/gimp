@@ -1,66 +1,28 @@
 # 90.10. 키보드 단축키(Keyboard Shortcut)
 
-<a id="90-10-a101"></a>
+[90.10.1. 사각 선택 도구](./90-10-01-00-rectangle_select.md)
 
-#### 영상 90.10.a101. 사각 선택 도구 - 키보드 단축키 `R`
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7f389c76-95cf-46c8-aca1-d22ece17b46d"></video>
+[90.10.1.1. 키보드 단축키](./90-10-01-01-00-keyboard_shortcut.md)
 
-[14.2.2.1. 도구 활성화하기(Activating the tools) - 영상 90.10.a101](./14-02-02-01-activating_the_tool.md#90-10-a101)
+[90.10.1.1.1. `R`](./90-10-01-01-01-r.md)
 
-<a id="90-10-a102-01"></a>
+[90.10.1.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-01-02-key_modifier-ctrl.md)
 
-#### 그림 90.10.a102.1. 사각 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터
-![90-10-a102-01](https://github.com/wonder13662/gimp/assets/15767104/5a1a2504-84b5-45b8-ac02-6ddd73bfc636)
+[90.10.1.2.1. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터](./90-10-01-02-key_modifier-ctrl.md)
 
-[14.2.2.2. 동작 변경키(Key modifiers) - 그림 90.10.a102.1](./14-02-02-02-key_modifiers.md#90-10-a102-01)
+[90.10.1.2.2. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-02-02-before_selection.md)
+[90.10.1.2.3. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 빼기 모드](./90-10-01-02-03-before_selection.md)
 
-<a id="90-10-a102-02"></a>
+[90.10.1.2.4. 선택을 만든 후에 Ctrl(⌘) 키를 누름 - 클릭 지점 중심 확대/축소](./90-10-01-02-04-after_selection.md)
 
-#### 그림 90.10.a102.2. 사각 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역
-![90-10-a102-02](https://github.com/wonder13662/gimp/assets/15767104/d194b607-f4b4-4fb6-ac63-5e9c499edad4)
+[90.10.1.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-01-03-00-key_modifier-shift.md)
 
-[14.2.2.2. 동작 변경키(Key modifiers) - 그림 90.10.a102.2](./14-02-02-02-key_modifiers.md#90-10-a102-02)
+[90.10.1.3.1. 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터](./90-10-01-03-01-before_selection.md)
 
-<a id="90-10-a102-03"></a>
+[90.10.1.3.2. 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-03-02-before_selection.md)
 
-#### 영상 90.10.a102.3. 선택을 만들기 전에 Ctrl(⌘) 키를 누름
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1aa010b3-2198-44d2-a4d8-35fb9bf64d91"></video>
+[90.10.1.3.3. 선택을 만들기 전에 Shift(⇧) 키를 누름](./90-10-01-03-03-before_selection.md)
 
-[14.2.1.1. 동작 변경키(Key modifiers) - 영상 90.10.a102.3](./14-02-01-01-key_modifiers.md#90-10-a102-03)
-
-[14.2.2.2. 동작 변경키(Key modifiers) - 영상 90.10.a102.3](./14-02-02-02-key_modifiers.md#90-10-a102-03)
-
-<a id="90-10-a102-04"></a>
-
-#### 영상 90.10.a102.4. 선택을 만든 후에 Ctrl(⌘) 키를 누름
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ab044c3b-b060-42be-870f-f505d08aebb8"></video>
-
-[14.2.1.1. 동작 변경키(Key modifiers) - 영상 90.10.a102.4](./14-02-01-01-key_modifiers.md#90-10-a102-04)
-
-[14.2.2.2. 동작 변경키(Key modifiers) - 영상 90.10.a102.4](./14-02-02-02-key_modifiers.md#90-10-a102-04)
-
-<a id="90-10-a103-01"></a>
-
-#### 그림 90.10.a103.1. 사각 선택 도구 - 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터
-![90-10-a103-01](https://github.com/wonder13662/gimp/assets/15767104/9e74c029-ce2b-4982-9f5e-d100ca631697)
-
-[14.2.2.2. 동작 변경키(Key modifiers) - 그림 90.10.a103.1](./14-02-02-02-key_modifiers.md#90-10-a103-01)
-
-<a id="90-10-a103-02"></a>
-
-#### 그림 90.10.a103.2. 사각 선택 도구 - 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역
-![90-10-a103-02](https://github.com/wonder13662/gimp/assets/15767104/54d6b5cc-b1a1-495a-9027-a8385d25369b)
-
-[14.2.2.2. 동작 변경키(Key modifiers) - 그림 90.10.a103.2](./14-02-02-02-key_modifiers.md#90-10-a103-02)
-
-<a id="90-10-a103-03"></a>
-
-#### 영상 90.10.a103.3. 선택을 만들기 전에 Shift(⇧) 키를 누름
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1f578f18-d0d4-4397-aef1-7d725af1a1a9"></video>
-
-[14.2.1.1. 동작 변경키(Key modifiers) - 영상 90.10.a103.3](./14-02-01-01-key_modifiers.md#90-10-a103-03)
-
-[14.2.2.2. 동작 변경키(Key modifiers) - 영상 90.10.a103.3](./14-02-02-02-key_modifiers.md#90-10-a103-03)
 
 <a id="90-10-a103-04"></a>
 
@@ -121,6 +83,16 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b2df02c-54cc-49e4-a13d-3fa52edeed4d"></video>
 
 [14.2.1.1. 동작 변경키(Key modifiers) - 영상 90.10.a106.2](./14-02-01-01-key_modifiers.md#90-10-a106-02)
+
+
+
+
+
+
+
+
+
+
 
 <a id="90-10-a111"></a>
 
@@ -296,6 +268,58 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/12d9528e-9b23-49c9-91f3-2bd0e6631c81"></video>
 
 [14.2.7.2. 동작 변경키(Key modifiers) - 영상 90.10.a151.2](./14-02-07-02-key_modifiers.md#90-10-a151-02)
+
+<a id="90-10-a161-01"></a>
+
+#### 영상 90.10.a161.1. 칠하기 도구:연필, 칠하기 붓, 에어브러시, 잉크 - Ctrl(⌘) 키
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/878059d8-bfee-451d-82bb-be5679427892"></video>
+
+[14.3.1.1. 동작 변경키(Key modifiers) - 영상 90.10.a161.1](./14-03-01-01-key_modifiers.md#90-10-a161-01)
+
+<a id="90-10-a161-02"></a>
+
+#### 영상 90.10.a161.2. 칠하기 도구:지우개 - Ctrl(⌘) 키
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/69edb0c4-6ba7-4d3e-b258-371169744a64"></video>
+
+[14.3.1.1. 동작 변경키(Key modifiers) - 영상 90.10.a161.2](./14-03-01-01-key_modifiers.md#90-10-a161-02)
+
+<a id="90-10-a161-03"></a>
+
+#### 영상 90.10.a161.3. 칠하기 도구:도장 - Ctrl(⌘) 키
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f2b801a6-e6f7-4501-82ed-6ab4d1c98f1e"></video>
+
+[14.3.1.1. 동작 변경키(Key modifiers) - 영상 90.10.a161.3](./14-03-01-01-key_modifiers.md#90-10-a161-03)
+
+<a id="90-10-a161-04"></a>
+
+#### 영상 90.10.a161.4. 칠하기 도구:`흐릿하게/선명하게` - Ctrl(⌘) 키
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9cba9a1c-c055-4345-a6b9-016943c5722e"></video>
+
+[14.3.1.1. 동작 변경키(Key modifiers) - 영상 90.10.a161.4](./14-03-01-01-key_modifiers.md#90-10-a161-04)
+
+<a id="90-10-a161-05"></a>
+
+#### 영상 90.10.a161.5. 칠하기 도구:`닷지/번` - Ctrl(⌘) 키
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7738f0a3-399f-4643-829e-c5ddec5ea1c4"></video>
+
+[14.3.1.1. 동작 변경키(Key modifiers) - 영상 90.10.a161.5](./14-03-01-01-key_modifiers.md#90-10-a161-05)
+
+<a id="90-10-a171-01"></a>
+
+#### 영상 90.10.a171.1. `도구상자` → `칠하기 붓` + Shift(⇧): 직선그리기
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a31aa347-7971-4b8f-8de0-96667cb763de"></video>
+
+[3.5.1. 목적 - 영상 90.3.2.23.a101](./03-05-01-intention.md#90-10-a171-01)
+
+[14.3.1.1. 동작 변경키(Key modifiers) - 영상 90.3.2.23.a101](./14-03-01-01-key_modifiers.md#90-10-a171-01)
+
+<a id="90-10-a172-01"></a>
+
+#### 영상 90.10.a172.1. `도구상자` → `칠하기 붓` + Ctrl(⌘) + Shift(⇧): 직선그리기
+
+[14.3.1.1. 동작 변경키(Key modifiers) - 영상 90.10.a172.1](./14-03-01-01-key_modifiers.md#90-10-a172-01)
+
+***
 
 <a id="90-10-a901-01"></a>
 
