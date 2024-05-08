@@ -42,9 +42,11 @@
 <a id="90-03-02-23-a114"></a>
 
 #### 그림 90.3.2.23.a114. `도구 옵션` → `그리기 붓` → `크기`
-![90-03-02-23-paintbrush(windows)(ko)-focus-size](https://github.com/wonder13662/gimp/assets/15767104/184fcad8-9cac-4838-aefd-c76e731b0be8)
+![90-03-02-23-a114](https://github.com/wonder13662/gimp/assets/15767104/184fcad8-9cac-4838-aefd-c76e731b0be8)
 
 [7.9.1. 붓 크기를 바꾸는 방법 - 그림 90.3.2.23.a114](./07-09-01-how-to-change-the-size-of-a-brush.md#90-03-02-23-a114)
+
+[14.3.1.2.4. 크기(Size) - 그림 90.3.2.23.a114](./14-03-01-02-04-size.md#90-03-02-23-a114)
 
 <a id="90-03-02-23-a115"></a>
 

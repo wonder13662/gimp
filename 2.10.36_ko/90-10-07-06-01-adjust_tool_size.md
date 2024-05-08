@@ -7,6 +7,13 @@
 
 [14.1.4.7. 캔버스 위에서의 마우스 스크롤 휠 동작(Mouse Scroll-Wheel actions on canvas) - 영상 90.10.7.6.1.a1](./14-01-04-07-mouse_scroll_wheel_actions_on_canvas.md#90-10-07-06-01-a1)
 
+<a id="90-10-07-06-01-a2"></a>
+
+#### 영상 90.10.7.6.1.a2. Ctrl(⌘) + Alt(⌥) + 마우스 휠: 붓 크기 바꾸기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/713a231e-16c4-4b8a-ae6c-859ab3b016f6"></video>
+
+[7.9.1. 붓 크기를 바꾸는 방법 - 영상 90.10.7.6.1.a2](./07-09-01-how-to-change-the-size-of-a-brush.md#90-10-07-06-01-a2)
+
 ***
 
 ## 다른 페이지로 가기
