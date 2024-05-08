@@ -13,7 +13,9 @@
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.1. 사각 선택 도구](./90-10-01-00-rectangle_select.md)
+[⬆️ 위: 90.10.7.2. Shift(⇧):동작 변경키(Key modifiers)](./90-10-07-02-00-key_modifier-shift.md)
+
+[⬆️ 위: 90.10.7. `칠하기 붓` 도구](./90-10-07-00-paint_brush.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

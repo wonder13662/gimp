@@ -4,11 +4,15 @@
 
 ## 하위 페이지
 
+[90.10.7.3.1. 직선 그리기](./90-10-07-03-01-draw_straight_line.md)
+
+[90.10.7.3.2. 도구 옵션의 종횡비(Aspect Ratio) 조절](./90-10-07-03-02-adjust_tool_aspect_ratio.md)
+
 ***
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.1. 사각 선택 도구](./90-10-01-00-rectangle_select.md)
+[⬆️ 위: 90.10.7. `칠하기 붓` 도구](./90-10-07-00-paint_brush.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 
