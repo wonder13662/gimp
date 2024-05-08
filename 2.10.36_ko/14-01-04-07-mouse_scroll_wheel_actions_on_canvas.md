@@ -61,6 +61,8 @@ Shift(⇧) + Ctrl(⌘) + Alt(⌥) + 마우스 휠로 도구 옵션의 간격(Spa
 
 [14.2.1.1. 동작 변경키(Key modifiers)](./14-02-01-01-key_modifiers.md)
 
+[14.3.1.2.2. 불투명도(Opacity)](./14-03-01-02-02-opacity.md)
+
 ***
 
 ## 다른 페이지로 가기
