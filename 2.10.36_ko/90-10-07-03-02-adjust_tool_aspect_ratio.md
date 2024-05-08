@@ -7,6 +7,7 @@
 
 [14.1.4.7. 캔버스 위에서의 마우스 스크롤 휠 동작(Mouse Scroll-Wheel actions on canvas) - 영상 90.10.7.3.2.a1](./14-01-04-07-mouse_scroll_wheel_actions_on_canvas.md#90-10-07-03-02-a1)
 
+[14.3.1.2.5. 종횡비(Aspect Ratio) - 영상 90.10.7.3.2.a1](./14-03-01-02-05-aspect_ratio.md#90-10-07-03-02-a1)
 
 ***
 

@@ -17,6 +17,8 @@
 
 ## 관련 정보
 
+[14.1.4.7. 캔버스 위에서의 마우스 스크롤 휠 동작(Mouse Scroll-Wheel actions on canvas) - 1. 도구 옵션의 불투명도(Opacity) 조절 (Windows) (우리말)](./14-01-04-07-mouse_scroll_wheel_actions_on_canvas.md#14-01-04-07-s1)
+
 [14.3.1.2.2. 불투명도(Opacity)](./14-03-01-02-02-opacity.md)
 
 ***
