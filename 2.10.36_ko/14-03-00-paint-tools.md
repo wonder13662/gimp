@@ -15,9 +15,39 @@
 
 [14.3.1.1. 동작 변경키(Key modifiers)](./14-03-01-01-key_modifiers.md)
 
-[14.3.1.2. 도구 옵션(Tool Options)](./14-03-01-02-tool_options.md)
+[14.3.1.2. 도구 옵션(Tool Options)](./14-03-01-02-00-tool_options.md)
 
-[14.3.1.3. Paint Mode Examples](./14-03-01-03-paint_mode_examples.md)
+[14.3.1.2.1. 모드(Mode)](./14-03-01-02-01-mode.md)
+
+[14.3.1.2.2. 불투명도(Opacity)](./14-03-01-02-02-opacity.md)
+
+[14.3.1.2.3. 붓(Brush)](./14-03-01-02-03-brush.md)
+
+[14.3.1.2.4. 크기(Size)](./14-03-01-02-04-size.md)
+
+[14.3.1.2.5. 종횡비(Aspect Ratio)](./14-03-01-02-05-aspect_ratio.md)
+
+[14.3.1.2.6. 각도(Angle)](./14-03-01-02-06-angle.md)
+
+[14.3.1.2.7. 간격(Spacing)](./14-03-01-02-07-spacing.md)
+
+[14.3.1.2.8. 경도(Hardness)](./14-03-01-02-08-hardness.md)
+
+[14.3.1.2.9. 힘의 세기(Force)](./14-03-01-02-09-force.md)
+
+[14.3.1.2.10. 동적 요소(Dynamics)](./14-03-01-02-10-dynamics.md)
+
+[14.3.1.2.11. 동적 요소 옵션(Dynamics Options)](./14-03-01-02-11-dynamics_options.md)
+
+[14.3.1.2.12. 지터 적용(Apply Jitter)](./14-03-01-02-12-apply_jitter.md)
+
+[14.3.1.2.13. 스트로크 부드럽게 하기(Smooth Stroke)](./14-03-01-02-13-smooth_stroke.md)
+
+[14.3.1.2.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view)](./14-03-01-02-14-lock_brush_size_to_view.md)
+
+[14.3.1.2.15. 증분(Incremental)](./14-03-01-02-15-incremental.md)
+
+[14.3.1.3. 칠하기 모드 예제(Paint Mode Examples)](./14-03-01-03-paint_mode_examples.md)
 
 [14.3.1.4. Further Information](./14-03-01-04-further_information.md)
 

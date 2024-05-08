@@ -1,4 +1,4 @@
-# 14.3.1.3. Paint Mode Examples
+# 14.3.1.3. 칠하기 모드 예제(Paint Mode Examples)
 
 ### [Home](./00-home.md)
 ### [Parent: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)

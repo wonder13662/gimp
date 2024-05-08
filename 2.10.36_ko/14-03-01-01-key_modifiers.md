@@ -74,7 +74,7 @@ Ctrl(⌘)키와 Shift(⇧) 키를 함께 누르고 있으면 칠하기 도구에
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.3.1.2. 도구 옵션(Tool Options)](./14-03-01-02-tool_options.md)
+[➡️ 다음: 14.3.1.2. 도구 옵션(Tool Options)](./14-03-01-02-00-tool_options.md)
 
 [⬅️ 이전: 14.3.1. 일반적인 특징(Common features)](./14-03-01-00-common-features.md)
 

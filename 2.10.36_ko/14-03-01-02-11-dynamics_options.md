@@ -1,12 +1,12 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 14.3.1.2.11. 동적 요소 옵션(Dynamics Options)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 14.3.1.2.12. 지터 적용(Apply Jitter)](./14-03-01-02-12-apply_jitter.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 14.3.1.2.10. 동적 요소(Dynamics)](./14-03-01-02-10-dynamics.md)
 
 [⬆️ 위: 14.3.1.2. 도구 옵션(Tool Options)](./14-03-01-02-00-tool_options.md)
 
