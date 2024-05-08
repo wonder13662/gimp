@@ -31,9 +31,9 @@ Alt(⌥) 키를 누르면 현재 선택(선택된 내용이 아닌 선택 자체
 
 아래 영상에서 이 동작을 확인해볼 수 있습니다. Alt(⌥) 키를 누를 때마다 이미지 창 하단의 도구 동작을 설명하는 메시지가 바뀌는 것도 같이 확인할 수 있습니다.
 
-<a id="90-10-a105-01"></a>
+<a id="90-10-01-05-01-a1"></a>
 
-#### [영상 90.10.a105.1. Alt(⌥) 키를 눌러 선택 옮기기](./90-10-00-keyboard_shortcut.md#90-10-a105-01)
+#### [영상 90.10.1.5.1.a1. Alt(⌥) 키를 눌러 선택 옮기기](./90-10-01-05-01-move_selection.md#90-10-01-05-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/10babd74-77a0-4c67-999d-bf5836b6682d"></video>
 
 <a id="14-02-01-01-s3"></a>
@@ -56,9 +56,9 @@ Shift(⇧) 키를 누르고 선택을 만들 경우, 상황에 따라 서로 다
 ### 3-2. 선택을 만든 후에 Shift(⇧) 키를 누름
 사용자가 어떤 도구를 사용하고 있느냐에 따라 달라집니다. 예를 들어 [사각 선택 도구](./14-02-02-00-rectangle-selection.md)의 경우, 정사각형의 선택을 만들 수 있습니다.
 
-<a id="90-10-a103-04"></a>
+<a id="90-10-01-03-04-a1"></a>
 
-#### [영상 90.10.a103.4. 선택을 만든 후에 Shift(⇧) 키를 누름](./90-10-00-keyboard_shortcut.md#90-10-a103-04)
+#### [영상 90.10.1.3.4.a1. 선택을 만든 후에 Shift(⇧) 키를 누름](./90-10-01-03-04-after_selection.md#90-10-01-03-04-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c745012f-36ea-42e6-92b9-2a3b69a80d68"></video>
 
 <a id="14-02-01-01-s4"></a>
@@ -70,9 +70,9 @@ Ctrl(⌘) + Shift(⇧) 키를 누르면 사용중인 도구에 따라 다양한 
 
 아래 영상에서 이 동작을 확인해볼 수 있습니다. Ctrl(⌘) + Shift(⇧) 키를 누를 때마다 이미지 창 하단의 도구 동작을 설명하는 메시지가 바뀌는 것도 같이 확인할 수 있습니다.
 
-<a id="90-10-a104-04"></a>
+<a id="90-10-01-04-04-a1"></a>
 
-#### [영상 90.10.a104.4. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-00-keyboard_shortcut.md#90-10-a104-04)
+#### [영상 90.10.1.4.4.a1. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-01-04-04-after_selection.md#90-10-01-04-04-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/97ebc183-71d3-4642-93fa-bdb8dabc799c"></video>
 
 <a id="14-02-01-01-s5"></a>
@@ -85,9 +85,9 @@ Ctrl(⌘) + Shift(⇧) 키를 누르면 사용중인 도구에 따라 다양한 
 ### 5-1. Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그
 Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그로 선택 영역의 콘텐츠로 옮기게 되면, 옮긴 콘텐츠의 원래 자리는 배경색(Background Color)로 채워지게 됩니다. 옮긴 콘텐츠는 [떠있는 선택(floating selection)](./04-02-01-there-is-a-floating-selection.md)이 됩니다.
 
-<a id="90-10-a106-01"></a>
+<a id="90-10-01-06-01-a1"></a>
 
-#### [영상 90.10.a106.1. Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그](./90-10-00-keyboard_shortcut.md#90-10-a106-01)
+#### [영상 90.10.1.6.1.a1. Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그](./90-10-01-06-01-left_click-drag.md#90-10-01-06-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6a5f12d6-af9d-4e79-a1af-6dad5b8e1e63"></video>
 
 <a id="14-02-01-01-s5-02"></a>
@@ -95,9 +95,9 @@ Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그로 선택 영역의 콘텐츠�
 ### 5-2. Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그
 Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그로 선택 영역의 콘텐츠로 옮기게 되면, 옮긴 콘텐츠의 원래 자리는 원래 이미지로 유지됩니다. 옮긴 콘텐츠는 [떠있는 선택(floating selection)](./04-02-01-there-is-a-floating-selection.md)이 됩니다.
 
-<a id="90-10-a106-02"></a>
+<a id="90-10-01-07-01-a1"></a>
 
-#### [영상 90.10.a106.2. Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그](./90-10-00-keyboard_shortcut.md#90-10-a106-02)
+#### [영상 90.10.1.7.1.a1. Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그](./90-10-01-07-01-left_click-drag.md)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b2df02c-54cc-49e4-a13d-3fa52edeed4d"></video>
 
 <a id="14-02-01-01-s6"></a>
