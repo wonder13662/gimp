@@ -23,6 +23,8 @@
 #### 영상 90.3.2.7.a2.1. `도구상자` → `전경 선택`
 <video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/98243d94-2fe7-4a47-99d8-7e827849f265"></video>
 
+[14.2.8.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.7.a2.1](./14-02-08-01-activating_the_tool.md#90-03-02-07-a2-01)
+
 <a id="90-03-02-07-a3"></a>
 
 #### 영상 90.3.2.7.a3. `도구상자` → `전경 선택`: 마스크 이미지
