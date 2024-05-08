@@ -15,6 +15,12 @@
 
 ***
 
+## 관련 정보
+
+[14.3.1.2.2. 불투명도(Opacity)](./14-03-01-02-02-opacity.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 4.2.10. 이동, 회전 또는 다른 변형 도구로 작업한 효과가 보이지 않는 경우](./04-02-10-no-visible-effect-when-trying-to-use-the-move-tool-rotate-or-other-transform–tool.md)
