@@ -14,6 +14,8 @@
 
 [14.2.8. 전경 선택(Foreground select) - 그림 90.3.2.7.a2](./14-02-08-00-foreground-select.md#90-03-02-07-a2)
 
+[14.2.8.1. 도구 활성화하기(Activating the tools)](./14-02-08-01-activating_the_tool.md#90-03-02-07-a2)
+
 [14.2.8.3. 도구 옵션(Options) - 그림 90.3.2.7.a2](./14-02-08-03-options.md#90-03-02-07-a2)
 
 <a id="90-03-02-07-a2-01"></a>
