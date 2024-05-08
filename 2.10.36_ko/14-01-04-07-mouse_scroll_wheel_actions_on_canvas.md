@@ -8,41 +8,41 @@
 ## 1. 도구 옵션의 불투명도(Opacity) 조절 (Windows) (우리말)
 Alt(⌥) + 마우스 휠로 도구 옵션의 투명도를 조절합니다.
 
-<a id="90-10-a901-01"></a>
+<a id="90-10-07-04-01-a1"></a>
 
-#### [영상 90.10.a901.1. Alt(⌥) + 마우스 휠: 도구 옵션의 불투명도(Opacity) 조절](./90-10-00-keyboard_shortcut.md#90-10-a901-01)
+#### [영상 90.10.7.4.1.a1. Alt(⌥) + 마우스 휠: 도구 옵션의 불투명도(Opacity) 조절](./90-10-07-04-01-adjust_tool_opacity.md#90-10-07-04-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d3356aa5-bfcc-4cf7-a7ae-014bbd530df5"></video>
 
 ## 2. 도구 옵션의 종횡비(Aspect Ratio) 조절 (Windows) (우리말)
 Shift(⇧) + Ctrl(⌘) + 마우스 휠로 도구 옵션의 종횡비(Aspect Ratio)를 조절합니다.
 
-<a id="90-10-a901-02"></a>
+<a id="90-10-07-03-02-a1"></a>
 
-#### [영상 90.10.a901.2. Shift(⇧) + Ctrl(⌘) + 마우스 휠: 도구 옵션의 종횡비(Aspect Ratio) 조절](./90-10-00-keyboard_shortcut.md#90-10-a901-02)
+#### [영상 90.10.7.3.2.a1. Ctrl(⌘) + Shift(⇧) + 마우스 휠: 도구 옵션의 종횡비(Aspect Ratio) 조절](./90-10-00-keyboard_shortcut.md#90-10-07-03-02-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2f5ffa16-9715-4da6-a0ee-508a303e8ed8"></video>
 
 ## 3. 도구 옵션의 각도(Angle) 조절 (Windows) (우리말)
-Shift(⇧) + Alt(⌥) + 마우스 휠로 도구 옵션의 각도(Angle)를 조절합니다.
+Alt(⌥) + Shift(⇧) + 마우스 휠로 도구 옵션의 각도(Angle)를 조절합니다.
 
-<a id="90-10-a901-03"></a>
+<a id="90-10-07-05-01-a1"></a>
 
-#### [영상 90.10.a901.3. Shift(⇧) + Alt(⌥) + 마우스 휠: 도구 옵션의 각도(Angle) 조절](./90-10-00-keyboard_shortcut.md#90-10-a901-03)
+#### [영상 90.10.7.5.1.a1. Alt(⌥) + Shift(⇧) + 마우스 휠: 도구 옵션의 각도(Angle) 조절](./90-10-07-05-01-adjust_tool_angle.md#90-10-07-05-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/59dcd48c-cedd-4a08-83a8-9c68af9919f5"></video>
 
 ## 4. 도구 옵션의 크기(Size) 조절 (Windows) (우리말)
 Ctrl(⌘) + Alt(⌥) + 마우스 휠로 도구 옵션의 크기(Size)를 조절합니다.
 
-<a id="90-10-a901-04"></a>
+<a id="90-10-07-06-01-a1"></a>
 
-#### [영상 90.10.a901.4. Ctrl(⌘) + Alt(⌥) + 마우스 휠: 도구 옵션의 크기(Size) 조절](./90-10-00-keyboard_shortcut.md#90-10-a901-04)
+#### [영상 90.10.7.6.1.a1. Ctrl(⌘) + Alt(⌥) + 마우스 휠: 도구 옵션의 크기(Size) 조절](./90-10-07-06-01-adjust_tool_size.md#90-10-07-06-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/212a0a2b-b861-466e-a11f-8ade0f06a3a2"></video>
 
 ## 5. 도구 옵션의 간격(Spacing) 조절 (Windows) (우리말)
 Shift(⇧) + Ctrl(⌘) + Alt(⌥) + 마우스 휠로 도구 옵션의 간격(Spacing)을 조절합니다.
 
-<a id="90-10-a901-05"></a>
+<a id="90-10-07-07-01-a1"></a>
 
-#### [영상 90.10.a901.5. Shift(⇧) + Ctrl(⌘) + Alt(⌥) + 마우스 휠: 도구 옵션의 간격(Spacing) 조절](./90-10-00-keyboard_shortcut.md#90-10-a901-05)
+#### [영상 90.10.7.7.1.a1. Ctrl(⌘) + Alt(⌥) + Shift(⇧) + 마우스 휠: 도구 옵션의 간격(Spacing) 조절](./90-10-00-keyboard_shortcut.md#90-10-07-07-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5e4248af-4cd1-490d-add6-7c1fd4e62dbf"></video>
 
 ***

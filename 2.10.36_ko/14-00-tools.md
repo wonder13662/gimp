@@ -124,6 +124,14 @@
 
 [14.3.1. 일반적인 특징(Common features)](./14-03-01-00-common-features.md)
 
+[14.3.1.1. 동작 변경키(Key modifiers)](./14-03-01-01-key_modifiers.md)
+
+[14.3.1.2. 도구 옵션(Tool Options)](./14-03-01-02-tool_options.md)
+
+[14.3.1.3. Paint Mode Examples](./14-03-01-03-paint_mode_examples.md)
+
+[14.3.1.4. Further Information](./14-03-01-04-further_information.md)
+
 [14.3.2. 동적 요소(Dynamics)](./14-03-02-00-dynamics.md)
 
 [14.3.3. 붓 도구 (연필, 칠하기붓, 에어브러시) - Brush tools (pencil, paintbrush, airbrush)](./14-03-03-brush-tools-pencil-paintbrush-airbrush.md)

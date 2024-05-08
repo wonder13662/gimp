@@ -78,9 +78,9 @@
 #### [그림 90.3.2.23.a2. `도구상자` → `칠하기 붓`](./90-03-02-23-paintbrush.md#90-03-02-23-a2)
 ![90-03-02-23-a2](https://github.com/wonder13662/gimp/assets/15767104/8037e4e3-2df5-4bee-ab58-5efab4efefd1)
 
-<a id="90-10-a171-01"></a>
+<a id="90-10-07-02-01-a1"></a>
 
-#### [영상 90.10.a171.1. `도구상자` → `칠하기 붓` + Shift(⇧): 직선그리기](./90-10-00-keyboard_shortcut.md#90-10-a171-01)
+#### [영상 90.10.7.2.1.a1. `도구상자` → `칠하기 붓` + Shift(⇧): 직선그리기](./90-10-07-02-01-draw_straight_line.md#90-10-07-02-01-a1)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a31aa347-7971-4b8f-8de0-96667cb763de"></video>
 
 ### 6-2. 연필(Pencil)
