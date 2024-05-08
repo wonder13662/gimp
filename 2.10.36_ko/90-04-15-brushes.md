@@ -217,6 +217,16 @@
 
 ***
 
+## 관련 정보
+
+[90.1.8.2.4. 그리기 붓(Paintbrush)](./90-01-08-02-04-paintbrush.md)
+
+[90.3.2.23. 도구 아이콘(Tool icon) - 그리기 붓(Paintbrush)](./90-03-02-23-paintbrush.md)
+
+[90.4.1.23. 그리기 붓(Paintbrush)](./90-04-01-23-paintbrush.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.4.16. 페인트 동적 요소(Paint Dynamics)](./90-04-16-paint_dynamics.md)

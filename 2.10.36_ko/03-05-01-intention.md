@@ -20,7 +20,7 @@
 ## 2. 직선을 그릴 수 있는 도구 선택하기
 아래 도구 목록들은 직선그리기가 가능합니다.
 
-- [칠하기 붓(Paintbrush)](./14-03-07-paintbrush.md)
+- [그리기 붓(Paintbrush)](./14-03-07-paintbrush.md)
 - [연필(Pencil)](./14-03-06-pencil.md)
 - [에어브러시(Airbrush)](./14-03-10-airbrush.md)
 - [잉크(Ink)](./14-03-11-ink.md)
@@ -39,7 +39,7 @@
 
 ## 3. 시작점 만들기
 
-칠하기 붓(Paintbrush)를 도구상자에서 클릭합니다. 이미지 안에 선이 시작하는 곳에 클릭합니다. 점 하나가 화면에 나타납니다. 점의 크기는 붓의 크기를 나타냅니다. 붓의 크기는 [15.3.2. 붓 대화상자](./15-03-02-brushes-dialog.md)에서 바꿀 수 있습니다. 그럼 선을 그려봅시다. Shift(Windows) or ⇧(Mac) 키를 누른채 유지합니다.
+그리기 붓(Paintbrush)를 도구상자에서 클릭합니다. 이미지 안에 선이 시작하는 곳에 클릭합니다. 점 하나가 화면에 나타납니다. 점의 크기는 붓의 크기를 나타냅니다. 붓의 크기는 [15.3.2. 붓 대화상자](./15-03-02-brushes-dialog.md)에서 바꿀 수 있습니다. 그럼 선을 그려봅시다. Shift(Windows) or ⇧(Mac) 키를 누른채 유지합니다.
 
 #### 영상 3.5.1.3.1. 시작점 만들기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7c55660b-d4fc-427c-92a6-9962ada99481"></video>
@@ -64,23 +64,23 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ed80ea6a-3bf6-4900-ac2c-525109db3ee7"></video>
 
 ## 6. 직선 그리기 가능한 도구들 예시
-### 6-1. 칠하기 붓(Paintbrush)
+### 6-1. 그리기 붓(Paintbrush)
 
 <a id="90-01-08-02-04-a101"></a>
 
-#### [그림 90.1.8.2.4.a101. `도구` → `칠하기 도구` → `칠하기 붓` (Windows)](./90-01-08-02-04-paintbrush.md#90-01-08-02-04-a101)
+#### [그림 90.1.8.2.4.a101. `도구` → `칠하기 도구` → `그리기 붓` (Windows)](./90-01-08-02-04-paintbrush.md#90-01-08-02-04-a101)
 ![90-01-08-02-04-a101](https://github.com/wonder13662/gimp/assets/15767104/30393508-7903-4cfd-b3f1-79796331554a)
 
-[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `칠하기 붓` 확인하기](./90-01-08-02-04-paintbrush.md#90-01-08-02-04-a102)
+[다른 운영체제와 언어의 `도구` → `칠하기 도구` → `그리기 붓` 확인하기](./90-01-08-02-04-paintbrush.md#90-01-08-02-04-a102)
 
 <a id="90-03-02-23-a2"></a>
 
-#### [그림 90.3.2.23.a2. `도구상자` → `칠하기 붓`](./90-03-02-23-paintbrush.md#90-03-02-23-a2)
+#### [그림 90.3.2.23.a2. `도구상자` → `그리기 붓`](./90-03-02-23-paintbrush.md#90-03-02-23-a2)
 ![90-03-02-23-a2](https://github.com/wonder13662/gimp/assets/15767104/8037e4e3-2df5-4bee-ab58-5efab4efefd1)
 
 <a id="90-10-07-02-01-a1"></a>
 
-#### [영상 90.10.7.2.1.a1. `도구상자` → `칠하기 붓` + Shift(⇧): 직선그리기](./90-10-07-02-01-draw_straight_line.md#90-10-07-02-01-a1)
+#### [영상 90.10.7.2.1.a1. `도구상자` → `그리기 붓` + Shift(⇧): 직선그리기](./90-10-07-02-01-draw_straight_line.md#90-10-07-02-01-a1)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a31aa347-7971-4b8f-8de0-96667cb763de"></video>
 
 ### 6-2. 연필(Pencil)

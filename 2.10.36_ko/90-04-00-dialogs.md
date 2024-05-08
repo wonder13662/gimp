@@ -50,7 +50,7 @@
 
 [90.4.1.22. 그라디언트(Gradient)](./90-04-01-22-gradient.md)
 
-[90.4.1.23. 칠하기 붓(Paintbrush)](./90-04-01-23-paintbrush.md)
+[90.4.1.23. 그리기 붓(Paintbrush)](./90-04-01-23-paintbrush.md)
 
 [90.4.1.24. 연필(Pencil)](./90-04-01-24-pencil.md)
 

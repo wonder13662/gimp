@@ -9,10 +9,10 @@ GIMP(김프)의 기본적인 칠하기 도구는 그라디언트의 색상을 �
 
 <a id="90-03-02-23-a112"></a>
 
-#### [영상 90.3.2.23.a112. 칠하기 붓(Paintbrush)의 도구 옵션(Tool Options)의 `Color From Gradient` 적용하기](./90-03-02-23-paintbrush.md#90-03-02-23-a112)
+#### [영상 90.3.2.23.a112. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options)의 `Color From Gradient` 적용하기](./90-03-02-23-paintbrush.md#90-03-02-23-a112)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6215e2ac-b807-4732-b106-e37b2c0c2c82"></video>
 
-위 영상 관련 작업 내용은 [3.5.2.1. 칠하기 붓과 `Color From Gradient` 사용하기](./03-05-02-examples.md#03-05-02-s1)을 참고해주세요.
+위 영상 관련 작업 내용은 [3.5.2.1. 그리기 붓과 `Color From Gradient` 사용하기](./03-05-02-examples.md#03-05-02-s1)을 참고해주세요.
 
 ## 2. 그라디언트 맵 필터(The Gradient Map Filter)
 이 필터는 [이미지 메뉴 바](./03-02-02-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `색` → `지도` → `그라디언트 맵` 메뉴에 있습니다. 

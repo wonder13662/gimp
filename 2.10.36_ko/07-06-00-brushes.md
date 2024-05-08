@@ -44,7 +44,7 @@ GIMP(김프)에는 `칠하기 도구(paint tool)`가 있습니다. 채색 작업
 
 <a id="90-03-02-23-a113"></a>
 
-#### [영상 90.3.2.23.a113. 칠하기 붓(Paintbrush)의 붓 긋기(Brush stroke)](./90-03-02-23-paintbrush.md#90-03-02-23-a113)
+#### [영상 90.3.2.23.a113. 그리기 붓(Paintbrush)의 붓 긋기(Brush stroke)](./90-03-02-23-paintbrush.md#90-03-02-23-a113)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f71f220a-c5e6-4262-afa0-f1dd7e1e2fde"></video>
 
 붓의 간격의 경우에는 붓의 기본 간격 설정이 기본값으로 영향을 미칩니다.

@@ -4,11 +4,11 @@
 Ctrl(⌘) 키를 누르는 것은 모든 칠하기 도구에 특별한 효과를 줍니다.
 
 ### 1-1. 색상 추출 도구(Color Picker)로 바꾸기
-[연필](./14-03-06-pencil.md), [칠하기 붓](./14-03-07-paintbrush.md), [에어브러시](./14-03-10-airbrush.md), [잉크](./14-03-11-ink.md)에서 Ctrl(⌘) 키를 누르면, "색상 추출 도구(Color Picker)" 모드로 바뀝니다. 이 모드에서 이미지의 픽셀에 클릭하면, GIMP(김프)의 전경색이 활성화된 레이어의 클릭한 지점의 색상으로 설정됩니다.
+[연필](./14-03-06-pencil.md), [그리기 붓](./14-03-07-paintbrush.md), [에어브러시](./14-03-10-airbrush.md), [잉크](./14-03-11-ink.md)에서 Ctrl(⌘) 키를 누르면, "색상 추출 도구(Color Picker)" 모드로 바뀝니다. 이 모드에서 이미지의 픽셀에 클릭하면, GIMP(김프)의 전경색이 활성화된 레이어의 클릭한 지점의 색상으로 설정됩니다.
 
 <a id="90-10-07-01-01-a1"></a>
 
-#### [영상 90.10.7.1.1.a1. 칠하기 도구:연필, 칠하기 붓, 에어브러시, 잉크 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 전경색 바꾸기](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a1)
+#### [영상 90.10.7.1.1.a1. 칠하기 도구:연필, 그리기 붓, 에어브러시, 잉크 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 전경색 바꾸기](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/878059d8-bfee-451d-82bb-be5679427892"></video>
 
 [지우개](./14-03-09-eraser.md)에서 Ctrl(⌘) 키를 누르면 GIMP(김프)의 배경색으로 설정됩니다.
@@ -51,7 +51,7 @@ Shift(⇧) 키를 계속 누른 채로 다시 클릭하면, 직선이 그려지�
 
 <a id="90-10-07-02-01-a1"></a>
 
-#### [영상 90.10.7.2.1.a1. `도구상자` → `칠하기 붓` + Shift(⇧): 직선그리기](./90-10-07-02-01-draw_straight_line.md#90-10-07-02-01-a1)
+#### [영상 90.10.7.2.1.a1. `도구상자` → `그리기 붓` + Shift(⇧): 직선그리기](./90-10-07-02-01-draw_straight_line.md#90-10-07-02-01-a1)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a31aa347-7971-4b8f-8de0-96667cb763de"></video>
 
 ## 3. Ctrl(⌘) + Shift(⇧)
@@ -59,7 +59,7 @@ Ctrl(⌘)키와 Shift(⇧) 키를 함께 누르고 있으면 칠하기 도구에
 
 <a id="90-10-07-03-01-a1"></a>
 
-#### [영상 90.10.7.3.1.a1. `도구상자` → `칠하기 붓` + Ctrl(⌘) + Shift(⇧): 직선그리기](./90-10-00-keyboard_shortcut.md#90-10-07-03-01-a1)
+#### [영상 90.10.7.3.1.a1. `도구상자` → `그리기 붓` + Ctrl(⌘) + Shift(⇧): 직선그리기](./90-10-00-keyboard_shortcut.md#90-10-07-03-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/19594520-4c4d-4bd6-98f6-c31e3b3af8d1"></video>
 
 ***

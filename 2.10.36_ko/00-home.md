@@ -1109,7 +1109,7 @@
 
 [14.3.6. 연필(Pencil)](./14-03-06-pencil.md)
 
-[14.3.7. 칠하기 붓(Paintbrush)](./14-03-07-paintbrush.md)
+[14.3.7. 그리기 붓(Paintbrush)](./14-03-07-paintbrush.md)
 
 [14.3.8. 마이페인트 붓(Mypaint brush)](./14-03-08-mypaint-brush.md)
 
@@ -1656,7 +1656,7 @@
 
 [90.1.8.2.3. 연필(Pencil)](./90-01-08-02-03-pencil.md)
 
-[90.1.8.2.4. 칠하기 붓(Paintbrush)](./90-01-08-02-04-paintbrush.md)
+[90.1.8.2.4. 그리기 붓(Paintbrush)](./90-01-08-02-04-paintbrush.md)
 
 [90.1.8.2.5. 지우개(Eraser)](./90-01-08-02-05-eraser.md)
 
@@ -2066,7 +2066,7 @@
 
 [90.3.2.22. 도구 아이콘(Tool icon) - 그라디언트(Gradient)](./90-03-02-22-gradient.md)
 
-[90.3.2.23. 도구 아이콘(Tool icon) - 칠하기 붓(Paintbrush)](./90-03-02-23-paintbrush.md)
+[90.3.2.23. 도구 아이콘(Tool icon) - 그리기 붓(Paintbrush)](./90-03-02-23-paintbrush.md)
 
 [90.3.2.24. 도구 아이콘(Tool icon) - 연필(Pencil)](./90-03-02-24-pencil.md)
 
@@ -2154,7 +2154,7 @@
 
 [90.4.1.22. 그라디언트(Gradient)](./90-04-01-22-gradient.md)
 
-[90.4.1.23. 칠하기 붓(Paintbrush)](./90-04-01-23-paintbrush.md)
+[90.4.1.23. 그리기 붓(Paintbrush)](./90-04-01-23-paintbrush.md)
 
 [90.4.1.24. 연필(Pencil)](./90-04-01-24-pencil.md)
 
@@ -2692,7 +2692,7 @@
 
 [90.10.6.1.3. ESC 키](./90-10-06-01-03-esc.md)
 
-[90.10.7. `칠하기 붓` 도구](./90-10-07-00-paint_brush.md)
+[90.10.7. `그리기 붓` 도구](./90-10-07-00-paint_brush.md)
 
 [90.10.7.1. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-07-01-00-key_modifier-ctrl.md)
 

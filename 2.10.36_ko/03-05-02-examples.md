@@ -2,17 +2,17 @@
 
 <a id="03-05-02-s1"></a>
 
-## 3.5.2.1. 칠하기 붓과 `Color From Gradient` 사용하기
-칠하기 붓(Paintbrush)의 도구옵션(Tool Options)의 동적 요소(Dynamics)를 "Color From Gradient"로 설정합니다. 그리고 색상 옵션(Color Options)는 "Incandescent"로 설정합니다. 페이드 옵션(Fade Options)의 반복은 "Truncate"로 설정합니다. 이미지의 크기에 따라 "흐리게 길이(Fade length)"를 조절할 수 있습니다.
+## 3.5.2.1. 그리기 붓과 `Color From Gradient` 사용하기
+그리기 붓(Paintbrush)의 도구옵션(Tool Options)의 동적 요소(Dynamics)를 "Color From Gradient"로 설정합니다. 그리고 색상 옵션(Color Options)는 "Incandescent"로 설정합니다. 페이드 옵션(Fade Options)의 반복은 "Truncate"로 설정합니다. 이미지의 크기에 따라 "흐리게 길이(Fade length)"를 조절할 수 있습니다.
 
 <a id="90-03-02-23-a111"></a>
 
-#### [그림 90.3.2.23.a111. 칠하기 붓(Paintbrush)의 도구 옵션(Tool Options) 설정](./90-03-02-23-paintbrush.md#90-03-02-23-a111)
+#### [그림 90.3.2.23.a111. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options) 설정](./90-03-02-23-paintbrush.md#90-03-02-23-a111)
 ![90-03-02-23-a111](https://github.com/wonder13662/gimp/assets/15767104/bca225fa-05ed-4777-aef7-321eb8ec74d0)
 
 <a id="90-03-02-23-a112"></a>
 
-#### [영상 90.3.2.23.a112. 칠하기 붓(Paintbrush)의 도구 옵션(Tool Options)의 `Color From Gradient` 적용하기](./90-03-02-23-paintbrush.md#90-03-02-23-a112)
+#### [영상 90.3.2.23.a112. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options)의 `Color From Gradient` 적용하기](./90-03-02-23-paintbrush.md#90-03-02-23-a112)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6215e2ac-b807-4732-b106-e37b2c0c2c82"></video>
 
 ## 3.5.2.2. 도장의 '무늬로 칠하기'로 직선 그리기
