@@ -1,4 +1,4 @@
-# 14.3.1.4. Further Information
+# 14.3.1.4. 더 자세한 정보(Further Information)
 
 ### [Home](./00-home.md)
 ### [Parent: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)

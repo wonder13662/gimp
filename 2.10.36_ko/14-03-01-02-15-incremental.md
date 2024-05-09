@@ -31,7 +31,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.3.1.3. 칠하기 모드 예제(Paint Mode Examples)](./14-03-01-03-paint_mode_examples.md)
+[➡️ 다음: 14.3.1.3. 칠하기 모드 예제(Paint Mode Examples)](./14-03-01-03-00-paint_mode_examples.md)
 
 [⬅️ 이전: 14.3.1.2.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view)](./14-03-01-02-14-lock_brush_size_to_view.md)
 

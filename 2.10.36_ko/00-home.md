@@ -1095,9 +1095,15 @@
 
 [14.3.1.2.15. 증분(Incremental)](./14-03-01-02-15-incremental.md)
 
-[14.3.1.3. 칠하기 모드 예제(Paint Mode Examples)](./14-03-01-03-paint_mode_examples.md)
+[14.3.1.3. 칠하기 모드 예제(Paint Mode Examples)](./14-03-01-03-00-paint_mode_examples.md)
 
-[14.3.1.4. Further Information](./14-03-01-04-further_information.md)
+[14.3.1.3.1. 분해(Dissolve)](./14-03-01-03-01-dissolve.md)
+
+[14.3.1.3.2. 뒤쪽으로(Behind)](./14-03-01-03-02-behind.md)
+
+[14.3.1.3.3. 색상 지우기(Color Erase)](./14-03-01-03-03-color_erase.md)
+
+[14.3.1.4. 더 자세한 정보(Further Information)](./14-03-01-04-further_information.md)
 
 [14.3.2. 동적 요소(Dynamics)](./14-03-02-00-dynamics.md)
 
