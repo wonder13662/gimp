@@ -202,6 +202,41 @@
 
 [14.3.1.2.13. 스트로크 부드럽게 하기(Smooth Stroke) - 영상 90.3.2.23.a126.3](./14-03-01-02-13-smooth_stroke.md#90-03-02-23-a126-03)
 
+<a id="90-03-02-23-a127-01"></a>
+
+#### 그림 90.3.2.23.a127.1. `도구 옵션` → `그리기 붓` → `붓의 크기를 뷰에 고정하기`
+![90-03-02-23-a127-01](https://github.com/wonder13662/gimp/assets/15767104/a026e40a-0131-4612-b8c7-cbe8c70fba4e)
+
+[14.3.1.2.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view) - 그림 90.3.2.23.a127.1](./14-03-01-02-14-lock_brush_size_to_view.md#90-03-02-23-a127-01)
+
+<a id="90-03-02-23-a127-02"></a>
+
+#### 영상 90.3.2.23.a127.2. `도구 옵션` → `그리기 붓` → `붓의 크기를 뷰에 고정하기`: 캔버스에 상대적인 붓 크기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/540af0f0-2567-4571-a53c-7d640a0f997d"></video>
+
+[14.3.1.2.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view) - 영상 90.3.2.23.a127.2](./14-03-01-02-14-lock_brush_size_to_view.md#90-03-02-23-a127-02)
+
+<a id="90-03-02-23-a127-03"></a>
+
+#### 영상 90.3.2.23.a127.3. `도구 옵션` → `그리기 붓` → `붓의 크기를 뷰에 고정하기`: 스크린에 상대적인 붓 크기
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/acedd1be-23c7-49d9-84d2-f2e4feb87045"></video>
+
+[14.3.1.2.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view) - 영상 90.3.2.23.a127.3](./14-03-01-02-14-lock_brush_size_to_view.md#90-03-02-23-a127-03)
+
+<a id="90-03-02-23-a127-04"></a>
+
+#### 영상 90.3.2.23.a127.4. `도구 옵션` → `그리기 붓` → `붓의 크기를 뷰에 고정하기`: 옵션 끄고 회전
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ab3a2519-70ed-400d-ba24-d9f064109959"></video>
+
+[14.3.1.2.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view) - 영상 90.3.2.23.a127.4](./14-03-01-02-14-lock_brush_size_to_view.md#90-03-02-23-a127-04)
+
+<a id="90-03-02-23-a127-05"></a>
+
+#### 영상 90.3.2.23.a127.5. `도구 옵션` → `그리기 붓` → `붓의 크기를 뷰에 고정하기`: 옵션 켜고 회전
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7534a5a1-1dc1-450f-a1e1-9fd3665e1a69"></video>
+
+[14.3.1.2.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view) - 영상 90.3.2.23.a127.5](./14-03-01-02-14-lock_brush_size_to_view.md#90-03-02-23-a127-05)
+
 ***
 
 ## 관련 정보
