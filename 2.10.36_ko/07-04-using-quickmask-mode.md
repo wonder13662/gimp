@@ -10,7 +10,7 @@
 
 <a id="90-01-03-16-a113"></a>
 
-#### [영상 90.1.3.16.a113. 퀵마스크를 칠하기 도구로 수정하기](./90-01-03-16-toggle_quick_mask.md#90-01-03-16-a113)
+#### [영상 90.1.3.16.a113. 퀵마스크를 그리기 도구로 수정하기](./90-01-03-16-toggle_quick_mask.md#90-01-03-16-a113)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/44c82438-bb6a-426d-b9fd-453fcfb46906"></video>
 
 ***

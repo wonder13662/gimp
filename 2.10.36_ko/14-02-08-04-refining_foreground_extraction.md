@@ -21,7 +21,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
+[➡️ 다음: 14.3. 그리기 도구(Paint tools)](./14-03-00-paint-tools.md)
 
 [⬅️ 이전: 14.2.8.3. 도구 옵션(Options)](./14-02-08-03-options.md)
 

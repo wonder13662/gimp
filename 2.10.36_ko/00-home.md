@@ -1057,7 +1057,7 @@
 
 [14.2.8.4. 전경 추출 정제하기(Refining Foreground Extraction)](./14-02-08-04-refining_foreground_extraction.md)
 
-[14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
+[14.3. 그리기 도구(Paint tools)](./14-03-00-paint-tools.md)
 
 [14.3.1. 일반적인 특징(Common features)](./14-03-01-00-common-features.md)
 
@@ -1654,7 +1654,7 @@
 
 [90.1.8.1.7. 똑똑한 가위(Intelligent Scissors)](./90-01-08-01-07-intelligent_scissors.md)
 
-[90.1.8.2. 칠하기 도구(Paint Tools)](./90-01-08-02-00-paint_tools.md)
+[90.1.8.2. 그리기 도구(Paint Tools)](./90-01-08-02-00-paint_tools.md)
 
 [90.1.8.2.1. 영역 채우기(Bucket Fill)](./90-01-08-02-01-bucket_fill.md)
 

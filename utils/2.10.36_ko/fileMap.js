@@ -915,7 +915,7 @@ module.exports = {
       ],
       [
         '14-03-00-paint-tools.md', 
-        '14.3. 칠하기 도구(Paint tools)'
+        '14.3. 그리기 도구(Paint tools)'
       ],
       [
         '14-03-01-00-common-features.md', 

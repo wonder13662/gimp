@@ -25,7 +25,7 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/57faff25-94a9-4d70-bc05-8363ff8de4a4"></video>
 
 ## 4. 옵션이 적용되는 도구들
-이 옵션은 `비율(Rate)` 슬라이더가 있는 도구 - [에어브러시](./14-03-10-airbrush.md), [흐릿하게/선명하게](./14-03-15-blur-sharpen.md), [문지르기](./14-03-16-smudge.md)를 제외한 모든 칠하기 도구들에 적용됩니다. `비율(Rate)` 슬라이더가 있는 도구는 자동적으로 `증분(Incremental)` 효과를 가지고 있습니다.
+이 옵션은 `비율(Rate)` 슬라이더가 있는 도구 - [에어브러시](./14-03-10-airbrush.md), [흐릿하게/선명하게](./14-03-15-blur-sharpen.md), [문지르기](./14-03-16-smudge.md)를 제외한 모든 그리기 도구들에 적용됩니다. `비율(Rate)` 슬라이더가 있는 도구는 자동적으로 `증분(Incremental)` 효과를 가지고 있습니다.
 
 ***
 
@@ -39,7 +39,7 @@
 
 [⬆️ 위: 14.3.1. 일반적인 특징(Common features)](./14-03-01-00-common-features.md)
 
-[⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
+[⬆️ 위: 14.3. 그리기 도구(Paint tools)](./14-03-00-paint-tools.md)
 
 [⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)
 
