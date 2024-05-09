@@ -237,6 +237,27 @@
 
 [14.3.1.2.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view) - 영상 90.3.2.23.a127.5](./14-03-01-02-14-lock_brush_size_to_view.md#90-03-02-23-a127-05)
 
+<a id="90-03-02-23-a128-01"></a>
+
+#### 그림 90.3.2.23.a128.1. `도구 옵션` → `그리기 붓` → `증분`
+![90-03-02-23-a128-01](https://github.com/wonder13662/gimp/assets/15767104/727f813f-d5a7-4c70-8251-80ffe4a313f5)
+
+[14.3.1.2.15. 증분(Incremental) - 영상 90.3.2.23.a128.1](./14-03-01-02-15-incremental.md#90-03-02-23-a128-01)
+
+<a id="90-03-02-23-a128-02"></a>
+
+#### 영상 90.3.2.23.a128.2. `도구 옵션` → `그리기 붓` → `증분`: 끔
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2202eaaf-e2f6-4776-8780-31e2019f4268"></video>
+
+[14.3.1.2.15. 증분(Incremental) - 영상 90.3.2.23.a128.2](./14-03-01-02-15-incremental.md#90-03-02-23-a128-02)
+
+<a id="90-03-02-23-a128-03"></a>
+
+#### 영상 90.3.2.23.a128.3. `도구 옵션` → `그리기 붓` → `증분`: 켬
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/57faff25-94a9-4d70-bc05-8363ff8de4a4"></video>
+
+[14.3.1.2.15. 증분(Incremental) - 영상 90.3.2.23.a128.3](./14-03-01-02-15-incremental.md#90-03-02-23-a128-03)
+
 ***
 
 ## 관련 정보
