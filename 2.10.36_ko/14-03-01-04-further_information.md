@@ -1,6 +1,24 @@
 # 14.3.1.4. 더 자세한 정보(Further Information)
+고급 사용자들은 결과물의 계단 현상을 피하기 위해서 그리기 도구가 서브 픽셀 수준까지 작동하는지 알고 싶을 수 있습니다.
 
-### [Home](./00-home.md)
-### [Parent: 14.3. 그리기 도구(Paint tools)](./14-03-00-paint-tools.md)
-### [Prev: 14.2.8. 전경 선택(Foreground select)](./14-02-08-00-foreground-select.md)
-### [Next: 14.3.2. 동적 요소(Dynamics)](./14-03-02-00-dynamics.md)
+원형 붓에서 딱딱한 경계의 붓으로 작업하더라도 붓의 스트로크의 경계의 픽셀은 부분적으로는 서브 픽셀 수준까지 영향을 받습니다.
+
+서브 픽셀 수준의 영향을 받지 않는 결과물을 얻고 싶다면, [연필](./14-03-06-pencil.md) 도구를 사용하세요. 이 도구는 모든 붓이 딱딱한 경계이며, 서브 픽셀의 [부드럽게 하기(안티-앨리어싱)](./19-glossaryx-antialiasing.md) 효과를 없애줍니다.
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: ?]()
+
+[⬅️ 이전: 14.3.1.3.3. 색상 지우기(Color Erase)](./14-03-01-03-03-color_erase.md)
+
+[⬆️ 위: 14.3.1. 일반적인 특징(Common features)](./14-03-01-00-common-features.md)
+
+[⬆️ 위: 14.3. 그리기 도구(Paint tools)](./14-03-00-paint-tools.md)
+
+[⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-tools-paint.html#idm12094)
