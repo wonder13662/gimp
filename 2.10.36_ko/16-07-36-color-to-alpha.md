@@ -1,4 +1,4 @@
-# 16.7.36. Color to alpha
+# 16.7.36. 색을 알파로(Color to alpha)
 
 ### [Home](./00-home.md)
 ### [Parent: 16.7. The "Layer" menu](./16-07-00-the-layer-menu.md)

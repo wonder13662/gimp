@@ -172,7 +172,7 @@
 ## [16.7.33. The transparency submenu of the layer menu](./16-07-33-the-transparency-submenu-of-the-layer-menu.md)
 ## [16.7.34. Add alpha channel](./16-07-34-add-alpha-channel.md)
 ## [16.7.35. Remove alpha channel](./16-07-35-remove-alpha-channel.md)
-## [16.7.36. Color to alpha](./16-07-36-color-to-alpha.md)
+## [16.7.36. 색을 알파로(Color to alpha)](./16-07-36-color-to-alpha.md)
 ## [16.7.37. Semi flatten](./16-07-37-semi-flatten.md)
 ## [16.7.38. Threshold alpha](./16-07-38-threshold-alpha.md)
 ## [16.7.39. Alpha to selection](./16-07-39-alpha-to-selection.md)

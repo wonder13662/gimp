@@ -1959,7 +1959,7 @@ module.exports = {
       ],
       [
         '16-07-36-color-to-alpha.md', 
-        '16.7.36. Color to alpha'
+        '16.7.36. 색을 알파로(Color to alpha)'
       ],
       [
         '16-07-37-semi-flatten.md', 
