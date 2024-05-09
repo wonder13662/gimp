@@ -1,4 +1,4 @@
-# 14.3.2.4. Customizing the Dynamics
+# 14.3.2.4. 동적 요소 설정하기(Customizing the Dynamics)
 
 ### [Home](./00-home.md)
 ### [Parent: 14.3. 그리기 도구(Paint tools)](./14-03-00-paint-tools.md)

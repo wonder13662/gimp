@@ -1,4 +1,4 @@
-# 14.3.2.5. Dynamic Examples
+# 14.3.2.5. 동적 요소 예제(Dynamic Examples)
 
 ### [Home](./00-home.md)
 ### [Parent: 14.3. 그리기 도구(Paint tools)](./14-03-00-paint-tools.md)

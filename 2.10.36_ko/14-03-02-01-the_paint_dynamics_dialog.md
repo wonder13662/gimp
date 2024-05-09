@@ -1,4 +1,4 @@
-# 14.3.2.1. The Paint Dynamics Dialog
+# 14.3.2.1. 페인트 동적 요소 대화상자(The Paint Dynamics Dialog)
 
 ### [Home](./00-home.md)
 ### [Parent: 14.3. 그리기 도구(Paint tools)](./14-03-00-paint-tools.md)

@@ -59,6 +59,16 @@
 
 [14.3.2. 동적 요소(Dynamics)](./14-03-02-00-dynamics.md)
 
+[14.3.2.1. 페인트 동적 요소 대화상자(The Paint Dynamics Dialog)](./14-03-02-01-the_paint_dynamics_dialog.md)
+
+[14.3.2.2. 페인트 동적 요소 수정하기(Editing Paint Dynamics)](./14-03-02-02-editing_paint_dynamics.md)
+
+[14.3.2.3. 페인트 동적 요소 매트릭스(The Paint Dynamics Matrix)](./14-03-02-03-the_paint_dynamics_matrix.md)
+
+[14.3.2.4. 동적 요소 설정하기(Customizing the Dynamics)](./14-03-02-04-customizing_the_dynamics.md)
+
+[14.3.2.5. 동적 요소 예제(Dynamic Examples)](./14-03-02-05-dynamics_examples.md)
+
 [14.3.3. 붓 도구 (연필, 칠하기붓, 에어브러시) - Brush tools (pencil, paintbrush, airbrush)](./14-03-03-brush-tools-pencil-paintbrush-airbrush.md)
 
 [14.3.4. 채우기 도구(Bucket fill)](./14-03-04-bucket-fill.md)

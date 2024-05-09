@@ -1,4 +1,4 @@
-# 14.3.2.2. Editing Paint Dynamics
+# 14.3.2.2. 페인트 동적 요소 수정하기(Editing Paint Dynamics)
 
 ### [Home](./00-home.md)
 ### [Parent: 14.3. 그리기 도구(Paint tools)](./14-03-00-paint-tools.md)
