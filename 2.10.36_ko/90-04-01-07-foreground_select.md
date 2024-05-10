@@ -12,6 +12,8 @@
 
 [14.2.8.2. 사용법(Direction for use) - 영상 90.4.1.7.a2](./14-02-08-02-00-directions_for_use.md#90-04-01-07-a2)
 
+[14.2.8.2.1. 선택 만들기(Create Selection)](./14-02-08-02-01-create_selection.md#90-04-01-07-a2)
+
 <a id="90-04-01-07-a2-01"></a>
 
 #### 영상 90.4.1.7.a2.1. `도구옵션` → `전경 선택` → `엔진` → `Matting Global` (Mac)
