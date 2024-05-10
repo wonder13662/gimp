@@ -1,4 +1,4 @@
-# 14.3.2.3. 페인트 동적 요소 매트릭스(The Paint Dynamics Matrix)
+# 14.3.2.3. 페인트 동적 요소 행렬(The Paint Dynamics Matrix)
 
 ### [Home](./00-home.md)
 ### [Parent: 14.3. 그리기 도구(Paint tools)](./14-03-00-paint-tools.md)

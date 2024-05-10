@@ -135,7 +135,7 @@ You can get the dynamics context menu ny right clicking on a dynamics preset. Mo
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 14.3.2.2. 페인트 동적 요소 수정하기(Editing Paint Dynamics)](./14-03-02-02-editing_paint_dynamics.md)
 
 [⬅️ 이전: 14.3.2. 동적 요소(Dynamics)](./14-03-02-00-dynamics.md)
 

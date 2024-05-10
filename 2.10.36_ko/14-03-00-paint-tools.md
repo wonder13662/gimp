@@ -63,7 +63,7 @@
 
 [14.3.2.2. 페인트 동적 요소 수정하기(Editing Paint Dynamics)](./14-03-02-02-editing_paint_dynamics.md)
 
-[14.3.2.3. 페인트 동적 요소 매트릭스(The Paint Dynamics Matrix)](./14-03-02-03-the_paint_dynamics_matrix.md)
+[14.3.2.3. 페인트 동적 요소 행렬(The Paint Dynamics Matrix)](./14-03-02-03-the_paint_dynamics_matrix.md)
 
 [14.3.2.4. 동적 요소 설정하기(Customizing the Dynamics)](./14-03-02-04-customizing_the_dynamics.md)
 
