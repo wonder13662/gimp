@@ -33,7 +33,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.8.2. 그리기 도구(Paint Tools)](./90-01-08-02-00-paint_tools.md)
+[➡️ 다음: 90.1.8.2. 칠하기 도구(Paint Tools)](./90-01-08-02-00-paint_tools.md)
 
 [⬅️ 이전: 90.1.8.1.6. 색상으로 선택(By Color Select)](./90-01-08-01-06-by_color_select.md)
 

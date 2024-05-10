@@ -520,7 +520,7 @@
 
 [90.1.8.1.7. 똑똑한 가위(Intelligent Scissors)](./90-01-08-01-07-intelligent_scissors.md)
 
-[90.1.8.2. 그리기 도구(Paint Tools)](./90-01-08-02-00-paint_tools.md)
+[90.1.8.2. 칠하기 도구(Paint Tools)](./90-01-08-02-00-paint_tools.md)
 
 [90.1.8.2.1. 영역 채우기(Bucket Fill)](./90-01-08-02-01-bucket_fill.md)
 
