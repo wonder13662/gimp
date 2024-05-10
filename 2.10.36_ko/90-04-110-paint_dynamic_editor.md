@@ -6,6 +6,8 @@
 #### 그림 90.4.110.a101. `페인트 동적 요소 편집기` 대화상자 (Windows) (우리말)
 ![90-04-110-a101](https://github.com/wonder13662/gimp/assets/15767104/32cefec8-31ee-4077-85a1-9421ecb0f7fe)
 
+[14.3.2.1. 페인트 동적 요소 대화상자(The Paint Dynamics Dialog) - 그림 90.4.110.a101](./14-03-02-01-the_paint_dynamics_dialog.md#90-04-110-a101)
+
 <a id="90-04-110-a101-01"></a>
 
 #### 그림 90.4.110.a101.1. `페인트 동적 요소 편집기` 대화상자 → `지터` (Windows) (우리말)

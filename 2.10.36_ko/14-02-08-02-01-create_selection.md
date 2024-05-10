@@ -84,7 +84,7 @@
 
 <a id="90-04-01-07-a2"></a>
 
-#### [영상 90.4.1.7.a2. `도구옵션` → `전경 선택` → `엔진`: 드롭다운 목록 (Mac)](./90-03-02-07-foreground_select.md#90-04-01-07-a2)
+#### [영상 90.4.1.7.a2. `도구옵션` → `전경 선택` → `엔진`: 드롭다운 목록 (Mac)](./90-04-01-07-foreground_select.md#90-04-01-07-a2)
 ![90-04-01-07-a2](https://github.com/wonder13662/gimp/assets/15767104/f4c3f71f-696e-4071-9227-803b25d2a357)
 
 [관련 정보: Downsample](./19-glossaryx-downsample.md)
