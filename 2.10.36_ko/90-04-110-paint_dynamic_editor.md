@@ -10,6 +10,8 @@
 
 [14.3.2.2. 페인트 동적 요소 수정하기(Editing Paint Dynamics) - 그림 90.4.110.a101](./14-03-02-02-editing_paint_dynamics.md#90-04-110-a101)
 
+[14.3.2.3. 페인트 동적 요소 행렬(The Paint Dynamics Matrix) - 그림 90.4.110.a101](./14-03-02-03-the_paint_dynamics_matrix.md#90-04-110-a101)
+
 <a id="90-04-110-a101-01"></a>
 
 #### 그림 90.4.110.a101.1. `페인트 동적 요소 편집기` 대화상자 → `지터` (Windows) (우리말)
