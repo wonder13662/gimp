@@ -15,7 +15,7 @@ Ctrl(⌘) 키를 누르는 것은 모든 그리기 도구에 특별한 효과를
 
 <a id="90-10-07-01-01-a2"></a>
 
-#### [영상 90.10.7.1.1.a2. 그리기 도구:지우개 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 배경색 바꾸기](./90-10-07-01-01-switch_tool_mode.md)
+#### [영상 90.10.7.1.1.a2. 그리기 도구:지우개 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 배경색 바꾸기](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a2)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/69edb0c4-6ba7-4d3e-b258-371169744a64"></video>
 
 ### 1-2. 도장(Clone) 도구의 복제 지점을 바꾸기
