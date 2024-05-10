@@ -48,6 +48,25 @@
 
 [14.3.2.2. 페인트 동적 요소 수정하기(Editing Paint Dynamics) - 그림 90.4.110.a111.2](./14-03-02-02-editing_paint_dynamics.md#90-04-110-a111-02)
 
+<a id="90-04-110-a112-01"></a>
+
+#### 그림 90.4.110.a112.1. `페인트 동적 요소 편집기` 대화상자: 옵션 드롭다운 목록 (Windows) (우리말)
+![90-04-110-a112-01](https://github.com/wonder13662/gimp/assets/15767104/bdd5f5df-a0d8-4cbb-9979-8e703b6a3fd0)
+
+[14.3.2.4. 동적 요소 설정하기(Customizing the Dynamics) - 그림 90.4.110.a112.1](./14-03-02-04-customizing_the_dynamics.md#90-04-110-a112-01)
+
+<a id="90-04-110-a112-02"></a>
+
+#### 영상 90.4.110.a112.2. `페인트 동적 요소 편집기` 대화상자: 옵션 드롭다운 목록 - Color 옵션 선택 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/87b71eb4-ac81-4e2c-9a56-303640f48e66"></video>
+
+[14.3.2.4. 동적 요소 설정하기(Customizing the Dynamics) - 영상 90.4.110.a112.2](./14-03-02-04-customizing_the_dynamics.md#90-04-110-a112-02)
+
+<a id="90-04-110-a112-03"></a>
+
+#### 그림 90.4.110.a112.3. `페인트 동적 요소 편집기` 대화상자: 옵션 드롭다운 목록 - Color 옵션 - 미세조정 커브 (Windows) (우리말)
+![90-04-110-a112-03](https://github.com/wonder13662/gimp/assets/15767104/b7e7ca90-7431-4e62-ba1e-51ad0517d817)
+
 ***
 
 ## 다른 페이지로 가기
