@@ -32,6 +32,20 @@
 #### 그림 90.4.110.a104. `페인트 동적 요소 편집기` 대화상자 (Mac) (영어)
 ![90-04-110-a104](https://github.com/wonder13662/gimp/assets/15767104/1f69c96a-b531-4d58-97a1-291787d52dfa)
 
+<a id="90-04-110-a111-01"></a>
+
+#### 그림 90.4.110.a111.1. `페인트 동적 요소 편집기` 대화상자: 동적 요소 프리셋 수정 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c0ffe35a-dcae-48f9-84b9-ac62f6e54366"></video>
+
+[14.3.2.2. 페인트 동적 요소 수정하기(Editing Paint Dynamics) - 그림 90.4.110.a111.1](./14-03-02-02-editing_paint_dynamics.md#90-04-110-a111-01)
+
+<a id="90-04-110-a111-02"></a>
+
+#### 그림 90.4.110.a111.2. `페인트 동적 요소 편집기` 대화상자: 기본 설치된 동적 요소 프리셋 수정불가 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/80c810a1-7ed3-4074-92e4-be3217a09b31"></video>
+
+[14.3.2.2. 페인트 동적 요소 수정하기(Editing Paint Dynamics) - 그림 90.4.110.a111.2](./14-03-02-02-editing_paint_dynamics.md#90-04-110-a111-02)
+
 ***
 
 ## 다른 페이지로 가기
