@@ -1412,6 +1412,8 @@
 
 [90.4.109. 전경 선택(Foreground Select)](./90-04-109-foreground_select.md)
 
+[90.4.110. 페인트 동적 요소 편집기(Paint Dynamic Editor)](./90-04-110-paint_dynamic_editor.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

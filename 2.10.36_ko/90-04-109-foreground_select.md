@@ -61,7 +61,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.110. 페인트 동적 요소 편집기(Paint Dynamic Editor)](./90-04-110-paint_dynamic_editor.md)
 
 [⬅️ 이전: 90.4.108. 도구 프리셋 편집기(Tool Preset Editor)](./90-04-108-tool_preset_editor.md)
 

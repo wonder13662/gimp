@@ -520,6 +520,10 @@
 #### 그림 90.4.109.a101. `전경 선택` 대화상자 (Windows) (우리말)
 ![90-04-109-a101](https://github.com/wonder13662/gimp/assets/15767104/1cfe2f58-293d-411e-84d6-6a2ac35c8d1f)
 
+### [90.4.110. 페인트 동적 요소 편집기(Paint Dynamic Editor)](./90-04-110-paint_dynamic_editor.md)
+#### 그림 90.4.110.a101. `페인트 동적 요소 편집기` 대화상자 (Windows) (우리말)
+![90-04-110-a101](https://github.com/wonder13662/gimp/assets/15767104/32cefec8-31ee-4077-85a1-9421ecb0f7fe)
+
 ***
 
 ## 공통 기능
