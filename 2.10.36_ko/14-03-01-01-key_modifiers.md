@@ -39,7 +39,7 @@ Ctrl(⌘) 키를 누르는 것은 모든 그리기 도구에 특별한 효과를
 
 <a id="90-10-07-01-01-a5"></a>
 
-#### [영상 90.10.7.1.1.a5. 그리기 도구:`닷지/번` - Ctrl(⌘) 키](./90-10-00-keyboard_shortcut.md#90-10-07-01-01-a5)
+#### [영상 90.10.7.1.1.a5. 그리기 도구:`닷지/번` - Ctrl(⌘) 키](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a5)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7738f0a3-399f-4643-829e-c5ddec5ea1c4"></video>
 
 ## 2. Shift(⇧) - 직선 그리기
