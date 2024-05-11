@@ -59,7 +59,7 @@ Ctrl(⌘)키와 Shift(⇧) 키를 함께 누르고 있으면 그리기 도구에
 
 <a id="90-10-07-03-01-a1"></a>
 
-#### [영상 90.10.7.3.1.a1. `도구상자` → `그리기 붓` + Ctrl(⌘) + Shift(⇧): 직선그리기](./90-10-00-keyboard_shortcut.md#90-10-07-03-01-a1)
+#### [영상 90.10.7.3.1.a1. `도구상자` → `그리기 붓` + Ctrl(⌘) + Shift(⇧): 직선그리기](./90-10-07-03-01-draw_straight_line.md#90-10-07-03-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/19594520-4c4d-4bd6-98f6-c31e3b3af8d1"></video>
 
 ***
