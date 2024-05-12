@@ -31,4 +31,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-tool-dynamics.html#idm12379)
+[원문](https://docs.gimp.org/2.10/ko/gimp-tools-brush.html)

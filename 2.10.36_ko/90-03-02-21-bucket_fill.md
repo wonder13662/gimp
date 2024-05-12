@@ -1,7 +1,9 @@
 # 90.3.2.21. 도구 아이콘(Tool icon) - 영역 채우기(Bucket fill)
 
+<a id="90-03-02-21-a1"></a>
+
 #### 그림 90.3.2.21.a1. 도구상자의 영역 채우기의 도구옵션
-<img width="1080" alt="그림 90.3.2.21.a1. 도구상자의 영역 채우기의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/c9462cb5-c074-4e0b-a94a-af8643171de3">
+![90-03-02-21-a1](https://github.com/wonder13662/gimp/assets/15767104/c9462cb5-c074-4e0b-a94a-af8643171de3)
 
 <a id="90-03-02-21-a2"></a>
 
@@ -11,6 +13,8 @@
 [3.4.10. 원하는 개체만 선택하여 분리하기 - 그림 90.3.2.21.a2](./03-04-10-separating-an-object-from-its-background.md#90-03-02-21-a2)
 
 [7.1.2. 부분적으로 투명한 선택 만들기 - 그림 90.3.2.21.a2](./07-01-02-making_a_selection_partially_transparent.md#90-03-02-21-a2)
+
+[14.3.4. 채우기 도구(Bucket fill) - 그림 90.3.2.21.a2](./14-03-04-00-bucket-fill.md#90-03-02-21-a2)
 
 <a id="90-03-02-21-a3"></a>
 
