@@ -25,7 +25,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.3.2.5. 동적 요소 예제(Dynamic Examples)](./14-03-02-05-dynamics_examples.md)
+[➡️ 다음: 14.3.2.5. 동적 요소 예제(Dynamic Examples)](./14-03-02-05-00-dynamics_examples.md)
 
 [⬅️ 이전: 14.3.2.3. 페인트 동적 요소 행렬(The Paint Dynamics Matrix)](./14-03-02-03-the_paint_dynamics_matrix.md)
 

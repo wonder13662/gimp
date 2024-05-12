@@ -59,7 +59,7 @@
 
 [➡️ 다음: 14.3.3. 붓 도구 (연필, 칠하기붓, 에어브러시) - Brush tools (pencil, paintbrush, airbrush)](./14-03-03-00-brush-tools-pencil-paintbrush-airbrush.md)
 
-[⬅️ 이전: 14.3.2.5. 동적 요소 예제(Dynamic Examples)](./14-03-02-05-dynamics_examples.md)
+[⬅️ 이전: 14.3.2.5.1. Abstract 1 그라디언트 구체(Abstract 1 Gradient Sphere)](./14-03-02-05-01-abtract_gradient_sphere.md)
 
 [⬆️ 위: 14.3.2. 동적 요소(Dynamics)](./14-03-02-00-dynamics.md)
 
