@@ -57,7 +57,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.3.3. 붓 도구 (연필, 칠하기붓, 에어브러시) - Brush tools (pencil, paintbrush, airbrush)](./14-03-03-brush-tools-pencil-paintbrush-airbrush.md)
+[➡️ 다음: 14.3.3. 붓 도구 (연필, 칠하기붓, 에어브러시) - Brush tools (pencil, paintbrush, airbrush)](./14-03-03-00-brush-tools-pencil-paintbrush-airbrush.md)
 
 [⬅️ 이전: 14.3.2.5. 동적 요소 예제(Dynamic Examples)](./14-03-02-05-dynamics_examples.md)
 

@@ -2,10 +2,12 @@
 
 <a id="90-10-07-01-01-a1"></a>
 
-#### 영상 90.10.7.1.1.a1. 그리기 도구:연필, 그리기 붓, 에어브러시, 잉크 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 전경색 바꾸기
+#### 영상 90.10.7.1.1.a1. 그리기 도구:그리기 붓 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 전경색 바꾸기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/878059d8-bfee-451d-82bb-be5679427892"></video>
 
 [14.3.1.1. 동작 변경키(Key modifiers) - 영상 90.10.7.1.1.a1](./14-03-01-01-key_modifiers.md#90-10-07-01-01-a1)
+
+[14.3.3.1. 동작 변경키(Key Modifiers) - 영상 90.10.7.1.1.a1](./14-03-03-01-key_modifiers.md#90-10-07-01-01-a1)
 
 <a id="90-10-07-01-01-a2"></a>
 

@@ -926,7 +926,7 @@ module.exports = {
         '14.3.2. 동적 요소(Dynamics)'
       ],
       [
-        '14-03-03-brush-tools-pencil-paintbrush-airbrush.md', 
+        '14-03-03-00-brush-tools-pencil-paintbrush-airbrush.md', 
         '14.3.3. 붓 도구 (연필, 칠하기붓, 에어브러시) - Brush tools (pencil, paintbrush, airbrush)'
       ],
       [

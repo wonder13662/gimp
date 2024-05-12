@@ -180,7 +180,11 @@
 
 [14.3.2.5. 동적 요소 예제(Dynamic Examples)](./14-03-02-05-dynamics_examples.md)
 
-[14.3.3. 붓 도구 (연필, 칠하기붓, 에어브러시) - Brush tools (pencil, paintbrush, airbrush)](./14-03-03-brush-tools-pencil-paintbrush-airbrush.md)
+[14.3.2.6. 동적 요소 옵션(Dynamics Options)](./14-03-02-06-dynamics_options.md)
+
+[14.3.3. 붓 도구 (연필, 칠하기붓, 에어브러시) - Brush tools (pencil, paintbrush, airbrush)](./14-03-03-00-brush-tools-pencil-paintbrush-airbrush.md)
+
+[14.3.3.1. 동작 변경키(Key Modifiers)](./14-03-03-01-key_modifiers.md)
 
 [14.3.4. 채우기 도구(Bucket fill)](./14-03-04-bucket-fill.md)
 
