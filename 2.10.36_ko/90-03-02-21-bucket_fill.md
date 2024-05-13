@@ -73,7 +73,7 @@
 
 <a id="90-03-02-21-a5-02-01"></a>
 
-#### 영상 90.3.2.21.a5.2.1. `도구 옵션` → `영역 채우기` → `영향을 받는 영역` → `같은 색상 채우기`: 레이어 클릭 (Windows) (우리말)
+#### 영상 90.3.2.21.a5.2.1. `도구 옵션` → `영역 채우기` → `영향을 받는 영역` → `비슷한 색상 채우기`: 레이어 클릭 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1fbc0e02-77f1-40b7-bea8-7dffd6b14da4"></video>
 
 [14.3.4.3.4. 영향을 받는 영역(Affected Area) - 그림 90.3.2.21.a5.2.1](./14-03-04-03-04-00-affected_area.md#90-03-02-21-a5-02-01)
@@ -84,6 +84,8 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9e047014-0ab5-4851-8ed4-04287e5380cf"></video>
 
 [14.3.4.3.4. 영향을 받는 영역(Affected Area) - 영상 90.3.2.21.a5.3.1](./14-03-04-03-04-00-affected_area.md#90-03-02-21-a5-03-01)
+
+[14.3.4.3.4.1. Smart Colorization - 영상 90.3.2.21.a5.3.1](./14-03-04-03-04-01-smart_colorization.md#90-03-02-21-a5-03-01)
 
 <a id="90-03-02-21-a6"></a>
 
