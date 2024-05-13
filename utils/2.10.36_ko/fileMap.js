@@ -931,8 +931,8 @@ module.exports = {
       ],
       [
         '14-03-04-00-bucket-fill.md', 
-        '14.3.4. 채우기 도구(Bucket fill)',
-        '14.3.4. 채우기 도구'
+        '14.3.4. 영역 채우기(Bucket fill)',
+        '14.3.4. 영역 채우기'
       ],
       [
         '14-03-05-gradient.md', 

@@ -1125,7 +1125,7 @@
 
 [14.3.3.1. 동작 변경키(Key Modifiers)](./14-03-03-01-key_modifiers.md)
 
-[14.3.4. 채우기 도구(Bucket fill)](./14-03-04-00-bucket-fill.md)
+[14.3.4. 영역 채우기(Bucket fill)](./14-03-04-00-bucket-fill.md)
 
 [14.3.4.1. 도구 활성화하기(Activating the tools)](./14-03-04-01-activating_the_tool.md)
 
@@ -2765,6 +2765,28 @@
 [90.10.7.8.3. `[`, `]` 키로 붓 크기 바꾸기](./90-10-07-08-03-adjust_brush_size-bracket_key.md)
 
 [90.10.7.8.4. `{`, `}` 키로 붓 크기 바꾸기](./90-10-07-08-04-adjust_brush_size-curly_bracket_key.md)
+
+[90.10.8. `영역 채우기붓` 도구](./90-10-08-00-bucket_fill.md)
+
+[90.10.8.1. 키보드 단축키](./90-10-08-01-00-keyboard_shortcut.md)
+
+[90.10.8.1.1. 키보드 단축키 Shift(⇧) + `B`](./90-10-08-01-00-keyboard_shortcut.md)
+
+[90.10.8.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-08-02-00-key_modifier-ctrl.md)
+
+[90.10.8.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-08-02-01-switch_tool_mode.md)
+
+[90.10.8.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-08-03-00-key_modifier-shift.md)
+
+[90.10.8.3.1. 전체 선택 채우기(Fill whole selection)로 바꾸기](./90-10-08-03-01-switch_fill_whole_selection.md)
+
+[90.10.8.4. Alt(⌥):동작 변경키(Key modifiers)](./90-10-08-04-00-key_modifier-alt.md)
+
+[90.10.8.4.1. 배경색으로 채우기(BG color fill)로 바꾸기](./90-10-08-04-01-switch_bg_color_fill.md)
+
+[90.10.8.5. Ctrl(⌘) + Alt(⌥):동작 변경키(Key modifiers)](./90-10-08-05-00-key_modifier-ctrl_alt.md)
+
+[90.10.8.5.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-08-05-01-switch_tool_mode.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

@@ -7,6 +7,8 @@
 
 [관련 정보: 14.3.1.1. 동작 변경키(Key modifiers) - 1-1. 색상 추출 도구(Color Picker)로 바꾸기](./14-03-01-01-key_modifiers.md#14-03-01-01-s1-01)
 
+[관련 정보: 14.3.4.2. 동작 변경키(Key modifiers) - 1. Ctrl(⌘)](./14-03-04-02-key_modifiers.md#14-03-04-02-s1)
+
 <a id="90-10-07-01-01-a1"></a>
 
 #### [영상 90.10.7.1.1.a1. 그리기 도구:그리기 붓 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 전경색 바꾸기](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a1)
@@ -41,7 +43,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.3.4. 채우기 도구(Bucket fill)](./14-03-04-00-bucket-fill.md)
+[➡️ 다음: 14.3.4. 영역 채우기(Bucket fill)](./14-03-04-00-bucket-fill.md)
 
 [⬅️ 이전: 14.3.3. 붓 도구 (연필, 칠하기붓, 에어브러시) - Brush tools (pencil, paintbrush, airbrush)](./14-03-03-00-brush-tools-pencil-paintbrush-airbrush.md)
 

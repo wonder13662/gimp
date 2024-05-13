@@ -1,10 +1,10 @@
-# 90.10.8.1. 키보드 단축키
+# 90.10.8.3. Shift(⇧):동작 변경키(Key modifiers)
 
 ***
 
 ## 하위 페이지
 
-[90.10.8.1.1. 키보드 단축키 Shift(⇧) + `B`](./90-10-08-01-00-keyboard_shortcut.md)
+[90.10.8.3.1. 전체 선택 채우기(Fill whole selection)로 바꾸기](./90-10-08-03-01-switch_fill_whole_selection.md)
 
 ***
 

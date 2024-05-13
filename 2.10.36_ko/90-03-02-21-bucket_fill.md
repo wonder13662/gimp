@@ -14,7 +14,7 @@
 
 [7.1.2. 부분적으로 투명한 선택 만들기 - 그림 90.3.2.21.a2](./07-01-02-making_a_selection_partially_transparent.md#90-03-02-21-a2)
 
-[14.3.4. 채우기 도구(Bucket fill) - 그림 90.3.2.21.a2](./14-03-04-00-bucket-fill.md#90-03-02-21-a2)
+[14.3.4. 영역 채우기(Bucket fill) - 그림 90.3.2.21.a2](./14-03-04-00-bucket-fill.md#90-03-02-21-a2)
 
 [14.3.4.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.21.a2](./14-03-04-01-activating_the_tool.md#90-03-02-21-a2)
 
@@ -31,6 +31,20 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e353c60f-3ce9-4b01-b3d8-f366c65f3d8b"></video>
 
 [14.3.4.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.21.a4](./14-03-04-01-activating_the_tool.md#90-03-02-21-a4)
+
+<a id="90-03-02-21-a5"></a>
+
+#### 그림 90.3.2.21.a5. `도구 옵션` → `영역 채우기` → `영향을 받는 영역` (Windows) (우리말)
+![90-03-02-21-a5](https://github.com/wonder13662/gimp/assets/15767104/70a20741-4795-441b-9bff-a2f8a1b8643e)
+
+[14.3.4.2. 동작 변경키(Key modifiers) - 영상 90.3.2.21.a5](./14-03-04-02-key_modifiers.md#90-03-02-21-a5)
+
+<a id="90-03-02-21-a6"></a>
+
+#### 그림 90.3.2.21.a6. `도구 옵션` → `영역 채우기` → `채우기 유형` (Windows) (우리말)
+![90-03-02-21-a6](https://github.com/wonder13662/gimp/assets/15767104/1533b07b-5234-42f0-9385-8b3b87ffd3a1)
+
+[14.3.4.2. 동작 변경키(Key modifiers) - 영상 90.3.2.21.a6](./14-03-04-02-key_modifiers.md#90-03-02-21-a6)
 
 ***
 

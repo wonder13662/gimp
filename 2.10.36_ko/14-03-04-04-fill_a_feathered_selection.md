@@ -8,7 +8,7 @@
 
 [⬅️ 이전: 14.3.4.3. 옵션(Options)](./14-03-04-03-options.md)
 
-[⬆️ 위: 14.3.4. 채우기 도구(Bucket fill)](./14-03-04-00-bucket-fill.md)
+[⬆️ 위: 14.3.4. 영역 채우기(Bucket fill)](./14-03-04-00-bucket-fill.md)
 
 [⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
 

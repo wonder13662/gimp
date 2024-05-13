@@ -188,7 +188,7 @@
 
 [14.3.3.1. 동작 변경키(Key Modifiers)](./14-03-03-01-key_modifiers.md)
 
-[14.3.4. 채우기 도구(Bucket fill)](./14-03-04-00-bucket-fill.md)
+[14.3.4. 영역 채우기(Bucket fill)](./14-03-04-00-bucket-fill.md)
 
 [14.3.4.1. 도구 활성화하기(Activating the tools)](./14-03-04-01-activating_the_tool.md)
 
