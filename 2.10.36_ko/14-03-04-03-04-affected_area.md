@@ -1,12 +1,14 @@
-# 14.3.4.3. 옵션(Options)
+# 14.3.4.3.4. 영향을 받는 영역(Affected Area)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.3.4.4. 흐릿한 경계가 있는 선택 채우기(Fill a feathered selection)](./14-03-04-04-fill_a_feathered_selection.md)
+[➡️ 다음: 14.3.4.3.5. 비슷한 색 찾기(Finding Similar Colors)](./14-03-04-03-05-finding_similar_colors.md)
 
-[⬅️ 이전: 14.3.4.2. 동작 변경키(Key modifiers)](./14-03-04-02-key_modifiers.md)
+[⬅️ 이전: 14.3.4.3.3. 채우기 유형(Fill Type)](./14-03-04-03-03-fill_type.md)
+
+[⬆️ 위: 14.3.4.3. 옵션(Options)](./14-03-04-03-00-options.md)
 
 [⬆️ 위: 14.3.4. 영역 채우기(Bucket fill)](./14-03-04-00-bucket-fill.md)
 

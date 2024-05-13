@@ -28,7 +28,7 @@ Ctrl(⌘) 키를 누른채로 클릭하여 `영역 채우기(Bucket fill)`를 �
 
 [14.3.4.2. 동작 변경키(Key modifiers)](./14-03-04-02-key_modifiers.md)
 
-[14.3.4.3. 옵션(Options)](./14-03-04-03-options.md)
+[14.3.4.3. 옵션(Options)](./14-03-04-03-00-options.md)
 
 [14.3.4.4. 흐릿한 경계가 있는 선택 채우기(Fill a feathered selection)](./14-03-04-04-fill_a_feathered_selection.md)
 

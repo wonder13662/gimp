@@ -3,7 +3,9 @@
 <a id="90-03-02-21-a1"></a>
 
 #### 그림 90.3.2.21.a1. `도구 옵션` → `영역 채우기`
-![90-03-02-21-a1](https://github.com/wonder13662/gimp/assets/15767104/c9462cb5-c074-4e0b-a94a-af8643171de3)
+![90-03-02-21-a1](https://github.com/wonder13662/gimp/assets/15767104/3b83bc10-b637-4370-b9e5-e7ca4ffc882a)
+
+[14.3.4.3. 옵션(Options) - 그림 90.3.2.21.a1](./14-03-04-03-00-options.md#90-03-02-21-a1)
 
 <a id="90-03-02-21-a2"></a>
 
@@ -35,16 +37,58 @@
 <a id="90-03-02-21-a5"></a>
 
 #### 그림 90.3.2.21.a5. `도구 옵션` → `영역 채우기` → `영향을 받는 영역` (Windows) (우리말)
-![90-03-02-21-a5](https://github.com/wonder13662/gimp/assets/15767104/70a20741-4795-441b-9bff-a2f8a1b8643e)
+![90-03-02-21-a5](https://github.com/wonder13662/gimp/assets/15767104/41ac51ab-56bb-48d6-99e5-bdd43578d77f)
 
 [14.3.4.2. 동작 변경키(Key modifiers) - 영상 90.3.2.21.a5](./14-03-04-02-key_modifiers.md#90-03-02-21-a5)
 
 <a id="90-03-02-21-a6"></a>
 
 #### 그림 90.3.2.21.a6. `도구 옵션` → `영역 채우기` → `채우기 유형` (Windows) (우리말)
-![90-03-02-21-a6](https://github.com/wonder13662/gimp/assets/15767104/1533b07b-5234-42f0-9385-8b3b87ffd3a1)
+![90-03-02-21-a6](https://github.com/wonder13662/gimp/assets/15767104/f61767e0-bb49-4fe5-bb42-8c472f13b609)
 
 [14.3.4.2. 동작 변경키(Key modifiers) - 영상 90.3.2.21.a6](./14-03-04-02-key_modifiers.md#90-03-02-21-a6)
+
+<a id="90-03-02-21-a6-01"></a>
+
+#### 영상 90.3.2.21.a6.1. `도구 옵션` → `영역 채우기` → `채우기 유형` → `전경색으로 채우기` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/726ed0c3-99b3-4be1-8455-b38b778aadfd"></video>
+
+[14.3.4.3.3. 채우기 유형(Fill Type) - 영상 90.3.2.21.a6.1](./14-03-04-03-03-fill_type.md#90-03-02-21-a6-01)
+
+<a id="90-03-02-21-a6-02"></a>
+
+#### 영상 90.3.2.21.a6.2. `도구 옵션` → `영역 채우기` → `채우기 유형` → `배경색으로 채우기` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/603914d0-4ae1-44d5-ba57-fd11d1f73150"></video>
+
+[14.3.4.3.3. 채우기 유형(Fill Type) - 영상 90.3.2.21.a6.2](./14-03-04-03-03-fill_type.md#90-03-02-21-a6-02)
+
+<a id="90-03-02-21-a6-03"></a>
+
+#### 영상 90.3.2.21.a6.3. `도구 옵션` → `영역 채우기` → `채우기 유형` → `무늬로 채우기` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cb4d0768-10ab-49b0-bfab-e4c2b0b73ba3"></video>
+
+[14.3.4.3.3. 채우기 유형(Fill Type) - 영상 90.3.2.21.a6.3](./14-03-04-03-03-fill_type.md#90-03-02-21-a6-03)
+
+<a id="90-03-02-21-a6-03-01"></a>
+
+#### 그림 90.3.2.21.a6.3.1. `도구 옵션` → `영역 채우기` → `채우기 유형` → `무늬로 채우기` → `무늬 목록` (Windows) (우리말)
+![90-03-02-21-a6-03-01](https://github.com/wonder13662/gimp/assets/15767104/dbbc5c02-e42d-486c-8201-37114c39709b)
+
+[14.3.4.3.3. 채우기 유형(Fill Type) - 그림 90.3.2.21.a6.3.1](./14-03-04-03-03-fill_type.md#90-03-02-21-a6-03-01)
+
+<a id="90-03-02-21-a6-03-02"></a>
+
+#### 영상 90.3.2.21.a6.3.2. `도구 옵션` → `영역 채우기` → `채우기 유형` → `무늬로 채우기` → `무늬 목록`: 목록의 보기 형식 바꾸기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/823a5e3f-27dc-47db-bbe9-84495eca30c7"></video>
+
+[14.3.4.3.3. 채우기 유형(Fill Type) - 영상 90.3.2.21.a6.3.2](./14-03-04-03-03-fill_type.md#90-03-02-21-a6-03-02)
+
+<a id="90-03-02-21-a101"></a>
+
+#### 그림 90.3.2.21.a101. `도구 옵션` → `영역 채우기`: 무늬 사용 - 선택 채우기 (Windows) (우리말)
+![90-03-02-21-a101](https://github.com/wonder13662/gimp/assets/15767104/b8cad5c0-7316-40fd-9eac-4a7a21da7ef8)
+
+[7.11. 무늬(Pattern) - 그림 90.3.2.21.a101](./07-11-patterns.md#90-03-02-21-a101)
 
 ***
 

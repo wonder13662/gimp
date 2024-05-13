@@ -6,7 +6,7 @@
 
 [➡️ 다음: 14.3.5. 그라디언트(Gradient)](./14-03-05-gradient.md)
 
-[⬅️ 이전: 14.3.4.3. 옵션(Options)](./14-03-04-03-options.md)
+[⬅️ 이전: 14.3.4.3.6. 외곽선 감지 옵션("Line Art Detection" option)](./14-03-04-03-06-line_art_detection_options.md)
 
 [⬆️ 위: 14.3.4. 영역 채우기(Bucket fill)](./14-03-04-00-bucket-fill.md)
 

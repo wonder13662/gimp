@@ -1,8 +1,10 @@
 # 7.11. 무늬(Pattern)
 무늬(Pattern)는 타일링으로 채우기를 하는 작은 이미지입니다. 타일링은 마치 세라믹 타일처럼 무늬의 복사본들을 조각조각 이어붙인다는 말입니다. 무늬를 서로 이어붙였을 때 상하좌우의 경계가 명확하게 드러나지 않고 자연스럽게 서로 이어질 경우, 그 무늬를 `tileable`하다고 합니다. 모든 무늬가 `tileable`한 것은 아니지만, `tileable`한 무늬는 여러 용도에 굉장히 유용합니다.
 
-#### 그림 7.11.a1. 무늬 사용 - 선택 채우기
-![07-11-pattern-fill_with_selection(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/b8cad5c0-7316-40fd-9eac-4a7a21da7ef8)
+<a id="90-03-02-21-a101"></a>
+
+#### [그림 90.3.2.21.a101. `도구 옵션` → `영역 채우기`: 무늬 사용 - 선택 채우기 (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a101)
+![90-03-02-21-a101](https://github.com/wonder13662/gimp/assets/15767104/b8cad5c0-7316-40fd-9eac-4a7a21da7ef8)
 
 #### 그림 7.11.a2. 무늬 사용 - 복사(Clone) 도구로 칠하기
 ![07-11-pattern-stroke_with_pattern(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/229b0cef-87f7-4756-82ff-c08c7954d5bc)
