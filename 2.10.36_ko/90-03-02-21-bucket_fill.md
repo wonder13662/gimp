@@ -157,6 +157,64 @@
 
 [14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 영상 90.3.2.21.a7.3](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-03)
 
+<a id="90-03-02-21-a7-04"></a>
+
+#### 영상 90.3.2.21.a7.4. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `임계값` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/93b8f414-8d4c-4991-97a8-72cf32de23d4"></video>
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 영상 90.3.2.21.a7.4](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-04)
+
+<a id="90-03-02-21-a7-05"></a>
+
+#### 그림 90.3.2.21.a7.5. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 예시 원본 (Windows) (우리말)
+![90-03-02-21-a7-05](https://github.com/wonder13662/gimp/assets/15767104/b5e17c74-1f38-4041-b068-e919668a065f)
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 그림 90.3.2.21.a7.5](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-05)
+
+<a id="90-03-02-21-a7-06-01"></a>
+
+#### 그림 90.3.2.21.a7.6.1. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 합성 (Windows) (우리말)
+![90-03-02-21-a7-06-01](https://github.com/wonder13662/gimp/assets/15767104/b8aa443e-f954-4ac2-870c-accc411b9e0e)
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 그림 90.3.2.21.a7.6.1](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-06-01)
+
+<a id="90-03-02-21-a7-06-02"></a>
+
+#### 영상 90.3.2.21.a7.6.2. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 합성 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/47f3d853-c6d1-4304-b39a-4039a8187666"></video>
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 영상 90.3.2.21.a7.6.2](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-06-02)
+
+<a id="90-03-02-21-a7-07-01"></a>
+
+#### 그림 90.3.2.21.a7.7.1. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 빨강(Red) - 빨간 영역 클릭 (Windows) (우리말)
+![90-03-02-21-a7-07-01](https://github.com/wonder13662/gimp/assets/15767104/a11db0b8-4d33-43b7-aa82-db7011d8dfea)
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 그림 90.3.2.21.a7.7.1](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-07-01)
+
+<a id="90-03-02-21-a7-07-02"></a>
+
+#### 영상 90.3.2.21.a7.7.2. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 빨강(Red) - 빨간 영역 클릭 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8955e875-e77f-47e3-879b-788aa738d612"></video>
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 영상 90.3.2.21.a7.7.2](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-07-02)
+
+<a id="90-03-02-21-a7-08-01"></a>
+
+#### 그림 90.3.2.21.a7.8.1. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 빨강(Red) - 녹색 영역 클릭 (Windows) (우리말)
+![90-03-02-21-a7-08-01](https://github.com/wonder13662/gimp/assets/15767104/e218a657-bfc1-478b-a2a1-9f2895e260c8)
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 그림 90.3.2.21.a7.8.1](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-08-01)
+
+<a id="90-03-02-21-a7-08-02"></a>
+
+#### 영상 90.3.2.21.a7.8.2. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 빨강(Red) - 녹색 영역 클릭 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1f89b13d-f543-4756-ba80-ca5b118328b9"></video>
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 영상 90.3.2.21.a7.8.2](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-08-02)
+
+
+
 
 <a id="90-03-02-21-a101"></a>
 

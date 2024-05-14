@@ -37,12 +37,27 @@
 ## 5. 임계값(Threshold)
 `임계값(Threshold)` 슬라이더는 색을 채우는 경계를 구분하는 색의 가중치를 측정하는 단계를 설정합니다. 이 값이 높으면 더 많은 이미지의 색상의 범위가 선택한 색으로 채워집니다. 반대로, 낮은 값을 설정하면, 더 좁은 범위로 선택한 색을 채웁니다.
 
-(TODO 예시 영상 추가 필요 - RGB 그라디언트에서 시연하는 것이 좋을 듯)
+<a id="90-03-02-21-a7-04"></a>
+
+#### [영상 90.3.2.21.a7.4. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `임계값` (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a7-04)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/93b8f414-8d4c-4991-97a8-72cf32de23d4"></video>
 
 ## 6. 다른 방식으로 채우기(Fill by)
-With the `Fill by` option you can choose which component of the image GIMP shall use to calculate the similarity and to determine the borders of filling.
+`다른 방식으로 채우기(Fill by)` 옵션은 색의 비슷한 정도를 계산하는데 사용하는 GIMP(김프)의 이미지 컴포넌트를 선택합니다. 그리고 채우기하는 경계를 결정합니다.
 
-The components you can choose from are `Composite`, `Red`, `Green`, `Blue`, `Alpha`, `HSV Hue`, `HSV Saturation`, `HSV Value`, `LCh Lightness`, `LCh Chroma`, `LCh Hue`
+선택할 수 있는 GIMP(김프)의 이미지 컴포넌트는 아래와 같습니다.
+
+- Composite
+- Red
+- Green
+- Blue
+- Alpha
+- HSV Hue
+- HSV Saturation
+- HSV Value
+- LCh Lightness
+- LCh Chroma
+- LCh Hue
 
 ### 6-1. 원본
 
@@ -54,22 +69,49 @@ The components you can choose from are `Composite`, `Red`, `Green`, `Blue`, `Alp
 |전경색|RGB(255,0,255)|
 |임계값(Threshold)|15|
 
-(TODO 원본 이미지)
+<a id="90-03-02-21-a7-05"></a>
+
+#### [그림 90.3.2.21.a7.5. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 예시 원본 (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a7-05)
+![90-03-02-21-a7-05](https://github.com/wonder13662/gimp/assets/15767104/b5e17c74-1f38-4041-b068-e919668a065f)
 
 ### 6-2. 다른 방식으로 채우기(Fill by): 합성(Composite)
 이미지의 빨강, 초록, 파랑 영역을 클릭하면 임계값의 범위만큼 각각의 색상의 영역에 색이 채워집니다.
 
-(TODO 예시 영상)
+<a id="90-03-02-21-a7-06-01"></a>
+
+#### [그림 90.3.2.21.a7.6.1. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 합성 (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a7-06-01)
+![90-03-02-21-a7-06-01](https://github.com/wonder13662/gimp/assets/15767104/b8aa443e-f954-4ac2-870c-accc411b9e0e)
+
+<a id="90-03-02-21-a7-06-02"></a>
+
+#### [영상 90.3.2.21.a7.6.2. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 합성 (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a7-06-02)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/47f3d853-c6d1-4304-b39a-4039a8187666"></video>
 
 ### 6-3. 다른 방식으로 채우기(Fill by): 빨강(Red) - 빨간 영역 클릭
 이미지의 빨강 영역을 클릭하면, 임계값의 범위만큼 빨강의 영역에 색이 채워집니다.
 
-(TODO 예시 영상)
+<a id="90-03-02-21-a7-07-01"></a>
+
+#### [그림 90.3.2.21.a7.7.1. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 빨강(Red) - 빨간 영역 클릭 (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a7-07-01)
+![90-03-02-21-a7-07-01](https://github.com/wonder13662/gimp/assets/15767104/a11db0b8-4d33-43b7-aa82-db7011d8dfea)
+
+<a id="90-03-02-21-a7-07-02"></a>
+
+#### [영상 90.3.2.21.a7.7.2. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 빨강(Red) - 빨간 영역 클릭 (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a7-07-02)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8955e875-e77f-47e3-879b-788aa738d612"></video>
 
 ### 6-4. 다른 방식으로 채우기(Fill by): 빨강(Red) - 녹색 영역 클릭
 이미지의 녹색 영역을 클릭하면, 초록, 파랑 영역 전부와 임계값의 범위만큼의 빨강의 일부 영역에 색이 채워집니다. 이는 채널 중의 빨간색 채널을 기반으로 픽셀의 색상값을 판단했기 때문입니다. 빨간색 채널에서는 초록과 파랑의 색상값이 모두 0입니다. 그러므로 이 영역의 색상들은 모두 색이 채워지게 됩니다. 빨간색의 어두운 영역의 일부도 임계값의 범위에 들어가서 색이 채워지게 됩니다.
 
-(TODO 예시 영상)
+<a id="90-03-02-21-a7-08-01"></a>
+
+#### [그림 90.3.2.21.a7.8.1. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 빨강(Red) - 녹색 영역 클릭 (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a7-08-01)
+![90-03-02-21-a7-08-01](https://github.com/wonder13662/gimp/assets/15767104/e218a657-bfc1-478b-a2a1-9f2895e260c8)
+
+<a id="90-03-02-21-a7-08-02"></a>
+
+#### [영상 90.3.2.21.a7.8.2. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 빨강(Red) - 녹색 영역 클릭 (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a7-08-02)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1f89b13d-f543-4756-ba80-ca5b118328b9"></video>
 
 ***
 
