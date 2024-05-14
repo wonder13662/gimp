@@ -95,7 +95,7 @@ The Paint Dynamics Dialog window can be opened
 
 <a id="90-04-16-a111-01"></a>
 
-#### [그림 90.4.16.a111.1. `페인트 동적 요소` 대화상자 → 컨텍스트 메뉴 (Windows) (우리말)](./90-04-16-paint_dynamics.md#90-04-16-a111)
+#### [그림 90.4.16.a111.1. `페인트 동적 요소` 대화상자 → 컨텍스트 메뉴 (Windows) (우리말)](./90-04-16-paint_dynamics.md#90-04-16-a111-01)
 ![90-04-16-a111](https://github.com/wonder13662/gimp/assets/15767104/f418a746-601a-43ff-b827-c242d010a061)
 
 <a id="90-04-16-a111-02"></a>
