@@ -67,6 +67,8 @@
 #### 그림 90.4.110.a112.3. `페인트 동적 요소 편집기` 대화상자: 옵션 드롭다운 목록 - Color 옵션 - 미세조정 커브 (Windows) (우리말)
 ![90-04-110-a112-03](https://github.com/wonder13662/gimp/assets/15767104/b7e7ca90-7431-4e62-ba1e-51ad0517d817)
 
+[14.3.2.4. 동적 요소 설정하기(Customizing the Dynamics) - 그림 90.4.110.a112.3](./14-03-02-04-customizing_the_dynamics.md#90-04-110-a112-03)
+
 ***
 
 ## 다른 페이지로 가기
