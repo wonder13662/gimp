@@ -1,4 +1,10 @@
 # 14.3.4.4. 흐릿한 경계가 있는 선택 채우기(Fill a feathered selection)
+흐릿한 경계를 가진 선택에서 클릭을 반복하면, 흐릿한 경계를 채울 수 있습니다.
+
+<a id="90-03-02-21-a9"></a>
+
+#### [그림 90.3.2.21.a9. 흐릿한 경계가 있는 선택 채우기 (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a9)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2faa8116-2fd6-479c-9904-380b686ace54"></video>
 
 ***
 

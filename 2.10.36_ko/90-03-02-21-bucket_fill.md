@@ -304,6 +304,13 @@
 
 [14.3.4.3.6. 선화 감지 옵션("Line Art Detection" option) - 그림 90.3.2.21.a8.8.3](./14-03-04-03-06-line_art_detection_options.md#90-03-02-21-a8-08-03)
 
+<a id="90-03-02-21-a9"></a>
+
+#### 그림 90.3.2.21.a9. 흐릿한 경계가 있는 선택 채우기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2faa8116-2fd6-479c-9904-380b686ace54"></video>
+
+[14.3.4.4. 흐릿한 경계가 있는 선택 채우기(Fill a feathered selection) - 그림 90.3.2.21.a9](./14-03-04-04-fill_a_feathered_selection.md#90-03-02-21-a9)
+
 <a id="90-03-02-21-a101"></a>
 
 #### 그림 90.3.2.21.a101. `도구 옵션` → `영역 채우기`: 무늬 사용 - 선택 채우기 (Windows) (우리말)
