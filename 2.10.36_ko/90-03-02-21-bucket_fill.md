@@ -129,6 +129,35 @@
 
 [14.3.4.3.3. 채우기 유형(Fill Type) - 영상 90.3.2.21.a6.3.2](./14-03-04-03-03-fill_type.md#90-03-02-21-a6-03-02)
 
+<a id="90-03-02-21-a7"></a>
+
+#### 그림 90.3.2.21.a7. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` (Windows) (우리말)
+![90-03-02-21-a7](https://github.com/wonder13662/gimp/assets/15767104/3d1263aa-4780-4d69-9ff1-96b4f90deb33)
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 그림 90.3.2.21.a7](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7)
+
+<a id="90-03-02-21-a7-01"></a>
+
+#### 그림 90.3.2.21.a7.1. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기`: 비슷한 색상으로 채우기 선택 토글 (Windows) (우리말)
+![90-03-02-21-a7-01](https://github.com/wonder13662/gimp/assets/15767104/825d9d15-0e68-4cb5-bd7c-48bf7467f1be)
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 그림 90.3.2.21.a7.1](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-01)
+
+<a id="90-03-02-21-a7-02"></a>
+
+#### 영상 90.3.2.21.a7.2. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `투명한 영역 채우기` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0682e1d2-4c0f-4dee-8a17-c63a87b96335"></video>
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 영상 90.3.2.21.a7.2](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-02)
+
+<a id="90-03-02-21-a7-03"></a>
+
+#### 영상 90.3.2.21.a7.3. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `표본 합치기` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ba7b1866-e94c-4103-b326-2e7fd2a05d1a"></video>
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 영상 90.3.2.21.a7.3](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-03)
+
+
 <a id="90-03-02-21-a101"></a>
 
 #### 그림 90.3.2.21.a101. `도구 옵션` → `영역 채우기`: 무늬 사용 - 선택 채우기 (Windows) (우리말)

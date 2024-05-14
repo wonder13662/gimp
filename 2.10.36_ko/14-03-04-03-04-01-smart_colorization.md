@@ -64,7 +64,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.3.4.3.5. 비슷한 색 찾기(Finding Similar Colors)](./14-03-04-03-05-finding_similar_colors.md)
+[➡️ 다음: 14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors)](./14-03-04-03-05-finding_similar_colors.md)
 
 [⬅️ 이전: 14.3.4.3.4. 영향을 받는 영역(Affected Area)](./14-03-04-03-04-00-affected_area.md)
 

@@ -6,7 +6,7 @@
 
 [➡️ 다음: 14.3.4.4. 흐릿한 경계가 있는 선택 채우기(Fill a feathered selection)](./14-03-04-04-fill_a_feathered_selection.md)
 
-[⬅️ 이전: 14.3.4.3.5. 비슷한 색 찾기(Finding Similar Colors)](./14-03-04-03-05-finding_similar_colors.md)
+[⬅️ 이전: 14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors)](./14-03-04-03-05-finding_similar_colors.md)
 
 [⬆️ 위: 14.3.4.3. 옵션(Options)](./14-03-04-03-00-options.md)
 
