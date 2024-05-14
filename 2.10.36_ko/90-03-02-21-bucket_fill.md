@@ -213,8 +213,33 @@
 
 [14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 영상 90.3.2.21.a7.8.2](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-08-02)
 
+<a id="90-03-02-21-a8-01"></a>
 
+#### 그림 90.3.2.21.a8.1. `도구 옵션` → `영역 채우기` → `선화 감지` (Windows) (우리말)
+![90-03-02-21-a8-01](https://github.com/wonder13662/gimp/assets/15767104/20dd26a7-110f-4192-b2fe-a9a280f911c1)
 
+[14.3.4.3.6. 선화 감지 옵션("Line Art Detection" option) - 그림 90.3.2.21.a8.1](./14-03-04-03-06-line_art_detection_options.md#90-03-02-21-a8-01)
+
+<a id="90-03-02-21-a8-02"></a>
+
+#### 그림 90.3.2.21.a8.2. `도구 옵션` → `영역 채우기` → `선화 감지`: `선화 감지로 채우기` 선택 토글 (Windows) (우리말)
+![90-03-02-21-a8-02](https://github.com/wonder13662/gimp/assets/15767104/5d969812-1cbf-4712-b473-f6459312f16a)
+
+[14.3.4.3.6. 선화 감지 옵션("Line Art Detection" option) - 그림 90.3.2.21.a8.2](./14-03-04-03-06-line_art_detection_options.md#90-03-02-21-a8-02)
+
+<a id="90-03-02-21-a8-03"></a>
+
+#### 그림 90.3.2.21.a8.3. `도구 옵션` → `영역 채우기` → `선화 감지` → `원본` (Windows) (우리말)
+![90-03-02-21-a8-03](https://github.com/wonder13662/gimp/assets/15767104/473ef575-2a51-4eca-ab53-76eba9f2ec81)
+
+[14.3.4.3.6. 선화 감지 옵션("Line Art Detection" option) - 그림 90.3.2.21.a8.3](./14-03-04-03-06-line_art_detection_options.md#90-03-02-21-a8-03)
+
+<a id="90-03-02-21-a8-04"></a>
+
+#### 영상 90.3.2.21.a8.4. `도구 옵션` → `영역 채우기` → `선화 감지` → `투명한 영역 채우기` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a19dd719-63fb-404e-bad5-6eedd16b09d6"></video>
+
+[14.3.4.3.6. 선화 감지 옵션("Line Art Detection" option) - 영상 90.3.2.21.a8.4](./14-03-04-03-06-line_art_detection_options.md#90-03-02-21-a8-04)
 
 <a id="90-03-02-21-a101"></a>
 
