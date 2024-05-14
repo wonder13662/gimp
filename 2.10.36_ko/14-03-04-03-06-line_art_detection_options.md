@@ -1,4 +1,4 @@
-# 14.3.4.3.6. 외곽선 감지 옵션("Line Art Detection" option)
+# 14.3.4.3.6. 선화 감지 옵션("Line Art Detection" option)
 
 ***
 

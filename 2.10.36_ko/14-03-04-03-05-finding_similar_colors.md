@@ -117,7 +117,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.3.4.3.6. 외곽선 감지 옵션("Line Art Detection" option)](./14-03-04-03-06-line_art_detection_options.md)
+[➡️ 다음: 14.3.4.3.6. 선화 감지 옵션("Line Art Detection" option)](./14-03-04-03-06-line_art_detection_options.md)
 
 [⬅️ 이전: 14.3.4.3.4. 영향을 받는 영역(Affected Area)](./14-03-04-03-04-00-affected_area.md)
 
