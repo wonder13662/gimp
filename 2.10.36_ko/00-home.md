@@ -1135,7 +1135,37 @@
 
 [14.3.4.4. 흐릿한 경계가 있는 선택 채우기(Fill a feathered selection)](./14-03-04-04-fill_a_feathered_selection.md)
 
-[14.3.5. 그라디언트(Gradient)](./14-03-05-gradient.md)
+[14.3.5. 그라디언트(Gradient)](./14-03-05-00-gradient.md)
+
+[14.3.5.1. 도구 활성화하기(Activating the tools)](./14-03-05-01-activating_the_tool.md)
+
+[14.3.5.2. 동작 변경키(Key modifiers)](./14-03-05-02-key_modifiers.md)
+
+[14.3.5.3. 옵션(Options)](./14-03-05-03-00-options.md)
+
+[14.3.5.3.1. 모드(Mode)](./14-03-05-03-01-mode.md)
+
+[14.3.5.3.2. 불투명도(Opacity)](./14-03-05-03-02-opacity.md)
+
+[14.3.5.3.3. 그라디언트(Gradient)](./14-03-05-03-03-gradient.md)
+
+[14.3.5.3.4. 혼합할 색 공간(Blend Color Space)](./14-03-05-03-04-blend_color_space.md)
+
+[14.3.5.3.5. 모양(Shape)](./14-03-05-03-05-shape.md)
+
+[14.3.5.3.6. 반복(Repeat)](./14-03-05-03-06-repeat.md)
+
+[14.3.5.3.7. 디더링(Dithering)](./14-03-05-03-07-dithering.md)
+
+[14.3.5.3.8. 적응성이 있는 슈퍼샘플링(Adaptive Supersampling)](./14-03-05-03-08-adaptive_supersampling.md)
+
+[14.3.5.3.9. 오프셋(Offset)](./14-03-05-03-09-offset.md)
+
+[14.3.5.3.10. 인스탄트 모드(Instant Mode)](./14-03-05-03-10-instant_mode.md)
+
+[14.3.5.3.11. 활성화된 그라디언트 수정하기(Modify active gradient)](./14-03-05-03-11-modify_active_gradient.md)
+
+[14.3.5.4. 그라디언트 고치기(Editing Gradient)](./14-03-05-04-editing_gradient.md)
 
 [14.3.6. 연필(Pencil)](./14-03-06-pencil.md)
 

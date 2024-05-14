@@ -1,14 +1,15 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 14.3.5.4. 그라디언트 고치기(Editing Gradient)
+## 1. 캔버스에서 수정하기(On-canvas editing)
+
+## 2. 그라디언트 편집기(The Gradient Editor)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: ?]()
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
-
-[⬆️ 위: 14.3.5.3. 옵션(Options)](14-03-05-03-00-options.md)
+[⬅️ 이전: ?]()
 
 [⬆️ 위: 14.3.5. 그라디언트(Gradient)](./14-03-05-00-gradient.md)
 

@@ -14,7 +14,7 @@
 ## [15.3.2. Brushes dialog](./15-03-02-brushes-dialog.md)
 ## [15.3.3. Mypaint brushes dialog](./15-03-03-mypaint-brushes-dialog.md)
 ## [15.3.4. Patterns dialog](./15-03-04-patterns-dialog.md)
-## [15.3.5. Gradient dialog](./15-03-05-gradient-dialog.md)
+## [15.3.5. 그라디언트 대화상자(Gradient dialog)](./15-03-05-gradient-dialog.md)
 ## [15.3.6. Palettes dialog](./15-03-06-00-palettes-dialog.md)
 ## [15.3.7. Tagging](./15-03-07-tagging.md)
 ## [15.4. Image management related dialogs](./15-04-00-image-management-related-dialogs.md)

@@ -1,14 +1,13 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 14.3.5.1. 도구 활성화하기(Activating the tools)
+
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: ?]()
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
-
-[⬆️ 위: 14.3.5.3. 옵션(Options)](14-03-05-03-00-options.md)
+[⬅️ 이전: ?]()
 
 [⬆️ 위: 14.3.5. 그라디언트(Gradient)](./14-03-05-00-gradient.md)
 

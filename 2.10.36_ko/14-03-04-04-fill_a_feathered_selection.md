@@ -10,7 +10,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.3.5. 그라디언트(Gradient)](./14-03-05-gradient.md)
+[➡️ 다음: 14.3.5. 그라디언트(Gradient)](./14-03-05-00-gradient.md)
 
 [⬅️ 이전: 14.3.4.3.6. 선화 감지 옵션("Line Art Detection" option)](./14-03-04-03-06-line_art_detection_options.md)
 

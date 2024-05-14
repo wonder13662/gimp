@@ -1,12 +1,12 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 14.3.5.3.4. 혼합할 색 공간(Blend Color Space)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 14.3.5.3.5. 모양(Shape)](./14-03-05-03-05-shape.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 14.3.5.3.3. 그라디언트(Gradient)](./14-03-05-03-03-gradient.md)
 
 [⬆️ 위: 14.3.5.3. 옵션(Options)](14-03-05-03-00-options.md)
 

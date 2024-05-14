@@ -935,7 +935,7 @@ module.exports = {
         '14.3.4. 영역 채우기'
       ],
       [
-        '14-03-05-gradient.md', 
+        '14-03-05-00-gradient.md', 
         '14.3.5. 그라디언트(Gradient)'
       ],
       [
@@ -1165,7 +1165,7 @@ module.exports = {
       ],
       [
         '15-03-05-gradient-dialog.md', 
-        '15.3.5. Gradient dialog'
+        '15.3.5. 그라디언트 대화상자(Gradient dialog)'
       ],
       [
         '15-03-06-00-palettes-dialog.md', 

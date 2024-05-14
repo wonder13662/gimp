@@ -1,12 +1,12 @@
-# ${page_no} ${page_name_ko}(${page_name_en})
+# 14.3.5.3.10. 인스탄트 모드(Instant Mode)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ${page_name_next}](${page_next})
+[➡️ 다음: 14.3.5.3.11. 활성화된 그라디언트 수정하기(Modify active gradient)](./14-03-05-03-11-modify_active_gradient.md)
 
-[⬅️ 이전: ${page_name_prev}](${page_prev})
+[⬅️ 이전: 14.3.5.3.9. 오프셋(Offset)](./14-03-05-03-09-offset.md)
 
 [⬆️ 위: 14.3.5.3. 옵션(Options)](14-03-05-03-00-options.md)
 
