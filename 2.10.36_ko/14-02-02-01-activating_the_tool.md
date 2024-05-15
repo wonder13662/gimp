@@ -19,12 +19,12 @@
 
 <a id="90-03-02-03-a2"></a>
 
-#### [그림 90.3.2.3.a2. 도구상자 - 사각 선택](./90-03-02-03-rectangle_select.md#90-03-02-03-a2)
+#### [그림 90.3.2.3.a2. `도구상자` → `사각 선택`](./90-03-02-03-rectangle_select.md#90-03-02-03-a2)
 ![90-03-02-03-a2](https://github.com/wonder13662/gimp/assets/15767104/c5be9f26-28a5-4b98-92c3-4ae57a29580e)
 
 <a id="90-03-02-03-a3"></a>
 
-#### [영상 90.3.2.3.a3. 도구상자 - 사각 선택](./90-03-02-03-rectangle_select.md#90-03-02-03-a3)
+#### [영상 90.3.2.3.a3. `도구상자` → `사각 선택`](./90-03-02-03-rectangle_select.md#90-03-02-03-a3)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/824415d7-241b-404c-90d9-446ecaab965d"></video>
 
 ## 3. 키보드 단축키 `R`

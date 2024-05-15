@@ -1,11 +1,13 @@
 # 90.3.2.37. 도구 아이콘(Tool icon) - 색상 추출(Color picker)
 
-#### 그림 90.3.2.37.a1. 도구상자의 색상 추출의 도구옵션
-<img width="1080" alt="그림 90.3.2.37.a1. 도구상자의 색상 추출의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/d34b30f8-04b9-4a1c-a294-5bfacf4e7e04">
+<a id="90-03-02-37-a1"></a>
+
+#### 그림 90.3.2.37.a1. `도구상자` → `색상 추출`의 도구옵션
+![90-03-02-37-a1](https://github.com/wonder13662/gimp/assets/15767104/d34b30f8-04b9-4a1c-a294-5bfacf4e7e04)
 
 <a id="90-03-02-37-a2"></a>
 
-#### 그림 90.3.2.37.a2. 도구상자 - 색상 추출
+#### 그림 90.3.2.37.a2. `도구상자` → `색상 추출`
 ![90-03-02-37-a2](https://github.com/wonder13662/gimp/assets/15767104/92807e43-d7d2-49ab-89cb-e4e343aa5fd7)
 
 [7.1.2. 부분적으로 투명한 선택 만들기 - 그림 90.3.2.37.a2](./07-01-02-making_a_selection_partially_transparent.md#90-03-02-37-a2)

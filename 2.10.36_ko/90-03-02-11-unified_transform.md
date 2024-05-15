@@ -1,10 +1,14 @@
 # 90.3.2.11. 도구 아이콘(Tool icon) - 통합 변형(Unified transform)
 
-#### 그림 90.3.2.11.a1. 도구상자의 통합 변형의 도구옵션
-![그림 90.3.2.11.a1. 도구상자의 통합 변형의 도구옵션](https://github.com/wonder13662/gimp/assets/15767104/d6eebbf0-c197-4c44-8f5a-5af5105bee1b)
+<a id="90-03-02-11-a1"></a>
 
-#### 그림 90.3.2.11.a2. 도구상자 - 통합 변형
-![그림 90.3.2.11.a2. 도구상자 - 통합 변형](https://github.com/wonder13662/gimp/assets/15767104/04aaa5fe-7495-4703-b139-1dfbc61c9c19)
+#### 그림 90.3.2.11.a1. `도구상자` → `통합 변형`의 도구옵션
+![90-03-02-11-a1](https://github.com/wonder13662/gimp/assets/15767104/d6eebbf0-c197-4c44-8f5a-5af5105bee1b)
+
+<a id="90-03-02-11-a2"></a>
+
+#### 그림 90.3.2.11.a2. `도구상자` → `통합 변형`
+![90-03-02-11-a2](https://github.com/wonder13662/gimp/assets/15767104/04aaa5fe-7495-4703-b139-1dfbc61c9c19)
 
 ***
 

@@ -3,7 +3,7 @@
 
 <a id="90-03-02-08-a1"></a>
 
-#### 그림 90.3.2.8.a1. 도구상자의 퍼지 선택의 도구옵션
+#### 그림 90.3.2.8.a1. `도구상자` → `퍼지 선택`의 도구옵션
 ![90-03-02-08-a1](https://github.com/wonder13662/gimp/assets/15767104/59bfa923-2940-4687-9ca9-2aae4df010aa)
 
 [14.2.5. 퍼지 선택(마법 지팡이) - Fuzzy selection(magic wand) - 그림 90.3.2.8.a1](./14-02-05-00-fuzzy-selection-magic-wand.md#90-03-02-08-a1)
@@ -12,7 +12,7 @@
 
 <a id="90-03-02-08-a2"></a>
 
-#### 그림 90.3.2.8.a2. 도구상자 - 퍼지 선택
+#### 그림 90.3.2.8.a2. `도구상자` → `퍼지 선택`
 ![90-03-02-08-a2](https://github.com/wonder13662/gimp/assets/15767104/9f2fad3e-18f9-43ea-a3ba-a9cb736bc1d5)
 
 [7.1.2. 부분적으로 투명한 선택 만들기 - 그림 90.3.2.8.a2](./07-01-02-making_a_selection_partially_transparent.md#90-03-02-08-a2)

@@ -18,12 +18,12 @@
 
 <a id="90-03-02-09-a2"></a>
 
-#### [그림 90.3.2.9.a2. 도구상자 - '색상으로 선택'](./90-03-02-09-select_by_color.md#90-03-02-09-a2)
+#### [그림 90.3.2.9.a2. `도구상자` → `색상으로 선택`](./90-03-02-09-select_by_color.md#90-03-02-09-a2)
 ![90-03-02-09-a2](https://github.com/wonder13662/gimp/assets/15767104/9e8e22db-18f5-4690-ac6f-b49d1975a32e)
 
 <a id="90-03-02-09-a3"></a>
 
-#### [영상 90.3.9.a3. 도구상자 - '색상으로 선택'](./90-03-02-09-select_by_color.md#90-03-02-09-a3)
+#### [영상 90.3.9.a3. `도구상자` → `색상으로 선택`](./90-03-02-09-select_by_color.md#90-03-02-09-a3)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/97b3f37d-f83a-4c3c-a193-f70cdd8f3ee1"></video>
 
 ## 3. 키보드 단축키 Shift(⇧) + O

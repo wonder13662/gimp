@@ -1,11 +1,13 @@
 # 90.3.2.27. 도구 아이콘(Tool icon) - MyPaint 붓(MyPaint brush)
 
-#### 그림 90.3.2.27.a1. 도구상자의 MyPaint 붓의 도구옵션
-<img width="1080" alt="그림 90.3.2.27.a1. 도구상자의 MyPaint 붓의 도구옵션" src="https://github.com/wonder13662/gimp/assets/15767104/bee8fee6-2a8b-40c5-9023-a553346e5d69">
+<a id="90-03-02-27-a1"></a>
+
+#### 그림 90.3.2.27.a1. `도구상자` → `MyPaint 붓`의 도구옵션
+![90-03-02-27-a1](https://github.com/wonder13662/gimp/assets/15767104/bee8fee6-2a8b-40c5-9023-a553346e5d69)
 
 <a id="90-03-02-27-a2"></a>
 
-#### 그림 90.3.2.27.a2. 도구상자 - MyPaint 붓
+#### 그림 90.3.2.27.a2. `도구상자` → `MyPaint 붓`
 ![90-03-02-27-a2](https://github.com/wonder13662/gimp/assets/15767104/bfba0689-02ca-4a52-9eaf-7280e95a50da)
 
 [3.5.1. 목적 - 그림 90.3.2.27.a2](./03-05-01-intention.md#90-03-02-27-a2)
