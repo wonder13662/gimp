@@ -109,7 +109,7 @@
 
 [14.3.5.3.7. 디더링(Dithering)](./14-03-05-03-07-dithering.md)
 
-[14.3.5.3.8. 적응성이 있는 슈퍼샘플링(Adaptive Supersampling)](./14-03-05-03-08-adaptive_supersampling.md)
+[14.3.5.3.8. 적응형 슈퍼샘플링(Adaptive Supersampling)](./14-03-05-03-08-adaptive_supersampling.md)
 
 [14.3.5.3.9. 오프셋(Offset)](./14-03-05-03-09-offset.md)
 

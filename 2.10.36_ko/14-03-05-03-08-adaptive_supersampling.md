@@ -1,4 +1,4 @@
-# 14.3.5.3.8. 적응성이 있는 슈퍼샘플링(Adaptive Supersampling)
+# 14.3.5.3.8. 적응형 슈퍼샘플링(Adaptive Supersampling)
 
 ***
 
