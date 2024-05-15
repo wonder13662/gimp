@@ -38,7 +38,7 @@
 <a id="90-10-09-01-01-a1"></a>
 
 #### [영상 90.10.9.1.1.a1. `그라디언트` 도구 - 키보드 단축키 `G`](./90-10-09-01-01-g.md#90-10-09-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/427acbc2-9e7e-491f-bc30-b214b7f757a6"></video>
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/68b198a0-be89-413a-9493-508a950b48e1"></video>
 
 ***
 
