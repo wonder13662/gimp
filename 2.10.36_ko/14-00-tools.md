@@ -228,9 +228,9 @@
 
 [14.3.5.3.10. 오프셋(Offset)](./14-03-05-03-11-offset.md)
 
-[14.3.5.3.12. 인스턴트 모드(Instant Mode)](./14-03-05-03-12-instant_mode.md)
+[14.3.5.3.11. 인스턴트 모드(Instant Mode)](./14-03-05-03-11-instant_mode.md)
 
-[14.3.5.3.13. 활성화된 그라디언트 수정하기(Modify active gradient)](./14-03-05-03-13-modify_active_gradient.md)
+[14.3.5.3.12. 활성화된 그라디언트 수정하기(Modify active gradient)](./14-03-05-03-12-modify_active_gradient.md)
 
 [14.3.5.4. 그라디언트 고치기(Editing Gradient)](./14-03-05-04-editing_gradient.md)
 
