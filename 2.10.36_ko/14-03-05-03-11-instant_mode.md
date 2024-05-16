@@ -23,7 +23,7 @@
 
 [➡️ 다음: 14.3.5.3.12. 활성화된 그라디언트 수정하기(Modify active gradient)](./14-03-05-03-12-modify_active_gradient.md)
 
-[⬅️ 이전: 14.3.5.3.10. 오프셋(Offset)](./14-03-05-03-11-offset.md)
+[⬅️ 이전: 14.3.5.3.10. 적응형 슈퍼샘플링(Adaptive Supersampling)](./14-03-05-03-10-adaptive_supersampling.md)
 
 [⬆️ 위: 14.3.5.3. 옵션(Options)](14-03-05-03-00-options.md)
 
