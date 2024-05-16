@@ -220,15 +220,17 @@
 
 [14.3.5.3.7. 반복(Repeat)](./14-03-05-03-07-repeat.md)
 
-[14.3.5.3.8. 디더링(Dithering)](./14-03-05-03-08-dithering.md)
+[14.3.5.3.8. 오프셋(Offset)](./14-03-05-03-08-offset.md)
 
-[14.3.5.3.9. 적응형 슈퍼샘플링(Adaptive Supersampling)](./14-03-05-03-09-adaptive_supersampling.md)
+[14.3.5.3.9. 디더링(Dithering)](./14-03-05-03-09-dithering.md)
 
-[14.3.5.3.10. 오프셋(Offset)](./14-03-05-03-10-offset.md)
+[14.3.5.3.10. 적응형 슈퍼샘플링(Adaptive Supersampling)](./14-03-05-03-10-adaptive_supersampling.md)
 
-[14.3.5.3.11. 인스턴트 모드(Instant Mode)](./14-03-05-03-11-instant_mode.md)
+[14.3.5.3.10. 오프셋(Offset)](./14-03-05-03-11-offset.md)
 
-[14.3.5.3.12. 활성화된 그라디언트 수정하기(Modify active gradient)](./14-03-05-03-12-modify_active_gradient.md)
+[14.3.5.3.12. 인스턴트 모드(Instant Mode)](./14-03-05-03-12-instant_mode.md)
+
+[14.3.5.3.13. 활성화된 그라디언트 수정하기(Modify active gradient)](./14-03-05-03-13-modify_active_gradient.md)
 
 [14.3.5.4. 그라디언트 고치기(Editing Gradient)](./14-03-05-04-editing_gradient.md)
 
