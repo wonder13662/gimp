@@ -1,12 +1,12 @@
-# 14.3.5.3.10. 인스탄트 모드(Instant Mode)
+# 14.3.5.3.9. 적응형 슈퍼샘플링(Adaptive Supersampling)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.3.5.3.11. 활성화된 그라디언트 수정하기(Modify active gradient)](./14-03-05-03-11-modify_active_gradient.md)
+[➡️ 다음: 14.3.5.3.10. 오프셋(Offset)](./14-03-05-03-10-offset.md)
 
-[⬅️ 이전: 14.3.5.3.9. 오프셋(Offset)](./14-03-05-03-09-offset.md)
+[⬅️ 이전: 14.3.5.3.8. 디더링(Dithering)](./14-03-05-03-08-dithering.md)
 
 [⬆️ 위: 14.3.5.3. 옵션(Options)](14-03-05-03-00-options.md)
 
