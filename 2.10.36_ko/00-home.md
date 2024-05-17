@@ -1171,6 +1171,14 @@
 
 [14.3.5.4. 그라디언트 고치기(Editing Gradient)](./14-03-05-04-00-editing_gradient.md)
 
+[14.3.5.4.1. 캔버스에서 수정하기(On-canvas editing)](./14-03-05-04-01-on_canvas_editing.md)
+
+[14.3.5.4.2. 동작 변경키(Key modifiers)](./14-03-05-04-02-key_modifiers.md)
+
+[14.3.5.4.3. 그라디언트 편집기(Gradient Editor)](./14-03-05-04-03-gradient_editor.md)
+
+[14.3.5.4.4. 커스텀 그라디언트(Custom Gradient)](./14-03-05-04-04-custom_gradient.md)
+
 [14.3.6. 연필(Pencil)](./14-03-06-pencil.md)
 
 [14.3.7. 그리기 붓(Paintbrush)](./14-03-07-paintbrush.md)
