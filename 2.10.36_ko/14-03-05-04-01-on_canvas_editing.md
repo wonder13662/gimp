@@ -157,11 +157,6 @@
 #### [영상 90.3.2.22.a14.5.1.1.1. `중점(Midpoint)` 대화상자: 혼합 드롭다운 목록 - `Step` 옵션 선택](./90-03-02-22-gradient.md#90-03-02-22-a14-05-01-01-01)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e834c603-670e-42da-bbad-2565509689f8"></video>
 
-<a id="90-03-02-22-a14-05-01-01"></a>
-
-#### 그림 90.3.2.22.a14.5.1.1. `중점(Midpoint)` 대화상자: 혼합 드롭다운 목록
-![90-03-02-22-a14-05-01-01](https://github.com/wonder13662/gimp/assets/15767104/8cc0f6b7-3428-4506-8fc1-31953034c0ad)
-
 <a id="14-03-05-04-01-s8"></a>
 
 ## 8. 색 멈춤점(Color Stop)과 중점(Midpoint)의 위치
