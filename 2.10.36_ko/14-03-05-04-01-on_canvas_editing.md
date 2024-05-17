@@ -125,7 +125,7 @@
 
 <a id="90-03-02-22-a14-05-02"></a>
 
-#### [영상 90.3.2.22.a14.5.2. `중점(Midpoint)`: 새로 만들기](./90-03-02-22-gradient.md#90-03-02-22-a14-05-02)
+#### [영상 90.3.2.22.a14.5.2. `중점(Midpoint)`: 새로 `색 멈춤점(Color Stop)` 만들기](./90-03-02-22-gradient.md#90-03-02-22-a14-05-02)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/51d18d89-a1e3-44bb-a1b3-881d5052b33e"></video>
 
 ## 6-2. `중점(Midpoint)`을 마디(Segment)의 가운데로 옮기기
