@@ -1179,7 +1179,7 @@
 
 [14.3.5.4.4. 커스텀 그라디언트(Custom Gradient)](./14-03-05-04-04-custom_gradient.md)
 
-[14.3.6. 연필(Pencil)](./14-03-06-pencil.md)
+[14.3.6. 연필(Pencil)](./14-03-06-00-pencil.md)
 
 [14.3.7. 그리기 붓(Paintbrush)](./14-03-07-paintbrush.md)
 

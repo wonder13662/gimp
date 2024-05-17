@@ -939,7 +939,7 @@ module.exports = {
         '14.3.5. 그라디언트(Gradient)'
       ],
       [
-        '14-03-06-pencil.md', 
+        '14-03-06-00-pencil.md', 
         '14.3.6. 연필(Pencil)'
       ],
       [
