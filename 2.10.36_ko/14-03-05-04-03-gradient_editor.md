@@ -5,7 +5,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 14.3.5.4.4. 커스텀 그라디언트(Custom Gradient)](./14-03-05-04-04-custom_gradient.md)
 
 [⬅️ 이전: 14.3.5.4.2. 동작 변경키(Key modifiers)](./14-03-05-04-02-key_modifiers.md)
 

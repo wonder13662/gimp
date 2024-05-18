@@ -2848,6 +2848,28 @@
 
 [90.10.10.1.1. 키보드 단축키 `N`](./90-10-10-01-01-n.md)
 
+[90.10.10.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-10-02-00-key_modifier-ctrl.md)
+
+[90.10.10.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-10-02-01-switch_to_color_picker.md)
+
+[90.10.10.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-10-03-00-key_modifier-shift.md)
+
+[90.10.10.3.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-10-03-01-switch_to_straight_line_mode.md)
+
+[90.10.11. `그리기 붓` 도구](./90-10-11-00-paintbrush.md)
+
+[90.10.11.1. 키보드 단축키](./90-10-11-01-00-keyboard_shortcut.md)
+
+[90.10.11.1.1. 키보드 단축키 `P`](./90-10-11-01-01-p.md)
+
+[90.10.11.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-11-02-00-key_modifier-ctrl.md)
+
+[90.10.11.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-11-02-01-switch_to_color_picker.md)
+
+[90.10.11.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-11-03-00-key_modifier-shift.md)
+
+[90.10.11.3.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-11-03-01-switch_to_straight_line_mode.md)
+
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
 [90.90.1. 컬러 모델(Color Model)](./90-90-01-color_model.md)

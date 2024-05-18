@@ -18,6 +18,15 @@
 
 [14.3.7. 그리기 붓(Paintbrush) - 그림 90.3.2.23.a2](./14-03-07-00-paintbrush.md#90-03-02-23-a2)
 
+[14.3.7.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.23.a2](./14-03-07-01-activating_the_tool.md#90-03-02-23-a2)
+
+<a id="90-03-02-23-a2-01"></a>
+
+#### 영상 90.3.2.23.a2.1. `도구상자` → `그리기 붓`
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/935d60bd-db12-441a-9aa4-8808808edb06"></video>
+
+[14.3.7.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.23.a2.1](./14-03-07-01-activating_the_tool.md#90-03-02-23-a2-01)
+
 <a id="90-03-02-23-a111"></a>
 
 #### 그림 90.3.2.23.a111. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options) 설정
