@@ -1181,6 +1181,12 @@
 
 [14.3.6. 연필(Pencil)](./14-03-06-00-pencil.md)
 
+[14.3.6.1. 도구 활성화하기(Activating the tools)](./14-03-06-01-activating_the_tool.md)
+
+[14.3.6.2. 동작 변경키(Key modifiers)](./14-03-06-02-key_modifiers.md)
+
+[14.3.6.3. 옵션(Options)](./14-03-06-03-options.md)
+
 [14.3.7. 그리기 붓(Paintbrush)](./14-03-07-paintbrush.md)
 
 [14.3.8. 마이페인트 붓(Mypaint brush)](./14-03-08-mypaint-brush.md)
