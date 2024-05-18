@@ -22,7 +22,7 @@
 ## 2. 직선을 그릴 수 있는 도구 선택하기
 아래 도구 목록들은 직선그리기가 가능합니다.
 
-- [그리기 붓(Paintbrush)](./14-03-07-paintbrush.md)
+- [그리기 붓(Paintbrush)](./14-03-07-00-paintbrush.md)
 - [연필(Pencil)](./14-03-06-00-pencil.md)
 - [에어브러시(Airbrush)](./14-03-10-airbrush.md)
 - [잉크(Ink)](./14-03-11-ink.md)

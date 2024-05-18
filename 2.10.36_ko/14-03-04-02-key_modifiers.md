@@ -3,7 +3,7 @@
 <a id="14-03-04-02-s1"></a>
 
 ## 1. Ctrl(⌘)
-Ctrl(⌘) 키를 누르면 [그리기 붓](./14-03-07-paintbrush.md)과 비슷하게 [색상 추출 도구(Color Picker)로 바꾸기](./14-03-01-01-key_modifiers.md#14-03-01-01-s1-01) 기능으로 동작합니다.
+Ctrl(⌘) 키를 누르면 [그리기 붓](./14-03-07-00-paintbrush.md)과 비슷하게 [색상 추출 도구(Color Picker)로 바꾸기](./14-03-01-01-key_modifiers.md#14-03-01-01-s1-01) 기능으로 동작합니다.
 
 [관련 정보: 14.3.1.1. 동작 변경키(Key modifiers) - 1-1. 색상 추출 도구(Color Picker)로 바꾸기](./14-03-01-01-key_modifiers.md#14-03-01-01-s1-01)
 

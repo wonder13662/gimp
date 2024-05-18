@@ -943,7 +943,7 @@ module.exports = {
         '14.3.6. 연필(Pencil)'
       ],
       [
-        '14-03-07-paintbrush.md', 
+        '14-03-07-00-paintbrush.md', 
         '14.3.7. 그리기 붓(Paintbrush)',
         '14.3.7. 그리기 붓'
       ],
