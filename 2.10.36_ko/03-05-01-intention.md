@@ -117,6 +117,10 @@
 #### [영상 90.3.2.24.a101. 연필(Pencil)의 직선그리기](./90-03-02-24-pencil.md#90-03-02-24-a101)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5e21baef-0b02-47f4-91e1-189220dde687"></video>
 
+[관련 정보: 14.3.6. 연필(Pencil)](./14-03-06-00-pencil.md)
+
+[관련 정보: 14.3.6.2. 동작 변경키(Key modifiers) - 2. Shift(⇧)](./14-03-06-02-key_modifiers.md#14-03-06-02-s2)
+
 <a id="03-05-01-s6-03"></a>
 
 ### 6-3. 에어브러시(Airbrush)
