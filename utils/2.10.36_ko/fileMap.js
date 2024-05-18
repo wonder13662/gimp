@@ -948,7 +948,7 @@ module.exports = {
         '14.3.7. 그리기 붓'
       ],
       [
-        '14-03-08-mypaint-brush.md', 
+        '14-03-08-00-mypaint-brush.md', 
         '14.3.8. 마이페인트 붓(Mypaint brush)',
         '14.3.8. Mypaint 붓',
       ],

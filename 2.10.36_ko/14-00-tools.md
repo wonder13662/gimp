@@ -252,7 +252,7 @@
 
 [14.3.7. 그리기 붓(Paintbrush)](./14-03-07-00-paintbrush.md)
 
-[14.3.8. 마이페인트 붓(Mypaint brush)](./14-03-08-mypaint-brush.md)
+[14.3.8. 마이페인트 붓(Mypaint brush)](./14-03-08-00-mypaint-brush.md)
 
 [14.3.9. 지우개(Eraser)](./14-03-09-eraser.md)
 

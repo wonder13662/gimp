@@ -44,7 +44,7 @@
 <a id="07-07-s1-04"></a>
 
 ### 1-4. MYB
-`.myb` 확장자는 `MyPaint 붓`의 확장자입니다. 더 자세한 내용은 [MyPaint 붓](./14-03-08-mypaint-brush.md)을 참고해주세요.
+`.myb` 확장자는 `MyPaint 붓`의 확장자입니다. 더 자세한 내용은 [MyPaint 붓](./14-03-08-00-mypaint-brush.md)을 참고해주세요.
 
 [comment]: <> (TODO 원문에 파일 타입관련 상세 내용 있음. 확인 필요.)
 

@@ -1,5 +1,5 @@
 # 7.6.6. MyPaint 붓
-GIMP(김프) 2.10부터 MyPaint 붓을 쓸 수 있습니다. 좀 더 자세한 정보는 [MyPaint 붓](./14-03-08-mypaint-brush.md)를 참고해주세요.
+GIMP(김프) 2.10부터 MyPaint 붓을 쓸 수 있습니다. 좀 더 자세한 정보는 [MyPaint 붓](./14-03-08-00-mypaint-brush.md)를 참고해주세요.
 
 ***
 
