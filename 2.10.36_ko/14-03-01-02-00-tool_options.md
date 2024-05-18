@@ -35,7 +35,7 @@
 
 [14.3.1.2.12. 지터 적용(Apply Jitter)](./14-03-01-02-12-apply_jitter.md)
 
-[14.3.1.2.13. 스트로크 부드럽게 하기(Smooth Stroke)](./14-03-01-02-13-smooth_stroke.md)
+[14.3.1.2.13. 부드러운 스트로크(Smooth Stroke)](./14-03-01-02-13-smooth_stroke.md)
 
 [14.3.1.2.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view)](./14-03-01-02-14-lock_brush_size_to_view.md)
 

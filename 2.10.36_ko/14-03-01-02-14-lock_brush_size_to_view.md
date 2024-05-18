@@ -42,7 +42,7 @@
 
 [➡️ 다음: 14.3.1.2.15. 증분(Incremental)](./14-03-01-02-15-incremental.md)
 
-[⬅️ 이전: 14.3.1.2.13. 스트로크 부드럽게 하기(Smooth Stroke)](./14-03-01-02-13-smooth_stroke.md)
+[⬅️ 이전: 14.3.1.2.13. 부드러운 스트로크(Smooth Stroke)](./14-03-01-02-13-smooth_stroke.md)
 
 [⬆️ 위: 14.3.1.2. 도구 옵션(Tool Options)](./14-03-01-02-00-tool_options.md)
 

@@ -28,7 +28,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.3.1.2.13. 스트로크 부드럽게 하기(Smooth Stroke)](./14-03-01-02-13-smooth_stroke.md)
+[➡️ 다음: 14.3.1.2.13. 부드러운 스트로크(Smooth Stroke)](./14-03-01-02-13-smooth_stroke.md)
 
 [⬅️ 이전: 14.3.1.2.11. 동적 요소 옵션(Dynamics Options)](./14-03-01-02-11-dynamics_options.md)
 
