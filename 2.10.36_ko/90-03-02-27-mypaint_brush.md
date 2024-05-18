@@ -14,6 +14,15 @@
 
 [14.3.8. 마이페인트 붓(Mypaint brush) - 그림 90.3.2.27.a2](./14-03-08-00-mypaint-brush.md#90-03-02-27-a2)
 
+[14.3.8.2. 도구 활성화하기(Activating the tools) - 그림 90.3.2.27.a2](./14-03-08-02-activating_the_tool.md#90-03-02-27-a2)
+
+<a id="90-03-02-27-a2-01"></a>
+
+#### 영상 90.3.2.27.a2.1. `도구상자` → `MyPaint 붓` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9e9ce5f2-e648-4364-bdd5-1852be4132a4"></video>
+
+[14.3.8.2. 도구 활성화하기(Activating the tools) - 영상 90.3.2.27.a2.1](./14-03-08-02-activating_the_tool.md#90-03-02-27-a2-01)
+
 <a id="90-03-02-27-a101"></a>
 
 #### 영상 90.3.2.27.a101. MyPaint 붓(MyPaint Brush)의 직선그리기
