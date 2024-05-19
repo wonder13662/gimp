@@ -141,7 +141,25 @@
 
 [14.3.7. 그리기 붓(Paintbrush)](./14-03-07-00-paintbrush.md)
 
+[14.3.7.1. 도구 활성화하기(Activating the tools)](./14-03-07-01-activating_the_tool.md)
+
+[14.3.7.2. 동작 변경키(Key modifiers)](./14-03-07-02-key_modifiers.md)
+
+[14.3.7.3. 옵션(Options)](./14-03-07-03-options.md)
+
 [14.3.8. 마이페인트 붓(Mypaint brush)](./14-03-08-00-mypaint-brush.md)
+
+[14.3.8.1. 마이페인트 붓 설치하기(Installing MyPaing Brushes)](./14-03-08-01-installing_mypaint_brushes.md)
+
+[14.3.8.2. 도구 활성화하기(Activating the tools)](./14-03-08-02-activating_the_tool.md)
+
+[14.3.8.3. 옵션(Options)](./14-03-08-03-options.md)
+
+[14.3.8.4. 동작 변경키(Key modifiers)](./14-03-08-04-key_modifiers.md)
+
+[14.3.8.5. 붓 목록](./14-03-08-05-00-brush_list.md)
+
+[14.3.8.4.1. 2B 연필(2B Pencil)](./14-03-08-05-01-2b_pencil.md)
 
 [14.3.9. 지우개(Eraser)](./14-03-09-eraser.md)
 
