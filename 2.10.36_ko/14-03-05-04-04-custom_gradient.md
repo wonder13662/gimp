@@ -26,12 +26,11 @@
 ***
 
 ## 관련 정보
+[14.3.5.4.1. 캔버스에서 수정하기(On-canvas editing) - 2. 커스텀 그라디언트(Custom Gradient)](./14-03-05-04-01-on_canvas_editing.md#14-03-05-04-01-s2)
 
-[14.3.5.4.1. 캔버스에서 수정하기(On-canvas editing) - 2. 커스텀 그라디언트(Custom Gradient)](./14-03-05-04-00-editing_gradient.md#14-03-05-04-01-s2)
+[14.3.5.4.1. 캔버스에서 수정하기(On-canvas editing) - 4. 선택한 `끝점(endpoint)`의 대화상자](./14-03-05-04-01-on_canvas_editing.md#14-03-05-04-01-s4)
 
-[14.3.5.4.1. 캔버스에서 수정하기(On-canvas editing) - 4. 선택한 `끝점(endpoint)`의 대화상자](./14-03-05-04-00-editing_gradient.md#14-03-05-04-01-s4)
-
-[14.3.5.4.1. 캔버스에서 수정하기(On-canvas editing) - 5. 색 멈춤점(Color Stop)](./14-03-05-04-00-editing_gradient.md#14-03-05-04-01-s5)
+[14.3.5.4.1. 캔버스에서 수정하기(On-canvas editing) - 5. 색 멈춤점(Color Stop)](./14-03-05-04-01-on_canvas_editing.md#14-03-05-04-01-s5)
 
 ***
 
