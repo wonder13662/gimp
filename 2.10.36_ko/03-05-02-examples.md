@@ -44,7 +44,7 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a040ac09-806b-47b5-ae25-2accfa6630c8"></video>
 
 ## 3.5.2.4. 지우개(Eraser) 직선그리기로 플라즈마 구름 효과를 지우기
-이미지 메뉴 바의 `필터(Filters)` → `렌더(Render)` → `무늬(Pattern)` → `격자(Grid)` 메뉴를 이용해 멋진 플라즈마 구름을 그립니다. [지우개(Eraser)](./14-03-09-eraser.md)를 직사각형 형태로 직선을 그립니다.
+이미지 메뉴 바의 `필터(Filters)` → `렌더(Render)` → `무늬(Pattern)` → `격자(Grid)` 메뉴를 이용해 멋진 플라즈마 구름을 그립니다. [지우개(Eraser)](./14-03-09-00-eraser.md)를 직사각형 형태로 직선을 그립니다.
 
 <a id="90-01-09-12-02-03-a1"></a>
 

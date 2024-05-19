@@ -21,7 +21,7 @@ Ctrl(⌘) 키를 누르는 것은 모든 그리기 도구에 특별한 효과를
 #### [영상 90.10.7.1.1.a1. 그리기 도구:그리기 붓 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 전경색 바꾸기](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/878059d8-bfee-451d-82bb-be5679427892"></video>
 
-[지우개](./14-03-09-eraser.md)에서 Ctrl(⌘) 키를 누르면 GIMP(김프)의 배경색으로 설정됩니다.
+[지우개](./14-03-09-00-eraser.md)에서 Ctrl(⌘) 키를 누르면 GIMP(김프)의 배경색으로 설정됩니다.
 
 <a id="90-10-07-01-01-a2"></a>
 

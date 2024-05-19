@@ -953,7 +953,7 @@ module.exports = {
         '14.3.8. Mypaint 붓',
       ],
       [
-        '14-03-09-eraser.md', 
+        '14-03-09-00-eraser.md', 
         '14.3.9. 지우개(Eraser)',
         '14.3.9. 지우개'
       ],
