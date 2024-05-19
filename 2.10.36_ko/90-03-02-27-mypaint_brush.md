@@ -37,11 +37,6 @@
 #### 그림 90.3.2.27.a201. `도구 옵션` → `MyPaint 붓` (Windows) (우리말)
 <img width="162" alt="90-03-27-mypaint_brush(windows)(ko)" src="https://github.com/wonder13662/gimp/assets/15767104/1f9c2443-0ede-44e8-a5a8-552583bbec38">
 
-<a id="90-03-02-27-a201-01-05-01"></a>
-
-#### 그림 90.3.2.27.a201.1.5.1. `도구 옵션` → `MyPaint 붓` → `지우기 효과 없음`: 예시
-![90-03-02-27-a201-01-05-01-no_erasing_effect](https://github.com/wonder13662/gimp/assets/15767104/8b54b099-3e95-4361-8d80-69a890867f01)
-
 <a id="90-03-02-27-a201-01-06-01"></a>
 
 #### 그림 90.3.2.27.a201.1.6.1. `도구 옵션` → `MyPaint 붓` → `부드러운 스트로크`: 켜기/끄기
@@ -97,6 +92,41 @@
 ![90-03-02-27-a201-01-07-01](https://github.com/wonder13662/gimp/assets/15767104/875eaafb-d23d-40ef-a6c7-cccc1241445f)
 
 [14.3.8.3. 옵션(Options) - 그림 90.3.2.27.a201.1.7.1](./14-03-08-03-options.md#90-03-02-27-a201-01-07-01)
+
+<a id="90-03-02-27-a201-01-07-02"></a>
+
+#### 영상 90.3.2.27.a201.1.7.2. `도구 옵션` → `MyPaint 붓` → `붓` → `MyPaint 붓 목록`: 아래쪽 버튼 기능 설명
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c18ddbb7-f272-4cea-b1af-a4d3c4d4b0c2"></video>
+
+[14.3.8.3. 옵션(Options) - 영상 90.3.2.27.a201.1.7.2](./14-03-08-03-options.md#90-03-02-27-a201-01-07-02)
+
+<a id="90-03-02-27-a201-01-07-03"></a>
+
+#### 영상 90.3.2.27.a201.1.7.3. `도구 옵션` → `MyPaint 붓` → `붓` → `이 붓으로 지우기`
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/16e14604-3cf5-4bcc-b2b3-94911b940231"></video>
+
+[14.3.8.3. 옵션(Options) - 영상 90.3.2.27.a201.1.7.3](./14-03-08-03-options.md#90-03-02-27-a201-01-07-03)
+
+<a id="90-03-02-27-a201-01-07-04"></a>
+
+#### 영상 90.3.2.27.a201.1.7.4. `도구 옵션` → `MyPaint 붓` → `붓` → `지우기 효과 없음`
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d366322c-6571-444c-b957-d24545d414d9"></video>
+
+[14.3.8.3. 옵션(Options) - 영상 90.3.2.27.a201.1.7.4](./14-03-08-03-options.md#90-03-02-27-a201-01-07-04)
+
+<a id="90-03-02-27-a201-01-07-05"></a>
+
+#### 영상 90.3.2.27.a201.1.7.5. `도구 옵션` → `MyPaint 붓` → `붓` → `반경`
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/91653b87-7643-4f66-becf-014427ea1a64"></video>
+
+[14.3.8.3. 옵션(Options) - 영상 90.3.2.27.a201.1.7.5](./14-03-08-03-options.md#90-03-02-27-a201-01-07-05)
+
+<a id="90-03-02-27-a201-01-07-06"></a>
+
+#### 그림 90.3.2.27.a201.1.7.6. `도구 옵션` → `MyPaint 붓` → `붓` → `경도`
+![90-03-02-27-a201-01-07-06](https://github.com/wonder13662/gimp/assets/15767104/fd750b1d-d7f7-483d-8eb7-563f48994e40)
+
+[14.3.8.3. 옵션(Options) - 그림 90.3.2.27.a201.1.7.6](./14-03-08-03-options.md#90-03-02-27-a201-01-07-06)
 
 ***
 
