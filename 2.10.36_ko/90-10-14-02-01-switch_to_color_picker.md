@@ -5,6 +5,8 @@
 #### 영상 90.10.14.2.1.a1. 칠하기 도구:`에어브러시` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(전경색)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/915c9005-813d-4fcb-9462-420da31270d8"></video>
 
+[14.3.10.2. 동작 변경키(Key modifiers) - 영상 90.10.14.2.1.a1](./14-03-10-02-key_modifiers.md#90-10-14-02-01-a1)
+
 ***
 
 ## 다른 페이지로 가기
