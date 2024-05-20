@@ -170,7 +170,7 @@
 ## [16.7.31. Subtract layer mask from selection](./16-07-31-subtract-layer-mask-from-selection.md)
 ## [16.7.32. Intersect layer mask with selection](./16-07-32-intersect-layer-mask-with-selection.md)
 ## [16.7.33. The transparency submenu of the layer menu](./16-07-33-the-transparency-submenu-of-the-layer-menu.md)
-## [16.7.34. Add alpha channel](./16-07-34-add-alpha-channel.md)
+## [16.7.34. 알파 채널 추가하기(Add alpha channel)](./16-07-34-add-alpha-channel.md)
 ## [16.7.35. Remove alpha channel](./16-07-35-remove-alpha-channel.md)
 ## [16.7.36. 색을 알파로(Color to alpha)](./16-07-36-color-to-alpha.md)
 ## [16.7.37. Semi flatten](./16-07-37-semi-flatten.md)

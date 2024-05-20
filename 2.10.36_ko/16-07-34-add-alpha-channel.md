@@ -1,4 +1,4 @@
-# 16.7.34. Add alpha channel
+# 16.7.34. 알파 채널 추가하기(Add alpha channel)
 
 ### [Home](./00-home.md)
 ### [Parent: 16.7. The "Layer" menu](./16-07-00-the-layer-menu.md)

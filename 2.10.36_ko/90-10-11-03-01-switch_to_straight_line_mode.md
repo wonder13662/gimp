@@ -1,6 +1,6 @@
 # 90.10.11.3.1. 직선 모드(Straight line mode)로 바꾸기
 
-<a id="90-10-10-03-01-a1"></a>
+<a id="90-10-11-03-01-a1"></a>
 
 #### 영상 90.10.11.3.1.a1. 그리기 도구:`그리기 붓` - Shift(⇧) 키: 직선 그리기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bb97171b-bcbf-442c-bde4-274d9af00c60"></video>

@@ -26,11 +26,11 @@ Shift(⇧) 키를 누르면 `그리기 붓`은 `직선 모드(Straight line mode
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.3.6.3. 옵션(Options)](./14-03-06-03-options.md)
+[➡️ 다음: 14.3.9.3. 옵션(Options)](./14-03-09-03-options.md)
 
-[⬅️ 이전: 14.3.6.1. 도구 활성화하기(Activating the tools)](./14-03-06-01-activating_the_tool.md)
+[⬅️ 이전: 14.3.9.1. 도구 활성화하기(Activating the tools)](./14-03-09-01-activating_the_tool.md)
 
-[⬆️ 위: 14.3.6. 연필(Pencil)](./14-03-06-00-pencil.md)
+[⬆️ 위: 14.3.9. 지우개(Eraser)](./14-03-09-00-eraser.md)
 
 [⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
 

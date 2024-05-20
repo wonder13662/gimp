@@ -1951,7 +1951,7 @@ module.exports = {
       ],
       [
         '16-07-34-add-alpha-channel.md', 
-        '16.7.34. Add alpha channel'
+        '16.7.34. 알파 채널 추가하기(Add alpha channel)'
       ],
       [
         '16-07-35-remove-alpha-channel.md', 

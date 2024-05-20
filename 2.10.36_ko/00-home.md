@@ -1211,6 +1211,12 @@
 
 [14.3.9. 지우개(Eraser)](./14-03-09-00-eraser.md)
 
+[14.3.9.1. 도구 활성화하기(Activating the tools)](./14-03-09-01-activating_the_tool.md)
+
+[14.3.9.2. 동작 변경키(Key modifiers)](./14-03-09-02-key_modifiers.md)
+
+[14.3.9.3. 옵션(Options)](./14-03-09-03-options.md)
+
 [14.3.10. 에어브러시(Airbrush)](./14-03-10-airbrush.md)
 
 [14.3.11. 잉크(Ink)](./14-03-11-ink.md)
@@ -2901,6 +2907,24 @@
 [90.10.12.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-12-03-00-key_modifier-shift.md)
 
 [90.10.12.3.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-12-03-01-switch_to_straight_line_mode.md)
+
+[90.10.13. `지우개` 도구](./90-10-13-00-eraser.md)
+
+[90.10.13.1. 키보드 단축키](./90-10-13-01-00-keyboard_shortcut.md)
+
+[90.10.13.1.1. 키보드 단축키 Shift(⇧) + `E`](./90-10-13-01-01-shift_e.md)
+
+[90.10.13.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-13-02-00-key_modifier-ctrl.md)
+
+[90.10.13.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-13-02-01-switch_to_color_picker.md)
+
+[90.10.13.3. Alt(⌥):동작 변경키(Key modifiers)](./90-10-13-03-00-key_modifier-alt.md)
+
+[90.10.13.3.1. 지우기 방지(Anti-erase)로 바꾸기](./90-10-13-03-01-switch_to_anti_erase.md)
+
+[90.10.13.4. Shift(⇧):동작 변경키(Key modifiers)](./90-10-13-04-00-key_modifier-shift.md)
+
+[90.10.13.4.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-13-04-01-switch_to_straight_line_mode%20copy.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
