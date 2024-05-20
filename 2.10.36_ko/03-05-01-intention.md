@@ -24,7 +24,7 @@
 
 - [그리기 붓(Paintbrush)](./14-03-07-00-paintbrush.md)
 - [연필(Pencil)](./14-03-06-00-pencil.md)
-- [에어브러시(Airbrush)](./14-03-10-airbrush.md)
+- [에어브러시(Airbrush)](./14-03-10-00-airbrush.md)
 - [잉크(Ink)](./14-03-11-ink.md)
 - [MyPaint 붓(MyPaint Brush)](./14-03-08-00-mypaint-brush.md)
 - [도장(Clone)](./14-03-12-clone.md)

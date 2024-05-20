@@ -280,7 +280,13 @@
 
 [14.3.9.3. 옵션(Options)](./14-03-09-03-options.md)
 
-[14.3.10. 에어브러시(Airbrush)](./14-03-10-airbrush.md)
+[14.3.10. 에어브러시(Airbrush)](./14-03-10-00-airbrush.md)
+
+[14.3.10.1. 도구 활성화하기(Activating the tools)](./14-03-10-01-activating_the_tool.md)
+
+[14.3.10.2. 동작 변경키(Key modifiers)](./14-03-10-02-key_modifiers.md)
+
+[14.3.10.3. 옵션(Options)](./14-03-10-03-options.md)
 
 [14.3.11. 잉크(Ink)](./14-03-11-ink.md)
 
