@@ -1730,6 +1730,20 @@
 
 [90.10.14.3.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-14-03-01-switch_to_straight_line_mode.md)
 
+[90.10.15. `잉크` 도구](./90-10-15-00-ink.md)
+
+[90.10.15.1. 키보드 단축키](./90-10-15-01-00-keyboard_shortcut.md)
+
+[90.10.15.1.1. 키보드 단축키 `K`](./90-10-15-01-01-k.md)
+
+[90.10.15.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-15-02-00-key_modifier-ctrl.md)
+
+[90.10.15.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-15-02-01-switch_to_color_picker.md)
+
+[90.10.15.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-15-03-00-key_modifier-shift.md)
+
+[90.10.15.3.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-15-03-01-switch_to_straight_line_mode.md)
+
 <a id="90-00-s6"></a>
 
 ## [90.90. 개념(Concept)](./90-90-00-concept.md)
