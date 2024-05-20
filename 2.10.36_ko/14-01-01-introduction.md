@@ -11,7 +11,7 @@ GIMP(김프)는 여러가지 작업을 수행하는 다양한 도구로 나눌 �
 
 1. [선택 도구(Selection tools)](./14-02-00-selection-tools.md): 이미지의 일부분을 선택합니다.
 
-2. [그리기 도구(Paint tools)](./14-03-00-paint-tools.md): 이미지의 일부의 색상을 바꿉니다.
+2. [칠하기 도구(Paint tools)](./14-03-00-paint-tools.md): 이미지의 일부의 색상을 바꿉니다.
 
 3. [변형 도구(Transform tools)](./14-04-00-transform-tools.md): 이미지의 기하학적인 구조(크기, 각도 등)를 바꿉니다.
 

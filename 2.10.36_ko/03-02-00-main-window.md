@@ -67,7 +67,7 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 <a id="03-02-00-s4"></a>
 
 ### 4. 붓(Brushes), 무늬(Patterns), 글꼴(Fonts), 문서 이력(Document History) 독
-독(dock)안의 대화상자(dialog)들은 탭(tab)입니다. 이미지에는 붓(Brushes) 탭이 열려 있습니다. 그리기 도구(Paint tools)에서 사용된 붓(brushes) 종류롤 보여줍니다.
+독(dock)안의 대화상자(dialog)들은 탭(tab)입니다. 이미지에는 붓(Brushes) 탭이 열려 있습니다. 칠하기 도구(Paint tools)에서 사용된 붓(brushes) 종류롤 보여줍니다.
 
 <a id="03-02-00-s5"></a>
 

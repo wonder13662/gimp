@@ -61,7 +61,7 @@
 
 ## 5. 최종 마무리
 
-그리기 도구라면 직선을 그릴 수 있습니다. 직선을 그린 뒤에 직선을 더 그릴 수도 있습니다. 마지막으로 Shift(Windows) or ⇧(Mac) 키를 떼면 끝입니다. 몇가지 예제들은 [3.5.2. 직선그리기 예제들](./03-05-02-examples.md)에서 확인할 수 있습니다.
+칠하기 도구라면 직선을 그릴 수 있습니다. 직선을 그린 뒤에 직선을 더 그릴 수도 있습니다. 마지막으로 Shift(Windows) or ⇧(Mac) 키를 떼면 끝입니다. 몇가지 예제들은 [3.5.2. 직선그리기 예제들](./03-05-02-examples.md)에서 확인할 수 있습니다.
 
 #### 영상 3.5.1.5.1. 더 많은 직선 그리기
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8df743bc-7d7b-4ebf-911f-0d9bba0ec244"></video>

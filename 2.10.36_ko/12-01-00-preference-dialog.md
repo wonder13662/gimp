@@ -42,7 +42,7 @@
 
 [12.1.7.2. 비율 조정(Scaling)](./12-01-07-02-scaling.md)
 
-[12.1.7.3. 그리기 도구 공통 옵션(Paint Options Shared Between Tools)](./12-01-07-03-paint_options_shared_between_tools.md)
+[12.1.7.3. 칠하기 도구 공통 옵션(Paint Options Shared Between Tools)](./12-01-07-03-paint_options_shared_between_tools.md)
 
 [12.1.7.4. 이동 도구(Move Tool)](./12-01-07-04-move_tool.md)
 
