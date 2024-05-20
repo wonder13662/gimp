@@ -25,9 +25,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 14.3.8.1. 마이페인트 붓 설치하기(Installing MyPaing Brushes)](./14-03-08-01-installing_mypaint_brushes.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 14.3.7.3. 옵션(Options)](./14-03-07-03-options.md)
 
 [⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
 
