@@ -18,7 +18,7 @@ Ctrl(⌘) 키를 누르면 [그리기 붓](./14-03-07-00-paintbrush.md)과 비�
 <a id="14-03-09-02-s2"></a>
 
 ## 2. Alt(⌥)
-`지우개`에서는 Alt(⌥) 키를 누르고 있으면, `지우기 방지(Anti-erase)` 모드로 바뀝니다. `지우기 방지(Anti-erase)` 모드에 대해서는 [14.3.9.3. 옵션(Options)](./14-03-09-03-options.md)에서 설명하겠습니다.
+`지우개`에서는 Alt(⌥) 키를 누르고 있으면, `지우기 방지(Anti-erase)` 모드로 바뀝니다. `지우기 방지(Anti-erase)` 모드에 대해서는 [14.3.9.3. 옵션(Options) - 17. 지우기 방지(Anti-erase)](./14-03-09-03-options.md#14-03-09-03-s17)에서 설명하겠습니다.
 
 일부 환경에서는 Alt(⌥) 키가 창 관리자에게 미리 선점되어 있어서 이 동작 변경키(Key modifiers)를 사용할 수 없을수도 있습니다. 이런 경우에는 Alt(⌥) + Shift(⇧)를 대신 사용해주세요.
 
@@ -34,7 +34,7 @@ Shift(⇧) 키를 누르면 `지우개`는 `직선 모드(Straight line mode)`�
 
 <a id="90-10-13-04-01-a1"></a>
 
-#### [영상 90.10.13.4.1.a1. 칠하기 도구:`지우개` - Shift(⇧) 키: 직선 그리기](./90-10-13-04-01-switch_to_straight_line_mode%20copy.md#90-10-13-04-01-a1)
+#### [영상 90.10.13.4.1.a1. 칠하기 도구:`지우개` - Shift(⇧) 키: 직선 그리기](./90-10-13-04-01-switch_to_straight_line_mode.md#90-10-13-04-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ae532fa1-1ead-45e7-97f0-cf0e528cbc63"></video>
 
 ***

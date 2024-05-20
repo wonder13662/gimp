@@ -2924,7 +2924,7 @@
 
 [90.10.13.4. Shift(⇧):동작 변경키(Key modifiers)](./90-10-13-04-00-key_modifier-shift.md)
 
-[90.10.13.4.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-13-04-01-switch_to_straight_line_mode%20copy.md)
+[90.10.13.4.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-13-04-01-switch_to_straight_line_mode.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
