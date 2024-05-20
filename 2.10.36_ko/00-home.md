@@ -1227,6 +1227,12 @@
 
 [14.3.11. 잉크(Ink)](./14-03-11-00-ink.md)
 
+[14.3.11.1. 도구 활성화하기(Activating the tools)](./14-03-11-01-activating_the_tool.md)
+
+[14.3.11.2. 동작 변경키(Key modifiers)](./14-03-11-02-key_modifiers.md)
+
+[14.3.11.3. 옵션(Options)](./14-03-11-03-options.md)
+
 [14.3.12. 도장 도구(Clone)](./14-03-12-clone.md)
 
 [14.3.13. 복원(Heal)](./14-03-13-heal.md)
