@@ -18,14 +18,14 @@ Ctrl(⌘) 키를 누르는 것은 모든 그리기 도구에 특별한 효과를
 
 <a id="90-10-07-01-01-a1"></a>
 
-#### [영상 90.10.7.1.1.a1. 그리기 도구:그리기 붓 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 전경색 바꾸기](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a1)
+#### [영상 90.10.7.1.1.a1. 칠하기 도구:그리기 붓 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 전경색 바꾸기](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/878059d8-bfee-451d-82bb-be5679427892"></video>
 
 [지우개](./14-03-09-00-eraser.md)에서 Ctrl(⌘) 키를 누르면 GIMP(김프)의 배경색으로 설정됩니다.
 
 <a id="90-10-07-01-01-a2"></a>
 
-#### [영상 90.10.7.1.1.a2. 그리기 도구:지우개 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 배경색 바꾸기](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a2)
+#### [영상 90.10.7.1.1.a2. 칠하기 도구:지우개 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 배경색 바꾸기](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a2)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/69edb0c4-6ba7-4d3e-b258-371169744a64"></video>
 
 <a id="14-03-01-01-s1-02"></a>
@@ -35,7 +35,7 @@ Ctrl(⌘) 키를 누르는 것은 모든 그리기 도구에 특별한 효과를
 
 <a id="90-10-07-01-01-a3"></a>
 
-#### [영상 90.10.7.1.1.a3. 그리기 도구:도장 - Ctrl(⌘) 키 - 도장 참조 지점 모드로 바꾸기](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a3)
+#### [영상 90.10.7.1.1.a3. 칠하기 도구:도장 - Ctrl(⌘) 키 - 도장 참조 지점 모드로 바꾸기](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a3)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f2b801a6-e6f7-4501-82ed-6ab4d1c98f1e"></video>
 
 <a id="14-03-01-01-s1-03"></a>
@@ -45,7 +45,7 @@ Ctrl(⌘) 키를 누르는 것은 모든 그리기 도구에 특별한 효과를
 
 <a id="90-10-07-01-01-a4"></a>
 
-#### [영상 90.10.7.1.1.a4. 그리기 도구:`흐릿하게/선명하게` - Ctrl(⌘) 키 누르면 `선명하게`, 떼면 `흐릿하게`](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a4)
+#### [영상 90.10.7.1.1.a4. 칠하기 도구:`흐릿하게/선명하게` - Ctrl(⌘) 키 누르면 `선명하게`, 떼면 `흐릿하게`](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a4)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9cba9a1c-c055-4345-a6b9-016943c5722e"></video>
 
 <a id="14-03-01-01-s1-04"></a>
@@ -55,7 +55,7 @@ Ctrl(⌘) 키를 누르는 것은 모든 그리기 도구에 특별한 효과를
 
 <a id="90-10-07-01-01-a5"></a>
 
-#### [영상 90.10.7.1.1.a5. 그리기 도구:`닷지/번` - Ctrl(⌘) 키](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a5)
+#### [영상 90.10.7.1.1.a5. 칠하기 도구:`닷지/번` - Ctrl(⌘) 키](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a5)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7738f0a3-399f-4643-829e-c5ddec5ea1c4"></video>
 
 <a id="14-03-01-01-s2"></a>

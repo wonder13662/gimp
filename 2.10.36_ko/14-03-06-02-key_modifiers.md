@@ -1,4 +1,5 @@
 # 14.3.6.2. 동작 변경키(Key modifiers)
+칠하기 도구의 기본적인 `동작 변경키(Key modifiers)` 동작은 [14.3.1.1. 동작 변경키(Key modifiers)](./14-03-01-01-key_modifiers.md)을 참고해주세요.
 
 <a id="14-03-06-02-s1"></a>
 
@@ -11,17 +12,17 @@ Ctrl(⌘) 키를 누르면 [그리기 붓](./14-03-07-00-paintbrush.md)과 비�
 
 <a id="90-10-10-02-01-a1"></a>
 
-#### [영상 90.10.10.2.1.a1. 그리기 도구:`연필` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(전경색)](./90-10-10-02-01-switch_to_color_picker.md#14-03-06-02-s1)
+#### [영상 90.10.10.2.1.a1. 칠하기 도구:`연필` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(전경색)](./90-10-10-02-01-switch_to_color_picker.md#14-03-06-02-s1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6be99f33-0bd4-4963-9c67-df9863ee18b3"></video>
 
 <a id="14-03-06-02-s2"></a>
 
 ## 2. Shift(⇧)
-Shift(⇧) 키를 누르면 `그리기 붓`은 `직선 모드(Straight line mode)`로 바뀝니다. Shift(⇧) 키를 계속 누른 채로 마우스 왼쪽 버튼을 누르면 연속적으로 직선이 그려집니다.
+Shift(⇧) 키를 누르면 `연필`은 `직선 모드(Straight line mode)`로 바뀝니다. Shift(⇧) 키를 계속 누른 채로 마우스 왼쪽 버튼을 누르면 연속적으로 직선이 그려집니다.
 
 <a id="90-10-10-03-01-a1"></a>
 
-#### [영상 90.10.10.3.1.a1. 그리기 도구:`연필` - Shift(⇧) 키: 직선 그리기](./90-10-10-03-01-switch_to_straight_line_mode.md#90-10-10-03-01-a1)
+#### [영상 90.10.10.3.1.a1. 칠하기 도구:`연필` - Shift(⇧) 키: 직선 그리기](./90-10-10-03-01-switch_to_straight_line_mode.md#90-10-10-03-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a1eaf03c-c6f5-4160-9b97-d5cf5eb56e0f"></video>
 
 ***

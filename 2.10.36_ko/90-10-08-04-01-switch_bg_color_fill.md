@@ -2,7 +2,7 @@
 
 <a id="90-10-08-04-01-a1"></a>
 
-#### 영상 90.10.8.4.1.a1. 그리기 도구:`영역 채우기` - Alt(⌥) 키: 배경색으로 채우기로 바꾸기
+#### 영상 90.10.8.4.1.a1. 칠하기 도구:`영역 채우기` - Alt(⌥) 키: 배경색으로 채우기로 바꾸기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eee1bf4a-aebf-486f-afff-f3a354dc828c"></video>
 
 [14.3.4.2. 동작 변경키(Key modifiers) - 영상 90.10.8.4.1.a1](./14-03-04-02-key_modifiers.md#90-10-08-04-01-a1)
