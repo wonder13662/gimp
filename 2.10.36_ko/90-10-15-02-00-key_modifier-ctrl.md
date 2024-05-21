@@ -4,7 +4,7 @@
 
 ## 하위 페이지
 
-[90.10.15.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-14-02-01-switch_to_color_picker.md)
+[90.10.15.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-15-02-01-switch_to_color_picker.md)
 
 ***
 

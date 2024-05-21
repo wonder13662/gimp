@@ -290,6 +290,20 @@
 
 [90.10.15.3.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-15-03-01-switch_to_straight_line_mode.md)
 
+[90.10.16. `도장` 도구](./90-10-16-00-clone.md)
+
+[90.10.16.1. 키보드 단축키](./90-10-16-01-00-keyboard_shortcut.md)
+
+[90.10.16.1.1. 키보드 단축키 `C`](./90-10-16-01-01-k.md)
+
+[90.10.16.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-16-02-00-key_modifier-ctrl.md)
+
+[90.10.16.2.1. 원본 선택(Select the source)](./90-10-16-02-01-select_the_source.md)
+
+[90.10.16.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-16-03-00-key_modifier-shift.md)
+
+[90.10.16.3.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-16-03-01-switch_to_straight_line_mode.md)
+
 ***
 
 ## 다른 페이지로 가기

@@ -5,10 +5,20 @@
 
 ## 1. Ctrl(⌘)
 
+<a id="90-10-16-02-01-a1"></a>
+
+#### [영상 90.10.16.2.1.a1. 칠하기 도구:`도장` - Ctrl(⌘) 키: 원본 선택](./90-10-16-02-01-select_the_source.md#90-10-16-02-01-a1)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3a4df05f-fc8a-4736-a5cb-4161269c23fa"></video>
+
 <a id="14-03-11-02-s2"></a>
 
 ## 2. Shift(⇧)
 Shift(⇧) 키를 누르면 `직선 모드(Straight line mode)`로 바뀝니다. Shift(⇧) 키를 계속 누른 채로 마우스 왼쪽 버튼을 누르면 연속적으로 직선 모양으로 지워집니다.
+
+<a id="90-10-16-03-01-a1"></a>
+
+#### [영상 90.10.16.3.1.a1. 칠하기 도구:`도장` - Shift(⇧) 키: 직선 그리기](./90-10-16-03-01-switch_to_straight_line_mode.md#90-10-16-03-01-a1)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f47ef1e2-ff26-4671-8c7b-6440091aa6b3"></video>
 
 ***
 
