@@ -1233,7 +1233,15 @@
 
 [14.3.11.3. 옵션(Options)](./14-03-11-03-options.md)
 
-[14.3.12. 도장 도구(Clone)](./14-03-12-clone.md)
+[14.3.12. 도장(Clone)](./14-03-12-00-clone.md)
+
+[14.3.12.1. 도구 활성화하기(Activating the tools)](./14-03-12-01-activating_the_tool.md)
+
+[14.3.12.2. 동작 변경키(Key modifiers)](./14-03-12-02-key_modifiers.md)
+
+[14.3.12.3. 옵션(Options)](./14-03-12-03-options.md)
+
+[14.3.12.4. 추가 정보](./14-03-12-04-more_information.md)
 
 [14.3.13. 복원(Heal)](./14-03-13-heal.md)
 

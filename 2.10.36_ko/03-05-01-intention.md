@@ -27,7 +27,7 @@
 - [에어브러시(Airbrush)](./14-03-10-00-airbrush.md)
 - [잉크(Ink)](./14-03-11-00-ink.md)
 - [MyPaint 붓(MyPaint Brush)](./14-03-08-00-mypaint-brush.md)
-- [도장(Clone)](./14-03-12-clone.md)
+- [도장(Clone)](./14-03-12-00-clone.md)
 - [원근 도장(Perspective Clone)](./14-03-14-perspective-clone.md)
 - [복원(Heal)](./14-03-13-heal.md)
 - [문지르기(Smudge)](./14-03-16-smudge.md)

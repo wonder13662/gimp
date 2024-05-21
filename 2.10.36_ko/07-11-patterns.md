@@ -6,6 +6,8 @@
 #### [그림 90.3.2.21.a101. `도구 옵션` → `영역 채우기`: 무늬 사용 - 선택 채우기 (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a101)
 ![90-03-02-21-a101](https://github.com/wonder13662/gimp/assets/15767104/b8cad5c0-7316-40fd-9eac-4a7a21da7ef8)
 
+<a id="07-11-a2"></a>
+
 #### 그림 7.11.a2. 무늬 사용 - 복사(Clone) 도구로 칠하기
 ![07-11-pattern-stroke_with_pattern(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/229b0cef-87f7-4756-82ff-c08c7954d5bc)
 
