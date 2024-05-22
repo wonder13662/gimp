@@ -29,7 +29,7 @@
 - [MyPaint 붓(MyPaint Brush)](./14-03-08-00-mypaint-brush.md)
 - [도장(Clone)](./14-03-12-00-clone.md)
 - [원근 도장(Perspective Clone)](./14-03-14-perspective-clone.md)
-- [복원(Heal)](./14-03-13-heal.md)
+- [복원(Heal)](./14-03-13-00-heal.md)
 - [문지르기(Smudge)](./14-03-16-smudge.md)
 - [흐릿하게/선명하게(Blur/Sharpen)](./14-03-15-blur-sharpen.md)
 - [닷지/번(Dodge/Burn)](./14-03-17-dodge-burn.md)
@@ -187,6 +187,8 @@
 <a id="03-05-01-s6-06"></a>
 
 ### 6-6. 도장(Clone)
+
+[관련 정보: 14.3.12. 도장(Clone)](./14-03-12-00-clone.md)
 
 <a id="90-01-08-02-09-a101"></a>
 
