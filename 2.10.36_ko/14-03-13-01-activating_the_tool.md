@@ -27,7 +27,7 @@
 
 <a id="90-03-02-31-a2-01"></a>
 
-#### [영상 90.3.2.31.a2.1. `도구상자` → `복원` (Windows) (우리말)](./90-03-02-)
+#### [영상 90.3.2.31.a2.1. `도구상자` → `복원` (Windows) (우리말)](./90-03-02-31-healing.md#90-03-02-31-a2-01)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8d60b2cb-891a-404c-a790-15b98c8e938e"></video>
 
 <a id="14-03-13-01-s3"></a>
