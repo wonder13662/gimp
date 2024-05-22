@@ -17,7 +17,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.3.14. 원근 복제(Perspective clone)](./14-03-14-perspective-clone.md)
+[➡️ 다음: 14.3.14. 원근 복제(Perspective clone)](./14-03-14-00-perspective-clone.md)
 
 [⬅️ 이전: 14.3.13.3. 옵션(Options)](./14-03-13-03-options.md)
 
@@ -29,4 +29,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-tool-clone.html#idm13986)
+[원문](https://docs.gimp.org/2.10/ko/gimp-tool-heal.html#idm13986)
