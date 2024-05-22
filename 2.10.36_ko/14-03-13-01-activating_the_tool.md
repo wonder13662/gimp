@@ -55,4 +55,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-tool-clone.html#idm13701)
+[원문](https://docs.gimp.org/2.10/ko/gimp-tool-heal.html#idm13919)

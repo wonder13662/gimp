@@ -49,4 +49,4 @@ Shift(⇧) 키를 누르면 `직선 모드(Straight line mode)`로 바뀝니다.
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-tool-clone.html#idm13701)
+[원문](https://docs.gimp.org/2.10/ko/gimp-tool-heal.html#idm13936)
