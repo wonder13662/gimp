@@ -33,6 +33,15 @@
 #### 영상 90.3.2.33.a121.1.1. `도구 옵션` → `흐릿하게/선명하게` → `동작 속도`: 비교 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fdf77960-2e80-4fa9-b7e2-1fe73b3e8b24"></video>
 
+[14.3.15. 흐릿하게/선명하게(Blur/sharpen) - 영상 90.3.2.33.a121.1.1](./14-03-15-00-blur-sharpen.md#90-03-02-33-a121-01-01)
+
+<a id="90-03-02-33-a131"></a>
+
+#### 영상 90.3.2.33.a131. `흐릿하게/선명하게` 도구의 효과는 점점 쌓입니다: 클릭 50회와 10회의 비교 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f668e6ee-17cb-4eed-af00-8b0876382653"></video>
+
+[14.3.15. 흐릿하게/선명하게(Blur/sharpen) - 영상 90.3.2.33.a131](./14-03-15-00-blur-sharpen.md#90-03-02-33-a131)
+
 ***
 
 ## 다른 페이지로 가기
