@@ -28,6 +28,11 @@
 
 [10.1.4.1. 선명하게 하기(Unblurring) - 영상 90.3.2.33.a111](./10-01-04-01-unblurring.md#90-03-02-33-a111)
 
+<a id="90-03-02-33-a121-01-01"></a>
+
+#### 영상 90.3.2.33.a121.1.1. `도구 옵션` → `흐릿하게/선명하게` → `동작 속도`: 비교 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fdf77960-2e80-4fa9-b7e2-1fe73b3e8b24"></video>
+
 ***
 
 ## 다른 페이지로 가기

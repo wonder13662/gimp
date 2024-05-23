@@ -1782,6 +1782,16 @@
 
 [90.10.18.2.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-18-02-01-switch_to_straight_line_mode.md)
 
+[90.10.19. `흐릿하게/선명하게` 도구](./90-10-19-00-blur_sharpen.md)
+
+[90.10.19.1. 키보드 단축키](./90-10-19-01-00-keyboard_shortcut.md)
+
+[90.10.19.1.1. 키보드 단축키 Shift(⇧) + `U`](./90-10-19-01-01-k.md)
+
+[90.10.19.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-19-02-00-key_modifier-ctrl.md)
+
+[90.10.19.2.1. 흐릿하게/선명하게 모드 바꾸기](./90-10-19-02-01-switch_blur_n_sharpen.md)
+
 <a id="90-00-s6"></a>
 
 ## [90.90. 개념(Concept)](./90-90-00-concept.md)

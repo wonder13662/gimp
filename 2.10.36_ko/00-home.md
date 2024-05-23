@@ -1263,7 +1263,13 @@
 
 [14.3.14.4. 예제](./14-03-14-04-example.md)
 
-[14.3.15. 흐릿하게/선명하게(Blur/sharpen)](./14-03-15-blur-sharpen.md)
+[14.3.15. 흐릿하게/선명하게(Blur/sharpen)](./14-03-15-00-blur-sharpen.md)
+
+[14.3.15.1. 도구 활성화하기(Activating the tools)](./14-03-15-01-activating_the_tool.md)
+
+[14.3.15.2. 동작 변경키(Key modifiers)](./14-03-15-02-key_modifiers.md)
+
+[14.3.15.3. 옵션(Options)](./14-03-15-03-options.md)
 
 [14.3.16. 문지르기(Smudge)](./14-03-16-smudge.md)
 
@@ -3027,6 +3033,16 @@
 [90.10.18.2. Shift(⇧):동작 변경키(Key modifiers)](./90-10-18-02-00-key_modifier-shift.md)
 
 [90.10.18.2.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-18-02-01-switch_to_straight_line_mode.md)
+
+[90.10.19. `흐릿하게/선명하게` 도구](./90-10-19-00-blur_sharpen.md)
+
+[90.10.19.1. 키보드 단축키](./90-10-19-01-00-keyboard_shortcut.md)
+
+[90.10.19.1.1. 키보드 단축키 Shift(⇧) + `U`](./90-10-19-01-01-k.md)
+
+[90.10.19.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-19-02-00-key_modifier-ctrl.md)
+
+[90.10.19.2.1. 흐릿하게/선명하게 모드 바꾸기](./90-10-19-02-01-switch_blur_n_sharpen.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

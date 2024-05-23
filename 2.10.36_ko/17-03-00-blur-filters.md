@@ -1,4 +1,4 @@
-# 17.3. Blur filters
+# 17.3. 흐림 필터(Blur filters)
 
 ## [17.3.1. Introduction](./17-03-01-introduction.md)
 ## [17.3.2. Focus blur](./17-03-02-focus-blur.md)

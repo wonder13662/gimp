@@ -983,7 +983,7 @@ module.exports = {
         '14.3.14. 원근 복제'
       ],
       [
-        '14-03-15-blur-sharpen.md', 
+        '14-03-15-00-blur-sharpen.md', 
         '14.3.15. 흐릿하게/선명하게(Blur/sharpen)',
         '14.3.15. 흐릿하게/선명하게'
       ],
@@ -2384,7 +2384,7 @@ module.exports = {
       ],
       [
         '17-03-00-blur-filters.md', 
-        '17.3. Blur filters'
+        '17.3. 흐림 필터(Blur filters)'
       ],
       [
         '17-03-01-introduction.md', 
@@ -2440,7 +2440,7 @@ module.exports = {
       ],
       [
         '17-04-00-enhance-filters.md', 
-        '17.4. Enhance filters'
+        '17.4. 강화 필터(Enhance filters)'
       ],
       [
         '17-04-01-introduction.md', 
@@ -2472,7 +2472,7 @@ module.exports = {
       ],
       [
         '17-04-08-sharpen-unsharp-mask.md', 
-        '17.4.8. Sharpen (unsharp mask)'
+        '17.4.8. 선명하게 - Sharpen (unsharp mask)'
       ],
       [
         '17-04-09-despeckle.md', 
