@@ -5,11 +5,14 @@
 #### [그림 90.3.2.30.a2. `도구상자` → `원근 복제`](./90-03-02-30-perspective_clone.md#90-03-02-30-a2)
 ![90-03-02-30-a2](https://github.com/wonder13662/gimp/assets/15767104/1bebe4c7-108c-47be-a1e8-2e6f2e93a8a9)
 
-`원근 복제(Perspective clone)` 도구는 사용자가 설정한 원근법에 따라 색상 정보를 복사를 합니다.
+`원근 복제(Perspective clone)` 도구는 사용자가 설정한 원근법에 따라 색상 정보를 복사를 합니다. 아래 영상에서 전체 과정을 확인할 수 있습니다.
 
-첫번째로 [원근법(Perspective)](./14-04-08-perspective.md) 도구와 같은 방법으로 투시를 위한 소멸선(vanishing line)을 설정합니다.
+[관련 정보: 3.5.1. 목적 → 6-7. 원근 복제(Perspective Clone)](./03-05-01-intention.md#03-05-01-s6-07)
 
-그 다음에 [도장(Clone)](./14-03-12-00-clone.md) 도구와 같은 방법으로 원본 영역을 복사합니다.
+<a id="90-03-02-30-a101"></a>
+
+#### [영상 90.3.2.30.a101. 원근 복제(Perspective Clone)의 직선그리기](./90-03-02-30-perspective_clone.md#90-03-02-30-a101)
+<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/75691a99-5cda-47d2-9be8-31f930883b26"></video>
 
 ***
 
