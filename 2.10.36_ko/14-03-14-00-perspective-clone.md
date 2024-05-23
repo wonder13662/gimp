@@ -1,5 +1,10 @@
 # 14.3.14. 원근 복제(Perspective clone)
 
+<a id="90-03-02-30-a2"></a>
+
+#### [그림 90.3.2.30.a2. `도구상자` → `원근 복제`](./90-03-02-30-perspective_clone.md#90-03-02-30-a2)
+![90-03-02-30-a2](https://github.com/wonder13662/gimp/assets/15767104/1bebe4c7-108c-47be-a1e8-2e6f2e93a8a9)
+
 `원근 복제(Perspective clone)` 도구는 사용자가 설정한 원근법에 따라 색상 정보를 복사를 합니다.
 
 첫번째로 [원근법(Perspective)](./14-04-08-perspective.md) 도구와 같은 방법으로 투시를 위한 소멸선(vanishing line)을 설정합니다.

@@ -211,6 +211,8 @@
 
 ### 6-7. 원근 복제(Perspective Clone)
 
+[관련 정보: 14.3.14. 원근 복제(Perspective clone)](./14-03-14-00-perspective-clone.md)
+
 <a id="90-01-08-02-11-a101"></a>
 
 #### [그림 90.1.8.2.11.a101. `이미지 메뉴 바` → `도구` → `칠하기 도구` → `원근 복제` (Windows)](./90-01-08-02-11-perspective_clone.md#90-01-08-02-11-a101)
