@@ -1772,6 +1772,16 @@
 
 [90.10.17.3.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-17-03-01-switch_to_straight_line_mode.md)
 
+[90.10.18. `원근 복제` 도구](./90-10-18-00-perspective_clone.md)
+
+[90.10.18.1. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-18-01-00-key_modifier-ctrl.md)
+
+[90.10.18.1.1. 원본 선택(Select the source)](./90-10-18-01-01-select_the_source.md)
+
+[90.10.18.2. Shift(⇧):동작 변경키(Key modifiers)](./90-10-18-02-00-key_modifier-shift.md)
+
+[90.10.18.2.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-18-02-01-switch_to_straight_line_mode.md)
+
 <a id="90-00-s6"></a>
 
 ## [90.90. 개념(Concept)](./90-90-00-concept.md)

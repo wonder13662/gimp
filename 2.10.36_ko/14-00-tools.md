@@ -316,7 +316,15 @@
 
 [14.3.13.4. 복원 도구는 도장 도구가 아닙니다(Healing is not cloning)](./14-03-13-04-healing_is_not_cloning.md)
 
-[14.3.14. 원근 복제(Perspective clone)](./14-03-14-perspective-clone.md)
+[14.3.14. 원근 복제(Perspective clone)](./14-03-14-00-perspective-clone.md)
+
+[14.3.14.1. 도구 활성화하기(Activating the tools)](./14-03-14-01-activating_the_tool.md)
+
+[14.3.14.2. 동작 변경키(Key modifiers)](./14-03-14-02-key_modifiers.md)
+
+[14.3.14.3. 옵션(Options)](./14-03-14-03-options.md)
+
+[14.3.14.4. 예제](./14-03-14-04-example.md)
 
 [14.3.15. 흐릿하게/선명하게(Blur/sharpen)](./14-03-15-blur-sharpen.md)
 

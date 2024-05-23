@@ -978,9 +978,9 @@ module.exports = {
         '14.3.13. 복원',
       ],
       [
-        '14-03-14-perspective-clone.md', 
+        '14-03-14-00-perspective-clone.md', 
         '14.3.14. 원근 복제(Perspective clone)',
-        '14.3.14. 원근 도장'
+        '14.3.14. 원근 복제'
       ],
       [
         '14-03-15-blur-sharpen.md', 

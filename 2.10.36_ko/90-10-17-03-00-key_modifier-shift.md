@@ -4,7 +4,7 @@
 
 ## 하위 페이지
 
-[90.10.17.3.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-14-03-01-switch_to_straight_line_mode.md)
+[90.10.17.3.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-17-03-01-switch_to_straight_line_mode.md)
 
 ***
 

@@ -28,7 +28,7 @@
 - [잉크(Ink)](./14-03-11-00-ink.md)
 - [MyPaint 붓(MyPaint Brush)](./14-03-08-00-mypaint-brush.md)
 - [도장(Clone)](./14-03-12-00-clone.md)
-- [원근 도장(Perspective Clone)](./14-03-14-perspective-clone.md)
+- [원근 복제(Perspective Clone)](./14-03-14-00-perspective-clone.md)
 - [복원(Heal)](./14-03-13-00-heal.md)
 - [문지르기(Smudge)](./14-03-16-smudge.md)
 - [흐릿하게/선명하게(Blur/Sharpen)](./14-03-15-blur-sharpen.md)
@@ -225,7 +225,7 @@
 
 <a id="90-03-02-30-a101"></a>
 
-#### [영상 90.3.2.30.a101. 원근 도장(Perspective Clone)의 직선그리기](./90-03-02-30-perspective_clone.md#90-03-02-30-a101)
+#### [영상 90.3.2.30.a101. 원근 복제(Perspective Clone)의 직선그리기](./90-03-02-30-perspective_clone.md#90-03-02-30-a101)
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/75691a99-5cda-47d2-9be8-31f930883b26"></video>
 
 <a id="03-05-01-s6-08"></a>

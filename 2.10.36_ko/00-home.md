@@ -1253,7 +1253,15 @@
 
 [14.3.13.4. 복원 도구는 도장 도구가 아닙니다(Healing is not cloning)](./14-03-13-04-healing_is_not_cloning.md)
 
-[14.3.14. 원근 복제(Perspective clone)](./14-03-14-perspective-clone.md)
+[14.3.14. 원근 복제(Perspective clone)](./14-03-14-00-perspective-clone.md)
+
+[14.3.14.1. 도구 활성화하기(Activating the tools)](./14-03-14-01-activating_the_tool.md)
+
+[14.3.14.2. 동작 변경키(Key modifiers)](./14-03-14-02-key_modifiers.md)
+
+[14.3.14.3. 옵션(Options)](./14-03-14-03-options.md)
+
+[14.3.14.4. 예제](./14-03-14-04-example.md)
 
 [14.3.15. 흐릿하게/선명하게(Blur/sharpen)](./14-03-15-blur-sharpen.md)
 
@@ -3009,6 +3017,16 @@
 [90.10.17.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-17-03-00-key_modifier-shift.md)
 
 [90.10.17.3.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-17-03-01-switch_to_straight_line_mode.md)
+
+[90.10.18. `원근 복제` 도구](./90-10-18-00-perspective_clone.md)
+
+[90.10.18.1. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-18-01-00-key_modifier-ctrl.md)
+
+[90.10.18.1.1. 원본 선택(Select the source)](./90-10-18-01-01-select_the_source.md)
+
+[90.10.18.2. Shift(⇧):동작 변경키(Key modifiers)](./90-10-18-02-00-key_modifier-shift.md)
+
+[90.10.18.2.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-18-02-01-switch_to_straight_line_mode.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
