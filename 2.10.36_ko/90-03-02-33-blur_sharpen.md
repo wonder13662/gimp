@@ -14,6 +14,15 @@
 
 [10.1.4.1. 선명하게 하기(Unblurring) - 그림 90.3.2.33.a2](./10-01-04-01-unblurring.md#90-03-02-33-a2)
 
+[14.3.15.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.33.a2](./14-03-15-01-activating_the_tool.md#90-03-02-33-a2)
+
+<a id="90-03-02-33-a2-01"></a>
+
+#### 그림 90.3.2.33.a2.1. `도구상자` → `흐릿하게/선명하게` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c8307913-5593-446e-bc1a-3cb8a573bdb5"></video>
+
+[14.3.15.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.33.a2.1](./14-03-15-01-activating_the_tool.md#90-03-02-33-a2-01)
+
 <a id="90-03-02-33-a101"></a>
 
 #### 영상 90.3.2.33.a101. 흐릿하게/선명하게(Blur/Sharpen)의 직선그리기
