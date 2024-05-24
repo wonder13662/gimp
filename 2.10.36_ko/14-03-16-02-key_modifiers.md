@@ -45,4 +45,4 @@ Ctrl(⌘) + Shift(⇧) 키를 누르고 있으면 `직선 모드(Straight line m
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-tool-smudge.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-tool-smudge.html#idm14219)
