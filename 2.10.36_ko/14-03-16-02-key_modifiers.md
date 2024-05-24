@@ -33,9 +33,9 @@ Ctrl(⌘) + Shift(⇧) 키를 누르고 있으면 `직선 모드(Straight line m
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 14.3.16.3. 옵션(Options)](./14-03-16-03-options.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 14.3.16.1. 도구 활성화하기(Activating the tools)](./14-03-16-01-activating_the_tool.md)
 
 [⬆️ 위: 14.3.16. 문지르기(Smudge)](./14-03-16-00-smudge.md)
 
