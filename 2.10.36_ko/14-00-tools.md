@@ -334,7 +334,7 @@
 
 [14.3.15.3. 옵션(Options)](./14-03-15-03-options.md)
 
-[14.3.16. 문지르기(Smudge)](./14-03-16-smudge.md)
+[14.3.16. 문지르기(Smudge)](./14-03-16-00-smudge.md)
 
 [14.3.17. 닷지/번(Dodge/Burn)](./14-03-17-dodge-burn.md)
 

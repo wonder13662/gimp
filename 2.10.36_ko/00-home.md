@@ -1271,7 +1271,7 @@
 
 [14.3.15.3. 옵션(Options)](./14-03-15-03-options.md)
 
-[14.3.16. 문지르기(Smudge)](./14-03-16-smudge.md)
+[14.3.16. 문지르기(Smudge)](./14-03-16-00-smudge.md)
 
 [14.3.17. 닷지/번(Dodge/Burn)](./14-03-17-dodge-burn.md)
 
@@ -3043,6 +3043,20 @@
 [90.10.19.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-19-02-00-key_modifier-ctrl.md)
 
 [90.10.19.2.1. 흐릿하게/선명하게 모드 바꾸기](./90-10-19-02-01-switch_blur_n_sharpen.md)
+
+[90.10.20. `문지르기` 도구](./90-10-20-00-smudge.md)
+
+[90.10.20.1. 키보드 단축키](./90-10-20-01-00-keyboard_shortcut.md)
+
+[90.10.20.1.1. 키보드 단축키 `S`](./90-10-20-01-01-s.md)
+
+[90.10.20.2. Ctrl(⌘) + Shift(⇧):동작 변경키(Key modifiers)](./90-10-20-02-00-key_modifier-ctrl_shift.md)
+
+[90.10.20.2.1. 각도 제한하기](./90-10-20-02-01-constrain_angle.md)
+
+[90.10.20.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-20-03-00-key_modifier-shift.md)
+
+[90.10.20.3.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-20-03-01-switch_to_straight_line_mode.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

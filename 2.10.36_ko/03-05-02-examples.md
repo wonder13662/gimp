@@ -29,7 +29,7 @@
 <video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/03865af2-1672-4732-a24e-a3764e9bef34"></video>
 
 ## 3.5.2.3. 격자에 문지르기(Smudge) 직선그리기로 효과주기
-이미지 메뉴 바의 `필터(Filters)` → `렌더(Render)` → `무늬(Pattern)` → `격자(Grid)` 메뉴를 이용해 격자를 그립니다. 그리고 [문지르기(Smudge)](./14-03-16-smudge.md) 도구를 선택하고, 붓 크기를 약간 키운 뒤 직선을 그립니다.
+이미지 메뉴 바의 `필터(Filters)` → `렌더(Render)` → `무늬(Pattern)` → `격자(Grid)` 메뉴를 이용해 격자를 그립니다. 그리고 [문지르기(Smudge)](./14-03-16-00-smudge.md) 도구를 선택하고, 붓 크기를 약간 키운 뒤 직선을 그립니다.
 
 <a id="90-01-09-12-03-04-a1"></a>
 
