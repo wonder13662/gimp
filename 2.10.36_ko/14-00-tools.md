@@ -336,7 +336,19 @@
 
 [14.3.16. 문지르기(Smudge)](./14-03-16-00-smudge.md)
 
-[14.3.17. 닷지/번(Dodge/Burn)](./14-03-17-dodge-burn.md)
+[14.3.16.1. 도구 활성화하기(Activating the tools)](./14-03-16-01-activating_the_tool.md)
+
+[14.3.16.2. 동작 변경키(Key modifiers)](./14-03-16-02-key_modifiers.md)
+
+[14.3.16.3. 옵션(Options)](./14-03-16-03-options.md)
+
+[14.3.17. 닷지/번(Dodge/Burn)](./14-03-17-00-dodge-burn.md)
+
+[14.3.17.1. 도구 활성화하기(Activating the tools)](./14-03-17-01-activating_the_tool.md)
+
+[14.3.17.2. 동작 변경키(Key modifiers)](./14-03-17-02-key_modifiers.md)
+
+[14.3.17.3. 옵션(Options)](./14-03-17-03-options.md)
 
 [14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)
 

@@ -1273,7 +1273,19 @@
 
 [14.3.16. 문지르기(Smudge)](./14-03-16-00-smudge.md)
 
-[14.3.17. 닷지/번(Dodge/Burn)](./14-03-17-dodge-burn.md)
+[14.3.16.1. 도구 활성화하기(Activating the tools)](./14-03-16-01-activating_the_tool.md)
+
+[14.3.16.2. 동작 변경키(Key modifiers)](./14-03-16-02-key_modifiers.md)
+
+[14.3.16.3. 옵션(Options)](./14-03-16-03-options.md)
+
+[14.3.17. 닷지/번(Dodge/Burn)](./14-03-17-00-dodge-burn.md)
+
+[14.3.17.1. 도구 활성화하기(Activating the tools)](./14-03-17-01-activating_the_tool.md)
+
+[14.3.17.2. 동작 변경키(Key modifiers)](./14-03-17-02-key_modifiers.md)
+
+[14.3.17.3. 옵션(Options)](./14-03-17-03-options.md)
 
 [14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)
 
@@ -3057,6 +3069,20 @@
 [90.10.20.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-20-03-00-key_modifier-shift.md)
 
 [90.10.20.3.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-20-03-01-switch_to_straight_line_mode.md)
+
+[90.10.21. `닷지/번` 도구](./90-10-21-00-dodge_burn.md)
+
+[90.10.21.1. 키보드 단축키](./90-10-21-01-00-keyboard_shortcut.md)
+
+[90.10.21.1.1. 키보드 단축키 Shift(⇧) + `D`](./90-10-21-01-01-shift_d.md)
+
+[90.10.21.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-21-02-00-key_modifier-ctrl.md)
+
+[90.10.21.2.1. 닷지/번 토글하기](./90-10-21-02-01-toggle_dodge_n_burn.md)
+
+[90.10.21.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-21-03-00-key_modifier-shift.md)
+
+[90.10.21.3.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-21-03-01-switch_to_straight_line_mode.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

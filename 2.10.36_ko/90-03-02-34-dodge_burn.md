@@ -16,6 +16,17 @@
 
 [8.3.9. 레이어 모드(Legacy) - 번(Burn) - 그림 90.3.2.34.a2](./08-03-09-darken_layer_mode-burn.md#90-03-02-34-a2)
 
+[14.3.17. 닷지/번(Dodge/Burn) - 그림 90.3.2.34.a2](./14-03-17-00-dodge-burn.md#90-03-02-34-a2)
+
+[14.3.17.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.34.a2](./14-03-17-01-activating_the_tool.md#90-03-02-34-a2)
+
+<a id="90-03-02-34-a2-01"></a>
+
+#### 영상 90.3.2.34.a2.1. `도구상자` → `닷지/번` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bb0ba477-6cec-42e7-b9b2-8d8cd3509d90"></video>
+
+[14.3.17.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.34.a2.1](./14-03-17-01-activating_the_tool.md#90-03-02-34-a2-01)
+
 <a id="90-03-02-34-a101"></a>
 
 #### 영상 90.3.2.34.a101. 닷지/번(Dodge/Burn)의 직선그리기

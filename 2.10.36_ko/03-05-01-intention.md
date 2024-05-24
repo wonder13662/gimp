@@ -32,7 +32,7 @@
 - [복원(Heal)](./14-03-13-00-heal.md)
 - [문지르기(Smudge)](./14-03-16-00-smudge.md)
 - [흐릿하게/선명하게(Blur/Sharpen)](./14-03-15-00-blur-sharpen.md)
-- [닷지/번(Dodge/Burn)](./14-03-17-dodge-burn.md)
+- [닷지/번(Dodge/Burn)](./14-03-17-00-dodge-burn.md)
 - [지우개(Eraser)](./14-03-09-00-eraser.md)
 
 이번 예제에서는 붓(Paintbrush)를 사용해보도록 하겠습니다.
