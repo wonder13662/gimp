@@ -5,6 +5,8 @@
 #### 영상 90.10.20.2.1.a1. 칠하기 도구:`문지르기` - Ctrl(⌘) + Shift(⇧) 키: 각도 제한하기
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/462fddf1-76e6-455d-9e45-ba5c42620bed"></video>
 
+[14.3.16.2. 동작 변경키(Key modifiers) - 영상 90.10.20.2.1.a1](./14-03-16-02-key_modifiers.md#90-10-20-02-01-a1)
+
 ***
 
 ## 다른 페이지로 가기
