@@ -32,9 +32,9 @@ Shift(⇧) 키를 누르면 `직선 모드(Straight line mode)`로 바뀝니다.
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 14.3.17.3. 옵션(Options)](./14-03-17-03-options.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 14.3.17.1. 도구 활성화하기(Activating the tools)](./14-03-17-01-activating_the_tool.md)
 
 [⬆️ 위: 14.3.17. 닷지/번(Dodge/Burn)](./14-03-17-00-dodge-burn.md)
 
