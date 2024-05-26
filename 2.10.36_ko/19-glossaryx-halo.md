@@ -1,10 +1,8 @@
-# 19.용어집 - 보간법(Interpolation)
+# 19.용어집 - 헤일로(Halo)
 
 *** 
 
 ## 관련 정보
-
-[원문](https://docs.gimp.org/2.10/ko/glossary.html#glossary-interpolation)
 
 [Cambridge in Colour - DIGITAL IMAGE INTERPOLATION](https://www.cambridgeincolour.com/tutorials/image-interpolation.htm)
 

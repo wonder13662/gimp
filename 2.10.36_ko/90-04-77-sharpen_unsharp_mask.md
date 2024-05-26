@@ -33,6 +33,13 @@
 
 [10.1.4.1. 선명하게 하기(Unblurring) - 영상 90.4.77.a112](./10-01-04-01-unblurring.md#90-04-77-a112)
 
+<a id="90-04-77-a121"></a>
+
+#### 그림 90.4.77.a121. `선명하게 하기` 대화상자: 헤일로 현상 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/29bac2be-8098-4044-9f6e-75dd2c27080d"></video>
+
+[14.4.1.1.3. 보간법(Interpolation) - 그림 90.4.77.a121](./14-04-01-01-03-interpolation.md#90-04-77-a121)
+
 ***
 
 ## 다른 페이지로 가기
