@@ -10,6 +10,21 @@
 #### [영상 90.3.2.12.a101.3.1. `도구 옵션` → `회전` → `보간법`: 드롭다운 목록 (Mac)](./90-03-02-12-rotate.md#90-03-02-12-a101-03-01)
 ![90-03-02-12-a101-03-01](https://github.com/wonder13662/gimp/assets/15767104/db7e87fc-638e-48b4-96a6-b8f235a1c593)
 
+<a id="19-interpolation-01"></a>
+
+#### [그림 19.interpolation.1. 회전](./19-glossaryx-interpolation.md#19-interpolation-01)
+![19-interpolation-01](https://github.com/wonder13662/gimp/assets/15767104/727496f6-6661-4e97-853a-bc6228ebbeb4)
+
+<a id="19-interpolation-02"></a>
+
+#### [그림 19.interpolation.2. 크기 조정(축소)](./19-glossaryx-interpolation.md#19-interpolation-02)
+![19-interpolation-02](https://github.com/wonder13662/gimp/assets/15767104/52617f0f-f12c-4898-90fe-544c9d386636)
+
+<a id="19-interpolation-03"></a>
+
+#### [그림 19.interpolation.3. 크기 조정(확대)](./19-glossaryx-interpolation.md#19-interpolation-03)
+![19-interpolation-03](https://github.com/wonder13662/gimp/assets/15767104/62300f2e-4c4f-4aae-9644-b4c8218bebfd)
+
 <a id="14-04-01-01-03-s1"></a>
 
 ## 1. 보간법 - 드롭다운 목록

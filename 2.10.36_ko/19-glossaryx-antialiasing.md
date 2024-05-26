@@ -9,3 +9,5 @@
 
 [Gimp-Forum.net: What is anti-aliasing?](https://www.gimp-forum.net/Thread-What-is-anti-aliasing)
 (TODO 내용 정리필요)
+
+[Cambridge in Colour - DIGITAL IMAGE INTERPOLATION](https://www.cambridgeincolour.com/tutorials/image-interpolation.htm)
