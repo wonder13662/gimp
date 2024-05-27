@@ -14,6 +14,13 @@
 
 [14.4.2.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.2.a2](./14-04-02-01-activating_the_tool.md#90-03-02-02-a2)
 
+<a id="90-03-02-02-a2-01"></a>
+
+#### 영상 90.3.2.2.a2.1. `도구상자` → `정렬` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/519915a9-07d2-4e84-b081-3fb72613e54d"></video>
+
+[14.4.2.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.2.a2.1](./14-04-02-01-activating_the_tool.md#90-03-02-02-a2-01)
+
 <a id="90-03-02-02-a10"></a>
 
 #### 그림 90.3.2.2.a10. `정렬(Align)` 도구 선택시, 마우스 포인터가 작은 손 모양으로 바뀜
