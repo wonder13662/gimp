@@ -5,9 +5,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 14.4.2.5. 고무밴드 박스로 정렬하기(Align using the rubber-band box)](./14-04-02-05-align_using_the_rubber_band_box.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 14.4.2.3. 옵션(Options)](./14-04-02-03-options.md)
 
 [⬆️ 위: 14.4.2. 정렬(Align)](./14-04-02-00-align.md)
 

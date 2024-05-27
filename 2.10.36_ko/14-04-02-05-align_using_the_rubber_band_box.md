@@ -4,9 +4,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 14.4.3. 이동 도구(Move)](./14-04-03-move.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 14.4.2.4. "배치"의 실제 예제(A practical example for "Distribute")](./14-04-02-04-a_practical_example_for_distribute.md)
 
 [⬆️ 위: 14.4.2. 정렬(Align)](./14-04-02-00-align.md)
 
