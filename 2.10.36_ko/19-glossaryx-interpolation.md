@@ -21,7 +21,7 @@
 
 [14.4.1.1.3. 보간법(Interpolation) - 그림 19.interpolation.3](./14-04-01-01-03-interpolation.md#19-interpolation-03)
 
-*** 
+***
 
 ## 관련 정보
 

@@ -189,7 +189,7 @@
 
 [90.1.4.1. 새 창으로 보기(New View)](./90-01-04-01-new_view.md)
 
-[90.1.4.2. Show All(Show All)](./90-01-04-02-show_all.md)
+[90.1.4.2. 모두 보기(Show All)](./90-01-04-02-show_all.md)
 
 [90.1.4.3. 점대점(Dot for Dot)](./90-01-04-03-dot_for_dot.md)
 
