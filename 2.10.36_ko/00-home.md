@@ -1862,6 +1862,32 @@
 
 [90.1.8.3. 변형 도구(Transform Tools)](./90-01-08-03-00-transform_tools.md)
 
+[90.1.8.3.1. 정렬(Align)](./90-01-08-03-01-align.md)
+
+[90.1.8.3.2. 이동(Move)](./90-01-08-03-02-move.md)
+
+[90.1.8.3.3. 잘라내기(Crop)](./90-01-08-03-03-crop.md)
+
+[90.1.8.3.4. 회전(Rotate)](./90-01-08-03-04-rotate.md)
+
+[90.1.8.3.5. 크기 조정(Scale)](./90-01-08-03-05-scale.md)
+
+[90.1.8.3.6. 기울이기(Shear)](./90-01-08-03-06-shear.md)
+
+[90.1.8.3.7. 원근(Perspective)](./90-01-08-03-07-perspective.md)
+
+[90.1.8.3.8. 3차원 변형(3D Transform)](./90-01-08-03-08-3d_transform.md)
+
+[90.1.8.3.9. 통합 변형(Unified Transform)](./90-01-08-03-09-unified_transform.md)
+
+[90.1.8.3.10. 변형 다루기(Handle Transform)](./90-01-08-03-10-handle_transform.md)
+
+[90.1.8.3.11. 뒤집기(Flip)](./90-01-08-03-11-flip.md)
+
+[90.1.8.3.12. 골조 변형(Cage Transform)](./90-01-08-03-12-cage_transform.md)
+
+[90.1.8.3.13. 워프 변형(Warp Transform)](./90-01-08-03-13-warp_transform.md)
+
 [90.1.9. 필터(Filters)](./90-01-09-00-filters.md)
 
 [90.1.9.1. 흐림 처리(Blur)](./90-01-09-01-00-blur.md)

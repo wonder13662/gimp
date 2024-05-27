@@ -4,6 +4,11 @@
 
 ## 1. Shift(⇧)
 
+<a id="90-10-22-02-01-a1"></a>
+
+#### [영상 90.10.22.2.1.a1. 변형 도구 `정렬`: Shift(⇧) 키 - 여러 개의 소스 레이어 선택하기](./90-10-22-02-01-select_multiple_layers.md#90-10-22-02-01-a1)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e611593d-76ff-4be9-9a33-aa20ce22af68"></video>
+
 ***
 
 ## 다른 페이지로 가기
