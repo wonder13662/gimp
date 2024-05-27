@@ -6,7 +6,7 @@
 
 [➡️ 다음: 14.4.1.1.7. 안내선(Guides)](./14-04-01-01-07-guides.md)
 
-[⬅️ 이전: 14.4.1.1.5. 이미지 미리보기 보여주기(Show image preview)](./14-04-01-01-05-show_image_preview.md)
+[⬅️ 이전: 14.4.1.1.5. 이미지 미리 보기 표시(Show image preview)](./14-04-01-01-05-show_image_preview.md)
 
 [⬆️ 위: 14.4.1.1. 도구 옵션(Tool Options)](./14-04-01-01-00-tool_options.md)
 
