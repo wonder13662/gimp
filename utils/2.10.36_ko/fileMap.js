@@ -1006,7 +1006,7 @@ module.exports = {
         '14.4.1. 일반적인 특징(Common features)'
       ],
       [
-        '14-04-02-align.md', 
+        '14-04-02-00-align.md', 
         '14.4.2. 정렬(Align)'
       ],
       [

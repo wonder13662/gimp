@@ -22,7 +22,17 @@
 
 [14.4.1.1.7. 안내선(Guides)](./14-04-01-01-07-guides.md)
 
-[14.4.2. 정렬(Align)](./14-04-02-align.md) 
+[14.4.2. 정렬(Align)](./14-04-02-00-align.md)
+
+[14.4.2.1. 도구 활성화하기(Activating the tools)](./14-04-02-01-activating_the_tool.md)
+
+[14.4.2.2. 동작 변경키(Key modifiers)](./14-04-02-02-key_modifiers.md)
+
+[14.4.2.3. 옵션(Options)](./14-04-02-03-options.md)
+
+[14.4.2.4. "배치"의 실제 예제(A practical example for "Distribute")](./14-04-02-04-a_practical_example_for_distribute.md)
+
+[14.4.2.5. 고무밴드 박스로 정렬하기(Align using the rubber-band box)](./14-04-02-05-align_using_the_rubber_band_box.md)
 
 [14.4.3. 이동 도구(Move)](./14-04-03-move.md) 
 
