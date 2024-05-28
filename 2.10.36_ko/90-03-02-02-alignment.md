@@ -414,6 +414,13 @@
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.2.1.4](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-02-01-04)
 
+<a id="90-03-02-02-a102"></a>
+
+#### 영상 90.3.2.2.a102. 배치 과정 예제 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/20c4784d-d68f-4d4a-bed1-71d86c40b39a"></video>
+
+[14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a102. 배치 과정 예제 (Windows) (우리말)](./14-04-02-03-02-distribute.md#90-03-02-02-a102)
+
 ***
 
 ## 다른 페이지로 가기
