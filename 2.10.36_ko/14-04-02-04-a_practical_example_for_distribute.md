@@ -7,7 +7,7 @@
 
 [➡️ 다음: 14.4.2.5. 고무밴드 박스로 정렬하기(Align using the rubber-band box)](./14-04-02-05-align_using_the_rubber_band_box.md)
 
-[⬅️ 이전: 14.4.2.3. 옵션(Options)](./14-04-02-03-options.md)
+[⬅️ 이전: 14.4.2.3.2. 배치(Distribute)](./14-04-02-03-02-distribute.md)
 
 [⬆️ 위: 14.4.2. 정렬(Align)](./14-04-02-00-align.md)
 
