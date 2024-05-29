@@ -1,4 +1,10 @@
 # 14.4.2.5. 고무밴드 박스로 정렬하기(Align using the rubber-band box)
+클릭, 드래그하여 소스 레이어를 여러개 선택할 수 있습니다. 선택한 소스 레이어들을 정렬 또는 배치할 수 있습니다.
+
+<a id="90-03-02-02-a103"></a>
+
+#### [영상 90.3.2.2.a103. 고무밴드 박스로 정렬하기 (Windows) (우리말)](./90-03-02-02-alignment.md#90-03-02-02-a103)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a90a2086-9f95-4009-ae6a-4ab488be0169"></video>
 
 ***
 
