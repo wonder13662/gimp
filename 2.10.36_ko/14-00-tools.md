@@ -390,15 +390,15 @@
 
 [14.4.3.1. 도구 활성화하기(Activating the tools)](./14-04-03-01-activating_the_tool.md)
 
-[14.4.3.2. 옵션(Options)](./14-04-03-02-00-options.md)
+[14.4.3.2. 동작 변경키(Key modifiers)](./14-04-03-02-key_modifiers.md)
 
-[14.4.3.2.1. 레이어 옮기기](./14-04-03-02-01-move_layer.md)
+[14.4.3.3. 옵션(Options)](./14-04-03-03-00-options.md)
 
-[14.4.3.2.2. 선택 옮기기](./14-04-03-02-02-move_selection.md)
+[14.4.3.3.1. 레이어 옮기기](./14-04-03-03-01-move_layer.md)
 
-[14.4.3.2.3. 경로 옮기기](./14-04-03-02-03-move_path.md)
+[14.4.3.3.2. 선택 옮기기](./14-04-03-03-02-move_selection.md)
 
-[14.4.3.3. 이동 도구 동작 요약(Summary of Move tool actions)](./14-04-03-03-summary_of_move_tool_actions.md)
+[14.4.3.3.3. 경로 옮기기](./14-04-03-03-03-move_path.md)
 
 [14.4.4. 잘라내기 도구(Crop)](./14-04-04-crop.md)
 

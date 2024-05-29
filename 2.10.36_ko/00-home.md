@@ -1327,15 +1327,15 @@
 
 [14.4.3.1. 도구 활성화하기(Activating the tools)](./14-04-03-01-activating_the_tool.md)
 
-[14.4.3.2. 옵션(Options)](./14-04-03-02-00-options.md)
+[14.4.3.2. 동작 변경키(Key modifiers)](./14-04-03-02-key_modifiers.md)
 
-[14.4.3.2.1. 레이어 옮기기](./14-04-03-02-01-move_layer.md)
+[14.4.3.3. 옵션(Options)](./14-04-03-03-00-options.md)
 
-[14.4.3.2.2. 선택 옮기기](./14-04-03-02-02-move_selection.md)
+[14.4.3.3.1. 레이어 옮기기](./14-04-03-03-01-move_layer.md)
 
-[14.4.3.2.3. 경로 옮기기](./14-04-03-02-03-move_path.md)
+[14.4.3.3.2. 선택 옮기기](./14-04-03-03-02-move_selection.md)
 
-[14.4.3.3. 이동 도구 동작 요약(Summary of Move tool actions)](./14-04-03-03-summary_of_move_tool_actions.md)
+[14.4.3.3.3. 경로 옮기기](./14-04-03-03-03-move_path.md)
 
 [14.4.4. 잘라내기 도구(Crop)](./14-04-04-crop.md)
 
@@ -3167,6 +3167,20 @@
 [90.10.23.1. 키보드 단축키](./90-10-23-01-00-keyboard_shortcut.md)
 
 [90.10.23.1.1. 키보드 단축키 `M`](./90-10-23-01-01-m.md)
+
+[90.10.23.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-23-02-00-key_modifier-ctrl.md)
+
+[90.10.23.2.1. `도구 옵션` → `이동` → `이동` → `경로`로 변경](./90-10-23-02-01-switch_to_move_path.md)
+
+[90.10.23.3. Alt(⌥):동작 변경키(Key modifiers)](./90-10-23-03-00-key_modifier-alt.md)
+
+[90.10.23.3.1. `도구 옵션` → `이동` → `이동` → `선택`으로 변경](./90-10-23-03-01-switch_to_move_selection.md)
+
+[90.10.23.4. Shift(⇧):동작 변경키(Key modifiers)](./90-10-23-04-00-key_modifier-shift.md)
+
+[90.10.23.4.1. 도구 바꾸기](./90-10-23-04-01-toggle_tool.md)
+
+[90.10.23.4.2. 25픽셀씩 이동](./90-10-23-04-02-move_by_25pixels.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
