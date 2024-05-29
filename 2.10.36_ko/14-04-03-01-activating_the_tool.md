@@ -65,7 +65,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.4.3.3. 옵션(Options)](./14-04-03-03-summary_of_move_tool_actions.md)
+[➡️ 다음: 14.4.3.2. 동작 변경키(Key modifiers)](./14-04-03-02-key_modifiers.md)
 
 [⬅️ 이전: 14.4.3. 이동(Move)](./14-04-03-00-move.md)
 
