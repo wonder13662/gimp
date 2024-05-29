@@ -421,14 +421,14 @@
 #### 영상 90.3.2.2.a102. 배치 과정 예제 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/20c4784d-d68f-4d4a-bed1-71d86c40b39a"></video>
 
-[14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a102. 배치 과정 예제 (Windows) (우리말)](./14-04-02-03-02-distribute.md#90-03-02-02-a102)
+[14.4.2.4. "배치"의 실제 예제(A practical example for "Distribute") - 영상 90.3.2.2.a102](./14-04-02-04-a_practical_example_for_distribute.md#90-03-02-02-a102)
 
 <a id="90-03-02-02-a103"></a>
 
 #### 영상 90.3.2.2.a103. 고무밴드 박스로 정렬하기 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a90a2086-9f95-4009-ae6a-4ab488be0169"></video>
 
-[14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a103](./14-04-02-03-02-distribute.md#90-03-02-02-a103)
+[14.4.2.5. 고무밴드 박스로 정렬하기(Align using the rubber-band box) - 영상 90.3.2.2.a103](./14-04-02-05-align_using_the_rubber_band_box.md#90-03-02-02-a103)
 
 ***
 
