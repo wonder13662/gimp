@@ -386,7 +386,13 @@
 
 [14.4.2.5. 고무밴드 박스로 정렬하기(Align using the rubber-band box)](./14-04-02-05-align_using_the_rubber_band_box.md)
 
-[14.4.3. 이동 도구(Move)](./14-04-03-move.md)
+[14.4.3. 이동(Move)](./14-04-03-00-move.md)
+
+[14.4.3.1. 도구 활성화하기(Activating the tools)](./14-04-03-01-activating_the_tool.md)
+
+[14.4.3.2. 옵션(Options)](./14-04-03-02-options.md)
+
+[14.4.3.3. 이동 도구 동작 요약(Summary of Move tool actions)](./14-04-03-03-summary_of_move_tool_actions.md)
 
 [14.4.4. 잘라내기 도구(Crop)](./14-04-04-crop.md)
 

@@ -10,13 +10,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.4.3. 이동 도구(Move)](./14-04-03-move.md)
+[➡️ 다음: 14.4.3. 이동(Move)](./14-04-03-00-move.md)
 
 [⬅️ 이전: 14.4.2.4. "배치"의 실제 예제(A practical example for "Distribute")](./14-04-02-04-a_practical_example_for_distribute.md)
 
 [⬆️ 위: 14.4.2. 정렬(Align)](./14-04-02-00-align.md)
-
-[⬆️ 위: 14.4.1. 일반적인 특징(Common features)](./14-04-01-00-common-features.md)
 
 [⬆️ 위: 14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)
 

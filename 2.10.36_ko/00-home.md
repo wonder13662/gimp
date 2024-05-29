@@ -1323,7 +1323,13 @@
 
 [14.4.2.5. 고무밴드 박스로 정렬하기(Align using the rubber-band box)](./14-04-02-05-align_using_the_rubber_band_box.md)
 
-[14.4.3. 이동 도구(Move)](./14-04-03-move.md)
+[14.4.3. 이동(Move)](./14-04-03-00-move.md)
+
+[14.4.3.1. 도구 활성화하기(Activating the tools)](./14-04-03-01-activating_the_tool.md)
+
+[14.4.3.2. 옵션(Options)](./14-04-03-02-options.md)
+
+[14.4.3.3. 이동 도구 동작 요약(Summary of Move tool actions)](./14-04-03-03-summary_of_move_tool_actions.md)
 
 [14.4.4. 잘라내기 도구(Crop)](./14-04-04-crop.md)
 
@@ -3139,6 +3145,22 @@
 [90.10.21.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-21-03-00-key_modifier-shift.md)
 
 [90.10.21.3.1. 직선 모드(Straight line mode)로 바꾸기](./90-10-21-03-01-switch_to_straight_line_mode.md)
+
+[90.10.22. `정렬` 도구](./90-10-22-00-align.md)
+
+[90.10.22.1. 키보드 단축키](./90-10-22-01-00-keyboard_shortcut.md)
+
+[90.10.22.1.1. 키보드 단축키 `Q`](./90-10-22-01-01-q.md)
+
+[90.10.22.2. Shift(⇧):동작 변경키(Key modifiers)](./90-10-22-02-00-key_modifier-shift.md)
+
+[90.10.22.2.1. 여러 개의 레이어 선택하기](./90-10-22-02-01-select_multiple_layers.md)
+
+[90.10.23. `이동` 도구](./90-10-23-00-move.md)
+
+[90.10.23.1. 키보드 단축키](./90-10-23-01-00-keyboard_shortcut.md)
+
+[90.10.23.1.1. 키보드 단축키 `M`](./90-10-23-01-01-m.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
