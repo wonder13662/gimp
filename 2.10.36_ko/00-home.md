@@ -1337,7 +1337,35 @@
 
 [14.4.3.3.3. 경로 옮기기](./14-04-03-03-03-move_path.md)
 
-[14.4.4. 잘라내기 도구(Crop)](./14-04-04-crop.md)
+[14.4.4. 잘라내기(Crop)](./14-04-04-00-crop.md)
+
+[14.4.4.1. 도구 활성화하기(Activating the tools)](./14-04-04-01-activating_the_tool.md)
+
+[14.4.4.2. 동작 변경키(Key modifiers)](./14-04-04-02-key_modifiers.md)
+
+[14.4.4.3. 옵션(Options)](./14-04-04-03-00-options.md)
+
+[14.4.4.3.1. 현재 레이어만(Current layer only)](./14-04-04-03-01-current_layer_only.md)
+
+[14.4.4.3.2. 잘라낸 픽셀 지우기(Delete cropped pixels)](./14-04-04-03-02-delete_cropped_pixels.md)
+
+[14.4.4.3.3. 창 크기 조절을 허용(Allow growing)](./14-04-04-03-03-allow_growing.md)
+
+[14.4.4.3.4. 중앙으로부터 확장(Expand from center)](./14-04-04-03-04-expand_from_center.md)
+
+[14.4.4.3.5. 고정(Fixed)](./14-04-04-03-05-fixed.md)
+
+[14.4.4.3.6. 위치(Position)](./14-04-04-03-06-position.md)
+
+[14.4.4.3.7. 크기(Size)](./14-04-04-03-07-size.md)
+
+[14.4.4.3.8. 강조(Highlight)](./14-04-04-03-08-highlight.md)
+
+[14.4.4.3.9. 안내선(Guides)](./14-04-04-03-09-guides.md)
+
+[14.4.4.3.10. 자동 줄이기(Auto Shrink)](./14-04-04-03-10-autoshrink.md)
+
+[14.4.4.3.11. 합친 이미지를 줄이기(Shrink Merged)](./14-04-04-03-11-shrink_merged.md)
 
 [14.4.5. 회전(Rotate)](./14-04-05-rotate.md)
 
@@ -3181,6 +3209,26 @@
 [90.10.23.4.1. 도구 바꾸기](./90-10-23-04-01-toggle_tool.md)
 
 [90.10.23.4.2. 25픽셀씩 이동](./90-10-23-04-02-move_by_25pixels.md)
+
+[90.10.24. `잘라내기` 도구](./90-10-24-00-crop.md)
+
+[90.10.24.1. 키보드 단축키](./90-10-24-01-00-keyboard_shortcut.md)
+
+[90.10.24.1.1. 키보드 단축키 Shift(⇧) + `C`](./90-10-24-01-01-shift_c.md)
+
+[90.10.24.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-24-02-00-key_modifier-ctrl.md)
+
+[90.10.24.2.1. `도구 옵션` → `잘라내기` → `중앙으로부터 확장`로 변경](./90-10-24-02-01-switch_to_move_path.md)
+
+[90.10.24.3. Alt(⌥):동작 변경키(Key modifiers)](./90-10-24-03-00-key_modifier-alt.md)
+
+[90.10.24.3.1. `도구 옵션` → `잘라내기` → `고정`으로 변경](./90-10-24-03-01-switch_to_move_selection.md)
+
+[90.10.24.4. Shift(⇧):동작 변경키(Key modifiers)](./90-10-24-04-00-key_modifier-shift.md)
+
+[90.10.24.4.1. 도구 바꾸기](./90-10-24-04-01-toggle_tool.md)
+
+[90.10.24.4.2. 25픽셀씩 이동](./90-10-24-04-02-move_by_25pixels.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
