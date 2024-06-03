@@ -432,7 +432,23 @@
 
 [14.4.5. 회전(Rotate)](./14-04-05-00-rotate.md)
 
-[14.4.6. 크기 조절 도구(Scale)](./14-04-06-00-scale.md)
+[14.4.5.1. 도구 활성화하기(Activating the tools)](./14-04-05-01-activating_the_tool.md)
+
+[14.4.5.2. 동작 변경키(Key modifiers)](./14-04-05-02-key_modifiers.md)
+
+[14.4.5.3. 옵션(Options)](./14-04-05-03-options.md)
+
+[14.4.5.4. 회전 조정 대화상자(The Rotation adjustment dialog)](./14-04-05-04-rotation_adjustment_dialog.md)
+
+[14.4.6. 크기 조정(Scale)](./14-04-06-00-scale.md)
+
+[14.4.6.1. 도구 활성화하기(Activating the tools)](./14-04-06-01-activating_the_tool.md)
+
+[14.4.6.2. 동작 변경키(Key modifiers)](./14-04-06-02-key_modifiers.md)
+
+[14.4.6.3. 옵션(Options)](./14-04-06-03-options.md)
+
+[14.4.6.4. 크기 조정 대화상자(The Scale adjustment dialog)](./14-04-06-04-scale_adjustment_dialog.md)
 
 [14.4.7. 기울이기(Shear)](./14-04-07-shear.md)
 

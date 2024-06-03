@@ -1369,7 +1369,23 @@
 
 [14.4.5. 회전(Rotate)](./14-04-05-00-rotate.md)
 
-[14.4.6. 크기 조절 도구(Scale)](./14-04-06-00-scale.md)
+[14.4.5.1. 도구 활성화하기(Activating the tools)](./14-04-05-01-activating_the_tool.md)
+
+[14.4.5.2. 동작 변경키(Key modifiers)](./14-04-05-02-key_modifiers.md)
+
+[14.4.5.3. 옵션(Options)](./14-04-05-03-options.md)
+
+[14.4.5.4. 회전 조정 대화상자(The Rotation adjustment dialog)](./14-04-05-04-rotation_adjustment_dialog.md)
+
+[14.4.6. 크기 조정(Scale)](./14-04-06-00-scale.md)
+
+[14.4.6.1. 도구 활성화하기(Activating the tools)](./14-04-06-01-activating_the_tool.md)
+
+[14.4.6.2. 동작 변경키(Key modifiers)](./14-04-06-02-key_modifiers.md)
+
+[14.4.6.3. 옵션(Options)](./14-04-06-03-options.md)
+
+[14.4.6.4. 크기 조정 대화상자(The Scale adjustment dialog)](./14-04-06-04-scale_adjustment_dialog.md)
 
 [14.4.7. 기울이기(Shear)](./14-04-07-shear.md)
 
@@ -3237,6 +3253,20 @@
 [90.10.25.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-25-02-00-key_modifier-ctrl.md)
 
 [90.10.25.2.1. 회전 각도 제한하기](./90-10-25-02-01-constrain_rotation_angle.md)
+
+[90.10.26. `크기 조정` 도구](./90-10-26-00-scale.md)
+
+[90.10.26.1. 키보드 단축키](./90-10-25-01-00-keyboard_shortcut.md)
+
+[90.10.26.1.1. 키보드 단축키 Shift(⇧) + `S`](./90-10-26-01-01-shift_s.md)
+
+[90.10.26.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-26-02-00-key_modifier-ctrl.md)
+
+[90.10.26.2.1. `도구 옵션` → `크기 조정` → `가운데에서 크기 조정` 켜기/끄기 전환](./90-10-26-02-01-toggle_around_center.md)
+
+[90.10.26.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-26-03-00-key_modifier-shift.md)
+
+[90.10.26.3.1. `도구 옵션` → `크기 조정` → `종횡비 유지` 켜기/끄기](./90-10-26-03-01-toggle_keep_aspect.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
