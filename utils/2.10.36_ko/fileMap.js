@@ -2011,7 +2011,7 @@ module.exports = {
       ],
       [
         '16-07-49-arbitrary-rotation.md', 
-        '16.7.49. Arbitrary rotation'
+        '16.7.49. 임의 각도 회전(Arbitrary rotation)'
       ],
       [
         '16-07-50-offset.md', 

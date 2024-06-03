@@ -1,4 +1,4 @@
-# 16.7.49. Arbitrary rotation
+# 16.7.49. 임의 각도 회전(Arbitrary rotation)
 
 ### [Home](./00-home.md)
 ### [Parent: 16.7. The "Layer" menu](./16-07-00-the-layer-menu.md)

@@ -48,7 +48,7 @@
 ## [16.7.46. Rotate 90° clockwise](./16-07-46-rotate-90-clockwise.md)
 ## [16.7.47. Rotate 90° counter-clockwise](./16-07-47-rotate-90-counter-clockwise.md)
 ## [16.7.48. Rotate 180°](./16-07-48-rotate-180.md)
-## [16.7.49. Arbitrary rotation](./16-07-49-arbitrary-rotation.md)
+## [16.7.49. 임의 각도 회전(Arbitrary rotation)](./16-07-49-arbitrary-rotation.md)
 ## [16.7.50. Offset](./16-07-50-offset.md)
 ## [16.7.51. Layer boundary size](./16-07-51-layer-boundary-size.md)
 ## [16.7.52. Layer to image size](./16-07-52-layer-to-image-size.md)
