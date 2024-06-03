@@ -524,6 +524,10 @@
 #### 그림 90.4.110.a101. `페인트 동적 요소 편집기` 대화상자 (Windows) (우리말)
 ![90-04-110-a101](https://github.com/wonder13662/gimp/assets/15767104/32cefec8-31ee-4077-85a1-9421ecb0f7fe)
 
+### [90.4.111. 회전 조정(Rotation Adjustment)](./90-04-111-rotation_adjustment.md)
+#### 그림 90.4.111.a101. `회전 조정` 대화상자 (Windows) (우리말)
+![90-04-111-a101](https://github.com/wonder13662/gimp/assets/15767104/4565e4f5-9a7e-4633-80da-ba8dba0a7e65)
+
 ***
 
 ## 공통 기능

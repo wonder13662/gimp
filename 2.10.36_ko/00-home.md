@@ -1367,7 +1367,7 @@
 
 [14.4.4.3.11. 합친 이미지를 줄이기(Shrink Merged)](./14-04-04-03-11-shrink_merged.md)
 
-[14.4.5. 회전(Rotate)](./14-04-05-rotate.md)
+[14.4.5. 회전(Rotate)](./14-04-05-00-rotate.md)
 
 [14.4.6. 크기 조절 도구(Scale)](./14-04-06-scale.md)
 
@@ -2776,6 +2776,8 @@
 
 [90.4.110. 페인트 동적 요소 편집기(Paint Dynamic Editor)](./90-04-110-paint_dynamic_editor.md)
 
+[90.4.111. 회전 조정(Rotation Adjustment)](./90-04-111-rotation_adjustment.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
@@ -3225,6 +3227,16 @@
 [90.10.24.3.1. `도구 옵션` → `잘라내기` → `고정` 켜기/끄기](./90-10-24-03-01-switch_to_fixed.md)
 
 [90.10.24.4.2. 25픽셀씩 이동](./90-10-24-03-02-move_by_25pixels.md)
+
+[90.10.25. `회전` 도구](./90-10-25-00-rotate.md)
+
+[90.10.25.1. 키보드 단축키](./90-10-25-01-00-keyboard_shortcut.md)
+
+[90.10.25.1.1. 키보드 단축키 Shift(⇧) + `R`](./90-10-25-01-01-shift_r.md)
+
+[90.10.25.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-25-02-00-key_modifier-ctrl.md)
+
+[90.10.25.2.1. 회전 각도 제한하기](./90-10-25-02-01-constrain_rotation_angle.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

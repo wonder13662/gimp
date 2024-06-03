@@ -430,7 +430,7 @@
 
 [14.4.4.3.11. 합친 이미지를 줄이기(Shrink Merged)](./14-04-04-03-11-shrink_merged.md)
 
-[14.4.5. 회전(Rotate)](./14-04-05-rotate.md)
+[14.4.5. 회전(Rotate)](./14-04-05-00-rotate.md)
 
 [14.4.6. 크기 조절 도구(Scale)](./14-04-06-scale.md)
 

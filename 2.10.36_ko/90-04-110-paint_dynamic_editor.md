@@ -73,7 +73,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.111. 회전 조정(Rotation Adjustment)](./90-04-111-rotation_adjustment.md)
 
 [⬅️ 이전: 90.4.109. 전경 선택(Foreground Select)](./90-04-109-foreground_select.md)
 
