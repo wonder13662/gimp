@@ -34,7 +34,7 @@
 
 <a id="90-10-25-01-01-a1"></a>
 
-#### [영상 90.10.25.1.1.a1. 변형 도구 `회전` - 키보드 단축키 Shift(⇧) + `R`](./90-10-25-00-rotate.md#90-10-25-01-01-a1)
+#### [영상 90.10.25.1.1.a1. 변형 도구 `회전` - 키보드 단축키 Shift(⇧) + `R`](./90-10-25-01-01-shift_r.md#90-10-25-01-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f434bf65-ba59-4d20-ba8d-e1df71f7fdbc"></video>
 
 ***
