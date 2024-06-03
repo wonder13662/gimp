@@ -74,6 +74,8 @@
 #### 영상 90.4.111.a114.1. `회전 조정` 대화상자 → `재조정` 버튼 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0ec044ab-2488-40ac-a010-efb8781aef93"></video>
 
+[14.4.5.4. 회전 조정 대화상자(The Rotation adjustment dialog) - 영상 90.4.111.a114.1](./14-04-05-04-rotation_adjustment_dialog.md#90-04-111-a114-01)
+
 ***
 
 ## 다른 페이지로 가기
