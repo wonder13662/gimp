@@ -53,6 +53,8 @@
 #### 영상 90.4.111.a112.2. `회전 조정` 대화상자 → `회전 중심점`: 중심점 선택하기 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/26b6befe-c30e-4cb1-a2b3-511712fbcf67"></video>
 
+[14.4.5.4. 회전 조정 대화상자(The Rotation adjustment dialog) - 영상 90.4.111.a112.2](./14-04-05-04-rotation_adjustment_dialog.md#90-04-111-a112-02)
+
 <a id="90-04-111-a112-03"></a>
 
 #### 영상 90.4.111.a112.3. `회전 조정` 대화상자 → `회전 중심점`: 중심점 클릭, 드래그하기 (Windows) (우리말)
