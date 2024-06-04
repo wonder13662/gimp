@@ -2794,6 +2794,8 @@
 
 [90.4.111. 회전 조정(Rotation Adjustment)](./90-04-111-rotation_adjustment.md)
 
+[90.4.112. 크기 조정(Scale Adjustment)](./90-04-112-scale_adjustment.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

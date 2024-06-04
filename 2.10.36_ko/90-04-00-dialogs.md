@@ -528,6 +528,10 @@
 #### 그림 90.4.111.a101. `회전 조정` 대화상자 (Windows) (우리말)
 ![90-04-111-a101](https://github.com/wonder13662/gimp/assets/15767104/4565e4f5-9a7e-4633-80da-ba8dba0a7e65)
 
+### [90.4.112. 크기 조정(Scale Adjustment)](./90-04-112-scale_adjustment.md)
+#### 그림 90.4.112.a101. `크기 조정` 대화상자 (Windows) (우리말)
+![90-04-112-a101](https://github.com/wonder13662/gimp/assets/15767104/4e7b58f0-e858-414a-be2b-ffd031635591)
+
 ***
 
 ## 공통 기능

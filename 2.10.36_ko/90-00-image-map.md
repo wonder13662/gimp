@@ -1416,6 +1416,8 @@
 
 [90.4.111. 회전 조정(Rotation Adjustment)](./90-04-111-rotation_adjustment.md)
 
+[90.4.112. 크기 조정(Scale Adjustment)](./90-04-112-scale_adjustment.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
