@@ -1389,6 +1389,12 @@
 
 [14.4.7. 기울이기(Shear)](./14-04-07-00-shear.md)
 
+[14.4.7.1. 도구 활성화하기(Activating the tools)](./14-04-07-01-activating_the_tool.md)
+
+[14.4.7.2. 옵션(Options)](./14-04-07-02-options.md)
+
+[14.4.7.3. 기울이기 대화상자(The Shear adjustment dialog)](./14-04-07-03-shear_adjustment_dialog.md)
+
 [14.4.8. 원근법(Perspective)](./14-04-08-perspective.md)
 
 [14.4.9. 3차원 변형(3d transform)](./14-04-09-3d-transform.md)

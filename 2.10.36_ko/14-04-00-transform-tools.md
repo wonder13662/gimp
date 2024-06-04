@@ -102,7 +102,13 @@
 
 [14.4.6.4. 크기 조정 대화상자(The Scale adjustment dialog)](./14-04-06-04-scale_adjustment_dialog.md)
 
-[14.4.7. 기울이기(Shear)](./14-04-07-00-shear.md) 
+[14.4.7. 기울이기(Shear)](./14-04-07-00-shear.md)
+
+[14.4.7.1. 도구 활성화하기(Activating the tools)](./14-04-07-01-activating_the_tool.md)
+
+[14.4.7.2. 옵션(Options)](./14-04-07-02-options.md)
+
+[14.4.7.3. 기울이기 대화상자(The Shear adjustment dialog)](./14-04-07-03-shear_adjustment_dialog.md)
 
 [14.4.8. 원근법(Perspective)](./14-04-08-perspective.md) 
 

@@ -1,4 +1,4 @@
-# 14.4.7.4. 기울이기 대화상자(The Shear adjustment dialog)
+# 14.4.7.3. 기울이기 대화상자(The Shear adjustment dialog)
 
 (TODO 대화상자 이미지 추가)
 
