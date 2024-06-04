@@ -80,7 +80,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.112. 크기 조정(Scale Adjustment)](./90-04-112-scale_adjustment.md)
 
 [⬅️ 이전: 90.4.110. 페인트 동적 요소 편집기(Paint Dynamic Editor)](./90-04-111-paint_dynamic_editor.md)
 

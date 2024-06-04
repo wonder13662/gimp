@@ -3,6 +3,9 @@
 <a id="90-10-26-02-01-a1"></a>
 
 #### 영상 90.10.26.2.1.a1. `도구 옵션` → `크기 조정` → `가운데에서 크기 조정` 켜기/끄기 전환 - Ctrl(⌘)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/81b0a98a-a187-478c-8737-dcdc9064de3c"></video>
+
+[14.4.6.2. 동작 변경키(Key modifiers) - 영상 90.10.26.2.1.a1](./14-04-06-02-key_modifiers.md#90-10-26-02-01-a1)
 
 ***
 
