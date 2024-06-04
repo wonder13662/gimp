@@ -1387,7 +1387,7 @@
 
 [14.4.6.4. 크기 조정 대화상자(The Scale adjustment dialog)](./14-04-06-04-scale_adjustment_dialog.md)
 
-[14.4.7. 기울이기(Shear)](./14-04-07-shear.md)
+[14.4.7. 기울이기(Shear)](./14-04-07-00-shear.md)
 
 [14.4.8. 원근법(Perspective)](./14-04-08-perspective.md)
 
@@ -2796,6 +2796,8 @@
 
 [90.4.112. 크기 조정(Scale Adjustment)](./90-04-112-scale_adjustment.md)
 
+[90.4.113. 기울이기(Shear Adjustment)](./90-04-113-shear_adjustment.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
@@ -3269,6 +3271,12 @@
 [90.10.26.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-26-03-00-key_modifier-shift.md)
 
 [90.10.26.3.1. `도구 옵션` → `크기 조정` → `종횡비 유지` 켜기/끄기](./90-10-26-03-01-toggle_keep_aspect.md)
+
+[90.10.27. `기울이기` 도구](./90-10-27-00-shear.md)
+
+[90.10.27.1. 키보드 단축키](./90-10-27-01-00-keyboard_shortcut.md)
+
+[90.10.27.1.1. 키보드 단축키 Shift(⇧) + `H`](./90-10-27-01-01-shift_h.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

@@ -1,6 +1,6 @@
 # 14.4.6.1. 도구 활성화하기(Activating the tools)
 
-<a id="14-04-04-01-s1"></a>
+<a id="14-04-06-01-s1"></a>
 
 ## 1. `이미지 메뉴 바` → `도구` → `변형 도구` → `크기 조정`
 
@@ -16,7 +16,7 @@
 #### [영상 90.1.8.3.5.a101.1. `이미지 메뉴 바` → `도구` → `변형 도구` → `크기 조정` (Windows) (우리말)](./90-01-08-03-05-scale.md#90-01-08-03-05-a101-01)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9c7f8897-fdae-4ca1-865c-15d2681183e9"></video>
 
-<a id="14-04-04-01-s2"></a>
+<a id="14-04-06-01-s2"></a>
 
 ## 2. 도구 상자에서 `크기 조정` 클릭
 
@@ -30,7 +30,7 @@
 #### [영상 90.3.2.13.a2.1. `도구상자` → `크기 조정` (Windows) (우리말)](./90-03-02-13-scale.md#90-03-02-13-a2-01)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e0f4953d-44f5-4a3d-b240-cf1dc6b97beb"></video>
 
-<a id="14-04-04-01-s3"></a>
+<a id="14-04-06-01-s3"></a>
 
 ## 3. 키보드 단축키 Shift(⇧) + `S`
 

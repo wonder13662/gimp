@@ -1418,6 +1418,8 @@
 
 [90.4.112. 크기 조정(Scale Adjustment)](./90-04-112-scale_adjustment.md)
 
+[90.4.113. 기울이기(Shear Adjustment)](./90-04-113-shear_adjustment.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
@@ -1897,6 +1899,12 @@
 [90.10.26.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-26-03-00-key_modifier-shift.md)
 
 [90.10.26.3.1. `도구 옵션` → `크기 조정` → `종횡비 유지` 켜기/끄기](./90-10-26-03-01-toggle_keep_aspect.md)
+
+[90.10.27. `기울이기` 도구](./90-10-27-00-shear.md)
+
+[90.10.27.1. 키보드 단축키](./90-10-27-01-00-keyboard_shortcut.md)
+
+[90.10.27.1.1. 키보드 단축키 Shift(⇧) + `H`](./90-10-27-01-01-shift_h.md)
 
 <a id="90-00-s6"></a>
 
