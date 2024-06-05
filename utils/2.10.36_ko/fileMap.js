@@ -1034,7 +1034,7 @@ module.exports = {
         '14.4.7. 기울이기',
       ],
       [
-        '14-04-08-perspective.md',
+        '14-04-08-00-perspective.md',
         '14.4.8. 원근법(Perspective)',
         '14.4.8. 원근',
       ],

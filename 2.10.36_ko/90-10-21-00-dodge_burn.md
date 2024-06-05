@@ -20,8 +20,6 @@
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.21. `닷지/번` 도구](./90-10-21-00-dodge_burn.md)
-
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)

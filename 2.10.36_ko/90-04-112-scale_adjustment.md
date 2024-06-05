@@ -71,7 +71,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.113. 기울이기 조정(Shear Adjustment)](./90-04-113-shear_adjustment.md)
 
 [⬅️ 이전: 90.4.111. 회전 조정(Rotation Adjustment)](./90-04-112-rotation_adjustment.md)
 

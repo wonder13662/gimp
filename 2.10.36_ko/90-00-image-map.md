@@ -1418,7 +1418,9 @@
 
 [90.4.112. 크기 조정(Scale Adjustment)](./90-04-112-scale_adjustment.md)
 
-[90.4.113. 기울이기(Shear Adjustment)](./90-04-113-shear_adjustment.md)
+[90.4.113. 기울이기 조정(Shear Adjustment)](./90-04-113-shear_adjustment.md)
+
+[90.4.114. 원근법 조정(Shear Adjustment)](./90-04-114-perspective_adjustment.md)
 
 <a id="90-00-s5"></a>
 
@@ -1905,6 +1907,12 @@
 [90.10.27.1. 키보드 단축키](./90-10-27-01-00-keyboard_shortcut.md)
 
 [90.10.27.1.1. 키보드 단축키 Shift(⇧) + `H`](./90-10-27-01-01-shift_h.md)
+
+[90.10.28. `원근법` 도구](./90-10-28-00-perspective.md)
+
+[90.10.28.1. 키보드 단축키](./90-10-28-01-00-keyboard_shortcut.md)
+
+[90.10.28.1.1. 키보드 단축키 Shift(⇧) + `P`](./90-10-28-01-01-shift_p.md)
 
 <a id="90-00-s6"></a>
 

@@ -1,4 +1,4 @@
-# 90.4.113. 기울이기(Shear Adjustment)
+# 90.4.113. 기울이기 조정(Shear Adjustment)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 
 <a id="90-04-113-a101"></a>
@@ -41,9 +41,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.114. 원근법 조정(Shear Adjustment)](./90-04-114-perspective_adjustment.md)
 
-[⬅️ 이전: 90.4.111. 회전 조정(Rotation Adjustment)](./90-04-113-rotation_adjustment.md)
+[⬅️ 이전: 90.4.112. 크기 조정(Scale Adjustment)](./90-04-112-scale_adjustment.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

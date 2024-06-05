@@ -27,7 +27,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.4.8. 원근법(Perspective)](./14-04-08-perspective.md)
+[➡️ 다음: 14.4.8. 원근법(Perspective)](./14-04-08-00-perspective.md)
 
 [⬅️ 이전: 14.4.7.2. 옵션(Options)](./14-04-07-02-options.md)
 

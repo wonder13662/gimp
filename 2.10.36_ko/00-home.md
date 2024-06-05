@@ -1395,7 +1395,13 @@
 
 [14.4.7.3. 기울이기 대화상자(The Shear adjustment dialog)](./14-04-07-03-shear_adjustment_dialog.md)
 
-[14.4.8. 원근법(Perspective)](./14-04-08-perspective.md)
+[14.4.8. 원근법(Perspective)](./14-04-08-00-perspective.md)
+
+[14.4.8.1. 도구 활성화하기(Activating the tools)](./14-04-08-01-activating_the_tool.md)
+
+[14.4.8.2. 옵션(Options)](./14-04-08-02-options.md)
+
+[14.4.8.3. 원근법 조정 대화상자(The Perspective adjustment dialog)](./14-04-08-03-perspective_adjustment_dialog.md)
 
 [14.4.9. 3차원 변형(3d transform)](./14-04-09-3d-transform.md)
 
@@ -2802,7 +2808,9 @@
 
 [90.4.112. 크기 조정(Scale Adjustment)](./90-04-112-scale_adjustment.md)
 
-[90.4.113. 기울이기(Shear Adjustment)](./90-04-113-shear_adjustment.md)
+[90.4.113. 기울이기 조정(Shear Adjustment)](./90-04-113-shear_adjustment.md)
+
+[90.4.114. 원근법 조정(Shear Adjustment)](./90-04-114-perspective_adjustment.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
@@ -3283,6 +3291,12 @@
 [90.10.27.1. 키보드 단축키](./90-10-27-01-00-keyboard_shortcut.md)
 
 [90.10.27.1.1. 키보드 단축키 Shift(⇧) + `H`](./90-10-27-01-01-shift_h.md)
+
+[90.10.28. `원근법` 도구](./90-10-28-00-perspective.md)
+
+[90.10.28.1. 키보드 단축키](./90-10-28-01-00-keyboard_shortcut.md)
+
+[90.10.28.1.1. 키보드 단축키 Shift(⇧) + `P`](./90-10-28-01-01-shift_p.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
