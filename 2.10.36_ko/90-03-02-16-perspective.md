@@ -12,6 +12,13 @@
 
 [14.4.8. 원근법(Perspective) - 그림 90.3.2.16.a2](./14-04-08-00-perspective.md#90-03-02-16-a2)
 
+<a id="90-03-02-16-a2-01"></a>
+
+#### 그림 90.3.2.16.a2.1. `도구상자` → `원근법` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b14dd8f1-ae94-488e-a497-821ea2a94c94"></video>
+
+[14.4.8.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.16.a2.1](./14-04-08-01-activating_the_tool.md#90-03-02-16-a2-01)
+
 <a id="90-03-02-16-a11-01"></a>
 
 #### 영상 90.3.2.16.a11.1. `원근법`: 레이어 (Windows) (우리말)
