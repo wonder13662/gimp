@@ -536,7 +536,7 @@
 #### 그림 90.4.113.a101. `기울이기` 대화상자 (Windows) (우리말)
 ![90-04-113-a101](https://github.com/wonder13662/gimp/assets/15767104/0c6238bc-1dbe-460f-915f-fbf0cb6e35b9)
 
-### [90.4.114. 원근법 조정(Shear Adjustment)](./90-04-114-perspective_adjustment.md)
+### [90.4.114. 원근법 조정(Perspective Adjustment)](./90-04-114-perspective_adjustment.md)
 
 ***
 

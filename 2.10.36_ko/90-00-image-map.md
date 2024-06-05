@@ -1420,7 +1420,7 @@
 
 [90.4.113. 기울이기 조정(Shear Adjustment)](./90-04-113-shear_adjustment.md)
 
-[90.4.114. 원근법 조정(Shear Adjustment)](./90-04-114-perspective_adjustment.md)
+[90.4.114. 원근법 조정(Perspective Adjustment)](./90-04-114-perspective_adjustment.md)
 
 <a id="90-00-s5"></a>
 

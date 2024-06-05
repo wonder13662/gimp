@@ -41,7 +41,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.114. 원근법 조정(Shear Adjustment)](./90-04-114-perspective_adjustment.md)
+[➡️ 다음: 90.4.114. 원근법 조정(Perspective Adjustment)](./90-04-114-perspective_adjustment.md)
 
 [⬅️ 이전: 90.4.112. 크기 조정(Scale Adjustment)](./90-04-112-scale_adjustment.md)
 
