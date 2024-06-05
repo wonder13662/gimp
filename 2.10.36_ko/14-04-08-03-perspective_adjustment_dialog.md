@@ -5,6 +5,8 @@
 #### [그림 90.4.114.a101. `원근법 조정` 대화상자 (Windows) (우리말)](./90-04-114-perspective_adjustment.md#90-04-114-a101)
 ![90-04-114-a101](https://github.com/wonder13662/gimp/assets/15767104/9c62052c-4038-498f-9da3-46ba9bddc40b)
 
+[다른 운영체제와 언어의 `원근법 조정` 대화상자 확인하기](./90-04-114-perspective_adjustment.md#90-04-114-a102)
+
 ## 1. 행렬(Matrix)
 
 <a id="90-04-114-a101-01"></a>
