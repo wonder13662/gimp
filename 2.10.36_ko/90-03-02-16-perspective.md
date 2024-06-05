@@ -89,6 +89,16 @@
 
 [14.4.8. 원근법(Perspective) - 그림 90.3.2.16.a13.5](./14-04-08-00-perspective.md#90-03-02-16-a13-05)
 
+<a id="90-03-02-16-a101-01"></a>
+
+#### 영상 90.3.2.16.a101.1. `도구 옵션` → `핸들 고정` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b3352dd5-383e-4bc7-b324-1fa1304ca2c8"></video>
+
+<a id="90-03-02-16-a101-02"></a>
+
+#### 영상 90.3.2.16.a101.2. `도구 옵션` → `가운데에서 원근 조정` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bc7bd367-ec02-4d10-aed7-b3e1362158b0"></video>
+
 ***
 
 ## 다른 페이지로 가기
