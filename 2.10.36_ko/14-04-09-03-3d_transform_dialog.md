@@ -1,4 +1,4 @@
-# 14.4.8.3. 3차원 변형 대화상자(3D Transform dialog)
+# 14.4.9.3. 3차원 변형 대화상자(3D Transform dialog)
 
 (TODO 대화상자 이미지 추가 필요)
 
