@@ -1039,7 +1039,7 @@ module.exports = {
         '14.4.8. 원근',
       ],
       [
-        '14-04-09-3d-transform.md', 
+        '14-04-09-00-3d-transform.md', 
         '14.4.9. 3차원 변형(3d transform)'
       ],
       [

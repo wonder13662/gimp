@@ -466,7 +466,7 @@
 
 [14.4.8.3. 원근법 조정 대화상자(The Perspective adjustment dialog)](./14-04-08-03-perspective_adjustment_dialog.md)
 
-[14.4.9. 3차원 변형(3d transform)](./14-04-09-3d-transform.md)
+[14.4.9. 3차원 변형(3d transform)](./14-04-09-00-3d-transform.md)
 
 [14.4.10. 통합 변형(Unified transform)](./14-04-10-unified-transform.md)
 

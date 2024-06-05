@@ -537,6 +537,10 @@
 ![90-04-113-a101](https://github.com/wonder13662/gimp/assets/15767104/0c6238bc-1dbe-460f-915f-fbf0cb6e35b9)
 
 ### [90.4.114. 원근법 조정(Perspective Adjustment)](./90-04-114-perspective_adjustment.md)
+#### 그림 90.4.114.a101. `원근법 조정` 대화상자 (Windows) (우리말)
+![90-04-114-a101](https://github.com/wonder13662/gimp/assets/15767104/9c62052c-4038-498f-9da3-46ba9bddc40b)
+
+### [90.4.115. 원근법 조정(Perspective Adjustment)](./90-04-115-3d_transform.md)
 
 ***
 

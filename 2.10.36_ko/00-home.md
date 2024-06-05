@@ -1403,7 +1403,7 @@
 
 [14.4.8.3. 원근법 조정 대화상자(The Perspective adjustment dialog)](./14-04-08-03-perspective_adjustment_dialog.md)
 
-[14.4.9. 3차원 변형(3d transform)](./14-04-09-3d-transform.md)
+[14.4.9. 3차원 변형(3d transform)](./14-04-09-00-3d-transform.md)
 
 [14.4.10. 통합 변형(Unified transform)](./14-04-10-unified-transform.md)
 
@@ -2812,6 +2812,8 @@
 
 [90.4.114. 원근법 조정(Perspective Adjustment)](./90-04-114-perspective_adjustment.md)
 
+[90.4.115. 원근법 조정(Perspective Adjustment)](./90-04-115-3d_transform.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
@@ -3297,6 +3299,24 @@
 [90.10.28.1. 키보드 단축키](./90-10-28-01-00-keyboard_shortcut.md)
 
 [90.10.28.1.1. 키보드 단축키 Shift(⇧) + `P`](./90-10-28-01-01-shift_p.md)
+
+[90.10.29. `3차원 변형` 도구](./90-10-29-00-3d_transform.md)
+
+[90.10.29.1. 키보드 단축키](./90-10-28-01-00-keyboard_shortcut.md)
+
+[90.10.29.1.1. 키보드 단축키 Shift(⇧) + `W`](./90-10-29-01-01-shift_w.md)
+
+[90.10.29.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-29-02-00-key_modifier-ctrl.md)
+
+[90.10.29.2.1. `도구 옵션` → `3차원 변형` → `Z 축`: Ctrl(⌘)](./90-10-29-02-01-z_axis.md)
+
+[90.10.29.3. Alt(⌥):동작 변경키(Key modifiers)](./90-10-29-03-00-key_modifier-alt.md)
+
+[90.10.29.3.1. `도구 옵션` → `3차원 변형` → `지역 프레임` Alt(⌥)](./90-10-29-03-01-local_frame.md)
+
+[90.10.29.4. Shift(⇧):동작 변경키(Key modifiers)](./90-10-29-04-00-key_modifier-shift.md)
+
+[90.10.29.4.1. `도구 옵션` → `3차원 변형` → `축 고정` Shift(⇧)](./90-10-29-04-01-constrain_axis.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
