@@ -12,6 +12,15 @@
 
 [14.4.9. 3차원 변형(3d transform) - 그림 90.3.2.17.a2](./14-04-09-00-3d-transform.md#90-03-02-17-a2)
 
+[14.4.9.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.17.a2](./14-04-09-01-activating_the_tool.md#90-03-02-17-a2)
+
+<a id="90-03-02-17-a2-01"></a>
+
+#### 영상 90.3.2.17.a2.1. `도구상자` →`3차원 변형` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/84b3fb8a-1394-4406-9e55-7d35ef06e87d"></video>
+
+[14.4.9.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.17.a2.1](./14-04-09-01-activating_the_tool.md#90-03-02-17-a2-01)
+
 ***
 
 ## 다른 페이지로 가기
