@@ -1422,7 +1422,7 @@
 
 [90.4.114. 원근법 조정(Perspective Adjustment)](./90-04-114-perspective_adjustment.md)
 
-[90.4.115. 원근법 조정(Perspective Adjustment)](./90-04-115-3d_transform.md)
+[90.4.115. 3차원 변형(3D Transform)](./90-04-115-3d_transform.md)
 
 <a id="90-00-s5"></a>
 

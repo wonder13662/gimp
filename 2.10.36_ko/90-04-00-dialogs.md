@@ -540,7 +540,7 @@
 #### 그림 90.4.114.a101. `원근법 조정` 대화상자 (Windows) (우리말)
 ![90-04-114-a101](https://github.com/wonder13662/gimp/assets/15767104/9c62052c-4038-498f-9da3-46ba9bddc40b)
 
-### [90.4.115. 원근법 조정(Perspective Adjustment)](./90-04-115-3d_transform.md)
+### [90.4.115. 3차원 변형(3D Transform)](./90-04-115-3d_transform.md)
 
 ***
 
