@@ -3,6 +3,7 @@
 <a id="90-10-29-03-01-a1"></a>
 
 #### 영상 90.10.29.3.1.a1. `도구 옵션` → `3차원 변형` → `축 고정` Shift(⇧)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ed8c8e2d-5ea4-474e-b167-a2d8d769bf69"></video>
 
 ***
 

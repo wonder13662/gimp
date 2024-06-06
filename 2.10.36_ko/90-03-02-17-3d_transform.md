@@ -40,14 +40,28 @@
 <a id="90-03-02-17-a11-02-02"></a>
 
 #### 영상 90.3.2.17.a11.2.2. `도구 옵션` →`축 고정`: 켜기/끄기 - 오프셋 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/12b4b272-c9f6-4ff0-b98a-048615fca236"></video>
+
+[14.4.9.2. 옵션(Options) - 영상 90.3.2.17.a11.2.2](./14-04-09-02-options.md#90-03-02-17-a11-02-02)
 
 <a id="90-03-02-17-a11-02-03"></a>
 
 #### 영상 90.3.2.17.a11.2.3. `도구 옵션` →`축 고정`: 켜기/끄기 - 각도 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5bea926d-9c84-4612-a5de-b381b64d74a1"></video>
 
-<a id="90-03-02-17-a11-03"></a>
+[14.4.9.2. 옵션(Options) - 영상 90.3.2.17.a11.2.3](./14-04-09-02-options.md#90-03-02-17-a11-02-03)
 
-#### 영상 90.3.2.17.a11.3. `도구 옵션` →`Z축` (Windows) (우리말)
+<a id="90-03-02-17-a11-03-01"></a>
+
+#### 영상 90.3.2.17.a11.3.1. `도구 옵션` →`Z축`: 켜기/끄기 - 오프셋 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/25415674-0194-4ec2-a7c9-f2baf298db6a"></video>
+
+[14.4.9.2. 옵션(Options) - 영상 90.3.2.17.a11.3.1](./14-04-09-02-options.md#90-03-02-17-a11-03-01)
+
+<a id="90-03-02-17-a11-03-02"></a>
+
+#### 영상 90.3.2.17.a11.3.2. `도구 옵션` →`Z축`: 켜기/끄기 - 각도 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cf87eb19-b802-4fb8-ab33-d095abe55b75"></video>
 
 <a id="90-03-02-17-a11-04"></a>
 
