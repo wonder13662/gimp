@@ -6,20 +6,49 @@
 #### 그림 90.4.115.a101. `3차원 변형` 대화상자 (Windows) (우리말)
 ![90-04-115-a101](https://github.com/wonder13662/gimp/assets/15767104/25608d74-e72a-46a1-b0b8-97e6febf04e1)
 
+[14.4.9.3. 3차원 변형 대화상자(3D Transform dialog) - 그림 90.4.115.a101](./14-04-09-03-3d_transform_dialog.md#90-04-115-a101)
+
 <a id="90-04-115-a101-01"></a>
 
 #### 그림 90.4.115.a101.1. `3차원 변형` 대화상자 → 소실점 (Windows) (우리말)
 ![90-04-115-a101-vanishing_point](https://github.com/wonder13662/gimp/assets/15767104/74bebe7b-85c5-4baf-a1b8-589733fd68a7)
+
+[14.4.9.3. 3차원 변형 대화상자(3D Transform dialog) - 그림 90.4.115.a101.1](./14-04-09-03-3d_transform_dialog.md#90-04-115-a101-01)
+
+<a id="90-04-115-a101-01-01"></a>
+
+#### 영상 90.4.115.a101.1.1. `3차원 변형` 대화상자 → 소실점 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6265f2de-4c49-45a5-9c77-726af01d2f88"></video>
+
+[14.4.9.3. 3차원 변형 대화상자(3D Transform dialog) - 영상 90.4.115.a101.1.1](./14-04-09-03-3d_transform_dialog.md#90-04-115-a101-01-01)
 
 <a id="90-04-115-a101-02"></a>
 
 #### 그림 90.4.115.a101.2. `3차원 변형` 대화상자 → 오프셋 (Windows) (우리말)
 ![90-04-115-a101-offset](https://github.com/wonder13662/gimp/assets/15767104/61accd49-cc11-4d66-b704-a8274b45c78d)
 
+[14.4.9.3. 3차원 변형 대화상자(3D Transform dialog) - 그림 90.4.115.a101.2](./14-04-09-03-3d_transform_dialog.md#90-04-115-a101-02)
+
+<a id="90-04-115-a101-02-01"></a>
+
+#### 영상 90.4.115.a101.2.1. `3차원 변형` 대화상자 → 오프셋 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c2ce1f89-9cf8-4c1b-8279-d688c39ad1bd"></video>
+
+[14.4.9.3. 3차원 변형 대화상자(3D Transform dialog) - 영상 90.4.115.a101.2.1](./14-04-09-03-3d_transform_dialog.md#90-04-115-a101-02-01)
+
 <a id="90-04-115-a101-03"></a>
 
 #### 그림 90.4.115.a101.3. `3차원 변형` 대화상자 → 각도 (Windows) (우리말)
 ![90-04-115-a101-angle](https://github.com/wonder13662/gimp/assets/15767104/6ffc3a47-8c75-452f-9628-23c3ab2aa257)
+
+[14.4.9.3. 3차원 변형 대화상자(3D Transform dialog) - 그림 90.4.115.a101.3](./14-04-09-03-3d_transform_dialog.md#90-04-115-a101-03)
+
+<a id="90-04-115-a101-03-01"></a>
+
+#### 영상 90.4.115.a101.3.1. `3차원 변형` 대화상자 → 각도 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7e240dea-5eca-404d-b38f-5594fe289746"></video>
+
+[14.4.9.3. 3차원 변형 대화상자(3D Transform dialog) - 영상 90.4.115.a101.3.1](./14-04-09-03-3d_transform_dialog.md#90-04-115-a101-03-01)
 
 <a id="90-04-115-a102"></a>
 
