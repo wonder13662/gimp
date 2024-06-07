@@ -120,12 +120,33 @@
 
 [14.4.10. 통합 변형(Unified transform) - 그림 90.3.2.11.a12.4](./14-04-10-00-unified-transform.md#90-03-02-11-a12-04)
 
+<a id="90-03-02-11-a12-04-01"></a>
+
+#### 영상 90.3.2.11.a12.4.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 원근법 아이콘 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0fb83f3e-50a2-42aa-80d2-968f91e1946c"></video>
+
+[14.4.10. 통합 변형(Unified transform) - 영상 90.3.2.11.a12.4.1](./14-04-10-00-unified-transform.md#90-03-02-11-a12-04-01)
+
 <a id="90-03-02-11-a12-05"></a>
 
 #### 그림 90.3.2.11.a12.5. `통합 변형` 도구의 프레임: 마우스 포인터 - 크기 조정 아이콘
 ![90-03-02-11-a12-05](https://github.com/wonder13662/gimp/assets/15767104/78fd8ebf-4a70-4ba9-b6d1-bfe15f9f4a9e)
 
 [14.4.10. 통합 변형(Unified transform) - 그림 90.3.2.11.a12.5](./14-04-10-00-unified-transform.md#90-03-02-11-a12-05)
+
+<a id="90-03-02-11-a12-05-01"></a>
+
+#### 영상 90.3.2.11.a12.5.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 크기 조정 아이콘 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/67b8a203-93d1-4ce2-a256-4f7f966cffbd"></video>
+
+[14.4.10. 통합 변형(Unified transform) - 영상 90.3.2.11.a12.5.1](./14-04-10-00-unified-transform.md#90-03-02-11-a12-05-01)
+
+<a id="90-03-02-11-a13"></a>
+
+#### 영상 90.3.2.11.a13. `통합 변형` 도구의 프레임: 핸들 선택시 상태 표시 영역에서 핸들 기능 표시 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0c9b6f1b-f3bd-48f3-90e4-908d8fad232c"></video>
+
+[14.4.10. 통합 변형(Unified transform) - 영상 90.3.2.11.a13](./14-04-10-00-unified-transform.md#90-03-02-11-a13)
 
 ***
 

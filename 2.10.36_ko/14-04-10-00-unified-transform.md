@@ -97,8 +97,6 @@
 #### [영상 90.3.2.11.a12.1.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 옮기기 아이콘 (Windows) (우리말)](./90-03-02-11-unified_transform.md#90-03-02-11-a12-01-01)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2384024e-9f2c-4958-aaf9-c09d3a5c2c61"></video>
 
-프레임 중심에서도 옮기기 아이콘이 보인다는데 확인이 필요함
-
 <a id="14-04-10-s3-02"></a>
 
 ### 3-2. 회전 아이콘
@@ -141,7 +139,10 @@
 #### [그림 90.3.2.11.a12.4. `통합 변형` 도구의 프레임: 마우스 포인터 - 원근법 아이콘](./90-03-02-11-unified_transform.md#90-03-02-11-a12-04)
 ![90-03-02-11-a12-04](https://github.com/wonder13662/gimp/assets/15767104/013ac80f-de55-49a8-b745-8c6050e8633d)
 
-(TODO 시연 영상 필요)
+<a id="90-03-02-11-a12-04-01"></a>
+
+#### [영상 90.3.2.11.a12.4.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 원근법 아이콘 (Windows) (우리말)](./90-03-02-11-unified_transform.md#90-03-02-11-a12-04-01)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0fb83f3e-50a2-42aa-80d2-968f91e1946c"></video>
 
 <a id="14-04-10-s3-05"></a>
 
@@ -153,13 +154,18 @@
 #### [그림 90.3.2.11.a12.5. `통합 변형` 도구의 프레임: 마우스 포인터 - 크기 조정 아이콘](./90-03-02-11-unified_transform.md#90-03-02-11-a12-05)
 ![90-03-02-11-a12-05](https://github.com/wonder13662/gimp/assets/15767104/78fd8ebf-4a70-4ba9-b6d1-bfe15f9f4a9e)
 
-<a id="90-03-02-11-a12-01-01"></a>
+<a id="90-03-02-11-a12-05-01"></a>
 
-#### [영상 90.3.2.11.a12.1.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 옮기기 아이콘 (Windows) (우리말)](./90-03-02-11-unified_transform.md#90-03-02-11-a12-01-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2384024e-9f2c-4958-aaf9-c09d3a5c2c61"></video>
+#### [영상 90.3.2.11.a12.5.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 크기 조정 아이콘 (Windows) (우리말)](./90-03-02-11-unified_transform.md#90-03-02-11-a12-05-01)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/67b8a203-93d1-4ce2-a256-4f7f966cffbd"></video>
 
 ## 4. 상태 표시 영역
-이미지 창의 아래쪽의 [상태 표시 영역](./03-02-02-09-status-area.md)에 현재 사용중인 도구의 이름을 보여줍니다.
+이미지 창의 아래쪽의 [상태 표시 영역](./03-02-02-09-status-area.md)에 현재 사용중인 도구의 이름을 보여줍니다. 아래 영상에서 마우스 포인터가 각 핸들 위로 움직일 때, [상태 표시 영역](./03-02-02-09-status-area.md)에 표시되는 메시지를 확인해보세요.
+
+<a id="90-03-02-11-a13"></a>
+
+#### [영상 90.3.2.11.a13. `통합 변형` 도구의 프레임: 핸들 선택시 상태 표시 영역에서 핸들 기능 표시 (Windows) (우리말)](./90-03-02-11-unified_transform.md#90-03-02-11-a13)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0c9b6f1b-f3bd-48f3-90e4-908d8fad232c"></video>
 
 ***
 
