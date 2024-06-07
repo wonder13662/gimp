@@ -43,9 +43,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 14.4.10.2. 동작 변경키(Key modifiers)](./14-04-10-02-key_modifiers.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 14.4.10. 통합 변형(Unified transform)](./14-04-10-00-unified-transform.md)
 
 [⬆️ 위: 14.4.10. 통합 변형(Unified transform)](./14-04-10-00-unified-transform.md)
 
