@@ -468,7 +468,19 @@
 
 [14.4.9. 3차원 변형(3d transform)](./14-04-09-00-3d-transform.md)
 
-[14.4.10. 통합 변형(Unified transform)](./14-04-10-unified-transform.md)
+[14.4.9.1. 도구 활성화하기(Activating the tools)](./14-04-09-01-activating_the_tool.md)
+
+[14.4.9.2. 옵션(Options)](./14-04-09-02-options.md)
+
+[14.4.9.3. 3차원 변형 대화상자(3D Transform dialog)](./14-04-09-03-3d_transform_dialog.md)
+
+[14.4.10. 통합 변형(Unified transform)](./14-04-10-00-unified-transform.md)
+
+[14.4.10.1. 도구 활성화하기(Activating the tools)](./14-04-10-01-activating_the_tool.md)
+
+[14.4.10.2. 동작 변경키(Key modifiers)](./14-04-10-02-key_modifiers.md)
+
+[14.4.10.3. 옵션(Options)](./14-04-10-03-options.md)
 
 [14.4.11. 변형 다루기(Handle transform)](./14-04-11-handle-transform.md)
 

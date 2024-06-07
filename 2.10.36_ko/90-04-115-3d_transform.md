@@ -69,9 +69,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.116. 통합 변형](./90-04-116-unified_transform.md)
 
-[⬅️ 이전: 90.4.113. 기울이기 조정(Shear Adjustment)](./90-04-113-shear_adjustment.md)
+[⬅️ 이전: 90.4.114. 원근법 조정(Perspective Adjustment)](./90-04-114-perspective_adjustment.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

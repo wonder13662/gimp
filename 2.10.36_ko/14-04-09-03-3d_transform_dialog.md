@@ -56,7 +56,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.4.10. 통합 변형(Unified transform)](./14-04-10-unified-transform.md)
+[➡️ 다음: 14.4.10. 통합 변형(Unified transform)](./14-04-10-00-unified-transform.md)
 
 [⬅️ 이전: 14.4.9.2. 옵션(Options)](./14-04-09-02-options.md)
 
