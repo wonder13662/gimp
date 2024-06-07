@@ -3,8 +3,9 @@
 <a id="90-10-30-02-01-a1"></a>
 
 #### 영상 90.10.30.2.1.a1. `도구 옵션` → `통합 변형` → `From Pivot`: Ctrl(⌘)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/63d3cef1-1c32-4c2b-89c0-93724dad7060"></video>
 
-(TODO 가이드 내용 파악 뒤에 From Pivot을 적절한 우리말로 바꾸어야 합니다.)
+[14.4.10.2. 동작 변경키(Key modifiers) - 영상 90.10.30.2.1.a1](./14-04-10-02-key_modifiers.md#90-10-30-02-01-a1)
 
 ***
 
