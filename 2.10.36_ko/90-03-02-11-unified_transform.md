@@ -10,6 +10,15 @@
 #### 그림 90.3.2.11.a2. `도구상자` → `통합 변형`
 ![90-03-02-11-a2](https://github.com/wonder13662/gimp/assets/15767104/04aaa5fe-7495-4703-b139-1dfbc61c9c19)
 
+[14.4.10.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.11.a2](./14-04-10-01-activating_the_tool.md#90-03-02-11-a2)
+
+<a id="90-03-02-11-a2-01"></a>
+
+#### 영상 90.3.2.11.a2.1. `도구상자` → `통합 변형` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4f74007b-776c-4761-aa45-6edb2034e4e8"></video>
+
+[14.4.10.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.11.a2.1](./14-04-10-01-activating_the_tool.md#90-03-02-11-a2-01)
+
 <a id="90-03-02-11-a11"></a>
 
 #### 그림 90.3.2.11.a11. `통합 변형` 도구의 프레임과 핸들
