@@ -8,7 +8,7 @@ Ctrl(⌘) 키를 누르고 있으면, `도구 옵션` → `통합 변형` → `F
 <a id="90-10-30-02-01-a1"></a>
 
 #### [영상 90.10.30.2.1.a1. `도구 옵션` → `통합 변형` → `From Pivot`: Ctrl(⌘)](./90-10-30-02-01-toggle_from_pivot.md#90-10-30-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/63d3cef1-1c32-4c2b-89c0-93724dad7060"></video>
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e883596d-ecff-479f-8046-d112f1f5dc83"></video>
 
 <a id="14-04-10-02-s2"></a>
 
