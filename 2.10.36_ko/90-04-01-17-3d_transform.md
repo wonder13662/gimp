@@ -6,7 +6,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.1.18. 변형 다루기(Handle Transform)](./90-04-01-18-handle_transform.md)
+[➡️ 다음: 90.4.1.18. 핸들 변형(Handle transform)](./90-04-01-18-handle_transform.md)
 
 [⬅️ 이전: 90.4.1.16. 원근법(Perspective)](./90-04-01-16-perspective.md)
 

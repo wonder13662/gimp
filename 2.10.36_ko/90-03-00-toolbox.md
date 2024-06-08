@@ -168,9 +168,9 @@
 #### 그림 90.3.2.17.a2. `도구상자` →`3차원 변형`
 [![그림 90.3.2.17.a2. `도구상자` →`3차원 변형`](https://github.com/wonder13662/gimp/assets/15767104/90c1474c-bf80-4eff-ac55-f6ae335c7d69)](./90-03-02-17-3d_transform.md)
 
-### [90.3.2.18. 도구 아이콘(Tool icon) - 변형 다루기(Handle transform)](./90-03-02-18-handle_transform.md)
-#### 그림 90.3.2.18.a2. `도구상자` → `변형 다루기`
-[![그림 90.3.2.18.a2. `도구상자` → `변형 다루기`](https://github.com/wonder13662/gimp/assets/15767104/70cd5526-e74c-41a2-8c9a-439ef3725b4d)](./90-03-02-18-handle_transform.md)
+### [90.3.2.18. 도구 아이콘(Tool icon) - 핸들 변형(Handle transform)](./90-03-02-18-handle_transform.md)
+#### 그림 90.3.2.18.a2. `도구상자` → `핸들 변형`
+[![그림 90.3.2.18.a2. `도구상자` → `핸들 변형`](https://github.com/wonder13662/gimp/assets/15767104/70cd5526-e74c-41a2-8c9a-439ef3725b4d)](./90-03-02-18-handle_transform.md)
 
 ### [90.3.2.19. 도구 아이콘(Tool icon) - 워프 변형(Warp transform)](./90-03-02-19-warp_transform.md)
 #### 그림 90.3.2.19.a2. `도구상자` → `워프 변형`

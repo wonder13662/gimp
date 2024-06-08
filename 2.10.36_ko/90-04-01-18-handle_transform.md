@@ -1,4 +1,4 @@
-# 90.4.1.18. 변형 다루기(Handle Transform)
+# 90.4.1.18. 핸들 변형(Handle transform)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 (TODO 이미지 추가)
 

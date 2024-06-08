@@ -24,7 +24,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.8.3.10. 변형 다루기(Handle Transform)](./90-01-08-03-10-handle_transform.md)
+[➡️ 다음: 90.1.8.3.10. 핸들 변형(Handle transform)](./90-01-08-03-10-handle_transform.md)
 
 [⬅️ 이전: 90.1.8.3.8. 3차원 변형(3D Transform)](./90-01-08-03-08-3d_transform.md)
 

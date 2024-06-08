@@ -482,7 +482,7 @@
 
 [14.4.10.3. 옵션(Options)](./14-04-10-03-options.md)
 
-[14.4.11. 변형 다루기(Handle transform)](./14-04-11-handle-transform.md)
+[14.4.11. 핸들 변형(Handle transform)](./14-04-11-00-handle-transform.md)
 
 [14.4.12. 뒤집기(Flip)](./14-04-12-flip.md)
 

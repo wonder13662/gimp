@@ -38,7 +38,7 @@
 
 [90.1.8.3.9. 통합 변형(Unified Transform)](./90-01-08-03-09-unified_transform.md)
 
-[90.1.8.3.10. 변형 다루기(Handle Transform)](./90-01-08-03-10-handle_transform.md)
+[90.1.8.3.10. 핸들 변형(Handle transform)](./90-01-08-03-10-handle_transform.md)
 
 [90.1.8.3.11. 뒤집기(Flip)](./90-01-08-03-11-flip.md)
 

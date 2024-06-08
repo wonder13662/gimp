@@ -535,7 +535,7 @@
 
 [90.1.8.3.9. 통합 변형(Unified Transform)](./90-01-08-03-09-unified_transform.md)
 
-[90.1.8.3.10. 변형 다루기(Handle Transform)](./90-01-08-03-10-handle_transform.md)
+[90.1.8.3.10. 핸들 변형(Handle transform)](./90-01-08-03-10-handle_transform.md)
 
 [90.1.8.3.11. 뒤집기(Flip)](./90-01-08-03-11-flip.md)
 
@@ -943,7 +943,7 @@
 
 [90.3.2.17. 도구 아이콘(Tool icon) - 3차원 변형(3D Transform)](./90-03-02-17-3d_transform.md)
 
-[90.3.2.18. 도구 아이콘(Tool icon) - 변형 다루기(Handle transform)](./90-03-02-18-handle_transform.md)
+[90.3.2.18. 도구 아이콘(Tool icon) - 핸들 변형(Handle transform)](./90-03-02-18-handle_transform.md)
 
 [90.3.2.19. 도구 아이콘(Tool icon) - 워프 변형(Warp transform)](./90-03-02-19-warp_transform.md)
 
@@ -1034,7 +1034,7 @@
 
 [90.4.1.17. 3차원 변형(3D Transform)](./90-04-01-17-3d_transform.md)
 
-[90.4.1.18. 변형 다루기(Handle Transform)](./90-04-01-18-handle_transform.md)
+[90.4.1.18. 핸들 변형(Handle transform)](./90-04-01-18-handle_transform.md)
 
 [90.4.1.19. 워프 변형(Warp Transform)](./90-04-01-19-warp_transform.md)
 
@@ -1423,6 +1423,10 @@
 [90.4.114. 원근법 조정(Perspective Adjustment)](./90-04-114-perspective_adjustment.md)
 
 [90.4.115. 3차원 변형(3D Transform)](./90-04-115-3d_transform.md)
+
+[90.4.116. 통합 변형](./90-04-116-unified_transform.md)
+
+[90.4.117. 핸들 변형](./90-04-117-handle_transform.md)
 
 <a id="90-00-s5"></a>
 

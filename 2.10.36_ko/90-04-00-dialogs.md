@@ -40,7 +40,7 @@
 
 [90.4.1.17. 3차원 변형(3D Transform)](./90-04-01-17-3d_transform.md)
 
-[90.4.1.18. 변형 다루기(Handle Transform)](./90-04-01-18-handle_transform.md)
+[90.4.1.18. 핸들 변형(Handle transform)](./90-04-01-18-handle_transform.md)
 
 [90.4.1.19. 워프 변형(Warp Transform)](./90-04-01-19-warp_transform.md)
 
@@ -541,6 +541,12 @@
 ![90-04-114-a101](https://github.com/wonder13662/gimp/assets/15767104/9c62052c-4038-498f-9da3-46ba9bddc40b)
 
 ### [90.4.115. 3차원 변형(3D Transform)](./90-04-115-3d_transform.md)
+#### 그림 90.4.115.a101. `3차원 변형` 대화상자 (Windows) (우리말)
+![90-04-115-a101](https://github.com/wonder13662/gimp/assets/15767104/25608d74-e72a-46a1-b0b8-97e6febf04e1)
+
+### [90.4.116. 통합 변형](./90-04-116-unified_transform.md)
+
+### [90.4.117. 핸들 변형](./90-04-117-handle_transform.md)
 
 ***
 

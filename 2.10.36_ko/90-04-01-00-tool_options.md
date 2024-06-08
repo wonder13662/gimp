@@ -79,7 +79,7 @@
 
 [90.4.1.17. 3차원 변형(3D Transform)](./90-04-01-17-3d_transform.md)
 
-[90.4.1.18. 변형 다루기(Handle Transform)](./90-04-01-18-handle_transform.md)
+[90.4.1.18. 핸들 변형(Handle transform)](./90-04-01-18-handle_transform.md)
 
 [90.4.1.19. 워프 변형(Warp Transform)](./90-04-01-19-warp_transform.md)
 

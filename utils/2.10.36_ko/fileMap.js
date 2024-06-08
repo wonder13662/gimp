@@ -1047,8 +1047,8 @@ module.exports = {
         '14.4.10. 통합 변형(Unified transform)'
       ],
       [
-        '14-04-11-handle-transform.md', 
-        '14.4.11. 변형 다루기(Handle transform)'
+        '14-04-11-00-handle-transform.md', 
+        '14.4.11. 핸들 변형(Handle transform)'
       ],
       [
         '14-04-12-flip.md',

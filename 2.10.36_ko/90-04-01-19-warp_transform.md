@@ -8,7 +8,7 @@
 
 [➡️ 다음: 90.4.1.20. 골조 변형(Cage Transform)](./90-04-01-20-cage_transform.md)
 
-[⬅️ 이전: 90.4.1.18. 변형 다루기(Handle Transform)](./90-04-01-18-handle_transform.md)
+[⬅️ 이전: 90.4.1.18. 핸들 변형(Handle transform)](./90-04-01-18-handle_transform.md)
 
 [⬆️ 위: 90.4.1. 도구 옵션(Tool Options)](./90-04-01-00-tool_options.md)
 

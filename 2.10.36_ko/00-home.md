@@ -1419,7 +1419,15 @@
 
 [14.4.10.3. 옵션(Options)](./14-04-10-03-options.md)
 
-[14.4.11. 변형 다루기(Handle transform)](./14-04-11-handle-transform.md)
+[14.4.11. 핸들 변형(Handle transform)](./14-04-11-00-handle-transform.md)
+
+[14.4.11.1. 도구 활성화하기(Activating the tools)](./14-04-11-01-activating_the_tool.md)
+
+[14.4.11.2. 동작 변경키(Key modifiers)](./14-04-11-02-key_modifiers.md)
+
+[14.4.11.3. 옵션(Options)](./14-04-11-03-options.md)
+
+[14.4.11.4. 크기 조정 대화상자(The Scale adjustment dialog)](./14-04-11-04-handle_transform_dialog.md)
 
 [14.4.12. 뒤집기(Flip)](./14-04-12-flip.md)
 
@@ -1964,7 +1972,7 @@
 
 [90.1.8.3.9. 통합 변형(Unified Transform)](./90-01-08-03-09-unified_transform.md)
 
-[90.1.8.3.10. 변형 다루기(Handle Transform)](./90-01-08-03-10-handle_transform.md)
+[90.1.8.3.10. 핸들 변형(Handle transform)](./90-01-08-03-10-handle_transform.md)
 
 [90.1.8.3.11. 뒤집기(Flip)](./90-01-08-03-11-flip.md)
 
@@ -2348,7 +2356,7 @@
 
 [90.3.2.17. 도구 아이콘(Tool icon) - 3차원 변형(3D Transform)](./90-03-02-17-3d_transform.md)
 
-[90.3.2.18. 도구 아이콘(Tool icon) - 변형 다루기(Handle transform)](./90-03-02-18-handle_transform.md)
+[90.3.2.18. 도구 아이콘(Tool icon) - 핸들 변형(Handle transform)](./90-03-02-18-handle_transform.md)
 
 [90.3.2.19. 도구 아이콘(Tool icon) - 워프 변형(Warp transform)](./90-03-02-19-warp_transform.md)
 
@@ -2436,7 +2444,7 @@
 
 [90.4.1.17. 3차원 변형(3D Transform)](./90-04-01-17-3d_transform.md)
 
-[90.4.1.18. 변형 다루기(Handle Transform)](./90-04-01-18-handle_transform.md)
+[90.4.1.18. 핸들 변형(Handle transform)](./90-04-01-18-handle_transform.md)
 
 [90.4.1.19. 워프 변형(Warp Transform)](./90-04-01-19-warp_transform.md)
 
@@ -2825,6 +2833,10 @@
 [90.4.114. 원근법 조정(Perspective Adjustment)](./90-04-114-perspective_adjustment.md)
 
 [90.4.115. 3차원 변형(3D Transform)](./90-04-115-3d_transform.md)
+
+[90.4.116. 통합 변형](./90-04-116-unified_transform.md)
+
+[90.4.117. 핸들 변형](./90-04-117-handle_transform.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
