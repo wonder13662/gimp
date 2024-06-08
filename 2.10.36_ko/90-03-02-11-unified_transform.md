@@ -23,10 +23,87 @@
 
 <a id="90-03-02-11-a10-01"></a>
 
-#### 영상 90.3.2.11.a10.1. `도구 옵션` → `통합 변형` → `제한하기` → `이동` (Windows) (우리말)
+#### 영상 90.3.2.11.a10.1. `도구 옵션` → `통합 변형` → `제한하기` → `이동`: 옵션 켜기/끄기 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/20ccf395-e957-4d25-a0ca-9d64bb48d245"></video>
 
 [14.4.10.3. 옵션(Options) - 영상 90.3.2.11.a10.1](./14-04-10-03-options.md#90-03-02-11-a10-01)
+
+<a id="90-03-02-11-a10-02"></a>
+
+#### 영상 90.3.2.11.a10.2. `도구 옵션` → `통합 변형` → `제한하기` → `크기 조정`: 옵션 켜기/끄기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1533f442-7464-4030-9865-eb519cb223dc"></video>
+
+[14.4.10.3. 옵션(Options) - 영상 90.3.2.11.a10.2](./14-04-10-03-options.md#90-03-02-11-a10-02)
+
+<a id="90-03-02-11-a10-03"></a>
+
+#### 영상 90.3.2.11.a10.3. `도구 옵션` → `통합 변형` → `제한하기` → `회전`: 옵션 켜기/끄기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1e99e3f2-e62f-4a18-ba55-b6c10550dcb8"></video>
+
+[14.4.10.3. 옵션(Options) - 영상 90.3.2.11.a10.3](./14-04-10-03-options.md#90-03-02-11-a10-03)
+
+<a id="90-03-02-11-a10-04"></a>
+
+#### 영상 90.3.2.11.a10.4. `도구 옵션` → `통합 변형` → `제한하기` → `기울이기`: 옵션 켜기/끄기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5134d43b-99ac-405f-b233-0cb4db940fd1"></video>
+
+[14.4.10.3. 옵션(Options) - 영상 90.3.2.11.a10.4](./14-04-10-03-options.md#90-03-02-11-a10-04)
+
+<a id="90-03-02-11-a10-04-01"></a>
+
+#### 그림 90.3.2.11.a10.4.1. `도구 옵션` → `통합 변형` → `제한하기` → `기울이기`: 옵션 켠 뒤의 이동방향 (Windows) (우리말)
+![90-03-02-11-a10-04-01](https://github.com/wonder13662/gimp/assets/15767104/6009ed29-54d3-4cc6-bf14-49320c0757a1)
+
+[14.4.10.3. 옵션(Options) - 그림 90.3.2.11.a10.4.1](./14-04-10-03-options.md#90-03-02-11-a10-04-01)
+
+<a id="90-03-02-11-a10-05"></a>
+
+#### 영상 90.3.2.11.a10.5. `도구 옵션` → `통합 변형` → `제한하기` → `원근법`: 옵션 켜기/끄기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c7ccbb7b-7195-42d9-baf3-0df5786723e5"></video>
+
+[14.4.10.3. 옵션(Options) - 영상 90.3.2.11.a10.5](./14-04-10-03-options.md#90-03-02-11-a10-05)
+
+<a id="90-03-02-11-a10-05-01"></a>
+
+#### 그림 90.3.2.11.a10.5.1. `도구 옵션` → `통합 변형` → `제한하기` → `원근법`: 옵션 켠 뒤의 이동방향 (Windows) (우리말)
+![90-03-02-11-a10-05-01](https://github.com/wonder13662/gimp/assets/15767104/c9e3d821-d72a-4ce8-aa21-07f4f21f3a4c)
+
+[14.4.10.3. 옵션(Options) - 그림 90.3.2.11.a10.5.1](./14-04-10-03-options.md#90-03-02-11-a10-05-01)
+
+<a id="90-03-02-11-a10-06"></a>
+
+#### 그림 90.3.2.11.a10.6. `도구 옵션` → `통합 변형` → `회전축 기준(From pivot)` → `크기 조정`: 옵션 켜기/끄기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0ff18d71-a1ab-4df8-9e56-9cd41f8d4eae"></video>
+
+[14.4.10.3. 옵션(Options) - 그림 90.3.2.11.a10.6](./14-04-10-03-options.md#90-03-02-11-a10-06)
+
+<a id="90-03-02-11-a10-07"></a>
+
+#### 그림 90.3.2.11.a10.7. `도구 옵션` → `통합 변형` → `회전축 기준(From pivot)` → `기울이기`: 옵션 켜기/끄기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4b796277-7a34-47f2-a26d-f76685253045"></video>
+
+[14.4.10.3. 옵션(Options) - 그림 90.3.2.11.a10.7](./14-04-10-03-options.md#90-03-02-11-a10-07)
+
+<a id="90-03-02-11-a10-08"></a>
+
+#### 그림 90.3.2.11.a10.8. `도구 옵션` → `통합 변형` → `회전축 기준(From pivot)` → `원근법`: 옵션 켜기/끄기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6f50e00e-b669-463f-85f0-4c935596c319"></video>
+
+[14.4.10.3. 옵션(Options) - 그림 90.3.2.11.a10.8](./14-04-10-03-options.md#90-03-02-11-a10-08)
+
+<a id="90-03-02-11-a10-09"></a>
+
+#### 그림 90.3.2.11.a10.9. `도구 옵션` → `통합 변형` → `회전축(Pivot)` → `달라붙기(Snap)`: 옵션 켜기/끄기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/462b8f34-e638-45bf-9cfd-500515b84ece"></video>
+
+[14.4.10.3. 옵션(Options) - 그림 90.3.2.11.a10.9](./14-04-10-03-options.md#90-03-02-11-a10-09)
+
+<a id="90-03-02-11-a10-10"></a>
+
+#### 그림 90.3.2.11.a10.10. `도구 옵션` → `통합 변형` → `회전축(Pivot)` → `잠그기(Lock)`: 옵션 켜기/끄기 (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ff508b79-0586-4988-afcb-316d8f67aa35"></video>
+
+[14.4.10.3. 옵션(Options) - 그림 90.3.2.11.a10.10](./14-04-10-03-options.md#90-03-02-11-a10-10)
 
 <a id="90-03-02-11-a11"></a>
 
