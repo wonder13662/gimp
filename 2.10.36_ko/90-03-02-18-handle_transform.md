@@ -111,7 +111,7 @@
 #### 영상 90.3.2.18.a101.1. `도구 옵션` → `핸들 변형` → `이미지 불투명도` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3f037375-90cd-470e-a8ac-69fa83a9449c"></video>
 
-[14.4.11. 핸들 변형(Handle transform) - 영상 90.3.2.18.a101.1](./14-04-11-00-handle-transform.md#90-03-02-18-a101-01)
+[14.4.11.3. 옵션(Options) - 영상 90.3.2.18.a101.1](./14-04-11-03-options.md#90-03-02-18-a101-01)
 
 ***
 
