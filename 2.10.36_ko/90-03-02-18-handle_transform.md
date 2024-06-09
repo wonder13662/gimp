@@ -5,6 +5,8 @@
 #### 그림 90.3.2.18.a1. `도구상자` → `핸들 변형`의 도구옵션
 ![90-03-02-18-a1](https://github.com/wonder13662/gimp/assets/15767104/681d999f-8aef-46d9-b4e9-61f940154a8b)
 
+[14.4.11.3. 옵션(Options) - 그림 90.3.2.18.a1](./14-04-11-03-options.md#90-03-02-18-a1)
+
 <a id="90-03-02-18-a2"></a>
 
 #### 그림 90.3.2.18.a2. `도구상자` → `핸들 변형`
@@ -103,6 +105,13 @@
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a1c0812d-486e-4e02-847a-4ed410227feb"></video>
 
 [14.4.11. 핸들 변형(Handle transform) - 영상 90.3.2.18.a13.4.2](./14-04-11-00-handle-transform.md#90-03-02-18-a13-04-02)
+
+<a id="90-03-02-18-a101-01"></a>
+
+#### 영상 90.3.2.18.a101.1. `도구 옵션` → `핸들 변형` → `이미지 불투명도` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3f037375-90cd-470e-a8ac-69fa83a9449c"></video>
+
+[14.4.11. 핸들 변형(Handle transform) - 영상 90.3.2.18.a101.1](./14-04-11-00-handle-transform.md#90-03-02-18-a101-01)
 
 ***
 
