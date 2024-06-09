@@ -6,6 +6,8 @@
 #### 그림 90.4.116.a101. `통합 변형` 대화상자 (Windows) (우리말)
 ![90-04-116-a101](https://github.com/wonder13662/gimp/assets/15767104/b1cd9460-8712-4a81-9e1d-d285f28a2ce4)
 
+[14.4.10.4. 통합 변형 대화상자(Unified transform dialog) - 그림 90.4.116.a101](./14-04-10-04-unified_transform_dialog.md#90-04-116-a101)
+
 <a id="90-04-116-a102"></a>
 
 #### 그림 90.4.116.a102. `통합 변형` 대화상자 (Windows) (영어)
