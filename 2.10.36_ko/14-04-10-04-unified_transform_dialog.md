@@ -1,4 +1,4 @@
-# 14.4.10.4. 크기 조정 대화상자(The Scale adjustment dialog)
+# 14.4.10.4. 통합 변형 대화상자(Unified transform dialog)
 
 <a id="90-04-116-a101"></a>
 

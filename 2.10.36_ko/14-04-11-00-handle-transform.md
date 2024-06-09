@@ -136,7 +136,7 @@
 
 [➡️ 다음: 14.4.11.1. 도구 활성화하기(Activating the tools)](./14-04-11-01-activating_the_tool.md)
 
-[⬅️ 이전: 14.4.10.4. 크기 조정 대화상자(The Scale adjustment dialog)](./14-04-10-04-unified_transform_dialog.md)
+[⬅️ 이전: 14.4.10.4. 통합 변형 대화상자(Unified transform dialog)](./14-04-10-04-unified_transform_dialog.md)
 
 [⬆️ 위: 14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)
 
