@@ -12,6 +12,15 @@
 
 [14.4.11. 핸들 변형(Handle transform) - 그림 90.3.2.18.a2](./14-04-11-00-handle-transform.md#90-03-02-18-a2)
 
+[14.4.11.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.18.a2](./14-04-11-01-activating_the_tool.md#90-03-02-18-a2)
+
+<a id="90-03-02-18-a2-01"></a>
+
+#### 영상 90.3.2.18.a2.1. `도구상자` → `핸들 변형` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/15d325ad-1487-44b9-88b4-7b25f93c11e5"></video>
+
+[14.4.11.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.18.a2.1](./14-04-11-01-activating_the_tool.md#90-03-02-18-a2-01)
+
 <a id="90-03-02-18-a11-01"></a>
 
 #### 영상 90.3.2.18.a11.1. 핸들 1개(이동): 마우스 포인터가 핸들 위에서의 아이콘 바뀜 (Windows) (우리말)

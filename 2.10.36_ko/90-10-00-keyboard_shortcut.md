@@ -464,6 +464,34 @@
 
 [90.10.29.4.1. `도구 옵션` → `3차원 변형` → `축 고정` Shift(⇧)](./90-10-29-04-01-constrain_axis.md)
 
+[90.10.30. `통합 변형` 도구](./90-10-30-00-unified_transform.md)
+
+[90.10.30.1. 키보드 단축키](./90-10-30-01-00-keyboard_shortcut.md)
+
+[90.10.30.1.1. 키보드 단축키 Shift(⇧) + `T`](./90-10-30-01-01-shift_t.md)
+
+[90.10.30.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-30-02-00-key_modifier-ctrl.md)
+
+[90.10.30.2.1. `도구 옵션` → `통합 변형` → `Z 축`: Ctrl(⌘)](./90-10-30-02-01-toggle_from_pivot.md)
+
+[90.10.30.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-30-03-00-key_modifier-shift.md)
+
+[90.10.30.3.1. Shift(⇧) 키로 옵션 전환하기](./90-10-30-03-01-toggle_options.md)
+
+[90.10.31. `핸들 변형` 도구](./90-10-31-00-handle_transform.md)
+
+[90.10.31.1. 키보드 단축키](./90-10-31-01-00-keyboard_shortcut.md)
+
+[90.10.31.1.1. 키보드 단축키 Shift(⇧) + `L`](./90-10-31-01-01-shift_l.md)
+
+[90.10.31.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-31-02-00-key_modifier-ctrl.md)
+
+[90.10.31.2.1. Ctrl(⌘): 핸들 제거](./90-10-31-02-01-remove_handle.md)
+
+[90.10.31.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-31-03-00-key_modifier-shift.md)
+
+[90.10.31.3.1. Shift(⇧): 핸들 이동](./90-10-31-03-01-move_handle.md)
+
 ***
 
 ## 다른 페이지로 가기

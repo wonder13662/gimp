@@ -37,7 +37,7 @@
 <a id="90-10-30-01-01-a1"></a>
 
 #### [영상 90.10.30.1.1.a1. `도구상자` → `통합 변형`: 키보드 단축키 Shift(⇧) + `L`](./90-10-30-01-01-shift_l.md#90-10-30-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3917b3f4-f15a-40fe-81fb-ca27187ce4fd"></video>
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ad29efaf-54ff-4355-850c-87ea29f6fa18"></video>
 
 ***
 
