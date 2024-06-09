@@ -19,7 +19,7 @@
 
 <a id="90-04-115-a101-01-01"></a>
 
-#### 영상 90.4.115.a101.1.1. `3차원 변형` 대화상자 → 소실점 (Windows) (우리말)
+#### [영상 90.4.115.a101.1.1. `3차원 변형` 대화상자 → 소실점 (Windows) (우리말)](./90-04-115-3d_transform.md#90-04-115-a101-01-01)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6265f2de-4c49-45a5-9c77-726af01d2f88"></video>
 
 <a id="14-04-09-03-s2"></a>
