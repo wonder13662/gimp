@@ -1429,7 +1429,13 @@
 
 [14.4.11.4. 핸들 변형 대화상자(Handle transform dialog)](./14-04-11-04-handle_transform_dialog.md)
 
-[14.4.12. 뒤집기(Flip)](./14-04-12-flip.md)
+[14.4.12. 뒤집기(Flip)](./14-04-12-00-flip.md)
+
+[14.4.12.1. 도구 활성화하기(Activating the tools)](./14-04-12-01-activating_the_tool.md)
+
+[14.4.12.2. 동작 변경키(Key modifiers)](./14-04-12-02-key_modifiers.md)
+
+[14.4.12.3. 옵션(Options)](./14-04-12-03-options.md)
 
 [14.4.13. 케이지 변형(The cage tool)](./14-04-13-the-cage-tool.md)
 
@@ -3369,6 +3375,16 @@
 [90.10.31.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-31-03-00-key_modifier-shift.md)
 
 [90.10.31.3.1. Shift(⇧): 핸들 이동](./90-10-31-03-01-move_handle.md)
+
+[90.10.32. `뒤집기` 도구](./90-10-32-00-flip.md)
+
+[90.10.32.1. 키보드 단축키](./90-10-32-01-00-keyboard_shortcut.md)
+
+[90.10.32.1.1. 키보드 단축키 Shift(⇧) + `F`](./90-10-32-01-01-shift_f.md)
+
+[90.10.32.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-32-02-00-key_modifier-ctrl.md)
+
+[90.10.32.2.1. Ctrl(⌘): 핸들 제거](./90-10-32-02-01-toggle_direction.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

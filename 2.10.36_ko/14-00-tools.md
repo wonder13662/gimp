@@ -484,7 +484,13 @@
 
 [14.4.11. 핸들 변형(Handle transform)](./14-04-11-00-handle-transform.md)
 
-[14.4.12. 뒤집기(Flip)](./14-04-12-flip.md)
+[14.4.12. 뒤집기(Flip)](./14-04-12-00-flip.md)
+
+[14.4.12.1. 도구 활성화하기(Activating the tools)](./14-04-12-01-activating_the_tool.md)
+
+[14.4.12.2. 동작 변경키(Key modifiers)](./14-04-12-02-key_modifiers.md)
+
+[14.4.12.3. 옵션(Options)](./14-04-12-03-options.md)
 
 [14.4.13. 케이지 변형(The cage tool)](./14-04-13-the-cage-tool.md)
 
