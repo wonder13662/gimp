@@ -128,7 +128,7 @@
 
 [14.4.11.3. 옵션(Options)](./14-04-11-03-options.md)
 
-[14.4.11.4. 크기 조정 대화상자(The Scale adjustment dialog)](./14-04-11-04-handle_transform_dialog.md)
+[14.4.11.4. 핸들 변형 대화상자(Handle transform dialog)](./14-04-11-04-handle_transform_dialog.md)
 
 ***
 
