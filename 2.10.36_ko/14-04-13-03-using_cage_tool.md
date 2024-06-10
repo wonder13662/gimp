@@ -46,7 +46,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.4.14. 워프 변형(Warp transform)](./14-04-14-warp-transform.md)
+[➡️ 다음: 14.4.14. 워프 변형(Warp transform)](./14-04-14-00-warp-transform.md)
 
 [⬅️ 이전: 14.4.13.2. 옵션(Options)](./14-04-13-02-options.md)
 

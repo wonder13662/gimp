@@ -494,7 +494,31 @@
 
 [14.4.13. 골조 변형(The cage tool)](./14-04-13-00-the-cage-tool.md)
 
-[14.4.14. 워프 변형(Warp transform)](./14-04-14-warp-transform.md)
+[14.4.13.1. 도구 활성화하기(Activating the tools)](./14-04-13-01-activating_the_tool.md)
+
+[14.4.13.2. 옵션(Options)](./14-04-13-02-options.md)
+
+[14.4.13.3. `골조 변형` 도구 사용하기(Using Cage Tool)](./14-04-13-03-using_cage_tool.md)
+
+[14.4.14. 워프 변형(Warp transform)](./14-04-14-00-warp-transform.md)
+
+[14.4.14.1. 도구 활성화하기(Activating the tools)](./14-04-14-01-activating_the_tool.md)
+
+[14.4.14.2. 옵션(Options)](./14-04-14-02-00-options.md)
+
+[14.4.14.2.1. 픽셀 옮기기(Move pixels)](./14-04-14-02-01-move_pixels.md)
+
+[14.4.14.2.2. 크기, 경도, 강도, 여백 설정하기(Adapting Size, Hardness, Strength, Spacing)](./14-04-14-02-02-adapting.md)
+
+[14.4.14.2.3. 보간법(Interpolation)](./14-04-14-02-03-interpolation.md)
+
+[14.4.14.2.4. Abyss policy](./14-04-14-02-04-abyss_policy.md)
+
+[14.4.14.2.5. 고화질 미리보기(High quality preview)](./14-04-14-02-05-high_quality_preview.md)
+
+[14.4.14.2.6. 선(Stroke)](./14-04-14-02-06-stroke.md)
+
+[14.4.14.2.7. 움직임 재생(Animate)](./14-04-14-02-07-animate.md)
 
 [14.5. 그 밖의 도구들(Other)](./14-05-00-other.md)
 
