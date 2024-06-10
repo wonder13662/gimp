@@ -1451,7 +1451,7 @@
 
 [14.4.14.2. 옵션(Options)](./14-04-14-02-00-options.md)
 
-[14.4.14.2.1. 픽셀 옮기기(Move pixels)](./14-04-14-02-01-move_pixels.md)
+[14.4.14.2.1. 워프 방식(Warping methods)](./14-04-14-02-01-warping_methods.md)
 
 [14.4.14.2.2. 크기, 경도, 강도, 여백 설정하기(Adapting Size, Hardness, Strength, Spacing)](./14-04-14-02-02-adapting.md)
 

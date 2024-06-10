@@ -16,4 +16,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-tool-warp.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-tool-warp.html#idm16304)
