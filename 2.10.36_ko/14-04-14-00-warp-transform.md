@@ -1,5 +1,14 @@
 # 14.4.14. 워프 변형(Warp transform)
 
+<a id="90-03-02-19-a2"></a>
+
+#### [그림 90.3.2.19.a2. `도구상자` → `워프 변형`](./90-03-02-19-warp_transform.md#90-03-02-19-a2)
+![90-03-02-19-a2](https://github.com/wonder13662/gimp/assets/15767104/ac4bcc92-9d42-4f01-b72f-b18c6fc9fb57)
+
+`워프 변형(Warp transform)` 도구는 GEGL 기반의 붓과 비슷한 도구입니다. 그리고 이 도구는 이미지에 바로 적용됩니다.
+
+지우개 모드를 사용해서 `워프 변형(Warp transform)` 도구를 사용해서 부분적으로 지울 수 있습니다.
+
 ***
 
 ## 하위 페이지
@@ -28,7 +37,7 @@
 
 [➡️ 다음: 14.4.14.1. 도구 활성화하기(Activating the tools)](./14-04-14-01-activating_the_tool.md)
 
-[⬅️ 이전: 14.4.13.3. `골조 변형` 도구 사용하기(Using Cage Tool)](./14-04-13-03-using_cage_tool.md)
+[⬅️ 이전: 14.4.13.3. `워프 변형` 도구 사용하기(Using Cage Tool)](./14-04-13-03-using_cage_tool.md)
 
 [⬆️ 위: 14.4.14. 워프 변형(Warp transform)](./14-04-14-00-warp-transform.md)
 
