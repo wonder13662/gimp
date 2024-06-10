@@ -1,4 +1,4 @@
-# 90.3.2.20. 도구 아이콘(Tool icon) - 골조 변형(Cage transform)
+# 90.3.2.20. 도구 아이콘(Tool icon) - 골조 변형(Cage Transform)
 
 <a id="90-03-02-20-a1"></a>
 

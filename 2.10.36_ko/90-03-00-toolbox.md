@@ -176,7 +176,7 @@
 #### 그림 90.3.2.19.a2. `도구상자` → `워프 변형`
 [![그림 90.3.2.19.a2. `도구상자` → `워프 변형`](https://github.com/wonder13662/gimp/assets/15767104/ac4bcc92-9d42-4f01-b72f-b18c6fc9fb57)](./90-03-02-19-warp_transform.md)
 
-### [90.3.2.20. 도구 아이콘(Tool icon) - 골조 변형(Cage transform)](./90-03-02-20-cage_transform.md)
+### [90.3.2.20. 도구 아이콘(Tool icon) - 골조 변형(Cage Transform)](./90-03-02-20-cage_transform.md)
 #### 그림 90.3.2.20.a2. `도구상자` → `골조 변형`
 [![그림 90.3.2.20.a2. `도구상자` → `골조 변형`](https://github.com/wonder13662/gimp/assets/15767104/570d81d1-0408-456e-8796-ebf123e8ec4f)](./90-03-02-20-cage_transform.md)
 

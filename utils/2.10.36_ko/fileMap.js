@@ -1056,8 +1056,8 @@ module.exports = {
         '14.4.12. 뒤집기',
       ],
       [
-        '14-04-13-the-cage-tool.md', 
-        '14.4.13. 케이지 변형(The cage tool)'
+        '14-04-13-00-the-cage-tool.md', 
+        '14.4.13. 골조 변형(The cage tool)'
       ],
       [
         '14-04-14-warp-transform.md', 

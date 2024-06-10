@@ -14,7 +14,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.3.2.20. 도구 아이콘(Tool icon) - 골조 변형(Cage transform)](./90-03-02-20-cage_transform.md)
+[➡️ 다음: 90.3.2.20. 도구 아이콘(Tool icon) - 골조 변형(Cage Transform)](./90-03-02-20-cage_transform.md)
 
 [⬅️ 이전: 90.3.2.18. 도구 아이콘(Tool icon) - 핸들 변형(Handle transform)](./90-03-02-18-handle_transform.md)
 

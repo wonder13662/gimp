@@ -492,7 +492,7 @@
 
 [14.4.12.3. 옵션(Options)](./14-04-12-03-options.md)
 
-[14.4.13. 케이지 변형(The cage tool)](./14-04-13-the-cage-tool.md)
+[14.4.13. 골조 변형(The cage tool)](./14-04-13-00-the-cage-tool.md)
 
 [14.4.14. 워프 변형(Warp transform)](./14-04-14-warp-transform.md)
 

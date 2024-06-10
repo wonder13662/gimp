@@ -947,7 +947,7 @@
 
 [90.3.2.19. 도구 아이콘(Tool icon) - 워프 변형(Warp transform)](./90-03-02-19-warp_transform.md)
 
-[90.3.2.20. 도구 아이콘(Tool icon) - 골조 변형(Cage transform)](./90-03-02-20-cage_transform.md)
+[90.3.2.20. 도구 아이콘(Tool icon) - 골조 변형(Cage Transform)](./90-03-02-20-cage_transform.md)
 
 [90.3.2.21. 도구 아이콘(Tool icon) - 영역 채우기(Bucket fill)](./90-03-02-21-bucket_fill.md)
 
@@ -1975,6 +1975,12 @@
 [90.10.32.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-32-02-00-key_modifier-ctrl.md)
 
 [90.10.32.2.1. Ctrl(⌘): 핸들 제거](./90-10-32-02-01-toggle_direction.md)
+
+[90.10.33. `골조 변형` 도구](./90-10-33-00-cage_transformation.md)
+
+[90.10.33.1. 키보드 단축키](./90-10-33-01-00-keyboard_shortcut.md)
+
+[90.10.33.1.1. 키보드 단축키 Shift(⇧) + `G`](./90-10-33-01-01-shift_g.md)
 
 <a id="90-00-s6"></a>
 

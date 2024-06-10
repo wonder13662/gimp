@@ -324,7 +324,7 @@
 
 [➡️ 다음: 90.3.2.22. 도구 아이콘(Tool icon) - 그라디언트(Gradient)](./90-03-02-22-gradient.md)
 
-[⬅️ 이전: 90.3.2.20. 도구 아이콘(Tool icon) - 골조 변형(Cage transform)](./90-03-02-20-cage_transform.md)
+[⬅️ 이전: 90.3.2.20. 도구 아이콘(Tool icon) - 골조 변형(Cage Transform)](./90-03-02-20-cage_transform.md)
 
 [⬆️ 위: 90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
 
