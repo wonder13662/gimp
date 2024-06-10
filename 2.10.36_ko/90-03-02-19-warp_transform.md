@@ -126,6 +126,59 @@
 
 [14.4.14.2.1. 워프 방식(Warping methods) - 영상 90.3.2.19.a11.1.1.7.1](./14-04-14-02-01-warping_methods.md#90-03-02-19-a11-01-01-07-01)
 
+<a id="90-03-02-19-a11-02"></a>
+
+#### 그림 90.3.2.19.a11.2. `도구 옵션` → `워프 변형` → `크기, 경도, 강도, 여백 설정하기` (Windows) (우리말)
+![90-03-02-19-a11-02](https://github.com/wonder13662/gimp/assets/15767104/a63028bc-89c7-449b-8906-71bfa98f21b9)
+
+[14.4.14.2.1. 워프 방식(Warping methods) - 그림 90.3.2.19.a11.2](./14-04-14-02-01-warping_methods.md#90-03-02-19-a11-02)
+
+<a id="90-03-02-19-a11-02-01"></a>
+
+#### 그림 90.3.2.19.a11.2.1. `도구 옵션` → `워프 변형` → `크기`
+![90-03-02-19-a11-02-01](https://github.com/wonder13662/gimp/assets/15767104/007695f2-e208-46a2-adec-a32c9b4617e7)
+
+[14.4.14.2.2. 크기, 경도, 강도, 여백 설정하기(Adapting Size, Hardness, Strength, Spacing) - 그림 90.3.2.19.a11.2.1](./14-04-14-02-02-adapting.md#90-03-02-19-a11-02-01)
+
+<a id="90-03-02-19-a11-02-01-01"></a>
+
+#### 영상 90.3.2.19.a11.2.1.1. `도구 옵션` → `워프 변형` → `크기` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6ef7e251-bd4f-4338-b566-20beaa53273d"></video>
+
+[14.4.14.2.2. 크기, 경도, 강도, 여백 설정하기(Adapting Size, Hardness, Strength, Spacing) - 영상 90.3.2.19.a11.2.1.1](./14-04-14-02-02-adapting.md#90-03-02-19-a11-02-01-01)
+
+<a id="90-03-02-19-a11-02-02"></a>
+
+#### 그림 90.3.2.19.a11.2.2. `도구 옵션` → `워프 변형` → `경도`
+![90-03-02-19-a11-02-02](https://github.com/wonder13662/gimp/assets/15767104/996ba682-0379-43a3-bbde-9dc53f1580e4)
+
+[14.4.14.2.2. 크기, 경도, 강도, 여백 설정하기(Adapting Size, Hardness, Strength, Spacing) - 그림 90.3.2.19.a11.2.2](./14-04-14-02-02-adapting.md#90-03-02-19-a11-02-02)
+
+<a id="90-03-02-19-a11-02-02-01"></a>
+
+#### 영상 90.3.2.19.a11.2.2.1. `도구 옵션` → `워프 변형` → `경도` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/25e8f72a-7c64-4a6b-8da0-039d66b2aee4"></video>
+
+[14.4.14.2.2. 크기, 경도, 강도, 여백 설정하기(Adapting Size, Hardness, Strength, Spacing) - 영상 90.3.2.19.a11.2.2.1](./14-04-14-02-02-adapting.md#90-03-02-19-a11-02-02-01)
+
+<a id="90-03-02-19-a11-02-03"></a>
+
+#### 그림 90.3.2.19.a11.2.3. `도구 옵션` → `워프 변형` → `강도`
+![90-03-02-19-a11-02-03](https://github.com/wonder13662/gimp/assets/15767104/da913f48-0e5a-479f-bd5a-f391dc1de438)
+
+[14.4.14.2.2. 크기, 경도, 강도, 여백 설정하기(Adapting Size, Hardness, Strength, Spacing) - 그림 90.3.2.19.a11.2.3](./14-04-14-02-02-adapting.md#90-03-02-19-a11-02-03)
+
+<a id="90-03-02-19-a11-02-03-01"></a>
+
+#### 영상 90.3.2.19.a11.2.3.1. `도구 옵션` → `워프 변형` → `강도` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/28750eb2-4053-4a69-ab48-587476869cb8"></video>
+
+[14.4.14.2.2. 크기, 경도, 강도, 여백 설정하기(Adapting Size, Hardness, Strength, Spacing) - 영상 90.3.2.19.a11.2.3.1](./14-04-14-02-02-adapting.md#90-03-02-19-a11-02-03-01)
+
+<a id="90-03-02-19-a11-02-04"></a>
+
+#### 영상 90.3.2.19.a11.2.4. `도구 옵션` → `워프 변형` → `여백` (Windows) (우리말)
+
 ***
 
 ## 다른 페이지로 가기
