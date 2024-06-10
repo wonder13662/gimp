@@ -12,12 +12,16 @@
 
 [14.4.13. 골조 변형(The cage tool) - 그림 90.3.2.20.a2](./14-04-13-00-the-cage-tool.md#90-03-02-20-a2)
 
+[14.4.13.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.20.a2](./14-04-13-01-activating_the_tool.md#90-03-02-20-a2)
+
 <a id="90-03-02-20-a2-01"></a>
 
 #### 영상 90.3.2.20.a2.1. `도구상자` → `골조 변형` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7e142f63-8d83-4029-bac2-671128fbde3b"></video>
 
 [14.4.13. 골조 변형(The cage tool) - 영상 90.3.2.20.a2.1](./14-04-13-00-the-cage-tool.md#90-03-02-20-a2-01)
+
+[14.4.13.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.20.a2.1](./14-04-13-01-activating_the_tool.md#90-03-02-20-a2-01)
 
 ***
 
