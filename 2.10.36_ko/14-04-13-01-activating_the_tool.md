@@ -53,4 +53,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-tool-cage.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-tool-cage.html#idm16199)
