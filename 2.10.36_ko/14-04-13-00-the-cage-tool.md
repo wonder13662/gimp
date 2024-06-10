@@ -1,5 +1,19 @@
 # 14.4.13. 골조 변형(The cage tool)
 
+<a id="90-03-02-20-a2"></a>
+
+#### [그림 90.3.2.20.a2. `도구상자` → `골조 변형`](./90-03-02-20-cage_transform.md#90-03-02-20-a2)
+![90-03-02-20-a2](https://github.com/wonder13662/gimp/assets/15767104/570d81d1-0408-456e-8796-ebf123e8ec4f)
+
+`골조 변형(The cage tool)` 도구는 [자유 선택 도구(올가미)](./14-02-04-00-free-selection-lasso.md) 도구처럼 앵커 포인트를 설정해서 변형할 영역을 선택합니다. 이 앵커 포인트를 움직여서 이미지를 왜곡시킬 수 있습니다.
+
+`골조 변형(The cage tool)` 도구는 엔터키를 눌러서 변형을 완료하기 전까지는 이미지를 실제로 바꾸지 않습니다.
+
+<a id="90-03-02-20-a2-01"></a>
+
+#### [영상 90.3.2.20.a2.1. `도구상자` → `골조 변형` (Windows) (우리말)](./90-03-02-20-cage_transform.md#90-03-02-20-a2-01)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7e142f63-8d83-4029-bac2-671128fbde3b"></video>
+
 ***
 
 ## 하위 페이지
