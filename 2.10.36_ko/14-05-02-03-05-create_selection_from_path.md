@@ -1,4 +1,4 @@
-# 14.4.14.2. 옵션(Options)
+# 14.5.2.3.5. 경로로부터 선택 영역 만들기(Create selection from path)
 
 ***
 
@@ -16,7 +16,7 @@
 
 [⬆️ 위: 14.5. 그 밖의 도구들(Other)](./14-05-00-other.md)
 
-[⬆️ 위: 14.4.14. 워프 변형(Warp transform)](./14-04-14-00-warp-transform.md)
+[⬆️ 위: 14.5.2. 워프 변형(Warp transform)](./14-04-14-00-warp-transform.md)
 
 [⬆️ 위: 14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)
 

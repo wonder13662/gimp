@@ -528,6 +528,26 @@
 
 [14.5.2. 경로(Paths)](./14-05-02-00-paths.md)
 
+[14.5.2.1. 도구 활성화하기(Activating the tools)](./14-05-02-01-activating_the_tool.md)
+
+[14.5.2.2. 동작 변경키(Key modifiers)](./14-05-02-02-key_modifiers.md)
+
+[14.5.2.3. 옵션(Options)](./14-05-02-03-00-options.md)
+
+[14.5.2.3.1. 편집 모드 - 디자인(Design Mode)](./14-05-02-03-01-design_mode.md)
+
+[14.5.2.3.2. 편집 모드 - 수정(Edit Mode)](./14-05-02-03-02-edit_mode.md)
+
+[14.5.2.3.3. 편집 모드 - 이동(Move Mode)](./14-05-02-03-03-move_mode.md)
+
+[14.5.2.3.4. 다각형(Polygonal)](./14-05-02-03-04-polygonal.md)
+
+[14.5.2.3.5. 경로로부터 선택 영역 만들기(Create selection from path)](./14-05-02-03-05-create_selection_from_path.md)
+
+[14.5.2.3.6. 경로 채우기(Fill path)](./14-05-02-03-06-fill_path.md)
+
+[14.5.2.3.7. 경로따라 그리기(Stroke Path)](./14-05-02-03-07-stroke_path.md)
+
 [14.5.3. 색상 추출 도구(Color picker)](./14-05-03-color-picker.md)
 
 [14.5.4. 확대 도구(Zoom)](./14-05-04-zoom.md)

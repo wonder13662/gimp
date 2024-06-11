@@ -1,57 +1,55 @@
-# 14.4.14.1. 도구 활성화하기(Activating the tools)
+# 14.5.2.1. 도구 활성화하기(Activating the tools)
 
 <a id="14-04-14-01-s1"></a>
 
-## 1. `이미지 메뉴 바` → `도구` → `변형 도구` → `워프 변형`
+## 1. `이미지 메뉴 바` → `도구` → `경로`
 
-<a id="90-01-08-03-13-a101"></a>
+<a id="90-01-08-04-a101"></a>
 
-#### [그림 90.1.8.3.13.a101. `이미지 메뉴 바` → `도구` → `변형 도구` → `워프 변형` (Windows)](./90-01-08-03-13-warp_transform.md#90-01-08-03-13-a101)
-![90-01-08-03-13-a101](https://github.com/wonder13662/gimp/assets/15767104/94e0478b-f3dd-46c2-85f5-1f41edb155bd)
+#### [그림 90.1.8.4.a101. `도구` → `경로`](./90-01-08-04-paths.md#90-01-08-04-a101)
+![90-01-08-tools(1080)-focus-paths](https://github.com/wonder13662/gimp/assets/15767104/724c198c-17ce-441b-ad81-56b4e9155759)
 
-[다른 운영체제와 언어의 `이미지 메뉴 바` → `도구` → `변형 도구` → `워프 변형` 확인하기](./90-01-08-03-13-warp_transform.md#90-01-08-03-13-a102)
+<a id="90-01-08-04-a101-01"></a>
 
-<a id="90-01-08-03-13-a101-01"></a>
-
-#### [영상 90.1.8.3.13.a101.1. `이미지 메뉴 바` → `도구` → `변형 도구` → `워프 변형` (Windows) (우리말)](./90-01-08-03-13-warp_transform.md#90-01-08-03-13-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f623785e-03a4-458a-bd61-3f73c55a4417"></video>
+#### [영상 90.1.8.4.a101.1. `도구` → `경로` (Windows) (우리말)](./90-01-08-04-paths.md#90-01-08-04-a101-01)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/92952a93-ceea-4c31-9876-d448018bc1a3"></video>
 
 <a id="14-04-14-01-s2"></a>
 
-## 2. 도구 상자에서 `워프 변형` 클릭
+## 2. 도구 상자에서 `경로` 클릭
 
-<a id="90-03-02-19-a2"></a>
+<a id="90-03-02-35-a2"></a>
 
-#### [그림 90.3.2.19.a2. `도구상자` → `워프 변형`](./90-03-02-19-warp_transform.md#90-03-02-19-a2)
-![90-03-02-19-a2](https://github.com/wonder13662/gimp/assets/15767104/ac4bcc92-9d42-4f01-b72f-b18c6fc9fb57)
+#### [그림 90.3.2.35.a2. `도구상자` → `경로`](./90-03-02-35-paths.md#90-03-02-35-a2)
+![90-03-02-35-a2](https://github.com/wonder13662/gimp/assets/15767104/577e558a-9a9e-4376-9fde-a49781286f10)
 
-<a id="90-03-02-19-a2-01"></a>
+<a id="90-03-02-35-a2-01"></a>
 
-#### [영상 90.3.2.19.a2.1. `도구상자` → `워프 변형` (Windows) (우리말)](./90-03-02-19-warp_transform.md#90-03-02-19-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/16be9763-7127-4e3d-8eb0-f79d9e1e5fa3"></video>
+#### [영상 90.3.2.35.a2.1. `도구상자` → `경로` (Windows) (우리말)](./90-03-02-35-paths.md#90-03-02-35-a2-01)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9b101ca5-d0dd-44be-bd04-fd4f72b19ad0"></video>
 
 <a id="14-04-14-01-s3"></a>
 
-## 3. 키보드 단축키 `W`
+## 3. 키보드 단축키 `B`
 
-<a id="90-10-34-01-01-a1"></a>
+<a id="90-10-35-01-01-a1"></a>
 
-#### [영상 90.10.34.1.1.a1. `도구상자` → `워프 변형`: 키보드 단축키 `W` (Windows) (우리말)](./90-10-34-01-01-w.md#90-10-34-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d05b5b2e-93e5-427e-b4ff-350dacc48662"></video>
+#### [영상 90.10.35.1.1.a1. `도구상자` → `경로`: 키보드 단축키 `B` (Windows) (우리말)](./90-10-35-00-path.md#90-10-35-01-01-a1)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8434cfe3-b8c1-428c-b563-7f20dc7e6d38"></video>
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 14.4.12.2. 동작 변경키(Key modifiers)](./14-04-12-02-key_modifiers.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 14.5.2. 경로(Paths)](./14-05-02-00-paths.md)
 
 [⬆️ 위: 14.5.2. 경로(Paths)](./14-05-02-00-paths.md)
 
 [⬆️ 위: 14.5. 그 밖의 도구들(Other)](./14-05-00-other.md)
 
-[⬆️ 위: 14.4.14. 워프 변형(Warp transform)](./14-04-14-00-warp-transform.md)
+[⬆️ 위: 14.5.2. 워프 변형(Warp transform)](./14-04-14-00-warp-transform.md)
 
 [⬆️ 위: 14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)
 
