@@ -1,5 +1,7 @@
 # 14.4.14.2.3. 보간법(Interpolation)
 
+[14.4.1.1.3. 보간법(Interpolation)](./14-04-01-01-03-interpolation.md)을 참고해주세요.
+
 ***
 
 ## 다른 페이지로 가기
