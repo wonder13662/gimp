@@ -278,14 +278,14 @@
 #### 그림 90.3.2.19.a11.4. `도구 옵션` → `워프 변형` → `고화질 미리보기` (Windows) (우리말)
 ![90-03-02-19-a11-04](https://github.com/wonder13662/gimp/assets/15767104/77b51abd-d52b-4b9c-a5c8-490b8bace001)
 
-[14.4.14.2.4. Abyss policy - 그림 90.3.2.19.a11.4](./14-04-14-02-04-abyss_policy.md#90-03-02-19-a11-04)
+[14.4.14.2.5. 고화질 미리보기(High quality preview) - 그림 90.3.2.19.a11.4](./14-04-14-02-05-high_quality_preview.md#90-03-02-19-a11-04)
 
 <a id="90-03-02-19-a11-04-01"></a>
 
 #### 영상 90.3.2.19.a11.4.1. `도구 옵션` → `워프 변형` → `고화질 미리보기` (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b8f43a14-5a6a-4c26-b8f5-b69ba88378a9"></video>
 
-[14.4.14.2.4. Abyss policy - 영상 90.3.2.19.a11.4.1](./14-04-14-02-04-abyss_policy.md#90-03-02-19-a11-04-01)
+[14.4.14.2.5. 고화질 미리보기(High quality preview) - 영상 90.3.2.19.a11.4.1](./14-04-14-02-05-high_quality_preview.md#90-03-02-19-a11-04-01)
 
 <a id="90-03-02-19-a11-05"></a>
 
