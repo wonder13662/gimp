@@ -59,6 +59,12 @@ GIF 설명은 [7비트 ASCII 문자](https://en.wikipedia.org/wiki/ASCII#ASCII_p
 
 ***
 
+## 관련 정보
+
+[14.4.14.2.8. 움직임 재생(Animate)](./14-04-14-02-08-animate.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 6.1.2.2. HEIF/HEIC로 이미지 내보내기](./06-01-02-02-export_image_as_heif.md)
