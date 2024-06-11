@@ -131,7 +131,7 @@
 #### 그림 90.3.2.19.a11.2. `도구 옵션` → `워프 변형` → `크기, 경도, 강도, 여백 설정하기` (Windows) (우리말)
 ![90-03-02-19-a11-02](https://github.com/wonder13662/gimp/assets/15767104/a63028bc-89c7-449b-8906-71bfa98f21b9)
 
-[14.4.14.2.2. 크기, 경도, 강도, 여백 설정하기(Adapting Size, Hardness, Strength, Spacing) - 그림 90.3.2.19.a11.2](./14-04-14-02-01-warping_methods.md#90-03-02-19-a11-02)
+[14.4.14.2.2. 크기, 경도, 강도, 여백 설정하기(Adapting Size, Hardness, Strength, Spacing) - 그림 90.3.2.19.a11.2](./14-04-14-02-02-adapting.md#90-03-02-19-a11-02)
 
 <a id="90-03-02-19-a11-02-01"></a>
 
