@@ -1072,7 +1072,7 @@ module.exports = {
         '14.5.1. 개요(Overview)'
       ],
       [
-        '14-05-02-paths.md', 
+        '14-05-02-00-paths.md', 
         '14.5.2. 경로(Paths)'
       ],
       [

@@ -1471,7 +1471,7 @@
 
 [14.5.1. 개요(Overview)](./14-05-01-overview.md)
 
-[14.5.2. 경로(Paths)](./14-05-02-paths.md)
+[14.5.2. 경로(Paths)](./14-05-02-00-paths.md)
 
 [14.5.3. 색상 추출 도구(Color picker)](./14-05-03-color-picker.md)
 
@@ -2011,6 +2011,24 @@
 [90.1.8.3.12. 골조 변형(Cage Transform)](./90-01-08-03-12-cage_transform.md)
 
 [90.1.8.3.13. 워프 변형(Warp Transform)](./90-01-08-03-13-warp_transform.md)
+
+[90.1.8.4. 경로(Paths)](./90-01-08-04-paths.md)
+
+[90.1.8.5. 텍스트(Text)](./90-01-08-05-text.md)
+
+[90.1.8.6. GEGL 동작(GEGL Operation)](./90-01-08-06-gegl_operation.md)
+
+[90.1.8.7. 색상 추출(Color Picker)](./90-01-08-07-color_picker.md)
+
+[90.1.8.8. 측정(Measure)](./90-01-08-08-measure.md)
+
+[90.1.8.9. 확대(Zoom)](./90-01-08-09-zoom.md)
+
+[90.1.8.10. 도구상자(Toolbox)](./90-01-08-10-toolbox.md)
+
+[90.1.8.11. 기본색(Default Values)](./90-01-08-11-default_values.md)
+
+[90.1.8.12. 색 바꾸기(Swap Colors)](./90-01-08-12-swap_colors.md)
 
 [90.1.9. 필터(Filters)](./90-01-09-00-filters.md)
 
