@@ -48,9 +48,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.117. 핸들 변형](./90-04-117-handle_transform.md)
 
-[⬅️ 이전: 90.4.113. 기울이기 조정(Shear Adjustment)](./90-04-113-shear_adjustment.md)
+[⬅️ 이전: 90.4.115. 3차원 변형(3D)](./90-04-115-3d_transform.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

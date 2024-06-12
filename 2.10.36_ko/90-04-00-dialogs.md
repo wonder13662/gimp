@@ -545,8 +545,16 @@
 ![90-04-115-a101](https://github.com/wonder13662/gimp/assets/15767104/25608d74-e72a-46a1-b0b8-97e6febf04e1)
 
 ### [90.4.116. 통합 변형](./90-04-116-unified_transform.md)
+#### 그림 90.4.116.a101. `통합 변형` 대화상자 (Windows) (우리말)
+![90-04-116-a101](https://github.com/wonder13662/gimp/assets/15767104/b1cd9460-8712-4a81-9e1d-d285f28a2ce4)
 
 ### [90.4.117. 핸들 변형](./90-04-117-handle_transform.md)
+#### 그림 90.4.117.a101. `핸들 변형` 대화상자 (Windows) (우리말)
+![90-04-117-a101](https://github.com/wonder13662/gimp/assets/15767104/4d3b1b3a-082f-4ff4-8b80-5b3127f1d54e)
+
+### [90.4.118. 경로 채우기](./90-04-118-fill_path.md)
+#### 그림 90.4.118.a101. `경로 채우기` 대화상자 (Windows) (우리말)
+![90-04-118-a101](https://github.com/wonder13662/gimp/assets/15767104/8145503a-bc63-47b2-84de-576b3d31ce11)
 
 ***
 
