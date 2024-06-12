@@ -21,4 +21,4 @@
 
 [경로: 직선 선분](./19-glossaryx-path_line_segment.md)
 
-[14.5.2.3.1. 편집 모드 - 디자인(Design Mode): 1-2. 선분(Segment) 또는 노드(Node)](./14-05-02-03-01-design_mode.md#14-05-02-03-01-s1-02)
+[14.5.2.3.1. 편집 모드 - 디자인(Design Mode): 1-2. 선분(Segment)](./14-05-02-03-01-design_mode.md#14-05-02-03-01-s1-02)
