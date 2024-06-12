@@ -89,7 +89,7 @@
 #### [영상 90.3.2.22.a14.4.2. `색 멈춤점(Color Stop)`: 새로 만들기](./90-03-02-22-gradient.md#90-03-02-22-a14-04-02)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f0f2a56c-f7d0-48d1-a4bd-c7d4bb73ce33"></video>
 
-그라디언트 선을 보면, 작은 사각형이 여러개 있습니다. 이 사각형을 `색 멈춤점(Color Stop)`이라고 합니다. `색 멈춤점(Color Stop)`은 그라디언트 선을 마디(Segment)로 나눕니다. 마디(Segment)는 각각 수정할 수 있습니다.
+그라디언트 선을 보면, 작은 사각형이 여러 개 있습니다. 이 사각형을 `색 멈춤점(Color Stop)`이라고 합니다. `색 멈춤점(Color Stop)`은 그라디언트 선을 마디(Segment)로 나눕니다. 마디(Segment)는 각각 수정할 수 있습니다.
 
 ### 5-2. 수정하기
 `색 멈춤점(Color Stop)`을 클릭, 드래그해서 움직입니다. 활성화된 `색 멈춤점(Color Stop)`은 노란색으로 표시됩니다.
