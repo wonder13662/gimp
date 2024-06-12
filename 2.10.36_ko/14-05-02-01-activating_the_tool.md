@@ -57,4 +57,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-tool-path.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-tool-path.html#idm16482)
