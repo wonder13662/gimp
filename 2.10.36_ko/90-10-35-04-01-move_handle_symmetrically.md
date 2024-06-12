@@ -12,9 +12,13 @@
 #### 영상 90.10.35.4.1.a2. Shift(⇧): 선분의 양쪽 핸들을 대칭으로 움직이기 (Windows) (우리말)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a21a1e41-19c3-4694-af07-e4fe33a873bc"></video>
 
+[14.5.2.3.1. 편집 모드 - 디자인(Design Mode) - 영상 90.10.35.4.1.a2](./14-05-02-03-01-design_mode.md#90-10-35-04-01-a2)
+
 ***
 
 ## 다른 페이지로 가기
+
+[⬆️ 위: 90.10.35.4. Shift(⇧):동작 변경키(Key modifiers)](./90-10-35-04-00-key_modifier-shift.md)
 
 [⬆️ 위: 90.10.35. `경로` 도구](./90-10-28-00-perspective.md)
 
