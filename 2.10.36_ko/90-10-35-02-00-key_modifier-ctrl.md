@@ -8,7 +8,11 @@
 
 [90.10.35.2.2. Ctrl(⌘): 경로 위에 새로운 노드 추가하기](./90-10-35-02-02-add_node_along_path.md)
 
-[90.10.35.2.3. Ctrl(⌘) + Shift(⇧): 노드 지우기](./90-10-35-02-03-remove_node.md)
+[90.10.35.2.3. Ctrl(⌘) + Shift(⇧): 선분 지우기](./90-10-35-02-03-remove_segment.md)
+
+[90.10.35.2.4. Ctrl(⌘) + Shift(⇧): 제어점 지우기](./90-10-35-02-04-remove_control_point.md)
+
+[90.10.35.2.5. Ctrl(⌘) + Shift(⇧): 핸들 지우기](./90-10-35-02-05-remove_handle.md)
 
 ***
 
