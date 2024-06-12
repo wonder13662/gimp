@@ -1251,7 +1251,7 @@ module.exports = {
       ],
       [
         '16-03-21-stroke-path.md', 
-        '16.3.21. Stroke path'
+        '16.3.21. 경로따라 그리기(Stroke Path)'
       ],
       [
         '16-03-22-preference.md', 

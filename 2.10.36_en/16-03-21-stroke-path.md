@@ -1,4 +1,4 @@
-# 16.3.21. Stroke path
+# 16.3.21. 경로따라 그리기(Stroke Path)
 
 ### [Home](./00-home.md)
 ### [Parent: 16.3. The edit menu](./16-03-00-the-edit-menu.md)
