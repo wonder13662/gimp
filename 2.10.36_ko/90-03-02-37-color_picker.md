@@ -14,6 +14,15 @@
 
 [14.5.3. 색상 추출(Color picker) - 그림 90.3.2.37.a2](./14-05-03-00-color-picker.md#90-03-02-37-a2)
 
+[14.5.3.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.37.a2](./14-05-03-01-activating_the_tool.md#90-03-02-37-a2)
+
+<a id="90-03-02-37-a2-01"></a>
+
+#### 영상 90.3.2.37.a2.1. `도구상자` → `색상 추출` (Windows) (우리말)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/980ba68e-57bd-4f37-bbd8-e6c085585b5c"></video>
+
+[14.5.3.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.37.a2.1](./14-05-03-01-activating_the_tool.md#90-03-02-37-a2-01)
+
 <a id="90-03-02-37-a3"></a>
 
 #### 영상 90.3.2.37.a3. 배경의 색상 추출
