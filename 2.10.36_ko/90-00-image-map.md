@@ -1606,7 +1606,9 @@
 
 [90.10.7.1. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-07-01-00-key_modifier-ctrl.md)
 
-[90.10.7.1.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-07-01-01-switch_tool_mode.md)
+[90.10.7.1.1. 칠하기 도구:그리기 붓 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 전경색 바꾸기](./90-10-07-01-01-switch_to_color_picker_fg.md)
+
+[90.10.7.1.2. 칠하기 도구:지우개 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 배경색 바꾸기](./90-10-07-01-02-switch_to_color_picker_bg.md)
 
 [90.10.7.2. Shift(⇧):동작 변경키(Key modifiers)](./90-10-07-02-00-key_modifier-shift.md)
 
@@ -1768,7 +1770,7 @@
 
 [90.10.16.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-16-02-00-key_modifier-ctrl.md)
 
-[90.10.16.2.1. 원본 선택(Select the source)](./90-10-16-02-01-select_the_source.md)
+[90.10.16.2.1. 칠하기 도구:`도장` - Ctrl(⌘) 키: 원본 선택](./90-10-16-02-01-select_the_source.md)
 
 [90.10.16.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-16-03-00-key_modifier-shift.md)
 
@@ -1806,7 +1808,7 @@
 
 [90.10.19.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-19-02-00-key_modifier-ctrl.md)
 
-[90.10.19.2.1. 흐릿하게/선명하게 모드 바꾸기](./90-10-19-02-01-switch_blur_n_sharpen.md)
+[90.10.19.2.1. 칠하기 도구:`흐릿하게/선명하게` - Ctrl(⌘) 키: 흐릿하게/선명하게 모드 바꾸기](./90-10-19-02-01-switch_blur_n_sharpen.md)
 
 [90.10.20. `문지르기` 도구](./90-10-20-00-smudge.md)
 
@@ -1830,7 +1832,7 @@
 
 [90.10.21.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-21-02-00-key_modifier-ctrl.md)
 
-[90.10.21.2.1. 닷지/번 토글하기](./90-10-21-02-01-toggle_dodge_n_burn.md)
+[90.10.21.2.1. 칠하기 도구:`닷지/번` - Ctrl(⌘): 닷지/번 토글하기](./90-10-21-02-01-toggle_dodge_n_burn.md)
 
 [90.10.21.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-21-03-00-key_modifier-shift.md)
 

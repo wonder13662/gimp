@@ -1059,7 +1059,7 @@ module.exports = {
       ],
       [
         '15-05-09-pointer-dialog.md', 
-        '15.5.9. Pointer dialog'
+        '15.5.9. 포인터 대화상자(Pointer dialog)'
       ],
       [
         '15-05-10-symmetry-painting-dialog.md', 

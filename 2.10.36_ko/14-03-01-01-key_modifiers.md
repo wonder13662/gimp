@@ -18,45 +18,45 @@ Ctrl(⌘) 키를 누르는 것은 모든 칠하기 도구에 특별한 효과를
 
 <a id="90-10-07-01-01-a1"></a>
 
-#### [영상 90.10.7.1.1.a1. 칠하기 도구:그리기 붓 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 전경색 바꾸기](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/878059d8-bfee-451d-82bb-be5679427892"></video>
+#### [영상 90.10.7.1.1.a1. 칠하기 도구:그리기 붓 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 전경색 바꾸기](./90-10-07-01-01-switch_to_color_picker_fg.md#90-10-07-01-01-a1)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7647fcfc-a344-4e14-9820-11a9a3ee47a0"></video>
 
 [지우개](./14-03-09-00-eraser.md)에서 Ctrl(⌘) 키를 누르면 GIMP(김프)의 배경색으로 설정됩니다.
 
-<a id="90-10-07-01-01-a2"></a>
+<a id="90-10-07-01-02-a1"></a>
 
-#### [영상 90.10.7.1.1.a2. 칠하기 도구:지우개 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 배경색 바꾸기](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a2)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/69edb0c4-6ba7-4d3e-b258-371169744a64"></video>
+#### [영상 90.10.7.1.2.a1. 칠하기 도구:지우개 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 배경색 바꾸기](./90-10-07-01-02-switch_to_color_picker_bg.md#90-10-07-01-02-a1)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4b349494-35d1-47cc-9211-a3d8d90c38ed"></video>
 
 <a id="14-03-01-01-s1-02"></a>
 
 ### 1-2. 도장(Clone) 도구의 복제 지점을 바꾸기
-도장(Clone) 도구에서 Ctrl(⌘) 키를 누르면 마우스 포인터의 위치에 복사를 위한 참조 지점을 지정하는 모드로 바뀝니다.
+도장(Clone) 도구에서 Ctrl(⌘) 키를 누르면 마우스 포인터의 위치에 복사를 위한 참조 지점(원본)을 지정하는 모드로 바뀝니다.
 
-<a id="90-10-07-01-01-a3"></a>
+<a id="90-10-16-02-01-a1"></a>
 
-#### [영상 90.10.7.1.1.a3. 칠하기 도구:도장 - Ctrl(⌘) 키 - 도장 참조 지점 모드로 바꾸기](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a3)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f2b801a6-e6f7-4501-82ed-6ab4d1c98f1e"></video>
+#### [영상 90.10.16.2.1.a1. 칠하기 도구:`도장` - Ctrl(⌘) 키: 원본 선택](./90-10-16-02-01-select_the_source.md#90-10-16-02-01-a1)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3a4df05f-fc8a-4736-a5cb-4161269c23fa"></video>
 
 <a id="14-03-01-01-s1-03"></a>
 
 ### 1-3. `흐릿하게/선명하게`의 모드 전환
 `흐릿하게/선명하게` 도구에서 Ctrl(⌘) 키를 누르면 `선명하게` 모드로 바뀝니다. Ctrl(⌘) 키를 떼면 다시 `흐릿하게` 모드로 돌아갑니다.
 
-<a id="90-10-07-01-01-a4"></a>
+<a id="90-10-19-02-01-a1"></a>
 
-#### [영상 90.10.7.1.1.a4. 칠하기 도구:`흐릿하게/선명하게` - Ctrl(⌘) 키 누르면 `선명하게`, 떼면 `흐릿하게`](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a4)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9cba9a1c-c055-4345-a6b9-016943c5722e"></video>
+#### [영상 90.10.19.2.1.a1. 칠하기 도구:`흐릿하게/선명하게` - Ctrl(⌘) 키: 흐릿하게/선명하게 모드 바꾸기](./90-10-19-02-01-switch_blur_n_sharpen.md#90-10-19-02-01-a1)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/16fddf26-837b-49c8-ad13-999b5893d219"></video>
 
 <a id="14-03-01-01-s1-04"></a>
 
 ### 1-4. `닷지/번`의 모드 전환
 `닷지/번` 도구에서 Ctrl(⌘) 키를 누르면 `번` 모드로 바뀝니다. Ctrl(⌘) 키를 떼면 다시 `닷지` 모드로 돌아갑니다.
 
-<a id="90-10-07-01-01-a5"></a>
+<a id="90-10-21-02-01-a1"></a>
 
-#### [영상 90.10.7.1.1.a5. 칠하기 도구:`닷지/번` - Ctrl(⌘) 키](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a5)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7738f0a3-399f-4643-829e-c5ddec5ea1c4"></video>
+#### [영상 90.10.21.2.1.a1. 칠하기 도구:`닷지/번` - Ctrl(⌘): 닷지/번 토글하기](./90-10-21-02-01-toggle_dodge_n_burn.md#90-10-21-02-01-a1)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/168c68b2-35eb-40d9-b21f-b44404c04b66"></video>
 
 <a id="14-03-01-01-s2"></a>
 

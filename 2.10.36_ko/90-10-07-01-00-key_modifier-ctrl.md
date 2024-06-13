@@ -4,7 +4,9 @@
 
 ## 하위 페이지
 
-[90.10.7.1.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-07-01-01-switch_tool_mode.md)
+[90.10.7.1.1. 칠하기 도구:그리기 붓 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 전경색 바꾸기](./90-10-07-01-01-switch_to_color_picker_fg.md)
+
+[90.10.7.1.2. 칠하기 도구:지우개 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 배경색 바꾸기](./90-10-07-01-02-switch_to_color_picker_bg.md)
 
 ***
 

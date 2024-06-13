@@ -11,8 +11,8 @@
 
 <a id="90-10-07-01-01-a1"></a>
 
-#### [영상 90.10.7.1.1.a1. 칠하기 도구:그리기 붓 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 전경색 바꾸기](./90-10-07-01-01-switch_tool_mode.md#90-10-07-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/878059d8-bfee-451d-82bb-be5679427892"></video>
+#### [영상 90.10.7.1.1.a1. 칠하기 도구:그리기 붓 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 전경색 바꾸기](./90-10-07-01-01-switch_to_color_picker_fg.md#90-10-07-01-01-a1)
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7647fcfc-a344-4e14-9820-11a9a3ee47a0"></video>
 
 <a id="14-03-03-01-s2"></a>
 

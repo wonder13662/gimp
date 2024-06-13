@@ -10,7 +10,7 @@
 
 [90.10.21.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-21-02-00-key_modifier-ctrl.md)
 
-[90.10.21.2.1. 닷지/번 토글하기](./90-10-21-02-01-toggle_dodge_n_burn.md)
+[90.10.21.2.1. 칠하기 도구:`닷지/번` - Ctrl(⌘): 닷지/번 토글하기](./90-10-21-02-01-toggle_dodge_n_burn.md)
 
 [90.10.21.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-21-03-00-key_modifier-shift.md)
 
