@@ -9,7 +9,7 @@
 
 [14.5.2. 경로(Paths)](./14-05-02-00-paths.md)
 
-[14.5.3. 색상 추출 도구(Color picker)](./14-05-03-color-picker.md)
+[14.5.3. 색상 추출(Color picker)](./14-05-03-00-color-picker.md)
 
 [14.5.4. 확대 도구(Zoom)](./14-05-04-zoom.md)
 

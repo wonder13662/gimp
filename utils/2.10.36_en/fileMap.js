@@ -910,7 +910,7 @@ module.exports = {
         '14.5.2. Paths'
       ],
       [
-        '14-05-03-color-picker.md', 
+        '14-05-03-00-color-picker.md', 
         '14.5.3. Color picker'
       ],
       [

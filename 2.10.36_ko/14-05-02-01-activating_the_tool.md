@@ -1,6 +1,6 @@
 # 14.5.2.1. 도구 활성화하기(Activating the tools)
 
-<a id="14-04-14-01-s1"></a>
+<a id="14-05-02-01-s1"></a>
 
 ## 1. `이미지 메뉴 바` → `도구` → `경로`
 
@@ -14,7 +14,7 @@
 #### [영상 90.1.8.4.a101.1. `도구` → `경로` (Windows) (우리말)](./90-01-08-04-paths.md#90-01-08-04-a101-01)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/92952a93-ceea-4c31-9876-d448018bc1a3"></video>
 
-<a id="14-04-14-01-s2"></a>
+<a id="14-05-02-01-s2"></a>
 
 ## 2. 도구 상자에서 `경로` 클릭
 
@@ -28,7 +28,7 @@
 #### [영상 90.3.2.35.a2.1. `도구상자` → `경로` (Windows) (우리말)](./90-03-02-35-paths.md#90-03-02-35-a2-01)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9b101ca5-d0dd-44be-bd04-fd4f72b19ad0"></video>
 
-<a id="14-04-14-01-s3"></a>
+<a id="14-05-02-01-s3"></a>
 
 ## 3. 키보드 단축키 `B`
 

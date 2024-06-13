@@ -548,7 +548,21 @@
 
 [14.5.2.3.7. 경로따라 그리기(Stroke Path)](./14-05-02-03-07-stroke_path.md)
 
-[14.5.3. 색상 추출 도구(Color picker)](./14-05-03-color-picker.md)
+[14.5.3. 색상 추출(Color picker)](./14-05-03-00-color-picker.md)
+
+[14.5.3.1. 도구 활성화하기(Activating the tools)](./14-05-03-01-activating_the_tool.md)
+
+[14.5.3.2. 동작 변경키(Key modifiers)](./14-05-03-02-key_modifiers.md)
+
+[14.5.3.3. 옵션(Options)](./14-05-03-03-00-options.md)
+
+[14.5.3.3.1. 표본 평균(Sample Average)](./14-05-03-03-01-sample_average.md)
+
+[14.5.3.3.2. 표본 합치기(Sample Merged)](./14-05-03-03-02-sample_merged.md)
+
+[14.5.3.3.3. 대상 추출(Pick Target)](./14-05-03-03-03-pick_target.md)
+
+[14.5.3.3.4. 정보 창 사용(Use Info Window)](./14-05-03-03-04-use_info_window.md)
 
 [14.5.4. 확대 도구(Zoom)](./14-05-04-zoom.md)
 

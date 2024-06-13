@@ -50,7 +50,7 @@
 ## [14.5. Other](./14-05-00-other.md)
 ## [14.5.1. Overview](./14-05-01-overview.md)
 ## [14.5.2. Paths](./14-05-02-00-paths.md)
-## [14.5.3. Color picker](./14-05-03-color-picker.md)
+## [14.5.3. Color picker](./14-05-03-00-color-picker.md)
 ## [14.5.4. Zoom](./14-05-04-zoom.md)
 ## [14.5.5. Measure](./14-05-05-measure.md)
 ## [14.5.6. Text](./14-05-06-text.md)
