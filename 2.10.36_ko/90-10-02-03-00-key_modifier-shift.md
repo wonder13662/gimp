@@ -4,13 +4,13 @@
 
 ## 하위 페이지
 
-[90.10.2.3.1. 선택을 만들기 전에 Shift(⇧) 키를 누름](./90-10-02-03-01-before_selection.md)
+[90.10.2.3.1. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드](./90-10-02-03-01-hold_shift_before_clicking_to_add.md)
 
-[90.10.2.3.2. 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터](./90-10-02-03-02-before_selection.md)
+[90.10.2.3.2. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터](./90-10-02-03-02-hold_shift_before_clicking_to_add-mouse_pointer.md)
 
-[90.10.2.3.3. 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-02-03-03-before_selection.md)
+[90.10.2.3.3. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-02-03-03-hold_shift_before_clicking_to_add-mouse_pointer-tool_option-state_area.md)
 
-[90.10.2.3.4. 선택을 만든 후에 Shift(⇧) 키를 누름](./90-10-02-03-04-before_selection.md)
+[90.10.2.3.4. 선택 도구로 클릭 뒤에 Shift(⇧) 키를 누름: 고정 옵션 켜짐](./90-10-02-03-04-hold_shift_after_clicking_to_activate_fixed_option.md)
 
 ***
 

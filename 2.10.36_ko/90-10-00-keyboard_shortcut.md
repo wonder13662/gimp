@@ -42,11 +42,11 @@
 
 [90.10.1.6. Ctrl(⌘) + Alt(⌥):동작 변경키(Key modifiers)](./90-10-01-06-00-key_modifier-ctrl_alt.md)
 
-[90.10.1.6.1. Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그](./90-10-01-06-01-left_click-drag.md)
+[90.10.1.6.1. Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그: 선택한 콘텐츠 옮기기(빈자리 배경색 채우기)](./90-10-01-06-01-left_click-drag-fill_bg.md)
 
 [90.10.1.7. Shift(⇧) + Alt(⌥):동작 변경키(Key modifiers)](./90-10-01-07-00-key_modifier-shift_alt.md)
 
-[90.10.1.7.1. Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그](./90-10-01-07-01-left_click-drag.md)
+[90.10.1.7.1. Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그(원본 이미지 유지)](./90-10-01-07-01-left_click-drag-intact_source.md)
 
 [90.10.2. 타원 선택 도구](./90-10-02-00-ellipse_select.md)
 
@@ -56,33 +56,33 @@
 
 [90.10.2.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-02-02-00-key_modifier-ctrl.md)
 
-[90.10.2.2.1. 선택을 만들기 전에 Ctrl(⌘) 키를 누름](./90-10-02-02-01-before_selection.md)
+[90.10.2.2.1. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드](./90-10-02-02-01-hold_ctrl_before_clicking_to_subtract.md)
 
-[90.10.2.2.2. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터](./90-10-02-02-02-before_selection.md)
+[90.10.2.2.2. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드 - 마우스 포인터](./90-10-02-02-02-hold_ctrl_before_clicking_to_subtract-mouse_pointer.md)
 
-[90.10.2.2.3. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-02-02-03-before_selection.md)
+[90.10.2.2.3. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-02-02-03-hold_ctrl_before_clicking_to_subtract-mouse_pointer-tool_option-status_area.md)
 
-[90.10.2.2.4. 선택을 만든 후에 Ctrl(⌘) 키를 누름](./90-10-02-02-04-after_selection.md)
+[90.10.2.2.4. 선택 도구로 클릭 뒤에 Ctrl(⌘) 키를 누름: 중앙으로부터 확장](./90-10-02-02-04-hold_ctrl_after_clicking_to_expand_from_center.md)
 
 [90.10.2.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-02-03-00-key_modifier-shift.md)
 
-[90.10.2.3.1. 선택을 만들기 전에 Shift(⇧) 키를 누름](./90-10-02-03-01-before_selection.md)
+[90.10.2.3.1. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드](./90-10-02-03-01-hold_shift_before_clicking_to_add.md)
 
-[90.10.2.3.2. 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터](./90-10-02-03-02-before_selection.md)
+[90.10.2.3.2. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터](./90-10-02-03-02-hold_shift_before_clicking_to_add-mouse_pointer.md)
 
-[90.10.2.3.3. 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-02-03-03-before_selection.md)
+[90.10.2.3.3. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-02-03-03-hold_shift_before_clicking_to_add-mouse_pointer-tool_option-state_area.md)
 
-[90.10.2.3.4. 선택을 만든 후에 Shift(⇧) 키를 누름](./90-10-02-03-04-before_selection.md)
+[90.10.2.3.4. 선택 도구로 클릭 뒤에 Shift(⇧) 키를 누름: 고정 옵션 켜짐](./90-10-02-03-04-hold_shift_after_clicking_to_activate_fixed_option.md)
 
 [90.10.2.4. Ctrl(⌘) + Shift(⇧):동작 변경키(Key modifiers)](./90-10-02-04-00-key_modifier-ctrl_shift.md)
 
-[90.10.2.4.1. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-02-04-01-before_selection.md)
+[90.10.2.4.1. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드](./90-10-02-04-01-hold_ctrl_shift_before_clicking_to_intersect.md)
 
-[90.10.2.4.2. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름 - 마우스 포인터](./90-10-02-04-02-before_selection.md)
+[90.10.2.4.2. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드 - 마우스 포인터](./90-10-02-04-02-hold_ctrl_shift_before_clicking_to_intersect-mouse_pointer.md)
 
-[90.10.2.4.3. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-02-04-03-before_selection.md)
+[90.10.2.4.3. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-02-04-03-hold_ctrl_shift_before_clicking_to_intersect-mouse_pointer-tool_option-status_area.md)
 
-[90.10.2.4.4. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-02-04-04-after_selection.md)
+[90.10.2.4.4. 선택 도구로 클릭 뒤에 Ctrl(⌘) + Shift(⇧) 키를 누름: `중앙으로부터 확장` 옵션과 `고정(Fixed)` 옵션 켜짐](./90-10-02-04-04-hold_ctrl_shift_after_clicking_to_activate_expand_from_center_option_n_fixed_option.md)
 
 [90.10.3. 자유 선택 도구](./90-10-03-00-free_select.md)
 

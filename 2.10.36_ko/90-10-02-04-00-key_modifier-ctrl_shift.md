@@ -4,13 +4,13 @@
 
 ## 하위 페이지
 
-[90.10.2.4.1. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-02-04-01-before_selection.md)
+[90.10.2.4.1. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드](./90-10-02-04-01-hold_ctrl_shift_before_clicking_to_intersect.md)
 
-[90.10.2.4.2. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름 - 마우스 포인터](./90-10-02-04-02-before_selection.md)
+[90.10.2.4.2. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드 - 마우스 포인터](./90-10-02-04-02-hold_ctrl_shift_before_clicking_to_intersect-mouse_pointer.md)
 
-[90.10.2.4.3. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-02-04-03-before_selection.md)
+[90.10.2.4.3. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-02-04-03-hold_ctrl_shift_before_clicking_to_intersect-mouse_pointer-tool_option-status_area.md)
 
-[90.10.2.4.4. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-02-04-04-after_selection.md)
+[90.10.2.4.4. 선택 도구로 클릭 뒤에 Ctrl(⌘) + Shift(⇧) 키를 누름: `중앙으로부터 확장` 옵션과 `고정(Fixed)` 옵션 켜짐](./90-10-02-04-04-hold_ctrl_shift_after_clicking_to_activate_expand_from_center_option_n_fixed_option.md)
 
 ***
 

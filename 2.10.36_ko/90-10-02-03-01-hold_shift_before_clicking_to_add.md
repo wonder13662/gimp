@@ -1,8 +1,8 @@
-# 90.10.2.3.1. 선택을 만들기 전에 Shift(⇧) 키를 누름
+# 90.10.2.3.1. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드
 
 <a id="90-10-02-03-01-a1"></a>
 
-#### 영상 90.10.2.3.1.a1. 선택을 만들기 전에 Shift(⇧) 키를 누름
+#### 영상 90.10.2.3.1.a1. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/58d730c9-4403-4a29-a1c9-a28dc1cf2c5c"></video>
 
 [14.2.3.2. 동작 변경키(Key modifiers) - 영상 90.10.2.3.1.a1](./14-02-03-02-key_modifiers.md#90-10-02-03-01-a1)
