@@ -41,7 +41,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.4.12.2. 동작 변경키(Key modifiers)](./14-04-12-02-key_modifiers.md)
+[➡️ 다음: 14.5.2.2. 동작 변경키(Key modifiers)](./14-05-02-02-key_modifiers.md)
 
 [⬅️ 이전: 14.5.2. 경로(Paths)](./14-05-02-00-paths.md)
 
