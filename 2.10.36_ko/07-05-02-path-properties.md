@@ -29,12 +29,12 @@
 <a id="07-05-02-s3"></a>
 
 ## 3. 경로는 베지에 곡선
-GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입니다. 그러므로 경로는 고정점과 핸들(handle)에 의해 정의됩니다.
+GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입니다. 그러므로 경로는 [고정점](./19-glossaryx-path_anchor.md)과 [핸들(handle)](./19-glossaryx-path_handle.md)에 의해 정의됩니다.
 
 <a id="07-05-02-s4"></a>
 
 ## 4. 경로의 고정점(Anchor) 또는 시작점(start point)
-고정점(anchor)은 경로가 지나가는 점입니다. [시작점(start point)]()이라고도 합니다.
+[고정점(anchor)](./19-glossaryx-path_anchor.md)은 경로가 지나가는 점입니다. [시작점(start point)](./19-glossaryx-path_start_point.md)이라고도 합니다.
 
 <a id="90-03-02-35-a22"></a>
 
@@ -44,7 +44,7 @@ GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입
 <a id="07-05-02-s5"></a>
 
 ## 5. 경로의 핸들(Handle)
-핸들(handle)는 고정점을 지나가는 경로의 방향을 결정합니다. 각 고정점에는 두개의 핸들(handle)가 있습니다. [끝점(end point)]()이라고도 합니다.
+[핸들(handle)](./19-glossaryx-path_handle.md)는 [고정점](./19-glossaryx-path_anchor.md)을 지나가는 경로의 방향을 결정합니다. 각 고정점에는 두개의 핸들(handle)가 있습니다. [끝점(end point)](./19-glossaryx-path_end_point.md)이라고도 합니다.
 
 <a id="90-03-02-35-a23"></a>
 
@@ -54,7 +54,7 @@ GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입
 <a id="07-05-02-s6"></a>
 
 ## 6. 경로의 복잡도
-경로는 매우 복잡해질 수 있습니다. [경로](./14-05-02-00-paths.md) 도구로 직접 경로를 만들면 수십개의 고정점을 갖고 있는 정도일 것입니다. 그러나 선택을 경로로 바꾸거나, 글자를 경로로 바꾸면, 결과로 수백 혹은 수천개의 고정점이 될 수 있습니다.
+경로는 매우 복잡해질 수 있습니다. [경로](./14-05-02-00-paths.md) 도구로 직접 경로를 만들면 수십개의 [고정점](./19-glossaryx-path_anchor.md)을 갖고 있는 정도일 것입니다. 그러나 [선택](./07-01-00-the-selection.md)을 경로로 바꾸거나, 글자를 경로로 바꾸면, 결과로 수백 혹은 수천개의 고정점이 될 수 있습니다.
 
 <a id="90-04-05-a111"></a>
 
@@ -64,12 +64,12 @@ GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입
 <a id="07-05-02-s7"></a>
 
 ## 7. 컴포넌트
-경로는 여러 개의 컴포넌트를 가질 수 있습니다. "컴포넌트"란 선분에 의해 고정점(anchor point)이 모두 연결된 형태입니다. 경로가 여러 개의 컴포넌트를 가질 수 있기 때문에 경로를 여러 개의 분리된 선택으로 바꿀 수 있습니다.
+경로는 여러 개의 [컴포넌트](./19-glossaryx-path_component.md)를 가질 수 있습니다. "컴포넌트"란 [선분](./19-glossaryx-path_segment.md)에 의해 [고정점(anchor point)](./19-glossaryx-path_anchor.md)이 모두 연결된 형태입니다. 경로가 여러 개의 컴포넌트를 가질 수 있기 때문에 경로를 여러 개의 분리된 [선택](./07-01-00-the-selection.md)으로 바꿀 수 있습니다.
 
 <a id="07-05-02-s8"></a>
 
 ## 8. 컴포넌트의 상태: 닫힘(closed)과 열림(open)
-경로의 각 컴포넌트는 열림(open) 상태이거나 닫힘(closed) 상태입니다.
+경로의 각 [컴포넌트](./19-glossaryx-path_component.md)는 열림(open) 상태이거나 닫힘(closed) 상태입니다.
 
 <a id="90-04-05-a112"></a>
 
@@ -79,12 +79,12 @@ GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입
 <a id="07-05-02-s8-01"></a>
 
 ### 8-1. 닫힘(closed)
-"닫힘(closed)"은 컴포넌트의 마지막 고정점이 첫번째 고정점에 연결되어 있다는 뜻입니다.
+"닫힘(closed)"은 [컴포넌트](./19-glossaryx-path_component.md)의 마지막 [고정점](./19-glossaryx-path_anchor.md)이 첫번째 고정점에 연결되어 있다는 뜻입니다.
 
 <a id="07-05-02-s8-02"></a>
 
 ### 8-2. 열림(open)
-"열림(open)"은 컴포넌트의 마지막 고정점이 첫번째 고정점에 연결되어 있지 않다는 뜻입니다. 경로를 선택으로 바꾸면, 자동으로 "열림(open)" 상태의 컴포넌트의 첫번째 고정점과 마지막 고정점을 직선으로 이어 "닫힘(closed)" 상태의 컴포넌트로 바꿉니다.
+"열림(open)"은 [컴포넌트](./19-glossaryx-path_component.md)의 마지막 [고정점](./19-glossaryx-path_anchor.md)이 첫번째 고정점에 연결되어 있지 않다는 뜻입니다. 경로를 [선택](./07-01-00-the-selection.md)으로 바꾸면, 자동으로 "열림(open)" 상태의 컴포넌트의 첫번째 고정점과 마지막 고정점을 직선으로 이어 "닫힘(closed)" 상태의 컴포넌트로 바꿉니다.
 
 <a id="90-04-05-a113"></a>
 
@@ -94,9 +94,9 @@ GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입
 <a id="07-05-02-s9"></a>
 
 ## 9. 경로 선분(Path segment) 또는 선분(line segment)
-경로 선분(Path segment) 또는 선분(line segment)은 직선 혹은 곡선입니다. 경로의 모든 선분이 직선이면 "다각형(polygonal)"이라고 합니다. 
+[경로 선분(Path segment)](./19-glossaryx-path_path_segment.md) 또는 [선분(line segment)](./19-glossaryx-path_line_segment.md)은 직선 혹은 곡선입니다. 경로의 모든 선분이 직선이면 ["다각형(polygonal)"]()이라고 합니다. 
 
-핸들(handle)은 핸들의 길이가 0인 경우(초기값)은 고정점 바로 위에 있습니다. 핸들의 길이가 0인 경우는 경로 선분(Path segment)는 직선입니다. 핸들를 드래그해서 고정점에서 떨어뜨리면 경로 선분(Path segment)는 곡선이 됩니다.
+[핸들(handle)](./19-glossaryx-path_handle.md)은 핸들의 길이가 0인 경우(초기값)은 [고정점](./19-glossaryx-path_anchor.md) 바로 위에 있습니다. 핸들의 길이가 0인 경우는 경로 선분(Path segment)는 직선입니다. 핸들를 드래그해서 고정점에서 떨어뜨리면 경로 선분(Path segment)는 곡선이 됩니다.
 
 [관련 정보: 14.5.2.3.1. 편집 모드 - 디자인(Design Mode) - 1-2. 선분(Segment)](./14-05-02-03-01-design_mode.md#14-05-02-03-01-s1-02)
 
@@ -108,7 +108,7 @@ GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입
 <a id="07-05-02-s10"></a>
 
 ## 10. 경로는 매우 적은 리소스를 씁니다
-경로의 좋은 점은 매우 적은 리소스를 사용한다는 점입니다. 이미지와 비교해보면 더욱 그렇습니다. 경로를 램에 저장할 때는 고정점과 핸들의 좌표만 있으면 됩니다. 그러므로 시스템에 무리를 주지 않고 이미지 안에 수백개의 경로를 만드는 것도 가능합니다. 수천개의 선분를 가지는 경로도 전형적인 레이어나 채널과 비교해보면 최소한의 리소스만 사용합니다.
+경로의 좋은 점은 매우 적은 리소스를 사용한다는 점입니다. 이미지와 비교해보면 더욱 그렇습니다. 경로를 램에 저장할 때는 [고정점](./19-glossaryx-path_anchor.md)과 [핸들](./19-glossaryx-path_handle.md)의 좌표만 있으면 됩니다. 그러므로 시스템에 무리를 주지 않고 이미지 안에 수백개의 경로를 만드는 것도 가능합니다. 수천개의 [선분](./19-glossaryx-path_segment.md)를 가지는 경로도 전형적인 레이어나 채널과 비교해보면 최소한의 리소스만 사용합니다.
 
 <a id="07-05-02-s11"></a>
 
