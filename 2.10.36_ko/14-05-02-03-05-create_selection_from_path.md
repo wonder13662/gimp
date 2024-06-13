@@ -74,7 +74,7 @@ Ctrl(⌘) 키를 누른 상태에서 버튼을 누르면, 선택에서 경로 �
 
 <a id="90-10-35-02-06-a1"></a>
 
-#### [영상 90.10.35.2.6.a1. Ctrl(⌘): 경로를 선택에서 빼기](./90-10-35-00-path.md#90-10-35-02-06-a1)
+#### [영상 90.10.35.2.6.a1. Ctrl(⌘): 경로를 선택에서 빼기](./90-10-35-02-06-subtract_path_from_selection.md#90-10-35-02-06-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6fd2f3a5-86b3-40f3-884e-e22c0794c6a1"></video>
 
 <a id="14-05-02-03-05-s5-03"></a>
