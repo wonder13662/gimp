@@ -27,10 +27,6 @@ Toggles between Design and Move.
 
 [⬆️ 위: 14.5. 그 밖의 도구들(Other)](./14-05-00-other.md)
 
-[⬆️ 위: 14.5.2. 워프 변형(Warp transform)](./14-04-14-00-warp-transform.md)
-
-[⬆️ 위: 14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)
-
 [⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)
 
 [🏠 홈](./00-home.md)
