@@ -119,7 +119,7 @@ Ctrl(⌘)을 누른채로 닫을 경로 위에 마우스 커서를 올리면 `�
 <a id="07-05-01-s5-01"></a>
 
 ### 5-1. 경로 속성 - 선분(line segment)
-[선분](./19-glossaryx-path_segment.md)은 두 개의 점 사이의 직선을 가리키는 말입니다. 아래의 이미지에서 두 개의 점 사이의 선이 선분입니다. 선분은 2개의 [시작점](./19-glossaryx-path_start_point.md)과 2개의 [끝점](./19-glossaryx-path_end_point.md)을 가집니다. 사전적 정의와는 다르게 곡선으로 보이지만, 끝점과 [방향선](./19-glossaryx-path_direction_line.md)을 조정하기 전에는 직선이므로 선분이라는 표현을 썼습니다. 끝점과 방향선을 조절해서 구부릴 수 있습니다. [경로 선분(Path Segment)](./19-glossaryx-path_path_segment.md)라고도 합니다.
+[선분](./19-glossaryx-path_segment.md)은 두 개의 점 사이의 직선을 가리키는 말입니다. 아래의 이미지에서 두 개의 점 사이의 선이 선분입니다. 선분은 2개의 [시작점](./19-glossaryx-path_start_point.md)과 여러 개의 [끝점](./19-glossaryx-path_end_point.md)을 가집니다. 사전적 정의와는 다르게 곡선으로 보이지만, 끝점과 [방향선](./19-glossaryx-path_direction_line.md)을 조정하기 전에는 직선이므로 선분이라는 표현을 썼습니다. 끝점과 방향선을 조절해서 구부릴 수 있습니다. [경로 선분(Path Segment)](./19-glossaryx-path_path_segment.md)라고도 합니다.
 
 <a id="90-03-02-35-a21"></a>
 
