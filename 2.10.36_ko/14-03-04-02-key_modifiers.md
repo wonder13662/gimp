@@ -14,13 +14,13 @@ Ctrl(⌘) 키를 누르면 [그리기 붓](./14-03-07-00-paintbrush.md)과 비�
 
 <a id="90-10-08-02-01-a1"></a>
 
-#### [영상 90.10.8.2.1.a1. 칠하기 도구:`영역 채우기` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(전경색)](./90-10-08-02-01-switch_tool_mode.md#90-10-08-02-01-a1)
+#### [영상 90.10.8.2.1.a1. 칠하기 도구:`영역 채우기` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(전경색)](./90-10-08-02-01-switch_to_color_picker_fg.md#90-10-08-02-01-a1)
 
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4502c02b-fdf7-4ead-9486-bc1c8e9bd7b4"></video>
 
 <a id="90-10-08-05-01-a1"></a>
 
-#### [영상 90.10.8.5.1.a1. 칠하기 도구:`영역 채우기` - Ctrl(⌘) + Alt(⌥) 키: 색상 추출 도구로 바꾸기(배경색)](./90-10-08-02-01-switch_tool_mode.md#90-10-08-02-01-a1)
+#### [영상 90.10.8.5.1.a1. 칠하기 도구:`영역 채우기` - Ctrl(⌘) + Alt(⌥) 키: 색상 추출 도구로 바꾸기(배경색)](./90-10-08-02-01-switch_to_color_picker_fg.md#90-10-08-02-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e837e7a6-1841-4a61-9a30-a1787ec356f3"></video>
 
 <a id="14-03-04-02-s2"></a>

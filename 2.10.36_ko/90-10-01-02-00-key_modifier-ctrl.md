@@ -4,12 +4,12 @@
 
 ## 하위 페이지
 
-[90.10.1.2.1. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터](./90-10-01-02-key_modifier-ctrl.md)
+[90.10.1.2.1. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드 - 마우스 포인터](./90-10-01-02-key_modifier-ctrl.md)
 
-[90.10.1.2.2. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-02-02-before_selection.md)
-[90.10.1.2.3. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 빼기 모드](./90-10-01-02-03-before_selection.md)
+[90.10.1.2.2. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-02-02-hold_ctrl_before_clicking_to_subtract-mouse_pointer-tool_option-status_area.md)
+[90.10.1.2.3. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드](./90-10-01-02-03-hold_ctrl_before_clicking_to_subtract.md)
 
-[90.10.1.2.4. 선택을 만든 후에 Ctrl(⌘) 키를 누름 - 클릭 지점 중심 확대/축소](./90-10-01-02-04-after_selection.md)
+[90.10.1.2.4. 선택 도구로 클릭 뒤에 Ctrl(⌘) 키를 누름 - 중앙으로부터 확장](./90-10-01-02-04-hold_ctrl_after_clicking_to_expand_from_center.md)
 
 ***
 

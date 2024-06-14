@@ -1,8 +1,8 @@
-# 90.10.1.4.4. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름
+# 90.10.1.4.4. 선택 도구로 클릭 뒤에 Ctrl(⌘) + Shift(⇧) 키를 누름: `중앙으로부터 확장` 옵션과 `고정(Fixed)` 옵션 켜짐
 
 <a id="90-10-01-04-04-a1"></a>
 
-#### 영상 90.10.1.4.4.a1. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름
+#### 영상 90.10.1.4.4.a1. 선택 도구로 클릭 뒤에 Ctrl(⌘) + Shift(⇧) 키를 누름: `중앙으로부터 확장` 옵션과 `고정(Fixed)` 옵션 켜짐
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/97ebc183-71d3-4642-93fa-bdb8dabc799c"></video>
 
 [14.2.1.1. 동작 변경키(Key modifiers) - 영상 90.10.1.4.4.a1](./14-02-01-01-key_modifiers.md#90-10-01-04-04-a1)

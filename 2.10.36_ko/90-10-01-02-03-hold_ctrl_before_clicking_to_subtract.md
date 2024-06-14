@@ -1,8 +1,8 @@
-# 90.10.1.2.3. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 빼기 모드
+# 90.10.1.2.3. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드
 
 <a id="90-10-01-02-03-a1"></a>
 
-#### 영상 90.10.1.2.3.a1. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 빼기 모드
+#### 영상 90.10.1.2.3.a1. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1aa010b3-2198-44d2-a4d8-35fb9bf64d91"></video>
 
 [14.2.1.1. 동작 변경키(Key modifiers) - 영상 90.10.1.2.3.a1](./14-02-01-01-key_modifiers.md#90-10-01-02-03-a1)

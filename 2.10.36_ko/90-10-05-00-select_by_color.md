@@ -16,7 +16,7 @@
 
 [90.10.5.3. Alt(⌥):동작 변경키(Key modifiers)](./90-10-05-03-00-key_modifier-alt.md)
 
-[90.10.5.3.1. 선택 영역 옮기기](./90-10-05-03-01-move_selection.md)
+[90.10.5.3.1. 방향키로 선택 영역 옮기기](./90-10-05-03-01-move_selection_by_arrow_keys.md)
 
 ***
 

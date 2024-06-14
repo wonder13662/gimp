@@ -24,7 +24,7 @@
 
 <a id="90-10-04-03-01-a1"></a>
 
-#### [영상 90.10.4.3.1.a1. 퍼지 선택 도구 - 선택 영역 옮기기](./90-10-04-03-01-move_selection.md#90-10-04-03-01-a1)
+#### [영상 90.10.4.3.1.a1. 퍼지 선택 도구 - 방향키로 선택 영역 옮기기](./90-10-04-03-01-move_selection_by_arrow_keys.md#90-10-04-03-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bf4655ea-f943-4ba5-9a66-03f5ea1a6cca"></video>
 
 ***

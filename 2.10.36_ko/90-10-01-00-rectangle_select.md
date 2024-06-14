@@ -10,33 +10,33 @@
 
 [90.10.1.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-01-02-key_modifier-ctrl.md)
 
-[90.10.1.2.1. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터](./90-10-01-02-key_modifier-ctrl.md)
+[90.10.1.2.1. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드 - 마우스 포인터](./90-10-01-02-key_modifier-ctrl.md)
 
-[90.10.1.2.2. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-02-02-before_selection.md)
+[90.10.1.2.2. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-02-02-hold_ctrl_before_clicking_to_subtract-mouse_pointer-tool_option-status_area.md)
 
-[90.10.1.2.3. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 빼기 모드](./90-10-01-02-03-before_selection.md)
+[90.10.1.2.3. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드](./90-10-01-02-03-hold_ctrl_before_clicking_to_subtract.md)
 
-[90.10.1.2.4. 선택을 만든 후에 Ctrl(⌘) 키를 누름 - 클릭 지점 중심 확대/축소](./90-10-01-02-04-after_selection.md)
+[90.10.1.2.4. 선택 도구로 클릭 뒤에 Ctrl(⌘) 키를 누름 - 중앙으로부터 확장](./90-10-01-02-04-hold_ctrl_after_clicking_to_expand_from_center.md)
 
 [90.10.1.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-01-03-00-key_modifier-shift.md)
 
-[90.10.1.3.1. 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터](./90-10-01-03-01-before_selection.md)
+[90.10.1.3.1. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터](./90-10-01-03-01-before_selection.md)
 
-[90.10.1.3.2. 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-03-02-before_selection.md)
+[90.10.1.3.2. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-03-02-hold_shift_before_clicking_to_add-mouse_pointer-tool_option-status_area.md)
 
-[90.10.1.3.3. 선택을 만들기 전에 Shift(⇧) 키를 누름](./90-10-01-03-03-before_selection.md)
+[90.10.1.3.3. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드](./90-10-01-03-03-hold_shift_before_clicking_to_add.md)
 
-[90.10.1.3.4. 선택을 만든 후에 Shift(⇧) 키를 누름](./90-10-01-03-04-after_selection.md)
+[90.10.1.3.4. 선택 도구로 클릭 뒤에 Shift(⇧) 키를 누름: 고정 옵션 켜짐](./90-10-01-03-04-hold_shift_after_clicking_to_activate_fixed_option.md)
 
 [90.10.1.4. Ctrl(⌘) + Shift(⇧):동작 변경키(Key modifiers)](./90-10-01-04-00-key_modifier-ctrl_shift.md)
 
-[90.10.1.4.1. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름 - 마우스 포인터](./90-10-01-03-05-before_selection.md)
+[90.10.1.4.1. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드 - 마우스 포인터](./90-10-01-03-05-before_selection.md)
 
-[90.10.1.4.2. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-04-02-before_selection.md)
+[90.10.1.4.2. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-04-02-hold_ctrl_shift_before_clicking_to_intersect-mouse_pointer-tool_option-status_area.md)
 
-[90.10.1.4.3. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-01-04-03-before_selection.md)
+[90.10.1.4.3. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드](./90-10-01-04-03-hold_ctrl_shift_before_clicking_to_intersect.md)
 
-[90.10.1.4.4. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-01-04-04-after_selection.md)
+[90.10.1.4.4. 선택 도구로 클릭 뒤에 Ctrl(⌘) + Shift(⇧) 키를 누름: `중앙으로부터 확장` 옵션과 `고정(Fixed)` 옵션 켜짐](./90-10-01-04-04-hold_ctrl_shift_after_clicking_to_activate_expand_from_center_option_n_fixed_option.md)
 
 [90.10.1.5. Alt(⌥):동작 변경키(Key modifiers)](./90-10-01-05-00-key_modifier-alt.md)
 

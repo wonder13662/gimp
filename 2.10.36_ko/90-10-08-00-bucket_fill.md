@@ -10,7 +10,7 @@
 
 [90.10.8.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-08-02-00-key_modifier-ctrl.md)
 
-[90.10.8.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-08-02-01-switch_tool_mode.md)
+[90.10.8.2.1. 칠하기 도구:`영역 채우기` - Ctrl(⌘) 키: 색상 추출 도구(Color Picker)로 바꾸기](./90-10-08-02-01-switch_to_color_picker_fg.md)
 
 [90.10.8.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-08-03-00-key_modifier-shift.md)
 
@@ -22,7 +22,7 @@
 
 [90.10.8.5. Ctrl(⌘) + Alt(⌥):동작 변경키(Key modifiers)](./90-10-08-05-00-key_modifier-ctrl_alt.md)
 
-[90.10.8.5.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-08-05-01-switch_tool_mode.md)
+[90.10.8.5.1. 칠하기 도구:`영역 채우기` - Ctrl(⌘) + Alt(⌥) 키: 색상 추출 도구로 바꾸기(배경색)](./90-10-08-05-01-switch_to_color_picker_bg.md)
 
 ***
 

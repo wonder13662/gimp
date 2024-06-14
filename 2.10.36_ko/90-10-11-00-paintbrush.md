@@ -10,7 +10,7 @@
 
 [90.10.11.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-11-02-00-key_modifier-ctrl.md)
 
-[90.10.11.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-11-02-01-switch_to_color_picker.md)
+[90.10.11.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-11-02-01-switch_to_color_picker_fg.md)
 
 [90.10.11.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-11-03-00-key_modifier-shift.md)
 

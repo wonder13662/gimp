@@ -23,7 +23,7 @@
 
 <a id="90-10-05-03-01-a1"></a>
 
-#### [영상 90.10.5.3.1.a1. `색상으로 선택` - 선택 영역 옮기기](./90-10-05-03-01-move_selection.md#90-10-05-03-01-a1)
+#### [영상 90.10.5.3.1.a1. `색상으로 선택` - 방향키로 선택 영역 옮기기](./90-10-05-03-01-move_selection_by_arrow_keys.md#90-10-05-03-01-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/96d9db17-d423-4889-acac-a87780e0c190"></video>
 
 ***

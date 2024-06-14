@@ -4,7 +4,7 @@
 
 ## 하위 페이지
 
-[90.10.8.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-08-02-01-switch_tool_mode.md)
+[90.10.8.2.1. 칠하기 도구:`영역 채우기` - Ctrl(⌘) 키: 색상 추출 도구(Color Picker)로 바꾸기](./90-10-08-02-01-switch_to_color_picker_fg.md)
 
 ***
 

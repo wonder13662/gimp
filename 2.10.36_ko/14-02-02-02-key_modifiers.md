@@ -10,19 +10,19 @@
 
 <a id="90-10-01-02-03-a1"></a>
 
-#### [영상 90.10.1.2.3.a1. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 빼기 모드](./90-10-01-02-03-before_selection.md#90-10-01-02-03-a1)
+#### [영상 90.10.1.2.3.a1. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드](./90-10-01-02-03-hold_ctrl_before_clicking_to_subtract.md#90-10-01-02-03-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1aa010b3-2198-44d2-a4d8-35fb9bf64d91"></video>
 
 Ctrl(⌘)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시 영역의 변화는 아래를 참고해주세요.
 
 <a id="90-10-01-02-01-a1"></a>
 
-#### [그림 90.10.1.2.1.a1. 사각 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터](./90-10-01-02-01-before_selection.md)
+#### [그림 90.10.1.2.1.a1. 사각 선택 도구 - 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드 - 마우스 포인터](./90-10-01-02-01-hold_ctrl_before_clicking_to_subtract-mouse_pointer.md)
 ![90-10-01-02-01-a1](https://github.com/wonder13662/gimp/assets/15767104/5a1a2504-84b5-45b8-ac02-6ddd73bfc636)
 
 <a id="90-10-01-02-02-a1"></a>
 
-#### [그림 90.10.1.2.2.a1. 사각 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-02-02-before_selection.md)
+#### [그림 90.10.1.2.2.a1. 사각 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-02-02-hold_ctrl_before_clicking_to_subtract-mouse_pointer-tool_option-status_area.md)
 ![90-10-01-02-02-a1](https://github.com/wonder13662/gimp/assets/15767104/d194b607-f4b4-4fb6-ac63-5e9c499edad4)
 
 ### 1-2. 선택을 만든 후에 Ctrl(⌘) 키를 누름
@@ -30,7 +30,7 @@ Ctrl(⌘)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시 
 
 <a id="90-10-01-02-04-a1"></a>
 
-#### [영상 90.10.1.2.4.a1. 선택을 만든 후에 Ctrl(⌘) 키를 누름 - 클릭 지점 중심 확대/축소](./90-10-00-keyboard_shortcut.md#90-10-01-02-04-a1)
+#### [영상 90.10.1.2.4.a1. 선택 도구로 클릭 뒤에 Ctrl(⌘) 키를 누름 - 중앙으로부터 확장](./90-10-00-keyboard_shortcut.md#90-10-01-02-04-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ab044c3b-b060-42be-870f-f505d08aebb8"></video>
 
 ## 2. Shift(⇧)
@@ -39,19 +39,19 @@ Ctrl(⌘)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시 
 
 <a id="90-10-01-03-03-a1"></a>
 
-#### [영상 90.10.1.3.3..a1. 선택을 만들기 전에 Shift(⇧) 키를 누름](./90-10-01-03-03-before_selection.md#90-10-01-03-03-a1)
+#### [영상 90.10.1.3.3..a1. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드](./90-10-01-03-03-hold_shift_before_clicking_to_add.md#90-10-01-03-03-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1f578f18-d0d4-4397-aef1-7d725af1a1a9"></video>
 
 Shift(⇧)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시 영역의 변화는 아래를 참고해주세요.
 
 <a id="90-10-01-03-01-a1"></a>
 
-#### [그림 90.10.1.3.1.a1. 사각 선택 도구 - 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터](./90-10-01-03-01-before_selection.md#90-10-01-03-01-a1)
+#### [그림 90.10.1.3.1.a1. 사각 선택 도구 - 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터](./90-10-01-03-01-before_selection.md#90-10-01-03-01-a1)
 ![90-10-01-03-01-a1](https://github.com/wonder13662/gimp/assets/15767104/9e74c029-ce2b-4982-9f5e-d100ca631697)
 
 <a id="90-10-01-03-02-a1"></a>
 
-#### [그림 90.10.1.3.2.a1. 사각 선택 도구 - 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-03-02-before_selection.md#90-10-01-03-02-a1)
+#### [그림 90.10.1.3.2.a1. 사각 선택 도구 - 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-03-02-hold_shift_before_clicking_to_add-mouse_pointer-tool_option-status_area.md#90-10-01-03-02-a1)
 ![90-10-01-03-02-a1](https://github.com/wonder13662/gimp/assets/15767104/54d6b5cc-b1a1-495a-9027-a8385d25369b)
 
 ### 2-2. 선택을 만든 후에 Shift(⇧) 키를 누름
@@ -59,7 +59,7 @@ Shift(⇧)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시
 
 <a id="90-10-01-03-04-a1"></a>
 
-#### [영상 90.10.1.3.4.a1. 선택을 만든 후에 Shift(⇧) 키를 누름](./90-10-01-03-04-after_selection.md#90-10-01-03-04-a1)
+#### [영상 90.10.1.3.4.a1. 선택 도구로 클릭 뒤에 Shift(⇧) 키를 누름: 고정 옵션 켜짐](./90-10-01-03-04-hold_shift_after_clicking_to_activate_fixed_option.md#90-10-01-03-04-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c745012f-36ea-42e6-92b9-2a3b69a80d68"></video>
 
 ## 3. Ctrl(⌘) + Shift(⇧)
@@ -68,17 +68,17 @@ Shift(⇧)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시
 
 <a id="90-10-01-04-01-a1"></a>
 
-#### [그림 90.10.1.4.1.a1. 사각 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름 - 마우스 포인터](./90-10-01-04-01-before_selection.md#90-10-01-04-01-a1)
+#### [그림 90.10.1.4.1.a1. 사각 선택 도구 - 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드 - 마우스 포인터](./90-10-01-04-01-hold_ctrl_shift_before_clicking_to_intersect-mouse_pointer.md#90-10-01-04-01-a1)
 ![90-10-01-04-01-a1](https://github.com/wonder13662/gimp/assets/15767104/0935daf6-5926-4ae6-8512-b79ed7b53420)
 
 <a id="90-10-01-04-02-a1"></a>
 
-#### [그림 90.10.1.4.2.a1. 사각 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-04-02-before_selection.md#90-10-01-04-02-a1)
+#### [그림 90.10.1.4.2.a1. 사각 선택 도구 - 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-04-02-hold_ctrl_shift_before_clicking_to_intersect-mouse_pointer-tool_option-status_area.md#90-10-01-04-02-a1)
 ![90-10-01-04-02-a1](https://github.com/wonder13662/gimp/assets/15767104/ac4fe530-5692-4fd6-8d04-f994e67bc2e8)
 
 <a id="90-10-01-04-03-a1"></a>
 
-#### [영상 90.10.1.4.3.a1. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-01-04-03-before_selection.md#90-10-01-04-03-a1)
+#### [영상 90.10.1.4.3.a1. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드](./90-10-01-04-03-hold_ctrl_shift_before_clicking_to_intersect.md#90-10-01-04-03-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/adf540cb-fdc9-4d79-abc0-43763ac3c7ea"></video>
 
 ### 3-2. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름
@@ -86,7 +86,7 @@ Shift(⇧)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시
 
 <a id="90-10-01-04-04-a1"></a>
 
-#### [영상 90.10.1.4.4.a1. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-01-04-04-after_selection.md#90-10-01-04-04-a1)
+#### [영상 90.10.1.4.4.a1. 선택 도구로 클릭 뒤에 Ctrl(⌘) + Shift(⇧) 키를 누름: `중앙으로부터 확장` 옵션과 `고정(Fixed)` 옵션 켜짐](./90-10-01-04-04-hold_ctrl_shift_after_clicking_to_activate_expand_from_center_option_n_fixed_option.md#90-10-01-04-04-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/97ebc183-71d3-4642-93fa-bdb8dabc799c"></video>
 
 ***

@@ -13,7 +13,7 @@ Ctrl(⌘) 키를 누른 채, 선택을 만들 경우, 상황에 따라 서로 �
 
 <a id="90-10-01-02-03-a1"></a>
 
-#### [영상 90.10.1.2.3.a1. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 빼기 모드](./90-10-01-02-03-before_selection.md#90-10-01-02-03-a1)
+#### [영상 90.10.1.2.3.a1. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드](./90-10-01-02-03-hold_ctrl_before_clicking_to_subtract.md#90-10-01-02-03-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1aa010b3-2198-44d2-a4d8-35fb9bf64d91"></video>
 
 ### 1-2. 선택을 만든 후에 Ctrl(⌘) 키를 누름
@@ -21,7 +21,7 @@ Ctrl(⌘) 키를 누른 채, 선택을 만들 경우, 상황에 따라 서로 �
 
 <a id="90-10-01-02-04-a1"></a>
 
-#### [영상 90.10.1.2.4.a1. 선택을 만든 후에 Ctrl(⌘) 키를 누름 - 클릭 지점 중심 확대/축소](./90-10-00-keyboard_shortcut.md#90-10-01-02-04-a1)
+#### [영상 90.10.1.2.4.a1. 선택 도구로 클릭 뒤에 Ctrl(⌘) 키를 누름 - 중앙으로부터 확장](./90-10-00-keyboard_shortcut.md#90-10-01-02-04-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ab044c3b-b060-42be-870f-f505d08aebb8"></video>
 
 <a id="14-02-01-01-s2"></a>
@@ -48,7 +48,7 @@ Shift(⇧) 키를 누르고 선택을 만들 경우, 상황에 따라 서로 다
 
 <a id="90-10-01-03-03-a1"></a>
 
-#### [영상 90.10.1.3.3..a1. 선택을 만들기 전에 Shift(⇧) 키를 누름](./90-10-01-03-03-before_selection.md#90-10-01-03-03-a1)
+#### [영상 90.10.1.3.3..a1. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드](./90-10-01-03-03-hold_shift_before_clicking_to_add.md#90-10-01-03-03-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1f578f18-d0d4-4397-aef1-7d725af1a1a9"></video>
 
 <a id="14-02-01-01-s3-02"></a>
@@ -58,7 +58,7 @@ Shift(⇧) 키를 누르고 선택을 만들 경우, 상황에 따라 서로 다
 
 <a id="90-10-01-03-04-a1"></a>
 
-#### [영상 90.10.1.3.4.a1. 선택을 만든 후에 Shift(⇧) 키를 누름](./90-10-01-03-04-after_selection.md#90-10-01-03-04-a1)
+#### [영상 90.10.1.3.4.a1. 선택 도구로 클릭 뒤에 Shift(⇧) 키를 누름: 고정 옵션 켜짐](./90-10-01-03-04-hold_shift_after_clicking_to_activate_fixed_option.md#90-10-01-03-04-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c745012f-36ea-42e6-92b9-2a3b69a80d68"></video>
 
 <a id="14-02-01-01-s4"></a>
@@ -72,7 +72,7 @@ Ctrl(⌘) + Shift(⇧) 키를 누르면 사용중인 도구에 따라 다양한 
 
 <a id="90-10-01-04-04-a1"></a>
 
-#### [영상 90.10.1.4.4.a1. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-01-04-04-after_selection.md#90-10-01-04-04-a1)
+#### [영상 90.10.1.4.4.a1. 선택 도구로 클릭 뒤에 Ctrl(⌘) + Shift(⇧) 키를 누름: `중앙으로부터 확장` 옵션과 `고정(Fixed)` 옵션 켜짐](./90-10-01-04-04-hold_ctrl_shift_after_clicking_to_activate_expand_from_center_option_n_fixed_option.md#90-10-01-04-04-a1)
 <video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/97ebc183-71d3-4642-93fa-bdb8dabc799c"></video>
 
 <a id="14-02-01-01-s5"></a>

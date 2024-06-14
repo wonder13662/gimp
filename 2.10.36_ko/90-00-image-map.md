@@ -1478,33 +1478,33 @@
 
 [90.10.1.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-01-02-key_modifier-ctrl.md)
 
-[90.10.1.2.1. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터](./90-10-01-02-key_modifier-ctrl.md)
+[90.10.1.2.1. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드 - 마우스 포인터](./90-10-01-02-key_modifier-ctrl.md)
 
-[90.10.1.2.2. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-02-02-before_selection.md)
+[90.10.1.2.2. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-02-02-hold_ctrl_before_clicking_to_subtract-mouse_pointer-tool_option-status_area.md)
 
-[90.10.1.2.3. 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 빼기 모드](./90-10-01-02-03-before_selection.md)
+[90.10.1.2.3. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드](./90-10-01-02-03-hold_ctrl_before_clicking_to_subtract.md)
 
-[90.10.1.2.4. 선택을 만든 후에 Ctrl(⌘) 키를 누름 - 클릭 지점 중심 확대/축소](./90-10-01-02-04-after_selection.md)
+[90.10.1.2.4. 선택 도구로 클릭 뒤에 Ctrl(⌘) 키를 누름 - 중앙으로부터 확장](./90-10-01-02-04-hold_ctrl_after_clicking_to_expand_from_center.md)
 
 [90.10.1.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-01-03-00-key_modifier-shift.md)
 
-[90.10.1.3.1. 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터](./90-10-01-03-01-before_selection.md)
+[90.10.1.3.1. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터](./90-10-01-03-01-before_selection.md)
 
-[90.10.1.3.2. 선택을 만들기 전에 Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-03-02-before_selection.md)
+[90.10.1.3.2. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-03-02-hold_shift_before_clicking_to_add-mouse_pointer-tool_option-status_area.md)
 
-[90.10.1.3.3. 선택을 만들기 전에 Shift(⇧) 키를 누름](./90-10-01-03-03-before_selection.md)
+[90.10.1.3.3. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드](./90-10-01-03-03-hold_shift_before_clicking_to_add.md)
 
-[90.10.1.3.4. 선택을 만든 후에 Shift(⇧) 키를 누름](./90-10-01-03-04-after_selection.md)
+[90.10.1.3.4. 선택 도구로 클릭 뒤에 Shift(⇧) 키를 누름: 고정 옵션 켜짐](./90-10-01-03-04-hold_shift_after_clicking_to_activate_fixed_option.md)
 
 [90.10.1.4. Ctrl(⌘) + Shift(⇧):동작 변경키(Key modifiers)](./90-10-01-04-00-key_modifier-ctrl_shift.md)
 
-[90.10.1.4.1. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름 - 마우스 포인터](./90-10-01-03-05-before_selection.md)
+[90.10.1.4.1. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드 - 마우스 포인터](./90-10-01-03-05-before_selection.md)
 
-[90.10.1.4.2. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-04-02-before_selection.md)
+[90.10.1.4.2. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-04-02-hold_ctrl_shift_before_clicking_to_intersect-mouse_pointer-tool_option-status_area.md)
 
-[90.10.1.4.3. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-01-04-03-before_selection.md)
+[90.10.1.4.3. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드](./90-10-01-04-03-hold_ctrl_shift_before_clicking_to_intersect.md)
 
-[90.10.1.4.4. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름](./90-10-01-04-04-after_selection.md)
+[90.10.1.4.4. 선택 도구로 클릭 뒤에 Ctrl(⌘) + Shift(⇧) 키를 누름: `중앙으로부터 확장` 옵션과 `고정(Fixed)` 옵션 켜짐](./90-10-01-04-04-hold_ctrl_shift_after_clicking_to_activate_expand_from_center_option_n_fixed_option.md)
 
 [90.10.1.5. Alt(⌥):동작 변경키(Key modifiers)](./90-10-01-05-00-key_modifier-alt.md)
 
@@ -1574,7 +1574,7 @@
 
 [90.10.4.3. Alt(⌥):동작 변경키(Key modifiers)](./90-10-04-03-00-key_modifier-alt.md)
 
-[90.10.4.3.1. 선택 영역 옮기기](./90-10-04-03-01-move_selection.md)
+[90.10.4.3.1. 방향키로 선택 영역 옮기기](./90-10-04-03-01-move_selection_by_arrow_keys.md)
 
 [90.10.5. 색상으로 선택 도구](./90-10-05-00-select_by_color.md)
 
@@ -1590,7 +1590,7 @@
 
 [90.10.5.3. Alt(⌥):동작 변경키(Key modifiers)](./90-10-05-03-00-key_modifier-alt.md)
 
-[90.10.5.3.1. 선택 영역 옮기기](./90-10-05-03-01-move_selection.md)
+[90.10.5.3.1. 방향키로 선택 영역 옮기기](./90-10-05-03-01-move_selection_by_arrow_keys.md)
 
 [90.10.6. `똑똑한 가위` 도구](./90-10-06-00-intelligent_scissors.md)
 
@@ -1654,7 +1654,7 @@
 
 [90.10.8.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-08-02-00-key_modifier-ctrl.md)
 
-[90.10.8.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-08-02-01-switch_tool_mode.md)
+[90.10.8.2.1. 칠하기 도구:`영역 채우기` - Ctrl(⌘) 키: 색상 추출 도구(Color Picker)로 바꾸기](./90-10-08-02-01-switch_to_color_picker_fg.md)
 
 [90.10.8.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-08-03-00-key_modifier-shift.md)
 
@@ -1666,7 +1666,7 @@
 
 [90.10.8.5. Ctrl(⌘) + Alt(⌥):동작 변경키(Key modifiers)](./90-10-08-05-00-key_modifier-ctrl_alt.md)
 
-[90.10.8.5.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-08-05-01-switch_tool_mode.md)
+[90.10.8.5.1. 칠하기 도구:`영역 채우기` - Ctrl(⌘) + Alt(⌥) 키: 색상 추출 도구로 바꾸기(배경색)](./90-10-08-05-01-switch_to_color_picker_bg.md)
 
 [90.10.9. `그라디언트` 도구](./90-10-09-00-gradient.md)
 
@@ -1682,7 +1682,7 @@
 
 [90.10.10.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-10-02-00-key_modifier-ctrl.md)
 
-[90.10.10.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-10-02-01-switch_to_color_picker.md)
+[90.10.10.2.1. 칠하기 도구:`연필` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(전경색)](./90-10-10-02-01-switch_to_color_picker_fg.md)
 
 [90.10.10.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-10-03-00-key_modifier-shift.md)
 
@@ -1696,7 +1696,7 @@
 
 [90.10.11.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-11-02-00-key_modifier-ctrl.md)
 
-[90.10.11.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-11-02-01-switch_to_color_picker.md)
+[90.10.11.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-11-02-01-switch_to_color_picker_fg.md)
 
 [90.10.11.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-11-03-00-key_modifier-shift.md)
 
@@ -1710,7 +1710,7 @@
 
 [90.10.12.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-12-02-00-key_modifier-ctrl.md)
 
-[90.10.12.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-12-02-01-switch_to_color_picker.md)
+[90.10.12.2.1. 칠하기 도구:`마이페인트 붓` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(전경색)](./90-10-12-02-01-switch_to_color_picker_fg.md)
 
 [90.10.12.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-12-03-00-key_modifier-shift.md)
 
@@ -1724,7 +1724,7 @@
 
 [90.10.13.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-13-02-00-key_modifier-ctrl.md)
 
-[90.10.13.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-13-02-01-switch_to_color_picker.md)
+[90.10.13.2.1. 칠하기 도구:`지우개` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(배경색)](./90-10-13-02-01-switch_to_color_picker_bg.md)
 
 [90.10.13.3. Alt(⌥):동작 변경키(Key modifiers)](./90-10-13-03-00-key_modifier-alt.md)
 
@@ -1742,7 +1742,7 @@
 
 [90.10.14.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-14-02-00-key_modifier-ctrl.md)
 
-[90.10.14.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-14-02-01-switch_to_color_picker.md)
+[90.10.14.2.1. 칠하기 도구:`에어브러시` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(전경색)](./90-10-14-02-01-switch_to_color_picker_fg.md)
 
 [90.10.14.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-14-03-00-key_modifier-shift.md)
 
@@ -1756,7 +1756,7 @@
 
 [90.10.15.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-15-02-00-key_modifier-ctrl.md)
 
-[90.10.15.2.1. 색상 추출 도구(Color Picker)로 바꾸기](./90-10-15-02-01-switch_to_color_picker.md)
+[90.10.15.2.1. 칠하기 도구:`잉크` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(전경색)](./90-10-15-02-01-switch_to_color_picker_fg.md)
 
 [90.10.15.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-15-03-00-key_modifier-shift.md)
 
@@ -1818,7 +1818,7 @@
 
 [90.10.20.2. Ctrl(⌘) + Shift(⇧):동작 변경키(Key modifiers)](./90-10-20-02-00-key_modifier-ctrl_shift.md)
 
-[90.10.20.2.1. 각도 제한하기](./90-10-20-02-01-constrain_angle.md)
+[90.10.20.2.1. 칠하기 도구:`문지르기` - Ctrl(⌘) + Shift(⇧) 키: 각도 제한하기](./90-10-20-02-01-constrain_angle.md)
 
 [90.10.20.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-20-03-00-key_modifier-shift.md)
 
@@ -1864,7 +1864,7 @@
 
 [90.10.23.4. Shift(⇧):동작 변경키(Key modifiers)](./90-10-23-04-00-key_modifier-shift.md)
 
-[90.10.23.4.1. 도구 바꾸기](./90-10-23-04-01-toggle_tool.md)
+[90.10.23.4.1. `이동할 레이어나 안내선 선택` 옵션과 `현재 레이어 이동` 옵션 전환](./90-10-23-04-01-toggle_pick_a_layer_or_guide_option_n_move_the_active_layer.md)
 
 [90.10.23.4.2. 25픽셀씩 이동](./90-10-23-04-02-move_by_25pixels.md)
 
