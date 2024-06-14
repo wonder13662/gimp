@@ -30,7 +30,7 @@
 <a id="90-03-02-06-a4"></a>
 
 #### [영상 90.3.2.6.a4. `도구상자` → `똑똑한 가위` → `도구 옵션` → `경계 바로 보기`:옵션 켜고/끄기](./90-03-02-06-scissors_select.md#90-03-02-06-a4)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8a6485f5-21e4-4029-9ef9-a1ca0d46d976"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8a6485f5-21e4-4029-9ef9-a1ca0d46d976"></video>
 
 ***
 

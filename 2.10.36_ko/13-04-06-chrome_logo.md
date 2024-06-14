@@ -12,7 +12,7 @@
 ![13-04-06-a103-dialog](https://github.com/wonder13662/gimp/assets/15767104/28e51e7d-756c-4f3d-9b3a-705293945563)
 
 #### 영상 13.4.6.a104. 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2f87cc60-af47-41e9-908b-01451d1fc7f9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2f87cc60-af47-41e9-908b-01451d1fc7f9"></video>
 
 ## 2. `필터` → `알파를 로고로` → `Chrome...`
 
@@ -29,7 +29,7 @@
 ![13-04-06-a114-dialog](https://github.com/wonder13662/gimp/assets/15767104/1754a4d5-6f4d-4625-bc71-9589432ace89)
 
 #### 영상 13.4.6.a115. 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ce759c2c-2409-418f-86b3-b0984b8085b4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ce759c2c-2409-418f-86b3-b0984b8085b4"></video>
 
 ## 3. 스크립트
 [chrome-logo.scm.zip](https://github.com/wonder13662/gimp/files/14737253/chrome-logo.scm.zip)

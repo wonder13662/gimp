@@ -14,7 +14,7 @@
 <a id="90-03-02-23-a128-02"></a>
 
 #### [영상 90.3.2.23.a128.2. `도구 옵션` → `그리기 붓` → `증분`: 끔](./90-03-02-23-paintbrush.md#90-03-02-23-a128-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2202eaaf-e2f6-4776-8780-31e2019f4268"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2202eaaf-e2f6-4776-8780-31e2019f4268"></video>
 
 ## 3. 옵션 활성화
 이 옵션이 활성화되면 붓은 [불투명도 슬라이더](./14-03-01-02-02-opacity.md)의 값과 별개로 최대 불투명도로 칠하게 됩니다.
@@ -22,7 +22,7 @@
 <a id="90-03-02-23-a128-03"></a>
 
 #### [영상 90.3.2.23.a128.3. `도구 옵션` → `그리기 붓` → `증분`: 켬](./90-03-02-23-paintbrush.md#90-03-02-23-a128-03)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/57faff25-94a9-4d70-bc05-8363ff8de4a4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/57faff25-94a9-4d70-bc05-8363ff8de4a4"></video>
 
 ## 4. 옵션이 적용되는 도구들
 이 옵션은 `비율(Rate)` 슬라이더가 있는 도구 - [에어브러시](./14-03-10-00-airbrush.md), [흐릿하게/선명하게](./14-03-15-00-blur-sharpen.md), [문지르기](./14-03-16-00-smudge.md)를 제외한 모든 칠하기 도구들에 적용됩니다. `비율(Rate)` 슬라이더가 있는 도구는 자동적으로 `증분(Incremental)` 효과를 가지고 있습니다.

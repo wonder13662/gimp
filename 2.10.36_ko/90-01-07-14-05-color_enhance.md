@@ -15,7 +15,7 @@
 <a id="90-01-07-14-05-a3"></a>
 
 #### 영상 90.1.7.14.5.a3. `색` → `자동` → `색상 보강` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/995fa1b9-a38b-43c3-bd41-dbb7b056bd1b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/995fa1b9-a38b-43c3-bd41-dbb7b056bd1b"></video>
 
 [10.1.3.1. 자동화 도구 - 영상 90.1.7.14.5.a3](./10-01-03-01-automated_tools.md#90-01-07-14-05-a3)
 

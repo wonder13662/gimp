@@ -13,7 +13,7 @@
 <a id="90-04-40-a105"></a>
 
 #### [영상 90.4.40.a105. `PDF 가져오기` 대화상자 (Windows) (우리말)](./90-04-40-import_from_pdf.md#90-04-40-a105)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5fb81830-f54c-4cb4-a143-9b151997452e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5fb81830-f54c-4cb4-a143-9b151997452e"></video>
 
 ## 페이지 선택(Page Selection)
 `PDF 가져오기` 대화상자의 `페이지 선택` 영역의 `범위 선택`의 입력창에 하나 이상의 페이지 번호 또는 범위를 입력할 수 있습니다. 각 페이지는 콤마(`,`)로 구분합니다.
@@ -28,7 +28,7 @@
 <a id="90-04-40-a112"></a>
 
 #### [영상 90.4.40.a112. `PDF 가져오기` 대화상자 - `페이지 선택`의 `범위 선택`으로 페이지 선택하기 (Windows) (우리말)](./90-04-40-import_from_pdf.md#90-04-40-a112)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b353e1e-80e1-475f-8d24-4a1df1b17a93"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5b353e1e-80e1-475f-8d24-4a1df1b17a93"></video>
 
 ## 페이지 열기(Open pages as)
 PDF 이미지의 페이지들을 별개의 이미지 또는 레이어로 선택할 수 있습니다.
@@ -44,7 +44,7 @@ PDF 이미지의 페이지들을 별개의 이미지 또는 레이어로 선택�
 <a id="90-04-40-a122"></a>
 
 #### [영상 90.4.40.a122. `PDF 가져오기` 대화상자 - `페이지 열기`에서 `레이어` 선택 (Windows) (우리말)](./90-04-40-import_from_pdf.md#90-04-40-a122)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3ee9b4f0-0076-4921-a675-6070f288cd5d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3ee9b4f0-0076-4921-a675-6070f288cd5d"></video>
 
 ### 이미지로 페이지 열기
 이미지로 페이지를 열면, PDF의 페이지들은 개별 이미지로 가져옵니다. 아래 영상에서 이미지로 페이지 열기 과정을 확인할 수 있습니다.
@@ -52,7 +52,7 @@ PDF 이미지의 페이지들을 별개의 이미지 또는 레이어로 선택�
 <a id="90-04-40-a123"></a>
 
 #### [영상 90.4.40.a123. `PDF 가져오기` 대화상자 - `페이지 열기`에서 `이미지` 선택 (Windows) (우리말)](./90-04-40-import_from_pdf.md#90-04-40-a123)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/11b5a9f2-a498-4797-91ae-ff1b264d3a14"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/11b5a9f2-a498-4797-91ae-ff1b264d3a14"></video>
 
 ## 이미지 크기(Image size)
 이미지의 크기를 너비(width), 높이(height) 그리고 해상도(resolution) 설정으로 제어할 수 있습니다. PDF 문서는 물리적인 길이의 단위로 너비와 높이에 대한 정보를 갖고 있습니다. 그러므로 1 픽셀당 물리적인 길이의 단위가 너비, 높이, 해상도에 영향을 줍니다. 너비, 높이, 해상도 중 하나라도 바꾼다면, 나머지 값들이 자동으로 바뀐 값에 맞게 조정됩니다.
@@ -73,7 +73,7 @@ PDF 이미지의 페이지들을 별개의 이미지 또는 레이어로 선택�
 <a id="90-04-40-a142"></a>
 
 #### [영상 90.4.40.a142. `PDF 가져오기` 대화상자 - `안티-앨리어싱 사용` 체크박스 토글 (Windows) (우리말)](./90-04-40-import_from_pdf.md#90-04-40-a142)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1c0123c7-d8fb-4b3b-829f-1287ab389fa7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1c0123c7-d8fb-4b3b-829f-1287ab389fa7"></video>
 
 ## 다른 페이지로 가기
 

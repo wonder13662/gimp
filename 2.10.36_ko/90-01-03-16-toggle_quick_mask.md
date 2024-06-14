@@ -11,14 +11,14 @@
 <a id="90-01-03-16-a102"></a>
 
 #### 영상 90.1.3.16.a102. `선택` → `퀵마스크 전환`
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0082b9cc-700f-4ecb-8e95-7e8d351c17ec"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0082b9cc-700f-4ecb-8e95-7e8d351c17ec"></video>
 
 [7.3.1. 퀵마스크 개요 - 영상 90.1.3.16.a102](./07-03-01-overview.md#90-01-03-16-a102)
 
 <a id="90-01-03-16-a103"></a>
 
 #### 영상 90.1.3.16.a103. 단축키 Shift(⇧) + Q로 퀵마스크 전환
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f6f70ab6-dd6e-418d-b400-b77efe7dbf9e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f6f70ab6-dd6e-418d-b400-b77efe7dbf9e"></video>
 
 [7.3.1. 퀵마스크 개요 - 영상 90.1.3.16.a103](./07-03-01-overview.md#90-01-03-16-a103)
 
@@ -39,7 +39,7 @@
 <a id="90-01-03-16-a113"></a>
 
 #### 영상 90.1.3.16.a113. 퀵마스크를 칠하기 도구로 수정하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/44c82438-bb6a-426d-b9fd-453fcfb46906"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/44c82438-bb6a-426d-b9fd-453fcfb46906"></video>
 
 [7.3.1. 퀵마스크 개요 - 영상 90.1.3.16.a113](./07-03-01-overview.md#90-01-03-16-a113)
 

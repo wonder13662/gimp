@@ -19,7 +19,7 @@
 <a id="90-03-02-02-a2-01"></a>
 
 #### 영상 90.3.2.2.a2.1. `도구상자` → `정렬` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/519915a9-07d2-4e84-b081-3fb72613e54d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/519915a9-07d2-4e84-b081-3fb72613e54d"></video>
 
 [14.4.2.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.2.a2.1](./14-04-02-01-activating_the_tool.md#90-03-02-02-a2-01)
 
@@ -33,7 +33,7 @@
 <a id="90-03-02-02-a11"></a>
 
 #### 영상 90.3.2.2.a11. 소스 레이어 선택하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c4394be8-e909-40ac-bbdb-2001d62e2ca3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c4394be8-e909-40ac-bbdb-2001d62e2ca3"></video>
 
 [14.4.2. 정렬(Align) - 영상 90.3.2.2.a11](./14-04-02-00-align.md#90-03-02-02-a11)
 
@@ -68,56 +68,56 @@
 <a id="90-03-02-02-a101-01-01-01-01"></a>
 
 #### 영상 90.3.2.2.a101.1.1.1.1. `도구 옵션` → `정렬` → `정렬` → `대응하는 대상` → `첫번째 아이템` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/569156a7-3ee6-45a0-bc1d-519ee17369af"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/569156a7-3ee6-45a0-bc1d-519ee17369af"></video>
 
 [14.4.2.3.1. 정렬(Align) - 영상 90.3.2.2.a101.1.1.1.1](./14-04-02-03-01-align.md#90-03-02-02-a101-01-01-01-01)
 
 <a id="90-03-02-02-a101-01-01-01-01-01"></a>
 
 #### 영상 90.3.2.2.a101.1.1.1.1.1. `도구 옵션` → `정렬` → `정렬` → `대응하는 대상` → `첫번째 아이템`: 고무밴드 사용시 "첫 항목" 없음 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d59775da-437a-40dc-aef8-7350beed3dde"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d59775da-437a-40dc-aef8-7350beed3dde"></video>
 
 [14.4.2.3.1. 정렬(Align) - 영상 90.3.2.2.a101.1.1.1.1.1](./14-04-02-03-01-align.md#90-03-02-02-a101-01-01-01-01-01)
 
 <a id="90-03-02-02-a101-01-01-01-02"></a>
 
 #### 영상 90.3.2.2.a101.1.1.1.2. `도구 옵션` → `정렬` → `정렬` → `대응하는 대상` → `이미지` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/37338896-98b5-4f91-83f6-a8204af1bb9e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/37338896-98b5-4f91-83f6-a8204af1bb9e"></video>
 
 [14.4.2.3.1. 정렬(Align) - 영상 90.3.2.2.a101.1.1.1.2](./14-04-02-03-01-align.md#90-03-02-02-a101-01-01-01-02)
 
 <a id="90-03-02-02-a101-01-01-01-03"></a>
 
 #### 영상 90.3.2.2.a101.1.1.1.3. `도구 옵션` → `정렬` → `정렬` → `대응하는 대상` → `선택` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3e9d3c58-bd22-417b-9e34-2055dad47862"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3e9d3c58-bd22-417b-9e34-2055dad47862"></video>
 
 [14.4.2.3.1. 정렬(Align) - 영상 90.3.2.2.a101.1.1.1.3](./14-04-02-03-01-align.md#90-03-02-02-a101-01-01-01-03)
 
 <a id="90-03-02-02-a101-01-01-01-04"></a>
 
 #### 영상 90.3.2.2.a101.1.1.1.4. `도구 옵션` → `정렬` → `정렬` → `대응하는 대상` → `활성화 레이어` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b40ba69b-c31a-4ca2-bc4f-ecc1638a5833"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b40ba69b-c31a-4ca2-bc4f-ecc1638a5833"></video>
 
 [14.4.2.3.1. 정렬(Align) - 영상 90.3.2.2.a101.1.1.1.4](./14-04-02-03-01-align.md#90-03-02-02-a101-01-01-01-04)
 
 <a id="90-03-02-02-a101-01-01-01-04-01"></a>
 
 #### 영상 90.3.2.2.a101.1.1.1.4.1. `도구 옵션` → `정렬` → `정렬` → `대응하는 대상` → `활성화 레이어`: 배치 버튼에도 영향을 미침 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5549f042-19aa-442b-aedd-2cada081c3c7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5549f042-19aa-442b-aedd-2cada081c3c7"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.1.1.1.4.1](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-01-01-04-01)
 
 <a id="90-03-02-02-a101-01-01-01-05"></a>
 
 #### 영상 90.3.2.2.a101.1.1.1.5. `도구 옵션` → `정렬` → `정렬` → `대응하는 대상` → `활성화 채널` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9f21684f-8791-476d-bc1a-e608b97b7daf"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9f21684f-8791-476d-bc1a-e608b97b7daf"></video>
 
 [14.4.2.3.1. 정렬(Align) - 영상 90.3.2.2.a101.1.1.1.5](./14-04-02-03-01-align.md#90-03-02-02-a101-01-01-01-05)
 
 <a id="90-03-02-02-a101-01-01-01-06"></a>
 
 #### 영상 90.3.2.2.a101.1.1.1.6. `도구 옵션` → `정렬` → `정렬` → `대응하는 대상` → `활성화 경로` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c9b76c5e-2c7d-48a6-aa65-9881a5abef8b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c9b76c5e-2c7d-48a6-aa65-9881a5abef8b"></video>
 
 [14.4.2.3.1. 정렬(Align) - 영상 90.3.2.2.a101.1.1.1.6](./14-04-02-03-01-align.md#90-03-02-02-a101-01-01-01-06)
 
@@ -138,7 +138,7 @@
 <a id="90-03-02-02-a101-01-02-01-01"></a>
 
 #### 영상 90.3.2.2.a101.1.2.1.1. `도구 옵션` → `정렬` → `정렬` → `정렬 버튼` → `대상의 왼쪽 끝으로 정렬하기`: 버튼 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8bbf459d-d493-41bc-8ab2-a360ddc79caa"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8bbf459d-d493-41bc-8ab2-a360ddc79caa"></video>
 
 [14.4.2.3.1. 정렬(Align) - 영상 90.3.2.2.a101.1.2.1.1](./14-04-02-03-01-align.md#90-03-02-02-a101-01-02-01-01)
 
@@ -152,7 +152,7 @@
 <a id="90-03-02-02-a101-01-02-02-01"></a>
 
 #### 영상 90.3.2.2.a101.1.2.2.1. `도구 옵션` → `정렬` → `정렬` → `정렬 버튼` → `대상의 수평선 가운데로 정렬하기`: 버튼 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4b33862a-ba15-4b94-8e48-7366f53cd42d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4b33862a-ba15-4b94-8e48-7366f53cd42d"></video>
 
 [14.4.2.3.1. 정렬(Align) - 영상 90.3.2.2.a101.1.2.2.1](./14-04-02-03-01-align.md#90-03-02-02-a101-01-02-02-01)
 
@@ -166,7 +166,7 @@
 <a id="90-03-02-02-a101-01-02-03-01"></a>
 
 #### 영상 90.3.2.2.a101.1.2.3.1. `도구 옵션` → `정렬` → `정렬` → `정렬 버튼` → `대상의 오른쪽 끝으로 정렬하기`: 버튼 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c1efa6fc-39d3-414e-a991-2dfcd45b90d5"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c1efa6fc-39d3-414e-a991-2dfcd45b90d5"></video>
 
 [14.4.2.3.1. 정렬(Align) - 영상 90.3.2.2.a101.1.2.3.1](./14-04-02-03-01-align.md#90-03-02-02-a101-01-02-03-01)
 
@@ -180,7 +180,7 @@
 <a id="90-03-02-02-a101-01-02-04-01"></a>
 
 #### 영상 90.3.2.2.a101.1.2.4.1. `도구 옵션` → `정렬` → `정렬` → `정렬 버튼` → `대상의 위쪽 끝으로 정렬하기`: 버튼 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3856a424-66e0-4ed1-b7a5-b05d7765119d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3856a424-66e0-4ed1-b7a5-b05d7765119d"></video>
 
 [14.4.2.3.1. 정렬(Align) - 영상 90.3.2.2.a101.1.2.4.1](./14-04-02-03-01-align.md#90-03-02-02-a101-01-02-04-01)
 
@@ -194,7 +194,7 @@
 <a id="90-03-02-02-a101-01-02-05-01"></a>
 
 #### 영상 90.3.2.2.a101.1.2.5.1. `도구 옵션` → `정렬` → `정렬` → `정렬 버튼` → `대상의 수직선 가운데로 정렬하기`: 버튼 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e4852121-b401-4cf7-b922-1ff29b3ea6a6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e4852121-b401-4cf7-b922-1ff29b3ea6a6"></video>
 
 [14.4.2.3.1. 정렬(Align) - 영상 90.3.2.2.a101.1.2.5.1](./14-04-02-03-01-align.md#90-03-02-02-a101-01-02-05-01)
 
@@ -208,7 +208,7 @@
 <a id="90-03-02-02-a101-01-02-06-01"></a>
 
 #### 영상 90.3.2.2.a101.1.2.6.1. `도구 옵션` → `정렬` → `정렬` → `정렬 버튼` → `대상의 아래쪽 끝으로 정렬하기`: 버튼 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d887ff92-1d80-463b-817a-5505c4278560"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d887ff92-1d80-463b-817a-5505c4278560"></video>
 
 [14.4.2.3.1. 정렬(Align) - 영상 90.3.2.2.a101.1.2.6.1](./14-04-02-03-01-align.md#90-03-02-02-a101-01-02-06-01)
 
@@ -236,14 +236,14 @@
 <a id="90-03-02-02-a101-01-03-01-01-01"></a>
 
 #### 영상 90.3.2.2.a101.3.1.1.1. `도구 옵션` → `정렬` → `배치` → `배치 버튼` → `대상의 왼쪽 끝으로 배치하기`: 버튼
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3322b4a7-4646-40d1-b197-601f3ec8a6bf"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3322b4a7-4646-40d1-b197-601f3ec8a6bf"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.1.1.1](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-01-01-01)
 
 <a id="90-03-02-02-a101-01-03-01-01-02"></a>
 
 #### 영상 90.3.2.2.a101.3.1.1.2. `도구 옵션` → `정렬` → `배치` → `배치 버튼` → `대상의 왼쪽 끝으로 배치하기`: 정렬 버튼과 같은 동작
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5c02686e-c02f-48fd-94b9-1b55639be350"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5c02686e-c02f-48fd-94b9-1b55639be350"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.1.1.2](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-01-01-02)
 
@@ -257,14 +257,14 @@
 <a id="90-03-02-02-a101-01-03-01-02-01"></a>
 
 #### 영상 90.3.2.2.a101.3.1.2.1. `도구 옵션` → `정렬` → `배치` → `배치 버튼` → `대상의 수평선 가운데로 배치하기`: 버튼
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b0a52ea0-967e-4ba2-92c5-630f58c8d453"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b0a52ea0-967e-4ba2-92c5-630f58c8d453"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.1.2.1](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-01-02-01)
 
 <a id="90-03-02-02-a101-01-03-01-02-02"></a>
 
 #### 영상 90.3.2.2.a101.3.1.2.2. `도구 옵션` → `정렬` → `배치` → `배치 버튼` → `대상의 수평선 가운데로 배치하기`: 정렬 버튼과 같은 동작
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ab93c8bf-4aec-4aa1-9df5-9386bbba0533"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ab93c8bf-4aec-4aa1-9df5-9386bbba0533"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.1.2.2](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-01-02-02)
 
@@ -278,14 +278,14 @@
 <a id="90-03-02-02-a101-01-03-01-03-01"></a>
 
 #### 영상 90.3.2.2.a101.3.1.3.1. `도구 옵션` → `정렬` → `배치` → `배치 버튼` → `대상의 오른쪽 끝으로 배치하기`: 버튼
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eff6b6d3-6758-40cc-8bd4-a43fc9d9594d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/eff6b6d3-6758-40cc-8bd4-a43fc9d9594d"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.1.3.1](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-01-03-01)
 
 <a id="90-03-02-02-a101-01-03-01-03-02"></a>
 
 #### 영상 90.3.2.2.a101.3.1.3.2. `도구 옵션` → `정렬` → `배치` → `배치 버튼` → `대상의 오른쪽 끝으로 배치하기`: 정렬 버튼과 같은 동작
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/869a1ed2-179b-484b-8785-ff2b4a18f57f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/869a1ed2-179b-484b-8785-ff2b4a18f57f"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.1.3.2](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-01-03-02)
 
@@ -299,7 +299,7 @@
 <a id="90-03-02-02-a101-01-03-01-04-01"></a>
 
 #### 영상 90.3.2.2.a101.3.1.4.1. `도구 옵션` → `정렬` → `배치` → `배치 버튼` → `대상의 수평선 방향으로 균등하게 배치하기`: 버튼
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5a58861e-5ee4-413d-8dff-45e5ad8366c5"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5a58861e-5ee4-413d-8dff-45e5ad8366c5"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.1.4.1](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-01-04-01)
 
@@ -313,14 +313,14 @@
 <a id="90-03-02-02-a101-01-03-01-05-01"></a>
 
 #### 영상 90.3.2.2.a101.3.1.5.1. `도구 옵션` → `정렬` → `배치` → `배치 버튼` → `대상의 위쪽 끝으로 배치하기`: 버튼
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/61eb1878-f3cf-43c2-b886-0274bab1fea3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/61eb1878-f3cf-43c2-b886-0274bab1fea3"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.1.5.1](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-01-05-01)
 
 <a id="90-03-02-02-a101-01-03-01-05-02"></a>
 
 #### 영상 90.3.2.2.a101.3.1.5.2. `도구 옵션` → `정렬` → `배치` → `배치 버튼` → `대상의 위쪽 끝으로 배치하기`: 정렬 버튼과 같은 동작
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dce5c0cf-4bcf-4e49-9eff-f762ac478034"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/dce5c0cf-4bcf-4e49-9eff-f762ac478034"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.1.5.2](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-01-05-02)
 
@@ -334,14 +334,14 @@
 <a id="90-03-02-02-a101-01-03-01-06-01"></a>
 
 #### 영상 90.3.2.2.a101.3.1.6.1. `도구 옵션` → `정렬` → `배치` → `배치 버튼` → `대상의 수직선 가운데로 배치하기`: 버튼
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e905b8a3-de8c-4ec8-861f-8071d98314ae"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e905b8a3-de8c-4ec8-861f-8071d98314ae"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.1.6.1](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-01-06-01)
 
 <a id="90-03-02-02-a101-01-03-01-06-02"></a>
 
 #### 영상 90.3.2.2.a101.3.1.6.2. `도구 옵션` → `정렬` → `배치` → `배치 버튼` → `대상의 수직선 가운데로 배치하기`: 정렬 버튼과 같은 동작
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/de4ce932-9abe-4573-9c1d-5f9cb7cc2636"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/de4ce932-9abe-4573-9c1d-5f9cb7cc2636"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.1.6.2](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-01-06-02)
 
@@ -355,14 +355,14 @@
 <a id="90-03-02-02-a101-01-03-01-07-01"></a>
 
 #### 영상 90.3.2.2.a101.3.1.7.1. `도구 옵션` → `정렬` → `배치` → `배치 버튼` → `대상의 아래쪽 끝으로 배치하기`: 버튼
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d8890482-1798-483d-a959-ab6af71c4c0d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d8890482-1798-483d-a959-ab6af71c4c0d"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.1.7.1](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-01-07-01)
 
 <a id="90-03-02-02-a101-01-03-01-07-02"></a>
 
 #### 영상 90.3.2.2.a101.3.1.7.2. `도구 옵션` → `정렬` → `배치` → `배치 버튼` → `대상의 아래쪽 끝으로 배치하기`: 정렬 버튼과 같은 동작
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d442fdcb-b8b3-4cd1-83ce-840669b359a9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d442fdcb-b8b3-4cd1-83ce-840669b359a9"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.1.7.2](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-01-07-02)
 
@@ -376,7 +376,7 @@
 <a id="90-03-02-02-a101-01-03-01-08-01"></a>
 
 #### 영상 90.3.2.2.a101.3.1.8.1. `도구 옵션` → `정렬` → `배치` → `배치 버튼` → `대상의 수직선 방향으로 균등하게 배치하기`: 버튼
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2556d055-cc30-43de-92d6-6addf652cfbd"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2556d055-cc30-43de-92d6-6addf652cfbd"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.1.8.1](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-01-08-01)
 
@@ -390,28 +390,28 @@
 <a id="90-03-02-02-a101-01-03-02-01-01"></a>
 
 #### 영상 90.3.2.2.a101.3.2.1.1. `도구 옵션` → `정렬` → `배치` → `오프셋` → `X 오프셋`: 소스 레이어가 한개일 경우 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c536a889-4c16-404e-b39e-b183f9ffccf3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c536a889-4c16-404e-b39e-b183f9ffccf3"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.2.1.1](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-02-01-01)
 
 <a id="90-03-02-02-a101-01-03-02-01-02"></a>
 
 #### 영상 90.3.2.2.a101.3.2.1.2. `도구 옵션` → `정렬` → `배치` → `오프셋` → `X 오프셋`: 소스 레이어가 여러 개일 경우의 오프셋 쌓임 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/66713943-4900-4bd7-9a7c-271aae3f1292"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/66713943-4900-4bd7-9a7c-271aae3f1292"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.2.1.2](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-02-01-02)
 
 <a id="90-03-02-02-a101-01-03-02-01-03"></a>
 
 #### 영상 90.3.2.2.a101.3.2.1.3. `도구 옵션` → `정렬` → `배치` → `오프셋` → `Y 오프셋`: 소스 레이어가 한개일 경우 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/20eb4436-f5d5-4cde-b368-37cf1e720cab"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/20eb4436-f5d5-4cde-b368-37cf1e720cab"></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.2.1.3](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-02-01-03)
 
 <a id="90-03-02-02-a101-01-03-02-01-04"></a>
 
 #### 영상 90.3.2.2.a101.3.2.1.4. `도구 옵션` → `정렬` → `배치` → `오프셋` → `Y 오프셋`: 소스 레이어가 여러 개일 경우의 오프셋 쌓임 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/82f14387-858c-4d2e-8c0e-ef04e64b7ffd
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/82f14387-858c-4d2e-8c0e-ef04e64b7ffd
 "></video>
 
 [14.4.2.3.2. 배치(Distribute) - 영상 90.3.2.2.a101.3.2.1.4](./14-04-02-03-02-distribute.md#90-03-02-02-a101-01-03-02-01-04)
@@ -419,14 +419,14 @@
 <a id="90-03-02-02-a102"></a>
 
 #### 영상 90.3.2.2.a102. 배치 과정 예제 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/20c4784d-d68f-4d4a-bed1-71d86c40b39a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/20c4784d-d68f-4d4a-bed1-71d86c40b39a"></video>
 
 [14.4.2.4. "배치"의 실제 예제(A practical example for "Distribute") - 영상 90.3.2.2.a102](./14-04-02-04-a_practical_example_for_distribute.md#90-03-02-02-a102)
 
 <a id="90-03-02-02-a103"></a>
 
 #### 영상 90.3.2.2.a103. 고무밴드 박스로 정렬하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a90a2086-9f95-4009-ae6a-4ab488be0169"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a90a2086-9f95-4009-ae6a-4ab488be0169"></video>
 
 [14.4.2.5. 고무밴드 박스로 정렬하기(Align using the rubber-band box) - 영상 90.3.2.2.a103](./14-04-02-05-align_using_the_rubber_band_box.md#90-03-02-02-a103)
 

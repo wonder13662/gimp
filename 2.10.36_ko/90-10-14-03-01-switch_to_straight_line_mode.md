@@ -3,7 +3,7 @@
 <a id="90-10-14-03-01-a1"></a>
 
 #### 영상 90.10.14.3.1.a1. 칠하기 도구:`에어브러시` - Shift(⇧) 키: 직선 그리기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3838032c-6db6-42f0-9f3a-17ad9b311f05"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3838032c-6db6-42f0-9f3a-17ad9b311f05"></video>
 
 [14.3.10.2. 동작 변경키(Key modifiers) - 영상 90.10.14.3.1.a1](./14-03-10-02-key_modifiers.md#90-10-14-03-01-a1)
 

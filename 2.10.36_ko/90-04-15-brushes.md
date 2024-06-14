@@ -27,14 +27,14 @@
 <a id="90-04-15-a113"></a>
 
 #### 영상 90.4.15.a113. 클립보드 마스크(Clipboard Mask), 클립보드 이미지(Clipboard Image) 브러시로 붓으로 작업시 효과가 없습니다
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8baa56c2-31a5-49b6-8323-4c4f08d3d752"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8baa56c2-31a5-49b6-8323-4c4f08d3d752"></video>
 
 [4.2.11. 지우개와 붓이 작동하지 않습니다 - 영상 90.4.15.a113](./04-02-11-eraser-and-brushes-no-longer-work.md#90-04-15-a113)
 
 <a id="90-04-15-a114"></a>
 
 #### 영상 90.4.15.a114. 클립보드 마스크(Clipboard Mask), 클립보드 이미지(Clipboard Image) 브러시로 지우개로 작업시 효과가 없습니다
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b01f225-480d-4e65-9c2e-6d1b35deee24"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b01f225-480d-4e65-9c2e-6d1b35deee24"></video>
 
 [4.2.11. 지우개와 붓이 작동하지 않습니다 - 영상 90.4.15.a114](./04-02-11-eraser-and-brushes-no-longer-work.md#90-04-15-a114)
 
@@ -66,7 +66,7 @@
 <a id="90-04-15-a141"></a>
 
 #### 영상 90.4.15.a141. 붓 대화상자 (Windows) (우리말) - 붓 선택하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/93612d28-ed12-4590-bafe-f64469f081a3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/93612d28-ed12-4590-bafe-f64469f081a3"></video>
 
 [7.6. 붓 - 영상 90.4.15.a141](./07-06-00-brushes.md#90-04-15-a141)
 
@@ -80,7 +80,7 @@
 <a id="90-04-15-a143"></a>
 
 #### 영상 90.4.15.a143. 붓 대화상자 활성화하기 - 도구상자의 붓/무늬/그라디언트 영역의 붓 클릭
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/16c8b4fc-f86f-4f08-aa58-fd37dd7fccc1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/16c8b4fc-f86f-4f08-aa58-fd37dd7fccc1"></video>
 
 [7.6. 붓 - 영상 90.4.15.a143](./07-06-00-brushes.md#90-04-15-a143)
 
@@ -94,14 +94,14 @@
 <a id="90-04-15-a152"></a>
 
 #### 영상 90.4.15.a152. 일반붓 만들기 - 흑백 이미지를 `.gbr` 파일로 내보내기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/88fa3ae4-6970-4ed4-a1ed-32aa26eb56db"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/88fa3ae4-6970-4ed4-a1ed-32aa26eb56db"></video>
 
 [7.6.1. 일반 붓(Ordinary brushes) - 영상 90.4.15.a152](./07-06-01-ordinary_brush.md#90-04-15-a152)
 
 <a id="90-04-15-a153"></a>
 
 #### 영상 90.4.15.a153. 일반붓 만들기 - `.gbr` 파일을 불러오기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40fdc204-f9d5-4cce-b7dd-289c00a9cbf3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/40fdc204-f9d5-4cce-b7dd-289c00a9cbf3"></video>
 
 [7.6.1. 일반 붓(Ordinary brushes) - 영상 90.4.15.a153](./07-06-01-ordinary_brush.md#90-04-15-a153)
 
@@ -110,7 +110,7 @@
 <a id="90-04-15-a154"></a>
 
 #### 영상 90.4.15.a154. 일반붓 만들기 - 새로운 일반붓으로 칠해보기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c4e5e43b-c351-43d1-9e24-a61d786a6e55"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c4e5e43b-c351-43d1-9e24-a61d786a6e55"></video>
 
 [7.6.1. 일반 붓(Ordinary brushes) - 영상 90.4.15.a154](./07-06-01-ordinary_brush.md#90-04-15-a154)
 
@@ -126,21 +126,21 @@
 <a id="90-04-15-a162"></a>
 
 #### 영상 90.4.15.a162. 색상붓 만들기 - RGBA 이미지를 `.gbr` 파일로 내보내기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dc1297a0-7e4b-47a3-b60a-21f90d9da2fe"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/dc1297a0-7e4b-47a3-b60a-21f90d9da2fe"></video>
 
 [7.6.2. 색상 붓(Color brushes) - 영상 90.4.15.a162](./07-06-02-color_brush.md#90-04-15-a162)
 
 <a id="90-04-15-a163"></a>
 
 #### 영상 90.4.15.a163. 색상붓 만들기 - `.gbr` 파일을 불러오기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/012bc61a-d955-42d3-99fa-d4b9297cfefa"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/012bc61a-d955-42d3-99fa-d4b9297cfefa"></video>
 
 [7.6.2. 색상 붓(Color brushes) - 영상 90.4.15.a163](./07-06-02-color_brush.md#90-04-15-a163)
 
 <a id="90-04-15-a164"></a>
 
 #### 영상 90.4.15.a164. 색상붓 만들기 - 색상붓으로 칠하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7162b436-f9c5-4b27-a706-9a7d8e59f383"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7162b436-f9c5-4b27-a706-9a7d8e59f383"></video>
 
 [7.6.2. 색상 붓(Color brushes) - 영상 90.4.15.a164](./07-06-02-color_brush.md#90-04-15-a164)
 
@@ -158,7 +158,7 @@
 <a id="90-04-15-a172"></a>
 
 #### 영상 90.4.15.a172. 클립보드 마스크, 클립보드 이미지 만들기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eb75db8d-7c74-40a2-a398-26c67299874c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/eb75db8d-7c74-40a2-a398-26c67299874c"></video>
 
 [7.6.3. 클립보드 붓(Clipboard Brush) - 영상 90.4.15.a172](./07-06-03-clipboard_brush.md#90-04-15-a172)
 
@@ -167,7 +167,7 @@
 <a id="90-04-15-a173"></a>
 
 #### 영상 90.4.15.a173. 클립보드 마스크 칠하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7e116df4-d25e-48bc-8465-16d10da6b676"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7e116df4-d25e-48bc-8465-16d10da6b676"></video>
 
 [7.6.3. 클립보드 붓(Clipboard Brush) - 영상 90.4.15.a173](./07-06-03-clipboard_brush.md#90-04-15-a173)
 
@@ -176,7 +176,7 @@
 <a id="90-04-15-a174"></a>
 
 #### 영상 90.4.15.a174. 클립보드 이미지 칠하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ff7726fb-79f6-46ff-a98a-10b13f4763a1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ff7726fb-79f6-46ff-a98a-10b13f4763a1"></video>
 
 [7.6.3. 클립보드 붓(Clipboard Brush) - 영상 90.4.15.a174](./07-06-03-clipboard_brush.md#90-04-15-a174)
 
@@ -190,7 +190,7 @@
 <a id="90-04-15-a182"></a>
 
 #### 영상 90.4.15.a182. 붓 대화상자의 이미지 호스 붓으로 칠하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b02ace8a-6100-4f26-997e-302d3420912d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b02ace8a-6100-4f26-997e-302d3420912d"></video>
 
 [7.6.4. 이미지 호스(image hose)/이미지 파이프(image pipe) - 영상 90.4.15.a182](./07-06-04-gih_brush.md#90-04-15-a182)
 
@@ -211,7 +211,7 @@
 <a id="90-04-15-a202"></a>
 
 #### 영상 90.4.15.a202. 클립보드 마스크 붓 복제하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/22d0ee6c-82f1-46d1-a352-c2b3ac9e807d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/22d0ee6c-82f1-46d1-a352-c2b3ac9e807d"></video>
 
 [7.9.2. 새 붓 빨리 만들기 - 영상 90.4.15.a202](./07-09-02-creating-a-brush-quickly.md#90-04-15-a202)
 

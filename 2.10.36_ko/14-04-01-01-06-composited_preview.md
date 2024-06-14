@@ -21,7 +21,7 @@
 <a id="90-03-02-13-a11"></a>
 
 #### [영상 90.3.2.13.a11. `도구 옵션` → `크기 조정` → `합성 미리보기`: 켜기/끄기 (Windows) (우리말)](./90-03-02-13-scale.md#90-03-02-13-a11)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/119fd44c-b0ac-4eee-94d3-c0ef71788a9e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/119fd44c-b0ac-4eee-94d3-c0ef71788a9e"></video>
 
 아래 2가지 옵션을 선택할 수 있습니다.
 
@@ -31,7 +31,7 @@
 <a id="90-03-02-12-a101-04-04-03-01"></a>
 
 #### [영상 90.3.2.12.a101.4.4.3.1. `도구 옵션` → `회전` → `합성 미리보기 보여주기` → `연결된 아이템 미리보기`: 켜기/끄기 (Windows) (우리말)](./90-03-02-12-rotate.md#90-03-02-12-a101-04-04-03-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/89dbfddd-5f21-4f47-9898-4a4acd5d8fa4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/89dbfddd-5f21-4f47-9898-4a4acd5d8fa4"></video>
 
 ## 2. 동기화된 미리보기(Synchronous preview)
 이 옵션은 실험적인 기능입니다. 역할은 사용자가 대상을 변형하자마자 즉시 미리보기를 렌더링하는 것입니다. GIMP(김프)가 구동되는 환경이 빠르다면, 더 부드럽고 즉각적인 피드백을 받을 수 있습니다.
@@ -45,7 +45,7 @@
 <a id="90-03-02-13-a12"></a>
 
 #### [영상 90.3.2.13.a12. `도구 옵션` → `크기 조정` → `합성 미리보기 보여주기` → `동기화된 미리보기`: 켜기/끄기 (Windows) (우리말)](./90-03-02-13-scale.md#90-03-02-13-a12)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e37002c4-5c0d-41ea-ab96-6f1819745b37"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e37002c4-5c0d-41ea-ab96-6f1819745b37"></video>
 
 ⚠️ 주의: 크기가 작은 이미지를 작업하는 경우에는 이 옵션의 켜기/끄기의 차이는 알아채기 어렵습니다.
 

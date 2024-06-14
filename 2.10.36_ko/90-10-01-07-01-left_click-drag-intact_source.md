@@ -3,10 +3,9 @@
 <a id="90-10-01-07-01-a1"></a>
 
 #### 영상 90.10.1.7.1.a1. Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그(원본 이미지 유지)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b2df02c-54cc-49e4-a13d-3fa52edeed4d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5b2df02c-54cc-49e4-a13d-3fa52edeed4d"></video>
 
 [14.2.1.1. 동작 변경키(Key modifiers) - 영상 90.10.1.7.1.a1](./14-02-01-01-key_modifiers.md#90-10-01-07-01-a1)
-
 
 ***
 

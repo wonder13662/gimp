@@ -3,7 +3,7 @@
 <a id="90-10-22-02-01-a1"></a>
 
 #### 영상 90.10.22.2.1.a1. 변형 도구 `정렬`: Shift(⇧) 키 - 여러 개의 소스 레이어 선택하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e611593d-76ff-4be9-9a33-aa20ce22af68"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e611593d-76ff-4be9-9a33-aa20ce22af68"></video>
 
 [14.4.2.2. 동작 변경키(Key modifiers) - 영상 90.10.22.2.1.a1](./14-04-02-02-key_modifiers.md#90-10-22-02-01-a1)
 

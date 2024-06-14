@@ -20,7 +20,7 @@
 <a id="90-01-06-09-01-a103"></a>
 
 #### 영상 90.1.6.9.1.a103. 알파 채널 추가
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0769da7a-654a-4185-bf7d-396e69346085"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0769da7a-654a-4185-bf7d-396e69346085"></video>
 
 [7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.1.6.9.1.a103](./07-01-02-making_a_selection_partially_transparent.md#90-01-06-09-01-a103)
 

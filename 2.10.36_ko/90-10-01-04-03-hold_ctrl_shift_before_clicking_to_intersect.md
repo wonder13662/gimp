@@ -3,7 +3,7 @@
 <a id="90-10-01-04-03-a1"></a>
 
 #### 영상 90.10.1.4.3.a1. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/adf540cb-fdc9-4d79-abc0-43763ac3c7ea"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/adf540cb-fdc9-4d79-abc0-43763ac3c7ea"></video>
 
 [14.2.2.2. 동작 변경키(Key modifiers) - 영상 90.10.1.4.3.a1](./14-02-02-02-key_modifiers.md#90-10-01-04-03-a1)
 

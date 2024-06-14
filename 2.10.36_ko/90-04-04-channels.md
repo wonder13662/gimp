@@ -13,7 +13,7 @@
 <a id="90-04-04-a101"></a>
 
 #### 영상 90.4.4.a101. 채널에 붓 또는 지우개를 사용
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3c33f116-7eed-4e3c-9efa-35bf3b511ab5"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3c33f116-7eed-4e3c-9efa-35bf3b511ab5"></video>
 
 [4.2.13. 붓 또는 지우개를 사용하면 이상한 색이 나옵니다 - 영상 90.4.4.a101](./04-02-13-unexpected-colors-when-trying-to-use-a-brush-or-eraser.md#90-04-04-a101)
 

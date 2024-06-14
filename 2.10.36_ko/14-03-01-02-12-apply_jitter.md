@@ -15,7 +15,7 @@
 <a id="90-03-02-23-a125-03"></a>
 
 #### [영상 90.3.2.23.a125.3. `도구 옵션` → `그리기 붓` → `지터 적용`: 붓 스트로크에 적용하기](./90-03-02-23-paintbrush.md#90-03-02-23-a125-03)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c1fb7d3e-18bf-4fbf-aaba-82b68f85c74e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c1fb7d3e-18bf-4fbf-aaba-82b68f85c74e"></video>
 
 지터(Jitter)는 "페인트 동적 요소 편집기(Paint Dynamic Editor)"에서도 설정할 수 있습니다. 여기서 설정하게 되면, 붓의 동작에도 영향을 줍니다.
 

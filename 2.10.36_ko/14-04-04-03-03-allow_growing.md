@@ -12,7 +12,7 @@
 <a id="90-03-02-10-a201-03-01"></a>
 
 #### [영상 90.3.2.10.a201.3.1. `도구 옵션` → `잘라내기` → `창 크기 조절을 허용`: 켜기](./90-03-02-10-crop.md#90-03-02-10-a201-03-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c0b2857e-8349-41e0-b2a6-7e2fba4b1baa"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c0b2857e-8349-41e0-b2a6-7e2fba4b1baa"></video>
 
 ## 2. 옵션 끄기
 이 옵션을 끄면, 잘라내기 또는 크기 변경을 할 때의 이미지, 레이어 또는 캔버스의 바깥 영역을 포함할 수 없습니다. 아래 영상에서 확인해보면, 잘라내기의 선택 영역을 이미지 안에서만 할 수 있는 것을 확인할 수 있습니다.
@@ -20,7 +20,7 @@
 <a id="90-03-02-10-a201-03-02"></a>
 
 #### [영상 90.3.2.10.a201.3.2. `도구 옵션` → `잘라내기` → `창 크기 조절을 허용`: 끄기](./90-03-02-10-crop.md#90-03-02-10-a201-03-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6c0f1d51-9474-4d3f-9f2a-25f14f16be0e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6c0f1d51-9474-4d3f-9f2a-25f14f16be0e"></video>
 
 ## 3. 옵션 켠 경우의 배경 드롭다운 목록
 `도구 옵션` → `잘라내기` → `창 크기 조절을 허용` 옵션을 켠 경우에 보여지는 드롭다운 목록입니다. 창 크기 영역이 원본 이미지의 바깥일 경우, 빈 공간을 무엇으로 채울지 결정합니다. 기본값은 투명(Transparency)입니다.

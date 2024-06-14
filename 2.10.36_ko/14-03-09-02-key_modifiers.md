@@ -13,7 +13,7 @@ Ctrl(⌘) 키를 누르면 [그리기 붓](./14-03-07-00-paintbrush.md)과 비�
 <a id="90-10-13-02-01-a1"></a>
 
 #### [영상 90.10.13.2.1.a1. 칠하기 도구:`지우개` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(배경색)](./90-10-13-02-01-switch_to_color_picker_bg.md#90-10-13-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b66b1814-5327-49a3-a09f-d97e2933cee7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b66b1814-5327-49a3-a09f-d97e2933cee7"></video>
 
 <a id="14-03-09-02-s2"></a>
 
@@ -25,7 +25,7 @@ Ctrl(⌘) 키를 누르면 [그리기 붓](./14-03-07-00-paintbrush.md)과 비�
 <a id="90-10-13-03-01-a1"></a>
 
 #### [영상 90.10.13.3.1.a1. 칠하기 도구:`지우개` - Ctrl(⌘) 키: `지우기 방지(Anti-erase)` 모드로 바꾸기 (Windows) (우리말)](./90-10-13-03-01-switch_to_anti_erase.md#90-10-13-03-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d5305e7f-9d2e-4dc9-a676-c61f1f44121e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d5305e7f-9d2e-4dc9-a676-c61f1f44121e"></video>
 
 <a id="14-03-09-02-s3"></a>
 
@@ -35,7 +35,7 @@ Shift(⇧) 키를 누르면 `직선 모드(Straight line mode)`로 바뀝니다.
 <a id="90-10-13-04-01-a1"></a>
 
 #### [영상 90.10.13.4.1.a1. 칠하기 도구:`지우개` - Shift(⇧) 키: 직선 그리기](./90-10-13-04-01-switch_to_straight_line_mode.md#90-10-13-04-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ae532fa1-1ead-45e7-97f0-cf0e528cbc63"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ae532fa1-1ead-45e7-97f0-cf0e528cbc63"></video>
 
 ***
 

@@ -42,7 +42,7 @@
 <a id="90-04-05-a133"></a>
 
 #### [영상 90.4.5.a133. 변형 잠금한 경로와 레이어가 함께 변형](./90-04-05-paths.md#90-04-05-a133)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0ddac041-8166-4152-920e-4c68426d2e29"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0ddac041-8166-4152-920e-4c68426d2e29"></video>
 
 ***
 

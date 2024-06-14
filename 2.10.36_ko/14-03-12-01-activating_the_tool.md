@@ -14,7 +14,7 @@
 <a id="90-01-08-02-09-a101-01"></a>
 
 #### [영상 90.1.8.2.9.a101.1. `이미지 메뉴 바` → `도구` → `칠하기 도구` → `도장 도구` (Windows) (우리말)](./90-01-08-02-09-clone.md#90-01-08-02-09-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cb41fe20-e75b-40c8-94cc-36c7282fd824"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/cb41fe20-e75b-40c8-94cc-36c7282fd824"></video>
 
 <a id="14-03-12-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-29-a2-01"></a>
 
 #### [영상 90.3.2.29.a2.1. `도구상자` → `도장` (Windows) (우리말)](./90-03-02-29-clone.md#90-03-02-29-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cba4dad1-f554-4994-b619-c6b22048f5db"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/cba4dad1-f554-4994-b619-c6b22048f5db"></video>
 
 <a id="14-03-12-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-16-01-01-a1"></a>
 
 #### [영상 90.10.16.1.1.a1. `도장` 도구 - 키보드 단축키 `C`](./90-10-16-01-01-c.md#90-10-16-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/af6ec1cc-a5a2-4c2a-8137-8ed52bc97939"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/af6ec1cc-a5a2-4c2a-8137-8ed52bc97939"></video>
 
 ***
 

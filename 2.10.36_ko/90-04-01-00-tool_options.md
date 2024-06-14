@@ -11,7 +11,7 @@
 <a id="90-04-01-a101"></a>
 
 #### 영상 90.4.1.a101. '도구 옵션' 대화상자를 드래그해서 옮기기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4a654ab9-d649-477f-a106-694cc5f1f98d"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4a654ab9-d649-477f-a106-694cc5f1f98d"></video>
 
 [4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 영상 90.4.1.a101](./04-03-02-tool-options-dialog-is-missing.md#90-04-01-a101)
 
@@ -37,7 +37,7 @@
 <a id="90-04-01-a161"></a>
 
 #### 영상 90.4.1.a161. `도구 옵션 메뉴` → `도구 프리셋 편집`
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/75c33015-4bf8-48c3-9485-84bfa2d213e3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/75c33015-4bf8-48c3-9485-84bfa2d213e3"></video>
 
 [14.1.4.5. 도구 프리셋 수정(Edit Tool Preset) - 영상 90.4.1.a161](./14-01-04-05-edit_tool_preset.md)
 

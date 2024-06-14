@@ -3,7 +3,7 @@
 <a id="90-10-05-02-02-a1"></a>
 
 #### 영상 90.10.5.2.2.a1. `색상으로 선택` 도구 - 선택 영역 확대(아래쪽)/축소(위쪽)하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/518a4abc-e3d0-413c-b391-9da93d5080e3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/518a4abc-e3d0-413c-b391-9da93d5080e3"></video>
 
 [14.2.6.3. 도구 사용(Tool manipulation) - 영상 90.10.5.2.2.a1](./14-02-06-03-tool_manipulation.md#90-10-05-02-02-a1)
 

@@ -10,7 +10,7 @@
 <a id="90-03-02-19-a11-05-01"></a>
 
 #### [영상 90.3.2.19.a11.5.1. `도구 옵션` → `워프 변형` → `실시간 미리보기` (Windows) (우리말)](./90-03-02-19-warp_transform.md#90-03-02-19-a11-05-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d9c90dc6-4d89-415b-a01a-3b32a3592ae8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d9c90dc6-4d89-415b-a01a-3b32a3592ae8"></video>
 
 ***
 

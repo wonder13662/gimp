@@ -43,7 +43,7 @@ GIMP는 세가자의 컬러 모드를 사용합니다.[RGB(A), 그레이스케�
 <a id="90-01-05-02-03-a101"></a>
 
 #### [영상 90.1.5.2.3.a101. 색상모드를 인덱스로 바꿔 색상표(Colormap) 대화상자 만들기](./90-01-05-02-03-indexed.md#90-01-05-02-03-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e1b86121-19a0-4830-b091-c3a2db7e6d72"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e1b86121-19a0-4830-b091-c3a2db7e6d72"></video>
 
 ***
 

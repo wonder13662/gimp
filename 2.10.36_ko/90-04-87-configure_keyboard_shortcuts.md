@@ -26,7 +26,7 @@
 <a id="90-04-87-a111"></a>
 
 #### 영상 90.4.87.a111. `키보드 단축키 설정` 대화상자: 단축키 설정 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e495b362-c470-4c28-91b7-b02f3f21bb14"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e495b362-c470-4c28-91b7-b02f3f21bb14"></video>
 
 [12.5. 메뉴 단축키 설정하기(Creating shortcuts to menu commands) - 영상 90.4.87.a111](./12-05-creating-shortcuts-to-menu-commands.md#90-04-87-a111)
 

@@ -32,7 +32,7 @@
 <a id="90-04-01-03-a173"></a>
 
 #### [영상 90.4.1.3.a173. `도구 옵션` → `사각 선택` → `둥근 모서리` (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a173)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7d6d6393-c064-4ebe-9a09-a01ad7475ee3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7d6d6393-c064-4ebe-9a09-a01ad7475ee3"></video>
 
 <a id="14-02-02-04-s5"></a>
 
@@ -42,7 +42,7 @@
 <a id="90-04-01-03-a174"></a>
 
 #### [영상 90.4.1.3.a174. `도구 옵션` → `사각 선택` → `중앙으로부터 확장` (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a174)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b0fbd786-c06c-4f00-a74d-65b9292049e1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b0fbd786-c06c-4f00-a74d-65b9292049e1"></video>
 
 <a id="14-02-02-04-s6"></a>
 
@@ -62,7 +62,7 @@
 <a id="90-04-01-03-a175-01"></a>
 
 #### [영상 90.4.1.3.a175.1. `도구 옵션` → `사각 선택` → `고정` → `종횡비` (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a175-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9d9051b8-418a-4220-9094-44d43ee13359"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9d9051b8-418a-4220-9094-44d43ee13359"></video>
 
 <a id="14-02-02-04-s6-02"></a>
 
@@ -72,7 +72,7 @@
 <a id="90-04-01-03-a175-02"></a>
 
 #### [영상 90.4.1.3.a175.2. `도구 옵션` → `사각 선택` → `고정` → `너비` (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a175-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eab5148b-8f79-4ac1-948f-a8c323f4d9c4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/eab5148b-8f79-4ac1-948f-a8c323f4d9c4"></video>
 
 <a id="14-02-02-04-s6-03"></a>
 
@@ -82,7 +82,7 @@
 <a id="90-04-01-03-a175-03"></a>
 
 #### [영상 90.4.1.3.a175.3. `도구 옵션` → `사각 선택` → `고정` → `높이` (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a175-03)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/73f36215-caaa-4b41-bcbf-3f5b4dfcc27c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/73f36215-caaa-4b41-bcbf-3f5b4dfcc27c"></video>
 
 <a id="14-02-02-04-s6-04"></a>
 
@@ -92,7 +92,7 @@
 <a id="90-04-01-03-a175-04"></a>
 
 #### [영상 90.4.1.3.a175.4. `도구 옵션` → `사각 선택` → `고정` → `크기` (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a175-04)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c6513d9b-ef69-4f85-adca-5a8b6d5071df"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c6513d9b-ef69-4f85-adca-5a8b6d5071df"></video>
 
 <a id="14-02-02-04-s7"></a>
 
@@ -102,7 +102,7 @@
 <a id="90-04-01-03-a176"></a>
 
 #### [영상 90.4.1.3.a176. `도구 옵션` → `사각 선택` → `위치` (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a176)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3ef8ae10-7cc1-4230-adef-d105d496cf3e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3ef8ae10-7cc1-4230-adef-d105d496cf3e"></video>
 
 <a id="14-02-02-04-s8"></a>
 
@@ -112,7 +112,7 @@
 <a id="90-04-01-03-a177"></a>
 
 #### [영상 90.4.1.3.a177. `도구 옵션` → `사각 선택` → `크기` (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a177)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d988c494-208b-4308-85ad-c15b61579b87"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d988c494-208b-4308-85ad-c15b61579b87"></video>
 
 <a id="14-02-02-04-s9"></a>
 
@@ -124,7 +124,7 @@
 <a id="90-04-01-03-a162"></a>
 
 #### [영상 90.4.1.3.a162. `도구 옵션` → `사각 선택` → `강조` (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a162)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ce2e0413-333d-488b-accb-56e01f2af887"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ce2e0413-333d-488b-accb-56e01f2af887"></video>
 
 <a id="14-02-02-04-s10"></a>
 
@@ -200,7 +200,7 @@
 <a id="90-04-01-03-a179"></a>
 
 #### [영상 90.4.1.3.a179. `도구 옵션` → `사각 선택` → `자동 줄이기` (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a179)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f6b28685-3f02-478e-a424-983d1ad115d6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f6b28685-3f02-478e-a424-983d1ad115d6"></video>
 
 <a id="14-02-02-04-s12"></a>
 
@@ -212,7 +212,7 @@
 <a id="90-04-01-03-a180"></a>
 
 #### [영상 90.4.1.3.a180. `도구 옵션` → `사각 선택` → `표본 합치기` (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a180)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b8800862-5162-47b7-b0ac-4efad16970ad"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b8800862-5162-47b7-b0ac-4efad16970ad"></video>
 
 ***
 

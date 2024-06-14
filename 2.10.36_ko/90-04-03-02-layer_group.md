@@ -12,14 +12,14 @@
 <a id="90-04-03-02-a21"></a>
 
 #### 영상 90.4.3.2.a21. 레이어 대화상자 - 레이어 그룹 추가 버튼으로 레이어 그룹 추가
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d41a23d7-ca29-4045-8ab8-be7e4932b61c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d41a23d7-ca29-4045-8ab8-be7e4932b61c"></video>
 
 [8.5.1. 레이어 그룹 만들기(Create a Layer Group) - 영상 90.4.3.2.a21](./08-05-01-create_a_layer_group.md#90-04-03-02-a21)
 
 <a id="90-04-03-02-a31"></a>
 
 #### 영상 90.4.3.2.a31. 레이어 대화상자 - 새 레이어 추가 버튼으로 레이어 그룹 안에 레이어 추가
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/877ae55c-d51f-4d42-808e-10b27d6b192d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/877ae55c-d51f-4d42-808e-10b27d6b192d"></video>
 
 [8.5.2. 레이어 그룹에 레이어 넣기(Adding Layers to a Layer Group) - 영상 90.4.3.2.a31](./08-05-02-adding_layers_to_a_layer_group.md#90-04-03-02-a31)
 
@@ -37,7 +37,7 @@
 <a id="90-04-03-02-a51"></a>
 
 #### 영상 90.4.3.2.a51. 레이어 그룹에 직접 작업시, 에러 메시지 노출
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/99cbfad6-a162-444c-b4e7-2a0c721952b1"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/99cbfad6-a162-444c-b4e7-2a0c721952b1"></video>
 
 [4.2.7. 레이어 그룹에서 작업을 하려는 경우 - 영상 90.4.3.2.a51](./04-02-07-you-are-trying-to-act-on-a-layer-group.md#90-04-03-02-a51)
 
@@ -46,42 +46,42 @@
 <a id="90-04-03-02-a61"></a>
 
 #### 영상 90.4.3.2.a61. 레이어 그룹 안의 레이어를 선택하여 작업
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/aedf4dd2-d140-46d2-949c-ccf748a77bfd"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/aedf4dd2-d140-46d2-949c-ccf748a77bfd"></video>
 
 [4.2.7. 레이어 그룹에서 작업을 하려는 경우 - 영상 90.4.3.2.a61](./04-02-07-you-are-trying-to-act-on-a-layer-group.md#90-04-03-02-a61)
 
 <a id="90-04-03-02-a71"></a>
 
 #### 영상 90.4.3.2.a71. 레이어 대화상자의 레이어 그룹을 더블 클릭 → 레이어 그룹 이름 바꾸기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7c82b7cd-53ef-439d-9802-1cc6f6ac73d4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7c82b7cd-53ef-439d-9802-1cc6f6ac73d4"></video>
 
 [8.5.1. 레이어 그룹 만들기(Create a Layer Group) - 영상 90.4.3.2.a71](./08-05-01-create_a_layer_group.md#90-04-03-02-a71)
 
 <a id="90-04-03-02-a81"></a>
 
 #### 영상 90.4.3.2.a81. 레이어 대화상자의 레이어 그룹 위에서 F2 키 누르기 → 레이어 그룹 이름 바꾸기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4ea1cb5e-3a81-4edc-8fad-50287aae21b4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4ea1cb5e-3a81-4edc-8fad-50287aae21b4"></video>
 
 [8.5.1. 레이어 그룹 만들기(Create a Layer Group) - 영상 90.4.3.2.a81](./08-05-01-create_a_layer_group.md#90-04-03-02-a81)
 
 <a id="90-04-03-02-a91"></a>
 
 #### 영상 90.4.3.2.a91. 레이어 대화상자의 레이어 그룹 위에서 fn + F2 키 누르기 → 레이어 그룹 이름 바꾸기 (Mac) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/300bd553-c6ab-4801-a99a-f94fafa326c3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/300bd553-c6ab-4801-a99a-f94fafa326c3"></video>
 
 [8.5.1. 레이어 그룹 만들기(Create a Layer Group) - 영상 90.4.3.2.a91](./08-05-01-create_a_layer_group.md#90-04-03-02-a91)
 
 <a id="90-04-03-02-a101"></a>
 
 #### 영상 90.4.3.2.a101. 레이어 대화상자에서 레이어 그룹을 계속 추가하면 어떤 이름이 붙을까? (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/19f06f78-32cd-47e8-a566-f1964b872c1a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/19f06f78-32cd-47e8-a566-f1964b872c1a"></video>
 
 [8.5.1. 레이어 그룹 만들기(Create a Layer Group) - 영상 90.4.3.2.a101](./08-05-01-create_a_layer_group.md#90-04-03-02-a101)
 
 <a id="90-04-03-02-a111"></a>
 
 #### 영상 90.4.3.2.a111. 중첩된 레이어 그룹을 다른 레이어 그룹에 집어 넣기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/421b5d6b-a79d-4003-b2f1-4edee45731ba"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/421b5d6b-a79d-4003-b2f1-4edee45731ba"></video>
 
 [8.5.1. 레이어 그룹 만들기(Create a Layer Group) - 영상 90.4.3.2.a111](./08-05-01-create_a_layer_group.md#90-04-03-02-a111)
 
@@ -90,7 +90,7 @@
 <a id="90-04-03-02-a121"></a>
 
 #### 영상 90.4.3.2.a121. 레이어 대화상자의 아래쪽 레이어 올리기, 내리기 버튼으로 레이어와 레이어 그룹 옮기기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cf2d09e2-5034-4c01-a086-f889f1e42071"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/cf2d09e2-5034-4c01-a086-f889f1e42071"></video>
 
 [8.5.4. 레이어 그룹 올리기/내리기(Raise and Lower Layer Groups) - 영상 90.4.3.2.a121](./08-05-04-raise_n_lower_layer_groups.md#90-04-03-02-a121)
 
@@ -125,42 +125,42 @@
 <a id="90-04-03-02-a171"></a>
 
 #### 영상 90.4.3.2.a171. 레이어 그룹 안의 레이어에 레이어 모드 적용
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/64014aa2-f75b-4ee4-afc6-5228029613c4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/64014aa2-f75b-4ee4-afc6-5228029613c4"></video>
 
 [8.5.9. 레이어 모드와 그룹(Layer Modes and Groups) - 영상 90.4.3.2.a171](./08-05-09-layer_modes_n_groups.md#90-04-03-02-a171)
 
 <a id="90-04-03-02-a172"></a>
 
 #### 영상 90.4.3.2.a172. 레이어 그룹 바깥의 레이어에 레이어 모드 적용
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/af44a9be-d32d-4723-b326-f5aaa8cb7d11"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/af44a9be-d32d-4723-b326-f5aaa8cb7d11"></video>
 
 [8.5.9. 레이어 모드와 그룹(Layer Modes and Groups) - 영상 90.4.3.2.a172](./08-05-09-layer_modes_n_groups.md#90-04-03-02-a172)
 
 <a id="90-04-03-02-a181"></a>
 
 #### 영상 90.4.3.2.a181. 레이어 그룹의 투명도 조정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c8d60f7b-bd91-4b75-94b9-1df9364e79ce"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c8d60f7b-bd91-4b75-94b9-1df9364e79ce"></video>
 
 [8.5.10. 불투명도(Opacity) - 영상 90.4.3.2.a181](./08-05-10-opacity.md#90-04-03-02-a181)
 
 <a id="90-04-03-02-a191"></a>
 
 #### 영상 90.4.3.2.a191. 레이어 그룹의 경계가 줄어들어 레이어 그룹 마스크의 크기가 작아짐
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bc97311e-27d2-4342-b28b-be81e1dfc6f2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bc97311e-27d2-4342-b28b-be81e1dfc6f2"></video>
 
 [8.5.11. 레이어 그룹 마스크(Layer Group Mask) - 영상 90.4.3.2.a191](./08-05-11-layer_mask.md#90-04-03-02-a191)
 
 <a id="90-04-03-02-a192"></a>
 
 #### 영상 90.4.3.2.a192. 레이어 그룹의 경계가 늘어나서 레이어 그룹 마스크의 크기가 커짐
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dafb7205-1a89-4fe4-a0e0-719c42ee5cd9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/dafb7205-1a89-4fe4-a0e0-719c42ee5cd9"></video>
 
 [8.5.11. 레이어 그룹 마스크(Layer Group Mask) - 영상 90.4.3.2.a192](./08-05-11-layer_mask.md#90-04-03-02-a192)
 
 <a id="90-04-03-02-a201"></a>
 
 #### 영상 90.4.3.2.a201. 레이어 그룹의 미리보기 기능 끄기/켜기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9bb1f1d8-8c14-490b-b4c3-8f756e988a54"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9bb1f1d8-8c14-490b-b4c3-8f756e988a54"></video>
 
 [8.5.13. 레이어 미리보기(Layer preview) - 영상 90.4.3.2.a201](./08-05-13-layer_preview.md#90-04-03-02-a201)
 

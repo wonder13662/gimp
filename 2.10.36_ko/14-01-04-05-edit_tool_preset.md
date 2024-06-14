@@ -4,7 +4,7 @@
 <a id="90-04-01-a161"></a>
 
 #### [영상 90.4.1.a161. `도구 옵션 메뉴` → `도구 프리셋 편집`](./90-04-01-00-tool_options.md#90-04-01-a161)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/75c33015-4bf8-48c3-9485-84bfa2d213e3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/75c33015-4bf8-48c3-9485-84bfa2d213e3"></video>
 
 ***
 

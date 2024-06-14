@@ -9,7 +9,7 @@
 <a id="90-04-01-23-a101"></a>
 
 #### 영상 90.4.1.23.a101. 도구 옵션(Tool Options)의 불투명도(Opacity)가 0인 상태에서 작업
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/848ebe82-a4d8-44a4-9c99-f6c00c7870b4"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/848ebe82-a4d8-44a4-9c99-f6c00c7870b4"></video>
 
 [4.2.9. 붓, 지우개 또는 다른 도구로 작업한 효과가 보이지 않는 경우 - 영상 90.4.1.23.a101](./04-02-09-no-visible-effect-when-trying-to-use-a-brush-eraser-or-other-tool.md#90-04-01-23-a101)
 

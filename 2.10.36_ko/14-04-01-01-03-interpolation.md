@@ -81,7 +81,7 @@
 <a id="90-04-77-a121"></a>
 
 #### [그림 90.4.77.a121. `선명하게 하기` 대화상자: 헤일로 현상 (Windows) (우리말)](./90-04-77-sharpen_unsharp_mask.md#90-04-77-a121)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/29bac2be-8098-4044-9f6e-75dd2c27080d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/29bac2be-8098-4044-9f6e-75dd2c27080d"></video>
 
 <a id="14-04-01-01-03-s2-02"></a>
 

@@ -3,7 +3,7 @@
 <a id="90-10-23-02-01-a1"></a>
 
 #### 영상 90.10.23.2.1.a1. 변형 도구 `이동`: Ctrl(⌘) 키 - `도구 옵션` → `이동` → `이동` → `경로`로 변경
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4de2ed9e-b08c-4890-84bd-b565bb5fa174"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4de2ed9e-b08c-4890-84bd-b565bb5fa174"></video>
 
 [14.4.3.2. 동작 변경키(Key modifiers) - 영상 90.10.23.2.1.a1](./14-04-03-02-key_modifiers.md#90-10-23-02-01-a1)
 

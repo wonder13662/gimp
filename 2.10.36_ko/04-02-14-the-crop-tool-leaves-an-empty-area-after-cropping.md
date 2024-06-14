@@ -9,12 +9,12 @@
 <a id="90-04-01-10-a221"></a>
 
 #### [영상 90.4.1.10.a221. 도구 옵션의 잘라낸 픽셀 삭제(Delete cropped pixels) 켜고 잘라내기](./90-04-01-10-crop.md#90-04-01-10-a221)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7edad087-e61d-468c-8a6d-a2e7ee1a4564"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7edad087-e61d-468c-8a6d-a2e7ee1a4564"></video>
 
 <a id="90-04-01-10-a222"></a>
 
 #### [영상 90.4.1.10.a222. 도구 옵션의 잘라낸 픽셀 삭제(Delete cropped pixels) 끄고 잘라내기](./90-04-01-10-crop.md#90-04-01-10-a222)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/664085c3-d727-4ef5-afaf-38fe9262f2a5"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/664085c3-d727-4ef5-afaf-38fe9262f2a5"></video>
 
 ***
 

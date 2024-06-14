@@ -52,13 +52,13 @@ GIMP(김프)는 두 가지 유형의 팔레트를 씁니다.
 <a id="90-01-05-02-03-a101"></a>
 
 #### [영상 90.1.5.2.3.a101. 색상모드를 인덱스로 바꿔 색상표(Colormap) 대화상자 만들기](./90-01-05-02-03-indexed.md#90-01-05-02-03-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e1b86121-19a0-4830-b091-c3a2db7e6d72"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e1b86121-19a0-4830-b091-c3a2db7e6d72"></video>
 
 #### 영상 7.12.1.a1. `새 팔레트 가져오기` 대화상자 → `원본 선택`  → `이미지`로 인덱스 이미지의 팔레트 가져오기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d1bb72ed-5cec-4607-b802-b667f74bb76a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d1bb72ed-5cec-4607-b802-b667f74bb76a"></video>
 
 #### 영상 7.12.1.a2. `팔레트` 대화상자의 인덱스 이미지의 팔레트를 복제해서 일반 팔레트로 가져오기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/303fc516-4d4e-4c34-9530-81b2bb0ffedd"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/303fc516-4d4e-4c34-9530-81b2bb0ffedd"></video>
 
 ***
 

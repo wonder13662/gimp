@@ -33,7 +33,7 @@
 <a id="90-03-02-29-a141"></a>
 
 #### [영상 90.3.2.29.a141. `도장(Clone)` 도구로 `흐릿하게/선명하게` 도구 흉내내기 (Windows) (우리말)](./90-03-02-29-clone.md#90-03-02-29-a141)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1b984c2f-375a-49e0-b83f-c790bdeb9bca"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1b984c2f-375a-49e0-b83f-c790bdeb9bca"></video>
 
 ## 7. `흐릿하게/선명하게` 도구의 효과는 점점 쌓입니다
 `흐릿하게/선명하게` 도구의 효과는 점점 쌓입니다. 붓 스트로크가 한 지점에 반복되면 도구의 효과가 더 강해집니다.
@@ -41,7 +41,7 @@
 <a id="90-03-02-33-a131"></a>
 
 #### [영상 90.3.2.33.a131. `흐릿하게/선명하게` 도구의 효과는 점점 쌓입니다: 클릭 50회와 10회의 비교 (Windows) (우리말)](./90-03-02-33-blur_sharpen.md#90-03-02-33-a131)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f668e6ee-17cb-4eed-af00-8b0876382653"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f668e6ee-17cb-4eed-af00-8b0876382653"></video>
 
 ## 8. `도구 옵션` → `흐릿하게/선명하게` → `동작 속도`
 [`도구 옵션` → `흐릿하게/선명하게` → `동작 속도`](./14-03-15-03-options.md#14-03-15-03-s17) 슬라이더의 값은 한번의 붓 스트로크에 얼마나 많은 효과가 쌓이는지 설정합니다. 더 높은 값을 설정하면 더 강한 효과를 낼 수 있습니다.
@@ -49,7 +49,7 @@
 <a id="90-03-02-33-a121-01-01"></a>
 
 #### [영상 90.3.2.33.a121.1.1. `도구 옵션` → `흐릿하게/선명하게` → `동작 속도`: 비교 (Windows) (우리말)](./90-03-02-33-blur_sharpen.md#90-03-02-33-a121-01-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fdf77960-2e80-4fa9-b7e2-1fe73b3e8b24"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fdf77960-2e80-4fa9-b7e2-1fe73b3e8b24"></video>
 
 ## 9. `도구 옵션` → `흐릿하게/선명하게` → `불투명도`
 [`도구 옵션` → `흐릿하게/선명하게` → `불투명도`](./14-03-15-03-options.md#14-03-15-03-s2) 슬라이더의 값은 몇 번의 붓 스트로크가 겹쳐지는지와는 상관없이 한번의 붓 스트로크로 흐려지거나 선명해지는 효과의 정도를 제한할 수 있습니다.

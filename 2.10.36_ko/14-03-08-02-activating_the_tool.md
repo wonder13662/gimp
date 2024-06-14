@@ -14,7 +14,7 @@
 <a id="90-01-08-02-08-a101-01"></a>
 
 #### [영상 90.1.8.2.8.a101.1. `이미지 메뉴 바` → `도구` → `칠하기 도구` → `마이페인트 붓` (Windows) (우리말)](./90-01-08-02-08-mypaint_brush.md#90-01-08-02-08-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8f5cddca-15ad-4c02-9cdd-12effcaffb3d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8f5cddca-15ad-4c02-9cdd-12effcaffb3d"></video>
 
 <a id="14-03-08-02-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-27-a2-01"></a>
 
 #### [영상 90.3.2.27.a2.1. `도구상자` → `MyPaint 붓` (Windows) (우리말)](./90-03-02-27-mypaint_brush.md#90-03-02-27-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9e9ce5f2-e648-4364-bdd5-1852be4132a4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9e9ce5f2-e648-4364-bdd5-1852be4132a4"></video>
 
 <a id="14-03-08-02-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-12-01-01-a1"></a>
 
 #### [영상 90.10.12.1.1.a1. `그리기 붓` 도구 - 키보드 단축키 `Y`](./90-10-12-01-01-y.md#90-10-12-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/268d1850-7e5b-41bb-93ad-39bb9d8742dc"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/268d1850-7e5b-41bb-93ad-39bb9d8742dc"></video>
 
 ***
 

@@ -20,7 +20,7 @@
 <a id="90-10-24-02-01-a1"></a>
 
 #### [영상 90.10.24.2.1.a1. 변형 도구 `잘라내기`: Ctrl(⌘) 키 - `도구 옵션` → `잘라내기` → `중앙으로부터 확장` 켜기/끄기 전환](./90-10-24-02-01-switch_to_extend_from_center.md#90-10-24-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9b3b8968-5e2c-445a-b3f2-829d9f852c70"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9b3b8968-5e2c-445a-b3f2-829d9f852c70"></video>
 
 <a id="14-04-04-02-s2"></a>
 
@@ -34,7 +34,7 @@
 <a id="90-10-24-03-01-a1"></a>
 
 #### [영상 90.10.24.3.1.a1. 변형 도구 `잘라내기`: Shift(⇧) - `도구 옵션` → `잘라내기` → `고정` 켜기/끄기](./90-10-24-03-01-switch_to_fixed.md#90-10-24-03-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5a131a9e-5ee6-41b2-a04b-2bfd18046b90"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5a131a9e-5ee6-41b2-a04b-2bfd18046b90"></video>
 
 <a id="14-04-04-02-s2-02"></a>
 
@@ -44,7 +44,7 @@
 <a id="90-10-24-03-02-a1"></a>
 
 #### [영상 90.10.24.3.2.a1. 변형 도구 `잘라내기`: Shift(⇧) 키 + 방향키 (25픽셀씩 이동)](./90-10-24-03-02-move_by_25pixels.md#90-10-24-03-02-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0ed347c8-820b-4b49-98d1-889b37e750a7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0ed347c8-820b-4b49-98d1-889b37e750a7"></video>
 
 ***
 

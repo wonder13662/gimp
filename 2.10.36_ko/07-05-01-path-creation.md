@@ -31,7 +31,7 @@
 <a id="90-10-35-01-01-a1"></a>
 
 #### [영상 90.10.35.1.1.a1. `도구상자` → `경로`: 키보드 단축키 `B` (Windows) (우리말)](./90-10-35-00-path.md#90-10-35-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8434cfe3-b8c1-428c-b563-7f20dc7e6d38"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8434cfe3-b8c1-428c-b563-7f20dc7e6d38"></video>
 
 <a id="07-05-01-s2"></a>
 
@@ -107,7 +107,7 @@ Ctrl(⌘)을 누른채로 닫을 경로 위에 마우스 커서를 올리면 `�
 <a id="90-03-02-35-a10"></a>
 
 #### [영상 90.3.2.35.a10. 닫은 경로를 대화상자의 "경로로부터 선택 영역 만들기"를 클릭해서 선택으로 바꿈](./90-03-02-35-paths.md#90-03-02-35-a10)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a22f0f9b-0562-4f0d-bf57-52f8f56ae0bc"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a22f0f9b-0562-4f0d-bf57-52f8f56ae0bc"></video>
 
 <a id="07-05-01-s5"></a>
 

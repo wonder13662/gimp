@@ -19,7 +19,7 @@
 <a id="90-04-03-07-a31"></a>
 
 #### 영상 90.4.3.7.a31. 일반 레이어 모드와 레거시 레이어 모드 전환하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ca578991-bac1-452b-bdf3-978e7fa9ae6e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ca578991-bac1-452b-bdf3-978e7fa9ae6e"></video>
 
 [8.3. 레거시 레이어 모드 - 영상 90.4.3.7.a31](./08-03-00-legacy-layer-modes.md#90-04-03-07-a31)
 

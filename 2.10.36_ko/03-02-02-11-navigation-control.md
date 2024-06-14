@@ -24,7 +24,7 @@
 <a id="90-05-11-a121"></a>
 
 #### [그림 90.5.11.a121. 내비게이션 미리보기로 이미지의 다른 부분으로 옮기기](./90-05-11-navigation_control.md#90-05-11-a121)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b3082a40-da2a-4105-9f6b-8f0657354098"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b3082a40-da2a-4105-9f6b-8f0657354098"></video>
 
 ## 3.2.2.11.3. 내비게이션 창을 다른 방법으로 열기
 내비게이션 창을 다른 방법으로 열고 싶다면 [15.2.6. 내비게이션 대화상자](./15-02-06-navigation-dialog.md)에 대한 설명을 참조해주세요. 또한 마우스 가운데 버튼이 있다면, 이미지 위에서 가운데 버튼을 클릭한 후 드래그하여 원하는 부분으로 옮길수 있습니다.
@@ -32,7 +32,7 @@
 <a id="90-05-11-a131"></a>
 
 #### [그림 90.5.11.a131. 마우스 가운데 버튼으로 이미지의 원하는 부분으로 옮기기](./90-05-11-navigation_control.md#90-05-11-a131)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1b8b315c-e71d-4414-926e-6daef83183ed"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1b8b315c-e71d-4414-926e-6daef83183ed"></video>
 
 ***
 

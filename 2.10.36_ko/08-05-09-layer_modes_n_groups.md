@@ -6,7 +6,7 @@
 <a id="90-04-03-02-a171"></a>
 
 #### [영상 90.4.3.2.a171. 레이어 그룹 안의 레이어에 레이어 모드 적용](./90-04-03-02-layer_group.md#90-04-03-02-a171)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/64014aa2-f75b-4ee4-afc6-5228029613c4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/64014aa2-f75b-4ee4-afc6-5228029613c4"></video>
 
 ## 2. 레이어 그룹 바깥의 레이어에 레이어 모드를 적용했을 때
 레이어 그룹 바깥의 레이어에 적용된 레이어 모드는 해당 레이어 아래의 레이어 그룹 안과 바깥에 있는 레이어에 모두 적용됩니다.
@@ -14,7 +14,7 @@
 <a id="90-04-03-02-a172"></a>
 
 #### [영상 90.4.3.2.a172. 레이어 그룹 바깥의 레이어에 레이어 모드 적용](./90-04-03-02-layer_group.md#90-04-03-02-a172)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/af44a9be-d32d-4723-b326-f5aaa8cb7d11"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/af44a9be-d32d-4723-b326-f5aaa8cb7d11"></video>
 
 ## 3. 레이어 그룹 만의 레이어 모드: `Pass Through`
 GIMP(김프) 2.10 이후로 레이어 그룹에 특별한 레이어 모드가 생겼습니다. 바로 레이어 모드 `Pass Through`입니다. 이 레이어 모드는 레이어 그룹이 활성화된 경우에만 선택할 수 있습니다.

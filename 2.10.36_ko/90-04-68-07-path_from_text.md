@@ -11,7 +11,7 @@
 <a id="90-04-68-07-a102"></a>
 
 #### 영상 90.4.68.7.a102. `텍스트 컨텍스트 메뉴` → `텍스트에서 경로` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4c73031c-7d97-49c9-9639-2174b718924d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4c73031c-7d97-49c9-9639-2174b718924d"></video>
 
 [9.1.4.7. 텍스트에서 경로(Path from Text) - 영상 90.4.68.7.a102](./09-01-04-07-path_from_text.md#90-04-68-07-a102)
 

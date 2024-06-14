@@ -21,7 +21,7 @@ GIMP(김프)를 시작할 때, 스플래쉬 이미지가 모든 컴포넌트를 
 ![12-06-02-a1(50%)](https://github.com/wonder13662/gimp/assets/15767104/2d3704c5-190c-40ba-8cf7-f492c0652d16)
 
 #### 영상 12.6.s2.a1. 랜덤으로 로딩되는 스플래쉬 이미지 (Mac) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ec8a8e65-160a-45d3-8a0b-f2bcc5d4c79a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ec8a8e65-160a-45d3-8a0b-f2bcc5d4c79a"></video>
 
 ## 3. Windows의 스플래시 이미지 폴더 위치
 ```
@@ -34,7 +34,7 @@ C:\Users\user_name\AppData\Roaming\GIMP\2.10\
 ![12-06-03-a1](https://github.com/wonder13662/gimp/assets/15767104/f002a2fb-0b87-4f08-947f-e8aed5984d4a)
 
 #### 영상 12.6.s3.a2. 랜덤으로 로딩되는 스플래쉬 이미지 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/84d813bf-22a8-4c08-a4fb-a3b85be5cb60"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/84d813bf-22a8-4c08-a4fb-a3b85be5cb60"></video>
 
 ***
 

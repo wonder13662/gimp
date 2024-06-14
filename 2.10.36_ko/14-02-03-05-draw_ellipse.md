@@ -8,7 +8,7 @@
 <a id="90-03-02-04-a11-01"></a>
 
 #### [영상 90.3.2.4.a11.1. `도구상자` → `타원 선택`: 타원 선택 도구와 영역 채우기로 원이나 타원 그리기](./90-03-02-04-ellipse_select.md#90-03-02-04-a11-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9235f139-37f0-4e81-bf30-d5db22e825ed"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9235f139-37f0-4e81-bf30-d5db22e825ed"></video>
 
 <a id="14-02-03-05-s2"></a>
 
@@ -22,7 +22,7 @@
 <a id="90-03-02-04-a12-01"></a>
 
 #### [영상 90.3.2.4.a12.1. `도구상자` → `타원 선택`: 선택 영역 따라 그리기](./90-03-02-04-ellipse_select.md#90-03-02-04-a12-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/328b5e65-be46-48ad-9e93-36d86988e617"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/328b5e65-be46-48ad-9e93-36d86988e617"></video>
 
 <a id="14-02-03-05-s2-02"></a>
 
@@ -32,7 +32,7 @@
 <a id="90-03-02-04-a13-01"></a>
 
 #### [영상 90.3.2.4.a13.1. `도구상자` → `타원 선택`: 두개의 타원 선택으로 선 긋기](./90-03-02-04-ellipse_select.md#90-03-02-04-a13-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2f46fc8f-66db-42a5-8196-0d233da0caa2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2f46fc8f-66db-42a5-8196-0d233da0caa2"></video>
 
 <a id="14-02-03-05-s2-03"></a>
 
@@ -42,7 +42,7 @@
 <a id="90-03-02-04-a14-01"></a>
 
 #### [영상 90.3.2.4.a14.1. `도구상자` → `타원 선택`: `선택` → `테두리...`로 선 긋기](./90-03-02-04-ellipse_select.md#90-03-02-04-a14-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d632d953-e941-40d1-b3b3-b7419d920c02"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d632d953-e941-40d1-b3b3-b7419d920c02"></video>
 
 <a id="14-02-03-05-s2-04"></a>
 

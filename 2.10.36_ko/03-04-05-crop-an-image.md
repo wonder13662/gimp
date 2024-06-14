@@ -25,12 +25,12 @@
 <a id="90-01-08-03-03-a203"></a>
 
 #### [영상 90.1.8.3.3.a203. 잘라내기 직접 해보기(이미지 메뉴 바의 잘라내기 메뉴)](./90-01-08-03-03-crop.md#90-01-08-03-03-a203)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/746c7197-2b70-4ae7-a9ef-134ea29961f5"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/746c7197-2b70-4ae7-a9ef-134ea29961f5"></video>
 
 <a id="90-03-02-10-a101"></a>
 
 #### [영상 90.3.2.10.a101. 잘라내기 직접 해보기(도구상자(Toolbox)의 잘라내기 메뉴)](./90-03-02-10-crop.md#90-03-02-10-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/050c3adf-ee08-4376-a5f0-802e8974e265"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/050c3adf-ee08-4376-a5f0-802e8974e265"></video>
 
 잘라내는 영역의 한쪽 끝을 클릭하고 대각선 방향으로 끌어 놓습니다. 이때 만들어지는 사각형은 나중에 조정이 가능합니다.
 

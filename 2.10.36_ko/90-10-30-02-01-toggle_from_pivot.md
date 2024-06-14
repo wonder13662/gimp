@@ -3,7 +3,7 @@
 <a id="90-10-30-02-01-a1"></a>
 
 #### 영상 90.10.30.2.1.a1. `도구 옵션` → `통합 변형` → `From Pivot`: Ctrl(⌘)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e883596d-ecff-479f-8046-d112f1f5dc83"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e883596d-ecff-479f-8046-d112f1f5dc83"></video>
 
 [14.4.10.2. 동작 변경키(Key modifiers) - 영상 90.10.30.2.1.a1](./14-04-10-02-key_modifiers.md#90-10-30-02-01-a1)
 

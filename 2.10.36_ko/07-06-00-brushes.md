@@ -45,7 +45,7 @@ GIMP(김프)에는 `칠하기 도구(paint tool)`가 있습니다. 채색 작업
 <a id="90-03-02-23-a113"></a>
 
 #### [영상 90.3.2.23.a113. 그리기 붓(Paintbrush)의 붓 긋기(Brush stroke)](./90-03-02-23-paintbrush.md#90-03-02-23-a113)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f71f220a-c5e6-4262-afa0-f1dd7e1e2fde"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f71f220a-c5e6-4262-afa0-f1dd7e1e2fde"></video>
 
 붓의 간격의 경우에는 붓의 기본 간격 설정이 기본값으로 영향을 미칩니다.
 
@@ -64,7 +64,7 @@ GIMP(김프)에는 `칠하기 도구(paint tool)`가 있습니다. 채색 작업
 <a id="90-04-15-a141"></a>
 
 #### [영상 90.4.15.a141. 붓 대화상자 (Windows) (우리말) - 붓 선택하기](./90-04-15-brushes.md#90-04-15-a141)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/93612d28-ed12-4590-bafe-f64469f081a3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/93612d28-ed12-4590-bafe-f64469f081a3"></video>
 
 ## 지금 쓰고 있는 붓 확인하기
 GIMP(김프)에서 지금 쓰고 있는 붓은 도구상자의 붓/무늬/그라디언트 영역과 도구 옵션의 `붓` 항목에서 확인할 수 있습니다. 
@@ -80,7 +80,7 @@ GIMP(김프)에서 지금 쓰고 있는 붓은 도구상자의 붓/무늬/그라
 <a id="90-04-15-a143"></a>
 
 #### [영상 90.4.15.a143. 붓 대화상자 활성화하기 - 도구상자의 붓/무늬/그라디언트 영역의 붓 클릭](./90-04-15-brushes.md#90-04-15-a143)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/16c8b4fc-f86f-4f08-aa58-fd37dd7fccc1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/16c8b4fc-f86f-4f08-aa58-fd37dd7fccc1"></video>
 
 ## 기본 붓과 붓 추가하기
 GIMP(김프)를 처음 설치하면, 기본 붓이 함께 설치되어 있습니다. 그리고 직접 새로운 붓을 만들수도 있고, 다운로드받아 추가할 수도 있습니다.

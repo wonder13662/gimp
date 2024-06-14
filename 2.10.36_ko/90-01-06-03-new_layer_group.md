@@ -13,14 +13,14 @@
 <a id="90-01-06-03-a102"></a>
 
 #### 영상 90.1.6.3.a102. 이미지 메뉴 바의 `레이어` → `새 레이어 그룹(New Layer Group)`를 클릭해서 레이어 그룹 추가
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e47ba4a2-8f6e-4db1-9001-5ac0d71b3dc8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e47ba4a2-8f6e-4db1-9001-5ac0d71b3dc8"></video>
 
 [8.5.1. 레이어 그룹 만들기(Create a Layer Group) - 영상 90.1.6.3.a102](./08-05-01-create_a_layer_group.md#90-01-06-03-a102)
 
 <a id="90-01-06-03-a103"></a>
 
 #### 영상 90.1.6.3.a103. 이미지 메뉴 바의 `레이어` → `새 레이어 그룹(New Layer Group)`를 클릭해서 선택한 레이어 그룹 안에 레이어 그룹 추가
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/12793dbf-af25-42ee-a439-bb56408f8608"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/12793dbf-af25-42ee-a439-bb56408f8608"></video>
 
 [8.5.8. 레이어 그룹 끼워 넣기(Embed Layer Groups) - 영상 90.1.6.3.a103](./08-05-08-embed_layer_groups.md#90-01-06-03-a103)
 

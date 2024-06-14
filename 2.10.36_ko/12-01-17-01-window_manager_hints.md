@@ -40,7 +40,7 @@
 <a id="90-02-06-07-a12-03-01"></a>
 
 #### [영상 90.2.6.7.a12.3.1. `기본 설정` → `인터페이스` → `창 관리` → `창 관리 설정` → `독 및 도구상자 힌트` → `상위 유지` (Windows) (우리말)](./90-02-06-07-window-management.md#90-02-06-07-a12-03-01)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/96612a71-5780-41bb-81cb-1046e039b441"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/96612a71-5780-41bb-81cb-1046e039b441"></video>
 
 ***
 

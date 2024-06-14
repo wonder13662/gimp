@@ -12,7 +12,7 @@
 <a id="90-10-07-01-01-a1"></a>
 
 #### [영상 90.10.7.1.1.a1. 칠하기 도구:그리기 붓 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 전경색 바꾸기](./90-10-07-01-01-switch_to_color_picker_fg.md#90-10-07-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7647fcfc-a344-4e14-9820-11a9a3ee47a0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7647fcfc-a344-4e14-9820-11a9a3ee47a0"></video>
 
 <a id="14-03-03-01-s2"></a>
 
@@ -25,7 +25,7 @@
 <a id="90-10-07-02-01-a1"></a>
 
 #### [영상 90.10.7.2.1.a1. `도구상자` → `그리기 붓` + Shift(⇧): 직선그리기](./90-10-07-02-01-draw_straight_line.md#90-10-07-02-01-a1)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a31aa347-7971-4b8f-8de0-96667cb763de"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a31aa347-7971-4b8f-8de0-96667cb763de"></video>
 
 <a id="14-03-03-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-07-03-01-a1"></a>
 
 #### [영상 90.10.7.3.1.a1. `도구상자` → `그리기 붓` + Ctrl(⌘) + Shift(⇧): 직선그리기](./90-10-07-03-01-draw_straight_line.md#90-10-07-03-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/19594520-4c4d-4bd6-98f6-c31e3b3af8d1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/19594520-4c4d-4bd6-98f6-c31e3b3af8d1"></video>
 
 ***
 

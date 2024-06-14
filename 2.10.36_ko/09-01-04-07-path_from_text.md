@@ -16,7 +16,7 @@
 <a id="90-04-68-07-a102"></a>
 
 #### [영상 90.4.68.7.a102. `텍스트 컨텍스트 메뉴` → `텍스트에서 경로` (Windows) (우리말)](./90-04-68-07-path_from_text.md#90-04-68-07-a102)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4c73031c-7d97-49c9-9639-2174b718924d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4c73031c-7d97-49c9-9639-2174b718924d"></video>
 
 ## 2. 이미지 메뉴 바의 `레이어` → `텍스트를 경로로`
 이미지 메뉴 바의 `레이어` → `텍스트를 경로로`를 클릭해서 `텍스트에서 경로(Path from Text)`와 같은 작업을 할 수 있습니다. 이번 경우에는 경로 모드로 전환하기 위해서 경로를 더블 클릭하였습니다. 아래 영상으로 진행 과정을 확인해보세요.
@@ -29,7 +29,7 @@
 <a id="90-01-06-16-a2"></a>
 
 #### [영상 90.1.6.16.a2. `레이어` → `텍스트를 경로로` (텍스트 레이어가 활성화된 경우)](./90-01-06-16-text_to_path.md#90-01-06-16-a2)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9baf0f30-76d3-4934-9830-ad5a8c5e7ca8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9baf0f30-76d3-4934-9830-ad5a8c5e7ca8"></video>
 
 ## 3. 레이어 대화상자 안의 텍스트 레이어 컨텍스트 메뉴의 `텍스트에서 경로(Path from Text)`
 텍스트 레이어 컨텍스트 메뉴의 `텍스트에서 경로(Path from Text)`를 클릭해서 같은 작업을 할 수 있습니다.
@@ -42,7 +42,7 @@
 <a id="90-04-03-01-28-a102"></a>
 
 #### [영상 90.4.3.1.28.a102. `컨텍스트 메뉴` → `텍스트를 경로로`](./90-04-03-01-28-text_to_path.md#90-04-03-01-28-a102)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/65212867-b4f2-4860-a414-eaf95c1423c9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/65212867-b4f2-4860-a414-eaf95c1423c9"></video>
 
 ***
 

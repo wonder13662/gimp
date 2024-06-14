@@ -53,7 +53,7 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 <a id="90-01-10-02-a101"></a>
 
 #### [영상 90.1.10.2.a101. 다중창 모드에서 대화상자 추가](./90-01-10-02-00-dockable_dialogs.md#90-01-10-02-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/09ddc773-aabd-4ea8-8447-435e2d010e3d"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/09ddc773-aabd-4ea8-8447-435e2d010e3d"></video>
 
 ## 3.2.3.1.8. 단일창 모드에서 대화상자 추가하기
 단일창 모드에서는 대화상자는 자동으로 GIMP의 오른쪽 판위의 위쪽의 독에 추가됩니다.
@@ -61,26 +61,26 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 <a id="90-01-10-02-a111"></a>
 
 #### [영상 90.1.10.2.a111. 단일창 모드에서 대화상자 추가](./90-01-10-02-00-dockable_dialogs.md#90-01-10-02-a111)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cc6aec8e-3d77-4945-8685-b7aa00245c07"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cc6aec8e-3d77-4945-8685-b7aa00245c07"></video>
 
 ## 3.2.3.1.9. 탭의 위쪽을 끌어서 대화상자를 원하는 곳으로 이동
 
 <a id="90-04-a111"></a>
 
 #### [영상 90.4.a111. 대화상자 이동](./90-04-00-dialogs.md#90-04-a111)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d493e232-1630-47f5-8e5b-5fda0fdd0b87"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d493e232-1630-47f5-8e5b-5fda0fdd0b87"></video>
 
 ## 3.2.3.1.10. 새 대화상자를 대화상자 그룹에 넣기
 
 <a id="90-04-a112"></a>
 
 #### [영상 90.4.a112. 대화상자그룹에 넣기](./90-04-00-dialogs.md#90-04-a112)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e3a0a266-aba7-4a96-86f4-ab00cc4168d2"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e3a0a266-aba7-4a96-86f4-ab00cc4168d2"></video>
 
 <a id="90-04-a113"></a>
 
 #### [영상 90.4.a113. 독(Dock) 한쪽에 대화상자 추가](./90-04-00-dialogs.md#90-04-a113)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b1acca7-a83c-4b8d-a5fe-10a4ab7b7979"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b1acca7-a83c-4b8d-a5fe-10a4ab7b7979"></video>
 
 ## 3.2.3.1.12. 탭 메뉴의 탭 추가하기
 탭 메뉴의 **탭 추가하기** 기능을 이용합니다. [탭 메뉴]()(TODO 링크 추가하기)
@@ -88,7 +88,7 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 <a id="90-05-16-a181"></a>
 
 #### [영상 90.5.16.a181. 탭 메뉴의 탭 추가하기](./90-05-16-tab_menu.md#90-05-16-a181)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5831e5d3-eb1f-403a-a7ff-55fd7b8fb6df"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5831e5d3-eb1f-403a-a7ff-55fd7b8fb6df"></video>
 
 
 > ℹ️ 작은 정보
@@ -98,12 +98,12 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 <a id="90-05-15-a121"></a>
 
 #### [영상 90.5.15.a121. `Tab`키로 3개의 독 숨기기](./90-05-15-dock.md#90-05-15-a121)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8ee75977-e433-472f-ab87-098fdbef7471"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8ee75977-e433-472f-ab87-098fdbef7471"></video>
 
 <a id="90-05-15-a122"></a>
 
 #### [영상 90.5.15.a122. `Tab`키로 독(Dock) 안에서 기능 버튼 순회하기](./90-05-15-dock.md#90-05-15-a122)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/004ab1c2-af3b-478f-a04b-12bda0ea5b73"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/004ab1c2-af3b-478f-a04b-12bda0ea5b73"></video>
 
 ***
 

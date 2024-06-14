@@ -3,7 +3,7 @@
 <a id="90-10-35-02-06-a1"></a>
 
 #### 영상 90.10.35.2.6.a1. Ctrl(⌘): 경로를 선택에서 빼기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6fd2f3a5-86b3-40f3-884e-e22c0794c6a1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6fd2f3a5-86b3-40f3-884e-e22c0794c6a1"></video>
 
 [14.5.2.3.5. 경로로부터 선택 영역 만들기(Create selection from path) - 영상 90.10.35.2.6.a1](./14-05-02-03-05-create_selection_from_path.md#90-10-35-02-06-a1)
 

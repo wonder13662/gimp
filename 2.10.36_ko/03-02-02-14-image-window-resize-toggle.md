@@ -23,12 +23,12 @@
 <a id="90-05-14-a112"></a>
 
 #### [영상 90.5.14.a112. 이미지 확대/축소 버튼 활성화(ON)일때의 동작](./90-05-14-image_window_resize_toggle.md#90-05-14-a112)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0eb5ef47-cd40-4257-b15f-2fa10721a33f"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0eb5ef47-cd40-4257-b15f-2fa10721a33f"></video>
 
 <a id="90-05-14-a113"></a>
 
 #### [영상 90.5.14.a113. 이미지 확대/축소 버튼 비활성화(OFF)일때의 동작](./90-05-14-image_window_resize_toggle.md#90-05-14-a113)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9770cf33-e727-462c-987e-39ab3939412f"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9770cf33-e727-462c-987e-39ab3939412f"></video>
 
 ## 3.2.2.14.3. 이미지 확대/축소 비율 단축키
 ### Ctrl + `J`(Windows) or ⌘ + `J`(Mac)
@@ -37,7 +37,7 @@
 <a id="90-05-14-a121"></a>
 
 #### [영상 90.5.14.a121. 이미지 창을 이미지에 맞추기 + 확대/축소 비율 고정](./90-05-14-image_window_resize_toggle.md#90-05-14-a121)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6da5f558-60c7-4535-b568-157b63a4873a"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6da5f558-60c7-4535-b568-157b63a4873a"></video>
 
 ### Ctrl + Shift + `J`(Windows) or ⌘ + ⇧ + `J`(Mac)
 이 단축키는 이미지 창(Image Window)의 크기에 맞게 이미지(Image Display)의 확대/축소 비율을 변경합니다.
@@ -45,7 +45,7 @@
 <a id="90-05-14-a122"></a>
 
 #### [영상 90.5.14.a122. 이미지를 이미지 창에 맞추기 + 확대/축소 비율 변경](./90-05-14-image_window_resize_toggle.md#90-05-14-a122)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f6358681-da56-42cd-b9c4-c1dd06420bdd"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f6358681-da56-42cd-b9c4-c1dd06420bdd"></video>
 
 > ℹ️ 작은 정보
 >
@@ -55,17 +55,17 @@
 <a id="90-03-01-a221"></a>
 
 #### [영상 90.3.1.a221. GIMP 로고에 이미지 드래그 앤 드랍으로 GIMP에서 이미지 열기](./90-03-01-gimp_logo.md#90-03-01-a221)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/246a2a2d-0d6e-4177-944a-ec4718341c12"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/246a2a2d-0d6e-4177-944a-ec4718341c12"></video>
 
 <a id="90-99-a102"></a>
 
 #### [영상 90.99.a102. 이미지 드래그 앤 드랍으로 새 레이어로 열기(이미지 창)](./90-99-etc.md#90-99-a102)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9da97e53-6122-4dea-a711-4c63f6663345"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9da97e53-6122-4dea-a711-4c63f6663345"></video>
 
 <a id="90-99-a103"></a>
 
 #### [영상 90.99.a103. 이미지 드래그 앤 드랍으로 새 레이어로 열기(레이어 대화상자)](./90-99-etc.md#90-99-a103)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/17c2020e-00c1-4581-823e-732a917c283d"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/17c2020e-00c1-4581-823e-732a917c283d"></video>
 
 ***
 

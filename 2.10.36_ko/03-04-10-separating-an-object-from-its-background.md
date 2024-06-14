@@ -29,12 +29,12 @@
 <a id="90-03-02-05-a101"></a>
 
 #### [영상 90.3.2.5.a101. 자유 선택 도구(올가미) 사용하기 - 자유롭게 그리기](./90-03-02-05-free_select.md#90-03-02-05-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fa4089d6-4cff-4b95-9a37-b38ce28e642a"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fa4089d6-4cff-4b95-9a37-b38ce28e642a"></video>
 
 <a id="90-03-02-05-a102"></a>
 
 #### [영상 90.3.2.5.a102. 자유 선택 도구(올가미) 사용하기 - 직선으로 그리기](./90-03-02-05-free_select.md#90-03-02-05-a102)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/65c479b4-d623-434a-a094-f5b8283e9e1a"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/65c479b4-d623-434a-a094-f5b8283e9e1a"></video>
 
 <a id="03-04-10-s1-02"></a>
 
@@ -56,7 +56,7 @@
 <a id="90-01-08-01-07-a103"></a>
 
 #### [영상 90.1.8.1.7.a103. 똑똑한 가위 선택 사용](./90-01-08-01-07-intelligent_scissors.md#90-01-08-01-07-a103)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/207b3a3a-7d36-4e60-a49a-d9c3d9e23e86"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/207b3a3a-7d36-4e60-a49a-d9c3d9e23e86"></video>
 
 <a id="03-04-10-s1-03"></a>
 
@@ -104,7 +104,7 @@
 <img width="480" alt="그림 3.43. 배경을 단일 색상으로 채운 결과" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3305f968-92e1-456e-abb8-49225b96e0f6">
 
 #### 영상 3.4.10.1.2.2. 배경을 단일 색상으로 채우는 과정
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c89116d8-2ce7-462a-9043-01fb9a07ec3a"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c89116d8-2ce7-462a-9043-01fb9a07ec3a"></video>
 
 <a id="03-04-10-s2-02"></a>
 
@@ -122,7 +122,7 @@
 <img width="480" alt="그림 3.44. 배경을 흑백으로 만든 결과" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/97ab65f1-e0bd-41fc-9e06-3c5ac9eeb7bb">
 
 #### 영상 3.4.10.1.2.2. 배경을 흑백으로 만드는 과정
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/85aced40-32f1-4c7c-b678-646b5d5f54b3"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/85aced40-32f1-4c7c-b678-646b5d5f54b3"></video>
 
 ***
 

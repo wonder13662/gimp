@@ -24,21 +24,21 @@
 <a id="90-04-29-a201"></a>
 
 #### 영상 90.4.29.a201. 이미지 너비나 높이 변경시, 배율에 맞춰 다른 부분도 바뀜
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6314855c-937d-49b6-a60f-c21520351012"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6314855c-937d-49b6-a60f-c21520351012"></video>
 
 [3.4.2. 이미지의 크기 바꾸기 (화면용) - 영상 90.4.29.a201](./03-04-02-change-the-size-of-an-image-for-the-screen.md#90-04-29-a201)
 
 <a id="90-04-29-a202"></a>
 
 #### 영상 90.4.29.a202. 이미지 크기 변경
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b72a1800-9efa-4bff-8ac5-7197b2161196"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b72a1800-9efa-4bff-8ac5-7197b2161196"></video>
 
 [3.4.2. 이미지의 크기 바꾸기 (화면용) - 영상 90.4.29.a202](./03-04-02-change-the-size-of-an-image-for-the-screen.md#90-04-29-a202)
 
 <a id="90-01-06-13-a102"></a>
 
 #### [영상 90.1.6.13.a102. '레이어 크기 조정(Scale Layer)' 사용하기](./90-01-06-13-scale_layer.md#90-01-06-13-a102)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8fe93a42-c805-4b1a-8b15-2d1765da17f4"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8fe93a42-c805-4b1a-8b15-2d1765da17f4"></video>
 
 ***
 

@@ -23,12 +23,12 @@
 <a id="90-02-07-01-a11"></a>
 
 #### [영상 90.2.7.1.a11. `기본 설정` → `이미지 창` → `모양새` → `보통 상태의 기본 모양`: 캔버스 채우기 모드 변경 (Windows) (우리말)](./90-02-07-01-appearance.md#90-02-07-01-a11)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0930f086-271a-493c-b199-b9a479676fed"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0930f086-271a-493c-b199-b9a479676fed"></video>
 
 <a id="90-02-07-01-a21"></a>
 
 #### [영상 90.2.7.1.a21. `기본 설정` → `이미지 창` → `모양새` → `전체 화면 상태의 기본 모양`: 캔버스 채우기 모드 변경 (Windows) (우리말)](./90-02-07-01-appearance.md#90-02-07-01-a21)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0e175518-d699-4e51-9241-5d711a51cf24"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0e175518-d699-4e51-9241-5d711a51cf24"></video>
 
 ## 2. 캔버스 채우기를 "모두 보기" 모드로 유지하기(Keep canvas padding in "Show All" mode)
 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 [`보기` → `모두 보기(Show All)`](./16-05-03-show-all.md) 메뉴를 클릭하면, 캔버스 바깥쪽의 픽셀을 볼 수 있습니다. 
@@ -38,7 +38,7 @@
 <a id="90-02-07-01-a11-01"></a>
 
 #### [영상 90.2.7.1.a11.1. `기본 설정` → `이미지 창` → `모양새` → `보통 상태의 기본 모양` → `캔버스 채우기를 "모두 보기" 모드로 유지하기`: 켜기 (Windows) (우리말)](./90-02-07-01-appearance.md#90-02-07-01-a11-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7249cf07-8191-4ac2-8786-e8e1f3221c24"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7249cf07-8191-4ac2-8786-e8e1f3221c24"></video>
 
 
 이 상태에서 `캔버스 채우기를 "모두 보기" 모드로 유지하기` 옵션이 체크되어있다면, 캔버스의 바깥영역은 `사용자 정의 색상`으로 채워집니다.
@@ -46,7 +46,7 @@
 <a id="90-02-07-01-a11-02"></a>
 
 #### [영상 90.2.7.1.a11.2. `기본 설정` → `이미지 창` → `모양새` → `보통 상태의 기본 모양` → `캔버스 채우기를 "모두 보기" 모드로 유지하기`: 끄기 (Windows) (우리말)](./90-02-07-01-appearance.md#90-02-07-01-a11-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/be8a4458-45a4-4f2a-b7fb-7af578d46bda"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/be8a4458-45a4-4f2a-b7fb-7af578d46bda"></video>
 
 ⚠️ 주의: 이 옵션은 GIMP(김프)를 재시동해야 적용됩니다.
 

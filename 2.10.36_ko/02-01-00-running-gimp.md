@@ -3,16 +3,16 @@
 아이콘(1개의 GIMP만을 설치한 경우)을 클릭하거나, 커맨드 라인에서 **gimp**를 입력해서 GIMP를 실행할 수 있습니다. 여러 개의 버전의 GIMP가 설치되어 있는 경우에는 **gimp-2.10**를 입력해서 최신 버전을 실행할 수도 있습니다. gimp 이름 옆에 이미지 파일 이름의 목록을 추가해서 GIMP 시작과 동시에 이미지들을 함께 열 수 있습니다. GIMP가 실행된 이후에도 역시 이미지 파일들을 열 수 있습니다.
 
 #### 영상 2.1.1. 커맨드 라인에서 GIMP 실행하기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cc1c76f0-d24d-4b98-8738-06b8e9608bab"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cc1c76f0-d24d-4b98-8738-06b8e9608bab"></video>
 
 
 #### 영상 2.1.2. 커맨드 라인에서 GIMP 실행 + 이미지 함께 열기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6a58a2fe-1c3b-4d9b-97af-89283a16d57a"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6a58a2fe-1c3b-4d9b-97af-89283a16d57a"></video>
 
 대부분의 운영체제는 파일 확장자와 애플리케이션과의 연결을 지원합니다. 예를 들어서, `.jpg` 확장자 파일을 클릭하면, GIMP로 해당 이미지를 자동으로 여는 기능을 말합니다. 이미지 파일들의 확장자와 GIMP를 연결하면, 이미지를 더블 클릭하면 이미지를 GIMP로 바로 열수 있습니다.
 
 #### 영상 2.1.3. 파일 확장자와 GIMP 연동(file association)해서 바로 열기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6a73ad52-3751-4174-aa74-f8d8a3a782ea"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6a73ad52-3751-4174-aa74-f8d8a3a782ea"></video>
 
 <a id="02-01-s1"></a>
 
@@ -46,7 +46,7 @@ GIMP는 자동으로 시스템의 언어를 감지합니다. 언어 감지가 �
 <a id="90-02-06-a101"></a>
 
 #### [그림 90.2.6.a101. `기본설정` → `인터페이스` → `언어`](./90-02-06-00-interface.md#90-02-06-a101)
-<img width="720" alt="user interface language" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7db9bad7-1d10-4927-870a-026b2f0f2dad">
+<img width="720" alt="user interface language" src="https://github.com/wonder13662/gimp/assets/15767104/7db9bad7-1d10-4927-870a-026b2f0f2dad">
 
 또는 다음 방법 중 하나를 사용합니다.
 
@@ -98,7 +98,7 @@ GIMP를 시작할 때, 추가적인 인자(argument) 또는 옵션(Option) 값�
 모든 커맨드 라인 옵션을 보여줍니다.
 
 #### 영상 2.1.3.a1. `--help`
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2b7a28d-eba2-4d6b-bc6e-bebb9f869d45"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2b7a28d-eba2-4d6b-bc6e-bebb9f869d45"></video>
 
 <a id="02-01-03-s2"></a>
 
@@ -106,7 +106,7 @@ GIMP를 시작할 때, 추가적인 인자(argument) 또는 옵션(Option) 값�
 모든 도움말 옵션을 보여줍니다.
 
 #### 영상 2.1.3.a2. `--help-all`
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/652dc754-d0a7-4683-9a2a-be05a8dfd92f"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/652dc754-d0a7-4683-9a2a-be05a8dfd92f"></video>
 
 <a id="02-01-03-s3"></a>
 
@@ -114,7 +114,7 @@ GIMP를 시작할 때, 추가적인 인자(argument) 또는 옵션(Option) 값�
 GTK+ 옵션을 보여줍니다.
 
 #### 영상 2.1.3.a3. `--help-gtk`
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e83a6f1f-4156-4bda-a95d-a2cfbbf28fca"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e83a6f1f-4156-4bda-a95d-a2cfbbf28fca"></video>
 
 <a id="02-01-03-s4"></a>
 
@@ -122,12 +122,12 @@ GTK+ 옵션을 보여줍니다.
 현재 사용중인 GIMP 버전 정보를 보여준 뒤 종료합니다. `-v`, `--version`에서 각각 노출하는 정보가 다릅니다.
 
 #### 영상 2.1.3.a4. `-v`
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/66e29f26-248b-4c16-b323-5e9433d3e89e"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/66e29f26-248b-4c16-b323-5e9433d3e89e"></video>
 
 <a id="02-01-08"></a>
 
 #### 영상 2.1.3.a5. `--version`
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9295c1c8-4e4c-459c-b67a-813a041b2369"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9295c1c8-4e4c-459c-b67a-813a041b2369"></video>
 
 <a id="02-01-03-s5"></a>
 
@@ -135,7 +135,7 @@ GTK+ 옵션을 보여줍니다.
 사용 허가서 정보를 보여준 뒤 GIMP를 종료합니다.
 
 #### 영상 2.1.3.a6. `--license`
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e80f0686-4205-4c3f-935d-b8c2ccb235b0"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e80f0686-4205-4c3f-935d-b8c2ccb235b0"></video>
 
 <a id="02-01-03-s6"></a>
 
@@ -143,7 +143,7 @@ GTK+ 옵션을 보여줍니다.
 시작 메시지를 자세히 보여줍니다.
 
 #### 영상 2.1.3.a7. `--verbose`
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c7dc47d7-610d-4c30-a391-19e77fffb54c"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c7dc47d7-610d-4c30-a391-19e77fffb54c"></video>
 
 <a id="02-01-03-s7"></a>
 
@@ -151,10 +151,10 @@ GTK+ 옵션을 보여줍니다.
 새로운 인스턴스로 GIMP를 시작합니다.. 여러 개의 GIMP 인스턴스를 시작할 수 있습니다.
 
 #### 영상 2.1.3.a8. `-n`
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/faadf0d5-5978-48db-9a33-32fa339a35d7"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/faadf0d5-5978-48db-9a33-32fa339a35d7"></video>
 
 #### 영상 2.1.3.a9. `--new-instance`
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d6a4c696-424c-48cd-b6f3-a25977d513f1"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d6a4c696-424c-48cd-b6f3-a25977d513f1"></video>
 
 <a id="02-01-03-s8"></a>
 
@@ -167,10 +167,10 @@ GTK+ 옵션을 보여줍니다.
 사용자 인터페이스 없이 실행합니다.
 
 #### 영상 2.1.3.a10. `-i`
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6760d817-7ccc-49c6-8e1f-0616e68c4e02"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6760d817-7ccc-49c6-8e1f-0616e68c4e02"></video>
 
 #### 영상 2.1.3.a11. `--no-interface`
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b375e345-867e-450c-a8b9-ec5fc58766c0"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b375e345-867e-450c-a8b9-ec5fc58766c0"></video>
 
 <a id="02-01-03-s10"></a>
 
@@ -178,7 +178,7 @@ GTK+ 옵션을 보여줍니다.
 무늬(pattern), 그라디언트(gradient), 색상표(palette), 붓(brush) 등을 읽어 들이지 않습니다. 비대화식 환경에서 시작 시간을 최소화할 때 유용합니다.
 
 #### 영상 2.1.3.a12. 붓(brush), 무늬(pattern)의 읽지 않음
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a232c28c-a137-497b-a2d6-0fec8b6ace11"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a232c28c-a137-497b-a2d6-0fec8b6ace11"></video>
 
 아래 예시들은 위 옵션으로 실행한 경우(`-no-data`)와 그렇지 않은 경우를 비교한 이미지입니다.
 
@@ -205,7 +205,7 @@ GTK+ 옵션을 보여줍니다.
 ### 영상 2.1.3.a17. `-f`, `-no-fonts`
 글꼴(font)을 읽어오지 않습니다. 이 옵션은 글꼴(font)을 사용하지 않는 스크립트를 사용하거나 문제가 있는 글꼴(font)을 찾아내기 위해 GIMP(김프)를 시작할 때 유용합니다.
 
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/242ee167-9c78-47e3-9dd2-f08d75eac4a6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/242ee167-9c78-47e3-9dd2-f08d75eac4a6"></video>
 
 아래 이미지는 위 옵션으로 실행한 경우(`-no-fonts`)와 그렇지 않은 경우를 비교한 이미지입니다.
 

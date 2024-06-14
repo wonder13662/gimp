@@ -4,7 +4,7 @@
 <a id="90-03-02-02-a103"></a>
 
 #### [영상 90.3.2.2.a103. 고무밴드 박스로 정렬하기 (Windows) (우리말)](./90-03-02-02-alignment.md#90-03-02-02-a103)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a90a2086-9f95-4009-ae6a-4ab488be0169"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a90a2086-9f95-4009-ae6a-4ab488be0169"></video>
 
 ***
 

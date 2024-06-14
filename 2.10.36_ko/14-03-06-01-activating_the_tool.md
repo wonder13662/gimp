@@ -14,7 +14,7 @@
 <a id="90-01-08-02-03-a101-01"></a>
 
 #### [영상 90.1.8.2.3.a101.1. `이미지 메뉴 바` → `도구` → `칠하기 도구` → `연필` (Windows) (우리말)](./90-01-08-02-03-pencil.md#90-01-08-02-03-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e694827e-6a70-4d39-a24e-8df798e6b60d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e694827e-6a70-4d39-a24e-8df798e6b60d"></video>
 
 <a id="14-03-06-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-24-a2-01"></a>
 
 #### [영상 90.3.2.24.a2.1. `도구상자` → `연필`](./90-03-02-24-pencil.md#90-03-02-24-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/111a6200-5cca-4a51-be4c-6eaa4f550d2e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/111a6200-5cca-4a51-be4c-6eaa4f550d2e"></video>
 
 <a id="14-03-06-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-10-01-01-a1"></a>
 
 #### [영상 90.10.10.1.1.a1. `연필` 도구 - 키보드 단축키 `N`](./90-10-10-01-01-n.md#90-10-10-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/78ce5003-a378-44b0-9f00-fb1c9b417571"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/78ce5003-a378-44b0-9f00-fb1c9b417571"></video>
 
 ***
 

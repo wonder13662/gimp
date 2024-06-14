@@ -14,7 +14,7 @@
 <a id="90-01-08-02-11-a101-01"></a>
 
 #### [영상 90.1.8.2.11.a101.1. `이미지 메뉴 바` → `도구` → `칠하기 도구` → `원근 복제` (Windows) (우리말)](./90-01-08-02-11-perspective_clone.md#90-01-08-02-11-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7479eeb4-fe19-41e3-b8db-6eed7917ab80"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7479eeb4-fe19-41e3-b8db-6eed7917ab80"></video>
 
 <a id="14-03-14-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-30-a2-01"></a>
 
 #### [영상 90.3.2.30.a2.1. `도구상자` → `원근 복제` (Windows) (우리말)](./90-03-02-30-perspective_clone.md#90-03-02-30-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5cddb15d-26e7-4fe3-9e93-a374c7ae6249"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5cddb15d-26e7-4fe3-9e93-a374c7ae6249"></video>
 
 ***
 

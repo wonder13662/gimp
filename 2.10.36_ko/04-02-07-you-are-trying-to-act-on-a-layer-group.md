@@ -13,7 +13,7 @@
 <a id="90-04-03-02-a51"></a>
 
 #### [영상 90.4.3.2.a51. 레이어 그룹에 직접 작업시, 에러 메시지 노출](./90-04-03-02-layer_group.md#90-04-03-02-a51)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/99cbfad6-a162-444c-b4e7-2a0c721952b1"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/99cbfad6-a162-444c-b4e7-2a0c721952b1"></video>
 
 ## 4.2.7.2. 해결방법
 문제를 해결하기 위해서는 레이어 그룹이 아닌 레이어를 활성화시켜야 합니다. 레이어 그룹에 '+' 기호가 보인다면, 레이어 그룹이 접혀있는 상태입니다. '+' 기호를 클릭해서 레이어 그룹을 펼치세요. 레이어 그룹 안의 각각의 레이어들을 확인할 수 있습니다. 이 중 작업해야 할 레이어를 선택하여 작업을 진행하면 됩니다.
@@ -21,7 +21,7 @@
 <a id="90-04-03-02-a61"></a>
 
 #### [영상 90.4.3.2.a61. 레이어 그룹 안의 레이어를 선택하여 작업](./90-04-03-02-layer_group.md#90-04-03-02-a61)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/aedf4dd2-d140-46d2-949c-ccf748a77bfd"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/aedf4dd2-d140-46d2-949c-ccf748a77bfd"></video>
 
 ***
 

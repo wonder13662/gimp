@@ -22,7 +22,7 @@
 <a id="90-04-83-a105"></a>
 
 #### 영상 90.4.83.a105. `적목 제거` 대화상자 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8a845367-65fd-4efa-8f97-03a042a633ae"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8a845367-65fd-4efa-8f97-03a042a633ae"></video>
 
 [10.1.5.3. 적목 현상 제거(Removing Red-eye) - 영상 90.4.83.a105](./10-01-05-03-removing_red_eye.md#90-04-83-a105)
 

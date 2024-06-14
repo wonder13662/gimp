@@ -13,14 +13,14 @@
 <a id="90-01-08-01-04-a101-01"></a>
 
 #### 영상 90.1.8.1.4.a101.1.`도구` → `선택도구` → `전경 선택` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/df687681-fe5e-4c9f-a3e1-e50a3fd3dc2f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/df687681-fe5e-4c9f-a3e1-e50a3fd3dc2f"></video>
 
 [14.2.8.1. 도구 활성화하기(Activating the tools) - 영상 90.1.8.1.4.a101.1](./14-02-08-01-activating_the_tool.md#90-01-08-01-04-a101-01)
 
 <a id="90-01-08-01-04-a101-02"></a>
 
 #### 영상 90.1.8.1.4.a101.2.`도구` → `선택도구` → `전경 선택`: 선택을 자유롭게 곡선으로 그리기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b6b55e9-21fd-4018-a3e1-1ec3d68fb2c5"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5b6b55e9-21fd-4018-a3e1-1ec3d68fb2c5"></video>
 
 [14.2.8.2. 사용법(Direction for use) - 영상 90.1.8.1.4.a101.2](./14-02-08-02-00-directions_for_use.md#90-01-08-01-04-a101-02)
 
@@ -29,7 +29,7 @@
 <a id="90-01-08-01-04-a101-03"></a>
 
 #### 영상 90.1.8.1.4.a101.3.`도구` → `선택도구` → `전경 선택`: 선택을 직선으로 그리기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40302bc8-123e-44f1-9556-2f35467de20a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/40302bc8-123e-44f1-9556-2f35467de20a"></video>
 
 [14.2.8.2. 사용법(Direction for use) - 영상 90.1.8.1.4.a101.3](./14-02-08-02-00-directions_for_use.md#90-01-08-01-04-a101-03)
 
@@ -38,7 +38,7 @@
 <a id="90-01-08-01-04-a101-04"></a>
 
 #### 영상 90.1.8.1.4.a101.4.`도구` → `선택도구` → `전경 선택`: 선택을 곡선과 직선을 함께 그리기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/267ab44e-b68b-4e30-aba5-e281941ecb0f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/267ab44e-b68b-4e30-aba5-e281941ecb0f"></video>
 
 [14.2.8.2. 사용법(Direction for use) - 영상 90.1.8.1.4.a101.4](./14-02-08-02-00-directions_for_use.md#90-01-08-01-04-a101-04)
 
@@ -47,7 +47,7 @@
 <a id="90-01-08-01-04-a101-05"></a>
 
 #### 영상 90.1.8.1.4.a101.5.`도구` → `선택도구` → `전경 선택`: 선택 닫기(시작점 클릭) (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/736102e5-898a-470f-97de-ab8dae36d5d2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/736102e5-898a-470f-97de-ab8dae36d5d2"></video>
 
 [14.2.8.2. 사용법(Direction for use) - 영상 90.1.8.1.4.a101.5](./14-02-08-02-00-directions_for_use.md#90-01-08-01-04-a101-05)
 
@@ -58,7 +58,7 @@
 <a id="90-01-08-01-04-a101-06"></a>
 
 #### 영상 90.1.8.1.4.a101.6.`도구` → `선택도구` → `전경 선택`: 선택 닫기(끝점 더블 클릭) (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/13386b0c-e80f-4c33-92b9-ad931169c4b0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/13386b0c-e80f-4c33-92b9-ad931169c4b0"></video>
 
 [14.2.8.2. 사용법(Direction for use) - 영상 90.1.8.1.4.a101.6](./14-02-08-02-00-directions_for_use.md#90-01-08-01-04-a101-06)
 
@@ -81,28 +81,28 @@
 <a id="90-01-08-01-04-a112-01"></a>
 
 #### 영상 90.1.8.1.4.a112.1. 전경 영역에서 추출할 색 칠하기
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/b7d305ed-c809-4d39-bd58-ecfd6a658700"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/b7d305ed-c809-4d39-bd58-ecfd6a658700"></video>
 
 [14.2.8.2.3. 전경 추출하기(Extract Foreground) - 영상 90.1.8.1.4.a112.1](./14-02-08-02-03-extract_foreground.md#90-01-08-01-04-a112-01)
 
 <a id="90-01-08-01-04-a112-02"></a>
 
 #### 영상 90.1.8.1.4.a112.2. 추출한 색상의 미리보기 및 선택 완료
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/f86271a7-9643-4ee6-a3ed-40a59c838a96"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/f86271a7-9643-4ee6-a3ed-40a59c838a96"></video>
 
 [14.2.8.2.3. 전경 추출하기(Extract Foreground) - 영상 90.1.8.1.4.a112.2](./14-02-08-02-03-extract_foreground.md#90-01-08-01-04-a112-02)
 
 <a id="90-01-08-01-04-a113"></a>
 
 #### 영상 90.1.8.1.4.a113. 잘못 그린 전경 영역 수정하기
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/18679c4a-27e5-43b7-ac18-02abc3fdbd93"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/18679c4a-27e5-43b7-ac18-02abc3fdbd93"></video>
 
 [14.2.8.4. 전경 추출 정제하기(Refining Foreground Extraction) - 영상 90.1.8.1.4.a113](./14-02-08-04-refining_foreground_extraction.md#90-01-08-01-04-a113)
 
 <a id="90-01-08-01-04-a114"></a>
 
 #### 영상 90.1.8.1.4.a114. 잘못 그린 배경 영역 수정하기
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/64cc459b-c993-4d6e-acaf-f1a3da13bef8"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/64cc459b-c993-4d6e-acaf-f1a3da13bef8"></video>
 
 [14.2.8.4. 전경 추출 정제하기(Refining Foreground Extraction) - 영상 90.1.8.1.4.a114](./14-02-08-04-refining_foreground_extraction.md#90-01-08-01-04-a114)
 

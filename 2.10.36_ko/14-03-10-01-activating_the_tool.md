@@ -14,7 +14,7 @@
 <a id="90-01-08-02-06-a101-01"></a>
 
 #### [영상 90.1.8.2.6.a101.1. `이미지 메뉴 바` → `도구` → `칠하기 도구` → `에어브러시` (Windows) (우리말)](./90-01-08-02-06-airbrush.md#90-01-08-02-06-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1f0f74bc-3753-45d0-855c-44b10861c4f2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1f0f74bc-3753-45d0-855c-44b10861c4f2"></video>
 
 <a id="14-03-10-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-25-a2-01"></a>
 
 #### [영상 90.3.2.25.a2.1. `도구상자` → `에어브러시` (Windows) (우리말)](./90-03-02-25-airbrush.md#90-03-02-25-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c34440ab-6655-4ef8-8370-8af4a6c2e0e3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c34440ab-6655-4ef8-8370-8af4a6c2e0e3"></video>
 
 <a id="14-03-10-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-14-01-01-a1"></a>
 
 #### [영상 90.10.14.1.1.a1. `에어브러시` 도구 - 키보드 단축키 `A`](./90-10-14-01-01-a.md#90-10-14-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a635855d-08b5-4f29-b408-577734c3344c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a635855d-08b5-4f29-b408-577734c3344c"></video>
 
 ***
 

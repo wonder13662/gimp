@@ -11,7 +11,7 @@
 <a id="90-01-08-01-05-a11"></a>
 
 #### [영상 90.1.8.1.5.a11. `도구` → `선택도구` → `퍼지 선택` (Windows) (우리말)](./90-01-08-01-05-fuzzy_select.md#90-01-08-01-05-a11)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3eccbf37-fbfd-44df-a9f4-79f26a827382"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3eccbf37-fbfd-44df-a9f4-79f26a827382"></video>
 
 ## 2. 도구 상자에서 `퍼지 선택` 클릭
 
@@ -23,14 +23,14 @@
 <a id="90-03-02-08-a101"></a>
 
 #### [영상 90.3.2.8.a101. 이미지 안의 배경 영역 선택](./90-03-02-08-fuzzy_select.md#90-03-02-08-a101)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5bdf065c-08c3-4e6d-b7db-b32c8d9f36aa"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5bdf065c-08c3-4e6d-b7db-b32c8d9f36aa"></video>
 
 ## 3. 키보드 단축키 `U`
 
 <a id="90-10-04-01-01-a1"></a>
 
 #### [영상 90.10.4.1.1.a1. 퍼지 선택 도구 - 키보드 단축키 `U`](./90-10-04-01-01-u.md#90-10-04-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0686e204-36e5-436e-a18f-d855b36afa3f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0686e204-36e5-436e-a18f-d855b36afa3f"></video>
 
 ***
 

@@ -14,7 +14,7 @@
 <a id="90-04-68-08-a102"></a>
 
 #### [영상 90.4.68.8.a102. `텍스트 컨텍스트 메뉴` → `경로따라 텍스트` (Windows) (우리말)](./90-04-68-08-text_along_path.md#90-04-68-08-a102)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a9461d21-1561-4a01-b23d-78813edab053"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a9461d21-1561-4a01-b23d-78813edab053"></video>
 
 ## 2. 이미지 메뉴 바의 `레이어` → `경로따라 텍스트`
 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `레이어` → `경로따라 텍스트`을 클릭하면 앞서 설명한 기능과 똑같이 동작합니다. 아래 영상에서 동작 과정을 확인해보세요.
@@ -27,7 +27,7 @@
 <a id="90-01-06-17-a2"></a>
 
 #### [영상 90.1.6.17.a2. `레이어` → `경로따라 텍스트` (텍스트 레이어가 활성화된 경우)](./90-01-06-17-text_along_path.md#90-01-06-17-a2)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d0a59058-784d-4cf9-abd7-b2284e699b7b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d0a59058-784d-4cf9-abd7-b2284e699b7b"></video>
 
 ## 3. 레이어 대화상자 안의 텍스트 레이어 컨텍스트 메뉴의 `경로따라 텍스트(Text along Path)`
 레이어 대화상자 안의 텍스트 레이어 컨텍스트 메뉴의 `경로따라 텍스트(Text along Path)`를 클릭하면 앞서 설명한 기능과 똑같이 동작합니다. 아래 영상에서 동작 과정을 확인해보세요.
@@ -40,7 +40,7 @@
 <a id="90-04-03-01-29-a102"></a>
 
 #### [영상 90.4.3.1.29.a102. `컨텍스트 메뉴` → `경로따라 텍스트`](./90-04-03-01-29-text_along_path.md#90-04-03-01-29-a102)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e7a01554-cc39-43cb-af91-8d35bfe0e5b1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e7a01554-cc39-43cb-af91-8d35bfe0e5b1"></video>
 
 ***
 

@@ -16,7 +16,7 @@
 <a id="90-01-08-01-06-a11"></a>
 
 #### 영상 90.1.8.1.6.a11. `도구` → `선택도구` → `색상으로 선택` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/68f7a520-e0ee-4783-b3ad-98463c761e87"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/68f7a520-e0ee-4783-b3ad-98463c761e87"></video>
 
 [14.2.6.1. 도구 활성화하기(Activating the tools) - 영상 90.1.8.1.6.a11](./14-02-06-01-activating_the_tool.md#90-01-08-01-06-a11)
 

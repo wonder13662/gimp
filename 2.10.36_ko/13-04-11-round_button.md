@@ -12,7 +12,7 @@
 ![13-04-11-a103-dialog](https://github.com/wonder13662/gimp/assets/15767104/511da710-b57e-4df0-a7b5-da8e92b64462)
 
 #### 영상 13.4.11.a104. 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bd07b867-a6fd-4242-88f8-909c72050ea8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bd07b867-a6fd-4242-88f8-909c72050ea8"></video>
 
 ## 2. 스크립트
 [pupi-button.scm.zip](https://github.com/wonder13662/gimp/files/14737173/pupi-button.scm.zip)

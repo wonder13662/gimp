@@ -3,7 +3,7 @@
 <a id="90-10-21-03-01-a1"></a>
 
 #### 영상 90.10.21.3.1.a1. 칠하기 도구:`닷지/번` - Shift(⇧) 키: 직선 모양으로 `닷지/번` 하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e802c6a1-7cfd-4221-bdff-7f2165eecd98"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e802c6a1-7cfd-4221-bdff-7f2165eecd98"></video>
 
 [14.3.17.2. 동작 변경키(Key modifiers) - 영상 90.10.21.3.1.a1](./14-03-17-02-key_modifiers.md#90-10-21-03-01-a1)
 

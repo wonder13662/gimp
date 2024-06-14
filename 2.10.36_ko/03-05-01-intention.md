@@ -15,7 +15,7 @@
 <a id="90-01-01-01-a111"></a>
 
 #### [영상 90.1.1.1.a111. 새 이미지 만들기](./90-01-01-01-new.md#90-01-01-01-a111)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/028b4f82-b28c-4c2d-96b3-76ab15e9c09a"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/028b4f82-b28c-4c2d-96b3-76ab15e9c09a"></video>
 
 <a id="03-05-01-s2"></a>
 
@@ -46,7 +46,7 @@
 그리기 붓(Paintbrush)를 도구상자에서 클릭합니다. 이미지 안에 선이 시작하는 곳에 클릭합니다. 점 하나가 화면에 나타납니다. 점의 크기는 붓의 크기를 나타냅니다. 붓의 크기는 [15.3.2. 붓 대화상자](./15-03-02-brushes-dialog.md)에서 바꿀 수 있습니다. 그럼 선을 그려봅시다. Shift(Windows) or ⇧(Mac) 키를 누른채 유지합니다.
 
 #### 영상 3.5.1.3.1. 시작점 만들기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7c55660b-d4fc-427c-92a6-9962ada99481"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7c55660b-d4fc-427c-92a6-9962ada99481"></video>
 
 <a id="03-05-01-s4"></a>
 
@@ -55,7 +55,7 @@
 시작점을 찍은 뒤 Shift(Windows) or ⇧(Mac) 키를 누르고 있으면, 마우스 커서를 따라서 위 화면과 같이 직선이 표시됩니다. 이제 Shift(Windows) or ⇧(Mac) 키를 누른 상태로 마우스를 움직여 원하는 곳을 클릭합니다.
 
 #### 영상 3.5.1.4.1. 직선 그리기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/72e358e6-e566-47e4-8ec3-e2e144c9b34c"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/72e358e6-e566-47e4-8ec3-e2e144c9b34c"></video>
 
 <a id="03-05-01-s5"></a>
 
@@ -64,12 +64,12 @@
 칠하기 도구라면 직선을 그릴 수 있습니다. 직선을 그린 뒤에 직선을 더 그릴 수도 있습니다. 마지막으로 Shift(Windows) or ⇧(Mac) 키를 떼면 끝입니다. 몇가지 예제들은 [3.5.2. 직선그리기 예제들](./03-05-02-examples.md)에서 확인할 수 있습니다.
 
 #### 영상 3.5.1.5.1. 더 많은 직선 그리기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8df743bc-7d7b-4ebf-911f-0d9bba0ec244"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8df743bc-7d7b-4ebf-911f-0d9bba0ec244"></video>
 
 <a id=""></a>
 
 #### 영상 3.5.1.a5.1. 직선 그리기 전체 과정
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ed80ea6a-3bf6-4900-ac2c-525109db3ee7"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ed80ea6a-3bf6-4900-ac2c-525109db3ee7"></video>
 
 <a id="03-05-01-s6"></a>
 
@@ -94,7 +94,7 @@
 <a id="90-10-07-02-01-a1"></a>
 
 #### [영상 90.10.7.2.1.a1. `도구상자` → `그리기 붓` + Shift(⇧): 직선그리기](./90-10-07-02-01-draw_straight_line.md#90-10-07-02-01-a1)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a31aa347-7971-4b8f-8de0-96667cb763de"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a31aa347-7971-4b8f-8de0-96667cb763de"></video>
 
 <a id="03-05-01-s6-02"></a>
 
@@ -115,7 +115,7 @@
 <a id="90-03-02-24-a101"></a>
 
 #### [영상 90.3.2.24.a101. 연필(Pencil)의 직선그리기](./90-03-02-24-pencil.md#90-03-02-24-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5e21baef-0b02-47f4-91e1-189220dde687"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5e21baef-0b02-47f4-91e1-189220dde687"></video>
 
 [관련 정보: 14.3.6. 연필(Pencil)](./14-03-06-00-pencil.md)
 
@@ -140,7 +140,7 @@
 <a id="90-03-02-25-a101"></a>
 
 #### [영상 90.3.2.25.a101. 에어브러시(Airbrush)의 직선그리기](./90-03-02-25-airbrush.md#90-03-02-25-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3c2c525b-ae45-4f4d-8dc9-add1d0310af9"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3c2c525b-ae45-4f4d-8dc9-add1d0310af9"></video>
 
 <a id="03-05-01-s6-04"></a>
 
@@ -161,7 +161,7 @@
 <a id="90-03-02-26-a101"></a>
 
 #### [영상 90.3.2.26.a101. 잉크(Ink)의 직선그리기](./90-03-02-26-ink.md#90-03-02-26-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c51b0ee6-da41-4c09-9771-af91e685fccd"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c51b0ee6-da41-4c09-9771-af91e685fccd"></video>
 
 <a id="03-05-01-s6-05"></a>
 
@@ -182,7 +182,7 @@
 <a id="90-03-02-27-a101"></a>
 
 #### [영상 90.3.2.27.a101. MyPaint 붓(MyPaint Brush)의 직선그리기](./90-03-02-27-mypaint_brush.md#90-03-02-27-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1b5efbfe-e43b-49bb-a706-c2cf0bba01d4"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1b5efbfe-e43b-49bb-a706-c2cf0bba01d4"></video>
 
 <a id="03-05-01-s6-06"></a>
 
@@ -205,7 +205,7 @@
 <a id="90-03-02-29-a101"></a>
 
 #### [영상 90.3.2.29.a101. 도장(Clone)의 직선그리기](./90-03-02-29-clone.md#90-03-02-29-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/faaa0112-9013-49ac-8e91-11bd1f08a424"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/faaa0112-9013-49ac-8e91-11bd1f08a424"></video>
 
 <a id="03-05-01-s6-07"></a>
 
@@ -228,7 +228,7 @@
 <a id="90-03-02-30-a101"></a>
 
 #### [영상 90.3.2.30.a101. 원근 복제(Perspective Clone)의 직선그리기](./90-03-02-30-perspective_clone.md#90-03-02-30-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/75691a99-5cda-47d2-9be8-31f930883b26"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/75691a99-5cda-47d2-9be8-31f930883b26"></video>
 
 <a id="03-05-01-s6-08"></a>
 
@@ -249,7 +249,7 @@
 <a id="90-03-02-31-a101"></a>
 
 #### [영상 90.3.2.31.a101. 복원(Heal)의 직선그리기](./90-03-02-31-healing.md#90-03-02-31-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b74e842f-c696-4453-97b6-db95884b4e3c"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b74e842f-c696-4453-97b6-db95884b4e3c"></video>
 
 <a id="03-05-01-s6-09"></a>
 
@@ -270,7 +270,7 @@
 <a id="90-03-02-32-a101"></a>
 
 #### [영상 90.3.2.32.a101. 문지르기(Smudge)의 직선그리기](./90-03-02-32-smudge.md#90-03-02-32-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c266461f-b922-4a68-a836-a500bb18047a"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c266461f-b922-4a68-a836-a500bb18047a"></video>
 
 <a id="03-05-01-s6-10"></a>
 
@@ -291,7 +291,7 @@
 <a id="90-03-02-33-a101"></a>
 
 #### [영상 90.3.2.33.a101. 흐릿하게/선명하게(Blur/Sharpen)의 직선그리기](./90-03-02-33-blur_sharpen.md#90-03-02-33-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8a426c59-834c-48cd-b3ac-2892d6c9ea64"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8a426c59-834c-48cd-b3ac-2892d6c9ea64"></video>
 
 <a id="03-05-01-s6-11"></a>
 
@@ -312,7 +312,7 @@
 <a id="90-03-02-34-a101"></a>
 
 #### [영상 90.3.2.34.a101. 닷지/번(Dodge/Burn)의 직선그리기](./90-03-02-34-dodge_burn.md#90-03-02-34-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4b92840d-58f5-4c5d-b664-87a6227dc0c8"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4b92840d-58f5-4c5d-b664-87a6227dc0c8"></video>
 
 <a id="03-05-01-s6-12"></a>
 
@@ -333,7 +333,7 @@
 <a id="90-03-02-28-a101"></a>
 
 #### [영상 90.3.2.28.a101. 지우개(Eraser)의 직선그리기](./90-03-02-28-eraser.md#90-03-02-28-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8a80fba9-b6e8-41fd-bd2c-6427f7175a37"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8a80fba9-b6e8-41fd-bd2c-6427f7175a37"></video>
 
 ***
 

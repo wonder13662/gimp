@@ -13,7 +13,7 @@
 <a id="90-03-02-23-a112"></a>
 
 #### [영상 90.3.2.23.a112. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options)의 `Color From Gradient` 적용하기](./90-03-02-23-paintbrush.md#90-03-02-23-a112)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6215e2ac-b807-4732-b106-e37b2c0c2c82"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6215e2ac-b807-4732-b106-e37b2c0c2c82"></video>
 
 ## 3.5.2.2. 도장의 '무늬로 칠하기'로 직선 그리기
 도장 도구의 "무늬로 칠하기"를 이용해, "Maple Leaves" 무늬가 있는 직선 그리기.
@@ -26,7 +26,7 @@
 <a id="90-03-02-29-a112"></a>
 
 #### [영상 90.3.2.29.a112. 도장(Clone)의 "무늬로 칠하기"](./90-03-02-29-clone.md#90-03-02-29-a112)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/03865af2-1672-4732-a24e-a3764e9bef34"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/03865af2-1672-4732-a24e-a3764e9bef34"></video>
 
 ## 3.5.2.3. 격자에 문지르기(Smudge) 직선그리기로 효과주기
 이미지 메뉴 바의 `필터(Filters)` → `렌더(Render)` → `무늬(Pattern)` → `격자(Grid)` 메뉴를 이용해 격자를 그립니다. 그리고 [문지르기(Smudge)](./14-03-16-00-smudge.md) 도구를 선택하고, 붓 크기를 약간 키운 뒤 직선을 그립니다.
@@ -41,7 +41,7 @@
 <a id="90-03-02-32-a111"></a>
 
 #### [영상 90.3.2.32.a111. 문지르기(Smudge)의 직선 그리기로 격자 모양에 문지르기 효과주기](./90-03-02-32-smudge.md#90-03-02-32-a111)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a040ac09-806b-47b5-ae25-2accfa6630c8"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a040ac09-806b-47b5-ae25-2accfa6630c8"></video>
 
 ## 3.5.2.4. 지우개(Eraser) 직선그리기로 플라즈마 구름 효과를 지우기
 이미지 메뉴 바의 `필터(Filters)` → `렌더(Render)` → `무늬(Pattern)` → `격자(Grid)` 메뉴를 이용해 멋진 플라즈마 구름을 그립니다. [지우개(Eraser)](./14-03-09-00-eraser.md)를 직사각형 형태로 직선을 그립니다.
@@ -56,7 +56,7 @@
 <a id="90-03-02-28-a111"></a>
 
 #### [영상 90.3.2.28.a111. 지우개(Eraser)로 플라즈마 구름 위에 직선 그리기](./90-03-02-28-eraser.md#90-03-02-28-a111)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6b7f59a3-84c4-4a70-b5f3-b7ad44e04db4"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6b7f59a3-84c4-4a70-b5f3-b7ad44e04db4"></video>
 
 ## 3.5.2.5. 닷지/번(Dodge/Burn) 직선그리기로 음영이 있는 사각형 그리기
 사각 선택 도구로 사각형을 선택합니다. 그리고 밝은 파란색으로 채웁니다. `닷지/번(Dodge/Burn)` 도구를 선택해서, 도구 옵션에서 `닷지(Dodge)`를 선택합니다. 사각형보다 작은 붓 크기로 위쪽과 왼쪽을 칠합니다. 그리고 이번에는 `번(Burn)`을 선택하고 아래쪽과 오른쪽을 칠합니다.
@@ -64,7 +64,7 @@
 <a id="90-03-02-34-a111"></a>
 
 #### [영상 90.3.2.34.a111. 닷지/번(Dodge/Burn)으로 음영이 있는 사각형 그리기](./90-03-02-34-dodge_burn.md#90-03-02-34-a111)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/871afdd6-a44c-4005-9322-84a474f23b17"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/871afdd6-a44c-4005-9322-84a474f23b17"></video>
 
 ***
 

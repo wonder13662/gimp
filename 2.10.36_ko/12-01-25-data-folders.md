@@ -24,7 +24,7 @@ GIMP(김프)는 여러 종류의 자원 - 붓, 무늬, 그라디언트 등을 �
 <a id="90-02-09-01-a123"></a>
 
 #### [영상 90.2.9.1.a123. `기본 설정` → `폴더` → `붓`: 폴더 선택하기 (windows) (우리말)](./90-02-09-01-brushes.md#90-02-09-01-a123)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/035dfb23-76cc-41eb-bda3-fc4bfbb22b24"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/035dfb23-76cc-41eb-bda3-fc4bfbb22b24"></video>
 
 ### 1-2. 폴더 추가/교체하기
 입력창에 폴더의 이름을 입력하거나, 오른쪽의 파일 선택 버튼을 눌러 파일을 직접 찾은 다음, 왼쪽의 "폴더 추가" 버튼을 눌러 선택한 폴더를 바꿀 수 있습니다. 
@@ -32,26 +32,26 @@ GIMP(김프)는 여러 종류의 자원 - 붓, 무늬, 그라디언트 등을 �
 <a id="90-02-09-01-a122-01"></a>
 
 #### [영상 90.2.9.1.a122.1. `기본 설정` → `폴더` → `붓`: 폴더 교체하기(추가 버튼) (windows) (우리말)](./90-02-09-01-brushes.md#90-02-09-01-a122-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7894c56b-3125-4da0-8786-f9ea8dd9881d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7894c56b-3125-4da0-8786-f9ea8dd9881d"></video>
 
 또는 엔터를 입력해도 교체됩니다.
 
 <a id="90-02-09-01-a122-02"></a>
 
 #### [영상 90.2.9.1.a122.2. `기본 설정` → `폴더` → `붓`: 폴더 교체하기(엔터키) (windows) (우리말)](./90-02-09-01-brushes.md#90-02-09-01-a122-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a44ca4a3-afb4-4e51-8dfc-c7b72b08bf0e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a44ca4a3-afb4-4e51-8dfc-c7b72b08bf0e"></video>
 
 선택한 폴더가 없다면, 목록에 폴더가 추가됩니다.
 
 <a id="90-02-09-01-a121-01"></a>
 
 #### [영상 90.2.9.1.a121.1. `기본 설정` → `폴더` → `붓`: 폴더 추가하기(직접 입력) (windows) (우리말)](./90-02-09-01-brushes.md#90-02-09-01-a121-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8b1ad2fd-0133-4fd7-8cb8-4284b79f9a33"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8b1ad2fd-0133-4fd7-8cb8-4284b79f9a33"></video>
 
 <a id="90-02-09-01-a121-02"></a>
 
 #### [영상 90.2.9.1.a121.2. `기본 설정` → `폴더` → `붓`: 폴더 추가하기(탐색) (windows) (우리말)](./90-02-09-01-brushes.md#90-02-09-01-a121-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8c74e4ee-2233-44cb-8e25-6ebb8600aa5d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8c74e4ee-2233-44cb-8e25-6ebb8600aa5d"></video>
 
 입력창의 왼쪽의 아이콘은 사용자가 지정한 폴더가 없을 경우, 모양이 바뀝니다. 사용하는 [아이콘 테마](./12-01-12-icon-theme.md)에 따라서 존재하지 않는 폴더를 알리는 방식이 녹색 원에서 빨간색 원이 될수 있고, 올린 엄지에서 내린 엄지가 될 수도 있습니다. 아래 예시 이미지에서는 올린 엄지와 내린 엄지의 모양입니다.
 
@@ -66,7 +66,7 @@ GIMP(김프)는 여러 종류의 자원 - 붓, 무늬, 그라디언트 등을 �
 <a id="90-02-09-01-a124"></a>
 
 #### [영상 90.2.9.1.a124. `기본 설정` → `폴더` → `붓`: 폴더 위/아래 옮기기 (windows) (우리말)](./90-02-09-01-brushes.md#90-02-09-01-a124)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f7ebecab-468e-4d86-953b-32b6385aa946"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f7ebecab-468e-4d86-953b-32b6385aa946"></video>
 
 ### 1-4. 폴더 삭제하기
 휴지통 아이콘이나 "X" 아이콘을 클릭하면, 선택한 폴더가 목록에서 지워집니다. 폴더 자체는 물리적으로 삭제되지 않습니다. 단지 검색 경로에서만 제거되는 것입니다. 시스템 폴더를 삭제하는 것은 가능하지만, GIMP(김프)에 직접적인 영향을 미치므로 하지 않는 것이 좋습니다.
@@ -74,14 +74,14 @@ GIMP(김프)는 여러 종류의 자원 - 붓, 무늬, 그라디언트 등을 �
 <a id="90-02-09-01-a125"></a>
 
 #### [영상 90.2.9.1.a125. `기본 설정` → `폴더` → `붓`: 폴더 삭제하기 (windows) (우리말)](./90-02-09-01-brushes.md#90-02-09-01-a125)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1f3d51af-6a50-43bd-b7eb-6c759126f71f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1f3d51af-6a50-43bd-b7eb-6c759126f71f"></video>
 
 만약 시스템 폴더를 삭제했다면, `붓 폴더 되돌리기(Reset Brush Folder)`를 클릭해서 원래대로 되돌릴 수 있습니다.
 
 <a id="90-02-09-01-a126"></a>
 
 #### [영상 90.2.9.1.a126. `기본 설정` → `폴더` → `붓`: 기본값으로 초기화하기 (windows) (우리말)](./90-02-09-01-brushes.md#90-02-09-01-a126)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2aadd941-f4c3-47cb-9324-e59fd6d20e7a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2aadd941-f4c3-47cb-9324-e59fd6d20e7a"></video>
 
 ***
 

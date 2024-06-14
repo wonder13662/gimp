@@ -9,7 +9,7 @@
 <a id="90-03-02-01-a101-01-02-01"></a>
 
 #### [영상 90.3.2.1.a101.1.2.1. `도구 옵션` → `이동` → `이동` → `선택` (Windows) (우리말)](./90-03-02-01-move.md#90-03-02-01-a101-01-02-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2faa65df-3412-483b-9750-080d3d2b3e4c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2faa65df-3412-483b-9750-080d3d2b3e4c"></video>
 
 `도구 옵션` → `이동` → `이동` → `선택`에 대해서는 아래 링크를 참고해주세요.
 

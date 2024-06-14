@@ -3,7 +3,7 @@
 <a id="90-10-05-03-01-a1"></a>
 
 #### 영상 90.10.5.3.1.a1. `색상으로 선택` - 방향키로 선택 영역 옮기기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/96d9db17-d423-4889-acac-a87780e0c190"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/96d9db17-d423-4889-acac-a87780e0c190"></video>
 
 [14.2.6.3. 도구 사용(Tool manipulation) - 영상 90.10.5.3.1.a1](./14-02-06-03-tool_manipulation.md#90-10-05-03-01-a1)
 

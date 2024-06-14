@@ -35,7 +35,7 @@
 <a id="90-03-02-03-a111"></a>
 
 #### [영상 90.3.2.3.a111. 선택의 `핸들 모드` - 핸들로 크기 바꾸기](./90-03-02-03-rectangle_select.md#90-03-02-03-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/37be8e66-b382-4ae5-ace4-0cbccc31686a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/37be8e66-b382-4ae5-ace4-0cbccc31686a"></video>
 
 ### 3-1. 선택 영역의 모서리(코너) 위의 마우스 포인터
 마우스 포인터가 선택 영역의 모서리(코너)에 올라가면, 모양이 아래의 이미지와 같이 바뀝니다. 마우스 포인터의 모양이 바뀐 상태에서 클릭, 드래그하면, 선택 영역의 크기를 늘이거나 줄일 수 있습니다.
@@ -44,7 +44,7 @@
 ![14-02-02-03-a111-01-corner](https://github.com/wonder13662/gimp/assets/15767104/8ff0ffef-bbb8-4cae-9f8d-90bd74a7c61d)
 
 #### 영상 14.2.2.3.a111.12. 선택 영역 위의 마우스 포인터들 - 사각형의 구석
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1326c39f-6b59-4f91-a36c-36eb3dba1803"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1326c39f-6b59-4f91-a36c-36eb3dba1803"></video>
 
 ### 3-2. 선택 영역의 옆면의 변 위의 마우스 포인터
 마우스 포인터가 선택 영역의 옆면의 변의 위로 가면 모양이 아래와 같이 바뀝니다. 마우스 포인터의 모양이 바뀐 상태에서 클릭, 드래그하면, 선택 영역의 크기를 늘이거나 줄일 수 있습니다.
@@ -53,7 +53,7 @@
 ![14-02-02-03-a111-02-medium](https://github.com/wonder13662/gimp/assets/15767104/40b3cd96-0e61-42a9-adaa-2b3ccebe8b50)
 
 #### 영상 14.2.2.3.a111.22. 선택 영역 위의 마우스 포인터들 - 사각형의 변
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c3bba721-6347-454c-b3d4-73c72fa9dc7e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c3bba721-6347-454c-b3d4-73c72fa9dc7e"></video>
 
 ### 3-3. 선택 영역의 안쪽의 마우스 포인터
 선택 영역 안쪽에 마우스 포인터를 옮긴다면, 아래 이미지처럼 마우스 포인터가 보이게 됩니다. 여기서 클릭, 드래그를 하면 선택 영역을 옮길 수 있습니다.
@@ -62,7 +62,7 @@
 ![14-02-02-03-a111-31](https://github.com/wonder13662/gimp/assets/15767104/b8ea46a4-20f9-498b-9187-c57f96f75479)
 
 #### 영상 14.2.2.3.a111.32. 선택 영역 안의 마우스 포인터 - 선택 영역 옮기기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ce7362e2-1fe1-4385-a31e-06c7fc60705a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ce7362e2-1fe1-4385-a31e-06c7fc60705a"></video>
 
 선택 영역 자체가 아닌 선택 영역 안쪽의 콘텐츠를 옮기는 방법에 대해서는 [14.2.1.1. 동작 변경키(Key modifiers) - 5. 선택 영역 옮기기](./14-02-01-01-key_modifiers.md#14-02-01-01-s5)를 참고해주세요.
 
@@ -81,7 +81,7 @@
 <a id="90-04-01-03-a162"></a>
 
 #### [영상 90.4.1.3.a162. `도구 옵션` → `사각 선택` → `강조` (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a162)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ce2e0413-333d-488b-accb-56e01f2af887"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ce2e0413-333d-488b-accb-56e01f2af887"></video>
 
 <a id="14-02-02-03-s5"></a>
 
@@ -93,24 +93,24 @@
 <a id="90-03-02-03-a121"></a>
 
 #### [영상 90.3.2.3.a121. 선택 `핸들 모드`로 키보드로 1픽셀씩 이동 (Windows)](./90-03-02-03-rectangle_select.md#90-03-02-03-a121)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/90dc823b-7564-44a3-93d8-64485e706c73"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/90dc823b-7564-44a3-93d8-64485e706c73"></video>
 
 <a id="90-03-02-03-a125"></a>
 
 #### [영상 90.3.2.3.a125. 선택 `핸들 모드`로 키보드로 1픽셀씩 크기 바꿈 (Windows)](./90-03-02-03-rectangle_select.md#90-03-02-03-a125)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9d48e2c8-c9d7-4faa-bcf1-c2d8978a7d65"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9d48e2c8-c9d7-4faa-bcf1-c2d8978a7d65"></video>
 
 화살표키 + Shift(⇧)를 누르면 이동값은 25픽셀입니다.
 
 <a id="90-03-02-03-a123"></a>
 
 #### [영상 90.3.2.3.a123. 선택 `핸들 모드`로 키보드로 25픽셀씩 이동 (Windows)](./90-03-02-03-rectangle_select.md#90-03-02-03-a123)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9aa7785b-b9cc-49ba-822f-c5df04fa2a43"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9aa7785b-b9cc-49ba-822f-c5df04fa2a43"></video>
 
 <a id="90-03-02-03-a127"></a>
 
 #### [영상 90.3.2.3.a127. 선택 `핸들 모드`로 키보드로 25픽셀씩 크기 바꿈 (Windows)](./90-03-02-03-rectangle_select.md#90-03-02-03-a127)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/42a2469d-1b1c-4085-a4e8-0fe082c4bddc"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/42a2469d-1b1c-4085-a4e8-0fe082c4bddc"></video>
 
 <a id="14-02-02-03-s6"></a>
 
@@ -122,7 +122,7 @@
 <a id="90-03-02-03-a113"></a>
 
 #### [영상 90.3.2.3.a113. 선택을 `핸들 모드`에서 `점선 모드`로 변경](./90-03-02-03-rectangle_select.md#90-03-02-03-a113)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/144097b9-643e-4bfc-8154-212931839d49"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/144097b9-643e-4bfc-8154-212931839d49"></video>
 
 ***
 

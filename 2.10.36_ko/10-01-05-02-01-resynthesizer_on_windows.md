@@ -15,7 +15,7 @@
 <a id="10-01-05-02-01-a1"></a>
 
 #### 그림 10.1.5.2.1.a1. 설치하기: Part 1
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fa699710-6f4f-49b9-a828-a1c0acf68108"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fa699710-6f4f-49b9-a828-a1c0acf68108"></video>
 
 ### 1-2. 플러그인 파일 설치
 1. GIMP(김프)를 엽니다.
@@ -43,7 +43,7 @@
 <a id="10-01-05-02-01-a2"></a>
 
 #### 그림 10.1.5.2.1.a2. 설치하기: Part 2
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d2a1be3f-56d8-417d-9a0f-147438d33664"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d2a1be3f-56d8-417d-9a0f-147438d33664"></video>
 
 ### 1-3. GIMP(김프) 재시작 및 설치 확인
 1. GIMP(김프)를 재시작합니다.
@@ -52,7 +52,7 @@
 <a id="10-01-05-02-01-a3"></a>
 
 #### 그림 10.1.5.2.1.a3. 설치하기: Part 3
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4f37fd72-bf52-4dea-9ed0-9325f330e0a4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4f37fd72-bf52-4dea-9ed0-9325f330e0a4"></video>
 
 ## 2. 사용하기 - Heal selection
 1. GIMP(김프)를 재시작합니다.
@@ -69,7 +69,7 @@
 <a id="10-01-05-02-01-a11"></a>
 
 #### 영상 10.1.5.2.1.a11. 사용하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0477be8f-4c32-4109-95f7-55e7ad9bd0cf"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0477be8f-4c32-4109-95f7-55e7ad9bd0cf"></video>
 
 ***
 

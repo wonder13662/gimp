@@ -80,7 +80,7 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 <a id="90-04-33-a211"></a>
 
 #### [영상 90.4.33.a211. 화질 변화와 파일 크기 빠르게 보기](./90-04-33-export_image_as_jpeg.md#90-04-33-a211)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a0f3f4b6-c40d-45a3-8c70-a58238efc2c1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a0f3f4b6-c40d-45a3-8c70-a58238efc2c1"></video>
 
 | 화질(%) | 원본 | 100 | 90 | 80 | 70 | 60 | 50 | 40 | 30 | 20 | 10 | 0 |
 | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -88,6 +88,8 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 
 #### 그림 3.4.4.6.a201. 화질 변화 타일 테이블로 한꺼번에 보기
 ![sample_apple_res_table](https://github.com/wonder13662/gimp/assets/15767104/8420ad6e-cfc9-4285-b081-140375737337)
+
+<a id="03-04-04-a621"></a>
 
 #### 그림 3.4.4.a621. 화질(%): 원본(PNG), 파일크기: 372 kB
 <img width="720" src="https://github.com/wonder13662/gimp/assets/15767104/51150286-dc29-43b4-a347-961fcd427556">

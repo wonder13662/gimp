@@ -21,28 +21,28 @@
 <a id="90-03-02-33-a2-01"></a>
 
 #### 그림 90.3.2.33.a2.1. `도구상자` → `흐릿하게/선명하게` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c8307913-5593-446e-bc1a-3cb8a573bdb5"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c8307913-5593-446e-bc1a-3cb8a573bdb5"></video>
 
 [14.3.15.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.33.a2.1](./14-03-15-01-activating_the_tool.md#90-03-02-33-a2-01)
 
 <a id="90-03-02-33-a101"></a>
 
 #### 영상 90.3.2.33.a101. 흐릿하게/선명하게(Blur/Sharpen)의 직선그리기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8a426c59-834c-48cd-b3ac-2892d6c9ea64"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8a426c59-834c-48cd-b3ac-2892d6c9ea64"></video>
 
 [3.5.1. 목적 - 영상 90.3.2.33.a101](./03-05-01-intention.md#90-03-02-33-a101)
 
 <a id="90-03-02-33-a111"></a>
 
 #### 영상 90.3.2.33.a111. 흐릿하게/선명하게(Blur/Sharpen)로 이미지의 선명도 올리기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/82df94fb-425d-491a-a6e8-a997bb566094"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/82df94fb-425d-491a-a6e8-a997bb566094"></video>
 
 [10.1.4.1. 선명하게 하기(Unblurring) - 영상 90.3.2.33.a111](./10-01-04-01-unblurring.md#90-03-02-33-a111)
 
 <a id="90-03-02-33-a121-01-01"></a>
 
 #### 영상 90.3.2.33.a121.1.1. `도구 옵션` → `흐릿하게/선명하게` → `동작 속도`: 비교 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fdf77960-2e80-4fa9-b7e2-1fe73b3e8b24"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fdf77960-2e80-4fa9-b7e2-1fe73b3e8b24"></video>
 
 [14.3.15. 흐릿하게/선명하게(Blur/sharpen) - 영상 90.3.2.33.a121.1.1](./14-03-15-00-blur-sharpen.md#90-03-02-33-a121-01-01)
 
@@ -70,7 +70,7 @@
 <a id="90-03-02-33-a131"></a>
 
 #### 영상 90.3.2.33.a131. `흐릿하게/선명하게` 도구의 효과는 점점 쌓입니다: 클릭 50회와 10회의 비교 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f668e6ee-17cb-4eed-af00-8b0876382653"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f668e6ee-17cb-4eed-af00-8b0876382653"></video>
 
 [14.3.15. 흐릿하게/선명하게(Blur/sharpen) - 영상 90.3.2.33.a131](./14-03-15-00-blur-sharpen.md#90-03-02-33-a131)
 

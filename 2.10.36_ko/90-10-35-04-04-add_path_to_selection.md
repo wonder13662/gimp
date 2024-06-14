@@ -3,7 +3,7 @@
 <a id="90-10-35-04-04-a1"></a>
 
 #### 영상 90.10.35.4.4.a1. Shift(⇧): 경로를 선택에 더하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/016f731b-2a32-4384-9a02-053c11b2d034"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/016f731b-2a32-4384-9a02-053c11b2d034"></video>
 
 [14.5.2.3.5. 경로로부터 선택 영역 만들기(Create selection from path) - 영상 90.10.35.4.4.a1](./14-05-02-03-05-create_selection_from_path.md#90-10-35-04-04-a1)
 

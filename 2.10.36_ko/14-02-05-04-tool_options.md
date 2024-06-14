@@ -57,7 +57,7 @@
 <a id="90-03-02-08-a124-02"></a>
 
 #### [영상 90.3.2.8.a124.2. `도구 옵션` → `퍼지 선택` → `대각선 이웃`: 옵션 활성화(체크 켜짐) (Windows) (우리말)](./90-03-02-08-fuzzy_select.md#90-03-02-08-a124-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6ecd75f6-3186-44a3-848b-6c022a8af972"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6ecd75f6-3186-44a3-848b-6c022a8af972"></video>
 
 ### 6-2. 옵션 비활성화(체크 꺼짐)
 `퍼지 선택(마법 지팡이)` 도구는 선택할 비슷한 색상의 범위를 계산할 때, 직교한 픽셀들만 계산에 포함합니다.
@@ -65,7 +65,7 @@
 <a id="90-03-02-08-a124-01"></a>
 
 #### [영상 90.3.2.8.a124.1. `도구 옵션` → `퍼지 선택` → `대각선 이웃`: 옵션 비활성화(체크 꺼짐)(Windows) (우리말)](./90-03-02-08-fuzzy_select.md#90-03-02-08-a124-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7f27e8cd-1990-4086-b265-9103eeb64136"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7f27e8cd-1990-4086-b265-9103eeb64136"></video>
 
 <a id="14-02-05-04-s7"></a>
 
@@ -106,7 +106,7 @@
 <a id="90-03-02-08-a126-01"></a>
 
 #### [영상 90.3.2.8.a126.1. `도구 옵션` → `퍼지 선택` → `선택을 마스크 보여주기`: 옵션 활성화(체크 켜짐) (Windows) (우리말)](./90-03-02-08-fuzzy_select.md#90-03-02-08-a126-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bb292af7-9ad3-4239-a586-574040e58522"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bb292af7-9ad3-4239-a586-574040e58522"></video>
 
 <a id="14-02-05-04-s9-02"></a>
 
@@ -116,7 +116,7 @@
 <a id="90-03-02-08-a126-02"></a>
 
 #### [영상 90.3.2.8.a126.2. `도구 옵션` → `퍼지 선택` → `선택을 마스크 보여주기`: 옵션 비활성화(체크 꺼짐) (Windows) (우리말)](./90-03-02-08-fuzzy_select.md#90-03-02-08-a126-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4090a052-2bdc-4974-b465-1007e723fb22"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4090a052-2bdc-4974-b465-1007e723fb22"></video>
 
 ***
 

@@ -20,7 +20,7 @@
 <a id="90-04-117-a101-01"></a>
 
 #### [영상 90.4.117.a101.1. `핸들 변형` 대화상자 → `초기화` 버튼 (Windows) (우리말)](./90-04-117-handle_transform.md#90-04-117-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7a931f66-c5cd-4e3e-990f-accb0c709cbf"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7a931f66-c5cd-4e3e-990f-accb0c709cbf"></video>
 
 ***
 

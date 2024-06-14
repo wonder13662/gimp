@@ -28,12 +28,12 @@
 <a id="90-01-02-07-a102"></a>
 
 #### [영상 90.1.2.7.a102. `편집` → `붙여넣기`로 복사해서 새로운 레이어 만들기](./90-01-02-07-paste.md#90-01-02-07-a102)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/f8692879-8260-4957-a3c9-22373c6817ad"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/f8692879-8260-4957-a3c9-22373c6817ad"></video>
 
 <a id="90-04-03-03-a71"></a>
 
 #### [영상 90.4.3.3.a71. 단축키로 잘라내서 고정(anchor)하기](./90-04-03-03-floating_selection.md#90-04-03-03-a71)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/75c81567-91ea-4306-a716-037fd0264037"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/75c81567-91ea-4306-a716-037fd0264037"></video>
 
 ***
 

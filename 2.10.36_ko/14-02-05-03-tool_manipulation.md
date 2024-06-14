@@ -10,12 +10,12 @@
 <a id="90-10-04-02-01-a1"></a>
 
 #### [영상 90.10.4.2.1.a1. 퍼지 선택 도구 - 선택 영역 확대(오른쪽)/축소(왼쪽)하기](./90-10-04-02-01-expand_n_shrink-right_n_left.md#90-10-04-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0bb99679-a7a4-4ce9-b49b-039ed8f5bdbe"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0bb99679-a7a4-4ce9-b49b-039ed8f5bdbe"></video>
 
 <a id="90-10-04-02-02-a1"></a>
 
 #### [영상 90.10.4.2.2.a1. 퍼지 선택 도구 - 선택 영역 확대(아래쪽)/축소(위쪽)하기](./90-10-04-02-02-expand_n_shrink-down_n_up.md#90-10-04-02-02-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8a2a054b-ea34-41e7-b8f1-96684f8873bd"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8a2a054b-ea34-41e7-b8f1-96684f8873bd"></video>
 
 <a id="14-02-05-03-s2"></a>
 
@@ -25,7 +25,7 @@
 <a id="90-10-04-03-01-a1"></a>
 
 #### [영상 90.10.4.3.1.a1. 퍼지 선택 도구 - 방향키로 선택 영역 옮기기](./90-10-04-03-01-move_selection_by_arrow_keys.md#90-10-04-03-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bf4655ea-f943-4ba5-9a66-03f5ea1a6cca"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bf4655ea-f943-4ba5-9a66-03f5ea1a6cca"></video>
 
 ***
 

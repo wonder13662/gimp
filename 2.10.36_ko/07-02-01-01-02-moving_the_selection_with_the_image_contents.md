@@ -8,7 +8,7 @@
 <a id="90-03-02-03-a131"></a>
 
 #### [영상 90.3.2.3.a131. 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Windows)](./90-03-02-03-rectangle_select.md#90-03-02-03-a131)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/91f98102-d20f-4c2a-8e55-8053db29855b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/91f98102-d20f-4c2a-8e55-8053db29855b"></video>
 
 ### Mac
 이미지의 선택된 부분을 옮기려면, ⌘ + ⌥를 누른채로 클릭 + 드래그 합니다.
@@ -16,7 +16,7 @@
 <a id="90-03-02-03-a132"></a>
 
 #### [영상 90.3.2.3.a132. 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Mac)](./90-03-02-03-rectangle_select.md#90-03-02-03-a132)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3ae6839a-940b-4d2f-87ee-9f604178aaa7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3ae6839a-940b-4d2f-87ee-9f604178aaa7"></video>
 
 이렇게 옮기고 나면 원래 이미지의 위치는 비워지게 됩니다. 비워진 부분은 알파채널이 없는 경우, 배경색으로 채워지게 됩니다. 
 
@@ -30,7 +30,7 @@
 <a id="90-03-02-03-a133"></a>
 
 #### [영상 90.3.2.3.a133. 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Windows)](./90-03-02-03-rectangle_select.md#90-03-02-03-a133)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f073dc29-cfdb-432c-973a-758a043d3629"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f073dc29-cfdb-432c-973a-758a043d3629"></video>
 
 ### Mac
 이미지의 선택된 부분을 옮기려면, ⇧ + ⌥를 누른채로 클릭 + 드래그 합니다.
@@ -38,7 +38,7 @@
 <a id="90-03-02-03-a134"></a>
 
 #### [영상 90.3.2.3.a134. 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Mac)](./90-03-02-03-rectangle_select.md#90-03-02-03-a134)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f4aec06c-3ffd-4c8a-82b2-7d92a5b9af61"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f4aec06c-3ffd-4c8a-82b2-7d92a5b9af61"></video>
 
 이렇게 옮기고 나면, 선택 영역이 있던 이미지의 영역은 변화가 없습니다. 새로운 이미지의 부분이 복사되어 옮겨지게 됩니다.
 

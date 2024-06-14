@@ -10,7 +10,7 @@
 <a id="90-01-10-04-a102"></a>
 
 #### 영상 90.1.10.4.a102. `Tab`키로 도구 대화상자 숨기기/보이기 사용(Windows)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb3e7385-20be-49ba-b5ce-33746c2b0ab0"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb3e7385-20be-49ba-b5ce-33746c2b0ab0"></video>
 
 [4.3.1. 모든 도구창이 사라졌습니다 - 영상 90.1.10.4.a102](./04-03-01-all-tool-windows-are-missing.md#90-01-10-04-a102)
 

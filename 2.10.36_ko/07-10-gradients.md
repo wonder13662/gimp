@@ -10,7 +10,7 @@ GIMP(김프)의 기본적인 칠하기 도구는 그라디언트의 색상을 �
 <a id="90-03-02-23-a112"></a>
 
 #### [영상 90.3.2.23.a112. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options)의 `Color From Gradient` 적용하기](./90-03-02-23-paintbrush.md#90-03-02-23-a112)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6215e2ac-b807-4732-b106-e37b2c0c2c82"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6215e2ac-b807-4732-b106-e37b2c0c2c82"></video>
 
 위 영상 관련 작업 내용은 [3.5.2.1. 그리기 붓과 `Color From Gradient` 사용하기](./03-05-02-examples.md#03-05-02-s1)을 참고해주세요.
 
@@ -29,7 +29,7 @@ GIMP(김프)의 기본적인 칠하기 도구는 그라디언트의 색상을 �
 <a id="90-01-07-17-06-a3"></a>
 
 #### [영상 90.1.7.17.6.a3. `색` → `지도` → `그라디언트 맵` (Windows) - 이미지 색상 바꾸기](./90-01-07-17-06-gradient_map.md#90-01-07-17-06-a3)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8a25ac5e-ee10-4700-b1dc-92f336d9365b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8a25ac5e-ee10-4700-b1dc-92f336d9365b"></video>
 
 이에 대한 자세한 내용은 [그라디언트 맵](./16-08-40-gradient-map.md)을 참고하세요.
 
@@ -53,7 +53,7 @@ GIMP(김프)를 설치하면, 기본으로 제공되는 많은 그라디언트�
 그라디언트를 선택합니다. 선택 내부의 한 점에서 다른 지점으로 클릭후 끌어놓기를 합니다. 그라디언트의 색상들이 마우스를 끌어놓기 한 방향에 수직으로, 그리고 끌어놓기 한 길이에 맞게 퍼져 적용됩니다.
 
 #### 영상 7.10.a102. 선택에 그라디언트 적용하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d99784f0-8f16-4154-bc2f-971386c6725d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d99784f0-8f16-4154-bc2f-971386c6725d"></video>
 
 ## 6. 예제 2: 그라디언트로 칠하기(Painting with a gradient)
 그리기 툴의 도구옵션의 `동적요소(Dynamics)`에서 `Color From Gradient`를 선택하면 그라디언트를 그리기 툴로 칠할 수 있습니다. `Color From Gradient`를 선택한 다음에 `동적요소(Dynamics)`의 `색상 옵션(Color options)`에서 원하는 그라디언트를 고를 수 있습니다. 그리고 `동적요소(Dynamics)`의 `페이드 옵션(Fade options)`에서 그라디언트의 길이와 반복되는 스타일을 설정할 수 있습니다. [14.3.2.6. 동적 요소 옵션(Dynamics Options)](./14-03-02-06-dynamics_options.md)에서 위에서 사용된 옵션의 인자(parameter)에 대한 상세한 내용을 확인할 수 있습니다.
@@ -62,7 +62,7 @@ GIMP(김프)를 설치하면, 기본으로 제공되는 많은 그라디언트�
 ![07-10-paint_with_gradient(windows)(ko)-focus-dynamics](https://github.com/wonder13662/gimp/assets/15767104/b42d0b8e-45e4-4c33-871f-7934b668f88b)
 
 #### 영상 7.10.a112. 그라디언트를 색상으로 칠하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/af015474-29d4-4afe-9aed-7cfb08d09bf2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/af015474-29d4-4afe-9aed-7cfb08d09bf2"></video>
 
 ## 7. 전경색과 배경색을 이용하는 그라디언트
 다음 리스트 중에 처음 네가지 그라디언트는 조금 특별합니다. 그것들은 설정된 색상이 아닌 도구상자의 색상 영역에 있는 전경색과 배경색을 이용합니다. 여기서 사용되는 전경색은 색상 선택기를 통해 바꿀 수 있습니다. 이처럼 전경색과 배경색을 바꿈으로써, 서로 다른 두 가지색을 부드럽게 전환시키면서 그라디언트 할 수 있습니다.

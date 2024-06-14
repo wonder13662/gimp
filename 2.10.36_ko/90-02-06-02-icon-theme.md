@@ -68,7 +68,7 @@
 <a id="90-02-06-02-a17"></a>
 
 #### 영상 90.2.6.2.a17. `기본 설정` → `인터페이스` → `아이콘 테마`: 테마 바꾸기 (Windows) (우리말)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/7821d11c-ae8b-474c-acc8-eda94d559158"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/7821d11c-ae8b-474c-acc8-eda94d559158"></video>
 
 [12.1.12. 아이콘 테마(Icon Theme) - 영상 90.2.6.2.a17](./12-01-12-icon-theme.md#90-02-06-02-a17)
 

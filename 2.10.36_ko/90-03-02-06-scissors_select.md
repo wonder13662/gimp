@@ -19,7 +19,7 @@
 <a id="90-03-02-06-a2-01"></a>
 
 #### 영상 90.3.2.6.a2.1. `도구상자` → `똑똑한 가위`
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cbcfeb6d-f231-46e9-bb96-9b75c687aff0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/cbcfeb6d-f231-46e9-bb96-9b75c687aff0"></video>
 
 [14.2.7.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.6.a2.1](./14-02-07-01-activating_the_tool.md#90-03-02-06-a2-01)
 
@@ -47,49 +47,49 @@
 <a id="90-03-02-06-a3-04"></a>
 
 #### 영상 90.3.2.6.a3.4. `도구상자` → `똑똑한 가위` - 노드 추가
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d701d838-40af-4b38-b9c7-1eed5a3724b8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d701d838-40af-4b38-b9c7-1eed5a3724b8"></video>
 
 [14.2.7.3. 도구 사용(Tool manipulation) - 영상 90.3.2.6.a3.4](./14-02-07-03-tool_manipulation.md#90-03-02-06-a3-04)
 
 <a id="90-03-02-06-a3-05-01"></a>
 
 #### 영상 90.3.2.6.a3.5.1. `도구상자` → `똑똑한 가위` - 노드 수정하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/443aa83c-eab4-4c47-9caf-27948a5f0459"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/443aa83c-eab4-4c47-9caf-27948a5f0459"></video>
 
 [14.2.7.3. 도구 사용(Tool manipulation) - 영상 90.3.2.6.a3.5.1](./14-02-07-03-tool_manipulation.md#90-03-02-06-a3-05-01)
 
 <a id="90-03-02-06-a3-05-02"></a>
 
 #### 영상 90.3.2.6.a3.5.2. `도구상자` → `똑똑한 가위` - 노드 삭제하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a7026383-514b-45b8-8d26-5baaa9cb8714"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a7026383-514b-45b8-8d26-5baaa9cb8714"></video>
 
 [14.2.7.3. 도구 사용(Tool manipulation) - 영상 90.3.2.6.a3.5.2](./14-02-07-03-tool_manipulation.md#90-03-02-06-a3-05-02)
 
 <a id="90-03-02-06-a3-06-01"></a>
 
 #### 영상 90.3.2.6.a3.6.1. `도구상자` → `똑똑한 가위` - 선택 완료하기(선택 안쪽 클릭)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/28f5c80e-277a-41c8-a780-7ebd50e0862b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/28f5c80e-277a-41c8-a780-7ebd50e0862b"></video>
 
 [14.2.7.3. 도구 사용(Tool manipulation) - 영상 90.3.2.6.a3.6.1](./14-02-07-03-tool_manipulation.md#90-03-02-06-a3-06-01)
 
 <a id="90-03-02-06-a3-06-02"></a>
 
 #### 영상 90.3.2.6.a3.6.2. `도구상자` → `똑똑한 가위` - 선택 완료하기(엔터키)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bceea6bf-9e48-4fef-ac8a-cb59854d1d9a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bceea6bf-9e48-4fef-ac8a-cb59854d1d9a"></video>
 
 [14.2.7.3. 도구 사용(Tool manipulation) - 영상 90.3.2.6.a3.6.2](./14-02-07-03-tool_manipulation.md#90-03-02-06-a3-06-02)
 
 <a id="90-03-02-06-a3-11"></a>
 
 #### 영상 90.3.2.6.a3.11. `도구상자` → `똑똑한 가위` - 하나의 선택만 만들 수 있습니다
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/32f9b4bd-5399-447e-9509-c4391eb885d1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/32f9b4bd-5399-447e-9509-c4391eb885d1"></video>
 
 [14.2.7.3. 도구 사용(Tool manipulation) - 영상 90.3.2.6.a3.11](./14-02-07-03-tool_manipulation.md#90-03-02-06-a3-11)
 
 <a id="90-03-02-06-a4"></a>
 
 #### 영상 90.3.2.6.a4. `도구상자` → `똑똑한 가위` → `도구 옵션` → `경계 바로 보기`:옵션 켜고/끄기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8a6485f5-21e4-4029-9ef9-a1ca0d46d976"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8a6485f5-21e4-4029-9ef9-a1ca0d46d976"></video>
 
 [14.2.7.4. 도구 옵션 - 영상 90.3.2.6.a4](./14-02-07-04-tool_options.md#90-03-02-06-a4)
 

@@ -12,7 +12,7 @@
 <a id="90-01-08-01-07-a101-01"></a>
 
 #### [영상 90.1.8.1.7.a101.1. `도구` → `선택 도구` → `똑똑한 가위` (Windows) (우리말)](./90-01-08-01-07-intelligent_scissors.md#90-01-08-01-07-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e75dfb27-2445-48ef-97e6-565df23a9192"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e75dfb27-2445-48ef-97e6-565df23a9192"></video>
 
 ## 2. 도구 상자에서 `똑똑한 가위` 클릭
 
@@ -24,14 +24,14 @@
 <a id="90-03-02-06-a2-01"></a>
 
 #### [영상 90.3.2.6.a2.1. `도구상자` → `똑똑한 가위`](./90-03-02-06-scissors_select.md#90-03-02-06-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cbcfeb6d-f231-46e9-bb96-9b75c687aff0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/cbcfeb6d-f231-46e9-bb96-9b75c687aff0"></video>
 
 ## 3. 키보드 단축키 `I`
 
 <a id="90-10-06-01-01-a1"></a>
 
 #### [영상 90.10.6.1.1.a1. `똑똑한 가위` 도구 - 키보드 단축키 `I`](./90-10-06-01-01-i.md#90-10-06-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/354c5a99-6eec-4f37-b6d9-a7493a2a2f35"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/354c5a99-6eec-4f37-b6d9-a7493a2a2f35"></video>
 
 ***
 

@@ -12,12 +12,12 @@
 <a id="90-02-04-a13-01"></a>
 
 #### [영상 90.2.4.a13.1. `기본설정` → `도구 옵션` → `칠하기 도구 공통 옵션` → `붓`:켜기 (Windows) (우리말)](./90-02-04-tool-options.md#90-02-04-a13-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e1c46153-61e2-458d-82d9-e6280355cd92"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e1c46153-61e2-458d-82d9-e6280355cd92"></video>
 
 <a id="90-02-04-a13-02"></a>
 
 #### [영상 90.2.4.a13.2. `기본설정` → `도구 옵션` → `칠하기 도구 공통 옵션` → `붓`:끄기 (Windows) (우리말)](./90-02-04-tool-options.md#90-02-04-a13-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/df46815c-feca-4751-ba58-2187c6fe762f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/df46815c-feca-4751-ba58-2187c6fe762f"></video>
 
 ***
 

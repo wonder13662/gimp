@@ -9,7 +9,7 @@
 <a id="90-03-02-29-a122"></a>
 
 #### [영상 90.3.2.29.a122. 도장(Clone) 도구로 필요없는 부분 제거하기](./90-03-02-29-clone.md#90-03-02-29-a122)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/22416fc2-2687-4591-a239-c13c7432adc5"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/22416fc2-2687-4591-a239-c13c7432adc5"></video>
 
 ## 2. 복원(Healing) 도구로 불필요한 것 제거하기
 
@@ -18,7 +18,7 @@
 <a id="90-03-02-31-a111"></a>
 
 #### [영상 90.3.2.31.a111. 복원(Heal) 도구로 필요없는 부분 제거하기](./90-03-02-31-healing.md#90-03-02-31-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6afc7e56-5b80-4677-9e56-0ffa19b1720f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6afc7e56-5b80-4677-9e56-0ffa19b1720f"></video>
 
 ## 3. `Resynthesizer` 플러그인으로 불필요한 것 제거하기
 
@@ -31,7 +31,7 @@
 <a id="10-01-05-02-01-a11"></a>
 
 #### [영상 10.1.5.2.1.a11. 사용하기](./10-01-05-02-01-resynthesizer_on_windows.md#10-01-05-02-01-a11)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0477be8f-4c32-4109-95f7-55e7ad9bd0cf"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0477be8f-4c32-4109-95f7-55e7ad9bd0cf"></video>
 
 ***
 

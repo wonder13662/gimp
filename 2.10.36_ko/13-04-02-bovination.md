@@ -12,7 +12,7 @@
 ![09-02-01-02-a103-dialog(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/abf7fbd1-14b3-49f1-806f-aa35e49d23dc)
 
 #### 영상 13.4.2.a104. 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c63c006c-3ff3-4922-95db-c00f7cf9b9b5"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c63c006c-3ff3-4922-95db-c00f7cf9b9b5"></video>
 
 ## 2. `필터` → `알파를 로고로` → `Bovination...`
 
@@ -29,7 +29,7 @@
 ![09-02-01-02-a114-dialog](https://github.com/wonder13662/gimp/assets/15767104/8852e327-932f-4130-8058-d9efd3b66dbf)
 
 #### 영상 13.4.2.a115. 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/02e63b34-33a9-4186-9ebf-b86ef80c20ff"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/02e63b34-33a9-4186-9ebf-b86ef80c20ff"></video>
 
 ## 3. 스크립트
 [bovinated-logo.scm.zip](https://github.com/wonder13662/gimp/files/14737316/bovinated-logo.scm.zip)

@@ -10,7 +10,7 @@
 <a id="90-01-05-13-a102"></a>
 
 #### 영상 90.1.5.13.a102. 가이드로 잘라내기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ccfc3e5c-0195-4125-a9b3-32b0f6983086"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ccfc3e5c-0195-4125-a9b3-32b0f6983086"></video>
 
 [12.2.2. 안내선(Guides) - 영상 90.1.5.13.a10](./12-02-02-guides.md#90-01-05-13-a102)
 

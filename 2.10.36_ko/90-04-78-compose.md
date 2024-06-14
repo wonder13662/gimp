@@ -22,7 +22,7 @@
 <a id="90-04-78-a105"></a>
 
 #### 영상 90.4.78.a105. `구성` 대화상자 → `HSV` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/43016a08-52b6-46ef-853b-4989f8e7ab40"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/43016a08-52b6-46ef-853b-4989f8e7ab40"></video>
 
 [10.1.4.1. 선명하게 하기(Unblurring) - 영상 90.4.78.a105](./10-01-04-01-unblurring.md#90-04-78-a105)
 

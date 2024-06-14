@@ -16,7 +16,7 @@ $ sudo port install gimp-resynthesizer
 ⚠️ 주의: 처음으로 MacPorts를 설치하는 경우, `gimp-resynthesizer`에 필요한 라이브러리를 설치하기 위해 오래 기다려야 할 수 있습니다. 이 예제를 위해 설치할 당시, 약 7분 30초 정도가 걸려 설치가 완료되었습니다.
 
 #### 영상 10.1.5.2.2.a1. Mac의 터미널에서 MacPorts로 `gimp-resynthesizer` 설치 (Mac) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/106c8e8a-32b3-44f8-99ee-2c62bdef602d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/106c8e8a-32b3-44f8-99ee-2c62bdef602d"></video>
 
 [MacPorts의 gimp-resynthesizer](https://ports.macports.org/port/gimp-resynthesizer/details/)을 설치한 이후에 아래 명령으로 플러그인 파일이 설치된 위치를 확인해야 합니다.
 
@@ -29,7 +29,7 @@ $ port contents gimp-resynthesizer
 GIMP(김프)를 재시작하면, Resynthesizer 플러그인이 설치된 것을 확인할 수 있습니다.
 
 #### 영상 10.1.5.2.2.a2. GIMP(김프)에 플러그인 경로 추가 (Mac) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/58f01bee-cecc-41d1-a3ef-ed8c77113bae"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/58f01bee-cecc-41d1-a3ef-ed8c77113bae"></video>
 
 ## 2. 사용하기 - Heal selection
 1. GIMP(김프)를 재시작합니다.
@@ -46,7 +46,7 @@ GIMP(김프)를 재시작하면, Resynthesizer 플러그인이 설치된 것을 
 7. 제거할 대상이 이미지에서 지워진 것을 확인할 수 있습니다.
 
 #### 영상 10.1.5.2.2.a3. 플러그인 `Heal Selection` 사용 (Mac) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/af379030-c0ee-44a9-8f42-4f7ea6a11221"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/af379030-c0ee-44a9-8f42-4f7ea6a11221"></video>
 
 ***
 

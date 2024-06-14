@@ -12,7 +12,7 @@
 <a id="90-01-08-01-04-a101-01"></a>
 
 #### [영상 90.1.8.1.4.a101.1.`도구` → `선택도구` → `전경 선택` (Windows) (우리말)](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/df687681-fe5e-4c9f-a3e1-e50a3fd3dc2f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/df687681-fe5e-4c9f-a3e1-e50a3fd3dc2f"></video>
 
 ## 2. 도구 상자에서 `전경 선택` 클릭
 

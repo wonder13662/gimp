@@ -16,14 +16,14 @@
 <a id="90-01-10-02-a101"></a>
 
 #### 영상 90.1.10.2.a101. 다중창 모드에서 대화상자 추가
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/09ddc773-aabd-4ea8-8447-435e2d010e3d"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/09ddc773-aabd-4ea8-8447-435e2d010e3d"></video>
 
 [3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.1.10.2.a101](./03-02-03-01-organizing-dialogs.md#90-01-10-02-a101)
 
 <a id="90-01-10-02-a111"></a>
 
 #### 영상 90.1.10.2.a111. 단일창 모드에서 대화상자 추가
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cc6aec8e-3d77-4945-8685-b7aa00245c07"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cc6aec8e-3d77-4945-8685-b7aa00245c07"></video>
 
 [3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.1.10.2.a111](./03-02-03-01-organizing-dialogs.md#90-01-10-02-a111)
 

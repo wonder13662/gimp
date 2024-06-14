@@ -18,7 +18,7 @@
 <a id="90-03-02-21-a7-02"></a>
 
 #### [영상 90.3.2.21.a7.2. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `투명한 영역 채우기` (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a7-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0682e1d2-4c0f-4dee-8a17-c63a87b96335"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0682e1d2-4c0f-4dee-8a17-c63a87b96335"></video>
 
 ## 2. 표본 합치기(Sample merged)
 이미지 창에서 보이는 모든 레이어에서 표본을 추출하여 합칩니다. 따라서 색상에 대한 임계값을 활성화된 레이어 외의 다른 보이는 모든 레이어에 적용합니다. 아래 첨부한 영상에서 `표본 합치기(Sample merged)` 옵션을 껐을 때는 가장 위의 레이어의 전체가 색으로 채워지지만, 옵션을 켰을 때는 임계값의 범위 안에 들어간 아래의 다른 레이어들의 색상들의 범위에만 색이 채워지는 것을 확인할 수 있습니다.
@@ -26,7 +26,7 @@
 <a id="90-03-02-21-a7-03"></a>
 
 #### [영상 90.3.2.21.a7.3. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `표본 합치기` (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a7-03)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ba7b1866-e94c-4103-b326-2e7fd2a05d1a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ba7b1866-e94c-4103-b326-2e7fd2a05d1a"></video>
 
 ## 3. 대각선 이웃(Diagonal neighbors)
 [14.2.5.4. 도구 옵션(Tool Options) - 6. 대각선 이웃(Diagonal Neighbors)](./14-02-05-04-tool_options.md#14-02-05-04-s6)을 참고해주세요.
@@ -40,7 +40,7 @@
 <a id="90-03-02-21-a7-04"></a>
 
 #### [영상 90.3.2.21.a7.4. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `임계값` (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a7-04)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/93b8f414-8d4c-4991-97a8-72cf32de23d4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/93b8f414-8d4c-4991-97a8-72cf32de23d4"></video>
 
 ## 6. 다른 방식으로 채우기(Fill by)
 `다른 방식으로 채우기(Fill by)` 옵션은 색의 비슷한 정도를 계산하는데 사용하는 GIMP(김프)의 이미지 컴포넌트를 선택합니다. 그리고 채우기하는 경계를 결정합니다.
@@ -85,7 +85,7 @@
 <a id="90-03-02-21-a7-06-02"></a>
 
 #### [영상 90.3.2.21.a7.6.2. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 합성 (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a7-06-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/47f3d853-c6d1-4304-b39a-4039a8187666"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/47f3d853-c6d1-4304-b39a-4039a8187666"></video>
 
 ### 6-3. 다른 방식으로 채우기(Fill by): 빨강(Red) - 빨간 영역 클릭
 이미지의 빨강 영역을 클릭하면, 임계값의 범위만큼 빨강의 영역에 색이 채워집니다.
@@ -98,7 +98,7 @@
 <a id="90-03-02-21-a7-07-02"></a>
 
 #### [영상 90.3.2.21.a7.7.2. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 빨강(Red) - 빨간 영역 클릭 (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a7-07-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8955e875-e77f-47e3-879b-788aa738d612"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8955e875-e77f-47e3-879b-788aa738d612"></video>
 
 ### 6-4. 다른 방식으로 채우기(Fill by): 빨강(Red) - 녹색 영역 클릭
 이미지의 녹색 영역을 클릭하면, 초록, 파랑 영역 전부와 임계값의 범위만큼의 빨강의 일부 영역에 색이 채워집니다. 이는 채널 중의 빨간색 채널을 기반으로 픽셀의 색상값을 판단했기 때문입니다. 빨간색 채널에서는 초록과 파랑의 색상값이 모두 0입니다. 그러므로 이 영역의 색상들은 모두 색이 채워지게 됩니다. 빨간색의 어두운 영역의 일부도 임계값의 범위에 들어가서 색이 채워지게 됩니다.
@@ -111,7 +111,7 @@
 <a id="90-03-02-21-a7-08-02"></a>
 
 #### [영상 90.3.2.21.a7.8.2. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 빨강(Red) - 녹색 영역 클릭 (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a7-08-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1f89b13d-f543-4756-ba80-ca5b118328b9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1f89b13d-f543-4756-ba80-ca5b118328b9"></video>
 
 ***
 

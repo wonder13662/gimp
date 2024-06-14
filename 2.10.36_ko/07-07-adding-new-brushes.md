@@ -71,7 +71,7 @@
 <a id="90-04-15-a153"></a>
 
 #### [영상 90.4.15.a153. 일반붓 만들기 - `.gbr` 파일을 불러오기](./90-04-15-brushes.md#90-04-15-a153)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40fdc204-f9d5-4cce-b7dd-289c00a9cbf3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/40fdc204-f9d5-4cce-b7dd-289c00a9cbf3"></video>
 
 > 🗒️ 참고
 >

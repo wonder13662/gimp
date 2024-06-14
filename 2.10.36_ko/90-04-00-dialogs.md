@@ -563,42 +563,42 @@
 <a id="90-04-a101"></a>
 
 #### 영상 90.4.a101. 탭 추가(Add Tab)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2859f79-24af-41ff-8ec6-e859da6c8fb8"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2859f79-24af-41ff-8ec6-e859da6c8fb8"></video>
 
 [3.2. GIMP(김프)의 주요 화면 - 영상 90.4.a101](./03-02-00-main-window.md#90-04-a101)
 
 <a id="90-04-a102"></a>
 
 #### 영상 90.4.a102. 탭 닫기(Close Tab)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5d38720a-30b5-4466-9719-292c7f66dc5c"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5d38720a-30b5-4466-9719-292c7f66dc5c"></video>
 
 [3.2. GIMP(김프)의 주요 화면 - 영상 90.4.a102](./03-02-00-main-window.md#90-04-a102)
 
 <a id="90-04-a103"></a>
 
 #### 영상 90.4.a103. 탭 떼어내기(Detach Tab)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/50310e90-46d0-445f-9801-a676bd5db9e7"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/50310e90-46d0-445f-9801-a676bd5db9e7"></video>
 
 [3.2. GIMP(김프)의 주요 화면 - 영상 90.4.a103](./03-02-00-main-window.md#90-04-a103)
 
 <a id="90-04-a111"></a>
 
 #### 영상 90.4.a111. 대화상자 이동
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d493e232-1630-47f5-8e5b-5fda0fdd0b87"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d493e232-1630-47f5-8e5b-5fda0fdd0b87"></video>
 
 [3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.4.a111](./03-02-03-01-organizing-dialogs.md#90-04-a111)
 
 <a id="90-04-a112"></a>
 
 #### 영상 90.4.a112. 대화상자그룹에 넣기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e3a0a266-aba7-4a96-86f4-ab00cc4168d2"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e3a0a266-aba7-4a96-86f4-ab00cc4168d2"></video>
 
 [3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.4.a112](./03-02-03-01-organizing-dialogs.md#90-04-a112)
 
 <a id="90-04-a113"></a>
 
 #### 영상 90.4.a113. 독(Dock) 한쪽에 대화상자 추가
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b1acca7-a83c-4b8d-a5fe-10a4ab7b7979"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b1acca7-a83c-4b8d-a5fe-10a4ab7b7979"></video>
 
 [3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.4.a113](./03-02-03-01-organizing-dialogs.md#90-04-a113)
 
@@ -626,7 +626,7 @@
 <a id="90-04-a132"></a>
 
 #### 영상 90.4.a132. 다중창에서 이미지 창을 선택할 때마다 이미지 선택 표시의 내용이 바뀝니다
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d388c0bb-d596-406a-a154-ae52b4808828"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d388c0bb-d596-406a-a154-ae52b4808828"></video>
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.4.a132](./03-02-03-02-tab-menu.md#90-04-a132)
 

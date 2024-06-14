@@ -21,14 +21,14 @@
 <a id="90-03-02-30-a2-01"></a>
 
 #### 영상 90.3.2.30.a2.1. `도구상자` → `원근 복제` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5cddb15d-26e7-4fe3-9e93-a374c7ae6249"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5cddb15d-26e7-4fe3-9e93-a374c7ae6249"></video>
 
 [14.3.14.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.30.a2.1](./14-03-14-01-activating_the_tool.md#90-03-02-30-a2-01)
 
 <a id="90-03-02-30-a101"></a>
 
 #### 영상 90.3.2.30.a101. 원근 복제(Perspective Clone)의 직선그리기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/75691a99-5cda-47d2-9be8-31f930883b26"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/75691a99-5cda-47d2-9be8-31f930883b26"></video>
 
 [3.5.1. 목적 - 영상 90.3.2.30.a101](./03-05-01-intention.md#90-03-02-30-a101)
 
@@ -39,14 +39,14 @@
 <a id="90-03-02-30-a111-01"></a>
 
 #### 영상 90.3.2.30.a111.1. `도구 옵션` → `원근 복제` → `원근 조정` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/309a2bf4-5e6b-48e6-882b-36b748e9493f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/309a2bf4-5e6b-48e6-882b-36b748e9493f"></video>
 
 [14.3.14.3. 옵션(Options) - 영상 90.3.2.30.a111.1](./14-03-14-03-options.md#90-03-02-30-a111-01)
 
 <a id="90-03-02-30-a111-02"></a>
 
 #### 영상 90.3.2.30.a111.2. `도구 옵션` → `원근 복제` → `원근 복제` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a3f58ce4-fab6-4fa2-901b-adbc58090483"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a3f58ce4-fab6-4fa2-901b-adbc58090483"></video>
 
 [14.3.14.3. 옵션(Options) - 영상 90.3.2.30.a111.2](./14-03-14-03-options.md#90-03-02-30-a111-02)
 

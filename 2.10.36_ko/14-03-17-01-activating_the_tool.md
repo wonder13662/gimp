@@ -14,7 +14,7 @@
 <a id="90-01-08-02-14-a101-01"></a>
 
 #### [영상 90.1.8.2.14.a101.1. `이미지 메뉴 바` → `도구` → `칠하기 도구` → `닷지/번` (Windows) (우리말)](./90-01-08-02-14-dodge_burn.md#90-01-08-02-14-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/80783818-daa0-40bf-9692-ba70856c0f59"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/80783818-daa0-40bf-9692-ba70856c0f59"></video>
 
 <a id="14-03-17-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-34-a2-01"></a>
 
 #### [영상 90.3.2.34.a2.1. `도구상자` → `닷지/번` (Windows) (우리말)](./90-03-02-34-dodge_burn.md#90-03-02-34-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bb0ba477-6cec-42e7-b9b2-8d8cd3509d90"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bb0ba477-6cec-42e7-b9b2-8d8cd3509d90"></video>
 
 <a id="14-03-17-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-21-01-01-a1"></a>
 
 #### [영상 90.10.21.1.1.a1. `닷지/번` 도구 - 키보드 단축키 Shift(⇧) + `D`](./90-10-21-01-01-shift_d.md#90-10-21-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fd85d0d5-e40f-4b31-abc9-a83850be1511"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fd85d0d5-e40f-4b31-abc9-a83850be1511"></video>
 
 ***
 

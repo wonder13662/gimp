@@ -9,7 +9,7 @@
 <a id="90-03-02-06-a3-04"></a>
 
 #### [영상 90.3.2.6.a3.4. `도구상자` → `똑똑한 가위` - 노드 추가](./90-03-02-06-scissors_select.md#90-03-02-06-a3-04)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d701d838-40af-4b38-b9c7-1eed5a3724b8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d701d838-40af-4b38-b9c7-1eed5a3724b8"></video>
 
 ### 1-2. 노드 수정하기
 각 노드를 움직여 곡선을 조정하거나 새로운 노드를 추가할 수도 있습니다. 
@@ -17,7 +17,7 @@
 <a id="90-03-02-06-a3-05-01"></a>
 
 #### [영상 90.3.2.6.a3.5.1. `도구상자` → `똑똑한 가위` - 노드 수정하기](./90-03-02-06-scissors_select.md#90-03-02-06-a3-05-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/443aa83c-eab4-4c47-9caf-27948a5f0459"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/443aa83c-eab4-4c47-9caf-27948a5f0459"></video>
 
 ### 1-2. 노드 삭제하기
 시작점과 끝점이 아닌 노드를 Ctrl(⌘)를 누른 채로 선택하면 노드를 삭제할 수 있습니다.
@@ -25,7 +25,7 @@
 <a id="90-03-02-06-a3-05-02"></a>
 
 #### [영상 90.3.2.6.a3.5.2. `도구상자` → `똑똑한 가위` - 노드 삭제하기](./90-03-02-06-scissors_select.md#90-03-02-06-a3-05-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a7026383-514b-45b8-8d26-5baaa9cb8714"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a7026383-514b-45b8-8d26-5baaa9cb8714"></video>
 
 ### 1-3. 선택 완료하기
 선택을 마치려면 처음 노드를 클릭합니다. 정확히 원하는 모양이 만들어졌으면, 곡선 내부를 클릭하거나 엔터키를 눌러 선택으로 바꿉니다. 단, 첫번째와 마지막 노드는 움직일 수 없습니다. 선택은 첫번째 노드를 클릭하면 닫히게 됩니다.
@@ -33,12 +33,12 @@
 <a id="90-03-02-06-a3-06-01"></a>
 
 #### [영상 90.3.2.6.a3.6.1. `도구상자` → `똑똑한 가위` - 선택 완료하기(선택 안쪽 클릭)](./90-03-02-06-scissors_select.md#90-03-02-06-a3-06-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/28f5c80e-277a-41c8-a780-7ebd50e0862b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/28f5c80e-277a-41c8-a780-7ebd50e0862b"></video>
 
 <a id="90-03-02-06-a3-06-02"></a>
 
 #### [영상 90.3.2.6.a3.6.2. `도구상자` → `똑똑한 가위` - 선택 완료하기(엔터키)](./90-03-02-06-scissors_select.md#90-03-02-06-a3-06-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bceea6bf-9e48-4fef-ac8a-cb59854d1d9a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bceea6bf-9e48-4fef-ac8a-cb59854d1d9a"></video>
 
 <a id="14-02-07-03-s2"></a>
 
@@ -74,7 +74,7 @@
 <a id="90-03-02-06-a3-11"></a>
 
 #### [영상 90.3.2.6.a3.11. `도구상자` → `똑똑한 가위` - 하나의 선택만 만들 수 있습니다](./90-03-02-06-scissors_select.md#90-03-02-06-a3-11)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/32f9b4bd-5399-447e-9509-c4391eb885d1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/32f9b4bd-5399-447e-9509-c4391eb885d1"></video>
 
 따라서 영역 조정을 마무리하기 전까지는 곡선 안쪽을 클릭하면 안됩니다. 한번 선택으로 바꾸면, 맨 처음 상태로 되돌리기를 할 수 밖에 없습니다. 따라서 처음부터 다시 영역을 만들기 시작해야 합니다. 마찬가지로 중간에 다른 도구를 선택하면 그동안 만든 조절점(노드)들이 모두 사라지므로 조심해야 합니다.
 

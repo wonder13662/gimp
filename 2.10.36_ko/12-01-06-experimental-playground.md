@@ -10,12 +10,12 @@
 <a id="90-02-10-a201"></a>
 
 #### [영상 90.2.10.a201. `기본설정` → `실험 놀이터`를 커맨드 라인 옵션 `--show-playground`로 활성화하기 (Windows) (우리말)](./90-02-10-playground.md#90-02-10-a201)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/78a06a05-e499-4d0f-8efe-497f37d1b6c1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/78a06a05-e499-4d0f-8efe-497f37d1b6c1"></video>
 
 <a id="90-02-10-a202"></a>
 
 #### [영상 90.2.10.a202. `기본설정` → `실험 놀이터` → `Use OpenCL` 활성화 뒤에 GIMP 재시작 (Windows) (우리말)](./90-02-10-playground.md#90-02-10-a202)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/89c883cb-2cce-4de7-8457-869c3ad92318"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/89c883cb-2cce-4de7-8457-869c3ad92318"></video>
 
 ## 1. 하드웨어 가속(Hardware Acceleration)
 

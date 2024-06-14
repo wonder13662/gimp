@@ -17,12 +17,12 @@
 <a id="90-04-67-a181"></a>
 
 #### [영상 90.4.67.a181. `텍스트 도구상자` 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 왼쪽에서 오른쪽으로](./90-04-67-text_toolbox.md#90-04-67-a181)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bb531556-a06d-4a2a-8397-3291aef6f270"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bb531556-a06d-4a2a-8397-3291aef6f270"></video>
 
 <a id="90-04-67-a182"></a>
 
 #### [영상 90.4.67.a182. `텍스트 도구상자` 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 왼쪽에서 오른쪽으로](./90-04-67-text_toolbox.md#90-04-67-a182)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eb45c554-45f7-4ef7-9b1d-3341c3051ed2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/eb45c554-45f7-4ef7-9b1d-3341c3051ed2"></video>
 
 ## 3. `김프 텍스트 편집기` → `왼쪽에서 오른쪽으로`
 `김프 텍스트 편집기` → `왼쪽에서 오른쪽으로`을 선택해서 입력할 수 있습니다. 동작은 위에서 설명한 것과 같습니다.
@@ -35,12 +35,12 @@
 <a id="90-04-65-a112"></a>
 
 #### [영상 90.4.65.a112. `김프 텍스트 편집기` 대화상자 → `왼쪽에서 오른쪽으로` (텍스트 박스 동적모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a112)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/02ef21c4-3f83-462a-9945-48191d091809"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/02ef21c4-3f83-462a-9945-48191d091809"></video>
 
 <a id="90-04-65-a113"></a>
 
 #### [영상 90.4.65.a113. `김프 텍스트 편집기` 대화상자 → `왼쪽에서 오른쪽으로` (텍스트 박스 고정모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a113)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d545249a-7adc-4e85-8855-d782744b6665"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d545249a-7adc-4e85-8855-d782744b6665"></video>
 
 ***
 

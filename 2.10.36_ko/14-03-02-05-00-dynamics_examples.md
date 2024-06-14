@@ -25,7 +25,7 @@
 ![14-03-02-05-a120-01(50%)-focus-size](https://github.com/wonder13662/gimp/assets/15767104/7b204dcc-b87e-4f15-9b97-cbbe9a20c131)
 
 #### 영상 14.3.2.5.a120.2. `크기` → `점차 사라짐(Fading)` 옵션: 조건 설정 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/33b225fb-af6e-47d4-bbf0-5c4a2b6eca6f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/33b225fb-af6e-47d4-bbf0-5c4a2b6eca6f"></video>
 
 붓 크기는 0에서 시작해서 `도구 옵션` → `그리기 붓` → `크기` 슬라이더의 설정값까지 증가합니다.
 
@@ -41,7 +41,7 @@
 ![14-03-02-05-a130-01(50%)](https://github.com/wonder13662/gimp/assets/15767104/a74ec570-0a99-4bd5-a955-828dda0b43b9)
 
 #### 영상 14.3.2.5.a130.2. `크기` → `점차 사라짐(Fading)` 옵션 - 크기 곡선 조정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b4ba6831-73b7-4ecd-a9d9-9799aeec6a76"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b4ba6831-73b7-4ecd-a9d9-9799aeec6a76"></video>
 
 붓 크기는 0에서 시작해서 `도구 옵션` → `그리기 붓` → `크기` 슬라이더의 설정값까지 증가한 뒤, 다시 0으로 돌아옵니다.
 
@@ -64,7 +64,7 @@
 ![14-03-02-05-a140-02](https://github.com/wonder13662/gimp/assets/15767104/51c54775-55cc-4d27-ba86-a90ef5810f4e)
 
 #### 영상 14.3.2.5.a140.3. 조건 설정 과정 - 곡선 조정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f378ac27-82e7-4a7e-8a98-7251ab29e12b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f378ac27-82e7-4a7e-8a98-7251ab29e12b"></video>
 
 시작할 때의 붓의 스트로크의 색은 그라디언트의 왼쪽에서 가져옵니다. 그리고 점점 그라디언트의 오른쪽으로 옮겨갑니다. 마지막에는 그라디언트의 가장 왼쪽의 색으로 돌아갑니다.
 
@@ -87,7 +87,7 @@
 ![14-03-02-05-a150-02](https://github.com/wonder13662/gimp/assets/15767104/2d684d35-47ef-4658-b781-209bc975bb52)
 
 #### 영상 14.3.2.5.a150.3. 조건 설정 과정 - 크기 곡선 조정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f5d6b341-99aa-4c54-a96b-6b6c7dd3913d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f5d6b341-99aa-4c54-a96b-6b6c7dd3913d"></video>
 
 붓의 크기와 색 둘다 `점차 사라짐(Fade)` 옵션의 곡선에 연결되어 위 이미지의 도표처럼 설정되었습니다.
 

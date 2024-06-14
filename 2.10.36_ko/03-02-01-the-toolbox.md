@@ -19,14 +19,14 @@
 <a id="90-03-01-a221"></a>
 
 #### [영상 90.3.1.a221. GIMP 로고에 이미지 드래그 앤 드랍으로 GIMP에서 이미지 열기](./90-03-01-gimp_logo.md#90-03-01-a221)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/246a2a2d-0d6e-4177-944a-ec4718341c12"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/246a2a2d-0d6e-4177-944a-ec4718341c12"></video>
 
 이 GIMP 로고 또는 "윌버의 눈"은 [12.1.13. 기본 도구상자](./12-01-13-00-toolbox.md)에서 `Show GIMP logo(drag-and-drop target)` 체크박스를 켜고 끔으로서 제어할 수 있습니다.
 
 <a id="90-03-01-a201"></a>
 
 #### [영상 90.3.1.a201. `Show GIMP logo(drag-and-drop target)`로 도구상자에서 노출 제어하기](./90-03-01-gimp_logo.md#90-03-01-a201)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9a8813c3-e223-422f-9436-a75ee551bbd3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9a8813c3-e223-422f-9436-a75ee551bbd3"></video>
 
 <a id="90-02-06-03-a206-01"></a>
 
@@ -47,12 +47,12 @@
 <a id="90-03-a141"></a>
 
 #### [영상 90.3.a141. 마우스 커서를 올려놓으면 도구의 설명이 보입니다](./90-03-00-toolbox.md#90-03-a141)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0022d833-4dab-4e04-a388-af9ef0011b1d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0022d833-4dab-4e04-a388-af9ef0011b1d"></video>
 
 <a id="90-03-a142"></a>
 
 #### [영상 90.3.a142. 마우스 커서를 올려놓고 `F1` 키를 눌러 사용자 매뉴얼 페이지로 이동하기](./90-03-00-toolbox.md#90-03-a142)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/95fd3621-1b95-40a3-ae7b-669ecb1596bf"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/95fd3621-1b95-40a3-ae7b-669ecb1596bf"></video>
 
 > 🗒️ 참고
 >
@@ -66,7 +66,7 @@ GIMP의 현재 전경색과 배경색이 표시됩니다. 각 부분을 클릭�
 <a id="90-03-03-a11"></a>
 
 #### [그림 90.3.3.a11. 도구상자의 '전경색/배경색'](./90-03-03-foreground_color_n_background_color.md#90-03-03-a11)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8c499d07-443e-4a2e-bf27-4e3ec708cb6b"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8c499d07-443e-4a2e-bf27-4e3ec708cb6b"></video>
 
 <a id="03-02-01-s4"></a>
 
@@ -85,7 +85,7 @@ GIMP의 현재 전경색과 배경색이 표시됩니다. 각 부분을 클릭�
 <a id="90-03-04-a7"></a>
 
 #### [영상 90.3.4.a7. 붓/무늬/그라디언트 대화상자 열기](./90-03-04-brush_n_pattern_n_gradient.md#90-03-04-a7)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/06e78030-2328-4850-8822-8f78700a80af"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/06e78030-2328-4850-8822-8f78700a80af"></video>
 
 <a id="03-02-01-s5"></a>
 
@@ -95,7 +95,7 @@ GIMP에서는 한 번에 여러 이미지를 열어 두고 작업을 할 수 있
 <a id="90-03-05-a2"></a>
 
 #### [영상 90.3.5.a2. 활성화 이미지 바꾸기](./90-03-05-active_image.md#90-03-05-a2)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2954d835-ff30-460a-b9b2-302a4411ff4f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2954d835-ff30-460a-b9b2-302a4411ff4f"></video>
 
 ## 마칠 때 장치 상태 저장(Save input device settings on exit)
 GIMP가 새로 시작할 때마다, 이전에 종료하기 전까지 사용했던 붓(brush), 색상(color), 무늬(pattern)를 선택합니다. [12.1.22. 입력 장치](./12-01-22-input-devices.md)의 `마칠 때 장치 상태 저장` 체크박스가 체크되어 있기 때문입니다. 만일 이 체크박스를 끈다면, 시작할 때마다 언제나 붓, 색상, 무늬 등은 기본값으로 설정될 것입니다.
@@ -118,7 +118,7 @@ GIMP가 새로 시작할 때마다, 이전에 종료하기 전까지 사용했�
 <a id="90-02-06-03-a205"></a>
 
 #### [영상 90.2.6.3.a205. 모양새(Appearance) 설정에 따라 도구상자의 모양이 바뀝니다](./90-02-06-03-toolbox.md#90-02-06-03-a205)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/507bc6db-fac6-491d-af68-a2d566b3109a"></video>
 
 <a id="90-02-06-03-a201"></a>
 

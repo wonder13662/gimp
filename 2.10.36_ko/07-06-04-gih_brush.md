@@ -15,7 +15,7 @@
 <a id="90-04-15-a182"></a>
 
 #### [영상 90.4.15.a182. 붓 대화상자의 이미지 호스 붓으로 칠하기](./90-04-15-brushes.md#90-04-15-a182)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b02ace8a-6100-4f26-997e-302d3420912d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b02ace8a-6100-4f26-997e-302d3420912d"></video>
 
 원칙적으로는 `이미지 호스 붓`은 펜 태블릿을 사용하는 경우에 압력, 각도에 따라 모영을 바꾸면 매우 복잡해질 수 있습니다. 하지만 GIMP(김프)에서 자체적으로 제공하는 `이미지 호스 붓`은 상대적으로 간단하고 쓸모가 많습니다.
 

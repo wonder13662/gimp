@@ -33,7 +33,7 @@ GIMP(김프)를 설치하면, 수십 개의 팔레트가 기본적으로 함께 
 <a id="90-04-60-a105"></a>
 
 #### [영상 90.4.60.a105. `팔레트` 대화상자에서 `팔레트 편집기` 대화상자 열기 (Windows) (우리말)](./90-04-60-palette_editor.md#90-04-60-a105)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8f8431a6-e746-4dc2-bb05-7ed2e4adc1e4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8f8431a6-e746-4dc2-bb05-7ed2e4adc1e4"></video>
 
 ### 4-2. 팔레트 편집기의 색으로 전경색(Foreground color) 바꾸기
 [`팔레트 편집기`](./15-03-06-04-palette_editor.md)의 색상을 클릭하면 도구상자의 전경색을 바꿀 수 있습니다.
@@ -46,7 +46,7 @@ GIMP(김프)를 설치하면, 수십 개의 팔레트가 기본적으로 함께 
 <a id="90-04-60-a106"></a>
 
 #### [영상 90.4.60.a106. `팔레트 편집기` 대화상자에서 전경색 바꾸기 (Windows) (우리말)](./90-04-60-palette_editor.md#90-04-60-a106)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ca43d56d-6833-41fe-a46b-b5107ba50a35"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ca43d56d-6833-41fe-a46b-b5107ba50a35"></video>
 
 ### 4-3. 팔레트 편집기의 색으로 배경색(Background color) 바꾸기
 Ctrl(⌘) 키를 누른 채로 [`팔레트 편집기`](./15-03-06-04-palette_editor.md)의 색상을 클릭하면 도구상자의 배경색을 바꿀 수 있습니다.
@@ -59,13 +59,13 @@ Ctrl(⌘) 키를 누른 채로 [`팔레트 편집기`](./15-03-06-04-palette_edi
 <a id="90-04-60-a107"></a>
 
 #### [영상 90.4.60.a107. `팔레트 편집기` 대화상자에서 배경색 바꾸기 (Windows) (우리말)](./90-04-60-palette_editor.md#90-04-60-a107)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5c521c2d-36df-4f9f-91c2-7d6d30c8d3b4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5c521c2d-36df-4f9f-91c2-7d6d30c8d3b4"></video>
 
 ### 4-4. 팔레트 편집기로 팔레트의 색상을 수정하기
 직접 만든 커스텀 팔레트라면 `팔레트 편집기`에서 팔레트의 색상을 바꿀 수 있습니다. GIMP(김프)에서 기본 제공되는 팔레트의 색상은 바꿀 수 없습니다. 하지만 기본 제공되는 팔레트는 복제해서 복사본 팔레트의 색상을 바꿀 수 있습니다. 아래 영상에서 기본 제공 팔레트를 복제해서 복사한 팔레트의 색상을 바꾸는 과정을 확인할 수 있습니다.
 
 #### 7.12.a1. 팔레트 편집기에서 커스텀 팔레트의 색상 변경
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8e8bcd5a-ff60-4416-a1f3-36ecbeab0085"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8e8bcd5a-ff60-4416-a1f3-36ecbeab0085"></video>
 
 ## 5. 팔레트 파일이 저장되는 위치
 [`팔레트 편집기`](./15-03-06-04-palette_editor.md)로 새로운 팔레트를 만들면, GIMP(김프)를 종료하자마자 사용자의 GIMP(김프)의 팔레트 폴더에 자동으로 저장됩니다. 이 폴더에 있는 팔레트 파일이라면 GIMP(김프)를 시작할 때 팔레트 대화상자에 로드됩니다. `기본 설정` → `폴더` → `팔레트`에서 팔레트 파일을 불러올 수 있는 폴더를 추가할 수 있습니다.

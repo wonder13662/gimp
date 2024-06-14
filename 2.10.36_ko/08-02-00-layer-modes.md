@@ -39,7 +39,7 @@ GIMP(김프)는 38개의 레이어 모드가 있습니다. 이 38개의 레이�
 레이어 모드는 이미지 안에서 복합적으로 색상을 바꿀 수 있게 해줍니다. 레이어 모드는 새로운 레이어를 마스크처럼 쓸 수 있게 해줍니다. 예를 들어서, 하얀색으로 불투명하게 채워진 레이어를 이미지 위에 두고, 레이어 모드를 "HSV 채도(HSV Saturation)"으로 설정하면, 아래의 보여지는 레이어는 흑백으로 보입니다.
 
 #### 영상 8.2.a1. 레이어 모드를 "HSV 채도(HSV Saturation)"로 바꾸기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/60d676cc-1b19-456f-9390-50d87da1aa4d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/60d676cc-1b19-456f-9390-50d87da1aa4d"></video>
 
 <a id="08-02-s6"></a>
 

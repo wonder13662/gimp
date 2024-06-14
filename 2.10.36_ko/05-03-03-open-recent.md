@@ -13,7 +13,7 @@ GIMP(김프)에서 최근에 열었떤 이미지 파일을 열려면 이미지 �
 <a id="90-01-01-06-a105"></a>
 
 #### [영상 90.1.1.6.a105. `파일` → `최근 연 파일`에서 파일을 여는 과정 (Windows) (우리말)](./90-01-01-06-open_recent.md#90-01-01-06-a105)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5510afcd-1d8d-46df-b2d9-3f9369597e15"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5510afcd-1d8d-46df-b2d9-3f9369597e15"></video>
 
 ## 다른 페이지로 가기
 

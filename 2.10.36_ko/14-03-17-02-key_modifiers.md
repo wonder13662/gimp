@@ -8,7 +8,7 @@
 <a id="90-10-21-02-01-a1"></a>
 
 #### [영상 90.10.21.2.1.a1. 칠하기 도구:`닷지/번` - Ctrl(⌘): 닷지/번 토글하기](./90-10-21-02-01-toggle_dodge_n_burn.md#90-10-21-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/168c68b2-35eb-40d9-b21f-b44404c04b66"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/168c68b2-35eb-40d9-b21f-b44404c04b66"></video>
 
 <a id="14-03-17-02-s2"></a>
 
@@ -18,7 +18,7 @@ Shift(⇧) 키를 누르면 `직선 모드(Straight line mode)`로 바뀝니다.
 <a id="90-10-21-03-01-a1"></a>
 
 #### [영상 90.10.21.3.1.a1. 칠하기 도구:`닷지/번` - Shift(⇧) 키: 직선 모양으로 `닷지/번` 하기](./90-10-21-03-01-switch_to_straight_line_mode.md#90-10-21-03-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e802c6a1-7cfd-4221-bdff-7f2165eecd98"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e802c6a1-7cfd-4221-bdff-7f2165eecd98"></video>
 
 ***
 

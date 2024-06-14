@@ -19,7 +19,7 @@
 <a id="90-01-07-14-01-a3"></a>
 
 #### [영상 90.1.7.14.1.a3. `색` → `자동` → `평준화` (Windows) (우리말)](./90-01-07-14-01-equalize.md#90-01-07-14-01-a3)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7e9fa797-0a96-43e8-9a74-0a2f1909d9ba"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7e9fa797-0a96-43e8-9a74-0a2f1909d9ba"></video>
 
 ## 2. 색상 보강(Color Enhance)
 
@@ -40,7 +40,7 @@
 <a id="90-01-07-14-05-a3"></a>
 
 #### [영상 90.1.7.14.5.a3. `색` → `자동` → `색상 보강` (Windows) (우리말)](./90-01-07-14-05-color_enhance.md#90-01-07-14-05-a3)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/995fa1b9-a38b-43c3-bd41-dbb7b056bd1b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/995fa1b9-a38b-43c3-bd41-dbb7b056bd1b"></video>
 
 ## 3. 대비 증가(Stretch Contrast)
 
@@ -61,7 +61,7 @@
 <a id="90-01-07-14-03-a5"></a>
 
 #### [영상 90.1.7.14.3.a5. `색` → `자동` → `대비 증가...` (Windows) (우리말)](./90-01-07-14-03-stretch_contrast.md#90-01-07-14-03-a5)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/049288bc-b11d-43ae-8d5e-4c7907f8fcfc"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/049288bc-b11d-43ae-8d5e-4c7907f8fcfc"></video>
 
 `대비 증가(Stretch Contrast)`의 단점으로는 밝기의 양이 전적으로 이미지의 가장 밝은 곳과 가장 어두운 곳에 의해서 결정된다는 것입니다. 그래서 이미지 안에 하얀 점 픽셀이나 검은색 점 픽셀이 하나라도 있으면, 표준화시킬때 효과적이지 않게 작동하게 됩니다.
 
@@ -86,7 +86,7 @@
 <a id="90-01-07-14-04-a4"></a>
 
 #### [영상 90.1.7.14.4.a4. `색` → `자동` → `HSV 대비 증가` (Windows) (우리말)](./90-01-07-14-04-stretch_contrast_hsv.md#90-01-07-14-04-a4)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e6033fa8-72c5-4643-ad8c-db1063f86e8f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e6033fa8-72c5-4643-ad8c-db1063f86e8f"></video>
 
 ## 5. 화이트 밸런스(White balance)
 
@@ -107,7 +107,7 @@
 <a id="90-01-07-14-02-a4"></a>
 
 #### [영상 90.1.7.14.2.a4. `색` → `자동` → `화이트 밸런스` (Windows) (우리말)](./90-01-07-14-02-white_balance.md#90-01-07-14-02-a4)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ce19f698-5f49-4fdd-8b6e-77eee91f7561"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ce19f698-5f49-4fdd-8b6e-77eee91f7561"></video>
 
 ## 6. 레벨 자동조절(Auto Levels)
 ### 6-1. `색상` → `레벨`에서 자동조절 사용
@@ -129,7 +129,7 @@
 <a id="90-04-72-a121"></a>
 
 #### [영상 90.4.72.a121. `레벨` 대화상자 → `입력 레벨 자동화` (Windows) (우리말)](./90-04-72-level.md#90-04-72-a121)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ec75e09d-a736-40d8-bb36-3d75857f61e1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ec75e09d-a736-40d8-bb36-3d75857f61e1"></video>
 
 ### 6-2. `색상` → `레벨`에서 반자동조절 사용
 만약 이미지에서 완전하게 하얀색이거나 검정색인 부분이 있다면, 반자동 조정모드로 레벨 도구를 사용할 수 있습니다. 이는 밝기나 색상 조절에 좋은 방법입니다. 먼저 앞서 말한 레벨 도구를 불러옵니다. 그런 후에 레벨 대화상자의 아래쪽에 있는 스포이드 모양의 세 개의 아이콘을 찾습니다. 
@@ -155,7 +155,7 @@
 <a id="90-04-72-a134"></a>
 
 #### [영상 90.4.72.a134. `레벨` 대화상자에서 검정색 점과 하얀색 점 고르기 (Windows) (우리말)](./90-04-72-level.md#90-04-72-a134)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/628b689d-52a0-459f-9e1e-87a9aa855a58"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/628b689d-52a0-459f-9e1e-87a9aa855a58"></video>
 
 ***
 

@@ -12,7 +12,7 @@
 <a id="90-01-08-02-01-a11"></a>
 
 #### [영상 90.1.8.2.1.a11. `이미지 메뉴 바` → `도구` → `칠하기 도구` → `영역 채우기` (Windows) (우리말)](./90-01-08-02-01-bucket_fill.md#90-01-08-02-01-a11)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/748191a2-c187-4d32-93bd-22f8ab85bab0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/748191a2-c187-4d32-93bd-22f8ab85bab0"></video>
 
 ## 2. 도구 상자에서 `영역 채우기` 클릭
 
@@ -24,14 +24,14 @@
 <a id="90-03-02-21-a4"></a>
 
 #### [영상 90.3.2.21.a4. `도구상자` → `영역 채우기`: 기본 동작](./90-03-02-21-bucket_fill.md#90-03-02-21-a4)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e353c60f-3ce9-4b01-b3d8-f366c65f3d8b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e353c60f-3ce9-4b01-b3d8-f366c65f3d8b"></video>
 
 ## 3. 키보드 단축키 Shift(⇧) + `B`
 
 <a id="90-10-08-01-01-a1"></a>
 
 #### [영상 90.10.8.1.1.a1. `그리기 붓` 도구 - 키보드 단축키 Shift(⇧) + `B`](./90-10-08-01-01-shift_b.md#90-10-08-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f59cefb8-ac49-426b-8419-94c7592aa5ef"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f59cefb8-ac49-426b-8419-94c7592aa5ef"></video>
 
 ***
 

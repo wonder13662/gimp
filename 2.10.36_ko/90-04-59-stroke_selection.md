@@ -16,7 +16,7 @@
 <a id="90-04-59-a101-02"></a>
 
 #### 영상 90.4.59.a101.2. `선택 영역 따라 그리기` 대화상자 → `동적 붓으로 에뮬레이트`: Basic Dynamics (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b2403b72-9184-41b5-843b-8878bca6845a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b2403b72-9184-41b5-843b-8878bca6845a"></video>
 
 [14.3.1.2.10. 동적 요소(Dynamics) - 영상 90.4.59.a101.2](./14-03-01-02-10-dynamics.md#90-04-59-a101-02)
 

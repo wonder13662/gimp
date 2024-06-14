@@ -10,14 +10,14 @@
 <a id="90-04-03-14-a21"></a>
 
 #### 영상 90.4.3.14.a21. 새로운 텍스트 레이어는 활성화된 레이어 위에 추가됩니다 (Windows) (우리말)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e28e1ec8-4340-4279-9b81-6d356eb85368"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e28e1ec8-4340-4279-9b81-6d356eb85368"></video>
 
 [9.1. 텍스트 관리(Text management) - 영상 90.4.3.14.a21](./09-01-00-text-management.md#90-04-03-14-a21)
 
 <a id="90-04-03-14-a31"></a>
 
 #### 영상 90.4.3.14.a31. 텍스트 도구상자에서 바뀐 설정은 선택한 텍스트 또는 새로 입력한 텍스트에 영향을 줍니다
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8c821669-981b-4499-bba7-d85d7b925d21"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8c821669-981b-4499-bba7-d85d7b925d21"></video>
 
 [9.1. 텍스트 관리(Text management) - 영상 90.4.3.14.a31](./09-01-00-text-management.md#90-04-03-14-a31)
 
@@ -38,28 +38,28 @@
 <a id="90-04-03-14-a51"></a>
 
 #### 영상 90.4.3.14.a51. 캔버스 클릭시, 닫힌 텍스트 상자와 반투명 텍스트 도구상자가 나타납니다
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9d02267d-6876-4447-8390-f5c8808a8673"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9d02267d-6876-4447-8390-f5c8808a8673"></video>
 
 [9.1. 텍스트 관리(Text management) - 영상 90.4.3.14.a51](./09-01-00-text-management.md#90-04-03-14-a51)
 
 <a id="90-04-03-14-a61"></a>
 
 #### 영상 90.4.3.14.a61. 텍스트 입력에 따라 텍스트 상자가 커집니다
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8c29a051-d425-4457-bb74-1fd570f57bee"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8c29a051-d425-4457-bb74-1fd570f57bee"></video>
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a61](./09-01-01-text_area.md#90-04-03-14-a61)
 
 <a id="90-04-03-14-a62"></a>
 
 #### 영상 90.4.3.14.a62. 엔터키로 텍스트 상자안에서 줄바꿈하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/950131ca-1a15-4cb1-8a4c-8e2e7670698f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/950131ca-1a15-4cb1-8a4c-8e2e7670698f"></video>
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a62](./09-01-01-text_area.md#90-04-03-14-a62)
 
 <a id="90-04-03-14-a71"></a>
 
 #### 영상 90.4.3.14.a71. 클릭, 드래그로 텍스트 상자 크기 바꾸기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/71a150b3-fdbf-4b6e-bc0d-deadb1777067"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/71a150b3-fdbf-4b6e-bc0d-deadb1777067"></video>
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a71](./09-01-01-text_area.md#90-04-03-14-a71)
 
@@ -73,49 +73,49 @@
 <a id="90-04-03-14-a81"></a>
 
 #### 영상 90.4.3.14.a81. 클릭, 드래그로 수정할 텍스트 선택하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7813997d-28cc-45ac-a0d4-4a375e16e3aa"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7813997d-28cc-45ac-a0d4-4a375e16e3aa"></video>
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a81](./09-01-01-text_area.md#90-04-03-14-a81)
 
 <a id="90-04-03-14-a82"></a>
 
 #### 영상 90.4.3.14.a82. 키보드의 Shift(⇧) + 방향키로 수정할 텍스트 선택하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7bbfc91e-08be-4878-99cb-ae29c661e051"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7bbfc91e-08be-4878-99cb-ae29c661e051"></video>
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a82](./09-01-01-text_area.md#90-04-03-14-a82)
 
 <a id="90-04-03-14-a83"></a>
 
 #### 영상 90.4.3.14.a83. 선택한 텍스트에 텍스트 도구상자의 옵션(이탤릭체, 밑줄 등) 적용하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3b23fd7a-6501-45c5-b8a7-a39b3305feae"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3b23fd7a-6501-45c5-b8a7-a39b3305feae"></video>
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a83](./09-01-01-text_area.md#90-04-03-14-a83)
 
 <a id="90-04-03-14-a91"></a>
 
 #### 영상 90.4.3.14.a91. 김프 텍스트 에디터 열기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c3aa7144-a18f-4f82-9bdf-d9afa4ae9dcc"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c3aa7144-a18f-4f82-9bdf-d9afa4ae9dcc"></video>
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a91](./09-01-01-text_area.md#90-04-03-14-a91)
 
 <a id="90-04-03-14-a92"></a>
 
 #### 영상 90.4.3.14.a92. 김프 텍스트 에디터로 텍스트 수정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e0711e5b-de00-4c3e-a82d-4860718005f1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e0711e5b-de00-4c3e-a82d-4860718005f1"></video>
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a92](./09-01-01-text_area.md#90-04-03-14-a92)
 
 <a id="90-04-03-14-a101"></a>
 
 #### 영상 90.4.3.14.a101. 이동 도구로 텍스트 옮기기 - 텍스트를 선택함(성공)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/89882d0d-12c9-418d-8c84-5aa374379f35"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/89882d0d-12c9-418d-8c84-5aa374379f35"></video>
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a101](./09-01-01-text_area.md#90-04-03-14-a101)
 
 <a id="90-04-03-14-a102"></a>
 
 #### 영상 90.4.3.14.a102. 이동 도구로 텍스트 옮기기 - 텍스트가 아닌 다른 레이어를 선택함(실패)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c9ab77e9-0870-48bb-b278-ad6da21f5cc7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c9ab77e9-0870-48bb-b278-ad6da21f5cc7"></video>
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a102](./09-01-01-text_area.md#90-04-03-14-a102)
 
@@ -143,14 +143,14 @@
 <a id="90-04-03-14-a112"></a>
 
 #### 영상 90.4.3.14.a112. `입력기(Input Method)`의 기본값인 경우의 유니코드 입력 실패
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ec1ffc13-c6de-40ee-b54c-a951045a77ca"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ec1ffc13-c6de-40ee-b54c-a951045a77ca"></video>
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a112](./09-01-01-text_area.md#90-04-03-14-a112)
 
 <a id="90-04-03-14-a113"></a>
 
 #### 영상 90.4.3.14.a113. `입력기(Input Method)` → `간단(Simple)` 경우의 유니코드 입력 성공
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7090d432-188b-4e3b-92a3-b9c09dff4d4b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7090d432-188b-4e3b-92a3-b9c09dff4d4b"></video>
 
 [9.1.1. 텍스트 영역(Text Area) - 영상 90.4.3.14.a113](./09-01-01-text_area.md#90-04-03-14-a113)
 

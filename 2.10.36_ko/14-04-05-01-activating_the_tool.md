@@ -12,7 +12,7 @@
 <a id="90-01-08-03-04-a101-01"></a>
 
 #### [영상 90.1.8.3.4.a101.1. `이미지 메뉴 바` → `도구` → `변형 도구` → `회전` (Windows) (우리말)](./90-01-08-03-04-rotate.md#90-01-08-03-04-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cbaa2274-4019-48a4-b435-379f64b69275"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/cbaa2274-4019-48a4-b435-379f64b69275"></video>
 
 <a id="14-04-05-01-s2"></a>
 
@@ -26,7 +26,7 @@
 <a id="90-03-02-12-a2-01"></a>
 
 #### [영상 90.3.2.12.a2.1. `도구상자` → `회전` (Windows) (우리말)](./90-03-02-12-rotate.md#90-03-02-12-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a0d5d53c-8890-4f04-b7cd-fc08d27be37c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a0d5d53c-8890-4f04-b7cd-fc08d27be37c"></video>
 
 <a id="14-04-05-01-s3"></a>
 
@@ -35,7 +35,7 @@
 <a id="90-10-25-01-01-a1"></a>
 
 #### [영상 90.10.25.1.1.a1. 변형 도구 `회전` - 키보드 단축키 Shift(⇧) + `R`](./90-10-25-01-01-shift_r.md#90-10-25-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f434bf65-ba59-4d20-ba8d-e1df71f7fdbc"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f434bf65-ba59-4d20-ba8d-e1df71f7fdbc"></video>
 
 ***
 

@@ -22,7 +22,7 @@
 <a id="90-03-02-08-a101"></a>
 
 #### 영상 90.3.2.8.a101. 이미지 안의 배경 영역 선택
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5bdf065c-08c3-4e6d-b7db-b32c8d9f36aa"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5bdf065c-08c3-4e6d-b7db-b32c8d9f36aa"></video>
 
 [7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.3.2.8.a101](./07-01-02-making_a_selection_partially_transparent.md#90-03-02-08-a101)
 
@@ -33,12 +33,12 @@
 <a id="90-03-02-08-a111"></a>
 
 #### 영상 90.3.2.8.a111. 퍼지 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Windows)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d80f9d3a-10bb-48c4-bbf3-fdb466e7bf47"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d80f9d3a-10bb-48c4-bbf3-fdb466e7bf47"></video>
 
 <a id="90-03-02-08-a112"></a>
 
 #### 영상 90.3.2.8.a112. 퍼지 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Windows)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dd0912b8-9201-4a49-9f9e-b641aba4fcf1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/dd0912b8-9201-4a49-9f9e-b641aba4fcf1"></video>
 
 [7.2.1.2. 다른 선택 도구들을 옮기기 - 영상 90.3.2.8.a112](./07-02-01-02-moving_using_other_selection_tools.md#90-03-02-08-a112)
 
@@ -52,7 +52,7 @@
 <a id="90-03-02-08-a122"></a>
 
 #### 영상 90.3.2.8.a122. `도구 옵션` → `퍼지 선택` → `임계값` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fb714519-4c1f-4bc3-960a-06ebc8b0b84b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fb714519-4c1f-4bc3-960a-06ebc8b0b84b"></video>
 
 [14.2.5. 퍼지 선택(마법 지팡이) - Fuzzy selection(magic wand) - 영상 90.3.2.8.a122](./14-02-05-00-fuzzy-selection-magic-wand.md#90-03-02-08-a122)
 
@@ -66,14 +66,14 @@
 <a id="90-03-02-08-a124-01"></a>
 
 #### 영상 90.3.2.8.a124.1. `도구 옵션` → `퍼지 선택` → `대각선 이웃`: 옵션 비활성화(체크 꺼짐)(Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7f27e8cd-1990-4086-b265-9103eeb64136"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7f27e8cd-1990-4086-b265-9103eeb64136"></video>
 
 [14.2.5.4. 도구 옵션(Tool Options) - 영상 90.3.2.8.a124.1](./14-02-05-04-tool_options.md#90-03-02-08-a124-01)
 
 <a id="90-03-02-08-a124-02"></a>
 
 #### 영상 90.3.2.8.a124.2. `도구 옵션` → `퍼지 선택` → `대각선 이웃`: 옵션 활성화(체크 켜짐) (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6ecd75f6-3186-44a3-848b-6c022a8af972"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6ecd75f6-3186-44a3-848b-6c022a8af972"></video>
 
 [14.2.5.4. 도구 옵션(Tool Options) - 영상 90.3.2.8.a124.2](./14-02-05-04-tool_options.md#90-03-02-08-a124-02)
 
@@ -87,14 +87,14 @@
 <a id="90-03-02-08-a126-01"></a>
 
 #### 영상 90.3.2.8.a126.1. `도구 옵션` → `퍼지 선택` → `선택을 마스크 보여주기`: 옵션 활성화(체크 켜짐) (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bb292af7-9ad3-4239-a586-574040e58522"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bb292af7-9ad3-4239-a586-574040e58522"></video>
 
 [14.2.5.4. 도구 옵션(Tool Options) - 영상 90.3.2.8.a126.1](./14-02-05-04-tool_options.md#90-03-02-08-a126-01)
 
 <a id="90-03-02-08-a126-02"></a>
 
 #### 영상 90.3.2.8.a126.2. `도구 옵션` → `퍼지 선택` → `선택을 마스크 보여주기`: 옵션 비활성화(체크 꺼짐) (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4090a052-2bdc-4974-b465-1007e723fb22"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4090a052-2bdc-4974-b465-1007e723fb22"></video>
 
 [14.2.5.4. 도구 옵션(Tool Options) - 영상 90.3.2.8.a126.2](./14-02-05-04-tool_options.md#90-03-02-08-a126-02)
 

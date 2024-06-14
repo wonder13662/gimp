@@ -14,7 +14,7 @@
 <a id="90-01-08-03-03-a101-01"></a>
 
 #### [영상 90.1.8.3.3.a101.1. `도구` → `변형 도구` → `잘라내기` (Windows)](./90-01-08-03-03-crop.md#90-01-08-03-03-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/450998ab-8527-4135-9f87-7c857ba53127"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/450998ab-8527-4135-9f87-7c857ba53127"></video>
 
 <a id="14-04-04-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-10-a2-01"></a>
 
 #### [영상 90.3.2.10.a2.1. `도구상자` → `잘라내기` (Windows) (우리말)](./90-03-02-10-crop.md#90-03-02-10-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/07a393ce-f26c-4805-b553-188c11c8c2c0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/07a393ce-f26c-4805-b553-188c11c8c2c0"></video>
 
 <a id="14-04-04-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-24-01-01-a1"></a>
 
 #### [영상 90.10.24.1.1.a1. 변형 도구 `잘라내기` - 키보드 단축키 Shift(⇧) + `C`](./90-10-24-01-01-shift_c.md#90-10-24-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1bdb01dd-4e4f-4476-a729-d5bb27fb6da0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1bdb01dd-4e4f-4476-a729-d5bb27fb6da0"></video>
 
 ***
 

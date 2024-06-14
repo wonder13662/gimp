@@ -11,7 +11,7 @@
 <a id="90-01-08-03-09-a101-01"></a>
 
 #### 영상 90.1.8.3.9.a101.1. `이미지 메뉴 바` → `도구` → `변형 도구` → `통합 변형` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/15a5175f-9fed-4869-a012-061c1f78f9f0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/15a5175f-9fed-4869-a012-061c1f78f9f0"></video>
 
 [14.4.10.1. 도구 활성화하기(Activating the tools) - 영상 90.1.8.3.9.a101.1](./14-04-10-01-activating_the_tool.md#90-01-08-03-09-a101-01)
 

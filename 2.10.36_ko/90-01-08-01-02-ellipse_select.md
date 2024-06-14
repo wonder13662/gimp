@@ -16,7 +16,7 @@
 <a id="90-01-08-01-02-a11"></a>
 
 #### 영상 90.1.8.1.2.a11. `도구` → `선택도구` → `타원 선택` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/96c69938-56ee-4c2f-869b-c64acbeb49e9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/96c69938-56ee-4c2f-869b-c64acbeb49e9"></video>
 
 [14.2.3.1. 도구 활성화하기(Activating the tools) - 영상 90.1.8.1.2.a11](./14-02-03-01-activating_the_tool.md#90-01-08-01-02-a11)
 

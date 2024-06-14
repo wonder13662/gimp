@@ -20,7 +20,7 @@
 ![90-04-39-import_from_postscript(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/97b98960-1137-4769-9b75-2a2517c88f2b)
 
 #### 영상 90.4.39.a105. `포스트스크립트 가져오기` 대화상자 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9949db29-bbde-46c9-9391-781fa65add94"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9949db29-bbde-46c9-9391-781fa65add94"></video>
 
 <a id="90-04-39-a111"></a>
 

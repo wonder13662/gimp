@@ -17,7 +17,7 @@
 <a id="90-03-02-28-a122"></a>
 
 #### [영상 90.3.2.28.a122. 투명도 조정한 지우개 도구로 선택영역 지우기](./90-03-02-28-eraser.md#90-03-02-28-a122)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2569f6bc-62eb-4783-afa5-16f4f5522fc6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2569f6bc-62eb-4783-afa5-16f4f5522fc6"></video>
 
 <a id="07-01-02-s2"></a>
 
@@ -34,7 +34,7 @@
 <a id="90-04-03-03-a101"></a>
 
 #### [영상 90.4.3.3.a101. "떠있는 선택(Floating selection)"의 투명도 조정하기](./90-04-03-03-floating_selection.md#90-04-03-03-a101)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/da6c8a2b-6811-43ac-a361-b8a05eb7ac0c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/da6c8a2b-6811-43ac-a361-b8a05eb7ac0c"></video>
 
 그 다음, 선택을 고정(anchor)시킵니다. 고정시키기 위해서는 3가지 방법 중 하나를 선택합니다.
 
@@ -46,7 +46,7 @@
 <a id="90-04-03-03-a111"></a>
 
 #### [영상 90.4.3.3.a111. "떠있는 선택(Floating selection)"을 대화상자 아래의 고정 버튼 클릭으로 고정하기](./90-04-03-03-floating_selection.md#90-04-03-03-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3a3b84fe-c6b3-49d2-92ec-c81a9061d76c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3a3b84fe-c6b3-49d2-92ec-c81a9061d76c"></video>
 
 <a id="07-01-02-s2-02"></a>
 
@@ -65,7 +65,7 @@
 <a id="90-04-03-03-a91"></a>
 
 #### [영상 90.4.3.3.a91. "떠있는 선택(Floating selection)" 바깥을 클릭해서 고정하기](./90-04-03-03-floating_selection.md#90-04-03-03-a91)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7383c9e9-060f-4b97-8205-49ac68134863"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7383c9e9-060f-4b97-8205-49ac68134863"></video>
 
 <a id="07-01-02-s2-03"></a>
 
@@ -75,7 +75,7 @@
 <a id="90-04-03-01-a71"></a>
 
 #### [영상 90.4.3.1.a71. "떠있는 선택(Floating selection)"을 대화상자의 컨텍스트 메뉴의 `레이어 고정`으로 고정하기](./90-04-03-01-00-context_menu.md#90-04-03-01-a71)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4ea970be-7bdb-4b9b-8c05-fdc3d899aae2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4ea970be-7bdb-4b9b-8c05-fdc3d899aae2"></video>
 
 ### 복사 + 붙여넣기 방법
 이 과정을 작업중에 자주 사용한다면 더 나은 방법이 있습니다. `Ctrl` + `C`로 선택을 복사하고, `Ctrl` + `V`로 클립보드에 붙여넣어 [`떠있는 선택(floating selection)`](./16-04-05-float.md)으로 새로운 레이어를 만듭니다. 이 새로운 레이어의 투명도를 조정하면 됩니다.
@@ -83,7 +83,7 @@
 <a id="90-04-03-03-a31"></a>
 
 #### [영상 90.4.3.3.a31. 선택 영역의 복사 + 붙여넣기로 떠있는 선택 만들기](./90-04-03-03-floating_selection.md#90-04-03-03-a31)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/df01454e-345e-43ad-af3b-eeb2001c8f4b"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/df01454e-345e-43ad-af3b-eeb2001c8f4b"></video>
 
 <a id="07-01-02-s3"></a>
 
@@ -107,7 +107,7 @@
 <a id="90-01-06-08-a102"></a>
 
 #### [영상 90.1.6.8.a102. 선택 영역에 `레이어 마스크 추가` 뒤에 마스크 칠하기 (Windows)](./90-01-06-08-mask.md#90-01-06-08-a102)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b33bf497-251b-4cb7-828b-22c37908be97"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b33bf497-251b-4cb7-828b-22c37908be97"></video>
 
 <a id="07-01-02-s4"></a>
 
@@ -121,7 +121,7 @@
 <a id="90-01-06-09-01-a103"></a>
 
 #### [영상 90.1.6.9.1.a103. 알파 채널 추가](./90-01-06-09-01-add_alpha_channel.md#90-01-06-09-01-a103)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0769da7a-654a-4185-bf7d-396e69346085"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0769da7a-654a-4185-bf7d-396e69346085"></video>
 
 <a id="07-01-02-s4-02"></a>
 
@@ -136,7 +136,7 @@
 <a id="90-03-02-08-a101"></a>
 
 #### [영상 90.3.2.8.a101. 이미지 안의 배경 영역 선택](./90-03-02-08-fuzzy_select.md#90-03-02-08-a101)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5bdf065c-08c3-4e6d-b7db-b32c8d9f36aa"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5bdf065c-08c3-4e6d-b7db-b32c8d9f36aa"></video>
 
 <a id="07-01-02-s4-03"></a>
 
@@ -151,7 +151,7 @@
 <a id="90-03-02-37-a3"></a>
 
 #### [영상 90.3.2.37.a3. 배경의 색상 추출](./90-03-02-37-color_picker.md#90-03-02-37-a3)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/72becdd4-4f2a-477d-94da-c8bc2fef893e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/72becdd4-4f2a-477d-94da-c8bc2fef893e"></video>
 
 <a id="07-01-02-s4-04"></a>
 
@@ -166,7 +166,7 @@
 <a id="90-03-02-21-a3"></a>
 
 #### [영상 90.3.2.21.a3. `도구상자` → `영역 채우기`: 색상 지우기](./90-03-02-21-bucket_fill.md#90-03-02-21-a3)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/57683b6c-4c5f-4637-b22e-4c3582fbf8d2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/57683b6c-4c5f-4637-b22e-4c3582fbf8d2"></video>
 
 <a id="07-01-02-s5"></a>
 
@@ -183,12 +183,12 @@
 <a id="90-01-02-13-a102"></a>
 
 #### [영상 90.1.2.13.a102. 알파 채널없이 선택 영역 지우기](./90-01-02-13-clear.md#90-01-02-13-a102)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5842da0e-e8a3-439f-b2fa-275e268841e7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5842da0e-e8a3-439f-b2fa-275e268841e7"></video>
 
 <a id="90-01-02-13-a103"></a>
 
 #### [영상 90.1.2.13.a103. 알파 채널을 추가한 뒤 선택 영역 지우기](./90-01-02-13-clear.md#90-01-02-13-a103)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1964123e-fecc-47b3-acca-8cb10f36673d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1964123e-fecc-47b3-acca-8cb10f36673d"></video>
 
 ***
 

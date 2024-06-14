@@ -19,19 +19,19 @@
 <a id="90-03-02-09-a3"></a>
 
 #### 영상 90.3.9.a3. `도구상자` → `색상으로 선택`
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/97b3f37d-f83a-4c3c-a193-f70cdd8f3ee1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/97b3f37d-f83a-4c3c-a193-f70cdd8f3ee1"></video>
 
 [14.2.6.1. 도구 활성화하기(Activating the tools) - 영상 90.3.9.a3](./14-02-06-01-activating_the_tool.md#90-03-02-09-a3)
 
 <a id="90-03-02-09-a111"></a>
 
 #### 영상 90.3.2.9.a111. 색상으로 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Windows)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/367cdb31-2dc2-4f6f-bb89-ccfc1d7d9501"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/367cdb31-2dc2-4f6f-bb89-ccfc1d7d9501"></video>
 
 [7.2.1.2. 다른 선택 도구들을 옮기기 - 영상 90.3.2.9.a111](./07-02-01-02-moving_using_other_selection_tools.md#90-03-02-09-a111)
 
 #### 영상 90.3.2.9.a112. 색상으로 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Windows)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a016247a-7fc7-47c4-bcdb-c96356ef9407"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a016247a-7fc7-47c4-bcdb-c96356ef9407"></video>
 
 ***
 

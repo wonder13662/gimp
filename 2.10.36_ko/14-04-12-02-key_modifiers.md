@@ -8,7 +8,7 @@ Ctrl(⌘) 키를 누르면, `도구 옵션` → `뒤집기` → `방향`이 수�
 <a id="90-10-32-02-01-a1"></a>
 
 #### [영상 90.10.32.2.1.a1. Ctrl(⌘): `도구 옵션` → `뒤집기` → `방향` 전환하기 (Windows) (우리말)](./90-10-32-02-01-toggle_direction.md#90-10-32-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4a1c3841-8f2d-4a38-a44b-1bd0974faaa9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4a1c3841-8f2d-4a38-a44b-1bd0974faaa9"></video>
 
 ***
 

@@ -11,7 +11,7 @@
 <a id="90-01-08-01-04-a101-02"></a>
 
 #### [영상 90.1.8.1.4.a101.2.`도구` → `선택도구` → `전경 선택`: 선택을 자유롭게 곡선으로 그리기 (Windows) (우리말)](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a101-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b6b55e9-21fd-4018-a3e1-1ec3d68fb2c5"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5b6b55e9-21fd-4018-a3e1-1ec3d68fb2c5"></video>
 
 <a id="14-02-08-02-01-s2"></a>
 
@@ -21,7 +21,7 @@
 <a id="90-01-08-01-04-a101-03"></a>
 
 #### [영상 90.1.8.1.4.a101.3.`도구` → `선택도구` → `전경 선택`: 선택을 직선으로 그리기 (Windows) (우리말)](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a101-03)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40302bc8-123e-44f1-9556-2f35467de20a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/40302bc8-123e-44f1-9556-2f35467de20a"></video>
 
 <a id="14-02-08-02-01-s3"></a>
 
@@ -32,7 +32,7 @@
 <a id="90-01-08-01-04-a101-04"></a>
 
 #### [영상 90.1.8.1.4.a101.4.`도구` → `선택도구` → `전경 선택`: 선택을 곡선과 직선을 함께 그리기 (Windows) (우리말)](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a101-04)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/267ab44e-b68b-4e30-aba5-e281941ecb0f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/267ab44e-b68b-4e30-aba5-e281941ecb0f"></video>
 
 <a id="14-02-08-02-01-s4"></a>
 
@@ -51,12 +51,12 @@
 <a id="90-04-109-a101-01"></a>
 
 #### [영상 90.4.109.a101.1. `전경 선택` 대화상자: `x` 닫기 버튼 (Windows) (우리말)](./90-04-109-foreground_select.md#90-04-109-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7b898d09-94c8-45e3-b326-d739b8b6fb92"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7b898d09-94c8-45e3-b326-d739b8b6fb92"></video>
 
 <a id="90-04-109-a101-02"></a>
 
 #### [영상 90.4.109.a101.2. `전경 선택` 대화상자: ESC 키 (Windows) (우리말)](./90-04-109-foreground_select.md#90-04-109-a101-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6ac85b70-5fb6-41ee-8a83-ad3eb4b49384"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6ac85b70-5fb6-41ee-8a83-ad3eb4b49384"></video>
 
 `전경 선택` 도구의 대화상자의 나머지 옵션에 대해서는 [14.2.8.2.2. 마스크 만들기 - 4. 전경 선택 대화상자 옵션 설명](./14-02-08-02-02-create_mask.md#14-02-08-02-02-s4)을 참고해주세요.
 
@@ -68,12 +68,12 @@
 <a id="90-01-08-01-04-a101-05"></a>
 
 #### [영상 90.1.8.1.4.a101.5.`도구` → `선택도구` → `전경 선택`: 선택 닫기(시작점 클릭) (Windows) (우리말)](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a101-05)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/736102e5-898a-470f-97de-ab8dae36d5d2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/736102e5-898a-470f-97de-ab8dae36d5d2"></video>
 
 <a id="90-01-08-01-04-a101-06"></a>
 
 #### [영상 90.1.8.1.4.a101.6.`도구` → `선택도구` → `전경 선택`: 선택 닫기(끝점 더블 클릭) (Windows) (우리말)](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a101-06)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/13386b0c-e80f-4c33-92b9-ad931169c4b0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/13386b0c-e80f-4c33-92b9-ad931169c4b0"></video>
 
 <a id="14-02-08-02-01-s6"></a>
 

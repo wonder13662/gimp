@@ -3,7 +3,7 @@
 <a id="90-10-02-03-04-a1"></a>
 
 #### 영상 90.10.2.3.4.a1. 선택 도구로 클릭 뒤에 Shift(⇧) 키를 누름: 고정 옵션 켜짐
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/06a056a6-7ecd-41cc-8093-928ab24f0787"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/06a056a6-7ecd-41cc-8093-928ab24f0787"></video>
 
 [14.2.3.2. 동작 변경키(Key modifiers) - 영상 90.10.2.3.4.a1](./14-02-03-02-key_modifiers.md#90-10-02-03-04-a1)
 

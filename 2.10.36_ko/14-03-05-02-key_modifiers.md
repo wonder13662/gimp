@@ -7,7 +7,7 @@
 <a id="90-10-09-02-01-a1"></a>
 
 #### [영상 90.10.9.2.1.a1. Ctrl(⌘)을 누른 상태에서 그라디언트 선을 15도씩 회전](./90-10-09-02-01-contrain_rotation_angle.md#90-10-09-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/aaa55e3a-3940-40b2-a406-8b85e400ba89"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/aaa55e3a-3940-40b2-a406-8b85e400ba89"></video>
 
 ## 2. Alt(⌥)
 그라디언트 선을 클릭한 상태에서 Alt(⌥) 키를 누르고 드래그하면, 그라디언트 선을 움직일 수 있습니다.
@@ -15,7 +15,7 @@
 <a id="90-10-09-03-01-a1"></a>
 
 #### [영상 90.10.9.3.1.a1. Alt(⌥)를 누른 상태에서 그라디언트 선 이동](./90-10-09-03-01-move_line.md#90-10-09-03-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5aa0b224-7498-449c-8b31-7a7149022ea0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5aa0b224-7498-449c-8b31-7a7149022ea0"></video>
 
 ## 3. Ctrl(⌘) + Alt(⌥)
 그라디언트 선을 클릭한 상태에서 Ctrl(⌘) + Alt(⌥) 키를 누르고 드래그하면, 그라디언트 선을 움직일 수 있습니다.
@@ -23,7 +23,7 @@
 <a id="90-10-09-04-01-a1"></a>
 
 #### [영상 90.10.9.4.1.a1. Ctrl(⌘) + Alt(⌥)를 누른 상태에서 그라디언트 선 이동](./90-10-09-04-01-move_line.md#90-10-09-04-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/841df670-c35e-42f9-bda2-9dd6215e4a9f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/841df670-c35e-42f9-bda2-9dd6215e4a9f"></video>
 
 ***
 

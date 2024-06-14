@@ -19,42 +19,42 @@
 <a id="90-03-02-16-a2-01"></a>
 
 #### 그림 90.3.2.16.a2.1. `도구상자` → `원근법` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b14dd8f1-ae94-488e-a497-821ea2a94c94"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b14dd8f1-ae94-488e-a497-821ea2a94c94"></video>
 
 [14.4.8.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.16.a2.1](./14-04-08-01-activating_the_tool.md#90-03-02-16-a2-01)
 
 <a id="90-03-02-16-a11-01"></a>
 
 #### 영상 90.3.2.16.a11.1. `원근법`: 레이어 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f6cc4cfc-1db7-4037-a3c1-75cbf6a67aaa"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f6cc4cfc-1db7-4037-a3c1-75cbf6a67aaa"></video>
 
 [14.4.8. 원근법(Perspective) - 영상 90.3.2.16.a11.1](./14-04-08-00-perspective.md#90-03-02-16-a11-01)
 
 <a id="90-03-02-16-a11-02"></a>
 
 #### 영상 90.3.2.16.a11.2. `원근법`: 선택 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/84f41fd2-92ed-4fb3-9172-c2ff83b38087"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/84f41fd2-92ed-4fb3-9172-c2ff83b38087"></video>
 
 [14.4.8. 원근법(Perspective) - 영상 90.3.2.16.a11.2](./14-04-08-00-perspective.md#90-03-02-16-a11-02)
 
 <a id="90-03-02-16-a11-03"></a>
 
 #### 영상 90.3.2.16.a11.3. `원근법`: 경로 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a386f3ff-d37e-473d-a01c-8a42c21f0dd2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a386f3ff-d37e-473d-a01c-8a42c21f0dd2"></video>
 
 [14.4.8. 원근법(Perspective) - 영상 90.3.2.16.a11.3](./14-04-08-00-perspective.md#90-03-02-16-a11-03)
 
 <a id="90-03-02-16-a11-04"></a>
 
 #### 영상 90.3.2.16.a11.4. `원근법`: 이미지 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d302cc28-f4de-44a4-91b5-0932da5c6153"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d302cc28-f4de-44a4-91b5-0932da5c6153"></video>
 
 [14.4.8. 원근법(Perspective) - 영상 90.3.2.16.a11.4](./14-04-08-00-perspective.md#90-03-02-16-a11-04)
 
 <a id="90-03-02-16-a12"></a>
 
 #### 영상 90.3.2.16.a12. `원근법`: 프레임 제어하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/239ed0ec-3480-4592-9b66-1098fe0a7f8a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/239ed0ec-3480-4592-9b66-1098fe0a7f8a"></video>
 
 [14.4.8. 원근법(Perspective) - 영상 90.3.2.16.a12](./14-04-08-00-perspective.md#90-03-02-16-a12)
 
@@ -82,7 +82,7 @@
 <a id="90-03-02-16-a13-04"></a>
 
 #### 영상 90.3.2.16.a13.4. `원근법`: 프레임 중심점 사각형의 마우스 포인터(이동 및 왜곡)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/51786273-6b70-4f97-b34a-a3b6f722c6be"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/51786273-6b70-4f97-b34a-a3b6f722c6be"></video>
 
 [14.4.8. 원근법(Perspective) - 영상 90.3.2.16.a13.4](./14-04-08-00-perspective.md#90-03-02-16-a13-04)
 
@@ -96,14 +96,14 @@
 <a id="90-03-02-16-a101-01"></a>
 
 #### 영상 90.3.2.16.a101.1. `도구 옵션` → `핸들 고정` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b3352dd5-383e-4bc7-b324-1fa1304ca2c8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b3352dd5-383e-4bc7-b324-1fa1304ca2c8"></video>
 
 [14.4.8.2. 옵션(Options) - 영상 90.3.2.16.a101.1](./14-04-08-02-options.md#90-03-02-16-a101-01)
 
 <a id="90-03-02-16-a101-02"></a>
 
 #### 영상 90.3.2.16.a101.2. `도구 옵션` → `가운데에서 원근 조정` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bc7bd367-ec02-4d10-aed7-b3e1362158b0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bc7bd367-ec02-4d10-aed7-b3e1362158b0"></video>
 
 [14.4.8.2. 옵션(Options) - 영상 90.3.2.16.a101.2](./14-04-08-02-options.md#90-03-02-16-a101-02)
 

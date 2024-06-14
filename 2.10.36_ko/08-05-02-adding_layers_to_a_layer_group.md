@@ -17,7 +17,7 @@
 <a id="90-04-03-02-a31"></a>
 
 #### [영상 90.4.3.2.a31. 레이어 대화상자 - 새 레이어 추가 버튼으로 레이어 그룹 안에 레이어 추가](./90-04-03-02-layer_group.md#90-04-03-02-a31)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/877ae55c-d51f-4d42-808e-10b27d6b192d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/877ae55c-d51f-4d42-808e-10b27d6b192d"></video>
 
 ### 2-2. 이미지 메뉴 바의 `레이어` → `새 레이어` 메뉴 선택
 
@@ -29,7 +29,7 @@
 <a id="90-01-06-01-a2"></a>
 
 #### [영상 90.1.6.1.a2. `레이어` → `새 레이어`로 새 레이어를 레이어 그룹에 추가하기](./90-01-06-01-new_layer.md#90-01-06-01-a2)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/af7787db-3634-4cc5-a833-5d2052d2228c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/af7787db-3634-4cc5-a833-5d2052d2228c"></video>
 
 ### 2-3. 이미지 메뉴 바의 `레이어` → `새 레이어` 메뉴 선택(단축키)
 단축키 Alt(⌥) + L → N 으로 `레이어` → `새 레이어` 메뉴 선택를 선택하여 `새 레이어` 대화상자를 엽니다. 이 대화상자로 새로운 레이어를 추가합니다.
@@ -39,7 +39,7 @@
 <a id="90-01-06-01-a3"></a>
 
 #### [영상 90.1.6.1.a3. 단축키 Alt(⌥) + L → N로 `레이어` → `새 레이어` 메뉴를 클릭해서 새 레이어를 레이어 그룹에 추가하기](./90-01-06-01-new_layer.md#90-01-06-01-a3)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eca5011b-10e8-47d3-9266-9f1c394d24e2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/eca5011b-10e8-47d3-9266-9f1c394d24e2"></video>
 
 
 ### 2-4. 단축키 Shift(⇧) + Ctrl(⌘) + N
@@ -50,7 +50,7 @@
 <a id="90-01-06-01-a4"></a>
 
 #### [영상 90.1.6.1.a4. 단축키 Shift(⇧) + Ctrl(⌘) + N로 `레이어` → `새 레이어` 메뉴를 클릭해서 새 레이어를 레이어 그룹에 추가하기](./90-01-06-01-new_layer.md#90-01-06-01-a4)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f3e8ccdc-2725-4c47-979c-e28fc013d5bf"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f3e8ccdc-2725-4c47-979c-e28fc013d5bf"></video>
 
 ## 3. 레이어 그룹 열기/닫기
 레이어 그룹이 비어 있지 않다면, 작은 아이콘이 나타납니다. 이 아이콘을 클릭하면, 레이어 그룹을 닫거나 열 수 있습니다.

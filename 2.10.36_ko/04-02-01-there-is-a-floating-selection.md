@@ -31,26 +31,26 @@
 <a id="90-01-03-04-a112"></a>
 
 #### [영상 90.1.3.4.a112. `선택` → `띄우기`로 떠있는 선택 만들기](./90-01-03-04-float.md#90-01-03-04-a112)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb5074b1-9e67-40bd-8c8f-03cafe24aeea"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb5074b1-9e67-40bd-8c8f-03cafe24aeea"></video>
 
 ### 이미지 메뉴 바의 `선택` → `띄우기`의 단축키로 떠있는 선택 만들기
 
 <a id="90-01-10-02-03-a121"></a>
 
 #### [영상 90.1.10.2.3.a121. `창` → `도킹가능한 대화` → `레이어`의 단축키 사용 (Mac)](./90-01-10-02-03-layers.md#90-01-10-02-03-a121)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/626ceaad-b1d8-4f80-8540-e78a04a1c93a"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/626ceaad-b1d8-4f80-8540-e78a04a1c93a"></video>
 
 <a id="90-01-03-04-a111"></a>
 
 #### [영상 90.1.3.4.a111. 단축키로 떠있는 선택 만들기](./90-01-03-04-float.md#90-01-03-04-a111)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/96771078-ba0f-4aee-a5cd-b49153aa6c6c"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/96771078-ba0f-4aee-a5cd-b49153aa6c6c"></video>
 
 ### 선택 영역의 복사 + 붙여넣기로 떠있는 선택 만들기
 
 <a id="90-04-03-03-a31"></a>
 
 #### [영상 90.4.3.3.a31. 선택 영역의 복사 + 붙여넣기로 떠있는 선택 만들기](./90-04-03-03-floating_selection.md#90-04-03-03-a31)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/df01454e-345e-43ad-af3b-eeb2001c8f4b"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/df01454e-345e-43ad-af3b-eeb2001c8f4b"></video>
 
 ## 4.2.1.2. 어떻게 해결하나요?
 떠있는 선택 레이어에서 우클릭을 하여 레이어 메뉴를 엽니다. 레이어 메뉴에서 `레이어 고정(Anchor Layer)`을 클릭해서 떠있는 레이어의 아래 레이어로 합칩니다.
@@ -58,21 +58,21 @@
 <a id="90-04-03-03-a41"></a>
 
 #### [영상 90.4.3.3.a41. 떠있는 선택을 고정(anchor)하기](./90-04-03-03-floating_selection.md#90-04-03-03-a41)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c175c5af-83c8-4fb6-874b-50893df5dc66"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c175c5af-83c8-4fb6-874b-50893df5dc66"></video>
 
 또는 `새 레이어`를 클릭해서 떠있는 선택을 일반적인 레이어로 바꿀 수 있습니다.
 
 <a id="90-04-03-03-a51"></a>
 
 #### [영상 90.4.3.3.a51. 떠있는 선택을 탭 메뉴로 새 레이어로 만들기](./90-04-03-03-floating_selection.md#90-04-03-03-a51)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c4472841-c8ce-4b80-8f0f-a9ca33067258"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c4472841-c8ce-4b80-8f0f-a9ca33067258"></video>
 
 단축키 Shift + Ctrl + N(Windows) 또는 ⇧ + ⌘ + N(Mac)으로 떠있는 선택을 일반적인 레이어로 바꿀 수 있습니다.
 
 <a id="90-04-03-03-a61"></a>
 
 #### [영상 90.4.3.3.a61. 떠있는 선택을 단축키로 새 레이어로 만들기](./90-04-03-03-floating_selection.md#90-04-03-03-a61)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d78747ae-8278-417e-bc9d-969f6eff3a03"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d78747ae-8278-417e-bc9d-969f6eff3a03"></video>
 
 자세한 내용은 [16.4.5. 띄우기(Float)](./16-04-05-float.md)를 참고해주세요.
 

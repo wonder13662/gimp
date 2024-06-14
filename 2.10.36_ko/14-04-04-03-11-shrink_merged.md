@@ -12,7 +12,7 @@
 <a id="90-03-02-10-a201-11-01"></a>
 
 #### [영상 90.3.2.10.a201.11.1. `도구 옵션` → `잘라내기` → `자동 줄이기` (Windows) (우리말)](./90-03-02-10-crop.md#90-03-02-10-a201-11-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4e0301b3-0b41-4556-821f-54f708d140d2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4e0301b3-0b41-4556-821f-54f708d140d2"></video>
 
 ***
 

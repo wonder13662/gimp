@@ -23,7 +23,7 @@
 <a id="90-01-07-14-04-a4"></a>
 
 #### 영상 90.1.7.14.4.a4. `색` → `자동` → `HSV 대비 증가` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e6033fa8-72c5-4643-ad8c-db1063f86e8f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e6033fa8-72c5-4643-ad8c-db1063f86e8f"></video>
 
 [10.1.3.1. 자동화 도구 - 영상 90.1.7.14.4.a4](./10-01-03-01-automated_tools.md#90-01-07-14-04-a4)
 

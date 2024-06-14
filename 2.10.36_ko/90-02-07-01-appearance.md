@@ -26,28 +26,28 @@
 <a id="90-02-07-01-a11"></a>
 
 #### 영상 90.2.7.1.a11. `기본 설정` → `이미지 창` → `모양새` → `보통 상태의 기본 모양`: 캔버스 채우기 모드 변경 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0930f086-271a-493c-b199-b9a479676fed"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0930f086-271a-493c-b199-b9a479676fed"></video>
 
 [12.1.19. 이미지 창 모양(Image Window Appearance) - 영상 90.2.7.1.a11](./12-01-19-image-window-appearance.md#90-02-07-01-a11)
 
 <a id="90-02-07-01-a11-01"></a>
 
 #### 영상 90.2.7.1.a11.1. `기본 설정` → `이미지 창` → `모양새` → `보통 상태의 기본 모양` → `캔버스 채우기를 "모두 보기" 모드로 유지하기`: 켜기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7249cf07-8191-4ac2-8786-e8e1f3221c24"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7249cf07-8191-4ac2-8786-e8e1f3221c24"></video>
 
 [12.1.19. 이미지 창 모양(Image Window Appearance) - 영상 90.2.7.1.a11.1](./12-01-19-image-window-appearance.md#90-02-07-01-a11-01)
 
 <a id="90-02-07-01-a11-02"></a>
 
 #### 영상 90.2.7.1.a11.2. `기본 설정` → `이미지 창` → `모양새` → `보통 상태의 기본 모양` → `캔버스 채우기를 "모두 보기" 모드로 유지하기`: 끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/be8a4458-45a4-4f2a-b7fb-7af578d46bda"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/be8a4458-45a4-4f2a-b7fb-7af578d46bda"></video>
 
 [12.1.19. 이미지 창 모양(Image Window Appearance) - 영상 90.2.7.1.a11.2](./12-01-19-image-window-appearance.md#90-02-07-01-a11-02)
 
 <a id="90-02-07-01-a21"></a>
 
 #### 영상 90.2.7.1.a21. `기본 설정` → `이미지 창` → `모양새` → `전체 화면 상태의 기본 모양`: 캔버스 채우기 모드 변경 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0e175518-d699-4e51-9241-5d711a51cf24"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0e175518-d699-4e51-9241-5d711a51cf24"></video>
 
 [12.1.19. 이미지 창 모양(Image Window Appearance) - 영상 90.2.7.1.a21](./12-01-19-image-window-appearance.md#90-02-07-01-a21)
 

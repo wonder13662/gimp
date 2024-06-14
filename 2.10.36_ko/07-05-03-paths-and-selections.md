@@ -11,7 +11,7 @@ GIMP(김프)는 이미지의 선택을 경로로 바꿀 수 있습니다. 또한
 <a id="90-04-05-a122"></a>
 
 #### [영상 90.4.5.a122. 부드러운 경계를 갖는 선택을 경로로 바꿈](./90-04-05-paths.md#90-04-05-a122)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5c8e5d62-e929-426e-b1b9-0a6f83bdc2c4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5c8e5d62-e929-426e-b1b9-0a6f83bdc2c4"></video>
 
 경로가 다시 선택으로 바뀌면, 결과로 나온 선택은 예리한 선택 경계(0 또는 255)를 가집니다. [이미지 메뉴 바(Image Menu Bar)](./03-02-02-02-image-menu.md)에서 `선택` → `또렷하게`를 사용한 것과 비슷한 결과를 얻게 됩니다.
 
@@ -23,7 +23,7 @@ GIMP(김프)는 이미지의 선택을 경로로 바꿀 수 있습니다. 또한
 <a id="90-04-05-a124"></a>
 
 #### [영상 90.4.5.a124. 경로에서 선택으로 바꿈](./90-04-05-paths.md#90-04-05-a124)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ad3948e7-653e-4ffd-a23e-828080206444"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ad3948e7-653e-4ffd-a23e-828080206444"></video>
 
 ***
 

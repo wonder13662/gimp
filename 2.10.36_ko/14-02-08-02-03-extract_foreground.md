@@ -10,7 +10,7 @@
 <a id="90-01-08-01-04-a112-01"></a>
 
 #### [영상 90.1.8.1.4.a112.1. 전경 영역에서 추출할 색 칠하기](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a112-01)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/b7d305ed-c809-4d39-bd58-ecfd6a658700"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/b7d305ed-c809-4d39-bd58-ecfd6a658700"></video>
 
 ## 3. 선택 영역 추출
 미리보기 모드를 체크해서 선택 영역을 확안하고, 문제가 없다면 선택 버튼을 눌러서 선택 영역을 추출합니다.
@@ -18,7 +18,7 @@
 <a id="90-01-08-01-04-a112-02"></a>
 
 #### [영상 90.1.8.1.4.a112.2. 추출한 색상의 미리보기 및 선택 완료](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a112-02)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/f86271a7-9643-4ee6-a3ed-40a59c838a96"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/f86271a7-9643-4ee6-a3ed-40a59c838a96"></video>
 
 ***
 

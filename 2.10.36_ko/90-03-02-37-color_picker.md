@@ -19,14 +19,14 @@
 <a id="90-03-02-37-a2-01"></a>
 
 #### 영상 90.3.2.37.a2.1. `도구상자` → `색상 추출` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/980ba68e-57bd-4f37-bbd8-e6c085585b5c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/980ba68e-57bd-4f37-bbd8-e6c085585b5c"></video>
 
 [14.5.3.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.37.a2.1](./14-05-03-01-activating_the_tool.md#90-03-02-37-a2-01)
 
 <a id="90-03-02-37-a3"></a>
 
 #### 영상 90.3.2.37.a3. 배경의 색상 추출
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/72becdd4-4f2a-477d-94da-c8bc2fef893e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/72becdd4-4f2a-477d-94da-c8bc2fef893e"></video>
 
 [7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.3.2.37.a3](./07-01-02-making_a_selection_partially_transparent.md#90-03-02-37-a3)
 

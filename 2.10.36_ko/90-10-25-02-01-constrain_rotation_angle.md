@@ -3,7 +3,7 @@
 <a id="90-10-25-02-01-a1"></a>
 
 #### 영상 90.10.25.2.1.a1. 변형 도구 `회전`: Shift(⇧) 키 - 회전 각도 제한하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f74f3662-3591-4ecf-af54-3e354f45e464"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f74f3662-3591-4ecf-af54-3e354f45e464"></video>
 
 [14.4.5.2. 동작 변경키(Key modifiers) - 영상 90.10.25.2.1.a1](./14-04-05-02-key_modifiers.md#90-10-25-02-01-a1)
 

@@ -13,7 +13,7 @@
 <a id="90-01-08-02-08-a101-01"></a>
 
 #### 영상 90.1.8.2.8.a101.1. `이미지 메뉴 바` → `도구` → `칠하기 도구` → `마이페인트 붓` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8f5cddca-15ad-4c02-9cdd-12effcaffb3d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8f5cddca-15ad-4c02-9cdd-12effcaffb3d"></video>
 
 [14.3.8.2. 도구 활성화하기(Activating the tools) - 영상 90.1.8.2.8.a101.1](./14-03-08-02-activating_the_tool.md#90-01-08-02-08-a101-01)
 

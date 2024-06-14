@@ -16,7 +16,7 @@ Shift(⇧) 키를 누른 채로 클릭하거나 드래그하면, `자동으로 �
 <a id="90-10-06-01-02-a1"></a>
 
 #### [영상 90.10.6.1.2.a1. `똑똑한 가위` 도구 - 백 스페이스(⌫) 키](./90-10-06-01-02-backspace.md#90-10-06-01-02-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a4a2ca03-8f44-46a4-884a-50de09e25de7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a4a2ca03-8f44-46a4-884a-50de09e25de7"></video>
 
 ## 3. ESC 키
 ESC 키를 누르면, 모든 노드를 취소합니다.
@@ -24,7 +24,7 @@ ESC 키를 누르면, 모든 노드를 취소합니다.
 <a id="90-10-06-01-03-a1"></a>
 
 #### [영상 90.10.6.1.3.a1. `똑똑한 가위` 도구 - ESC 키](./90-10-06-01-03-esc.md#90-10-06-01-03-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/12d9528e-9b23-49c9-91f3-2bd0e6631c81"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/12d9528e-9b23-49c9-91f3-2bd0e6631c81"></video>
 
 ***
 

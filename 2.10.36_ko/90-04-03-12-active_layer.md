@@ -3,7 +3,7 @@
 <a id="90-04-03-12-a11"></a>
 
 #### 영상 90.4.3.12.a11. Alt(⌥) + Mouse Middle Button으로 레이어 활성화하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f59e6885-7269-488e-a8f5-51f5952ae7b0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f59e6885-7269-488e-a8f5-51f5952ae7b0"></video>
 
 [8.1.1.5. 활성화 레이어(Active layer) - 영상 90.4.3.12.a11](./08-01-01-05-active_layer.md#90-04-03-12-a11)
 
@@ -12,7 +12,7 @@
 <a id="90-04-03-12-a21"></a>
 
 #### 영상 90.4.3.12.a21. Alt(⌥) + Mouse Middle Button으로 같은 위치의 여러 레이어 활성화하기 (Mac) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ed6cbb18-0e70-4b9a-9a87-482d6743ce71"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ed6cbb18-0e70-4b9a-9a87-482d6743ce71"></video>
 
 [8.1.1.5. 활성화 레이어(Active layer) - 영상 90.4.3.12.a21](./08-01-01-05-active_layer.md#90-04-03-12-a21)
 

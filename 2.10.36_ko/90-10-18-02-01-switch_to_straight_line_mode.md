@@ -3,7 +3,7 @@
 <a id="90-10-18-02-01-a1"></a>
 
 #### 영상 90.10.18.2.1.a1. 칠하기 도구:`복원` - Shift(⇧) 키: 직선 모양으로 복원하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8efe6ceb-ebdb-4140-ac3d-bd688fe51ab4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8efe6ceb-ebdb-4140-ac3d-bd688fe51ab4"></video>
 
 [14.3.14.2. 동작 변경키(Key modifiers) - 영상 90.10.18.2.1.a1](./14-03-14-02-key_modifiers.md#90-10-18-02-01-a1)
 

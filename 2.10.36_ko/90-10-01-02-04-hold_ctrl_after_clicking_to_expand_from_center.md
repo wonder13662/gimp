@@ -3,7 +3,7 @@
 <a id="90-10-01-02-04-a1"></a>
 
 #### 영상 90.10.1.2.4.a1. 선택 도구로 클릭 뒤에 Ctrl(⌘) 키를 누름 - 중앙으로부터 확장
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ab044c3b-b060-42be-870f-f505d08aebb8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ab044c3b-b060-42be-870f-f505d08aebb8"></video>
 
 [14.2.1.1. 동작 변경키(Key modifiers) - 영상 90.10.1.2.4.a1](./14-02-01-01-key_modifiers.md#90-10-01-02-04-a1)
 

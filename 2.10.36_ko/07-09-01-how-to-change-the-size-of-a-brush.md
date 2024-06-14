@@ -26,7 +26,7 @@
 <a id="90-10-07-08-01-a1"></a>
 
 #### [영상 90.10.7.8.1.a1. `도구 옵션` → `그리기 붓` → `크기`: 화살표 키로 붓 크기 바꾸기](./90-10-07-08-01-adjust_brush_size-arrow_key.md#90-10-07-08-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/84e23845-cf13-447f-9207-e7ebaaf5d2e1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/84e23845-cf13-447f-9207-e7ebaaf5d2e1"></video>
 
 화살표 키가 작동하지 않을 경우에 직접 설정하기 위해서는 [7.9.1. 붓 크기를 바꾸는 방법 - 7. 키보드 위, 아래 화살표키에 붓 크기 바꾸기 설정하기](./07-09-01-how-to-change-the-size-of-a-brush.md#07-09-01-s5)을 참고해주세요.
 
@@ -38,7 +38,7 @@
 <a id="90-10-07-08-02-a1"></a>
 
 #### [영상 90.10.7.8.2.a1. `도구 옵션` → `그리기 붓` → `크기`: Page Down, Page Up 키로 붓 크기 바꾸기](./90-10-07-08-02-adjust_brush_size-page_up_n_down.md#90-10-07-08-02-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/38119326-09e4-4b1a-b2e3-f85871e6d9f3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/38119326-09e4-4b1a-b2e3-f85871e6d9f3"></video>
 
 <a id="07-09-01-s4"></a>
 
@@ -51,7 +51,7 @@
 <a id="90-10-07-08-03-a1"></a>
 
 #### [영상 90.10.7.8.3.a1. `도구 옵션` → `그리기 붓` → `크기`: `[`, `]` 키로 붓 크기 바꾸기](./90-10-07-08-03-adjust_brush_size-bracket_key.md#90-10-07-08-03-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/50debe52-352d-414c-b81e-4a081319158c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/50debe52-352d-414c-b81e-4a081319158c"></video>
 
 - 붓 크기를 10씩 줄이기: `{`
 - 붓 크기를 10씩 키우기: `}`
@@ -59,7 +59,7 @@
 <a id="90-10-07-08-04-a1"></a>
 
 #### [영상 90.10.7.8.4.a1. `도구 옵션` → `그리기 붓` → `크기`: `{`, `}` 키로 붓 크기 바꾸기](./90-10-07-08-04-adjust_brush_size-curly_bracket_key.md#90-10-07-08-04-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/93684f62-dd94-46dc-ad4a-6e0d3089b3d7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/93684f62-dd94-46dc-ad4a-6e0d3089b3d7"></video>
 
 <a id="07-09-01-s5"></a>
 
@@ -72,7 +72,7 @@
 <a id="90-10-07-06-01-a2"></a>
 
 #### [영상 90.10.7.6.1.a2. Ctrl(⌘) + Alt(⌥) + 마우스 휠: 붓 크기 바꾸기](./90-10-07-06-01-adjust_tool_size.md#90-10-07-06-01-a2)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/713a231e-16c4-4b8a-ae6c-859ab3b016f6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/713a231e-16c4-4b8a-ae6c-859ab3b016f6"></video>
 
 ⚠️ 주의: Mac에서는 마우스 스크롤휠로 붓 크기 바꾸기가 작동하지 않습니다.
 
@@ -125,7 +125,7 @@
 이제 마우스 휠을 이용해 붓 크기를 조절할 수 있습니다. 
 
 #### 영상 7.9.1.a105. 마우스 스크롤휠로 붓 크기 바꾸기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c31a1aa7-056a-40fd-aed8-ead4eca8b294"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c31a1aa7-056a-40fd-aed8-ead4eca8b294"></video>
 
 <a id="07-09-01-s5"></a>
 
@@ -149,7 +149,7 @@
 이제 위, 아래 화살표 키를 이용해 붓의 크기를 조절할 수 있습니다.
 
 #### 영상 7.9.1.a112. 키보드 위, 아래 화살표키로 붓 크기 바꾸기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5f1c563b-ede3-453a-81f8-a9d2e294fba1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5f1c563b-ede3-453a-81f8-a9d2e294fba1"></video>
 
 ***
 

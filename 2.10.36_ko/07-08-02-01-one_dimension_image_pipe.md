@@ -49,13 +49,13 @@
 `붓 대화상자`를 열고, `새로고침`버튼을 누릅니다. `붓 대화상자`에 새로운 붓이 나타나는 것을 확인할 수 있습니다. 
 
 #### 영상 7.8.2.1.a121. `붓 대화상자` 새로고침
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2587a50c-5607-440d-9318-022d0abb0001"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2587a50c-5607-440d-9318-022d0abb0001"></video>
 
 ## 6. 새로운 붓(`Selection`: "Incremental")으로 칠하기
 새로운 붓을 선택하고 연필 도구를 선택하여 이미지에 칠을 해봅시다. 1,2,3,4의 숫자가 차례대로 찍히는 것을 확인할 수 있습니다.
 
 #### 영상 7.8.2.1.a131. 새로운 붓으로 칠하기(`Selection`: "Incremental")
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/36357a25-957c-4e15-a3dc-49faec79b5e6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/36357a25-957c-4e15-a3dc-49faec79b5e6"></video>
 
 ## 7. 새로운 붓(`Selection`: "Random")으로 칠하기
 이전에 저장했던 `.xcf` 파일을 다시 열어서 `.gih`의 설정을 `Selection`: "Random"으로 바꿉니다.
@@ -65,7 +65,7 @@
 
 수정한 붓으로 이미지에 칠해보면 숫자가 무작위(Random)으로 나오는 것을 확인할 수 있습니다.
 #### 영상 7.8.2.1.a142. 새로운 붓으로 칠하기(`Selection`: "Random")
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0c8a1a62-c655-4d4b-8071-c9ee2565966f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0c8a1a62-c655-4d4b-8071-c9ee2565966f"></video>
 
 ## 8. 새로운 붓(`Selection`: "Angular")으로 칠하기
 이전에 저장했던 `.xcf` 파일을 다시 열어서 `.gih`의 설정을 `Selection`: "Angular"로 바꿉니다.
@@ -74,7 +74,7 @@
 
 수정한 붓으로 이미지에 칠해보면 숫자가 드래그하는 각도(Angular)에 따라 나오는 것을 확인할 수 있습니다.
 #### 영상 7.8.2.1.a152. 새로운 붓으로 칠하기(`Selection`: "Angular")
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4a862735-c3bb-4c03-ac90-d604c6e1fc8b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4a862735-c3bb-4c03-ac90-d604c6e1fc8b"></video>
 
 ***
 

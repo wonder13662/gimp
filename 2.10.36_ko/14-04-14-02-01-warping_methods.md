@@ -20,7 +20,7 @@
 <a id="90-03-02-19-a11-01-01-01-01"></a>
 
 #### [영상 90.3.2.19.a11.1.1.1.1. `도구 옵션` → `워프 변형` → `워프 방식` → `픽셀 옮기기` (Windows) (우리말)](./90-03-02-19-warp_transform.md#90-03-02-19-a11-01-01-01-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4b9f46b8-2d97-47fd-abef-19c8dec69e86"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4b9f46b8-2d97-47fd-abef-19c8dec69e86"></video>
 
 ## 2. 늘리기(Grow)
 
@@ -32,7 +32,7 @@
 <a id="90-03-02-19-a11-01-01-02-01"></a>
 
 #### [영상 90.3.2.19.a11.1.1.2.1. `도구 옵션` → `워프 변형` → `워프 방식` → `늘리기` (Windows) (우리말)](./90-03-02-19-warp_transform.md#90-03-02-19-a11-01-01-02-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f9e19e05-9087-43a5-80a0-15d77befc23c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f9e19e05-9087-43a5-80a0-15d77befc23c"></video>
 
 ## 3. 줄이기(Shrink)
 
@@ -44,7 +44,7 @@
 <a id="90-03-02-19-a11-01-01-03-01"></a>
 
 #### [영상 90.3.2.19.a11.1.1.3.1. `도구 옵션` → `워프 변형` → `워프 방식` → `줄이기` (Windows) (우리말)](./90-03-02-19-warp_transform.md#90-03-02-19-a11-01-01-03-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/20478e08-fa17-435d-9014-49ea4ab87df0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/20478e08-fa17-435d-9014-49ea4ab87df0"></video>
 
 ## 4. 소용돌이-시계방향(Swirl clockwise)
 
@@ -56,7 +56,7 @@
 <a id="90-03-02-19-a11-01-01-04-01"></a>
 
 #### [영상 90.3.2.19.a11.1.1.4.1. `도구 옵션` → `워프 변형` → `워프 방식` → `소용돌이-시계방향` (Windows) (우리말)](./90-03-02-19-warp_transform.md#90-03-02-19-a11-01-01-04-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/da5992b5-0e72-447a-b36d-a5d745841ee1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/da5992b5-0e72-447a-b36d-a5d745841ee1"></video>
 
 ## 5. 소용돌이-반시계방향(Swirl counter-clockwise)
 
@@ -68,7 +68,7 @@
 <a id="90-03-02-19-a11-01-01-05-01"></a>
 
 #### [영상 90.3.2.19.a11.1.1.5.1. `도구 옵션` → `워프 변형` → `워프 방식` → `소용돌이-반시계방향` (Windows) (우리말)](./90-03-02-19-warp_transform.md#90-03-02-19-a11-01-01-05-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ccf9b66d-2fd9-4845-a31e-0191c3881394"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ccf9b66d-2fd9-4845-a31e-0191c3881394"></video>
 
 ## 6. 워프 지우기(Erase warping)
 `워프 지우기(Erase warping)`는 다른 워프 기능으로 변형된 이미지를 원래대로 되돌립니다.
@@ -76,7 +76,7 @@
 <a id="90-03-02-19-a11-01-01-06-01"></a>
 
 #### [영상 90.3.2.19.a11.1.1.6.1. `도구 옵션` → `워프 변형` → `워프 방식` → `워프 지우기` (Windows) (우리말)](./90-03-02-19-warp_transform.md#90-03-02-19-a11-01-01-06-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a54d9221-4de2-4a27-9cb5-0fb6fa772334"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a54d9221-4de2-4a27-9cb5-0fb6fa772334"></video>
 
 ## 7. 워프 부드럽게 하기(Smooth warping)
 `워프 부드럽게 하기(Smooth warping)`는 다른 워프 기능으로 변형된 이미지를 부드럽게 만들어 줍니다.
@@ -89,7 +89,7 @@
 <a id="90-03-02-19-a11-01-01-07-01"></a>
 
 #### [영상 90.3.2.19.a11.1.1.7.1. `도구 옵션` → `워프 변형` → `워프 방식` → `워프 부드럽게 하기` (Windows) (우리말)](./90-03-02-19-warp_transform.md#90-03-02-19-a11-01-01-07-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d3a4b8d9-6856-4749-b06d-dd74a7abc159"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d3a4b8d9-6856-4749-b06d-dd74a7abc159"></video>
 
 ***
 

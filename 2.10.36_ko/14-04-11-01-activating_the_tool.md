@@ -14,7 +14,7 @@
 <a id="90-01-08-03-10-a101-01"></a>
 
 #### [영상 90.1.8.3.10.a101.1. `이미지 메뉴 바` → `도구` → `변형 도구` → `핸들 변형` (Windows) (우리말)](./90-01-08-03-10-handle_transform.md#90-01-08-03-10-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f379af3d-d5f8-4115-829b-c096d0e02c25"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f379af3d-d5f8-4115-829b-c096d0e02c25"></video>
 
 <a id="14-04-11-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-18-a2-01"></a>
 
 #### [영상 90.3.2.18.a2.1. `도구상자` → `핸들 변형` (Windows) (우리말)](./90-03-02-18-handle_transform.md#90-03-02-18-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/15d325ad-1487-44b9-88b4-7b25f93c11e5"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/15d325ad-1487-44b9-88b4-7b25f93c11e5"></video>
 
 <a id="14-04-11-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-31-01-01-a1"></a>
 
 #### [영상 90.10.31.1.1.a1. `도구상자` → `핸들 변형`: 키보드 단축키 Shift(⇧) + `L`](./90-10-31-01-01-shift_l.md#90-10-31-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5015d442-10fd-48bc-b93f-b89f2b46de7e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5015d442-10fd-48bc-b93f-b89f2b46de7e"></video>
 
 ***
 

@@ -9,7 +9,7 @@ Ctrl(⌘) 키는 원본을 선택하는데 씁니다.
 <a id="90-10-18-01-01-a1"></a>
 
 #### [영상 90.10.18.1.1.a1. 칠하기 도구:`복원` - Ctrl(⌘) 키: 원본 선택](./90-10-18-01-01-select_the_source.md#90-10-18-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/73afa4b9-e11f-4d0e-95a6-0e09aab1719f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/73afa4b9-e11f-4d0e-95a6-0e09aab1719f"></video>
 
 <a id="14-03-14-02-s2"></a>
 
@@ -19,7 +19,7 @@ Shift(⇧) 키를 누르면 `직선 모드(Straight line mode)`로 바뀝니다.
 <a id="90-10-18-02-01-a1"></a>
 
 #### [영상 90.10.18.2.1.a1. 칠하기 도구:`복원` - Shift(⇧) 키: 직선 모양으로 복원하기](./90-10-18-02-01-switch_to_straight_line_mode.md#90-10-18-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8efe6ceb-ebdb-4140-ac3d-bd688fe51ab4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8efe6ceb-ebdb-4140-ac3d-bd688fe51ab4"></video>
 
 ***
 

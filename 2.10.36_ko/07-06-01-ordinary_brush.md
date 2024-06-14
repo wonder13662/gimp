@@ -19,7 +19,7 @@ GIMP(김프)에서의 붓은 대부분 `일반 붓`입니다. `일반 붓`은 �
 <a id="90-04-15-a152"></a>
 
 #### [영상 90.4.15.a152. 일반붓 만들기 - 흑백 이미지를 `.gbr` 파일로 내보내기](./90-04-15-brushes.md#90-04-15-a152)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/88fa3ae4-6970-4ed4-a1ed-32aa26eb56db"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/88fa3ae4-6970-4ed4-a1ed-32aa26eb56db"></video>
 
 <a id="90-04-52-a101"></a>
 
@@ -41,12 +41,12 @@ GIMP(김프)에서의 붓은 대부분 `일반 붓`입니다. `일반 붓`은 �
 <a id="90-02-09-01-a112"></a>
 
 #### [영상 90.2.9.1.a112. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더를 파일탐색기로 열기](./90-02-09-01-brushes.md#90-02-09-01-a112)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e16a09ae-d1fe-46a9-915c-4eb28bc95558"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e16a09ae-d1fe-46a9-915c-4eb28bc95558"></video>
 
 <a id="90-04-15-a153"></a>
 
 #### [영상 90.4.15.a153. 일반붓 만들기 - `.gbr` 파일을 불러오기](./90-04-15-brushes.md#90-04-15-a153)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/40fdc204-f9d5-4cce-b7dd-289c00a9cbf3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/40fdc204-f9d5-4cce-b7dd-289c00a9cbf3"></video>
 
 ### 4. 새로운 붓으로 칠하기
 이제 새로 만든 붓으로 칠해보겠습니다. 여러가지 색상을 바꿔가며 칠할 수도 있습니다.
@@ -54,7 +54,7 @@ GIMP(김프)에서의 붓은 대부분 `일반 붓`입니다. `일반 붓`은 �
 <a id="90-04-15-a154"></a>
 
 #### [영상 90.4.15.a154. 일반붓 만들기 - 새로운 일반붓으로 칠해보기](./90-04-15-brushes.md#90-04-15-a154)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c4e5e43b-c351-43d1-9e24-a61d786a6e55"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c4e5e43b-c351-43d1-9e24-a61d786a6e55"></video>
 
 ***
 

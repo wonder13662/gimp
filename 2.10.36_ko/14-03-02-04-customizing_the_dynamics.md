@@ -10,7 +10,7 @@
 <a id="90-04-110-a112-02"></a>
 
 #### [영상 90.4.110.a112.2. `페인트 동적 요소 편집기` 대화상자: 옵션 드롭다운 목록 (Windows) (우리말)](./90-04-110-paint_dynamic_editor.md#90-04-110-a112-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/87b71eb4-ac81-4e2c-9a56-303640f48e66"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/87b71eb4-ac81-4e2c-9a56-303640f48e66"></video>
 
 목렉에서 옵션을 클릭하면, 설정 대화창이 열립니다.
 

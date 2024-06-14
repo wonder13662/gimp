@@ -11,7 +11,7 @@
 <a id="90-01-06-06-a12"></a>
 
 #### 영상 90.1.6.6.a12. `레이어` → `레이어 삭제`로 레이어 그룹 삭제하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e6585b5b-f5a1-4f4b-b8ef-9fb5297c3ee6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e6585b5b-f5a1-4f4b-b8ef-9fb5297c3ee6"></video>
 
 [8.5.7. 레이어 그룹 지우기(Delete a Layer Groups) - 영상 90.1.6.6.a12](./08-05-07-delete_a_layer_group.md#90-01-06-06-a12)
 

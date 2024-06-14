@@ -26,7 +26,7 @@
 <a id="90-04-93-a105"></a>
 
 #### 영상 90.4.93.a105. `임시 폴더 선택` 대화상자: 열기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c20056ee-166d-497f-a6b4-a8b382e9525b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c20056ee-166d-497f-a6b4-a8b382e9525b"></video>
 
 [12.1.24. 폴더(Folders) - 영상 90.4.93.a105](./12-01-24-folders.md#90-04-93-a105)
 

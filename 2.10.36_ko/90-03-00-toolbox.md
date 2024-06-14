@@ -17,7 +17,7 @@
 <a id="90-03-a102"></a>
 
 #### 영상 90.3.a102. 도구상자의 아이콘의 작은 삼각형 확인하기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/55e454c5-8d51-48dc-bfb6-4c27930d8848"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/55e454c5-8d51-48dc-bfb6-4c27930d8848"></video>
 
 [4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.3.a102](./04-03-03-some-of-the-tool-icons-are-missing.md#90-03-a102)
 
@@ -26,7 +26,7 @@
 <a id="90-03-a111"></a>
 
 #### 영상 90.3.a111. 그룹 아이콘 위에 마우스 커서를 올려 도구 아이콘의 툴팁 확인하기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b8ea8940-8743-488e-a46f-b8158f8886d9"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b8ea8940-8743-488e-a46f-b8158f8886d9"></video>
 
 [4.3.3. 도구 아이콘이 사라졌습니다 - 영상 90.3.a111](./04-03-03-some-of-the-tool-icons-are-missing.md#90-03-a111)
 
@@ -78,14 +78,14 @@
 <a id="90-03-a141"></a>
 
 #### 영상 90.3.a141. 마우스 커서를 올려놓으면 도구의 설명이 보입니다
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0022d833-4dab-4e04-a388-af9ef0011b1d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0022d833-4dab-4e04-a388-af9ef0011b1d"></video>
 
 [3.2.1. 기본 도구상자(The toolbox) - 영상 90.3.a141](./03-02-01-the-toolbox.md#90-03-a141)
 
 <a id="90-03-a142"></a>
 
 #### 영상 90.3.a142. 마우스 커서를 올려놓고 F1 키를 눌러 사용자 매뉴얼 페이지로 이동하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/95fd3621-1b95-40a3-ae7b-669ecb1596bf"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/95fd3621-1b95-40a3-ae7b-669ecb1596bf"></video>
 
 [3.2.1. 기본 도구상자(The toolbox) - 영상 90.3.a142](./03-02-01-the-toolbox.md#90-03-a142)
 

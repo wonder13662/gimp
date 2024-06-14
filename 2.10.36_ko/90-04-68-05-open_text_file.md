@@ -11,7 +11,7 @@
 <a id="90-04-68-05-a102"></a>
 
 #### 영상 90.4.68.5.a102. `텍스트 컨텍스트 메뉴` → `텍스트 파일 열기...` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7d455590-ff7c-4556-bc3d-3f7f8352b4b8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7d455590-ff7c-4556-bc3d-3f7f8352b4b8"></video>
 
 [9.1.4.5. 텍스트 파일 열기(Open text file) - 영상 90.4.68.5.a102](./09-01-04-05-open_text_file.md#90-04-68-05-a102)
 

@@ -11,7 +11,7 @@
 <a id="90-01-06-16-a2"></a>
 
 #### 영상 90.1.6.16.a2. `레이어` → `텍스트를 경로로` (텍스트 레이어가 활성화된 경우)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9baf0f30-76d3-4934-9830-ad5a8c5e7ca8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9baf0f30-76d3-4934-9830-ad5a8c5e7ca8"></video>
 
 [9.1.4.7. 텍스트에서 경로(Path from Text) - 영상 90.1.6.16.a2](./09-01-04-07-path_from_text.md#90-01-06-16-a2)
 

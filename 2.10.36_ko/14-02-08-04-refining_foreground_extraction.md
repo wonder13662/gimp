@@ -7,7 +7,7 @@
 <a id="90-01-08-01-04-a113"></a>
 
 #### [영상 90.1.8.1.4.a113. 잘못 그린 전경 영역 수정하기](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a113)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/18679c4a-27e5-43b7-ac18-02abc3fdbd93"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/18679c4a-27e5-43b7-ac18-02abc3fdbd93"></video>
 
 ## 2. 잘못 그린 배경 영역 수정하기
 전경의 일부분이 선택되지 않았습니다. `알 수 없는 부분 그리기(Draw unknown)` 옵션을 체크합니다. 그 다음에 선택되지 않은 픽셀을 붓으로 그려서 선택합니다. 
@@ -15,7 +15,7 @@
 <a id="90-01-08-01-04-a114"></a>
 
 #### [영상 90.1.8.1.4.a114. 잘못 그린 배경 영역 수정하기](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a114)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/64cc459b-c993-4d6e-acaf-f1a3da13bef8"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/64cc459b-c993-4d6e-acaf-f1a3da13bef8"></video>
 
 ***
 

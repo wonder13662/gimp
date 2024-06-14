@@ -13,7 +13,7 @@
 <a id="90-01-08-02-12-a101-01"></a>
 
 #### 영상 90.1.8.2.12.a101.1. `이미지 메뉴 바` → `도구` → `칠하기 도구` → `흐릿하게/선명하게` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a77a6f76-a747-453b-ae64-bfdea77724d8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a77a6f76-a747-453b-ae64-bfdea77724d8"></video>
 
 [14.3.15.1. 도구 활성화하기(Activating the tools) - 영상 90.1.8.2.12.a101.1](./14-03-15-01-activating_the_tool.md#90-01-08-02-12-a101-01)
 

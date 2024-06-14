@@ -17,7 +17,7 @@ Shift(⇧) 버튼을 누른 채, 눈 모양을 클릭하면, 방금 클릭한 �
 <a id="90-04-03-05-a31"></a>
 
 #### [영상 90.4.3.5.a31. Shift(⇧)를 누른채로 가시성(Visibility) 심볼 토글하기](./90-04-03-05-visibility.md#90-04-03-05-a31)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1b3ab6fc-c557-4cca-a3b6-c3280fa74002"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1b3ab6fc-c557-4cca-a3b6-c3280fa74002"></video>
 
 ***
 

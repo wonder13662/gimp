@@ -11,7 +11,7 @@
 <a id="90-03-02-08-a101"></a>
 
 #### [영상 90.3.2.8.a101. 이미지 안의 배경 영역 선택](./90-03-02-08-fuzzy_select.md#90-03-02-08-a101)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5bdf065c-08c3-4e6d-b7db-b32c8d9f36aa"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5bdf065c-08c3-4e6d-b7db-b32c8d9f36aa"></video>
 
 ## 2. 퍼지 선택(마법 지팡이)의 임계값(범위) 조정
 도구 옵션의 임계값(Threshold)에서 마우스 버튼을 누른 채 드래그해서 비슷한 색상의 임계값(범위)를 조절할 수 있습니다. 아래쪽이나 오른쪽으로 드래그하면 더 많은 영역이 선택되고, 위쪽이나 왼쪽으로 드래그하면 더 적은 영역이 선택됩니다.
@@ -24,7 +24,7 @@
 <a id="90-03-02-08-a122"></a>
 
 #### [영상 90.3.2.8.a122. `도구 옵션` → `퍼지 선택` → `임계값` (Windows) (우리말)](./90-03-02-08-fuzzy_select.md#90-03-02-08-a122)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fb714519-4c1f-4bc3-960a-06ebc8b0b84b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fb714519-4c1f-4bc3-960a-06ebc8b0b84b"></video>
 
 ## 3. 퍼지 선택(마법 지팡이)의 용도
 `퍼지 선택(마법 지팡이)` 도구는 뚜렷한 외곽선을 가진 대상을 선택할 때 좋습니다. 쓰기 쉽기 때문에 초심자가 자주 사용하곤 합니다. 하지만 `퍼지 선택(마법 지팡이)` 도구를 더 자주 사용하면 할수록 원하는 결과를 얻기가 어려워집니다. 경험이 많은 사용자들은 `퍼지 선택(마법 지팡이)` 도구보다는 [경로(Paths)](./14-05-02-00-paths.md)와 [색상으로 선택(Select by color)](./14-02-06-00-select-by-color.md)를 더 자주 효과적으로 사용합니다. 그럼에도 불구하고 불완전한 선택을 개선하거나, 윤곽 안의 영역을 선택하려고 할 때는 유용합니다. 특히 단색 배경을 선택할 때는 매우 잘 동작합니다.

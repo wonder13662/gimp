@@ -22,7 +22,7 @@
 <a id="90-04-03-01-a71"></a>
 
 #### 영상 90.4.3.1.a71. "떠있는 선택(Floating selection)"을 대화상자의 컨텍스트 메뉴의 `레이어 고정`으로 고정하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4ea970be-7bdb-4b9b-8c05-fdc3d899aae2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4ea970be-7bdb-4b9b-8c05-fdc3d899aae2"></video>
 
 [7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.4.3.1.a71](./07-01-02-making_a_selection_partially_transparent.md#90-04-03-01-a71)
 

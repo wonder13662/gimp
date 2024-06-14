@@ -12,12 +12,12 @@ RGB 결과값 = |위쪽 레이어 RGB 값 - 아래쪽 레이어 RGB 값|
 아래 영상에서 같은 이미지와 그렇지 않을 때의 차이를 확인할 수 있습니다.
 
 #### 영상 8.2.5.1.a3. `차이점(Difference)`: 같은 이미지 레이어와 그렇지 않은 레이어의 차이
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/72f5e5c5-5a02-4a8c-a45e-f5d8e0756af4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/72f5e5c5-5a02-4a8c-a45e-f5d8e0756af4"></video>
 
 `차이점(Difference)` 모드는 `서로 바꿀 수 있는 레이어(Commutative Layer)` 모드이므로 두 레이어 모두 `차이점(Difference)` 모드이면 레이어의 순서를 바꿔도 두 레이어가 겹치는 부분에 대해서는 결과가 같습니다. 다만, 아래쪽 레이어의 투명 영역에 대해서는 이 레이어 모드의 효과가 적용되지 않으므로 주의하세요.
 
 #### 영상 8.2.5.1.a4. `차이점(Difference)`: 레이어 순서를 바꿔도 결과는 같음 - 서로 바꿀 수 있는 레이어(Commutative Layer)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e897254a-0fe1-4149-8eac-3f8f9e397515"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e897254a-0fe1-4149-8eac-3f8f9e397515"></video>
 
 ***
 

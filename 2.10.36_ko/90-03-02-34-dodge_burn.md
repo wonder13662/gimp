@@ -25,21 +25,21 @@
 <a id="90-03-02-34-a2-01"></a>
 
 #### 영상 90.3.2.34.a2.1. `도구상자` → `닷지/번` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bb0ba477-6cec-42e7-b9b2-8d8cd3509d90"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bb0ba477-6cec-42e7-b9b2-8d8cd3509d90"></video>
 
 [14.3.17.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.34.a2.1](./14-03-17-01-activating_the_tool.md#90-03-02-34-a2-01)
 
 <a id="90-03-02-34-a101"></a>
 
 #### 영상 90.3.2.34.a101. 닷지/번(Dodge/Burn)의 직선그리기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4b92840d-58f5-4c5d-b664-87a6227dc0c8"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4b92840d-58f5-4c5d-b664-87a6227dc0c8"></video>
 
 [3.5.1. 목적 - 영상 90.3.2.34.a101](./03-05-01-intention.md#90-03-02-34-a101)
 
 <a id="90-03-02-34-a111"></a>
 
 #### 영상 90.3.2.34.a111. 닷지/번(Dodge/Burn)으로 음영이 있는 사각형 그리기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/871afdd6-a44c-4005-9322-84a474f23b17"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/871afdd6-a44c-4005-9322-84a474f23b17"></video>
 
 [3.5.2. 직선그리기 예제들 - 영상 90.3.2.34.a111](./03-05-02-examples.md#90-03-02-34-a111)
 

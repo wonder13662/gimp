@@ -15,7 +15,7 @@
 ![09-02-01-01-a102-file-create-logo-3d_outline-dialog(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/4e63ac9a-b5fd-4e45-ad89-c620eb30dcb3)
 
 #### 영상 13.4.1.a105. 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2b1513fa-018f-4db0-96e1-01872e3d419b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2b1513fa-018f-4db0-96e1-01872e3d419b"></video>
 
 ## 2. `필터` → `알파를 로고로` → `3D Outline...`
 
@@ -32,7 +32,7 @@
 ![09-02-01-01-filters-alpha_to_logo-3d_outlines-dialog(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/3dda7bfe-bde0-46e0-ba13-083ae606882f)
 
 #### 영상 13.4.1.a115. 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6f0e7420-543d-4e47-bab5-ad0bfca5e140"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6f0e7420-543d-4e47-bab5-ad0bfca5e140"></video>
 
 ## 3. 스크립트
 [3d-outline.scm.zip](https://github.com/wonder13662/gimp/files/14737320/3d-outline.scm.zip)

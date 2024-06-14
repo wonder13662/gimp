@@ -20,7 +20,7 @@
 <a id="90-01-01-06-a105"></a>
 
 #### 영상 90.1.1.6.a105. `파일` → `최근 연 파일`에서 파일을 여는 과정 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5510afcd-1d8d-46df-b2d9-3f9369597e15"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5510afcd-1d8d-46df-b2d9-3f9369597e15"></video>
 
 [5.3.3. 최근 연 파일 - 영상 90.1.1.6.a105](./05-03-03-open-recent.md#90-01-01-06-a105)
 

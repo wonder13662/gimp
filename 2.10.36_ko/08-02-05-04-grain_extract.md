@@ -10,7 +10,7 @@ RGB 결과값 = max((위쪽 레이어 RGB 값 - 아래쪽 레이어 RGB 값 + 12
 `질감 드러내기(Grain extract)` 모드는 "필름 질감(flim grain)"을 레이어로부터 뽑아내 새로운 레이어를 만듭니다. 이미지에 엠보싱 형태의 효과를 줄 때도 유용합니다. 아래 영상에서 이미지에 엠보싱 효과를 주는 과정을 확인할 수 있습니다.
 
 #### 영상 8.2.5.4.a42. 질감 드러내기(Grain extract) 모드: 같은 이미지로 비교
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/88275728-6630-40a9-8b7f-c8d718d5f200"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/88275728-6630-40a9-8b7f-c8d718d5f200"></video>
 
 ***
 

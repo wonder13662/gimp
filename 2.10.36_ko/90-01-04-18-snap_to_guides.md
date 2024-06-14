@@ -9,7 +9,7 @@
 <a id="90-01-04-18-a11"></a>
 
 #### 영상 90.1.4.18.a11. `보기` → `안내선에 맞추기`: `잘라내기` 도구를 안내선에 맞춰 사용 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b053efc9-cad7-4cd0-ab7f-c2f06a93b45c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b053efc9-cad7-4cd0-ab7f-c2f06a93b45c"></video>
 
 [14.4.4. 잘라내기(Crop) - 영상 90.1.4.18.a11](./14-04-04-00-crop.md#90-01-04-18-a11)
 

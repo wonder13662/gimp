@@ -10,12 +10,12 @@
 <a id="90-03-02-22-a12-02"></a>
 
 #### [영상 90.3.2.22.a12.2. `도구 옵션` → `그라디언트` → `인스턴트 모드`: 꺼짐](./90-03-02-22-gradient.md#90-03-02-22-a12-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e7bdceeb-e6f3-4e27-9252-04d4ce95d484"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e7bdceeb-e6f3-4e27-9252-04d4ce95d484"></video>
 
 <a id="90-03-02-22-a12-03"></a>
 
 #### [영상 90.3.2.22.a12.3. `도구 옵션` → `그라디언트` → `인스턴트 모드`: 켜짐](./90-03-02-22-gradient.md#90-03-02-22-a12-03)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/17acfa2d-37b9-4bad-a37c-16f9f77cb32c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/17acfa2d-37b9-4bad-a37c-16f9f77cb32c"></video>
 
 ***
 

@@ -11,7 +11,7 @@
 <a id="90-04-117-a101-01"></a>
 
 #### 영상 90.4.117.a101.1. `핸들 변형` 대화상자 → `초기화` 버튼 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7a931f66-c5cd-4e3e-990f-accb0c709cbf"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7a931f66-c5cd-4e3e-990f-accb0c709cbf"></video>
 
 [14.4.11.4. 핸들 변형 대화상자(Handle transform dialog) - 영상 90.4.117.a101.1](./14-04-11-04-handle_transform_dialog.md#90-04-117-a101-01)
 

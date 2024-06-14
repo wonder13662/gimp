@@ -12,7 +12,7 @@
 <a id="90-04-87-a111"></a>
 
 #### [영상 90.4.87.a111. `키보드 단축키 설정` 대화상자: 단축키 설정 (Windows) (우리말)](./90-04-87-configure_keyboard_shortcuts.md#90-04-87-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e495b362-c470-4c28-91b7-b02f3f21bb14"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e495b362-c470-4c28-91b7-b02f3f21bb14"></video>
 
 ## 2. 키보드 단축키 설정 대화상자 사용하기
 [키보드 단축키 설정 대화상자](./15-05-00-miscellaneous-dialogs.md)로 키보드 단축키를 설정할 수 있씁니다. 메뉴 명령뿐만아니라 다른 명령도 키보드 단축키를 설정할 수 있습니다. 이 방법은 다른 기본설정을 바꾸지 않습니다.

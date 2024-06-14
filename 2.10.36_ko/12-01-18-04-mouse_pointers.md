@@ -20,12 +20,12 @@
 <a id="90-02-07-a41-01-02"></a>
 
 #### [영상 90.2.7.a41.1.2. `기본 설정` → `이미지 창` → `마우스 포인터` → `붓 윤곽 표시`: 켜기 (Windows) (우리말)](./90-02-07-00-image-windows.md#90-02-07-a41-01-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9dd5c248-040c-43d8-a4cd-2f1f1e28dde0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9dd5c248-040c-43d8-a4cd-2f1f1e28dde0"></video>
 
 <a id="90-02-07-a41-01-03"></a>
 
 #### [영상 90.2.7.a41.1.3. `기본 설정` → `이미지 창` → `마우스 포인터` → `붓 윤곽 표시`: 끄기 (Windows) (우리말)](./90-02-07-00-image-windows.md#90-02-07-a41-01-03)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5437e136-c179-4eb4-890b-be8e86171ac4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5437e136-c179-4eb4-890b-be8e86171ac4"></video>
 
 <a id="12-01-18-04-s1-01"></a>
 
@@ -45,12 +45,12 @@
 <a id="90-02-07-a41-02-02"></a>
 
 #### [영상 90.2.7.a41.2.2. `기본 설정` → `이미지 창` → `마우스 포인터` → `칠하기 도구의 커서 표시`: 켜기 (Windows) (우리말)](./90-02-07-00-image-windows.md#90-02-07-a41-02-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b1de563a-136b-4b8f-944b-0376b3f5a39f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b1de563a-136b-4b8f-944b-0376b3f5a39f"></video>
 
 <a id="90-02-07-a41-02-03"></a>
 
 #### [영상 90.2.7.a41.2.3. `기본 설정` → `이미지 창` → `마우스 포인터` → `칠하기 도구의 커서 표시`: 끄기 (Windows) (우리말)](./90-02-07-00-image-windows.md#90-02-07-a41-02-03)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/22d5edf5-5661-4c5d-bbc2-6bc677bdb5f3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/22d5edf5-5661-4c5d-bbc2-6bc677bdb5f3"></video>
 
 <a id="12-01-18-04-s3"></a>
 

@@ -33,14 +33,14 @@
 <a id="90-02-07-a11-01"></a>
 
 #### 영상 90.2.7.a11.1. `기본 설정` → `이미지 창` → `일반` → `모두 보기`: 켜기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fc4d6313-2e54-4bb6-bd15-f9f9c3553430"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fc4d6313-2e54-4bb6-bd15-f9f9c3553430"></video>
 
 [12.1.18.1. 일반(General) - 영상 90.2.7.a11.1](./12-01-18-01-general.md#90-02-07-a11-01)
 
 <a id="90-02-07-a11-02"></a>
 
 #### 영상 90.2.7.a11.2. `기본 설정` → `이미지 창` → `일반` → `모두 보기`: 끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/63ab823a-ddda-48bc-9dfa-2df8e23c5b41"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/63ab823a-ddda-48bc-9dfa-2df8e23c5b41"></video>
 
 [12.1.18.1. 일반(General) - 영상 90.2.7.a11.2](./12-01-18-01-general.md#90-02-07-a11-02)
 
@@ -54,28 +54,28 @@
 <a id="90-02-07-a21-01"></a>
 
 #### 영상 90.2.7.a21.1. `기본 설정` → `이미지 창` → `확대와 크기 조정 동작` → `확대/축소시 창 크기 조정`: 켜기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/10bb8b8f-b04d-454f-afb4-ca0c4ca97c0e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/10bb8b8f-b04d-454f-afb4-ca0c4ca97c0e"></video>
 
 [12.1.18.2. 확대와 크기 조정 동작(Zoom & Resize Behavior) - 영상 90.2.7.a21.1](./12-01-18-02-zoom_n_resize_behavior.md#90-02-07-a21-01)
 
 <a id="90-02-07-a21-02"></a>
 
 #### 영상 90.2.7.a21.2. `기본 설정` → `이미지 창` → `확대와 크기 조정 동작` → `확대/축소시 창 크기 조정`: 끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4fe54ca6-93ca-432f-8f44-d3030f25b667"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4fe54ca6-93ca-432f-8f44-d3030f25b667"></video>
 
 [12.1.18.2. 확대와 크기 조정 동작(Zoom & Resize Behavior) - 영상 90.2.7.a21.2](./12-01-18-02-zoom_n_resize_behavior.md#90-02-07-a21-02)
 
 <a id="90-02-07-a21-03"></a>
 
 #### 영상 90.2.7.a21.3. `기본 설정` → `이미지 창` → `확대와 크기 조정 동작` → `이미지 크기에 따라 창 크기 조정`: 켜기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7f6ea4d3-8788-4189-b577-35ea28774ab2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7f6ea4d3-8788-4189-b577-35ea28774ab2"></video>
 
 [12.1.18.2. 확대와 크기 조정 동작(Zoom & Resize Behavior) - 영상 90.2.7.a21.3](./12-01-18-02-zoom_n_resize_behavior.md#90-02-07-a21-03)
 
 <a id="90-02-07-a21-04"></a>
 
 #### 영상 90.2.7.a21.4. `기본 설정` → `이미지 창` → `확대와 크기 조정 동작` → `이미지 크기에 따라 창 크기 조정`: 끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/64c2728b-46ed-4fc8-8324-8f49e46cb690"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/64c2728b-46ed-4fc8-8324-8f49e46cb690"></video>
 
 [12.1.18.2. 확대와 크기 조정 동작(Zoom & Resize Behavior) - 영상 90.2.7.a21.4](./12-01-18-02-zoom_n_resize_behavior.md#90-02-07-a21-04)
 
@@ -89,14 +89,14 @@
 <a id="90-02-07-a21-06"></a>
 
 #### 영상 90.2.7.a21.6. `기본 설정` → `이미지 창` → `확대와 크기 조정 동작` → `초기 확대 배율` → `전체 이미지 표시` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/884a729c-df67-4d75-8444-1f5cff35bdf3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/884a729c-df67-4d75-8444-1f5cff35bdf3"></video>
 
 [12.1.18.2. 확대와 크기 조정 동작(Zoom & Resize Behavior) - 영상 90.2.7.a21.6](./12-01-18-02-zoom_n_resize_behavior.md#90-02-07-a21-06)
 
 <a id="90-02-07-a21-07"></a>
 
 #### 영상 90.2.7.a21.7. `기본 설정` → `이미지 창` → `확대와 크기 조정 동작` → `초기 확대 배율` → `1:1` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/76136db6-169f-445a-a9a1-71e6c1a5cb0b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/76136db6-169f-445a-a9a1-71e6c1a5cb0b"></video>
 
 [12.1.18.2. 확대와 크기 조정 동작(Zoom & Resize Behavior) - 영상 90.2.7.a21.7](./12-01-18-02-zoom_n_resize_behavior.md#90-02-07-a21-07)
 
@@ -125,7 +125,7 @@
 <a id="90-02-07-a31-02"></a>
 
 #### 영상 90.2.7.a31.2. `기본 설정` → `이미지 창` → `스페이스 바` → `스페이스 바를 누르고 있는 동안` → `화면 이동` (Windows)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e964361f-9267-452f-a7b8-06717c234951"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e964361f-9267-452f-a7b8-06717c234951"></video>
 
 [12.1.18.3. 스페이스 바(Space Bar) - 영상 90.2.7.a31.2](./12-01-18-03-space_bar.md#90-02-07-a31-02)
 
@@ -134,7 +134,7 @@
 <a id="90-02-07-a31-03"></a>
 
 #### 영상 90.2.7.a31.3. `기본 설정` → `이미지 창` → `스페이스 바` → `스페이스 바를 누르고 있는 동안` → `이동 도구로 전환` (Windows)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d197748d-fea4-4153-a080-0d8e674137fd"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d197748d-fea4-4153-a080-0d8e674137fd"></video>
 
 [12.1.18.3. 스페이스 바(Space Bar) - 영상 90.2.7.a31.3](./12-01-18-03-space_bar.md#90-02-07-a31-03)
 
@@ -159,14 +159,14 @@
 <a id="90-02-07-a41-01-02"></a>
 
 #### 영상 90.2.7.a41.1.2. `기본 설정` → `이미지 창` → `마우스 포인터` → `붓 윤곽 표시`: 켜기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9dd5c248-040c-43d8-a4cd-2f1f1e28dde0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9dd5c248-040c-43d8-a4cd-2f1f1e28dde0"></video>
 
 [12.1.18.4. 마우스 포인터(Mouse Pointers) - 영상 90.2.7.a41.1.2](./12-01-18-04-mouse_pointers.md#90-02-07-a41-01-02)
 
 <a id="90-02-07-a41-01-03"></a>
 
 #### 영상 90.2.7.a41.1.3. `기본 설정` → `이미지 창` → `마우스 포인터` → `붓 윤곽 표시`: 끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5437e136-c179-4eb4-890b-be8e86171ac4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5437e136-c179-4eb4-890b-be8e86171ac4"></video>
 
 [12.1.18.4. 마우스 포인터(Mouse Pointers) - 영상 90.2.7.a41.1.3](./12-01-18-04-mouse_pointers.md#90-02-07-a41-01-03)
 
@@ -180,14 +180,14 @@
 <a id="90-02-07-a41-02-02"></a>
 
 #### 영상 90.2.7.a41.2.2. `기본 설정` → `이미지 창` → `마우스 포인터` → `칠하기 도구의 커서 표시`: 켜기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b1de563a-136b-4b8f-944b-0376b3f5a39f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b1de563a-136b-4b8f-944b-0376b3f5a39f"></video>
 
 [12.1.18.4. 마우스 포인터(Mouse Pointers) - 영상 90.2.7.a41.2.2](./12-01-18-04-mouse_pointers.md#90-02-07-a41-02-02)
 
 <a id="90-02-07-a41-02-03"></a>
 
 #### 영상 90.2.7.a41.2.3. `기본 설정` → `이미지 창` → `마우스 포인터` → `칠하기 도구의 커서 표시`: 끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/22d5edf5-5661-4c5d-bbc2-6bc677bdb5f3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/22d5edf5-5661-4c5d-bbc2-6bc677bdb5f3"></video>
 
 [12.1.18.4. 마우스 포인터(Mouse Pointers) - 영상 90.2.7.a41.2.3](./12-01-18-04-mouse_pointers.md#90-02-07-a41-02-03)
 

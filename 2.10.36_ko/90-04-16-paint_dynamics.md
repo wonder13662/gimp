@@ -61,7 +61,7 @@
 #### 그림 90.4.16.a110.5. `페인트 동적 요소` 대화상자: 아래쪽 버튼 - 동적 요소 새로 고침 (Windows) (우리말)
 ![90-04-16-a110-05](https://github.com/wonder13662/gimp/assets/15767104/cc56a61f-e71c-421b-b311-ec7abf2cc29d)
 
-[14.3.2.1. 페인트 동적 요소 대화상자(The Paint Dynamics Dialog) - 그림 90.4.16.a110.5](./14-03-02-01-the_paint_dynamics_dialog.md#90-04-16-a110-05)
+[14.3.2.1. 페인트 동적 요소 대화상자(The Paint Dynamics Dialog) - 그림 90.4.16.a110.5](./14-03-02-01-the_paint_dynamics_dialog.md#90-04-16-a110-05)å
 
 <a id="90-04-16-a111-01"></a>
 
@@ -73,7 +73,7 @@
 <a id="90-04-16-a111-02"></a>
 
 #### 영상 90.4.16.a111.2. `페인트 동적 요소` 대화상자 → 컨텍스트 메뉴: 열기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/261d67fa-6538-4e9a-88ee-28d172d6e901"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/261d67fa-6538-4e9a-88ee-28d172d6e901"></video>
 
 [14.3.2.1. 페인트 동적 요소 대화상자(The Paint Dynamics Dialog) - 영상 90.4.16.a111.2](./14-03-02-01-the_paint_dynamics_dialog.md#90-04-16-a111-02)
 

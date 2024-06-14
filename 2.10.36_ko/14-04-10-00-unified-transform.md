@@ -30,7 +30,7 @@
 <a id="90-03-02-11-a11-01-01"></a>
 
 #### [영상 90.3.2.11.a11.1.1. `통합 변형` 도구의 프레임: 핸들 - 마름모(기울이기) (Windows) (우리말)](./90-03-02-11-unified_transform.md#90-03-02-11-a11-01-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/99cc72a9-4d84-412e-b5c2-61f7f37419f1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/99cc72a9-4d84-412e-b5c2-61f7f37419f1"></video>
 
 <a id="14-04-10-s1-02"></a>
 
@@ -45,7 +45,7 @@
 <a id="90-03-02-11-a11-02-01"></a>
 
 #### [영상 90.3.2.11.a11.2.1. `통합 변형` 도구의 프레임: 핸들 - 정사각형(크기 조정) (Windows) (우리말)](./90-03-02-11-unified_transform.md#90-03-02-11-a11-02-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9a876d3f-3d61-47bb-8c96-8a249412aa52"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9a876d3f-3d61-47bb-8c96-8a249412aa52"></video>
 
 <a id="14-04-10-s1-03"></a>
 
@@ -60,7 +60,7 @@
 <a id="90-03-02-11-a11-03-01"></a>
 
 #### [영상 90.3.2.11.a11.3.1. `통합 변형` 도구의 프레임: 핸들 - 정사각형 안의 마름모(원근법) (Windows) (우리말)](./90-03-02-11-unified_transform.md#90-03-02-11-a11-03-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3ad7d846-9ed2-477e-9486-b75852186fdc"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3ad7d846-9ed2-477e-9486-b75852186fdc"></video>
 
 <a id="14-04-10-s2"></a>
 
@@ -75,7 +75,7 @@
 <a id="90-03-02-11-a11-04-01"></a>
 
 #### [영상 90.3.2.11.a11.4.1. `통합 변형` 도구의 프레임: 피벗(회전축) (Windows) (우리말)](./90-03-02-11-unified_transform.md#90-03-02-11-a11-04-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3037db76-62ec-482b-ad37-b015dffaa024"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3037db76-62ec-482b-ad37-b015dffaa024"></video>
 
 <a id="14-04-10-s3"></a>
 
@@ -95,7 +95,7 @@
 <a id="90-03-02-11-a12-01-01"></a>
 
 #### [영상 90.3.2.11.a12.1.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 이동 아이콘 (Windows) (우리말)](./90-03-02-11-unified_transform.md#90-03-02-11-a12-01-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2384024e-9f2c-4958-aaf9-c09d3a5c2c61"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2384024e-9f2c-4958-aaf9-c09d3a5c2c61"></video>
 
 <a id="14-04-10-s3-02"></a>
 
@@ -110,7 +110,7 @@
 <a id="90-03-02-11-a12-02-01"></a>
 
 #### [영상 90.3.2.11.a12.2.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 회전 아이콘 (Windows) (우리말)](./90-03-02-11-unified_transform.md#90-03-02-11-a12-02-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f8e43e45-10a0-45bb-86df-f4c276d068c2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f8e43e45-10a0-45bb-86df-f4c276d068c2"></video>
 
 중심에서도 회전 아이콘이 보인다는데 확인 필요함.
 
@@ -127,7 +127,7 @@
 <a id="90-03-02-11-a12-03-01"></a>
 
 #### [영상 90.3.2.11.a12.3.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 기울이기 아이콘 (Windows) (우리말)](./90-03-02-11-unified_transform.md#90-03-02-11-a12-03-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/24020039-a619-4e25-b922-71c1bb031143"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/24020039-a619-4e25-b922-71c1bb031143"></video>
 
 <a id="14-04-10-s3-04"></a>
 
@@ -142,7 +142,7 @@
 <a id="90-03-02-11-a12-04-01"></a>
 
 #### [영상 90.3.2.11.a12.4.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 원근법 아이콘 (Windows) (우리말)](./90-03-02-11-unified_transform.md#90-03-02-11-a12-04-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0fb83f3e-50a2-42aa-80d2-968f91e1946c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0fb83f3e-50a2-42aa-80d2-968f91e1946c"></video>
 
 <a id="14-04-10-s3-05"></a>
 
@@ -157,7 +157,7 @@
 <a id="90-03-02-11-a12-05-01"></a>
 
 #### [영상 90.3.2.11.a12.5.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 크기 조정 아이콘 (Windows) (우리말)](./90-03-02-11-unified_transform.md#90-03-02-11-a12-05-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/67b8a203-93d1-4ce2-a256-4f7f966cffbd"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/67b8a203-93d1-4ce2-a256-4f7f966cffbd"></video>
 
 ## 4. 상태 표시 영역
 이미지 창의 아래쪽의 [상태 표시 영역](./03-02-02-09-status-area.md)에 현재 사용중인 도구의 이름을 보여줍니다. 아래 영상에서 마우스 포인터가 각 핸들 위로 움직일 때, [상태 표시 영역](./03-02-02-09-status-area.md)에 표시되는 메시지를 확인해보세요.
@@ -165,7 +165,7 @@
 <a id="90-03-02-11-a13"></a>
 
 #### [영상 90.3.2.11.a13. `통합 변형` 도구의 프레임: 핸들 선택시 상태 표시 영역에서 핸들 기능 표시 (Windows) (우리말)](./90-03-02-11-unified_transform.md#90-03-02-11-a13)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0c9b6f1b-f3bd-48f3-90e4-908d8fad232c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0c9b6f1b-f3bd-48f3-90e4-908d8fad232c"></video>
 
 ***
 

@@ -12,7 +12,7 @@
 <a id="90-01-08-03-11-a101-01"></a>
 
 #### [그림 90.1.8.3.11.a101.1. `이미지 메뉴 바` → `도구` → `변형 도구` → `뒤집기` (Windows) (우리말)](./90-01-08-03-11-flip.md#90-01-08-03-11-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/44876396-e8fa-4109-a7df-13d3162f2b32"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/44876396-e8fa-4109-a7df-13d3162f2b32"></video>
 
 <a id="14-04-12-01-s2"></a>
 
@@ -26,7 +26,7 @@
 <a id="90-03-02-15-a2-01"></a>
 
 #### [영상 90.3.2.15.a2.1. `도구상자` → `뒤집기` (Windows) (우리말)](./90-03-02-15-flip.md#90-03-02-15-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/71923213-9e7d-48b8-99fa-aca674b03060"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/71923213-9e7d-48b8-99fa-aca674b03060"></video>
 
 <a id="14-04-12-01-s3"></a>
 
@@ -35,7 +35,7 @@
 <a id="90-10-32-01-01-a1"></a>
 
 #### [영상 90.10.32.1.1.a1. `도구상자` → `뒤집기`: 키보드 단축키 Shift(⇧) + `F` (Windows) (우리말)](./90-10-32-01-01-shift_f.md#90-10-32-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f13a0a5b-61aa-42b3-bc21-4ca618a1d632"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f13a0a5b-61aa-42b3-bc21-4ca618a1d632"></video>
 
 ***
 

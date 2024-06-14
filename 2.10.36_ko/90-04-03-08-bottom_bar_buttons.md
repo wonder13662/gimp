@@ -17,7 +17,7 @@
 <a id="90-04-03-08-a22"></a>
 
 #### 영상 90.4.3.8.a22. 레이어 대화상자 - 레이어 복제 버튼으로 레이어 그룹 복사하기 (Windows) (우리말)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/f7cc9472-fba4-4ae2-aabb-a5c999c92c86"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/f7cc9472-fba4-4ae2-aabb-a5c999c92c86"></video>
 
 [8.5.5. 레이어 그룹 복사하기(Duplicate a Layer Group) - 영상 90.4.3.8.a22](./08-05-05-duplicate_a_layer_group.md#90-04-03-08-a22)
 
@@ -31,7 +31,7 @@
 <a id="90-04-03-08-a32"></a>
 
 #### 영상 90.4.3.8.a32. 레이어 대화상자 - 레이어 삭제 버튼으로 레이어 그룹 삭제하기 (Windows) (우리말)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/64ceeec5-7277-49a9-948b-055115d396f3"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/64ceeec5-7277-49a9-948b-055115d396f3"></video>
 
 [8.5.7. 레이어 그룹 지우기(Delete a Layer Groups) - 영상 90.4.3.8.a32](./08-05-07-delete_a_layer_group.md#90-04-03-08-a32)
 

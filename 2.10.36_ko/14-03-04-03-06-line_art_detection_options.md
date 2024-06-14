@@ -28,7 +28,7 @@
 <a id="90-03-02-21-a8-04"></a>
 
 #### [영상 90.3.2.21.a8.4. `도구 옵션` → `영역 채우기` → `선화 감지` → `투명한 영역 채우기` (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a8-04)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a19dd719-63fb-404e-bad5-6eedd16b09d6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a19dd719-63fb-404e-bad5-6eedd16b09d6"></video>
 
 ## 3. 가장자리 페더(Feather edges)
 이 옵션을 선택하면 채운 색의 가장자리를 부드럽게 합니다.

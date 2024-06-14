@@ -10,7 +10,7 @@
 <a id="90-04-03-01-09-a21"></a>
 
 #### 영상 90.4.3.1.9.a21. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴 → `레이어 복제(Duplicate Layer)`를 선택해서 레이어 그룹 복사하기 (windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/743b6509-18ba-49da-8cbf-f4b3bce6710c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/743b6509-18ba-49da-8cbf-f4b3bce6710c"></video>
 
 [8.5.5. 레이어 그룹 복사하기(Duplicate a Layer Group) - 영상 90.4.3.1.9.a21](./08-05-05-duplicate_a_layer_group.md#90-04-03-01-09-a21)
 

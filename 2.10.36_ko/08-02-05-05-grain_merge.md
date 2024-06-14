@@ -12,7 +12,7 @@ RGB 결과값 = max((위쪽 레이어 RGB 값 - 아래쪽 레이어 RGB 값 - 12
 `질감 합치기(Grain merge)` 모드는 오래된 빈티지 사진 이미지를 만드는 데도 유용합니다. 아래 영상을 확인해보시면, [질감 드러내기(Grain extract)](./08-02-05-04-grain_extract.md) 모드의 결과물을 다른 이미지에 합쳐(merge) 빈티지 사진 이미지를 만드는 과정을 확인할 수 있습니다.
 
 #### 영상 8.2.5.5.a52. 질감 합치기(Grain merge) 모드: 빈티지 이미지 만들기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/69d83c1d-786a-48f6-8577-a129b6a653d2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/69d83c1d-786a-48f6-8577-a129b6a653d2"></video>
 
 ***
 

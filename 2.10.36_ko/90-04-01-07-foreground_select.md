@@ -31,14 +31,14 @@
 <a id="90-04-01-07-a3"></a>
 
 #### 영상 90.4.1.7.a3. `도구옵션` → `전경 선택` → `미리보기 모드`: 색상 바꾸기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4e0267da-e6b6-4c8c-a033-dd98aad123ff"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4e0267da-e6b6-4c8c-a033-dd98aad123ff"></video>
 
 [14.2.8.3. 도구 옵션(Options) - 영상 90.4.1.7.a3](./14-02-08-03-options.md#90-04-01-07-a3)
 
 <a id="90-04-01-07-a3-01"></a>
 
 #### 영상 90.4.1.7.a3.1. `도구옵션` → `전경 선택` → `미리보기 모드` → `그레이스케일` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/36105396-c695-402a-b0a9-9ca2b28ec6ce"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/36105396-c695-402a-b0a9-9ca2b28ec6ce"></video>
 
 [14.2.8.3. 도구 옵션(Options) - 영상 90.4.1.7.a3.1](./14-02-08-03-options.md#90-04-01-07-a3-01)
 
@@ -52,7 +52,7 @@
 <a id="90-04-01-07-a5"></a>
 
 #### 영상 90.4.1.7.a5. `도구옵션` → `전경 선택` → `선 너비`: 너비 바꾸기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4c6d43fb-e1d6-401f-be9a-48e0ab9c701c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4c6d43fb-e1d6-401f-be9a-48e0ab9c701c"></video>
 
 [14.2.8.3. 도구 옵션(Options) - 영상 90.4.1.7.a5](./14-02-08-03-options.md#90-04-01-07-a5)
 
@@ -66,21 +66,21 @@
 <a id="90-04-01-07-a6-01"></a>
 
 #### 영상 90.4.1.7.a6.1. `도구옵션` → `전경 선택` → `그리기 모드`→ `전경 그리기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3a84c3fe-e367-478c-9d1f-ca85a60cca8f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3a84c3fe-e367-478c-9d1f-ca85a60cca8f"></video>
 
 [14.2.8.3. 도구 옵션(Options) - 영상 90.4.1.7.a6.1](./14-02-08-03-options.md#90-04-01-07-a6-01)
 
 <a id="90-04-01-07-a6-02"></a>
 
 #### 영상 90.4.1.7.a6.2. `도구옵션` → `전경 선택` → `그리기 모드`→ `배경 그리기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ce0d4c99-fd6e-4c43-997b-e389c4613eab"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ce0d4c99-fd6e-4c43-997b-e389c4613eab"></video>
 
 [14.2.8.3. 도구 옵션(Options) - 영상 90.4.1.7.a6.2](./14-02-08-03-options.md#90-04-01-07-a6-02)
 
 <a id="90-04-01-07-a6-03"></a>
 
 #### 영상 90.4.1.7.a6.3. `도구옵션` → `전경 선택` → `그리기 모드`→ `알수없는 부분 그리기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c9db5d7f-76f0-40a6-a462-b14d434bfc23"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c9db5d7f-76f0-40a6-a462-b14d434bfc23"></video>
 
 [14.2.8.3. 도구 옵션(Options) - 영상 90.4.1.7.a6.3](./14-02-08-03-options.md#90-04-01-07-a6-03)
 

@@ -14,7 +14,7 @@ Ctrl(⌘) 키를 누른 채, 선택을 만들 경우, 상황에 따라 서로 �
 <a id="90-10-01-02-03-a1"></a>
 
 #### [영상 90.10.1.2.3.a1. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드](./90-10-01-02-03-hold_ctrl_before_clicking_to_subtract.md#90-10-01-02-03-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1aa010b3-2198-44d2-a4d8-35fb9bf64d91"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1aa010b3-2198-44d2-a4d8-35fb9bf64d91"></video>
 
 ### 1-2. 선택을 만든 후에 Ctrl(⌘) 키를 누름
 어떤 도구를 사용하고 있느냐에 따라 달라집니다. 예를 들어, 사각 선택 도구의 경우에는 선택 영역을 그릴 때, 클릭한 지점을 중심으로 크기가 확대/축소됩니다.
@@ -22,7 +22,7 @@ Ctrl(⌘) 키를 누른 채, 선택을 만들 경우, 상황에 따라 서로 �
 <a id="90-10-01-02-04-a1"></a>
 
 #### [영상 90.10.1.2.4.a1. 선택 도구로 클릭 뒤에 Ctrl(⌘) 키를 누름 - 중앙으로부터 확장](./90-10-00-keyboard_shortcut.md#90-10-01-02-04-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ab044c3b-b060-42be-870f-f505d08aebb8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ab044c3b-b060-42be-870f-f505d08aebb8"></video>
 
 <a id="14-02-01-01-s2"></a>
 
@@ -34,7 +34,7 @@ Alt(⌥) 키를 누르면 현재 선택(선택된 내용이 아닌 선택 자체
 <a id="90-10-01-05-01-a1"></a>
 
 #### [영상 90.10.1.5.1.a1. Alt(⌥) 키를 눌러 선택 옮기기](./90-10-01-05-01-move_selection.md#90-10-01-05-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/10babd74-77a0-4c67-999d-bf5836b6682d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/10babd74-77a0-4c67-999d-bf5836b6682d"></video>
 
 <a id="14-02-01-01-s3"></a>
 
@@ -49,7 +49,7 @@ Shift(⇧) 키를 누르고 선택을 만들 경우, 상황에 따라 서로 다
 <a id="90-10-01-03-03-a1"></a>
 
 #### [영상 90.10.1.3.3..a1. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드](./90-10-01-03-03-hold_shift_before_clicking_to_add.md#90-10-01-03-03-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1f578f18-d0d4-4397-aef1-7d725af1a1a9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1f578f18-d0d4-4397-aef1-7d725af1a1a9"></video>
 
 <a id="14-02-01-01-s3-02"></a>
 
@@ -59,7 +59,7 @@ Shift(⇧) 키를 누르고 선택을 만들 경우, 상황에 따라 서로 다
 <a id="90-10-01-03-04-a1"></a>
 
 #### [영상 90.10.1.3.4.a1. 선택 도구로 클릭 뒤에 Shift(⇧) 키를 누름: 고정 옵션 켜짐](./90-10-01-03-04-hold_shift_after_clicking_to_activate_fixed_option.md#90-10-01-03-04-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c745012f-36ea-42e6-92b9-2a3b69a80d68"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c745012f-36ea-42e6-92b9-2a3b69a80d68"></video>
 
 <a id="14-02-01-01-s4"></a>
 
@@ -73,7 +73,7 @@ Ctrl(⌘) + Shift(⇧) 키를 누르면 사용중인 도구에 따라 다양한 
 <a id="90-10-01-04-04-a1"></a>
 
 #### [영상 90.10.1.4.4.a1. 선택 도구로 클릭 뒤에 Ctrl(⌘) + Shift(⇧) 키를 누름: `중앙으로부터 확장` 옵션과 `고정(Fixed)` 옵션 켜짐](./90-10-01-04-04-hold_ctrl_shift_after_clicking_to_activate_expand_from_center_option_n_fixed_option.md#90-10-01-04-04-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/97ebc183-71d3-4642-93fa-bdb8dabc799c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/97ebc183-71d3-4642-93fa-bdb8dabc799c"></video>
 
 <a id="14-02-01-01-s5"></a>
 
@@ -88,7 +88,7 @@ Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그로 선택 영역의 콘텐츠�
 <a id="90-10-01-06-01-a1"></a>
 
 #### [영상 90.10.1.6.1.a1. Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그: 선택한 콘텐츠 옮기기(빈자리 배경색 채우기)](./90-10-01-06-01-left_click-drag-fill_bg.md#90-10-01-06-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6a5f12d6-af9d-4e79-a1af-6dad5b8e1e63"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6a5f12d6-af9d-4e79-a1af-6dad5b8e1e63"></video>
 
 <a id="14-02-01-01-s5-02"></a>
 
@@ -98,7 +98,7 @@ Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그로 선택 영역의 콘텐츠�
 <a id="90-10-01-07-01-a1"></a>
 
 #### [영상 90.10.1.7.1.a1. Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그(원본 이미지 유지)](./90-10-01-07-01-left_click-drag-intact_source.md)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b2df02c-54cc-49e4-a13d-3fa52edeed4d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5b2df02c-54cc-49e4-a13d-3fa52edeed4d"></video>
 
 <a id="14-02-01-01-s6"></a>
 
@@ -120,12 +120,12 @@ Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그로 선택 영역의 콘텐츠�
 <a id="90-02-07-a31-02"></a>
 
 #### [영상 90.2.7.a31.2. `기본 설정` → `이미지 창` → `스페이스 바` → `스페이스 바를 누르고 있는 동안` → `화면 이동` (Windows)](./90-02-07-00-image-windows.md#90-02-07-a31-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e964361f-9267-452f-a7b8-06717c234951"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e964361f-9267-452f-a7b8-06717c234951"></video>
 
 <a id="90-02-07-a31-03"></a>
 
 #### [영상 90.2.7.a31.3. `기본 설정` → `이미지 창` → `스페이스 바` → `스페이스 바를 누르고 있는 동안` → `이동 도구로 전환` (Windows)](./90-02-07-00-image-windows.md#90-02-07-a31-03)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d197748d-fea4-4153-a080-0d8e674137fd"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d197748d-fea4-4153-a080-0d8e674137fd"></video>
 
 ***
 

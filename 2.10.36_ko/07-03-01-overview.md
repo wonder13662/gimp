@@ -19,7 +19,7 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 <a id="90-05-05-a111"></a>
 
 #### [영상 90.5.5.a111. 퀵 마스크 토글하기](./90-05-05-quickmask_toggle.md#90-05-05-a111)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/74f2db78-a06e-48d8-bcc7-7c99e3d57180"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/74f2db78-a06e-48d8-bcc7-7c99e3d57180"></video>
 
 [이미지 메뉴 바(Image Menu Bar)](./03-02-02-02-image-menu.md)의 `선택` → `퀵마스크 전환` 또는 단축키 Shift(⇧) + Q를 눌러 퀵마스크 모드와 [선택 외곽선(행진하는 개미)](./19-glossaryx-marching_ants.md) 모드로 전환할 수 있습니다.
 
@@ -31,12 +31,12 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 <a id="90-01-03-16-a102"></a>
 
 #### [영상 90.1.3.16.a102. `선택` → `퀵마스크 전환`](./90-01-03-16-toggle_quick_mask.md#90-01-03-16-a102)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0082b9cc-700f-4ecb-8e95-7e8d351c17ec"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0082b9cc-700f-4ecb-8e95-7e8d351c17ec"></video>
 
 <a id="90-01-03-16-a103"></a>
 
 #### [영상 90.1.3.16.a103. 단축키 Shift(⇧) + Q로 퀵마스크 전환](./90-01-03-16-toggle_quick_mask.md#90-01-03-16-a103)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f6f70ab6-dd6e-418d-b400-b77efe7dbf9e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f6f70ab6-dd6e-418d-b400-b77efe7dbf9e"></video>
 
 ## 퀵마스크의 반투명 덮개
 퀵마스크 모드에서는 선택 영역이 반투명 덮개가 이미지 위에 덮인 것처럼 보여집니다. 이 덮개의 각 픽셀의 투명도가 각 픽셀의 선택된 정도(0부터 255까지)를 나타냅니다. 기본적으로 마스크(선택되지 않음)는 빨간색으로 보입니다. 하지만 이 색깔은 필요하다면 바꿀 수 있습니다. [퀵 마스크의 색상과 투명도 변경하기](./07-03-02-properties.md#07-03-02-s3) 픽셀이 선택된 정도가 낮아지면, 마스크는 더 불투명해집니다. 완전히 선택된 픽셀은 완전한 투명입니다. 아래 이미지에서 퀵마스크에서 표시된 부드러운 경계(픽셀의 선택된 정도가 다양함)와 실제로 부드러운 경계를 적용한 이미지 경계를 확인할 수 있습니다.
@@ -57,7 +57,7 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 <a id="90-01-03-16-a113"></a>
 
 #### [영상 90.1.3.16.a113. 퀵마스크를 칠하기 도구로 수정하기](./90-01-03-16-toggle_quick_mask.md#90-01-03-16-a113)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/44c82438-bb6a-426d-b9fd-453fcfb46906"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/44c82438-bb6a-426d-b9fd-453fcfb46906"></video>
 
 ## 퀵 마스크를 새로운 채널로 저장하기
 퀵마스크 선택을 새로운 채널로 저장하려면 우선 선택 영역이 있는 것을 확인합니다. 그리고 이미지 창에서 퀵마스크 모드는 비활성화 상태여야 합니다. [이미지 메뉴 바(Image Menu Bar)](./03-02-02-02-image-menu.md)의 `선택` → `채널로 저장`을 클릭해서 채널 대화상제에 새로운 채널을 만듭니다. 
@@ -72,14 +72,14 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 <a id="90-01-03-17-a102"></a>
 
 #### [영상 90.1.3.17.a102. `선택` → `채널로 저장`으로 선택영역을 채널에 저장하기](./90-01-03-17-save_to_channel.md#90-01-03-17-a102)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/67209be1-b3f4-48c7-a2bb-265f963bcbb5"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/67209be1-b3f4-48c7-a2bb-265f963bcbb5"></video>
 
 반복해서 새로운 채널을 추가하면 "선택 영역 마스크 복사#1(SelectionMask copy#1)", "선택 영역 마스크 복사#2(SelectionMask copy#2)"의 방식으로 이름의 숫자가 증가합니다.
 
 <a id="90-01-03-17-a103"></a>
 
 #### [영상 90.1.3.17.a103. `선택` → `채널로 저장`으로 선택영역을 채널에 저장하기 반복](./90-01-03-17-save_to_channel.md#90-01-03-17-a103)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/0f574c75-7c75-459c-9974-5a77c362605a"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/0f574c75-7c75-459c-9974-5a77c362605a"></video>
 
 ## 퀵 마스크의 선택영역을 잘라내고 붙이기
 퀵마스크 모드에서 잘라내고 붙이기는 이미지가 아닌 선택 영역에 대해 적용됩니다. 때로는 이 방법을 사용해서 이미지의 선택을 다른 이미지로 가져갈 수 있습니다.
@@ -87,7 +87,7 @@ GIMP(김프)에서의 선택을 보여주는 방법은 "행진하는 개미(marc
 <a id="90-05-05-a131"></a>
 
 #### [영상 90.5.5.a131. 퀵마스크 선택영역 복사해서 다른 이미지로 옮기기](./90-05-05-quickmask_toggle.md#90-05-05-a131)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/b483961a-5697-4257-8424-1f235d7ec9ba"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/b483961a-5697-4257-8424-1f235d7ec9ba"></video>
 
 ## 추가 정보: 선택영역 마스크
 채널 대화상자의 [선택 마스크](./15-02-02-03-00-selection_masks.md)에서 좀 더 많은 내용을 확인할 수 있습니다.

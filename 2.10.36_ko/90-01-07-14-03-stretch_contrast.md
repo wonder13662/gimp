@@ -25,7 +25,7 @@
 <a id="90-01-07-14-03-a5"></a>
 
 #### 영상 90.1.7.14.3.a5. `색` → `자동` → `대비 증가...` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/049288bc-b11d-43ae-8d5e-4c7907f8fcfc"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/049288bc-b11d-43ae-8d5e-4c7907f8fcfc"></video>
 
 [10.1.3.1. 자동화 도구 - 영상 90.1.7.14.3.a5](./10-01-03-01-automated_tools.md#90-01-07-14-03-a5)
 

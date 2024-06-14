@@ -9,7 +9,7 @@
 <a id="90-05-05-a143"></a>
 
 #### [영상 90.5.5.a143. 퀵마스크 속성 팝업 띄우기](./90-05-05-quickmask_toggle.md#90-05-05-a143)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/1ca29c3a-3aa8-4243-8c21-b1d66c414546"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/1ca29c3a-3aa8-4243-8c21-b1d66c414546"></video>
 
 퀵마스크 팝업에서 퀵마스크의 속성을 변경할 수 있습니다.
 
@@ -20,7 +20,7 @@
 <a id="90-05-05-a142"></a>
 
 #### [영상 90.5.5.a142. 퀵마스크 모드 전환하기](./90-05-05-quickmask_toggle.md#90-05-05-a142)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/cf060f8f-fd3b-493f-8346-be27b376f749"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/cf060f8f-fd3b-493f-8346-be27b376f749"></video>
 
 <a id="07-03-02-s2"></a>
 
@@ -29,7 +29,7 @@
 <a id="90-05-05-a144"></a>
 
 #### [영상 90.5.5.a144. 퀵마스크 속성 팝업 - 마스크 전환하기](./90-05-05-quickmask_toggle.md#90-05-05-a144)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/6b63bcb2-cc5a-4179-a226-d78c58b060eb"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/6b63bcb2-cc5a-4179-a226-d78c58b060eb"></video>
 
 <a id="07-03-02-s3"></a>
 
@@ -38,12 +38,12 @@
 <a id="90-05-05-a145"></a>
 
 #### [영상 90.5.5.a145. 퀵마스크 속성 팝업 - 마스크 색상 변경하기](./90-05-05-quickmask_toggle.md#90-05-05-a145)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/27b1498b-a9f5-4c6d-9f4c-1ab75c1d2091"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/27b1498b-a9f5-4c6d-9f4c-1ab75c1d2091"></video>
 
 <a id="90-05-05-a146"></a>
 
 #### [영상 90.5.5.a146. 퀵마스크 속성 팝업 - 마스크 투명도 변경하기](./90-05-05-quickmask_toggle.md#90-05-05-a146)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/dc28a625-11cc-4941-b37c-8a141381a7e6"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/dc28a625-11cc-4941-b37c-8a141381a7e6"></video>
 
 ***
 

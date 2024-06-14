@@ -11,7 +11,7 @@
 <a id="90-01-08-07-a101-01"></a>
 
 #### 영상 90.1.8.7.a101.1. `이미지 메뉴 바` → `도구` → `색상 추출` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/931ed604-cf0d-4475-b1ce-1c88c1f8c45d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/931ed604-cf0d-4475-b1ce-1c88c1f8c45d"></video>
 
 [14.5.3.1. 도구 활성화하기(Activating the tools) - 영상 90.1.8.7.a101.1](./14-05-03-01-activating_the_tool.md#90-01-08-07-a101-01)
 

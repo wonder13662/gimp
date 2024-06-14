@@ -3,7 +3,7 @@
 <a id="90-10-15-03-01-a1"></a>
 
 #### 영상 90.10.15.3.1.a1. 칠하기 도구:`잉크` - Shift(⇧) 키: 직선 그리기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1e3580ec-b9d4-45aa-b3b9-d160d4a8e2aa"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1e3580ec-b9d4-45aa-b3b9-d160d4a8e2aa"></video>
 
 [14.3.11.2. 동작 변경키(Key modifiers) - 영상 90.10.15.3.1.a1](./14-03-11-02-key_modifiers.md#90-10-15-03-01-a1)
 

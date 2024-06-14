@@ -11,7 +11,7 @@
 <a id="90-01-02-20-a102"></a>
 
 #### 그림 90.1.2.20.a102. `편집` → `경로 따라 그리기`로 선 그리기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4248aea3-b002-4970-9f06-1c9b00c961eb"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4248aea3-b002-4970-9f06-1c9b00c961eb"></video>
 
 [7.5.5. 경로 따라 그리기 - 그림 90.1.2.20.a102](./07-05-05-stroking-a-path.md#90-01-02-20-a102)
 

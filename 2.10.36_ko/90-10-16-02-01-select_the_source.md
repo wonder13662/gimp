@@ -3,7 +3,7 @@
 <a id="90-10-16-02-01-a1"></a>
 
 #### 영상 90.10.16.2.1.a1. 칠하기 도구:`도장` - Ctrl(⌘) 키: 원본 선택
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3a4df05f-fc8a-4736-a5cb-4161269c23fa"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3a4df05f-fc8a-4736-a5cb-4161269c23fa"></video>
 
 [14.3.12.2. 동작 변경키(Key modifiers) - 영상 90.10.16.2.1.a1](./14-03-12-02-key_modifiers.md#90-10-16-02-01-a1)
 

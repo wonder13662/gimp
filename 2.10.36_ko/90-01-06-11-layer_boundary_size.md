@@ -11,7 +11,7 @@
 <a id="90-01-06-11-a102"></a>
 
 #### 영상 90.1.6.11.a102. '레이어 경계 크기(Layer Boundary Size)' 사용하기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c9c8062e-5035-49db-8ddf-5272b6a17b9a"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c9c8062e-5035-49db-8ddf-5272b6a17b9a"></video>
 
 [4.2.6. 레이어 바깥쪽에서 작업을 하려는 경우 - 영상 90.1.6.11.a102](./04-02-06-you-are-trying-to-act-outside-the-layer.md#90-01-06-11-a102)
 

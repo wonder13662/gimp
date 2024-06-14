@@ -3,7 +3,7 @@
 <a id="90-10-01-06-01-a1"></a>
 
 #### 영상 90.10.1.6.1.a1. Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그: 선택한 콘텐츠 옮기기(빈자리 배경색 채우기)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6a5f12d6-af9d-4e79-a1af-6dad5b8e1e63"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6a5f12d6-af9d-4e79-a1af-6dad5b8e1e63"></video>
 
 [14.2.1.1. 동작 변경키(Key modifiers) - 영상 90.10.1.6.1.a1](./14-02-01-01-key_modifiers.md#90-10-01-06-01-a1)
 

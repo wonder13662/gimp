@@ -25,7 +25,7 @@
 <a id="90-03-02-23-a2-01"></a>
 
 #### 영상 90.3.2.23.a2.1. `도구상자` → `그리기 붓`
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/935d60bd-db12-441a-9aa4-8808808edb06"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/935d60bd-db12-441a-9aa4-8808808edb06"></video>
 
 [14.3.7.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.23.a2.1](./14-03-07-01-activating_the_tool.md#90-03-02-23-a2-01)
 
@@ -39,7 +39,7 @@
 <a id="90-03-02-23-a112"></a>
 
 #### 영상 90.3.2.23.a112. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options)의 `Color From Gradient` 적용하기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6215e2ac-b807-4732-b106-e37b2c0c2c82"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6215e2ac-b807-4732-b106-e37b2c0c2c82"></video>
 
 [3.5.2. 직선그리기 예제들 - 영상 90.3.2.23.a112](./03-05-02-examples.md#90-03-02-23-a112)
 
@@ -48,7 +48,7 @@
 <a id="90-03-02-23-a113"></a>
 
 #### 영상 90.3.2.23.a113. 그리기 붓(Paintbrush)의 붓 긋기(Brush stroke)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f71f220a-c5e6-4262-afa0-f1dd7e1e2fde"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f71f220a-c5e6-4262-afa0-f1dd7e1e2fde"></video>
 
 [7.6. 붓 - 영상 90.3.2.23.a113](./07-06-00-brushes.md#90-03-02-23-a113)
 
@@ -73,21 +73,21 @@
 <a id="90-03-02-23-a115-01"></a>
 
 #### 영상 90.3.2.23.a115.1. `도구 옵션` → `그리기 붓` → `모드`: 분해
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b8defd38-107d-4162-9fcd-7a6b9436f1f2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b8defd38-107d-4162-9fcd-7a6b9436f1f2"></video>
 
 [14.3.1.3.1. 분해(Dissolve) - 영상 90.3.2.23.a115.1](./14-03-01-03-01-dissolve.md)
 
 <a id="90-03-02-23-a115-02"></a>
 
 #### 영상 90.3.2.23.a115.2. `도구 옵션` → `그리기 붓` → `모드`: 뒤쪽으로
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/defaba35-2cbd-45ec-94f4-9d185df5438e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/defaba35-2cbd-45ec-94f4-9d185df5438e"></video>
 
 [14.3.1.3.2. 뒤쪽으로(Behind) - 영상 90.3.2.23.a115.2](./14-03-01-03-02-behind.md#90-03-02-23-a115-02)
 
 <a id="90-03-02-23-a115-03"></a>
 
 #### 영상 90.3.2.23.a115.3. `도구 옵션` → `그리기 붓` → `모드`: 색상 지우기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/480fbdbb-d380-4606-9792-5be4b1186876"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/480fbdbb-d380-4606-9792-5be4b1186876"></video>
 
 [14.3.1.3.3. 색상 지우기(Color Erase) - 영상 90.3.2.23.a115.3](./14-03-01-03-03-color_erase.md#90-03-02-23-a115-03)
 
@@ -136,7 +136,7 @@
 <a id="90-03-02-23-a120-02"></a>
 
 #### 영상 90.3.2.23.a120.2. `도구 옵션` → `그리기 붓` → `간격`: 붓 스트로크 사이의 간격 차이
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4ab62704-8251-4ae6-95c7-1928109861ac"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4ab62704-8251-4ae6-95c7-1928109861ac"></video>
 
 [14.3.1.2.7. 간격(Spacing) - 영상 90.3.2.23.a120.2](./14-03-01-02-07-spacing.md#90-03-02-23-a120-02)
 
@@ -150,7 +150,7 @@
 <a id="90-03-02-23-a121-02"></a>
 
 #### 영상 90.3.2.23.a121.2. `도구 옵션` → `그리기 붓` → `경도`: 붓 스트로크 경도 차이
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/231bb205-0ca1-426f-8b09-b2cbe221d743"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/231bb205-0ca1-426f-8b09-b2cbe221d743"></video>
 
 [14.3.1.2.8. 경도(Hardness) - 영상 90.3.2.23.a121.2](./14-03-01-02-08-hardness.md#90-03-02-23-a121-02)
 
@@ -164,7 +164,7 @@
 <a id="90-03-02-23-a122-02"></a>
 
 #### 영상 90.3.2.23.a122.2. `도구 옵션` → `그리기 붓` → `압력`: 붓 스트로크 압력 차이
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3544b58a-d386-4140-afda-ddb488048c7d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3544b58a-d386-4140-afda-ddb488048c7d"></video>
 
 [14.3.1.2.9. 압력(Force) - 영상 90.3.2.23.a122.2](./14-03-01-02-09-force.md#90-03-02-23-a122-02)
 
@@ -254,7 +254,7 @@
 <a id="90-03-02-23-a125-03"></a>
 
 #### 영상 90.3.2.23.a125.3. `도구 옵션` → `그리기 붓` → `지터 적용`: 붓 스트로크에 적용하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c1fb7d3e-18bf-4fbf-aaba-82b68f85c74e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c1fb7d3e-18bf-4fbf-aaba-82b68f85c74e"></video>
 
 [14.3.1.2.12. 지터 적용(Apply Jitter) - 영상 90.3.2.23.a125.3](./14-03-01-02-12-apply_jitter.md#90-03-02-23-a125-03)
 
@@ -275,7 +275,7 @@
 <a id="90-03-02-23-a126-03"></a>
 
 #### 영상 90.3.2.23.a126.3. `도구 옵션` → `그리기 붓` → `스트로크 부드럽게 하기`: 붓 스트로크에 적용하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0dcd0417-5097-4cbd-98ba-3327c754a023"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0dcd0417-5097-4cbd-98ba-3327c754a023"></video>
 
 [14.3.1.2.13. 부드러운 스트로크(Smooth Stroke) - 영상 90.3.2.23.a126.3](./14-03-01-02-13-smooth_stroke.md#90-03-02-23-a126-03)
 
@@ -289,28 +289,28 @@
 <a id="90-03-02-23-a127-02"></a>
 
 #### 영상 90.3.2.23.a127.2. `도구 옵션` → `그리기 붓` → `붓의 크기를 뷰에 고정하기`: 캔버스에 상대적인 붓 크기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/540af0f0-2567-4571-a53c-7d640a0f997d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/540af0f0-2567-4571-a53c-7d640a0f997d"></video>
 
 [14.3.1.2.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view) - 영상 90.3.2.23.a127.2](./14-03-01-02-14-lock_brush_size_to_view.md#90-03-02-23-a127-02)
 
 <a id="90-03-02-23-a127-03"></a>
 
 #### 영상 90.3.2.23.a127.3. `도구 옵션` → `그리기 붓` → `붓의 크기를 뷰에 고정하기`: 스크린에 상대적인 붓 크기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/acedd1be-23c7-49d9-84d2-f2e4feb87045"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/acedd1be-23c7-49d9-84d2-f2e4feb87045"></video>
 
 [14.3.1.2.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view) - 영상 90.3.2.23.a127.3](./14-03-01-02-14-lock_brush_size_to_view.md#90-03-02-23-a127-03)
 
 <a id="90-03-02-23-a127-04"></a>
 
 #### 영상 90.3.2.23.a127.4. `도구 옵션` → `그리기 붓` → `붓의 크기를 뷰에 고정하기`: 옵션 끄고 회전
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ab3a2519-70ed-400d-ba24-d9f064109959"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ab3a2519-70ed-400d-ba24-d9f064109959"></video>
 
 [14.3.1.2.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view) - 영상 90.3.2.23.a127.4](./14-03-01-02-14-lock_brush_size_to_view.md#90-03-02-23-a127-04)
 
 <a id="90-03-02-23-a127-05"></a>
 
 #### 영상 90.3.2.23.a127.5. `도구 옵션` → `그리기 붓` → `붓의 크기를 뷰에 고정하기`: 옵션 켜고 회전
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7534a5a1-1dc1-450f-a1e1-9fd3665e1a69"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7534a5a1-1dc1-450f-a1e1-9fd3665e1a69"></video>
 
 [14.3.1.2.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view) - 영상 90.3.2.23.a127.5](./14-03-01-02-14-lock_brush_size_to_view.md#90-03-02-23-a127-05)
 
@@ -324,14 +324,14 @@
 <a id="90-03-02-23-a128-02"></a>
 
 #### 영상 90.3.2.23.a128.2. `도구 옵션` → `그리기 붓` → `증분`: 끔
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2202eaaf-e2f6-4776-8780-31e2019f4268"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2202eaaf-e2f6-4776-8780-31e2019f4268"></video>
 
 [14.3.1.2.15. 증분(Incremental) - 영상 90.3.2.23.a128.2](./14-03-01-02-15-incremental.md#90-03-02-23-a128-02)
 
 <a id="90-03-02-23-a128-03"></a>
 
 #### 영상 90.3.2.23.a128.3. `도구 옵션` → `그리기 붓` → `증분`: 켬
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/57faff25-94a9-4d70-bc05-8363ff8de4a4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/57faff25-94a9-4d70-bc05-8363ff8de4a4"></video>
 
 [14.3.1.2.15. 증분(Incremental) - 영상 90.3.2.23.a128.3](./14-03-01-02-15-incremental.md#90-03-02-23-a128-03)
 

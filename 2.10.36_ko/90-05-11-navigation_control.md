@@ -24,14 +24,14 @@
 <a id="90-05-11-a121"></a>
 
 #### 그림 90.5.11.a121. 내비게이션 미리보기로 이미지의 다른 부분으로 옮기기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b3082a40-da2a-4105-9f6b-8f0657354098"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b3082a40-da2a-4105-9f6b-8f0657354098"></video>
 
 [3.2.2.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a121](./03-02-02-11-navigation-control.md#90-05-11-a121)
 
 <a id="90-05-11-a131"></a>
 
 #### 그림 90.5.11.a131. 마우스 가운데 버튼으로 이미지의 원하는 부분으로 옮기기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1b8b315c-e71d-4414-926e-6daef83183ed"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1b8b315c-e71d-4414-926e-6daef83183ed"></video>
 
 [3.2.2.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a131](./03-02-02-11-navigation-control.md#90-05-11-a131)
 

@@ -19,7 +19,7 @@
 <a id="90-04-03-05-a11"></a>
 
 #### 영상 90.4.3.5.a11. 레이어의 눈 아이콘 토글로 레이어 보이기/숨기기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/836a5ca4-2185-4148-9e0e-60e3a50f8480"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/836a5ca4-2185-4148-9e0e-60e3a50f8480"></video>
 
 [4.2.4. 활성화된 drawable이 보이지 않는 경우 - 영상 90.4.3.5.a11](./04-02-04-the-active-drawable-is-not-visible.md#90-04-03-05-a11)
 
@@ -33,7 +33,7 @@
 <a id="90-04-03-05-a31"></a>
 
 #### 영상 90.4.3.5.a31. Shift(⇧)를 누른채로 가시성(Visibility) 심볼 토글하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1b3ab6fc-c557-4cca-a3b6-c3280fa74002"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1b3ab6fc-c557-4cca-a3b6-c3280fa74002"></video>
 
 [8.1.1.4. 가시성(Visibility) - 영상 90.4.3.5.a31](./08-01-01-04-visibility.md#90-04-03-05-a31)
 

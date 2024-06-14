@@ -11,14 +11,14 @@
 <a id="90-01-03-17-a102"></a>
 
 #### 영상 90.1.3.17.a102. `선택` → `채널로 저장`으로 선택영역을 채널에 저장하기
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/67209be1-b3f4-48c7-a2bb-265f963bcbb5"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/67209be1-b3f4-48c7-a2bb-265f963bcbb5"></video>
 
 [7.3.1. 퀵마스크 개요 - 영상 90.1.3.17.a102](./07-03-01-overview.md#90-01-03-17-a102)
 
 <a id="90-01-03-17-a103"></a>
 
 #### 영상 90.1.3.17.a103. `선택` → `채널로 저장`으로 선택영역을 채널에 저장하기 반복
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/0f574c75-7c75-459c-9974-5a77c362605a"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/0f574c75-7c75-459c-9974-5a77c362605a"></video>
 
 [7.3.1. 퀵마스크 개요 - 영상 90.1.3.17.a103](./07-03-01-overview.md#90-01-03-17-a103)
 

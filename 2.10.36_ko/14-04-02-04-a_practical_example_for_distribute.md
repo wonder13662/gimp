@@ -10,7 +10,7 @@
 <a id="90-03-02-02-a102"></a>
 
 #### [영상 90.3.2.2.a102. 배치 과정 예제 (Windows) (우리말)](./90-03-02-02-alignment.md#90-03-02-02-a102)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/20c4784d-d68f-4d4a-bed1-71d86c40b39a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/20c4784d-d68f-4d4a-bed1-71d86c40b39a"></video>
 
 ***
 

@@ -34,7 +34,7 @@
 <a id="90-04-03-02-a51"></a>
 
 #### [영상 90.4.3.2.a51. 레이어 그룹에 직접 작업시, 에러 메시지 노출](./90-04-03-02-layer_group.md#90-04-03-02-a51)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/99cbfad6-a162-444c-b4e7-2a0c721952b1"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/99cbfad6-a162-444c-b4e7-2a0c721952b1"></video>
 
 <a id="90-05-09-a121"></a>
 

@@ -50,21 +50,21 @@
 <a id="90-04-38-a115"></a>
 
 #### 영상 90.4.38.a115. `이미지 열기` 대화상자 - 위치(Places) 목록의 폴더를 클릭 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c792bbc8-26cc-49a7-b2de-6c66008ec909"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c792bbc8-26cc-49a7-b2de-6c66008ec909"></video>
 
 [5.3.1. 파일 열기 - 영상 90.4.38.a115](./05-03-01-00-open-file.md#90-04-38-a115)
 
 <a id="90-04-38-a116"></a>
 
 #### 영상 90.4.38.a116. `이미지 열기` 대화상자 - 폴더 추가하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8c68793e-8495-406d-86f0-71860f5a8741"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8c68793e-8495-406d-86f0-71860f5a8741"></video>
 
 [5.3.1. 파일 열기 - 영상 90.4.38.a116](./05-03-01-00-open-file.md#90-04-38-a116)
 
 <a id="90-04-38-a117"></a>
 
 #### 영상 90.4.38.a117. `이미지 열기` 대화상자 - 폴더 제거하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b23db11-11fb-4f3f-bebe-2ae1e13b7b93"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5b23db11-11fb-4f3f-bebe-2ae1e13b7b93"></video>
 
 [5.3.1. 파일 열기 - 영상 90.4.38.a117](./05-03-01-00-open-file.md#90-04-38-a117)
 
@@ -99,7 +99,7 @@
 <a id="90-04-38-a125"></a>
 
 #### 영상 90.4.38.a125. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 설정하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0ecf2554-c3cc-4949-9ece-70d688a0834a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0ecf2554-c3cc-4949-9ece-70d688a0834a"></video>
 
 [5.3.1. 파일 열기 - 영상 90.4.38.a125](./05-03-01-00-open-file.md#90-04-38-a125)
 
@@ -113,14 +113,14 @@
 <a id="90-04-38-a132"></a>
 
 #### 영상 90.4.38.a132. `이미지 열기` 대화상자 - 미리보기(Preview)의 자동 캐시 해제 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4a1a94b6-99e7-42c9-95db-a4d031676ef3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4a1a94b6-99e7-42c9-95db-a4d031676ef3"></video>
 
 [5.3.1. 파일 열기 - 영상 90.4.38.a132](./05-03-01-00-open-file.md#90-04-38-a132)
 
 <a id="90-04-38-a133"></a>
 
 #### 영상 90.4.38.a133. `이미지 열기` 대화상자 - 미리보기(Preview)의 수동 캐시 해제 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ff987087-ee28-45f0-a630-52ca3a7987dd"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ff987087-ee28-45f0-a630-52ca3a7987dd"></video>
 
 [5.3.1. 파일 열기 - 영상 90.4.38.a133](./05-03-01-00-open-file.md#90-04-38-a133)
 
@@ -134,7 +134,7 @@
 <a id="90-04-38-a142"></a>
 
 #### 영상 90.4.38.a142. `이미지 열기` 대화상자 - 단축키로 위치 입력창 열기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3e62d548-d9f0-4065-be61-4902f17bcc23"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3e62d548-d9f0-4065-be61-4902f17bcc23"></video>
 
 [5.3.1. 파일 열기 - 영상 90.4.38.a142](./05-03-01-00-open-file.md#90-04-38-a142)
 
@@ -148,7 +148,7 @@
 <a id="90-04-38-a144"></a>
 
 #### 영상 90.4.38.a144. `이미지 열기` 대화상자 - 종이와 연필 아이콘 버튼으로 위치 입력창 열기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1af03cff-f32b-4a45-b866-eaebf1efe82e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1af03cff-f32b-4a45-b866-eaebf1efe82e"></video>
 
 [5.3.1. 파일 열기 - 영상 90.4.38.a144](./05-03-01-00-open-file.md#90-04-38-a144)
 
@@ -162,7 +162,7 @@
 <a id="90-04-38-a152"></a>
 
 #### 영상 90.4.38.a152. `이미지 열기` 대화상자 - 폴더 계층에서 다른 계층의 폴더로 이동하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5381f2bb-1ac3-488e-93b5-ea9bd441400d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5381f2bb-1ac3-488e-93b5-ea9bd441400d"></video>
 
 [5.3.1. 파일 열기 - 영상 90.4.38.a152](./05-03-01-00-open-file.md#90-04-38-a152)
 

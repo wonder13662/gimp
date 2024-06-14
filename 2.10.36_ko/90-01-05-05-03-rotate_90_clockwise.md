@@ -3,7 +3,7 @@
 <a id="90-01-05-05-03-a101"></a>
 
 #### 영상 90.1.5.5.3.a101. "이미지 회전하기" 예시 - 시계 방향으로 90도 회전(Rotate 90° clockwise)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/49afd50c-0384-4a92-9434-e8dbe87d9885"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/49afd50c-0384-4a92-9434-e8dbe87d9885"></video>
 
 [3.4.9. 이미지 회전하기 - 영상 90.1.5.5.3.a101. "이미지 회전하기" 예시 - 시계 방향으로 90도 회전(Rotate 90° clockwise)](./03-04-09-rotate-an-image.md#90-01-05-05-03-a101)
 

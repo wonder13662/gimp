@@ -39,7 +39,7 @@
 <a id="90-01-03-08-a102"></a>
 
 #### [영상 90.1.3.8.a102. `선택` → `페더` 전체 과정](./90-01-03-08-feather.md#90-01-03-08-a102)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/442f2320-e848-4da9-9d18-c05634337d82"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/442f2320-e848-4da9-9d18-c05634337d82"></video>
 
 ## 이미지 메뉴 바의 `선택` → `또렷하게` 사용하기
 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `선택` → `또렷하게`를 클릭해서 흐릿한 선택을 예리하고 또렷한 선택(0 또는 255)으로 바꿀 수 있습니다.
@@ -52,7 +52,7 @@
 <a id="90-01-03-09-a102"></a>
 
 #### [영상 90.1.3.9.a102. `선택` → `또렷하게` 전체 과정](./90-01-03-09-sharpen.md#90-01-03-09-a102)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/133bfb84-569f-4a68-9951-65a4e6b7dc9d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/133bfb84-569f-4a68-9951-65a4e6b7dc9d"></video>
 
 > 🗒️ 참고
 >

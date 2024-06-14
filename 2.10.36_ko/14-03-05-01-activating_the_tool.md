@@ -15,7 +15,7 @@
 <a id="90-01-08-02-02-a1-01"></a>
 
 #### [영상 90.1.8.2.2.a1.1. `이미지 메뉴 바` → `도구` → `칠하기 도구` → `그라디언트` (Windows) (우리말)](./90-01-08-02-02-gradient.md#90-01-08-02-02-a1-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c854af49-fdfe-43d5-a3f4-0e5f33279e78"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c854af49-fdfe-43d5-a3f4-0e5f33279e78"></video>
 
 <a id="14-03-05-01-s2"></a>
 
@@ -29,7 +29,7 @@
 <a id="90-03-02-22-a2-01"></a>
 
 #### [영상 90.3.2.22.a2.1. `도구상자` → `그라디언트` (Windows) (우리말)](./90-03-02-22-gradient.md#90-03-02-22-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dd5983ea-b688-4ba6-9417-2d3b86b7e26e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/dd5983ea-b688-4ba6-9417-2d3b86b7e26e"></video>
 
 <a id="14-03-05-01-s3"></a>
 
@@ -38,7 +38,7 @@
 <a id="90-10-09-01-01-a1"></a>
 
 #### [영상 90.10.9.1.1.a1. `그라디언트` 도구 - 키보드 단축키 `G`](./90-10-09-01-01-g.md#90-10-09-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/68b198a0-be89-413a-9493-508a950b48e1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/68b198a0-be89-413a-9493-508a950b48e1"></video>
 
 ***
 

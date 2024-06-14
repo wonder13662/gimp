@@ -3,7 +3,7 @@
 <a id="90-10-07-02-01-a1"></a>
 
 #### 영상 90.10.7.2.1.a1. `도구상자` → `그리기 붓` + Shift(⇧): 직선그리기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a31aa347-7971-4b8f-8de0-96667cb763de"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a31aa347-7971-4b8f-8de0-96667cb763de"></video>
 
 [3.5.1. 목적 - 영상 90.3.2.23.a101](./03-05-01-intention.md#90-10-07-02-01-a1)
 

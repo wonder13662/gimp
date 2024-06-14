@@ -101,7 +101,7 @@ The Paint Dynamics Dialog window can be opened
 <a id="90-04-16-a111-02"></a>
 
 #### [영상 90.4.16.a111.2. `페인트 동적 요소` 대화상자 → 컨텍스트 메뉴: 열기 (Windows) (우리말)](./90-04-16-paint_dynamics.md#90-04-16-a111-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/261d67fa-6538-4e9a-88ee-28d172d6e901"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/261d67fa-6538-4e9a-88ee-28d172d6e901"></video>
 
 동적 요소 프리셋에서 오른쪽 클릭을 하면 동적 요소 컨텍스트 메뉴를 열 수 있습니다. 동적 요소의 대부분의 명령은 동적 요소 대화상자의 아래쪽의 버튼으로도 수행할 수 있습니다. 이 명령들은 [2. 대화상자 아래의 다섯개의 버튼 설명](./14-03-02-01-the_paint_dynamics_dialog.md#14-03-02-01-s2)에서 확인할 수 있습니다.
 

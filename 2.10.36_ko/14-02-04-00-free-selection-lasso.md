@@ -16,7 +16,7 @@
 <a id="90-03-02-05-a101"></a>
 
 #### [영상 90.3.2.5.a101. 자유 선택 도구(올가미) 사용하기 - 자유롭게 그리기](./90-03-02-05-free_select.md#90-03-02-05-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fa4089d6-4cff-4b95-9a37-b38ce28e642a"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fa4089d6-4cff-4b95-9a37-b38ce28e642a"></video>
 
 <a id="14-02-04-s1-02"></a>
 
@@ -26,14 +26,14 @@
 <a id="90-03-02-05-a102"></a>
 
 #### [영상 90.3.2.5.a102. 자유 선택 도구(올가미) 사용하기 - 다각형으로 그리기](./90-03-02-05-free_select.md#90-03-02-05-a102)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/65c479b4-d623-434a-a094-f5b8283e9e1a"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/65c479b4-d623-434a-a094-f5b8283e9e1a"></video>
 
 Ctrl(⌘) 키를 누르고 마우스 포인터를 이동하면, 그어지는 선의 각도가 15도씩 움직이도록 제한합니다. 이 방법으로 수직, 수평선을 쉽게 그릴 수 있습니다.
 
 <a id="90-03-02-05-a102-01"></a>
 
 #### [영상 90.3.2.5.a102.1. 자유 선택 도구(올가미) 사용하기 - 다각형으로 그리기 - 15도 회전 제한](./90-03-02-05-free_select.md#90-03-02-05-a102-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0dbba48e-5423-4f5b-a1d5-cd4d40e95d73"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0dbba48e-5423-4f5b-a1d5-cd4d40e95d73"></video>
 
 <a id="14-02-04-s1-03"></a>
 
@@ -43,7 +43,7 @@ Ctrl(⌘) 키를 누르고 마우스 포인터를 이동하면, 그어지는 선
 <a id="90-03-02-05-a121"></a>
 
 #### [영상 90.3.2.5.a121. 끝점을 더블클릭해서 선택 닫기 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a121)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/08b3d9f3-e5b1-4fff-8b98-e9003e58f916"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/08b3d9f3-e5b1-4fff-8b98-e9003e58f916"></video>
 
 <a id="14-02-04-s1-04"></a>
 
@@ -53,21 +53,21 @@ Ctrl(⌘) 키를 누르고 마우스 포인터를 이동하면, 그어지는 선
 <a id="90-03-02-05-a122"></a>
 
 #### [영상 90.3.2.5.a122. 자유롭게 그리기와 다각형으로 그리기 섞어 쓰기 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a122)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/640ba2ac-e74a-4ab6-a49e-6dfc960e2fba"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/640ba2ac-e74a-4ab6-a49e-6dfc960e2fba"></video>
 
 마우스 커서가 이미지 창 바깥으로 나갔을 경우, 다시 이미지 창 안쪽으로 들어오면 언제든지 다시 자유 선택을 그릴 수 있습니다.
 
 <a id="90-03-02-05-a123"></a>
 
 #### [영상 90.3.2.5.a123. 자유 선택을 중단한 뒤에 이어서 그리기 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a123)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7bf5a406-b8e6-469c-b66f-f0718e017966"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7bf5a406-b8e6-469c-b66f-f0718e017966"></video>
 
 시작점과 다른 점이 분리되어 있는 경우, 다른 점을 클릭, 드래그하면, 자유 선택의 크기를 확대/축소할 수 있습니다.
 
 <a id="90-03-02-05-a124"></a>
 
 #### [영상 90.3.2.5.a124. 자유 선택의 크기를 확대/축소 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a124)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1961cf9e-cc36-4b45-a60b-0ff5e5e6c830"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1961cf9e-cc36-4b45-a60b-0ff5e5e6c830"></video>
 
 <a id="14-02-04-s2"></a>
 
@@ -79,21 +79,21 @@ Ctrl(⌘) 키를 누르고 마우스 포인터를 이동하면, 그어지는 선
 <a id="90-03-02-05-a125"></a>
 
 #### [영상 90.3.2.5.a125. 예비 선택 복사 및 붙여넣기 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a125)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0bbd16c2-e4aa-4805-9880-69271840592b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0bbd16c2-e4aa-4805-9880-69271840592b"></video>
 
 그리고 백 스페이스(⌫) 키를 눌러서 이전 선택 단계(닫힌 선택 열린 상태로 되돌리기)로 되돌릴 수 있습니다. 그리고 선택을 수정할 수 있습니다.
 
 <a id="90-03-02-05-a126"></a>
 
 #### [영상 90.3.2.5.a126. 백 스페이스(⌫)를 눌러 이전 단계로 되돌리기 및 수정 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a126)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2cac7668-9e54-4eab-8e5c-4c26873cc9d5"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2cac7668-9e54-4eab-8e5c-4c26873cc9d5"></video>
 
 ⚠️ 주의: Ctrl(⌘) + Z 로 실행취소를 하게 되면, 자유 선택의 단계가 아닌 자유 선택 자체가 취소되게 됩니다.
 
 <a id="90-03-02-05-a127"></a>
 
 #### [영상 90.3.2.5.a127. 예비 선택을 Ctrl(⌘) + Z 로 실행취소 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a127)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/21cc5ff8-12ec-421b-84f7-73a48d675312"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/21cc5ff8-12ec-421b-84f7-73a48d675312"></video>
 
 <a id="14-02-04-s3"></a>
 
@@ -103,7 +103,7 @@ Ctrl(⌘) 키를 누르고 마우스 포인터를 이동하면, 그어지는 선
 <a id="90-03-02-05-a128"></a>
 
 #### [영상 90.3.2.5.a128. 자유 선택 취소하기 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a128)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/11cc6106-4480-4395-bbda-92d6425e1b4e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/11cc6106-4480-4395-bbda-92d6425e1b4e"></video>
 
 <a id="14-02-04-s4"></a>
 
@@ -113,12 +113,12 @@ Ctrl(⌘) 키를 누르고 마우스 포인터를 이동하면, 그어지는 선
 <a id="90-03-02-05-a129"></a>
 
 #### [영상 90.3.2.5.a129. 자유 선택 검증하기: 엔터키 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a129)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/82ee4c9d-865b-47ef-aafb-dc895ff581dc"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/82ee4c9d-865b-47ef-aafb-dc895ff581dc"></video>
 
 <a id="90-03-02-05-a130"></a>
 
 #### [영상 90.3.2.5.a130. 자유 선택 검증하기: 자유 선택 안에 더블클릭 (Windows) (우리말)](./90-03-02-05-free_select.md#90-03-02-05-a130)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b6652178-d85c-4146-8f4c-7df4a41f6977"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b6652178-d85c-4146-8f4c-7df4a41f6977"></video>
 
 <a id="14-02-04-s5"></a>
 

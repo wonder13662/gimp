@@ -47,12 +47,12 @@
 <a id="90-03-03-a4-01"></a>
 
 #### [영상 90.3.3.a4.1. 도구상자의 '전경색/배경색' - `기본색` 설정하기](./90-03-03-foreground_color_n_background_color.md#90-03-03-a4-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c25a28af-e8f5-47e6-b19c-669ba0568ea7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c25a28af-e8f5-47e6-b19c-669ba0568ea7"></video>
 
 <a id="90-03-03-a4-02"></a>
 
 #### [영상 90.3.3.a4.2. 도구상자의 '전경색/배경색' - `기본색` 설정하기(단축키)](./90-03-03-foreground_color_n_background_color.md#90-03-03-a4-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cbd19046-d354-4b4e-b7a7-ccee77536bf0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/cbd19046-d354-4b4e-b7a7-ccee77536bf0"></video>
 
 ## 3. 전경색과 배경색을 맞바꾸기(Swap FG/BG colors)
 전경색과 배경색의 오른쪽 위의 작은 꺾인 화살표를 클릭하면, 전경색과 배경색을 맞바꿉니다. 단축키 `X`를 누르면 같은 동작을 합니다.
@@ -65,12 +65,12 @@
 <a id="90-03-03-a5-01"></a>
 
 #### [영상 90.3.3.a5.1. 도구상자의 '전경색/배경색' - 전경색과 배경색을 맞바꾸기](./90-03-03-foreground_color_n_background_color.md#90-03-03-a5-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c8e4338f-4ebc-419b-a6f8-fd4fa5bfa453"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c8e4338f-4ebc-419b-a6f8-fd4fa5bfa453"></video>
 
 <a id="90-03-03-a5-02"></a>
 
 #### [영상 90.3.3.a5.2. 도구상자의 '전경색/배경색' - 전경색과 배경색을 맞바꾸기(단축키)](./90-03-03-foreground_color_n_background_color.md#90-03-03-a5-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1e804517-dffa-44e6-8d6e-1e811770730b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1e804517-dffa-44e6-8d6e-1e811770730b"></video>
 
 ## 4. 전경색과 배경색으로 레이어에 채우기
 전경색과 배경색을 클릭, 드래그해서 레이어 전체에 채우기를 할 수 있습니다.
@@ -78,7 +78,7 @@
 <a id="90-03-03-a6"></a>
 
 #### [영상 90.3.3.a6. 도구상자의 '전경색/배경색' - 전경색과 배경색으로 레이어 채우기](./90-03-03-foreground_color_n_background_color.md#90-03-03-a6)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fceb9e53-c2b5-4704-bf9b-b11c910472ec"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fceb9e53-c2b5-4704-bf9b-b11c910472ec"></video>
 
 ⚠️ 주의: 실제로는 레이어 채우기를 위해 클릭, 드래그를 할 경우, Windows 환경에서는 문제가 있습니다. 간헐적으로 채우기가 실패하는 경우가 있습니다. 위 영상에서도 그런 모습을 확인할 수 있습니다. 반면, Mac OSX에서는 문제없이 동작합니다.
 

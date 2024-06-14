@@ -49,7 +49,7 @@
 무작위로 색상이 결정되는 쓰레기 값을 가지고 있는 문제가 있습니다만, 이것은 아직 지우지 않아서 생기는 문제입니다. 다음 장에서 해결해보도록 합시다.
 
 #### 영상 13.3.5.2.a1. 작업한 스크립트 확인하기
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/6bb1b108-b563-43e1-8059-c3786faadf62"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/6bb1b108-b563-43e1-8059-c3786faadf62"></video>
 
 ***
 

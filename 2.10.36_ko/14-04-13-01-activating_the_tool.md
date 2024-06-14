@@ -12,7 +12,7 @@
 <a id="90-01-08-03-12-a101-01"></a>
 
 #### [영상 90.1.8.3.12.a101.1. `이미지 메뉴 바` → `도구` → `변형 도구` → `골조 변형` (Windows) (우리말)](./90-01-08-03-12-cage_transform.md#90-01-08-03-12-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5bd2d98a-a3b2-47e2-bf76-062968ccc687"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5bd2d98a-a3b2-47e2-bf76-062968ccc687"></video>
 
 <a id="14-04-13-01-s2"></a>
 
@@ -26,7 +26,7 @@
 <a id="90-03-02-20-a2-01"></a>
 
 #### [영상 90.3.2.20.a2.1. `도구상자` → `골조 변형` (Windows) (우리말)](./90-03-02-20-cage_transform.md#90-03-02-20-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7e142f63-8d83-4029-bac2-671128fbde3b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7e142f63-8d83-4029-bac2-671128fbde3b"></video>
 
 <a id="14-04-13-01-s3"></a>
 
@@ -35,7 +35,7 @@
 <a id="90-10-33-01-01-a1"></a>
 
 #### [영상 90.10.33.1.1.a1. `도구상자` → `골조 변형`: 키보드 단축키 Shift(⇧) + `G` (Windows) (우리말)](./90-10-33-01-01-shift_g.md#90-10-33-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5a9556c7-4e86-4818-8315-8ed9568c752d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5a9556c7-4e86-4818-8315-8ed9568c752d"></video>
 
 ***
 

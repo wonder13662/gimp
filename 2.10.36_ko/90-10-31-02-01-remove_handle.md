@@ -3,7 +3,7 @@
 <a id="90-10-31-02-01-a1"></a>
 
 #### 영상 90.10.31.2.1.a1. Ctrl(⌘): 핸들 제거
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9bf24667-1fb0-4dea-9b0a-be569a27ea81"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9bf24667-1fb0-4dea-9b0a-be569a27ea81"></video>
 
 [14.4.11.2. 동작 변경키(Key modifiers) - 영상 90.10.31.2.1.a1](./14-04-11-02-key_modifiers.md#90-10-31-02-01-a1)
 

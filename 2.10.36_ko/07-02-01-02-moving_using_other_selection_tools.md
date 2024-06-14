@@ -7,17 +7,17 @@
 <a id="90-03-02-05-a111"></a>
 
 #### [영상 90.3.2.5.a111. 자유 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Windows)](./90-03-02-05-free_select.md#90-03-02-05-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/04966e0f-0d99-45a0-8200-fb9ec5fc6eda"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/04966e0f-0d99-45a0-8200-fb9ec5fc6eda"></video>
 
 <a id="90-03-02-08-a112"></a>
 
 #### [영상 90.3.2.8.a112. 퍼지 선택 `핸들 모드`로 이미지 복사해서 옮기기 (Windows)](./90-03-02-08-fuzzy_select.md#90-03-02-08-a112)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dd0912b8-9201-4a49-9f9e-b641aba4fcf1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/dd0912b8-9201-4a49-9f9e-b641aba4fcf1"></video>
 
 <a id="90-03-02-09-a111"></a>
 
 #### [영상 90.3.2.9.a111. 색상으로 선택 `핸들 모드`로 이미지 떼어서 옮기기 (Windows)](./90-03-02-09-select_by_color.md#90-03-02-09-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/367cdb31-2dc2-4f6f-bb89-ccfc1d7d9501"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/367cdb31-2dc2-4f6f-bb89-ccfc1d7d9501"></video>
 
 ⚠️ 주의: [원문](https://docs.gimp.org/2.10/ko/gimp-using-selections.html#idm3974)에서는 키보드의 방향키로 선택 외곽선을 옮길 수 있다고 나와있으나, Windows, Mac 환경에서 동작하지 않습니다.
 

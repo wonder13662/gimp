@@ -11,7 +11,7 @@
 <a id="90-01-08-03-13-a101-01"></a>
 
 #### 영상 90.1.8.3.13.a101.1. `이미지 메뉴 바` → `도구` → `변형 도구` → `워프 변형` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f623785e-03a4-458a-bd61-3f73c55a4417"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f623785e-03a4-458a-bd61-3f73c55a4417"></video>
 
 [14.4.14.1. 도구 활성화하기(Activating the tools) - 영상 90.1.8.3.13.a101.1](./14-04-14-01-activating_the_tool.md#90-01-08-03-13-a101-01)
 

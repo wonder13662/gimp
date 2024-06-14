@@ -17,14 +17,14 @@
 <a id="90-05-03-a111"></a>
 
 #### [영상 90.5.3.a111. 메뉴 버튼 클릭해서 이미지 메뉴 열기](./90-05-03-menu_button.md#90-05-03-a111)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d31327e9-cd48-4dc0-80bb-065b94bf9921"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d31327e9-cd48-4dc0-80bb-065b94bf9921"></video>
 
 단축키 Shift(Windows) or ⇧(Mac) + `F10` 로 이미지 메뉴를 열 수 있습니다.
 
 <a id="90-05-03-a112"></a>
 
 #### [영상 90.5.3.a112. 단축키 Shift + F10(Windows) 또는 ⇧ + F10(Mac)로 이미지 메뉴 열기](./90-05-03-menu_button.md#90-05-03-a112)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ebb0cbca-751e-4d63-a43c-99a9437d5813"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ebb0cbca-751e-4d63-a43c-99a9437d5813"></video>
 
 ***
 

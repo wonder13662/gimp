@@ -31,14 +31,14 @@
 <a id="90-04-62-a111"></a>
 
 #### 영상 90.4.62.a111. `레이어 속성 편집` 대화상자에서 레이어의 이름 바꾸기 
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d5a4bc9d-fee8-4487-9682-c06bc495b71f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d5a4bc9d-fee8-4487-9682-c06bc495b71f"></video>
 
 [8.1.1.1. 이름(Name) - 영상 90.4.62.a111](./08-01-01-01-name.md#90-04-62-a111)
 
 <a id="90-04-62-a112"></a>
 
 #### 영상 90.4.62.a112. `레이어 속성 편집` 대화상자에서 레이어 그룹의 이름 바꾸기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/441d47e0-1b58-433f-bdb8-285814e411a7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/441d47e0-1b58-433f-bdb8-285814e411a7"></video>
 
 [8.5.1. 레이어 그룹 만들기(Create a Layer Group) - 영상 90.4.62.a112](./08-05-01-create_a_layer_group.md#90-04-62-a112)
 
@@ -52,7 +52,7 @@
 <a id="90-04-62-a121-01"></a>
 
 #### 영상 90.4.62.a121.1. `레이어 속성 편집` 대화상자 → `오프셋`: 레이어 옮기기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/96e03a40-3f0d-4d8d-b492-efffa4344266"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/96e03a40-3f0d-4d8d-b492-efffa4344266"></video>
 
 [14.4.3.3.1. 레이어 옮기기 - 영상 90.4.62.a121.1](./14-04-03-03-01-move_layer.md#90-04-62-a121-01)
 

@@ -5,7 +5,7 @@
 <a id="90-04-72-a135"></a>
 
 #### [영상 90.4.72.a135. `레벨` 대화상자 → `채널`의 빨강, 초록, 파랑 슬라이더 변경 (Windows) (우리말)](./90-04-72-level.md#90-04-72-a135)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0e88e5c4-e823-44b9-8e0e-fef725a627dd"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0e88e5c4-e823-44b9-8e0e-fef725a627dd"></video>
 
 ## 2. 보정 확인하기
 제대로 보정을 했는지 확신하기 어려운 때가 있습니다. 이럴 때는 흰색이나 회색 계열의 지점을 확인해봅니다. 도구상자에서 스포이드 모양의 [색상 추출(Color Picker)](./14-05-03-00-color-picker.md) 도구를 선택한 뒤, 흰색이나 회색 계열의 지점을 클릭하여 색상 추출 대화상자를 엽니다. 제대로 보정이 되었다면, 선택된 색상의 빨강, 녹색, 파랑의 각 성분이 동일할 것입니다. 만약 각 성분값이 같지 않다면 각 성분값이 동일하도록 다시 보정을 합니다.
@@ -25,7 +25,7 @@
 <a id="90-04-75-a102"></a>
 
 #### [영상 90.4.75.a102. `색상 추출` 대화상자 - 캔버스에 포함 (Windows) (우리말)](./90-04-75-color_picker.md#90-04-75-a102)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/65684fa9-aa57-4b6b-b68a-00a0bd858e2c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/65684fa9-aa57-4b6b-b68a-00a0bd858e2c"></video>
 
 ## 3. 색상/채도(Hue/Saturation) 도구
 만약 이미지가 변색되었다면 색상, 명도, 채도를 슬라이더로 조절할 수 있는 [색상/채도(Hue/Saturation)](./16-08-05-hue-saturation.md) 도구를 사용합니다. 
@@ -42,7 +42,7 @@
 <a id="90-04-76-a105"></a>
 
 #### [영상 90.4.76.a105. `색상-채도` 대화상자 (Windows) (우리말)](./90-04-76-hue_saturation.md#90-04-76-a105)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fc26c240-c08a-4606-a7d7-acdc3e63067f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fc26c240-c08a-4606-a7d7-acdc3e63067f"></video>
 
 반대로 빛이 너무 적은 상태로 사진을 찍었다면, 채도가 너무 높아져서 문제가 됩니다. 이럴 경우에는 [색상/채도(Hue/Saturation)](./16-08-05-hue-saturation.md) 도구를 이용해서 채도를 낮춰줍니다.
 

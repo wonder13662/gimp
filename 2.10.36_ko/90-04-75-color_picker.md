@@ -13,7 +13,7 @@
 <a id="90-04-75-a102"></a>
 
 #### 영상 90.4.75.a102. `색상 추출` 대화상자 - 캔버스에 포함 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/65684fa9-aa57-4b6b-b68a-00a0bd858e2c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/65684fa9-aa57-4b6b-b68a-00a0bd858e2c"></video>
 
 [10.1.3.3. 색조 및 채도 조정 - 영상 90.4.75.a102](./10-01-03-03-adjusting_hue_and_saturation.md#90-04-75-a102)
 

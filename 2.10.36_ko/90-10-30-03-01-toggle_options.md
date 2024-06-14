@@ -3,7 +3,7 @@
 <a id="90-10-30-03-01-a1"></a>
 
 #### 영상 90.10.30.3.1.a1. `도구 옵션` → `통합 변형` → `제한하기`, `피벗(스냅)`: Shift(⇧)로 전환하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/27894518-8673-4894-9310-311666f9c66b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/27894518-8673-4894-9310-311666f9c66b"></video>
 
 [14.4.10.2. 동작 변경키(Key modifiers) - 영상 90.10.30.3.1.a1](./14-04-10-02-key_modifiers.md#90-10-30-03-01-a1)
 

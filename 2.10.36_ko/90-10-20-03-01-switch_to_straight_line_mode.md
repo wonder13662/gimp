@@ -3,7 +3,7 @@
 <a id="90-10-20-03-01-a1"></a>
 
 #### 영상 90.10.20.3.1.a1. 칠하기 도구:`문지르기` - Shift(⇧) 키: 직선 모양으로 문지르기하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d3483071-5eb5-47f2-849c-aed52aab5321"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d3483071-5eb5-47f2-849c-aed52aab5321"></video>
 
 [14.3.16.2. 동작 변경키(Key modifiers) - 영상 90.10.20.3.1.a1](./14-03-16-02-key_modifiers.md#90-10-20-03-01-a1)
 

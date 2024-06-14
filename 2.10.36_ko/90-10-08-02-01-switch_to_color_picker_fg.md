@@ -3,7 +3,7 @@
 <a id="90-10-08-02-01-a1"></a>
 
 #### 영상 90.10.8.2.1.a1. 칠하기 도구:`영역 채우기` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(전경색)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4502c02b-fdf7-4ead-9486-bc1c8e9bd7b4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4502c02b-fdf7-4ead-9486-bc1c8e9bd7b4"></video>
 
 [14.3.4.2. 동작 변경키(Key modifiers) - 영상 90.10.8.2.1.a1](./14-03-04-02-key_modifiers.md#90-10-08-02-01-a1)
 

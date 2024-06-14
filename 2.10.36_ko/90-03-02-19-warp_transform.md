@@ -19,7 +19,7 @@
 <a id="90-03-02-19-a2-01"></a>
 
 #### 영상 90.3.2.19.a2.1. `도구상자` → `워프 변형` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/16be9763-7127-4e3d-8eb0-f79d9e1e5fa3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/16be9763-7127-4e3d-8eb0-f79d9e1e5fa3"></video>
 
 [14.4.14.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.19.a2.1](./14-04-14-01-activating_the_tool.md#90-03-02-19-a2-01)
 
@@ -47,7 +47,7 @@
 <a id="90-03-02-19-a11-01-01-01-01"></a>
 
 #### 영상 90.3.2.19.a11.1.1.1.1. `도구 옵션` → `워프 변형` → `워프 방식` → `픽셀 옮기기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4b9f46b8-2d97-47fd-abef-19c8dec69e86"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4b9f46b8-2d97-47fd-abef-19c8dec69e86"></video>
 
 [14.4.14.2.1. 워프 방식(Warping methods) - 영상 90.3.2.19.a11.1.1.1.1](./14-04-14-02-01-warping_methods.md#90-03-02-19-a11-01-01-01-01)
 
@@ -61,7 +61,7 @@
 <a id="90-03-02-19-a11-01-01-02-01"></a>
 
 #### 영상 90.3.2.19.a11.1.1.2.1. `도구 옵션` → `워프 변형` → `워프 방식` → `늘리기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f9e19e05-9087-43a5-80a0-15d77befc23c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f9e19e05-9087-43a5-80a0-15d77befc23c"></video>
 
 [14.4.14.2.1. 워프 방식(Warping methods) - 영상 90.3.2.19.a11.1.1.2.1](./14-04-14-02-01-warping_methods.md#90-03-02-19-a11-01-01-02-01)
 
@@ -75,7 +75,7 @@
 <a id="90-03-02-19-a11-01-01-03-01"></a>
 
 #### 영상 90.3.2.19.a11.1.1.3.1. `도구 옵션` → `워프 변형` → `워프 방식` → `줄이기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/20478e08-fa17-435d-9014-49ea4ab87df0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/20478e08-fa17-435d-9014-49ea4ab87df0"></video>
 
 [14.4.14.2.1. 워프 방식(Warping methods) - 영상 90.3.2.19.a11.1.1.3.1](./14-04-14-02-01-warping_methods.md#90-03-02-19-a11-01-01-03-01)
 
@@ -89,7 +89,7 @@
 <a id="90-03-02-19-a11-01-01-04-01"></a>
 
 #### 영상 90.3.2.19.a11.1.1.4.1. `도구 옵션` → `워프 변형` → `워프 방식` → `소용돌이-시계방향` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/da5992b5-0e72-447a-b36d-a5d745841ee1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/da5992b5-0e72-447a-b36d-a5d745841ee1"></video>
 
 [14.4.14.2.1. 워프 방식(Warping methods) - 영상 90.3.2.19.a11.1.1.4.1](./14-04-14-02-01-warping_methods.md#90-03-02-19-a11-01-01-04-01)
 
@@ -103,14 +103,14 @@
 <a id="90-03-02-19-a11-01-01-05-01"></a>
 
 #### 영상 90.3.2.19.a11.1.1.5.1. `도구 옵션` → `워프 변형` → `워프 방식` → `소용돌이-반시계방향` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ccf9b66d-2fd9-4845-a31e-0191c3881394"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ccf9b66d-2fd9-4845-a31e-0191c3881394"></video>
 
 [14.4.14.2.1. 워프 방식(Warping methods) - 영상 90.3.2.19.a11.1.1.5.1](./14-04-14-02-01-warping_methods.md#90-03-02-19-a11-01-01-05-01)
 
 <a id="90-03-02-19-a11-01-01-06-01"></a>
 
 #### 영상 90.3.2.19.a11.1.1.6.1. `도구 옵션` → `워프 변형` → `워프 방식` → `워프 지우기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a54d9221-4de2-4a27-9cb5-0fb6fa772334"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a54d9221-4de2-4a27-9cb5-0fb6fa772334"></video>
 
 [14.4.14.2.1. 워프 방식(Warping methods) - 영상 90.3.2.19.a11.1.1.6.1](./14-04-14-02-01-warping_methods.md#90-03-02-19-a11-01-01-06-01)
 
@@ -124,7 +124,7 @@
 <a id="90-03-02-19-a11-01-01-07-01"></a>
 
 #### 영상 90.3.2.19.a11.1.1.7.1. `도구 옵션` → `워프 변형` → `워프 방식` → `워프 부드럽게 하기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d3a4b8d9-6856-4749-b06d-dd74a7abc159"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d3a4b8d9-6856-4749-b06d-dd74a7abc159"></video>
 
 [14.4.14.2.1. 워프 방식(Warping methods) - 영상 90.3.2.19.a11.1.1.7.1](./14-04-14-02-01-warping_methods.md#90-03-02-19-a11-01-01-07-01)
 
@@ -145,7 +145,7 @@
 <a id="90-03-02-19-a11-02-01-01"></a>
 
 #### 영상 90.3.2.19.a11.2.1.1. `도구 옵션` → `워프 변형` → `크기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6ef7e251-bd4f-4338-b566-20beaa53273d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6ef7e251-bd4f-4338-b566-20beaa53273d"></video>
 
 [14.4.14.2.2. 크기, 경도, 강도, 여백 설정하기(Adapting Size, Hardness, Strength, Spacing) - 영상 90.3.2.19.a11.2.1.1](./14-04-14-02-02-adapting.md#90-03-02-19-a11-02-01-01)
 
@@ -159,7 +159,7 @@
 <a id="90-03-02-19-a11-02-02-01"></a>
 
 #### 영상 90.3.2.19.a11.2.2.1. `도구 옵션` → `워프 변형` → `경도` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/25e8f72a-7c64-4a6b-8da0-039d66b2aee4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/25e8f72a-7c64-4a6b-8da0-039d66b2aee4"></video>
 
 [14.4.14.2.2. 크기, 경도, 강도, 여백 설정하기(Adapting Size, Hardness, Strength, Spacing) - 영상 90.3.2.19.a11.2.2.1](./14-04-14-02-02-adapting.md#90-03-02-19-a11-02-02-01)
 
@@ -173,7 +173,7 @@
 <a id="90-03-02-19-a11-02-03-01"></a>
 
 #### 영상 90.3.2.19.a11.2.3.1. `도구 옵션` → `워프 변형` → `강도` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/28750eb2-4053-4a69-ab48-587476869cb8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/28750eb2-4053-4a69-ab48-587476869cb8"></video>
 
 [14.4.14.2.2. 크기, 경도, 강도, 여백 설정하기(Adapting Size, Hardness, Strength, Spacing) - 영상 90.3.2.19.a11.2.3.1](./14-04-14-02-02-adapting.md#90-03-02-19-a11-02-03-01)
 
@@ -187,7 +187,7 @@
 <a id="90-03-02-19-a11-02-04-01"></a>
 
 #### 영상 90.3.2.19.a11.2.4.1. `도구 옵션` → `워프 변형` → `여백` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d90089e2-e3d1-40f1-94ea-a5ed6d02f18f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d90089e2-e3d1-40f1-94ea-a5ed6d02f18f"></video>
 
 [14.4.14.2.2. 크기, 경도, 강도, 여백 설정하기(Adapting Size, Hardness, Strength, Spacing) - 영상 90.3.2.19.a11.2.4.1](./14-04-14-02-02-adapting.md#90-03-02-19-a11-02-04-01)
 
@@ -285,7 +285,7 @@
 <a id="90-03-02-19-a11-04-01"></a>
 
 #### 영상 90.3.2.19.a11.4.1. `도구 옵션` → `워프 변형` → `고화질 미리보기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b8f43a14-5a6a-4c26-b8f5-b69ba88378a9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b8f43a14-5a6a-4c26-b8f5-b69ba88378a9"></video>
 
 [14.4.14.2.5. 고화질 미리보기(High quality preview) - 영상 90.3.2.19.a11.4.1](./14-04-14-02-05-high_quality_preview.md#90-03-02-19-a11-04-01)
 
@@ -299,7 +299,7 @@
 <a id="90-03-02-19-a11-05-01"></a>
 
 #### 영상 90.3.2.19.a11.5.1. `도구 옵션` → `워프 변형` → `실시간 미리보기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d9c90dc6-4d89-415b-a01a-3b32a3592ae8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d9c90dc6-4d89-415b-a01a-3b32a3592ae8"></video>
 
 [14.4.14.2.6. 실시간 미리보기(Real-time preview) - 영상 90.3.2.19.a11.5.1](./14-04-14-02-06-real_time_preview.md#90-03-02-19-a11-05-01)
 
@@ -327,7 +327,7 @@
 <a id="90-03-02-19-a11-07-01"></a>
 
 #### 영상 90.3.2.19.a11.7.1. `도구 옵션` → `워프 변형` → `움직임 재생` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c610c267-ab37-4e64-b745-7f70ce0a1035"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c610c267-ab37-4e64-b745-7f70ce0a1035"></video>
 
 [14.4.14.2.8. 움직임 재생(Animate) - 영상 90.3.2.19.a11.7.1](./14-04-14-02-08-animate.md#90-03-02-19-a11-07-01)
 

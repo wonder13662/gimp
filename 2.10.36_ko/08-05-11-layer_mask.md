@@ -11,14 +11,14 @@ GIMP(김프) 2.10 이후로 레이어 그룹에 마스크를 쓸 수 있게 되�
 <a id="90-04-03-02-a191"></a>
 
 #### [영상 90.4.3.2.a191. 레이어 그룹의 경계가 줄어들어 레이어 그룹 마스크의 크기가 작아짐](./90-04-03-02-layer_group.md#90-04-03-02-a191)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bc97311e-27d2-4342-b28b-be81e1dfc6f2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bc97311e-27d2-4342-b28b-be81e1dfc6f2"></video>
 
 아래 영상에서 레이어 그룹에서 레이어를 넣을 때마다 레이어 그룹의 마스크의 크기가 커지는 것을 확인할 수 있습니다.
 
 <a id="90-04-03-02-a192"></a>
 
 #### [영상 90.4.3.2.a192. 레이어 그룹의 경계가 늘어나서 레이어 그룹 마스크의 크기가 커짐](./90-04-03-02-layer_group.md#90-04-03-02-a192)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dafb7205-1a89-4fe4-a0e0-719c42ee5cd9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/dafb7205-1a89-4fe4-a0e0-719c42ee5cd9"></video>
 
 ***
 

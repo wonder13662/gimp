@@ -20,7 +20,7 @@ Ctrl(⌘) 키는 복사할 원본을 선택할 때 사용합니다. 무늬(Patte
 <a id="90-10-16-02-01-a1"></a>
 
 #### [영상 90.10.16.2.1.a1. 칠하기 도구:`도장` - Ctrl(⌘) 키: 원본 선택](./90-10-16-02-01-select_the_source.md#90-10-16-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3a4df05f-fc8a-4736-a5cb-4161269c23fa"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3a4df05f-fc8a-4736-a5cb-4161269c23fa"></video>
 
 <a id="14-03-12-02-s2"></a>
 
@@ -30,7 +30,7 @@ Shift(⇧) 키를 누르면 `직선 모드(Straight line mode)`로 바뀝니다.
 <a id="90-10-16-03-01-a1"></a>
 
 #### [영상 90.10.16.3.1.a1. 칠하기 도구:`도장` - Shift(⇧) 키: 직선 그리기](./90-10-16-03-01-switch_to_straight_line_mode.md#90-10-16-03-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f47ef1e2-ff26-4671-8c7b-6440091aa6b3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f47ef1e2-ff26-4671-8c7b-6440091aa6b3"></video>
 
 ***
 

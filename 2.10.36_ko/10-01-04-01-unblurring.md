@@ -29,12 +29,12 @@
 <a id="90-04-77-a111"></a>
 
 #### [영상 90.4.77.a111. `선명하게 하기` 대화상자 → 슬라이더 `반경(Radius)` 조절 (Windows) (우리말)](./90-04-77-sharpen_unsharp_mask.md#90-04-77-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/46b1c757-8229-4592-8f3b-7983376a0420"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/46b1c757-8229-4592-8f3b-7983376a0420"></video>
 
 <a id="90-04-77-a112"></a>
 
 #### [영상 90.4.77.a112. `선명하게 하기` 대화상자 → 슬라이더 `양(Amount)` 조절 (Windows) (우리말)](./90-04-77-sharpen_unsharp_mask.md#90-04-77-a112)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6c3d191e-63ea-402a-bf42-a5e2c1436f5e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6c3d191e-63ea-402a-bf42-a5e2c1436f5e"></video>
 
 ## 2. 분해(Decompose) 및 구성(Compose)
 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `필터` → `보강` → `선명하게...`을 사용하면 이미지의 대조가 강한 경우에 때때로 색상 왜곡이 일어납니다. 색상 왜곡이 일어나면, 이미지를 HSV로 분해(Decompose)해서 색상(Hue)-채도(Saturation)-명도(Value) 레이어로 분리합니다.
@@ -49,12 +49,12 @@
 <a id="90-04-79-a111"></a>
 
 #### [영상 90.4.79.a111. `분해` 대화상자 → `HSV` (Windows) (우리말)](./90-04-79-decompose.md#90-04-79-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4982e199-8f77-4f22-91dc-521bf57be295"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4982e199-8f77-4f22-91dc-521bf57be295"></video>
 
 그리고 명도(Value) 레이어에만 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `필터` → `보강` → `선명하게...`를 적용합니다. 
 
 #### 영상 10.1.4.1.a101. 명도(Value) 레이어에 `선명하게` 적용
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/58e8ef4f-2186-425d-a2d5-fa3b56aa20de"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/58e8ef4f-2186-425d-a2d5-fa3b56aa20de"></video>
 
 그리고 다시 레이어들을 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `색` → `성분` → `구성...`을 적용해서 하나로 만듭니다.
 
@@ -68,7 +68,7 @@
 <a id="90-04-78-a105"></a>
 
 #### [영상 90.4.78.a105. `구성` 대화상자 → `HSV` (Windows) (우리말)](./90-04-78-compose.md#90-04-78-a105)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/43016a08-52b6-46ef-853b-4989f8e7ab40"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/43016a08-52b6-46ef-853b-4989f8e7ab40"></video>
 
 사람의 시각은 색상보다 명암에 대해 더 민감하므로 이 방법은 효과적입니다. 더 자세한 내용은 [16.8.27. 분해(Decompose)](./16-08-27-decompose.md)와 [16.8.26. 구성(Compose)](./16-08-26-compose.md)을 참고해주세요.
 
@@ -85,7 +85,7 @@
 <a id="90-03-02-33-a111"></a>
 
 #### [영상 90.3.2.33.a111. 흐릿하게/선명하게(Blur/Sharpen)로 이미지의 선명도 올리기](./90-03-02-33-blur_sharpen.md#90-03-02-33-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/82df94fb-425d-491a-a6e8-a997bb566094"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/82df94fb-425d-491a-a6e8-a997bb566094"></video>
 
 ***
 

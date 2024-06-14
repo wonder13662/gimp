@@ -6,7 +6,7 @@
 <a id="90-03-01-a201"></a>
 
 #### 영상 90.3.1.a201. `Show GIMP logo(drag-and-drop target)`로 도구상자에서 노출 제어하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9a8813c3-e223-422f-9436-a75ee551bbd3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9a8813c3-e223-422f-9436-a75ee551bbd3"></video>
 
 [3.2.1. 기본 도구상자(The toolbox) - 영상 90.3.1.a201](./03-02-01-the-toolbox.md#90-03-01-a201)
 
@@ -20,7 +20,7 @@
 <a id="90-03-01-a221"></a>
 
 #### 영상 90.3.1.a221. GIMP 로고에 이미지 드래그 앤 드랍으로 GIMP에서 이미지 열기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/246a2a2d-0d6e-4177-944a-ec4718341c12"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/246a2a2d-0d6e-4177-944a-ec4718341c12"></video>
 
 [3.2.1. 기본 도구상자(The toolbox) - 영상 90.3.1.a221](./03-02-01-the-toolbox.md#90-03-01-a221)
 

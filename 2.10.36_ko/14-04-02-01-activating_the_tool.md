@@ -14,7 +14,7 @@
 <a id="90-01-08-03-01-a101-01"></a>
 
 #### [영상 90.1.8.3.1.a101.1. `이미지 메뉴 바` → `도구` → `변형 도구` → `정렬` (Windows) (우리말)](./90-01-08-03-01-align.md#90-01-08-03-01-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ca6e544e-daa5-46cb-937f-f9c2b6e05bc6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ca6e544e-daa5-46cb-937f-f9c2b6e05bc6"></video>
 
 <a id="14-04-02-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-02-a2-01"></a>
 
 #### [영상 90.3.2.2.a2.1. `도구상자` → `정렬` (Windows) (우리말)](./90-03-02-02-alignment.md#90-03-02-02-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/519915a9-07d2-4e84-b081-3fb72613e54d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/519915a9-07d2-4e84-b081-3fb72613e54d"></video>
 
 <a id="14-04-02-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-22-01-01-a1"></a>
 
 #### [영상 90.10.22.1.1.a1. 변형 도구 `정렬` - 키보드 단축키 `Q`](./90-10-22-01-01-q.md#90-10-22-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ad250272-9937-411f-8ee0-a82c0209315c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ad250272-9937-411f-8ee0-a82c0209315c"></video>
 
 ***
 

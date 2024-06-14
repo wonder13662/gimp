@@ -12,7 +12,7 @@
 <a id="90-04-03-04-a21"></a>
 
 #### [영상 90.4.3.4.a21. 레이어 불투명도 0인 상태에서 붓 그리기](./90-04-03-04-opacity.md#90-04-03-04-a21)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3932b264-e15c-4bd4-af86-fd59bcd8b6ec"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3932b264-e15c-4bd4-af86-fd59bcd8b6ec"></video>
 
 불투명도 0인 상태에서 붓 그리기는 문제없이 성공합니다.
 
@@ -22,7 +22,7 @@
 <a id="90-04-03-04-a31"></a>
 
 #### [영상 90.4.3.4.a31. 레이어 불투명도 0에서 100으로 바꾸기](./90-04-03-04-opacity.md#90-04-03-04-a31)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cc78826d-d01b-42c9-bac9-d74b9554cef4"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cc78826d-d01b-42c9-bac9-d74b9554cef4"></video>
 
 ***
 

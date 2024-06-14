@@ -3,7 +3,7 @@
 <a id="90-10-12-03-01-a1"></a>
 
 #### 영상 90.10.12.3.1.a1. 칠하기 도구:`마이페인트 붓` - Shift(⇧) 키: 직선 그리기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e4abf7b4-98e3-4d0a-bbf5-1372fabaeccd"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e4abf7b4-98e3-4d0a-bbf5-1372fabaeccd"></video>
 
 [14.3.8.4. 동작 변경키(Key modifiers) - 영상 90.10.12.3.1.a1](./14-03-08-04-key_modifiers.md#90-10-12-03-01-a1)
 

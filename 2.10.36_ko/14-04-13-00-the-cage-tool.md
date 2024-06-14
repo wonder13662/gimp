@@ -12,7 +12,7 @@
 <a id="90-03-02-20-a2-01"></a>
 
 #### [영상 90.3.2.20.a2.1. `도구상자` → `골조 변형` (Windows) (우리말)](./90-03-02-20-cage_transform.md#90-03-02-20-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7e142f63-8d83-4029-bac2-671128fbde3b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7e142f63-8d83-4029-bac2-671128fbde3b"></video>
 
 ***
 

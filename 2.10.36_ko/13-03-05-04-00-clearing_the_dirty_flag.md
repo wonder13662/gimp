@@ -23,7 +23,7 @@
 아래 영상에서 작업한 결과를 확인하실 수 있습니다.
 
 #### 영상 13.3.5.4.a1. 작업한 스크립트 확인하기
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/fa4f4c1d-8b8f-4c2a-bb6e-bef6885a3913"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/fa4f4c1d-8b8f-4c2a-bb6e-bef6885a3913"></video>
 
 ***
 

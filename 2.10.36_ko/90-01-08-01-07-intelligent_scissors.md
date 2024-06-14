@@ -13,7 +13,7 @@
 <a id="90-01-08-01-07-a101-01"></a>
 
 #### 영상 90.1.8.1.7.a101.1. `도구` → `선택 도구` → `똑똑한 가위` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e75dfb27-2445-48ef-97e6-565df23a9192"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e75dfb27-2445-48ef-97e6-565df23a9192"></video>
 
 [14.2.7.1. 도구 활성화하기(Activating the tools) - 영상 90.1.8.1.7.a101.1](./14-02-07-01-activating_the_tool.md#90-01-08-01-07-a101-01)
 
@@ -25,7 +25,7 @@
 <a id="90-01-08-01-07-a103"></a>
 
 #### 영상 90.1.8.1.7.a103. 똑똑한 가위 선택 사용
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/207b3a3a-7d36-4e60-a49a-d9c3d9e23e86"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/207b3a3a-7d36-4e60-a49a-d9c3d9e23e86"></video>
 
 [3.4.10. 원하는 개체만 선택하여 분리하기 - 영상 90.1.8.1.7.a103](./03-04-10-separating-an-object-from-its-background.md#90-01-08-01-07-a103)
 

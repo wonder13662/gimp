@@ -8,7 +8,7 @@ Ctrl(⌘) 키를 누르고 있으면, `도구 옵션` → `통합 변형` → `F
 <a id="90-10-30-02-01-a1"></a>
 
 #### [영상 90.10.30.2.1.a1. `도구 옵션` → `통합 변형` → `From Pivot`: Ctrl(⌘)](./90-10-30-02-01-toggle_from_pivot.md#90-10-30-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e883596d-ecff-479f-8046-d112f1f5dc83"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e883596d-ecff-479f-8046-d112f1f5dc83"></video>
 
 <a id="14-04-10-02-s2"></a>
 
@@ -18,7 +18,7 @@ Shift(⇧) 키를 누르고 있으면, `도구 옵션` → `통합 변형` → `
 <a id="90-10-30-03-01-a1"></a>
 
 #### [영상 90.10.30.3.1.a1. `도구 옵션` → `통합 변형` → `제한하기`, `피벗(스냅)`: Shift(⇧)로 전환하기](./90-10-30-03-01-toggle_options.md#90-10-30-03-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/27894518-8673-4894-9310-311666f9c66b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/27894518-8673-4894-9310-311666f9c66b"></video>
 
 ***
 

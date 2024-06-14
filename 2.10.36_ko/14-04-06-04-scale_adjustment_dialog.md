@@ -19,7 +19,7 @@
 <a id="90-04-112-a101-01-01"></a>
 
 #### [영상 90.4.112.a101.1.1. `크기 조정` 대화상자 → `너비/높이` (Windows) (우리말)](./90-04-112-scale_adjustment.md#90-04-112-a101-01-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6a97a85a-6d4f-4adf-ab82-4c7741e38976"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6a97a85a-6d4f-4adf-ab82-4c7741e38976"></video>
 
 ## 2. 초기화 버튼(Reset button)
 
@@ -33,7 +33,7 @@
 <a id="90-04-112-a101-02-01"></a>
 
 #### [영상 90.4.112.a101.2.1. `크기 조정` 대화상자 → `초기화` 버튼 (Windows) (우리말)](./90-04-112-scale_adjustment.md#90-04-112-a101-02-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cd3cc962-b554-4bac-b6de-4b71195afcbd"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/cd3cc962-b554-4bac-b6de-4b71195afcbd"></video>
 
 ## 3. 재조정 버튼(Readjust button)
 
@@ -47,7 +47,7 @@
 <a id="90-04-112-a101-03-01"></a>
 
 #### [영상 90.4.112.a101.3.1. `크기 조정` 대화상자 → `재조정` 버튼 (Windows) (우리말)](./90-04-112-scale_adjustment.md#90-04-112-a101-03-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/efe7613a-79e7-4fcc-8b1f-a861670c7e7a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/efe7613a-79e7-4fcc-8b1f-a861670c7e7a"></video>
 
 ***
 

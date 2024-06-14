@@ -13,7 +13,7 @@
 아래 영상에서 위 과정을 확인할 수 있습니다.
 
 #### 영상 10.1.3.2.5.a1 레이어 모드 - 나누기(Divide) 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2c38210f-9819-448f-a8c4-245b0fbe03c6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2c38210f-9819-448f-a8c4-245b0fbe03c6"></video>
 
 ***
 

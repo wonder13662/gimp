@@ -9,7 +9,7 @@ Shift(⇧) 키를 누르면 `직선 모드(Straight line mode)`로 바뀝니다.
 <a id="90-10-20-03-01-a1"></a>
 
 #### [영상 90.10.20.3.1.a1. 칠하기 도구:`문지르기` - Shift(⇧) 키: 직선 모양으로 문지르기하기](./90-10-20-03-01-switch_to_straight_line_mode.md#90-10-20-03-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d3483071-5eb5-47f2-849c-aed52aab5321"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d3483071-5eb5-47f2-849c-aed52aab5321"></video>
 
 <a id="14-03-16-02-s2"></a>
 
@@ -19,7 +19,7 @@ Ctrl(⌘) + Shift(⇧) 키를 누르고 있으면 `직선 모드(Straight line m
 <a id="90-10-20-02-01-a1"></a>
 
 #### [영상 90.10.20.2.1.a1. 칠하기 도구:`문지르기` - Ctrl(⌘) + Shift(⇧) 키: 각도 제한하기](./90-10-20-02-01-constrain_angle.md#90-10-20-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/462fddf1-76e6-455d-9e45-ba5c42620bed"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/462fddf1-76e6-455d-9e45-ba5c42620bed"></video>
 
 ***
 

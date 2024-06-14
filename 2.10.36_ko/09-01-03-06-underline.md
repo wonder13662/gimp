@@ -9,7 +9,7 @@
 <a id="90-04-67-a134"></a>
 
 #### [영상 90.4.67.a134. `텍스트 도구상자` 대화상자 - 선택한 텍스트의 밑줄(Underline)](./90-04-67-text_toolbox.md#90-04-67-a134)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4fd573cc-5c08-403c-a8a0-41384b1f25ce"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4fd573cc-5c08-403c-a8a0-41384b1f25ce"></video>
 
 ***
 

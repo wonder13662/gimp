@@ -20,7 +20,7 @@
 <a id="90-04-81-a112"></a>
 
 #### 영상 90.4.81.a112. `잡티 없애기` 대화상자 - 손상된 사진 스캔 이미지를 부드럽게 고치기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cf7c7c55-b386-4577-a2c3-c9f8eb9a7e29"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/cf7c7c55-b386-4577-a2c3-c9f8eb9a7e29"></video>
 
 이미지 전체에 [잡티 없애기(Despeckling)](./17-04-09-despeckle.md) 필터를 적용시키면 좋은 결과를 얻기 어렵습니다.
 

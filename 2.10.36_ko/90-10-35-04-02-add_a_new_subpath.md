@@ -3,7 +3,7 @@
 <a id="90-10-35-04-02-a1"></a>
 
 #### 영상 90.10.35.4.2.a1. Shift(⇧): 하위 경로 추가하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ca8ef676-4d55-4ff0-ab72-5ae387e98217"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ca8ef676-4d55-4ff0-ab72-5ae387e98217"></video>
 
 [14.5.2.3.1. 편집 모드 - 디자인(Design Mode) - 영상 90.10.35.4.2.a1](./14-05-02-03-01-design_mode.md#90-10-35-04-02-a1)
 

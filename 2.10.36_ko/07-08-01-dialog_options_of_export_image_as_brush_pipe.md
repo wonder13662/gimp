@@ -103,7 +103,7 @@ GIMP(김프)에서는 최대 4개의 차원까지 가질 수 있습니다. 차�
 아래 영상을 확인해보시면, 마우스 포인터를 드래그하는 각도에 따라 손 이미지의 회전이 달라지는 것을 확인할 수 있습니다.
 
 #### 영상 7.8.2.2.a118. 새로운 붓으로 칠하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ef3a8c7e-fe12-47ee-9b91-dbe9e6fe3b11"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ef3a8c7e-fe12-47ee-9b91-dbe9e6fe3b11"></video>
 
 관련 내용은 [7.8.2.2. 3차원 이미지 호스(A three dimension image hose)](./07-08-02-02-three_dimension_image_hose.md)을 확인해주세요.
 

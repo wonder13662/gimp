@@ -3,7 +3,7 @@
 <a id="90-10-24-03-01-a1"></a>
 
 #### 영상 90.10.24.3.1.a1. 변형 도구 `잘라내기`: Shift(⇧) - `도구 옵션` → `잘라내기` → `고정` 켜기/끄기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5a131a9e-5ee6-41b2-a04b-2bfd18046b90"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5a131a9e-5ee6-41b2-a04b-2bfd18046b90"></video>
 
 [14.4.4.2. 동작 변경키(Key modifiers) - 영상 90.10.24.3.1.a1](./14-04-04-02-key_modifiers.md#90-10-24-03-01-a1)
 

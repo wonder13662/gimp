@@ -3,7 +3,7 @@
 <a id="90-10-13-02-01-a1"></a>
 
 #### 영상 90.10.13.2.1.a1. 칠하기 도구:`지우개` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(배경색)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b66b1814-5327-49a3-a09f-d97e2933cee7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b66b1814-5327-49a3-a09f-d97e2933cee7"></video>
 
 [14.3.9.2. 동작 변경키(Key modifiers) - 영상 90.10.13.2.1.a1](./14-03-09-02-key_modifiers.md#90-10-13-02-01-a1)
 

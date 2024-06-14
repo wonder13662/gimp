@@ -12,7 +12,7 @@
 <a id="90-01-02-20-a102"></a>
 
 #### [그림 90.1.2.20.a102. `편집` → `경로 따라 그리기`로 선 그리기](./90-01-02-20-stroke_path.md#90-01-02-20-a102)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4248aea3-b002-4970-9f06-1c9b00c961eb"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4248aea3-b002-4970-9f06-1c9b00c961eb"></video>
 
 ## 경로 대화상자의 팝업 메뉴 - `경로 따라 그리기`
 [경로 대화상자](./15-02-03-paths-dialog.md)에서 오른쪽 클릭을 해서 나오는 팝업 메뉴에서 `경로 따라 그리기`를 선택합니다.
@@ -25,7 +25,7 @@
 <a id="90-04-05-a2202"></a>
 
 #### [영상 90.4.5.a2202. 경로 대화상자의 오른쪽 클릭시 팝업 메뉴 - `경로 따라 그리기`로 선 그리기](./90-04-05-paths.md#90-04-05-a2202)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/205b1bc1-955d-4a5e-a678-ce17ece4c4df"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/205b1bc1-955d-4a5e-a678-ce17ece4c4df"></video>
 
 ## 경로 도구옵션 대화상자의 `경로 따라 그리기`
 경로 도구 옵션 대화상자의 `경로 따라 그리기` 버튼을 클릭합니다.
@@ -38,7 +38,7 @@
 <a id="90-04-01-35-a103"></a>
 
 #### [영상 90.4.1.35.a103. 경로 도구옵션 - `경로 따라 그리기`로 선 그리기](./90-04-01-35-paths.md#90-04-01-35-a103)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ebad5fdc-7c60-47b8-bc42-9e3ed00ec004"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ebad5fdc-7c60-47b8-bc42-9e3ed00ec004"></video>
 
 ## `경로 따라 그리기` 대화상자
 "경로 따라 그리기"를 선택하면 선을 따라 그리는 방법을 조정할 수 있는 대화상자가 뜹니다. 다양한 선 종류를 선택할 수 있고, 도장, 문지르기, 지우개 등도 선택할 수 있습니다.

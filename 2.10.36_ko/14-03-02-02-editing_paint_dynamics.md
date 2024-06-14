@@ -26,7 +26,7 @@
 <a id="90-04-110-a111-01"></a>
 
 #### [그림 90.4.110.a111.1. `페인트 동적 요소 편집기` 대화상자: 동적 요소 프리셋 수정 (Windows) (우리말)](./90-04-110-paint_dynamic_editor.md#90-04-110-a111-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c0ffe35a-dcae-48f9-84b9-ac62f6e54366"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c0ffe35a-dcae-48f9-84b9-ac62f6e54366"></video>
 
 ## 3. `페인트 동적 요소 편집기` 대화상자에서 기본 설치된 동적 요소 프리셋 수정불가
 기본 설치된 동적 요소는 비활성화 상태여서 설정을 고칠 수 없습니다.
@@ -34,7 +34,7 @@
 <a id="90-04-110-a111-02"></a>
 
 #### [그림 90.4.110.a111.2. `페인트 동적 요소 편집기` 대화상자: 기본 설치된 동적 요소 프리셋 수정불가 (Windows) (우리말)](./90-04-110-paint_dynamic_editor.md#90-04-110-a111-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/80c810a1-7ed3-4074-92e4-be3217a09b31"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/80c810a1-7ed3-4074-92e4-be3217a09b31"></video>
 
 기본 설치된 동적 요소를 복사해서 복사본의 설정을 고치거나, 새로운 동적 요소를 만들어야 합니다.
 

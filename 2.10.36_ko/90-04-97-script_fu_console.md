@@ -24,42 +24,42 @@
 <a id="90-04-97-a110"></a>
 
 #### 영상 90.4.97.a110. `필터` → `Script-Fu` → `콘솔` 메뉴로 `Script-Fu` 콘솔 창 열기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8280c21f-edca-4504-931b-a4aa31418611"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8280c21f-edca-4504-931b-a4aa31418611"></video>
 
 [13.3.1.3. Scheme 연습하기(Practicing In Scheme) - 영상 90.4.97.a110](./13-03-01-03-practicing_in_scheme.md#90-04-97-a110)
 
 <a id="90-04-97-a111"></a>
 
 #### 영상 90.4.97.a111. 계산 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7bde698b-3c08-4f7e-9872-e4ae0968a5e2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7bde698b-3c08-4f7e-9872-e4ae0968a5e2"></video>
 
 [13.3.1.4. Script-Fu 콘솔 출력 창(Script-Fu Console Window) - 영상 90.4.97.a111](./13-03-01-04-script_fu_console_window.md#90-04-97-a111)
 
 <a id="90-04-97-a112"></a>
 
 #### 영상 90.4.97.a112. 계산 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c24a6051-d69c-49d8-ba99-a9681f64e80b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c24a6051-d69c-49d8-ba99-a9681f64e80b"></video>
 
 [13.3.1.4. Script-Fu 콘솔 출력 창(Script-Fu Console Window) - 영상 90.4.97.a112](./13-03-01-04-script_fu_console_window.md#90-04-97-a112)
 
 <a id="90-04-97-a121"></a>
 
 #### 영상 90.4.97.a121. `Scheme`에서 잘못된 중첩 괄호 사용
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/51c2e727-9414-4462-b6be-cc5e1bd9aabe"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/51c2e727-9414-4462-b6be-cc5e1bd9aabe"></video>
 
 [13.3.1.5. 추가적인 괄호를 주의하세요(Watch Out For Extra Parentheses) - 영상 90.4.97.a121](./13-03-01-05-watch_out_for_extra_parentheses.md#90-04-97-a121)
 
 <a id="90-04-97-a122"></a>
 
 #### 영상 90.4.97.a122. `Scheme`에서 올바른 중첩 괄호 사용
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a85d47ee-e6aa-4878-8263-ff1a7fe296f6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a85d47ee-e6aa-4878-8263-ff1a7fe296f6"></video>
 
 [13.3.1.5. 추가적인 괄호를 주의하세요(Watch Out For Extra Parentheses) - 영상 90.4.97.a122](./13-03-01-05-watch_out_for_extra_parentheses.md#90-04-97-a122)
 
 <a id="90-04-97-a131"></a>
 
 #### 영상 90.4.97.a131. `Scheme`에서 연산자와 인수 사이에 공백이 있는 경우와 없는 경우
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d21e7c38-0d19-4c53-842d-7859d45544d6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d21e7c38-0d19-4c53-842d-7859d45544d6"></video>
 
 [13.3.1.6. 꼭 적절한 여백을 두세요(Make Sure You Have The Proper Spacing, Too) - 영상 90.4.97.a131](./13-03-01-06-make_sure_you_have_the_proper_spacing.md#90-04-97-a131)
 

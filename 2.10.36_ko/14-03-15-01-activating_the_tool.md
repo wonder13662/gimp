@@ -14,7 +14,7 @@
 <a id="90-01-08-02-12-a101-01"></a>
 
 #### [영상 90.1.8.2.12.a101.1. `이미지 메뉴 바` → `도구` → `칠하기 도구` → `흐릿하게/선명하게` (Windows) (우리말)](./90-01-08-02-12-blur_sharpen.md#90-01-08-02-12-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a77a6f76-a747-453b-ae64-bfdea77724d8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a77a6f76-a747-453b-ae64-bfdea77724d8"></video>
 
 <a id="14-03-15-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-33-a2-01"></a>
 
 #### [그림 90.3.2.33.a2.1. `도구상자` → `흐릿하게/선명하게` (Windows) (우리말)](./90-03-02-33-blur_sharpen.md#90-03-02-33-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c8307913-5593-446e-bc1a-3cb8a573bdb5"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c8307913-5593-446e-bc1a-3cb8a573bdb5"></video>
 
 <a id="14-03-15-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-19-01-01-a1"></a>
 
 #### [영상 90.10.19.1.1.a1. `흐릿하게/선명하게` 도구 - 키보드 단축키 Shift(⇧) + `U`](./90-10-19-01-01-shift_u.md#90-10-19-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/20e998b1-7ae1-4c63-8d9b-c73df75fab5c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/20e998b1-7ae1-4c63-8d9b-c73df75fab5c"></video>
 
 ***
 

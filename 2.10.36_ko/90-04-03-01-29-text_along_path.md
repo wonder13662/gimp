@@ -10,7 +10,7 @@
 <a id="90-04-03-01-29-a102"></a>
 
 #### 영상 90.4.3.1.29.a102. `컨텍스트 메뉴` → `경로따라 텍스트`
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e7a01554-cc39-43cb-af91-8d35bfe0e5b1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e7a01554-cc39-43cb-af91-8d35bfe0e5b1"></video>
 
 [9.1.4.8. 경로따라 텍스트(Text along Path) - 영상 90.4.3.1.29.a102](./09-01-04-08-text_along_path.md#90-04-03-01-29-a102)
 

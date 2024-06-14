@@ -12,7 +12,7 @@
 ![13-04-10-a103-dialog](https://github.com/wonder13662/gimp/assets/15767104/7a6dd6d9-ea63-4b01-a057-e1909f31457f)
 
 #### 영상 13.4.10.a104. 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/465f7e51-24f9-4463-bf69-b59d25c08788"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/465f7e51-24f9-4463-bf69-b59d25c08788"></video>
 
 ## 2. `필터` → `알파를 로고로` → `Neon Logo...`
 
@@ -29,7 +29,7 @@
 ![13-04-10-a114-dialog](https://github.com/wonder13662/gimp/assets/15767104/bb1110f0-c025-47a3-9d42-ab19b4142561)
 
 #### 영상 13.4.10.a115. 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f66bb6a2-4112-4fde-9027-4e22796623e9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f66bb6a2-4112-4fde-9027-4e22796623e9"></video>
 
 ## 3. 스크립트
 [neon-logo.scm.zip](https://github.com/wonder13662/gimp/files/14737234/neon-logo.scm.zip)

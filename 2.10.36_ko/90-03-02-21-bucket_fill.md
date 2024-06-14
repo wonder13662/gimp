@@ -23,14 +23,14 @@
 <a id="90-03-02-21-a3"></a>
 
 #### 영상 90.3.2.21.a3. `도구상자` → `영역 채우기`: 색상 지우기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/57683b6c-4c5f-4637-b22e-4c3582fbf8d2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/57683b6c-4c5f-4637-b22e-4c3582fbf8d2"></video>
 
 [7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.3.2.21.a3](./07-01-02-making_a_selection_partially_transparent.md#90-03-02-21-a3)
 
 <a id="90-03-02-21-a4"></a>
 
 #### 영상 90.3.2.21.a4. `도구상자` → `영역 채우기`: 기본 동작
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e353c60f-3ce9-4b01-b3d8-f366c65f3d8b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e353c60f-3ce9-4b01-b3d8-f366c65f3d8b"></video>
 
 [14.3.4.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.21.a4](./14-03-04-01-activating_the_tool.md#90-03-02-21-a4)
 
@@ -46,42 +46,42 @@
 <a id="90-03-02-21-a5-01-01"></a>
 
 #### 영상 90.3.2.21.a5.1.1. `도구 옵션` → `영역 채우기` → `영향을 받는 영역` → `전체 선택영역 채우기`: 레이어 클릭 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b0828883-7f5d-4971-b905-3016b11cc72c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b0828883-7f5d-4971-b905-3016b11cc72c"></video>
 
 [14.3.4.3.4. 영향을 받는 영역(Affected Area) - 그림 90.3.2.21.a5.1.1](./14-03-04-03-04-00-affected_area.md#90-03-02-21-a5-01-01)
 
 <a id="90-03-02-21-a5-01-02"></a>
 
 #### 영상 90.3.2.21.a5.1.2. `도구 옵션` → `영역 채우기` → `영향을 받는 영역` → `전체 선택영역 채우기`: 전경색을 클릭, 드래그 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/179610c9-14fc-4326-8f1f-d521f7507c82"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/179610c9-14fc-4326-8f1f-d521f7507c82"></video>
 
 [14.3.4.3.4. 영향을 받는 영역(Affected Area) - 그림 90.3.2.21.a5.1.2](./14-03-04-03-04-00-affected_area.md#90-03-02-21-a5-01-02)
 
 <a id="90-03-02-21-a5-01-03"></a>
 
 #### 영상 90.3.2.21.a5.1.3. `도구 옵션` → `영역 채우기` → `영향을 받는 영역` → `전체 선택영역 채우기`: 배경색을 클릭, 드래그 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/90c86143-3b38-4303-9307-352bc1381f0d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/90c86143-3b38-4303-9307-352bc1381f0d"></video>
 
 [14.3.4.3.4. 영향을 받는 영역(Affected Area) - 그림 90.3.2.21.a5.1.3](./14-03-04-03-04-00-affected_area.md#90-03-02-21-a5-01-03)
 
 <a id="90-03-02-21-a5-01-04"></a>
 
 #### 영상 90.3.2.21.a5.1.4. `도구 옵션` → `영역 채우기` → `영향을 받는 영역` → `전체 선택영역 채우기`: 무늬를 클릭, 드래그 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6209ba5d-3167-4c61-a7c9-040c57cf23ba"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6209ba5d-3167-4c61-a7c9-040c57cf23ba"></video>
 
 [14.3.4.3.4. 영향을 받는 영역(Affected Area) - 그림 90.3.2.21.a5.1.4](./14-03-04-03-04-00-affected_area.md#90-03-02-21-a5-01-04)
 
 <a id="90-03-02-21-a5-02-01"></a>
 
 #### 영상 90.3.2.21.a5.2.1. `도구 옵션` → `영역 채우기` → `영향을 받는 영역` → `비슷한 색상 채우기`: 레이어 클릭 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1fbc0e02-77f1-40b7-bea8-7dffd6b14da4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1fbc0e02-77f1-40b7-bea8-7dffd6b14da4"></video>
 
 [14.3.4.3.4. 영향을 받는 영역(Affected Area) - 그림 90.3.2.21.a5.2.1](./14-03-04-03-04-00-affected_area.md#90-03-02-21-a5-02-01)
 
 <a id="90-03-02-21-a5-03-01"></a>
 
 #### 영상 90.3.2.21.a5.3.1. `도구 옵션` → `영역 채우기` → `영향을 받는 영역` → `검출된 외곽선에 채우기`: 레이어 클릭 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9e047014-0ab5-4851-8ed4-04287e5380cf"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9e047014-0ab5-4851-8ed4-04287e5380cf"></video>
 
 [14.3.4.3.4. 영향을 받는 영역(Affected Area) - 영상 90.3.2.21.a5.3.1](./14-03-04-03-04-00-affected_area.md#90-03-02-21-a5-03-01)
 
@@ -97,21 +97,21 @@
 <a id="90-03-02-21-a6-01"></a>
 
 #### 영상 90.3.2.21.a6.1. `도구 옵션` → `영역 채우기` → `채우기 유형` → `전경색으로 채우기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/726ed0c3-99b3-4be1-8455-b38b778aadfd"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/726ed0c3-99b3-4be1-8455-b38b778aadfd"></video>
 
 [14.3.4.3.3. 채우기 유형(Fill Type) - 영상 90.3.2.21.a6.1](./14-03-04-03-03-fill_type.md#90-03-02-21-a6-01)
 
 <a id="90-03-02-21-a6-02"></a>
 
 #### 영상 90.3.2.21.a6.2. `도구 옵션` → `영역 채우기` → `채우기 유형` → `배경색으로 채우기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/603914d0-4ae1-44d5-ba57-fd11d1f73150"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/603914d0-4ae1-44d5-ba57-fd11d1f73150"></video>
 
 [14.3.4.3.3. 채우기 유형(Fill Type) - 영상 90.3.2.21.a6.2](./14-03-04-03-03-fill_type.md#90-03-02-21-a6-02)
 
 <a id="90-03-02-21-a6-03"></a>
 
 #### 영상 90.3.2.21.a6.3. `도구 옵션` → `영역 채우기` → `채우기 유형` → `무늬로 채우기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cb4d0768-10ab-49b0-bfab-e4c2b0b73ba3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/cb4d0768-10ab-49b0-bfab-e4c2b0b73ba3"></video>
 
 [14.3.4.3.3. 채우기 유형(Fill Type) - 영상 90.3.2.21.a6.3](./14-03-04-03-03-fill_type.md#90-03-02-21-a6-03)
 
@@ -125,7 +125,7 @@
 <a id="90-03-02-21-a6-03-02"></a>
 
 #### 영상 90.3.2.21.a6.3.2. `도구 옵션` → `영역 채우기` → `채우기 유형` → `무늬로 채우기` → `무늬 목록`: 목록의 보기 형식 바꾸기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/823a5e3f-27dc-47db-bbe9-84495eca30c7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/823a5e3f-27dc-47db-bbe9-84495eca30c7"></video>
 
 [14.3.4.3.3. 채우기 유형(Fill Type) - 영상 90.3.2.21.a6.3.2](./14-03-04-03-03-fill_type.md#90-03-02-21-a6-03-02)
 
@@ -146,21 +146,21 @@
 <a id="90-03-02-21-a7-02"></a>
 
 #### 영상 90.3.2.21.a7.2. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `투명한 영역 채우기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0682e1d2-4c0f-4dee-8a17-c63a87b96335"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0682e1d2-4c0f-4dee-8a17-c63a87b96335"></video>
 
 [14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 영상 90.3.2.21.a7.2](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-02)
 
 <a id="90-03-02-21-a7-03"></a>
 
 #### 영상 90.3.2.21.a7.3. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `표본 합치기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ba7b1866-e94c-4103-b326-2e7fd2a05d1a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ba7b1866-e94c-4103-b326-2e7fd2a05d1a"></video>
 
 [14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 영상 90.3.2.21.a7.3](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-03)
 
 <a id="90-03-02-21-a7-04"></a>
 
 #### 영상 90.3.2.21.a7.4. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `임계값` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/93b8f414-8d4c-4991-97a8-72cf32de23d4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/93b8f414-8d4c-4991-97a8-72cf32de23d4"></video>
 
 [14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 영상 90.3.2.21.a7.4](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-04)
 
@@ -181,7 +181,7 @@
 <a id="90-03-02-21-a7-06-02"></a>
 
 #### 영상 90.3.2.21.a7.6.2. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 합성 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/47f3d853-c6d1-4304-b39a-4039a8187666"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/47f3d853-c6d1-4304-b39a-4039a8187666"></video>
 
 [14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 영상 90.3.2.21.a7.6.2](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-06-02)
 
@@ -195,7 +195,7 @@
 <a id="90-03-02-21-a7-07-02"></a>
 
 #### 영상 90.3.2.21.a7.7.2. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 빨강(Red) - 빨간 영역 클릭 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8955e875-e77f-47e3-879b-788aa738d612"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8955e875-e77f-47e3-879b-788aa738d612"></video>
 
 [14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 영상 90.3.2.21.a7.7.2](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-07-02)
 
@@ -209,7 +209,7 @@
 <a id="90-03-02-21-a7-08-02"></a>
 
 #### 영상 90.3.2.21.a7.8.2. `도구 옵션` → `영역 채우기` → `색상이 비슷한 영역 찾기` → `다른 방식으로 채우기`: 빨강(Red) - 녹색 영역 클릭 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1f89b13d-f543-4756-ba80-ca5b118328b9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1f89b13d-f543-4756-ba80-ca5b118328b9"></video>
 
 [14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors) - 영상 90.3.2.21.a7.8.2](./14-03-04-03-05-finding_similar_colors.md#90-03-02-21-a7-08-02)
 
@@ -237,7 +237,7 @@
 <a id="90-03-02-21-a8-04"></a>
 
 #### 영상 90.3.2.21.a8.4. `도구 옵션` → `영역 채우기` → `선화 감지` → `투명한 영역 채우기` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a19dd719-63fb-404e-bad5-6eedd16b09d6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a19dd719-63fb-404e-bad5-6eedd16b09d6"></video>
 
 [14.3.4.3.6. 선화 감지 옵션("Line Art Detection" option) - 영상 90.3.2.21.a8.4](./14-03-04-03-06-line_art_detection_options.md#90-03-02-21-a8-04)
 
@@ -307,7 +307,7 @@
 <a id="90-03-02-21-a9"></a>
 
 #### 그림 90.3.2.21.a9. 흐릿한 경계가 있는 선택 채우기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2faa8116-2fd6-479c-9904-380b686ace54"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2faa8116-2fd6-479c-9904-380b686ace54"></video>
 
 [14.3.4.4. 흐릿한 경계가 있는 선택 채우기(Fill a feathered selection) - 그림 90.3.2.21.a9](./14-03-04-04-fill_a_feathered_selection.md#90-03-02-21-a9)
 

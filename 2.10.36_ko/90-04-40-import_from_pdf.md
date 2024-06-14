@@ -22,7 +22,7 @@
 <a id="90-04-40-a105"></a>
 
 #### 영상 90.4.40.a105. `PDF 가져오기` 대화상자 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5fb81830-f54c-4cb4-a143-9b151997452e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5fb81830-f54c-4cb4-a143-9b151997452e"></video>
 
 [5.3.1.1. PDF 불러오기 - 영상 90.4.40.a105](./05-03-01-01-import_from_pdf.md#90-04-40-a105)
 
@@ -36,7 +36,7 @@
 <a id="90-04-40-a112"></a>
 
 #### 영상 90.4.40.a112. `PDF 가져오기` 대화상자 - `페이지 선택`의 `범위 선택`으로 페이지 선택하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5b353e1e-80e1-475f-8d24-4a1df1b17a93"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5b353e1e-80e1-475f-8d24-4a1df1b17a93"></video>
 
 [5.3.1.1. PDF 불러오기 - 영상 90.4.40.a112](./05-03-01-01-import_from_pdf.md#90-04-40-a112)
 
@@ -50,14 +50,14 @@
 <a id="90-04-40-a122"></a>
 
 #### 영상 90.4.40.a122. `PDF 가져오기` 대화상자 - `페이지 열기`에서 `레이어` 선택 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3ee9b4f0-0076-4921-a675-6070f288cd5d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3ee9b4f0-0076-4921-a675-6070f288cd5d"></video>
 
 [5.3.1.1. PDF 불러오기 - 영상 90.4.40.a122](./05-03-01-01-import_from_pdf.md#90-04-40-a122)
 
 <a id="90-04-40-a123"></a>
 
 #### 영상 90.4.40.a123. `PDF 가져오기` 대화상자 - `페이지 열기`에서 `이미지` 선택 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/11b5a9f2-a498-4797-91ae-ff1b264d3a14"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/11b5a9f2-a498-4797-91ae-ff1b264d3a14"></video>
 
 [5.3.1.1. PDF 불러오기 - 영상 90.4.40.a123](./05-03-01-01-import_from_pdf.md#90-04-40-a123)
 
@@ -78,7 +78,7 @@
 <a id="90-04-40-a142"></a>
 
 #### 영상 90.4.40.a142. `PDF 가져오기` 대화상자 - `안티-앨리어싱 사용` 체크박스 토글 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1c0123c7-d8fb-4b3b-829f-1287ab389fa7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1c0123c7-d8fb-4b3b-829f-1287ab389fa7"></video>
 
 [5.3.1.1. PDF 불러오기 - 영상 90.4.40.a142](./05-03-01-01-import_from_pdf.md#90-04-40-a142)
 

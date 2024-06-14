@@ -18,7 +18,7 @@
 <a id="90-05-08-a3"></a>
 
 #### [영상 90.5.8.a3. 확대/축소 버튼으로 이미지의 크기를 조정하기](./90-05-08-zoom_button.md#90-05-08-a3)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a1fea92d-db44-4fa8-a7d6-ba5527d25498"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a1fea92d-db44-4fa8-a7d6-ba5527d25498"></video>
 
 ***
 

@@ -13,7 +13,7 @@
 <a id="90-01-08-01-01-a11"></a>
 
 #### [영상 90.1.8.1.1.a11. `도구` → `선택도구` → `사각 선택` (Windows) (우리말)](./90-01-08-01-01-rectangle_select.md#90-01-08-01-01-a11)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2725f0ad-2223-420b-addd-1456d391ee87"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2725f0ad-2223-420b-addd-1456d391ee87"></video>
 
 ## 2. 도구 상자에서 `사각 선택` 클릭
 
@@ -25,14 +25,14 @@
 <a id="90-03-02-03-a3"></a>
 
 #### [영상 90.3.2.3.a3. `도구상자` → `사각 선택`](./90-03-02-03-rectangle_select.md#90-03-02-03-a3)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/824415d7-241b-404c-90d9-446ecaab965d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/824415d7-241b-404c-90d9-446ecaab965d"></video>
 
 ## 3. 키보드 단축키 `R`
 
 <a id="90-10-01-01-01-a1"></a>
 
 #### [영상 90.10.1.1.1.a1. 사각 선택 도구 - 키보드 단축키 `R`](./90-10-01-01-01-r.md)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0a45ddc7-b2f1-48d6-a309-22f81b23c8c0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0a45ddc7-b2f1-48d6-a309-22f81b23c8c0"></video>
 
 ***
 

@@ -16,7 +16,7 @@ GIMP(김프)에서 투명한 영역을 기본값으로 회색의 격자무늬로
 <a id="90-02-06-06-a112"></a>
 
 #### [영상 90.2.6.6.a112. `기본 설정` → `인터페이스` → `화면` → `투명` → `스타일 확인`: 바로 반영 (Windows)](./90-02-06-06-display.md#90-02-06-06-a112)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4530f87b-b7e0-4997-85ee-e47c4418a666"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4530f87b-b7e0-4997-85ee-e47c4418a666"></video>
 
 ## 2. 격자 크기(Check size)
 투명한 영역을 표시하는 격자 무늬의 사각형 크기를 설정할 수 있습니다.
@@ -29,7 +29,7 @@ GIMP(김프)에서 투명한 영역을 기본값으로 회색의 격자무늬로
 <a id="90-02-06-06-a122"></a>
 
 #### [그림 90.2.6.6.a122. `기본 설정` → `인터페이스` → `화면` → `투명` → `격자 크기`: 바로 반영 (Windows)](./90-02-06-06-display.md#90-02-06-06-a122)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/52117af9-a783-4f0b-b0b9-435078b2d07b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/52117af9-a783-4f0b-b0b9-435078b2d07b"></video>
 
 ***
 

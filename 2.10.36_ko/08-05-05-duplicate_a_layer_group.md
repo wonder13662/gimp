@@ -12,7 +12,7 @@
 <a id="90-04-03-08-a22"></a>
 
 #### [영상 90.4.3.8.a22. 레이어 대화상자 - 레이어 복제 버튼으로 레이어 그룹 복사하기 (Windows) (우리말)](./90-04-03-08-bottom_bar_buttons.md#90-04-03-08-a22)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/f7cc9472-fba4-4ae2-aabb-a5c999c92c86"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/f7cc9472-fba4-4ae2-aabb-a5c999c92c86"></video>
 
 ## 2. 레이어 대화상자의 컨텍스트 메뉴의 `레이어 복제(Duplicate Layer)`
 레이어 대화상자에서 오른쪽 클릭으로 컨텍스트 메뉴를 열어 `레이어 복제(Duplicate Layer)` 메뉴를 클릭합니다. 선택된 레이어 그룹을 복사할 수 있습니다.
@@ -25,7 +25,7 @@
 <a id="90-04-03-01-09-a21"></a>
 
 #### [영상 90.4.3.1.9.a21. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴 → `레이어 복제(Duplicate Layer)`를 선택해서 레이어 그룹 복사하기 (windows) (우리말)](./90-04-03-01-09-duplicate_layer.md#90-04-03-01-09-a21)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/743b6509-18ba-49da-8cbf-f4b3bce6710c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/743b6509-18ba-49da-8cbf-f4b3bce6710c"></video>
 
 ## 3. 캔버스로 레이어 그룹을 옮겨 레이어 그룹을 복사하기
 캔버스로 레이어 그룹을 옮겨서 레이어 그룹을 복사할 수 있습니다. 다만, 이 경우에는 선택된 레이어 그룹 안에 복사한 그룹이 추가됩니다. 레이어 그룹 안에 있는 내용들도 함께 복사됩니다. 아래 영상에서 확인해보세요.
@@ -33,7 +33,7 @@
 <a id="90-04-03-a41"></a>
 
 #### [영상 90.4.3.a41. 캔버스로 레이어 그룹을 옮겨 레이어 그룹을 복사하기](./90-04-03-00-layers.md#90-04-03-a41)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4cc69ddb-51b0-473c-85d0-bf375d5ecbf1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4cc69ddb-51b0-473c-85d0-bf375d5ecbf1"></video>
 
 ***
 

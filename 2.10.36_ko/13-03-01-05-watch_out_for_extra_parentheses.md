@@ -16,7 +16,7 @@
 <a id="90-04-97-a121"></a>
 
 #### [영상 90.4.97.a121. `Scheme`에서 잘못된 중첩 괄호 사용](./90-04-97-script_fu_console.md#90-04-97-a121)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/51c2e727-9414-4462-b6be-cc5e1bd9aabe"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/51c2e727-9414-4462-b6be-cc5e1bd9aabe"></video>
 
 하지만 이것은 잘못된 구문입니다. `Scheme`의 모든 구문은 괄호로 시작되어 괄호로 끝난다는 점에 주의하세요. 그러므로 위의 구문은 `Scheme`의 인터프리터가 두번째 괄호에서 "5"라는 이름의 함수를 호출하려고 한다고 생각할 것입니다.
 
@@ -29,7 +29,7 @@
 <a id="90-04-97-a122"></a>
 
 #### [영상 90.4.97.a122. `Scheme`에서 올바른 중첩 괄호 사용](./90-04-97-script_fu_console.md#90-04-97-a122)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a85d47ee-e6aa-4878-8263-ff1a7fe296f6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a85d47ee-e6aa-4878-8263-ff1a7fe296f6"></video>
 
 ***
 

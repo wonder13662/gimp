@@ -13,7 +13,7 @@
 |색상(Hue)|아래쪽 레이어|
 
 #### 영상 8.2.7.2.a21. `LCh 크로마(LCh Chroma)` 적용하기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7a1090df-7966-4c49-b92b-1170cafb617d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7a1090df-7966-4c49-b92b-1170cafb617d"></video>
 
 ***
 

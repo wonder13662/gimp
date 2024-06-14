@@ -10,7 +10,7 @@
 <a id="90-03-02-35-a23-01"></a>
 
 #### [영상 90.3.2.35.a23.1. 경로 속성 - 끝점(end point) (Windows) (우리말)](./90-03-02-35-paths.md#90-03-02-35-a23-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/14722543-8181-4422-adc3-c9f14b4634db"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/14722543-8181-4422-adc3-c9f14b4634db"></video>
 
 [경로: 끝점](./19-glossaryx-path_end_point.md)과 같습니다
 

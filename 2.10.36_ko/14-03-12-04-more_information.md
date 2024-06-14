@@ -14,25 +14,25 @@
 원본의 반투명 검은색을 `도장` 도구로 복사해서 대상 레이어의 하얀색에 칠하면 회색이 됩니다.
 
 #### 영상 14.3.12.4.a1. 원본의 반투명 검은색 + 대상 레이어의 하얀색 = 회색
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9fad89f8-b1fb-46cd-a68a-3a2905c14469"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9fad89f8-b1fb-46cd-a68a-3a2905c14469"></video>
 
 ### 1-2. 원본의 반투명 검은색 + 대상 레이어의 검은색 = 검은색
 원본의 반투명 검은색을 `도장` 도구로 복사해서 대상 레이어의 검은색에 칠하면 검은색이 됩니다.
 
 #### 영상 14.3.12.4.a2. 원본의 반투명 검은색 + 대상 레이어의 검은색 = 검은색
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c0b47775-6a08-4336-a7df-c2a485577db7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c0b47775-6a08-4336-a7df-c2a485577db7"></video>
 
 ### 1-3. 원본의 반투명 하얀색 + 대상 레이어의 하얀색 = 하얀색
 원본의 반투명 하얀색을 `도장` 도구로 복사해서 대상 레이어의 하얀색에 칠하면 하얀색이 됩니다.
 
 #### 영상 14.3.12.4.a3. 원본의 반투명 하얀색 + 대상 레이어의 하얀색 = 하얀색
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/caf1b4db-e913-4871-b376-fa4cc23acc61"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/caf1b4db-e913-4871-b376-fa4cc23acc61"></video>
 
 ### 1-4. 원본의 반투명 하얀색 + 대상 레이어의 검은색 = 회색
 원본의 반투명 하얀색을 `도장` 도구로 복사해서 대상 레이어의 검은색에 칠하면 회색이 됩니다.
 
 #### 영상 14.3.12.4.a4. 원본의 반투명 하얀색 + 대상 레이어의 검은색 = 회색
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/07475e2a-10d2-49bc-9f17-548fb0d78128"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/07475e2a-10d2-49bc-9f17-548fb0d78128"></video>
 
 `도장` 도구로 복사하는 것은 투명도를 증가시킬수 업습니다. 하지만 레이어의 "keep transparency" 옵션이 켜져있으면, 투명도를 감소시킬 수 있습니다.
 
@@ -52,7 +52,7 @@
 ⚠️ 주의: [표본 합치기(Sample merged)](./14-03-12-03-options.md#14-03-11-03-s16-01-01) 옵션이 꺼져 있어야 합니다. 그렇지 않을 경우, 위 설명처럼 동작하지 않을 수 있습니다.
 
 #### 영상 14.3.12.4.a21. 필터 붓 시연
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/484f2815-836a-4db6-8b92-b6c92bb4c470"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/484f2815-836a-4db6-8b92-b6c92bb4c470"></video>
 
 <a id="14-03-12-04-s3"></a>
 
@@ -73,7 +73,7 @@
 [comment]: <> (TODO 원문에서 처럼 레이어별로 개별 히스토리로 동작할 수 없는지 다시 확인해보기)
 
 #### 영상 14.3.12.4.a31. 히스토리 붓 시연
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c45f09ab-0701-4312-8e68-0a460011accf"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c45f09ab-0701-4312-8e68-0a460011accf"></video>
 
 ***
 

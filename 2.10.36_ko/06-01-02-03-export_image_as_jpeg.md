@@ -52,7 +52,7 @@
 <a id="90-04-33-a211"></a>
 
 #### [영상 90.4.33.a211. 화질 변화와 파일 크기 빠르게 보기](./90-04-33-export_image_as_jpeg.md#90-04-33-a211)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a0f3f4b6-c40d-45a3-8c70-a58238efc2c1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a0f3f4b6-c40d-45a3-8c70-a58238efc2c1"></video>
 
 ### 메타데이터 유지하기(Keep metadata)
 

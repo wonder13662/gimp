@@ -16,7 +16,7 @@
 <a id="90-05-16-a213"></a>
 
 #### [영상 90.5.16.a213. 탭 메뉴의 '도구 옵션'으로 독(Dock)에 '도구 옵션' 대화상자 추가하기](./90-05-16-tab_menu.md#90-05-16-a213)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb11afcc-44a5-43a7-a01a-ad7aa2f34dd6"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb11afcc-44a5-43a7-a01a-ad7aa2f34dd6"></video>
 
 ## 2. 이미지 메뉴 바(Image Menu Bar)로 '도구 옵션 대화상자' 되돌리기
 [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `창` → `도킹가능한 대화` → `도구 옵션`를 사용할 수도 있습니다. 이 경우에 `도구 옵션(Tool Options)` 대화상자가 다른 독(dock)에 나타날 수 있습니다.
@@ -33,12 +33,12 @@
 <a id="90-01-10-02-01-a103"></a>
 
 #### [영상 90.1.10.2.1.a103. `창` → `도킹가능한 대화` → `도구 옵션`으로 독(Dock)에 '도구 옵션' 대화상자 추가하기](./90-01-10-02-01-tool_options.md#90-01-10-02-01-a103)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ab33a968-752d-4ae6-99ef-41f0c1441a64"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ab33a968-752d-4ae6-99ef-41f0c1441a64"></video>
 
 <a id="90-04-01-a101"></a>
 
 #### [영상 90.4.1.a101. '도구 옵션' 대화상자를 드래그해서 옮기기](./90-04-01-00-tool_options.md#90-04-01-a101)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4a654ab9-d649-477f-a106-694cc5f1f98d"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4a654ab9-d649-477f-a106-694cc5f1f98d"></video>
 
 ## 3. 대화상자를 독에 잠궈두기
 

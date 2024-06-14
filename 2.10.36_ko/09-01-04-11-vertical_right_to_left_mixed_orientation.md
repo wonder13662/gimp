@@ -16,12 +16,12 @@
 <a id="90-04-67-a201"></a>
 
 #### [영상 90.4.67.a201. 텍스트 도구상자 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 수직으로 오른쪽에서 왼쪽(혼합 방향)](./90-04-67-text_toolbox.md#90-04-67-a201)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f12614ee-5a81-4102-a4ad-7a30d8a654ab"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f12614ee-5a81-4102-a4ad-7a30d8a654ab"></video>
 
 <a id="90-04-67-a202"></a>
 
 #### [영상 90.4.67.a202. 텍스트 도구상자 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 수직으로 오른쪽에서 왼쪽(혼합 방향)](./90-04-67-text_toolbox.md#90-04-67-a202)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/04ea10af-6614-4cf0-bac3-125562d57c31"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/04ea10af-6614-4cf0-bac3-125562d57c31"></video>
 
 ## 3. `김프 텍스트 편집기` → `수직으로 오른쪽에서 왼쪽(혼합 방향)`
 `김프 텍스트 편집기` → `수직으로 오른쪽에서 왼쪽(혼합 방향)`을 선택해서 입력할 수 있습니다. 동작은 위에서 설명한 것과 같습니다.
@@ -34,12 +34,12 @@
 <a id="90-04-65-a132"></a>
 
 #### [영상 90.4.65.a132. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (텍스트 박스 동적모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a132)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/97f8acf4-ba72-4117-9e06-f3bdd8c6e804"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/97f8acf4-ba72-4117-9e06-f3bdd8c6e804"></video>
 
 <a id="90-04-65-a133"></a>
 
 #### [영상 90.4.65.a133. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (텍스트 박스 고정모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a133)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c3334f00-222c-4ba4-8205-0f5a321937d7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c3334f00-222c-4ba4-8205-0f5a321937d7"></video>
 
 ***
 

@@ -22,7 +22,7 @@
 <a id="90-01-07-14-02-a4"></a>
 
 #### 영상 90.1.7.14.2.a4. `색` → `자동` → `화이트 밸런스` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ce19f698-5f49-4fdd-8b6e-77eee91f7561"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ce19f698-5f49-4fdd-8b6e-77eee91f7561"></video>
 
 [10.1.3.1. 자동화 도구 - 영상 90.1.7.14.2.a4](./10-01-03-01-automated_tools.md#90-01-07-14-02-a4)
 

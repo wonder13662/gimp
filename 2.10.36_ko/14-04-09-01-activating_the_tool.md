@@ -14,7 +14,7 @@
 <a id="90-01-08-03-08-a101-01"></a>
 
 #### [영상 90.1.8.3.8.a101.1. `이미지 메뉴 바` → `도구` → `변형 도구` → `3차원 변형` (Windows) (우리말)](./90-01-08-03-08-3d_transform.md#90-01-08-03-08-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c1fc6d70-4152-4c9d-9aac-9adc299b7023"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c1fc6d70-4152-4c9d-9aac-9adc299b7023"></video>
 
 <a id="14-04-09-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-17-a2-01"></a>
 
 #### [영상 90.3.2.17.a2.1. `도구상자` →`3차원 변형` (Windows) (우리말)](./90-03-02-17-3d_transform.md#90-03-02-17-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/84b3fb8a-1394-4406-9e55-7d35ef06e87d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/84b3fb8a-1394-4406-9e55-7d35ef06e87d"></video>
 
 <a id="14-04-09-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-29-01-01-a1"></a>
 
 #### [영상 90.10.29.1.1.a1. `도구상자` → `3차원 변형`: 키보드 단축키 Shift(⇧) + `W`](./90-10-29-01-01-shift_w.md#90-10-29-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fdc9056e-9eb5-4bd6-a837-f364b521d083"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fdc9056e-9eb5-4bd6-a837-f364b521d083"></video>
 
 ***
 

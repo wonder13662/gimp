@@ -7,7 +7,7 @@
 아래 영상을 확인해보면 위쪽의 흑백 그라디언트 레이어가 `강한 조명(Hard light)` 모드로 바꿀 때에 아래 레이어의 밝은 부분과 어두운 부분에 영향을 미치는 것을 확인할 수 있습니다.
 
 #### 영상 8.2.4.3.a2. 강한 조명(Hard light) 사용 예시 - 위쪽 레이어(그라디언트)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/69459325-9b49-42e8-aa9f-510fae7225f2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/69459325-9b49-42e8-aa9f-510fae7225f2"></video>
 
 ***
 

@@ -13,7 +13,7 @@ Ctrl(⌘) 키를 누르면 [색상 추출 도구(Color Picker)로 바꾸기](./1
 <a id="90-10-12-02-01-a1"></a>
 
 #### [영상 90.10.12.2.1.a1. 칠하기 도구:`마이페인트 붓` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(전경색)](./90-10-12-02-01-switch_to_color_picker_fg.md#90-10-12-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a9e9e4dc-0e66-46b7-b655-b098388b6f42"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a9e9e4dc-0e66-46b7-b655-b098388b6f42"></video>
 
 <a id="14-03-08-04-s2"></a>
 
@@ -23,7 +23,7 @@ Shift(⇧) 키를 누르면 `직선 모드(Straight line mode)`로 바뀝니다.
 <a id="90-10-12-03-01-a1"></a>
 
 #### [영상 90.10.12.3.1.a1. 칠하기 도구:`마이페인트 붓` - Shift(⇧) 키: 직선 그리기](./90-10-12-03-01-switch_to_straight_line_mode.md#90-10-12-03-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e4abf7b4-98e3-4d0a-bbf5-1372fabaeccd"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e4abf7b4-98e3-4d0a-bbf5-1372fabaeccd"></video>
 
 ***
 

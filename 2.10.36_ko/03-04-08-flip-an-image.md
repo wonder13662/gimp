@@ -28,7 +28,7 @@
 <a id="90-04-01-15-a202"></a>
 
 #### [영상 90.4.1.15.a202. 도구 옵션(Tool Options)없는 경우에 더블클릭](./90-04-01-15-flip.md#90-04-01-15-a202)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/57e9252a-3f44-4cdf-b6a7-6affe85c7834"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/57e9252a-3f44-4cdf-b6a7-6affe85c7834"></video>
 
 ## 3.4.8.2. 단축키로 가로모드(Horizontal), 세로모드(Vertical) 바꾸기
 Ctrl(Windows) 또는 ⌘(Mac)을 누른 채로 유지하면 방향(direction)이 세로모드(Vertical)로 바뀝니다. Ctrl(Windows) or ⌘(Mac)을 떼면 가로모드(Horizontal)로 다시 바뀝니다.
@@ -36,7 +36,7 @@ Ctrl(Windows) 또는 ⌘(Mac)을 누른 채로 유지하면 방향(direction)이
 <a id="90-04-01-15-a203"></a>
 
 #### [영상 90.4.1.15.a203. 단축키로 뒤집기의 방향바꾸기](./90-04-01-15-flip.md#90-04-01-15-a203)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1ccc9fd8-682e-4755-8a0b-db3998ccdc99"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1ccc9fd8-682e-4755-8a0b-db3998ccdc99"></video>
 
 ***
 

@@ -11,7 +11,7 @@
 <a id="90-04-03-14-a21"></a>
 
 #### [영상 90.4.3.14.a21. 새로운 텍스트 레이어는 활성화된 레이어 위에 추가됩니다 (Windows) (우리말)](./90-04-03-14-text_layer.md#90-04-03-14-a21)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e28e1ec8-4340-4279-9b81-6d356eb85368"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e28e1ec8-4340-4279-9b81-6d356eb85368"></video>
 
 텍스트는 캔버스 위에서 직접 고칠 수 있습니다. 텍스트 도구상자는 캔버스의 텍스트 상자 위에 나타납니다. 텍스트 도구상자에서 텍스트 속성 중 일부를 바로 바꿀 수 있습니다.
 
@@ -20,7 +20,7 @@
 <a id="90-04-03-14-a31"></a>
 
 #### [영상 90.4.3.14.a31. 텍스트 도구상자에서 바뀐 설정은 선택한 텍스트 또는 새로 입력한 텍스트에 영향을 줍니다](./90-04-03-14-text_layer.md#90-04-03-14-a31)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8c821669-981b-4499-bba7-d85d7b925d21"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8c821669-981b-4499-bba7-d85d7b925d21"></video>
 
 텍스트 도구를 선택한 상태로 캔버스 위를 클릭하면, 닫힌 텍스트 상자와 그 위로 반투명의 텍스트 도구상자가 나타납니다.
 
@@ -37,7 +37,7 @@
 <a id="90-04-03-14-a51"></a>
 
 #### [영상 90.4.3.14.a51. 캔버스 클릭시, 닫힌 텍스트 상자와 반투명 텍스트 도구상자가 나타납니다](./90-04-03-14-text_layer.md#90-04-03-14-a51)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9d02267d-6876-4447-8390-f5c8808a8673"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9d02267d-6876-4447-8390-f5c8808a8673"></video>
 
 텍스트 도구 옵션에 대한 상세한 내용은 [14.5.6. 텍스트](./14-05-06-00-text.md)를 확인해주세요.
 

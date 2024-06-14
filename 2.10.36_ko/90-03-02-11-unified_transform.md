@@ -17,35 +17,35 @@
 <a id="90-03-02-11-a2-01"></a>
 
 #### 영상 90.3.2.11.a2.1. `도구상자` → `통합 변형` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4f74007b-776c-4761-aa45-6edb2034e4e8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4f74007b-776c-4761-aa45-6edb2034e4e8"></video>
 
 [14.4.10.1. 도구 활성화하기(Activating the tools) - 영상 90.3.2.11.a2.1](./14-04-10-01-activating_the_tool.md#90-03-02-11-a2-01)
 
 <a id="90-03-02-11-a10-01"></a>
 
 #### 영상 90.3.2.11.a10.1. `도구 옵션` → `통합 변형` → `제한하기` → `이동`: 옵션 켜기/끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/20ccf395-e957-4d25-a0ca-9d64bb48d245"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/20ccf395-e957-4d25-a0ca-9d64bb48d245"></video>
 
 [14.4.10.3. 옵션(Options) - 영상 90.3.2.11.a10.1](./14-04-10-03-options.md#90-03-02-11-a10-01)
 
 <a id="90-03-02-11-a10-02"></a>
 
 #### 영상 90.3.2.11.a10.2. `도구 옵션` → `통합 변형` → `제한하기` → `크기 조정`: 옵션 켜기/끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1533f442-7464-4030-9865-eb519cb223dc"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1533f442-7464-4030-9865-eb519cb223dc"></video>
 
 [14.4.10.3. 옵션(Options) - 영상 90.3.2.11.a10.2](./14-04-10-03-options.md#90-03-02-11-a10-02)
 
 <a id="90-03-02-11-a10-03"></a>
 
 #### 영상 90.3.2.11.a10.3. `도구 옵션` → `통합 변형` → `제한하기` → `회전`: 옵션 켜기/끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1e99e3f2-e62f-4a18-ba55-b6c10550dcb8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1e99e3f2-e62f-4a18-ba55-b6c10550dcb8"></video>
 
 [14.4.10.3. 옵션(Options) - 영상 90.3.2.11.a10.3](./14-04-10-03-options.md#90-03-02-11-a10-03)
 
 <a id="90-03-02-11-a10-04"></a>
 
 #### 영상 90.3.2.11.a10.4. `도구 옵션` → `통합 변형` → `제한하기` → `기울이기`: 옵션 켜기/끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5134d43b-99ac-405f-b233-0cb4db940fd1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5134d43b-99ac-405f-b233-0cb4db940fd1"></video>
 
 [14.4.10.3. 옵션(Options) - 영상 90.3.2.11.a10.4](./14-04-10-03-options.md#90-03-02-11-a10-04)
 
@@ -59,7 +59,7 @@
 <a id="90-03-02-11-a10-05"></a>
 
 #### 영상 90.3.2.11.a10.5. `도구 옵션` → `통합 변형` → `제한하기` → `원근법`: 옵션 켜기/끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c7ccbb7b-7195-42d9-baf3-0df5786723e5"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c7ccbb7b-7195-42d9-baf3-0df5786723e5"></video>
 
 [14.4.10.3. 옵션(Options) - 영상 90.3.2.11.a10.5](./14-04-10-03-options.md#90-03-02-11-a10-05)
 
@@ -73,35 +73,35 @@
 <a id="90-03-02-11-a10-06"></a>
 
 #### 그림 90.3.2.11.a10.6. `도구 옵션` → `통합 변형` → `회전축 기준(From pivot)` → `크기 조정`: 옵션 켜기/끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0ff18d71-a1ab-4df8-9e56-9cd41f8d4eae"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0ff18d71-a1ab-4df8-9e56-9cd41f8d4eae"></video>
 
 [14.4.10.3. 옵션(Options) - 그림 90.3.2.11.a10.6](./14-04-10-03-options.md#90-03-02-11-a10-06)
 
 <a id="90-03-02-11-a10-07"></a>
 
 #### 그림 90.3.2.11.a10.7. `도구 옵션` → `통합 변형` → `회전축 기준(From pivot)` → `기울이기`: 옵션 켜기/끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4b796277-7a34-47f2-a26d-f76685253045"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4b796277-7a34-47f2-a26d-f76685253045"></video>
 
 [14.4.10.3. 옵션(Options) - 그림 90.3.2.11.a10.7](./14-04-10-03-options.md#90-03-02-11-a10-07)
 
 <a id="90-03-02-11-a10-08"></a>
 
 #### 그림 90.3.2.11.a10.8. `도구 옵션` → `통합 변형` → `회전축 기준(From pivot)` → `원근법`: 옵션 켜기/끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6f50e00e-b669-463f-85f0-4c935596c319"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6f50e00e-b669-463f-85f0-4c935596c319"></video>
 
 [14.4.10.3. 옵션(Options) - 그림 90.3.2.11.a10.8](./14-04-10-03-options.md#90-03-02-11-a10-08)
 
 <a id="90-03-02-11-a10-09"></a>
 
 #### 그림 90.3.2.11.a10.9. `도구 옵션` → `통합 변형` → `회전축(Pivot)` → `달라붙기(Snap)`: 옵션 켜기/끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/462b8f34-e638-45bf-9cfd-500515b84ece"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/462b8f34-e638-45bf-9cfd-500515b84ece"></video>
 
 [14.4.10.3. 옵션(Options) - 그림 90.3.2.11.a10.9](./14-04-10-03-options.md#90-03-02-11-a10-09)
 
 <a id="90-03-02-11-a10-10"></a>
 
 #### 그림 90.3.2.11.a10.10. `도구 옵션` → `통합 변형` → `회전축(Pivot)` → `잠그기(Lock)`: 옵션 켜기/끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ff508b79-0586-4988-afcb-316d8f67aa35"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ff508b79-0586-4988-afcb-316d8f67aa35"></video>
 
 [14.4.10.3. 옵션(Options) - 그림 90.3.2.11.a10.10](./14-04-10-03-options.md#90-03-02-11-a10-10)
 
@@ -120,7 +120,7 @@
 <a id="90-03-02-11-a11-01-01"></a>
 
 #### 영상 90.3.2.11.a11.1.1. `통합 변형` 도구의 프레임: 핸들 - 마름모(기울이기) (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/99cc72a9-4d84-412e-b5c2-61f7f37419f1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/99cc72a9-4d84-412e-b5c2-61f7f37419f1"></video>
 
 [14.4.10. 통합 변형(Unified transform) - 영상 90.3.2.11.a11.1.1](./14-04-10-00-unified-transform.md#90-03-02-11-a11-01-01)
 
@@ -134,7 +134,7 @@
 <a id="90-03-02-11-a11-02-01"></a>
 
 #### 영상 90.3.2.11.a11.2.1. `통합 변형` 도구의 프레임: 핸들 - 정사각형(크기 조정) (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9a876d3f-3d61-47bb-8c96-8a249412aa52"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9a876d3f-3d61-47bb-8c96-8a249412aa52"></video>
 
 [14.4.10. 통합 변형(Unified transform) - 영상 90.3.2.11.a11.2.1](./14-04-10-00-unified-transform.md#90-03-02-11-a11-02-01)
 
@@ -148,7 +148,7 @@
 <a id="90-03-02-11-a11-03-01"></a>
 
 #### 영상 90.3.2.11.a11.3.1. `통합 변형` 도구의 프레임: 핸들 - 정사각형 안의 마름모(원근법) (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3ad7d846-9ed2-477e-9486-b75852186fdc"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3ad7d846-9ed2-477e-9486-b75852186fdc"></video>
 
 [14.4.10. 통합 변형(Unified transform) - 영상 90.3.2.11.a11.3.1](./14-04-10-00-unified-transform.md#90-03-02-11-a11-03-01)
 
@@ -162,7 +162,7 @@
 <a id="90-03-02-11-a11-04-01"></a>
 
 #### 영상 90.3.2.11.a11.4.1. `통합 변형` 도구의 프레임: 피벗(회전축) (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3037db76-62ec-482b-ad37-b015dffaa024"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3037db76-62ec-482b-ad37-b015dffaa024"></video>
 
 [14.4.10. 통합 변형(Unified transform) - 영상 90.3.2.11.a11.4.1](./14-04-10-00-unified-transform.md#90-03-02-11-a11-04-01)
 
@@ -176,7 +176,7 @@
 <a id="90-03-02-11-a12-01-01"></a>
 
 #### 영상 90.3.2.11.a12.1.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 이동 아이콘 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2384024e-9f2c-4958-aaf9-c09d3a5c2c61"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2384024e-9f2c-4958-aaf9-c09d3a5c2c61"></video>
 
 [14.4.10. 통합 변형(Unified transform) - 영상 90.3.2.11.a12.1.1](./14-04-10-00-unified-transform.md#90-03-02-11-a12-01-01)
 
@@ -190,7 +190,7 @@
 <a id="90-03-02-11-a12-02-01"></a>
 
 #### 영상 90.3.2.11.a12.2.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 회전 아이콘 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f8e43e45-10a0-45bb-86df-f4c276d068c2"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f8e43e45-10a0-45bb-86df-f4c276d068c2"></video>
 
 [14.4.10. 통합 변형(Unified transform) - 영상 90.3.2.11.a12.2.1](./14-04-10-00-unified-transform.md#90-03-02-11-a12-02-01)
 
@@ -204,7 +204,7 @@
 <a id="90-03-02-11-a12-03-01"></a>
 
 #### 영상 90.3.2.11.a12.3.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 기울이기 아이콘 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/24020039-a619-4e25-b922-71c1bb031143"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/24020039-a619-4e25-b922-71c1bb031143"></video>
 
 [14.4.10. 통합 변형(Unified transform) - 영상 90.3.2.11.a12.3.1](./14-04-10-00-unified-transform.md#90-03-02-11-a12-03-01)
 
@@ -218,7 +218,7 @@
 <a id="90-03-02-11-a12-04-01"></a>
 
 #### 영상 90.3.2.11.a12.4.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 원근법 아이콘 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0fb83f3e-50a2-42aa-80d2-968f91e1946c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0fb83f3e-50a2-42aa-80d2-968f91e1946c"></video>
 
 [14.4.10. 통합 변형(Unified transform) - 영상 90.3.2.11.a12.4.1](./14-04-10-00-unified-transform.md#90-03-02-11-a12-04-01)
 
@@ -232,14 +232,14 @@
 <a id="90-03-02-11-a12-05-01"></a>
 
 #### 영상 90.3.2.11.a12.5.1. `통합 변형` 도구의 프레임: 마우스 포인터 - 크기 조정 아이콘 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/67b8a203-93d1-4ce2-a256-4f7f966cffbd"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/67b8a203-93d1-4ce2-a256-4f7f966cffbd"></video>
 
 [14.4.10. 통합 변형(Unified transform) - 영상 90.3.2.11.a12.5.1](./14-04-10-00-unified-transform.md#90-03-02-11-a12-05-01)
 
 <a id="90-03-02-11-a13"></a>
 
 #### 영상 90.3.2.11.a13. `통합 변형` 도구의 프레임: 핸들 선택시 상태 표시 영역에서 핸들 기능 표시 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0c9b6f1b-f3bd-48f3-90e4-908d8fad232c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0c9b6f1b-f3bd-48f3-90e4-908d8fad232c"></video>
 
 [14.4.10. 통합 변형(Unified transform) - 영상 90.3.2.11.a13](./14-04-10-00-unified-transform.md#90-03-02-11-a13)
 

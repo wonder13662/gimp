@@ -37,7 +37,7 @@
 <a id="90-05-05-a121"></a>
 
 #### [영상 90.5.5.a121. 퀵마스크 적용으로 선택영역 확인하기](./90-05-05-quickmask_toggle.md#90-05-05-a121)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ecb7111d-e19d-4959-bd35-65dd55af06a0"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ecb7111d-e19d-4959-bd35-65dd55af06a0"></video>
 
 [퀵 마스크 개요](./07-03-01-overview.md)에서도 이야기하겠지만, 많은 기능이 퀵마스크 모드에서는 다르게 동작합니다.
 

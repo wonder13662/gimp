@@ -13,7 +13,7 @@
 <a id="90-04-109-a101-01"></a>
 
 #### 영상 90.4.109.a101.1. `전경 선택` 대화상자: `x` 닫기 버튼 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7b898d09-94c8-45e3-b326-d739b8b6fb92"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7b898d09-94c8-45e3-b326-d739b8b6fb92"></video>
 
 [14.2.8.2. 사용법(Direction for use) - 영상 90.4.109.a101.1](./14-02-08-02-00-directions_for_use.md#90-04-109-a101-01)
 
@@ -22,7 +22,7 @@
 <a id="90-04-109-a101-02"></a>
 
 #### 영상 90.4.109.a101.2. `전경 선택` 대화상자: ESC 키 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6ac85b70-5fb6-41ee-8a83-ad3eb4b49384"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6ac85b70-5fb6-41ee-8a83-ad3eb4b49384"></video>
 
 [14.2.8.2. 사용법(Direction for use) - 영상 90.4.109.a101.2](./14-02-08-02-00-directions_for_use.md#90-04-109-a101-02)
 
@@ -31,14 +31,14 @@
 <a id="90-04-109-a101-03"></a>
 
 #### 영상 90.4.109.a101.3. `전경 선택` 대화상자: 미리보기 마스크(Preview mask) (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/11573e1a-e95c-4872-a223-1040eaa3b1c4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/11573e1a-e95c-4872-a223-1040eaa3b1c4"></video>
 
 [14.2.8.2.2. 마스크 만들기 - 영상 90.4.109.a101.3](./14-02-08-02-02-create_mask.md#90-04-109-a101-03)
 
 <a id="90-04-109-a101-04"></a>
 
 #### 영상 90.4.109.a101.4. `전경 선택` 대화상자: 선택(Select) 버튼 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/23b9135b-f542-4f1f-9688-d894f95955df"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/23b9135b-f542-4f1f-9688-d894f95955df"></video>
 
 [14.2.8.2.2. 마스크 만들기 - 영상 90.4.109.a101.4](./14-02-08-02-02-create_mask.md#90-04-109-a101-04)
 

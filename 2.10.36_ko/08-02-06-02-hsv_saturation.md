@@ -13,7 +13,7 @@
 `HSV 채도(HSV Saturation)` 모드는 원본 이미지의 채도를 바꿔서 채도가 강렬한 이미지로 바꿀 수 있습니다. 아래 영상을 확인해주세요.
 
 #### 영상 8.2.6.2.a21. `HSV 채도(HSV Saturation)`: 사용자가 지정한 색상의 색조로 이미지 전체에 적용
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/139b27e7-95a1-493e-a1ed-5544173f136c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/139b27e7-95a1-493e-a1ed-5544173f136c"></video>
 
 ***
 

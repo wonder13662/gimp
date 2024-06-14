@@ -13,7 +13,7 @@ Ctrl(⌘) 키를 누르면 [그리기 붓](./14-03-07-00-paintbrush.md)과 비�
 <a id="90-10-14-02-01-a1"></a>
 
 #### [영상 90.10.14.2.1.a1. 칠하기 도구:`에어브러시` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(전경색)](./90-10-14-02-01-switch_to_color_picker_fg.md#90-10-14-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/915c9005-813d-4fcb-9462-420da31270d8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/915c9005-813d-4fcb-9462-420da31270d8"></video>
 
 <a id="14-03-10-02-s2"></a>
 
@@ -23,7 +23,7 @@ Shift(⇧) 키를 누르면 `직선 모드(Straight line mode)`로 바뀝니다.
 <a id="90-10-14-03-01-a1"></a>
 
 #### [영상 90.10.14.3.1.a1. 칠하기 도구:`에어브러시` - Shift(⇧) 키: 직선 그리기](./90-10-14-03-01-switch_to_straight_line_mode.md#90-10-14-03-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3838032c-6db6-42f0-9f3a-17ad9b311f05"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3838032c-6db6-42f0-9f3a-17ad9b311f05"></video>
 
 ***
 

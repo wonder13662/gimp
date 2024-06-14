@@ -12,12 +12,12 @@
 <a id="90-01-01-02-01-a111"></a>
 
 #### [영상 90.1.1.2.1.a111. 전체화면 캡쳐를 클립보드에 저장해서 `파일` → `만들기` → `클립보드에서`로 새 이미지 만들기  (Windows)](./90-01-01-02-01-from_clipboard.md#90-01-01-02-01-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/39d15a61-bd64-4bb8-a980-41207100f4f3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/39d15a61-bd64-4bb8-a980-41207100f4f3"></video>
 
 <a id="90-01-02-11-03-a111"></a>
 
 #### [영상 90.1.2.11.3.a111. 전체화면 캡쳐를 클립보드에 저장해서 `편집` → `붙여넣기(고급)` → `새 이미지`로 새 이미지 만들기 (Windows)](./90-01-02-11-03-new_image.md#90-01-02-11-03-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/43c58bd8-aecd-4bb0-804e-459532ad2f88"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/43c58bd8-aecd-4bb0-804e-459532ad2f88"></video>
 
 ## `편집` → `붙여넣기(고급)` → `새 이미지` 메뉴로 새 이미지 만들기
 [이미지 메뉴 바](./90-01-00-image-menu-bar.md)의 `편집` → `붙여넣기(고급)` → `새 이미지` 메뉴를 눌러 클립보드에 저장된 이미지로 새로운 이미지를 만듭니다.
@@ -35,12 +35,12 @@ Windows 환경에서 Alt + `Print Screen`으로 활성화된 창만 캡쳐해서
 <a id="90-01-02-11-03-a112"></a>
 
 #### [영상 90.1.2.11.3.a112. 활성화 창의 캡쳐를 클립보드에 저장해서 `편집` → `붙여넣기(고급)` → `새 이미지`로 새 이미지 만들기 (Windows)](./90-01-02-11-03-new_image.md#90-01-02-11-03-a112)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eb716971-ba1b-4165-a99c-f028d83e9846"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/eb716971-ba1b-4165-a99c-f028d83e9846"></video>
 
 <a id="90-01-01-02-01-a112"></a>
 
 #### [영상 90.1.1.2.1.a112. 활성화 창의 캡쳐를 클립보드에 저장해서 `파일` → `만들기` → `클립보드에서`로 새 이미지 만들기  (Windows)](./90-01-01-02-01-from_clipboard.md#90-01-01-02-01-a112)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ed2939d1-3b5f-4ba3-b86c-141bf376be1d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ed2939d1-3b5f-4ba3-b86c-141bf376be1d"></video>
 
 ## 다른 페이지로 가기
 

@@ -14,7 +14,7 @@
 <a id="90-01-08-02-07-a101-01"></a>
 
 #### [영상 90.1.8.2.7.a101.1. `이미지 메뉴 바` → `도구` → `칠하기 도구` → `잉크` (Windows) (우리말)](./90-01-08-02-07-ink.md#90-01-08-02-07-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9531e0a8-e517-42be-b03c-249ca4582b5c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9531e0a8-e517-42be-b03c-249ca4582b5c"></video>
 
 <a id="14-03-11-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-26-a2-01"></a>
 
 #### [영상 90.3.2.26.a2.1. `도구상자` → `잉크` (Windows) (우리말)](./90-03-02-26-ink.md#90-03-02-26-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a848149d-a95b-432a-902e-be815a3befba"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a848149d-a95b-432a-902e-be815a3befba"></video>
 
 <a id="14-03-11-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-15-01-01-a1"></a>
 
 #### [영상 90.10.15.1.1.a1. `에어브러시` 도구 - 키보드 단축키 `K`](./90-10-15-01-01-k.md#90-10-15-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1360ec4b-f5c2-4c88-bdb4-55d6eb3359d4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1360ec4b-f5c2-4c88-bdb4-55d6eb3359d4"></video>
 
 ***
 

@@ -54,14 +54,14 @@
 <a id="90-02-04-a13-01"></a>
 
 #### 영상 90.2.4.a13.1. `기본설정` → `도구 옵션` → `칠하기 도구 공통 옵션` → `붓`:켜기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e1c46153-61e2-458d-82d9-e6280355cd92"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e1c46153-61e2-458d-82d9-e6280355cd92"></video>
 
 [12.1.7.3. 칠하기 도구 공통 옵션(Paint Options Shared Between Tools) - 그림 90.2.4.a13.1](./12-01-07-03-paint_options_shared_between_tools.md#90-02-04-a13-01)
 
 <a id="90-02-04-a13-02"></a>
 
 #### 영상 90.2.4.a13.2. `기본설정` → `도구 옵션` → `칠하기 도구 공통 옵션` → `붓`:끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/df46815c-feca-4751-ba58-2187c6fe762f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/df46815c-feca-4751-ba58-2187c6fe762f"></video>
 
 [12.1.7.3. 칠하기 도구 공통 옵션(Paint Options Shared Between Tools) - 그림 90.2.4.a13.2](./12-01-07-03-paint_options_shared_between_tools.md#90-02-04-a13-02)
 
@@ -75,14 +75,14 @@
 <a id="90-02-04-a14-01"></a>
 
 #### 영상 90.2.4.a14.1. `기본설정` → `도구 옵션` → `이동도구` → `Set layer or path as active`:켜기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d6868177-2196-4cdd-8b84-45983b56754a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d6868177-2196-4cdd-8b84-45983b56754a"></video>
 
 [12.1.7.4. 이동 도구(Move Tool) - 그림 90.2.4.a14](./12-01-07-04-move_tool.md#90-02-04-a14-01)
 
 <a id="90-02-04-a14-02"></a>
 
 #### 영상 90.2.4.a14.2. `기본설정` → `도구 옵션` → `이동도구` → `Set layer or path as active`:끄기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6e5afecc-410e-4b18-b94d-c2ca8ba9acbc"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6e5afecc-410e-4b18-b94d-c2ca8ba9acbc"></video>
 
 [12.1.7.4. 이동 도구(Move Tool) - 그림 90.2.4.a14](./12-01-07-04-move_tool.md#90-02-04-a14-02)
 

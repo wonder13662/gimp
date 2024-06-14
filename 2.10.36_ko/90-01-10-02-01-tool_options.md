@@ -24,7 +24,7 @@
 <a id="90-01-10-02-01-a103"></a>
 
 #### 영상 90.1.10.2.1.a103. `창` → `도킹가능한 대화` → `도구 옵션`으로 독(Dock)에 '도구 옵션' 대화상자 추가하기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ab33a968-752d-4ae6-99ef-41f0c1441a64"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ab33a968-752d-4ae6-99ef-41f0c1441a64"></video>
 
 [4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 영상 90.1.10.2.1.a103](./04-03-02-tool-options-dialog-is-missing.md#90-01-10-02-01-a103)
 

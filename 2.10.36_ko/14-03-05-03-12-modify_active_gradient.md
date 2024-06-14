@@ -11,7 +11,7 @@
 <a id="90-03-02-22-a13-02"></a>
 
 #### [영상 90.3.2.22.a13.2. `도구 옵션` → `그라디언트` → `활성화된 그라디언트 수정하기`: 꺼짐](./90-03-02-22-gradient.md#90-03-02-22-a13-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e5924edb-2e34-4422-8041-2dd0fa14115e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e5924edb-2e34-4422-8041-2dd0fa14115e"></video>
 
 ## 2. 옵션 켜짐
 이 옵션이 켜져있으면 사용자가 만드는 그라디언트는 자동으로 만들어지지 않습니다. 반드시 사용자가 직접 새로 만들거나 다른 그라디언트를 복사해서 추가해야 합니다.
@@ -19,7 +19,7 @@
 <a id="90-03-02-22-a13-03"></a>
 
 #### [영상 90.3.2.22.a13.3. `도구 옵션` → `그라디언트` → `활성화된 그라디언트 수정하기`: 켜짐](./90-03-02-22-gradient.md#90-03-02-22-a13-03)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a42f89c7-5585-466a-add0-b52720d5ddad"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a42f89c7-5585-466a-add0-b52720d5ddad"></video>
 
 ## 3. 활성화 조건
 이 옵션은 그라디언트를 그리기 전이거나 활성화된 그라디언트가 커스텀 그라디언트가 아닌 경우에 활성화할 수 있습니다. 아래 영상에서 커스텀 그라디언트에서는 옵션이 켜지지 않지만, 기본 제공되는 그라디언트 - `Abstract 1`를 선택하는 경우에는 옵션을 선택할 수 있도록 활성화되는 모습을 확인할 수 있습니다.
@@ -27,7 +27,7 @@
 <a id="90-03-02-22-a13-04"></a>
 
 #### [영상 90.3.2.22.a13.4. `도구 옵션` → `그라디언트` → `활성화된 그라디언트 수정하기`: 활성화 조건](./90-03-02-22-gradient.md#90-03-02-22-a13-04)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e3e2f5b5-3bbb-4016-a7bf-8f6574ceda4a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e3e2f5b5-3bbb-4016-a7bf-8f6574ceda4a"></video>
 
 ***
 

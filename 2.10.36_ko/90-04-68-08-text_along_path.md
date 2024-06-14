@@ -11,7 +11,7 @@
 <a id="90-04-68-08-a102"></a>
 
 #### 영상 90.4.68.8.a102. `텍스트 컨텍스트 메뉴` → `경로따라 텍스트` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a9461d21-1561-4a01-b23d-78813edab053"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a9461d21-1561-4a01-b23d-78813edab053"></video>
 
 [9.1.4.8. 경로따라 텍스트(Text along Path) - 영상 90.4.68.8.a102](./09-01-04-08-text_along_path.md#90-04-68-08-a102)
 

@@ -14,7 +14,7 @@
 <a id="90-01-08-03-13-a101-01"></a>
 
 #### [영상 90.1.8.3.13.a101.1. `이미지 메뉴 바` → `도구` → `변형 도구` → `워프 변형` (Windows) (우리말)](./90-01-08-03-13-warp_transform.md#90-01-08-03-13-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f623785e-03a4-458a-bd61-3f73c55a4417"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f623785e-03a4-458a-bd61-3f73c55a4417"></video>
 
 <a id="14-04-14-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-19-a2-01"></a>
 
 #### [영상 90.3.2.19.a2.1. `도구상자` → `워프 변형` (Windows) (우리말)](./90-03-02-19-warp_transform.md#90-03-02-19-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/16be9763-7127-4e3d-8eb0-f79d9e1e5fa3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/16be9763-7127-4e3d-8eb0-f79d9e1e5fa3"></video>
 
 <a id="14-04-14-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-34-01-01-a1"></a>
 
 #### [영상 90.10.34.1.1.a1. `도구상자` → `워프 변형`: 키보드 단축키 `W` (Windows) (우리말)](./90-10-34-01-01-w.md#90-10-34-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d05b5b2e-93e5-427e-b4ff-350dacc48662"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d05b5b2e-93e5-427e-b4ff-350dacc48662"></video>
 
 ***
 

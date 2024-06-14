@@ -25,7 +25,7 @@ GIF 설명은 [7비트 ASCII 문자](https://en.wikipedia.org/wiki/ASCII#ASCII_p
 <a id="90-04-43-a111"></a>
 
 #### [영상 90.4.43.a111. GIF 설명 입력제한 - 7비트 ASCII 문자만 가능 (Windows) (우리말)](./90-04-43-export_image_as_gif.md#90-04-43-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/aa25ead1-29e9-46ff-8427-e9b5f4bbb779"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/aa25ead1-29e9-46ff-8427-e9b5f4bbb779"></video>
 
 ## 움직이는 GIF 옵션(Animated GIF Options)
 ### 무한 반복(Loop forever)

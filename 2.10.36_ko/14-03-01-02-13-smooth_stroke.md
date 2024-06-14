@@ -17,7 +17,7 @@
 <a id="90-03-02-23-a126-03"></a>
 
 #### [영상 90.3.2.23.a126.3. `도구 옵션` → `그리기 붓` → `스트로크 부드럽게 하기`: 붓 스트로크에 적용하기](./90-03-02-23-paintbrush.md#90-03-02-23-a126-03)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0dcd0417-5097-4cbd-98ba-3327c754a023"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0dcd0417-5097-4cbd-98ba-3327c754a023"></video>
 
 ***
 

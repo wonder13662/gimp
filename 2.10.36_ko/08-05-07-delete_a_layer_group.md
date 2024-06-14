@@ -12,7 +12,7 @@
 <a id="90-04-03-08-a32"></a>
 
 #### [영상 90.4.3.8.a32. 레이어 대화상자 - 레이어 삭제 버튼으로 레이어 그룹 삭제하기 (Windows) (우리말)](./90-04-03-08-bottom_bar_buttons.md#90-04-03-08-a32)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/64ceeec5-7277-49a9-948b-055115d396f3"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/64ceeec5-7277-49a9-948b-055115d396f3"></video>
 
 ## 2. 레이어 대화상자의 컨텍스트 메뉴의 `레이어 삭제(Delete Layer)`
 레이어 대화상자의 레이어 그룹을 선택한 뒤에 오른쪽 클릭으로 컨텍스트 메뉴를 엽니다. 컨텍스트 메뉴의 `레이어 삭제(Delete Layer)` 메뉴를 클릭해서 레이어 그룹을 삭제할 수 있습니다. 아래 영상에서 전체 과정을 확인해보세요.
@@ -25,7 +25,7 @@
 <a id="90-04-03-01-11-a21"></a>
 
 #### [영상 90.4.3.1.11.a21. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `레이어 삭제(Delete Layer)` (windows) (우리말)](./90-04-03-01-11-delete_layer.md#90-04-03-01-11-a21)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d39d052b-f104-44a7-b42b-7c44e036e6b9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d39d052b-f104-44a7-b42b-7c44e036e6b9"></video>
 
 ## 3. 이미지 메뉴 바의 `레이어` → `레이어 삭제(Delete Layer)`
 삭제할 레이어 그룹을 선택한 뒤에 이미지 메뉴바의 `레이어` → `레이어 삭제(Delete Layer)`를 클릭하면 선택한 레이어 그룹을 삭제할 수 있습니다. 아래 영상에서 전체 과정을 확인해보세요.
@@ -38,7 +38,7 @@
 <a id="90-01-06-06-a12"></a>
 
 #### [영상 90.1.6.6.a12. `레이어` → `레이어 삭제`로 레이어 그룹 삭제하기](./90-01-06-06-delete_layer.md#90-01-06-06-a12)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e6585b5b-f5a1-4f4b-b8ef-9fb5297c3ee6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e6585b5b-f5a1-4f4b-b8ef-9fb5297c3ee6"></video>
 
 ***
 

@@ -18,7 +18,7 @@
 <a id="90-01-07-08-a2"></a>
 
 #### [영상 90.1.7.8.a2. `색` → `명도-대비` → `명도-대비` 대화상자](./90-01-07-08-brightness_contrast.md#90-01-07-08-a2)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/18eaf87c-5b0c-4aae-9484-62fd9cbc02bd"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/18eaf87c-5b0c-4aae-9484-62fd9cbc02bd"></video>
 
 ***
 

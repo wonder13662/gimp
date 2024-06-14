@@ -22,7 +22,7 @@
 <a id="90-04-76-a105"></a>
 
 #### 영상 90.4.76.a105. `색상-채도` 대화상자 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fc26c240-c08a-4606-a7d7-acdc3e63067f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fc26c240-c08a-4606-a7d7-acdc3e63067f"></video>
 
 [10.1.3.3. 색조 및 채도 조정 - 영상 90.4.76.a105](./10-01-03-03-adjusting_hue_and_saturation.md)
 

@@ -28,7 +28,7 @@
 <a id="90-04-114-a101-02-01"></a>
 
 #### [영상 90.4.114.a101.2.1. `원근법 조정` 대화상자 → `재조정 버튼` (Windows) (우리말)](./90-04-114-perspective_adjustment.md#90-04-114-a101-02-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9084e8ca-4b03-492a-a6dd-442b3c668cba"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9084e8ca-4b03-492a-a6dd-442b3c668cba"></video>
 
 ***
 

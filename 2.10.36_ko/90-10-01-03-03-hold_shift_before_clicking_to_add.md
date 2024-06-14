@@ -3,7 +3,7 @@
 <a id="90-10-01-03-03-a1"></a>
 
 #### 영상 90.10.1.3.3..a1. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1f578f18-d0d4-4397-aef1-7d725af1a1a9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1f578f18-d0d4-4397-aef1-7d725af1a1a9"></video>
 
 [14.2.1.1. 동작 변경키(Key modifiers) - 영상 90.10.1.3.3..a1](./14-02-01-01-key_modifiers.md#90-10-01-03-03-a1)
 

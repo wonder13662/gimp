@@ -15,7 +15,7 @@
 <a id="90-03-02-10-a201-02-02-01"></a>
 
 #### [영상 90.3.2.10.a201.2.2.1. `도구 옵션` → `잘라내기` → `❎현재 레이어만` + `잘라낸 픽셀 지우기`: 잘라내기 결과 (Windows) (우리말)](./90-03-02-10-crop.md#90-03-02-10-a201-02-02-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/618dfd5a-c6f4-47f2-b9aa-d1b4a96796dc"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/618dfd5a-c6f4-47f2-b9aa-d1b4a96796dc"></video>
 
 `현재 레이어만(Current layer only)` 옵션을 끄면, 모든 레이어에 대해서 잘라내기가 적용됩니다.
 
@@ -27,7 +27,7 @@
 <a id="90-03-02-10-a201-02-01-01"></a>
 
 #### [영상 90.3.2.10.a201.2.1.1. `도구 옵션` → `잘라내기` → `현재 레이어만` + `잘라낸 픽셀 지우기`: 잘라내기 결과 (Windows) (우리말)](./90-03-02-10-crop.md#90-03-02-10-a201-02-01-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e021eff2-1659-45a3-af3a-8edbdee826de"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e021eff2-1659-45a3-af3a-8edbdee826de"></video>
 
 ***
 

@@ -11,7 +11,7 @@
 <a id="90-03-02-10-a201-04-01"></a>
 
 #### [영상 90.3.2.10.a201.4.1. `도구 옵션` → `잘라내기` → `중앙으로부터 확장`: 켜기](./90-03-02-10-crop.md#90-03-02-10-a201-04-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ea0cc778-0ee2-4916-a652-f04ee1142839"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ea0cc778-0ee2-4916-a652-f04ee1142839"></video>
 
 ## 2. 옵션 끄기
 이 옵션을 끄면, 클릭한 위치를 잘라내기 영역의 왼쪽 위를 기준으로 커집니다.
@@ -19,7 +19,7 @@
 <a id="90-03-02-10-a201-04-02"></a>
 
 #### [영상 90.3.2.10.a201.4.2. `도구 옵션` → `잘라내기` → `중앙으로부터 확장`: 끄기](./90-03-02-10-crop.md#90-03-02-10-a201-04-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9e6ca5e9-3ac8-425f-8e36-2fcd35d1f81d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9e6ca5e9-3ac8-425f-8e36-2fcd35d1f81d"></video>
 
 ## 3. Ctrl(⌘) 키로 옵션 켜기/끄기 전환
 Ctrl(⌘) 키로 `도구 옵션` → `잘라내기` → `중앙으로부터 확장` 옵션을 켜고 끌 수 있습니다. 자세한 정보는 [14.4.4.2. 동작 변경키(Key modifiers) - 1. Ctrl(⌘)](./14-04-04-02-key_modifiers.md#14-04-04-02-s1)을 확인해주세요.

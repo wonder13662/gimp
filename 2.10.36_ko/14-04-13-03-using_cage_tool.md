@@ -10,7 +10,7 @@
 <a id="90-03-02-20-a7-01"></a>
 
 #### [영상 90.3.2.20.a7.1. `골조 변형` 도구로 변형할 이미지 영역 선택하기 (Windows) (우리말)](./90-03-02-20-cage_transform.md#90-03-02-20-a7-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/90cde5fe-372d-4fa1-acde-74994e19e08e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/90cde5fe-372d-4fa1-acde-74994e19e08e"></video>
 
 ## 2. 앵커 포인트를 옮겨서 이미지 변형하기
 선택이 완료되면, 자동으로 [골조를 변형해서 이미지 변형하기(Deform the cage to deform the image)](./14-04-13-02-options.md#14-04-13-03-s2)을 켭니다. 이제부터 선 위의 앵커 포인트(anchor point)를 클릭, 드래그해서 옮겨서 이미지를 변형할 수 있습니다. 
@@ -22,7 +22,7 @@
 <a id="90-03-02-20-a7-02"></a>
 
 #### [영상 90.3.2.20.a7.2. 앵커 포인트를 옮겨서 이미지 변형하기 (Windows) (우리말)](./90-03-02-20-cage_transform.md#90-03-02-20-a7-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0f812dba-7c68-4732-b88a-6de0d20a83f9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0f812dba-7c68-4732-b88a-6de0d20a83f9"></video>
 
 ## 3. 앵커 포인트 추가하기
 앵커 포인트를 추가하고 싶다면, 도구 옵션의 [골조 만들기 또는 조정하기(Create or adjust the cage)](./14-04-13-02-options.md#14-04-13-03-s1)을 켜주세요.
@@ -32,7 +32,7 @@
 <a id="90-03-02-20-a7-03"></a>
 
 #### [영상 90.3.2.20.a7.3. 앵커 포인트 추가하기 (Windows) (우리말)](./90-03-02-20-cage_transform.md#90-03-02-20-a7-03)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ea03394a-a0e7-433f-877d-fed08ef1100c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ea03394a-a0e7-433f-877d-fed08ef1100c"></video>
 
 ## 4. `골조 변형` 완료하기
 변형 작업이 완료되었다면, 엔터키를 눌러 완료합니다.
@@ -40,7 +40,7 @@
 <a id="90-03-02-20-a7-04"></a>
 
 #### [영상 90.3.2.20.a7.4. `골조 변형` 완료하기 (Windows) (우리말)](./90-03-02-20-cage_transform.md#90-03-02-20-a7-04)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5d174ceb-ff73-4f53-be48-974edc656e91"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5d174ceb-ff73-4f53-be48-974edc656e91"></video>
 
 ***
 

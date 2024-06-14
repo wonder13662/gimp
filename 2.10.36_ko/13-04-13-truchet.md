@@ -12,7 +12,7 @@
 ![13-04-13-a103-dialog](https://github.com/wonder13662/gimp/assets/15767104/dd9a17ea-60d4-4789-b460-c1e479469433)
 
 #### 영상 13.4.13.a104. 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fa16b38c-536a-4728-8bad-4e82df2c83be"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fa16b38c-536a-4728-8bad-4e82df2c83be"></video>
 
 ## 2. 스크립트
 [truchet.scm.zip](https://github.com/wonder13662/gimp/files/14737467/truchet.scm.zip)

@@ -17,12 +17,12 @@
 <a id="90-04-67-a191"></a>
 
 #### [영상 90.4.67.a191. 텍스트 도구상자 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 오른쪽에서 왼쪽으로](./90-04-67-text_toolbox.md#90-04-67-a191)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/167630eb-ac4d-421f-bd09-f2355c1d20ce"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/167630eb-ac4d-421f-bd09-f2355c1d20ce"></video>
 
 <a id="90-04-67-a192"></a>
 
 #### [영상 90.4.67.a192. 텍스트 도구상자 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 오른쪽에서 왼쪽으로](./90-04-67-text_toolbox.md#90-04-67-a192)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/88e999ba-9a6d-4a5b-8ad6-67511b969c56"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/88e999ba-9a6d-4a5b-8ad6-67511b969c56"></video>
 
 ## 3. `김프 텍스트 편집기` → `오른쪽에서 왼쪽으로`
 `김프 텍스트 편집기` → `오른쪽에서 왼쪽으로`을 선택해서 입력할 수 있습니다. 동작은 위에서 설명한 것과 같습니다만, `김프 텍스트 편집기`로 글자를 입력하는 경우, 커서가 위치한 곳에 글자가 바로 입력되는 모습을 확인할 수 있습니다.
@@ -35,12 +35,12 @@
 <a id="90-04-65-a122"></a>
 
 #### [영상 90.4.65.a122. `김프 텍스트 편집기` 대화상자 → `오른쪽에서 왼쪽으로` (텍스트 박스 동적모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a122)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6a474371-4ebf-45f1-be7f-1655c3948c49"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6a474371-4ebf-45f1-be7f-1655c3948c49"></video>
 
 <a id="90-04-65-a123"></a>
 
 #### [영상 90.4.65.a123. `김프 텍스트 편집기` 대화상자 → `오른쪽에서 왼쪽으로` (텍스트 박스 고정모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a123)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/799f8096-e911-4293-a48d-d2ce4c7c73e5"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/799f8096-e911-4293-a48d-d2ce4c7c73e5"></video>
 
 ***
 

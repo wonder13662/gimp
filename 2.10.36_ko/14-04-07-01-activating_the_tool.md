@@ -14,7 +14,7 @@
 <a id="90-01-08-03-06-a101-01"></a>
 
 #### [영상 90.1.8.3.6.a101.1. `이미지 메뉴 바` → `도구` → `변형 도구` → `기울이기` (Windows) (우리말)](./90-01-08-03-06-shear.md#90-01-08-03-06-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2ab3b342-3f81-4bae-a7da-d7578f33b358"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2ab3b342-3f81-4bae-a7da-d7578f33b358"></video>
 
 <a id="14-04-07-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-14-a2-01"></a>
 
 #### [영상 90.3.2.14.a2.1. `도구상자` → `기울이기`](./90-03-02-14-shear.md#90-03-02-14-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/f85e6949-2fc7-4e54-a86a-ce819ebb3204"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f85e6949-2fc7-4e54-a86a-ce819ebb3204"></video>
 
 <a id="14-04-07-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-27-01-01-a1"></a>
 
 #### [영상 90.10.27.1.1.a1. `도구상자` → `기울이기`: 키보드 단축키 Shift(⇧) + `H`](./90-10-27-01-01-shift_h.md#90-10-27-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1983506f-4d40-4c1d-b402-f8227392d104"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1983506f-4d40-4c1d-b402-f8227392d104"></video>
 
 ***
 

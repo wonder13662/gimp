@@ -13,7 +13,7 @@
 <a id="90-01-08-01-02-a11"></a>
 
 #### [영상 90.1.8.1.2.a11. `도구` → `선택도구` → `타원 선택` (Windows) (우리말)](./90-01-08-01-02-ellipse_select.md#90-01-08-01-02-a11)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/96c69938-56ee-4c2f-869b-c64acbeb49e9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/96c69938-56ee-4c2f-869b-c64acbeb49e9"></video>
 
 ## 2. 도구 상자에서 `타원 선택` 클릭
 
@@ -25,14 +25,14 @@
 <a id="90-03-02-04-a3"></a>
 
 #### [영상 90.3.2.4.a3. `도구상자` → `타원 선택`](./90-03-02-04-ellipse_select.md#90-03-02-04-a3)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3e0bd8cc-d80d-4ceb-8d15-be8cd98b0153"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3e0bd8cc-d80d-4ceb-8d15-be8cd98b0153"></video>
 
 ## 3. 키보드 단축키 `E`
 
 <a id="90-10-02-01-01-a1"></a>
 
 #### [영상 90.10.2.1.1.a1. 타원 선택 도구 - 키보드 단축키 `E`](./90-10-02-01-01-e.md#90-10-02-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cc9bd585-91d3-48e7-863d-f566e496a1f6"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/cc9bd585-91d3-48e7-863d-f566e496a1f6"></video>
 
 ***
 

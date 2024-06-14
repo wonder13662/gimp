@@ -4,14 +4,14 @@
 <a id="90-04-03-06-a21"></a>
 
 #### [영상 90.4.3.6.a21. 다른 레이어에 연결(Linkage to other layers) 뒤에 레이어 이동](./90-04-03-06-linkage.md#90-04-03-06-a21)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/49aed398-f05f-4c92-84cc-ee1fd5496ca5"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/49aed398-f05f-4c92-84cc-ee1fd5496ca5"></video>
 
 Shift(⇧) 버튼을 누른 채, 연결 아이콘을 클릭하면, 같은 레벨의 모든 레이어에 대해 연결 아이콘을 모두 켭니다. 만약 같은 레벨의 레이어의 연결 아이콘이 이미 켜져 있다면, 클릭 대상 레이어를 제외한 나머지 레이어의 연결 아이콘이 모두 꺼집니다. (이는 레이어 가시성과 같은 동작입니다.)
 
 <a id="90-04-03-06-a31"></a>
 
 #### [영상 90.4.3.6.a31. Shift(⇧) + 연결(Linkage) 아이콘 클릭](./90-04-03-06-linkage.md#90-04-03-06-a31)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0a2cc219-8a7d-4ae1-ae42-00a6405e81ff"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0a2cc219-8a7d-4ae1-ae42-00a6405e81ff"></video>
 
 ***
 

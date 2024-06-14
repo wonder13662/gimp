@@ -3,7 +3,7 @@
 <a id="90-04-03-13-a11"></a>
 
 #### 영상 90.4.3.13.a11. 레이어 마스크에 붓 또는 지우개를 사용
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f1463207-278b-49b4-8b84-9ebf053253d1"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f1463207-278b-49b4-8b84-9ebf053253d1"></video>
 
 [4.2.13. 붓 또는 지우개를 사용하면 이상한 색이 나옵니다 - 영상 90.4.3.13.a11](./04-02-13-unexpected-colors-when-trying-to-use-a-brush-or-eraser.md#90-04-03-13-a11)
 

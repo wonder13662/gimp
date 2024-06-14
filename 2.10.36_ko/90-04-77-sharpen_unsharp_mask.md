@@ -22,21 +22,21 @@
 <a id="90-04-77-a111"></a>
 
 #### 영상 90.4.77.a111. `선명하게 하기` 대화상자 → 슬라이더 `반경(Radius)` 조절 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/46b1c757-8229-4592-8f3b-7983376a0420"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/46b1c757-8229-4592-8f3b-7983376a0420"></video>
 
 [10.1.4.1. 선명하게 하기(Unblurring) - 영상 90.4.77.a111](./10-01-04-01-unblurring.md#90-04-77-a111)
 
 <a id="90-04-77-a112"></a>
 
 #### 영상 90.4.77.a112. `선명하게 하기` 대화상자 → 슬라이더 `양(Amount)` 조절 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/6c3d191e-63ea-402a-bf42-a5e2c1436f5e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6c3d191e-63ea-402a-bf42-a5e2c1436f5e"></video>
 
 [10.1.4.1. 선명하게 하기(Unblurring) - 영상 90.4.77.a112](./10-01-04-01-unblurring.md#90-04-77-a112)
 
 <a id="90-04-77-a121"></a>
 
 #### 그림 90.4.77.a121. `선명하게 하기` 대화상자: 헤일로 현상 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/29bac2be-8098-4044-9f6e-75dd2c27080d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/29bac2be-8098-4044-9f6e-75dd2c27080d"></video>
 
 [14.4.1.1.3. 보간법(Interpolation) - 그림 90.4.77.a121](./14-04-01-01-03-interpolation.md#90-04-77-a121)
 

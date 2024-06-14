@@ -22,14 +22,14 @@
 <a id="90-04-41-a105"></a>
 
 #### 영상 90.4.41.a105. `위치 열기` 대화상자에서 이미지 로딩 성공 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c870f3e0-9c7e-49ee-959e-9362f900a663"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c870f3e0-9c7e-49ee-959e-9362f900a663"></video>
 
 [5.3.2. 위치 열기 - 영상 90.4.41.a105](./05-03-02-open-location.md#90-04-41-a105)
 
 <a id="90-04-41-a106"></a>
 
 #### 영상 90.4.41.a106. `위치 열기` 대화상자에서 이미지 로딩 실패 (Mac) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/34240b4a-ac31-4302-91f9-35e0b1ab5e18"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/34240b4a-ac31-4302-91f9-35e0b1ab5e18"></video>
 
 [5.3.2. 위치 열기 - 영상 90.4.41.a106](./05-03-02-open-location.md#90-04-41-a106)
 

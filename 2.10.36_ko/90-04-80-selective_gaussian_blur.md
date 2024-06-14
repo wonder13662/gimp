@@ -22,7 +22,7 @@
 <a id="90-04-80-a105"></a>
 
 #### 영상 90.4.80.a105. `일부 가우시안 흐림처리` 대화상자 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a1015b6e-565e-4e69-ad4a-1e461a34776c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a1015b6e-565e-4e69-ad4a-1e461a34776c"></video>
 
 [10.1.4.2. 거친 정도 줄이기(Reducing Graininess) - 영상 90.4.80.a105](./10-01-04-02-reducing_graininess.md#90-04-80-a105)
 

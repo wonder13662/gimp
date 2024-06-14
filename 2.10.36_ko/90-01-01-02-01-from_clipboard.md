@@ -16,14 +16,14 @@
 <a id="90-01-01-02-01-a111"></a>
 
 #### 영상 90.1.1.2.1.a111. 전체화면 캡쳐를 클립보드에 저장해서 `파일` → `만들기` → `클립보드에서`로 새 이미지 만들기  (Windows)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/39d15a61-bd64-4bb8-a980-41207100f4f3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/39d15a61-bd64-4bb8-a980-41207100f4f3"></video>
 
 [5.3.7. 복사와 붙여넣기 - 영상 90.1.1.2.1.a111](./05-03-07-copy-and-paste.md#90-01-01-02-01-a111)
 
 <a id="90-01-01-02-01-a112"></a>
 
 #### 영상 90.1.1.2.1.a112. 활성화 창의 캡쳐를 클립보드에 저장해서 `파일` → `만들기` → `클립보드에서`로 새 이미지 만들기  (Windows)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ed2939d1-3b5f-4ba3-b86c-141bf376be1d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ed2939d1-3b5f-4ba3-b86c-141bf376be1d"></video>
 
 [5.3.7. 복사와 붙여넣기 - 영상 90.1.1.2.1.a112](./05-03-07-copy-and-paste.md#90-01-01-02-01-a112)
 

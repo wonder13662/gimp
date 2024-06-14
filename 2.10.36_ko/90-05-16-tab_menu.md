@@ -51,28 +51,28 @@
 <a id="90-05-16-a131"></a>
 
 #### 영상 90.5.16.a131. 탭 닫기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fcc77500-53e6-413f-a235-7bd64cd0af5e"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/fcc77500-53e6-413f-a235-7bd64cd0af5e"></video>
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a131](./03-02-03-02-tab-menu.md#90-05-16-a131)
 
 <a id="90-05-16-a132"></a>
 
 #### 영상 90.5.16.a132. 탭 닫기(마지막 대화상자)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9f156dab-6572-42a3-be2e-bdccec04fa63"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9f156dab-6572-42a3-be2e-bdccec04fa63"></video>
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a132](./03-02-03-02-tab-menu.md#90-05-16-a132)
 
 <a id="90-05-16-a141"></a>
 
 #### 영상 90.5.16.a141. 탭 떼어내기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3df6511b-91cf-4fab-b43c-8dc9c74c74c2"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3df6511b-91cf-4fab-b43c-8dc9c74c74c2"></video>
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a141](./03-02-03-02-tab-menu.md#90-05-16-a141)
 
 <a id="90-05-16-a142"></a>
 
 #### 영상 90.5.16.a142. 탭 잠겨있음 상태
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ec3fa72c-397b-44c9-9886-1bb891ba4772"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ec3fa72c-397b-44c9-9886-1bb891ba4772"></video>
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a142](./03-02-03-02-tab-menu.md#90-05-16-a142)
 
@@ -86,7 +86,7 @@
 <a id="90-05-16-a152"></a>
 
 #### 영상 90.5.16.a152. 미리보기 크기 설정하기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb058bdc-b988-4b48-b6c4-539d80c18246"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb058bdc-b988-4b48-b6c4-539d80c18246"></video>
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a152](./03-02-03-02-tab-menu.md#90-05-16-a152)
 
@@ -142,7 +142,7 @@
 <a id="90-05-16-a181"></a>
 
 #### 영상 90.5.16.a181. 탭 메뉴의 탭 추가하기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5831e5d3-eb1f-403a-a7ff-55fd7b8fb6df"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5831e5d3-eb1f-403a-a7ff-55fd7b8fb6df"></video>
 
 [3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.5.16.a181](./03-02-03-01-organizing-dialogs.md#90-05-16-a181)
 
@@ -163,14 +163,14 @@
 <a id="90-05-16-a193"></a>
 
 #### 영상 90.5.16.a193. `자동으로 현재 이미지 따라가기`이 켜져 있어 선택하는 이미지 창의 정보가 표시됩니다.
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/037cf11c-c7a7-4b50-8414-3fc73b0c6e45"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/037cf11c-c7a7-4b50-8414-3fc73b0c6e45"></video>
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a193](./03-02-03-02-tab-menu.md#90-05-16-a193)
 
 <a id="90-05-16-a194"></a>
 
 #### 그림 90.5.16.a194. `자동으로 현재 이미지 따라가기`이 꺼져 있어 선택하는 이미지 창의 정보는 표시되지 않습니다. 이미지 탭에서 선택하는 이미지의 정보가 표시됩니다. 
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/37f5704e-0bc9-40ab-a567-b9b81235e21a"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/37f5704e-0bc9-40ab-a567-b9b81235e21a"></video>
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.5.16.a194](./03-02-03-02-tab-menu.md#90-05-16-a194)
 
@@ -196,7 +196,7 @@
 <a id="90-05-16-a213"></a>
 
 #### 영상 90.5.16.a213. 탭 메뉴의 '도구 옵션'으로 독(Dock)에 '도구 옵션' 대화상자 추가하기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb11afcc-44a5-43a7-a01a-ad7aa2f34dd6"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb11afcc-44a5-43a7-a01a-ad7aa2f34dd6"></video>
 
 [4.3.2. 도구 옵션 대화상자가 사라졌습니다 - 영상 90.5.16.a213](./04-03-02-tool-options-dialog-is-missing.md#90-05-16-a213)
 

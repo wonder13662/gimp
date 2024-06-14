@@ -4,7 +4,7 @@
 <a id="90-99-a111"></a>
 
 #### [영상 90.99.a111. 파일관리자로 GIMP(김프)와 연결된 이미지 열기 (Windows) (우리말)](./90-99-etc.md#90-99-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8057c3c1-9694-4d4d-bb0b-fa2b76504678"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8057c3c1-9694-4d4d-bb0b-fa2b76504678"></video>
 
 ## 다른 페이지로 가기
 

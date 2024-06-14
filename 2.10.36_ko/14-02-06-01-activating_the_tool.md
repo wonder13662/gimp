@@ -12,7 +12,7 @@
 <a id="90-01-08-01-06-a11"></a>
 
 #### [영상 90.1.8.1.6.a11. `도구` → `선택도구` → `색상으로 선택` (Windows) (우리말)](./90-01-08-01-06-by_color_select.md#90-01-08-01-06-a11)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/68f7a520-e0ee-4783-b3ad-98463c761e87"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/68f7a520-e0ee-4783-b3ad-98463c761e87"></video>
 
 ## 2. 도구 상자에서 `색상으로 선택` 클릭
 
@@ -24,14 +24,14 @@
 <a id="90-03-02-09-a3"></a>
 
 #### [영상 90.3.9.a3. `도구상자` → `색상으로 선택`](./90-03-02-09-select_by_color.md#90-03-02-09-a3)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/97b3f37d-f83a-4c3c-a193-f70cdd8f3ee1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/97b3f37d-f83a-4c3c-a193-f70cdd8f3ee1"></video>
 
 ## 3. 키보드 단축키 Shift(⇧) + O
 
 <a id="90-10-05-01-01-a1"></a>
 
 #### [영상 90.10.5.1.1.a1. 색상으로 선택 도구 - 키보드 단축키 Shift(⇧) + O](./90-10-05-01-01-shift_o.md)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9e22bed6-f96c-42ce-9f80-72f13957a790"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9e22bed6-f96c-42ce-9f80-72f13957a790"></video>
 
 ***
 

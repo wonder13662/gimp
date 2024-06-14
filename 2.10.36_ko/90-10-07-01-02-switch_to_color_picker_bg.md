@@ -3,7 +3,7 @@
 <a id="90-10-07-01-02-a1"></a>
 
 #### 영상 90.10.7.1.2.a1. 칠하기 도구:지우개 - Ctrl(⌘) 키 - 색상 추출 도구(Color Picker)로 배경색 바꾸기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4b349494-35d1-47cc-9211-a3d8d90c38ed"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4b349494-35d1-47cc-9211-a3d8d90c38ed"></video>
 
 [14.3.1.1. 동작 변경키(Key modifiers) - 영상 90.10.7.1.2.a1](./14-03-01-01-key_modifiers.md#90-10-07-01-02-a1)
 

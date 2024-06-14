@@ -16,7 +16,7 @@
 <a id="90-04-37-a127"></a>
 
 #### [영상 90.4.37.a127. `새 이미지 만들기` 대화상자 → 고급옵션 → `채우기`: 투명 (Windows) (우리말)](./90-04-37-create_a_new_image.md#90-04-37-a127)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/374e5ad4-7c3c-4832-b140-7e25c1ccc7cf"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/374e5ad4-7c3c-4832-b140-7e25c1ccc7cf"></video>
 
 또다른 방법은 [레이어 대화상자](./15-02-01-00-layers-dialog.md)의 오른쪽 클릭 팝업 메뉴에서 [`알파 채널 추가`](./16-07-34-add-alpha-channel.md)를 클릭합니다.
 
@@ -28,7 +28,7 @@
 <a id="90-04-03-01-22-a21"></a>
 
 #### [영상 90.4.3.1.22.a21. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `알파 채널 추가` (windows) (우리말)](90-04-03-01-22-add_alpha_channel.md#90-04-03-01-22-a21)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/93e62ca8-bebc-4479-9c76-109acdbd3966"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/93e62ca8-bebc-4479-9c76-109acdbd3966"></video>
 
 ## 3. 새로 추가하는 레이어는 알파 채널을 갖습니다
 레이어를 새로 추가하면, 이미지가 불투명 채우기 타입(Opaque Fill type)이더라도, 레이어에 알파 채널이 자동으로 추가됩니다.
@@ -36,14 +36,14 @@
 <a id="90-04-03-11-a11"></a>
 
 #### [영상 90.4.3.11.a11. 새로운 레이어를 추가해서 알파 채널도 함께 추가 (Windows) (우리말)](./90-04-03-11-alpha_channel.md#90-04-03-11-a11)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0035aaa0-0cfe-4ccb-9539-1f81f5728b76"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0035aaa0-0cfe-4ccb-9539-1f81f5728b76"></video>
 
 그리고 새로운 레이어를 삭제하면 추가되었던 알파 채널도 함께 삭제됩니다.
 
 <a id="90-04-03-11-a21"></a>
 
 #### [영상 90.4.3.11.a21. 새로운 레이어를 삭제해서 알파 채널도 함께 삭제 (Windows) (우리말)](./90-04-03-11-alpha_channel.md#90-04-03-11-a21)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ba438dec-3083-4714-851b-80b1af5a0147"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ba438dec-3083-4714-851b-80b1af5a0147"></video>
 
 이미지의 가장 아래의 배경 레이어를 제외한 모든 레이어는 자동적으로 알파 채널을 갖습니다. 하지만 그레이스케일로 표현된 알파 값은 볼 수 없습니다. 좀 더 자세한 내용은 [용어집 - 알파](./19-glossaryx-alpha.md)를 참고해주세요.
 

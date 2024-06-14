@@ -8,7 +8,7 @@
 <a id="90-04-03-02-a111"></a>
 
 #### [영상 90.4.3.2.a111. 중첩된 레이어 그룹을 다른 레이어 그룹에 집어 넣기](./90-04-03-02-layer_group.md#90-04-03-02-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/421b5d6b-a79d-4003-b2f1-4edee45731ba"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/421b5d6b-a79d-4003-b2f1-4edee45731ba"></video>
 
 <a id="08-05-04-s2"></a>
 
@@ -17,7 +17,7 @@
 <a id="90-04-03-02-a121"></a>
 
 #### [영상 90.4.3.2.a121. 레이어 대화상자의 아래쪽 레이어 올리기, 내리기 버튼으로 레이어와 레이어 그룹 옮기기 (Windows) (우리말)](./90-04-03-02-layer_group.md#90-04-03-02-a121)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cf2d09e2-5034-4c01-a086-f889f1e42071"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/cf2d09e2-5034-4c01-a086-f889f1e42071"></video>
 
 <a id="08-05-04-s3"></a>
 
@@ -27,12 +27,12 @@ GIMP(김프)와 함께 실행중인 어플리케이션이 레이어의 drag & dr
 <a id="90-04-03-09-a11"></a>
 
 #### [영상 90.4.3.9.a11. 함께 작동중인 어플리케이션의 영향으로 레이어의 drag & drop이 실패](./90-04-03-09-drag_n_drop_layers.md#90-04-03-09-a11)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dc28432e-b50f-42ec-a9f1-db2ad15d3247"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/dc28432e-b50f-42ec-a9f1-db2ad15d3247"></video>
 
 <a id="90-04-03-09-a21"></a>
 
 #### [영상 90.4.3.9.a21. 함께 작동중인 어플리케이션을 중단하여 레이어의 drag & drop이 성공](./90-04-03-09-drag_n_drop_layers.md#90-04-03-09-a21)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ba032e49-e1ca-48c2-bd83-50b7179dc735"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ba032e49-e1ca-48c2-bd83-50b7179dc735"></video>
 
 ***
 

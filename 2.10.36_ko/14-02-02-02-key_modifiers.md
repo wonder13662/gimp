@@ -11,7 +11,7 @@
 <a id="90-10-01-02-03-a1"></a>
 
 #### [영상 90.10.1.2.3.a1. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드](./90-10-01-02-03-hold_ctrl_before_clicking_to_subtract.md#90-10-01-02-03-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1aa010b3-2198-44d2-a4d8-35fb9bf64d91"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1aa010b3-2198-44d2-a4d8-35fb9bf64d91"></video>
 
 Ctrl(⌘)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시 영역의 변화는 아래를 참고해주세요.
 
@@ -31,7 +31,7 @@ Ctrl(⌘)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시 
 <a id="90-10-01-02-04-a1"></a>
 
 #### [영상 90.10.1.2.4.a1. 선택 도구로 클릭 뒤에 Ctrl(⌘) 키를 누름 - 중앙으로부터 확장](./90-10-00-keyboard_shortcut.md#90-10-01-02-04-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ab044c3b-b060-42be-870f-f505d08aebb8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ab044c3b-b060-42be-870f-f505d08aebb8"></video>
 
 ## 2. Shift(⇧)
 ### 2-1. 선택을 만들기 전에 Shift(⇧) 키를 누름
@@ -40,7 +40,7 @@ Ctrl(⌘)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시 
 <a id="90-10-01-03-03-a1"></a>
 
 #### [영상 90.10.1.3.3..a1. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드](./90-10-01-03-03-hold_shift_before_clicking_to_add.md#90-10-01-03-03-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/1f578f18-d0d4-4397-aef1-7d725af1a1a9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1f578f18-d0d4-4397-aef1-7d725af1a1a9"></video>
 
 Shift(⇧)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시 영역의 변화는 아래를 참고해주세요.
 
@@ -60,7 +60,7 @@ Shift(⇧)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시
 <a id="90-10-01-03-04-a1"></a>
 
 #### [영상 90.10.1.3.4.a1. 선택 도구로 클릭 뒤에 Shift(⇧) 키를 누름: 고정 옵션 켜짐](./90-10-01-03-04-hold_shift_after_clicking_to_activate_fixed_option.md#90-10-01-03-04-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/c745012f-36ea-42e6-92b9-2a3b69a80d68"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c745012f-36ea-42e6-92b9-2a3b69a80d68"></video>
 
 ## 3. Ctrl(⌘) + Shift(⇧)
 ### 3-1. 선택을 만들기 전에 Ctrl(⌘) + Shift(⇧) 키를 누름
@@ -79,7 +79,7 @@ Shift(⇧)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시
 <a id="90-10-01-04-03-a1"></a>
 
 #### [영상 90.10.1.4.3.a1. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드](./90-10-01-04-03-hold_ctrl_shift_before_clicking_to_intersect.md#90-10-01-04-03-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/adf540cb-fdc9-4d79-abc0-43763ac3c7ea"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/adf540cb-fdc9-4d79-abc0-43763ac3c7ea"></video>
 
 ### 3-2. 선택을 만든 후에 Ctrl(⌘) + Shift(⇧) 키를 누름
 선택 모드가 교차 모드(intersection mode)로 바뀝니다. 동작이 끝나면, 선택 영역은 사용자가 선택한 영역과 이전에 있던 선택 영역과 교차된 영역으로 바뀝니다.
@@ -87,7 +87,7 @@ Shift(⇧)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시
 <a id="90-10-01-04-04-a1"></a>
 
 #### [영상 90.10.1.4.4.a1. 선택 도구로 클릭 뒤에 Ctrl(⌘) + Shift(⇧) 키를 누름: `중앙으로부터 확장` 옵션과 `고정(Fixed)` 옵션 켜짐](./90-10-01-04-04-hold_ctrl_shift_after_clicking_to_activate_expand_from_center_option_n_fixed_option.md#90-10-01-04-04-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/97ebc183-71d3-4642-93fa-bdb8dabc799c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/97ebc183-71d3-4642-93fa-bdb8dabc799c"></video>
 
 ***
 

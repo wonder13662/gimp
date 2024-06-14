@@ -14,7 +14,7 @@
 <a id="90-01-08-02-13-a101-01"></a>
 
 #### [영상 90.1.8.2.13.a101.1. `이미지 메뉴 바` → `도구` → `칠하기 도구` → `문지르기` (Windows) (우리말)](./90-01-08-02-13-smudge.md#90-01-08-02-13-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/65386e47-672c-4896-b24d-bee3b6ed3712"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/65386e47-672c-4896-b24d-bee3b6ed3712"></video>
 
 <a id="14-03-16-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-32-a2-01"></a>
 
 #### [영상 90.3.2.32.a2.1. `도구상자` → `문지르기` (Windows) (우리말)](./90-03-02-32-smudge.md#90-03-02-32-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7002d78e-be13-4b46-bba2-dce814f41a26"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7002d78e-be13-4b46-bba2-dce814f41a26"></video>
 
 <a id="14-03-16-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-20-01-01-a1"></a>
 
 #### [영상 90.10.20.1.1.a1. `문지르기` 도구 - 키보드 단축키 `S`](./90-10-20-01-01-s.md#90-10-20-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e8ba903f-849a-4131-8198-3ded57cfbab9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e8ba903f-849a-4131-8198-3ded57cfbab9"></video>
 
 ***
 

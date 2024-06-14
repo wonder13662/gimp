@@ -3,7 +3,7 @@
 <a id="90-10-07-03-01-a1"></a>
 
 #### 영상 90.10.7.3.1.a1. `도구상자` → `그리기 붓` + Ctrl(⌘) + Shift(⇧): 직선그리기
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/19594520-4c4d-4bd6-98f6-c31e3b3af8d1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/19594520-4c4d-4bd6-98f6-c31e3b3af8d1"></video>
 
 [14.3.1.1. 동작 변경키(Key modifiers) - 영상 90.10.7.3.1.a1](./14-03-01-01-key_modifiers.md#90-10-07-03-01-a1)
 

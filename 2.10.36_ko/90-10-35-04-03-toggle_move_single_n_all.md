@@ -3,7 +3,7 @@
 <a id="90-10-35-04-03-a1"></a>
 
 #### 영상 90.10.35.4.3.a1. Shift(⇧): "컴포넌트 1개 움직이기"와  "모든 컴포넌트 움직이기" 전환
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/73468038-00fa-4823-a370-b8885ef32bb5"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/73468038-00fa-4823-a370-b8885ef32bb5"></video>
 
 [14.5.2.3.3. 편집 모드 - 이동(Move Mode) - 영상 90.10.35.4.3.a1](./14-05-02-03-03-move_mode.md#90-10-35-04-03-a1)
 

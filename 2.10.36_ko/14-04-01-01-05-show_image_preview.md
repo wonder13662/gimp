@@ -12,7 +12,7 @@
 <a id="90-03-02-12-a101-04-03-01"></a>
 
 #### [영상 90.3.2.12.a101.4.3.1. `도구 옵션` → `회전` → `이미지 미리보기 보여주기` (Windows) (우리말)](./90-03-02-12-rotate.md#90-03-02-12-a101-04-03-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ac7b6e5e-29bb-4bd6-bba8-239044fa0b21"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ac7b6e5e-29bb-4bd6-bba8-239044fa0b21"></video>
 
 ***
 

@@ -18,7 +18,7 @@
 <a id="90-03-02-10-a201-02-03-01"></a>
 
 #### [영상 90.3.2.10.a201.2.3.1. `도구 옵션` → `잘라내기` → `현재 레이어만` + `❎잘라낸 픽셀 지우기`: 잘라내기 결과 (Windows) (우리말)](./90-03-02-10-crop.md#90-03-02-10-a201-02-03-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/094df5d0-0fdd-47f0-b64e-c4cbda6d2dba"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/094df5d0-0fdd-47f0-b64e-c4cbda6d2dba"></video>
 
 ## 2. 옵션 끄기(기본값)
 기본값은 이 옵션이 꺼진 것입니다. 이 옵션이 꺼진 상태에서 영역을 잘라내도, 캔버스 크기는 똑같이 유지됩니다.
@@ -31,7 +31,7 @@
 <a id="90-03-02-10-a201-02-01-01"></a>
 
 #### [영상 90.3.2.10.a201.2.1.1. `도구 옵션` → `잘라내기` → `현재 레이어만` + `잘라낸 픽셀 지우기`: 잘라내기 결과 (Windows) (우리말)](./90-03-02-10-crop.md#90-03-02-10-a201-02-01-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e021eff2-1659-45a3-af3a-8edbdee826de"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e021eff2-1659-45a3-af3a-8edbdee826de"></video>
 
 
 ***

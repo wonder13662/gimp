@@ -12,7 +12,7 @@
 ![13-04-05-a103-dialog(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/9b13b75e-5e01-4aec-95ab-d7592fcf21d9)
 
 #### 영상 13.4.5.a104. 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e4647f1d-57f5-44d5-b76d-4f4b0045b33f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e4647f1d-57f5-44d5-b76d-4f4b0045b33f"></video>
 
 ## 2. `필터` → `알파를 로고로` → `Chip Away...`
 
@@ -29,7 +29,7 @@
 ![13-04-05-a114-dialog](https://github.com/wonder13662/gimp/assets/15767104/a4700754-3c33-48b1-be72-0d07b561858c)
 
 #### 영상 13.4.5.a115. 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0f458c5c-6452-4910-a1a0-897d8326279c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0f458c5c-6452-4910-a1a0-897d8326279c"></video>
 
 ## 3. 스크립트
 [chip-away.scm.zip](https://github.com/wonder13662/gimp/files/14737259/chip-away.scm.zip)

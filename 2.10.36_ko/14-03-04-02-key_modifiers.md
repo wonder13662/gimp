@@ -16,12 +16,12 @@ Ctrl(⌘) 키를 누르면 [그리기 붓](./14-03-07-00-paintbrush.md)과 비�
 
 #### [영상 90.10.8.2.1.a1. 칠하기 도구:`영역 채우기` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(전경색)](./90-10-08-02-01-switch_to_color_picker_fg.md#90-10-08-02-01-a1)
 
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/4502c02b-fdf7-4ead-9486-bc1c8e9bd7b4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4502c02b-fdf7-4ead-9486-bc1c8e9bd7b4"></video>
 
 <a id="90-10-08-05-01-a1"></a>
 
 #### [영상 90.10.8.5.1.a1. 칠하기 도구:`영역 채우기` - Ctrl(⌘) + Alt(⌥) 키: 색상 추출 도구로 바꾸기(배경색)](./90-10-08-02-01-switch_to_color_picker_fg.md#90-10-08-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e837e7a6-1841-4a61-9a30-a1787ec356f3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e837e7a6-1841-4a61-9a30-a1787ec356f3"></video>
 
 <a id="14-03-04-02-s2"></a>
 
@@ -36,7 +36,7 @@ Shift(⇧) 키를 누르면 `도구 옵션` → `영역 채우기` → `영향�
 <a id="90-10-08-03-01-a1"></a>
 
 #### [영상 90.10.8.3.1.a1. 칠하기 도구:`영역 채우기` - Shift(⇧) 키: 전체 선택 채우기로 바꾸기](./90-10-08-03-01-switch_fill_whole_selection.md#90-10-08-03-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/26b80938-5dc1-47ab-9817-d814474b02b5"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/26b80938-5dc1-47ab-9817-d814474b02b5"></video>
 
 <a id="14-03-04-02-s3"></a>
 
@@ -51,7 +51,7 @@ Alt(⌥) 키를 누르면 `도구 옵션` → `영역 채우기` → `채우기 
 <a id="90-10-08-04-01-a1"></a>
 
 #### [영상 90.10.8.4.1.a1. 칠하기 도구:`영역 채우기` - Alt(⌥) 키: 배경색으로 채우기로 바꾸기](./90-10-08-04-01-switch_bg_color_fill.md#90-10-08-04-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/eee1bf4a-aebf-486f-afff-f3a354dc828c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/eee1bf4a-aebf-486f-afff-f3a354dc828c"></video>
 
 ***
 

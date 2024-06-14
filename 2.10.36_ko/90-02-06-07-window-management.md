@@ -61,7 +61,7 @@
 <a id="90-02-06-07-a12-03-01"></a>
 
 #### 영상 90.2.6.7.a12.3.1. `기본 설정` → `인터페이스` → `창 관리` → `창 관리 설정` → `독 및 도구상자 힌트` → `상위 유지`
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/96612a71-5780-41bb-81cb-1046e039b441"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/96612a71-5780-41bb-81cb-1046e039b441"></video>
 
 [12.1.17.1. 창 관리 설정(Window Manager Hints) - 영상 90.2.6.7.a12.3.1](./12-01-17-01-window_manager_hints.md#90-02-06-07-a12-03-01)
 
@@ -73,14 +73,14 @@
 <a id="90-02-06-07-a21-01"></a>
 
 #### 영상 90.2.6.7.a21.1. `기본 설정` → `인터페이스` → `창 관리` → `포커스` → `포커스된 이미지 활성화`: 켜기 (Windows) (우리말)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/abd2c1c4-855e-4446-8006-155184cc2174"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/abd2c1c4-855e-4446-8006-155184cc2174"></video>
 
 [12.1.17.2. 포커스(Focus) - 영상 90.2.6.7.a21.1](./12-01-17-02-focus.md#90-02-06-07-a21-01)
 
 <a id="90-02-06-07-a21-02"></a>
 
 #### 영상 90.2.6.7.a21.2. `기본 설정` → `인터페이스` → `창 관리` → `포커스` → `포커스된 이미지 활성화`: 끄기 (Windows) (우리말)
-<video controls="controls" width="720"  src="https://github.com/wonder13662/gimp/assets/15767104/495ed510-47d6-41f2-b8fb-c0625390e367"></video>
+<video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/495ed510-47d6-41f2-b8fb-c0625390e367"></video>
 
 [12.1.17.2. 포커스(Focus) - 영상 90.2.6.7.a21.2](./12-01-17-02-focus.md#90-02-06-07-a21-02)
 

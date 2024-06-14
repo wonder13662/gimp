@@ -14,7 +14,7 @@
 <a id="90-03-02-03-a111"></a>
 
 #### [영상 90.3.2.3.a111. 선택의 `핸들 모드` - 핸들로 크기 바꾸기](./90-03-02-03-rectangle_select.md#90-03-02-03-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/37be8e66-b382-4ae5-ace4-0cbccc31686a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/37be8e66-b382-4ae5-ace4-0cbccc31686a"></video>
 
 <a id="07-02-01-s1-02"></a>
 
@@ -24,7 +24,7 @@
 <a id="90-03-02-03-a112"></a>
 
 #### [영상 90.3.2.3.a112. 선택의 `핸들 모드` - 선택 움직이기](./90-03-02-03-rectangle_select.md#90-03-02-03-a112)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/994c594d-36ca-400d-9ca5-c44ce7074539"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/994c594d-36ca-400d-9ca5-c44ce7074539"></video>
 
 <a id="07-02-01-s2"></a>
 
@@ -38,7 +38,7 @@
 <a id="90-03-02-03-a113"></a>
 
 #### [영상 90.3.2.3.a113. 선택을 `핸들 모드`에서 `점선 모드`로 변경](./90-03-02-03-rectangle_select.md#90-03-02-03-a113)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/144097b9-643e-4bfc-8154-212931839d49"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/144097b9-643e-4bfc-8154-212931839d49"></video>
 
 <a id="07-02-01-s2-02"></a>
 
@@ -48,7 +48,7 @@
 <a id="90-03-02-03-a114"></a>
 
 #### [영상 90.3.2.3.a114. 선택의 `점선 모드` - 드래그로 새로운 선택 만들기](./90-03-02-03-rectangle_select.md#90-03-02-03-a114)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b8f33945-e07c-44a2-aec3-fa503336369b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b8f33945-e07c-44a2-aec3-fa503336369b"></video>
 
 <a id="07-02-01-s3"></a>
 

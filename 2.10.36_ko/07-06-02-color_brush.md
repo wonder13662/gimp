@@ -24,7 +24,7 @@
 <a id="90-04-15-a162"></a>
 
 #### [영상 90.4.15.a162. 색상붓 만들기 - RGBA 이미지를 `.gbr` 파일로 내보내기](./90-04-15-brushes.md#90-04-15-a162)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dc1297a0-7e4b-47a3-b60a-21f90d9da2fe"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/dc1297a0-7e4b-47a3-b60a-21f90d9da2fe"></video>
 
 ### 4. 저장한 `.gbr` 파일을 GIMP(김프)의 브러시 폴더로 옮기기
 `.gbr` 파일을 옮길 `기본 설정` → `폴더` → `붓`에 선택된 "붓 폴더" 경로를 파일 탐색기로 엽니다.
@@ -39,7 +39,7 @@
 <a id="90-02-09-01-a112"></a>
 
 #### [영상 90.2.9.1.a112. `기본 설정` → `폴더` → `붓` (windows) (우리말) - 선택된 붓 폴더를 파일탐색기로 열기](./90-02-09-01-brushes.md#90-02-09-01-a112)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/e16a09ae-d1fe-46a9-915c-4eb28bc95558"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e16a09ae-d1fe-46a9-915c-4eb28bc95558"></video>
 
 `.gbr` 파일을 `기본 설정` → `폴더` → `붓`에 선택된 "붓 폴더" 경로로 옮깁니다. 
 
@@ -49,7 +49,7 @@
 <a id="90-04-15-a163"></a>
 
 #### [영상 90.4.15.a163. 색상붓 만들기 - `.gbr` 파일을 불러오기](./90-04-15-brushes.md#90-04-15-a163)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/012bc61a-d955-42d3-99fa-d4b9297cfefa"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/012bc61a-d955-42d3-99fa-d4b9297cfefa"></video>
 
 ### 6. 새로운 색상 붓으로 칠하기
 이제 새로 만든 붓으로 칠해보겠습니다. 전경색과는 상관없이 색상 붓의 자국이 가지고 있는 색상만이 표시됩니다.
@@ -57,7 +57,7 @@
 <a id="90-04-15-a164"></a>
 
 #### [영상 90.4.15.a164. 색상붓 만들기 - 색상붓으로 칠하기](./90-04-15-brushes.md#90-04-15-a164)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7162b436-f9c5-4b27-a706-9a7d8e59f383"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7162b436-f9c5-4b27-a706-9a7d8e59f383"></video>
 
 ***
 

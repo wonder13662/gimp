@@ -9,7 +9,7 @@ Ctrl(⌘) 키를 누르고 있으면 `도구 옵션` → `흐릿하게/선명하
 <a id="90-10-19-02-01-a1"></a>
 
 #### [영상 90.10.19.2.1.a1. 칠하기 도구:`흐릿하게/선명하게` - Ctrl(⌘) 키: 흐릿하게/선명하게 모드 바꾸기](./90-10-19-02-01-switch_blur_n_sharpen.md#90-10-19-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/16fddf26-837b-49c8-ad13-999b5893d219"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/16fddf26-837b-49c8-ad13-999b5893d219"></video>
 
 ***
 

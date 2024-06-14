@@ -12,7 +12,7 @@
 ![13-04-07-a103-dialog](https://github.com/wonder13662/gimp/assets/15767104/ccac28b7-1a62-4737-bece-a0e887a4b4ec)
 
 #### 영상 13.4.7.a104. 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/bf0d0534-1b63-4977-8249-350d3d5161d3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bf0d0534-1b63-4977-8249-350d3d5161d3"></video>
 
 ## 2. `필터` → `알파를 로고로` → `Glowing Logo...`
 
@@ -29,7 +29,7 @@
 ![13-04-07-a114-dialog](https://github.com/wonder13662/gimp/assets/15767104/aa886b35-075c-4b4a-b377-a7c7e4780622)
 
 #### 영상 13.4.7.a115. 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/861c49d0-9ef0-4d66-8b65-5bc71bed9d10"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/861c49d0-9ef0-4d66-8b65-5bc71bed9d10"></video>
 
 ## 3. 스크립트
 [glowing-logo.scm.zip](https://github.com/wonder13662/gimp/files/14737248/glowing-logo.scm.zip)

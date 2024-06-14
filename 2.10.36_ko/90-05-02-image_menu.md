@@ -31,14 +31,14 @@
 <a id="90-05-02-a121"></a>
 
 #### 영상 90.5.2.a121. 이미지 창 안에서 이미지 메뉴 열기
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/bf128c3e-5004-4766-90ea-33cf4e59399e"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/bf128c3e-5004-4766-90ea-33cf4e59399e"></video>
 
 [3.2.2.2. 이미지 메뉴 (Image Menu) - 영상 90.5.2.a121](./03-02-02-02-image-menu.md#90-05-02-a121)
 
 <a id="90-05-02-a122"></a>
 
 #### 영상 90.5.2.a122. 이미지 창 안에서 이미지 메뉴 열기: ⌃(Mac) + 클릭
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1f74601b-d06f-4988-8e20-d099c475a507"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1f74601b-d06f-4988-8e20-d099c475a507"></video>
 
 [3.2.2.2. 이미지 메뉴 (Image Menu) - 영상 90.5.2.a122](./03-02-02-02-image-menu.md#90-05-02-a122)
 

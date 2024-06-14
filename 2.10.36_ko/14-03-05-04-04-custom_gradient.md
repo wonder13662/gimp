@@ -7,19 +7,19 @@
 <a id="90-03-02-22-a14-01-03"></a>
 
 #### [영상 90.3.2.22.a14.1.3. 커스텀 그라디언트 생성 안됨 - `시작 끝점`과 `종단 끝점` 수정](./90-03-02-22-gradient.md#90-03-02-22-a14-01-03)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cc07c623-8686-4afa-9bfe-0342f3ed4098"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/cc07c623-8686-4afa-9bfe-0342f3ed4098"></video>
 
 `색 멈춤점(Color Stop)` 또는 `중점(Midpoint)`을 움직이면, [커스텀 그라디언트(Custom Gradient)](./14-03-05-04-04-custom_gradient.md)가 만들어집니다.
 
 <a id="90-03-02-22-a14-01-01"></a>
 
 #### [영상 90.3.2.22.a14.1.1. 커스텀 그라디언트 생성 - `색 멈춤점` 수정](./90-03-02-22-gradient.md#90-03-02-22-a14-01-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a28be398-a9c0-4e99-befe-94a6313bef55"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a28be398-a9c0-4e99-befe-94a6313bef55"></video>
 
 <a id="90-03-02-22-a14-01-02"></a>
 
 #### [영상 90.3.2.22.a14.1.2. 커스텀 그라디언트 생성 - `중점` 수정](./90-03-02-22-gradient.md#90-03-02-22-a14-01-02)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/fd569ccf-a972-422a-9aaf-43ed4a8ae37d"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fd569ccf-a972-422a-9aaf-43ed4a8ae37d"></video>
 
 [15.3.5. 그라디언트 대화상자 - 그라디언트 편집기](./15-03-05-gradient-dialog.md)를 참고해주세요.
 

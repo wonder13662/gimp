@@ -19,7 +19,7 @@
 <a id="90-03-02-20-a2-01"></a>
 
 #### 영상 90.3.2.20.a2.1. `도구상자` → `골조 변형` (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7e142f63-8d83-4029-bac2-671128fbde3b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7e142f63-8d83-4029-bac2-671128fbde3b"></video>
 
 [14.4.13. 골조 변형(The cage tool) - 영상 90.3.2.20.a2.1](./14-04-13-00-the-cage-tool.md#90-03-02-20-a2-01)
 
@@ -28,56 +28,56 @@
 <a id="90-03-02-20-a3"></a>
 
 #### 영상 90.3.2.20.a3. `도구상자` → `골조 변형`: 앵커 포인트 추가하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3bd390bf-3b5a-4fec-9f28-a5a912cf40a0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3bd390bf-3b5a-4fec-9f28-a5a912cf40a0"></video>
 
 [14.4.13.2. 옵션(Options) - 영상 90.3.2.20.a3](./14-04-13-02-options.md#90-03-02-20-a3)
 
 <a id="90-03-02-20-a4"></a>
 
 #### 영상 90.3.2.20.a4. `도구상자` → `골조 변형`: Shift 키로 여러 개의 앵커 포인트를 선택하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d34ff68a-3120-4b56-acc2-1e8dc6efd36f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d34ff68a-3120-4b56-acc2-1e8dc6efd36f"></video>
 
 [14.4.13.2. 옵션(Options) - 영상 90.3.2.20.a4](./14-04-13-02-options.md#90-03-02-20-a4)
 
 <a id="90-03-02-20-a5"></a>
 
 #### 영상 90.3.2.20.a5. `도구상자` → `골조 변형`: 사각형을 그려서 여러 개의 앵커 포인트 선택하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5bb23035-2062-49a5-b524-dfb4f551fefb"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5bb23035-2062-49a5-b524-dfb4f551fefb"></video>
 
 [14.4.13.2. 옵션(Options) - 영상 90.3.2.20.a5](./14-04-13-02-options.md#90-03-02-20-a5)
 
 <a id="90-03-02-20-a6"></a>
 
 #### 영상 90.3.2.20.a6. `도구상자` → `골조 변형`: 골조 원래 위치에 색 채우기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d31e977c-ca83-45ec-834b-5211731e06e0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d31e977c-ca83-45ec-834b-5211731e06e0"></video>
 
 [14.4.13.2. 옵션(Options) - 영상 90.3.2.20.a6](./14-04-13-02-options.md#90-03-02-20-a6)
 
 <a id="90-03-02-20-a7-01"></a>
 
 #### 영상 90.3.2.20.a7.1. `골조 변형` 도구로 변형할 이미지 영역 선택하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/90cde5fe-372d-4fa1-acde-74994e19e08e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/90cde5fe-372d-4fa1-acde-74994e19e08e"></video>
 
 [14.4.13.3. `골조 변형` 도구 사용하기(Using Cage Tool) - 영상 90.3.2.20.a7.1](./14-04-13-03-using_cage_tool.md#90-03-02-20-a7-01)
 
 <a id="90-03-02-20-a7-02"></a>
 
 #### 영상 90.3.2.20.a7.2. 앵커 포인트를 옮겨서 이미지 변형하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0f812dba-7c68-4732-b88a-6de0d20a83f9"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0f812dba-7c68-4732-b88a-6de0d20a83f9"></video>
 
 [14.4.13.3. `골조 변형` 도구 사용하기(Using Cage Tool) - 영상 90.3.2.20.a7.2](./14-04-13-03-using_cage_tool.md#90-03-02-20-a7-02)
 
 <a id="90-03-02-20-a7-03"></a>
 
 #### 영상 90.3.2.20.a7.3. 앵커 포인트 추가하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/ea03394a-a0e7-433f-877d-fed08ef1100c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ea03394a-a0e7-433f-877d-fed08ef1100c"></video>
 
 [14.4.13.3. `골조 변형` 도구 사용하기(Using Cage Tool) - 영상 90.3.2.20.a7.3](./14-04-13-03-using_cage_tool.md#90-03-02-20-a7-03)
 
 <a id="90-03-02-20-a7-04"></a>
 
 #### 영상 90.3.2.20.a7.4. `골조 변형` 완료하기 (Windows) (우리말)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/5d174ceb-ff73-4f53-be48-974edc656e91"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5d174ceb-ff73-4f53-be48-974edc656e91"></video>
 
 [14.4.13.3. `골조 변형` 도구 사용하기(Using Cage Tool) - 영상 90.3.2.20.a7.4](./14-04-13-03-using_cage_tool.md#90-03-02-20-a7-04)
 

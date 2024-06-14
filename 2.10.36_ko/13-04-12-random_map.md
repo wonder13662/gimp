@@ -12,7 +12,7 @@
 ![13-04-12-a103-dialog](https://github.com/wonder13662/gimp/assets/15767104/84fcbb27-d68e-440e-883c-c82dbd38d0a6)
 
 #### 영상 13.4.12.a104. 전체 과정
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/12652c84-1186-4d51-8131-0cddcab02fe4"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/12652c84-1186-4d51-8131-0cddcab02fe4"></video>
 
 ## 2. 스크립트
 [rendermap.scm.zip](https://github.com/wonder13662/gimp/files/14737389/rendermap.scm.zip)

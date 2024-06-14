@@ -14,7 +14,7 @@
 <a id="90-01-08-02-05-a101-01"></a>
 
 #### [영상 90.1.8.2.5.a101.1. `이미지 메뉴 바` → `도구` → `칠하기 도구` → `지우개` (Windows) (우리말)](./90-01-08-02-05-eraser.md#90-01-08-02-05-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b6e427b0-a726-451e-be90-b1b42ceaf3cb"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b6e427b0-a726-451e-be90-b1b42ceaf3cb"></video>
 
 <a id="14-03-09-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-28-a2-01"></a>
 
 #### [영상 90.3.2.28.a2.1. `도구상자` → `지우개` (Windows) (우리말)](./90-03-02-28-eraser.md#90-03-02-28-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/cde9b920-7a5f-488f-abc3-638df65b0fc0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/cde9b920-7a5f-488f-abc3-638df65b0fc0"></video>
 
 <a id="14-03-09-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-13-01-01-a1"></a>
 
 #### [영상 90.10.13.1.1.a1. `지우개` 도구 - 키보드 단축키 Shift(⇧) + `E`](./90-10-13-01-01-shift_e.md#90-10-13-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/dc2902bd-32c7-4481-af13-47ccc31982ed"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/dc2902bd-32c7-4481-af13-47ccc31982ed"></video>
 
 ***
 

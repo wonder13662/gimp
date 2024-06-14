@@ -18,7 +18,7 @@
 <a id="14-03-04-03-04-01-a11"></a>
 
 #### 영상 14.3.4.3.4.1.a11. 비슷한 색으로 `영역 채우기`를 했을때의 2가지 문제
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7d1a1d8d-0d5d-4841-882a-6e6ee76d7221"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7d1a1d8d-0d5d-4841-882a-6e6ee76d7221"></video>
 
 ### 1-1. 문제: 채운 색상이 선화 바깥으로 삐져 나옴
 [선화(line art)](https://en.wikipedia.org/wiki/Line_art)가 닫히지 않았다면, 색이 바깥으로 빠져나옵니다. 선이 1픽셀이라도 뚫려있다면, 이와 같은 문제가 있습니다. 그리고 이러한 원인을 찾는데 시간을 낭비하게 됩니다. 이러한 닫히지 않은 선화는 거친 스타일의 선을 쓰는 예술적인 선택일수도 있습니다.
@@ -47,7 +47,7 @@
 <a id="90-03-02-21-a5-03-01"></a>
 
 #### [영상 90.3.2.21.a5.3.1. `도구 옵션` → `영역 채우기` → `영향을 받는 영역` → `검출된 외곽선에 채우기`: 레이어 클릭 (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a5-03-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/9e047014-0ab5-4851-8ed4-04287e5380cf"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9e047014-0ab5-4851-8ed4-04287e5380cf"></video>
 
 이 알고리즘에 대해 좀 더 상세히 알고싶다면, 위에 첨부한 [논문](./14-03-04-03-04-01-smart_colorization.md#14-03-04-03-04-01-a21)을 확인해주세요.
 

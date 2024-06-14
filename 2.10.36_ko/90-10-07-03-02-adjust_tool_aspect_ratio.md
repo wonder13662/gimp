@@ -3,7 +3,7 @@
 <a id="90-10-07-03-02-a1"></a>
 
 #### 영상 90.10.7.3.2.a1. Ctrl(⌘) + Shift(⇧) + 마우스 휠: 도구 옵션의 종횡비(Aspect Ratio) 조절
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/2f5ffa16-9715-4da6-a0ee-508a303e8ed8"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2f5ffa16-9715-4da6-a0ee-508a303e8ed8"></video>
 
 [14.1.4.7. 캔버스 위에서의 마우스 스크롤 휠 동작(Mouse Scroll-Wheel actions on canvas) - 영상 90.10.7.3.2.a1](./14-01-04-07-mouse_scroll_wheel_actions_on_canvas.md#90-10-07-03-02-a1)
 

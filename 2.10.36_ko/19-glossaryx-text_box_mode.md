@@ -8,14 +8,14 @@
 <a id="90-04-67-a171"></a>
 
 #### [영상 90.4.67.a171. `텍스트 도구상자` 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 오른쪽에서 왼쪽으로](./90-04-67-text_toolbox.md#90-04-67-a171)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a8f81f46-cd91-4635-9fcd-8c964f04cb6a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a8f81f46-cd91-4635-9fcd-8c964f04cb6a"></video>
 
 고정(Fixed) 모드로 만들기 위해서 텍스트 상자의 크기를 직접 조정하면 됩니다. 고정(Fixed) 모드에서는 텍스트 상자의 크기가 고정됩니다.
 
 <a id="90-04-67-a172"></a>
 
 #### [영상 90.4.67.a172. `텍스트 도구상자` 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 오른쪽에서 왼쪽으로](./90-04-67-text_toolbox.md#90-04-67-a172)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/50e952e1-910f-4546-b340-9625708eb373"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/50e952e1-910f-4546-b340-9625708eb373"></video>
 
 ***
 

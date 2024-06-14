@@ -8,12 +8,12 @@
 <a id="90-10-05-02-01-a1"></a>
 
 #### [영상 90.10.5.2.1.a1. `색상으로 선택` 도구 - 선택 영역 확대(오른쪽)/축소(왼쪽)하기](./90-10-05-02-01-expand_n_shrink-right_n_left.md#90-10-05-02-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/b4885029-0b0a-4309-98ac-214197e17e82"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b4885029-0b0a-4309-98ac-214197e17e82"></video>
 
 <a id="90-10-05-02-02-a1"></a>
 
 #### [영상 90.10.5.2.2.a1. `색상으로 선택` 도구 - 선택 영역 확대(아래쪽)/축소(위쪽)하기](./90-10-05-02-02-expand_n_shrink-down_n_up.md#90-10-05-02-02-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/518a4abc-e3d0-413c-b391-9da93d5080e3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/518a4abc-e3d0-413c-b391-9da93d5080e3"></video>
 
 ## 2. `색상으로 선택`의 선택 영역 옮기기
 
@@ -24,7 +24,7 @@
 <a id="90-10-05-03-01-a1"></a>
 
 #### [영상 90.10.5.3.1.a1. `색상으로 선택` - 방향키로 선택 영역 옮기기](./90-10-05-03-01-move_selection_by_arrow_keys.md#90-10-05-03-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/96d9db17-d423-4889-acac-a87780e0c190"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/96d9db17-d423-4889-acac-a87780e0c190"></video>
 
 ***
 

@@ -14,7 +14,7 @@
 <a id="90-01-08-03-02-a101-01"></a>
 
 #### [영상 90.1.8.3.2.a101.1. `이미지 메뉴 바` → `도구` → `변형 도구` → `이동` (Windows) (우리말)](./90-01-08-03-02-move.md#90-01-08-03-02-a101-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a143ca09-9e56-4f6e-b90a-3941b599d839"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a143ca09-9e56-4f6e-b90a-3941b599d839"></video>
 
 <a id="14-04-03-01-s2"></a>
 
@@ -28,7 +28,7 @@
 <a id="90-03-02-01-a2-01"></a>
 
 #### [영상 90.3.2.1.a2.1. `도구상자` → `이동` (Windows) (우리말)](./90-03-02-01-move.md#90-03-02-01-a2-01)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/3ef460c8-d78e-4bc4-ae6a-f6539fc19848"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3ef460c8-d78e-4bc4-ae6a-f6539fc19848"></video>
 
 <a id="14-04-03-01-s3"></a>
 
@@ -37,7 +37,7 @@
 <a id="90-10-23-01-01-a1"></a>
 
 #### [영상 90.10.23.1.1.a1. 변형 도구 `이동` - 키보드 단축키 `M`](./90-10-23-01-01-m.md#90-10-23-01-01-a1)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/8448a9e8-4818-492d-bc2c-a35ce79aa630"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8448a9e8-4818-492d-bc2c-a35ce79aa630"></video>
 
 <a id="14-04-03-01-s4"></a>
 
@@ -47,7 +47,7 @@
 <a id="90-02-07-a31-03"></a>
 
 #### [영상 90.2.7.a31.3. `기본 설정` → `이미지 창` → `스페이스 바` → `스페이스 바를 누르고 있는 동안` → `이동 도구로 전환` (Windows)](./90-02-07-00-image-windows.md#90-02-07-a31-03)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/d197748d-fea4-4153-a080-0d8e674137fd"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d197748d-fea4-4153-a080-0d8e674137fd"></video>
 
 스페이스 바의 기능을 `이동 도구로 전환`로 설정하려면, `기본 설정` → `이미지 창` → `스페이스 바` → `스페이스 바를 누르고 있는 동안`의 드롭다운의 값을 `이동 도구로 전환`로 설정하면 됩니다.
 

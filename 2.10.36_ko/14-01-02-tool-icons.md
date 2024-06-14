@@ -15,7 +15,7 @@
 <a id="90-03-a102"></a>
 
 #### [영상 90.3.a102. 도구상자의 아이콘의 작은 삼각형 확인하기](./90-03-00-toolbox.md#90-03-a102)
-<video controls="controls" width="720" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/55e454c5-8d51-48dc-bfb6-4c27930d8848"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/55e454c5-8d51-48dc-bfb6-4c27930d8848"></video>
 
 도구 아이콘 그룹을 해제하기 위해서는 [12.1.13. 도구상자(Toolbox)](./12-01-13-00-toolbox.md)의 `기본 설정` → `인터페이스` → `도구상자` → `모양새` → `도구 그룹 사용`의 체크박스를 끄면 됩니다.
 

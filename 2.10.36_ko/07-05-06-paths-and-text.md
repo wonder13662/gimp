@@ -9,7 +9,7 @@
 <a id="90-04-05-a111"></a>
 
 #### [영상 90.4.5.a111. 글자를 경로로 바꿈](./90-03-02-35-paths.md#90-04-05-a111)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/a990f9d9-6d50-48c3-87de-124661170a9e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a990f9d9-6d50-48c3-87de-124661170a9e"></video>
 
 이렇게 만든 경로는 여러가지 방법으로 사용할 수 있습니다.
 
