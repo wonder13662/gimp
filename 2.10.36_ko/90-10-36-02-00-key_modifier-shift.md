@@ -1,10 +1,9 @@
-# 90.10.36.2. Ctrl(⌘):동작 변경키(Key modifiers)
+# 90.10.36.2. Shift(⇧):동작 변경키(Key modifiers)
 
 ***
 
 ## 하위 페이지
-
-[90.10.36.2.1. Ctrl(⌘): 색상 추출 도구로 전환](./90-10-36-02-01-switch_to_color_picker.md)
+[90.10.36.2.1. Shift(⇧): 색상 추출 정보창 열기](./90-10-36-02-01-open_color_picker_info_window.md)
 
 ***
 
