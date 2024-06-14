@@ -32,7 +32,7 @@
 <a id="90-10-01-01-01-a1"></a>
 
 #### [영상 90.10.1.1.1.a1. 사각 선택 도구 - 키보드 단축키 `R`](./90-10-01-01-01-r.md)
-<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/7f389c76-95cf-46c8-aca1-d22ece17b46d"></video>
+<video controls="controls" width="720" src="https://github.com/wonder13662/gimp/assets/15767104/0a45ddc7-b2f1-48d6-a309-22f81b23c8c0"></video>
 
 ***
 
