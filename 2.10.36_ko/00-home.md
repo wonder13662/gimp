@@ -26,8 +26,6 @@
 [3.2.2.1. 타이틀 바 (Title Bar)](./03-02-02-01-title-bar.md)
 
 [3.2.2.2. 이미지 메뉴 (Image Menu)](./03-02-02-02-image-menu.md)
-#### 그림 3.2.2.221. 이미지 메뉴 바의 위치 (단일창) - macOS
-<img width="480" alt="그림 3.2.2.221. 이미지 메뉴 바의 위치 (단일창) - macOS" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/241ea157-42a8-4ea2-bafd-a73538e9ffa6">
 
 [3.2.2.3. 메뉴 버튼 (Menu Button)](./03-02-02-03-menu-button.md)
 
