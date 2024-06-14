@@ -4,7 +4,7 @@
 
 ## 하위 페이지
 
-[90.10.1.4.1. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드 - 마우스 포인터](./90-10-01-03-05-before_selection.md)
+[90.10.1.4.1. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드 - 마우스 포인터](./90-10-01-04-01-hold_ctrl_shift_before_clicking_to_intersect-mouse_pointer.md)
 
 [90.10.1.4.2. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-04-02-hold_ctrl_shift_before_clicking_to_intersect-mouse_pointer-tool_option-status_area.md)
 

@@ -13,7 +13,7 @@
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.1.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-01-02-key_modifier-ctrl.md)
+[⬆️ 위: 90.10.1.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-01-02-01-hold_ctrl_before_clicking_to_subtract-mouse_pointer.md)
 
 [⬆️ 위: 90.10.1. 사각 선택 도구](./90-10-01-00-rectangle_select.md)
 

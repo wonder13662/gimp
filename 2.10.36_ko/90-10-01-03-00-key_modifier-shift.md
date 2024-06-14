@@ -4,7 +4,7 @@
 
 ## 하위 페이지
 
-[90.10.1.3.1. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터](./90-10-01-03-01-before_selection.md)
+[90.10.1.3.1. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터](./90-10-01-03-01-hold_shift_before_clicking_to_add-mouse_pointer.md)
 
 [90.10.1.3.2. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-03-02-hold_shift_before_clicking_to_add-mouse_pointer-tool_option-status_area.md)
 

@@ -2968,9 +2968,9 @@
 
 [90.10.1.1.1. `R`](./90-10-01-01-01-r.md)
 
-[90.10.1.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-01-02-key_modifier-ctrl.md)
+[90.10.1.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-01-02-00-key_modifier-ctrl.md)
 
-[90.10.1.2.1. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드 - 마우스 포인터](./90-10-01-02-key_modifier-ctrl.md)
+[90.10.1.2.1. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드 - 마우스 포인터](./90-10-01-02-01-hold_ctrl_before_clicking_to_subtract-mouse_pointer.md)
 
 [90.10.1.2.2. 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-02-02-hold_ctrl_before_clicking_to_subtract-mouse_pointer-tool_option-status_area.md)
 
@@ -2980,7 +2980,7 @@
 
 [90.10.1.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-01-03-00-key_modifier-shift.md)
 
-[90.10.1.3.1. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터](./90-10-01-03-01-before_selection.md)
+[90.10.1.3.1. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터](./90-10-01-03-01-hold_shift_before_clicking_to_add-mouse_pointer.md)
 
 [90.10.1.3.2. 선택 도구로 클릭 전에 Shift(⇧) 키를 누름: 더하기(Add) 모드 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-03-02-hold_shift_before_clicking_to_add-mouse_pointer-tool_option-status_area.md)
 
@@ -2990,7 +2990,7 @@
 
 [90.10.1.4. Ctrl(⌘) + Shift(⇧):동작 변경키(Key modifiers)](./90-10-01-04-00-key_modifier-ctrl_shift.md)
 
-[90.10.1.4.1. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드 - 마우스 포인터](./90-10-01-03-05-before_selection.md)
+[90.10.1.4.1. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) 모드 - 마우스 포인터](./90-10-01-04-01-hold_ctrl_shift_before_clicking_to_intersect-mouse_pointer.md)
 
 [90.10.1.4.2. 선택 도구로 클릭 전에 Ctrl(⌘) + Shift(⇧) 키를 누름: 교차하기(Intersect) - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-04-02-hold_ctrl_shift_before_clicking_to_intersect-mouse_pointer-tool_option-status_area.md)
 
@@ -3088,7 +3088,7 @@
 
 [90.10.6.1. 키보드 단축키](./90-10-06-01-00-keyboard_shortcut.md)
 
-[90.10.6.1.1. 키보드 단축키 `I`](./90-10-06-01-01-shift_i.md)
+[90.10.6.1.1. 키보드 단축키 `I`](./90-10-06-01-01-i.md)
 
 [90.10.6.1.2. 백 스페이스(⌫) 키](./90-10-06-01-02-backspace.md)
 
@@ -3198,7 +3198,7 @@
 
 [90.10.12.1. 키보드 단축키](./90-10-12-01-00-keyboard_shortcut.md)
 
-[90.10.12.1.1. 키보드 단축키 `P`](./90-10-12-01-01-p.md)
+[90.10.12.1.1. 키보드 단축키 `Y`](./90-10-12-01-01-y.md)
 
 [90.10.12.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-12-02-00-key_modifier-ctrl.md)
 
@@ -3258,7 +3258,7 @@
 
 [90.10.16.1. 키보드 단축키](./90-10-16-01-00-keyboard_shortcut.md)
 
-[90.10.16.1.1. 키보드 단축키 `C`](./90-10-16-01-01-k.md)
+[90.10.16.1.1. 키보드 단축키 `C`](./90-10-16-01-01-c.md)
 
 [90.10.16.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-16-02-00-key_modifier-ctrl.md)
 
@@ -3272,7 +3272,7 @@
 
 [90.10.17.1. 키보드 단축키](./90-10-17-01-00-keyboard_shortcut.md)
 
-[90.10.17.1.1. 키보드 단축키 `H`](./90-10-17-01-01-k.md)
+[90.10.17.1.1. 키보드 단축키 `H`](./90-10-17-01-01-h.md)
 
 [90.10.17.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-17-02-00-key_modifier-ctrl.md)
 
@@ -3296,7 +3296,7 @@
 
 [90.10.19.1. 키보드 단축키](./90-10-19-01-00-keyboard_shortcut.md)
 
-[90.10.19.1.1. 키보드 단축키 Shift(⇧) + `U`](./90-10-19-01-01-k.md)
+[90.10.19.1.1. 키보드 단축키 Shift(⇧) + `U`](./90-10-19-01-01-shift_u.md)
 
 [90.10.19.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-19-02-00-key_modifier-ctrl.md)
 
@@ -3382,7 +3382,7 @@
 
 [90.10.25.1.1. 키보드 단축키 Shift(⇧) + `R`](./90-10-25-01-01-shift_r.md)
 
-[90.10.25.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-25-02-00-key_modifier-ctrl.md)
+[90.10.25.2. Shift(⇧):동작 변경키(Key modifiers)](./90-10-25-02-00-key_modifier-shift.md)
 
 [90.10.25.2.1. 회전 각도 제한하기](./90-10-25-02-01-constrain_rotation_angle.md)
 
@@ -3479,6 +3479,42 @@
 [90.10.34.1. 키보드 단축키](./90-10-34-01-00-keyboard_shortcut.md)
 
 [90.10.34.1.1. 키보드 단축키 `W`](./90-10-34-01-01-w.md)
+
+[90.10.35. `경로` 도구](./90-10-35-00-path.md)
+
+[90.10.35.1. 키보드 단축키](./90-10-35-01-00-keyboard_shortcut.md)
+
+[90.10.35.1.1. 키보드 단축키 `B`](./90-10-35-01-01-w.md)
+
+[90.10.35.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-35-02-00-key_modifier-ctrl.md)
+
+[90.10.35.2.1. Ctrl(⌘): 경로 닫기](./90-10-35-02-01-close_path.md)
+
+[90.10.35.2.2. Ctrl(⌘): 경로 위에 새로운 노드 추가하기](./90-10-35-02-02-add_node_along_path.md)
+
+[90.10.35.2.3. Ctrl(⌘) + Shift(⇧): 선분 지우기](./90-10-35-02-03-remove_segment.md)
+
+[90.10.35.2.4. Ctrl(⌘) + Shift(⇧): 제어점 지우기](./90-10-35-02-04-remove_control_point.md)
+
+[90.10.35.2.5. Ctrl(⌘) + Shift(⇧): 핸들 지우기](./90-10-35-02-05-remove_handle.md)
+
+[90.10.35.2.6. Ctrl(⌘): 경로를 선택에서 빼기](./90-10-35-02-06-subtract_path_from_selection.md)
+
+[90.10.35.3. Alt(⌥):동작 변경키(Key modifiers)](./90-10-35-03-00-key_modifier-alt.md)
+
+[90.10.35.3.1. Ctrl(⌘) + Alt(⌥): 여러 개의 노드 옮기기](./90-10-35-03-01-move_nodes.md)
+
+[90.10.35.4. Shift(⇧):동작 변경키(Key modifiers)](./90-10-35-04-00-key_modifier-shift.md)
+
+[90.10.35.4.1. Shift(⇧): 핸들을 대칭으로 움직이기](./90-10-35-04-01-move_handle_symmetrically.md)
+
+[90.10.35.4.2. Shift(⇧): 하위 경로 추가하기](./90-10-35-04-02-add_a_new_subpath.md)
+
+[90.10.35.4.3. Shift(⇧): "컴포넌트 1개 움직이기"와  "모든 컴포넌트 움직이기" 전환](./90-10-35-04-03-toggle_move_single_n_all.md)
+
+[90.10.35.4.4. Shift(⇧): 경로를 선택에 더하기](./90-10-35-04-04-add_path_to_selection.md)
+
+[90.10.36. `색상 추출` 도구](./90-10-36-00-color_picker.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
