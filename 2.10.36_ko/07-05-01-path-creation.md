@@ -86,21 +86,21 @@ Ctrl(⌘)을 누른채로 닫을 경로 위에 마우스 커서를 올리면 `�
 <a id="90-03-02-35-a7"></a>
 
 #### [영상 90.3.2.35.a7. 닫을 경로의 점 위로 마우스를 올리면 나타나는 `고리` 아이콘](./90-03-02-35-paths.md#90-03-02-35-a7)
-<video controls="controls" src="https://github.com/wonder13662/gimp/assets/15767104/67509d5c-c57a-4273-a845-022f5b25ed06"></video>
+<video controls="controls" width="416" height="394" src="https://github.com/wonder13662/gimp/assets/15767104/67509d5c-c57a-4273-a845-022f5b25ed06"></video>
 
 ⚠️ 주의: 때로는 닫을 경로에 마우스 커서를 올리면 `고리` 모양의 아이콘이 나타나지 않을 경우도 있습니다. 하지만 Ctrl(⌘)을 누른채로 클릭하면 경로를 닫을 수 있습니다.
 
 <a id="90-03-02-35-a8"></a>
 
 #### [영상 90.3.2.35.a8. 다른 작업을 한 뒤에 닫을 경로의 점 위로 마우스를 올리면 `고리` 아이콘이 나타나지 않음](./90-03-02-35-paths.md#90-03-02-35-a8)
-<video controls="controls" src="https://github.com/wonder13662/gimp/assets/15767104/32b1c31f-b749-42d4-87ed-b6ad7267c745"></video>
+<video controls="controls" width="416" height="394" src="https://github.com/wonder13662/gimp/assets/15767104/32b1c31f-b749-42d4-87ed-b6ad7267c745"></video>
 
 닫은 경로를 만든 뒤에 엔터키를 누르면 경로에서 선택을 만듭니다. 경로가 사라지는 것은 아닙니다.
 
 <a id="90-03-02-35-a9"></a>
 
 #### [영상 90.3.2.35.a9. 닫은 경로를 엔터키를 눌러 선택으로 바꿈](./90-03-02-35-paths.md#90-03-02-35-a9)
-<video controls="controls" src="https://github.com/wonder13662/gimp/assets/15767104/005e56f8-22ed-4216-82f9-19aba6387ba4"></video>
+<video controls="controls" width="416" height="394" src="https://github.com/wonder13662/gimp/assets/15767104/005e56f8-22ed-4216-82f9-19aba6387ba4"></video>
 
 닫은 경로를 만든 뒤에 대화상자의 "경로로부터 선택 영역 만들기"를 클릭해도 선택을 만들 수 있습니다.
 
@@ -166,7 +166,7 @@ Ctrl(⌘)을 누른채로 닫을 경로 위에 마우스 커서를 올리면 `�
 <a id="90-03-02-35-a31"></a>
 
 #### [그림 90.3.2.35.a31. 경로의 선분을 클릭 + 드래그](./90-03-02-35-paths.md#90-03-02-35-a31)
-<video controls="controls" width="320" src="https://github.com/wonder13662/gimp/assets/15767104/0e5783cb-84c0-4b3f-bf02-5ba477be10f1"></video>
+<video controls="controls" width="650" height="658" src="https://github.com/wonder13662/gimp/assets/15767104/0e5783cb-84c0-4b3f-bf02-5ba477be10f1"></video>
 
 ***
 

@@ -82,7 +82,7 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 <a id="90-05-15-a101"></a>
 
 #### [영상 90.5.15.a101. 다중창 모드의 독의 탭 키로 대화창 선택](./90-05-15-dock.md#90-05-15-a101)
-<video controls="controls" width="394" src="https://github.com/wonder13662/gimp/assets/15767104/dc6bca6a-ac80-41a3-9d40-904cf22a563c"></video>
+<video controls="controls" width="394" height="456" src="https://github.com/wonder13662/gimp/assets/15767104/dc6bca6a-ac80-41a3-9d40-904cf22a563c"></video>
 
 ## 단일창 모드(single window mode)
 

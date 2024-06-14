@@ -78,7 +78,7 @@
 <a id="90-01-08-01-04-a111"></a>
 
 #### [영상 90.1.8.1.4.a111. 전경 선택 사용](./90-01-08-01-04-foreground_select.md#90-01-08-01-04-a111)
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1e7277a6-5d44-4ce8-a74d-e163c8faa259"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1e7277a6-5d44-4ce8-a74d-e163c8faa259"></video>
 
 <a id="03-04-10-s2"></a>
 

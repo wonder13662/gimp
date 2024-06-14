@@ -29,7 +29,7 @@
 <a id="90-04-01-10-a202"></a>
 
 #### [영상 90.4.1.10.a202. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들](./90-04-01-10-crop.md#90-04-01-10-a202)
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f71b6061-3536-4119-8e2e-6361407988df"></video>
+<video controls="controls" width="960" height="594" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f71b6061-3536-4119-8e2e-6361407988df"></video>
 
 <a id="90-04-03-02-a51"></a>
 

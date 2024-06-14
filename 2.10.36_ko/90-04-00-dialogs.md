@@ -612,7 +612,7 @@
 <a id="90-04-a122"></a>
 
 #### 그림 90.4.a122. `버튼바 표시 (Show Button Bar)`를 토글
-<video controls="controls" width="636" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8bfb0b36-299b-4fe4-88f9-e137e428c1b9"></video>
+<video controls="controls" width="636" height="634" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8bfb0b36-299b-4fe4-88f9-e137e428c1b9"></video>
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.4.a122](./03-02-03-02-tab-menu.md#90-04-a122)
 

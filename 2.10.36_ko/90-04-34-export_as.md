@@ -24,21 +24,21 @@
 <a id="90-04-34-a111"></a>
 
 #### 영상 90.4.34.a111. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
-<video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/7c7db0d2-fb91-4bdd-9bdc-eb29da69622e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7c7db0d2-fb91-4bdd-9bdc-eb29da69622e"></video>
 
 [3.4.4. 이미지 압축하기 - 영상 90.4.34.a111](./03-04-04-compressing-images.md#90-04-34-a111)
 
 <a id="90-04-34-a112"></a>
 
 #### 영상 90.4.34.a112. "파일 유형 선택(Select File Type)"의 목록 열기
-<video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/39b4460b-2c53-43d4-8f37-58eb7888b9b7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/39b4460b-2c53-43d4-8f37-58eb7888b9b7"></video>
 
 [3.4.4. 이미지 압축하기 - 영상 90.4.34.a112](./03-04-04-compressing-images.md#90-04-34-a112)
 
 <a id="90-04-34-a113"></a>
 
 #### 영상 90.4.34.a113. 'Export As...' 전체 과정
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/48f1ccae-f4b9-4695-b676-ab8f57c463b0"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/48f1ccae-f4b9-4695-b676-ab8f57c463b0"></video>
 
 [3.4.4. 이미지 압축하기 - 영상 90.4.34.a113](./03-04-04-compressing-images.md#90-04-34-a113)
 

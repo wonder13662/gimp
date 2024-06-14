@@ -45,7 +45,7 @@ GIMP에서 [이미지 메뉴바](./03-02-02-02-image-menu.md#32222-이미지-메
 <a id="90-04-34-a111"></a>
 
 #### [영상 90.4.34.a111. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)](./90-04-34-export_as.md#90-04-34-a111)
-<video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/7c7db0d2-fb91-4bdd-9bdc-eb29da69622e"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7c7db0d2-fb91-4bdd-9bdc-eb29da69622e"></video>
 
 ## 3.4.4.4. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 목록에서 선택)
 GIMP에서 지원하는 파일 타입을 확인하기 위해 "Export As..." 대화상자의 아래쪽의 "파일 유형 선택(Select File Type)"의 목록을 엽니다.
@@ -55,7 +55,7 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 <a id="90-04-34-a112"></a>
 
 #### [영상 90.4.34.a112. "파일 유형 선택(Select File Type)"의 목록 열기](./90-04-34-export_as.md#90-04-34-a112)
-<video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/39b4460b-2c53-43d4-8f37-58eb7888b9b7"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/39b4460b-2c53-43d4-8f37-58eb7888b9b7"></video>
 
 ## 3.4.4.5. "이미지를 JPEG로 내보내기" 대화상자
 "이미지를 JPEG로 내보내기" 대화상자는 좋은 화질을 유지하면서 메모리 크기를 줄이는 기본값을 사용합니다. 대화상자의 `이미지 창에 미리 보기 표시(Show preview in image window)` 체크박스를 체크하면 화질을 바꿀때마다 변하는 이미지의 화질을 직접 확인할 수 있습니다.
@@ -70,7 +70,7 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 <a id="90-04-33-a201"></a>
 
 #### [영상 90.4.33.a201. `이미지 창에 미리 보기 표시(Show preview in image window)`](./90-04-33-export_image_as_jpeg.md#90-04-33-a201)
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a651f208-7406-43e3-bcf5-b89629dbf51c"></video>
+<video controls="controls" width="960" height="666" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a651f208-7406-43e3-bcf5-b89629dbf51c"></video>
 
 `이미지 창에 미리 보기 표시(Show preview in image window)`를 켜고 화질 변화 및 파일 크기를 확인할 수 있습니다
 
@@ -133,14 +133,14 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 <a id="90-04-34-a113"></a>
 
 #### [영상 90.4.34.a113. 'Export As...' 전체 과정](./90-04-34-export_as.md#90-04-34-a113)
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/48f1ccae-f4b9-4695-b676-ab8f57c463b0"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/48f1ccae-f4b9-4695-b676-ab8f57c463b0"></video>
 
 ### 3.4.4.7.2. 'image-name.jpg 덮어쓰기(Overwrite image-name.jpg)'
 
 <a id="90-04-33-a221"></a>
 
 #### [영상 90.4.33.a221. 'image-name.jpg 덮어쓰기(Overwrite image-name.jpg)' 전체 과정](./90-04-33-export_image_as_jpeg.md#90-04-33-a221)
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f5f165d9-dcb1-4039-81ce-cba09ed238b6"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f5f165d9-dcb1-4039-81ce-cba09ed238b6"></video>
 
 ***
 

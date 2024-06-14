@@ -107,21 +107,21 @@
 <a id="90-05-16-a163"></a>
 
 #### 영상 90.5.16.a163. 붓 탭의 스타일: 현재상태 보기
-<video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/73d77775-a0de-466f-b580-620b497401cf"></video>
+<video controls="controls" width="648" height="634" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/73d77775-a0de-466f-b580-620b497401cf"></video>
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a163](./03-02-03-02-tab-menu.md#90-05-16-a163)
 
 <a id="90-05-16-a164"></a>
 
 #### 영상 90.5.16.a164. 붓 탭의 스타일: 상태와 글자
-<video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/eecfbd62-cc8e-42b7-bfcb-61615a1eede5"></video>
+<video controls="controls" width="648" height="634" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/eecfbd62-cc8e-42b7-bfcb-61615a1eede5"></video>
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a164](./03-02-03-02-tab-menu.md#90-05-16-a164)
 
 <a id="90-05-16-a165"></a>
 
 #### 영상 90.5.16.a165. 탭 스타일 설정하기
-<video controls="controls" width="648" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/94534a21-f1b3-46df-8655-e934ae38ee9b"></video>
+<video controls="controls" width="648" height="612" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/94534a21-f1b3-46df-8655-e934ae38ee9b"></video>
 
 [3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.5.16.a165](./03-02-03-02-tab-menu.md#90-05-16-a165)
 

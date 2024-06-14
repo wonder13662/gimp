@@ -23,8 +23,8 @@
 
 <a id="90-05-05-a112"></a>
 
-#### [영상 90.5.5.a112. 퀵 마스크 토글 확대해서 보기](./90-05-05-quickmask_toggle.md#90-05-05-a112)
-<video controls="controls" width="170" height="170" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2a4236c9-ff2d-4200-9ce6-6dc880a50a84"></video>
+#### [그림 90.5.5.a112. 퀵 마스크 토글 확대해서 보기](./90-05-05-quickmask_toggle.md#90-05-05-a112)
+<img alt="90-05-05-a112" width="340" height="340" src="https://github.com/wonder13662/gimp/assets/15767104/f617094f-fd9c-4ae5-9256-d8eba0e4ce19" />
 
 좀 더 상세한 정보는 [15.2.2. 채널 대화 상자 - Quick Mask](./15-02-02-00-channel-dialog.md)를 확인해주세요.
 

@@ -190,14 +190,14 @@
 <a id="90-04-33-a201"></a>
 
 #### 영상 90.4.33.a201. `이미지 창에 미리 보기 표시(Show preview in image window)`
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a651f208-7406-43e3-bcf5-b89629dbf51c"></video>
+<video controls="controls" width="960" height="666" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a651f208-7406-43e3-bcf5-b89629dbf51c"></video>
 
 [3.4.4. 이미지 압축하기 - 영상 90.4.33.a201](./03-04-04-compressing-images.md#90-04-33-a201)
 
 <a id="90-04-33-a211"></a>
 
 #### 영상 90.4.33.a211. 화질 변화와 파일 크기 빠르게 보기
-<video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/a0f3f4b6-c40d-45a3-8c70-a58238efc2c1"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a0f3f4b6-c40d-45a3-8c70-a58238efc2c1"></video>
 
 [3.4.4. 이미지 압축하기 - 영상 90.4.33.a211](./03-04-04-compressing-images.md#90-04-33-a211)
 
@@ -206,12 +206,12 @@
 <a id="90-04-34-a113"></a>
 
 #### [영상 90.4.34.a113. 'Export As...' 전체 과정](./90-04-34-export_as.md#90-04-34-a113)
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/48f1ccae-f4b9-4695-b676-ab8f57c463b0"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/48f1ccae-f4b9-4695-b676-ab8f57c463b0"></video>
 
 <a id="90-04-33-a221"></a>
 
 #### 영상 90.4.33.a221. 'image-name.jpg 덮어쓰기(Overwrite image-name.jpg)' 전체 과정
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f5f165d9-dcb1-4039-81ce-cba09ed238b6"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f5f165d9-dcb1-4039-81ce-cba09ed238b6"></video>
 
 [3.4.4. 이미지 압축하기 - 영상 90.4.33.a221](./03-04-04-compressing-images.md#90-04-33-a221)
 

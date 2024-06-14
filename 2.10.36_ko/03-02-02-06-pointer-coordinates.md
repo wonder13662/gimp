@@ -14,8 +14,8 @@
 
 <a id="90-05-06-a111"></a>
 
-#### [영상 90.5.6.a111. 커서 좌표 확인하기](./90-05-06-pointer_coordinates.md#90-05-06-a111)
-<video controls="controls" width="170" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/50eaa32f-bb39-4674-b405-096db2a92691"></video>
+#### [그림 90.5.6.a111. 커서 좌표 확인하기](./90-05-06-pointer_coordinates.md#90-05-06-a111)
+<img alt="90-05-05-a112" width="340" height="340" src="https://github.com/wonder13662/gimp/assets/15767104/1ac9e6e8-0d8c-48bf-9e93-6a9433f8893a" />
 
 ***
 

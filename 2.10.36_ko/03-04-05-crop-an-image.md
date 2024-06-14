@@ -45,7 +45,7 @@
 <a id="90-04-01-10-a202"></a>
 
 #### [영상 90.4.1.10.a202. 이미지 잘라내기 영역 조정할 때 함께 연동되어 표시되는 값들](./90-04-01-10-crop.md#90-04-01-10-a202)
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f71b6061-3536-4119-8e2e-6361407988df"></video>
+<video controls="controls" width="960" height="594" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f71b6061-3536-4119-8e2e-6361407988df"></video>
 
 위 그림과 영상처럼 이미지 잘라내기 영역의 크기가 조정되면 치수 및 비율이 [3.2.2.9. 상태 표시 영역 (Status Area)](./03-02-02-09-status-area.md)에 표시됩니다. 사각형 내부를 두 번 클릭하거나 `Enter` 키를 눌러 이미지 잘라내기 작업을 완료할 수 있습니다. 이미지 잘라내기 작업에 대한 자세한 내용은 [14.4.4. 이미지 잘라내기](./14-04-04-00-crop.md)를 확인해 주세요.
 
@@ -76,7 +76,7 @@
 <a id="90-04-01-10-a213"></a>
 
 #### [영상 90.4.1.10.a213. 새로운 종횡비 비율 적용 및 유지(가로모드에서 세로모드로 바꾸기)](./90-04-01-10-crop.md#90-04-01-10-a213)
-<video controls="controls" width="1080" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2710d68c-fe1f-4792-9c8d-63c6ce8e539c"></video>
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2710d68c-fe1f-4792-9c8d-63c6ce8e539c"></video>
 
 ***
 

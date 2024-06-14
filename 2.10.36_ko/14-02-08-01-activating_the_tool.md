@@ -24,7 +24,7 @@
 <a id="90-03-02-07-a2-01"></a>
 
 #### [영상 90.3.2.7.a2.1. `도구상자` → `전경 선택`](./90-03-02-07-foreground_select.md#90-03-02-07-a2-01)
-<video controls="controls" width="1080" src="https://github.com/wonder13662/gimp/assets/15767104/98243d94-2fe7-4a47-99d8-7e827849f265"></video>
+<video controls="controls" width="640" height="332" src="https://github.com/wonder13662/gimp/assets/15767104/98243d94-2fe7-4a47-99d8-7e827849f265"></video>
 
 ***
 
