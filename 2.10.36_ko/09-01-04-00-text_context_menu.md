@@ -50,7 +50,7 @@
 
 [⬅️ 이전: 9.1.3.10. 선택한 텍스트의 색 바꾸기](./09-01-03-10-color.md)
 
-[⬆️ 위: 9.1. 텍스트 관리(Text management)](./09-01-text-management.md)
+[⬆️ 위: 9.1. 텍스트 관리(Text management)](./09-01-00-text-management.md)
 
 [⬆️ 위: 9. 텍스트 관리(Text management)](./09-00-text-management.md)
 

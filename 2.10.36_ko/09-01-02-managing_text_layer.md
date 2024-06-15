@@ -52,7 +52,7 @@
 
 [⬅️ 이전: 9.1.1. 텍스트 영역(Text Area)](./09-01-01-text_area.md)
 
-[⬆️ 위: 9.1. 텍스트 관리(Text management)](./09-01-text-management.md)
+[⬆️ 위: 9.1. 텍스트 관리(Text management)](./09-01-00-text-management.md)
 
 [⬆️ 위: 9. 텍스트 관리(Text management)](./09-00-text-management.md)
 

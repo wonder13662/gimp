@@ -472,7 +472,7 @@
   '9. Text management'
 ],
 [
-  '09-01-text-management.md', 
+  '09-01-00-text-management.md', 
   '9.1. Text management'
 ],
 [

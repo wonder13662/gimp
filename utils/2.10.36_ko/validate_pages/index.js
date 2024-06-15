@@ -34,8 +34,7 @@ const doAsyncJob = async () => {
       const contents = await fsPromises.readFile(pagePath, { encoding: 'utf8' });
   
       // 1-2-2. 페이지 내의 다른 페이지 링크 추출하기
-      // const regex = /(?<=\(\.\/).+(?=\))/g;
-      const pageWithAnchorList = contents.match(/(?<=\(\.\/).+\.md#[0-9a-z\-]+(?=\))/g);
+      const pageWithAnchorList = contents.match(/(?<=\(\.\/)[0-9a-z\-]+\.md#[0-9a-z\-]+(?=\))/g);
       if (pageWithAnchorList) {
         console.log(`[정보] 페이지 링크(앵커 태그): ${pageWithAnchorList.length}개`)
 
@@ -64,9 +63,12 @@ const doAsyncJob = async () => {
           });
 
           // 페이지 링크가 유효하므로, 페이지 내에 앵커 태그가 있는지 확인합니다.
-          const pageContents = await fsPromises.readFile(pagePath, { encoding: 'utf8' });
-          if (pageContents.indexOf(`<a id="${anchor}"></a>`) === -1) {
-            const msg = '페이지 내에 앵커 태그가 없습니다.'
+          const pageWithAnchorPath = `${pageFileListPath}/${page}`;
+          const pageContents = await fsPromises.readFile(pageWithAnchorPath, { encoding: 'utf8' });
+          const anchorTag = `<a id="${anchor}"></a>`
+          if (pageContents.indexOf(anchorTag) === -1) {
+            const msg = `페이지 내에 앵커 태그(${anchorTag})가 없습니다.`;
+
             throw new Error(`\n[에러]\n${location}\n${msg}`)
           }
         }
@@ -74,7 +76,7 @@ const doAsyncJob = async () => {
         console.log(`[정보] 페이지 링크(앵커 태그): 없음`)
       }
 
-      const pageList = contents.match(/(?<=\(\.\/).+\.md(?=\))/g)
+      const pageList = contents.match(/(?<=\(\.\/)[0-9a-z\-]+\.md(?=\))/g)
       if (pageList) {
         console.log(`[정보] 페이지 링크: ${pageList.length}개`)
         for (let j = 0; j < pageList.length; j++) {
