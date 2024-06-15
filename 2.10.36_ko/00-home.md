@@ -2674,7 +2674,7 @@
 
 [90.4.10. 실행취소 이력(Undo History)](./90-04-10-undo_history.md)
 
-[90.4.11. 포인터(Pointer)](./90-04-11-pointer.md)
+[90.4.11. 포인터 정보(Pointer Information)](./90-04-11-pointer_information.md)
 
 [90.4.12. 표본점(Sample Points)](./90-04-12-sample_points.md)
 

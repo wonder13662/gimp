@@ -120,7 +120,7 @@
 #### 그림 90.4.a10. 실행취소 이력(Undo History)
 [<img width="240" alt="그림 90.4.a10. 실행취소 이력(Undo History)" src="https://github.com/wonder13662/gimp/assets/15767104/e190f1e8-b2e4-43b5-8585-e8c73efd042a">](./90-04-10-undo_history.md)
 
-### [90.4.11. 포인터(Pointer)](./90-04-11-pointer.md)
+### [90.4.11. 포인터 정보(Pointer Information)](./90-04-11-pointer_information.md)
 #### 그림 90.4.a11. 포인터(Pointer)
 [<img width="240" alt="그림 90.4.a11. 포인터(Pointer)" src="https://github.com/wonder13662/gimp/assets/15767104/14ee1d8c-3b8b-42f1-8703-88cd90300ee1">](./90-04-11-pointer.md)
 
