@@ -1080,8 +1080,8 @@ module.exports = {
         '14.5.3. 색상 추출(Color picker)'
       ],
       [
-        '14-05-04-zoom.md', 
-        '14.5.4. 확대 도구(Zoom)'
+        '14-05-04-00-zoom.md', 
+        '14.5.4. 확대/축소(Zoom)'
       ],
       [
         '14-05-05-measure.md', 
