@@ -95,6 +95,20 @@
 
 [14.5.3.3.3. 대상 추출(Pick Target) - 영상 90.3.2.37.a11.3.4](./14-05-03-03-03-pick_target.md#90-03-02-37-a11-03-04)
 
+<a id="90-03-02-37-a11-04"></a>
+
+#### 그림 90.3.2.37.a11.4. `도구 옵션` → `색상 추출` → `정보 창 사용` (Windows) (우리말)
+<img width="240" height="228" alt="" src="https://github.com/wonder13662/gimp/assets/15767104/8eee5585-f89b-4c34-9330-cb403b7e366d">
+
+[14.5.3.3.4. 정보 창 사용(Use Info Window) - 그림 90.3.2.37.a11.4](./14-05-03-03-04-use_info_window.md#90-03-02-37-a11-04)
+
+<a id="90-03-02-37-a11-04-01"></a>
+
+#### 영상 90.3.2.37.a11.4.1. `도구 옵션` → `색상 추출` → `정보 창 사용` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/10dcf1c7-c7b9-46a7-a48c-a26ebf52a499"></video>
+
+[14.5.3.3.4. 정보 창 사용(Use Info Window) - 영상 90.3.2.37.a11.4.1](./14-05-03-03-04-use_info_window.md#90-03-02-37-a11-04-01)
+
 ***
 
 ## 다른 페이지로 가기
