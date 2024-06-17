@@ -23,7 +23,7 @@
 
 [⬅️ 이전: 8.2.6.1. HSV 색상(HSV Hue)](./08-02-06-01-hsv_hue.md)
 
-[⬆️ 위: 8.2.6. 레이어 모드-HSV components](./08-02-06-hsv-components-layer-modes-01-hsv_hue.md)
+[⬆️ 위: 8.2.6. 레이어 모드-HSV components](./08-02-06-00-hsv-components-layer-modes.md)
 
 [⬆️ 위: 8.2. 레이어 모드](./08-02-00-layer-modes.md)
 
