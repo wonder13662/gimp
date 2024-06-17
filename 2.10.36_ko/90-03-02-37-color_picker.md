@@ -46,6 +46,20 @@
 
 [14.5.3.3.1. 표본 평균(Sample Average) - 영상 90.3.2.37.a11.1.1](./14-05-03-03-01-sample_average.md#90-03-02-37-a11-01-01)
 
+<a id="90-03-02-37-a11-02"></a>
+
+#### 그림 90.3.2.37.a11.2. `도구 옵션` → `색상 추출` → `표본 합치기` (Windows) (우리말)
+<img width="240" height="228" alt="90-03-02-37-a11-02" src="https://github.com/wonder13662/gimp/assets/15767104/121fd4ae-689d-4ae3-98eb-af86d5e04d22">
+
+[14.5.3.3.2. 표본 합치기(Sample Merged) - 그림 90.3.2.37.a11.2](./14-05-03-03-02-sample_merged.md#90-03-02-37-a11-02)
+
+<a id="90-03-02-37-a11-02-01"></a>
+
+#### 영상 90.3.2.37.a11.2.1. `도구 옵션` → `색상 추출` → `표본 합치기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1e8e2876-e998-4146-b7b7-28f74ebefbc3"></video>
+
+[14.5.3.3.2. 표본 합치기(Sample Merged) - 영상 90.3.2.37.a11.2.1](./14-05-03-03-02-sample_merged.md#90-03-02-37-a11-02-01)
+
 ***
 
 ## 다른 페이지로 가기
