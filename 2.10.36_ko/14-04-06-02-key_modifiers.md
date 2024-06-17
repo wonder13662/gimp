@@ -21,7 +21,7 @@ Shift(⇧) 키를 누르고 있으면, `도구 옵션` → `크기 조정` → `
 
 <a id="90-10-26-03-01-a1"></a>
 
-#### [영상 90.10.26.3.1.a1. `도구 옵션` → `크기 조정` → `종횡비 유지` 켜기/끄기 - Shift(⇧)](./90-10-26-03-01-toggle_keep_aspect.md#90-10-24-03-01-a1)
+#### [영상 90.10.26.3.1.a1. `도구 옵션` → `크기 조정` → `종횡비 유지` 켜기/끄기 - Shift(⇧)](./90-10-26-03-01-toggle_keep_aspect.md#90-10-26-03-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5ad9111d-1fb2-41ee-8e27-2961502bf047"></video>
 
 ***
