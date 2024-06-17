@@ -29,7 +29,7 @@
 
 [➡️ 다음: 90.4.107. 색 바꾸기(Change Color)](./90-04-107-change_color.md)
 
-[⬅️ 이전: 90.4.105. Script-Fu 폴더 선택(Script-Fu Folder Selection)](./90-04-106-script_fu_folder_selection.md)
+[⬅️ 이전: 90.4.105. Script-Fu 폴더 선택(Script-Fu Folder Selection)](./90-04-105-script_fu_folder_selection.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 
