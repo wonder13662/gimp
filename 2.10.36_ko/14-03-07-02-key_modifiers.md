@@ -20,9 +20,9 @@ Ctrl(⌘) 키를 누르면 [색상 추출 도구(Color Picker)로 바꾸기](./1
 ## 2. Shift(⇧)
 Shift(⇧) 키를 누르면 `직선 모드(Straight line mode)`로 바뀝니다. Shift(⇧) 키를 계속 누른 채로 마우스 왼쪽 버튼을 누르면 연속적으로 직선이 그려집니다.
 
-<a id="90-10-10-03-01-a1"></a>
+<a id="90-10-11-03-01-a1"></a>
 
-#### [영상 90.10.11.3.1.a1. 칠하기 도구:`그리기 붓` - Shift(⇧) 키: 직선 그리기](./90-10-11-03-01-switch_to_straight_line_mode.md#90-10-10-03-01-a1)
+#### [영상 90.10.11.3.1.a1. 칠하기 도구:`그리기 붓` - Shift(⇧) 키: 직선 그리기](./90-10-11-03-01-switch_to_straight_line_mode.md#90-10-11-03-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bb97171b-bcbf-442c-bde4-274d9af00c60"></video>
 
 ***
