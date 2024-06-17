@@ -11,7 +11,7 @@
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.25.2. Shift(⇧):동작 변경키(Key modifiers)](./90-10-25-02-00-key_modifier-ctrl.md)
+[⬆️ 위: 90.10.25.2. Shift(⇧):동작 변경키(Key modifiers)](./90-10-25-02-00-key_modifier-shift.md)
 
 [⬆️ 위: 90.10.25. `회전` 도구](./90-10-25-00-rotate.md)
 
