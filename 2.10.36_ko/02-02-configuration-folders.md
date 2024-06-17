@@ -26,7 +26,7 @@ GIMP를 처음 실행하면 옵션과 디렉토리를 설정하는 여러 단계
 ## 다른 페이지로 가기
 [➡️ 다음: 3.1. GIMP(김프)의 기본 개념들](./03-01-basic-concepts.md)
 
-[⬅️ 이전: 2.1. GIMP(김프) 실행하기](./02-01-00-running-gimp.md)
+[⬅️ 이전: 2.1.3. 커맨드 라인 실행 옵션들(Command line arguments)](./02-01-03-command_line_arguments.md)
 
 [⬆️ 위: 2. GIMP(김프) 시작하기](./02-00-fire-up-gimp.md)
 

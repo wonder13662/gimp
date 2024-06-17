@@ -24,7 +24,7 @@
 #### 그림 90.2.10.a101. 기본 설정(preference page)의 실험적 기능(experimental features) 항목 비교
 ![90-02-10-a101](https://github.com/wonder13662/gimp/assets/15767104/0c9bd441-4cb1-4aac-80d9-3b387ab124cc)
 
-[2.1. GIMP(김프) 실행하기 - 그림 90.2.10.a101](./02-01-00-running-gimp.md#90-02-10-a101)
+[2.1.3. 커맨드 라인 실행 옵션들(Command line arguments) - 그림 90.2.10.a101](./02-01-03-command_line_arguments.md#90-02-10-a101)
 
 <a id="90-02-10-a201"></a>
 

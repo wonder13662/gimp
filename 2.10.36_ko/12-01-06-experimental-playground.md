@@ -5,7 +5,7 @@
 #### [그림 90.2.10.a1. `기본설정` → `실험 놀이터` (Windows) (우리말)](./90-02-10-playground.md#90-02-10-a1)
 ![90-02-10-a1](https://github.com/wonder13662/gimp/assets/15767104/34e54e1c-1420-4fc2-a64e-2065a0bbe015)
 
-`실험 놀이터(Experimental Playground)`는 커맨드 라인에 [`--show-playground`](./02-01-00-running-gimp.md#02-01-03-s26) 옵션을 추가해서 실행하거나 `실험 놀이터(Experimental Playground)`의 옵션 중 하나를 체크(활성화)한 다음 재시작하면 접근할 수 있습니다.
+`실험 놀이터(Experimental Playground)`는 커맨드 라인에 [`--show-playground`](./02-01-03-command_line_arguments.md#02-01-03-s27) 옵션을 추가해서 실행하거나 `실험 놀이터(Experimental Playground)`의 옵션 중 하나를 체크(활성화)한 다음 재시작하면 접근할 수 있습니다.
 
 <a id="90-02-10-a201"></a>
 

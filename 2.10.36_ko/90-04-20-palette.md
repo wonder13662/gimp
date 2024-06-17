@@ -25,7 +25,7 @@
 #### 그림 90.4.20.a4. 팔레트 대화상자(palette dialog)
 ![90-04-20-a4](https://github.com/wonder13662/gimp/assets/15767104/0734f993-5e82-4182-a986-931dadbb3eb9)
 
-[2.1. GIMP(김프) 실행하기 - 그림 90.4.20.a4](./02-01-00-running-gimp.md#90-04-20-a4)
+[2.1.3. 커맨드 라인 실행 옵션들(Command line arguments) - 그림 90.4.20.a4](./02-01-03-command_line_arguments.md#90-04-20-a4)
 
 ***
 

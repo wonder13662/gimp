@@ -27,7 +27,7 @@
 #### 그림 90.4.19.a4. 그라디언트 대화상자(gradient dialog)
 ![90-04-19-a4](https://github.com/wonder13662/gimp/assets/15767104/ad0a4680-d117-47f0-90f0-edf3e532020a)
 
-[2.1. GIMP(김프) 실행하기 - 그림 90.4.19.a4](./02-01-00-running-gimp.md#90-04-19-a4)
+[2.1.3. 커맨드 라인 실행 옵션들(Command line arguments) - 그림 90.4.19.a4](./02-01-03-command_line_arguments.md#90-04-19-a4)
 
 ***
 

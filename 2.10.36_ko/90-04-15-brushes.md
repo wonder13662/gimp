@@ -8,7 +8,7 @@
 #### 그림 90.4.15.a101. 붓 대화상자(brush dialog)
 ![90-04-15-a101](https://github.com/wonder13662/gimp/assets/15767104/59bbf85f-d885-4f8a-bc09-d05a0fc7ac23)
 
-[2.1. GIMP(김프) 실행하기 - 그림 90.4.15.a101](./02-01-00-running-gimp.md#90-04-15-a101)
+[2.1.3. 커맨드 라인 실행 옵션들(Command line arguments) - 그림 90.4.15.a101](./02-01-03-command_line_arguments.md#90-04-15-a101)
 
 <a id="90-04-15-a111"></a>
 
