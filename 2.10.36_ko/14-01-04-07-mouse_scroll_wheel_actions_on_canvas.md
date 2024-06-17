@@ -28,7 +28,7 @@ Shift(⇧) + Ctrl(⌘) + 마우스 휠로 도구 옵션의 종횡비(Aspect Rati
 
 <a id="90-10-07-03-02-a1"></a>
 
-#### [영상 90.10.7.3.2.a1. Ctrl(⌘) + Shift(⇧) + 마우스 휠: 도구 옵션의 종횡비(Aspect Ratio) 조절](./90-10-00-keyboard_shortcut.md#90-10-07-03-02-a1)
+#### [영상 90.10.7.3.2.a1. Ctrl(⌘) + Shift(⇧) + 마우스 휠: 도구 옵션의 종횡비(Aspect Ratio) 조절](./90-10-07-03-02-adjust_tool_aspect_ratio.md#90-10-07-03-02-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2f5ffa16-9715-4da6-a0ee-508a303e8ed8"></video>
 
 <a id="14-01-04-07-s3"></a>
