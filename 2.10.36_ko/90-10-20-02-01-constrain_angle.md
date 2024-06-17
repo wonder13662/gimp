@@ -11,7 +11,7 @@
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.20.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-20-02-00-key_modifier-ctrl.md)
+[⬆️ 위: 90.10.20.2. Ctrl(⌘) + Shift(⇧):동작 변경키(Key modifiers)](./90-10-20-02-00-key_modifier-ctrl_shift.md)
 
 [⬆️ 위: 90.10.20. `문지르기` 도구](./90-10-20-00-smudge.md)
 
