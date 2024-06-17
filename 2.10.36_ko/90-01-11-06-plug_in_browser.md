@@ -5,9 +5,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.11.1. 도움말(Help) - 김프 온라인(GIMP Online)](./90-01-11-09-gimp_online.md)
+[➡️ 다음: 90.1.11.7. 프로시저 찾아보기(Procedure Browser)](./90-01-11-07-procedure_browser.md)
 
-[⬅️ 이전: 90.1.10.3. 창(Windows) - 탭 위치(Tab position)](./90-01-10-windowsx-03-tab_position.md)
+[⬅️ 이전: 90.1.11.5. 명령 검색 및 실행(Search and Run a Command)](./90-01-11-05-search_and_run_a_command.md)
+
+[⬆️ 위: 90.1.11. 도움말(Help)](./90-01-11-00-help.md)
 
 [⬆️ 위: 90.1. 이미지 메뉴 바(Image Menu Bar)](./90-01-00-image-menu-bar.md)
 
