@@ -5,6 +5,8 @@
 #### 그림 90.3.2.37.a1. `도구상자` → `색상 추출`의 도구옵션
 ![90-03-02-37-a1](https://github.com/wonder13662/gimp/assets/15767104/d34b30f8-04b9-4a1c-a294-5bfacf4e7e04)
 
+[14.5.3.3. 옵션(Options) - 그림 90.3.2.37.a1](./14-05-03-03-00-options.md#90-03-02-37-a1)
+
 <a id="90-03-02-37-a2"></a>
 
 #### 그림 90.3.2.37.a2. `도구상자` → `색상 추출`
@@ -29,6 +31,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/72becdd4-4f2a-477d-94da-c8bc2fef893e"></video>
 
 [7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.3.2.37.a3](./07-01-02-making_a_selection_partially_transparent.md#90-03-02-37-a3)
+
+<a id="90-03-02-37-a11-01"></a>
+
+#### 그림 90.3.2.37.a11.1. `도구 옵션` → `색상 추출` → `표본 평균` (Windows) (우리말)
+<img width="240" height="228" alt="90-03-02-37-a11-01" src="https://github.com/wonder13662/gimp/assets/15767104/02e26476-5750-4f04-be6e-b47ea54b5dc9">
+
+[14.5.3.3.1. 표본 평균(Sample Average) - 그림 90.3.2.37.a11.1](./14-05-03-03-01-sample_average.md#90-03-02-37-a11-01)
+
+<a id="90-03-02-37-a11-01-01"></a>
+
+#### 영상 90.3.2.37.a11.1.1. `도구 옵션` → `색상 추출` → `표본 평균` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f09f10a2-36e2-46b1-903e-1d927a8e9627"></video>
+
+[14.5.3.3.1. 표본 평균(Sample Average) - 영상 90.3.2.37.a11.1.1](./14-05-03-03-01-sample_average.md#90-03-02-37-a11-01-01)
 
 ***
 
