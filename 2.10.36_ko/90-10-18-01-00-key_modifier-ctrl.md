@@ -4,7 +4,7 @@
 
 ## 하위 페이지
 
-[90.10.18.2.1. 원본 선택(Select the source)](./90-10-18-02-01-select_the_source.md)
+[90.10.18.1.1. 원본 선택(Select the source)](./90-10-18-01-01-select_the_source.md)
 
 ***
 
