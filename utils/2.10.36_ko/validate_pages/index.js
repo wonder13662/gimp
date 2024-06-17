@@ -17,6 +17,7 @@ const doAsyncJob = async () => {
 
     // 1-2. 파일 목록 가져오기
     const files = await fsPromises.readdir(pageFileListPath);
+    // const files = ['90-10-27-01-00-keyboard_shortcut.md']; // NOTE: 개별 파일 검사시 사용
     console.log(`모두 ${files.length} 개의 파일을 검사합니다.`)
 
     for (let i = 0; i < files.length; i++) {
@@ -34,7 +35,7 @@ const doAsyncJob = async () => {
       const contents = await fsPromises.readFile(pagePath, { encoding: 'utf8' });
   
       // 1-2-2. 페이지 내의 다른 페이지 링크 추출하기
-      const pageWithAnchorList = contents.match(/(?<=\(\.\/)[0-9a-z\-]+\.md#[0-9a-z\-]+(?=\))/g);
+      const pageWithAnchorList = contents.match(/(?<=\(\.\/)[0-9a-z\-_]+\.md#[0-9a-z\-_]+(?=\))/g);
       if (pageWithAnchorList) {
         console.log(`[정보] 페이지 링크(앵커 태그): ${pageWithAnchorList.length}개`)
 
@@ -76,7 +77,7 @@ const doAsyncJob = async () => {
         console.log(`[정보] 페이지 링크(앵커 태그): 없음`)
       }
 
-      const pageList = contents.match(/(?<=\(\.\/)[0-9a-z\-]+\.md(?=\))/g)
+      const pageList = contents.match(/(?<=\(\.\/)[0-9a-z\-_]+\.md(?=\))/g)
       if (pageList) {
         console.log(`[정보] 페이지 링크: ${pageList.length}개`)
         for (let j = 0; j < pageList.length; j++) {
