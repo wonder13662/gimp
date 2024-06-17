@@ -13,7 +13,7 @@
 
 [⬆️ 위: 90.10.17.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-17-02-00-key_modifier-ctrl.md)
 
-[⬆️ 위: 90.10.17. `복원` 도구](./90-10-17-00-clone.md)
+[⬆️ 위: 90.10.17. `복원` 도구](./90-10-17-00-heal.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 
