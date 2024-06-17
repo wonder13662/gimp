@@ -64,7 +64,7 @@ Shift(⇧) + Ctrl(⌘) + Alt(⌥) + 마우스 휠로 도구 옵션의 간격(Spa
 
 <a id="90-10-07-07-01-a1"></a>
 
-#### [영상 90.10.7.7.1.a1. Ctrl(⌘) + Alt(⌥) + Shift(⇧) + 마우스 휠: 도구 옵션의 간격(Spacing) 조절](./90-10-00-keyboard_shortcut.md#90-10-07-07-01-a1)
+#### [영상 90.10.7.7.1.a1. Ctrl(⌘) + Alt(⌥) + Shift(⇧) + 마우스 휠: 도구 옵션의 간격(Spacing) 조절](./90-10-07-07-01-adjust_tool_spacing.md#90-10-07-07-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5e4248af-4cd1-490d-add6-7c1fd4e62dbf"></video>
 
 ***
