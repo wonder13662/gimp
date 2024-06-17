@@ -11,7 +11,7 @@
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.18.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-18-02-00-key_modifier-ctrl.md)
+[⬆️ 위: 90.10.18.1. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-18-01-00-key_modifier-ctrl.md)
 
 [⬆️ 위: 90.10.18. `원근 복제` 도구](./90-10-18-00-perspective_clone.md)
 
