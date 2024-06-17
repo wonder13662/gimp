@@ -28,7 +28,7 @@
 #### 영상 90.3.2.4.a11.1. `도구상자` → `타원 선택`: 타원 선택 도구와 영역 채우기로 원이나 타원 그리기
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9235f139-37f0-4e81-bf30-d5db22e825ed"></video>
 
-[14.2.3.5. 타원 그리기(Draw ellipse) - 영상 90.3.2.4.a11](./14-02-03-05-draw_ellipse.md#90-03-02-04-a11)
+[14.2.3.5. 타원 그리기(Draw ellipse) - 영상 90.3.2.4.a11](./14-02-03-05-draw_ellipse.md#90-03-02-04-a11-01)
 
 <a id="90-03-02-04-a12-01"></a>
 
