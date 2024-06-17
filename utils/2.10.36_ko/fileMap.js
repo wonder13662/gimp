@@ -849,7 +849,7 @@ module.exports = {
       ],
       [
         '14-00-tools.md', 
-        '14. Tools'
+        '14. 도구(Tools)'
       ],
       [
         '14-01-00-the-toolbox.md', 

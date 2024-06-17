@@ -943,7 +943,7 @@
 [13.4.13. Truchet](./13-04-13-truchet.md)
 
 # Part III. 기능 설명(Function Reference)
-[14. Tools](./14-00-tools.md)
+[14. 도구(Tools)](./14-00-tools.md)
 
 [14.1. 도구상자(The toolbox)](./14-01-00-the-toolbox.md)
 
