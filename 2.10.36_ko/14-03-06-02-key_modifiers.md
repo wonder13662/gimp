@@ -12,7 +12,7 @@ Ctrl(⌘) 키를 누르면 [그리기 붓](./14-03-07-00-paintbrush.md)과 비�
 
 <a id="90-10-10-02-01-a1"></a>
 
-#### [영상 90.10.10.2.1.a1. 칠하기 도구:`연필` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(전경색)](./90-10-10-02-01-switch_to_color_picker_fg.md#14-03-06-02-s1)
+#### [영상 90.10.10.2.1.a1. 칠하기 도구:`연필` - Ctrl(⌘) 키: 색상 추출 도구로 바꾸기(전경색)](./90-10-10-02-01-switch_to_color_picker_fg.md#90-10-10-02-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6be99f33-0bd4-4963-9c67-df9863ee18b3"></video>
 
 <a id="14-03-06-02-s2"></a>
