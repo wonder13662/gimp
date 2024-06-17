@@ -9,7 +9,7 @@
 
 [➡️ 다음: 90.4.13. 대칭 그리기(Symmetry Painting)](./90-04-13-symmetry_painting.md)
 
-[⬅️ 이전: 90.4.11. 포인터(Pointer)](./90-04-11-pointer.md)
+[⬅️ 이전: 90.4.11. 포인터(Pointer)](./90-04-11-pointer_information.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 

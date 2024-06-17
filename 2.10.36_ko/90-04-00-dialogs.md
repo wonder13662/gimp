@@ -122,7 +122,7 @@
 
 ### [90.4.11. 포인터 정보(Pointer Information)](./90-04-11-pointer_information.md)
 #### 그림 90.4.a11. 포인터(Pointer)
-[<img width="240" alt="그림 90.4.a11. 포인터(Pointer)" src="https://github.com/wonder13662/gimp/assets/15767104/14ee1d8c-3b8b-42f1-8703-88cd90300ee1">](./90-04-11-pointer.md)
+[<img width="240" alt="그림 90.4.a11. 포인터(Pointer)" src="https://github.com/wonder13662/gimp/assets/15767104/14ee1d8c-3b8b-42f1-8703-88cd90300ee1">](./90-04-11-pointer_information.md)
 
 ### [90.4.12. 표본점(Sample Points)](./90-04-12-sample_points.md)
 #### 그림 90.4.a12. 표본점(Sample Points)

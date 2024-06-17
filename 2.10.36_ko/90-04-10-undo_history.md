@@ -16,7 +16,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.11. 포인터(Pointer)](./90-04-11-pointer.md)
+[➡️ 다음: 90.4.11. 포인터(Pointer)](./90-04-11-pointer_information.md)
 
 [⬅️ 이전: 90.4.9. 내비게이션(Navigation)](./90-04-09-navigation.md)
 
