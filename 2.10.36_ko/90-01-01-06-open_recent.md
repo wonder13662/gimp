@@ -8,11 +8,17 @@
 
 [5.3.3. 최근 연 파일 - 그림 90.1.1.6.a101](./05-03-03-open-recent.md#90-01-01-06-a101)
 
+<a id="90-01-01-06-a102"></a>
+
 #### 그림 90.1.1.6.a102. `파일` → `최근 연 파일` (Windows) (영어)
 ![90-01-01-filex-02-open_recent(영어)(windows)](https://github.com/wonder13662/gimp/assets/15767104/02097da3-a7a4-4041-aef2-7f6fe3af9201)
 
+<a id="90-01-01-06-a103"></a>
+
 #### 그림 90.1.1.6.a103. `파일` → `최근 연 파일` (Mac) (우리말)
 ![90-01-01-filex-02-open_recent(우리말)(mac)(720)](https://github.com/wonder13662/gimp/assets/15767104/2923cc3b-0348-4ddc-9346-ab22cbb957c3)
+
+<a id="90-01-01-06-a104"></a>
 
 #### 그림 90.1.1.6.a104. `파일` → `최근 연 파일` (Mac) (영어)
 ![90-01-01-filex-02-open_recent(영어)(mac)(720)](https://github.com/wonder13662/gimp/assets/15767104/ef9580a2-adc8-40d5-b9e2-11e1db045405)
