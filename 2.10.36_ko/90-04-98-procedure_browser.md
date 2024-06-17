@@ -28,8 +28,6 @@
 
 [13.3.4.5. 함수 등록하기(Registering The Function) - 그림 90.4.98.a111](./13-03-04-05-00-registering_the_function.md#90-04-98-a111)
 
-[13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script)](./13-03-04-06-steps_for_registering_the_script.md#90-04-98-a111)
-
 <a id="90-04-98-a111-01"></a>
 
 #### 그림 90.4.98.a111.1. `프로시저 브라우저` 대화상자 - 추가한 스크립트 - 함수 이름 (Windows) (우리말)
