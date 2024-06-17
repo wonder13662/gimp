@@ -6,8 +6,6 @@
 #### 그림 90.4.109.a101. `전경 선택` 대화상자 (Windows) (우리말)
 ![90-04-109-a101](https://github.com/wonder13662/gimp/assets/15767104/1cfe2f58-293d-411e-84d6-6a2ac35c8d1f)
 
-[14.2.8.2. 사용법(Direction for use) - 그림 90.4.109.a101](./14-02-08-02-00-directions_for_use.md#90-04-109-a101)
-
 [14.2.8.2.1. 선택 만들기(Create Selection) - 그림 90.4.109.a101](./14-02-08-02-01-create_selection.md#90-04-109-a101)
 
 <a id="90-04-109-a101-01"></a>
@@ -15,16 +13,12 @@
 #### 영상 90.4.109.a101.1. `전경 선택` 대화상자: `x` 닫기 버튼 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7b898d09-94c8-45e3-b326-d739b8b6fb92"></video>
 
-[14.2.8.2. 사용법(Direction for use) - 영상 90.4.109.a101.1](./14-02-08-02-00-directions_for_use.md#90-04-109-a101-01)
-
 [14.2.8.2.1. 선택 만들기(Create Selection) - 영상 90.4.109.a101.1](./14-02-08-02-01-create_selection.md#90-04-109-a101-01)
 
 <a id="90-04-109-a101-02"></a>
 
 #### 영상 90.4.109.a101.2. `전경 선택` 대화상자: ESC 키 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6ac85b70-5fb6-41ee-8a83-ad3eb4b49384"></video>
-
-[14.2.8.2. 사용법(Direction for use) - 영상 90.4.109.a101.2](./14-02-08-02-00-directions_for_use.md#90-04-109-a101-02)
 
 [14.2.8.2.1. 선택 만들기(Create Selection) - 영상 90.4.109.a101.2](./14-02-08-02-01-create_selection.md#90-04-109-a101-02)
 
