@@ -82,7 +82,7 @@
 
 [➡️ 다음: 90.4.112. 크기 조정(Scale Adjustment)](./90-04-112-scale_adjustment.md)
 
-[⬅️ 이전: 90.4.110. 페인트 동적 요소 편집기(Paint Dynamic Editor)](./90-04-111-paint_dynamic_editor.md)
+[⬅️ 이전: 90.4.110. 페인트 동적 요소 편집기(Paint Dynamic Editor)](./90-04-110-paint_dynamic_editor.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 
