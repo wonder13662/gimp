@@ -60,6 +60,41 @@
 
 [14.5.3.3.2. 표본 합치기(Sample Merged) - 영상 90.3.2.37.a11.2.1](./14-05-03-03-02-sample_merged.md#90-03-02-37-a11-02-01)
 
+<a id="90-03-02-37-a11-03"></a>
+
+#### 그림 90.3.2.37.a11.3. `도구 옵션` → `색상 추출` → `대상 추출` (Windows) (우리말)
+<img width="240" height="228" alt="90-03-02-37-a11-03" src="https://github.com/wonder13662/gimp/assets/15767104/fb011e59-f7d5-4e29-98c0-e77485862fdd">
+
+[14.5.3.3.3. 대상 추출(Pick Target) - 그림 90.3.2.37.a11.3](./14-05-03-03-03-pick_target.md#90-03-02-37-a11-03)
+
+<a id="90-03-02-37-a11-03-01"></a>
+
+#### 영상 90.3.2.37.a11.3.1. `도구 옵션` → `색상 추출` → `대상 추출` → `선택만` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4b1ef83b-88e8-401e-90e4-a0682e2691b9"></video>
+
+[14.5.3.3.3. 대상 추출(Pick Target) - 영상 90.3.2.37.a11.3.1](./14-05-03-03-03-pick_target.md#90-03-02-37-a11-03-01)
+
+<a id="90-03-02-37-a11-03-02"></a>
+
+#### 영상 90.3.2.37.a11.3.2. `도구 옵션` → `색상 추출` → `대상 추출` → `전경색 지정` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/dd48cf8c-8c5e-494b-9549-2a2f1894bb80"></video>
+
+[14.5.3.3.3. 대상 추출(Pick Target) - 영상 90.3.2.37.a11.3.2](./14-05-03-03-03-pick_target.md#90-03-02-37-a11-03-02)
+
+<a id="90-03-02-37-a11-03-03"></a>
+
+#### 영상 90.3.2.37.a11.3.3. `도구 옵션` → `색상 추출` → `대상 추출` → `배경색 지정` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/75f1c09d-5bd3-4748-8d38-00a510d6ec52"></video>
+
+[14.5.3.3.3. 대상 추출(Pick Target) - 영상 90.3.2.37.a11.3.3](./14-05-03-03-03-pick_target.md#90-03-02-37-a11-03-03)
+
+<a id="90-03-02-37-a11-03-04"></a>
+
+#### 영상 90.3.2.37.a11.3.4. `도구 옵션` → `색상 추출` → `대상 추출` → `팔레트에 추가` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4d20dda2-b2f2-4950-97db-8a9176e5c704"></video>
+
+[14.5.3.3.3. 대상 추출(Pick Target) - 영상 90.3.2.37.a11.3.4](./14-05-03-03-03-pick_target.md#90-03-02-37-a11-03-04)
+
 ***
 
 ## 다른 페이지로 가기
