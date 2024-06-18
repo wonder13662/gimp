@@ -5,35 +5,35 @@
 #### 그림 90.5.11.a101. (11)내비게이션의 위치 (다중창)
 ![90-05-11-a101](https://github.com/wonder13662/gimp/assets/15767104/37e9e158-345d-44ac-9d69-9ec0cd38e6f0)
 
-[3.2.2.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a101](./03-02-02-11-navigation-control.md#90-05-11-a101)
+[3.2.4.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a101](./03-02-04-11-navigation-control.md#90-05-11-a101)
 
 <a id="90-05-11-a102"></a>
 
 #### 그림 90.5.11.a102. (11)내비게이션의 위치 (단일창)
 ![90-05-11-a102](https://github.com/wonder13662/gimp/assets/15767104/935fc9e0-5267-4994-98fa-873daedc9463)
 
-[3.2.2.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a102](./03-02-02-11-navigation-control.md#90-05-11-a102)
+[3.2.4.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a102](./03-02-04-11-navigation-control.md#90-05-11-a102)
 
 <a id="90-05-11-a103"></a>
 
 #### 그림 90.5.11.a103. 내비게이션 버튼의 모양
 ![90-05-11-a103](https://github.com/wonder13662/gimp/assets/15767104/6c9cd4a7-8fd1-4d6c-8f0e-6db56f821508)
 
-[3.2.2.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a103](./03-02-02-11-navigation-control.md#90-05-11-a103)
+[3.2.4.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a103](./03-02-04-11-navigation-control.md#90-05-11-a103)
 
 <a id="90-05-11-a121"></a>
 
 #### 그림 90.5.11.a121. 내비게이션 미리보기로 이미지의 다른 부분으로 옮기기
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b3082a40-da2a-4105-9f6b-8f0657354098"></video>
 
-[3.2.2.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a121](./03-02-02-11-navigation-control.md#90-05-11-a121)
+[3.2.4.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a121](./03-02-04-11-navigation-control.md#90-05-11-a121)
 
 <a id="90-05-11-a131"></a>
 
 #### 그림 90.5.11.a131. 마우스 가운데 버튼으로 이미지의 원하는 부분으로 옮기기
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1b8b315c-e71d-4414-926e-6daef83183ed"></video>
 
-[3.2.2.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a131](./03-02-02-11-navigation-control.md#90-05-11-a131)
+[3.2.4.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a131](./03-02-04-11-navigation-control.md#90-05-11-a131)
 
 ***
 

@@ -5,14 +5,14 @@
 #### 그림 90.5.5.a101. (5)퀵마스크 토글 버튼의 위치 (다중창)
 ![90-05-05-a101](https://github.com/wonder13662/gimp/assets/15767104/0341cdc8-f2d5-4bd6-b1d6-ac591c1c22fb)
 
-[3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 그림 90.5.5.a101](./03-02-02-05-quickmask-toggle.md#90-05-05-a101)
+[3.2.4.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 그림 90.5.5.a101](./03-02-04-05-quickmask-toggle.md#90-05-05-a101)
 
 <a id="90-05-05-a102"></a>
 
 #### 그림 90.5.5.a102. (5)퀵마스크 토글 버튼의 위치 (단일창)
 ![90-05-05-a102](https://github.com/wonder13662/gimp/assets/15767104/64879a12-f3e5-47ad-94da-f47653824bc6)
 
-[3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 그림 90.5.5.a102](./03-02-02-05-quickmask-toggle.md#90-05-05-a102)
+[3.2.4.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 그림 90.5.5.a102](./03-02-04-05-quickmask-toggle.md#90-05-05-a102)
 
 [7.1. 선택 - 그림 90.5.5.a102](./07-01-00-the-selection.md#90-05-05-a102)
 
@@ -23,7 +23,7 @@
 #### 영상 90.5.5.a111. 퀵 마스크 토글하기
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/74f2db78-a06e-48d8-bcc7-7c99e3d57180"></video>
 
-[3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 영상 90.5.5.a111](./03-02-02-05-quickmask-toggle.md#90-05-05-a111)
+[3.2.4.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 영상 90.5.5.a111](./03-02-04-05-quickmask-toggle.md#90-05-05-a111)
 
 [7.3.1. 퀵마스크 개요 - 영상 90.5.5.a111](./07-03-01-overview.md#90-05-05-a111)
 
@@ -32,7 +32,7 @@
 #### 그림 90.5.5.a112. 퀵 마스크 토글 확대해서 보기
 <img alt="90-05-05-a112" width="340" height="340" src="https://github.com/wonder13662/gimp/assets/15767104/f617094f-fd9c-4ae5-9256-d8eba0e4ce19" />
 
-[3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 그림 90.5.5.a112](./03-02-02-05-quickmask-toggle.md#90-05-05-a112)
+[3.2.4.5. 퀵마스크 토글 버튼 (QuickMask Toggle) - 그림 90.5.5.a112](./03-02-04-05-quickmask-toggle.md#90-05-05-a112)
 
 <a id="90-05-05-a121"></a>
 

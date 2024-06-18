@@ -1,5 +1,8 @@
-# 3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)
-## 3.2.2.14.1. 이미지 확대/축소 버튼의 위치
+# 3.2.4.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)
+
+<a id="03-02-04-14-s1"></a>
+
+## 1. 이미지 확대/축소 버튼의 위치
 
 <a id="90-05-14-a101"></a>
 
@@ -11,7 +14,9 @@
 #### [그림 90.5.14.a102. (14)이미지 확대/축소 버튼의 위치 (단일창)](./90-05-14-image_window_resize_toggle.md#90-05-14-a102)
 ![90-05-14-a102](https://github.com/wonder13662/gimp/assets/15767104/f3630208-70ab-4046-b082-a916d1e1131d)
 
-## 3.2.2.14.2. 이미지 확대/축소 버튼 사용하기
+<a id="03-02-04-14-s2"></a>
+
+## 2. 이미지 확대/축소 버튼 사용하기
 
 <a id="90-05-14-a111"></a>
 
@@ -30,7 +35,12 @@
 #### [영상 90.5.14.a113. 이미지 확대/축소 버튼 비활성화(OFF)일때의 동작](./90-05-14-image_window_resize_toggle.md#90-05-14-a113)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9770cf33-e727-462c-987e-39ab3939412f"></video>
 
-## 3.2.2.14.3. 이미지 확대/축소 비율 단축키
+<a id="03-02-04-14-s3"></a>
+
+## 3. 이미지 확대/축소 비율 단축키
+
+<a comment="아래 키보드 단축키 목록에 추가하기"></a>
+
 ### Ctrl + `J`(Windows) or ⌘ + `J`(Mac)
 이 단축키는 확대/축소 비율을 고정시킵니다. 이미지 창(Image Window) 크기를 이미지(Image Display)에 맞춥니다.
 
@@ -71,11 +81,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 3.2.3. 대화상자(Dialog)와 도킹(docking)](./03-02-03-00-dialogs-and-docking.md)
+[➡️ 다음: 3.2.5. 대화상자(Dialog)와 도킹(docking)](./03-02-05-00-dialogs-and-docking.md)
 
-[⬅️ 이전: 3.2.2.13. 이미지 (Image Display)](./03-02-02-13-image-display.md)
+[⬅️ 이전: 3.2.4.13. 이미지 (Image Display)](./03-02-04-13-image-display.md)
 
-[⬆️ 위: 3.2.2. 이미지 창(Image window)](./03-02-02-00-image-window.md)
+[⬆️ 위: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image-window.md)
 
 [⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 

@@ -6,7 +6,7 @@
 #### [영상 90.4.3.12.a11. Alt(⌥) + Mouse Middle Button으로 레이어 활성화하기 (Windows) (우리말)](./90-04-03-12-active_layer.md#90-04-03-12-a11)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f59e6885-7269-488e-a8f5-51f5952ae7b0"></video>
 
-만일 같은 위치에 여러 레이어가 있다면 가장 위의 레이어부터 차례대로 활성화됩니다. 또한 활성화된 레이어의 이름이 [상태 표시 영역](./03-02-02-09-status-area.md)에 나타납니다.
+만일 같은 위치에 여러 레이어가 있다면 가장 위의 레이어부터 차례대로 활성화됩니다. 또한 활성화된 레이어의 이름이 [상태 표시 영역](./03-02-04-09-status-area.md)에 나타납니다.
 
 <a id="90-04-03-12-a21"></a>
 

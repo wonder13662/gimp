@@ -60,9 +60,9 @@
 #### 그림 90.3.a131. 도구상자의 모습
 ![90-03-a131](https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5)
 
-[3.2. GIMP(김프)의 주요 화면 - 그림 90.3.a131](./03-02-00-main-window.md#90-03-a131)
+[3.2.2. 단일창 모드(single window mode) - 그림 90.3.a131](./03-02-02-single_window_mode.md#90-03-a131)
 
-[3.2.1. 기본 도구상자(The toolbox) - 그림 90.3.a131](./03-02-01-the-toolbox.md#90-03-a131)
+[3.2.3. 도구상자(The toolbox) - 그림 90.3.a131](./03-02-03-the-toolbox.md#90-03-a131)
 
 [12.1.13. 도구상자(Toolbox) - 그림 90.3.a131](./12-01-13-00-toolbox.md#90-03-a131)
 
@@ -80,14 +80,14 @@
 #### 영상 90.3.a141. 마우스 커서를 올려놓으면 도구의 설명이 보입니다
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0022d833-4dab-4e04-a388-af9ef0011b1d"></video>
 
-[3.2.1. 기본 도구상자(The toolbox) - 영상 90.3.a141](./03-02-01-the-toolbox.md#90-03-a141)
+[3.2.3. 도구상자(The toolbox) - 영상 90.3.a141](./03-02-03-the-toolbox.md#90-03-a141)
 
 <a id="90-03-a142"></a>
 
 #### 영상 90.3.a142. 마우스 커서를 올려놓고 F1 키를 눌러 사용자 매뉴얼 페이지로 이동하기
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/95fd3621-1b95-40a3-ae7b-669ecb1596bf"></video>
 
-[3.2.1. 기본 도구상자(The toolbox) - 영상 90.3.a142](./03-02-01-the-toolbox.md#90-03-a142)
+[3.2.3. 도구상자(The toolbox) - 영상 90.3.a142](./03-02-03-the-toolbox.md#90-03-a142)
 
 ***
 

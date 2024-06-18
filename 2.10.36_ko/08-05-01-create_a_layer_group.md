@@ -16,7 +16,7 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d41a23d7-ca29-4045-8ab8-be7e4932b61c"></video>
 
 ### 1-2. 이미지 메뉴 바의 `레이어` → `새 레이어 그룹(New Layer Group)`
-[이미지 메뉴 바](./03-02-02-02-image-menu.md) `레이어` → `새 레이어 그룹(New Layer Group)` 메뉴를 클릭해서 레이어 그룹을 만들 수 있습니다.
+[이미지 메뉴 바](./03-02-04-02-image-menu.md) `레이어` → `새 레이어 그룹(New Layer Group)` 메뉴를 클릭해서 레이어 그룹을 만들 수 있습니다.
 
 <a id="90-01-06-03-a101"></a>
 

@@ -565,70 +565,70 @@
 #### 영상 90.4.a101. 탭 추가(Add Tab)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2859f79-24af-41ff-8ec6-e859da6c8fb8"></video>
 
-[3.2. GIMP(김프)의 주요 화면 - 영상 90.4.a101](./03-02-00-main-window.md#90-04-a101)
+[3.2.2. 단일창 모드(single window mode) - 영상 90.4.a101](./03-02-02-single_window_mode.md#90-04-a101)
 
 <a id="90-04-a102"></a>
 
 #### 영상 90.4.a102. 탭 닫기(Close Tab)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5d38720a-30b5-4466-9719-292c7f66dc5c"></video>
 
-[3.2. GIMP(김프)의 주요 화면 - 영상 90.4.a102](./03-02-00-main-window.md#90-04-a102)
+[3.2.2. 단일창 모드(single window mode) - 영상 90.4.a102](./03-02-02-single_window_mode.md#90-04-a102)
 
 <a id="90-04-a103"></a>
 
 #### 영상 90.4.a103. 탭 떼어내기(Detach Tab)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/50310e90-46d0-445f-9801-a676bd5db9e7"></video>
 
-[3.2. GIMP(김프)의 주요 화면 - 영상 90.4.a103](./03-02-00-main-window.md#90-04-a103)
+[3.2.2. 단일창 모드(single window mode) - 영상 90.4.a103](./03-02-02-single_window_mode.md#90-04-a103)
 
 <a id="90-04-a111"></a>
 
 #### 영상 90.4.a111. 대화상자 이동
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d493e232-1630-47f5-8e5b-5fda0fdd0b87"></video>
 
-[3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.4.a111](./03-02-03-01-organizing-dialogs.md#90-04-a111)
+[3.2.5.1. 대화 상자 위치 변경하기 - 영상 90.4.a111](./03-02-05-01-organizing-dialogs.md#90-04-a111)
 
 <a id="90-04-a112"></a>
 
 #### 영상 90.4.a112. 대화상자그룹에 넣기
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e3a0a266-aba7-4a96-86f4-ab00cc4168d2"></video>
 
-[3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.4.a112](./03-02-03-01-organizing-dialogs.md#90-04-a112)
+[3.2.5.1. 대화 상자 위치 변경하기 - 영상 90.4.a112](./03-02-05-01-organizing-dialogs.md#90-04-a112)
 
 <a id="90-04-a113"></a>
 
 #### 영상 90.4.a113. 독(Dock) 한쪽에 대화상자 추가
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b1acca7-a83c-4b8d-a5fe-10a4ab7b7979"></video>
 
-[3.2.3.1. 대화 상자 위치 변경하기 - 영상 90.4.a113](./03-02-03-01-organizing-dialogs.md#90-04-a113)
+[3.2.5.1. 대화 상자 위치 변경하기 - 영상 90.4.a113](./03-02-05-01-organizing-dialogs.md#90-04-a113)
 
 <a id="90-04-a121"></a>
 
 #### 그림 90.4.a121. 붓(Brushes) 대화상자의 버튼바(Button Bar)
 ![90-04-a121](https://github.com/wonder13662/gimp/assets/15767104/12f3adcf-4649-451b-98a6-5f103892db39)
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.4.a121](./03-02-03-02-tab-menu.md#90-04-a121)
+[3.2.5.2. 탭 메뉴 (Tab Menu) - 그림 90.4.a121](./03-02-05-02-tab-menu.md#90-04-a121)
 
 <a id="90-04-a122"></a>
 
 #### 그림 90.4.a122. `버튼바 표시 (Show Button Bar)`를 토글
 <video controls="controls" width="636" height="634" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8bfb0b36-299b-4fe4-88f9-e137e428c1b9"></video>
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.4.a122](./03-02-03-02-tab-menu.md#90-04-a122)
+[3.2.5.2. 탭 메뉴 (Tab Menu) - 그림 90.4.a122](./03-02-05-02-tab-menu.md#90-04-a122)
 
 <a id="90-04-a131"></a>
 
 #### 그림 90.4.a131. `이미지 선택 표시`의 위치
 ![90-04-a131](https://github.com/wonder13662/gimp/assets/15767104/874be6a8-56ba-410b-bdd1-9a11e35e72e0)
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 그림 90.4.a131. `이미지 선택 표시`의 위치](./03-02-03-02-tab-menu.md#90-04-a131)
+[3.2.5.2. 탭 메뉴 (Tab Menu) - 그림 90.4.a131. `이미지 선택 표시`의 위치](./03-02-05-02-tab-menu.md#90-04-a131)
 
 <a id="90-04-a132"></a>
 
 #### 영상 90.4.a132. 다중창에서 이미지 창을 선택할 때마다 이미지 선택 표시의 내용이 바뀝니다
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d388c0bb-d596-406a-a154-ae52b4808828"></video>
 
-[3.2.3.2. 탭 메뉴 (Tab Menu) - 영상 90.4.a132](./03-02-03-02-tab-menu.md#90-04-a132)
+[3.2.5.2. 탭 메뉴 (Tab Menu) - 영상 90.4.a132](./03-02-05-02-tab-menu.md#90-04-a132)
 
 #### 그림 90.4.a141. 탭 메뉴 열기 - 붓 대화상자
 ![90-04-tab_menu(windows)(ko)(animation)](https://github.com/wonder13662/gimp/assets/15767104/8c44f727-4e56-4f18-817c-91efe0b4bdd1)

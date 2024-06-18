@@ -6,7 +6,7 @@
 #### 그림 90.4.1.a1. 도구 옵션 대화상자
 ![90-04-01-a1](https://github.com/wonder13662/gimp/assets/15767104/71b968e1-ade9-44bb-a064-286b9fa9989b)
 
-[3.2. GIMP(김프)의 주요 화면 - 2. 도구 옵션(Tool Options) - 그림 90.4.1.a1](./03-02-00-main-window.md#90-04-01-a1)
+[3.2.2. 단일창 모드(single window mode) - 6. 도구 옵션(Tool Options) - 그림 90.4.1.a1](./03-02-02-single_window_mode.md#90-04-01-a1)
 
 <a id="90-04-01-a101"></a>
 

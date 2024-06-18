@@ -1,5 +1,8 @@
-# 3.2.2.12. 비활성 여백 공간 (Inactive Padding Area)
-## 3.2.2.12.1. 비활성 여백 공간의 위치
+# 3.2.4.12. 비활성 여백 공간 (Inactive Padding Area)
+
+<a id="03-02-04-12-s1"></a>
+
+## 1. 비활성 여백 공간의 위치
 
 <a id="90-05-12-a101"></a>
 
@@ -16,11 +19,12 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 3.2.2.13. 이미지 (Image Display)](./03-02-02-13-image-display.md)
 
-[⬅️ 이전: 3.2.2.11. 내비게이션 (Navigation Control)](./03-02-02-11-navigation-control.md)
+[➡️ 다음: 3.2.4.13. 이미지 (Image Display)](./03-02-04-13-image-display.md)
 
-[⬆️ 위: 3.2.2. 이미지 창(Image window)](./03-02-02-00-image-window.md)
+[⬅️ 이전: 3.2.4.11. 내비게이션 (Navigation Control)](./03-02-04-11-navigation-control.md)
+
+[⬆️ 위: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image-window.md)
 
 [⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 

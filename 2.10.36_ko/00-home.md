@@ -25,43 +25,47 @@
 
 [3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 
-[3.2.1. 기본 도구상자(The toolbox)](./03-02-01-the-toolbox.md)
+[3.2.1. 다중창 모드(multi-window mode)](./03-02-01-multi_window_mode.md)
 
-[3.2.2. 이미지 창(Image window)](./03-02-02-00-image-window.md)
+[3.2.2. 단일창 모드(single window mode)](./03-02-02-single_window_mode.md)
 
-[3.2.2.1. 타이틀 바 (Title Bar)](./03-02-02-01-title-bar.md)
+[3.2.3. 도구상자(The toolbox)](./03-02-03-the-toolbox.md)
 
-[3.2.2.2. 이미지 메뉴 (Image Menu)](./03-02-02-02-image-menu.md)
+[3.2.4. 이미지 창(Image window)](./03-02-04-00-image-window.md)
 
-[3.2.2.3. 메뉴 버튼 (Menu Button)](./03-02-02-03-menu-button.md)
+[3.2.4.1. 타이틀 바(Title Bar)](./03-02-04-01-title-bar.md)
 
-[3.2.2.4. 눈금자 (Ruler)](./03-02-02-04-ruler.md)
+[3.2.4.2. 이미지 메뉴 (Image Menu)](./03-02-04-02-image-menu.md)
 
-[3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle)](./03-02-02-05-quickmask-toggle.md)
+[3.2.4.3. 메뉴 버튼 (Menu Button)](./03-02-04-03-menu-button.md)
 
-[3.2.2.6. 커서 좌표 (Pointer Coordinates)](./03-02-02-06-pointer-coordinates.md)
+[3.2.4.4. 눈금자 (Ruler)](./03-02-04-04-ruler.md)
 
-[3.2.2.7. 단위 메뉴 (Units Menu)](./03-02-02-07-units-menu.md)
+[3.2.4.5. 퀵마스크 토글 버튼 (QuickMask Toggle)](./03-02-04-05-quickmask-toggle.md)
 
-[3.2.2.8. 확대/축소 버튼 (Zoom Button)](./03-02-02-08-zoom-button.md)
+[3.2.4.6. 커서 좌표 (Pointer Coordinates)](./03-02-04-06-pointer-coordinates.md)
 
-[3.2.2.9. 상태 표시 영역 (Status Area)](./03-02-02-09-status-area.md)
+[3.2.4.7. 단위 메뉴 (Units Menu)](./03-02-04-07-units-menu.md)
 
-[3.2.2.10. 취소 버튼 (Cancel Button)](./03-02-02-10-cancel-button.md)
+[3.2.4.8. 확대/축소 버튼 (Zoom Button)](./03-02-04-08-zoom-button.md)
 
-[3.2.2.11. 내비게이션 (Navigation Control)](./03-02-02-11-navigation-control.md)
+[3.2.4.9. 상태 표시 영역 (Status Area)](./03-02-04-09-status-area.md)
 
-[3.2.2.12. 비활성 여백 공간 (Inactive Padding Area)](./03-02-02-12-inactive-padding-area.md)
+[3.2.4.10. 취소 버튼 (Cancel Button)](./03-02-04-10-cancel-button.md)
 
-[3.2.2.13. 이미지 (Image Display)](./03-02-02-13-image-display.md)
+[3.2.4.11. 내비게이션 (Navigation Control)](./03-02-04-11-navigation-control.md)
 
-[3.2.2.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)](./03-02-02-14-image-window-resize-toggle.md)
+[3.2.4.12. 비활성 여백 공간 (Inactive Padding Area)](./03-02-04-12-inactive-padding-area.md)
 
-[3.2.3. 대화상자(Dialog)와 도킹(docking)](./03-02-03-00-dialogs-and-docking.md)
+[3.2.4.13. 이미지 (Image Display)](./03-02-04-13-image-display.md)
 
-[3.2.3.1. 대화 상자 위치 변경하기](./03-02-03-01-organizing-dialogs.md)
+[3.2.4.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)](./03-02-04-14-image-window-resize-toggle.md)
 
-[3.2.3.2. 탭 메뉴 (Tab Menu)](./03-02-03-02-tab-menu.md)
+[3.2.5. 대화상자(Dialog)와 도킹(docking)](./03-02-05-00-dialogs-and-docking.md)
+
+[3.2.5.1. 대화 상자 위치 변경하기](./03-02-05-01-organizing-dialogs.md)
+
+[3.2.5.2. 탭 메뉴 (Tab Menu)](./03-02-05-02-tab-menu.md)
 
 [3.3. 실행 취소하기](./03-03-undoing.md)
 

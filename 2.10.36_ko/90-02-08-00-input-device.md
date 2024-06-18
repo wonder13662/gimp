@@ -28,7 +28,7 @@
 #### 그림 90.2.8.a101. 마칠 때 장치 상태 저장(Save input device settings on exit) (Windows) (우리말)
 ![90-02-08-a101](https://github.com/wonder13662/gimp/assets/15767104/e009f279-edb5-4a93-a46b-3e037094556d)
 
-[3.2.1. 기본 도구상자(The toolbox) - 90.2.8.a101](./03-02-01-the-toolbox.md#90-02-08-a101)
+[3.2.3. 도구상자(The toolbox) - 90.2.8.a101](./03-02-03-the-toolbox.md#90-02-08-a101)
 
 ***
 

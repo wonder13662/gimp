@@ -5,21 +5,21 @@
 #### 그림 90.5.6.a101. 커서 좌표의 위치 (다중창)
 ![90-05-06-a101](https://github.com/wonder13662/gimp/assets/15767104/523a5743-a6a9-411e-b919-6d92d6acab79)
 
-[3.2.2.6. 커서 좌표 (Pointer Coordinates) - 그림 90.5.6.a101](./03-02-02-06-pointer-coordinates.md#90-05-06-a101)
+[3.2.4.6. 커서 좌표 (Pointer Coordinates) - 그림 90.5.6.a101](./03-02-04-06-pointer-coordinates.md#90-05-06-a101)
 
 <a id="90-05-06-a102"></a>
 
 #### 그림 90.5.6.a102. 커서 좌표의 위치 (단일창)
 ![90-05-06-a102](https://github.com/wonder13662/gimp/assets/15767104/d151f369-50f2-44bc-b56b-77ed45be534a)
 
-[3.2.2.6. 커서 좌표 (Pointer Coordinates) - 그림 90.5.6.a102](./03-02-02-06-pointer-coordinates.md#90-05-06-a102)
+[3.2.4.6. 커서 좌표 (Pointer Coordinates) - 그림 90.5.6.a102](./03-02-04-06-pointer-coordinates.md#90-05-06-a102)
 
 <a id="90-05-06-a111"></a>
 
 #### 그림 90.5.6.a111. 커서 좌표 확인하기
 <img alt="90-05-05-a112" width="340" height="340" src="https://github.com/wonder13662/gimp/assets/15767104/1ac9e6e8-0d8c-48bf-9e93-6a9433f8893a" />
 
-[3.2.2.6. 커서 좌표 (Pointer Coordinates) - 그림 90.5.6.a111](./03-02-02-06-pointer-coordinates.md#90-05-06-a111)
+[3.2.4.6. 커서 좌표 (Pointer Coordinates) - 그림 90.5.6.a111](./03-02-04-06-pointer-coordinates.md#90-05-06-a111)
 
 ***
 

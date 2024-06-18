@@ -1,4 +1,4 @@
-# 3.2.2.6. 커서 좌표 (Pointer Coordinates)
+# 3.2.4.6. 커서 좌표 (Pointer Coordinates)
 
 <a id="90-05-06-a101"></a>
 
@@ -20,11 +20,11 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 3.2.2.7. 단위 메뉴 (Units Menu)](./03-02-02-07-units-menu.md)
+[➡️ 다음: 3.2.4.7. 단위 메뉴 (Units Menu)](./03-02-04-07-units-menu.md)
 
-[⬅️ 이전: 3.2.2.5. 퀵마스크 토글 버튼 (QuickMask Toggle)](./03-02-02-05-quickmask-toggle.md)
+[⬅️ 이전: 3.2.4.5. 퀵마스크 토글 버튼 (QuickMask Toggle)](./03-02-04-05-quickmask-toggle.md)
 
-[⬆️ 위: 3.2.2. 이미지 창(Image window)](./03-02-02-00-image-window.md)
+[⬆️ 위: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image-window.md)
 
 [⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 

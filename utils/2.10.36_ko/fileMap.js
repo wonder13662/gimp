@@ -52,19 +52,19 @@ module.exports = {
         '3.2. GIMP(김프)의 주요 화면',
       ],
       [
-        '03-02-01-the-toolbox.md', 
+        '03-02-03-the-toolbox.md', 
         '3.2.1. The toolbox',
-        '3.2.1. 기본 도구상자(The toolbox)',
+        '3.2.3. 도구상자(The toolbox)',
       ],
       [
-        '03-02-02-00-image-window.md',
+        '03-02-04-00-image-window.md',
         '3.2.2. Image window',
-        '3.2.2. 이미지 창(Image window)',
+        '3.2.4. 이미지 창(Image window)',
       ],
       [
-        '03-02-03-00-dialogs-and-docking.md', 
+        '03-02-05-00-dialogs-and-docking.md', 
         '3.2.3. Dialogs and docking',
-        '3.2.3. 대화상자(Dialog)와 도킹(docking)',
+        '3.2.5. 대화상자(Dialog)와 도킹(docking)',
       ],
       [
         '03-03-undoing.md', 

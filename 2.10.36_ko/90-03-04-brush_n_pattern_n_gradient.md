@@ -26,7 +26,7 @@
 #### 영상 90.3.4.a7. 붓/무늬/그라디언트 대화상자 열기
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/06e78030-2328-4850-8822-8f78700a80af"></video>
 
-[3.2.1. 기본 도구상자(The toolbox) - 영상 90.3.4.a7](./03-02-01-the-toolbox.md#90-03-04-a7)
+[3.2.3. 도구상자(The toolbox) - 영상 90.3.4.a7](./03-02-03-the-toolbox.md#90-03-04-a7)
 
 ***
 

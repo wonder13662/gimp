@@ -59,7 +59,7 @@ Script-Fu API 함수인 `gimp-message`을 이용한 디버깅 방법을 소개�
 ## 4. 디버깅 메시지 출력수단 정하기
 [15.5.4. 오류 콘솔](./15-05-04-error-console.md)로 디버깅 메시지를 확인할 수도 있지만, 터미널로도 디버깅 메시지 확인이 가능합니다. 다만 이 경우에는 터미널에서 GIMP(김프)를 실행해야 합니다.
 
-`gimp-message-set-handler` 프로시저를 사용하여 디버깅 메시지 출력 장치를 선택할 수 있습니다. 0번은 [상태 표시 영역(Status Area)](./03-02-02-09-status-area.md), 1번은 콘솔(터미널), 2번은 [오류 콘솔(Error Console)](./15-05-04-error-console.md)입니다. 아래 예시코드는 콘솔(터미널) 출력으로 설정하고 있습니다.
+`gimp-message-set-handler` 프로시저를 사용하여 디버깅 메시지 출력 장치를 선택할 수 있습니다. 0번은 [상태 표시 영역(Status Area)](./03-02-04-09-status-area.md), 1번은 콘솔(터미널), 2번은 [오류 콘솔(Error Console)](./15-05-04-error-console.md)입니다. 아래 예시코드는 콘솔(터미널) 출력으로 설정하고 있습니다.
 
 ```scheme
 (gimp-message-set-handler 1)
@@ -79,7 +79,7 @@ Script-Fu API 함수인 `gimp-message`을 이용한 디버깅 방법을 소개�
 ![90-05-09-a121](https://github.com/wonder13662/gimp/assets/15767104/0ea14a53-c8c4-4e3a-b03c-fb753a5e0b6b)
 
 ## 5. 예시 코드
-아래 스크립트를 추가한 뒤에, [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `필터` → `Script-Fu` → `스크립트 새로고침` 메뉴를 클릭해서 스크립트를 읽어들입니다. [이미지 메뉴 바](./03-02-02-02-image-menu.md)의 `Fu-Plugin` → `디버깅 예제` 메뉴를 선택하여, 아래 스크립트를 실행할 수 있습니다.
+아래 스크립트를 추가한 뒤에, [이미지 메뉴 바](./03-02-04-02-image-menu.md)의 `필터` → `Script-Fu` → `스크립트 새로고침` 메뉴를 클릭해서 스크립트를 읽어들입니다. [이미지 메뉴 바](./03-02-04-02-image-menu.md)의 `Fu-Plugin` → `디버깅 예제` 메뉴를 선택하여, 아래 스크립트를 실행할 수 있습니다.
 
 #### 파일 13.3.8.a1. debug.scm
 [debug.scm.zip](https://github.com/wonder13662/gimp/files/15142046/debug.scm.zip)

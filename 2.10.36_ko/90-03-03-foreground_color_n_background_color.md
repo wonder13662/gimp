@@ -81,7 +81,7 @@
 #### 그림 90.3.3.a11. 도구상자의 '전경색/배경색'
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8c499d07-443e-4a2e-bf27-4e3ec708cb6b"></video>
 
-[3.2.1. 기본 도구상자(The toolbox) - 그림 90.3.3.a11](./03-02-01-the-toolbox.md#90-03-03-a11)
+[3.2.3. 도구상자(The toolbox) - 그림 90.3.3.a11](./03-02-03-the-toolbox.md#90-03-03-a11)
 
 ***
 

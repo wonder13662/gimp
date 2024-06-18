@@ -5,14 +5,14 @@
 #### 그림 90.5.12.a101. (12)비활성 여백 공간의 위치 (다중창)
 ![90-05-12-a101](https://github.com/wonder13662/gimp/assets/15767104/c95c1be1-e8d2-4554-8964-2ccc6c82724e)
 
-[3.2.2.12. 비활성 여백 공간 (Inactive Padding Area) - 그림 90.5.12.a101](./03-02-02-12-inactive-padding-area.md#90-05-12-a101)
+[3.2.4.12. 비활성 여백 공간 (Inactive Padding Area) - 그림 90.5.12.a101](./03-02-04-12-inactive-padding-area.md#90-05-12-a101)
 
 <a id="90-05-12-a102"></a>
 
 #### 그림 90.5.12.a102. (12)비활성 여백 공간의 위치 (단일창)
 ![90-05-12-a102](https://github.com/wonder13662/gimp/assets/15767104/30032212-ac30-41f7-a393-4b5474ea1766)
 
-[3.2.2.12. 비활성 여백 공간 (Inactive Padding Area) - 그림 90.5.12.a102](./03-02-02-12-inactive-padding-area.md#90-05-12-a102)
+[3.2.4.12. 비활성 여백 공간 (Inactive Padding Area) - 그림 90.5.12.a102](./03-02-04-12-inactive-padding-area.md#90-05-12-a102)
 
 ***
 
