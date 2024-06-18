@@ -45,7 +45,7 @@
 <a id="90-01-s1-file"></a>
 
 ## [90.1.1. 파일(File)](./90-01-01-00-file.md)
-<img width="540" height="314" alt="90-01-01-a1" src="https://github.com/wonder13662/gimp/assets/15767104/80c81aa1-102c-437b-ba29-238c0155bb17">
+<img width="1080" height="628" alt="90-01-01-a1" src="https://github.com/wonder13662/gimp/assets/15767104/80c81aa1-102c-437b-ba29-238c0155bb17">
 
 [90.1.1.1. 새 이미지(New...)](./90-01-01-01-new.md)
 
@@ -102,7 +102,7 @@
 <a id="90-01-s2-edit"></a>
 
 ## [90.1.2. 편집(Edit)](./90-01-02-00-edit.md)
-<img width="540" height="320" alt="90-01-02-a1" src="https://github.com/wonder13662/gimp/assets/15767104/96ce6a03-510f-42c7-b2f7-31c5840bb53d">
+<img width="1080" height="640" alt="90-01-02-a1" src="https://github.com/wonder13662/gimp/assets/15767104/96ce6a03-510f-42c7-b2f7-31c5840bb53d">
 
 [90.1.2.1. 실행 취소(Undo)](./90-01-02-01-undo.md)
 

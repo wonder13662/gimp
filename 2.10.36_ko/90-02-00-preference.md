@@ -3,7 +3,7 @@
 <a id="90-02-a1"></a>
 
 #### 그림 90.2.a1. 기본 설정 좌측 메뉴 목록
-<img width="540" height="325" alt="90-02-a1" src="https://github.com/wonder13662/gimp/assets/15767104/e097529d-e106-4283-a674-9f1eee4d7386">
+<img width="1080" height="650" alt="90-02-a1" src="https://github.com/wonder13662/gimp/assets/15767104/e097529d-e106-4283-a674-9f1eee4d7386">
 
 [12.1.1. 소개 - 그림 90.2.a1](./12-01-01-introduction.md#90-02-a1)
 
