@@ -4,9 +4,11 @@
 
 ## 하위 페이지
 
-[90.10.38.2.1. Ctrl(⌘): 확대/축소 전환하기](./90-10-37-02-01-change_zoom_direction.md)
+[90.10.38.2.1. Ctrl(⌘): 측정선 회전 각도 15도로 제한](./90-10-38-02-01-constrain_rotation_angle.md)
 
-[90.10.38.2.2. Ctrl(⌘) + 마우스 휠: 확대/축소 레벨 바꾸기](./90-10-37-02-02-change_zoom_level.md)
+[90.10.38.2.2. Ctrl(⌘): 수평 안내선 추가](./90-10-38-02-02-add_horizontal_guide.md)
+
+[90.10.38.2.3. Ctrl(⌘): `수직`, `수평` 전환](./90-10-38-02-03-toggle_horizontal_n_vertical.md)
 
 ***
 

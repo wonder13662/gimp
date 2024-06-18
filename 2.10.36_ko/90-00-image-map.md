@@ -2046,6 +2046,32 @@
 
 [90.10.37.2.2. Ctrl(⌘) + 마우스 휠: 확대/축소 레벨 바꾸기](./90-10-37-02-02-change_zoom_level.md)
 
+[90.10.38. `측정` 도구](./90-10-38-00-measure.md)
+
+[90.10.38.1. 키보드 단축키](./90-10-38-01-00-keyboard_shortcut.md)
+
+[90.10.38.1.1. 키보드 단축키 Shift(⇧) + `M`](./90-10-38-01-01-shift_m.md)
+
+[90.10.38.2. Ctrl(⌘): 동작 변경키(Key modifiers)](./90-10-38-02-00-key_modifier-ctrl.md)
+
+[90.10.38.2.1. Ctrl(⌘): 측정선 회전 각도 15도로 제한](./90-10-38-02-01-constrain_rotation_angle.md)
+
+[90.10.38.2.2. Ctrl(⌘): 수평 안내선 추가](./90-10-38-02-02-add_horizontal_guide.md)
+
+[90.10.38.2.3. Ctrl(⌘): `수직`, `수평` 전환](./90-10-38-02-03-toggle_horizontal_n_vertical.md)
+
+[90.10.38.3. Alt(⌥): 동작 변경키(Key modifiers)](./90-10-38-03-00-key_modifier-alt.md)
+
+[90.10.38.3.1. Alt(⌥): 수직 안내선 추가](./90-10-38-03-01-add_vertical_guide.md)
+
+[90.10.38.3.2. Ctrl(⌘) + Alt(⌥): 측정 옮기기](./90-10-38-03-02-move_measurement.md)
+
+[90.10.38.3.3. Ctrl(⌘) + Alt(⌥): 수평, 수직 안내선 한번에 추가하기](./90-10-38-03-03-add_cross_guide.md)
+
+[90.10.38.4. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-38-04-00-key_modifier-shift.md)
+
+[90.10.38.4.1. Shift(⇧): 두번째 측정선 그리기](./90-10-38-04-01-draw_second_measurement_line.md)
+
 <a id="90-00-s6"></a>
 
 ## [90.90. 개념(Concept)](./90-90-00-concept.md)

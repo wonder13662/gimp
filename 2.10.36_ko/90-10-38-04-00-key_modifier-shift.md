@@ -1,12 +1,10 @@
-# 90.10.38.2. Ctrl(⌘): 동작 변경키(Key modifiers)
+# 90.10.38.4. Shift(⇧): 동작 변경키(Key modifiers)
 
 ***
 
 ## 하위 페이지
 
-[90.10.38.2.1. Ctrl(⌘): 확대/축소 전환하기](./90-10-37-02-01-change_zoom_direction.md)
-
-[90.10.38.2.2. Ctrl(⌘) + 마우스 휠: 확대/축소 레벨 바꾸기](./90-10-37-02-02-change_zoom_level.md)
+[90.10.38.4.1. Shift(⇧): 두번째 측정선 그리기](./90-10-38-04-01-draw_second_measurement_line.md)
 
 ***
 
