@@ -59,7 +59,8 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 3.2.5. 대화상자(Dialog)와 도킹(docking)](./03-02-05-00-dialogs-and-docking.md)
+
+[➡️ 다음: 3.2.4.1. 타이틀 바(Title Bar)](./03-02-04-01-title-bar.md)
 
 [⬅️ 이전: 3.2.3. 도구상자(The toolbox)](./03-02-03-the-toolbox.md)
 

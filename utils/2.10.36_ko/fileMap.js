@@ -1084,7 +1084,7 @@ module.exports = {
         '14.5.4. 확대/축소(Zoom)'
       ],
       [
-        '14-05-05-measure.md', 
+        '14-05-05-00-measure.md', 
         '14.5.5. 측정(Measure)'
       ],
       [

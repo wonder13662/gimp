@@ -123,9 +123,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 3.2.1. 도구상자](./03-02-03-the-toolbox.md)
+[➡️ 다음: 3.2.3. 도구상자(The toolbox)](./03-02-03-the-toolbox.md)
 
-[⬅️ 이전: 3.1. GIMP(김프)의 기본 개념들](./03-01-basic-concepts.md)
+[⬅️ 이전: 3.2.1. 다중창 모드(multi-window mode)](./03-02-01-multi_window_mode.md)
 
 [⬆️ 위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 

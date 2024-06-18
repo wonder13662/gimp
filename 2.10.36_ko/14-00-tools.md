@@ -572,7 +572,17 @@
 
 [14.5.4.4. 확대/축소 메뉴(Zoom menu)](./14-05-04-04-zoom_menu.md)
 
-[14.5.5. 측정(Measure)](./14-05-05-measure.md)
+[14.5.5. 측정(Measure)](./14-05-05-00-measure.md)
+
+[14.5.5.1. 상태 표시 영역(Status Bar)](./14-05-05-01-status_bar.md)
+
+[14.5.5.2. 도구 활성화하기(Activating the tools)](./14-05-05-02-activating_the_tool.md)
+
+[14.5.5.3. 동작 변경키(Key modifiers)](./14-05-05-03-key_modifiers.md)
+
+[14.5.5.4. 옵션(Options)](./14-05-05-04-options.md)
+
+[14.5.5.5. 표면 측정(Measuring surfaces)](./14-05-05-05-measuring_surfaces.md)
 
 [14.5.6. 텍스트 도구(Text)](./14-05-06-00-text.md)
 
