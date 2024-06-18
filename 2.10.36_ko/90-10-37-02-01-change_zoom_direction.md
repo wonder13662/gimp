@@ -3,6 +3,9 @@
 <a id="90-10-37-02-01-a1"></a>
 
 #### 영상 90.10.37.2.1.a1. Ctrl(⌘): 확대/축소 전환하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/853bb095-7733-478b-9964-46ec88911752"></video>
+
+[14.5.4.2. 동작 변경키(Key modifiers) - 영상 90.10.37.2.1.a1](./14-05-04-02-key_modifiers.md#90-10-37-02-01-a1)
 
 ***
 
