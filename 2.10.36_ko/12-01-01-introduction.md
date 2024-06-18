@@ -3,7 +3,7 @@
 <a id="90-02-a1"></a>
 
 #### [그림 90.2.a1. 기본 설정 좌측 메뉴 목록](./90-02-00-preference.md#90-02-a1)
-![90-02-a1](https://github.com/wonder13662/gimp/assets/15767104/e20eb713-6ff2-4bc0-944b-cdb021e01974)
+<img width="540" height="325" alt="90-02-a1" src="https://github.com/wonder13662/gimp/assets/15767104/e097529d-e106-4283-a674-9f1eee4d7386">
 
 기본설정 대화상자를 접근하는 방법은 운영체제마다 조금 다릅니다.
 

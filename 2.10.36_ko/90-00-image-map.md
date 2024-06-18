@@ -824,7 +824,7 @@
 <a id="90-00-s2"></a>
 
 ## [90.2. 기본 설정(Preference)](./90-02-00-preference.md)
-[<img width="1080" alt="90.2. 기본 설정(Preference)" src="https://github.com/wonder13662/gimp/assets/15767104/e20eb713-6ff2-4bc0-944b-cdb021e01974">](./90-02-00-preference.md)
+<img width="540" height="325" alt="90-02-a1" src="https://github.com/wonder13662/gimp/assets/15767104/e097529d-e106-4283-a674-9f1eee4d7386">
 
 [90.2.1. 시스템 리소스(System Resource)](./90-02-01-system-resource.md)
 
