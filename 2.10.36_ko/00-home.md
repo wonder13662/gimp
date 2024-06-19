@@ -534,7 +534,7 @@
 
 [9.1.4.10. 오른쪽에서 왼쪽으로(From Right to Left)](./09-01-04-10-from_right_to_left.md)
 
-[9.1.4.11 수직으로 오른쪽에서 왼쪽(혼합 방향) - Vertical, right to left(mixed orientation)](./09-01-04-11-vertical_right_to_left_mixed_orientation.md)
+[9.1.4.11. 수직으로 오른쪽에서 왼쪽(혼합 방향) - Vertical, right to left(mixed orientation)](./09-01-04-11-vertical_right_to_left_mixed_orientation.md)
 
 [9.1.4.12. 수직으로 오른쪽에서 왼쪽(수직 방향) - Vertical, right to left(upright orientation)](./09-01-04-12-vertical_right_to_left_upright_orientation.md)
 

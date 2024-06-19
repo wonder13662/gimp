@@ -52,7 +52,7 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3b23fd7a-6501-45c5-b8a7-a39b3305feae"></video>
 
 ## 4. 김프 텍스트 편집기(GIMP Text Editor)로 텍스트 수정하기
-캔버스(이미지 창) 위에서 텍스트 수정을 하는 것을 대신해, [14.5.6.3. 텍스트 에디터(Text Editor)](./14-05-06-03-text_editor.md)를 사용해 텍스트 수정을 할 수 있습니다.
+캔버스(이미지 창) 위에서 텍스트 수정을 하는 것을 대신해, [14.5.6.3. 텍스트 에디터(Text Editor)](./14-05-06-03-00-text_editor.md)를 사용해 텍스트 수정을 할 수 있습니다.
 
 <a id="90-04-65-a101"></a>
 
