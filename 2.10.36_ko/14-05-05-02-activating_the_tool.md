@@ -7,7 +7,7 @@
 <a id="90-01-08-08-a101"></a>
 
 #### [그림 90.1.8.8.a101. `이미지 메뉴 바` → `도구` → `측정`](./90-01-08-08-measure.md#90-01-08-08-a101)
-<img width="1080" height="560" alt="90-01-08-08-a101" src="https://github.com/wonder13662/gimp/assets/15767104/ad75f4d0-0250-4560-870b-f55a03b27b90" />
+<img width="980" height="509" alt="90-01-08-08-a101" src="https://github.com/wonder13662/gimp/assets/15767104/f6d396a1-6bcf-488f-a6d6-848b1c5f32b3" />
 
 <a id="90-01-08-08-a101-01"></a>
 
