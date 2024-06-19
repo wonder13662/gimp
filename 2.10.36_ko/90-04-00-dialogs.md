@@ -344,7 +344,7 @@
 #### 그림 90.4.66.a101. `텍스트 편집 확인` 대화상자 (Windows) (우리말)
 ![90-04-66-a101-dialog_confirm_text_editing(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/d82593ac-48e6-4939-a096-e4be7ab09f71)
 
-### [90.4.67. 텍스트 도구상자(Text Toolbox)](./90-04-66-confirm_text_editing.md)
+### [90.4.67. 텍스트 도구상자(Text Toolbox)](./90-04-67-text_toolbox.md)
 #### 그림 90.4.67.a101. `텍스트 도구상자` 대화상자
 ![90-04-67-a101-text_toolbox(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/103ac210-7099-4af7-85b3-e745b9fc7a42)
 
