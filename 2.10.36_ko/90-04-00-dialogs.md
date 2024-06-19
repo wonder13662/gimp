@@ -557,8 +557,12 @@
 ![90-04-118-a101](https://github.com/wonder13662/gimp/assets/15767104/8145503a-bc63-47b2-84de-576b3d31ce11)
 
 ### [90.4.119. 측정](./90-04-119-measure.md)
-#### 그림 90.4.118.a101. `측정` 대화상자 (Windows) (우리말)
-<img width="196" height="130" alt="90-04-118-a101" src="https://github.com/wonder13662/gimp/assets/15767104/f746870d-9139-4b76-912f-3bba7ae5b887">
+#### 그림 90.4.119.a101. `측정` 대화상자 (Windows) (우리말)
+<img width="196" height="130" alt="90-04-119-a101" src="https://github.com/wonder13662/gimp/assets/15767104/f746870d-9139-4b76-912f-3bba7ae5b887">
+
+### [90.4.120. 글자 색상](./90-04-120-text_color.md)
+#### 그림 90.4.120.a101. `글자 색상` 대화상자 (Windows) (우리말)
+<img width="407" height="376" alt="90-04-120-a101" src="https://github.com/wonder13662/gimp/assets/15767104/04bbdd4c-7551-4510-887c-ae2ada460af9" />
 
 ***
 
