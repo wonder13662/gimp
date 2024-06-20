@@ -1,5 +1,24 @@
 # 14.5.6.3.1.5. 수직으로 오른쪽에서 왼쪽(수직 방향) - Vertical, right to left(upright orientation)
 
+<a id="90-04-65-a141"></a>
+
+#### [그림 90.4.65.a141. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a141)
+<img width="306" height="260" alt="90-04-65-a141" src="https://github.com/wonder13662/gimp/assets/15767104/88cd162e-48b3-4119-9df5-894ce89ff1e9" />
+
+텍스트는 수직 방향으로 위에서 아래로, 오른쪽에서 왼쪽으로 추가됩니다. 
+
+개별 글자의 회전은 0도입니다.
+
+<a id="90-04-65-a142"></a>
+
+#### [영상 90.4.65.a142. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(수직 방향)` (텍스트 박스 동적모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a142)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f214ca33-3395-4ec3-8108-35b78979a544"></video>
+
+<a id="90-04-65-a143"></a>
+
+#### [영상 90.4.65.a143. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(수직 방향)` (텍스트 박스 고정모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a143)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d28699c6-c42b-43a0-b768-ece899cc0bf5"></video>
+
 ***
 
 ## 관련 정보
