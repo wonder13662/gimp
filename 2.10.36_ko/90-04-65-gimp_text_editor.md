@@ -86,6 +86,13 @@
 
 [14.5.6.3.1.4. 수직으로 오른쪽에서 왼쪽(혼합 방향) - Vertical, right to left(mixed orientation) - 그림 90.4.65.a131](./14-05-06-03-01-04-vertical_right_to_left_mixed_orientation.md#90-04-65-a131)
 
+<a id="90-04-65-a131-01"></a>
+
+#### 그림 90.4.65.a131.1. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(혼합 방향)`: 예시 이미지
+<img width="632" height="320" alt="90-04-65-a131-01" src="https://github.com/wonder13662/gimp/assets/15767104/f7445034-20de-4563-a0b3-b524646747c5" />
+
+[14.5.6.3.1.4. 수직으로 오른쪽에서 왼쪽(혼합 방향) - Vertical, right to left(mixed orientation) - 그림 90.4.65.a131.1](./14-05-06-03-01-04-vertical_right_to_left_mixed_orientation.md#90-04-65-a131-01)
+
 <a id="90-04-65-a132"></a>
 
 #### 영상 90.4.65.a132. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(혼합 방향)` (텍스트 박스 동적모드) (Windows) (우리말)
@@ -112,6 +119,13 @@
 [9.1.4.12. 수직으로 오른쪽에서 왼쪽(수직 방향) - Vertical, right to left(upright orientation) - 그림 90.4.65.a141](./09-01-04-12-vertical_right_to_left_upright_orientation.md#90-04-65-a141)
 
 [14.5.6.3.1.5. 수직으로 오른쪽에서 왼쪽(수직 방향) - Vertical, right to left(upright orientation) - 그림 90.4.65.a141](./14-05-06-03-01-05-vertical_right_to_left_upright_orientation.md#90-04-65-a141)
+
+<a id="90-04-65-a141-01"></a>
+
+#### 그림 90.4.65.a141.1. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(수직 방향)`: 예시 이미지
+<img width="632" height="320" alt="90-04-65-a141-01" src="https://github.com/wonder13662/gimp/assets/15767104/2544776c-a6a7-4982-ba15-b9577cbcdecf" />
+
+[14.5.6.3.1.5. 수직으로 오른쪽에서 왼쪽(수직 방향) - Vertical, right to left(upright orientation) - 그림 90.4.65.a141.1](./14-05-06-03-01-05-vertical_right_to_left_upright_orientation.md#90-04-65-a141-01)
 
 <a id="90-04-65-a142"></a>
 
@@ -140,6 +154,13 @@
 
 [14.5.6.3.1.6. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 그림 90.4.65.a151](./14-05-06-03-01-06-vertical_left_to_right_mixed_orientation.md#90-04-65-a151)
 
+<a id="90-04-65-a151-01"></a>
+
+#### 그림 90.4.65.a151.1. `김프 텍스트 편집기` 대화상자 → `수직으로 왼쪽에서 오른쪽(혼합 방향)`: 예시 이미지
+<img width="632" height="320" alt="90-04-65-a151-01" src="https://github.com/wonder13662/gimp/assets/15767104/8f42a3da-1110-45f6-acad-86e24d001d35" />
+
+[14.5.6.3.1.6. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 그림 90.4.65.a151.1](./14-05-06-03-01-06-vertical_left_to_right_mixed_orientation.md#90-04-65-a151-01)
+
 <a id="90-04-65-a152"></a>
 
 #### 영상 90.4.65.a152. `김프 텍스트 편집기` 대화상자 → 수직으로 왼쪽에서 오른쪽(혼합 방향) (텍스트 박스 동적모드) (Windows) (우리말)
@@ -166,6 +187,13 @@
 [9.1.4.14. 수직으로 왼쪽에서 오른쪽(수직 방향) - Vertical, left to right (upright orientation) - 그림 90.4.65.a161](./09-01-04-14-vertical_left_to_right_upright_orientation.md#90-04-65-a161)
 
 [14.5.6.3.1.7. 수직으로 왼쪽에서 오른쪽(수직 방향) - Vertical, left to right (upright orientation) - 그림 90.4.65.a161](./14-05-06-03-01-07-vertical_left_to_right_upright_orientation.md#90-04-65-a161)
+
+<a id="90-04-65-a161-01"></a>
+
+#### 그림 90.4.65.a161.1. `김프 텍스트 편집기` 대화상자 → `수직으로 왼쪽에서 오른쪽(수직 방향)`: 예시 이미지
+<img width="632" height="320" alt="90-04-65-a161-01" src="https://github.com/wonder13662/gimp/assets/15767104/5e2af4d4-f4fc-4ec7-aad1-b22e8d620d3b" />
+
+[14.5.6.3.1.7. 수직으로 왼쪽에서 오른쪽(수직 방향) - Vertical, left to right (upright orientation) - 그림 90.4.65.a161.1](./14-05-06-03-01-07-vertical_left_to_right_upright_orientation.md#90-04-65-a161-01)
 
 <a id="90-04-65-a162"></a>
 
