@@ -134,9 +134,11 @@
 <a id="90-04-65-a151"></a>
 
 #### 그림 90.4.65.a151. `김프 텍스트 편집기` 대화상자 → `수직으로 왼쪽에서 오른쪽(혼합 방향)` (Windows) (우리말)
-![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-vertical_left_to_right_mixed_orientation](https://github.com/wonder13662/gimp/assets/15767104/1e05238e-c012-4c0a-87a5-ad61e79f60fb)
+<img width="306" height="260" alt="90-04-65-a151" src="https://github.com/wonder13662/gimp/assets/15767104/326770d4-f8f0-44ce-a1cc-a6bde9e3a4c3" />
 
 [9.1.4.13. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 그림 90.4.65.a151](./09-01-04-13-vertical_left_to_right_mixed_orientation.md#90-04-65-a151)
+
+[14.5.6.3.1.6. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 그림 90.4.65.a151](./14-05-06-03-01-06-vertical_left_to_right_mixed_orientation.md#90-04-65-a151)
 
 <a id="90-04-65-a152"></a>
 
@@ -145,12 +147,16 @@
 
 [9.1.4.13. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 영상 90.4.65.a152](./09-01-04-13-vertical_left_to_right_mixed_orientation.md#90-04-65-a152)
 
+[14.5.6.3.1.6. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 영상 90.4.65.a152](./14-05-06-03-01-06-vertical_left_to_right_mixed_orientation.md#90-04-65-a152)
+
 <a id="90-04-65-a153"></a>
 
 #### 영상 90.4.65.a153. `김프 텍스트 편집기` 대화상자 → 수직으로 왼쪽에서 오른쪽(혼합 방향) (텍스트 박스 고정모드) (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3d8e2bcd-4ca6-4779-b939-dfc84f204f6b"></video>
 
 [9.1.4.13. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 영상 90.4.65.a153](./09-01-04-13-vertical_left_to_right_mixed_orientation.md#90-04-65-a153)
+
+[14.5.6.3.1.6. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation) - 영상 90.4.65.a153](./14-05-06-03-01-06-vertical_left_to_right_mixed_orientation.md#90-04-65-a153)
 
 <a id="90-04-65-a161"></a>
 
