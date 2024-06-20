@@ -1,5 +1,24 @@
 # 14.5.6.3.1.2. 왼쪽에서 오른쪽으로(From Left to Right)
 
+<a id="90-04-65-a111"></a>
+
+#### [그림 90.4.65.a111. `김프 텍스트 편집기` 대화상자 → `왼쪽에서 오른쪽으로` (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a111)
+![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-from_left_to_right](https://github.com/wonder13662/gimp/assets/15767104/933b742f-5f5d-4826-b781-ac676096ab49)
+
+`왼쪽에서 오른쪽으로(From Left to Right)` 옵션은 왼쪽에서 오른쪽으로 텍스트를 입력받습니다. 
+
+대부분의 서구권 언어들과 동양권 언어들에서 사용됩니다.
+
+<a id="90-04-65-a112"></a>
+
+#### [영상 90.4.65.a112. `김프 텍스트 편집기` 대화상자 → `왼쪽에서 오른쪽으로` (텍스트 박스 동적모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a112)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/02ef21c4-3f83-462a-9945-48191d091809"></video>
+
+<a id="90-04-65-a113"></a>
+
+#### [영상 90.4.65.a113. `김프 텍스트 편집기` 대화상자 → `왼쪽에서 오른쪽으로` (텍스트 박스 고정모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a113)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d545249a-7adc-4e85-8855-d782744b6665"></video>
+
 ***
 
 ## 관련 정보
