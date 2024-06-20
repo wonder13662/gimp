@@ -26,9 +26,9 @@
 
 [➡️ 다음: 14.5.6.3.1.1. 파일에서 텍스트 불러오기 (Load text from file)](./14-05-06-03-01-01-load_text_from_file.md)
 
-[⬅️ 이전: 14.5.6.3. 텍스트 에디터(Text Editor)](./14-05-06-03-00-text_editor.md)
+[⬅️ 이전: 14.5.6.3. 김프 텍스트 편집기(GIMP Text Editor)](./14-05-06-03-00-text_editor.md)
 
-[⬆️ 위: 14.5.6.3. 텍스트 에디터(Text Editor)](./14-05-06-03-00-text_editor.md)
+[⬆️ 위: 14.5.6.3. 김프 텍스트 편집기(GIMP Text Editor)](./14-05-06-03-00-text_editor.md)
 
 [⬆️ 위: 14.5.6. 텍스트 도구(Text)](./14-05-06-00-text.md)
 

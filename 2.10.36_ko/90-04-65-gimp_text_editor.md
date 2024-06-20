@@ -10,6 +10,8 @@
 
 [14.5.6. 텍스트 도구(Text) - 그림 90.4.65.a101](./14-05-06-00-text.md#90-04-65-a101)
 
+[14.5.6.3. 김프 텍스트 편집기(GIMP Text Editor) - 그림 90.4.65.a101](./14-05-06-03-00-text_editor.md#90-04-65-a101)
+
 <a id="90-04-65-a102"></a>
 
 #### 그림 90.4.65.a102. `김프 텍스트 편집기` 대화상자 (Windows) (영어)
@@ -146,6 +148,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5589b7ef-7e8a-46f6-b299-4e7f5c241dfc"></video>
 
 [9.1.4.14. 수직으로 왼쪽에서 오른쪽(수직 방향) - Vertical, left to right (upright orientation) - 영상 90.4.65.a163](./09-01-04-14-vertical_left_to_right_upright_orientation.md#90-04-65-a163)
+
+<a id="90-04-65-a201"></a>
+
+#### 영상 90.4.65.a201. 김프 텍스트 편집기 대화상자: 새로운 텍스트 레이어 만들기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/44f3c675-eee6-46b7-a983-d8c05d86e268"></video>
+
+[14.5.6.3. 김프 텍스트 편집기(GIMP Text Editor) - 영상 90.4.65.a201](./14-05-06-03-00-text_editor.md#90-04-65-a201)
+
+<a id="90-04-65-a202"></a>
+
+#### 영상 90.4.65.a202. 김프 텍스트 편집기 대화상자: 다른 텍스트 레이어 수정하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9515419e-9ada-4584-8c2b-f697e2fc267f"></video>
+
+[14.5.6.3. 김프 텍스트 편집기(GIMP Text Editor) - 영상 90.4.65.a202](./14-05-06-03-00-text_editor.md#90-04-65-a202)
 
 ***
 
