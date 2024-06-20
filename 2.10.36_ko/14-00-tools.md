@@ -586,7 +586,7 @@
 
 [14.5.6. 텍스트 도구(Text)](./14-05-06-00-text.md)
 
-[14.5.7. GEGL 동작(GEGL operation)](./14-05-07-gegl-operation.md)
+[14.5.7. GEGL 동작(GEGL operation)](./14-05-07-00-gegl_operation.md)
 
 ***
 

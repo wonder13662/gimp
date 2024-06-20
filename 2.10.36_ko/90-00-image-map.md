@@ -1434,6 +1434,8 @@
 
 [90.4.120. 글자 색상](./90-04-120-text_color.md)
 
+[90.4.121. GEGL 동작](./90-04-121-gegl_operation.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

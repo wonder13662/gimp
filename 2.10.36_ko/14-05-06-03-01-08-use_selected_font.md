@@ -16,7 +16,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.5.7. GEGL 동작(GEGL operation)](./14-05-07-gegl-operation.md)
+[➡️ 다음: 14.5.7. GEGL 동작(GEGL operation)](./14-05-07-00-gegl_operation.md)
 
 [⬅️ 이전: 14.5.6.3.1.7. 수직으로 왼쪽에서 오른쪽(수직 방향) - Vertical, left to right (upright orientation)](./14-05-06-03-01-07-vertical_left_to_right_upright_orientation.md)
 
