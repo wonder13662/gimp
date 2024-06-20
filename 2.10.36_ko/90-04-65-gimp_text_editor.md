@@ -163,6 +163,20 @@
 
 [14.5.6.3. 김프 텍스트 편집기(GIMP Text Editor) - 영상 90.4.65.a202](./14-05-06-03-00-text_editor.md#90-04-65-a202)
 
+<a id="90-04-65-a203-01"></a>
+
+#### 그림 90.4.65.a203.1. 김프 텍스트 편집기 대화상자: 파일에서 텍스트 불러오기 (Windows) (우리말)
+<img width="306" height="260" alt="90-04-65-a203-01" src="https://github.com/wonder13662/gimp/assets/15767104/26441e16-1f9f-4679-858c-e1e5454f5681" />
+
+[14.5.6.3.1.1. 파일에서 텍스트 불러오기 (Load text from file) - 그림 90.4.65.a203.1](./14-05-06-03-01-01-load_text_from_file.md#90-04-65-a203-01)
+
+<a id="90-04-65-a203-01-01"></a>
+
+#### 영상 90.4.65.a203.1.1. 김프 텍스트 편집기 대화상자: 파일에서 텍스트 불러오기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/568cb2ff-0bff-480d-8c6f-6e502e0a8a46"></video>
+
+[14.5.6.3.1.1. 파일에서 텍스트 불러오기 (Load text from file) - 영상 90.4.65.a203.1.1](./14-05-06-03-01-01-load_text_from_file.md#90-04-65-a203-01-01)
+
 ***
 
 ## 다른 페이지로 가기
