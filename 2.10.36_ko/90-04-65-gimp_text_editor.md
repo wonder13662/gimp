@@ -241,6 +241,20 @@
 
 [14.5.6.3.1.1. 파일에서 텍스트 불러오기 (Load text from file) - 영상 90.4.65.a203.1.1](./14-05-06-03-01-01-load_text_from_file.md#90-04-65-a203-01-01)
 
+<a id="90-04-65-a204"></a>
+
+#### 그림 90.4.65.a204. 선택한 글꼴 사용하기 (Windows) (우리말)
+<img width="306" height="260" alt="90-04-65-a204" src="https://github.com/wonder13662/gimp/assets/15767104/f349f329-0876-4fc9-83e5-0f02e067ae27" />
+
+[14.5.6.3.1.8. 선택한 글꼴 사용(Use selected font) - 그림 90.4.65.a204](./14-05-06-03-01-08-use_selected_font.md#90-04-65-a204)
+
+<a id="90-04-65-a204-01"></a>
+
+#### 영상 90.4.65.a204.1. 선택한 글꼴 사용하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/75fa5df6-b61e-43d3-ba84-65079a149a1b"></video>
+
+[14.5.6.3.1.8. 선택한 글꼴 사용(Use selected font) - 영상 90.4.65.a204.1](./14-05-06-03-01-08-use_selected_font.md#90-04-65-a204-01)
+
 ***
 
 ## 다른 페이지로 가기
