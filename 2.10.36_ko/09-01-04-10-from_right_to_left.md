@@ -30,7 +30,7 @@
 <a id="90-04-65-a121"></a>
 
 #### [그림 90.4.65.a121. `김프 텍스트 편집기` 대화상자 → `오른쪽에서 왼쪽으로` (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a121)
-![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-from_right_to_left](https://github.com/wonder13662/gimp/assets/15767104/7f7842c1-0650-4599-951f-b7ad76df3171)
+<img width="306" height="260" alt="90-04-65-a121" src="https://github.com/wonder13662/gimp/assets/15767104/5950c61b-93c4-4b38-8a2e-cae5189ce82b" />
 
 <a id="90-04-65-a122"></a>
 

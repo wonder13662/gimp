@@ -26,7 +26,7 @@
 <a id="90-04-65-a111"></a>
 
 #### 그림 90.4.65.a111. `김프 텍스트 편집기` 대화상자 → `왼쪽에서 오른쪽으로` (Windows) (우리말)
-![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-from_left_to_right](https://github.com/wonder13662/gimp/assets/15767104/933b742f-5f5d-4826-b781-ac676096ab49)
+<img width="306" height="260" alt="90-04-65-a111" src="https://github.com/wonder13662/gimp/assets/15767104/bcbebe8d-8f7e-408f-9419-30ac377675db" />
 
 [9.1.4.9. 왼쪽에서 오른쪽으로(From Left to Right) - 그림 90.4.65.a111](./09-01-04-09-from_left_to_right.md#90-04-65-a111)
 
@@ -53,9 +53,11 @@
 <a id="90-04-65-a121"></a>
 
 #### 그림 90.4.65.a121. `김프 텍스트 편집기` 대화상자 → `오른쪽에서 왼쪽으로` (Windows) (우리말)
-![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-from_right_to_left](https://github.com/wonder13662/gimp/assets/15767104/7f7842c1-0650-4599-951f-b7ad76df3171)
+<img width="306" height="260" alt="90-04-65-a121" src="https://github.com/wonder13662/gimp/assets/15767104/5950c61b-93c4-4b38-8a2e-cae5189ce82b" />
 
 [9.1.4.10. 오른쪽에서 왼쪽으로(From Right to Left) - 그림 90.4.65.a121](./09-01-04-10-from_right_to_left.md#90-04-65-a121)
+
+[14.5.6.3.1.3. 오른쪽에서 왼쪽으로(From Right to Left) - 그림 90.4.65.a121](./14-05-06-03-01-03-from_right_to_left.md#90-04-65-a121)
 
 <a id="90-04-65-a122"></a>
 
@@ -64,12 +66,16 @@
 
 [9.1.4.10. 오른쪽에서 왼쪽으로(From Right to Left) - 영상 90.4.65.a122](./09-01-04-10-from_right_to_left.md#90-04-65-a122)
 
+[14.5.6.3.1.3. 오른쪽에서 왼쪽으로(From Right to Left) - 영상 90.4.65.a122](./14-05-06-03-01-03-from_right_to_left.md#90-04-65-a122)
+
 <a id="90-04-65-a123"></a>
 
 #### 영상 90.4.65.a123. `김프 텍스트 편집기` 대화상자 → `오른쪽에서 왼쪽으로` (텍스트 박스 고정모드) (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/799f8096-e911-4293-a48d-d2ce4c7c73e5"></video>
 
 [9.1.4.10. 오른쪽에서 왼쪽으로(From Right to Left) - 영상 90.4.65.a123](./09-01-04-10-from_right_to_left.md#90-04-65-a123)
+
+[14.5.6.3.1.3. 오른쪽에서 왼쪽으로(From Right to Left) - 영상 90.4.65.a123](./14-05-06-03-01-03-from_right_to_left.md#90-04-65-a123)
 
 <a id="90-04-65-a131"></a>
 

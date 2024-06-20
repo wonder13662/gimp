@@ -3,7 +3,7 @@
 <a id="90-04-65-a111"></a>
 
 #### [그림 90.4.65.a111. `김프 텍스트 편집기` 대화상자 → `왼쪽에서 오른쪽으로` (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a111)
-![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-from_left_to_right](https://github.com/wonder13662/gimp/assets/15767104/933b742f-5f5d-4826-b781-ac676096ab49)
+<img width="306" height="260" alt="90-04-65-a111" src="https://github.com/wonder13662/gimp/assets/15767104/bcbebe8d-8f7e-408f-9419-30ac377675db" />
 
 `왼쪽에서 오른쪽으로(From Left to Right)` 옵션은 왼쪽에서 오른쪽으로 텍스트를 입력받습니다. 
 
