@@ -29,7 +29,7 @@
 <a id="90-04-65-a161"></a>
 
 #### [그림 90.4.65.a161. `김프 텍스트 편집기` 대화상자 → `수직으로 왼쪽에서 오른쪽(수직 방향)` (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a161)
-![90-04-65-a101-dialog_text_editor(windows)(ko)-focus-vertical_left_to_right_upright_orientation](https://github.com/wonder13662/gimp/assets/15767104/349dcc37-e216-4237-841c-ceb1cde8c3e8)
+<img width="306" height="260" alt="90-04-65-a161" src="https://github.com/wonder13662/gimp/assets/15767104/aa5c8412-d4b9-43ef-a24f-0bf4663485b2" />
 
 <a id="90-04-65-a162"></a>
 
