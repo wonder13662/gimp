@@ -2940,7 +2940,7 @@ module.exports = {
       ],
       [
         '17-14-03-fractal-explorer.md', 
-        '17.14.3. Fractal explorer'
+        '17.14.3. 프랙탈 탐색기(Fractal explorer)'
       ],
       [
         '17-14-04-ifs-fractal.md', 

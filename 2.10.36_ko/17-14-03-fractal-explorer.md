@@ -1,4 +1,4 @@
-# 17.14.3. Fractal explorer
+# 17.14.3. 프랙탈 탐색기(Fractal explorer)
 
 ### [Home](./00-home.md)
 ### [Parent: 17.14. Rendering filters](./17-14-00-rendering-filters.md)

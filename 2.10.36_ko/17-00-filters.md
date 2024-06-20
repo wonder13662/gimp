@@ -141,7 +141,7 @@
 ## [17.14. Rendering filters](./17-14-00-rendering-filters.md)
 ## [17.14.1. Introduction](./17-14-01-introduction.md)
 ## [17.14.2. Flame](./17-14-02-flame.md)
-## [17.14.3. Fractal explorer](./17-14-03-fractal-explorer.md)
+## [17.14.3. 프랙탈 탐색기(Fractal explorer)](./17-14-03-fractal-explorer.md)
 ## [17.14.4. IFS fractal](./17-14-04-ifs-fractal.md)
 ## [17.14.5. Cell noise](./17-14-05-cell-noise.md)
 ## [17.14.6. Perlin noise](./17-14-06-perlin-noise.md)

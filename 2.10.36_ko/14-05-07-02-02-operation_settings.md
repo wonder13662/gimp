@@ -1,5 +1,16 @@
 # 14.5.7.2.2. 동작 설정(Operation Settings)
 
+동작 설정은 선택한 동작마다 다릅니다.
+
+<a id="90-04-121-a111-04"></a>
+
+#### [그림 90.4.121.a111.4. `GEGL 동작` 대화상자 → `동작`: `Box Blur`의 동작 설정 (Windows) (우리말)](./90-04-121-gegl_operation.md#90-04-121-a111-04)
+<img width="371" height="281" alt="90-04-121-a111-04" src="https://github.com/wonder13662/gimp/assets/15767104/bbe0563a-2a20-4598-9fff-58479327c3a2" />
+
+선택한 GEGL 동작의 옵션의 기능을 짐작하기 어렵다면, GEGL 도구가 아닌 비슷한 기능의 도구와 비교해보는 것도 도움이 됩니다.
+
+예를 들어, [필터](./17-00-filters.md)의 [프랙탈 탐색기](./17-14-03-fractal-explorer.md)는 GEGL 동작의 `fractal-explorer`와 같거나 비슷한 옵션을 가지고 있습니다.
+
 ***
 
 ## 다른 페이지로 가기
