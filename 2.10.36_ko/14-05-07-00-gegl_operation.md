@@ -1,9 +1,11 @@
 # 14.5.7. GEGL 동작(GEGL operation)
 
-<a id="90-04-120-a101"></a>
+<a id="90-04-121-a101"></a>
 
-#### [그림 90.4.121.a101. `GEGL 동작` 대화상자 (Windows) (우리말)](./90-04-121-gegl_operation.md#90-04-120-a101)
-<img width="373" height="257" alt="90-04-120-a101" src="https://github.com/wonder13662/gimp/assets/15767104/14ee3345-338f-4559-b2a4-7d0224f17083" />
+#### [그림 90.4.121.a101. `GEGL 동작` 대화상자 (Windows) (우리말)](./90-04-121-gegl_operation.md#90-04-121-a101)
+<img width="373" height="257" alt="90-04-121-a101" src="https://github.com/wonder13662/gimp/assets/15767104/14ee3345-338f-4559-b2a4-7d0224f17083" />
+
+[다른 운영체제와 언어의 `GEGL 동작` 대화상자 확인하기](./90-04-121-gegl_operation.md#90-04-121-a102)
 
 ## 1. GEGL은 무엇일까요?
 `GEGL(Generic Graphical Library)`은 그래프 기반의 이미지 프로세싱 라이브러리입니다. 이 라이브러리는 GIMP(김프) 내에서의 다양한 이미지 프로세싱 작업을 처리하기 위해 개발되었습니다.
@@ -30,7 +32,7 @@ GEGL 동작들을 바로 이미지에 적용하여 미리보기를 할 수 있�
 
 [14.5.7.1. 도구 활성화하기(Activating the tools)](./14-05-07-01-activating_the_tool.md)
 
-[14.5.7.2. GEGL 동작 대화상자(GEGL Operation Dialog)](./14-05-07-02-gegl_operation_dialog.md)
+[14.5.7.2. GEGL 동작 대화상자(GEGL Operation Dialog)](./14-05-07-02-00-gegl_operation_dialog.md)
 
 ***
 

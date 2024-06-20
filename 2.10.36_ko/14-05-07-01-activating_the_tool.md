@@ -18,7 +18,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.5.7.2. GEGL 동작 대화상자(GEGL Operation Dialog)](./14-05-07-02-gegl_operation_dialog.md)
+[➡️ 다음: 14.5.7.2. GEGL 동작 대화상자(GEGL Operation Dialog)](./14-05-07-02-00-gegl_operation_dialog.md)
 
 [⬅️ 이전: 14.5.7. GEGL 동작(GEGL operation)](./14-05-07-00-gegl_operation.md)
 

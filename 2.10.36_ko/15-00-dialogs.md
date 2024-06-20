@@ -1,4 +1,4 @@
-# 15. Dialogs
+# 15. 대화상자(Dialogs)
 
 ## [15.1. Dialog introduction](./15-01-dialog-introduction.md)
 ## [15.2. Image structure related dialogs](./15-02-00-image-structure-related-dialogs.md)

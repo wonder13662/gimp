@@ -1097,7 +1097,7 @@ module.exports = {
       ],
       [
         '15-00-dialogs.md', 
-        '15. Dialogs'
+        '15. 대화상자(Dialogs)'
       ],
       [
         '15-01-dialog-introduction.md', 

@@ -1541,7 +1541,7 @@
 
 [14.5.7. GEGL 동작(GEGL operation)](./14-05-07-00-gegl_operation.md)
 
-[15. Dialogs](./15-00-dialogs.md)
+[15. 대화상자(Dialogs)](./15-00-dialogs.md)
 
 [16. Menus](./16-00-menus.md)
 

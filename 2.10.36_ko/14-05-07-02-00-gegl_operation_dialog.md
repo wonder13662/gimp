@@ -1,8 +1,17 @@
 # 14.5.7.2. GEGL 동작 대화상자(GEGL Operation Dialog)
 
+<a id="90-04-121-a101"></a>
+
+#### [그림 90.4.121.a101. `GEGL 동작` 대화상자 (Windows) (우리말)](./90-04-121-gegl_operation.md#90-04-121-a101)
+<img width="373" height="257" alt="90-04-121-a101" src="https://github.com/wonder13662/gimp/assets/15767104/14ee3345-338f-4559-b2a4-7d0224f17083" />
+
+[다른 운영체제와 언어의 `GEGL 동작` 대화상자 확인하기](./90-04-121-gegl_operation.md#90-04-121-a102)
+
 <a id="14-05-07-02-s1"></a>
 
 ## 1. 동작(Operation)
+
+Click on this button to select 
 
 <a id="14-05-07-02-s2"></a>
 
@@ -32,9 +41,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 14.5.7.1. 도구 활성화하기(Activating the tools)](./14-05-07-01-activating_the_tool.md)
 
 [⬆️ 위: 14.5.7. GEGL 동작(GEGL operation)](./14-05-07-00-gegl_operation.md)
 

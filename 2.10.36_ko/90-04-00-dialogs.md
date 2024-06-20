@@ -566,7 +566,7 @@
 
 ### [90.4.121. GEGL 동작](./90-04-121-gegl_operation.md)
 #### 그림 90.4.121.a101. `GEGL 동작` 대화상자 (Windows) (우리말)
-<img width="373" height="257" alt="90-04-120-a101" src="https://github.com/wonder13662/gimp/assets/15767104/14ee3345-338f-4559-b2a4-7d0224f17083" />
+<img width="373" height="257" alt="90-04-121-a101" src="https://github.com/wonder13662/gimp/assets/15767104/14ee3345-338f-4559-b2a4-7d0224f17083" />
 
 ***
 
