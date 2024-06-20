@@ -14,7 +14,7 @@
 
 [⬅️ 이전: 14.5.6.3.1.6. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation)](./14-05-06-03-01-06-vertical_left_to_right_mixed_orientation.md)
 
-[⬆️ 위: 14.5.6.3.1. 텍스트 에디터 옵션(Text Editor Options)](./14-05-06-03-01-00-text_editor_options.md)
+[⬆️ 위: 14.5.6.3.1. 김프 텍스트 편집기 옵션(GIMP Text Editor Options)](./14-05-06-03-01-00-text_editor_options.md)
 
 [⬆️ 위: 14.5.6.3. 김프 텍스트 편집기(GIMP Text Editor)](./14-05-06-03-00-text_editor.md)
 

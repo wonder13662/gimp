@@ -14,7 +14,7 @@
 
 [⬅️ 이전: 14.5.6.3.1.3. 오른쪽에서 왼쪽으로(From Right to Left)](./14-05-06-03-01-03-from_right_to_left.md)
 
-[⬆️ 위: 14.5.6.3.1. 텍스트 에디터 옵션(Text Editor Options)](./14-05-06-03-01-00-text_editor_options.md)
+[⬆️ 위: 14.5.6.3.1. 김프 텍스트 편집기 옵션(GIMP Text Editor Options)](./14-05-06-03-01-00-text_editor_options.md)
 
 [⬆️ 위: 14.5.6.3. 김프 텍스트 편집기(GIMP Text Editor)](./14-05-06-03-00-text_editor.md)
 

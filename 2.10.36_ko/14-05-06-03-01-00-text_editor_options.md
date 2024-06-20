@@ -1,4 +1,5 @@
-# 14.5.6.3.1. 텍스트 에디터 옵션(Text Editor Options)
+# 14.5.6.3.1. 김프 텍스트 편집기 옵션(GIMP Text Editor Options)
+`김프 텍스트 편집기`의 옵션은 [텍스트 컨텍스트 메뉴](./09-01-04-00-text_context_menu.md)에도 똑같이 사용할 수 있습니다.
 
 ***
 
