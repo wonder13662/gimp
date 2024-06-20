@@ -60,6 +60,20 @@
 
 [14.5.7.2.2. 동작 설정(Operation Settings) - 그림 90.4.121.a111.4](./14-05-07-02-02-operation_settings.md#90-04-121-a111-04)
 
+<a id="90-04-121-a111-05"></a>
+
+#### 그림 90.4.121.a111.5. `GEGL 동작` 대화상자 → `미리보기` (Windows) (우리말)
+<img width="373" height="257" alt="90-04-121-a111-05" src="https://github.com/wonder13662/gimp/assets/15767104/7ba1cd5e-5a3d-4541-8ae8-51c35960a312" />
+
+[14.5.7.2.3. 미리보기(Preview) - 그림 90.4.121.a111.5](./14-05-07-02-03-preview.md#90-04-121-a111-05)
+
+<a id="90-04-121-a111-05-01"></a>
+
+#### 영상 90.4.121.a111.5.1. `GEGL 동작` 대화상자 → `미리보기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c82c1caa-4f0d-499a-9e5e-5fce2d62a2b5"></video>
+
+[14.5.7.2.3. 미리보기(Preview) - 영상 90.4.121.a111.5.1](./14-05-07-02-03-preview.md#90-04-121-a111-05-01)
+
 ***
 
 ## 다른 페이지로 가기
