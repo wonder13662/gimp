@@ -1,5 +1,17 @@
 # 14.5.7.2.5. 초기화(Reset) 버튼
 
+<a id="90-04-121-a111-07"></a>
+
+#### [그림 90.4.121.a111.7. `GEGL 동작` 대화상자 → `초기화` 버튼 (Windows) (우리말)](./90-04-121-gegl_operation.md#90-04-121-a111-07)
+<img width="373" height="257" alt="90-04-121-a111-07" src="https://github.com/wonder13662/gimp/assets/15767104/f97a2f9a-d19a-4976-8b4e-0d7a4bc06b85" />
+
+`초기화(Reset)` 버튼을 누르면, [동작 설정](./14-05-07-02-02-operation_settings.md)의 값들이 기본값으로 되돌려집니다.
+
+<a id="90-04-121-a111-07-01"></a>
+
+#### [영상 90.4.121.a111.7.1. `GEGL 동작` 대화상자 → `초기화` 버튼 (Windows) (우리말)](./90-04-121-gegl_operation.md#90-04-121-a111-07-01)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/22586321-4664-42a6-93f1-d65121defc94"></video>
+
 ***
 
 ## 다른 페이지로 가기
