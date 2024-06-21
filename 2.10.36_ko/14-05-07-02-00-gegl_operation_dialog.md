@@ -29,7 +29,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+[➡️ 다음: 14.5.7.2.1. 동작(Operation)](./14-05-07-02-01-operation.md)
 
 [⬅️ 이전: 14.5.7.1. 도구 활성화하기(Activating the tools)](./14-05-07-01-activating_the_tool.md)
 
