@@ -22,7 +22,7 @@
 
 [➡️ 다음: 14.5.6.2.10. 글자 간격 조정(Adjust letter spacing)](./14-05-06-02-10-adjust_letter_spacing.md)
 
-[⬅️ 이전: 14.5.6.2.8. 들여쓰기(Indent)](./14-05-06-02-08-indent.md)
+[⬅️ 이전: 14.5.6.2.8. 첫 줄 들여쓰기(Indent)](./14-05-06-02-08-indent.md)
 
 [⬆️ 위: 14.5.6.2. 옵션(Options)](./14-05-06-02-00-options.md)
 
