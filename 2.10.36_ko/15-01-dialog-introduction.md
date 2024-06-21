@@ -1,7 +1,19 @@
 # 15.1. 대화상자 소개(Dialog introduction)
-## ? [?]()
 
-### [Home](./00-home.md)
-### [Parent: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
-### [Prev: 14.5.7. GEGL 동작(GEGL operation)](./14-05-07-00-gegl_operation.md)
-### [Next: 15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers-dialog.md)
+대화상자는 GIMP(김프)에서 옵션을 설정하고 제어할 수 있는 가장 일반적인 방법입니다.
+
+이번 장에는 가장 중요한 대화상자들에 대해 설명하겠습니다.
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
+
+[⬅️ 이전: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/dialogs.html)
