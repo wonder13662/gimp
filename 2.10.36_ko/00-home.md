@@ -1539,7 +1539,69 @@
 
 [14.5.6. 텍스트 도구(Text)](./14-05-06-00-text.md)
 
+[14.5.6.1. 도구 활성화하기(Activating the tools)](./14-05-06-01-activating_the_tool.md)
+
+[14.5.6.2. 옵션(Options)](./14-05-06-02-00-options.md)
+
+[14.5.6.2.1. 글꼴(Font)](./14-05-06-02-01-font.md)
+
+[14.5.6.2.2. 크기(Size)](./14-05-06-02-02-size.md)
+
+[14.5.6.2.3. 편집기 사용(Use editor)](./14-05-06-02-03-use_editor.md)
+
+[14.5.6.2.4. 부드럽게 하기(Antialiasing)](./14-05-06-02-04-antialiasing.md)
+
+[14.5.6.2.5. 힌팅(Hinting)](./14-05-06-02-05-hinting.md)
+
+[14.5.6.2.6. 색상(Color)](./14-05-06-02-06-color.md)
+
+[14.5.6.2.7. 정렬(Justify)](./14-05-06-02-07-justify.md)
+
+[14.5.6.2.8. 들여쓰기(Indent)](./14-05-06-02-08-indent.md)
+
+[14.5.6.2.9. 줄 간격 조정(Adjust line spacing)](./14-05-06-02-09-adjust_line_spacing.md)
+
+[14.5.6.2.10. 글자 간격 조정(Adjust letter spacing)](./14-05-06-02-10-adjust_letter_spacing.md)
+
+[14.5.6.2.11. 상자(Box)](./14-05-06-02-11-box.md)
+
+[14.5.6.2.12. 언어(Language)](./14-05-06-02-12-language.md)
+
+[14.5.6.3. 김프 텍스트 편집기(GIMP Text Editor)](./14-05-06-03-00-text_editor.md)
+
+[14.5.6.3.1. 김프 텍스트 편집기 옵션(GIMP Text Editor Options)](./14-05-06-03-01-00-text_editor_options.md)
+
+[14.5.6.3.1.1. 파일에서 텍스트 불러오기 (Load text from file)](./14-05-06-03-01-01-load_text_from_file.md)
+
+[14.5.6.3.1.2. 왼쪽에서 오른쪽으로(From Left to Right)](./14-05-06-03-01-02-from_left_to_right.md)
+
+[14.5.6.3.1.3. 오른쪽에서 왼쪽으로(From Right to Left)](./14-05-06-03-01-03-from_right_to_left.md)
+
+[14.5.6.3.1.4. 수직으로 오른쪽에서 왼쪽(혼합 방향) - Vertical, right to left(mixed orientation)](./14-05-06-03-01-04-vertical_right_to_left_mixed_orientation.md)
+
+[14.5.6.3.1.5. 수직으로 오른쪽에서 왼쪽(수직 방향) - Vertical, right to left(upright orientation)](./14-05-06-03-01-05-vertical_right_to_left_upright_orientation.md)
+
+[14.5.6.3.1.6. 수직으로 왼쪽에서 오른쪽(혼합 방향) - Vertical, left to right(mixed orientation)](./14-05-06-03-01-06-vertical_left_to_right_mixed_orientation.md)
+
+[14.5.6.3.1.7. 수직으로 왼쪽에서 오른쪽(수직 방향) - Vertical, left to right (upright orientation)](./14-05-06-03-01-07-vertical_left_to_right_upright_orientation.md)
+
+[14.5.6.3.1.8. 선택한 글꼴 사용(Use selected font)](./14-05-06-03-01-08-use_selected_font.md)
+
 [14.5.7. GEGL 동작(GEGL operation)](./14-05-07-00-gegl_operation.md)
+
+[14.5.7.2.1. 동작(Operation)](./14-05-07-02-01-operation.md)
+
+[14.5.7.2.2. 동작 설정(Operation Settings)](./14-05-07-02-02-operation_settings.md)
+
+[14.5.7.2.3. 미리보기(Preview)](./14-05-07-02-03-preview.md)
+
+[14.5.7.2.4. 보기 영역 분할(Split view)](./14-05-07-02-04-split_view.md)
+
+[14.5.7.2.5. 초기화(Reset) 버튼](./14-05-07-02-05-reset_button.md)
+
+[14.5.7.2.6. 취소(Cancel) 버튼](./14-05-07-02-06-cancel_button.md)
+
+[14.5.7.2.7. 확인(OK) 버튼](./14-05-07-02-07-ok_button.md)
 
 [15. 대화상자(Dialogs)](./15-00-dialogs.md)
 

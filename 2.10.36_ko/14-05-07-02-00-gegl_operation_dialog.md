@@ -7,35 +7,23 @@
 
 [다른 운영체제와 언어의 `GEGL 동작` 대화상자 확인하기](./90-04-121-gegl_operation.md#90-04-121-a102)
 
-<a id="14-05-07-02-s1"></a>
+***
 
-## 1. 동작(Operation)
+## 하위 페이지
 
-Click on this button to select 
+[14.5.7.2.1. 동작(Operation)](./14-05-07-02-01-operation.md)
 
-<a id="14-05-07-02-s2"></a>
+[14.5.7.2.2. 동작 설정(Operation Settings)](./14-05-07-02-02-operation_settings.md)
 
-## 2. 동작 설정(Operation Settings)
+[14.5.7.2.3. 미리보기(Preview)](./14-05-07-02-03-preview.md)
 
-<a id="14-05-07-02-s3"></a>
+[14.5.7.2.4. 보기 영역 분할(Split view)](./14-05-07-02-04-split_view.md)
 
-## 3. 미리보기(Preview)
+[14.5.7.2.5. 초기화(Reset) 버튼](./14-05-07-02-05-reset_button.md)
 
-<a id="14-05-07-02-s4"></a>
+[14.5.7.2.6. 취소(Cancel) 버튼](./14-05-07-02-06-cancel_button.md)
 
-## 4. 보기 영역 분할(Split view)
-
-<a id="14-05-07-02-s5"></a>
-
-## 5. 초기화(Reset) 버튼
-
-<a id="14-05-07-02-s6"></a>
-
-## 6. 취소(Cancel) 버튼
-
-<a id="14-05-07-02-s7"></a>
-
-## 7. 확인(OK) 버튼
+[14.5.7.2.7. 확인(OK) 버튼](./14-05-07-02-07-ok_button.md)
 
 ***
 
