@@ -72,12 +72,12 @@
 (TODO 원문 설명과 비교 필요함)
 
 ## 24. 알파 채널 제거하기(Remove alpha channel)
-[16.7.35. 알파 채널 제거하기(Remove alpha channel)](./16-07-35-remove-alpha-channel.md)를 참고하세요.
+[16.7.35. 알파 채널 제거하기(Remove alpha channel)](./16-07-35-remove_alpha_channel.md)를 참고하세요.
 
 (TODO 원문 설명과 비교 필요함)
 
 ## 25. 보이는 레이어 합치기(Merge visible layers)
-[16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-merge-visible-layers.md)를 참고하세요.
+[16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-merge_visible_layers.md)를 참고하세요.
 
 (TODO 원문 설명과 비교 필요함)
 
