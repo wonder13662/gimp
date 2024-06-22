@@ -13,7 +13,7 @@
 
 [⬆️ 위: 90.10.32.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-32-02-00-key_modifier-ctrl.md)
 
-[⬆️ 위: 90.10.32. `뒤집기` 도구](./90-10-32-00-flip.md)
+[⬆️ 위: 90.10.32. `도구상자` → `뒤집기`](./90-10-32-00-tool_box-flip.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

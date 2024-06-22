@@ -10,7 +10,7 @@
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.4. 퍼지 선택 도구](./90-10-04-00-fuzzy_select.md)
+[⬆️ 위: 90.10.4. `도구상자` → `퍼지 선택`](./90-10-04-00-tool_box-fuzzy_select.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

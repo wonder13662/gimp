@@ -1,4 +1,4 @@
-# 90.10.9.3. Ctrl(⌘):동작 변경키(Key modifiers)
+# 90.10.9.3. Alt(⌥):동작 변경키(Key modifiers)
 
 ***
 
@@ -10,7 +10,7 @@
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.8. `영역 채우기` 도구](./90-10-08-00-bucket_fill.md)
+[⬆️ 위: 90.10.9. `도구상자` → `그라디언트`](./90-10-09-00-tool_box-gradient.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

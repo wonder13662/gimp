@@ -10,7 +10,7 @@
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.18. `원근 복제` 도구](./90-10-18-00-perspective_clone.md)
+[⬆️ 위: 90.10.18. `도구상자` → `원근 복제`](./90-10-18-00-tool_box-perspective_clone.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

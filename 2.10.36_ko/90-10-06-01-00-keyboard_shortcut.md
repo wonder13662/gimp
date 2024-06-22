@@ -14,7 +14,7 @@
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.6. `똑똑한 가위` 도구](./90-10-06-00-intelligent_scissors.md)
+[⬆️ 위: 90.10.6. `도구상자` → `똑똑한 가위` 도구](./90-10-06-00-tool_box-intelligent_scissors.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

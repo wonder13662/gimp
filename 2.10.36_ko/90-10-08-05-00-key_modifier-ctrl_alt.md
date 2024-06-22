@@ -10,7 +10,7 @@
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.8. `영역 채우기` 도구](./90-10-08-00-bucket_fill.md)
+[⬆️ 위: 90.10.8. `도구상자` → `영역 채우기`](./90-10-08-00-tool_box-bucket_fill.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

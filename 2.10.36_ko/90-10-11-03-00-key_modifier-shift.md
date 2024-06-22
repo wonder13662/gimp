@@ -10,7 +10,7 @@
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.11. `그리기 붓` 도구](./90-10-11-00-paintbrush.md)
+[⬆️ 위: 90.10.11. `도구상자` → `그리기 붓`](./90-10-11-00-tool_box-paintbrush.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

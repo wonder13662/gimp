@@ -17,7 +17,7 @@
 
 [⬆️ 위: 90.10.5.2. 마우스 제어](./90-10-05-02-00-mouse-control.md)
 
-[⬆️ 위: 90.10.5. 색상으로 선택 도구](./90-10-05-00-select_by_color.md)
+[⬆️ 위: 90.10.5. `도구상자` → `색상으로 선택`](./90-10-05-00-tool_box-select_by_color.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

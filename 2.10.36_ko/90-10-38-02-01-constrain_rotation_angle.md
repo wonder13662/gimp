@@ -13,7 +13,7 @@
 
 [⬆️ 위: 90.10.38.2. Ctrl(⌘): 동작 변경키(Key modifiers)](./90-10-38-02-00-key_modifier-ctrl.md)
 
-[⬆️ 위: 90.10.38. `측정` 도구](./90-10-38-00-measure.md)
+[⬆️ 위: 90.10.38. `도구상자` → `측정`](./90-10-38-00-tool_box-measure.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

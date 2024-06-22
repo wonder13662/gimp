@@ -18,7 +18,7 @@
 
 [⬅️ 이전: 90.1.10.2.12. 표본점(Sample Points)](./90-01-10-02-12-sample_points.md)
 
-[⬆️ 위: 90.1.10.2. 도킹가능한 대화(Dockable dialogs)](./90-01-10-02-00-dockable_dialogs.md)
+[⬆️ 위: 90.1.10.2. 도킹가능한 대화상자(Dockable dialogs)](./90-01-10-02-00-dockable_dialogs.md)
 
 [⬆️ 위: 90.1.10. 창(Windows)](./90-01-10-00-windows.md)
 

@@ -13,7 +13,7 @@
 
 [⬆️ 위: 90.10.1.7. Shift(⇧) + Alt(⌥):동작 변경키(Key modifiers)](./90-10-01-07-00-key_modifier-shift_alt.md)
 
-[⬆️ 위: 90.10.1. 사각 선택 도구](./90-10-01-00-rectangle_select.md)
+[⬆️ 위: 90.10.1. `도구상자` → `사각 선택`](./90-10-01-00-tool_box-rectangle_select.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

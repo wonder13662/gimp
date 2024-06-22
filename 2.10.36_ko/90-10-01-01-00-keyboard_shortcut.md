@@ -10,6 +10,8 @@
 
 ## 다른 페이지로 가기
 
+[⬆️ 위: 90.10.1. `도구상자` → `사각 선택`](./90-10-01-00-tool_box-rectangle_select.md)
+
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)

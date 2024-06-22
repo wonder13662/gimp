@@ -13,7 +13,7 @@
 
 [⬆️ 위: 90.10.16.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-16-02-00-key_modifier-ctrl.md)
 
-[⬆️ 위: 90.10.16. `도장` 도구](./90-10-16-00-clone.md)
+[⬆️ 위: 90.10.16. `도구상자` → `도장`](./90-10-16-00-tool_box-clone.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

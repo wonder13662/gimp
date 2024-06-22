@@ -13,7 +13,7 @@
 
 [⬆️ 위: 90.10.37.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-37-02-00-key_modifier-ctrl.md)
 
-[⬆️ 위: 90.10.37. `확대`](./90-10-37-00-zoom.md)
+[⬆️ 위: 90.10.37. `확대`](./90-10-37-00-tool_box-zoom.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

@@ -4,13 +4,13 @@
 
 ## 하위 페이지
 
-[90.10.8.3.1. 전체 선택 채우기(Fill whole selection)로 바꾸기](./90-10-08-03-01-switch_fill_whole_selection.md)
+[90.10.9.2.1. Ctrl(⌘)을 누른 상태에서 그라디언트 선을 15도씩 회전](./90-10-09-02-01-constrain_rotation_angle.md)
 
 ***
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.8. `영역 채우기` 도구](./90-10-08-00-bucket_fill.md)
+[⬆️ 위: 90.10.9. `도구상자` → `그라디언트`](./90-10-09-00-tool_box-gradient.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

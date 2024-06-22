@@ -13,7 +13,7 @@
 
 [⬆️ 위: 90.10.15.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-15-02-00-key_modifier-ctrl.md)
 
-[⬆️ 위: 90.10.15. `잉크` 도구](./90-10-15-00-ink.md)
+[⬆️ 위: 90.10.15. `도구상자` → `잉크`](./90-10-15-00-tool_box-ink.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

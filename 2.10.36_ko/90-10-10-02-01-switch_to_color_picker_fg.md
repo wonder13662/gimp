@@ -15,7 +15,7 @@
 
 [⬆️ 위: 90.10.10.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-10-02-00-key_modifier-ctrl.md)
 
-[⬆️ 위: 90.10.10. `연필` 도구](./90-10-10-00-pencil.md)
+[⬆️ 위: 90.10.10. `도구상자` → `연필`](./90-10-10-00-tool_box-pencil.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

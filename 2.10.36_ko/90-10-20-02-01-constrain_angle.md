@@ -13,7 +13,7 @@
 
 [⬆️ 위: 90.10.20.2. Ctrl(⌘) + Shift(⇧):동작 변경키(Key modifiers)](./90-10-20-02-00-key_modifier-ctrl_shift.md)
 
-[⬆️ 위: 90.10.20. `문지르기` 도구](./90-10-20-00-smudge.md)
+[⬆️ 위: 90.10.20. `도구상자` → `문지르기`](./90-10-20-00-tool_box-smudge.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

@@ -22,7 +22,7 @@
 
 [⬆️ 위: 90.10.13.3. Alt(⌥):동작 변경키(Key modifiers)](./90-10-13-03-00-key_modifier-alt.md)
 
-[⬆️ 위: 90.10.13. `지우개` 도구](./90-10-13-00-eraser.md)
+[⬆️ 위: 90.10.13. `도구상자` → `지우개`](./90-10-13-00-tool_box-eraser.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

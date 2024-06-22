@@ -18,7 +18,7 @@
 
 [⬅️ 이전: 90.1.10.2.16. 페인트 동적 요소(Paint Dynamics)](./90-01-10-02-16-paint_dynamics.md)
 
-[⬆️ 위: 90.1.10.2. 도킹가능한 대화(Dockable dialogs)](./90-01-10-02-00-dockable_dialogs.md)
+[⬆️ 위: 90.1.10.2. 도킹가능한 대화상자(Dockable dialogs)](./90-01-10-02-00-dockable_dialogs.md)
 
 [⬆️ 위: 90.1.10. 창(Windows)](./90-01-10-00-windows.md)
 

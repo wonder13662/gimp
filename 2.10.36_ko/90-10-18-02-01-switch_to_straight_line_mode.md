@@ -13,7 +13,7 @@
 
 [⬆️ 위: 90.10.18.2. Shift(⇧):동작 변경키(Key modifiers)](./90-10-18-02-00-key_modifier-shift.md)
 
-[⬆️ 위: 90.10.18. `원근 복제` 도구](./90-10-18-00-perspective_clone.md)
+[⬆️ 위: 90.10.18. `도구상자` → `원근 복제`](./90-10-18-00-tool_box-perspective_clone.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

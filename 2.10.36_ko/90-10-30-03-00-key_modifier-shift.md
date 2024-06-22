@@ -10,7 +10,7 @@
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.30. `통합 변형` 도구](./90-10-30-00-unified_transform.md)
+[⬆️ 위: 90.10.30. `도구상자` → `통합 변형`](./90-10-30-00-tool_box-unified_transform.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

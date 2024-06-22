@@ -13,7 +13,7 @@
 
 [⬆️ 위: 90.10.26.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-26-03-00-key_modifier-shift.md)
 
-[⬆️ 위: 90.10.26. `크기 조정` 도구](./90-10-26-00-scale.md)
+[⬆️ 위: 90.10.26. `도구상자` → `크기 조정`](./90-10-26-00-tool_box-scale.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

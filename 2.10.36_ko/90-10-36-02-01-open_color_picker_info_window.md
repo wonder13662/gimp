@@ -13,7 +13,7 @@
 
 [⬆️ 위: 90.10.36.2. Shift(⇧):동작 변경키(Key modifiers)](./90-10-36-02-00-key_modifier-shift.md)
 
-[⬆️ 위: 90.10.36. `색상 추출` 도구](./90-10-36-00-color_picker.md)
+[⬆️ 위: 90.10.36. `도구상자` → `색상 추출`](./90-10-36-00-tool_box-color_picker.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

@@ -13,7 +13,7 @@
 
 [⬆️ 위: 90.10.14.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-14-02-00-key_modifier-ctrl.md)
 
-[⬆️ 위: 90.10.14. `에어브러시` 도구](./90-10-14-00-airbrush.md)
+[⬆️ 위: 90.10.14. `도구상자` → `에어브러시`](./90-10-14-00-tool_box-airbrush.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

@@ -13,7 +13,7 @@
 
 [⬆️ 위: 90.10.19.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-19-02-00-key_modifier-ctrl.md)
 
-[⬆️ 위: 90.10.19. `흐릿하게/선명하게` 도구](./90-10-19-00-blur_sharpen.md)
+[⬆️ 위: 90.10.19. `도구상자` → `흐릿하게/선명하게`](./90-10-19-00-tool_box-blur_sharpen.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

@@ -13,7 +13,7 @@
 
 [⬆️ 위: 90.10.25.2. Shift(⇧):동작 변경키(Key modifiers)](./90-10-25-02-00-key_modifier-shift.md)
 
-[⬆️ 위: 90.10.25. `회전` 도구](./90-10-25-00-rotate.md)
+[⬆️ 위: 90.10.25. `도구상자` → `회전`](./90-10-25-00-tool_box-rotate.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

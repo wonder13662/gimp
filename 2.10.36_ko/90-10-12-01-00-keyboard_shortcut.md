@@ -10,7 +10,7 @@
 
 ## 다른 페이지로 가기
 
-[⬆️ 위: 90.10.12. `마이페인트 붓` 도구](./90-10-12-00-mypaint_brush.md)
+[⬆️ 위: 90.10.12. `도구상자` → `마이페인트 붓`](./90-10-12-00-tool_box-mypaint_brush.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

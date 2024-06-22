@@ -15,7 +15,7 @@
 
 [⬆️ 위: 90.10.12.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-11-03-00-key_modifier-shift.md)
 
-[⬆️ 위: 90.10.12. `마이페인트 붓` 도구](./90-10-12-00-mypaint_brush.md)
+[⬆️ 위: 90.10.12. `도구상자` → `마이페인트 붓`](./90-10-12-00-tool_box-mypaint_brush.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 
