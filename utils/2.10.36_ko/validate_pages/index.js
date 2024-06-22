@@ -3,6 +3,7 @@ const fs = require('node:fs')
 const path = require('node:path')
 
 const hasPrevPage = require('./has_prev_page')
+const hasNextPage = require('./has_next_page')
 
 const doAsyncJob = async () => {
   try {
@@ -25,7 +26,10 @@ const doAsyncJob = async () => {
     for (let i = 0; i < files.length; i++) {
       // 개별 검사 함수 호출
       // 1. 이전 페이지 검사
-      hasPrevPage.doAsyncJob(pageFileListPath, files, i)
+      // hasPrevPage.doAsyncJob(pageFileListPath, files, i)
+
+      // 2. 다음 페이지 검사
+      hasNextPage.doAsyncJob(pageFileListPath, files, i)
 
     }
   } catch (err) {

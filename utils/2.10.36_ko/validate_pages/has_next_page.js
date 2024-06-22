@@ -33,68 +33,85 @@ const extractNextPageTitle = (line) => {
   return '';
 }
 
-const doAsyncJob = async () => {
-  try {
-    // 1. 모든 페이지 파일의 목록을 가져온다.
-    const pageFileListPath = `${path.normalize(`${__dirname}/../../..`)}/2.10.36_ko`
-    
-    // 1-1. 파일 경로 검사
-    fs.access(pageFileListPath, fs.constants.R_OK, (err) => {
+module.exports = {
+  doAsyncJob: async (pageFileListPath, files, i) => {
+    // 1. 파라미터 검사
+    // 1-1. 페이지 경로
+    if (!pageFileListPath) {
+      throw new Error([
+        '\n[에러] 1-1. 페이지의 경로가 유효하지 않습니다',
+        `경로: "${pageFileListPath}"`,
+      ].join('\n'))
+    }
+
+    // 1-2. 파일 목록
+    if (!files || files.length === 0) {
+      throw new Error([
+        '\n[에러] 1-2. 파일 목록이 유효하지 않습니다',
+      ].join('\n'))
+    }
+
+    // 1-3. 파일 목록의 현재 인덱스
+    if (i < 0) {
+      throw new Error([
+        '\n[에러] 1-3. 파일 목록의 현재 인덱스가 유효하지 않습니다',
+        `인덱스: "${i}"`,
+      ].join('\n'))      
+    }
+
+    // 2-1. 개별 페이지 내용 가져오기
+    const fileName = files[i];
+    const pagePath = `${pageFileListPath}/${fileName}`;
+    fs.access(pagePath, fs.constants.R_OK, (err) => {
       if (err) {
-        console.error(`\n[에러]\n파일 경로 "${pageFileListPath}"가 유효하지 않습니다.`)
-        throw err
+        throw new Error([
+          '\n[에러] 2-1. 페이지의 경로가 유효하지 않습니다',
+          `페이지: "${fileName}"`,
+          `경로: "${pageFileListPath}"`,
+        ].join('\n'))
       }
     });
-    
-    // 1-2. 파일 목록 가져오기
-    const files = await fsPromises.readdir(pageFileListPath);    
-    // const files = ['03-02-05-01-organizing-dialogs.md']; // NOTE: 개별 파일 검사시 사용
-    console.log(`모두 ${files.length} 개의 파일을 검사합니다.`)
 
-    for (let i = 0; i < files.length; i++) {
-      const fileName = files[i];
+    const contents = await fsPromises.readFile(pagePath, { encoding: 'utf8' });
+    const lastPageIdx = files.length - 1
+    if (i < lastPageIdx && hasNextPageLine(contents)) {
+      // 3-1. 현재 페이지의 다음 페이지가 있는 경우
+      const line = extractNextPageLine(contents)
+      const link = extractPageLink(line)
 
-      // 1. 개별 페이지 내용 가져오기
-      const pagePath = `${pageFileListPath}/${fileName}`;
-      fs.access(pagePath, fs.constants.R_OK, (err) => {
-        if (err) {
-          console.error(`\n[에러]\n개별 페이지("${fileName}")의 경로 "${pageFileListPath}"가 유효하지 않습니다.`)
-          throw new Error('1. 개별 페이지 내용 가져오기')
-        }
-      });
+      if (!link) {
+        throw new Error([
+          '\n[에러] 3-1. 다음 페이지의 링크가 유효하지 않습니다.',
+          `페이지: "${fileName}"`,
+          `행: "${line}"`,
+        ].join('\n'))
+      }        
 
-      const contents = await fsPromises.readFile(pagePath, { encoding: 'utf8' });
-      
-      if (i < files.length - 1 && hasNextPageLine(contents)) {
-        // 2-1. 현재 페이지의 다음 페이지가 있는 경우
-        const line = extractNextPageLine(contents)
-        const link = extractPageLink(line)
-        const nextFileName = files[i + 1]
-
-        if (!link) {
-          console.error(`\n[에러]\n페이지("${fileName}")의 다음 페이지 주소가 유효하지 않습니다.`)
-          throw err
-        }        
-
-        // 2-2. 다음 페이지의 이름이 파일 목록 이름과 일치하는지 확인
-        if (link !== nextFileName) {
-          console.error(`\n[에러]\n페이지("${fileName}")의 다음 페이지의 이름("${link}")과 실제 파일 이름("${nextFileName}")이 일치하지 않습니다.`)
-          throw err
-        }
-
-        // 2-3. 제목 비교하기
-        const title = extractNextPageTitle(line);
-        const nextPagePath = `${pageFileListPath}/${nextFileName}`;
-        const nextPageContents = await fsPromises.readFile(nextPagePath, { encoding: 'utf8' });
-
-        if (nextPageContents.indexOf(title) < 0) {
-          console.error(`\n[에러]\n다음 페이지("${nextFileName}")의 제목("${title}")이 일치하지 않습니다.`)
-          throw err
-        }        
+      // 3-2. 다음 페이지의 이름이 파일 목록 이름과 일치하는지 확인
+      const nextFileName = files[i + 1]
+      if (link !== nextFileName) {
+        throw new Error([
+          '\n[에러] 3-2. 다음 페이지 파일의 이름이 일치하지 않습니다.',
+          `페이지: "${fileName}"`,
+          `다음 페이지: "${link}"`,
+          `실제 파일 이름: "${nextFileName}"\n`,
+        ].join('\n'))
       }
-    }
-  } catch (err) {
-    console.error(err);
-  }
+
+      // 3-3. 제목 비교하기
+      const title = extractNextPageTitle(line);
+      const nextPagePath = `${pageFileListPath}/${nextFileName}`;
+      const nextPageContents = await fsPromises.readFile(nextPagePath, { encoding: 'utf8' });
+
+      if (nextPageContents.indexOf(title) < 0) {
+        throw new Error([
+          '\n[에러] 3-3. 다음 페이지의 제목이 일치하지 않습니다.',
+          `페이지: "${fileName}"`,
+          `다음 페이지: "${nextFileName}"`,
+          `제목: "${title}"\n`,
+        ].join('\n'))
+
+      }        
+    }    
+  },
 }
-doAsyncJob();

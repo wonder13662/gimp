@@ -73,8 +73,8 @@ module.exports = {
     });
 
     const contents = await fsPromises.readFile(pagePath, { encoding: 'utf8' });
-    
-    if (i > 0 && hasPrevPageLine(contents)) {
+    const firstPageIdx = 0
+    if (i > firstPageIdx && hasPrevPageLine(contents)) {
       // 3-1. 현재 페이지의 이전 페이지가 있는 경우
       const line = extractPrevPageLine(contents)
       const link = extractPageLink(line)
@@ -90,7 +90,6 @@ module.exports = {
       // 3-2. 이전 페이지의 이름이 파일 목록 이름과 일치하는지 확인
       const prevFileName = files[i-1]
       if (link !== prevFileName) {
-        console.error()
         throw new Error([
           '\n[에러] 3-2. 이전 페이지 파일의 이름이 일치하지 않습니다.',
           `페이지: "${fileName}"`,
