@@ -1,0 +1,43 @@
+# 16.7.2.2. 새 레이어 대화상자 설명(Description of the "New Layer" Dialog)
+
+***
+
+## 하위 페이지
+
+[16.7.2.2.1. 레이어 이름(Layer name)](./16-07-02-02-01-layer_name.md)
+
+[16.7.2.2.2. 색상 태그(Color tag)](./16-07-02-02-02-color_tag.md)
+
+[16.7.2.2.3. 레이어 모드(Mode)](./16-07-02-02-03-mode.md)
+
+[16.7.2.2.4. 블렌딩 공간, 합성 공간(Blend spapce, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)
+
+[16.7.2.2.5. 합성 모드(Composite mode)](./16-07-02-02-05-composite_mode.md)
+
+[16.7.2.2.6. 불투명도(Opacity)](./16-07-02-02-06-opacity.md)
+
+[16.7.2.2.7. 너비와 높이(Width, Height)](./16-07-02-02-07-width_n_height.md)
+
+[16.7.2.2.8. 오프셋 X, Y(Offset X, Offset Y)](./16-07-02-02-08-offset_x_n_offset_y.md)
+
+[16.7.2.2.9. 채우기(Fill With)](./16-07-02-02-09-fill_with.md)
+
+[16.7.2.2.10. 스위치(Switches)](./16-07-02-02-10-switches.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: ?]()
+
+[⬅️ 이전: ?]()
+
+[⬆️ 위: 16.7.2. 새 레이어(New layer)](./16-07-02-00-new_layer.md)
+
+[⬆️ 위: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-layer-new.html#gimp-new-layer-dialog)

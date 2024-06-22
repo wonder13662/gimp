@@ -1,6 +1,105 @@
-# 15.2.1.3. The Layer dialog context menu
+# 15.2.1.3. 레이어 대화상자 컨텍스트 메뉴(The Layer dialog context menu)
 
-### [Home](./00-home.md)
-### [Parent: 15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
-### [Prev: 15.1. 대화상자 소개(Dialog introduction)](./15-01-dialog-introduction.md)
-### [Next: 15.2.2. 채널 대화상자(Channel dialog)](./15-02-02-00-channel-dialog.md)
+## 1. 레이어 속성 수정하기(Edit Layer Attributes...)
+[새 레이어의 `새 레이어 대화상자`](./16-07-02-02-00-description_of_the_new_layer_dialog.md)를 참고하세요
+
+## 2. 블렌딩 공간 서브메뉴(Blend Space submenu)
+[16.7.2.2.4. 블렌딩 공간, 합성 공간(Blend spapce, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)을 참고하세요.
+
+## 3. 합성 공간 서브메뉴(Composite Space submenu)
+[16.7.2.2.4. 블렌딩 공간, 합성 공간(Blend spapce, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)을 참고하세요.
+
+## 4. 합성 모드 서브메뉴(Composite Mode submenu)
+[16.7.2.2.5. 합성 모드(Composite mode)](./16-07-02-02-05-composite_mode.md)를 참고하세요.
+
+## 5. 색상 태그 서브메뉴(Color Tag submenu)
+[16.7.2.2.2. 색상 태그(Color tag)](./16-07-02-02-02-color_tag.md)를 참고하세요.
+
+## 6. 새 레이어(New Layer)
+[15.2.1.2.4.1. 새 레이어(New Layer)](./15-02-01-02-04-01-new_layer.md)를 참고해주세요.
+
+## 7. 새 레이어 그룹(New Layer Group)
+[15.2.1.2.4.2. 새 레이어 그룹(New Layer Group)](./15-02-01-02-04-02-new_layer_group.md)을 참고해주세요.
+
+## 8. 레이어 복사하기(Duplicate Layer)
+[15.2.1.2.4.5. 레이어 복사하기(Duplicate Layer)](./15-02-01-02-04-05-duplicate_layer.md)를 참고해주세요.
+
+## 9. 레이어 합치기(Merge Down)
+[15.2.1.2.4.6. 레이어 합치기 또는 레이어 고정하기(Merge Layer or Anchor Layer)](./15-02-01-02-04-06-merge_layers_n_anchor_layer.md)를 참고하세요.
+
+## 10. 레이어 고정하기(Anchor Layer)
+[15.2.1.2.4.6. 레이어 합치기 또는 레이어 고정하기(Merge Layer or Anchor Layer)](./15-02-01-02-04-06-merge_layers_n_anchor_layer.md)를 참고하세요.
+
+## 11. 레이어 삭제하기(Delete Layer)
+[15.2.1.2.4.7. 레이어 삭제하기(Delete Layer)](./15-02-01-02-04-07-delete_layer.md)를 참고하세요.
+
+## 12. 보이는 레이어들로 새 레이어 만들기(New from Visible)
+[16.7.3. 보이는 레이어들로 새 레이어 만들기(New from visible)](./16-07-03-new_from_visible.md)를 참고하세요.
+
+## 13. 레이어 경계 크기(Layer Boundary Size...)
+[16.7.51. 레이어 경계 크기(Layer boundary size)](./16-07-51-layer_boundary_size.md)를 참고하세요.
+
+## 14. 레이어를 이미지 크기로(Layer to Image Size)
+[16.7.52. 레이어를 이미지 크기로(Layer to image size)](./16-07-52-layer_to_image_size.md)를 참고하세요.
+
+## 15. 레이어 크기조정(Scale layer)
+[16.7.53. 레이어 크기조정(Scale layer)](./16-07-53-scale_layer.md)을 참고하세요.
+
+## 16. 레이어 마스크 추가하기(Add Layer Mask...)
+[16.7.23. 레이어 마스크 추가하기(Add layer mask)](./16-07-23-add_layer_mask.md)를 참고하세요.
+
+## 17. 레이어 마스크 적용하기(Apply Layer Mask)
+[16.7.24. 레이어 마스크 적용하기(Apply layer mask)](./16-07-24-apply_layer_mask.md)를 참고하세요.
+
+## 18. 레이어 마스크 삭제하기(Delete Layer Mask)
+[16.7.25. 레이어 마스크 삭제하기(Delete layer mask)](./16-07-25-delete_layer_mask.md)를 참고하세요.
+
+## 19. 레이어 마스크 보여주기(Show layer mask)
+[16.7.26. 레이어 마스크 보여주기(Show layer mask)](./16-07-26-show_layer_mask.md)를 참고하세요.
+
+## 20. 레이어 마스크 수정하기(Edit layer mask)
+[16.7.27. 레이어 마스크 수정하기(Edit layer mask)](./16-07-27-edit_layer_mask.md)를 참고하세요.
+
+## 21. 레이어 마스크 비활성화하기(Disable layer mask)
+[16.7.28. 레이어 마스크 비활성화하기(Disable layer mask)](./16-07-28-disable_layer_mask.md)를 참고하세요.
+
+## 22. 마스크를 선택으로 바꾸기(Mask to selection)
+[16.7.29. 마스크를 선택으로 바꾸기(Mask to selection)](./16-07-29-mask_to_selection.md)를 참고하세요.
+
+## 23. 알파 채널 추가하기(Add alpha channel)
+[16.7.34. 알파 채널 추가하기(Add alpha channel)](./16-07-34-add_alpha_channel.md)를 참고하세요.
+
+(TODO 원문 설명과 비교 필요함)
+
+## 24. 알파 채널 제거하기(Remove alpha channel)
+[16.7.35. 알파 채널 제거하기(Remove alpha channel)](./16-07-35-remove-alpha-channel.md)를 참고하세요.
+
+(TODO 원문 설명과 비교 필요함)
+
+## 25. 보이는 레이어 합치기(Merge visible layers)
+[16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-merge-visible-layers.md)를 참고하세요.
+
+(TODO 원문 설명과 비교 필요함)
+
+## 26. ?(Flatten Image)
+[16.6.26. 이미지 평탄화하기(Flatten image)](./16-06-26-flatten_image.md)를 참고하세요.
+
+(TODO 원문 설명과 비교 필요함)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.2.1.4. 레이어 마스크(Layer Mask)](./15-02-01-04-00-layer_mask.md)
+
+[⬅️ 이전: 15.2.1.2.6. 클릭, 드래그로 레이어 옮기기(Clicking-and-dragging layers)](./15-02-01-02-06-clicking_n_dragging_layers.md)
+
+[⬆️ 위: 15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers-dialog.md)
+
+[⬆️ 위: 15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-dialogs-structure.html#gimp-layer-dialog-context-menu)
