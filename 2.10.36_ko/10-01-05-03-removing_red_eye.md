@@ -28,7 +28,7 @@
 
 [➡️ 다음: 10.1.6. 결과물 저장하기](./10-01-06-00-saving_your_results.md)
 
-[⬅️ 이전: 10.1.5.2. 불필요한 것 제거하기(Garbage Removal)](./10-01-05-02-00-garbage_removal.md)
+[⬅️ 이전: 10.1.5.2.2. Mac OSX에서 Resynthesizer 사용하기](./10-01-05-02-02-resynthesizer_on_mac.md)
 
 [⬆️ 위: 10.1.5. 이미지에서 필요없는 물체 없애기](./10-01-05-00-removing_unwanted_objects_from_an_image.md)
 

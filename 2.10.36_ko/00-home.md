@@ -942,7 +942,7 @@
 
 [13.4.7. Glowing Logo](./13-04-07-glowing_logo.md)
 
-[13.4.8. Imigre-26](./13-04-08-Imigre_26.md)
+[13.4.8. Imigre-26](./13-04-08-imigre_26.md)
 
 [13.4.9. Land](./13-04-09-land.md)
 

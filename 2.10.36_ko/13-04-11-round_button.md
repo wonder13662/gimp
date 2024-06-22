@@ -1,6 +1,6 @@
 # 13.4.11. Round Button
 
-## 1. `파일` → `만들기` → `단추` → `Round Button...`
+## 1. `이미지 메뉴 바` → `파일` → `만들기` → `단추` → `Round Button...`
 
 #### 그림 13.4.11.a101. 결과 이미지
 ![13-04-11-a101-result](https://github.com/wonder13662/gimp/assets/15767104/41c2f13a-3562-4554-a947-e40dedcb2692)

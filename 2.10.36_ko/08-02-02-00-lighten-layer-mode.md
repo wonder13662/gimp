@@ -21,7 +21,7 @@
 
 [➡️ 다음: 8.2.3. 레이어 모드-어두움(Darken)](./08-02-03-00-darken-layer-modes.md)
 
-[⬅️ 이전: 8.2.1. 레이어 모드-Normal](./08-02-01-00-normal-layer-mode.md)
+[⬅️ 이전: 8.2.1.6. 분할(Split)](./08-02-01-06-split.md)
 
 [⬆️ 위: 8.2. 레이어 모드](./08-02-00-layer-modes.md)
 

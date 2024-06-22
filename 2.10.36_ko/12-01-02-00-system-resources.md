@@ -27,7 +27,7 @@
 
 [➡️ 다음: 12.1.2.1. 자원 소비량(System Resources)](./12-01-02-01-resource_consumption.md)
 
-[⬅️ 이전: 12.1.1. 소개](./12-01-00-preference-dialog.md)
+[⬅️ 이전: 12.1.1. 소개](./12-01-01-introduction.md)
 
 [⬆️ 위: 12.1. 기본설정 대화상자](./12-01-00-preference-dialog.md)
 

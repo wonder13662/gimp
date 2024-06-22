@@ -1,6 +1,6 @@
 # 13.4.7. Glowing Logo
 
-## 1. `파일` → `만들기` → `무늬` → `Glowing Logo...`
+## 1. `이미지 메뉴 바` → `파일` → `만들기` → `무늬` → `Glowing Logo...`
 
 #### 그림 13.4.7.a101. 결과 이미지
 ![13-04-07-a101-result](https://github.com/wonder13662/gimp/assets/15767104/bf243586-706c-4989-b40d-a15f9133daa0)
@@ -14,7 +14,7 @@
 #### 영상 13.4.7.a104. 전체 과정
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bf0d0534-1b63-4977-8249-350d3d5161d3"></video>
 
-## 2. `필터` → `알파를 로고로` → `Glowing Logo...`
+## 2. `이미지 메뉴 바` → `필터` → `알파를 로고로` → `Glowing Logo...`
 
 #### 그림 13.4.7.a111. 원본 이미지
 ![13-04-07-a111-source](https://github.com/wonder13662/gimp/assets/15767104/f340af75-4a7a-452a-8400-1c2714b4080f)
@@ -39,7 +39,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 13.4.8. Imigre-26](./13-04-08-Imigre_26.md)
+[➡️ 다음: 13.4.8. Imigre-26](./13-04-08-imigre_26.md)
 
 [⬅️ 이전: 13.4.6. Chrome](./13-04-06-chrome_logo.md)
 

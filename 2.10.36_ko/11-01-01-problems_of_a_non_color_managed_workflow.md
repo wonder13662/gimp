@@ -16,7 +16,7 @@
 
 [➡️ 다음: 11.1.2. 색상 관리 작업 소개](./11-01-02-00-introduction_to_a_color_managed_workflow.md)
 
-[⬅️ 이전: 11. GIMP(김프)에서의 색상 관리](./11-00-color-management-with-gimp.md)
+[⬅️ 이전: 11.1. GIMP(김프)에서의 색상 관리](./11-01-00-color-management-in-gimp.md)
 
 [⬆️ 위: 11.1. GIMP(김프)에서의 색상 관리](./11-01-00-color-management-in-gimp.md)
 

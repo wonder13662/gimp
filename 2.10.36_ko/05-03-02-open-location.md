@@ -34,7 +34,7 @@
 
 [➡️ 다음: 5.3.3. 최근 연 파일](./05-03-03-open-recent.md)
 
-[⬅️ 이전: 5.3.1.2. PostScript 불러오기](./05-03-01-02-import_from_postscript.md)
+[⬅️ 이전: 5.3.1.2. 포스트스크립트(PostScript) 불러오기](./05-03-01-02-import_from_postscript.md)
 
 [⬆️ 위: 5.3. 파열 열기](./05-03-00-opening-files.md)
 

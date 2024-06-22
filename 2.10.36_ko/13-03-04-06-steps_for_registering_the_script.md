@@ -190,7 +190,7 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
 
 [➡️ 다음: 13.3.4.7. 스크립트의 매개변수를 등록하기(Registering The Script's Parameters)](./13-03-04-07-registering_the_scripts_parameters.md)
 
-[⬅️ 이전: 13.3.4.5. 함수 등록하기(Registering The Function)](./13-03-04-05-00-registering_the_function.md)
+[⬅️ 이전: 13.3.4.5.1. 작업중인 스크립트](./13-03-04-05-01-script_in_progress.md)
 
 [⬆️ 위: 13.3.4. 첫번째 Script-Fu 스크립트(Your first Script-Fu script)](./13-03-04-00-your-first-script-fu-script.md)
 

@@ -13,7 +13,7 @@
 
 [➡️ 다음: 13.3.6.3. 매개변수와 등록 함수 수정하기(Modifying the Parameters and the Regitration Function)](./13-03-06-03-00-modifying_the_parameters_and_the_regitration_function.md)
 
-[⬅️ 이전: 13.3.6.1. 실행취소 다루기(Handling Undo Correctly)](./13-03-06-01-00-handling_undo_correctly.md)
+[⬅️ 이전: 13.3.6.1.1. 작업중인 스크립트](./13-03-06-01-01-script_in_progress.md)
 
 [⬆️ 위: 13.3.6. 텍스트 박스 스크립트 확장하기(Extending the text box script)](./13-03-06-00-extending-the-text-box-script.md)
 

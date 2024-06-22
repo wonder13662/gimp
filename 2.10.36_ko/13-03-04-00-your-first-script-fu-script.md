@@ -56,9 +56,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: ?]()
+[➡️ 다음: 13.3.4.1. 텍스트 박스 스크립트 만들기(Creating A Text Box Script)](./13-03-04-01-creating_a_text_box_script.md)
 
-[⬅️ 이전: ?]()
+[⬅️ 이전: 13.3.3.8. 리스트의 다른 요소 가져오기](./13-03-03-08-accessing_other_elements_in_a_list.md)
 
 [⬆️ 위: 13.3. Script-Fu 튜토리얼(A Script-Fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
 

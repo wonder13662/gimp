@@ -9,6 +9,7 @@
 ***
 
 ## 다른 페이지로 가기
+
 [➡️ 다음: 8.5.4. 레이어 그룹 올리기/내리기(Raise and Lower Layer Groups)](./08-05-04-raise_n_lower_layer_groups.md)
 
 [⬅️ 이전: 8.5.2. 레이어 그룹에 레이어 넣기(Adding Layers to a Layer Group)](./08-05-02-adding_layers_to_a_layer_group.md)

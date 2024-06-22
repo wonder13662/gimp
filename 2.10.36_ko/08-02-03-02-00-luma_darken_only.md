@@ -17,7 +17,7 @@
 
 [➡️ 다음: 8.2.3.3. 곱하기(Multiply)](./08-02-03-03-00-multiply.md)
 
-[⬅️ 이전: 8.2.3.1. 어두운 색만(Darken only)](./08-02-03-01-00-darken_only.md)
+[⬅️ 이전: 8.2.3.1.1. 어두운 색만(Darken only) 모드 방정식](./08-02-03-01-01-equation.md)
 
 [⬆️ 위: 8.2.3. 레이어 모드-어두움(Darken)](./08-02-03-00-darken-layer-modes.md)
 

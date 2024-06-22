@@ -27,7 +27,7 @@
 
 [➡️ 다음: 12.2.1. 이미지 격자(The image grid)](./12-02-01-the-image-grid.md)
 
-[⬅️ 이전: 12.1.24. 폴더(Folders)](./12-01-24-folders.md)
+[⬅️ 이전: 12.1.25. 데이터 폴더(DataFolders)](./12-01-25-data-folders.md)
 
 [⬆️ 위: 12. 나만의 GIMP(김프) 만들기](./12-00-enrich-my-gimp.md)
 

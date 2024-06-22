@@ -119,7 +119,7 @@
 
 [➡️ 다음: 14.3.4.3.6. 선화 감지 옵션("Line Art Detection" option)](./14-03-04-03-06-line_art_detection_options.md)
 
-[⬅️ 이전: 14.3.4.3.4. 영향을 받는 영역(Affected Area)](./14-03-04-03-04-00-affected_area.md)
+[⬅️ 이전: 14.3.4.3.4.1. Smart Colorization](./14-03-04-03-04-01-smart_colorization.md)
 
 [⬆️ 위: 14.3.4.3. 옵션(Options)](./14-03-04-03-00-options.md)
 

@@ -37,9 +37,10 @@ GIMP(김프)와 함께 실행중인 어플리케이션이 레이어의 drag & dr
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 8.5.6. 다른 이미지로 레이어 그룹 옮기기(Move Layer Groups)](./08-05-06-move_layer_groups.md)
 
-[⬅️ 이전: 8.5.4. 레이어 그룹 올리기/내리기(Raise and Lower Layer Groups)](./08-05-04-raise_n_lower_layer_groups.md)
+[➡️ 다음: 8.5.5. 레이어 그룹 복사하기(Duplicate a Layer Group)](./08-05-05-duplicate_a_layer_group.md)
+
+[⬅️ 이전: 8.5.3. 레이어 그룹 보기(Visibility)](./08-05-03-visibility.md)
 
 [⬆️ 위: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 

@@ -48,7 +48,9 @@
 
 [➡️ 다음: 12.1.17.2. 포커스(Focus)](./12-01-17-02-focus.md)
 
-[⬅️ 이전: 12.1.16.2. 모니터 해상도(Monitor Resolution)](./12-01-16-02-monitor_resolution.md)
+[⬅️ 이전: 12.1.17. 창 관리(Window Management)](./12-01-17-00-window-management.md)
+
+[⬆️ 위: 12.1.17. 창 관리(Window Management)](./12-01-17-00-window-management.md)
 
 [⬆️ 위: 12.1. 기본설정 대화상자](./12-01-00-preference-dialog.md)
 

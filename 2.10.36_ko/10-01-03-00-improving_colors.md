@@ -28,7 +28,7 @@
 
 [➡️ 다음: 10.1.3.1. 자동화 도구](./10-01-03-01-automated_tools.md)
 
-[⬅️ 이전: 10.1.2. 구조적 교정](./10-01-02-00-improving_composition.md)
+[⬅️ 이전: 10.1.2.2. 이미지 잘라내기](./10-01-02-02-cropping.md)
 
 [⬆️ 위: 10.1. 디지털 카메라로 찍은 사진 편집하기](./10-01-00-working-with-digital-camera-photos.md)
 

@@ -29,9 +29,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.6. 텍스트 박스 스크립트 확장하기(Extending the text box script)](./13-03-06-00-extending-the-text-box-script.md)
+[➡️ 다음: 13.3.5.4.1. 작업중인 스크립트](./13-03-05-04-01-script_in_progress.md)
 
-[⬅️ 이전: 13.3.5.3. 텍스트 추가하기(Adding the Text)](./13-03-05-03-00-adding_the_text.md)
+[⬅️ 이전: 13.3.5.3.1. 작업중인 스크립트](./13-03-05-03-01-script_in_progress.md)
 
 [⬆️ 위: 13.3.5. 스크립트 개선하기(Giving our script some guts)](./13-03-05-00-giving-our-script-some-guts.md)
 

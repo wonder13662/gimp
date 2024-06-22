@@ -99,9 +99,9 @@
 ## 다른 페이지로 가기
 [➡️ 다음: 7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기](./07-02-01-01-02-moving_the_selection_with_the_image_contents.md)
 
-[⬅️ 이전: 7.2.1.1. 사각 선택 도구와 타원 선택 도구를 사용해서 선택 옮기기](./07-02-01-00-moving-or-resizing-a-selection.md)
+[⬅️ 이전: 7.2.1.1. 사각 선택 도구와 타원 선택 도구를 사용해서 선택 옮기기](./07-02-01-01-00-moving_selections_using_the_rectangle_and_ellipse_select_tools.md)
 
-[⬆️ 위: 7.2.1.1. 사각 선택 도구와 타원 선택 도구를 사용해서 선택 옮기기](./07-02-01-00-moving-or-resizing-a-selection.md)
+[⬆️ 위: 7.2.1.1. 사각 선택 도구와 타원 선택 도구를 사용해서 선택 옮기기](./07-02-01-01-00-moving_selections_using_the_rectangle_and_ellipse_select_tools.md)
 
 [⬆️ 위: 7.2.1. 선택 옮기기와 크기 조정하기](./07-02-01-00-moving-or-resizing-a-selection.md)
 

@@ -82,7 +82,7 @@
 ## 다른 페이지로 가기
 [➡️ 다음: 7.8. GIH 대화상자](./07-08-00-the-gih-dialog-box.md)
 
-[⬅️ 이전: 7.6. 붓](./07-06-00-brushes.md)
+[⬅️ 이전: 7.6.6. MyPaint 붓](./07-06-06-mypaint_brush.md)
 
 [⬆️ 위: 7. GIMP(김프)로 그리기](./07-00-painting-with-gimp.md)
 

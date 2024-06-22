@@ -57,7 +57,7 @@
 
 [➡️ 다음: 13.3.5.2.1. 작업중인 스크립트](./13-03-05-02-01-script_in_progress.md)
 
-[⬅️ 이전: 13.3.5.1. 새 이미지 만들기(Creating a New Image)](./13-03-05-01-00-creating_a_new_image.md)
+[⬅️ 이전: 13.3.5.1.1. 작업중인 스크립트](./13-03-05-01-01-script_in_progress.md)
 
 [⬆️ 위: 13.3.5. 스크립트 개선하기(Giving our script some guts)](./13-03-05-00-giving-our-script-some-guts.md)
 

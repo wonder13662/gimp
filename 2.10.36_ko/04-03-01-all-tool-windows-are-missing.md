@@ -26,7 +26,7 @@
 
 [➡️ 다음: 4.3.2. 도구 옵션 대화상자가 사라졌습니다](./04-03-02-tool-options-dialog-is-missing.md)
 
-[⬅️ 이전: 4.2.16. 문제가 생겼을 때 확인해보면 좋은 것들](./04-02-16-general-guidelines-on-what-to-check-if-you-are-stuck.md)
+[⬅️ 이전: 4.3. 잃어버린 창과 대화상자 해결하기](./04-03-00-how-to-fix-missing-windows-and-dialogs.md)
 
 [⬆️ 위: 4.3. 잃어버린 창과 대화상자 해결하기](./04-03-00-how-to-fix-missing-windows-and-dialogs.md)
 
