@@ -69,7 +69,7 @@ C 언어로 짜인 플러그인 외에 [스크립트](./13-00-scripting.md)를 �
 ## 다른 페이지로 가기
 [➡️ 다음: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 
-[⬅️ 이전: 2.2. 설정 폴더들](./02-02-configuration-folders.md)
+[⬅️ 이전: 3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
 
 [⬆️ 위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 

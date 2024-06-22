@@ -145,9 +145,10 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 ***
 
 ## 다른 페이지로 가기
+
 [➡️ 다음: 3.4.5. 이미지 잘라내기](./03-04-05-crop-an-image.md)
 
-[⬅️ 이전: 3.4.3. 이미지의 크기 바꾸기 (인쇄용)](./03-04-03-change-the-size-of-an-Image-for-print.md)
+[⬅️ 이전: 3.4.3. 이미지의 크기 바꾸기 (인쇄용)](./03-04-03-change-the-size-of-an-image-for-print.md)
 
 [⬆️ 위: 3.4. 자주하는 편집 작업](./03-04-00-common-tasks.md)
 
@@ -155,6 +156,9 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 
 [원본](https://docs.gimp.org/2.10/en_GB/gimp-tutorial-quickie-jpeg.html)
 
+***
+
 ## 관련 정보
 [Gimp-Forum.net: What your mom never told you about PNG compression levels](https://www.gimp-forum.net/Thread-What-your-mom-never-told-you-about-PNG-compression-levels)
+
 (TODO 정리 필요)

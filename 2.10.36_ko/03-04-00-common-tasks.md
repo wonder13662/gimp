@@ -8,7 +8,7 @@
 
 [3.4.2. 이미지의 크기 바꾸기 (화면용)](./03-04-02-change-the-size-of-an-image-for-the-screen.md)
 
-[3.4.3. 이미지의 크기 바꾸기 (인쇄용)](./03-04-03-change-the-size-of-an-Image-for-print.md)
+[3.4.3. 이미지의 크기 바꾸기 (인쇄용)](./03-04-03-change-the-size-of-an-image-for-print.md)
 
 [3.4.4. 이미지 압축하기](./03-04-04-compressing-images.md)
 

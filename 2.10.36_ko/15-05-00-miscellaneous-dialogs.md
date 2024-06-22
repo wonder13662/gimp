@@ -4,7 +4,7 @@
 ## [15.5.2. 도구 프리셋 편집기(Tool preset editor)](./15-05-02-tool-preset-editor.md)
 ## [15.5.3. 장치 상태 대화상자(Device status dialog)](./15-05-03-device-status-dialog.md)
 ## [15.5.4. 에러 콘솔(Error console)](./15-05-04-error-console.md)
-## [15.5.5. 대시보드(Dashboard)](./15-05-05-dashboard.md)
+## [15.5.5. 상황판(Dashboard)](./15-05-05-dashboard.md)
 ## [15.5.6. 파일 저장하기(Save file)](./15-05-06-save-file.md)
 ## [15.5.7. 파일 내보내기(Export file)](./15-05-07-export-file.md)
 ## [15.5.8. 표본점 대화상자(Sample points dialog)](./15-05-08-sample-points-dialog.md)

@@ -82,7 +82,7 @@
 
 [➡️ 다음: 4.2.2. 숨겨진 선택](./04-02-02-the-selection-is-hidden.md)
 
-[⬅️ 이전: 4.1. 소개](./04-01-introduction.md)
+[⬅️ 이전: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
 
 [⬆️ 위: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
 

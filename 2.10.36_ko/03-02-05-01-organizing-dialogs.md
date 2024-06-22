@@ -116,7 +116,7 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 
 <a id="90-05-16-a181"></a>
 
-#### [영상 90.5.16.a181. 탭 메뉴의 탭 추가하기](./90-05-16-tab_menu.md#90-05-16-a181)
+#### [영상 90.5.16.a181. 탭 메뉴의 탭 추가하기](./90-05-16-00-tab_menu.md#90-05-16-a181)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5831e5d3-eb1f-403a-a7ff-55fd7b8fb6df"></video>
 
 
@@ -139,7 +139,9 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 ## 다른 페이지로 가기
 [➡️ 다음: 3.2.5.2. 탭 메뉴 (Tab Menu)](./03-02-05-02-tab-menu.md)
 
-[⬅️ 이전: 3.2.2. 이미지 창](./03-02-04-00-image-window.md)
+[⬅️ 이전: 3.2.5. 대화상자(Dialog)와 도킹(docking)](./03-02-05-00-dialogs-and-docking.md)
+
+[⬆️ 위: 3.2.5. 대화상자(Dialog)와 도킹(docking)](./03-02-05-00-dialogs-and-docking.md)
 
 [⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 

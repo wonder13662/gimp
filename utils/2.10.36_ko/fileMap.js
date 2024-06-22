@@ -87,7 +87,7 @@ module.exports = {
         '3.4.2. 이미지의 크기 바꾸기 (화면용)',
       ],
       [
-        '03-04-03-change-the-size-of-an-Image-for-print.md', 
+        '03-04-03-change-the-size-of-an-image-for-print.md', 
         '3.4.3. Change the size of an Image for print',
         '3.4.3. 이미지의 크기 바꾸기 (인쇄용)',
       ],
@@ -202,7 +202,7 @@ module.exports = {
         '4.2.9. 붓, 지우개 또는 다른 도구로 작업한 효과가 보이지 않는 경우'
       ],
       [
-        '04-02-10-no-visible-effect-when-trying-to-use-the-move-tool-rotate-or-other-transform–tool.md', 
+        '04-02-10-no-visible-effect-when-trying-to-use-the-move-tool-rotate-or-other-transform-tool.md', 
         '4.2.10. No visible effect when trying to use the move tool rotate or other transform–tool',
         '4.2.10. 이동, 회전 또는 다른 변형 도구로 작업한 효과가 보이지 않는 경우'
       ],
@@ -1222,7 +1222,7 @@ module.exports = {
       ],
       [
         '15-05-05-dashboard.md', 
-        '15.5.5. 대시보드(Dashboard)'
+        '15.5.5. 상황판(Dashboard)'
       ],
       [
         '15-05-06-save-file.md', 

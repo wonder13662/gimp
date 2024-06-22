@@ -110,7 +110,7 @@
 
 [15.5.4. 에러 콘솔(Error console)](./15-05-04-error-console.md)
 
-[15.5.5. 대시보드(Dashboard)](./15-05-05-dashboard.md)
+[15.5.5. 상황판(Dashboard)](./15-05-05-dashboard.md)
 
 [15.5.6. 파일 저장하기(Save file)](./15-05-06-save-file.md)
 

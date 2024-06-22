@@ -341,7 +341,7 @@
 
 [➡️ 다음: 3.5.2. 직선그리기 예제들](./03-05-02-examples.md)
 
-[⬅️ 이전: 3.4.10. 원하는 개체만 선택하여 분리하기](./03-04-10-separating-an-object-from-its-background.md)
+[⬅️ 이전: 3.5. 직선 그리기](./03-05-00-how-to-draw-straight-lines.md)
 
 [⬆️ 위: 3.5. 직선 그리기](./03-05-00-how-to-draw-straight-lines.md)
 

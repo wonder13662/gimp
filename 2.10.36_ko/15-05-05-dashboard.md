@@ -1,4 +1,4 @@
-# 15.5.5. 대시보드(Dashboard)
+# 15.5.5. 상황판(Dashboard)
 
 ### [Home](./00-home.md)
 ### [Parent: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)

@@ -6,7 +6,7 @@ const doAsyncJob = async () => {
   try {
     // 1. 모든 페이지 파일의 목록을 가져온다.
     const pageFileListPath = `${path.normalize(`${__dirname}/../../..`)}/2.10.36_ko`
-
+    
     // 1-1. 파일 경로 검사
     fs.access(pageFileListPath, fs.constants.R_OK, (err) => {
       if (err) {
@@ -14,10 +14,10 @@ const doAsyncJob = async () => {
         throw err
       }
     });
-
+    
     // 1-2. 파일 목록 가져오기
-    const files = await fsPromises.readdir(pageFileListPath);
-    // const files = ['90-10-27-01-00-keyboard_shortcut.md']; // NOTE: 개별 파일 검사시 사용
+    const files = await fsPromises.readdir(pageFileListPath);    
+    // const files = ['03-02-05-01-organizing-dialogs.md']; // NOTE: 개별 파일 검사시 사용
     console.log(`모두 ${files.length} 개의 파일을 검사합니다.`)
 
     for (let i = 0; i < files.length; i++) {

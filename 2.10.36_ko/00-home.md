@@ -1,4 +1,9 @@
-# Part I. 시작하기
+# GIMP(김프) 2.10.36
+
+***
+
+## Part I. 시작하기
+
 [1. 소개](./01-00-introduction.md)
 
 [1.1. GIMP(김프)에 오신 것을 환영합니다](./01-01-welcome-to-gimp.md)
@@ -75,7 +80,7 @@
 
 [3.4.2. 이미지의 크기 바꾸기 (화면용)](./03-04-02-change-the-size-of-an-image-for-the-screen.md)
 
-[3.4.3. 이미지의 크기 바꾸기 (인쇄용)](./03-04-03-change-the-size-of-an-Image-for-print.md)
+[3.4.3. 이미지의 크기 바꾸기 (인쇄용)](./03-04-03-change-the-size-of-an-image-for-print.md)
 
 [3.4.4. 이미지 압축하기](./03-04-04-compressing-images.md)
 
@@ -121,7 +126,7 @@
 
 [4.2.9. 붓, 지우개 또는 다른 툴로 작업한 효과가 보이지 않는 경우](./04-02-09-no-visible-effect-when-trying-to-use-a-brush-eraser-or-other-tool.md)
 
-[4.2.10. 이동, 회전 또는 다른 변형 도구로 작업한 효과가 보이지 않는 경우](./04-02-10-no-visible-effect-when-trying-to-use-the-move-tool-rotate-or-other-transform–tool.md)
+[4.2.10. 이동, 회전 또는 다른 변형 도구로 작업한 효과가 보이지 않는 경우](./04-02-10-no-visible-effect-when-trying-to-use-the-move-tool-rotate-or-other-transform-tool.md)
 
 [4.2.11. 지우개와 붓이 작동하지 않습니다](./04-02-11-eraser-and-brushes-no-longer-work.md)
 
@@ -151,7 +156,10 @@
 
 [4.4.2. gif 이미지로 내보냈더니 색상이 바뀌었습니다](./04-04-02-i-am-exporting-to-a-gif-image-and-the-colors-changed.md)
 
-# Part II. GIMP(김프) 마법사가 되려면?
+***
+
+## Part II. GIMP(김프) 마법사가 되려면?
+
 [5. GIMP(김프)로 이미지 불러오기](./05-00-getting-images-into-gimp.md)
 
 [5.1. 이미지 타입](./05-01-image-types.md)
@@ -946,7 +954,10 @@
 
 [13.4.13. Truchet](./13-04-13-truchet.md)
 
-# Part III. 기능 설명(Function Reference)
+***
+
+## Part III. 기능 설명(Function Reference)
+
 [14. 도구(Tools)](./14-00-tools.md)
 
 [14.1. 도구상자(The toolbox)](./14-01-00-the-toolbox.md)
@@ -1711,7 +1722,7 @@
 
 [15.5.4. 에러 콘솔(Error console)](./15-05-04-error-console.md)
 
-[15.5.5. 대시보드(Dashboard)](./15-05-05-dashboard.md)
+[15.5.5. 상황판(Dashboard)](./15-05-05-dashboard.md)
 
 [15.5.6. 파일 저장하기(Save file)](./15-05-06-save-file.md)
 
@@ -3168,7 +3179,65 @@
 
 [90.5.15. 독(Dock)](./90-05-15-dock.md)
 
-[90.5.16. 탭 메뉴 (Tab Menu)](./90-05-16-tab_menu.md)
+[90.5.16. 탭 메뉴 (Tab Menu)](./90-05-16-00-tab_menu.md)
+
+[90.5.16.1. 탭 추가(Add Tab)](./90-05-16-01-00-add_tab.md)
+
+[90.5.16.1.1. 도구 옵션(Tool Options)](./90-05-16-01-01-tool_options.md)
+
+[90.5.16.1.2. 장치 상태(Devide Status)](./90-05-16-01-02-device_status.md)
+
+[90.5.16.1.3. 레이어(Layers)](./90-05-16-01-03-layers.md)
+
+[90.5.16.1.4. 채널(Channels)](./90-05-16-01-04-channels.md)
+
+[90.5.16.1.5. 경로(Paths)](./90-05-16-01-05-paths.md)
+
+[90.5.16.1.6. 색상표(Colormap)](./90-05-16-01-06-colormap.md)
+
+[90.5.16.1.7. 히스토그램(Histogram)](./90-05-16-01-07-histogram.md)
+
+[90.5.16.1.8. 선택 영역 편집기(Selection Editor)](./90-05-16-01-08-selection_editor.md)
+
+[90.5.16.1.9. 내비게이션(Navigation)](./90-05-16-01-09-navigation.md)
+
+[90.5.16.1.10. 실행취소 이력(Undo History)](./90-05-16-01-10-undo_history.md)
+
+[90.5.16.1.11. 포인터(Pointer)](./90-05-16-01-11-pointer.md)
+
+[90.5.16.1.12. 표본점(Sample Points)](./90-05-16-01-12-sample_points.md)
+
+[90.5.16.1.13. 대칭 페인팅(Symmetry Painting)](./90-05-16-01-13-symmetry_painting.md)
+
+[90.5.16.1.14. 색(Colors)](./90-05-16-01-14-colors.md)
+
+[90.5.16.1.15. 붓(Brushes)](./90-05-16-01-15-brushes.md)
+
+[90.5.16.1.16. 페인트 동적요소(Paint Dynamics)](./90-05-16-01-16-paint_dynamics.md)
+
+[90.5.16.1.17. 마이페인트 붓(MyPaint Brushes)](./90-05-16-01-17-mypaint_brushes.md)
+
+[90.5.16.1.18. 무늬(Patterns)](./90-05-16-01-18-patterns.md)
+
+[90.5.16.1.19. 그라디언트(Gradients)](./90-05-16-01-19-gradients.md)
+
+[90.5.16.1.20. 팔레트(Palettes)](./90-05-16-01-20-palettes.md)
+
+[90.5.16.1.21. 글꼴(Fonts)](./90-05-16-01-21-fonts.md)
+
+[90.5.16.1.22. 도구 프리셋(Tool Presets)](./90-05-16-01-22-tool_presets.md)
+
+[90.5.16.1.23. 버퍼(Buffers)](./90-05-16-01-23-buffers.md)
+
+[90.5.16.1.24. 이미지(Images)](./90-05-16-01-24-images.md)
+
+[90.5.16.1.25. 문서 이력(Document History)](./90-05-16-01-25-document_history.md)
+
+[90.5.16.1.26. 양식(Templates)](./90-05-16-01-26-templates.md)
+
+[90.5.16.1.27. 오류 콘솔(Error Console)](./90-05-16-01-27-error_console.md)
+
+[90.5.16.1.28. 상황판(Dashboard)](./90-05-16-01-28-dashboard.md)
 
 [90.5.17. 이미지 탭 바 (Image Tab Bar)](./90-05-17-image_tab_bar.md)
 

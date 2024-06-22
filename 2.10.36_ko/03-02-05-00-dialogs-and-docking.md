@@ -14,7 +14,7 @@
 
 [➡️ 다음: 3.2.5.1. 대화 상자 위치 변경하기](./03-02-05-01-organizing-dialogs.md)
 
-[⬅️ 이전: 3.2.2. 이미지 창](./03-02-04-00-image-window.md)
+[⬅️ 이전: 3.2.4.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle)](./03-02-04-14-image-window-resize-toggle.md)
 
 [⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 

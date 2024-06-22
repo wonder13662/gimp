@@ -32,7 +32,7 @@
 
 [➡️ 다음: 2.1.1. GIMP(김프)가 실행가능한 플랫폼들(Known Platforms)](./02-01-01-known_platforms.md)
 
-[⬅️ 이전: 1.2. GIMP(김프)의 새로운 기능 알아보기](./01-02-whats-new-in-gimp.md)
+[⬅️ 이전: 2. GIMP(김프) 시작하기](./02-00-fire-up-gimp.md)
 
 [⬆️ 위: 2. GIMP(김프) 시작하기](./02-00-fire-up-gimp.md)
 
