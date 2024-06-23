@@ -6,6 +6,7 @@ const hasPrevPage = require('./has_prev_page')
 const hasNextPage = require('./has_next_page')
 const hasParentPage = require('./has_parent_page')
 const hasUnrelatedParentPage = require('./has_unrelated_parent_page')
+const validateLinksInPage = require('./validate_links_in_page')
 
 const doAsyncJob = async () => {
   try {
@@ -54,6 +55,9 @@ const doAsyncJob = async () => {
 
       // 4. 페이지 내의 관련없는 부모 페이지 링크 여부 검사
       hasUnrelatedParentPage.doAsyncJob(pageRootPath, files, i)
+
+      // 5. 페이지 내의 모든 링크 유효성 검사
+      validateLinksInPage.doAsyncJob(pageRootPath, files, i)
 
     }
   } catch (err) {
