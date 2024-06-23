@@ -84,7 +84,7 @@
 
 [➡️ 다음: 7.8.2.2. 3차원 이미지 호스(A three dimension image hose)](./07-08-02-02-three_dimension_image_hose.md)
 
-[⬅️ 이전: 7.8.1. GIH 대화상자 - 설정값](./07-08-01-dialog_options_of_export_image_as_brush_pipe.md)
+[⬅️ 이전: 7.8.2. 예제(Examples)](./07-08-02-00-example.md)
 
 [⬆️ 위: 7.8.2. 예제(Examples)](./07-08-02-00-example.md)
 

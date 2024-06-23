@@ -44,13 +44,13 @@ const doAsyncJob = async () => {
     for (let i = 0; i < files.length; i++) {
       // 개별 검사 함수 호출
       // 1. 이전 페이지 검사
-      // hasPrevPage.doAsyncJob(pageRootPath, files, i)
+      hasPrevPage.doAsyncJob(pageRootPath, files, i)
 
       // 2. 다음 페이지 검사
-      // hasNextPage.doAsyncJob(pageRootPath, files, i)
+      hasNextPage.doAsyncJob(pageRootPath, files, i)
       
       // 3. 부모 페이지 검사
-      // hasParentPage.doAsyncJob(pageRootPath, files, i, fileNumberSet)
+      hasParentPage.doAsyncJob(pageRootPath, files, i, fileNumberSet)
 
       // 4. 페이지 내의 관련없는 부모 페이지 링크 여부 검사
       hasUnrelatedParentPage.doAsyncJob(pageRootPath, files, i)

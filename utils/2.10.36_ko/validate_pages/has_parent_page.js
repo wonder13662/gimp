@@ -4,8 +4,6 @@ const path = require('node:path');
 
 const { getParentPageNumbers } = require('./utils')
 
-const isPageNumberStr = (src) => Number(src) > 0
-
 module.exports = {
   doAsyncJob: async (pageRootPath, files, i, fileNumberSet) => {
 
