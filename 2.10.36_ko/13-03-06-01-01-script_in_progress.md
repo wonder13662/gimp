@@ -133,9 +133,9 @@
 
 [⬅️ 이전: 13.3.6.1. 실행취소 다루기(Handling Undo Correctly)](./13-03-06-01-00-handling_undo_correctly.md)
 
-[⬆️ 위: 13.3.5.4. 더티 플래그 지우기(Clearing the Dirty Flag)](./13-03-05-04-00-clearing_the_dirty_flag.md)
+[⬆️ 위: 13.3.6.1. 실행취소 다루기(Handling Undo Correctly)](./13-03-06-01-00-handling_undo_correctly.md)
 
-[⬆️ 위: 13.3.5. 스크립트 개선하기(Giving our script some guts)](./13-03-05-00-giving-our-script-some-guts.md)
+[⬆️ 위: 13.3.6. 텍스트 박스 스크립트 확장하기(Extending the text box script)](./13-03-06-00-extending-the-text-box-script.md)
 
 [⬆️ 위: 13.3. Script-Fu 튜토리얼(A Script-Fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
 

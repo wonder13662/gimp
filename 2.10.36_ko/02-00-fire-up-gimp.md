@@ -14,7 +14,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
+[➡️ 다음: 2.1. GIMP(김프) 실행하기](./02-01-00-running-gimp.md)
 
 [⬅️ 이전: 1.2. GIMP(김프)의 새로운 기능 알아보기](./01-02-whats-new-in-gimp.md)
 

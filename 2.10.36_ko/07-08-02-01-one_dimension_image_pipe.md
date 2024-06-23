@@ -64,6 +64,7 @@
 ![07-08-02-01-dialog-export_image_as_gih(windows)(ko)-focus-selection_random](https://github.com/wonder13662/gimp/assets/15767104/35a7f24a-6eb4-448c-a6ac-5e74098ed851)
 
 수정한 붓으로 이미지에 칠해보면 숫자가 무작위(Random)으로 나오는 것을 확인할 수 있습니다.
+
 #### 영상 7.8.2.1.a142. 새로운 붓으로 칠하기(`Selection`: "Random")
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0c8a1a62-c655-4d4b-8071-c9ee2565966f"></video>
 
@@ -73,15 +74,19 @@
 ![07-08-02-01-dialog-export_image_as_gih(windows)(ko)-selection_angular-focus](https://github.com/wonder13662/gimp/assets/15767104/bf7ca8c3-5104-4c0d-bb44-103f32b9e857)
 
 수정한 붓으로 이미지에 칠해보면 숫자가 드래그하는 각도(Angular)에 따라 나오는 것을 확인할 수 있습니다.
+
 #### 영상 7.8.2.1.a152. 새로운 붓으로 칠하기(`Selection`: "Angular")
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4a862735-c3bb-4c03-ac90-d604c6e1fc8b"></video>
 
 ***
 
 ## 다른 페이지로 가기
+
 [➡️ 다음: 7.8.2.2. 3차원 이미지 호스(A three dimension image hose)](./07-08-02-02-three_dimension_image_hose.md)
 
 [⬅️ 이전: 7.8.1. GIH 대화상자 - 설정값](./07-08-01-dialog_options_of_export_image_as_brush_pipe.md)
+
+[⬆️ 위: 7.8.2. 예제(Examples)](./07-08-02-00-example.md)
 
 [⬆️ 위: 7.8. GIH 대화상자](./07-08-00-the-gih-dialog-box.md)
 

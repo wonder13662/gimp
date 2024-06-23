@@ -20,6 +20,8 @@
 
 [⬅️ 이전: 14.4.14.2.5. 고화질 미리보기(High quality preview)](./14-04-14-02-05-high_quality_preview.md)
 
+[⬆️ 위: 14.4.14.2. 옵션(Options)](./14-04-14-02-00-options.md)
+
 [⬆️ 위: 14.4.14. 워프 변형(Warp transform)](./14-04-14-00-warp-transform.md)
 
 [⬆️ 위: 14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)

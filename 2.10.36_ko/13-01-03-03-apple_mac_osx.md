@@ -18,7 +18,7 @@
 
 [⬅️ 이전: 13.1.3.2. 마이크로소프트 윈도우즈(Microsoft Windows)](./13-01-03-02-microsoft_windows.md)
 
-[⬆️ 위: 13.1.3. 새 플러그인 설치하기(Installing New Plugins)](./13-01-00-plugins.md)
+[⬆️ 위: 13.1.3. 새 플러그인 설치하기(Installing New Plugins)](./13-01-03-00-installing_new_plugins.md)
 
 [⬆️ 위: 13.1. 플러그인(Plugins)](./13-01-00-plugins.md)
 

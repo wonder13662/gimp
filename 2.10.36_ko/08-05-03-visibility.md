@@ -14,6 +14,8 @@
 
 [⬅️ 이전: 8.5.2. 레이어 그룹에 레이어 넣기(Adding Layers to a Layer Group)](./08-05-02-adding_layers_to_a_layer_group.md)
 
+[⬆️ 위: 8.5. 레이어 그룹](./08-05-00-layer-groups.md)
+
 [⬆️ 위: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 
 [🏠 홈](./00-home.md)

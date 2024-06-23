@@ -22,7 +22,7 @@
 
 [⬅️ 이전: 13.1.3.1. 리눅스/유닉스 계열 시스템(Linux/Unix-like systems)](./13-01-03-01-linux_unix_like_systems.md)
 
-[⬆️ 위: 13.1.3. 새 플러그인 설치하기(Installing New Plugins)](./13-01-00-plugins.md)
+[⬆️ 위: 13.1.3. 새 플러그인 설치하기(Installing New Plugins)](./13-01-03-00-installing_new_plugins.md)
 
 [⬆️ 위: 13.1. 플러그인(Plugins)](./13-01-00-plugins.md)
 

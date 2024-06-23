@@ -18,7 +18,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 8.2.2.2. 휘도가 밝은 색만(Luma/Luminance lighten only)](./08-02-02-02-00-luma.md)
+[➡️ 다음: 8.2.2.1.1. 밝은 색만(Lighten only) 모드 방정식](./08-02-02-01-01-equation.md)
 
 [⬅️ 이전: 8.2.2. 레이어 모드-Lighten](./08-02-02-00-lighten-layer-mode.md)
 

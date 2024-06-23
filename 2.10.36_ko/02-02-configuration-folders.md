@@ -24,7 +24,8 @@ GIMP를 처음 실행하면 옵션과 디렉토리를 설정하는 여러 단계
 2. 작업 중 갑자기 GIMP(김프)가 멈추거나 특정 기능을 사용할 수 없는 경우, [4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md) 페이지를 참고하면 해결할 수 있습니다.
 
 ## 다른 페이지로 가기
-[➡️ 다음: 3.1. GIMP(김프)의 기본 개념들](./03-01-basic-concepts.md)
+
+[➡️ 다음: 3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
 
 [⬅️ 이전: 2.1.3. 커맨드 라인 실행 옵션들(Command line arguments)](./02-01-03-command_line_arguments.md)
 

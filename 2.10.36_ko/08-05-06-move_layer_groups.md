@@ -24,6 +24,8 @@
 
 [⬅️ 이전: 8.5.5. 레이어 그룹 복사하기(Duplicate a Layer Group)](./08-05-05-duplicate_a_layer_group.md)
 
+[⬆️ 위: 8.5. 레이어 그룹](./08-05-00-layer-groups.md)
+
 [⬆️ 위: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 
 [🏠 홈](./00-home.md)

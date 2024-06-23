@@ -7,7 +7,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 4.2.1. 떠있는 선택](./04-02-01-there-is-a-floating-selection.md)
+[➡️ 다음: 4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)
 
 [⬅️ 이전: 4. 문제 해결하기](./04-00-what-to-do-if-you-are-stuck.md)
 

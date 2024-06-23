@@ -34,13 +34,13 @@ const extractPrevPageTitle = (line) => {
 }
 
 module.exports = {
-  doAsyncJob: async (pageFileListPath, files, i) => {
+  doAsyncJob: async (pageRootPath, files, i) => {
     // 1. 파라미터 검사
     // 1-1. 페이지 경로
-    if (!pageFileListPath) {
+    if (!pageRootPath) {
       throw new Error([
         '\n[에러] 1-1. 페이지의 경로가 유효하지 않습니다',
-        `경로: "${pageFileListPath}"`,
+        `경로: "${pageRootPath}"`,
       ].join('\n'))
     }
 
@@ -61,13 +61,13 @@ module.exports = {
     
     // 2-1. 개별 페이지 내용 가져오기
     const fileName = files[i];
-    const pagePath = `${pageFileListPath}/${fileName}`;
+    const pagePath = `${pageRootPath}/${fileName}`;
     fs.access(pagePath, fs.constants.R_OK, (err) => {
       if (err) {
         throw new Error([
           '\n[에러] 2-1. 페이지의 경로가 유효하지 않습니다',
           `페이지: "${fileName}"`,
-          `경로: "${pageFileListPath}"`,
+          `경로: "${pageRootPath}"`,
         ].join('\n'))
       }
     });
@@ -100,7 +100,7 @@ module.exports = {
 
       // 3-3. 제목 비교하기
       const title = extractPrevPageTitle(line);
-      const prevPagePath = `${pageFileListPath}/${prevFileName}`;
+      const prevPagePath = `${pageRootPath}/${prevFileName}`;
       const prevPageContents = await fsPromises.readFile(prevPagePath, { encoding: 'utf8' });
 
       if (prevPageContents.indexOf(title) < 0) {

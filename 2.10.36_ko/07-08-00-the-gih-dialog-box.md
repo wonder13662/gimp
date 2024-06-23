@@ -1,4 +1,5 @@
 # 7.8. GIH 대화상자
+
 ## 1. `이미지를 붓 파이프로 내보내기` 대화상자 열기
 새 움직이는 붓을 만들고, [`.gih`](./19-glossaryx-gih.md) 포맷으로 저장하려면, [이미지 메뉴 바](./03-02-04-02-image-menu.md)의 `파일` → `Export As...`을 눌러 대화상자를 엽니다.
 
@@ -21,7 +22,14 @@
 ## 2. `이미지를 붓 파이프로 내보내기` 대화상자의 설정값
 [7.8.1. GIH 대화상자 - 설정값](./07-08-01-dialog_options_of_export_image_as_brush_pipe.md)
 
-## 3. 예제
+***
+
+## 하위 페이지
+
+[7.8.1. GIH 대화상자 - 설정값](./07-08-01-dialog_options_of_export_image_as_brush_pipe.md)
+
+[7.8.2. 예제(Examples)](./07-08-02-00-example.md)
+
 [7.8.2.1. 1차원 이미지 파이프(One diemnsion image pipe)](./07-08-02-01-one_dimension_image_pipe.md)
 
 [7.8.2.2. 3차원 이미지 호스(A 3 dimension image hose)](./07-08-02-02-three_dimension_image_hose.md)

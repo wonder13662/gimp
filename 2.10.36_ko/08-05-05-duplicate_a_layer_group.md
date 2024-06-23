@@ -42,6 +42,8 @@
 
 [⬅️ 이전: 8.5.4. 레이어 그룹 올리기/내리기(Raise and Lower Layer Groups)](./08-05-04-raise_n_lower_layer_groups.md)
 
+[⬆️ 위: 8.5. 레이어 그룹](./08-05-00-layer-groups.md)
+
 [⬆️ 위: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 
 [🏠 홈](./00-home.md)

@@ -1,5 +1,9 @@
 # 4. 문제 해결하기
 
+***
+
+## 하위 페이지
+
 [4.1. 소개](./04-01-introduction.md)
 
 [4.2. GIMP(김프)가 멈추었을 때의 원인](./04-02-00-common-causes-of-gimp-non-responsiveness.md)

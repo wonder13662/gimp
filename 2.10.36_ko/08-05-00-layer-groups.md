@@ -34,6 +34,7 @@
 ***
 
 ## 다른 페이지로 가기
+
 [➡️ 다음: 8.5.1. 레이어 그룹 만들기(Create a Layer Group)](./08-05-01-create_a_layer_group.md)
 
 [⬅️ 이전: 8.4. 새 레이어 만들기](./08-04-creating-new-layers.md)

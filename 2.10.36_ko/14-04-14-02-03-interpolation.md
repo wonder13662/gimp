@@ -10,6 +10,8 @@
 
 [⬅️ 이전: 14.4.14.2.2. 크기, 경도, 강도, 여백 설정하기(Adapting Size, Hardness, Strength, Spacing)](./14-04-14-02-02-adapting.md)
 
+[⬆️ 위: 14.4.14.2. 옵션(Options)](./14-04-14-02-00-options.md)
+
 [⬆️ 위: 14.4.14. 워프 변형(Warp transform)](./14-04-14-00-warp-transform.md)
 
 [⬆️ 위: 14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)

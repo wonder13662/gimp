@@ -23,21 +23,30 @@
 아래 도구 목록들은 직선그리기가 가능합니다.
 
 - [그리기 붓(Paintbrush)](./14-03-07-00-paintbrush.md)
+
 - [연필(Pencil)](./14-03-06-00-pencil.md)
+
 - [에어브러시(Airbrush)](./14-03-10-00-airbrush.md)
+
 - [잉크(Ink)](./14-03-11-00-ink.md)
+
 - [MyPaint 붓(MyPaint Brush)](./14-03-08-00-mypaint-brush.md)
+
 - [도장(Clone)](./14-03-12-00-clone.md)
+
 - [원근 복제(Perspective Clone)](./14-03-14-00-perspective-clone.md)
+
 - [복원(Heal)](./14-03-13-00-heal.md)
+
 - [문지르기(Smudge)](./14-03-16-00-smudge.md)
+
 - [흐릿하게/선명하게(Blur/Sharpen)](./14-03-15-00-blur-sharpen.md)
+
 - [닷지/번(Dodge/Burn)](./14-03-17-00-dodge-burn.md)
+
 - [지우개(Eraser)](./14-03-09-00-eraser.md)
 
 이번 예제에서는 붓(Paintbrush)를 사용해보도록 하겠습니다.
-
-#### 그림 3.5.1.2.1. 도구상자에서 직선을 그릴 수 있는 도구들
 
 <a id="03-05-01-s3"></a>
 
@@ -335,6 +344,8 @@
 #### [영상 90.3.2.28.a101. 지우개(Eraser)의 직선그리기](./90-03-02-28-eraser.md#90-03-02-28-a101)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8a80fba9-b6e8-41fd-bd2c-6427f7175a37"></video>
 
+<a comment="페이지 분리 필요"></a>
+
 ***
 
 ## 다른 페이지로 가기
@@ -344,6 +355,8 @@
 [⬅️ 이전: 3.5. 직선 그리기](./03-05-00-how-to-draw-straight-lines.md)
 
 [⬆️ 위: 3.5. 직선 그리기](./03-05-00-how-to-draw-straight-lines.md)
+
+[⬆️ 위: 3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
 
 [🏠 홈](./00-home.md)
 

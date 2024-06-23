@@ -3,9 +3,11 @@
 
 ⚠️ 주의: `Geeqie`는 Windows 11부터 제공되며, 일반적인 installer를 제공하지 않습니다. Windows 10의 경우에는 실행이 가능하다고 하나 검증되지는 않았습니다.
 
+***
+
 ## 다른 페이지로 가기
 
-[➡️ 다음: 6.1. Files](./06-01-00-files.md)
+[➡️ 다음: 6. GIMP(김프)에서 이미지 내보내기](./06-00-getting-images-out-of-gimp.md)
 
 [⬅️ 이전: 5.3.7. 복사와 붙여넣기](./05-03-07-copy-and-paste.md)
 

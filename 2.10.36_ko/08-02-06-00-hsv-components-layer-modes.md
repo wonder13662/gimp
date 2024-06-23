@@ -16,7 +16,8 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 8.2.7. 레이어 모드-LCh components](./08-02-07-00-lch-components-layer-modes.md)
+
+[➡️ 다음: 8.2.6.1. HSV 색상(HSV Hue) ](./08-02-06-01-hsv_hue.md)
 
 [⬅️ 이전: 8.2.5.6. 나누기(Divide)](./08-02-05-06-divide.md)
 

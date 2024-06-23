@@ -131,6 +131,8 @@ GIMP가 새로 시작할 때마다, 이전에 종료하기 전까지 사용했�
 
 [⬅️ 이전: 3.2.2. 단일창 모드(single window mode)](./03-02-02-single_window_mode.md)
 
+[⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
+
 [⬆️ 위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
 
 [🏠 홈](./00-home.md)

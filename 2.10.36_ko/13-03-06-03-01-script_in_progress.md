@@ -141,7 +141,7 @@
 
 [⬆️ 위: 13.3.6.3. 매개변수와 등록 함수 수정하기(Modifying the Parameters and the Regitration Function)](./13-03-06-03-00-modifying_the_parameters_and_the_regitration_function.md)
 
-[⬆️ 위: 13.3.5. 스크립트 개선하기(Giving our script some guts)](./13-03-05-00-giving-our-script-some-guts.md)
+[⬆️ 위: 13.3.6. 텍스트 박스 스크립트 확장하기(Extending the text box script)](./13-03-06-00-extending-the-text-box-script.md)
 
 [⬆️ 위: 13.3. Script-Fu 튜토리얼(A Script-Fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
 

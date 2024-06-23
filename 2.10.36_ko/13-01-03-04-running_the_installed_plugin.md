@@ -25,7 +25,7 @@
 
 [⬅️ 이전: 13.1.3.3. 애플 맥 OS X(Apple Mac OS X)](./13-01-03-03-apple_mac_osx.md)
 
-[⬆️ 위: 13.1.3. 새 플러그인 설치하기(Installing New Plugins)](./13-01-00-plugins.md)
+[⬆️ 위: 13.1.3. 새 플러그인 설치하기(Installing New Plugins)](./13-01-03-00-installing_new_plugins.md)
 
 [⬆️ 위: 13.1. 플러그인(Plugins)](./13-01-00-plugins.md)
 

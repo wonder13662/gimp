@@ -14,7 +14,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 10.1.5. 이미지에서 필요없는 물체 없애기](./10-01-05-00-removing_unwanted_objects_from_an_image.md)
+[➡️ 다음: 10.1.4.1. 선명하게 하기(Unblurring)](./10-01-04-01-unblurring.md)
 
 [⬅️ 이전: 10.1.3.3. 색조 및 채도 조정](./10-01-03-03-adjusting_hue_and_saturation.md)
 

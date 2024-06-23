@@ -145,4 +145,6 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 
 [⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 
+[⬆️ 위: 3. GIMP(김프)의 첫 번째 단계](./03-00-first-step-with-gimp.md)
+
 [🏠 홈](./00-home.md)

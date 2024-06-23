@@ -11,6 +11,8 @@ GIMP는 복잡한 작업뿐만 아니라 간단한 작업을 하는데도 유용
 
 [⬆️ 위: 3.4. 자주하는 편집 작업](./03-04-00-common-tasks.md)
 
+[⬆️ 위: 3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
+
 [🏠 홈](./00-home.md)
 
 [원본](https://docs.gimp.org/2.10/ko/gimp-tutorial-quickies.html)

@@ -18,6 +18,8 @@
 
 [⬅️ 이전: 8.5.12. 레이어 찾기(Finding a layer)](./08-05-12-finding_a_layer.md)
 
+[⬆️ 위: 8.5. 레이어 그룹](./08-05-00-layer-groups.md)
+
 [⬆️ 위: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 
 [🏠 홈](./00-home.md)

@@ -134,7 +134,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 12.1. 기본설정 대화상자](./12-01-preference12-01-00-preference-dialog.md-dialog.md)
+[➡️ 다음: 12.1. 기본설정 대화상자](./12-01-00-preference-dialog.md)
 
 [⬅️ 이전: 11.1.2.3. 모의 인쇄](./11-01-02-03-print_simulation.md)
 

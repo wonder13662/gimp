@@ -23,7 +23,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 12.1.16. 화면(Display)](./12-01-16-00-display.md)
+[➡️ 다음: 12.1.15.1. 일반(General)](./12-01-15-01-general.md)
 
 [⬅️ 이전: 12.1.14. 대화상자 기본값(Dialog Defaults)](./12-01-14-dialog-defaults.md)
 

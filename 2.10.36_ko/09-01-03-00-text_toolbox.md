@@ -40,7 +40,8 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 9.1.4. 텍스트 컨텍스트 메뉴(Text Context Menu)](./09-01-04-00-text_context_menu.md)
+
+[➡️ 다음: 9.1.3.1. 선택한 텍스트의 글꼴(Font) 바꾸기](./09-01-03-01-font.md)
 
 [⬅️ 이전: 9.1.2. 텍스트 레이어 관리(Managing Text Layer)](./09-01-02-managing_text_layer.md)
 

@@ -44,6 +44,8 @@ GIMP는 똑똑한 내보내기 기능을 지원하기 때문에, 원하는 파�
 
 [⬆️ 위: 3.4. 자주하는 편집 작업](./03-04-00-common-tasks.md)
 
+[⬆️ 위: 3. GIMP(김프)의 첫번째 단계](./03-00-first-step-with-gimp.md)
+
 [🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-tutorial-quickie-change-mode.html)

@@ -49,6 +49,8 @@
 
 [⬅️ 이전: 12.1.4.2. 색상 관리 디스플레이(Color Managed Display)](./12-01-04-02-color_managed_display.md)
 
+[⬆️ 위: 12.1.4. 색상 관리(Color Management)](./12-01-04-00-color-management.md)
+
 [⬆️ 위: 12.1. 기본설정 대화상자](./12-01-00-preference-dialog.md)
 
 [⬆️ 위: 12. 나만의 GIMP(김프) 만들기](./12-00-enrich-my-gimp.md)

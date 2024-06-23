@@ -27,6 +27,8 @@
 
 [⬅️ 이전: 12.1.7.2. 비율 조정(Scaling)](./12-01-07-02-scaling.md)
 
+[⬆️ 위: 12.1.7. 도구 옵션(Tool Options)](./12-01-07-00-tool-options.md)
+
 [⬆️ 위: 12.1. 기본설정 대화상자](./12-01-00-preference-dialog.md)
 
 [⬆️ 위: 12. 나만의 GIMP(김프) 만들기](./12-00-enrich-my-gimp.md)

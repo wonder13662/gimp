@@ -13,6 +13,8 @@
 
 [⬅️ 이전: 8.5.9. 레이어 모드와 그룹(Layer Modes and Groups)](./08-05-09-layer_modes_n_groups.md)
 
+[⬆️ 위: 8.5. 레이어 그룹](./08-05-00-layer-groups.md)
+
 [⬆️ 위: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 
 [🏠 홈](./00-home.md)
