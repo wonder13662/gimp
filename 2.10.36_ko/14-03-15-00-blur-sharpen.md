@@ -74,8 +74,6 @@
 
 [⬅️ 이전: 14.3.14.4. 예제](./14-03-14-04-example.md)
 
-[⬆️ 위: 14.3.15. 흐릿하게/선명하게(Blur/sharpen)](./14-03-15-00-blur-sharpen.md)
-
 [⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
 
 [⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)

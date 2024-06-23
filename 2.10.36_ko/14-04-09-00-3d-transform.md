@@ -25,8 +25,6 @@
 
 [⬅️ 이전: 14.4.8.3. 원근법 조정 대화상자(The Perspective adjustment dialog)](./14-04-08-03-perspective_adjustment_dialog.md)
 
-[⬆️ 위: 14.4.9. 3차원 변형(Perspective)](./14-04-09-00-3d-transform.md)
-
 [⬆️ 위: 14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)
 
 [⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)

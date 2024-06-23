@@ -32,8 +32,6 @@
 
 [⬅️ 이전: 14.4.12.3. 옵션(Options)](./14-04-12-03-options.md)
 
-[⬆️ 위: 14.4.13. 골조 변형(The cage tool)](./14-04-13-00-the-cage-tool.md)
-
 [⬆️ 위: 14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)
 
 [⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)

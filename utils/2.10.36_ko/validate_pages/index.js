@@ -5,6 +5,7 @@ const path = require('node:path')
 const hasPrevPage = require('./has_prev_page')
 const hasNextPage = require('./has_next_page')
 const hasParentPage = require('./has_parent_page')
+const hasUnrelatedParentPage = require('./has_unrelated_parent_page')
 
 const doAsyncJob = async () => {
   try {
@@ -22,6 +23,7 @@ const doAsyncJob = async () => {
     // 1-2. 파일 목록 가져오기
     const files = await fsPromises.readdir(pageRootPath)
     // const files = ['03-02-05-01-organizing-dialogs.md']; // NOTE: 개별 파일 검사시 사용
+    // const files = ['14-03-05-03-01-mode.md']; // NOTE: 개별 파일 검사시 사용
     console.log(`모두 ${files.length} 개의 파일을 검사합니다.`)
 
     // 1-3. 파일 맵(숫자로만 구성)을 만들어 검색에 활용하기
@@ -48,7 +50,10 @@ const doAsyncJob = async () => {
       // hasNextPage.doAsyncJob(pageRootPath, files, i)
       
       // 3. 부모 페이지 검사
-      hasParentPage.doAsyncJob(pageRootPath, files, i, fileNumberSet)
+      // hasParentPage.doAsyncJob(pageRootPath, files, i, fileNumberSet)
+
+      // 4. 페이지 내의 관련없는 부모 페이지 링크 여부 검사
+      hasUnrelatedParentPage.doAsyncJob(pageRootPath, files, i)
 
     }
   } catch (err) {

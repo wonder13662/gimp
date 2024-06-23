@@ -2,9 +2,9 @@ const fsPromises = require('node:fs/promises');
 const fs = require('node:fs');
 const path = require('node:path');
 
-const isPageNumberStr = (src) => Number(src) > 0
+const { getParentPageNumbers } = require('./utils')
 
-// TODO 모든 부모 페이지 링크를 가지고 있는지 검사합니다.
+const isPageNumberStr = (src) => Number(src) > 0
 
 module.exports = {
   doAsyncJob: async (pageRootPath, files, i, fileNumberSet) => {
@@ -53,65 +53,31 @@ module.exports = {
       }
     });
 
-    const tokens = fileName.split('-')
-    const parents = []
-
-    const lastIdx = tokens.length - 1
-    for (let j = 0; j <= lastIdx; j++) {
-      const token = tokens[j];
-
-      // 1. 마지막 토큰은 검사하지 않습니다.
-      if (j === lastIdx) {
-        break
-      }
-      
-      // 2. 현재 토큰이 숫자여야 합니다.
-      if (!isPageNumberStr(tokens[j])) {
-        break
-      }
-
-      // 2. 다음 토큰이 숫자여야 합니다.
-      if (!isPageNumberStr(tokens[j + 1])) {
-        break
-      }
-
-      // 3. 위 두 조건을 만족하면 parents 배열에 토큰을 추가합니다.
-      if (parents.length === 0) {
-        // 3-1. 이전에 등록된 토큰이 없다면 현재 토큰만 추가합니다.
-        parents.push(token)
-      } else {
-        // 3-2. 이전에 등록된 토큰이 있다면 이전 토큰과 현재 토큰을 조합하여 추가합니다.
-        parents.push(`${parents[parents.length - 1]}-${token}`)
-      }
-    }
-
     // 4. 부모 페이지의 갯수가 없는 경우는 종료
-    if (parents.length === 0) return
+    const parentPageNumbers = getParentPageNumbers(fileName)
+    if (parentPageNumbers.length === 0) return
     
     const contents = await fsPromises.readFile(pagePath, { encoding: 'utf8' });
-    for (let j = 0; j < parents.length; j++) {
-      const parentNumber = parents[j];
-      const parentFileNumber = `${parentNumber}-00`
+    for (let j = 0; j < parentPageNumbers.length; j++) {
+      const parentPageNumber = parentPageNumbers[j];
 
       // 5. 페이지 내의 부모 페이지 링크 표시가 되어 있는지 확인
-      if (contents.indexOf(parentFileNumber) === -1) {
+      if (contents.indexOf(parentPageNumber) === -1) {
         throw new Error([
           '\n[에러] 5. 페이지 내의 부모 페이지 링크 표시가 없습니다.',
           `페이지: "${fileName}"`,
-          `부모 페이지 번호: "${parentFileNumber}"`,
+          `부모 페이지 번호: "${parentPageNumber}"`,
         ].join('\n'))
       }
 
       // 6. 실제 파일로써 부모 페이지가 있는지 여부를 확인합니다.
-      if (!fileNumberSet.has(parentFileNumber)) {
+      if (!fileNumberSet.has(parentPageNumber)) {
         throw new Error([
           '\n[에러] 6. 실제 파일로써 부모 페이지가 없습니다.',
           `페이지: "${fileName}"`,
-          `부모 페이지 번호: "${parentFileNumber}"`,
+          `부모 페이지 번호: "${parentPageNumber}"`,
         ].join('\n'))
       }
     }
-
-    // 7. 페이지 내의 모든 페이지 링크를 수집, 현재 페이지와 관련이 없는 부모 페이지라면 에러!
   },
 }

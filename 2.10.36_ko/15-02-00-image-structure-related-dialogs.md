@@ -28,8 +28,6 @@
 
 [⬅️ 이전: 15.1. 대화상자 소개(Dialog introduction)](./15-01-dialog-introduction.md)
 
-[⬆️ 위: 15.1. 대화상자 소개(Dialog introduction)](./15-01-dialog-introduction.md)
-
 [⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
 
 [🏠 홈](./00-home.md)

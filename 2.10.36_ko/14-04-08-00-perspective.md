@@ -103,8 +103,6 @@
 
 [⬅️ 이전: 14.4.7.3. 기울이기 대화상자(The Shear adjustment dialog)](./14-04-07-03-shear_adjustment_dialog.md)
 
-[⬆️ 위: 14.4.8. 원근법(Perspective)](./14-04-08-00-perspective.md)
-
 [⬆️ 위: 14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)
 
 [⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)

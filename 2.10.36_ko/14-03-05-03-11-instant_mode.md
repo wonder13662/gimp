@@ -25,7 +25,7 @@
 
 [⬅️ 이전: 14.3.5.3.10. 적응형 슈퍼샘플링(Adaptive Supersampling)](./14-03-05-03-10-adaptive_supersampling.md)
 
-[⬆️ 위: 14.3.5.3. 옵션(Options)](14-03-05-03-00-options.md)
+[⬆️ 위: 14.3.5.3. 옵션(Options)](./14-03-05-03-00-options.md)
 
 [⬆️ 위: 14.3.5. 그라디언트(Gradient)](./14-03-05-00-gradient.md)
 

@@ -96,6 +96,9 @@ const doAsyncJob = async () => {
       } else {
         console.log(`[정보] 페이지 링크: 없음`)
       }
+
+      // TODO 페이지 링크와 페이지 제목의 숫자가 일치하는지 확인!
+      // [⬆️ 위: 14.3.11. 잉크(Ink)](./14-03-11-00-ink.md)
     }
   } catch (err) {
     console.error(err);

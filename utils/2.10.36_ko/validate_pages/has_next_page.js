@@ -1,6 +1,8 @@
-const fsPromises = require('node:fs/promises');
-const fs = require('node:fs');
-const path = require('node:path');
+const fsPromises = require('node:fs/promises')
+const fs = require('node:fs')
+const path = require('node:path')
+
+const { extractPageLink } = require('./utils')
 
 const extractNextPageLine = (line) => {
   const result = line.match(/\[➡️ 다음:.+/g);
@@ -12,16 +14,6 @@ const extractNextPageLine = (line) => {
   return ''
 }
 const hasNextPageLine = (line) => !!extractNextPageLine(line)
-
-const extractPageLink = (line) => {
-  const result = line.match(/(?<=\(\.\/)[0-9a-z\-_]+\.md(?=\))/g);
-
-  if (result && result[0]) {
-    return result[0];
-  }
-
-  return '';
-}
 
 const extractNextPageTitle = (line) => {
   const result = line.match(/(?<=\[➡️ 다음: ).+(?=\])/g);

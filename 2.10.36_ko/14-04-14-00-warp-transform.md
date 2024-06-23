@@ -41,8 +41,6 @@
 
 [⬅️ 이전: 14.4.13.3. `워프 변형` 도구 사용하기(Using Cage Tool)](./14-04-13-03-using_cage_tool.md)
 
-[⬆️ 위: 14.4.14. 워프 변형(Warp transform)](./14-04-14-00-warp-transform.md)
-
 [⬆️ 위: 14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)
 
 [⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)

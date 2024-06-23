@@ -8,7 +8,7 @@
 
 [⬅️ 이전: ${page_name_prev}](${page_prev})
 
-[⬆️ 위: 14.3.5.3. 옵션(Options)](14-03-05-03-00-options.md)
+[⬆️ 위: 14.3.5.3. 옵션(Options)](./14-03-05-03-00-options.md)
 
 [⬆️ 위: 14.3.5. 그라디언트(Gradient)](./14-03-05-00-gradient.md)
 
