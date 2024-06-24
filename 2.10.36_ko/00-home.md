@@ -2885,6 +2885,8 @@
 
 [90.4.3.15. 레이어 미리보기(Layer Thumbnail)](./90-04-03-15-layer_thumbnail.md)
 
+[90.4.3.16. 레이어 이름(Layer Name)](./90-04-03-16-layer_name.md)
+
 [90.4.4. 채널(Channels)](./90-04-04-channels.md)
 
 [90.4.5. 경로(Paths)](./90-04-05-paths.md)
