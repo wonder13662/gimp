@@ -1636,7 +1636,7 @@
 
 [15.2.1.2.2.2. 레이어 연결(Chain Layer)](./15-02-01-02-02-02-chain_layers.md)
 
-[15.2.1.2.2.3. 레이어 섬네일(Layer thumbnail)](./15-02-01-02-02-03-layer_thumbnail.md)
+[15.2.1.2.2.3. 레이어 미리보기(Layer thumbnail)](./15-02-01-02-02-03-layer_thumbnail.md)
 
 [15.2.1.2.2.4. 레이어 이름(Layer name)](./15-02-01-02-02-04-layer_name.md)
 
@@ -2865,7 +2865,7 @@
 
 [90.4.3.5. 레이어 가시성(Layer visibility) - 레이어의 눈 아이콘(Eye icon)](./90-04-03-05-visibility.md)
 
-[90.4.3.6. 레이어의 연결 아이콘(Linkage)](./90-04-03-06-linkage.md)
+[90.4.3.6. 레이어의 연결고리 아이콘(Linkage)](./90-04-03-06-linkage.md)
 
 [90.4.3.7. 레이어 모드(Layer Mode)](./90-04-03-07-layer_mode.md)
 
@@ -3868,6 +3868,16 @@
 [90.10.40.1. 키보드 단축키](./90-10-40-01-00-keyboard_shortcut.md)
 
 [90.10.40.1.1. `대화상자` → `레이어`: 키보드 단축키 Ctrl(⌘) + `L`](./90-10-40-01-01-ctrl_l.md)
+
+[90.10.40.2. Ctrl(⌘): 동작 변경키(Key modifiers)](./90-10-40-02-00-key_modifier-ctrl.md)
+
+[90.10.40.3. Alt(⌥): 동작 변경키(Key modifiers)](./90-10-40-03-00-key_modifier-alt.md)
+
+[90.10.40.4. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-40-04-00-key_modifier-shift.md)
+
+[90.10.40.4.1. 레이어 가시성 전환(Toggle Layer Visibility)](./90-10-40-04-01-toggle_visibility.md)
+
+[90.10.40.4.2. 레이어 연결고리 전환(Toggle Layer Visibility)](./90-10-40-04-02-toggle_linkage.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

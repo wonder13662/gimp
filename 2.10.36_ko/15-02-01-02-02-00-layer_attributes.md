@@ -15,7 +15,7 @@
 
 [15.2.1.2.2.2. 레이어 연결(Chain Layer)](./15-02-01-02-02-02-chain_layers.md)
 
-[15.2.1.2.2.3. 레이어 섬네일(Layer thumbnail)](./15-02-01-02-02-03-layer_thumbnail.md)
+[15.2.1.2.2.3. 레이어 미리보기(Layer thumbnail)](./15-02-01-02-02-03-layer_thumbnail.md)
 
 [15.2.1.2.2.4. 레이어 이름(Layer name)](./15-02-01-02-02-04-layer_name.md)
 

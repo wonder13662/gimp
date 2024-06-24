@@ -30,13 +30,6 @@
 
 [8.1.1.4. 가시성(Visibility) - 그림 90.4.3.5.a21](./08-01-01-04-visibility.md#90-04-03-05-a21)
 
-<a id="90-04-03-05-a31"></a>
-
-#### 영상 90.4.3.5.a31. Shift(⇧)를 누른채로 가시성(Visibility) 심볼 토글하기
-<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1b3ab6fc-c557-4cca-a3b6-c3280fa74002"></video>
-
-[8.1.1.4. 가시성(Visibility) - 영상 90.4.3.5.a31](./08-01-01-04-visibility.md#90-04-03-05-a31)
-
 <a id="90-04-03-05-a41"></a>
 
 #### 그림 90.4.3.5.a41. `레이어 대화상자` → `레이어 속성` → `레이어 가시성` (Windows) (우리말)
@@ -48,7 +41,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.3.6. 레이어의 연결 아이콘(Linkage)](./90-04-03-06-linkage.md)
+[➡️ 다음: 90.4.3.6. 레이어의 연결고리 아이콘(Linkage)](./90-04-03-06-linkage.md)
 
 [⬅️ 이전: 90.4.3.4. 불투명도(Opacity)](./90-04-03-04-opacity.md)
 

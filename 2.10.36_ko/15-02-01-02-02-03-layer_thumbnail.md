@@ -1,4 +1,4 @@
-# 15.2.1.2.2.3. 레이어 섬네일(Layer thumbnail)
+# 15.2.1.2.2.3. 레이어 미리보기(Layer thumbnail)
 
 ***
 
