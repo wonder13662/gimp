@@ -2863,7 +2863,7 @@
 
 [90.4.3.4. 불투명도(Opacity)](./90-04-03-04-opacity.md)
 
-[90.4.3.5. 레이어의 눈 아이콘(Visibility)](./90-04-03-05-visibility.md)
+[90.4.3.5. 레이어 가시성(Layer visibility) - 레이어의 눈 아이콘(Eye icon)](./90-04-03-05-visibility.md)
 
 [90.4.3.6. 레이어의 연결 아이콘(Linkage)](./90-04-03-06-linkage.md)
 

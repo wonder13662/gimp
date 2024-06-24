@@ -1,4 +1,4 @@
-# 90.4.3.5. 레이어의 눈 아이콘(Visibility)
+# 90.4.3.5. 레이어 가시성(Layer visibility) - 레이어의 눈 아이콘(Eye icon)
 
 <a id="90-04-03-05-a1"></a>
 
@@ -36,6 +36,13 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1b3ab6fc-c557-4cca-a3b6-c3280fa74002"></video>
 
 [8.1.1.4. 가시성(Visibility) - 영상 90.4.3.5.a31](./08-01-01-04-visibility.md#90-04-03-05-a31)
+
+<a id="90-04-03-05-a41"></a>
+
+#### 그림 90.4.3.5.a41. `레이어 대화상자` → `레이어 속성` → `레이어 가시성` (Windows) (우리말)
+<img width="262" height="312" alt="90-04-03-05-a41" src="https://github.com/wonder13662/gimp/assets/15767104/a2eebcd7-de61-471c-b261-ff3f1ed51713" />
+
+[15.2.1.2.2.1. 레이어 가시성(Layer visibility) - 그림 90.4.3.5.a41](./15-02-01-02-02-01-layer_visibility.md#90-04-03-05-a41)
 
 ***
 
