@@ -1,5 +1,15 @@
 # 90.4.3.12. 활성화된 레이어(Active Layer)
 
+<a id="90-04-03-12-a1"></a>
+
+#### 그림 90.4.3.12.a1. 활성화된 레이어 (Windows) (우리말)
+<img width="254" height="40" alt="90-04-03-12-a1" src="https://github.com/wonder13662/gimp/assets/15767104/c2fae760-5fea-4134-a7f7-dd8b735bf04a" />
+
+<a id="90-04-03-12-a2"></a>
+
+#### 그림 90.4.3.12.a2. 비활성화된 레이어 (Windows) (우리말)
+<img width="254" height="40" alt="90-04-03-12-a2" src="https://github.com/wonder13662/gimp/assets/15767104/2a9325af-952e-428a-b93b-01d010712edc" />
+
 <a id="90-04-03-12-a11"></a>
 
 #### 영상 90.4.3.12.a11. Alt(⌥) + Mouse Middle Button으로 레이어 활성화하기 (Windows) (우리말)

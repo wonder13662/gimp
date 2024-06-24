@@ -2883,6 +2883,8 @@
 
 [90.4.3.14. 텍스트 레이어(Text Layer)](./90-04-03-14-text_layer.md)
 
+[90.4.3.15. 레이어 미리보기(Layer Thumbnail)](./90-04-03-15-layer_thumbnail.md)
+
 [90.4.4. 채널(Channels)](./90-04-04-channels.md)
 
 [90.4.5. 경로(Paths)](./90-04-05-paths.md)

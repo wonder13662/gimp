@@ -13,6 +13,12 @@
 
 ***
 
+## 관련 정보
+
+[12.1.10.3. 미리보기(Previews)](./12-01-10-03-previews.md)
+
+***
+
 ## 다른 페이지로 가기
 [➡️ 다음: 9. 텍스트 관리(Text management)](./09-00-text-management.md)
 
