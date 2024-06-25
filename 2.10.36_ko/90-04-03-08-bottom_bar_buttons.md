@@ -119,7 +119,12 @@
 
 [15.2.1.2.4.8. 레이어 삭제하기(Delete Layer) - 그림 90.4.3.8.a49](./15-02-01-02-04-08-delete_layer.md#90-04-03-08-a49)
 
+<a id="90-04-03-08-a49-01"></a>
 
+#### 영상 90.4.3.8.a49.1. `레이어 대화상자` → `레이어 관리` → `레이어 삭제하기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d26cbe9a-e2c2-4843-b1b4-d56952acc603"></video>
+
+[15.2.1.2.4.8. 레이어 삭제하기(Delete Layer) - 영상 90.4.3.8.a49.1](./15-02-01-02-04-08-delete_layer.md#90-04-03-08-a49-01)
 
 ***
 
