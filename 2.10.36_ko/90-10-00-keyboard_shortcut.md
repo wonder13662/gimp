@@ -620,6 +620,8 @@
 
 [90.10.40.2. Ctrl(⌘): 동작 변경키(Key modifiers)](./90-10-40-02-00-key_modifier-ctrl.md)
 
+[90.10.40.2.1. Ctrl(⌃): 모든 보이는 레이어 합치기](./90-10-40-02-01-merge_all_visible_layers.md)
+
 [90.10.40.3. Alt(⌥): 동작 변경키(Key modifiers)](./90-10-40-03-00-key_modifier-alt.md)
 
 [90.10.40.4. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-40-04-00-key_modifier-shift.md)

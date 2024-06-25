@@ -1,13 +1,24 @@
 # 90.4.56. 레이어 합치기(Merge Layers)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
+
+<a id="90-04-56-a101"></a>
+
 #### 그림 90.4.56.a101. `레이어 합치기` 대화상자 (Windows) (우리말)
 ![90-04-56-merge_layers(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/ad7f1780-41ca-4be3-974c-53a51ef352ad)
+
+[15.2.1.2.4.6. 레이어 합치기 또는 레이어 고정하기(Merge Layer or Anchor Layer) - 그림 90.4.56.a101](./15-02-01-02-04-06-merge_layers_n_anchor_layer.md#90-04-56-a101)
+
+<a id="90-04-56-a102"></a>
 
 #### 그림 90.4.56.a102. `레이어 합치기` 대화상자 (Windows) (영어)
 ![90-04-56-merge_layers(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/37f3c767-6c48-4ea3-b6f3-e9cfc759927d)
 
+<a id="90-04-56-a103"></a>
+
 #### 그림 90.4.56.a103. `레이어 합치기` 대화상자 (Mac) (우리말)
 ![90-04-56-merge_layers(mac)(ko)(50%)](https://github.com/wonder13662/gimp/assets/15767104/5849a655-9375-4d15-8d59-0eb796786745)
+
+<a id="90-04-56-a104"></a>
 
 #### 그림 90.4.56.a104. `레이어 합치기` 대화상자 (Mac) (영어)
 ![90-04-56-merge_layers(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/445ec7a7-8acc-4b97-b5e2-000edd108d16)

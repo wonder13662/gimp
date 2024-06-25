@@ -12,6 +12,12 @@
 
 [90.10.40.4.4. Shift(⇧): 활성화된 레이어를 목록 가장 위로 이동](./90-10-40-04-04-raise_layer_to_the_top.md)
 
+[90.10.40.4.5. Shift(⇧): 활성화된 레이어를 목록 가장 아래로 이동](./90-10-40-04-05-lower_layer_to_the_top.md)
+
+[90.10.40.4.6. Shift(⇧): 레이어 그룹 안의 모든 레이어를 합침](./90-10-40-04-06-merge_layers_in_layer_group.md)
+
+[90.10.40.4.7. Ctrl(⌃) + Shift(⇧): 모든 레이어를 `레이어 합치기` 대화상자의 마지막 설정값으로 합침](./90-10-40-04-07-merge_all_visible_layers_with_last_used_values.md)
+
 ***
 
 ## 다른 페이지로 가기
