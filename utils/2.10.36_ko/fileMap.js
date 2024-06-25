@@ -2031,7 +2031,7 @@ module.exports = {
       ],
       [
         '16-07-54-crop-layer.md', 
-        '16.7.54. Crop layer'
+        '16.7.54. 레이어 잘라내기(Crop layer)'
       ],
       [
         '16-08-00-the-colors-menu.md', 

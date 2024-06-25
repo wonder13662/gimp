@@ -1,4 +1,4 @@
-# 16.7.54. Crop layer
+# 16.7.54. 레이어 잘라내기(Crop layer)
 
 ### [Home](./00-home.md)
 ### [Parent: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)

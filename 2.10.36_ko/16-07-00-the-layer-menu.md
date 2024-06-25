@@ -53,6 +53,6 @@
 ## [16.7.51. 레이어 경계 크기(Layer boundary size)](./16-07-51-layer_boundary_size.md)
 ## [16.7.52. 레이어를 이미지 크기로(Layer to image size)](./16-07-52-layer_to_image_size.md)
 ## [16.7.53. 레이어 크기조정(Scale layer)](./16-07-53-scale_layer.md)
-## [16.7.54. Crop layer](./16-07-54-crop-layer.md)
+## [16.7.54. 레이어 잘라내기(Crop layer)](./16-07-54-crop-layer.md)
 
 ### [Home](./00-home.md)
