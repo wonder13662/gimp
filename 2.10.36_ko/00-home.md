@@ -3889,6 +3889,8 @@
 
 [90.10.40.4.3. Shift(⇧): 새 레이어 대화상자의 마지막 설정된 값으로 새로운 레이어 만들기(Toggle Layer Visibility)](./90-10-40-04-03-open_new_layer_dialog_with_last_used_values.md)
 
+[90.10.40.4.4. Shift(⇧): 활성화된 레이어를 목록 가장 위로 이동](./90-10-40-04-04-raise_layer_to_the_top.md)
+
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
 [90.90.1. 컬러 모델(Color Model)](./90-90-01-color_model.md)
