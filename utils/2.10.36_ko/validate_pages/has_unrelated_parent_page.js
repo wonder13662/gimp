@@ -57,6 +57,14 @@ module.exports = {
     const contents = await fsPromises.readFile(pagePath, { encoding: 'utf8' });
     const parentTitleLinks = contents.match(/\[⬆️\s위:\s.+/g)
 
+    if (!parentTitleLinks) {
+      throw new Error([
+        '\n[에러] 4-1. parentTitleLinks가 유효하지 않습니다.',
+        `페이지: "${fileName}"`,
+        `예상된 부모 페이지의 갯수: "${parents.length}"`,
+      ].join('\n'))
+    }
+
     for (let j = 0; j < parentTitleLinks.length; j++) {
       // 입력: "[⬆️ 위: 14.3.11. 잉크(Ink)](./14-03-11-00-ink.md)"
       // 출력: "14-03-11-00-ink.md"
@@ -65,7 +73,7 @@ module.exports = {
       const parentLink = extractPageLink(parentTitleLink)
       if(!parentLink) {
         throw new Error([
-          '\n[에러] 4-1. 페이지 링크가 유효하지 않습니다.',
+          '\n[에러] 4-2. 페이지 링크가 유효하지 않습니다.',
           `페이지: "${fileName}"`,
           `부모 페이지의 제목과 링크: "${parentTitleLink}"`,
           `부모 페이지의 링크: "${parentLink}"`,
