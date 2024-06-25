@@ -30,7 +30,7 @@
 
 [15.2.1.2.3.3. 잠금(Lock)](./15-02-01-02-03-03-lock.md)
 
-[15.2.1.2.4. 레이어 대화상자 아래쪽 버튼들(Layer Management)](./15-02-01-02-04-00-layer_management.md)
+[15.2.1.2.4. 레이어 관리(Layer Management)](./15-02-01-02-04-00-layer_management.md)
 
 [15.2.1.2.4.1. 새 레이어(New Layer)](./15-02-01-02-04-01-new_layer.md)
 
@@ -44,7 +44,9 @@
 
 [15.2.1.2.4.6. 레이어 합치기 또는 레이어 고정하기(Merge Layer or Anchor Layer)](./15-02-01-02-04-06-merge_layers_n_anchor_layer.md)
 
-[15.2.1.2.4.7. 레이어 삭제하기(Delete Layer)](./15-02-01-02-04-07-delete_layer.md)
+[15.2.1.2.4.7. 레이어 마스크 추가(Add Layer Mask)](./15-02-01-02-04-07-add_layer_mask.md)
+
+[15.2.1.2.4.8. 레이어 삭제하기(Delete Layer)](./15-02-01-02-04-08-delete_layer.md)
 
 [15.2.1.2.5. 다른 레이어 기능들(More Layer Functions)](./15-02-01-02-05-more_layer_functions.md)
 

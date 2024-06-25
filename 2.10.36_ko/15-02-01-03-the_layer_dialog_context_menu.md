@@ -30,58 +30,61 @@
 ## 10. 레이어 고정하기(Anchor Layer)
 [15.2.1.2.4.6. 레이어 합치기 또는 레이어 고정하기(Merge Layer or Anchor Layer)](./15-02-01-02-04-06-merge_layers_n_anchor_layer.md)를 참고하세요.
 
-## 11. 레이어 삭제하기(Delete Layer)
-[15.2.1.2.4.7. 레이어 삭제하기(Delete Layer)](./15-02-01-02-04-07-delete_layer.md)를 참고하세요.
+## 11. 레이어 마스크 추가(Add Layer Mask)
+[15.2.1.2.4.7. 레이어 마스크 추가(Add Layer Mask)](./15-02-01-02-04-07-add_layer_mask.md)
 
-## 12. 보이는 레이어들로 새 레이어 만들기(New from Visible)
+## 12. 레이어 삭제하기(Delete Layer)
+[15.2.1.2.4.8. 레이어 삭제하기(Delete Layer)](./15-02-01-02-04-08-delete_layer.md)를 참고하세요.
+
+## 13. 보이는 레이어들로 새 레이어 만들기(New from Visible)
 [16.7.3. 보이는 레이어들로 새 레이어 만들기(New from visible)](./16-07-03-new_from_visible.md)를 참고하세요.
 
-## 13. 레이어 경계 크기(Layer Boundary Size...)
+## 14. 레이어 경계 크기(Layer Boundary Size...)
 [16.7.51. 레이어 경계 크기(Layer boundary size)](./16-07-51-layer_boundary_size.md)를 참고하세요.
 
-## 14. 레이어를 이미지 크기로(Layer to Image Size)
+## 15. 레이어를 이미지 크기로(Layer to Image Size)
 [16.7.52. 레이어를 이미지 크기로(Layer to image size)](./16-07-52-layer_to_image_size.md)를 참고하세요.
 
-## 15. 레이어 크기조정(Scale layer)
+## 16. 레이어 크기조정(Scale layer)
 [16.7.53. 레이어 크기조정(Scale layer)](./16-07-53-scale_layer.md)을 참고하세요.
 
-## 16. 레이어 마스크 추가하기(Add Layer Mask...)
+## 17. 레이어 마스크 추가하기(Add Layer Mask...)
 [16.7.23. 레이어 마스크 추가하기(Add layer mask)](./16-07-23-add_layer_mask.md)를 참고하세요.
 
-## 17. 레이어 마스크 적용하기(Apply Layer Mask)
+## 18. 레이어 마스크 적용하기(Apply Layer Mask)
 [16.7.24. 레이어 마스크 적용하기(Apply layer mask)](./16-07-24-apply_layer_mask.md)를 참고하세요.
 
-## 18. 레이어 마스크 삭제하기(Delete Layer Mask)
+## 19. 레이어 마스크 삭제하기(Delete Layer Mask)
 [16.7.25. 레이어 마스크 삭제하기(Delete layer mask)](./16-07-25-delete_layer_mask.md)를 참고하세요.
 
-## 19. 레이어 마스크 보여주기(Show layer mask)
+## 20. 레이어 마스크 보여주기(Show layer mask)
 [16.7.26. 레이어 마스크 보여주기(Show layer mask)](./16-07-26-show_layer_mask.md)를 참고하세요.
 
-## 20. 레이어 마스크 수정하기(Edit layer mask)
+## 21. 레이어 마스크 수정하기(Edit layer mask)
 [16.7.27. 레이어 마스크 수정하기(Edit layer mask)](./16-07-27-edit_layer_mask.md)를 참고하세요.
 
-## 21. 레이어 마스크 비활성화하기(Disable layer mask)
+## 22. 레이어 마스크 비활성화하기(Disable layer mask)
 [16.7.28. 레이어 마스크 비활성화하기(Disable layer mask)](./16-07-28-disable_layer_mask.md)를 참고하세요.
 
-## 22. 마스크를 선택으로 바꾸기(Mask to selection)
+## 23. 마스크를 선택으로 바꾸기(Mask to selection)
 [16.7.29. 마스크를 선택으로 바꾸기(Mask to selection)](./16-07-29-mask_to_selection.md)를 참고하세요.
 
-## 23. 알파 채널 추가하기(Add alpha channel)
+## 24. 알파 채널 추가하기(Add alpha channel)
 [16.7.34. 알파 채널 추가하기(Add alpha channel)](./16-07-34-add_alpha_channel.md)를 참고하세요.
 
 (TODO 원문 설명과 비교 필요함)
 
-## 24. 알파 채널 제거하기(Remove alpha channel)
+## 25. 알파 채널 제거하기(Remove alpha channel)
 [16.7.35. 알파 채널 제거하기(Remove alpha channel)](./16-07-35-remove_alpha_channel.md)를 참고하세요.
 
 (TODO 원문 설명과 비교 필요함)
 
-## 25. 보이는 레이어 합치기(Merge visible layers)
+## 26. 보이는 레이어 합치기(Merge visible layers)
 [16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-merge_visible_layers.md)를 참고하세요.
 
 (TODO 원문 설명과 비교 필요함)
 
-## 26. ?(Flatten Image)
+## 27. ?(Flatten Image)
 [16.6.26. 이미지 평탄화하기(Flatten image)](./16-06-26-flatten_image.md)를 참고하세요.
 
 (TODO 원문 설명과 비교 필요함)
