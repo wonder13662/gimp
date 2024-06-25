@@ -28,6 +28,13 @@
 
 [8.1.1.10. 레이어 마스크(Layer mask) - 그림 90.4.3.13.a21](./08-01-01-10-layer_mask.md#90-04-03-13-a21)
 
+<a id="90-04-03-13-a31"></a>
+
+#### 영상 90.4.3.13.a31. `레이어 대화상자` → `레이어 속성` → `레이어 마스크 미리보기`: 검은색 칠하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/28c76d4b-cbef-4ca0-8162-b9614b50f75c"></video>
+
+[15.2.1.4.2. 레이어 마스크 예제(Layer Mask Example) - 영상 90.4.3.13.a31](./15-02-01-04-02-layer_mask_example.md#90-04-03-13-a31)
+
 ***
 
 ## 다른 페이지로 가기
