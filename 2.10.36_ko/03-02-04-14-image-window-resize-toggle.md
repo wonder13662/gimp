@@ -64,17 +64,17 @@
 
 <a id="90-03-01-a221"></a>
 
-#### [영상 90.3.1.a221. GIMP 로고에 이미지 드래그 앤 드랍으로 GIMP에서 이미지 열기](./90-03-01-gimp_logo.md#90-03-01-a221)
+#### [영상 90.3.1.a221. GIMP 로고에 이미지 드래그 앤 드롭으로 GIMP에서 이미지 열기](./90-03-01-gimp_logo.md#90-03-01-a221)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/246a2a2d-0d6e-4177-944a-ec4718341c12"></video>
 
 <a id="90-99-a102"></a>
 
-#### [영상 90.99.a102. 이미지 드래그 앤 드랍으로 새 레이어로 열기(이미지 창)](./90-99-etc.md#90-99-a102)
+#### [영상 90.99.a102. 이미지 드래그 앤 드롭으로 새 레이어로 열기(이미지 창)](./90-99-etc.md#90-99-a102)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/9da97e53-6122-4dea-a711-4c63f6663345"></video>
 
 <a id="90-99-a103"></a>
 
-#### [영상 90.99.a103. 이미지 드래그 앤 드랍으로 새 레이어로 열기(레이어 대화상자)](./90-99-etc.md#90-99-a103)
+#### [영상 90.99.a103. 이미지 드래그 앤 드롭으로 새 레이어로 열기(레이어 대화상자)](./90-99-etc.md#90-99-a103)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/17c2020e-00c1-4581-823e-732a917c283d"></video>
 
 ***

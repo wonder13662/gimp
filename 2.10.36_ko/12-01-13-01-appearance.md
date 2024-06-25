@@ -23,7 +23,7 @@
 
 <a id="90-03-01-a221"></a>
 
-#### [영상 90.3.1.a221. GIMP 로고에 이미지 드래그 앤 드랍으로 GIMP에서 이미지 열기](./90-03-01-gimp_logo.md#90-03-01-a221)
+#### [영상 90.3.1.a221. GIMP 로고에 이미지 드래그 앤 드롭으로 GIMP에서 이미지 열기](./90-03-01-gimp_logo.md#90-03-01-a221)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/246a2a2d-0d6e-4177-944a-ec4718341c12"></video>
 
 <a id="12-01-13-01-s2"></a>

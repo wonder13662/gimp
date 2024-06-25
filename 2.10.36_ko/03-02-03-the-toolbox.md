@@ -18,7 +18,7 @@
 
 <a id="90-03-01-a221"></a>
 
-#### [영상 90.3.1.a221. GIMP 로고에 이미지 드래그 앤 드랍으로 GIMP에서 이미지 열기](./90-03-01-gimp_logo.md#90-03-01-a221)
+#### [영상 90.3.1.a221. GIMP 로고에 이미지 드래그 앤 드롭으로 GIMP에서 이미지 열기](./90-03-01-gimp_logo.md#90-03-01-a221)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/246a2a2d-0d6e-4177-944a-ec4718341c12"></video>
 
 이 GIMP 로고 또는 "윌버의 눈"은 [12.1.13. 기본 도구상자](./12-01-13-00-toolbox.md)에서 `Show GIMP logo(drag-and-drop target)` 체크박스를 켜고 끔으로서 제어할 수 있습니다.
@@ -138,3 +138,5 @@ GIMP가 새로 시작할 때마다, 이전에 종료하기 전까지 사용했�
 [🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-concepts-main-windows.html)
+
+<a comment="페이지 분리 필요"></a>
