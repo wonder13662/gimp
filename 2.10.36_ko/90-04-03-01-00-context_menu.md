@@ -1,5 +1,27 @@
 # 90.4.3.1. 레이어 대화상자의 컨텍스트 메뉴
 
+<a id="90-04-03-01-a1"></a>
+
+#### 그림 90.4.3.1.a1. `레이어 대화상자` → `탭 메뉴` → `컨텍스트 메뉴` (Windows) (우리말)
+<img width="245" height="768" alt="90-04-03-01-a1" src="https://github.com/wonder13662/gimp/assets/15767104/98db3041-c639-486e-aee8-547ab4d998c1" />
+
+[15.2.1.3. 레이어 대화상자 컨텍스트 메뉴(The Layer dialog context menu) - 그림 90.4.3.1.a1](./15-02-01-03-the_layer_dialog_context_menu.md#90-04-03-01-a1)
+
+<a id="90-04-03-01-a2"></a>
+
+#### 그림 90.4.3.1.a2. `레이어 대화상자` → `탭 메뉴` → `컨텍스트 메뉴` (Windows) (영어)
+<img width="206" height="768" alt="90-04-03-01-a2" src="https://github.com/wonder13662/gimp/assets/15767104/61b03199-2fdf-4c20-9246-82ebc0aa1435" />
+
+<a id="90-04-03-01-a3"></a>
+
+#### 그림 90.4.3.1.a3. `레이어 대화상자` → `탭 메뉴` → `컨텍스트 메뉴` (Mac) (우리말)
+<img width="215" height="806" alt="90-04-03-01-a3" src="https://github.com/wonder13662/gimp/assets/15767104/2cd704f3-8f98-4487-a4a2-6ea256109219" />
+
+<a id="90-04-03-01-a4"></a>
+
+#### 그림 90.4.3.1.a4. `레이어 대화상자` → `탭 메뉴` → `컨텍스트 메뉴` (Mac) (영어)
+<img width="201" height="748" alt="90-04-03-01-a4" src="https://github.com/wonder13662/gimp/assets/15767104/754519b4-0e25-4c0b-acfb-944e231d8aac" />
+
 <a id="90-04-03-01-a11"></a>
 
 #### 그림 90.4.3.1.a11. 레이어 대화상자의 오른쪽 클릭으로 여는 팝업(컨텍스트) 메뉴
@@ -18,6 +40,8 @@
 ![90-04-03-layer_dialog-toggle_context_menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/faac9099-0657-4cd8-8bc0-b1bce6a098b6)
 
 [7.8.2.2. 3차원 이미지 호스(A three dimension image hose) - 그림 90.4.3.1.a41](./07-08-02-02-three_dimension_image_hose.md#90-04-03-01-a41)
+
+[15.2.1.3. 레이어 대화상자 컨텍스트 메뉴(The Layer dialog context menu) - 그림 90.4.3.1.a41](./15-02-01-03-the_layer_dialog_context_menu.md#90-04-03-01-a41)
 
 <a id="90-04-03-01-a71"></a>
 

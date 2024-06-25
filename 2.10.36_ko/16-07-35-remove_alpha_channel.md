@@ -1,6 +1,7 @@
 # 16.7.35. 알파 채널 제거하기(Remove alpha channel)
 
-### [Home](./00-home.md)
-### [Parent: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
-### [Prev: 16.7.34. 알파 채널 추가하기(Add alpha channel)](./16-07-34-add_alpha_channel.md)
-### [Next: 16.7.36. 색을 알파로(Color to alpha)](./16-07-36-color-to-alpha.md)
+***
+
+## 관련 정보
+
+[15.2.1.3. 레이어 대화상자 컨텍스트 메뉴(The Layer dialog context menu) - 25. 알파 채널 제거하기(Remove alpha channel)](./15-02-01-03-the_layer_dialog_context_menu.md#15-02-01-03-s25)

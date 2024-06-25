@@ -20,6 +20,8 @@
 
 [8.5.5. 레이어 그룹 복사하기(Duplicate a Layer Group) - 1. 레이어 대화상자의 아래쪽의 복사하기 버튼](./08-05-05-duplicate_a_layer_group.md#08-05-05-s1)
 
+[15.2.1.3. 레이어 대화상자 컨텍스트 메뉴(The Layer dialog context menu) - 8. 레이어 복사하기(Duplicate Layer)](./15-02-01-03-the_layer_dialog_context_menu.md#15-02-01-03-s8)
+
 ***
 
 ## 다른 페이지로 가기

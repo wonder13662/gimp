@@ -20,6 +20,12 @@
 
 ## 관련 정보
 
+[15.2.1.3. 레이어 대화상자 컨텍스트 메뉴(The Layer dialog context menu) - 7. 새 레이어 그룹(New Layer Group)](./15-02-01-03-the_layer_dialog_context_menu.md#15-02-01-03-s7)
+
+***
+
+## 관련 정보
+
 [4.2.7. 레이어 그룹에서 작업을 하려는 경우](./04-02-07-you-are-trying-to-act-on-a-layer-group.md)
 
 [8.5. 레이어 그룹 - 1-1. 레이어 대화상자의 아래쪽 레이어 그룹 추가 버튼](./08-05-00-layer-groups.md#08-05-01-s1-01)

@@ -1,5 +1,21 @@
 # 15.2.1.3. 레이어 대화상자 컨텍스트 메뉴(The Layer dialog context menu)
 
+<a id="90-04-03-01-a1"></a>
+
+#### [그림 90.4.3.1.a1. `레이어 대화상자` → `탭 메뉴` → `컨텍스트 메뉴` (Windows) (우리말)](./90-04-03-01-00-context_menu.md#90-04-03-01-a1)
+<img width="245" height="768" alt="90-04-03-01-a1" src="https://github.com/wonder13662/gimp/assets/15767104/98db3041-c639-486e-aee8-547ab4d998c1" />
+
+[다른 운영체제와 언어의 `레이어 대화상자` → `탭 메뉴` → `컨텍스트 메뉴` 확인하기](./90-04-03-01-00-context_menu.md#90-04-03-01-a2)
+
+레이어 미리보기에서 오른쪽 클릭을 하면 [레이어 컨텍스트 메뉴](./16-07-00-the-layer-menu.md)를 열 수 있습니다.
+
+<a id="90-04-03-01-a41"></a>
+
+#### [그림 90.4.3.1.a41. 레이어 대화상자의 컨텍스트 메뉴 열기 (windows) (우리말)](./90-04-03-01-00-context_menu.md#90-04-03-01-a41)
+![90-04-03-layer_dialog-toggle_context_menu(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/faac9099-0657-4cd8-8bc0-b1bce6a098b6)
+
+이 메뉴에 있는 기능들은 대부분 다른 곳에도 같은 기능이 있습니다.
+
 <a id="15-02-01-03-s1"></a>
 
 ## 1. 레이어 속성 수정하기(Edit Layer Attributes...)
@@ -120,28 +136,20 @@
 ## 24. 알파 채널 추가하기(Add alpha channel)
 [16.7.34. 알파 채널 추가하기(Add alpha channel)](./16-07-34-add_alpha_channel.md)를 참고하세요.
 
-(TODO 원문 설명과 비교 필요함)
-
 <a id="15-02-01-03-s25"></a>
 
 ## 25. 알파 채널 제거하기(Remove alpha channel)
 [16.7.35. 알파 채널 제거하기(Remove alpha channel)](./16-07-35-remove_alpha_channel.md)를 참고하세요.
-
-(TODO 원문 설명과 비교 필요함)
 
 <a id="15-02-01-03-s26"></a>
 
 ## 26. 보이는 레이어 합치기(Merge visible layers)
 [16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-merge_visible_layers.md)를 참고하세요.
 
-(TODO 원문 설명과 비교 필요함)
-
 <a id="15-02-01-03-s27"></a>
 
-## 27. ?(Flatten Image)
+## 27. 이미지 평탄화하기(Flatten Image)
 [16.6.26. 이미지 평탄화하기(Flatten image)](./16-06-26-flatten_image.md)를 참고하세요.
-
-(TODO 원문 설명과 비교 필요함)
 
 ***
 

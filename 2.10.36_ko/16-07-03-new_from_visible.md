@@ -1,6 +1,7 @@
 # 16.7.3. 보이는 레이어들로 새 레이어 만들기(New from visible)
 
-### [Home](./00-home.md)
-### [Parent: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
-### [Prev: 16.7.2. 새 레이어(New layer)](./16-07-02-00-new_layer.md)
-### [Next: 16.7.4. New layer group](./16-07-04-new-layer-group.md)
+***
+
+## 관련 정보
+
+[15.2.1.3. 레이어 대화상자 컨텍스트 메뉴(The Layer dialog context menu) - 13. 보이는 레이어들로 새 레이어 만들기(New from Visible)](./15-02-01-03-the_layer_dialog_context_menu.md#15-02-01-03-s13)

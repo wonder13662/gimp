@@ -2,6 +2,12 @@
 
 ***
 
+## 관련 정보
+
+[15.2.1.3. 레이어 대화상자 컨텍스트 메뉴(The Layer dialog context menu) - 4. 합성 모드 서브메뉴(Composite Mode submenu)](./15-02-01-03-the_layer_dialog_context_menu.md#15-02-01-03-s4)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: ?]()
