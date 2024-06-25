@@ -12,7 +12,11 @@
 
 [90.10.40.2.1. Ctrl(⌃): 모든 보이는 레이어 합치기](./90-10-40-02-01-merge_all_visible_layers.md)
 
+[90.10.40.2.2. Ctrl(⌃): 레이어 마스크 비활성화하기](./90-10-40-02-02-disable_layer_mask.md)
+
 [90.10.40.3. Alt(⌥): 동작 변경키(Key modifiers)](./90-10-40-03-00-key_modifier-alt.md)
+
+[90.10.40.3.1. Alt(⌥): 레이어 마스크 보여주기](./90-10-40-03-01-show_layer_mask.md)
 
 [90.10.40.4. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-40-04-00-key_modifier-shift.md)
 
