@@ -1,14 +1,13 @@
-const fs = require('node:fs')
-
 const { 
   extractPageNumberChain, 
   readFile, 
   getPageRootPath, 
   readAllFileNames, 
   getPageTitle, 
-  getParentPageNumbers,
+  getParentPageNumberChains,
   isValidPath,
   appendText,
+  convertFileNamesToFileChainNumberMap,
 } = require('../utils')
 
 const getPageTitleNFileName = async (pageRootPath, files, fileNumberChainMap, pageChainNumber) => {
@@ -45,31 +44,23 @@ const doAsyncJob = async (targetPage) => {
     
     // 1-2. 파일 목록 가져오기
     const files = await readAllFileNames(pageRootPath)
-    console.log(`모두 ${files.length} 개의 파일을 검사합니다.`)
 
-    // TODO 맵 만들기도 함수로 빼기
     // 1-3. 파일 맵(숫자로만 구성)을 만들어 검색에 활용하기
-    const fileNumberChainMap = files.reduce((acc, v, idx) => {
-      const fileNumbers = extractPageNumberChain(v)
+    const fileNumberChainMap = convertFileNamesToFileChainNumberMap(files)
 
-      acc.set(fileNumbers, idx)
-
-      return acc
-    }, new Map())
-
-    // 2. 대상 페이지 설정
-    // 2-2. 대상 페이지의 페이지 번호 체인 만들기
+    // 2. 대상 페이지
+    // 2-1. 대상 페이지의 페이지 번호 체인 만들기
     const targetPageNumberChain = extractPageNumberChain(targetPage)
     if (!targetPageNumberChain) {
       throw new Error([
-        '\n[에러] 2-2. 대상 페이지의 페이지 번호 체인이 유효하지 않습니다.',
+        '\n[에러] 2-1. 대상 페이지의 페이지 번호 체인이 유효하지 않습니다.',
       ].join('\n'))
     }
-    // 2-3. 대상 페이지의 인덱스 얻기
+    // 2-2. 대상 페이지의 인덱스 얻기
     if (!fileNumberChainMap.has(targetPageNumberChain)) {
       throw new Error([
         '\n',
-        '[에러] 2-3. 파일 번호 맵에 대상 페이지가 없습니다.',
+        '[에러] 2-2. 파일 번호 맵에 대상 페이지가 없습니다.',
         `대상 페이지 번호 체인: ${targetPageNumberChain}`,
       ].join('\n'))
     }
@@ -102,7 +93,7 @@ const doAsyncJob = async (targetPage) => {
     }
 
     // 5. 부모 페이지 링크 만들기
-    const parentPageChainNumbers = getParentPageNumbers(targetPage)
+    const parentPageChainNumbers = getParentPageNumberChains(targetPage)
     console.log('parentPageChainNumbers:', parentPageChainNumbers)
     const parentPageLinks = []
 

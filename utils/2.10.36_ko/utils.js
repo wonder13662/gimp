@@ -17,7 +17,43 @@ const isValidPath = async (path) => {
   await fsPromises.access(path, fs.constants.R_OK | fs.constants.W_OK);
 }
 
+  /*
+  * 페이지 파일의 이름에서 숫자 부분만 추출해 냅니다.
+  *
+  * 입력: "14-03-11-00-ink.md"
+  * 출력: "14-03-11-00"
+  * 
+  */
+  const extractPageNumberChain = (pageName) => pageName.split('-').reduce((pv, token) => {
+    if (pv === '') {
+      return Number(token) > -1 ? token : pv
+    }
+    return Number(token) > -1 ? `${pv}-${token}` : pv
+  }, '')
+
 module.exports = {
+  /*
+  * 파일이름 배열을 키(파일 체인 번호), 값(파일이름)을 가지는 맵으로 바꿉니다. 
+  *
+  */
+  convertFileNamesToFileChainNumberMap: (files) => {
+    if (!files) {
+      throw new Error(
+        [
+          '\n',
+          '[에러] convertFileNamesToFileChainNumberMap: 파라미터 files 유효하지 않습니다.',
+        ].join('\n')    
+      )
+    }
+
+    return files.reduce((acc, v, idx) => {
+      const fileNumbers = extractPageNumberChain(v)
+
+      acc.set(fileNumbers, idx)
+
+      return acc
+    }, new Map())
+  },
   /*
   * 파일에 텍스트를 추가합니다.
   *
@@ -104,12 +140,7 @@ module.exports = {
   * 출력: "14-03-11-00"
   * 
   */
-  extractPageNumberChain: (pageName) => pageName.split('-').reduce((pv, token) => {
-    if (pv === '') {
-      return Number(token) > -1 ? token : pv
-    }
-    return Number(token) > -1 ? `${pv}-${token}` : pv
-  }, ''),
+  extractPageNumberChain: (pageName) => extractPageNumberChain(pageName),
   /*
   * 문자열이 페이지 링크 형식을 가지고 있다면, 문자열을 돌려줍니다. 그렇지 않다면 빈 문자열을 돌려줍니다.
   *
@@ -136,7 +167,7 @@ module.exports = {
   * 출력: ["14", "14-03"]
   * 
   */
-  getParentPageNumbers: (fileName) => {
+  getParentPageNumberChains: (fileName) => {
     const tokens = fileName.split('-')
     const parents = []
 
