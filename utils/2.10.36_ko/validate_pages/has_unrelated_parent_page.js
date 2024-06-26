@@ -2,7 +2,7 @@ const fsPromises = require('node:fs/promises');
 const fs = require('node:fs');
 const path = require('node:path');
 
-const { extractPageLink, getParentPageNumbers, readFile } = require('../utils')
+const { extractPageLink, getParentPageNumberChains, readFile } = require('../utils')
 
 module.exports = {
   doAsyncJob: async (pageRootPath, files, i) => {
@@ -45,7 +45,7 @@ module.exports = {
     });
 
     // 3. 부모 페이지의 갯수가 없는 경우는 종료
-    const parents = getParentPageNumbers(fileName)
+    const parents = getParentPageNumberChains(fileName)
     if (parents.length === 0) return
 
     // 4. 페이지 내의 모든 페이지 링크를 수집, 현재 페이지와 관련이 없는 부모 페이지라면 에러!

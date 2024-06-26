@@ -1,4 +1,4 @@
-const { getParentPageNumbers, readFile } = require('../utils')
+const { getParentPageNumberChains, readFile } = require('../utils')
 
 module.exports = {
   doAsyncJob: async (pageRootPath, files, i, fileNumberSet) => {
@@ -38,7 +38,7 @@ module.exports = {
     const fileName = files[i];
 
     // 2-2. 부모 페이지의 갯수가 없는 경우는 종료
-    const parentPageChainNumbers = getParentPageNumbers(fileName)
+    const parentPageChainNumbers = getParentPageNumberChains(fileName)
     if (parentPageChainNumbers.length === 0) return
 
     // 3. 파일 내용 읽어오기
