@@ -35,6 +35,8 @@
 #### 그림 90.4.3.5.a41. `레이어 대화상자` → `레이어 속성` → `레이어 가시성` (Windows) (우리말)
 <img width="262" height="312" alt="90-04-03-05-a41" src="https://github.com/wonder13662/gimp/assets/15767104/a2eebcd7-de61-471c-b261-ff3f1ed51713" />
 
+[8.1.1.4. 가시성(Visibility) - 그림 90.4.3.5.a41](./08-01-01-04-visibility.md#90-04-03-05-a41)
+
 [15.2.1.2.2.1. 레이어 가시성(Layer visibility) - 그림 90.4.3.5.a41](./15-02-01-02-02-01-layer_visibility.md#90-04-03-05-a41)
 
 ***
