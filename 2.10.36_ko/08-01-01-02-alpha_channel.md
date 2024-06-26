@@ -93,6 +93,11 @@
 #### 그림 8.1.1.a5. 알파 채널 예제: 배경레이어에 알파 채널을 추가한 경우
 ![08-01-01-alpha_channel-05-bg_with_transparent_layer(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/6bcea8e9-5092-4f60-8dac-61a3d60e6560)
 
+***
+
+## 관련 정보
+
+[15.2.2. 채널 대화상자(Channel dialog)](./15-02-02-00-channel_dialog.md)
 
 ***
 

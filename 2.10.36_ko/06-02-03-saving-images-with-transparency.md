@@ -13,7 +13,7 @@
 <a id="90-04-04-a2"></a>
 
 #### [그림 90.4.4.a2. 채널 대화상자 - 알파 채널](./90-04-04-channels.md#90-04-04-a2)
-![90-04-04-a2](https://github.com/wonder13662/gimp/assets/15767104/6a94fd5e-24c4-407a-928c-9f43640ac45b)
+<img width="974" height="421" alt="90-04-04-a2" src="https://github.com/wonder13662/gimp/assets/15767104/e7f7e57f-a99b-4fee-a218-2da79a739963" />
 
 만약 "알파(Alpha)" 항목이 없다면, 이미지 메뉴바의 `레어어(Layer)` → `투명도(Transparency)` → [`알파 채널 추가(Add Alpha Channel)`](./16-07-34-add_alpha_channel.md)를 선택해서 알파 채널을 추가합니다.
 
