@@ -23,7 +23,7 @@
 
 [⬅️ 이전: 8.1.1.4. 가시성(Visibility)](./08-01-01-04-visibility.md)
 
-[⬆️ 위: 8.1.1. 레이어 속성](./08-01-01-00-layer_properties.md)
+[⬆️ 위: 8.1.1. 레이어 속성과 특성](./08-01-01-00-layer_properties.md)
 
 [⬆️ 위: 8.1. 레이어 소개](./08-01-00-introduction-to-layers.md)
 

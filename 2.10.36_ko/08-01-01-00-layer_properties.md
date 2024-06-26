@@ -1,4 +1,14 @@
-# 8.1.1. 레이어 속성
+# 8.1.1. 레이어 속성과 특성
+
+<a id="90-04-03-a71-01"></a>
+
+#### [그림 90.4.3.a71.1. 여러 레이어를 가지고 있는 레이어 대화상자: 레이어 속성 (Windows) (우리말)](./90-04-03-00-layers.md#90-04-03-a71-01)
+<img width="262" height="312" alt="90-04-03-a71-01" src="https://github.com/wonder13662/gimp/assets/15767104/70740ca2-48a2-4df9-a695-365ac6217e38" />
+
+<a id="90-04-03-a71-02"></a>
+
+#### [그림 90.4.3.a71.2. 여러 레이어를 가지고 있는 레이어 대화상자: 레이어 특성 (Windows) (우리말)](./90-04-03-00-layers.md#90-04-03-a71-02)
+<img width="262" height="312" alt="90-04-03-a71-02" src="https://github.com/wonder13662/gimp/assets/15767104/9e1aee4a-38eb-452f-a8fc-667813861c15" />
 
 ***
 
@@ -29,6 +39,8 @@
 ## 관련 정보
 
 [15.2.1.2.2. 레이어 속성(Layer Attributes)](./15-02-01-02-02-00-layer_attributes.md)
+
+[15.2.1.2.3. 레이어 특성(Layers Characteristics)](./15-02-01-02-03-00-layers_characteristics.md)
 
 ***
 

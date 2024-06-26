@@ -23,7 +23,7 @@
 
 [⬅️ 이전: 8.1.1.2. 알파 채널(Alpha Channel)](./08-01-01-02-alpha_channel.md)
 
-[⬆️ 위: 8.1.1. 레이어 속성](./08-01-01-00-layer_properties.md)
+[⬆️ 위: 8.1.1. 레이어 속성과 특성](./08-01-01-00-layer_properties.md)
 
 [⬆️ 위: 8.1. 레이어 소개](./08-01-00-introduction-to-layers.md)
 

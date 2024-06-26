@@ -314,7 +314,7 @@
 
 [8.1. 레이어 소개](./08-01-00-introduction-to-layers.md)
 
-[8.1.1. 레이어 속성](./08-01-01-00-layer_properties.md)
+[8.1.1. 레이어 속성과 특성](./08-01-01-00-layer_properties.md)
 
 [8.1.1.1. 이름(Name)](./08-01-01-01-name.md)
 
