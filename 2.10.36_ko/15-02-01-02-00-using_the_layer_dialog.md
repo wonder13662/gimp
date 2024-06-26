@@ -52,7 +52,7 @@
 
 [➡️ 다음: 15.2.1.2.1. 개요(Overview)](./15-02-01-02-01-overview.md)
 
-[⬅️ 이전: 15.2.1.1. 대화상자 활성화하기(Activating the dialog)](./15-02-01-01-activate_the_dialog.md)
+[⬅️ 이전: 15.2.1.1. 대화상자 활성화하기(Activate the dialog)](./15-02-01-01-activate_the_dialog.md)
 
 [⬆️ 위: 15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers-dialog.md)
 

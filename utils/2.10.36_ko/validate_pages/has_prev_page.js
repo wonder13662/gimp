@@ -2,6 +2,8 @@ const fsPromises = require('node:fs/promises');
 const fs = require('node:fs');
 const path = require('node:path');
 
+const { readFile } = require('../utils')
+
 const extractPrevPageLine = (line) => {
   const result = line.match(/\[⬅️ 이전:.+/g);
 
@@ -62,17 +64,9 @@ module.exports = {
     // 2-1. 개별 페이지 내용 가져오기
     const fileName = files[i];
     const pagePath = `${pageRootPath}/${fileName}`;
-    fs.access(pagePath, fs.constants.R_OK, (err) => {
-      if (err) {
-        throw new Error([
-          '\n[에러] 2-1. 페이지의 경로가 유효하지 않습니다',
-          `페이지: "${fileName}"`,
-          `경로: "${pageRootPath}"`,
-        ].join('\n'))
-      }
-    });
 
-    const contents = await fsPromises.readFile(pagePath, { encoding: 'utf8' });
+    const contents = await readFile(pagePath)
+
     const firstPageIdx = 0
     if (i > firstPageIdx && hasPrevPageLine(contents)) {
       // 3-1. 현재 페이지의 이전 페이지가 있는 경우

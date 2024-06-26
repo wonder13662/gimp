@@ -8,10 +8,12 @@ const hasParentPage = require('./has_parent_page')
 const hasUnrelatedParentPage = require('./has_unrelated_parent_page')
 const validateLinksInPage = require('./validate_links_in_page')
 
+const { extractPageNumberChain, getPageRootPath, readAllFileNames } = require('../utils')
+
 const doAsyncJob = async () => {
   try {
     // 1. 모든 페이지 파일의 목록을 가져온다.
-    const pageRootPath = `${path.normalize(`${__dirname}/../../..`)}/2.10.36_ko`
+    const pageRootPath = getPageRootPath()
     
     // 1-1. 파일 경로 검사
     fs.access(pageRootPath, fs.constants.R_OK, (err) => {
@@ -22,20 +24,14 @@ const doAsyncJob = async () => {
     });
     
     // 1-2. 파일 목록 가져오기
-    const files = await fsPromises.readdir(pageRootPath)
+    const files = await readAllFileNames(pageRootPath)
     // const files = ['03-02-05-01-organizing-dialogs.md']; // NOTE: 개별 파일 검사시 사용
     // const files = ['14-03-05-03-01-mode.md']; // NOTE: 개별 파일 검사시 사용
     console.log(`모두 ${files.length} 개의 파일을 검사합니다.`)
 
     // 1-3. 파일 맵(숫자로만 구성)을 만들어 검색에 활용하기
     const fileNumberSet = files.reduce((acc, v) => {
-      const tokens = v.split('-')
-      const fileNumbers = tokens.reduce((pv, token) => {
-        if (pv === '') {
-          return Number(token) > -1 ? token : pv
-        }
-        return Number(token) > -1 ? `${pv}-${token}` : pv
-      }, '')
+      const fileNumbers = extractPageNumberChain(v)
 
       acc.add(fileNumbers)
 

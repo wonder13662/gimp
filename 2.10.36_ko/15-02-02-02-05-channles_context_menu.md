@@ -1,6 +1,21 @@
-# 15.2.2. 채널 대화상자(Channel dialog)
+# 15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu)
 
-### [Home](./00-home.md)
-### [Parent: 15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
-### [Prev: 15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers-dialog.md)
-### [Next: 15.2.3. 경로 대화상자(Paths dialog)](./15-02-03-paths-dialog.md)
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.2.2.3. 선택 마스크(Selection Masks)](./15-02-02-03-00-selection_masks.md)
+
+[⬅️ 이전: 15.2.2.2.4. 채널 관리하기(Managing Channels)](./15-02-02-02-04-managing_channels.md)
+
+[⬆️ 위: 15.2.2.2. 채널 대화상자 사용하기(Using the Channel Dialog)](./15-02-02-02-00-using_the_channel_dialog.md)
+
+[⬆️ 위: 15.2.2. 채널 대화상자(Channel dialog)](./15-02-02-00-channel_dialog.md)
+
+[⬆️ 위: 15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-channel-dialog.html#gimp-channel-menu)

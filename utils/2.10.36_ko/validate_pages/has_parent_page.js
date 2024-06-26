@@ -1,8 +1,4 @@
-const fsPromises = require('node:fs/promises');
-const fs = require('node:fs');
-const path = require('node:path');
-
-const { getParentPageNumbers } = require('./utils')
+const { getParentPageNumbers, readFile } = require('../utils')
 
 module.exports = {
   doAsyncJob: async (pageRootPath, files, i, fileNumberSet) => {
@@ -40,24 +36,17 @@ module.exports = {
     
     // 2-1. 개별 페이지 내용 가져오기
     const fileName = files[i];
-    const pagePath = `${pageRootPath}/${fileName}`;
-    fs.access(pagePath, fs.constants.R_OK, (err) => {
-      if (err) {
-        throw new Error([
-          '\n[에러] 2-1. 페이지의 경로가 유효하지 않습니다',
-          `페이지: "${fileName}"`,
-          `경로: "${pageRootPath}"`,
-        ].join('\n'))
-      }
-    });
 
-    // 4. 부모 페이지의 갯수가 없는 경우는 종료
-    const parentPageNumbers = getParentPageNumbers(fileName)
-    if (parentPageNumbers.length === 0) return
-    
-    const contents = await fsPromises.readFile(pagePath, { encoding: 'utf8' });
-    for (let j = 0; j < parentPageNumbers.length; j++) {
-      const parentPageNumber = parentPageNumbers[j];
+    // 2-2. 부모 페이지의 갯수가 없는 경우는 종료
+    const parentPageChainNumbers = getParentPageNumbers(fileName)
+    if (parentPageChainNumbers.length === 0) return
+
+    // 3. 파일 내용 읽어오기
+    const pagePath = `${pageRootPath}/${fileName}`;
+    const contents = await readFile(pagePath)
+
+    for (let j = 0; j < parentPageChainNumbers.length; j++) {
+      const parentPageNumber = parentPageChainNumbers[j];
 
       // 5. 페이지 내의 부모 페이지 링크 표시가 되어 있는지 확인
       if (contents.indexOf(parentPageNumber) === -1) {

@@ -1113,7 +1113,7 @@ module.exports = {
         '15.2.1. 레이어 대화상자'
       ],
       [
-        '15-02-02-00-channel-dialog.md',
+        '15-02-02-00-channel_dialog.md',
         '15.2.2. 채널 대화상자(Channel dialog)',
         '15.2.2. 채널 대화상자'
       ],

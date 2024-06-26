@@ -1,12 +1,12 @@
-# 15.2.2.4.4. 사용법(Usage)
+# 15.2.2.4.1. 대화상자 활성화하기(Activate the dialog)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.3. 경로 대화상자(Paths dialog)](./15-02-03-paths-dialog.md)
+[➡️ 다음: 15.2.2.4.2. 퀵 마스크 만들기(Creating a quick mask)](./15-02-02-04-02-creating_a_quick_mask.md)
 
-[⬅️ 이전: 15.2.2.4.3. 그라디언트와 함께 퀵마스크 사용하기(Using quick mask with a gradient)](./15-02-02-04-03-using_quick_mask_with_a_gradient.md)
+[⬅️ 이전: 15.2.2.4. 퀵 마스크(Quick Mask)](./15-02-02-04-00-quick_mask.md)
 
 [⬆️ 위: 15.2.2.4. 퀵 마스크(Quick Mask)](./15-02-02-04-00-quick_mask.md)
 
@@ -18,4 +18,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-channel-dialog.html#idm18222)
+[원문](https://docs.gimp.org/2.10/ko/gimp-channel-dialog.html#idm18176)

@@ -1,4 +1,4 @@
-# 15.2.1.1. 대화상자 활성화하기(Activating the dialog)
+# 15.2.1.1. 대화상자 활성화하기(Activate the dialog)
 
 `레이어 대화상자`는 도킹이 가능한 대화상자입니다. 도킹에 대해서는 [3.2.5. 대화상자(Dialog)와 도킹(docking)](./03-02-05-00-dialogs-and-docking.md)을 참고해주세요.
 

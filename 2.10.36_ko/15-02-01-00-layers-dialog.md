@@ -6,7 +6,7 @@
 
 ## 하위 페이지
 
-[15.2.1.1. 대화상자 활성화하기(Activating the dialog)](./15-02-01-01-activate_the_dialog.md)
+[15.2.1.1. 대화상자 활성화하기(Activate the dialog)](./15-02-01-01-activate_the_dialog.md)
 
 [15.2.1.2. 레이어 대화상자 사용하기(Using the Layer dialog)](./15-02-01-02-00-using_the_layer_dialog.md)
 
@@ -64,7 +64,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.1.1. 대화상자 활성화하기(Activating the dialog)](./15-02-01-01-activate_the_dialog.md)
+[➡️ 다음: 15.2.1.1. 대화상자 활성화하기(Activate the dialog)](./15-02-01-01-activate_the_dialog.md)
 
 [⬅️ 이전: 15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
 

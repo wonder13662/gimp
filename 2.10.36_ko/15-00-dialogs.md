@@ -10,7 +10,7 @@
 
 [15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers-dialog.md)
 
-[15.2.1.1. 대화상자 활성화하기(Activating the dialog)](./15-02-01-01-activate_the_dialog.md)
+[15.2.1.1. 대화상자 활성화하기(Activate the dialog)](./15-02-01-01-activate_the_dialog.md)
 
 [15.2.1.2. 레이어 대화상자 사용하기(Using the Layer dialog)](./15-02-01-02-00-using_the_layer_dialog.md)
 
@@ -64,7 +64,7 @@
 
 [15.2.1.4.2. 레이어 마스크 예제(Layer Mask Example)](./15-02-01-04-02-layer_mask_example.md)
 
-[15.2.2. 채널 대화상자(Channel dialog)](./15-02-02-00-channel-dialog.md)
+[15.2.2. 채널 대화상자(Channel dialog)](./15-02-02-00-channel_dialog.md)
 
 [15.2.3. 경로 대화상자(Paths dialog)](./15-02-03-paths-dialog.md)
 

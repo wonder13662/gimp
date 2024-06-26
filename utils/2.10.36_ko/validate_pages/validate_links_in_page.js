@@ -2,6 +2,8 @@ const fsPromises = require('node:fs/promises');
 const fs = require('node:fs');
 const path = require('node:path');
 
+const { readFile } = require('../utils')
+
 module.exports = {
   doAsyncJob: async (pageRootPath, files, i) => {
     // 1. 파라미터 검사
@@ -30,14 +32,7 @@ module.exports = {
 
     // 1-2-1. 개별 페이지 내용 가져오기
     const pagePath = `${pageRootPath}/${files[i]}`;
-    fs.access(pagePath, fs.constants.R_OK, (err) => {
-      if (err) {
-        console.error(`\n[에러]\n개별 페이지("${files[i]}")의 경로 "${pageRootPath}"가 유효하지 않습니다.`)
-        throw err
-      }
-    });
-
-    const contents = await fsPromises.readFile(pagePath, { encoding: 'utf8' });
+    const contents = await readFile(pagePath)
 
     // 1-2-2. 페이지 내의 다른 페이지 링크 추출하기
     const pageWithAnchorList = contents.match(/(?<=\(\.\/)[0-9a-z\-_]+\.md#[0-9a-z\-_]+(?=\))/g);

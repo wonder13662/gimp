@@ -21,7 +21,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.2. 채널 대화상자(Channel dialog)](./15-02-02-00-channel-dialog.md)
+[➡️ 다음: 15.2.2. 채널 대화상자(Channel dialog)](./15-02-02-00-channel_dialog.md)
 
 [⬅️ 이전: 15.2.1.4.1. 개요(Overview)](./15-02-01-04-01-overview.md)
 

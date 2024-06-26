@@ -2,7 +2,7 @@ const fsPromises = require('node:fs/promises');
 const fs = require('node:fs');
 const path = require('node:path');
 
-const { extractPageLink, getParentPageNumbers } = require('./utils')
+const { extractPageLink, getParentPageNumbers, readFile } = require('../utils')
 
 module.exports = {
   doAsyncJob: async (pageRootPath, files, i) => {
@@ -54,7 +54,8 @@ module.exports = {
 
       return acc
     }, new Set())
-    const contents = await fsPromises.readFile(pagePath, { encoding: 'utf8' });
+
+    const contents = await readFile(pagePath)
     const parentTitleLinks = contents.match(/\[⬆️\s위:\s.+/g)
 
     if (!parentTitleLinks) {
