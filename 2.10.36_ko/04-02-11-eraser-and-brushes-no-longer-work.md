@@ -25,9 +25,9 @@
 ## 4.2.11.2. 해결방법
 [붓 대화상자](./15-03-02-brushes-dialog.md)에서 현재 사용하고 있는 브러시를 확인해주세요. 클립보드 이미지(Clipboard Image) 또는 클립보드 마스크(Clipboard Mask)가 선택되어 있다면, 다른 브러시를 선택해주세요.
 
-<a id="90.4.15.a113"></a>
+<a id="90-04-15-a113"></a>
 
-#### [영상 90.4.15.a113. 클립보드 마스크(Clipboard Mask), 클립보드 이미지(Clipboard Image) 브러시로 붓으로 작업시 효과가 없습니다](./90-04-15-brushes.md#90.4.15.a113)
+#### [영상 90.4.15.a113. 클립보드 마스크(Clipboard Mask), 클립보드 이미지(Clipboard Image) 브러시로 붓으로 작업시 효과가 없습니다](./90-04-15-brushes.md#90-04-15-a113)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8baa56c2-31a5-49b6-8323-4c4f08d3d752"></video>
 
 ## 4.2.11.3. 빈 브러시는 왜 있는 걸까요?

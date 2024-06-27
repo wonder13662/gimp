@@ -22,7 +22,7 @@ Shift(⇧) 키를 누르면 `직선 모드(Straight line mode)`로 바뀝니다.
 
 <a id="90-10-17-03-01-a1"></a>
 
-#### [영상 90.10.17.3.1.a1. 칠하기 도구:`복원` - Shift(⇧) 키: 직선 모양으로 복원하기](./90-10-17-03-01-switch_to_straight_line_mode.md)
+#### [영상 90.10.17.3.1.a1. 칠하기 도구:`복원` - Shift(⇧) 키: 직선 모양으로 복원하기](./90-10-17-03-01-switch_to_straight_line_mode.md#90-10-17-03-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/646c12e3-675b-4a42-8419-5cde1fc9a839"></video>
 
 ***

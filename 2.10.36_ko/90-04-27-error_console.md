@@ -6,9 +6,9 @@
 #### 그림 90.4.27.a1. 오류 콘솔 대화상자
 ![90-04-27-a1](https://github.com/wonder13662/gimp/assets/15767104/0ee69c3b-c9a7-40a3-974a-dbaedae8eb3a)
 
-[13.1.2. 플러그인 사용하기(Using Plugins)](./13-01-02-using_plugins.md)
+[13.1.2. 플러그인 사용하기(Using Plugins) - 그림 90.4.27.a1](./13-01-02-using_plugins.md#90-04-27-a1)
 
-(TODO windows 에러 메시지 노출 이미지로 교체 필요합니다.)
+<a comment="TODO windows 에러 메시지 노출 이미지로 교체 필요합니다."></a>
 
 <a id="90-04-27-a11"></a>
 

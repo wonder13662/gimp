@@ -17,12 +17,12 @@ Ctrl(⌘)를 눌렀을 때의 마우스 포인터, 도구 옵션, 상태 표시 
 
 <a id="90-10-01-02-01-a1"></a>
 
-#### [그림 90.10.1.2.1.a1. 사각 선택 도구 - 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드 - 마우스 포인터](./90-10-01-02-01-hold_ctrl_before_clicking_to_subtract-mouse_pointer.md)
+#### [그림 90.10.1.2.1.a1. 사각 선택 도구 - 선택 도구로 클릭 전에 Ctrl(⌘) 키를 누름: 빼기(Subtract) 모드 - 마우스 포인터](./90-10-01-02-01-hold_ctrl_before_clicking_to_subtract-mouse_pointer.md#90-10-01-02-01-a1)
 ![90-10-01-02-01-a1](https://github.com/wonder13662/gimp/assets/15767104/5a1a2504-84b5-45b8-ac02-6ddd73bfc636)
 
 <a id="90-10-01-02-02-a1"></a>
 
-#### [그림 90.10.1.2.2.a1. 사각 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-02-02-hold_ctrl_before_clicking_to_subtract-mouse_pointer-tool_option-status_area.md)
+#### [그림 90.10.1.2.2.a1. 사각 선택 도구 - 선택을 만들기 전에 Ctrl(⌘) 키를 누름 - 마우스 포인터, 도구 옵션, 상태 표시 영역](./90-10-01-02-02-hold_ctrl_before_clicking_to_subtract-mouse_pointer-tool_option-status_area.md#90-10-01-02-02-a1)
 ![90-10-01-02-02-a1](https://github.com/wonder13662/gimp/assets/15767104/d194b607-f4b4-4fb6-ac63-5e9c499edad4)
 
 ### 1-2. 선택을 만든 후에 Ctrl(⌘) 키를 누름

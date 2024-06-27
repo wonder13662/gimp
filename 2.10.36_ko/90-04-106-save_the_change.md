@@ -6,7 +6,7 @@
 #### 그림 90.4.106.a101. `변화 저장하기` 대화상자 (Windows) (우리말)
 ![90-04-106-a101](https://github.com/wonder13662/gimp/assets/15767104/35aaa961-74eb-40c4-9b76-ba2c5b756437)
 
-[13.3.5.4. 더티 플래그 지우기(Clearing the Dirty Flag) - 그림 90.4.106.a101](./13-03-05-04-00-clearing_the_dirty_flag.md)
+[13.3.5.4. 더티 플래그 지우기(Clearing the Dirty Flag) - 그림 90.4.106.a101](./13-03-05-04-00-clearing_the_dirty_flag.md#90-04-106-a101)
 
 <a id="90-04-106-a102"></a>
 

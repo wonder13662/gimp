@@ -75,7 +75,7 @@
 #### 영상 90.3.2.23.a115.1. `도구 옵션` → `그리기 붓` → `모드`: 분해
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b8defd38-107d-4162-9fcd-7a6b9436f1f2"></video>
 
-[14.3.1.3.1. 분해(Dissolve) - 영상 90.3.2.23.a115.1](./14-03-01-03-01-dissolve.md)
+[14.3.1.3.1. 분해(Dissolve) - 영상 90.3.2.23.a115.1](./14-03-01-03-01-dissolve.md#90-03-02-23-a115-01)
 
 <a id="90-03-02-23-a115-02"></a>
 

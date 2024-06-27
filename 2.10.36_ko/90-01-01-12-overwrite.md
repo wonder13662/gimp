@@ -5,7 +5,7 @@
 #### 그림 90.1.1.12.a101. `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)` 메뉴의 위치
 ![90-01-01-file-overwrite(w1080)-focus-overwrite](https://github.com/wonder13662/gimp/assets/15767104/246f4277-5f56-4c3d-b1a0-d3cae594c5dd)
 
-[3.4.4. 이미지 압축하기 - 그림 90.1.1.12.a101](./03-04-04-compressing-images.md)
+[3.4.4. 이미지 압축하기 - 그림 90.1.1.12.a101](./03-04-04-compressing-images.md#90-01-01-012-a101)
 
 ***
 

@@ -136,7 +136,7 @@
 
 <a id="90-02-08-01-a12"></a>
 
-#### [90.2.8.1.a12. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말) - Main Keyboard](./90-02-08-01-input-controllers.md#)
+#### [90.2.8.1.a12. `기본설정` → `입력 장치` → `입력 제어기` (windows) (우리말) - Main Keyboard](./90-02-08-01-input-controllers.md#90-02-08-01-a12)
 ![90-02-08-01-a12](https://github.com/wonder13662/gimp/assets/15767104/532d0cf8-1bd4-4cf3-a0d6-8c9e45d5ec8e)
 
 ### 7-2. 입력 제어기 설정 창

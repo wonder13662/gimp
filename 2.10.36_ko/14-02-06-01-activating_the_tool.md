@@ -30,7 +30,7 @@
 
 <a id="90-10-05-01-01-a1"></a>
 
-#### [영상 90.10.5.1.1.a1. 색상으로 선택 도구 - 키보드 단축키 Shift(⇧) + O](./90-10-05-01-01-shift_o.md)
+#### [영상 90.10.5.1.1.a1. 색상으로 선택 도구 - 키보드 단축키 Shift(⇧) + O](./90-10-05-01-01-shift_o.md#90-10-05-01-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9e22bed6-f96c-42ce-9f80-72f13957a790"></video>
 
 ***

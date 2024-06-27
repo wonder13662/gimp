@@ -8,10 +8,14 @@
 #### 그림 12.2.a1. 격자(Grids)
 ![12-02-a1](https://github.com/wonder13662/gimp/assets/15767104/bc624c6c-eae5-4884-bfee-75ebef4e1628)
 
+[12.2.1. 이미지 격자(The image grid) - 그림 12.2.a1](./12-02-01-the-image-grid.md#12-02-a1)
+
 <a id="12-02-a2"></a>
 
 #### 그림 12.2.a2. 안내선(Guides)
 ![12-02-a2](https://github.com/wonder13662/gimp/assets/15767104/a6bd80c7-ae5e-440f-be3e-269db2b55803)
+
+<a comment="위 이미지를 이미지 창의 세부 페이지로 이동해야 함"></a>
 
 ***
 

@@ -17,21 +17,109 @@ const isValidPath = async (path) => {
   await fsPromises.access(path, fs.constants.R_OK | fs.constants.W_OK);
 }
 
-  /*
-  * 페이지 파일의 이름에서 숫자 부분만 추출해 냅니다.
-  *
-  * 입력: "14-03-11-00-ink.md"
-  * 출력: "14-03-11-00"
-  * 
-  */
-  const extractPageNumberChain = (pageName) => pageName.split('-').reduce((pv, token) => {
-    if (pv === '') {
-      return Number(token) > -1 ? token : pv
+/*
+* 페이지 파일의 이름에서 숫자 부분만 추출해 냅니다.
+*
+* 입력: "14-03-11-00-ink.md"
+* 출력: "14-03-11-00"
+* 
+*/
+const extractPageNumberChain = (pageName) => pageName.split('-').reduce((pv, token) => {
+  if (pv === '') {
+    return Number(token) > -1 ? token : pv
+  }
+  return Number(token) > -1 ? `${pv}-${token}` : pv
+}, '')
+
+/*
+* 페이지 내용 안의 페이지 링크가 앵커 태그(<a>)를 가지고 있는 행을 골라냅니다.
+*
+* 입력: "#### [그림 90.4.3.12.a1. 활성화된 레이어 (Windows) (우리말)](./90-04-03-12-active_layer.md#90-04-03-12-a1)"
+* 출력: "90-04-03-12-active_layer.md#90-04-03-12-a1"
+* 
+*/
+const extractPageLinkWithAnchor = (v) => {
+  const list = v.match(/#### \[.+\)/g)
+
+  if (!list) return []
+
+  return list.map((v) => {
+    const found = v.match(/(?<=\(\.\/)[0-9a-z\-_]+\.md#[0-9a-z\-_]+(?=\))/g)
+    if (!found) {
+      throw new Error(
+        [
+          '\n',
+          '[에러] extractPageLinkWithAnchor: 페이지 앵커 링크를 찾지 못했습니다.',
+          `값: ${v}`,
+        ].join('\n')    
+      )      
     }
-    return Number(token) > -1 ? `${pv}-${token}` : pv
-  }, '')
+
+    return found[0]
+  })
+}
+/*
+* 페이지 링크 + 앵커 태그(<a>)에서 페이지 링크 주소만 골라냅니다.
+*
+* 입력: "90-04-03-12-active_layer.md#90-04-03-12-a1"
+* 출력: "90-04-03-12-active_layer.md"
+* 
+*/
+const extractPageLinkFromPageLinkWithAnchor = (v) => v.match(/^.+(?=\#.+)/g)
+/*
+* 페이지 링크 + 앵커 태그(<a>)에서 앵커 태그(<a>)만 골라냅니다.
+*
+* 입력: "90-04-03-12-active_layer.md#90-04-03-12-a1"
+* 출력: "90-04-03-12-a1"
+* 
+*/
+const extractAnchorFromPageLinkWithAnchor = (v) => v.match(/(?<=\#).+/g)
 
 module.exports = {
+  /*
+  * 페이지 내용 안의 페이지 링크가 앵커 태그(<a>)를 가지고 있는 행을 골라내 페이지 링크, 태그 속성을 가진 객체의 배열로 돌려줍니다.
+  * 
+  * 입력: "90-04-03-12-active_layer.md#90-04-03-12-a1"
+  * 출력: [ { link: "90-04-03-12-active_layer.md", anchor: "90-04-03-12-a1" } ]
+  * 
+  */  
+  extractPageAnchorLinks: (contents, fileName = '') => {
+    const list = extractPageLinkWithAnchor(contents)
+    if (!list) return []
+
+    return list.map((v) => {
+      const page = extractPageLinkFromPageLinkWithAnchor(v)
+      if (!page) {
+        console.log(list)
+
+        throw new Error(
+          [
+            '\n',
+            '[에러] extractPageAnchorLinks: 페이지 링크를 찾지 못했습니다.',
+            `대상 파일: ${fileName}`,
+            `링크: ${v}`,
+          ].join('\n')    
+        )
+      }
+      const anchor = extractAnchorFromPageLinkWithAnchor(v)
+      if (!anchor) {
+        throw new Error(
+          [
+            '\n',
+            '[에러] extractPageAnchorLinks: 앵커 태그를 찾지 못했습니다.',
+            `대상 파일: ${fileName}`,
+            `링크: ${v}`,
+          ].join('\n')    
+        )
+      }
+
+      return {
+        link: v,
+        page: page[0],
+        anchor: anchor[0],
+      }
+    })
+  },
   /*
   * 파일이름 배열을 키(파일 체인 번호), 값(파일이름)을 가지는 맵으로 바꿉니다. 
   *

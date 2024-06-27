@@ -126,7 +126,7 @@
 
 [14.2.2.3. 도구 사용(Tool manipulation) - 영상 90.4.1.3.a131](./14-02-02-03-tool_manipulation.md#90-04-01-03-a131)
 
-[19.용어집 - 행진하는 개미(Marching Ants)](./19-glossaryx-marching_ants.md)
+[19.용어집 - 행진하는 개미(Marching Ants)](./19-glossaryx-marching_ants.md#90-04-01-03-a131)
 
 <a id="90-04-01-03-a141"></a>
 

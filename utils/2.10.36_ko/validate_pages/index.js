@@ -1,14 +1,16 @@
-const fsPromises = require('node:fs/promises')
-const fs = require('node:fs')
-const path = require('node:path')
-
 const hasPrevPage = require('./has_prev_page')
 const hasNextPage = require('./has_next_page')
 const hasParentPage = require('./has_parent_page')
 const hasUnrelatedParentPage = require('./has_unrelated_parent_page')
 const validateLinksInPage = require('./validate_links_in_page')
+const hasBrokenLoopLink = require('./has_broken_loop_link')
 
-const { extractPageNumberChain, getPageRootPath, readAllFileNames } = require('../utils')
+const { 
+  extractPageNumberChain, 
+  getPageRootPath, 
+  readAllFileNames, 
+  isValidPath 
+} = require('../utils')
 
 const doAsyncJob = async () => {
   try {
@@ -16,17 +18,11 @@ const doAsyncJob = async () => {
     const pageRootPath = getPageRootPath()
     
     // 1-1. 파일 경로 검사
-    fs.access(pageRootPath, fs.constants.R_OK, (err) => {
-      if (err) {
-        console.error(`\n[에러]\n파일 경로 "${pageRootPath}"가 유효하지 않습니다.`)
-        throw err
-      }
-    });
+    await isValidPath(pageRootPath)
     
     // 1-2. 파일 목록 가져오기
     const files = await readAllFileNames(pageRootPath)
-    // const files = ['03-02-05-01-organizing-dialogs.md']; // NOTE: 개별 파일 검사시 사용
-    // const files = ['14-03-05-03-01-mode.md']; // NOTE: 개별 파일 검사시 사용
+    // const files = ['08-01-01-02-alpha_channel.md']; // NOTE: 개별 파일 검사시 사용
     console.log(`모두 ${files.length} 개의 파일을 검사합니다.`)
 
     // 1-3. 파일 맵(숫자로만 구성)을 만들어 검색에 활용하기
@@ -50,11 +46,13 @@ const doAsyncJob = async () => {
       // hasParentPage.doAsyncJob(pageRootPath, files, i, fileNumberSet)
 
       // 4. 페이지 내의 관련없는 부모 페이지 링크 여부 검사
-      hasUnrelatedParentPage.doAsyncJob(pageRootPath, files, i)
+      // hasUnrelatedParentPage.doAsyncJob(pageRootPath, files, i)
 
       // 5. 페이지 내의 모든 링크 유효성 검사
       // validateLinksInPage.doAsyncJob(pageRootPath, files, i)
 
+      // 6. 페이지 내의 콘텐츠와 콘텐츠 페이지 간의 링크 연결고리(Loop Link) 검사
+      hasBrokenLoopLink.doAsyncJob(pageRootPath, files, i)
     }
   } catch (err) {
     console.error(err);

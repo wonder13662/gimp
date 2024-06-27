@@ -97,7 +97,7 @@ Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그로 선택 영역의 콘텐츠�
 
 <a id="90-10-01-07-01-a1"></a>
 
-#### [영상 90.10.1.7.1.a1. Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그(원본 이미지 유지)](./90-10-01-07-01-left_click-drag-intact_source.md)
+#### [영상 90.10.1.7.1.a1. Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그(원본 이미지 유지)](./90-10-01-07-01-left_click-drag-intact_source.md#90-10-01-07-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5b2df02c-54cc-49e4-a13d-3fa52edeed4d"></video>
 
 <a id="14-02-01-01-s6"></a>

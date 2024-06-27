@@ -1,7 +1,3 @@
-const fsPromises = require('node:fs/promises')
-const fs = require('node:fs')
-const path = require('node:path')
-
 const { extractPageLink, readFile } = require('../utils')
 
 const extractNextPageLine = (line) => {
@@ -84,7 +80,7 @@ module.exports = {
       // 3-3. 제목 비교하기
       const title = extractNextPageTitle(line);
       const nextPagePath = `${pageRootPath}/${nextFileName}`;
-      const nextPageContents = await fsPromises.readFile(nextPagePath, { encoding: 'utf8' });
+      const nextPageContents = await readFile(nextPagePath);
 
       if (nextPageContents.indexOf(title) < 0) {
         throw new Error([

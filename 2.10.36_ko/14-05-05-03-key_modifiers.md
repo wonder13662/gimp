@@ -9,7 +9,7 @@ Shift(⇧) 키를 누른 채로, 끝점(Endpoint)로부터 클릭, 드래그를 
 
 <a id="90-10-38-04-01-a1"></a>
 
-#### [영상 90.10.38.4.1.a1. Shift(⇧): 두번째 측정선 그리기](./90-10-38-04-01-draw_second_measurement_line.md)
+#### [영상 90.10.38.4.1.a1. Shift(⇧): 두번째 측정선 그리기](./90-10-38-04-01-draw_second_measurement_line.md#90-10-38-04-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4d0b1e85-094b-461e-addc-1d455cc02cc7"></video>
 
 <a id="14-05-05-02-s2"></a>

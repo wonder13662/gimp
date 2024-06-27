@@ -22,12 +22,12 @@
 
 <a id="90-04-03-01-22-a11"></a>
 
-#### [그림 90.4.3.1.22.a11. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `알파 채널 추가` (windows) (우리말)](90-04-03-01-22-add_alpha_channel.md#90-04-03-01-22-a11)
-![90-04-03-layer_dialog-context_menu(windows)(ko)-focus-add_alpha_channel](https://github.com/wonder13662/gimp/assets/15767104/58bcb9be-b3d1-4376-99c1-b3671d7f6bc0)
+#### [그림 90.4.3.1.22.a11. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `알파 채널 추가` (windows) (우리말)](./90-04-03-01-22-add_alpha_channel.md#90-04-03-01-22-a11)
+![90-04-03-01-22-a11](https://github.com/wonder13662/gimp/assets/15767104/58bcb9be-b3d1-4376-99c1-b3671d7f6bc0)
 
 <a id="90-04-03-01-22-a21"></a>
 
-#### [영상 90.4.3.1.22.a21. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `알파 채널 추가` (windows) (우리말)](90-04-03-01-22-add_alpha_channel.md#90-04-03-01-22-a21)
+#### [영상 90.4.3.1.22.a21. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `알파 채널 추가` (windows) (우리말)](./90-04-03-01-22-add_alpha_channel.md#90-04-03-01-22-a21)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/93e62ca8-bebc-4479-9c76-109acdbd3966"></video>
 
 ## 3. 새로 추가하는 레이어는 알파 채널을 갖습니다
