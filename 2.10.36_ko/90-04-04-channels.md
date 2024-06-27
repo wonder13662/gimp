@@ -77,6 +77,11 @@
 
 [4.2.13. 붓 또는 지우개를 사용하면 이상한 색이 나옵니다 - 영상 90.4.4.a101](./04-02-13-unexpected-colors-when-trying-to-use-a-brush-or-eraser.md#90-04-04-a101)
 
+<a id="90-04-04-a111"></a>
+
+#### 그림 90.4.4.a111. 이미지의 색상채널
+<img width="700" height="186" alt="90-04-04-a111" src="https://github.com/wonder13662/gimp/assets/15767104/c389ac5e-ee72-45c9-8702-09f6108e6f67" />
+
 ***
 
 ## 다른 페이지로 가기
