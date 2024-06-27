@@ -22,7 +22,7 @@ const doAsyncJob = async () => {
     
     // 1-2. 파일 목록 가져오기
     const files = await readAllFileNames(pageRootPath)
-    // const files = ['08-01-01-02-alpha_channel.md']; // NOTE: 개별 파일 검사시 사용
+    // const files = ['15-02-01-02-02-03-layer_thumbnail.md']; // NOTE: 개별 파일 검사시 사용
     console.log(`모두 ${files.length} 개의 파일을 검사합니다.`)
 
     // 1-3. 파일 맵(숫자로만 구성)을 만들어 검색에 활용하기

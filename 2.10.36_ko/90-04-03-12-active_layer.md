@@ -5,10 +5,14 @@
 #### 그림 90.4.3.12.a1. 활성화된 레이어 (Windows) (우리말)
 <img width="254" height="40" alt="90-04-03-12-a1" src="https://github.com/wonder13662/gimp/assets/15767104/c2fae760-5fea-4134-a7f7-dd8b735bf04a" />
 
+[15.2.1.2.2.3. 레이어 미리보기(Layer thumbnail) - 그림 90.4.3.12.a1](./15-02-01-02-02-03-layer_thumbnail.md#90-04-03-12-a1)
+
 <a id="90-04-03-12-a2"></a>
 
 #### 그림 90.4.3.12.a2. 비활성화된 레이어 (Windows) (우리말)
 <img width="254" height="40" alt="90-04-03-12-a2" src="https://github.com/wonder13662/gimp/assets/15767104/2a9325af-952e-428a-b93b-01d010712edc" />
+
+[15.2.1.2.2.3. 레이어 미리보기(Layer thumbnail) - 그림 90.4.3.12.a2](./15-02-01-02-02-03-layer_thumbnail.md#90-04-03-12-a2)
 
 <a id="90-04-03-12-a11"></a>
 

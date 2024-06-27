@@ -63,6 +63,8 @@
 #### 영상 90.3.2.17.a11.3.2. `도구 옵션` →`Z축`: 켜기/끄기 - 각도 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/cf87eb19-b802-4fb8-ab33-d095abe55b75"></video>
 
+[14.4.9.2. 옵션(Options) - 영상 90.3.2.17.a11.3.2](./14-04-09-02-options.md#90-03-02-17-a11-03-02)
+
 <a id="90-03-02-17-a11-04"></a>
 
 #### 영상 90.3.2.17.a11.4. `도구 옵션` →`지역 프레임` (Windows) (우리말)

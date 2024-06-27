@@ -5,7 +5,7 @@
 #### 영상 90.10.37.2.2.a1. Ctrl(⌘) + 마우스 휠: 확대/축소 레벨 바꾸기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/132cd9f8-662c-47d2-b726-de1dde0aa5e7"></video>
 
-[14.5.4.2. 동작 변경키(Key modifiers) - 영상 90.10.37.2.1.a1](./14-05-04-02-key_modifiers.md#90-10-37-02-01-a1)
+[14.5.4.2. 동작 변경키(Key modifiers) - 영상 90.10.37.2.1.a1](./14-05-04-02-key_modifiers.md#90-10-37-02-02-a1)
 
 ***
 

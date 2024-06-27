@@ -5,6 +5,8 @@
 #### 영상 90.10.19.2.1.a1. 칠하기 도구:`흐릿하게/선명하게` - Ctrl(⌘) 키: 흐릿하게/선명하게 모드 바꾸기
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/16fddf26-837b-49c8-ad13-999b5893d219"></video>
 
+[14.3.1.1. 동작 변경키(Key modifiers) - 영상 90.10.19.2.1.a1](./14-03-01-01-key_modifiers.md#90-10-19-02-01-a1)
+
 [14.3.15.2. 동작 변경키(Key modifiers) - 영상 90.10.19.2.1.a1](./14-03-15-02-key_modifiers.md#90-10-19-02-01-a1)
 
 ***

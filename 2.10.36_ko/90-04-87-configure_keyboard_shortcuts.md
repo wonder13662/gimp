@@ -8,6 +8,8 @@
 
 [12.1.10.4. 키보드 단축키(Keyboard Shortcuts) - 그림 90.4.87.a101](./12-01-10-04-keyboard_shortcuts.md#90-04-87-a101)
 
+[12.5. 메뉴 단축키 설정하기(Creating shortcuts to menu commands) - 그림 90.4.87.a101](./12-05-creating-shortcuts-to-menu-commands.md#90-04-87-a101)
+
 <a id="90-04-87-a102"></a>
 
 #### 그림 90.4.87.a102. `키보드 단축키 설정` 대화상자 (Windows) (영어)

@@ -1,5 +1,11 @@
 # 10.1.5.2.1. Windows에서 Resynthesizer 사용하기
+
+<a id="10-01-05-02-01-s1"></a>
+
 ## 1. 설치하기
+
+<a id="10-01-05-02-01-s1-01"></a>
+
 ### 1-1. 다운로드 및 압축 풀기
 1. [Github의 Resynthesizer 저장소 페이지](https://github.com/bootchk/resynthesizer)로 이동합니다.
 2. 도착한 페이지에서 [install Resynthesizer for Windows](https://github.com/bootchk/resynthesizer/wiki/Install-Resynthesizer#windows)를 클릭해서 설치 안내 페이지로 이동합니다.
@@ -16,6 +22,8 @@
 
 #### 그림 10.1.5.2.1.a1. 설치하기: Part 1
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fa699710-6f4f-49b9-a828-a1c0acf68108"></video>
+
+<a id="10-01-05-02-01-s1-02"></a>
 
 ### 1-2. 플러그인 파일 설치
 1. GIMP(김프)를 엽니다.
@@ -45,6 +53,8 @@
 #### 그림 10.1.5.2.1.a2. 설치하기: Part 2
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d2a1be3f-56d8-417d-9a0f-147438d33664"></video>
 
+<a id="10-01-05-02-01-s1-03"></a>
+
 ### 1-3. GIMP(김프) 재시작 및 설치 확인
 1. GIMP(김프)를 재시작합니다.
 2. [이미지 메뉴 바](./03-02-04-02-image-menu.md)의 `필터` → `보강` → `Heal selection...`을 확인할 수 있다면, 설치가 완료된 것입니다.
@@ -70,6 +80,8 @@
 
 #### 영상 10.1.5.2.1.a11. 사용하기
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0477be8f-4c32-4109-95f7-55e7ad9bd0cf"></video>
+
+[10.1.5.2. 불필요한 것 제거하기(Garbage Removal) - 영상 10.1.5.2.1.a11](./10-01-05-02-00-garbage_removal.md#10-01-05-02-01-a11)
 
 ***
 
