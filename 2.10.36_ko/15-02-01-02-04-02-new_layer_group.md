@@ -50,4 +50,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-dialogs-structure.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-dialogs-structure.html#gimp-layer-new-group)

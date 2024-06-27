@@ -91,4 +91,4 @@ Ctrl(⌃) + `레이어 합치기` 버튼을 누르면 `레이어 합치기` 대�
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-dialogs-structure.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-dialogs-structure.html#gimp-layers-merge)
