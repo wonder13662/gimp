@@ -2260,7 +2260,7 @@ module.exports = {
       ],
       [
         '16-08-56-colorize.md', 
-        '16.8.56. Colorize'
+        '16.8.56. 색상화(Colorize)'
       ],
       [
         '16-08-57-posterize.md', 

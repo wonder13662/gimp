@@ -48,6 +48,13 @@
 
 [15.2.2.2.1. 개요(Overview) - 그림 90.4.4.a11.1.3](./15-02-02-02-01-overview.md#90-04-04-a11-01-03)
 
+<a id="90-04-04-a11-01-03-01"></a>
+
+#### 영상 90.4.4.a11.1.3.1. `채널 대화상자` → `색 채널`: 모든 채널에 같은 작업하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/69254f6f-4095-4f67-8f75-ee74714cae57"></video>
+
+[15.2.2.2.3.2. 채널 연결고리(Chain Channels) - 영상 90.4.4.a11.1.3.1](./15-02-02-02-03-02-chain_channels.md#90-04-04-a11-01-03-01)
+
 <a id="90-04-04-a11-02"></a>
 
 #### 그림 90.4.4.a11.2. `채널 대화상자` → `선택 마스크` (Windows) (우리말)
@@ -119,6 +126,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/df55ab19-4185-4a32-b3c3-47f78c23e7db"></video>
 
 [15.2.2.2.3.1. 채널 가시성(Channel Visibility) - ](./15-02-02-02-03-01-channel_visibility.md#)
+
+<a id="90-04-04-a11-04-02"></a>
+
+#### 그림 90.4.4.a11.4.2. `채널 대화상자` → `채널 속성` → `채널 연결고리` (Windows) (우리말)
+<img width="262" height="290" alt="90-04-04-a11-04-02" src="https://github.com/wonder13662/gimp/assets/15767104/7fdf9f5d-25e8-4924-aa1a-b015db42cda8" />
+
+[15.2.2.2.3.2. 채널 연결고리(Chain Channels) - 그림 90.4.4.a11.4.2](./15-02-02-02-03-02-chain_channels.md#90-04-04-a11-04-02)
+
+<a id="90-04-04-a11-04-02-01"></a>
+
+#### 영상 90.4.4.a11.4.2.1. `채널 대화상자` → `채널 속성` → `채널 연결고리`: 연결된 채널에 같이 작업하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/038cea3c-8ce3-4b2e-989a-eafb139009fb"></video>
+
+[15.2.2.2.3.2. 채널 연결고리(Chain Channels) - 영상 90.4.4.a11.4.2.1](./15-02-02-02-03-02-chain_channels.md#90-04-04-a11-04-02-01)
 
 <a id="90-04-04-a12"></a>
 

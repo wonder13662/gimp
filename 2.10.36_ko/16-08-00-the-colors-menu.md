@@ -55,7 +55,7 @@
 ## [16.8.53. Export histogram](./16-08-53-export-histogram.md)
 ## [16.8.54. Smooth palette](./16-08-54-smooth-palette.md)
 ## [16.8.55. Threshold](./16-08-55-threshold.md)
-## [16.8.56. Colorize](./16-08-56-colorize.md)
+## [16.8.56. 색상화(Colorize)](./16-08-56-colorize.md)
 ## [16.8.57. Posterize](./16-08-57-posterize.md)
 ## [16.8.58. Color to alpha](./16-08-58-color-to-alpha.md)
 ## [16.8.59. Dither](./16-08-59-dither.md)
