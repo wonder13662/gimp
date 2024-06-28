@@ -99,6 +99,13 @@
 
 [15.2.2.2.2. 채널 잠그기 속성(Channel Lock Attributes) - 영상 90.4.4.a11.3.2.2](./15-02-02-02-02-channel_lock_attributes.md#90-04-04-a11-03-02-02)
 
+<a id="90-04-04-a11-04"></a>
+
+#### 그림 90.4.4.a11.4. `채널 대화상자` → `채널 속성` (Windows) (우리말)
+<img width="262" height="290" alt="90-04-04-a11-04" src="https://github.com/wonder13662/gimp/assets/15767104/9b719582-1116-4888-a762-f18c88186c24" />
+
+[15.2.2.2.3. 채널 속성(Channel Attributes) - 그림 90.4.4.a11.4](./15-02-02-02-03-00-channel_attributes.md#90-04-04-a11-04)
+
 <a id="90-04-04-a12"></a>
 
 #### 그림 90.4.4.a12. 채널 대화상자 (Windows) (영어)
