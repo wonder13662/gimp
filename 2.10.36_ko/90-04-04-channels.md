@@ -106,6 +106,20 @@
 
 [15.2.2.2.3. 채널 속성(Channel Attributes) - 그림 90.4.4.a11.4](./15-02-02-02-03-00-channel_attributes.md#90-04-04-a11-04)
 
+<a id="90-04-04-a11-04-01"></a>
+
+#### 그림 90.4.4.a11.4.1. `채널 대화상자` → `채널 속성` → `채널 가시성` (Windows) (우리말)
+<img width="262" height="290" alt="90-04-04-a11-04-01" src="https://github.com/wonder13662/gimp/assets/15767104/25a1f060-bceb-4f77-a15e-42a18da8c2e4" />
+
+[15.2.2.2.3.1. 채널 가시성(Channel Visibility) - 그림 90.4.4.a11.4.1](./15-02-02-02-03-01-channel_visibility.md#90-04-04-a11-04-01)
+
+<a id="90-04-04-a11-04-01-01"></a>
+
+#### 영상 90.4.4.a11.4.1.1. `채널 대화상자` → `채널 속성` → `채널 가시성`: 눈 아이콘 켜기/끄기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/df55ab19-4185-4a32-b3c3-47f78c23e7db"></video>
+
+[15.2.2.2.3.1. 채널 가시성(Channel Visibility) - ](./15-02-02-02-03-01-channel_visibility.md#)
+
 <a id="90-04-04-a12"></a>
 
 #### 그림 90.4.4.a12. 채널 대화상자 (Windows) (영어)
