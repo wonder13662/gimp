@@ -4,9 +4,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu)](./15-02-02-02-05-channles_context_menu.md)
+[➡️ 다음: 15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu)](./15-02-02-02-05-channel_context_menu.md)
 
-[⬅️ 이전: 15.2.2.2.3. 채널 속성(Channel Attributes)](./15-02-02-02-03-channel_attributes.md)
+[⬅️ 이전: 15.2.2.2.3. 채널 속성(Channel Attributes)](./15-02-02-02-03-00-channel_attributes.md)
 
 [⬆️ 위: 15.2.2.2. 채널 대화상자 사용하기(Using the Channel Dialog)](./15-02-02-02-00-using_the_channel_dialog.md)
 

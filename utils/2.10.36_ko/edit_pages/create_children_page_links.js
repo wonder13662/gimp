@@ -107,12 +107,10 @@ const doAsyncJob = async (targetPage) => {
       childrenPageLinks.join('\n\n'),
     ].join('\n')
 
-    console.log(childrenPageLinkText)
-    // await appendText(`${pageRootPath}/${targetPage}`, childrenPageLinkText)
+    // console.log(childrenPageLinkText)
+    await appendText(`${pageRootPath}/${targetPage}`, childrenPageLinkText)
   } catch (err) {
     console.error(err);
   }      
 }
-doAsyncJob('15-02-01-00-layers-dialog.md');
-
-// TODO 페이지가 가지고 있는 자식 페이지의 링크 목록을 만듭니다.
+doAsyncJob('15-02-02-02-03-00-channel_attributes.md');
