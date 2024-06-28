@@ -62,6 +62,43 @@
 
 [15.2.2.2.1. 개요(Overview) - 그림 90.4.4.a11.3](./15-02-02-02-01-overview.md#90-04-04-a11-03)
 
+[15.2.2.2.2. 채널 잠그기 속성(Channel Lock Attributes) - 그림 90.4.4.a11.3](./15-02-02-02-02-channel_lock_attributes.md#90-04-04-a11-03)
+
+<a id="90-04-04-a11-03-01"></a>
+
+#### 그림 90.4.4.a11.3.1. `채널 대화상자` → `채널 잠그기 버튼` → `픽셀 잠그기` (Windows) (우리말)
+<img width="262" height="290" alt="90-04-04-a11-03-01" src="https://github.com/wonder13662/gimp/assets/15767104/e3d40ad4-e363-4607-a23b-eced08efd53d" />
+
+[15.2.2.2.2. 채널 잠그기 속성(Channel Lock Attributes) - 그림 90.4.4.a11.3.1](./15-02-02-02-02-channel_lock_attributes.md#90-04-04-a11-03-01)
+
+<a id="90-04-04-a11-03-01-01"></a>
+
+#### 영상 90.4.4.a11.3.1.1. `채널 대화상자` → `채널 잠그기 버튼` → `픽셀 잠그기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e667f416-4a50-400a-ad0b-8c3681da513c"></video>
+
+[15.2.2.2.2. 채널 잠그기 속성(Channel Lock Attributes) - 영상 90.4.4.a11.3.1.1](./15-02-02-02-02-channel_lock_attributes.md#90-04-04-a11-03-01-01)
+
+<a id="90-04-04-a11-03-02"></a>
+
+#### 그림 90.4.4.a11.3.2. `채널 대화상자` → `채널 잠그기 버튼` → `위치와 크기 잠그기` (Windows) (우리말)
+<img width="262" height="290" alt="90-04-04-a11-03-02" src="https://github.com/wonder13662/gimp/assets/15767104/b79bea3e-22ab-4b6c-b5d0-78b862bb0d0a" />
+
+[15.2.2.2.2. 채널 잠그기 속성(Channel Lock Attributes) - 그림 90.4.4.a11.3.2](./15-02-02-02-02-channel_lock_attributes.md#90-04-04-a11-03-02)
+
+<a id="90-04-04-a11-03-02-01"></a>
+
+#### 영상 90.4.4.a11.3.2.1. `채널 대화상자` → `채널 잠그기 버튼` → `위치와 크기 잠그기`: 변형 도구 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6137ed77-523a-4037-bd81-1cc6f0feb43f"></video>
+
+[15.2.2.2.2. 채널 잠그기 속성(Channel Lock Attributes) - 영상 90.4.4.a11.3.2.1](./15-02-02-02-02-channel_lock_attributes.md#90-04-04-a11-03-02-01)
+
+<a id="90-04-04-a11-03-02-02"></a>
+
+#### 영상 90.4.4.a11.3.2.2. `채널 대화상자` → `채널 잠그기 버튼` → `위치와 크기 잠그기`: 이동 도구 사용불가 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/193813ac-0752-44b5-af6b-b95cab4c0c2a"></video>
+
+[15.2.2.2.2. 채널 잠그기 속성(Channel Lock Attributes) - 영상 90.4.4.a11.3.2.2](./15-02-02-02-02-channel_lock_attributes.md#90-04-04-a11-03-02-02)
+
 <a id="90-04-04-a12"></a>
 
 #### 그림 90.4.4.a12. 채널 대화상자 (Windows) (영어)
