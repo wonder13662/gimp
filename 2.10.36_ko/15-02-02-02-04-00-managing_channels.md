@@ -9,6 +9,22 @@
 
 ***
 
+## 하위 페이지
+
+[15.2.2.2.4.1. 새 채널(New Channel)](./15-02-02-02-04-01-new_channel.md)
+
+[15.2.2.2.4.2. 채널 올리기(Raise Channel)](./15-02-02-02-04-02-raise_channel.md)
+
+[15.2.2.2.4.3. 채널 내리기(Lower Channel)](./15-02-02-02-04-03-lower_channel.md)
+
+[15.2.2.2.4.4. 채널 복사하기(Duplicate Channel)](./15-02-02-02-04-04-duplicate_channel.md)
+
+[15.2.2.2.4.5. 채널 복사하기(Replace the Selection with this Channel)](./15-02-02-02-04-05-replace_the_selection_with_this_channel.md)
+
+[15.2.2.2.4.6. 채널 삭제하기(Delete Channel)](./15-02-02-02-04-06-delete_channel.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu)](./15-02-02-02-05-channel_context_menu.md)

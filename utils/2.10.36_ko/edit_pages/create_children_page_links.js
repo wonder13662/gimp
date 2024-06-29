@@ -113,4 +113,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }      
 }
-doAsyncJob('15-02-02-02-03-00-channel_attributes.md');
+doAsyncJob('15-02-02-02-04-00-managing_channels.md');
