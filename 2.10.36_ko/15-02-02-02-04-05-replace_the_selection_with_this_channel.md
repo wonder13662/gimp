@@ -1,4 +1,51 @@
-# 15.2.2.2.4.5. 채널 복제(Replace the Selection with this Channel)
+# 15.2.2.2.4.5. 채널을 선택으로 바꾸기(Replace the Selection with this Channel)
+
+<a id="90-04-04-a11-05-05"></a>
+
+#### [그림 90.4.4.a11.5.5. `채널 대화상자` → `채널 관리` → `채널을 선택으로 바꾸기` (Windows) (우리말)](./90-04-04-channels.md#90-04-04-a11-05-05)
+<img width="262" height="290" alt="90-04-04-a11-05-05" src="https://github.com/wonder13662/gimp/assets/15767104/4924f148-1351-4901-a9c2-25581f332149" />
+
+`채널 대화상자` → `채널 관리` → `채널을 선택으로 바꾸기` 버튼을 눌러서 채널을 선택으로 바꿀 수 있습니다.
+
+<a id="15-02-02-02-04-05-s1"></a>
+
+## 1. 채널을 선택으로 바꾸기
+`채널 대화상자` → `채널 관리` → `채널을 선택으로 바꾸기` 버튼을 눌러서 채널을 선택으로 바꿔 활성화된 선택과 교체합니다.
+
+<a id="90-04-04-a11-05-05-01"></a>
+
+#### [영상 90.4.4.a11.5.5.1. `채널 대화상자` → `채널 관리` → `채널을 선택으로 바꾸기` (Windows) (우리말)](./90-04-04-channels.md#90-04-04-a11-05-05-01)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1aed3a5f-ebd2-424e-a999-1ea0d5e4ede3"></video>
+
+<a id="15-02-02-02-04-05-s2"></a>
+
+## 2. 채널을 선택으로 바꿔 활성화된 선택에 더하기
+Shift(⇧) + `채널 대화상자` → `채널 관리` → `채널을 선택으로 바꾸기` 버튼을 눌러서 채널을 선택으로 바꿔 활성화된 선택에 더합니다.
+
+<a id="90-10-41-02-04-a1"></a>
+
+#### [영상 90.10.41.2.4.a1. Shift(⇧): 활성화된 `선택 마스크 채널`을 선택으로 바꿔 활성화된 선택에 더하기 (Windows) (우리말)](./90-10-41-02-04-transform_channel_to_adding_selection.md#90-10-41-02-04-a1)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f6608867-b31b-4a24-a96f-87e1ef5b17d0"></video>
+
+<a id="15-02-02-02-04-05-s3"></a>
+
+## 3. 채널을 선택으로 바꿔 활성화된 선택에서 빼기
+Ctrl(⌘) + `채널 대화상자` → `채널 관리` → `채널을 선택으로 바꾸기` 버튼을 눌러서 채널을 선택으로 바꿔 활성화된 선택에서 뺍니다.
+
+<a id="90-10-41-01-01-a1"></a>
+
+#### [영상 90.10.41.1.1.a1. Ctrl(⌘): 활성화된 `선택 마스크 채널`을 선택으로 바꿔 활성화된 선택에서 빼기 (Windows) (우리말)](./90-10-41-01-01-transform_channel_to_subtracting_selection.md#90-10-41-01-01-a1)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d9a8eef6-f49a-42dc-b74a-c5a37a8d784b"></video>
+
+<a id="15-02-02-02-04-05-s4"></a>
+
+## 4. 채널을 선택으로 바꿔 활성화된 선택에서 교차하기
+Shift(⇧) + Ctrl(⌘) + `채널 대화상자` → `채널 관리` → `채널을 선택으로 바꾸기` 버튼을 눌러서 채널을 선택으로 바꿔 활성화된 선택에서 교차합니다.
+
+<a id="90-10-41-01-02-a1"></a>
+
+#### [영상 90.10.41.1.2.a1. Shift(⇧) + Ctrl(⌘): 활성화된 `선택 마스크 채널`을 선택으로 바꿔 활성화된 선택에서 교차하기 (Windows) (우리말)](./90-10-41-01-02-transform_channel_to_interasecting_selection.md#90-10-41-01-02-a1)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b15964b1-0827-48f7-b514-c9c93aab3d72"></video>
 
 ***
 

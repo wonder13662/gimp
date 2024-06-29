@@ -232,6 +232,20 @@
 
 [15.2.2.2.4.4. 채널 복제(Duplicate Channel) - 영상 90.4.4.a11.5.4.1](./15-02-02-02-04-04-duplicate_channel.md#90-04-04-a11-05-04-01)
 
+<a id="90-04-04-a11-05-05"></a>
+
+#### 그림 90.4.4.a11.5.5. `채널 대화상자` → `채널 관리` → `채널을 선택으로 바꾸기` (Windows) (우리말)
+<img width="262" height="290" alt="90-04-04-a11-05-05" src="https://github.com/wonder13662/gimp/assets/15767104/4924f148-1351-4901-a9c2-25581f332149" />
+
+[15.2.2.2.4.5. 채널을 선택으로 바꾸기(Replace the Selection with this Channel) - 그림 90.4.4.a11.5.5](./15-02-02-02-04-05-replace_the_selection_with_this_channel.md#90-04-04-a11-05-05)
+
+<a id="90-04-04-a11-05-05-01"></a>
+
+#### 영상 90.4.4.a11.5.5.1. `채널 대화상자` → `채널 관리` → `채널을 선택으로 바꾸기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1aed3a5f-ebd2-424e-a999-1ea0d5e4ede3"></video>
+
+[15.2.2.2.4.5. 채널을 선택으로 바꾸기(Replace the Selection with this Channel) - 영상 90.4.4.a11.5.5.1](./15-02-02-02-04-05-replace_the_selection_with_this_channel.md#90-04-04-a11-05-05-01)
+
 <a id="90-04-04-a12"></a>
 
 #### 그림 90.4.4.a12. 채널 대화상자 (Windows) (영어)

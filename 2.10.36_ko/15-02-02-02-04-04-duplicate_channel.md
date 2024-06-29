@@ -33,7 +33,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.2.2.4.5. 채널 복제(Replace the Selection with this Channel)](./15-02-02-02-04-05-replace_the_selection_with_this_channel.md)
+[➡️ 다음: 15.2.2.2.4.5. 채널을 선택으로 바꾸기(Replace the Selection with this Channel)](./15-02-02-02-04-05-replace_the_selection_with_this_channel.md)
 
 [⬅️ 이전: 15.2.2.2.4.3. 채널 내리기(Lower Channel)](./15-02-02-02-04-03-lower_channel.md)
 
