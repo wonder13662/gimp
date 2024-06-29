@@ -90,9 +90,9 @@
 
 [15.2.2.2.4.3. 채널 내리기(Lower Channel)](./15-02-02-02-04-03-lower_channel.md)
 
-[15.2.2.2.4.4. 채널 복사하기(Duplicate Channel)](./15-02-02-02-04-04-duplicate_channel.md)
+[15.2.2.2.4.4. 채널 복제(Duplicate Channel)](./15-02-02-02-04-04-duplicate_channel.md)
 
-[15.2.2.2.4.5. 채널 복사하기(Replace the Selection with this Channel)](./15-02-02-02-04-05-replace_the_selection_with_this_channel.md)
+[15.2.2.2.4.5. 채널 복제(Replace the Selection with this Channel)](./15-02-02-02-04-05-replace_the_selection_with_this_channel.md)
 
 [15.2.2.2.4.6. 채널 삭제하기(Delete Channel)](./15-02-02-02-04-06-delete_channel.md)
 

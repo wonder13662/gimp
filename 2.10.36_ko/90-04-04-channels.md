@@ -55,6 +55,13 @@
 
 [15.2.2.2.3.2. 채널 연결고리(Chain Channels) - 영상 90.4.4.a11.1.3.1](./15-02-02-02-03-02-chain_channels.md#90-04-04-a11-01-03-01)
 
+<a id="90-04-04-a11-01-04-06-01"></a>
+
+#### 영상 90.4.4.a11.1.4.6.1. `채널 대화상자` → `색 채널` → `컨텍스트 메뉴` → `채널 복제` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bc633af6-3664-4dfa-a215-139d49d442f3"></video>
+
+[15.2.2.2.4.4. 채널 복제(Duplicate Channel) - 영상 90.4.4.a11.1.4.6.1](./15-02-02-02-04-04-duplicate_channel.md#90-04-04-a11-01-04-06-01)
+
 <a id="90-04-04-a11-02"></a>
 
 #### 그림 90.4.4.a11.2. `채널 대화상자` → `선택 마스크` (Windows) (우리말)
@@ -210,6 +217,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ef10fab1-56fe-44c9-bf22-8aef3f99b8f1"></video>
 
 [15.2.2.2.4.3. 채널 내리기(Lower Channel) - 영상 90.4.4.a11.5.3.1](./15-02-02-02-04-03-lower_channel.md#90-04-04-a11-05-03-01)
+
+<a id="90-04-04-a11-05-04"></a>
+
+#### 그림 90.4.4.a11.5.4. `채널 대화상자` → `채널 관리` → `채널 복제` (Windows) (우리말)
+<img width="262" height="290" alt="90-04-04-a11-05-04" src="https://github.com/wonder13662/gimp/assets/15767104/f3a09be3-68ce-4aad-97f7-149fd35d2c14" />
+
+[15.2.2.2.4.4. 채널 복제(Duplicate Channel) - 그림 90.4.4.a11.5.4](./15-02-02-02-04-04-duplicate_channel.md#90-04-04-a11-05-04)
+
+<a id="90-04-04-a11-05-04-01"></a>
+
+#### 영상 90.4.4.a11.5.4.1. `채널 대화상자` → `채널 관리` → `채널 복제` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b50fee9b-70f8-4bb0-8aff-4cfc50e6db0e"></video>
+
+[15.2.2.2.4.4. 채널 복제(Duplicate Channel) - 영상 90.4.4.a11.5.4.1](./15-02-02-02-04-04-duplicate_channel.md#90-04-04-a11-05-04-01)
 
 <a id="90-04-04-a12"></a>
 
