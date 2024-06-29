@@ -1,8 +1,8 @@
-# 90.10.40.4.3. Shift(⇧): 새 레이어 대화상자의 마지막 설정된 값으로 새로운 레이어 만들기(Toggle Layer Visibility)
+# 90.10.40.4.3. Shift(⇧): 새 레이어 대화상자의 마지막 설정된 값으로 새 레이어 만들기(Toggle Layer Visibility)
 
 <a id="90-10-40-04-03-a1"></a>
 
-#### 영상 90.10.40.4.3.a1. Shift(⇧): 새 레이어 대화상자의 마지막 설정된 값으로 새로운 레이어 만들기 (Windows) (우리말)
+#### 영상 90.10.40.4.3.a1. Shift(⇧): 새 레이어 대화상자의 마지막 설정된 값으로 새 레이어 만들기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0ec68548-1fc0-4909-bb21-0c04d7a4e86a"></video>
 
 [15.2.1.2.4.1. 새 레이어(New Layer) - 영상 90.10.40.4.3.a1](./15-02-01-02-04-01-new_layer.md#90-10-40-04-03-a1)
