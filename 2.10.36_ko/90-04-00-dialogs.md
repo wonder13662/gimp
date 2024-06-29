@@ -569,6 +569,10 @@
 #### 그림 90.4.121.a101. `GEGL 동작` 대화상자 (Windows) (우리말)
 <img width="373" height="257" alt="90-04-121-a101" src="https://github.com/wonder13662/gimp/assets/15767104/14ee3345-338f-4559-b2a4-7d0224f17083" />
 
+### [90.4.122. 채널 속성(Channel Attributes)](./90-04-122-channel_attributes.md)
+#### 그림 90.4.122.a101. `채널 속성` 대화상자 (Windows) (우리말)
+<img width="560" height="264" alt="90-04-122-a101" src="https://github.com/wonder13662/gimp/assets/15767104/79f279c7-14b9-449a-ace1-0aba0fc53c64" />
+
 ***
 
 ## 공통 기능

@@ -134,7 +134,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.122. 채널 속성(Channel Attributes)](./90-04-122-channel_attributes.md)
 
 [⬅️ 이전: 90.4.120. 글자 색상](./90-04-120-text_color.md)
 

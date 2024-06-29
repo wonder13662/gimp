@@ -3193,6 +3193,8 @@
 
 [90.4.121. GEGL 동작](./90-04-121-gegl_operation.md)
 
+[90.4.122. 채널 속성(Channel Attributes)](./90-04-122-channel_attributes.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
