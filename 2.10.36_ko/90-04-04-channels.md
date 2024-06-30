@@ -256,7 +256,7 @@
 <a id="90-04-04-a11-05-06-01"></a>
 
 #### 영상 90.4.4.a11.5.6.1. `채널 대화상자` → `채널 관리` → `채널 삭제하기` (Windows) (우리말)
-<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/dc20013b-b09e-440e-af10-673fadd39fde"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f4aca433-acdb-4ab1-85ea-f9f3c1501f0a"></video>
 
 [15.2.2.2.4.6. 채널 삭제하기(Delete Channel) - 영상 90.4.4.a11.5.6.1](./15-02-02-02-04-06-delete_channel.md#90-04-04-a11-05-06-01)
 
