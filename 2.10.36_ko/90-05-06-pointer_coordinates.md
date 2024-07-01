@@ -27,7 +27,7 @@
 
 [➡️ 다음: 90.5.7. 단위 메뉴 (Units Menu)](./90-05-07-units_menu.md)
 
-[⬅️ 이전: 90.5.5. 퀵마스크 토글 버튼 (QuickMask Toggle)](./90-05-05-quickmask_toggle.md)
+[⬅️ 이전: 90.5.5. 퀵 마스크 토글 버튼 (QuickMask Toggle)](./90-05-05-quickmask_toggle.md)
 
 [⬆️ 위: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

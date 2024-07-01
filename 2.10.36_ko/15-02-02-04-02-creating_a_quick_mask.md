@@ -4,7 +4,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.2.4.3. 그라디언트와 함께 퀵마스크 사용하기(Using quick mask with a gradient)](./15-02-02-04-03-using_quick_mask_with_a_gradient.md)
+[➡️ 다음: 15.2.2.4.3. 그라디언트와 함께 퀵 마스크 사용하기(Using quick mask with a gradient)](./15-02-02-04-03-using_quick_mask_with_a_gradient.md)
 
 [⬅️ 이전: 15.2.2.4.1. 대화상자 활성화하기(Activate the dialog)](./15-02-02-04-01-activate_the_dialog.md)
 

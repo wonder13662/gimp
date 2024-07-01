@@ -21,16 +21,16 @@
 #### [영상 90.1.3.2.a112. 단축키 Shift + Ctrl + A (Windows) 또는 ⇧ + ⌘ + A (Mac)로 선택 영역 없애기](./90-01-03-02-none.md#90-01-03-02-a112)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2ab9dd30-30a4-4563-a938-31b94219327b"></video>
 
-### 4.2.3.2.2. 해결방안 - 선택영역을 퀵마스크로 확인하기
+### 4.2.3.2.2. 해결방안 - 선택영역을 퀵 마스크로 확인하기
 선택영역이 보이더라도, 기대하는 것과는 정반대의 선택영역일 수도 있습니다. 가장 쉽게 확인하는 방법은 [퀵 마스크](./07-03-00-the-quickmask.md) 버튼을 눌러보는 것입니다. 선택 영역인 곳은 사라지고, 선택 영역이 아닌 곳은 가려집니다. 
 
 <a id="90-05-05-a121"></a>
 
-#### [영상 90.5.5.a121. 퀵마스크 적용으로 선택영역 확인하기](./90-05-05-quickmask_toggle.md#90-05-05-a121)
+#### [영상 90.5.5.a121. 퀵 마스크 적용으로 선택영역 확인하기](./90-05-05-quickmask_toggle.md#90-05-05-a121)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/ecb7111d-e19d-4959-bd35-65dd55af06a0"></video>
 
 ### 4.2.3.2.3. 해결방안 - 선택영역을 반전시키기
-확인된 선택영역이 올바르지 않다면, 퀵마스크를 끈 뒤에 이미지 메뉴 바의 `선택(Select)` → `반전(Invert)` 또는 단축키 Ctrl + I (Windows) 또는 ⌘ + I (Mac)를 눌러 선택영역을 반대로 바꿀 수 있습니다.
+확인된 선택영역이 올바르지 않다면, 퀵 마스크를 끈 뒤에 이미지 메뉴 바의 `선택(Select)` → `반전(Invert)` 또는 단축키 Ctrl + I (Windows) 또는 ⌘ + I (Mac)를 눌러 선택영역을 반대로 바꿀 수 있습니다.
 
 <a id="90-01-03-03-a101"></a>
 

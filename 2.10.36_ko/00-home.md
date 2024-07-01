@@ -46,7 +46,7 @@
 
 [3.2.4.4. 눈금자 (Ruler)](./03-02-04-04-ruler.md)
 
-[3.2.4.5. 퀵마스크 토글 버튼 (QuickMask Toggle)](./03-02-04-05-quickmask-toggle.md)
+[3.2.4.5. 퀵 마스크 토글 버튼 (QuickMask Toggle)](./03-02-04-05-quickmask-toggle.md)
 
 [3.2.4.6. 커서 좌표 (Pointer Coordinates)](./03-02-04-06-pointer-coordinates.md)
 
@@ -238,13 +238,13 @@
 
 [7.2.2. 선택 더하기/빼기](./07-02-02-adding-or-subtracting-selections.md)
 
-[7.3. 퀵마스크](./07-03-00-the-quickmask.md)
+[7.3. 퀵 마스크](./07-03-00-the-quickmask.md)
 
-[7.3.1. 퀵마스크 개요](./07-03-01-overview.md)
+[7.3.1. 퀵 마스크 개요](./07-03-01-overview.md)
 
-[7.3.2. 퀵마스크 속성](./07-03-02-properties.md)
+[7.3.2. 퀵 마스크 속성](./07-03-02-properties.md)
 
-[7.4. 퀵마스크 모드 사용](./07-04-using-quickmask-mode.md)
+[7.4. 퀵 마스크 모드 사용](./07-04-using-quickmask-mode.md)
 
 [7.5. 경로](./07-05-00-paths.md)
 
@@ -1716,7 +1716,7 @@
 
 [15.2.2.3. 선택 마스크(Selection Masks)](./15-02-02-03-00-selection_masks.md)
 
-[15.2.2.3.1. 선택 마스크 사용하기(Using Selection Masks)](./15-02-02-03-01-using_selection_masks.md)
+[15.2.2.3.1. 선택 마스크 사용하기(Using Selection Masks)](./15-02-02-03-02-using_selection_masks.md)
 
 [15.2.2.4. 퀵 마스크(Quick Mask)](./15-02-02-04-00-quick_mask.md)
 
@@ -1724,7 +1724,7 @@
 
 [15.2.2.4.2. 퀵 마스크 만들기(Creating a quick mask)](./15-02-02-04-02-creating_a_quick_mask.md)
 
-[15.2.2.4.3. 그라디언트와 함께 퀵마스크 사용하기(Using quick mask with a gradient)](./15-02-02-04-03-using_quick_mask_with_a_gradient.md)
+[15.2.2.4.3. 그라디언트와 함께 퀵 마스크 사용하기(Using quick mask with a gradient)](./15-02-02-04-03-using_quick_mask_with_a_gradient.md)
 
 [15.2.2.4.4. 사용법(Usage)](./15-02-02-04-04-usage.md)
 
@@ -3217,7 +3217,7 @@
 
 [90.5.4. 눈금자 (Ruler)](./90-05-04-ruler.md)
 
-[90.5.5. 퀵마스크 토글 버튼 (QuickMask Toggle)](./90-05-05-quickmask_toggle.md)
+[90.5.5. 퀵 마스크 토글 버튼 (QuickMask Toggle)](./90-05-05-quickmask_toggle.md)
 
 [90.5.6. 커서 좌표 (Pointer Coordinates)](./90-05-06-pointer_coordinates.md)
 

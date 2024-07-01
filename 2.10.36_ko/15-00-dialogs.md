@@ -102,7 +102,7 @@
 
 [15.2.2.3. 선택 마스크(Selection Masks)](./15-02-02-03-00-selection_masks.md)
 
-[15.2.2.3.1. 선택 마스크 사용하기(Using Selection Masks)](./15-02-02-03-01-using_selection_masks.md)
+[15.2.2.3.1. 선택 마스크 사용하기(Using Selection Masks)](./15-02-02-03-02-using_selection_masks.md)
 
 [15.2.2.4. 퀵 마스크(Quick Mask)](./15-02-02-04-00-quick_mask.md)
 
@@ -110,7 +110,7 @@
 
 [15.2.2.4.2. 퀵 마스크 만들기(Creating a quick mask)](./15-02-02-04-02-creating_a_quick_mask.md)
 
-[15.2.2.4.3. 그라디언트와 함께 퀵마스크 사용하기(Using quick mask with a gradient)](./15-02-02-04-03-using_quick_mask_with_a_gradient.md)
+[15.2.2.4.3. 그라디언트와 함께 퀵 마스크 사용하기(Using quick mask with a gradient)](./15-02-02-04-03-using_quick_mask_with_a_gradient.md)
 
 [15.2.2.4.4. 사용법(Usage)](./15-02-02-04-04-usage.md)
 

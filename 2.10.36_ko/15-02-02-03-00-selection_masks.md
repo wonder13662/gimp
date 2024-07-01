@@ -26,13 +26,15 @@
 
 ## 하위 페이지
 
-[15.2.2.3.1. 선택 마스크 사용하기(Using Selection Masks)](./15-02-02-03-01-using_selection_masks.md)
+[15.2.2.3.1. 선택 마스크 만들기(Creating Selection Masks)](./15-02-02-03-01-creating_selection_masks.md)
+
+[15.2.2.3.2. 선택 마스크 사용하기(Using Selection Masks)](./15-02-02-03-02-using_selection_masks.md)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.2.3.1. 선택 마스크 사용하기(Using Selection Masks)](./15-02-02-03-01-using_selection_masks.md)
+[➡️ 다음: 15.2.2.3.1. 선택 마스크 만들기(Creating Selection Masks)](./15-02-02-03-01-creating_selection_masks.md)
 
 [⬅️ 이전: 15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu)](./15-02-02-02-05-channel_context_menu.md)
 

@@ -20,13 +20,13 @@
 
 [7.2.2. 선택 더하기/빼기](./07-02-02-adding-or-subtracting-selections.md)
 
-[7.3. 퀵마스크](./07-03-00-the-quickmask.md)
+[7.3. 퀵 마스크](./07-03-00-the-quickmask.md)
 
-[7.3.1. 퀵마스크 개요](./07-03-01-overview.md)
+[7.3.1. 퀵 마스크 개요](./07-03-01-overview.md)
 
-[7.3.2. 퀵마스크 속성](./07-03-02-properties.md)
+[7.3.2. 퀵 마스크 속성](./07-03-02-properties.md)
 
-[7.4. 퀵마스크 모드 사용](./07-04-using-quickmask-mode.md)
+[7.4. 퀵 마스크 모드 사용](./07-04-using-quickmask-mode.md)
 
 [7.5. 경로](./07-05-00-paths.md)
 

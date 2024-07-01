@@ -143,4 +143,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('15-02-02-02-04-06-delete_channel.md');
+doAsyncJob('15-02-02-04-00-quick_mask.md');

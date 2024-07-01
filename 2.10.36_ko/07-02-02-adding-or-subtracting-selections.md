@@ -100,7 +100,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 7.3. 퀵마스크](./07-03-00-the-quickmask.md)
+[➡️ 다음: 7.3. 퀵 마스크](./07-03-00-the-quickmask.md)
 
 [⬅️ 이전: 7.2.1.3. 선택을 옮기는 또다른 방법](./07-02-01-03-a_different_method_of_moving_a_selection.md)
 
