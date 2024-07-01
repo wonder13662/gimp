@@ -275,6 +275,49 @@
 #### 그림 90.4.4.a14. 채널 대화상자 (Mac) (영어)
 <img width="200" height="296" alt="90-04-04-a14" src="https://github.com/wonder13662/gimp/assets/15767104/226c99fe-3b11-41cb-93e0-0cfaaff79d36" />
 
+<a id="90-04-04-a21"></a>
+
+#### 그림 90.4.4.a21. `채널 컨텍스트 메뉴` (Windows) (우리말)
+<img width="192" height="313" alt="90-04-04-a21" src="https://github.com/wonder13662/gimp/assets/15767104/f471a823-f86f-4e8e-b78f-542e95bfdf6a" />
+
+[15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu) - 그림 90.4.4.a21](./15-02-02-02-05-channel_context_menu.md#90-04-04-a21)
+
+<a id="90-04-04-a21-01"></a>
+
+#### 영상 90.4.4.a21. `채널 컨텍스트 메뉴`: 채널 위에서 오른쪽 클릭해서 `채널 컨텍스트 메뉴` 열기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/428d1965-0c15-411d-94a2-17b7cc96c5f9"></video>
+
+[15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu) - 영상 90.4.4.a21](./15-02-02-02-05-channel_context_menu.md#90-04-04-a21-01)
+
+<a id="90-04-04-a21-02-02"></a>
+
+#### 그림 90.4.4.a21.2.2. `채널 컨텍스트 메뉴` → `색상 태그` (Windows) (우리말)
+<img width="273" height="314" alt="90-04-04-a21-02-02" src="https://github.com/wonder13662/gimp/assets/15767104/1688279e-3839-4bee-bf42-951b6619669b" />
+
+[15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu) - 그림 90.4.4.a21.2.2](./15-02-02-02-05-channel_context_menu.md#90-04-04-a21-02-02)
+
+<a id="90-04-04-a21-02-02-01"></a>
+
+#### 영상 90.4.4.a21.2.2.1. `채널 컨텍스트 메뉴` → `색상 태그` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/001986a7-e2ff-479b-bf03-7acc7d70c7e6"></video>
+
+[15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu) - 영상 90.4.4.a21.2.2.1](./15-02-02-02-05-channel_context_menu.md#90-04-04-a21-02-02-01)
+
+<a id="90-04-04-a22"></a>
+
+#### 그림 90.4.4.a22. `채널 컨텍스트 메뉴` (Windows) (영어)
+<img width="206" height="313" alt="90-04-04-a22" src="https://github.com/wonder13662/gimp/assets/15767104/3a38acba-e461-42d3-898e-ac632477f578" />
+
+<a id="90-04-04-a23"></a>
+
+#### 그림 90.4.4.a23. `채널 컨텍스트 메뉴` (Mac) (우리말)
+<img width="173" height="292" alt="90-04-04-a23" src="https://github.com/wonder13662/gimp/assets/15767104/c977885b-7cbb-4440-9488-f233542f48d2" />
+
+<a id="90-04-04-a24"></a>
+
+#### 그림 90.4.4.a24. `채널 컨텍스트 메뉴` (Mac) (영어)
+<img width="205" height="270" alt="90-04-04-a24" src="https://github.com/wonder13662/gimp/assets/15767104/a1762df6-6e22-4e98-bff8-7e2039b0a7b8" />
+
 <a id="90-04-04-a101"></a>
 
 #### 영상 90.4.4.a101. 채널에 붓 또는 지우개를 사용
