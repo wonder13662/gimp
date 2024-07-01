@@ -69,6 +69,8 @@
 
 [15.2.2.2.1. 개요(Overview) - 그림 90.4.4.a11.2](./15-02-02-02-01-overview.md#90-04-04-a11-02)
 
+[15.2.2.3. 선택 마스크(Selection Masks) - 그림 90.4.4.a11.2](./15-02-02-03-00-selection_masks.md#90-04-04-a11-02)
+
 <a id="90-04-04-a11-03"></a>
 
 #### 그림 90.4.4.a11.3. `채널 대화상자` → `채널 잠그기 버튼` (Windows) (우리말)
@@ -238,6 +240,8 @@
 <img width="262" height="290" alt="90-04-04-a11-05-05" src="https://github.com/wonder13662/gimp/assets/15767104/0606ab86-440d-4fbe-afa7-5d685ec42419" />
 
 [15.2.2.2.4.5. 채널을 선택으로 바꾸기(Replace the Selection with this Channel) - 그림 90.4.4.a11.5.5](./15-02-02-02-04-05-replace_the_selection_with_this_channel.md#90-04-04-a11-05-05)
+
+[15.2.2.3. 선택 마스크(Selection Masks) - 그림 90.4.4.a11.5.5](./15-02-02-03-00-selection_masks.md#90-04-04-a11-05-05)
 
 <a id="90-04-04-a11-05-05-01"></a>
 
