@@ -120,7 +120,7 @@
 
 [14.2.8.4. 전경 추출 정제하기(Refining Foreground Extraction)](./14-02-08-04-refining_foreground_extraction.md)
 
-[14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
+[14.3. 칠하기 도구(Paint tools)](./14-03-00-paint_tools.md)
 
 [14.3.1. 일반적인 특징(Common features)](./14-03-01-00-common-features.md)
 

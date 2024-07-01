@@ -47,7 +47,7 @@
 
 [⬅️ 이전: 14.3.3. 붓 도구 (연필, 칠하기붓, 에어브러시) - Brush tools (pencil, paintbrush, airbrush)](./14-03-03-00-brush-tools-pencil-paintbrush-airbrush.md)
 
-[⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
+[⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint_tools.md)
 
 [⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)
 

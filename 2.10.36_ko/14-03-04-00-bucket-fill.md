@@ -41,7 +41,7 @@
 
 [⬅️ 이전: 14.3.3.1. 동작 변경키(Key Modifiers)](./14-03-03-01-key_modifiers.md)
 
-[⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
+[⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint_tools.md)
 
 [⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)
 

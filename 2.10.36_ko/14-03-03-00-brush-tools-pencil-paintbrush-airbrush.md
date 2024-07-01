@@ -23,7 +23,7 @@
 
 [⬅️ 이전: 14.3.2.6. 동적 요소 옵션(Dynamics Options)](./14-03-02-06-dynamics_options.md)
 
-[⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
+[⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint_tools.md)
 
 [⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)
 

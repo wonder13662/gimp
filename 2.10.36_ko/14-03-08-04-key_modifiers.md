@@ -43,7 +43,7 @@ Shift(⇧) 키를 누르면 `직선 모드(Straight line mode)`로 바뀝니다.
 
 [⬆️ 위: 14.3.8. 마이페인트 붓(Mypaint brush)](./14-03-08-00-mypaint-brush.md)
 
-[⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
+[⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint_tools.md)
 
 [⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)
 

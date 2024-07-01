@@ -49,7 +49,7 @@
 
 [⬆️ 위: 14.3.7. 그리기 붓(Paintbrush)](./14-03-07-00-paintbrush.md)
 
-[⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
+[⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint_tools.md)
 
 [⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)
 

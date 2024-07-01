@@ -34,7 +34,7 @@
 
 [⬅️ 이전: 14.3.13.4. 복원 도구는 도장 도구가 아닙니다(Healing is not cloning)](./14-03-13-04-healing_is_not_cloning.md)
 
-[⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
+[⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint_tools.md)
 
 [⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)
 

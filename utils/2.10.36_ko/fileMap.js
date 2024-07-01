@@ -914,7 +914,7 @@ module.exports = {
         '14.2.8. 물체 선택 도구'
       ],
       [
-        '14-03-00-paint-tools.md', 
+        '14-03-00-paint_tools.md', 
         '14.3. 칠하기 도구(Paint tools)'
       ],
       [

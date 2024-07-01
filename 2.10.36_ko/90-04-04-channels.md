@@ -71,6 +71,20 @@
 
 [15.2.2.3. 선택 마스크(Selection Masks) - 그림 90.4.4.a11.2](./15-02-02-03-00-selection_masks.md#90-04-04-a11-02)
 
+<a id="90-04-04-a11-02-01"></a>
+
+#### 영상 90.4.4.a11.2.1. `채널 대화상자` → `선택 마스크`: 칠하기 도구로 수정하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4d2e9889-0a8d-4c3e-ba73-21d93396d4b6"></video>
+
+[15.2.2.3.2. 선택 마스크 사용하기(Using Selection Masks) - 영상 90.4.4.a11.2.1](./15-02-02-03-02-using_selection_masks.md#90-04-04-a11-02-01)
+
+<a id="90-04-04-a11-02-02"></a>
+
+#### 영상 90.4.4.a11.2.2. `채널 대화상자` → `선택 마스크`: 그라디언트와 무늬로 수정하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/90ce8a78-2963-4f45-8c72-862ad90c908f"></video>
+
+[15.2.2.3.2. 선택 마스크 사용하기(Using Selection Masks) - 영상 90.4.4.a11.2.2](./15-02-02-03-02-using_selection_masks.md#90-04-04-a11-02-02)
+
 <a id="90-04-04-a11-03"></a>
 
 #### 그림 90.4.4.a11.3. `채널 대화상자` → `채널 잠그기 버튼` (Windows) (우리말)
@@ -198,6 +212,13 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8f0ace6a-84f2-48e0-9f62-9cd712890b9c"></video>
 
 [15.2.2.2.4.1. 새 채널(New Channel) - 영상 90.4.4.a11.5.1.1](./15-02-02-02-04-01-new_channel.md#90-04-04-a11-05-01-01)
+
+<a id="90-04-04-a11-05-01-02"></a>
+
+#### 영상 90.4.4.a11.5.1.2. `채널 대화상자` → `채널 관리` → `새 채널`: 새로 만든 선택 마스크가 다른 선택 마스크 사이에서 강조색으로 표시됨 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4f46c943-52f7-4088-a129-1948fc48aec7"></video>
+
+[15.2.2.3.2. 선택 마스크 사용하기(Using Selection Masks) - ](./15-02-02-03-02-using_selection_masks.md#90-04-04-a11-05-01-02)
 
 <a id="90-04-04-a11-05-02"></a>
 

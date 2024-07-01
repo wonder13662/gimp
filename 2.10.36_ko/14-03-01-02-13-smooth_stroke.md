@@ -31,7 +31,7 @@
 
 [⬆️ 위: 14.3.1. 일반적인 특징(Common features)](./14-03-01-00-common-features.md)
 
-[⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint-tools.md)
+[⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint_tools.md)
 
 [⬆️ 위: 14. 도구(Tools)](./14-00-tools.md)
 
