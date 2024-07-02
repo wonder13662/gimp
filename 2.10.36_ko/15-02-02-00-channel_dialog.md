@@ -57,8 +57,6 @@
 
 [15.2.2.4.3. 그라디언트와 함께 퀵 마스크 사용하기(Using quick mask with a gradient)](./15-02-02-04-03-using_quick_mask_with_a_gradient.md)
 
-[15.2.2.4.4. 사용법(Usage)](./15-02-02-04-04-usage.md)
-
 ***
 
 ## 다른 페이지로 가기

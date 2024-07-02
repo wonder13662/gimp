@@ -112,8 +112,6 @@
 
 [15.2.2.4.3. 그라디언트와 함께 퀵 마스크 사용하기(Using quick mask with a gradient)](./15-02-02-04-03-using_quick_mask_with_a_gradient.md)
 
-[15.2.2.4.4. 사용법(Usage)](./15-02-02-04-04-usage.md)
-
 [15.2.3. 경로 대화상자(Paths dialog)](./15-02-03-paths-dialog.md)
 
 [15.2.4. 색상표 대화상자(Colormap dialog)](./15-02-04-colormap-dialog.md)
