@@ -364,6 +364,13 @@
 
 [15.2.2.2.1. 개요(Overview) - 그림 90.4.4.a111](./15-02-02-02-01-overview.md#90-04-04-a111)
 
+<a id="90-04-04-a121"></a>
+
+#### 영상 90.4.4.a121. 그라디언트와 함께 퀵 마스크 사용하기
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0213d127-9f99-4600-96c2-7568f4849145"></video>
+
+[15.2.2.4.3. 그라디언트와 함께 퀵 마스크 사용하기(Using quick mask with a gradient) - 영상 90.4.4.a121](./15-02-02-04-03-using_quick_mask_with_a_gradient.md#90-04-04-a121)
+
 ***
 
 ## 다른 페이지로 가기
