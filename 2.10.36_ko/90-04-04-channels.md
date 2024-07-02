@@ -278,7 +278,7 @@
 <a id="90-04-04-a11-05-05-01"></a>
 
 #### 영상 90.4.4.a11.5.5.1. `채널 대화상자` → `채널 관리` → `채널을 선택으로 바꾸기` (Windows) (우리말)
-<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1aed3a5f-ebd2-424e-a999-1ea0d5e4ede3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a4c6036a-4e43-4111-9c6c-196f8779770b"></video>
 
 [15.2.2.2.4.5. 채널을 선택으로 바꾸기(Replace the Selection with this Channel) - 영상 90.4.4.a11.5.5.1](./15-02-02-02-04-05-replace_the_selection_with_this_channel.md#90-04-04-a11-05-05-01)
 

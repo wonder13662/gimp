@@ -15,7 +15,7 @@
 <a id="90-04-04-a11-05-05-01"></a>
 
 #### [영상 90.4.4.a11.5.5.1. `채널 대화상자` → `채널 관리` → `채널을 선택으로 바꾸기` (Windows) (우리말)](./90-04-04-channels.md#90-04-04-a11-05-05-01)
-<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1aed3a5f-ebd2-424e-a999-1ea0d5e4ede3"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a4c6036a-4e43-4111-9c6c-196f8779770b"></video>
 
 <a id="15-02-02-02-04-05-s2"></a>
 
@@ -25,7 +25,7 @@ Shift(⇧) + `채널 대화상자` → `채널 관리` → `채널을 선택으�
 <a id="90-10-41-02-04-a1"></a>
 
 #### [영상 90.10.41.2.4.a1. Shift(⇧): 활성화된 `선택 마스크 채널`을 선택으로 바꿔 활성화된 선택에 더하기 (Windows) (우리말)](./90-10-41-02-04-transform_channel_to_adding_selection.md#90-10-41-02-04-a1)
-<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f6608867-b31b-4a24-a96f-87e1ef5b17d0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7acad3a3-f0db-467b-9199-cb2e5e341073"></video>
 
 <a id="15-02-02-02-04-05-s3"></a>
 
@@ -35,7 +35,7 @@ Ctrl(⌘) + `채널 대화상자` → `채널 관리` → `채널을 선택으�
 <a id="90-10-41-01-01-a1"></a>
 
 #### [영상 90.10.41.1.1.a1. Ctrl(⌘): 활성화된 `선택 마스크 채널`을 선택으로 바꿔 활성화된 선택에서 빼기 (Windows) (우리말)](./90-10-41-01-01-transform_channel_to_subtracting_selection.md#90-10-41-01-01-a1)
-<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d9a8eef6-f49a-42dc-b74a-c5a37a8d784b"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4d2522ff-c480-4d94-9afe-01799bf46fbc"></video>
 
 <a id="15-02-02-02-04-05-s4"></a>
 
@@ -45,7 +45,7 @@ Shift(⇧) + Ctrl(⌘) + `채널 대화상자` → `채널 관리` → `채널�
 <a id="90-10-41-01-02-a1"></a>
 
 #### [영상 90.10.41.1.2.a1. Shift(⇧) + Ctrl(⌘): 활성화된 `선택 마스크 채널`을 선택으로 바꿔 활성화된 선택에서 교차하기 (Windows) (우리말)](./90-10-41-01-02-transform_channel_to_interasecting_selection.md#90-10-41-01-02-a1)
-<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b15964b1-0827-48f7-b514-c9c93aab3d72"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/331b4b24-ed05-45de-9fe6-c7b090766765"></video>
 
 ***
 

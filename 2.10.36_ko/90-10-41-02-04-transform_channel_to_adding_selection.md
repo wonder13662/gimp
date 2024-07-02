@@ -3,7 +3,7 @@
 <a id="90-10-41-02-04-a1"></a>
 
 #### 영상 90.10.41.2.4.a1. Shift(⇧): 활성화된 `선택 마스크 채널`을 선택으로 바꿔 활성화된 선택에 더하기 (Windows) (우리말)
-<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f6608867-b31b-4a24-a96f-87e1ef5b17d0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7acad3a3-f0db-467b-9199-cb2e5e341073"></video>
 
 [15.2.2.2.4.5. 채널을 선택으로 바꾸기(Replace the Selection with this Channel) - 영상 90.10.41.2.4.a1](./15-02-02-02-04-05-replace_the_selection_with_this_channel.md#90-10-41-02-04-a1)
 
