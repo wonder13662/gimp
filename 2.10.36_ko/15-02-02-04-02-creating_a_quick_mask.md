@@ -1,5 +1,14 @@
 # 15.2.2.4.2. 퀵 마스크 만들기(Creating a quick mask)
 
+## 1. 퀵 마스크 켜기/끄기
+To initialize a Quick Mask, click the bottom-left button in the image window, If a selection was active in your image, then its content appears unchanged while the border is covered with a translucent red color. If no selection was active then all the image is covered with a translucent red color. Another click on the bottom-left button will deactivate the quick mask.
+
+## 2. ?
+From the channel dialog you can double click on the name or the thumbnail to edit the QMask attributes.
+
+Then you can change the Opacity and its filling color. At every moment you can hide the mask by clicking the eye icon in front of the QMask
+
+
 ***
 
 ## 다른 페이지로 가기
