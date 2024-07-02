@@ -15,7 +15,7 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4248aea3-b002-4970-9f06-1c9b00c961eb"></video>
 
 ## 경로 대화상자의 팝업 메뉴 - `경로 따라 그리기`
-[경로 대화상자](./15-02-03-paths-dialog.md)에서 오른쪽 클릭을 해서 나오는 팝업 메뉴에서 `경로 따라 그리기`를 선택합니다.
+[경로 대화상자](./15-02-03-00-paths-dialog.md)에서 오른쪽 클릭을 해서 나오는 팝업 메뉴에서 `경로 따라 그리기`를 선택합니다.
 
 <a id="90-04-05-a2201"></a>
 

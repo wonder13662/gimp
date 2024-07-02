@@ -43,7 +43,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.3. 경로 대화상자(Paths dialog)](./15-02-03-paths-dialog.md)
+[➡️ 다음: 15.2.3. 경로 대화상자(Paths dialog)](./15-02-03-00-paths-dialog.md)
 
 [⬅️ 이전: 15.2.2.4.2. 퀵 마스크 만들기(Creating a quick mask)](./15-02-02-04-02-creating_a_quick_mask.md)
 

@@ -1,4 +1,4 @@
-# 15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu)
+# 15.2.2.2.5. 채널 컨텍스트 메뉴(Channel Context Menu)
 
 <a id="90-04-04-a21"></a>
 

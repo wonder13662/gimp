@@ -16,7 +16,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu)](./15-02-02-02-05-channel_context_menu.md)
+[➡️ 다음: 15.2.2.2.5. 채널 컨텍스트 메뉴(Channel Context Menu)](./15-02-02-02-05-channel_context_menu.md)
 
 [⬅️ 이전: 15.2.2.2.4.5. 채널을 선택으로 바꾸기(Replace the Selection with this Channel)](./15-02-02-02-04-05-replace_the_selection_with_this_channel.md)
 

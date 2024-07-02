@@ -32,7 +32,7 @@
 
 [15.2.2.2.4.6. 채널 삭제하기(Delete Channel)](./15-02-02-02-04-06-delete_channel.md)
 
-[15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu)](./15-02-02-02-05-channel_context_menu.md)
+[15.2.2.2.5. 채널 컨텍스트 메뉴(Channel Context Menu)](./15-02-02-02-05-channel_context_menu.md)
 
 ***
 

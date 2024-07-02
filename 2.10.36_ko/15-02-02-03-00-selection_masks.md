@@ -36,7 +36,7 @@
 
 [➡️ 다음: 15.2.2.3.1. 선택 마스크 만들기(Creating Selection Masks)](./15-02-02-03-01-creating_selection_masks.md)
 
-[⬅️ 이전: 15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu)](./15-02-02-02-05-channel_context_menu.md)
+[⬅️ 이전: 15.2.2.2.5. 채널 컨텍스트 메뉴(Channel Context Menu)](./15-02-02-02-05-channel_context_menu.md)
 
 [⬆️ 위: 15.2.2. 채널 대화상자(Channel dialog)](./15-02-02-00-channel_dialog.md)
 

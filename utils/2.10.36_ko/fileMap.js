@@ -1118,7 +1118,7 @@ module.exports = {
         '15.2.2. 채널 대화상자'
       ],
       [
-        '15-02-03-paths-dialog.md', 
+        '15-02-03-00-paths-dialog.md', 
         '15.2.3. 경로 대화상자(Paths dialog)',
         '15.2.3. 경로 대화상자'
       ],

@@ -8,7 +8,7 @@
 
 [15.2.2.2.3.3. 미리보기(Thumbnail) - 그림 90.4.122.a101](./15-02-02-02-03-03-thumbnail.md#90-04-122-a101)
 
-[15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu) - 그림 90.4.122.a101](./15-02-02-02-05-channel_context_menu.md#90-04-122-a101)
+[15.2.2.2.5. 채널 컨텍스트 메뉴(Channel Context Menu) - 그림 90.4.122.a101](./15-02-02-02-05-channel_context_menu.md#90-04-122-a101)
 
 [15.2.2.4.2. 퀵 마스크 만들기(Creating a quick mask) - 그림 90.4.122.a101](./15-02-02-04-02-creating_a_quick_mask.md#90-04-122-a101)
 
@@ -24,28 +24,28 @@
 #### 그림 90.4.122.a101.3.1. `채널 속성` 대화상자 → `불투명도 채우기` → `불투명도` 입력창 (Windows) (우리말)
 <img width="560" height="264" alt="90-04-122-a101-03-01" src="https://github.com/wonder13662/gimp/assets/15767104/044b3f3c-7df5-407a-96f8-18f346fe3713" />
 
-[15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu) - 그림 90.4.122.a101.3.1](./15-02-02-02-05-channel_context_menu.md#90-04-122-a101-03-01)
+[15.2.2.2.5. 채널 컨텍스트 메뉴(Channel Context Menu) - 그림 90.4.122.a101.3.1](./15-02-02-02-05-channel_context_menu.md#90-04-122-a101-03-01)
 
 <a id="90-04-122-a101-03-01-01"></a>
 
 #### 영상 90.4.122.a101.3.1.1. `채널 속성` 대화상자 → `불투명도 채우기` → `불투명도` 입력창 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3e381866-7c84-4737-a49a-70c4b201090c"></video>
 
-[15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu) - 영상 90.4.122.a101.3.1.1](./15-02-02-02-05-channel_context_menu.md#90-04-122-a101-03-01-01)
+[15.2.2.2.5. 채널 컨텍스트 메뉴(Channel Context Menu) - 영상 90.4.122.a101.3.1.1](./15-02-02-02-05-channel_context_menu.md#90-04-122-a101-03-01-01)
 
 <a id="90-04-122-a101-03-02"></a>
 
 #### 그림 90.4.122.a101.3.2. `채널 속성` 대화상자 → `불투명도 채우기` → `색상` (Windows) (우리말)
 <img width="560" height="264" alt="90-04-122-a101-03-02" src="https://github.com/wonder13662/gimp/assets/15767104/379e3f68-4309-4829-b9ff-86ba671e0ebb" />
 
-[15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu) - 그림 90.4.122.a101.3.2](./15-02-02-02-05-channel_context_menu.md#90-04-122-a101-03-02)
+[15.2.2.2.5. 채널 컨텍스트 메뉴(Channel Context Menu) - 그림 90.4.122.a101.3.2](./15-02-02-02-05-channel_context_menu.md#90-04-122-a101-03-02)
 
 <a id="90-04-122-a101-03-02-01"></a>
 
 #### 영상 90.4.122.a101.3.2.1. `채널 속성` 대화상자 → `불투명도 채우기` → `색상` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c15f28e2-09fb-4199-9e2e-ba7957808469"></video>
 
-[15.2.2.2.5. 채널 컨택스트 메뉴(Channel Context Menu) - 영상 90.4.122.a101.3.2.1](./15-02-02-02-05-channel_context_menu.md#90-04-122-a101-03-02-01)
+[15.2.2.2.5. 채널 컨텍스트 메뉴(Channel Context Menu) - 영상 90.4.122.a101.3.2.1](./15-02-02-02-05-channel_context_menu.md#90-04-122-a101-03-02-01)
 
 <a id="90-04-122-a102"></a>
 
