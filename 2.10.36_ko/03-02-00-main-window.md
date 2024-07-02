@@ -29,7 +29,7 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 
 [3.2.3. 도구상자(The toolbox)](./03-02-03-the-toolbox.md)
 
-[3.2.4. 이미지 창(Image window)](./03-02-04-00-image-window.md)
+[3.2.4. 이미지 창(Image window)](./03-02-04-00-image_window.md)
 
 [3.2.4.1. 타이틀 바(Title Bar)](./03-02-04-01-title-bar.md)
 

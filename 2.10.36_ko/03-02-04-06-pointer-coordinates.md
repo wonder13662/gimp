@@ -24,7 +24,7 @@
 
 [⬅️ 이전: 3.2.4.5. 퀵 마스크 토글 버튼 (QuickMask Toggle)](./03-02-04-05-quickmask-toggle.md)
 
-[⬆️ 위: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image-window.md)
+[⬆️ 위: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image_window.md)
 
 [⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 

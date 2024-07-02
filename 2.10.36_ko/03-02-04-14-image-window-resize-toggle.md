@@ -85,7 +85,7 @@
 
 [⬅️ 이전: 3.2.4.13. 이미지 (Image Display)](./03-02-04-13-image-display.md)
 
-[⬆️ 위: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image-window.md)
+[⬆️ 위: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image_window.md)
 
 [⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 

@@ -39,7 +39,7 @@
 
 [⬅️ 이전: 3.2.4.12. 비활성 여백 공간 (Inactive Padding Area)](./03-02-04-12-inactive-padding-area.md)
 
-[⬆️ 위: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image-window.md)
+[⬆️ 위: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image_window.md)
 
 [⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 

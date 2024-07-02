@@ -127,7 +127,7 @@ GIMP가 새로 시작할 때마다, 이전에 종료하기 전까지 사용했�
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image-window.md)
+[➡️ 다음: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image_window.md)
 
 [⬅️ 이전: 3.2.2. 단일창 모드(single window mode)](./03-02-02-single_window_mode.md)
 

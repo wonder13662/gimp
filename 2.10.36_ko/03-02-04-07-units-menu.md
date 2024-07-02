@@ -36,7 +36,7 @@
 
 [⬅️ 이전: 3.2.4.6. 커서 좌표 (Pointer Coordinates)](./03-02-04-06-pointer-coordinates.md)
 
-[⬆️ 위: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image-window.md)
+[⬆️ 위: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image_window.md)
 
 [⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 

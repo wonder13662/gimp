@@ -48,7 +48,7 @@
 
 [⬅️ 이전: 3.2.4.10. 취소 버튼 (Cancel Button)](./03-02-04-10-cancel-button.md)
 
-[⬆️ 위: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image-window.md)
+[⬆️ 위: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image_window.md)
 
 [⬆️ 위: 3.2. GIMP(김프)의 주요 화면](./03-02-00-main-window.md)
 

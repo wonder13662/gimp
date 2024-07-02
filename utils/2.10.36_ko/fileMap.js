@@ -57,7 +57,7 @@ module.exports = {
         '3.2.3. 도구상자(The toolbox)',
       ],
       [
-        '03-02-04-00-image-window.md',
+        '03-02-04-00-image_window.md',
         '3.2.2. Image window',
         '3.2.4. 이미지 창(Image window)',
       ],

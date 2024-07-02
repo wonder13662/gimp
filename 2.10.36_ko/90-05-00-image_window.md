@@ -131,14 +131,14 @@
 #### 그림 90.5.a351. 다중창 모드의 이미지 창
 ![90-05-a351](https://github.com/wonder13662/gimp/assets/15767104/71a5c1f4-0bfc-486d-9534-1b211ff94b80)
 
-[3.2.4. 이미지 창(Image window) - 그림 90.5.a351](./03-02-04-00-image-window.md#90-05-a351)
+[3.2.4. 이미지 창(Image window) - 그림 90.5.a351](./03-02-04-00-image_window.md#90-05-a351)
 
 <a id="90-05-a361"></a>
 
 #### 그림 90.5.a361. 다중창 모드의 이미지 창
 ![90-05-a361](https://github.com/wonder13662/gimp/assets/15767104/49005d64-07cb-4d55-ae57-adddace9f92c)
 
-[3.2.4. 이미지 창(Image window) - 그림 90.5.a361](./03-02-04-00-image-window.md#90-05-a361)
+[3.2.4. 이미지 창(Image window) - 그림 90.5.a361](./03-02-04-00-image_window.md#90-05-a361)
 
 <a id="90-05-a371"></a>
 
