@@ -156,7 +156,7 @@
 
 [15.2.3.4.2. 경로 속성 수정하기(Edit Path Attributes)](./15-02-03-04-02-edit_path_attributes.md)
 
-[15.2.3.4.3. 색 태그(Color Tag)](./15-02-03-04-03-color_tag.md)
+[15.2.3.4.3. 색상 태그(Color Tag)](./15-02-03-04-03-color_tag.md)
 
 [15.2.3.4.4. 새 경로(New Path)](./15-02-03-04-04-new_path.md)
 
