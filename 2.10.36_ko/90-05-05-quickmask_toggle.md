@@ -27,12 +27,16 @@
 
 [7.3.1. 퀵 마스크 개요 - 영상 90.5.5.a111](./07-03-01-overview.md#90-05-05-a111)
 
+[15.2.2.4.1. 대화상자 활성화하기(Activate the dialog) - 영상 90.5.5.a111](./15-02-02-04-01-activate_the_dialog.md#90-05-05-a111)
+
 <a id="90-05-05-a112"></a>
 
 #### 그림 90.5.5.a112. 퀵 마스크 토글 확대해서 보기
 <img alt="90-05-05-a112" width="340" height="340" src="https://github.com/wonder13662/gimp/assets/15767104/f617094f-fd9c-4ae5-9256-d8eba0e4ce19" />
 
 [3.2.4.5. 퀵 마스크 토글 버튼 (QuickMask Toggle) - 그림 90.5.5.a112](./03-02-04-05-quickmask-toggle.md#90-05-05-a112)
+
+[15.2.2.4.1. 대화상자 활성화하기(Activate the dialog) - 그림 90.5.5.a112](./15-02-02-04-01-activate_the_dialog.md#90-05-05-a112)
 
 <a id="90-05-05-a121"></a>
 

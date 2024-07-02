@@ -28,7 +28,7 @@ GIMP(김프)에서의 선택을 보여주는 방법은 ["행진하는 개미(mar
 <a id="90-01-03-16-a101"></a>
 
 #### [그림 90.1.3.16.a101. `선택` → `퀵 마스크 전환`](./90-01-03-16-toggle_quick_mask.md#90-01-03-16-a101)
-![90-01-03-select(1080)-focus-toggle_quick_mask](https://github.com/wonder13662/gimp/assets/15767104/33b44419-8d09-45e2-83ea-130e8c25397f)
+![90-01-03-16-a101](https://github.com/wonder13662/gimp/assets/15767104/33b44419-8d09-45e2-83ea-130e8c25397f)
 
 <a id="90-01-03-16-a102"></a>
 
@@ -109,6 +109,8 @@ GIMP(김프)에서의 선택을 보여주는 방법은 ["행진하는 개미(mar
 ## 관련 정보
 
 [15.2.2.3. 선택 마스크(Selection Masks)](./15-02-02-03-00-selection_masks.md)
+
+[15.2.2.4. 퀵 마스크(Quick Mask)](./15-02-02-04-00-quick_mask.md)
 
 ***
 

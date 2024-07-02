@@ -4,7 +4,7 @@
 <a id="90-01-03-16-a101"></a>
 
 #### 그림 90.1.3.16.a101. `선택` → `퀵 마스크 전환`
-![90-01-03-select(1080)-focus-toggle_quick_mask](https://github.com/wonder13662/gimp/assets/15767104/33b44419-8d09-45e2-83ea-130e8c25397f)
+![90-01-03-16-a101](https://github.com/wonder13662/gimp/assets/15767104/33b44419-8d09-45e2-83ea-130e8c25397f)
 
 [7.3.1. 퀵 마스크 개요 - 그림 90.1.3.16.a101](./07-03-01-overview.md#90-01-03-16-a101)
 
