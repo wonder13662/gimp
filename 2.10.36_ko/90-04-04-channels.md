@@ -247,7 +247,7 @@
 
 <a id="90-04-04-a11-05-03-01"></a>
 
-#### 영상 90.4.4.a11.5.3.1. `채널 대화상자` → `채널 관리` → `채널 내리기`: 한칸 올리기 (Windows) (우리말)
+#### 영상 90.4.4.a11.5.3.1. `채널 대화상자` → `채널 관리` → `채널 내리기`: 한칸 내리기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ef10fab1-56fe-44c9-bf22-8aef3f99b8f1"></video>
 
 [15.2.2.2.4.3. 채널 내리기(Lower Channel) - 영상 90.4.4.a11.5.3.1](./15-02-02-02-04-03-lower_channel.md#90-04-04-a11-05-03-01)
