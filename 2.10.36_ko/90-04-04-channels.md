@@ -148,7 +148,7 @@
 #### 영상 90.4.4.a11.4.1.1. `채널 대화상자` → `채널 속성` → `채널 가시성`: 눈 아이콘 켜기/끄기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/df55ab19-4185-4a32-b3c3-47f78c23e7db"></video>
 
-[15.2.2.2.3.1. 채널 가시성(Channel Visibility) - ](./15-02-02-02-03-01-channel_visibility.md#)
+[15.2.2.2.3.1. 채널 가시성(Channel Visibility) - 영상 90.4.4.a11.4.1.1](./15-02-02-02-03-01-channel_visibility.md#90-04-04-a11-04-01-01)
 
 <a id="90-04-04-a11-04-02"></a>
 
@@ -206,12 +206,16 @@
 
 [15.2.2.2.4.1. 새 채널(New Channel) - 그림 90.4.4.a11.5.1](./15-02-02-02-04-01-new_channel.md#90-04-04-a11-05-01)
 
+[15.2.2.3.1. 선택 마스크 만들기(Creating Selection Masks) - 그림 90.4.4.a11.5.1](./15-02-02-03-01-creating_selection_masks.md#90-04-04-a11-05-01)
+
 <a id="90-04-04-a11-05-01-01"></a>
 
 #### 영상 90.4.4.a11.5.1.1. `채널 대화상자` → `채널 관리` → `새 채널` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8f0ace6a-84f2-48e0-9f62-9cd712890b9c"></video>
 
 [15.2.2.2.4.1. 새 채널(New Channel) - 영상 90.4.4.a11.5.1.1](./15-02-02-02-04-01-new_channel.md#90-04-04-a11-05-01-01)
+
+[15.2.2.3.1. 선택 마스크 만들기(Creating Selection Masks) - 영상 90.4.4.a11.5.1.1](./15-02-02-03-01-creating_selection_masks.md#90-04-04-a11-05-01-01)
 
 <a id="90-04-04-a11-05-01-02"></a>
 

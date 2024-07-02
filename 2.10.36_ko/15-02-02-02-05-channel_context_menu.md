@@ -149,7 +149,7 @@
 
 [➡️ 다음: 15.2.2.3. 선택 마스크(Selection Masks)](./15-02-02-03-00-selection_masks.md)
 
-[⬅️ 이전: 15.2.2.2.4. 채널 관리하기(Managing Channels)](./15-02-02-02-04-00-managing_channels.md)
+[⬅️ 이전: 15.2.2.2.4.6. 채널 삭제하기(Delete Channel)](./15-02-02-02-04-06-delete_channel.md)
 
 [⬆️ 위: 15.2.2.2. 채널 대화상자 사용하기(Using the Channel Dialog)](./15-02-02-02-00-using_the_channel_dialog.md)
 

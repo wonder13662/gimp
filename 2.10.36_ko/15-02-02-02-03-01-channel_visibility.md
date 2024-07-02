@@ -2,7 +2,7 @@
 
 <a id="90-04-04-a11-04-01"></a>
 
-#### [그림 90.4.4.a11.4.1. `채널 대화상자` → `채널 속성` → `채널 가시성` (Windows) (우리말)](./90-04-04-channels.md#)
+#### [그림 90.4.4.a11.4.1. `채널 대화상자` → `채널 속성` → `채널 가시성` (Windows) (우리말)](./90-04-04-channels.md#90-04-04-a11-04-01)
 <img width="262" height="290" alt="90-04-04-a11-04-01" src="https://github.com/wonder13662/gimp/assets/15767104/25a1f060-bceb-4f77-a15e-42a18da8c2e4" />
 
 기본으로 모든 채널과 색상은 보여지는 상태입니다.
@@ -26,9 +26,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.2.2.4. 채널 관리하기(Managing Channels)](./15-02-02-02-04-00-managing_channels.md)
+[➡️ 다음: 15.2.2.2.3.2. 채널 연결고리(Chain Channels)](./15-02-02-02-03-02-chain_channels.md)
 
-[⬅️ 이전: 15.2.2.2.2. 채널 잠그기 속성(Channel Lock Attributes)](./15-02-02-02-02-channel_lock_attributes.md)
+[⬅️ 이전: 15.2.2.2.3. 채널 속성(Channel Attributes)](./15-02-02-02-03-00-channel_attributes.md)
 
 [⬆️ 위: 15.2.2.2.3. 채널 속성(Channel Attributes)](./15-02-02-02-03-00-channel_attributes.md)
 

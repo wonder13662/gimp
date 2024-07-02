@@ -52,7 +52,7 @@ const doAsyncJob = async () => {
       // validateLinksInPage.doAsyncJob(pageRootPath, files, i)
 
       // 6. 페이지 내의 콘텐츠와 콘텐츠 페이지 간의 링크 연결고리(Loop Link) 검사
-      hasBrokenLoopLink.doAsyncJob(pageRootPath, files, i)
+      // hasBrokenLoopLink.doAsyncJob(pageRootPath, files, i)
     }
   } catch (err) {
     console.error(err);

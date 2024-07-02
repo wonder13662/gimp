@@ -25,7 +25,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.2.2.4. 채널 관리하기(Managing Channels)](./15-02-02-02-04-00-managing_channels.md)
+[➡️ 다음: 15.2.2.2.3.1. 채널 가시성(Channel Visibility)](./15-02-02-02-03-01-channel_visibility.md)
 
 [⬅️ 이전: 15.2.2.2.2. 채널 잠그기 속성(Channel Lock Attributes)](./15-02-02-02-02-channel_lock_attributes.md)
 

@@ -1,6 +1,7 @@
 const { 
   readFile, 
   extractPageAnchorLinks,
+  isValidPath,
 } = require('../utils')
 
 module.exports = {

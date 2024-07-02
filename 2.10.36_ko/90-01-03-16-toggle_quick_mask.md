@@ -8,12 +8,16 @@
 
 [7.3.1. 퀵 마스크 개요 - 그림 90.1.3.16.a101](./07-03-01-overview.md#90-01-03-16-a101)
 
+[15.2.2.4.1. 대화상자 활성화하기(Activate the dialog) - 그림 90.1.3.16.a101](./15-02-02-04-01-activate_the_dialog.md#90-01-03-16-a101)
+
 <a id="90-01-03-16-a102"></a>
 
 #### 영상 90.1.3.16.a102. `선택` → `퀵 마스크 전환`
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0082b9cc-700f-4ecb-8e95-7e8d351c17ec"></video>
 
 [7.3.1. 퀵 마스크 개요 - 영상 90.1.3.16.a102](./07-03-01-overview.md#90-01-03-16-a102)
+
+[15.2.2.4.1. 대화상자 활성화하기(Activate the dialog) - 영상 90.1.3.16.a102](./15-02-02-04-01-activate_the_dialog.md#90-01-03-16-a102)
 
 <a id="90-01-03-16-a103"></a>
 
