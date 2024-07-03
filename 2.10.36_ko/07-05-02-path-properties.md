@@ -9,7 +9,7 @@
 <a id="90-04-05-a1"></a>
 
 #### [그림 90.4.5.a1. 경로 대화상자](./90-04-05-paths.md#90-04-05-a1)
-![90-04-05-a1](https://github.com/wonder13662/gimp/assets/15767104/65211e47-f3d5-48cc-ab61-7c57babfa5ed)
+<img width="894" height="382" alt="90-04-05-a1" src="https://github.com/wonder13662/gimp/assets/15767104/8909c470-8a8f-4125-a90b-9378be7e36c5" />
 
 <a id="07-05-02-s2"></a>
 
