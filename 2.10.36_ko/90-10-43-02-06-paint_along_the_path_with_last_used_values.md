@@ -1,5 +1,12 @@
 # 90.10.43.2.6. Shift(⇧): 마지막 설정값으로 경로따라 그리기
 
+<a id="90-10-43-02-06-a1"></a>
+
+#### 영상 90.10.43.2.6.a1. Shift(⇧): 마지막 설정값으로 경로따라 그리기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5cee7f70-f306-4624-a3bc-15a7b78370f7"></video>
+
+[15.2.3.3.7. 경로따라 칠하기(Paint along the Path) - 영상 90.10.43.2.6.a1](./15-02-03-03-07-paint_along_the_path.md#90-10-43-02-06-a1)
+
 ***
 
 ## 다른 페이지로 가기

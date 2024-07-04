@@ -1,5 +1,21 @@
 # 15.2.3.3.7. 경로따라 칠하기(Paint along the Path)
 
+<a id="90-04-05-a141-07-07"></a>
+
+#### [그림 90.4.5.a141.7.7. `경로 대화상자` → `버튼들` → `경로따라 칠하기` (windows) (우리말)](./90-04-05-paths.md#90-04-05-a141-07-07)
+<img width="200" height="257" alt="90-04-05-a141-07-07" src="https://github.com/wonder13662/gimp/assets/15767104/a52ff0f9-dc3c-47df-b044-fb3c1dba2a8f" />
+
+기본 동작은 [16.3.21. 경로따라 그리기(Stroke Path)](./16-03-21-stroke-path.md)을 참고해주세요.
+
+Shift(⇧) 키를 누른 채로 `경로따라 칠하기(Paint along the Path)` 버튼을 클릭하면, 마지막으로 `경로 따라 그리기` 대화상자에 설정되었던 값이 적용되어 경로에 따라 선을 그리게 됩니다.
+
+아래 영상을 확인해보면, 바뀌는 점선의 스타일이 바로 적용되어 그려지는 것을 확인할 수 있습니다.
+
+<a id="90-10-43-02-06-a1"></a>
+
+#### [영상 90.10.43.2.6.a1. Shift(⇧): 마지막 설정값으로 경로따라 그리기 (Windows) (우리말)](./90-10-43-02-06-paint_along_the_path_with_last_used_values.md#90-10-43-02-06-a1)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5cee7f70-f306-4624-a3bc-15a7b78370f7"></video>
+
 ***
 
 ## 다른 페이지로 가기
