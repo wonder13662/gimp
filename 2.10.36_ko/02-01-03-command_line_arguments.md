@@ -120,22 +120,22 @@ GTK+ 옵션을 보여줍니다.
 
 <a id="90-04-15-a101"></a>
 
-#### [그림 90.4.15.a101. 붓 대화상자(brush dialog)](./90-04-15-brushes.md#90-04-15-a101)
+#### [그림 90.4.15.a101. 붓 대화상자(brush dialog)](./90-04-0015-brushes.md#90-04-15-a101)
 ![90-04-15-a101](https://github.com/wonder13662/gimp/assets/15767104/59bbf85f-d885-4f8a-bc09-d05a0fc7ac23)
 
 <a id="90-04-19-a4"></a>
 
-#### [그림 90.4.19.a4. 그라디언트 대화상자(gradient dialog)](./90-04-19-gradient.md#90-04-19-a4)
+#### [그림 90.4.19.a4. 그라디언트 대화상자(gradient dialog)](./90-04-0019-gradient.md#90-04-19-a4)
 ![90-04-19-a4](https://github.com/wonder13662/gimp/assets/15767104/ad0a4680-d117-47f0-90f0-edf3e532020a)
 
 <a id="90-04-20-a4"></a>
 
-#### [그림 90.4.20.a4. 팔레트 대화상자(palette dialog)](./90-04-20-palette.md#90-04-20-a4)
+#### [그림 90.4.20.a4. 팔레트 대화상자(palette dialog)](./90-04-0020-palette.md#90-04-20-a4)
 ![90-04-20-a4](https://github.com/wonder13662/gimp/assets/15767104/0734f993-5e82-4182-a986-931dadbb3eb9)
 
 <a id="90-04-18-a2"></a>
 
-#### [그림 90.4.18.a2. 무늬 대화상자(pattern dialog)](./90-04-18-patterns.md#90-04-18-a2)
+#### [그림 90.4.18.a2. 무늬 대화상자(pattern dialog)](./90-04-0018-patterns.md#90-04-18-a2)
 ![90-04-18-a2](https://github.com/wonder13662/gimp/assets/15767104/c918e337-d746-438c-ab0c-f036dbc7e46f)
 
 <a id="02-01-03-s11"></a>
@@ -153,7 +153,7 @@ GTK+ 옵션을 보여줍니다.
 
 <a id="90-04-21-a2"></a>
 
-#### [그림 90.4.21.a2. `-no-fonts` 사용한 경우와 그렇지 않은 경우 비교](./90-04-21-fonts.md#90-04-21-a2)
+#### [그림 90.4.21.a2. `-no-fonts` 사용한 경우와 그렇지 않은 경우 비교](./90-04-0021-fonts.md#90-04-21-a2)
 ![90-04-21-a2](https://github.com/wonder13662/gimp/assets/15767104/fc8d52e4-09ac-46b2-8e46-278fd53bef95)
 
 <a id="02-01-03-s12"></a>

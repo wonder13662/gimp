@@ -5,7 +5,7 @@
 #### 그림 90.3.2.3.a1. `도구상자` → `사각 선택`의 도구옵션
 ![90-03-02-03-a1](https://github.com/wonder13662/gimp/assets/15767104/ea9abf7e-e1c4-4bcf-9109-57b8b1f3f97d)
 
-[90.4.1.3. 사각 선택(Rectangle Select) - 그림 90.3.2.3.a1](./90-04-01-03-rectangle_select.md#90-03-02-03-a1)
+[90.4.1.3. 사각 선택(Rectangle Select) - 그림 90.3.2.3.a1](./90-04-0001-003-rectangle_select.md#90-03-02-03-a1)
 
 [14.2.2. 사각 선택 도구(Rectangle selection) - 그림 90.3.2.3.a1](./14-02-02-00-rectangle-selection.md#90-03-02-03-a1)
 
@@ -175,7 +175,7 @@
 
 ## 관련 정보
 
-[90.4.1.3. 사각 선택(Rectangle Select)](./90-04-01-03-rectangle_select.md)
+[90.4.1.3. 사각 선택(Rectangle Select)](./90-04-0001-003-rectangle_select.md)
 
 ***
 

@@ -37,7 +37,7 @@
 
 <a id="90-04-01-a101"></a>
 
-#### [영상 90.4.1.a101. '도구 옵션' 대화상자를 드래그해서 옮기기](./90-04-01-00-tool_options.md#90-04-01-a101)
+#### [영상 90.4.1.a101. '도구 옵션' 대화상자를 드래그해서 옮기기](./90-04-0001-000-tool_options.md#90-04-01-a101)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4a654ab9-d649-477f-a106-694cc5f1f98d"></video>
 
 ## 3. 대화상자를 독에 잠궈두기

@@ -14,10 +14,10 @@ GIMP(김프)에서 키보드 단축키를 만들 수 있습니다. 여기서 말
 
 <a id="90-04-87-a101"></a>
 
-#### [그림 90.4.87.a101. `키보드 단축키 설정` 대화상자 (Windows) (우리말)](./90-04-87-configure_keyboard_shortcuts.md#90-04-87-a101)
+#### [그림 90.4.87.a101. `키보드 단축키 설정` 대화상자 (Windows) (우리말)](./90-04-0087-configure_keyboard_shortcuts.md#90-04-87-a101)
 ![90-04-87-a101](https://github.com/wonder13662/gimp/assets/15767104/7bc6c2be-e65c-453c-8566-d6d975d6d3f3)
 
-[다른 운영체제와 언어의 `키보드 단축키 설정` 대화상자 확인하기](./90-04-87-configure_keyboard_shortcuts.md#90-04-87-a102)
+[다른 운영체제와 언어의 `키보드 단축키 설정` 대화상자 확인하기](./90-04-0087-configure_keyboard_shortcuts.md#90-04-87-a102)
 
 ## 3. 마칠 때 키보드 단축키 저장(Save keyboard shortcuts on exit)
 바꾼 단축키를 GIMP(김프)를 종료한 뒤에 다시 GIMP(김프)에서 쓰고 싶다면, `마칠 때 키보드 단축키 저장(Save keyboard shortcuts on exit)` 체크박스를 켜두어야 합니다. 만약 그렇지 않다면, `마칠 때 키보드 단축키 저장(Save keyboard shortcuts on exit)` 체크박스를 꺼주시면 됩니다.

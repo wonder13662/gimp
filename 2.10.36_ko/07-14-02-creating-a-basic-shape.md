@@ -35,7 +35,7 @@ GIMP(김프)는 그리기에 적합한 도구는 아닙니다. 그러나, 선택
 
 <a id="90-04-01-03-a151"></a>
 
-#### [영상 90.4.1.3.a151. 새로운 이미지에서 사각 선택하기 (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a151)
+#### [영상 90.4.1.3.a151. 새로운 이미지에서 사각 선택하기 (Windows) (우리말)](./90-04-0001-003-rectangle_select.md#90-04-01-03-a151)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3bbc8add-a2a5-401b-bf15-0b580cd9cbfe"></video>
 
 <a id="07-14-02-s4"></a>
@@ -45,7 +45,7 @@ GIMP(김프)는 그리기에 적합한 도구는 아닙니다. 그러나, 선택
 
 <a id="90-04-01-03-a152"></a>
 
-#### [영상 90.4.1.3.a152. 사각 선택에 전경색 채우기 (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a152)
+#### [영상 90.4.1.3.a152. 사각 선택에 전경색 채우기 (Windows) (우리말)](./90-04-0001-003-rectangle_select.md#90-04-01-03-a152)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2e94a6c7-d961-4748-9d2b-0a8a369d1a8e"></video>
 
 <a id="07-14-02-s5"></a>
@@ -55,7 +55,7 @@ GIMP(김프)는 그리기에 적합한 도구는 아닙니다. 그러나, 선택
 
 <a id="90-04-01-03-a153"></a>
 
-#### [영상 90.4.1.3.a153. 사각 선택에 선택 영역 따라그리기 (Windows) (우리말)](./90-04-01-03-rectangle_select.md#90-04-01-03-a153)
+#### [영상 90.4.1.3.a153. 사각 선택에 선택 영역 따라그리기 (Windows) (우리말)](./90-04-0001-003-rectangle_select.md#90-04-01-03-a153)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d402e542-4a98-433b-bd86-dda9b6a0186c"></video>
 
 그리고 그 뒤에 [이미지 메뉴 바](./03-02-04-02-image-menu.md)의 `선택` → `없음` 메뉴를 선택해서 선택을 없앱니다.

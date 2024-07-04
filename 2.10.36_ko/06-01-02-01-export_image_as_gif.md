@@ -2,10 +2,10 @@
 
 <a id="90-04-43-a101"></a>
 
-#### [그림 90.4.43.a101. `이미지를 GIF로 내보내기` 대화상자 (Windows) (우리말)](./90-04-43-export_image_as_gif.md#90-04-43-a101)
+#### [그림 90.4.43.a101. `이미지를 GIF로 내보내기` 대화상자 (Windows) (우리말)](./90-04-0043-export_image_as_gif.md#90-04-43-a101)
 ![90-04-43-a101](https://github.com/wonder13662/gimp/assets/15767104/8fed8899-7e30-4e49-b170-9f263fdc4843)
 
-[다른 운영체제와 언어의 `이미지를 GIF로 내보내기` 대화상자 확인하기](./90-04-43-export_image_as_gif.md#90-04-43-a102)
+[다른 운영체제와 언어의 `이미지를 GIF로 내보내기` 대화상자 확인하기](./90-04-0043-export_image_as_gif.md#90-04-43-a102)
 
 > ⚠️ 주의
 >
@@ -31,7 +31,7 @@ GIF 설명은 [7비트 ASCII 문자](https://en.wikipedia.org/wiki/ASCII#ASCII_p
 
 <a id="90-04-43-a111"></a>
 
-#### [영상 90.4.43.a111. GIF 설명 입력제한 - 7비트 ASCII 문자만 가능 (Windows) (우리말)](./90-04-43-export_image_as_gif.md#90-04-43-a111)
+#### [영상 90.4.43.a111. GIF 설명 입력제한 - 7비트 ASCII 문자만 가능 (Windows) (우리말)](./90-04-0043-export_image_as_gif.md#90-04-43-a111)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/aa25ead1-29e9-46ff-8427-e9b5f4bbb779"></video>
 
 <a id="06-01-02-01-s2"></a>
@@ -55,10 +55,10 @@ GIF 설명은 [7비트 ASCII 문자](https://en.wikipedia.org/wiki/ASCII#ASCII_p
 
 <a id="90-04-43-a121"></a>
 
-#### [그림 90.4.43.a121. `이미지를 GIF로 내보내기` 대화상자 - 프레임의 기본 처리 (Windows) (우리말)](./90-04-43-export_image_as_gif.md#90-04-43-a121)
+#### [그림 90.4.43.a121. `이미지를 GIF로 내보내기` 대화상자 - 프레임의 기본 처리 (Windows) (우리말)](./90-04-0043-export_image_as_gif.md#90-04-43-a121)
 ![90-04-43-a121](https://github.com/wonder13662/gimp/assets/15767104/96d97235-0b46-4cff-81a3-09687a85d88c)
 
-[다른 운영체제와 언어의 `이미지를 GIF로 내보내기` 대화상자 - 프레임의 기본 처리 확인하기](./90-04-43-export_image_as_gif.md#90-04-43-a122)
+[다른 운영체제와 언어의 `이미지를 GIF로 내보내기` 대화상자 - 프레임의 기본 처리 확인하기](./90-04-0043-export_image_as_gif.md#90-04-43-a122)
 
 1. 보호하지 않습니다(I don't care)
    - 모든 레이어가 불투명하다면 이 옵션을 사용할 수 있습니다. 아래의 레이어에 윗 레이어가 덮여쓰여집니다.

@@ -92,7 +92,7 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 
 <a id="90-04-a111"></a>
 
-#### [영상 90.4.a111. 대화상자 이동](./90-04-00-dialogs.md#90-04-a111)
+#### [영상 90.4.a111. 대화상자 이동](./90-04-0000-dialogs.md#90-04-a111)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d493e232-1630-47f5-8e5b-5fda0fdd0b87"></video>
 
 <a id="03-02-05-01-s10"></a>
@@ -101,12 +101,12 @@ GIMP의 오른쪽 판의 아래쪽에 있는 독. 레이어(Layers), 채널(Chan
 
 <a id="90-04-a112"></a>
 
-#### [영상 90.4.a112. 대화상자그룹에 넣기](./90-04-00-dialogs.md#90-04-a112)
+#### [영상 90.4.a112. 대화상자그룹에 넣기](./90-04-0000-dialogs.md#90-04-a112)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e3a0a266-aba7-4a96-86f4-ab00cc4168d2"></video>
 
 <a id="90-04-a113"></a>
 
-#### [영상 90.4.a113. 독(Dock) 한쪽에 대화상자 추가](./90-04-00-dialogs.md#90-04-a113)
+#### [영상 90.4.a113. 독(Dock) 한쪽에 대화상자 추가](./90-04-0000-dialogs.md#90-04-a113)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b1acca7-a83c-4b8d-a5fe-10a4ab7b7979"></video>
 
 <a id="03-02-05-01-s11"></a>

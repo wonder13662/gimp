@@ -2,14 +2,14 @@
 
 <a id="90-04-05-a141-07-06"></a>
 
-#### [그림 90.4.5.a141.7.6. `경로 대화상자` → `버튼들` → `선택을 경로로 바꾸기` (windows) (우리말)](./90-04-05-paths.md#90-04-05-a141-07-06)
+#### [그림 90.4.5.a141.7.6. `경로 대화상자` → `버튼들` → `선택을 경로로 바꾸기` (windows) (우리말)](./90-04-0005-paths.md#90-04-05-a141-07-06)
 <img width="200" height="257" alt="90-04-05-a141-07-06" src="https://github.com/wonder13662/gimp/assets/15767104/038e0c31-0b8d-414c-9bfa-3ecaa71f6b51" />
 
 `선택을 경로로 바꾸기(Selection to Path)` 버튼을 클릭하면, 활성화된 선택을 새로운 경로로 만들어 줍니다.
 
 <a id="90-04-05-a141-07-06-01"></a>
 
-#### [영상 90.4.5.a141.7.6.1. `경로 대화상자` → `버튼들` → `선택을 경로로 바꾸기` (windows) (우리말)](./90-04-05-paths.md#90-04-05-a141-07-06-01)
+#### [영상 90.4.5.a141.7.6.1. `경로 대화상자` → `버튼들` → `선택을 경로로 바꾸기` (windows) (우리말)](./90-04-0005-paths.md#90-04-05-a141-07-06-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5a0bb8c1-f5c3-4b20-bd63-b1d934044aac"></video>
 
 Shift(⇧) 키를 누른 채로 `선택을 경로로 바꾸기(Selection to Path)` 버튼을 클릭하면, `선택을 경로로 바꾸기 고급 설정` 대화상자가 열립니다.
@@ -18,10 +18,10 @@ Shift(⇧) 키를 누른 채로 `선택을 경로로 바꾸기(Selection to Path
 
 <a id="90-04-126-a101"></a>
 
-#### [그림 90.4.126.a101. `선택을 경로로 바꾸기 고급 설정` 대화상자 (Windows) (우리말)](./90-04-126-selection_to_path_advanced_settings.md#90-04-126-a101)
+#### [그림 90.4.126.a101. `선택을 경로로 바꾸기 고급 설정` 대화상자 (Windows) (우리말)](./90-04-0126-selection_to_path_advanced_settings.md#90-04-126-a101)
 <img width="402" height="723" alt="90-04-126-a101" src="https://github.com/wonder13662/gimp/assets/15767104/8f09a71d-0f95-4cdb-8fc7-fa464c8d878e" />
 
-[다른 운영체제와 언어의 `선택을 경로로 바꾸기 고급 설정` 대화상자 확인하기](./90-04-126-selection_to_path_advanced_settings.md#90-04-126-a102)
+[다른 운영체제와 언어의 `선택을 경로로 바꾸기 고급 설정` 대화상자 확인하기](./90-04-0126-selection_to_path_advanced_settings.md#90-04-126-a102)
 
 <a id="90-10-43-02-05-a1"></a>
 

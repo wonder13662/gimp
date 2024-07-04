@@ -20,14 +20,14 @@
 
 <a id="90-04-93-a101"></a>
 
-#### [그림 90.4.93.a101. `임시 폴더 선택` 대화상자 (Windows) (우리말)](./90-04-93-select_folder_for_temporary_files.md#90-04-93-a101)
+#### [그림 90.4.93.a101. `임시 폴더 선택` 대화상자 (Windows) (우리말)](./90-04-0093-select_folder_for_temporary_files.md#90-04-93-a101)
 ![90-04-93-a101](https://github.com/wonder13662/gimp/assets/15767104/18b11064-4a1f-49f1-b67c-13ea8ae12dcc)
 
-[다른 운영체제와 언어의 `임시 폴더 선택` 대화상자 확인하기](./90-04-93-select_folder_for_temporary_files.md#90-04-93-a102)
+[다른 운영체제와 언어의 `임시 폴더 선택` 대화상자 확인하기](./90-04-0093-select_folder_for_temporary_files.md#90-04-93-a102)
 
 <a id="90-04-93-a105"></a>
 
-#### [영상 90.4.93.a105. `임시 폴더 선택` 대화상자: 열기 (Windows) (우리말)](./90-04-93-select_folder_for_temporary_files.md#90-04-93-a105)
+#### [영상 90.4.93.a105. `임시 폴더 선택` 대화상자: 열기 (Windows) (우리말)](./90-04-0093-select_folder_for_temporary_files.md#90-04-93-a105)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c20056ee-166d-497f-a6b4-a8b382e9525b"></video>
 
 <a id="12-01-24-s1-02"></a>
@@ -41,14 +41,14 @@
 
 <a id="90-04-94-a101"></a>
 
-#### [그림 90.4.94.a101. `스왑 디렉터리 선택` 대화상자 (Windows) (우리말)](./90-04-94-select_swap_folder.md#90-04-94-a101)
+#### [그림 90.4.94.a101. `스왑 디렉터리 선택` 대화상자 (Windows) (우리말)](./90-04-0094-select_swap_folder.md#90-04-94-a101)
 ![90-04-94-a101](https://github.com/wonder13662/gimp/assets/15767104/302f4c9e-f77c-4389-ae2f-5a0295b4e15e)
 
-[다른 운영체제와 언어의 `임시 폴더 선택` 대화상자 확인하기](./90-04-94-select_swap_folder.md#90-04-94-a102)
+[다른 운영체제와 언어의 `임시 폴더 선택` 대화상자 확인하기](./90-04-0094-select_swap_folder.md#90-04-94-a102)
 
 <a id="90-04-94-a105"></a>
 
-#### [영상 90.4.94.a105. `스왑 디렉터리 선택` 대화상자: 열기 (Windows) (우리말)](./90-04-94-select_swap_folder.md#90-04-94-a105)
+#### [영상 90.4.94.a105. `스왑 디렉터리 선택` 대화상자: 열기 (Windows) (우리말)](./90-04-0094-select_swap_folder.md#90-04-94-a105)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c018f991-ab43-464f-88d2-75bc50def871"></video>
 
 ***

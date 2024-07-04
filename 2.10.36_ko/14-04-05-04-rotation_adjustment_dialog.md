@@ -2,10 +2,10 @@
 
 <a id="90-04-111-a101"></a>
 
-#### [그림 90.4.111.a101. `회전 조정` 대화상자 (Windows) (우리말)](./90-04-111-rotation_adjustment.md#90-04-111-a101)
+#### [그림 90.4.111.a101. `회전 조정` 대화상자 (Windows) (우리말)](./90-04-0111-rotation_adjustment.md#90-04-111-a101)
 ![90-04-111-a101](https://github.com/wonder13662/gimp/assets/15767104/4565e4f5-9a7e-4633-80da-ba8dba0a7e65)
 
-[다른 운영체제와 언어의 `회전 조정` 대화상자 확인하기](./90-04-111-rotation_adjustment.md#90-04-111-a102)
+[다른 운영체제와 언어의 `회전 조정` 대화상자 확인하기](./90-04-0111-rotation_adjustment.md#90-04-111-a102)
 
 <a id="14-04-05-04-s1"></a>
 
@@ -27,7 +27,7 @@
 
 <a id="90-04-111-a111-02"></a>
 
-#### [영상 90.4.111.a111.2. `회전 조정` 대화상자 → `회전 각도`: 슬라이더 조정 (Windows) (우리말)](./90-04-111-rotation_adjustment.md#90-04-111-a111-02)
+#### [영상 90.4.111.a111.2. `회전 조정` 대화상자 → `회전 각도`: 슬라이더 조정 (Windows) (우리말)](./90-04-0111-rotation_adjustment.md#90-04-111-a111-02)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/671face8-d989-4ea5-88ef-856a983014e0"></video>
 
 <a id="14-04-05-04-s1-03"></a>
@@ -36,7 +36,7 @@
 
 <a id="90-04-111-a111-01"></a>
 
-#### [영상 90.4.111.a111.1. `회전 조정` 대화상자 → `회전 각도`: 직접 입력 (Windows) (우리말)](./90-04-111-rotation_adjustment.md#90-04-111-a111-01)
+#### [영상 90.4.111.a111.1. `회전 조정` 대화상자 → `회전 각도`: 직접 입력 (Windows) (우리말)](./90-04-0111-rotation_adjustment.md#90-04-111-a111-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a77ea58a-930d-4856-97c0-e8392c3e84ca"></video>
 
 <a id="14-04-05-04-s2"></a>
@@ -51,7 +51,7 @@
 
 <a id="90-04-111-a112-01"></a>
 
-#### [영상 90.4.111.a112.1. `회전 조정` 대화상자 → `회전 중심점`: 좌표 입력하기 (Windows) (우리말)](./90-04-111-rotation_adjustment.md#90-04-111-a112-01)
+#### [영상 90.4.111.a112.1. `회전 조정` 대화상자 → `회전 중심점`: 좌표 입력하기 (Windows) (우리말)](./90-04-0111-rotation_adjustment.md#90-04-111-a112-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/74cee55f-96c6-4eee-b259-e3efdc551c2d"></video>
 
 <a id="14-04-05-04-s2-02"></a>
@@ -61,7 +61,7 @@
 
 <a id="90-04-111-a112-02"></a>
 
-#### [영상 90.4.111.a112.2. `회전 조정` 대화상자 → `회전 중심점`: 중심점 선택하기 (Windows) (우리말)](./90-04-111-rotation_adjustment.md#90-04-111-a112-02)
+#### [영상 90.4.111.a112.2. `회전 조정` 대화상자 → `회전 중심점`: 중심점 선택하기 (Windows) (우리말)](./90-04-0111-rotation_adjustment.md#90-04-111-a112-02)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/26b6befe-c30e-4cb1-a2b3-511712fbcf67"></video>
 
 <a id="14-04-05-04-s2-03"></a>
@@ -71,7 +71,7 @@
 
 <a id="90-04-111-a112-03"></a>
 
-#### [영상 90.4.111.a112.3. `회전 조정` 대화상자 → `회전 중심점`: 중심점 클릭, 드래그하기 (Windows) (우리말)](./90-04-111-rotation_adjustment.md#90-04-111-a112-03)
+#### [영상 90.4.111.a112.3. `회전 조정` 대화상자 → `회전 중심점`: 중심점 클릭, 드래그하기 (Windows) (우리말)](./90-04-0111-rotation_adjustment.md#90-04-111-a112-03)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2e55437b-387c-45f0-8a9d-cd13ee3de310"></video>
 
 <a id="14-04-05-04-s3"></a>
@@ -81,7 +81,7 @@
 
 <a id="90-04-111-a113-01"></a>
 
-#### [영상 90.4.111.a113.1. `회전 조정` 대화상자 → `초기화` 버튼 (Windows) (우리말)](./90-04-111-rotation_adjustment.md#90-04-111-a113-01)
+#### [영상 90.4.111.a113.1. `회전 조정` 대화상자 → `초기화` 버튼 (Windows) (우리말)](./90-04-0111-rotation_adjustment.md#90-04-111-a113-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9ce85771-e712-4bcd-bdb4-576d76966913"></video>
 
 <a id="14-04-05-04-s4"></a>
@@ -91,7 +91,7 @@
 
 <a id="90-04-111-a114-01"></a>
 
-#### [영상 90.4.111.a114.1. `회전 조정` 대화상자 → `재조정` 버튼 (Windows) (우리말)](./90-04-111-rotation_adjustment.md#90-04-111-a114-01)
+#### [영상 90.4.111.a114.1. `회전 조정` 대화상자 → `재조정` 버튼 (Windows) (우리말)](./90-04-0111-rotation_adjustment.md#90-04-111-a114-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0ec044ab-2488-40ac-a010-efb8781aef93"></video>
 
 <a id="14-04-05-04-s5"></a>

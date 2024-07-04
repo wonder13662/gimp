@@ -8,12 +8,12 @@
 
 <a id="90-04-03-08-a21"></a>
 
-#### [그림 90.4.3.8.a21. 레이어 대화상자 - 레이어 복제 버튼](./90-04-03-08-bottom_bar_buttons.md#90-04-03-08-a21)
+#### [그림 90.4.3.8.a21. 레이어 대화상자 - 레이어 복제 버튼](./90-04-0003-008-bottom_bar_buttons.md#90-04-03-08-a21)
 ![90-04-03-layersx-08-bottom_bar_buttons(w1080)-focus-duplicate_layer](https://github.com/wonder13662/gimp/assets/15767104/6f8e5bba-ff2b-45e4-bae0-c66bf6060cce)
 
 <a id="90-04-03-08-a22"></a>
 
-#### [영상 90.4.3.8.a22. 레이어 대화상자 - 레이어 복제 버튼으로 레이어 그룹 복사하기 (Windows) (우리말)](./90-04-03-08-bottom_bar_buttons.md#90-04-03-08-a22)
+#### [영상 90.4.3.8.a22. 레이어 대화상자 - 레이어 복제 버튼으로 레이어 그룹 복사하기 (Windows) (우리말)](./90-04-0003-008-bottom_bar_buttons.md#90-04-03-08-a22)
 <video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/f7cc9472-fba4-4ae2-aabb-a5c999c92c86"></video>
 
 <a id="08-05-05-s2"></a>
@@ -23,12 +23,12 @@
 
 <a id="90-04-03-01-09-a11"></a>
 
-#### [그림 90.4.3.1.9.a11. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴 → `레이어 복제(Duplicate Layer)` (windows) (우리말)](./90-04-03-01-09-duplicate_layer.md#90-04-03-01-09-a11)
+#### [그림 90.4.3.1.9.a11. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴 → `레이어 복제(Duplicate Layer)` (windows) (우리말)](./90-04-0003-001-009-duplicate_layer.md#90-04-03-01-09-a11)
 ![90-04-03-layersx-01-context_menu-focus-duplicate_layer](https://github.com/wonder13662/gimp/assets/15767104/4452467f-2986-45f1-9d46-02575d662849)
 
 <a id="90-04-03-01-09-a21"></a>
 
-#### [영상 90.4.3.1.9.a21. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴 → `레이어 복제(Duplicate Layer)`를 선택해서 레이어 그룹 복사하기 (windows) (우리말)](./90-04-03-01-09-duplicate_layer.md#90-04-03-01-09-a21)
+#### [영상 90.4.3.1.9.a21. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴 → `레이어 복제(Duplicate Layer)`를 선택해서 레이어 그룹 복사하기 (windows) (우리말)](./90-04-0003-001-009-duplicate_layer.md#90-04-03-01-09-a21)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/743b6509-18ba-49da-8cbf-f4b3bce6710c"></video>
 
 <a id="08-05-05-s3"></a>
@@ -38,7 +38,7 @@
 
 <a id="90-04-03-a41"></a>
 
-#### [영상 90.4.3.a41. 캔버스로 레이어 그룹을 옮겨 레이어 그룹을 복사하기](./90-04-03-00-layers.md#90-04-03-a41)
+#### [영상 90.4.3.a41. 캔버스로 레이어 그룹을 옮겨 레이어 그룹을 복사하기](./90-04-0003-000-layers.md#90-04-03-a41)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4cc69ddb-51b0-473c-85d0-bf375d5ecbf1"></video>
 
 ***

@@ -7,7 +7,7 @@
 
 [14.2.8.3. 도구 옵션(Options) - 그림 90.3.2.7.a1](./14-02-08-03-options.md#90-03-02-07-a1)
 
-[90.4.1.7. 전경 선택(Foreground Select) - 그림 90.3.2.7.a1](./90-04-01-07-foreground_select.md#90-03-02-07-a1)
+[90.4.1.7. 전경 선택(Foreground Select) - 그림 90.3.2.7.a1](./90-04-0001-007-foreground_select.md#90-03-02-07-a1)
 
 <a id="90-03-02-07-a2"></a>
 
@@ -40,7 +40,7 @@
 
 [90.1.8.1.4. 전경 선택(Foreground Select)](./90-01-08-01-04-foreground_select.md)
 
-[90.4.1.7. 전경 선택(Foreground Select)](./90-04-01-07-foreground_select.md)
+[90.4.1.7. 전경 선택(Foreground Select)](./90-04-0001-007-foreground_select.md)
 
 ***
 

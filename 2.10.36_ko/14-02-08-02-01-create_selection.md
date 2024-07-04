@@ -41,21 +41,21 @@
 
 <a id="90-04-109-a101"></a>
 
-#### [그림 90.4.109.a101. `전경 선택` 대화상자 (Windows) (우리말)](./90-04-109-foreground_select.md#90-04-109-a101)
+#### [그림 90.4.109.a101. `전경 선택` 대화상자 (Windows) (우리말)](./90-04-0109-foreground_select.md#90-04-109-a101)
 ![90-04-109-a101](https://github.com/wonder13662/gimp/assets/15767104/1cfe2f58-293d-411e-84d6-6a2ac35c8d1f)
 
-[다른 운영체제와 언어의 `전경 선택` 대화상자 확인하기](./90-04-109-foreground_select.md#90-04-109-a102)
+[다른 운영체제와 언어의 `전경 선택` 대화상자 확인하기](./90-04-0109-foreground_select.md#90-04-109-a102)
 
 선택을 완료하기 전까지는 `x` 닫기 버튼만 활성화됩니다. `x` 닫기 버튼은 선택을 취소하고 원본 이미지로 되돌립니다. ESC 키를 눌러도 같은 동작을 합니다.
 
 <a id="90-04-109-a101-01"></a>
 
-#### [영상 90.4.109.a101.1. `전경 선택` 대화상자: `x` 닫기 버튼 (Windows) (우리말)](./90-04-109-foreground_select.md#90-04-109-a101-01)
+#### [영상 90.4.109.a101.1. `전경 선택` 대화상자: `x` 닫기 버튼 (Windows) (우리말)](./90-04-0109-foreground_select.md#90-04-109-a101-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7b898d09-94c8-45e3-b326-d739b8b6fb92"></video>
 
 <a id="90-04-109-a101-02"></a>
 
-#### [영상 90.4.109.a101.2. `전경 선택` 대화상자: ESC 키 (Windows) (우리말)](./90-04-109-foreground_select.md#90-04-109-a101-02)
+#### [영상 90.4.109.a101.2. `전경 선택` 대화상자: ESC 키 (Windows) (우리말)](./90-04-0109-foreground_select.md#90-04-109-a101-02)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6ac85b70-5fb6-41ee-8a83-ad3eb4b49384"></video>
 
 `전경 선택` 도구의 대화상자의 나머지 옵션에 대해서는 [14.2.8.2.2. 마스크 만들기 - 4. 전경 선택 대화상자 옵션 설명](./14-02-08-02-02-create_mask.md#14-02-08-02-02-s4)을 참고해주세요.
@@ -84,7 +84,7 @@
 
 <a id="90-04-01-07-a2"></a>
 
-#### [영상 90.4.1.7.a2. `도구옵션` → `전경 선택` → `엔진`: 드롭다운 목록 (Mac)](./90-04-01-07-foreground_select.md#90-04-01-07-a2)
+#### [영상 90.4.1.7.a2. `도구옵션` → `전경 선택` → `엔진`: 드롭다운 목록 (Mac)](./90-04-0001-007-foreground_select.md#90-04-01-07-a2)
 ![90-04-01-07-a2](https://github.com/wonder13662/gimp/assets/15767104/f4c3f71f-696e-4071-9227-803b25d2a357)
 
 [관련 정보: Downsample](./19-glossaryx-downsample.md)

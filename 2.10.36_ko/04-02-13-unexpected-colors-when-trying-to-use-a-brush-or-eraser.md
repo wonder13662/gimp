@@ -9,7 +9,7 @@
 
 <a id="90-04-03-13-a11"></a>
 
-#### [영상 90.4.3.13.a11. 레이어 마스크에 붓 또는 지우개를 사용](./90-04-03-13-layer_mask.md#90-04-03-13-a11)
+#### [영상 90.4.3.13.a11. 레이어 마스크에 붓 또는 지우개를 사용](./90-04-0003-013-layer_mask.md#90-04-03-13-a11)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f1463207-278b-49b4-8b84-9ebf053253d1"></video>
 
 ### 4.2.13.2.2. 채널
@@ -17,7 +17,7 @@
 
 <a id="90-04-04-a101"></a>
 
-#### [영상 90.4.4.a101. 채널에 붓 또는 지우개를 사용](./90-04-04-channels.md#90-04-04-a101)
+#### [영상 90.4.4.a101. 채널에 붓 또는 지우개를 사용](./90-04-0004-channels.md#90-04-04-a101)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3c33f116-7eed-4e3c-9efa-35bf3b511ab5"></video>
 
 ***

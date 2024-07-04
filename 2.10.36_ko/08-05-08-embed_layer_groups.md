@@ -6,12 +6,12 @@
 
 <a id="90-04-03-02-a11"></a>
 
-#### [그림 90.4.3.2.a11. 레이어 대화상자 - 레이어 그룹 추가 버튼](./90-04-03-02-layer_group.md#90-04-03-02-a11)
+#### [그림 90.4.3.2.a11. 레이어 대화상자 - 레이어 그룹 추가 버튼](./90-04-0003-002-layer_group.md#90-04-03-02-a11)
 ![90-04-03-layers(w1080)-focus-add_layer_group](https://github.com/wonder13662/gimp/assets/15767104/1d059924-dec2-466c-bcb7-7f28d23c01b3)
 
 <a id="90-04-03-02-a31"></a>
 
-#### [영상 90.4.3.2.a31. 레이어 대화상자 - 새 레이어 추가 버튼으로 레이어 그룹 안에 레이어 추가](./90-04-03-02-layer_group.md#90-04-03-02-a31)
+#### [영상 90.4.3.2.a31. 레이어 대화상자 - 새 레이어 추가 버튼으로 레이어 그룹 안에 레이어 추가](./90-04-0003-002-layer_group.md#90-04-03-02-a31)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/877ae55c-d51f-4d42-808e-10b27d6b192d"></video>
 
 ### 2. 이미지 메뉴 바의 `레이어` → `새 레이어 그룹(New Layer Group)`
@@ -32,12 +32,12 @@
 
 <a id="90-04-03-01-08-a11"></a>
 
-#### [그림 90.4.3.1.8.a11. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)` (windows) (우리말)](./90-04-03-01-08-new_layer_group.md#90-04-03-01-08-a11)
+#### [그림 90.4.3.1.8.a11. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)` (windows) (우리말)](./90-04-0003-001-008-new_layer_group.md#90-04-03-01-08-a11)
 ![90-04-03-layers-context_menu-focus-new_layer_group](https://github.com/wonder13662/gimp/assets/15767104/de4661c7-01e2-4dcf-9c10-d594f133c26b)
 
 <a id="90-04-03-01-08-a31"></a>
 
-#### [영상 90.4.3.1.8.a31. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)`를 선택해서 레이어 그룹 안에 새로운 레이어 그룹 만들기 (windows) (우리말)](./90-04-03-01-08-new_layer_group.md#90-04-03-01-08-a31)
+#### [영상 90.4.3.1.8.a31. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)`를 선택해서 레이어 그룹 안에 새로운 레이어 그룹 만들기 (windows) (우리말)](./90-04-0003-001-008-new_layer_group.md#90-04-03-01-08-a31)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4a2941bb-dd8b-450d-b8d6-6565e79f91d1"></video>
 
 ***

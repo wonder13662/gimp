@@ -13,7 +13,7 @@
 
 <a id="90-04-97-a191"></a>
 
-#### [그림 90.4.97.a191. `car` 함수 사용하기 (Windows) (우리말)](./90-04-97-script_fu_console.md#90-04-97-a191)
+#### [그림 90.4.97.a191. `car` 함수 사용하기 (Windows) (우리말)](./90-04-0097-script_fu_console.md#90-04-97-a191)
 ![90-04-97-a191](https://github.com/wonder13662/gimp/assets/15767104/2da06c3e-44a4-485c-837e-76f3c40bae57)
 
 ***

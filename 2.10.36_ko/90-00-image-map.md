@@ -995,460 +995,460 @@
 
 <a id="90-00-s4"></a>
 
-## [90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
-[<img width="324" alt="90.4. 대화상자(Dialogs)" src="https://github.com/wonder13662/gimp/assets/15767104/1751c179-af5f-4b81-88f9-55b5b1d2c9f9">](./90-04-00-dialogs.md)
+## [90.4. 대화상자(Dialogs)](./90-04-0000-dialogs.md)
+[<img width="324" alt="90.4. 대화상자(Dialogs)" src="https://github.com/wonder13662/gimp/assets/15767104/1751c179-af5f-4b81-88f9-55b5b1d2c9f9">](./90-04-0000-dialogs.md)
 
-[90.4.1. 도구 옵션(Tool Options)](./90-04-01-00-tool_options.md)
+[90.4.1. 도구 옵션(Tool Options)](./90-04-0001-000-tool_options.md)
 
-[90.4.1.1. 이동(Move)](./90-04-01-01-move.md)
+[90.4.1.1. 이동(Move)](./90-04-0001-001-move.md)
 
-[90.4.1.2. 정렬(Alignment)](./90-04-01-02-alignment.md)
+[90.4.1.2. 정렬(Alignment)](./90-04-0001-002-alignment.md)
 
-[90.4.1.3. 사각 선택(Rectangle Select)](./90-04-01-03-rectangle_select.md)
+[90.4.1.3. 사각 선택(Rectangle Select)](./90-04-0001-003-rectangle_select.md)
 
-[90.4.1.4. 타원 선택(Ellipse Select)](./90-04-01-04-ellipse_select.md)
+[90.4.1.4. 타원 선택(Ellipse Select)](./90-04-0001-004-ellipse_select.md)
 
-[90.4.1.5. 자유 선택(Free Select)](./90-04-01-05-free_select.md)
+[90.4.1.5. 자유 선택(Free Select)](./90-04-0001-005-free_select.md)
 
-[90.4.1.6. 가위 선택(Scissors Select)](./90-04-01-06-scissors_select.md)
+[90.4.1.6. 가위 선택(Scissors Select)](./90-04-0001-006-scissors_select.md)
 
-[90.4.1.7. 전경 선택(Foreground Select)](./90-04-01-07-foreground_select.md)
+[90.4.1.7. 전경 선택(Foreground Select)](./90-04-0001-007-foreground_select.md)
 
-[90.4.1.8. 퍼지 선택(Fuzzy Select)](./90-04-01-08-fuzzy_select.md)
+[90.4.1.8. 퍼지 선택(Fuzzy Select)](./90-04-0001-008-fuzzy_select.md)
 
-[90.4.1.9. 색상으로 선택(Select by color)](./90-04-01-09-select_by_color.md)
+[90.4.1.9. 색상으로 선택(Select by color)](./90-04-0001-009-select_by_color.md)
 
-[90.4.1.10. 잘라내기(Crop)](./90-04-01-10-crop.md)
+[90.4.1.10. 잘라내기(Crop)](./90-04-0001-010-crop.md)
 
-[90.4.1.11. 통합 변형(Unified Transform)](./90-04-01-11-unified_transform.md)
+[90.4.1.11. 통합 변형(Unified Transform)](./90-04-0001-011-unified_transform.md)
 
-[90.4.1.12. 회전(Rotate)](./90-04-01-12-rotate.md)
+[90.4.1.12. 회전(Rotate)](./90-04-0001-012-rotate.md)
 
-[90.4.1.13. 크기 조정(Scale)](./90-04-01-13-scale.md)
+[90.4.1.13. 크기 조정(Scale)](./90-04-0001-013-scale.md)
 
-[90.4.1.14. 기울이기(Shear)](./90-04-01-14-shear.md)
+[90.4.1.14. 기울이기(Shear)](./90-04-0001-014-shear.md)
 
-[90.4.1.15. 뒤집기(Flip)](./90-04-01-15-flip.md)
+[90.4.1.15. 뒤집기(Flip)](./90-04-0001-015-flip.md)
 
-[90.4.1.16. 원근법(Perspective)](./90-04-01-16-perspective.md)
+[90.4.1.16. 원근법(Perspective)](./90-04-0001-016-perspective.md)
 
-[90.4.1.17. 3차원 변형(3D Transform)](./90-04-01-17-3d_transform.md)
+[90.4.1.17. 3차원 변형(3D Transform)](./90-04-0001-017-3d_transform.md)
 
-[90.4.1.18. 핸들 변형(Handle transform)](./90-04-01-18-handle_transform.md)
+[90.4.1.18. 핸들 변형(Handle transform)](./90-04-0001-018-handle_transform.md)
 
-[90.4.1.19. 워프 변형(Warp Transform)](./90-04-01-19-warp_transform.md)
+[90.4.1.19. 워프 변형(Warp Transform)](./90-04-0001-019-warp_transform.md)
 
-[90.4.1.20. 골조 변형(Cage Transform)](./90-04-01-20-cage_transform.md)
+[90.4.1.20. 골조 변형(Cage Transform)](./90-04-0001-020-cage_transform.md)
 
-[90.4.1.21. 영역 채우기(Bucket Fill)](./90-04-01-21-bucket_fill.md)
+[90.4.1.21. 영역 채우기(Bucket Fill)](./90-04-0001-021-bucket_fill.md)
 
-[90.4.1.22. 그라디언트(Gradient)](./90-04-01-22-gradient.md)
+[90.4.1.22. 그라디언트(Gradient)](./90-04-0001-022-gradient.md)
 
-[90.4.1.23. 그리기 붓(Paintbrush)](./90-04-01-23-paintbrush.md)
+[90.4.1.23. 그리기 붓(Paintbrush)](./90-04-0001-023-paintbrush.md)
 
-[90.4.1.24. 연필(Pencil)](./90-04-01-24-pencil.md)
+[90.4.1.24. 연필(Pencil)](./90-04-0001-024-pencil.md)
 
-[90.4.1.25. 에어브러시(Airbrush)](./90-04-01-25-airbrush.md)
+[90.4.1.25. 에어브러시(Airbrush)](./90-04-0001-025-airbrush.md)
 
-[90.4.1.26. 잉크(Ink)](./90-04-01-26-ink.md)
+[90.4.1.26. 잉크(Ink)](./90-04-0001-026-ink.md)
 
-[90.4.1.27. MyPaint 붓(MyPaint Brush)](./90-04-01-27-mypaint_brush.md)
+[90.4.1.27. MyPaint 붓(MyPaint Brush)](./90-04-0001-027-mypaint_brush.md)
 
-[90.4.1.28. 지우개(Eraser)](./90-04-01-28-eraser.md)
+[90.4.1.28. 지우개(Eraser)](./90-04-0001-028-eraser.md)
 
-[90.4.1.29. 도장(Clone)](./90-04-01-29-clone.md)
+[90.4.1.29. 도장(Clone)](./90-04-0001-029-clone.md)
 
-[90.4.1.30. 원근 복제(Perspective Clone)](./90-04-01-30-perspective_clone.md)
+[90.4.1.30. 원근 복제(Perspective Clone)](./90-04-0001-030-perspective_clone.md)
 
-[90.4.1.31. 복원(Healing)](./90-04-01-31-healing.md)
+[90.4.1.31. 복원(Healing)](./90-04-0001-031-healing.md)
 
-[90.4.1.32. 문지르기(Smudge)](./90-04-01-32-smudge.md)
+[90.4.1.32. 문지르기(Smudge)](./90-04-0001-032-smudge.md)
 
-[90.4.1.33. 흐릿하게/선명하게(Blur/Sharpen)](./90-04-01-33-blur_sharpen.md)
+[90.4.1.33. 흐릿하게/선명하게(Blur/Sharpen)](./90-04-0001-033-blur_sharpen.md)
 
-[90.4.1.34. 닷지/번(Dodge/Burn)](./90-04-01-34-dodge_burn.md)
+[90.4.1.34. 닷지/번(Dodge/Burn)](./90-04-0001-034-dodge_burn.md)
 
-[90.4.1.35. 경로(Paths)](./90-04-01-35-paths.md)
+[90.4.1.35. 경로(Paths)](./90-04-0001-035-paths.md)
 
-[90.4.1.36. 텍스트(Text)](./90-04-01-36-text.md)
+[90.4.1.36. 텍스트(Text)](./90-04-0001-036-text.md)
 
-[90.4.1.37. 색상 추출(Color Picker)](./90-04-01-37-color_picker.md)
+[90.4.1.37. 색상 추출(Color Picker)](./90-04-0001-037-color_picker.md)
 
-[90.4.1.38. 측정(Measure)](./90-04-01-38-measure.md)
+[90.4.1.38. 측정(Measure)](./90-04-0001-038-measure.md)
 
-[90.4.1.39. 확대/축소(Zoom)](./90-04-01-39-zoom.md)
+[90.4.1.39. 확대/축소(Zoom)](./90-04-0001-039-zoom.md)
 
-[90.4.2. 장치 상태(Device status)](./90-04-02-device_status.md)
+[90.4.2. 장치 상태(Device status)](./90-04-0002-device_status.md)
 
-[90.4.3. 레이어(Layers)](./90-04-03-00-layers.md)
+[90.4.3. 레이어(Layers)](./90-04-0003-000-layers.md)
 
-[90.4.3.1. 레이어 대화상자의 컨텍스트 메뉴](./90-04-03-01-00-context_menu.md)
+[90.4.3.1. 레이어 대화상자의 컨텍스트 메뉴](./90-04-0003-001-000-context_menu.md)
 
-[90.4.3.1.1. 레이어 속성 편집...(Edit Layer Attributes...)](./90-04-03-01-01-edit_layer_attributes.md)
+[90.4.3.1.1. 레이어 속성 편집...(Edit Layer Attributes...)](./90-04-0003-001-001-edit_layer_attributes.md)
 
-[90.4.3.1.2. 혼합 영역(Blend Space)](./90-04-03-01-02-blend_space.md)
+[90.4.3.1.2. 혼합 영역(Blend Space)](./90-04-0003-001-002-blend_space.md)
 
-[90.4.3.1.3. 합성 공간(Composite Space)](./90-04-03-01-03-composite_space.md)
+[90.4.3.1.3. 합성 공간(Composite Space)](./90-04-0003-001-003-composite_space.md)
 
-[90.4.3.1.4. 합성 모드(Composite Mode)](./90-04-03-01-04-composite_mode.md)
+[90.4.3.1.4. 합성 모드(Composite Mode)](./90-04-0003-001-004-composite_mode.md)
 
-[90.4.3.1.5. 색상 태그(Color Tag)](./90-04-03-01-05-color_tag.md)
+[90.4.3.1.5. 색상 태그(Color Tag)](./90-04-0003-001-005-color_tag.md)
 
-[90.4.3.1.6. 새 레이어...(New Layer...)](./90-04-03-01-06-new_layer.md)
+[90.4.3.1.6. 새 레이어...(New Layer...)](./90-04-0003-001-006-new_layer.md)
 
-[90.4.3.1.7. 보이는 영역에서 새로 만들기(New from Visible)](./90-04-03-01-07-new_from_visible.md)
+[90.4.3.1.7. 보이는 영역에서 새로 만들기(New from Visible)](./90-04-0003-001-007-new_from_visible.md)
 
-[90.4.3.1.8. 새 레이어 그룹(New Layer Group)](./90-04-03-01-08-new_layer_group.md)
+[90.4.3.1.8. 새 레이어 그룹(New Layer Group)](./90-04-0003-001-008-new_layer_group.md)
 
-[90.4.3.1.9. 레이어 복제(Duplicate Layer)](./90-04-03-01-09-duplicate_layer.md)
+[90.4.3.1.9. 레이어 복제(Duplicate Layer)](./90-04-0003-001-009-duplicate_layer.md)
 
-[90.4.3.1.10. 아래로 합치기(Merge Down)](./90-04-03-01-10-merge_down.md)
+[90.4.3.1.10. 아래로 합치기(Merge Down)](./90-04-0003-001-010-merge_down.md)
 
-[90.4.3.1.11. 레이어 삭제(Delete Layer)](./90-04-03-01-11-delete_layer.md)
+[90.4.3.1.11. 레이어 삭제(Delete Layer)](./90-04-0003-001-011-delete_layer.md)
 
-[90.4.3.1.12. 레이어 경계 크기...(Layer Boundary Size...)](./90-04-03-01-12-layer_boundary_size.md)
+[90.4.3.1.12. 레이어 경계 크기...(Layer Boundary Size...)](./90-04-0003-001-012-layer_boundary_size.md)
 
-[90.4.3.1.13. 레이어를 이미지 크기로(Layer to Image Size)](./90-04-03-01-13-layer_to_image_size.md)
+[90.4.3.1.13. 레이어를 이미지 크기로(Layer to Image Size)](./90-04-0003-001-013-layer_to_image_size.md)
 
-[90.4.3.1.14. 레이어 크기조정...(Scale Layer...)](./90-04-03-01-14-scale_layer.md)
+[90.4.3.1.14. 레이어 크기조정...(Scale Layer...)](./90-04-0003-001-014-scale_layer.md)
 
-[90.4.3.1.15. 레이어 마스크 추가...(Add Layer Mask...)](./90-04-03-01-15-add_layer_mask.md)
+[90.4.3.1.15. 레이어 마스크 추가...(Add Layer Mask...)](./90-04-0003-001-015-add_layer_mask.md)
 
-[90.4.3.1.16. 레이어 마스크 적용(Apply Layer Mask)](./90-04-03-01-16-apply_layer_mask.md)
+[90.4.3.1.16. 레이어 마스크 적용(Apply Layer Mask)](./90-04-0003-001-016-apply_layer_mask.md)
 
-[90.4.3.1.17. 레이어 마스크 삭제(Delete Layer Mask)](./90-04-03-01-17-delete_layer_mask.md)
+[90.4.3.1.17. 레이어 마스크 삭제(Delete Layer Mask)](./90-04-0003-001-017-delete_layer_mask.md)
 
-[90.4.3.1.18. 레이어 마스크 보이기(Show Layer Mask)](./90-04-03-01-18-show_layer_mask.md)
+[90.4.3.1.18. 레이어 마스크 보이기(Show Layer Mask)](./90-04-0003-001-018-show_layer_mask.md)
 
-[90.4.3.1.19. 레이어 마스크 편집(Edit Layer Mask)](./90-04-03-01-19-edit_layer_mask.md)
+[90.4.3.1.19. 레이어 마스크 편집(Edit Layer Mask)](./90-04-0003-001-019-edit_layer_mask.md)
 
-[90.4.3.1.20. 레이어 마스크 비활성화(Disable Layer Mask)](./90-04-03-01-20-disable_layer_mask.md)
+[90.4.3.1.20. 레이어 마스크 비활성화(Disable Layer Mask)](./90-04-0003-001-020-disable_layer_mask.md)
 
-[90.4.3.1.21. 마스크를 선택 영역으로(Mask to Selection)](./90-04-03-01-21-mask_to_selection.md)
+[90.4.3.1.21. 마스크를 선택 영역으로(Mask to Selection)](./90-04-0003-001-021-mask_to_selection.md)
 
-[90.4.3.1.22. 알파 채널 추가(Add Alpha Channel)](./90-04-03-01-22-add_alpha_channel.md)
+[90.4.3.1.22. 알파 채널 추가(Add Alpha Channel)](./90-04-0003-001-022-add_alpha_channel.md)
 
-[90.4.3.1.23. 알파 채널 제거(Remove Alpha Channel)](./90-04-03-01-23-remove_alpha_channel.md)
+[90.4.3.1.23. 알파 채널 제거(Remove Alpha Channel)](./90-04-0003-001-023-remove_alpha_channel.md)
 
-[90.4.3.1.24. 알파를 선택 영역으로(Alpha to Selection)](./90-04-03-01-24-alpha_to_selection.md)
+[90.4.3.1.24. 알파를 선택 영역으로(Alpha to Selection)](./90-04-0003-001-024-alpha_to_selection.md)
 
-[90.4.3.1.25. 보이는 레이어 합치기...(Merge Visible Layers...)](./90-04-03-01-25-merge_visible_layers.md)
+[90.4.3.1.25. 보이는 레이어 합치기...(Merge Visible Layers...)](./90-04-0003-001-025-merge_visible_layers.md)
 
-[90.4.3.1.26. 이미지 평탄화(Flatten Image)](./90-04-03-01-26-flatten_image.md)
+[90.4.3.1.26. 이미지 평탄화(Flatten Image)](./90-04-0003-001-026-flatten_image.md)
 
-[90.4.3.1.27. 텍스트 정보 버리기(Discard Text Information)](./90-04-03-01-27-discard_text_information.md)
+[90.4.3.1.27. 텍스트 정보 버리기(Discard Text Information)](./90-04-0003-001-027-discard_text_information.md)
 
-[90.4.3.1.28. 텍스트를 경로로(Text to Path)](./90-04-03-01-28-text_to_path.md)
+[90.4.3.1.28. 텍스트를 경로로(Text to Path)](./90-04-0003-001-028-text_to_path.md)
 
-[90.4.3.1.29. 경로따라 텍스트(Text along Path)](./90-04-03-01-29-text_along_path.md)
+[90.4.3.1.29. 경로따라 텍스트(Text along Path)](./90-04-0003-001-029-text_along_path.md)
 
-[90.4.3.1.30. 캔버스 텍스트 편집(Edit Text on canvas)](./90-04-03-01-30-edit_text_on_canvas.md)
+[90.4.3.1.30. 캔버스 텍스트 편집(Edit Text on canvas)](./90-04-0003-001-030-edit_text_on_canvas.md)
 
-[90.4.3.2. 레이어 그룹](./90-04-03-02-layer_group.md)
+[90.4.3.2. 레이어 그룹](./90-04-0003-002-layer_group.md)
 
-[90.4.3.3. 떠있는 선택(Floating selection)](./90-04-03-03-floating_selection.md)
+[90.4.3.3. 떠있는 선택(Floating selection)](./90-04-0003-003-floating_selection.md)
 
-[90.4.3.4. 불투명도(Opacity)](./90-04-03-04-opacity.md)
+[90.4.3.4. 불투명도(Opacity)](./90-04-0003-004-opacity.md)
 
-[90.4.3.5. 레이어 가시성(Layer visibility) - 레이어의 눈 아이콘(Eye icon)](./90-04-03-05-visibility.md)
+[90.4.3.5. 레이어 가시성(Layer visibility) - 레이어의 눈 아이콘(Eye icon)](./90-04-0003-005-visibility.md)
 
-[90.4.3.6. 레이어의 연결고리 아이콘(Linkage)](./90-04-03-06-linkage.md)
+[90.4.3.6. 레이어의 연결고리 아이콘(Linkage)](./90-04-0003-006-linkage.md)
 
-[90.4.3.7. 레이어 모드(Layer Mode)](./90-04-03-07-layer_mode.md)
+[90.4.3.7. 레이어 모드(Layer Mode)](./90-04-0003-007-layer_mode.md)
 
-[90.4.3.8. 레이어 대화상자 아래쪽 버튼들(Bottom bar buttons)](./90-04-03-08-bottom_bar_buttons.md)
+[90.4.3.8. 레이어 대화상자 아래쪽 버튼들(Bottom bar buttons)](./90-04-0003-008-bottom_bar_buttons.md)
 
-[90.4.3.9. 레이어를 드래그, 드롭하기(Drag & Drop Layers)](./90-04-03-09-drag_n_drop_layers.md)
+[90.4.3.9. 레이어를 드래그, 드롭하기(Drag & Drop Layers)](./90-04-0003-009-drag_n_drop_layers.md)
 
-[90.4.3.10. 드로어블(drawable)](./90-04-03-10-drawable.md)
+[90.4.3.10. 드로어블(drawable)](./90-04-0003-010-drawable.md)
 
-[90.4.3.11. 이미지의 알파 채널(Alpha Channel)](./90-04-03-11-alpha_channel.md)
+[90.4.3.11. 이미지의 알파 채널(Alpha Channel)](./90-04-0003-011-alpha_channel.md)
 
-[90.4.3.12. 활성화된 레이어(Active Layer)](./90-04-03-12-active_layer.md)
+[90.4.3.12. 활성화된 레이어(Active Layer)](./90-04-0003-012-active_layer.md)
 
-[90.4.3.13. 레이어 마스크(Layer Mask)](./90-04-03-13-layer_mask.md)
+[90.4.3.13. 레이어 마스크(Layer Mask)](./90-04-0003-013-layer_mask.md)
 
-[90.4.3.14. 텍스트 레이어(Text Layer)](./90-04-03-14-text_layer.md)
+[90.4.3.14. 텍스트 레이어(Text Layer)](./90-04-0003-014-text_layer.md)
 
-[90.4.3.15. 레이어 미리보기(Layer Thumbnail)](./90-04-03-15-layer_thumbnail.md)
+[90.4.3.15. 레이어 미리보기(Layer Thumbnail)](./90-04-0003-015-layer_thumbnail.md)
 
-[90.4.3.16. 레이어 이름(Layer Name)](./90-04-03-16-layer_name.md)
+[90.4.3.16. 레이어 이름(Layer Name)](./90-04-0003-016-layer_name.md)
 
-[90.4.3.17. 잠금(Lock)](./90-04-03-17-lock.md)
+[90.4.3.17. 잠금(Lock)](./90-04-0003-017-lock.md)
 
-[90.4.4. 채널(Channels)](./90-04-04-channels.md)
+[90.4.4. 채널(Channels)](./90-04-0004-channels.md)
 
-[90.4.5. 경로(Paths)](./90-04-05-paths.md)
+[90.4.5. 경로(Paths)](./90-04-0005-paths.md)
 
-[90.4.6. 색상표(Colormap)](./90-04-06-colormap.md)
+[90.4.6. 색상표(Colormap)](./90-04-0006-colormap.md)
 
-[90.4.7. 히스토그램(Histogram)](./90-04-07-histogram.md)
+[90.4.7. 히스토그램(Histogram)](./90-04-0007-histogram.md)
 
-[90.4.8. 선택 영역 편집기(Selection Editor)](./90-04-08-selection_editor.md)
+[90.4.8. 선택 영역 편집기(Selection Editor)](./90-04-0008-selection_editor.md)
 
-[90.4.9. 내비게이션(Navigation)](./90-04-09-navigation.md)
+[90.4.9. 내비게이션(Navigation)](./90-04-0009-navigation.md)
 
-[90.4.10. 실행취소 이력(Undo History)](./90-04-10-undo_history.md)
+[90.4.10. 실행취소 이력(Undo History)](./90-04-0010-undo_history.md)
 
-[90.4.11. 포인터 정보(Pointer Information)](./90-04-11-pointer_information.md)
+[90.4.11. 포인터 정보(Pointer Information)](./90-04-0011-pointer_information.md)
 
-[90.4.12. 표본점(Sample Points)](./90-04-12-sample_points.md)
+[90.4.12. 표본점(Sample Points)](./90-04-0012-sample_points.md)
 
-[90.4.13. 대칭 그리기(Symmetry Painting)](./90-04-13-symmetry_painting.md)
+[90.4.13. 대칭 그리기(Symmetry Painting)](./90-04-0013-symmetry_painting.md)
 
-[90.4.14. 색(Colors)](./90-04-14-colors.md)
+[90.4.14. 색(Colors)](./90-04-0014-colors.md)
 
-[90.4.15. 붓(Brushes)](./90-04-15-brushes.md)
+[90.4.15. 붓(Brushes)](./90-04-0015-brushes.md)
 
-[90.4.16. 페인트 동적 요소(Paint Dynamics)](./90-04-16-paint_dynamics.md)
+[90.4.16. 페인트 동적 요소(Paint Dynamics)](./90-04-0016-paint_dynamics.md)
 
-[90.4.17. 마이페인트 붓(MyPaint brushes)](./90-04-17-mypaint_brushes.md)
+[90.4.17. 마이페인트 붓(MyPaint brushes)](./90-04-0017-mypaint_brushes.md)
 
-[90.4.18. 무늬(Patterns)](./90-04-18-patterns.md)
+[90.4.18. 무늬(Patterns)](./90-04-0018-patterns.md)
 
-[90.4.19. 그라디언트(Gradient)](./90-04-19-gradient.md)
+[90.4.19. 그라디언트(Gradient)](./90-04-0019-gradient.md)
 
-[90.4.20. 팔레트(Palette)](./90-04-20-palette.md)
+[90.4.20. 팔레트(Palette)](./90-04-0020-palette.md)
 
-[90.4.21. 글꼴(Fonts)](./90-04-21-fonts.md)
+[90.4.21. 글꼴(Fonts)](./90-04-0021-fonts.md)
 
-[90.4.22. 도구 프리셋(Tool Preset)](./90-04-22-tool_presets.md)
+[90.4.22. 도구 프리셋(Tool Preset)](./90-04-0022-tool_presets.md)
 
-[90.4.23. 버퍼(Buffer)](./90-04-23-buffers.md)
+[90.4.23. 버퍼(Buffer)](./90-04-0023-buffers.md)
 
-[90.4.24. 이미지(Images)](./90-04-24-images.md)
+[90.4.24. 이미지(Images)](./90-04-0024-images.md)
 
-[90.4.25. 문서 이력(Document History)](./90-04-25-document_history.md)
+[90.4.25. 문서 이력(Document History)](./90-04-0025-document_history.md)
 
-[90.4.26. 양식(Templates)](./90-04-26-templates.md)
+[90.4.26. 양식(Templates)](./90-04-0026-templates.md)
 
-[90.4.27. 오류 콘솔(Error Console)](./90-04-27-error_console.md)
+[90.4.27. 오류 콘솔(Error Console)](./90-04-0027-error_console.md)
 
-[90.4.28. 상황판(Dashboard)](./90-04-28-dashboard.md)
+[90.4.28. 상황판(Dashboard)](./90-04-0028-dashboard.md)
 
-[90.4.29. 이미지 비율 조정(Scale Image)](./90-04-29-scale_image.md)
+[90.4.29. 이미지 비율 조정(Scale Image)](./90-04-0029-scale_image.md)
 
-[90.4.30. 인쇄 해상도 설정(Set Image Print Resolution)](./90-04-30-set_image_print_resolution.md)
+[90.4.30. 인쇄 해상도 설정(Set Image Print Resolution)](./90-04-0030-set_image_print_resolution.md)
 
-[90.4.31. 이미지 속성(Image Properties)](./90-04-31-image_properties.md)
+[90.4.31. 이미지 속성(Image Properties)](./90-04-0031-image_properties.md)
 
-[90.4.32. 이미지를 색인 색상으로 변환(Convert Image to Indexed Colors)](./90-04-32-convert_image_to_indexed_colors.md)
+[90.4.32. 이미지를 색인 색상으로 변환(Convert Image to Indexed Colors)](./90-04-0032-convert_image_to_indexed_colors.md)
 
-[90.4.33. 이미지를 JPEG로 내보내기(Export Image as JPEG)](./90-04-33-export_image_as_jpeg.md)
+[90.4.33. 이미지를 JPEG로 내보내기(Export Image as JPEG)](./90-04-0033-export_image_as_jpeg.md)
 
-[90.4.34. 이미지 내보내기(Export As...)](./90-04-34-export_as.md)
+[90.4.34. 이미지 내보내기(Export As...)](./90-04-0034-export_as.md)
 
-[90.4.35. 레이어 경계 크기(Layer Boundary Size...)](./90-04-35-layer_to_boundary_size.md)
+[90.4.35. 레이어 경계 크기(Layer Boundary Size...)](./90-04-0035-layer_to_boundary_size.md)
 
-[90.4.36. 레이어 크기 조정(Scale Layer...)](./90-04-36-scale_layer.md)
+[90.4.36. 레이어 크기 조정(Scale Layer...)](./90-04-0036-scale_layer.md)
 
-[90.4.37. 새 이미지 만들기(Create a New Image)](./90-04-37-create_a_new_image.md)
+[90.4.37. 새 이미지 만들기(Create a New Image)](./90-04-0037-create_a_new_image.md)
 
-[90.4.38. 이미지 열기(Open Image)](./90-04-38-open_image.md)
+[90.4.38. 이미지 열기(Open Image)](./90-04-0038-open_image.md)
 
-[90.4.39. 포스트스크립트 가져오기(Import from PostScript)](./90-04-39-import_from_postscript.md)
+[90.4.39. 포스트스크립트 가져오기(Import from PostScript)](./90-04-0039-import_from_postscript.md)
 
-[90.4.40. PDF 가져오기(Import from PDF)](./90-04-40-import_from_pdf.md)
+[90.4.40. PDF 가져오기(Import from PDF)](./90-04-0040-import_from_pdf.md)
 
-[90.4.41. 위치 열기(Open Location)](./90-04-41-open_location.md)
+[90.4.41. 위치 열기(Open Location)](./90-04-0041-open_location.md)
 
-[90.4.42. 뷰 닫기(Close View)](./90-04-42-close_view.md)
+[90.4.42. 뷰 닫기(Close View)](./90-04-0042-close_view.md)
 
-[90.4.43. 이미지를 GIF로 내보내기(Export Image as GIF)](./90-04-43-export_image_as_gif.md)
+[90.4.43. 이미지를 GIF로 내보내기(Export Image as GIF)](./90-04-0043-export_image_as_gif.md)
 
-[90.4.44. 이미지를 HEIF로 내보내기(Export Image as HEIF)](./90-04-44-export_image_as_heif.md)
+[90.4.44. 이미지를 HEIF로 내보내기(Export Image as HEIF)](./90-04-0044-export_image_as_heif.md)
 
-[90.4.45. 이미지를 PNG로 내보내기(Export Image as PNG)](./90-04-45-export_image_as_png.md)
+[90.4.45. 이미지를 PNG로 내보내기(Export Image as PNG)](./90-04-0045-export_image_as_png.md)
 
-[90.4.46. 이미지를 TIFF로 내보내기(Export Image as TIFF)](./90-04-46-export_image_as_tiff.md)
+[90.4.46. 이미지를 TIFF로 내보내기(Export Image as TIFF)](./90-04-0046-export_image_as_tiff.md)
 
-[90.4.47. 이미지를 WebP로 내보내기(Export Image as WebP)](./90-04-47-export_image_as_webp.md)
+[90.4.47. 이미지를 WebP로 내보내기(Export Image as WebP)](./90-04-0047-export_image_as_webp.md)
 
-[90.4.48. 이미지를 MNG로 내보내기(Export Image as MNG)](./90-04-48-export_image_as_mng.md)
+[90.4.48. 이미지를 MNG로 내보내기(Export Image as MNG)](./90-04-0048-export_image_as_mng.md)
 
-[90.4.49. 선택 영역 페더(Feather Selection)](./90-04-49-feather_selection.md)
+[90.4.49. 선택 영역 페더(Feather Selection)](./90-04-0049-feather_selection.md)
 
-[90.4.50. 레이어 마스크 추가(Add Layer Mask)](./90-04-50-add_layer_mask.md)
+[90.4.50. 레이어 마스크 추가(Add Layer Mask)](./90-04-0050-add_layer_mask.md)
 
-[90.4.51. 경로 따라 그리기(Stroke Path)](./90-04-51-stroke_path.md)
+[90.4.51. 경로 따라 그리기(Stroke Path)](./90-04-0051-stroke_path.md)
 
-[90.4.52. 이미지를 붓으로 내보내기(Export image as brush)](./90-04-52-export_image_as_brush.md)
+[90.4.52. 이미지를 붓으로 내보내기(Export image as brush)](./90-04-0052-export_image_as_brush.md)
 
-[90.4.53. 붓 편집기(Brush Editor)](./90-04-53-brush_editor.md)
+[90.4.53. 붓 편집기(Brush Editor)](./90-04-0053-brush_editor.md)
 
-[90.4.54. 이미지를 붓 파이프로 내보내기(Export image as brush pipe)](./90-04-54-export_image_as_brush_pipe.md)
+[90.4.54. 이미지를 붓 파이프로 내보내기(Export image as brush pipe)](./90-04-0054-export_image_as_brush_pipe.md)
 
-[90.4.55. 이미지 저장(Save Image)](./90-04-55-save_image.md)
+[90.4.55. 이미지 저장(Save Image)](./90-04-0055-save_image.md)
 
-[90.4.56. 레이어 합치기(Merge Layers)](./90-04-56-merge_layers.md)
+[90.4.56. 레이어 합치기(Merge Layers)](./90-04-0056-merge_layers.md)
 
-[90.4.57. 입력 제어기 설정(Configure Input Controller)](./90-04-57-configure_input_controller.md)
+[90.4.57. 입력 제어기 설정(Configure Input Controller)](./90-04-0057-configure_input_controller.md)
 
-[90.4.58. 제어기의 이벤트 동작 선택(Select Controller Event Action)](./90-04-58-select_controller_event_action.md)
+[90.4.58. 제어기의 이벤트 동작 선택(Select Controller Event Action)](./90-04-0058-select_controller_event_action.md)
 
-[90.4.59. 선택 영역 따라 그리기(Stroke Selection)](./90-04-59-stroke_selection.md)
+[90.4.59. 선택 영역 따라 그리기(Stroke Selection)](./90-04-0059-stroke_selection.md)
 
-[90.4.60. 팔레트 편집기(Palette Editor)](./90-04-60-palette_editor.md)
+[90.4.60. 팔레트 편집기(Palette Editor)](./90-04-0060-palette_editor.md)
 
-[90.4.61. 새 팔레트 가져오기(Import a New Palette)](./90-04-61-import_a_new_palette.md)
+[90.4.61. 새 팔레트 가져오기(Import a New Palette)](./90-04-0061-import_a_new_palette.md)
 
-[90.4.62. 레이어 속성 편집(Edit Layer Attributes)](./90-04-62-edit_layer_attributes.md)
+[90.4.62. 레이어 속성 편집(Edit Layer Attributes)](./90-04-0062-edit_layer_attributes.md)
 
-[90.4.63. 무채화(Desaturate)](./90-04-63-desaturate.md)
+[90.4.63. 무채화(Desaturate)](./90-04-0063-desaturate.md)
 
-[90.4.64. 새 레이어(New layer)](./90-04-64-new_layer.md)
+[90.4.64. 새 레이어(New layer)](./90-04-0064-new_layer.md)
 
-[90.4.65. 김프 텍스트 편집기(GIMP Text Editor)](./90-04-65-gimp_text_editor.md)
+[90.4.65. 김프 텍스트 편집기(GIMP Text Editor)](./90-04-0065-gimp_text_editor.md)
 
-[90.4.66. 텍스트 편집 확인(Confirm Text Editing)](./90-04-66-confirm_text_editing.md)
+[90.4.66. 텍스트 편집 확인(Confirm Text Editing)](./90-04-0066-confirm_text_editing.md)
 
-[90.4.67. 텍스트 도구상자(Text Toolbox)](./90-04-67-text_toolbox.md)
+[90.4.67. 텍스트 도구상자(Text Toolbox)](./90-04-0067-text_toolbox.md)
 
-[90.4.68. 텍스트 컨텍스트 메뉴(Text Context Menu)](./90-04-68-00-text_context_menu.md)
+[90.4.68. 텍스트 컨텍스트 메뉴(Text Context Menu)](./90-04-0068-000-text_context_menu.md)
 
-[90.4.68.1. 잘라내기(Cut)](./90-04-68-01-cut.md)
+[90.4.68.1. 잘라내기(Cut)](./90-04-0068-001-cut.md)
 
-[90.4.68.2. 복사(Copy)](./90-04-68-02-copy.md)
+[90.4.68.2. 복사(Copy)](./90-04-0068-002-copy.md)
 
-[90.4.68.3. 붙여넣기(Paste)](./90-04-68-03-paste.md)
+[90.4.68.3. 붙여넣기(Paste)](./90-04-0068-003-paste.md)
 
-[90.4.68.4. 삭제(Delete)](./90-04-68-04-delete.md)
+[90.4.68.4. 삭제(Delete)](./90-04-0068-004-delete.md)
 
-[90.4.68.5. 텍스트 파일 열기...(Open Text File...)](./90-04-68-05-open_text_file.md)
+[90.4.68.5. 텍스트 파일 열기...(Open Text File...)](./90-04-0068-005-open_text_file.md)
 
-[90.4.68.6. 지우기(Clear)](./90-04-68-06-clear.md)
+[90.4.68.6. 지우기(Clear)](./90-04-0068-006-clear.md)
 
-[90.4.68.7. 텍스트에서 경로(Path from Text)](./90-04-68-07-path_from_text.md)
+[90.4.68.7. 텍스트에서 경로(Path from Text)](./90-04-0068-007-path_from_text.md)
 
-[90.4.68.8. 경로따라 텍스트(Text along Path)](./90-04-68-08-text_along_path.md)
+[90.4.68.8. 경로따라 텍스트(Text along Path)](./90-04-0068-008-text_along_path.md)
 
-[90.4.68.9. 왼쪽에서 오른쪽으로(From left to right)](./90-04-68-09-from_left_to_right.md)
+[90.4.68.9. 왼쪽에서 오른쪽으로(From left to right)](./90-04-0068-009-from_left_to_right.md)
 
-[90.4.68.10. 오른쪽에서 왼쪽으로(From right to left)](./90-04-68-10-from_right_to_left.md)
+[90.4.68.10. 오른쪽에서 왼쪽으로(From right to left)](./90-04-0068-010-from_right_to_left.md)
 
-[90.4.68.11. 수직으로 오른쪽에서 왼쪽(혼합 방향)(Vertical, right to left (mixed orientation))](./90-04-68-11-vertical_right_to_left_mixed_orientation.md)
+[90.4.68.11. 수직으로 오른쪽에서 왼쪽(혼합 방향)(Vertical, right to left (mixed orientation))](./90-04-0068-011-vertical_right_to_left_mixed_orientation.md)
 
-[90.4.68.12. 수직으로 오른쪽에서 왼쪽(수직 방향)(Vertical, right to left (upright orientation))](./90-04-68-12-vertical_right_to_left_upright_orientation.md)
+[90.4.68.12. 수직으로 오른쪽에서 왼쪽(수직 방향)(Vertical, right to left (upright orientation))](./90-04-0068-012-vertical_right_to_left_upright_orientation.md)
 
-[90.4.68.13. 수직으로 왼쪽에서 오른쪽(혼합 방향)(Vertical, left to right(mixed orientation))](./90-04-68-13-vertical_left_to_right_mixed_orientation.md)
+[90.4.68.13. 수직으로 왼쪽에서 오른쪽(혼합 방향)(Vertical, left to right(mixed orientation))](./90-04-0068-013-vertical_left_to_right_mixed_orientation.md)
 
-[90.4.68.14. 수직으로 왼쪽에서 오른쪽(수직 방향)(Vertical, left to right (upright orientation))](./90-04-68-14-vertical_left_to_right_upright_orientation.md)
+[90.4.68.14. 수직으로 왼쪽에서 오른쪽(수직 방향)(Vertical, left to right (upright orientation))](./90-04-0068-014-vertical_left_to_right_upright_orientation.md)
 
-[90.4.68.15. 입력기(Input Methods)](./90-04-68-15-input_methods.md)
+[90.4.68.15. 입력기(Input Methods)](./90-04-0068-015-input_methods.md)
 
-[90.4.69. 텍스트 파일 열기(Open Text File)](./90-04-69-open_text_file.md)
+[90.4.69. 텍스트 파일 열기(Open Text File)](./90-04-0069-open_text_file.md)
 
-[90.4.70. 레이어 컨텍스트 메뉴(Layer Dialog Context Menu)](./90-04-70-layer_dialog_context_menu.md)
+[90.4.70. 레이어 컨텍스트 메뉴(Layer Dialog Context Menu)](./90-04-0070-layer_dialog_context_menu.md)
 
-[90.4.71. 대비 증가(Stretch Contrast)](./90-04-71-stretch_contrast.md)
+[90.4.71. 대비 증가(Stretch Contrast)](./90-04-0071-stretch_contrast.md)
 
-[90.4.72. 레벨(Level)](./90-04-72-level.md)
+[90.4.72. 레벨(Level)](./90-04-0072-level.md)
 
-[90.4.73. 명도-대비(Brightness-Contrast)](./90-04-73-brightness_contrast.md)
+[90.4.73. 명도-대비(Brightness-Contrast)](./90-04-0073-brightness_contrast.md)
 
-[90.4.74. 커브(Curves)](./90-04-74-curves.md)
+[90.4.74. 커브(Curves)](./90-04-0074-curves.md)
 
-[90.4.75. 색상 추출(Color Picker)](./90-04-75-color_picker.md)
+[90.4.75. 색상 추출(Color Picker)](./90-04-0075-color_picker.md)
 
-[90.4.76. 색상-채도(Hue/Saturation)](./90-04-76-hue_saturation.md)
+[90.4.76. 색상-채도(Hue/Saturation)](./90-04-0076-hue_saturation.md)
 
-[90.4.77. 선명하게 하기 - Sharpen(Unsharp Mask)](./90-04-77-sharpen_unsharp_mask.md)
+[90.4.77. 선명하게 하기 - Sharpen(Unsharp Mask)](./90-04-0077-sharpen_unsharp_mask.md)
 
-[90.4.78. 구성(Compose)](./90-04-78-compose.md)
+[90.4.78. 구성(Compose)](./90-04-0078-compose.md)
 
-[90.4.79. 분해(Decompose)](./90-04-79-decompose.md)
+[90.4.79. 분해(Decompose)](./90-04-0079-decompose.md)
 
-[90.4.80. 일부 가우시안 흐림처리(Selective Gaussian Blur)](./90-04-80-selective_gaussian_blur.md)
+[90.4.80. 일부 가우시안 흐림처리(Selective Gaussian Blur)](./90-04-0080-selective_gaussian_blur.md)
 
-[90.4.81. 잡티 없애기(Despeckle)](./90-04-81-despeckle.md)
+[90.4.81. 잡티 없애기(Despeckle)](./90-04-0081-despeckle.md)
 
-[90.4.82. 가우시안 흐림처리(Gaussian Blur)](./90-04-82-gaussian_blur.md)
+[90.4.82. 가우시안 흐림처리(Gaussian Blur)](./90-04-0082-gaussian_blur.md)
 
-[90.4.83. 적목 제거(Red Eye Removal)](./90-04-83-red_eye_removal.md)
+[90.4.83. 적목 제거(Red Eye Removal)](./90-04-0083-red_eye_removal.md)
 
-[90.4.84. 메타데이터 뷰어(Metadata Viewer)](./90-04-84-metadata_viewer.md)
+[90.4.84. 메타데이터 뷰어(Metadata Viewer)](./90-04-0084-metadata_viewer.md)
 
-[90.4.85. 이미지 크기 확인(Confirm Image Size)](./90-04-85-confirm_image_size.md)
+[90.4.85. 이미지 크기 확인(Confirm Image Size)](./90-04-0085-confirm_image_size.md)
 
-[90.4.86. RGB 작업 공간 바꾸기(Convert to RGB Working Space)](./90-04-86-convert_to_rgb_working_space.md)
+[90.4.86. RGB 작업 공간 바꾸기(Convert to RGB Working Space)](./90-04-0086-convert_to_rgb_working_space.md)
 
-[90.4.87. 키보드 단축키 설정(Configure Keyboard Shortcuts)](./90-04-87-configure_keyboard_shortcuts.md)
+[90.4.87. 키보드 단축키 설정(Configure Keyboard Shortcuts)](./90-04-0087-configure_keyboard_shortcuts.md)
 
-[90.4.88. GIMP 정보(About GIMP)](./90-04-88-about_gimp.md)
+[90.4.88. GIMP 정보(About GIMP)](./90-04-0088-about_gimp.md)
 
-[90.4.89. 모니터 해상도 측정(Calibrate Monitor Resolution)](./90-04-89-calibrate_monitor_resolution.md)
+[90.4.89. 모니터 해상도 측정(Calibrate Monitor Resolution)](./90-04-0089-calibrate_monitor_resolution.md)
 
-[90.4.90. 입력 장치 설정(Calibrate Monitor Resolution)](./90-04-90-configure_input_devices.md)
+[90.4.90. 입력 장치 설정(Calibrate Monitor Resolution)](./90-04-0090-configure_input_devices.md)
 
-[90.4.91. 제어기 제거(Remove Controller)](./90-04-91-remove_controller.md)
+[90.4.91. 제어기 제거(Remove Controller)](./90-04-0091-remove_controller.md)
 
-[90.4.92. 제어기의 이벤트 동작 선택(Select Controller Event Action)](./90-04-92-select_controller_event_action.md)
+[90.4.92. 제어기의 이벤트 동작 선택(Select Controller Event Action)](./90-04-0092-select_controller_event_action.md)
 
-[90.4.93. 임시 폴더 선택(Select Folder for Temporary Files)](./90-04-93-select_folder_for_temporary_files.md)
+[90.4.93. 임시 폴더 선택(Select Folder for Temporary Files)](./90-04-0093-select_folder_for_temporary_files.md)
 
-[90.4.94. 스왑 디렉터리 선택(Select Swap Folder)](./90-04-94-select_swap_folder.md)
+[90.4.94. 스왑 디렉터리 선택(Select Swap Folder)](./90-04-0094-select_swap_folder.md)
 
-[90.4.95. 격자 설정(Configure Grid)](./90-04-95-configure_grid.md)
+[90.4.95. 격자 설정(Configure Grid)](./90-04-0095-configure_grid.md)
 
-[90.4.96. 검색 동작(Search Action)](./90-04-96-search_action.md)
+[90.4.96. 검색 동작(Search Action)](./90-04-0096-search_action.md)
 
-[90.4.97. Scirpt-Fu 콘솔(Scirpt-Fu Console)](./90-04-97-script_fu_console.md)
+[90.4.97. Scirpt-Fu 콘솔(Scirpt-Fu Console)](./90-04-0097-script_fu_console.md)
 
-[90.4.98. 프로시저 브라우저(Procedure Browser)](./90-04-98-procedure_browser.md)
+[90.4.98. 프로시저 브라우저(Procedure Browser)](./90-04-0098-procedure_browser.md)
 
-[90.4.99. Script-Fu 글꼴 선택(Script-Fu Font Selection)](./90-04-99-script_fu_font_selection.md)
+[90.4.99. Script-Fu 글꼴 선택(Script-Fu Font Selection)](./90-04-0099-script_fu_font_selection.md)
 
-[90.4.100. Script-Fu 브러시 선택(Script-Fu Brush Selection)](./90-04-100-script_fu_brush_selection.md)
+[90.4.100. Script-Fu 브러시 선택(Script-Fu Brush Selection)](./90-04-0100-script_fu_brush_selection.md)
 
-[90.4.101. Script-Fu 무늬 선택(Script-Fu Pattern Selection)](./90-04-101-script_fu_pattern_selection.md)
+[90.4.101. Script-Fu 무늬 선택(Script-Fu Pattern Selection)](./90-04-0101-script_fu_pattern_selection.md)
 
-[90.4.102. Script-Fu 그라디언트 선택(Script-Fu Gradient Selection)](./90-04-102-script_fu_gradient_selection.md)
+[90.4.102. Script-Fu 그라디언트 선택(Script-Fu Gradient Selection)](./90-04-0102-script_fu_gradient_selection.md)
 
-[90.4.103. Script-Fu 팔레트 선택(Script-Fu Palette Selection)](./90-04-103-script_fu_palette_selection.md)
+[90.4.103. Script-Fu 팔레트 선택(Script-Fu Palette Selection)](./90-04-0103-script_fu_palette_selection.md)
 
-[90.4.104. Script-Fu 파일 선택(Script-Fu File Selection)](./90-04-104-script_fu_file_selection.md)
+[90.4.104. Script-Fu 파일 선택(Script-Fu File Selection)](./90-04-0104-script_fu_file_selection.md)
 
-[90.4.105. Script-Fu 폴더 선택(Script-Fu Folder Selection)](./90-04-105-script_fu_folder_selection.md)
+[90.4.105. Script-Fu 폴더 선택(Script-Fu Folder Selection)](./90-04-0105-script_fu_folder_selection.md)
 
-[90.4.106. 변화 저장하기(Save the changes)](./90-04-106-save_the_change.md)
+[90.4.106. 변화 저장하기(Save the changes)](./90-04-0106-save_the_change.md)
 
-[90.4.107. 색 바꾸기(Change Color)](./90-04-107-change_color.md)
+[90.4.107. 색 바꾸기(Change Color)](./90-04-0107-change_color.md)
 
-[90.4.108. 도구 프리셋 편집기(Tool Preset Editor)](./90-04-108-tool_preset_editor.md)
+[90.4.108. 도구 프리셋 편집기(Tool Preset Editor)](./90-04-0108-tool_preset_editor.md)
 
-[90.4.109. 전경 선택(Foreground Select)](./90-04-109-foreground_select.md)
+[90.4.109. 전경 선택(Foreground Select)](./90-04-0109-foreground_select.md)
 
-[90.4.110. 페인트 동적 요소 편집기(Paint Dynamic Editor)](./90-04-110-paint_dynamic_editor.md)
+[90.4.110. 페인트 동적 요소 편집기(Paint Dynamic Editor)](./90-04-0110-paint_dynamic_editor.md)
 
-[90.4.111. 회전 조정(Rotation Adjustment)](./90-04-111-rotation_adjustment.md)
+[90.4.111. 회전 조정(Rotation Adjustment)](./90-04-0111-rotation_adjustment.md)
 
-[90.4.112. 크기 조정(Scale Adjustment)](./90-04-112-scale_adjustment.md)
+[90.4.112. 크기 조정(Scale Adjustment)](./90-04-0112-scale_adjustment.md)
 
-[90.4.113. 기울이기 조정(Shear Adjustment)](./90-04-113-shear_adjustment.md)
+[90.4.113. 기울이기 조정(Shear Adjustment)](./90-04-0113-shear_adjustment.md)
 
-[90.4.114. 원근법 조정(Perspective Adjustment)](./90-04-114-perspective_adjustment.md)
+[90.4.114. 원근법 조정(Perspective Adjustment)](./90-04-0114-perspective_adjustment.md)
 
-[90.4.115. 3차원 변형(3D Transform)](./90-04-115-3d_transform.md)
+[90.4.115. 3차원 변형(3D Transform)](./90-04-0115-3d_transform.md)
 
-[90.4.116. 통합 변형](./90-04-116-unified_transform.md)
+[90.4.116. 통합 변형](./90-04-0116-unified_transform.md)
 
-[90.4.117. 핸들 변형](./90-04-117-handle_transform.md)
+[90.4.117. 핸들 변형](./90-04-0117-handle_transform.md)
 
-[90.4.118. 경로 채우기](./90-04-118-fill_path.md)
+[90.4.118. 경로 채우기](./90-04-0118-fill_path.md)
 
-[90.4.119. 측정](./90-04-119-measure.md)
+[90.4.119. 측정](./90-04-0119-measure.md)
 
-[90.4.120. 글자 색상](./90-04-120-text_color.md)
+[90.4.120. 글자 색상](./90-04-0120-text_color.md)
 
-[90.4.121. GEGL 동작](./90-04-121-gegl_operation.md)
+[90.4.121. GEGL 동작](./90-04-0121-gegl_operation.md)
 
-[90.4.122. 채널 속성(Channel Attributes)](./90-04-122-channel_attributes.md)
+[90.4.122. 채널 속성(Channel Attributes)](./90-04-0122-channel_attributes.md)
 
-[90.4.123. 새 채널(New Channel)](./90-04-123-new_channel.md)
+[90.4.123. 새 채널(New Channel)](./90-04-0123-new_channel.md)
 
-[90.4.124. 새 경로(New Path)](./90-04-124-new_path.md)
+[90.4.124. 새 경로(New Path)](./90-04-0124-new_path.md)
 
-[90.4.125. 경로 속성(Path Attributes)](./90-04-125-path_attributes.md)
+[90.4.125. 경로 속성(Path Attributes)](./90-04-0125-path_attributes.md)
 
 <a id="90-00-s5"></a>
 

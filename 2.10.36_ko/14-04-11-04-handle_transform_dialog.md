@@ -2,10 +2,10 @@
 
 <a id="90-04-117-a101"></a>
 
-#### [그림 90.4.117.a101. `핸들 변형` 대화상자 (Windows) (우리말)](./90-04-117-handle_transform.md#90-04-117-a101)
+#### [그림 90.4.117.a101. `핸들 변형` 대화상자 (Windows) (우리말)](./90-04-0117-handle_transform.md#90-04-117-a101)
 ![90-04-117-a101](https://github.com/wonder13662/gimp/assets/15767104/4d3b1b3a-082f-4ff4-8b80-5b3127f1d54e)
 
-[다른 운영체제와 언어의 `핸들 변형` 대화상자 확인하기](./90-04-117-handle_transform.md#90-04-117-a102)
+[다른 운영체제와 언어의 `핸들 변형` 대화상자 확인하기](./90-04-0117-handle_transform.md#90-04-117-a102)
 
 <a id="14-04-11-04-s1"></a>
 
@@ -19,7 +19,7 @@
 
 <a id="90-04-117-a101-01"></a>
 
-#### [영상 90.4.117.a101.1. `핸들 변형` 대화상자 → `초기화` 버튼 (Windows) (우리말)](./90-04-117-handle_transform.md#90-04-117-a101-01)
+#### [영상 90.4.117.a101.1. `핸들 변형` 대화상자 → `초기화` 버튼 (Windows) (우리말)](./90-04-0117-handle_transform.md#90-04-117-a101-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7a931f66-c5cd-4e3e-990f-accb0c709cbf"></video>
 
 ***

@@ -12,14 +12,14 @@
 
 <a id="90-04-83-a101"></a>
 
-#### [그림 90.4.83.a101. `적목 제거` 대화상자 (Windows) (우리말)](./90-04-83-red_eye_removal.md#90-04-83-a101)
+#### [그림 90.4.83.a101. `적목 제거` 대화상자 (Windows) (우리말)](./90-04-0083-red_eye_removal.md#90-04-83-a101)
 ![90-04-83-a101](https://github.com/wonder13662/gimp/assets/15767104/a99788db-2056-46d2-beef-6564dfd1f3ab)
 
-[다른 운영체제와 언어의 `적목 제거` 대화상자 확인하기](./90-04-83-red_eye_removal.md#90-04-83-a102)
+[다른 운영체제와 언어의 `적목 제거` 대화상자 확인하기](./90-04-0083-red_eye_removal.md#90-04-83-a102)
 
 <a id="90-04-83-a105"></a>
 
-#### [영상 90.4.83.a105. `적목 제거` 대화상자 (Windows) (우리말)](./90-04-83-red_eye_removal.md#90-04-83-a105)
+#### [영상 90.4.83.a105. `적목 제거` 대화상자 (Windows) (우리말)](./90-04-0083-red_eye_removal.md#90-04-83-a105)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8a845367-65fd-4efa-8f97-03a042a633ae"></video>
 
 ***

@@ -34,8 +34,8 @@ const extractPageNumberChain = (pageName) => pageName.split('-').reduce((pv, tok
 /*
 * 페이지 내용 안의 페이지 링크가 앵커 태그(<a>)를 가지고 있는 행을 골라냅니다.
 *
-* 입력: "#### [그림 90.4.3.12.a1. 활성화된 레이어 (Windows) (우리말)](./90-04-03-12-active_layer.md#90-04-03-12-a1)"
-* 출력: "90-04-03-12-active_layer.md#90-04-03-12-a1"
+* 입력: "#### [그림 90.4.3.12.a1. 활성화된 레이어 (Windows) (우리말)](./90-04-0003-012-active_layer.md#90-04-03-12-a1)"
+* 출력: "90-04-0003-012-active_layer.md#90-04-03-12-a1"
 * 
 */
 const extractPageLinkWithAnchor = (v) => {
@@ -61,15 +61,15 @@ const extractPageLinkWithAnchor = (v) => {
 /*
 * 페이지 링크 + 앵커 태그(<a>)에서 페이지 링크 주소만 골라냅니다.
 *
-* 입력: "90-04-03-12-active_layer.md#90-04-03-12-a1"
-* 출력: "90-04-03-12-active_layer.md"
+* 입력: "90-04-0003-012-active_layer.md#90-04-03-12-a1"
+* 출력: "90-04-0003-012-active_layer.md"
 * 
 */
 const extractPageLinkFromPageLinkWithAnchor = (v) => v.match(/^.+(?=\#.+)/g)
 /*
 * 페이지 링크 + 앵커 태그(<a>)에서 앵커 태그(<a>)만 골라냅니다.
 *
-* 입력: "90-04-03-12-active_layer.md#90-04-03-12-a1"
+* 입력: "90-04-0003-012-active_layer.md#90-04-03-12-a1"
 * 출력: "90-04-03-12-a1"
 * 
 */
@@ -79,8 +79,8 @@ module.exports = {
   /*
   * 페이지 내용 안의 페이지 링크가 앵커 태그(<a>)를 가지고 있는 행을 골라내 페이지 링크, 태그 속성을 가진 객체의 배열로 돌려줍니다.
   * 
-  * 입력: "90-04-03-12-active_layer.md#90-04-03-12-a1"
-  * 출력: [ { link: "90-04-03-12-active_layer.md", anchor: "90-04-03-12-a1" } ]
+  * 입력: "90-04-0003-012-active_layer.md#90-04-03-12-a1"
+  * 출력: [ { link: "90-04-0003-012-active_layer.md", anchor: "90-04-03-12-a1" } ]
   * 
   */  
   extractPageAnchorLinks: (contents, fileName = '') => {

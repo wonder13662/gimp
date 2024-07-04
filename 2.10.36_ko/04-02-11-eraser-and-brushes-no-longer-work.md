@@ -4,22 +4,22 @@
 
 <a id="90-04-15-a111"></a>
 
-#### [그림 90.4.15.a111. 클립보드 이미지(Clipboard Image) 브러시](./90-04-15-brushes.md#90-04-15-a111)
+#### [그림 90.4.15.a111. 클립보드 이미지(Clipboard Image) 브러시](./90-04-0015-brushes.md#90-04-15-a111)
 ![90-04-15-a111](https://github.com/wonder13662/gimp/assets/15767104/d6006222-0abe-44b4-a1e4-b902583a0c4c)
 
 <a id="90-04-15-a112"></a>
 
-#### [그림 90.4.15.a112. 클립보드 마스크(Clipboard Mask) 브러시](./90-04-15-brushes.md#90-04-15-a112)
+#### [그림 90.4.15.a112. 클립보드 마스크(Clipboard Mask) 브러시](./90-04-0015-brushes.md#90-04-15-a112)
 ![90-04-15-a112](https://github.com/wonder13662/gimp/assets/15767104/2c493933-b057-4ad5-b227-0b8061a2b9c9)
 
 <a id="90-04-15-a113"></a>
 
-#### [영상 90.4.15.a113. 클립보드 마스크(Clipboard Mask), 클립보드 이미지(Clipboard Image) 브러시로 붓으로 작업시 효과가 없습니다](./90-04-15-brushes.md#90-04-15-a113)
+#### [영상 90.4.15.a113. 클립보드 마스크(Clipboard Mask), 클립보드 이미지(Clipboard Image) 브러시로 붓으로 작업시 효과가 없습니다](./90-04-0015-brushes.md#90-04-15-a113)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8baa56c2-31a5-49b6-8323-4c4f08d3d752"></video>
 
 <a id="90-04-15-a114"></a>
 
-#### [영상 90.4.15.a114. 클립보드 마스크(Clipboard Mask), 클립보드 이미지(Clipboard Image) 브러시로 지우개로 작업시 효과가 없습니다](./90-04-15-brushes.md#90-04-15-a114)
+#### [영상 90.4.15.a114. 클립보드 마스크(Clipboard Mask), 클립보드 이미지(Clipboard Image) 브러시로 지우개로 작업시 효과가 없습니다](./90-04-0015-brushes.md#90-04-15-a114)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b01f225-480d-4e65-9c2e-6d1b35deee24"></video>
 
 ## 4.2.11.2. 해결방법
@@ -27,7 +27,7 @@
 
 <a id="90-04-15-a113"></a>
 
-#### [영상 90.4.15.a113. 클립보드 마스크(Clipboard Mask), 클립보드 이미지(Clipboard Image) 브러시로 붓으로 작업시 효과가 없습니다](./90-04-15-brushes.md#90-04-15-a113)
+#### [영상 90.4.15.a113. 클립보드 마스크(Clipboard Mask), 클립보드 이미지(Clipboard Image) 브러시로 붓으로 작업시 효과가 없습니다](./90-04-0015-brushes.md#90-04-15-a113)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/8baa56c2-31a5-49b6-8323-4c4f08d3d752"></video>
 
 ## 4.2.11.3. 빈 브러시는 왜 있는 걸까요?

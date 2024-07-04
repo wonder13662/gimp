@@ -2,14 +2,14 @@
 
 <a id="90-04-65-a204"></a>
 
-#### [그림 90.4.65.a204. 선택한 글꼴 사용하기 (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a204)
+#### [그림 90.4.65.a204. 선택한 글꼴 사용하기 (Windows) (우리말)](./90-04-0065-gimp_text_editor.md#90-04-65-a204)
 <img width="306" height="260" alt="90-04-65-a204" src="https://github.com/wonder13662/gimp/assets/15767104/f349f329-0876-4fc9-83e5-0f02e067ae27" />
 
 `선택한 글꼴 사용(Use selected font)` 옵션을 켜면 `김프 텍스트 편집기`의 입력창의 텍스트에 선택한 폰트를 적용합니다. 기본값은 옵션이 꺼져있는 것입니다.
 
 <a id="90-04-65-a204-01"></a>
 
-#### [영상 90.4.65.a204.1. 선택한 글꼴 사용하기 (Windows) (우리말) - ](./90-04-65-gimp_text_editor.md#90-04-65-a204-01)
+#### [영상 90.4.65.a204.1. 선택한 글꼴 사용하기 (Windows) (우리말) - ](./90-04-0065-gimp_text_editor.md#90-04-65-a204-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/75fa5df6-b61e-43d3-ba84-65079a149a1b"></video>
 
 ***

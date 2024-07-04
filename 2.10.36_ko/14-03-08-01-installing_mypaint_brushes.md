@@ -35,7 +35,7 @@ C:\Users\your-user-name\.mypaint\brushes
 
 <a id="90-04-17-a11"></a>
 
-#### [그림 90.4.17.a11. '마이페인트 붓' 대화상자 → `MyPaint 붓을 새로 고칩니다` 버튼](./90-04-17-mypaint_brushes.md#90-04-17-a11)
+#### [그림 90.4.17.a11. '마이페인트 붓' 대화상자 → `MyPaint 붓을 새로 고칩니다` 버튼](./90-04-0017-mypaint_brushes.md#90-04-17-a11)
 ![90-04-17-a11](https://github.com/wonder13662/gimp/assets/15767104/085bb6ac-105b-4491-9d34-e287deb9db27)
 
 아래 첨부한 마이페인트 붓 압축파일(`MyPaintBrushes-GIMP-master.zip`)을 사용하여 위 과정을 확인해볼 수 있습니다. [출처: MyPaintBrushes-GIMP](https://github.com/SenlinOS/MyPaintBrushes-GIMP)

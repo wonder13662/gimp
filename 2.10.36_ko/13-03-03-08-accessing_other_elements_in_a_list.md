@@ -28,12 +28,12 @@
 
 <a id="90-04-97-a211"></a>
 
-#### [그림 90.4.97.a211. `cadar` 함수 사용 (Windows) (우리말)](./90-04-97-script_fu_console.md#90-04-97-a211)
+#### [그림 90.4.97.a211. `cadar` 함수 사용 (Windows) (우리말)](./90-04-0097-script_fu_console.md#90-04-97-a211)
 ![90-04-97-a211](https://github.com/wonder13662/gimp/assets/15767104/7e67d382-1996-4bfd-aa3f-2a3283e0d839)
 
 <a id="90-04-97-a212"></a>
 
-#### [그림 90.4.97.a212. `cddr` 함수 사용 (Windows) (우리말)](./90-04-97-script_fu_console.md#90-04-97-a212)
+#### [그림 90.4.97.a212. `cddr` 함수 사용 (Windows) (우리말)](./90-04-0097-script_fu_console.md#90-04-97-a212)
 ![90-04-97-a212](https://github.com/wonder13662/gimp/assets/15767104/3b2b61a0-0251-459c-9d74-9e467c620566)
 
 ## 3. 주석(Comment)

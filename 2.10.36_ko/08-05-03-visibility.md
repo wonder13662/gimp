@@ -3,7 +3,7 @@
 
 <a id="90-04-03-02-a161"></a>
 
-#### [그림 90.4.3.2.a161. 레이어 그룹의 눈(보기) 아이콘 토글 (Windows) (우리말)](./90-04-03-02-layer_group.md#90-04-03-02-a161)
+#### [그림 90.4.3.2.a161. 레이어 그룹의 눈(보기) 아이콘 토글 (Windows) (우리말)](./90-04-0003-002-layer_group.md#90-04-03-02-a161)
 ![90-04-03-a401-dialog_layer-layer_group-visibility_toggle(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/87e1b566-0587-45b8-83a3-e5e12a5bbf9b)
 
 ***

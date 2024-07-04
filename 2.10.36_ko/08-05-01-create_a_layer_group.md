@@ -12,12 +12,12 @@
 
 <a id="90-04-03-02-a11"></a>
 
-#### [그림 90.4.3.2.a11. 레이어 대화상자 - 레이어 그룹 추가 버튼](./90-04-03-02-layer_group.md#90-04-03-02-a11)
+#### [그림 90.4.3.2.a11. 레이어 대화상자 - 레이어 그룹 추가 버튼](./90-04-0003-002-layer_group.md#90-04-03-02-a11)
 ![90-04-03-layers(w1080)-focus-add_layer_group](https://github.com/wonder13662/gimp/assets/15767104/1d059924-dec2-466c-bcb7-7f28d23c01b3)
 
 <a id="90-04-03-02-a21"></a>
 
-#### [영상 90.4.3.2.a21. 레이어 대화상자 - 레이어 그룹 추가 버튼으로 레이어 그룹 추가](./90-04-03-02-layer_group.md#90-04-03-02-a21)
+#### [영상 90.4.3.2.a21. 레이어 대화상자 - 레이어 그룹 추가 버튼으로 레이어 그룹 추가](./90-04-0003-002-layer_group.md#90-04-03-02-a21)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d41a23d7-ca29-4045-8ab8-be7e4932b61c"></video>
 
 <a id="08-05-01-s1-02"></a>
@@ -40,12 +40,12 @@
 
 <a id="90-04-03-01-08-a11"></a>
 
-#### [그림 90.4.3.1.8.a11. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)` (windows) (우리말)](./90-04-03-01-08-new_layer_group.md#90-04-03-01-08-a11)
+#### [그림 90.4.3.1.8.a11. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)` (windows) (우리말)](./90-04-0003-001-008-new_layer_group.md#90-04-03-01-08-a11)
 ![90-04-03-layers-context_menu-focus-new_layer_group](https://github.com/wonder13662/gimp/assets/15767104/de4661c7-01e2-4dcf-9c10-d594f133c26b)
 
 <a id="90-04-03-01-08-a21"></a>
 
-#### [영상 90.4.3.1.8.a21. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)`를 선택해서 레이어 그룹 만들기 (windows) (우리말)](./90-04-03-01-08-new_layer_group.md#90-04-03-01-08-a21)
+#### [영상 90.4.3.1.8.a21. 레이어 대화상자의 오른쪽 클릭으로 여는 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)`를 선택해서 레이어 그룹 만들기 (windows) (우리말)](./90-04-0003-001-008-new_layer_group.md#90-04-03-01-08-a21)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a2332994-6abc-4d79-8221-fca060c38d73"></video>
 
 <a id="08-05-01-s2"></a>
@@ -61,7 +61,7 @@
 
 <a id="90-04-03-02-a71"></a>
 
-#### [영상 90.4.3.2.a71. 레이어 대화상자의 레이어 그룹을 더블 클릭 → 레이어 그룹 이름 바꾸기](./90-04-03-02-layer_group.md#90-04-03-02-a71)
+#### [영상 90.4.3.2.a71. 레이어 대화상자의 레이어 그룹을 더블 클릭 → 레이어 그룹 이름 바꾸기](./90-04-0003-002-layer_group.md#90-04-03-02-a71)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7c82b7cd-53ef-439d-9802-1cc6f6ac73d4"></video>
 
 <a id="08-05-01-s2-02"></a>
@@ -72,14 +72,14 @@
 
 <a id="90-04-03-02-a81"></a>
 
-#### [영상 90.4.3.2.a81. 레이어 대화상자의 레이어 그룹 위에서 F2 키 누르기 → 레이어 그룹 이름 바꾸기 (Windows) (우리말)](./90-04-03-02-layer_group.md#90-04-03-02-a81)
+#### [영상 90.4.3.2.a81. 레이어 대화상자의 레이어 그룹 위에서 F2 키 누르기 → 레이어 그룹 이름 바꾸기 (Windows) (우리말)](./90-04-0003-002-layer_group.md#90-04-03-02-a81)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4ea1cb5e-3a81-4edc-8fad-50287aae21b4"></video>
 
 Mac의 경우에는 fn + F2으로 레이어 그룹의 이름을 바꿀 수 있습니다.
 
 <a id="90-04-03-02-a91"></a>
 
-#### [영상 90.4.3.2.a91. 레이어 대화상자의 레이어 그룹 위에서 fn + F2 키 누르기 → 레이어 그룹 이름 바꾸기 (Mac) (우리말)](./90-04-03-02-layer_group.md#90-04-03-02-a91)
+#### [영상 90.4.3.2.a91. 레이어 대화상자의 레이어 그룹 위에서 fn + F2 키 누르기 → 레이어 그룹 이름 바꾸기 (Mac) (우리말)](./90-04-0003-002-layer_group.md#90-04-03-02-a91)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/300bd553-c6ab-4801-a99a-f94fafa326c3"></video>
 
 <a id="08-05-01-s2-03"></a>
@@ -91,7 +91,7 @@ Mac의 경우에는 fn + F2으로 레이어 그룹의 이름을 바꿀 수 있�
 
 <a id="90-04-62-a112"></a>
 
-#### [영상 90.4.62.a112. `레이어 속성 편집` 대화상자에서 레이어 그룹의 이름 바꾸기](./90-04-62-edit_layer_attributes.md#90-04-62-a112)
+#### [영상 90.4.62.a112. `레이어 속성 편집` 대화상자에서 레이어 그룹의 이름 바꾸기](./90-04-0062-edit_layer_attributes.md#90-04-62-a112)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/441d47e0-1b58-433f-bdb8-285814e411a7"></video>
 
 <a id="08-05-01-s3"></a>
@@ -101,7 +101,7 @@ Mac의 경우에는 fn + F2으로 레이어 그룹의 이름을 바꿀 수 있�
 
 <a id="90-04-03-02-a101"></a>
 
-#### [영상 90.4.3.2.a101. 레이어 대화상자에서 레이어 그룹을 계속 추가하면 어떤 이름이 붙을까? (Windows) (우리말)](./90-04-03-02-layer_group.md#90-04-03-02-a101)
+#### [영상 90.4.3.2.a101. 레이어 대화상자에서 레이어 그룹을 계속 추가하면 어떤 이름이 붙을까? (Windows) (우리말)](./90-04-0003-002-layer_group.md#90-04-03-02-a101)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/19f06f78-32cd-47e8-a566-f1964b872c1a"></video>
 
 <a id="08-05-01-s4"></a>
@@ -111,7 +111,7 @@ Mac의 경우에는 fn + F2으로 레이어 그룹의 이름을 바꿀 수 있�
 
 <a id="90-04-03-02-a111"></a>
 
-#### [영상 90.4.3.2.a111. 중첩된 레이어 그룹을 다른 레이어 그룹에 집어 넣기](./90-04-03-02-layer_group.md#90-04-03-02-a111)
+#### [영상 90.4.3.2.a111. 중첩된 레이어 그룹을 다른 레이어 그룹에 집어 넣기](./90-04-0003-002-layer_group.md#90-04-03-02-a111)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/421b5d6b-a79d-4003-b2f1-4edee45731ba"></video>
 
 레이어 그룹을 드래그하는 것이 안되는 경우에는 [문제해결: 레이어의 클릭, 드래그가 안되요](./08-05-04-raise_n_lower_layer_groups.md#08-05-04-s3)를 참고해주세요.

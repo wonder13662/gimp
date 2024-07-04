@@ -11,7 +11,7 @@
 
 <a id="90-04-97-a131"></a>
 
-#### [영상 90.4.97.a131. `Scheme`에서 연산자와 인수 사이에 공백이 있는 경우와 없는 경우](./90-04-97-script_fu_console.md#90-04-97-a131)
+#### [영상 90.4.97.a131. `Scheme`에서 연산자와 인수 사이에 공백이 있는 경우와 없는 경우](./90-04-0097-script_fu_console.md#90-04-97-a131)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d21e7c38-0d19-4c53-842d-7859d45544d6"></video>
 
 `Script-Fu` 콘솔에서 간단한 계산식을 연습해서 이 개념에 익숙해지도록 하세요.

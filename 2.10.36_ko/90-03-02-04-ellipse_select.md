@@ -76,7 +76,7 @@
 
 ## 관련 정보
 
-[90.4.1.4. 타원 선택(Ellipse Select)](./90-04-01-04-ellipse_select.md)
+[90.4.1.4. 타원 선택(Ellipse Select)](./90-04-0001-004-ellipse_select.md)
 
 ***
 

@@ -10,10 +10,10 @@
 
 <a id="90-04-30-a101"></a>
 
-#### [그림 90.4.30.a101 인쇄 해상도 설정 대화상자 (Windows) (우리말)](./90-04-30-set_image_print_resolution.md#90-04-30-a101)
+#### [그림 90.4.30.a101 인쇄 해상도 설정 대화상자 (Windows) (우리말)](./90-04-0030-set_image_print_resolution.md#90-04-30-a101)
 ![90-04-30-a101](https://github.com/wonder13662/gimp/assets/15767104/6f4138fe-b944-4a86-bd46-9b30ddd4181c)
 
-[다른 운영체제와 언어의 '인쇄 해상도 설정' 대화상자 확인하기](./90-04-30-set_image_print_resolution.md#90-04-30-a102)
+[다른 운영체제와 언어의 '인쇄 해상도 설정' 대화상자 확인하기](./90-04-0030-set_image_print_resolution.md#90-04-30-a102)
 
 ***
 

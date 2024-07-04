@@ -10,12 +10,12 @@
 
 <a id="90-04-03-08-a31"></a>
 
-#### [그림 90.4.3.8.a31. 레이어 대화상자 - 레이어 삭제 버튼](./90-04-03-08-bottom_bar_buttons.md#90-04-03-08-a31)
+#### [그림 90.4.3.8.a31. 레이어 대화상자 - 레이어 삭제 버튼](./90-04-0003-008-bottom_bar_buttons.md#90-04-03-08-a31)
 ![90-04-03-layersx-08-bottom_bar_buttons(w1080)-focus-delete_layer](https://github.com/wonder13662/gimp/assets/15767104/e06f6fdf-ad25-405e-a76e-fff18cab31b3)
 
 <a id="90-04-03-08-a32"></a>
 
-#### [영상 90.4.3.8.a32. 레이어 대화상자 - 레이어 삭제 버튼으로 레이어 그룹 삭제하기 (Windows) (우리말)](./90-04-03-08-bottom_bar_buttons.md#90-04-03-08-a32)
+#### [영상 90.4.3.8.a32. 레이어 대화상자 - 레이어 삭제 버튼으로 레이어 그룹 삭제하기 (Windows) (우리말)](./90-04-0003-008-bottom_bar_buttons.md#90-04-03-08-a32)
 <video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/64ceeec5-7277-49a9-948b-055115d396f3"></video>
 
 <a id="08-05-07-s2"></a>
@@ -25,12 +25,12 @@
 
 <a id="90-04-03-01-11-a11"></a>
 
-#### [그림 90.4.3.1.11.a11. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `레이어 삭제(Delete Layer)` (windows) (우리말)](./90-04-03-01-11-delete_layer.md#90-04-03-01-11-a11)
+#### [그림 90.4.3.1.11.a11. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `레이어 삭제(Delete Layer)` (windows) (우리말)](./90-04-0003-001-011-delete_layer.md#90-04-03-01-11-a11)
 ![90-04-03-layersx-01-context_menu-focus-delete_layer](https://github.com/wonder13662/gimp/assets/15767104/8c5f2238-dc9a-43fd-8fa5-ed6ba55288ac)
 
 <a id="90-04-03-01-11-a21"></a>
 
-#### [영상 90.4.3.1.11.a21. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `레이어 삭제(Delete Layer)` (windows) (우리말)](./90-04-03-01-11-delete_layer.md#90-04-03-01-11-a21)
+#### [영상 90.4.3.1.11.a21. 레이어 대화상자의 오른쪽 클릭 팝업(컨텍스트 메뉴) → `레이어 삭제(Delete Layer)` (windows) (우리말)](./90-04-0003-001-011-delete_layer.md#90-04-03-01-11-a21)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d39d052b-f104-44a7-b42b-7c44e036e6b9"></video>
 
 <a id="08-05-07-s3"></a>

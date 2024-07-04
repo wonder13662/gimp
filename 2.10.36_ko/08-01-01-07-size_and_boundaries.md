@@ -3,7 +3,7 @@ GIMP(김프)에서는 레이어의 경계가 이미지(캔버스)의 경계와 �
 
 <a id="90-04-03-a271"></a>
 
-#### [그림 90.4.3.a271. 이미지 경계(Image Boundary)와 레이어 경계(Layer Boundary)](./90-04-03-00-layers.md#90-04-03-a271)
+#### [그림 90.4.3.a271. 이미지 경계(Image Boundary)와 레이어 경계(Layer Boundary)](./90-04-0003-000-layers.md#90-04-03-a271)
 ![90-04-03-layer_boundary(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/29e4d4f6-e8a0-4bb5-96cb-c13b791f19b9)
 
 이 검은색과 노란색 점선 밖의 공간에서는 어떤 작업도 할 수 없습니다. 왜냐하면 실제로 점선 밖의 공간에는 아무것도 존재하지 않기 때문입니다. 따라서, 이 경우에는 레이어의 크기를 조정하면 됩니다.

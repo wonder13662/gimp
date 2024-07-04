@@ -8,7 +8,7 @@
 
 <a id="90-04-66-a105"></a>
 
-#### [영상 90.4.66.a105. 텍스트 레이어를 변형하여 `텍스트 편집 확인` 대화상자 띄우기 (Windows) (우리말)](./90-04-66-confirm_text_editing.md#90-04-66-a105)
+#### [영상 90.4.66.a105. 텍스트 레이어를 변형하여 `텍스트 편집 확인` 대화상자 띄우기 (Windows) (우리말)](./90-04-0066-confirm_text_editing.md#90-04-66-a105)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5607b421-5301-4cf7-9505-3fb0516b8850"></video>
 
 ## 2. 텍스트 편집 확인 대화상자 띄우기
@@ -16,17 +16,17 @@
 
 <a id="90-04-66-a101"></a>
 
-#### [그림 90.4.66.a101. `텍스트 편집 확인` 대화상자 (Windows) (우리말)](./90-04-66-confirm_text_editing.md#90-04-66-a101)
+#### [그림 90.4.66.a101. `텍스트 편집 확인` 대화상자 (Windows) (우리말)](./90-04-0066-confirm_text_editing.md#90-04-66-a101)
 ![90-04-66-a101](https://github.com/wonder13662/gimp/assets/15767104/d82593ac-48e6-4939-a096-e4be7ab09f71)
 
-[다른 운영체제와 언어의 `텍스트 편집 확인` 대화상자 확인하기](./90-04-66-confirm_text_editing.md#90-04-66-a102)
+[다른 운영체제와 언어의 `텍스트 편집 확인` 대화상자 확인하기](./90-04-0066-confirm_text_editing.md#90-04-66-a102)
 
 ### 2-1. 새 레이어 만들기
 텍스트 레이어를 변형한 이미지 레이어는 그대로 두고, 이전 텍스트 레이어를 새로운 텍스트 레이어로 복사합니다.
 
 <a id="90-04-66-a106"></a>
 
-#### [영상 90.4.66.a106. `텍스트 편집 확인` 대화상자 → `새 레이어 만들기` (Windows) (우리말)](./90-04-66-confirm_text_editing.md#90-04-66-a106)
+#### [영상 90.4.66.a106. `텍스트 편집 확인` 대화상자 → `새 레이어 만들기` (Windows) (우리말)](./90-04-0066-confirm_text_editing.md#90-04-66-a106)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/58174c32-aca6-40fb-8a43-6365dce7cb08"></video>
 
 ### 2-2. 편집
@@ -34,7 +34,7 @@
 
 <a id="90-04-66-a107"></a>
 
-#### [영상 90.4.66.a107. `텍스트 편집 확인` 대화상자 → `편집` (Windows) (우리말)](./90-04-66-confirm_text_editing.md#90-04-66-a107)
+#### [영상 90.4.66.a107. `텍스트 편집 확인` 대화상자 → `편집` (Windows) (우리말)](./90-04-0066-confirm_text_editing.md#90-04-66-a107)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/27bac218-9775-4b41-a01a-d74ca0464d37"></video>
 
 ### 2-3. 취소
@@ -42,7 +42,7 @@
 
 <a id="90-04-66-a108"></a>
 
-#### [영상 90.4.66.a108. `텍스트 편집 확인` 대화상자 → `취소` (Windows) (우리말)](./90-04-66-confirm_text_editing.md#90-04-66-a108)
+#### [영상 90.4.66.a108. `텍스트 편집 확인` 대화상자 → `취소` (Windows) (우리말)](./90-04-0066-confirm_text_editing.md#90-04-66-a108)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/581eb616-4bd8-4fa1-873e-9dab1cd96320"></video>
 
 ***

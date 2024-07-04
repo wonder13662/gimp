@@ -2,7 +2,7 @@
 
 <a id="90-04-65-a111"></a>
 
-#### [그림 90.4.65.a111. `김프 텍스트 편집기` 대화상자 → `왼쪽에서 오른쪽으로` (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a111)
+#### [그림 90.4.65.a111. `김프 텍스트 편집기` 대화상자 → `왼쪽에서 오른쪽으로` (Windows) (우리말)](./90-04-0065-gimp_text_editor.md#90-04-65-a111)
 <img width="306" height="260" alt="90-04-65-a111" src="https://github.com/wonder13662/gimp/assets/15767104/bcbebe8d-8f7e-408f-9419-30ac377675db" />
 
 `왼쪽에서 오른쪽으로(From Left to Right)` 옵션은 왼쪽에서 오른쪽으로 텍스트를 입력받습니다. 
@@ -11,12 +11,12 @@
 
 <a id="90-04-65-a112"></a>
 
-#### [영상 90.4.65.a112. `김프 텍스트 편집기` 대화상자 → `왼쪽에서 오른쪽으로` (텍스트 박스 동적모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a112)
+#### [영상 90.4.65.a112. `김프 텍스트 편집기` 대화상자 → `왼쪽에서 오른쪽으로` (텍스트 박스 동적모드) (Windows) (우리말)](./90-04-0065-gimp_text_editor.md#90-04-65-a112)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/02ef21c4-3f83-462a-9945-48191d091809"></video>
 
 <a id="90-04-65-a113"></a>
 
-#### [영상 90.4.65.a113. `김프 텍스트 편집기` 대화상자 → `왼쪽에서 오른쪽으로` (텍스트 박스 고정모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a113)
+#### [영상 90.4.65.a113. `김프 텍스트 편집기` 대화상자 → `왼쪽에서 오른쪽으로` (텍스트 박스 고정모드) (Windows) (우리말)](./90-04-0065-gimp_text_editor.md#90-04-65-a113)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d545249a-7adc-4e85-8855-d782744b6665"></video>
 
 ***

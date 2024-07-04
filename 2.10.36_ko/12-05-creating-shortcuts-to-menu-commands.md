@@ -11,7 +11,7 @@
 
 <a id="90-04-87-a111"></a>
 
-#### [영상 90.4.87.a111. `키보드 단축키 설정` 대화상자: 단축키 설정 (Windows) (우리말)](./90-04-87-configure_keyboard_shortcuts.md#90-04-87-a111)
+#### [영상 90.4.87.a111. `키보드 단축키 설정` 대화상자: 단축키 설정 (Windows) (우리말)](./90-04-0087-configure_keyboard_shortcuts.md#90-04-87-a111)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e495b362-c470-4c28-91b7-b02f3f21bb14"></video>
 
 ## 2. 키보드 단축키 설정 대화상자 사용하기
@@ -29,7 +29,7 @@
 
 <a id="90-04-87-a101"></a>
 
-#### [그림 90.4.87.a101. `키보드 단축키 설정` 대화상자 (Windows) (우리말)](./90-04-87-configure_keyboard_shortcuts.md#90-04-87-a101)
+#### [그림 90.4.87.a101. `키보드 단축키 설정` 대화상자 (Windows) (우리말)](./90-04-0087-configure_keyboard_shortcuts.md#90-04-87-a101)
 ![90-04-87-a101](https://github.com/wonder13662/gimp/assets/15767104/7bc6c2be-e65c-453c-8566-d6d975d6d3f3)
 
 ***

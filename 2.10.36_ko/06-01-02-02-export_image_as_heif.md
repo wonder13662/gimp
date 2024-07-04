@@ -3,10 +3,10 @@
 
 <a id="90-04-44-a101-1"></a>
 
-#### [그림 90.4.44.a101. `이미지를 HEIF로 내보내기` 대화상자 (Windows) (우리말)](./90-04-44-export_image_as_heif.md#90-04-44-a101)
+#### [그림 90.4.44.a101. `이미지를 HEIF로 내보내기` 대화상자 (Windows) (우리말)](./90-04-0044-export_image_as_heif.md#90-04-44-a101)
 ![90-04-44-a101](https://github.com/wonder13662/gimp/assets/15767104/138ff527-f520-452f-a402-7acc0afbc0b5)
 
-[다른 운영체제와 언어의 `이미지를 HEIF로 내보내기` 대화상자 확인하기](./90-04-44-export_image_as_heif.md#90-04-44-a102)
+[다른 운영체제와 언어의 `이미지를 HEIF로 내보내기` 대화상자 확인하기](./90-04-0044-export_image_as_heif.md#90-04-44-a102)
 
 `HEIF` 이미지는 같은 크기의 `JPEG` 이미지에 비해 두배의 정보를 저장할 수 있어 더 나은 이미지 품질을 보여줍니다. 2024년 2월 시점으로 웹브라우저 중 Safari 17.0 버전 이상만 `HEIF`을 지원하고 있습니다. [Can I use에서 `HEIF` 지원 브라우저 현황 확인](https://caniuse.com/heif)
 
@@ -21,10 +21,10 @@
 
 <a id="90-04-44-a101-2"></a>
 
-#### [그림 90.4.44.a101. `이미지를 HEIF로 내보내기` 대화상자 (Windows) (우리말)](./90-04-44-export_image_as_heif.md#90-04-44-a101)
+#### [그림 90.4.44.a101. `이미지를 HEIF로 내보내기` 대화상자 (Windows) (우리말)](./90-04-0044-export_image_as_heif.md#90-04-44-a101)
 ![90-04-44-a101](https://github.com/wonder13662/gimp/assets/15767104/138ff527-f520-452f-a402-7acc0afbc0b5)
 
-[다른 운영체제와 언어의 `이미지를 HEIF로 내보내기` 대화상자 확인하기](./90-04-44-export_image_as_heif.md#90-04-44-a102)
+[다른 운영체제와 언어의 `이미지를 HEIF로 내보내기` 대화상자 확인하기](./90-04-0044-export_image_as_heif.md#90-04-44-a102)
 
 ### Nearly lossless
 (TODO 옵션 설명 추가 필요)

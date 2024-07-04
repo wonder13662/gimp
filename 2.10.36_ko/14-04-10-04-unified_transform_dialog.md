@@ -2,10 +2,10 @@
 
 <a id="90-04-116-a101"></a>
 
-#### [그림 90.4.116.a101. `통합 변형` 대화상자 (Windows) (우리말)](./90-04-116-unified_transform.md#90-04-116-a101)
+#### [그림 90.4.116.a101. `통합 변형` 대화상자 (Windows) (우리말)](./90-04-0116-unified_transform.md#90-04-116-a101)
 ![90-04-116-a101](https://github.com/wonder13662/gimp/assets/15767104/b1cd9460-8712-4a81-9e1d-d285f28a2ce4)
 
-[다른 운영체제와 언어의 `통합 변형` 대화상자 확인하기](./90-04-116-unified_transform.md#90-04-116-a102)
+[다른 운영체제와 언어의 `통합 변형` 대화상자 확인하기](./90-04-0116-unified_transform.md#90-04-116-a102)
 
 <a id="14-04-10-04-s1"></a>
 
@@ -19,7 +19,7 @@
 
 <a id="90-04-116-a111"></a>
 
-#### [영상 90.4.116.a111. `통합 변형` 대화상자: 초기화(Reset) 버튼 (Windows) (우리말)](./90-04-116-unified_transform.md#90-04-116-a111)
+#### [영상 90.4.116.a111. `통합 변형` 대화상자: 초기화(Reset) 버튼 (Windows) (우리말)](./90-04-0116-unified_transform.md#90-04-116-a111)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4e75a70f-7847-499f-a5d2-a1092b0bff05"></video>
 
 <a id="14-04-10-04-s3"></a>
@@ -29,7 +29,7 @@
 
 <a id="90-04-116-a112"></a>
 
-#### [영상 90.4.116.a112. `통합 변형` 대화상자: 재조정(Readjust) 버튼 (Windows) (우리말)](./90-04-116-unified_transform.md#90-04-116-a112)
+#### [영상 90.4.116.a112. `통합 변형` 대화상자: 재조정(Readjust) 버튼 (Windows) (우리말)](./90-04-0116-unified_transform.md#90-04-116-a112)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4449eb22-91f5-4832-a512-a654c924e30a"></video>
 
 <a id="14-04-10-04-s4"></a>
@@ -39,7 +39,7 @@
 
 <a id="90-04-116-a113"></a>
 
-#### [영상 90.4.116.a113. `통합 변형` 대화상자: 변형(Transform) 버튼 (Windows) (우리말)](./90-04-116-unified_transform.md#90-04-116-a113)
+#### [영상 90.4.116.a113. `통합 변형` 대화상자: 변형(Transform) 버튼 (Windows) (우리말)](./90-04-0116-unified_transform.md#90-04-116-a113)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/faafb98d-a4f4-4d03-ac0c-be283e27f47c"></video>
 
 ***

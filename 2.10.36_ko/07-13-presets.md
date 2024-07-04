@@ -5,7 +5,7 @@
 
 <a id="90-04-01-03-a141"></a>
 
-#### [그림 90.4.1.3.a141. 도구 옵션 대화상자의 아래쪽 4개 버튼](./90-04-01-03-rectangle_select.md#90-04-01-03-a141)
+#### [그림 90.4.1.3.a141. 도구 옵션 대화상자의 아래쪽 4개 버튼](./90-04-0001-003-rectangle_select.md#90-04-01-03-a141)
 ![90-04-01-tool_optionsx-03-rectangle_select(windows)(ko)-focus-bottom_bar_buttons](https://github.com/wonder13662/gimp/assets/15767104/ba5a5c19-f1ef-45bf-a0c7-e129ad19faaf)
 
 모든 도구 프리셋에 대한 설명은 [도구 프리셋 대화상자](./15-05-01-tool-preset-dialog.md)에서 확인할 수 있습니다.

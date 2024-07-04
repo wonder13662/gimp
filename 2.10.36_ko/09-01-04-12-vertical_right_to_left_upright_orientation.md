@@ -8,19 +8,19 @@
 
 <a id="90-04-68-12-a101"></a>
 
-#### [그림 90.4.68.12.a101. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Windows)](./90-04-68-12-vertical_right_to_left_upright_orientation.md#90-04-68-12-a101)
+#### [그림 90.4.68.12.a101. `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Windows)](./90-04-0068-012-vertical_right_to_left_upright_orientation.md#90-04-68-12-a101)
 ![90-04-68-a101-text_context_menu(windows)-focus-vertical_right_to_left-upright_orientation](https://github.com/wonder13662/gimp/assets/15767104/671f4db3-1096-43c9-8b5d-713984d4ff5e)
 
-[다른 운영체제와 언어의 `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(수직 방향)` 확인하기](./90-04-68-12-vertical_right_to_left_upright_orientation.md#90-04-68-12-a201)
+[다른 운영체제와 언어의 `텍스트 컨텍스트 메뉴` → `수직으로 오른쪽에서 왼쪽(수직 방향)` 확인하기](./90-04-0068-012-vertical_right_to_left_upright_orientation.md#90-04-68-12-a201)
 
 <a id="90-04-67-a211"></a>
 
-#### [영상 90.4.67.a211. 텍스트 도구상자 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 수직으로 오른쪽에서 왼쪽(수직 방향)](./90-04-67-text_toolbox.md#90-04-67-a211)
+#### [영상 90.4.67.a211. 텍스트 도구상자 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 수직으로 오른쪽에서 왼쪽(수직 방향)](./90-04-0067-text_toolbox.md#90-04-67-a211)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/30a18a74-2aac-4570-90bb-4729bcc826bc"></video>
 
 <a id="90-04-67-a212"></a>
 
-#### [영상 90.4.67.a212. 텍스트 도구상자 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 수직으로 오른쪽에서 왼쪽(수직 방향)](./90-04-67-text_toolbox.md#90-04-67-a212)
+#### [영상 90.4.67.a212. 텍스트 도구상자 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 수직으로 오른쪽에서 왼쪽(수직 방향)](./90-04-0067-text_toolbox.md#90-04-67-a212)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ae345d36-8bbe-4ed5-ab5e-54e1ae08e403"></video>
 
 ## 3. `김프 텍스트 편집기` → `수직으로 오른쪽에서 왼쪽(수직 방향)`
@@ -28,17 +28,17 @@
 
 <a id="90-04-65-a141"></a>
 
-#### [그림 90.4.65.a141. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a141)
+#### [그림 90.4.65.a141. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(수직 방향)` (Windows) (우리말)](./90-04-0065-gimp_text_editor.md#90-04-65-a141)
 <img width="306" height="260" alt="90-04-65-a141" src="https://github.com/wonder13662/gimp/assets/15767104/88cd162e-48b3-4119-9df5-894ce89ff1e9" />
 
 <a id="90-04-65-a142"></a>
 
-#### [영상 90.4.65.a142. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(수직 방향)` (텍스트 박스 동적모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a142)
+#### [영상 90.4.65.a142. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(수직 방향)` (텍스트 박스 동적모드) (Windows) (우리말)](./90-04-0065-gimp_text_editor.md#90-04-65-a142)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f214ca33-3395-4ec3-8108-35b78979a544"></video>
 
 <a id="90-04-65-a143"></a>
 
-#### [영상 90.4.65.a143. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(수직 방향)` (텍스트 박스 고정모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a143)
+#### [영상 90.4.65.a143. `김프 텍스트 편집기` 대화상자 → `수직으로 오른쪽에서 왼쪽(수직 방향)` (텍스트 박스 고정모드) (Windows) (우리말)](./90-04-0065-gimp_text_editor.md#90-04-65-a143)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d28699c6-c42b-43a0-b768-ece899cc0bf5"></video>
 
 ***

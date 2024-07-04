@@ -8,7 +8,7 @@
 
 <a id="90-04-03-02-a201"></a>
 
-#### [영상 90.4.3.2.a201. 레이어 그룹의 미리보기 기능 끄기/켜기](./90-04-03-02-layer_group.md#90-04-03-02-a201)
+#### [영상 90.4.3.2.a201. 레이어 그룹의 미리보기 기능 끄기/켜기](./90-04-0003-002-layer_group.md#90-04-03-02-a201)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9bb1f1d8-8c14-490b-b4c3-8f756e988a54"></video>
 
 ***

@@ -2,17 +2,17 @@
 
 <a id="90-04-54-a101"></a>
 
-#### [그림 90.4.54.a101. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말)](./90-04-54-export_image_as_brush_pipe.md#90-04-54-a101)
+#### [그림 90.4.54.a101. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말)](./90-04-0054-export_image_as_brush_pipe.md#90-04-54-a101)
 ![90-04-54-a101](https://github.com/wonder13662/gimp/assets/15767104/772cddf7-fec0-4394-8394-99ec12a986e8)
 
-[다른 운영체제와 언어의 `이미지를 붓 파이프로 내보내기` 대화상자 확인하기](./90-04-54-export_image_as_brush_pipe.md#90-04-54-a102)
+[다른 운영체제와 언어의 `이미지를 붓 파이프로 내보내기` 대화상자 확인하기](./90-04-0054-export_image_as_brush_pipe.md#90-04-54-a102)
 
 ## 1. 설명(Description)
 `붓 대화상자`에서 `격자로 보기(View as Grid)`일 경우, 붓 선택시 나오는 붓의 이름입니다.
 
 <a id="90-04-15-a191"></a>
 
-#### [영상 90.4.15.a191. 붓 대화상자의 붓 설명(description)](./90-04-15-brushes.md#90-04-15-a191)
+#### [영상 90.4.15.a191. 붓 대화상자의 붓 설명(description)](./90-04-0015-brushes.md#90-04-15-a191)
 ![90-04-15-a191](https://github.com/wonder13662/gimp/assets/15767104/fb4f6097-a9e0-4cc0-aa68-c03d0b462846)
 
 ## 2. 간격(Spacing)
@@ -66,7 +66,7 @@ GIMP(김프)에서는 최대 4개의 차원까지 가질 수 있습니다. 차�
 
 <a id="90-04-54-a105"></a>
 
-#### [그림 90.4.54.a105. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 차원을 바꾸면 횡렬도 영향을 받습니다](./90-04-54-export_image_as_brush_pipe.md#90-04-54-a105)
+#### [그림 90.4.54.a105. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 차원을 바꾸면 횡렬도 영향을 받습니다](./90-04-0054-export_image_as_brush_pipe.md#90-04-54-a105)
 ![90-04-54-a105](https://github.com/wonder13662/gimp/assets/15767104/9a713938-38c1-4b5b-b1d9-613bce3b07ad)
 
 ## 7. 횡렬(Ranks)
@@ -77,14 +77,14 @@ GIMP(김프)에서는 최대 4개의 차원까지 가질 수 있습니다. 차�
 
 <a id="90-04-54-a106"></a>
 
-#### [그림 90.4.54.a106. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬(Rank)](./90-04-54-export_image_as_brush_pipe.md#90-04-54-a106)
+#### [그림 90.4.54.a106. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬(Rank)](./90-04-0054-export_image_as_brush_pipe.md#90-04-54-a106)
 ![90-04-54-a106](https://github.com/wonder13662/gimp/assets/15767104/4f2e2c68-8619-4002-8dde-9c4977dd7dd2)
 
 ### 7-2. 차원의 횡렬의 선택(Selection)
 
 <a id="90-04-54-a107"></a>
 
-#### [그림 90.4.54.a107. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬의 선택(selection)](./90-04-54-export_image_as_brush_pipe.md#90-04-54-a107)
+#### [그림 90.4.54.a107. `이미지를 붓 파이프로 내보내기` 대화상자 (Windows) (우리말) - 횡렬의 선택(selection)](./90-04-0054-export_image_as_brush_pipe.md#90-04-54-a107)
 ![90-04-54-a107](https://github.com/wonder13662/gimp/assets/15767104/d902c779-d0e8-4b51-8fe8-28cc739a76c8)
 
 각 `차원(Dimension)`에 설정하는 `횡렬(Ranks)`에 `선택(Selection)` 모드를 설정할 수 있습니다. 실제로 이미지에 붓을 칠할 때, 붓의 모양을 고르는 기준은 `선택(Selection)` 모드의 영향을 받습니다. 각 모드는 아래와 같습니다.

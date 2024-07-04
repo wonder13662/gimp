@@ -13,10 +13,10 @@
 
 <a id="90-04-91-a101"></a>
 
-#### [그림 90.4.91.a101. `제어기 제거` 대화상자 (Windows) (우리말)](./90-04-91-remove_controller.md#90-04-91-a101)
+#### [그림 90.4.91.a101. `제어기 제거` 대화상자 (Windows) (우리말)](./90-04-0091-remove_controller.md#90-04-91-a101)
 ![90-04-91-a101](https://github.com/wonder13662/gimp/assets/15767104/ddbf4cc9-4e84-422a-8733-1f7e30227cab)
 
-[다른 운영체제와 언어의 `제어기 제거` 대화상자 확인하기](./90-04-91-remove_controller.md#90-04-91-a102)
+[다른 운영체제와 언어의 `제어기 제거` 대화상자 확인하기](./90-04-0091-remove_controller.md#90-04-91-a102)
 
 입력 제어기의 목록에서 제어기 아이템을 더블 클릭하거나, `현재 사용중인 제어기(Active Controllers)`의 아래쪽의 수정 버튼을 클릭하면, [`입력 제어기 설정` 대화상자](./12-01-23-input-controllers.md#90-04-57-a101)가 열립니다. 이 대화상자에서 제어기를 설정할 수 있습니다. 이 대화상자를 활용한 예시는 아래 링크를 참고해주세요.
 
@@ -29,10 +29,10 @@
 
 <a id="90-04-57-a101"></a>
 
-#### [그림 90.4.57.a101. `입력 제어기 설정` 대화상자 (Windows) (우리말)](./90-04-57-configure_input_controller.md#90-04-57-a101)
+#### [그림 90.4.57.a101. `입력 제어기 설정` 대화상자 (Windows) (우리말)](./90-04-0057-configure_input_controller.md#90-04-57-a101)
 ![90-04-57-a101](https://github.com/wonder13662/gimp/assets/15767104/27dd0768-453d-4ec9-b449-79527c6ed202)
 
-[다른 운영체제와 언어의 `입력 제어기 설정` 대화상자 확인하기](./90-04-57-configure_input_controller.md#90-04-57-a102)
+[다른 운영체제와 언어의 `입력 제어기 설정` 대화상자 확인하기](./90-04-0057-configure_input_controller.md#90-04-57-a102)
 
 ### 1-1. 일반(General)
 ### 1-1-1. 제어기의 이벤트 복사하기(Dump events from this controller)
@@ -49,17 +49,17 @@
 
 <a id="90-04-92-a101"></a>
 
-#### [그림 90.4.92.a101. `제어기의 이벤트 동작 선택` 대화상자 (Windows) (우리말)](./90-04-92-select_controller_event_action.md#90-04-92-a101)
+#### [그림 90.4.92.a101. `제어기의 이벤트 동작 선택` 대화상자 (Windows) (우리말)](./90-04-0092-select_controller_event_action.md#90-04-92-a101)
 ![90-04-92-a101](https://github.com/wonder13662/gimp/assets/15767104/3da0ec1a-15c1-4361-983c-e860b0395570)
 
-[다른 운영체제와 언어의 `제어기의 이벤트 동작 선택` 대화상자 확인하기](./90-04-92-select_controller_event_action.md#90-04-92-a102)
+[다른 운영체제와 언어의 `제어기의 이벤트 동작 선택` 대화상자 확인하기](./90-04-0092-select_controller_event_action.md#90-04-92-a102)
 
 ## 2. 입력 제어기 설정 대화상자: (예시)메인 키보드
 마우스 휠과 동일한 방법으로 키보드의 화살표키와 기능 키들을 조합하여 동작을 할당할 수 있습니다.
 
 <a id="90-04-57-a121"></a>
 
-#### [그림 90.4.57.a121. `입력 제어기 설정` 대화상자: 메인 키보드 (Windows) (우리말)](./90-04-57-configure_input_controller.md#90-04-57-a121)
+#### [그림 90.4.57.a121. `입력 제어기 설정` 대화상자: 메인 키보드 (Windows) (우리말)](./90-04-0057-configure_input_controller.md#90-04-57-a121)
 ![90-04-57-a121](https://github.com/wonder13662/gimp/assets/15767104/2fb6c001-7b9a-4bdb-bb4b-b6d51d3d31dd)
 
 ***

@@ -11,12 +11,12 @@
 
 <a id="90-04-03-08-a11"></a>
 
-#### [그림 90.4.3.8.a11. 레이어 대화상자 - 새 레이어 추가 버튼](./90-04-03-08-bottom_bar_buttons.md#90-04-03-08-a11)
+#### [그림 90.4.3.8.a11. 레이어 대화상자 - 새 레이어 추가 버튼](./90-04-0003-008-bottom_bar_buttons.md#90-04-03-08-a11)
 ![90-04-03-layers(w1080)-focus-new_layer](https://github.com/wonder13662/gimp/assets/15767104/aa91e238-e989-4481-af07-02ecef80c0fc)
 
 <a id="90-04-03-02-a31"></a>
 
-#### [영상 90.4.3.2.a31. 레이어 대화상자 - 새 레이어 추가 버튼으로 레이어 그룹 안에 레이어 추가](./90-04-03-02-layer_group.md#90-04-03-02-a31)
+#### [영상 90.4.3.2.a31. 레이어 대화상자 - 새 레이어 추가 버튼으로 레이어 그룹 안에 레이어 추가](./90-04-0003-002-layer_group.md#90-04-03-02-a31)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/877ae55c-d51f-4d42-808e-10b27d6b192d"></video>
 
 ### 2-2. 이미지 메뉴 바의 `레이어` → `새 레이어` 메뉴 선택
@@ -57,12 +57,12 @@
 
 <a id="90-04-03-02-a131"></a>
 
-#### [그림 90.4.3.2.a131. 레이어 그룹 안에 내용이 있을 때, 레이어 그룹 열기/닫기 아이콘 (Windows) (우리말)](./90-04-03-02-layer_group.md#90-04-03-02-a131)
+#### [그림 90.4.3.2.a131. 레이어 그룹 안에 내용이 있을 때, 레이어 그룹 열기/닫기 아이콘 (Windows) (우리말)](./90-04-0003-002-layer_group.md#90-04-03-02-a131)
 ![90-04-03-a331-dialog_layer-layer_group_closed(windows)(ko)-focus](https://github.com/wonder13662/gimp/assets/15767104/cdaafc7a-f56e-4831-8027-5c8a4b99aefb)
 
 <a id="90-04-03-02-a141"></a>
 
-#### [그림 90.4.3.2.a141. 레이어 그룹 안에 내용이 있을 때, 레이어 그룹 열기/닫기 (Windows) (우리말)](./90-04-03-02-layer_group.md#90-04-03-02-a141)
+#### [그림 90.4.3.2.a141. 레이어 그룹 안에 내용이 있을 때, 레이어 그룹 열기/닫기 (Windows) (우리말)](./90-04-0003-002-layer_group.md#90-04-03-02-a141)
 ![90-04-03-a331-dialog_layer-layer_group_toggle(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/a2f7d143-b1ab-453c-b701-ce219baf8002)
 
 ## 4. 레이어 그룹 안의 레이어의 들여쓰기
@@ -70,7 +70,7 @@
 
 <a id="90-04-03-02-a151"></a>
 
-#### [그림 90.4.3.2.a151. 레이어 그룹 안에 내용의 들여쓰기 (Windows) (우리말)](./90-04-03-02-layer_group.md#90-04-03-02-a151)
+#### [그림 90.4.3.2.a151. 레이어 그룹 안에 내용의 들여쓰기 (Windows) (우리말)](./90-04-0003-002-layer_group.md#90-04-03-02-a151)
 ![90-04-03-a333-dialog_layer-indentation(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/923c0f99-8fee-4937-b339-98b15ceec6e0)
 
 ***

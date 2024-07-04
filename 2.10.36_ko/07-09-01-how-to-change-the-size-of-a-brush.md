@@ -94,7 +94,7 @@
 
 <a id="90-04-57-a111"></a>
 
-#### [그림 90.4.58.a111. `제어기의 이벤트 동작 선택` 대화상자 (Windows) (우리말) - 위로 스크롤](./90-04-57-configure_input_controller.md#90-04-57-a111)
+#### [그림 90.4.58.a111. `제어기의 이벤트 동작 선택` 대화상자 (Windows) (우리말) - 위로 스크롤](./90-04-0057-configure_input_controller.md#90-04-57-a111)
 ![90-04-57-a111](https://github.com/wonder13662/gimp/assets/15767104/d28846a0-8ded-4e2b-9f45-c572d8398035)
 
 ### 6-3. 제어기의 이벤트 동작 선택 대화상자에서 "도구 크기: 1증가" 설정하기
@@ -108,7 +108,7 @@
 
 <a id="90-04-58-a111"></a>
 
-#### [그림 90.4.58.a111. `제어기의 이벤트 동작 선택` 대화상자 (Windows) (우리말) - 도구 크기: 1 증가](./90-04-58-select_controller_event_action.md#90-04-58-a111)
+#### [그림 90.4.58.a111. `제어기의 이벤트 동작 선택` 대화상자 (Windows) (우리말) - 도구 크기: 1 증가](./90-04-0058-select_controller_event_action.md#90-04-58-a111)
 ![90-04-58-a111](https://github.com/wonder13662/gimp/assets/15767104/11f23ab7-9b0d-4160-873f-2e1eb7b666a3)
 
 이제 "위로 스크롤"에 "tools-size-increase"가 보입니다.

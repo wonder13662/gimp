@@ -6,14 +6,14 @@
 
 <a id="90-04-68-08-a101"></a>
 
-#### [그림 90.4.68.8.a101. `텍스트 컨텍스트 메뉴` → `경로따라 텍스트` (Windows)](./90-04-68-08-text_along_path.md#90-04-68-08-a101)
+#### [그림 90.4.68.8.a101. `텍스트 컨텍스트 메뉴` → `경로따라 텍스트` (Windows)](./90-04-0068-008-text_along_path.md#90-04-68-08-a101)
 ![90-04-68-a101-text_context_menu(windows)-focus-text_along_path](https://github.com/wonder13662/gimp/assets/15767104/d8bb9318-b804-4fc7-87aa-75dd425d0068)
 
-[다른 운영체제와 언어의 `텍스트 컨텍스트 메뉴` → `경로따라 텍스트` 확인하기](./90-04-68-08-text_along_path.md#90-04-68-08-a201)
+[다른 운영체제와 언어의 `텍스트 컨텍스트 메뉴` → `경로따라 텍스트` 확인하기](./90-04-0068-008-text_along_path.md#90-04-68-08-a201)
 
 <a id="90-04-68-08-a102"></a>
 
-#### [영상 90.4.68.8.a102. `텍스트 컨텍스트 메뉴` → `경로따라 텍스트` (Windows) (우리말)](./90-04-68-08-text_along_path.md#90-04-68-08-a102)
+#### [영상 90.4.68.8.a102. `텍스트 컨텍스트 메뉴` → `경로따라 텍스트` (Windows) (우리말)](./90-04-0068-008-text_along_path.md#90-04-68-08-a102)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a9461d21-1561-4a01-b23d-78813edab053"></video>
 
 ## 2. 이미지 메뉴 바의 `레이어` → `경로따라 텍스트`
@@ -34,12 +34,12 @@
 
 <a id="90-04-03-01-29-a101"></a>
 
-#### [그림 90.4.3.1.29.a101. `컨텍스트 메뉴` → `경로따라 텍스트`](./90-04-03-01-29-text_along_path.md#90-04-03-01-29-a101)
+#### [그림 90.4.3.1.29.a101. `컨텍스트 메뉴` → `경로따라 텍스트`](./90-04-0003-001-029-text_along_path.md#90-04-03-01-29-a101)
 ![90-04-03-layersx-01-context_menu-activated_text_layer-focus-text_along_path](https://github.com/wonder13662/gimp/assets/15767104/a0eecbc6-f787-4489-92b8-c0cc68ee31ac)
 
 <a id="90-04-03-01-29-a102"></a>
 
-#### [영상 90.4.3.1.29.a102. `컨텍스트 메뉴` → `경로따라 텍스트`](./90-04-03-01-29-text_along_path.md#90-04-03-01-29-a102)
+#### [영상 90.4.3.1.29.a102. `컨텍스트 메뉴` → `경로따라 텍스트`](./90-04-0003-001-029-text_along_path.md#90-04-03-01-29-a102)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e7a01554-cc39-43cb-af91-8d35bfe0e5b1"></video>
 
 ***

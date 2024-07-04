@@ -102,7 +102,7 @@
 
 [90.3.2.7. 도구 아이콘(Tool icon) - 전경 선택(Foreground select)](./90-03-02-07-foreground_select.md)
 
-[90.4.1.7. 전경 선택(Foreground Select)](./90-04-01-07-foreground_select.md)
+[90.4.1.7. 전경 선택(Foreground Select)](./90-04-0001-007-foreground_select.md)
 
 ***
 

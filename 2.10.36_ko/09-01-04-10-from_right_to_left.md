@@ -9,19 +9,19 @@
 
 <a id="90-04-68-10-a101"></a>
 
-#### [그림 90.4.68.10.a101. `텍스트 컨텍스트 메뉴` → `오른쪽에서 왼쪽으로` (Windows)](./90-04-68-10-from_right_to_left.md#90-04-68-10-a101)
+#### [그림 90.4.68.10.a101. `텍스트 컨텍스트 메뉴` → `오른쪽에서 왼쪽으로` (Windows)](./90-04-0068-010-from_right_to_left.md#90-04-68-10-a101)
 ![90-04-68-a101-text_context_menu(windows)-focus-from_right_to_left](https://github.com/wonder13662/gimp/assets/15767104/56705ec7-d1bd-4b0a-862c-34859455c39e)
 
-[다른 운영체제와 언어의 `텍스트 컨텍스트 메뉴` → `오른쪽에서 왼쪽으로` 확인하기](./90-04-68-10-from_right_to_left.md#90-04-68-10-a201)
+[다른 운영체제와 언어의 `텍스트 컨텍스트 메뉴` → `오른쪽에서 왼쪽으로` 확인하기](./90-04-0068-010-from_right_to_left.md#90-04-68-10-a201)
 
 <a id="90-04-67-a191"></a>
 
-#### [영상 90.4.67.a191. 텍스트 도구상자 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 오른쪽에서 왼쪽으로](./90-04-67-text_toolbox.md#90-04-67-a191)
+#### [영상 90.4.67.a191. 텍스트 도구상자 대화상자 - 텍스트 상자 동적(Dynamic) 모드 - 입력 방향은 오른쪽에서 왼쪽으로](./90-04-0067-text_toolbox.md#90-04-67-a191)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/167630eb-ac4d-421f-bd09-f2355c1d20ce"></video>
 
 <a id="90-04-67-a192"></a>
 
-#### [영상 90.4.67.a192. 텍스트 도구상자 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 오른쪽에서 왼쪽으로](./90-04-67-text_toolbox.md#90-04-67-a192)
+#### [영상 90.4.67.a192. 텍스트 도구상자 대화상자 - 텍스트 상자 고정(Fixed) 모드 - 입력 방향은 오른쪽에서 왼쪽으로](./90-04-0067-text_toolbox.md#90-04-67-a192)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/88e999ba-9a6d-4a5b-8ad6-67511b969c56"></video>
 
 ## 3. `김프 텍스트 편집기` → `오른쪽에서 왼쪽으로`
@@ -29,17 +29,17 @@
 
 <a id="90-04-65-a121"></a>
 
-#### [그림 90.4.65.a121. `김프 텍스트 편집기` 대화상자 → `오른쪽에서 왼쪽으로` (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a121)
+#### [그림 90.4.65.a121. `김프 텍스트 편집기` 대화상자 → `오른쪽에서 왼쪽으로` (Windows) (우리말)](./90-04-0065-gimp_text_editor.md#90-04-65-a121)
 <img width="306" height="260" alt="90-04-65-a121" src="https://github.com/wonder13662/gimp/assets/15767104/5950c61b-93c4-4b38-8a2e-cae5189ce82b" />
 
 <a id="90-04-65-a122"></a>
 
-#### [영상 90.4.65.a122. `김프 텍스트 편집기` 대화상자 → `오른쪽에서 왼쪽으로` (텍스트 박스 동적모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a122)
+#### [영상 90.4.65.a122. `김프 텍스트 편집기` 대화상자 → `오른쪽에서 왼쪽으로` (텍스트 박스 동적모드) (Windows) (우리말)](./90-04-0065-gimp_text_editor.md#90-04-65-a122)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6a474371-4ebf-45f1-be7f-1655c3948c49"></video>
 
 <a id="90-04-65-a123"></a>
 
-#### [영상 90.4.65.a123. `김프 텍스트 편집기` 대화상자 → `오른쪽에서 왼쪽으로` (텍스트 박스 고정모드) (Windows) (우리말)](./90-04-65-gimp_text_editor.md#90-04-65-a123)
+#### [영상 90.4.65.a123. `김프 텍스트 편집기` 대화상자 → `오른쪽에서 왼쪽으로` (텍스트 박스 고정모드) (Windows) (우리말)](./90-04-0065-gimp_text_editor.md#90-04-65-a123)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/799f8096-e911-4293-a48d-d2ce4c7c73e5"></video>
 
 ***

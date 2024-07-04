@@ -2,7 +2,7 @@
 
 <a id="90-04-04-a1"></a>
 
-#### [그림 90.4.4.a1. 채널 대화상자](./90-04-04-channels.md#90-04-04-a1)
+#### [그림 90.4.4.a1. 채널 대화상자](./90-04-0004-channels.md#90-04-04-a1)
 <img width="974" height="421" alt="90-04-04-a1" src="https://github.com/wonder13662/gimp/assets/15767104/2e6f5e2a-39aa-40eb-9698-6825faeeb692" />
 
 `채널 대화상자(Channel dialog)`는 채널을 제어합니다.

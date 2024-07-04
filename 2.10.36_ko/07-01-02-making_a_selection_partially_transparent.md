@@ -33,7 +33,7 @@
 
 <a id="90-04-03-03-a101"></a>
 
-#### [영상 90.4.3.3.a101. "떠있는 선택(Floating selection)"의 투명도 조정하기](./90-04-03-03-floating_selection.md#90-04-03-03-a101)
+#### [영상 90.4.3.3.a101. "떠있는 선택(Floating selection)"의 투명도 조정하기](./90-04-0003-003-floating_selection.md#90-04-03-03-a101)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/da6c8a2b-6811-43ac-a361-b8a05eb7ac0c"></video>
 
 그 다음, 선택을 고정(anchor)시킵니다. 고정시키기 위해서는 3가지 방법 중 하나를 선택합니다.
@@ -45,7 +45,7 @@
 
 <a id="90-04-03-03-a111"></a>
 
-#### [영상 90.4.3.3.a111. "떠있는 선택(Floating selection)"을 대화상자 아래의 고정 버튼 클릭으로 고정하기](./90-04-03-03-floating_selection.md#90-04-03-03-a111)
+#### [영상 90.4.3.3.a111. "떠있는 선택(Floating selection)"을 대화상자 아래의 고정 버튼 클릭으로 고정하기](./90-04-0003-003-floating_selection.md#90-04-03-03-a111)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/3a3b84fe-c6b3-49d2-92ec-c81a9061d76c"></video>
 
 <a id="07-01-02-s2-02"></a>
@@ -57,14 +57,14 @@
 
 <a id="90-04-03-03-a81"></a>
 
-#### [영상 90.4.3.3.a81. "떠있는 선택(Floating selection)" 바깥의 마우스 커서의 닻(Anchor) 아이콘](./90-04-03-03-floating_selection.md#90-04-03-03-a81)
+#### [영상 90.4.3.3.a81. "떠있는 선택(Floating selection)" 바깥의 마우스 커서의 닻(Anchor) 아이콘](./90-04-0003-003-floating_selection.md#90-04-03-03-a81)
 ![90-04-03-03-a81](https://github.com/wonder13662/gimp/assets/15767104/593587b7-b4f5-402c-94c9-9e404840d47c)
 
 아래 영상에서 선택 영역의 바깥쪽을 클릭하는 과정을 확인할 수 있습니다.
 
 <a id="90-04-03-03-a91"></a>
 
-#### [영상 90.4.3.3.a91. "떠있는 선택(Floating selection)" 바깥을 클릭해서 고정하기](./90-04-03-03-floating_selection.md#90-04-03-03-a91)
+#### [영상 90.4.3.3.a91. "떠있는 선택(Floating selection)" 바깥을 클릭해서 고정하기](./90-04-0003-003-floating_selection.md#90-04-03-03-a91)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7383c9e9-060f-4b97-8205-49ac68134863"></video>
 
 <a id="07-01-02-s2-03"></a>
@@ -74,7 +74,7 @@
 
 <a id="90-04-03-01-a71"></a>
 
-#### [영상 90.4.3.1.a71. "떠있는 선택(Floating selection)"을 대화상자의 컨텍스트 메뉴의 `레이어 고정`으로 고정하기](./90-04-03-01-00-context_menu.md#90-04-03-01-a71)
+#### [영상 90.4.3.1.a71. "떠있는 선택(Floating selection)"을 대화상자의 컨텍스트 메뉴의 `레이어 고정`으로 고정하기](./90-04-0003-001-000-context_menu.md#90-04-03-01-a71)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4ea970be-7bdb-4b9b-8c05-fdc3d899aae2"></video>
 
 ### 복사 + 붙여넣기 방법
@@ -82,7 +82,7 @@
 
 <a id="90-04-03-03-a31"></a>
 
-#### [영상 90.4.3.3.a31. 선택 영역의 복사 + 붙여넣기로 떠있는 선택 만들기](./90-04-03-03-floating_selection.md#90-04-03-03-a31)
+#### [영상 90.4.3.3.a31. 선택 영역의 복사 + 붙여넣기로 떠있는 선택 만들기](./90-04-0003-003-floating_selection.md#90-04-03-03-a31)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/df01454e-345e-43ad-af3b-eeb2001c8f4b"></video>
 
 <a id="07-01-02-s3"></a>
@@ -99,7 +99,7 @@
 
 <a id="90-04-50-a111"></a>
 
-#### [그림 90.4.50.a111. `레이어 마스크 추가` 대화상자 - `선택` (Windows) (우리말)](./90-04-50-add_layer_mask.md#90-04-50-a111)
+#### [그림 90.4.50.a111. `레이어 마스크 추가` 대화상자 - `선택` (Windows) (우리말)](./90-04-0050-add_layer_mask.md#90-04-50-a111)
 ![90-04-50-a111](https://github.com/wonder13662/gimp/assets/15767104/84a8bfde-b6f6-4472-b11c-f7bf3613f6de)
 
 그 다음에 `붓`을 사용해서 원하는 투명도로 `선택` 영역에 검은색(검은색으로 칠하면 투명이 됩니다)으로 칠합니다. 상세한 내용은 [15.2.1.4. 레이어 마스크(Layer Mask)](./15-02-01-04-00-layer_mask.md)를 확인해주세요.

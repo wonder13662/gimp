@@ -17,7 +17,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
+[➡️ 다음: 90.4. 대화상자(Dialogs)](./90-04-0000-dialogs.md)
 
 [⬅️ 이전: 90.3.4. 붓(Brush)/무늬(Pattern)/그라디언트(Gradient)](./90-03-04-brush_n_pattern_n_gradient.md)
 

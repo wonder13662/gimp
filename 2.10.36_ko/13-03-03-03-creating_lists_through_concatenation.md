@@ -10,7 +10,7 @@
 
 <a id="90-04-97-a177"></a>
 
-#### [그림 90.4.97.a177. `cons` 함수로 리스트 선언 (Windows) (우리말)](./90-04-97-script_fu_console.md#90-04-97-a177)
+#### [그림 90.4.97.a177. `cons` 함수로 리스트 선언 (Windows) (우리말)](./90-04-0097-script_fu_console.md#90-04-97-a177)
 ![90-04-97-a177](https://github.com/wonder13662/gimp/assets/15767104/36c009c7-e3cc-422f-849a-43325acad8eb)
 
 결과는 리스트 `(1 2 3 4)` 입니다.
@@ -25,7 +25,7 @@
 
 <a id="90-04-97-a178"></a>
 
-#### [그림 90.4.97.a178. `cons` 함수로 요소 1개인 리스트 선언 (Windows) (우리말)](./90-04-97-script_fu_console.md#90-04-97-a178)
+#### [그림 90.4.97.a178. `cons` 함수로 요소 1개인 리스트 선언 (Windows) (우리말)](./90-04-0097-script_fu_console.md#90-04-97-a178)
 ![90-04-97-a178](https://github.com/wonder13662/gimp/assets/15767104/1a55eb82-5c91-42fd-afe0-9c741a079ee9)
 
 또한 [리터럴](https://ko.wikipedia.org/wiki/%EB%A6%AC%ED%84%B0%EB%9F%B4) 값의 위치에 사전에 만들어 둔 변수들을 사용할 수 있습니다.

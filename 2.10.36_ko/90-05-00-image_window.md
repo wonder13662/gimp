@@ -160,7 +160,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.63. 무채화(Desaturate)](./90-04-63-desaturate.md)
+[⬅️ 이전: 90.4.63. 무채화(Desaturate)](./90-04-0063-desaturate.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

@@ -2,14 +2,14 @@
 
 <a id="90-04-121-a111-08"></a>
 
-#### [그림 90.4.121.a111.8. `GEGL 동작` 대화상자 → `취소` 버튼 (Windows) (우리말)](./90-04-121-gegl_operation.md#90-04-121-a111-08)
+#### [그림 90.4.121.a111.8. `GEGL 동작` 대화상자 → `취소` 버튼 (Windows) (우리말)](./90-04-0121-gegl_operation.md#90-04-121-a111-08)
 <img width="373" height="257" alt="90-04-121-a111-08" src="https://github.com/wonder13662/gimp/assets/15767104/0eb8615f-b8a0-486a-805c-5ffd54b9bab7" />
 
 `취소(Cancel)` 버튼을 누르면 GEGL 동작을 취소하고 이전 이미지 상태로 돌아갑니다.
 
 <a id="90-04-121-a111-08-01"></a>
 
-#### [영상 90.4.121.a111.8.1. `GEGL 동작` 대화상자 → `취소` 버튼 (Windows) (우리말)](./90-04-121-gegl_operation.md#90-04-121-a111-08-01)
+#### [영상 90.4.121.a111.8.1. `GEGL 동작` 대화상자 → `취소` 버튼 (Windows) (우리말)](./90-04-0121-gegl_operation.md#90-04-121-a111-08-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1dfcc0d4-b207-42d6-a184-d633e14773cb"></video>
 
 ***

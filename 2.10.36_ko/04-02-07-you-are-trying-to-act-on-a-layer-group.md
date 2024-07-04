@@ -2,7 +2,7 @@
 
 <a id="90-04-03-02-a41"></a>
 
-#### [그림 90.4.3.2.a41. 레이어 그룹 선택](./90-04-03-02-layer_group.md#90-04-03-02-a41)
+#### [그림 90.4.3.2.a41. 레이어 그룹 선택](./90-04-0003-002-layer_group.md#90-04-03-02-a41)
 ![90-04-03-02-a41](https://github.com/wonder13662/gimp/assets/15767104/69c1509d-c8a3-4680-8987-4298afc51f90)
 
 레이어 대화상자 안에서 레이어 그룹이 선택된 모습
@@ -12,7 +12,7 @@
 
 <a id="90-04-03-02-a51"></a>
 
-#### [영상 90.4.3.2.a51. 레이어 그룹에 직접 작업시, 에러 메시지 노출](./90-04-03-02-layer_group.md#90-04-03-02-a51)
+#### [영상 90.4.3.2.a51. 레이어 그룹에 직접 작업시, 에러 메시지 노출](./90-04-0003-002-layer_group.md#90-04-03-02-a51)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/99cbfad6-a162-444c-b4e7-2a0c721952b1"></video>
 
 ## 4.2.7.2. 해결방법
@@ -20,7 +20,7 @@
 
 <a id="90-04-03-02-a61"></a>
 
-#### [영상 90.4.3.2.a61. 레이어 그룹 안의 레이어를 선택하여 작업](./90-04-03-02-layer_group.md#90-04-03-02-a61)
+#### [영상 90.4.3.2.a61. 레이어 그룹 안의 레이어를 선택하여 작업](./90-04-0003-002-layer_group.md#90-04-03-02-a61)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/aedf4dd2-d140-46d2-949c-ccf748a77bfd"></video>
 
 ***

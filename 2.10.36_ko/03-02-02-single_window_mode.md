@@ -76,7 +76,7 @@
 
 <a id="90-04-01-a1"></a>
 
-#### [그림 90.4.1.a1. 도구 옵션 대화상자](./90-04-01-00-tool_options.md#90-04-01-a1)
+#### [그림 90.4.1.a1. 도구 옵션 대화상자](./90-04-0001-000-tool_options.md#90-04-01-a1)
 ![90-04-01-a1](https://github.com/wonder13662/gimp/assets/15767104/71b968e1-ade9-44bb-a064-286b9fa9989b)
 
 독립적으로 분리되어 있는 대화상자입니다. 도구상자의 아래에 연결되어 있습니다. 도구를 효과적으로 사용하기 위해 도구의 설정상태를 보면서 작업해야 하기에 항상 필요합니다.
@@ -87,7 +87,7 @@
 
 <a id="90-04-03-a1"></a>
 
-#### [그림 90.4.3.a1. 레이어 대화상자](./90-04-03-00-layers.md#90-04-03-a1)
+#### [그림 90.4.3.a1. 레이어 대화상자](./90-04-0003-000-layers.md#90-04-03-a1)
 ![90-04-03-layers(w1080)](https://github.com/wonder13662/gimp/assets/15767104/a374b8d4-5ea0-4cdd-b22f-127ea060d73b)
 
 여러 개의 레이어를 가진 이미지를 편집할 때 사용됩니다. GIMP를 전문적으로 사용하려면 필수적으로 사용하게 됩니다. 그리고 레이어 대화 상자는 작업중인 이미지를 보는데에도 사용합니다.
@@ -105,17 +105,17 @@
 
 <a id="90-04-a101"></a>
 
-#### [영상 90.4.a101. 탭 추가(Add Tab)](./90-04-00-dialogs.md#90-04-a101)
+#### [영상 90.4.a101. 탭 추가(Add Tab)](./90-04-0000-dialogs.md#90-04-a101)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c2859f79-24af-41ff-8ec6-e859da6c8fb8"></video>
 
 <a id="90-04-a102"></a>
 
-#### [영상 90.4.a102. 탭 닫기(Close Tab)](./90-04-00-dialogs.md#90-04-a102)
+#### [영상 90.4.a102. 탭 닫기(Close Tab)](./90-04-0000-dialogs.md#90-04-a102)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5d38720a-30b5-4466-9719-292c7f66dc5c"></video>
 
 <a id="90-04-a103"></a>
 
-#### [영상 90.4.a103. 탭 떼어내기(Detach Tab)](./90-04-00-dialogs.md#90-04-a103)
+#### [영상 90.4.a103. 탭 떼어내기(Detach Tab)](./90-04-0000-dialogs.md#90-04-a103)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/50310e90-46d0-445f-9801-a676bd5db9e7"></video>
 
 [다음 절(3.2.1. 도구상자)](./03-02-03-the-toolbox.md)에서는 스크린샷에 있는 각 창(Window)의 구성 요소들과 기능에 대해 설명하겠습니다. [3.2.1. 도구상자](./03-02-03-the-toolbox.md)와 [GIMP 이미지의 기본 구조]()를 통해 GIMP를 이용한 기본적인 이미지 편집의 다양한 방법을 배울 수 있습니다.

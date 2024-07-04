@@ -17,10 +17,10 @@
 
 <a id="90-04-89-a101"></a>
 
-#### [그림 90.4.89.a101. `모니터 해상도 측정` 대화상자 (Windows) (우리말)](./90-04-89-calibrate_monitor_resolution.md#90-04-89-a101)
+#### [그림 90.4.89.a101. `모니터 해상도 측정` 대화상자 (Windows) (우리말)](./90-04-0089-calibrate_monitor_resolution.md#90-04-89-a101)
 ![90-04-89-a101](https://github.com/wonder13662/gimp/assets/15767104/aba5816c-b1e9-4926-9095-25fec6f9725d)
 
-[다른 운영체제와 언어의 `모니터 해상도 측정` 대화상자 확인하기](./90-04-89-calibrate_monitor_resolution.md#90-04-89-a102)
+[다른 운영체제와 언어의 `모니터 해상도 측정` 대화상자 확인하기](./90-04-0089-calibrate_monitor_resolution.md#90-04-89-a102)
 
 ***
 

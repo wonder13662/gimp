@@ -6,19 +6,19 @@
 
 <a id="90-04-03-05-a1"></a>
 
-#### [그림 90.4.3.5.a1. 레이어의 숨김 상태](./90-04-03-05-visibility.md#90-04-03-05-a1)
+#### [그림 90.4.3.5.a1. 레이어의 숨김 상태](./90-04-0003-005-visibility.md#90-04-03-05-a1)
 ![90-04-03-05-a1](https://github.com/wonder13662/gimp/assets/15767104/5724d0c0-8444-4d84-a4b8-26dd4f15170c)
 
 <a id="90-04-03-10-a11"></a>
 
-#### [영상 90.4.3.10.a11. 레이어 대화상자의 활성화된 drawable](./90-04-03-10-drawable.md#90-04-03-10-a11)
+#### [영상 90.4.3.10.a11. 레이어 대화상자의 활성화된 drawable](./90-04-0003-010-drawable.md#90-04-03-10-a11)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/36977bde-0050-40be-89a3-77e96b95b007"></video>
 
 영상에서 레이어 대화상자의 레이어를 클릭시, 클릭한 레이어 배경은 더 어두워지고, 레이어의 이름은 볼드체로 두꺼워져 눈에 띄게 됩니다.
 
 <a id="90-04-03-10-a21"></a>
 
-#### [영상 90.4.3.10.a21. 레이어 대화상자의 비활성화된 drawable에 붓으로 그리기 실패](./90-04-03-10-drawable.md#90-04-03-10-a21)
+#### [영상 90.4.3.10.a21. 레이어 대화상자의 비활성화된 drawable에 붓으로 그리기 실패](./90-04-0003-010-drawable.md#90-04-03-10-a21)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3e8176fa-3479-422f-9f5e-83b3ad30fb88"></video>
 
 비활성화된 drawable(눈 아이콘이 꺼진 레이어)를 수정하려고 할 경우에는 GIMP에서 경고창("The active layer is not visible")을 보여줍니다.
@@ -28,14 +28,14 @@
 
 <a id="90-04-03-10-a31"></a>
 
-#### [영상 90.4.3.10.a31. 채널 대화 상자의 활성화된 drawable](./90-04-03-10-drawable.md#90-04-03-10-a31)
+#### [영상 90.4.3.10.a31. 채널 대화 상자의 활성화된 drawable](./90-04-0003-010-drawable.md#90-04-03-10-a31)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/78b9917a-5a00-4337-8a7b-3f6e189f3848"></video>
 
 영상의 레이어 대화상자에는 활성화된 레이어가 없습니다. 그러나 채널 대화상자의 채널은 활성화되어 있습니다. 그러므로 레이어가 활성화되지 않았던 것입니다.
 
 <a id="90-04-03-05-a11"></a>
 
-#### [영상 90.4.3.5.a11. 레이어의 눈 아이콘 토글로 레이어 보이기/숨기기](./90-04-03-05-visibility.md#90-04-03-05-a11)
+#### [영상 90.4.3.5.a11. 레이어의 눈 아이콘 토글로 레이어 보이기/숨기기](./90-04-0003-005-visibility.md#90-04-03-05-a11)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/836a5ca4-2185-4148-9e0e-60e3a50f8480"></video>
 
 영상의 레이어의 눈 아이콘이 체크되지 않았을 때는 붓으로 그리려고 하면 [경고 메시지](./04-02-04-the-active-drawable-is-not-visible.md#90-04-03-10-a21)가 이미지 창 하단에 노출됩니다. 레이어 눈 아이콘을 체크한 뒤에는 붓으로 그리기가 성공합니다.

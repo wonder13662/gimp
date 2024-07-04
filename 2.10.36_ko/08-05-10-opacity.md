@@ -3,7 +3,7 @@
 
 <a id="90-04-03-02-a181"></a>
 
-#### [영상 90.4.3.2.a181. 레이어 그룹의 투명도 조정](./90-04-03-02-layer_group.md#90-04-03-02-a181)
+#### [영상 90.4.3.2.a181. 레이어 그룹의 투명도 조정](./90-04-0003-002-layer_group.md#90-04-03-02-a181)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c8d60f7b-bd91-4b75-94b9-1df9364e79ce"></video>
 
 ***

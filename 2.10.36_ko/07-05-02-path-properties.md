@@ -8,7 +8,7 @@
 
 <a id="90-04-05-a1"></a>
 
-#### [그림 90.4.5.a1. 경로 대화상자](./90-04-05-paths.md#90-04-05-a1)
+#### [그림 90.4.5.a1. 경로 대화상자](./90-04-0005-paths.md#90-04-05-a1)
 <img width="894" height="382" alt="90-04-05-a1" src="https://github.com/wonder13662/gimp/assets/15767104/8909c470-8a8f-4125-a90b-9378be7e36c5" />
 
 <a id="07-05-02-s2"></a>
@@ -18,12 +18,12 @@
 
 <a id="90-04-05-a101"></a>
 
-#### [영상 90.4.5.a101. 경로를 팝업 메뉴로 복사 + 붙여넣기로 다른 이미지로 복사](./90-04-05-paths.md#90-04-05-a101)
+#### [영상 90.4.5.a101. 경로를 팝업 메뉴로 복사 + 붙여넣기로 다른 이미지로 복사](./90-04-0005-paths.md#90-04-05-a101)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7d23392f-30de-4885-a2bb-e8d5753564ab"></video>
 
 <a id="90-04-05-a102"></a>
 
-#### [영상 90.4.5.a102. 경로를 드래그해서 다른 이미지로 복사](./90-04-05-paths.md#90-04-05-a102)
+#### [영상 90.4.5.a102. 경로를 드래그해서 다른 이미지로 복사](./90-04-0005-paths.md#90-04-05-a102)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bb16c014-9cd0-4009-a337-de5a34e6be21"></video>
 
 <a id="07-05-02-s3"></a>
@@ -58,7 +58,7 @@ GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입
 
 <a id="90-04-05-a111"></a>
 
-#### [영상 90.4.5.a111. 글자를 경로로 바꿈](./90-04-05-paths.md#90-04-05-a111)
+#### [영상 90.4.5.a111. 글자를 경로로 바꿈](./90-04-0005-paths.md#90-04-05-a111)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a990f9d9-6d50-48c3-87de-124661170a9e"></video>
 
 <a id="07-05-02-s7"></a>
@@ -73,7 +73,7 @@ GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입
 
 <a id="90-04-05-a112"></a>
 
-#### [그림 90.4.5.a112. 컴포넌트의 상태: 닫힘(closed)과 열림(open)](./90-04-05-paths.md#90-04-05-a112)
+#### [그림 90.4.5.a112. 컴포넌트의 상태: 닫힘(closed)과 열림(open)](./90-04-0005-paths.md#90-04-05-a112)
 ![90-04-05-a112](https://github.com/wonder13662/gimp/assets/15767104/960de051-aec1-4fce-9e82-bfe556923e82)
 
 <a id="07-05-02-s8-01"></a>
@@ -88,7 +88,7 @@ GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입
 
 <a id="90-04-05-a113"></a>
 
-#### [영상 90.4.5.a113. 경로를 선택으로 바꾸는 과정](./90-04-05-paths.md#90-04-05-a113)
+#### [영상 90.4.5.a113. 경로를 선택으로 바꾸는 과정](./90-04-0005-paths.md#90-04-05-a113)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e6b16e2a-f5f4-4f6d-8506-ecad9c2ba385"></video>
 
 <a id="07-05-02-s9"></a>
@@ -102,7 +102,7 @@ GIMP(김프)의 경로는 [베지에 곡선](./19-glossaryx-bezier-curves.md)입
 
 <a id="90-04-05-a114"></a>
 
-#### [영상 90.4.5.a114. 경로 선분을 직선에서 곡선으로 바꾸기](./90-04-05-paths.md#90-04-05-a114)
+#### [영상 90.4.5.a114. 경로 선분을 직선에서 곡선으로 바꾸기](./90-04-0005-paths.md#90-04-05-a114)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/20584d2f-1e2a-4381-945a-d29434dfdbe5"></video>
 
 <a id="07-05-02-s10"></a>

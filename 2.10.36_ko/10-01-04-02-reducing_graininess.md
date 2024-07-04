@@ -13,14 +13,14 @@
 
 <a id="90-04-80-a101"></a>
 
-#### [그림 90.4.80.a101. `일부 가우시안 흐림처리` 대화상자 (Windows) (우리말)](./90-04-80-selective_gaussian_blur.md#90-04-80-a101)
+#### [그림 90.4.80.a101. `일부 가우시안 흐림처리` 대화상자 (Windows) (우리말)](./90-04-0080-selective_gaussian_blur.md#90-04-80-a101)
 ![90-04-80-a101](https://github.com/wonder13662/gimp/assets/15767104/c8f24a85-5d48-4f78-898c-027973bc3c30)
 
-[다른 운영체제와 언어의 `일부 가우시안 흐림처리` 대화상자 확인하기](./90-04-80-selective_gaussian_blur.md#90-04-80-a102)
+[다른 운영체제와 언어의 `일부 가우시안 흐림처리` 대화상자 확인하기](./90-04-0080-selective_gaussian_blur.md#90-04-80-a102)
 
 <a id="90-04-80-a105"></a>
 
-#### [영상 90.4.80.a105. `일부 가우시안 흐림처리` 대화상자 (Windows) (우리말)](./90-04-80-selective_gaussian_blur.md#90-04-80-a105)
+#### [영상 90.4.80.a105. `일부 가우시안 흐림처리` 대화상자 (Windows) (우리말)](./90-04-0080-selective_gaussian_blur.md#90-04-80-a105)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a1015b6e-565e-4e69-ad4a-1e461a34776c"></video>
 
 ## 2. 잡티 없애기 필터(Despeckle filter)
@@ -35,14 +35,14 @@
 
 <a id="90-04-81-a101"></a>
 
-#### [그림 90.4.81.a101. `잡티 없애기` 대화상자 (Windows) (우리말)](./90-04-81-despeckle.md#90-04-81-a101)
+#### [그림 90.4.81.a101. `잡티 없애기` 대화상자 (Windows) (우리말)](./90-04-0081-despeckle.md#90-04-81-a101)
 ![90-04-81-a101](https://github.com/wonder13662/gimp/assets/15767104/18fe823c-197d-4c19-b900-bac592aad42d)
 
-[다른 운영체제와 언어의 `잡티 없애기` 대화상자 확인하기](./90-04-81-despeckle.md#90-04-81-a102)
+[다른 운영체제와 언어의 `잡티 없애기` 대화상자 확인하기](./90-04-0081-despeckle.md#90-04-81-a102)
 
 <a id="90-04-81-a105"></a>
 
-#### [영상 90.4.81.a105. `잡티 없애기` 대화상자 - 거친 입자 부드럽게 하기 (Windows) (우리말)](./90-04-81-despeckle.md#90-04-81-a105)
+#### [영상 90.4.81.a105. `잡티 없애기` 대화상자 - 거친 입자 부드럽게 하기 (Windows) (우리말)](./90-04-0081-despeckle.md#90-04-81-a105)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9ca58211-df8e-476b-8930-bfc0d781027d"></video>
 
 이미지의 거친 입자가 너무 나쁘다면, 수정하기 불가능할 수도 있습니다. 예외적으로 칠하기 도구 등으로 리터칭을 하는 방법을 사용할 수도 있습니다.
