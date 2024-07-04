@@ -18,7 +18,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.3.4.13. 선택에서 교차하기(Intersect with Selection)](./15-02-03-04-13-intersect_with_selection.md)
+[➡️ 다음: 15.2.3.4.13. 선택 영역 겹치기(Intersect with Selection)](./15-02-03-04-13-intersect_with_selection.md)
 
 [⬅️ 이전: 15.2.3.4.11. 선택에 추가(Add to Selection)](./15-02-03-04-11-add_to_selection.md)
 

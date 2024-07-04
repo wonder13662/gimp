@@ -174,7 +174,7 @@
 
 [15.2.3.4.12. 선택에서 빼기(Subtract from Selection)](./15-02-03-04-12-subtract_from_selection.md)
 
-[15.2.3.4.13. 선택에서 교차하기(Intersect with Selection)](./15-02-03-04-13-intersect_with_selection.md)
+[15.2.3.4.13. 선택 영역 겹치기(Intersect with Selection)](./15-02-03-04-13-intersect_with_selection.md)
 
 [15.2.3.4.14. 선택을 경로로(Selection to Path)](./15-02-03-04-14-selection_to_path.md)
 
