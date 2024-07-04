@@ -69,7 +69,7 @@
 ## [16.4.16. Rounded rectangle](./16-04-16-rounded-rectangle.md)
 ## [16.4.17. Toggle quickmask](./16-04-17-toggle-quickmask.md)
 ## [16.4.18. Save to channel](./16-04-18-save-to-channel.md)
-## [16.4.19. To path](./16-04-19-to-path.md)
+## [16.4.19. 선택을 경로로 바꾸기(To path)](./16-04-19-to-path.md)
 ## [16.5. The view menu](./16-05-00-the-view-menu.md)
 ## [16.5.1. Introduction to the "View" menu](./16-05-01-introduction-to-the-view-menu.md)
 ## [16.5.2. New view](./16-05-02-new-view.md)

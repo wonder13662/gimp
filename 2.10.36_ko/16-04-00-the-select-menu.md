@@ -18,6 +18,6 @@
 ## [16.4.16. Rounded rectangle](./16-04-16-rounded-rectangle.md)
 ## [16.4.17. Toggle quickmask](./16-04-17-toggle-quickmask.md)
 ## [16.4.18. Save to channel](./16-04-18-save-to-channel.md)
-## [16.4.19. To path](./16-04-19-to-path.md)
+## [16.4.19. 선택을 경로로 바꾸기(To path)](./16-04-19-to-path.md)
 
 ### [Home](./00-home.md)

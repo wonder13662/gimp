@@ -178,7 +178,7 @@
 
 [15.2.3.4.13. 선택 영역 겹치기(Intersect with Selection)](./15-02-03-04-13-intersect_with_selection.md)
 
-[15.2.3.4.14. 선택을 경로로(Selection to Path)](./15-02-03-04-14-selection_to_path.md)
+[15.2.3.4.14. 선택 영역을 경로로(Selection to Path)](./15-02-03-04-14-selection_to_path.md)
 
 [15.2.3.4.15. 경로 채우기(Fill Path)](./15-02-03-04-15-fill_path.md)
 

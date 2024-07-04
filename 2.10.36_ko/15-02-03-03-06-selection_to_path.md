@@ -30,6 +30,14 @@ Shift(⇧) 키를 누른 채로 `선택을 경로로 바꾸기(Selection to Path
 
 ***
 
+## 관련 정보
+
+[15.2.3.4.14. 선택 영역을 경로로(Selection to Path)](./15-02-03-04-14-selection_to_path.md)
+
+[16.4.19. 선택을 경로로 바꾸기(To path)](./16-04-19-to-path.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 15.2.3.3.7. 경로따라 칠하기(Paint along the Path)](./15-02-03-03-07-paint_along_the_path.md)

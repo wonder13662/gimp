@@ -1540,7 +1540,7 @@ module.exports = {
       ],
       [
         '16-04-19-to-path.md', 
-        '16.4.19. To path'
+        '16.4.19. 선택을 경로로 바꾸기(To path)'
       ],
       [
         '16-05-00-the-view-menu.md', 
