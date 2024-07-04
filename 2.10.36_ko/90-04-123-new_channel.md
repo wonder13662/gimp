@@ -41,9 +41,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.124. 새 경로(New Channel)](./90-04-124-new_path.md)
 
-[⬅️ 이전: 90.4.121. GEGL 동작](./90-04-121-gegl_operation.md)
+[⬅️ 이전: 90.4.122. 채널 속성(Channel Attributes)](./90-04-122-channel_attributes.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-00-dialogs.md)
 
