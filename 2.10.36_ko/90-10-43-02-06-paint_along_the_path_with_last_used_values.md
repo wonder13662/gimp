@@ -6,7 +6,7 @@
 
 [➡️ 다음: 90.90. 개념(Concept)](./90-90-00-concept.md)
 
-[⬅️ 이전: 90.10.43.2.5. Shift(⇧): 고급 옵션 대화상자 열기](./90-10-43-02-05-selection_to_path_advanced_option.md)
+[⬅️ 이전: 90.10.43.2.5. Shift(⇧): 선택을 경로로 바꿀 때의 고급 옵션 대화상자 열기](./90-10-43-02-05-selection_to_path_advanced_option.md)
 
 [⬆️ 위: 90.10.43.2. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-43-02-00-key_modifier-shift.md)
 

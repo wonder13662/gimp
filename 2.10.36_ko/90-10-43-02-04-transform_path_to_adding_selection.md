@@ -4,7 +4,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.10.43.2.5. Shift(⇧): 고급 옵션 대화상자 열기](./90-10-43-02-05-selection_to_path_advanced_option.md)
+[➡️ 다음: 90.10.43.2.5. Shift(⇧): 선택을 경로로 바꿀 때의 고급 옵션 대화상자 열기](./90-10-43-02-05-selection_to_path_advanced_option.md)
 
 [⬅️ 이전: 90.10.43.2.3. Shift(⇧): 활성화된 `경로`를 목록 가장 아래로 이동](./90-10-43-02-03-lower_path_to_the_top.md)
 

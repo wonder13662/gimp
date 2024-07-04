@@ -1,4 +1,11 @@
-# 90.10.43.2.5. Shift(⇧): 고급 옵션 대화상자 열기
+# 90.10.43.2.5. Shift(⇧): 선택을 경로로 바꿀 때의 고급 옵션 대화상자 열기
+
+<a id="90-10-43-02-05-a1"></a>
+
+#### 영상 90.10.43.2.5.a1. Shift(⇧): 선택을 경로로 바꿀 때의 고급 옵션 대화상자 열기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ee57fb7f-67f4-4ca9-a2a2-38d17b267b4a"></video>
+
+[15.2.3.3.6. 선택을 경로로 바꾸기(Selection to Path) - 영상 90.10.43.2.5.a1](./15-02-03-03-06-selection_to_path.md#90-10-43-02-05-a1)
 
 ***
 

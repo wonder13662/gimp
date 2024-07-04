@@ -25,7 +25,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.13. 대칭 그리기(Symmetry Painting)](./90-04-13-symmetry_painting.md)
+[➡️ 다음: 90.4.126. 선택을 경로로 바꾸기 고급 설정(New Channel)](./90-04-126-selection_to_path_advanced_settings.md)
 
 [⬅️ 이전: 90.4.124. 새 경로(New Channel)](./90-04-124-new_path.md)
 
