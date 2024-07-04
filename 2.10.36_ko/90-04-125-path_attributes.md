@@ -1,10 +1,12 @@
-# 90.4.125. 경로 속성(New Channel)
+# 90.4.125. 경로 속성(Path Attributes)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 
 <a id="90-04-125-a101"></a>
 
 #### 그림 90.4.125.a101. `경로 속성` 대화상자 (Windows) (우리말)
 <img width="506" height="262" alt="90-04-125-a101" src="https://github.com/wonder13662/gimp/assets/15767104/1c608481-58b3-4f59-af14-1b2494fbe996" />
+
+[15.2.3.4.2. 경로 속성 수정하기(Edit Path Attributes) - 그림 90.4.125.a101](./15-02-03-04-02-edit_path_attributes.md#90-04-125-a101)
 
 <a id="90-04-125-a102"></a>
 

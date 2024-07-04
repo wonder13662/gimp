@@ -573,6 +573,18 @@
 #### 그림 90.4.122.a101. `채널 속성` 대화상자 (Windows) (우리말)
 <img width="560" height="264" alt="90-04-122-a101" src="https://github.com/wonder13662/gimp/assets/15767104/79f279c7-14b9-449a-ace1-0aba0fc53c64" />
 
+### [90.4.123. 새 채널(New Channel)](./90-04-123-new_channel.md)
+#### 그림 90.4.124.a101. `새 경로` 대화상자 (Windows) (우리말)
+<img width="506" height="266" alt="90-04-124-a101" src="https://github.com/wonder13662/gimp/assets/15767104/8c2c968b-de3c-4477-9703-75460e0f9fb8" />
+
+### [90.4.124. 새 경로(New Path)](./90-04-124-new_path.md)
+#### 그림 90.4.124.a101. `새 경로` 대화상자 (Windows) (우리말)
+<img width="506" height="266" alt="90-04-124-a101" src="https://github.com/wonder13662/gimp/assets/15767104/8c2c968b-de3c-4477-9703-75460e0f9fb8" />
+
+### [90.4.125. 경로 속성(Path Attributes)](./90-04-125-path_attributes.md)
+#### 그림 90.4.125.a101. `경로 속성` 대화상자 (Windows) (우리말)
+<img width="506" height="262" alt="90-04-125-a101" src="https://github.com/wonder13662/gimp/assets/15767104/1c608481-58b3-4f59-af14-1b2494fbe996" />
+
 ***
 
 ## 공통 기능
