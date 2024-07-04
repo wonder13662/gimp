@@ -1,5 +1,12 @@
 # 90.10.43.2.3. Shift(⇧): 활성화된 `경로`를 목록 가장 아래로 이동
 
+<a id="90-10-43-02-03-a1"></a>
+
+#### 영상 90.10.43.2.3.a1. Shift(⇧): 활성화된 `경로`를 목록 가장 아래로 이동 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/579ca88c-b474-4904-babf-a6146ba157d0"></video>
+
+[15.2.3.3.3. 경로 내리기(Lower Path) - 영상 90.10.43.2.3.a1](./15-02-03-03-03-lower_path.md#90-10-43-02-03-a1)
+
 ***
 
 ## 다른 페이지로 가기
