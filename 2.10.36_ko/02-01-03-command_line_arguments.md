@@ -109,7 +109,7 @@ GTK+ 옵션을 보여줍니다.
 <a id="02-01-03-s10"></a>
 
 ## 10. `-d`, `-no-data`
-무늬(pattern), 그라디언트(gradient), 색상표(palette), 붓(brush) 등을 읽어 들이지 않습니다. 비대화식 환경에서 시작 시간을 최소화할 때 유용합니다.
+[무늬(pattern)](./19-glossaryx-pattern.md), 그라디언트(gradient), 색상표(palette), 붓(brush) 등을 읽어 들이지 않습니다. 비대화식 환경에서 시작 시간을 최소화할 때 유용합니다.
 
 <a id="02-01-03-a12"></a>
 

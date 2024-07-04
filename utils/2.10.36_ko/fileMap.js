@@ -1425,8 +1425,8 @@ module.exports = {
         '16.3.18. Fill selection outline'
       ],
       [
-        '16-03-19-fill-path.md', 
-        '16.3.19. Fill path'
+        '16-03-19-fill_path.md', 
+        '16.3.19. 경로 채우기(Fill path)'
       ],
       [
         '16-03-20-stroke-selection.md', 
