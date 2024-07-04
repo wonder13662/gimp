@@ -37,6 +37,17 @@
 #### [영상 90.10.35.1.1.a1. `도구상자` → `경로`: 키보드 단축키 `B` (Windows) (우리말)](./90-10-35-01-01-b.md#90-10-35-01-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8434cfe3-b8c1-428c-b563-7f20dc7e6d38"></video>
 
+<a id="14-05-02-01-s4"></a>
+
+## 4. `경로 대화상자` → `컨텍스트 메뉴` → `경로 수정하기`
+
+[관련 정보: 15.2.3.4.1. 경로 수정하기(Edit Path)](./15-02-03-04-01-edit_path.md)
+
+<a id="90-04-05-a141-08-01-01-03-01-01"></a>
+
+#### [영상 90.4.5.a141.8.1.1.3.1.1. `경로 대화상자` → `컨텍스트 메뉴` → `경로 수정하기` (windows) (우리말)](./90-04-05-paths.md#90-04-05-a141-08-01-01-03-01-01)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/23620b10-1c5b-4a3f-95ab-3723ec82f76a"></video>
+
 ***
 
 ## 다른 페이지로 가기
