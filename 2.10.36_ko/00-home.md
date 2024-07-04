@@ -1786,7 +1786,7 @@
 
 [15.2.3.4.10. 경로를 선택으로(Path to Selection)](./15-02-03-04-10-path_to_selection.md)
 
-[15.2.3.4.11. 선택에 더하기(Add to Selection)](./15-02-03-04-11-add_to_selection.md)
+[15.2.3.4.11. 선택에 추가(Add to Selection)](./15-02-03-04-11-add_to_selection.md)
 
 [15.2.3.4.12. 선택에서 빼기(Subtract from Selection)](./15-02-03-04-12-subtract_from_selection.md)
 

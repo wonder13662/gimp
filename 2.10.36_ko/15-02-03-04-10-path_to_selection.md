@@ -18,7 +18,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.3.4.11. 선택에 더하기(Add to Selection)](./15-02-03-04-11-add_to_selection.md)
+[➡️ 다음: 15.2.3.4.11. 선택에 추가(Add to Selection)](./15-02-03-04-11-add_to_selection.md)
 
 [⬅️ 이전: 15.2.3.4.9. 보이는 경로 합치기(Merge Visible Paths)](./15-02-03-04-09-merge_visible_paths.md)
 

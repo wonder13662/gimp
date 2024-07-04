@@ -6,7 +6,7 @@
 
 [➡️ 다음: 15.2.3.4.13. 선택에서 교차하기(Intersect with Selection)](./15-02-03-04-13-intersect_with_selection.md)
 
-[⬅️ 이전: 15.2.3.4.11. 선택에 더하기(Add to Selection)](./15-02-03-04-11-add_to_selection.md)
+[⬅️ 이전: 15.2.3.4.11. 선택에 추가(Add to Selection)](./15-02-03-04-11-add_to_selection.md)
 
 [⬆️ 위: 15.2.3.4. 경로 컨텍스트 메뉴(Paths Context Menu)](./15-02-03-04-00-paths_context_menu.md)
 
