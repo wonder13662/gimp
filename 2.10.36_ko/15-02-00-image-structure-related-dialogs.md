@@ -162,7 +162,7 @@
 
 [15.2.3.4.6. 경로 내리기(Lower Path)](./15-02-03-04-06-lower_path.md)
 
-[15.2.3.4.7. 경로 복사하기(Duplicate Path)](./15-02-03-04-07-duplicate_path.md)
+[15.2.3.4.7. 경로 복제(Duplicate Path)](./15-02-03-04-07-duplicate_path.md)
 
 [15.2.3.4.8. 경로 삭제하기(Delete Path)](./15-02-03-04-08-delete_path.md)
 
