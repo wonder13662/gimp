@@ -164,7 +164,7 @@
 
 [15.2.3.4.7. 경로 복제(Duplicate Path)](./15-02-03-04-07-duplicate_path.md)
 
-[15.2.3.4.8. 경로 삭제하기(Delete Path)](./15-02-03-04-08-delete_path.md)
+[15.2.3.4.8. 경로 삭제(Delete Path)](./15-02-03-04-08-delete_path.md)
 
 [15.2.3.4.9. 보이는 경로 합치기(Merge Visible Paths)](./15-02-03-04-09-merge_visible_paths.md)
 
