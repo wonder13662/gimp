@@ -40,7 +40,7 @@ Shift(⇧) 키를 누른 채로 `선택을 경로로 바꾸기(Selection to Path
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.3.3.7. 경로따라 칠하기(Paint along the Path)](./15-02-03-03-07-paint_along_the_path.md)
+[➡️ 다음: 15.2.3.3.7. 경로 따라 칠하기(Paint along the Path)](./15-02-03-03-07-paint_along_the_path.md)
 
 [⬅️ 이전: 15.2.3.3.5. 경로를 선택으로(Path to Selection)](./15-02-03-03-05-path_to_selection.md)
 

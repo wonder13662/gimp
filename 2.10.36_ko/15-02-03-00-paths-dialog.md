@@ -51,7 +51,7 @@
 
 [15.2.3.3.6. 선택을 경로로(Selection to Path)](./15-02-03-03-06-selection_to_path.md)
 
-[15.2.3.3.7. 경로따라 칠하기(Paint along the Path)](./15-02-03-03-07-paint_along_the_path.md)
+[15.2.3.3.7. 경로 따라 칠하기(Paint along the Path)](./15-02-03-03-07-paint_along_the_path.md)
 
 [15.2.3.3.8. 경로 삭제하기(Delete Path)](./15-02-03-03-08-delete_path.md)
 

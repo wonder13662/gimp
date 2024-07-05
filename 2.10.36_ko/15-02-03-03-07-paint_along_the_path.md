@@ -1,4 +1,4 @@
-# 15.2.3.3.7. 경로따라 칠하기(Paint along the Path)
+# 15.2.3.3.7. 경로 따라 칠하기(Paint along the Path)
 
 <a id="90-04-05-a141-07-07"></a>
 
