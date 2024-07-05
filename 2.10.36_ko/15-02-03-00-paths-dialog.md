@@ -21,7 +21,7 @@
 
 ## 하위 페이지
 
-[15.2.2.1. 대화상자 활성화하기(Activate the dialog)](./15-02-03-01-activate_the_dialog.md)
+[15.2.3.1. 대화상자 활성화하기(Activate the dialog)](./15-02-03-01-activate_the_dialog.md)
 
 [15.2.3.2. 경로 대화상자 사용하기(Using the Paths Dialog)](./15-02-03-02-00-using_the_paths_dialog.md)
 
