@@ -190,7 +190,7 @@
 
 [15.2.3.4.19. 경로 내보내기(Export Path)](./15-02-03-04-19-export_path.md)
 
-[15.2.3.4.20. 경로 불러들이기(Import Path)](./15-02-03-04-20-import_path.md)
+[15.2.3.4.20. 경로 가져오기(Import Path)](./15-02-03-04-20-import_path.md)
 
 [15.2.4. 색상표 대화상자(Colormap dialog)](./15-02-04-colormap-dialog.md)
 
