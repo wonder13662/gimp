@@ -22,7 +22,7 @@
 
 [90.10.43.2.5. Shift(⇧): 선택을 경로로 바꿀 때의 고급 옵션 대화상자 열기](./90-10-43-02-05-selection_to_path_advanced_option.md)
 
-[90.10.43.2.6. Shift(⇧): 마지막 설정값으로 경로따라 그리기](./90-10-43-02-06-paint_along_the_path_with_last_used_values.md)
+[90.10.43.2.6. Shift(⇧): 마지막 설정값으로 경로 따라 그리기](./90-10-43-02-06-paint_along_the_path_with_last_used_values.md)
 
 ***
 

@@ -256,7 +256,7 @@
 
 [7.5.4. 경로 변형하기](./07-05-04-transforming-paths.md)
 
-[7.5.5. 경로따라 그리기](./07-05-05-stroking-a-path.md)
+[7.5.5. 경로 따라 그리기](./07-05-05-stroking-a-path.md)
 
 [7.5.6. 경로와 텍스트](./07-05-06-paths-and-text.md)
 
@@ -1510,7 +1510,7 @@
 
 [14.5.2.3.6. 경로 채우기(Fill path)](./14-05-02-03-06-fill_path.md)
 
-[14.5.2.3.7. 경로따라 그리기(Stroke Path)](./14-05-02-03-07-stroke_path.md)
+[14.5.2.3.7. 경로 따라 그리기(Stroke Path)](./14-05-02-03-07-stroke_path.md)
 
 [14.5.3. 색상 추출(Color picker)](./14-05-03-00-color-picker.md)
 

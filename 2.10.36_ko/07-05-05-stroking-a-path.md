@@ -58,11 +58,11 @@
 
 [15.2.3.4.16. 경로 따라 그리기(Stroke Path)](./15-02-03-04-16-stroke_path.md)
 
-[14.5.2.3.7. 경로따라 그리기(Stroke Path)](./14-05-02-03-07-stroke_path.md)
+[14.5.2.3.7. 경로 따라 그리기(Stroke Path)](./14-05-02-03-07-stroke_path.md)
 
 [15.2.3.3.7. 경로 따라 칠하기(Paint along the Path)](./15-02-03-03-07-paint_along_the_path.md)
 
-[16.3.21. 경로따라 그리기(Stroke Path)](./16-03-21-stroke-path.md)
+[16.3.21. 경로 따라 그리기(Stroke Path)](./16-03-21-stroke-path.md)
 
 [16.3.20. 선택 영역 따라 그리기(Stroke selection)](./16-03-20-stroke-selection.md)
 

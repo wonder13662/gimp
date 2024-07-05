@@ -417,7 +417,7 @@ module.exports = {
       [
         '07-05-05-stroking-a-path.md', 
         '7.5.5. Stroking a path',
-        '7.5.5. 경로따라 그리기'
+        '7.5.5. 경로 따라 그리기'
       ],
       [
         '07-05-06-paths-and-text.md', 
@@ -1434,7 +1434,7 @@ module.exports = {
       ],
       [
         '16-03-21-stroke-path.md', 
-        '16.3.21. 경로따라 그리기(Stroke Path)'
+        '16.3.21. 경로 따라 그리기(Stroke Path)'
       ],
       [
         '16-03-22-preference.md', 

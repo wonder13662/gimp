@@ -13,7 +13,7 @@ Shift(⇧) 키를 누른 채로 `경로따라 칠하기(Paint along the Path)` �
 
 <a id="90-10-43-02-06-a1"></a>
 
-#### [영상 90.10.43.2.6.a1. Shift(⇧): 마지막 설정값으로 경로따라 그리기 (Windows) (우리말)](./90-10-43-02-06-paint_along_the_path_with_last_used_values.md#90-10-43-02-06-a1)
+#### [영상 90.10.43.2.6.a1. Shift(⇧): 마지막 설정값으로 경로 따라 그리기 (Windows) (우리말)](./90-10-43-02-06-paint_along_the_path_with_last_used_values.md#90-10-43-02-06-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5cee7f70-f306-4624-a3bc-15a7b78370f7"></video>
 
 ***
@@ -22,13 +22,13 @@ Shift(⇧) 키를 누른 채로 `경로따라 칠하기(Paint along the Path)` �
 
 [7.5.5. 경로 따라 그리기](./07-05-05-stroking-a-path.md)
 
-[14.5.2.3.7. 경로따라 그리기(Stroke Path)](./14-05-02-03-07-stroke_path.md)
+[14.5.2.3.7. 경로 따라 그리기(Stroke Path)](./14-05-02-03-07-stroke_path.md)
 
 [15.2.3.4.16. 경로 따라 그리기(Stroke Path)](./15-02-03-04-16-stroke_path.md)
 
 [16.3.20. 선택 영역 따라 그리기(Stroke selection)](./16-03-20-stroke-selection.md)
 
-[16.3.21. 경로따라 그리기(Stroke Path)](./16-03-21-stroke-path.md)
+[16.3.21. 경로 따라 그리기(Stroke Path)](./16-03-21-stroke-path.md)
 
 ***
 

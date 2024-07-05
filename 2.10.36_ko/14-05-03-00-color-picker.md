@@ -35,7 +35,7 @@
 
 [➡️ 다음: 14.5.3.1. 도구 활성화하기(Activating the tools)](./14-05-03-01-activating_the_tool.md)
 
-[⬅️ 이전: 14.5.2.3.7. 경로따라 그리기(Stroke Path)](./14-05-02-03-07-stroke_path.md)
+[⬅️ 이전: 14.5.2.3.7. 경로 따라 그리기(Stroke Path)](./14-05-02-03-07-stroke_path.md)
 
 [⬆️ 위: 14.5. 그 밖의 도구들(Other)](./14-05-00-other.md)
 

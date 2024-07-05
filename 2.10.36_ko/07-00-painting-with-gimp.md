@@ -38,7 +38,7 @@
 
 [7.5.4. 경로 변형하기](./07-05-04-transforming-paths.md)
 
-[7.5.5. 경로따라 그리기](./07-05-05-stroking-a-path.md)
+[7.5.5. 경로 따라 그리기](./07-05-05-stroking-a-path.md)
 
 [7.5.6. 경로와 텍스트](./07-05-06-paths-and-text.md)
 
