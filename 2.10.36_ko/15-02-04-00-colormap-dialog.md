@@ -1,5 +1,25 @@
 # 15.2.4. 색상표 대화상자(Colormap dialog)
 
+<a id="90-04-06-a1"></a>
+
+#### [그림 90.4.6.a1. 색상표 대화상자](./90-04-0006-colormap.md#90-04-06-a1)
+![90-04-06-a1](https://github.com/wonder13662/gimp/assets/15767104/e6fff5e0-f875-48d7-9d55-71a8c40ab677)
+
+`색상표 대화상자(Colormap dialog)`에서 [인덱스 이미지](./19-glossaryx-color_mode_indexed.md)의 색상표를 수정할 수 있습니다.
+
+그러므로 색상표 대화상자라는 이름보다는 "인덱스 팔레트"라는 표현이 더 적합한 이름입니다.
+
+색상 모드가 [RGB](./19-glossaryx-color_mode_rgb.md) 또는 [그레이스케일](./19-glossaryx-color_mode_grayscale.md)인 경우에는 `색상표 대화상자(Colormap dialog)`가 비어있으며 사용할 수 없는 상태입니다.
+
+<a id="90-04-06-a2"></a>
+
+#### [그림 90.4.6.a2. 색상표 대화상자 - 인덱스 이미지가 아닌 경우](./90-04-0006-colormap.md#90-04-06-a2)
+![90-04-06-a2](https://github.com/wonder13662/gimp/assets/15767104/01d022d2-7073-4ce2-a275-2e0f3f3c9c5b)
+
+이 대화상자는 도킹이 가능한 대화상자입니다.
+
+도킹이 가능한 대화상자에 대한 더 자세한 내용은 [3.2.5. 대화상자(Dialog)와 도킹(docking)](./03-02-05-00-dialogs-and-docking.md)을 확인해주세요.
+
 ***
 
 ## 하위 페이지
