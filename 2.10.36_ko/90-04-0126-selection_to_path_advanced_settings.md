@@ -26,9 +26,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.127. 경로를 SVG로 내보내기(Export Path to SVG)](./90-04-0127-export_path_to_svg.md)
 
-[⬅️ 이전: 90.4.125. 경로 속성(New Channel)](./90-04-0125-path_attributes.md)
+[⬅️ 이전: 90.4.125. 경로 속성(Path Attributes)](./90-04-0125-path_attributes.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-0000-dialogs.md)
 

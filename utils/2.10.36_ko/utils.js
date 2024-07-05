@@ -258,6 +258,7 @@ module.exports = {
   getParentPageNumberChains: (fileName) => {
     const tokens = fileName.split('-')
     const parents = []
+    const suffixList = []
 
     const lastIdx = tokens.length - 1
     for (let j = 0; j <= lastIdx; j++) {
@@ -286,8 +287,15 @@ module.exports = {
         // 3-2. 이전에 등록된 토큰이 있다면 이전 토큰과 현재 토큰을 조합하여 추가합니다.
         parents.push(`${parents[parents.length - 1]}-${token}`)
       }
+
+      // 4. 페이지 이름 안의 숫자의 자리수가 다르므로, 이를 검사해 접미사 배열로 만들어줍니다.
+      // 
+      // target: 90-04-0127-export_path_to_svg.md
+      // parent: ['90-00', '90-04-0000']
+      const nextToken = tokens[j + 1]
+      suffixList.push(new Array(nextToken.length + 1).join('0'))
     }
 
-    return parents.map((v) => `${v}-00`)
+    return parents.map((v, idx) => `${v}-${suffixList[idx]}`)
   },
 }
