@@ -33,7 +33,7 @@
 
 [➡️ 다음: 15.2.3.3.6. 선택을 경로로(Selection to Path)](./15-02-03-03-06-selection_to_path.md)
 
-[⬅️ 이전: 15.2.3.3.4. 경로 복사하기(Duplicate Path)](./15-02-03-03-04-duplicate_path.md)
+[⬅️ 이전: 15.2.3.3.4. 경로 복제(Duplicate Path)](./15-02-03-03-04-duplicate_path.md)
 
 [⬆️ 위: 15.2.3.3. 버튼들(Buttons)](./15-02-03-03-00-buttons.md)
 
