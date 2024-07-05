@@ -1123,7 +1123,7 @@ module.exports = {
         '15.2.3. 경로 대화상자'
       ],
       [
-        '15-02-04-colormap-dialog.md',
+        '15-02-04-00-colormap-dialog.md',
         '15.2.4. 색상표 대화상자(Colormap dialog)',
         '15.2.4. 색상표(Colormap) 대화상자',
       ],

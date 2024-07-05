@@ -1,0 +1,21 @@
+# 15.2.4.3.8. 특정 색상의 모든 픽셀 선택하기(Select All Pixels with this Color)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.2.4.4. 색상표 컨텍스트 메뉴(The Colormap Context Menu)](./15-02-04-04-00-the_colormap_context_menu.md)
+
+[⬅️ 이전: 15.2.4.3.7. 색상 추가하기(Add Color)](./15-02-04-03-07-add_color.md)
+
+[⬆️ 위: 15.2.4.3. 색상표 대화상자 사용하기(Using the Colormap dialog)](./15-02-04-03-00-using_the_colormap_dialog.md)
+
+[⬆️ 위: 15.2.4. 색상표 대화상자(Colormap dialog)](./15-02-04-00-colormap-dialog.md)
+
+[⬆️ 위: 15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-indexed-palette-dialog.html#gimp-indexed-palette-dialog-using)

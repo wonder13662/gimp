@@ -143,4 +143,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('90-04-0126-selection_to_path_advanced_settings.md');
+doAsyncJob('15-02-04-00-colormap-dialog.md');

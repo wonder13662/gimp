@@ -190,7 +190,7 @@
 
 [15.2.3.4.20. 경로 가져오기(Import Path)](./15-02-03-04-20-import_path.md)
 
-[15.2.4. 색상표 대화상자(Colormap dialog)](./15-02-04-colormap-dialog.md)
+[15.2.4. 색상표 대화상자(Colormap dialog)](./15-02-04-00-colormap-dialog.md)
 
 [15.2.5. 히스토그램 대화상자(Histogram dialog)](./15-02-05-histogram-dialog.md)
 
