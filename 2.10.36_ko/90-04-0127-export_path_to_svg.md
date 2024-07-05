@@ -5,6 +5,8 @@
 #### 그림 90.4.127.a101. `경로를 SVG로 내보내기` 대화상자 (Windows) (우리말)
 <img width="451" height="446" alt="90-04-127-a101" src="https://github.com/wonder13662/gimp/assets/15767104/f90cdc4d-4e3a-46fe-a5e6-26bc5715f672" />
 
+[15.2.3.4.19. 경로 내보내기(Export Path) - 그림 90.4.127.a101](./15-02-03-04-19-export_path.md#90-04-127-a101)
+
 <a id="90-04-127-a102"></a>
 
 #### 그림 90.4.127.a102. `경로를 SVG로 내보내기` 대화상자 (Windows) (영어)
