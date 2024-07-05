@@ -5,6 +5,8 @@
 #### 영상 90.10.43.2.1.a1. Shift(⇧): 마지막 설정값으로 새 경로 만들기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/84a66152-8e45-4a52-831e-70064039742e"></video>
 
+[15.2.3.3.1. 새 경로(New Path) - 영상 90.10.43.2.1.a1](./15-02-03-03-01-new_path.md#90-10-43-02-01-a1)
+
 ***
 
 ## 다른 페이지로 가기
