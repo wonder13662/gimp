@@ -20,7 +20,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.4.3.4. 색 인덱스(Color Index)](./15-02-04-03-04-color_index.md)
+[➡️ 다음: 15.2.4.3.4. 색상 색인(Color Index)](./15-02-04-03-04-color_index.md)
 
 [⬅️ 이전: 15.2.4.3.2. Ctrl(⌘) 키를 누른채로 색상표의 색 클릭하기(Ctrl + Click on a color entry)](./15-02-04-03-02-ctrl_click_on_a_color_entry.md)
 

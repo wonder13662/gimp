@@ -6,7 +6,7 @@
 
 [➡️ 다음: 15.2.4.3.6. 색상 수정하기(Edit Color)](./15-02-04-03-06-edit_color.md)
 
-[⬅️ 이전: 15.2.4.3.4. 색 인덱스(Color Index)](./15-02-04-03-04-color_index.md)
+[⬅️ 이전: 15.2.4.3.4. 색상 색인(Color Index)](./15-02-04-03-04-color_index.md)
 
 [⬆️ 위: 15.2.4.3. 색상표 대화상자 사용하기(Using the Colormap dialog)](./15-02-04-03-00-using_the_colormap_dialog.md)
 

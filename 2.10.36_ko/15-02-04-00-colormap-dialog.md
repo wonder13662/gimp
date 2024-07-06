@@ -42,7 +42,7 @@
 
 [15.2.4.3.3. Ctrl(⌘) 키를 누른채로 색상표의 색 클릭하기(Ctrl + Click on a color entry)](./15-02-04-03-03-double_click_on_a_color_entry.md)
 
-[15.2.4.3.4. 색 인덱스(Color Index)](./15-02-04-03-04-color_index.md)
+[15.2.4.3.4. 색상 색인(Color Index)](./15-02-04-03-04-color_index.md)
 
 [15.2.4.3.5. HTML 표기법(HTML Notation)](./15-02-04-03-05-html_notation.md)
 
