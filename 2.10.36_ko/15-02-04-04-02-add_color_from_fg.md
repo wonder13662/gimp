@@ -18,7 +18,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.4.4.3. 배경색으로부터 색상 추가하기(Add Color from Background)](./15-02-04-04-03-add_color_from_bg.md)
+[➡️ 다음: 15.2.4.4.3. 배경에서 색 추가(Add Color from Background)](./15-02-04-04-03-add_color_from_bg.md)
 
 [⬅️ 이전: 15.2.4.4.1. 색 편집(Edit Color)](./15-02-04-04-01-edit_color.md)
 

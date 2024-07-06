@@ -6,7 +6,7 @@
 
 [➡️ 다음: 15.2.4.4.5. 색상표의 색상과 같은 픽셀을 선택에 추가하기(Add to Selection)](./15-02-04-04-05-add_to_selection.md)
 
-[⬅️ 이전: 15.2.4.4.3. 배경색으로부터 색상 추가하기(Add Color from Background)](./15-02-04-04-03-add_color_from_bg.md)
+[⬅️ 이전: 15.2.4.4.3. 배경에서 색 추가(Add Color from Background)](./15-02-04-04-03-add_color_from_bg.md)
 
 [⬆️ 위: 15.2.4.4. 색상표 컨텍스트 메뉴(The Colormap Context Menu)](./15-02-04-04-00-the_colormap_context_menu.md)
 

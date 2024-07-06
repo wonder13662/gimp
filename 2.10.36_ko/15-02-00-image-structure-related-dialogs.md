@@ -220,7 +220,7 @@
 
 [15.2.4.4.2. 전경에서 색 추가(Add Color from Foreground)](./15-02-04-04-02-add_color_from_fg.md)
 
-[15.2.4.4.3. 배경색으로부터 색상 추가하기(Add Color from Background)](./15-02-04-04-03-add_color_from_bg.md)
+[15.2.4.4.3. 배경에서 색 추가(Add Color from Background)](./15-02-04-04-03-add_color_from_bg.md)
 
 [15.2.4.4.4. 색상표의 색상과 같은 픽셀 선택하기(Select this Color)](./15-02-04-04-04-select_this_color.md)
 

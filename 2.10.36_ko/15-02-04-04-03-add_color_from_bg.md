@@ -1,4 +1,18 @@
-# 15.2.4.4.3. 배경색으로부터 색상 추가하기(Add Color from Background)
+# 15.2.4.4.3. 배경에서 색 추가(Add Color from Background)
+
+<a id="90-04-06-a101-06-01-03-03"></a>
+
+#### [그림 90.4.6.a101.6.1.3.3. `색상표 대화상자` → `컨텍스트 메뉴` → `배경에서 색 추가` (Windows) (우리말)](./90-04-0006-colormap.md#90-04-06-a101-06-01-03-03)
+<img width="177" height="238" alt="90-04-06-a101-06-01-03-03" src="https://github.com/wonder13662/gimp/assets/15767104/cc84be86-2ebe-4dca-a917-893a50675703" />
+
+`색상표 대화상자` → `컨텍스트 메뉴` → `배경에서 색 추가` 메뉴는 색상표가 256개 미만의 색을 가지고 있을 경우에만 활성화됩니다.
+
+[배경색](./19-glossaryx-background_color.md)이 색상표에 추가됩니다.
+
+<a id="90-04-06-a101-06-01-03-03-01"></a>
+
+#### [영상 90.4.6.a101.6.1.3.3.1. `색상표 대화상자` → `컨텍스트 메뉴` → `배경에서 색 추가` (Windows) (우리말)](./90-04-0006-colormap.md#90-04-06-a101-06-01-03-03-01)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8bb7a4ad-ee73-42aa-b27f-cb8136b2bf54"></video>
 
 ***
 
