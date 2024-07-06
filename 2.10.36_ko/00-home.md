@@ -1822,7 +1822,7 @@
 
 [15.2.4.3.4. 색상 색인(Color Index)](./15-02-04-03-04-color_index.md)
 
-[15.2.4.3.5. HTML 표기법(HTML Notation)](./15-02-04-03-05-html_notation.md)
+[15.2.4.3.5. HTML 표기(HTML Notation)](./15-02-04-03-05-html_notation.md)
 
 [15.2.4.3.6. 색상 수정하기(Edit Color)](./15-02-04-03-06-edit_color.md)
 
