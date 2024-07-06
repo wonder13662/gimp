@@ -25,7 +25,7 @@
 
 ## 하위 페이지
 
-[15.2.4.4.1. 색상 수정하기(Edit Color)](./15-02-04-04-01-edit_color.md)
+[15.2.4.4.1. 색 편집(Edit Color)](./15-02-04-04-01-edit_color.md)
 
 [15.2.4.4.2. 전경색으로부터 색상 추가하기(Add Color from Foreground)](./15-02-04-04-02-add_color_from_fg.md)
 
@@ -45,7 +45,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.4.4.1. 색상 수정하기(Edit Color)](./15-02-04-04-01-edit_color.md)
+[➡️ 다음: 15.2.4.4.1. 색 편집(Edit Color)](./15-02-04-04-01-edit_color.md)
 
 [⬅️ 이전: 15.2.4.3.8. 특정 색상의 모든 픽셀 선택하기(Select All Pixels with this Color)](./15-02-04-03-08-select_all_pixels_with_this_color.md)
 
