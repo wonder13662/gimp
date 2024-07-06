@@ -1,5 +1,26 @@
 # 15.2.4.4. 색상표 컨텍스트 메뉴(The Colormap Context Menu)
 
+<a id="90-04-06-a101-06-01"></a>
+
+#### [그림 90.4.6.a101.6.1. `색상표 대화상자` → `컨텍스트 메뉴` (Windows) (우리말)](./90-04-0006-colormap.md#90-04-06-a101-06-01)
+<img width="177" height="238" alt="90-04-06-a101-06-01" src="https://github.com/wonder13662/gimp/assets/15767104/51fa91d0-68da-483a-9d15-3f2d392d1b67" />
+
+[다른 운영체제와 언어의 `색상표 대화상자` → `컨텍스트 메뉴` 확인하기](./90-04-0006-colormap.md#90-04-06-a101-06-02)
+
+색상표 대화상자의 색상 위에서 오른쪽 클릭을 하면 `색상표 컨텍스트 메뉴(The Colormap Context Menu)`를 열 수 있습니다.
+
+<a id="90-04-06-a101-06-01-01"></a>
+
+#### [영상 90.4.6.a101.6.1.1. `색상표 대화상자` → `컨텍스트 메뉴`: 오른쪽 클릭으로 컨텍스트 메뉴 열기 (Windows) (우리말)](./90-04-0006-colormap.md#90-04-06-a101-06-01-01)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/db389611-03e7-4f25-8567-a4841eae05bc"></video>
+
+또는 `색상표 대화상자` → `탭 메뉴` → `색상표 메뉴`를 클릭하면 `색상표 컨텍스트 메뉴(The Colormap Context Menu)`를 열 수 있습니다.
+
+<a id="90-04-06-a101-06-01-02"></a>
+
+#### [영상 90.4.6.a101.6.1.2. `색상표 대화상자` → `탭 메뉴` → `색상표 메뉴` → `컨텍스트 메뉴` (Windows) (우리말)](./90-04-0006-colormap.md#90-04-06-a101-06-01-02)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/84c0f138-88a3-48f5-b251-de127de447fa"></video>
+
 ***
 
 ## 하위 페이지
