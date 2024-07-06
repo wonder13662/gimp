@@ -34,6 +34,10 @@
 #### [영상 90.5.16.1.6.a1.1. `대화상자` → `탭 메뉴` → `탭 추가` → `색상표` (Windows) (우리말)](./90-05-16-01-06-colormap.md#90-05-16-01-06-a1-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/eaf632fc-e849-40db-968e-b1df1b7e3dfe"></video>
 
+## 3. 떼어낸 탭 대화상자 열기(Open Detached Dialog)
+
+[15.2.1.1. 대화상자 활성화하기(Activate the dialog) - 4. 떼어낸 탭 대화상자 열기(Open Detached Dialog)](./15-02-01-01-activate_the_dialog.md#15-02-01-01-s4)를 참고해주세요.
+
 ***
 
 ## 다른 페이지로 가기
