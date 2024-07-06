@@ -3,6 +3,7 @@
 <a id="90-10-43-01-01-a1"></a>
 
 #### 영상 90.10.43.1.1.a1. Ctrl(⌘): 활성화된 `경로`를 선택으로 바꿔 활성화된 선택에서 빼기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src=""></video>
 
 ***
 

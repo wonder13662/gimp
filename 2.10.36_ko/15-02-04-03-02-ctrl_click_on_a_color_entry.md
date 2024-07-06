@@ -1,5 +1,12 @@
 # 15.2.4.3.2. Ctrl(⌘) 키를 누른채로 색상표의 색 클릭하기(Ctrl + Click on a color entry)
 
+Ctrl(⌘) 키를 누른채로 색상표의 색을 클릭하면 [도구상자](./12-01-13-00-toolbox.md)의 [색상 영역(Color Area)](./19-glossaryx-color_area.md)의 [배경색](./19-glossaryx-background_color.md)이 클릭한 색으로 바뀝니다.
+
+<a id="90-10-44-01-01-a1"></a>
+
+#### [영상 90.10.44.1.1.a1. Ctrl(⌘): 배경색 설정하기 (Windows) (우리말)](./90-10-44-01-01-set_background_color.md#90-10-44-01-01-a1)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/03bfe7e2-7c58-4ebc-a275-95e243cf8c51"></video>
+
 ***
 
 ## 다른 페이지로 가기
