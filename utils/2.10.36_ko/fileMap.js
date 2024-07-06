@@ -1418,7 +1418,7 @@ module.exports = {
       ],
       [
         '16-03-17-fill-with-pattern.md', 
-        '16.3.17. Fill with pattern'
+        '16.3.17. 무늬로 채우기(Fill with pattern)'
       ],
       [
         '16-03-18-fill-selection-outline.md', 

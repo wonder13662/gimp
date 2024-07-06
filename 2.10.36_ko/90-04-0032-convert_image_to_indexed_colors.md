@@ -10,6 +10,13 @@
 
 [4.2.8. 인덱스 모드에서의 이미지 - 그림 90.4.32.a101](./04-02-08-the-image-is-in-indexed-color-mode.md#90-04-32-a101)
 
+<a id="90-04-32-a101-01"></a>
+
+#### 그림 90.4.32.a101.1. `이미지를 색인 색상으로 변환` 대화상자: 최대 색상 수 256색 설정 (Windows) (우리말)
+<img width="447" height="440" alt="90-04-32-a101-01" src="https://github.com/wonder13662/gimp/assets/15767104/5fcf55e5-da58-48f2-89f4-df3c8cadbc7f" />
+
+[15.2.4.2. 색상표와 인덱스 이미지(Colormaps and Indexed Images) - 그림 90.4.32.a101.1](./15-02-04-02-colormaps_n_indexed_images.md#90-04-32-a101-01)
+
 <a id="90-04-32-a102"></a>
 
 #### 그림 90.4.32.a102. `이미지를 색인 색상으로 변환` 대화상자 (Windows) (영어)

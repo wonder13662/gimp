@@ -16,7 +16,7 @@
 ## [16.3.14. Clear](./16-03-14-clear.md)
 ## [16.3.15. Fill with FG color](./16-03-15-fill-with-fg-color.md)
 ## [16.3.16. Fill with BG color](./16-03-16-fill-with-bg-color.md)
-## [16.3.17. Fill with pattern](./16-03-17-fill-with-pattern.md)
+## [16.3.17. 무늬로 채우기(Fill with pattern)](./16-03-17-fill-with-pattern.md)
 ## [16.3.18. Fill selection outline](./16-03-18-fill-selection-outline.md)
 ## [16.3.19. 경로 채우기(Fill path)](./16-03-19-fill_path.md)
 ## [16.3.20. 선택 영역 따라 그리기(Stroke selection)](./16-03-20-stroke-selection.md)

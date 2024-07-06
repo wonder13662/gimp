@@ -22,6 +22,12 @@
 
 ***
 
+## 관련 정보
+
+[7.12.1. 색상표(Colormap)](./07-12-01-colormap.md)
+
+***
+
 ## 하위 페이지
 
 [15.2.4.1. 대화상자 활성화하기(Activate the dialog)](./15-02-04-01-activate_the_dialog.md)
