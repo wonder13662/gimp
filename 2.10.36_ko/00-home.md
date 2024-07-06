@@ -1842,7 +1842,7 @@
 
 [15.2.4.4.5. 선택영역에 추가(Add to Selection)](./15-02-04-04-05-add_to_selection.md)
 
-[15.2.4.4.6. 색상표의 색상과 같은 픽셀을 선택에서 빼기(Subtract from Selection)](./15-02-04-04-06-subtract_from_selection.md)
+[15.2.4.4.6. 선택 영역에서 제외(Subtract from Selection)](./15-02-04-04-06-subtract_from_selection.md)
 
 [15.2.4.4.7. 색상표의 색상과 같은 픽셀을 선택에서 겹치기(Intersect with Selection)](./15-02-04-04-07-intersect_from_selection.md)
 

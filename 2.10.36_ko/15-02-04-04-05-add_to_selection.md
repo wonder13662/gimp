@@ -22,7 +22,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.4.4.6. 색상표의 색상과 같은 픽셀을 선택에서 빼기(Subtract from Selection)](./15-02-04-04-06-subtract_from_selection.md)
+[➡️ 다음: 15.2.4.4.6. 선택 영역에서 제외(Subtract from Selection)](./15-02-04-04-06-subtract_from_selection.md)
 
 [⬅️ 이전: 15.2.4.4.4. 이 색상으로 선택(Select this Color)](./15-02-04-04-04-select_this_color.md)
 
