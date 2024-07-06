@@ -220,7 +220,7 @@
 
 [15.2.4.4.1. 색 편집(Edit Color)](./15-02-04-04-01-edit_color.md)
 
-[15.2.4.4.2. 전경색으로부터 색상 추가하기(Add Color from Foreground)](./15-02-04-04-02-add_color_from_fg.md)
+[15.2.4.4.2. 전경에서 색 추가(Add Color from Foreground)](./15-02-04-04-02-add_color_from_fg.md)
 
 [15.2.4.4.3. 배경색으로부터 색상 추가하기(Add Color from Background)](./15-02-04-04-03-add_color_from_bg.md)
 
