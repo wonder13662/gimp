@@ -16,6 +16,12 @@
 
 ***
 
+## 관련 정보
+
+[15.2.4.3.7. 색상 추가하기(Add Color) - 1. 전경에서 색 추가(Add Color from Foreground)](./15-02-04-03-07-add_color.md#15-02-04-03-07-s1)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 15.2.4.4.3. 배경에서 색 추가(Add Color from Background)](./15-02-04-04-03-add_color_from_bg.md)

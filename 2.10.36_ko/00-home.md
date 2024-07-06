@@ -1838,7 +1838,7 @@
 
 [15.2.4.4.3. 배경에서 색 추가(Add Color from Background)](./15-02-04-04-03-add_color_from_bg.md)
 
-[15.2.4.4.4. 색상표의 색상과 같은 픽셀 선택하기(Select this Color)](./15-02-04-04-04-select_this_color.md)
+[15.2.4.4.4. 이 색상으로 선택(Select this Color)](./15-02-04-04-04-select_this_color.md)
 
 [15.2.4.4.5. 색상표의 색상과 같은 픽셀을 선택에 추가하기(Add to Selection)](./15-02-04-04-05-add_to_selection.md)
 

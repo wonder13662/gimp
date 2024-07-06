@@ -16,9 +16,15 @@
 
 ***
 
+## 관련 정보
+
+[15.2.4.3.7. 색상 추가하기(Add Color) - 2. 배경에서 색 추가(Add Color from Background)](./15-02-04-03-07-add_color.md#15-02-04-03-07-s2)
+
+***
+
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.4.4.4. 색상표의 색상과 같은 픽셀 선택하기(Select this Color)](./15-02-04-04-04-select_this_color.md)
+[➡️ 다음: 15.2.4.4.4. 이 색상으로 선택(Select this Color)](./15-02-04-04-04-select_this_color.md)
 
 [⬅️ 이전: 15.2.4.4.2. 전경에서 색 추가(Add Color from Foreground)](./15-02-04-04-02-add_color_from_fg.md)
 
