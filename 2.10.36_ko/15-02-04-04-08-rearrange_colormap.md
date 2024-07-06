@@ -6,7 +6,7 @@
 
 [➡️ 다음: 15.2.5. 히스토그램 대화상자(Histogram dialog)](./15-02-05-histogram-dialog.md)
 
-[⬅️ 이전: 15.2.4.4.7. 색상표의 색상과 같은 픽셀을 선택에서 겹치기(Intersect with Selection)](./15-02-04-04-07-intersect_from_selection.md)
+[⬅️ 이전: 15.2.4.4.7. 겹치는 부분 선택(Intersect with Selection)](./15-02-04-04-07-intersect_from_selection.md)
 
 [⬆️ 위: 15.2.4.4. 색상표 컨텍스트 메뉴(The Colormap Context Menu)](./15-02-04-04-00-the_colormap_context_menu.md)
 
