@@ -1,5 +1,10 @@
 # 15.2.4.3. 색상표 대화상자 사용하기(Using the Colormap dialog)
 
+<a id="90-04-06-a101"></a>
+
+#### [그림 90.4.6.a101. `색상표 대화상자` (Windows) (우리말)](./90-04-0006-colormap.md#90-04-06-a101)
+<img width="200" height="164" alt="90-04-06-a101" src="https://github.com/wonder13662/gimp/assets/15767104/040989c2-5e87-4699-ad05-e003733a6628" />
+
 ***
 
 ## 하위 페이지
