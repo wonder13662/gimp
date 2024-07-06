@@ -1,4 +1,20 @@
-# 15.2.4.3.3. Ctrl(⌘) 키를 누른채로 색상표의 색 클릭하기(Ctrl + Click on a color entry)
+# 15.2.4.3.3. 색상표의 색을 더블 클릭하기(Ctrl + Click on a color entry)
+
+색상표의 색을 더블 클릭하면 `색 바꾸기` 대화상자가 열립니다.
+
+`색 바꾸기` 대화상자에서 색을 설정하면 클릭했던 색상표의 색이 바뀝니다.
+
+이 때, 이미지의 해당 색상이 한꺼번에 바뀌게 됩니다.
+
+<a id="90-04-107-a101"></a>
+
+#### [그림 90.4.107.a101. `색 바꾸기` 대화상자 - 전경색 (Windows) (우리말)](./90-04-0107-change_color.md#90-04-107-a101)
+![90-04-107-a101](https://github.com/wonder13662/gimp/assets/15767104/4f72c392-dc3c-4e07-86de-4a3191b9a1d5)
+
+<a id="90-04-06-a12"></a>
+
+#### [영상 90.4.6.a12. 색상표 대화상자: 지정된 색을 바꾸기 (Windows) (우리말)](./90-04-0006-colormap.md#90-04-06-a12)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8c6b9474-028c-44c6-a520-8aa116021236"></video>
 
 ***
 
