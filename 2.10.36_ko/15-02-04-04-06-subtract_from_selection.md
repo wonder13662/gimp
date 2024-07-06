@@ -6,7 +6,7 @@
 
 [➡️ 다음: 15.2.4.4.7. 색상표의 색상과 같은 픽셀을 선택에서 겹치기(Intersect with Selection)](./15-02-04-04-07-intersect_from_selection.md)
 
-[⬅️ 이전: 15.2.4.4.5. 색상표의 색상과 같은 픽셀을 선택에 추가하기(Add to Selection)](./15-02-04-04-05-add_to_selection.md)
+[⬅️ 이전: 15.2.4.4.5. 선택영역에 추가(Add to Selection)](./15-02-04-04-05-add_to_selection.md)
 
 [⬆️ 위: 15.2.4.4. 색상표 컨텍스트 메뉴(The Colormap Context Menu)](./15-02-04-04-00-the_colormap_context_menu.md)
 

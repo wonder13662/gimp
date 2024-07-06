@@ -22,7 +22,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.4.4.5. 색상표의 색상과 같은 픽셀을 선택에 추가하기(Add to Selection)](./15-02-04-04-05-add_to_selection.md)
+[➡️ 다음: 15.2.4.4.5. 선택영역에 추가(Add to Selection)](./15-02-04-04-05-add_to_selection.md)
 
 [⬅️ 이전: 15.2.4.4.3. 배경에서 색 추가(Add Color from Background)](./15-02-04-04-03-add_color_from_bg.md)
 
