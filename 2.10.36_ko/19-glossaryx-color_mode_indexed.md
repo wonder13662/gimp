@@ -6,3 +6,4 @@
 
 ## 관련 정보
 
+[4.2.8. 인덱스 모드에서의 이미지](./04-02-08-the-image-is-in-indexed-color-mode.md)
