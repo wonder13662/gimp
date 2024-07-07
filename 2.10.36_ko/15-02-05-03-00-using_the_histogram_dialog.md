@@ -1,0 +1,1 @@
+# 15.2.5.3. 히스토그램 대화상자 사용하기(Using the Histogram dialog)

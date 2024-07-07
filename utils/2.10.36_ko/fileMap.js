@@ -1128,7 +1128,7 @@ module.exports = {
         '15.2.4. 색상표(Colormap) 대화상자',
       ],
       [
-        '15-02-05-histogram-dialog.md', 
+        '15-02-05-00-histogram-dialog.md', 
         '15.2.5. 히스토그램 대화상자(Histogram dialog)'
       ],
       [
@@ -2075,7 +2075,7 @@ module.exports = {
       ],
       [
         '16-08-10-levels.md', 
-        '16.8.10. Levels'
+        '16.8.10. 레벨(Levels)'
       ],
       [
         '16-08-11-curves.md', 

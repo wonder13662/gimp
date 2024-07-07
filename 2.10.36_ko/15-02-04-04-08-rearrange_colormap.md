@@ -27,7 +27,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.5. 히스토그램 대화상자(Histogram dialog)](./15-02-05-histogram-dialog.md)
+[➡️ 다음: 15.2.5. 히스토그램 대화상자(Histogram dialog)](./15-02-05-00-histogram-dialog.md)
 
 [⬅️ 이전: 15.2.4.4.7. 겹치는 부분 선택(Intersect with Selection)](./15-02-04-04-07-intersect_from_selection.md)
 

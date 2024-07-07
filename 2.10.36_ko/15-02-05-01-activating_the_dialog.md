@@ -1,0 +1,1 @@
+# 15.2.5.1. 히스토그램 대화상자 활성화하기(Activating the dialog)

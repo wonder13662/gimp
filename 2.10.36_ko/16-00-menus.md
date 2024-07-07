@@ -201,7 +201,7 @@
 ## [16.8.7. Exposure](./16-08-07-exposure.md)
 ## [16.8.8. Shadows highlights](./16-08-08-shadows-highlights.md)
 ## [16.8.9. Brightness contrast](./16-08-09-brightness-contrast.md)
-## [16.8.10. Levels](./16-08-10-levels.md)
+## [16.8.10. 레벨(Levels)](./16-08-10-levels.md)
 ## [16.8.11. Curves](./16-08-11-curves.md)
 ## [16.8.12. Invert](./16-08-12-invert.md)
 ## [16.8.13. Linear invert](./16-08-13-linear-invert.md)

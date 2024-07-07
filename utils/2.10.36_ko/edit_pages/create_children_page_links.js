@@ -113,4 +113,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }      
 }
-doAsyncJob('15-02-04-00-colormap-dialog.md');
+doAsyncJob('15-02-05-00-histogram-dialog.md');
