@@ -34,6 +34,8 @@ const doAsyncJob = async () => {
       return acc
     }, new Set())
 
+    // TODO 시작과 끝 페이지를 지정해서 그 범위 안의 모든 페이지를 검사하는 방법을 제공하자!
+
     // const targetFiles = [...files]
     const targetFiles = [
       '15-02-04-00-colormap-dialog.md',

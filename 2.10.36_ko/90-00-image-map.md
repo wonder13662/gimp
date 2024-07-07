@@ -453,6 +453,16 @@
 
 [90.1.7.19. 정보(Info)](./90-01-07-19-00-info.md)
 
+[90.1.7.19.1. 히스토그램(Histogram)](./90-01-07-19-01-histogram.md)
+
+[90.1.7.19.2. 테두리 평균(Border Average)](./90-01-07-19-02-border_average.md)
+
+[90.1.7.19.3. 색상 큐브 분석(Colorcube Analysis)](./90-01-07-19-03-colorcube_analysis.md)
+
+[90.1.7.19.4. 히스토그램 내보내기(Export Histogram)](./90-01-07-19-04-export_histogram.md)
+
+[90.1.7.19.5. 부드러운 팔레트(Smooth Palette)](./90-01-07-19-05-smooth_palette.md)
+
 [90.1.7.20. 임계(Threshold)](./90-01-07-20-threshold.md)
 
 [90.1.7.21. 색상화(Colorize)](./90-01-07-21-colorize.md)
