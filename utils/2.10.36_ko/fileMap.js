@@ -2176,7 +2176,7 @@ module.exports = {
       ],
       [
         '16-08-35-rearrange-colormap.md', 
-        '16.8.35. Rearrange colormap'
+        '16.8.35. 색상표 재배치(Rearrange colormap)'
       ],
       [
         '16-08-36-set-colormap.md', 

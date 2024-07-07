@@ -14,9 +14,15 @@
 
 ***
 
+## 관련 정보
+
+[15.2.4.3.8. 특정 색상의 모든 픽셀 선택하기(Select All Pixels with this Color) - 4. 특정 색상의 모든 픽셀 선택해서 활성화 선택과 겹치기](./15-02-04-03-08-select_all_pixels_with_this_color.md#90-04-06-a101-05-s4)
+
+***
+
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.4.4.8. 색상표 재배열(Rearrange Colormap)](./15-02-04-04-08-rearrange_colormap.md)
+[➡️ 다음: 15.2.4.4.8. 색상표 재배치(Rearrange Colormap)](./15-02-04-04-08-rearrange_colormap.md)
 
 [⬅️ 이전: 15.2.4.4.6. 선택 영역에서 제외(Subtract from Selection)](./15-02-04-04-06-subtract_from_selection.md)
 

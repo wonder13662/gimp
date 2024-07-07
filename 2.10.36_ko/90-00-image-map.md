@@ -1454,6 +1454,8 @@
 
 [90.4.127. 경로를 SVG로 내보내기(Export Path to SVG)](./90-04-0127-export_path_to_svg.md)
 
+[90.4.128. 색상표 재배치(Rearrange Colormap)](./90-04-0128-rearrange_color_map.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

@@ -1846,7 +1846,7 @@
 
 [15.2.4.4.7. 겹치는 부분 선택(Intersect with Selection)](./15-02-04-04-07-intersect_from_selection.md)
 
-[15.2.4.4.8. 색상표 재배열(Rearrange Colormap)](./15-02-04-04-08-rearrange_colormap.md)
+[15.2.4.4.8. 색상표 재배치(Rearrange Colormap)](./15-02-04-04-08-rearrange_colormap.md)
 
 [15.2.5. 히스토그램 대화상자(Histogram dialog)](./15-02-05-histogram-dialog.md)
 
@@ -3332,6 +3332,8 @@
 [90.4.126. 선택을 경로로 바꾸기 고급 설정(New Channel)](./90-04-0126-selection_to_path_advanced_settings.md)
 
 [90.4.127. 경로를 SVG로 내보내기(Export Path to SVG)](./90-04-0127-export_path_to_svg.md)
+
+[90.4.128. 색상표 재배치(Rearrange Colormap)](./90-04-0128-rearrange_color_map.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

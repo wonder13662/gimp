@@ -68,7 +68,7 @@
 
 [15.2.4.4.7. 겹치는 부분 선택(Intersect with Selection)](./15-02-04-04-07-intersect_from_selection.md)
 
-[15.2.4.4.8. 색상표 재배열(Rearrange Colormap)](./15-02-04-04-08-rearrange_colormap.md)
+[15.2.4.4.8. 색상표 재배치(Rearrange Colormap)](./15-02-04-04-08-rearrange_colormap.md)
 
 ***
 

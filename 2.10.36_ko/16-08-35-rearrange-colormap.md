@@ -1,4 +1,4 @@
-# 16.8.35. Rearrange colormap
+# 16.8.35. 색상표 재배치(Rearrange colormap)
 
 ### [Home](./00-home.md)
 ### [Parent: 16.8. The colors menu](./16-08-00-the-colors-menu.md)

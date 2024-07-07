@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.128. 색상표 재배치(Rearrange Colormap)](./90-04-0128-rearrange_color_map.md)
 
 [⬅️ 이전: 90.4.126. 선택을 경로로 바꾸기 고급 설정(New Channel)](./90-04-0126-selection_to_path_advanced_settings.md)
 

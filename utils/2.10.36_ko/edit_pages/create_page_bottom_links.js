@@ -143,4 +143,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('15-02-04-00-colormap-dialog.md');
+doAsyncJob('90-04-0128-rearrange_color_map.md');

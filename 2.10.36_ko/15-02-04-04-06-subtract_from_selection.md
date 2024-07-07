@@ -14,6 +14,12 @@
 
 ***
 
+## 관련 정보
+
+[15.2.4.3.8. 특정 색상의 모든 픽셀 선택하기(Select All Pixels with this Color) - 3. 특정 색상의 모든 픽셀 선택해서 활성화 선택에서 빼기](./15-02-04-03-08-select_all_pixels_with_this_color.md#90-04-06-a101-05-s3)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 15.2.4.4.7. 겹치는 부분 선택(Intersect with Selection)](./15-02-04-04-07-intersect_from_selection.md)
