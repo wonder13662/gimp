@@ -35,28 +35,28 @@ const doAsyncJob = async () => {
     }, new Set())
 
     // 1-4-1. 시작과 끝 페이지를 지정해서 그 범위 안의 모든 페이지를 검사
-    const fileToBegin = files.indexOf('15-02-05-00-histogram-dialog.md')
-    if (fileToBegin === -1) {
+    const 검사대상_시작_파일_번호 = files.indexOf('15-02-05-00-histogram-dialog.md')
+    if (검사대상_시작_파일_번호 === -1) {
       throw new Error('첫번째 검사 대상 파일이 유효하지 않습니다.')
     }
-    const fileToEnd = files.indexOf('15-02-05-03-05-statistics.md')
-    if (fileToEnd === -1) {
+    const 검사대상_마지막_파일_번호 = files.indexOf('15-02-05-03-05-statistics.md')
+    if (검사대상_마지막_파일_번호 === -1) {
       throw new Error('마지막 검사 대상 파일이 유효하지 않습니다.')
     }
-    if (fileToBegin >= fileToEnd) {
-      throw new Error('첫번째 검사 대상 파일은 마지막 검사 대상 파일보다 앞선 파일이어야 합니다.')
+    if (검사대상_시작_파일_번호 > 검사대상_마지막_파일_번호) {
+      throw new Error('첫번째 검사 대상 파일은 마지막 검사 대상 파일보다 앞선 파일이거나 같은 파일이어야 합니다.')
     }
-    const targetFiles = files.slice(
-      fileToBegin,
-      fileToEnd + 1,
-    )
 
     // 1-4-2. 모든 페이지를 검사
-    // const targetFiles = [...files]
+    // const fileToBegin = 0
+    // const fileToEnd = file.length - 1
+
+    // TODO 검사 시작 번호와 검사 종료 번호를 보내는 것으로 수정해야 한다.
 
     // 1-5. 검사 시작!
-    console.log(`${targetFiles.length} 개의 파일에 대해 검사합니다.`)
-    for (let i = 0; i < targetFiles.length; i++) {
+    const 검사대상_파일_갯수 = 검사대상_마지막_파일_번호 - 검사대상_시작_파일_번호
+    console.log(`${검사대상_파일_갯수} 개의 파일에 대해 검사합니다.`)
+    for (let i = 검사대상_시작_파일_번호; i <= 검사대상_마지막_파일_번호; i++) {
       // 개별 검사 함수 호출
       // 1. 이전 페이지 검사
       hasPrevPage.doAsyncJob(pageRootPath, files, i)
@@ -76,7 +76,7 @@ const doAsyncJob = async () => {
       // 6. 페이지 내의 콘텐츠와 콘텐츠 페이지 간의 링크 연결고리(Loop Link) 검사
       hasBrokenLoopLink.doAsyncJob(pageRootPath, files, i)
     }
-    console.log(`${targetFiles.length} 개의 파일에 대해 검사가 완료되었습니다.`)
+    console.log(`${검사대상_파일_갯수} 개의 파일에 대해 검사가 완료되었습니다.`)
   } catch (err) {
     console.error(err);
   }
