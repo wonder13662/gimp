@@ -26,14 +26,14 @@ GIMP(김프)에서는 이미지의 각 레이어는 하나 혹은 그 이상의 
 
 <a id="15-02-05-02-s3"></a>
 
-## 3. 가짜 채널(Pseudo Channel)
-[RGB 이미지](./19-glossaryx-color_mode_rgb.md)에서 `가짜 채널(Pseudo Channel)` 값을 정의하는 것이 편리합니다.
+## 3. 가상 채널(Pseudo Channel)
+[RGB 이미지](./19-glossaryx-color_mode_rgb.md)에서 `가상 채널(Pseudo Channel)` 값을 정의하는 것이 편리합니다.
 
-`가짜 채널(Pseudo Channel)`은 실제 색 채널은 아닙니다.
+`가상 채널(Pseudo Channel)`은 실제 색 채널은 아닙니다.
 
-`가짜 채널(Pseudo Channel)`은 이미지 안에 저장된 어떠한 색 정보도 나타내지 않습니다.
+`가상 채널(Pseudo Channel)`은 이미지 안에 저장된 어떠한 색 정보도 나타내지 않습니다.
 
-그 대신, 실제 이미지의 픽셀 값에서 `가짜 채널(Pseudo Channel)`의 픽셀의 값을 다음의 방정식으로 구합니다.
+그 대신, 실제 이미지의 픽셀 값에서 `가상 채널(Pseudo Channel)`의 픽셀의 값을 다음의 방정식으로 구합니다.
 
 ```
 V = max(R,G,B)

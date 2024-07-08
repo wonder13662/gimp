@@ -30,6 +30,13 @@
 #### 그림 90.4.7.a104. 히스토그램 대화상자 (Mac) (영어)
 <img width="200" height="277" alt="90-04-07-a104" src="https://github.com/wonder13662/gimp/assets/15767104/651b2acc-a813-424d-b795-0e1e01a6aac3" />
 
+<a id="90-04-07-a111"></a>
+
+#### 그림 90.4.7.a111. `히스토그램` 대화상자 → `채널 옵션` 드롭다운 목록 (Mac)
+<img width="312" height="248" alt="90-04-07-a111" src="https://github.com/wonder13662/gimp/assets/15767104/9ea48019-a0f3-49ec-a11c-100fce31fa50" />
+
+[15.2.5.3.1. 채널(Channel) - 그림 90.4.7.a111](./15-02-05-03-01-channel.md#90-04-07-a111)
+
 ***
 
 ## 다른 페이지로 가기

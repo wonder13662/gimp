@@ -18,4 +18,4 @@
 
 [15.2.2. 채널 대화상자(Channel dialog)](./15-02-02-00-channel_dialog.md)
 
-[15.2.5.2. 히스토그램에 대해서(About Histogram) - 3. 가짜 채널(Pseudo Channel)](./15-02-05-02-about_histograms.md#15-02-05-02-s3)
+[15.2.5.2. 히스토그램에 대해서(About Histogram) - 3. 가상 채널(Pseudo Channel)](./15-02-05-02-about_histograms.md#15-02-05-02-s3)
