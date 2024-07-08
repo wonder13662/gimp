@@ -13,7 +13,7 @@
 
 히스토그램 대화상자에서는 이미지를 바꾸는 어떠한 작업도 하지 않습니다.
 
-히스토그램 기반의 [색 보정(Color Correction)](./19-glossaryx-color_balance.md) 작업을 하려면 [레벨](./16-08-10-levels.md)를 사용하세요.
+히스토그램 기반의 [색 보정(Color Correction)](./19-glossaryx-color_correction.md) 작업을 하려면 [레벨](./16-08-10-levels.md)를 사용하세요.
 
 ***
 
