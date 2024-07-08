@@ -11,7 +11,7 @@ Ctrl(⌘) 키를 누른채로 색상표의 색을 클릭하면 [도구상자](./
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.4.3.3. Ctrl(⌘) 키를 누른채로 색상표의 색 클릭하기(Ctrl + Click on a color entry)](./15-02-04-03-03-double_click_on_a_color_entry.md)
+[➡️ 다음: 15.2.4.3.3. 색상표의 색을 더블 클릭하기(Ctrl + Click on a color entry)](./15-02-04-03-03-double_click_on_a_color_entry.md)
 
 [⬅️ 이전: 15.2.4.3.1. 색상표의 색 클릭하기(Click on a color entry)](./15-02-04-03-01-click_on_a_color_entry.md)
 

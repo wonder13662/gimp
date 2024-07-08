@@ -143,4 +143,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('15-02-06-02-using_the_navigation_dialog.md');
+doAsyncJob('15-02-04-03-02-ctrl_click_on_a_color_entry.md');
