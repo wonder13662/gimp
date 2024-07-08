@@ -34,32 +34,27 @@ const doAsyncJob = async () => {
       return acc
     }, new Set())
 
-    // TODO 시작과 끝 페이지를 지정해서 그 범위 안의 모든 페이지를 검사하는 방법을 제공하자!
+    // 1-4-1. 시작과 끝 페이지를 지정해서 그 범위 안의 모든 페이지를 검사
+    const fileToBegin = files.indexOf('15-02-05-00-histogram-dialog.md')
+    if (fileToBegin === -1) {
+      throw new Error('첫번째 검사 대상 파일이 유효하지 않습니다.')
+    }
+    const fileToEnd = files.indexOf('15-02-05-03-05-statistics.md')
+    if (fileToEnd === -1) {
+      throw new Error('마지막 검사 대상 파일이 유효하지 않습니다.')
+    }
+    if (fileToBegin >= fileToEnd) {
+      throw new Error('첫번째 검사 대상 파일은 마지막 검사 대상 파일보다 앞선 파일이어야 합니다.')
+    }
+    const targetFiles = files.slice(
+      fileToBegin,
+      fileToEnd + 1,
+    )
 
+    // 1-4-2. 모든 페이지를 검사
     // const targetFiles = [...files]
-    const targetFiles = [
-      '15-02-04-00-colormap-dialog.md',
-      '15-02-04-01-activate_the_dialog.md',
-      '15-02-04-02-colormaps_n_indexed_images.md',
-      '15-02-04-03-00-using_the_colormap_dialog.md',
-      '15-02-04-03-01-click_on_a_color_entry.md',
-      '15-02-04-03-02-ctrl_click_on_a_color_entry.md',
-      '15-02-04-03-03-double_click_on_a_color_entry.md',
-      '15-02-04-03-04-color_index.md',
-      '15-02-04-03-05-html_notation.md',
-      '15-02-04-03-06-edit_color.md',
-      '15-02-04-03-07-add_color.md',
-      '15-02-04-03-08-select_all_pixels_with_this_color.md',
-      '15-02-04-04-00-the_colormap_context_menu.md',
-      '15-02-04-04-01-edit_color.md',
-      '15-02-04-04-02-add_color_from_fg.md',
-      '15-02-04-04-03-add_color_from_bg.md',
-      '15-02-04-04-04-select_this_color.md',
-      '15-02-04-04-05-add_to_selection.md',
-      '15-02-04-04-06-subtract_from_selection.md',
-      '15-02-04-04-07-intersect_from_selection.md',
-      '15-02-04-04-08-rearrange_colormap.md',
-    ]
+
+    // 1-5. 검사 시작!
     console.log(`${targetFiles.length} 개의 파일에 대해 검사합니다.`)
     for (let i = 0; i < targetFiles.length; i++) {
       // 개별 검사 함수 호출
@@ -81,6 +76,7 @@ const doAsyncJob = async () => {
       // 6. 페이지 내의 콘텐츠와 콘텐츠 페이지 간의 링크 연결고리(Loop Link) 검사
       hasBrokenLoopLink.doAsyncJob(pageRootPath, files, i)
     }
+    console.log(`${targetFiles.length} 개의 파일에 대해 검사가 완료되었습니다.`)
   } catch (err) {
     console.error(err);
   }
