@@ -51,8 +51,6 @@ const doAsyncJob = async () => {
     // const fileToBegin = 0
     // const fileToEnd = file.length - 1
 
-    // TODO 검사 시작 번호와 검사 종료 번호를 보내는 것으로 수정해야 한다.
-
     // 1-5. 검사 시작!
     const 검사대상_파일_갯수 = 검사대상_마지막_파일_번호 - 검사대상_시작_파일_번호
     console.log(`${검사대상_파일_갯수} 개의 파일에 대해 검사합니다.`)
