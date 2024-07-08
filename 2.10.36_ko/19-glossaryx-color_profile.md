@@ -1,4 +1,4 @@
-# 19.용어집 - 색상 프로필(Color profile)
+# 19. 용어집 - 색상 프로필(Color profile)
 
 ***
 

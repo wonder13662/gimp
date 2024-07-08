@@ -13,19 +13,19 @@
 ## 1. 사람이 인식할 수 있는 RGB(Perceptual RGB)
 이 옵션이 선택되면, `혼합할 색 공간(Blend Color Space)`은 `sRGB`입니다. 기본값입니다.
 
-[관련 정보: 19.용어집 - 사람이 인식할 수 있는 RGB(Perceptual RGB)](./19-glossaryx-perceptual_rgb.md)
+[관련 정보: 19. 용어집 - 사람이 인식할 수 있는 RGB(Perceptual RGB)](./19-glossaryx-perceptual_rgb.md)
 
 ## 2. 선형 RGB(Linear RGB)
 이 옵션이 선택되면, `혼합할 색 공간(Blend Color Space)`은 선형적인 `sRGB`입니다. 그라디언트의 결과물은 물리적인 빛의 동작과 비슷합니다. 색상값이 `비색계(Colorimeter)`로 측정된 경우에는 반드시 사용해야 합니다. 그리고 그라디언트의 색상 표시 지점간의 거리가 선형적으로 바뀌어야 합니다.
 
 [comment]: <> (TODO 마지막 문장의 의미를 파악하지 못함)
 
-[관련 정보: 19.용어집 - 선형 RGB(Linear RGB)](./19-glossaryx-linear_rgb.md)
+[관련 정보: 19. 용어집 - 선형 RGB(Linear RGB)](./19-glossaryx-linear_rgb.md)
 
 ## 2. CIE Lab
 이 옵션이 선택되면, `혼합할 색 공간(Blend Color Space)`은 `CIE L*a*b*`입니다. 이 색상 공간은 사람이 인식하기에 균일한 색상 공간을 가집니다.
 
-[관련 정보: 19.용어집 - CIE Lab](./19-glossaryx-cie_lab.md)
+[관련 정보: 19. 용어집 - CIE Lab](./19-glossaryx-cie_lab.md)
 
 ***
 

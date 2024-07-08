@@ -16,7 +16,7 @@
 
 ## 관련 정보
 
-[19.용어집 - 안티-앨리어싱(Anti-Aliasing)](./19-glossaryx-antialiasing.md)
+[19. 용어집 - 안티-앨리어싱(Anti-Aliasing)](./19-glossaryx-antialiasing.md)
 
 ***
 

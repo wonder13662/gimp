@@ -1,4 +1,4 @@
-# 19.용어집 - Gamma correction
+# 19. 용어집 - Gamma correction
 
 (TODO 내용 추가 필요)
 

@@ -273,4 +273,4 @@
 
 ## 관련 정보
 
-[19.용어집 - 휘도(Luminance)](./19-glossaryx-luminance.md)
+[19. 용어집 - 휘도(Luminance)](./19-glossaryx-luminance.md)

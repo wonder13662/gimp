@@ -1,4 +1,4 @@
-# 19.용어집 - 체비쇼프(Chebyshev)
+# 19. 용어집 - 체비쇼프(Chebyshev)
 
 (TODO 내용 추가 필요)
 

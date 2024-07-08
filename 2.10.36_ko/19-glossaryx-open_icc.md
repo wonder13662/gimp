@@ -1,4 +1,4 @@
-# 19.용어집 - OpenICC Project
+# 19. 용어집 - OpenICC Project
 
 ***
 

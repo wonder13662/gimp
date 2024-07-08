@@ -1,4 +1,4 @@
-# 19.용어집 - 경로: 곡선(Curve)
+# 19. 용어집 - 경로: 곡선(Curve)
 곡선(Curved segements)은 [선분](./19-glossaryx-path_segment.md)을 클릭, 드래그하거나 새로운 [노드](./19-glossaryx-path_node.md)를 추가하고 드래그하면 만들 수 있습니다.
 
 <a id="90-03-02-35-a101-01-01-04-01"></a>

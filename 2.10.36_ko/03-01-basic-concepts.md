@@ -32,7 +32,7 @@ GIMP(김프)에서는 동시에 많은 이미지들을 열 수 있습니다. 큰
 <a id="03-01-s4"></a>
 
 ## 4. 채널(Channels)
-채널은 픽셀 색상을 구성하고 있는 요소 중 하나입니다. GIMP(김프)에서 픽셀이 가진 색상은 일반적으로 빨강, 녹색, 파랑, 그리고 투명(알파,Alpha)입니다. [그레이스케일(Grayscale)](./19-glossaryx-color_mode_grayscale.md) 이미지의 경우에는 회색과 알파만 있고, [인덱스](./19-glossaryx-color_mode_indexed.md) 이미지는 인덱스와 알파만 있습니다.
+[채널](./19-glossaryx-channel.md)은 픽셀 색상을 구성하고 있는 요소 중 하나입니다. GIMP(김프)에서 픽셀이 가진 색상은 일반적으로 빨강, 녹색, 파랑, 그리고 투명(알파,Alpha)입니다. [그레이스케일(Grayscale)](./19-glossaryx-color_mode_grayscale.md) 이미지의 경우에는 회색과 알파만 있고, [인덱스](./19-glossaryx-color_mode_indexed.md) 이미지는 인덱스와 알파만 있습니다.
 
 한편 이미지의 모든 픽셀에 대한 색상 요소 중 하나를 채널이라고도 합니다. 색상 채널에 대한 자세한 내용은 [15.2.2. 채널 대화 상자](15-02-02-00-channel_dialog.md) 섹션을 참고하세요.
 

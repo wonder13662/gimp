@@ -1,4 +1,4 @@
-# 19.용어집 - 밝기(Lightness(HSL))
+# 19. 용어집 - 밝기(Lightness(HSL))
 
 #### 무채화(Desaturate) 옵션 - 회색음영(The shade of gray) 방정식
 ```

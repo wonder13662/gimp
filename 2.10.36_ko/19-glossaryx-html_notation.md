@@ -1,4 +1,4 @@
-# 19.용어집 - HTML 표기(HTML Notation)
+# 19. 용어집 - HTML 표기(HTML Notation)
 
 (TODO 내용 추가 필요)
 

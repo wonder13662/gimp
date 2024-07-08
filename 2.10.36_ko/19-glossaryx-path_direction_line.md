@@ -1,4 +1,4 @@
-# 19.용어집 - 경로: 방향선(Direction Line)
+# 19. 용어집 - 경로: 방향선(Direction Line)
 
 <a id="90-03-02-35-a24"></a>
 

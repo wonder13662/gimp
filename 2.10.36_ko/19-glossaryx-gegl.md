@@ -1,4 +1,4 @@
-# 19.용어집 - GEGL(Generic Graphical Library)
+# 19. 용어집 - GEGL(Generic Graphical Library)
 
 ***
 

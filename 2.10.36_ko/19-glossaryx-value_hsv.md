@@ -1,4 +1,4 @@
-# 19.용어집 - 값(HSV) - Value(HSV)
+# 19. 용어집 - 값(HSV) - Value(HSV)
 
 #### 무채화(Desaturate) 옵션 - 회색음영(The shade of gray) 방정식
 ```

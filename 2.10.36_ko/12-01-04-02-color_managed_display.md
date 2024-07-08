@@ -46,14 +46,14 @@
 
 모니터 프로필 [순람표(룩업테이블, LUT)](./19-glossaryx-lookup_table.md)(대부분의 모니터 프로필은 행렬입니다)을 사용하지 않는다면, `지각적(Perceptual)` 항목을 선택하면 실제로는 `상대 비색계(Relative colorimetric)`를 사용하는 것과 같은 결과를 얻습니다.
 
-`비색계`에 대해서는 [19.용어집 - 비색법(Colormetry)](./19-glossaryx-colorimetric.md)을 참고해주세요.
+`비색계`에 대해서는 [19. 용어집 - 비색법(Colormetry)](./19-glossaryx-colorimetric.md)을 참고해주세요.
 
 <a id="12-01-04-02-s4"></a>
 
 ## 4. 흑점 보상 활용(Use black point compensation)
 `흑점 보상 활용(Use black point compensation)`은 기본값으로 체크되어 있습니다. `흑점 보상 활용(Use black point compensation)`은 이미지 파일의 최대 검은색 단계와 다양한 디지털 표시 장치의 검은색 표시 범위를 조정하는 기능입니다. 사용하지 말아야 할 이유가 없다면, 그냥 두는 편이 좋습니다.
 
-더 자세한 내용은 [19.용어집 - 흑점 보상(Black Point Compensation or BPC)](./19-glossaryx-black_point_compensation.md)을 참고해주세요.
+더 자세한 내용은 [19. 용어집 - 흑점 보상(Black Point Compensation or BPC)](./19-glossaryx-black_point_compensation.md)을 참고해주세요.
 
 [comment]: <> (TODO 흑점 보상 활용의 역할에 대해서 추가 설명해줄 필요가 있다)
 

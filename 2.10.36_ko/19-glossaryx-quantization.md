@@ -1,4 +1,4 @@
-# 19.용어집 - 양자화(Quantization)
+# 19. 용어집 - 양자화(Quantization)
 
 (TODO 내용 추가 필요)
 

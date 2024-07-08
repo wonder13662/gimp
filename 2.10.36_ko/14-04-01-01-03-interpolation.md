@@ -94,9 +94,9 @@
 
 [12.1.7.2. 비율 조정(Scaling)](./12-01-07-02-scaling.md)
 
-[19.용어집 - 보간법(Interpolation)](./19-glossaryx-interpolation.md)
+[19. 용어집 - 보간법(Interpolation)](./19-glossaryx-interpolation.md)
 
-[19.용어집 - 헤일로(Halo)](./19-glossaryx-halo.md)
+[19. 용어집 - 헤일로(Halo)](./19-glossaryx-halo.md)
 
 ***
 

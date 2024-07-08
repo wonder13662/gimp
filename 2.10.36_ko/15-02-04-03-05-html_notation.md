@@ -16,7 +16,7 @@
 #### [영상 90.4.6.a101.2.1. `색상표 대화상자` → `HTML 표기` (Windows) (우리말)](./90-04-0006-colormap.md#90-04-06-a101-02-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/32d1c17e-1c84-4f5b-b61b-ec9ea3115c1f"></video>
 
-`HTML 표기(HTML Notation)`에 관련된 자세한 설명은 [19.용어집 - HTML 표기(HTML Notation)](./19-glossaryx-html_notation.md)을 참고해주세요.
+`HTML 표기(HTML Notation)`에 관련된 자세한 설명은 [19. 용어집 - HTML 표기(HTML Notation)](./19-glossaryx-html_notation.md)을 참고해주세요.
 
 ***
 

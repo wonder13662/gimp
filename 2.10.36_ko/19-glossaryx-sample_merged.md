@@ -1,4 +1,4 @@
-# 19.용어집 - 표본 합치기(Sample Merged)
+# 19. 용어집 - 표본 합치기(Sample Merged)
 
 ***
 

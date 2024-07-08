@@ -1,4 +1,4 @@
-# 19.용어집 - 보간법(Interpolation)
+# 19. 용어집 - 보간법(Interpolation)
 
 <a id="19-interpolation-01"></a>
 

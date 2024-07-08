@@ -1,4 +1,4 @@
-# 19.용어집 - 전경색(Foreground Color)
+# 19. 용어집 - 전경색(Foreground Color)
 
 (TODO 내용 추가 필요)
 

@@ -1,4 +1,4 @@
-# 19.용어집 - 색상 영역(Color Area)
+# 19. 용어집 - 색상 영역(Color Area)
 
 (TODO 내용 추가 필요)
 

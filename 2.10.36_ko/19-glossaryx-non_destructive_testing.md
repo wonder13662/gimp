@@ -1,4 +1,4 @@
-# 19.용어집 - 비파괴 검사(Non-destructive testing)
+# 19. 용어집 - 비파괴 검사(Non-destructive testing)
 
 (TODO 내용 추가 필요)
 

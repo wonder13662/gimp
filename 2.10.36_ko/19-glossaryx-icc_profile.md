@@ -1,4 +1,4 @@
-# 19.용어집 - ICC profile
+# 19. 용어집 - ICC profile
 
 ***
 

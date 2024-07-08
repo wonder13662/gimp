@@ -1,4 +1,4 @@
-# 19.용어집 - 렌더링 목적(Rendering Intent)
+# 19. 용어집 - 렌더링 목적(Rendering Intent)
 
 *** 
 

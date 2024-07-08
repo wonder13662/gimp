@@ -48,7 +48,7 @@ GIMP(김프) 고급 사용자들은 수십 개의 레이어를 이미지에 쓰�
 
 `drawable`이란 GIMP(김프)의 개념입니다. 
 
-`drawable`은 레이어, 채널, 레이어 마스크 그리고 선택 마스크를 가리킵니다. 
+`drawable`은 [레이어](./19-glossaryx-layer.md), [채널](./19-glossaryx-channel.md), 레이어 마스크 그리고 선택 마스크를 가리킵니다. 
 
 기본적으로 칠하기 도구로 칠할 수 있는 것이라면 어떤 것이라도 `drawable`입니다. 
 

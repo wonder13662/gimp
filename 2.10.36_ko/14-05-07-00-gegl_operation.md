@@ -10,7 +10,7 @@
 ## 1. GEGL은 무엇일까요?
 `GEGL(Generic Graphical Library)`은 그래프 기반의 이미지 프로세싱 라이브러리입니다. 이 라이브러리는 GIMP(김프) 내에서의 다양한 이미지 프로세싱 작업을 처리하기 위해 개발되었습니다.
 
-[관련 정보: 19.용어집 - GEGL(Generic Graphical Library)](./19-glossaryx-gegl.md)
+[관련 정보: 19. 용어집 - GEGL(Generic Graphical Library)](./19-glossaryx-gegl.md)
 
 ## 2. GEGL은 GIMP에서 어떻게 쓰이나요?
 대부분의 [GEGL](./19-glossaryx-gegl.md) 동작은 GIMP(김프) 안에서 자신만의 메뉴 명령이 있습니다.

@@ -1,4 +1,4 @@
-# 19.용어집 - 색상 편집기(Color Editor)
+# 19. 용어집 - 색상 편집기(Color Editor)
 
 (TODO 내용 추가 필요)
 

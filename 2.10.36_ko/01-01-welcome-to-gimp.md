@@ -18,9 +18,9 @@ GIMP에서 제공되는 기능과 특징들:
 - 브러쉬, 펜슬, 에어브러쉬, 도장 등 모든 페인팅 도구 제공합니다.
 - 타일 기반의 메모리 관리를 통해 이미지 크기는 사용가능한 디스크 크기만큼으로 제한됩니다.
 - 모든 페인팅 도구들에 대해 고품질 안티 알리아싱의 Sub-pixel sampling이 제공됩니다.
-- 투명도 작업에 대한 알파 채널을 지원합니다.
-- 레이어와 채널을 사용할 수 있습니다.
-- Script-Fu 등을 사용해서 GIMP 내부 기능들을 사용하는 [프로시저 데이터베이스](./19-glossaryx-procedural_database.md)를 사용할 수 있습니다.
+- 투명도 작업에 대한 [알파 채널](./19-glossaryx-alpha.md)을 지원합니다.
+- [레이어](./19-glossaryx-layer.md)와 [채널](./19-glossaryx-channel.md)을 사용할 수 있습니다.
+- [Script-Fu](./13-00-scripting.md) 등을 사용해서 GIMP 내부 기능들을 사용하는 [프로시저 데이터베이스](./19-glossaryx-procedural_database.md)를 사용할 수 있습니다.
 - 고급 스크립팅 기능을 사용할 수 있습니다.
 - 여러 번의 되돌리기(undo)/다시하기(redo)가 가능합니다 (디스크 공간에 따라 제한됩니다).
 - 회전(rotate), 크기조정(scale), 기울이기(shear), 뒤집기(flip)을 포함한 변형 도구(Transformation tools)를 사용할 수 있습니다.

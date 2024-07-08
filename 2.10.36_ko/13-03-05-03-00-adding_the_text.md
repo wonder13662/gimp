@@ -50,7 +50,7 @@
 
 (gimp-layer-resize theLayer theImageWidth theImageHeight 0 0)
 ```
-여기서 `drawable`이 무엇인지 궁금할 수 있습니다. `drawable`은 그릴 수 있는 모든 대상을 말합니다. 이 대상에는 채널, 레이어, 마스크, 선택 영역등이 있습니다. 레이어는 `drawable`의 구체화된 버전입니다.
+여기서 `drawable`이 무엇인지 궁금할 수 있습니다. `drawable`은 그릴 수 있는 모든 대상을 말합니다. 이 대상에는 [채널](./19-glossaryx-channel.md), [레이어](./19-glossaryx-layer.md), 마스크, 선택 영역등이 있습니다. 레이어는 `drawable`의 구체화된 버전입니다.
 
 이미지가 준비되었으므로, 이제 이미지를 화면에 다시 보여주는 `gimp-display-new` 함수를 호출합니다.
 

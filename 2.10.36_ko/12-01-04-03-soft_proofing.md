@@ -26,7 +26,7 @@
 ## 3. 흑점 보상 활용(Use black point compensation)
 `흑점 보상 활용(Use black point compensation)` 옵션의 체크를 켜둔 것과 꺼둔 것을 비교해서 더 나은 결과물을 확인하세요.
 
-더 자세한 내용은 [19.용어집 - 흑점 보상(Black Point Compensation or BPC)](./19-glossaryx-black_point_compensation.md)을 참고해주세요.
+더 자세한 내용은 [19. 용어집 - 흑점 보상(Black Point Compensation or BPC)](./19-glossaryx-black_point_compensation.md)을 참고해주세요.
 
 ## 4. 색상 교정 최적화(Optimize soft-proofing for)
 

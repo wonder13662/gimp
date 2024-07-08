@@ -1,7 +1,7 @@
 # 10.1.6.2. 사진 인쇄하기(Printing Your Photos)
 GIMP(김프)에서 인쇄를 하기 위해서는 [이미지 메뉴 바](./03-02-04-02-image-menu.md)의 `파일` → `인쇄` 메뉴로 이동합니다. 결과물이 이상하게 보이는 것을 막거나 고치기 위해서 아래와 같은 기본적인 개념을 알아두면 유용합니다.
 
-- 모니터 스크린의 이미지는 [RGB 모드](./05-01-image-types.md#05-01-s1)로 표현됩니다. 인쇄할 이미지는 [CMY(K) 모드](./05-01-image-types.md#05-01-s4)로 표현됩니다. 따라서 실제 인쇄되는 색상이 모니터에서 본 것과는 다르게 나타날 수도 있습니다. 이 차이는 RGB-CMYK 색상 대응 차트를 통해 알 수 있습니다. 이에 대한 더 자세한 내용은 아래 링크를 참고하세요.
+- 모니터 스크린의 이미지는 [RGB 모드](./05-01-image-types.md#05-01-s1-01)로 표현됩니다. 인쇄할 이미지는 [CMY(K) 모드](./05-01-image-types.md#05-01-s1-04)로 표현됩니다. 따라서 실제 인쇄되는 색상이 모니터에서 본 것과는 다르게 나타날 수도 있습니다. 이 차이는 RGB-CMYK 색상 대응 차트를 통해 알 수 있습니다. 이에 대한 더 자세한 내용은 아래 링크를 참고하세요.
    - [ICC-Profile](https://en.wikipedia.org/wiki/ICC_profile)
    - [CMYK](https://en.wikipedia.org/wiki/CMYK_color_model)
    - [Gamut](https://en.wikipedia.org/wiki/Gamut)

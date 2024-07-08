@@ -1,4 +1,4 @@
-# 19.용어집 - 비색계(Colorimetric)
+# 19. 용어집 - 비색계(Colorimetric)
 
 *** 
 

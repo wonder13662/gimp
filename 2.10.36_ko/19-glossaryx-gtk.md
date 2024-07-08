@@ -1,4 +1,4 @@
-# 19.용어집 - GTK
+# 19. 용어집 - GTK
 
 [GTK](https://ko.wikipedia.org/wiki/GTK)는 GIMP 툴킷의 줄임말입니다.
 

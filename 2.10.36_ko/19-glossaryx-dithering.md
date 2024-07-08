@@ -1,4 +1,4 @@
-# 19.용어집 - 디더링(Dithering)
+# 19. 용어집 - 디더링(Dithering)
 
 (TODO 내용 추가 필요)
 

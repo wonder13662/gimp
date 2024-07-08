@@ -1,4 +1,4 @@
-# 19.용어집 - 경로: 노드(Node)
+# 19. 용어집 - 경로: 노드(Node)
 
 `노드`는 [선분](./19-glossaryx-path_segment.md)과 선분의 양쪽 끝에 있는 [제어점](./19-glossaryx-path_control_point.md) 2개를 합친 것입니다.
 

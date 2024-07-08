@@ -1,4 +1,4 @@
-# 19.용어집 - 경로: 하위경로(Subpath)
+# 19. 용어집 - 경로: 하위경로(Subpath)
 
 [경로: 컴포넌트](./19-glossaryx-path_component.md)와 같은 단어입니다.
 

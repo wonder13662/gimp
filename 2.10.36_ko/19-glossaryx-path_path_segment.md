@@ -1,4 +1,4 @@
-# 19.용어집 - 경로: 경로 선분(Path Segment)
+# 19. 용어집 - 경로: 경로 선분(Path Segment)
 
 (TODO 내용 추가 필요)
 
