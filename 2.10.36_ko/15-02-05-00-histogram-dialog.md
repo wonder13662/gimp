@@ -27,11 +27,11 @@
 
 [15.2.5.3.1. 채널(Channel)](./15-02-05-03-01-channel.md)
 
-[15.2.5.3.2. 선형/대수 버튼(Linear/Logarithmic buttons)](./15-02-05-03-02-linear_logarithmic_buttons.md)
+[15.2.5.3.3. 선형/로그 히스토그램 버튼(Linear/Logarithmic buttons)](./15-02-05-03-03-linear_logarithmic_buttons.md)
 
-[15.2.5.3.3. 범위 설정(Range Fixing)](./15-02-05-03-03-range_fixing.md)
+[15.2.5.3.3. 범위 설정(Range Fixing)](./15-02-05-03-04-range_fixing.md)
 
-[15.2.5.3.4. 통계(Statistics)](./15-02-05-03-04-statistics.md)
+[15.2.5.3.4. 통계(Statistics)](./15-02-05-03-05-statistics.md)
 
 ***
 
