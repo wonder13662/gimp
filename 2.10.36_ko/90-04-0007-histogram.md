@@ -79,6 +79,48 @@
 
 [15.2.5.3.3. 선형/로그 히스토그램 버튼(Linear/Logarithmic buttons) - 영상 90.4.7.a111.3.2.1](./15-02-05-03-03-linear_logarithmic_buttons.md#90-04-07-a111-03-02-01)
 
+<a id="90-04-07-a111-04-01"></a>
+
+#### 그림 90.4.7.a111.4.1. `히스토그램` 대화상자 → `범위 설정` → `히스토그램 영역` (Windows) (우리말)
+<img width="200" height="239" alt="90-04-07-a111-04-01" src="https://github.com/wonder13662/gimp/assets/15767104/dd38ed1f-a37c-4282-b451-ea9d424c7ba6" />
+
+[15.2.5.3.4. 범위 설정(Range Fixing) - 그림 90.4.7.a111.4.1](./15-02-05-03-04-range_fixing.md#90-04-07-a111-04-01)
+
+<a id="90-04-07-a111-04-01-01"></a>
+
+#### 영상 90.4.7.a111.4.1.1. `히스토그램` 대화상자 → `범위 설정` → `히스토그램 영역` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4aac71c1-9fa9-4425-a7f3-44c8b9f8495c"></video>
+
+[15.2.5.3.4. 범위 설정(Range Fixing) - 그림 90.4.7.a111.4.1.1](./15-02-05-03-04-range_fixing.md#90-04-07-a111-04-01-01)
+
+<a id="90-04-07-a111-04-02"></a>
+
+#### 그림 90.4.7.a111.4.2. `히스토그램` 대화상자 → `범위 설정` → `슬라이더` (Windows) (우리말)
+<img width="200" height="239" alt="90-04-07-a111-04-02" src="https://github.com/wonder13662/gimp/assets/15767104/ed448354-01c5-426e-9aa6-9e0fe9ccb1e5" />
+
+[15.2.5.3.4. 범위 설정(Range Fixing) - 그림 90.4.7.a111.4.2](./15-02-05-03-04-range_fixing.md#90-04-07-a111-04-02)
+
+<a id="90-04-07-a111-04-02-01"></a>
+
+#### 영상 90.4.7.a111.4.2.1. `히스토그램` 대화상자 → `범위 설정` → `슬라이더` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/151c5909-2d8e-4c20-89ae-9c5499e27cbc"></video>
+
+[15.2.5.3.4. 범위 설정(Range Fixing) - 영상 90.4.7.a111.4.2.1](./15-02-05-03-04-range_fixing.md#90-04-07-a111-04-02-01)
+
+<a id="90-04-07-a111-04-03"></a>
+
+#### 그림 90.4.7.a111.4.3. `히스토그램` 대화상자 → `범위 설정` → `스핀 버튼` (Windows) (우리말)
+<img width="200" height="239" alt="90-04-07-a111-04-03" src="https://github.com/wonder13662/gimp/assets/15767104/fb2c5001-14e6-4c40-b7ed-d1dfcbea2ed7" />
+
+[15.2.5.3.4. 범위 설정(Range Fixing) - 그림 90.4.7.a111.4.3](./15-02-05-03-04-range_fixing.md#90-04-07-a111-04-03)
+
+<a id="90-04-07-a111-04-03-01"></a>
+
+#### 영상 90.4.7.a111.4.3.1. `히스토그램` 대화상자 → `범위 설정` → `스핀 버튼` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/763306f5-9977-4685-a815-91aa5a8b763c"></video>
+
+[15.2.5.3.4. 범위 설정(Range Fixing) - 영상 90.4.7.a111.4.3.1](./15-02-05-03-04-range_fixing.md#90-04-07-a111-04-03-01)
+
 ***
 
 ## 다른 페이지로 가기
