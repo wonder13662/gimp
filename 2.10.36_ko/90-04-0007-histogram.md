@@ -13,6 +13,8 @@
 #### 그림 90.4.7.a101. 히스토그램 대화상자 (Windows) (우리말)
 <img width="200" height="239" alt="90-04-07-a101" src="https://github.com/wonder13662/gimp/assets/15767104/4ea5985e-42a7-4f16-b1b8-6de339749a09" />
 
+[15.2.5.3. 히스토그램 대화상자 사용하기(Using the Histogram dialog) - 그림 90.4.7.a101](./15-02-05-03-00-using_the_histogram_dialog.md#90-04-07-a101)
+
 <a id="90-04-07-a102"></a>
 
 #### 그림 90.4.7.a102. 히스토그램 대화상자 (Windows) (영어)

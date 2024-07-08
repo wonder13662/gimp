@@ -113,4 +113,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }      
 }
-doAsyncJob('90-01-07-19-00-info.md');
+doAsyncJob('15-02-05-03-00-using_the_histogram_dialog.md');
