@@ -22,6 +22,10 @@
 #### [영상 90.4.9.a101.1. 내비게이션 대화상자: 하얀색 사각형 안과 바깥의 마우스 포인터 모양 (Windows) (우리말)](./90-04-0009-navigation.md#90-04-09-a101-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5d945fdb-cf64-4159-a755-3ff367353b57"></video>
 
+<a comment="[ERROR]원문에서는 마우스 포인터가 십자 모양 화살표가 아닌 주먹손(form of grabbing hand)라고 되어 있음. 수정 필요."></a>
+
+<a comment="[TODO]내비게이션 제어에 대해서는 15-02-06-02-using_the_navigation_dialog.md로 옮겨져야 함."></a>
+
 ***
 
 ## 하위 페이지
