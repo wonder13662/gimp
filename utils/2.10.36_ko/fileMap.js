@@ -1132,7 +1132,7 @@ module.exports = {
         '15.2.5. 히스토그램 대화상자(Histogram dialog)'
       ],
       [
-        '15-02-06-navigation-dialog.md', 
+        '15-02-06-00-navigation-dialog.md', 
         '15.2.6. 내비게이션 대화상자(Navigation dialog)',
         '15.2.6. 내비게이션 대화상자'
       ],

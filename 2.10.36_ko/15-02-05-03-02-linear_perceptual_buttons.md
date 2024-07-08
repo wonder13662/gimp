@@ -7,7 +7,7 @@
 <a id="90-04-07-a111-02-01"></a>
 
 #### [그림 90.4.7.a111.2.1. `히스토그램` 대화상자 → `선형/인지 공간 버튼` → `선형 공간 버튼` (Windows) (우리말)](./90-04-0007-histogram.md#90-04-07-a111-02-01)
-<img width="200" height="239" alt="90-04-07-a111-02-01" src="https://github.com/wonder13662/gimp/assets/15767104/97129d97-7fed-4324-b12c-12cb3d63b891" />
+<img width="200" height="239" alt="90-04-07-a111-02-01" src="https://github.com/wonder13662/gimp/assets/15767104/4c141910-cf30-4520-b974-21bcdd54505d" />
 
 히스토그램을 선형 공간으로 보여줍니다.
 
@@ -18,7 +18,7 @@
 <a id="90-04-07-a111-02-02"></a>
 
 #### [그림 90.4.7.a111.2.2. `히스토그램` 대화상자 → `선형/인지 공간 버튼` → `인지 공간 버튼` (Windows) (우리말)](./90-04-0007-histogram.md#90-04-07-a111-02-02)
-<img width="200" height="239" alt="90-04-07-a111-02-02" src="https://github.com/wonder13662/gimp/assets/15767104/5f57b090-ef9c-4585-9f25-ff9fb980b55d" />
+<img width="200" height="239" alt="90-04-07-a111-02-02" src="https://github.com/wonder13662/gimp/assets/15767104/d0069c61-fddb-4f27-b5d2-b24f023869a6" />
 
 히스토그램을 인지 공간으로 보여줍니다.
 

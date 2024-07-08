@@ -32,14 +32,14 @@
 
 <a id="90-04-07-a111-01"></a>
 
-#### 그림 90.4.7.a111.1. `히스토그램` 대화상자 → `채널 옵션` (Mac)
-<img width="200" height="239" alt="90-04-07-a111-01" src="https://github.com/wonder13662/gimp/assets/15767104/9f5ba7cf-db8c-408a-9c6e-3d5515696d63" />
+#### 그림 90.4.7.a111.1. `히스토그램` 대화상자 → `채널` (Windows) (우리말)
+<img width="200" height="239" alt="90-04-07-a111-01" src="https://github.com/wonder13662/gimp/assets/15767104/038dc9d4-2bc0-44ae-a83c-bbf84ec8d4cb" />
 
 [15.2.5.3.1. 채널(Channel) - 그림 90.4.7.a111.1](./15-02-05-03-01-channel.md#90-04-07-a111-01)
 
 <a id="90-04-07-a111-01-01"></a>
 
-#### 그림 90.4.7.a111.1.1. `히스토그램` 대화상자 → `채널 옵션`: 드롭다운 목록 (Mac)
+#### 그림 90.4.7.a111.1.1. `히스토그램` 대화상자 → `채널`: 드롭다운 목록 (Mac)
 <img width="312" height="248" alt="90-04-07-a111-01-01" src="https://github.com/wonder13662/gimp/assets/15767104/9ea48019-a0f3-49ec-a11c-100fce31fa50" />
 
 [15.2.5.3.1. 채널(Channel) - 그림 90.4.7.a111](./15-02-05-03-01-channel.md#90-04-07-a111-01-01)
@@ -47,28 +47,28 @@
 <a id="90-04-07-a111-02-01"></a>
 
 #### 그림 90.4.7.a111.2.1. `히스토그램` 대화상자 → `선형/인지 공간 버튼` → `선형 공간 버튼` (Windows) (우리말)
-<img width="200" height="239" alt="90-04-07-a111-02-01" src="https://github.com/wonder13662/gimp/assets/15767104/97129d97-7fed-4324-b12c-12cb3d63b891" />
+<img width="200" height="239" alt="90-04-07-a111-02-01" src="https://github.com/wonder13662/gimp/assets/15767104/4c141910-cf30-4520-b974-21bcdd54505d" />
 
 [15.2.5.3.2. 선형/인지 공간 버튼(Linear/Perceptual Space buttons) - 그림 90.4.7.a111.2.1](./15-02-05-03-02-linear_perceptual_buttons.md#90-04-07-a111-02-01)
 
 <a id="90-04-07-a111-02-02"></a>
 
 #### 그림 90.4.7.a111.2.2. `히스토그램` 대화상자 → `선형/인지 공간 버튼` → `인지 공간 버튼` (Windows) (우리말)
-<img width="200" height="239" alt="90-04-07-a111-02-02" src="https://github.com/wonder13662/gimp/assets/15767104/5f57b090-ef9c-4585-9f25-ff9fb980b55d" />
+<img width="200" height="239" alt="90-04-07-a111-02-02" src="https://github.com/wonder13662/gimp/assets/15767104/d0069c61-fddb-4f27-b5d2-b24f023869a6" />
 
 [15.2.5.3.2. 선형/인지 공간 버튼(Linear/Perceptual Space buttons) - 그림 90.4.7.a111.2.2](./15-02-05-03-02-linear_perceptual_buttons.md#90-04-07-a111-02-02)
 
 <a id="90-04-07-a111-03-01"></a>
 
 #### 그림 90.4.7.a111.3.1. `히스토그램` 대화상자 → `선형/로그 히스토그램 버튼` → `선형 히스토그램 버튼` (Windows) (우리말)
-<img width="200" height="239" alt="90-04-07-a111-03-01" src="https://github.com/wonder13662/gimp/assets/15767104/644314e5-7787-497e-bcf3-394637eda8a9" />
+<img width="200" height="239" alt="90-04-07-a111-03-01" src="https://github.com/wonder13662/gimp/assets/15767104/7d096ffd-69e6-42db-bbcb-efadcac3e1a0" />
 
 [15.2.5.3.3. 선형/로그 히스토그램 버튼(Linear/Logarithmic buttons) - 그림 90.4.7.a111.3.1](./15-02-05-03-03-linear_logarithmic_buttons.md#90-04-07-a111-03-01)
 
 <a id="90-04-07-a111-03-02"></a>
 
 #### 그림 90.4.7.a111.3.2. `히스토그램` 대화상자 → `선형/로그 히스토그램 버튼` → `로그 히스토그램 버튼` (Windows) (우리말)
-<img width="200" height="239" alt="90-04-07-a111-03-02" src="https://github.com/wonder13662/gimp/assets/15767104/68c8651f-c4a0-4d6b-b693-5b0ee372e9e2" />
+<img width="200" height="239" alt="90-04-07-a111-03-02" src="https://github.com/wonder13662/gimp/assets/15767104/8f631303-0361-4809-8038-f58f5cc1ce8a" />
 
 [15.2.5.3.3. 선형/로그 히스토그램 버튼(Linear/Logarithmic buttons) - 그림 90.4.7.a111.3.2](./15-02-05-03-03-linear_logarithmic_buttons.md#90-04-07-a111-03-02)
 
@@ -82,7 +82,7 @@
 <a id="90-04-07-a111-04-01"></a>
 
 #### 그림 90.4.7.a111.4.1. `히스토그램` 대화상자 → `범위 설정` → `히스토그램 영역` (Windows) (우리말)
-<img width="200" height="239" alt="90-04-07-a111-04-01" src="https://github.com/wonder13662/gimp/assets/15767104/dd38ed1f-a37c-4282-b451-ea9d424c7ba6" />
+<img width="200" height="239" alt="90-04-07-a111-04-01" src="https://github.com/wonder13662/gimp/assets/15767104/16a398fa-8393-429a-8d78-ffef80174d89" />
 
 [15.2.5.3.4. 범위 설정(Range Fixing) - 그림 90.4.7.a111.4.1](./15-02-05-03-04-range_fixing.md#90-04-07-a111-04-01)
 
@@ -96,7 +96,7 @@
 <a id="90-04-07-a111-04-02"></a>
 
 #### 그림 90.4.7.a111.4.2. `히스토그램` 대화상자 → `범위 설정` → `슬라이더` (Windows) (우리말)
-<img width="200" height="239" alt="90-04-07-a111-04-02" src="https://github.com/wonder13662/gimp/assets/15767104/ed448354-01c5-426e-9aa6-9e0fe9ccb1e5" />
+<img width="200" height="239" alt="90-04-07-a111-04-02" src="https://github.com/wonder13662/gimp/assets/15767104/6cbbbdf1-07c2-46b1-bd1d-986b3ab9d038" />
 
 [15.2.5.3.4. 범위 설정(Range Fixing) - 그림 90.4.7.a111.4.2](./15-02-05-03-04-range_fixing.md#90-04-07-a111-04-02)
 
@@ -110,7 +110,7 @@
 <a id="90-04-07-a111-04-03"></a>
 
 #### 그림 90.4.7.a111.4.3. `히스토그램` 대화상자 → `범위 설정` → `스핀 버튼` (Windows) (우리말)
-<img width="200" height="239" alt="90-04-07-a111-04-03" src="https://github.com/wonder13662/gimp/assets/15767104/fb2c5001-14e6-4c40-b7ed-d1dfcbea2ed7" />
+<img width="200" height="239" alt="90-04-07-a111-04-03" src="https://github.com/wonder13662/gimp/assets/15767104/f5c246c7-67bf-4cd5-89c0-b7563b0c1fea" />
 
 [15.2.5.3.4. 범위 설정(Range Fixing) - 그림 90.4.7.a111.4.3](./15-02-05-03-04-range_fixing.md#90-04-07-a111-04-03)
 

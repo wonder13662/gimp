@@ -250,7 +250,7 @@
 
 [15.2.5.3.4. 통계(Statistics)](./15-02-05-03-05-statistics.md)
 
-[15.2.6. 내비게이션 대화상자(Navigation dialog)](./15-02-06-navigation-dialog.md)
+[15.2.6. 내비게이션 대화상자(Navigation dialog)](./15-02-06-00-navigation-dialog.md)
 
 [15.2.7. 실행취소 이력 대화상자(Undo history dialog)](./15-02-07-undo-history-dialog.md)
 

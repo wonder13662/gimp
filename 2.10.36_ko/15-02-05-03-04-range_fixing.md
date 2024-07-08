@@ -10,7 +10,7 @@
 <a id="90-04-07-a111-04-01"></a>
 
 #### [그림 90.4.7.a111.4.1. `히스토그램` 대화상자 → `범위 설정` → `히스토그램 영역` (Windows) (우리말)](./90-04-0007-histogram.md#90-04-07-a111-04-01)
-<img width="200" height="239" alt="90-04-07-a111-04-01" src="https://github.com/wonder13662/gimp/assets/15767104/dd38ed1f-a37c-4282-b451-ea9d424c7ba6" />
+<img width="200" height="239" alt="90-04-07-a111-04-01" src="https://github.com/wonder13662/gimp/assets/15767104/16a398fa-8393-429a-8d78-ffef80174d89" />
 
 히스토그램 표시 영역을 클릭, 드래그하면 클릭 시작점이 범위 설정의 가장 낮은 레벨이 되며 드래그를 멈추고 버튼을 떼는 지점이 범위 설정의 가장 높은 레벨이 됩니다.
 
@@ -26,7 +26,7 @@
 <a id="90-04-07-a111-04-02"></a>
 
 #### [그림 90.4.7.a111.4.2. `히스토그램` 대화상자 → `범위 설정` → `슬라이더` (Windows) (우리말)](./90-04-0007-histogram.md#90-04-07-a111-04-02)
-<img width="200" height="239" alt="90-04-07-a111-04-02" src="https://github.com/wonder13662/gimp/assets/15767104/ed448354-01c5-426e-9aa6-9e0fe9ccb1e5" />
+<img width="200" height="239" alt="90-04-07-a111-04-02" src="https://github.com/wonder13662/gimp/assets/15767104/6cbbbdf1-07c2-46b1-bd1d-986b3ab9d038" />
 
 히스토그램 표시 영역 밑의 슬라이더의 검은색과 하얀색 삼각형을 클릭, 드래그해서 범위 설정을 할 수 있습니다.
 
@@ -42,7 +42,7 @@
 <a id="90-04-07-a111-04-03"></a>
 
 #### [그림 90.4.7.a111.4.3. `히스토그램` 대화상자 → `범위 설정` → `스핀 버튼` (Windows) (우리말)](./90-04-0007-histogram.md#90-04-07-a111-04-03)
-<img width="200" height="239" alt="90-04-07-a111-04-03" src="https://github.com/wonder13662/gimp/assets/15767104/fb2c5001-14e6-4c40-b7ed-d1dfcbea2ed7" />
+<img width="200" height="239" alt="90-04-07-a111-04-03" src="https://github.com/wonder13662/gimp/assets/15767104/f5c246c7-67bf-4cd5-89c0-b7563b0c1fea" />
 
 슬라이더 밑의 스핀 버튼을 사용해서 범위 설정을 할 수 있습니다.
 
