@@ -1,5 +1,15 @@
 # 15.2.5.2. 히스토그램에 대해서(About Histogram)
 
+<a id="90-04-07-a111-01"></a>
+
+#### [그림 90.4.7.a111.1. `히스토그램` 대화상자 → `채널` (Windows) (우리말)](./90-04-0007-histogram.md#90-04-07-a111-01)
+<img width="200" height="239" alt="90-04-07-a111-01" src="https://github.com/wonder13662/gimp/assets/15767104/038dc9d4-2bc0-44ae-a83c-bbf84ec8d4cb" />
+
+<a id="90-04-07-a111-01-01"></a>
+
+#### [그림 90.4.7.a111.1.1. `히스토그램` 대화상자 → `채널`: 드롭다운 목록 (Mac)](./90-04-0007-histogram.md#90-04-07-a111-01-01)
+<img width="312" height="248" alt="90-04-07-a111-01-01" src="https://github.com/wonder13662/gimp/assets/15767104/9ea48019-a0f3-49ec-a11c-100fce31fa50" />
+
 <a id="15-02-05-02-s1"></a>
 
 ## 1. 채널
