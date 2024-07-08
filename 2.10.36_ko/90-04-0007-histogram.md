@@ -58,6 +58,27 @@
 
 [15.2.5.3.2. 선형/인지 공간 버튼(Linear/Perceptual Space buttons) - 그림 90.4.7.a111.2.2](./15-02-05-03-02-linear_perceptual_buttons.md#90-04-07-a111-02-02)
 
+<a id="90-04-07-a111-03-01"></a>
+
+#### 그림 90.4.7.a111.3.1. `히스토그램` 대화상자 → `선형/로그 히스토그램 버튼` → `선형 히스토그램 버튼` (Windows) (우리말)
+<img width="200" height="239" alt="90-04-07-a111-03-01" src="https://github.com/wonder13662/gimp/assets/15767104/644314e5-7787-497e-bcf3-394637eda8a9" />
+
+[15.2.5.3.3. 선형/로그 히스토그램 버튼(Linear/Logarithmic buttons) - 그림 90.4.7.a111.3.1](./15-02-05-03-03-linear_logarithmic_buttons.md#90-04-07-a111-03-01)
+
+<a id="90-04-07-a111-03-02"></a>
+
+#### 그림 90.4.7.a111.3.2. `히스토그램` 대화상자 → `선형/로그 히스토그램 버튼` → `로그 히스토그램 버튼` (Windows) (우리말)
+<img width="200" height="239" alt="90-04-07-a111-03-02" src="https://github.com/wonder13662/gimp/assets/15767104/68c8651f-c4a0-4d6b-b693-5b0ee372e9e2" />
+
+[15.2.5.3.3. 선형/로그 히스토그램 버튼(Linear/Logarithmic buttons) - 그림 90.4.7.a111.3.2](./15-02-05-03-03-linear_logarithmic_buttons.md#90-04-07-a111-03-02)
+
+<a id="90-04-07-a111-03-02-01"></a>
+
+#### 영상 90.4.7.a111.3.2.1. `히스토그램` 대화상자 → `선형/로그 히스토그램 버튼` → `로그 히스토그램 버튼` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5fe8cec3-4f46-45f3-b5c9-eba16e172a38"></video>
+
+[15.2.5.3.3. 선형/로그 히스토그램 버튼(Linear/Logarithmic buttons) - 영상 90.4.7.a111.3.2.1](./15-02-05-03-03-linear_logarithmic_buttons.md#90-04-07-a111-03-02-01)
+
 ***
 
 ## 다른 페이지로 가기
