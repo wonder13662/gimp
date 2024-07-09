@@ -3,15 +3,24 @@
 
 <a id="90-01-10-02-10-a101"></a>
 
-#### 그림 90.1.10.2.10.a101. `창` → `실행취소 이력` (Windows)
-![90-01-10-02-10-a101](https://github.com/wonder13662/gimp/assets/15767104/69de469c-0fd6-48bb-ad05-afe85d91740b)
+#### 그림 90.1.10.2.10.a101. `이미지 메뉴 바` → `창` → `실행취소 이력` (Windows)
+<img width="980" height="825" alt="90-01-10-02-10-a101" src="https://github.com/wonder13662/gimp/assets/15767104/5fd0a84a-ee94-4729-b860-62fab03084af" />
 
 [3.3. 실행 취소하기 - 그림 90.1.10.2.10.a101](./03-03-undoing.md#90-01-10-02-10-a101)
 
+[15.2.7.1. 대화상자 활성화하기(Activating the dialog) - 그림 90.1.10.2.10.a101](./15-02-07-01-activating_the_dialog.md#90-01-10-02-10-a101)
+
+<a id="90-01-10-02-10-a101-01"></a>
+
+#### 영상 90.1.10.2.10.a101.1. `이미지 메뉴 바` → `창` → `실행취소 이력` (Windows)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4aea8c7a-1036-41a5-82db-ea7e39e36890"></video>
+
+[15.2.7.1. 대화상자 활성화하기(Activating the dialog) - 영상 90.1.10.2.10.a101.1](./15-02-07-01-activating_the_dialog.md#90-01-10-02-10-a101-01)
+
 <a id="90-01-10-02-10-a102"></a>
 
-#### 그림 90.1.10.2.10.a102. `창` → `실행취소 이력` (Mac)
-![90-01-10-02-10-a102](https://github.com/wonder13662/gimp/assets/15767104/331e0775-f9ca-4bc3-a5ab-35a942fd8a4b)
+#### 그림 90.1.10.2.10.a102. `이미지 메뉴 바` → `창` → `실행취소 이력` (Mac)
+<img width="980" height="845" alt="90-01-10-02-10-a102" src="https://github.com/wonder13662/gimp/assets/15767104/dc89f919-1c16-4a7c-a4b5-25c37294c676" />
 
 ***
 
