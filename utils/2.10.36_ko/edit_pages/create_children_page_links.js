@@ -113,4 +113,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }      
 }
-doAsyncJob('15-02-06-02-03-00-buttons.md');
+doAsyncJob('15-02-07-02-00-using_the_undo_history_dialog.md');

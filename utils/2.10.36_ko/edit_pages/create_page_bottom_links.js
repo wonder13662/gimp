@@ -143,4 +143,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('15-02-06-02-03-06-reduce_image_window_to_image_display.md');
+doAsyncJob('15-02-07-02-03-clear_undo_history.md');

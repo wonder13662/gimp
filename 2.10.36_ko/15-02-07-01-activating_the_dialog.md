@@ -1,0 +1,19 @@
+# 15.2.7.1. 대화상자 활성화하기(Activating the dialog)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.2.7.2. 실행취소 대화상자 사용하기(Using the Undo History Dialog)](./15-02-07-02-00-using_the_undo_history_dialog.md)
+
+[⬅️ 이전: 15.2.7. 실행취소 이력 대화상자(Undo history dialog)](./15-02-07-00-undo-history-dialog.md)
+
+[⬆️ 위: 15.2.7. 실행취소 이력 대화상자(Undo history dialog)](./15-02-07-00-undo-history-dialog.md)
+
+[⬆️ 위: 15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-undo-dialog.html#idm19005)
