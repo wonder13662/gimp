@@ -125,6 +125,13 @@
 
 [15.2.6.2.3.6. 이미지 화면 크기에 맞게 이미지 창 크기를 줄입니다(Reduce the image window to the size of the image display) - 그림 90.4.9.a101.2.3.6](./15-02-06-02-03-06-reduce_image_window_to_image_display.md#90-04-09-a101-02-03-06)
 
+<a id="90-04-09-a101-02-03-06-01"></a>
+
+#### 영상 90.4.9.a101.2.3.6.1. `내비게이션` 대화상자 → `이미지 화면 크기에 맞게 이미지 창 크기를 줄임` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bef97979-b781-45ed-bc9d-a85b6b9efa76"></video>
+
+[15.2.6.2.3.6. 이미지 화면 크기에 맞게 이미지 창 크기를 줄입니다(Reduce the image window to the size of the image display) - ](./15-02-06-02-03-06-reduce_image_window_to_image_display.md#90-04-09-a101-02-03-06-01)
+
 <a id="90-04-09-a102"></a>
 
 #### 그림 90.4.9.a102. 내비게이션 대화상자 (Windows) (영어)

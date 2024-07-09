@@ -1,4 +1,4 @@
-# 16.5.8. Shrink wrap
+# 16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)
 
 ### [Home](./00-home.md)
 ### [Parent: 16.5. The view menu](./16-05-00-the-view-menu.md)
