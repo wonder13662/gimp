@@ -1137,7 +1137,7 @@ module.exports = {
         '15.2.6. 내비게이션 대화상자'
       ],
       [
-        '15-02-07-undo-history-dialog.md', 
+        '15-02-07-00-undo-history-dialog.md', 
         '15.2.7. 실행취소 이력 대화상자(Undo history dialog)',
         '실행취소 이력 대화상자'
       ],

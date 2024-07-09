@@ -24,7 +24,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.7. 실행취소 이력 대화상자(Undo history dialog)](./15-02-07-undo-history-dialog.md)
+[➡️ 다음: 15.2.7. 실행취소 이력 대화상자(Undo history dialog)](./15-02-07-00-undo-history-dialog.md)
 
 [⬅️ 이전: 15.2.6.2.3.5. 창 전체를 사용할 수 있도록 확대 비율을 조정(Adjust the zoom ratio so that the window is used optimally)](./15-02-06-02-03-05-zoom_optimal_window.md)
 
