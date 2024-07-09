@@ -76,7 +76,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.6.2. 내비게이션 대화상자 사용하기(Using the Navigation dialog)](./15-02-06-02-using_the_navigation_dialog.md)
+[➡️ 다음: 15.2.6.2. 내비게이션 대화상자 사용하기(Using the Navigation dialog)](./15-02-06-02-00-using_the_navigation_dialog.md)
 
 [⬅️ 이전: 15.2.6. 내비게이션 대화상자(Navigation dialog)](./15-02-06-00-navigation-dialog.md)
 

@@ -1,19 +1,13 @@
-# 15.2.6. 내비게이션 대화상자(Navigation dialog)
+# 15.2.6.2. 내비게이션 대화상자 사용하기(Using the Navigation dialog)
 
-<a id="90-04-09-a1"></a>
+<a id="90-04-09-a101"></a>
 
-#### [그림 90.4.9.a1. 내비게이션 대화상자](./90-04-0009-navigation.md#90-04-09-a1)
-<img width="850" height="275" alt="90-04-09-a1" src="https://github.com/wonder13662/gimp/assets/15767104/9bffd157-3300-4929-bb28-dee74a432ece">
-
-`내비게이션` 대화상자는 이미지가 보여질 수 있는 크기보다 확대되어 더 커졌을 때, 이미지를 쉽게 옮길 수 있도록 해줍니다.
+#### [그림 90.4.9.a101. 내비게이션 대화상자 (Windows) (우리말)](./90-04-0009-navigation.md#90-04-09-a101)
+<img width="200" height="170" alt="90-04-09-a101" src="https://github.com/wonder13662/gimp/assets/15767104/6efeec93-b696-477d-931b-d6f412c451dc" />
 
 ***
 
 ## 하위 페이지
-
-[15.2.6.1. 대화상자 활성화하기(Activating the dialog)](./15-02-06-01-activating_the_dialog.md)
-
-[15.2.6.2. 내비게이션 대화상자 사용하기(Using the Navigation dialog)](./15-02-06-02-00-using_the_navigation_dialog.md)
 
 [15.2.6.2.1. 미리보기(Preview)](./15-02-06-02-01-preview.md)
 
@@ -37,9 +31,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.6.1. 대화상자 활성화하기(Activating the dialog)](./15-02-06-01-activating_the_dialog.md)
+[➡️ 다음: 15.2.6.2.1. 미리보기(Preview)](./15-02-06-02-01-preview.md)
 
-[⬅️ 이전: 15.2.5.3.5. 통계(Statistics)](./15-02-05-03-05-statistics.md)
+[⬅️ 이전: 15.2.6.1. 대화상자 활성화하기(Activating the dialog)](./15-02-06-01-activating_the_dialog.md)
+
+[⬆️ 위: 15.2.6. 내비게이션 대화상자(Navigation dialog)](./15-02-06-00-navigation-dialog.md)
 
 [⬆️ 위: 15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
 
@@ -47,4 +43,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-navigation-dialog.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-navigation-dialog.html#idm18955)
