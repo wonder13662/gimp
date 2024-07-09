@@ -1,6 +1,7 @@
 # 16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)
 
-### [Home](./00-home.md)
-### [Parent: 16.5. The view menu](./16-05-00-the-view-menu.md)
-### [Prev: 16.5.7. Center image in window](./16-05-07-center-image-in-window.md)
-### [Next: 16.5.9. Full screen](./16-05-09-full-screen.md)
+***
+
+## 관련 정보
+
+[15.2.6.2.3.6. 이미지 화면 크기에 맞게 이미지 창 크기를 줄입니다(Reduce the image window to the size of the image display)](./15-02-06-02-03-06-reduce_image_window_to_image_display.md)

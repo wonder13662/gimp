@@ -16,6 +16,12 @@
 
 ***
 
+## 관련 정보
+
+[16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)](./16-05-08-shrink-wrap.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 15.2.7. 실행취소 이력 대화상자(Undo history dialog)](./15-02-07-undo-history-dialog.md)
