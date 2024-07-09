@@ -1,16 +1,37 @@
 # 90.4.10. 실행취소 이력(Undo History)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
 
 <a id="90-04-10-a1"></a>
 
 #### 그림 90.4.10.a1. `실행취소 이력` 대화상자
-![90-04-10-a1](https://github.com/wonder13662/gimp/assets/15767104/351ada2a-1b19-4105-803c-abeff657ee07)
+<img width="850" height="352" alt="90-04-10-a1" src="https://github.com/wonder13662/gimp/assets/15767104/32301e54-dd05-42fc-bc69-7c1182f5ae0a" />
 
 [3.3. 실행 취소하기 - 그림 90.4.10.a1](./03-03-undoing.md#90-04-10-a1)
 
 [13.1.2. 플러그인 사용하기(Using Plugins) - 그림 90.4.10.a1](./13-01-02-using_plugins.md#90-04-10-a1)
 
-[13.2.3. 해야할 것과 하지 말아야 할 것(Do's and don'ts)](./13-02-03-do-s-and-don-ts.md#90-04-10-a1)
+[13.2.3. 해야할 것과 하지 말아야 할 것(Do's and don'ts) - 그림 90.4.10.a1](./13-02-03-do-s-and-don-ts.md#90-04-10-a1)
+
+[15.2.7. 실행취소 이력 대화상자(Undo history dialog) - 그림 90.4.10.a1](./15-02-07-00-undo-history-dialog.md#90-04-10-a1)
+
+<a id="90-04-10-a101"></a>
+
+#### 그림 90.4.10.a101. `실행취소 이력` 대화상자 (Windows) (우리말)
+<img width="200" height="248" alt="90-04-10-a101" src="https://github.com/wonder13662/gimp/assets/15767104/21c0d751-e989-413d-bdfd-3e9ae4277306" />
+
+<a id="90-04-10-a102"></a>
+
+#### 그림 90.4.10.a102. `실행취소 이력` 대화상자 (Windows) (영어)
+<img width="200" height="248" alt="90-04-10-a102" src="https://github.com/wonder13662/gimp/assets/15767104/4d434c2c-7a15-41ee-8b3e-30f10bb5aeb6" />
+
+<a id="90-04-10-a103"></a>
+
+#### 그림 90.4.10.a103. `실행취소 이력` 대화상자 (Mac) (우리말)
+<img width="200" height="205" alt="90-04-10-a103" src="https://github.com/wonder13662/gimp/assets/15767104/52dc7e89-f4ad-434f-bad6-c91498540611" />
+
+<a id="90-04-10-a104"></a>
+
+#### 그림 90.4.10.a104. `실행취소 이력` 대화상자 (Mac) (영어)
+<img width="200" height="205" alt="90-04-10-a104" src="https://github.com/wonder13662/gimp/assets/15767104/f5015ac0-46bf-4b9e-8715-a4c6bff969bf" />
 
 ***
 

@@ -1,5 +1,10 @@
 # 15.2.7. 실행취소 이력 대화상자(Undo history dialog)
 
+<a id="90-04-10-a1"></a>
+
+#### [그림 90.4.10.a1. 실행취소 이력 대화상자](./90-04-0010-undo_history.md#90-04-10-a1)
+<img width="850" height="352" alt="90-04-10-a1" src="https://github.com/wonder13662/gimp/assets/15767104/32301e54-dd05-42fc-bc69-7c1182f5ae0a" />
+
 ***
 
 ## 하위 페이지
