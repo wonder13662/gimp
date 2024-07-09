@@ -97,6 +97,13 @@
 
 [15.2.6.2.3.4. 이미지 전체가 보이게 확대 비율을 조정(Adjust the zoom ratio so that the image becomes fully visible) - 그림 90.4.9.a101.2.3.4](./15-02-06-02-03-04-zoom_full_visible_image.md#90-04-09-a101-02-03-04)
 
+<a id="90-04-09-a101-02-03-04-01"></a>
+
+#### 영상 90.4.9.a101.2.3.4.1. `내비게이션` 대화상자 → `이미지 전체가 보이게 확대 비율을 조정` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/98707ab2-9127-4bba-9cfb-25472ffb9633"></video>
+
+[15.2.6.2.3.4. 이미지 전체가 보이게 확대 비율을 조정(Adjust the zoom ratio so that the image becomes fully visible) - 영상 90.4.9.a101.2.3.4.1](./15-02-06-02-03-04-zoom_full_visible_image.md#90-04-09-a101-02-03-04-01)
+
 <a id="90-04-09-a101-02-03-05"></a>
 
 #### 그림 90.4.9.a101.2.3.5. `내비게이션` 대화상자 → `창 전체를 사용할 수 있도록 확대 비율을 조정` (Windows) (우리말)
