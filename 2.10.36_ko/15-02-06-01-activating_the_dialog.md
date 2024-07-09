@@ -1,5 +1,50 @@
 # 15.2.6.1. 대화상자 활성화하기(Activating the dialog)
 
+`내비게이션` 대화상자는 도킹이 가능한 대화상자입니다. 도킹에 대해서는 [3.2.5. 대화상자(Dialog)와 도킹(docking)](./03-02-05-00-dialogs-and-docking.md)을 참고해주세요.
+
+아래와 같은 방법으로 `내비게이션` 대화상자를 활성화할 수 있습니다.
+
+<a id="15-02-06-01-s1"></a>
+
+## 1. `이미지 메뉴 바` → `창` → `도킹가능한 대화` → `내비게이션`
+
+<a id="90-01-10-02-09-a101"></a>
+
+#### [그림 90.1.10.2.9.a101. `이미지 메뉴 바` → `창` → `내비게이션` (Windows)](./90-01-10-02-09-navigation.md#90-01-10-02-09-a101)
+<img width="980" height="825" alt="90-01-10-02-09-a101" src="https://github.com/wonder13662/gimp/assets/15767104/455a38b5-4342-4af7-83be-b4e132bfc701" />
+
+<a id="90-01-10-02-09-a101-01"></a>
+
+#### [영상 90.1.10.2.9.a101.1. `이미지 메뉴 바` → `창` → `내비게이션` (Windows) (우리말)](./90-01-10-02-09-navigation.md#90-01-10-02-09-a101-01)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ee9f588d-1d06-4822-8a35-8e8dfca06f8f"></video>
+
+<a id="15-02-06-01-s2"></a>
+
+## 2. `대화상자` → `탭 메뉴` → `탭 추가` → `내비게이션`
+
+<a id="90-05-16-01-09-a1"></a>
+
+#### [그림 90.5.16.1.9.a1. `대화상자` → `탭 메뉴` → `탭 추가` → `내비게이션` (Windows) (우리말)](./90-05-16-01-09-navigation.md#90-05-16-01-09-a1)
+<img width="358" height="754" alt="90-05-16-01-09-a1" src="https://github.com/wonder13662/gimp/assets/15767104/5486892f-cd41-4e53-bc6c-a17bba983b4a" />
+
+<a id="90-05-16-01-09-a1-01"></a>
+
+#### [영상 90.5.16.1.9.a1.1. `대화상자` → `탭 메뉴` → `탭 추가` → `내비게이션` (Windows) (우리말)](./90-05-16-01-09-navigation.md#90-05-16-01-09-a1-01)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/a6b00456-443f-44de-a06f-9804aebb6a98"></video>
+
+<a id="15-02-06-01-s3"></a>
+
+## 3. `이미지 메뉴 바` → `보기` → `내비게이션 창`
+
+<a id="90-01-04-09-a1"></a>
+
+#### [그림 90.1.4.9.a1. `이미지 메뉴 바` → `보기` → `내비게이션 창`](./90-01-04-09-navigation_window.md#90-01-04-09-a1)
+<img width="980" height="688" alt="90-01-04-09-a1" src="https://github.com/wonder13662/gimp/assets/15767104/7b56c675-9b5a-4456-8318-0ccbe470c06d" />
+
+<a id="90-01-04-09-a1-01"></a>
+
+#### [영상 90.1.4.9.a1.1. `이미지 메뉴 바` → `보기` → `내비게이션 창`](./90-01-04-09-navigation_window.md#90-01-04-09-a1-01)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/711ce7f6-5182-4014-8b23-64832cc5480c"></video>
 
 ***
 
