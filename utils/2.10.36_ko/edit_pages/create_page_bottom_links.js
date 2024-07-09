@@ -143,4 +143,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('15-02-06-02-03-01-zoom_out.md');
+doAsyncJob('15-02-06-02-03-02-zoom_in.md');
