@@ -5,6 +5,8 @@
 #### [그림 90.4.9.a101. 내비게이션 대화상자 (Windows) (우리말)](./90-04-0009-navigation.md#90-04-09-a101)
 <img width="200" height="170" alt="90-04-09-a101" src="https://github.com/wonder13662/gimp/assets/15767104/6efeec93-b696-477d-931b-d6f412c451dc" />
 
+[다른 운영체제와 언어의 `내비게이션` 대화상자 확인하기](./90-04-0009-navigation.md#90-04-09-a102)
+
 ***
 
 ## 하위 페이지
