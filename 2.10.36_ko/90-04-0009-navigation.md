@@ -111,6 +111,13 @@
 
 [15.2.6.2.3.5. 창 전체를 사용할 수 있도록 확대 비율을 조정(Adjust the zoom ratio so that the window is used optimally) - 그림 90.4.9.a101.2.3.5](./15-02-06-02-03-05-zoom_optimal_window.md#90-04-09-a101-02-03-05)
 
+<a id="90-04-09-a101-02-03-05-01"></a>
+
+#### 영상 90.4.9.a101.2.3.5.1. `내비게이션` 대화상자 → `창 전체를 사용할 수 있도록 확대 비율을 조정` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8d19b245-ed2e-480b-b727-107a72338f94"></video>
+
+[15.2.6.2.3.5. 창 전체를 사용할 수 있도록 확대 비율을 조정(Adjust the zoom ratio so that the window is used optimally) - 영상 90.4.9.a101.2.3.5.1](./15-02-06-02-03-05-zoom_optimal_window.md#90-04-09-a101-02-03-05-01)
+
 <a id="90-04-09-a101-02-03-06"></a>
 
 #### 그림 90.4.9.a101.2.3.6. `내비게이션` 대화상자 → `이미지 화면 크기에 맞게 이미지 창 크기를 줄임` (Windows) (우리말)

@@ -143,4 +143,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('15-02-06-02-03-04-zoom_full_visible_image.md');
+doAsyncJob('15-02-06-02-03-05-zoom_optimal_window.md');
