@@ -143,4 +143,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('90-10-45-03-01-move_preview_horizontally.md');
+doAsyncJob('15-02-06-02-03-01-zoom_out.md');
