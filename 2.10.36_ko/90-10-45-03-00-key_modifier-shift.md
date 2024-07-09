@@ -1,4 +1,4 @@
-# 90.10.44.3. Shift(⇧): 동작 변경키(Key modifiers)
+# 90.10.45.3. Shift(⇧): 동작 변경키(Key modifiers)
 
 ***
 

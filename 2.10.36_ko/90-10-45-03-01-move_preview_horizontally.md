@@ -13,9 +13,9 @@
 
 [➡️ 다음: 90.90. 개념(Concept)](./90-90-00-concept.md)
 
-[⬅️ 이전: 90.10.44.3. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-45-03-00-key_modifier-shift.md)
+[⬅️ 이전: 90.10.45.3. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-45-03-00-key_modifier-shift.md)
 
-[⬆️ 위: 90.10.44.3. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-45-03-00-key_modifier-shift.md)
+[⬆️ 위: 90.10.45.3. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-45-03-00-key_modifier-shift.md)
 
 [⬆️ 위: 90.10.45. `대화상자` → `내비게이션`](./90-10-45-00-dialog-navigation.md)
 
