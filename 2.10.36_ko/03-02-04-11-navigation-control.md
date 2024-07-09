@@ -43,6 +43,12 @@
 
 ***
 
+## 관련 정보
+
+[15.2.6. 내비게이션 대화상자(Navigation dialog)](./15-02-06-00-navigation-dialog.md)
+
+***
+
 ## 다른 페이지로 가기
 [➡️ 다음: 3.2.4.12. 비활성 여백 공간 (Inactive Padding Area)](./03-02-04-12-inactive-padding-area.md)
 
