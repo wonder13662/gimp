@@ -14,6 +14,8 @@
 
 [3.2.4.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a102](./03-02-04-11-navigation-control.md#90-05-11-a102)
 
+[15.2.6.1. 대화상자 활성화하기(Activating the dialog) - 그림 90.5.11.a102](./15-02-06-01-activating_the_dialog.md#90-05-11-a102)
+
 <a id="90-05-11-a103"></a>
 
 #### 그림 90.5.11.a103. 내비게이션 버튼의 모양
@@ -21,12 +23,16 @@
 
 [3.2.4.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a103](./03-02-04-11-navigation-control.md#90-05-11-a103)
 
+[15.2.6.1. 대화상자 활성화하기(Activating the dialog) - 그림 90.5.11.a103](./15-02-06-01-activating_the_dialog.md#90-05-11-a103)
+
 <a id="90-05-11-a121"></a>
 
 #### 그림 90.5.11.a121. 내비게이션 미리보기로 이미지의 다른 부분으로 옮기기
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b3082a40-da2a-4105-9f6b-8f0657354098"></video>
 
 [3.2.4.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a121](./03-02-04-11-navigation-control.md#90-05-11-a121)
+
+[15.2.6.1. 대화상자 활성화하기(Activating the dialog) - 그림 90.5.11.a121](./15-02-06-01-activating_the_dialog.md#90-05-11-a121)
 
 <a id="90-05-11-a131"></a>
 

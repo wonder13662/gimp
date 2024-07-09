@@ -46,6 +46,26 @@
 #### [영상 90.1.4.9.a1.1. `이미지 메뉴 바` → `보기` → `내비게이션 창`](./90-01-04-09-navigation_window.md#90-01-04-09-a1-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/711ce7f6-5182-4014-8b23-64832cc5480c"></video>
 
+<a id="15-02-06-01-s4"></a>
+
+## 4. `이미지 창` → `내비게이션`
+이 방식으로 내비게이션의 기능을 더 빨리 쓸 수 있습니다. 하지만, `내비게이션` 대화상자를 열지 않습니다.
+
+<a id="90-05-11-a102"></a>
+
+#### [그림 90.5.11.a102. (11)내비게이션의 위치 (단일창)](./90-05-11-navigation_control.md#90-05-11-a102)
+![90-05-11-a102](https://github.com/wonder13662/gimp/assets/15767104/935fc9e0-5267-4994-98fa-873daedc9463)
+
+<a id="90-05-11-a103"></a>
+
+#### [그림 90.5.11.a103. 내비게이션 버튼의 모양](./90-05-11-navigation_control.md#90-05-11-a103)
+![90-05-11-a103](https://github.com/wonder13662/gimp/assets/15767104/6c9cd4a7-8fd1-4d6c-8f0e-6db56f821508)
+
+<a id="90-05-11-a121"></a>
+
+#### [그림 90.5.11.a121. 내비게이션 미리보기로 이미지의 다른 부분으로 옮기기](./90-05-11-navigation_control.md#90-05-11-a121)
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/b3082a40-da2a-4105-9f6b-8f0657354098"></video>
+
 ***
 
 ## 다른 페이지로 가기
