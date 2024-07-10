@@ -60,7 +60,7 @@ const doAsyncJob = async (targetPage) => {
     ].join('\n'))
 
     // 3. 하위(자식) 페이지 찾기
-    // 3-1. 대상 페이지의 다음 페이지부터 최대 100 페이지까지 자식 페이지 여부 검사
+    // 3-1. 대상 페이지의 다음 페이지부터 최대 ${range} 페이지까지 자식 페이지 여부 검사
     const range = 50
     const max = targetPageIdx + range > files.length ? files.length : targetPageIdx + range
     const childrenPageIndexList = []
@@ -113,4 +113,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }      
 }
-doAsyncJob('03-02-05-02-00-tab-menu.md');
+doAsyncJob('90-10-00-keyboard_shortcut.md');

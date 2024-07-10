@@ -1,5 +1,9 @@
 # 90.10. 키보드 단축키(Keyboard Shortcut)
 
+***
+
+## 하위 페이지
+
 [90.10.1. `도구상자` → `사각 선택`](./90-10-01-00-tool_box-rectangle_select.md)
 
 [90.10.1.1. 키보드 단축키](./90-10-01-01-00-keyboard_shortcut.md)
@@ -176,11 +180,11 @@
 
 [90.10.7.8.4. `{`, `}` 키로 붓 크기 바꾸기](./90-10-07-08-04-adjust_brush_size-curly_bracket_key.md)
 
-[90.10.8. `영역 채우기붓` 도구](./90-10-08-00-tool_box-bucket_fill.md)
+[90.10.8. `도구상자` → `영역 채우기`](./90-10-08-00-tool_box-bucket_fill.md)
 
 [90.10.8.1. 키보드 단축키](./90-10-08-01-00-keyboard_shortcut.md)
 
-[90.10.8.1.1. 키보드 단축키 Shift(⇧) + `B`](./90-10-08-01-00-keyboard_shortcut.md)
+[90.10.8.1.1. 키보드 단축키 Shift(⇧) + `B`](./90-10-08-01-01-shift_b.md)
 
 [90.10.8.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-08-02-00-key_modifier-ctrl.md)
 
@@ -388,7 +392,7 @@
 
 [90.10.22.2. Shift(⇧):동작 변경키(Key modifiers)](./90-10-22-02-00-key_modifier-shift.md)
 
-[90.10.22.2.1. 여러 개의 레이어 선택하기](./90-10-22-02-01-select_multiple_layers.md)
+[90.10.22.2.1. 여러 개의 소스 레이어 선택하기](./90-10-22-02-01-select_multiple_layers.md)
 
 [90.10.23. `도구상자` → `이동`](./90-10-23-00-tool_box-move.md)
 
@@ -404,6 +408,12 @@
 
 [90.10.23.3.1. `도구 옵션` → `이동` → `이동` → `선택`으로 변경](./90-10-23-03-01-switch_to_move_selection.md)
 
+[90.10.23.4. Shift(⇧):동작 변경키(Key modifiers)](./90-10-23-04-00-key_modifier-shift.md)
+
+[90.10.23.4.1. `이동할 레이어나 안내선 선택` 옵션과 `현재 레이어 이동` 옵션 전환](./90-10-23-04-01-toggle_pick_a_layer_or_guide_option_n_move_the_active_layer.md)
+
+[90.10.23.4.2. 25픽셀씩 이동](./90-10-23-04-02-move_by_25pixels.md)
+
 [90.10.24. `도구상자` → `잘라내기`](./90-10-24-00-tool_box-crop.md)
 
 [90.10.24.1. 키보드 단축키](./90-10-24-01-00-keyboard_shortcut.md)
@@ -418,7 +428,7 @@
 
 [90.10.24.3.1. `도구 옵션` → `잘라내기` → `고정` 켜기/끄기](./90-10-24-03-01-switch_to_fixed.md)
 
-[90.10.24.4.2. 25픽셀씩 이동](./90-10-24-03-02-move_by_25pixels.md)
+[90.10.24.3.2. 25픽셀씩 이동](./90-10-24-03-02-move_by_25pixels.md)
 
 [90.10.25. `도구상자` → `회전`](./90-10-25-00-tool_box-rotate.md)
 
@@ -432,7 +442,7 @@
 
 [90.10.26. `도구상자` → `크기 조정`](./90-10-26-00-tool_box-scale.md)
 
-[90.10.26.1. 키보드 단축키](./90-10-25-01-00-keyboard_shortcut.md)
+[90.10.26.1. 키보드 단축키](./90-10-26-01-00-keyboard_shortcut.md)
 
 [90.10.26.1.1. 키보드 단축키 Shift(⇧) + `S`](./90-10-26-01-01-shift_s.md)
 
@@ -458,13 +468,13 @@
 
 [90.10.29. `도구상자` → `3차원 변형`](./90-10-29-00-tool_box-3d_transform.md)
 
-[90.10.29.1. 키보드 단축키](./90-10-28-01-00-keyboard_shortcut.md)
+[90.10.29.1. 키보드 단축키](./90-10-29-01-00-keyboard_shortcut.md)
 
 [90.10.29.1.1. 키보드 단축키 Shift(⇧) + `W`](./90-10-29-01-01-shift_w.md)
 
 [90.10.29.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-29-02-00-key_modifier-ctrl.md)
 
-[90.10.29.2.1. `도구 옵션` → `3차원 변형` → `Z 축`: Ctrl(⌘)](./90-10-29-02-01-z_axis.md)
+[90.10.29.2.1. `도구 옵션` → `3차원 변형` → `Z축`: Ctrl(⌘)](./90-10-29-02-01-z_axis.md)
 
 [90.10.29.3. Alt(⌥):동작 변경키(Key modifiers)](./90-10-29-03-00-key_modifier-alt.md)
 
@@ -482,7 +492,7 @@
 
 [90.10.30.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-30-02-00-key_modifier-ctrl.md)
 
-[90.10.30.2.1. `도구 옵션` → `통합 변형` → `Z 축`: Ctrl(⌘)](./90-10-30-02-01-toggle_from_pivot.md)
+[90.10.30.2.1. `도구 옵션` → `통합 변형` → `From Pivot`: Ctrl(⌘)](./90-10-30-02-01-toggle_from_pivot.md)
 
 [90.10.30.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-30-03-00-key_modifier-shift.md)
 
@@ -510,7 +520,7 @@
 
 [90.10.32.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-32-02-00-key_modifier-ctrl.md)
 
-[90.10.32.2.1. Ctrl(⌘): 핸들 제거](./90-10-32-02-01-toggle_direction.md)
+[90.10.32.2.1. Ctrl(⌘): `도구 옵션` → `뒤집기` → `방향` 전환하기](./90-10-32-02-01-toggle_direction.md)
 
 [90.10.33. `도구상자` → `골조 변형`](./90-10-33-00-tool_box-cage_transformation.md)
 
@@ -544,6 +554,8 @@
 
 [90.10.35.2.6. Ctrl(⌘): 경로를 선택에서 빼기](./90-10-35-02-06-subtract_path_from_selection.md)
 
+[90.10.35.2.7. Ctrl(⌘) + Shift(⇧): 경로와 선택을 교차하기](./90-10-35-02-07-intersect_path_n_selection.md)
+
 [90.10.35.3. Alt(⌥):동작 변경키(Key modifiers)](./90-10-35-03-00-key_modifier-alt.md)
 
 [90.10.35.3.1. Ctrl(⌘) + Alt(⌥): 여러 개의 노드 옮기기](./90-10-35-03-01-move_nodes.md)
@@ -566,7 +578,7 @@
 
 [90.10.36.2. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-36-02-00-key_modifier-shift.md)
 
-[90.10.36.2.1. Shift(⇧): 색상 추출 정보창 열기](./90-10-36-02-01-open_color_picker_info_window.md)
+[90.10.36.2.1. Shift(⇧): `도구 옵션` → `색상 추출` → `정보 창 사용` 옵션 켜기](./90-10-36-02-01-open_color_picker_info_window.md)
 
 [90.10.37. `도구상자` → `확대/축소`](./90-10-37-00-tool_box-zoom.md)
 
@@ -630,11 +642,103 @@
 
 [90.10.40.4. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-40-04-00-key_modifier-shift.md)
 
-[90.10.40.4.1. 레이어 가시성 전환(Toggle Layer Visibility)](./90-10-40-04-01-toggle_visibility.md)
+[90.10.40.4.1. Shift(⇧): 레이어 가시성 전환(Toggle Layer Visibility)](./90-10-40-04-01-toggle_visibility.md)
 
-[90.10.40.4.2. 레이어 연결고리 전환(Toggle Layer Visibility)](./90-10-40-04-02-toggle_linkage.md)
+[90.10.40.4.2. Shift(⇧): 레이어 연결고리 전환(Toggle Layer Visibility)](./90-10-40-04-02-toggle_linkage.md)
 
 [90.10.40.4.3. Shift(⇧): 새 레이어 대화상자의 마지막 설정된 값으로 새 레이어 만들기(Toggle Layer Visibility)](./90-10-40-04-03-open_new_layer_dialog_with_last_used_values.md)
+
+[90.10.40.4.4. Shift(⇧): 활성화된 레이어를 목록 가장 위로 이동](./90-10-40-04-04-raise_layer_to_the_top.md)
+
+[90.10.40.4.5. Shift(⇧): 활성화된 레이어를 목록 가장 아래로 이동](./90-10-40-04-05-lower_layer_to_the_top.md)
+
+[90.10.40.4.6. Shift(⇧): 레이어 그룹 안의 모든 레이어를 합침](./90-10-40-04-06-merge_layers_in_layer_group.md)
+
+[90.10.40.4.7. Ctrl(⌃) + Shift(⇧): 모든 레이어를 `레이어 합치기` 대화상자의 마지막 설정값으로 합침](./90-10-40-04-07-merge_all_visible_layers_with_last_used_values.md)
+
+[90.10.41. `대화상자` → `채널`](./90-10-41-00-dialog-channel.md)
+
+[90.10.41.1. Ctrl(⌘): 동작 변경키(Key modifiers)](./90-10-41-01-00-key_modifier-ctrl.md)
+
+[90.10.41.1.1. Ctrl(⌘): 활성화된 `선택 마스크 채널`을 선택으로 바꿔 활성화된 선택에서 빼기](./90-10-41-01-01-transform_channel_to_subtracting_selection.md)
+
+[90.10.41.1.2. Shift(⇧) + Ctrl(⌘): 활성화된 `선택 마스크 채널`을 선택으로 바꿔 활성화된 선택에서 교차하기](./90-10-41-01-02-transform_channel_to_interasecting_selection.md)
+
+[90.10.41.2. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-41-02-00-key_modifier-shift.md)
+
+[90.10.41.2.1. Shift(⇧): 마지막 설정값으로 새 채널 만들기](./90-10-41-02-01-new_channel_with_last_used_values.md)
+
+[90.10.41.2.2. Shift(⇧): 활성화된 `선택 마스크 채널`을 목록 가장 위로 이동](./90-10-41-02-02-raise_channel_to_the_top.md)
+
+[90.10.41.2.3. Shift(⇧): 활성화된 `선택 마스크 채널`을 목록 가장 아래로 이동](./90-10-41-02-03-lower_channel_to_the_top.md)
+
+[90.10.41.2.4. Shift(⇧): 활성화된 `선택 마스크 채널`을 선택으로 바꿔 활성화된 선택에 더하기](./90-10-41-02-04-transform_channel_to_adding_selection.md)
+
+[90.10.42. `대화상자` → `퀵 마스크`](./90-10-42-00-dialog-quick_mask.md)
+
+[90.10.42.1. 키보드 단축키](./90-10-42-01-00-keyboard_shortcut.md)
+
+[90.10.42.1.1. `대화상자` → `퀵 마스크`: 키보드 단축키 Shift(⇧) + `Q`](./90-10-42-01-01-shift_q.md)
+
+[90.10.43. `대화상자` → `경로`](./90-10-43-00-dialog-path.md)
+
+[90.10.43.1. Ctrl(⌘): 동작 변경키(Key modifiers)](./90-10-43-01-00-key_modifier-ctrl.md)
+
+[90.10.43.1.1. Ctrl(⌘): 활성화된 `경로`를 선택으로 바꿔 활성화된 선택에서 빼기](./90-10-43-01-01-transform_path_to_subtracting_selection.md)
+
+[90.10.43.1.2. Shift(⇧) + Ctrl(⌘): 활성화된 `경로`를 선택으로 바꿔 활성화된 선택에서 교차하기](./90-10-43-01-02-transform_path_to_interasecting_selection.md)
+
+[90.10.43.2. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-43-02-00-key_modifier-shift.md)
+
+[90.10.43.2.1. Shift(⇧): 마지막 설정값으로 새 경로 만들기](./90-10-43-02-01-new_path_with_last_used_values.md)
+
+[90.10.43.2.2. Shift(⇧): 활성화된 `경로`를 목록 가장 위로 이동](./90-10-43-02-02-raise_path_to_the_top.md)
+
+[90.10.43.2.3. Shift(⇧): 활성화된 `경로`를 목록 가장 아래로 이동](./90-10-43-02-03-lower_path_to_the_top.md)
+
+[90.10.43.2.4. Shift(⇧): 활성화된 `경로`를 선택으로 바꿔 활성화된 선택에 더하기](./90-10-43-02-04-transform_path_to_adding_selection.md)
+
+[90.10.43.2.5. Shift(⇧): 선택을 경로로 바꿀 때의 고급 옵션 대화상자 열기](./90-10-43-02-05-selection_to_path_advanced_option.md)
+
+[90.10.43.2.6. Shift(⇧): 마지막 설정값으로 경로 따라 그리기](./90-10-43-02-06-paint_along_the_path_with_last_used_values.md)
+
+[90.10.44. `대화상자` → `색상표`](./90-10-44-00-dialog-colormap.md)
+
+[90.10.44.1. Ctrl(⌘): 동작 변경키(Key modifiers)](./90-10-44-01-00-key_modifier-ctrl.md)
+
+[90.10.44.1.1. Ctrl(⌘): 배경색 설정하기](./90-10-44-01-01-set_background_color.md)
+
+[90.10.44.1.2. Ctrl(⌘): 배경색을 색상표에 추가하기](./90-10-44-01-02-add_background_color_to_color_map.md)
+
+[90.10.44.1.3. Ctrl(⌘): 선택한 색의 선택 영역을 활성화 선택 영역에서 빼기](./90-10-44-01-03-subtract_from_selection.md)
+
+[90.10.44.2. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-44-02-00-key_modifier-shift.md)
+
+[90.10.44.2. Shift(⇧): 선택한 색의 선택 영역을 활성화 선택 영역에 더하기](./90-10-44-02-01-add_to_selection.md)
+
+[90.10.44.2.2. Shift(⇧) + Ctrl(⌘): 선택한 색의 선택 영역과 활성화 선택 영역을 교차하기](./90-10-44-02-02-intersect_with_selection.md)
+
+[90.10.45. `대화상자` → `내비게이션`](./90-10-45-00-dialog-navigation.md)
+
+[90.10.45.1. Ctrl(⌘): 동작 변경키(Key modifiers)](./90-10-45-01-00-key_modifier-ctrl.md)
+
+[90.10.45.1.1. Ctrl(⌘): 마우스 휠로 슬라이더 값 바꾸기](./90-10-45-01-01-change_slider.md)
+
+[90.10.45.2. Alt(⌥): 동작 변경키(Key modifiers)](./90-10-45-02-00-key_modifier-alt.md)
+
+[90.10.45.2.1. Alt(⌥): 마우스 휠로 미리보기를 수직으로 이동](./90-10-45-02-01-move_preview_vertically.md)
+
+[90.10.45.3. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-45-03-00-key_modifier-shift.md)
+
+[90.10.45.3.1. Shift(⇧): 마우스 휠로 미리보기를 수평으로 이동](./90-10-45-03-01-move_preview_horizontally.md)
+
+[90.10.46. `대화상자` → `실행취소 이력`](./90-10-46-00-dialog-undo_history.md)
+
+[90.10.46.1. Ctrl(⌘): 동작 변경키(Key modifiers)](./90-10-46-01-00-key_modifier-ctrl.md)
+
+[90.10.46.1. Ctrl(⌘) + `Z`: 실행취소(Undo)](./90-10-46-01-01-undo.md)
+
+[90.10.46.1.2. Ctrl(⌘) + `Y`: 실행취소 되돌리기](./90-10-46-01-02-redo.md)
 
 ***
 

@@ -102,7 +102,7 @@
 <a id="90-01-s2-edit"></a>
 
 ## [90.1.2. 편집(Edit)](./90-01-02-00-edit.md)
-<img width="1080" height="640" alt="90-01-02-a1" src="https://github.com/wonder13662/gimp/assets/15767104/96ce6a03-510f-42c7-b2f7-31c5840bb53d">
+<img width="980" height="601" alt="90-01-02-a1" src="https://github.com/wonder13662/gimp/assets/15767104/bf9c1e66-c77a-43c9-8b5e-c39376658cdc">
 
 [90.1.2.1. 실행 취소(Undo)](./90-01-02-01-undo.md)
 
