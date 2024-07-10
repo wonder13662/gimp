@@ -1,0 +1,21 @@
+# 15.3.1.2.8. HTML 표기법(HTML Notation)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-brushes-dialog.md)
+
+[⬅️ 이전: 15.3.1.2.7. 색상 추출(Color Picker)](./15-03-01-02-07-color_picker.md)
+
+[⬆️ 위: 15.3.1.2. 전경색/배경색 대화상자 사용하기(Using the FG/BG color Dialog)](./15-03-01-02-00-using_the_fg_bg_color_dialog.md)
+
+[⬆️ 위: 15.3.1. 전경색/배경색 대화상자(FG/BG color dialogs)](./15-03-01-00-fg-bg-color-dialogs.md)
+
+[⬆️ 위: 15.3. 이미지 콘텐츠 관련 대화상자(Image content related dialogs)](./15-03-00-image-content-related-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-dialogs-content.html#gimp-colorselector-html)

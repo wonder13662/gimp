@@ -8,7 +8,7 @@
 
 [14.1.3.1. 색상 영역(Color Area) - 1-1. 전경색 색 바꾸기](./14-01-03-01-color_area.md#14-01-03-01-s1-01)
 
-[15.3.1. 전경색/배경색 대화상자(FG/BG color dialogs)](./15-03-01-fg-bg-color-dialogs.md)
+[15.3.1. 전경색/배경색 대화상자(FG/BG color dialogs)](./15-03-01-00-fg-bg-color-dialogs.md)
 
 [90.1.2.14. 전경색으로 채우기(Fill with FG Color)](./90-01-02-14-fill_with_fg_color.md)
 
