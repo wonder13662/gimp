@@ -32,6 +32,13 @@
 
 [3.2.5.2.8. 목록으로 보기/격자로 보기(View as List; View as Grid) - 2-2. 목록 검색하기](./03-02-05-02-08-view_as_list_or_grid.md#03-02-05-02-08-s4)를 참고해주세요.
 
+## 3. 실행취소 이력의 갯수 제한 및 메모리 제한 설정하기
+아래 두 페이지를 참고해주세요.
+
+[12.1.2.1. 자원 소비량(System Resources) - 1. 실행 취소 최소 횟수(Minimal number of undo levels)](./12-01-02-01-resource_consumption.md#90-02-01-s1)
+
+[12.1.2.1. 자원 소비량(System Resources) - 2. 실행 취소 최대 메모리(Maximum undo memory)](./12-01-02-01-resource_consumption.md#90-02-01-s2)
+
 ***
 
 ## 하위 페이지
