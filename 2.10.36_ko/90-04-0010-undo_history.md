@@ -67,6 +67,13 @@
 
 [15.2.7.2.3. 실행취소 이력 지우기(Clear Undo History) - 그림 90.4.10.a101.3.3](./15-02-07-02-03-clear_undo_history.md#90-04-10-a101-03-03)
 
+<a id="90-04-10-a101-03-03-01"></a>
+
+#### 영상 90.4.10.a101.3.3.1. `실행취소 이력` 대화상자 → `이력 지우기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/1cfd7075-5329-4c5d-8981-9f415cbff47a"></video>
+
+[15.2.7.2.3. 실행취소 이력 지우기(Clear Undo History) - 영상 90.4.10.a101.3.3.1](./15-02-07-02-03-clear_undo_history.md#90-04-10-a101-03-03-01)
+
 <a id="90-04-10-a102"></a>
 
 #### 그림 90.4.10.a102. `실행취소 이력` 대화상자 (Windows) (영어)
