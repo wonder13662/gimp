@@ -49,6 +49,16 @@
 
 ***
 
+## 관련 정보
+
+[90.4.120. 글자 색상](./90-04-0120-text_color.md)
+
+[90.4.131. 전경색 바꾸기(Change Foreground Color)](./90-04-0131-change_foreground_color.md)
+
+[90.4.132. 배경색 바꾸기(Change Background Color)](./90-04-0132-change_background_color.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.4.108. 도구 프리셋 편집기(Tool Preset Editor)](./90-04-0108-tool_preset_editor.md)

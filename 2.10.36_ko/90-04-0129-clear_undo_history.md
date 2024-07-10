@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.130. 전경/배경색(FG/BG Color)](./90-04-0130-fg_bg_color.md)
 
 [⬅️ 이전: 90.4.128. 색상표 재배치(Rearrange Colormap)](./90-04-0128-rearrange_color_map.md)
 

@@ -3419,6 +3419,12 @@
 
 [90.4.129. 실행취소 이력 지우기(Clear Undo History)](./90-04-0129-clear_undo_history.md)
 
+[90.4.130. 전경/배경색(FG/BG Color)](./90-04-0130-fg_bg_color.md)
+
+[90.4.131. 전경색 바꾸기(Change Foreground Color)](./90-04-0131-change_foreground_color.md)
+
+[90.4.132. 배경색 바꾸기(Change Background Color)](./90-04-0132-change_background_color.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

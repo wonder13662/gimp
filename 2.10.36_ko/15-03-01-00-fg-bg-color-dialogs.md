@@ -1,5 +1,39 @@
 # 15.3.1. 전경색/배경색 대화상자(FG/BG color dialogs)
 
+<a id="90-04-130-a101"></a>
+
+#### [그림 90.4.130.a101. `전경/배경색` 대화상자 (Windows) (우리말)](./90-04-0130-fg_bg_color.md#90-04-130-a101)
+<img width="200" height="296" alt="90-04-130-a101" src="https://github.com/wonder13662/gimp/assets/15767104/1e8cfe62-38e4-4ea5-a82c-9a9f29856e9d" />
+
+[다른 운영체제와 언어의 `전경/배경색` 대화상자 확인하기](./90-04-0130-fg_bg_color.md#90-04-130-a102)
+
+The Color dialog lets you manage and pick up new colors.
+
+You can use it into five different modes:
+
+- [김프 선택기](./15-03-01-02-01-gimp_selector.md)
+- [CMYK](./15-03-01-02-02-cmyk.md)
+- [삼각형](./15-03-01-02-03-triangle.md)
+- [수채화](./15-03-01-02-04-watercolor.md)
+- [팔레트](./15-03-01-02-05-palette.md)
+- [비율](./15-03-01-02-06-scales.md)
+
+It has an interesting eyedropper to pick up a color anywhere on your screen.
+
+The dialog called from the FG/BG area in the toolbox is a bit different compared to the one called from the image menu:
+
+<a id="90-04-131-a101"></a>
+
+#### [그림 90.4.131.a101. `전경색 바꾸기` 대화상자 (Windows) (우리말)](./90-04-0131-change_foreground_color.md#90-04-131-a101)
+<img width="407" height="376" alt="90-04-131-a101" src="https://github.com/wonder13662/gimp/assets/15767104/a71ce7e2-9b14-4f9d-9434-807f0b4f2821" />
+
+[다른 운영체제와 언어의 `전경색 바꾸기` 대화상자 확인하기](./90-04-0131-change_foreground_color.md#90-04-131-a102)
+
+- The sliders are permanently visible instead of selected from the scale menu
+- Twelve buttons show the last used colors. You may choose a color by clicking on one of these buttons or add the current FG or BG color to this history list.
+
+This dialog works either on the foreground or the background color.
+
 ***
 
 ## 하위 페이지

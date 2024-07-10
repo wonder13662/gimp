@@ -23,6 +23,15 @@
 #### 그림 90.4.120.a104. `글자 색상` 대화상자 (Mac) (영어)
 <img width="400" height="345" alt="90-04-120-a104" src="https://github.com/wonder13662/gimp/assets/15767104/08ebcee0-44f0-4cd4-af9a-6da86359f79b" />
 
+***
+
+## 관련 정보
+
+[90.4.107. 색 바꾸기(Change Color)](./90-04-0107-change_color.md)
+
+[90.4.131. 전경색 바꾸기(Change Foreground Color)](./90-04-0131-change_foreground_color.md)
+
+[90.4.132. 배경색 바꾸기(Change Background Color)](./90-04-0132-change_background_color.md)
 
 ***
 
