@@ -5,6 +5,8 @@
 #### 그림 90.4.132.a101. `배경색 바꾸기` 대화상자 (Windows) (우리말)
 <img width="407" height="376" alt="90-04-132-a101" src="https://github.com/wonder13662/gimp/assets/15767104/51adfcc5-9164-4695-8b55-c7f61bc1996f" />
 
+[19. 용어집 - 배경색(Background Color) - 그림 90.4.132.a101](./19-glossaryx-background_color.md#90-04-132-a101)
+
 <a id="90-04-132-a102"></a>
 
 #### 그림 90.4.132.a102. `배경색 바꾸기` 대화상자 (Windows) (영어)

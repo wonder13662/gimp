@@ -4,7 +4,7 @@
 
 ## 하위 페이지
 
-[15.3.1. 전경색/배경색 대화상자(FG/BG color dialogs)](./15-03-01-00-fg-bg-color-dialogs.md)
+[15.3.1. 전경/배경색 대화상자(FG/BG color dialogs)](./15-03-01-00-fg-bg-color-dialogs.md)
 
 [15.3.1.1. 대화상자 활성화하기(Activating the Dialog)](./15-03-01-01-activating_the_dialog.md)
 
@@ -20,7 +20,7 @@
 
 [15.3.1.2.5. 팔레트(Palette)](./15-03-01-02-05-palette.md)
 
-[15.3.1.2.6. 비율(Scales)](./15-03-01-02-06-scales.md)
+[15.3.1.2.6. 배율(Scales)](./15-03-01-02-06-scales.md)
 
 [15.3.1.2.7. 색상 추출(Color Picker)](./15-03-01-02-07-color_picker.md)
 
@@ -54,7 +54,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.1. 전경색/배경색 대화상자(FG/BG color dialogs)](./15-03-01-00-fg-bg-color-dialogs.md)
+[➡️ 다음: 15.3.1. 전경/배경색 대화상자(FG/BG color dialogs)](./15-03-01-00-fg-bg-color-dialogs.md)
 
 [⬅️ 이전: 15.2.7.2.3. 실행취소 이력 지우기(Clear Undo History)](./15-02-07-02-03-clear_undo_history.md)
 
