@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.129. 실행취소 이력 지우기(Clear Undo History)](./90-04-0129-clear_undo_history.md)
 
 [⬅️ 이전: 90.4.127. 경로를 SVG로 내보내기(Export Path to SVG)](./90-04-0127-export_path_to_svg.md)
 

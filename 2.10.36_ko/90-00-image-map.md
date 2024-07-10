@@ -1466,6 +1466,8 @@
 
 [90.4.128. 색상표 재배치(Rearrange Colormap)](./90-04-0128-rearrange_color_map.md)
 
+[90.4.129. 실행취소 이력 지우기(Clear Undo History)](./90-04-0129-clear_undo_history.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
