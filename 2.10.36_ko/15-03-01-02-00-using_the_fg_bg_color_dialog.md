@@ -1,4 +1,4 @@
-# 15.3.1.2. 전경색/배경색 대화상자 사용하기(Using the FG/BG color Dialog)
+# 15.3.1.2. 전경/배경색 대화상자 사용하기(Using the FG/BG color Dialog)
 
 ***
 

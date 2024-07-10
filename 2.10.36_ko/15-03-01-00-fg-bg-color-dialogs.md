@@ -9,6 +9,8 @@
 
 `전경/배경색` 대화상자에서 [전경색](./19-glossaryx-foreground_color.md)과 [배경색](./19-glossaryx-background_color.md)을 관리하고 새로운 색을 선택할 수 있습니다.
 
+<a comment="전경/배경색 대화상자, 전경색 바꾸기 대화상자, 배경색 바꾸기 대화상자 이렇게 3개가 모두 여기서 같은 대상으로 다루어집니다. 그러므로 이미지 및 내용이 수정되어야 합니다."></a>
+
 <a id="15-03-01-s1"></a>
 
 ## 1. 색상 모드
@@ -86,7 +88,7 @@
 
 [15.3.1.1. 대화상자 활성화하기(Activating the Dialog)](./15-03-01-01-activating_the_dialog.md)
 
-[15.3.1.2. 전경색/배경색 대화상자 사용하기(Using the FG/BG color Dialog)](./15-03-01-02-00-using_the_fg_bg_color_dialog.md)
+[15.3.1.2. 전경/배경색 대화상자 사용하기(Using the FG/BG color Dialog)](./15-03-01-02-00-using_the_fg_bg_color_dialog.md)
 
 [15.3.1.2.1. 김프 선택기(GIMP Selector)](./15-03-01-02-01-gimp_selector.md)
 

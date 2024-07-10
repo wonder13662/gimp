@@ -26,6 +26,11 @@
 
 [다른 운영체제와 언어의 `색 바꾸기` 대화상자 - 전경색 확인하기](./90-04-0107-change_color.md#90-04-107-a102)
 
+<a id="90-04-131-a101-01"></a>
+
+#### [영상 90.4.131.a101.1. `전경색 바꾸기` 대화상자 (Windows) (우리말)](./90-04-0131-change_foreground_color.md#90-04-131-a101-01)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5c314a50-16e6-47c1-a853-39d08d24385b"></video>
+
 <a id="14-01-03-01-s1-02"></a>
 
 ## 1-2. 배경색 색 바꾸기
@@ -41,6 +46,11 @@
 ![90-04-107-a111](https://github.com/wonder13662/gimp/assets/15767104/04b32ad2-aad9-42fa-b821-f23ca1243e70)
 
 [다른 운영체제와 언어의 `색 바꾸기` 대화상자 - 배경색 확인하기](./90-04-0107-change_color.md#90-04-107-a112)
+
+<a id="90-04-132-a101-01"></a>
+
+#### [영상 90.4.132.a101.1. `배경색 바꾸기` 대화상자 (Windows) (우리말)](./90-04-0132-change_background_color.md#90-04-132-a101-01)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d7620922-38ba-40a6-8ae9-6994134e51c3"></video>
 
 <a id="14-01-03-01-s2"></a>
 
@@ -99,6 +109,8 @@
 ## 관련 정보
 
 [7.14.2. 기본 도형 그리기 - 2. 전경색과 배경색 확인](./07-14-02-creating-a-basic-shape.md#07-14-02-s2)
+
+[15.3.1.1. 대화상자 활성화하기(Activating the Dialog)](./15-03-01-01-activating_the_dialog.md)
 
 ***
 

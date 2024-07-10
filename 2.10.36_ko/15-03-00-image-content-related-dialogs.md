@@ -8,7 +8,7 @@
 
 [15.3.1.1. 대화상자 활성화하기(Activating the Dialog)](./15-03-01-01-activating_the_dialog.md)
 
-[15.3.1.2. 전경색/배경색 대화상자 사용하기(Using the FG/BG color Dialog)](./15-03-01-02-00-using_the_fg_bg_color_dialog.md)
+[15.3.1.2. 전경/배경색 대화상자 사용하기(Using the FG/BG color Dialog)](./15-03-01-02-00-using_the_fg_bg_color_dialog.md)
 
 [15.3.1.2.1. 김프 선택기(GIMP Selector)](./15-03-01-02-01-gimp_selector.md)
 

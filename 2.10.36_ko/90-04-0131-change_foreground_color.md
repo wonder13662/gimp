@@ -7,7 +7,18 @@
 
 [15.3.1. 전경/배경색 대화상자(FG/BG color dialogs) - 그림 90.4.131.a101](./15-03-01-00-fg-bg-color-dialogs.md#90-04-131-a101)
 
+[15.3.1.1. 대화상자 활성화하기(Activating the Dialog) - 그림 90.4.131.a101](./15-03-01-01-activating_the_dialog.md#90-04-131-a101)
+
 [19. 용어집 - 전경색(Foreground Color) - 그림 90.4.131.a101](./19-glossaryx-foreground_color.md#90-04-131-a101)
+
+<a id="90-04-131-a101-01"></a>
+
+#### 영상 90.4.131.a101.1. `전경색 바꾸기` 대화상자 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5c314a50-16e6-47c1-a853-39d08d24385b"></video>
+
+[14.1.3.1. 색상 영역(Color Area) - 영상 90.4.131.a101.1](./14-01-03-01-color_area.md#90-04-131-a101-01)
+
+[15.3.1.1. 대화상자 활성화하기(Activating the Dialog) - 영상 90.4.131.a101.1](./15-03-01-01-activating_the_dialog.md#90-04-131-a101-01)
 
 <a id="90-04-131-a102"></a>
 
