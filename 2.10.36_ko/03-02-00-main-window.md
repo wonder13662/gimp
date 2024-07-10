@@ -79,7 +79,7 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 
 [3.2.5.2.7. 탭 스타일(Tab Style)](./03-02-05-02-07-tab_style.md)
 
-[3.2.5.2.8. 목록으로 보기/격자로 보기 (View as List; View as Grid)](./03-02-05-02-08-view_as_list_or_grid.md)
+[3.2.5.2.8. 목록으로 보기/격자로 보기(View as List; View as Grid)](./03-02-05-02-08-view_as_list_or_grid.md)
 
 [3.2.5.2.9. 버튼바 표시(Show Button Bar)](./03-02-05-02-09-show_button_bar.md)
 

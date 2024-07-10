@@ -1,4 +1,4 @@
-# 15.2.7.2. 실행취소 대화상자 사용하기(Using the Undo History Dialog)
+# 15.2.7.2. 실행취소 이력 대화상자 사용하기(Using the Undo History Dialog)
 
 <a id="90-04-10-a101"></a>
 
@@ -7,14 +7,26 @@
 
 [다른 운영체제와 언어의 `실행취소 이력` 대화상자 확인하기](./90-04-0010-undo_history.md#90-04-10-a102)
 
-The most basic thing you can do is to select a point in the Undo History by clicking on it in the list.
+## 1. `실행취소 이력` 사용하기
 
-You can go back and forth between states in this way as much as you please, without losing any information or consuming any resources.
+`실행취소 이력` 대화상자의 목록에서 하나를 클릭하면, 해당 시점의 작업 상태로 돌아갈 수 있습니다.
 
-In most cases, the changes are very fast.
+`실행취소 이력` 대화상자의 목록에서 원하는 만큼 다른 작업 상태로 선택해서 바꿀 수 있습니다.
+
+다만, 이전 작업 상태로 바꾼 뒤, 새로운 작업을 이어서 하면 이전 작업과 마지막 작업 사이의 내용이 사라질 수 있으니 주의하세요.
+
+아래 예시 영상에서 마지막 작업이 [잘라내기](./14-04-04-00-crop.md)에서 [크기 조정](./14-04-06-00-scale.md)으로 이력이 바뀌는 것을 확인할 수 있습니다.
+
+<a id="90-04-10-a101-01"></a>
+
+#### [영상 90.4.10.a101.1. `실행취소 이력` 대화상자: 이전 작업에서 새로운 작업을 진행하기  (Windows) (우리말)](./90-04-0010-undo_history.md#90-04-10-a101-01)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ea8355e7-309d-43c8-aed9-57cc65ad89d5"></video>
 
 ## 1. `실행취소 이력` 검색하기
 
+`실행취소 이력`에 검색 키워드를 입력하여 키워드에 해당하는 작업을 목록에서 검색할 수 있습니다.
+
+[3.2.5.2.8. 목록으로 보기/격자로 보기(View as List; View as Grid) - 2-2. 목록 검색하기](./03-02-05-02-08-view_as_list_or_grid.md#03-02-05-02-08-s4)를 참고해주세요.
 
 ***
 

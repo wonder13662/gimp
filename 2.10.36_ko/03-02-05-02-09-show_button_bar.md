@@ -17,7 +17,7 @@
 
 [➡️ 다음: 3.2.5.2.10. 이미지 선택 표시(Show Image Selection)](./03-02-05-02-10-show_image_selection.md)
 
-[⬅️ 이전: 3.2.5.2.8. 목록으로 보기/격자로 보기 (View as List; View as Grid)](./03-02-05-02-08-view_as_list_or_grid.md)
+[⬅️ 이전: 3.2.5.2.8. 목록으로 보기/격자로 보기(View as List; View as Grid)](./03-02-05-02-08-view_as_list_or_grid.md)
 
 [⬆️ 위: 3.2.5.2. 탭 메뉴 (Tab Menu)](./03-02-05-02-00-tab-menu.md)
 

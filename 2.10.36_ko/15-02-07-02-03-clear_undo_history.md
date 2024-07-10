@@ -8,7 +8,7 @@
 
 [⬅️ 이전: 15.2.7.2.2. 실행취소 되돌리기(Redo)](./15-02-07-02-02-redo.md)
 
-[⬆️ 위: 15.2.7.2. 실행취소 대화상자 사용하기(Using the Undo History Dialog)](./15-02-07-02-00-using_the_undo_history_dialog.md)
+[⬆️ 위: 15.2.7.2. 실행취소 이력 대화상자 사용하기(Using the Undo History Dialog)](./15-02-07-02-00-using_the_undo_history_dialog.md)
 
 [⬆️ 위: 15.2.7. 실행취소 이력 대화상자(Undo history dialog)](./15-02-07-00-undo-history-dialog.md)
 

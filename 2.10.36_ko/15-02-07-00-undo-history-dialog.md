@@ -23,7 +23,7 @@ GIMP(김프)의 실행취소 매커니즘과 어떻게 동작하는지에 대해
 
 [15.2.7.1. 대화상자 활성화하기(Activating the dialog)](./15-02-07-01-activating_the_dialog.md)
 
-[15.2.7.2. 실행취소 대화상자 사용하기(Using the Undo History Dialog)](./15-02-07-02-00-using_the_undo_history_dialog.md)
+[15.2.7.2. 실행취소 이력 대화상자 사용하기(Using the Undo History Dialog)](./15-02-07-02-00-using_the_undo_history_dialog.md)
 
 [15.2.7.2.1. 실행취소(Undo)](./15-02-07-02-01-undo.md)
 

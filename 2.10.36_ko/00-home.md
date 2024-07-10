@@ -86,7 +86,7 @@
 
 [3.2.5.2.7. 탭 스타일(Tab Style)](./03-02-05-02-07-tab_style.md)
 
-[3.2.5.2.8. 목록으로 보기/격자로 보기 (View as List; View as Grid)](./03-02-05-02-08-view_as_list_or_grid.md)
+[3.2.5.2.8. 목록으로 보기/격자로 보기(View as List; View as Grid)](./03-02-05-02-08-view_as_list_or_grid.md)
 
 [3.2.5.2.9. 버튼바 표시(Show Button Bar)](./03-02-05-02-09-show_button_bar.md)
 
@@ -1918,7 +1918,7 @@
 
 [15.2.7.1. 대화상자 활성화하기(Activating the dialog)](./15-02-07-01-activating_the_dialog.md)
 
-[15.2.7.2. 실행취소 대화상자 사용하기(Using the Undo History Dialog)](./15-02-07-02-00-using_the_undo_history_dialog.md)
+[15.2.7.2. 실행취소 이력 대화상자 사용하기(Using the Undo History Dialog)](./15-02-07-02-00-using_the_undo_history_dialog.md)
 
 [15.2.7.2.1. 실행취소(Undo)](./15-02-07-02-01-undo.md)
 

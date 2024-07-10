@@ -18,7 +18,21 @@
 #### 그림 90.4.10.a101. `실행취소 이력` 대화상자 (Windows) (우리말)
 <img width="200" height="248" alt="90-04-10-a101" src="https://github.com/wonder13662/gimp/assets/15767104/21c0d751-e989-413d-bdfd-3e9ae4277306" />
 
-[15.2.7.2. 실행취소 대화상자 사용하기(Using the Undo History Dialog) - 그림 90.4.10.a101](./15-02-07-02-00-using_the_undo_history_dialog.md#90-04-10-a101)
+[15.2.7.2. 실행취소 이력 대화상자 사용하기(Using the Undo History Dialog) - 그림 90.4.10.a101](./15-02-07-02-00-using_the_undo_history_dialog.md#90-04-10-a101)
+
+<a id="90-04-10-a101-01"></a>
+
+#### 영상 90.4.10.a101.1. `실행취소 이력` 대화상자: 이전 작업에서 새로운 작업을 진행하기  (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ea8355e7-309d-43c8-aed9-57cc65ad89d5"></video>
+
+[15.2.7.2. 실행취소 이력 대화상자 사용하기(Using the Undo History Dialog) - 그림 90.4.10.a101.1](./15-02-07-02-00-using_the_undo_history_dialog.md#90-04-10-a101-01)
+
+<a id="90-04-10-a101-02"></a>
+
+#### 영상 90.4.10.a101.2. `실행취소 이력` 대화상자: 목록 검색하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fc572003-2f76-4255-99ff-7bf4ae840923"></video>
+
+[3.2.5.2.8. 목록으로 보기/격자로 보기(View as List; View as Grid) - 영상 90.4.10.a101.2](./03-02-05-02-08-view_as_list_or_grid.md#90-04-10-a101-02)
 
 <a id="90-04-10-a102"></a>
 
@@ -29,6 +43,13 @@
 
 #### 그림 90.4.10.a103. `실행취소 이력` 대화상자 (Mac) (우리말)
 <img width="200" height="205" alt="90-04-10-a103" src="https://github.com/wonder13662/gimp/assets/15767104/52dc7e89-f4ad-434f-bad6-c91498540611" />
+
+<a id="90-04-10-a103-02"></a>
+
+#### 영상 90.4.10.a103.2. `실행취소 이력` 대화상자: 목록 검색하기 (Mac) (우리말)
+<video controls="controls" width="640" height="332" src="https://github.com/wonder13662/gimp/assets/15767104/d26b680f-5874-4cfd-ba90-80b80cd09268"></video>
+
+[3.2.5.2.8. 목록으로 보기/격자로 보기(View as List; View as Grid) - ](./03-02-05-02-08-view_as_list_or_grid.md#90-04-10-a103-02)
 
 <a id="90-04-10-a104"></a>
 
