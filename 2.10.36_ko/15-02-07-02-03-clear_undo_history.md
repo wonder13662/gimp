@@ -11,7 +11,7 @@
 
 [➡️ 다음: 15.3. 이미지 콘텐츠 관련 대화상자(Image content related dialogs)](./15-03-00-image-content-related-dialogs.md)
 
-[⬅️ 이전: 15.2.7.2.2. 실행취소 되돌리기(Redo)](./15-02-07-02-02-redo.md)
+[⬅️ 이전: 15.2.7.2.2. 실행취소 재실행(Redo)](./15-02-07-02-02-redo.md)
 
 [⬆️ 위: 15.2.7.2. 실행취소 이력 대화상자 사용하기(Using the Undo History Dialog)](./15-02-07-02-00-using_the_undo_history_dialog.md)
 
