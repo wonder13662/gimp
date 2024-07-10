@@ -70,7 +70,31 @@
 
 [3.2.5.1. 대화 상자 위치 변경하기](./03-02-05-01-organizing-dialogs.md)
 
-[3.2.5.2. 탭 메뉴 (Tab Menu)](./03-02-05-02-tab-menu.md)
+[3.2.5.2. 탭 메뉴 (Tab Menu)](./03-02-05-02-00-tab-menu.md)
+
+[3.2.5.2.1. 컨텍스트 메뉴(Context Menu)](./03-02-05-02-01-context_menu.md)
+
+[3.2.5.2.2. 탭 추가(Add Tab)](./03-02-05-02-02-add_tab.md)
+
+[3.2.5.2.3. 탭 닫기 (Close Tab)](./03-02-05-02-03-close_tab.md)
+
+[3.2.5.2.4. 탭 떼어내기 (Detach Tab)](./03-02-05-02-04-detach_tab.md)
+
+[3.2.5.2.5. 독에 탭 잠그기(Lock Tab to Dock)](./03-02-05-02-05-lock_tab_to_dock.md)
+
+[3.2.5.2.6. 미리보기 크기 (Preview Size)](./03-02-05-02-06-preview_size.md)
+
+[3.2.5.2.7. 탭 스타일(Tab Style)](./03-02-05-02-07-tab_style.md)
+
+[3.2.5.2.8. 목록으로 보기/격자로 보기 (View as List; View as Grid)](./03-02-05-02-08-view_as_list_or_grid.md)
+
+[3.2.5.2.9. 버튼바 표시(Show Button Bar)](./03-02-05-02-09-show_button_bar.md)
+
+[3.2.5.2.10. 이미지 선택 표시(Show Image Selection)](./03-02-05-02-10-show_image_selection.md)
+
+[3.2.5.2.11. 자동으로 현재 이미지 따라가기(Auto Follow Active Image)](./03-02-05-02-11-auto_follow_active_image.md)
+
+[3.2.5.2.12. 화면으로 이동(Move to Screen)](./03-02-05-02-12-move_to_screen.md)
 
 [3.3. 실행 취소하기](./03-03-undoing.md)
 

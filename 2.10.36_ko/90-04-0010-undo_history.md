@@ -18,6 +18,8 @@
 #### 그림 90.4.10.a101. `실행취소 이력` 대화상자 (Windows) (우리말)
 <img width="200" height="248" alt="90-04-10-a101" src="https://github.com/wonder13662/gimp/assets/15767104/21c0d751-e989-413d-bdfd-3e9ae4277306" />
 
+[15.2.7.2. 실행취소 대화상자 사용하기(Using the Undo History Dialog) - 그림 90.4.10.a101](./15-02-07-02-00-using_the_undo_history_dialog.md#90-04-10-a101)
+
 <a id="90-04-10-a102"></a>
 
 #### 그림 90.4.10.a102. `실행취소 이력` 대화상자 (Windows) (영어)

@@ -1,5 +1,21 @@
 # 15.2.7.2. 실행취소 대화상자 사용하기(Using the Undo History Dialog)
 
+<a id="90-04-10-a101"></a>
+
+#### [그림 90.4.10.a101. `실행취소 이력` 대화상자 (Windows) (우리말)](./90-04-0010-undo_history.md#90-04-10-a101)
+<img width="200" height="248" alt="90-04-10-a101" src="https://github.com/wonder13662/gimp/assets/15767104/21c0d751-e989-413d-bdfd-3e9ae4277306" />
+
+[다른 운영체제와 언어의 `실행취소 이력` 대화상자 확인하기](./90-04-0010-undo_history.md#90-04-10-a102)
+
+The most basic thing you can do is to select a point in the Undo History by clicking on it in the list.
+
+You can go back and forth between states in this way as much as you please, without losing any information or consuming any resources.
+
+In most cases, the changes are very fast.
+
+## 1. `실행취소 이력` 검색하기
+
+
 ***
 
 ## 하위 페이지
