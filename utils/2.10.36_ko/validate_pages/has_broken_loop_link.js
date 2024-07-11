@@ -40,7 +40,7 @@ module.exports = {
       } = 검사대상_파일의_앵커링크목록[i];
       
       const 링크가_가리키는_페이지_내용 = await readFile(`${pageRootPath}/${page}`)
-      const 되돌아오는_링크 = `${검사대상_파일이름}#${anchor}`
+      const 되돌아오는_링크 = `${검사대상_파일이름}#${anchor})`
       const 되돌아오는_링크가_있나요 = 링크가_가리키는_페이지_내용.indexOf(되돌아오는_링크) > -1
 
       if(!되돌아오는_링크가_있나요) {
