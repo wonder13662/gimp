@@ -104,7 +104,7 @@
 
 [15.3.1.2.7. 색상 추출(Color Picker)](./15-03-01-02-07-color_picker.md)
 
-[15.3.1.2.8. HTML 표기법(HTML Notation)](./15-03-01-02-08-html_notation.md)
+[15.3.1.2.8. HTML 표기(HTML Notation)](./15-03-01-02-08-html_notation.md)
 
 ***
 

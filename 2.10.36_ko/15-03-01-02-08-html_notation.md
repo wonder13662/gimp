@@ -1,4 +1,14 @@
-# 15.3.1.2.8. HTML 표기법(HTML Notation)
+# 15.3.1.2.8. HTML 표기(HTML Notation)
+
+<a id="90-04-130-a101-03-08"></a>
+
+#### [그림 90.4.130.a101.3.8. `전경/배경색` 대화상자 → `HTML 표기` (Windows) (우리말)](./90-04-0130-fg_bg_color.md#90-04-130-a101-03-08)
+<img width="200" height="296" alt="90-04-130-a101-03-08" src="https://github.com/wonder13662/gimp/assets/15767104/25f284cd-85f0-4f38-a62b-c73b6e70ec79" />
+
+#<a id="90-04-131-a101-02-07"></a>
+
+#### [그림 90.4.131.a101.2.7. `전경색 바꾸기` 대화상자 → `HTML 표기` (Windows) (우리말)](./90-04-0131-change_foreground_color.md#90-04-131-a101-02-07)
+<img width="407" height="376" alt="90-04-131-a101-02-07" src="https://github.com/wonder13662/gimp/assets/15767104/3a831c22-3d62-40ec-89fa-6cbcc608561f" />
 
 ***
 

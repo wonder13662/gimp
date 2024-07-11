@@ -1076,7 +1076,7 @@ module.exports = {
         '14.5.2. 경로(Paths)'
       ],
       [
-        '14-05-03-00-color-picker.md', 
+        '14-05-03-00-color_picker.md', 
         '14.5.3. 색상 추출(Color picker)'
       ],
       [

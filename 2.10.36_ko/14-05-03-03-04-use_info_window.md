@@ -31,7 +31,7 @@
 
 [⬆️ 위: 14.5.3.3. 옵션(Options)](./14-05-03-03-00-options.md)
 
-[⬆️ 위: 14.5.3. 색상 추출(Color picker)](./14-05-03-00-color-picker.md)
+[⬆️ 위: 14.5.3. 색상 추출(Color picker)](./14-05-03-00-color_picker.md)
 
 [⬆️ 위: 14.5. 그 밖의 도구들(Other)](./14-05-00-other.md)
 

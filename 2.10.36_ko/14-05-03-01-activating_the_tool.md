@@ -43,9 +43,9 @@
 
 [➡️ 다음: 14.5.3.2. 동작 변경키(Key modifiers)](./14-05-03-02-key_modifiers.md)
 
-[⬅️ 이전: 14.5.3. 색상 추출(Color picker)](./14-05-03-00-color-picker.md)
+[⬅️ 이전: 14.5.3. 색상 추출(Color picker)](./14-05-03-00-color_picker.md)
 
-[⬆️ 위: 14.5.3. 색상 추출(Color picker)](./14-05-03-00-color-picker.md)
+[⬆️ 위: 14.5.3. 색상 추출(Color picker)](./14-05-03-00-color_picker.md)
 
 [⬆️ 위: 14.5. 그 밖의 도구들(Other)](./14-05-00-other.md)
 

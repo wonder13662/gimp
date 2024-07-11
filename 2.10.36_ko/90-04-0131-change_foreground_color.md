@@ -84,13 +84,23 @@
 <a id="90-04-131-a101-02-06"></a>
 
 #### 그림 90.4.131.a101.2.6. `전경색 바꾸기` 대화상자 → `색상 추출` (Windows) (우리말)
-<img width="407" height="376" alt="" src="" />
+<img width="407" height="376" alt="90-04-131-a101-02-06" src="https://github.com/wonder13662/gimp/assets/15767104/3a6af34d-8dd1-42a3-9b53-e7dad5f2f022" />
 
-<a id="90-04-131-a101-02-07"></a>
+[15.3.1.2.7. 색상 추출(Color Picker) - 그림 90.4.131.a101.2.6](./15-03-01-02-07-color_picker.md#90-04-131-a101-02-06)
 
-#### 그림 90.4.131.a101.2.7. `전경색 바꾸기` 대화상자 → `HTML 표기법` (Windows) (우리말)
-<img width="407" height="376" alt="" src="" />
+<a id="90-04-131-a101-02-06-01"></a>
 
+#### 영상 90.4.131.a101.2.6.1. `전경색 바꾸기` 대화상자 → `색상 추출` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/60ca3275-9abd-44a8-85a9-a2e672d82813"></video>
+
+[15.3.1.2.7. 색상 추출(Color Picker) - 영상 90.4.131.a101.2.6.1](./15-03-01-02-07-color_picker.md#90-04-131-a101-02-06-01)
+
+#<a id="90-04-131-a101-02-07"></a>
+
+#### 그림 90.4.131.a101.2.7. `전경색 바꾸기` 대화상자 → `HTML 표기` (Windows) (우리말)
+<img width="407" height="376" alt="90-04-131-a101-02-07" src="https://github.com/wonder13662/gimp/assets/15767104/3a831c22-3d62-40ec-89fa-6cbcc608561f" />
+
+[15.3.1.2.8. HTML 표기(HTML Notation) - 그림 90.4.131.a101.2.7](./15-03-01-02-08-html_notation.md#90-04-131-a101-02-07)
 
 <a id="90-04-131-a102"></a>
 

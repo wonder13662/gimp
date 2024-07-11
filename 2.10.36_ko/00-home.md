@@ -650,7 +650,7 @@
 
 [11.1. GIMP(김프)에서의 색상 관리](./11-01-00-color-management-in-gimp.md)
 
-[11.1.1. 색상 관리를 하지 않는 작업의 문제점](./11-01-01-problems_of_a_non_color_managed_workflow.md)
+[11.1.1. 색상 관리(Color Management)를 하지 않는 작업의 문제점](./11-01-01-problems_of_a_non_color_managed_workflow.md)
 
 [11.1.2. 색상 관리 작업 소개](./11-01-02-00-introduction_to_a_color_managed_workflow.md)
 
@@ -1536,7 +1536,7 @@
 
 [14.5.2.3.7. 경로 따라 그리기(Stroke Path)](./14-05-02-03-07-stroke_path.md)
 
-[14.5.3. 색상 추출(Color picker)](./14-05-03-00-color-picker.md)
+[14.5.3. 색상 추출(Color picker)](./14-05-03-00-color_picker.md)
 
 [14.5.3.1. 도구 활성화하기(Activating the tools)](./14-05-03-01-activating_the_tool.md)
 

@@ -160,12 +160,23 @@
 <a id="90-04-130-a101-03-07"></a>
 
 #### 그림 90.4.130.a101.3.7. `전경/배경색` 대화상자 → `색상 추출` (Windows) (우리말)
-<img width="200" height="296" alt="" src="" />
+<img width="200" height="296" alt="90-04-130-a101-03-07" src="https://github.com/wonder13662/gimp/assets/15767104/2b2a26c2-b696-4b6f-9c01-17ca0483422c" />
+
+[15.3.1.2.7. 색상 추출(Color Picker) - 그림 90.4.130.a101.3.7](./15-03-01-02-07-color_picker.md#90-04-130-a101-03-07)
+
+<a id="90-04-130-a101-03-07-01"></a>
+
+#### 영상 90.4.130.a101.3.7.1. `전경/배경색` 대화상자 → `색상 추출`: 전체화면 색상 추출과 활성화 이미지 색상 추출의 결과가 다른 경우 (Windows) (우리말)
+<video controls="controls" width="814" height="491" src="https://github.com/wonder13662/gimp/assets/15767104/e2c9dd59-5206-4f48-bb9f-a2c26134c538"></video>
+
+[15.3.1.2.7. 색상 추출(Color Picker) - 영상 90.4.130.a101.3.7.1](./15-03-01-02-07-color_picker.md#90-04-130-a101-03-07-01)
 
 <a id="90-04-130-a101-03-08"></a>
 
-#### 그림 90.4.130.a101.3.8. `전경/배경색` 대화상자 → `HTML 표기법` (Windows) (우리말)
-<img width="200" height="296" alt="" src="" />
+#### 그림 90.4.130.a101.3.8. `전경/배경색` 대화상자 → `HTML 표기` (Windows) (우리말)
+<img width="200" height="296" alt="90-04-130-a101-03-08" src="https://github.com/wonder13662/gimp/assets/15767104/25f284cd-85f0-4f38-a62b-c73b6e70ec79" />
+
+[15.3.1.2.8. HTML 표기(HTML Notation) - 그림 90.4.130.a101.3.8](./15-03-01-02-08-html_notation.md#90-04-130-a101-03-08)
 
 <a id="90-04-130-a102"></a>
 
