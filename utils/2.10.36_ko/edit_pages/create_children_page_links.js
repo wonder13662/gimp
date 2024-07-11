@@ -113,4 +113,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }      
 }
-doAsyncJob('15-03-01-00-fg-bg-color-dialogs.md');
+doAsyncJob('15-03-02-00-brushes-dialog.md')

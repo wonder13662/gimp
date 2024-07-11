@@ -1,14 +1,14 @@
-# 15.3.2.2.4.3. 새 붓(New Brush)
+# 15.3.2.2.5.11. 사각형으로 부드럽게 하기(Rectangular Feathered)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.2.2.4.4. 붓 복제(Duplicate Brush)](./15-03-02-02-04-04-duplicate_brush.md)
+[➡️ 다음: 15.3.2.2.5.12. 사각형으로(Rectangular)](./15-03-02-02-05-12-rectangular.md)
 
-[⬅️ 이전: 15.3.2.2.4.2. 붓 편집(Edit Brush)](./15-03-02-02-04-02-edit_brush.md)
+[⬅️ 이전: 15.3.2.2.5.10. 타원형(Elliptical)](./15-03-02-02-05-10-elliptical.md)
 
-[⬆️ 위: 15.3.2.2.4. 대화상자 아래쪽 버튼들(Buttons at the bottom)](./15-03-02-02-04-00-buttons_at_the_bottom.md)
+[⬆️ 위: 15.3.2.2.5. 붓 컨텍스트 메뉴(The Brushes Context Menu)](./15-03-02-02-05-00-the_brushes_context_menu.md)
 
 [⬆️ 위: 15.3.2.2. 붓 대화상자 사용하기(Using the Brushes Dialog)](./15-03-02-02-00-using_the_brushes_dialog.md)
 
@@ -20,4 +20,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-brush-dialog.html#gimp-brush-dialog-buttons)
+[원문](https://docs.gimp.org/2.10/ko/gimp-brush-dialog.html#idm19390)
