@@ -178,6 +178,20 @@
 
 [15.3.1.2.8. HTML 표기(HTML Notation) - 그림 90.4.130.a101.3.8](./15-03-01-02-08-html_notation.md#90-04-130-a101-03-08)
 
+<a id="90-04-130-a101-03-08-01"></a>
+
+#### 그림 90.4.130.a101.3.8.1. `전경/배경색` 대화상자 → `HTML 표기` → `컨텍스트 메뉴` (Windows)
+<img width="519" height="275" alt="90-04-130-a101-03-08-01" src="https://github.com/wonder13662/gimp/assets/15767104/9f4ae562-95b2-40d3-b330-ba218b691c0e" />
+
+[15.3.1.2.8. HTML 표기(HTML Notation) - 그림 90.4.130.a101.3.8.1](./15-03-01-02-08-html_notation.md#90-04-130-a101-03-08-01)
+
+<a id="90-04-130-a101-03-08-02"></a>
+
+#### 영상 90.4.130.a101.3.8.2. `전경/배경색` 대화상자 → `HTML 표기`: CSS 키워드로 색상 검색 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/856437c1-2fca-402d-87d7-e1befc71b2f9"></video>
+
+[15.3.1.2.8. HTML 표기(HTML Notation) - 영상 90.4.130.a101.3.8.2](./15-03-01-02-08-html_notation.md#90-04-130-a101-03-08-02)
+
 <a id="90-04-130-a102"></a>
 
 #### 그림 90.4.130.a102. `전경/배경색` 대화상자 (Windows) (영어)
