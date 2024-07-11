@@ -1930,7 +1930,29 @@
 
 [15.3.1. 전경/배경색 대화상자(FG/BG color dialogs)](./15-03-01-00-fg-bg-color-dialogs.md)
 
-[15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-brushes-dialog.md)
+[15.3.1.1. 대화상자 활성화하기(Activating the Dialog)](./15-03-01-01-activating_the_dialog.md)
+
+[15.3.1.2. 전경/배경색 대화상자 사용하기(Using the FG/BG color Dialog)](./15-03-01-02-00-using_the_fg_bg_color_dialog.md)
+
+[15.3.1.2.1. 김프 선택기(GIMP Selector)](./15-03-01-02-01-gimp_selector.md)
+
+[15.3.1.2.2. CMYK](./15-03-01-02-02-cmyk.md)
+
+[15.3.1.2.3. 수채화(Watercolor)](./15-03-01-02-03-watercolor.md)
+
+[15.3.1.2.4. 휠(Triangle)](./15-03-01-02-04-triangle.md)
+
+[15.3.1.2.5. 팔레트(Palette)](./15-03-01-02-05-palette.md)
+
+[15.3.1.2.6. 배율(Scales)](./15-03-01-02-06-scales.md)
+
+[15.3.1.2.7. 색상 추출(Color Picker)](./15-03-01-02-07-color_picker.md)
+
+[15.3.1.2.8. HTML 표기(HTML Notation)](./15-03-01-02-08-html_notation.md)
+
+[15.3.1.2.9. 전경색/배경색(FG/BG)](./15-03-01-02-09-fg_n_bg.md)
+
+[15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes-dialog.md)
 
 [15.3.3. 마이페인트 붓 대화상자(Mypaint brushes dialog)](./15-03-03-mypaint-brushes-dialog.md)
 

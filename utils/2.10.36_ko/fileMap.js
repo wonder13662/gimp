@@ -1150,7 +1150,7 @@ module.exports = {
         '15.3.1. 전경/배경색 대화상자(FG/BG color dialogs)'
       ],
       [
-        '15-03-02-brushes-dialog.md', 
+        '15-03-02-00-brushes-dialog.md', 
         '15.3.2. 붓 대화상자(Brushes dialog)',
         '15.3.2. 붓 대화상자'
       ],

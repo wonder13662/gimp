@@ -26,7 +26,9 @@
 
 [15.3.1.2.8. HTML 표기(HTML Notation)](./15-03-01-02-08-html_notation.md)
 
-[15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-brushes-dialog.md)
+[15.3.1.2.9. 전경색/배경색(FG/BG)](./15-03-01-02-09-fg_n_bg.md)
+
+[15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes-dialog.md)
 
 [15.3.3. 마이페인트 붓 대화상자(Mypaint brushes dialog)](./15-03-03-mypaint-brushes-dialog.md)
 
