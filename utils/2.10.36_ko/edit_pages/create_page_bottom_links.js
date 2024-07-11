@@ -143,4 +143,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('90-04-0129-clear_undo_history.md');
+doAsyncJob('15-03-01-02-05-palette.md');
