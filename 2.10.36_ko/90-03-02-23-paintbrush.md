@@ -103,14 +103,97 @@
 #### 그림 90.3.2.23.a117.1. `도구 옵션` → `그리기 붓` → `붓`
 ![90-03-02-23-paintbrush(windows)(ko)-focus-brush](https://github.com/wonder13662/gimp/assets/15767104/e9aadd11-9de0-4ecd-a6c4-a8d3f70c6bd5)
 
-[14.3.1.2.3. 붓(Brush) - 그림 90.3.2.23.a117.1](./14-03-01-02-03-brush.md#90-03-02-23-a117-01)
+[14.3.1.2.3. 붓(Brush) - 그림 90.3.2.23.a117.1](./14-03-01-02-03-00-brush.md#90-03-02-23-a117-01)
 
 <a id="90-03-02-23-a117-02"></a>
 
 #### 그림 90.3.2.23.a117.2. `도구 옵션` → `그리기 붓` → `붓` → `붓 대화상자`
 ![90-03-02-23-a117-02](https://github.com/wonder13662/gimp/assets/15767104/c196259f-f999-4e59-a60e-5d9463445f66)
 
-[14.3.1.2.3. 붓(Brush) - 그림 90.3.2.23.a117.2](./14-03-01-02-03-brush.md#90-03-02-23-a117-02)
+[14.3.1.2.3.1. 간단한 붓 대화상자(Simple Brush Dialog) - 그림 90.3.2.23.a117.2](./14-03-01-02-03-01-simple_brush_dialog.md#90-03-02-23-a117-02)
+
+[15.3.2.1. 대화상자 활성화하기(Activating the Dialog) - 그림 90.3.2.23.a117.2](./15-03-02-01-activating_the_dialog.md#90-03-02-23-a117-02)
+
+<a id="90-03-02-23-a117-02-01"></a>
+
+#### 그림 90.3.2.23.a117.2.1. `도구 옵션` → `그리기 붓` → `붓` → `붓 대화상자` → `아래쪽 버튼` (Windows) (우리말)
+<img width="264" height="497" alt="90-03-02-23-a117-02-01" src="https://github.com/user-attachments/assets/ad03d76e-56fa-4fa9-8b79-c93adbc63f75" />
+
+[14.3.1.2.3.1. 간단한 붓 대화상자(Simple Brush Dialog) - 그림 90.3.2.23.a117.2.1](./14-03-01-02-03-01-simple_brush_dialog.md#90-03-02-23-a117-02-01)
+
+<a id="90-03-02-23-a117-02-01-01"></a>
+
+#### 그림 90.3.2.23.a117.2.1.1. `도구 옵션` → `그리기 붓` → `붓` → `붓 대화상자` → `아래쪽 버튼` → `더 작은 미리보기` (Windows) (우리말)
+<img width="264" height="497" alt="90-03-02-23-a117-02-01-01" src="https://github.com/user-attachments/assets/547a6275-0375-4272-93ca-46d47586a7ca" />
+
+[14.3.1.2.3.1. 간단한 붓 대화상자(Simple Brush Dialog) - 그림 90.3.2.23.a117.2.1.1](./14-03-01-02-03-01-simple_brush_dialog.md#90-03-02-23-a117-02-01-01)
+
+<a id="90-03-02-23-a117-02-01-01-01"></a>
+
+#### 영상 90.3.2.23.a117.2.1.1.1. `도구 옵션` → `그리기 붓` → `붓` → `붓 대화상자` → `아래쪽 버튼` → `더 작은 미리보기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2e5db55e-5fe4-481c-bb92-739dd873462d"></video>
+
+[14.3.1.2.3.1. 간단한 붓 대화상자(Simple Brush Dialog) - 영상 90.3.2.23.a117.2.1.1.1](./14-03-01-02-03-01-simple_brush_dialog.md#90-03-02-23-a117-02-01-01-01)
+
+<a id="90-03-02-23-a117-02-01-02"></a>
+
+#### 그림 90.3.2.23.a117.2.1.2. `도구 옵션` → `그리기 붓` → `붓` → `붓 대화상자` → `아래쪽 버튼` → `더 큰 미리보기` (Windows) (우리말)
+<img width="264" height="497" alt="90-03-02-23-a117-02-01-02" src="https://github.com/user-attachments/assets/34fbef08-0008-4b79-abb8-133891174573" />
+
+[14.3.1.2.3.1. 간단한 붓 대화상자(Simple Brush Dialog) - 그림 90.3.2.23.a117.2.1.2](./14-03-01-02-03-01-simple_brush_dialog.md#90-03-02-23-a117-02-01-02)
+
+<a id="90-03-02-23-a117-02-01-02-01"></a>
+
+#### 영상 90.3.2.23.a117.2.1.2.1. `도구 옵션` → `그리기 붓` → `붓` → `붓 대화상자` → `아래쪽 버튼` → `더 큰 미리보기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/dee017cd-198f-41dc-9c8a-57a689c1423a"></video>
+
+[14.3.1.2.3.1. 간단한 붓 대화상자(Simple Brush Dialog) - 영상 90.3.2.23.a117.2.1.2.1](./14-03-01-02-03-01-simple_brush_dialog.md#90-03-02-23-a117-02-01-02-01)
+
+<a id="90-03-02-23-a117-02-01-03"></a>
+
+#### 그림 90.3.2.23.a117.2.1.3. `도구 옵션` → `그리기 붓` → `붓` → `붓 대화상자` → `아래쪽 버튼` → `목록으로 보기` (Windows) (우리말)
+<img width="264" height="497" alt="90-03-02-23-a117-02-01-03" src="https://github.com/user-attachments/assets/0e1be371-26d3-402b-988a-e318d6db01ea" />
+
+[14.3.1.2.3.1. 간단한 붓 대화상자(Simple Brush Dialog) - 그림 90.3.2.23.a117.2.1.3](./14-03-01-02-03-01-simple_brush_dialog.md#90-03-02-23-a117-02-01-03)
+
+<a id="90-03-02-23-a117-02-01-03-01"></a>
+
+#### 영상 90.3.2.23.a117.2.1.3.1. `도구 옵션` → `그리기 붓` → `붓` → `붓 대화상자` → `아래쪽 버튼` → `목록으로 보기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/0a05bdae-6b35-4872-88fa-86278a5000cc"></video>
+
+[14.3.1.2.3.1. 간단한 붓 대화상자(Simple Brush Dialog) - 영상 90.3.2.23.a117.2.1.3.1](./14-03-01-02-03-01-simple_brush_dialog.md#90-03-02-23-a117-02-01-03-01)
+
+<a id="90-03-02-23-a117-02-01-04"></a>
+
+#### 그림 90.3.2.23.a117.2.1.4. `도구 옵션` → `그리기 붓` → `붓` → `붓 대화상자` → `아래쪽 버튼` → `격자로 보기` (Windows) (우리말)
+<img width="264" height="497" alt="90-03-02-23-a117-02-01-04" src="https://github.com/user-attachments/assets/afd6741b-b510-4ba5-a1fe-f68bf59974b4" />
+
+[14.3.1.2.3.1. 간단한 붓 대화상자(Simple Brush Dialog) - 그림 90.3.2.23.a117.2.1.4](./14-03-01-02-03-01-simple_brush_dialog.md#90-03-02-23-a117-02-01-04)
+
+<a id="90-03-02-23-a117-02-01-04-01"></a>
+
+#### 영상 90.3.2.23.a117.2.1.4.1. `도구 옵션` → `그리기 붓` → `붓` → `붓 대화상자` → `아래쪽 버튼` → `격자로 보기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/72767a41-57ea-4ccf-adf4-2422dfe1574e"></video>
+
+[14.3.1.2.3.1. 간단한 붓 대화상자(Simple Brush Dialog) - 영상 90.3.2.23.a117.2.1.4.1](./14-03-01-02-03-01-simple_brush_dialog.md#90-03-02-23-a117-02-01-04-01)
+
+<a id="90-03-02-23-a117-02-01-05"></a>
+
+#### 그림 90.3.2.23.a117.2.1.5. `도구 옵션` → `그리기 붓` → `붓` → `붓 대화상자` → `아래쪽 버튼` → `붓 선택 영역 대화상자 표시` (Windows) (우리말)
+<img width="264" height="497" alt="90-03-02-23-a117-02-01-05" src="https://github.com/user-attachments/assets/e63bec41-757a-4a13-ac59-207c40ae844c" />
+
+[14.3.1.2.3.1. 간단한 붓 대화상자(Simple Brush Dialog) - 그림 90.3.2.23.a117.2.1.5](./14-03-01-02-03-01-simple_brush_dialog.md#90-03-02-23-a117-02-01-05)
+
+[15.3.2.1. 대화상자 활성화하기(Activating the Dialog) - 그림 90.3.2.23.a117.2.1.5](./15-03-02-01-activating_the_dialog.md#90-03-02-23-a117-02-01-05)
+
+<a id="90-03-02-23-a117-02-01-05-01"></a>
+
+#### 영상 90.3.2.23.a117.2.1.5.1. `도구 옵션` → `그리기 붓` → `붓` → `붓 대화상자` → `아래쪽 버튼` → `붓 선택 영역 대화상자 표시` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/b0c88bc3-9e31-4c9b-850b-32a43701efed"></video>
+
+[14.3.1.2.3.1. 간단한 붓 대화상자(Simple Brush Dialog) - 영상 90.3.2.23.a117.2.1.5.1](./14-03-01-02-03-01-simple_brush_dialog.md#90-03-02-23-a117-02-01-05-01)
+
+[15.3.2.1. 대화상자 활성화하기(Activating the Dialog) - 영상 90.3.2.23.a117.2.1.5.1](./15-03-02-01-activating_the_dialog.md#90-03-02-23-a117-02-01-05-01)
 
 <a id="90-03-02-23-a118"></a>
 

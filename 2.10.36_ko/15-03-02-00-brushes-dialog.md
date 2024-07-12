@@ -17,7 +17,7 @@
 
 <a id="90-03-04-a4"></a>
 
-#### [그림 90.3.4.a4. 도구상자의 '붓/무늬/그라디언트' - `붓`](./90-03-04-brush_n_pattern_n_gradient.md#90-03-04-a4)
+#### [그림 90.3.4.a4. 도구상자의 '붓/무늬/그라디언트' → `붓`](./90-03-04-brush_n_pattern_n_gradient.md#90-03-04-a4)
 <img width="264" height="181" alt="90-03-04-a4" src="https://github.com/user-attachments/assets/47474ccc-83f4-4d78-874e-a545a245fe6b" />
 
 GIMP(김프)에는 56개의 붓이 있습니다. 

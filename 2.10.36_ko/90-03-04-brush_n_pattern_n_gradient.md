@@ -9,24 +9,37 @@
 
 <a id="90-03-04-a2"></a>
 
-#### 그림 90.3.4.a2. 도구상자의 '붓/무늬/그라디언트' - `그라디언트`
+#### 그림 90.3.4.a2. 도구상자의 '붓/무늬/그라디언트' → `그라디언트`
 ![90-03-04-a2](https://github.com/wonder13662/gimp/assets/15767104/f0f3242f-006c-417b-8d6b-82044636c631)
+
+[3.2.3. 도구상자(The toolbox) - 그림 90.3.4.a2](./03-02-03-the-toolbox.md#90-03-04-a2)
 
 [7.10. 그라디언트 - 그림 90.3.4.a2](./07-10-gradients.md#90-03-04-a2)
 
 <a id="90-03-04-a3"></a>
 
-#### 그림 90.3.4.a3. 도구상자의 '붓/무늬/그라디언트' - `무늬`
+#### 그림 90.3.4.a3. 도구상자의 '붓/무늬/그라디언트' → `무늬`
 ![90-03-04-a3](https://github.com/wonder13662/gimp/assets/15767104/2eb5399d-e741-48c7-ae76-c1d8277c4b08)
+
+[3.2.3. 도구상자(The toolbox) - 그림 90.3.4.a3](./03-02-03-the-toolbox.md#90-03-04-a3)
 
 [7.11. 무늬(Pattern) - 그림 90.3.4.a3](./07-11-patterns.md#90-03-04-a3)
 
 <a id="90-03-04-a4"></a>
 
-#### 그림 90.3.4.a4. 도구상자의 '붓/무늬/그라디언트' - `붓`
+#### 그림 90.3.4.a4. 도구상자의 '붓/무늬/그라디언트' → `붓`
 <img width="264" height="181" alt="90-03-04-a4" src="https://github.com/user-attachments/assets/47474ccc-83f4-4d78-874e-a545a245fe6b" />
 
+[3.2.3. 도구상자(The toolbox) - 그림 90.3.4.a4](./03-02-03-the-toolbox.md#90-03-04-a4)
+
 [15.3.2. 붓 대화상자(Brushes dialog) - 그림 90.3.4.a4](./15-03-02-00-brushes-dialog.md#90-03-04-a4)
+
+<a id="90-03-04-a4-01"></a>
+
+#### 영상 90.3.4.a4.1. 도구상자의 '붓/무늬/그라디언트' → `붓` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ca39b58f-72d0-45cd-8761-d3c42c5dcd9e"></video>
+
+[15.3.2.1. 대화상자 활성화하기(Activating the Dialog) - 영상 90.3.4.a4.1](./15-03-02-01-activating_the_dialog.md#90-03-04-a4-01)
 
 <a id="90-03-04-a7"></a>
 
@@ -34,6 +47,8 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/06e78030-2328-4850-8822-8f78700a80af"></video>
 
 [3.2.3. 도구상자(The toolbox) - 영상 90.3.4.a7](./03-02-03-the-toolbox.md#90-03-04-a7)
+
+<a comment="TODO 영상 90.3.4.a7은 어떤 대화상자를 여는 것인지 명확하지 않습니다. 다른 영상으로 교체뒤 삭제되어야 합니다."></a>
 
 ***
 

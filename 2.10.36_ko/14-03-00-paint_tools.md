@@ -21,7 +21,13 @@
 
 [14.3.1.2.2. 불투명도(Opacity)](./14-03-01-02-02-opacity.md)
 
-[14.3.1.2.3. 붓(Brush)](./14-03-01-02-03-brush.md)
+[14.3.1.2.3. 붓(Brush)](./14-03-01-02-03-00-brush.md)
+
+[14.3.1.2.3.1. 간단한 붓 대화상자(Simple Brush Dialog)](./14-03-01-02-03-01-simple_brush_dialog.md)
+
+[14.3.1.2.3.2. 붓 공유하기(Sharing Brush)](./14-03-01-02-03-02-sharing_brush.md)
+
+[14.3.1.2.3.3. 색을 쓸 수 있는 붓(Brush using Color)](./14-03-01-02-03-03-brush_using_color.md)
 
 [14.3.1.2.4. 크기(Size)](./14-03-01-02-04-size.md)
 
