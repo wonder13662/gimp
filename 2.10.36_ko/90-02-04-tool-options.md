@@ -46,21 +46,21 @@
 
 <a id="90-02-04-a13"></a>
 
-#### 그림 90.2.4.a13. `기본설정` → `도구 옵션` → `칠하기 도구 공통 옵션` (Windows) (우리말)
+#### 그림 90.2.4.a13. `기본설정` → `도구 옵션` → `그리기 도구 공통 옵션` (Windows) (우리말)
 ![90-02-04-a13](https://github.com/wonder13662/gimp/assets/15767104/253064d6-445d-4785-8483-ec4d3b74e49d)
 
 [12.1.7.3. 칠하기 도구 공통 옵션(Paint Options Shared Between Tools) - 그림 90.2.4.a13](./12-01-07-03-paint_options_shared_between_tools.md#90-02-04-a13)
 
 <a id="90-02-04-a13-01"></a>
 
-#### 영상 90.2.4.a13.1. `기본설정` → `도구 옵션` → `칠하기 도구 공통 옵션` → `붓`:켜기 (Windows) (우리말)
+#### 영상 90.2.4.a13.1. `기본설정` → `도구 옵션` → `그리기 도구 공통 옵션` → `붓`:켜기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e1c46153-61e2-458d-82d9-e6280355cd92"></video>
 
 [12.1.7.3. 칠하기 도구 공통 옵션(Paint Options Shared Between Tools) - 그림 90.2.4.a13.1](./12-01-07-03-paint_options_shared_between_tools.md#90-02-04-a13-01)
 
 <a id="90-02-04-a13-02"></a>
 
-#### 영상 90.2.4.a13.2. `기본설정` → `도구 옵션` → `칠하기 도구 공통 옵션` → `붓`:끄기 (Windows) (우리말)
+#### 영상 90.2.4.a13.2. `기본설정` → `도구 옵션` → `그리기 도구 공통 옵션` → `붓`:끄기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/df46815c-feca-4751-ba58-2187c6fe762f"></video>
 
 [12.1.7.3. 칠하기 도구 공통 옵션(Paint Options Shared Between Tools) - 그림 90.2.4.a13.2](./12-01-07-03-paint_options_shared_between_tools.md#90-02-04-a13-02)
