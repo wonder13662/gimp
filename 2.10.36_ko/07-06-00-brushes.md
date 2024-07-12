@@ -102,7 +102,14 @@ GIMP(김프)에서 다양한 종류의 붓을 사용할 수 있습니다. 모든
 
 ***
 
+## 관련 정보
+
+[15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes-dialog.md)
+
+***
+
 ## 다른 페이지로 가기
+
 [➡️ 다음: 7.6.1. 일반 붓(Ordinary brushes)](./07-06-01-ordinary_brush.md)
 
 [⬅️ 이전: 7.5.7. 경로와 SVG 파일](./07-05-07-paths-and-svg-files.md)

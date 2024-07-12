@@ -1,5 +1,43 @@
 # 15.3.2. 붓 대화상자(Brushes dialog)
 
+<a id="90-04-15-a1"></a>
+
+#### [그림 90.4.15.a1. 붓 대화상자](./90-04-0015-brushes.md#90-04-15-a1)
+<img width="850" height="393" alt="90-04-15-a1" src="https://github.com/user-attachments/assets/d994ac70-1ae0-46a0-8157-3897a6b41219" />
+
+`붓 대화상자(Brushes dialog)`에서 [칠하기 도구](./14-03-00-paint_tools.md)에서 사용할 붓을 선택할 수 있습니다.
+
+붓에 대한 기본적인 정보를 알고 싶다면, [7.6. 붓](./07-06-00-brushes.md)을 참고해주세요.
+
+`붓 대화상자(Brushes dialog)`에서 붓을 설정할 수 있습니다.
+
+`붓 대화상자(Brushes dialog)`의 목록에서 붓을 클릭해서 선택할 수 있습니다.
+
+선택한 붓은 [도구 표시 영역 - 붓, 무늬, 그라디언트](./14-01-03-02-tools_indicator_area.md)에서 확인할 수 있습니다.
+
+<a id="90-03-04-a4"></a>
+
+#### [그림 90.3.4.a4. 도구상자의 '붓/무늬/그라디언트' - `붓`](./90-03-04-brush_n_pattern_n_gradient.md#90-03-04-a4)
+<img width="264" height="181" alt="90-03-04-a4" src="https://github.com/user-attachments/assets/47474ccc-83f4-4d78-874e-a545a245fe6b" />
+
+GIMP(김프)에는 56개의 붓이 있습니다. 
+
+이 붓들은 서로 다른 크기, 비율, 각도를 가지고 있으며, [도구 옵션 대화상자](./14-03-01-02-00-tool_options.md)에서 설정할 수 있습니다.
+
+또한 [붓 편집기](./15-03-02-03-00-brush_editor.md)에서  새 붓을 직접 만들 수 있습니다.
+
+혹은 이미지를 [붓 파일 포맷](./19-glossaryx-gbr.md)으로 만들어 저장할 수 있습니다.
+
+***
+
+## 관련 정보
+
+[7.6. 붓](./07-06-00-brushes.md)
+
+[7.7. 새 붓 추가하기](./07-07-adding-new-brushes.md)
+
+[7.9.2. 새 붓 빨리 만들기](./07-09-02-creating-a-brush-quickly.md)
+
 ***
 
 ## 하위 페이지
