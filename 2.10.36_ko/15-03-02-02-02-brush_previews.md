@@ -1,5 +1,7 @@
 # 15.3.2.2.2. 붓 미리보기(Brush Previews)
 
+In the Tab menu, the option Preview Size allows you to adapt the size of brush previews to your liking.
+
 ***
 
 ## 다른 페이지로 가기
