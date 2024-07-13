@@ -47,35 +47,78 @@
 <a id="15-03-02-02-02-s3"></a>
 
 ## 3. 대화상자 아래쪽 버튼들
-You can also click on buttons at the bottom of the dialog to perform various actions.
+`붓` 대화상자의 아래쪽의 버튼들을 클릭해서 다양한 동작을 수행할 수 있습니다.
 
 [15.3.2.2.4. 대화상자 아래쪽 버튼들(Buttons at the bottom)](./15-03-02-02-04-00-buttons_at_the_bottom.md)을 참고해주세요.
 
 <a id="15-03-02-02-02-s4"></a>
 
-## 4. 미리보기 오른쪽 아래편의 심볼
-Meaning of the small symbols at the bottom right corner of every brush preview:
+## 4. 붓 미리보기 오른쪽 아래편의 심볼
+`붓 미리보기`의 오른쪽 아래의 작은 심볼들은 아래와 같은 의미를 갖습니다.
 
-### 4-1. 파란색 삼각형
-A blue corner is for brushes in normal size. You can duplicate them.
+### 4-1. 빨간색 삼각형
 
-### 4-2. 작은 십자표시
-A small cross means that the brush preview is in a reduced size.
+<a id="90-04-15-a313-01"></a>
 
-You can get it in normal size by maintaining left click on it.
+#### [그림 90.4.15.a313.1. `붓` 대화상자: `미리보기` - 빨간색 삼각형](./90-04-0015-brushes.md#90-04-15-a313-01)
+<img width="68" height="68" alt="90-04-15-a313-01" src="https://github.com/user-attachments/assets/24c55e41-1f2c-400f-9a5c-8b38c1f564b4" />
 
-### 4-3. 빨간색 삼각형
-A red corner is for animated brushes.
+오른쪽 아래의 빨간색 삼각형은 애니메이션 붓을 나타냅니다.
 
-If you maintain left click on the thumbnail, the animation is played.
+붓 미리보기 위에서 왼쪽 마우스 버튼을 누르고 유지하면, 붓의 움직이는 애니메이션을 확인할 수 있습니다.
+
+<a id="90-04-15-a313-01-01"></a>
+
+#### [영상 90.4.15.a313.1.1. `붓` 대화상자: `미리보기` - 빨간색 삼각형 위에 왼쪽 마우스 클릭 (Windows) (우리말)](./90-04-0015-brushes.md#90-04-15-a313-01-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/dea2a573-94c9-47f1-bdba-d16faea3dfb9"></video>
+
+### 4-2. 파란색 삼각형
+
+<a id="90-04-15-a313-02"></a>
+
+#### [그림 90.4.15.a313.2. `붓` 대화상자: `미리보기` - 파란색 삼각형](./90-04-0015-brushes.md#90-04-15-a313-02)
+<img width="68" height="68" alt="90-04-15-a313-02" src="https://github.com/user-attachments/assets/c23cb6a2-565f-4827-b227-50f20a08894a" />
+
+오른쪽 아래의 파란색 삼각형은 보통 크기의 붓을 나타냅니다.
+
+붓 미리보기 위에서 왼쪽 마우스 버튼을 누르고 유지하면, 붓의 원래 크기를 확인할 수 있습니다.
+
+<a id="90-04-15-a313-02-01"></a>
+
+#### [영상 90.4.15.a313.2.1. `붓` 대화상자: `미리보기` - 파란색 삼각형 위에 왼쪽 마우스 클릭 (Windows) (우리말)](./90-04-0015-brushes.md#90-04-15-a313-02-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2d5263a6-943e-4253-ab5a-07706246923a"></video>
+
+### 4-3. 작은 십자표시
+
+<a id="90-04-15-a313-03"></a>
+
+#### [그림 90.4.15.a313.3. `붓` 대화상자: `미리보기` - 작은 십자표시](./90-04-0015-brushes.md#90-04-15-a313-03)
+<img width="68" height="68" alt="90-04-15-a313-03" src="https://github.com/user-attachments/assets/e4031944-a618-4421-a9ed-89b1f45edf9d" />
+
+오른쪽 아래의 작은 십자표시는 축소된 크기의 붓 미리보기입니다.
+
+붓 미리보기 위에서 왼쪽 마우스 버튼을 누르고 유지하면, 붓의 원래 크기를 확인할 수 있습니다.
+
+<a id="90-04-15-a313-03-01"></a>
+
+#### [영상 90.4.15.a313.3.1. `붓` 대화상자: `미리보기` - 작은 십자표시 위에 왼쪽 마우스 클릭 (Windows) (우리말)](./90-04-0015-brushes.md#90-04-15-a313-03-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/74bd9cfe-527b-470e-afe1-b77947665dd8"></video>
 
 <a id="15-03-02-02-02-s5"></a>
 
 ## 5. 미리보기 크기 바꾸기
 
-(TODO 탭 메뉴 이미지 추가)
+<a id="90-04-15-a301-06"></a>
 
-In the Tab menu, the option Preview Size allows you to adapt the size of brush previews to your liking.
+#### [그림 90.4.15.a301.6. `붓` 대화상자 → `탭 메뉴` → `미리 보기 크기` (Windows) (우리말)](./90-04-0015-brushes.md#90-04-15-a301-06)
+<img width="343" height="347" alt="90-04-15-a301-06" src="https://github.com/user-attachments/assets/a0591348-6d24-4ce5-a2aa-0e05340e1495" />
+
+`붓` 대화상자 → `탭 메뉴` → `미리 보기 크기`에서 붓 미리보기의 크기를 설정할 수 있습니다.
+
+<a id="90-04-15-a301-06-01"></a>
+
+#### [영상 90.4.15.a301.6.1. `붓` 대화상자 → `탭 메뉴` → `미리 보기 크기` (Windows) (우리말)](./90-04-0015-brushes.md#90-04-15-a301-06-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ae5b5ce8-0b36-4675-85a8-3cc4e157e6be"></video>
 
 ***
 
