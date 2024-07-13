@@ -100,8 +100,8 @@
 
 <a id="90-03-02-23-a117-01"></a>
 
-#### 그림 90.3.2.23.a117.1. `도구 옵션` → `그리기 붓` → `붓`
-![90-03-02-23-paintbrush(windows)(ko)-focus-brush](https://github.com/wonder13662/gimp/assets/15767104/e9aadd11-9de0-4ecd-a6c4-a8d3f70c6bd5)
+#### 그림 90.3.2.23.a117.1. `도구 옵션` → `그리기 붓` → `붓` (Windows) (우리말)
+<img width="324" height="675" alt="90-03-02-23-a117-01" src="https://github.com/wonder13662/gimp/assets/15767104/e9aadd11-9de0-4ecd-a6c4-a8d3f70c6bd5" />
 
 [14.3.1.2.3. 붓(Brush) - 그림 90.3.2.23.a117.1](./14-03-01-02-03-00-brush.md#90-03-02-23-a117-01)
 
