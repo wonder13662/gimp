@@ -1,5 +1,10 @@
 # 15.3.2.2.4. 대화상자 아래쪽 버튼들(Buttons at the bottom)
 
+<a id="90-04-15-a101-01"></a>
+
+#### [그림 90.4.15.a101.1. `붓` 대화상자 → 아래쪽 버튼들 (Windows) (우리말)](./90-04-0015-brushes.md#90-04-15-a101-01)
+<img width="200" height="273" alt="90-04-15-a101-01" src="https://github.com/user-attachments/assets/476899b6-5077-463c-959d-f5ec7762de01" />
+
 ***
 
 ## 하위 페이지
