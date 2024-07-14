@@ -1,9 +1,11 @@
-# 15.3.2.2.4. 대화상자 아래쪽 버튼들(Buttons at the bottom)
+# 15.3.2.2.4. 대화상자 아래쪽 버튼들과 슬라이더(Buttons at the bottom)
 
 <a id="90-04-15-a101-01"></a>
 
-#### [그림 90.4.15.a101.1. `붓` 대화상자 → 아래쪽 버튼들 (Windows) (우리말)](./90-04-0015-brushes.md#90-04-15-a101-01)
-<img width="200" height="273" alt="90-04-15-a101-01" src="https://github.com/user-attachments/assets/476899b6-5077-463c-959d-f5ec7762de01" />
+#### [그림 90.4.15.a101.1. `붓` 대화상자 → 아래쪽 버튼들과 슬라이더 (Windows) (우리말)](./90-04-0015-brushes.md#90-04-15-a101-01)
+<img width="200" height="273" alt="90-04-15-a101-01" src="https://github.com/user-attachments/assets/b76e8493-8776-4cf7-9233-14b10ad441b3" />
+
+`붓` 대화상자의 아래쪽에 슬라이더와 버튼들이 있습니다.
 
 ***
 

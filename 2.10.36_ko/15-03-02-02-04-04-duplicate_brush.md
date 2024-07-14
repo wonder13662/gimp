@@ -8,7 +8,7 @@
 
 [⬅️ 이전: 15.3.2.2.4.3. 새 붓(New Brush)](./15-03-02-02-04-03-new_brush.md)
 
-[⬆️ 위: 15.3.2.2.4. 대화상자 아래쪽 버튼들(Buttons at the bottom)](./15-03-02-02-04-00-buttons_at_the_bottom.md)
+[⬆️ 위: 15.3.2.2.4. 대화상자 아래쪽 버튼들과 슬라이더(Buttons at the bottom)](./15-03-02-02-04-00-buttons_at_the_bottom.md)
 
 [⬆️ 위: 15.3.2.2. 붓 대화상자 사용하기(Using the Brushes Dialog)](./15-03-02-02-00-using_the_brushes_dialog.md)
 

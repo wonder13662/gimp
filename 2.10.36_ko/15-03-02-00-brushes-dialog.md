@@ -56,7 +56,7 @@ GIMP(김프)에는 56개의 붓이 있습니다.
 
 [15.3.2.2.3. 태그(Tagging)](./15-03-02-02-03-tagging.md)
 
-[15.3.2.2.4. 대화상자 아래쪽 버튼들(Buttons at the bottom)](./15-03-02-02-04-00-buttons_at_the_bottom.md)
+[15.3.2.2.4. 대화상자 아래쪽 버튼들과 슬라이더(Buttons at the bottom)](./15-03-02-02-04-00-buttons_at_the_bottom.md)
 
 [15.3.2.2.4.1. 간격(Spacing)](./15-03-02-02-04-01-spacing.md)
 
