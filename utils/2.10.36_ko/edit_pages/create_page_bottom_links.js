@@ -143,4 +143,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('14-03-01-02-04-size.md')
+doAsyncJob('90-04-0133-delete_object.md')

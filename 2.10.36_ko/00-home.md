@@ -3453,6 +3453,8 @@
 
 [90.4.132. 배경색 바꾸기(Change Background Color)](./90-04-0132-change_background_color.md)
 
+[90.4.133. 객체 삭제(Delete Object)](./90-04-0133-delete_object.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

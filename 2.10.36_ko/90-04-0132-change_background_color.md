@@ -40,3 +40,17 @@
 [90.4.120. 글자 색상](./90-04-0120-text_color.md)
 
 [90.4.131. 전경색 바꾸기(Change Foreground Color)](./90-04-0131-change_foreground_color.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 90.4.133. 객체 삭제(Delete Object)](./90-04-0133-delete_object.md)
+
+[⬅️ 이전: 90.4.131. 전경색 바꾸기(Change Foreground Color)](./90-04-0131-change_foreground_color.md)
+
+[⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-0000-dialogs.md)
+
+[⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
+
+[🏠 홈](./00-home.md)
