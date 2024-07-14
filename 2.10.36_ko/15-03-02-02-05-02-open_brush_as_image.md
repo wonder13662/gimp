@@ -1,5 +1,10 @@
 # 15.3.2.2.5.2. 붓을 이미지로 열기(Open Brush as Image)
 
+<a id="90-04-15-a313-04-02"></a>
+
+#### [그림 90.4.15.a313.4.2. `붓` 대화상자: `미리보기` → `붓 컨텍스트 메뉴` → `붓을 이미지로 열기` (Windows) (우리말)](./90-04-0015-brushes.md#90-04-15-a313-04-02)
+<img width="188" height="354" alt="90-04-15-a313-04-02" src="https://github.com/user-attachments/assets/996960df-f29d-4b13-849a-f6fb99cd8fd6" />
+
 [15.3.2.2.4.7. 붓을 이미지로 열기(Open Brush as Image)](./15-03-02-02-04-07-open_brush_as_image.md)을 참고해주세요.
 
 ***

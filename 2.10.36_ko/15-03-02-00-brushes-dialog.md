@@ -90,13 +90,13 @@ GIMP(김프)에는 56개의 붓이 있습니다.
 
 [15.3.2.2.5.8. 붓 새로 고침(Refresh Brush)](./15-03-02-02-05-08-refresh_brush.md)
 
-[15.3.2.2.5.9. 타원형으로 부드럽게 하기(Elliptical Feathered)](./15-03-02-02-05-09-elliptical_featherered.md)
+[15.3.2.2.5.9. 부드러운 외곽의 타원형 붓 만들기(Elliptical Feathered)](./15-03-02-02-05-09-elliptical_featherered.md)
 
-[15.3.2.2.5.10. 타원형(Elliptical)](./15-03-02-02-05-10-elliptical.md)
+[15.3.2.2.5.10. 타원형 붓 만들기(Elliptical)](./15-03-02-02-05-10-elliptical.md)
 
-[15.3.2.2.5.11. 사각형으로 부드럽게 하기(Rectangular Feathered)](./15-03-02-02-05-11-rectangular_feathered.md)
+[15.3.2.2.5.11. 부드러운 외곽의 사각형 붓 만들기(Rectangular Feathered)](./15-03-02-02-05-11-rectangular_feathered.md)
 
-[15.3.2.2.5.12. 사각형으로(Rectangular)](./15-03-02-02-05-12-rectangular.md)
+[15.3.2.2.5.12. 사각형 붓 만들기(Rectangular)](./15-03-02-02-05-12-rectangular.md)
 
 [15.3.2.3. 붓 편집기(Brush Editor)](./15-03-02-03-00-brush_editor.md)
 

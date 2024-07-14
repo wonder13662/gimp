@@ -1,5 +1,10 @@
 # 15.3.2.2.5.5. 붓 위치 복사(Copy Brush Location)
 
+<a id="90-04-15-a313-04-05"></a>
+
+#### [그림 90.4.15.a313.4.5. `붓` 대화상자: `미리보기` → `붓 컨텍스트 메뉴` → `붓 위치 복사` (Windows) (우리말)](./90-04-0015-brushes.md#90-04-15-a313-04-05)
+<img width="188" height="354" alt="90-04-15-a313-04-05" src="https://github.com/user-attachments/assets/60b201be-3797-40cb-a4ee-97dabe9896b0" />
+
 ***
 
 ## 다른 페이지로 가기

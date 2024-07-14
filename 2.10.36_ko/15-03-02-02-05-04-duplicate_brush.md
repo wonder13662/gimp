@@ -1,5 +1,10 @@
 # 15.3.2.2.5.4. 붓 복제(Duplicate Brush)
 
+<a id="90-04-15-a313-04-04"></a>
+
+#### [그림 90.4.15.a313.4.4. `붓` 대화상자: `미리보기` → `붓 컨텍스트 메뉴` → `붓 복제` (Windows) (우리말)](./90-04-0015-brushes.md#90-04-15-a313-04-04)
+<img width="188" height="354" alt="90-04-15-a313-04-04" src="https://github.com/user-attachments/assets/2c51d2bf-e24d-4aca-8127-642c06c99725" />
+
 [15.3.2.2.4.4. 붓 복제(Duplicate Brush)](./15-03-02-02-04-04-duplicate_brush.md)을 참고해주세요.
 
 ***

@@ -36,7 +36,7 @@
 
 [➡️ 다음: 15.3.2.3.1. 대화상자 바(Dialog Bar)](./15-03-02-03-01-dialog_bar.md)
 
-[⬅️ 이전: 15.3.2.2.5.12. 사각형으로(Rectangular)](./15-03-02-02-05-12-rectangular.md)
+[⬅️ 이전: 15.3.2.2.5.12. 사각형 붓 만들기(Rectangular)](./15-03-02-02-05-12-rectangular.md)
 
 [⬆️ 위: 15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes-dialog.md)
 
