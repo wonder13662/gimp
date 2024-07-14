@@ -1,5 +1,7 @@
 # 15.3.2.2.5.2. 붓을 이미지로 열기(Open Brush as Image)
 
+[15.3.2.2.4.7. 붓을 이미지로 열기(Open Brush as Image)](./15-03-02-02-04-07-open_brush_as_image.md)을 참고해주세요.
+
 ***
 
 ## 다른 페이지로 가기
