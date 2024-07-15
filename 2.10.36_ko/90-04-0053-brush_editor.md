@@ -13,10 +13,28 @@
 #### 그림 90.4.53.a101.1. `붓 편집기` 대화상자 → `탭 메뉴` (Windows) (우리말)
 <img width="200" height="255" alt="90-04-53-a101-01" src="https://github.com/user-attachments/assets/526a8b7f-dc8c-4151-bb57-e6727c18fdad" />
 
+[15.3.2.3.1. 탭 메뉴(Tab Menu) - 그림 90.4.53.a101.1](./15-03-02-03-01-tab_menu.md#90-04-53-a101-01)
+
 <a id="90-04-53-a101-01-01"></a>
 
 #### 영상 90.4.53.a101.1.1. `붓 편집기` 대화상자 → `탭 메뉴` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/66336351-c942-4777-bd49-fd2fb1b7749f"></video>
+
+[15.3.2.3.1. 탭 메뉴(Tab Menu) - 영상 90.4.53.a101.1.1](./15-03-02-03-01-tab_menu.md#90-04-53-a101-01-01)
+
+<a id="90-04-53-a101-02"></a>
+
+#### 그림 90.4.53.a101.2. `붓 편집기` 대화상자 → `타이틀 바` (Windows) (우리말)
+<img width="200" height="255" alt="90-04-53-a101-02" src="https://github.com/user-attachments/assets/b3821966-3040-4793-8433-970d719c86d4" />
+
+[15.3.2.3.2. 타이틀 바(Title Bar) - 그림 90.4.53.a101.2](./15-03-02-03-02-title_bar.md#90-04-53-a101-02)
+
+<a id="90-04-53-a101-02-01"></a>
+
+#### 영상 90.4.53.a101.2.1. `붓 편집기` 대화상자 → `타이틀 바`: 붓 이름 수정 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d56ea78d-1a3f-4e30-a4d3-dfbc901a66d4"></video>
+
+[15.3.2.3.2. 타이틀 바(Title Bar) - 영상 90.4.53.a101.2.1](./15-03-02-03-02-title_bar.md#90-04-53-a101-02-01)
 
 <a id="90-04-53-a102"></a>
 
