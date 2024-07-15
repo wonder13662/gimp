@@ -13,7 +13,7 @@ GIMP(김프)에서 기본적으로 제공되는 붓의 파라미터는 바꿀 �
 
 하지만 사용자가 만든 붓의 파리미터는 바꿀 수 있습니다.
 
-You can also create a custom brush: click on the "New Brush" button to activate the functions of the brush editor; you can select a geometrical shape, a square or a diamond.
+붓 대화상자 아래쪽의 [새 붓](./15-03-02-02-04-03-new_brush.md) 버튼을 눌러서 `붓 편집기` 대화상자를 열 수 있습니다.
 
 ***
 
