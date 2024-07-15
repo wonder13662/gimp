@@ -4,7 +4,7 @@
 <a id="90-04-53-a101"></a>
 
 #### [그림 90.4.53.a101. `붓 편집기` 대화상자 (Windows) (우리말)](./90-04-0053-brush_editor.md#90-04-53-a101)
-![90-04-53-a101](https://github.com/wonder13662/gimp/assets/15767104/4693b288-1d33-4d6d-a3bd-c59094824432)
+<img width="200" height="255" alt="90-04-53-a101" src="https://github.com/user-attachments/assets/647cc213-342f-4a03-b924-b32073e44c54" />
 
 [다른 운영체제와 언어의 `붓 편집기` 대화상자 확인하기](./90-04-0053-brush_editor.md#90-04-53-a102)
 
