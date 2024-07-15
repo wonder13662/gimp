@@ -1,5 +1,26 @@
 # 15.3.2.3. 붓 편집기(Brush Editor)
 
+<a id="90-04-53-a101"></a>
+
+#### [그림 90.4.53.a101. `붓 편집기` 대화상자 (Windows) (우리말)](./90-04-0053-brush_editor.md#90-04-53-a101)
+![90-04-53-a101](https://github.com/wonder13662/gimp/assets/15767104/4693b288-1d33-4d6d-a3bd-c59094824432)
+
+[다른 운영체제와 언어의 `붓 편집기` 대화상자 확인하기](./90-04-0053-brush_editor.md#90-04-53-a102)
+
+`붓 편집기`는 붓의 파라미터를 확인할 수 있습니다.
+
+GIMP(김프)에서 기본적으로 제공되는 붓의 파라미터는 바꿀 수 없습니다.
+
+하지만 사용자가 만든 붓의 파리미터는 바꿀 수 있습니다.
+
+You can also create a custom brush: click on the "New Brush" button to activate the functions of the brush editor; you can select a geometrical shape, a square or a diamond.
+
+***
+
+## 관련 정보
+
+[7.6.5. 파라매트릭 붓(parametric brush)](./07-06-05-paramatric_brush.md)
+
 ***
 
 ## 하위 페이지
