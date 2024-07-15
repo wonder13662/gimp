@@ -41,6 +41,15 @@
 #### 그림 90.4.53.a101.3. `붓 편집기` 대화상자 → `미리보기 영역` (Windows) (우리말)
 <img width="200" height="255" alt="90-04-53-a101-03" src="https://github.com/user-attachments/assets/ef26f565-655a-4b60-b0a9-00a8bdc46852" />
 
+[15.3.2.3.3. 미리보기 영역(Preview Area) - 그림 90.4.53.a101.3](./15-03-02-03-03-preview_area.md#90-04-53-a101-03)
+
+<a id="90-04-53-a101-04"></a>
+
+#### 그림 90.4.53.a101.4. `붓 편집기` 대화상자 → `설정` (Windows) (우리말)
+<img width="200" height="255" alt="90-04-53-a101-04" src="https://github.com/user-attachments/assets/a4aa1ff9-7afc-41e7-a410-ff07d085f231" />
+
+[15.3.2.3.4. 설정(Settings) - 그림 90.4.53.a101.4](./15-03-02-03-04-00-settings.md#90-04-53-a101-04)
+
 <a id="90-04-53-a102"></a>
 
 #### 그림 90.4.53.a102. `붓 편집기` 대화상자 (Windows) (영어)
