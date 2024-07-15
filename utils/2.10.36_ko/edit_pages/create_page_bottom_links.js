@@ -143,4 +143,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('90-04-0133-delete_object.md')
+doAsyncJob('90-04-0137-rectangular.md')

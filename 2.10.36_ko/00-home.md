@@ -3455,6 +3455,14 @@
 
 [90.4.133. 객체 삭제(Delete Object)](./90-04-0133-delete_object.md)
 
+[90.4.134. 부드러운 외곽의 타원형 붓 만들기(Elliptical Feathered)](./90-04-0134-elliptical_feathered.md)
+
+[90.4.135. 타원형 붓 만들기(Elliptical)](./90-04-0135-elliptical.md)
+
+[90.4.136. 부드러운 외곽의 사각형 붓 만들기(Elliptical Feathered)](./90-04-0136-rectangular_feathered.md)
+
+[90.4.137. 사각형 붓 만들기(Elliptical)](./90-04-0137-rectangular.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
