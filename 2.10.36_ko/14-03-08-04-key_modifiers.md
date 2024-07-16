@@ -31,7 +31,7 @@ Shift(⇧) 키를 누르면 `직선 모드(Straight line mode)`로 바뀝니다.
 
 [3.5.1. 목적](./03-05-01-intention.md)
 
-[3.5.1. 목적 → 6-5. MyPaint 붓(MyPaint Brush)](./03-05-01-intention.md#03-05-01-s6-05)
+[3.5.1. 목적 → 6-5. 마이페인트 붓(MyPaint Brush)](./03-05-01-intention.md#03-05-01-s6-05)
 
 ***
 

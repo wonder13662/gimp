@@ -10,7 +10,7 @@
 
 <a id="90-04-17-a11"></a>
 
-#### 그림 90.4.17.a11. '마이페인트 붓' 대화상자 → `MyPaint 붓을 새로 고칩니다` 버튼
+#### 그림 90.4.17.a11. '마이페인트 붓' 대화상자 → `마이페인트 붓을 새로 고칩니다` 버튼
 ![90-04-17-a11](https://github.com/wonder13662/gimp/assets/15767104/085bb6ac-105b-4491-9d34-e287deb9db27)
 
 [14.3.8.1. 마이페인트 붓 설치하기(Installing MyPaing Brushes) - 그림 90.4.17.a11](./14-03-08-01-installing_mypaint_brushes.md#90-04-17-a11)

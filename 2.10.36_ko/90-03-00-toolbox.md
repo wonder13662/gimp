@@ -204,9 +204,9 @@
 #### 그림 90.3.2.26.a2. `도구상자` → `잉크`
 [![그림 90.3.2.26.a2. `도구상자` → `잉크`](https://github.com/wonder13662/gimp/assets/15767104/7cf5d992-ae21-45d0-88c5-fa9a5cccf23c)](./90-03-02-26-ink.md)
 
-### [90.3.2.27. 도구 아이콘(Tool icon) - MyPaint 붓(MyPaint brush)](./90-03-02-27-mypaint_brush.md)
-#### 그림 90.3.2.27.a2. `도구상자` → `MyPaint 붓`
-[![그림 90.3.2.27.a2. `도구상자` → `MyPaint 붓`](https://github.com/wonder13662/gimp/assets/15767104/bfba0689-02ca-4a52-9eaf-7280e95a50da)](./90-03-02-27-mypaint_brush.md)
+### [90.3.2.27. 도구 아이콘(Tool icon) - 마이페인트 붓(MyPaint brush)](./90-03-02-27-mypaint_brush.md)
+#### 그림 90.3.2.27.a2. `도구상자` → `마이페인트 붓`
+[![그림 90.3.2.27.a2. `도구상자` → `마이페인트 붓`](https://github.com/wonder13662/gimp/assets/15767104/bfba0689-02ca-4a52-9eaf-7280e95a50da)](./90-03-02-27-mypaint_brush.md)
 
 ### [90.3.2.28. 도구 아이콘(Tool icon) - 지우개(Eraser)](./90-03-02-28-eraser.md)
 #### 그림 90.3.2.28.a2. `도구상자` → `지우개`

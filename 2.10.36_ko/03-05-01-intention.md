@@ -30,7 +30,7 @@
 
 - [잉크(Ink)](./14-03-11-00-ink.md)
 
-- [MyPaint 붓(MyPaint Brush)](./14-03-08-00-mypaint-brush.md)
+- [마이페인트 붓(MyPaint Brush)](./14-03-08-00-mypaint-brush.md)
 
 - [도장(Clone)](./14-03-12-00-clone.md)
 
@@ -174,7 +174,7 @@
 
 <a id="03-05-01-s6-05"></a>
 
-### 6-5. MyPaint 붓(MyPaint Brush)
+### 6-5. 마이페인트 붓(MyPaint Brush)
 
 <a id="90-01-08-02-08-a101"></a>
 
@@ -185,12 +185,12 @@
 
 <a id="90-03-02-27-a2"></a>
 
-#### [그림 90.3.2.27.a2. `도구상자` → `MyPaint 붓`](./90-03-02-27-mypaint_brush.md#90-03-02-27-a2)
+#### [그림 90.3.2.27.a2. `도구상자` → `마이페인트 붓`](./90-03-02-27-mypaint_brush.md#90-03-02-27-a2)
 ![90-03-02-27-a2](https://github.com/wonder13662/gimp/assets/15767104/bfba0689-02ca-4a52-9eaf-7280e95a50da)
 
 <a id="90-03-02-27-a101"></a>
 
-#### [영상 90.3.2.27.a101. MyPaint 붓(MyPaint Brush)의 직선그리기](./90-03-02-27-mypaint_brush.md#90-03-02-27-a101)
+#### [영상 90.3.2.27.a101. 마이페인트 붓(MyPaint Brush)의 직선그리기](./90-03-02-27-mypaint_brush.md#90-03-02-27-a101)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/1b5efbfe-e43b-49bb-a706-c2cf0bba01d4"></video>
 
 <a id="03-05-01-s6-06"></a>

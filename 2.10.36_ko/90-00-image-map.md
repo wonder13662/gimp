@@ -971,7 +971,7 @@
 
 [90.3.2.26. 도구 아이콘(Tool icon) - 잉크(Ink)](./90-03-02-26-ink.md)
 
-[90.3.2.27. 도구 아이콘(Tool icon) - MyPaint 붓(MyPaint brush)](./90-03-02-27-mypaint_brush.md)
+[90.3.2.27. 도구 아이콘(Tool icon) - 마이페인트 붓(MyPaint brush)](./90-03-02-27-mypaint_brush.md)
 
 [90.3.2.28. 도구 아이콘(Tool icon) - 지우개(Eraser)](./90-03-02-28-eraser.md)
 
@@ -1062,7 +1062,7 @@
 
 [90.4.1.26. 잉크(Ink)](./90-04-0001-026-ink.md)
 
-[90.4.1.27. MyPaint 붓(MyPaint Brush)](./90-04-0001-027-mypaint_brush.md)
+[90.4.1.27. 마이페인트 붓(MyPaint Brush)](./90-04-0001-027-mypaint_brush.md)
 
 [90.4.1.28. 지우개(Eraser)](./90-04-0001-028-eraser.md)
 

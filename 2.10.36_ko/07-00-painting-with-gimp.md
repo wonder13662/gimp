@@ -56,7 +56,7 @@
 
 [7.6.5. 파라매트릭 붓(parametric brush)](./07-06-05-paramatric_brush.md)
 
-[7.6.6. MyPaint 붓](./07-06-06-mypaint_brush.md)
+[7.6.6. 마이페인트 붓](./07-06-06-mypaint_brush.md)
 
 [7.7. 새 붓 추가하기](./07-07-adding-new-brushes.md)
 

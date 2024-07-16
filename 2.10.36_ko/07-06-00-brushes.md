@@ -114,7 +114,7 @@ GIMP(김프)에서 다양한 종류의 붓을 사용할 수 있습니다. 모든
 
 [7.6.5. 파라매트릭 붓(parametric brush)](./07-06-05-paramatric_brush.md)
 
-[7.6.6. MyPaint 붓](./07-06-06-mypaint_brush.md)
+[7.6.6. 마이페인트 붓](./07-06-06-mypaint_brush.md)
 
 <a comment="페이지 분리 필요"></a>
 

@@ -22,12 +22,12 @@
 
 <a id="90-03-02-27-a2"></a>
 
-#### [그림 90.3.2.27.a2. `도구상자` → `MyPaint 붓`](./90-03-02-27-mypaint_brush.md#90-03-02-27-a2)
+#### [그림 90.3.2.27.a2. `도구상자` → `마이페인트 붓`](./90-03-02-27-mypaint_brush.md#90-03-02-27-a2)
 ![90-03-02-27-a2](https://github.com/wonder13662/gimp/assets/15767104/bfba0689-02ca-4a52-9eaf-7280e95a50da)
 
 <a id="90-03-02-27-a2-01"></a>
 
-#### [영상 90.3.2.27.a2.1. `도구상자` → `MyPaint 붓` (Windows) (우리말)](./90-03-02-27-mypaint_brush.md#90-03-02-27-a2-01)
+#### [영상 90.3.2.27.a2.1. `도구상자` → `마이페인트 붓` (Windows) (우리말)](./90-03-02-27-mypaint_brush.md#90-03-02-27-a2-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9e9ce5f2-e648-4364-bdd5-1852be4132a4"></video>
 
 <a id="14-03-08-02-s3"></a>
