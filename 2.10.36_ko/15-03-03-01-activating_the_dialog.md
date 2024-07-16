@@ -1,5 +1,41 @@
 # 15.3.3.1. 마이페인트 붓 대화상자 활성화하기(Activate the dialog)
 
+<a id="15-03-03-01-s1"></a>
+
+## 1. `이미지 메뉴 바` → `창` → `도킹가능한 대화` → `마이페인트 붓`
+
+<a id="90-01-10-02-17-a101"></a>
+
+#### [그림 90.1.10.2.17.a101. `이미지 메뉴 바` → `창` → `마이페인트 붓` (Windows)](./90-01-10-02-17-mypaint_brushes.md#90-01-10-02-17-a101)
+<img width="980" height="825" alt="90-01-10-02-17-a101" src="https://github.com/user-attachments/assets/fa89e75c-c838-452c-9164-5f7530e7d585" />
+
+[다른 운영체제와 언어의 `이미지 메뉴 바` → `창` → `마이페인트 붓` 확인하기](./90-01-10-02-17-mypaint_brushes.md#90-01-10-02-17-a102)
+
+<a id="90-01-10-02-17-a101-01"></a>
+
+#### [영상 90.1.10.2.17.a101.1. `이미지 메뉴 바` → `창` → `마이페인트 붓` (Windows) (우리말)](./90-01-10-02-17-mypaint_brushes.md#90-01-10-02-17-a101-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ec811b48-2cfb-49eb-bca9-fc59bc95e109"></video>
+
+<a id="15-03-03-01-s2"></a>
+
+## 2. `대화상자` → `탭 메뉴` → `탭 추가` → `마이페인트 붓`
+
+<a id="90-05-16-01-17-a1"></a>
+
+#### [그림 90.5.16.1.17.a1. `대화상자` → `탭 메뉴` → `탭 추가` → `마이페인트 붓` (Windows) (우리말)](./90-05-16-01-17-mypaint_brushes.md#90-05-16-01-17-a1)
+<img width="358" height="754" alt="90-05-16-01-17-a1" src="https://github.com/user-attachments/assets/7f2276af-9d0a-469c-8388-50643b990f9d" />
+
+<a id="90-05-16-01-17-a1-01"></a>
+
+#### [영상 90.5.16.1.17.a1.1. `대화상자` → `탭 메뉴` → `탭 추가` → `마이페인트 붓` (Windows) (우리말)](./90-05-16-01-17-mypaint_brushes.md#90-05-16-01-17-a1-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e1b0ddb2-1709-4b4e-9ca3-bb44693c4933"></video>
+
+<a id="15-03-03-01-s3"></a>
+
+## 3. [마이페인트 붓](./14-03-08-00-mypaint-brush.md)의 도구 옵션의 마이페인트 붓 아이콘 클릭하기
+
+[14.3.8.3. 옵션(Options) - 3. 붓(Brush)](./14-03-08-03-options.md#14-03-08-03-s3)
+
 ***
 
 ## 다른 페이지로 가기

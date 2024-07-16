@@ -1,5 +1,19 @@
 # 90.5.16.1.17. 마이페인트 붓(MyPaint Brushes)
 
+<a id="90-05-16-01-17-a1"></a>
+
+#### 그림 90.5.16.1.17.a1. `대화상자` → `탭 메뉴` → `탭 추가` → `마이페인트 붓` (Windows) (우리말)
+<img width="358" height="754" alt="90-05-16-01-17-a1" src="https://github.com/user-attachments/assets/7f2276af-9d0a-469c-8388-50643b990f9d" />
+
+[15.3.3.1. 마이페인트 붓 대화상자 활성화하기(Activate the dialog) - 그림 90.5.16.1.17.a1](./15-03-03-01-activating_the_dialog.md#90-05-16-01-17-a1)
+
+<a id="90-05-16-01-17-a1-01"></a>
+
+#### 영상 90.5.16.1.17.a1.1. `대화상자` → `탭 메뉴` → `탭 추가` → `마이페인트 붓` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e1b0ddb2-1709-4b4e-9ca3-bb44693c4933"></video>
+
+[15.3.3.1. 마이페인트 붓 대화상자 활성화하기(Activate the dialog) - 영상 90.5.16.1.17.a1.1](./15-03-03-01-activating_the_dialog.md#90-05-16-01-17-a1-01)
+
 ***
 
 ## 다른 페이지로 가기
