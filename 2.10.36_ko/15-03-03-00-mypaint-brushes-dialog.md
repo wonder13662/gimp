@@ -1,5 +1,29 @@
 # 15.3.3. 마이페인트 붓 대화상자(Mypaint brushes dialog)
 
+<a id="90-04-17-a1"></a>
+
+#### [그림 90.4.17.a1. '마이페인트 붓' 대화상자](./90-04-0017-mypaint_brushes.md#90-04-17-a1)
+<img width="850" height="359" alt="90-04-17-a1" src="https://github.com/user-attachments/assets/adc5b2ba-360c-46f6-97d4-350f64498ab7" />
+
+`마이페인트 붓 대화상자(Mypaint brushes dialog)`에서 마이페인트 붓을 선택할 수 있습니다.
+
+마이페인트 붓에 대한 자세한 내용은 [14.3.8. 마이페인트 붓(Mypaint brush)](./14-03-08-00-mypaint-brush.md)를 참고해주세요.
+
+마이페인트 붓 대화상자에는 마이페인트 붓을 설정할 수 있는 여러가지 기능이 있습니다.
+
+마이페인트 붓이 활성화된 도구일때, 마이페인트 붓 대화상자의 목록에서 붓을 클릭해서 선택하면, 도구 옵션에서 클릭한 마이페인트 붓이 표시됩니다.
+
+<a id="90-04-17-a111"></a>
+
+#### [영상 90.4.17.a111. '마이페인트 붓' 대화상자 - 선택한 마이페인트 붓이 도구 옵션에 표시 (Windows) (우리말)](./90-04-0017-mypaint_brushes.md#90-04-17-a111)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6fdd776b-2b98-4ee9-9c2f-16bbb05b5ca2"></video>
+
+***
+
+## 관련 정보
+
+[14.3.8. 마이페인트 붓(Mypaint brush)](./14-03-08-00-mypaint-brush.md)
+
 ***
 
 ## 하위 페이지
