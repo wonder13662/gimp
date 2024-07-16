@@ -50,7 +50,7 @@
 
 <a id="90-01-02-11-04-a1-01"></a>
 
-#### [영상 90.1.2.11.4.a1.1. `편집` → `붙여넣기(고급)` → `새 붓` (Windows) (우리말)](./90-01-02-11-00-paste_as.md#90-01-02-11-a1-01)
+#### [영상 90.1.2.11.4.a1.1. `편집` → `붙여넣기(고급)` → `새 붓` (Windows) (우리말)](./90-01-02-11-04-new_brush.md#90-01-02-11-04-a1-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f2380746-e7d9-4471-9ba9-4e1e0dda6fde"></video>
 
 ***
