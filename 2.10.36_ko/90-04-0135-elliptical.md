@@ -5,6 +5,8 @@
 #### 그림 90.4.135.a101. `타원형 붓 만들기` 대화상자 (Windows) (우리말)
 <img width="384" height="281" alt="90-04-135-a101" src="https://github.com/user-attachments/assets/88f52ce8-a621-4722-bb3f-8ed34064f900" />
 
+[15.3.2.2.5.10. 타원형 붓 만들기(Elliptical) - 그림 90.4.135.a101](./15-03-02-02-05-10-elliptical.md#90-04-135-a101)
+
 <a id="90-04-135-a102"></a>
 
 #### 그림 90.4.135.a102. `타원형 붓 만들기` 대화상자 (Windows) (영어)

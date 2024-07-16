@@ -50,6 +50,7 @@ module.exports = {
       const pageWithAnchorPath = `${pageRootPath}/${page}`;
       const pageContents = await readFile(pageWithAnchorPath);
       const anchorTag = `<a id="${anchor}"></a>`
+      const location = `${pagePath}\n${page}`;
       if (pageContents.indexOf(anchorTag) === -1) {
         const msg = `페이지 내에 앵커 태그(${anchorTag})가 없습니다.`;
 

@@ -5,6 +5,8 @@
 #### 그림 90.4.137.a101. `사각형 붓 만들기` 대화상자 (Windows) (우리말)
 <img width="384" height="281" alt="90-04-137-a101" src="https://github.com/user-attachments/assets/6807eced-681d-4224-80ae-387baacf7ace" />
 
+[15.3.2.2.5.12. 사각형 붓 만들기(Rectangular) - 그림 90.4.137.a101](./15-03-02-02-05-12-rectangular.md#90-04-137-a101)
+
 <a id="90-04-137-a102"></a>
 
 #### 그림 90.4.137.a102. `사각형 붓 만들기` 대화상자 (Windows) (영어)

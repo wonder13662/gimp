@@ -5,6 +5,8 @@
 #### 그림 90.4.136.a101. `부드러운 외곽의 사각형 붓 만들기` 대화상자 (Windows) (우리말)
 <img width="384" height="311" alt="90-04-136-a101" src="https://github.com/user-attachments/assets/7c27bd1e-2a11-4712-8bff-1bfaaa3d4667" />
 
+[15.3.2.2.5.11. 부드러운 외곽의 사각형 붓 만들기(Rectangular Feathered) - 그림 90.4.136.a101](./15-03-02-02-05-11-rectangular_feathered.md#90-04-136-a101)
+
 <a id="90-04-136-a102"></a>
 
 #### 그림 90.4.136.a102. `부드러운 외곽의 사각형 붓 만들기` 대화상자 (Windows) (영어)

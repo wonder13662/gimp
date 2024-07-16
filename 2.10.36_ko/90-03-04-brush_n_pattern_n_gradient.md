@@ -34,6 +34,8 @@
 
 [15.3.2. 붓 대화상자(Brushes dialog) - 그림 90.3.4.a4](./15-03-02-00-brushes-dialog.md#90-03-04-a4)
 
+[15.3.2.1. 대화상자 활성화하기(Activating the Dialog) - 그림 90.3.4.a4](./15-03-02-01-activating_the_dialog.md#90-03-04-a4)
+
 [15.3.2.2.2. 붓 미리보기(Brush Previews) - 그림 90.3.4.a4](./15-03-02-02-02-brush_previews.md#90-03-04-a4)
 
 <a id="90-03-04-a4-01"></a>
