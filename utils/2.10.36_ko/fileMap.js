@@ -1155,7 +1155,7 @@ module.exports = {
         '15.3.2. 붓 대화상자'
       ],
       [
-        '15-03-03-mypaint-brushes-dialog.md', 
+        '15-03-03-00-mypaint-brushes-dialog.md', 
         '15.3.3. 마이페인트 붓 대화상자(Mypaint brushes dialog)'
       ],
       [

@@ -11,7 +11,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.3. 마이페인트 붓 대화상자(Mypaint brushes dialog)](./15-03-03-mypaint-brushes-dialog.md)
+[➡️ 다음: 15.3.3. 마이페인트 붓 대화상자(Mypaint brushes dialog)](./15-03-03-00-mypaint-brushes-dialog.md)
 
 [⬅️ 이전: 15.3.2.3.5.1. 활성화 붓 편집하기(Edit Active Brush)](./15-03-02-03-05-01-edit_active_brush.md)
 

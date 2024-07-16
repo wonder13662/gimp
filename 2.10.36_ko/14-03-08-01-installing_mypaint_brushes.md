@@ -31,7 +31,7 @@ C:\Users\your-user-name\.mypaint\brushes
 
 `기본 설정` → `폴더` → `마이페인트 붓`의 위 경로를 클릭한 뒤, 파일 브라우저를 여는 아이콘을 클릭합니다. 맥에서는 폴더가 그 위치에 없더라도 별도의 에러 메시지는 뜨지 않습니다. 하지만 폴더가 없다면, `/Users/YourUserName`에 `.mypaint\brushes` 디렉토리를 추가해 주어야 합니다. 그리고 사용자가 받은 마이페인트 붓 파일들을 이 폴더로 붙여넣기 합니다.
 
-마이페인트 붓 파일을 붙여넣기 한 뒤에, GIMP(김프)를 재시작하거나 [마이페인트 붓 대화상자](./15-03-03-mypaint-brushes-dialog.md)의 아래쪽의 `MyPaint 붓을 새로 고칩니다(Refresh MyPaint Brushes)` 버튼을 눌러 갱신하면 추가한 마이페인트 붓을 사용할 수 있습니다.
+마이페인트 붓 파일을 붙여넣기 한 뒤에, GIMP(김프)를 재시작하거나 [마이페인트 붓 대화상자](./15-03-03-00-mypaint-brushes-dialog.md)의 아래쪽의 `MyPaint 붓을 새로 고칩니다(Refresh MyPaint Brushes)` 버튼을 눌러 갱신하면 추가한 마이페인트 붓을 사용할 수 있습니다.
 
 <a id="90-04-17-a11"></a>
 
