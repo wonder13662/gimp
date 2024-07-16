@@ -1,5 +1,10 @@
 # 15.3.2.3.5. 붓 편집기 컨텍스트 메뉴(Brush Editor Context Menu)
 
+<a id="90-04-53-a101-01-01-01"></a>
+
+#### [그림 90.4.53.a101.1.1.1. `붓 편집기` 대화상자 → `탭 메뉴` → `붓 편집기 메뉴` (Windows) (우리말)](./90-04-0053-brush_editor.md#90-04-53-a101-01-01-01)
+<img width="345" height="213" alt="90-04-53-a101-01-01-01" src="https://github.com/user-attachments/assets/d5e6a638-5e4a-4808-b498-81e172f9619b" />
+
 ***
 
 ## 하위 페이지
