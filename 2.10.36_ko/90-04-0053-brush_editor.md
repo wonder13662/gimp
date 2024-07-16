@@ -27,6 +27,22 @@
 #### 그림 90.4.53.a101.1.1.1. `붓 편집기` 대화상자 → `탭 메뉴` → `붓 편집기 메뉴` (Windows) (우리말)
 <img width="345" height="213" alt="90-04-53-a101-01-01-01" src="https://github.com/user-attachments/assets/d5e6a638-5e4a-4808-b498-81e172f9619b" />
 
+[15.3.2.3.5. 붓 편집기 컨텍스트 메뉴(Brush Editor Context Menu) - ](./15-03-02-03-05-00-brush_editor_context_menu.md#90-04-53-a101-01-01-01)
+
+<a id="90-04-53-a101-01-01-01-01"></a>
+
+#### 그림 90.4.53.a101.1.1.1.1. `붓 편집기` 대화상자 → `탭 메뉴` → `붓 편집기 메뉴` → `활성화 붓 편집하기` (Windows) (우리말)
+<img width="345" height="213" alt="90-04-53-a101-01-01-01-01" src="https://github.com/user-attachments/assets/a47bd42e-87c9-4bc3-a34f-c5ba96c3fa77" />
+
+[15.3.2.3.5.1. 활성화 붓 편집하기(Edit Active Brush) - 그림 90.4.53.a101.1.1.1.1](./15-03-02-03-05-01-edit_active_brush.md#90-04-53-a101-01-01-01-01)
+
+<a id="90-04-53-a101-01-01-01-01-01"></a>
+
+#### 영상 90.4.53.a101.1.1.1.1.1. `붓 편집기` 대화상자 → `탭 메뉴` → `붓 편집기 메뉴` → `활성화 붓 편집하기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/58650409-7901-46af-a8a7-8cf8d9f0dd7c"></video>
+
+[15.3.2.3.5.1. 활성화 붓 편집하기(Edit Active Brush) - 영상 90.4.53.a101.1.1.1.1.1](./15-03-02-03-05-01-edit_active_brush.md#90-04-53-a101-01-01-01-01-01)
+
 <a id="90-04-53-a101-02"></a>
 
 #### 그림 90.4.53.a101.2. `붓 편집기` 대화상자 → `타이틀 바` (Windows) (우리말)
