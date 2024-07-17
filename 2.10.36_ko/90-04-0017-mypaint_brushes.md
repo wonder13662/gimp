@@ -166,7 +166,16 @@
 <a id="90-04-17-a101-03-02"></a>
 
 #### 그림 90.4.17.a101.3.2. '마이페인트 붓' 대화상자 → `MyPaint 붓 메뉴` → `파일 관리자에 표시` (Windows) (우리말)
-<img width="382" height="313" alt="" src="" />
+<img width="382" height="313" alt="90-04-17-a101-03-02" src="https://github.com/user-attachments/assets/e3e1a9a9-9e4a-4ca7-b295-7f49bb2995ba" />
+
+[15.3.3.2.5.2. 파일 관리자에 표시(Show in File Manager) - 그림 90.4.17.a101.3.2](./15-03-03-02-05-02-show_in_file_manager.md#90-04-17-a101-03-02)
+
+<a id="90-04-17-a101-03-02-01"></a>
+
+#### 영상 90.4.17.a101.3.2.1. '마이페인트 붓' 대화상자 → `MyPaint 붓 메뉴` → `파일 관리자에 표시` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/3588791b-8aad-4c84-95a0-b66112895378"></video>
+
+[15.3.3.2.5.2. 파일 관리자에 표시(Show in File Manager) - 영상 90.4.17.a101.3.2.1](./15-03-03-02-05-02-show_in_file_manager.md#90-04-17-a101-03-02-01)
 
 <a id="90-04-17-a101-03-03"></a>
 
