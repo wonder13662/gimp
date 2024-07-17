@@ -142,6 +142,13 @@
 
 [14.3.8.1. 마이페인트 붓 설치하기(Installing MyPaing Brushes) - 파일 90.4.17.a101.2.4.4.2](./14-03-08-01-installing_mypaint_brushes.md#90-04-17-a101-02-04-04-02)
 
+<a id="90-04-17-a101-03"></a>
+
+#### 그림 90.4.17.a101.3. '마이페인트 붓' 대화상자 → `MyPaint 붓 메뉴` (Windows) (우리말)
+<img width="382" height="313" alt="90-04-17-a101-03" src="https://github.com/user-attachments/assets/5181274c-7cbf-4fd8-b239-2d897de539e9" />
+
+[15.3.3.2.5. 마이페인트 붓 컨텍스트 메뉴(The Mypaint brushes context menu) - 그림 90.4.17.a101.3](./15-03-03-02-05-00-the_mypaint_brushes_context_menu.md#90-04-17-a101-03)
+
 <a id="90-04-17-a102"></a>
 
 #### 그림 90.4.17.a102. '마이페인트 붓' 대화상자 (Windows) (영어)

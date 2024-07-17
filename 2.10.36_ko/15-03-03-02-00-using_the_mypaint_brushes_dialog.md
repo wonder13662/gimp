@@ -31,13 +31,13 @@
 
 [15.3.3.2.5. 마이페인트 붓 컨텍스트 메뉴(The Mypaint brushes context menu)](./15-03-03-02-05-00-the_mypaint_brushes_context_menu.md)
 
-[15.3.3.2.5.1. 마이페인트 붓 위치 복사(Copy Mypaint brush location)](./15-03-03-02-05-01-copy_mypaint_brush_location.md)
+[15.3.3.2.5.1. MyPaint 붓 위치 복사(Copy Mypaint brush location)](./15-03-03-02-05-01-copy_mypaint_brush_location.md)
 
 [15.3.3.2.5.2. 파일 관리자에 표시(Show in File Manager)](./15-03-03-02-05-02-show_in_file_manager.md)
 
-[15.3.3.2.5.3. 마이페인트 붓 삭제(Delete Mypaint brush)](./15-03-03-02-05-03-delete_mypaint_brush.md)
+[15.3.3.2.5.3. MyPaint 붓 삭제(Delete Mypaint brush)](./15-03-03-02-05-03-delete_mypaint_brush.md)
 
-[15.3.3.2.5.4. 마이페인트 붓 새로고침(Refresh Mypaint brush)](./15-03-03-02-05-04-refresh_mypaint_brush.md)
+[15.3.3.2.5.4. MyPaint 붓 새로 고침(Refresh Mypaint brush)](./15-03-03-02-05-04-refresh_mypaint_brush.md)
 
 ***
 

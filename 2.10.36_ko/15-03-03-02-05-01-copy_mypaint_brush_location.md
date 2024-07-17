@@ -1,4 +1,4 @@
-# 15.3.3.2.5.1. 마이페인트 붓 위치 복사(Copy Mypaint brush location)
+# 15.3.3.2.5.1. MyPaint 붓 위치 복사(Copy Mypaint brush location)
 
 ***
 

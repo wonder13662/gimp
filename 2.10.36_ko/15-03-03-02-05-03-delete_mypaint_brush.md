@@ -1,10 +1,10 @@
-# 15.3.3.2.5.3. 마이페인트 붓 삭제(Delete Mypaint brush)
+# 15.3.3.2.5.3. MyPaint 붓 삭제(Delete Mypaint brush)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.3.2.5.4. 마이페인트 붓 새로고침(Refresh Mypaint brush)](./15-03-03-02-05-04-refresh_mypaint_brush.md)
+[➡️ 다음: 15.3.3.2.5.4. MyPaint 붓 새로 고침(Refresh Mypaint brush)](./15-03-03-02-05-04-refresh_mypaint_brush.md)
 
 [⬅️ 이전: 15.3.3.2.5.2. 파일 관리자에 표시(Show in File Manager)](./15-03-03-02-05-02-show_in_file_manager.md)
 

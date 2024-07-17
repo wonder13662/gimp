@@ -1,4 +1,4 @@
-# 15.3.3.2.5.4. 마이페인트 붓 새로고침(Refresh Mypaint brush)
+# 15.3.3.2.5.4. MyPaint 붓 새로 고침(Refresh Mypaint brush)
 
 ***
 
@@ -6,7 +6,7 @@
 
 [➡️ 다음: 15.3.4. 무늬 대화상자(Patterns dialog)](./15-03-04-patterns-dialog.md)
 
-[⬅️ 이전: 15.3.3.2.5.3. 마이페인트 붓 삭제(Delete Mypaint brush)](./15-03-03-02-05-03-delete_mypaint_brush.md)
+[⬅️ 이전: 15.3.3.2.5.3. MyPaint 붓 삭제(Delete Mypaint brush)](./15-03-03-02-05-03-delete_mypaint_brush.md)
 
 [⬆️ 위: 15.3.3.2.5. 마이페인트 붓 컨텍스트 메뉴(The Mypaint brushes context menu)](./15-03-03-02-05-00-the_mypaint_brushes_context_menu.md)
 
