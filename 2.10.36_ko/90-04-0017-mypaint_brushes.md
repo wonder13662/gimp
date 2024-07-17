@@ -154,7 +154,7 @@
 #### 그림 90.4.17.a101.3.1. '마이페인트 붓' 대화상자 → `MyPaint 붓 메뉴` → `MyPaint 붓 위치 복사` (Windows) (우리말)
 <img width="382" height="313" alt="90-04-17-a101-03-01" src="https://github.com/user-attachments/assets/cb6b3bcd-644c-44c6-a27f-9e32b493e30b" />
 
-[15.3.3.2.5.4. MyPaint 붓 새로 고침(Refresh Mypaint brush) - 그림 90.4.17.a101.3.1](./15-03-03-02-05-04-refresh_mypaint_brush.md#90-04-17-a101-03-01)
+[15.3.3.2.5.1. MyPaint 붓 위치 복사(Copy Mypaint brush location) - 그림 90.4.17.a101.3.1](./15-03-03-02-05-01-copy_mypaint_brush_location.md#90-04-17-a101-03-01)
 
 <a id="90-04-17-a101-03-01-01"></a>
 

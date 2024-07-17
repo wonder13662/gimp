@@ -35,11 +35,11 @@ const doAsyncJob = async () => {
     }, new Set())
 
     // 1-4-1. 시작과 끝 페이지를 지정해서 그 범위 안의 모든 페이지를 검사
-    const 검사대상_시작_파일_번호 = files.indexOf('15-03-01-02-09-fg_n_bg.md')
+    const 검사대상_시작_파일_번호 = files.indexOf('15-03-02-04-the_cliprboard_brush.md')
     if (검사대상_시작_파일_번호 === -1) {
       throw new Error('첫번째 검사 대상 파일이 유효하지 않습니다.')
     }
-    const 검사대상_마지막_파일_번호 = files.indexOf('15-03-02-04-the_cliprboard_brush.md')
+    const 검사대상_마지막_파일_번호 = files.indexOf('15-03-03-02-05-04-refresh_mypaint_brush.md')
     if (검사대상_마지막_파일_번호 === -1) {
       throw new Error('마지막 검사 대상 파일이 유효하지 않습니다.')
     }
