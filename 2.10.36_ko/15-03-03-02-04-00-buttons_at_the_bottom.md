@@ -1,5 +1,10 @@
 # 15.3.3.2.4. 대화상자 아래쪽 버튼들과 슬라이더(Buttons at the bottom)
 
+<a id="90-04-17-a101-02-04"></a>
+
+#### [그림 90.4.17.a101.2.4. '마이페인트 붓' 대화상자: 격자 모드 → `대화상자 아래쪽 버튼들` (Windows) (우리말)](./90-04-0017-mypaint_brushes.md#90-04-17-a101-02-04)
+<img width="200" height="255" alt="90-04-17-a101-02-04" src="https://github.com/user-attachments/assets/ef087e5e-67fd-44f4-b645-7fb5dce27111" />
+
 ***
 
 ## 하위 페이지
