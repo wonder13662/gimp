@@ -9,7 +9,7 @@
 
 ## 하위 페이지
 
-[15.3.3.2.4.1. 마이페인트 붓 편집(Edit Mypaing brush)](./15-03-03-02-04-01-edit_mypaint_brush.md)
+[15.3.3.2.4.1. 마이페인트 붓 편집(Edit Mypaint brush)](./15-03-03-02-04-01-edit_mypaint_brush.md)
 
 [15.3.3.2.4.2. 마이페인트 붓 복제(Duplicate brush)](./15-03-03-02-04-02-duplicate_brush.md)
 
@@ -21,7 +21,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.3.2.4.1. 마이페인트 붓 편집(Edit Mypaing brush)](./15-03-03-02-04-01-edit_mypaint_brush.md)
+[➡️ 다음: 15.3.3.2.4.1. 마이페인트 붓 편집(Edit Mypaint brush)](./15-03-03-02-04-01-edit_mypaint_brush.md)
 
 [⬅️ 이전: 15.3.3.2.3. 태그(Tagging)](./15-03-03-02-03-tagging.md)
 

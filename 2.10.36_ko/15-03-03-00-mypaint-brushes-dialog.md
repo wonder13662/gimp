@@ -44,7 +44,7 @@
 
 [15.3.3.2.4. 대화상자 아래쪽 버튼들과 슬라이더(Buttons at the bottom)](./15-03-03-02-04-00-buttons_at_the_bottom.md)
 
-[15.3.3.2.4.1. 마이페인트 붓 편집(Edit Mypaing brush)](./15-03-03-02-04-01-edit_mypaint_brush.md)
+[15.3.3.2.4.1. 마이페인트 붓 편집(Edit Mypaint brush)](./15-03-03-02-04-01-edit_mypaint_brush.md)
 
 [15.3.3.2.4.2. 마이페인트 붓 복제(Duplicate brush)](./15-03-03-02-04-02-duplicate_brush.md)
 
