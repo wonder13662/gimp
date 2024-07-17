@@ -9,6 +9,12 @@
 
 ***
 
+## 관련 정보
+
+[15.3.3.2.4.3. 마이페인트 붓 삭제(Delete brush)](./15-03-03-02-04-03-delete_brush.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 15.3.3.2.5.4. MyPaint 붓 새로 고침(Refresh Mypaint brush)](./15-03-03-02-05-04-refresh_mypaint_brush.md)

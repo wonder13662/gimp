@@ -1,5 +1,18 @@
 # 15.3.3.2.5.4. MyPaint 붓 새로 고침(Refresh Mypaint brush)
 
+<a id="90-04-17-a101-03-04"></a>
+
+#### [그림 90.4.17.a101.3.4. '마이페인트 붓' 대화상자 → `MyPaint 붓 메뉴` → `MyPaint 붓 새로 고침` (Windows) (우리말)](./90-04-0017-mypaint_brushes.md#90-04-17-a101-03-04)
+<img width="382" height="313" alt="90-04-17-a101-03-04" src="https://github.com/user-attachments/assets/c8384129-5e39-4ed2-b1ab-eab40ed6f274" />
+
+[15.3.3.2.4.4. 마이페인트 붓 새로고침(Refresh brush)](./15-03-03-02-04-04-refresh_brushes.md)을 참고해주세요.
+
+***
+
+## 관련 정보
+
+[15.3.3.2.4.4. 마이페인트 붓 새로고침(Refresh brush)](./15-03-03-02-04-04-refresh_brushes.md)
+
 ***
 
 ## 다른 페이지로 가기
