@@ -31,6 +31,20 @@
 
 [15.3.3.2.1.2. 목록 모드(List mode) - 그림 90.4.17.a101.1](./15-03-03-02-01-02-list_mode.md#90-04-17-a101-01)
 
+<a id="90-04-17-a101-01-01"></a>
+
+#### 그림 90.4.17.a101.1.1. '마이페인트 붓' 대화상자: 목록 모드 → `미리보기` (Windows) (우리말)
+<img width="200" height="255" alt="90-04-17-a101-01-01" src="https://github.com/user-attachments/assets/e96689fb-8302-4b74-b874-b43e58929b05" />
+
+[15.3.3.2.2. 마이페인트 붓 미리보기(Mypaint brushes previews) - 그림 90.4.17.a101.1.1](./15-03-03-02-02-mypaint_brush_previews.md#90-04-17-a101-01-01)
+
+<a id="90-04-17-a101-01-01-01"></a>
+
+#### 영상 90.4.17.a101.1.1.1. '마이페인트 붓' 대화상자: 목록 모드 → `미리보기`: 클릭하여 활성화하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/c1f60b09-8e06-435c-8934-699f7798733a"></video>
+
+[15.3.3.2.2. 마이페인트 붓 미리보기(Mypaint brushes previews) - 영상 90.4.17.a101.1.1.1](./15-03-03-02-02-mypaint_brush_previews.md#90-04-17-a101-01-01-01)
+
 <a id="90-04-17-a101-02-01"></a>
 
 #### 그림 90.4.17.a101.2.1. '마이페인트 붓' 대화상자: 격자 모드 → `필터 박스` (Windows) (우리말)
@@ -58,6 +72,13 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/415bfc3a-0064-4c2a-a639-5a368fcb18bd"></video>
 
 [15.3.3.2.1.1. 격자 모드(Grid mode) - 영상 90.4.17.a101.2.2.1](./15-03-03-02-01-01-grid_mode.md#90-04-17-a101-02-02-01)
+
+<a id="90-04-17-a101-02-02-02"></a>
+
+#### 그림 90.4.17.a101.2.2.2. '마이페인트 붓' 대화상자: 격자 모드 → `미리보기` (Windows) (우리말)
+<img width="200" height="255" alt="90-04-17-a101-02-02-02" src="https://github.com/user-attachments/assets/3cc540e0-e5e1-4d09-9b9c-6a38d83aa5ef" />
+
+[15.3.3.2.2. 마이페인트 붓 미리보기(Mypaint brushes previews) - 그림 90.4.17.a101.2.2.2](./15-03-03-02-02-mypaint_brush_previews.md#90-04-17-a101-02-02-02)
 
 <a id="90-04-17-a101-02-03"></a>
 
