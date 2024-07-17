@@ -1,5 +1,25 @@
 # 15.3.3.2.4.4. 마이페인트 붓 새로고침(Refresh brush)
 
+<a id="90-04-17-a101-02-04-04"></a>
+
+#### [그림 90.4.17.a101.2.4.4. '마이페인트 붓' 대화상자: 격자 모드 → `대화상자 아래쪽 버튼들` → `마이페인트 붓 새로고침` (Windows) (우리말)](./90-04-0017-mypaint_brushes.md#90-04-17-a101-02-04-04)
+<img width="200" height="255" alt="90-04-17-a101-02-04-04" src="https://github.com/user-attachments/assets/d901dbdc-7194-4500-b619-e19e63c9cbb7" />
+
+사용자의 마이페인트 붓 경로에 마이페인트 붓을 추가한다면, `마이페인트 붓 새로고침(Refresh brush)` 버튼을 눌러 마이페인트 붓 목록을 갱신할 수 있습니다.
+
+<a id="90-04-17-a101-02-04-04-01"></a>
+
+#### [영상 90.4.17.a101.2.4.4.1. '마이페인트 붓' 대화상자: 격자 모드 → `대화상자 아래쪽 버튼들` → `마이페인트 붓 새로고침` (Windows) (우리말)](./90-04-0017-mypaint_brushes.md#90-04-17-a101-02-04-04-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/211b2307-917b-4ffc-96c2-f0e3f66d8a38"></video>
+
+마이페인트 붓 파일 경로 및 예제 파일은 [14.3.8.1. 마이페인트 붓 설치하기(Installing MyPaing Brushes)](./14-03-08-01-installing_mypaint_brushes.md)을 참고해주세요.
+
+***
+
+## 관련 정보
+
+[14.3.8.1. 마이페인트 붓 설치하기(Installing MyPaing Brushes)](./14-03-08-01-installing_mypaint_brushes.md)
+
 ***
 
 ## 다른 페이지로 가기
