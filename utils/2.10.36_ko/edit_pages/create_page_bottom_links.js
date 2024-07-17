@@ -143,4 +143,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('15-03-03-02-05-04-refresh_mypaint_brush.md')
+doAsyncJob('15-03-04-04-the_clipboard_pattern.md')
