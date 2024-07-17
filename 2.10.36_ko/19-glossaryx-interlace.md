@@ -1,4 +1,4 @@
-# 인터레이싱(PostScript)
+# 19. 용어집 - 인터레이싱(PostScript)
 
 ***
 

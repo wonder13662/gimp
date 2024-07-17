@@ -1,4 +1,4 @@
-# 컬러 캐스트(Color cast)
+# 19. 용어집 - 컬러 캐스트(Color cast)
 
 [Wikipedia - Colour cast](https://en.wikipedia.org/wiki/Colour_cast)
 

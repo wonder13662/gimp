@@ -1,1 +1,1 @@
-# 베지에 곡선(Bézier-curves)
+# 19. 용어집 - 베지에 곡선(Bézier-curves)

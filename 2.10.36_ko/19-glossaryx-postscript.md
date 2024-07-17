@@ -1,4 +1,4 @@
-# 포스트스크립트(PostScript)
+# 19. 용어집 - 포스트스크립트(PostScript)
 
 ***
 

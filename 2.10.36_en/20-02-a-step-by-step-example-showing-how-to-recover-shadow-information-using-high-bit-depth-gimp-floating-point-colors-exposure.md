@@ -1,4 +1,4 @@
-# 20-02-a-step-by-step-example-showing-how-to-recover-shadow-information-using-high-bit-depth-gimp-floating-point-colors-exposure.md
+# 20.2. A step-by-step example showing how to recover shadow information using high bit depth GIMP’s floating point “Colors/Exposure”
 ## ? [?]()
 
 ### [Home](./00-home.md)

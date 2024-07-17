@@ -1,4 +1,4 @@
-## 2.1.3. 커맨드 라인 실행 옵션들(Command line arguments)
+# 2.1.3. 커맨드 라인 실행 옵션들(Command line arguments)
 
 GIMP(김프)를 시작할 때, 추가적인 인자(argument) 또는 옵션(Option) 값이 필요하지는 않습니다. 하지만 가장 자주 사용되는 것들을 설명해두었습니다. Unix 시스템에서는 `man gimp` 명령으로 전체 인자(argument) 목록을 확인할 수 있습니다.
 

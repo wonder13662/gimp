@@ -1,7 +1,5 @@
 # GIMP(김프) 2.10.36
 
-***
-
 ## Part I. 시작하기
 
 [1. 소개](./01-00-introduction.md)
@@ -124,7 +122,7 @@
 
 [3.5.1. 목적](./03-05-01-intention.md)
 
-[3.5.2. 직선그리기 예제들](./03-05-02-examples.md)
+[3.5.2. 직선그리기 예제](./03-05-02-examples.md)
 
 [4. 문제 해결하기](./04-00-what-to-do-if-you-are-stuck.md)
 
@@ -148,7 +146,7 @@
 
 [4.2.8. 인덱스 모드에서의 이미지](./04-02-08-the-image-is-in-indexed-color-mode.md)
 
-[4.2.9. 붓, 지우개 또는 다른 툴로 작업한 효과가 보이지 않는 경우](./04-02-09-no-visible-effect-when-trying-to-use-a-brush-eraser-or-other-tool.md)
+[4.2.9. 붓, 지우개 또는 다른 도구로 작업한 효과가 보이지 않는 경우](./04-02-09-no-visible-effect-when-trying-to-use-a-brush-eraser-or-other-tool.md)
 
 [4.2.10. 이동, 회전 또는 다른 변형 도구로 작업한 효과가 보이지 않는 경우](./04-02-10-no-visible-effect-when-trying-to-use-the-move-tool-rotate-or-other-transform-tool.md)
 
@@ -180,8 +178,6 @@
 
 [4.4.2. gif 이미지로 내보냈더니 색상이 바뀌었습니다](./04-04-02-i-am-exporting-to-a-gif-image-and-the-colors-changed.md)
 
-***
-
 ## Part II. GIMP(김프) 마법사가 되려면?
 
 [5. GIMP(김프)로 이미지 불러오기](./05-00-getting-images-into-gimp.md)
@@ -196,15 +192,15 @@
 
 [5.3.1.1. PDF 불러오기](./05-03-01-01-import_from_pdf.md)
 
-[5.3.1.2. PostScript 불러오기](./05-03-01-02-import_from_postscript.md)
+[5.3.1.2. 포스트스크립트(PostScript) 불러오기](./05-03-01-02-import_from_postscript.md)
 
-[5.3.2. 위치 열기](./05-03-02-open-location.md)
+[5.3.2. 위치 열기(Open Location)](./05-03-02-open-location.md)
 
 [5.3.3. 최근 연 파일](./05-03-03-open-recent.md)
 
 [5.3.4. 외부 프로그램 사용하기](./05-03-04-using-external-programs.md)
 
-[5.3.5. 파일 관리자](./05-03-05-file-manager.md)
+[5.3.5. 파일 관리자(File Manager)](./05-03-05-file-manager.md)
 
 [5.3.6. 끌어놓기(드래그 앤 드롭)](./05-03-06-drag-and-drop.md)
 
@@ -212,11 +208,13 @@
 
 [5.3.8. 이미지 브라우저](./05-03-08-image-browser.md)
 
-[6. Getting Images out of GIMP](./06-00-getting-images-out-of-gimp.md)
+[6. GIMP(김프)에서 이미지 내보내기](./06-00-getting-images-out-of-gimp.md)
 
-[6.1. Files](./06-01-00-files.md)
+[6.1. 파일](./06-01-00-files.md)
 
 [6.1.1. 이미지 저장/내보내기](./06-01-01-save_export_images.md)
+
+[6.1.2. 파일 형식](./06-01-02-00-file_formats.md)
 
 [6.1.2.1. GIF로 이미지 내보내기](./06-01-02-01-export_image_as_gif.md)
 
@@ -232,9 +230,7 @@
 
 [6.1.2.7. MNG로 이미지 내보내기](./06-01-02-07-export_image_as_mng.md)
 
-[6.1.2. 파일 형식](./06-01-02-00-file_formats.md)
-
-[6.2. Preparing your Images for the Web](./06-02-00-preparing-your-images-for-the-web.md)
+[6.2. 웹용 이미지 만들기](./06-02-00-preparing-your-images-for-the-web.md)
 
 [6.2.1. 이미지의 최적 크기 및 화질 비율](./06-02-01-images-with-an-optimal-size-quality-ratio.md)
 
@@ -246,7 +242,7 @@
 
 [7.1. 선택](./07-01-00-the-selection.md)
 
-[7.1.1. 페더링](./07-01-01-feathering.md)
+[7.1.1. 페더링(Feathering)](./07-01-01-feathering.md)
 
 [7.1.2. 부분적으로 투명한 선택 만들기](./07-01-02-making_a_selection_partially_transparent.md)
 
@@ -259,6 +255,10 @@
 [7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기](./07-02-01-01-01-moving_and_resizing_the_selection_outline.md)
 
 [7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기](./07-02-01-01-02-moving_the_selection_with_the_image_contents.md)
+
+[7.2.1.2. 다른 선택 도구들을 옮기기](./07-02-01-02-moving_using_other_selection_tools.md)
+
+[7.2.1.3. 선택을 옮기는 또다른 방법](./07-02-01-03-a_different_method_of_moving_a_selection.md)
 
 [7.2.2. 선택 더하기/빼기](./07-02-02-adding-or-subtracting-selections.md)
 
@@ -310,7 +310,7 @@
 
 [7.8.2.1. 1차원 이미지 파이프(One diemnsion image pipe)](./07-08-02-01-one_dimension_image_pipe.md)
 
-[7.8.2.2. 3차원 이미지 호스(A 3 dimension image hose)](./07-08-02-02-three_dimension_image_hose.md)
+[7.8.2.2. 3차원 이미지 호스(A three dimension image hose)](./07-08-02-02-three_dimension_image_hose.md)
 
 [7.9. 붓 크기 바꾸기](./07-09-00-changing-brush-size.md)
 
@@ -380,25 +380,45 @@
 
 [8.2.2.1. 밝은 색만(Lighten only)](./08-02-02-01-00-lighten_only.md)
 
+[8.2.2.1.1. 밝은 색만(Lighten only) 모드 방정식](./08-02-02-01-01-equation.md)
+
 [8.2.2.2. 휘도가 밝은 색만(Luma/Luminance lighten only)](./08-02-02-02-00-luma.md)
+
+[8.2.2.2.1. 휘도가 밝은 색만(Luma/Luminance lighten only) 모드 방정식](./08-02-02-02-01-00-equation.md)
+
+[8.2.2.2.1.1. 휘도(Luminance)가 CIE Lab 또는 CIE LCh의 밝기(Lightness) 인가요?](./08-02-02-02-01-01-lch_lightness.md)
 
 [8.2.2.3. 화면(Screen)](./08-02-02-03-00-screen.md)
 
+[8.2.2.3.1. 화면(Screen) 모드 방정식](./08-02-02-03-01-equation.md)
+
 [8.2.2.4. 닷지(Dodge)](./08-02-02-04-00-dodge.md)
 
+[8.2.2.4.1. 닷지(Dodge) 모드 방정식](./08-02-02-04-01-equation.md)
+
 [8.2.2.5. 더하기(Addition)](./08-02-02-05-00-addition.md)
+
+[8.2.2.5.1. 더하기(Addition) 모드 방정식](./08-02-02-05-01-equation.md)
 
 [8.2.3. 레이어 모드-어두움(Darken)](./08-02-03-00-darken-layer-modes.md)
 
 [8.2.3.1. 어두운 색만(Darken only)](./08-02-03-01-00-darken_only.md)
 
+[8.2.3.1.1. 어두운 색만(Darken only) 모드 방정식](./08-02-03-01-01-equation.md)
+
 [8.2.3.2. 휘도가 어두운 색만(Luma/Luminance darken only)](./08-02-03-02-00-luma_darken_only.md)
 
+[8.2.3.2.1. 휘도가 어두운 색만(Luma/Luminance darken only) 모드 방정식](./08-02-03-02-01-equation.md)
+
 [8.2.3.3. 곱하기(Multiply)](./08-02-03-03-00-multiply.md)
+
+[8.2.3.3.1. 곱하기(Multiply) 모드 방정식](./08-02-03-03-01-equation.md)
 
 [8.2.3.4. 번(Burn)](./08-02-03-04-burn.md)
 
 [8.2.3.5. 선형적 번(Linear burn)](./08-02-03-05-00-linear_burn.md)
+
+[8.2.3.5.1. 선형적 번(Linear burn) 모드 방정식](./08-02-03-05-01-equation.md)
 
 [8.2.4. 레이어 모드-대조(Contrast)](./08-02-04-00-contrast-layer-modes.md)
 
@@ -432,7 +452,7 @@
 
 [8.2.6. 레이어 모드-HSV components](./08-02-06-00-hsv-components-layer-modes.md)
 
-[8.2.6.1. HSV 색상(HSV Hue)](./08-02-06-01-hsv_hue.md)
+[8.2.6.1. HSV 색상(HSV Hue) ](./08-02-06-01-hsv_hue.md)
 
 [8.2.6.2. HSV 채도(HSV Saturation)](./08-02-06-02-hsv_saturation.md)
 
@@ -441,6 +461,16 @@
 [8.2.6.4. HSV 명도(HSV Value)](./08-02-06-04-hsv_value.md)
 
 [8.2.7. 레이어 모드-LCh components](./08-02-07-00-lch-components-layer-modes.md)
+
+[8.2.7.1. LCh 색상(LCh Hue)](./08-02-07-01-lch_hue.md)
+
+[8.2.7.2. LCh 크로마(LCh Chroma)](./08-02-07-02-lch_chroma.md)
+
+[8.2.7.3. LCh Color(LCh Color)](./08-02-07-03-lch_color.md)
+
+[8.2.7.4. LCh 밝기(LCh Lightness)](./08-02-07-04-lch_lightness.md)
+
+[8.2.7.5. 휘도(Luminance)](./08-02-07-05-luminance.md)
 
 [8.3. 레거시 레이어 모드](./08-03-00-legacy-layer-modes.md)
 
@@ -510,7 +540,7 @@
 
 [8.5.10. 불투명도(Opacity)](./08-05-10-opacity.md)
 
-[8.5.11. 레이어 마스크(Layer Mask)](./08-05-11-layer_mask.md)
+[8.5.11. 레이어 그룹 마스크(Layer Group Mask)](./08-05-11-layer_mask.md)
 
 [8.5.12. 레이어 찾기(Finding a layer)](./08-05-12-finding_a_layer.md)
 
@@ -742,6 +772,10 @@
 
 [12.1.16. 화면(Display)](./12-01-16-00-display.md)
 
+[12.1.16.1. 투명(Transparency)](./12-01-16-01-transparency.md)
+
+[12.1.16.2. 모니터 해상도(Monitor Resolution)](./12-01-16-02-monitor_resolution.md)
+
 [12.1.17. 창 관리(Window Management)](./12-01-17-00-window-management.md)
 
 [12.1.17.1. 창 관리 설정(Window Manager Hints)](./12-01-17-01-window_manager_hints.md)
@@ -822,7 +856,7 @@
 
 [13.3.1. Scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-00-getting-acquainted-with-scheme.md)
 
-[13.3.1.1. Scheme을 시작해봅시다(Let's Start Scheme'ing))](./13-03-01-01-lets_start_schemeing.md)
+[13.3.1.1. Scheme을 시작해봅시다(Let's Start Scheme'ing)](./13-03-01-01-lets_start_schemeing.md)
 
 [13.3.1.2. 접두사, 삽입사, 접미사 예제(Examples Of Prefix, Infix, And Postfix Notations)](./13-03-01-02-example_of_prefix_infix_n_postfix_notations.md)
 
@@ -848,7 +882,7 @@
 
 [13.3.2.6. 함수(Functions)](./13-03-02-06-functions.md)
 
-[13.3.3. 더 많은 리스트(Lists, lists and more lists)](./13-03-03-00-lists-lists-and-more-lists.md)
+[13.3.3. 리스트](./13-03-03-00-lists-lists-and-more-lists.md)
 
 [13.3.3.1. 리스트 정의하기](./13-03-03-01-defining_a_list.md)
 
@@ -979,8 +1013,6 @@
 [13.4.12. Random Map](./13-04-12-random_map.md)
 
 [13.4.13. Truchet](./13-04-13-truchet.md)
-
-***
 
 ## Part III. 기능 설명(Function Reference)
 
@@ -1184,6 +1216,20 @@
 
 [14.3.4.3. 옵션(Options)](./14-03-04-03-00-options.md)
 
+[14.3.4.3.1. 모드(Mode)](./14-03-04-03-01-mode.md)
+
+[14.3.4.3.2. 불투명(Opacity)](./14-03-04-03-02-opacity.md)
+
+[14.3.4.3.3. 채우기 유형(Fill Type)](./14-03-04-03-03-fill_type.md)
+
+[14.3.4.3.4. 영향을 받는 영역(Affected Area)](./14-03-04-03-04-00-affected_area.md)
+
+[14.3.4.3.4.1. Smart Colorization](./14-03-04-03-04-01-smart_colorization.md)
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors)](./14-03-04-03-05-finding_similar_colors.md)
+
+[14.3.4.3.6. 선화 감지 옵션("Line Art Detection" option)](./14-03-04-03-06-line_art_detection_options.md)
+
 [14.3.4.4. 흐릿한 경계가 있는 선택 채우기(Fill a feathered selection)](./14-03-04-04-fill_a_feathered_selection.md)
 
 [14.3.5. 그라디언트(Gradient)](./14-03-05-00-gradient.md)
@@ -1356,6 +1402,8 @@
 
 [14.4.1.1.7. 안내선(Guides)](./14-04-01-01-07-guides.md)
 
+[14.4.1.2. 경로 변형하기(Transforming paths)](./14-04-01-02-transforming_paths.md)
+
 [14.4.2. 정렬(Align)](./14-04-02-00-align.md)
 
 [14.4.2.1. 도구 활성화하기(Activating the tools)](./14-04-02-01-activating_the_tool.md)
@@ -1412,7 +1460,7 @@
 
 [14.4.4.3.9. 안내선(Guides)](./14-04-04-03-09-guides.md)
 
-[14.4.4.3.10. 자동 줄이기(Auto Shrink)](./14-04-04-03-10-autoshrink.md)
+[14.4.4.3.10. 자동 줄이기(Autoshrink)](./14-04-04-03-10-autoshrink.md)
 
 [14.4.4.3.11. 합친 이미지를 줄이기(Shrink Merged)](./14-04-04-03-11-shrink_merged.md)
 
@@ -1467,6 +1515,8 @@
 [14.4.10.2. 동작 변경키(Key modifiers)](./14-04-10-02-key_modifiers.md)
 
 [14.4.10.3. 옵션(Options)](./14-04-10-03-options.md)
+
+[14.4.10.4. 통합 변형 대화상자(Unified transform dialog)](./14-04-10-04-unified_transform_dialog.md)
 
 [14.4.11. 핸들 변형(Handle transform)](./14-04-11-00-handle-transform.md)
 
@@ -1632,6 +1682,10 @@
 
 [14.5.7. GEGL 동작(GEGL operation)](./14-05-07-00-gegl_operation.md)
 
+[14.5.7.1. 도구 활성화하기(Activating the tools)](./14-05-07-01-activating_the_tool.md)
+
+[14.5.7.2. GEGL 동작 대화상자(GEGL Operation Dialog)](./14-05-07-02-00-gegl_operation_dialog.md)
+
 [14.5.7.2.1. 동작(Operation)](./14-05-07-02-01-operation.md)
 
 [14.5.7.2.2. 동작 설정(Operation Settings)](./14-05-07-02-02-operation_settings.md)
@@ -1788,7 +1842,7 @@
 
 [15.2.3.3.5. 경로를 선택으로(Path to Selection)](./15-02-03-03-05-path_to_selection.md)
 
-[15.2.3.3.6. 선택을 경로로(Selection to Path)](./15-02-03-03-06-selection_to_path.md)
+[15.2.3.3.6. 선택을 경로로 바꾸기(Selection to Path)](./15-02-03-03-06-selection_to_path.md)
 
 [15.2.3.3.7. 경로 따라 칠하기(Paint along the Path)](./15-02-03-03-07-paint_along_the_path.md)
 
@@ -1848,7 +1902,7 @@
 
 [15.2.4.3.2. Ctrl(⌘) 키를 누른채로 색상표의 색 클릭하기(Ctrl + Click on a color entry)](./15-02-04-03-02-ctrl_click_on_a_color_entry.md)
 
-[15.2.4.3.3. Ctrl(⌘) 키를 누른채로 색상표의 색 클릭하기(Ctrl + Click on a color entry)](./15-02-04-03-03-double_click_on_a_color_entry.md)
+[15.2.4.3.3. 색상표의 색을 더블 클릭하기(Ctrl + Click on a color entry)](./15-02-04-03-03-double_click_on_a_color_entry.md)
 
 [15.2.4.3.4. 색상 색인(Color Index)](./15-02-04-03-04-color_index.md)
 
@@ -1892,9 +1946,9 @@
 
 [15.2.5.3.3. 선형/로그 히스토그램 버튼(Linear/Logarithmic buttons)](./15-02-05-03-03-linear_logarithmic_buttons.md)
 
-[15.2.5.3.3. 범위 설정(Range Fixing)](./15-02-05-03-04-range_fixing.md)
+[15.2.5.3.4. 범위 설정(Range Fixing)](./15-02-05-03-04-range_fixing.md)
 
-[15.2.5.3.4. 통계(Statistics)](./15-02-05-03-05-statistics.md)
+[15.2.5.3.5. 통계(Statistics)](./15-02-05-03-05-statistics.md)
 
 [15.2.6. 내비게이션 대화상자(Navigation dialog)](./15-02-06-00-navigation-dialog.md)
 
@@ -1960,7 +2014,127 @@
 
 [15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes-dialog.md)
 
+[15.3.2.1. 대화상자 활성화하기(Activating the Dialog)](./15-03-02-01-activating_the_dialog.md)
+
+[15.3.2.2. 붓 대화상자 사용하기(Using the Brushes Dialog)](./15-03-02-02-00-using_the_brushes_dialog.md)
+
+[15.3.2.2.1. 격자/목록 모드(Grid/List mode)](./15-03-02-02-01-00-grid_n_list_mode.md)
+
+[15.3.2.2.1.1. 격자 모드(Grid mode)](./15-03-02-02-01-01-grid_mode.md)
+
+[15.3.2.2.1.2. 목록 모드(List mode)](./15-03-02-02-01-02-list_mode.md)
+
+[15.3.2.2.2. 붓 미리보기(Brush Previews)](./15-03-02-02-02-brush_previews.md)
+
+[15.3.2.2.3. 태그(Tagging)](./15-03-02-02-03-tagging.md)
+
+[15.3.2.2.4. 대화상자 아래쪽 버튼들과 슬라이더(Buttons at the bottom)](./15-03-02-02-04-00-buttons_at_the_bottom.md)
+
+[15.3.2.2.4.1. 간격(Spacing)](./15-03-02-02-04-01-spacing.md)
+
+[15.3.2.2.4.2. 붓 편집(Edit Brush)](./15-03-02-02-04-02-edit_brush.md)
+
+[15.3.2.2.4.3. 새 붓(New Brush)](./15-03-02-02-04-03-new_brush.md)
+
+[15.3.2.2.4.4. 붓 복제(Duplicate Brush)](./15-03-02-02-04-04-duplicate_brush.md)
+
+[15.3.2.2.4.5. 붓 삭제(Delete Brush)](./15-03-02-02-04-05-delete_brush.md)
+
+[15.3.2.2.4.6. 붓 새로 고침(Refresh Brush)](./15-03-02-02-04-06-refresh_brush.md)
+
+[15.3.2.2.4.7. 붓을 이미지로 열기(Open Brush as Image)](./15-03-02-02-04-07-open_brush_as_image.md)
+
+[15.3.2.2.5. 붓 컨텍스트 메뉴(The Brushes Context Menu)](./15-03-02-02-05-00-the_brushes_context_menu.md)
+
+[15.3.2.2.5.1. 붓 편집(Edit Brush)](./15-03-02-02-05-01-edit_brush.md)
+
+[15.3.2.2.5.2. 붓을 이미지로 열기(Open Brush as Image)](./15-03-02-02-05-02-open_brush_as_image.md)
+
+[15.3.2.2.5.3. 새 붓(New Brush)](./15-03-02-02-05-03-new_brush.md)
+
+[15.3.2.2.5.4. 붓 복제(Duplicate Brush)](./15-03-02-02-05-04-duplicate_brush.md)
+
+[15.3.2.2.5.5. 붓 위치 복사(Copy Brush Location)](./15-03-02-02-05-05-copy_brush_location.md)
+
+[15.3.2.2.5.6. 파일 관리자에 표시(Show in File Manager)](./15-03-02-02-05-06-show_in_file_manager.md)
+
+[15.3.2.2.5.7. 붓 삭제(Delete Brush)](./15-03-02-02-05-07-delete_brush.md)
+
+[15.3.2.2.5.8. 붓 새로 고침(Refresh Brush)](./15-03-02-02-05-08-refresh_brush.md)
+
+[15.3.2.2.5.9. 부드러운 외곽의 타원형 붓 만들기(Elliptical Feathered)](./15-03-02-02-05-09-elliptical_featherered.md)
+
+[15.3.2.2.5.10. 타원형 붓 만들기(Elliptical)](./15-03-02-02-05-10-elliptical.md)
+
+[15.3.2.2.5.11. 부드러운 외곽의 사각형 붓 만들기(Rectangular Feathered)](./15-03-02-02-05-11-rectangular_feathered.md)
+
+[15.3.2.2.5.12. 사각형 붓 만들기(Rectangular)](./15-03-02-02-05-12-rectangular.md)
+
+[15.3.2.3. 붓 편집기(Brush Editor)](./15-03-02-03-00-brush_editor.md)
+
+[15.3.2.3.1. 탭 메뉴(Tab Menu)](./15-03-02-03-01-tab_menu.md)
+
+[15.3.2.3.2. 타이틀 바(Title Bar)](./15-03-02-03-02-title_bar.md)
+
+[15.3.2.3.3. 미리보기 영역(Preview Area)](./15-03-02-03-03-preview_area.md)
+
+[15.3.2.3.4. 설정(Settings)](./15-03-02-03-04-00-settings.md)
+
+[15.3.2.3.4.1. 모양(Shape)](./15-03-02-03-04-01-shape.md)
+
+[15.3.2.3.4.2. 반경(Radius)](./15-03-02-03-04-02-radius.md)
+
+[15.3.2.3.4.3. 스파이크(Spikes)](./15-03-02-03-04-03-spikes.md)
+
+[15.3.2.3.4.4. 경도(Hardness)](./15-03-02-03-04-04-hardness.md)
+
+[15.3.2.3.4.5. 종횡비(Aspect Ratio)](./15-03-02-03-04-05-aspect_ratio.md)
+
+[15.3.2.3.4.6. 각도(Angle)](./15-03-02-03-04-06-angle.md)
+
+[15.3.2.3.4.7. 간격(Spacing)](./15-03-02-03-04-07-spacing.md)
+
+[15.3.2.3.5. 붓 편집기 컨텍스트 메뉴(Brush Editor Context Menu)](./15-03-02-03-05-00-brush_editor_context_menu.md)
+
+[15.3.2.3.5.1. 활성화 붓 편집하기(Edit Active Brush)](./15-03-02-03-05-01-edit_active_brush.md)
+
+[15.3.2.4. 클립보드 붓(The Clipboard Brush)](./15-03-02-04-the_cliprboard_brush.md)
+
 [15.3.3. 마이페인트 붓 대화상자(Mypaint brushes dialog)](./15-03-03-00-mypaint-brushes-dialog.md)
+
+[15.3.3.1. 마이페인트 붓 대화상자 활성화하기(Activate the dialog)](./15-03-03-01-activating_the_dialog.md)
+
+[15.3.3.2. 마이페인트 붓 대화상자 사용하기(Using the Mypaint brushes dialog)](./15-03-03-02-00-using_the_mypaint_brushes_dialog.md)
+
+[15.3.3.2.1. 격자/목록 모드(Grid/List mode)](./15-03-03-02-01-00-grid_n_list_mode.md)
+
+[15.3.3.2.1.1. 격자 모드(Grid mode)](./15-03-03-02-01-01-grid_mode.md)
+
+[15.3.3.2.1.2. 목록 모드(List mode)](./15-03-03-02-01-02-list_mode.md)
+
+[15.3.3.2.2. 마이페인트 붓 미리보기(Mypaint brushes previews)](./15-03-03-02-02-mypaint_brush_previews.md)
+
+[15.3.3.2.3. 태그(Tagging)](./15-03-03-02-03-tagging.md)
+
+[15.3.3.2.4. 대화상자 아래쪽 버튼들과 슬라이더(Buttons at the bottom)](./15-03-03-02-04-00-buttons_at_the_bottom.md)
+
+[15.3.3.2.4.1. 마이페인트 붓 편집(Edit Mypaing brush)](./15-03-03-02-04-01-edit_mypaint_brush.md)
+
+[15.3.3.2.4.2. 마이페인트 붓 복제(Duplicate brush)](./15-03-03-02-04-02-duplicate_brush.md)
+
+[15.3.3.2.4.3. 마이페인트 붓 삭제(Delete brush)](./15-03-03-02-04-03-delete_brush.md)
+
+[15.3.3.2.4.4. 마이페인트 붓 새로고침(Refresh brush)](./15-03-03-02-04-04-refresh_brushes.md)
+
+[15.3.3.2.5. 마이페인트 붓 컨텍스트 메뉴(The Mypaint brushes context menu)](./15-03-03-02-05-00-the_mypaint_brushes_context_menu.md)
+
+[15.3.3.2.5.1. MyPaint 붓 위치 복사(Copy Mypaint brush location)](./15-03-03-02-05-01-copy_mypaint_brush_location.md)
+
+[15.3.3.2.5.2. 파일 관리자에 표시(Show in File Manager)](./15-03-03-02-05-02-show_in_file_manager.md)
+
+[15.3.3.2.5.3. MyPaint 붓 삭제(Delete Mypaint brush)](./15-03-03-02-05-03-delete_mypaint_brush.md)
+
+[15.3.3.2.5.4. MyPaint 붓 새로 고침(Refresh Mypaint brush)](./15-03-03-02-05-04-refresh_mypaint_brush.md)
 
 [15.3.4. 무늬 대화상자(Patterns dialog)](./15-03-04-patterns-dialog.md)
 
@@ -1968,7 +2142,19 @@
 
 [15.3.6. 팔레트 대화상자(Palettes dialog)](./15-03-06-00-palettes-dialog.md)
 
+[15.3.6.1. Activating the dialog](./15-03-06-01-activating_the_dialog.md)
+
+[15.3.6. Using the Palettes dialog](./15-03-06-02-using_the_palettes_dialog.md)
+
+[15.3.6.3. The Palettes context menu](./15-03-06-03-the_palettes_context_menu.md)
+
+[15.3.6.4. Palette Editor](./15-03-06-04-palette_editor.md)
+
+[15.3.6.5. The Palette Editor pop-menu](./15-03-06-05-the_palette_editor_pop_menu.md)
+
 [15.3.7. 태그(Tagging)](./15-03-07-tagging.md)
+
+[15.3.8. Fonts Dialog](./15-03-08-fonts_dialog.md)
 
 [15.4. 이미지 관리 관련 대화상자(Image management related dialogs)](./15-04-00-image-management-related-dialogs.md)
 
@@ -2006,14 +2192,1179 @@
 
 [16. 메뉴(Menus)](./16-00-menus.md)
 
+[16.1. Introduction to menus](./16-01-introduction-to-menus.md)
+
+[16.2. 파일 메뉴](./16-02-00-the-file-menu.md)
+
+[16.2.1. Overview](./16-02-01-overview.md)
+
+[16.2.2. 새 이미지](./16-02-02-new.md)
+
+[16.2.3. Create](./16-02-03-create.md)
+
+[16.2.4. File open](./16-02-04-file-open.md)
+
+[16.2.5. Open as layers](./16-02-05-open-as-layers.md)
+
+[16.2.6. Open location](./16-02-06-open-location.md)
+
+[16.2.7. Open recent](./16-02-07-open-recent.md)
+
+[16.2.8. Save](./16-02-08-save.md)
+
+[16.2.9. Save as](./16-02-09-save-as.md)
+
+[16.2.10. Save a copy](./16-02-10-save-a-copy.md)
+
+[16.2.11. Revert](./16-02-11-revert.md)
+
+[16.2.12. Export and overwrite](./16-02-12-export-and-overwrite.md)
+
+[16.2.13. Export as](./16-02-13-export-as.md)
+
+[16.2.14. Create template](./16-02-14-create-template.md)
+
+[16.2.15. Print](./16-02-15-print.md)
+
+[16.2.16. Send by email](./16-02-16-send-by-email.md)
+
+[16.2.17. Copy image location](./16-02-17-copy-image-location.md)
+
+[16.2.18. Show in file manager](./16-02-18-show-in-file-manager.md)
+
+[16.2.19. Close](./16-02-19-close.md)
+
+[16.2.20. Close all](./16-02-20-close-all.md)
+
+[16.2.21. Quit](./16-02-21-quit.md)
+
+[16.3. The edit menu](./16-03-00-the-edit-menu.md)
+
+[16.3.1. "Edit" menu entries](./16-03-01-edit-menu-entries.md)
+
+[16.3.2. Undo](./16-03-02-undo.md)
+
+[16.3.3. Redo](./16-03-03-redo.md)
+
+[16.3.4. Undo history](./16-03-04-undo-history.md)
+
+[16.3.5. Cut](./16-03-05-cut.md)
+
+[16.3.6. Copy](./16-03-06-copy.md)
+
+[16.3.7. Copy visible](./16-03-07-copy-visible.md)
+
+[16.3.8. Paste](./16-03-08-paste.md)
+
+[16.3.9. Paste into selection](./16-03-09-paste-into-selection.md)
+
+[16.3.10. Paste in place](./16-03-10-paste-in-place.md)
+
+[16.3.11. Paste into selection in place](./16-03-11-paste-into-selection-in-place.md)
+
+[16.3.12. Paste as](./16-03-12-paste-as.md)
+
+[16.3.13. Buffer](./16-03-13-buffer.md)
+
+[16.3.14. Clear](./16-03-14-clear.md)
+
+[16.3.15. Fill with FG color](./16-03-15-fill-with-fg-color.md)
+
+[16.3.16. Fill with BG color](./16-03-16-fill-with-bg-color.md)
+
+[16.3.17. 무늬로 채우기(Fill with pattern)](./16-03-17-fill-with-pattern.md)
+
+[16.3.18. Fill selection outline](./16-03-18-fill-selection-outline.md)
+
+[16.3.19. 경로 채우기(Fill path)](./16-03-19-fill_path.md)
+
+[16.3.20. 선택 영역 따라 그리기(Stroke selection)](./16-03-20-stroke-selection.md)
+
+[16.3.21. 경로 따라 그리기(Stroke Path)](./16-03-21-stroke-path.md)
+
+[16.3.22. Preference](./16-03-22-preference.md)
+
+[16.3.23. Input devices](./16-03-23-input-devices.md)
+
+[16.3.24. Keyboard shortcuts](./16-03-24-keyboard-shortcuts.md)
+
+[16.3.25. Modules](./16-03-25-modules.md)
+
+[16.3.26. Units](./16-03-26-units.md)
+
+[16.4. The select menu](./16-04-00-the-select-menu.md)
+
+[16.4.1. Introduction to the select menu](./16-04-01-introduction-to-the-select-menu.md)
+
+[16.4.2. Select all](./16-04-02-select-all.md)
+
+[16.4.3. None](./16-04-03-none.md)
+
+[16.4.4. Invert](./16-04-04-invert.md)
+
+[16.4.5. 띄우기(Float)](./16-04-05-float.md)
+
+[16.4.6. By color](./16-04-06-by-color.md)
+
+[16.4.7. 경로에서 선택 만들기(From path)](./16-04-07-from-path.md)
+
+[16.4.8. Selection editor](./16-04-08-selection-editor.md)
+
+[16.4.9. Feather](./16-04-09-feather.md)
+
+[16.4.10. Sharpen](./16-04-10-sharpen.md)
+
+[16.4.11. Shrink](./16-04-11-shrink.md)
+
+[16.4.12. Grow](./16-04-12-grow.md)
+
+[16.4.13. Border](./16-04-13-border.md)
+
+[16.4.14. Remove holes](./16-04-14-remove-holes.md)
+
+[16.4.15. Distort](./16-04-15-distort.md)
+
+[16.4.16. Rounded rectangle](./16-04-16-rounded-rectangle.md)
+
+[16.4.17. Toggle quickmask](./16-04-17-toggle-quickmask.md)
+
+[16.4.18. Save to channel](./16-04-18-save-to-channel.md)
+
+[16.4.19. 선택을 경로로 바꾸기(To path)](./16-04-19-to-path.md)
+
+[16.5. The view menu](./16-05-00-the-view-menu.md)
+
+[16.5.1. Introduction to the "View" menu](./16-05-01-introduction-to-the-view-menu.md)
+
+[16.5.2. New view](./16-05-02-new-view.md)
+
+[16.5.3. Show all](./16-05-03-show-all.md)
+
+[16.5.4. Dot for dot](./16-05-04-dot-for-dot.md)
+
+[16.5.5. Zoom](./16-05-05-zoom.md)
+
+[16.5.6. Flip & Rotate (0°)](./16-05-06-flip-rotate.md)
+
+[16.5.7. Center image in window](./16-05-07-center-image-in-window.md)
+
+[16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)](./16-05-08-shrink-wrap.md)
+
+[16.5.9. Full screen](./16-05-09-full-screen.md)
+
+[16.5.10. Navigation window](./16-05-10-navigation-window.md)
+
+[16.5.11. Display filters](./16-05-11-display-filters.md)
+
+[16.5.12. Color management](./16-05-12-color-management.md)
+
+[16.5.13. Show selection](./16-05-13-show-selection.md)
+
+[16.5.14. Show layer boundary](./16-05-14-show-layer-boundary.md)
+
+[16.5.15. Show canvas boundary](./16-05-15-show-canvas-boundary.md)
+
+[16.5.16. Show guides](./16-05-16-show-guides.md)
+
+[16.5.17. Show grid](./16-05-17-show-grid.md)
+
+[16.5.18. Show sample points](./16-05-18-show-sample-points.md)
+
+[16.5.19. Snap to guides](./16-05-19-snap-to-guides.md)
+
+[16.5.20. Snap to grid](./16-05-20-snap-to-grid.md)
+
+[16.5.21. Snap to canvas](./16-05-21-snap-to-canvas.md)
+
+[16.5.22. Snap to active path](./16-05-22-snap-to-active-path.md)
+
+[16.5.23. Padding color](./16-05-23-padding-color.md)
+
+[16.5.24. Show menubar](./16-05-24-show-menubar.md)
+
+[16.5.25. Show rulers](./16-05-25-show-rulers.md)
+
+[16.5.26. Show scrollbars](./16-05-26-show-scrollbars.md)
+
+[16.5.27. Show statusbar](./16-05-27-show-statusbar.md)
+
+[16.6. The "Image" menu](./16-06-00-the-image-menu.md)
+
+[16.6.1. Overview](./16-06-01-overview.md)
+
+[16.6.2. Duplicate](./16-06-02-duplicate.md)
+
+[16.6.3. Mode](./16-06-03-mode.md)
+
+[16.6.4. RGB mode](./16-06-04-rgb-mode.md)
+
+[16.6.5. Grayscale mode](./16-06-05-grayscale-mode.md)
+
+[16.6.6. 인덱스 모드](./16-06-06-indexed-mode.md)
+
+[16.6.7. Precision](./16-06-07-precision.md)
+
+[16.6.8. Color management](./16-06-08-color-management.md)
+
+[16.6.9. Enable color management](./16-06-09-enable-color-management.md)
+
+[16.6.10. Assign color profile](./16-06-10-assign-color-profile.md)
+
+[16.6.11. Convert to color profile](./16-06-11-convert-to-color-profile.md)
+
+[16.6.12. Discard color profile](./16-06-12-discard-color-profile.md)
+
+[16.6.13. Save color profile to file](./16-06-13-save-color-profile-to-file.md)
+
+[16.6.14. Transform](./16-06-14-transform.md)
+
+[16.6.15. Flip horizontally flip vertically](./16-06-15-flip-horizontally-flip-vertically.md)
+
+[16.6.16. Rotation](./16-06-16-rotation.md)
+
+[16.6.17. Canvas size](./16-06-17-canvas-size.md)
+
+[16.6.18. Fit canvas to layers](./16-06-18-fit-canvas-to-layers.md)
+
+[16.6.19. Fit canvas to selection](./16-06-19-fit-canvas-to-selection.md)
+
+[16.6.20. Print size](./16-06-20-print-size.md)
+
+[16.6.21. Scale image](./16-06-21-scale-image.md)
+
+[16.6.22. Crop image](./16-06-22-crop-image.md)
+
+[16.6.23. Slice using guides](./16-06-23-slice-using-guides.md)
+
+[16.6.24. Zealous crop](./16-06-24-zealous-crop.md)
+
+[16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-merge_visible_layers.md)
+
+[16.6.26. 이미지 평탄화하기(Flatten image)](./16-06-26-flatten_image.md)
+
+[16.6.27. Align visible layers](./16-06-27-align-visible-layers.md)
+
+[16.6.28. Guides](./16-06-28-guides.md)
+
+[16.6.29. New guide](./16-06-29-new-guide.md)
+
+[16.6.30. New guide (by percent)](./16-06-30-new-guide-by-percent.md)
+
+[16.6.31. New guide from selection](./16-06-31-new-guide-from-selection.md)
+
+[16.6.32. Remove all guides](./16-06-32-remove-all-guides.md)
+
+[16.6.33. Configure grid](./16-06-33-configure-grid.md)
+
+[16.6.34. Image properties](./16-06-34-image-properties.md)
+
+[16.6.35. Metadata](./16-06-35-metadata.md)
+
+[16.6.36. Metadata viewer](./16-06-36-metadata-viewer.md)
+
+[16.6.37. Metadata editor](./16-06-37-metadata-editor.md)
+
+[16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
+
+[16.7.1. Introduction to the "Layer" menu](./16-07-01-introduction-to-the-layer-menu.md)
+
+[16.7.2. 새 레이어(New layer)](./16-07-02-00-new_layer.md)
+
+[16.7.2.1. 명령 활성화하기(Activating the Command)](./16-07-02-01-activating_the_command.md)
+
+[16.7.2.2. 새 레이어 대화상자 설명(Description of the "New Layer" Dialog)](./16-07-02-02-00-description_of_the_new_layer_dialog.md)
+
+[16.7.2.2.1. 레이어 이름(Layer name)](./16-07-02-02-01-layer_name.md)
+
+[16.7.2.2.2. 색상 태그(Color tag)](./16-07-02-02-02-color_tag.md)
+
+[16.7.2.2.3. 레이어 모드(Mode)](./16-07-02-02-03-mode.md)
+
+[16.7.2.2.4. 블렌딩 공간, 합성 공간(Blend spapce, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)
+
+[16.7.2.2.5. 합성 모드(Composite mode)](./16-07-02-02-05-composite_mode.md)
+
+[16.7.2.2.6. 불투명도(Opacity)](./16-07-02-02-06-opacity.md)
+
+[16.7.2.2.7. 너비와 높이(Width, Height)](./16-07-02-02-07-width_n_height.md)
+
+[16.7.2.2.8. 오프셋 X, Y(Offset X, Offset Y)](./16-07-02-02-08-offset_x_n_offset_y.md)
+
+[16.7.2.2.9. 채우기(Fill With)](./16-07-02-02-09-fill_with.md)
+
+[16.7.2.2.10. 스위치(Switches)](./16-07-02-02-10-switches.md)
+
+[16.7.3. 보이는 레이어들로 새 레이어 만들기(New from visible)](./16-07-03-new_from_visible.md)
+
+[16.7.4. New layer group](./16-07-04-new-layer-group.md)
+
+[16.7.5. Duplicate layer](./16-07-05-duplicate-layer.md)
+
+[16.7.6. Anchor layer](./16-07-06-anchor-layer.md)
+
+[16.7.7. Merge down](./16-07-07-merge-down.md)
+
+[16.7.8. Merge layer group](./16-07-08-merge-layer-group.md)
+
+[16.7.9. Delete layer](./16-07-09-delete-layer.md)
+
+[16.7.10. The text commands of the layer menu](./16-07-10-the-text-commands-of-the-layer-menu.md)
+
+[16.7.11. Discard text information](./16-07-11-discard-text-information.md)
+
+[16.7.12. Stack submenu](./16-07-12-stack-submenu.md)
+
+[16.7.13. Select previous layer](./16-07-13-select-previous-layer.md)
+
+[16.7.14. Select next layer](./16-07-14-select-next-layer.md)
+
+[16.7.15. Select top layer](./16-07-15-select-top-layer.md)
+
+[16.7.16. Select bottom layer](./16-07-16-select-bottom-layer.md)
+
+[16.7.17. Raise layer](./16-07-17-raise-layer.md)
+
+[16.7.18. Lower layer](./16-07-18-lower-layer.md)
+
+[16.7.19. Layer to top](./16-07-19-layer-to-top.md)
+
+[16.7.20. Layer to bottom](./16-07-20-layer-to-bottom.md)
+
+[16.7.21. The reverse layer order command](./16-07-21-the-reverse-layer-order-command.md)
+
+[16.7.22. The mask submenu](./16-07-22-the-mask-submenu.md)
+
+[16.7.23. 레이어 마스크 추가하기(Add layer mask)](./16-07-23-add_layer_mask.md)
+
+[16.7.24. 레이어 마스크 적용하기(Apply layer mask)](./16-07-24-apply_layer_mask.md)
+
+[16.7.25. 레이어 마스크 삭제하기(Delete layer mask)](./16-07-25-delete_layer_mask.md)
+
+[16.7.26. 레이어 마스크 보여주기(Show layer mask)](./16-07-26-show_layer_mask.md)
+
+[16.7.27. 레이어 마스크 수정하기(Edit layer mask)](./16-07-27-edit_layer_mask.md)
+
+[16.7.28. 레이어 마스크 비활성화하기(Disable layer mask)](./16-07-28-disable_layer_mask.md)
+
+[16.7.29. 마스크를 선택으로 바꾸기(Mask to selection)](./16-07-29-mask_to_selection.md)
+
+[16.7.30. Add layer mask to selection](./16-07-30-add-layer-mask-to-selection.md)
+
+[16.7.31. Subtract layer mask from selection](./16-07-31-subtract-layer-mask-from-selection.md)
+
+[16.7.32. Intersect layer mask with selection](./16-07-32-intersect-layer-mask-with-selection.md)
+
+[16.7.33. The transparency submenu of the layer menu](./16-07-33-the-transparency-submenu-of-the-layer-menu.md)
+
+[16.7.34. 알파 채널 추가하기(Add alpha channel)](./16-07-34-add_alpha_channel.md)
+
+[16.7.35. 알파 채널 제거하기(Remove alpha channel)](./16-07-35-remove_alpha_channel.md)
+
+[16.7.36. 색을 알파로(Color to alpha)](./16-07-36-color-to-alpha.md)
+
+[16.7.37. Semi flatten](./16-07-37-semi-flatten.md)
+
+[16.7.38. Threshold alpha](./16-07-38-threshold-alpha.md)
+
+[16.7.39. Alpha to selection](./16-07-39-alpha-to-selection.md)
+
+[16.7.40. Add alpha channel to selection](./16-07-40-add-alpha-channel-to-selection.md)
+
+[16.7.41. Subtract from selection](./16-07-41-subtract-from-selection.md)
+
+[16.7.42. Intersect alpha channel with selection](./16-07-42-intersect-alpha-channel-with-selection.md)
+
+[16.7.43. The transform submenu](./16-07-43-the-transform-submenu.md)
+
+[16.7.44. Flip horizontally](./16-07-44-flip-horizontally.md)
+
+[16.7.45. Flip vertically](./16-07-45-flip-vertically.md)
+
+[16.7.46. Rotate 90° clockwise](./16-07-46-rotate-90-clockwise.md)
+
+[16.7.47. Rotate 90° counter-clockwise](./16-07-47-rotate-90-counter-clockwise.md)
+
+[16.7.48. Rotate 180°](./16-07-48-rotate-180.md)
+
+[16.7.49. 임의 각도 회전(Arbitrary rotation)](./16-07-49-arbitrary-rotation.md)
+
+[16.7.50. Offset](./16-07-50-offset.md)
+
+[16.7.51. 레이어 경계 크기(Layer boundary size)](./16-07-51-layer_boundary_size.md)
+
+[16.7.52. 레이어를 이미지 크기로(Layer to image size)](./16-07-52-layer_to_image_size.md)
+
+[16.7.53. 레이어 크기조정(Scale layer)](./16-07-53-scale_layer.md)
+
+[16.7.54. 레이어 잘라내기(Crop layer)](./16-07-54-crop-layer.md)
+
+[16.8. The colors menu](./16-08-00-the-colors-menu.md)
+
+[16.8.1. Introduction to the colors menu](./16-08-01-introduction-to-the-colors-menu.md)
+
+[16.8.2. Color balance](./16-08-02-color-balance.md)
+
+[16.8.3. Color temperature](./16-08-03-color-temperature.md)
+
+[16.8.4. Hue chroma](./16-08-04-hue-chroma.md)
+
+[16.8.5. Hue saturation](./16-08-05-hue-saturation.md)
+
+[16.8.6. Saturation](./16-08-06-saturation.md)
+
+[16.8.7. Exposure](./16-08-07-exposure.md)
+
+[16.8.8. Shadows highlights](./16-08-08-shadows-highlights.md)
+
+[16.8.9. Brightness contrast](./16-08-09-brightness-contrast.md)
+
+[16.8.10. 레벨(Levels)](./16-08-10-levels.md)
+
+[16.8.11. Curves](./16-08-11-curves.md)
+
+[16.8.12. Invert](./16-08-12-invert.md)
+
+[16.8.13. Linear invert](./16-08-13-linear-invert.md)
+
+[16.8.14. Value invert](./16-08-14-value-invert.md)
+
+[16.8.15. The auto submenu](./16-08-15-the-auto-submenu.md)
+
+[16.8.16. Equalize](./16-08-16-equalize.md)
+
+[16.8.17. White balance](./16-08-17-white-balance.md)
+
+[16.8.18. Stretch contrast](./16-08-18-stretch-contrast.md)
+
+[16.8.19. Stretch contrast HSV](./16-08-19-stretch-contrast-hsv.md)
+
+[16.8.20. Color enhance](./16-08-20-color-enhance.md)
+
+[16.8.21. Color enhance legacy](./16-08-21-color-enhance-legacy.md)
+
+[16.8.22. The "Components" submenu](./16-08-22-the-components-submenu.md)
+
+[16.8.23. 채널 혼합](./16-08-23-channel-mixer.md)
+
+[16.8.24. Extract component](./16-08-24-extract-component.md)
+
+[16.8.25. Mono mixer](./16-08-25-mono-mixer.md)
+
+[16.8.26. Compose](./16-08-26-compose.md)
+
+[16.8.27. Decompose](./16-08-27-decompose.md)
+
+[16.8.28. Recompose](./16-08-28-recompose.md)
+
+[16.8.29. The "Desaturate" submenu](./16-08-29-the-desaturate-submenu.md)
+
+[16.8.30. Color to gray](./16-08-30-color-to-gray.md)
+
+[16.8.31. Desaturate](./16-08-31-desaturate.md)
+
+[16.8.32. Mono mixer](./16-08-32-mono-mixer.md)
+
+[16.8.33. Sepia](./16-08-33-sepia.md)
+
+[16.8.34. The "Map" submenu](./16-08-34-the-map-submenu.md)
+
+[16.8.35. 색상표 재배치(Rearrange colormap)](./16-08-35-rearrange-colormap.md)
+
+[16.8.36. Set colormap](./16-08-36-set-colormap.md)
+
+[16.8.37. Alien map](./16-08-37-alien-map.md)
+
+[16.8.38. Color exchange](./16-08-38-color-exchange.md)
+
+[16.8.39. Rotate colors](./16-08-39-rotate-colors.md)
+
+[16.8.40. Gradient map](./16-08-40-gradient-map.md)
+
+[16.8.41. Palette map](./16-08-41-palette-map.md)
+
+[16.8.42. Sample colorize](./16-08-42-sample-colorize.md)
+
+[16.8.43. The "Tone Mapping" submenu](./16-08-43-the-tone-mapping-submenu.md)
+
+[16.8.44. Fattal et al. 2002](./16-08-44-fattal-et-al-2002.md)
+
+[16.8.45. Mantiuk 2006](./16-08-45-mantiuk-2006.md)
+
+[16.8.46. Reinhard 2005](./16-08-46-reinhard-2005.md)
+
+[16.8.47. Stress](./16-08-47-stress.md)
+
+[16.8.48. Retinex](./16-08-48-retinex.md)
+
+[16.8.49. The "Info" submenu](./16-08-49-the-info-submenu.md)
+
+[16.8.50. Histogram](./16-08-50-histogram.md)
+
+[16.8.51. Border average](./16-08-51-border-average.md)
+
+[16.8.52. Colorcube analysis](./16-08-52-colorcube-analysis.md)
+
+[16.8.53. Export histogram](./16-08-53-export-histogram.md)
+
+[16.8.54. Smooth palette](./16-08-54-smooth-palette.md)
+
+[16.8.55. Threshold](./16-08-55-threshold.md)
+
+[16.8.56. 색상화(Colorize)](./16-08-56-colorize.md)
+
+[16.8.57. Posterize](./16-08-57-posterize.md)
+
+[16.8.58. Color to alpha](./16-08-58-color-to-alpha.md)
+
+[16.8.59. Dither](./16-08-59-dither.md)
+
+[16.8.60. RGB clip](./16-08-60-rgb-clip.md)
+
+[16.8.61. Hot](./16-08-61-hot.md)
+
+[16.9. The "Tools" menu](./16-09-00-the-tools-menu.md)
+
+[16.9.1. Introduction to the "Tools" menu](./16-09-01-introduction-to-the-tools-menu.md)
+
+[16.10. The "Filters" menu](./16-10-00-the-filters-menu.md)
+
+[16.10.1. Introduction to the "Filters" menu](./16-10-01-introduction-to-the-filters-menu.md)
+
+[16.10.2. Repeat last](./16-10-02-repeat-last.md)
+
+[16.10.3. Re show last](./16-10-03-re-show-last.md)
+
+[16.10.4. Reset all filters](./16-10-04-reset-all-filters.md)
+
+[16.10.5. The "Python-Fu" submenu](./16-10-05-the-python-fu-submenu.md)
+
+[16.10.6. The "Script-Fu" submenu](./16-10-06-the-script-fu-submenu.md)
+
+[16.11. "Windows" menu](./16-11-windows-menu.md)
+
+[16.12. The "Help" menu](./16-12-00-the-help-menu.md)
+
+[16.12.1. Introduction to the "Help" menu](./16-12-01-introduction-to-the-help-menu.md)
+
+[16.12.2. Help](./16-12-02-help.md)
+
+[16.12.3. Context help](./16-12-03-context-help.md)
+
+[16.12.4. Tip of the day](./16-12-04-tip-of-the-day.md)
+
+[16.12.5. About](./16-12-05-about.md)
+
+[16.12.6. Search and run a command](./16-12-06-search-and-run-a-command.md)
+
+[16.12.7. Plug-in browser](./16-12-07-plug-in-browser.md)
+
+[16.12.8. The procedure browser](./16-12-08-the-procedure-browser.md)
+
+[16.12.9. Bug reports and feature requests](./16-12-09-bug-reports-and-feature-requests.md)
+
+[16.12.10. GIMP online](./16-12-10-gimp-online.md)
+
+[16.12.11. User manual](./16-12-11-user-manual.md)
+
 [17. Filters](./17-00-filters.md)
 
-# ETC
-[18. Keys and Mouse Reference](./18-00-keys-and-mouse-reference.md)
+[17.1. Introduction](./17-01-introduction.md)
 
-[19. Glossary](./19-glossary.md)
+[17.2. Common features](./17-02-common-features.md)
 
-[20. Tone Mapping and Shadow Recovery Using GIMP's 'Colors/Exposure'](./20-00-tone-mapping-and-shadow-recovery-using-gimp-colors-exposure.md)
+[17.3. 흐림 필터(Blur filters)](./17-03-00-blur-filters.md)
+
+[17.3.1. Introduction](./17-03-01-introduction.md)
+
+[17.3.2. Focus blur](./17-03-02-focus-blur.md)
+
+[17.3.3. Gaussian blur](./17-03-03-gaussian-blur.md)
+
+[17.3.4. Lens blur](./17-03-04-lens-blur.md)
+
+[17.3.5. Mean curvature blur](./17-03-05-mean-curvature-blur.md)
+
+[17.3.6. Median blur](./17-03-06-median-blur.md)
+
+[17.3.7. Pixelize](./17-03-07-pixelize.md)
+
+[17.3.8. Selective gaussian blur](./17-03-08-selective-gaussian-blur.md)
+
+[17.3.9. Variable blur](./17-03-09-variable-blur.md)
+
+[17.3.10. Circular motion blur](./17-03-10-circular-motion-blur.md)
+
+[17.3.11. Linear motion blur](./17-03-11-linear-motion-blur.md)
+
+[17.3.12. Zoom motion blur](./17-03-12-zoom-motion-blur.md)
+
+[17.3.13. Tileable blur](./17-03-13-tileable-blur.md)
+
+[17.4. 강화 필터(Enhance filters)](./17-04-00-enhance-filters.md)
+
+[17.4.1. Introduction](./17-04-01-introduction.md)
+
+[17.4.2. Antialias](./17-04-02-antialias.md)
+
+[17.4.3. Deinterlace](./17-04-03-deinterlace.md)
+
+[17.4.4. High pass](./17-04-04-high-pass.md)
+
+[17.4.5. Noise reduction](./17-04-05-noise-reduction.md)
+
+[17.4.6. Red eye removal](./17-04-06-red-eye-removal.md)
+
+[17.4.7. Symmetric nearest neighbor](./17-04-07-symmetric-nearest-neighbor.md)
+
+[17.4.8. 선명하게 - Sharpen (unsharp mask)](./17-04-08-sharpen-unsharp-mask.md)
+
+[17.4.9. Despeckle](./17-04-09-despeckle.md)
+
+[17.4.10. Destripe](./17-04-10-destripe.md)
+
+[17.4.11. NL filter](./17-04-11-nl-filter.md)
+
+[17.4.12. Wavelet decompose](./17-04-12-wavelet-decompose.md)
+
+[17.5. Distort filters](./17-05-00-distort-filters.md)
+
+[17.5.1. Introduction](./17-05-01-introduction.md)
+
+[17.5.2. Apply lens](./17-05-02-apply-lens.md)
+
+[17.5.3. Emboss](./17-05-03-emboss.md)
+
+[17.5.4. Engrave](./17-05-04-engrave.md)
+
+[17.5.5. Lens distortion](./17-05-05-lens-distortion.md)
+
+[17.5.6. Kaleidoscope](./17-05-06-kaleidoscope.md)
+
+[17.5.7. Mosaic](./17-05-07-mosaic.md)
+
+[17.5.8. Newsprint](./17-05-08-newsprint.md)
+
+[17.5.9. Polar coordinates](./17-05-09-polar-coordinates.md)
+
+[17.5.10. Ripple](./17-05-10-ripple.md)
+
+[17.5.11. Shift](./17-05-11-shift.md)
+
+[17.5.12. Spherize](./17-05-12-spherize.md)
+
+[17.5.13. Value propagate](./17-05-13-value-propagate.md)
+
+[17.5.14. Video](./17-05-14-video.md)
+
+[17.5.15. Waves](./17-05-15-waves.md)
+
+[17.5.16. Whirl and pinch](./17-05-16-whirl-and-pinch.md)
+
+[17.5.17. Wind](./17-05-17-wind.md)
+
+[17.5.18. Curve bend](./17-05-18-curve-bend.md)
+
+[17.5.19. Emboss (legacy)](./17-05-19-emboss-legacy.md)
+
+[17.5.20. Page curl](./17-05-20-page-curl.md)
+
+[17.6. Light and shadow filters](./17-06-00-light-and-shadow-filters.md)
+
+[17.6.1. Introduction](./17-06-01-introduction.md)
+
+[17.6.2. Bloom](./17-06-02-bloom.md)
+
+[17.6.3. Supernova](./17-06-03-supernova.md)
+
+[17.6.4. Lens flare](./17-06-04-lens-flare.md)
+
+[17.6.5. Gradient flare](./17-06-05-gradient-flare.md)
+
+[17.6.6. Lighting effects](./17-06-06-lighting-effects.md)
+
+[17.6.7. Sparkle](./17-06-07-sparkle.md)
+
+[17.6.8. Drop shadow](./17-06-08-drop-shadow.md)
+
+[17.6.9. Long shadow](./17-06-09-long-shadow.md)
+
+[17.6.10. Vignette](./17-06-10-vignette.md)
+
+[17.6.11. Drop shadow (legacy)](./17-06-11-drop-shadow-legacy.md)
+
+[17.6.12. Perspective](./17-06-12-perspective.md)
+
+[17.6.13. Xach-Effect](./17-06-13-xach-effect.md)
+
+[17.7. Noise filters](./17-07-00-noise-filters.md)
+
+[17.7.1. Introduction](./17-07-01-introduction.md)
+
+[17.7.2. CIE Ich noise](./17-07-02-cie-ich-noise.md)
+
+[17.7.3. HSV noise](./17-07-03-hsv-noise.md)
+
+[17.7.4. Hurl](./17-07-04-hurl.md)
+
+[17.7.5. Pick](./17-07-05-pick.md)
+
+[17.7.6. RGB noise](./17-07-06-rgb-noise.md)
+
+[17.7.7. Slur](./17-07-07-slur.md)
+
+[17.7.8. Spread](./17-07-08-spread.md)
+
+[17.8. Edge detect filters](./17-08-00-edge-detect-filters.md)
+
+[17.8.1. Introduction](./17-08-01-introduction.md)
+
+[17.8.2. Difference of gaussians](./17-08-02-difference-of-gaussians.md)
+
+[17.8.3. Edge](./17-08-03-edge.md)
+
+[17.8.4. Laplace](./17-08-04-laplace.md)
+
+[17.8.5. Neon](./17-08-05-neon.md)
+
+[17.8.6. Sobel](./17-08-06-sobel.md)
+
+[17.8.7. Image gradient](./17-08-07-image-gradient.md)
+
+[17.9. Generic filters](./17-09-00-generic-filters.md)
+
+[17.9.1. Introduction](./17-09-01-introduction.md)
+
+[17.9.2. Convolution matrix](./17-09-02-convolution-matrix.md)
+
+[17.9.3. Distance map](./17-09-03-distance-map.md)
+
+[17.9.4. GEGL graph](./17-09-04-gegl-graph.md)
+
+[17.9.5. Normal map](./17-09-05-normal-map.md)
+
+[17.9.6. Dilate](./17-09-06-dilate.md)
+
+[17.9.7. Erode](./17-09-07-erode.md)
+
+[17.10. Combine filters](./17-10-00-combine-filters.md)
+
+[17.10.1. Introduction](./17-10-01-introduction.md)
+
+[17.10.2. Depth merge](./17-10-02-depth-merge.md)
+
+[17.10.3. Filmstrip](./17-10-03-filmstrip.md)
+
+[17.11. Artstic filters](./17-11-00-artstic-filters.md)
+
+[17.11.1. Introduction](./17-11-01-introduction.md)
+
+[17.11.2. Apply canvas](./17-11-02-apply-canvas.md)
+
+[17.11.3. Cartoon](./17-11-03-cartoon.md)
+
+[17.11.4. Cubism](./17-11-04-cubism.md)
+
+[17.11.5. Glass tile](./17-11-05-glass-tile.md)
+
+[17.11.6. Oilify](./17-11-06-oilify.md)
+
+[17.11.7. Photocopy](./17-11-07-photocopy.md)
+
+[17.11.8. Simple linear iterative clustering (SLIC)](./17-11-08-simple-linear-iterative-clustering-slic.md)
+
+[17.11.9. Softglow](./17-11-09-softglow.md)
+
+[17.11.10. Waterpixels](./17-11-10-waterpixels.md)
+
+[17.11.11. Cartoon (legacy)](./17-11-11-cartoon-legacy.md)
+
+[17.11.12. Clothify](./17-11-12-clothify.md)
+
+[17.11.13. Gimpressionist](./17-11-13-gimpressionist.md)
+
+[17.11.14. Oilify (legacy)](./17-11-14-oilify-legacy.md)
+
+[17.11.15. Predator](./17-11-15-predator.md)
+
+[17.11.16. Softglow (legacy)](./17-11-16-softglow-legacy.md)
+
+[17.11.17. Van gogh (LIC)](./17-11-17-van-gogh-lic.md)
+
+[17.11.18. Weave](./17-11-18-weave.md)
+
+[17.12. Decor filters](./17-12-00-decor-filters.md)
+
+[17.12.1. Introduction](./17-12-01-introduction.md)
+
+[17.12.2. Add bevel](./17-12-02-add-bevel.md)
+
+[17.12.3. Add border](./17-12-03-add-border.md)
+
+[17.12.4. Coffee stain](./17-12-04-coffee-stain.md)
+
+[17.12.5. Fog](./17-12-05-fog.md)
+
+[17.12.6. Fuzzy border](./17-12-06-fuzzy-border.md)
+
+[17.12.7. Old photo](./17-12-07-old-photo.md)
+
+[17.12.8. Round corners](./17-12-08-round-corners.md)
+
+[17.12.9. Slide](./17-12-09-slide.md)
+
+[17.12.10. Stencil carve](./17-12-10-stencil-carve.md)
+
+[17.12.11. Stencil chrome](./17-12-11-stencil-chrome.md)
+
+[17.13. Map filters](./17-13-00-map-filters.md)
+
+[17.13.1. Introduction](./17-13-01-introduction.md)
+
+[17.13.2. Bump map](./17-13-02-bump-map.md)
+
+[17.13.3. Displace](./17-13-03-displace.md)
+
+[17.13.4. Fractal trace](./17-13-04-fractal-trace.md)
+
+[17.13.5. Illusion](./17-13-05-illusion.md)
+
+[17.13.6. Little planet](./17-13-06-little-planet.md)
+
+[17.13.7. Panorama projection](./17-13-07-panorama-projection.md)
+
+[17.13.8. Recursive transform](./17-13-08-recursive-transform.md)
+
+[17.13.9. Paper tile](./17-13-09-paper-tile.md)
+
+[17.13.10. Tile seamless](./17-13-10-tile-seamless.md)
+
+[17.13.11. Fractal trace (legacy)](./17-13-11-fractal-trace-legacy.md)
+
+[17.13.12. Map object](./17-13-12-map-object.md)
+
+[17.13.13. Tile](./17-13-13-tile.md)
+
+[17.14. Rendering filters](./17-14-00-rendering-filters.md)
+
+[17.14.1. Introduction](./17-14-01-introduction.md)
+
+[17.14.2. Flame](./17-14-02-flame.md)
+
+[17.14.3. 프랙탈 탐색기(Fractal explorer)](./17-14-03-fractal-explorer.md)
+
+[17.14.4. IFS fractal](./17-14-04-ifs-fractal.md)
+
+[17.14.5. Cell noise](./17-14-05-cell-noise.md)
+
+[17.14.6. Perlin noise](./17-14-06-perlin-noise.md)
+
+[17.14.7. Plasma](./17-14-07-plasma.md)
+
+[17.14.8. Simplex noise](./17-14-08-simplex-noise.md)
+
+[17.14.9. Solid noise](./17-14-09-solid-noise.md)
+
+[17.14.10. Difference clouds](./17-14-10-difference-clouds.md)
+
+[17.14.11. Bayer matrix](./17-14-11-bayer-matrix.md)
+
+[17.14.12. Checkerboard](./17-14-12-checkerboard.md)
+
+[17.14.13. Diffraction patterns](./17-14-13-diffraction-patterns.md)
+
+[17.14.14. Grid](./17-14-14-grid.md)
+
+[17.14.15. Linear sinusoid](./17-14-15-linear-sinusoid.md)
+
+[17.14.16. Maze](./17-14-16-maze.md)
+
+[17.14.17. Sinus](./17-14-17-sinus.md)
+
+[17.14.18. Spiral](./17-14-18-spiral.md)
+
+[17.14.19. Checkerboard (legacy)](./17-14-19-checkerboard-legacy.md)
+
+[17.14.20. CML explorer](./17-14-20-cml-explorer.md)
+
+[17.14.21. Grid (legacy)](./17-14-21-grid-legacy.md)
+
+[17.14.22. Jigsaw](./17-14-22-jigsaw.md)
+
+[17.14.23. Qbist](./17-14-23-qbist.md)
+
+[17.14.24. Spyrogimp](./17-14-24-spyrogimp.md)
+
+[17.14.25. Circuit](./17-14-25-circuit.md)
+
+[17.14.26. Gfig](./17-14-26-gfig.md)
+
+[17.14.27. Lava](./17-14-27-lava.md)
+
+[17.14.28. Line nova](./17-14-28-line-nova.md)
+
+[17.14.29. Sphere designer](./17-14-29-sphere-designer.md)
+
+[17.15. Web filters](./17-15-00-web-filters.md)
+
+[17.15.1. Introduction](./17-15-01-introduction.md)
+
+[17.15.2. Imagemap](./17-15-02-imagemap.md)
+
+[17.15.3. Semi-Flatten](./17-15-03-semi-flatten.md)
+
+[17.15.4. Slice](./17-15-04-slice.md)
+
+[17.16. Animation filters](./17-16-00-animation-filters.md)
+
+[17.16.1. Introduction](./17-16-01-introduction.md)
+
+[17.16.2. Blend](./17-16-02-blend.md)
+
+[17.16.3. Burn-in](./17-16-03-burn-in.md)
+
+[17.16.4. Rippling](./17-16-04-rippling.md)
+
+[17.16.5. Spinning globe](./17-16-05-spinning-globe.md)
+
+[17.16.6. Waves](./17-16-06-waves.md)
+
+[17.16.7. Optimize](./17-16-07-optimize.md)
+
+[17.16.8. Playback](./17-16-08-playback.md)
+
+## ETC
+
+[18. Keys and mouse reference](./18-00-keys-and-mouse-reference.md)
+
+[18.1. File - key reference for the file menu](./18-01-file-key-reference-for-the-file-menu.md)
+
+[18.2. Edit - key reference for the edit menu](./18-02-edit-key-reference-for-the-edit-menu.md)
+
+[18.3. Select - key reference for the select menu](./18-03-select-key-reference-for-the-select-menu.md)
+
+[18.4. View - key reference for the view menu](./18-04-view-key-reference-for-the-view-menu.md)
+
+[18.5. Image - key reference for the image menu](./18-05-image-key-reference-for-the-image-menu.md)
+
+[18.6. Layers - key reference for the layer menu](./18-06-layers-key-reference-for-the-layer-menu.md)
+
+[18.7. Tools - key reference for the tools menu](./18-07-tools-key-reference-for-the-tools-menu.md)
+
+[18.8. Filters - key reference for the filters menu](./18-08-filters-key-reference-for-the-filters-menu.md)
+
+[18.9. Windows - key reference for the windows menu](./18-09-windows-key-reference-for-the-windows-menu.md)
+
+[18.10. Help - key reference for the help menu](./18-10-help-key-reference-for-the-help-menu.md)
+
+[18.11. Zoom tool - key reference for the zoom tool](./18-11-zoom-tool-key-reference-for-the-zoom-tool.md)
+
+[19. 용어집(Glossary)](./19-glossary.md)
+
+[19. 용어집 - 알파(Alpha)](./19-glossaryx-alpha.md)
+
+[19. 용어집 - 알파 채널(Alpha Channel)](./19-glossaryx-alpha_channel.md)
+
+[19. 용어집 - 안티-앨리어싱(Anti-Aliasing)](./19-glossaryx-antialiasing.md)
+
+[19. 용어집 - 평균(HSI 강도) - Average(HSI Intensity)](./19-glossaryx-average_hsi_intensity.md)
+
+[19. 용어집 - 배경색(Background Color)](./19-glossaryx-background_color.md)
+
+[19. 용어집 - 기준선(Baseline)](./19-glossaryx-baseline.md)
+
+[19. 용어집 - 베지에 곡선(Bézier-curves)](./19-glossaryx-bezier-curves.md)
+
+[19. 용어집 - 흑점 보상(Black Point Compensation or BPC)](./19-glossaryx-black_point_compensation.md)
+
+[19. 용어집 - 취소 레이어 모드(Cancellation Layer Mode)](./19-glossaryx-cancellation_layer_mode.md)
+
+[19. 용어집 - 채널(Channel)](./19-glossaryx-channel.md)
+
+[19. 용어집 - 체비쇼프(Chebyshev)](./19-glossaryx-chebyshev.md)
+
+[19. 용어집 - CIE Lab](./19-glossaryx-cie_lab.md)
+
+[19. 용어집 - CMYK](./19-glossaryx-cmyk.md)
+
+[19. 용어집 - 색상 모델(Color Model)](./19-glossaryx-color-model.md)
+
+[19. 용어집 - 색상 영역(Color Area)](./19-glossaryx-color_area.md)
+
+[19. 용어집 - 색조화(Color Balance)](./19-glossaryx-color_balance.md)
+
+[19. 용어집 - 컬러 캐스트(Color cast)](./19-glossaryx-color_cast.md)
+
+[19. 용어집 - 색보정(Color Correction)](./19-glossaryx-color_correction.md)
+
+[19. 용어집 - 색상 편집기(Color Editor)](./19-glossaryx-color_editor.md)
+
+[19. 용어집 - 색상 관리(Color Management)](./19-glossaryx-color_management.md)
+
+[19. 용어집 - 색상 모드: 그레이스케일(Color Mode: Grayscale)](./19-glossaryx-color_mode_grayscale.md)
+
+[19. 용어집 - 인덱스 색상(Indexed Colors)](./19-glossaryx-color_mode_indexed.md)
+
+[19. 용어집 - 색상 모드: RGB(Color Mode: RGB)](./19-glossaryx-color_mode_rgb.md)
+
+[19. 용어집 - HSV](./19-glossaryx-color_model_hsv.md)
+
+[19. 용어집 - 색상 프로필(Color profile)](./19-glossaryx-color_profile.md)
+
+[19. 용어집 - 비색계(Colorimetric)](./19-glossaryx-colorimetric.md)
+
+[19. 용어집 - 디더링(Dithering)](./19-glossaryx-dithering.md)
+
+[19. 용어집 - 다운샘플링(Downsample)](./19-glossaryx-downsample.md)
+
+[19. 용어집 - 드로어블(Drawable)](./19-glossaryx-drawable.md)
+
+[19. 용어집 - EXIF](./19-glossaryx-exif.md)
+
+[19. 용어집 - 전경색(Foreground Color)](./19-glossaryx-foreground_color.md)
+
+[19. 용어집 - Gamma correction](./19-glossaryx-gamma_correction.md)
+
+[19. 용어집 - 색역(Gamut)](./19-glossaryx-gamut.md)
+
+[19. 용어집 - 붓 파일 확장자 - `.gbr`](./19-glossaryx-gbr.md)
+
+[19. 용어집 - GEGL(Generic Graphical Library)](./19-glossaryx-gegl.md)
+
+[19. 용어집 - 그라디언트 파일 확장자 - `.ggr`](./19-glossaryx-ggr.md)
+
+[19. 용어집 - 붓 파일 확장자 - `.gih`](./19-glossaryx-gih.md)
+
+[19. 용어집 - gimp_data_directory](./19-glossaryx-gimp_data_directory.md)
+
+[19. 용어집 - 팔레트 파일 확장자 - `.gpl`](./19-glossaryx-gpl.md)
+
+[19. 용어집 - GTK](./19-glossaryx-gtk.md)
+
+[19. 용어집 - 헤일로(Halo)](./19-glossaryx-halo.md)
+
+[19. 용어집 - 힌팅(Hinting)](./19-glossaryx-hinting.md)
+
+[19. 용어집 - HTML 표기(HTML Notation)](./19-glossaryx-html_notation.md)
+
+[19. 용어집 - ICC profile](./19-glossaryx-icc_profile.md)
+
+[19. 용어집 - 인터레이싱(PostScript)](./19-glossaryx-interlace.md)
+
+[19. 용어집 - 보간법(Interpolation)](./19-glossaryx-interpolation.md)
+
+[19. 용어집 - IPTC](./19-glossaryx-iptc.md)
+
+[19. 용어집 - 자간(Kerning)](./19-glossaryx-kerning.md)
+
+[19. 용어집 - 동작 변경키(Key modifier)](./19-glossaryx-key_modifiers.md)
+
+[19. 용어집 - 레이어(Layers)](./19-glossaryx-layer.md)
+
+[19. 용어집 - 밝기(Lightness(HSL))](./19-glossaryx-lightness_hsl.md)
+
+[19. 용어집 - 선형 RGB(Linear RGB)](./19-glossaryx-linear_rgb.md)
+
+[19. 용어집 - 순람표(룩업테이블, LUT)](./19-glossaryx-lookup_table.md)
+
+[19. 용어집 - 인식가능한 휘도(Luma)](./19-glossaryx-luma.md)
+
+[19. 용어집 - 휘도(Luminance)](./19-glossaryx-luminance.md)
+
+[19. 용어집 - 행진하는 개미(Marching Ants)](./19-glossaryx-marching_ants.md)
+
+[19. 용어집 - 마스크(Masks)](./19-glossaryx-masks.md)
+
+[19. 용어집 - 붓 파일 확장자 - `.myb`](./19-glossaryx-myb.md)
+
+[19. 용어집 - 비파괴 검사(Non-destructive testing)](./19-glossaryx-non_destructive_testing.md)
+
+[19. 용어집 - 오프셋(Offset)](./19-glossaryx-offset.md)
+
+[19. 용어집 - OpenICC Project](./19-glossaryx-open_icc.md)
+
+[19. 용어집 - Pass-through](./19-glossaryx-pass_through.md)
+
+[19. 용어집 - 경로: 고정점(Anchor)](./19-glossaryx-path_anchor.md)
+
+[19. 용어집 - 경로: 컴포넌트(Component)](./19-glossaryx-path_component.md)
+
+[19. 용어집 - 경로: 제어점(Control Point)](./19-glossaryx-path_control_point.md)
+
+[19. 용어집 - 경로: 곡선(Curve)](./19-glossaryx-path_curve.md)
+
+[19. 용어집 - 경로: 방향선(Direction Line)](./19-glossaryx-path_direction_line.md)
+
+[19. 용어집 - 경로: 끝점(End Point)](./19-glossaryx-path_end_point.md)
+
+[19. 용어집 - 경로: 핸들(Handle)](./19-glossaryx-path_handle.md)
+
+[19. 용어집 - 경로: 직선 선분(Line Segment)](./19-glossaryx-path_line_segment.md)
+
+[19. 용어집 - 경로: 노드(Node)](./19-glossaryx-path_node.md)
+
+[19. 용어집 - 경로: 경로 선분(Path Segment)](./19-glossaryx-path_path_segment.md)
+
+[19. 용어집 - 경로: 선분(Segment)](./19-glossaryx-path_segment.md)
+
+[19. 용어집 - 경로: 시작점(Start Point)](./19-glossaryx-path_start_point.md)
+
+[19. 용어집 - 경로: 하위경로(Subpath)](./19-glossaryx-path_subpath.md)
+
+[19. 용어집 - 무늬(Pattern)](./19-glossaryx-pattern.md)
+
+[19. 용어집 - PDF](./19-glossaryx-pdf.md)
+
+[19. 용어집 - 사람이 인식할 수 있는 RGB(Perceptual RGB)](./19-glossaryx-perceptual_rgb.md)
+
+[19. 용어집 - 픽스맵(pixmap)](./19-glossaryx-pixmap.md)
+
+[19. 용어집 - 포스트스크립트(PostScript)](./19-glossaryx-postscript.md)
+
+[19. 용어집 - 프로시저 데이터베이스(Procedural Database)](./19-glossaryx-procedural_database.md)
+
+[19. 용어집 - 양자화(Quantization)](./19-glossaryx-quantization.md)
+
+[19. 용어집 - 렌더링 목적(Rendering Intent)](./19-glossaryx-rendering_intent.md)
+
+[19. 용어집 - 표본 합치기(Sample Merged)](./19-glossaryx-sample_merged.md)
+
+[19. 용어집 - 채도(Saturation)](./19-glossaryx-saturation.md)
+
+[19. 용어집 - `.scm`](./19-glossaryx-scm.md)
+
+[19. 용어집 - 선택 모드(Selection Mode)](./19-glossaryx-selection_mode-dotted_mode.md)
+
+[19. 용어집 - 선택 모드(Selection Mode)](./19-glossaryx-selection_mode-handle_mode.md)
+
+[19. 용어집 - 색상 교정(Soft Proofing)](./19-glossaryx-soft_proofing.md)
+
+[19. 용어집 - string_append](./19-glossaryx-string_append.md)
+
+[19. 용어집 - 텍스트 박스의 동적, 고정 모드](./19-glossaryx-text_box_mode.md)
+
+[19. 용어집 - 도구상자(Toolbox)](./19-glossaryx-toolbox.md)
+
+[19. 용어집 - 위상수학(Topology)](./19-glossaryx-topology.md)
+
+[19. 용어집 - 값(HSV) - Value(HSV)](./19-glossaryx-value_hsv.md)
+
+[19. 용어집 - 붓 파일 확장자 - `.vbr`](./19-glossaryx-vbr.md)
+
+[19. 용어집 - GIMP 파일 확장자 - `.xcf`](./19-glossaryx-xcf.md)
+
+[19. 용어집 - XMP](./19-glossaryx-xmp.md)
+
+[20. Tone Mapping and Shadow Recovery Using GIMP’s ‘Colors/Exposure’](./20-00-tone-mapping-and-shadow-recovery-using-gimp-colors-exposure.md)
+
+[20.1. High bit depth GIMP’s floating point “Colors/Exposure”: much better than Curves for lightening the shadows and midtones of an image without blowing the highlights](./20-01-high-bit-depth-gimp-floating-point-colors-exposure-much-better-curves-for-lightening-the-shadows-and-midtones-of-an-image-without-blowing-the-highlights.md)
+
+[20.2. A step-by-step example showing how to recover shadow information using high bit depth GIMP’s floating point “Colors/Exposure”](./20-02-a-step-by-step-example-showing-how-to-recover-shadow-information-using-high-bit-depth-gimp-floating-point-colors-exposure.md)
+
+[20.3. Use Notes](./20-03-use-notes.md)
+
+[20.4. Conclusion](./20-04-conclusion.md)
+
+## 이미지 맵
 
 [90. 이미지 맵](./90-00-image-map.md)
 
@@ -2021,7 +3372,7 @@
 
 [90.1.1. 파일(File)](./90-01-01-00-file.md)
 
-[90.1.1.1. 새 이미지(New...)](./90-01-01-01-new.md)
+[90.1.1.1. 새 이미지(New)](./90-01-01-01-new.md)
 
 [90.1.1.2. 만들기(Create)](./90-01-01-02-00-create.md)
 
@@ -2129,7 +3480,7 @@
 
 [90.1.2.22. 입력장치(Input Devices)](./90-01-02-22-input_devices.md)
 
-[90.1.2.23. 키보드 단축키(Keyboard Shortcuts)](./90-01-02-00-edit.md)
+[90.1.2.23. 키보드 단축키(Keyboard Shortcuts)](./90-01-02-23-keyboard_shortcuts.md)
 
 [90.1.2.24. 모듈(Modules)](./90-01-02-24-modules.md)
 
@@ -2705,7 +4056,7 @@
 
 [90.1.10.1. 최근 닫은 독(Recently Closed Docks)](./90-01-10-01-recently_closed_docks.md)
 
-[90.1.10.2. 도킹가능한 대화상자(Dockable dialogs)](./90-01-10-02-00-dockable_dialogs.md)
+[90.1.10.2. 창(Windows) - 도킹가능한 대화(Dockable dialogs)](./90-01-10-02-00-dockable_dialogs.md)
 
 [90.1.10.2.1. 도구 옵션(Tool Options)](./90-01-10-02-01-tool_options.md)
 
@@ -2821,7 +4172,7 @@
 
 [90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 
-[90.2.1. 시스템 리소스(System Resource)](./90-02-01-system-resource.md)
+[90.2.1. 시스템 리소스 (System Resource)](./90-02-01-system-resource.md)
 
 [90.2.2. 색상관리 (Color Management)](./90-02-02-color-management.md)
 
@@ -2829,9 +4180,9 @@
 
 [90.2.4. 도구 옵션 (Tool Options)](./90-02-04-tool-options.md)
 
-[90.2.5. 기본 이미지 (Default Image)](./90-02-05-00-default-image.md)
+[90.2.5. 기본 이미지(Default Image)](./90-02-05-00-default-image.md)
 
-[90.2.5.1. 기본 격자 (Default Grid)](./90-02-05-01-default-grid.md)
+[90.2.5.1. 기본 격자(Default Grid)](./90-02-05-01-default-grid.md)
 
 [90.2.6. 인터페이스 (Interface)](./90-02-06-00-interface.md)
 
@@ -2863,7 +4214,7 @@
 
 [90.2.9. 폴더 (Folders)](./90-02-09-00-folders.md)
 
-[90.2.9.1. 붓(Brushes)](./90-02-09-01-brushes.md)
+[90.2.9.1. 폴더(Folders) - 붓(Brushes)](./90-02-09-01-brushes.md)
 
 [90.2.9.2. 동적 요소(Dynamics)](./90-02-09-02-dynamics.md)
 
@@ -2900,6 +4251,8 @@
 [90.3. 도구상자(Toolbox)](./90-03-00-toolbox.md)
 
 [90.3.1. GIMP 로고(GIMP Logo)](./90-03-01-gimp_logo.md)
+
+[90.3.2. 도구 아이콘(Tool icon)](./90-03-02-00-tool_icon.md)
 
 [90.3.2.1. 도구 아이콘(Tool icon) - 이동(Move)](./90-03-02-01-move.md)
 
@@ -3163,7 +4516,7 @@
 
 [90.4.3.16. 레이어 이름(Layer Name)](./90-04-0003-016-layer_name.md)
 
-[90.4.3.17. 잠금(Lock)](./90-04-0003-017-lock.md)
+[90.4.3.17. 잠그기(Lock)](./90-04-0003-017-lock.md)
 
 [90.4.4. 채널(Channels)](./90-04-0004-channels.md)
 
@@ -3417,7 +4770,7 @@
 
 [90.4.114. 원근법 조정(Perspective Adjustment)](./90-04-0114-perspective_adjustment.md)
 
-[90.4.115. 3차원 변형(3D Transform)](./90-04-0115-3d_transform.md)
+[90.4.115. 3차원 변형(3D)](./90-04-0115-3d_transform.md)
 
 [90.4.116. 통합 변형](./90-04-0116-unified_transform.md)
 
@@ -3735,11 +5088,11 @@
 
 [90.10.7.8.4. `{`, `}` 키로 붓 크기 바꾸기](./90-10-07-08-04-adjust_brush_size-curly_bracket_key.md)
 
-[90.10.8. `영역 채우기붓` 도구](./90-10-08-00-tool_box-bucket_fill.md)
+[90.10.8. `도구상자` → `영역 채우기`](./90-10-08-00-tool_box-bucket_fill.md)
 
 [90.10.8.1. 키보드 단축키](./90-10-08-01-00-keyboard_shortcut.md)
 
-[90.10.8.1.1. 키보드 단축키 Shift(⇧) + `B`](./90-10-08-01-00-keyboard_shortcut.md)
+[90.10.8.1.1. 키보드 단축키 Shift(⇧) + `B`](./90-10-08-01-01-shift_b.md)
 
 [90.10.8.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-08-02-00-key_modifier-ctrl.md)
 
@@ -3947,7 +5300,7 @@
 
 [90.10.22.2. Shift(⇧):동작 변경키(Key modifiers)](./90-10-22-02-00-key_modifier-shift.md)
 
-[90.10.22.2.1. 여러 개의 레이어 선택하기](./90-10-22-02-01-select_multiple_layers.md)
+[90.10.22.2.1. 여러 개의 소스 레이어 선택하기](./90-10-22-02-01-select_multiple_layers.md)
 
 [90.10.23. `도구상자` → `이동`](./90-10-23-00-tool_box-move.md)
 
@@ -3983,7 +5336,7 @@
 
 [90.10.24.3.1. `도구 옵션` → `잘라내기` → `고정` 켜기/끄기](./90-10-24-03-01-switch_to_fixed.md)
 
-[90.10.24.4.2. 25픽셀씩 이동](./90-10-24-03-02-move_by_25pixels.md)
+[90.10.24.3.2. 25픽셀씩 이동](./90-10-24-03-02-move_by_25pixels.md)
 
 [90.10.25. `도구상자` → `회전`](./90-10-25-00-tool_box-rotate.md)
 
@@ -3997,7 +5350,7 @@
 
 [90.10.26. `도구상자` → `크기 조정`](./90-10-26-00-tool_box-scale.md)
 
-[90.10.26.1. 키보드 단축키](./90-10-25-01-00-keyboard_shortcut.md)
+[90.10.26.1. 키보드 단축키](./90-10-26-01-00-keyboard_shortcut.md)
 
 [90.10.26.1.1. 키보드 단축키 Shift(⇧) + `S`](./90-10-26-01-01-shift_s.md)
 
@@ -4023,13 +5376,13 @@
 
 [90.10.29. `도구상자` → `3차원 변형`](./90-10-29-00-tool_box-3d_transform.md)
 
-[90.10.29.1. 키보드 단축키](./90-10-28-01-00-keyboard_shortcut.md)
+[90.10.29.1. 키보드 단축키](./90-10-29-01-00-keyboard_shortcut.md)
 
 [90.10.29.1.1. 키보드 단축키 Shift(⇧) + `W`](./90-10-29-01-01-shift_w.md)
 
 [90.10.29.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-29-02-00-key_modifier-ctrl.md)
 
-[90.10.29.2.1. `도구 옵션` → `3차원 변형` → `Z 축`: Ctrl(⌘)](./90-10-29-02-01-z_axis.md)
+[90.10.29.2.1. `도구 옵션` → `3차원 변형` → `Z축`: Ctrl(⌘)](./90-10-29-02-01-z_axis.md)
 
 [90.10.29.3. Alt(⌥):동작 변경키(Key modifiers)](./90-10-29-03-00-key_modifier-alt.md)
 
@@ -4047,7 +5400,7 @@
 
 [90.10.30.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-30-02-00-key_modifier-ctrl.md)
 
-[90.10.30.2.1. `도구 옵션` → `통합 변형` → `Z 축`: Ctrl(⌘)](./90-10-30-02-01-toggle_from_pivot.md)
+[90.10.30.2.1. `도구 옵션` → `통합 변형` → `From Pivot`: Ctrl(⌘)](./90-10-30-02-01-toggle_from_pivot.md)
 
 [90.10.30.3. Shift(⇧):동작 변경키(Key modifiers)](./90-10-30-03-00-key_modifier-shift.md)
 
@@ -4075,7 +5428,7 @@
 
 [90.10.32.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-32-02-00-key_modifier-ctrl.md)
 
-[90.10.32.2.1. Ctrl(⌘): 핸들 제거](./90-10-32-02-01-toggle_direction.md)
+[90.10.32.2.1. Ctrl(⌘): `도구 옵션` → `뒤집기` → `방향` 전환하기](./90-10-32-02-01-toggle_direction.md)
 
 [90.10.33. `도구상자` → `골조 변형`](./90-10-33-00-tool_box-cage_transformation.md)
 
@@ -4109,6 +5462,8 @@
 
 [90.10.35.2.6. Ctrl(⌘): 경로를 선택에서 빼기](./90-10-35-02-06-subtract_path_from_selection.md)
 
+[90.10.35.2.7. Ctrl(⌘) + Shift(⇧): 경로와 선택을 교차하기](./90-10-35-02-07-intersect_path_n_selection.md)
+
 [90.10.35.3. Alt(⌥):동작 변경키(Key modifiers)](./90-10-35-03-00-key_modifier-alt.md)
 
 [90.10.35.3.1. Ctrl(⌘) + Alt(⌥): 여러 개의 노드 옮기기](./90-10-35-03-01-move_nodes.md)
@@ -4129,9 +5484,9 @@
 
 [90.10.36.1.1. 키보드 단축키 `O`](./90-10-36-01-01-o.md)
 
-[90.10.36.2. Shift(⇧):동작 변경키(Key modifiers)](./90-10-36-02-00-key_modifier-shift.md)
+[90.10.36.2. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-36-02-00-key_modifier-shift.md)
 
-[90.10.36.2.1. Shift(⇧): 색상 추출 정보창 열기](./90-10-36-02-01-open_color_picker_info_window.md)
+[90.10.36.2.1. Shift(⇧): `도구 옵션` → `색상 추출` → `정보 창 사용` 옵션 켜기](./90-10-36-02-01-open_color_picker_info_window.md)
 
 [90.10.37. `도구상자` → `확대/축소`](./90-10-37-00-tool_box-zoom.md)
 
@@ -4139,7 +5494,7 @@
 
 [90.10.37.1.1. 키보드 단축키 `Z`](./90-10-37-01-01-z.md)
 
-[90.10.37.2. Ctrl(⌘):동작 변경키(Key modifiers)](./90-10-37-02-00-key_modifier-ctrl.md)
+[90.10.37.2. Ctrl(⌘): 동작 변경키(Key modifiers)](./90-10-37-02-00-key_modifier-ctrl.md)
 
 [90.10.37.2.1. Ctrl(⌘): 확대/축소 전환하기](./90-10-37-02-01-change_zoom_direction.md)
 
@@ -4195,9 +5550,9 @@
 
 [90.10.40.4. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-40-04-00-key_modifier-shift.md)
 
-[90.10.40.4.1. 레이어 가시성 전환(Toggle Layer Visibility)](./90-10-40-04-01-toggle_visibility.md)
+[90.10.40.4.1. Shift(⇧): 레이어 가시성 전환(Toggle Layer Visibility)](./90-10-40-04-01-toggle_visibility.md)
 
-[90.10.40.4.2. 레이어 연결고리 전환(Toggle Layer Visibility)](./90-10-40-04-02-toggle_linkage.md)
+[90.10.40.4.2. Shift(⇧): 레이어 연결고리 전환(Toggle Layer Visibility)](./90-10-40-04-02-toggle_linkage.md)
 
 [90.10.40.4.3. Shift(⇧): 새 레이어 대화상자의 마지막 설정된 값으로 새 레이어 만들기(Toggle Layer Visibility)](./90-10-40-04-03-open_new_layer_dialog_with_last_used_values.md)
 
@@ -4208,6 +5563,96 @@
 [90.10.40.4.6. Shift(⇧): 레이어 그룹 안의 모든 레이어를 합침](./90-10-40-04-06-merge_layers_in_layer_group.md)
 
 [90.10.40.4.7. Ctrl(⌃) + Shift(⇧): 모든 레이어를 `레이어 합치기` 대화상자의 마지막 설정값으로 합침](./90-10-40-04-07-merge_all_visible_layers_with_last_used_values.md)
+
+[90.10.41. `대화상자` → `채널`](./90-10-41-00-dialog-channel.md)
+
+[90.10.41.1. Ctrl(⌘): 동작 변경키(Key modifiers)](./90-10-41-01-00-key_modifier-ctrl.md)
+
+[90.10.41.1.1. Ctrl(⌘): 활성화된 `선택 마스크 채널`을 선택으로 바꿔 활성화된 선택에서 빼기](./90-10-41-01-01-transform_channel_to_subtracting_selection.md)
+
+[90.10.41.1.2. Shift(⇧) + Ctrl(⌘): 활성화된 `선택 마스크 채널`을 선택으로 바꿔 활성화된 선택에서 교차하기](./90-10-41-01-02-transform_channel_to_interasecting_selection.md)
+
+[90.10.41.2. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-41-02-00-key_modifier-shift.md)
+
+[90.10.41.2.1. Shift(⇧): 마지막 설정값으로 새 채널 만들기](./90-10-41-02-01-new_channel_with_last_used_values.md)
+
+[90.10.41.2.2. Shift(⇧): 활성화된 `선택 마스크 채널`을 목록 가장 위로 이동](./90-10-41-02-02-raise_channel_to_the_top.md)
+
+[90.10.41.2.3. Shift(⇧): 활성화된 `선택 마스크 채널`을 목록 가장 아래로 이동](./90-10-41-02-03-lower_channel_to_the_top.md)
+
+[90.10.41.2.4. Shift(⇧): 활성화된 `선택 마스크 채널`을 선택으로 바꿔 활성화된 선택에 더하기](./90-10-41-02-04-transform_channel_to_adding_selection.md)
+
+[90.10.42. `대화상자` → `퀵 마스크`](./90-10-42-00-dialog-quick_mask.md)
+
+[90.10.42.1. 키보드 단축키](./90-10-42-01-00-keyboard_shortcut.md)
+
+[90.10.42.1.1. `대화상자` → `퀵 마스크`: 키보드 단축키 Shift(⇧) + `Q`](./90-10-42-01-01-shift_q.md)
+
+[90.10.43. `대화상자` → `경로`](./90-10-43-00-dialog-path.md)
+
+[90.10.43.1. Ctrl(⌘): 동작 변경키(Key modifiers)](./90-10-43-01-00-key_modifier-ctrl.md)
+
+[90.10.43.1.1. Ctrl(⌘): 활성화된 `경로`를 선택으로 바꿔 활성화된 선택에서 빼기](./90-10-43-01-01-transform_path_to_subtracting_selection.md)
+
+[90.10.43.1.2. Shift(⇧) + Ctrl(⌘): 활성화된 `경로`를 선택으로 바꿔 활성화된 선택에서 교차하기](./90-10-43-01-02-transform_path_to_interasecting_selection.md)
+
+[90.10.43.2. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-43-02-00-key_modifier-shift.md)
+
+[90.10.43.2.1. Shift(⇧): 마지막 설정값으로 새 경로 만들기](./90-10-43-02-01-new_path_with_last_used_values.md)
+
+[90.10.43.2.2. Shift(⇧): 활성화된 `경로`를 목록 가장 위로 이동](./90-10-43-02-02-raise_path_to_the_top.md)
+
+[90.10.43.2.3. Shift(⇧): 활성화된 `경로`를 목록 가장 아래로 이동](./90-10-43-02-03-lower_path_to_the_top.md)
+
+[90.10.43.2.4. Shift(⇧): 활성화된 `경로`를 선택으로 바꿔 활성화된 선택에 더하기](./90-10-43-02-04-transform_path_to_adding_selection.md)
+
+[90.10.43.2.5. Shift(⇧): 선택을 경로로 바꿀 때의 고급 옵션 대화상자 열기](./90-10-43-02-05-selection_to_path_advanced_option.md)
+
+[90.10.43.2.6. Shift(⇧): 마지막 설정값으로 경로 따라 그리기](./90-10-43-02-06-paint_along_the_path_with_last_used_values.md)
+
+[90.10.44. `대화상자` → `색상표`](./90-10-44-00-dialog-colormap.md)
+
+[90.10.44.1. Ctrl(⌘): 동작 변경키(Key modifiers)](./90-10-44-01-00-key_modifier-ctrl.md)
+
+[90.10.44.1.1. Ctrl(⌘): 배경색 설정하기](./90-10-44-01-01-set_background_color.md)
+
+[90.10.44.1.2. Ctrl(⌘): 배경색을 색상표에 추가하기](./90-10-44-01-02-add_background_color_to_color_map.md)
+
+[90.10.44.1.3. Ctrl(⌘): 선택한 색의 선택 영역을 활성화 선택 영역에서 빼기](./90-10-44-01-03-subtract_from_selection.md)
+
+[90.10.44.2. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-44-02-00-key_modifier-shift.md)
+
+[90.10.44.2. Shift(⇧): 선택한 색의 선택 영역을 활성화 선택 영역에 더하기](./90-10-44-02-01-add_to_selection.md)
+
+[90.10.44.2.2. Shift(⇧) + Ctrl(⌘): 선택한 색의 선택 영역과 활성화 선택 영역을 교차하기](./90-10-44-02-02-intersect_with_selection.md)
+
+[90.10.45. `대화상자` → `내비게이션`](./90-10-45-00-dialog-navigation.md)
+
+[90.10.45.1. Ctrl(⌘): 동작 변경키(Key modifiers)](./90-10-45-01-00-key_modifier-ctrl.md)
+
+[90.10.45.1.1. Ctrl(⌘): 마우스 휠로 슬라이더 값 바꾸기](./90-10-45-01-01-change_slider.md)
+
+[90.10.45.2. Alt(⌥): 동작 변경키(Key modifiers)](./90-10-45-02-00-key_modifier-alt.md)
+
+[90.10.45.2.1. Alt(⌥): 마우스 휠로 미리보기를 수직으로 이동](./90-10-45-02-01-move_preview_vertically.md)
+
+[90.10.45.3. Shift(⇧): 동작 변경키(Key modifiers)](./90-10-45-03-00-key_modifier-shift.md)
+
+[90.10.45.3.1. Shift(⇧): 마우스 휠로 미리보기를 수평으로 이동](./90-10-45-03-01-move_preview_horizontally.md)
+
+[90.10.46. `대화상자` → `실행취소 이력`](./90-10-46-00-dialog-undo_history.md)
+
+[90.10.46.1. Ctrl(⌘): 동작 변경키(Key modifiers)](./90-10-46-01-00-key_modifier-ctrl.md)
+
+[90.10.46.1.1. Ctrl(⌘) + `Z`: 실행취소(Undo)](./90-10-46-01-01-undo.md)
+
+[90.10.46.1.2. Ctrl(⌘) + `Y`: 실행취소 되돌리기](./90-10-46-01-02-redo.md)
+
+[90.10.46. `대화상자` → `붓`](./90-10-47-00-dialog-brushes.md)
+
+[90.10.47.1. 키보드 단축키](./90-10-47-01-00-keyboard_shortcut.md)
+
+[90.10.47.1.1. `대화상자` → `붓`: 키보드 단축키 Shift(⇧) + Ctrl(⌘) + `B`](./90-10-47-01-01-shift_ctrl_b.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
