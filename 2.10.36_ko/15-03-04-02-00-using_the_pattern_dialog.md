@@ -1,0 +1,1 @@
+# 15.3.4.2. 무늬 대화상자 사용하기(Using the Patterns dialog)

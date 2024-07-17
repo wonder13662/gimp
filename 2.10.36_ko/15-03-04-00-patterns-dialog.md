@@ -1,0 +1,1 @@
+# 15.3.4. 무늬 대화상자(Patterns dialog)

@@ -1,0 +1,1 @@
+# 15.3.4.2.2.4. 무늬를 이미지로 열기(Open Pattern as Image)

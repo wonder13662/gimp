@@ -2136,7 +2136,7 @@
 
 [15.3.3.2.5.4. MyPaint 붓 새로 고침(Refresh Mypaint brush)](./15-03-03-02-05-04-refresh_mypaint_brush.md)
 
-[15.3.4. 무늬 대화상자(Patterns dialog)](./15-03-04-patterns-dialog.md)
+[15.3.4. 무늬 대화상자(Patterns dialog)](./15-03-04-00-patterns-dialog.md)
 
 [15.3.5. 그라디언트 대화상자(Gradient dialog)](./15-03-05-gradient-dialog.md)
 

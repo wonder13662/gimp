@@ -1159,7 +1159,7 @@ module.exports = {
         '15.3.3. 마이페인트 붓 대화상자(Mypaint brushes dialog)'
       ],
       [
-        '15-03-04-patterns-dialog.md', 
+        '15-03-04-00-patterns-dialog.md', 
         '15.3.4. 무늬 대화상자(Patterns dialog)',
         '15.3.4. 무늬 대화상자'
       ],

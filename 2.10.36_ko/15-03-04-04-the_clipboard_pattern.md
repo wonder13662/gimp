@@ -1,0 +1,1 @@
+# 15.3.4.4. 클립보드 무늬(The Clipboard pattern)
