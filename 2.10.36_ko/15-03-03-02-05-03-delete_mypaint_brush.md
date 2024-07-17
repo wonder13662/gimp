@@ -1,5 +1,12 @@
 # 15.3.3.2.5.3. MyPaint 붓 삭제(Delete Mypaint brush)
 
+<a id="90-04-17-a101-03-03"></a>
+
+#### [그림 90.4.17.a101.3.3. '마이페인트 붓' 대화상자 → `MyPaint 붓 메뉴` → `MyPaint 붓 삭제` (Windows) (우리말)](./90-04-0017-mypaint_brushes.md#90-04-17-a101-03-03)
+<img width="382" height="313" alt="90-04-17-a101-03-03" src="https://github.com/user-attachments/assets/c6fda300-1778-4ba4-ad41-19f156c02278" />
+
+[15.3.3.2.4.3. 마이페인트 붓 삭제(Delete brush)](./15-03-03-02-04-03-delete_brush.md)을 참고해주세요.
+
 ***
 
 ## 다른 페이지로 가기

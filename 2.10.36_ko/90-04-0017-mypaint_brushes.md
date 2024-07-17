@@ -180,7 +180,9 @@
 <a id="90-04-17-a101-03-03"></a>
 
 #### 그림 90.4.17.a101.3.3. '마이페인트 붓' 대화상자 → `MyPaint 붓 메뉴` → `MyPaint 붓 삭제` (Windows) (우리말)
-<img width="382" height="313" alt="" src="" />
+<img width="382" height="313" alt="90-04-17-a101-03-03" src="https://github.com/user-attachments/assets/c6fda300-1778-4ba4-ad41-19f156c02278" />
+
+[15.3.3.2.5.3. MyPaint 붓 삭제(Delete Mypaint brush) - 그림 90.4.17.a101.3.3](./15-03-03-02-05-03-delete_mypaint_brush.md#90-04-17-a101-03-03)
 
 <a id="90-04-17-a101-03-04"></a>
 
