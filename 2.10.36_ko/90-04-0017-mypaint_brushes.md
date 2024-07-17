@@ -149,6 +149,35 @@
 
 [15.3.3.2.5. 마이페인트 붓 컨텍스트 메뉴(The Mypaint brushes context menu) - 그림 90.4.17.a101.3](./15-03-03-02-05-00-the_mypaint_brushes_context_menu.md#90-04-17-a101-03)
 
+<a id="90-04-17-a101-03-01"></a>
+
+#### 그림 90.4.17.a101.3.1. '마이페인트 붓' 대화상자 → `MyPaint 붓 메뉴` → `MyPaint 붓 위치 복사` (Windows) (우리말)
+<img width="382" height="313" alt="90-04-17-a101-03-01" src="https://github.com/user-attachments/assets/cb6b3bcd-644c-44c6-a27f-9e32b493e30b" />
+
+[15.3.3.2.5.4. MyPaint 붓 새로 고침(Refresh Mypaint brush) - 그림 90.4.17.a101.3.1](./15-03-03-02-05-04-refresh_mypaint_brush.md#90-04-17-a101-03-01)
+
+<a id="90-04-17-a101-03-01-01"></a>
+
+#### 영상 90.4.17.a101.3.1.1. '마이페인트 붓' 대화상자 → `MyPaint 붓 메뉴` → `MyPaint 붓 위치 복사` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/5d25caf0-3c6d-4b96-890c-54173681dae2"></video>
+
+[15.3.3.2.5.1. MyPaint 붓 위치 복사(Copy Mypaint brush location) - 영상 90.4.17.a101.3.1.1](./15-03-03-02-05-01-copy_mypaint_brush_location.md#90-04-17-a101-03-01-01)
+
+<a id="90-04-17-a101-03-02"></a>
+
+#### 그림 90.4.17.a101.3.2. '마이페인트 붓' 대화상자 → `MyPaint 붓 메뉴` → `파일 관리자에 표시` (Windows) (우리말)
+<img width="382" height="313" alt="" src="" />
+
+<a id="90-04-17-a101-03-03"></a>
+
+#### 그림 90.4.17.a101.3.3. '마이페인트 붓' 대화상자 → `MyPaint 붓 메뉴` → `MyPaint 붓 삭제` (Windows) (우리말)
+<img width="382" height="313" alt="" src="" />
+
+<a id="90-04-17-a101-03-04"></a>
+
+#### 그림 90.4.17.a101.3.4. '마이페인트 붓' 대화상자 → `MyPaint 붓 메뉴` → `MyPaint 붓 새로 고침` (Windows) (우리말)
+<img width="382" height="313" alt="" src="" />
+
 <a id="90-04-17-a102"></a>
 
 #### 그림 90.4.17.a102. '마이페인트 붓' 대화상자 (Windows) (영어)

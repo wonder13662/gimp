@@ -1,5 +1,17 @@
 # 15.3.3.2.5.1. MyPaint 붓 위치 복사(Copy Mypaint brush location)
 
+<a id="90-04-17-a101-03-01"></a>
+
+#### [그림 90.4.17.a101.3.1. '마이페인트 붓' 대화상자 → `MyPaint 붓 메뉴` → `MyPaint 붓 위치 복사` (Windows) (우리말)](./90-04-0017-mypaint_brushes.md#90-04-17-a101-03-01)
+<img width="382" height="313" alt="90-04-17-a101-03-01" src="https://github.com/user-attachments/assets/cb6b3bcd-644c-44c6-a27f-9e32b493e30b" />
+
+`MyPaint 붓 위치 복사(Copy Mypaint brush location)` 메뉴는 클립보드로 붓 파일의 경로를 복사합니다.
+
+<a id="90-04-17-a101-03-01-01"></a>
+
+#### [영상 90.4.17.a101.3.1.1. '마이페인트 붓' 대화상자 → `MyPaint 붓 메뉴` → `MyPaint 붓 위치 복사` (Windows) (우리말)](./90-04-0017-mypaint_brushes.md#90-04-17-a101-03-01-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/5d25caf0-3c6d-4b96-890c-54173681dae2"></video>
+
 ***
 
 ## 다른 페이지로 가기
