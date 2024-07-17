@@ -96,8 +96,6 @@
 #### [영상 90.3.2.23.a117.2.1.5.1. `도구 옵션` → `그리기 붓` → `붓` → `붓 대화상자` → `아래쪽 버튼` → `붓 선택 영역 대화상자 열기` (Windows) (우리말)](./90-03-02-23-paintbrush.md#90-03-02-23-a117-02-01-05-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/b0c88bc3-9e31-4c9b-850b-32a43701efed"></video>
 
-(TODO 15.3.2.1. 대화상자 활성화하기(Activating the Dialog)에 관련 내용 연동하기)
-
 <a id="14-03-01-02-03-01-s2"></a>
 
 # 2. 여러가지 붓 종류

@@ -20,6 +20,59 @@
 #### 그림 90.4.17.a101. '마이페인트 붓' 대화상자 (Windows) (우리말)
 <img width="200" height="255" alt="90-04-17-a101" src="https://github.com/user-attachments/assets/df879b5e-e0db-49d2-ab2f-cfba3ff065f1" />
 
+[15.3.3.2. 마이페인트 붓 대화상자 사용하기(Using the Mypaint brushes dialog) - 그림 90.4.17.a101](./15-03-03-02-00-using_the_mypaint_brushes_dialog.md#90-04-17-a101)
+
+[15.3.3.2.1.1. 격자 모드(Grid mode) - 그림 90.4.17.a101](./15-03-03-02-01-01-grid_mode.md#90-04-17-a101)
+
+<a id="90-04-17-a101-01"></a>
+
+#### 그림 90.4.17.a101.1. '마이페인트 붓' 대화상자: 목록 모드 (Windows) (우리말)
+<img width="200" height="255" alt="90-04-17-a101-01" src="https://github.com/user-attachments/assets/fe650fc0-8f8c-4388-9fb1-5448614cc60c" />
+
+[15.3.3.2.1.2. 목록 모드(List mode) - 그림 90.4.17.a101.1](./15-03-03-02-01-02-list_mode.md#90-04-17-a101-01)
+
+<a id="90-04-17-a101-02-01"></a>
+
+#### 그림 90.4.17.a101.2.1. '마이페인트 붓' 대화상자: 격자 모드 → `필터 박스` (Windows) (우리말)
+<img width="200" height="255" alt="90-04-17-a101-02-01" src="https://github.com/user-attachments/assets/845648ad-71f6-4835-93cb-9653b48ce5b8" />
+
+[15.3.3.2.1.1. 격자 모드(Grid mode) - 그림 90.4.17.a101.2.1](./15-03-03-02-01-01-grid_mode.md#90-04-17-a101-02-01)
+
+<a id="90-04-17-a101-02-01-01"></a>
+
+#### 영상 90.4.17.a101.2.1.1. '마이페인트 붓' 대화상자: 격자 모드 → `필터 박스` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e307a103-b230-489c-ac65-9a6dde9f1f11"></video>
+
+[15.3.3.2.1.1. 격자 모드(Grid mode) - 영상 90.4.17.a101.2.1.1](./15-03-03-02-01-01-grid_mode.md#90-04-17-a101-02-01-01)
+
+<a id="90-04-17-a101-02-02"></a>
+
+#### 그림 90.4.17.a101.2.2. '마이페인트 붓' 대화상자: 격자 모드 → `활성화 마이페인트 붓` (Windows) (우리말)
+<img width="200" height="255" alt="90-04-17-a101-02-02" src="https://github.com/user-attachments/assets/c9821da8-6d08-41e0-a3d1-c974d534e49d" />
+
+[15.3.3.2.1.1. 격자 모드(Grid mode) - 그림 90.4.17.a101.2.2](./15-03-03-02-01-01-grid_mode.md#90-04-17-a101-02-02)
+
+<a id="90-04-17-a101-02-02-01"></a>
+
+#### 영상 90.4.17.a101.2.2.1. '마이페인트 붓' 대화상자: 격자 모드 → `활성화 마이페인트 붓` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/415bfc3a-0064-4c2a-a639-5a368fcb18bd"></video>
+
+[15.3.3.2.1.1. 격자 모드(Grid mode) - 영상 90.4.17.a101.2.2.1](./15-03-03-02-01-01-grid_mode.md#90-04-17-a101-02-02-01)
+
+<a id="90-04-17-a101-02-03"></a>
+
+#### 그림 90.4.17.a101.2.3. '마이페인트 붓' 대화상자: 격자 모드 → `활성화 마이페인트 붓의 태그` (Windows) (우리말)
+<img width="200" height="255" alt="90-04-17-a101-02-03" src="https://github.com/user-attachments/assets/e8c9c78d-6255-411b-92d3-f257fe8483ed" />
+
+[15.3.3.2.1.1. 격자 모드(Grid mode) - 그림 90.4.17.a101.2.3](./15-03-03-02-01-01-grid_mode.md#90-04-17-a101-02-03)
+
+<a id="90-04-17-a101-02-03-01"></a>
+
+#### 영상 90.4.17.a101.2.3.1. '마이페인트 붓' 대화상자: 격자 모드 → `활성화 마이페인트 붓의 태그` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f6a95e50-2f61-410d-94c2-b87c8cb194c0"></video>
+
+[15.3.3.2.1.1. 격자 모드(Grid mode) - 영상 90.4.17.a101.2.3.1](./15-03-03-02-01-01-grid_mode.md#90-04-17-a101-02-03-01)
+
 <a id="90-04-17-a102"></a>
 
 #### 그림 90.4.17.a102. '마이페인트 붓' 대화상자 (Windows) (영어)

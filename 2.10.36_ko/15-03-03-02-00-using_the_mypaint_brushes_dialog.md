@@ -1,5 +1,10 @@
 # 15.3.3.2. 마이페인트 붓 대화상자 사용하기(Using the Mypaint brushes dialog)
 
+<a id="90-04-17-a101"></a>
+
+#### [그림 90.4.17.a101. '마이페인트 붓' 대화상자 (Windows) (우리말)](./90-04-0017-mypaint_brushes.md#90-04-17-a101)
+<img width="200" height="255" alt="90-04-17-a101" src="https://github.com/user-attachments/assets/df879b5e-e0db-49d2-ab2f-cfba3ff065f1" />
+
 ***
 
 ## 하위 페이지
