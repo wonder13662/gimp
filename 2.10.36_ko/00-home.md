@@ -4334,7 +4334,7 @@
 
 [90.3.3. 전경색/배경색(Foreground/Background color)](./90-03-03-foreground_color_n_background_color.md)
 
-[90.3.4. 붓(Brush)/무늬(Pattern)/그라디언트(Gradient)](./90-03-04-brush_n_pattern_n_gradient.md)
+[90.3.4. 붓/무늬/그라디언트(Brush/Pattern/Gradient)](./90-03-04-brush_n_pattern_n_gradient.md)
 
 [90.3.5. 활성화된 이미지(Active Image)](./90-03-05-active_image.md)
 

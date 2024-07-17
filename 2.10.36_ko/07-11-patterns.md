@@ -20,7 +20,7 @@
 <a id="90-03-04-a3"></a>
 
 #### [그림 90.3.4.a3. 도구상자의 '붓/무늬/그라디언트' → `무늬`](./90-03-04-brush_n_pattern_n_gradient.md#90-03-04-a3)
-![90-03-04-a3](https://github.com/wonder13662/gimp/assets/15767104/2eb5399d-e741-48c7-ae76-c1d8277c4b08)
+<img width="264" height="181" alt="90-03-04-a3" src="https://github.com/wonder13662/gimp/assets/15767104/2eb5399d-e741-48c7-ae76-c1d8277c4b08" />
 
 ## 2. 메뉴를 통해 무늬 대화상자 열기
 메뉴를 통해 무늬 대화상자를 열 수 있습니다. 이 대화상자를 독에 도킹시킬수도 있습니다.

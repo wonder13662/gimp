@@ -260,7 +260,7 @@
 #### 그림 90.3.3.a1. 도구상자의 '전경색/배경색'
 ![90-03-03-a1](https://github.com/wonder13662/gimp/assets/15767104/5c0772d5-07d5-404f-bb30-836be3943703)
 
-### [90.3.4. 붓(Brush)/무늬(Pattern)/그라디언트(Gradient)](./90-03-04-brush_n_pattern_n_gradient.md)
+### [90.3.4. 붓/무늬/그라디언트(Brush/Pattern/Gradient)](./90-03-04-brush_n_pattern_n_gradient.md)
 #### 그림 90.3.4.a1. 도구상자의 '붓/무늬/그라디언트'
 ![90-03-04-brush_pattern_gradient(windows)(ko)-focus-brush_pattern_gradient](https://github.com/wonder13662/gimp/assets/15767104/43215714-8479-4a14-8f54-3daffdb5fcda)
 

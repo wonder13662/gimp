@@ -1,16 +1,16 @@
-# 90.3.4. 붓(Brush)/무늬(Pattern)/그라디언트(Gradient)
+# 90.3.4. 붓/무늬/그라디언트(Brush/Pattern/Gradient)
 
 <a id="90-03-04-a1"></a>
 
 #### 그림 90.3.4.a1. 도구상자의 '붓/무늬/그라디언트'
-![90-03-04-a1](https://github.com/wonder13662/gimp/assets/15767104/43215714-8479-4a14-8f54-3daffdb5fcda)
+<img width="264" height="181" alt="90-03-04-a3" src="https://github.com/wonder13662/gimp/assets/15767104/43215714-8479-4a14-8f54-3daffdb5fcda" />
 
 [14.1.3.2. 도구 표시 영역(Tools Indicator Area) - 그림 90.3.4.a1](./14-01-03-02-tools_indicator_area.md#90-03-04-a1)
 
 <a id="90-03-04-a2"></a>
 
 #### 그림 90.3.4.a2. 도구상자의 '붓/무늬/그라디언트' → `그라디언트`
-![90-03-04-a2](https://github.com/wonder13662/gimp/assets/15767104/f0f3242f-006c-417b-8d6b-82044636c631)
+<img width="264" height="181" alt="90-03-04-a2" src="https://github.com/wonder13662/gimp/assets/15767104/f0f3242f-006c-417b-8d6b-82044636c631" />
 
 [3.2.3. 도구상자(The toolbox) - 그림 90.3.4.a2](./03-02-03-the-toolbox.md#90-03-04-a2)
 
@@ -19,11 +19,13 @@
 <a id="90-03-04-a3"></a>
 
 #### 그림 90.3.4.a3. 도구상자의 '붓/무늬/그라디언트' → `무늬`
-![90-03-04-a3](https://github.com/wonder13662/gimp/assets/15767104/2eb5399d-e741-48c7-ae76-c1d8277c4b08)
+<img width="264" height="181" alt="90-03-04-a3" src="https://github.com/wonder13662/gimp/assets/15767104/2eb5399d-e741-48c7-ae76-c1d8277c4b08" />
 
 [3.2.3. 도구상자(The toolbox) - 그림 90.3.4.a3](./03-02-03-the-toolbox.md#90-03-04-a3)
 
 [7.11. 무늬(Pattern) - 그림 90.3.4.a3](./07-11-patterns.md#90-03-04-a3)
+
+[15.3.4. 무늬 대화상자(Patterns dialog) - 그림 90.3.4.a3](./15-03-04-00-patterns-dialog.md#90-03-04-a3)
 
 <a id="90-03-04-a4"></a>
 

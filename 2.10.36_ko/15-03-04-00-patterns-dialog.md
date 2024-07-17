@@ -1,5 +1,27 @@
 # 15.3.4. 무늬 대화상자(Patterns dialog)
 
+<a id="90-04-18-a1"></a>
+
+#### [그림 90.4.18.a1. 무늬 대화상자](./90-04-0018-patterns.md#90-04-18-a1)
+<img width="850" height="326" alt="90-04-18-a1" src="https://github.com/user-attachments/assets/6ff08ee1-b356-4075-8fbe-8777a29a83aa" />
+
+`무늬(Pattern)`은 영역을 작은 이미지를 반복해서 채웁니다.
+
+`무늬(Pattern)`에 대한 기본적인 정보는 [7.11. 무늬(Pattern)](./07-11-patterns.md)를 참고해주세요.
+
+`무늬(Pattern)`를 도구 상자의 [영역 채우기](./14-03-04-00-bucket-fill.md), [도장](./14-03-12-00-clone.md) 또는 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [무늬로 채우기](./16-03-17-fill-with-pattern.md) 메뉴를 통해 사용할 수 있습니다.
+
+`무늬(Pattern)` 대화상자에서 무늬를 선택할 수 있습니다.
+
+무늬를 선택하면, 도구상자의 '붓/무늬/그라디언트' → `무늬`에서 선택한 무늬를 확인할 수 있습니다.
+
+<a id="90-03-04-a3"></a>
+
+#### [그림 90.3.4.a3. 도구상자의 '붓/무늬/그라디언트' → `무늬`](./90-03-04-brush_n_pattern_n_gradient.md#90-03-04-a3)
+<img width="264" height="181" alt="90-03-04-a3" src="https://github.com/wonder13662/gimp/assets/15767104/2eb5399d-e741-48c7-ae76-c1d8277c4b08" />
+
+GIMP(김프)에서 기본적으로 제공되는 무늬도 사용할 수 있고, 사용자가 직접 무늬를 만들 수도 있습니다.
+
 ***
 
 ## 하위 페이지
