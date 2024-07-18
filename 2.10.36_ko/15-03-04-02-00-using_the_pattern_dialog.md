@@ -1,5 +1,12 @@
 # 15.3.4.2. 무늬 대화상자 사용하기(Using the Patterns dialog)
 
+<a id="90-04-18-a101"></a>
+
+#### [그림 90.4.18.a101. 무늬 대화상자 (Windows) (우리말)](./90-04-0018-patterns.md#90-04-18-a101)
+<img width="200" height="222" alt="90-04-18-a101" src="https://github.com/user-attachments/assets/ea9d5096-4e1b-4d58-a17a-9769724171e3" />
+
+[다른 운영체제와 언어의 '무늬 대화상자' 확인하기](./90-04-0018-patterns.md#90-04-18-a102)
+
 ***
 
 ## 하위 페이지

@@ -136,7 +136,7 @@ GTK+ 옵션을 보여줍니다.
 <a id="90-04-18-a2"></a>
 
 #### [그림 90.4.18.a2. 무늬 대화상자(pattern dialog)](./90-04-0018-patterns.md#90-04-18-a2)
-![90-04-18-a2](https://github.com/wonder13662/gimp/assets/15767104/c918e337-d746-438c-ab0c-f036dbc7e46f)
+<img width="429" height="400" alt="90-04-18-a2" src="https://github.com/user-attachments/assets/de27572d-9c9f-4d8f-beea-dcf325c2c30c" />
 
 <a id="02-01-03-s11"></a>
 
