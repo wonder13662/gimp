@@ -1,5 +1,10 @@
 # 15.3.4.2.2. 대화상자 아래쪽 버튼들(Buttons at the bottom)
 
+<a id="90-04-18-a112-04"></a>
+
+#### [그림 90.4.18.a112.4. 무늬 대화상자: 격자 모드 → `아래쪽 버튼들` (Windows) (우리말)](./90-04-0018-patterns.md#90-04-18-a112-04)
+<img width="200" height="222" alt="90-04-18-a112-04" src="https://github.com/user-attachments/assets/4399c135-a18c-4023-9934-f85b40b4d0c6" />
+
 ***
 
 ## 하위 페이지
