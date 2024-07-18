@@ -1,5 +1,10 @@
 # 15.3.4.2.2.3. 무늬 새로고침(Refresh Pattern)
 
+<a id="90-04-18-a112-04-03"></a>
+
+#### [그림 90.4.18.a112.4.3. 무늬 대화상자: 격자 모드 → `아래쪽 버튼들` → `무늬 새로고침` (Windows) (우리말)](./90-04-0018-patterns.md#90-04-18-a112-04-03)
+<img width="200" height="222" alt="90-04-18-a112-04-03" src="https://github.com/user-attachments/assets/18ebacd8-83ed-4cfe-a2c3-44accdbdb1a7" />
+
 ***
 
 ## 다른 페이지로 가기
