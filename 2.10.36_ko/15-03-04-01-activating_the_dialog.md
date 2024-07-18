@@ -63,9 +63,7 @@
 #### [영상 90.3.2.29.a131.2.2.1.1.1.5.1. `도구 옵션` → `도장` → `소스` → `무늬` → `무늬 대화상자` → `아래쪽 버튼` → `무늬 대화상자 표시` (Windows) (우리말)](./90-03-02-29-clone.md#90-03-02-29-a131-02-02-01-01-01-05-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7fcf6f84-7661-45eb-80ac-7ecd54a62fd8"></video>
 
-[관련 정보: 14.3.12.3.16. 소스(Source)](./14-03-12-03-16-source.md)
-
-(TODO 참조 페이지도 함께 관련 내용 추가가 되어야 합니다.)
+[관련 정보: 14.3.12.3.16. 소스(Source) - 2-5. `무늬 대화상자` → `아래쪽 버튼들` → `무늬 대화상자 표시`](./14-03-12-03-16-source.md#14-03-12-03-16-s2-05)
 
 <a id="15-03-04-01-s5"></a>
 
@@ -85,7 +83,12 @@
 
 <a id="15-03-04-01-s6"></a>
 
-## 6. Shift + Ctrl + P
+## 6. 키보드 단축키 Shift(⇧) + Ctrl(⌘) + `P`
+
+<a id="90-10-48-01-01-a1"></a>
+
+#### [영상 90.10.48.1.1.a1. `대화상자` → `붓`: 키보드 단축키 Shift(⇧) + Ctrl(⌘) + `P` (Windows) (우리말)](./90-10-48-01-01-shift_ctrl_p.md#90-10-48-01-01-a1)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/8e135512-83a2-4daa-b899-9e4584dede4a"></video>
 
 ***
 
