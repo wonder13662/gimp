@@ -6,9 +6,7 @@
 #### 그림 90.4.44.a101. `이미지를 HEIF로 내보내기` 대화상자 (Windows) (우리말)
 ![90-04-44-a101](https://github.com/wonder13662/gimp/assets/15767104/138ff527-f520-452f-a402-7acc0afbc0b5)
 
-[6.1.2.2. HEIF/HEIC로 이미지 내보내기 - 그림 90.4.44.a101-1](./06-01-02-02-export_image_as_heif.md#90-04-44-a101-1)
-
-[6.1.2.2. HEIF/HEIC로 이미지 내보내기 - 그림 90.4.44.a101-2](./06-01-02-02-export_image_as_heif.md#90-04-44-a101-2)
+[6.1.2.2. HEIF/HEIC로 이미지 내보내기 - 그림 90.4.44.a101](./06-01-02-02-export_image_as_heif.md#90-04-44-a101)
 
 <a id="90-04-44-a102"></a>
 

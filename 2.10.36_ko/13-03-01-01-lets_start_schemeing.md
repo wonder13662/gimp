@@ -1,4 +1,4 @@
-# 13.3.1.1. Scheme을 시작해봅시다(Let's Start Scheme'ing)
+# 13.3.1.1. Scheme을 시작해봅시다(Let's Start Scheme)
 [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language))은 Lisp 계열의 프로그래밍 언어의 한 종류입니다. GIMP(김프)는 가벼운 인터프리터 언어인 `TinyScheme`을 사용합니다. `TinyScheme`은 `R5RS` 표준을 따릅니다.
 
 아래 3가지 기본 규칙을 확인해주세요.

@@ -39,7 +39,7 @@
 
 [➡️ 다음: 14.4.14.1. 도구 활성화하기(Activating the tools)](./14-04-14-01-activating_the_tool.md)
 
-[⬅️ 이전: 14.4.13.3. `워프 변형` 도구 사용하기(Using Cage Tool)](./14-04-13-03-using_cage_tool.md)
+[⬅️ 이전: 14.4.13.3. `골조 변형` 도구 사용하기(Using Cage Tool)](./14-04-13-03-using_cage_tool.md)
 
 [⬆️ 위: 14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)
 

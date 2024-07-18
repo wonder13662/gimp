@@ -14,7 +14,7 @@
 
 [➡️ 다음: 15.3.4.2.1.1. 격자 모드(Grid mode)](./15-03-04-02-01-01-grid_mode.md)
 
-[⬅️ 이전: 15.3.4.2.1. 격자/목록 모드(Grid/List mode)](./15-03-04-02-01-00-grid_n_list_mode)
+[⬅️ 이전: 15.3.4.2. 무늬 대화상자 사용하기(Using the Patterns dialog)](./15-03-04-02-00-using_the_pattern_dialog.md)
 
 [⬆️ 위: 15.3.4.2. 무늬 대화상자 사용하기(Using the Patterns dialog)](./15-03-04-02-00-using_the_pattern_dialog.md)
 

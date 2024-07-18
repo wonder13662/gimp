@@ -88,6 +88,7 @@ module.exports = {
           `페이지: "${fileName}"`,
           `다음 페이지: "${nextFileName}"`,
           `제목: "${title}"\n`,
+          `페이지 내용: "${nextPageContents.slice(0, 200)}"\n`,
         ].join('\n'))
       }
     }    

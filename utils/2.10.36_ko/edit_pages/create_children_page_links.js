@@ -61,7 +61,7 @@ const doAsyncJob = async (targetPage) => {
 
     // 3. 하위(자식) 페이지 찾기
     // 3-1. 대상 페이지의 다음 페이지부터 최대 ${range} 페이지까지 자식 페이지 여부 검사
-    const range = 50
+    const range = 500
     const max = targetPageIdx + range > files.length ? files.length : targetPageIdx + range
     const childrenPageIndexList = []
     for (let i = targetPageIdx + 1; i < max; i++) {
@@ -113,4 +113,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }      
 }
-doAsyncJob('15-03-04-02-03-00-patterns_context_menu.md')
+doAsyncJob('14-00-tools.md')

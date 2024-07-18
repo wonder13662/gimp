@@ -1,7 +1,7 @@
 # 6.1.2.2. HEIF/HEIC로 이미지 내보내기
 `HEIF`는 "고효율 이미지 파일 포맷(High Efficiency Image File Format)"을 뜻합니다. `HEIC`라고도 부르는데요, "고효율 이미지 코딩(High Efficiency Image Coding)"의 의미입니다.
 
-<a id="90-04-44-a101-1"></a>
+<a id="90-04-44-a101"></a>
 
 #### [그림 90.4.44.a101. `이미지를 HEIF로 내보내기` 대화상자 (Windows) (우리말)](./90-04-0044-export_image_as_heif.md#90-04-44-a101)
 ![90-04-44-a101](https://github.com/wonder13662/gimp/assets/15767104/138ff527-f520-452f-a402-7acc0afbc0b5)
@@ -19,7 +19,7 @@
 
 ## 대화 상자 옵션 설명
 
-<a id="90-04-44-a101-2"></a>
+<a id="90-04-44-a101"></a>
 
 #### [그림 90.4.44.a101. `이미지를 HEIF로 내보내기` 대화상자 (Windows) (우리말)](./90-04-0044-export_image_as_heif.md#90-04-44-a101)
 ![90-04-44-a101](https://github.com/wonder13662/gimp/assets/15767104/138ff527-f520-452f-a402-7acc0afbc0b5)

@@ -34,14 +34,14 @@
 #### 그림 90.3.2.23.a111. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options) 설정
 ![90-03-02-23-a111](https://github.com/wonder13662/gimp/assets/15767104/bca225fa-05ed-4777-aef7-321eb8ec74d0)
 
-[3.5.2. 직선그리기 예제들 - 그림 90.3.2.23.a111](./03-05-02-examples.md#90-03-02-23-a111)
+[3.5.2. 직선그리기 예제 - 그림 90.3.2.23.a111](./03-05-02-examples.md#90-03-02-23-a111)
 
 <a id="90-03-02-23-a112"></a>
 
 #### 영상 90.3.2.23.a112. 그리기 붓(Paintbrush)의 도구 옵션(Tool Options)의 `Color From Gradient` 적용하기
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6215e2ac-b807-4732-b106-e37b2c0c2c82"></video>
 
-[3.5.2. 직선그리기 예제들 - 영상 90.3.2.23.a112](./03-05-02-examples.md#90-03-02-23-a112)
+[3.5.2. 직선그리기 예제 - 영상 90.3.2.23.a112](./03-05-02-examples.md#90-03-02-23-a112)
 
 [7.10. 그라디언트 - 영상 90.3.2.23.a112](./07-10-gradients.md#90-03-02-23-a112)
 

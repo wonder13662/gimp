@@ -18,9 +18,10 @@
 ***
 
 ## 다른 페이지로 가기
+
 [➡️ 다음: 8.5.13. 레이어 미리보기(Layer preview)](./08-05-13-layer_preview.md)
 
-[⬅️ 이전: 8.5.11. 레이어 마스크(Layer Mask)](./08-05-11-layer_mask.md)
+[⬅️ 이전: 8.5.11. 레이어 그룹 마스크(Layer Group Mask)](./08-05-11-layer_mask.md)
 
 [⬆️ 위: 8.5. 레이어 그룹](./08-05-00-layer-groups.md)
 

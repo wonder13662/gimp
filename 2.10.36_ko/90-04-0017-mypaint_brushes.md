@@ -124,6 +124,8 @@
 #### 그림 90.4.17.a101.2.4.4. '마이페인트 붓' 대화상자: 격자 모드 → `대화상자 아래쪽 버튼들` → `마이페인트 붓 새로고침` (Windows) (우리말)
 <img width="200" height="255" alt="90-04-17-a101-02-04-04" src="https://github.com/user-attachments/assets/d901dbdc-7194-4500-b619-e19e63c9cbb7" />
 
+[14.3.8.1. 마이페인트 붓 설치하기(Installing MyPaing Brushes) - 그림 90.4.17.a101.2.4.4](./14-03-08-01-installing_mypaint_brushes.md#90-04-17-a101-02-04-04)
+
 [15.3.3.2.4.4. 마이페인트 붓 새로고침(Refresh brush) - 그림 90.4.17.a101.2.4.4](./15-03-03-02-04-04-refresh_brushes.md#90-04-17-a101-02-04-04)
 
 <a id="90-04-17-a101-02-04-04-01"></a>

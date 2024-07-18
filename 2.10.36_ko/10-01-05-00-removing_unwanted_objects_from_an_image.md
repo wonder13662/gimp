@@ -19,7 +19,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 10.1.6. 10.1.5.1. 잡티 없애기(Despeckling)](./10-01-05-01-despeckling.md)
+[➡️ 다음: 10.1.5.1. 잡티 없애기(Despeckling)](./10-01-05-01-despeckling.md)
 
 [⬅️ 이전: 10.1.4.3. 부드럽게 하기(Softening)](./10-01-04-03-softening.md)
 

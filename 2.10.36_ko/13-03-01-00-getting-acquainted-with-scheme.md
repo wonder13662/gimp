@@ -4,7 +4,7 @@
 
 ## 하위 페이지
 
-[13.3.1.1. Scheme을 시작해봅시다(Let's Start Scheme'ing)](./13-03-01-01-lets_start_schemeing.md)
+[13.3.1.1. Scheme을 시작해봅시다(Let's Start Scheme)](./13-03-01-01-lets_start_schemeing.md)
 
 [13.3.1.2. 접두사, 삽입사, 접미사 예제(Examples Of Prefix, Infix, And Postfix Notations)](./13-03-01-02-example_of_prefix_infix_n_postfix_notations.md)
 
@@ -20,7 +20,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 13.3.1.1. Scheme을 시작해봅시다(Let's Start Scheme'ing)](./13-03-01-01-lets_start_schemeing.md)
+[➡️ 다음: 13.3.1.1. Scheme을 시작해봅시다(Let's Start Scheme)](./13-03-01-01-lets_start_schemeing.md)
 
 [⬅️ 이전: 13.3. Script-Fu 튜토리얼(A Script-Fu tutorial)](./13-03-00-a-script-fu-tutorial.md)
 

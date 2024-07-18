@@ -9,7 +9,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 8.5.11. 레이어 마스크(Layer Mask)](./08-05-11-layer_mask.md)
+[➡️ 다음: 8.5.11. 레이어 그룹 마스크(Layer Group Mask)](./08-05-11-layer_mask.md)
 
 [⬅️ 이전: 8.5.9. 레이어 모드와 그룹(Layer Modes and Groups)](./08-05-09-layer_modes_n_groups.md)
 

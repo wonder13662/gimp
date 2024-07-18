@@ -202,6 +202,20 @@
 
 [14.3.4.3. 옵션(Options)](./14-03-04-03-00-options.md)
 
+[14.3.4.3.1. 모드(Mode)](./14-03-04-03-01-mode.md)
+
+[14.3.4.3.2. 불투명(Opacity)](./14-03-04-03-02-opacity.md)
+
+[14.3.4.3.3. 채우기 유형(Fill Type)](./14-03-04-03-03-fill_type.md)
+
+[14.3.4.3.4. 영향을 받는 영역(Affected Area)](./14-03-04-03-04-00-affected_area.md)
+
+[14.3.4.3.4.1. Smart Colorization](./14-03-04-03-04-01-smart_colorization.md)
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors)](./14-03-04-03-05-finding_similar_colors.md)
+
+[14.3.4.3.6. 선화 감지 옵션("Line Art Detection" option)](./14-03-04-03-06-line_art_detection_options.md)
+
 [14.3.4.4. 흐릿한 경계가 있는 선택 채우기(Fill a feathered selection)](./14-03-04-04-fill_a_feathered_selection.md)
 
 [14.3.5. 그라디언트(Gradient)](./14-03-05-00-gradient.md)
@@ -306,7 +320,41 @@
 
 [14.3.12.2. 동작 변경키(Key modifiers)](./14-03-12-02-key_modifiers.md)
 
-[14.3.12.3. 옵션(Options)](./14-03-12-03-options.md)
+[14.3.12.3. 옵션(Options)](./14-03-12-03-00-options.md)
+
+[14.3.12.3.1. 모드(Mode)](./14-03-12-03-01-mode.md)
+
+[14.3.12.3.2. 불투명도(Opacity)](./14-03-12-03-02-opacity.md)
+
+[14.3.12.3.3. 붓(Brush)](./14-03-12-03-03-brush.md)
+
+[14.3.12.3.4. 크기(Size)](./14-03-12-03-04-size.md)
+
+[14.3.12.3.5. 종횡비(Aspect Ratio)](./14-03-12-03-05-aspect_ratio.md)
+
+[14.3.12.3.6. 각도(Angle)](./14-03-12-03-06-angle.md)
+
+[14.3.12.3.7. 간격(Spacing)](./14-03-12-03-07-spacing.md)
+
+[14.3.12.3.8. 경도(Hardness)](./14-03-12-03-08-hardness.md)
+
+[14.3.12.3.9. 압력(Force)](./14-03-12-03-09-force.md)
+
+[14.3.12.3.10. 동적 요소(Dynamics)](./14-03-12-03-10-dynamics.md)
+
+[14.3.12.3.11. 동적 요소 옵션(Dynamics Options)](./14-03-12-03-11-dynamics_options.md)
+
+[14.3.12.3.12. 지터 적용(Apply Jitter)](./14-03-12-03-12-apply_jitter.md)
+
+[14.3.12.3.13. 부드러운 스트로크(Smooth Stroke)](./14-03-12-03-13-smooth_stroke.md)
+
+[14.3.12.3.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view)](./14-03-12-03-14-lock_brush_size_to_view.md)
+
+[14.3.12.3.15. 가장자리 딱딱하게(Hard edge)](./14-03-12-03-15-hard_edge.md)
+
+[14.3.12.3.16. 소스(Source)](./14-03-12-03-16-source.md)
+
+[14.3.12.3.17. 정렬(Alignment)](./14-03-12-03-17-alignment.md)
 
 [14.3.12.4. 추가 정보](./14-03-12-04-more_information.md)
 
@@ -373,6 +421,8 @@
 [14.4.1.1.6. 합성 미리보기(Composited preview)](./14-04-01-01-06-composited_preview.md)
 
 [14.4.1.1.7. 안내선(Guides)](./14-04-01-01-07-guides.md)
+
+[14.4.1.2. 경로 변형하기(Transforming paths)](./14-04-01-02-transforming_paths.md)
 
 [14.4.2. 정렬(Align)](./14-04-02-00-align.md)
 
@@ -486,7 +536,17 @@
 
 [14.4.10.3. 옵션(Options)](./14-04-10-03-options.md)
 
+[14.4.10.4. 통합 변형 대화상자(Unified transform dialog)](./14-04-10-04-unified_transform_dialog.md)
+
 [14.4.11. 핸들 변형(Handle transform)](./14-04-11-00-handle-transform.md)
+
+[14.4.11.1. 도구 활성화하기(Activating the tools)](./14-04-11-01-activating_the_tool.md)
+
+[14.4.11.2. 동작 변경키(Key modifiers)](./14-04-11-02-key_modifiers.md)
+
+[14.4.11.3. 옵션(Options)](./14-04-11-03-options.md)
+
+[14.4.11.4. 핸들 변형 대화상자(Handle transform dialog)](./14-04-11-04-handle_transform_dialog.md)
 
 [14.4.12. 뒤집기(Flip)](./14-04-12-00-flip.md)
 
@@ -641,6 +701,10 @@
 [14.5.6.3.1.8. 선택한 글꼴 사용(Use selected font)](./14-05-06-03-01-08-use_selected_font.md)
 
 [14.5.7. GEGL 동작(GEGL operation)](./14-05-07-00-gegl_operation.md)
+
+[14.5.7.1. 도구 활성화하기(Activating the tools)](./14-05-07-01-activating_the_tool.md)
+
+[14.5.7.2. GEGL 동작 대화상자(GEGL Operation Dialog)](./14-05-07-02-00-gegl_operation_dialog.md)
 
 [14.5.7.2.1. 동작(Operation)](./14-05-07-02-01-operation.md)
 

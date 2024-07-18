@@ -1,6 +1,6 @@
 # 4.2.1. 떠있는 선택(floating selection)
 
-<a id="90-04-03-03-a11-1"></a>
+<a id="90-04-03-03-a11"></a>
 
 #### [그림 90.4.3.3.a11. 레이어 대화상자 - 떠있는 선택 (Windows)](./90-04-0003-003-floating_selection.md#90-04-03-03-a11)
 ![90-04-03-layers(windows)-floating_layer-focus-floating_layer(50%)](https://github.com/wonder13662/gimp/assets/15767104/833cda8e-50c1-4176-a614-6f6be559a5f3)
@@ -12,7 +12,7 @@
 ## 4.2.1.1. 떠있는 선택(floating selection)이 있는지 어떻게 알 수 있나요?
 떠있는 선택이 있다면, 많은 기능이 비활성화됩니다. 작업중인 레이어에서 단축키 Ctrl + Shift + L(Windows) 또는 ⌘ + ⇧ + L(Mac)을 눌러 [레이어 대화상자](./15-02-01-00-layers-dialog.md)를 엽니다. 그리고 [레이어 대화상자](./15-02-01-00-layers-dialog.md)의 가장 위쪽에 "떠있는 선택(Floating Selection)"이 보이는지 확인합니다. 아래와 같은 레이어가 있다면 떠있는 선택이 있는 것을 알 수 있습니다.
 
-<a id="90-04-03-03-a11-2"></a>
+<a id="90-04-03-03-a11"></a>
 
 #### [그림 90.4.3.3.a11. 레이어 대화상자 - 떠있는 선택 (Windows)](./90-04-0003-003-floating_selection.md#90-04-03-03-a11)
 ![90-04-03-layers(windows)-floating_layer-focus-floating_layer(50%)](https://github.com/wonder13662/gimp/assets/15767104/833cda8e-50c1-4176-a614-6f6be559a5f3)

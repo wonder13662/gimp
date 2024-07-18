@@ -25,7 +25,7 @@
 
 [8.5.10. 불투명도(Opacity)](./08-05-10-opacity.md)
 
-[8.5.11. 레이어 마스크(Layer Mask)](./08-05-11-layer_mask.md)
+[8.5.11. 레이어 그룹 마스크(Layer Group Mask)](./08-05-11-layer_mask.md)
 
 [8.5.12. 레이어 찾기(Finding a layer)](./08-05-12-finding_a_layer.md)
 

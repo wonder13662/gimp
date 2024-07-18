@@ -856,7 +856,7 @@
 
 [13.3.1. Scheme에 익숙해지기(Getting acquainted with scheme)](./13-03-01-00-getting-acquainted-with-scheme.md)
 
-[13.3.1.1. Scheme을 시작해봅시다(Let's Start Scheme'ing)](./13-03-01-01-lets_start_schemeing.md)
+[13.3.1.1. Scheme을 시작해봅시다(Let's Start Scheme)](./13-03-01-01-lets_start_schemeing.md)
 
 [13.3.1.2. 접두사, 삽입사, 접미사 예제(Examples Of Prefix, Infix, And Postfix Notations)](./13-03-01-02-example_of_prefix_infix_n_postfix_notations.md)
 
@@ -882,7 +882,7 @@
 
 [13.3.2.6. 함수(Functions)](./13-03-02-06-functions.md)
 
-[13.3.3. 리스트](./13-03-03-00-lists-lists-and-more-lists.md)
+[13.3.3. 더 많은 리스트(Lists, lists and more lists)](./13-03-03-00-lists-lists-and-more-lists.md)
 
 [13.3.3.1. 리스트 정의하기](./13-03-03-01-defining_a_list.md)
 
@@ -1334,7 +1334,41 @@
 
 [14.3.12.2. 동작 변경키(Key modifiers)](./14-03-12-02-key_modifiers.md)
 
-[14.3.12.3. 옵션(Options)](./14-03-12-03-options.md)
+[14.3.12.3. 옵션(Options)](./14-03-12-03-00-options.md)
+
+[14.3.12.3.1. 모드(Mode)](./14-03-12-03-01-mode.md)
+
+[14.3.12.3.2. 불투명도(Opacity)](./14-03-12-03-02-opacity.md)
+
+[14.3.12.3.3. 붓(Brush)](./14-03-12-03-03-brush.md)
+
+[14.3.12.3.4. 크기(Size)](./14-03-12-03-04-size.md)
+
+[14.3.12.3.5. 종횡비(Aspect Ratio)](./14-03-12-03-05-aspect_ratio.md)
+
+[14.3.12.3.6. 각도(Angle)](./14-03-12-03-06-angle.md)
+
+[14.3.12.3.7. 간격(Spacing)](./14-03-12-03-07-spacing.md)
+
+[14.3.12.3.8. 경도(Hardness)](./14-03-12-03-08-hardness.md)
+
+[14.3.12.3.9. 압력(Force)](./14-03-12-03-09-force.md)
+
+[14.3.12.3.10. 동적 요소(Dynamics)](./14-03-12-03-10-dynamics.md)
+
+[14.3.12.3.11. 동적 요소 옵션(Dynamics Options)](./14-03-12-03-11-dynamics_options.md)
+
+[14.3.12.3.12. 지터 적용(Apply Jitter)](./14-03-12-03-12-apply_jitter.md)
+
+[14.3.12.3.13. 부드러운 스트로크(Smooth Stroke)](./14-03-12-03-13-smooth_stroke.md)
+
+[14.3.12.3.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view)](./14-03-12-03-14-lock_brush_size_to_view.md)
+
+[14.3.12.3.15. 가장자리 딱딱하게(Hard edge)](./14-03-12-03-15-hard_edge.md)
+
+[14.3.12.3.16. 소스(Source)](./14-03-12-03-16-source.md)
+
+[14.3.12.3.17. 정렬(Alignment)](./14-03-12-03-17-alignment.md)
 
 [14.3.12.4. 추가 정보](./14-03-12-04-more_information.md)
 
@@ -1460,7 +1494,7 @@
 
 [14.4.4.3.9. 안내선(Guides)](./14-04-04-03-09-guides.md)
 
-[14.4.4.3.10. 자동 줄이기(Autoshrink)](./14-04-04-03-10-autoshrink.md)
+[14.4.4.3.10. 자동 줄이기(Auto Shrink)](./14-04-04-03-10-autoshrink.md)
 
 [14.4.4.3.11. 합친 이미지를 줄이기(Shrink Merged)](./14-04-04-03-11-shrink_merged.md)
 
@@ -2137,6 +2171,42 @@
 [15.3.3.2.5.4. MyPaint 붓 새로 고침(Refresh Mypaint brush)](./15-03-03-02-05-04-refresh_mypaint_brush.md)
 
 [15.3.4. 무늬 대화상자(Patterns dialog)](./15-03-04-00-patterns-dialog.md)
+
+[15.3.4.1. 무늬 대화상자 활성화하기(Patterns dialog)](./15-03-04-01-activating_the_dialog.md)
+
+[15.3.4.2. 무늬 대화상자 사용하기(Using the Patterns dialog)](./15-03-04-02-00-using_the_pattern_dialog.md)
+
+[15.3.4.2.1. 격자/목록 모드(Grid/List mode)](./15-03-04-02-01-00-grid_n_list_mode.md)
+
+[15.3.4.2.1.1. 격자 모드(Grid mode)](./15-03-04-02-01-01-grid_mode.md)
+
+[15.3.4.2.1.2. 목록 모드(List mode)](./15-03-04-02-01-02-list_mode.md)
+
+[15.3.4.2.2. 대화상자 아래쪽 버튼들(Buttons at the bottom)](./15-03-04-02-02-00-buttons_at_the_bottom.md)
+
+[15.3.4.2.2.1. 무늬 복제(Duplicate Pattern)](./15-03-04-02-02-01-duplicate_pattern.md)
+
+[15.3.4.2.2.2. 무늬 삭제(Delete Pattern)](./15-03-04-02-02-02-delete_pattern.md)
+
+[15.3.4.2.2.3. 무늬 새로고침(Refresh Pattern)](./15-03-04-02-02-03-refresh_pattern.md)
+
+[15.3.4.2.2.4. 무늬를 이미지로 열기(Open Pattern as Image)](./15-03-04-02-02-04-open_pattern_as_image.md)
+
+[15.3.4.2.3. 무늬 컨텍스트 메뉴(Patterns Context Menu)](./15-03-04-02-03-00-patterns_context_menu.md)
+
+[15.3.4.2.3.1. 무늬를 이미지로 열기(Open Pattern as Image)](./15-03-04-02-03-01-open_pattern_as_image.md)
+
+[15.3.4.2.3.2. 무늬 위치 복사(Copy Pattern location)](./15-03-04-02-03-02-copy_pattern_location.md)
+
+[15.3.4.2.3.3. 파일 관리자에 표시(Show in File Manager)](./15-03-04-02-03-03-show_in_file_manager.md)
+
+[15.3.4.2.3.4. 무늬 삭제(Delete Pattern)](./15-03-04-02-03-04-delete_pattern.md)
+
+[15.3.4.2.3.5. 무늬 새로고침(Refresh Pattern)](./15-03-04-02-03-05-refresh_pattern.md)
+
+[15.3.4.3. 태그(Tagging)](./15-03-04-03-tagging.md)
+
+[15.3.4.4. 클립보드 무늬(The Clipboard pattern)](./15-03-04-04-the_clipboard_pattern.md)
 
 [15.3.5. 그라디언트 대화상자(Gradient dialog)](./15-03-05-gradient-dialog.md)
 
@@ -3247,6 +3317,8 @@
 [19. 용어집 - HTML 표기(HTML Notation)](./19-glossaryx-html_notation.md)
 
 [19. 용어집 - ICC profile](./19-glossaryx-icc_profile.md)
+
+[19. 용어집 - 이미지 메뉴 바(Image Menu Bar)](./19-glossaryx-image_menu_bar.md)
 
 [19. 용어집 - 인터레이싱(PostScript)](./19-glossaryx-interlace.md)
 

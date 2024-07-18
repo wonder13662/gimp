@@ -45,9 +45,9 @@
 
 [➡️ 다음: 14.4.9.2. 옵션(Options)](./14-04-09-02-options.md)
 
-[⬅️ 이전: 14.4.9. 3차원 변형(Perspective)](./14-04-09-00-3d-transform.md)
+[⬅️ 이전: 14.4.9. 3차원 변형(3d transform)](./14-04-09-00-3d-transform.md)
 
-[⬆️ 위: 14.4.9. 3차원 변형(Perspective)](./14-04-09-00-3d-transform.md)
+[⬆️ 위: 14.4.9. 3차원 변형(3d transform)](./14-04-09-00-3d-transform.md)
 
 [⬆️ 위: 14.4. 변형 도구(Transform tools)](./14-04-00-transform-tools.md)
 

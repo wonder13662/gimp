@@ -91,6 +91,20 @@
 
 [14.3.4.3. 옵션(Options)](./14-03-04-03-00-options.md)
 
+[14.3.4.3.1. 모드(Mode)](./14-03-04-03-01-mode.md)
+
+[14.3.4.3.2. 불투명(Opacity)](./14-03-04-03-02-opacity.md)
+
+[14.3.4.3.3. 채우기 유형(Fill Type)](./14-03-04-03-03-fill_type.md)
+
+[14.3.4.3.4. 영향을 받는 영역(Affected Area)](./14-03-04-03-04-00-affected_area.md)
+
+[14.3.4.3.4.1. Smart Colorization](./14-03-04-03-04-01-smart_colorization.md)
+
+[14.3.4.3.5. 색상이 비슷한 영역 찾기(Finding Similar Colors)](./14-03-04-03-05-finding_similar_colors.md)
+
+[14.3.4.3.6. 선화 감지 옵션("Line Art Detection" option)](./14-03-04-03-06-line_art_detection_options.md)
+
 [14.3.4.4. 흐릿한 경계가 있는 선택 채우기(Fill a feathered selection)](./14-03-04-04-fill_a_feathered_selection.md)
 
 [14.3.5. 그라디언트(Gradient)](./14-03-05-00-gradient.md)
@@ -195,7 +209,41 @@
 
 [14.3.12.2. 동작 변경키(Key modifiers)](./14-03-12-02-key_modifiers.md)
 
-[14.3.12.3. 옵션(Options)](./14-03-12-03-options.md)
+[14.3.12.3. 옵션(Options)](./14-03-12-03-00-options.md)
+
+[14.3.12.3.1. 모드(Mode)](./14-03-12-03-01-mode.md)
+
+[14.3.12.3.2. 불투명도(Opacity)](./14-03-12-03-02-opacity.md)
+
+[14.3.12.3.3. 붓(Brush)](./14-03-12-03-03-brush.md)
+
+[14.3.12.3.4. 크기(Size)](./14-03-12-03-04-size.md)
+
+[14.3.12.3.5. 종횡비(Aspect Ratio)](./14-03-12-03-05-aspect_ratio.md)
+
+[14.3.12.3.6. 각도(Angle)](./14-03-12-03-06-angle.md)
+
+[14.3.12.3.7. 간격(Spacing)](./14-03-12-03-07-spacing.md)
+
+[14.3.12.3.8. 경도(Hardness)](./14-03-12-03-08-hardness.md)
+
+[14.3.12.3.9. 압력(Force)](./14-03-12-03-09-force.md)
+
+[14.3.12.3.10. 동적 요소(Dynamics)](./14-03-12-03-10-dynamics.md)
+
+[14.3.12.3.11. 동적 요소 옵션(Dynamics Options)](./14-03-12-03-11-dynamics_options.md)
+
+[14.3.12.3.12. 지터 적용(Apply Jitter)](./14-03-12-03-12-apply_jitter.md)
+
+[14.3.12.3.13. 부드러운 스트로크(Smooth Stroke)](./14-03-12-03-13-smooth_stroke.md)
+
+[14.3.12.3.14. 붓의 크기를 뷰에 고정하기(Lock brush size to view)](./14-03-12-03-14-lock_brush_size_to_view.md)
+
+[14.3.12.3.15. 가장자리 딱딱하게(Hard edge)](./14-03-12-03-15-hard_edge.md)
+
+[14.3.12.3.16. 소스(Source)](./14-03-12-03-16-source.md)
+
+[14.3.12.3.17. 정렬(Alignment)](./14-03-12-03-17-alignment.md)
 
 [14.3.12.4. 추가 정보](./14-03-12-04-more_information.md)
 
@@ -256,4 +304,3 @@
 [🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-tools-paint.html)
-

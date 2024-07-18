@@ -5,7 +5,7 @@
 
 [5.3.1.1. PDF 불러오기](./05-03-01-01-import_from_pdf.md)
 
-[5.3.1.2. PostScript 불러오기](./05-03-01-02-import_from_postscript.md)
+[5.3.1.2. 포스트스크립트(PostScript) 불러오기](./05-03-01-02-import_from_postscript.md)
 
 [5.3.2. 위치 열기](./05-03-02-open-location.md)
 

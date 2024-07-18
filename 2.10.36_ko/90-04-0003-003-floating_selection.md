@@ -5,9 +5,7 @@
 #### 그림 90.4.3.3.a11. 레이어 대화상자 - 떠있는 선택 (Windows)
 ![90-04-03-layers(windows)-floating_layer-focus-floating_layer(50%)](https://github.com/wonder13662/gimp/assets/15767104/833cda8e-50c1-4176-a614-6f6be559a5f3)
 
-[4.2.1. 떠있는 선택(floating selection) - 그림 90.4.3.3.a11-1](./04-02-01-there-is-a-floating-selection.md#90-04-03-03-a11-1)
-
-[4.2.1. 떠있는 선택(floating selection) - 그림 90.4.3.3.a11-2](./04-02-01-there-is-a-floating-selection.md#90-04-03-03-a11-2)
+[4.2.1. 떠있는 선택(floating selection) - 그림 90.4.3.3.a11](./04-02-01-there-is-a-floating-selection.md#90-04-03-03-a11)
 
 <a id="90-04-03-03-a21"></a>
 

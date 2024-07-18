@@ -103,6 +103,7 @@ module.exports = {
           `페이지: "${fileName}"`,
           `이전 페이지: "${prevFileName}"`,
           `제목: "${title}"\n`,
+          `페이지 내용: "${prevPageContents.slice(0, 200)}"\n`,
         ].join('\n'))
       }
     }

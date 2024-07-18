@@ -53,7 +53,7 @@
 
 [15.2.3.3.5. 경로를 선택으로(Path to Selection)](./15-02-03-03-05-path_to_selection.md)
 
-[15.2.3.3.6. 선택을 경로로(Selection to Path)](./15-02-03-03-06-selection_to_path.md)
+[15.2.3.3.6. 선택을 경로로 바꾸기(Selection to Path)](./15-02-03-03-06-selection_to_path.md)
 
 [15.2.3.3.7. 경로 따라 칠하기(Paint along the Path)](./15-02-03-03-07-paint_along_the_path.md)
 

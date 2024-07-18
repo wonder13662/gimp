@@ -77,7 +77,7 @@ PDF 이미지의 페이지들을 별개의 이미지 또는 레이어로 선택�
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 5.3.1.2. PostScript 불러오기](./05-03-01-02-import_from_postscript.md)
+[➡️ 다음: 5.3.1.2. 포스트스크립트(PostScript) 불러오기](./05-03-01-02-import_from_postscript.md)
 
 [⬅️ 이전: 5.3.1. 파일 열기](./05-03-01-00-open-file.md)
 
