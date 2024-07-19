@@ -44,7 +44,7 @@
 
 [15.3.5.3.2.1. 그라디언트 이름(Name)](./15-03-05-03-02-01-name.md)
 
-[15.3.5.3.2.2. 그라디언트 미리보기 창(The Gradient Preview Window)](./15-03-05-03-02-02-the_gradient_preview_window.md)
+[15.3.5.3.2.2. 그라디언트 미리보기 창(The Gradient Preview Window)](./15-03-05-03-02-02-the_gradient_preview_window.md)
 
 [15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider)](./15-03-05-03-02-03-range_selection_n_control_slider.md)
 

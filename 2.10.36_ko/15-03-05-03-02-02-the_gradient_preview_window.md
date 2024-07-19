@@ -1,12 +1,12 @@
-# 15.3.5.3.2.4. 스크롤 바(Scroll Bar)
+# 15.3.5.3.2.2. 그라디언트 미리보기 창(The Gradient Preview Window)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.3.2.5. 피드백 영역(Feedback Area)](./15-03-05-03-02-05-feedback_area.md)
+[➡️ 다음: 15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider)](./15-03-05-03-02-03-range_selection_n_control_slider.md)
 
-[⬅️ 이전: 15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider)](./15-03-05-03-02-03-range_selection_n_control_slider.md)
+[⬅️ 이전: 15.3.5.3.2.1. 그라디언트 이름(Name)](./15-03-05-03-02-01-name.md)
 
 [⬆️ 위: 15.3.5.3.2. 그라디언트 편집기 항목 설명(Display)](./15-03-05-03-02-00-display.md)
 

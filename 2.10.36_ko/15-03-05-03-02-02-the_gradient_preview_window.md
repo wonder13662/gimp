@@ -1,1 +1,0 @@
-# 15.3.5.3.2.2. 그라디언트 미리보기 창(The Gradient Preview Window)
