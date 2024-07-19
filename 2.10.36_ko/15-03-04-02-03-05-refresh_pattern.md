@@ -1,5 +1,10 @@
 # 15.3.4.2.3.5. 무늬 새로고침(Refresh Pattern)
 
+<a id="90-04-18-a113-05"></a>
+
+#### [그림 90.4.18.a113.5. 무늬 대화상자 → `탭 메뉴` → `무늬 메뉴` → `무늬 새로 고침` (Windows) (우리말)](./90-04-0018-patterns.md#90-04-18-a113-05)
+<img width="369" height="313" alt="90-04-18-a113-05" src="https://github.com/user-attachments/assets/7f9c0879-f936-4d92-a8e5-7f88090c24c7" />
+
 ***
 
 ## 다른 페이지로 가기

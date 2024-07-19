@@ -1,5 +1,12 @@
 # 15.3.4.2.3.1. 무늬를 이미지로 열기(Open Pattern as Image)
 
+<a id="90-04-18-a113-01"></a>
+
+#### [그림 90.4.18.a113.1. 무늬 대화상자 → `탭 메뉴` → `무늬 메뉴` → `이미지 무늬 열기` (Windows) (우리말)](./90-04-0018-patterns.md#90-04-18-a113-01)
+<img width="369" height="313" alt="90-04-18-a113-01" src="https://github.com/user-attachments/assets/f3d31790-22f6-4a6a-9533-6a4bece9daa3" />
+
+[15.3.4.2.2.4. 무늬를 이미지로 열기(Open Pattern as Image)](./15-03-04-02-02-04-open_pattern_as_image.md)를 참고해주세요.
+
 ***
 
 ## 다른 페이지로 가기

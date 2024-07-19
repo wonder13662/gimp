@@ -1,5 +1,10 @@
 # 15.3.4.2.3.2. 무늬 위치 복사(Copy Pattern location)
 
+<a id="90-04-18-a113-02"></a>
+
+#### [그림 90.4.18.a113.2. 무늬 대화상자 → `탭 메뉴` → `무늬 메뉴` → `무늬 위치 복사` (Windows) (우리말)](./90-04-0018-patterns.md#90-04-18-a113-02)
+<img width="369" height="313" alt="90-04-18-a113-02" src="https://github.com/user-attachments/assets/95fe2c74-52d6-40bb-802c-aa69944548a3" />
+
 ***
 
 ## 다른 페이지로 가기
