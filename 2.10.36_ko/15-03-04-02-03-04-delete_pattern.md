@@ -5,6 +5,8 @@
 #### [그림 90.4.18.a113.4. 무늬 대화상자 → `탭 메뉴` → `무늬 메뉴` → `무늬 삭제` (Windows) (우리말)](./90-04-0018-patterns.md#90-04-18-a113-04)
 <img width="369" height="313" alt="90-04-18-a113-04" src="https://github.com/user-attachments/assets/4ea6d3c2-1e4f-45d1-ac08-00bbd45cb98b" />
 
+[15.3.4.2.2.2. 무늬 삭제(Delete Pattern)](./15-03-04-02-02-02-delete_pattern.md)를 참고해주세요.
+
 ***
 
 ## 다른 페이지로 가기
