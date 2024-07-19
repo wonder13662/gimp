@@ -5,6 +5,13 @@
 #### [그림 90.4.18.a113.2. 무늬 대화상자 → `탭 메뉴` → `무늬 메뉴` → `무늬 위치 복사` (Windows) (우리말)](./90-04-0018-patterns.md#90-04-18-a113-02)
 <img width="369" height="313" alt="90-04-18-a113-02" src="https://github.com/user-attachments/assets/95fe2c74-52d6-40bb-802c-aa69944548a3" />
 
+`무늬 위치 복사(Copy Pattern location)` 버튼을 누르면, 활성화 무늬의 파일 경로를 클립보드에 복사합니다.
+
+<a id="90-04-18-a113-02-01"></a>
+
+#### [영상 90.4.18.a113.2.1. 무늬 대화상자 → `탭 메뉴` → `무늬 메뉴` → `무늬 위치 복사` (Windows) (우리말)](./90-04-0018-patterns.md#90-04-18-a113-02-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/4fadd84f-91d1-403b-8ddc-d4a43e9aa997"></video>
+
 ***
 
 ## 다른 페이지로 가기
