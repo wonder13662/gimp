@@ -152,7 +152,7 @@
 
 [15.3.3.2.5.4. MyPaint 붓 새로 고침(Refresh Mypaint brush)](./15-03-03-02-05-04-refresh_mypaint_brush.md)
 
-[15.3.4. 무늬 대화상자(Patterns dialog)](./15-03-04-00-patterns-dialog.md)
+[15.3.4. 무늬 대화상자(Patterns dialog)](./15-03-04-00-patterns_dialog.md)
 
 [15.3.4.1. 무늬 대화상자 활성화하기(Patterns dialog)](./15-03-04-01-activating_the_dialog.md)
 
@@ -190,7 +190,7 @@
 
 [15.3.4.4. 클립보드 무늬(The Clipboard pattern)](./15-03-04-04-the_clipboard_pattern.md)
 
-[15.3.5. 그라디언트 대화상자(Gradient dialog)](./15-03-05-gradient-dialog.md)
+[15.3.5. 그라디언트 대화상자(Gradient dialog)](./15-03-05-00-gradient_dialog.md)
 
 [15.3.6. 팔레트 대화상자(Palettes dialog)](./15-03-06-00-palettes-dialog.md)
 

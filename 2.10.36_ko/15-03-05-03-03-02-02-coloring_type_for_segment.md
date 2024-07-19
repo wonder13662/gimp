@@ -1,0 +1,1 @@
+# 15.3.5.3.3.2.2. 그라디언트 마디의 색상 타입(Coloring Type for Segment)

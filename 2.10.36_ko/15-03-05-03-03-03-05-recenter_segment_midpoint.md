@@ -1,0 +1,1 @@
+# 15.3.5.3.3.3.5. 그라디언트 마디의 줌심점을 가운데로 옮기기(Re-center Segment's midpoint)

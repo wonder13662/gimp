@@ -1,0 +1,1 @@
+# 15.3.5.3.3.2.1. 그라디언트 마디의 색을 섞는 기능(Blending Function for Segment)

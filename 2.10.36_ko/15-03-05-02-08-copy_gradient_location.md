@@ -1,0 +1,1 @@
+# 15.3.5.2.8. 그라디언트 위치 복사하기(Copy Gradient Location)

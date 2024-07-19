@@ -25,7 +25,7 @@
 
 [7.11. 무늬(Pattern) - 그림 90.3.4.a3](./07-11-patterns.md#90-03-04-a3)
 
-[15.3.4. 무늬 대화상자(Patterns dialog) - 그림 90.3.4.a3](./15-03-04-00-patterns-dialog.md#90-03-04-a3)
+[15.3.4. 무늬 대화상자(Patterns dialog) - 그림 90.3.4.a3](./15-03-04-00-patterns_dialog.md#90-03-04-a3)
 
 [15.3.4.1. 무늬 대화상자 활성화하기(Patterns dialog) - 그림 90.3.4.a3](./15-03-04-01-activating_the_dialog.md#90-03-04-a3)
 

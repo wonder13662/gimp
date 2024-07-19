@@ -21,7 +21,7 @@
 #### [영상 90.3.2.22.a14.1.2. 커스텀 그라디언트 생성 - `중점` 수정](./90-03-02-22-gradient.md#90-03-02-22-a14-01-02)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/fd569ccf-a972-422a-9aaf-43ed4a8ae37d"></video>
 
-[15.3.5. 그라디언트 대화상자 - 그라디언트 편집기](./15-03-05-gradient-dialog.md)를 참고해주세요.
+[15.3.5. 그라디언트 대화상자 - 그라디언트 편집기](./15-03-05-00-gradient_dialog.md)를 참고해주세요.
 
 ***
 

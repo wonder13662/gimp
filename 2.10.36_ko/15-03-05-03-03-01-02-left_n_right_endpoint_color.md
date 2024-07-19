@@ -1,0 +1,1 @@
+# 15.3.5.3.3.1.2. 왼쪽과 오른쪽 끝점의 색상(Left/Right Endpoint's Color)

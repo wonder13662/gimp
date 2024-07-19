@@ -35,7 +35,7 @@ GIMP(김프)에서 기본 제공되는 무늬를 수정해서 바로 저장할 �
 
 [⬆️ 위: 15.3.4.2. 무늬 대화상자 사용하기(Using the Patterns dialog)](./15-03-04-02-00-using_the_pattern_dialog.md)
 
-[⬆️ 위: 15.3.4. 무늬 대화상자(Patterns dialog)](./15-03-04-00-patterns-dialog.md)
+[⬆️ 위: 15.3.4. 무늬 대화상자(Patterns dialog)](./15-03-04-00-patterns_dialog.md)
 
 [⬆️ 위: 15.3. 이미지 콘텐츠 관련 대화상자(Image content related dialogs)](./15-03-00-image-content-related-dialogs.md)
 

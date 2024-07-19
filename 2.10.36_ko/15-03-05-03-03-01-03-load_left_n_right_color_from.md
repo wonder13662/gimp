@@ -1,0 +1,1 @@
+# 15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색상 가져오기(Load Left/Right Color From)

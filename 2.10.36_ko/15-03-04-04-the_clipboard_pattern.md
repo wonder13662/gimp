@@ -30,11 +30,11 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5. 그라디언트 대화상자(Gradient dialog)](./15-03-05-gradient-dialog.md)
+[➡️ 다음: 15.3.5. 그라디언트 대화상자(Gradient dialog)](./15-03-05-00-gradient_dialog.md)
 
 [⬅️ 이전: 15.3.4.3. 태그(Tagging)](./15-03-04-03-tagging.md)
 
-[⬆️ 위: 15.3.4. 무늬 대화상자(Patterns dialog)](./15-03-04-00-patterns-dialog.md)
+[⬆️ 위: 15.3.4. 무늬 대화상자(Patterns dialog)](./15-03-04-00-patterns_dialog.md)
 
 [⬆️ 위: 15.3. 이미지 콘텐츠 관련 대화상자(Image content related dialogs)](./15-03-00-image-content-related-dialogs.md)
 

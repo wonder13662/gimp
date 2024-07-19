@@ -1,0 +1,1 @@
+# 15.3.5.3.3.4.1. 끝점의 색 섞기(Blend Endpoints' Colors)

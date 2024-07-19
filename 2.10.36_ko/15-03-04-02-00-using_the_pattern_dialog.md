@@ -47,7 +47,7 @@
 
 [⬅️ 이전: 15.3.4.1. 무늬 대화상자 활성화하기(Patterns dialog)](./15-03-04-01-activating_the_dialog.md)
 
-[⬆️ 위: 15.3.4. 무늬 대화상자(Patterns dialog)](./15-03-04-00-patterns-dialog.md)
+[⬆️ 위: 15.3.4. 무늬 대화상자(Patterns dialog)](./15-03-04-00-patterns_dialog.md)
 
 [⬆️ 위: 15.3. 이미지 콘텐츠 관련 대화상자(Image content related dialogs)](./15-03-00-image-content-related-dialogs.md)
 

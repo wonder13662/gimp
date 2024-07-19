@@ -36,7 +36,7 @@ const doAsyncJob = async () => {
 
     // 1-4-1. 시작과 끝 페이지를 지정해서 그 범위 안의 모든 페이지를 검사
     // const 검사대상_시작_파일_번호 = files.indexOf('00-home.md')
-    const 검사대상_시작_파일_번호 = files.indexOf('15-03-04-00-patterns-dialog.md')
+    const 검사대상_시작_파일_번호 = files.indexOf('15-03-04-00-patterns_dialog.md')
     if (검사대상_시작_파일_번호 === -1) {
       throw new Error('첫번째 검사 대상 파일이 유효하지 않습니다.')
     }

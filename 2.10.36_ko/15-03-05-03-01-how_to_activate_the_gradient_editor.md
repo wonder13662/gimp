@@ -1,0 +1,1 @@
+# 15.3.5.3.1. 그라디언트 편집기 활성화하기(How to Activate The Gradient Editor)

@@ -1,0 +1,1 @@
+# 15.3.5.3.3.2. 그라디언트 마디의 색을 섞거나 색칠하기(Blending and coloring functions for segment)

@@ -1,0 +1,1 @@
+# 15.3.5.3.3.4.2. 끝점의 불투명도 섞기(Blend Endpoints' Opacity)

@@ -1,0 +1,1 @@
+# 15.3.5.3.3.3.3. 그라디언트 마디 나누기(Split Segment at Midpoint)
