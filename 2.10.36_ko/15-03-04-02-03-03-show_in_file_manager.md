@@ -5,6 +5,13 @@
 #### [그림 90.4.18.a113.3. 무늬 대화상자 → `탭 메뉴` → `무늬 메뉴` → `파일 관리자에 표시` (Windows) (우리말)](./90-04-0018-patterns.md#90-04-18-a113-03)
 <img width="369" height="313" alt="90-04-18-a113-03" src="https://github.com/user-attachments/assets/5fea2f99-c286-4579-9778-1a0232bd0fce" />
 
+`파일 관리자에 표시(Show in File Manager)` 메뉴를 누르면, 운영체제의 파일 관리자가 활성화 무늬의 파일의 경로를 엽니다.
+
+<a id="90-04-18-a113-03-01"></a>
+
+#### [영상 90.4.18.a113.3.1. 무늬 대화상자 → `탭 메뉴` → `무늬 메뉴` → `파일 관리자에 표시` (Windows) (우리말)](./90-04-0018-patterns.md#90-04-18-a113-03-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/c74e26c2-2e95-4f91-80b9-011f70aedc99"></video>
+
 ***
 
 ## 다른 페이지로 가기
