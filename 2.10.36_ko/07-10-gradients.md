@@ -39,7 +39,7 @@ GIMP(김프)를 설치하면, 기본으로 제공되는 많은 그라디언트�
 <a id="90-04-19-a1"></a>
 
 #### [그림 90.4.19.a1. 그라디언트 대화상자](./90-04-0019-gradient.md#90-04-19-a1)
-![90-04-19-a1](https://github.com/wonder13662/gimp/assets/15767104/d1e99d30-8cd8-40b4-bbdf-b91c16439727)
+<img width="850" height="375" alt="90-04-19-a1" src="https://github.com/user-attachments/assets/ee211eef-5783-41dc-96c1-c6cefab0e9ec" />
 
 ## 4. 지금 쓰고있는 그라디언트 확인하기
 "지금 쓰고있는 그라디언트"는 도구상자의 "붓/무늬/그라디언트" 영역에 표시됩니다. "지금 쓰고있는 그라디언트"는 그라디언트와 관련된 동작에서 씁니다. 도구상자의 그라디언트 심볼을 클릭하면 [그라디언트 대화상자](./15-03-05-00-gradient_dialog.md)를 열 수 있습니다.
@@ -120,6 +120,15 @@ GIMP(김프)는 벡터 그래픽 프로그램에서 많이 쓰이는 `.svg` 포�
 
 ***
 
+## 관련 정보
+
+[15.3.5. 그라디언트 대화상자(Gradient dialog)](./15-03-05-00-gradient_dialog.md)
+
+[Gimp-Forum.net: The "look" of gradients](https://www.gimp-forum.net/Thread-The-look-of-gradients)
+<a comment="TODO 위 내용 정리 필요"></a>
+
+***
+
 ## 다른 페이지로 가기
 [➡️ 다음: 7.11. 무늬(Pattern)](./07-11-patterns.md)
 
@@ -130,9 +139,3 @@ GIMP(김프)는 벡터 그래픽 프로그램에서 많이 쓰이는 `.svg` 포�
 [🏠 홈](./00-home.md)
 
 [원문](https://docs.gimp.org/2.10/ko/gimp-concepts-gradients.html)
-
-***
-
-## 관련 정보
-[Gimp-Forum.net: The "look" of gradients](https://www.gimp-forum.net/Thread-The-look-of-gradients)
-(TODO 내용 정리 필요)

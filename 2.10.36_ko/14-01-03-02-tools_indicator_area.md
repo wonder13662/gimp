@@ -11,7 +11,7 @@
 
 ## 관련 정보
 
-[3.2.3. 도구상자(The toolbox) - 4. 붓(Brush)/무늬(Pattern)/그라디언트(Gradient)](./03-02-03-the-toolbox.md#03-02-01-s4)
+[3.2.3. 도구상자(The toolbox) - 4. 붓/무늬/그라디언트(Brush/Pattern/Gradient)](./03-02-03-the-toolbox.md#03-02-01-s4)
 
 [7.10. 그라디언트](./07-10-gradients.md)
 
