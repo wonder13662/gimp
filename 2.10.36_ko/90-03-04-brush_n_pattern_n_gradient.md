@@ -56,6 +56,8 @@
 #### 영상 90.3.4.a4.2. 도구상자의 '붓/무늬/그라디언트' → `무늬` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/013d1961-0459-4566-9598-5abe6c06ac44"></video>
 
+[15.3.4.1. 무늬 대화상자 활성화하기(Patterns dialog) - 영상 90.3.4.a4.2](./15-03-04-01-activating_the_dialog.md#90-03-04-a4-02)
+
 <a id="90-03-04-a4-03"></a>
 
 #### 영상 90.3.4.a4.3. 도구상자의 '붓/무늬/그라디언트' → `그라디언트` (Windows) (우리말)
