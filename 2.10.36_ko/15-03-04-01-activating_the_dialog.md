@@ -83,6 +83,13 @@
 #### [그림 90.3.4.a3. 도구상자의 '붓/무늬/그라디언트' → `무늬`](./90-03-04-brush_n_pattern_n_gradient.md#90-03-04-a3)
 <img width="264" height="181" alt="90-03-04-a3" src="https://github.com/wonder13662/gimp/assets/15767104/2eb5399d-e741-48c7-ae76-c1d8277c4b08" />
 
+<a id="90-03-04-a4-02"></a>
+
+#### [영상 90.3.4.a4.2. 도구상자의 '붓/무늬/그라디언트' → `무늬` (Windows) (우리말)](./90-03-04-brush_n_pattern_n_gradient.md#90-03-04-a4-02)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/013d1961-0459-4566-9598-5abe6c06ac44"></video>
+
+(TODO 관련 영상 추가해야 함!)
+
 <a id="15-03-04-01-s6"></a>
 
 ## 6. 키보드 단축키 Shift(⇧) + Ctrl(⌘) + `P`
