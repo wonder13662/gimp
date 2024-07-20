@@ -16,6 +16,15 @@
 
 [7.10. 그라디언트 - 그림 90.3.4.a2](./07-10-gradients.md#90-03-04-a2)
 
+[15.3.5.1. 그라디언트 대화상자 활성화하기(Activating the Gradient dialog) - 그림 90.3.4.a2](./15-03-05-01-activating_the_dialog.md#90-03-04-a2)
+
+<a id="90-03-04-a2-01"></a>
+
+#### 영상 90.3.4.a2.1. 도구상자의 '붓/무늬/그라디언트' → `그라디언트`: 그라디언트 대화상자 열기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f290d651-39cf-4769-b669-23e0f43560d2"></video>
+
+[15.3.5.1. 그라디언트 대화상자 활성화하기(Activating the Gradient dialog) - 영상 90.3.4.a2.1](./15-03-05-01-activating_the_dialog.md#90-03-04-a2-01)
+
 <a id="90-03-04-a3"></a>
 
 #### 그림 90.3.4.a3. 도구상자의 '붓/무늬/그라디언트' → `무늬`
