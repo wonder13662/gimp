@@ -1,5 +1,15 @@
 # 15.3.5.2.1. 격자/목록 모드(Grid/List mode)
 
+<a id="90-04-19-a101"></a>
+
+#### [그림 90.4.19.a101. 그라디언트 대화상자 (Windows) (우리말)](./90-04-0000-dialogs.md#90-04-19-a101)
+<img width="200" height="254" alt="90-04-19-a101" src="https://github.com/user-attachments/assets/d78bfbf9-03ed-46a7-8ebb-d3720f7c336b" />
+
+<a id="90-04-19-a112"></a>
+
+#### [그림 90.4.19.a112. 그라디언트 대화상자: 격자 모드 (Windows) (우리말)](./90-04-0019-gradient.md#90-04-19-a112)
+<img width="200" height="254" alt="90-04-19-a112" src="https://github.com/user-attachments/assets/f731ae5a-8ff9-4257-b7ab-32ae9d0ad11e" />
+
 ***
 
 ## 하위 페이지
