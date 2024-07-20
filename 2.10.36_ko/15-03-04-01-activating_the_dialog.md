@@ -47,7 +47,7 @@
 <a id="90-03-02-21-a6-03-01-01-01-05-01"></a>
 
 #### [영상 90.3.2.21.a6.3.1.1.1.5.1. `도구 옵션` → `영역 채우기` → `채우기 유형` → `무늬로 채우기` → `무늬 목록` → `무늬 대화상자 목록` → `아래쪽 버튼들` → `무늬 대화상자 표시` (Windows) (우리말)](./90-03-02-21-bucket_fill.md#90-03-02-21-a6-03-01-01-01-05-01)
-<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/defa4242-7768-46cc-a0c4-2b93397ea12c"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/4b6cfaf1-19e2-43d2-a219-e96fd6536b70"></video>
 
 [관련 정보: 14.3.4.3.3. 채우기 유형(Fill Type) - 3. 무늬로 채우기](./14-03-04-03-03-fill_type.md#14-03-04-03-03-s3)
 
