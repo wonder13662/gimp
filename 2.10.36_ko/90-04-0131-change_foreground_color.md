@@ -81,9 +81,21 @@
 #### 그림 90.4.131.a101.2.4.1. `전경색 바꾸기` 대화상자 → `휠` → `HSV 색상환` (Windows) (우리말)
 <img width="407" height="376" alt="90-04-131-a101-02-04-01" src="https://github.com/user-attachments/assets/879b1940-3c07-4904-9955-1ca2c1feb9ee" />
 
-[15.3.5. 그라디언트 대화상자(Gradient dialog) - 그림 90.4.131.a101.2.4.1](./15-03-05-00-gradient_dialog.md#90-04-131-a101-02-04-01)
-
 [19. 용어집 - 색상환(Color Wheel) - 그림 90.4.131.a101.2.4.1](./19-glossaryx-color_wheel.md#90-04-131-a101-02-04-01)
+
+<a id="90-04-131-a101-02-04-01-01"></a>
+
+#### 그림 90.4.131.a101.2.4.1.1. `전경색 바꾸기` 대화상자 → `휠` → `HSV 색상환` → `시계방향` (Windows) (우리말)
+<img width="407" height="376" alt="90-04-131-a101-02-04-01-01" src="https://github.com/user-attachments/assets/833ba051-139c-4304-aeac-0e08d8a66282" />
+
+[15.3.5. 그라디언트 대화상자(Gradient dialog) - 그림 90.4.131.a101.2.4.1.1](./15-03-05-00-gradient_dialog.md#90-04-131-a101-02-04-01-01)
+
+<a id="90-04-131-a101-02-04-01-02"></a>
+
+#### 그림 90.4.131.a101.2.4.1.2. `전경색 바꾸기` 대화상자 → `휠` → `HSV 색상환` → `반시계방향` (Windows) (우리말)
+<img width="407" height="376" alt="90-04-131-a101-02-04-01-02" src="https://github.com/user-attachments/assets/bb3c9281-5573-48e0-9dee-21ef91cd94ec" />
+
+[15.3.5. 그라디언트 대화상자(Gradient dialog) - 그림 90.4.131.a101.2.4.1.2](./15-03-05-00-gradient_dialog.md#90-04-131-a101-02-04-01-02)
 
 <a id="90-04-131-a101-02-05"></a>
 
