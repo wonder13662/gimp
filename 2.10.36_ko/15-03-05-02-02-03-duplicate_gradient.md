@@ -1,12 +1,14 @@
-# 15.3.5.2.11. CSS로 저장하기(Save as CSS)
+# 15.3.5.2.2.3. 그라디언트 복제(Duplicate Gradient)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.2.12. 태그(Tagging)](./15-03-05-02-12-tagging.md)
+[➡️ 다음: 15.3.5.2.2.4. 그라디언트 삭제(Delete Gradient)](./15-03-05-02-02-04-delete_gradient.md)
 
-[⬅️ 이전: 15.3.5.2.10. 커스텀 그라디언트 만들기(Custom Gradient)](./15-03-05-02-10-custom_gradient.md)
+[⬅️ 이전: 15.3.5.2.2.2. 새 그라디언트(New Gradient)](./15-03-05-02-02-02-new_gradient.md)
+
+[⬆️ 위: 15.3.5.2.2. 대화상자 아래쪽 버튼들(Buttons at the bottom)](./15-03-05-02-02-00-buttons_at_the_bottom.md)
 
 [⬆️ 위: 15.3.5.2. 그라디언트 대화상자 사용하기(Using the Gradient dialog)](./15-03-05-02-00-using_the_gradients_dialog.md)
 

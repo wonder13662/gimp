@@ -1,12 +1,14 @@
-# 15.3.5.2.4. 그라디언트 복제(Duplicate Gradient)
+# 15.3.5.2.3.3. 파일 관리자에 표시(Show in File Manager)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.2.5. 그라디언트 삭제(Delete Gradient)](./15-03-05-02-05-delete_gradient.md)
+[➡️ 다음: 15.3.5.2.3.4 커스텀 그라디언트 만들기(Custom Gradient)](./15-03-05-02-03-04-custom_gradient.md)
 
-[⬅️ 이전: 15.3.5.2.3. 새 그라디언트(New Gradient)](./15-03-05-02-03-new_gradient.md)
+[⬅️ 이전: 15.3.5.2.3.2. 그라디언트 위치 복사하기(Copy Gradient Location)](./15-03-05-02-03-02-copy_gradient_location.md)
+
+[⬆️ 위: 15.3.5.2.3. POV-Ray로 저장(Save as POV-Ray)](./15-03-05-02-03-00-gradient_menu.md)
 
 [⬆️ 위: 15.3.5.2. 그라디언트 대화상자 사용하기(Using the Gradient dialog)](./15-03-05-02-00-using_the_gradients_dialog.md)
 

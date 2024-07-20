@@ -70,7 +70,7 @@
 
 [➡️ 다음: 15.3.5.3.1. 그라디언트 편집기 활성화하기(How to Activate The Gradient Editor)](./15-03-05-03-01-how_to_activate_the_gradient_editor.md)
 
-[⬅️ 이전: 15.3.5.2.12. 태그(Tagging)](./15-03-05-02-12-tagging.md)
+[⬅️ 이전: 15.3.5.2.4. 태그(Tagging)](./15-03-05-02-04-tagging.md)
 
 [⬆️ 위: 15.3.5. 그라디언트 대화상자(Gradient dialog)](./15-03-05-00-gradient_dialog.md)
 

@@ -39,27 +39,31 @@ GIMP(김프)에서 기본적으로 제공되는 그라디언트는 이름을 수
 
 [15.3.5.2.1.2. 목록 모드(List mode)](./15-03-05-02-01-02-list_mode.md)
 
-[15.3.5.2.2. 그라디언트 편집(Edit Gradient)](./15-03-05-02-02-edit_gradient.md)
+[15.3.5.2.2. 대화상자 아래쪽 버튼들(Buttons at the bottom)](./15-03-05-02-02-00-buttons_at_the_bottom.md)
 
-[15.3.5.2.3. 새 그라디언트(New Gradient)](./15-03-05-02-03-new_gradient.md)
+[15.3.5.2.2.1. 그라디언트 편집(Edit Gradient)](./15-03-05-02-02-01-edit_gradient.md)
 
-[15.3.5.2.4. 그라디언트 복제(Duplicate Gradient)](./15-03-05-02-04-duplicate_gradient.md)
+[15.3.5.2.2.2. 새 그라디언트(New Gradient)](./15-03-05-02-02-02-new_gradient.md)
 
-[15.3.5.2.5. 그라디언트 삭제(Delete Gradient)](./15-03-05-02-05-delete_gradient.md)
+[15.3.5.2.2.3. 그라디언트 복제(Duplicate Gradient)](./15-03-05-02-02-03-duplicate_gradient.md)
 
-[15.3.5.2.6. 그라디언트 새로고침(Refresh Gradient)](./15-03-05-02-06-refresh_gradient.md)
+[15.3.5.2.2.4. 그라디언트 삭제(Delete Gradient)](./15-03-05-02-02-04-delete_gradient.md)
 
-[15.3.5.2.7. POV-Ray로 저장(Save as POV-Ray)](./15-03-05-02-07-save_as_pov_ray.md)
+[15.3.5.2.2.5. 그라디언트 새로고침(Refresh Gradient)](./15-03-05-02-02-05-refresh_gradient.md)
 
-[15.3.5.2.8. 그라디언트 위치 복사하기(Copy Gradient Location)](./15-03-05-02-08-copy_gradient_location.md)
+[15.3.5.2.3. POV-Ray로 저장(Save as POV-Ray)](./15-03-05-02-03-00-gradient_menu.md)
 
-[15.3.5.2.9. 파일 관리자에 표시(Show in File Manager)](./15-03-05-02-09-show_in_file_manager.md)
+[15.3.5.2.3.1. POV-Ray로 저장(Save as POV-Ray)](./15-03-05-02-03-01-save_as_pov_ray.md)
 
-[15.3.5.2.10. 커스텀 그라디언트 만들기(Custom Gradient)](./15-03-05-02-10-custom_gradient.md)
+[15.3.5.2.3.2. 그라디언트 위치 복사하기(Copy Gradient Location)](./15-03-05-02-03-02-copy_gradient_location.md)
 
-[15.3.5.2.11. CSS로 저장하기(Save as CSS)](./15-03-05-02-11-save_as_css.md)
+[15.3.5.2.3.3. 파일 관리자에 표시(Show in File Manager)](./15-03-05-02-03-03-show_in_file_manager.md)
 
-[15.3.5.2.12. 태그(Tagging)](./15-03-05-02-12-tagging.md)
+[15.3.5.2.3.4 커스텀 그라디언트 만들기(Custom Gradient)](./15-03-05-02-03-04-custom_gradient.md)
+
+[15.3.5.2.3.5. CSS로 저장하기(Save as CSS)](./15-03-05-02-03-05-save_as_css.md)
+
+[15.3.5.2.4. 태그(Tagging)](./15-03-05-02-04-tagging.md)
 
 ***
 
