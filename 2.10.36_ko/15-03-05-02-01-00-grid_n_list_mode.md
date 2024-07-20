@@ -2,7 +2,7 @@
 
 <a id="90-04-19-a101"></a>
 
-#### [그림 90.4.19.a101. 그라디언트 대화상자 (Windows) (우리말)](./90-04-0000-dialogs.md#90-04-19-a101)
+#### [그림 90.4.19.a101. 그라디언트 대화상자 (Windows) (우리말)](./90-04-0019-gradient.md#90-04-19-a101)
 <img width="200" height="254" alt="90-04-19-a101" src="https://github.com/user-attachments/assets/d78bfbf9-03ed-46a7-8ebb-d3720f7c336b" />
 
 [다른 운영체제와 언어의 '그라디언트 대화상자' 확인하기](./90-04-0019-gradient.md#90-04-19-a102)
