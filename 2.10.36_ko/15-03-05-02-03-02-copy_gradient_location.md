@@ -8,7 +8,7 @@
 
 [⬅️ 이전: 15.3.5.2.3.1. POV-Ray로 저장(Save as POV-Ray)](./15-03-05-02-03-01-save_as_pov_ray.md)
 
-[⬆️ 위: 15.3.5.2.3. POV-Ray로 저장(Save as POV-Ray)](./15-03-05-02-03-00-gradient_menu.md)
+[⬆️ 위: 15.3.5.2.3. 그라디언트 메뉴(Gradient Menu)](./15-03-05-02-03-00-gradient_menu.md)
 
 [⬆️ 위: 15.3.5.2. 그라디언트 대화상자 사용하기(Using the Gradient dialog)](./15-03-05-02-00-using_the_gradients_dialog.md)
 

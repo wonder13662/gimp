@@ -16,7 +16,7 @@ GIMP(김프) 바깥에서 사용자의 [그라디언트 폴더](./12-01-25-data-
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.2.3. POV-Ray로 저장(Save as POV-Ray)](./15-03-05-02-03-00-gradient_menu.md)
+[➡️ 다음: 15.3.5.2.3. 그라디언트 메뉴(Gradient Menu)](./15-03-05-02-03-00-gradient_menu.md)
 
 [⬅️ 이전: 15.3.5.2.2.4. 그라디언트 삭제(Delete Gradient)](./15-03-05-02-02-04-delete_gradient.md)
 

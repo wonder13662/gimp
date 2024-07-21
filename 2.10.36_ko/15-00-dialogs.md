@@ -500,7 +500,7 @@
 
 [15.3.5.2.2.5. 그라디언트 새로 고침(Refresh Gradient)](./15-03-05-02-02-05-refresh_gradient.md)
 
-[15.3.5.2.3. POV-Ray로 저장(Save as POV-Ray)](./15-03-05-02-03-00-gradient_menu.md)
+[15.3.5.2.3. 그라디언트 메뉴(Gradient Menu)](./15-03-05-02-03-00-gradient_menu.md)
 
 [15.3.5.2.3.1. POV-Ray로 저장(Save as POV-Ray)](./15-03-05-02-03-01-save_as_pov_ray.md)
 
