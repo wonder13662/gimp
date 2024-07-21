@@ -1,5 +1,12 @@
 # 15.3.5.2.3.3. 그라디언트 복제(Duplicate Gradient)
 
+<a id="90-04-19-a114-03"></a>
+
+#### [그림 90.4.19.a114.3. 그라디언트 대화상자 → `탭 메뉴` → `그라디언트 메뉴` → `그라디언트 복제` (Windows) (우리말)](./90-04-0019-gradient.md#90-04-19-a114-03)
+<img width="382" height="313" alt="90-04-19-a114-03" src="https://github.com/user-attachments/assets/fd1e110b-fc29-4112-b5d6-10939c16accb" />
+
+[15.3.5.2.2.3. 그라디언트 복제(Duplicate Gradient)](./15-03-05-02-02-03-duplicate_gradient.md)을 참고해주세요.
+
 ***
 
 ## 다른 페이지로 가기
