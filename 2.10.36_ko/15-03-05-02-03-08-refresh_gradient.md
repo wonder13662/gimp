@@ -1,12 +1,14 @@
-# 15.3.5.2.4. 태그(Tagging)
+# 15.3.5.2.3.8. 그라디언트 새로 고침(Refresh Gradient)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.3. 그라디언트 편집기(The Gradient Editor)](./15-03-05-03-00-the_gradient_editor.md)
+[➡️ 다음: 15.3.5.2.3.9. 커스텀 그라디언트 만들기(Custom Gradient)](./15-03-05-02-03-09-custom_gradient.md)
 
-[⬅️ 이전: 15.3.5.2.3.10. CSS로 저장하기(Save as CSS)](./15-03-05-02-03-10-save_as_css.md)
+[⬅️ 이전: 15.3.5.2.3.7. 그라디언트 삭제(Delete Gradient)](./15-03-05-02-03-07-delete_gradient.md)
+
+[⬆️ 위: 15.3.5.2.3. 그라디언트 메뉴(Gradient Menu)](./15-03-05-02-03-00-gradient_menu.md)
 
 [⬆️ 위: 15.3.5.2. 그라디언트 대화상자 사용하기(Using the Gradient dialog)](./15-03-05-02-00-using_the_gradients_dialog.md)
 
@@ -18,4 +20,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-gradient-dialog.html#gimp-gradient-dialog-tags)
+[원문](https://docs.gimp.org/2.10/ko/gimp-gradient-dialog.html#gimp-gradient-dialog-using)

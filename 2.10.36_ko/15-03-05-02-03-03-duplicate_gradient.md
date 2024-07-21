@@ -1,12 +1,12 @@
-# 15.3.5.2.3.3. 파일 관리자에 표시(Show in File Manager)
+# 15.3.5.2.3.3. 그라디언트 복제(Duplicate Gradient)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.2.3.4 커스텀 그라디언트 만들기(Custom Gradient)](./15-03-05-02-03-04-custom_gradient.md)
+[➡️ 다음: 15.3.5.2.3.4. POV-Ray로 저장(Save as POV-Ray)](./15-03-05-02-03-04-save_as_pov_ray.md)
 
-[⬅️ 이전: 15.3.5.2.3.2. 그라디언트 위치 복사하기(Copy Gradient Location)](./15-03-05-02-03-02-copy_gradient_location.md)
+[⬅️ 이전: 15.3.5.2.3.2. 새 그라디언트(New Gradient)](./15-03-05-02-03-02-new_gradient.md)
 
 [⬆️ 위: 15.3.5.2.3. 그라디언트 메뉴(Gradient Menu)](./15-03-05-02-03-00-gradient_menu.md)
 

@@ -1,12 +1,12 @@
-# 15.3.5.2.3.5. CSS로 저장하기(Save as CSS)
+# 15.3.5.2.3.7. 그라디언트 삭제(Delete Gradient)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.2.4. 태그(Tagging)](./15-03-05-02-04-tagging.md)
+[➡️ 다음: 15.3.5.2.3.8. 그라디언트 새로 고침(Refresh Gradient)](./15-03-05-02-03-08-refresh_gradient.md)
 
-[⬅️ 이전: 15.3.5.2.3.4 커스텀 그라디언트 만들기(Custom Gradient)](./15-03-05-02-03-04-custom_gradient.md)
+[⬅️ 이전: 15.3.5.2.3.6. 파일 관리자에 표시(Show in File Manager)](./15-03-05-02-03-06-show_in_file_manager.md)
 
 [⬆️ 위: 15.3.5.2.3. 그라디언트 메뉴(Gradient Menu)](./15-03-05-02-03-00-gradient_menu.md)
 

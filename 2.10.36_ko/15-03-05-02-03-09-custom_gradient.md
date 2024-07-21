@@ -1,12 +1,12 @@
-# 15.3.5.2.3.1. POV-Ray로 저장(Save as POV-Ray)
+# 15.3.5.2.3.9. 커스텀 그라디언트 만들기(Custom Gradient)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.2.3.2. 그라디언트 위치 복사하기(Copy Gradient Location)](./15-03-05-02-03-02-copy_gradient_location.md)
+[➡️ 다음: 15.3.5.2.3.10. CSS로 저장하기(Save as CSS)](./15-03-05-02-03-10-save_as_css.md)
 
-[⬅️ 이전: 15.3.5.2.3. 그라디언트 메뉴(Gradient Menu)](./15-03-05-02-03-00-gradient_menu.md)
+[⬅️ 이전: 15.3.5.2.3.8. 그라디언트 새로 고침(Refresh Gradient)](./15-03-05-02-03-08-refresh_gradient.md)
 
 [⬆️ 위: 15.3.5.2.3. 그라디언트 메뉴(Gradient Menu)](./15-03-05-02-03-00-gradient_menu.md)
 

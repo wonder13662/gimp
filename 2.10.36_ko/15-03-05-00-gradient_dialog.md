@@ -132,15 +132,25 @@ GIMP(김프)에서 기본적으로 제공하는 그라디언트도 있으며, �
 
 [15.3.5.2.3. 그라디언트 메뉴(Gradient Menu)](./15-03-05-02-03-00-gradient_menu.md)
 
-[15.3.5.2.3.1. POV-Ray로 저장(Save as POV-Ray)](./15-03-05-02-03-01-save_as_pov_ray.md)
+[15.3.5.2.3.1. 그라디언트 편집(Edit Gradient)](./15-03-05-02-03-01-edit_gradient.md)
 
-[15.3.5.2.3.2. 그라디언트 위치 복사하기(Copy Gradient Location)](./15-03-05-02-03-02-copy_gradient_location.md)
+[15.3.5.2.3.2. 새 그라디언트(New Gradient)](./15-03-05-02-03-02-new_gradient.md)
 
-[15.3.5.2.3.3. 파일 관리자에 표시(Show in File Manager)](./15-03-05-02-03-03-show_in_file_manager.md)
+[15.3.5.2.3.3. 그라디언트 복제(Duplicate Gradient)](./15-03-05-02-03-03-duplicate_gradient.md)
 
-[15.3.5.2.3.4 커스텀 그라디언트 만들기(Custom Gradient)](./15-03-05-02-03-04-custom_gradient.md)
+[15.3.5.2.3.4. POV-Ray로 저장(Save as POV-Ray)](./15-03-05-02-03-04-save_as_pov_ray.md)
 
-[15.3.5.2.3.5. CSS로 저장하기(Save as CSS)](./15-03-05-02-03-05-save_as_css.md)
+[15.3.5.2.3.5. 그라디언트 위치 복사하기(Copy Gradient Location)](./15-03-05-02-03-05-copy_gradient_location.md)
+
+[15.3.5.2.3.6. 파일 관리자에 표시(Show in File Manager)](./15-03-05-02-03-06-show_in_file_manager.md)
+
+[15.3.5.2.3.7. 그라디언트 삭제(Delete Gradient)](./15-03-05-02-03-07-delete_gradient.md)
+
+[15.3.5.2.3.8. 그라디언트 새로 고침(Refresh Gradient)](./15-03-05-02-03-08-refresh_gradient.md)
+
+[15.3.5.2.3.9. 커스텀 그라디언트 만들기(Custom Gradient)](./15-03-05-02-03-09-custom_gradient.md)
+
+[15.3.5.2.3.10. CSS로 저장하기(Save as CSS)](./15-03-05-02-03-10-save_as_css.md)
 
 [15.3.5.2.4. 태그(Tagging)](./15-03-05-02-04-tagging.md)
 
