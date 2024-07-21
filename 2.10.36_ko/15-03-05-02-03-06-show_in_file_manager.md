@@ -1,5 +1,17 @@
 # 15.3.5.2.3.6. 파일 관리자에 표시(Show in File Manager)
 
+<a id="90-04-19-a114-06"></a>
+
+#### [그림 90.4.19.a114.6. 그라디언트 대화상자 → `탭 메뉴` → `그라디언트 메뉴` → `파일 관리자에 표시` (Windows) (우리말)](./90-04-0019-gradient.md#90-04-19-a114-06)
+<img width="382" height="313" alt="90-04-19-a114-06" src="https://github.com/user-attachments/assets/0ba76141-cf39-46c3-84b4-265ec5d3c954" />
+
+`파일 관리자에 표시(Show in File Manager)` 메뉴를 누르면, 운영체제의 파일 관리자가 활성화 그라디언트의 파일의 경로를 엽니다.
+
+<a id="90-04-19-a114-06-01"></a>
+
+#### [영상 90.4.19.a114.6.1. 그라디언트 대화상자 → `탭 메뉴` → `그라디언트 메뉴` → `파일 관리자에 표시` (Windows) (우리말)](./90-04-0019-gradient.md#90-04-19-a114-06-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f64bda8d-56b2-43c4-ab96-edc542310400"></video>
+
 ***
 
 ## 다른 페이지로 가기
