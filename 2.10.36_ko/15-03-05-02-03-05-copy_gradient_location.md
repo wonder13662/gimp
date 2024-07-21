@@ -1,5 +1,17 @@
 # 15.3.5.2.3.5. 그라디언트 위치 복사하기(Copy Gradient Location)
 
+<a id="90-04-19-a114-05"></a>
+
+#### [그림 90.4.19.a114.5. 그라디언트 대화상자 → `탭 메뉴` → `그라디언트 메뉴` → `그라디언트 위치 복사하기` (Windows) (우리말)](./90-04-0019-gradient.md#90-04-19-a114-05)
+<img width="382" height="313" alt="90-04-19-a114-05" src="https://github.com/user-attachments/assets/a1a0d008-e8d5-481d-8195-fa1fe1255cfa" />
+
+`그라디언트 위치 복사하기(Copy Gradient Location)` 메뉴를 누르면, 활성화 그라디언트의 파일 경로를 클립보드에 복사합니다.
+
+<a id="90-04-19-a114-05-01"></a>
+
+#### [영상 90.4.19.a114.5.1. 그라디언트 대화상자 → `탭 메뉴` → `그라디언트 메뉴` → `그라디언트 위치 복사하기` (Windows) (우리말)](./90-04-0019-gradient.md#90-04-19-a114-05-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/04b56d78-cb7e-410c-9a52-dbf28f8aba7e"></video>
+
 ***
 
 ## 다른 페이지로 가기
