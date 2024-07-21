@@ -11,7 +11,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.2.3.9. 커스텀 그라디언트 만들기(Custom Gradient)](./15-03-05-02-03-09-custom_gradient.md)
+[➡️ 다음: 15.3.5.2.3.9. 커스텀 그라디언트(Custom Gradient)](./15-03-05-02-03-09-custom_gradient.md)
 
 [⬅️ 이전: 15.3.5.2.3.7. 그라디언트 삭제(Delete Gradient)](./15-03-05-02-03-07-delete_gradient.md)
 

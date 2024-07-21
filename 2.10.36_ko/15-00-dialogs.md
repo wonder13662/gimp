@@ -518,7 +518,7 @@
 
 [15.3.5.2.3.8. 그라디언트 새로 고침(Refresh Gradient)](./15-03-05-02-03-08-refresh_gradient.md)
 
-[15.3.5.2.3.9. 커스텀 그라디언트 만들기(Custom Gradient)](./15-03-05-02-03-09-custom_gradient.md)
+[15.3.5.2.3.9. 커스텀 그라디언트(Custom Gradient)](./15-03-05-02-03-09-custom_gradient.md)
 
 [15.3.5.2.3.10. CSS로 저장하기(Save as CSS)](./15-03-05-02-03-10-save_as_css.md)
 

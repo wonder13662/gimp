@@ -2250,7 +2250,7 @@
 
 [15.3.5.2.3.8. 그라디언트 새로 고침(Refresh Gradient)](./15-03-05-02-03-08-refresh_gradient.md)
 
-[15.3.5.2.3.9. 커스텀 그라디언트 만들기(Custom Gradient)](./15-03-05-02-03-09-custom_gradient.md)
+[15.3.5.2.3.9. 커스텀 그라디언트(Custom Gradient)](./15-03-05-02-03-09-custom_gradient.md)
 
 [15.3.5.2.3.10. CSS로 저장하기(Save as CSS)](./15-03-05-02-03-10-save_as_css.md)
 
@@ -3501,6 +3501,8 @@
 [19. 용어집 - 픽스맵(pixmap)](./19-glossaryx-pixmap.md)
 
 [19. 용어집 - 포스트스크립트(PostScript)](./19-glossaryx-postscript.md)
+
+[19. 용어집 - POV-Ray](./19-glossaryx-pov_ray.md)
 
 [19. 용어집 - 프로시저 데이터베이스(Procedural Database)](./19-glossaryx-procedural_database.md)
 
@@ -4998,6 +5000,8 @@
 
 [90.4.137. 사각형 붓 만들기(Elliptical)](./90-04-0137-rectangular.md)
 
+[90.4.138. 커스텀 그라디언트(Custom Gradient)](./90-04-0138-custom_gradient.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
@@ -5091,6 +5095,8 @@
 [90.5.16.1.28. 상황판(Dashboard)](./90-05-16-01-28-dashboard.md)
 
 [90.5.17. 이미지 탭 바 (Image Tab Bar)](./90-05-17-image_tab_bar.md)
+
+## 키보드 단축키
 
 [90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 
