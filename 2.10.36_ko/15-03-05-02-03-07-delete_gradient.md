@@ -1,5 +1,12 @@
 # 15.3.5.2.3.7. 그라디언트 삭제(Delete Gradient)
 
+<a id="90-04-19-a114-07"></a>
+
+#### [그림 90.4.19.a114.7. 그라디언트 대화상자 → `탭 메뉴` → `그라디언트 메뉴` → `그라디언트 삭제` (Windows) (우리말)](./90-04-0019-gradient.md#90-04-19-a114-07)
+<img width="382" height="313" alt="90-04-19-a114-07" src="https://github.com/user-attachments/assets/c3b87292-14eb-4fdc-9a33-8ba71cadc5c1" />
+
+[15.3.5.2.2.4. 그라디언트 삭제(Delete Gradient)](./15-03-05-02-02-04-delete_gradient.md)을 참고해주세요.
+
 ***
 
 ## 다른 페이지로 가기
