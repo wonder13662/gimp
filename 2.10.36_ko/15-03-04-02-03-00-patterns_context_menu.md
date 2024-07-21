@@ -21,7 +21,7 @@
 
 [15.3.4.2.3.4. 무늬 삭제(Delete Pattern)](./15-03-04-02-03-04-delete_pattern.md)
 
-[15.3.4.2.3.5. 무늬 새로고침(Refresh Pattern)](./15-03-04-02-03-05-refresh_pattern.md)
+[15.3.4.2.3.5. 무늬 새로 고침(Refresh Pattern)](./15-03-04-02-03-05-refresh_pattern.md)
 
 ***
 

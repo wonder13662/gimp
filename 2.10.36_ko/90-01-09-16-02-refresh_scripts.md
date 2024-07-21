@@ -1,9 +1,9 @@
-# 90.1.9.16.2. 스크립트 새로고침(Refresh Scripts)
+# 90.1.9.16.2. 스크립트 새로 고침(Refresh Scripts)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 
 <a id="90-01-09-16-02-a1"></a>
 
-#### 그림 90.1.9.16.2.a1. `필터` → `Script-Fu` → `스크립트 새로고침` (Windows)
+#### 그림 90.1.9.16.2.a1. `필터` → `Script-Fu` → `스크립트 새로 고침` (Windows)
 ![90-01-09-16-02-a1](https://github.com/wonder13662/gimp/assets/15767104/7acc7e38-7cbc-449d-bd21-de2b19c10d9a)
 
 [13.2.2. script-fu 스크립트 설치하기(Installing script-fu scripts) - 그림 90.1.9.16.2.a1](./13-02-02-installing-script-fu-scripts.md#90-01-09-16-02-a1)
@@ -12,7 +12,7 @@
 
 <a id="90-01-09-16-02-a2"></a>
 
-#### 그림 90.1.9.16.2.a2. `필터` → `Script-Fu` → `스크립트 새로고침` (Mac)
+#### 그림 90.1.9.16.2.a2. `필터` → `Script-Fu` → `스크립트 새로 고침` (Mac)
 ![90-01-09-16-02-a2](https://github.com/wonder13662/gimp/assets/15767104/a9ef32c5-7099-4e3b-9826-60d69781b546)
 
 ***

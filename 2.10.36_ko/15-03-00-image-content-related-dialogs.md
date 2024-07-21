@@ -140,7 +140,7 @@
 
 [15.3.3.2.4.3. 마이페인트 붓 삭제(Delete brush)](./15-03-03-02-04-03-delete_brush.md)
 
-[15.3.3.2.4.4. 마이페인트 붓 새로고침(Refresh brush)](./15-03-03-02-04-04-refresh_brushes.md)
+[15.3.3.2.4.4. 마이페인트 붓 새로 고침(Refresh brush)](./15-03-03-02-04-04-refresh_brushes.md)
 
 [15.3.3.2.5. 마이페인트 붓 컨텍스트 메뉴(The Mypaint brushes context menu)](./15-03-03-02-05-00-the_mypaint_brushes_context_menu.md)
 
@@ -170,7 +170,7 @@
 
 [15.3.4.2.2.2. 무늬 삭제(Delete Pattern)](./15-03-04-02-02-02-delete_pattern.md)
 
-[15.3.4.2.2.3. 무늬 새로고침(Refresh Pattern)](./15-03-04-02-02-03-refresh_pattern.md)
+[15.3.4.2.2.3. 무늬 새로 고침(Refresh Pattern)](./15-03-04-02-02-03-refresh_pattern.md)
 
 [15.3.4.2.2.4. 무늬를 이미지로 열기(Open Pattern as Image)](./15-03-04-02-02-04-open_pattern_as_image.md)
 
@@ -184,7 +184,7 @@
 
 [15.3.4.2.3.4. 무늬 삭제(Delete Pattern)](./15-03-04-02-03-04-delete_pattern.md)
 
-[15.3.4.2.3.5. 무늬 새로고침(Refresh Pattern)](./15-03-04-02-03-05-refresh_pattern.md)
+[15.3.4.2.3.5. 무늬 새로 고침(Refresh Pattern)](./15-03-04-02-03-05-refresh_pattern.md)
 
 [15.3.4.3. 태그(Tagging)](./15-03-04-03-tagging.md)
 
@@ -212,7 +212,7 @@
 
 [15.3.5.2.2.4. 그라디언트 삭제(Delete Gradient)](./15-03-05-02-02-04-delete_gradient.md)
 
-[15.3.5.2.2.5. 그라디언트 새로고침(Refresh Gradient)](./15-03-05-02-02-05-refresh_gradient.md)
+[15.3.5.2.2.5. 그라디언트 새로 고침(Refresh Gradient)](./15-03-05-02-02-05-refresh_gradient.md)
 
 [15.3.5.2.3. POV-Ray로 저장(Save as POV-Ray)](./15-03-05-02-03-00-gradient_menu.md)
 

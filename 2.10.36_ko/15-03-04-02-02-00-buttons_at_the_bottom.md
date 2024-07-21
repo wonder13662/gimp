@@ -13,7 +13,7 @@
 
 [15.3.4.2.2.2. 무늬 삭제(Delete Pattern)](./15-03-04-02-02-02-delete_pattern.md)
 
-[15.3.4.2.2.3. 무늬 새로고침(Refresh Pattern)](./15-03-04-02-02-03-refresh_pattern.md)
+[15.3.4.2.2.3. 무늬 새로 고침(Refresh Pattern)](./15-03-04-02-02-03-refresh_pattern.md)
 
 [15.3.4.2.2.4. 무늬를 이미지로 열기(Open Pattern as Image)](./15-03-04-02-02-04-open_pattern_as_image.md)
 

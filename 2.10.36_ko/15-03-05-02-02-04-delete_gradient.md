@@ -25,7 +25,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.2.2.5. 그라디언트 새로고침(Refresh Gradient)](./15-03-05-02-02-05-refresh_gradient.md)
+[➡️ 다음: 15.3.5.2.2.5. 그라디언트 새로 고침(Refresh Gradient)](./15-03-05-02-02-05-refresh_gradient.md)
 
 [⬅️ 이전: 15.3.5.2.2.3. 그라디언트 복제(Duplicate Gradient)](./15-03-05-02-02-03-duplicate_gradient.md)
 

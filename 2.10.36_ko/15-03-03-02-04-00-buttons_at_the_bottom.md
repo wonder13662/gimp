@@ -15,7 +15,7 @@
 
 [15.3.3.2.4.3. 마이페인트 붓 삭제(Delete brush)](./15-03-03-02-04-03-delete_brush.md)
 
-[15.3.3.2.4.4. 마이페인트 붓 새로고침(Refresh brush)](./15-03-03-02-04-04-refresh_brushes.md)
+[15.3.3.2.4.4. 마이페인트 붓 새로 고침(Refresh brush)](./15-03-03-02-04-04-refresh_brushes.md)
 
 ***
 

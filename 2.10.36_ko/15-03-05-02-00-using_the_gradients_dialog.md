@@ -49,7 +49,7 @@ GIMP(김프)에서 기본적으로 제공되는 그라디언트는 이름을 수
 
 [15.3.5.2.2.4. 그라디언트 삭제(Delete Gradient)](./15-03-05-02-02-04-delete_gradient.md)
 
-[15.3.5.2.2.5. 그라디언트 새로고침(Refresh Gradient)](./15-03-05-02-02-05-refresh_gradient.md)
+[15.3.5.2.2.5. 그라디언트 새로 고침(Refresh Gradient)](./15-03-05-02-02-05-refresh_gradient.md)
 
 [15.3.5.2.3. POV-Ray로 저장(Save as POV-Ray)](./15-03-05-02-03-00-gradient_menu.md)
 

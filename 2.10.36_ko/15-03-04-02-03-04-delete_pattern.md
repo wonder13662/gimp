@@ -11,7 +11,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.4.2.3.5. 무늬 새로고침(Refresh Pattern)](./15-03-04-02-03-05-refresh_pattern.md)
+[➡️ 다음: 15.3.4.2.3.5. 무늬 새로 고침(Refresh Pattern)](./15-03-04-02-03-05-refresh_pattern.md)
 
 [⬅️ 이전: 15.3.4.2.3.3. 파일 관리자에 표시(Show in File Manager)](./15-03-04-02-03-03-show_in_file_manager.md)
 

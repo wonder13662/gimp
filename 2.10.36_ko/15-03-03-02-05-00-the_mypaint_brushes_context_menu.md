@@ -23,7 +23,7 @@
 
 [➡️ 다음: 15.3.3.2.5.1. MyPaint 붓 위치 복사(Copy Mypaint brush location)](./15-03-03-02-05-01-copy_mypaint_brush_location.md)
 
-[⬅️ 이전: 15.3.3.2.4.4. 마이페인트 붓 새로고침(Refresh brush)](./15-03-03-02-04-04-refresh_brushes.md)
+[⬅️ 이전: 15.3.3.2.4.4. 마이페인트 붓 새로 고침(Refresh brush)](./15-03-03-02-04-04-refresh_brushes.md)
 
 [⬆️ 위: 15.3.3.2. 마이페인트 붓 대화상자 사용하기(Using the Mypaint brushes dialog)](./15-03-03-02-00-using_the_mypaint_brushes_dialog.md)
 

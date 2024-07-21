@@ -79,7 +79,7 @@ Script-Fu API 함수인 `gimp-message`을 이용한 디버깅 방법을 소개�
 ![90-05-09-a121](https://github.com/wonder13662/gimp/assets/15767104/0ea14a53-c8c4-4e3a-b03c-fb753a5e0b6b)
 
 ## 5. 예시 코드
-아래 스크립트를 추가한 뒤에, [이미지 메뉴 바](./03-02-04-02-image-menu.md)의 `필터` → `Script-Fu` → `스크립트 새로고침` 메뉴를 클릭해서 스크립트를 읽어들입니다. [이미지 메뉴 바](./03-02-04-02-image-menu.md)의 `Fu-Plugin` → `디버깅 예제` 메뉴를 선택하여, 아래 스크립트를 실행할 수 있습니다.
+아래 스크립트를 추가한 뒤에, [이미지 메뉴 바](./03-02-04-02-image-menu.md)의 `필터` → `Script-Fu` → `스크립트 새로 고침` 메뉴를 클릭해서 스크립트를 읽어들입니다. [이미지 메뉴 바](./03-02-04-02-image-menu.md)의 `Fu-Plugin` → `디버깅 예제` 메뉴를 선택하여, 아래 스크립트를 실행할 수 있습니다.
 
 #### 파일 13.3.8.a1. debug.scm
 [debug.scm.zip](https://github.com/wonder13662/gimp/files/15142046/debug.scm.zip)

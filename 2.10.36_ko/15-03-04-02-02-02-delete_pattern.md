@@ -24,7 +24,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.4.2.2.3. 무늬 새로고침(Refresh Pattern)](./15-03-04-02-02-03-refresh_pattern.md)
+[➡️ 다음: 15.3.4.2.2.3. 무늬 새로 고침(Refresh Pattern)](./15-03-04-02-02-03-refresh_pattern.md)
 
 [⬅️ 이전: 15.3.4.2.2.1. 무늬 복제(Duplicate Pattern)](./15-03-04-02-02-01-duplicate_pattern.md)
 
