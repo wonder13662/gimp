@@ -1,5 +1,26 @@
 # 15.3.5.2.2.4. 그라디언트 삭제(Delete Gradient)
 
+<a id="90-04-19-a113-04"></a>
+
+#### [그림 90.4.19.a113.4. 그라디언트 대화상자: 격자 모드 → `아래쪽 버튼들` → `그라디언트 삭제` (Windows) (우리말)](./90-04-0019-gradient.md#90-04-19-a113-04)
+<img width="200" height="254" alt="90-04-19-a113-04" src="https://github.com/user-attachments/assets/482dc847-bb8d-496c-8f1b-4bb6f8968266" />
+
+`그라디언트 삭제(Delete Gradient)` 버튼을 누르면, 아래와 같이 정말로 삭제할 것인지 확인하는 대화상자가 뜹니다.
+
+대화상자에서 `삭제(Delete)` 버튼을 누르면 그라디언트가 삭제됩니다.
+
+<a id="90-04-133-a111"></a>
+
+#### [그림 90.4.133.a111. `객체 삭제` 대화상자: 그라디언트 (Windows) (우리말)](./90-04-0133-delete_object.md#90-04-133-a111)
+<img width="402" height="174" alt="90-04-133-a111" src="https://github.com/user-attachments/assets/385b8cd4-4bbd-47f4-8b13-1a30262d8bcc" />
+
+<a id="90-04-19-a113-04-01"></a>
+
+#### [영상 90.4.19.a113.4.1. 그라디언트 대화상자: 격자 모드 → `아래쪽 버튼들` → `그라디언트 삭제` (Windows) (우리말)](./90-04-0019-gradient.md#90-04-19-a113-04-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/859e835f-1133-4790-9e26-0744ef5e3194"></video>
+
+삭제가 가능한 그라디언트는 사용자가 새로 만들거나, 복제한 그라디언트만 가능합니다.
+
 ***
 
 ## 다른 페이지로 가기
