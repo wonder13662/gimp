@@ -1,5 +1,10 @@
 # 15.3.5.3.3.1. 끝점색 편집(Editing endpoint's color)
 
+<a id="90-04-139-a131"></a>
+
+#### [그림 90.4.139.a131. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` (Windows) (우리말)](./90-04-0139-gradient_editor.md#90-04-139-a131)
+<img width="471" height="586" alt="90-04-139-a131" src="https://github.com/user-attachments/assets/6fd11a01-9780-48ac-94e7-47f8ee55242b" />
+
 ***
 
 ## 하위 페이지
