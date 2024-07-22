@@ -194,6 +194,27 @@
 
 [15.3.5.3.2.6. 버튼들(Buttons) - 영상 90.4.139.a119.3.1](./15-03-05-03-02-06-buttons.md#90-04-139-a119-03-01)
 
+<a id="90-04-139-a120"></a>
+
+#### 그림 90.4.139.a120. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` (Windows) (우리말)
+<img width="471" height="586" alt="90-04-139-a120" src="https://github.com/user-attachments/assets/71aceff1-8786-464b-a8b5-63a0a58c6789" />
+
+[15.3.5.3.3. 그라디언트 편집기 팝업 메뉴(The Gradient Editor pop-up Menu) - 그림 90.4.139.a120](./15-03-05-03-03-00-the_gradient_editor_pop_up_menu.md#90-04-139-a120)
+
+<a id="90-04-139-a120-01"></a>
+
+#### 영상 90.4.139.a120.1. `그라디언트 편집기` 대화상자 → `그라디언트 미리보기`: 오른쪽 클릭으로 `그라디언트 편집기 메뉴` 열기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/aaf251e6-738a-4394-b758-881371efcd50"></video>
+
+[15.3.5.3.3. 그라디언트 편집기 팝업 메뉴(The Gradient Editor pop-up Menu) - 영상 90.4.139.a120.1](./15-03-05-03-03-00-the_gradient_editor_pop_up_menu.md#90-04-139-a120-01)
+
+<a id="90-04-139-a120-02"></a>
+
+#### 영상 90.4.139.a120.2. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/c99d2f6f-fdf9-4295-9b19-ab8fcee55150"></video>
+
+[15.3.5.3.3. 그라디언트 편집기 팝업 메뉴(The Gradient Editor pop-up Menu) - 영상 90.4.139.a120.2](./15-03-05-03-03-00-the_gradient_editor_pop_up_menu.md#90-04-139-a120-02)
+
 ***
 
 ## 다른 페이지로 가기
