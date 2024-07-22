@@ -22,6 +22,8 @@
 
 [14.1.3.1. 색상 영역(Color Area) - 그림 90.3.3.a2](./14-01-03-01-color_area.md#90-03-03-a2)
 
+[15.3.5.3.2.2. 그라디언트 미리보기 창(The Gradient Preview Window) - 그림 90.3.3.a2](./15-03-05-03-02-02-the_gradient_preview_window.md#90-03-03-a2)
+
 [19. 용어집 - 전경색(Foreground Color) - 그림 90.3.3.a2](./19-glossaryx-foreground_color.md#90-03-03-a2)
 
 <a id="90-03-03-a3"></a>

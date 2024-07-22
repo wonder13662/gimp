@@ -38,6 +38,41 @@
 
 [15.3.5.3.2.1. 그라디언트 이름(Name) - 영상 90.4.139.a111.1](./15-03-05-03-02-01-name.md#90-04-139-a111-01)
 
+<a id="90-04-139-a112"></a>
+
+#### 그림 90.4.139.a112. `그라디언트 편집기` 대화상자 → `그라디언트 미리보기 창` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-139-a112" src="https://github.com/user-attachments/assets/0ceb0d9e-1ca1-4c67-9a01-7ea665da6462" />
+
+[15.3.5.3.2.2. 그라디언트 미리보기 창(The Gradient Preview Window) - 그림 90.4.139.a112](./15-03-05-03-02-02-the_gradient_preview_window.md#90-04-139-a112)
+
+<a id="90-04-139-a112-01"></a>
+
+#### 그림 90.4.139.a112.1. `그라디언트 편집기` 대화상자 → `그라디언트 미리보기 창` → `위치` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-139-a112-01" src="https://github.com/user-attachments/assets/71d9f3bb-dcd8-4db8-b24e-816969c6e1de" />
+
+[15.3.5.3.2.2. 그라디언트 미리보기 창(The Gradient Preview Window) - 그림 90.4.139.a112.1](./15-03-05-03-02-02-the_gradient_preview_window.md#90-04-139-a112-01)
+
+<a id="90-04-139-a112-02"></a>
+
+#### 그림 90.4.139.a112.2. `그라디언트 편집기` 대화상자 → `그라디언트 미리보기 창` → `색상 정보` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-139-a112-02" src="https://github.com/user-attachments/assets/806c6697-80a4-42e9-bc40-adc0312cf4c2" />
+
+[15.3.5.3.2.2. 그라디언트 미리보기 창(The Gradient Preview Window) - 그림 90.4.139.a112.2](./15-03-05-03-02-02-the_gradient_preview_window.md#90-04-139-a112-02)
+
+<a id="90-04-139-a112-03"></a>
+
+#### 영상 90.4.139.a112.3. `그라디언트 편집기` 대화상자 → `그라디언트 미리보기 창`: 미리보기 클릭,드래그로 전경색 변경 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/709a104b-d1bf-477f-84e7-ebea221429d5"></video>
+
+[15.3.5.3.2.2. 그라디언트 미리보기 창(The Gradient Preview Window) - 영상 90.4.139.a112.3](./15-03-05-03-02-02-the_gradient_preview_window.md#90-04-139-a112-03)
+
+<a id="90-04-139-a112-04"></a>
+
+#### 영상 90.4.139.a112.4. `그라디언트 편집기` 대화상자 → `그라디언트 미리보기 창`: 미리보기 Ctrl(⌘) 키 + 클릭,드래그로 배경색 변경 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/06f389b7-3666-4e50-a002-cd2af0c7c769"></video>
+
+[15.3.5.3.2.2. 그라디언트 미리보기 창(The Gradient Preview Window) - 영상 90.4.139.a112.4](./15-03-05-03-02-02-the_gradient_preview_window.md#90-04-139-a112-04)
+
 ***
 
 ## 다른 페이지로 가기
