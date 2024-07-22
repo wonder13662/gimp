@@ -6,7 +6,7 @@
 
 [➡️ 다음: 15.3.5.3.3.1.4. 왼쪽과 오른쪽 끝점의 색상 저장하기(Save Left/Right Color To)](./15-03-05-03-03-01-04-save_left_n_right_color_to.md)
 
-[⬅️ 이전: 15.3.5.3.3.1.2. 왼쪽과 오른쪽 끝점의 색상(Left/Right Endpoint's Color)](./15-03-05-03-03-01-02-left_n_right_endpoint_color.md)
+[⬅️ 이전: 15.3.5.3.3.1.2. 왼쪽과 오른쪽 끝점의 색(Left/Right Endpoint's Color)](./15-03-05-03-03-01-02-left_n_right_endpoint_color.md)
 
 [⬆️ 위: 15.3.5.3.3.1. 끝점색 편집(Editing endpoint's color)](./15-03-05-03-03-01-00-editing_endpoint_color.md)
 

@@ -2280,7 +2280,7 @@
 
 [15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type)](./15-03-05-03-03-01-01-left_n_right_color_type.md)
 
-[15.3.5.3.3.1.2. 왼쪽과 오른쪽 끝점의 색상(Left/Right Endpoint's Color)](./15-03-05-03-03-01-02-left_n_right_endpoint_color.md)
+[15.3.5.3.3.1.2. 왼쪽과 오른쪽 끝점의 색(Left/Right Endpoint's Color)](./15-03-05-03-03-01-02-left_n_right_endpoint_color.md)
 
 [15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색상 가져오기(Load Left/Right Color From)](./15-03-05-03-03-01-03-load_left_n_right_color_from.md)
 
