@@ -122,6 +122,20 @@
 
 [15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider) - 영상 90.4.139.a116](./15-03-05-03-02-03-range_selection_n_control_slider.md#90-04-139-a116)
 
+<a id="90-04-139-a117"></a>
+
+#### 그림 90.4.139.a117. `그라디언트 편집기` 대화상자 → `스크롤바` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-139-a117" src="https://github.com/user-attachments/assets/1cb1f03c-2eff-400f-bfb4-55d09a7817d4" />
+
+[15.3.5.3.2.4. 스크롤 바(Scroll Bar) - 그림 90.4.139.a117](./15-03-05-03-02-04-scrollbar.md#90-04-139-a117)
+
+<a id="90-04-139-a117-01"></a>
+
+#### 영상 90.4.139.a117.1. `그라디언트 편집기` 대화상자 → `스크롤바` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/4c30b22f-9425-40b6-bf09-ac41c1685e3d"></video>
+
+[15.3.5.3.2.4. 스크롤 바(Scroll Bar) - 영상 90.4.139.a117.1](./15-03-05-03-02-04-scrollbar.md#90-04-139-a117-01)
+
 ***
 
 ## 다른 페이지로 가기
