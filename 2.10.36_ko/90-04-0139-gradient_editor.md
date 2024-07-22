@@ -229,19 +229,45 @@
 
 [15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type) - 그림 90.4.139.a132](./15-03-05-03-03-01-01-left_n_right_color_type.md#90-04-139-a132)
 
+<a id="90-04-139-a132-01"></a>
+
+#### 영상 90.4.139.a132.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽 색타입` → `고정` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/58adba2e-f8af-43c2-86ce-b1d5345cf1d9"></video>
+
+[15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type) - 영상 90.4.139.a132.1](./15-03-05-03-03-01-01-left_n_right_color_type.md#90-04-139-a132-01)
+
+<a id="90-04-139-a132-02"></a>
+
+#### 그림 90.4.139.a132.2. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽 색타입` → `전경색` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ad616a04-4eb2-4395-8fbf-6b0594661c8d"></video>
+
+[15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type) - 그림 90.4.139.a132.2](./15-03-05-03-03-01-01-left_n_right_color_type.md#90-04-139-a132-02)
+
+<a id="90-04-139-a132-03"></a>
+
+#### 그림 90.4.139.a132.3. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽 색타입` → `전경색(투명)` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/bab38c6a-7149-485a-8bf5-0de5c617dc1d"></video>
+
+[15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type) - 그림 90.4.139.a132.3](./15-03-05-03-03-01-01-left_n_right_color_type.md#90-04-139-a132-03)
+
+<a id="90-04-139-a132-04"></a>
+
+#### 그림 90.4.139.a132.4. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽 색타입` → `배경색` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f22dd0bc-85ff-427b-b9cc-ca81f0f464f5"></video>
+
+[15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type) - 그림 90.4.139.a132.4](./15-03-05-03-03-01-01-left_n_right_color_type.md#90-04-139-a132-04)
+
+<a id="90-04-139-a132-05"></a>
+
+#### 그림 90.4.139.a132.5. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽 색타입` → `배경색(투명)` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ad6152ff-8853-46ef-bfc8-96b74b01b093"></video>
+
 <a id="90-04-139-a133"></a>
 
 #### 그림 90.4.139.a133. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `오른쪽 색타입` (Windows) (우리말)
 <img width="611" height="586" alt="90-04-139-a133" src="https://github.com/user-attachments/assets/9b203ea7-fe2a-4f67-864e-001a578300c1" />
 
 [15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type) - 그림 90.4.139.a133](./15-03-05-03-03-01-01-left_n_right_color_type.md#90-04-139-a133)
-
-<a id="90-04-139-a134"></a>
-
-#### 영상 90.4.139.a133. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽/오른쪽 색타입` (Windows) (우리말)
-<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/72ac1f95-4ead-49ec-97b8-711cac81a555"></video>
-
-[15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type) - 영상 90.4.139.a133](./15-03-05-03-03-01-01-left_n_right_color_type.md#90-04-139-a134)
 
 ***
 
