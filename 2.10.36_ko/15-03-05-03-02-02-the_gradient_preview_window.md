@@ -9,30 +9,16 @@
 
 마우스 포인터를 `그라디언트 미리보기 창` 위에서 움직이면, [색상 추출(Color Picker)](./14-05-03-00-color_picker.md) 도구처럼 동작합니다.
 
-## 1. 픽셀 정보
-마우스 포인터가 가리키는 픽셀의 정보는 `그라디언트 미리보기 창`의 아래의 쪽에 표시됩니다.
+## 1. 피드백 영역
 
-### 1-1. 위치(Position)
+<a id="90-04-139-a118"></a>
 
-<a id="90-04-139-a112-01"></a>
+#### [그림 90.4.139.a118. `그라디언트 편집기` 대화상자 → `피드백 영역` (Windows) (우리말)](./90-04-0139-gradient_editor.md#90-04-139-a118)
+<img width="200" height="224" alt="90-04-139-a118" src="https://github.com/user-attachments/assets/6cf7e44b-9fc2-4773-b8c8-83416e5c2a97" />
 
-#### [그림 90.4.139.a112.1. `그라디언트 편집기` 대화상자 → `그라디언트 미리보기 창` → `위치` (Windows) (우리말)](./90-04-0139-gradient_editor.md#90-04-139-a112-01)
-<img width="200" height="224" alt="90-04-139-a112-01" src="https://github.com/user-attachments/assets/71d9f3bb-dcd8-4db8-b24e-816969c6e1de" />
+마우스 포인터가 가리키는 픽셀의 정보는 `그라디언트 미리보기 창`의 아래의 쪽의 [피드백 영역](./15-03-05-03-02-05-feedback_area.md) 표시됩니다.
 
-위치 값은 그라디언트의 왼쪽의 0.00 부터 오른쪽의 1.000 사이의 값 중 하나를 가집니다.
-
-### 1-2. 색상 정보
-
-<a id="90-04-139-a112-02"></a>
-
-#### [그림 90.4.139.a112.2. `그라디언트 편집기` 대화상자 → `그라디언트 미리보기 창` → `색상 정보` (Windows) (우리말)](./90-04-0139-gradient_editor.md#90-04-139-a112-02)
-<img width="200" height="224" alt="90-04-139-a112-02" src="https://github.com/user-attachments/assets/806c6697-80a4-42e9-bc40-adc0312cf4c2" />
-
-위치 값의 아래에는 [RGB](./19-glossaryx-color_mode_rgb.md)와 [HSV](./19-glossaryx-color_model_hsv.md) 값이 표시됩니다.
-
-이어서 [휘도(Luminance)](./19-glossaryx-luminance.md)와 불투명도 값이 표시됩니다.
-
----
+자세한 정보는 [15.3.5.3.2.5. 피드백 영역(Feedback Area)](./15-03-05-03-02-05-feedback_area.md)을 참고해주세요.
 
 ## 2. `그라디언트 미리보기 창` 위에 클릭, 드래그
 `그라디언트 미리보기 창` 위에 클릭, 드래그를 하게되면, 위치와 RGB 값만 표시됩니다.

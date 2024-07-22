@@ -50,14 +50,14 @@
 #### 그림 90.4.139.a112.1. `그라디언트 편집기` 대화상자 → `그라디언트 미리보기 창` → `위치` (Windows) (우리말)
 <img width="200" height="224" alt="90-04-139-a112-01" src="https://github.com/user-attachments/assets/71d9f3bb-dcd8-4db8-b24e-816969c6e1de" />
 
-[15.3.5.3.2.2. 그라디언트 미리보기 창(The Gradient Preview Window) - 그림 90.4.139.a112.1](./15-03-05-03-02-02-the_gradient_preview_window.md#90-04-139-a112-01)
+[15.3.5.3.2.5. 피드백 영역(Feedback Area) - 그림 90.4.139.a112.1](./15-03-05-03-02-05-feedback_area.md#90-04-139-a112-01)
 
 <a id="90-04-139-a112-02"></a>
 
 #### 그림 90.4.139.a112.2. `그라디언트 편집기` 대화상자 → `그라디언트 미리보기 창` → `색상 정보` (Windows) (우리말)
 <img width="200" height="224" alt="90-04-139-a112-02" src="https://github.com/user-attachments/assets/806c6697-80a4-42e9-bc40-adc0312cf4c2" />
 
-[15.3.5.3.2.2. 그라디언트 미리보기 창(The Gradient Preview Window) - 그림 90.4.139.a112.2](./15-03-05-03-02-02-the_gradient_preview_window.md#90-04-139-a112-02)
+[15.3.5.3.2.5. 피드백 영역(Feedback Area) - 그림 90.4.139.a112.2](./15-03-05-03-02-05-feedback_area.md#90-04-139-a112-02)
 
 <a id="90-04-139-a112-03"></a>
 
@@ -135,6 +135,15 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/4c30b22f-9425-40b6-bf09-ac41c1685e3d"></video>
 
 [15.3.5.3.2.4. 스크롤 바(Scroll Bar) - 영상 90.4.139.a117.1](./15-03-05-03-02-04-scrollbar.md#90-04-139-a117-01)
+
+<a id="90-04-139-a118"></a>
+
+#### 그림 90.4.139.a118. `그라디언트 편집기` 대화상자 → `피드백 영역` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-139-a118" src="https://github.com/user-attachments/assets/6cf7e44b-9fc2-4773-b8c8-83416e5c2a97" />
+
+[15.3.5.3.2.2. 그라디언트 미리보기 창(The Gradient Preview Window) - 그림 90.4.139.a118](./15-03-05-03-02-02-the_gradient_preview_window.md#90-04-139-a118)
+
+[15.3.5.3.2.5. 피드백 영역(Feedback Area) - 그림 90.4.139.a118](./15-03-05-03-02-05-feedback_area.md#90-04-139-a118)
 
 ***
 
