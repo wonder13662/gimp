@@ -73,6 +73,55 @@
 
 [15.3.5.3.2.2. 그라디언트 미리보기 창(The Gradient Preview Window) - 영상 90.4.139.a112.4](./15-03-05-03-02-02-the_gradient_preview_window.md#90-04-139-a112-04)
 
+<a id="90-04-139-a113"></a>
+
+#### 그림 90.4.139.a113. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-139-a113" src="https://github.com/user-attachments/assets/3569f3c9-9857-4d61-89de-dfcd76bddd62" />
+
+[15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider) - 그림 90.4.139.a113](./15-03-05-03-02-03-range_selection_n_control_slider.md#90-04-139-a113)
+
+<a id="90-04-139-a113-01"></a>
+
+#### 그림 90.4.139.a113.1. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `마디` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-139-a113-01" src="https://github.com/user-attachments/assets/b623d628-83ff-4895-9ea5-380862002b6c" />
+
+[15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider) - 그림 90.4.139.a113.1](./15-03-05-03-02-03-range_selection_n_control_slider.md#90-04-139-a113-01)
+
+<a id="90-04-139-a113-02"></a>
+
+#### 영상 90.4.139.a113.2. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `마디`: 마디 선택하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/49fe940c-ba4c-4d46-8698-fdc0eb63db2c"></video>
+
+[15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider) - 영상 90.4.139.a113.2](./15-03-05-03-02-03-range_selection_n_control_slider.md#90-04-139-a113-02)
+
+<a id="90-04-139-a113-03"></a>
+
+#### 영상 90.4.139.a113.3. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `마디`: 여러 개의 마디 선택 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/3ff93682-ce57-45ff-a674-705789fab82b"></video>
+
+[15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider) - 영상 90.4.139.a113.3](./15-03-05-03-02-03-range_selection_n_control_slider.md#90-04-139-a113-03)
+
+<a id="90-04-139-a114"></a>
+
+#### 영상 90.4.139.a114. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `제어 객체 옮기기`: 끝점(검은색 삼각형), 중간점(하얀색 삼각형) 옮기기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6cb50a31-9b4b-499f-930f-2f6efc17a0ee"></video>
+
+[15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider) - 영상 90.4.139.a114](./15-03-05-03-02-03-range_selection_n_control_slider.md#90-04-139-a114)
+
+<a id="90-04-139-a115"></a>
+
+#### 영상 90.4.139.a115. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `제어 객체 옮기기`: 마디 옮기기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/4b54e775-28bb-4e51-8cc4-b635ebb4ed1c"></video>
+
+[15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider) - 영상 90.4.139.a115](./15-03-05-03-02-03-range_selection_n_control_slider.md#90-04-139-a115)
+
+<a id="90-04-139-a116"></a>
+
+#### 영상 90.4.139.a116. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `제어 객체 옮기기`: 변화 비율의 비례를 유지하면서 옮기기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ab6fde6c-5dcc-443b-9a2f-0350d139e9f0"></video>
+
+[15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider) - 영상 90.4.139.a116](./15-03-05-03-02-03-range_selection_n_control_slider.md#90-04-139-a116)
+
 ***
 
 ## 다른 페이지로 가기
