@@ -24,6 +24,20 @@
 #### 그림 90.4.139.a104. `그라디언트 편집기` 대화상자 (Mac) (영어)
 <img width="200" height="208" alt="90-04-139-a104" src="https://github.com/user-attachments/assets/1cc2848a-cd45-43cf-81ee-0ffdb5025712" />
 
+<a id="90-04-139-a111"></a>
+
+#### 그림 90.4.139.a111. `그라디언트 편집기` 대화상자 → `그라디언트 이름` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-139-a111" src="https://github.com/user-attachments/assets/38526aa9-3501-4baa-ae95-18e94c22ecdc" />
+
+[15.3.5.3.2.1. 그라디언트 이름(Name) - 그림 90.4.139.a111](./15-03-05-03-02-01-name.md#90-04-139-a111)
+
+<a id="90-04-139-a111-01"></a>
+
+#### 영상 90.4.139.a111.1. `그라디언트 편집기` 대화상자 → `그라디언트 이름` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/0a467f18-0337-40df-a6b6-1fb72ddef59b"></video>
+
+[15.3.5.3.2.1. 그라디언트 이름(Name) - 영상 90.4.139.a111.1](./15-03-05-03-02-01-name.md#90-04-139-a111-01)
+
 ***
 
 ## 다른 페이지로 가기
