@@ -145,6 +145,55 @@
 
 [15.3.5.3.2.5. 피드백 영역(Feedback Area) - 그림 90.4.139.a118](./15-03-05-03-02-05-feedback_area.md#90-04-139-a118)
 
+<a id="90-04-139-a119"></a>
+
+#### 그림 90.4.139.a119. `그라디언트 편집기` 대화상자 → `버튼들` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-139-a119" src="https://github.com/user-attachments/assets/f8051abe-c976-4aee-957e-98e484669d1d" />
+
+[15.3.5.3.2.6. 버튼들(Buttons) - 그림 90.4.139.a119](./15-03-05-03-02-06-buttons.md#90-04-139-a119)
+
+<a id="90-04-139-a119-01"></a>
+
+#### 그림 90.4.139.a119.1. `그라디언트 편집기` 대화상자 → `버튼들` → `축소` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-139-a119-01" src="https://github.com/user-attachments/assets/1d7da86f-f383-47a5-842c-fac4241359a1" />
+
+[15.3.5.3.2.6. 버튼들(Buttons) - 그림 90.4.139.a119.1](./15-03-05-03-02-06-buttons.md#90-04-139-a119-01)
+
+<a id="90-04-139-a119-01-01"></a>
+
+#### 영상 90.4.139.a119.1.1. `그라디언트 편집기` 대화상자 → `버튼들` → `축소` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/98cba4d7-4e26-4f27-bbe9-0d572c612bc2"></video>
+
+[15.3.5.3.2.6. 버튼들(Buttons) - 영상 90.4.139.a119.1.1](./15-03-05-03-02-06-buttons.md#90-04-139-a119-01-01)
+
+<a id="90-04-139-a119-02"></a>
+
+#### 그림 90.4.139.a119.2. `그라디언트 편집기` 대화상자 → `버튼들` → `확대` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-139-a119-02" src="https://github.com/user-attachments/assets/c5559f30-d981-4533-a631-c6661cc91156" />
+
+[15.3.5.3.2.6. 버튼들(Buttons) - 그림 90.4.139.a119.1](./15-03-05-03-02-06-buttons.md#90-04-139-a119-02)
+
+<a id="90-04-139-a119-02-01"></a>
+
+#### 영상 90.4.139.a119.2.1. `그라디언트 편집기` 대화상자 → `버튼들` → `확대` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/869e34ad-8530-4b7b-af34-1033ffdcf835"></video>
+
+[15.3.5.3.2.6. 버튼들(Buttons) - 영상 90.4.139.a119.2.1](./15-03-05-03-02-06-buttons.md#90-04-139-a119-02-01)
+
+<a id="90-04-139-a119-03"></a>
+
+#### 그림 90.4.139.a119.3. `그라디언트 편집기` 대화상자 → `버튼들` → `화면 맞춤` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-139-a119-02" src="https://github.com/user-attachments/assets/3ef5b902-7e75-4037-bb46-7ab220f5ca7a" />
+
+[15.3.5.3.2.6. 버튼들(Buttons) - 그림 90.4.139.a119.3](./15-03-05-03-02-06-buttons.md#90-04-139-a119-03)
+
+<a id="90-04-139-a119-03-01"></a>
+
+#### 영상 90.4.139.a119.3.1. `그라디언트 편집기` 대화상자 → `버튼들` → `화면 맞춤` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6bfed921-f09f-4a52-a0b0-169920991cb2"></video>
+
+[15.3.5.3.2.6. 버튼들(Buttons) - 영상 90.4.139.a119.3.1](./15-03-05-03-02-06-buttons.md#90-04-139-a119-03-01)
+
 ***
 
 ## 다른 페이지로 가기
