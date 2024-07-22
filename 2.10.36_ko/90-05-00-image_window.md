@@ -160,7 +160,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.138. 커스텀 그라디언트(Custom Gradient)](./90-04-0138-custom_gradient.md)
+[⬅️ 이전: 90.4.139. 그라디언트 편집기(Custom Gradient)](./90-04-0139-gradient_editor.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

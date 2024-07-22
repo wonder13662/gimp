@@ -3392,6 +3392,8 @@
 
 [19. 용어집 - 비색계(Colorimetric)](./19-glossaryx-colorimetric.md)
 
+[19. 용어집 - CSS(Cascading Style Sheets)](./19-glossaryx-css.md)
+
 [19. 용어집 - 디더링(Dithering)](./19-glossaryx-dithering.md)
 
 [19. 용어집 - 다운샘플링(Downsample)](./19-glossaryx-downsample.md)
@@ -5001,6 +5003,8 @@
 [90.4.137. 사각형 붓 만들기(Elliptical)](./90-04-0137-rectangular.md)
 
 [90.4.138. 커스텀 그라디언트(Custom Gradient)](./90-04-0138-custom_gradient.md)
+
+[90.4.139. 그라디언트 편집기(Custom Gradient)](./90-04-0139-gradient_editor.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
