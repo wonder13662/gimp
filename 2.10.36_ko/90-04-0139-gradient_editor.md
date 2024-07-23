@@ -82,21 +82,21 @@
 
 <a id="90-04-139-a113-01"></a>
 
-#### 그림 90.4.139.a113.1. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `마디` (Windows) (우리말)
+#### 그림 90.4.139.a113.1. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `구획` (Windows) (우리말)
 <img width="200" height="224" alt="90-04-139-a113-01" src="https://github.com/user-attachments/assets/b623d628-83ff-4895-9ea5-380862002b6c" />
 
 [15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider) - 그림 90.4.139.a113.1](./15-03-05-03-02-03-range_selection_n_control_slider.md#90-04-139-a113-01)
 
 <a id="90-04-139-a113-02"></a>
 
-#### 영상 90.4.139.a113.2. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `마디`: 마디 선택하기 (Windows) (우리말)
+#### 영상 90.4.139.a113.2. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `구획`: 구획 선택하기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/49fe940c-ba4c-4d46-8698-fdc0eb63db2c"></video>
 
 [15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider) - 영상 90.4.139.a113.2](./15-03-05-03-02-03-range_selection_n_control_slider.md#90-04-139-a113-02)
 
 <a id="90-04-139-a113-03"></a>
 
-#### 영상 90.4.139.a113.3. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `마디`: 여러 개의 마디 선택 (Windows) (우리말)
+#### 영상 90.4.139.a113.3. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `구획`: 여러 개의 구획 선택 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/3ff93682-ce57-45ff-a674-705789fab82b"></video>
 
 [15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider) - 영상 90.4.139.a113.3](./15-03-05-03-02-03-range_selection_n_control_slider.md#90-04-139-a113-03)
@@ -110,7 +110,7 @@
 
 <a id="90-04-139-a115"></a>
 
-#### 영상 90.4.139.a115. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `제어 객체 옮기기`: 마디 옮기기 (Windows) (우리말)
+#### 영상 90.4.139.a115. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `제어 객체 옮기기`: 구획 옮기기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/4b54e775-28bb-4e51-8cc4-b635ebb4ed1c"></video>
 
 [15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider) - 영상 90.4.139.a115](./15-03-05-03-02-03-range_selection_n_control_slider.md#90-04-139-a115)
@@ -396,6 +396,23 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e70bf941-66c7-4d34-8bb0-b7706929626c"></video>
 
 [15.3.5.3.3.1.5. 색상을 클릭, 드래그하기(Click and drag colors) - 영상 90.4.139.a141](./15-03-05-03-03-01-05-click_n_drag_colors.md#90-04-139-a141)
+
+<a id="90-04-139-a142"></a>
+
+#### 그림 90.4.139.a142. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `그라디언트 구획의 색을 섞거나 색칠하기` (Windows) (우리말)
+<img width="471" height="586" alt="90-04-139-a142" src="https://github.com/user-attachments/assets/5480b51b-1040-4ffe-85fc-04f1ec9a239a" />
+
+[15.3.5.3.3.2. 그라디언트 구획의 색을 섞거나 색칠하기(Blending and coloring functions for segment) - 그림 90.4.139.a142](./15-03-05-03-03-02-00-blending_n_coloring_functions_for_segment.md#90-04-139-a142)
+
+<a id="90-04-139-a143"></a>
+
+#### 그림 90.4.139.a143. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획의 혼합 함수` (Windows) (우리말)
+<img width="" height="" alt="90-04-139-a143" src="" />
+
+<a id="90-04-139-a144"></a>
+
+#### 그림 90.4.139.a144. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획의 배색 유형` (Windows) (우리말)
+<img width="" height="" alt="90-04-139-a144" src="" />
 
 ***
 

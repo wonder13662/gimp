@@ -270,25 +270,25 @@
 
 [15.3.5.3.3.1.5. 색상을 클릭, 드래그하기(Click and drag colors)](./15-03-05-03-03-01-05-click_n_drag_colors.md)
 
-[15.3.5.3.3.2. 그라디언트 마디의 색을 섞거나 색칠하기(Blending and coloring functions for segment)](./15-03-05-03-03-02-00-blending_n_coloring_functions_for_segment.md)
+[15.3.5.3.3.2. 그라디언트 구획의 색을 섞거나 색칠하기(Blending and coloring functions for segment)](./15-03-05-03-03-02-00-blending_n_coloring_functions_for_segment.md)
 
-[15.3.5.3.3.2.1. 그라디언트 마디의 색을 섞는 기능(Blending Function for Segment)](./15-03-05-03-03-02-01-blending_function_for_segment.md)
+[15.3.5.3.3.2.1. 그라디언트 구획의 색을 섞는 기능(Blending Function for Segment)](./15-03-05-03-03-02-01-blending_function_for_segment.md)
 
-[15.3.5.3.3.2.2. 그라디언트 마디의 색상 타입(Coloring Type for Segment)](./15-03-05-03-03-02-02-coloring_type_for_segment.md)
+[15.3.5.3.3.2.2. 그라디언트 구획의 색상 타입(Coloring Type for Segment)](./15-03-05-03-03-02-02-coloring_type_for_segment.md)
 
-[15.3.5.3.3.3. 그라디언트 마디 수정하기(Modifying segments)](./15-03-05-03-03-03-00-modifying_segments.md)
+[15.3.5.3.3.3. 그라디언트 구획 수정하기(Modifying segments)](./15-03-05-03-03-03-00-modifying_segments.md)
 
-[15.3.5.3.3.3.1. 그라디언트 마디 뒤집기(Flip Segment)](./15-03-05-03-03-03-01-flip_segment.md)
+[15.3.5.3.3.3.1. 그라디언트 구획 뒤집기(Flip Segment)](./15-03-05-03-03-03-01-flip_segment.md)
 
-[15.3.5.3.3.3.2. 그라디언트 마디 복제하기(Replicate Segment)](./15-03-05-03-03-03-02-replicate_segment.md)
+[15.3.5.3.3.3.2. 그라디언트 구획 복제하기(Replicate Segment)](./15-03-05-03-03-03-02-replicate_segment.md)
 
-[15.3.5.3.3.3.3. 그라디언트 마디 나누기(Split Segment at Midpoint)](./15-03-05-03-03-03-03-split_segment_at_midpoint.md)
+[15.3.5.3.3.3.3. 그라디언트 구획 나누기(Split Segment at Midpoint)](./15-03-05-03-03-03-03-split_segment_at_midpoint.md)
 
-[15.3.5.3.3.3.4. 그라디언트 마디 삭제하기(Delete Segment)](./15-03-05-03-03-03-04-split_segment_uniformly.md)
+[15.3.5.3.3.3.4. 그라디언트 구획 삭제하기(Delete Segment)](./15-03-05-03-03-03-04-split_segment_uniformly.md)
 
-[15.3.5.3.3.3.5. 그라디언트 마디의 줌심점을 가운데로 옮기기(Re-center Segment's midpoint)](./15-03-05-03-03-03-05-recenter_segment_midpoint.md)
+[15.3.5.3.3.3.5. 그라디언트 구획의 줌심점을 가운데로 옮기기(Re-center Segment's midpoint)](./15-03-05-03-03-03-05-recenter_segment_midpoint.md)
 
-[15.3.5.3.3.3.6. 그라디언트 마디의 핸들을 균등하게 배치하기(Re-distribute Handles in Segment)](./15-03-05-03-03-03-06-redistribute_handles_in_segment.md)
+[15.3.5.3.3.3.6. 그라디언트 구획의 핸들을 균등하게 배치하기(Re-distribute Handles in Segment)](./15-03-05-03-03-03-06-redistribute_handles_in_segment.md)
 
 [15.3.5.3.3.4. 색 섞기(Blending colors)](./15-03-05-03-03-04-00-blending_colors.md)
 

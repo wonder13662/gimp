@@ -1,14 +1,14 @@
-# 15.3.5.3.3.3.3. 그라디언트 마디 나누기(Split Segment at Midpoint)
+# 15.3.5.3.3.3.3. 그라디언트 구획 나누기(Split Segment at Midpoint)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.3.3.3.4. 그라디언트 마디 삭제하기(Delete Segment)](./15-03-05-03-03-03-04-split_segment_uniformly.md)
+[➡️ 다음: 15.3.5.3.3.3.4. 그라디언트 구획 삭제하기(Delete Segment)](./15-03-05-03-03-03-04-split_segment_uniformly.md)
 
-[⬅️ 이전: 15.3.5.3.3.3.2. 그라디언트 마디 복제하기(Replicate Segment)](./15-03-05-03-03-03-02-replicate_segment.md)
+[⬅️ 이전: 15.3.5.3.3.3.2. 그라디언트 구획 복제하기(Replicate Segment)](./15-03-05-03-03-03-02-replicate_segment.md)
 
-[⬆️ 위: 15.3.5.3.3.3. 그라디언트 마디 수정하기(Modifying segments)](./15-03-05-03-03-03-00-modifying_segments.md)
+[⬆️ 위: 15.3.5.3.3.3. 그라디언트 구획 수정하기(Modifying segments)](./15-03-05-03-03-03-00-modifying_segments.md)
 
 [⬆️ 위: 15.3.5.3.3. 그라디언트 편집기 팝업 메뉴(The Gradient Editor pop-up Menu)](./15-03-05-03-03-00-the_gradient_editor_pop_up_menu.md)
 

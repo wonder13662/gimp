@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.3.3.2. 그라디언트 마디의 색을 섞거나 색칠하기(Blending and coloring functions for segment)](./15-03-05-03-03-02-00-blending_n_coloring_functions_for_segment.md)
+[➡️ 다음: 15.3.5.3.3.2. 그라디언트 구획의 색을 섞거나 색칠하기(Blending and coloring functions for segment)](./15-03-05-03-03-02-00-blending_n_coloring_functions_for_segment.md)
 
 [⬅️ 이전: 15.3.5.3.3.1.4. 왼쪽과 오른쪽 끝점의 색상 저장하기(Save Left/Right Color To)](./15-03-05-03-03-01-04-save_left_n_right_color_to.md)
 
