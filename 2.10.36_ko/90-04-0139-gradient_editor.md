@@ -224,71 +224,148 @@
 
 <a id="90-04-139-a132"></a>
 
-#### 그림 90.4.139.a132. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽 색타입` (Windows) (우리말)
+#### 그림 90.4.139.a132. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽 색타입` (Windows) (우리말)
 <img width="611" height="585" alt="90-04-139-a132" src="https://github.com/user-attachments/assets/a5219a1f-799e-4811-9376-98a6d257e99e" />
 
 [15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type) - 그림 90.4.139.a132](./15-03-05-03-03-01-01-left_n_right_color_type.md#90-04-139-a132)
 
 <a id="90-04-139-a132-01"></a>
 
-#### 영상 90.4.139.a132.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽 색타입` → `고정` (Windows) (우리말)
+#### 영상 90.4.139.a132.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽 색타입` → `고정` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/58adba2e-f8af-43c2-86ce-b1d5345cf1d9"></video>
 
 [15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type) - 영상 90.4.139.a132.1](./15-03-05-03-03-01-01-left_n_right_color_type.md#90-04-139-a132-01)
 
 <a id="90-04-139-a132-02"></a>
 
-#### 그림 90.4.139.a132.2. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽 색타입` → `전경색` (Windows) (우리말)
+#### 그림 90.4.139.a132.2. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽 색타입` → `전경색` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ad616a04-4eb2-4395-8fbf-6b0594661c8d"></video>
 
 [15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type) - 그림 90.4.139.a132.2](./15-03-05-03-03-01-01-left_n_right_color_type.md#90-04-139-a132-02)
 
 <a id="90-04-139-a132-03"></a>
 
-#### 그림 90.4.139.a132.3. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽 색타입` → `전경색(투명)` (Windows) (우리말)
+#### 그림 90.4.139.a132.3. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽 색타입` → `전경색(투명)` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/bab38c6a-7149-485a-8bf5-0de5c617dc1d"></video>
 
 [15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type) - 그림 90.4.139.a132.3](./15-03-05-03-03-01-01-left_n_right_color_type.md#90-04-139-a132-03)
 
 <a id="90-04-139-a132-04"></a>
 
-#### 그림 90.4.139.a132.4. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽 색타입` → `배경색` (Windows) (우리말)
+#### 그림 90.4.139.a132.4. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽 색타입` → `배경색` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f22dd0bc-85ff-427b-b9cc-ca81f0f464f5"></video>
 
 [15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type) - 그림 90.4.139.a132.4](./15-03-05-03-03-01-01-left_n_right_color_type.md#90-04-139-a132-04)
 
 <a id="90-04-139-a132-05"></a>
 
-#### 그림 90.4.139.a132.5. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽 색타입` → `배경색(투명)` (Windows) (우리말)
+#### 그림 90.4.139.a132.5. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽 색타입` → `배경색(투명)` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ad6152ff-8853-46ef-bfc8-96b74b01b093"></video>
 
 <a id="90-04-139-a133"></a>
 
-#### 그림 90.4.139.a133. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `오른쪽 색타입` (Windows) (우리말)
+#### 그림 90.4.139.a133. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `오른쪽 색타입` (Windows) (우리말)
 <img width="611" height="586" alt="90-04-139-a133" src="https://github.com/user-attachments/assets/9b203ea7-fe2a-4f67-864e-001a578300c1" />
 
 [15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type) - 그림 90.4.139.a133](./15-03-05-03-03-01-01-left_n_right_color_type.md#90-04-139-a133)
 
 <a id="90-04-139-a134"></a>
 
-#### 그림 90.4.139.a134. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽 끝점의 색` (Windows) (우리말)
-<img width="471" height="586" alt="90-04-139-a134" src="https://github.com/user-attachments/assets/42c75328-3b7a-4e84-b23b-891057870ea9" />
+#### 그림 90.4.139.a134. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽/오른쪽 끝점의 색` (Windows) (우리말)
+<img width="471" height="586" alt="90-04-139-a134" src="https://github.com/user-attachments/assets/353570e3-0666-4087-b18f-33baa7f8e34e" />
 
 [15.3.5.3.3.1.2. 왼쪽과 오른쪽 끝점의 색(Left/Right Endpoint's Color) - 그림 90.4.139.a134](./15-03-05-03-03-01-02-left_n_right_endpoint_color.md#90-04-139-a134)
 
 <a id="90-04-139-a134-01"></a>
 
-#### 영상 90.4.139.a134.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽 끝점의 색` (Windows) (우리말)
+#### 영상 90.4.139.a134.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽 끝점의 색` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/4e0b6962-cd03-4183-813c-5b22a0dfdc4f"></video>
 
 [15.3.5.3.3.1.2. 왼쪽과 오른쪽 끝점의 색(Left/Right Endpoint's Color) - 영상 90.4.139.a134.1](./15-03-05-03-03-01-02-left_n_right_endpoint_color.md#90-04-139-a134-01)
 
 <a id="90-04-139-a135"></a>
 
-#### 그림 90.4.139.a134. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `오른쪽 끝점의 색` (Windows) (우리말)
-<img width="471" height="586" alt="90-04-139-a135" src="https://github.com/user-attachments/assets/09e05f0c-6916-46d3-8e19-86c47584e112" />
+#### 그림 90.4.139.a135. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽 색 불러오기` (Windows) (우리말)
+<img width="714" height="586" alt="90-04-139-a135" src="https://github.com/user-attachments/assets/c4a21581-7351-4236-a3ff-6eae41e764a1" />
 
-[15.3.5.3.3.1.2. 왼쪽과 오른쪽 끝점의 색(Left/Right Endpoint's Color) - 그림 90.4.139.a134](./15-03-05-03-03-01-02-left_n_right_endpoint_color.md#90-04-139-a135)
+[15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From) - 그림 90.4.139.a135](./15-03-05-03-03-01-03-load_left_n_right_color_from.md#90-04-139-a135)
+
+<a id="90-04-139-a136"></a>
+
+#### 그림 90.4.139.a136. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `오른쪽 색 불러오기` (Windows) (우리말)
+<img width="714" height="586" alt="90-04-139-a136" src="https://github.com/user-attachments/assets/4c8b1730-3bec-4eae-8c74-a3acd948ae74" />
+
+[15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From) - 그림 90.4.139.a136](./15-03-05-03-03-01-03-load_left_n_right_color_from.md#90-04-139-a136)
+
+<a id="90-04-139-a137-01"></a>
+
+#### 그림 90.4.139.a137.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽/오른쪽 색 불러오기` → `왼쪽/오른쪽 인접 구역의 오른쪽/왼쪽 끝점` (Windows) (우리말)
+<img width="520" height="392" alt="90-04-139-a137-01" src="https://github.com/user-attachments/assets/93179b55-8f3c-46e7-8a1b-5ef7c419ee89" />
+
+[15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From) - 그림 90.4.139.a137.1](./15-03-05-03-03-01-03-load_left_n_right_color_from.md#90-04-139-a137-01)
+
+<a id="90-04-139-a137-01-01"></a>
+
+#### 영상 90.4.139.a137.1.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽 색 불러오기` → `왼쪽 인접 구역의 오른쪽 끝점` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/8f6b38c2-b4d6-439a-b131-fc6bde1e1b0d"></video>
+
+[15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From) - 영상 90.4.139.a137.1.1](./15-03-05-03-03-01-03-load_left_n_right_color_from.md#90-04-139-a137-01-01)
+
+<a id="90-04-139-a137-02"></a>
+
+#### 그림 90.4.139.a137.2. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽/오른쪽 색 불러오기` → `왼쪽/오른쪽 끝점` (Windows) (우리말)
+<img width="520" height="392" alt="90-04-139-a137-02" src="https://github.com/user-attachments/assets/0bb2809f-1b2e-436f-8397-68087e3abf89" />
+
+[15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From) - 그림 90.4.139.a137.2](./15-03-05-03-03-01-03-load_left_n_right_color_from.md#90-04-139-a137-02)
+
+<a id="90-04-139-a137-02-01"></a>
+
+#### 그림 90.4.139.a137.2.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽 색 불러오기` → `오른쪽 끝점` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/8d1ebb3d-9a1b-4f9c-a07f-6a824fdca34b"></video>
+
+[15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From) - 그림 90.4.139.a137.2.1](./15-03-05-03-03-01-03-load_left_n_right_color_from.md#90-04-139-a137-02-01)
+
+<a id="90-04-139-a137-03"></a>
+
+#### 그림 90.4.139.a137.3. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽/오른쪽 색 불러오기` → `전경색` (Windows) (우리말)
+<img width="520" height="392" alt="90-04-139-a137-03" src="https://github.com/user-attachments/assets/4f1b5699-d1d3-4b74-aac5-47534f00c5b5" />
+
+[15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From) - 그림 90.4.139.a137.3](./15-03-05-03-03-01-03-load_left_n_right_color_from.md#90-04-139-a137-03)
+
+<a id="90-04-139-a137-03-01"></a>
+
+#### 영상 90.4.139.a137.3.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽 색 불러오기` → `전경색` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/354890cb-3b96-43a6-8829-360494359a7a"></video>
+
+[15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From) - 영상 90.4.139.a137.3.1](./15-03-05-03-03-01-03-load_left_n_right_color_from.md#90-04-139-a137-03-01)
+
+<a id="90-04-139-a137-04"></a>
+
+#### 그림 90.4.139.a137.4. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽/오른쪽 색 불러오기` → `배경색` (Windows) (우리말)
+<img width="520" height="392" alt="90-04-139-a137-04" src="https://github.com/user-attachments/assets/3f30fab3-657d-4e7d-be4b-34fdee46b419" />
+
+[15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From) - 그림 90.4.139.a137.4](./15-03-05-03-03-01-03-load_left_n_right_color_from.md#90-04-139-a137-04)
+
+<a id="90-04-139-a137-04-01"></a>
+
+#### 영상 90.4.139.a137.4.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽 색 불러오기` → `배경색` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/993e053f-faf9-46c4-b731-1c78c15af818"></video>
+
+[15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From) - 영상 90.4.139.a137.4.1](./15-03-05-03-03-01-03-load_left_n_right_color_from.md#90-04-139-a137-04-01)
+
+<a id="90-04-139-a137-05"></a>
+
+#### 그림 90.4.139.a137.5. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽/오른쪽 색 불러오기` → `RGBA 목록` (Windows) (우리말)
+<img width="520" height="392" alt="90-04-139-a137-05" src="https://github.com/user-attachments/assets/005aa242-6f32-424a-8ff5-4a222dc9e52c" />
+
+[15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From) - 그림 90.4.139.a137.5](./15-03-05-03-03-01-03-load_left_n_right_color_from.md#90-04-139-a137-05)
+
+<a id="90-04-139-a137-05-01"></a>
+
+#### 영상 90.4.139.a137.5.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽/오른쪽 색 불러오기` → `RGBA 목록` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f2ddb2dd-446c-449d-bdb9-626321d8aa6f"></video>
+
+[15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From) - 영상 90.4.139.a137.5.1](./15-03-05-03-03-01-03-load_left_n_right_color_from.md#90-04-139-a137-05-01)
 
 ***
 

@@ -180,7 +180,7 @@ GIMP(김프)에서 기본적으로 제공하는 그라디언트도 있으며, �
 
 [15.3.5.3.3.1.2. 왼쪽과 오른쪽 끝점의 색(Left/Right Endpoint's Color)](./15-03-05-03-03-01-02-left_n_right_endpoint_color.md)
 
-[15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색상 가져오기(Load Left/Right Color From)](./15-03-05-03-03-01-03-load_left_n_right_color_from.md)
+[15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From)](./15-03-05-03-03-01-03-load_left_n_right_color_from.md)
 
 [15.3.5.3.3.1.4. 왼쪽과 오른쪽 끝점의 색상 저장하기(Save Left/Right Color To)](./15-03-05-03-03-01-04-save_left_n_right_color_to.md)
 

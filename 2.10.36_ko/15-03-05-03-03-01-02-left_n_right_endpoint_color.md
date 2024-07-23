@@ -3,12 +3,7 @@
 <a id="90-04-139-a134"></a>
 
 #### [그림 90.4.139.a134. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽 끝점의 색` (Windows) (우리말)](./90-04-0139-gradient_editor.md#90-04-139-a134)
-<img width="471" height="586" alt="90-04-139-a134" src="https://github.com/user-attachments/assets/42c75328-3b7a-4e84-b23b-891057870ea9" />
-
-<a id="90-04-139-a135"></a>
-
-#### [그림 90.4.139.a134. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `오른쪽 끝점의 색` (Windows) (우리말)](./90-04-0139-gradient_editor.md#90-04-139-a135)
-<img width="471" height="586" alt="90-04-139-a135" src="https://github.com/user-attachments/assets/09e05f0c-6916-46d3-8e19-86c47584e112" />
+<img width="471" height="586" alt="90-04-139-a134" src="https://github.com/user-attachments/assets/353570e3-0666-4087-b18f-33baa7f8e34e" />
 
 `왼쪽 끝점의 색`과 `오른쪽 끝점의 색` 메뉴를 클릭하면 각각의 끝점(검은색 삼각형)에서 시작되는 색상을 선택할 수 있습니다.
 
@@ -16,14 +11,14 @@
 
 <a id="90-04-139-a134-01"></a>
 
-#### [영상 90.4.139.a134.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점색 편집` → `왼쪽 끝점의 색` (Windows) (우리말)](./90-04-0139-gradient_editor.md#90-04-139-a134-01)
+#### [영상 90.4.139.a134.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽 끝점의 색` (Windows) (우리말)](./90-04-0139-gradient_editor.md#90-04-139-a134-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/4e0b6962-cd03-4183-813c-5b22a0dfdc4f"></video>
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색상 가져오기(Load Left/Right Color From)](./15-03-05-03-03-01-03-load_left_n_right_color_from.md)
+[➡️ 다음: 15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From)](./15-03-05-03-03-01-03-load_left_n_right_color_from.md)
 
 [⬅️ 이전: 15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type)](./15-03-05-03-03-01-01-left_n_right_color_type.md)
 

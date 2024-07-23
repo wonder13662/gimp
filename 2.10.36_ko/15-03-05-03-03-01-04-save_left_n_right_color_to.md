@@ -6,7 +6,7 @@
 
 [➡️ 다음: 15.3.5.3.3.1.5. 색상을 클릭, 드래그하기(Click and drag colors)](./15-03-05-03-03-01-05-click_n_drag_colors.md)
 
-[⬅️ 이전: 15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색상 가져오기(Load Left/Right Color From)](./15-03-05-03-03-01-03-load_left_n_right_color_from.md)
+[⬅️ 이전: 15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From)](./15-03-05-03-03-01-03-load_left_n_right_color_from.md)
 
 [⬆️ 위: 15.3.5.3.3.1. 끝점색 편집(Editing endpoint's color)](./15-03-05-03-03-01-00-editing_endpoint_color.md)
 
