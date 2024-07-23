@@ -367,6 +367,22 @@
 
 [15.3.5.3.3.1.3. 왼쪽과 오른쪽 끝점의 색 가져오기(Load Left/Right Color From) - 영상 90.4.139.a137.5.1](./15-03-05-03-03-01-03-load_left_n_right_color_from.md#90-04-139-a137-05-01)
 
+[15.3.5.3.3.1.4. 왼쪽과 오른쪽 끝점의 색상 저장하기(Save Left/Right Color To) - 영상 90.4.139.a137.5.1](./15-03-05-03-03-01-04-save_left_n_right_color_to.md#90-04-139-a137-05-01)
+
+<a id="90-04-139-a138"></a>
+
+#### 그림 90.4.139.a138. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽 색 저장` (Windows) (우리말)
+<img width="714" height="586" alt="90-04-139-a138" src="https://github.com/user-attachments/assets/d073d8a8-6438-418c-b329-23ef64322ad9" />
+
+[15.3.5.3.3.1.4. 왼쪽과 오른쪽 끝점의 색상 저장하기(Save Left/Right Color To) - 그림 90.4.139.a138](./15-03-05-03-03-01-04-save_left_n_right_color_to.md#90-04-139-a138)
+
+<a id="90-04-139-a139"></a>
+
+#### 그림 90.4.139.a139. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `오른쪽 색 저장` (Windows) (우리말)
+<img width="714" height="586" alt="90-04-139-a138" src="https://github.com/user-attachments/assets/11ab7919-36d5-40de-aaf1-c674c142a395" />
+
+[15.3.5.3.3.1.4. 왼쪽과 오른쪽 끝점의 색상 저장하기(Save Left/Right Color To) - 그림 90.4.139.a139](./15-03-05-03-03-01-04-save_left_n_right_color_to.md#90-04-139-a139)
+
 ***
 
 ## 다른 페이지로 가기
