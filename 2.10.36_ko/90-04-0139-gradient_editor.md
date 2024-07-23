@@ -588,6 +588,13 @@
 
 [15.3.5.3.3.3.2. 구획 복제(Replicate Segment) - 그림 90.4.139.a145.2](./15-03-05-03-03-03-02-replicate_segment.md#90-04-139-a145-02)
 
+<a id="90-04-139-a145-02-01"></a>
+
+#### 영상 90.4.139.a145.2.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획 복제` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7420681f-7cce-4f99-a92d-195b2eee6f7d"></video>
+
+[15.3.5.3.3.3.2. 구획 복제(Replicate Segment) - 영상 90.4.139.a145.2.1](./15-03-05-03-03-03-02-replicate_segment.md#90-04-139-a145-02-01)
+
 <a id="90-04-139-a145-03"></a>
 
 #### 그림 90.4.139.a145.3. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `중점에서 구획 분리` (Windows) (우리말)
@@ -627,7 +634,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.140. 구획 복제(Replicate Segment)](./90-04-0140-replicate_segment.md)
 
 [⬅️ 이전: 90.4.138. 커스텀 그라디언트(Custom Gradient)](./90-04-0138-custom_gradient.md)
 
