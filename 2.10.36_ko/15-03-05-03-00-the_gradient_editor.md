@@ -61,9 +61,9 @@ GIMP(김프)에서 기본 제공되는 그라디언트를 복제한 그라디언
 
 [15.3.5.3.3.2. 그라디언트 구획의 색을 섞거나 색칠하기(Blending and coloring functions for segment)](./15-03-05-03-03-02-00-blending_n_coloring_functions_for_segment.md)
 
-[15.3.5.3.3.2.1. 그라디언트 구획의 색을 섞는 기능(Blending Function for Segment)](./15-03-05-03-03-02-01-blending_function_for_segment.md)
+[15.3.5.3.3.2.1. 구획의 혼합 함수(Blending Function for Segment)](./15-03-05-03-03-02-01-blending_function_for_segment.md)
 
-[15.3.5.3.3.2.2. 그라디언트 구획의 색상 타입(Coloring Type for Segment)](./15-03-05-03-03-02-02-coloring_type_for_segment.md)
+[15.3.5.3.3.2.2. 구획의 배색 유형(Coloring Type for Segment)](./15-03-05-03-03-02-02-coloring_type_for_segment.md)
 
 [15.3.5.3.3.3. 그라디언트 구획 수정하기(Modifying segments)](./15-03-05-03-03-03-00-modifying_segments.md)
 

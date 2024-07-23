@@ -22,7 +22,7 @@
 
 [➡️ 다음: 15.3.5.3.3.3.1. 그라디언트 구획 뒤집기(Flip Segment)](./15-03-05-03-03-03-01-flip_segment.md)
 
-[⬅️ 이전: 15.3.5.3.3.2.2. 그라디언트 구획의 색상 타입(Coloring Type for Segment)](./15-03-05-03-03-02-02-coloring_type_for_segment.md)
+[⬅️ 이전: 15.3.5.3.3.2.2. 구획의 배색 유형(Coloring Type for Segment)](./15-03-05-03-03-02-02-coloring_type_for_segment.md)
 
 [⬆️ 위: 15.3.5.3.3. 그라디언트 편집기 팝업 메뉴(The Gradient Editor pop-up Menu)](./15-03-05-03-03-00-the_gradient_editor_pop_up_menu.md)
 

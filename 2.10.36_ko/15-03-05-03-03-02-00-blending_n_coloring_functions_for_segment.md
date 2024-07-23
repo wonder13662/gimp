@@ -9,15 +9,15 @@
 
 ## 하위 페이지
 
-[15.3.5.3.3.2.1. 그라디언트 구획의 색을 섞는 기능(Blending Function for Segment)](./15-03-05-03-03-02-01-blending_function_for_segment.md)
+[15.3.5.3.3.2.1. 구획의 혼합 함수(Blending Function for Segment)](./15-03-05-03-03-02-01-blending_function_for_segment.md)
 
-[15.3.5.3.3.2.2. 그라디언트 구획의 색상 타입(Coloring Type for Segment)](./15-03-05-03-03-02-02-coloring_type_for_segment.md)
+[15.3.5.3.3.2.2. 구획의 배색 유형(Coloring Type for Segment)](./15-03-05-03-03-02-02-coloring_type_for_segment.md)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.3.3.2.1. 그라디언트 구획의 색을 섞는 기능(Blending Function for Segment)](./15-03-05-03-03-02-01-blending_function_for_segment.md)
+[➡️ 다음: 15.3.5.3.3.2.1. 구획의 혼합 함수(Blending Function for Segment)](./15-03-05-03-03-02-01-blending_function_for_segment.md)
 
 [⬅️ 이전: 15.3.5.3.3.1.5. 색상을 클릭, 드래그하기(Click and drag colors)](./15-03-05-03-03-01-05-click_n_drag_colors.md)
 
