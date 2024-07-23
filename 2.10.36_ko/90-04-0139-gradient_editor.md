@@ -383,6 +383,20 @@
 
 [15.3.5.3.3.1.4. 왼쪽과 오른쪽 끝점의 색상 저장하기(Save Left/Right Color To) - 그림 90.4.139.a139](./15-03-05-03-03-01-04-save_left_n_right_color_to.md#90-04-139-a139)
 
+<a id="90-04-139-a140"></a>
+
+#### 영상 90.4.139.a140. 끝점(검은색 삼각형)에 색을 클릭, 드래그하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a8b1ffcf-a658-4698-822c-d54fe74b8eb3"></video>
+
+[15.3.5.3.3.1.5. 색상을 클릭, 드래그하기(Click and drag colors) - 영상 90.4.139.a140](./15-03-05-03-03-01-05-click_n_drag_colors.md#90-04-139-a140)
+
+<a id="90-04-139-a141"></a>
+
+#### 영상 90.4.139.a141. 그라디언트 미리보기 창에 색을 클릭, 드래그하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e70bf941-66c7-4d34-8bb0-b7706929626c"></video>
+
+[15.3.5.3.3.1.5. 색상을 클릭, 드래그하기(Click and drag colors) - 영상 90.4.139.a141](./15-03-05-03-03-01-05-click_n_drag_colors.md#90-04-139-a141)
+
 ***
 
 ## 다른 페이지로 가기
