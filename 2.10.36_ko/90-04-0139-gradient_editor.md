@@ -87,6 +87,8 @@
 
 [15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider) - 그림 90.4.139.a113.1](./15-03-05-03-02-03-range_selection_n_control_slider.md#90-04-139-a113-01)
 
+[19. 용어집 - 구획(Segment)](./19-glossaryx-segment.md)
+
 <a id="90-04-139-a113-02"></a>
 
 #### 영상 90.4.139.a113.2. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `구획`: 구획 선택하기 (Windows) (우리말)
@@ -557,6 +559,13 @@
 <img width="400" height="30" alt="90-04-139-a144-01-03-01" src="https://github.com/user-attachments/assets/ddff1562-0cbd-475e-a1ce-f0ddb0155707" />
 
 [15.3.5.3.3.2.2. 구획의 배색 유형(Coloring Type for Segment) - 그림 90.4.139.a144.1.3.1](./15-03-05-03-03-02-02-coloring_type_for_segment.md#90-04-139-a144-01-03-01)
+
+<a id="90-04-139-a145"></a>
+
+#### 그림 90.4.139.a145. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `그라디언트 구획 수정하기` (Windows) (우리말)
+<img width="471" height="586" alt="90-04-139-a145" src="https://github.com/user-attachments/assets/b55935c9-26ca-4fa4-a1b8-77d0d5671442" />
+
+[15.3.5.3.3.3. 그라디언트 구획 수정하기(Modifying segments) - 그림 90.4.139.a145](./15-03-05-03-03-03-00-modifying_segments.md#90-04-139-a145)
 
 ***
 

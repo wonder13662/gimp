@@ -1,5 +1,10 @@
 # 15.3.5.3.3.3. 그라디언트 구획 수정하기(Modifying segments)
 
+<a id="90-04-139-a145"></a>
+
+#### [그림 90.4.139.a145. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `그라디언트 구획 수정하기` (Windows) (우리말)](./90-04-0139-gradient_editor.md#90-04-139-a145)
+<img width="471" height="586" alt="90-04-139-a145" src="https://github.com/user-attachments/assets/b55935c9-26ca-4fa4-a1b8-77d0d5671442" />
+
 ***
 
 ## 하위 페이지

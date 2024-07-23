@@ -82,14 +82,14 @@
 ![90-03-02-22-a14-04-01](https://github.com/wonder13662/gimp/assets/15767104/0b203f09-7e17-43cf-ac47-da0a18cefc05)
 
 ### 5-1. 새로 만들기
-`색 멈춤점(Color Stop)`을 새로 만들거나 지울 수 있습니다. 또는 선택해서 옮기는 것도 가능합니다. 이 `색 멈춤점(Color Stop)`에 색을 지정해서 `색 멈춤점(Color Stop)` 사이의 구획(segment)에 색을 섞거나 칠할 수 있습니다. `색 멈춤점(Color Stop)`은 `중점(midpoint)`에서 만들 수 있습니다.
+`색 멈춤점(Color Stop)`을 새로 만들거나 지울 수 있습니다. 또는 선택해서 옮기는 것도 가능합니다. 이 `색 멈춤점(Color Stop)`에 색을 지정해서 `색 멈춤점(Color Stop)` 사이의 [구획(segment)](./19-glossaryx-segment.md)에 색을 섞거나 칠할 수 있습니다. `색 멈춤점(Color Stop)`은 `중점(midpoint)`에서 만들 수 있습니다.
 
 <a id="90-03-02-22-a14-04-02"></a>
 
 #### [영상 90.3.2.22.a14.4.2. `색 멈춤점(Color Stop)`: 새로 만들기](./90-03-02-22-gradient.md#90-03-02-22-a14-04-02)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f0f2a56c-f7d0-48d1-a4bd-c7d4bb73ce33"></video>
 
-그라디언트 선을 보면, 작은 사각형이 여러 개 있습니다. 이 사각형을 `색 멈춤점(Color Stop)`이라고 합니다. `색 멈춤점(Color Stop)`은 그라디언트 선을 구획(Segment)로 나눕니다. 구획(Segment)는 각각 수정할 수 있습니다.
+그라디언트 선을 보면, 작은 사각형이 여러 개 있습니다. 이 사각형을 `색 멈춤점(Color Stop)`이라고 합니다. `색 멈춤점(Color Stop)`은 그라디언트 선을 [구획(segment)](./19-glossaryx-segment.md)로 나눕니다. [구획(segment)](./19-glossaryx-segment.md)은 각각 수정할 수 있습니다.
 
 ### 5-2. 수정하기
 `색 멈춤점(Color Stop)`을 클릭, 드래그해서 움직입니다. 활성화된 `색 멈춤점(Color Stop)`은 노란색으로 표시됩니다.

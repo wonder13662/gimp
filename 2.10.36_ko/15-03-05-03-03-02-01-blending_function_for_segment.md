@@ -10,7 +10,7 @@
 #### [그림 90.4.139.a143.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획의 혼합 함수` → `옵션 목록` (Windows) (우리말)](./90-04-0139-gradient_editor.md#90-04-139-a143-01)
 <img width="337" height="260" alt="90-04-139-a143-01" src="https://github.com/user-attachments/assets/6efb8a98-8011-4ebb-a553-e279cdf7894a" />
 
-`구획의 혼합 함수(Blending Function for Segment)`의 옵션들은 구획(Segment) 또는 선택된 구획들의 범위에서의 그라디언트의 변화(Transition) 방식을 결정합니다.
+`구획의 혼합 함수(Blending Function for Segment)`의 옵션들은 [구획(segment)](./19-glossaryx-segment.md) 또는 선택된 구획들의 범위에서의 그라디언트의 변화(Transition) 방식을 결정합니다.
 
 <a id="15-03-05-03-03-02-01-s1"></a>
 
