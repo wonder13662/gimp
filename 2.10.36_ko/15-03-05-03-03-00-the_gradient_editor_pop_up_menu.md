@@ -60,13 +60,13 @@
 
 [15.3.5.3.3.3. 그라디언트 구획 수정하기(Modifying segments)](./15-03-05-03-03-03-00-modifying_segments.md)
 
-[15.3.5.3.3.3.1. 그라디언트 구획 뒤집기(Flip Segment)](./15-03-05-03-03-03-01-flip_segment.md)
+[15.3.5.3.3.3.1. 구획 뒤집기(Flip Segment)](./15-03-05-03-03-03-01-flip_segment.md)
 
-[15.3.5.3.3.3.2. 그라디언트 구획 복제하기(Replicate Segment)](./15-03-05-03-03-03-02-replicate_segment.md)
+[15.3.5.3.3.3.2. 구획 복제(Replicate Segment)](./15-03-05-03-03-03-02-replicate_segment.md)
 
-[15.3.5.3.3.3.3. 그라디언트 구획 나누기(Split Segment at Midpoint)](./15-03-05-03-03-03-03-split_segment_at_midpoint.md)
+[15.3.5.3.3.3.3. 중점에서 구획 분리(Split Segment at Midpoint)](./15-03-05-03-03-03-03-split_segment_at_midpoint.md)
 
-[15.3.5.3.3.3.4. 그라디언트 구획 삭제하기(Delete Segment)](./15-03-05-03-03-03-04-split_segment_uniformly.md)
+[15.3.5.3.3.3.4. 균등한 구획 분할(Split Segment Uniformly)](./15-03-05-03-03-03-04-split_segment_uniformly.md)
 
 [15.3.5.3.3.3.5. 그라디언트 구획의 줌심점을 가운데로 옮기기(Re-center Segment's midpoint)](./15-03-05-03-03-03-05-recenter_segment_midpoint.md)
 

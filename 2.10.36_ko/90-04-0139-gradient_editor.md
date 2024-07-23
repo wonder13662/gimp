@@ -567,6 +567,62 @@
 
 [15.3.5.3.3.3. 그라디언트 구획 수정하기(Modifying segments) - 그림 90.4.139.a145](./15-03-05-03-03-03-00-modifying_segments.md#90-04-139-a145)
 
+<a id="90-04-139-a145-01"></a>
+
+#### 그림 90.4.139.a145.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획 뒤집기` (Windows) (우리말)
+<img width="471" height="586" alt="90-04-139-a145-01" src="https://github.com/user-attachments/assets/3fe3ada2-06f8-49f3-9994-0577966dc3d8" />
+
+[15.3.5.3.3.3.1. 구획 뒤집기(Flip Segment) - 그림 90.4.139.a145.1](./15-03-05-03-03-03-01-flip_segment.md#90-04-139-a145-01)
+
+<a id="90-04-139-a145-01-01"></a>
+
+#### 영상 90.4.139.a145.1.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획 뒤집기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f566263a-daed-4013-96f8-dba6b0436d2d"></video>
+
+[15.3.5.3.3.3.1. 구획 뒤집기(Flip Segment) - 영상 90.4.139.a145.1.1](./15-03-05-03-03-03-01-flip_segment.md#90-04-139-a145-01-01)
+
+<a id="90-04-139-a145-02"></a>
+
+#### 그림 90.4.139.a145.2. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획 복제` (Windows) (우리말)
+<img width="471" height="586" alt="90-04-139-a145-02" src="https://github.com/user-attachments/assets/9011968d-2e4e-47af-b84c-1a406f1d41b1" />
+
+[15.3.5.3.3.3.2. 구획 복제(Replicate Segment) - 그림 90.4.139.a145.2](./15-03-05-03-03-03-02-replicate_segment.md#90-04-139-a145-02)
+
+<a id="90-04-139-a145-03"></a>
+
+#### 그림 90.4.139.a145.3. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `중점에서 구획 분리` (Windows) (우리말)
+<img width="471" height="586" alt="90-04-139-a145-03" src="https://github.com/user-attachments/assets/bb9f998f-9250-4440-88d8-71fc5a05267d" />
+
+[15.3.5.3.3.3.3. 중점에서 구획 분리(Split Segment at Midpoint) - 그림 90.4.139.a145.3](./15-03-05-03-03-03-03-split_segment_at_midpoint.md#90-04-139-a145-03)
+
+<a id="90-04-139-a145-04"></a>
+
+#### 그림 90.4.139.a145.4. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `균등한 구획 분할` (Windows) (우리말)
+<img width="471" height="586" alt="90-04-139-a145-04" src="https://github.com/user-attachments/assets/5ad6ee09-3b2b-4b64-bbd5-39310102ef07" />
+
+[15.3.5.3.3.3.4. 균등한 구획 분할(Split Segment Uniformly) - 그림 90.4.139.a145.4](./15-03-05-03-03-03-04-split_segment_uniformly.md#90-04-139-a145-04)
+
+<a id="90-04-139-a145-05"></a>
+
+#### 그림 90.4.139.a145.5. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획 삭제` (Windows) (우리말)
+<img width="471" height="586" alt="90-04-139-a145-05" src="https://github.com/user-attachments/assets/28dfa5e8-ee32-4ba4-936d-75a139a1d6f9" />
+
+[15.3.5.3.3.3.5. 구획 삭제(Delete Segment) - 그림 90.4.139.a145.5](./15-03-05-03-03-03-05-delete_segment.md#90-04-139-a145-05)
+
+<a id="90-04-139-a145-06"></a>
+
+#### 그림 90.4.139.a145.6. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획의 중점을 다시 가운데로` (Windows) (우리말)
+<img width="471" height="586" alt="90-04-139-a145-06" src="https://github.com/user-attachments/assets/207e3a6c-e639-44c7-837a-b92cb57f3eec" />
+
+[15.3.5.3.3.3.6. 구획의 중점을 다시 가운데로(Re-center Segment's midpoint) - 그림 90.4.139.a145.6](./15-03-05-03-03-03-06-recenter_segment_midpoint.md#90-04-139-a145-06)
+
+<a id="90-04-139-a145-07"></a>
+
+#### 그림 90.4.139.a145.7. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획의 조절점 재배치` (Windows) (우리말)
+<img width="471" height="586" alt="90-04-139-a145-07" src="https://github.com/user-attachments/assets/86158d52-1041-4845-8171-777121a551c4" />
+
+[15.3.5.3.3.3.7. 구획의 조절점 재배치(Re-distribute Handles in Segment) - 그림 90.4.139.a145.7](./15-03-05-03-03-03-07-redistribute_handles_in_segment.md#90-04-139-a145-07)
+
 ***
 
 ## 다른 페이지로 가기

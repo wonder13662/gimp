@@ -1,12 +1,17 @@
-# 15.3.5.3.3.3.5. 그라디언트 구획의 줌심점을 가운데로 옮기기(Re-center Segment's midpoint)
+# 15.3.5.3.3.3.7. 구획의 조절점 재배치(Re-distribute Handles in Segment)
+
+<a id="90-04-139-a145-07"></a>
+
+#### [그림 90.4.139.a145.7. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획의 조절점 재배치` (Windows) (우리말)](./90-04-0139-gradient_editor.md#90-04-139-a145-07)
+<img width="471" height="586" alt="90-04-139-a145-07" src="https://github.com/user-attachments/assets/86158d52-1041-4845-8171-777121a551c4" />
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.3.3.3.6. 그라디언트 구획의 핸들을 균등하게 배치하기(Re-distribute Handles in Segment)](./15-03-05-03-03-03-06-redistribute_handles_in_segment.md)
+[➡️ 다음: 15.3.5.3.3.4. 색 섞기(Blending colors)](./15-03-05-03-03-04-00-blending_colors.md)
 
-[⬅️ 이전: 15.3.5.3.3.3.4. 그라디언트 구획 삭제하기(Delete Segment)](./15-03-05-03-03-03-04-split_segment_uniformly.md)
+[⬅️ 이전: 15.3.5.3.3.3.6. 구획의 중점을 다시 가운데로(Re-center Segment's midpoint)](./15-03-05-03-03-03-06-recenter_segment_midpoint.md)
 
 [⬆️ 위: 15.3.5.3.3.3. 그라디언트 구획 수정하기(Modifying segments)](./15-03-05-03-03-03-00-modifying_segments.md)
 
