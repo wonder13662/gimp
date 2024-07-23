@@ -605,7 +605,7 @@
 <a id="90-04-139-a145-03-01"></a>
 
 #### 영상 90.4.139.a145.3.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `중점에서 구획 분리` (Windows) (우리말)
-<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/09ff7090-e87c-4469-a068-3f98b4d5c2c0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/69cc1b9e-39e8-46ea-9cf9-5b114a05d9f9"></video>
 
 [15.3.5.3.3.3.3. 중점에서 구획 분리(Split Segment at Midpoint) - 영상 90.4.139.a145.3.1](./15-03-05-03-03-03-03-split_segment_at_midpoint.md#90-04-139-a145-03-01)
 
@@ -615,6 +615,13 @@
 <img width="471" height="586" alt="90-04-139-a145-04" src="https://github.com/user-attachments/assets/5ad6ee09-3b2b-4b64-bbd5-39310102ef07" />
 
 [15.3.5.3.3.3.4. 균등한 구획 분할(Split Segment Uniformly) - 그림 90.4.139.a145.4](./15-03-05-03-03-03-04-split_segment_uniformly.md#90-04-139-a145-04)
+
+<a id="90-04-139-a145-04-01"></a>
+
+#### 영상 90.4.139.a145.4.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `균등한 구획 분할` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/fc8f8d3d-42ac-49f8-a4f3-01c66c5a96b3"></video>
+
+[15.3.5.3.3.3.4. 균등한 구획 분할(Split Segment Uniformly) - 영상 90.4.139.a145.4.1](./15-03-05-03-03-03-04-split_segment_uniformly.md#90-04-139-a145-04-01)
 
 <a id="90-04-139-a145-05"></a>
 

@@ -7,10 +7,12 @@
 
 `중점에서 구획 분리(Split Segment at Midpoint)` 메뉴를 누르면, 선택된 범위가 범위 안의 중점(하얀색 삼각형)을 중심으로 2개의 [구획(Segment)](./19-glossaryx-segment.md)로 나뉩니다.
 
+아래 영상을 확인해보시면, [구획(Segment)](./19-glossaryx-segment.md) 안의 중점(하얀색 삼각형)을 오른쪽으로 옮겨, 나뉜 2개의 구획이 서로 다른 너비를 가지는 것을 볼 수 있습니다.
+
 <a id="90-04-139-a145-03-01"></a>
 
 #### [영상 90.4.139.a145.3.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `중점에서 구획 분리` (Windows) (우리말)](./90-04-0139-gradient_editor.md#90-04-139-a145-03-01)
-<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/09ff7090-e87c-4469-a068-3f98b4d5c2c0"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/69cc1b9e-39e8-46ea-9cf9-5b114a05d9f9"></video>
 
 ***
 

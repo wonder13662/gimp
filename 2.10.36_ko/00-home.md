@@ -5012,6 +5012,8 @@
 
 [90.4.140. 구획 복제(Replicate Segment)](./90-04-0140-replicate_segment.md)
 
+[90.4.141. 균등한 구획 분할(Split Segment Uniformly)](./90-04-0141-split_segment_uniformly.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

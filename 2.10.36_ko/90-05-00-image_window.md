@@ -160,7 +160,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.140. 구획 복제(Replicate Segment)](./90-04-0140-replicate_segment.md)
+[⬅️ 이전: 90.4.141. 균등한 구획 분할(Split Segment Uniformly)](./90-04-0141-split_segment_uniformly.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

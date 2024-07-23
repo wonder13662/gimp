@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.141. 균등한 구획 분할(Split Segment Uniformly)](./90-04-0141-split_segment_uniformly.md)
 
 [⬅️ 이전: 90.4.139. 그라디언트 편집기(Custom Gradient)](./90-04-0139-gradient_editor.md)
 
