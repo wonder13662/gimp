@@ -5,6 +5,13 @@
 #### [그림 90.4.139.a145.6. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획의 중점을 다시 가운데로` (Windows) (우리말)](./90-04-0139-gradient_editor.md#90-04-139-a145-06)
 <img width="471" height="586" alt="90-04-139-a145-06" src="https://github.com/user-attachments/assets/207e3a6c-e639-44c7-837a-b92cb57f3eec" />
 
+`구획의 중점을 다시 가운데로(Re-center Segment's midpoint)` 메뉴를 누르면, 선택한 범위 안의 각 [구획(Segment)](./19-glossaryx-segment.md)의 중점(하얀색 삼각형)이 가운데로 옮겨집니다.
+
+<a id="90-04-139-a145-06-01"></a>
+
+#### [영상 90.4.139.a145.6.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획의 중점을 다시 가운데로` (Windows) (우리말)](./90-04-0139-gradient_editor.md#90-04-139-a145-06-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d89e5633-adf7-4856-bec2-bb9408891e82"></video>
+
 ***
 
 ## 다른 페이지로 가기

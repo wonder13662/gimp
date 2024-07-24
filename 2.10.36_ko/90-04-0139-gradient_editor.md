@@ -105,7 +105,7 @@
 
 <a id="90-04-139-a114"></a>
 
-#### 영상 90.4.139.a114. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `제어 객체 옮기기`: 끝점(검은색 삼각형), 중간점(하얀색 삼각형) 옮기기 (Windows) (우리말)
+#### 영상 90.4.139.a114. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `제어 객체 옮기기`: 끝점(검은색 삼각형), 중점(하얀색 삼각형) 옮기기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6cb50a31-9b4b-499f-930f-2f6efc17a0ee"></video>
 
 [15.3.5.3.2.3. 범위 선택과 제어 슬라이더(Range Selection/Control Slider) - 영상 90.4.139.a114](./15-03-05-03-02-03-range_selection_n_control_slider.md#90-04-139-a114)
@@ -643,6 +643,13 @@
 <img width="471" height="586" alt="90-04-139-a145-06" src="https://github.com/user-attachments/assets/207e3a6c-e639-44c7-837a-b92cb57f3eec" />
 
 [15.3.5.3.3.3.6. 구획의 중점을 다시 가운데로(Re-center Segment's midpoint) - 그림 90.4.139.a145.6](./15-03-05-03-03-03-06-recenter_segment_midpoint.md#90-04-139-a145-06)
+
+<a id="90-04-139-a145-06-01"></a>
+
+#### 영상 90.4.139.a145.6.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획의 중점을 다시 가운데로` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d89e5633-adf7-4856-bec2-bb9408891e82"></video>
+
+[15.3.5.3.3.3.6. 구획의 중점을 다시 가운데로(Re-center Segment's midpoint) - 영상 90.4.139.a145.6.1](./15-03-05-03-03-03-06-recenter_segment_midpoint.md#90-04-139-a145-06-01)
 
 <a id="90-04-139-a145-07"></a>
 
