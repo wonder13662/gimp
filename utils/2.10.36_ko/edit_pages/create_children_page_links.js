@@ -113,4 +113,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }      
 }
-doAsyncJob('15-03-05-03-03-00-the_gradient_editor_pop_up_menu.md')
+doAsyncJob('15-03-06-04-02-00-using_the_palette_editor.md')
