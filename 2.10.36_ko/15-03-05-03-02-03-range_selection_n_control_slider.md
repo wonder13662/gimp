@@ -16,7 +16,7 @@
 <a id="90-04-139-a113-01"></a>
 
 #### [그림 90.4.139.a113.1. `그라디언트 편집기` 대화상자 → `범위 선택과 제어 슬라이더` → `구획` (Windows) (우리말)](./90-04-0139-gradient_editor.md#90-04-139-a113-01)
-<img width="200" height="224" alt="90-04-139-a113-01" src="https://github.com/user-attachments/assets/b623d628-83ff-4895-9ea5-380862002b6c" />
+<img width="200" height="224" alt="90-04-139-a113-01" src="https://github.com/user-attachments/assets/255f5079-379b-4bdc-9115-6293ef2fc033" />
 
 [구획(segment)](./19-glossaryx-segment.md)는 끝점(검은색 삼각형) 사이의 공간입니다.
 
