@@ -3,7 +3,7 @@
 <a id="90-04-19-a2"></a>
 
 #### [그림 90.4.19.a2. 그라디언트 대화상자 - 전경색과 배경색을 이용하는 그라디언트](./90-04-0019-gradient.md#90-04-19-a2)
-![90-04-19-a2](https://github.com/wonder13662/gimp/assets/15767104/7ebf3b09-7c0e-4cff-892a-a6b1232adae0)
+![90-04-19-a2](https://github.com/user-attachments/assets/e10d2972-dc56-4c10-a8ce-d52480457d0f)
 
 그라디언트 목록에서의 처음의 6개는 [전경색](./19-glossaryx-foreground_color.md)과 [배경색](./19-glossaryx-background_color.md)을 기반으로한 그라디언트입니다.
 
