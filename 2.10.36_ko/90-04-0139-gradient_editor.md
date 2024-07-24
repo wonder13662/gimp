@@ -665,6 +665,34 @@
 
 [15.3.5.3.3.3.7. 구획의 조절점 재배치(Re-distribute Handles in Segment) - 영상 90.4.139.a145.7.1](./15-03-05-03-03-03-07-redistribute_handles_in_segment.md#90-04-139-a145-07-01)
 
+<a id="90-04-139-a145-08"></a>
+
+#### 그림 90.4.139.a145.8. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `색 혼합` (Windows) (우리말)
+<img width="471" height="586" alt="90-04-139-a145-08" src="https://github.com/user-attachments/assets/9d4461b9-8228-47ea-a223-236ef7b79531" />
+
+[15.3.5.3.3.4. 색 혼합(Blending colors) - 그림 90.4.139.a145.8](./15-03-05-03-03-04-00-blending_colors.md#90-04-139-a145-08)
+
+<a id="90-04-139-a145-08-01"></a>
+
+#### 그림 90.4.139.a145.8.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점의 색 혼합` (Windows) (우리말)
+<img width="471" height="586" alt="90-04-139-a145-08-01" src="https://github.com/user-attachments/assets/bfa5592d-6fe9-4524-b3bb-f05e6c7b4983" />
+
+[15.3.5.3.3.4.1. 끝점의 색 혼합(Blend Endpoints' Colors) - 그림 90.4.139.a145.8.1](./15-03-05-03-03-04-01-blend_endpoint_colors.md#90-04-139-a145-08-01)
+
+<a id="90-04-139-a145-08-01-01"></a>
+
+#### 영상 90.4.139.a145.8.1.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점의 색 혼합` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a68d05ba-844d-46c8-90dd-351beaae14fd"></video>
+
+[15.3.5.3.3.4.1. 끝점의 색 혼합(Blend Endpoints' Colors) - 영상 90.4.139.a145.8.1.1](./15-03-05-03-03-04-01-blend_endpoint_colors.md#90-04-139-a145-08-01-01)
+
+<a id="90-04-139-a145-08-02"></a>
+
+#### 그림 90.4.139.a145.8.2. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점의 불투명도 혼합` (Windows) (우리말)
+<img width="471" height="586" alt="90-04-139-a145-08-02" src="https://github.com/user-attachments/assets/164477fd-2e5c-4b8e-8031-c01564023fef" />
+
+[15.3.5.3.3.4.2. 끝점의 불투명도 혼합(Blend Endpoints' Opacity) - 그림 90.4.139.a145.8.2](./15-03-05-03-03-04-02-blend_endpoint_opacity.md#90-04-139-a145-08-02)
+
 ***
 
 ## 다른 페이지로 가기

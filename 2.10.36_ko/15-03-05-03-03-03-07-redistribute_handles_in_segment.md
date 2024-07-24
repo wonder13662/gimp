@@ -16,7 +16,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.3.3.4. 색 섞기(Blending colors)](./15-03-05-03-03-04-00-blending_colors.md)
+[➡️ 다음: 15.3.5.3.3.4. 색 혼합(Blending colors)](./15-03-05-03-03-04-00-blending_colors.md)
 
 [⬅️ 이전: 15.3.5.3.3.3.6. 구획의 중점을 다시 가운데로(Re-center Segment's midpoint)](./15-03-05-03-03-03-06-recenter_segment_midpoint.md)
 
