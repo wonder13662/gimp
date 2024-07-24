@@ -9,6 +9,8 @@
 
 ## 관련 정보
 
+[14.3.5. 그라디언트(Gradient)](./14-03-05-00-gradient.md)
+
 [15.3.5. 그라디언트 대화상자(Gradient dialog)](./15-03-05-00-gradient_dialog.md)
 
 [Gimp-Forum.net: The "look" of gradients](https://www.gimp-forum.net/Thread-The-look-of-gradients)
