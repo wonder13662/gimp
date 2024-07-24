@@ -658,6 +658,13 @@
 
 [15.3.5.3.3.3.7. 구획의 조절점 재배치(Re-distribute Handles in Segment) - 그림 90.4.139.a145.7](./15-03-05-03-03-03-07-redistribute_handles_in_segment.md#90-04-139-a145-07)
 
+<a id="90-04-139-a145-07-01"></a>
+
+#### 영상 90.4.139.a145.7.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획의 조절점 재배치` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/3750c25a-065f-41e4-a3b4-b0ed69b33664"></video>
+
+[15.3.5.3.3.3.7. 구획의 조절점 재배치(Re-distribute Handles in Segment) - 영상 90.4.139.a145.7.1](./15-03-05-03-03-03-07-redistribute_handles_in_segment.md#90-04-139-a145-07-01)
+
 ***
 
 ## 다른 페이지로 가기
