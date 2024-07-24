@@ -29,7 +29,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.3.5. 그라디언트 편집기 사용 예제(Using Example for the Gradient editor)](./15-03-05-03-05-using_example_for_the_gradient_editor.md)
+[➡️ 다음: 15.3.6. 팔레트 대화상자(Palettes dialog)](./15-03-06-00-palettes-dialog.md)
 
 [⬅️ 이전: 15.3.5.3.3.4.2. 끝점의 불투명도 혼합(Blend Endpoints' Opacity)](./15-03-05-03-03-04-02-blend_endpoint_opacity.md)
 

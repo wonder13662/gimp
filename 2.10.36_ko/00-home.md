@@ -2318,8 +2318,6 @@
 
 [15.3.5.3.4. 활성 그라디언트 편집(Edit Active Gradient)](./15-03-05-03-04-edit_active_gradient.md)
 
-[15.3.5.3.5. 그라디언트 편집기 사용 예제(Using Example for the Gradient editor)](./15-03-05-03-05-using_example_for_the_gradient_editor.md)
-
 [15.3.6. 팔레트 대화상자(Palettes dialog)](./15-03-06-00-palettes-dialog.md)
 
 [15.3.6.1. Activating the dialog](./15-03-06-01-activating_the_dialog.md)
