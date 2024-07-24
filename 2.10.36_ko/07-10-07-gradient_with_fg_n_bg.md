@@ -7,6 +7,10 @@
 
 그라디언트 목록에서의 처음의 6개는 [전경색](./19-glossaryx-foreground_color.md)과 [배경색](./19-glossaryx-background_color.md)을 기반으로한 그라디언트입니다.
 
+참고로 그라디언트 목록에서 가장 먼저 보이는 [Custom](./14-03-05-04-04-custom_gradient.md) 그라디언트는 전경색과 배경색에 영향을 받지 않습니다.
+
+이에 대해서는 [14.3.5.4.4. 커스텀 그라디언트(Custom Gradient)](./14-03-05-04-04-custom_gradient.md)를 참고해주세요.
+
 <a id="07-10-07-s1"></a>
 
 ## 1. 전경색에서 배경색으로(딱딱한 가장자리)
