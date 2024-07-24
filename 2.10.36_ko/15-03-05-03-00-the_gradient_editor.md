@@ -89,7 +89,7 @@ GIMP(김프)에서 기본 제공되는 그라디언트를 복제한 그라디언
 
 [15.3.5.3.3.4.2. 끝점의 불투명도 혼합(Blend Endpoints' Opacity)](./15-03-05-03-03-04-02-blend_endpoint_opacity.md)
 
-[15.3.5.3.4. 활성화 그라디언트 편집(Edit Active Gradient)](./15-03-05-03-04-edit_active_gradient.md)
+[15.3.5.3.4. 활성 그라디언트 편집(Edit Active Gradient)](./15-03-05-03-04-edit_active_gradient.md)
 
 [15.3.5.3.5. 그라디언트 편집기 사용 예제(Using Example for the Gradient editor)](./15-03-05-03-05-using_example_for_the_gradient_editor.md)
 

@@ -16,7 +16,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.5.3.4. 활성화 그라디언트 편집(Edit Active Gradient)](./15-03-05-03-04-edit_active_gradient.md)
+[➡️ 다음: 15.3.5.3.4. 활성 그라디언트 편집(Edit Active Gradient)](./15-03-05-03-04-edit_active_gradient.md)
 
 [⬅️ 이전: 15.3.5.3.3.4.1. 끝점의 색 혼합(Blend Endpoints' Colors)](./15-03-05-03-03-04-01-blend_endpoint_colors.md)
 

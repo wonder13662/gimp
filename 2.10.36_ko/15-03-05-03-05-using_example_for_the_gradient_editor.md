@@ -6,7 +6,7 @@
 
 [➡️ 다음: 15.3.6. 팔레트 대화상자(Palettes dialog)](./15-03-06-00-palettes-dialog.md)
 
-[⬅️ 이전: 15.3.5.3.4. 활성화 그라디언트 편집(Edit Active Gradient)](./15-03-05-03-04-edit_active_gradient.md)
+[⬅️ 이전: 15.3.5.3.4. 활성 그라디언트 편집(Edit Active Gradient)](./15-03-05-03-04-edit_active_gradient.md)
 
 [⬆️ 위: 15.3.5.3. 그라디언트 편집기(The Gradient Editor)](./15-03-05-03-00-the_gradient_editor.md)
 

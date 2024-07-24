@@ -700,6 +700,27 @@
 
 [15.3.5.3.3.4.2. 끝점의 불투명도 혼합(Blend Endpoints' Opacity) - 영상 90.4.139.a145.8.2.1](./15-03-05-03-03-04-02-blend_endpoint_opacity.md#90-04-139-a145-08-02-01)
 
+<a id="90-04-139-a145-09"></a>
+
+#### 그림 90.4.139.a145.9. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `활성 그라디언트 편집` (Windows) (우리말)
+<img width="471" height="586" alt="90-04-139-a145-09" src="https://github.com/user-attachments/assets/3acc2319-1705-4dea-a998-1037db0a3a69" />
+
+[15.3.5.3.4. 활성 그라디언트 편집(Edit Active Gradient) - 그림 90.4.139.a145.9](./15-03-05-03-04-edit_active_gradient.md#90-04-139-a145-09)
+
+<a id="90-04-139-a145-09-01"></a>
+
+#### 영상 90.4.139.a145.9.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `활성 그라디언트 편집` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f149e70a-c0f3-4a07-bc71-f4fad94b7a81"></video>
+
+[15.3.5.3.4. 활성 그라디언트 편집(Edit Active Gradient) - 영상 90.4.139.a145.9.1](./15-03-05-03-04-edit_active_gradient.md#90-04-139-a145-09-01)
+
+<a id="90-04-139-a145-09-02"></a>
+
+#### 영상 90.4.139.a145.9.2. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `활성 그라디언트 편집`: 체크박스 꺼진 경우의 그라디언트 직접 설정 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/be5146fc-4c76-42ee-bf9d-f1b92ee05558"></video>
+
+[15.3.5.3.4. 활성 그라디언트 편집(Edit Active Gradient) - 영상 90.4.139.a145.9.2](./15-03-05-03-04-edit_active_gradient.md#90-04-139-a145-09-02)
+
 ***
 
 ## 다른 페이지로 가기
