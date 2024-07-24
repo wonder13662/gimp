@@ -1,10 +1,12 @@
 # 7. GIMP(김프)로 그리기
 
+***
+
 ## 하위 페이지
 
 [7.1. 선택](./07-01-00-the-selection.md)
 
-[7.1.1. 페더링](./07-01-01-feathering.md)
+[7.1.1. 페더링(Feathering)](./07-01-01-feathering.md)
 
 [7.1.2. 부분적으로 투명한 선택 만들기](./07-01-02-making_a_selection_partially_transparent.md)
 
@@ -17,6 +19,10 @@
 [7.2.1.1.1. 선택 외곽선을 옮기거나 크기 바꾸기](./07-02-01-01-01-moving_and_resizing_the_selection_outline.md)
 
 [7.2.1.1.2. 이미지 콘텐츠의 선택 영역을 옮기기](./07-02-01-01-02-moving_the_selection_with_the_image_contents.md)
+
+[7.2.1.2. 다른 선택 도구들을 옮기기](./07-02-01-02-moving_using_other_selection_tools.md)
+
+[7.2.1.3. 선택을 옮기는 또다른 방법](./07-02-01-03-a_different_method_of_moving_a_selection.md)
 
 [7.2.2. 선택 더하기/빼기](./07-02-02-adding-or-subtracting-selections.md)
 
@@ -68,7 +74,7 @@
 
 [7.8.2.1. 1차원 이미지 파이프(One diemnsion image pipe)](./07-08-02-01-one_dimension_image_pipe.md)
 
-[7.8.2.2. 3차원 이미지 호스(A 3 dimension image hose)](./07-08-02-02-three_dimension_image_hose.md)
+[7.8.2.2. 3차원 이미지 호스(A three dimension image hose)](./07-08-02-02-three_dimension_image_hose.md)
 
 [7.9. 붓 크기 바꾸기](./07-09-00-changing-brush-size.md)
 
@@ -76,7 +82,29 @@
 
 [7.9.2. 새 붓 빨리 만들기](./07-09-02-creating-a-brush-quickly.md)
 
-[7.10. 그라디언트](./07-10-gradients.md)
+[7.10. 그라디언트](./07-10-00-gradients.md)
+
+[7.10.1. 그라디언트로 칠하기(Painting with a grandient)](./07-10-01-painting_with_a_gradient.md)
+
+[7.10.2. 그라디언트 맵 필터(The Gradient Map Filter)](./07-10-02-the_gradient_map_filter.md)
+
+[7.10.3. 그라디언트 대화상자 사용하기](./07-10-03-using_the_gradient_dialog.md)
+
+[7.10.4. 지금 쓰고있는 그라디언트 확인하기(Current Gradient)](./07-10-04-current_gradient.md)
+
+[7.10.5. 예제 1: 선택에 그라디언트 적용하기(Put a Gradient in a Selection)](./07-10-05-example_put_a_gradient_in_a_selection.md)
+
+[7.10.6. 예제 2: 그라디언트로 칠하기(Painting with a gradient)](./07-10-06-example_painting_with_a_gradient.md)
+
+[7.10.7. 전경색과 배경색을 이용하는 그라디언트](./07-10-07-gradient_with_fg_n_bg.md)
+
+[7.10.8. 그라디언트의 투명도 변화](./07-10-08-gradient_with_opacity.md)
+
+[7.10.9. 커스텀 그라디언트 ](./07-10-09-custom_gradient.md)
+
+[7.10.10. 그라디언트 파일의 위치](./07-10-10-gradient_file_location.md)
+
+[7.10.11. `.svg` 포맷 파일 불러오기](./07-10-11-import_svg.md)
 
 [7.11. 무늬(Pattern)](./07-11-patterns.md)
 

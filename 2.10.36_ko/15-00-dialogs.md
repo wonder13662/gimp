@@ -590,13 +590,13 @@
 
 [15.3.6.1. Activating the dialog](./15-03-06-01-activating_the_dialog.md)
 
-[15.3.6. Using the Palettes dialog](./15-03-06-02-using_the_palettes_dialog.md)
+[15.3.6. Using the Palettes dialog](./15-03-06-02-00-using_the_palettes_dialog.md)
 
-[15.3.6.3. The Palettes context menu](./15-03-06-03-the_palettes_context_menu.md)
+[15.3.6.3. The Palettes context menu](./15-03-06-03-00-the_palettes_context_menu.md)
 
-[15.3.6.4. Palette Editor](./15-03-06-04-palette_editor.md)
+[15.3.6.4. Palette Editor](./15-03-06-04-00-palette_editor.md)
 
-[15.3.6.5. The Palette Editor pop-menu](./15-03-06-05-the_palette_editor_pop_menu.md)
+[15.3.6.5. The Palette Editor pop-menu](./15-03-06-05-00-the_palette_editor_pop_menu.md)
 
 [15.3.7. 태그(Tagging)](./15-03-07-tagging.md)
 

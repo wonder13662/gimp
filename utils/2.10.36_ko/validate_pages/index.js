@@ -35,12 +35,12 @@ const doAsyncJob = async () => {
     }, new Set())
 
     // 1-4-1. 시작과 끝 페이지를 지정해서 그 범위 안의 모든 페이지를 검사
-    // const 검사대상_시작_파일_번호 = files.indexOf('00-home.md')
-    const 검사대상_시작_파일_번호 = files.indexOf('15-03-04-04-the_clipboard_pattern.md')
+    const 검사대상_시작_파일_번호 = files.indexOf('00-home.md')
+    // const 검사대상_시작_파일_번호 = files.indexOf('07-09-02-creating-a-brush-quickly.md')
     if (검사대상_시작_파일_번호 === -1) {
       throw new Error('첫번째 검사 대상 파일이 유효하지 않습니다.')
     }
-    const 검사대상_마지막_파일_번호 = files.indexOf('15-03-05-03-04-edit_active_gradient.md')
+    const 검사대상_마지막_파일_번호 = files.indexOf('15-03-06-00-palettes-dialog.md')
     if (검사대상_마지막_파일_번호 === -1) {
       throw new Error('마지막 검사 대상 파일이 유효하지 않습니다.')
     }

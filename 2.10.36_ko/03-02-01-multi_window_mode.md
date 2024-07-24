@@ -18,7 +18,7 @@
 <a id="03-02-01-s1"></a>
 
 ## 1. 도구상자(Toolbox)
-여러 가지 도구들을 선택할 수 있는 아이콘들이 모아져 있습니다. 그리고 전경색(Foreground color)/배경색(Background color)이 표시됩니다. [붓(Brushes)](./07-06-00-brushes.md), [무늬(Patterns)](./07-11-patterns.md), [그라디언트(Gradient)](./07-10-gradients.md), 현재 이미지의 아이콘 등을 추가할 수도 있습니다. `GIMP` → `기본 설정(Settings...)` → `인터페이스(Interface)` → `도구상자(Toolbox)` → `모양새(Appearance)`를 이용하여 추가로 표시할 수 있는 항목들을 표시하거나 숨길 수 있습니다.
+여러 가지 도구들을 선택할 수 있는 아이콘들이 모아져 있습니다. 그리고 전경색(Foreground color)/배경색(Background color)이 표시됩니다. [붓(Brushes)](./07-06-00-brushes.md), [무늬(Patterns)](./07-11-patterns.md), [그라디언트(Gradient)](./07-10-00-gradients.md), 현재 이미지의 아이콘 등을 추가할 수도 있습니다. `GIMP` → `기본 설정(Settings...)` → `인터페이스(Interface)` → `도구상자(Toolbox)` → `모양새(Appearance)`를 이용하여 추가로 표시할 수 있는 항목들을 표시하거나 숨길 수 있습니다.
 
 <a id="90-02-06-03-a201"></a>
 

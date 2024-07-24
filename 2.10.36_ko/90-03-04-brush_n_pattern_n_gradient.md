@@ -14,7 +14,7 @@
 
 [3.2.3. 도구상자(The toolbox) - 그림 90.3.4.a2](./03-02-03-the-toolbox.md#90-03-04-a2)
 
-[7.10. 그라디언트 - 그림 90.3.4.a2](./07-10-gradients.md#90-03-04-a2)
+[7.10.4. 지금 쓰고있는 그라디언트 확인하기(Current Gradient) - 그림 90.3.4.a2](./07-10-04-current_gradient.md#90-03-04-a2)
 
 [15.3.5.1. 그라디언트 대화상자 활성화하기(Activating the Gradient dialog) - 그림 90.3.4.a2](./15-03-05-01-activating_the_dialog.md#90-03-04-a2)
 

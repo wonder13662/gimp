@@ -13,7 +13,7 @@
 
 [3.2.3. 도구상자(The toolbox) - 4. 붓/무늬/그라디언트(Brush/Pattern/Gradient)](./03-02-03-the-toolbox.md#03-02-01-s4)
 
-[7.10. 그라디언트](./07-10-gradients.md)
+[7.10. 그라디언트](./07-10-00-gradients.md)
 
 [7.11. 무늬(Pattern)](./07-11-patterns.md)
 

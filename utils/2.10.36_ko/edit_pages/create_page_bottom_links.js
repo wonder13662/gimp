@@ -143,4 +143,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('15-03-06-05-08-edit_active_palette.md')
+doAsyncJob('15-03-06-02-01-02-list_mode.md')

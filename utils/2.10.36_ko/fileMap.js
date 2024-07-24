@@ -460,7 +460,7 @@ module.exports = {
         '7.9.2. 새 붓 빨리 만들기'
       ],
       [
-        '07-10-gradients.md', 
+        '07-10-00-gradients.md', 
         '7.10. Gradients',
         '7.10. 그라디언트'
       ],
