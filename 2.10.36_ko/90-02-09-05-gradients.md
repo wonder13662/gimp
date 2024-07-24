@@ -13,13 +13,17 @@
 <a id="90-02-09-05-a2"></a>
 
 #### 그림 90.2.9.5.a2. `기본 설정` → `폴더` → `그라디언트` (Windows) (영어)
-![90-02-09-05-gradient-folders(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/9eb4e4be-332a-48de-a9ed-b08631aabeff)
+![90-02-09-05-a2](https://github.com/wonder13662/gimp/assets/15767104/9eb4e4be-332a-48de-a9ed-b08631aabeff)
+
+<a id="90-02-09-05-a3"></a>
 
 #### 그림 90.2.9.5.a3. `기본 설정` → `폴더` → `그라디언트` (Mac) (우리말)
-![90-02-09-05-gradient-folders(mac)(ko)(50%)](https://github.com/wonder13662/gimp/assets/15767104/e2b93cd0-11c1-46b1-a5bd-2d11af384127)
+![90-02-09-05-a3](https://github.com/wonder13662/gimp/assets/15767104/e2b93cd0-11c1-46b1-a5bd-2d11af384127)
+
+<a id="90-02-09-05-a4"></a>
 
 #### 그림 90.2.9.5.a4. `기본 설정` → `폴더` → `그라디언트` (Mac) (영어)
-![90-02-09-05-gradient-folders(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/4899c1f1-2931-48ba-b705-cf940768ef03)
+![90-02-09-05-a4](https://github.com/wonder13662/gimp/assets/15767104/4899c1f1-2931-48ba-b705-cf940768ef03)
 
 ***
 
