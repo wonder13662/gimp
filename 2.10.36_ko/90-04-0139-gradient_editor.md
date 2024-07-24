@@ -693,6 +693,13 @@
 
 [15.3.5.3.3.4.2. 끝점의 불투명도 혼합(Blend Endpoints' Opacity) - 그림 90.4.139.a145.8.2](./15-03-05-03-03-04-02-blend_endpoint_opacity.md#90-04-139-a145-08-02)
 
+<a id="90-04-139-a145-08-02-01"></a>
+
+#### 영상 90.4.139.a145.8.2.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `끝점의 불투명도 혼합` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6d8e17e2-e93d-4f2b-9e29-d8ac707f3d34"></video>
+
+[15.3.5.3.3.4.2. 끝점의 불투명도 혼합(Blend Endpoints' Opacity) - 영상 90.4.139.a145.8.2.1](./15-03-05-03-03-04-02-blend_endpoint_opacity.md#90-04-139-a145-08-02-01)
+
 ***
 
 ## 다른 페이지로 가기
