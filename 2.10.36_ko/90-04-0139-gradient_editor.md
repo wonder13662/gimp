@@ -264,6 +264,8 @@
 #### 그림 90.4.139.a132.5. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `왼쪽 색타입` → `배경색(투명)` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ad6152ff-8853-46ef-bfc8-96b74b01b093"></video>
 
+[15.3.5.3.3.1.1. 왼쪽과 오른쪽의 색 타입(Left/Right color type) - 그림 90.4.139.a132.5](./15-03-05-03-03-01-01-left_n_right_color_type.md#90-04-139-a132-05)
+
 <a id="90-04-139-a133"></a>
 
 #### 그림 90.4.139.a133. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `오른쪽 색타입` (Windows) (우리말)

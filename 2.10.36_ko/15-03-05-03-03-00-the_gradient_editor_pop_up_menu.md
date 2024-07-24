@@ -68,17 +68,17 @@
 
 [15.3.5.3.3.3.4. 균등한 구획 분할(Split Segment Uniformly)](./15-03-05-03-03-03-04-split_segment_uniformly.md)
 
-[15.3.5.3.3.3.5. 그라디언트 구획의 줌심점을 가운데로 옮기기(Re-center Segment's midpoint)](./15-03-05-03-03-03-05-recenter_segment_midpoint.md)
+[15.3.5.3.3.3.5. 구획 삭제(Delete Segment)](./15-03-05-03-03-03-05-delete_segment.md)
 
-[15.3.5.3.3.3.6. 그라디언트 구획의 핸들을 균등하게 배치하기(Re-distribute Handles in Segment)](./15-03-05-03-03-03-06-redistribute_handles_in_segment.md)
+[15.3.5.3.3.3.6. 구획의 중점을 다시 가운데로(Re-center Segment's midpoint)](./15-03-05-03-03-03-06-recenter_segment_midpoint.md)
+
+[15.3.5.3.3.3.7. 구획의 조절점 재배치(Re-distribute Handles in Segment)](./15-03-05-03-03-03-07-redistribute_handles_in_segment.md)
 
 [15.3.5.3.3.4. 색 혼합(Blending colors)](./15-03-05-03-03-04-00-blending_colors.md)
 
 [15.3.5.3.3.4.1. 끝점의 색 혼합(Blend Endpoints' Colors)](./15-03-05-03-03-04-01-blend_endpoint_colors.md)
 
 [15.3.5.3.3.4.2. 끝점의 불투명도 혼합(Blend Endpoints' Opacity)](./15-03-05-03-03-04-02-blend_endpoint_opacity.md)
-
-[15.3.5.3.3.4.3. 활성화 그라디언트 편집(Edit Active Gradient)](./15-03-05-03-03-04-03-edit_active_gradient.md)
 
 ***
 
