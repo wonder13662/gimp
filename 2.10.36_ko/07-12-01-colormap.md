@@ -13,7 +13,7 @@ GIMP(김프)는 두 가지 유형의 팔레트를 씁니다.
 <a id="90-04-20-a1"></a>
 
 #### [그림 90.4.20.a1. 팔레트 대화상자](./90-04-0020-palette.md#90-04-20-a1)
-![90-04-20-a1](https://github.com/wonder13662/gimp/assets/15767104/1f14c961-9eaa-4209-8d9f-1cd3ee9c393e)
+<img width="850" height="328" alt="90-04-20-a1" src="https://github.com/user-attachments/assets/6eb5f1c5-b2d5-4cf6-bccc-9aae83656796" />
 
 <a id="07-12-01-s1-02"></a>
 
