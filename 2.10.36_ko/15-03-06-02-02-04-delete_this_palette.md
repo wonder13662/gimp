@@ -1,5 +1,10 @@
 # 15.3.6.2.2.4. 팔레트 삭제(Delete this palette)
 
+<a id="90-04-20-a141-04"></a>
+
+#### [그림 90.4.20.a141.4. 팔레트 대화상자 → `팔레트 대화상자 버튼들` → `팔레트 삭제` (Windows) (우리말)](./90-04-0020-palette.md#90-04-20-a141-04)
+<img width="200" height="224" alt="90-04-20-a141-04" src="https://github.com/user-attachments/assets/89223508-f216-4d82-a43a-9ee8f624f464" />
+
 ***
 
 ## 다른 페이지로 가기

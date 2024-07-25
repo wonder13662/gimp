@@ -1,5 +1,10 @@
 # 15.3.6.2.2.1. 팔레트 편집(Edit this palette)
 
+<a id="90-04-20-a141-01"></a>
+
+#### [그림 90.4.20.a141.1. 팔레트 대화상자 → `팔레트 대화상자 버튼들` → `팔레트 편집` (Windows) (우리말)](./90-04-0020-palette.md#90-04-20-a141-01)
+<img width="200" height="224" alt="90-04-20-a141-01" src="https://github.com/user-attachments/assets/0e99e106-07eb-49a1-9c51-8ae55e1b7f7d" />
+
 ***
 
 ## 다른 페이지로 가기

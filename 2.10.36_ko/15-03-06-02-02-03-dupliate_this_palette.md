@@ -1,5 +1,10 @@
 # 15.3.6.2.2.3. 팔레트 복제(Duplicate this palette)
 
+<a id="90-04-20-a141-03"></a>
+
+#### [그림 90.4.20.a141.3. 팔레트 대화상자 → `팔레트 대화상자 버튼들` → `팔레트 복제` (Windows) (우리말)](./90-04-0020-palette.md#90-04-20-a141-03)
+<img width="200" height="224" alt="90-04-20-a141-03" src="https://github.com/user-attachments/assets/a761e450-604e-40ad-a920-cd943df04bed" />
+
 ***
 
 ## 다른 페이지로 가기

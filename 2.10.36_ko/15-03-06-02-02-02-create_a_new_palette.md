@@ -1,5 +1,10 @@
 # 15.3.6.2.2.2. 새 팔레트(Create a new palette)
 
+<a id="90-04-20-a141-02"></a>
+
+#### [그림 90.4.20.a141.2. 팔레트 대화상자 → `팔레트 대화상자 버튼들` → `새 팔레트` (Windows) (우리말)](./90-04-0020-palette.md#90-04-20-a141-02)
+<img width="200" height="224" alt="90-04-20-a141-02" src="https://github.com/user-attachments/assets/54ec766e-5f9c-4c4b-a77a-02d66ea78c58" />
+
 ***
 
 ## 다른 페이지로 가기

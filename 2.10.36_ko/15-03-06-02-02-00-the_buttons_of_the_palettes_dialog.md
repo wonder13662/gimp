@@ -1,5 +1,10 @@
 # 15.3.6.2.2. 팔레트 대화상자 버튼들(The Buttons of the Palettes Dialog)
 
+<a id="90-04-20-a141"></a>
+
+#### [그림 90.4.20.a141. 팔레트 대화상자 → `팔레트 대화상자 버튼들` (Windows) (우리말)](./90-04-0020-palette.md#90-04-20-a141)
+<img width="200" height="224" alt="90-04-20-a141" src="https://github.com/user-attachments/assets/7d5794b4-1e26-4150-872b-ca1f09d1f0f6" />
+
 ***
 
 ## 하위 페이지
