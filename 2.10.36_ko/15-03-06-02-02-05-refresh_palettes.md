@@ -5,6 +5,8 @@
 #### [그림 90.4.20.a141.5. 팔레트 대화상자 → `팔레트 대화상자 버튼들` → `팔레트 새로 고침` (Windows) (우리말)](./90-04-0020-palette.md#90-04-20-a141-05)
 <img width="200" height="224" alt="90-04-20-a141-05" src="https://github.com/user-attachments/assets/f38461e4-3596-4772-8e47-f6fe8621a7aa" />
 
+[15.3.6.3.9. 팔레트 새로 고침(Refresh Palettes)](./15-03-06-03-09-refresh_palettes.md)를 참고해주세요.
+
 ***
 
 ## 다른 페이지로 가기
