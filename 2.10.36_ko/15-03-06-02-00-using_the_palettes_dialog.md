@@ -1,5 +1,70 @@
 # 15.3.6.2. 팔레트 대화상자 사용하기(Using the Palettes dialog)
 
+<a id="90-04-20-a101"></a>
+
+#### [그림 90.4.20.a101. 팔레트 대화상자 (Windows) (우리말)](./90-04-0020-palette.md#90-04-20-a101)
+<img width="200" height="224" alt="90-04-20-a101" src="https://github.com/user-attachments/assets/b6470780-fee7-465d-93f9-1313a02b18df" />
+
+[다른 운영체제와 언어의 '팔레트 대화상자' 확인하기](./90-04-0020-palette.md#90-04-20-a102)
+
+<a id="15-03-06-02-s1"></a>
+
+## 1. 팔레트 선택하기
+
+팔레트 대화상자에서 팔레트를 클릭하면 [팔레트 편집기](./15-03-06-04-00-palette_editor.md)가 열립니다.
+
+<a id="90-04-60-a105"></a>
+
+#### [영상 90.4.60.a105. `팔레트` 대화상자에서 `팔레트 편집기` 대화상자 열기 (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a105)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8f8431a6-e746-4dc2-bb05-7ed2e4adc1e4"></video>
+
+[팔레트 편집기](./15-03-06-04-00-palette_editor.md)가 열린 상태에서 팔레트 대화상자를 열고, 방향키로 선택한 팔레트를 바꿀 수 있습니다.
+
+<a id="90-04-20-a111"></a>
+
+#### [영상 90.4.20.a111. 팔레트 대화상자: 방향키로 팔레트 선택하기 (Windows) (우리말)](./90-04-0020-palette.md#90-04-20-a111)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/cbdb983e-0479-4df3-ba00-b18e3d20ff4f"></video>
+
+<a id="15-03-06-02-s2"></a>
+
+## 2. `팔레트 편집기` 대화상자에서 전경색 바꾸기
+
+[팔레트 편집기](./15-03-06-04-00-palette_editor.md) 안에서 색상 타일을 클릭하면 [전경색](./19-glossaryx-foreground_color.md)이 바뀝니다.
+
+<a id="90-04-60-a106"></a>
+
+#### [영상 90.4.60.a106. `팔레트 편집기` 대화상자에서 전경색 바꾸기 (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a106)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ca43d56d-6833-41fe-a46b-b5107ba50a35"></video>
+
+<a id="15-03-06-02-s3"></a>
+
+## 3. `팔레트 편집기` 대화상자에서 배경색 바꾸기
+
+[팔레트 편집기](./15-03-06-04-00-palette_editor.md) 안에서 Ctrl(⌘)을 누른채로 색상 타일을 클릭하면 [배경색](./19-glossaryx-background_color.md)이 바뀝니다.
+
+<a id="90-04-60-a107"></a>
+
+#### [영상 90.4.60.a107. `팔레트 편집기` 대화상자에서 배경색 바꾸기 (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a107)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5c521c2d-36df-4f9f-91c2-7d6d30c8d3b4"></video>
+
+<a id="15-03-06-02-s4"></a>
+
+## 4. 팔레트 이름 바꾸기
+팔레트 대화상자의 [목록 모드](./15-03-06-02-01-02-list_mode.md)에서 팔레트의 이름을 클릭하면 이름을 바로 수정할 수 있습니다.
+
+이름을 수정하는 것은 GIMP(김프)에서 기본 제공되는 팔레트의 복사본이거나 사용자가 직접 만든 팔레트일 때만 가능합니다.
+
+<a id="90-04-20-a112"></a>
+
+#### [영상 90.4.20.a112. 팔레트 대화상자: 목록 모드에서 팔레트 이름 바꾸기  (Windows) (우리말)](./90-04-0020-palette.md#90-04-20-a112)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/919c2160-f6f4-4845-800a-461076d02c8f"></video>
+
+***
+
+## 관련 정보
+
+[7.12. 팔레트](./07-12-00-palettes.md)
+
 ***
 
 ## 하위 페이지

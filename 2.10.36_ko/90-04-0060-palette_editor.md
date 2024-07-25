@@ -26,6 +26,8 @@
 
 [7.12. 팔레트 - 영상 90.4.60.a105](./07-12-00-palettes.md#90-04-60-a105)
 
+[15.3.6.2. 팔레트 대화상자 사용하기(Using the Palettes dialog) - 영상 90.4.60.a105](./15-03-06-02-00-using_the_palettes_dialog.md#90-04-60-a105)
+
 <a id="90-04-60-a106"></a>
 
 #### 영상 90.4.60.a106. `팔레트 편집기` 대화상자에서 전경색 바꾸기 (Windows) (우리말)
@@ -33,12 +35,16 @@
 
 [7.12. 팔레트 - 영상 90.4.60.a106](./07-12-00-palettes.md#90-04-60-a106)
 
+[15.3.6.2. 팔레트 대화상자 사용하기(Using the Palettes dialog) - 영상 90.4.60.a106](./15-03-06-02-00-using_the_palettes_dialog.md#90-04-60-a106)
+
 <a id="90-04-60-a107"></a>
 
 #### 영상 90.4.60.a107. `팔레트 편집기` 대화상자에서 배경색 바꾸기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5c521c2d-36df-4f9f-91c2-7d6d30c8d3b4"></video>
 
 [7.12. 팔레트 - 영상 90.4.60.a107](./07-12-00-palettes.md#90-04-60-a107)
+
+[15.3.6.2. 팔레트 대화상자 사용하기(Using the Palettes dialog) - 영상 90.4.60.a107](./15-03-06-02-00-using_the_palettes_dialog.md#90-04-60-a107)
 
 ***
 
