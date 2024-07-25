@@ -530,7 +530,7 @@
 <a id="90-04-139-a144-01-01-01"></a>
 
 #### 그림 90.4.139.a144.1.1.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획의 배색 유형` → `옵션 목록` → `RGB`: 그라디언트
-<img width="400" height="30" alt="90-04-139-a144-01-01-01" src="https://github.com/user-attachments/assets/9965e81c-0243-4176-854a-051b7aa286cd" />
+<img width="400" height="30" alt="90-04-139-a144-01-01-01" src="https://github.com/user-attachments/assets/57ea49de-fd37-4e41-be14-95f835581ddf" />
 
 [15.3.5.3.3.2.2. 구획의 배색 유형(Coloring Type for Segment) - 그림 90.4.139.a144.1.1.1](./15-03-05-03-03-02-02-coloring_type_for_segment.md#90-04-139-a144-01-01-01)
 
@@ -544,7 +544,7 @@
 <a id="90-04-139-a144-01-02-01"></a>
 
 #### 그림 90.4.139.a144.1.2.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획의 배색 유형` → `옵션 목록` → `HSV(시계반대방향 색상)`: 그라디언트
-<img width="400" height="30" alt="90-04-139-a144-01-02-01" src="https://github.com/user-attachments/assets/9e6dc2e6-c1e9-4721-8da6-fa8f2d100125" />
+<img width="400" height="30" alt="90-04-139-a144-01-02-01" src="https://github.com/user-attachments/assets/80094d7e-55b9-4871-9d1d-75b0e49546cd" />
 
 [15.3.5.3.3.2.2. 구획의 배색 유형(Coloring Type for Segment) - 그림 90.4.139.a144.1.2.1](./15-03-05-03-03-02-02-coloring_type_for_segment.md#90-04-139-a144-01-02-01)
 
@@ -558,7 +558,7 @@
 <a id="90-04-139-a144-01-03-01"></a>
 
 #### 그림 90.4.139.a144.1.3.1. `그라디언트 편집기` 대화상자 → `탭 메뉴` → `그라디언트 편집기 메뉴` → `구획의 배색 유형` → `옵션 목록` → `HSV(시계방향 색상)`: 그라디언트
-<img width="400" height="30" alt="90-04-139-a144-01-03-01" src="https://github.com/user-attachments/assets/ddff1562-0cbd-475e-a1ce-f0ddb0155707" />
+<img width="400" height="30" alt="90-04-139-a144-01-03-01" src="https://github.com/user-attachments/assets/33c6906b-655f-4d9a-8e64-f73001c1a4a7" />
 
 [15.3.5.3.3.2.2. 구획의 배색 유형(Coloring Type for Segment) - 그림 90.4.139.a144.1.3.1](./15-03-05-03-03-02-02-coloring_type_for_segment.md#90-04-139-a144-01-03-01)
 
