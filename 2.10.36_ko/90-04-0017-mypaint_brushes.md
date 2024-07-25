@@ -215,6 +215,34 @@
 
 [15.3.3. 마이페인트 붓 대화상자(Mypaint brushes dialog) - 영상 90.4.17.a111](./15-03-03-00-mypaint-brushes-dialog.md#90-04-17-a111)
 
+<a id="90-04-17-a121"></a>
+
+#### 그림 90.4.17.a121. '마이페인트 붓' 대화상자 → `탭 메뉴` → `격자로 보기` (Windows) (우리말)
+<img width="195" height="313" alt="90-04-17-a121" src="https://github.com/user-attachments/assets/30ae4721-581f-4d6f-a48e-50af274b2ec7" />
+
+[15.3.3.2.1.1. 격자 모드(Grid mode) - 그림 90.4.17.a121](./15-03-03-02-01-01-grid_mode.md#90-04-17-a121)
+
+<a id="90-04-17-a121-01"></a>
+
+#### 영상 90.4.17.a121.1. '마이페인트 붓' 대화상자 → `탭 메뉴` → `격자로 보기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/088c0424-5bf6-4bf5-9235-c0b2e581c701"></video>
+
+[15.3.3.2.1.1. 격자 모드(Grid mode) - 영상 90.4.17.a121.1](./15-03-03-02-01-01-grid_mode.md#90-04-17-a121-01)
+
+<a id="90-04-17-a122"></a>
+
+#### 그림 90.4.17.a122. '마이페인트 붓' 대화상자 → `탭 메뉴` → `목록으로 보기` (Windows) (우리말)
+<img width="195" height="313" alt="90-04-17-a122" src="https://github.com/user-attachments/assets/a7c13b84-4da2-4459-9725-75ebaa7e885f" />
+
+[15.3.3.2.1.2. 목록 모드(List mode) - 그림 90.4.17.a122](./15-03-03-02-01-02-list_mode.md#90-04-17-a122)
+
+<a id="90-04-17-a122-01"></a>
+
+#### 영상 90.4.17.a122.1. '마이페인트 붓' 대화상자 → `탭 메뉴` → `목록으로 보기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/08005ff7-f696-4c7b-829e-3a4d62cca492"></video>
+
+[15.3.3.2.1.2. 목록 모드(List mode) - 영상 90.4.17.a122.1](./15-03-03-02-01-02-list_mode.md#90-04-17-a122-01)
+
 ***
 
 ## 다른 페이지로 가기
