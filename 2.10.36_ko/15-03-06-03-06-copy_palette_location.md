@@ -1,4 +1,9 @@
-# 15.3.6.3.6. 팔레트 위치 복사하기(Copy Palette Location)
+# 15.3.6.3.6. 팔레트 위치 복사(Copy Palette Location)
+
+<a id="90-04-20-a161-06"></a>
+
+#### [그림 90.4.20.a161.6. 팔레트 대화상자 → `탭 메뉴` → `팔레트 컨텍스트 메뉴` → `팔레트 위치 복사` (Windows)](./90-04-0020-palette.md#90-04-20-a161-06)
+<img width="870" height="508" alt="90-04-20-a161-06" src="https://github.com/user-attachments/assets/58ccd644-0aac-450e-96cf-f00a3c88f38b" />
 
 ***
 

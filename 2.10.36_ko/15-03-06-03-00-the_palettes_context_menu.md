@@ -26,7 +26,7 @@
 ## 2. 파이썬이 설치되어야 사용할 수 있는 메뉴들
 파이썬 v2 이상이 설치되어야 사용할 수 있는 메뉴들은 아래와 같습니다.
 
-- [15.3.6.3.11. 팔레트의 색상의 순서를 오프셋하기(Offset Palette)](./15-03-06-03-11-offset_palette.md)
+- [15.3.6.3.11. 팔레트 오프셋(Offset Palette)](./15-03-06-03-11-offset_palette.md)
 
 - [15.3.6.3.12. 팔레트를 그라디언트로(Palette to Gradient)](./15-03-06-03-12-palette_to_gradient.md)
 
@@ -53,7 +53,7 @@
 
 [15.3.6.3.2. 새 팔레트(New Palette)](./15-03-06-03-02-new_palette.md)
 
-[15.3.6.3.3. 팔레트 불러오기(Import Palette)](./15-03-06-03-03-00-import_palette.md)
+[15.3.6.3.3. 팔레트 가져오기(Import Palette)](./15-03-06-03-03-00-import_palette.md)
 
 [15.3.6.3.3.1. 출처 선택(Select Source)](./15-03-06-03-03-01-select_source.md)
 
@@ -69,7 +69,7 @@
 
 [15.3.6.3.5. 팔레트 합치기(Merge Palette)](./15-03-06-03-05-merge_palette.md)
 
-[15.3.6.3.6. 팔레트 위치 복사하기(Copy Palette Location)](./15-03-06-03-06-copy_palette_location.md)
+[15.3.6.3.6. 팔레트 위치 복사(Copy Palette Location)](./15-03-06-03-06-copy_palette_location.md)
 
 [15.3.6.3.7. 파일 관리자에 표시(Show in File Manager)](./15-03-06-03-07-show_in_file_manager.md)
 
@@ -79,7 +79,7 @@
 
 [15.3.6.3.10. 팔레트 내보내기(Export as)](./15-03-06-03-10-export_as.md)
 
-[15.3.6.3.11. 팔레트의 색상의 순서를 오프셋하기(Offset Palette)](./15-03-06-03-11-offset_palette.md)
+[15.3.6.3.11. 팔레트 오프셋(Offset Palette)](./15-03-06-03-11-offset_palette.md)
 
 [15.3.6.3.12. 팔레트를 그라디언트로(Palette to Gradient)](./15-03-06-03-12-palette_to_gradient.md)
 

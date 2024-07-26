@@ -8,7 +8,7 @@
 
 [⬅️ 이전: 15.3.6.3.3.2. 팔레트 이름(Palette Name)](./15-03-06-03-03-02-palette_name.md)
 
-[⬆️ 위: 15.3.6.3.3. 팔레트 불러오기(Import Palette)](./15-03-06-03-03-00-import_palette.md)
+[⬆️ 위: 15.3.6.3.3. 팔레트 가져오기(Import Palette)](./15-03-06-03-03-00-import_palette.md)
 
 [⬆️ 위: 15.3.6.3. 팔레트 컨텍스트 메뉴(The Palettes context menu)](./15-03-06-03-00-the_palettes_context_menu.md)
 

@@ -1,5 +1,10 @@
 # 15.3.6.3.8. 팔레트 삭제(Delete Palette)
 
+<a id="90-04-20-a161-08"></a>
+
+#### [그림 90.4.20.a161.8. 팔레트 대화상자 → `탭 메뉴` → `팔레트 컨텍스트 메뉴` → `팔레트 삭제` (Windows)](./90-04-0020-palette.md#90-04-20-a161-08)
+<img width="870" height="508" alt="90-04-20-a161-08" src="https://github.com/user-attachments/assets/5439ca69-1225-40b5-8bb2-2040beb3add7" />
+
 ***
 
 ## 다른 페이지로 가기

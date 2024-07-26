@@ -1,4 +1,9 @@
-# 15.3.6.3.3. 팔레트 불러오기(Import Palette)
+# 15.3.6.3.3. 팔레트 가져오기(Import Palette)
+
+<a id="90-04-20-a161-03"></a>
+
+#### [그림 90.4.20.a161.3. 팔레트 대화상자 → `탭 메뉴` → `팔레트 컨텍스트 메뉴` → `팔레트 가져오기` (Windows)](./90-04-0020-palette.md#90-04-20-a161-03)
+<img width="870" height="508" alt="90-04-20-a161-03" src="https://github.com/user-attachments/assets/22390398-841b-4018-a583-6fe70d65b482" />
 
 ***
 

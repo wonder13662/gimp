@@ -1,4 +1,9 @@
-# 15.3.6.3.11. 팔레트의 색상의 순서를 오프셋하기(Offset Palette)
+# 15.3.6.3.11. 팔레트 오프셋(Offset Palette)
+
+<a id="90-04-20-a161-11"></a>
+
+#### [그림 90.4.20.a161.11. 팔레트 대화상자 → `탭 메뉴` → `팔레트 컨텍스트 메뉴` → `팔레트 오프셋` (Windows)](./90-04-0020-palette.md#90-04-20-a161-11)
+<img width="870" height="508" alt="90-04-20-a161-11" src="https://github.com/user-attachments/assets/91e3c106-717d-4ed0-9f43-9adf90bcc73a" />
 
 ***
 
