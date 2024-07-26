@@ -57,13 +57,13 @@ GIMP(김프)에서 기본적으로 제공되는 팔레트가 있습니다.
 
 [15.3.6.3.3. 팔레트 가져오기(Import Palette)](./15-03-06-03-03-00-import_palette.md)
 
-[15.3.6.3.3.1. 출처 선택(Select Source)](./15-03-06-03-03-01-select_source.md)
+[15.3.6.3.3.1. 원본 선택(Select Source)](./15-03-06-03-03-01-select_source.md)
 
 [15.3.6.3.3.2. 팔레트 이름(Palette Name)](./15-03-06-03-03-02-palette_name.md)
 
-[15.3.6.3.3.3. 색상 갯수(Number of colors)](./15-03-06-03-03-03-number_of_colors.md)
+[15.3.6.3.3.3. 색상 수(Number of colors)](./15-03-06-03-03-03-number_of_colors.md)
 
-[15.3.6.3.3.4. 팔레트의 열의 갯수(Columns)](./15-03-06-03-03-04-columns.md)
+[15.3.6.3.3.4. 열(Columns)](./15-03-06-03-03-04-columns.md)
 
 [15.3.6.3.3.5. 간격(Interval)](./15-03-06-03-03-05-interval.md)
 

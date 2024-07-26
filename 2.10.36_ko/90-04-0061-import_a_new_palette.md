@@ -21,6 +21,41 @@
 #### 그림 90.4.61.a104. `새 팔레트 가져오기` 대화상자 (Mac) (영어)
 ![90-04-61-dialog-import_a_new_palette(mac)(ko)(50%)](https://github.com/wonder13662/gimp/assets/15767104/f2eb724c-9380-44c8-8c87-94740826fb88)
 
+<a id="90-04-61-a111"></a>
+
+#### 그림 90.4.61.a111. `새 팔레트 가져오기` 대화상자 → `원본 선택` (Windows) (우리말)
+<img width="532" height="426" alt="90-04-61-a111" src="https://github.com/user-attachments/assets/bee860e7-78a4-4e1a-8b0a-9065a7b51d26" />
+
+[15.3.6.3.3.1. 원본 선택(Select Source) - 그림 90.4.61.a111](./15-03-06-03-03-01-select_source.md#90-04-61-a111)
+
+<a id="90-04-61-a112"></a>
+
+#### 그림 90.4.61.a112. `새 팔레트 가져오기` 대화상자 → `팔레트 이름` (Windows) (우리말)
+<img width="532" height="426" alt="90-04-61-a112" src="https://github.com/user-attachments/assets/f46f76aa-343a-4390-ae3f-fa7f8f2ae5de" />
+
+[15.3.6.3.3.2. 팔레트 이름(Palette Name) - 그림 90.4.61.a112](./15-03-06-03-03-02-palette_name.md#90-04-61-a112)
+
+<a id="90-04-61-a113"></a>
+
+#### 그림 90.4.61.a113. `새 팔레트 가져오기` 대화상자 → `색상 수` (Windows) (우리말)
+<img width="532" height="426" alt="90-04-61-a113" src="https://github.com/user-attachments/assets/5ee26275-c477-4dc8-8e45-2a38f1688b66" />
+
+[15.3.6.3.3.3. 색상 수(Number of colors) - 그림 90.4.61.a113](./15-03-06-03-03-03-number_of_colors.md#90-04-61-a113)
+
+<a id="90-04-61-a114"></a>
+
+#### 그림 90.4.61.a114. `새 팔레트 가져오기` 대화상자 → `열` (Windows) (우리말)
+<img width="532" height="426" alt="90-04-61-a114" src="https://github.com/user-attachments/assets/a365cc70-6ee5-4a35-9ca4-e91e75675314" />
+
+[15.3.6.3.3.4. 열(Columns) - 그림 90.4.61.a114](./15-03-06-03-03-04-columns.md#90-04-61-a114)
+
+<a id="90-04-61-a115"></a>
+
+#### 그림 90.4.61.a115. `새 팔레트 가져오기` 대화상자 → `간격` (Windows) (우리말)
+<img width="532" height="426" alt="90-04-61-a115" src="https://github.com/user-attachments/assets/4dabfa77-1762-4403-9f7d-018cf11215c8" />
+
+[15.3.6.3.3.5. 간격(Interval) - 그림 90.4.61.a115](./15-03-06-03-03-05-interval.md#90-04-61-a115)
+
 ***
 
 ## 다른 페이지로 가기
