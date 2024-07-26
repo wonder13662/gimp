@@ -70,6 +70,13 @@
 
 [15.3.6.3.3.3. 색상 수(Number of colors) - 그림 90.4.61.a113](./15-03-06-03-03-03-number_of_colors.md#90-04-61-a113)
 
+<a id="90-04-61-a113-01"></a>
+
+#### 영상 90.4.61.a113.1. `새 팔레트 가져오기` 대화상자 → `색상 수` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/c5a3efb1-8c3c-4bea-a229-96578e0d4456"></video>
+
+[15.3.6.3.3.3. 색상 수(Number of colors) - 영상 90.4.61.a113.1](./15-03-06-03-03-03-number_of_colors.md#90-04-61-a113-01)
+
 <a id="90-04-61-a114"></a>
 
 #### 그림 90.4.61.a114. `새 팔레트 가져오기` 대화상자 → `열` (Windows) (우리말)
