@@ -98,6 +98,13 @@
 
 [15.3.6.3.3.5. 간격(Interval) - 그림 90.4.61.a115](./15-03-06-03-03-05-interval.md#90-04-61-a115)
 
+<a id="90-04-61-a115-01"></a>
+
+#### 영상 90.4.61.a115.1. `새 팔레트 가져오기` 대화상자 → `간격` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/88669bed-6e3b-48bb-9168-e3fea55eb922"></video>
+
+[15.3.6.3.3.5. 간격(Interval) - 영상 90.4.61.a115.1](./15-03-06-03-03-05-interval.md#90-04-61-a115-01)
+
 ***
 
 ## 다른 페이지로 가기
