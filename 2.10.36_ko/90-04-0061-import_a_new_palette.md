@@ -56,6 +56,13 @@
 
 [15.3.6.3.3.2. 팔레트 이름(Palette Name) - 그림 90.4.61.a112](./15-03-06-03-03-02-palette_name.md#90-04-61-a112)
 
+<a id="90-04-61-a112-01"></a>
+
+#### 영상 90.4.61.a112.1. `새 팔레트 가져오기` 대화상자 → `팔레트 이름`: 중복된 이름에 접미사 번호 붙음 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/27f453b3-398d-4f3e-abb8-ccddfcae4f22"></video>
+
+[15.3.6.3.3.2. 팔레트 이름(Palette Name) - 영상 90.4.61.a112.1](./15-03-06-03-03-02-palette_name.md#90-04-61-a112-01)
+
 <a id="90-04-61-a113"></a>
 
 #### 그림 90.4.61.a113. `새 팔레트 가져오기` 대화상자 → `색상 수` (Windows) (우리말)
