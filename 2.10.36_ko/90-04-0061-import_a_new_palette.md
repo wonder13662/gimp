@@ -28,6 +28,27 @@
 
 [15.3.6.3.3.1. 원본 선택(Select Source) - 그림 90.4.61.a111](./15-03-06-03-03-01-select_source.md#90-04-61-a111)
 
+<a id="90-04-61-a111-01"></a>
+
+#### 영상 90.4.61.a111.1. `새 팔레트 가져오기` 대화상자 → `원본 선택` → `그라디언트` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/97e4729f-d396-4e7c-8e84-abc120a3ff3f"></video>
+
+[15.3.6.3.3.1. 원본 선택(Select Source) - 영상 90.4.61.a111.1](./15-03-06-03-03-01-select_source.md#90-04-61-a111-01)
+
+<a id="90-04-61-a111-02-01"></a>
+
+#### 영상 90.4.61.a111.2.1. `새 팔레트 가져오기` 대화상자 → `원본 선택` → `이미지` → `표본 합치기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/71b6b1d1-7091-4b1f-96a4-f2d8b0509d80"></video>
+
+[15.3.6.3.3.1. 원본 선택(Select Source) - 영상 90.4.61.a111.2.1](./15-03-06-03-03-01-select_source.md#90-04-61-a111-02-01)
+
+<a id="90-04-61-a111-02-02"></a>
+
+#### 영상 90.4.61.a111.2.2. `새 팔레트 가져오기` 대화상자 → `원본 선택` → `이미지` → `선택한 픽셀만` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6d01db78-5369-4021-b754-13d85a1eff13"></video>
+
+[15.3.6.3.3.1. 원본 선택(Select Source) - 영상 90.4.61.a111.2.2](./15-03-06-03-03-01-select_source.md#90-04-61-a111-02-02)
+
 <a id="90-04-61-a112"></a>
 
 #### 그림 90.4.61.a112. `새 팔레트 가져오기` 대화상자 → `팔레트 이름` (Windows) (우리말)
