@@ -1,5 +1,50 @@
 # 15.3.6.3. 팔레트 컨텍스트 메뉴(The Palettes context menu)
 
+<a id="90-04-20-a150"></a>
+
+#### [그림 90.4.20.a150. 팔레트 대화상자 → `탭 메뉴` → `팔레트 컨텍스트 메뉴` (Windows)](./90-04-0020-palette.md#90-04-20-a150)
+<img width="870" height="508" alt="90-04-20-a150" src="https://github.com/user-attachments/assets/0165c07e-1451-4938-8e25-856c782c108f" />
+
+<a id="15-03-06-03-s1"></a>
+
+## 1. 팔레트 컨텍스트 메뉴 열기
+
+팔레트 컨텍스트 메뉴는 아래와 같은 방법으로 열 수 있습니다.
+
+<a id="90-04-20-a153"></a>
+
+#### [영상 90.4.20.a152. 팔레트 대화상자 → `탭 메뉴` → `팔레트 컨텍스트 메뉴`: 메뉴 열기 (Windows)](./90-04-0020-palette.md#90-04-20-a153)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/1c353d12-0646-4c93-9678-e98a86e59be5"></video>
+
+<a id="90-04-20-a154"></a>
+
+#### [영상 90.4.20.a153. 팔레트 대화상자: 목록에서 오른쪽 클릭으로 `팔레트 컨텍스트 메뉴` 열기 (Windows)](./90-04-0020-palette.md#90-04-20-a154)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/4b0ed9a6-2804-46f8-8908-4845ff0f52e5"></video>
+
+<a id="15-03-06-03-s2"></a>
+
+## 2. 파이썬이 설치되어야 사용할 수 있는 메뉴들
+파이썬 v2 이상이 설치되어야 사용할 수 있는 메뉴들은 아래와 같습니다.
+
+- [15.3.6.3.11. 팔레트의 색상의 순서를 오프셋하기(Offset Palette)](./15-03-06-03-11-offset_palette.md)
+
+- [15.3.6.3.12. 팔레트를 그라디언트로(Palette to Gradient)](./15-03-06-03-12-palette_to_gradient.md)
+
+- [15.3.6.3.13. 팔레트를 반복되는 그라디언트로(Palette to Repeating Gradient)](./15-03-06-03-13-palette_to_repeating_gradient.md)
+
+- [15.3.6.3.14. 팔레트 정렬(Sort Palette)](./15-03-06-03-14-00-sort_palette.md)
+
+만약 파이썬이 설치되어 있지 않다면, 위 메뉴는 컨텍스트 메뉴에서 표시되지 않습니다.
+
+<a id="90-04-20-a152"></a>
+
+#### [그림 90.4.20.a151. 팔레트 대화상자 → `탭 메뉴` → `팔레트 컨텍스트 메뉴`: 파이썬 불러오기 성공과 실패 비교 (Windows)](./90-04-0020-palette.md#90-04-20-a152)
+<img width="841" height="508" alt="90-04-20-a152" src="https://github.com/user-attachments/assets/2ba47845-9e26-4e1e-a296-769974131bfa" />
+
+하지만 여기서 다루고 있는 GIMP(김프) 2.10.36에서는 자체적으로 파이썬을 가지고 있으므로 파이썬을 사용자가 직접 설치를 할 필요는 없습니다.
+
+혹은 사용자가 GIMP(김프)의 디렉토리 이름을 강제로 변경한 경우에도 위 메뉴들이 컨텍스트 메뉴에 표시되지 않을 수 있습니다.
+
 ***
 
 ## 하위 페이지
