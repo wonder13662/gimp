@@ -1494,6 +1494,8 @@
 
 [90.4.142. 팔레트 합치기(Merge Palettes)](./90-04-0142-merge_palettes.md)
 
+[90.4.143. Script-fu: CSS stylesheet](./90-04-0143-script_fu_css_stylesheet.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

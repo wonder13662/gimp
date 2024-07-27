@@ -11,12 +11,12 @@
 
 선택된 팔레트가 2개 이상일 때, 이 메뉴를 클릭하면 `팔레트 합치기(Merge Palettes)` 대화상자가 나타납니다.
 
-<a id="90-04-141-a101"></a>
+<a id="90-04-142-a101"></a>
 
-#### [그림 90.4.142.a101. `팔레트 합치기` 대화상자 (Windows) (우리말)](./90-04-0142-merge_palettes.md#90-04-141-a101)
-<img width="302" height="157" alt="90-04-141-a101" src="https://github.com/user-attachments/assets/793c7d83-f01b-44ab-af89-c40b48c26b23" />
+#### [그림 90.4.142.a101. `팔레트 합치기` 대화상자 (Windows) (우리말)](./90-04-0142-merge_palettes.md#90-04-142-a101)
+<img width="302" height="157" alt="90-04-142-a101" src="https://github.com/user-attachments/assets/793c7d83-f01b-44ab-af89-c40b48c26b23" />
 
-[다른 운영체제와 언어의 `팔레트 합치기` 대화상자 확인하기](./90-04-0142-merge_palettes.md#90-04-141-a102)
+[다른 운영체제와 언어의 `팔레트 합치기` 대화상자 확인하기](./90-04-0142-merge_palettes.md#90-04-142-a102)
 
 이 대화상자에서 새로운 팔레트의 이름을 설정할 수 있습니다.
 

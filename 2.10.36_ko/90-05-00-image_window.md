@@ -160,7 +160,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.142. 팔레트 합치기(Merge Palettes)](./90-04-0142-merge_palettes.md)
+[⬅️ 이전: 90.4.143. Script-fu: CSS stylesheet](./90-04-0143-script_fu_css_stylesheet.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 
