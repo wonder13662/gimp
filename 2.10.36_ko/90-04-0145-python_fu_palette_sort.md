@@ -38,43 +38,79 @@
 
 <a id="90-04-145-a112"></a>
 
-#### 그림 90.4.145.a112. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
-<img width="347" height="503" alt="90-04-145-a112" src="" />
+#### 그림 90.4.145.a112. `Python-fu: 팔레트 정렬` 대화상자 → `슬라이스 표현식` (Windows) (우리말)
+<img width="347" height="503" alt="90-04-145-a112" src="https://github.com/user-attachments/assets/9c753828-655e-4429-a63b-7519124475b4" />
 
-<a id="90-04-145-a113"></a>
+[15.3.6.3.14.2. 슬라이스 표현식(Slice Expression) - 그림 90.4.145.a112](./15-03-06-03-14-02-slice_expression.md#90-04-145-a112)
 
-#### 그림 90.4.145.a113. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
-<img width="347" height="503" alt="90-04-145-a113" src="" />
+<a id="90-04-145-a112-01"></a>
 
-<a id="90-04-145-a114"></a>
+#### 그림 90.4.145.a112-01. `Python-fu: 팔레트 정렬` 대화상자 → `슬라이스 표현식`: 원본 팔레트 (Windows) (우리말)
+<img width="377" height="89" alt="90-04-145-a112-01" src="https://github.com/user-attachments/assets/fb110906-7f67-4cc1-b3ab-39527f61843f" />
 
-#### 그림 90.4.145.a114. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
-<img width="347" height="503" alt="90-04-145-a114" src="" />
+[15.3.6.3.14.2. 슬라이스 표현식(Slice Expression) - 그림 90.4.145.a112-01](./15-03-06-03-14-02-slice_expression.md#90-04-145-a112-01)
 
-<a id="90-04-145-a115"></a>
+<a id="90-04-145-a112-02"></a>
 
-#### 그림 90.4.145.a115. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
-<img width="347" height="503" alt="90-04-145-a115" src="" />
+#### 그림 90.4.145.a112-02. `Python-fu: 팔레트 정렬` 대화상자 → `슬라이스 표현식`: 빈값 (Windows) (우리말)
+<img width="377" height="89" alt="90-04-145-a112-02" src="https://github.com/user-attachments/assets/919a098a-e07d-43d1-a752-e311930bc1d7" />
 
-<a id="90-04-145-a116"></a>
+[15.3.6.3.14.2. 슬라이스 표현식(Slice Expression) - 그림 90.4.145.a112-02](./15-03-06-03-14-02-slice_expression.md#90-04-145-a112-02)
 
-#### 그림 90.4.145.a116. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
-<img width="347" height="503" alt="90-04-145-a116" src="" />
+<a id="90-04-145-a112-03"></a>
 
-<a id="90-04-145-a117"></a>
+#### 그림 90.4.145.a112-03. `Python-fu: 팔레트 정렬` 대화상자 → `슬라이스 표현식`: `:4,` (Windows) (우리말)
+<img width="377" height="89" alt="90-04-145-a112-03" src="https://github.com/user-attachments/assets/d9949796-ff4a-413a-b784-d315a4752c0e" />
 
-#### 그림 90.4.145.a117. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
-<img width="347" height="503" alt="90-04-145-a117" src="" />
+[15.3.6.3.14.2. 슬라이스 표현식(Slice Expression) - 그림 90.4.145.a112-03](./15-03-06-03-14-02-slice_expression.md#90-04-145-a112-03)
 
-<a id="90-04-145-a118"></a>
+<a id="90-04-145-a112-04"></a>
 
-#### 그림 90.4.145.a118. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
-<img width="347" height="503" alt="90-04-145-a118" src="" />
+#### 그림 90.4.145.a112.4. `Python-fu: 팔레트 정렬` 대화상자 → `슬라이스 표현식`: `:4` (Windows) (우리말)
+<img width="377" height="89" alt="90-04-145-a112-04" src="https://github.com/user-attachments/assets/d65eb508-0186-49d4-9db4-c1468337a134" />
 
-<a id="90-04-145-a119"></a>
+[15.3.6.3.14.2. 슬라이스 표현식(Slice Expression) - 그림 90.4.145.a112.4](./15-03-06-03-14-02-slice_expression.md#90-04-145-a112-04)
 
-#### 그림 90.4.145.a119. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
-<img width="347" height="503" alt="90-04-145-a119" src="" />
+<a id="90-04-145-a112-05"></a>
+
+#### 그림 90.4.145.a112.5. `Python-fu: 팔레트 정렬` 대화상자 → `:1,4` (Windows) (우리말)
+<img width="347" height="89" alt="90-04-145-a112-05" src="https://github.com/user-attachments/assets/6f3bed1b-2b98-4b1f-85d9-2ffe30d524f4" />
+
+[15.3.6.3.14.2. 슬라이스 표현식(Slice Expression) - 그림 90.4.145.a112.5](./15-03-06-03-14-02-slice_expression.md#90-04-145-a112-05)
+
+<a id="90-04-145-a112-06"></a>
+
+#### 그림 90.4.145.a112.6. `Python-fu: 팔레트 정렬` 대화상자 → `:,4` (Windows) (우리말)
+<img width="347" height="89" alt="90-04-145-a112-06" src="https://github.com/user-attachments/assets/12eaa8ca-1682-4598-ab96-7e8c465d1b3c" />
+
+[15.3.6.3.14.2. 슬라이스 표현식(Slice Expression) - 그림 90.4.145.a112.6](./15-03-06-03-14-02-slice_expression.md#90-04-145-a112-06)
+
+<a id="90-04-145-a112-07"></a>
+
+#### 그림 90.4.145.a112.7. `Python-fu: 팔레트 정렬` 대화상자 → `:4,4` (Windows) (우리말)
+<img width="347" height="89" alt="90-04-145-a112-07" src="https://github.com/user-attachments/assets/2c938378-b9ff-453b-b095-df2bc7a97e53" />
+
+[15.3.6.3.14.2. 슬라이스 표현식(Slice Expression) - 그림 90.4.145.a112.7](./15-03-06-03-14-02-slice_expression.md#90-04-145-a112-07)
+
+<a id="90-04-145-a112-08"></a>
+
+#### 그림 90.4.145.a112.8. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
+<img width="347" height="89" alt="90-04-145-a112-08" src="" />
+
+<a id="90-04-145-a112-09"></a>
+
+#### 그림 90.4.145.a112.9. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
+<img width="347" height="89" alt="90-04-145-a112-09" src="" />
+
+<a id="90-04-145-a112-10"></a>
+
+#### 그림 90.4.145.a112.10. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
+<img width="347" height="89" alt="90-04-145-a112-10" src="" />
+
+<a id="90-04-145-a112-11"></a>
+
+#### 그림 90.4.145.a112.11. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
+<img width="347" height="89" alt="90-04-145-a112-11" src="" />
 
 ***
 
