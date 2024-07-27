@@ -108,7 +108,7 @@
 
 [7.11. 무늬(Pattern)](./07-11-patterns.md)
 
-[7.12. 팔레트](./07-12-00-palettes.md)
+[7.12. 팔레트(Palette)](./07-12-00-palettes.md)
 
 [7.12.1. 색상표(Colormap)](./07-12-01-colormap.md)
 

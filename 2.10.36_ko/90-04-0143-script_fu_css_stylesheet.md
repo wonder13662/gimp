@@ -26,21 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
-
-[⬅️ 이전: 90.4.141. 균등한 구획 분할(Split Segment Uniformly)](./90-04-0141-split_segment_uniformly.md)
-
-[⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-0000-dialogs.md)
-
-[⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
-
-[🏠 홈](./00-home.md)
-
-***
-
-## 다른 페이지로 가기
-
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.144. Python-fu: 팔레트 오프셋(Python-fu: Palette Offset)](./90-04-0144-python_fu_palette_offset.md)
 
 [⬅️ 이전: 90.4.142. 팔레트 합치기(Merge Palettes)](./90-04-0142-merge_palettes.md)
 

@@ -86,9 +86,9 @@ GIMP(김프)는 두 가지 유형의 팔레트를 씁니다.
 ## 다른 페이지로 가기
 [➡️ 다음: 7.13. 프리셋(Presets)](./07-13-presets.md)
 
-[⬅️ 이전: 7.12. 팔레트](./07-12-00-palettes.md)
+[⬅️ 이전: 7.12. 팔레트(Palette)](./07-12-00-palettes.md)
 
-[⬆️ 위: 7.12. 팔레트](./07-12-00-palettes.md)
+[⬆️ 위: 7.12. 팔레트(Palette)](./07-12-00-palettes.md)
 
 [⬆️ 위: 7. GIMP(김프)로 그리기](./07-00-painting-with-gimp.md)
 

@@ -344,7 +344,7 @@
 
 [7.11. 무늬(Pattern)](./07-11-patterns.md)
 
-[7.12. 팔레트](./07-12-00-palettes.md)
+[7.12. 팔레트(Palette)](./07-12-00-palettes.md)
 
 [7.12.1. 색상표(Colormap)](./07-12-01-colormap.md)
 
@@ -5153,6 +5153,8 @@
 [90.4.142. 팔레트 합치기(Merge Palettes)](./90-04-0142-merge_palettes.md)
 
 [90.4.143. Script-fu: CSS stylesheet](./90-04-0143-script_fu_css_stylesheet.md)
+
+[90.4.144. Python-fu: 팔레트 오프셋(Python-fu: Palette Offset)](./90-04-0144-python_fu_palette_offset.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

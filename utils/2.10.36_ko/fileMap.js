@@ -472,7 +472,7 @@ module.exports = {
       [
         '07-12-00-palettes.md', 
         '7.12. Palettes',
-        '7.12. 팔레트'
+        '7.12. 팔레트(Palette)'
       ],
       [
         '07-12-01-colormap.md', 
