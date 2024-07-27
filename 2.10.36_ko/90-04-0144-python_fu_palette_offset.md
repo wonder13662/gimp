@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.145. Python-fu: 팔레트 정렬(Python-fu: Palette Sort)](./90-04-0145-python_fu_palette_sort.md)
 
 [⬅️ 이전: 90.4.143. Script-fu: CSS stylesheet](./90-04-0143-script_fu_css_stylesheet.md)
 

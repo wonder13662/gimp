@@ -5156,6 +5156,8 @@
 
 [90.4.144. Python-fu: 팔레트 오프셋(Python-fu: Palette Offset)](./90-04-0144-python_fu_palette_offset.md)
 
+[90.4.145. Python-fu: 팔레트 정렬(Python-fu: Palette Sort)](./90-04-0145-python_fu_palette_sort.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

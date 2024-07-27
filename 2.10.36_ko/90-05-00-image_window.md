@@ -154,14 +154,13 @@
 
 [3.2.2. 단일창 모드(single window mode) - 영상 90.5.a372](./03-02-02-single_window_mode.md#90-05-a372)
 
-
 ***
 
 ## 다른 페이지로 가기
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.144. Python-fu: 팔레트 오프셋(Python-fu: Palette Offset)](./90-04-0144-python_fu_palette_offset.md)
+[⬅️ 이전: 90.4.145. Python-fu: 팔레트 정렬(Python-fu: Palette Sort)](./90-04-0145-python_fu_palette_sort.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 
