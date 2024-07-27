@@ -1484,6 +1484,16 @@
 
 [90.4.137. 사각형 붓 만들기(Elliptical)](./90-04-0137-rectangular.md)
 
+[90.4.138. 커스텀 그라디언트(Custom Gradient)](./90-04-0138-custom_gradient.md)
+
+[90.4.139. 그라디언트 편집기(Custom Gradient)](./90-04-0139-gradient_editor.md)
+
+[90.4.140. 구획 복제(Replicate Segment)](./90-04-0140-replicate_segment.md)
+
+[90.4.141. 균등한 구획 분할(Split Segment Uniformly)](./90-04-0141-split_segment_uniformly.md)
+
+[90.4.142. 팔레트 합치기(Merge Palettes)](./90-04-0142-merge_palettes.md)
+
 <a id="90-00-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

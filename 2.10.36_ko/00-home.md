@@ -3648,6 +3648,8 @@
 
 [19. 용어집 - 렌더링 목적(Rendering Intent)](./19-glossaryx-rendering_intent.md)
 
+[19. 용어집 - 리소스 교환 파일 형식(RIFF - Resource Interchange File Format)](./19-glossaryx-riff.md)
+
 [19. 용어집 - 표본 합치기(Sample Merged)](./19-glossaryx-sample_merged.md)
 
 [19. 용어집 - 채도(Saturation)](./19-glossaryx-saturation.md)
@@ -5147,6 +5149,8 @@
 [90.4.140. 구획 복제(Replicate Segment)](./90-04-0140-replicate_segment.md)
 
 [90.4.141. 균등한 구획 분할(Split Segment Uniformly)](./90-04-0141-split_segment_uniformly.md)
+
+[90.4.142. 팔레트 합치기(Merge Palettes)](./90-04-0142-merge_palettes.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.142. 팔레트 합치기(Merge Palettes)](./90-04-0142-merge_palettes.md)
 
 [⬅️ 이전: 90.4.140. 구획 복제(Replicate Segment)](./90-04-0140-replicate_segment.md)
 
