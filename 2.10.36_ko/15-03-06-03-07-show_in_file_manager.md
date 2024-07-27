@@ -5,6 +5,13 @@
 #### [그림 90.4.20.a161.7. 팔레트 대화상자 → `탭 메뉴` → `팔레트 컨텍스트 메뉴` → `파일 관리자에 표시` (Windows)](./90-04-0020-palette.md#90-04-20-a161-07)
 <img width="870" height="508" alt="90-04-20-a161-07" src="https://github.com/user-attachments/assets/73b08ab2-acd8-4392-92fe-f3b74d546d90" />
 
+`파일 관리자에 표시(Show in File Manager)` 메뉴를 누르면, 운영체제의 파일 관리자가 활성화 팔레트의 파일의 경로를 엽니다.
+
+<a id="90-04-20-a161-07-01"></a>
+
+#### [영상 90.4.20.a161.7.1. 팔레트 대화상자 → `탭 메뉴` → `팔레트 컨텍스트 메뉴` → `파일 관리자에 표시` (Windows)](./90-04-0020-palette.md#90-04-20-a161-07-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a7ad8835-22ac-492e-82c9-68b36018e6e6"></video>
+
 ***
 
 ## 다른 페이지로 가기
