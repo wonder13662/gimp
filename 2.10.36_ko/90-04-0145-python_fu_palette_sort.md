@@ -22,6 +22,60 @@
 #### 그림 90.4.145.a104. `Python-fu: 팔레트 정렬` 대화상자 (Mac) (영어)
 <img width="340" height="460" alt="90-04-145-a104" src="https://github.com/user-attachments/assets/8477f342-0435-4a00-a2e2-e89a4a877d96" />
 
+<a id="90-04-145-a111"></a>
+
+#### 그림 90.4.145.a111. `Python-fu: 팔레트 정렬` 대화상자 → `선택들` (Windows) (우리말)
+<img width="347" height="503" alt="90-04-145-a111" src="https://github.com/user-attachments/assets/85ae99c2-dd09-402f-9fe6-49c4434bd30c" />
+
+[15.3.6.3.14.1. 선택들(Selections) - 그림 90.4.145.a111](./15-03-06-03-14-01-selections.md#90-04-145-a111)
+
+<a id="90-04-145-a111-01"></a>
+
+#### 그림 90.4.145.a111.1. `Python-fu: 팔레트 정렬` 대화상자 → `선택들`: 옵션 목록 (Windows) (우리말)
+<img width="158" height="113" alt="90-04-145-a111-01" src="https://github.com/user-attachments/assets/918f15ba-cf10-422a-903c-e7172c95faaf" />
+
+[15.3.6.3.14.1. 선택들(Selections) - 그림 90.4.145.a111.1](./15-03-06-03-14-01-selections.md#90-04-145-a111-01)
+
+<a id="90-04-145-a112"></a>
+
+#### 그림 90.4.145.a112. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
+<img width="347" height="503" alt="90-04-145-a112" src="" />
+
+<a id="90-04-145-a113"></a>
+
+#### 그림 90.4.145.a113. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
+<img width="347" height="503" alt="90-04-145-a113" src="" />
+
+<a id="90-04-145-a114"></a>
+
+#### 그림 90.4.145.a114. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
+<img width="347" height="503" alt="90-04-145-a114" src="" />
+
+<a id="90-04-145-a115"></a>
+
+#### 그림 90.4.145.a115. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
+<img width="347" height="503" alt="90-04-145-a115" src="" />
+
+<a id="90-04-145-a116"></a>
+
+#### 그림 90.4.145.a116. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
+<img width="347" height="503" alt="90-04-145-a116" src="" />
+
+<a id="90-04-145-a117"></a>
+
+#### 그림 90.4.145.a117. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
+<img width="347" height="503" alt="90-04-145-a117" src="" />
+
+<a id="90-04-145-a118"></a>
+
+#### 그림 90.4.145.a118. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
+<img width="347" height="503" alt="90-04-145-a118" src="" />
+
+<a id="90-04-145-a119"></a>
+
+#### 그림 90.4.145.a119. `Python-fu: 팔레트 정렬` 대화상자 → `` (Windows) (우리말)
+<img width="347" height="503" alt="90-04-145-a119" src="" />
+
 ***
 
 ## 다른 페이지로 가기
