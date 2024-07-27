@@ -5,6 +5,15 @@
 #### [그림 90.4.20.a161.12. 팔레트 대화상자 → `탭 메뉴` → `팔레트 컨텍스트 메뉴` → `팔레트를 그라디언트로` (Windows)](./90-04-0020-palette.md#90-04-20-a161-12)
 <img width="870" height="508" alt="90-04-20-a161-12" src="https://github.com/user-attachments/assets/178c3c5a-5cab-4f42-9a56-1d3b7fc99356" />
 
+`팔레트를 그라디언트로(Palette to Gradient)` 메뉴를 누르면, 팔레트의 모든 색상을 가지고 있는 그라디언트로 새로 저장되어 [그라디언트 대화상자](./15-03-05-00-gradient_dialog.md)에 표시됩니다.
+
+하지만 [그라디언트 대화상자](./15-03-05-00-gradient_dialog.md)가 자동으로 열리지 않으므로 직접 [그라디언트 대화상자](./15-03-05-00-gradient_dialog.md)를 열어야 합니다.
+
+<a id="90-04-20-a161-12-01"></a>
+
+#### [영상 90.4.20.a161.12.1. 팔레트 대화상자 → `탭 메뉴` → `팔레트 컨텍스트 메뉴` → `팔레트를 그라디언트로` (Windows) (우리말)](./90-04-0020-palette.md#90-04-20-a161-12-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/c7d63d39-7d31-4a62-9252-2b6a80e925b9"></video>
+
 ***
 
 ## 다른 페이지로 가기
