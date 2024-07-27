@@ -29,6 +29,13 @@
 
 [15.3.5.2.2.4. 그라디언트 삭제(Delete Gradient) - 그림 90.4.133.a111](./15-03-05-02-02-04-delete_gradient.md#90-04-133-a111)
 
+<a id="90-04-133-a112"></a>
+
+#### 그림 90.4.133.a112. `객체 삭제` 대화상자: 팔레트 (Windows) (우리말)
+<img width="416" height="174" alt="90-04-133-a112" src="https://github.com/user-attachments/assets/e37967c5-1cb2-4d20-8ae9-35d4dad8c02a" />
+
+[15.3.6.3.8. 팔레트 삭제(Delete Palette) - 그림 90.4.133.a112](./15-03-06-03-08-delete_palette.md#90-04-133-a112)
+
 ***
 
 ## 다른 페이지로 가기
