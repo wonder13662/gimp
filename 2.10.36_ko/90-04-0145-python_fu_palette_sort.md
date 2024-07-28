@@ -181,6 +181,20 @@
 
 [15.3.6.3.14.2. 슬라이스 표현식(Slice Expression) - 그림 90.4.145.a121.9](./15-03-06-03-14-02-slice_expression.md#90-04-145-a121-09)
 
+<a id="90-04-145-a131"></a>
+
+#### 그림 90.4.145.a131. `Python-fu: 팔레트 정렬` 대화상자 → `채널 정렬` (Windows) (우리말)
+<img width="347" height="503" alt="90-04-145-a131" src="https://github.com/user-attachments/assets/a08ec15f-59cf-4ba0-9d6b-312e4a0c0065" />
+
+[15.3.6.3.14.3. 채널 정렬(Channel to Sort) - 그림 90.4.145.a131](./15-03-06-03-14-03-channel_to_sort.md#90-04-145-a131)
+
+<a id="90-04-145-a131-01"></a>
+
+#### 그림 90.4.145.a131.1. `Python-fu: 팔레트 정렬` 대화상자 → `채널 정렬` → `옵션 목록` (Mac) (우리말)
+<img width="158" height="260" alt="90-04-145-a131-01" src="https://github.com/user-attachments/assets/badd9897-2529-4b00-a1e6-3eff2ab1c075" />
+
+[15.3.6.3.14.3. 채널 정렬(Channel to Sort) - 그림 90.4.145.a131.1](./15-03-06-03-14-03-channel_to_sort.md#90-04-145-a131-01)
+
 ***
 
 ## 다른 페이지로 가기

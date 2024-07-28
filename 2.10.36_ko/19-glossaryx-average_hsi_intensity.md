@@ -1,6 +1,7 @@
 # 19. 용어집 - 평균(HSI 강도) - Average(HSI Intensity)
 
-#### 무채화(Desaturate) 옵션 - 회색음영(The shade of gray) 방정식
+`평균(HSI 강도)`에서 회색 음영의 값을 계산하는 방정식은 다음과 같습니다.
+
 ```
 Average (HSI Intensity) = (R + G + B) ÷ 3
 ```

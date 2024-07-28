@@ -1,6 +1,7 @@
 # 19. 용어집 - 밝기(Lightness(HSL))
 
-#### 무채화(Desaturate) 옵션 - 회색음영(The shade of gray) 방정식
+`밝기(Lightness(HSL))`에서 회색 음영의 값을 계산하는 방정식은 다음과 같습니다.
+
 ```
 Lightness (HSL) = ½ × (max(R,G,B) + min(R,G,B))
 ```

@@ -1,5 +1,29 @@
 # 15.3.6.3.14.3. 채널 정렬(Channel to Sort)
 
+<a id="90-04-145-a131"></a>
+
+#### [그림 90.4.145.a131. `Python-fu: 팔레트 정렬` 대화상자 → `채널 정렬` (Windows) (우리말)](./90-04-0145-python_fu_palette_sort.md#90-04-145-a131)
+<img width="347" height="503" alt="90-04-145-a131" src="https://github.com/user-attachments/assets/a08ec15f-59cf-4ba0-9d6b-312e4a0c0065" />
+
+<a id="90-04-145-a131-01"></a>
+
+#### [그림 90.4.145.a131.1. `Python-fu: 팔레트 정렬` 대화상자 → `채널 정렬` → `옵션 목록` (Mac) (우리말)](./90-04-0145-python_fu_palette_sort.md#90-04-145-a131-01)
+<img width="158" height="260" alt="90-04-145-a131-01" src="https://github.com/user-attachments/assets/badd9897-2529-4b00-a1e6-3eff2ab1c075" />
+
+`채널 정렬` 옵션은 어떤 색상 채널을 기준으로 정렬할 것인지 설정합니다.
+
+***
+
+## 관련 정보
+
+[19. 용어집 - 인식가능한 휘도(Luma)](./19-glossaryx-luma.md)
+
+[19. 용어집 - 휘도(Luminance)](./19-glossaryx-luminance.md)
+
+[19. 용어집 - 밝기(Lightness(HSL))](./19-glossaryx-lightness_hsl.md)
+
+[19. 용어집 - 값(HSV) - Value(HSV)](./19-glossaryx-value_hsv.md)
+
 ***
 
 ## 다른 페이지로 가기
