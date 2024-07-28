@@ -195,12 +195,21 @@
 
 [15.3.6.3.14.3. 채널 정렬(Channel to Sort) - 그림 90.4.145.a131.1](./15-03-06-03-14-03-channel_to_sort.md#90-04-145-a131-01)
 
+[15.3.6.3.14.5. 두번째 채널 정렬(Secondary Channel to Sort) - 그림 90.4.145.a131.1](./15-03-06-03-14-05-secondary_channel_to_sort.md#90-04-145-a131-01)
+
 <a id="90-04-145-a141"></a>
 
 #### 그림 90.4.145.a141. `Python-fu: 팔레트 정렬` 대화상자 → `첫번째 채널 정렬의 오름차순/내림차순 정렬` (Windows) (우리말)
 <img width="347" height="503" alt="90-04-145-a141" src="https://github.com/user-attachments/assets/e1807d96-635e-4240-90c5-839471fc6eba" />
 
-[15.3.6.3.14.3. 채널 정렬(Channel to Sort) - 그림 90.4.145.a141](./15-03-06-03-14-03-channel_to_sort.md#90-04-145-a141)
+[15.3.6.3.14.4. 첫번째 채널 정렬의 오름차순/내림차순 정렬(Ascending) - 그림 90.4.145.a141](./15-03-06-03-14-04-ascending.md#90-04-145-a141)
+
+<a id="90-04-145-a151"></a>
+
+#### 그림 90.4.145.a151. `Python-fu: 팔레트 정렬` 대화상자 → `두번째 채널 정렬` (Windows) (우리말)
+<img width="347" height="503" alt="90-04-145-a151" src="https://github.com/user-attachments/assets/4456fdf8-27e7-4467-9168-9226478facd4" />
+
+[15.3.6.3.14.5. 두번째 채널 정렬(Secondary Channel to Sort) - 그림 90.4.145.a151](./15-03-06-03-14-05-secondary_channel_to_sort.md#90-04-145-a151)
 
 ***
 
