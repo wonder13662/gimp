@@ -65,6 +65,8 @@
 
 [7.12. 팔레트(Palette)](./07-12-00-palettes.md)
 
+[15.3.6.4. 팔레트 편집기(Palette Editor)](./15-03-06-04-00-palette_editor.md)
+
 ***
 
 ## 하위 페이지

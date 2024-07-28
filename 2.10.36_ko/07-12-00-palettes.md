@@ -148,6 +148,12 @@ Name: Blues
 
 ***
 
+## 관련 정보
+
+[15.3.6.4. 팔레트 편집기(Palette Editor)](./15-03-06-04-00-palette_editor.md)
+
+***
+
 ## 하위 페이지
 
 [7.12.1. 색상표(Colormap)](./07-12-01-colormap.md)
