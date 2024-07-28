@@ -55,6 +55,13 @@
 #### 그림 90.4.145.a112.8. `Python-fu: 팔레트 정렬` 대화상자 → `4:`: 실패 메시지 대화상자 (Windows) (우리말)
 <img width="386" height="215" alt="90-04-145-a112-08-01" src="https://github.com/user-attachments/assets/27eafdce-8199-4ddb-93b3-331163c8f760" />
 
+<a id="90-04-145-a120"></a>
+
+#### 파일 90.4.145.a120. `Python-fu: 팔레트 정렬` 대화상자 → `슬라이스 표현식`: 원본 팔레트
+[palette_sort_src.gpl.zip](https://github.com/user-attachments/files/16401910/palette_sort_src.gpl.zip)
+
+[15.3.6.3.14.2. 슬라이스 표현식(Slice Expression) - 파일 90.4.145.a120](./15-03-06-03-14-02-slice_expression.md#90-04-145-a120)
+
 <a id="90-04-145-a121"></a>
 
 #### 그림 90.4.145.a121. `Python-fu: 팔레트 정렬` 대화상자 → `슬라이스 표현식`: 원본 팔레트

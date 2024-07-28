@@ -19,6 +19,11 @@ START?:NROWS?,ROWLENGTH
 #### [그림 90.4.145.a121. `Python-fu: 팔레트 정렬` 대화상자 → `슬라이스 표현식`: 원본 팔레트](./90-04-0145-python_fu_palette_sort.md#90-04-145-a121)
 <img width="306" height="40" alt="90-04-145-a121" src="https://github.com/user-attachments/assets/851ba9db-c358-4bb3-a5a8-0b8cfba5d909" />
 
+<a id="90-04-145-a120"></a>
+
+#### [파일 90.4.145.a120. `Python-fu: 팔레트 정렬` 대화상자 → `슬라이스 표현식`: 원본 팔레트](./90-04-0145-python_fu_palette_sort.md#90-04-145-a120)
+[palette_sort_src.gpl.zip](https://github.com/user-attachments/files/16401910/palette_sort_src.gpl.zip)
+
 아래 예시에서의 정렬 규칙은 간단히 말해 어두운 색이 왼쪽으로 밝은 색이 오른쪽으로 이동합니다.
 
 <a id="15-03-06-03-14-02-s1"></a>
