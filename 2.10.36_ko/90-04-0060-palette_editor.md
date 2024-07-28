@@ -21,15 +21,6 @@
 #### 그림 90.4.60.a104. `팔레트 편집기` 대화상자 (Mac) (영어)
 ![90-04-60-palette_editor(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/cc842e54-85be-4b3c-ba67-21e6bb0a0b3a)
 
-<a id="90-04-60-a105"></a>
-
-#### 영상 90.4.60.a105. `팔레트` 대화상자에서 `팔레트 편집기` 대화상자 열기 (Windows) (우리말)
-<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8f8431a6-e746-4dc2-bb05-7ed2e4adc1e4"></video>
-
-[7.12. 팔레트(Palette) - 영상 90.4.60.a105](./07-12-00-palettes.md#90-04-60-a105)
-
-[15.3.6.2. 팔레트 대화상자 사용하기(Using the Palettes dialog) - 영상 90.4.60.a105](./15-03-06-02-00-using_the_palettes_dialog.md#90-04-60-a105)
-
 <a id="90-04-60-a106"></a>
 
 #### 영상 90.4.60.a106. `팔레트 편집기` 대화상자에서 전경색 바꾸기 (Windows) (우리말)

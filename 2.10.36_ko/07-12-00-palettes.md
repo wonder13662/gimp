@@ -40,10 +40,10 @@ GIMP(김프)를 설치하면, 수십 개의 팔레트가 기본적으로 함께 
 ### 4-1. 팔레트 편집기 열기
 `팔레트` 대화상자의 팔레트를 더블 클릭을 하면 [`팔레트 편집기`](./15-03-06-04-00-palette_editor.md)를 열 수 있습니다. [`팔레트 편집기`](./15-03-06-04-00-palette_editor.md)는 선택한 팔레트의 색상을 보여줍니다.
 
-<a id="90-04-60-a105"></a>
+<a id="90-04-20-a165"></a>
 
-#### [영상 90.4.60.a105. `팔레트` 대화상자에서 `팔레트 편집기` 대화상자 열기 (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a105)
-<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8f8431a6-e746-4dc2-bb05-7ed2e4adc1e4"></video>
+#### [영상 90.4.20.a165. 팔레트 대화상자의 목록의 팔레트 더블 클릭으로 `팔레트 편집기` 열기 (Windows)](./90-04-0020-palette.md#90-04-20-a165)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/0c8f76d5-26c1-499d-9371-c1f905bd37da"></video>
 
 <a id="07-12-s4-02"></a>
 

@@ -11,12 +11,14 @@
 
 ## 1. 팔레트 선택하기
 
-팔레트 대화상자에서 팔레트를 클릭하면 [팔레트 편집기](./15-03-06-04-00-palette_editor.md)가 열립니다.
+팔레트 대화상자에서 팔레트를 더블 클릭하면 [팔레트 편집기](./15-03-06-04-00-palette_editor.md)가 열립니다.
 
-<a id="90-04-60-a105"></a>
+[관련 정보: 15.3.6.4.1. 팔레트 편집기 활성화하기(How to Activate the Palette Editor) - 2. 팔레트 대화상자의 목록의 팔레트를 더블 클릭](./15-03-06-04-01-how_to_activate_the_palette_editor.md#15-03-06-03-01-s2)
 
-#### [영상 90.4.60.a105. `팔레트` 대화상자에서 `팔레트 편집기` 대화상자 열기 (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a105)
-<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/8f8431a6-e746-4dc2-bb05-7ed2e4adc1e4"></video>
+<a id="90-04-20-a165"></a>
+
+#### [영상 90.4.20.a165. 팔레트 대화상자의 목록의 팔레트 더블 클릭으로 `팔레트 편집기` 열기 (Windows)](./90-04-0020-palette.md#90-04-20-a165)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/0c8f76d5-26c1-499d-9371-c1f905bd37da"></video>
 
 [팔레트 편집기](./15-03-06-04-00-palette_editor.md)가 열린 상태에서 팔레트 대화상자를 열고, 방향키로 선택한 팔레트를 바꿀 수 있습니다.
 
