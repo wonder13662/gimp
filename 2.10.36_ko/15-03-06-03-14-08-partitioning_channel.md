@@ -1,5 +1,18 @@
 # 15.3.6.3.14.8. 채널 파티셔닝(Partitioning Channel)
 
+<a id="90-04-145-a181"></a>
+
+#### [그림 90.4.145.a181. `Python-fu: 팔레트 정렬` 대화상자 → `채널 파티셔닝` (Windows) (우리말)](./90-04-0145-python_fu_palette_sort.md#90-04-145-a181)
+<img width="347" height="503" alt="90-04-145-a181" src="https://github.com/user-attachments/assets/40bdc10a-86b2-4a2a-a2af-a5864feae7a5" />
+
+`채널 파티셔닝(Partitioning Channel)` 옵션에서 정렬하는 기준을 설정할 수 있습니다.
+
+이 옵션이 동작하는 조건과 방식에 대해서는 아직 구체적인 설명을 [원문](https://docs.gimp.org/2.10/ko/gimp-palette-dialog.html#gimp-concepts-palettes-menu)에서는 확인할 수 없습니다.
+
+추후 내용이 추가되면 함께 업데이트할 예정입니다.
+
+<a comment="TODO 설명이 정확하지 않음. 내용 업데이트 필요"></a>
+
 ***
 
 ## 다른 페이지로 가기
