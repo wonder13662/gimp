@@ -211,6 +211,13 @@
 
 [15.3.6.3.14.5. 두번째 채널 정렬(Secondary Channel to Sort) - 그림 90.4.145.a151](./15-03-06-03-14-05-secondary_channel_to_sort.md#90-04-145-a151)
 
+<a id="90-04-145-a161"></a>
+
+#### 그림 90.4.145.a161. `Python-fu: 팔레트 정렬` 대화상자 → `두번째 채널 정렬의 오름차순/내림차순 정렬` (Windows) (우리말)
+<img width="347" height="503" alt="90-04-145-a161" src="https://github.com/user-attachments/assets/fe045a7c-379d-4785-9a28-e167f64aa29e" />
+
+[15.3.6.3.14.6. 두번째 채널 정렬의 오름차순/내림차순 정렬(Ascending) - 그림 90.4.145.a161](./15-03-06-03-14-06-ascending.md#90-04-145-a161)
+
 ***
 
 ## 다른 페이지로 가기
