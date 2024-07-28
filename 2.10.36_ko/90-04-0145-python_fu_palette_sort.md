@@ -232,6 +232,13 @@
 
 [15.3.6.3.14.8. 채널 파티셔닝(Partitioning Channel) - 그림 90.4.145.a181](./15-03-06-03-14-08-partitioning_channel.md#90-04-145-a181)
 
+<a id="90-04-145-a191"></a>
+
+#### 그림 90.4.145.a191. `Python-fu: 팔레트 정렬` 대화상자 → `양자화 파티셔닝` (Windows) (우리말)
+<img width="347" height="503" alt="90-04-145-a191" src="https://github.com/user-attachments/assets/d3174ed9-3c01-4d5c-a227-be7267a48cfc" />
+
+[15.3.6.3.14.9. 양자화 파티셔닝(Partitioning Quantization) - 그림 90.4.145.a191](./15-03-06-03-14-09-partitioning_quantization.md#90-04-145-a191)
+
 ***
 
 ## 다른 페이지로 가기

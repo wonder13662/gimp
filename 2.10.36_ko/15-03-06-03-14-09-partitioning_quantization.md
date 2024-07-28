@@ -1,5 +1,18 @@
 # 15.3.6.3.14.9. 양자화 파티셔닝(Partitioning Quantization)
 
+<a id="90-04-145-a191"></a>
+
+#### [그림 90.4.145.a191. `Python-fu: 팔레트 정렬` 대화상자 → `양자화 파티셔닝` (Windows) (우리말)](./90-04-0145-python_fu_palette_sort.md#90-04-145-a191)
+<img width="347" height="503" alt="90-04-145-a191" src="https://github.com/user-attachments/assets/d3174ed9-3c01-4d5c-a227-be7267a48cfc" />
+
+`양자화 파티셔닝(Partitioning Quantization)` 옵션은 [15.3.6.3.14.7. 양자화(Quantization)](./15-03-06-03-14-07-quantization.md)과 연동하여 사용합니다.
+
+이 옵션이 동작하는 조건과 방식에 대해서는 아직 구체적인 설명을 [원문](https://docs.gimp.org/2.10/ko/gimp-palette-dialog.html#gimp-concepts-palettes-menu)에서는 확인할 수 없습니다.
+
+추후 내용이 추가되면 함께 업데이트할 예정입니다.
+
+<a comment="TODO 설명이 정확하지 않음. 내용 업데이트 필요"></a>
+
 ***
 
 ## 다른 페이지로 가기
