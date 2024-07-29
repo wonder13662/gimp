@@ -16,9 +16,9 @@
 ### 1-1. 전경색과 배경색 설정하기
 `팔레트 편집기(Palette Editor)`의 색상 타일을 클릭해서 GIMP(김프)의 [전경색](./19-glossaryx-foreground_color.md)과 [배경색](./19-glossaryx-background_color.md)을 설정할 수 있습니다.
 
-[관련 정보: 팔레트 편집기` 대화상자에서 전경색 바꾸기](./15-03-06-02-00-using_the_palettes_dialog.md#15-03-06-02-s2)
+[관련 정보: `팔레트 편집기` 대화상자에서 전경색 바꾸기](./15-03-06-02-00-using_the_palettes_dialog.md#15-03-06-02-s2)
 
-[관련 정보: 팔레트 편집기` 대화상자에서 배경색 바꾸기](./15-03-06-02-00-using_the_palettes_dialog.md#15-03-06-02-s3)
+[관련 정보: `팔레트 편집기` 대화상자에서 배경색 바꾸기](./15-03-06-02-00-using_the_palettes_dialog.md#15-03-06-02-s3)
 
 설정한 색상은 도구상자의 '전경색/배경색'에서 확인할 수 있습니다.
 

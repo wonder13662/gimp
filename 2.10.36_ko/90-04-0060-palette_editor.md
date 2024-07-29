@@ -28,7 +28,7 @@
 
 [7.12. 팔레트(Palette) - 영상 90.4.60.a106](./07-12-00-palettes.md#90-04-60-a106)
 
-[15.3.6.2. 팔레트 대화상자 사용하기(Using the Palettes dialog) - 영상 90.4.60.a106](./15-03-06-02-00-using_the_palettes_dialog.md#90-04-60-a106)
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 영상 90.4.60.a106](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a106)
 
 <a id="90-04-60-a107"></a>
 
@@ -37,7 +37,70 @@
 
 [7.12. 팔레트(Palette) - 영상 90.4.60.a107](./07-12-00-palettes.md#90-04-60-a107)
 
-[15.3.6.2. 팔레트 대화상자 사용하기(Using the Palettes dialog) - 영상 90.4.60.a107](./15-03-06-02-00-using_the_palettes_dialog.md#90-04-60-a107)
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 영상 90.4.60.a107](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a107)
+
+<a id="90-04-60-a111"></a>
+
+#### 그림 90.4.60.a111. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` (Windows)
+<img width="359" height="342" alt="90-04-60-a111" src="https://github.com/user-attachments/assets/f9284785-d5d2-426d-b351-a8a9cab80e4d" />
+
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 그림 90.4.60.a111](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a111)
+
+<a id="90-04-60-a111-01"></a>
+
+#### 영상 90.4.60.a111.1. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6da2cecf-997e-4528-be16-6915a6d20775"></video>
+
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 영상 90.4.60.a111.1](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a111-01)
+
+<a id="90-04-60-a112"></a>
+
+#### 그림 90.4.60.a112. `팔레트 편집기` 대화상자 → `탭 메뉴` → `팔레트 편집기 메뉴` (Windows)
+<img width="765" height="342" alt="90-04-60-a111" src="https://github.com/user-attachments/assets/fc942a7b-effb-4217-a960-c64494a400e1" />
+
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 그림 90.4.60.a112](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a112)
+
+<a id="90-04-60-a112-01"></a>
+
+#### 영상 90.4.60.a112.1. `팔레트 편집기` 대화상자 → `탭 메뉴` → `팔레트 편집기 메뉴` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/81f93518-d134-46d5-a779-90ea8b573d9c"></video>
+
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 영상 90.4.60.a112.1](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a112-01)
+
+<a id="90-04-60-a113"></a>
+
+#### 그림 90.4.60.a113. `팔레트 편집기` 대화상자 → `팔레트 이름 입력창` (Windows) (우리말)
+<img width="277" height="289" alt="90-04-60-a113" src="https://github.com/user-attachments/assets/53a04a3b-7679-4fb3-9aaf-96d617d4f104" />
+
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 그림 90.4.60.a113](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a113)
+
+<a id="90-04-60-a113-01"></a>
+
+#### 영상 90.4.60.a113.1. `팔레트 편집기` 대화상자 → `팔레트 이름 입력창`: 이름 수정 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/cf068821-d8db-45eb-be98-7eb9b71ccc93"></video>
+
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 영상 90.4.60.a113.1](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a113-01)
+
+<a id="90-04-60-a114"></a>
+
+#### 그림 90.4.60.a114. `팔레트 편집기` 대화상자 → `색상 목록` (Windows) (우리말)
+<img width="277" height="289" alt="90-04-60-a114" src="https://github.com/user-attachments/assets/a2e54248-f1bb-4ddd-8f2f-72fb9b766a66" />
+
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 그림 90.4.60.a114](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a114)
+
+<a id="90-04-60-a115"></a>
+
+#### 그림 90.4.60.a115. `팔레트 편집기` 대화상자 → `색상 순서` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-60-a115" src="https://github.com/user-attachments/assets/7bb9a360-68d8-4095-a359-221393d87c5d" />
+
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 그림 90.4.60.a115](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a115)
+
+<a id="90-04-60-a115-01"></a>
+
+#### 영상 90.4.60.a115.1. `팔레트 편집기` 대화상자 → `색상 순서` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/022b6862-0b71-498b-afc5-8c635d622d05"></video>
+
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 영상 90.4.60.a115.1](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a115-01)
 
 ***
 

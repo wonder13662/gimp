@@ -31,23 +31,13 @@
 
 ## 2. `팔레트 편집기` 대화상자에서 전경색 바꾸기
 
-[팔레트 편집기](./15-03-06-04-00-palette_editor.md) 안에서 색상 타일을 클릭하면 [전경색](./19-glossaryx-foreground_color.md)이 바뀝니다.
-
-<a id="90-04-60-a106"></a>
-
-#### [영상 90.4.60.a106. `팔레트 편집기` 대화상자에서 전경색 바꾸기 (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a106)
-<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ca43d56d-6833-41fe-a46b-b5107ba50a35"></video>
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 1. 전경색 설정하기](./15-03-06-04-02-00-using_the_palette_editor.md#15-03-06-04-02-s4-01)을 참고해주세요.
 
 <a id="15-03-06-02-s3"></a>
 
 ## 3. `팔레트 편집기` 대화상자에서 배경색 바꾸기
 
-[팔레트 편집기](./15-03-06-04-00-palette_editor.md) 안에서 Ctrl(⌘)을 누른채로 색상 타일을 클릭하면 [배경색](./19-glossaryx-background_color.md)이 바뀝니다.
-
-<a id="90-04-60-a107"></a>
-
-#### [영상 90.4.60.a107. `팔레트 편집기` 대화상자에서 배경색 바꾸기 (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a107)
-<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5c521c2d-36df-4f9f-91c2-7d6d30c8d3b4"></video>
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 2. 배경색 설정하기](./15-03-06-04-02-00-using_the_palette_editor.md#15-03-06-04-02-s4-02)을 참고해주세요.
 
 <a id="15-03-06-02-s4"></a>
 

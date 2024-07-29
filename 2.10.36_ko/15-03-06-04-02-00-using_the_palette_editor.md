@@ -1,5 +1,143 @@
 # 15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor)
 
+<a id="15-03-06-04-02-s1"></a>
+
+## 1. 오른쪽 클릭으로 `팔레트 편집기 메뉴` 열기
+
+<a id="90-04-60-a111"></a>
+
+#### [그림 90.4.60.a111. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` (Windows)](./90-04-0060-palette_editor.md#90-04-60-a111)
+<img width="359" height="342" alt="90-04-60-a111" src="https://github.com/user-attachments/assets/f9284785-d5d2-426d-b351-a8a9cab80e4d" />
+
+`팔레트 편집기` 대화상자의 색상 상자 목록 위에서 오른쪽 클릭을 하면 `팔레트 편집기 메뉴`가 열립니다.
+
+`팔레트 편집기 메뉴`의 기능 중 일부는 `팔레트 편집기` 대화상자 아래쪽의 버튼들과 같습니다.
+
+<a id="90-04-60-a111-01"></a>
+
+#### [영상 90.4.60.a111.1. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a111-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6da2cecf-997e-4528-be16-6915a6d20775"></video>
+
+<a id="15-03-06-04-02-s2"></a>
+
+## 2. `팔레트 편집기` 대화상자 → `탭 메뉴` → `팔레트 편집기 메뉴`로 `팔레트 편집기 메뉴` 열기
+
+<a id="90-04-60-a112"></a>
+
+#### [그림 90.4.60.a112. `팔레트 편집기` 대화상자 → `탭 메뉴` → `팔레트 편집기 메뉴` (Windows)](./90-04-0060-palette_editor.md#90-04-60-a112)
+<img width="765" height="342" alt="90-04-60-a111" src="https://github.com/user-attachments/assets/fc942a7b-effb-4217-a960-c64494a400e1" />
+
+`팔레트 편집기` 대화상자 → `탭 메뉴` → `팔레트 편집기 메뉴`를 눌러서 `팔레트 편집기 메뉴`를 열 수 있습니다.
+
+`팔레트 편집기 메뉴`의 기능 중 일부는 `팔레트 편집기` 대화상자 아래쪽의 버튼들과 같습니다.
+
+<a id="90-04-60-a112-01"></a>
+
+#### [영상 90.4.60.a112.1. `팔레트 편집기` 대화상자 → `탭 메뉴` → `팔레트 편집기 메뉴` (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a112-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/81f93518-d134-46d5-a779-90ea8b573d9c"></video>
+
+<a id="15-03-06-04-02-s3"></a>
+
+## 3. 팔레트 이름 표시 및 수정
+
+<a id="90-04-60-a113"></a>
+
+#### [그림 90.4.60.a113. `팔레트 편집기` 대화상자 → `팔레트 이름 입력창` (Windows)](./90-04-0060-palette_editor.md#90-04-60-a113)
+<img width="277" height="289" alt="90-04-60-a113" src="https://github.com/user-attachments/assets/53a04a3b-7679-4fb3-9aaf-96d617d4f104" />
+
+`팔레트 편집기` 대화상자 → `팔레트 이름 입력창`에서 팔레트의 이름을 확인할 수 있습니다.
+
+사용자가 직접 만든 팔레트나 GIMP(김프)에서 기본 제공되는 팔레트를 복제한 팔레트에 대해서 `팔레트 이름 입력창`에서 직접 이름 수정을 할 수 있습니다.
+
+<a id="90-04-60-a113-01"></a>
+
+#### [영상 90.4.60.a113.1. `팔레트 편집기` 대화상자 → `팔레트 이름 입력창`: 이름 수정 (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a113-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/cf068821-d8db-45eb-be98-7eb9b71ccc93"></video>
+
+<a id="15-03-06-04-02-s4"></a>
+
+## 4. 팔레트의 `색상 목록`
+
+<a id="90-04-60-a114"></a>
+
+#### [그림 90.4.60.a114. `팔레트 편집기` 대화상자 → `색상 목록` (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a114)
+<img width="277" height="289" alt="90-04-60-a114" src="https://github.com/user-attachments/assets/a2e54248-f1bb-4ddd-8f2f-72fb9b766a66" />
+
+팔레트의 `색상 목록`에서 팔레트가 가지고 있는 모든 색을 확인할 수 있습니다.
+
+팔레트의 `색상 목록`에서는 아래와 같은 기능을 사용할 수 있습니다.
+
+<a id="15-03-06-04-02-s4-01"></a>
+
+### 4-1. 전경색 설정하기
+[팔레트 편집기](./15-03-06-04-00-palette_editor.md) 안에서 색상 타일을 클릭하면 [전경색](./19-glossaryx-foreground_color.md)이 바뀝니다.
+
+<a id="90-04-60-a106"></a>
+
+#### [영상 90.4.60.a106. `팔레트 편집기` 대화상자에서 전경색 바꾸기 (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a106)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ca43d56d-6833-41fe-a46b-b5107ba50a35"></video>
+
+<a id="15-03-06-04-02-s4-02"></a>
+
+### 4-2. 배경색 설정하기
+[팔레트 편집기](./15-03-06-04-00-palette_editor.md) 안에서 Ctrl(⌘)을 누른채로 색상 타일을 클릭하면 [배경색](./19-glossaryx-background_color.md)이 바뀝니다.
+
+<a id="90-04-60-a107"></a>
+
+#### [영상 90.4.60.a107. `팔레트 편집기` 대화상자에서 배경색 바꾸기 (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a107)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/5c521c2d-36df-4f9f-91c2-7d6d30c8d3b4"></video>
+
+<a id="15-03-06-04-02-s4-03"></a>
+
+### 4-3. 색상 상자의 색 바꾸기
+팔레트가 사용자가 새로 만든 팔레트이거나 복제한 팔레트라면, 색상 상자를 더블 클릭하면 [전경색](./19-glossaryx-foreground_color.md)이 색상 상자의 색을 바뀔뿐만 아니라, `팔레트 색상 편집` 대화상자를 열 수 있습니다. 
+
+이 `팔레트 색상 편집` 대화상자에서 선택한 색상 상자의 색을 바꿀 수 있습니다.
+
+<a id="90-04-146-a101"></a>
+
+#### [그림 90.4.146.a101. `팔레트 색상 편집` 대화상자 (Windows) (우리말)](./90-04-0146-edit_palette_color.md#90-04-146-a101)
+<img width="407" height="414" alt="90-04-146-a101" src="https://github.com/user-attachments/assets/a88707bc-2a95-4a94-9f7e-7040c96b5bcd" />
+
+[다른 운영체제와 언어의 `팔레트 색상 편집` 대화상자 확인하기](./90-04-0146-edit_palette_color.md#90-04-146-a102)
+
+<a id="90-04-146-a111"></a>
+
+#### [영상 90.4.146.a111. `팔레트 색상 편집` 대화상자: 팔레트 편집기의 색 바꾸기 (Windows) (우리말)](./90-04-0146-edit_palette_color.md#90-04-146-a111)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/1c2e6a46-00da-45a3-8c62-97013ae06158"></video>
+
+<a id="15-03-06-04-02-s5"></a>
+
+## 5. 색상 순서
+
+<a id="90-04-60-a115"></a>
+
+#### [그림 90.4.60.a115. `팔레트 편집기` 대화상자 → `색상 순서` (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a115)
+<img width="200" height="224" alt="90-04-60-a115" src="https://github.com/user-attachments/assets/7bb9a360-68d8-4095-a359-221393d87c5d" />
+
+`색상 목록`의 색상 상자의 순서를 번호로 표시합니다.
+
+왼쪽 위에서부터 0번으로 시작되며, 오른쪽으로 1씩 번호가 늘어납니다.
+
+<a id="90-04-60-a115-01"></a>
+
+#### [영상 90.4.60.a115.1. `팔레트 편집기` 대화상자 → `색상 순서` (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a115-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/022b6862-0b71-498b-afc5-8c635d622d05"></video>
+
+<a id="15-03-06-04-02-s6"></a>
+
+## 6. 색상 이름 표시
+Below the palette display area, at the left, appears a text entry area that shows the name of the selected color (or "Untitled" if it does not have one). This information has no functional significance, and is present only to serve you as a memory aid.
+
+<a id="15-03-06-04-02-s7"></a>
+
+## 7. 팔레트 컬럼 개수
+To the right of the name entry is a spinbutton that allows you to set the number of columns used to display the palette.
+
+This only affects the display, not how the palette works.
+
+If the value is set to 0, a default will be used.
+
 ***
 
 ## 하위 페이지
