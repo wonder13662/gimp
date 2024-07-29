@@ -5,6 +5,13 @@
 #### [그림 90.4.60.a111.2.3. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `배경에서 새 색상` (Windows)](./90-04-0060-palette_editor.md#90-04-60-a111-02-03)
 <img width="359" height="342" alt="90-04-60-a111-02-03" src="https://github.com/user-attachments/assets/75c8d08d-97e9-41ba-bb63-bb469fc994d5" />
 
+`배경에서 새 색상(New Color from BG)` 메뉴를 누르면, [배경색](./19-glossaryx-background_color.md)을 가지는 새로운 색상 상자를 색상 목록에 추가합니다.
+
+<a id="90-04-60-a111-02-03-01"></a>
+
+#### [영상 90.4.60.a111.2.3.1. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `배경에서 새 색상` (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a111-02-03-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/0d76fcd7-0edc-467b-b267-995a2e801e8c"></video>
+
 ***
 
 ## 다른 페이지로 가기
