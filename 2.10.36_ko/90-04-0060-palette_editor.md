@@ -46,12 +46,16 @@
 
 [15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 그림 90.4.60.a111](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a111)
 
+[15.3.6.5. 팔레트 편집기 팝업 메뉴(The Palette Editor pop-menu) - 그림 90.4.60.a111](./15-03-06-05-00-the_palette_editor_pop_menu.md#90-04-60-a111)
+
 <a id="90-04-60-a111-01"></a>
 
 #### 영상 90.4.60.a111.1. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6da2cecf-997e-4528-be16-6915a6d20775"></video>
 
 [15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 영상 90.4.60.a111.1](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a111-01)
+
+[15.3.6.5. 팔레트 편집기 팝업 메뉴(The Palette Editor pop-menu) - 영상 90.4.60.a111.1](./15-03-06-05-00-the_palette_editor_pop_menu.md#90-04-60-a111-01)
 
 <a id="90-04-60-a112"></a>
 
@@ -60,12 +64,16 @@
 
 [15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 그림 90.4.60.a112](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a112)
 
+[15.3.6.5. 팔레트 편집기 팝업 메뉴(The Palette Editor pop-menu) - 그림 90.4.60.a112](./15-03-06-05-00-the_palette_editor_pop_menu.md#90-04-60-a112)
+
 <a id="90-04-60-a112-01"></a>
 
 #### 영상 90.4.60.a112.1. `팔레트 편집기` 대화상자 → `탭 메뉴` → `팔레트 편집기 메뉴` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/81f93518-d134-46d5-a779-90ea8b573d9c"></video>
 
 [15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 영상 90.4.60.a112.1](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a112-01)
+
+[15.3.6.5. 팔레트 편집기 팝업 메뉴(The Palette Editor pop-menu) - 영상 90.4.60.a112.1](./15-03-06-05-00-the_palette_editor_pop_menu.md#90-04-60-a112-01)
 
 <a id="90-04-60-a113"></a>
 
