@@ -1,5 +1,10 @@
 # 15.3.6.5.3. 배경에서 새 색상(New Color from BG)
 
+<a id="90-04-60-a111-02-03"></a>
+
+#### [그림 90.4.60.a111.2.3. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `배경에서 새 색상` (Windows)](./90-04-0060-palette_editor.md#90-04-60-a111-02-03)
+<img width="359" height="342" alt="90-04-60-a111-02-03" src="https://github.com/user-attachments/assets/75c8d08d-97e9-41ba-bb63-bb469fc994d5" />
+
 ***
 
 ## 다른 페이지로 가기

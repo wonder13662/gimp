@@ -1,5 +1,10 @@
 # 15.3.6.5.2. 전경에서 새 색상(New Color from FG)
 
+<a id="90-04-60-a111-02-02"></a>
+
+#### [그림 90.4.60.a111.2.2. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `전경에서 새 색상` (Windows)](./90-04-0060-palette_editor.md#90-04-60-a111-02-02)
+<img width="359" height="342" alt="90-04-60-a111-02-02" src="https://github.com/user-attachments/assets/919df9dd-c8d5-4007-8ef2-84889925116d" />
+
 ***
 
 ## 다른 페이지로 가기

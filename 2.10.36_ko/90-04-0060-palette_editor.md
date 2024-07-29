@@ -57,6 +57,62 @@
 
 [15.3.6.5. 팔레트 편집기 팝업 메뉴(The Palette Editor pop-menu) - 영상 90.4.60.a111.1](./15-03-06-05-00-the_palette_editor_pop_menu.md#90-04-60-a111-01)
 
+<a id="90-04-60-a111-02-01"></a>
+
+#### 그림 90.4.60.a111.2.1. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `색 편집` (Windows)
+<img width="359" height="342" alt="90-04-60-a111-02-01" src="https://github.com/user-attachments/assets/ba584e77-66db-4c41-9533-7193e62fb1b9" />
+
+[15.3.6.5.1. 색 편집(Edit Color) - 그림 90.4.60.a111.2.1](./15-03-06-05-01-edit_color.md#90-04-60-a111-02-01)
+
+<a id="90-04-60-a111-02-02"></a>
+
+#### 그림 90.4.60.a111.2.2. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `전경에서 새 색상` (Windows)
+<img width="359" height="342" alt="90-04-60-a111-02-02" src="https://github.com/user-attachments/assets/919df9dd-c8d5-4007-8ef2-84889925116d" />
+
+[15.3.6.5.2. 전경에서 새 색상(New Color from FG) - 그림 90.4.60.a111.2.2](./15-03-06-05-02-new_color_from_fg.md#90-04-60-a111-02-02)
+
+<a id="90-04-60-a111-02-03"></a>
+
+#### 그림 90.4.60.a111.2.3. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `배경에서 새 색상` (Windows)
+<img width="359" height="342" alt="90-04-60-a111-02-03" src="https://github.com/user-attachments/assets/75c8d08d-97e9-41ba-bb63-bb469fc994d5" />
+
+[15.3.6.5.3. 배경에서 새 색상(New Color from BG) - 그림 90.4.60.a111.2.3](./15-03-06-05-03-new_color_from_bg.md#90-04-60-a111-02-03)
+
+<a id="90-04-60-a111-02-04"></a>
+
+#### 그림 90.4.60.a111.2.4. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `색 삭제` (Windows)
+<img width="359" height="342" alt="90-04-60-a111-02-04" src="https://github.com/user-attachments/assets/db1b546e-b331-48cd-8aa7-3d57e6bc21fe" />
+
+[15.3.6.5.4. 색 삭제(Delete Color) - 그림 90.4.60.a111.2.4](./15-03-06-05-04-delete_color.md#90-04-60-a111-02-04)
+
+<a id="90-04-60-a111-02-05"></a>
+
+#### 그림 90.4.60.a111.2.5. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `축소` (Windows)
+<img width="359" height="342" alt="90-04-60-a111-02-05" src="https://github.com/user-attachments/assets/c22b3148-ead9-4183-8548-3288c4f909ff" />
+
+[15.3.6.5.5. 축소(Zoom Out) - 그림 90.4.60.a111.2.5](./15-03-06-05-05-zoom_out.md#90-04-60-a111-02-05)
+
+<a id="90-04-60-a111-02-06"></a>
+
+#### 그림 90.4.60.a111.2.6. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `확대` (Windows)
+<img width="359" height="342" alt="90-04-60-a111-02-06" src="https://github.com/user-attachments/assets/f73a131f-0422-46eb-917c-84e183f7d8b3" />
+
+[15.3.6.5.6. 확대(Zoom In) - 그림 90.4.60.a111.2.6](./15-03-06-05-06-zoom_in.md#90-04-60-a111-02-06)
+
+<a id="90-04-60-a111-02-07"></a>
+
+#### 그림 90.4.60.a111.2.7. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `전체 확대` (Windows)
+<img width="359" height="342" alt="90-04-60-a111-02-07" src="https://github.com/user-attachments/assets/448cc3d8-5c0c-46e6-93bf-7c1ee0b2bddb" />
+
+[15.3.6.5.7. 전체 확대(Zoom All) - 그림 90.4.60.a111.2.7](./15-03-06-05-07-zoom_all.md#90-04-60-a111-02-07)
+
+<a id="90-04-60-a111-02-08"></a>
+
+#### 그림 90.4.60.a111.2.8. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `활성화 팔레트 편집` (Windows)
+<img width="359" height="342" alt="90-04-60-a111-02-08" src="https://github.com/user-attachments/assets/ace44a78-5942-4899-ac9b-5cb90cd0f94e" />
+
+[15.3.6.5.8. 활성화 팔레트 편집(Edit Active Palette) - 그림 90.4.60.a111.2.8](./15-03-06-05-08-edit_active_palette.md#90-04-60-a111-02-08)
+
 <a id="90-04-60-a112"></a>
 
 #### 그림 90.4.60.a112. `팔레트 편집기` 대화상자 → `탭 메뉴` → `팔레트 편집기 메뉴` (Windows)

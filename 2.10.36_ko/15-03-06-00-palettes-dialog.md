@@ -143,7 +143,7 @@ GIMP(김프)에서 기본적으로 제공되는 팔레트가 있습니다.
 
 [15.3.6.5.7. 전체 확대(Zoom All)](./15-03-06-05-07-zoom_all.md)
 
-[15.3.6.5.8. 활성화 팔레트 수정(Edit Active Palette)](./15-03-06-05-08-edit_active_palette.md)
+[15.3.6.5.8. 활성화 팔레트 편집(Edit Active Palette)](./15-03-06-05-08-edit_active_palette.md)
 
 ***
 

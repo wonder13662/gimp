@@ -1,4 +1,9 @@
-# 15.3.6.5.8. 활성화 팔레트 수정(Edit Active Palette)
+# 15.3.6.5.8. 활성화 팔레트 편집(Edit Active Palette)
+
+<a id="90-04-60-a111-02-08"></a>
+
+#### [그림 90.4.60.a111.2.8. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `활성화 팔레트 편집` (Windows)](./90-04-0060-palette_editor.md#90-04-60-a111-02-08)
+<img width="359" height="342" alt="90-04-60-a111-02-08" src="https://github.com/user-attachments/assets/ace44a78-5942-4899-ac9b-5cb90cd0f94e" />
 
 ***
 

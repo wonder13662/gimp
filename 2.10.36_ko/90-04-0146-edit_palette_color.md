@@ -9,6 +9,8 @@
 
 [15.3.6.4.2.1.1. 색 편집(Edit Color) - 그림 90.4.146.a101](./15-03-06-04-02-01-01-edit_color.md#90-04-146-a101)
 
+[15.3.6.5.1. 색 편집(Edit Color) - 그림 90.4.146.a101](./15-03-06-05-01-edit_color.md#90-04-146-a101)
+
 <a id="90-04-146-a102"></a>
 
 #### 그림 90.4.146.a102. `팔레트 색상 편집` 대화상자 (Windows) (영어)
@@ -30,6 +32,8 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/1c2e6a46-00da-45a3-8c62-97013ae06158"></video>
 
 [15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 영상 90.4.146.a111](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-146-a111)
+
+[15.3.6.5.1. 색 편집(Edit Color) - 영상 90.4.146.a111](./15-03-06-05-01-edit_color.md#90-04-146-a111)
 
 ***
 
