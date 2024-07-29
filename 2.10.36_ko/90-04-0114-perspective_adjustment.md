@@ -48,7 +48,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.115. 3차원 변형(3D)](./90-04-0115-3d_transform.md)
+[➡️ 다음: 90.4.115. 3차원 변형(3D Transform)](./90-04-0115-3d_transform.md)
 
 [⬅️ 이전: 90.4.113. 기울이기 조정(Shear Adjustment)](./90-04-0113-shear_adjustment.md)
 

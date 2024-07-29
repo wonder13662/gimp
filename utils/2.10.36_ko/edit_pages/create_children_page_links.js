@@ -113,4 +113,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }      
 }
-doAsyncJob('15-03-06-02-00-using_the_palettes_dialog.md')
+doAsyncJob('15-00-dialogs.md')

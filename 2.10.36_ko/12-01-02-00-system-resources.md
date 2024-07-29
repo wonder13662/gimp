@@ -3,7 +3,7 @@
 <a id="90-02-01-a101"></a>
 
 #### [90.2.1.a101. 시스템 리소스 (Windows) (우리말)](./90-02-01-system-resource.md#90-02-01-a101)
-![90-02-01-system-resource(우리말)(windows)(compact)](https://github.com/wonder13662/gimp/assets/15767104/2752c284-09dc-4bf0-9adc-58ea2bc58b21)
+<img width="962" height="760" alt="90-02-01-a101" src="https://github.com/wonder13662/gimp/assets/15767104/2752c284-09dc-4bf0-9adc-58ea2bc58b21" />
 
 [다른 운영체제와 언어의 `시스템 리소스` 확인하기](./90-02-01-system-resource.md#90-02-01-a102)
 

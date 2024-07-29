@@ -128,7 +128,14 @@
 #### 그림 90.4.60.a118. `팔레트 편집기` 대화상자 → `아래쪽 버튼들` (Windows) (우리말)
 <img width="200" height="224" alt="90-04-60-a118" src="https://github.com/user-attachments/assets/af8a4cd1-c2ed-4a8a-a365-7fd95b35e217" />
 
-[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 그림 90.4.60.a118](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a118)
+[15.3.6.4.2.1. 아래쪽 버튼들(Buttons at bottom) - 그림 90.4.60.a118](./15-03-06-04-02-01-00-buttons_at_bottom.md#90-04-60-a118)
+
+<a id="90-04-60-a119"></a>
+
+#### 그림 90.4.60.a119. `팔레트 편집기` 대화상자 → `색상 수정` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-60-a119" src="https://github.com/user-attachments/assets/54119456-8f0d-46d2-ade1-34973a62ef90" />
+
+[15.3.6.4.2.1.1. 색상 수정(Edit Color) - 그림 90.4.60.a119](./15-03-06-04-02-01-01-edit_color.md#90-04-60-a119)
 
 ***
 

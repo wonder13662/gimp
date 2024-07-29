@@ -58,7 +58,7 @@
 <a id="90-03-a131"></a>
 
 #### 그림 90.3.a131. 도구상자의 모습
-![90-03-a131](https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5)
+<img width="450" height="314" alt="90-03-a131" src="https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5" />
 
 [3.2.2. 단일창 모드(single window mode) - 그림 90.3.a131](./03-02-02-single_window_mode.md#90-03-a131)
 

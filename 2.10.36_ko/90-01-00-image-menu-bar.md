@@ -1,16 +1,24 @@
 # 90.1. 이미지 메뉴 바(Image Menu Bar)
 
+<a id="90-01-a101"></a>
+
 #### 그림 90.1.a101. 이미지 메뉴 바 (Windows) (우리말)
-![image_menu_bar(windows)(우리말)(mini)](https://github.com/wonder13662/gimp/assets/15767104/030fb542-2a4a-47f8-8ee6-a75a8c3893d6)
+<img width="776" height="35" alt="90-01-a101" src="https://github.com/user-attachments/assets/4eca808a-d589-4e25-ba10-519019492752" />
+
+<a id="90-01-a102"></a>
 
 #### 그림 90.1.a102. 이미지 메뉴 바 (Windows) (영어)
-![image_menu_bar(windows)(영어)(mini)](https://github.com/wonder13662/gimp/assets/15767104/7bc825bf-575e-49a7-9e44-483da5d1ecb6)
+<img width="627" height="35" alt="90-01-a102" src="https://github.com/user-attachments/assets/ddf088c3-d87d-4b73-8da1-638334bebafa" />
+
+<a id="90-01-a103"></a>
 
 #### 그림 90.1.a103. 이미지 메뉴 바 (Mac) (우리말)
-![image_menu_bar(우리말)(mac)(50%)](https://github.com/wonder13662/gimp/assets/15767104/b2979bcc-f8a1-408d-a0b2-637a3a355128)
+<img width="782" height="24" alt="90-01-a103" src="https://github.com/wonder13662/gimp/assets/15767104/b2979bcc-f8a1-408d-a0b2-637a3a355128" />
+
+<a id="90-01-a104"></a>
 
 #### 그림 90.1.a104. 이미지 메뉴 바 (Mac) (영어)
-![image_menu_bar(영어)(mac)(50%)](https://github.com/wonder13662/gimp/assets/15767104/e10bf540-49d7-4fd6-b90c-8c2bb938c1f1)
+<img width="707" height="24" alt="90-01-a104" src="https://github.com/wonder13662/gimp/assets/15767104/e10bf540-49d7-4fd6-b90c-8c2bb938c1f1" />
 
 ***
 

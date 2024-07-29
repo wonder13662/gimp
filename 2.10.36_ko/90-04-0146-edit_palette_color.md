@@ -28,3 +28,17 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/1c2e6a46-00da-45a3-8c62-97013ae06158"></video>
 
 [15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 영상 90.4.146.a111](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-146-a111)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+
+[⬅️ 이전: 90.4.145. Python-fu: 팔레트 정렬(Python-fu: Palette Sort)](./90-04-0145-python_fu_palette_sort.md)
+
+[⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-0000-dialogs.md)
+
+[⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
+
+[🏠 홈](./00-home.md)

@@ -2432,21 +2432,17 @@
 
 [15.3.6.4.2.1. 아래쪽 버튼들(Buttons at bottom)](./15-03-06-04-02-01-00-buttons_at_bottom.md)
 
-[15.3.6.4.2.1.1. 저장(Save)](./15-03-06-04-02-01-01-save.md)
+[15.3.6.4.2.1.1. 색상 수정(Edit Color)](./15-03-06-04-02-01-01-edit_color.md)
 
-[15.3.6.4.2.1.2. 뒤집기(Revert)](./15-03-06-04-02-01-02-revert.md)
+[15.3.6.4.2.1.2. 전경색으로부터 가져오기(New Color from FG)](./15-03-06-04-02-01-02-new_color_from_fg.md)
 
-[15.3.6.4.2.1.3. 색상 수정(Edit Color)](./15-03-06-04-02-01-03-edit_color.md)
+[15.3.6.4.2.1.3. 색상 삭제(Delete Color)](./15-03-06-04-02-01-03-delete_color.md)
 
-[15.3.6.4.2.1.4. 전경색으로부터 가져오기(New Color from FG)](./15-03-06-04-02-01-04-new_color_from_fg.md)
+[15.3.6.4.2.1.4. 축소(Zoom Out)](./15-03-06-04-02-01-04-zoom_out.md)
 
-[15.3.6.4.2.1.5. 색상 삭제(Delete Color)](./15-03-06-04-02-01-05-delete_color.md)
+[15.3.6.4.2.1.5. 확대(Zoom In)](./15-03-06-04-02-01-05-zoom_in.md)
 
-[15.3.6.4.2.1.6. 축소(Zoom Out)](./15-03-06-04-02-01-06-zoom_out.md)
-
-[15.3.6.4.2.1.7. 확대(Zoom In)](./15-03-06-04-02-01-07-zoom_in.md)
-
-[15.3.6.4.2.1.8. 화면에 맞추기(Zoom All)](./15-03-06-04-02-01-08-zoom_all.md)
+[15.3.6.4.2.1.6. 화면에 맞추기(Zoom All)](./15-03-06-04-02-01-06-zoom_all.md)
 
 [15.3.6.5. 팔레트 편집기 팝업 메뉴(The Palette Editor pop-menu)](./15-03-06-05-00-the_palette_editor_pop_menu.md)
 
@@ -5096,7 +5092,7 @@
 
 [90.4.114. 원근법 조정(Perspective Adjustment)](./90-04-0114-perspective_adjustment.md)
 
-[90.4.115. 3차원 변형(3D)](./90-04-0115-3d_transform.md)
+[90.4.115. 3차원 변형(3D Transform)](./90-04-0115-3d_transform.md)
 
 [90.4.116. 통합 변형](./90-04-0116-unified_transform.md)
 
@@ -5157,6 +5153,8 @@
 [90.4.144. Python-fu: 팔레트 오프셋(Python-fu: Palette Offset)](./90-04-0144-python_fu_palette_offset.md)
 
 [90.4.145. Python-fu: 팔레트 정렬(Python-fu: Palette Sort)](./90-04-0145-python_fu_palette_sort.md)
+
+[90.4.146. 팔레트 색상 편집(Edit Palette Color)](./90-04-0146-edit_palette_color.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

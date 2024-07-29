@@ -3,7 +3,7 @@
 <a id="90-03-a131"></a>
 
 #### [그림 90.3.a131. 도구상자의 모습](./90-03-00-toolbox.md#90-03-a131)
-![90-03-a131](https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5)
+<img width="450" height="314" alt="90-03-a131" src="https://github.com/wonder13662/gimp/assets/15767104/c38380c7-a72b-42cd-9848-78f431c329f5" />
 
 1. [GIMP 로고](./03-02-03-the-toolbox.md#03-02-01-s1)
 2. [도구 아이콘](./03-02-03-the-toolbox.md#03-02-01-s2)

@@ -160,7 +160,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.145. Python-fu: 팔레트 정렬(Python-fu: Palette Sort)](./90-04-0145-python_fu_palette_sort.md)
+[⬅️ 이전: 90.4.146. 팔레트 색상 편집(Edit Palette Color)](./90-04-0146-edit_palette_color.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 
