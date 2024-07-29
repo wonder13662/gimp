@@ -688,7 +688,7 @@
 
 [15.3.6.4.2.1.5. 확대(Zoom In)](./15-03-06-04-02-01-05-zoom_in.md)
 
-[15.3.6.4.2.1.6. 화면에 맞추기(Zoom All)](./15-03-06-04-02-01-06-zoom_all.md)
+[15.3.6.4.2.1.6. 전체 확대(Zoom All)](./15-03-06-04-02-01-06-zoom_all.md)
 
 [15.3.6.5. 팔레트 편집기 팝업 메뉴(The Palette Editor pop-menu)](./15-03-06-05-00-the_palette_editor_pop_menu.md)
 
@@ -704,7 +704,7 @@
 
 [15.3.6.5.6. 확대(Zoom In)](./15-03-06-05-06-zoom_in.md)
 
-[15.3.6.5.7. 화면에 맞추기(Zoom All)](./15-03-06-05-07-zoom_all.md)
+[15.3.6.5.7. 전체 확대(Zoom All)](./15-03-06-05-07-zoom_all.md)
 
 [15.3.6.5.8. 활성화 팔레트 수정(Edit Active Palette)](./15-03-06-05-08-edit_active_palette.md)
 

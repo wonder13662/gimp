@@ -6,7 +6,7 @@
 
 [➡️ 다음: 15.3.7. 태그(Tagging)](./15-03-07-tagging.md)
 
-[⬅️ 이전: 15.3.6.5.7. 화면에 맞추기(Zoom All)](./15-03-06-05-07-zoom_all.md)
+[⬅️ 이전: 15.3.6.5.7. 전체 확대(Zoom All)](./15-03-06-05-07-zoom_all.md)
 
 [⬆️ 위: 15.3.6.5. 팔레트 편집기 팝업 메뉴(The Palette Editor pop-menu)](./15-03-06-05-00-the_palette_editor_pop_menu.md)
 
