@@ -1,5 +1,14 @@
 # 15.3.6.4.2.1. 아래쪽 버튼들(Buttons at bottom)
 
+<a id="90-04-60-a118"></a>
+
+#### [그림 90.4.60.a118. `팔레트 편집기` 대화상자 → `아래쪽 버튼들` (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a118)
+<img width="200" height="224" alt="90-04-60-a118" src="https://github.com/user-attachments/assets/af8a4cd1-c2ed-4a8a-a365-7fd95b35e217" />
+
+`팔레트 편집기` 대화상자의 아래쪽에 버튼들이 있습니다.
+
+이 버튼들은 [팔레트 편집기 팝업 메뉴](./15-03-06-05-00-the_palette_editor_pop_menu.md)의 일부 기능과 같습니다.
+
 ***
 
 ## 다른 페이지로 가기

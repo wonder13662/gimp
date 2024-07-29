@@ -123,6 +123,13 @@
 
 [15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 영상 90.4.60.a117.1](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a117-01)
 
+<a id="90-04-60-a118"></a>
+
+#### 그림 90.4.60.a118. `팔레트 편집기` 대화상자 → `아래쪽 버튼들` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-60-a118" src="https://github.com/user-attachments/assets/af8a4cd1-c2ed-4a8a-a365-7fd95b35e217" />
+
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 그림 90.4.60.a118](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a118)
+
 ***
 
 ## 다른 페이지로 가기
