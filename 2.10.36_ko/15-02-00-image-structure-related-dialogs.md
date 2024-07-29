@@ -208,7 +208,7 @@
 
 [15.2.4.3.5. HTML 표기(HTML Notation)](./15-02-04-03-05-html_notation.md)
 
-[15.2.4.3.6. 색상 수정하기(Edit Color)](./15-02-04-03-06-edit_color.md)
+[15.2.4.3.6. 색 편집(Edit Color)](./15-02-04-03-06-edit_color.md)
 
 [15.2.4.3.7. 색상 추가하기(Add Color)](./15-02-04-03-07-add_color.md)
 

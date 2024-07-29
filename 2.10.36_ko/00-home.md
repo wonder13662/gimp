@@ -1964,7 +1964,7 @@
 
 [15.2.4.3.5. HTML 표기(HTML Notation)](./15-02-04-03-05-html_notation.md)
 
-[15.2.4.3.6. 색상 수정하기(Edit Color)](./15-02-04-03-06-edit_color.md)
+[15.2.4.3.6. 색 편집(Edit Color)](./15-02-04-03-06-edit_color.md)
 
 [15.2.4.3.7. 색상 추가하기(Add Color)](./15-02-04-03-07-add_color.md)
 
@@ -2432,9 +2432,9 @@
 
 [15.3.6.4.2.1. 아래쪽 버튼들(Buttons at bottom)](./15-03-06-04-02-01-00-buttons_at_bottom.md)
 
-[15.3.6.4.2.1.1. 색상 수정(Edit Color)](./15-03-06-04-02-01-01-edit_color.md)
+[15.3.6.4.2.1.1. 색 편집(Edit Color)](./15-03-06-04-02-01-01-edit_color.md)
 
-[15.3.6.4.2.1.2. 전경색에서 가져오기(New Color from FG)](./15-03-06-04-02-01-02-new_color_from_fg.md)
+[15.3.6.4.2.1.2. 전경에서 새 색상(New Color from FG)](./15-03-06-04-02-01-02-new_color_from_fg.md)
 
 [15.3.6.4.2.1.3. 색상 삭제(Delete Color)](./15-03-06-04-02-01-03-delete_color.md)
 
@@ -2446,13 +2446,13 @@
 
 [15.3.6.5. 팔레트 편집기 팝업 메뉴(The Palette Editor pop-menu)](./15-03-06-05-00-the_palette_editor_pop_menu.md)
 
-[15.3.6.5.1. 색상 편집(Edit Color)](./15-03-06-05-01-edit_color.md)
+[15.3.6.5.1. 색 편집(Edit Color)](./15-03-06-05-01-edit_color.md)
 
-[15.3.6.5.2. 전경색에서 가져오기(New Color from FG)](./15-03-06-05-02-new_color_from_fg.md)
+[15.3.6.5.2. 전경에서 새 색상(New Color from FG)](./15-03-06-05-02-new_color_from_fg.md)
 
-[15.3.6.5.3. 배경색에서 가져오기(New Color from BG)](./15-03-06-05-03-new_color_from_bg.md)
+[15.3.6.5.3. 배경에서 새 색상(New Color from BG)](./15-03-06-05-03-new_color_from_bg.md)
 
-[15.3.6.5.4. 색상 삭제(Delete Color)](./15-03-06-05-04-delete_color.md)
+[15.3.6.5.4. 색 삭제(Delete Color)](./15-03-06-05-04-delete_color.md)
 
 [15.3.6.5.5. 축소(Zoom Out)](./15-03-06-05-05-zoom_out.md)
 

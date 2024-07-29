@@ -132,24 +132,31 @@
 
 <a id="90-04-60-a119"></a>
 
-#### 그림 90.4.60.a119. `팔레트 편집기` 대화상자 → `아래쪽 버튼들` → `색상 수정` (Windows) (우리말)
-<img width="200" height="224" alt="90-04-60-a119" src="https://github.com/user-attachments/assets/54119456-8f0d-46d2-ade1-34973a62ef90" />
+#### 그림 90.4.60.a119. `팔레트 편집기` 대화상자 → `아래쪽 버튼들` → `색 편집` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-60-a119" src="https://github.com/user-attachments/assets/6d3146d5-d4c1-43b8-9714-21d036be0885" />
 
-[15.3.6.4.2.1.1. 색상 수정(Edit Color) - 그림 90.4.60.a119](./15-03-06-04-02-01-01-edit_color.md#90-04-60-a119)
+[15.3.6.4.2.1.1. 색 편집(Edit Color) - 그림 90.4.60.a119](./15-03-06-04-02-01-01-edit_color.md#90-04-60-a119)
 
 <a id="90-04-60-a119-01"></a>
 
-#### 영상 90.4.60.a119.1. `팔레트 편집기` 대화상자 → `아래쪽 버튼들` → `색상 수정` (Windows) (우리말)
+#### 영상 90.4.60.a119.1. `팔레트 편집기` 대화상자 → `아래쪽 버튼들` → `색 편집` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e3cb23d3-763a-4e97-9f4e-064b1ad17ee9"></video>
 
-[15.3.6.4.2.1.1. 색상 수정(Edit Color) - 영상 90.4.60.a119.1](./15-03-06-04-02-01-01-edit_color.md#90-04-60-a119-01)
+[15.3.6.4.2.1.1. 색 편집(Edit Color) - 영상 90.4.60.a119.1](./15-03-06-04-02-01-01-edit_color.md#90-04-60-a119-01)
 
 <a id="90-04-60-a120"></a>
 
-#### 그림 90.4.60.a120. `팔레트 편집기` 대화상자 → `아래쪽 버튼들` → `전경색에서 가져오기` (Windows) (우리말)
-<img width="200" height="224" alt="90-04-60-a120" src="https://github.com/user-attachments/assets/82d4a8fb-978e-4cad-9241-ed48728de0b3" />
+#### 그림 90.4.60.a120. `팔레트 편집기` 대화상자 → `아래쪽 버튼들` → `전경에서 새 색상` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-60-a120" src="https://github.com/user-attachments/assets/96aca1b7-a859-49f8-876f-e448277f7651" />
 
-[15.3.6.4.2.1.2. 전경색에서 가져오기(New Color from FG) - 그림 90.4.60.a120](./15-03-06-04-02-01-02-new_color_from_fg.md#90-04-60-a120)
+[15.3.6.4.2.1.2. 전경에서 새 색상(New Color from FG) - 그림 90.4.60.a120](./15-03-06-04-02-01-02-new_color_from_fg.md#90-04-60-a120)
+
+<a id="90-04-60-a121"></a>
+
+#### 그림 90.4.60.a121. `팔레트 편집기` 대화상자 → `아래쪽 버튼들` → `색 삭제` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-60-a121" src="https://github.com/user-attachments/assets/6eceab47-c178-4506-98af-f8f5460849d6" />
+
+[15.3.6.4.2.1.3. 색상 삭제(Delete Color) - 그림 90.4.60.a121](./15-03-06-04-02-01-03-delete_color.md#90-04-60-a121)
 
 ***
 

@@ -57,9 +57,9 @@ GIMP(김프)에서 기본적으로 제공되는 팔레트는 팔레트 편집기
 
 [15.3.6.4.2.1. 아래쪽 버튼들(Buttons at bottom)](./15-03-06-04-02-01-00-buttons_at_bottom.md)
 
-[15.3.6.4.2.1.1. 색상 수정(Edit Color)](./15-03-06-04-02-01-01-edit_color.md)
+[15.3.6.4.2.1.1. 색 편집(Edit Color)](./15-03-06-04-02-01-01-edit_color.md)
 
-[15.3.6.4.2.1.2. 전경색에서 가져오기(New Color from FG)](./15-03-06-04-02-01-02-new_color_from_fg.md)
+[15.3.6.4.2.1.2. 전경에서 새 색상(New Color from FG)](./15-03-06-04-02-01-02-new_color_from_fg.md)
 
 [15.3.6.4.2.1.3. 색상 삭제(Delete Color)](./15-03-06-04-02-01-03-delete_color.md)
 
