@@ -127,16 +127,43 @@
 <a id="15-03-06-04-02-s6"></a>
 
 ## 6. 색상 이름 표시
-Below the palette display area, at the left, appears a text entry area that shows the name of the selected color (or "Untitled" if it does not have one). This information has no functional significance, and is present only to serve you as a memory aid.
+
+<a id="90-04-60-a116"></a>
+
+#### [그림 90.4.60.a116. `팔레트 편집기` 대화상자 → `색상 이름` (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a116)
+<img width="200" height="224" alt="90-04-60-a116" src="https://github.com/user-attachments/assets/25a8768c-6d4b-4f41-89f2-1617de5064c4" />
+
+[색상 순서](./15-03-06-04-02-00-using_the_palette_editor.md#15-03-06-04-02-s5)의 오른쪽에 `색상 이름` 입력창이 있습니다.
+
+이 입력창에 선택한 색상의 이름이 표시됩니다.
+
+이 이름은 GIMP(김프)에 등록된 색상 이름이며, 이름이 없는 경우에는 `제목없음(Untitled)`로 표시됩니다.
+
+이름은 기능은 없으며, 사용자가 색상을 구분하기 쉬운 용도로만 사용됩니다.
+
+⚠️ 주의: 대부분의 색상의 이름은 표시되지 않습니다. 심지어 완전한 흰색(RGB(255, 255, 255))도 이름이 표시되지 않습니다.
+
+<a comment="TODO 색상의 이름이 대부분 표시되지 않음. 이슈 등록 필요."></a>
 
 <a id="15-03-06-04-02-s7"></a>
 
-## 7. 팔레트 컬럼 개수
-To the right of the name entry is a spinbutton that allows you to set the number of columns used to display the palette.
+## 7. 팔레트 컬럼수 설정
 
-This only affects the display, not how the palette works.
+<a id="90-04-60-a117"></a>
 
-If the value is set to 0, a default will be used.
+#### [그림 90.4.60.a117. `팔레트 편집기` 대화상자 → `팔레트 컬럼수 설정` (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a117)
+<img width="200" height="224" alt="90-04-60-a117" src="https://github.com/user-attachments/assets/23e7b5c9-e74d-43ed-aef9-2783eb51c4db" />
+
+[색상 이름 입력창](./15-03-06-04-02-00-using_the_palette_editor.md#15-03-06-04-02-s6)의 오른쪽에 `팔레트 컬럼수 설정` 스핀 버튼과 입력창이 있습니다.
+
+`팔레트 컬럼수 설정`의 값은 [팔레트의 `색상 목록`](./15-03-06-04-02-00-using_the_palette_editor.md#15-03-06-04-02-s4)에서 보여지는 열(Column)의 갯수를 설정할 수 있습니다.
+
+`팔레트 컬럼수 설정`의 값을 0으로 설정하면 기본값(16개)으로 설정됩니다.
+
+<a id="90-04-60-a117-01"></a>
+
+#### [영상 90.4.60.a117.1. `팔레트 편집기` 대화상자 → `팔레트 컬럼수 설정` (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a117-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2009e8b2-870f-4eff-a08c-0a3691adc793"></video>
 
 ***
 

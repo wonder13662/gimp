@@ -102,6 +102,27 @@
 
 [15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 영상 90.4.60.a115.1](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a115-01)
 
+<a id="90-04-60-a116"></a>
+
+#### 그림 90.4.60.a116. `팔레트 편집기` 대화상자 → `색상 이름` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-60-a116" src="https://github.com/user-attachments/assets/25a8768c-6d4b-4f41-89f2-1617de5064c4" />
+
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 그림 90.4.60.a116](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a116)
+
+<a id="90-04-60-a117"></a>
+
+#### 그림 90.4.60.a117. `팔레트 편집기` 대화상자 → `팔레트 컬럼수 설정` (Windows) (우리말)
+<img width="200" height="224" alt="90-04-60-a117" src="https://github.com/user-attachments/assets/23e7b5c9-e74d-43ed-aef9-2783eb51c4db" />
+
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 그림 90.4.60.a117](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a117)
+
+<a id="90-04-60-a117-01"></a>
+
+#### 영상 90.4.60.a117.1. `팔레트 편집기` 대화상자 → `팔레트 컬럼수 설정` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2009e8b2-870f-4eff-a08c-0a3691adc793"></video>
+
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 영상 90.4.60.a117.1](./15-03-06-04-02-00-using_the_palette_editor.md#90-04-60-a117-01)
+
 ***
 
 ## 다른 페이지로 가기
