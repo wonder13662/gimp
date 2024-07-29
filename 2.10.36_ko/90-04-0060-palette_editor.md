@@ -155,6 +155,20 @@
 
 [15.3.6.5.8. 활성화 팔레트 편집(Edit Active Palette) - 그림 90.4.60.a111.2.8](./15-03-06-05-08-edit_active_palette.md#90-04-60-a111-02-08)
 
+<a id="90-04-60-a111-02-08-01"></a>
+
+#### 영상 90.4.60.a111.2.8.1. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `활성화 팔레트 편집` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/01f3470d-44c7-49a4-8b08-b906cdd35ccf"></video>
+
+[15.3.6.5.8. 활성화 팔레트 편집(Edit Active Palette) - 영상 90.4.60.a111.2.8.1](./15-03-06-05-08-edit_active_palette.md#90-04-60-a111-02-08-01)
+
+<a id="90-04-60-a111-02-08-02"></a>
+
+#### 영상 90.4.60.a111.2.8.2. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `활성화 팔레트 편집`: 체크박스 꺼진 경우의 팔레트 직접 설정 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d018061e-ca83-4b14-9a4d-392382551816"></video>
+
+[15.3.6.5.8. 활성화 팔레트 편집(Edit Active Palette) - 영상 90.4.60.a111.2.8.2](./15-03-06-05-08-edit_active_palette.md#90-04-60-a111-02-08-02)
+
 <a id="90-04-60-a112"></a>
 
 #### 그림 90.4.60.a112. `팔레트 편집기` 대화상자 → `탭 메뉴` → `팔레트 편집기 메뉴` (Windows)
