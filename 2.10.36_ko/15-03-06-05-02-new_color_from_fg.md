@@ -5,6 +5,13 @@
 #### [그림 90.4.60.a111.2.2. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `전경에서 새 색상` (Windows)](./90-04-0060-palette_editor.md#90-04-60-a111-02-02)
 <img width="359" height="342" alt="90-04-60-a111-02-02" src="https://github.com/user-attachments/assets/919df9dd-c8d5-4007-8ef2-84889925116d" />
 
+`전경에서 새 색상(New Color from FG)` 메뉴를 누르면, [전경색](./19-glossaryx-foreground_color.md)을 가지는 새로운 색상 상자를 색상 목록에 추가합니다.
+
+<a id="90-04-60-a111-02-02-01"></a>
+
+#### [영상 90.4.60.a111.2.2. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `전경에서 새 색상` (Windows) (우리말)](./90-04-0060-palette_editor.md#90-04-60-a111-02-02-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/32d4fb6b-68c2-4afa-8c99-217a329cd9aa"></video>
+
 ***
 
 ## 다른 페이지로 가기

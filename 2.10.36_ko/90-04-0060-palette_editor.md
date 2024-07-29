@@ -71,6 +71,13 @@
 
 [15.3.6.5.2. 전경에서 새 색상(New Color from FG) - 그림 90.4.60.a111.2.2](./15-03-06-05-02-new_color_from_fg.md#90-04-60-a111-02-02)
 
+<a id="90-04-60-a111-02-02-01"></a>
+
+#### 영상 90.4.60.a111.2.2. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `전경에서 새 색상` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/32d4fb6b-68c2-4afa-8c99-217a329cd9aa"></video>
+
+[15.3.6.5.2. 전경에서 새 색상(New Color from FG) - 영상 90.4.60.a111.2.2](./15-03-06-05-02-new_color_from_fg.md#90-04-60-a111-02-02-01)
+
 <a id="90-04-60-a111-02-03"></a>
 
 #### 그림 90.4.60.a111.2.3. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `배경에서 새 색상` (Windows)
