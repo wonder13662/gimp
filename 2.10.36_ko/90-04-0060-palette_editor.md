@@ -115,7 +115,7 @@
 
 <a id="90-04-60-a111-02-05-01"></a>
 
-#### 영상 90.4.60.a111.2.5.1. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `축소` (Windows)
+#### 영상 90.4.60.a111.2.5.1. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `축소` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f1d69940-040b-4b14-b751-7a8cb1d12de7"></video>
 
 [15.3.6.5.5. 축소(Zoom Out) - 영상 90.4.60.a111.2.5.1](./15-03-06-05-05-zoom_out.md#90-04-60-a111-02-05-01)
@@ -126,6 +126,13 @@
 <img width="359" height="342" alt="90-04-60-a111-02-06" src="https://github.com/user-attachments/assets/f73a131f-0422-46eb-917c-84e183f7d8b3" />
 
 [15.3.6.5.6. 확대(Zoom In) - 그림 90.4.60.a111.2.6](./15-03-06-05-06-zoom_in.md#90-04-60-a111-02-06)
+
+<a id="90-04-60-a111-02-06-01"></a>
+
+#### 영상 90.4.60.a111.2.6.1. `팔레트 편집기` 대화상자 → `팔레트 편집기 메뉴` → `확대` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/dacb8f4a-91e6-4414-9638-71f1035bbdb3"></video>
+
+[15.3.6.5.6. 확대(Zoom In) - 영상 90.4.60.a111.2.6.1](./15-03-06-05-06-zoom_in.md#90-04-60-a111-02-06-01)
 
 <a id="90-04-60-a111-02-07"></a>
 
