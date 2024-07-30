@@ -150,6 +150,8 @@ Name: Blues
 
 ## 관련 정보
 
+[15.3.6. 팔레트 대화상자(Palettes dialog)](./15-03-06-00-palettes-dialog.md)
+
 [15.3.6.4. 팔레트 편집기(Palette Editor)](./15-03-06-04-00-palette_editor.md)
 
 ***
