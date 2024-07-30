@@ -143,4 +143,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('90-05-00-image_window.md')
+doAsyncJob('15-03-06-05-00-the_palette_editor_pop_menu.md')
