@@ -43,13 +43,6 @@
 
 [15.3.6.3.14.2. 슬라이스 표현식(Slice Expression) - 그림 90.4.145.a112](./15-03-06-03-14-02-slice_expression.md#90-04-145-a112)
 
-<a id="90-04-145-a112-05"></a>
-
-#### 그림 90.4.145.a112.5. `Python-fu: 팔레트 정렬` 대화상자 → `:1,4` (Windows) (우리말)
-<img width="347" height="89" alt="90-04-145-a112-05" src="https://github.com/user-attachments/assets/6f3bed1b-2b98-4b1f-85d9-2ffe30d524f4" />
-
-[15.3.6.3.14.2. 슬라이스 표현식(Slice Expression) - 그림 90.4.145.a112.5](./15-03-06-03-14-02-slice_expression.md#90-04-145-a112-05)
-
 <a id="90-04-145-a112-08-01"></a>
 
 #### 그림 90.4.145.a112.8. `Python-fu: 팔레트 정렬` 대화상자 → `4:`: 실패 메시지 대화상자 (Windows) (우리말)
