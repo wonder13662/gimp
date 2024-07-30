@@ -7,7 +7,7 @@
 <a id="90-01-10-02-20-a101"></a>
 
 #### [그림 90.1.10.2.20.a101. `이미지 메뉴 바` → `창` → `도킹가능한 대화` → `팔레트` (Windows)](./90-01-10-02-20-palettes.md#90-01-10-02-20-a101)
-<img width="980" height="825" alt="90-01-10-02-20-a101" src="https://github.com/user-attachments/assets/3266df24-489d-432c-bef1-8ff9784d0e4a" />
+<img width="980" height="825" alt="90-01-10-02-20-a101" src="https://github.com/user-attachments/assets/1841e577-c709-4495-87b9-8cee87ef4349" />
 
 [다른 운영체제와 언어의 `이미지 메뉴 바` → `창` → `도킹가능한 대화` → `팔레트` 확인하기](./90-01-10-02-20-palettes.md#90-01-10-02-20-a102)
 
