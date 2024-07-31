@@ -20,6 +20,8 @@
 
 [15.3.1. 전경/배경색 대화상자(FG/BG color dialogs)](./15-03-01-00-fg-bg-color-dialogs.md)
 
+[15.3.6.4.2. 팔레트 편집기 사용하기(Using the Palette Editor) - 1. 전경색 설정하기](./15-03-06-04-02-00-using_the_palette_editor.md#15-03-06-04-02-s4-01)
+
 [90.1.2.14. 전경색으로 채우기(Fill with FG Color)](./90-01-02-14-fill_with_fg_color.md)
 
 [90.3.3. 전경색/배경색(Foreground/Background color)](./90-03-03-foreground_color_n_background_color.md)
