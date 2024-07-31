@@ -19,7 +19,7 @@
 
 [⬆️ 위: 15.3.2.2. 붓 대화상자 사용하기(Using the Brushes Dialog)](./15-03-02-02-00-using_the_brushes_dialog.md)
 
-[⬆️ 위: 15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes-dialog.md)
+[⬆️ 위: 15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes_dialog.md)
 
 [⬆️ 위: 15.3. 이미지 콘텐츠 관련 대화상자(Image content related dialogs)](./15-03-00-image-content-related-dialogs.md)
 

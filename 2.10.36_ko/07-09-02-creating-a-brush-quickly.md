@@ -51,7 +51,7 @@
 
 ## 관련 정보
 
-[15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes-dialog.md)
+[15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes_dialog.md)
 
 ***
 

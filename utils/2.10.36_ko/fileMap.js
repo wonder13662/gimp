@@ -1150,7 +1150,7 @@ module.exports = {
         '15.3.1. 전경/배경색 대화상자(FG/BG color dialogs)'
       ],
       [
-        '15-03-02-00-brushes-dialog.md', 
+        '15-03-02-00-brushes_dialog.md', 
         '15.3.2. 붓 대화상자(Brushes dialog)',
         '15.3.2. 붓 대화상자'
       ],
@@ -1168,11 +1168,11 @@ module.exports = {
         '15.3.5. 그라디언트 대화상자(Gradient dialog)'
       ],
       [
-        '15-03-06-00-palettes-dialog.md', 
+        '15-03-06-00-palettes_dialog.md', 
         '15.3.6. 팔레트 대화상자(Palettes dialog)'
       ],
       [
-        '15-03-07-tagging.md', 
+        '15-03-07-00-tagging.md', 
         '15.3.7. 태그(Tagging)'
       ],
       [

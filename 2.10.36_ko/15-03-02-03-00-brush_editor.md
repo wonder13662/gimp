@@ -59,7 +59,7 @@ GIMP(김프)에서 기본적으로 제공되는 붓의 파라미터는 바꿀 �
 
 [⬅️ 이전: 15.3.2.2.5.12. 사각형 붓 만들기(Rectangular)](./15-03-02-02-05-12-rectangular.md)
 
-[⬆️ 위: 15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes-dialog.md)
+[⬆️ 위: 15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes_dialog.md)
 
 [⬆️ 위: 15.3. 이미지 콘텐츠 관련 대화상자(Image content related dialogs)](./15-03-00-image-content-related-dialogs.md)
 

@@ -33,7 +33,7 @@
 
 [⬅️ 이전: 15.3.6.4.2.1.6. 전체 확대(Zoom All)](./15-03-06-04-02-01-06-zoom_all.md)
 
-[⬆️ 위: 15.3.6. 팔레트 대화상자(Palettes dialog)](./15-03-06-00-palettes-dialog.md)
+[⬆️ 위: 15.3.6. 팔레트 대화상자(Palettes dialog)](./15-03-06-00-palettes_dialog.md)
 
 [⬆️ 위: 15.3. 이미지 콘텐츠 관련 대화상자(Image content related dialogs)](./15-03-00-image-content-related-dialogs.md)
 

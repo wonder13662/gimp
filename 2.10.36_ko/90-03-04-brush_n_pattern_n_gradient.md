@@ -49,7 +49,7 @@
 
 [3.2.3. 도구상자(The toolbox) - 그림 90.3.4.a4](./03-02-03-the-toolbox.md#90-03-04-a4)
 
-[15.3.2. 붓 대화상자(Brushes dialog) - 그림 90.3.4.a4](./15-03-02-00-brushes-dialog.md#90-03-04-a4)
+[15.3.2. 붓 대화상자(Brushes dialog) - 그림 90.3.4.a4](./15-03-02-00-brushes_dialog.md#90-03-04-a4)
 
 [15.3.2.1. 대화상자 활성화하기(Activating the Dialog) - 그림 90.3.4.a4](./15-03-02-01-activating_the_dialog.md#90-03-04-a4)
 

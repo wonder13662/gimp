@@ -48,7 +48,7 @@
 #### [그림 90.3.2.23.a117.2.1.5. `도구 옵션` → `그리기 붓` → `붓` → `붓 대화상자` → `아래쪽 버튼` → `붓 선택 영역 대화상자 열기` (Windows) (우리말)](./90-03-02-23-paintbrush.md#90-03-02-23-a117-02-01-05)
 <img width="264" height="497" alt="90-03-02-23-a117-02-01-05" src="https://github.com/user-attachments/assets/e63bec41-757a-4a13-ac59-207c40ae844c" />
 
-`붓 선택 영역 대화상자 열기` 버튼을 클릭하면 [붓 대화상자](./15-03-02-00-brushes-dialog.md)를 열어줍니다.
+`붓 선택 영역 대화상자 열기` 버튼을 클릭하면 [붓 대화상자](./15-03-02-00-brushes_dialog.md)를 열어줍니다.
 
 [관련 정보: 14.3.1.2.3.1. 간단한 붓 대화상자(Simple Brush Dialog) - 붓 선택 영역 대화상자 열기](./14-03-01-02-03-01-simple_brush_dialog.md#14-03-01-02-03-01-s1-05)
 
@@ -94,9 +94,9 @@
 
 [➡️ 다음: 15.3.2.2. 붓 대화상자 사용하기(Using the Brushes Dialog)](./15-03-02-02-00-using_the_brushes_dialog.md)
 
-[⬅️ 이전: 15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes-dialog.md)
+[⬅️ 이전: 15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes_dialog.md)
 
-[⬆️ 위: 15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes-dialog.md)
+[⬆️ 위: 15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes_dialog.md)
 
 [⬆️ 위: 15.3. 이미지 콘텐츠 관련 대화상자(Image content related dialogs)](./15-03-00-image-content-related-dialogs.md)
 

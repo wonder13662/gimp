@@ -52,7 +52,7 @@
 
 ## 3. 시작점 만들기
 
-그리기 붓(Paintbrush)를 도구상자에서 클릭합니다. 이미지 안에 선이 시작하는 곳에 클릭합니다. 점 하나가 화면에 나타납니다. 점의 크기는 붓의 크기를 나타냅니다. 붓의 크기는 [15.3.2. 붓 대화상자](./15-03-02-00-brushes-dialog.md)에서 바꿀 수 있습니다. 그럼 선을 그려봅시다. Shift(Windows) or ⇧(Mac) 키를 누른채 유지합니다.
+그리기 붓(Paintbrush)를 도구상자에서 클릭합니다. 이미지 안에 선이 시작하는 곳에 클릭합니다. 점 하나가 화면에 나타납니다. 점의 크기는 붓의 크기를 나타냅니다. 붓의 크기는 [15.3.2. 붓 대화상자](./15-03-02-00-brushes_dialog.md)에서 바꿀 수 있습니다. 그럼 선을 그려봅시다. Shift(Windows) or ⇧(Mac) 키를 누른채 유지합니다.
 
 #### 영상 3.5.1.3.1. 시작점 만들기
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/7c55660b-d4fc-427c-92a6-9962ada99481"></video>

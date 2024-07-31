@@ -3,7 +3,7 @@
 <a id="15-03-05-03-03-01-05-s1"></a>
 
 ## 1. 끝점(검은색 삼각형)에 색을 클릭, 드래그하기
-[전경색](./19-glossaryx-foreground_color.md), [배경색](./19-glossaryx-background_color.md), [팔레트 편집기](./15-03-06-00-palettes-dialog.md)의 색을 클릭, 드래그해서 끝점(검은색 삼각형)에 놓으면, 끝점(검은색 삼각형)의 색이 바뀝니다.
+[전경색](./19-glossaryx-foreground_color.md), [배경색](./19-glossaryx-background_color.md), [팔레트 편집기](./15-03-06-00-palettes_dialog.md)의 색을 클릭, 드래그해서 끝점(검은색 삼각형)에 놓으면, 끝점(검은색 삼각형)의 색이 바뀝니다.
 
 <a id="90-04-139-a140"></a>
 
@@ -13,7 +13,7 @@
 <a id="15-03-05-03-03-01-05-s2"></a>
 
 ## 2. 그라디언트 미리보기 창에 색을 클릭, 드래그하기
-[전경색](./19-glossaryx-foreground_color.md), [배경색](./19-glossaryx-background_color.md), [팔레트 편집기](./15-03-06-00-palettes-dialog.md)의 색을 클릭, 드래그해서 [그라디언트 미리보기 창](./15-03-05-03-02-02-the_gradient_preview_window.md)에 놓으면, 해당 색을 가지는 새로운 끝점(검은색 삼각형)이 추가됩니다.
+[전경색](./19-glossaryx-foreground_color.md), [배경색](./19-glossaryx-background_color.md), [팔레트 편집기](./15-03-06-00-palettes_dialog.md)의 색을 클릭, 드래그해서 [그라디언트 미리보기 창](./15-03-05-03-02-02-the_gradient_preview_window.md)에 놓으면, 해당 색을 가지는 새로운 끝점(검은색 삼각형)이 추가됩니다.
 
 <a id="90-04-139-a141"></a>
 

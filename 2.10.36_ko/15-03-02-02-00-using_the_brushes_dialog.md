@@ -64,7 +64,7 @@
 
 [⬅️ 이전: 15.3.2.1. 대화상자 활성화하기(Activating the Dialog)](./15-03-02-01-activating_the_dialog.md)
 
-[⬆️ 위: 15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes-dialog.md)
+[⬆️ 위: 15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes_dialog.md)
 
 [⬆️ 위: 15.3. 이미지 콘텐츠 관련 대화상자(Image content related dialogs)](./15-03-00-image-content-related-dialogs.md)
 

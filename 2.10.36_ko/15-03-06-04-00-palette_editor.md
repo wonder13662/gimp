@@ -37,7 +37,7 @@
 <a id="15-03-06-04-s2"></a>
 
 ## 2. 팔레트 편집기 열기
-[팔레트 대화상자](./15-03-06-00-palettes-dialog.md)의 목록의 팔레트를 더블 클릭하면 팔레트를 팔레트 편집기로 열 수 있습니다.
+[팔레트 대화상자](./15-03-06-00-palettes_dialog.md)의 목록의 팔레트를 더블 클릭하면 팔레트를 팔레트 편집기로 열 수 있습니다.
 
 다만, 수정할 수 있는 팔레트는 사용자가 새로 만든 팔레트이거나 복제한 팔레트만 가능합니다.
 
@@ -85,7 +85,7 @@ GIMP(김프)에서 기본적으로 제공되는 팔레트는 팔레트 편집기
 
 [⬅️ 이전: 15.3.6.3.14.9. 양자화 파티셔닝(Partitioning Quantization)](./15-03-06-03-14-09-partitioning_quantization.md)
 
-[⬆️ 위: 15.3.6. 팔레트 대화상자(Palettes dialog)](./15-03-06-00-palettes-dialog.md)
+[⬆️ 위: 15.3.6. 팔레트 대화상자(Palettes dialog)](./15-03-06-00-palettes_dialog.md)
 
 [⬆️ 위: 15.3. 이미지 콘텐츠 관련 대화상자(Image content related dialogs)](./15-03-00-image-content-related-dialogs.md)
 

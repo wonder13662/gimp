@@ -23,7 +23,7 @@
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/2b01f225-480d-4e65-9c2e-6d1b35deee24"></video>
 
 ## 4.2.11.2. 해결방법
-[붓 대화상자](./15-03-02-00-brushes-dialog.md)에서 현재 사용하고 있는 브러시를 확인해주세요. 클립보드 이미지(Clipboard Image) 또는 클립보드 마스크(Clipboard Mask)가 선택되어 있다면, 다른 브러시를 선택해주세요.
+[붓 대화상자](./15-03-02-00-brushes_dialog.md)에서 현재 사용하고 있는 브러시를 확인해주세요. 클립보드 이미지(Clipboard Image) 또는 클립보드 마스크(Clipboard Mask)가 선택되어 있다면, 다른 브러시를 선택해주세요.
 
 <a id="90-04-15-a113"></a>
 

@@ -314,7 +314,7 @@
 
 [15.3.1.2.9. 전경색/배경색(FG/BG)](./15-03-01-02-09-fg_n_bg.md)
 
-[15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes-dialog.md)
+[15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes_dialog.md)
 
 [15.3.2.1. 대화상자 활성화하기(Activating the Dialog)](./15-03-02-01-activating_the_dialog.md)
 
@@ -586,7 +586,7 @@
 
 [15.3.5.3.4. 활성 그라디언트 편집(Edit Active Gradient)](./15-03-05-03-04-edit_active_gradient.md)
 
-[15.3.6. 팔레트 대화상자(Palettes dialog)](./15-03-06-00-palettes-dialog.md)
+[15.3.6. 팔레트 대화상자(Palettes dialog)](./15-03-06-00-palettes_dialog.md)
 
 [15.3.6.1. 팔레트 대화상자 활성화하기(Activating the dialog)](./15-03-06-01-activating_the_dialog.md)
 
@@ -708,7 +708,7 @@
 
 [15.3.6.5.8. 활성화 팔레트 편집(Edit Active Palette)](./15-03-06-05-08-edit_active_palette.md)
 
-[15.3.7. 태그(Tagging)](./15-03-07-tagging.md)
+[15.3.7. 태그(Tagging)](./15-03-07-00-tagging.md)
 
 [15.3.8. Fonts Dialog](./15-03-08-fonts_dialog.md)
 

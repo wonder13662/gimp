@@ -15,7 +15,7 @@
 
 [⬅️ 이전: 15.3.2.3.5.1. 활성화 붓 편집하기(Edit Active Brush)](./15-03-02-03-05-01-edit_active_brush.md)
 
-[⬆️ 위: 15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes-dialog.md)
+[⬆️ 위: 15.3.2. 붓 대화상자(Brushes dialog)](./15-03-02-00-brushes_dialog.md)
 
 [⬆️ 위: 15.3. 이미지 콘텐츠 관련 대화상자(Image content related dialogs)](./15-03-00-image-content-related-dialogs.md)
 
