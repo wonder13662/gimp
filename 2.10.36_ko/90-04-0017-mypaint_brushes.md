@@ -40,8 +40,8 @@
 
 <a id="90-04-17-a101-02-01"></a>
 
-#### 그림 90.4.17.a101.2.1. '마이페인트 붓' 대화상자: 격자 모드 → `필터 박스(태그 입력창)` (Windows) (우리말)
-<img width="200" height="255" alt="90-04-17-a101-02-01" src="https://github.com/user-attachments/assets/845648ad-71f6-4835-93cb-9653b48ce5b8" />
+#### 그림 90.4.17.a101.2.1. '마이페인트 붓' 대화상자: 격자 모드 → `필터 입력창` (Windows) (우리말)
+<img width="200" height="255" alt="90-04-17-a101-02-01" src="https://github.com/user-attachments/assets/c4288ac8-0dfa-42e2-a235-8cd4596573a1" />
 
 [15.3.3.2.1.1. 격자 모드(Grid mode) - 그림 90.4.17.a101.2.1](./15-03-03-02-01-01-grid_mode.md#90-04-17-a101-02-01)
 
@@ -49,7 +49,7 @@
 
 <a id="90-04-17-a101-02-01-01"></a>
 
-#### 영상 90.4.17.a101.2.1.1. '마이페인트 붓' 대화상자: 격자 모드 → `필터 박스(태그 입력창)` (Windows) (우리말)
+#### 영상 90.4.17.a101.2.1.1. '마이페인트 붓' 대화상자: 격자 모드 → `필터 입력창` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e307a103-b230-489c-ac65-9a6dde9f1f11"></video>
 
 [15.3.3.2.1.1. 격자 모드(Grid mode) - 영상 90.4.17.a101.2.1.1](./15-03-03-02-01-01-grid_mode.md#90-04-17-a101-02-01-01)

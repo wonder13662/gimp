@@ -1,5 +1,10 @@
 # 15.3.7.1. 필터 입력창(Filter Field)
 
+<a id="90-04-15-a314"></a>
+
+#### [그림 90.4.15.a314. `붓` 대화상자: `필터 입력창` (Windows) (우리말)](./90-04-0015-brushes.md#90-04-15-a314)
+<img width="200" height="296" alt="90-04-15-a314" src="https://github.com/user-attachments/assets/fdf6d32a-cdd9-44aa-8feb-948da0582f49" />
+
 <a id="15-03-07-01-s1"></a>
 
 ## 1. 태그 직접 입력

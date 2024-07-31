@@ -1,4 +1,9 @@
-# 15.3.7.1. 태그 입력창(Enter Tag Field)
+# 15.3.7.2. 태그 입력창(Enter Tag Field)
+
+<a id="90-04-15-a315"></a>
+
+#### [그림 90.4.15.a315. `붓` 대화상자: `태그 입력창` (Windows) (우리말)](./90-04-0015-brushes.md#90-04-15-a315)
+<img width="200" height="296" alt="90-04-15-a315" src="https://github.com/user-attachments/assets/3a539697-b201-4495-860c-a1f03322cb34" />
 
 ## 1. 아이템의 태그 확인하기
 `태그 입력창(Enter Tag Field)`에서 선택한 아이템에 지정된 태그가 표시됩니다.
