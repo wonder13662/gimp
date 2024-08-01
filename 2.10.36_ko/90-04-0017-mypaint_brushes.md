@@ -79,14 +79,14 @@
 
 <a id="90-04-17-a101-02-03"></a>
 
-#### 그림 90.4.17.a101.2.3. '마이페인트 붓' 대화상자: 격자 모드 → `활성화 마이페인트 붓의 태그` (Windows) (우리말)
-<img width="200" height="255" alt="90-04-17-a101-02-03" src="https://github.com/user-attachments/assets/e8c9c78d-6255-411b-92d3-f257fe8483ed" />
+#### 그림 90.4.17.a101.2.3. '마이페인트 붓' 대화상자: 격자 모드 → `태그 입력창` (Windows) (우리말)
+<img width="200" height="255" alt="90-04-17-a101-02-03" src="https://github.com/user-attachments/assets/99218ddc-e483-403a-8364-f00698039a7d" />
 
 [15.3.3.2.1.1. 격자 모드(Grid mode) - 그림 90.4.17.a101.2.3](./15-03-03-02-01-01-grid_mode.md#90-04-17-a101-02-03)
 
 <a id="90-04-17-a101-02-03-01"></a>
 
-#### 영상 90.4.17.a101.2.3.1. '마이페인트 붓' 대화상자: 격자 모드 → `활성화 마이페인트 붓의 태그` (Windows) (우리말)
+#### 영상 90.4.17.a101.2.3.1. '마이페인트 붓' 대화상자: 격자 모드 → `태그 입력창` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f6a95e50-2f61-410d-94c2-b87c8cb194c0"></video>
 
 [15.3.3.2.1.1. 격자 모드(Grid mode) - 영상 90.4.17.a101.2.3.1](./15-03-03-02-01-01-grid_mode.md#90-04-17-a101-02-03-01)
