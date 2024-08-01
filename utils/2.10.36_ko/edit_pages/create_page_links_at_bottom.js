@@ -143,4 +143,4 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('15-03-07-02-enter_tag_field.md')
+doAsyncJob('15-03-08-02-02-refresh_font_list.md')

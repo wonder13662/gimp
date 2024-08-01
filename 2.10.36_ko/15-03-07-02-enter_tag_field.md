@@ -55,7 +55,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.8. Fonts Dialog](./15-03-08-fonts_dialog.md)
+[➡️ 다음: 15.3.8. Fonts Dialog](./15-03-08-00-fonts_dialog.md)
 
 [⬅️ 이전: 15.3.7.1. 필터 입력창(Filter Field)](./15-03-07-01-filter_field.md)
 
