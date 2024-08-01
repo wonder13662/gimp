@@ -1,10 +1,8 @@
-# 15.4. 이미지 관리 관련 대화상자(Image management related dialogs)
+# 15.4.1. 버퍼 대화상자(Buffers dialog)
 
 ***
 
 ## 하위 페이지
-
-[15.4.1. 버퍼 대화상자(Buffers dialog)](./15-04-01-00-buffers-dialog.md)
 
 [15.4.1.1. 편집 메뉴(Edit Menu)](./15-04-01-01-edit_menu.md)
 
@@ -42,22 +40,18 @@
 
 [15.4.1.3.2.8. 버퍼 삭제(Delete Buffer)](./15-04-01-03-02-08-delete_buffer.md)
 
-[15.4.2. 이미지 대화상자(Images dialog)](./15-04-02-images-dialog.md)
-
-[15.4.3. 문서 이력 대화상자(Document history dialog)](./15-04-03-document-history-dialog.md)
-
-[15.4.4. 양식 대화상자(Templates dialog)](./15-04-04-templates-dialog.md)
-
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.4.1. 버퍼 대화상자(Buffers dialog)](./15-04-01-00-buffers-dialog.md)
+[➡️ 다음: 15.4.1.1. 편집 메뉴(Edit Menu)](./15-04-01-01-edit_menu.md)
 
-[⬅️ 이전: 15.3.8.2.2. 글꼴 목록을 `새로 고침` 하기(Refresh font list)](./15-03-08-02-02-refresh_font_list.md)
+[⬅️ 이전: 15.4. 이미지 관리 관련 대화상자(Image management related dialogs)](./15-04-00-image-management-related-dialogs.md)
+
+[⬆️ 위: 15.4. 이미지 관리 관련 대화상자(Image management related dialogs)](./15-04-00-image-management-related-dialogs.md)
 
 [⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-dialogs-management.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-dialogs-management.html#gimp-buffer-dialog)
