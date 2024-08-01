@@ -19,7 +19,7 @@
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb11afcc-44a5-43a7-a01a-ad7aa2f34dd6"></video>
 
 ## 2. 이미지 메뉴 바(Image Menu Bar)로 '도구 옵션 대화상자' 되돌리기
-[이미지 메뉴 바](./03-02-04-02-image-menu.md)의 `창` → `도킹가능한 대화` → `도구 옵션`를 사용할 수도 있습니다. 이 경우에 `도구 옵션(Tool Options)` 대화상자가 다른 독(dock)에 나타날 수 있습니다.
+[이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `창` → `도킹가능한 대화` → `도구 옵션`를 사용할 수도 있습니다. 이 경우에 `도구 옵션(Tool Options)` 대화상자가 다른 독(dock)에 나타날 수 있습니다.
 
 만일 다른 독(dock)에 대화상자가 나타났다면 클릭, 드래그해서 원하는 독(dock)으로 옮겨주세요.
 

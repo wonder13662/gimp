@@ -36,7 +36,7 @@
 ## [16.3.10. Paste in place](./16-03-10-paste-in-place.md)
 ## [16.3.11. Paste into selection in place](./16-03-11-paste-into-selection-in-place.md)
 ## [16.3.12. Paste as](./16-03-12-paste-as.md)
-## [16.3.13. Buffer](./16-03-13-buffer.md)
+## [16.3.13. 버퍼(Buffer)](./16-03-13-00-buffer.md)
 ## [16.3.14. Clear](./16-03-14-clear.md)
 ## [16.3.15. Fill with FG color](./16-03-15-fill-with-fg-color.md)
 ## [16.3.16. Fill with BG color](./16-03-16-fill-with-bg-color.md)

@@ -1,5 +1,5 @@
 # 7.10.2. 그라디언트 맵 필터(The Gradient Map Filter)
-`그라디언트 맵 필터(The Gradient Map Filter)` 필터는 [이미지 메뉴 바](./03-02-04-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `색` → `지도` → `그라디언트 맵` 메뉴에 있습니다. 
+`그라디언트 맵 필터(The Gradient Map Filter)` 필터는 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `색` → `지도` → `그라디언트 맵` 메뉴에 있습니다. 
 
 <a id="90-01-07-17-06-a1"></a>
 

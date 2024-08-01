@@ -10,7 +10,7 @@
 GIMP에서 이미지들은 `.XCF` 파일 포맷으로 불러오거나 저장됩니다. `JPG` 이미지들도 열면 `.XCF` 파일 포맷으로 불러옵니다. 
 
 ## 3.4.4.1. "image-name.jpg 덮어쓰기(Overwrite image-name.jpg)"
-GIMP에서 [이미지 메뉴 바](./03-02-04-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의 `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)`를 클릭하면 “이미지를 JPEG로 내보내기” 대화상자를 열 수 있습니다.
+GIMP에서 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)`를 클릭하면 “이미지를 JPEG로 내보내기” 대화상자를 열 수 있습니다.
 
 <a id="90-01-01-012-a101"></a>
 

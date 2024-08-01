@@ -14,7 +14,7 @@
 ![90-05-17-a112](https://github.com/wonder13662/gimp/assets/15767104/47816aca-1b82-4149-86ca-46d06faa984d)
 
 ## 4.3.4.2. 해결방법
-[이미지 메뉴 바](./03-02-04-02-image-menu.md)의 `창` → `Show Tabs`을 엽니다. 그리고 `Show Tabs`이 체크되어 있는지 확인합니다.
+[이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `창` → `Show Tabs`을 엽니다. 그리고 `Show Tabs`이 체크되어 있는지 확인합니다.
 
 <a id="90-01-10-05-a101"></a>
 

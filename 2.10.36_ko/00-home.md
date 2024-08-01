@@ -2626,7 +2626,7 @@
 
 [16.3.12. Paste as](./16-03-12-paste-as.md)
 
-[16.3.13. Buffer](./16-03-13-buffer.md)
+[16.3.13. 버퍼(Buffer)](./16-03-13-00-buffer.md)
 
 [16.3.14. Clear](./16-03-14-clear.md)
 

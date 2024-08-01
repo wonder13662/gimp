@@ -1,0 +1,1 @@
+# 16.3.13.2.3. 보이는 부분 복사(Copy Visible Named)

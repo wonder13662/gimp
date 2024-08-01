@@ -15,7 +15,7 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/877ae55c-d51f-4d42-808e-10b27d6b192d"></video>
 
 ### 2. 이미지 메뉴 바의 `레이어` → `새 레이어 그룹(New Layer Group)`
-레이어 대화상자의 레이어 그룹을 선택하고, [이미지 메뉴 바](./03-02-04-02-image-menu.md) `레이어` → `새 레이어 그룹(New Layer Group)` 메뉴를 클릭해서 새로운 레이어 그룹을 선택한 레이어 그룹 안에 만들 수 있습니다.
+레이어 대화상자의 레이어 그룹을 선택하고, [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md) `레이어` → `새 레이어 그룹(New Layer Group)` 메뉴를 클릭해서 새로운 레이어 그룹을 선택한 레이어 그룹 안에 만들 수 있습니다.
 
 <a id="90-01-06-03-a101"></a>
 

@@ -23,7 +23,7 @@ GIMP(김프)에서의 선택을 보여주는 방법은 ["행진하는 개미(mar
 #### [영상 90.5.5.a111. 퀵 마스크 토글하기](./90-05-05-quickmask_toggle.md#90-05-05-a111)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/74f2db78-a06e-48d8-bcc7-7c99e3d57180"></video>
 
-[이미지 메뉴 바(Image Menu Bar)](./03-02-04-02-image-menu.md)의 `선택` → `퀵 마스크 전환` 또는 단축키 Shift(⇧) + Q를 눌러 퀵 마스크 모드와 [선택 외곽선(행진하는 개미)](./19-glossaryx-marching_ants.md) 모드로 전환할 수 있습니다.
+[이미지 메뉴 바(Image Menu Bar)](./19-glossaryx-image_menu_bar.md)의 `선택` → `퀵 마스크 전환` 또는 단축키 Shift(⇧) + Q를 눌러 퀵 마스크 모드와 [선택 외곽선(행진하는 개미)](./19-glossaryx-marching_ants.md) 모드로 전환할 수 있습니다.
 
 <a id="90-01-03-16-a101"></a>
 
@@ -68,7 +68,7 @@ GIMP(김프)에서의 선택을 보여주는 방법은 ["행진하는 개미(mar
 <a id="07-03-01-s4"></a>
 
 ## 4. 퀵 마스크를 새로운 채널로 저장하기
-퀵 마스크 선택을 새로운 [채널](./19-glossaryx-channel.md)로 저장하려면 우선 선택 영역이 있는 것을 확인합니다. 그리고 이미지 창에서 퀵 마스크 모드는 비활성화 상태여야 합니다. [이미지 메뉴 바(Image Menu Bar)](./03-02-04-02-image-menu.md)의 `선택` → `채널로 저장`을 클릭해서 채널 대화상제에 새로운 채널을 만듭니다. 
+퀵 마스크 선택을 새로운 [채널](./19-glossaryx-channel.md)로 저장하려면 우선 선택 영역이 있는 것을 확인합니다. 그리고 이미지 창에서 퀵 마스크 모드는 비활성화 상태여야 합니다. [이미지 메뉴 바(Image Menu Bar)](./19-glossaryx-image_menu_bar.md)의 `선택` → `채널로 저장`을 클릭해서 채널 대화상제에 새로운 채널을 만듭니다. 
 
 <a id="90-01-03-17-a101"></a>
 

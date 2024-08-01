@@ -7,7 +7,7 @@
 
 [다른 운영체제와 언어의 `이미지` → `변형` → `이미지 회전하기` 확인하기](./90-01-05-05-00-transform.md#90-01-05-05-a102)
 
-[이미지 메뉴 바(Image Menu Bar)](./03-02-04-02-image-menu.md)에서 `이미지(Image)` → `변형(Transform)` → `시계 방향으로 90도 회전(Rotate 90° clockwise)`을 선택하여 이미지를 회전시킬 수 있습니다.
+[이미지 메뉴 바(Image Menu Bar)](./19-glossaryx-image_menu_bar.md)에서 `이미지(Image)` → `변형(Transform)` → `시계 방향으로 90도 회전(Rotate 90° clockwise)`을 선택하여 이미지를 회전시킬 수 있습니다.
 
 <a id="90-01-05-05-03-a101"></a>
 
