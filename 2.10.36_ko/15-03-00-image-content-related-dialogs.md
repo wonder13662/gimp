@@ -424,7 +424,7 @@
 
 [15.3.7. 태그(Tagging)](./15-03-07-00-tagging.md)
 
-[15.3.8. Fonts Dialog](./15-03-08-00-fonts_dialog.md)
+[15.3.8. 글꼴 대화상자(Fonts Dialog)](./15-03-08-00-fonts_dialog.md)
 
 ***
 
