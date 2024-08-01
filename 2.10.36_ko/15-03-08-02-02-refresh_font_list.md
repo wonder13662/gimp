@@ -33,7 +33,7 @@ GIMP(김프)를 실행하는 동안 새로운 폰트를 추가했다면, 아래 
 <a id="90-04-21-a15-05-02"></a>
 
 #### [그림 90.4.21.a15.5.2. 글꼴 대화상자: 격자 모드 → `오른쪽 클릭 팝업 메뉴` → `글꼴 목록 다시 검색` (Windows)](./90-04-0021-fonts.md#90-04-21-a15-05-02)
-<img width="371" height="177" alt="90-04-21-a15-05-02" src="https://github.com/user-attachments/assets/1c9c33c2-4620-449e-8eaf-4d458736e4ed" />
+<img width="371" height="177" alt="90-04-21-a15-05-02" src="https://github.com/user-attachments/assets/266a214e-497e-4cb3-9406-7a8c500f4e57" />
 
 ⚠️ 주의: Windows 10에서는 글꼴을 설치한 뒤에 삭제하여도 GIMP(김프)에서는 여전히 글꼴을 가지고 있는 문제가 있습니다. Mac OSX에서는 글꼴 삭제 이후에는 GIMP(김프)에서 글꼴 새로 고침을 하면, 해당 글꼴이 없어지는 것을 확인할 수 있습니다.
 
