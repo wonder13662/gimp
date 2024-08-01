@@ -36,7 +36,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.3.7.1. 태그 입력창(Enter Tag Field)](./15-03-07-02-enter_tag_field.md)
+[➡️ 다음: 15.3.7.2. 태그 입력창(Enter Tag Field)](./15-03-07-02-enter_tag_field.md)
 
 [⬅️ 이전: 15.3.7. 태그(Tagging)](./15-03-07-00-tagging.md)
 
