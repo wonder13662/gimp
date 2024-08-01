@@ -1,5 +1,14 @@
 # 15.4.1. 버퍼 대화상자(Buffers dialog)
 
+<a id="90-04-23-a1"></a>
+
+#### [그림 90.4.23.a1. 버퍼 대화상자](./90-04-0023-buffers.md#90-04-23-a1)
+<img width="893" height="329" alt="90-04-23-a1" src="https://github.com/user-attachments/assets/c447bd4b-ac7b-404a-858a-6cf374579ff5" />
+
+버퍼는 이미지 데이터에 대한 임시 저장 공간입니다.
+
+[드로어블(Drawable)](./19-glossaryx-drawable.md)의 부분을 복사하거나 잘라내기 했을 때 만들어 집니다.
+
 ***
 
 ## 하위 페이지
