@@ -23,7 +23,7 @@ GIMP(김프)를 실행하는 도중에 새로운 글꼴을 추가한다면, 이 
 
 [15.3.8.2.1.2. 목록 모드(List mode)](./15-03-08-02-01-02-list_mode.md)
 
-[15.3.8.2.2. 글꼴 목록 새로고침 하기(Refresh font list)](./15-03-08-02-02-refresh_font_list.md)
+[15.3.8.2.2. 글꼴 목록을 `새로 고침` 하기(Refresh font list)](./15-03-08-02-02-refresh_font_list.md)
 
 ***
 
