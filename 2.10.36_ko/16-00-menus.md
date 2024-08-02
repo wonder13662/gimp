@@ -32,7 +32,7 @@
 ## [16.3.6. Copy](./16-03-06-copy.md)
 ## [16.3.7. Copy visible](./16-03-07-copy-visible.md)
 ## [16.3.8. 붙여넣기(Paste)](./16-03-08-paste.md)
-## [16.3.9. Paste into selection](./16-03-09-paste-into-selection.md)
+## [16.3.9. 선택 영역에 붙여넣기(Paste into selection)](./16-03-09-paste-into-selection.md)
 ## [16.3.10. Paste in place](./16-03-10-paste-in-place.md)
 ## [16.3.11. Paste into selection in place](./16-03-11-paste-into-selection-in-place.md)
 ## [16.3.12. Paste as](./16-03-12-paste-as.md)

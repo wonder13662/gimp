@@ -1385,7 +1385,7 @@ module.exports = {
       ],
       [
         '16-03-09-paste-into-selection.md', 
-        '16.3.9. Paste into selection',
+        '16.3.9. 선택 영역에 붙여넣기(Paste into selection)',
         '16.3.9. 선택 영역에 붙여넣기',
       ],
       [

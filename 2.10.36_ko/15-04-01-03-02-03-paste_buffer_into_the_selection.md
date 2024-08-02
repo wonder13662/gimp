@@ -1,5 +1,12 @@
 # 15.4.1.3.2.3. 버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)
 
+`버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)` 메뉴는 선택한 버퍼의 내용을 [`떠있는 선택`](./19-glossaryx-floating_selection.md)으로 활성화 이미지의 선택 영역에 붙여 넣습니다.
+
+`버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)` 메뉴와 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [선택 영역에 붙여넣기](./16-03-09-paste-into-selection.md)와의 차이점은 다음과 같습니다.
+
+- `버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)` 메뉴는 `버퍼` 대화상자의 목록에서 선택한 버퍼의 내용만 붙여넣기 할 수 있습니다.
+- [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [선택 영역에 붙여넣기](./16-03-09-paste-into-selection.md)는 전역 버퍼의 내용만 붙여넣기 할 수 있습니다.
+
 ***
 
 ## 다른 페이지로 가기

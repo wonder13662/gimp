@@ -1,5 +1,11 @@
 # 15.4.1.3.2.4. 버퍼를 선택 영역의 같은 위치에 붙여넣기(Paste Buffer into the Selection)
 
+[15.4.1.3.2.3. 버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)](./15-04-01-03-02-03-paste_buffer_into_the_selection.md)와 같은 동작을 합니다.
+
+추가적으로 버퍼를 붙여넣는 위치가 원본 이미지의 선택 영역의 위치와 같습니다.
+
+(TODO 예시 영상 필요)
+
 ***
 
 ## 다른 페이지로 가기

@@ -2618,7 +2618,7 @@
 
 [16.3.8. 붙여넣기(Paste)](./16-03-08-paste.md)
 
-[16.3.9. Paste into selection](./16-03-09-paste-into-selection.md)
+[16.3.9. 선택 영역에 붙여넣기(Paste into selection)](./16-03-09-paste-into-selection.md)
 
 [16.3.10. Paste in place](./16-03-10-paste-in-place.md)
 

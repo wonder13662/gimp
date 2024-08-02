@@ -1,4 +1,4 @@
-# 16.3.9. Paste into selection
+# 16.3.9. 선택 영역에 붙여넣기(Paste into selection)
 
 ### [Home](./00-home.md)
 ### [Parent: 16.3. The edit menu](./16-03-00-the-edit-menu.md)
