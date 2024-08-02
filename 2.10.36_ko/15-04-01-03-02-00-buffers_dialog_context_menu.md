@@ -1,5 +1,15 @@
 # 15.4.1.3.2. 버퍼 대화상자 컨텍스트 메뉴(Buffers dialog Context Menu)
 
+<a id="90-04-23-a121"></a>
+
+#### [그림 90.4.23.a121. `버퍼` 대화상자 → `탭 메뉴` → `버퍼 메뉴` (Windows)](./90-04-0023-buffers.md#90-04-23-a121)
+<img width="944" height="418" alt="90-04-23-a121" src="https://github.com/user-attachments/assets/e209462d-8138-4b96-a71c-d0eefe0d8a5a" />
+
+<a id="90-04-23-a122"></a>
+
+#### [그림 90.4.23.a122. `버퍼` 대화상자 → `버퍼 메뉴`: 오른쪽 클릭 (Windows)](./90-04-0023-buffers.md#90-04-23-a122)
+<img width="568" height="311" alt="90-04-23-a122" src="https://github.com/user-attachments/assets/09d4f55b-8ab6-4a7a-b438-2adcfea77cfe" />
+
 ***
 
 ## 하위 페이지
