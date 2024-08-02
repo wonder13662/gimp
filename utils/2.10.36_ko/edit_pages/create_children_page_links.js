@@ -113,4 +113,7 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }      
 }
-doAsyncJob('15-04-01-03-02-00-buffers_dialog_context_menu.md')
+
+module.exports = {
+  doAsyncJob: async (targetPage) => await doAsyncJob(targetPage),  
+}

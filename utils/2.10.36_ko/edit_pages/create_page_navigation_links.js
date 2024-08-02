@@ -143,4 +143,7 @@ const doAsyncJob = async (targetPage) => {
     console.error(err);
   }  
 }
-doAsyncJob('15-03-07-01-filter_field.md')
+
+module.exports = {
+  doAsyncJob: async (targetPage) => await doAsyncJob(targetPage),  
+}

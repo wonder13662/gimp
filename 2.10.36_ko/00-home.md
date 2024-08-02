@@ -2522,7 +2522,35 @@
 
 [15.4.1.3.2.8. 버퍼 삭제(Delete Buffer)](./15-04-01-03-02-08-delete_buffer.md)
 
-[15.4.2. 이미지 대화상자(Images dialog)](./15-04-02-images-dialog.md)
+[15.4.2. 이미지 대화상자(Images dialog)](./15-04-02-00-images-dialog.md)
+
+[15.4.2.1. 이미지 대화상자 활성화하기(Activating the dialog)](./15-04-02-01-activating_the_dialog.md)
+
+[15.4.2.2. 이미지 대화상자 사용하기(Using the Images Dialog)](./15-04-02-02-00-using_the_images_dialog.md)
+
+[15.4.2.2.1. 격자/목록 모드(Grid/List mode)](./15-04-02-02-01-00-grid_n_list_mode.md)
+
+[15.4.2.2.1.1. 격자 모드(Grid mode)](./15-04-02-02-01-01-grid_mode.md)
+
+[15.4.2.2.1.2. 목록 모드(List mode)](./15-04-02-02-01-02-list_mode.md)
+
+[15.4.2.2.2. 미리보기 크기(Preview Size)](./15-04-02-02-02-preview_size.md)
+
+[15.4.2.2.3. 아래쪽 버튼들(Preview Size)](./15-04-02-02-03-00-buttons.md)
+
+[15.4.2.2.3.1. 보기 올리기(Raise this image displays)](./15-04-02-02-03-01-raise_this_image_displays.md)
+
+[15.4.2.2.3.2. 새창으로 보기(Create a new display for this image)](./15-04-02-02-03-02-create_a_new_display_for_this_image.md)
+
+[15.4.2.2.3.3. 이미지 삭제(Delete)](./15-04-02-02-03-03-delete.md)
+
+[15.4.2.2.4. 이미지 대화상자 컨텍스트 메뉴(Imaage dialog context menu)](./15-04-02-02-04-00-images_dialog_context_menu.md)
+
+[15.4.2.2.4.1. 보기 올리기(Raise this image displays)](./15-04-02-02-04-01-raise_this_image_displays.md)
+
+[15.4.2.2.4.2. 새창으로 보기(Create a new display for this image)](./15-04-02-02-04-02-create_a_new_display_for_this_image.md)
+
+[15.4.2.2.4.3. 이미지 삭제(Delete)](./15-04-02-02-04-03-delete.md)
 
 [15.4.3. 문서 이력 대화상자(Document history dialog)](./15-04-03-document-history-dialog.md)
 
@@ -2626,7 +2654,29 @@
 
 [16.3.12. 붙여넣기(고급) - Paste as](./16-03-12-00-paste_as.md)
 
+[16.3.12.1. 새 레이어로 붙여넣기(Paste as New Layer)](./16-03-12-01-new_layer.md)
+
+[16.3.12.2. 새 레이어로 같은 위치에 붙여넣기(Paste as New Layer in place)](./16-03-12-02-new_layer_in_place.md)
+
+[16.3.12.3. 새 이미지로 붙여넣기(Paste as New Image)](./16-03-12-03-new_image.md)
+
+[16.3.12.4. 새 붓으로 붙여넣기(Paste as New Brush)](./16-03-12-04-new_brush.md)
+
+[16.3.12.5. 새 무늬로 붙여넣기(Paste as New Pattern)](./16-03-12-05-new_pattern.md)
+
 [16.3.13. 버퍼(Buffer)](./16-03-13-00-buffer.md)
+
+[16.3.13. 버퍼(Buffer)](./16-03-13-01-activate_the_submenu.md)
+
+[16.3.13.2. 하위 메뉴 항목(Submenu entries)](./16-03-13-02-00-submenu_entries.md)
+
+[16.3.13.2.1. 이름 붙여 잘라내기(Cut named)](./16-03-13-02-01-cut_named.md)
+
+[16.3.13.2.2. 이름 붙여 복사(Copy Named)](./16-03-13-02-02-copy_named.md)
+
+[16.3.13.2.3. 보이는 부분 복사(Copy Visible Named)](./16-03-13-02-03-copy_visible_named.md)
+
+[16.3.13.2.4. 이름 붙여 붙여넣기(Paste Named)](./16-03-13-02-04-paste_named.md)
 
 [16.3.14. Clear](./16-03-14-clear.md)
 
@@ -3586,6 +3636,8 @@
 
 [19. 용어집 - EXIF](./19-glossaryx-exif.md)
 
+[19. 용어집 - 떠있는 선택(Floating Selection)](./19-glossaryx-floating_selection.md)
+
 [19. 용어집 - 전경색(Foreground Color)](./19-glossaryx-foreground_color.md)
 
 [19. 용어집 - Gamma correction](./19-glossaryx-gamma_correction.md)
@@ -3615,6 +3667,8 @@
 [19. 용어집 - ICC profile](./19-glossaryx-icc_profile.md)
 
 [19. 용어집 - 이미지 메뉴 바(Image Menu Bar)](./19-glossaryx-image_menu_bar.md)
+
+[19. 용어집 - 이미지 창(Image Window)](./19-glossaryx-image_window.md)
 
 [19. 용어집 - 인터레이싱(PostScript)](./19-glossaryx-interlace.md)
 

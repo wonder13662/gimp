@@ -1185,7 +1185,7 @@ module.exports = {
         '15.4.1. 버퍼(Buffers) 대화상자',
       ],
       [
-        '15-04-02-images-dialog.md', 
+        '15-04-02-00-images-dialog.md', 
         '15.4.2. 이미지 대화상자(Images dialog)',
         '15.4.2. 이미지 대화상자'
       ],

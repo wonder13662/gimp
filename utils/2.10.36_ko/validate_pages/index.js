@@ -9,7 +9,8 @@ const {
   extractPageNumberChain, 
   getPageRootPath, 
   readAllFileNames, 
-  isValidPath 
+  isValidPath,
+  convertFileNamesToFileChainNumberMap,
 } = require('../utils')
 
 const doAsyncJob = async () => {
@@ -26,13 +27,7 @@ const doAsyncJob = async () => {
     console.log(`모두 ${files.length} 개의 파일이 있습니다.`)
 
     // 1-3. 파일 맵(숫자로만 구성)을 만들어 검색에 활용하기
-    const fileNumberSet = files.reduce((acc, v) => {
-      const fileNumbers = extractPageNumberChain(v)
-
-      acc.add(fileNumbers)
-
-      return acc
-    }, new Set())
+    const fileChainNumberMap = convertFileNamesToFileChainNumberMap(files)
 
     // 1-4-1. 시작과 끝 페이지를 지정해서 그 범위 안의 모든 페이지를 검사
     const 검사대상_시작_파일_번호 = files.indexOf('00-home.md')
@@ -64,7 +59,7 @@ const doAsyncJob = async () => {
       hasNextPage.doAsyncJob(pageRootPath, files, i)
       
       // 3. 부모 페이지 검사
-      hasParentPage.doAsyncJob(pageRootPath, files, i, fileNumberSet)
+      hasParentPage.doAsyncJob(pageRootPath, files, i, fileChainNumberMap)
 
       // 4. 페이지 내의 관련없는 부모 페이지 링크 여부 검사
       hasUnrelatedParentPage.doAsyncJob(pageRootPath, files, i)
