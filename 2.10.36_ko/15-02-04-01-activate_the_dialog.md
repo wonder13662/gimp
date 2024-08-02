@@ -1,8 +1,8 @@
 # 15.2.4.1. 대화상자 활성화하기(Activate the dialog)
 
-`색상표 대화상자`는 도킹이 가능한 대화상자입니다. 도킹에 대해서는 [3.2.5. 대화상자(Dialog)와 도킹(docking)](./03-02-05-00-dialogs-and-docking.md)을 참고해주세요.
+`색상표` 대화상자는 도킹이 가능한 대화상자입니다. 도킹에 대해서는 [3.2.5. 대화상자(Dialog)와 도킹(docking)](./03-02-05-00-dialogs-and-docking.md)을 참고해주세요.
 
-아래와 같은 방법으로 `색상표 대화상자`를 활성화할 수 있습니다.
+아래와 같은 방법으로 `색상표` 대화상자를 활성화할 수 있습니다.
 
 <a id="15-02-04-01-s1"></a>
 
@@ -33,6 +33,8 @@
 
 #### [영상 90.5.16.1.6.a1.1. `대화상자` → `탭 메뉴` → `탭 추가` → `색상표` (Windows) (우리말)](./90-05-16-01-06-colormap.md#90-05-16-01-06-a1-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/eaf632fc-e849-40db-968e-b1df1b7e3dfe"></video>
+
+<a id="15-02-04-01-s3"></a>
 
 ## 3. 떼어낸 탭 대화상자 열기(Open Detached Dialog)
 
