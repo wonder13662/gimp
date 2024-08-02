@@ -2,10 +2,12 @@
 
 `버퍼를 새로운 레이어에 붙여넣기(Paste Buffer as New Layer)` 메뉴는 선택한 버퍼의 내용을 활성화 이미지의 새 레이어로 만듭니다.
 
-`버퍼를 새로운 레이어에 붙여넣기(Paste Buffer as New Layer)` 메뉴와 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [새 이미지로 붙여넣기](./16-03-12-03-new_image.md)와의 차이점은 다음과 같습니다.
+`버퍼를 새로운 레이어에 붙여넣기(Paste Buffer as New Layer)` 메뉴와 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [새 레이어로 붙여넣기](./16-03-12-01-new_layer.md)와의 차이점은 다음과 같습니다.
 
 - `버퍼를 새로운 레이어에 붙여넣기(Paste Buffer as New Layer)` 메뉴는 `버퍼` 대화상자의 목록에서 선택한 버퍼의 내용만 붙여넣기 할 수 있습니다.
-- [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [새 이미지로 붙여넣기](./16-03-12-03-new_image.md)는 전역 버퍼의 내용만 붙여넣기 할 수 있습니다.
+- [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [새 레이어로 붙여넣기](./16-03-12-01-new_layer.md)는 전역 버퍼의 내용만 붙여넣기 할 수 있습니다.
+
+<a comment="ISSUE 새 이미지로 붙여넣기 => 새 레이어로 붙여넣기"></a>
 
 ***
 
