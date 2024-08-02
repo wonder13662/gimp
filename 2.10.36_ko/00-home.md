@@ -2624,7 +2624,7 @@
 
 [16.3.11. Paste into selection in place](./16-03-11-paste-into-selection-in-place.md)
 
-[16.3.12. Paste as](./16-03-12-paste-as.md)
+[16.3.12. 붙여넣기(고급) - Paste as](./16-03-12-00-paste_as.md)
 
 [16.3.13. 버퍼(Buffer)](./16-03-13-00-buffer.md)
 
