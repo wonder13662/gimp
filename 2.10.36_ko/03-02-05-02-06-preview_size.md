@@ -14,6 +14,18 @@
 
 ***
 
+## 관련 정보
+
+[15.3.2.2.2. 붓 미리보기(Brush Previews)](./15-03-02-02-02-brush_previews.md)
+
+[15.3.3.2.2. 마이페인트 붓 미리보기(Mypaint brushes previews)](./15-03-03-02-02-mypaint_brush_previews.md)
+
+[15.3.5. 그라디언트 대화상자(Gradient dialog) - 15.3.5.2.1.1. 격자 모드(Grid mode) - 5. 미리보기 크기](./15-03-05-02-01-01-grid_mode.md#15-03-05-02-01-01-s5)
+
+[15.4.1.3. 버퍼 대화상자 사용하기(Using the Dialog) - 3.4. 미리보기 크기](./15-04-01-03-00-using_the_buffers_dialog.md#15-04-01-03-s3-04)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 3.2.5.2.7. 탭 스타일(Tab Style)](./03-02-05-02-07-tab_style.md)
