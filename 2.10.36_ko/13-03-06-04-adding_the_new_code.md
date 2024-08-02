@@ -26,7 +26,7 @@
 (gimp-layer-set-offsets theText theBuffer theBuffer)
 ```
 
-텍스트 레이어가 떠있는 선택(Floating selection)이므로 텍스트 레이어로 바꾸어 줍니다.
+텍스트 레이어가 [떠있는 선택(Floating selection)](./19-glossaryx-floating_selection.md)이므로 텍스트 레이어로 바꾸어 줍니다.
 
 ```scheme
 (gimp-floating-sel-to-layer theText)

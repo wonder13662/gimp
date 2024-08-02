@@ -75,7 +75,7 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 
 [3.2.5.2.5. 독에 탭 잠그기(Lock Tab to Dock)](./03-02-05-02-05-lock_tab_to_dock.md)
 
-[3.2.5.2.6. 미리보기 크기 (Preview Size)](./03-02-05-02-06-preview_size.md)
+[3.2.5.2.6. 미리보기 크기(Preview Size)](./03-02-05-02-06-preview_size.md)
 
 [3.2.5.2.7. 탭 스타일(Tab Style)](./03-02-05-02-07-tab_style.md)
 

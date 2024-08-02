@@ -83,7 +83,7 @@ Ctrl(⌘) + Shift(⇧) 키를 누르면 사용중인 도구에 따라 다양한 
 <a id="14-02-01-01-s5-01"></a>
 
 ### 5-1. Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그
-Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그로 선택 영역의 콘텐츠로 옮기게 되면, 옮긴 콘텐츠의 원래 자리는 배경색(Background Color)로 채워지게 됩니다. 옮긴 콘텐츠는 [떠있는 선택(floating selection)](./04-02-01-there-is-a-floating-selection.md)이 됩니다.
+Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그로 선택 영역의 콘텐츠로 옮기게 되면, 옮긴 콘텐츠의 원래 자리는 배경색(Background Color)로 채워지게 됩니다. 옮긴 콘텐츠는 [떠있는 선택(floating selection)](./19-glossaryx-floating_selection.md)이 됩니다.
 
 <a id="90-10-01-06-01-a1"></a>
 
@@ -93,7 +93,7 @@ Ctrl(⌘) + Alt(⌥) + 왼쪽 클릭 + 드래그로 선택 영역의 콘텐츠�
 <a id="14-02-01-01-s5-02"></a>
 
 ### 5-2. Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그
-Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그로 선택 영역의 콘텐츠로 옮기게 되면, 옮긴 콘텐츠의 원래 자리는 원래 이미지로 유지됩니다. 옮긴 콘텐츠는 [떠있는 선택(floating selection)](./04-02-01-there-is-a-floating-selection.md)이 됩니다.
+Shift(⇧) + Alt(⌥) + 왼쪽 클릭 + 드래그로 선택 영역의 콘텐츠로 옮기게 되면, 옮긴 콘텐츠의 원래 자리는 원래 이미지로 유지됩니다. 옮긴 콘텐츠는 [떠있는 선택(floating selection)](./19-glossaryx-floating_selection.md)이 됩니다.
 
 <a id="90-10-01-07-01-a1"></a>
 
