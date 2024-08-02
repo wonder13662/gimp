@@ -2616,7 +2616,7 @@
 
 [16.3.7. Copy visible](./16-03-07-copy-visible.md)
 
-[16.3.8. Paste](./16-03-08-paste.md)
+[16.3.8. 붙여넣기(Paste)](./16-03-08-paste.md)
 
 [16.3.9. Paste into selection](./16-03-09-paste-into-selection.md)
 
