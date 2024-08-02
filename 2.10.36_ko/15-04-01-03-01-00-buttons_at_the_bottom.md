@@ -1,5 +1,10 @@
 # 15.4.1.3.1. 아래쪽 버튼들(Buttons at the bottom)
 
+<a id="90-04-23-a115"></a>
+
+#### [그림 90.4.23.a115. `버퍼` 대화상자 → `아래쪽 버튼들` (Windows) (우리말)](./90-04-0023-buffers.md#90-04-23-a115)
+<img width="200" height="224" alt="90-04-23-a115" src="https://github.com/user-attachments/assets/1e7c2566-5143-49d9-8c00-363e7f24e331" />
+
 ***
 
 ## 하위 페이지
