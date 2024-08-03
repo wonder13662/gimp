@@ -1,5 +1,11 @@
 # 15.4.2.2.3.1. 보기 올리기(Raise this image displays)
 
+The selected image appears at the foreground of your screen.
+
+If this image has another view, this view is raised but remains behind the original.
+
+The same option in the pop-up menu, that you get by rick-clicking, is called "Raise views".
+
 ***
 
 ## 다른 페이지로 가기
