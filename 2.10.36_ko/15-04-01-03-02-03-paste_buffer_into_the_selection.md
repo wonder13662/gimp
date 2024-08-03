@@ -1,5 +1,9 @@
 # 15.4.1.3.2.3. 버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)
 
+<a id="15-04-01-03-02-03-s1"></a>
+
+## 1. 기본 동작
+
 <a id="90-04-23-a121-03"></a>
 
 #### [그림 90.4.23.a121.3. `버퍼` 대화상자 → `탭 메뉴` → `버퍼 메뉴` → `버퍼를 선택 영역에 붙여넣기` (Windows)](./90-04-0023-buffers.md#90-04-23-a121-03)
@@ -16,6 +20,10 @@
 
 #### [영상 90.4.23.a121.3.1. `버퍼` 대화상자 → `탭 메뉴` → `버퍼 메뉴` → `버퍼를 선택 영역에 붙여넣기` (Windows)](./90-04-0023-buffers.md#90-04-23-a121-03-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/fbb3475e-37a9-4358-bec2-109db06ea179"></video>
+
+<a id="15-04-01-03-02-03-s2"></a>
+
+## 2. `버퍼를 선택 영역에 붙여넣기` 메뉴와 [선택 영역에 붙여넣기](./16-03-09-paste-into-selection.md)와의 차이점
 
 `버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)` 메뉴와 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [선택 영역에 붙여넣기](./16-03-09-paste-into-selection.md)와의 차이점은 다음과 같습니다.
 
