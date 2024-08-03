@@ -1,10 +1,23 @@
 # 15.4.1.3.2.6. 버퍼를 새로운 레이어의 같은 위치에 붙여넣기(Paste Buffer as New Layer)
 
+<a id="90-04-23-a121-06"></a>
+
+#### [그림 90.4.23.a121.6. `버퍼` 대화상자 → `탭 메뉴` → `버퍼 메뉴` → `버퍼를 새로운 레이어의 같은 위치에 붙여넣기` (Windows)](./90-04-0023-buffers.md#90-04-23-a121-06)
+<img width="944" height="418" alt="90-04-23-a121-06" src="https://github.com/user-attachments/assets/e8bed655-7be7-41af-9b11-ade84c4a888e" />
+
+<a id="90-04-23-a122-06"></a>
+
+#### [그림 90.4.23.a122.6. `버퍼` 대화상자 → `버퍼 메뉴`: 오른쪽 클릭 → `버퍼를 새로운 레이어의 같은 위치에 붙여넣기` (Windows)](./90-04-0023-buffers.md#90-04-23-a122-06)
+<img width="568" height="311" alt="90-04-23-a122-06" src="https://github.com/user-attachments/assets/8763566b-6d10-416c-a903-e889b2f211bc" />
+
 [15.4.1.3.2.5. 버퍼를 새로운 레이어에 붙여넣기(Paste Buffer as New Layer)](./15-04-01-03-02-05-paste_buffer_as_new_layer.md)와 같은 동작을 합니다.
 
 추가적으로 새 레이어를 만드는 위치가 원본 이미지의 버퍼의 위치와 같습니다.
 
-(TODO 예시 영상 필요)
+<a id="90-04-23-a121-06-01"></a>
+
+#### [영상 90.4.23.a121.6.1. `버퍼` 대화상자 → `탭 메뉴` → `버퍼 메뉴` → `버퍼를 새로운 레이어의 같은 위치에 붙여넣기` (Windows) (우리말)](./90-04-0023-buffers.md#90-04-23-a121-06-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/b0b48d8e-b6a2-44f6-bd55-91bee5634fc4"></video>
 
 ***
 
