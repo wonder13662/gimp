@@ -3,7 +3,7 @@
 <a id="90-04-23-a121-07"></a>
 
 #### [그림 90.4.23.a121.7. `버퍼` 대화상자 → `탭 메뉴` → `버퍼 메뉴` → `버퍼를 새로운 이미지에 붙여넣기` (Windows)](./90-04-0023-buffers.md#90-04-23-a121-07)
-<img width="944" height="418" alt="" src="https://github.com/user-attachments/assets/4a9b883e-8d16-4098-9837-f83d6bd6dfda" />
+<img width="944" height="418" alt="90-04-23-a121-07" src="https://github.com/user-attachments/assets/4a9b883e-8d16-4098-9837-f83d6bd6dfda" />
 
 <a id="90-04-23-a122-07"></a>
 
