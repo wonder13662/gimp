@@ -1,5 +1,9 @@
 # 15.4.1.3.1.2. 버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)
 
+<a id="15-04-01-03-01-02-s1"></a>
+
+## 1. 버퍼를 선택 영역에 붙여넣기
+
 <a id="90-04-23-a115-02"></a>
 
 #### [그림 90.4.23.a115.2. `버퍼` 대화상자 → `아래쪽 버튼들` → `버퍼를 선택 영역에 붙여넣기` (Windows) (우리말)](./90-04-0023-buffers.md#90-04-23-a115-02)
@@ -11,6 +15,10 @@
 
 #### [영상 90.4.23.a115.2.1. `버퍼` 대화상자 → `아래쪽 버튼들` → `버퍼를 선택 영역에 붙여넣기` (Windows) (우리말)](./90-04-0023-buffers.md#90-04-23-a115-02-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/136e85e7-d753-4413-b03b-755b69db7e90"></video>
+
+<a id="15-04-01-03-01-02-s2"></a>
+
+## 2. 버퍼를 선택 영역의 같은 위치에 붙여넣기
 
 Shift(⇧)키를 누른 채로 `버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)` 버튼을 누르면, [15.4.1.3.2.4. 버퍼를 선택 영역의 같은 위치에 붙여넣기(Paste Buffer into the Selection)](./15-04-01-03-02-04-paste_buffer_into_the_selection_in_place.md)으로 동작합니다.
 
