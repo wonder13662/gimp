@@ -1,10 +1,23 @@
 # 15.4.1.3.2.4. 버퍼를 선택 영역의 같은 위치에 붙여넣기(Paste Buffer into the Selection)
 
+<a id="90-04-23-a121-04"></a>
+
+#### [그림 90.4.23.a121.4. `버퍼` 대화상자 → `탭 메뉴` → `버퍼 메뉴` → `버퍼를 선택 영역의 같은 위치에 붙여넣기` (Windows)](./90-04-0023-buffers.md#90-04-23-a121-04)
+<img width="944" height="418" alt="90-04-23-a121-04" src="https://github.com/user-attachments/assets/e01630ce-8502-420e-a202-ad0fc52f4f79" />
+
+<a id="90-04-23-a122-04"></a>
+
+#### [그림 90.4.23.a122.4. `버퍼` 대화상자 → `버퍼 메뉴`: 오른쪽 클릭 → `버퍼를 선택 영역의 같은 위치에 붙여넣기` (Windows)](./90-04-0023-buffers.md#90-04-23-a122-04)
+<img width="568" height="311" alt="90-04-23-a122-04" src="https://github.com/user-attachments/assets/e9c3899e-eb6d-428e-a08b-9914cc7c42b1" />
+
 [15.4.1.3.2.3. 버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)](./15-04-01-03-02-03-paste_buffer_into_the_selection.md)와 같은 동작을 합니다.
 
 추가적으로 버퍼를 붙여넣는 위치가 원본 이미지의 선택 영역의 위치와 같습니다.
 
-(TODO 예시 영상 필요)
+<a id="90-04-23-a121-04-01"></a>
+
+#### [영상 90.4.23.a121.4.1. `버퍼` 대화상자 → `탭 메뉴` → `버퍼 메뉴` → `버퍼를 선택 영역의 같은 위치에 붙여넣기` (Windows) (우리말)](./90-04-0023-buffers.md#90-04-23-a121-04-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2c040c67-b129-49f4-a920-34dae152deb2"></video>
 
 ***
 
