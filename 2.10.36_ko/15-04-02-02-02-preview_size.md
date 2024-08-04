@@ -1,7 +1,15 @@
 # 15.4.2.2.2. 미리보기 크기(Preview Size)
 [3.2.5.2.6. 미리보기 크기(Preview Size)](./03-02-05-02-06-preview_size.md)을 참고해주세요.
 
-(TODO 관련 영상 추가 필요)
+<a id="90-04-24-a123"></a>
+
+#### [영상 90.4.24.a123. 이미지 대화상자: 격자 모드 - 미리보기 크기 바꾸기 (Windows) (우리말)](./90-04-0024-images.md#90-04-24-a123)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/8b80de30-e695-4a63-a5ed-cfcf9493b464"></video>
+
+<a id="90-04-24-a124"></a>
+
+#### [영상 90.4.24.a124. 이미지 대화상자: 목록 모드 - 미리보기 크기 바꾸기 (Windows) (우리말)](./90-04-0024-images.md#90-04-24-a124)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/8b39e3bd-2244-4a70-a969-8e645e1e3df7"></video>
 
 ***
 
