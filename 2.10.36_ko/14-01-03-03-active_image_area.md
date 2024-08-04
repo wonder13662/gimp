@@ -18,7 +18,7 @@
 <a id="90-04-24-a1"></a>
 
 #### [그림 90.4.24.a1. 이미지 대화상자](./90-04-0024-images.md#90-04-24-a1)
-![90-04-24-a1](https://github.com/wonder13662/gimp/assets/15767104/42ccde4a-032f-4652-ab9c-5d777e7ea583)
+<img width="850" height="269" alt="90-04-24-a1" src="https://github.com/user-attachments/assets/b0a8e84a-c3eb-4005-b5c6-ef04278c7a07" />
 
 ***
 

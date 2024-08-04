@@ -1,6 +1,9 @@
 # 15.4.2. 이미지 대화상자(Images dialog)
 
-(TODO 대화상자 이미지 추가 필요)
+<a id="90-04-24-a1"></a>
+
+#### [그림 90.4.24.a1. 이미지 대화상자](./90-04-0024-images.md#90-04-24-a1)
+<img width="850" height="269" alt="90-04-24-a1" src="https://github.com/user-attachments/assets/b0a8e84a-c3eb-4005-b5c6-ef04278c7a07" />
 
 `이미지 대화상자(Images dialog)`는 GIMP(김프) 안에서 열려있는 모든 이미지를 목록으로 보여줍니다.
 
