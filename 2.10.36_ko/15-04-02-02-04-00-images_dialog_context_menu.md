@@ -1,5 +1,15 @@
 # 15.4.2.2.4. 이미지 대화상자 컨텍스트 메뉴(Imaage dialog context menu)
 
+<a id="90-04-24-a151"></a>
+
+#### [그림 90.4.24.a151. 이미지 대화상자 → `탭 메뉴` → `이미지 메뉴` (Windows)](./90-04-0024-images.md#90-04-24-a151)
+<img width="690" height="418" alt="90-04-24-a151" src="https://github.com/user-attachments/assets/51e6d3d8-3af6-47b4-9fe8-e9a1ba693011" />
+
+<a id="90-04-24-a161"></a>
+
+#### [그림 90.4.24.a161. 이미지 대화상자 → `이미지 컨텍스트 메뉴` (Windows)](./90-04-0024-images.md#90-04-24-a161)
+<img width="314" height="186" alt="90-04-24-a161" src="https://github.com/user-attachments/assets/98892407-04fa-4959-9831-8ccb2bd6dc36" />
+
 ***
 
 ## 하위 페이지
