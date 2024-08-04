@@ -1,5 +1,10 @@
 # 15.4.2.2.3.2. 새창으로 보기(Create a new display for this image)
 
+<a id="90-04-24-a142"></a>
+
+#### [그림 90.4.24.a142. 이미지 대화상자 → `아래쪽 버튼들` → `새창으로 보기` (Windows) (우리말)](./90-04-0024-images.md#90-04-24-a142)
+<img width="200" height="169" alt="90-04-24-a142" src="https://github.com/user-attachments/assets/1fdca7d4-471f-4cae-b30b-c036aaf83633" />
+
 ***
 
 ## 다른 페이지로 가기

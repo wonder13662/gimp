@@ -1,5 +1,10 @@
 # 15.4.2.2.3.1. 보기 올리기(Raise this image displays)
 
+<a id="90-04-24-a141"></a>
+
+#### [그림 90.4.24.a141. 이미지 대화상자 → `아래쪽 버튼들` → `보기 올리기` (Windows) (우리말)](./90-04-0024-images.md#90-04-24-a141)
+<img width="200" height="169" alt="90-04-24-a141" src="https://github.com/user-attachments/assets/5396cdaf-37a3-4ab0-b515-e844f334b1bb" />
+
 The selected image appears at the foreground of your screen.
 
 If this image has another view, this view is raised but remains behind the original.
