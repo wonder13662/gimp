@@ -46,7 +46,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.4.2.2.3.2. 새창으로 보기(Create a new display for this image)](./15-04-02-02-03-02-create_a_new_display_for_this_image.md)
+[➡️ 다음: 15.4.2.2.3.2. 새 창으로 보기(Create a new display for this image)](./15-04-02-02-03-02-create_a_new_display_for_this_image.md)
 
 [⬅️ 이전: 15.4.2.2.3. 아래쪽 버튼들(Preview Size)](./15-04-02-02-03-00-buttons.md)
 
