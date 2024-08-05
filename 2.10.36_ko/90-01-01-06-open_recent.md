@@ -35,9 +35,18 @@
 <a id="90-01-01-06-a111"></a>
 
 #### 그림 90.1.1.6.a111. `이미지 메뉴 바` → `파일` → `최근 연 파일` → `문서 이력` (Windows) (우리말)
-![90-01-01-06-a111](https://github.com/wonder13662/gimp/assets/15767104/84d8fb0f-231a-4c04-be20-a206eb0d18ff)
+<img width="980" height="699" alt="90-01-01-06-a111" src="https://github.com/user-attachments/assets/2d9fcf9e-1d01-4426-811c-6d7a3d9bca3f" />
 
 [12.1.2.4. 문서 이력(Document History) - 그림 90.1.1.6.a111](./12-01-02-04-document_history.md#90-01-01-06-a111)
+
+[15.4.3.1. 문서 이력 대화상자 활성화하기(Activating the dialog) - 그림 90.1.1.6.a111](./15-04-03-01-activating_the_dialog.md#90-01-01-06-a111)
+
+<a id="90-01-01-06-a111-01"></a>
+
+#### 영상 90.1.1.6.a111.1. `이미지 메뉴 바` → `파일` → `최근 연 파일` → `문서 이력` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f24dc20c-50c2-48b3-b5ba-686dfedcf2d2"></video>
+
+[15.4.3.1. 문서 이력 대화상자 활성화하기(Activating the dialog) - 영상 90.1.1.6.a111.1](./15-04-03-01-activating_the_dialog.md#90-01-01-06-a111-01)
 
 ***
 
