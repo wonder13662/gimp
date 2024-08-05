@@ -1,5 +1,59 @@
 # 15.4.3.2. 문서 이력 대화상자 사용하기(Using the Document History dialog)
 
+<a id="15-04-03-02-s1"></a>
+
+## 1. 격자로 보기
+`격자로 보기` 모드에서는 사각형 배열로 문서 이력의 미리보기를 볼 수 있습니다.
+
+[관련 정보: 3.2.5.2.8. 목록으로 보기/격자로 보기(View as List; View as Grid) - 2. 격자 형태](./03-02-05-02-08-view_as_list_or_grid.md#03-02-05-02-08-s2)
+
+<a id="90-04-25-a111"></a>
+
+#### [그림 90.4.25.a111. 문서 이력 대화상자: 격자 모드 (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a111)
+<img width="200" height="170" alt="90-04-25-a111" src="https://github.com/user-attachments/assets/4a86fd4b-9e9b-4b0f-9729-435f2ed0e07e" />
+
+<a id="90-04-25-a111-01"></a>
+
+#### [영상 90.4.25.a111.1. 문서 이력 대화상자: 격자 모드 (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a111-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e6dad5c4-f19d-4eb7-848c-29d4126abd3d"></video>
+
+<a id="15-04-03-02-s2"></a>
+
+## 2. 목록으로 보기
+`목록으로 보기` 모드에서는 문서 이력의 미리보기와 제목, 너비를 한 줄로 하는 목록으로 볼 수 있습니다.
+
+[관련 정보: 3.2.5.2.8. 목록으로 보기/격자로 보기(View as List; View as Grid) - 1. 목록 형태](./03-02-05-02-08-view_as_list_or_grid.md#03-02-05-02-08-s1)
+
+<a id="90-04-25-a101"></a>
+
+#### [그림 90.4.25.a101. 문서 이력 대화상자 (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a101)
+<img width="200" height="170" alt="90-04-25-a101" src="https://github.com/user-attachments/assets/aab6a9fe-7a69-4d03-abaa-bd32aa77962e" />
+
+<a id="90-04-25-a112"></a>
+
+#### [영상 90.4.25.a112. 문서 이력 대화상자: 목록 모드 (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a112)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/52bf11f0-23d3-475b-9c60-310227e041f1"></video>
+
+<a id="15-04-03-02-s3"></a>
+
+## 3. 목록 검색하기
+[3.2.5.2.8. 목록으로 보기/격자로 보기(View as List; View as Grid) - 4. 목록 검색하기](./03-02-05-02-08-view_as_list_or_grid.md#03-02-05-02-08-s4)를 참고해주세요.
+
+<a id="90-04-25-a113"></a>
+
+#### [영상 90.4.25.a113. 문서 이력 대화상자: 목록으로 보기 - 목록 검색하기 (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a113)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/eaa62da3-aead-4599-9cf7-e846577e5ace"></video>
+
+<a id="15-04-03-02-s4"></a>
+
+## 4. 미리보기 크기
+[3.2.5.2.6. 미리보기 크기(Preview Size)](./03-02-05-02-06-preview_size.md)을 참고해주세요.
+
+<a id="90-04-25-a114"></a>
+
+#### [영상 90.4.25.a114. 문서 이력 대화상자: 목록으로 보기 - 미리보기 크기 (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a114)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/76fb26ce-b104-4dc1-9b99-5733bedafc05"></video>
+
 ***
 
 ## 하위 페이지

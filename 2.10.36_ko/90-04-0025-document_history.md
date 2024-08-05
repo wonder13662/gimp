@@ -12,6 +12,8 @@
 #### 그림 90.4.25.a101. 문서 이력 대화상자 (Windows) (우리말)
 <img width="200" height="170" alt="90-04-25-a101" src="https://github.com/user-attachments/assets/aab6a9fe-7a69-4d03-abaa-bd32aa77962e" />
 
+[15.4.3.2. 문서 이력 대화상자 사용하기(Using the Document History dialog) - 그림 90.4.25.a101](./15-04-03-02-00-using_the_document_history_dialog.md#90-04-25-a101)
+
 <a id="90-04-25-a102"></a>
 
 #### 그림 90.4.25.a102. 문서 이력 대화상자 (Windows) (영어)
@@ -26,6 +28,41 @@
 
 #### 그림 90.4.25.a104. 문서 이력 대화상자 (Mac) (영어)
 <img width="200" height="161" alt="90-04-25-a104" src="https://github.com/user-attachments/assets/59137b8a-0cad-4e53-8815-264a8b00b892" />
+
+<a id="90-04-25-a111"></a>
+
+#### 그림 90.4.25.a111. 문서 이력 대화상자: 격자 모드 (Windows) (우리말)
+<img width="200" height="170" alt="90-04-25-a111" src="https://github.com/user-attachments/assets/4a86fd4b-9e9b-4b0f-9729-435f2ed0e07e" />
+
+[15.4.3.2. 문서 이력 대화상자 사용하기(Using the Document History dialog) - 그림 90.4.25.a111](./15-04-03-02-00-using_the_document_history_dialog.md#90-04-25-a111)
+
+<a id="90-04-25-a111-01"></a>
+
+#### 영상 90.4.25.a111.1. 문서 이력 대화상자: 격자 모드 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e6dad5c4-f19d-4eb7-848c-29d4126abd3d"></video>
+
+[15.4.3.2. 문서 이력 대화상자 사용하기(Using the Document History dialog) - 영상 90.4.25.a111.1](./15-04-03-02-00-using_the_document_history_dialog.md#90-04-25-a111-01)
+
+<a id="90-04-25-a112"></a>
+
+#### 영상 90.4.25.a112. 문서 이력 대화상자: 목록 모드 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/52bf11f0-23d3-475b-9c60-310227e041f1"></video>
+
+[15.4.3.2. 문서 이력 대화상자 사용하기(Using the Document History dialog) - 영상 90.4.25.a112](./15-04-03-02-00-using_the_document_history_dialog.md#90-04-25-a112)
+
+<a id="90-04-25-a113"></a>
+
+#### 영상 90.4.25.a113. 문서 이력 대화상자: 목록으로 보기 - 목록 검색하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/eaa62da3-aead-4599-9cf7-e846577e5ace"></video>
+
+[15.4.3.2. 문서 이력 대화상자 사용하기(Using the Document History dialog) - 영상 90.4.25.a113](./15-04-03-02-00-using_the_document_history_dialog.md#90-04-25-a113)
+
+<a id="90-04-25-a114"></a>
+
+#### 영상 90.4.25.a114. 문서 이력 대화상자: 목록으로 보기 - 미리보기 크기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/76fb26ce-b104-4dc1-9b99-5733bedafc05"></video>
+
+[15.4.3.2. 문서 이력 대화상자 사용하기(Using the Document History dialog) - 영상 90.4.25.a114](./15-04-03-02-00-using_the_document_history_dialog.md#90-04-25-a114)
 
 ***
 
