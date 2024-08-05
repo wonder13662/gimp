@@ -1,5 +1,10 @@
 # 15.4.3.2.1.4. 미리 보기 다시 만들기(Recreate Preview)
 
+<a id="90-04-25-a125"></a>
+
+#### [그림 90.4.25.a125. 문서 이력 대화상자 → `아래쪽 버튼들` → `미리 보기 다시 만들기` (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a125)
+<img width="200" height="170" alt="90-04-25-a125" src="https://github.com/user-attachments/assets/fe193856-401e-4c54-9f6e-d251b241479f" />
+
 ***
 
 ## 다른 페이지로 가기

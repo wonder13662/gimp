@@ -71,6 +71,48 @@
 
 [15.4.3.2.1. 아래쪽 버튼들(Buttons at the bottom) - 그림 90.4.25.a121](./15-04-03-02-01-00-buttons_at_the_bottom.md#90-04-25-a121)
 
+<a id="90-04-25-a122"></a>
+
+#### 그림 90.4.25.a122. 문서 이력 대화상자 → `아래쪽 버튼들` → `이미지 열기` (Windows) (우리말)
+<img width="200" height="170" alt="90-04-25-a122" src="https://github.com/user-attachments/assets/be96911a-4a9a-477d-902f-472316be9228" />
+
+[15.4.3.2.1.1. 이미지 열기(Open image) - 그림 90.4.25.a122](./15-04-03-02-01-01-open_image.md#90-04-25-a122)
+
+<a id="90-04-25-a122-01"></a>
+
+#### 영상 90.4.25.a122.1. 문서 이력 대화상자 → `아래쪽 버튼들` → `이미지 열기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/39e5787e-48da-43f0-8ada-a174a1382661"></video>
+
+[15.4.3.2.1.1. 이미지 열기(Open image) - 영상 90.4.25.a122.1](./15-04-03-02-01-01-open_image.md#90-04-25-a122-01)
+
+<a id="90-04-25-a122-02"></a>
+
+#### 영상 90.4.25.a122.2. 문서 이력 대화상자 → `아래쪽 버튼들` → `이미지 열기`: Ctrl(⌘)로 `이미지 열기` 대화상자 열기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/3d2d43ec-d768-46b3-9cf4-bece60dbb8e9"></video>
+
+[15.4.3.2.1.1. 이미지 열기(Open image) - 영상 90.4.25.a122.2](./15-04-03-02-01-01-open_image.md#90-04-25-a122-02)
+
+<a id="90-04-25-a123"></a>
+
+#### 그림 90.4.25.a123. 문서 이력 대화상자 → `아래쪽 버튼들` → `항목 제거` (Windows) (우리말)
+<img width="200" height="170" alt="90-04-25-a123" src="https://github.com/user-attachments/assets/e7a15e17-dd71-4780-825c-80c3f45c226c" />
+
+[15.4.3.2.1.2. 항목 제거(Remove entry) - 그림 90.4.25.a123](./15-04-03-02-01-02-remove_entry.md#90-04-25-a123)
+
+<a id="90-04-25-a124"></a>
+
+#### 그림 90.4.25.a124. 문서 이력 대화상자 → `아래쪽 버튼들` → `기록 지우기` (Windows) (우리말)
+<img width="200" height="170" alt="90-04-25-a124" src="https://github.com/user-attachments/assets/cfcf86a4-46fa-4381-b2e0-c44e330dfc8a" />
+
+[15.4.3.2.1.3. 기록 지우기(Clear history) - 그림 90.4.25.a124](./15-04-03-02-01-03-clear_history.md#90-04-25-a124)
+
+<a id="90-04-25-a125"></a>
+
+#### 그림 90.4.25.a125. 문서 이력 대화상자 → `아래쪽 버튼들` → `미리 보기 다시 만들기` (Windows) (우리말)
+<img width="200" height="170" alt="90-04-25-a125" src="https://github.com/user-attachments/assets/fe193856-401e-4c54-9f6e-d251b241479f" />
+
+[15.4.3.2.1.4. 미리 보기 다시 만들기(Recreate Preview) - 그림 90.4.25.a125](./15-04-03-02-01-04-recreate_preview.md#90-04-25-a125)
+
 ***
 
 ## 다른 페이지로 가기
