@@ -1190,7 +1190,7 @@ module.exports = {
         '15.4.2. 이미지 대화상자'
       ],
       [
-        '15-04-03-document-history-dialog.md', 
+        '15-04-03-00-document-history-dialog.md', 
         '15.4.3. 문서 이력 대화상자(Document history dialog)',
         '15.4.3. 문서 이력 대화상자'
       ],

@@ -22,7 +22,7 @@ const doAsyncJob = async () => {
     // 1-1. 시작 페이지 이름
     const head = '15-00-dialogs.md'
     // 1-2. 종료 페이지 이름
-    // const tail = '15-04-02-02-04-03-delete.md'
+    // const tail = '15-04-03-02-02-10-remove_dangling_entries.md'
     const tail = head
 
     // 2. 모든 페이지 파일의 목록을 가져온다.
