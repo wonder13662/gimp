@@ -141,6 +141,34 @@
 
 [15.4.3.2.1.4. 미리 보기 다시 만들기(Recreate Preview) - 영상 90.4.25.a125.2](./15-04-03-02-01-04-recreate_preview.md#90-04-25-a125-02)
 
+<a id="90-04-25-a131"></a>
+
+#### 그림 90.4.25.a131. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` (Windows)
+<img width="845" height="418" alt="90-04-25-a131" src="https://github.com/user-attachments/assets/12d71393-67fe-4531-bac7-18c27547f240" />
+
+[15.4.3.2.2. 문서 이력 컨텍스트 메뉴(Document History Context Menu) - 그림 90.4.25.a131](./15-04-03-02-02-00-document_history_context_menu.md#90-04-25-a131)
+
+<a id="90-04-25-a131-01"></a>
+
+#### 영상 90.4.25.a131.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` (Windows)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/53b9cb0e-3501-4fc4-8e43-9663ffebcc05"></video>
+
+[15.4.3.2.2. 문서 이력 컨텍스트 메뉴(Document History Context Menu) - 영상 90.4.25.a131.1](./15-04-03-02-02-00-document_history_context_menu.md#90-04-25-a131-01)
+
+<a id="90-04-25-a141"></a>
+
+#### 그림 90.4.25.a141. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` (Windows)
+<img width="457" height="377" alt="90-04-25-a141" src="https://github.com/user-attachments/assets/c905805a-186a-4b81-b5a5-14e3d3375e4d" />
+
+[15.4.3.2.2. 문서 이력 컨텍스트 메뉴(Document History Context Menu) - 그림 90.4.25.a141](./15-04-03-02-02-00-document_history_context_menu.md#90-04-25-a141)
+
+<a id="90-04-25-a141-01"></a>
+
+#### 영상 90.4.25.a141.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` (Windows)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d85df6b5-a6ac-41ed-a0e3-aa48a26f2561"></video>
+
+[15.4.3.2.2. 문서 이력 컨텍스트 메뉴(Document History Context Menu) - 영상 90.4.25.a141.1](./15-04-03-02-02-00-document_history_context_menu.md#90-04-25-a141-01)
+
 ***
 
 ## 다른 페이지로 가기
