@@ -17,7 +17,7 @@
 <a id="90-04-24-a111"></a>
 
 #### [영상 90.4.24.a111. 이미지 대화상자:다중창 모드 - 대화상자 위쪽에 드롭다운 목록 (Windows) (우리말)](./90-04-0024-images.md#90-04-24-a111)
-<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/bf703f67-8f7e-4d0e-9d39-ddabdefc356f"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6771c147-d63b-4693-9288-6bd3e58b4e8c"></video>
 
 <a id="15-04-02-02-s2"></a>
 
