@@ -1,5 +1,10 @@
 # 15.4.3.2.1. 아래쪽 버튼들(Buttons at the bottom)
 
+<a id="90-04-25-a121"></a>
+
+#### [그림 90.4.25.a121. 문서 이력 대화상자 → `아래쪽 버튼들` (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a121)
+<img width="200" height="170" alt="90-04-25-a121" src="https://github.com/user-attachments/assets/98acda8f-e259-46d2-9e26-9b9479e85d18" />
+
 ***
 
 ## 하위 페이지

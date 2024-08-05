@@ -64,6 +64,13 @@
 
 [15.4.3.2. 문서 이력 대화상자 사용하기(Using the Document History dialog) - 영상 90.4.25.a114](./15-04-03-02-00-using_the_document_history_dialog.md#90-04-25-a114)
 
+<a id="90-04-25-a121"></a>
+
+#### 그림 90.4.25.a121. 문서 이력 대화상자 → `아래쪽 버튼들` (Windows) (우리말)
+<img width="200" height="170" alt="90-04-25-a121" src="https://github.com/user-attachments/assets/98acda8f-e259-46d2-9e26-9b9479e85d18" />
+
+[15.4.3.2.1. 아래쪽 버튼들(Buttons at the bottom) - 그림 90.4.25.a121](./15-04-03-02-01-00-buttons_at_the_bottom.md#90-04-25-a121)
+
 ***
 
 ## 다른 페이지로 가기
