@@ -2548,7 +2548,7 @@
 
 [15.4.2.2.4.1. 보기 올리기(Raise this image displays)](./15-04-02-02-04-01-raise_this_image_displays.md)
 
-[15.4.2.2.4.2. 새창으로 보기(Create a new display for this image)](./15-04-02-02-04-02-create_a_new_display_for_this_image.md)
+[15.4.2.2.4.2. 새 창으로 보기(Create a new display for this image)](./15-04-02-02-04-02-create_a_new_display_for_this_image.md)
 
 [15.4.2.2.4.3. 이미지 삭제(Delete)](./15-04-02-02-04-03-delete.md)
 

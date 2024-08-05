@@ -18,7 +18,7 @@
 
 `이미지` 대화상자 → `탭 메뉴` → `이미지 메뉴` → `새 창으로 보기` 메뉴로도 같은 동작을 할 수 있습니다.
 
-[15.4.2.2.4.2. 새창으로 보기(Create a new display for this image)](./15-04-02-02-04-02-create_a_new_display_for_this_image.md)을 참고해주세요.
+[15.4.2.2.4.2. 새 창으로 보기(Create a new display for this image)](./15-04-02-02-04-02-create_a_new_display_for_this_image.md)을 참고해주세요.
 
 ***
 
