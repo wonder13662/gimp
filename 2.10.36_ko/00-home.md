@@ -2634,7 +2634,7 @@
 
 [16.2.6. Open location](./16-02-06-open-location.md)
 
-[16.2.7. Open recent](./16-02-07-open-recent.md)
+[16.2.7. Open recent](./16-02-07-open_recent.md)
 
 [16.2.8. Save](./16-02-08-save.md)
 

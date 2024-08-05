@@ -1287,7 +1287,7 @@ module.exports = {
         '16.2.6. Open location'
       ],
       [
-        '16-02-07-open-recent.md', 
+        '16-02-07-open_recent.md', 
         '16.2.7. Open recent'
       ],
       [

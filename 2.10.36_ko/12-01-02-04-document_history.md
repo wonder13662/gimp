@@ -2,7 +2,7 @@
 
 <a id="90-01-01-06-a111"></a>
 
-#### [그림 90.1.1.6.a111. `파일` → `최근 연 파일` → `문서 이력` (Windows) (우리말)](./90-01-01-06-open_recent.md#90-01-01-06-a111)
+#### [그림 90.1.1.6.a111. `이미지 메뉴 바` → `파일` → `최근 연 파일` → `문서 이력` (Windows) (우리말)](./90-01-01-06-open_recent.md#90-01-01-06-a111)
 ![90-01-01-06-a111](https://github.com/wonder13662/gimp/assets/15767104/84d8fb0f-231a-4c04-be20-a206eb0d18ff)
 
 ## 최근 문서 목록에서 사용한 파일의 기록을 유지(Keep record of used files in the Recent Documents list)
@@ -10,7 +10,7 @@
 
 <a id="90-01-01-06-a101"></a>
 
-#### [그림 90.1.1.6.a101. `파일` → `최근 연 파일` (Windows) (우리말)](./90-01-01-06-open_recent.md#90-01-01-06-a101)
+#### [그림 90.1.1.6.a101. `이미지 메뉴 바` → `파일` → `최근 연 파일` (Windows) (우리말)](./90-01-01-06-open_recent.md#90-01-01-06-a101)
 ![90-01-01-filex-02-open_recent(우리말)(windows)](https://github.com/wonder13662/gimp/assets/15767104/8b3469cd-433a-4fe9-924a-11ca476febb8)
 
 [다른 운영체제와 언어의 `파일` → `최근 연 파일` 확인하기](./90-01-01-06-open_recent.md#90-01-01-06-a102)
@@ -18,7 +18,7 @@
 <a id="90-04-25-a1"></a>
 
 #### [그림 90.4.25.a1. 문서 이력 대화상자](./90-04-0025-document_history.md#90-04-25-a1)
-![90-04-25-a1](https://github.com/wonder13662/gimp/assets/15767104/88c5223f-c760-4132-b0f3-274efd8a5067)
+<img width="850" height="275" alt="90-04-25-a1" src="https://github.com/user-attachments/assets/ccc58908-453c-4126-a591-084762a46afc" />
 
 ***
 

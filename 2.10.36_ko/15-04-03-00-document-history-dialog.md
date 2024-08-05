@@ -1,5 +1,14 @@
 # 15.4.3. 문서 이력 대화상자(Document history dialog)
 
+<a id="90-04-25-a1"></a>
+
+#### [그림 90.4.25.a1. 문서 이력 대화상자](./90-04-0025-document_history.md#90-04-25-a1)
+<img width="850" height="275" alt="90-04-25-a1" src="https://github.com/user-attachments/assets/ccc58908-453c-4126-a591-084762a46afc" />
+
+`문서 이력 대화상자(Document history dialog)`는 이전에 열었던 모든 이미지들의 목록을 보여줍니다.
+
+[`이미지 메뉴 바` → `파일` → `최근 연 파일`](./16-02-07-open_recent.md)에서 보여지는 파일 목록보다 더 정확한 내용을 확인할 수 있습니다.
+
 ***
 
 ## 하위 페이지

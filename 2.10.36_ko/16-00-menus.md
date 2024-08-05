@@ -8,7 +8,7 @@
 ## [16.2.4. File open](./16-02-04-file-open.md)
 ## [16.2.5. Open as layers](./16-02-05-open-as-layers.md)
 ## [16.2.6. Open location](./16-02-06-open-location.md)
-## [16.2.7. Open recent](./16-02-07-open-recent.md)
+## [16.2.7. Open recent](./16-02-07-open_recent.md)
 ## [16.2.8. Save](./16-02-08-save.md)
 ## [16.2.9. Save as](./16-02-09-save-as.md)
 ## [16.2.10. Save a copy](./16-02-10-save-a-copy.md)
