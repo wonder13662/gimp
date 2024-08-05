@@ -5298,6 +5298,8 @@
 
 [90.4.146. 팔레트 색상 편집(Edit Palette Color)](./90-04-0146-edit_palette_color.md)
 
+[90.4.147. 문서 이력 지우기(Clear Document History)](./90-04-0147-clear_document_history.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)

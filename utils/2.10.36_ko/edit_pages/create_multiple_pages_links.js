@@ -20,7 +20,7 @@ const {
 const doAsyncJob = async () => {
   try {
     // 1-1. 시작 페이지 이름
-    const head = '15-00-dialogs.md'
+    const head = '90-04-0147-clear_document_history.md'
     // 1-2. 종료 페이지 이름
     // const tail = '15-04-03-02-02-10-remove_dangling_entries.md'
     const tail = head
