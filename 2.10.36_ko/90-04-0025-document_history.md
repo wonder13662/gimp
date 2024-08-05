@@ -155,6 +155,20 @@
 
 [15.4.3.2.2. 문서 이력 컨텍스트 메뉴(Document History Context Menu) - 영상 90.4.25.a131.1](./15-04-03-02-02-00-document_history_context_menu.md#90-04-25-a131-01)
 
+<a id="90-04-25-a132"></a>
+
+#### 그림 90.4.25.a132. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `이미지 열기` (Windows)
+<img width="845" height="418" alt="90-04-25-a132" src="https://github.com/user-attachments/assets/3002d331-985b-43e3-9fdf-8eeee9c6745d" />
+
+[15.4.3.2.2.1. 이미지 열기(Open Image) - 그림 90.4.25.a132](./15-04-03-02-02-01-open_image.md#90-04-25-a132)
+
+<a id="90-04-25-a132-01"></a>
+
+#### 영상 90.4.25.a132.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `이미지 열기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/21980941-0007-4c98-acfe-aedce7d08366"></video>
+
+[15.4.3.2.2.1. 이미지 열기(Open Image) - 영상 90.4.25.a132.1](./15-04-03-02-02-01-open_image.md#90-04-25-a132-01)
+
 <a id="90-04-25-a141"></a>
 
 #### 그림 90.4.25.a141. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` (Windows)
@@ -162,12 +176,27 @@
 
 [15.4.3.2.2. 문서 이력 컨텍스트 메뉴(Document History Context Menu) - 그림 90.4.25.a141](./15-04-03-02-02-00-document_history_context_menu.md#90-04-25-a141)
 
+
 <a id="90-04-25-a141-01"></a>
 
 #### 영상 90.4.25.a141.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` (Windows)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d85df6b5-a6ac-41ed-a0e3-aa48a26f2561"></video>
 
 [15.4.3.2.2. 문서 이력 컨텍스트 메뉴(Document History Context Menu) - 영상 90.4.25.a141.1](./15-04-03-02-02-00-document_history_context_menu.md#90-04-25-a141-01)
+
+<a id="90-04-25-a142"></a>
+
+#### 그림 90.4.25.a142. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `이미지 열기` (Windows)
+<img width="457" height="377" alt="90-04-25-a142" src="https://github.com/user-attachments/assets/704559a4-798b-4b69-be5d-1f50bc6ecf93" />
+
+[15.4.3.2.2.1. 이미지 열기(Open Image) - 그림 90.4.25.a142](./15-04-03-02-02-01-open_image.md#90-04-25-a142)
+
+<a id="90-04-25-a142-01"></a>
+
+#### 영상 90.4.25.a142.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `이미지 열기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/cde2c282-98db-4c5f-932f-89e57f9b6d3b"></video>
+
+[15.4.3.2.2.1. 이미지 열기(Open Image) - 영상 90.4.25.a142.1](./15-04-03-02-02-01-open_image.md#90-04-25-a142-01)
 
 ***
 
