@@ -99,6 +99,13 @@
 
 [15.4.3.2.1.2. 항목 제거(Remove entry) - 그림 90.4.25.a123](./15-04-03-02-01-02-remove_entry.md#90-04-25-a123)
 
+<a id="90-04-25-a123-01"></a>
+
+#### 영상 90.4.25.a123.1. 문서 이력 대화상자 → `아래쪽 버튼들` → `항목 제거` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/de61a63b-b6a0-4cdc-b0ca-ef0499cec267"></video>
+
+[15.4.3.2.1.2. 항목 제거(Remove entry) - 영상 90.4.25.a123.1](./15-04-03-02-01-02-remove_entry.md#90-04-25-a123-01)
+
 <a id="90-04-25-a124"></a>
 
 #### 그림 90.4.25.a124. 문서 이력 대화상자 → `아래쪽 버튼들` → `기록 지우기` (Windows) (우리말)
