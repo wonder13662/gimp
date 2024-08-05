@@ -5,6 +5,35 @@
 #### [그림 90.4.25.a125. 문서 이력 대화상자 → `아래쪽 버튼들` → `미리 보기 다시 만들기` (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a125)
 <img width="200" height="170" alt="90-04-25-a125" src="https://github.com/user-attachments/assets/fe193856-401e-4c54-9f6e-d251b241479f" />
 
+<a id="15-04-03-02-01-04-s1"></a>
+
+## 1. 이미지의 미리보기를 업데이트
+`미리 보기 다시 만들기(Recreate Preview)` 버튼을 누르면, 이미지의 미리보기를 업데이트합니다.
+
+<a id="90-04-25-a125-01"></a>
+
+#### [영상 90.4.25.a125.1. 문서 이력 대화상자 → `아래쪽 버튼들` → `미리 보기 다시 만들기` (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a125-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d04bfbcd-1ba2-4e96-b85a-c02bc1b9ab20"></video>
+
+<a id="15-04-03-02-01-04-s2"></a>
+
+## 2. 모든 이미지의 미리보기를 업데이트
+Shift(⇧) 키를 누른채로 `미리 보기 다시 만들기(Recreate Preview)` 버튼을 누르면 모든 이미지의 미리보기를 업데이트합니다.
+
+⚠️ 주의: 실제로 이 기능은 동작하지 않습니다.
+
+<a comment="TODO 동작하지 않는 기능에 대해 버그 리포트 필요"></a>
+
+<a id="15-04-03-02-01-04-s3"></a>
+
+## 3. 찾을 수 없는 이미지 삭제
+Ctrl(⌘) 키를 누른채로 `미리 보기 다시 만들기(Recreate Preview)` 버튼을 누르면 선택한 이미지를 찾을 수 없다면, 삭제합니다.
+
+<a id="90-04-25-a125-02"></a>
+
+#### [영상 90.4.25.a125.2. 문서 이력 대화상자 → `아래쪽 버튼들` → `미리 보기 다시 만들기`: Ctrl(⌘) 키 - 찾을 수 없는 모든 이미지 삭제 (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a125-02)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/72e8bfc2-f2b0-4099-b3d7-e9b22fd100f9"></video>
+
 ***
 
 ## 다른 페이지로 가기

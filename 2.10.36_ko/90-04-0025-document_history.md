@@ -127,6 +127,20 @@
 
 [15.4.3.2.1.4. 미리 보기 다시 만들기(Recreate Preview) - 그림 90.4.25.a125](./15-04-03-02-01-04-recreate_preview.md#90-04-25-a125)
 
+<a id="90-04-25-a125-01"></a>
+
+#### 영상 90.4.25.a125.1. 문서 이력 대화상자 → `아래쪽 버튼들` → `미리 보기 다시 만들기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d04bfbcd-1ba2-4e96-b85a-c02bc1b9ab20"></video>
+
+[15.4.3.2.1.4. 미리 보기 다시 만들기(Recreate Preview) - 영상 90.4.25.a125.1](./15-04-03-02-01-04-recreate_preview.md#90-04-25-a125-01)
+
+<a id="90-04-25-a125-02"></a>
+
+#### 영상 90.4.25.a125.2. 문서 이력 대화상자 → `아래쪽 버튼들` → `미리 보기 다시 만들기`: Ctrl(⌘) 키 - 찾을 수 없는 모든 이미지 삭제 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/72e8bfc2-f2b0-4099-b3d7-e9b22fd100f9"></video>
+
+[15.4.3.2.1.4. 미리 보기 다시 만들기(Recreate Preview) - 영상 90.4.25.a125.2](./15-04-03-02-01-04-recreate_preview.md#90-04-25-a125-02)
+
 ***
 
 ## 다른 페이지로 가기
