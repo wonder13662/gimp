@@ -1,4 +1,25 @@
 # 15.4.3.2.2.5. 파일 관리자에서 표시(Show in File Manager)
+`파일 관리자에서 표시(Show in File Manager)` 메뉴를 누르면, 시스템의 기본 파일 관리자에서 선택한 이미지의 위치를 열어줍니다.
+
+<a id="90-04-25-a145"></a>
+
+#### [그림 90.4.25.a145. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `파일 관리자에서 표시` (Windows)](./90-04-0025-document_history.md#90-04-25-a145)
+<img width="845" height="418" alt="90-04-25-a145" src="https://github.com/user-attachments/assets/3aeb32c5-7353-4016-93c0-30803a2be45a" />
+
+<a id="90-04-25-a145-01"></a>
+
+#### [영상 90.4.25.a145.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `파일 관리자에서 표시` (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a145-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/35bd5883-e737-4be1-89f8-a585adeea029"></video>
+
+<a id="90-04-25-a185"></a>
+
+#### [그림 90.4.25.a185. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `파일 관리자에서 표시` (Windows)](./90-04-0025-document_history.md#90-04-25-a185)
+<img width="457" height="377" alt="90-04-25-a185" src="https://github.com/user-attachments/assets/574582f8-5cd5-4de3-86e0-4aadfd951d17" />
+
+<a id="90-04-25-a185-01"></a>
+
+#### [영상 90.4.25.a185.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `파일 관리자에서 표시` (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a185-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/24fd8973-66aa-440f-bb62-d10943fbe1ad"></video>
 
 ***
 
