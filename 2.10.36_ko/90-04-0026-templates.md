@@ -12,6 +12,8 @@
 #### 그림 90.4.26.a101. 양식 대화상자 (Windows) (우리말)
 <img width="200" height="181" alt="90-04-26-a101" src="https://github.com/user-attachments/assets/049f9030-20d7-41d7-bc85-9184fcd86490" />
 
+[15.4.4.2. 양식 대화상자 사용하기(Using the Templates dialog) - 그림 90.4.26.a101](./15-04-04-02-00-using_the_templates_dialog.md#90-04-26-a101)
+
 <a id="90-04-26-a102"></a>
 
 #### 그림 90.4.26.a102. 양식 대화상자 (Windows) (영어)
