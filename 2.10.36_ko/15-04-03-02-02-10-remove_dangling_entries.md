@@ -1,4 +1,25 @@
 # 15.4.3.2.2.10. 원본 없는 항목 제거(Remove dangling entries)
+[15.4.3.2.1.4. 미리 보기 다시 만들기(Recreate Preview) - 3. 찾을 수 없는 이미지 삭제](./15-04-03-02-01-04-recreate_preview.md#15-04-03-02-01-04-s3)을 참고해주세요.
+
+<a id="90-04-25-a150"></a>
+
+#### [그림 90.4.25.a150. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `원본 없는 항목 제거` (Windows)](./90-04-0025-document_history.md#90-04-25-a150)
+<img width="845" height="418" alt="90-04-25-a150" src="https://github.com/user-attachments/assets/0e903ac4-14e9-4e63-8ad4-29e7996c3f44" />
+
+<a id="90-04-25-a150-01"></a>
+
+#### [영상 90.4.25.a150.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `원본 없는 항목 제거` (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a150-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/944606c9-f8ab-414b-ae14-4509ef1ff618"></video>
+
+<a id="90-04-25-a190"></a>
+
+#### [그림 90.4.25.a190. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `원본 없는 항목 제거` (Windows)](./90-04-0025-document_history.md#90-04-25-a190)
+<img width="457" height="377" alt="90-04-25-a190" src="https://github.com/user-attachments/assets/22c466a4-1780-4f74-8b42-22dc45151e2c" />
+
+<a id="90-04-25-a190-01"></a>
+
+#### [영상 90.4.25.a190.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `원본 없는 항목 제거` (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a190-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a3ebe275-8441-488a-a61f-0ee3e072c21e"></video>
 
 ***
 

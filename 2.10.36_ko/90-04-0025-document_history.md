@@ -288,6 +288,20 @@
 
 [15.4.3.2.2.9. 모든 미리 보기 다시 불러오기(Reload all previews) - 영상 90.4.25.a149.1](./15-04-03-02-02-09-reload_all_previews.md#90-04-25-a149-01)
 
+<a id="90-04-25-a150"></a>
+
+#### 그림 90.4.25.a150. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `원본 없는 항목 제거` (Windows)
+<img width="845" height="418" alt="90-04-25-a150" src="https://github.com/user-attachments/assets/0e903ac4-14e9-4e63-8ad4-29e7996c3f44" />
+
+[15.4.3.2.2.10. 원본 없는 항목 제거(Remove dangling entries) - 그림 90.4.25.a150](./15-04-03-02-02-10-remove_dangling_entries.md#90-04-25-a150)
+
+<a id="90-04-25-a150-01"></a>
+
+#### 영상 90.4.25.a150.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `원본 없는 항목 제거` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/944606c9-f8ab-414b-ae14-4509ef1ff618"></video>
+
+[15.4.3.2.2.10. 원본 없는 항목 제거(Remove dangling entries) - 영상 90.4.25.a150.1](./15-04-03-02-02-10-remove_dangling_entries.md#90-04-25-a150-01)
+
 <a id="90-04-25-a171"></a>
 
 #### 그림 90.4.25.a171. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` (Windows)
@@ -428,6 +442,20 @@
 <img width="457" height="377" alt="90-04-25-a189" src="https://github.com/user-attachments/assets/8760687b-04ac-453f-bc70-65e4e842347c" />
 
 [15.4.3.2.2.9. 모든 미리 보기 다시 불러오기(Reload all previews) - 그림 90.4.25.a189](./15-04-03-02-02-09-reload_all_previews.md#90-04-25-a189)
+
+<a id="90-04-25-a190"></a>
+
+#### 그림 90.4.25.a190. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `원본 없는 항목 제거` (Windows)
+<img width="457" height="377" alt="90-04-25-a190" src="https://github.com/user-attachments/assets/22c466a4-1780-4f74-8b42-22dc45151e2c" />
+
+[15.4.3.2.2.10. 원본 없는 항목 제거(Remove dangling entries) - 그림 90.4.25.a190](./15-04-03-02-02-10-remove_dangling_entries.md#90-04-25-a190)
+
+<a id="90-04-25-a190-01"></a>
+
+#### 영상 90.4.25.a190.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `원본 없는 항목 제거` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a3ebe275-8441-488a-a61f-0ee3e072c21e"></video>
+
+[15.4.3.2.2.10. 원본 없는 항목 제거(Remove dangling entries) - 영상 90.4.25.a190.1](./15-04-03-02-02-10-remove_dangling_entries.md#90-04-25-a190-01)
 
 ***
 
