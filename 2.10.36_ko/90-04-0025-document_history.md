@@ -190,6 +190,20 @@
 
 [15.4.3.2.2.2. 이미지 올리거나 열기(Raise or Open Image) - 영상 90.4.25.a142.2](./15-04-03-02-02-02-raise_or_open_image.md#90-04-25-a142-02)
 
+<a id="90-04-25-a143"></a>
+
+#### 그림 90.4.25.a143. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `파일 열기 대화상자` (Windows)
+<img width="845" height="418" alt="90-04-25-a143" src="https://github.com/user-attachments/assets/387d0bb5-86e0-4a18-8db8-a0b8cfdaba34" />
+
+[15.4.3.2.2.3. 파일 열기 대화상자(File Open Dialog) - 그림 90.4.25.a143](./15-04-03-02-02-03-file_open_dialog.md#90-04-25-a143)
+
+<a id="90-04-25-a143-01"></a>
+
+#### 영상 90.4.25.a143.1. 문서 이력 대화상자: 단일창 → `탭 메뉴` → `문서 메뉴` → `파일 열기 대화상자` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/13cc3433-cdb9-440e-aff8-500b01c23799"></video>
+
+[15.4.3.2.2.3. 파일 열기 대화상자(File Open Dialog) - 영상 90.4.25.a143.1](./15-04-03-02-02-03-file_open_dialog.md#90-04-25-a143-01)
+
 <a id="90-04-25-a171"></a>
 
 #### 그림 90.4.25.a171. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` (Windows)
@@ -239,6 +253,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/91ce751a-283a-457b-a6b4-5e4f16ed1c5d"></video>
 
 [15.4.3.2.2.2. 이미지 올리거나 열기(Raise or Open Image) - 영상 90.4.25.a182.2](./15-04-03-02-02-02-raise_or_open_image.md#90-04-25-a182-02)
+
+<a id="90-04-25-a183"></a>
+
+#### 그림 90.4.25.a183. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `파일 열기 대화상자` (Windows)
+<img width="457" height="377" alt="90-04-25-a183" src="https://github.com/user-attachments/assets/5523a9fb-2be5-4dc8-993b-e05a31c3e001" />
+
+[15.4.3.2.2.3. 파일 열기 대화상자(File Open Dialog) - 그림 90.4.25.a183](./15-04-03-02-02-03-file_open_dialog.md#90-04-25-a183)
+
+<a id="90-04-25-a183-01"></a>
+
+#### 영상 90.4.25.a183.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `파일 열기 대화상자` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/8d006a81-9ecd-404e-afc0-c50384177170"></video>
+
+[15.4.3.2.2.3. 파일 열기 대화상자(File Open Dialog) - 영상 90.4.25.a183.1](./15-04-03-02-02-03-file_open_dialog.md#90-04-25-a183-01)
 
 ***
 
