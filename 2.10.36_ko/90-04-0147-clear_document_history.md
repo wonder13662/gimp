@@ -15,7 +15,7 @@
 <a id="90-04-147-a103"></a>
 
 #### 그림 90.4.147.a103. `문서 이력 지우기` 대화상자 (Mac) (우리말)
-<img width="394" height="164" alt="90-04-147-a103" src="https://github.com/user-attachments/assets/141fd818-def0-4cc4-8cb8-4824edef8ff1" />
+<img width="349" height="164" alt="90-04-147-a103" src="https://github.com/user-attachments/assets/141fd818-def0-4cc4-8cb8-4824edef8ff1" />
 
 <a id="90-04-147-a104"></a>
 
