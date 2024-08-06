@@ -246,6 +246,20 @@
 
 [15.4.3.2.2.6. 항목 제거(Remove entry) - 영상 90.4.25.a146.1](./15-04-03-02-02-06-remove_entry.md#90-04-25-a146-01)
 
+<a id="90-04-25-a147"></a>
+
+#### 그림 90.4.25.a147. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `기록 지우기` (Windows)
+<img width="845" height="418" alt="90-04-25-a147" src="https://github.com/user-attachments/assets/20b0a216-f331-4a04-9d26-47b269c77064" />
+
+[15.4.3.2.2.7. 기록 지우기(Clear History) - 그림 90.4.25.a147](./15-04-03-02-02-07-clear_history.md#90-04-25-a147)
+
+<a id="90-04-25-a147-01"></a>
+
+#### 영상 90.4.25.a147.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `기록 지우기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/956f090d-c991-41b8-89c7-19cb0763bf5a"></video>
+
+[15.4.3.2.2.7. 기록 지우기(Clear History) - 영상 90.4.25.a147.1](./15-04-03-02-02-07-clear_history.md#90-04-25-a147-01)
+
 <a id="90-04-25-a171"></a>
 
 #### 그림 90.4.25.a171. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` (Windows)
@@ -351,6 +365,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/4e7d2edd-2326-4d98-bfeb-a9b87782f7f5"></video>
 
 [15.4.3.2.2.6. 항목 제거(Remove entry) - 영상 90.4.25.a186.1](./15-04-03-02-02-06-remove_entry.md#90-04-25-a186-01)
+
+<a id="90-04-25-a187"></a>
+
+#### 그림 90.4.25.a187. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `기록 지우기` (Windows)
+<img width="457" height="377" alt="90-04-25-a187" src="https://github.com/user-attachments/assets/be3c3b0d-49ad-44f5-b23d-651ba0f6814a" />
+
+[15.4.3.2.2.7. 기록 지우기(Clear History) - 그림 90.4.25.a187](./15-04-03-02-02-07-clear_history.md#90-04-25-a187)
+
+<a id="90-04-25-a187-01"></a>
+
+#### 영상 90.4.25.a187.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `기록 지우기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e80c9d3e-b62d-47e9-9a41-143093e6aa48"></video>
+
+[15.4.3.2.2.7. 기록 지우기(Clear History) - 영상 90.4.25.a187.1](./15-04-03-02-02-07-clear_history.md#90-04-25-a187-01)
 
 ***
 
