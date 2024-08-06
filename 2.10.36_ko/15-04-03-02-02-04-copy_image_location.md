@@ -1,4 +1,25 @@
 # 15.4.3.2.2.4. 이미지 위치 복사(Copy Image Location)
+`이미지 위치 복사(Copy Image Location)` 메뉴를 누르면, 선택한 이미지의 경로가 클립보드에 저장됩니다.
+
+<a id="90-04-25-a144"></a>
+
+#### [그림 90.4.25.a144. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `이미지 위치 복사` (Windows)](./90-04-0025-document_history.md#90-04-25-a144)
+<img width="845" height="418" alt="90-04-25-a144" src="https://github.com/user-attachments/assets/d6dc45f8-1fe2-4d8f-983c-580c96850b7c" />
+
+<a id="90-04-25-a144-01"></a>
+
+#### [영상 90.4.25.a144.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `이미지 위치 복사` (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a144-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/07948442-b8bb-4c7b-a4f6-63f94e1d9048"></video>
+
+<a id="90-04-25-a184"></a>
+
+#### [그림 90.4.25.a184. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `이미지 위치 복사` (Windows)](./90-04-0025-document_history.md#90-04-25-a184)
+<img width="457" height="377" alt="90-04-25-a184" src="https://github.com/user-attachments/assets/fcd383e7-f217-4c48-b861-880d176a246c" />
+
+<a id="90-04-25-a184-01"></a>
+
+#### [영상 90.4.25.a184.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `이미지 위치 복사` (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a184-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/53c487fc-b45e-4c15-b031-fb47924b5dde"></video>
 
 ***
 

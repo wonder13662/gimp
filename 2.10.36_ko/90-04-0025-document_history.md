@@ -204,6 +204,20 @@
 
 [15.4.3.2.2.3. 파일 열기 대화상자(File Open Dialog) - 영상 90.4.25.a143.1](./15-04-03-02-02-03-file_open_dialog.md#90-04-25-a143-01)
 
+<a id="90-04-25-a144"></a>
+
+#### 그림 90.4.25.a144. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `이미지 위치 복사` (Windows)
+<img width="845" height="418" alt="90-04-25-a144" src="https://github.com/user-attachments/assets/d6dc45f8-1fe2-4d8f-983c-580c96850b7c" />
+
+[15.4.3.2.2.4. 이미지 위치 복사(Copy Image Location) - 그림 90.4.25.a144](./15-04-03-02-02-04-copy_image_location.md#90-04-25-a144)
+
+<a id="90-04-25-a144-01"></a>
+
+#### 영상 90.4.25.a144.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `이미지 위치 복사` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/07948442-b8bb-4c7b-a4f6-63f94e1d9048"></video>
+
+[15.4.3.2.2.4. 이미지 위치 복사(Copy Image Location) - 영상 90.4.25.a144.1](./15-04-03-02-02-04-copy_image_location.md#90-04-25-a144-01)
+
 <a id="90-04-25-a171"></a>
 
 #### 그림 90.4.25.a171. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` (Windows)
@@ -267,6 +281,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/8d006a81-9ecd-404e-afc0-c50384177170"></video>
 
 [15.4.3.2.2.3. 파일 열기 대화상자(File Open Dialog) - 영상 90.4.25.a183.1](./15-04-03-02-02-03-file_open_dialog.md#90-04-25-a183-01)
+
+<a id="90-04-25-a184"></a>
+
+#### 그림 90.4.25.a184. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `이미지 위치 복사` (Windows)
+<img width="457" height="377" alt="90-04-25-a184" src="https://github.com/user-attachments/assets/fcd383e7-f217-4c48-b861-880d176a246c" />
+
+[15.4.3.2.2.4. 이미지 위치 복사(Copy Image Location) - 그림 90.4.25.a184](./15-04-03-02-02-04-copy_image_location.md#90-04-25-a184)
+
+<a id="90-04-25-a184-01"></a>
+
+#### 영상 90.4.25.a184.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `이미지 위치 복사` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/53c487fc-b45e-4c15-b031-fb47924b5dde"></video>
+
+[15.4.3.2.2.4. 이미지 위치 복사(Copy Image Location) - 영상 90.4.25.a184.1](./15-04-03-02-02-04-copy_image_location.md#90-04-25-a184-01)
 
 ***
 
