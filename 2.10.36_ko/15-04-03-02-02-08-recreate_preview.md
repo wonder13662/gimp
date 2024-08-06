@@ -1,4 +1,25 @@
 # 15.4.3.2.2.8. 미리 보기 다시 만들기(Recreate Preview)
+[15.4.3.2.1.4. 미리 보기 다시 만들기(Recreate Preview) - 1. 이미지의 미리보기를 업데이트](./15-04-03-02-01-04-recreate_preview.md#15-04-03-02-01-04-s1)을 참고해주세요.
+
+<a id="90-04-25-a148"></a>
+
+#### [그림 90.4.25.a148. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `미리 보기 다시 만들기` (Windows)](./90-04-0025-document_history.md#90-04-25-a148)
+<img width="845" height="418" alt="90-04-25-a148" src="https://github.com/user-attachments/assets/81fb3a28-6911-47e2-b676-db9fc46b04d0" />
+
+<a id="90-04-25-a148-01"></a>
+
+#### [영상 90.4.25.a148.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `미리 보기 다시 만들기` (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a148-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/8068574a-244d-45c7-82db-9e63a6abca70"></video>
+
+<a id="90-04-25-a188"></a>
+
+#### [그림 90.4.25.a188. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `미리 보기 다시 만들기` (Windows)](./90-04-0025-document_history.md#90-04-25-a188)
+<img width="457" height="377" alt="90-04-25-a188" src="https://github.com/user-attachments/assets/7802cafa-33bd-45c6-9c2d-c84c7ff44666" />
+
+<a id="90-04-25-a188-01"></a>
+
+#### [영상 90.4.25.a188.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `미리 보기 다시 만들기` (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a188-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/caf4097b-a1dd-4a90-9a26-b6b301c6e5c2"></video>
 
 ***
 
