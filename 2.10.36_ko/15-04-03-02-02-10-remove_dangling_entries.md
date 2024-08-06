@@ -25,7 +25,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.4.4. 양식 대화상자(Templates dialog)](./15-04-04-templates-dialog.md)
+[➡️ 다음: 15.4.4. 양식 대화상자(Templates dialog)](./15-04-04-00-templates-dialog.md)
 
 [⬅️ 이전: 15.4.3.2.2.9. 모든 미리 보기 다시 불러오기(Reload all previews)](./15-04-03-02-02-09-reload_all_previews.md)
 

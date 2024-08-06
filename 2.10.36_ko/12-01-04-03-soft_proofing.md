@@ -35,7 +35,7 @@
 #### [그림 90.2.2.a14.3. `기본설정` → `색상관리` → `색상 교정` → `색상 교정 최적화 대상` (Windows) (우리말)](./90-02-02-color-management.md#90-02-02-a14-03)
 ![90-02-02-a14-03](https://github.com/wonder13662/gimp/assets/15767104/b0f3614e-4a0f-49a2-a515-b6c27b5cb012)
 
-`속도(Speed)`와 `정확도/색상 정확성(Precision/Color fidelity)`를 선택할 수 있습니다. `속도(Speed)`가 기본값입니다. `정확도/색상 정확성(Precision/Color fidelity)`를 선택하면, 색상 교정이 더 나아지고 속도가 떨어지게 됩니다.
+`속도(Speed)`와 `정밀도/색상 정확성(Precision/Color fidelity)`를 선택할 수 있습니다. `속도(Speed)`가 기본값입니다. `정밀도/색상 정확성(Precision/Color fidelity)`를 선택하면, 색상 교정이 더 나아지고 속도가 떨어지게 됩니다.
 
 ## 5. 색의 영역을 벗어난 색상 표시(Mark out of gamut colors)
 

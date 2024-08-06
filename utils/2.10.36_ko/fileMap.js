@@ -1195,7 +1195,7 @@ module.exports = {
         '15.4.3. 문서 이력 대화상자'
       ],
       [
-        '15-04-04-templates-dialog.md', 
+        '15-04-04-00-templates-dialog.md', 
         '15.4.4. 양식 대화상자(Templates dialog)'
       ],
       [

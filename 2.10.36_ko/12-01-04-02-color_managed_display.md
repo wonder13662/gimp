@@ -66,7 +66,7 @@
 #### [그림 90.2.2.a13.3. `기본설정` → `색상관리` → `색상 관리 디스플레이` → `이미지 표시 최적화 대상` (Windows)](./90-02-02-color-management.md#90-02-02-a13-03)
 ![90-02-02-a13-02-optimize_image_display_for](https://github.com/wonder13662/gimp/assets/15767104/bb9643d2-bad0-4433-a234-e879f4754124)
 
-`속도(Speed)`와 `정확도/색상 정확성(Precision/Color fidelity)`를 선택할 수 있습니다. `속도(Speed)`가 기본값입니다. `정확도/색상 정확성(Precision/Color fidelity)`를 선택하면, 이미지 표시가 더 나아지고 속도가 떨어지게 됩니다.
+`속도(Speed)`와 `정밀도/색상 정확성(Precision/Color fidelity)`를 선택할 수 있습니다. `속도(Speed)`가 기본값입니다. `정밀도/색상 정확성(Precision/Color fidelity)`를 선택하면, 이미지 표시가 더 나아지고 속도가 떨어지게 됩니다.
 
 ***
 
