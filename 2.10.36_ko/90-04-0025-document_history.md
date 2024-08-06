@@ -232,6 +232,20 @@
 
 [15.4.3.2.2.5. 파일 관리자에서 표시(Show in File Manager) - 영상 90.4.25.a145.1](./15-04-03-02-02-05-show_in_file_manager.md#90-04-25-a145-01)
 
+<a id="90-04-25-a146"></a>
+
+#### 그림 90.4.25.a146. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `항목 제거` (Windows)
+<img width="845" height="418" alt="90-04-25-a146" src="https://github.com/user-attachments/assets/884d7e76-6d80-44e9-8d69-7d8ac0b4d253" />
+
+[15.4.3.2.2.6. 항목 제거(Remove entry) - 그림 90.4.25.a146](./15-04-03-02-02-06-remove_entry.md#90-04-25-a146)
+
+<a id="90-04-25-a146-01"></a>
+
+#### 영상 90.4.25.a146.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `항목 제거` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/5195ca5d-faea-419b-8e2f-1b5274ec6e94"></video>
+
+[15.4.3.2.2.6. 항목 제거(Remove entry) - 영상 90.4.25.a146.1](./15-04-03-02-02-06-remove_entry.md#90-04-25-a146-01)
+
 <a id="90-04-25-a171"></a>
 
 #### 그림 90.4.25.a171. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` (Windows)
@@ -323,6 +337,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/24fd8973-66aa-440f-bb62-d10943fbe1ad"></video>
 
 [15.4.3.2.2.5. 파일 관리자에서 표시(Show in File Manager) - 영상 90.4.25.a185.1](./15-04-03-02-02-05-show_in_file_manager.md#90-04-25-a185-01)
+
+<a id="90-04-25-a186"></a>
+
+#### 그림 90.4.25.a186. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `항목 제거` (Windows)
+<img width="457" height="377" alt="90-04-25-a186" src="https://github.com/user-attachments/assets/33c0d2a9-cb99-445a-80ec-6d4655597df4" />
+
+[15.4.3.2.2.6. 항목 제거(Remove entry) - 그림 90.4.25.a186](./15-04-03-02-02-06-remove_entry.md#90-04-25-a186)
+
+<a id="90-04-25-a186-01"></a>
+
+#### 영상 90.4.25.a186.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `항목 제거` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/4e7d2edd-2326-4d98-bfeb-a9b87782f7f5"></video>
+
+[15.4.3.2.2.6. 항목 제거(Remove entry) - 영상 90.4.25.a186.1](./15-04-03-02-02-06-remove_entry.md#90-04-25-a186-01)
 
 ***
 
