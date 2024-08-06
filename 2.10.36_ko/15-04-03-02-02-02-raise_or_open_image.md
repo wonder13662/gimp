@@ -13,7 +13,7 @@
 
 <a id="90-04-25-a142-02"></a>
 
-#### [영상 90.4.25.a142.2. 문서 이력 대화상자: 다중창 → `탭 메뉴` → `문서 메뉴` → `이미지 올리거나 열기` (Windows) (우리말)]()
+#### [영상 90.4.25.a142.2. 문서 이력 대화상자: 다중창 → `탭 메뉴` → `문서 메뉴` → `이미지 올리거나 열기` (Windows) (우리말)](./90-04-0025-document_history.md#90-04-25-a142-02)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/0abb8fe0-b5be-4804-be47-ec054fe635f5"></video>
 
 <a id="90-04-25-a182"></a>

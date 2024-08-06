@@ -7,6 +7,8 @@
 
 [12.1.2.4. 문서 이력(Document History) - 그림 90.4.25.a1](./12-01-02-04-document_history.md#90-04-25-a1)
 
+[15.4.3. 문서 이력 대화상자(Document history dialog) - 그림 90.4.25.a1](./15-04-03-00-document-history-dialog.md#90-04-25-a1)
+
 <a id="90-04-25-a101"></a>
 
 #### 그림 90.4.25.a101. 문서 이력 대화상자 (Windows) (우리말)
