@@ -10,14 +10,14 @@
 #### [영상 90.4.25.a131.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` (Windows)](./90-04-0025-document_history.md#90-04-25-a131-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/53b9cb0e-3501-4fc4-8e43-9663ffebcc05"></video>
 
-<a id="90-04-25-a141"></a>
+<a id="90-04-25-a171"></a>
 
-#### [그림 90.4.25.a141. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` (Windows)](./90-04-0025-document_history.md#90-04-25-a141)
-<img width="457" height="377" alt="90-04-25-a141" src="https://github.com/user-attachments/assets/c905805a-186a-4b81-b5a5-14e3d3375e4d" />
+#### [그림 90.4.25.a171. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` (Windows)](./90-04-0025-document_history.md#90-04-25-a171)
+<img width="457" height="377" alt="90-04-25-a171" src="https://github.com/user-attachments/assets/c905805a-186a-4b81-b5a5-14e3d3375e4d" />
 
-<a id="90-04-25-a141-01"></a>
+<a id="90-04-25-a171-01"></a>
 
-#### [영상 90.4.25.a141.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` (Windows)](./90-04-0025-document_history.md#90-04-25-a141-01)
+#### [영상 90.4.25.a171.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` (Windows)](./90-04-0025-document_history.md#90-04-25-a171-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d85df6b5-a6ac-41ed-a0e3-aa48a26f2561"></video>
 
 `문서 이력 컨텍스트 메뉴(Document History Context Menu)`는 `문서 이력` 대화상자의 탭 메뉴의 문서 메뉴를 열어 들어갈 수 있습니다.
