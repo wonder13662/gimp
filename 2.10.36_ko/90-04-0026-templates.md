@@ -14,6 +14,10 @@
 
 [15.4.4.2. 양식 대화상자 사용하기(Using the Templates dialog) - 그림 90.4.26.a101](./15-04-04-02-00-using_the_templates_dialog.md#90-04-26-a101)
 
+[15.4.4.2.1. 격자/목록 모드(Grid/List mode) - 그림 90.4.26.a101](./15-04-04-02-01-00-grid_n_list_mode.md#90-04-26-a101)
+
+[15.4.4.2.1.2. 목록 모드(List mode) - 그림 90.4.26.a101](./15-04-04-02-01-02-list_mode.md#90-04-26-a101)
+
 <a id="90-04-26-a102"></a>
 
 #### 그림 90.4.26.a102. 양식 대화상자 (Windows) (영어)
@@ -28,6 +32,29 @@
 
 #### 그림 90.4.26.a104. 양식 대화상자 (Mac) (영어)
 <img width="200" height="161" alt="90-04-26-a104" src="https://github.com/user-attachments/assets/138c27ee-0dce-422d-b61a-40b1e2374e7e" />
+
+<a id="90-04-26-a111"></a>
+
+#### 그림 90.4.26.a111. 양식 대화상자: 격자 모드 (Windows) (우리말)
+<img width="200" height="181" alt="90-04-26-a111" src="https://github.com/user-attachments/assets/6c4c5ca6-96c3-46c3-b307-aea285048a3b" />
+
+[15.4.4.2.1. 격자/목록 모드(Grid/List mode) - 그림 90.4.26.a111](./15-04-04-02-01-00-grid_n_list_mode.md#90-04-26-a111)
+
+[15.4.4.2.1.1. 격자 모드(Grid mode) - 그림 90.4.26.a111](./15-04-04-02-01-01-grid_mode.md#90-04-26-a111)
+
+<a id="90-04-26-a111-01"></a>
+
+#### 영상 90.4.26.a111.1. 양식 대화상자: 격자 모드 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/bec744d0-f92e-4fcc-a718-918d677be37e"></video>
+
+[15.4.4.2.1.1. 격자 모드(Grid mode) - 영상 90.4.26.a111.1](./15-04-04-02-01-01-grid_mode.md#90-04-26-a111-01)
+
+<a id="90-04-26-a112-01"></a>
+
+#### 영상 90.4.26.a112.1. 양식 대화상자: 목록 모드 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/9ca23e1d-8bc1-433a-87c6-20df4fc17a48"></video>
+
+[15.4.4.2.1.2. 목록 모드(List mode) - 영상 90.4.26.a112.1](./15-04-04-02-01-02-list_mode.md#90-04-26-a112-01)
 
 ***
 
