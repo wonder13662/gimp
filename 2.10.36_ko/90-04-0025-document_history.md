@@ -274,6 +274,20 @@
 
 [15.4.3.2.2.8. 미리 보기 다시 만들기(Recreate Preview) - 영상 90.4.25.a148.1](./15-04-03-02-02-08-recreate_preview.md#90-04-25-a148-01)
 
+<a id="90-04-25-a149"></a>
+
+#### 그림 90.4.25.a149. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `모든 미리 보기 다시 불러오기` (Windows)
+<img width="845" height="418" alt="90-04-25-a149" src="https://github.com/user-attachments/assets/de5a8d65-dbfe-4393-9a13-4604c7052996" />
+
+[15.4.3.2.2.9. 모든 미리 보기 다시 불러오기(Reload all previews) - 그림 90.4.25.a149](./15-04-03-02-02-09-reload_all_previews.md#90-04-25-a149)
+
+<a id="90-04-25-a149-01"></a>
+
+#### 영상 90.4.25.a149.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `모든 미리 보기 다시 불러오기`: 작동하지 않음 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e99d0f40-03df-4600-a9d1-74365d19926f"></video>
+
+[15.4.3.2.2.9. 모든 미리 보기 다시 불러오기(Reload all previews) - 영상 90.4.25.a149.1](./15-04-03-02-02-09-reload_all_previews.md#90-04-25-a149-01)
+
 <a id="90-04-25-a171"></a>
 
 #### 그림 90.4.25.a171. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` (Windows)
@@ -407,6 +421,13 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/caf4097b-a1dd-4a90-9a26-b6b301c6e5c2"></video>
 
 [15.4.3.2.2.8. 미리 보기 다시 만들기(Recreate Preview) - 영상 90.4.25.a188.1](./15-04-03-02-02-08-recreate_preview.md#90-04-25-a188-01)
+
+<a id="90-04-25-a189"></a>
+
+#### 그림 90.4.25.a189. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `모든 미리 보기 다시 불러오기` (Windows)
+<img width="457" height="377" alt="90-04-25-a189" src="https://github.com/user-attachments/assets/8760687b-04ac-453f-bc70-65e4e842347c" />
+
+[15.4.3.2.2.9. 모든 미리 보기 다시 불러오기(Reload all previews) - 그림 90.4.25.a189](./15-04-03-02-02-09-reload_all_previews.md#90-04-25-a189)
 
 ***
 
