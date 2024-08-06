@@ -1,7 +1,31 @@
 # 90.4.26. 양식(Templates)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
+
+<a id="90-04-26-a1"></a>
+
 #### 그림 90.4.26.a1. 양식 대화상자
-<img width="1080" alt="그림 90.4.26.a1. 양식 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/890096e6-8ff5-4767-a3fe-636c78cab87d">
+<img width="850" height="285" alt="90-04-26-a1" src="https://github.com/user-attachments/assets/4161c0cd-13ad-4c5e-9e72-ad0da287e16f" />
+
+[15.4.4. 양식 대화상자(Templates dialog) - 그림 90.4.26.a1](./15-04-04-00-templates-dialog.md#90-04-26-a1)
+
+<a id="90-04-26-a101"></a>
+
+#### 그림 90.4.26.a101. 양식 대화상자 (Windows) (우리말)
+<img width="200" height="181" alt="90-04-26-a101" src="https://github.com/user-attachments/assets/049f9030-20d7-41d7-bc85-9184fcd86490" />
+
+<a id="90-04-26-a102"></a>
+
+#### 그림 90.4.26.a102. 양식 대화상자 (Windows) (영어)
+<img width="200" height="181" alt="90-04-26-a102" src="https://github.com/user-attachments/assets/40ce43e6-c39e-448c-9ff9-2ebc203c5306" />
+
+<a id="90-04-26-a103"></a>
+
+#### 그림 90.4.26.a103. 양식 대화상자 (Mac) (우리말)
+<img width="200" height="161" alt="90-04-26-a103" src="https://github.com/user-attachments/assets/ba7f9663-c7cb-4a98-a33e-2a9f8fd990d6" />
+
+<a id="90-04-26-a104"></a>
+
+#### 그림 90.4.26.a104. 양식 대화상자 (Mac) (영어)
+<img width="200" height="161" alt="90-04-26-a104" src="https://github.com/user-attachments/assets/138c27ee-0dce-422d-b61a-40b1e2374e7e" />
 
 ***
 

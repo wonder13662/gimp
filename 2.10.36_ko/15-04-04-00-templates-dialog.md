@@ -1,5 +1,20 @@
 # 15.4.4. 양식 대화상자(Templates dialog)
 
+<a id="90-04-26-a1"></a>
+
+#### [그림 90.4.26.a1. 양식 대화상자](./90-04-0026-templates.md#90-04-26-a1)
+<img width="850" height="285" alt="90-04-26-a1" src="https://github.com/user-attachments/assets/4161c0cd-13ad-4c5e-9e72-ad0da287e16f" />
+
+`양식(Template)`은 미리 정의된 이미지 설정입니다.
+
+`양식(Template)`을 사용해서 원하는 크기, 해상도 등을 가지는 이미지를 빠르게 만들 수 있습니다.
+
+GIMP(김프)는 많은 `양식(Template)`을 가지고 있지만, 사용자가 직접 `양식(Template)`을 만들 수도 있습니다.
+
+사용자가 새 이미지를 만들 때, 등록된 `양식(Template)` 가운데 하나를 선택할 수 있습니다.
+
+`양식 대화상자(Templates dialog)`는 `양식(Template)`을 제어할 수 있도록 해줍니다.
+
 ***
 
 ## 하위 페이지
