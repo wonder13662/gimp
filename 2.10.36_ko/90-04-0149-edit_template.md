@@ -127,7 +127,7 @@
 <a id="90-04-149-a143"></a>
 
 #### 그림 90.4.149.a143. `양식 편집` 대화상자 → `고급 옵션` → `정밀도` (Windows) (우리말)
-<img width="479" height="684" alt="" src="https://github.com/user-attachments/assets/193f31db-a71d-4238-a5c9-caf713fb020d" />
+<img width="479" height="684" alt="90-04-149-a143" src="https://github.com/user-attachments/assets/193f31db-a71d-4238-a5c9-caf713fb020d" />
 
 [15.4.4.2.4.2.3. 정밀도(Precision) - 그림 90.4.149.a143](./15-04-04-02-04-02-03-precision.md#90-04-149-a143)
 
@@ -137,6 +137,20 @@
 <img width="328" height="253" alt="90-04-149-a143-01" src="https://github.com/user-attachments/assets/d3a8beb3-ed0a-4efa-8a68-d040cef777e4" />
 
 [15.4.4.2.4.2.3. 정밀도(Precision) - 그림 90.4.149.a143.1](./15-04-04-02-04-02-03-precision.md#90-04-149-a143-01)
+
+<a id="90-04-149-a144"></a>
+
+#### 그림 90.4.149.a144. `양식 편집` 대화상자 → `고급 옵션` → `감마` (Windows) (우리말)
+<img width="479" height="684" alt="90-04-149-a144" src="https://github.com/user-attachments/assets/0f71730a-cba4-4587-a929-c5116cd54b99" />
+
+[15.4.4.2.4.2.4. 감마(Gamma) - 그림 90.4.149.a144](./15-04-04-02-04-02-04-gamma.md#90-04-149-a144)
+
+<a id="90-04-149-a144-01"></a>
+
+#### 그림 90.4.149.a144.1. `양식 편집` 대화상자 → `고급 옵션` → `감마`: 드롭다운 목록 (Windows) (우리말)
+<img width="406" height="178" alt="90-04-149-a144-01" src="https://github.com/user-attachments/assets/c3012574-4c89-4f0d-90bc-04d5aeea1a32" />
+
+[15.4.4.2.4.2.4. 감마(Gamma) - 그림 90.4.149.a144.1](./15-04-04-02-04-02-04-gamma.md#90-04-149-a144-01)
 
 ***
 
