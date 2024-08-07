@@ -2848,7 +2848,7 @@
 
 [16.5.3. Show all](./16-05-03-show-all.md)
 
-[16.5.4. Dot for dot](./16-05-04-dot-for-dot.md)
+[16.5.4. 점대점(Dot for dot)](./16-05-04-dot-for-dot.md)
 
 [16.5.5. Zoom](./16-05-05-zoom.md)
 

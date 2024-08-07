@@ -3,7 +3,7 @@
 ## [16.5.1. Introduction to the "View" menu](./16-05-01-introduction-to-the-view-menu.md)
 ## [16.5.2. New view](./16-05-02-new-view.md)
 ## [16.5.3. Show all](./16-05-03-show-all.md)
-## [16.5.4. Dot for dot](./16-05-04-dot-for-dot.md)
+## [16.5.4. 점대점(Dot for dot)](./16-05-04-dot-for-dot.md)
 ## [16.5.5. Zoom](./16-05-05-zoom.md)
 ## [16.5.6. Flip & Rotate (0°)](./16-05-06-flip-rotate.md)
 ## [16.5.7. Center image in window](./16-05-07-center-image-in-window.md)

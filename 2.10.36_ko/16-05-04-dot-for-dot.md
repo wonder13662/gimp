@@ -1,4 +1,4 @@
-# 16.5.4. Dot for dot
+# 16.5.4. 점대점(Dot for dot)
 
 ### [Home](./00-home.md)
 ### [Parent: 16.5. The view menu](./16-05-00-the-view-menu.md)

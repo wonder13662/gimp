@@ -1561,7 +1561,7 @@ module.exports = {
       ],
       [
         '16-05-04-dot-for-dot.md', 
-        '16.5.4. Dot for dot',
+        '16.5.4. 점대점(Dot for dot)',
         '16.5.4. 점 대 점'
       ],
       [
