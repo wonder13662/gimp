@@ -5,6 +5,8 @@
 #### 그림 90.4.148.a101. `새 양식` 대화상자 (Windows) (우리말)
 <img width="293" height="362" alt="90-04-148-a101" src="https://github.com/user-attachments/assets/0fc5ba32-4578-4e26-abee-c5bcf6173185" />
 
+[15.4.4.2.2.2. 새 양식(Create a new template) - 그림 90.4.148.a101](./15-04-04-02-02-02-create_a_new_template.md#90-04-148-a101)
+
 <a id="90-04-148-a102"></a>
 
 #### 그림 90.4.148.a102. `새 양식` 대화상자 (Windows) (영어)

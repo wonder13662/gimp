@@ -98,6 +98,13 @@
 
 [15.4.4.2.2.3. 양식 복제(Duplicate the selected template) - 그림 90.4.26.a133](./15-04-04-02-02-03-duplicate_the_selected_template.md#90-04-26-a133)
 
+<a id="90-04-26-a133-01"></a>
+
+#### 영상 90.4.26.a133.1. 양식 대화상자 → 아래쪽 버튼들 → `양식 복제` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/1af05ab1-d246-4f26-b0d7-883a0e38d4fe"></video>
+
+[15.4.4.2.2.3. 양식 복제(Duplicate the selected template) - 영상 90.4.26.a133.1](./15-04-04-02-02-03-duplicate_the_selected_template.md#90-04-26-a133-01)
+
 <a id="90-04-26-a134"></a>
 
 #### 그림 90.4.26.a134. 양식 대화상자 → 아래쪽 버튼들 → `양식 편집` (Windows) (우리말)

@@ -5,6 +5,8 @@
 #### 그림 90.4.149.a101. `양식 편집` 대화상자 (Windows) (우리말)
 <img width="293" height="362" alt="90-04-149-a101" src="https://github.com/user-attachments/assets/917cd0b7-b968-4c13-a6d0-9f51c166e3b2" />
 
+[15.4.4.2.2.3. 양식 복제(Duplicate the selected template) - 그림 90.4.149.a101](./15-04-04-02-02-03-duplicate_the_selected_template.md#90-04-149-a101)
+
 <a id="90-04-149-a102"></a>
 
 #### 그림 90.4.149.a102. `양식 편집` 대화상자 (Windows) (영어)
