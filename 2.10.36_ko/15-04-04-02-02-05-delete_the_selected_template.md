@@ -1,5 +1,10 @@
 # 15.4.4.2.2.5. 양식 삭제(Delete the selected template)
 
+<a id="90-04-26-a135"></a>
+
+#### [그림 90.4.26.a135. 양식 대화상자 → 아래쪽 버튼들 → `양식 삭제` (Windows) (우리말)](./90-04-0026-templates.md#90-04-26-a135)
+<img width="200" height="181" alt="90-04-26-a135" src="https://github.com/user-attachments/assets/307146da-cdff-4040-9136-18eb6f57048f" />
+
 ***
 
 ## 다른 페이지로 가기

@@ -63,6 +63,48 @@
 
 [15.4.4.2.2. 아래쪽 버튼들(Buttons at the bottom) - 그림 90.4.26.a121](./15-04-04-02-02-00-buttons_at_the_bottom.md#90-04-26-a121)
 
+<a id="90-04-26-a131"></a>
+
+#### 그림 90.4.26.a131. 양식 대화상자 → 아래쪽 버튼들 → `양식에서 이미지 만들기` (Windows) (우리말)
+<img width="200" height="181" alt="90-04-26-a131" src="https://github.com/user-attachments/assets/8bf07b27-71a1-458b-9639-f97ecc7a7411" />
+
+[15.4.4.2.2.1. 양식에서 이미지 만들기(Create a new image from the selected template) - 그림 90.4.26.a131](./15-04-04-02-02-01-create_a_new_image_from_the_selected_template.md#90-04-26-a131)
+
+<a id="90-04-26-a131-01"></a>
+
+#### 영상 90.4.26.a131.1. 양식 대화상자 → 아래쪽 버튼들 → `양식에서 이미지 만들기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/5a1c03d9-e092-4bd2-a8dc-28dd5bdb8a3e"></video>
+
+[15.4.4.2.2.1. 양식에서 이미지 만들기(Create a new image from the selected template) - ](./15-04-04-02-02-01-create_a_new_image_from_the_selected_template.md#)
+
+<a id="90-04-26-a132"></a>
+
+#### 그림 90.4.26.a132. 양식 대화상자 → 아래쪽 버튼들 → `새 양식` (Windows) (우리말)
+<img width="200" height="181" alt="90-04-26-a132" src="https://github.com/user-attachments/assets/2923efa6-56c6-4d0e-abac-af80e9c0b3e9" />
+
+[15.4.4.2.2.2. 새 양식(Create a new template) - 그림 90.4.26.a132](./15-04-04-02-02-02-create_a_new_template.md#90-04-26-a132)
+
+<a id="90-04-26-a133"></a>
+
+#### 그림 90.4.26.a133. 양식 대화상자 → 아래쪽 버튼들 → `양식 복제` (Windows) (우리말)
+<img width="200" height="181" alt="90-04-26-a133" src="https://github.com/user-attachments/assets/9dd5302b-73a7-4c26-8565-244e42c84a9a" />
+
+[15.4.4.2.2.3. 양식 복제(Duplicate the selected template) - 그림 90.4.26.a133](./15-04-04-02-02-03-duplicate_the_selected_template.md#90-04-26-a133)
+
+<a id="90-04-26-a134"></a>
+
+#### 그림 90.4.26.a134. 양식 대화상자 → 아래쪽 버튼들 → `양식 편집` (Windows) (우리말)
+<img width="200" height="181" alt="90-04-26-a134" src="https://github.com/user-attachments/assets/4fe13294-5a28-4e5f-8e23-2937f661bb83" />
+
+[15.4.4.2.2.4. 양식 편집(Edit the selected template) - 그림 90.4.26.a134](./15-04-04-02-02-04-edit_the_selected_template.md#90-04-26-a134)
+
+<a id="90-04-26-a135"></a>
+
+#### 그림 90.4.26.a135. 양식 대화상자 → 아래쪽 버튼들 → `양식 삭제` (Windows) (우리말)
+<img width="200" height="181" alt="90-04-26-a135" src="https://github.com/user-attachments/assets/307146da-cdff-4040-9136-18eb6f57048f" />
+
+[15.4.4.2.2.5. 양식 삭제(Delete the selected template) - 그림 90.4.26.a135](./15-04-04-02-02-05-delete_the_selected_template.md#90-04-26-a135)
+
 ***
 
 ## 다른 페이지로 가기

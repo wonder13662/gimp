@@ -1,5 +1,10 @@
 # 15.4.4.2.2.4. 양식 편집(Edit the selected template)
 
+<a id="90-04-26-a134"></a>
+
+#### [그림 90.4.26.a134. 양식 대화상자 → 아래쪽 버튼들 → `양식 편집` (Windows) (우리말)](./90-04-0026-templates.md#90-04-26-a134)
+<img width="200" height="181" alt="90-04-26-a134" src="https://github.com/user-attachments/assets/4fe13294-5a28-4e5f-8e23-2937f661bb83" />
+
 ***
 
 ## 다른 페이지로 가기

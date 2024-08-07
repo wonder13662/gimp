@@ -1,5 +1,10 @@
 # 15.4.4.2.2.2. 새 양식(Create a new template)
 
+<a id="90-04-26-a132"></a>
+
+#### [그림 90.4.26.a132. 양식 대화상자 → 아래쪽 버튼들 → `새 양식` (Windows) (우리말)](./90-04-0026-templates.md#90-04-26-a132)
+<img width="200" height="181" alt="90-04-26-a132" src="https://github.com/user-attachments/assets/2923efa6-56c6-4d0e-abac-af80e9c0b3e9" />
+
 ***
 
 ## 다른 페이지로 가기
