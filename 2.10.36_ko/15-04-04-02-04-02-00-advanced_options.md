@@ -1,5 +1,12 @@
 # 15.4.4.2.4.2. 고급 옵션(Advanced Options)
 
+<a id="90-04-149-a131"></a>
+
+#### [그림 90.4.149.a131. `양식 편집` 대화상자 → `고급 옵션` (Windows) (우리말)](./90-04-0149-edit_template.md#90-04-149-a131)
+<img width="479" height="684" alt="90-04-149-a131" src="https://github.com/user-attachments/assets/a6a68020-2626-4544-8c31-f8e57f72c4f2" />
+
+`고급 옵션(Advanced Options)`에서는 추가적인 이미지 설정을 할 수 있습니다.
+
 ***
 
 ## 하위 페이지

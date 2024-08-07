@@ -89,6 +89,13 @@
 
 [15.4.4.2.4.1.4. 가로/세로 버튼(Portrait/Landscape buttons) - 영상 90.4.149.a124.1](./15-04-04-02-04-01-04-portrait_n_landscape.md#90-04-149-a124-01)
 
+<a id="90-04-149-a131"></a>
+
+#### 그림 90.4.149.a131. `양식 편집` 대화상자 → `고급 옵션` (Windows) (우리말)
+<img width="479" height="684" alt="90-04-149-a131" src="https://github.com/user-attachments/assets/a6a68020-2626-4544-8c31-f8e57f72c4f2" />
+
+[15.4.4.2.4.2. 고급 옵션(Advanced Options) - 그림 90.4.149.a131](./15-04-04-02-04-02-00-advanced_options.md#90-04-149-a131)
+
 ***
 
 ## 다른 페이지로 가기
