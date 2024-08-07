@@ -9,6 +9,8 @@
 
 [15.4.4.2.2.4. 양식 편집(Edit the selected template) - 그림 90.4.149.a101](./15-04-04-02-02-04-edit_the_selected_template.md#90-04-149-a101)
 
+[15.4.4.2.4. 양식 편집(Edit Template) - 그림 90.4.149.a101](./15-04-04-02-04-00-edit_template.md#90-04-149-a101)
+
 <a id="90-04-149-a102"></a>
 
 #### 그림 90.4.149.a102. `양식 편집` 대화상자 (Windows) (영어)
@@ -23,6 +25,27 @@
 
 #### 그림 90.4.149.a104. `양식 편집` 대화상자 (Mac) (영어)
 <img width="292" height="341" alt="90-04-149-a104" src="https://github.com/user-attachments/assets/63098073-57b7-4b25-8f9a-58442b373a0a" />
+
+<a id="90-04-149-a111"></a>
+
+#### 그림 90.4.149.a111. `양식 편집` 대화상자 → `옵션` (Windows) (우리말)
+<img width="293" height="362" alt="90-04-149-a111" src="https://github.com/user-attachments/assets/0d4979ad-d425-4f05-a58f-a4e01a42c070" />
+
+[15.4.4.2.4.1. 옵션(Options) - 그림 90.4.149.a111](./15-04-04-02-04-01-00-options.md#90-04-149-a111)
+
+<a id="90-04-149-a121"></a>
+
+#### 그림 90.4.149.a121. `양식 편집` 대화상자 → `옵션` → `이름` (Windows) (우리말)
+<img width="293" height="362" alt="90-04-149-a121" src="https://github.com/user-attachments/assets/89147f1d-1710-4454-a277-6ab5cb6163a0" />
+
+[15.4.4.2.4.1.1. 이름(Name) - 그림 90.4.149.a121](./15-04-04-02-04-01-01-name.md#90-04-149-a121)
+
+<a id="90-04-149-a121-01"></a>
+
+#### 영상 90.4.149.a121.1. `양식 편집` 대화상자 → `옵션` → `이름` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/c48c65fa-7a32-46cd-8f9d-75fa6570d916"></video>
+
+[15.4.4.2.4.1.1. 이름(Name) - 영상 90.4.149.a121.1](./15-04-04-02-04-01-01-name.md#90-04-149-a121-01)
 
 ***
 
