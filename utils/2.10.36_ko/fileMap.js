@@ -1689,7 +1689,7 @@ module.exports = {
       ],
       [
         '16-06-07-precision.md', 
-        '16.6.7. Precision'
+        '16.6.7. 정밀도(Precision)'
       ],
       [
         '16-06-08-color-management.md', 
