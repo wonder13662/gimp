@@ -96,6 +96,20 @@
 
 [15.4.4.2.4.2. 고급 옵션(Advanced Options) - 그림 90.4.149.a131](./15-04-04-02-04-02-00-advanced_options.md#90-04-149-a131)
 
+<a id="90-04-149-a141"></a>
+
+#### 그림 90.4.149.a141. `양식 편집` 대화상자 → `고급 옵션` → `해상도` (Windows) (우리말)
+<img width="479" height="684" alt="90-04-149-a141" src="https://github.com/user-attachments/assets/e2ce96ae-625d-41a0-b2b5-7b387a1f434a" />
+
+[15.4.4.2.4.2.1. 해상도(X and Y resolution) - 그림 90.4.149.a141](./15-04-04-02-04-02-01-x_n_y_resolution.md#90-04-149-a141)
+
+<a id="90-04-149-a141-01"></a>
+
+#### 그림 90.4.149.a141.1. `양식 편집` 대화상자 → `고급 옵션` → `해상도` → `단위`: 드롭다운 목록 (Windows) (우리말)
+<img width="261" height="388" alt="90-04-149-a141-01" src="https://github.com/user-attachments/assets/29c2de2a-4f7b-42ed-8b16-e344baf7ff38" />
+
+[15.4.4.2.4.2.1. 해상도(X and Y resolution) - 그림 90.4.149.a141.1](./15-04-04-02-04-02-01-x_n_y_resolution.md#90-04-149-a141-01)
+
 ***
 
 ## 다른 페이지로 가기
