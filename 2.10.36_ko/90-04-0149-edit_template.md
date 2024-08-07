@@ -28,7 +28,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.150. 양식 삭제(New Template)](./90-04-0150-delete_template.md)
 
 [⬅️ 이전: 90.4.148. 새 양식(New Template)](./90-04-0148-new_template.md)
 

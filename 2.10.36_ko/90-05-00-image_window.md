@@ -162,7 +162,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.149. 양식 편집(New Template)](./90-04-0149-edit_template.md)
+[⬅️ 이전: 90.4.150. 양식 삭제(New Template)](./90-04-0150-delete_template.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

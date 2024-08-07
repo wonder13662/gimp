@@ -5,6 +5,22 @@
 #### [그림 90.4.26.a135. 양식 대화상자 → 아래쪽 버튼들 → `양식 삭제` (Windows) (우리말)](./90-04-0026-templates.md#90-04-26-a135)
 <img width="200" height="181" alt="90-04-26-a135" src="https://github.com/user-attachments/assets/307146da-cdff-4040-9136-18eb6f57048f" />
 
+`양식 삭제(Delete the selected template)` 버튼을 누르면, `양식 삭제` 대화상자가 열립니다.
+
+<a id="90-04-150-a101"></a>
+
+#### [그림 90.4.150.a101. `양식 삭제` 대화상자 (Windows) (우리말)](./90-04-0150-delete_template.md#90-04-150-a101)
+<img width="395" height="155" alt="90-04-150-a101" src="https://github.com/user-attachments/assets/30b6e809-9efa-4f00-b082-59206fd6ce98" />
+
+[다른 운영체제와 언어의 `양식 삭제` 대화상자 확인하기](./90-04-0150-delete_template.md#90-04-150-a102)
+
+`양식 삭제` 대화상자의 `삭제(Delete)` 버튼을 누르면, 선택한 양식이 삭제됩니다.
+
+<a id="90-04-26-a135-01"></a>
+
+#### [영상 90.4.26.a135.1. 양식 대화상자 → 아래쪽 버튼들 → `양식 삭제` (Windows) (우리말)](./90-04-0026-templates.md#90-04-26-a135-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7a033744-fc02-49fc-9395-1e8dbc451389"></video>
+
 ***
 
 ## 다른 페이지로 가기
