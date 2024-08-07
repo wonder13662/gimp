@@ -112,6 +112,13 @@
 
 [15.4.4.2.2.4. 양식 편집(Edit the selected template) - 그림 90.4.26.a134](./15-04-04-02-02-04-edit_the_selected_template.md#90-04-26-a134)
 
+<a id="90-04-26-a134-01"></a>
+
+#### 영상 90.4.26.a134.1. 양식 대화상자 → 아래쪽 버튼들 → `양식 편집` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/42057e35-af95-46f1-adc1-035d08252617"></video>
+
+[15.4.4.2.2.4. 양식 편집(Edit the selected template) - 영상 90.4.26.a134.1](./15-04-04-02-02-04-edit_the_selected_template.md#90-04-26-a134-01)
+
 <a id="90-04-26-a135"></a>
 
 #### 그림 90.4.26.a135. 양식 대화상자 → 아래쪽 버튼들 → `양식 삭제` (Windows) (우리말)

@@ -5,6 +5,22 @@
 #### [그림 90.4.26.a134. 양식 대화상자 → 아래쪽 버튼들 → `양식 편집` (Windows) (우리말)](./90-04-0026-templates.md#90-04-26-a134)
 <img width="200" height="181" alt="90-04-26-a134" src="https://github.com/user-attachments/assets/4fe13294-5a28-4e5f-8e23-2937f661bb83" />
 
+`양식 편집(Edit the selected template)` 버튼을 누르면, [15.4.4.2.3.4. 양식 편집(Edit Template)](./15-04-04-02-03-04-edit_template.md) 대화상자가 열립니다.
+
+<a id="90-04-149-a101"></a>
+
+#### [그림 90.4.149.a101. `양식 편집` 대화상자 (Windows) (우리말)](./90-04-0149-edit_template.md#90-04-149-a101)
+<img width="293" height="362" alt="90-04-149-a101" src="https://github.com/user-attachments/assets/917cd0b7-b968-4c13-a6d0-9f51c166e3b2" />
+
+[다른 운영체제와 언어의 `양식 편집` 대화상자 확인하기](./90-04-0149-edit_template.md#90-04-149-a102)
+
+양식에 대해 설정을 한 뒤에, `양식 편집` 대화상자의 `확인(OK)` 버튼을 누르면 선택된 양식이 수정됩니다.
+
+<a id="90-04-26-a134-01"></a>
+
+#### [영상 90.4.26.a134.1. 양식 대화상자 → 아래쪽 버튼들 → `양식 편집` (Windows) (우리말)](./90-04-0026-templates.md#90-04-26-a134-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/42057e35-af95-46f1-adc1-035d08252617"></video>
+
 ***
 
 ## 다른 페이지로 가기
