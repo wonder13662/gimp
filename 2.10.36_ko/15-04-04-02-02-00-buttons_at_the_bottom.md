@@ -1,5 +1,10 @@
 # 15.4.4.2.2. 아래쪽 버튼들(Buttons at the bottom)
 
+<a id="90-04-26-a121"></a>
+
+#### [그림 90.4.26.a121. 양식 대화상자 → 아래쪽 버튼들 (Windows) (우리말)](./90-04-0026-templates.md#90-04-26-a121)
+<img width="200" height="181" alt="90-04-26-a121" src="https://github.com/user-attachments/assets/af93cf0f-e06e-4e64-a9ee-8c7a5b412311" />
+
 ***
 
 ## 하위 페이지

@@ -56,6 +56,13 @@
 
 [15.4.4.2.1.2. 목록 모드(List mode) - 영상 90.4.26.a112.1](./15-04-04-02-01-02-list_mode.md#90-04-26-a112-01)
 
+<a id="90-04-26-a121"></a>
+
+#### 그림 90.4.26.a121. 양식 대화상자 → 아래쪽 버튼들 (Windows) (우리말)
+<img width="200" height="181" alt="90-04-26-a121" src="https://github.com/user-attachments/assets/af93cf0f-e06e-4e64-a9ee-8c7a5b412311" />
+
+[15.4.4.2.2. 아래쪽 버튼들(Buttons at the bottom) - 그림 90.4.26.a121](./15-04-04-02-02-00-buttons_at_the_bottom.md#90-04-26-a121)
+
 ***
 
 ## 다른 페이지로 가기
