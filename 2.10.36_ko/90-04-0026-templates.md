@@ -182,6 +182,20 @@
 
 [15.4.4.2.3.3. 양식 복제(Duplicate Template) - 영상 90.4.26.a153.1](./15-04-04-02-03-03-duplicate_template.md#90-04-26-a153-01)
 
+<a id="90-04-26-a154"></a>
+
+#### 그림 90.4.26.a154. 양식 대화상자 → `탭 메뉴` → `양식 메뉴` → `양식 편집` (Windows) (우리말)
+<img width="824" height="418" alt="90-04-26-a154" src="https://github.com/user-attachments/assets/44027a31-f376-4d84-9ef9-57aa59c37f07" />
+
+[15.4.4.2.3.4. 양식 편집(Edit Template) - 그림 90.4.26.a154](./15-04-04-02-03-04-edit_template.md#90-04-26-a154)
+
+<a id="90-04-26-a154-01"></a>
+
+#### 영상 90.4.26.a154.1. 양식 대화상자 → `탭 메뉴` → `양식 메뉴` → `양식 편집` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2394e542-ca30-4b49-b066-125262fb1465"></video>
+
+[15.4.4.2.3.4. 양식 편집(Edit Template) - 영상 90.4.26.a154.1](./15-04-04-02-03-04-edit_template.md#90-04-26-a154-01)
+
 <a id="90-04-26-a161"></a>
 
 #### 그림 90.4.26.a161. 양식 대화상자 → `양식 컨텍스트 메뉴` (Windows) (우리말)
@@ -230,6 +244,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/cdb248cb-2c00-448d-b9d3-d36f94013889"></video>
 
 [15.4.4.2.3.3. 양식 복제(Duplicate Template) - 영상 90.4.26.a173.1](./15-04-04-02-03-03-duplicate_template.md#90-04-26-a173-01)
+
+<a id="90-04-26-a174"></a>
+
+#### 그림 90.4.26.a174. 양식 대화상자 → `양식 컨텍스트 메뉴` → `양식 편집` (Windows) (우리말)
+<img width="444" height="252" alt="90-04-26-a174" src="https://github.com/user-attachments/assets/46454ccc-7ccb-4093-bad4-2a55bf122436" />
+
+[15.4.4.2.3.4. 양식 편집(Edit Template) - 그림 90.4.26.a174](./15-04-04-02-03-04-edit_template.md#90-04-26-a174)
+
+<a id="90-04-26-a174-01"></a>
+
+#### 영상 90.4.26.a174.1. 양식 대화상자 → `양식 컨텍스트 메뉴` → `양식 편집` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7a17eb4d-d038-4957-a6a1-a818f5b8ef50"></video>
+
+[15.4.4.2.3.4. 양식 편집(Edit Template) - 영상 90.4.26.a174.1](./15-04-04-02-03-04-edit_template.md#90-04-26-a174-01)
 
 ***
 
