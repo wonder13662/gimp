@@ -14,7 +14,7 @@
 <a id="90-04-26-a171"></a>
 
 #### [그림 90.4.26.a171. 양식 대화상자 → `양식 컨텍스트 메뉴` → `양식에서 이미지 만들기` (Windows) (우리말)](./90-04-0026-templates.md#90-04-26-a171)
-<img width="444" height="252" alt="" src="https://github.com/user-attachments/assets/08fab430-3efd-48d4-b9cd-530899732855" />
+<img width="444" height="252" alt="90-04-26-a171" src="https://github.com/user-attachments/assets/08fab430-3efd-48d4-b9cd-530899732855" />
 
 <a id="90-04-26-a171-01"></a>
 

@@ -154,6 +154,20 @@
 
 [15.4.4.2.3.1. 양식에서 이미지 만들기(Create Image from Template) - 영상 90.4.26.a151.1](./15-04-04-02-03-01-create_image_from_template.md#90-04-26-a151-01)
 
+<a id="90-04-26-a152"></a>
+
+#### 그림 90.4.26.a152. 양식 대화상자 → `탭 메뉴` → `양식 메뉴` → `새 양식` (Windows) (우리말)
+<img width="824" height="418" alt="90-04-26-a152" src="https://github.com/user-attachments/assets/a9ee1844-4540-432e-882e-66e052011c3d" />
+
+[15.4.4.2.3.2. 새 양식(New Template) - 그림 90.4.26.a152](./15-04-04-02-03-02-new_template.md#90-04-26-a152)
+
+<a id="90-04-26-a152-01"></a>
+
+#### 영상 90.4.26.a152.1. 양식 대화상자 → `탭 메뉴` → `양식 메뉴` → `새 양식` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/394a3a88-97e3-425c-b042-f5b76d0f8176"></video>
+
+[15.4.4.2.3.2. 새 양식(New Template) - 영상 90.4.26.a152.1](./15-04-04-02-03-02-new_template.md#90-04-26-a152-01)
+
 <a id="90-04-26-a161"></a>
 
 #### 그림 90.4.26.a161. 양식 대화상자 → `양식 컨텍스트 메뉴` (Windows) (우리말)
@@ -164,7 +178,7 @@
 <a id="90-04-26-a171"></a>
 
 #### 그림 90.4.26.a171. 양식 대화상자 → `양식 컨텍스트 메뉴` → `양식에서 이미지 만들기` (Windows) (우리말)
-<img width="444" height="252" alt="" src="https://github.com/user-attachments/assets/08fab430-3efd-48d4-b9cd-530899732855" />
+<img width="444" height="252" alt="90-04-26-a171" src="https://github.com/user-attachments/assets/08fab430-3efd-48d4-b9cd-530899732855" />
 
 [15.4.4.2.3.1. 양식에서 이미지 만들기(Create Image from Template) - 그림 90.4.26.a171](./15-04-04-02-03-01-create_image_from_template.md#90-04-26-a171)
 
@@ -174,6 +188,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/023c86f5-bb1f-4a8c-914e-41b5dd718957"></video>
 
 [15.4.4.2.3.1. 양식에서 이미지 만들기(Create Image from Template) - 영상 90.4.26.a171.1](./15-04-04-02-03-01-create_image_from_template.md#90-04-26-a171-01)
+
+<a id="90-04-26-a172"></a>
+
+#### 그림 90.4.26.a172. 양식 대화상자 → `양식 컨텍스트 메뉴` → `새 양식` (Windows) (우리말)
+<img width="444" height="252" alt="90-04-26-a172" src="https://github.com/user-attachments/assets/6c7dcdcc-6a88-47b1-8621-b90ec87ecd79" />
+
+[15.4.4.2.3.2. 새 양식(New Template) - 그림 90.4.26.a172](./15-04-04-02-03-02-new_template.md#90-04-26-a172)
+
+<a id="90-04-26-a172-01"></a>
+
+#### 영상 90.4.26.a172.1. 양식 대화상자 → `양식 컨텍스트 메뉴` → `새 양식` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e2844f3d-e1d8-496b-8d3f-3db2eba607c6"></video>
+
+[15.4.4.2.3.2. 새 양식(New Template) - 영상 90.4.26.a172.1](./15-04-04-02-03-02-new_template.md#90-04-26-a172-01)
 
 ***
 
