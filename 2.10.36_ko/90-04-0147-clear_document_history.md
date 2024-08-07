@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.148. 새 양식(New Template)](./90-04-0148-new_template.md)
 
 [⬅️ 이전: 90.4.146. 팔레트 색상 편집(Edit Palette Color)](./90-04-0146-edit_palette_color.md)
 

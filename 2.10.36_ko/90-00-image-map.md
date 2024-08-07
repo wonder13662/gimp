@@ -1507,6 +1507,10 @@
 
 [90.4.147. 문서 이력 지우기(Clear Document History)](./90-04-0147-clear_document_history.md)
 
+[90.4.148. 새 양식(New Template)](./90-04-0148-new_template.md)
+
+[90.4.149. 양식 편집(New Template)](./90-04-0149-edit_template.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

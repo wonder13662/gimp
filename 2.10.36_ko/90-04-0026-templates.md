@@ -84,6 +84,13 @@
 
 [15.4.4.2.2.2. 새 양식(Create a new template) - 그림 90.4.26.a132](./15-04-04-02-02-02-create_a_new_template.md#90-04-26-a132)
 
+<a id="90-04-26-a132-01"></a>
+
+#### 영상 90.4.26.a132.1. 양식 대화상자 → 아래쪽 버튼들 → `새 양식` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/95e2bed8-06a2-4933-8205-3318eab66dec"></video>
+
+[15.4.4.2.2.2. 새 양식(Create a new template) - 영상 90.4.26.a132.1](./15-04-04-02-02-02-create_a_new_template.md#90-04-26-a132-01)
+
 <a id="90-04-26-a133"></a>
 
 #### 그림 90.4.26.a133. 양식 대화상자 → 아래쪽 버튼들 → `양식 복제` (Windows) (우리말)
