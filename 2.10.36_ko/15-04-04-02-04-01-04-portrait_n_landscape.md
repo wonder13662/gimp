@@ -1,5 +1,23 @@
 # 15.4.4.2.4.1.4. 가로/세로 버튼(Portrait/Landscape buttons)
 
+<a id="90-04-149-a124"></a>
+
+#### [그림 90.4.149.a124. `양식 편집` 대화상자 → `옵션` → `가로/세로 버튼` (Windows) (우리말)](./90-04-0000-dialogs.md#90-04-149-a124)
+<img width="293" height="362" alt="90-04-149-a124" src="https://github.com/user-attachments/assets/f501a173-b6d2-4f87-8e81-991203e4a035" />
+
+`가로/세로 버튼(Portrait/Landscape buttons)`을 누르면, 가로 모드이면 세로 모드로, 세로 모드이면 가로 모드로 바뀝니다.
+
+이 경우, 너비와 높이의 값을 서로 맞바꾸게 됩니다.
+
+고급 옵션의 [X축과 Y축의 해상도](./15-04-04-02-04-02-01-x_n_y_resolution.md)의 X축과 Y축의 값이 서로 다르다면, 이 값도 서로 맞바꾸게 됩니다.
+
+오른쪽에는 이미지 크기, 이미지 해상도와 색상 공간이 표시됩니다.
+
+<a id="90-04-149-a124-01"></a>
+
+#### [영상 90.4.149.a124.1. `양식 편집` 대화상자 → `옵션` → `가로/세로 버튼` (Windows) (우리말)](./90-04-0149-edit_template.md#90-04-149-a124-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e7b77bc1-c59b-46d4-996a-6b14497fc4c2"></video>
+
 ***
 
 ## 다른 페이지로 가기

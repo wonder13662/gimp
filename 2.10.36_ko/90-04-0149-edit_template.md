@@ -64,7 +64,7 @@
 <a id="90-04-149-a123"></a>
 
 #### 그림 90.4.149.a123. `양식 편집` 대화상자 → `옵션` → `이미지 크기` (Windows) (우리말)
-<img width="293" height="362" alt="90-04-149-a123" src="https://github.com/user-attachments/assets/d21dd4e9-bd89-4a10-b1e9-f6715007e1ad" />
+<img width="293" height="362" alt="90-04-149-a123" src="https://github.com/user-attachments/assets/00fa17de-f8be-4595-a534-6e5b85c9cb36" />
 
 [15.4.4.2.4.1.3. 이미지 크기(Image Size) - 그림 90.4.149.a123](./15-04-04-02-04-01-03-image_size.md#90-04-149-a123)
 
@@ -74,6 +74,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2b27a2ce-aae6-4434-a715-f216f5fab70c"></video>
 
 [15.4.4.2.4.1.3. 이미지 크기(Image Size) - 영상 90.4.149.a123.1](./15-04-04-02-04-01-03-image_size.md#90-04-149-a123-01)
+
+<a id="90-04-149-a124"></a>
+
+#### 그림 90.4.149.a124. `양식 편집` 대화상자 → `옵션` → `가로/세로 버튼` (Windows) (우리말)
+<img width="293" height="362" alt="90-04-149-a124" src="https://github.com/user-attachments/assets/f501a173-b6d2-4f87-8e81-991203e4a035" />
+
+[15.4.4.2.4.1.4. 가로/세로 버튼(Portrait/Landscape buttons) - 그림 90.4.149.a124](./15-04-04-02-04-01-04-portrait_n_landscape.md#90-04-149-a124)
+
+<a id="90-04-149-a124-01"></a>
+
+#### 영상 90.4.149.a124.1. `양식 편집` 대화상자 → `옵션` → `가로/세로 버튼` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e7b77bc1-c59b-46d4-996a-6b14497fc4c2"></video>
+
+[15.4.4.2.4.1.4. 가로/세로 버튼(Portrait/Landscape buttons) - 영상 90.4.149.a124.1](./15-04-04-02-04-01-04-portrait_n_landscape.md#90-04-149-a124-01)
 
 ***
 
