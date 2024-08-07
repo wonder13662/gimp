@@ -196,6 +196,20 @@
 
 [15.4.4.2.3.4. 양식 편집(Edit Template) - 영상 90.4.26.a154.1](./15-04-04-02-03-04-edit_template.md#90-04-26-a154-01)
 
+<a id="90-04-26-a155"></a>
+
+#### 그림 90.4.26.a155. 양식 대화상자 → `탭 메뉴` → `양식 메뉴` → `양식 삭제` (Windows) (우리말)
+<img width="824" height="418" alt="90-04-26-a155" src="https://github.com/user-attachments/assets/8e7ac14a-84ee-49ca-a32a-8dcd7d9ebc3f" />
+
+[15.4.4.2.3.5. 양식 삭제(Delete Template) - 그림 90.4.26.a155](./15-04-04-02-03-05-delete_template.md#90-04-26-a155)
+
+<a id="90-04-26-a155-01"></a>
+
+#### 영상 90.4.26.a155.1. 양식 대화상자 → `탭 메뉴` → `양식 메뉴` → `양식 삭제` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ec7a9d31-6738-49f7-9f9f-e388b868498d"></video>
+
+[15.4.4.2.3.5. 양식 삭제(Delete Template) - 영상 90.4.26.a155.1](./15-04-04-02-03-05-delete_template.md#90-04-26-a155-01)
+
 <a id="90-04-26-a161"></a>
 
 #### 그림 90.4.26.a161. 양식 대화상자 → `양식 컨텍스트 메뉴` (Windows) (우리말)
@@ -258,6 +272,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7a17eb4d-d038-4957-a6a1-a818f5b8ef50"></video>
 
 [15.4.4.2.3.4. 양식 편집(Edit Template) - 영상 90.4.26.a174.1](./15-04-04-02-03-04-edit_template.md#90-04-26-a174-01)
+
+<a id="90-04-26-a175"></a>
+
+#### 그림 90.4.26.a175. 양식 대화상자 → `양식 컨텍스트 메뉴` → `양식 삭제` (Windows) (우리말)
+<img width="444" height="252" alt="90-04-26-a175" src="https://github.com/user-attachments/assets/4f6dd2eb-5acd-4f8b-b780-1b304bbbaccd" />
+
+[15.4.4.2.3.5. 양식 삭제(Delete Template) - 그림 90.4.26.a175](./15-04-04-02-03-05-delete_template.md#90-04-26-a175)
+
+<a id="90-04-26-a175-01"></a>
+
+#### 영상 90.4.26.a175.1. 양식 대화상자 → `양식 컨텍스트 메뉴` → `양식 삭제` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d4bef65d-ee7c-4cab-afb1-a658463925a8"></video>
+
+[15.4.4.2.3.5. 양식 삭제(Delete Template) - 영상 90.4.26.a175.1](./15-04-04-02-03-05-delete_template.md#90-04-26-a175-01)
 
 ***
 
