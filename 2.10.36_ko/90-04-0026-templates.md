@@ -133,6 +133,48 @@
 
 [15.4.4.2.2.5. 양식 삭제(Delete the selected template) - 영상 90.4.26.a135.1](./15-04-04-02-02-05-delete_the_selected_template.md#90-04-26-a135-01)
 
+<a id="90-04-26-a141"></a>
+
+#### 그림 90.4.26.a141. 양식 대화상자 → `탭 메뉴` → `양식 메뉴` (Windows) (우리말)
+<img width="824" height="418" alt="90-04-26-a141" src="https://github.com/user-attachments/assets/20225996-a099-4d69-a260-b750e10c15e8" />
+
+[15.4.4.2.3. 양식 컨텍스트 메뉴(Context Menu) - 그림 90.4.26.a141](./15-04-04-02-03-00-context_menu.md#90-04-26-a141)
+
+<a id="90-04-26-a151"></a>
+
+#### 그림 90.4.26.a151. 양식 대화상자 → `탭 메뉴` → `양식 메뉴` → `양식에서 이미지 만들기` (Windows) (우리말)
+<img width="824" height="418" alt="90-04-26-a151" src="https://github.com/user-attachments/assets/e42ca9c0-0867-4c5e-946f-d9c54a40a638" />
+
+[15.4.4.2.3.1. 양식에서 이미지 만들기(Create Image from Template) - 그림 90.4.26.a151](./15-04-04-02-03-01-create_image_from_template.md#90-04-26-a151)
+
+<a id="90-04-26-a151-01"></a>
+
+#### 영상 90.4.26.a151.1. 양식 대화상자 → `탭 메뉴` → `양식 메뉴` → `양식에서 이미지 만들기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f2e37ad5-0b15-453f-aa82-f6bfb727a5e2"></video>
+
+[15.4.4.2.3.1. 양식에서 이미지 만들기(Create Image from Template) - 영상 90.4.26.a151.1](./15-04-04-02-03-01-create_image_from_template.md#90-04-26-a151-01)
+
+<a id="90-04-26-a161"></a>
+
+#### 그림 90.4.26.a161. 양식 대화상자 → `양식 컨텍스트 메뉴` (Windows) (우리말)
+<img width="444" height="252" alt="90-04-26-a161" src="https://github.com/user-attachments/assets/b27d0bf4-6b2c-4af5-b1ff-fee3cff1b15f" />
+
+[15.4.4.2.3. 양식 컨텍스트 메뉴(Context Menu) - 그림 90.4.26.a161](./15-04-04-02-03-00-context_menu.md#90-04-26-a161)
+
+<a id="90-04-26-a171"></a>
+
+#### 그림 90.4.26.a171. 양식 대화상자 → `양식 컨텍스트 메뉴` → `양식에서 이미지 만들기` (Windows) (우리말)
+<img width="444" height="252" alt="" src="https://github.com/user-attachments/assets/08fab430-3efd-48d4-b9cd-530899732855" />
+
+[15.4.4.2.3.1. 양식에서 이미지 만들기(Create Image from Template) - 그림 90.4.26.a171](./15-04-04-02-03-01-create_image_from_template.md#90-04-26-a171)
+
+<a id="90-04-26-a171-01"></a>
+
+#### 영상 90.4.26.a171.1. 양식 대화상자 → `양식 컨텍스트 메뉴` → `양식에서 이미지 만들기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/023c86f5-bb1f-4a8c-914e-41b5dd718957"></video>
+
+[15.4.4.2.3.1. 양식에서 이미지 만들기(Create Image from Template) - 영상 90.4.26.a171.1](./15-04-04-02-03-01-create_image_from_template.md#90-04-26-a171-01)
+
 ***
 
 ## 다른 페이지로 가기
