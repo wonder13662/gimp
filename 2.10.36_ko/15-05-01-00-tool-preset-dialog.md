@@ -1,5 +1,19 @@
 # 15.5.1. 도구 프리셋 대화상자(Tool preset dialog)
 
+<a id="90-04-22-a1"></a>
+
+#### [그림 90.4.22.a1. 도구 프리셋 대화상자](./90-04-0022-tool_presets.md#90-04-22-a1)
+<img width="850" height="372" alt="90-04-22-a1" src="https://github.com/user-attachments/assets/3365e747-2b6a-4b58-af84-8583ce60b56e" />
+
+`도구 프리셋 대화상자(Tool preset dialog)`는 모든 저장된 도구 프리셋의 목록을 보여줍니다.
+
+목록의 아이템을 클릭하면, 도구 프리셋의 도구가 선택됩니다.
+
+<a id="90-04-22-a111"></a>
+
+#### [영상 90.4.22.a101. 양식 대화상자: 아이템 더블 클릭시 프리셋의 도구 선택됨 (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a111)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f412bd8e-030f-4516-90a3-03955c5d6852"></video>
+
 ***
 
 ## 하위 페이지
