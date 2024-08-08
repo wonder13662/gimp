@@ -106,6 +106,13 @@
 
 [15.5.1.2.1.3. 활성화 도구의 옵션을 이 프리셋에 저장하기(Save the active tool options to this preset) - 그림 90.4.22.a153](./15-05-01-02-01-03-save_the_active_tool_options_to_this_preset.md#90-04-22-a153)
 
+<a id="90-04-22-a153-01"></a>
+
+#### 영상 90.4.22.a153.1. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `활성화 도구의 옵션을 이 프리셋에 저장하기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/def3a36d-9fb7-46d5-bc0f-9e3dc52238ab"></video>
+
+[15.5.1.2.1.3. 활성화 도구의 옵션을 이 프리셋에 저장하기(Save the active tool options to this preset) - ](./15-05-01-02-01-03-save_the_active_tool_options_to_this_preset.md#)
+
 <a id="90-04-22-a154"></a>
 
 #### 그림 90.4.22.a154. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `이 도구 프리셋 되돌리기` (Windows) (우리말)

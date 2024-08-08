@@ -5,6 +5,13 @@
 #### [그림 90.4.22.a153. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `활성화 도구의 옵션을 이 프리셋에 저장하기` (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a153)
 <img width="200" height="268" alt="90-04-22-a153" src="https://github.com/user-attachments/assets/801b9814-f117-4ad5-9844-3fbd38f66b9c" />
 
+`활성화 도구의 옵션을 이 프리셋에 저장하기(Save the active tool options to this preset)` 버튼을 누르면, 활성화된 도구 옵션의 설정값이 선택한 도구 프리셋에 저장됩니다.
+
+<a id="90-04-22-a153-01"></a>
+
+#### [영상 90.4.22.a153.1. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `활성화 도구의 옵션을 이 프리셋에 저장하기` (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a153-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/def3a36d-9fb7-46d5-bc0f-9e3dc52238ab"></video>
+
 ***
 
 ## 다른 페이지로 가기
