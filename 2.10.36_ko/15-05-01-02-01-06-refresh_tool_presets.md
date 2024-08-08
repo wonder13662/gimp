@@ -5,6 +5,13 @@
 #### [그림 90.4.22.a156. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `도구 프리셋 새로 고침하기` (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a156)
 <img width="200" height="268" alt="90-04-22-a156" src="https://github.com/user-attachments/assets/b41d41ae-b128-48aa-82a0-1a3c8a6edce9" />
 
+사용자가 직접 도구 프리셋 파일을 "사용자 도구 프리셋 경로"에 추가했을 때, `도구 프리셋 새로 고침하기(Refresh tool presets)` 버튼을 누르면 즉시 추가한 도구 프리셋을 확인 및 사용할 수 있습니다.
+
+<a id="90-04-22-a156-01"></a>
+
+#### [영상 90.4.22.a156.1. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `도구 프리셋 새로 고침하기` (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a156-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2e9fae45-4443-415d-ab8a-11b66fe0796f"></video>
+
 ***
 
 ## 다른 페이지로 가기

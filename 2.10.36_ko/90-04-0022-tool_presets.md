@@ -148,6 +148,13 @@
 
 [15.5.1.2.1.6. 도구 프리셋 새로 고침하기(Refresh tool presets) - 그림 90.4.22.a156](./15-05-01-02-01-06-refresh_tool_presets.md#90-04-22-a156)
 
+<a id="90-04-22-a156-01"></a>
+
+#### 영상 90.4.22.a156.1. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `도구 프리셋 새로 고침하기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2e9fae45-4443-415d-ab8a-11b66fe0796f"></video>
+
+[15.5.1.2.1.6. 도구 프리셋 새로 고침하기(Refresh tool presets) - 영상 90.4.22.a156.1](./15-05-01-02-01-06-refresh_tool_presets.md#90-04-22-a156-01)
+
 ***
 
 ## 다른 페이지로 가기
