@@ -75,7 +75,7 @@
 #### 영상 90.4.26.a131.1. 양식 대화상자 → 아래쪽 버튼들 → `양식에서 이미지 만들기` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/5a1c03d9-e092-4bd2-a8dc-28dd5bdb8a3e"></video>
 
-[15.4.4.2.2.1. 양식에서 이미지 만들기(Create a new image from the selected template) - ](./15-04-04-02-02-01-create_a_new_image_from_the_selected_template.md#)
+[15.4.4.2.2.1. 양식에서 이미지 만들기(Create a new image from the selected template) - 영상 90.4.26.a131.1](./15-04-04-02-02-01-create_a_new_image_from_the_selected_template.md#90-04-26-a131-01)
 
 <a id="90-04-26-a132"></a>
 
