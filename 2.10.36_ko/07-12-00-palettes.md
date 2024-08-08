@@ -53,7 +53,7 @@ GIMP(김프)를 설치하면, 수십 개의 팔레트가 기본적으로 함께 
 <a id="90-03-03-a2"></a>
 
 #### [그림 90.3.3.a2. 도구상자의 '전경색/배경색' - `색상(전경색)`](./90-03-03-foreground_color_n_background_color.md#90-03-03-a2)
-![90-03-03-a2](https://github.com/wonder13662/gimp/assets/15767104/f1ae8ae0-2e40-437c-924d-e961c58438b4)
+<img width="264" height="181" alt="90-03-03-a2" src="https://github.com/wonder13662/gimp/assets/15767104/f1ae8ae0-2e40-437c-924d-e961c58438b4" />
 
 <a id="90-04-60-a106"></a>
 
@@ -68,7 +68,7 @@ Ctrl(⌘) 키를 누른 채로 [`팔레트 편집기`](./15-03-06-04-00-palette_
 <a id="90-03-03-a3"></a>
 
 #### [그림 90.3.3.a3. 도구상자의 '전경색/배경색' - `색상(배경색)`](./90-03-03-foreground_color_n_background_color.md#90-03-03-a3)
-![90-03-03-a3](https://github.com/wonder13662/gimp/assets/15767104/2fcabec2-7760-4394-b1cd-8d93cb643d2e)
+<img width="264" height="181" alt="90-03-03-a3" src="https://github.com/wonder13662/gimp/assets/15767104/2fcabec2-7760-4394-b1cd-8d93cb643d2e" />
 
 <a id="90-04-60-a107"></a>
 

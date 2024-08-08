@@ -3,7 +3,7 @@
 <a id="90-03-03-a2"></a>
 
 #### [그림 90.3.3.a2. 도구상자의 '전경색/배경색' - `색상(전경색)`](./90-03-03-foreground_color_n_background_color.md#90-03-03-a2)
-![90-03-03-a2](https://github.com/wonder13662/gimp/assets/15767104/f1ae8ae0-2e40-437c-924d-e961c58438b4)
+<img width="264" height="181" alt="90-03-03-a2" src="https://github.com/wonder13662/gimp/assets/15767104/f1ae8ae0-2e40-437c-924d-e961c58438b4" />
 
 <a id="90-04-131-a101"></a>
 

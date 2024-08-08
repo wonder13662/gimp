@@ -18,7 +18,7 @@
 <a id="90-03-03-a2"></a>
 
 #### 그림 90.3.3.a2. 도구상자의 '전경색/배경색' - `색상(전경색)`
-![90-03-03-a2](https://github.com/wonder13662/gimp/assets/15767104/f1ae8ae0-2e40-437c-924d-e961c58438b4)
+<img width="264" height="181" alt="90-03-03-a2" src="https://github.com/wonder13662/gimp/assets/15767104/f1ae8ae0-2e40-437c-924d-e961c58438b4" />
 
 [7.12. 팔레트(Palette) - 그림 90.3.3.a2](./07-12-00-palettes.md#90-03-03-a2)
 
@@ -26,16 +26,20 @@
 
 [15.3.5.3.2.2. 그라디언트 미리보기 창(The Gradient Preview Window) - 그림 90.3.3.a2](./15-03-05-03-02-02-the_gradient_preview_window.md#90-03-03-a2)
 
+[15.4.4.2.4.2.7. 채우기(Fill with) - 그림 90.3.3.a2](./15-04-04-02-04-02-07-fill_with.md#90-03-03-a2)
+
 [19. 용어집 - 전경색(Foreground Color) - 그림 90.3.3.a2](./19-glossaryx-foreground_color.md#90-03-03-a2)
 
 <a id="90-03-03-a3"></a>
 
 #### 그림 90.3.3.a3. 도구상자의 '전경색/배경색' - `색상(배경색)`
-![90-03-03-a3](https://github.com/wonder13662/gimp/assets/15767104/2fcabec2-7760-4394-b1cd-8d93cb643d2e)
+<img width="264" height="181" alt="90-03-03-a3" src="https://github.com/wonder13662/gimp/assets/15767104/2fcabec2-7760-4394-b1cd-8d93cb643d2e" />
 
 [7.12. 팔레트(Palette) - 그림 90.3.3.a3](./07-12-00-palettes.md#90-03-03-a3)
 
 [14.1.3.1. 색상 영역(Color Area) - 그림 90.3.3.a3](./14-01-03-01-color_area.md#90-03-03-a3)
+
+[15.4.4.2.4.2.7. 채우기(Fill with) - 그림 90.3.3.a3](./15-04-04-02-04-02-07-fill_with.md#90-03-03-a3)
 
 [19. 용어집 - 배경색(Background Color) - 그림 90.3.3.a3](./19-glossaryx-background_color.md#90-03-03-a3)
 

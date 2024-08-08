@@ -898,6 +898,10 @@
 
 [15.4.4.2.4.2.6. 색상 프로파일(Color Profile)](./15-04-04-02-04-02-06-color_profile.md)
 
+[15.4.4.2.4.2.7. 채우기(Fill with)](./15-04-04-02-04-02-07-fill_with.md)
+
+[15.4.4.2.4.2.8. 설명(Comment)](./15-04-04-02-04-02-08-comment.md)
+
 [15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
 
 [15.5.1. 도구 프리셋 대화상자(Tool preset dialog)](./15-05-01-tool-preset-dialog.md)
