@@ -92,6 +92,13 @@
 
 [15.5.1.2.1.2. 새 도구 프리셋 만들기(Create a new tool preset) - 그림 90.4.22.a152](./15-05-01-02-01-02-create_a_new_tool_preset.md#90-04-22-a152)
 
+<a id="90-04-22-a152-01"></a>
+
+#### 영상 90.4.22.a152.1. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `새 도구 프리셋 만들기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/10c4f980-9d00-4e62-8750-172e828fe21c"></video>
+
+[15.5.1.2.1.2. 새 도구 프리셋 만들기(Create a new tool preset) - 영상 90.4.22.a152.1](./15-05-01-02-01-02-create_a_new_tool_preset.md#90-04-22-a152-01)
+
 <a id="90-04-22-a153"></a>
 
 #### 그림 90.4.22.a153. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `활성화 도구의 옵션을 이 프리셋에 저장하기` (Windows) (우리말)
