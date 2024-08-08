@@ -28,7 +28,7 @@
 
 [➡️ 다음: 15.5.1.3.1. 도구 프리셋 편집(Edit Tool Preset)](./15-05-01-03-01-edit_tool_preset.md)
 
-[⬅️ 이전: 15.5.1.2.1.6.  도구 프리셋 새로 고침하기(Refresh tool presets)](./15-05-01-02-01-06-refresh_tool_presets.md)
+[⬅️ 이전: 15.5.1.2.1.6. 도구 프리셋 새로 고침하기(Refresh tool presets)](./15-05-01-02-01-06-refresh_tool_presets.md)
 
 [⬆️ 위: 15.5.1. 도구 프리셋 대화상자(Tool preset dialog)](./15-05-01-00-tool-preset-dialog.md)
 
