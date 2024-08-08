@@ -2,7 +2,7 @@
 
 <a id="90-04-22-a101"></a>
 
-#### [그림 90.4.22.a101. 양식 대화상자 (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a101)
+#### [그림 90.4.22.a101. 도구 프리셋 대화상자 (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a101)
 <img width="200" height="268" alt="90-04-22-a101" src="https://github.com/user-attachments/assets/a4237ebd-15e5-494a-947d-a3df786d6f48" />
 
 <a id="15-05-01-02-s1"></a>
@@ -14,7 +14,7 @@
 
 <a id="90-04-22-a112"></a>
 
-#### [그림 90.4.22.a112. 양식 대화상자: 아이템의 아이콘과 이름 (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a112)
+#### [그림 90.4.22.a112. 도구 프리셋 대화상자: 아이템의 아이콘과 이름 (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a112)
 <img width="200" height="268" alt="90-04-22-a112" src="https://github.com/user-attachments/assets/0de0ea1a-4238-4c31-a207-b390079f935e" />
 
 <a id="15-05-01-02-s2"></a>
@@ -24,7 +24,7 @@
 
 <a id="90-04-22-a121"></a>
 
-#### [영상 90.4.22.a121. 양식 대화상자: 도구 프리셋을 태그로 필터링하기 (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a121)
+#### [영상 90.4.22.a121. 도구 프리셋 대화상자: 도구 프리셋을 태그로 필터링하기 (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a121)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/8d09b054-a2a0-4fdc-93d6-2bc6066b675e"></video>
 
 더 자세한 내용은 [15.3.7. 태그(Tagging)](./15-03-07-00-tagging.md)을 참고해주세요.
@@ -36,7 +36,7 @@
 
 <a id="90-04-22-a131"></a>
 
-#### [영상 90.4.22.a131. 양식 대화상자: 도구 프리셋 아이콘을 더블 클릭하여 `도구 프리셋 편집기` 열기 (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a131)
+#### [영상 90.4.22.a131. 도구 프리셋 대화상자: 도구 프리셋 아이콘을 더블 클릭하여 `도구 프리셋 편집기` 열기 (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a131)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/866bc7c3-520d-4684-bf64-60e092c39ae2"></video>
 
 <a id="15-05-01-02-s4"></a>
@@ -46,7 +46,7 @@
 
 <a id="90-04-22-a132"></a>
 
-#### [영상 90.4.22.a132. 양식 대화상자: 도구 프리셋 이름을 더블 클릭하여 이름 수정하기 (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a132)
+#### [영상 90.4.22.a132. 도구 프리셋 대화상자: 도구 프리셋 이름을 더블 클릭하여 이름 수정하기 (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a132)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/eabd215e-f4cb-4250-b164-b1a28f75bd6c"></video>
 
 ***

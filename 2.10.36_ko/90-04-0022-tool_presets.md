@@ -9,61 +9,67 @@
 
 <a id="90-04-22-a101"></a>
 
-#### 그림 90.4.22.a101. 양식 대화상자 (Windows) (우리말)
+#### 그림 90.4.22.a101. 도구 프리셋 대화상자 (Windows) (우리말)
 <img width="200" height="268" alt="90-04-22-a101" src="https://github.com/user-attachments/assets/a4237ebd-15e5-494a-947d-a3df786d6f48" />
 
 [15.5.1.2. 도구 프리셋 대화상자 사용하기(Using the Tool Presets Dialog) - 그림 90.4.22.a101](./15-05-01-02-00-using_the_tool_preset_dialog.md#90-04-22-a101)
 
 <a id="90-04-22-a102"></a>
 
-#### 그림 90.4.22.a102. 양식 대화상자 (Windows) (영어)
+#### 그림 90.4.22.a102. 도구 프리셋 대화상자 (Windows) (영어)
 <img width="200" height="268" alt="90-04-22-a102" src="https://github.com/user-attachments/assets/35d9ccec-3859-4974-9260-09b83f090a9e" />
 
 <a id="90-04-22-a103"></a>
 
-#### 그림 90.4.22.a103. 양식 대화상자 (Mac) (우리말)
+#### 그림 90.4.22.a103. 도구 프리셋 대화상자 (Mac) (우리말)
 <img width="200" height="259" alt="90-04-22-a103" src="https://github.com/user-attachments/assets/cd02e230-54c2-469b-87fe-c324360295c7" />
 
 <a id="90-04-22-a104"></a>
 
-#### 그림 90.4.22.a104. 양식 대화상자 (Mac) (영어)
+#### 그림 90.4.22.a104. 도구 프리셋 대화상자 (Mac) (영어)
 <img width="200" height="259" alt="90-04-22-a104" src="https://github.com/user-attachments/assets/4edc080f-dc89-4917-b088-b88850707a72" />
 
 <a id="90-04-22-a111"></a>
 
-#### 영상 90.4.22.a111. 양식 대화상자: 아이템 더블 클릭시 프리셋의 도구 선택됨 (Windows) (우리말)
+#### 영상 90.4.22.a111. 도구 프리셋 대화상자: 아이템 더블 클릭시 프리셋의 도구 선택됨 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f412bd8e-030f-4516-90a3-03955c5d6852"></video>
 
 [15.5.1. 도구 프리셋 대화상자(Tool preset dialog) - 영상 90.4.22.a101](./15-05-01-00-tool-preset-dialog.md#90-04-22-a111)
 
 <a id="90-04-22-a112"></a>
 
-#### 그림 90.4.22.a112. 양식 대화상자: 아이템의 아이콘과 이름 (Windows) (우리말)
+#### 그림 90.4.22.a112. 도구 프리셋 대화상자: 아이템의 아이콘과 이름 (Windows) (우리말)
 <img width="200" height="268" alt="90-04-22-a112" src="https://github.com/user-attachments/assets/0de0ea1a-4238-4c31-a207-b390079f935e" />
 
 [15.5.1.2. 도구 프리셋 대화상자 사용하기(Using the Tool Presets Dialog) - 그림 90.4.22.a112](./15-05-01-02-00-using_the_tool_preset_dialog.md#90-04-22-a112)
 
 <a id="90-04-22-a121"></a>
 
-#### 영상 90.4.22.a121. 양식 대화상자: 도구 프리셋을 태그로 필터링하기 (Windows) (우리말)
+#### 영상 90.4.22.a121. 도구 프리셋 대화상자: 도구 프리셋을 태그로 필터링하기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/8d09b054-a2a0-4fdc-93d6-2bc6066b675e"></video>
 
 [15.5.1.2. 도구 프리셋 대화상자 사용하기(Using the Tool Presets Dialog) - 영상 90.4.22.a121](./15-05-01-02-00-using_the_tool_preset_dialog.md#90-04-22-a121)
 
 <a id="90-04-22-a131"></a>
 
-#### 영상 90.4.22.a131. 양식 대화상자: 도구 프리셋 아이콘을 더블 클릭하여 `도구 프리셋 편집기` 열기 (Windows) (우리말)
+#### 영상 90.4.22.a131. 도구 프리셋 대화상자: 도구 프리셋 아이콘을 더블 클릭하여 `도구 프리셋 편집기` 열기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/866bc7c3-520d-4684-bf64-60e092c39ae2"></video>
 
 [15.5.1.2. 도구 프리셋 대화상자 사용하기(Using the Tool Presets Dialog) - 영상 90.4.22.a131](./15-05-01-02-00-using_the_tool_preset_dialog.md#90-04-22-a131)
 
 <a id="90-04-22-a132"></a>
 
-#### 영상 90.4.22.a132. 양식 대화상자: 도구 프리셋 이름을 더블 클릭하여 이름 수정하기 (Windows) (우리말)
+#### 영상 90.4.22.a132. 도구 프리셋 대화상자: 도구 프리셋 이름을 더블 클릭하여 이름 수정하기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/eabd215e-f4cb-4250-b164-b1a28f75bd6c"></video>
 
 [15.5.1.2. 도구 프리셋 대화상자 사용하기(Using the Tool Presets Dialog) - 영상 90.4.22.a132](./15-05-01-02-00-using_the_tool_preset_dialog.md#90-04-22-a132)
 
+<a id="90-04-22-a141"></a>
+
+#### 그림 90.4.22.a141. 도구 프리셋 대화상자 → 아래쪽 버튼들 (Windows) (우리말)
+<img width="200" height="268" alt="90-04-22-a141" src="https://github.com/user-attachments/assets/8ed6a3cb-274c-4ca9-9253-95e1e23b8be2" />
+
+[15.5.1.2.1. 아래쪽 버튼들(Buttons at the bottom) - 그림 90.4.22.a141](./15-05-01-02-01-00-buttons_at_the_bottom.md#90-04-22-a141)
 
 ***
 

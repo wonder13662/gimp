@@ -1,5 +1,10 @@
 # 15.5.1.2.1. 아래쪽 버튼들(Buttons at the bottom)
 
+<a id="90-04-22-a141"></a>
+
+#### [그림 90.4.22.a141. 도구 프리셋 대화상자 → 아래쪽 버튼들 (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a141)
+<img width="200" height="268" alt="90-04-22-a141" src="https://github.com/user-attachments/assets/8ed6a3cb-274c-4ca9-9253-95e1e23b8be2" />
+
 ***
 
 ## 하위 페이지
