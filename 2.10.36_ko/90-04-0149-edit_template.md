@@ -159,6 +159,20 @@
 
 [15.4.4.2.4.2.5. 이 이미지의 색상 관리하기(Color manage this image) - 그림 90.4.149.a145](./15-04-04-02-04-02-05-color_manage_this_image.md#90-04-149-a145)
 
+<a id="90-04-149-a146"></a>
+
+#### 그림 90.4.149.a146. `양식 편집` 대화상자 → `고급 옵션` → `색상 프로파일` (Windows) (우리말)
+<img width="479" height="684" alt="90-04-149-a146" src="https://github.com/user-attachments/assets/effef7ac-405b-40f5-92de-9cb10a595041" />
+
+[15.4.4.2.4.2.6. 색상 프로파일(Color Profile) - 그림 90.4.149.a146](./15-04-04-02-04-02-06-color_profile.md#90-04-149-a146)
+
+<a id="90-04-149-a146-01"></a>
+
+#### 그림 90.4.149.a146.1. `양식 편집` 대화상자 → `고급 옵션` → `색상 프로파일` (Windows) (우리말)
+<img width="468" height="192" alt="90-04-149-a146-01" src="https://github.com/user-attachments/assets/8b904f7c-70b0-4a5f-91a9-3492baca207b" />
+
+[15.4.4.2.4.2.6. 색상 프로파일(Color Profile) - 그림 90.4.149.a146.1](./15-04-04-02-04-02-06-color_profile.md#90-04-149-a146-01)
+
 ***
 
 ## 다른 페이지로 가기
