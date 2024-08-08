@@ -11,7 +11,7 @@
 
 <a id="90-04-22-a111"></a>
 
-#### [영상 90.4.22.a101. 양식 대화상자: 아이템 더블 클릭시 프리셋의 도구 선택됨 (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a111)
+#### [영상 90.4.22.a111. 양식 대화상자: 아이템 더블 클릭시 프리셋의 도구 선택됨 (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a111)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f412bd8e-030f-4516-90a3-03955c5d6852"></video>
 
 ***
