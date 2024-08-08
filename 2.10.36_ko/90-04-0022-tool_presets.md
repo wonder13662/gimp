@@ -120,6 +120,13 @@
 
 [15.5.1.2.1.4. 이 도구 프리셋 되돌리기(Restore this tool preset) - 그림 90.4.22.a154](./15-05-01-02-01-04-restore_this_tool_preset.md#90-04-22-a154)
 
+<a id="90-04-22-a154-01"></a>
+
+#### 영상 90.4.22.a154.1. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `이 도구 프리셋 되돌리기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7a9e8526-153d-4b7e-a8ce-19c7a069e321"></video>
+
+[15.5.1.2.1.4. 이 도구 프리셋 되돌리기(Restore this tool preset) - 영상 90.4.22.a154.1](./15-05-01-02-01-04-restore_this_tool_preset.md#90-04-22-a154-01)
+
 <a id="90-04-22-a155"></a>
 
 #### 그림 90.4.22.a155. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `이 도구 프리셋 삭제하기` (Windows) (우리말)
