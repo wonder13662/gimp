@@ -1203,7 +1203,7 @@ module.exports = {
         '15.5. 그 외의 대화상자(Miscellaneous dialogs)'
       ],
       [
-        '15-05-01-tool-preset-dialog.md', 
+        '15-05-01-00-tool-preset-dialog.md', 
         '15.5.1. 도구 프리셋 대화상자(Tool preset dialog)'
       ],
       [

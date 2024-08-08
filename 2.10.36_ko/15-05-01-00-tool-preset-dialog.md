@@ -1,10 +1,8 @@
-# 15.5. 그 외의 대화상자(Miscellaneous dialogs)
+# 15.5.1. 도구 프리셋 대화상자(Tool preset dialog)
 
 ***
 
 ## 하위 페이지
-
-[15.5.1. 도구 프리셋 대화상자(Tool preset dialog)](./15-05-01-00-tool-preset-dialog.md)
 
 [15.5.1.1. 도구 프리셋 대화상자 활성화하기(Activating the dialog)](./15-05-01-01-activating_the_dialog.md)
 
@@ -44,36 +42,18 @@
 
 [15.5.1.3.9. 도구 프리셋 새로 고침(Refresh Tool Preset)](./15-05-01-03-09-refresh_tool_preset.md)
 
-[15.5.2. 도구 프리셋 편집기(Tool preset editor)](./15-05-02-tool-preset-editor.md)
-
-[15.5.3. 장치 상태 대화상자(Device status dialog)](./15-05-03-device-status-dialog.md)
-
-[15.5.4. 에러 콘솔(Error console)](./15-05-04-error-console.md)
-
-[15.5.5. 상황판(Dashboard)](./15-05-05-dashboard.md)
-
-[15.5.6. 파일 저장하기(Save file)](./15-05-06-save-file.md)
-
-[15.5.7. 파일 내보내기(Export file)](./15-05-07-export-file.md)
-
-[15.5.8. 표본점 대화상자(Sample points dialog)](./15-05-08-sample-points-dialog.md)
-
-[15.5.9. 포인터 대화상자(Pointer dialog)](./15-05-09-pointer-dialog.md)
-
-[15.5.10. 대칭 그리기 대화상자(Symmetry painting dialog)](./15-05-10-symmetry-painting-dialog.md)
-
-[15.5.11. 키보드 단축키 대화상자(Keyboard shortcut dialog)](./15-05-11-keyboard-shortcut-dialog.md)
-
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.5.1. 도구 프리셋 대화상자(Tool preset dialog)](./15-05-01-00-tool-preset-dialog.md)
+[➡️ 다음: 15.5.1.1. 도구 프리셋 대화상자 활성화하기(Activating the dialog)](./15-05-01-01-activating_the_dialog.md)
 
-[⬅️ 이전: 15.4.4.2.4.2.8. 설명(Comment)](./15-04-04-02-04-02-08-comment.md)
+[⬅️ 이전: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
+
+[⬆️ 위: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
 
 [⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-dialogs-misc.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-dialogs-misc.html#gimp-tool-preset-dialog)
