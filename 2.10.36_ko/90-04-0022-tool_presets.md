@@ -169,6 +169,76 @@
 
 [15.5.1.3. 도구 프리셋 대화상자 컨텍스트 메뉴(The Tool Presets Dialog Context Menu) - 영상 90.4.22.a161.1](./15-05-01-03-00-the_tool_presets_dialog_context_menu.md#90-04-22-a161-01)
 
+<a id="90-04-22-a171"></a>
+
+#### 그림 90.4.22.a171. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `도구 프리셋 편집` (Windows) (우리말)
+<img width="834" height="418" alt="90-04-22-a171" src="https://github.com/user-attachments/assets/ef3853ab-e3fa-4b22-9700-23fd4e0b1072" />
+
+[15.5.1.3.1. 도구 프리셋 편집(Edit Tool Preset) - 그림 90.4.22.a171](./15-05-01-03-01-edit_tool_preset.md#90-04-22-a171)
+
+<a id="90-04-22-a171-01"></a>
+
+#### 영상 90.4.22.a171.1. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `도구 프리셋 편집` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/fc0acb1e-aea7-475f-8242-8baf68d936bd"></video>
+
+[15.5.1.3.1. 도구 프리셋 편집(Edit Tool Preset) - 영상 90.4.22.a171.1](./15-05-01-03-01-edit_tool_preset.md#90-04-22-a171-01)
+
+<a id="90-04-22-a172"></a>
+
+#### 그림 90.4.22.a172. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `새 도구 프리셋` (Windows) (우리말)
+<img width="834" height="418" alt="90-04-22-a172" src="" />
+
+[15.5.1.3.2. 새 도구 프리셋(New Tool Preset) - 그림 90.4.22.a172](./15-05-01-03-02-new_tool_preset.md#90-04-22-a172)
+
+<a id="90-04-22-a173"></a>
+
+#### 그림 90.4.22.a173. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `도구 프리셋 복제` (Windows) (우리말)
+<img width="834" height="418" alt="90-04-22-a173" src="" />
+
+[15.5.1.3.3. 도구 프리셋 복제(Duplicate Tool Preset) - 그림 90.4.22.a173](./15-05-01-03-03-duplicate_tool_preset.md#90-04-22-a173)
+
+<a id="90-04-22-a174"></a>
+
+#### 그림 90.4.22.a174. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `도구 프리셋 위치 복사` (Windows) (우리말)
+<img width="834" height="418" alt="90-04-22-a174" src="" />
+
+[15.5.1.3.4. 도구 프리셋 위치 복사(Copy Tool Preset Location) - 그림 90.4.22.a174](./15-05-01-03-04-copy_tool_preset_location.md#90-04-22-a174)
+
+<a id="90-04-22-a175"></a>
+
+#### 그림 90.4.22.a175. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `파일 관리자에서 도구 프리셋 파일 보기` (Windows) (우리말)
+<img width="834" height="418" alt="90-04-22-a175" src="" />
+
+[15.5.1.3.5. 파일 관리자에서 도구 프리셋 파일 보기(Show in File Manager) - 그림 90.4.22.a175](./15-05-01-03-05-show_in_file_manager.md#90-04-22-a175)
+
+<a id="90-04-22-a176"></a>
+
+#### 그림 90.4.22.a176. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `도구 옵션을 도구 프리셋에 저장하기` (Windows) (우리말)
+<img width="834" height="418" alt="90-04-22-a176" src="" />
+
+[15.5.1.3.6. 도구 옵션을 도구 프리셋에 저장하기(Save Tool Options to Preset) - ](./15-05-01-03-06-save_tool_options_to_preset.md#)
+
+<a id="90-04-22-a177"></a>
+
+#### 그림 90.4.22.a177. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `도구 프리셋 되돌리기` (Windows) (우리말)
+<img width="834" height="418" alt="90-04-22-a177" src="" />
+
+[15.5.1.3.7. 도구 프리셋 되돌리기(Restore Tool Preset) - 그림 90.4.22.a177](./15-05-01-03-07-restore_tool_preset.md#90-04-22-a177)
+
+<a id="90-04-22-a178"></a>
+
+#### 그림 90.4.22.a178. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `도구 프리셋 삭제` (Windows) (우리말)
+<img width="834" height="418" alt="90-04-22-a178" src="" />
+
+[15.5.1.3.8. 도구 프리셋 삭제(Delete Tool Preset) - 그림 90.4.22.a178](./15-05-01-03-08-delete_tool_preset.md#90-04-22-a178)
+
+<a id="90-04-22-a179"></a>
+
+#### 그림 90.4.22.a179. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `` (Windows) (우리말)
+<img width="834" height="418" alt="90-04-22-a179" src="" />
+
+[15.5.1.3.9. 도구 프리셋 새로 고침(Refresh Tool Preset) - 그림 90.4.22.a179](./15-05-01-03-09-refresh_tool_preset.md#90-04-22-a179)
+
 <a id="90-04-22-a191"></a>
 
 #### 그림 90.4.22.a191. 도구 프리셋 대화상자 → `컨텍스트 메뉴` (Windows) (우리말)
@@ -182,6 +252,76 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/b627eca1-7003-4cd9-b601-60b24fc21f11"></video>
 
 [15.5.1.3. 도구 프리셋 대화상자 컨텍스트 메뉴(The Tool Presets Dialog Context Menu) - 그림 90.4.22.a191.1](./15-05-01-03-00-the_tool_presets_dialog_context_menu.md#90-04-22-a191-01)
+
+<a id="90-04-22-a201"></a>
+
+#### 그림 90.4.22.a201. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `도구 프리셋 편집` (Windows) (우리말)
+<img width="444" height="368" alt="90-04-22-a201" src="https://github.com/user-attachments/assets/9f97efc9-4c62-4517-9f0b-67a8b477d491" />
+
+[15.5.1.3.1. 도구 프리셋 편집(Edit Tool Preset) - 그림 90.4.22.a201](./15-05-01-03-01-edit_tool_preset.md#90-04-22-a201)
+
+<a id="90-04-22-a201-01"></a>
+
+#### 영상 90.4.22.a201.1. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `도구 프리셋 편집`: 이름 바꾸기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/09bd5649-5499-4366-929a-1407cd2e7dff"></video>
+
+[15.5.1.3.1. 도구 프리셋 편집(Edit Tool Preset) - 영상 90.4.22.a201.1](./15-05-01-03-01-edit_tool_preset.md#90-04-22-a201-01)
+
+<a id="90-04-22-a202"></a>
+
+#### 그림 90.4.22.a202. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `새 도구 프리셋` (Windows) (우리말)
+<img width="444" height="368" alt="90-04-22-a202" src="" />
+
+[15.5.1.3.2. 새 도구 프리셋(New Tool Preset) - 그림 90.4.22.a202](./15-05-01-03-02-new_tool_preset.md#90-04-22-a202)
+
+<a id="90-04-22-a203"></a>
+
+#### 그림 90.4.22.a203. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `도구 프리셋 복제` (Windows) (우리말)
+<img width="444" height="368" alt="90-04-22-a203" src="" />
+
+[15.5.1.3.3. 도구 프리셋 복제(Duplicate Tool Preset) - 그림 90.4.22.a203](./15-05-01-03-03-duplicate_tool_preset.md#90-04-22-a203)
+
+<a id="90-04-22-a204"></a>
+
+#### 그림 90.4.22.a204. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `도구 프리셋 위치 복사` (Windows) (우리말)
+<img width="444" height="368" alt="90-04-22-a204" src="" />
+
+[15.5.1.3.4. 도구 프리셋 위치 복사(Copy Tool Preset Location) - 그림 90.4.22.a204](./15-05-01-03-04-copy_tool_preset_location.md#90-04-22-a204)
+
+<a id="90-04-22-a205"></a>
+
+#### 그림 90.4.22.a205. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `파일 관리자에서 도구 프리셋 파일 보기` (Windows) (우리말)
+<img width="444" height="368" alt="90-04-22-a205" src="" />
+
+[15.5.1.3.5. 파일 관리자에서 도구 프리셋 파일 보기(Show in File Manager) - 그림 90.4.22.a205](./15-05-01-03-05-show_in_file_manager.md#90-04-22-a205)
+
+<a id="90-04-22-a206"></a>
+
+#### 그림 90.4.22.a206. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `도구 옵션을 도구 프리셋에 저장하기` (Windows) (우리말)
+<img width="444" height="368" alt="90-04-22-a206" src="" />
+
+[15.5.1.3.6. 도구 옵션을 도구 프리셋에 저장하기(Save Tool Options to Preset) - 그림 90.4.22.a206](./15-05-01-03-06-save_tool_options_to_preset.md#90-04-22-a206)
+
+<a id="90-04-22-a207"></a>
+
+#### 그림 90.4.22.a207. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `도구 프리셋 되돌리기` (Windows) (우리말)
+<img width="444" height="368" alt="90-04-22-a207" src="" />
+
+[15.5.1.3.7. 도구 프리셋 되돌리기(Restore Tool Preset) - 그림 90.4.22.a207](./15-05-01-03-07-restore_tool_preset.md#90-04-22-a207)
+
+<a id="90-04-22-a208"></a>
+
+#### 그림 90.4.22.a208. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `도구 프리셋 삭제` (Windows) (우리말)
+<img width="444" height="368" alt="90-04-22-a208" src="" />
+
+[15.5.1.3.8. 도구 프리셋 삭제(Delete Tool Preset) - 그림 90.4.22.a208](./15-05-01-03-08-delete_tool_preset.md#90-04-22-a208)
+
+<a id="90-04-22-a209"></a>
+
+#### 그림 90.4.22.a209. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `도구 프리셋 새로 고침` (Windows) (우리말)
+<img width="444" height="368" alt="90-04-22-a209" src="" />
+
+[15.5.1.3.9. 도구 프리셋 새로 고침(Refresh Tool Preset) - 그림 90.4.22.a209](./15-05-01-03-09-refresh_tool_preset.md#90-04-22-a209)
 
 ***
 
