@@ -36,6 +36,13 @@
 
 [15.3.6.3.8. 팔레트 삭제(Delete Palette) - 그림 90.4.133.a112](./15-03-06-03-08-delete_palette.md#90-04-133-a112)
 
+<a id="90-04-133-a113"></a>
+
+#### 그림 90.4.133.a113. `객체 삭제` 대화상자: 도구 프리셋 (Windows) (우리말)
+<img width="372" height="174" alt="90-04-133-a113" src="https://github.com/user-attachments/assets/bdaa803f-2bfa-4ce6-90f5-3afb1e0b7bb0" />
+
+[15.5.1.2.1.5. 이 도구 프리셋 삭제하기(Delete this tool preset) - 그림 90.4.133.a113](./15-05-01-02-01-05-delete_this_tool_preset.md#90-04-133-a113)
+
 ***
 
 ## 다른 페이지로 가기

@@ -134,6 +134,13 @@
 
 [15.5.1.2.1.5. 이 도구 프리셋 삭제하기(Delete this tool preset) - 그림 90.4.22.a155](./15-05-01-02-01-05-delete_this_tool_preset.md#90-04-22-a155)
 
+<a id="90-04-22-a155-01"></a>
+
+#### 영상 90.4.22.a155.1. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `이 도구 프리셋 삭제하기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/502e2b04-cef6-4e1b-963e-94e984cf31d7"></video>
+
+[15.5.1.2.1.5. 이 도구 프리셋 삭제하기(Delete this tool preset) - 영상 90.4.22.a155.1](./15-05-01-02-01-05-delete_this_tool_preset.md#90-04-22-a155-01)
+
 <a id="90-04-22-a156"></a>
 
 #### 그림 90.4.22.a156. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `도구 프리셋 새로 고침하기` (Windows) (우리말)

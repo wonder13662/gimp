@@ -5,6 +5,22 @@
 #### [그림 90.4.22.a155. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `이 도구 프리셋 삭제하기` (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a155)
 <img width="200" height="268" alt="90-04-22-a155" src="https://github.com/user-attachments/assets/23d039e3-28c2-4810-8f7d-82d79ade0974" />
 
+`이 도구 프리셋 삭제하기(Delete this tool preset)` 버튼을 누르면, `객체 삭제` 대화상자가 열립니다.
+
+<a id="90-04-133-a113"></a>
+
+#### [그림 90.4.133.a113. `객체 삭제` 대화상자: 도구 프리셋 (Windows) (우리말)](./90-04-0133-delete_object.md#90-04-133-a113)
+<img width="372" height="174" alt="90-04-133-a113" src="https://github.com/user-attachments/assets/bdaa803f-2bfa-4ce6-90f5-3afb1e0b7bb0" />
+
+`객체 삭제` 대화상자에서 `삭제(Delete)` 버튼을 누르면, 선택한 도구 프리셋을 지웁니다.
+
+GIMP(김프)에 기본으로 제공되는 도구 프리셋은 삭제할 수 없는 점에 주의하세요.
+
+<a id="90-04-22-a155-01"></a>
+
+#### [영상 90.4.22.a155.1. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `이 도구 프리셋 삭제하기` (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a155-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/502e2b04-cef6-4e1b-963e-94e984cf31d7"></video>
+
 ***
 
 ## 다른 페이지로 가기
