@@ -200,7 +200,7 @@
 <a id="90-04-22-a173"></a>
 
 #### 그림 90.4.22.a173. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `도구 프리셋 복제` (Windows) (우리말)
-<img width="834" height="418" alt="90-04-22-a173" src="" />
+<img width="834" height="418" alt="90-04-22-a173" src="https://github.com/user-attachments/assets/b269a1a0-5de1-44b1-8e5c-e01f151cb7bb" />
 
 [15.5.1.3.3. 도구 프리셋 복제(Duplicate Tool Preset) - 그림 90.4.22.a173](./15-05-01-03-03-duplicate_tool_preset.md#90-04-22-a173)
 
@@ -291,7 +291,7 @@
 <a id="90-04-22-a203"></a>
 
 #### 그림 90.4.22.a203. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `도구 프리셋 복제` (Windows) (우리말)
-<img width="444" height="368" alt="90-04-22-a203" src="" />
+<img width="444" height="368" alt="90-04-22-a203" src="https://github.com/user-attachments/assets/e8c23f15-3943-41b5-8e6b-814b7e0b2493" />
 
 [15.5.1.3.3. 도구 프리셋 복제(Duplicate Tool Preset) - 그림 90.4.22.a203](./15-05-01-03-03-duplicate_tool_preset.md#90-04-22-a203)
 
