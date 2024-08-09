@@ -1,6 +1,8 @@
 # 15.3.5.1. 그라디언트 대화상자 활성화하기(Activating the Gradient dialog)
 
-`그라디언트` 대화상자는 도킹이 가능한 대화상자입니다. 도킹에 대해서는 [3.2.5. 대화상자(Dialog)와 도킹(docking)](./03-02-05-00-dialogs-and-docking.md)을 참고해주세요.
+`그라디언트` 대화상자는 도킹이 가능한 대화상자입니다.
+
+도킹에 대해서는 [3.2.5. 대화상자(Dialog)와 도킹(docking)](./03-02-05-00-dialogs-and-docking.md)을 참고해주세요.
 
 <a id="15-03-05-01-s1"></a>
 
