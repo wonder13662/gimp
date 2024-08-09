@@ -14,6 +14,12 @@
 
 ***
 
+## 관련 정보
+
+[14.1.4.1. 도구 프리셋 저장...(Save Tool Preset...)](./14-01-04-01-save_tool_preset.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 15.5.1.2.1.4. 이 도구 프리셋 되돌리기(Restore this tool preset)](./15-05-01-02-01-04-restore_this_tool_preset.md)

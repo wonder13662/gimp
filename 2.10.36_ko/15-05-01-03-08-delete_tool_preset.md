@@ -31,6 +31,12 @@
 
 ***
 
+## 관련 정보
+
+[14.1.4.3. 도구 프리셋 삭제(Delete Tool Preset)](./14-01-04-03-delete_tool_preset.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 15.5.1.3.9. 도구 프리셋 새로 고침(Refresh Tool Preset)](./15-05-01-03-09-refresh_tool_preset.md)

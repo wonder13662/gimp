@@ -14,6 +14,22 @@
 
 ***
 
+## 관련 정보
+
+[7.13. 프리셋(Presets)](./07-13-presets.md)
+
+[14.1.4.1. 도구 프리셋 저장...(Save Tool Preset...)](./14-01-04-01-save_tool_preset.md)
+
+[14.1.4.3. 도구 프리셋 삭제(Delete Tool Preset)](./14-01-04-03-delete_tool_preset.md)
+
+[14.1.4.5. 도구 프리셋 수정(Edit Tool Preset)](./14-01-04-05-edit_tool_preset.md)
+
+[15.5.1. 도구 프리셋 대화상자(Tool preset dialog)](./15-05-01-00-tool-preset-dialog.md)
+
+[15.5.1.2.1.4. 이 도구 프리셋 되돌리기(Restore this tool preset)](./15-05-01-02-01-04-restore_this_tool_preset.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 14.1.4.3. 도구 프리셋 삭제(Delete Tool Preset)](./14-01-04-03-delete_tool_preset.md)

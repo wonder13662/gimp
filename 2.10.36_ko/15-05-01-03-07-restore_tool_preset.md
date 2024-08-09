@@ -31,6 +31,12 @@
 
 ***
 
+## 관련 정보
+
+[14.1.4.2. 도구 프리셋 되돌리기...(Restore Tool Preset...)](./14-01-04-02-restore_tool_preset.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 15.5.1.3.8. 도구 프리셋 삭제(Delete Tool Preset)](./15-05-01-03-08-delete_tool_preset.md)

@@ -31,6 +31,12 @@
 
 ***
 
+## 관련 정보
+
+[14.1.4.5. 도구 프리셋 수정(Edit Tool Preset)](./14-01-04-05-edit_tool_preset.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 15.5.1.3.2. 새 도구 프리셋(New Tool Preset)](./15-05-01-03-02-new_tool_preset.md)
