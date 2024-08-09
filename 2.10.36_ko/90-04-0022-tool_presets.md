@@ -207,9 +207,16 @@
 <a id="90-04-22-a174"></a>
 
 #### 그림 90.4.22.a174. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `도구 프리셋 위치 복사` (Windows) (우리말)
-<img width="834" height="418" alt="90-04-22-a174" src="" />
+<img width="834" height="418" alt="90-04-22-a174" src="https://github.com/user-attachments/assets/4d06c8cb-7fa2-41f3-8235-602ff4ef72b9" />
 
 [15.5.1.3.4. 도구 프리셋 위치 복사(Copy Tool Preset Location) - 그림 90.4.22.a174](./15-05-01-03-04-copy_tool_preset_location.md#90-04-22-a174)
+
+<a id="90-04-22-a174-01"></a>
+
+#### 영상 90.4.22.a174.1. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `도구 프리셋 위치 복사` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/c1f7c63e-8d15-45cb-b60b-2989e4dca7a8"></video>
+
+[15.5.1.3.4. 도구 프리셋 위치 복사(Copy Tool Preset Location) - 영상 90.4.22.a174.1](./15-05-01-03-04-copy_tool_preset_location.md#90-04-22-a174-01)
 
 <a id="90-04-22-a175"></a>
 
@@ -298,9 +305,16 @@
 <a id="90-04-22-a204"></a>
 
 #### 그림 90.4.22.a204. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `도구 프리셋 위치 복사` (Windows) (우리말)
-<img width="444" height="368" alt="90-04-22-a204" src="" />
+<img width="444" height="368" alt="90-04-22-a204" src="https://github.com/user-attachments/assets/6363af78-01f3-407f-ba07-e8d5dd1cc7ee" />
 
 [15.5.1.3.4. 도구 프리셋 위치 복사(Copy Tool Preset Location) - 그림 90.4.22.a204](./15-05-01-03-04-copy_tool_preset_location.md#90-04-22-a204)
+
+<a id="90-04-22-a204-01"></a>
+
+#### 영상 90.4.22.a204.1. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `도구 프리셋 위치 복사` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e0cf90f9-c242-46ac-a63a-1ae8e0ca3a89"></video>
+
+[15.5.1.3.4. 도구 프리셋 위치 복사(Copy Tool Preset Location) - 영상 90.4.22.a204.1](./15-05-01-03-04-copy_tool_preset_location.md#90-04-22-a204-01)
 
 <a id="90-04-22-a205"></a>
 
