@@ -44,12 +44,26 @@
 
 [15.5.2.2. 도구 프리셋 편집기 대화상자 사용하기(Using the Tool Preset Editor) - 그림 90.4.108.a112](./15-05-02-02-using_the_tool_preset_editor.md#90-04-108-a112)
 
+<a id="90-04-108-a112-01"></a>
+
+#### 영상 90.4.108.a112.1. `도구 프리셋 편집기` 대화상자 → `아이콘 변경` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/b41d56fe-3602-47b1-9c63-684eb3dcddb2"></video>
+
+[15.5.2.2. 도구 프리셋 편집기 대화상자 사용하기(Using the Tool Preset Editor) - 영상 90.4.108.a112.1](./15-05-02-02-using_the_tool_preset_editor.md#90-04-108-a112-01)
+
 <a id="90-04-108-a113"></a>
 
 #### 그림 90.4.108.a113. `도구 프리셋 편집기` 대화상자 → `저장할 대상` (Windows) (우리말)
 <img width="277" height="287" alt="90-04-108-a113" src="https://github.com/user-attachments/assets/f2377249-2bf3-48f2-b815-44479753646c" />
 
 [15.5.2.2. 도구 프리셋 편집기 대화상자 사용하기(Using the Tool Preset Editor) - 그림 90.4.108.a113](./15-05-02-02-using_the_tool_preset_editor.md#90-04-108-a113)
+
+<a id="90-04-108-a113-01"></a>
+
+#### 영상 90.4.108.a113.1. `도구 프리셋 편집기` 대화상자 → `저장할 대상` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/858c9263-4eb7-49cc-acb7-78e3c7c74ef5"></video>
+
+[15.5.2.2. 도구 프리셋 편집기 대화상자 사용하기(Using the Tool Preset Editor) - 영상 90.4.108.a113.1](./15-05-02-02-using_the_tool_preset_editor.md#90-04-108-a113-01)
 
 <a id="90-04-108-a114"></a>
 
