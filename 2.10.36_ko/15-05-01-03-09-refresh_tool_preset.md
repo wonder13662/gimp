@@ -33,7 +33,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.5.2. 도구 프리셋 편집기(Tool preset editor)](./15-05-02-tool-preset-editor.md)
+[➡️ 다음: 15.5.2. 도구 프리셋 편집기(Tool preset editor)](./15-05-02-00-tool-preset-editor.md)
 
 [⬅️ 이전: 15.5.1.3.8. 도구 프리셋 삭제(Delete Tool Preset)](./15-05-01-03-08-delete_tool_preset.md)
 

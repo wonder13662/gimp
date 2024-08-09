@@ -5,7 +5,7 @@
 #### [그림 90.4.22.a151. 도구 프리셋 대화상자 → 아래쪽 버튼들 → `도구 프리셋 수정` (Windows) (우리말)](./90-04-0022-tool_presets.md#90-04-22-a151)
 <img width="200" height="268" alt="90-04-22-a151" src="https://github.com/user-attachments/assets/da1ea394-9619-44bf-8e13-9861619470c5" />
 
-`도구 프리셋 수정(Edit this tool preset)` 버튼을 누르면 선택한 도구 프리셋에 대한 [도구 프리셋 편집기](./15-05-02-tool-preset-editor.md)을 엽니다.
+`도구 프리셋 수정(Edit this tool preset)` 버튼을 누르면 선택한 도구 프리셋에 대한 [도구 프리셋 편집기](./15-05-02-00-tool-preset-editor.md)을 엽니다.
 
 다만, 사용자가 직접 만든 도구 프리셋만 수정이 가능합니다.
 

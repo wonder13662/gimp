@@ -14,7 +14,7 @@
 <a id="90-04-108-a101"></a>
 
 #### [그림 90.4.108.a101. `도구 프리셋 편집기` 대화상자 (Windows) (우리말)](./90-04-0108-tool_preset_editor.md#90-04-108-a101)
-![90-04-108-a101](https://github.com/wonder13662/gimp/assets/15767104/4d9c9ef8-18ca-4b9c-bd95-049f05fc1b0f)
+<img width="277" height="287" alt="90-04-108-a101" src="https://github.com/wonder13662/gimp/assets/15767104/4d9c9ef8-18ca-4b9c-bd95-049f05fc1b0f" />
 
 [다른 운영체제와 언어의 `도구 프리셋 편집기` 대화상자 확인하기](./90-04-0108-tool_preset_editor.md#90-04-108-a102)
 

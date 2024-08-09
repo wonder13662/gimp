@@ -1207,7 +1207,7 @@ module.exports = {
         '15.5.1. 도구 프리셋 대화상자(Tool preset dialog)'
       ],
       [
-        '15-05-02-tool-preset-editor.md', 
+        '15-05-02-00-tool-preset-editor.md', 
         '15.5.2. 도구 프리셋 편집기(Tool preset editor)'
       ],
       [
