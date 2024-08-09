@@ -28,8 +28,6 @@
 
 [14.1.4.5. 도구 프리셋 수정(Edit Tool Preset)](./14-01-04-05-edit_tool_preset.md)
 
-[15.5.1. 도구 프리셋 대화상자(Tool preset dialog)](./15-05-01-00-tool-preset-dialog.md)
-
 ***
 
 ## 하위 페이지
