@@ -186,9 +186,16 @@
 <a id="90-04-22-a172"></a>
 
 #### 그림 90.4.22.a172. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `새 도구 프리셋` (Windows) (우리말)
-<img width="834" height="418" alt="90-04-22-a172" src="" />
+<img width="834" height="418" alt="90-04-22-a172" src="https://github.com/user-attachments/assets/fea2f169-b33e-44e7-a7de-7a2bd1145ecb" />
 
 [15.5.1.3.2. 새 도구 프리셋(New Tool Preset) - 그림 90.4.22.a172](./15-05-01-03-02-new_tool_preset.md#90-04-22-a172)
+
+<a id="90-04-22-a172-01"></a>
+
+#### 영상 90.4.22.a172.1. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `새 도구 프리셋` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ec0f268d-3ab8-4c43-bae3-9a295e093d12"></video>
+
+[15.5.1.3.2. 새 도구 프리셋(New Tool Preset) - 영상 90.4.22.a172.1](./15-05-01-03-02-new_tool_preset.md#90-04-22-a172-01)
 
 <a id="90-04-22-a173"></a>
 
@@ -270,9 +277,16 @@
 <a id="90-04-22-a202"></a>
 
 #### 그림 90.4.22.a202. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `새 도구 프리셋` (Windows) (우리말)
-<img width="444" height="368" alt="90-04-22-a202" src="" />
+<img width="444" height="368" alt="90-04-22-a202" src="https://github.com/user-attachments/assets/fc34be17-2656-43b0-8cc2-d7d2ff9023f7" />
 
 [15.5.1.3.2. 새 도구 프리셋(New Tool Preset) - 그림 90.4.22.a202](./15-05-01-03-02-new_tool_preset.md#90-04-22-a202)
+
+<a id="90-04-22-a202-01"></a>
+
+#### 영상 90.4.22.a202.1. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `새 도구 프리셋` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/cc3723c9-64d1-4e85-adae-89a36ddae42c"></video>
+
+[15.5.1.3.2. 새 도구 프리셋(New Tool Preset) - 영상 90.4.22.a202.1](./15-05-01-03-02-new_tool_preset.md#90-04-22-a202-01)
 
 <a id="90-04-22-a203"></a>
 
