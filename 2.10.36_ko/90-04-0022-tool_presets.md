@@ -276,10 +276,17 @@
 
 <a id="90-04-22-a179"></a>
 
-#### 그림 90.4.22.a179. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `` (Windows) (우리말)
-<img width="834" height="418" alt="90-04-22-a179" src="" />
+#### 그림 90.4.22.a179. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `도구 프리셋 새로 고침` (Windows) (우리말)
+<img width="834" height="418" alt="90-04-22-a179" src="https://github.com/user-attachments/assets/093b705c-0cf6-4488-a211-4a1614dbe4c2" />
 
 [15.5.1.3.9. 도구 프리셋 새로 고침(Refresh Tool Preset) - 그림 90.4.22.a179](./15-05-01-03-09-refresh_tool_preset.md#90-04-22-a179)
+
+<a id="90-04-22-a179-01"></a>
+
+#### 영상 90.4.22.a179.1. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `도구 프리셋 새로 고침` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/51e15882-eb03-4ded-88c5-4914cde3b663"></video>
+
+[15.5.1.3.9. 도구 프리셋 새로 고침(Refresh Tool Preset) - 영상 90.4.22.a179.1](./15-05-01-03-09-refresh_tool_preset.md#90-04-22-a179-01)
 
 <a id="90-04-22-a191"></a>
 
@@ -410,9 +417,16 @@
 <a id="90-04-22-a209"></a>
 
 #### 그림 90.4.22.a209. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `도구 프리셋 새로 고침` (Windows) (우리말)
-<img width="444" height="368" alt="90-04-22-a209" src="" />
+<img width="444" height="368" alt="90-04-22-a209" src="https://github.com/user-attachments/assets/5001434a-8546-47b3-9379-747d7f8d58be" />
 
 [15.5.1.3.9. 도구 프리셋 새로 고침(Refresh Tool Preset) - 그림 90.4.22.a209](./15-05-01-03-09-refresh_tool_preset.md#90-04-22-a209)
+
+<a id="90-04-22-a209-01"></a>
+
+#### 영상 90.4.22.a209.1. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `도구 프리셋 새로 고침` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/29bd01a3-2fc3-4cab-974a-6fedf4a8f2fb"></video>
+
+[15.5.1.3.9. 도구 프리셋 새로 고침(Refresh Tool Preset) - 영상 90.4.22.a209.1](./15-05-01-03-09-refresh_tool_preset.md#90-04-22-a209-01)
 
 ***
 
