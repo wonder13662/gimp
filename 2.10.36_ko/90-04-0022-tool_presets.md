@@ -249,9 +249,16 @@
 <a id="90-04-22-a177"></a>
 
 #### 그림 90.4.22.a177. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `도구 프리셋 되돌리기` (Windows) (우리말)
-<img width="834" height="418" alt="90-04-22-a177" src="" />
+<img width="834" height="418" alt="90-04-22-a177" src="https://github.com/user-attachments/assets/a10cb8af-6ba5-470c-96c7-be6563230177" />
 
 [15.5.1.3.7. 도구 프리셋 되돌리기(Restore Tool Preset) - 그림 90.4.22.a177](./15-05-01-03-07-restore_tool_preset.md#90-04-22-a177)
+
+<a id="90-04-22-a177-01"></a>
+
+#### 영상 90.4.22.a177.1. 도구 프리셋 대화상자 → `탭 메뉴` → `도구 프리셋 메뉴` → `도구 프리셋 되돌리기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/c9c061ff-923a-4e06-8046-b854c59f6487"></video>
+
+[15.5.1.3.7. 도구 프리셋 되돌리기(Restore Tool Preset) - 영상 90.4.22.a177.1](./15-05-01-03-07-restore_tool_preset.md#90-04-22-a177-01)
 
 <a id="90-04-22-a178"></a>
 
@@ -368,9 +375,16 @@
 <a id="90-04-22-a207"></a>
 
 #### 그림 90.4.22.a207. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `도구 프리셋 되돌리기` (Windows) (우리말)
-<img width="444" height="368" alt="90-04-22-a207" src="" />
+<img width="444" height="368" alt="90-04-22-a207" src="https://github.com/user-attachments/assets/401f52c4-0822-4d60-8d56-13f90406648a" />
 
 [15.5.1.3.7. 도구 프리셋 되돌리기(Restore Tool Preset) - 그림 90.4.22.a207](./15-05-01-03-07-restore_tool_preset.md#90-04-22-a207)
+
+<a id="90-04-22-a207-01"></a>
+
+#### 영상 90.4.22.a207.1. 도구 프리셋 대화상자 → `컨텍스트 메뉴` → `도구 프리셋 되돌리기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d8c64313-0dd1-453c-bc1d-9499b9aecfc0"></video>
+
+[15.5.1.3.7. 도구 프리셋 되돌리기(Restore Tool Preset) - 영상 90.4.22.a207.1](./15-05-01-03-07-restore_tool_preset.md#90-04-22-a207-01)
 
 <a id="90-04-22-a208"></a>
 
