@@ -5,7 +5,7 @@
 #### 그림 90.2.9.7.a101. `기본 설정` → `폴더` → `도구 프리셋` (Windows) (우리말)
 <img width="775" height="725" alt="90-02-09-07-a101" src="https://github.com/user-attachments/assets/f094200b-f67a-4b50-a976-53fcd31f4fd5" />
 
-[15.5.2.2. 도구 프리셋 편집기 대화상자 사용하기(Using the Tool Preset Editor) - 그림 90.2.9.7.a101](./15-05-02-02-using_the_tool_preset_editor.md#90-02-09-07-a101)
+[15.5.2.2. 도구 프리셋 편집기 대화상자 사용하기(Using the Tool Preset Editor) - 그림 90.2.9.7.a101](./15-05-02-02-00-using_the_tool_preset_editor.md#90-02-09-07-a101)
 
 <a id="90-02-09-07-a102"></a>
 
