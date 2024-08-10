@@ -60,24 +60,31 @@
 
 <a id="90-04-108-a113-01"></a>
 
-#### 영상 90.4.108.a113.1. `도구 프리셋 편집기` 대화상자 → `저장할 대상` (Windows) (우리말)
+#### 영상 90.4.108.a113.1. `도구 프리셋 편집기` 대화상자 → `저장할 대상`: `저장된 전경색/배경색 적용` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/858c9263-4eb7-49cc-acb7-78e3c7c74ef5"></video>
 
 [15.5.2.2. 도구 프리셋 편집기 대화상자 사용하기(Using the Tool Preset Editor) - 영상 90.4.108.a113.1](./15-05-02-02-using_the_tool_preset_editor.md#90-04-108-a113-01)
 
 <a id="90-04-108-a114"></a>
 
-#### 그림 90.4.108.a114. `도구 프리셋 편집기` 대화상자 → `프리셋 저장하기` (Windows) (우리말)
+#### 그림 90.4.108.a114. `도구 프리셋 편집기` 대화상자 → `아래쪽 버튼들` → `프리셋 저장하기` (Windows) (우리말)
 <img width="277" height="287" alt="90-04-108-a114" src="https://github.com/user-attachments/assets/375a66fc-f715-4a05-a064-90809044cb41" />
 
 [15.5.2.2. 도구 프리셋 편집기 대화상자 사용하기(Using the Tool Preset Editor) - 그림 90.4.108.a114](./15-05-02-02-using_the_tool_preset_editor.md#90-04-108-a114)
 
 <a id="90-04-108-a115"></a>
 
-#### 그림 90.4.108.a115. `도구 프리셋 편집기` 대화상자 → `프리셋 되돌리기` (Windows) (우리말)
+#### 그림 90.4.108.a115. `도구 프리셋 편집기` 대화상자 → `아래쪽 버튼들` → `프리셋 되돌리기` (Windows) (우리말)
 <img width="277" height="287" alt="90-04-108-a115" src="https://github.com/user-attachments/assets/fd23b5ab-2699-4c30-94bd-57bab08428b7" />
 
 [15.5.2.2. 도구 프리셋 편집기 대화상자 사용하기(Using the Tool Preset Editor) - 그림 90.4.108.a115](./15-05-02-02-using_the_tool_preset_editor.md#90-04-108-a115)
+
+<a id="90-04-108-a115-01"></a>
+
+#### 영상 90.4.108.a115.1. `도구 프리셋 편집기` 대화상자 → `아래쪽 버튼들` → `프리셋 되돌리기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/5df40e3c-60eb-4a1f-a571-85b009abe1c5"></video>
+
+[15.5.2.2. 도구 프리셋 편집기 대화상자 사용하기(Using the Tool Preset Editor) - 영상 90.4.108.a115.1](./15-05-02-02-using_the_tool_preset_editor.md#90-04-108-a115-01)
 
 ***
 
