@@ -2706,9 +2706,9 @@
 
 [15.5.2.3. 도구 프리셋 편집기 대화상자 컨텍스트 메뉴(Tool Preset Editor Context Menu)](./15-05-02-03-tool_preset_editor_context_menu.md)
 
-[15.5.3. 장치 상태 대화상자(Device status dialog)](./15-05-03-device-status-dialog.md)
+[15.5.3. 장치 상태 대화상자(Device status dialog)](./15-05-03-00-device-status-dialog.md)
 
-[15.5.4. 에러 콘솔(Error console)](./15-05-04-error-console.md)
+[15.5.4. 오류 콘솔(Error console)](./15-05-04-00-error-console.md)
 
 [15.5.5. 상황판(Dashboard)](./15-05-05-dashboard.md)
 

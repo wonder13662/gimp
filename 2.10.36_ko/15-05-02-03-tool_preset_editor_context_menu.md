@@ -4,7 +4,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.5.3. 장치 상태 대화상자(Device status dialog)](./15-05-03-device-status-dialog.md)
+[➡️ 다음: 15.5.3. 장치 상태 대화상자(Device status dialog)](./15-05-03-00-device-status-dialog.md)
 
 [⬅️ 이전: 15.5.2.2. 도구 프리셋 편집기 대화상자 사용하기(Using the Tool Preset Editor)](./15-05-02-02-using_the_tool_preset_editor.md)
 

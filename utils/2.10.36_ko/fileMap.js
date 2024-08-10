@@ -1211,13 +1211,13 @@ module.exports = {
         '15.5.2. 도구 프리셋 편집기(Tool preset editor)'
       ],
       [
-        '15-05-03-device-status-dialog.md', 
+        '15-05-03-00-device-status-dialog.md', 
         '15.5.3. 장치 상태 대화상자(Device status dialog)',
         '15.5.3. 장치 상태 대화상자'
       ],
       [
-        '15-05-04-error-console.md', 
-        '15.5.4. 에러 콘솔(Error console)',
+        '15-05-04-00-error-console.md', 
+        '15.5.4. 오류 콘솔(Error console)',
         '15.5.4. 오류 콘솔',
       ],
       [

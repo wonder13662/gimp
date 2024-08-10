@@ -1,0 +1,1 @@
+# 15.5.4.3.4. 선택을 파일로 저장(Save Selection to File)
