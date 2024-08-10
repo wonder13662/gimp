@@ -1,0 +1,1 @@
+# 15.5.5.1. 상황판 대화상자 활성화하기(Activating the Dialog)

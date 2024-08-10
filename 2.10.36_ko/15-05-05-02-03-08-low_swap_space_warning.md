@@ -1,0 +1,1 @@
+# 15.5.5.2.3.8. 낮은 스왑 공간 경고(Low Swap Space Warning)

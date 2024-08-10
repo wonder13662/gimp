@@ -1,0 +1,1 @@
+# 15.5.5.2.3.3. 이력 기간(History Duration)

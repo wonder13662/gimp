@@ -1,0 +1,1 @@
+# 15.5.5.2. 상황판 대화상자 사용하기(Using the Dashboard)

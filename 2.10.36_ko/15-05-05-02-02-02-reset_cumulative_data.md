@@ -1,0 +1,1 @@
+# 15.5.5.2.2. 누적 데이터 초기화(Reset cumulative data)
