@@ -111,9 +111,31 @@ GIMP(김프)에 기본으로 내장된 도구 프리셋은 수정이 불가능�
 
 ***
 
+## 하위 페이지
+
+[15.5.2.2.1. 수정 가능한 도구 프리셋의 조건(Editable Tool Preset)](./15-05-02-02-01-editable_tool_preset.md)
+
+[15.5.2.2.2. 수정된 도구 프리셋이 저장되는 경로(Tool Preset File Path)](./15-05-02-02-02-tool_preset_file_path.md)
+
+[15.5.2.2.3. 수정가능한 도구 프리셋에서 할 수 있는 작업들(Editable Tool Preset Operations)](./15-05-02-02-03-00-editable_tool_preset_operations.md)
+
+[15.5.2.2.3.1. 도구 프리셋 이름 수정하기(Edit Tool Preset Name)](./15-05-02-02-03-01-edit_tool_preset_name.md)
+
+[15.5.2.2.3.2. 도구 프리셋 아이콘 수정하기(Edit Tool Preset Icon)](./15-05-02-02-03-02-edit_tool_preset_icon.md)
+
+[15.5.2.2.3.3. 적용할 저장 대상 수정하기(Edit Apply Stored Targets)](./15-05-02-02-03-03-edit_apply_stored_targets.md)
+
+[15.5.2.2.4. 아래쪽 버튼들(Buttons at the bottom)](./15-05-02-02-04-00-buttons_at_the_bottom.md)
+
+[15.5.2.2.4.1. 도구 프리셋 저장하기(Save Tool Preset)](./15-05-02-02-04-01-save_tool_preset.md)
+
+[15.5.2.2.4.2. 도구 프리셋 되돌리기(Restore Tool Preset)](./15-05-02-02-04-02-restore_tool_preset.md)
+
+***
+
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.5.2.3. 도구 프리셋 편집기 대화상자 컨텍스트 메뉴(Tool Preset Editor Context Menu)](./15-05-02-03-00-tool_preset_editor_context_menu.md)
+[➡️ 다음: 15.5.2.2.1. 수정 가능한 도구 프리셋의 조건(Editable Tool Preset)](./15-05-02-02-01-editable_tool_preset.md)
 
 [⬅️ 이전: 15.5.2.1. 도구 프리셋 편집기 대화상자 활성화하기(Activating the dialog)](./15-05-02-01-activating_the_dialog.md)
 
