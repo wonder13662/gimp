@@ -164,9 +164,9 @@
 
 [15.5.5.2.3.8. 낮은 스왑 공간 경고(Low Swap Space Warning)](./15-05-05-02-03-08-low_swap_space_warning.md)
 
-[15.5.6. 파일 저장하기(Save file)](./15-05-06-save-file.md)
+[15.5.6. 파일 저장하기(Save file)](./15-05-06-00-save-file.md)
 
-[15.5.7. 파일 내보내기(Export file)](./15-05-07-export-file.md)
+[15.5.7. 파일 내보내기(Export file)](./15-05-07-00-export-file.md)
 
 [15.5.8. 표본점 대화상자(Sample points dialog)](./15-05-08-sample-points-dialog.md)
 

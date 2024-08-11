@@ -1225,11 +1225,11 @@ module.exports = {
         '15.5.5. 상황판(Dashboard)'
       ],
       [
-        '15-05-06-save-file.md', 
+        '15-05-06-00-save-file.md', 
         '15.5.6. 파일 저장하기(Save file)'
       ],
       [
-        '15-05-07-export-file.md', 
+        '15-05-07-00-export-file.md', 
         '15.5.7. Export file',
         '15.5.7. 파일 내보내기(Export file)'
       ],
@@ -1292,7 +1292,7 @@ module.exports = {
       ],
       [
         '16-02-08-save.md', 
-        '16.2.8. Save'
+        '16.2.8. 저장(Save)'
       ],
       [
         '16-02-09-save-as.md', 
@@ -1312,7 +1312,7 @@ module.exports = {
       ],
       [
         '16-02-13-export-as.md', 
-        '16.2.13. Export as'
+        '16.2.13. 다른 포맷으로 내보내기(Export as)'
       ],
       [
         '16-02-14-create-template.md', 
