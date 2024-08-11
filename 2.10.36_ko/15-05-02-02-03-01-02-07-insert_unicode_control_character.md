@@ -1,13 +1,18 @@
 # 15.5.2.2.3.1.2.7. 유니코드 제어 문자 넣기(Insert Unicode Control Character)
 
-<a id="90-04-108-a111-02-07"></a>
+<a id="90-04-108-a111-02-07-01"></a>
 
-#### [그림 90.4.108.a111.2.7. `도구 프리셋 편집기` 대화상자 → `이름 입력창` → `팝업 메뉴(오른쪽 클릭)` → `유니코드 제어 문자 넣기` (Windows) (우리말)](./90-04-0108-tool_preset_editor.md#90-04-108-a111-02-07)
-<img width="519" height="318" alt="90-04-108-a111-02-07" src="https://github.com/user-attachments/assets/abd58300-d296-48a1-a451-823b6b44c870" />
+#### [그림 90.4.108.a111.2.7.1. `도구 프리셋 편집기` 대화상자 → `이름 입력창` → `팝업 메뉴(오른쪽 클릭)` → `유니코드 제어 문자 넣기` (Windows) (우리말)](./90-04-0108-tool_preset_editor.md#90-04-108-a111-02-07-01)
+<img width="479" height="438" alt="90-04-108-a111-02-07-01" src="https://github.com/user-attachments/assets/063f34a1-00aa-46d3-9dea-60cacdfa0df8" />
+
+<a id="90-04-108-a111-02-07-02"></a>
+
+#### [그림 90.4.108.a111.2.7.2. `도구 프리셋 편집기` 대화상자 → `이름 입력창` → `팝업 메뉴(오른쪽 클릭)` → `유니코드 제어 문자 넣기` (Windows) (영어)](./90-04-0108-tool_preset_editor.md#90-04-108-a111-02-07-02)
+<img width="485" height="438" alt="90-04-108-a111-02-07-02" src="https://github.com/user-attachments/assets/d324cbd3-c2e5-4ebc-9a42-5b262fa4d285" />
 
 [유니코드 제어 문자](./19-glossaryx-unicode_control_character.md)를 이름에 추가합니다.
 
-(TODO 하위 메뉴 이미지 추가 필요)
+<a comment="TODO 각 유니코드 제어 문자에 대한 설명을 추가하고 최종적으로 어떤 역할을 하는 것인지 안내하는 문구가 추가되어야 함"></a>
 
 ***
 
