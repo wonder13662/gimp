@@ -42,6 +42,61 @@
 #### 그림 90.4.108.a111.2. `도구 프리셋 편집기` 대화상자 → `이름 입력창` → `팝업 메뉴(오른쪽 클릭)` (Windows) (우리말)
 <img width="519" height="318" alt="90-04-108-a111-02" src="https://github.com/user-attachments/assets/f4370d08-88f7-4fc4-9794-bfbd88443219" />
 
+[15.5.2.2.3.1. 도구 프리셋 이름 수정하기(Edit Tool Preset Name) - 그림 90.4.108.a111.2](./15-05-02-02-03-01-00-edit_tool_preset_name.md#90-04-108-a111-02)
+
+<a id="90-04-108-a111-02-01"></a>
+
+#### 그림 90.4.108.a111.2.1. `도구 프리셋 편집기` 대화상자 → `이름 입력창` → `팝업 메뉴(오른쪽 클릭)` → `잘라내기` (Windows) (우리말)
+<img width="519" height="318" alt="90-04-108-a111-02-01" src="https://github.com/user-attachments/assets/9a844b59-000e-4030-a771-edcd348d91eb" />
+
+[15.5.2.2.3.1. 도구 프리셋 이름 수정하기(Edit Tool Preset Name) - ](./15-05-02-02-03-01-00-edit_tool_preset_name.md#)
+
+<a id="90-04-108-a111-02-02"></a>
+
+#### 그림 90.4.108.a111.2.2. `도구 프리셋 편집기` 대화상자 → `이름 입력창` → `팝업 메뉴(오른쪽 클릭)` → `복사` (Windows) (우리말)
+<img width="519" height="318" alt="90-04-108-a111-02-02" src="https://github.com/user-attachments/assets/4bd11924-a800-4a81-9011-a1eb3dcee5b0" />
+
+[15.5.2.2.3.1. 도구 프리셋 이름 수정하기(Edit Tool Preset Name) - ](./15-05-02-02-03-01-00-edit_tool_preset_name.md#)
+
+<a id="90-04-108-a111-02-03"></a>
+
+#### 그림 90.4.108.a111.2.3. `도구 프리셋 편집기` 대화상자 → `이름 입력창` → `팝업 메뉴(오른쪽 클릭)` → `붙여넣기` (Windows) (우리말)
+<img width="519" height="318" alt="90-04-108-a111-02-03" src="https://github.com/user-attachments/assets/8141d5d8-6084-45f0-99b9-2df408221572" />
+
+[15.5.2.2.3.1. 도구 프리셋 이름 수정하기(Edit Tool Preset Name) - ](./15-05-02-02-03-01-00-edit_tool_preset_name.md#)
+
+<a id="90-04-108-a111-02-04"></a>
+
+#### 그림 90.4.108.a111.2.4. `도구 프리셋 편집기` 대화상자 → `이름 입력창` → `팝업 메뉴(오른쪽 클릭)` → `삭제` (Windows) (우리말)
+<img width="519" height="318" alt="90-04-108-a111-02-04" src="https://github.com/user-attachments/assets/b02f3b13-90ed-4e1e-83e8-014a037c22f0" />
+
+[15.5.2.2.3.1. 도구 프리셋 이름 수정하기(Edit Tool Preset Name) - ](./15-05-02-02-03-01-00-edit_tool_preset_name.md#)
+
+<a id="90-04-108-a111-02-05"></a>
+
+#### 그림 90.4.108.a111.2.5. `도구 프리셋 편집기` 대화상자 → `이름 입력창` → `팝업 메뉴(오른쪽 클릭)` → `모두 선택` (Windows) (우리말)
+<img width="519" height="318" alt="90-04-108-a111-02-05" src="https://github.com/user-attachments/assets/038c9441-c795-464e-8531-15601b070113" />
+
+[15.5.2.2.3.1. 도구 프리셋 이름 수정하기(Edit Tool Preset Name) - ](./15-05-02-02-03-01-00-edit_tool_preset_name.md#)
+
+<a id="90-04-108-a111-02-06"></a>
+
+#### 그림 90.4.108.a111.2.6. `도구 프리셋 편집기` 대화상자 → `이름 입력창` → `팝업 메뉴(오른쪽 클릭)` → `입력기` (Windows) (우리말)
+<img width="519" height="318" alt="90-04-108-a111-02-06" src="https://github.com/user-attachments/assets/120ff833-673c-4f9a-9f0e-57dd02864b91" />
+
+[15.5.2.2.3.1. 도구 프리셋 이름 수정하기(Edit Tool Preset Name) - ](./15-05-02-02-03-01-00-edit_tool_preset_name.md#)
+
+<a id="90-04-108-a111-02-07"></a>
+
+#### 그림 90.4.108.a111.2.7. `도구 프리셋 편집기` 대화상자 → `이름 입력창` → `팝업 메뉴(오른쪽 클릭)` → `유니코드 제어 문자 넣기` (Windows) (우리말)
+<img width="519" height="318" alt="90-04-108-a111-02-07" src="https://github.com/user-attachments/assets/abd58300-d296-48a1-a451-823b6b44c870" />
+
+[15.5.2.2.3.1. 도구 프리셋 이름 수정하기(Edit Tool Preset Name) - ](./15-05-02-02-03-01-00-edit_tool_preset_name.md#)
+
+<a id="90-04-108-a111-02-07"></a>
+
+#### 그림 90.4.108.a111.2.11. `도구 프리셋 편집기` 대화상자 → `이름 입력창` → `팝업 메뉴(오른쪽 클릭)` (Windows) (우리말)
+
 <a id="90-04-108-a112"></a>
 
 #### 그림 90.4.108.a112. `도구 프리셋 편집기` 대화상자 → `아이콘 변경` (Windows) (우리말)

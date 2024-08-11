@@ -24,7 +24,7 @@
 
 [➡️ 다음: 15.5.2.2.3.3. 적용할 저장 대상 수정하기(Edit Apply Stored Targets)](./15-05-02-02-03-03-edit_apply_stored_targets.md)
 
-[⬅️ 이전: 15.5.2.2.3.1. 도구 프리셋 이름 수정하기(Edit Tool Preset Name)](./15-05-02-02-03-01-edit_tool_preset_name.md)
+[⬅️ 이전: 15.5.2.2.3.1. 도구 프리셋 이름 수정하기(Edit Tool Preset Name)](./15-05-02-02-03-01-00-edit_tool_preset_name.md)
 
 [⬆️ 위: 15.5.2.2.3. 수정가능한 도구 프리셋에서 할 수 있는 작업들(Editable Tool Preset Operations)](./15-05-02-02-03-00-editable_tool_preset_operations.md)
 
