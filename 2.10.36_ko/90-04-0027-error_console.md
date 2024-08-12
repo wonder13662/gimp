@@ -95,6 +95,20 @@
 
 [15.5.4.3. 오류 콘솔 컨텍스트 메뉴(The Error Console Context Menu) - 영상 90.4.27.a141.1](./15-05-04-03-00-the_error_console_context_menu.md#90-04-27-a141-01)
 
+<a id="90-04-27-a151"></a>
+
+#### 그림 90.4.27.a151. `오류 콘솔` 대화상자 → `탭 메뉴` → `오류 콘솔 메뉴` → `지우기` (Windows) (우리말)
+<img width="852" height="343" alt="90-04-27-a151" src="https://github.com/user-attachments/assets/bc6ffbe5-b043-4e68-acd3-715c3aea893e" />
+
+[15.5.4.3.1. 지우기(Clear) - 그림 90.4.27.a151](./15-05-04-03-01-clear.md#90-04-27-a151)
+
+<a id="90-04-27-a151-01"></a>
+
+#### 영상 90.4.27.a151.1. `오류 콘솔` 대화상자 → `탭 메뉴` → `오류 콘솔 메뉴` → `지우기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a5ebe937-f005-45dd-b235-692f49b6350a"></video>
+
+[15.5.4.3.1. 지우기(Clear) - 영상 90.4.27.a151.1](./15-05-04-03-01-clear.md#90-04-27-a151-01)
+
 <a id="90-04-27-a161"></a>
 
 #### 그림 90.4.27.a161. `오류 콘솔` 대화상자 → `컨텍스트 메뉴(오른쪽 클릭)` (Windows) (우리말)
@@ -108,6 +122,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/3046f52b-7f85-41ab-9aa3-cba24ad1ac00"></video>
 
 [15.5.4.3. 오류 콘솔 컨텍스트 메뉴(The Error Console Context Menu) - 영상 90.4.27.a161.1](./15-05-04-03-00-the_error_console_context_menu.md#90-04-27-a161-01)
+
+<a id="90-04-27-a171"></a>
+
+#### 그림 90.4.27.a171. `오류 콘솔` 대화상자 → `컨텍스트 메뉴(오른쪽 클릭)` → `지우기` (Windows) (우리말)
+<img width="456" height="286" alt="90-04-27-a171" src="https://github.com/user-attachments/assets/18f054ba-1296-4bbc-a787-6c353b0b14a7" />
+
+[15.5.4.3.1. 지우기(Clear) - 그림 90.4.27.a171](./15-05-04-03-01-clear.md#90-04-27-a171)
+
+<a id="90-04-27-a171-01"></a>
+
+#### 영상 90.4.27.a171.1. `오류 콘솔` 대화상자 → `컨텍스트 메뉴(오른쪽 클릭)` → `지우기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7ea3529b-b00a-4128-be58-df8ba60b48cd"></video>
+
+[15.5.4.3.1. 지우기(Clear) - 영상 90.4.27.a171.1](./15-05-04-03-01-clear.md#90-04-27-a171-01)
 
 ***
 
