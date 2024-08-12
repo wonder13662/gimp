@@ -23,3 +23,27 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2b258298-39ad-49f2-bfbb-6adf74b0d1a5"></video>
 
 사용자가 수정을 하면 도구상자도 함께 바뀝니다.
+
+***
+
+## 하위 페이지
+
+[15.5.3.1. 장치 상태 대화상자 활성화하기(Activating the Dialog)](./15-05-03-01-activating_the_dialog.md)
+
+[15.5.3.2. 아래쪽 버튼들(Buttons at the bottom)](./15-05-03-02-buttons_at_the_bottom.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.5.3.1. 장치 상태 대화상자 활성화하기(Activating the Dialog)](./15-05-03-01-activating_the_dialog.md)
+
+[⬅️ 이전: 15.5.2.3.3. 활성화 도구 프리셋을 편집합니다(Edit Active Tool Preset)](./15-05-02-03-03-edit_active_tool_preset.md)
+
+[⬆️ 위: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-device-status-dialog.html)

@@ -34,6 +34,13 @@
 
 [15.5.3. 장치 상태 대화상자(Device status dialog) - 그림 90.4.2.a111](./15-05-03-00-device-status-dialog.md#90-04-02-a111)
 
+<a id="90-04-02-a121"></a>
+
+#### 그림 90.4.2.a121. `장치 상태` 대화상자 → `아래쪽 버튼` → `장치 상태 저장` (Windows) (우리말)
+<img width="200" height="165" alt="90-04-02-a121" src="https://github.com/user-attachments/assets/d61f25f1-3949-41cf-9c6d-0c629786b016" />
+
+[15.5.3.2. 아래쪽 버튼들(Buttons at the bottom) - 그림 90.4.2.a121](./15-05-03-02-buttons_at_the_bottom.md#90-04-02-a121)
+
 ***
 
 ## 다른 페이지로 가기
