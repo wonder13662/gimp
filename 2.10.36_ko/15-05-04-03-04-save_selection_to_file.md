@@ -8,7 +8,7 @@
 <a id="90-04-27-a154"></a>
 
 #### [그림 90.4.27.a154. `오류 콘솔` 대화상자 → `탭 메뉴` → `오류 콘솔 메뉴` → `선택을 파일로 저장` (Windows) (우리말)](./90-04-0027-error_console.md#90-04-27-a154)
-<img width="" height="" alt="90-04-27-a154" src="https://github.com/user-attachments/assets/4f4bb163-4c51-4646-872d-ddfb2363bbde" />
+<img width="852" height="343" alt="90-04-27-a154" src="https://github.com/user-attachments/assets/4f4bb163-4c51-4646-872d-ddfb2363bbde" />
 
 <a id="90-04-27-a154-01"></a>
 

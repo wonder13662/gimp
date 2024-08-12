@@ -140,7 +140,7 @@
 <a id="90-04-27-a154"></a>
 
 #### 그림 90.4.27.a154. `오류 콘솔` 대화상자 → `탭 메뉴` → `오류 콘솔 메뉴` → `선택을 파일로 저장` (Windows) (우리말)
-<img width="" height="" alt="90-04-27-a154" src="https://github.com/user-attachments/assets/4f4bb163-4c51-4646-872d-ddfb2363bbde" />
+<img width="852" height="343" alt="90-04-27-a154" src="https://github.com/user-attachments/assets/4f4bb163-4c51-4646-872d-ddfb2363bbde" />
 
 [15.5.4.3.4. 선택을 파일로 저장(Save Selection to File) - 그림 90.4.27.a154](./15-05-04-03-04-save_selection_to_file.md#90-04-27-a154)
 
@@ -150,6 +150,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/26498f39-7553-4214-b021-46e7656c0ca2"></video>
 
 [15.5.4.3.4. 선택을 파일로 저장(Save Selection to File) - 영상 90.4.27.a154.1](./15-05-04-03-04-save_selection_to_file.md#90-04-27-a154-01)
+
+<a id="90-04-27-a155"></a>
+
+#### 그림 90.4.27.a155. `오류 콘솔` 대화상자 → `탭 메뉴` → `오류 콘솔 메뉴` → `강조` (Windows) (우리말)
+<img width="531" height="238" alt="90-04-27-a155" src="https://github.com/user-attachments/assets/8876535f-aeef-4c2f-a572-185380c6319d" />
+
+[15.5.4.3.5. 강조(Highlight) - 그림 90.4.27.a155](./15-05-04-03-05-highlight.md#90-04-27-a155)
+
+<a id="90-04-27-a156"></a>
+
+#### 그림 90.4.27.a156. `오류 콘솔` 대화상자 → `탭 메뉴` → `오류 콘솔 메뉴` → `강조` (Windows) (영어)
+<img width="509" height="238" alt="90-04-27-a156" src="https://github.com/user-attachments/assets/3c521029-2c31-4437-b409-d31285b546fc" />
+
+[15.5.4.3.5. 강조(Highlight) - 그림 90.4.27.a156](./15-05-04-03-05-highlight.md#90-04-27-a156)
 
 <a id="90-04-27-a161"></a>
 
@@ -220,6 +234,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e42c33a1-08ae-439b-bd83-676288385c0d"></video>
 
 [15.5.4.3.4. 선택을 파일로 저장(Save Selection to File) - 영상 90.4.27.a174.1](./15-05-04-03-04-save_selection_to_file.md#90-04-27-a174-01)
+
+<a id="90-04-27-a175"></a>
+
+#### 그림 90.4.27.a175. `오류 콘솔` 대화상자 → `컨텍스트 메뉴(오른쪽 클릭)` → `강조` (Windows) (우리말)
+<img width="340" height="213" alt="90-04-27-a175" src="https://github.com/user-attachments/assets/80d22c96-e03f-4788-a528-54e49342c9d6" />
+
+[15.5.4.3.5. 강조(Highlight) - 그림 90.4.27.a175](./15-05-04-03-05-highlight.md#90-04-27-a175)
+
+<a id="90-04-27-a176"></a>
+
+#### 그림 90.4.27.a176. `오류 콘솔` 대화상자 → `컨텍스트 메뉴(오른쪽 클릭)` → `강조` (Windows) (영어)
+<img width="304" height="213" alt="90-04-27-a176" src="https://github.com/user-attachments/assets/3651f170-9b75-459d-9d5e-620a069d2fed" />
+
+[15.5.4.3.5. 강조(Highlight) - 그림 90.4.27.a176](./15-05-04-03-05-highlight.md#90-04-27-a176)
 
 ***
 
