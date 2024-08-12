@@ -51,4 +51,4 @@ Shift(⇧) 키를 누른 채로 `모든 오류 저장(Save all errors)` 버튼�
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-errors-dialog.html#idm21700)
+[원문](https://docs.gimp.org/2.10/ko/gimp-errors-dialog.html#idm21722)
