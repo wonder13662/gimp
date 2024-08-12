@@ -123,6 +123,20 @@
 
 [15.5.4.3.2. 전체 선택(Select All) - 영상 90.4.27.a152.1](./15-05-04-03-02-select_all.md#90-04-27-a152-01)
 
+<a id="90-04-27-a153"></a>
+
+#### 그림 90.4.27.a153. `오류 콘솔` 대화상자 → `탭 메뉴` → `오류 콘솔 메뉴` → `오류 기록을 파일로 저장` (Windows) (우리말)
+<img width="852" height="343" alt="90-04-27-a153" src="https://github.com/user-attachments/assets/5ed857ff-e265-40fe-afcf-f8e634330847" />
+
+[15.5.4.3.3. 오류 기록을 파일로 저장(Save Error Log to File) - 그림 90.4.27.a153](./15-05-04-03-03-save_error_log_to_file.md#90-04-27-a153)
+
+<a id="90-04-27-a153-01"></a>
+
+#### 영상 90.4.27.a153.1. `오류 콘솔` 대화상자 → `탭 메뉴` → `오류 콘솔 메뉴` → `오류 기록을 파일로 저장` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/9181aaac-2c8a-4215-a524-daf17eaa0827"></video>
+
+[15.5.4.3.3. 오류 기록을 파일로 저장(Save Error Log to File) - 영상 90.4.27.a153.1](./15-05-04-03-03-save_error_log_to_file.md#90-04-27-a153-01)
+
 <a id="90-04-27-a161"></a>
 
 #### 그림 90.4.27.a161. `오류 콘솔` 대화상자 → `컨텍스트 메뉴(오른쪽 클릭)` (Windows) (우리말)
@@ -164,6 +178,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/0a891c67-b70e-4bd2-b69d-a55ca4780213"></video>
 
 [15.5.4.3.2. 전체 선택(Select All) - 영상 90.4.27.a172.1](./15-05-04-03-02-select_all.md#90-04-27-a172-01)
+
+<a id="90-04-27-a173"></a>
+
+#### 그림 90.4.27.a173. `오류 콘솔` 대화상자 → `컨텍스트 메뉴(오른쪽 클릭)` → `오류 기록을 파일로 저장` (Windows) (우리말)
+<img width="456" height="286" alt="90-04-27-a173" src="https://github.com/user-attachments/assets/92210c2a-ab9d-465f-9387-50107a17cf67" />
+
+[15.5.4.3.3. 오류 기록을 파일로 저장(Save Error Log to File) - 그림 90.4.27.a173](./15-05-04-03-03-save_error_log_to_file.md#90-04-27-a173)
+
+<a id="90-04-27-a173-01"></a>
+
+#### 영상 90.4.27.a173.1. `오류 콘솔` 대화상자 → `컨텍스트 메뉴(오른쪽 클릭)` → `오류 기록을 파일로 저장` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ad2d4b41-b82f-4d69-a9f8-0cfd70819bca"></video>
+
+[15.5.4.3.3. 오류 기록을 파일로 저장(Save Error Log to File) - 영상 90.4.27.a173.1](./15-05-04-03-03-save_error_log_to_file.md#90-04-27-a173-01)
 
 ***
 
