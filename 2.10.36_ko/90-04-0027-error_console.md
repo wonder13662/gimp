@@ -22,6 +22,8 @@
 #### 그림 90.4.27.a101. `오류 콘솔` 대화상자 (Windows) (우리말)
 <img width="200" height="165" alt="90-04-27-a101" src="https://github.com/user-attachments/assets/baba7bfc-e076-4b32-9a8d-28090ae9b97f" />
 
+[15.5.4.2. 오류 콘솔 대화상자(The Error Console Dilalog) - 그림 90.4.27.a101](./15-05-04-02-00-the_error_console_dialog.md#90-04-27-a101)
+
 <a id="90-04-27-a102"></a>
 
 #### 그림 90.4.27.a102. `오류 콘솔` 대화상자 (Windows) (영어)
@@ -36,6 +38,34 @@
 
 #### 그림 90.4.27.a104. `오류 콘솔` 대화상자 (Mac) (영어)
 <img width="200" height="163" alt="90-04-27-a104" src="https://github.com/user-attachments/assets/f430f54f-6057-4a47-9327-448184de9060" />
+
+<a id="90-04-27-a111"></a>
+
+#### 그림 90.4.27.a111. `오류 콘솔` 대화상자 → `아래쪽 버튼들` (Windows) (우리말)
+<img width="200" height="165" alt="90-04-27-a111" src="https://github.com/user-attachments/assets/3643072a-4670-46c3-b65c-901128ea5edc" />
+
+[15.5.4.2.1. 아래쪽 버튼들(Buttons at the bottom) - 그림 90.4.27.a111](./15-05-04-02-01-00-buttons_at_the_bottom.md#90-04-27-a111)
+
+<a id="90-04-27-a121"></a>
+
+#### 그림 90.4.27.a121. `오류 콘솔` 대화상자 → `아래쪽 버튼들` → `모든 오류 지우기` (Windows) (우리말)
+<img width="200" height="165" alt="90-04-27-a121" src="https://github.com/user-attachments/assets/aa9c7e6f-5426-4bb0-a86b-137d34bbef22" />
+
+[15.5.4.2.1.1. 모든 오류 지우기(Clear errors) - 그림 90.4.27.a121](./15-05-04-02-01-01-clear_errors.md#90-04-27-a121)
+
+<a id="90-04-27-a121-01"></a>
+
+#### 영상 90.4.27.a121.1. `오류 콘솔` 대화상자 → `아래쪽 버튼들` → `모든 오류 지우기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/09b38b7a-2bd8-47fc-bf4b-b763eaa24cf3"></video>
+
+[15.5.4.2.1.1. 모든 오류 지우기(Clear errors) - 영상 90.4.27.a121.1](./15-05-04-02-01-01-clear_errors.md#90-04-27-a121-01)
+
+<a id="90-04-27-a122"></a>
+
+#### 그림 90.4.27.a122. `오류 콘솔` 대화상자 → `아래쪽 버튼들` → `모든 오류 저장` (Windows) (우리말)
+<img width="200" height="165" alt="90-04-27-a122" src="https://github.com/user-attachments/assets/2040f4a2-189d-483a-99d2-915e85048309" />
+
+[15.5.4.2.1.1. 모든 오류 저장(Save all errors) - 그림 90.4.27.a122](./15-05-04-02-01-01-clear_errors.md#90-04-27-a122)
 
 ***
 
