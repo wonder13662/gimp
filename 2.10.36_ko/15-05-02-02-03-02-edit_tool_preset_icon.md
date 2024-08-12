@@ -7,16 +7,27 @@
 
 `아이콘 변경` 버튼을 눌러서, 도구 프리셋의 아이콘을 바꿀 수 있습니다.
 
-사용자의 컴퓨터의 이미지 파일을 아이콘으로 사용할 수 있으며, 또는 GIMP(김프)가 가지고 있는 아이콘 중에서 선택할 수도 있습니다.
+`아이콘 변경` 버튼을 누르면 아래와 같은 팝업 메뉴가 나타납니다.
+
+<a id="90-04-108-a112-02"></a>
+
+#### [그림 90.4.108.a112.2. `도구 프리셋 편집기` 대화상자 → `아이콘 변경` → `팝업 메뉴(오른쪽 클릭)` (Windows) (우리말)](./90-04-0108-tool_preset_editor.md#90-04-108-a112-02)
+<img width="427" height="211" alt="90-04-108-a112-02" src="https://github.com/user-attachments/assets/8f1568b4-271f-49bc-8cac-d2ddbe005920" />
+
+- `From File...`: 사용자의 컴퓨터의 이미지 파일을 아이콘으로 선택
+- `이름 붙은 아이콘에서`: GIMP(김프)가 가지고 있는 아이콘 중에서 선택
+- `클립보드에서 아이콘 복사`: 이미지 파일 아이콘인 경우, 클립보드에 저장
+- `클립보드 아이콘 붙여넣기`: 클립보드에 저장된 이미지를 아이콘으로 선택
 
 <a id="90-04-108-a112-01"></a>
 
 #### [영상 90.4.108.a112.1. `도구 프리셋 편집기` 대화상자 → `아이콘 변경` (Windows) (우리말)](./90-04-0108-tool_preset_editor.md#90-04-108-a112-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/b41d56fe-3602-47b1-9c63-684eb3dcddb2"></video>
 
-<a id="15-05-02-02-s3-03"></a>
+<a id="90-04-108-a112-03"></a>
 
-(TODO 팝업 메뉴 내용 추가하기)
+#### [영상 90.4.108.a112.3. `도구 프리셋 편집기` 대화상자 → `아이콘 변경`: 클립보드로 아이콘 복사 및 붙여넣기 (Windows) (우리말)](./90-04-0108-tool_preset_editor.md#90-04-108-a112-03)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ce134556-ccc9-4084-bc78-d1db9ed7a349"></video>
 
 ***
 

@@ -158,6 +158,15 @@
 #### 그림 90.4.108.a112.2. `도구 프리셋 편집기` 대화상자 → `아이콘 변경` → `팝업 메뉴(오른쪽 클릭)` (Windows) (우리말)
 <img width="427" height="211" alt="90-04-108-a112-02" src="https://github.com/user-attachments/assets/8f1568b4-271f-49bc-8cac-d2ddbe005920" />
 
+[15.5.2.2.3.2. 도구 프리셋 아이콘 수정하기(Edit Tool Preset Icon) - 그림 90.4.108.a112.2](./15-05-02-02-03-02-edit_tool_preset_icon.md#90-04-108-a112-02)
+
+<a id="90-04-108-a112-03"></a>
+
+#### 영상 90.4.108.a112.3. `도구 프리셋 편집기` 대화상자 → `아이콘 변경`: 클립보드로 아이콘 복사 및 붙여넣기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ce134556-ccc9-4084-bc78-d1db9ed7a349"></video>
+
+[15.5.2.2.3.2. 도구 프리셋 아이콘 수정하기(Edit Tool Preset Icon) - 영상 90.4.108.a112.3](./15-05-02-02-03-02-edit_tool_preset_icon.md#90-04-108-a112-03)
+
 <a id="90-04-108-a113"></a>
 
 #### 그림 90.4.108.a113. `도구 프리셋 편집기` 대화상자 → `저장할 대상` (Windows) (우리말)
