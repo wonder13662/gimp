@@ -109,6 +109,20 @@
 
 [15.5.4.3.1. 지우기(Clear) - 영상 90.4.27.a151.1](./15-05-04-03-01-clear.md#90-04-27-a151-01)
 
+<a id="90-04-27-a152"></a>
+
+#### 그림 90.4.27.a152. `오류 콘솔` 대화상자 → `탭 메뉴` → `오류 콘솔 메뉴` → `전체 선택` (Windows) (우리말)
+<img width="852" height="343" alt="90-04-27-a152" src="https://github.com/user-attachments/assets/922c9843-2b40-491a-a8ac-e81222486901" />
+
+[15.5.4.3.2. 전체 선택(Select All) - 그림 90.4.27.a152](./15-05-04-03-02-select_all.md#90-04-27-a152)
+
+<a id="90-04-27-a152-01"></a>
+
+#### 영상 90.4.27.a152.1. `오류 콘솔` 대화상자 → `탭 메뉴` → `오류 콘솔 메뉴` → `전체 선택` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/cfc22190-83b9-48e6-88d2-4700acf270d0"></video>
+
+[15.5.4.3.2. 전체 선택(Select All) - 영상 90.4.27.a152.1](./15-05-04-03-02-select_all.md#90-04-27-a152-01)
+
 <a id="90-04-27-a161"></a>
 
 #### 그림 90.4.27.a161. `오류 콘솔` 대화상자 → `컨텍스트 메뉴(오른쪽 클릭)` (Windows) (우리말)
@@ -136,6 +150,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7ea3529b-b00a-4128-be58-df8ba60b48cd"></video>
 
 [15.5.4.3.1. 지우기(Clear) - 영상 90.4.27.a171.1](./15-05-04-03-01-clear.md#90-04-27-a171-01)
+
+<a id="90-04-27-a172"></a>
+
+#### 그림 90.4.27.a172. `오류 콘솔` 대화상자 → `컨텍스트 메뉴(오른쪽 클릭)` → `전체 선택` (Windows) (우리말)
+<img width="456" height="286" alt="90-04-27-a172" src="https://github.com/user-attachments/assets/af27b89d-3c21-444b-b760-dda8afabeb37" />
+
+[15.5.4.3.2. 전체 선택(Select All) - 그림 90.4.27.a172](./15-05-04-03-02-select_all.md#90-04-27-a172)
+
+<a id="90-04-27-a172-01"></a>
+
+#### 영상 90.4.27.a172.1. `오류 콘솔` 대화상자 → `컨텍스트 메뉴(오른쪽 클릭)` → `전체 선택` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/0a891c67-b70e-4bd2-b69d-a55ca4780213"></video>
+
+[15.5.4.3.2. 전체 선택(Select All) - 영상 90.4.27.a172.1](./15-05-04-03-02-select_all.md#90-04-27-a172-01)
 
 ***
 
