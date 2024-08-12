@@ -4,7 +4,7 @@
 <a id="90-04-27-a1"></a>
 
 #### 그림 90.4.27.a1. 오류 콘솔 대화상자
-![90-04-27-a1](https://github.com/wonder13662/gimp/assets/15767104/0ee69c3b-c9a7-40a3-974a-dbaedae8eb3a)
+<img width="850" height="269" alt="90-04-27-a1" src="https://github.com/user-attachments/assets/6ea1f7a0-0179-4c9c-92c4-9bea5860647b" />
 
 [13.1.2. 플러그인 사용하기(Using Plugins) - 그림 90.4.27.a1](./13-01-02-using_plugins.md#90-04-27-a1)
 
@@ -16,6 +16,26 @@
 ![90-04-27-a11](https://github.com/wonder13662/gimp/assets/15767104/0832a315-4a10-4414-97ca-57e94f997c52)
 
 [13.3.8. Script-Fu 디버깅하기(Debugging Script-Fu) - 그림 90.4.27.a11](./13-03-08-debugging_script_fu.md#90-04-27-a11)
+
+<a id="90-04-27-a101"></a>
+
+#### 그림 90.4.27.a101. `오류 콘솔` 대화상자 (Windows) (우리말)
+<img width="200" height="165" alt="90-04-27-a101" src="https://github.com/user-attachments/assets/baba7bfc-e076-4b32-9a8d-28090ae9b97f" />
+
+<a id="90-04-27-a102"></a>
+
+#### 그림 90.4.27.a102. `오류 콘솔` 대화상자 (Windows) (영어)
+<img width="200" height="165" alt="90-04-27-a102" src="https://github.com/user-attachments/assets/eee913ec-b086-4c46-84bf-fdb9c402bda7" />
+
+<a id="90-04-27-a103"></a>
+
+#### 그림 90.4.27.a103. `오류 콘솔` 대화상자 (Mac) (우리말)
+<img width="200" height="163" alt="90-04-27-a103" src="https://github.com/user-attachments/assets/d68a4210-8878-4766-99be-2883d7a510d1" />
+
+<a id="90-04-27-a104"></a>
+
+#### 그림 90.4.27.a104. `오류 콘솔` 대화상자 (Mac) (영어)
+<img width="200" height="163" alt="90-04-27-a104" src="https://github.com/user-attachments/assets/f430f54f-6057-4a47-9327-448184de9060" />
 
 ***
 

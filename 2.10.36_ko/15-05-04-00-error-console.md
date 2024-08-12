@@ -1,7 +1,11 @@
 # 15.5.4. 오류 콘솔(Error console)
-`오류 콘솔(Error console)`은 GIMP(김프)의 단편적인 경고 대화상자 메시지보다 더 많은 정보를 제공합니다.
 
-(TODO GIMP Message 대화상자 이미지 추가 - 단발성 경고 메시지)
+<a id="90-04-27-a1"></a>
+
+#### [그림 90.4.27.a1. 오류 콘솔 대화상자](./90-04-0027-error_console.md#90-04-27-a1)
+<img width="850" height="269" alt="90-04-27-a1" src="https://github.com/user-attachments/assets/6ea1f7a0-0179-4c9c-92c4-9bea5860647b" />
+
+`오류 콘솔(Error console)`은 GIMP(김프)의 단편적인 경고 대화상자 메시지보다 더 많은 정보를 제공합니다.
 
 이 대화상자에 표시되는 모든 오류들은 GIMP(김프)가 실행될 때 발생한 오류입니다.
 

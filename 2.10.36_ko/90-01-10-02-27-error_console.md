@@ -1,14 +1,23 @@
 # 90.1.10.2.27. 오류콘솔(Error Console)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.1.10.2.27.a101. `창` → `오류콘솔` (Windows)
-(TODO 이미지 추가)
 
-#### 그림 90.1.10.2.27.a102. `창` → `오류콘솔` (Mac)
-(TODO 이미지 추가)
+<a id="90-01-10-02-27-a101"></a>
 
-***
+#### 그림 90.1.10.2.27.a101. `이미지 메뉴 바` → `창` → `도킹가능한 대화` → `오류콘솔` (Windows)
+<img width="980" height="825" alt="90-01-10-02-27-a101" src="https://github.com/user-attachments/assets/88f8bc3a-24ab-4927-8bde-98c66eef2f9d" />
 
-## 관련 정보
+[15.5.4.1. 오류 콘솔 대화상자 활성화하기(Activating the Dialog) - 그림 90.1.10.2.27.a101](./15-05-04-01-activating_the_dialog.md#90-01-10-02-27-a101)
+
+<a id="90-01-10-02-27-a101-01"></a>
+
+#### 영상 90.1.10.2.27.a101.1. `이미지 메뉴 바` → `창` → `도킹가능한 대화` → `오류콘솔` (Windows)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/0b257565-7a08-4670-a62f-512a4e01c976"></video>
+
+[15.5.4.1. 오류 콘솔 대화상자 활성화하기(Activating the Dialog) - 영상 90.1.10.2.27.a101.1](./15-05-04-01-activating_the_dialog.md#90-01-10-02-27-a101-01)
+
+<a id="90-01-10-02-27-a102"></a>
+
+#### 그림 90.1.10.2.27.a102. `이미지 메뉴 바` → `창` → `도킹가능한 대화` → `오류콘솔` (Mac)
+<img width="980" height="845" alt="90-01-10-02-27-a102" src="https://github.com/user-attachments/assets/2326a2e9-0b8d-47c6-afbc-66a570efa3ca" />
 
 ***
 

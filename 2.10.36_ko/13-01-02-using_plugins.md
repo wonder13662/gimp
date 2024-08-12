@@ -6,7 +6,7 @@
 <a id="90-04-27-a1"></a>
 
 #### [그림 90.4.27.a1. 오류 콘솔 대화상자](./90-04-0027-error_console.md#90-04-27-a1)
-![90-04-27-a1](https://github.com/wonder13662/gimp/assets/15767104/0ee69c3b-c9a7-40a3-974a-dbaedae8eb3a)
+<img width="850" height="269" alt="90-04-27-a1" src="https://github.com/user-attachments/assets/6ea1f7a0-0179-4c9c-92c4-9bea5860647b" />
 
 플러그인과 GIMP(김프)의 통신 방식 때문에, 플러그인으로 이미지를 바꾼 부분에 대해 알려주지는 않습니다.
 
