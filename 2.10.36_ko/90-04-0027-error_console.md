@@ -8,6 +8,8 @@
 
 [13.1.2. 플러그인 사용하기(Using Plugins) - 그림 90.4.27.a1](./13-01-02-using_plugins.md#90-04-27-a1)
 
+[15.5.4. 오류 콘솔(Error console) - 그림 90.4.27.a1](./15-05-04-00-error-console.md#90-04-27-a1)
+
 <a comment="TODO windows 에러 메시지 노출 이미지로 교체 필요합니다."></a>
 
 <a id="90-04-27-a11"></a>
@@ -65,21 +67,21 @@
 #### 그림 90.4.27.a122. `오류 콘솔` 대화상자 → `아래쪽 버튼들` → `모든 오류 저장` (Windows) (우리말)
 <img width="200" height="165" alt="90-04-27-a122" src="https://github.com/user-attachments/assets/2040f4a2-189d-483a-99d2-915e85048309" />
 
-[15.5.4.2.1.1. 모든 오류 저장(Save all errors) - 그림 90.4.27.a122](./15-05-04-02-01-01-clear_errors.md#90-04-27-a122)
+[15.5.4.2.1.2. 모든 오류 저장(Save all errors) - 그림 90.4.27.a122](./15-05-04-02-01-02-save_all_errors.md#90-04-27-a122)
 
 <a id="90-04-27-a122-01"></a>
 
 #### 영상 90.4.27.a122.1. `오류 콘솔` 대화상자 → `아래쪽 버튼들` → `모든 오류 저장` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/83db3896-c96d-42bc-a50c-492c1140916d"></video>
 
-[15.5.4.2.1.1. 모든 오류 저장(Save all errors) - 영상 90.4.27.a122.1](./15-05-04-02-01-01-clear_errors.md#90-04-27-a122-01)
+[15.5.4.2.1.2. 모든 오류 저장(Save all errors) - 영상 90.4.27.a122.1](./15-05-04-02-01-02-save_all_errors.md#90-04-27-a122-01)
 
 <a id="90-04-27-a122-02"></a>
 
 #### 영상 90.4.27.a122.2. `오류 콘솔` 대화상자 → `아래쪽 버튼들` → `모든 오류 저장`: Shift(⇧) 키로 부분 선택 및 부분 저장 실패 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/638c837d-6d65-456b-b632-0c09effec5cf"></video>
 
-[15.5.4.2.1.1. 모든 오류 저장(Save all errors) - 영상 90.4.27.a122.2](./15-05-04-02-01-01-clear_errors.md#90-04-27-a122-02)
+[15.5.4.2.1.2. 모든 오류 저장(Save all errors) - 영상 90.4.27.a122.2](./15-05-04-02-01-02-save_all_errors.md#90-04-27-a122-02)
 
 <a id="90-04-27-a141"></a>
 

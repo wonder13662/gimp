@@ -2746,7 +2746,7 @@
 
 [15.5.4.2.1.1. 모든 오류 지우기(Clear errors)](./15-05-04-02-01-01-clear_errors.md)
 
-[15.5.4.2.1.1. 모든 오류 저장(Save all errors)](./15-05-04-02-01-02-save_all_errors.md)
+[15.5.4.2.1.2. 모든 오류 저장(Save all errors)](./15-05-04-02-01-02-save_all_errors.md)
 
 [15.5.4.3. 오류 콘솔 컨텍스트 메뉴(The Error Console Context Menu)](./15-05-04-03-00-the_error_console_context_menu.md)
 
@@ -9134,7 +9134,7 @@
 
 [15.5.4.2.1.1. 모든 오류 지우기(Clear errors)](./15-05-04-02-01-01-clear_errors.md)
 
-[15.5.4.2.1.1. 모든 오류 저장(Save all errors)](./15-05-04-02-01-02-save_all_errors.md)
+[15.5.4.2.1.2. 모든 오류 저장(Save all errors)](./15-05-04-02-01-02-save_all_errors.md)
 
 [15.5.4.3. 오류 콘솔 컨텍스트 메뉴(The Error Console Context Menu)](./15-05-04-03-00-the_error_console_context_menu.md)
 

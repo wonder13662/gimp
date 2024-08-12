@@ -1,4 +1,4 @@
-# 15.5.4.2.1.1. 모든 오류 저장(Save all errors)
+# 15.5.4.2.1.2. 모든 오류 저장(Save all errors)
 
 <a id="90-04-27-a122"></a>
 
@@ -30,3 +30,25 @@ Shift(⇧) 키를 누른 채로 `모든 오류 저장(Save all errors)` 버튼�
 
 #### [영상 90.4.27.a122.2. `오류 콘솔` 대화상자 → `아래쪽 버튼들` → `모든 오류 저장`: Shift(⇧) 키로 부분 선택 및 부분 저장 실패 (Windows) (우리말)](./90-04-0027-error_console.md#90-04-27-a122-02)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/638c837d-6d65-456b-b632-0c09effec5cf"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.5.4.3. 오류 콘솔 컨텍스트 메뉴(The Error Console Context Menu)](./15-05-04-03-00-the_error_console_context_menu.md)
+
+[⬅️ 이전: 15.5.4.2.1.1. 모든 오류 지우기(Clear errors)](./15-05-04-02-01-01-clear_errors.md)
+
+[⬆️ 위: 15.5.4.2.1. 아래쪽 버튼들(Buttons at the bottom)](./15-05-04-02-01-00-buttons_at_the_bottom.md)
+
+[⬆️ 위: 15.5.4.2. 오류 콘솔 대화상자(The Error Console Dilalog)](./15-05-04-02-00-the_error_console_dialog.md)
+
+[⬆️ 위: 15.5.4. 오류 콘솔(Error console)](./15-05-04-00-error-console.md)
+
+[⬆️ 위: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-errors-dialog.html#idm21700)
