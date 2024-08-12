@@ -137,6 +137,20 @@
 
 [15.5.4.3.3. 오류 기록을 파일로 저장(Save Error Log to File) - 영상 90.4.27.a153.1](./15-05-04-03-03-save_error_log_to_file.md#90-04-27-a153-01)
 
+<a id="90-04-27-a154"></a>
+
+#### 그림 90.4.27.a154. `오류 콘솔` 대화상자 → `탭 메뉴` → `오류 콘솔 메뉴` → `선택을 파일로 저장` (Windows) (우리말)
+<img width="" height="" alt="90-04-27-a154" src="https://github.com/user-attachments/assets/4f4bb163-4c51-4646-872d-ddfb2363bbde" />
+
+[15.5.4.3.4. 선택을 파일로 저장(Save Selection to File) - 그림 90.4.27.a154](./15-05-04-03-04-save_selection_to_file.md#90-04-27-a154)
+
+<a id="90-04-27-a154-01"></a>
+
+#### 영상 90.4.27.a154.1. `오류 콘솔` 대화상자 → `탭 메뉴` → `오류 콘솔 메뉴` → `선택을 파일로 저장` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/26498f39-7553-4214-b021-46e7656c0ca2"></video>
+
+[15.5.4.3.4. 선택을 파일로 저장(Save Selection to File) - 영상 90.4.27.a154.1](./15-05-04-03-04-save_selection_to_file.md#90-04-27-a154-01)
+
 <a id="90-04-27-a161"></a>
 
 #### 그림 90.4.27.a161. `오류 콘솔` 대화상자 → `컨텍스트 메뉴(오른쪽 클릭)` (Windows) (우리말)
@@ -192,6 +206,20 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ad2d4b41-b82f-4d69-a9f8-0cfd70819bca"></video>
 
 [15.5.4.3.3. 오류 기록을 파일로 저장(Save Error Log to File) - 영상 90.4.27.a173.1](./15-05-04-03-03-save_error_log_to_file.md#90-04-27-a173-01)
+
+<a id="90-04-27-a174"></a>
+
+#### 그림 90.4.27.a174. `오류 콘솔` 대화상자 → `컨텍스트 메뉴(오른쪽 클릭)` → `선택을 파일로 저장` (Windows) (우리말)
+<img width="456" height="286" alt="90-04-27-a174" src="https://github.com/user-attachments/assets/71ba1483-4985-458d-a6f8-03216d3524a2" />
+
+[15.5.4.3.4. 선택을 파일로 저장(Save Selection to File) - 그림 90.4.27.a174](./15-05-04-03-04-save_selection_to_file.md#90-04-27-a174)
+
+<a id="90-04-27-a174-01"></a>
+
+#### 영상 90.4.27.a174.1. `오류 콘솔` 대화상자 → `컨텍스트 메뉴(오른쪽 클릭)` → `선택을 파일로 저장` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e42c33a1-08ae-439b-bd83-676288385c0d"></video>
+
+[15.5.4.3.4. 선택을 파일로 저장(Save Selection to File) - 영상 90.4.27.a174.1](./15-05-04-03-04-save_selection_to_file.md#90-04-27-a174-01)
 
 ***
 
