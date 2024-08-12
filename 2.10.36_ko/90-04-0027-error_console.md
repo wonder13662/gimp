@@ -67,6 +67,20 @@
 
 [15.5.4.2.1.1. 모든 오류 저장(Save all errors) - 그림 90.4.27.a122](./15-05-04-02-01-01-clear_errors.md#90-04-27-a122)
 
+<a id="90-04-27-a122-01"></a>
+
+#### 영상 90.4.27.a122.1. `오류 콘솔` 대화상자 → `아래쪽 버튼들` → `모든 오류 저장` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/83db3896-c96d-42bc-a50c-492c1140916d"></video>
+
+[15.5.4.2.1.1. 모든 오류 저장(Save all errors) - 영상 90.4.27.a122.1](./15-05-04-02-01-01-clear_errors.md#90-04-27-a122-01)
+
+<a id="90-04-27-a122-02"></a>
+
+#### 영상 90.4.27.a122.2. `오류 콘솔` 대화상자 → `아래쪽 버튼들` → `모든 오류 저장`: Shift(⇧) 키로 부분 선택 및 부분 저장 실패 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/638c837d-6d65-456b-b632-0c09effec5cf"></video>
+
+[15.5.4.2.1.1. 모든 오류 저장(Save all errors) - 영상 90.4.27.a122.2](./15-05-04-02-01-01-clear_errors.md#90-04-27-a122-02)
+
 ***
 
 ## 다른 페이지로 가기
