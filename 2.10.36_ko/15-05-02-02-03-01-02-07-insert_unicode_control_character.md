@@ -12,6 +12,26 @@
 
 [유니코드 제어 문자](./19-glossaryx-unicode_control_character.md)를 이름에 추가합니다.
 
+유니코드 제어 문자는 시각적으로 보여지는 것이 아닌 기능적인 역할을 합니다.
+
+GIMP(김프)에서 제공되는 유니코드 제어 문자는 문자를 쓰는 방향이 오른쪽에서 왼쪽인 페르시아어, 아랍어, 히브리어등을 표시할 때 사용됩니다.
+
+또한 두개의 문자가 합쳐 다른 모양을 표시하는 언어의 접합자(joiner)를 사용할 수도 있습니다.
+
+유니코드 제어 문자의 역할은 아래 링크를 참고해주세요.
+
+- [유니코드 제어 문자(Unicode Control Character)](./19-glossaryx-unicode_control_character.md)
+- [LRM(Left-to-Right mark)](./19-glossaryx-unicode_control_character-lrm.md)
+- [RLM(Right-to-left mark)](./19-glossaryx-unicode_control_character-rlm.md)
+- [LRE(Left-to-right embedding)](./19-glossaryx-unicode_control_character-lre.md)
+- [RLE(Right-to-left embedding)](./19-glossaryx-unicode_control_character-rle.md)
+- [LRO(Left-to-right override)](./19-glossaryx-unicode_control_character-lro.md)
+- [RLO(Right-to-left override)](./19-glossaryx-unicode_control_character-rlo.md)
+- [PDF(Pop directional formatting)](./19-glossaryx-unicode_control_character-pdf.md)
+- [ZWS(Zero width space)](./19-glossaryx-unicode_control_character-zws.md)
+- [ZWJ(Zero width joiner)](./19-glossaryx-unicode_control_character-zwj.md)
+- [ZWNJ(Zero width non-joiner)](./19-glossaryx-unicode_control_character-zwnj.md)
+
 <a comment="TODO 각 유니코드 제어 문자에 대한 설명을 추가하고 최종적으로 어떤 역할을 하는 것인지 안내하는 문구가 추가되어야 함"></a>
 
 ***
