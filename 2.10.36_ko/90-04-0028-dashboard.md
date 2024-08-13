@@ -1,7 +1,31 @@
 # 90.4.28. 상황판(Dashboard)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.4.28.a1. 상황판 대화상자
-<img width="1080" alt="그림 90.4.28.a1. 상황판 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/fa2ca202-348d-44d4-aeb7-b620c7fb2036">
+
+<a id="90-04-28-a1"></a>
+
+#### 그림 90.4.28.a1. `상황판` 대화상자
+<img width="850" height="269" alt="90-04-28-a1" src="https://github.com/user-attachments/assets/920cd973-287b-4bef-b3a9-11ec62522b73" />
+
+[15.5.5. 상황판(Dashboard) - 그림 90.4.28.a1](./15-05-05-00-dashboard.md#90-04-28-a1)
+
+<a id="90-04-28-a101"></a>
+
+#### 그림 90.4.28.a101. `상황판` 대화상자 (Windows) (우리말)
+<img width="200" height="165" alt="90-04-28-a101" src="https://github.com/user-attachments/assets/87928319-f04d-49de-b45a-477854f2b7ac" />
+
+<a id="90-04-28-a102"></a>
+
+#### 그림 90.4.28.a102. `상황판` 대화상자 (Windows) (영어)
+<img width="200" height="165" alt="90-04-28-a102" src="https://github.com/user-attachments/assets/34758321-8f96-43c0-bdcc-ac51bd0dfbad" />
+
+<a id="90-04-28-a103"></a>
+
+#### 그림 90.4.28.a103. `상황판` 대화상자 (Mac) (우리말)
+<img width="200" height="156" alt="90-04-28-a103" src="https://github.com/user-attachments/assets/03bbd5c7-29e2-47cd-b0d4-575fbecca95b" />
+
+<a id="90-04-28-a104"></a>
+
+#### 그림 90.4.28.a104. `상황판` 대화상자 (Mac) (영어)
+<img width="200" height="156" alt="90-04-28-a104" src="https://github.com/user-attachments/assets/00747674-bd24-42fb-b080-88ddaeeefa6a" />
 
 ***
 

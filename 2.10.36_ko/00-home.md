@@ -4836,7 +4836,7 @@
 
 [90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 
-[90.2.1. 시스템 리소스 (System Resource)](./90-02-01-system-resource.md)
+[90.2.1. 시스템 자원 (System Resource)](./90-02-01-system-resource.md)
 
 [90.2.2. 색상관리 (Color Management)](./90-02-02-color-management.md)
 
@@ -11228,7 +11228,7 @@
 
 [90.2. 기본 설정(Preference)](./90-02-00-preference.md)
 
-[90.2.1. 시스템 리소스 (System Resource)](./90-02-01-system-resource.md)
+[90.2.1. 시스템 자원 (System Resource)](./90-02-01-system-resource.md)
 
 [90.2.2. 색상관리 (Color Management)](./90-02-02-color-management.md)
 

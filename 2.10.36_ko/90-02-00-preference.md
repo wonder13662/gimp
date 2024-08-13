@@ -7,7 +7,7 @@
 
 [12.1.1. 소개 - 그림 90.2.a1](./12-01-01-introduction.md#90-02-a1)
 
-## [90.2.1. 시스템 리소스(System Resource)](./90-02-01-system-resource.md)
+## [90.2.1. 시스템 자원(System Resource)](./90-02-01-system-resource.md)
 [<img width="720" alt="90.2.1.a1. 언어설정: 우리말 (한국어) - windows" src="https://github.com/wonder13662/gimp/assets/15767104/566c6134-42c4-4db7-a9e7-105608e1b9fa">](./90-02-01-system-resource.md)
 
 ## [90.2.2. 색상관리 (Color Management)](./90-02-02-color-management.md)
@@ -112,7 +112,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.2.1. 시스템 리소스 (System Resource)](./90-02-01-system-resource.md)
+[➡️ 다음: 90.2.1. 시스템 자원 (System Resource)](./90-02-01-system-resource.md)
 
 [⬅️ 이전: 90.1.11.2. 도움말(Help) - 사용자 설명서(User manual)](./90-01-11-10-user_manual.md)
 

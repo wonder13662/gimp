@@ -98,7 +98,7 @@ const doAsyncJob = async () => {
           '',
           '## [90.2. 기본 설정(Preference)](./90-02-00-preference.md)',
           '',
-          '#### 그림 90.2.1.a101. 시스템 리소스 (Windows) (우리말)',
+          '#### 그림 90.2.1.a101. 시스템 자원 (Windows) (우리말)',
           '<img width="962" height="760" alt="90-02-01-a101" src="https://github.com/wonder13662/gimp/assets/15767104/2752c284-09dc-4bf0-9adc-58ea2bc58b21" />',
         ].join('\n'),
         file: '90-02-00-preference.md',        
