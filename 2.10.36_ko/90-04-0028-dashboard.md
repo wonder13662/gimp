@@ -106,6 +106,31 @@
 
 [15.5.5.2.1.5. 기타(Misc) - 그림 90.4.28.a125.1](./15-05-05-02-01-05-misc.md#90-04-28-a125-01)
 
+<a id="90-04-28-a131"></a>
+
+#### 그림 90.4.28.a131. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `탭 메뉴` (Windows) (우리말)
+<img width="411" height="254" alt="90-04-28-a131" src="https://github.com/user-attachments/assets/41c1de44-e43c-4053-9a98-24b136e68029" />
+
+<a id="90-04-28-a151"></a>
+
+#### 그림 90.4.28.a151. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `탭 메뉴` → `그룹` (Windows) (우리말)
+<img width="503" height="254" alt="90-04-28-a151" src="https://github.com/user-attachments/assets/79a324c0-4d0f-4e3d-88b5-013db78e374f" />
+
+<a id="90-04-28-a152-05"></a>
+
+#### 그림 90.4.28.a152.5. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `탭 메뉴` → `그룹` → `기타` (Windows) (우리말)
+<img width="503" height="254" alt="90-04-28-a152-05" src="https://github.com/user-attachments/assets/6466b9ff-10b0-4138-940a-d50f9748ac2c" />
+
+<a id="90-04-28-a171"></a>
+
+#### 그림 90.4.28.a171. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `탭 메뉴` → `업데이트 시간 간격` (Windows) (우리말)
+<img width="503" height="254" alt="90-04-28-a171" src="https://github.com/user-attachments/assets/a37a0d33-6fd8-4c79-9bcf-69de10c63766" />
+
+<a id="90-04-28-a191"></a>
+
+#### 그림 90.4.28.a191. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `탭 메뉴` → `기록 기간` (Windows) (우리말)
+<img width="500" height="254" alt="90-04-28-a191" src="https://github.com/user-attachments/assets/79e590d5-7b8c-4e64-aa57-7dcf6a766adc" />
+
 ***
 
 ## 다른 페이지로 가기
