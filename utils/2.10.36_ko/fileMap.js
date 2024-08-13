@@ -1254,7 +1254,7 @@ module.exports = {
         '16. 메뉴(Menus)'
       ],
       [
-        '16-01-introduction-to-menus.md', 
+        '16-01-00-introduction_to_menus.md', 
         '16.1. Introduction to menus'
       ],
       [
