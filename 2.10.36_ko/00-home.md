@@ -2788,7 +2788,7 @@
 
 [15.5.5.2.3.2. 업데이트 간격(Update Interval)](./15-05-05-02-03-02-update_interval.md)
 
-[15.5.5.2.3.3. 이력 기간(History Duration)](./15-05-05-02-03-03-history_duration copy.md)
+[15.5.5.2.3.3. 기록 기간(History Duration)](./15-05-05-02-03-03-history_duration copy.md)
 
 [15.5.5.2.3.4. 기록 시작/중단(Start/Stop Recording)](./15-05-05-02-03-04-start_stop_recording.md)
 
@@ -9176,7 +9176,7 @@
 
 [15.5.5.2.3.2. 업데이트 간격(Update Interval)](./15-05-05-02-03-02-update_interval.md)
 
-[15.5.5.2.3.3. 이력 기간(History Duration)](./15-05-05-02-03-03-history_duration copy.md)
+[15.5.5.2.3.3. 기록 기간(History Duration)](./15-05-05-02-03-03-history_duration copy.md)
 
 [15.5.5.2.3.4. 기록 시작/중단(Start/Stop Recording)](./15-05-05-02-03-04-start_stop_recording.md)
 

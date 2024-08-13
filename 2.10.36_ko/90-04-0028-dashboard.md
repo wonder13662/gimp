@@ -108,28 +108,57 @@
 
 <a id="90-04-28-a131"></a>
 
-#### 그림 90.4.28.a131. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `탭 메뉴` (Windows) (우리말)
+#### 그림 90.4.28.a131. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` (Windows) (우리말)
 <img width="411" height="254" alt="90-04-28-a131" src="https://github.com/user-attachments/assets/41c1de44-e43c-4053-9a98-24b136e68029" />
+
+[15.5.5.2.3. 상황판 컨텍스트 메뉴(Dashboard Context Menu) - 그림 90.4.28.a131](./15-05-05-02-03-00-dashboard_context_menu.md#90-04-28-a131)
 
 <a id="90-04-28-a151"></a>
 
-#### 그림 90.4.28.a151. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `탭 메뉴` → `그룹` (Windows) (우리말)
+#### 그림 90.4.28.a151. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `그룹` (Windows) (우리말)
 <img width="503" height="254" alt="90-04-28-a151" src="https://github.com/user-attachments/assets/79a324c0-4d0f-4e3d-88b5-013db78e374f" />
+
+[15.5.5.2.3.1. 그룹(Group) - 그림 90.4.28.a151](./15-05-05-02-03-01-group.md#90-04-28-a151)
 
 <a id="90-04-28-a152-05"></a>
 
-#### 그림 90.4.28.a152.5. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `탭 메뉴` → `그룹` → `기타` (Windows) (우리말)
+#### 그림 90.4.28.a152.5. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `그룹` → `기타` (Windows) (우리말)
 <img width="503" height="254" alt="90-04-28-a152-05" src="https://github.com/user-attachments/assets/6466b9ff-10b0-4138-940a-d50f9748ac2c" />
 
 <a id="90-04-28-a171"></a>
 
-#### 그림 90.4.28.a171. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `탭 메뉴` → `업데이트 시간 간격` (Windows) (우리말)
+#### 그림 90.4.28.a171. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `업데이트 시간 간격` (Windows) (우리말)
 <img width="503" height="254" alt="90-04-28-a171" src="https://github.com/user-attachments/assets/a37a0d33-6fd8-4c79-9bcf-69de10c63766" />
+
+[15.5.5.2.3.2. 업데이트 간격(Update Interval) - 그림 90.4.28.a171](./15-05-05-02-03-02-update_interval.md#90-04-28-a171)
 
 <a id="90-04-28-a191"></a>
 
-#### 그림 90.4.28.a191. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `탭 메뉴` → `기록 기간` (Windows) (우리말)
+#### 그림 90.4.28.a191. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `기록 기간` (Windows) (우리말)
 <img width="500" height="254" alt="90-04-28-a191" src="https://github.com/user-attachments/assets/79e590d5-7b8c-4e64-aa57-7dcf6a766adc" />
+
+[15.5.5.2.3.3. 기록 기간(History Duration) - 그림 90.4.28.a191](./15-05-05-02-03-03-history_duration%20copy.md#90-04-28-a191)
+
+<a id="90-04-28-a201"></a>
+
+#### 그림 90.4.28.a201. `상황판` 대화상자 → `아래쪽 버튼들` (Windows) (우리말)
+<img width="200" height="165" alt="90-04-28-a201" src="https://github.com/user-attachments/assets/15b4b24e-ff91-4bba-b8d1-7e5586ea74d4" />
+
+[15.5.5.2.2. 아래쪽 버튼들(Buttons at the bottom) - 그림 90.4.28.a201](./15-05-05-02-02-00-buttons_at_the_bottom.md#90-04-28-a201)
+
+<a id="90-04-28-a211"></a>
+
+#### 그림 90.4.28.a211. `상황판` 대화상자 → `성능 기록 저장 시작/중단` (Windows) (우리말)
+<img width="200" height="165" alt="90-04-28-a211" src="https://github.com/user-attachments/assets/569979cf-35e4-4679-9bab-5d82b8a35f80" />
+
+[15.5.5.2.2.1. 성능 기록 저장 시작/중단(Start/Stop Recording Performance Log) - 그림 90.4.28.a211](./15-05-05-02-02-01-start_stop_recording_performance_log.md#90-04-28-a211)
+
+<a id="90-04-28-a212"></a>
+
+#### 그림 90.4.28.a212. `상황판` 대화상자 → `누적 데이터 초기화` (Windows) (우리말)
+<img width="200" height="165" alt="90-04-28-a212" src="https://github.com/user-attachments/assets/06f65ef4-836d-4984-85cf-bee69775b6c1" />
+
+[15.5.5.2.2.2. 누적 데이터 초기화(Reset cumulative data) - 그림 90.4.28.a212](./15-05-05-02-02-02-reset_cumulative_data.md#90-04-28-a212)
 
 ***
 
