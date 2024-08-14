@@ -20,10 +20,10 @@ const {
 const doAsyncJob = async () => {
   try {
     // 1-1. 시작 페이지 이름
-    const head = '15-05-04-00-error-console.md'
+    const head = '15-00-dialogs.md'
     // 1-2. 종료 페이지 이름
-    const tail = '15-05-04-03-05-highlight.md'
-    // const tail = head
+    // const tail = '15-05-05-02-03-08-low_swap_space_warning.md'
+    const tail = head
 
     // 2. 모든 페이지 파일의 목록을 가져온다.
     const pageRootPath = getPageRootPath()

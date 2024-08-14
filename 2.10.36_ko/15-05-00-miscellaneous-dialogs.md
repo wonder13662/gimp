@@ -140,19 +140,21 @@
 
 [15.5.5.2.1.4. 메모리(Memory)](./15-05-05-02-01-04-memory.md)
 
+[15.5.5.2.1.5. 기타(Misc)](./15-05-05-02-01-05-misc.md)
+
 [15.5.5.2.2. 아래쪽 버튼들(Buttons at the bottom)](./15-05-05-02-02-00-buttons_at_the_bottom.md)
 
-[15.5.5.2.2. 아래쪽 버튼들(Buttons at the bottom)](./15-05-05-02-02-01-start_stop_recording_performance_log.md)
+[15.5.5.2.2.1. 성능 기록 저장 시작/중단(Start/Stop Recording Performance Log)](./15-05-05-02-02-01-start_stop_recording_performance_log.md)
 
-[15.5.5.2.2. 누적 데이터 초기화(Reset cumulative data)](./15-05-05-02-02-02-reset_cumulative_data.md)
+[15.5.5.2.2.2. 누적 데이터 초기화(Reset cumulative data)](./15-05-05-02-02-02-reset_cumulative_data.md)
 
-[15.5.5.2.2. 아래쪽 버튼들(Buttons at the bottom)](./15-05-05-02-03-00-dashboard_context_menu.md)
+[15.5.5.2.3. 상황판 컨텍스트 메뉴(Dashboard Context Menu)](./15-05-05-02-03-00-dashboard_context_menu.md)
 
 [15.5.5.2.3.1. 그룹(Group)](./15-05-05-02-03-01-group.md)
 
 [15.5.5.2.3.2. 업데이트 간격(Update Interval)](./15-05-05-02-03-02-update_interval.md)
 
-[15.5.5.2.3.3. 기록 기간(History Duration)](./15-05-05-02-03-03-history_duration copy.md)
+[15.5.5.2.3.3. 기록 기간(History Duration)](./15-05-05-02-03-03-history_duration.md)
 
 [15.5.5.2.3.4. 녹화 시작/중단(Start/Stop Recording)](./15-05-05-02-03-04-start_stop_recording.md)
 
@@ -166,7 +168,17 @@
 
 [15.5.6. 파일 저장하기(Save file)](./15-05-06-00-save-file.md)
 
+[15.5.6.1. 파일 저장하기 대화상자 활성화하기(Activate the Dialog)](./15-05-06-01-activate_the_dialog.md)
+
+[15.5.6.2. 이미지 저장하기 대화상자(The save image dialog)](./15-05-06-02-the_save_image_dialog.md)
+
 [15.5.7. 파일 내보내기(Export file)](./15-05-07-00-export-file.md)
+
+[15.5.7.1. 파일 내보내기 대화상자 활성화하기(Activate the dialog)](./15-05-07-01-activate_the_dialog.md)
+
+[15.5.7.2. 이미지 내보내기 대화상자(The export image dialog)](./15-05-07-02-the_export_image_dialog.md)
+
+[15.5.7.3. 내보내기(Exporting)](./15-05-07-03-exporting.md)
 
 [15.5.8. 표본점 대화상자(Sample points dialog)](./15-05-08-sample-points-dialog.md)
 

@@ -30,3 +30,25 @@ Shift(⇧) 키를 누른채로 이 버튼을 눌러서 빈 마커를 추가할 �
 
 #### [영상 90.4.28.a194.2. `상황판` 대화상자 → `아래쪽 버튼들` → `빈 마커 추가` (Windows) (우리말)](./90-04-0028-dashboard.md#90-04-28-a194-02)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/75f4d95e-98e7-4650-862e-7be42c013e12"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.5.5.2.3.7. 초기화(Reset)](./15-05-05-02-03-07-reset.md)
+
+[⬅️ 이전: 15.5.5.2.3.5. 마커 추가(Add Marker)](./15-05-05-02-03-05-add_marker.md)
+
+[⬆️ 위: 15.5.5.2.3. 상황판 컨텍스트 메뉴(Dashboard Context Menu)](./15-05-05-02-03-00-dashboard_context_menu.md)
+
+[⬆️ 위: 15.5.5.2. 상황판 대화상자 사용하기(Using the Dashboard)](./15-05-05-02-00-using_the_dashboard.md)
+
+[⬆️ 위: 15.5.5. 상황판(Dashboard)](./15-05-05-00-dashboard.md)
+
+[⬆️ 위: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-dashboard-dialog.html#idm21827)
