@@ -35,7 +35,7 @@ GIMP에서 [이미지 메뉴바](./03-02-04-02-image-menu.md#32222-이미지-메
 <a id="90-04-34-a101"></a>
 
 #### [그림 90.4.34.a101. `Export As...` 대화상자 (Windows) (우리말)](./90-04-0034-export_as.md#90-04-34-a101)
-![90-04-34-a101](https://github.com/wonder13662/gimp/assets/15767104/b633f0c9-d50d-42f3-b43d-9e7a848ff01e)
+<img width="720" height="609" alt="90-04-34-a101" src="https://github.com/wonder13662/gimp/assets/15767104/b633f0c9-d50d-42f3-b43d-9e7a848ff01e" />
 
 [다른 운영체제와 언어의 `Export As...` 대화상자 확인하기](./90-04-0034-export_as.md#90-04-34-a102)
 
