@@ -29,8 +29,8 @@ GIMP에서 [이미지 메뉴바](./03-02-04-02-image-menu.md#32222-이미지-메
 
 <a id="90-01-01-13-a101"></a>
 
-#### [그림 90.1.1.13.a101. `파일(File)` → `Export As...` 메뉴의 위치](./90-01-01-13-export_as.md#90-01-01-13-a101)
-![90-01-01-13-a101](https://github.com/wonder13662/gimp/assets/15767104/2762d1a1-b41e-4087-9a3c-d6321facc69a)
+#### [그림 90.1.1.13.a101. `이미지 메뉴 바` → `파일` → `다른 이름으로 이미지 내보내기`](./90-01-01-13-export_as.md#90-01-01-13-a101)
+<img width="980" height="605" alt="90-01-01-13-a101" src="https://github.com/user-attachments/assets/7efc670d-3cd3-44fc-b9e2-b3331f261585" />
 
 <a id="90-04-34-a101"></a>
 
