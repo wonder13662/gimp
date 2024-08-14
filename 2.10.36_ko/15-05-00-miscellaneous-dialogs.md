@@ -154,7 +154,7 @@
 
 [15.5.5.2.3.3. 기록 기간(History Duration)](./15-05-05-02-03-03-history_duration copy.md)
 
-[15.5.5.2.3.4. 기록 시작/중단(Start/Stop Recording)](./15-05-05-02-03-04-start_stop_recording.md)
+[15.5.5.2.3.4. 녹화 시작/중단(Start/Stop Recording)](./15-05-05-02-03-04-start_stop_recording.md)
 
 [15.5.5.2.3.5. 마커 추가(Add Marker)](./15-05-05-02-03-05-add_marker.md)
 

@@ -146,6 +146,48 @@
 
 [15.5.5.2.3.3. 기록 기간(History Duration) - 그림 90.4.28.a191](./15-05-05-02-03-03-history_duration%20copy.md#90-04-28-a191)
 
+<a id="90-04-28-a192"></a>
+
+#### 그림 90.4.28.a192. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `녹화 시작/중단` (Windows) (우리말)
+<img width="411" height="254" alt="90-04-28-a192" src="https://github.com/user-attachments/assets/ed8028c0-1eb0-47a8-9a2e-f25461611d17" />
+
+[15.5.5.2.3.4. 녹화 시작/중단(Start/Stop Recording) - 그림 90.4.28.a192](./15-05-05-02-03-04-start_stop_recording.md#90-04-28-a192)
+
+<a id="90-04-28-a192-01"></a>
+
+#### 영상 90.4.28.a192.1. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `녹화 시작/중단` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d24822ca-f607-496f-8dbb-cd3eed9eccfc"></video>
+
+[15.5.5.2.3.4. 녹화 시작/중단(Start/Stop Recording) - 영상 90.4.28.a192.1](./15-05-05-02-03-04-start_stop_recording.md#90-04-28-a192-01)
+
+<a id="90-04-28-a193"></a>
+
+#### 그림 90.4.28.a193. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `마커 추가` (Windows) (우리말)
+<img width="411" height="254" alt="90-04-28-a193" src="https://github.com/user-attachments/assets/0c3337b7-2a86-4006-9f01-572325baa2ef" />
+
+[15.5.5.2.3.5. 마커 추가(Add Marker) - 그림 90.4.28.a193](./15-05-05-02-03-05-add_marker.md#90-04-28-a193)
+
+<a id="90-04-28-a194"></a>
+
+#### 그림 90.4.28.a194. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `빈 마커 추가` (Windows) (우리말)
+<img width="411" height="254" alt="90-04-28-a194" src="https://github.com/user-attachments/assets/29a96953-962d-4368-a895-7ab06de1df4a" />
+
+[15.5.5.2.3.6. 빈 마커 추가(Add Empty Marker) - 그림 90.4.28.a194](./15-05-05-02-03-06-add_empty_marker.md#90-04-28-a194)
+
+<a id="90-04-28-a195"></a>
+
+#### 그림 90.4.28.a195. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `초기화` (Windows) (우리말)
+<img width="411" height="254" alt="90-04-28-a195" src="https://github.com/user-attachments/assets/c259dce6-02eb-4fb2-8584-a98ad3c28d50" />
+
+[15.5.5.2.3.7. 초기화(Reset) - 그림 90.4.28.a195](./15-05-05-02-03-07-reset.md#90-04-28-a195)
+
+<a id="90-04-28-a196"></a>
+
+#### 그림 90.4.28.a196. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `스왑 공간 부족 경고` (Windows) (우리말)
+<img width="411" height="254" alt="90-04-28-a196" src="https://github.com/user-attachments/assets/7faf696f-d319-4992-9a1c-d88f759d268f" />
+
+[15.5.5.2.3.8. 낮은 스왑 공간 경고(Low Swap Space Warning) - 그림 90.4.28.a196](./15-05-05-02-03-08-low_swap_space_warning.md#90-04-28-a196)
+
 <a id="90-04-28-a201"></a>
 
 #### 그림 90.4.28.a201. `상황판` 대화상자 → `아래쪽 버튼들` (Windows) (우리말)
@@ -155,14 +197,21 @@
 
 <a id="90-04-28-a211"></a>
 
-#### 그림 90.4.28.a211. `상황판` 대화상자 → `성능 기록 저장 시작/중단` (Windows) (우리말)
+#### 그림 90.4.28.a211. `상황판` 대화상자 → `아래쪽 버튼들` → `성능 기록 저장 시작/중단` (Windows) (우리말)
 <img width="200" height="165" alt="90-04-28-a211" src="https://github.com/user-attachments/assets/569979cf-35e4-4679-9bab-5d82b8a35f80" />
 
 [15.5.5.2.2.1. 성능 기록 저장 시작/중단(Start/Stop Recording Performance Log) - 그림 90.4.28.a211](./15-05-05-02-02-01-start_stop_recording_performance_log.md#90-04-28-a211)
 
+<a id="90-04-28-a211-01"></a>
+
+#### 영상 90.4.28.a211.1. `상황판` 대화상자 → `아래쪽 버튼들` → `성능 기록 저장 시작/중단` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/28369f27-6fdd-42c7-9075-ecd315b3de7c"></video>
+
+[15.5.5.2.2.1. 성능 기록 저장 시작/중단(Start/Stop Recording Performance Log) - 영상 90.4.28.a211.1](./15-05-05-02-02-01-start_stop_recording_performance_log.md#90-04-28-a211-01)
+
 <a id="90-04-28-a212"></a>
 
-#### 그림 90.4.28.a212. `상황판` 대화상자 → `누적 데이터 초기화` (Windows) (우리말)
+#### 그림 90.4.28.a212. `상황판` 대화상자 → `아래쪽 버튼들` → `누적 데이터 초기화` (Windows) (우리말)
 <img width="200" height="165" alt="90-04-28-a212" src="https://github.com/user-attachments/assets/06f65ef4-836d-4984-85cf-bee69775b6c1" />
 
 [15.5.5.2.2.2. 누적 데이터 초기화(Reset cumulative data) - 그림 90.4.28.a212](./15-05-05-02-02-02-reset_cumulative_data.md#90-04-28-a212)
