@@ -188,6 +188,20 @@
 
 [15.5.5.2.3.6. 빈 마커 추가(Add Empty Marker) - 그림 90.4.28.a194](./15-05-05-02-03-06-add_empty_marker.md#90-04-28-a194)
 
+<a id="90-04-28-a194-01"></a>
+
+#### 영상 90.4.28.a194.1. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `빈 마커 추가` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2923a5ab-98b8-4f53-8470-4ef08031a909"></video>
+
+[15.5.5.2.3.6. 빈 마커 추가(Add Empty Marker) - 영상 90.4.28.a194.1](./15-05-05-02-03-06-add_empty_marker.md#90-04-28-a194-01)
+
+<a id="90-04-28-a194-02"></a>
+
+#### 영상 90.4.28.a194.2. `상황판` 대화상자 → `아래쪽 버튼들` → `빈 마커 추가` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/75f4d95e-98e7-4650-862e-7be42c013e12"></video>
+
+[15.5.5.2.3.6. 빈 마커 추가(Add Empty Marker) - 영상 90.4.28.a194.2](./15-05-05-02-03-06-add_empty_marker.md#90-04-28-a194-02)
+
 <a id="90-04-28-a195"></a>
 
 #### 그림 90.4.28.a195. `상황판` 대화상자 → `탭 메뉴` → `대시보드 메뉴` → `초기화` (Windows) (우리말)
