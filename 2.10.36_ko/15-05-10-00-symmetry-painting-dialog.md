@@ -1,0 +1,1 @@
+# 15.5.10. 대칭 그리기 대화상자(Symmetry painting dialog)

@@ -1,0 +1,1 @@
+# 15.5.8.3. 표본점 대화상자 설명(Sample points dialog description)

@@ -55,7 +55,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.5.8. 표본점 대화상자(Sample points dialog)](./15-05-08-sample-points-dialog.md)
+[➡️ 다음: 15.5.8. 표본점 대화상자(Sample points dialog)](./15-05-08-00-sample-points-dialog.md)
 
 [⬅️ 이전: 15.5.7.2. 이미지 내보내기 대화상자(The export image dialog)](./15-05-07-02-the_export_image_dialog.md)
 

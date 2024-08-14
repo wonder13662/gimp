@@ -1,0 +1,1 @@
+# 15.5.11. 키보드 단축키 대화상자(Keyboard shortcut dialog)

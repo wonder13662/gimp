@@ -1,0 +1,1 @@
+# 15.5.8.2. 표본점 사용하기(Using sample points)

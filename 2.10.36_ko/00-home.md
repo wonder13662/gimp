@@ -2834,13 +2834,13 @@
 
 [15.5.7.3. 내보내기(Exporting)](./15-05-07-03-exporting.md)
 
-[15.5.8. 표본점 대화상자(Sample points dialog)](./15-05-08-sample-points-dialog.md)
+[15.5.8. 표본점 대화상자(Sample points dialog)](./15-05-08-00-sample-points-dialog.md)
 
-[15.5.9. 포인터 대화상자(Pointer dialog)](./15-05-09-pointer-dialog.md)
+[15.5.9. 포인터 대화상자(Pointer dialog)](./15-05-09-00-pointer-dialog.md)
 
-[15.5.10. 대칭 그리기 대화상자(Symmetry painting dialog)](./15-05-10-symmetry-painting-dialog.md)
+[15.5.10. 대칭 그리기 대화상자(Symmetry painting dialog)](./15-05-10-00-symmetry-painting-dialog.md)
 
-[15.5.11. 키보드 단축키 대화상자(Keyboard shortcut dialog)](./15-05-11-keyboard-shortcut-dialog.md)
+[15.5.11. 키보드 단축키 대화상자(Keyboard shortcut dialog)](./15-05-11-00-keyboard-shortcut-dialog.md)
 
 [16. 메뉴(Menus)](./16-00-menus.md)
 

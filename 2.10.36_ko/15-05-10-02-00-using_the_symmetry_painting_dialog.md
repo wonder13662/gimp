@@ -1,0 +1,1 @@
+# 15.5.10.2. 대칭 그리기 대화상자 사용하기(Using the Symmetry Painting dialog)

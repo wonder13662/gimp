@@ -1,0 +1,1 @@
+# 15.5.8.1. 표본점 대화상자 활성화하기(Activate the Dialog)
