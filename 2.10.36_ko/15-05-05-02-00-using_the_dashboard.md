@@ -5,7 +5,7 @@
 #### [그림 90.4.28.a101. `상황판` 대화상자 (Windows) (우리말)](./90-04-0028-dashboard.md#90-04-28-a101)
 <img width="200" height="165" alt="90-04-28-a101" src="https://github.com/user-attachments/assets/87928319-f04d-49de-b45a-477854f2b7ac" />
 
-
+[다른 운영체제와 언어의 `상황판` 대화상자 확인하기](./90-04-0028-dashboard.md#90-04-28-a102)
 
 ***
 
