@@ -33,6 +33,11 @@
 #### [그림 90.1.1.13.a101. `이미지 메뉴 바` → `파일` → `다른 이름으로 이미지 내보내기`](./90-01-01-13-export_as.md#90-01-01-13-a101)
 <img width="980" height="605" alt="90-01-01-13-a101" src="https://github.com/user-attachments/assets/7efc670d-3cd3-44fc-b9e2-b3331f261585" />
 
+<a id="90-01-01-13-a101-01"></a>
+
+#### [영상 90.1.1.13.a101.1. `이미지 메뉴 바` → `파일` → `다른 이름으로 이미지 내보내기` (Windows) (우리말)](./90-01-01-13-export_as.md#90-01-01-13-a101-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2b0b4cbd-1730-4881-a9f6-075f02037f71"></video>
+
 <a id="15-05-07-01-s4"></a>
 
 ## 4. Ctrl(⌘) + Shift(⇧) + E
