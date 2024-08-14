@@ -52,3 +52,21 @@
 
 #### [영상 90.4.34.a132. `이미지 내보내기` 대화상자 → `파일 유형`: 파일 유형(포맷)을 선택 (Windows) (우리말)](./90-04-0034-export_as.md#90-04-34-a132)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e1535365-9c16-4981-a514-c3ec5153c34b"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.5.7.3. 내보내기(Exporting)](./15-05-07-03-exporting.md)
+
+[⬅️ 이전: 15.5.7.1. 파일 내보내기 대화상자 활성화하기(Activate the dialog)](./15-05-07-01-activate_the_dialog.md)
+
+[⬆️ 위: 15.5.7. 파일 내보내기(Export file)](./15-05-07-00-export-file.md)
+
+[⬆️ 위: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-export-dialog.html#idm22037)

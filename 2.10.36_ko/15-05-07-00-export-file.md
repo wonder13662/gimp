@@ -16,3 +16,29 @@ GIMP(김프)는 [`이미지 메뉴 바` → `파일` → `저장`](./16-02-08-sa
 ## 관련 정보
 
 [Gimp-Forum.net: Gimp exported image gets darker](https://www.gimp-forum.net/Thread-Gimp-exported-image-gets-darker)
+
+***
+
+## 하위 페이지
+
+[15.5.7.1. 파일 내보내기 대화상자 활성화하기(Activate the dialog)](./15-05-07-01-activate_the_dialog.md)
+
+[15.5.7.2. 이미지 내보내기 대화상자(The export image dialog)](./15-05-07-02-the_export_image_dialog.md)
+
+[15.5.7.3. 내보내기(Exporting)](./15-05-07-03-exporting.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.5.7.1. 파일 내보내기 대화상자 활성화하기(Activate the dialog)](./15-05-07-01-activate_the_dialog.md)
+
+[⬅️ 이전: 15.5.6.2. 이미지 저장하기 대화상자(The save image dialog)](./15-05-06-02-the_save_image_dialog.md)
+
+[⬆️ 위: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-export-dialog.html)

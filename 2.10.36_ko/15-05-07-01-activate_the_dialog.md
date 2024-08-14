@@ -41,3 +41,21 @@
 
 #### [영상 90.1.1.13.a101.1. `이미지 메뉴 바` → `파일` → `다른 이름으로 이미지 내보내기` (Windows) (우리말)](./90-01-01-13-export_as.md#90-01-01-13-a101-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2b0b4cbd-1730-4881-a9f6-075f02037f71"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.5.7.2. 이미지 내보내기 대화상자(The export image dialog)](./15-05-07-02-the_export_image_dialog.md)
+
+[⬅️ 이전: 15.5.7. 파일 내보내기(Export file)](./15-05-07-00-export-file.md)
+
+[⬆️ 위: 15.5.7. 파일 내보내기(Export file)](./15-05-07-00-export-file.md)
+
+[⬆️ 위: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-export-dialog.html)
