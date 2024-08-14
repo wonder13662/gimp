@@ -59,3 +59,21 @@
 
 #### [영상 90.4.55.a161.1. `이미지 저장` 대화상자 → `파일 유형 선택` (Windows) (우리말)](./90-04-0055-save_image.md#90-04-55-a161-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/71fc565d-9570-4a76-8ad4-b9b0fd5f7c54"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.5.7. 파일 내보내기(Export file)](./15-05-07-00-export-file.md)
+
+[⬅️ 이전: 15.5.6.1. 파일 저장하기 대화상자 활성화하기(Activate the Dialog)](./15-05-06-01-activate_the_dialog.md)
+
+[⬆️ 위: 15.5.6. 파일 저장하기(Save file)](./15-05-06-00-save-file.md)
+
+[⬆️ 위: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-save-dialog.html#idm22010)

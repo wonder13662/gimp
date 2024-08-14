@@ -31,3 +31,21 @@
 
 #### [영상 90.4.55.a121. `이미지 저장` 대화상자: Ctrl(⌘) + Shift(⇧) + `S`로 작업중인 이미지를 다른 이름으로 저장하기 (Windows) (우리말)](./90-04-0055-save_image.md#90-04-55-a121)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2a0bb465-fe32-42d0-ad7e-46a566c7ef7c"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.5.6.2. 이미지 저장하기 대화상자(The save image dialog)](./15-05-06-02-the_save_image_dialog.md)
+
+[⬅️ 이전: 15.5.6. 파일 저장하기(Save file)](./15-05-06-00-save-file.md)
+
+[⬆️ 위: 15.5.6. 파일 저장하기(Save file)](./15-05-06-00-save-file.md)
+
+[⬆️ 위: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-save-dialog.html#idm21991)
