@@ -1,12 +1,25 @@
 # 15.5.8.3. 표본점 대화상자 설명(Sample points dialog description)
-(TODO 대화상자 이미지 필요)
 
-The information about four sample points is displayed in this window.
+<a id="90-04-12-a101"></a>
 
-You can create more.
+#### [그림 90.4.12.a101. `표본점` 대화상자 (Windows) (우리말)](./90-04-0012-sample_points.md#90-04-12-a101)
+<img width="251" height="213" alt="90-04-12-a101" src="https://github.com/user-attachments/assets/d2b51ae0-93f2-4d97-aa53-dc4d44baee4e" />
 
-## 1. 색상 모드
-In the drop-down list, you can choose between:
+사용자가 이미지 창에 추가한 `표본점`들의 정보가 `표본점` 대화상자에 표시됩니다.
+
+## 1. 색상 모델
+
+<a id="90-04-12-a151"></a>
+
+#### [그림 90.4.12.a151. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델` (Windows) (우리말)](./90-04-0012-sample_points.md#90-04-12-a151)
+<img width="251" height="213" alt="90-04-12-a151" src="https://github.com/user-attachments/assets/96855c67-6ad4-45ef-851b-ef5ef194f4fb" />
+
+<a id="90-04-12-a151-01"></a>
+
+#### [그림 90.4.12.a151.1. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델`: 드롭다운 목록 (Windows) (우리말)](./90-04-0012-sample_points.md#90-04-12-a151-01)
+<img width="258" height="361" alt="90-04-12-a151-01" src="https://github.com/user-attachments/assets/4f71aa20-b817-46a1-ad30-bb2fb7de43f3" />
+
+`표본점` 대화상자의 `표본점`의 [색상 모델](./19-glossaryx-color_model.md)을 선택할 수 있습니다.
 
 - [픽셀(Pixel)](./15-05-08-03-01-pixel.md)
 - [RGB (%)](./15-05-08-03-02-rgb.md)
@@ -18,13 +31,20 @@ In the drop-down list, you can choose between:
 - [CIE Yuv](./15-05-08-03-08-cie_yuv.md)
 - [CMYK](./15-05-08-03-09-cmyk.md)
 
-Data are supplied for every channel in the chosen color mode.
+표시되는 모든 채널의 정보는 선택한 [색상 모델](./19-glossaryx-color_model.md)마다 다릅니다.
 
-## 2. 알파 채널
-The Alpha is present only if the image holds an Alpha channel.
+<a id="90-04-12-a151-02"></a>
 
-## 3. Hex
-`Hex` appears only with the RGB mode.
-(TODO 관련 이미지 추가 필요)
+#### [영상 90.4.12.a151.2. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델`: 드롭다운 목록 (Windows) (우리말)](./90-04-0012-sample_points.md#90-04-12-a151-02)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/243eb24b-9f03-44b4-b0bb-19a9f5c31b7f"></video>
 
-That's the hexadecimal code of the [HTML 표기(HTML Notation)†](./19-glossaryx-html_notation.md)
+## 2. 16진수(Hex)
+
+<a id="90-04-12-a161"></a>
+
+#### [그림 90.4.12.a161. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델` → `16진수` (Windows) (우리말)](./90-04-0012-sample_points.md#90-04-12-a161)
+<img width="251" height="213" alt="90-04-12-a161" src="https://github.com/user-attachments/assets/cc1d9fcb-55aa-4767-85a3-9f2a2c38ba50" />
+
+`16진수(Hex)`는 [RGB (%)](./15-05-08-03-02-rgb.md)와 [RGB (0...255)](./15-05-08-03-03-rgb_0_255.md)에서만 표시됩니다.
+
+이는 색상을 [HTML 표기(HTML Notation)](./19-glossaryx-html_notation.md)로 16진수로 표시한 것입니다.

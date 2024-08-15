@@ -12,6 +12,8 @@
 #### 그림 90.4.12.a101. `표본점` 대화상자 (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a101" src="https://github.com/user-attachments/assets/d2b51ae0-93f2-4d97-aa53-dc4d44baee4e" />
 
+[15.5.8.3. 표본점 대화상자 설명(Sample points dialog description) - 그림 90.4.12.a101](./15-05-08-03-00-sample_points_dialog_description.md#90-04-12-a101)
+
 <a id="90-04-12-a102"></a>
 
 #### 그림 90.4.12.a102. `표본점` 대화상자 (Windows) (영어)
@@ -68,6 +70,34 @@
 <img width="706" height="318" alt="90-04-12-a141" src="https://github.com/user-attachments/assets/0b659271-9a08-453a-b7a8-ea619e8031cd" />
 
 [15.5.8.2.5. 표본 합치기(Sample Merged) - 그림 90.4.12.a141](./15-05-08-02-05-sample_merged.md#90-04-12-a141)
+
+<a id="90-04-12-a151"></a>
+
+#### 그림 90.4.12.a151. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델` (Windows) (우리말)
+<img width="251" height="213" alt="90-04-12-a151" src="https://github.com/user-attachments/assets/96855c67-6ad4-45ef-851b-ef5ef194f4fb" />
+
+[15.5.8.3. 표본점 대화상자 설명(Sample points dialog description) - 그림 90.4.12.a151](./15-05-08-03-00-sample_points_dialog_description.md#90-04-12-a151)
+
+<a id="90-04-12-a151-01"></a>
+
+#### 그림 90.4.12.a151.1. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델`: 드롭다운 목록 (Windows) (우리말)
+<img width="258" height="361" alt="90-04-12-a151-01" src="https://github.com/user-attachments/assets/4f71aa20-b817-46a1-ad30-bb2fb7de43f3" />
+
+[15.5.8.3. 표본점 대화상자 설명(Sample points dialog description) - 그림 90.4.12.a151.1](./15-05-08-03-00-sample_points_dialog_description.md#90-04-12-a151-01)
+
+<a id="90-04-12-a151-02"></a>
+
+#### 영상 90.4.12.a151.2. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델`: 드롭다운 목록 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/243eb24b-9f03-44b4-b0bb-19a9f5c31b7f"></video>
+
+[15.5.8.3. 표본점 대화상자 설명(Sample points dialog description) - 영상 90.4.12.a151.2](./15-05-08-03-00-sample_points_dialog_description.md#90-04-12-a151-02)
+
+<a id="90-04-12-a161"></a>
+
+#### 그림 90.4.12.a161. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델` → `16진수` (Windows) (우리말)
+<img width="251" height="213" alt="90-04-12-a161" src="https://github.com/user-attachments/assets/cc1d9fcb-55aa-4767-85a3-9f2a2c38ba50" />
+
+[15.5.8.3. 표본점 대화상자 설명(Sample points dialog description) - 그림 90.4.12.a161](./15-05-08-03-00-sample_points_dialog_description.md#90-04-12-a161)
 
 ***
 
