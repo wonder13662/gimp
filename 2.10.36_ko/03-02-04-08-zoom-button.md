@@ -29,7 +29,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 3.2.4.9. 상태 표시 영역 (Status Area)](./03-02-04-09-status-area.md)
+[➡️ 다음: 3.2.4.9. 상태 표시 영역(Status Area)](./03-02-04-09-status-area.md)
 
 [⬅️ 이전: 3.2.4.7. 단위 메뉴 (Units Menu)](./03-02-04-07-units-menu.md)
 

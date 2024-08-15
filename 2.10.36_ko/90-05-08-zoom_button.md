@@ -25,7 +25,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5.9. 상태 표시 영역 (Status Area)](./90-05-09-status_area.md)
+[➡️ 다음: 90.5.9. 상태 표시 영역(Status Area)](./90-05-09-status_area.md)
 
 [⬅️ 이전: 90.5.7. 단위 메뉴 (Units Menu)](./90-05-07-units_menu.md)
 

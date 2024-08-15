@@ -1618,8 +1618,8 @@ module.exports = {
         '16.5.17. Show grid'
       ],
       [
-        '16-05-18-show-sample-points.md', 
-        '16.5.18. Show sample points'
+        '16-05-18-show_sample_points.md', 
+        '16.5.18. 표본점 보이기(Show sample points)'
       ],
       [
         '16-05-19-snap-to-guides.md', 

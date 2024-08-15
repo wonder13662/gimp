@@ -27,7 +27,7 @@
 
 [➡️ 다음: 90.5.11. 내비게이션 (Navigation Control)](./90-05-11-navigation_control.md)
 
-[⬅️ 이전: 90.5.9. 상태 표시 영역 (Status Area)](./90-05-09-status_area.md)
+[⬅️ 이전: 90.5.9. 상태 표시 영역(Status Area)](./90-05-09-status_area.md)
 
 [⬆️ 위: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

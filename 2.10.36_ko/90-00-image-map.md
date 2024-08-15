@@ -1533,7 +1533,7 @@
 
 [90.5.8. 확대/축소 버튼 (Zoom Button)](./90-05-08-zoom_button.md)
 
-[90.5.9. 상태 표시 영역 (Status Area)](./90-05-09-status_area.md)
+[90.5.9. 상태 표시 영역(Status Area)](./90-05-09-status_area.md)
 
 [90.5.10. 취소 버튼 (Cancel Button)](./90-05-10-cancel_button.md)
 

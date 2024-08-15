@@ -44,7 +44,7 @@ GIMP 사용자 인터페이스는 2가지 모드가 가능합니다. [단일창 
 
 [3.2.4.8. 확대/축소 버튼 (Zoom Button)](./03-02-04-08-zoom-button.md)
 
-[3.2.4.9. 상태 표시 영역 (Status Area)](./03-02-04-09-status-area.md)
+[3.2.4.9. 상태 표시 영역(Status Area)](./03-02-04-09-status-area.md)
 
 [3.2.4.10. 취소 버튼 (Cancel Button)](./03-02-04-10-cancel-button.md)
 

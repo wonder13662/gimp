@@ -21,7 +21,7 @@
 
 ### 1-1. RGB
 
-[`RGB`](./19-glossaryx-color_mode_rgb.md)는 Red(빨강), Green(초록), Blue(파랑)을 의미합니다. 그리고 이미지의 각 점(픽셀)은 "red", "green", "blue"의 각 레벨로 표시합니다. 이로써 색상을 가지는 이미지로 표시됩니다. 각 색상 [채널](./19-glossaryx-channel.md)은 256 단계의 강도를 가집니다. 더 자세한 내용은 [컬러 모델(Color Models)](./19-glossaryx-color-model.md)을 참고해주세요.
+[`RGB`](./19-glossaryx-color_mode_rgb.md)는 Red(빨강), Green(초록), Blue(파랑)을 의미합니다. 그리고 이미지의 각 점(픽셀)은 "red", "green", "blue"의 각 레벨로 표시합니다. 이로써 색상을 가지는 이미지로 표시됩니다. 각 색상 [채널](./19-glossaryx-channel.md)은 256 단계의 강도를 가집니다. 더 자세한 내용은 [컬러 모델(Color Models)](./19-glossaryx-color_model.md)을 참고해주세요.
 
 `RGB` 이미지는 3개의 컬러 채널을 가지고 있습니다. `RGB` 이미지는 3개의 컬러 채널(Red(빨강), Green(초록), Blue(파랑))을 포개어 놓은 것으로 생각할 수 있습니다. 
 

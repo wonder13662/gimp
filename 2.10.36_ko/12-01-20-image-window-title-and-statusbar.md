@@ -45,7 +45,7 @@
 
 [3.2.4.1. 타이틀 바(Title Bar)](./03-02-04-01-title-bar.md)
 
-[3.2.4.9. 상태 표시 영역 (Status Area)](./03-02-04-09-status-area.md)
+[3.2.4.9. 상태 표시 영역(Status Area)](./03-02-04-09-status-area.md)
 
 ***
 

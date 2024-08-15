@@ -33,7 +33,7 @@
 ## 다른 페이지로 가기
 [➡️ 다음: 3.2.4.11. 내비게이션 (Navigation Control)](./03-02-04-11-navigation-control.md)
 
-[⬅️ 이전: 3.2.4.9. 상태 표시 영역 (Status Area)](./03-02-04-09-status-area.md)
+[⬅️ 이전: 3.2.4.9. 상태 표시 영역(Status Area)](./03-02-04-09-status-area.md)
 
 [⬆️ 위: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image_window.md)
 

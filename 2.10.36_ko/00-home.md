@@ -52,7 +52,7 @@
 
 [3.2.4.8. 확대/축소 버튼 (Zoom Button)](./03-02-04-08-zoom-button.md)
 
-[3.2.4.9. 상태 표시 영역 (Status Area)](./03-02-04-09-status-area.md)
+[3.2.4.9. 상태 표시 영역(Status Area)](./03-02-04-09-status-area.md)
 
 [3.2.4.10. 취소 버튼 (Cancel Button)](./03-02-04-10-cancel-button.md)
 
@@ -3050,7 +3050,7 @@
 
 [16.5.17. Show grid](./16-05-17-show-grid.md)
 
-[16.5.18. Show sample points](./16-05-18-show-sample-points.md)
+[16.5.18. 표본점 보이기(Show sample points)](./16-05-18-show_sample_points.md)
 
 [16.5.19. Snap to guides](./16-05-19-snap-to-guides.md)
 
@@ -3866,9 +3866,9 @@
 
 [19. 용어집 - CIE Lab](./19-glossaryx-cie_lab.md)
 
-[19. 용어집 - CMYK](./19-glossaryx-cmyk.md)
+[19. 용어집 - CMYK](./19-glossaryx-color_model_cmyk.md)
 
-[19. 용어집 - 색상 모델(Color Model)](./19-glossaryx-color-model.md)
+[19. 용어집 - 색상 모델(Color Model)](./19-glossaryx-color_model.md)
 
 [19. 용어집 - 색상 영역(Color Area)](./19-glossaryx-color_area.md)
 
@@ -5590,7 +5590,7 @@
 
 [90.5.8. 확대/축소 버튼 (Zoom Button)](./90-05-08-zoom_button.md)
 
-[90.5.9. 상태 표시 영역 (Status Area)](./90-05-09-status_area.md)
+[90.5.9. 상태 표시 영역(Status Area)](./90-05-09-status_area.md)
 
 [90.5.10. 취소 버튼 (Cancel Button)](./90-05-10-cancel_button.md)
 
