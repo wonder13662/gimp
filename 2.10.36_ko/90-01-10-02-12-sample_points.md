@@ -1,14 +1,23 @@
 # 90.1.10.2.12. 표본점(Sample Points)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.1.10.2.12.a101. `창` → `표본점` (Windows)
-(TODO 이미지 추가)
 
-#### 그림 90.1.10.2.12.a102. `창` → `표본점` (Mac)
-(TODO 이미지 추가)
+<a id="90-01-10-02-12-a101"></a>
 
-***
+#### 그림 90.1.10.2.12.a101. `이미지 메뉴 바` → `창` → `도킹가능한 대화` → `표본점` (Windows)
+<img width="980" height="825" alt="90-01-10-02-12-a101" src="https://github.com/user-attachments/assets/20d482a7-46f1-4aec-97a8-d873e64ee7b1" />
 
-## 관련 정보
+[15.5.8.1. 표본점 대화상자 활성화하기(Activate the Dialog) - 그림 90.1.10.2.12.a101](./15-05-08-01-activating_the_dialog.md#90-01-10-02-12-a101)
+
+<a id="90-01-10-02-12-a101-01"></a>
+
+#### 영상 90.1.10.2.12.a101.1. `이미지 메뉴 바` → `창` → `도킹가능한 대화` → `표본점` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ae78ffce-6124-4e75-8102-c61a3074d249"></video>
+
+[15.5.8.1. 표본점 대화상자 활성화하기(Activate the Dialog) - 영상 90.1.10.2.12.a101.1](./15-05-08-01-activating_the_dialog.md#90-01-10-02-12-a101-01)
+
+<a id="90-01-10-02-12-a102"></a>
+
+#### 그림 90.1.10.2.12.a102. `이미지 메뉴 바` → `창` → `도킹가능한 대화` → `표본점` (Mac)
+<img width="980" height="845" alt="90-01-10-02-12-a102" src="https://github.com/user-attachments/assets/05fd5ebc-1b1c-46b6-be12-5274b670a8d8" />
 
 ***
 
