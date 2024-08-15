@@ -27,6 +27,41 @@
 #### 그림 90.4.12.a104. `표본점` 대화상자 (Mac) (영어)
 <img width="226" height="182" alt="90-04-12-a104" src="https://github.com/user-attachments/assets/2febb408-a635-4d79-98fa-56f8915b999e" />
 
+<a id="90-04-12-a111"></a>
+
+#### 영상 90.4.12.a111. `표본점` 대화상자: 표본점 만들기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/04b5642b-8769-41fb-9651-8f7ee10c708f"></video>
+
+[15.5.8.2. 표본점 사용하기(Using sample points) - 영상 90.4.12.a111](./15-05-08-02-00-using_sample_points.md#90-04-12-a111)
+
+<a id="90-04-12-a121"></a>
+
+#### 영상 90.4.12.a121. 표본점 수정하기: 색상 추출 도구를 사용 중일 때 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/0b1d9610-7640-4672-a8fd-c41fe74aa447"></video>
+
+[15.5.8.2. 표본점 사용하기(Using sample points) - 영상 90.4.12.a121](./15-05-08-02-00-using_sample_points.md#90-04-12-a121)
+
+<a id="90-04-12-a122"></a>
+
+#### 영상 90.4.12.a122. 표본점 수정하기: 칠하기 도구를 사용 중일 때 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/80493b43-9f66-4747-bb1d-cf19d50ae3d2"></video>
+
+[15.5.8.2. 표본점 사용하기(Using sample points) - 영상 90.4.12.a122](./15-05-08-02-00-using_sample_points.md#90-04-12-a122)
+
+<a id="90-04-12-a131"></a>
+
+#### 영상 90.4.12.a131. 표본점 삭제하기: 색상 추출 도구를 사용 중일 때 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/af38b73e-773c-4bbc-b04b-860d96915e60"></video>
+
+[15.5.8.2. 표본점 사용하기(Using sample points) - 영상 90.4.12.a131](./15-05-08-02-00-using_sample_points.md#90-04-12-a131)
+
+<a id="90-04-12-a132"></a>
+
+#### 영상 90.4.12.a132. 표본점 삭제하기: 칠하기 도구를 사용 중일 때 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/37d94cdb-35b1-4b63-821e-f2171b8af94b"></video>
+
+[15.5.8.2. 표본점 사용하기(Using sample points) - 영상 90.4.12.a132](./15-05-08-02-00-using_sample_points.md#90-04-12-a132)
+
 ***
 
 ## 다른 페이지로 가기

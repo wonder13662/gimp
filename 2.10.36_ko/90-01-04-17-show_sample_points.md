@@ -1,6 +1,18 @@
 # 90.1.4.17. 표본점 보이기(Show Sample Points)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+
+<a id="90-01-04-17-a101"></a>
+
+#### 그림 90.1.4.17.a101. `이미지 메뉴 바` → `보기` → `표본점 보이기`
+<img width="980" height="688" alt="90-01-04-17-a101" src="https://github.com/user-attachments/assets/b1f3c123-7fb9-4b80-8196-2dbfd81a712a" />
+
+[15.5.8.2. 표본점 사용하기(Using sample points) - 그림 90.1.4.17.a101](./15-05-08-02-00-using_sample_points.md#90-01-04-17-a101)
+
+<a id="90-01-04-17-a102"></a>
+
+#### 영상 90.1.4.17.a102. `이미지 메뉴 바` → `보기` → `표본점 보이기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/9675b241-dd45-44df-9446-d797aea3ec85"></video>
+
+[15.5.8.2. 표본점 사용하기(Using sample points) - 영상 90.1.4.17.a102](./15-05-08-02-00-using_sample_points.md#90-01-04-17-a102)
 
 ***
 
