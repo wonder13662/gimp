@@ -62,6 +62,13 @@
 
 [15.5.8.2. 표본점 사용하기(Using sample points) - 영상 90.4.12.a132](./15-05-08-02-00-using_sample_points.md#90-04-12-a132)
 
+<a id="90-04-12-a141"></a>
+
+#### 그림 90.4.12.a141. `표본점` 대화상자 → `탭 메뉴` → `표본점 메뉴` → `표본 합치기` (Windows) (우리말)
+<img width="706" height="318" alt="90-04-12-a141" src="https://github.com/user-attachments/assets/0b659271-9a08-453a-b7a8-ea619e8031cd" />
+
+[15.5.8.2.5. 표본 합치기(Sample Merged) - 그림 90.4.12.a141](./15-05-08-02-05-sample_merged.md#90-04-12-a141)
+
 ***
 
 ## 다른 페이지로 가기

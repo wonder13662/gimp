@@ -24,7 +24,7 @@ RGB 결과값 = max((위쪽 레이어 RGB 값 - 아래쪽 레이어 RGB 값 - 12
 
 [⬆️ 위: 8.2.5. 레이어 모드-반전(Inversion)](./08-02-05-00-inversion-layer-modes.md)
 
-[⬆️ 위: 8.2. 레이어 모드](./08-02-00-layer-modes.md)
+[⬆️ 위: 8.2. 레이어 모드](./08-02-00-layer_modes.md)
 
 [⬆️ 위: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 

@@ -509,7 +509,7 @@ module.exports = {
         '8.1. 레이어 소개'
       ],
       [
-        '08-02-00-layer-modes.md', 
+        '08-02-00-layer_modes.md', 
         '8.2. Layer modes',
         '8.2. 레이어 모드'
       ],
@@ -930,7 +930,7 @@ module.exports = {
         '14.3.3. 붓 도구 (연필, 칠하기붓, 에어브러시) - Brush tools (pencil, paintbrush, airbrush)'
       ],
       [
-        '14-03-04-00-bucket-fill.md', 
+        '14-03-04-00-bucket_fill.md', 
         '14.3.4. 영역 채우기(Bucket fill)',
         '14.3.4. 영역 채우기'
       ],

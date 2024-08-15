@@ -23,7 +23,7 @@
 
 [⬅️ 이전: 8.2.1.6. 분할(Split)](./08-02-01-06-split.md)
 
-[⬆️ 위: 8.2. 레이어 모드](./08-02-00-layer-modes.md)
+[⬆️ 위: 8.2. 레이어 모드](./08-02-00-layer_modes.md)
 
 [⬆️ 위: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 

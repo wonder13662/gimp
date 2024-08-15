@@ -382,7 +382,7 @@
 
 [8.1.1.10. 레이어 마스크(Layer mask)](./08-01-01-10-layer_mask.md)
 
-[8.2. 레이어 모드](./08-02-00-layer-modes.md)
+[8.2. 레이어 모드](./08-02-00-layer_modes.md)
 
 [8.2.1. 레이어 모드-Normal](./08-02-01-00-normal-layer-mode.md)
 
@@ -1230,7 +1230,7 @@
 
 [14.3.3.1. 동작 변경키(Key Modifiers)](./14-03-03-01-key_modifiers.md)
 
-[14.3.4. 영역 채우기(Bucket fill)](./14-03-04-00-bucket-fill.md)
+[14.3.4. 영역 채우기(Bucket fill)](./14-03-04-00-bucket_fill.md)
 
 [14.3.4.1. 도구 활성화하기(Activating the tools)](./14-03-04-01-activating_the_tool.md)
 

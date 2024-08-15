@@ -21,7 +21,7 @@
 
 [⬅️ 이전: 8.2.5.6. 나누기(Divide)](./08-02-05-06-divide.md)
 
-[⬆️ 위: 8.2. 레이어 모드](./08-02-00-layer-modes.md)
+[⬆️ 위: 8.2. 레이어 모드](./08-02-00-layer_modes.md)
 
 [⬆️ 위: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 

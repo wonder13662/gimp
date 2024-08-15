@@ -16,7 +16,7 @@
 
 [7.1.2. 부분적으로 투명한 선택 만들기 - 그림 90.3.2.21.a2](./07-01-02-making_a_selection_partially_transparent.md#90-03-02-21-a2)
 
-[14.3.4. 영역 채우기(Bucket fill) - 그림 90.3.2.21.a2](./14-03-04-00-bucket-fill.md#90-03-02-21-a2)
+[14.3.4. 영역 채우기(Bucket fill) - 그림 90.3.2.21.a2](./14-03-04-00-bucket_fill.md#90-03-02-21-a2)
 
 [14.3.4.1. 도구 활성화하기(Activating the tools) - 그림 90.3.2.21.a2](./14-03-04-01-activating_the_tool.md#90-03-02-21-a2)
 

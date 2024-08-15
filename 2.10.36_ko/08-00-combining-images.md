@@ -5,7 +5,7 @@
 ## 하위 페이지
 [8.1. 레이어 소개](./08-01-00-introduction-to-layers.md)
 
-[8.2. 레이어 모드](./08-02-00-layer-modes.md)
+[8.2. 레이어 모드](./08-02-00-layer_modes.md)
 
 [8.2.1. 레이어 모드-Normal](./08-02-01-00-normal-layer-mode.md)
 

@@ -25,7 +25,7 @@
 
 [⬆️ 위: 8.2.6. 레이어 모드-HSV components](./08-02-06-00-hsv-components-layer-modes.md)
 
-[⬆️ 위: 8.2. 레이어 모드](./08-02-00-layer-modes.md)
+[⬆️ 위: 8.2. 레이어 모드](./08-02-00-layer_modes.md)
 
 [⬆️ 위: 8. 이미지 합치기(Combining Images)](./08-00-combining-images.md)
 

@@ -43,7 +43,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.3.4. 영역 채우기(Bucket fill)](./14-03-04-00-bucket-fill.md)
+[➡️ 다음: 14.3.4. 영역 채우기(Bucket fill)](./14-03-04-00-bucket_fill.md)
 
 [⬅️ 이전: 14.3.3. 붓 도구 (연필, 칠하기붓, 에어브러시) - Brush tools (pencil, paintbrush, airbrush)](./14-03-03-00-brush-tools-pencil-paintbrush-airbrush.md)
 

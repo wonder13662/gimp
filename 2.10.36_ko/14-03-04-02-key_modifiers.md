@@ -61,7 +61,7 @@ Alt(⌥) 키를 누르면 `도구 옵션` → `영역 채우기` → `채우기 
 
 [⬅️ 이전: 14.3.4.1. 도구 활성화하기(Activating the tools)](./14-03-04-01-activating_the_tool.md)
 
-[⬆️ 위: 14.3.4. 영역 채우기(Bucket fill)](./14-03-04-00-bucket-fill.md)
+[⬆️ 위: 14.3.4. 영역 채우기(Bucket fill)](./14-03-04-00-bucket_fill.md)
 
 [⬆️ 위: 14.3. 칠하기 도구(Paint tools)](./14-03-00-paint_tools.md)
 
