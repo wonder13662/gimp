@@ -4,29 +4,31 @@
 <a id="90-04-11-a1"></a>
 
 #### 그림 90.4.11.a1. 포인터 정보 대화상자
-![90-04-11-a1](https://github.com/wonder13662/gimp/assets/15767104/fe17efcc-367e-420a-843f-4bcebc841eb9)
+<img width="850" height="367" alt="90-04-11-a1" src="https://github.com/user-attachments/assets/fbc901ce-8c5f-4983-beca-d70f5a597718" />
+
+[15.5.9. 포인터 대화상자(Pointer dialog) - 그림 90.4.11.a1](./15-05-09-00-pointer-dialog.md#90-04-11-a1)
 
 <a id="90-04-11-a101"></a>
 
 #### 그림 90.4.11.a101. 포인터 정보 대화상자 (Windows) (우리말)
-![90-04-11-a101](https://github.com/wonder13662/gimp/assets/15767104/228ae348-3472-4c61-8f01-09abcb09aeaa)
+<img width="200" height="258" alt="90-04-11-a101" src="https://github.com/user-attachments/assets/63ea98ea-3dbb-4616-b831-3377ee9d9f41" />
 
 [14.5.3.2. 동작 변경키(Key modifiers) - 그림 90.4.11.a101](./14-05-03-02-key_modifiers.md#90-04-11-a101)
 
 <a id="90-04-11-a102"></a>
 
 #### 그림 90.4.11.a102. 포인터 정보 대화상자 (Windows) (영어)
-![90-04-11-a102](https://github.com/wonder13662/gimp/assets/15767104/ac406c9d-ac19-44be-87a4-70dd889dbf4b)
+<img width="200" height="263" alt="90-04-11-a102" src="https://github.com/user-attachments/assets/e49d6f15-32b2-44b4-884e-d15174d8fe37" />
 
 <a id="90-04-11-a103"></a>
 
 #### 그림 90.4.11.a103. 포인터 정보 대화상자 (Mac) (우리말)
-![90-04-11-a103](https://github.com/wonder13662/gimp/assets/15767104/6e053b91-8bde-40ac-8525-bede83058ea3)
+<img width="200" height="220" alt="90-04-11-a103" src="https://github.com/user-attachments/assets/82f3daec-c854-425a-83b8-2e0f18f8c868" />
 
 <a id="90-04-11-a104"></a>
 
 #### 그림 90.4.11.a104. 포인터 정보 대화상자 (Mac) (영어)
-![90-04-11-a104](https://github.com/wonder13662/gimp/assets/15767104/4d7a785f-d996-4ac0-9bff-6d86f57280df)
+<img width="200" height="220" alt="90-04-11-a104" src="https://github.com/user-attachments/assets/46e82b13-ed84-4eb3-b2b5-a1453ff57a8e" />
 
 ***
 

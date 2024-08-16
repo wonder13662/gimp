@@ -12,7 +12,7 @@
 <a id="90-04-11-a101"></a>
 
 #### [그림 90.4.11.a101. 포인터 정보 대화상자 (Windows) (우리말)](./90-04-0011-pointer_information.md#90-04-11-a101)
-![90-04-11-a101](https://github.com/wonder13662/gimp/assets/15767104/228ae348-3472-4c61-8f01-09abcb09aeaa)
+<img width="200" height="258" alt="90-04-11-a101" src="https://github.com/user-attachments/assets/63ea98ea-3dbb-4616-b831-3377ee9d9f41" />
 
 [다른 운영체제와 언어의 '포인터 정보 대화상자' 확인하기](./90-04-0011-pointer_information.md#90-04-11-a102)
 
