@@ -25,7 +25,7 @@
 ## 2. CIE Lab
 이 옵션이 선택되면, `혼합할 색 공간(Blend Color Space)`은 `CIE L*a*b*`입니다. 이 색상 공간은 사람이 인식하기에 균일한 색상 공간을 가집니다.
 
-[관련 정보: 19. 용어집 - CIE Lab](./19-glossaryx-cie_lab.md)
+[관련 정보: 19. 용어집 - CIE Lab](./19-glossaryx-color_model_cie_lab.md)
 
 ***
 
