@@ -37,7 +37,7 @@ GIMP(김프)를 처음으로 시작하면, 기본으로 단일창 모드(single 
 
 [3.2.4.3. 메뉴 버튼 (Menu Button)](./03-02-04-03-menu-button.md)
 
-[3.2.4.4. 눈금자 (Ruler)](./03-02-04-04-ruler.md)
+[3.2.4.4. 눈금자(Ruler)](./03-02-04-04-ruler.md)
 
 [3.2.4.5. 퀵 마스크 토글 버튼 (QuickMask Toggle)](./03-02-04-05-quickmask-toggle.md)
 

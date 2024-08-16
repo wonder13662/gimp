@@ -42,7 +42,7 @@
 
 [3.2.4.3. 메뉴 버튼 (Menu Button)](./03-02-04-03-menu-button.md)
 
-[3.2.4.4. 눈금자 (Ruler)](./03-02-04-04-ruler.md)
+[3.2.4.4. 눈금자(Ruler)](./03-02-04-04-ruler.md)
 
 [3.2.4.5. 퀵 마스크 토글 버튼 (QuickMask Toggle)](./03-02-04-05-quickmask-toggle.md)
 
@@ -2836,11 +2836,87 @@
 
 [15.5.8. 표본점 대화상자(Sample points dialog)](./15-05-08-00-sample-points-dialog.md)
 
+[15.5.8.1. 표본점 대화상자 활성화하기(Activate the Dialog)](./15-05-08-01-activating_the_dialog.md)
+
+[15.5.8.2. 표본점 사용하기(Using sample points)](./15-05-08-02-00-using_sample_points.md)
+
+[15.5.8.2.1. 표본점 만들기](./15-05-08-02-01-create_sample_points.md)
+
+[15.5.8.2.2. 이미지 창의 표본점 보이기/가리기](./15-05-08-02-02-show_n_hide_sample_points.md)
+
+[15.5.8.2.3. 표본점 수정하기](./15-05-08-02-03-edit_sample_points.md)
+
+[15.5.8.2.4. 표본점 삭제하기](./15-05-08-02-04-delete_sample_points.md)
+
+[15.5.8.2.5. 표본 합치기(Sample Merged)](./15-05-08-02-05-sample_merged.md)
+
+[15.5.8.3. 표본점 대화상자 설명(Sample points dialog description)](./15-05-08-03-00-sample_points_dialog_description.md)
+
+[15.5.8.3.1. 픽셀(Pixel)](./15-05-08-03-01-pixel.md)
+
+[15.5.8.3.2. RGB(%)](./15-05-08-03-02-rgb_percentage.md)
+
+[15.5.8.3.2. RGB(0...255)](./15-05-08-03-03-rgb_0_255.md)
+
+[15.5.8.3.3. HSV](./15-05-08-03-04-hsv.md)
+
+[15.5.8.3.5. CIE LCh](./15-05-08-03-05-cie_lch.md)
+
+[15.5.8.3.6. CIE LAB](./15-05-08-03-06-cie_lab.md)
+
+[15.5.8.3.7. CIE xyY](./15-05-08-03-07-cie_xyy.md)
+
+[15.5.8.3.8. CIE Yuv](./15-05-08-03-08-cie_yuv.md)
+
+[15.5.8.3.9. CMYK](./15-05-08-03-09-cmyk.md)
+
 [15.5.9. 포인터 대화상자(Pointer dialog)](./15-05-09-00-pointer-dialog.md)
+
+[15.5.9.1. 포인터 대화상자 활성화하기(Activate the Dialog)](./15-05-09-01-activating_the_dialog.md)
+
+[15.5.9.2. 포인터 대화상자 옵션(Pointer dialog options)](./15-05-09-02-00-pointer_dialog_options.md)
+
+[15.5.9.2.1. 픽셀(Pixels)](./15-05-09-02-01-pixels.md)
+
+[15.5.9.2.2. 단위(Units)](./15-05-09-02-02-units.md)
+
+[15.5.9.2.3. 포인터 경계 상자(Pointer Bounding Box)](./15-05-09-02-03-pointer_bounding_box.md)
+
+[15.5.9.2.4. 채널 값(Channel values)](./15-05-09-02-04-channel_values.md)
+
+[15.5.9.2.5. 표본 합치기(Sample Merged)](./15-05-09-02-05-sample_merged.md)
 
 [15.5.10. 대칭 그리기 대화상자(Symmetry painting dialog)](./15-05-10-00-symmetry-painting-dialog.md)
 
+[15.5.10.1. 대칭 그리기 대화상자 활성화하기(Activate the Dialog)](./15-05-10-01-activating_the_dialog.md)
+
+[15.5.10.2. 대칭 그리기 대화상자 사용하기(Using the Symmetry Painting dialog)](./15-05-10-02-00-using_the_symmetry_painting_dialog.md)
+
+[15.5.10.2.1. 옵션(Options)](./15-05-10-02-01-00-options.md)
+
+[15.5.10.2.1.1. 없음(None)](./15-05-10-02-01-01-none.md)
+
+[15.5.10.2.1.2. 거울(Mirror)](./15-05-10-02-01-02-mirror.md)
+
+[15.5.10.2.1.3. 타일(Tiling)](./15-05-10-02-01-03-tiling.md)
+
+[15.5.10.2.1.4. 만다라(Mandala)](./15-05-10-02-01-04-mandala.md)
+
 [15.5.11. 키보드 단축키 대화상자(Keyboard shortcut dialog)](./15-05-11-00-keyboard-shortcut-dialog.md)
+
+[15.5.11.1. 키보드 단축키 대화상자 활성화하기(Activate the Dialog)](./15-05-11-01-activating_the_dialog.md)
+
+[15.5.11.2. 키보드 단축키 대화상자 사용하기(Using the Keyboard Shortcuts Dialog)](./15-05-11-02-00-using_the_keyboard_shortcuts_dialog.md)
+
+[15.5.11.2.1. 새로운 단축키 등록하기](./15-05-11-02-01-add_new_keyboard_shortcut.md)
+
+[15.5.11.2.2. 이미 등록된 단축키를 다시 입력한 경우](./15-05-11-02-02-overwrite_keyboard_shortcut.md)
+
+[15.5.11.2.3. 등록된 단축키 제거하기](./15-05-11-02-03-remove_keyboard_shortcut.md)
+
+[15.5.11.2.4. `마칠 때 키보드 단축키 저장` 옵션](./15-05-11-02-04-save_keyboard_shortcuts_on_exit.md)
+
+[15.5.11.2.5. 아래쪽 버튼들](./15-05-11-02-05-buttons_at_the_bottoms.md)
 
 [16. 메뉴(Menus)](./16-00-menus.md)
 
@@ -3864,12 +3940,6 @@
 
 [19. 용어집 - 체비쇼프(Chebyshev)](./19-glossaryx-chebyshev.md)
 
-[19. 용어집 - CIE Lab](./19-glossaryx-cie_lab.md)
-
-[19. 용어집 - CMYK](./19-glossaryx-color_model_cmyk.md)
-
-[19. 용어집 - 색상 모델(Color Model)](./19-glossaryx-color_model.md)
-
 [19. 용어집 - 색상 영역(Color Area)](./19-glossaryx-color_area.md)
 
 [19. 용어집 - 색조화(Color Balance)](./19-glossaryx-color_balance.md)
@@ -3888,7 +3958,21 @@
 
 [19. 용어집 - 색상 모드: RGB(Color Mode: RGB)](./19-glossaryx-color_mode_rgb.md)
 
-[19. 용어집 - HSV](./19-glossaryx-color_model_hsv.md)
+[19. 용어집 - 색상 모델(Color model)](./19-glossaryx-color_model.md)
+
+[19. 용어집 - 색상 모델: CIE LAB](./19-glossaryx-color_model_cie_lab.md)
+
+[19. 용어집 - 색상 모델: CIE LCh](./19-glossaryx-color_model_cie_lch.md)
+
+[19. 용어집 - 색상 모델: CIE xyY](./19-glossaryx-color_model_cie_xyy.md)
+
+[19. 용어집 - 색상 모델: CIE Yuv](./19-glossaryx-color_model_cie_yuv.md)
+
+[19. 용어집 - 색상 모델: CMYK](./19-glossaryx-color_model_cmyk.md)
+
+[19. 용어집 - 색상 모델: HSV](./19-glossaryx-color_model_hsv.md)
+
+[19. 용어집 - 색상 모델: RGB](./19-glossaryx-color_model_rgb.md)
 
 [19. 용어집 - 색상 프로필(Color profile)](./19-glossaryx-color_profile.md)
 
@@ -4039,6 +4123,8 @@
 [19. 용어집 - 선택 모드(Selection Mode)](./19-glossaryx-selection_mode-handle_mode.md)
 
 [19. 용어집 - 색상 교정(Soft Proofing)](./19-glossaryx-soft_proofing.md)
+
+[19. 용어집 - 상태 표시 영역(Status Area)](./19-glossaryx-status_area.md)
 
 [19. 용어집 - string_append](./19-glossaryx-string_append.md)
 
@@ -6423,6 +6509,8 @@
 [90.10.49.1. 키보드 단축키](./90-10-49-01-00-keyboard_shortcut.md)
 
 [90.10.49.1.1. `대화상자` → `그라디언트`: 키보드 단축키 Ctrl(⌘) + `G`](./90-10-49-01-01-ctrl_g.md)
+
+[90.100. 저작권(Copyright)](./90-100-copyright.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

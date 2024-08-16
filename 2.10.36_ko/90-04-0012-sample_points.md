@@ -34,35 +34,35 @@
 #### 영상 90.4.12.a111. `표본점` 대화상자: 표본점 만들기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/04b5642b-8769-41fb-9651-8f7ee10c708f"></video>
 
-[15.5.8.2. 표본점 사용하기(Using sample points) - 영상 90.4.12.a111](./15-05-08-02-00-using_sample_points.md#90-04-12-a111)
+[15.5.8.2.1. 표본점 만들기 - 영상 90.4.12.a111](./15-05-08-02-01-create_sample_points.md#90-04-12-a111)
 
 <a id="90-04-12-a121"></a>
 
 #### 영상 90.4.12.a121. 표본점 수정하기: 색상 추출 도구를 사용 중일 때 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/0b1d9610-7640-4672-a8fd-c41fe74aa447"></video>
 
-[15.5.8.2. 표본점 사용하기(Using sample points) - 영상 90.4.12.a121](./15-05-08-02-00-using_sample_points.md#90-04-12-a121)
+[15.5.8.2.3. 표본점 수정하기 - 영상 90.4.12.a121](./15-05-08-02-03-edit_sample_points.md#90-04-12-a121)
 
 <a id="90-04-12-a122"></a>
 
 #### 영상 90.4.12.a122. 표본점 수정하기: 칠하기 도구를 사용 중일 때 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/80493b43-9f66-4747-bb1d-cf19d50ae3d2"></video>
 
-[15.5.8.2. 표본점 사용하기(Using sample points) - 영상 90.4.12.a122](./15-05-08-02-00-using_sample_points.md#90-04-12-a122)
+[15.5.8.2.3. 표본점 수정하기 - 영상 90.4.12.a122](./15-05-08-02-03-edit_sample_points.md#90-04-12-a122)
 
 <a id="90-04-12-a131"></a>
 
 #### 영상 90.4.12.a131. 표본점 삭제하기: 색상 추출 도구를 사용 중일 때 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/af38b73e-773c-4bbc-b04b-860d96915e60"></video>
 
-[15.5.8.2. 표본점 사용하기(Using sample points) - 영상 90.4.12.a131](./15-05-08-02-00-using_sample_points.md#90-04-12-a131)
+[15.5.8.2.4. 표본점 삭제하기 - 영상 90.4.12.a131](./15-05-08-02-04-delete_sample_points.md#90-04-12-a131)
 
 <a id="90-04-12-a132"></a>
 
 #### 영상 90.4.12.a132. 표본점 삭제하기: 칠하기 도구를 사용 중일 때 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/37d94cdb-35b1-4b63-821e-f2171b8af94b"></video>
 
-[15.5.8.2. 표본점 사용하기(Using sample points) - 영상 90.4.12.a132](./15-05-08-02-00-using_sample_points.md#90-04-12-a132)
+[15.5.8.2.4. 표본점 삭제하기 - 영상 90.4.12.a132](./15-05-08-02-04-delete_sample_points.md#90-04-12-a132)
 
 <a id="90-04-12-a141"></a>
 
@@ -111,21 +111,21 @@
 #### 그림 90.4.12.a172. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델(RGB (%))` (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a172" src="https://github.com/user-attachments/assets/0cb3da2e-5478-4283-b99e-81c2b689fc81" />
 
-[15.5.8.3.2. RGB - 그림 90.4.12.a172](./15-05-08-03-02-rgb_percentage.md#90-04-12-a172)
+[15.5.8.3.2. RGB(%) - 그림 90.4.12.a172](./15-05-08-03-02-rgb_percentage.md#90-04-12-a172)
 
 <a id="90-04-12-a173"></a>
 
 #### 그림 90.4.12.a173. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델(RGB (0...255))` (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a173" src="https://github.com/user-attachments/assets/fba8be25-04fa-44ef-a1a0-4e2bfbf8ea78" />
 
-[15.5.8.3.2. RGB - 그림 90.4.12.a173](./15-05-08-03-02-rgb_percentage.md#90-04-12-a173)
+[15.5.8.3.2. RGB(0...255) - 그림 90.4.12.a173](./15-05-08-03-03-rgb_0_255.md#90-04-12-a173)
 
 <a id="90-04-12-a174"></a>
 
 #### 그림 90.4.12.a174. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델(HSV)` (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a174" src="https://github.com/user-attachments/assets/89e1d5d9-4a52-4fae-ab77-0b4ac9e2a9b8" />
 
-[15.5.8.3.3. HSV - 그림 90.4.12.a174](./15-05-08-03-03-rgb_0_255.md#90-04-12-a174)
+[15.5.8.3.4. HSV - 그림 90.4.12.a174](./15-05-08-03-04-hsv.md#90-04-12-a174)
 
 <a id="90-04-12-a175"></a>
 
@@ -160,7 +160,7 @@
 #### 그림 90.4.12.a179. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델(CMYK)` (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a179" src="https://github.com/user-attachments/assets/b7a2c512-e55e-4a17-a7c6-cc530e14d5be" />
 
-[15.5.8.3.4. CMYK - 그림 90.4.12.a179](./15-05-08-03-04-hsv.md#90-04-12-a179)
+[15.5.8.3.9. CMYK - 그림 90.4.12.a179](./15-05-08-03-09-cmyk.md#90-04-12-a179)
 
 ***
 

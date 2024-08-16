@@ -39,7 +39,7 @@
 ## 다른 페이지로 가기
 [➡️ 다음: 3.2.4.6. 커서 좌표 (Pointer Coordinates)](./03-02-04-06-pointer-coordinates.md)
 
-[⬅️ 이전: 3.2.4.4. 눈금자 (Ruler)](./03-02-04-04-ruler.md)
+[⬅️ 이전: 3.2.4.4. 눈금자(Ruler)](./03-02-04-04-ruler.md)
 
 [⬆️ 위: 3.2.4. 이미지 창(Image window)](./03-02-04-00-image_window.md)
 
