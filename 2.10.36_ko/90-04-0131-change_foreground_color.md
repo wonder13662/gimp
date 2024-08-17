@@ -144,6 +144,20 @@
 #### 그림 90.4.131.a104. `전경색 바꾸기` 대화상자 (Mac) (영어)
 <img width="400" height="345" alt="90-04-131-a104" src="https://github.com/wonder13662/gimp/assets/15767104/814004bd-b644-43b2-84ee-ec5f82edd90e" />
 
+<a id="90-04-131-a111"></a>
+
+#### 그림 90.4.131.a111. `전경색 바꾸기` 대화상자: 색상 `#ba914f` (Windows) (우리말)
+<img width="407" height="376" alt="90-04-131-a111" src="https://github.com/user-attachments/assets/386030d5-9ba7-481e-a8ef-cd3d2b912aa9" />
+
+[19. 용어집 - HTML 표기(HTML Notation) - 그림 90.4.131.a111](./19-glossaryx-html_notation.md#90-04-131-a111)
+
+<a id="90-04-131-a111-01"></a>
+
+#### 영상 90.4.131.a111.1. `전경색 바꾸기` 대화상자: 색상 `#ba914f`: 각 채널별로 값 바꾸기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/cadd5009-89ec-46a2-864f-2ba5e75dae8d"></video>
+
+[19. 용어집 - HTML 표기(HTML Notation) - 영상 90.4.131.a111.1](./19-glossaryx-html_notation.md#90-04-131-a111-01)
+
 ***
 
 ## 관련 정보
