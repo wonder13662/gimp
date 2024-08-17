@@ -6,7 +6,7 @@
 - [19. 용어집 - 색상 모델: CIE LAB](./19-glossaryx-color_model_cie_lab.md)
 - [19. 용어집 - 색상 모델: CIE LCh](./19-glossaryx-color_model_cie_lch.md)
 - [19. 용어집 - 색상 모델: CIE xyY](./19-glossaryx-color_model_cie_xyy.md)
-- [19. 용어집 - 색상 모델: CIE Yuv](./19-glossaryx-color_model_cie_Yuv.md)
+- [19. 용어집 - 색상 모델: CIE Yuv](./19-glossaryx-color_model_cie_yuv_.md)
 
 ***
 
