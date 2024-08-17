@@ -41,7 +41,7 @@ This choice displays the Hue, in degrees, as well as the Saturation, Value and A
 [CIE xyY](./19-glossaryx-color_model_cie_xyy.md)
 
 ## 8. CIE Yuv
-[CIE Yuv](./19-glossaryx-color_model_cie_yuv_.md)
+[CIE Yuv](./19-glossaryx-color_model_cie_yuv.md)
 
 ## 9. CMYK
 The [CMYK](./19-glossaryx-color_model_cmyk.md) channel values.
