@@ -30,6 +30,31 @@
 #### 그림 90.4.11.a104. 포인터 정보 대화상자 (Mac) (영어)
 <img width="200" height="220" alt="90-04-11-a104" src="https://github.com/user-attachments/assets/46e82b13-ed84-4eb3-b2b5-a1453ff57a8e" />
 
+<a id="90-04-11-a111"></a>
+
+#### 그림 90.4.11.a111. `포인터 정보` 대화상자 → `픽셀` (Windows) (우리말)
+<img width="200" height="258" alt="90-04-11-a111" src="https://github.com/user-attachments/assets/73fcff1d-6a44-4c5b-bd88-dcbc93f61733" />
+
+<a id="90-04-11-a112"></a>
+
+#### 그림 90.4.11.a112. `포인터 정보` 대화상자 → `단위` (Windows) (우리말)
+<img width="200" height="258" alt="90-04-11-a112" src="" />
+
+<a id="90-04-11-a113"></a>
+
+#### 그림 90.4.11.a113. `포인터 정보` 대화상자 → `포인터 경계 상자` (Windows) (우리말)
+<img width="200" height="258" alt="90-04-11-a113" src="" />
+
+<a id="90-04-11-a114"></a>
+
+#### 그림 90.4.11.a114. `포인터 정보` 대화상자 → `채널 값` (Windows) (우리말)
+<img width="200" height="258" alt="90-04-11-a114" src="" />
+
+<a id="90-04-11-a115"></a>
+
+#### 그림 90.4.11.a115. `포인터 정보` 대화상자 → `표본 합치기` (Windows) (우리말)
+<img width="200" height="258" alt="90-04-11-a115" src="" />
+
 ***
 
 ## 다른 페이지로 가기
