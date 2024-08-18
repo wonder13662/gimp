@@ -35,15 +35,21 @@
 #### 그림 90.4.11.a111. `포인터 정보` 대화상자 → `픽셀` (Windows) (우리말)
 <img width="200" height="258" alt="90-04-11-a111" src="https://github.com/user-attachments/assets/73fcff1d-6a44-4c5b-bd88-dcbc93f61733" />
 
+[15.5.9.2.1. 픽셀(Pixels) - 그림 90.4.11.a111](./15-05-09-02-01-pixels.md#90-04-11-a111)
+
 <a id="90-04-11-a112"></a>
 
 #### 그림 90.4.11.a112. `포인터 정보` 대화상자 → `단위` (Windows) (우리말)
-<img width="200" height="258" alt="90-04-11-a112" src="" />
+<img width="200" height="258" alt="90-04-11-a112" src="https://github.com/user-attachments/assets/b7343f74-51f1-49a8-8605-181413238e25" />
+
+[15.5.9.2.2. 단위(Units) - 그림 90.4.11.a112](./15-05-09-02-02-units.md#90-04-11-a112)
 
 <a id="90-04-11-a113"></a>
 
-#### 그림 90.4.11.a113. `포인터 정보` 대화상자 → `포인터 경계 상자` (Windows) (우리말)
-<img width="200" height="258" alt="90-04-11-a113" src="" />
+#### 그림 90.4.11.a113. `포인터 정보` 대화상자 → `포인터 경계 상자(선택)` (Windows) (우리말)
+<img width="200" height="258" alt="90-04-11-a113" src="https://github.com/user-attachments/assets/fe9f3bd1-dbfd-43fb-a380-15ee316b87c9" />
+
+[15.5.9.2.3. 포인터 경계 상자(Pointer Bounding Box) - 그림 90.4.11.a113](./15-05-09-02-03-pointer_bounding_box.md#90-04-11-a113)
 
 <a id="90-04-11-a114"></a>
 
