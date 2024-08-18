@@ -68,7 +68,9 @@
 <a id="90-04-11-a115"></a>
 
 #### 그림 90.4.11.a115. `포인터 정보` 대화상자 → `표본 합치기` (Windows) (우리말)
-<img width="200" height="258" alt="90-04-11-a115" src="" />
+<img width="200" height="258" alt="90-04-11-a115" src="https://github.com/user-attachments/assets/7500dcb4-bfc2-4829-9e33-45c9fb3f4aff" />
+
+[15.5.9.2.5. 표본 합치기(Sample Merged) - 그림 90.4.11.a115](./15-05-09-02-05-sample_merged.md#90-04-11-a115)
 
 ***
 
