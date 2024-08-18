@@ -66,3 +66,23 @@
 
 ## 9. CMYK
 [15.5.8.3.9. CMYK](./15-05-08-03-09-cmyk.md)을 참고해주세요.
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.5.9.2.5. 표본 합치기(Sample Merged)](./15-05-09-02-05-sample_merged.md)
+
+[⬅️ 이전: 15.5.9.2.3. 포인터 경계 상자(Pointer Bounding Box)](./15-05-09-02-03-pointer_bounding_box.md)
+
+[⬆️ 위: 15.5.9.2. 포인터 대화상자 옵션(Pointer dialog options)](./15-05-09-02-00-pointer_dialog_options.md)
+
+[⬆️ 위: 15.5.9. 포인터 대화상자(Pointer dialog)](./15-05-09-00-pointer-dialog.md)
+
+[⬆️ 위: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-pointer-info-dialog.html#idm22212)
