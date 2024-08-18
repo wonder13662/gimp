@@ -53,6 +53,13 @@
 
 [15.5.9.2.3. 포인터 경계 상자(Pointer Bounding Box) - 그림 90.4.11.a113](./15-05-09-02-03-pointer_bounding_box.md#90-04-11-a113)
 
+<a id="90-04-11-a113-01"></a>
+
+#### 영상 90.4.11.a113.1. `포인터 정보` 대화상자 → `포인터 경계 상자(선택)` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/3f4b6c82-0a94-4f85-a05a-e4f3e1c8bdf1"></video>
+
+[15.5.9.2.3. 포인터 경계 상자(Pointer Bounding Box) - 영상 90.4.11.a113.1](./15-05-09-02-03-pointer_bounding_box.md#90-04-11-a113-01)
+
 <a id="90-04-11-a114"></a>
 
 #### 그림 90.4.11.a114. `포인터 정보` 대화상자 → `채널 값` (Windows) (우리말)
