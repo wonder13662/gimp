@@ -1,49 +1,68 @@
 # 15.5.9.2.4. 채널 값(Channel values)
-The channel values for the selected [색상 모델](./19-glossaryx-color_model.md) are shown below.
 
-Both pulldown menus contains the same choices, which makes it easier for you to compare the color values of a particular pixel using different color models.
+<a id="90-04-11-a114"></a>
 
-"Hex" is the [HTML 표기](./19-glossaryx-html_notation.md) of the pixel color, in hexadecimal.
+#### [그림 90.4.11.a114. `포인터 정보` 대화상자 → `채널 값` (Windows) (우리말)](./90-04-0011-pointer_information.md#90-04-11-a114)
+<img width="200" height="258" alt="90-04-11-a114" src="https://github.com/user-attachments/assets/6cfe63a0-554e-492a-bf14-9011f744be0c" />
 
-The choices on the pulldown menus are (Pixel is the default):
+`채널 값(Channel values)`은 [색상 모델](./19-glossaryx-color_model.md)의 드롭다운 목록에서 선택한 색상 모델의 값이 표시됩니다.
+
+<a id="90-04-11-a114-01"></a>
+
+#### [그림 90.4.11.a114.1. `포인터 정보` 대화상자 → `채널 값`: 색상모델 드롭다운 목록 (Windows) (우리말)](./90-04-0011-pointer_information.md#90-04-11-a114-01)
+<img width="249" height="361" alt="90-04-11-a114-01" src="https://github.com/user-attachments/assets/68da2e4d-5f8e-4db8-8a1a-6e111a3c69a0" />
+
+양쪽의 색상 모델 드롭다운 목록은 같은 색상 모델 목록을 가지고 있습니다.
+
+이를 통해, 다른 색상모델끼리의 값을 쉽게 비교할 수 있습니다.
+
+`16진수(Hex)`는 픽셀의 색상을 16진수로 [HTML 표기](./19-glossaryx-html_notation.md)로 나타낸 것입니다.
+
+`픽셀(Pixel)`이 기본 선택값입니다.
+
+색상 모델에 대한 설명은 아래와 같습니다.
+
+<a id="15-05-09-02-04-s1"></a>
 
 ## 1. 픽셀(Pixel)
-The [RGB](./19-glossaryx-color_model_rgb.md) channel values.
+[15.5.8.3.1. 픽셀(Pixel)](./15-05-08-03-01-pixel.md)을 참고해주세요.
 
-This choice displays the Red, Green, Blue and Alpha values of the pixel, as numbers between 0 and 255.
+<a id="15-05-09-02-04-s2"></a>
 
 ## 2. RGB(Percentage)
-The [RGB](./19-glossaryx-color_model_rgb.md) channel values.
+[15.5.8.3.2. RGB(%)](./15-05-08-03-02-rgb_percentage.md)를 참고해주세요.
 
-The choice displays the Red, Green, Blue and Alpha values of the pixel, as percentages.
-
-It also shows the hexadecimal value of the pixel's color.
+<a id="15-05-09-02-04-s3"></a>
 
 ## 3. RGB(0...255)
-The [RGB](./19-glossaryx-color_model_rgb.md) channel values.
+[15.5.8.3.3. RGB(0...255)](./15-05-08-03-02-rgb_percentage.md)를 참고해주세요.
 
-The choice displays the Red, Green, Blue and Alpha values of the pixel, as numbers between 0 and 255.
-
-It also shows the hexadecimal value of the pixel's color.
+<a id="15-05-09-02-04-s4"></a>
 
 ## 4. HSV
-The [HSV](./19-glossaryx-color_model_hsv.md) components.
+[15.5.8.3.4. HSV](./15-05-08-03-04-hsv.md)를 참고해주세요.
 
-This choice displays the Hue, in degrees, as well as the Saturation, Value and Alpha of the pixel, as percentage.
+<a id="15-05-09-02-04-s5"></a>
+
+## 5. CIE LCh
+[15.5.8.3.5. CIE LCh](./15-05-08-03-05-cie_lch.md)를 참고해주세요.
+
+<a id="15-05-09-02-04-s6"></a>
 
 ## 5. CIE LAB
-[CIE LAB](./19-glossaryx-color_model_cie_lab.md).
+[15.5.8.3.6. CIE LAB](./15-05-08-03-06-cie_lab.md)을 참고해주세요.
 
-## 6. CIE LCh
-[CIE LCh](./19-glossaryx-color_model_cie_lch.md).
+<a id="15-05-09-02-04-s7"></a>
 
 ## 7. CIE xyY
-[CIE xyY](./19-glossaryx-color_model_cie_xyy.md)
+[15.5.8.3.7. CIE xyY](./15-05-08-03-07-cie_xyy.md)을 참고해주세요.
+
+<a id="15-05-09-02-04-s8"></a>
 
 ## 8. CIE Yuv
-[CIE Yuv](./19-glossaryx-color_model_cie_yuv.md)
+[15.5.8.3.8. CIE Yuv](./15-05-08-03-08-cie_yuv.md)을 참고해주세요.
+
+<a id="15-05-09-02-04-s9"></a>
 
 ## 9. CMYK
-The [CMYK](./19-glossaryx-color_model_cmyk.md) channel values.
-
-This choice displays the Cyan, Magenta, Yellow, Black and Alpha values of the pixel, as percentage.
+[15.5.8.3.9. CMYK](./15-05-08-03-09-cmyk.md)을 참고해주세요.

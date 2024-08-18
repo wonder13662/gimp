@@ -54,7 +54,16 @@
 <a id="90-04-11-a114"></a>
 
 #### 그림 90.4.11.a114. `포인터 정보` 대화상자 → `채널 값` (Windows) (우리말)
-<img width="200" height="258" alt="90-04-11-a114" src="" />
+<img width="200" height="258" alt="90-04-11-a114" src="https://github.com/user-attachments/assets/6cfe63a0-554e-492a-bf14-9011f744be0c" />
+
+[15.5.9.2.4. 채널 값(Channel values) - 그림 90.4.11.a114](./15-05-09-02-04-channel_values.md#90-04-11-a114)
+
+<a id="90-04-11-a114-01"></a>
+
+#### 그림 90.4.11.a114.1. `포인터 정보` 대화상자 → `채널 값`: 색상모델 드롭다운 목록 (Windows) (우리말)
+<img width="249" height="361" alt="90-04-11-a114-01" src="https://github.com/user-attachments/assets/68da2e4d-5f8e-4db8-8a1a-6e111a3c69a0" />
+
+[15.5.9.2.4. 채널 값(Channel values) - 그림 90.4.11.a114.1](./15-05-09-02-04-channel_values.md#90-04-11-a114-01)
 
 <a id="90-04-11-a115"></a>
 
