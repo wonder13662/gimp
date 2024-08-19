@@ -20,12 +20,12 @@
 <a id="90-01-02-23-a101"></a>
 
 #### [그림 90.1.2.23.a101. `편집` - `키보드 단축키` (Windows)](./90-01-02-23-keyboard_shortcuts.md#90-01-02-23-a101)
-![90-01-02-23-a101](https://github.com/wonder13662/gimp/assets/15767104/3c0fd7d8-77c4-43f3-82fc-71b1273c8833)
+<img width="980" height="601" alt="90-01-02-23-a101" src="https://github.com/user-attachments/assets/ea71c16d-2b11-4b94-aaac-01b83d7bf22e" />
 
 <a id="90-01-12-05-a1"></a>
 
 #### [그림 90.1.12.5.a1. `GIMP` → `키보드 단축키` (Mac)](./90-01-12-05-keyboard_shortcuts.md#90-01-12-05-a1)
-![90-01-12-05-a1](https://github.com/wonder13662/gimp/assets/15767104/7615df99-c0c4-4a0c-ab32-1e52271452c0)
+<img width="876" height="456" alt="90-01-12-05-a1" src="https://github.com/wonder13662/gimp/assets/15767104/7615df99-c0c4-4a0c-ab32-1e52271452c0" />
 
 <a id="90-04-87-a101"></a>
 

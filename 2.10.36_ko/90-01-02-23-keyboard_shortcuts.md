@@ -4,9 +4,16 @@
 <a id="90-01-02-23-a101"></a>
 
 #### 그림 90.1.2.23.a101. `편집` - `키보드 단축키` (Windows)
-![90-01-02-23-a101](https://github.com/wonder13662/gimp/assets/15767104/3c0fd7d8-77c4-43f3-82fc-71b1273c8833)
+<img width="980" height="601" alt="90-01-02-23-a101" src="https://github.com/user-attachments/assets/ea71c16d-2b11-4b94-aaac-01b83d7bf22e" />
 
 [12.5. 메뉴 단축키 설정하기(Creating shortcuts to menu commands) - 그림 90.1.2.23.a101](./12-05-creating-shortcuts-to-menu-commands.md#90-01-02-23-a101)
+
+[15.5.11.1. 키보드 단축키 대화상자 활성화하기(Activate the Dialog) - 그림 90.1.2.23.a101](./15-05-11-01-activating_the_dialog.md#90-01-02-23-a101)
+
+<a id="90-01-02-23-a101-01"></a>
+
+#### 영상 90.1.2.23.a101.1. `편집` - `키보드 단축키` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/5dd6305a-356f-45bb-af6e-7c1669d0627f"></video>
 
 ***
 

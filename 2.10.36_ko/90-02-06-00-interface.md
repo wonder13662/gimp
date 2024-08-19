@@ -102,6 +102,20 @@
 
 [12.1.10.4. 키보드 단축키(Keyboard Shortcuts) - 그림 90.2.6.a123](./12-01-10-04-keyboard_shortcuts.md#90-02-06-a123)
 
+<a id="90-02-06-a131"></a>
+
+#### 그림 90.2.6.a131. `기본 설정` → `인터페이스` → `키보드 단축키` → `키보드 단축키 설정` (Windows) (우리말)
+<img width="831" height="818" alt="90-02-06-a131" src="https://github.com/user-attachments/assets/d631778d-bb17-45d5-9e97-52714e59c6b4" />
+
+[15.5.11.1. 키보드 단축키 대화상자 활성화하기(Activate the Dialog) - 그림 90.2.6.a131](./15-05-11-01-activating_the_dialog.md#90-02-06-a131)
+
+<a id="90-02-06-a131-01"></a>
+
+#### 영상 90.2.6.a131.1. `기본 설정` → `인터페이스` → `키보드 단축키` → `키보드 단축키 설정` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/13e497cc-2df4-4a8a-8816-1a3ec0110722"></video>
+
+[15.5.11.1. 키보드 단축키 대화상자 활성화하기(Activate the Dialog) - 영상 90.2.6.a131.1](./15-05-11-01-activating_the_dialog.md#90-02-06-a131-01)
+
 ***
 
 ## 다른 페이지로 가기
