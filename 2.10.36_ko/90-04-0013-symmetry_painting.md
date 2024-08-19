@@ -179,7 +179,7 @@
 <a id="90-04-13-a143-01"></a>
 
 #### 영상 90.4.13.a143.1. `대칭 그리기` 대화상자 → 드롭다운 목록 → 타일 → `이동` (Windows) (우리말)
-<img width="200" height="263" alt="90-04-13-a143-01" src="https://github.com/user-attachments/assets/a0c5c85e-d7be-422b-96c2-2f9dd5c26538" />
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a0c5c85e-d7be-422b-96c2-2f9dd5c26538"></video>
 
 [15.5.10.2.1.3. 타일(Tiling) - 영상 90.4.13.a143.1](./15-05-10-02-01-03-tiling.md#90-04-13-a143-01)
 
