@@ -83,6 +83,13 @@
 
 [15.5.11.2.1. 새로운 단축키 등록하기 - 영상 90.4.87.a131](./15-05-11-02-01-add_new_keyboard_shortcut.md#90-04-87-a131)
 
+<a id="90-04-87-a132"></a>
+
+#### 영상 90.4.87.a132. `키보드 단축키 설정` 대화상자: 이미 등록된 단축키를 다시 입력 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/c6f40f9b-fe29-481e-b737-ae1dbd6c1006"></video>
+
+[15.5.11.2.1. 새로운 단축키 등록하기 - 영상 90.4.87.a132](./15-05-11-02-01-add_new_keyboard_shortcut.md#90-04-87-a132)
+
 ***
 
 ## 다른 페이지로 가기
