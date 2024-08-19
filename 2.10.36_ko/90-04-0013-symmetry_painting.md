@@ -211,6 +211,76 @@
 
 [15.5.10.2.1.3. 타일(Tiling) - 영상 90.4.13.a145.1](./15-05-10-02-01-03-tiling.md#90-04-13-a145-01)
 
+<a id="90-04-13-a151"></a>
+
+#### 그림 90.4.13.a151. `대칭 그리기` 대화상자 → 드롭다운 목록 → 만다라 → `중심 위치의 가로 좌표` (Windows) (우리말)
+<img width="200" height="263" alt="90-04-13-a151" src="https://github.com/user-attachments/assets/57bcb290-5705-4d46-ac5f-65b29d916592" />
+
+[15.5.10.2.1.4. 만다라(Mandala) - 그림 90.4.13.a151](./15-05-10-02-01-04-mandala.md#90-04-13-a151)
+
+<a id="90-04-13-a151-01"></a>
+
+#### 영상 90.4.13.a151.1. `대칭 그리기` 대화상자 → 드롭다운 목록 → 만다라 → `중심 위치의 가로 좌표` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7a2f24b0-b824-40df-b540-4ba076df6643"></video>
+
+[15.5.10.2.1.4. 만다라(Mandala) - 영상 90.4.13.a151.1](./15-05-10-02-01-04-mandala.md#90-04-13-a151-01)
+
+<a id="90-04-13-a152"></a>
+
+#### 그림 90.4.13.a152. `대칭 그리기` 대화상자 → 드롭다운 목록 → 만다라 → `중심 위치의 세로 좌표` (Windows) (우리말)
+<img width="200" height="263" alt="90-04-13-a152" src="https://github.com/user-attachments/assets/7ec7b0fb-ac43-4e6c-a2b7-fa5fab1d6de4" />
+
+[15.5.10.2.1.4. 만다라(Mandala) - 그림 90.4.13.a152](./15-05-10-02-01-04-mandala.md#90-04-13-a152)
+
+<a id="90-04-13-a152-01"></a>
+
+#### 영상 90.4.13.a152.1. `대칭 그리기` 대화상자 → 드롭다운 목록 → 만다라 → `중심 위치의 세로 좌표` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ba8c3c45-e1e1-4a55-ad01-391af15a144d"></video>
+
+[15.5.10.2.1.4. 만다라(Mandala) - 영상 90.4.13.a152.1](./15-05-10-02-01-04-mandala.md#90-04-13-a152-01)
+
+<a id="90-04-13-a153"></a>
+
+#### 그림 90.4.13.a153. `대칭 그리기` 대화상자 → 드롭다운 목록 → 만다라 → `포인트 갯수` (Windows) (우리말)
+<img width="200" height="263" alt="90-04-13-a153" src="https://github.com/user-attachments/assets/528889f6-8d6d-4e29-bf96-716613535aaf" />
+
+[15.5.10.2.1.4. 만다라(Mandala) - 그림 90.4.13.a153](./15-05-10-02-01-04-mandala.md#90-04-13-a153)
+
+<a id="90-04-13-a153-01"></a>
+
+#### 영상 90.4.13.a153.1. `대칭 그리기` 대화상자 → 드롭다운 목록 → 만다라 → `포인트 갯수` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src=""></video>
+
+[15.5.10.2.1.4. 만다라(Mandala) - 영상 90.4.13.a153.1](./15-05-10-02-01-04-mandala.md#90-04-13-a153-01)
+
+<a id="90-04-13-a153-01"></a>
+
+#### 영상 90.4.13.a153.1. `대칭 그리기` 대화상자 → 드롭다운 목록 → 만다라 → `포인트 갯수` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/deb7c6ce-b8ea-405d-ab42-a61a0864f204"></video>
+
+[15.5.10.2.1.4. 만다라(Mandala) - 영상 90.4.13.a153.1](./15-05-10-02-01-04-mandala.md#90-04-13-a153-01)
+
+<a id="90-04-13-a154"></a>
+
+#### 그림 90.4.13.a154. `대칭 그리기` 대화상자 → 드롭다운 목록 → 만다라 → `붓 변형 비활성` (Windows) (우리말)
+<img width="200" height="263" alt="90-04-13-a154" src="https://github.com/user-attachments/assets/270b6e3b-9fe7-4ae8-ae41-5bc522a3ef11" />
+
+[15.5.10.2.1.4. 만다라(Mandala) - 그림 90.4.13.a154](./15-05-10-02-01-04-mandala.md#90-04-13-a154)
+
+<a id="90-04-13-a155"></a>
+
+#### 그림 90.4.13.a155. `대칭 그리기` 대화상자 → 드롭다운 목록 → 만다라 → `Kaleidoscope` (Windows) (우리말)
+<img width="200" height="263" alt="90-04-13-a155" src="https://github.com/user-attachments/assets/0c3c41de-5ed5-4e13-a196-ec29827c93c0" />
+
+[15.5.10.2.1.4. 만다라(Mandala) - 그림 90.4.13.a155](./15-05-10-02-01-04-mandala.md#90-04-13-a155)
+
+<a id="90-04-13-a155-01"></a>
+
+#### 영상 90.4.13.a155.1. `대칭 그리기` 대화상자 → 드롭다운 목록 → 만다라 → `Kaleidoscope` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/12ec571f-ebbb-433a-b20f-08b23ce140f8"></video>
+
+[15.5.10.2.1.4. 만다라(Mandala) - 영상 90.4.13.a155.1](./15-05-10-02-01-04-mandala.md#90-04-13-a155-01)
+
 ***
 
 ## 다른 페이지로 가기
