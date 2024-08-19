@@ -10,6 +10,8 @@
 
 [12.5. 메뉴 단축키 설정하기(Creating shortcuts to menu commands) - 그림 90.4.87.a101](./12-05-creating-shortcuts-to-menu-commands.md#90-04-87-a101)
 
+[15.5.11.2. 키보드 단축키 대화상자 사용하기 - 그림 90.4.87.a101](./15-05-11-02-00-using_the_keyboard_shortcuts_dialog.md#90-04-87-a101)
+
 <a id="90-04-87-a102"></a>
 
 #### 그림 90.4.87.a102. `키보드 단축키 설정` 대화상자 (Windows) (영어)
@@ -31,6 +33,48 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e495b362-c470-4c28-91b7-b02f3f21bb14"></video>
 
 [12.5. 메뉴 단축키 설정하기(Creating shortcuts to menu commands) - 영상 90.4.87.a111](./12-05-creating-shortcuts-to-menu-commands.md#90-04-87-a111)
+
+<a id="90-04-87-a121"></a>
+
+#### 그림 90.4.87.a121. `키보드 단축키 설정` 대화상자 → `동작 검색` (Windows) (우리말)
+<img width="418" height="429" alt="90-04-87-a121" src="https://github.com/user-attachments/assets/f63b7126-fd10-4306-98fc-33c1184104b2" />
+
+[15.5.11.2. 키보드 단축키 대화상자 사용하기(Using the Keyboard Shortcuts Dialog) - 그림 90.4.87.a121](./15-05-11-02-00-using_the_keyboard_shortcuts_dialog.md#90-04-87-a121)
+
+<a id="90-04-87-a121-01"></a>
+
+#### 영상 90.4.87.a121.1. `키보드 단축키 설정` 대화상자 → `동작 검색` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/415b467b-fdc5-44d9-9d38-afe3117b5a00"></video>
+
+[15.5.11.2. 키보드 단축키 대화상자 사용하기(Using the Keyboard Shortcuts Dialog) - ](./15-05-11-02-00-using_the_keyboard_shortcuts_dialog.md#)
+
+<a id="90-04-87-a122"></a>
+
+#### 그림 90.4.87.a122. `키보드 단축키 설정` 대화상자 → `왼쪽 열: 동작 카테고리` (Windows) (우리말)
+<img width="418" height="429" alt="90-04-87-a122" src="https://github.com/user-attachments/assets/39134baa-eb1b-40dc-a320-8106a785527e" />
+
+[15.5.11.2. 키보드 단축키 대화상자 사용하기(Using the Keyboard Shortcuts Dialog) - 그림 90.4.87.a122](./15-05-11-02-00-using_the_keyboard_shortcuts_dialog.md#90-04-87-a122)
+
+<a id="90-04-87-a122-01"></a>
+
+#### 영상 90.4.87.a122.1. `키보드 단축키 설정` 대화상자 → `왼쪽 열: 동작 카테고리` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/1dd7ace8-46db-4a62-a79b-aeb69b07fd19"></video>
+
+[15.5.11.2. 키보드 단축키 대화상자 사용하기(Using the Keyboard Shortcuts Dialog) - 영상 90.4.87.a122.1](./15-05-11-02-00-using_the_keyboard_shortcuts_dialog.md#90-04-87-a122-01)
+
+<a id="90-04-87-a123"></a>
+
+#### 그림 90.4.87.a123. `키보드 단축키 설정` 대화상자 → `가운데 열: 할당된 단축키` (Windows) (우리말)
+<img width="505" height="636" alt="90-04-87-a123" src="https://github.com/user-attachments/assets/a076149a-8b73-48e5-8ee4-b4119783845a" />
+
+[15.5.11.2. 키보드 단축키 대화상자 사용하기(Using the Keyboard Shortcuts Dialog) - 그림 90.4.87.a123](./15-05-11-02-00-using_the_keyboard_shortcuts_dialog.md#90-04-87-a123)
+
+<a id="90-04-87-a124"></a>
+
+#### 그림 90.4.87.a124. `키보드 단축키 설정` 대화상자 → `오른쪽 열: 이름` (Windows) (우리말)
+<img width="505" height="636" alt="90-04-87-a124" src="https://github.com/user-attachments/assets/561956b9-f412-4ff4-b5bc-9e731223d541" />
+
+[15.5.11.2. 키보드 단축키 대화상자 사용하기(Using the Keyboard Shortcuts Dialog) - 그림 90.4.87.a124](./15-05-11-02-00-using_the_keyboard_shortcuts_dialog.md#90-04-87-a124)
 
 ***
 
