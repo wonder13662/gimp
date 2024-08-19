@@ -68,3 +68,36 @@
 <img width="505" height="636" alt="90-04-87-a124" src="https://github.com/user-attachments/assets/561956b9-f412-4ff4-b5bc-9e731223d541" />
 
 오른쪽 열, `이름`은 GIMP(김프)의 동작 이름이 표시됩니다.
+
+
+***
+
+## 하위 페이지
+
+[15.5.11.2.1. 새로운 단축키 등록하기](./15-05-11-02-01-add_new_keyboard_shortcut.md)
+
+[15.5.11.2.2. 이미 등록된 단축키를 다시 입력](./15-05-11-02-02-overwrite_keyboard_shortcut.md)
+
+[15.5.11.2.3. 등록된 단축키 제거하기](./15-05-11-02-03-remove_keyboard_shortcut.md)
+
+[15.5.11.2.4. `마칠 때 키보드 단축키 저장` 옵션](./15-05-11-02-04-save_keyboard_shortcuts_on_exit.md)
+
+[15.5.11.2.5. 아래쪽 버튼들](./15-05-11-02-05-buttons_at_the_bottoms.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.5.11.2.1. 새로운 단축키 등록하기](./15-05-11-02-01-add_new_keyboard_shortcut.md)
+
+[⬅️ 이전: 15.5.11.1. 키보드 단축키 대화상자 활성화하기(Activate the Dialog)](./15-05-11-01-activating_the_dialog.md)
+
+[⬆️ 위: 15.5.11. 키보드 단축키 대화상자(Keyboard shortcut dialog)](./15-05-11-00-keyboard-shortcut-dialog.md)
+
+[⬆️ 위: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-help-keyboard-shortcuts.html#idm22452)

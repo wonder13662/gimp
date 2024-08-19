@@ -10,6 +10,8 @@
 
 [12.5. 메뉴 단축키 설정하기(Creating shortcuts to menu commands) - 그림 90.4.87.a101](./12-05-creating-shortcuts-to-menu-commands.md#90-04-87-a101)
 
+[15.5.11. 키보드 단축키 대화상자(Keyboard shortcut dialog) - 그림 90.4.87.a101](./15-05-11-00-keyboard-shortcut-dialog.md#90-04-87-a101)
+
 [15.5.11.2. 키보드 단축키 대화상자 사용하기 - 그림 90.4.87.a101](./15-05-11-02-00-using_the_keyboard_shortcuts_dialog.md#90-04-87-a101)
 
 <a id="90-04-87-a102"></a>
@@ -46,7 +48,7 @@
 #### 영상 90.4.87.a121.1. `키보드 단축키 설정` 대화상자 → `동작 검색` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/415b467b-fdc5-44d9-9d38-afe3117b5a00"></video>
 
-[15.5.11.2. 키보드 단축키 대화상자 사용하기(Using the Keyboard Shortcuts Dialog) - ](./15-05-11-02-00-using_the_keyboard_shortcuts_dialog.md#)
+[15.5.11.2. 키보드 단축키 대화상자 사용하기(Using the Keyboard Shortcuts Dialog) - 영상 90.4.87.a121.1](./15-05-11-02-00-using_the_keyboard_shortcuts_dialog.md#90-04-87-a121-01)
 
 <a id="90-04-87-a122"></a>
 
@@ -103,6 +105,13 @@
 <img width="505" height="636" alt="90-04-87-a134" src="https://github.com/user-attachments/assets/2ffa5e02-8852-4d95-a552-1c43b989761c" />
 
 [15.5.11.2.4. `마칠 때 키보드 단축키 저장` 옵션 - 그림 90.4.87.a134](./15-05-11-02-04-save_keyboard_shortcuts_on_exit.md#90-04-87-a134)
+
+<a id="90-04-87-a141"></a>
+
+#### 그림 90.4.87.a141. `키보드 단축키 설정` 대화상자 → `아래쪽 버튼들` (Windows) (우리말)
+<img width="505" height="636" alt="90-04-87-a141" src="https://github.com/user-attachments/assets/42e1bc4b-0beb-4934-8c7e-d8acafafd66e" />
+
+[15.5.11.2.5. 아래쪽 버튼들 - 그림 90.4.87.a141](./15-05-11-02-05-buttons_at_the_bottoms.md#90-04-87-a141)
 
 ***
 

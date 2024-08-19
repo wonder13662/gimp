@@ -15,6 +15,8 @@
 #### 영상 90.1.2.23.a101.1. `편집` - `키보드 단축키` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/5dd6305a-356f-45bb-af6e-7c1669d0627f"></video>
 
+[15.5.11.1. 키보드 단축키 대화상자 활성화하기(Activate the Dialog) - 영상 90.1.2.23.a101.1](./15-05-11-01-activating_the_dialog.md#90-01-02-23-a101-01)
+
 ***
 
 ## 다른 페이지로 가기

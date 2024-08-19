@@ -12,3 +12,24 @@
 
 #### [영상 90.4.87.a131. `키보드 단축키 설정` 대화상자: 새로운 단축키 등록하기 (Windows) (우리말)](./90-04-0087-configure_keyboard_shortcuts.md#90-04-87-a131)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/eadb3048-37de-424d-9e18-f2b7d5226768"></video>
+
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.5.11.2.2. 이미 등록된 단축키를 다시 입력](./15-05-11-02-02-overwrite_keyboard_shortcut.md)
+
+[⬅️ 이전: 15.5.11.2. 키보드 단축키 대화상자 사용하기(Using the Keyboard Shortcuts Dialog)](./15-05-11-02-00-using_the_keyboard_shortcuts_dialog.md)
+
+[⬆️ 위: 15.5.11.2. 키보드 단축키 대화상자 사용하기(Using the Keyboard Shortcuts Dialog)](./15-05-11-02-00-using_the_keyboard_shortcuts_dialog.md)
+
+[⬆️ 위: 15.5.11. 키보드 단축키 대화상자(Keyboard shortcut dialog)](./15-05-11-00-keyboard-shortcut-dialog.md)
+
+[⬆️ 위: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-help-keyboard-shortcuts.html#idm22452)
