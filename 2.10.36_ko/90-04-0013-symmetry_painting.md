@@ -43,6 +43,34 @@
 
 [15.5.10.2. 대칭 그리기 대화상자 사용하기(Using the Symmetry Painting dialog) - 영상 90.4.13.a111.1](./15-05-10-02-00-using_the_symmetry_painting_dialog.md#90-04-13-a111-01)
 
+<a id="90-04-13-a121"></a>
+
+#### 그림 90.4.13.a121. `대칭 그리기` 대화상자 → 드롭다운 목록: 없음 (Windows) (우리말)
+<img width="200" height="229" alt="90-04-13-a121" src="https://github.com/user-attachments/assets/1f0923d6-ba25-4409-9990-fe3b6ea352ef" />
+
+[15.5.10.2.1.1. 없음(None) - 그림 90.4.13.a121](./15-05-10-02-01-01-none.md#90-04-13-a121)
+
+<a id="90-04-13-a122"></a>
+
+#### 그림 90.4.13.a122. `대칭 그리기` 대화상자 → 드롭다운 목록: 거울 (Windows) (우리말)
+<img width="200" height="229" alt="90-04-13-a122" src="https://github.com/user-attachments/assets/0cd44895-046f-46f0-b9b8-068e462522dd" />
+
+[15.5.10.2.1.2. 거울(Mirror) - 그림 90.4.13.a122](./15-05-10-02-01-02-mirror.md#90-04-13-a122)
+
+<a id="90-04-13-a123"></a>
+
+#### 그림 90.4.13.a123. `대칭 그리기` 대화상자 → 드롭다운 목록: 타일 (Windows) (우리말)
+<img width="200" height="229" alt="90-04-13-a123" src="https://github.com/user-attachments/assets/24f1a143-638e-49d2-a889-177687b86b86" />
+
+[15.5.10.2.1.3. 타일(Tiling) - 그림 90.4.13.a123](./15-05-10-02-01-03-tiling.md#90-04-13-a123)
+
+<a id="90-04-13-a124"></a>
+
+#### 그림 90.4.13.a124. `대칭 그리기` 대화상자 → 드롭다운 목록: 만다라 (Windows) (우리말)
+<img width="200" height="229" alt="90-04-13-a124" src="https://github.com/user-attachments/assets/21ba52af-368e-4a62-870e-1e37da9e5f73" />
+
+[15.5.10.2.1.4. 만다라(Mandala) - 그림 90.4.13.a124](./15-05-10-02-01-04-mandala.md#90-04-13-a124)
+
 ***
 
 ## 다른 페이지로 가기
