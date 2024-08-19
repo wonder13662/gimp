@@ -141,6 +141,76 @@
 
 [15.5.10.2.1.2. 거울(Mirror) - 영상 90.4.13.a135](./15-05-10-02-01-02-mirror.md#90-04-13-a135)
 
+<a id="90-04-13-a141"></a>
+
+#### 그림 90.4.13.a141. `대칭 그리기` 대화상자 → 드롭다운 목록 → 타일 → `간격 X` (Windows) (우리말)
+<img width="200" height="263" alt="90-04-13-a141" src="https://github.com/user-attachments/assets/eaf41565-0e3e-424b-89a1-153ed46226a3" />
+
+[15.5.10.2.1.3. 타일(Tiling) - 그림 90.4.13.a141](./15-05-10-02-01-03-tiling.md#90-04-13-a141)
+
+<a id="90-04-13-a141-01"></a>
+
+#### 영상 90.4.13.a141.1. `대칭 그리기` 대화상자 → 드롭다운 목록 → 타일 → `간격 X` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/af6d4d69-e165-4691-9f58-10ef314630e2"></video>
+
+[15.5.10.2.1.3. 타일(Tiling) - 영상 90.4.13.a141.1](./15-05-10-02-01-03-tiling.md#90-04-13-a141-01)
+
+<a id="90-04-13-a142"></a>
+
+#### 그림 90.4.13.a142. `대칭 그리기` 대화상자 → 드롭다운 목록 → 타일 → `간격 Y` (Windows) (우리말)
+<img width="200" height="263" alt="90-04-13-a142" src="https://github.com/user-attachments/assets/fcb607ab-aec7-4e00-a3d2-5df190e6646b" />
+
+[15.5.10.2.1.3. 타일(Tiling) - 그림 90.4.13.a142](./15-05-10-02-01-03-tiling.md#90-04-13-a142)
+
+<a id="90-04-13-a142-01"></a>
+
+#### 영상 90.4.13.a142.1. `대칭 그리기` 대화상자 → 드롭다운 목록 → 타일 → `간격 Y` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/9275a820-8556-4f70-a6f1-22f1846e9204"></video>
+
+[15.5.10.2.1.3. 타일(Tiling) - 영상 90.4.13.a142.1](./15-05-10-02-01-03-tiling.md#90-04-13-a142-01)
+
+<a id="90-04-13-a143"></a>
+
+#### 그림 90.4.13.a143. `대칭 그리기` 대화상자 → 드롭다운 목록 → 타일 → `이동` (Windows) (우리말)
+<img width="200" height="263" alt="90-04-13-a143" src="https://github.com/user-attachments/assets/db2c5ee2-ae51-4c25-8a54-a4050c790920" />
+
+[15.5.10.2.1.3. 타일(Tiling) - 그림 90.4.13.a143](./15-05-10-02-01-03-tiling.md#90-04-13-a143)
+
+<a id="90-04-13-a143-01"></a>
+
+#### 영상 90.4.13.a143.1. `대칭 그리기` 대화상자 → 드롭다운 목록 → 타일 → `이동` (Windows) (우리말)
+<img width="200" height="263" alt="90-04-13-a143-01" src="https://github.com/user-attachments/assets/a0c5c85e-d7be-422b-96c2-2f9dd5c26538" />
+
+[15.5.10.2.1.3. 타일(Tiling) - 영상 90.4.13.a143.1](./15-05-10-02-01-03-tiling.md#90-04-13-a143-01)
+
+<a id="90-04-13-a144"></a>
+
+#### 그림 90.4.13.a144. `대칭 그리기` 대화상자 → 드롭다운 목록 → 타일 → `Max strokes X` (Windows) (우리말)
+<img width="200" height="263" alt="90-04-13-a144" src="https://github.com/user-attachments/assets/33bea7c1-5d7a-4c55-9eb2-388bcb40bed7" />
+
+[15.5.10.2.1.3. 타일(Tiling) - 그림 90.4.13.a144](./15-05-10-02-01-03-tiling.md#90-04-13-a144)
+
+<a id="90-04-13-a144-01"></a>
+
+#### 영상 90.4.13.a144.1. `대칭 그리기` 대화상자 → 드롭다운 목록 → 타일 → `Max strokes X` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/8ff7ae6d-b9a0-45a1-9d58-0638fb4e66a4"></video>
+
+[15.5.10.2.1.3. 타일(Tiling) - 영상 90.4.13.a144.1](./15-05-10-02-01-03-tiling.md#90-04-13-a144-01)
+
+<a id="90-04-13-a145"></a>
+
+#### 그림 90.4.13.a145. `대칭 그리기` 대화상자 → 드롭다운 목록 → 타일 → `Max strokes Y` (Windows) (우리말)
+<img width="200" height="263" alt="90-04-13-a145" src="https://github.com/user-attachments/assets/f378014a-2f5b-4be4-bd2f-b6491918e2fc" />
+
+[15.5.10.2.1.3. 타일(Tiling) - 그림 90.4.13.a145](./15-05-10-02-01-03-tiling.md#90-04-13-a145)
+
+<a id="90-04-13-a145-01"></a>
+
+#### 영상 90.4.13.a145.1. `대칭 그리기` 대화상자 → 드롭다운 목록 → 타일 → `Max strokes Y` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/bd4ed321-4b3e-4f3f-9ea2-ff669e05e6e4"></video>
+
+[15.5.10.2.1.3. 타일(Tiling) - 영상 90.4.13.a145.1](./15-05-10-02-01-03-tiling.md#90-04-13-a145-01)
+
 ***
 
 ## 다른 페이지로 가기
