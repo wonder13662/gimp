@@ -20,9 +20,9 @@ const {
 const doAsyncJob = async () => {
   try {
     // 1-1. 시작 페이지 이름
-    const head = '15-05-09-00-pointer-dialog.md'
+    const head = '15-05-10-00-symmetry-painting-dialog.md'
     // 1-2. 종료 페이지 이름
-    const tail = '15-05-09-02-05-sample_merged.md'
+    const tail = '15-05-10-02-01-04-mandala.md'
     // const tail = head
 
     // 2. 모든 페이지 파일의 목록을 가져온다.

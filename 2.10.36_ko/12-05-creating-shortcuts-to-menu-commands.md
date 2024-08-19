@@ -30,7 +30,7 @@
 <a id="90-04-87-a101"></a>
 
 #### [그림 90.4.87.a101. `키보드 단축키 설정` 대화상자 (Windows) (우리말)](./90-04-0087-configure_keyboard_shortcuts.md#90-04-87-a101)
-![90-04-87-a101](https://github.com/wonder13662/gimp/assets/15767104/7bc6c2be-e65c-453c-8566-d6d975d6d3f3)
+<img width="418" height="429" alt="90-04-87-a101" src="https://github.com/wonder13662/gimp/assets/15767104/7bc6c2be-e65c-453c-8566-d6d975d6d3f3" />
 
 ***
 

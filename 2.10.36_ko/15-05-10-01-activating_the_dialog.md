@@ -30,3 +30,21 @@
 
 #### [영상 90.5.16.1.13.a1.1. `대화상자` → `탭 메뉴` → `탭 추가` → `대칭 페인팅` (Windows) (우리말)](./90-05-16-01-13-symmetry_painting.md#90-05-16-01-13-a1-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/579d0037-c98f-4151-a537-e72089248bf9"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.5.10.2. 대칭 그리기 대화상자 사용하기(Using the Symmetry Painting dialog)](./15-05-10-02-00-using_the_symmetry_painting_dialog.md)
+
+[⬅️ 이전: 15.5.10. 대칭 그리기 대화상자(Symmetry painting dialog)](./15-05-10-00-symmetry-painting-dialog.md)
+
+[⬆️ 위: 15.5.10. 대칭 그리기 대화상자(Symmetry painting dialog)](./15-05-10-00-symmetry-painting-dialog.md)
+
+[⬆️ 위: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-symmetry-dialog.html#idm22292)

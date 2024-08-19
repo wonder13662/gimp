@@ -4,7 +4,7 @@
 <a id="90-04-87-a101"></a>
 
 #### 그림 90.4.87.a101. `키보드 단축키 설정` 대화상자 (Windows) (우리말)
-![90-04-87-a101](https://github.com/wonder13662/gimp/assets/15767104/7bc6c2be-e65c-453c-8566-d6d975d6d3f3)
+<img width="418" height="429" alt="90-04-87-a101" src="https://github.com/wonder13662/gimp/assets/15767104/7bc6c2be-e65c-453c-8566-d6d975d6d3f3" />
 
 [12.1.10.4. 키보드 단축키(Keyboard Shortcuts) - 그림 90.4.87.a101](./12-01-10-04-keyboard_shortcuts.md#90-04-87-a101)
 
@@ -13,17 +13,17 @@
 <a id="90-04-87-a102"></a>
 
 #### 그림 90.4.87.a102. `키보드 단축키 설정` 대화상자 (Windows) (영어)
-![90-04-87-a102](https://github.com/wonder13662/gimp/assets/15767104/2d2cf5dc-9c31-4812-aea0-05410e1e63c8)
+<img width="418" height="438" alt="90-04-87-a102" src="https://github.com/wonder13662/gimp/assets/15767104/2d2cf5dc-9c31-4812-aea0-05410e1e63c8" />
 
 <a id="90-04-87-a103"></a>
 
 #### 그림 90.4.87.a103. `키보드 단축키 설정` 대화상자 (Mac) (우리말)
-![90-04-87-a103](https://github.com/wonder13662/gimp/assets/15767104/527d9362-38b4-4bbd-a814-9d98e47fb372)
+<img width="369" height="415" alt="90-04-87-a103" src="https://github.com/wonder13662/gimp/assets/15767104/527d9362-38b4-4bbd-a814-9d98e47fb372" />
 
 <a id="90-04-87-a104"></a>
 
 #### 그림 90.4.87.a104. `키보드 단축키 설정` 대화상자 (Mac) (영어)
-![90-04-87-a104](https://github.com/wonder13662/gimp/assets/15767104/0330f563-f531-4b1e-8da5-fa565f72daa8)
+<img width="395" height="398" alt="90-04-87-a104" src="https://github.com/wonder13662/gimp/assets/15767104/0330f563-f531-4b1e-8da5-fa565f72daa8" />
 
 <a id="90-04-87-a111"></a>
 

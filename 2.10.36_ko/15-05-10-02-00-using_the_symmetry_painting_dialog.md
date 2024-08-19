@@ -24,3 +24,35 @@
 
 #### [영상 90.4.13.a111.1. `대칭 그리기` 대화상자 → 드롭다운 목록: 거울 선택 (Windows)](./90-04-0013-symmetry_painting.md#90-04-13-a111-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/4bf3aa37-3848-4af2-acfc-f173e533166a"></video>
+
+***
+
+## 하위 페이지
+
+[15.5.10.2.1. 옵션(Options)](./15-05-10-02-01-00-options.md)
+
+[15.5.10.2.1.1. 없음(None)](./15-05-10-02-01-01-none.md)
+
+[15.5.10.2.1.2. 거울(Mirror)](./15-05-10-02-01-02-mirror.md)
+
+[15.5.10.2.1.3. 타일(Tiling)](./15-05-10-02-01-03-tiling.md)
+
+[15.5.10.2.1.4. 만다라(Mandala)](./15-05-10-02-01-04-mandala.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 15.5.10.2.1. 옵션(Options)](./15-05-10-02-01-00-options.md)
+
+[⬅️ 이전: 15.5.10.1. 대칭 그리기 대화상자 활성화하기(Activate the Dialog)](./15-05-10-01-activating_the_dialog.md)
+
+[⬆️ 위: 15.5.10. 대칭 그리기 대화상자(Symmetry painting dialog)](./15-05-10-00-symmetry-painting-dialog.md)
+
+[⬆️ 위: 15.5. 그 외의 대화상자(Miscellaneous dialogs)](./15-05-00-miscellaneous-dialogs.md)
+
+[⬆️ 위: 15. 대화상자(Dialogs)](./15-00-dialogs.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-symmetry-dialog.html#idm22302)
