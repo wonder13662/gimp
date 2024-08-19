@@ -57,6 +57,41 @@
 
 [15.5.10.2.1.2. 거울(Mirror) - 그림 90.4.13.a122](./15-05-10-02-01-02-mirror.md#90-04-13-a122)
 
+<a id="90-04-13-a122-01"></a>
+
+#### 그림 90.4.13.a122.1. `대칭 그리기` 대화상자 → 드롭다운 목록: 거울 → 대칭 종류 (Windows) (우리말)
+<img width="200" height="263" alt="90-04-13-a122-01" src="https://github.com/user-attachments/assets/fcd51683-acbb-45cc-904e-3f898db59518" />
+
+[15.5.10.2.1.2. 거울(Mirror) - 그림 90.4.13.a122.1](./15-05-10-02-01-02-mirror.md#90-04-13-a122-01)
+
+<a id="90-04-13-a122-02"></a>
+
+#### 그림 90.4.13.a122.2. `대칭 그리기` 대화상자 → 드롭다운 목록: 거울 → 축 옮기기 (Windows) (우리말)
+<img width="200" height="263" alt="90-04-13-a122-02" src="https://github.com/user-attachments/assets/5e2f0d35-ba72-46a6-b9f2-cdf6680f1866" />
+
+[15.5.10.2.1.2. 거울(Mirror) - 그림 90.4.13.a122.2](./15-05-10-02-01-02-mirror.md#90-04-13-a122-02)
+
+<a id="90-04-13-a122-02-01"></a>
+
+#### 영상 90.4.13.a122.2.1. `대칭 그리기` 대화상자 → 드롭다운 목록: 거울 → 축 옮기기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7c56d344-3a88-430e-b5b1-0f94ebc9612f"></video>
+
+[15.5.10.2.1.2. 거울(Mirror) - 영상 90.4.13.a122.2.1](./15-05-10-02-01-02-mirror.md#90-04-13-a122-02-01)
+
+<a id="90-04-13-a122-03"></a>
+
+#### 그림 90.4.13.a122.3. `대칭 그리기` 대화상자 → 드롭다운 목록: 거울 → 붓 변형 비활성화 (Windows) (우리말)
+<img width="200" height="263" alt="90-04-13-a122-03" src="https://github.com/user-attachments/assets/fd8aeab4-407f-49dd-b4ff-3e4b2d9949ca" />
+
+[15.5.10.2.1.2. 거울(Mirror) - 그림 90.4.13.a122.3](./15-05-10-02-01-02-mirror.md#90-04-13-a122-03)
+
+<a id="90-04-13-a122-03-01"></a>
+
+#### 영상 90.4.13.a122.3.1. `대칭 그리기` 대화상자 → 드롭다운 목록: 거울 → 붓 변형 비활성화 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/b7953b53-1058-4e64-a178-f4be0be630a8"></video>
+
+[15.5.10.2.1.2. 거울(Mirror) - 영상 90.4.13.a122.3.1](./15-05-10-02-01-02-mirror.md#90-04-13-a122-03-01)
+
 <a id="90-04-13-a123"></a>
 
 #### 그림 90.4.13.a123. `대칭 그리기` 대화상자 → 드롭다운 목록: 타일 (Windows) (우리말)
@@ -70,6 +105,41 @@
 <img width="200" height="229" alt="90-04-13-a124" src="https://github.com/user-attachments/assets/21ba52af-368e-4a62-870e-1e37da9e5f73" />
 
 [15.5.10.2.1.4. 만다라(Mandala) - 그림 90.4.13.a124](./15-05-10-02-01-04-mandala.md#90-04-13-a124)
+
+<a id="90-04-13-a131"></a>
+
+#### 영상 90.4.13.a131. `대칭 그리기` 대화상자 → 드롭다운 목록 → 거울 → 수평 대칭 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ae713867-7b5c-4e87-8644-e417b6c02d83"></video>
+
+[15.5.10.2.1.2. 거울(Mirror) - 영상 90.4.13.a131](./15-05-10-02-01-02-mirror.md#90-04-13-a131)
+
+<a id="90-04-13-a132"></a>
+
+#### 영상 90.4.13.a132. `대칭 그리기` 대화상자 → 드롭다운 목록 → 거울 → 수직 대칭 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/69b8ca97-9582-409c-9574-57517d9b2a8a"></video>
+
+[15.5.10.2.1.2. 거울(Mirror) - 영상 90.4.13.a132](./15-05-10-02-01-02-mirror.md#90-04-13-a132)
+
+<a id="90-04-13-a133"></a>
+
+#### 영상 90.4.13.a133. `대칭 그리기` 대화상자 → 드롭다운 목록 → 거울 → 중심 대칭 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/cebc9f1a-d9c5-40aa-a814-20b4a121d8b3"></video>
+
+[15.5.10.2.1.2. 거울(Mirror) - 영상 90.4.13.a133](./15-05-10-02-01-02-mirror.md#90-04-13-a133)
+
+<a id="90-04-13-a134"></a>
+
+#### 영상 90.4.13.a134. `대칭 그리기` 대화상자 → 드롭다운 목록 → 거울 → 수평 대칭 + 수직 대칭 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7175cd6b-23c0-4779-9db8-b899e43fbbf7"></video>
+
+[15.5.10.2.1.2. 거울(Mirror) - 영상 90.4.13.a134](./15-05-10-02-01-02-mirror.md#90-04-13-a134)
+
+<a id="90-04-13-a135"></a>
+
+#### 영상 90.4.13.a135. `대칭 그리기` 대화상자 → 드롭다운 목록 → 거울 → 수평 대칭 + 수직 대칭 + 중심 대칭 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7eff9346-fdd2-4995-a375-1fb3c150ab27"></video>
+
+[15.5.10.2.1.2. 거울(Mirror) - 영상 90.4.13.a135](./15-05-10-02-01-02-mirror.md#90-04-13-a135)
 
 ***
 
