@@ -1,5 +1,79 @@
 # 90.5. 이미지 창(Image Window)
 
+<a id="90-05-a321"></a>
+
+#### 그림 90.5.a321. 다중창 모드(multi-window mode)
+![90-05-a321](https://github.com/wonder13662/gimp/assets/15767104/c253f6d6-0ad2-4791-bbd2-e60c2f0c0c69)
+
+[3.2. GIMP(김프)의 주요 화면 - 그림 90.5.a321](./03-02-00-main-window.md#90-05-a321)
+
+<a id="90-05-a322"></a>
+
+#### 그림 90.5.a322. 단일창 모드(single window mode)
+![90-05-a322](https://github.com/wonder13662/gimp/assets/15767104/39df1a43-0890-41ff-babd-d59c75196179)
+
+[3.2. GIMP(김프)의 주요 화면 - 그림 90.5.a322](./03-02-00-main-window.md#90-05-a322)
+
+<a id="90-05-a323"></a>
+
+#### 그림 90.5.a323. 다중창 모드 스크린샷
+![90-05-a323](https://github.com/wonder13662/gimp/assets/15767104/7fa9ac60-26d8-4547-9b43-aa914e002e93)
+
+[3.2.1. 다중창 모드(multi-window mode) - 그림 90.5.a323](./03-02-01-multi_window_mode.md#90-05-a323)
+
+<a id="90-05-a324"></a>
+
+#### 그림 90.5.a324. 단일창 모드 스크린샷
+![90-05-a324](https://github.com/wonder13662/gimp/assets/15767104/fd9a7449-3d1b-4f4e-b166-c97fa84da161)
+
+[3.2.2. 단일창 모드(single window mode) - 그림 90.5.a324](./03-02-02-single_window_mode.md#90-05-a324)
+
+<a id="90-05-a351"></a>
+
+#### 그림 90.5.a351. 다중창 모드의 이미지 창
+![90-05-a351](https://github.com/wonder13662/gimp/assets/15767104/71a5c1f4-0bfc-486d-9534-1b211ff94b80)
+
+[3.2.4. 이미지 창(Image window) - 그림 90.5.a351](./03-02-04-00-image_window.md#90-05-a351)
+
+<a id="90-05-a361"></a>
+
+#### 그림 90.5.a361. 다중창 모드의 이미지 창
+![90-05-a361](https://github.com/wonder13662/gimp/assets/15767104/49005d64-07cb-4d55-ae57-adddace9f92c)
+
+[3.2.4. 이미지 창(Image window) - 그림 90.5.a361](./03-02-04-00-image_window.md#90-05-a361)
+
+<a id="90-05-a371"></a>
+
+#### 영상 90.5.a371. 왼쪽 판(panel)의 너비를 조정하는 경우
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/122a8fa7-0b37-4651-af7e-c5aea59ccb32"></video>
+
+[3.2.2. 단일창 모드(single window mode) - 영상 90.5.a371](./03-02-02-single_window_mode.md#90-05-a371)
+
+<a id="90-05-a372"></a>
+
+#### 영상 90.5.a372. 오른쪽 판(panel)의 너비를 조정하는 경우
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/49be469f-50cb-47d0-9a91-6b0247b56ee5"></video>
+
+[3.2.2. 단일창 모드(single window mode) - 영상 90.5.a372](./03-02-02-single_window_mode.md#90-05-a372)
+
+<a id="90-05-a401"></a>
+
+#### 그림 90.5.a401. 이미지 창의 컨텍스트 메뉴 (Windows) (우리말)
+<img width="332" height="402" alt="90-05-a401" src="https://github.com/user-attachments/assets/9a07979d-ceb2-47fd-bb27-d872ecff0f8a" />
+
+[16.1.2. 컨텍스트 메뉴(Context Menu) - 그림 90.5.a401](./16-01-02-context_menus.md#90-05-a401)
+
+<a id="90-05-a402"></a>
+
+#### 영상 90.5.a402. 이미지 창의 컨텍스트 메뉴 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/18d142e7-a40d-4a90-bd9f-eb16d35b1060"></video>
+
+[16.1.2. 컨텍스트 메뉴(Context Menu) - 영상 90.5.a402](./16-01-02-context_menus.md#90-05-a402)
+
+<a id="90-05-a402"></a>
+
+#### 영상 90.5.a402. 타이틀 바의 컨텍스트 메뉴 (Windows) (우리말)
+
 ***
 
 ## 하위 페이지
@@ -95,66 +169,6 @@
 [90.5.16.1.28. 상황판(Dashboard)](./90-05-16-01-28-dashboard.md)
 
 [90.5.17. 이미지 탭 바 (Image Tab Bar)](./90-05-17-image_tab_bar.md)
-
-***
-
-## 기능이 쓰인 곳
-
-<a id="90-05-a321"></a>
-
-#### 그림 90.5.a321. 다중창 모드(multi-window mode)
-![90-05-a321](https://github.com/wonder13662/gimp/assets/15767104/c253f6d6-0ad2-4791-bbd2-e60c2f0c0c69)
-
-[3.2. GIMP(김프)의 주요 화면 - 그림 90.5.a321](./03-02-00-main-window.md#90-05-a321)
-
-<a id="90-05-a322"></a>
-
-#### 그림 90.5.a322. 단일창 모드(single window mode)
-![90-05-a322](https://github.com/wonder13662/gimp/assets/15767104/39df1a43-0890-41ff-babd-d59c75196179)
-
-[3.2. GIMP(김프)의 주요 화면 - 그림 90.5.a322](./03-02-00-main-window.md#90-05-a322)
-
-<a id="90-05-a323"></a>
-
-#### 그림 90.5.a323. 다중창 모드 스크린샷
-![90-05-a323](https://github.com/wonder13662/gimp/assets/15767104/7fa9ac60-26d8-4547-9b43-aa914e002e93)
-
-[3.2.1. 다중창 모드(multi-window mode) - 그림 90.5.a323](./03-02-01-multi_window_mode.md#90-05-a323)
-
-<a id="90-05-a324"></a>
-
-#### 그림 90.5.a324. 단일창 모드 스크린샷
-![90-05-a324](https://github.com/wonder13662/gimp/assets/15767104/fd9a7449-3d1b-4f4e-b166-c97fa84da161)
-
-[3.2.2. 단일창 모드(single window mode) - 그림 90.5.a324](./03-02-02-single_window_mode.md#90-05-a324)
-
-<a id="90-05-a351"></a>
-
-#### 그림 90.5.a351. 다중창 모드의 이미지 창
-![90-05-a351](https://github.com/wonder13662/gimp/assets/15767104/71a5c1f4-0bfc-486d-9534-1b211ff94b80)
-
-[3.2.4. 이미지 창(Image window) - 그림 90.5.a351](./03-02-04-00-image_window.md#90-05-a351)
-
-<a id="90-05-a361"></a>
-
-#### 그림 90.5.a361. 다중창 모드의 이미지 창
-![90-05-a361](https://github.com/wonder13662/gimp/assets/15767104/49005d64-07cb-4d55-ae57-adddace9f92c)
-
-[3.2.4. 이미지 창(Image window) - 그림 90.5.a361](./03-02-04-00-image_window.md#90-05-a361)
-
-<a id="90-05-a371"></a>
-
-#### 영상 90.5.a371. 왼쪽 판(panel)의 너비를 조정하는 경우
-<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/122a8fa7-0b37-4651-af7e-c5aea59ccb32"></video>
-
-[3.2.2. 단일창 모드(single window mode) - 영상 90.5.a371](./03-02-02-single_window_mode.md#90-05-a371)
-
-<a id="90-05-a372"></a>
-
-#### 영상 90.5.a372. 오른쪽 판(panel)의 너비를 조정하는 경우
-<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/49be469f-50cb-47d0-9a91-6b0247b56ee5"></video>
-
-[3.2.2. 단일창 모드(single window mode) - 영상 90.5.a372](./03-02-02-single_window_mode.md#90-05-a372)
 
 ***
 

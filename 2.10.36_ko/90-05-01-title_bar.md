@@ -14,6 +14,8 @@
 
 [3.2.4.1. 타이틀 바(Title Bar) - 그림 90.5.1.a102](./03-02-04-01-title-bar.md#90-05-01-a102)
 
+[19. 용어집 - 타이틀 바(Title Bar) - 그림 90.5.1.a102](./19-glossaryx-title_bar.md#90-05-01-a102)
+
 <a id="90-05-01-a111"></a>
 
 #### 그림 90.5.1.a111. 이미지 창에 이미지가 없는 경우의 타이틀바
@@ -43,6 +45,13 @@
 ![90-05-01-a131](https://github.com/wonder13662/gimp/assets/15767104/a02c4aad-a110-4391-93cd-ac03a813b8f3)
 
 [6.1.2. 파일 형식 - 그림 90.5.1.a131](./06-01-02-00-file_formats.md#90-05-01-a131)
+
+<a id="90-05-01-a141"></a>
+
+#### 영상 90.5.1.a141. 타이틀 바의 컨텍스트 메뉴 열기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/4574cf3a-2ce4-4a98-abbd-89bbf681f1a9"></video>
+
+[16.1.2. 컨텍스트 메뉴(Context Menu) - 영상 90.5.1.a141](./16-01-02-context_menus.md#90-05-01-a141)
 
 ***
 

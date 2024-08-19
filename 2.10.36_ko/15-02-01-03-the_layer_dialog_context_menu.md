@@ -12,7 +12,7 @@
 <a id="90-04-03-01-a41"></a>
 
 #### [그림 90.4.3.1.a41. 레이어 대화상자의 컨텍스트 메뉴 열기 (windows) (우리말)](./90-04-0003-001-000-context_menu.md#90-04-03-01-a41)
-![90-04-03-01-a41](https://github.com/wonder13662/gimp/assets/15767104/faac9099-0657-4cd8-8bc0-b1bce6a098b6)
+<img width="980" height="550" alt="90-04-03-01-a41" src="https://github.com/wonder13662/gimp/assets/15767104/faac9099-0657-4cd8-8bc0-b1bce6a098b6" />
 
 이 메뉴에 있는 기능들은 대부분 다른 곳에도 같은 기능이 있습니다.
 
