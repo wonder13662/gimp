@@ -1,10 +1,12 @@
 # 15.5.11.2.4. `마칠 때 키보드 단축키 저장` 옵션
 
-(TODO 대화상자 이미지 추가)
+<a id="90-04-87-a134"></a>
 
-## 
-At the bottom of the dialog there is an option (checked by default) that tells GIMP whether to "Save keyboard shortcuts on exit".
+#### [그림 90.4.87.a134. `키보드 단축키 설정` 대화상자 → `마칠 때 키보드 단축키 저장` (Windows) (우리말)](./90-04-0087-configure_keyboard_shortcuts.md#90-04-87-a134)
+<img width="505" height="636" alt="90-04-87-a134" src="https://github.com/user-attachments/assets/2ffa5e02-8852-4d95-a552-1c43b989761c" />
 
-If enabled, all changed shortcuts will be saved when you quit GIMP.
+`키보드 단축키` 대화상자의 아래쪽에 `마칠 때 키보드 단축키 저장` 옵션이 있습니다.
 
-If it is disabled, the shortcuts will only be saved if you used the Save button before closing the dialog.
+이 옵션이 활성화되면, 모든 단축키의 변경사항은 GIMP(김프)가 중단된 직후에 저장됩니다.
+
+이 옵션이 비활성화되면, 단축키는 대화상자의 아래쪽에 `저장(Save)` 버튼을 누를 경우에만 저장이 됩니다.

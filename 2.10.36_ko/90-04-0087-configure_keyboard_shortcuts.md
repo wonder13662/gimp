@@ -88,7 +88,21 @@
 #### 영상 90.4.87.a132. `키보드 단축키 설정` 대화상자: 이미 등록된 단축키를 다시 입력 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/c6f40f9b-fe29-481e-b737-ae1dbd6c1006"></video>
 
-[15.5.11.2.1. 새로운 단축키 등록하기 - 영상 90.4.87.a132](./15-05-11-02-01-add_new_keyboard_shortcut.md#90-04-87-a132)
+[15.5.11.2.2. 이미 등록된 단축키를 다시 입력 - 영상 90.4.87.a132](./15-05-11-02-02-overwrite_keyboard_shortcut.md#90-04-87-a132)
+
+<a id="90-04-87-a133"></a>
+
+#### 영상 90.4.87.a133. `키보드 단축키 설정` 대화상자: 등록된 단축키 제거 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2b6c0d7b-0aa3-4bc4-8a67-d3fc6d1792a4"></video>
+
+[15.5.11.2.3. 등록된 단축키 제거하기 - 영상 90.4.87.a133](./15-05-11-02-03-remove_keyboard_shortcut.md#90-04-87-a133)
+
+<a id="90-04-87-a134"></a>
+
+#### 그림 90.4.87.a134. `키보드 단축키 설정` 대화상자 → `마칠 때 키보드 단축키 저장` (Windows) (우리말)
+<img width="505" height="636" alt="90-04-87-a134" src="https://github.com/user-attachments/assets/2ffa5e02-8852-4d95-a552-1c43b989761c" />
+
+[15.5.11.2.4. `마칠 때 키보드 단축키 저장` 옵션 - 그림 90.4.87.a134](./15-05-11-02-04-save_keyboard_shortcuts_on_exit.md#90-04-87-a134)
 
 ***
 
