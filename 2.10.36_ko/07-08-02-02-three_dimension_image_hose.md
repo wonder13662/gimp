@@ -11,7 +11,7 @@
 ## 1. 첫번째 차원 (x) 축의 이미지 만들기
 너비 30 픽셀, 높이 30 픽셀의 새로운 이미지를 엽니다. `색상 공간(Color space)`은 `RGB` 색상으로 맞추고, `채우기(Fill with)`는 `투명(Transparency)`로 설정합니다.
 
-#### 그림 7.8.2.2.a111. `새 이미지 만들기` 대화상자 - 고급옵션 (Windows) (우리말) - 3차원 이미지 호스 만들기
+#### 그림 7.8.2.2.a111. `새 이미지 만들기` 대화상자: 고급옵션 (Windows) (우리말) - 3차원 이미지 호스 만들기
 ![07-08-02-02-create_a_new_image-advanced_options(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/42986d59-1c9b-4d41-b542-6fdbef151d92)
 
 이번 작업 과정에서 사용할 손 이미지입니다. 검은색 손을 `handL0k.xcf`(검은색 왼쪽 손 0°)로 저장합니다. 이미지 원본은 [Wikipedia - Stop hand.svg](https://upload.wikimedia.org/wikipedia/commons/8/8b/Stop_hand.svg)에서 확인할 수 있습니다.

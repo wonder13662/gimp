@@ -10,6 +10,8 @@
 
 [16.2.2. 새 이미지...(New...) - 그림 90.4.37.a101](./16-02-02-00-new.md#90-04-37-a101)
 
+[16.2.2.2. 기본 옵션(Basic Options) - 그림 90.4.37.a101](./16-02-02-02-00-basic_options.md#90-04-37-a101)
+
 <a id="90-04-37-a102"></a>
 
 #### 그림 90.4.37.a102. `새 이미지 만들기` 대화상자 (Windows) (영어)
@@ -32,21 +34,29 @@
 
 [7.6.2. 색상 붓(Color brushes) - 그림 90.4.37.a111](./07-06-02-color_brush.md#90-04-37-a111)
 
-#### 그림 90.4.37.a121. `새 이미지 만들기` 대화상자 - 고급옵션 (Windows) (우리말)
+<a id="90-04-37-a121"></a>
+
+#### 그림 90.4.37.a121. `새 이미지 만들기` 대화상자: 고급옵션 (Windows) (우리말)
 ![90-04-37-create_a_new_image-advanced_options(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/605d2abd-bfb3-4dc7-b808-99aad6c1cc1c)
 
-#### 그림 90.4.37.a122. `새 이미지 만들기` 대화상자 - 고급옵션 (Windows) (영어)
+<a id="90-04-37-a122"></a>
+
+#### 그림 90.4.37.a122. `새 이미지 만들기` 대화상자: 고급옵션 (Windows) (영어)
 ![90-04-37-create_a_new_image-advanced_options(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/90b71624-a788-4719-80f8-a3bbe4a73502)
 
-#### 그림 90.4.37.a123. `새 이미지 만들기` 대화상자 - 고급옵션 (Mac) (우리말)
+<a id="90-04-37-a123"></a>
+
+#### 그림 90.4.37.a123. `새 이미지 만들기` 대화상자: 고급옵션 (Mac) (우리말)
 ![90-04-37-dialog-create_a_new_image-advanced_options(mac)(ko)(50%)](https://github.com/wonder13662/gimp/assets/15767104/1eeb1c35-a9b6-40f7-9bc7-6cf1fe173ec0)
 
-#### 그림 90.4.37.a124. `새 이미지 만들기` 대화상자 - 고급옵션 (Mac) (영어)
+<a id="90-04-37-a124"></a>
+
+#### 그림 90.4.37.a124. `새 이미지 만들기` 대화상자: 고급옵션 (Mac) (영어)
 ![90-04-37-dialog-create_a_new_image-advanced_options(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/a3f42690-9a68-4dde-8aee-ce2750b53d01)
 
 <a id="90-04-37-a125"></a>
 
-#### 그림 90.4.37.a125. `새 이미지 만들기` 대화상자 - 고급옵션 (Windows) (우리말) - 1차원 이미지 파이프 만들기
+#### 그림 90.4.37.a125. `새 이미지 만들기` 대화상자: 고급옵션 (Windows) (우리말) - 1차원 이미지 파이프 만들기
 ![90-04-37-a125](https://github.com/wonder13662/gimp/assets/15767104/1af96891-f5e0-4a4e-8503-62c64e760165)
 
 [7.8.2.1. 1차원 이미지 파이프(One diemnsion image pipe) - 그림 90.4.37.a125](./07-08-02-01-one_dimension_image_pipe.md#90-04-37-a125)
@@ -78,6 +88,20 @@
 ![90-04-37-a132](https://github.com/wonder13662/gimp/assets/15767104/43ce01b3-d63a-40b8-b864-c25cb26e02a3)
 
 [12.1.15.1. 일반(General) - 그림 90.4.37.a132](./12-01-15-01-general.md#90-04-37-a132)
+
+<a id="90-04-37-a141"></a>
+
+#### 그림 90.4.37.a141. `새 이미지 만들기` 대화상자 → `양식` (Windows)
+<img width="384" height="289" alt="90-04-37-a141" src="https://github.com/user-attachments/assets/34f80fa9-40cb-4955-98c2-a02de523d69d" />
+
+[16.2.2.2.1. 양식(Template) - 그림 90.4.37.a141](./16-02-02-02-01-template.md#90-04-37-a141)
+
+<a id="90-04-37-a142"></a>
+
+#### 그림 90.4.37.a142. `새 이미지 만들기` 대화상자 → `양식` → 양식 목록 (Windows)
+<img width="288" height="977" alt="90-04-37-a142" src="https://github.com/user-attachments/assets/3d784ffd-a77d-44d3-89f1-6d12b607ac0f" />
+
+[16.2.2.2.1. 양식(Template) - 그림 90.4.37.a142](./16-02-02-02-01-template.md#90-04-37-a142)
 
 ***
 
