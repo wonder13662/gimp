@@ -70,9 +70,40 @@
 
 [16.1.2. 컨텍스트 메뉴(Context Menu) - 영상 90.5.a402](./16-01-02-context_menus.md#90-05-a402)
 
-<a id="90-05-a402"></a>
+<a id="90-05-a501"></a>
 
-#### 영상 90.5.a402. 타이틀 바의 컨텍스트 메뉴 (Windows) (우리말)
+#### 그림 90.5.a501. 떼어내기 메뉴의 점선 표시 (Windows) (우리말)
+<img width="394" height="499" alt="90-05-a501" src="https://github.com/user-attachments/assets/f8b1cc9e-d0c0-4211-b50f-ccc1ca3f3010" />
+
+[16.1.3. 떼어내기 메뉴(Tear-off Menu) - 그림 90.5.a501](./16-01-03-tear_off_menus.md#90-05-a501)
+
+<a id="90-05-a501-01"></a>
+
+#### 영상 90.5.a501.1. 떼어내기 메뉴의 점선 표시 클릭으로 떼어내기 메뉴 만들기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/76fae21a-c786-4a9f-87f6-39c9b43b44f2"></video>
+
+[16.1.3. 떼어내기 메뉴(Tear-off Menu) - 영상 90.5.a501.1](./16-01-03-tear_off_menus.md#90-05-a501-01)
+
+<a id="90-05-a502"></a>
+
+#### 영상 90.5.a502. 떼어내기 메뉴 닫기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/70ac6346-cd59-4a06-8727-fae34c299047"></video>
+
+[16.1.3. 떼어내기 메뉴(Tear-off Menu) - 영상 90.5.a502](./16-01-03-tear_off_menus.md#90-05-a502)
+
+<a id="90-05-a503"></a>
+
+#### 영상 90.5.a503. 다중창 모드에서의 떼어내기 메뉴 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f2ff5799-f1b1-4777-b32a-5afeceecfc89"></video>
+
+[16.1.3. 떼어내기 메뉴(Tear-off Menu) - 영상 90.5.a503](./16-01-03-tear_off_menus.md#90-05-a503)
+
+<a id="90-05-a504"></a>
+
+#### 영상 90.5.a504. 단일창 모드에서의 떼어내기 메뉴 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/097eae47-1c24-4abc-b312-9911ad21a38e"></video>
+
+[16.1.3. 떼어내기 메뉴(Tear-off Menu) - 영상 90.5.a504](./16-01-03-tear_off_menus.md#90-05-a504)
 
 ***
 
