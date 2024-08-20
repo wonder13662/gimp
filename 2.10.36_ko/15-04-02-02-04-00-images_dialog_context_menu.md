@@ -12,6 +12,12 @@
 
 ***
 
+## 관련 정보
+
+[16.1.2. 컨텍스트 메뉴(Context Menu)](./16-01-02-context_menus.md)
+
+***
+
 ## 하위 페이지
 
 [15.4.2.2.4.1. 보기 올리기(Raise this image displays)](./15-04-02-02-04-01-raise_this_image_displays.md)

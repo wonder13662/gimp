@@ -47,6 +47,12 @@
 
 ***
 
+## 관련 정보
+
+[16.1.2. 컨텍스트 메뉴(Context Menu)](./16-01-02-context_menus.md)
+
+***
+
 ## 하위 페이지
 
 [15.3.6.3.1. 팔레트 편집(Edit Palette)](./15-03-06-03-01-edit_palette.md)

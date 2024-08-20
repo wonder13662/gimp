@@ -140,6 +140,12 @@
 
 ***
 
+## 관련 정보
+
+[16.1.2. 컨텍스트 메뉴(Context Menu)](./16-01-02-context_menus.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 15.2.2.3. 선택 마스크(Selection Masks)](./15-02-02-03-00-selection_masks.md)

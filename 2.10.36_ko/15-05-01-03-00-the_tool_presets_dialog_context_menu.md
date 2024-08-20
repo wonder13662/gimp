@@ -32,6 +32,12 @@
 
 ***
 
+## 관련 정보
+
+[16.1.2. 컨텍스트 메뉴(Context Menu)](./16-01-02-context_menus.md)
+
+***
+
 ## 하위 페이지
 
 [15.5.1.3.1. 도구 프리셋 편집(Edit Tool Preset)](./15-05-01-03-01-edit_tool_preset.md)

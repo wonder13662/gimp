@@ -7,6 +7,12 @@
 
 ***
 
+## 관련 정보
+
+[16.1.2. 컨텍스트 메뉴(Context Menu)](./16-01-02-context_menus.md)
+
+***
+
 ## 하위 페이지
 
 [15.3.3.2.5.1. MyPaint 붓 위치 복사(Copy Mypaint brush location)](./15-03-03-02-05-01-copy_mypaint_brush_location.md)

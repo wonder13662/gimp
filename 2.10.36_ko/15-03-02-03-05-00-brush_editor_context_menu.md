@@ -7,6 +7,12 @@
 
 ***
 
+## 관련 정보
+
+[16.1.2. 컨텍스트 메뉴(Context Menu)](./16-01-02-context_menus.md)
+
+***
+
 ## 하위 페이지
 
 [15.3.2.3.5.1. 활성화 붓 편집하기(Edit Active Brush)](./15-03-02-03-05-01-edit_active_brush.md)

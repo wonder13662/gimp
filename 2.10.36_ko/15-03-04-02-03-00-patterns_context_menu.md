@@ -11,6 +11,12 @@
 
 ***
 
+## 관련 정보
+
+[16.1.2. 컨텍스트 메뉴(Context Menu)](./16-01-02-context_menus.md)
+
+***
+
 ## 하위 페이지
 
 [15.3.4.2.3.1. 무늬를 이미지로 열기(Open Pattern as Image)](./15-03-04-02-03-01-open_pattern_as_image.md)

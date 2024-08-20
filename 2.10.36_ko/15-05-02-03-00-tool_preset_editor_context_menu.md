@@ -7,6 +7,12 @@
 
 ***
 
+## 관련 정보
+
+[16.1.2. 컨텍스트 메뉴(Context Menu)](./16-01-02-context_menus.md)
+
+***
+
 ## 하위 페이지
 
 [15.5.2.3.1. 도구 옵션을 프리셋에 저장하기(Save Tool Options to Preset)](./15-05-02-03-01-save_tool_options_to_preset.md)
