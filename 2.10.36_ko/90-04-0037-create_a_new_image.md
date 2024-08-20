@@ -194,6 +194,27 @@
 
 [16.2.2.3.4. 감마(Gamma) - 그림 90.4.37.a202](./16-02-02-03-04-gamma.md#90-04-37-a202)
 
+<a id="90-04-37-a211"></a>
+
+#### 그림 90.4.37.a211. `새 이미지 만들기` 대화상자 → `고급 옵션` → `이 이미지의 색상 관리하기` (Windows) (우리말)
+<img width="479" height="611" alt="90-04-37-a211" src="https://github.com/user-attachments/assets/82a4aa7d-d56f-4b2b-be52-71716e6b1a2d" />
+
+[16.2.2.3.5. 이 이미지의 색상 관리하기(Color manage this image) - 그림 90.4.37.a211](./16-02-02-03-05-color_manage_this_image.md#90-04-37-a211)
+
+<a id="90-04-37-a221"></a>
+
+#### 그림 90.4.37.a221. `새 이미지 만들기` 대화상자 → `고급 옵션` → `색상 프로필` (Windows) (우리말)
+<img width="479" height="611" alt="90-04-37-a221" src="https://github.com/user-attachments/assets/ae82b3e1-ef84-4385-98f3-7c4702b0730d" />
+
+[16.2.2.3.6. 색상 프로파일(Color profile) - 그림 90.4.37.a221](./16-02-02-03-06-color_profile.md#90-04-37-a221)
+
+<a id="90-04-37-a222"></a>
+
+#### 그림 90.4.37.a222. `새 이미지 만들기` 대화상자 → `고급 옵션` → `색상 프로파일`: 드롭다운 목록 (Windows) (우리말)
+<img width="454" height="161" alt="90-04-37-a222" src="https://github.com/user-attachments/assets/12d58ced-72a7-42ee-b2eb-a8289468b127" />
+
+[16.2.2.3.6. 색상 프로파일(Color profile) - 그림 90.4.37.a222](./16-02-02-03-06-color_profile.md#90-04-37-a222)
+
 ***
 
 ## 다른 페이지로 가기

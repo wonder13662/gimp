@@ -8,7 +8,7 @@
 ## [16.6.6. 인덱스 모드(Indexed mode)](./16-06-06-indexed-mode.md)
 ## [16.6.7. 정밀도(Precision)](./16-06-07-00-precision.md)
 ## [16.6.8. Color management](./16-06-08-color-management.md)
-## [16.6.9. Enable color management](./16-06-09-enable-color-management.md)
+## [16.6.9. 색상 관리 활성화(Enable color management)](./16-06-09-enable-color-management.md)
 ## [16.6.10. Assign color profile](./16-06-10-assign-color-profile.md)
 ## [16.6.11. Convert to color profile](./16-06-11-convert-to-color-profile.md)
 ## [16.6.12. Discard color profile](./16-06-12-discard-color-profile.md)
