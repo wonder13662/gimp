@@ -17,5 +17,5 @@ X축과 Y축의 [해상도](./16-02-02-03-01-x_y_resolution.md)가 다르다면,
 
 <a id="90-04-37-a162"></a>
 
-#### [그림 90.4.37.a162. `새 이미지 만들기` 대화상자 → `가로/세로 모드` (Windows) (우리말)](./90-04-0037-create_a_new_image.md#90-04-37-a162)
+#### [그림 90.4.37.a162. `새 이미지 만들기` 대화상자 → `가로/세로 모드`: 가로 세로 맞바꾸기 (Windows) (우리말)](./90-04-0037-create_a_new_image.md#90-04-37-a162)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/1a4d880f-958d-4ecf-8478-904c58d49a2d"></video>

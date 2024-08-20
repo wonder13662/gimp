@@ -140,10 +140,17 @@
 
 <a id="90-04-37-a162"></a>
 
-#### 그림 90.4.37.a162. `새 이미지 만들기` 대화상자 → `가로/세로 모드` (Windows) (우리말)
+#### 그림 90.4.37.a162. `새 이미지 만들기` 대화상자 → `가로/세로 모드`: 가로 세로 맞바꾸기 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/1a4d880f-958d-4ecf-8478-904c58d49a2d"></video>
 
 [16.2.2.2.3. 가로/세로 모드(Portrait/Landscape mode) - 그림 90.4.37.a162](./16-02-02-02-03-portrait_landscape_mode.md#90-04-37-a162)
+
+<a id="90-04-37-a171"></a>
+
+#### 그림 90.4.37.a171. `새 이미지 만들기` 대화상자 → `고급 옵션` → `해상도` (Windows) (우리말)
+<img width="479" height="611" alt="90-04-37-a171" src="https://github.com/user-attachments/assets/26f169a4-5a91-4475-8143-b9c48e45a753" />
+
+[16.2.2.3.1. 해상도(X and Y resolution) - 그림 90.4.37.a171](./16-02-02-03-01-x_y_resolution.md#90-04-37-a171)
 
 ***
 
