@@ -166,6 +166,20 @@
 
 [16.2.2.3.2. 색상 공간(Colorspace) - 그림 90.4.37.a182](./16-02-02-03-02-colorspace.md#90-04-37-a182)
 
+<a id="90-04-37-a191"></a>
+
+#### 그림 90.4.37.a191. `새 이미지 만들기` 대화상자 → `고급 옵션` → `정밀도` (Windows) (우리말)
+<img width="479" height="611" alt="90-04-37-a191" src="https://github.com/user-attachments/assets/c2029e66-76d2-4fb7-b835-270a4df5604a" />
+
+[16.2.2.3.3. 정밀도(Precision) - 그림 90.4.37.a191](./16-02-02-03-03-precision.md#90-04-37-a191)
+
+<a id="90-04-37-a192"></a>
+
+#### 그림 90.4.37.a192. `새 이미지 만들기` 대화상자 → `고급 옵션` → `정밀도`: 드롭다운 목록 (Windows)
+<img width="145" height="127" alt="90-04-37-a192" src="https://github.com/user-attachments/assets/ffd53fca-d1a3-4170-b0d2-f305b933e5d5" />
+
+[16.2.2.3.3. 정밀도(Precision) - 그림 90.4.37.a192](./16-02-02-03-03-precision.md#90-04-37-a192)
+
 ***
 
 ## 다른 페이지로 가기
