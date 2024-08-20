@@ -1,5 +1,5 @@
 # 16.1.2. 컨텍스트 메뉴(Context Menu)
-GIMP(김프) 인터페이스에서 오른쪽 클릭을 하면, `컨텍스트 메뉴(Context Menu)`가 열립니다.
+GIMP(김프) 인터페이스에서 오른쪽 클릭을 하면, [`컨텍스트 메뉴(Context Menu)`](./19-glossaryx-context_menu.md)가 열립니다.
 
 `컨텍스트 메뉴(Context Menu)`에서 다양한 기능을 사용할 수 있습니다.
 
