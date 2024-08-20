@@ -215,6 +215,20 @@
 
 [16.2.2.3.6. 색상 프로파일(Color profile) - 그림 90.4.37.a222](./16-02-02-03-06-color_profile.md#90-04-37-a222)
 
+<a id="90-04-37-a231"></a>
+
+#### 그림 90.4.37.a231. `새 이미지 만들기` 대화상자 → `고급 옵션` → `채우기` (Windows) (우리말)
+<img width="479" height="611" alt="90-04-37-a231" src="https://github.com/user-attachments/assets/f6a87a43-1a17-4713-9359-d4ed19e31cf4" />
+
+[16.2.2.3.7. 채우기(Fill with) - 그림 90.4.37.a231](./16-02-02-03-07-fill_with.md#90-04-37-a231)
+
+<a id="90-04-37-a232"></a>
+
+#### 그림 90.4.37.a232. `새 이미지 만들기` 대화상자 → `고급 옵션` → `채우기`: 드롭다운 목록 (Windows) (우리말)
+<img width="126" height="127" alt="90-04-37-a232" src="https://github.com/user-attachments/assets/7b5f6102-cfa4-41bf-b531-ebb83b532ff5" />
+
+[16.2.2.3.7. 채우기(Fill with) - 그림 90.4.37.a232](./16-02-02-03-07-fill_with.md#90-04-37-a232)
+
 ***
 
 ## 다른 페이지로 가기
