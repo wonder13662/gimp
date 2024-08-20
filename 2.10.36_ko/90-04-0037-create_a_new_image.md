@@ -131,6 +131,20 @@
 
 [16.2.2.2.2. 이미지 크기(Image Size) - 그림 90.4.37.a154](./16-02-02-02-02-image_size.md#90-04-37-a154)
 
+<a id="90-04-37-a161"></a>
+
+#### 그림 90.4.37.a161. `새 이미지 만들기` 대화상자 → `가로/세로 모드` (Windows) (우리말)
+<img width="384" height="289" alt="90-04-37-a161" src="https://github.com/user-attachments/assets/76e8109a-3f31-40cc-b624-396f5f21d6d2" />
+
+[16.2.2.2.3. 가로/세로 모드(Portrait/Landscape mode) - 그림 90.4.37.a161](./16-02-02-02-03-portrait_landscape_mode.md#90-04-37-a161)
+
+<a id="90-04-37-a162"></a>
+
+#### 그림 90.4.37.a162. `새 이미지 만들기` 대화상자 → `가로/세로 모드` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/1a4d880f-958d-4ecf-8478-904c58d49a2d"></video>
+
+[16.2.2.2.3. 가로/세로 모드(Portrait/Landscape mode) - 그림 90.4.37.a162](./16-02-02-02-03-portrait_landscape_mode.md#90-04-37-a162)
+
 ***
 
 ## 다른 페이지로 가기
