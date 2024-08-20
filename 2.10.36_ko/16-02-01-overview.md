@@ -1,6 +1,6 @@
-# 16.2.1. Overview
+# 16.2.1. 개요(Overview)
 
-### [Home](./00-home.md)
-### [Parent: 16.2. 파일 메뉴](./16-02-00-the-file-menu.md)
-### [Prev: 16.1. Introduction to menus](./16-01-00-introduction_to_menus.md)
-### [Next: 16.2.2. New](./16-02-02-new.md)
+<a id="90-01-01-a1"></a>
+
+#### 그림 90.1.1.a1. `이미지 메뉴 바` → `파일`
+<img width="980" height="605" alt="90-01-01-a1" src="https://github.com/user-attachments/assets/6b7f21be-5170-4f22-aff7-fcbed5890f9d" />

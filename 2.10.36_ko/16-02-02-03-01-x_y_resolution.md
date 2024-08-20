@@ -1,0 +1,1 @@
+# 16.2.2.3.1. 해상도(X and Y resolution)

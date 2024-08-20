@@ -9,12 +9,12 @@
 
 <a id="90-01-01-01-a101"></a>
 
-#### [그림 90.1.1.1.a101. `파일` → `새 이미지`](./90-01-01-01-new.md#90-01-01-01-a101)
-![90-01-01-01-a101](https://github.com/wonder13662/gimp/assets/15767104/116f6c42-66d8-47ae-8877-9e49d80dc431)
+#### [그림 90.1.1.1.a101. `이미지 메뉴 바` → `파일` → `새 이미지`](./90-01-01-01-00-new.md#90-01-01-01-a101)
+<img width="980" height="605" alt="90-01-01-01-a101" src="https://github.com/user-attachments/assets/c2250b2e-4a8d-4e8a-8296-0d43f8bebf5d" />
 
 <a id="90-01-01-01-a111"></a>
 
-#### [영상 90.1.1.1.a111. 새 이미지 만들기](./90-01-01-01-new.md#90-01-01-01-a111)
+#### [영상 90.1.1.1.a111. 새 이미지 만들기](./90-01-01-01-00-new.md#90-01-01-01-a111)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/028b4f82-b28c-4c2d-96b3-76ab15e9c09a"></video>
 
 <a id="03-05-01-s2"></a>

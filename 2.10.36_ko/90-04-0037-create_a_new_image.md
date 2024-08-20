@@ -4,20 +4,26 @@
 <a id="90-04-37-a101"></a>
 
 #### 그림 90.4.37.a101. `새 이미지 만들기` 대화상자 (Windows) (우리말)
-![90-04-37-a101](https://github.com/wonder13662/gimp/assets/15767104/4dec9acc-8261-45c9-9223-48db1f819154)
+<img width="384" height="289" alt="90-04-37-a101" src="https://github.com/wonder13662/gimp/assets/15767104/4dec9acc-8261-45c9-9223-48db1f819154" />
 
 [5.2. 새 파일 만들기 - 그림 90.4.37.a101](./05-02-creating-new-files.md#90-04-37-a101)
+
+[16.2.2. 새 이미지...(New...) - 그림 90.4.37.a101](./16-02-02-00-new.md#90-04-37-a101)
 
 <a id="90-04-37-a102"></a>
 
 #### 그림 90.4.37.a102. `새 이미지 만들기` 대화상자 (Windows) (영어)
-![90-04-37-create_a_new_image(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/0e2ef777-efa1-4e1f-8100-b78d3bca35de)
+<img width="384" height="292" alt="90-04-37-a102" src="https://github.com/wonder13662/gimp/assets/15767104/0e2ef777-efa1-4e1f-8100-b78d3bca35de" />
+
+<a id="90-04-37-a103"></a>
 
 #### 그림 90.4.37.a103. `새 이미지 만들기` 대화상자 (Mac) (우리말)
-![90-04-37-create_a_new_image(mac)(ko)(50%)](https://github.com/wonder13662/gimp/assets/15767104/a9a513e9-acef-4ced-9acd-ab1b3d1fd144)
+<img width="383" height="272" alt="90-04-37-a103" src="https://github.com/wonder13662/gimp/assets/15767104/a9a513e9-acef-4ced-9acd-ab1b3d1fd144" />
+
+<a id="90-04-37-a104"></a>
 
 #### 그림 90.4.37.a104. `새 이미지 만들기` 대화상자 (Mac) (영어)
-![90-04-37-create_a_new_image(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/4bf97770-ca20-4b07-91ed-7ef815b1373c)
+<img width="383" height="268" alt="90-04-37-a104" src="https://github.com/wonder13662/gimp/assets/15767104/4bf97770-ca20-4b07-91ed-7ef815b1373c" />
 
 <a id="90-04-37-a111"></a>
 

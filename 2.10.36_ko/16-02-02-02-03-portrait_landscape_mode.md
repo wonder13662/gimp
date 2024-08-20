@@ -1,0 +1,1 @@
+# 16.2.2.2.3. 가로/세로 모드(Portrait/Landscape mode)

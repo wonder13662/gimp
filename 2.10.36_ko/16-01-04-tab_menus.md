@@ -22,7 +22,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.2. 파일 메뉴](./16-02-00-the-file-menu.md)
+[➡️ 다음: 16.2. 파일 메뉴(The File Menu)](./16-02-00-the-file-menu.md)
 
 [⬅️ 이전: 16.1.3. 떼어내기 메뉴(Tear-off Menu)](./16-01-03-tear_off_menus.md)
 

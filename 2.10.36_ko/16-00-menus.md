@@ -14,11 +14,11 @@
 
 [16.1.4. 탭 메뉴(Tab Menu)](./16-01-04-tab_menus.md)
 
-[16.2. 파일 메뉴](./16-02-00-the-file-menu.md)
+[16.2. 파일 메뉴(The File Menu)](./16-02-00-the-file-menu.md)
 
-[16.2.1. Overview](./16-02-01-overview.md)
+[16.2.1. 개요(Overview)](./16-02-01-overview.md)
 
-[16.2.2. 새 이미지](./16-02-02-new.md)
+[16.2.2. 새 이미지...(New...)](./16-02-02-00-new.md)
 
 [16.2.3. Create](./16-02-03-create.md)
 
