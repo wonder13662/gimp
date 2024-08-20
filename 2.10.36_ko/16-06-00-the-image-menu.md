@@ -33,7 +33,7 @@
 ## [16.6.31. New guide from selection](./16-06-31-new-guide-from-selection.md)
 ## [16.6.32. Remove all guides](./16-06-32-remove-all-guides.md)
 ## [16.6.33. Configure grid](./16-06-33-configure-grid.md)
-## [16.6.34. Image properties](./16-06-34-image-properties.md)
+## [16.6.34. 이미지 속성(Image properties)](./16-06-34-image-properties.md)
 ## [16.6.35. Metadata](./16-06-35-metadata.md)
 ## [16.6.36. Metadata viewer](./16-06-36-metadata-viewer.md)
 ## [16.6.37. Metadata editor](./16-06-37-metadata-editor.md)
