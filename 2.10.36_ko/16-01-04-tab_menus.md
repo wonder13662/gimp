@@ -17,3 +17,19 @@
 
 #### [영상 90.5.16.a101.1. 탭 메뉴가 있는 독(Dock) 안의 대화상자 (Windows) (우리말)](./90-05-16-00-tab_menu.md#90-05-16-a101-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/b46d9f62-2c85-46c3-9f94-0736735688c7"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.2. 파일 메뉴](./16-02-00-the-file-menu.md)
+
+[⬅️ 이전: 16.1.3. 떼어내기 메뉴(Tear-off Menu)](./16-01-03-tear_off_menus.md)
+
+[⬆️ 위: 16.1. 메뉴 소개(Introduction to menus)](./16-01-00-introduction_to_menus.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/menus.html#tab-menus)

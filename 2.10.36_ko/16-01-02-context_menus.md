@@ -78,3 +78,19 @@ GIMP(김프) 인터페이스에서 오른쪽 클릭을 하면, `컨텍스트 메
 
 #### [영상 90.5.1.a141. 타이틀 바의 컨텍스트 메뉴 열기 (Windows) (우리말)](./90-05-01-title_bar.md#90-05-01-a141)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/4574cf3a-2ce4-4a98-abbd-89bbf681f1a9"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.1.3. 떼어내기 메뉴(Tear-off Menu)](./16-01-03-tear_off_menus.md)
+
+[⬅️ 이전: 16.1.1. 이미지 메뉴 바(The Image Menu Bar)](./16-01-01-the_image_menu_bar.md)
+
+[⬆️ 위: 16.1. 메뉴 소개(Introduction to menus)](./16-01-00-introduction_to_menus.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/menus.html#context-menus)

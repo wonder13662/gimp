@@ -55,3 +55,19 @@
 
 #### [영상 90.5.a504. 단일창 모드에서의 떼어내기 메뉴 (Windows) (우리말)](./90-05-00-image_window.md#90-05-a504)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/097eae47-1c24-4abc-b312-9911ad21a38e"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.1.4. 탭 메뉴(Tab Menu)](./16-01-04-tab_menus.md)
+
+[⬅️ 이전: 16.1.2. 컨텍스트 메뉴(Context Menu)](./16-01-02-context_menus.md)
+
+[⬆️ 위: 16.1. 메뉴 소개(Introduction to menus)](./16-01-00-introduction_to_menus.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/menus.html#tear-off-menus)
