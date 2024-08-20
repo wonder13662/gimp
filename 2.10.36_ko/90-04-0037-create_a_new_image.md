@@ -39,6 +39,8 @@
 #### 그림 90.4.37.a121. `새 이미지 만들기` 대화상자: 고급옵션 (Windows) (우리말)
 ![90-04-37-create_a_new_image-advanced_options(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/605d2abd-bfb3-4dc7-b808-99aad6c1cc1c)
 
+[16.2.2.3. 고급 옵션(Advanced Options) - 그림 90.4.37.a121](./16-02-02-03-00-advanced_options.md#90-04-37-a121)
+
 <a id="90-04-37-a122"></a>
 
 #### 그림 90.4.37.a122. `새 이미지 만들기` 대화상자: 고급옵션 (Windows) (영어)

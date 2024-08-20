@@ -28,3 +28,23 @@ GIMP(김프)가 설치될 때, 스크린 크기의 캘리브레이션이 완료�
 하지만 이미지는 정확한 크기로 표시되지 않습니다.
 
 이런 경우에는 [12.1.16. 화면(Display)](./12-01-16-00-display.md)에서  스크린 인자(파라미터)를 조정할 수 있습니다.
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.2.2.3.2. 색상 공간(Colorspace)](./16-02-02-03-02-colorspace.md)
+
+[⬅️ 이전: 16.2.2.3. 고급 옵션(Advanced Options)](./16-02-02-03-00-advanced_options.md)
+
+[⬆️ 위: 16.2.2.3. 고급 옵션(Advanced Options)](./16-02-02-03-00-advanced_options.md)
+
+[⬆️ 위: 16.2.2. 새 이미지...(New...)](./16-02-02-00-new.md)
+
+[⬆️ 위: 16.2. 파일 메뉴(The File Menu)](./16-02-00-the-file-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-file-new.html#idm22657)

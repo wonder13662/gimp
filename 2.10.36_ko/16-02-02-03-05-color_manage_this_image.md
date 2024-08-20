@@ -11,3 +11,24 @@ When enabled (this is the default and should usually be left alone unless you kn
 다시 말해, 옵션이 켜져 있는 경우, GIMP(김프)에서 하는 모든 동작들이 사용자가 선택한 이미지의 [색상 프로필](./16-02-02-03-06-color_profile.md)을 기반으로 동작합니다.
 
 더 자세한 내용은 [16.6.9. 색상 관리 활성화(Enable color management)](./16-06-09-enable-color-management.md)을 참고해주세요.
+
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.2.2.3.6. 색상 프로파일(Color profile)](./16-02-02-03-06-color_profile.md)
+
+[⬅️ 이전: 16.2.2.3.4. 감마(Gamma)](./16-02-02-03-04-gamma.md)
+
+[⬆️ 위: 16.2.2.3. 고급 옵션(Advanced Options)](./16-02-02-03-00-advanced_options.md)
+
+[⬆️ 위: 16.2.2. 새 이미지...(New...)](./16-02-02-00-new.md)
+
+[⬆️ 위: 16.2. 파일 메뉴(The File Menu)](./16-02-00-the-file-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-file-new.html#idm22657)
