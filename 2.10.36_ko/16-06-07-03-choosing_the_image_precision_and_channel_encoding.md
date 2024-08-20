@@ -1,0 +1,1 @@
+# 16.6.7.3. 이미지 정밀도와 채널 인코딩 선택하기(Choosing the image precision and channel encoding)

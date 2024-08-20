@@ -3160,7 +3160,7 @@
 
 [16.6.6. 인덱스 모드(Indexed mode)](./16-06-06-indexed-mode.md)
 
-[16.6.7. 정밀도(Precision)](./16-06-07-precision.md)
+[16.6.7. 정밀도(Precision)](./16-06-07-00-precision.md)
 
 [16.6.8. Color management](./16-06-08-color-management.md)
 

@@ -1,0 +1,1 @@
+# 16.6.7.5. 이미지 정밀도 변환 대화상자(The Image Precision Conversion Dialog)

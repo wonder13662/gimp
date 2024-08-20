@@ -1,0 +1,1 @@
+# 16.6.7.2. 정밀도 하위 메뉴의 항목(The Contents of the "Precision" Submenu)

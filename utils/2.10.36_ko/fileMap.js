@@ -1688,7 +1688,7 @@ module.exports = {
         '16.6.6. 인덱스 모드(Indexed mode)',
       ],
       [
-        '16-06-07-precision.md', 
+        '16-06-07-00-precision.md', 
         '16.6.7. 정밀도(Precision)'
       ],
       [

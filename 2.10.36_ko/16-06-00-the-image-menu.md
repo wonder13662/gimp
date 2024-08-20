@@ -6,7 +6,7 @@
 ## [16.6.4. RGB mode](./16-06-04-rgb-mode.md)
 ## [16.6.5. 그레이스케일 모드(Grayscale mode)](./16-06-05-grayscale-mode.md)
 ## [16.6.6. 인덱스 모드(Indexed mode)](./16-06-06-indexed-mode.md)
-## [16.6.7. 정밀도(Precision)](./16-06-07-precision.md)
+## [16.6.7. 정밀도(Precision)](./16-06-07-00-precision.md)
 ## [16.6.8. Color management](./16-06-08-color-management.md)
 ## [16.6.9. Enable color management](./16-06-09-enable-color-management.md)
 ## [16.6.10. Assign color profile](./16-06-10-assign-color-profile.md)
