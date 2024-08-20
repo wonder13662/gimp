@@ -91,7 +91,7 @@
 
 <a id="90-04-37-a141"></a>
 
-#### 그림 90.4.37.a141. `새 이미지 만들기` 대화상자 → `양식` (Windows)
+#### 그림 90.4.37.a141. `새 이미지 만들기` 대화상자 → `양식` (Windows) (우리말)
 <img width="384" height="289" alt="90-04-37-a141" src="https://github.com/user-attachments/assets/34f80fa9-40cb-4955-98c2-a02de523d69d" />
 
 [16.2.2.2.1. 양식(Template) - 그림 90.4.37.a141](./16-02-02-02-01-template.md#90-04-37-a141)
@@ -102,6 +102,34 @@
 <img width="288" height="977" alt="90-04-37-a142" src="https://github.com/user-attachments/assets/3d784ffd-a77d-44d3-89f1-6d12b607ac0f" />
 
 [16.2.2.2.1. 양식(Template) - 그림 90.4.37.a142](./16-02-02-02-01-template.md#90-04-37-a142)
+
+<a id="90-04-37-a151"></a>
+
+#### 그림 90.4.37.a151. `새 이미지 만들기` 대화상자 → `이미지 크기` (Windows) (우리말)
+<img width="384" height="289" alt="90-04-37-a151" src="https://github.com/user-attachments/assets/1526bd1a-d9ee-4c60-ab3a-fe1de62486d0" />
+
+[16.2.2.2.2. 이미지 크기(Image Size) - 그림 90.4.37.a151](./16-02-02-02-02-image_size.md#90-04-37-a151)
+
+<a id="90-04-37-a152"></a>
+
+#### 그림 90.4.37.a152. `새 이미지 만들기` 대화상자 → `이미지 크기` → 단위 목록 (Windows) (우리말)
+<img width="214" height="382" alt="90-04-37-a152" src="https://github.com/user-attachments/assets/bb4f67f7-7cc3-45b5-9219-cef0043563ca" />
+
+[16.2.2.2.2. 이미지 크기(Image Size) - 그림 90.4.37.a152](./16-02-02-02-02-image_size.md#90-04-37-a152)
+
+<a id="90-04-37-a153"></a>
+
+#### 그림 90.4.37.a153. `새 이미지 만들기` 대화상자: 열려있는 이미지 없이 새로운 이미지 만들기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/3a5e8692-e502-416e-80e2-9473a4c7c28e"></video>
+
+[16.2.2.2.2. 이미지 크기(Image Size) - 그림 90.4.37.a153](./16-02-02-02-02-image_size.md#90-04-37-a153)
+
+<a id="90-04-37-a154"></a>
+
+#### 그림 90.4.37.a154. `새 이미지 만들기` 대화상자: 열려있는 이미지가 있는 상태에서 새로운 이미지 만들기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/4e1a768b-d6cf-435f-bfaf-afbe6685b1b1"></video>
+
+[16.2.2.2.2. 이미지 크기(Image Size) - 그림 90.4.37.a154](./16-02-02-02-02-image_size.md#90-04-37-a154)
 
 ***
 
