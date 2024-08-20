@@ -152,6 +152,20 @@
 
 [16.2.2.3.1. 해상도(X and Y resolution) - 그림 90.4.37.a171](./16-02-02-03-01-x_y_resolution.md#90-04-37-a171)
 
+<a id="90-04-37-a181"></a>
+
+#### 그림 90.4.37.a181. `새 이미지 만들기` 대화상자 → `고급 옵션` → `색상 공간` (Windows) (우리말)
+<img width="479" height="611" alt="90-04-37-a181" src="https://github.com/user-attachments/assets/1a3b8be2-1add-4ee4-9c63-a9f0a65994bc" />
+
+[16.2.2.3.2. 색상 공간(Colorspace) - 그림 90.4.37.a181](./16-02-02-03-02-colorspace.md#90-04-37-a181)
+
+<a id="90-04-37-a182"></a>
+
+#### 그림 90.4.37.a182. `새 이미지 만들기` 대화상자 → `고급 옵션` → `색상 공간`: 드롭다운 목록 (Windows) (우리말)
+<img width="220" height="157" alt="90-04-37-a182" src="https://github.com/user-attachments/assets/1d1d9ee9-a1c3-4b6f-ae2b-57b139a54847" />
+
+[16.2.2.3.2. 색상 공간(Colorspace) - 그림 90.4.37.a182](./16-02-02-03-02-colorspace.md#90-04-37-a182)
+
 ***
 
 ## 다른 페이지로 가기
