@@ -1271,8 +1271,8 @@ module.exports = {
         '16.2.2. New'
       ],
       [
-        '16-02-03-create.md', 
-        '16.2.3. Create'
+        '16-02-03-00-create.md', 
+        '16.2.3. 만들기(Create)'
       ],
       [
         '16-02-04-file-open.md', 

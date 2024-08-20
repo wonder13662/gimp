@@ -36,7 +36,7 @@
 
 [16.2.2.3.8. 설명(Comment)](./16-02-02-03-08-comment.md)
 
-[16.2.3. Create](./16-02-03-create.md)
+[16.2.3. 만들기(Create)](./16-02-03-00-create.md)
 
 [16.2.4. File open](./16-02-04-file-open.md)
 
