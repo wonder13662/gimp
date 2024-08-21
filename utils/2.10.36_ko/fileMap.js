@@ -1280,7 +1280,7 @@ module.exports = {
       ],
       [
         '16-02-05-open-as-layers.md', 
-        '16.2.5. Open as layers'
+        '16.2.5. 레이어로 열기(Open as layers)'
       ],
       [
         '16-02-06-open-location.md', 

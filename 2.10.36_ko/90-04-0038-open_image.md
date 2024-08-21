@@ -4,20 +4,20 @@
 <a id="90-04-38-a101"></a>
 
 #### 그림 90.4.38.a101. `이미지 열기` 대화상자 (Windows) (우리말)
-![90-04-38-a101](https://github.com/wonder13662/gimp/assets/15767104/208d13e1-6dd5-482a-be16-3288a358895d)
+<img width="746" height="494" alt="90-04-38-a101" src="https://github.com/wonder13662/gimp/assets/15767104/208d13e1-6dd5-482a-be16-3288a358895d" />
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a101](./05-03-01-00-open-file.md#90-04-38-a101)
 
 <a id="90-04-38-a102"></a>
 
 #### 그림 90.4.38.a102. `이미지 열기` 대화상자 (Windows) (영어)
-![90-04-38-open_image(windows)(en)](https://github.com/wonder13662/gimp/assets/15767104/dfbe60d4-d33f-41d0-996d-cc71f2291c9d)
+<img width="746" height="503" alt="90-04-38-a102" src="https://github.com/wonder13662/gimp/assets/15767104/dfbe60d4-d33f-41d0-996d-cc71f2291c9d" />
 
 #### 그림 90.4.38.a103. `이미지 열기` 대화상자 (Mac) (우리말)
-![90-04-38-open_image(mac)(ko)(50%)](https://github.com/wonder13662/gimp/assets/15767104/98d9155f-e3ec-49f5-ae5f-ef8252983697)
+<img width="821" height="590" alt="90-04-38-a103" src="https://github.com/wonder13662/gimp/assets/15767104/98d9155f-e3ec-49f5-ae5f-ef8252983697" />
 
 #### 그림 90.4.38.a104. `이미지 열기` 대화상자 (Mac) (영어)
-![90-04-38-open_image(mac)(en)(50%)](https://github.com/wonder13662/gimp/assets/15767104/44af20cd-d2d5-4d33-a0fc-a7c289201b5b)
+<img width="819" height="615" alt="90-04-38-a104" src="https://github.com/wonder13662/gimp/assets/15767104/44af20cd-d2d5-4d33-a0fc-a7c289201b5b" />
 
 <a id="90-04-38-a111"></a>
 
