@@ -1275,8 +1275,8 @@ module.exports = {
         '16.2.3. 만들기(Create)'
       ],
       [
-        '16-02-04-file-open.md', 
-        '16.2.4. File open'
+        '16-02-04-00-file-open.md', 
+        '16.2.4. 열기(File open)'
       ],
       [
         '16-02-05-open-as-layers.md', 

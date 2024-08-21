@@ -26,7 +26,7 @@ Linux에서는 `XSane` 3rd party 플러그인을 설치해야 합니다.
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.2.4. File open](./16-02-04-file-open.md)
+[➡️ 다음: 16.2.4. 열기(File open)](./16-02-04-00-file-open.md)
 
 [⬅️ 이전: 16.2.3.4. 스크린샷(Screenshot)](./16-02-03-04-screenshot.md)
 

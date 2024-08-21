@@ -1,0 +1,1 @@
+# 16.2.4.2.6. 북마크된 폴더 목록(Bookmarked Folder list)

@@ -1,0 +1,1 @@
+# 16.2.4.2.3. 현재 폴더 경로(Current folder path)
