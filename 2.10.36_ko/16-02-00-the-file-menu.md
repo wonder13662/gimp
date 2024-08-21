@@ -38,6 +38,16 @@
 
 [16.2.3. 만들기(Create)](./16-02-03-00-create.md)
 
+[16.2.3.1. 하위메뉴 활성화하기(Activate the Submenu)](./16-02-03-01-activate_the_submenu.md)
+
+[16.2.3.2. 클립보드에서 새 이미지 만들기(From Clipboard)](./16-02-03-02-from_clipboard.md)
+
+[16.2.3.3. 웹 페이지에서 새 이미지 만들기(From Web page)](./16-02-03-03-from_web_page.md)
+
+[16.2.3.4. 스크린샷(Screenshot)](./16-02-03-04-screenshot.md)
+
+[16.2.3.5. 스캐너/카메라(Scanner/Camera)](./16-02-03-05-scanner_camera.md)
+
 [16.2.4. File open](./16-02-04-file-open.md)
 
 [16.2.5. Open as layers](./16-02-05-open-as-layers.md)

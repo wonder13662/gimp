@@ -39,3 +39,21 @@ Windows의 `Print Screen` 키를 누르면 전체 화면이 캡쳐되어 클립�
 
 #### [영상 90.1.1.2.a22. `이미지 메뉴 바` → `파일` → `만들기` → `클립보드에서 새 이미지 만들기`: Windows의 `Print Screen` + Alt (Windows) (우리말)](./90-01-01-02-00-create.md#90-01-01-02-a22)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/9b254d57-34b6-405e-85b5-63bfb2e89c1d"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.2.3.3. 웹 페이지에서 새 이미지 만들기(From Web page)](./16-02-03-03-from_web_page.md)
+
+[⬅️ 이전: 16.2.3.1. 하위메뉴 활성화하기(Activate the Submenu)](./16-02-03-01-activate_the_submenu.md)
+
+[⬆️ 위: 16.2.3. 만들기(Create)](./16-02-03-00-create.md)
+
+[⬆️ 위: 16.2. 파일 메뉴(The File Menu)](./16-02-00-the-file-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-file-create.html#gimp-file-create-clipboard)

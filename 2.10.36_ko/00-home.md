@@ -2910,7 +2910,7 @@
 
 [15.5.11.2.1. 새로운 단축키 등록하기](./15-05-11-02-01-add_new_keyboard_shortcut.md)
 
-[15.5.11.2.2. 이미 등록된 단축키를 다시 입력한 경우](./15-05-11-02-02-overwrite_keyboard_shortcut.md)
+[15.5.11.2.2. 이미 등록된 단축키를 다시 입력](./15-05-11-02-02-overwrite_keyboard_shortcut.md)
 
 [15.5.11.2.3. 등록된 단축키 제거하기](./15-05-11-02-03-remove_keyboard_shortcut.md)
 
@@ -2936,7 +2936,45 @@
 
 [16.2.2. 새 이미지...(New...)](./16-02-02-00-new.md)
 
+[16.2.2.1. 명령 실행하기(Activate the command)](./16-02-02-01-activating_the_command.md)
+
+[16.2.2.2. 기본 옵션(Basic Options)](./16-02-02-02-00-basic_options.md)
+
+[16.2.2.2.1. 양식(Template)](./16-02-02-02-01-template.md)
+
+[16.2.2.2.2. 이미지 크기(Image Size)](./16-02-02-02-02-image_size.md)
+
+[16.2.2.2.3. 가로/세로 모드(Portrait/Landscape mode)](./16-02-02-02-03-portrait_landscape_mode.md)
+
+[16.2.2.3. 고급 옵션(Advanced Options)](./16-02-02-03-00-advanced_options.md)
+
+[16.2.2.3.1. 해상도(X and Y resolution)](./16-02-02-03-01-x_y_resolution.md)
+
+[16.2.2.3.2. 색상 공간(Colorspace)](./16-02-02-03-02-colorspace.md)
+
+[16.2.2.3.3. 정밀도(Precision)](./16-02-02-03-03-precision.md)
+
+[16.2.2.3.4. 감마(Gamma)](./16-02-02-03-04-gamma.md)
+
+[16.2.2.3.5. 이 이미지의 색상 관리하기(Color manage this image)](./16-02-02-03-05-color_manage_this_image.md)
+
+[16.2.2.3.6. 색상 프로파일(Color profile)](./16-02-02-03-06-color_profile.md)
+
+[16.2.2.3.7. 채우기(Fill with)](./16-02-02-03-07-fill_with.md)
+
+[16.2.2.3.8. 설명(Comment)](./16-02-02-03-08-comment.md)
+
 [16.2.3. 만들기(Create)](./16-02-03-00-create.md)
+
+[16.2.3.1. 하위메뉴 활성화하기(Activate the Submenu)](./16-02-03-01-activate_the_submenu.md)
+
+[16.2.3.2. 클립보드에서 새 이미지 만들기(From Clipboard)](./16-02-03-02-from_clipboard.md)
+
+[16.2.3.3. 웹 페이지에서 새 이미지 만들기(From Web page)](./16-02-03-03-from_web_page.md)
+
+[16.2.3.4. 스크린샷(Screenshot)](./16-02-03-04-screenshot.md)
+
+[16.2.3.5. 스캐너/카메라(Scanner/Camera)](./16-02-03-05-scanner_camera.md)
 
 [16.2.4. File open](./16-02-04-file-open.md)
 
@@ -3161,6 +3199,16 @@
 [16.6.6. 인덱스 모드(Indexed mode)](./16-06-06-indexed-mode.md)
 
 [16.6.7. 정밀도(Precision)](./16-06-07-00-precision.md)
+
+[16.6.7.1. 명령 활성화(Activating the Submenu)](./16-06-07-01-activating_the_submenu.md)
+
+[16.6.7.2. 정밀도 하위 메뉴의 항목(The Contents of the "Precision" Submenu)](./16-06-07-02-the_contents_of_the_precision_submenu.md)
+
+[16.6.7.3. 이미지 정밀도와 채널 인코딩 선택하기(Choosing the image precision and channel encoding)](./16-06-07-03-choosing_the_image_precision_and_channel_encoding.md)
+
+[16.6.7.4. 정밀도 옵션의 추가적인 설명(More information about the Precision options)](./16-06-07-04-more_information_about_the_precision_options.md)
+
+[16.6.7.5. 이미지 정밀도 변환 대화상자(The Image Precision Conversion Dialog)](./16-06-07-05-the_image_precision_conversion_dialog.md)
 
 [16.6.8. Color management](./16-06-08-color-management.md)
 
@@ -3938,6 +3986,8 @@
 
 [19. 용어집 - 채널(Channel)](./19-glossaryx-channel.md)
 
+[19. 용어집 - 채널 인코딩(Channel encoding)](./19-glossaryx-channel_encoding.md)
+
 [19. 용어집 - 체비쇼프(Chebyshev)](./19-glossaryx-chebyshev.md)
 
 [19. 용어집 - 색상 영역(Color Area)](./19-glossaryx-color_area.md)
@@ -3985,6 +4035,8 @@
 [19. 용어집 - CSS(Cascading Style Sheets)](./19-glossaryx-css.md)
 
 [19. 용어집 - 디더링(Dithering)](./19-glossaryx-dithering.md)
+
+[19. 용어집 - 점대점(Dot for Dot)](./19-glossaryx-dot_for_dot.md)
 
 [19. 용어집 - 다운샘플링(Downsample)](./19-glossaryx-downsample.md)
 
@@ -4052,6 +4104,8 @@
 
 [19. 용어집 - 마스크(Masks)](./19-glossaryx-masks.md)
 
+[19. 용어집 - 다중창 모드(Multi-window mode)](./19-glossaryx-multi_window_mode.md)
+
 [19. 용어집 - 붓 파일 확장자 - `.myb`](./19-glossaryx-myb.md)
 
 [19. 용어집 - 비파괴 검사(Non-destructive testing)](./19-glossaryx-non_destructive_testing.md)
@@ -4059,6 +4113,8 @@
 [19. 용어집 - 오프셋(Offset)](./19-glossaryx-offset.md)
 
 [19. 용어집 - OpenICC Project](./19-glossaryx-open_icc.md)
+
+[19. 용어집 - 패러사이트(Parasite)](./19-glossaryx-parasite.md)
 
 [19. 용어집 - Pass-through](./19-glossaryx-pass_through.md)
 
@@ -4122,17 +4178,23 @@
 
 [19. 용어집 - 선택 모드(Selection Mode)](./19-glossaryx-selection_mode-handle_mode.md)
 
+[19. 용어집 - 단일창 모드(Single Window Mode)](./19-glossaryx-single_window_mode.md)
+
 [19. 용어집 - 색상 교정(Soft Proofing)](./19-glossaryx-soft_proofing.md)
 
 [19. 용어집 - 상태 표시 영역(Status Area)](./19-glossaryx-status_area.md)
 
 [19. 용어집 - string_append](./19-glossaryx-string_append.md)
 
+[19. 용어집 - 탭 메뉴(Tab Menu)](./19-glossaryx-tab_menu.md)
+
 [19. 용어집 - 탭 메뉴(Tab Menu)](./19-glossaryx-tap_menu.md)
 
 [19. 용어집 - 떼어내기 메뉴(Tear-off Menu)](./19-glossaryx-tear_off_menu.md)
 
 [19. 용어집 - 텍스트 박스의 동적, 고정 모드](./19-glossaryx-text_box_mode.md)
+
+[19. 용어집 - 타이틀 바(Title Bar)](./19-glossaryx-title_bar.md)
 
 [19. 용어집 - 도구 프리셋(Tool Preset)](./19-glossaryx-tool_preset.md)
 
@@ -5658,6 +5720,10 @@
 
 [90.4.150. 양식 삭제(New Template)](./90-04-0150-delete_template.md)
 
+[90.4.151. 웹페이지에서 만들기(Create from Webpage)](./90-04-0151-create_from_webpage.md)
+
+[90.4.152. 스크린샷(Screenshot)](./90-04-0152-screenshot.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
@@ -6509,6 +6575,12 @@
 [90.10.49.1. 키보드 단축키](./90-10-49-01-00-keyboard_shortcut.md)
 
 [90.10.49.1.1. `대화상자` → `그라디언트`: 키보드 단축키 Ctrl(⌘) + `G`](./90-10-49-01-01-ctrl_g.md)
+
+[90.10.50. `이미지 메뉴 바` → `파일` → `새 이미지`](./90-10-50-00-menu_file_new.md)
+
+[90.10.50.1. 키보드 단축키](./90-10-50-01-00-keyboard_shortcut.md)
+
+[90.10.50.1.1. `이미지 메뉴 바` → `파일` → `새 이미지`: 키보드 단축키 Ctrl(⌘) + `N`](./90-10-50-01-01-ctrl_n.md)
 
 [90.100. 저작권(Copyright)](./90-100-copyright.md)
 

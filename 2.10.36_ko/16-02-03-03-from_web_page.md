@@ -24,3 +24,21 @@
 
 #### [영상 90.1.1.2.a31. `이미지 메뉴 바` → `파일` → `만들기` → `웹 페이지에서 새 이미지 만들기` (Windows) (우리말)](./90-01-01-02-00-create.md#90-01-01-02-a31)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/55518664-5118-41c2-a24a-aa2ac4400bd2"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.2.3.4. 스크린샷(Screenshot)](./16-02-03-04-screenshot.md)
+
+[⬅️ 이전: 16.2.3.2. 클립보드에서 새 이미지 만들기(From Clipboard)](./16-02-03-02-from_clipboard.md)
+
+[⬆️ 위: 16.2.3. 만들기(Create)](./16-02-03-00-create.md)
+
+[⬆️ 위: 16.2. 파일 메뉴(The File Menu)](./16-02-00-the-file-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-file-create.html#idm22844)

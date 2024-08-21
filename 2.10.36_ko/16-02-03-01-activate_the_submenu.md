@@ -18,3 +18,21 @@
 
 #### [그림 90.1.1.2.a2. `이미지 메뉴 바` → `파일` → `만들기` (Mac)](./90-01-01-02-00-create.md#90-01-01-02-a2)
 <img width="750" height="533" alt="90-01-01-02-a2" src="https://github.com/user-attachments/assets/daedbefc-7a6a-440e-af78-b5c740fc5f6f" />
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.2.3.2. 클립보드에서 새 이미지 만들기(From Clipboard)](./16-02-03-02-from_clipboard.md)
+
+[⬅️ 이전: 16.2.3. 만들기(Create)](./16-02-03-00-create.md)
+
+[⬆️ 위: 16.2.3. 만들기(Create)](./16-02-03-00-create.md)
+
+[⬆️ 위: 16.2. 파일 메뉴(The File Menu)](./16-02-00-the-file-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-file-create.html#idm22824)

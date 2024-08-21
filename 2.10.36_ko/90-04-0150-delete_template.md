@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.151. 웹페이지에서 만들기(Create from Webpage)](./90-04-0151-create_from_webpage.md)
 
 [⬅️ 이전: 90.4.149. 양식 편집(New Template)](./90-04-0149-edit_template.md)
 

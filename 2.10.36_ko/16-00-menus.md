@@ -20,7 +20,45 @@
 
 [16.2.2. 새 이미지...(New...)](./16-02-02-00-new.md)
 
+[16.2.2.1. 명령 실행하기(Activate the command)](./16-02-02-01-activating_the_command.md)
+
+[16.2.2.2. 기본 옵션(Basic Options)](./16-02-02-02-00-basic_options.md)
+
+[16.2.2.2.1. 양식(Template)](./16-02-02-02-01-template.md)
+
+[16.2.2.2.2. 이미지 크기(Image Size)](./16-02-02-02-02-image_size.md)
+
+[16.2.2.2.3. 가로/세로 모드(Portrait/Landscape mode)](./16-02-02-02-03-portrait_landscape_mode.md)
+
+[16.2.2.3. 고급 옵션(Advanced Options)](./16-02-02-03-00-advanced_options.md)
+
+[16.2.2.3.1. 해상도(X and Y resolution)](./16-02-02-03-01-x_y_resolution.md)
+
+[16.2.2.3.2. 색상 공간(Colorspace)](./16-02-02-03-02-colorspace.md)
+
+[16.2.2.3.3. 정밀도(Precision)](./16-02-02-03-03-precision.md)
+
+[16.2.2.3.4. 감마(Gamma)](./16-02-02-03-04-gamma.md)
+
+[16.2.2.3.5. 이 이미지의 색상 관리하기(Color manage this image)](./16-02-02-03-05-color_manage_this_image.md)
+
+[16.2.2.3.6. 색상 프로파일(Color profile)](./16-02-02-03-06-color_profile.md)
+
+[16.2.2.3.7. 채우기(Fill with)](./16-02-02-03-07-fill_with.md)
+
+[16.2.2.3.8. 설명(Comment)](./16-02-02-03-08-comment.md)
+
 [16.2.3. 만들기(Create)](./16-02-03-00-create.md)
+
+[16.2.3.1. 하위메뉴 활성화하기(Activate the Submenu)](./16-02-03-01-activate_the_submenu.md)
+
+[16.2.3.2. 클립보드에서 새 이미지 만들기(From Clipboard)](./16-02-03-02-from_clipboard.md)
+
+[16.2.3.3. 웹 페이지에서 새 이미지 만들기(From Web page)](./16-02-03-03-from_web_page.md)
+
+[16.2.3.4. 스크린샷(Screenshot)](./16-02-03-04-screenshot.md)
+
+[16.2.3.5. 스캐너/카메라(Scanner/Camera)](./16-02-03-05-scanner_camera.md)
 
 [16.2.4. File open](./16-02-04-file-open.md)
 
@@ -245,6 +283,16 @@
 [16.6.6. 인덱스 모드(Indexed mode)](./16-06-06-indexed-mode.md)
 
 [16.6.7. 정밀도(Precision)](./16-06-07-00-precision.md)
+
+[16.6.7.1. 명령 활성화(Activating the Submenu)](./16-06-07-01-activating_the_submenu.md)
+
+[16.6.7.2. 정밀도 하위 메뉴의 항목(The Contents of the "Precision" Submenu)](./16-06-07-02-the_contents_of_the_precision_submenu.md)
+
+[16.6.7.3. 이미지 정밀도와 채널 인코딩 선택하기(Choosing the image precision and channel encoding)](./16-06-07-03-choosing_the_image_precision_and_channel_encoding.md)
+
+[16.6.7.4. 정밀도 옵션의 추가적인 설명(More information about the Precision options)](./16-06-07-04-more_information_about_the_precision_options.md)
+
+[16.6.7.5. 이미지 정밀도 변환 대화상자(The Image Precision Conversion Dialog)](./16-06-07-05-the_image_precision_conversion_dialog.md)
 
 [16.6.8. Color management](./16-06-08-color-management.md)
 

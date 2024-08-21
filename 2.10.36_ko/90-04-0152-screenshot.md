@@ -56,3 +56,17 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/5cce677f-4e1d-4375-abcb-03aa644aaa64"></video>
 
 [16.2.3.4. 스크린샷(Screenshot) - 영상 90.4.152.a121](./16-02-03-04-screenshot.md#90-04-152-a121)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+
+[⬅️ 이전: 90.4.151. 웹페이지에서 만들기(Create from Webpage)](./90-04-0151-create_from_webpage.md)
+
+[⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-0000-dialogs.md)
+
+[⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
+
+[🏠 홈](./00-home.md)
