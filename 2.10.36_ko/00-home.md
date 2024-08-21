@@ -2978,6 +2978,32 @@
 
 [16.2.4. 열기(File open)](./16-02-04-00-file-open.md)
 
+[16.2.4.1. 대화상자 활성화하기(Activate Dialog)](./16-02-04-01-activate_dialog.md)
+
+[16.2.4.2. 파일 탐색(File browsing)](./16-02-04-02-00-file_browsing.md)
+
+[16.2.4.2.1. 파일 이름 입력 버튼(Type a file name button)](./16-02-04-02-01-type_a_file_name_button.md)
+
+[16.2.4.2.2. 위치 입력창(Location text box)](./16-02-04-02-02-location_text_box.md)
+
+[16.2.4.2.3. 현재 폴더 경로(Current folder path)](./16-02-04-02-03-current_folder_path.md)
+
+[16.2.4.2.4. 검색(Search)](./16-02-04-02-04-search.md)
+
+[16.2.4.2.5. 폴더 목록(Folder list)](./16-02-04-02-05-folder_list.md)
+
+[16.2.4.2.6. 북마크된 폴더 목록(Bookmarked Folder list)](./16-02-04-02-06-bookmarked_folder_list.md)
+
+[16.2.4.2.7. 콘텐츠 목록(Content List)](./16-02-04-02-07-content_list.md)
+
+[16.2.4.2.8. 미리보기(Preview)](./16-02-04-02-08-preview.md)
+
+[16.2.4.2.9. 북마크 추가 버튼(Add bookmark button)](./16-02-04-02-09-add_bookmark_button.md)
+
+[16.2.4.2.10. 파일 유형 선택(Select File Type)](./16-02-04-02-10-select_file_type.md)
+
+[16.2.4.3. 이미지와 색상 프로파일을 불러오기(Importing an image with a color profile)](./16-02-04-03-importing_an_image_with_a_color_profile.md)
+
 [16.2.5. 레이어로 열기(Open as layers)](./16-02-05-open-as-layers.md)
 
 [16.2.6. Open location](./16-02-06-open-location.md)
@@ -6582,11 +6608,17 @@
 
 [90.10.50.1.1. `이미지 메뉴 바` → `파일` → `새 이미지`: 키보드 단축키 Ctrl(⌘) + `N`](./90-10-50-01-01-ctrl_n.md)
 
-[90.100. 저작권(Copyright)](./90-100-copyright.md)
+[90.10.51. `이미지 메뉴 바` → `파일` → `열기`](./90-10-51-00-menu_file_open.md)
+
+[90.10.51.1. 키보드 단축키](./90-10-51-01-00-keyboard_shortcut.md)
+
+[90.10.51.1.1. `이미지 메뉴 바` → `파일` → `열기`: 키보드 단축키 Ctrl(⌘) + `O`](./90-10-51-01-01-ctrl_o.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
 [90.90.1. 컬러 모델(Color Model)](./90-90-01-color_model.md)
+
+[90.91. 저작권(Copyright)](./90-91-copyright.md)
 
 [90.97. 표기법](./90-97-notations.md)
 

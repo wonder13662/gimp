@@ -18,7 +18,9 @@ Permission is granted to copy, distribute and/or modify this document under the 
 
 ## 다른 페이지로 가기
 
-[⬅️ 이전: ?]()
+[➡️ 다음: 90.98. 문제 해결](./90-98-trouble_shooting.md)
+
+[⬅️ 이전: 90.91. 저작권(Copyright)](./90-91-copyright.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 
