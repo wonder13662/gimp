@@ -2988,7 +2988,7 @@
 
 [16.2.4.2.3. 현재 폴더 경로(Current folder path)](./16-02-04-02-03-current_folder_path.md)
 
-[16.2.4.2.4. 검색(Search)](./16-02-04-02-04-search.md)
+[16.2.4.2.4. 검색(Search)](./16-02-04-02-04-search_n_recently_used.md)
 
 [16.2.4.2.5. 폴더 목록(Folder list)](./16-02-04-02-05-folder_list.md)
 

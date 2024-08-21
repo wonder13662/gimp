@@ -8,6 +8,10 @@
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a101](./05-03-01-00-open-file.md#90-04-38-a101)
 
+[16.2.4. 열기(File open) - 그림 90.4.38.a101](./16-02-04-00-file-open.md#90-04-38-a101)
+
+[16.2.4.2. 파일 탐색(File browsing) - 그림 90.4.38.a101](./16-02-04-02-00-file_browsing.md#90-04-38-a101)
+
 <a id="90-04-38-a102"></a>
 
 #### 그림 90.4.38.a102. `이미지 열기` 대화상자 (Windows) (영어)
@@ -21,35 +25,63 @@
 
 <a id="90-04-38-a111"></a>
 
-#### 그림 90.4.38.a111. `이미지 열기` 대화상자 - 위치(Places) 목록 (Windows) (우리말)
-![90-04-38-a111](https://github.com/wonder13662/gimp/assets/15767104/9395a68d-1c2a-4fc2-a690-9952a690f276)
+#### 그림 90.4.38.a111. `이미지 열기` 대화상자 → 위치(Places) 목록 (Windows) (우리말)
+<img width="746" height="494" alt="90-04-38-a111" src="https://github.com/wonder13662/gimp/assets/15767104/9395a68d-1c2a-4fc2-a690-9952a690f276" />
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a111](./05-03-01-00-open-file.md#90-04-38-a111)
 
+<a id="90-04-38-a111-01"></a>
+
+#### 그림 90.4.38.a111.1. `이미지 열기` 대화상자 → 위치(Places) 목록 → `검색` (Windows) (우리말)
+<img width="746" height="494" alt="90-04-38-a111-01" src="https://github.com/user-attachments/assets/ad514a0c-6e21-4ee7-8a2d-9e67fc9659bf" />
+
+[16.2.4.2.4. 검색과 최근사용(Search & Recently Used) - 그림 90.4.38.a111.1](./16-02-04-02-04-search_n_recently_used.md#90-04-38-a111-01)
+
+<a id="90-04-38-a111-01-01"></a>
+
+#### 영상 90.4.38.a111.1.1. `이미지 열기` 대화상자 → 위치(Places) 목록 → `검색` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6d29f77a-332d-4730-99e5-37a8dcaee5e0"></video>
+
+[16.2.4.2.4. 검색과 최근사용(Search & Recently Used) - 영상 90.4.38.a111.1.1](./16-02-04-02-04-search_n_recently_used.md#90-04-38-a111-01-01)
+
+<a id="90-04-38-a111-02"></a>
+
+#### 그림 90.4.38.a111.2. `이미지 열기` 대화상자 → 위치(Places) 목록 → `최근 사용` (Windows) (우리말)
+<img width="746" height="494" alt="90-04-38-a111-02" src="https://github.com/user-attachments/assets/9ebb6906-e210-423f-9ed5-3588fc0242b5" />
+
+[16.2.4.2.4. 검색과 최근사용(Search & Recently Used) - 그림 90.4.38.a111.2](./16-02-04-02-04-search_n_recently_used.md#90-04-38-a111-02)
+
+<a id="90-04-38-a111-02-01"></a>
+
+#### 영상 90.4.38.a111.2.1. `이미지 열기` 대화상자 → 위치(Places) 목록 → `최근 사용` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/53567fbf-0596-4c66-abd4-168c8ccc760f"></video>
+
+[16.2.4.2.4. 검색과 최근사용(Search & Recently Used) - 영상 90.4.38.a111.2.1](./16-02-04-02-04-search_n_recently_used.md#90-04-38-a111-02-01)
+
 <a id="90-04-38-a112"></a>
 
-#### 그림 90.4.38.a112. `이미지 열기` 대화상자 - 위치(Places) 목록의 기본 폴더 (Windows) (우리말)
+#### 그림 90.4.38.a112. `이미지 열기` 대화상자 → 위치(Places) 목록 → `기본 폴더` (Windows) (우리말)
 ![90-04-38-a112](https://github.com/wonder13662/gimp/assets/15767104/e2b038c2-8142-42c0-86a6-392fe5daf53a)
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a112](./05-03-01-00-open-file.md#90-04-38-a112)
 
 <a id="90-04-38-a113"></a>
 
-#### 그림 90.4.38.a113. `이미지 열기` 대화상자 - 위치(Places) 목록의 `+` 버튼 (Windows) (우리말)
+#### 그림 90.4.38.a113. `이미지 열기` 대화상자 → 위치(Places) 목록의 `+` 버튼 (Windows) (우리말)
 ![90-04-38-a113](https://github.com/wonder13662/gimp/assets/15767104/bada7425-8039-46d7-ace5-e85d466dccc4)
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a113](./05-03-01-00-open-file.md#90-04-38-a113)
 
 <a id="90-04-38-a114"></a>
 
-#### 그림 90.4.38.a114. `이미지 열기` 대화상자 - 위치(Places) 목록의 `-` 버튼 (Windows) (우리말)
+#### 그림 90.4.38.a114. `이미지 열기` 대화상자 → 위치(Places) 목록의 `-` 버튼 (Windows) (우리말)
 ![90-04-38-a114](https://github.com/wonder13662/gimp/assets/15767104/2c0fea1e-4006-42b0-9faa-0f12c7594ce2)
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a114](./05-03-01-00-open-file.md#90-04-38-a114)
 
 <a id="90-04-38-a115"></a>
 
-#### 영상 90.4.38.a115. `이미지 열기` 대화상자 - 위치(Places) 목록의 폴더를 클릭 (Windows) (우리말)
+#### 영상 90.4.38.a115. `이미지 열기` 대화상자 → 위치(Places) 목록의 폴더를 클릭 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c792bbc8-26cc-49a7-b2de-6c66008ec909"></video>
 
 [5.3.1. 파일 열기 - 영상 90.4.38.a115](./05-03-01-00-open-file.md#90-04-38-a115)
@@ -127,9 +159,11 @@
 <a id="90-04-38-a141"></a>
 
 #### 그림 90.4.38.a141. `이미지 열기` 대화상자 - 위치 입력창 (Windows) (우리말)
-![90-04-38-a141](https://github.com/wonder13662/gimp/assets/15767104/48cfaeaa-15aa-494e-afbe-635402e0ade6)
+<img width="746" height="506" alt="90-04-38-a141" src="https://github.com/wonder13662/gimp/assets/15767104/48cfaeaa-15aa-494e-afbe-635402e0ade6" />
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a141](./05-03-01-00-open-file.md#90-04-38-a141)
+
+[16.2.4.2.2. 위치 입력창(Location text box) - 그림 90.4.38.a141](./16-02-04-02-02-location_text_box.md#90-04-38-a141)
 
 <a id="90-04-38-a142"></a>
 
@@ -140,10 +174,12 @@
 
 <a id="90-04-38-a143"></a>
 
-#### 그림 90.4.38.a143. `이미지 열기` 대화상자 - 종이와 연필 아이콘 (Windows) (우리말)
-![90-04-38-a143](https://github.com/wonder13662/gimp/assets/15767104/7145e76c-7546-425a-ad8a-0ae7302168df)
+#### 그림 90.4.38.a143. `이미지 열기` 대화상자 → 종이와 연필 아이콘 (Windows) (우리말)
+<img width="746" height="506" alt="90-04-38-a143" src="https://github.com/wonder13662/gimp/assets/15767104/7145e76c-7546-425a-ad8a-0ae7302168df" />
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a143](./05-03-01-00-open-file.md#90-04-38-a143)
+
+[16.2.4.2.1. 파일 이름 입력 버튼(Type a file name button) - 그림 90.4.38.a143](./16-02-04-02-01-type_a_file_name_button.md#90-04-38-a143)
 
 <a id="90-04-38-a144"></a>
 
@@ -155,9 +191,11 @@
 <a id="90-04-38-a151"></a>
 
 #### 그림 90.4.38.a151. `이미지 열기` 대화상자 - 폴더 계층 (Windows) (우리말)
-![90-04-38-a151](https://github.com/wonder13662/gimp/assets/15767104/8d722a80-c3dd-4d2f-ad08-1d1083f17df1)
+<img width="746" height="501" alt="90-04-38-a151" src="https://github.com/wonder13662/gimp/assets/15767104/8d722a80-c3dd-4d2f-ad08-1d1083f17df1" />
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a151](./05-03-01-00-open-file.md#90-04-38-a151)
+
+[16.2.4.2.3. 현재 폴더 경로(Current folder path) - 그림 90.4.38.a151](./16-02-04-02-03-current_folder_path.md#90-04-38-a151)
 
 <a id="90-04-38-a152"></a>
 
