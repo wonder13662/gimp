@@ -39,3 +39,23 @@
 
 #### [영상 90.4.38.a111.2.1. `이미지 열기` 대화상자 → 위치(Places) 목록 → `최근 사용` (Windows) (우리말)](./90-04-0038-open_image.md#90-04-38-a111-02-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/53567fbf-0596-4c66-abd4-168c8ccc760f"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.2.4.2.5. 폴더 목록(Folder list)](./16-02-04-02-05-folder_list.md)
+
+[⬅️ 이전: 16.2.4.2.3. 현재 폴더 경로(Current folder path)](./16-02-04-02-03-current_folder_path.md)
+
+[⬆️ 위: 16.2.4.2. 파일 탐색(File browsing)](./16-02-04-02-00-file_browsing.md)
+
+[⬆️ 위: 16.2.4. 열기(File open)](./16-02-04-00-file-open.md)
+
+[⬆️ 위: 16.2. 파일 메뉴(The File Menu)](./16-02-00-the-file-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-file-open.html#idm22926)

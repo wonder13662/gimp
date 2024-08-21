@@ -2992,13 +2992,13 @@
 
 [16.2.4.2.5. 폴더 목록(Folder list)](./16-02-04-02-05-folder_list.md)
 
-[16.2.4.2.6. 북마크된 폴더 목록(Bookmarked Folder list)](./16-02-04-02-06-bookmarked_folder_list.md)
+[16.2.4.2.6. 책갈피에 추가된 폴더 목록(Bookmarked Folder list)](./16-02-04-02-06-bookmarked_folder_list.md)
 
 [16.2.4.2.7. 콘텐츠 목록(Content List)](./16-02-04-02-07-content_list.md)
 
 [16.2.4.2.8. 미리보기(Preview)](./16-02-04-02-08-preview.md)
 
-[16.2.4.2.9. 북마크 추가 버튼(Add bookmark button)](./16-02-04-02-09-add_bookmark_button.md)
+[16.2.4.2.9. 책갈피 추가/삭제 버튼(Add/Remove bookmark button)](./16-02-04-02-09-add_bookmark_button.md)
 
 [16.2.4.2.10. 파일 유형 선택(Select File Type)](./16-02-04-02-10-select_file_type.md)
 

@@ -61,23 +61,29 @@
 <a id="90-04-38-a112"></a>
 
 #### 그림 90.4.38.a112. `이미지 열기` 대화상자 → 위치(Places) 목록 → `기본 폴더` (Windows) (우리말)
-![90-04-38-a112](https://github.com/wonder13662/gimp/assets/15767104/e2b038c2-8142-42c0-86a6-392fe5daf53a)
+<img width="746" height="494" alt="90-04-38-a112" src="https://github.com/wonder13662/gimp/assets/15767104/e2b038c2-8142-42c0-86a6-392fe5daf53a" />
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a112](./05-03-01-00-open-file.md#90-04-38-a112)
+
+[16.2.4.2.5. 폴더 목록(Folder list) - 그림 90.4.38.a112](./16-02-04-02-05-folder_list.md#90-04-38-a112)
 
 <a id="90-04-38-a113"></a>
 
 #### 그림 90.4.38.a113. `이미지 열기` 대화상자 → 위치(Places) 목록의 `+` 버튼 (Windows) (우리말)
-![90-04-38-a113](https://github.com/wonder13662/gimp/assets/15767104/bada7425-8039-46d7-ace5-e85d466dccc4)
+<img width="746" height="494" alt="90-04-38-a113" src="https://github.com/wonder13662/gimp/assets/15767104/bada7425-8039-46d7-ace5-e85d466dccc4" />
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a113](./05-03-01-00-open-file.md#90-04-38-a113)
+
+[16.2.4.2.9. 책갈피 추가/삭제 버튼(Add/Remove bookmark button) - 그림 90.4.38.a113](./16-02-04-02-09-add_bookmark_button.md#90-04-38-a113)
 
 <a id="90-04-38-a114"></a>
 
 #### 그림 90.4.38.a114. `이미지 열기` 대화상자 → 위치(Places) 목록의 `-` 버튼 (Windows) (우리말)
-![90-04-38-a114](https://github.com/wonder13662/gimp/assets/15767104/2c0fea1e-4006-42b0-9faa-0f12c7594ce2)
+<img width="746" height="494" alt="90-04-38-a114" src="https://github.com/wonder13662/gimp/assets/15767104/2c0fea1e-4006-42b0-9faa-0f12c7594ce2" />
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a114](./05-03-01-00-open-file.md#90-04-38-a114)
+
+[16.2.4.2.9. 책갈피 추가/삭제 버튼(Add/Remove bookmark button) - 그림 90.4.38.a114](./16-02-04-02-09-add_bookmark_button.md#90-04-38-a114)
 
 <a id="90-04-38-a115"></a>
 
@@ -100,12 +106,23 @@
 
 [5.3.1. 파일 열기 - 영상 90.4.38.a117](./05-03-01-00-open-file.md#90-04-38-a117)
 
+<a id="90-04-38-a118"></a>
+
+#### 그림 90.4.38.a118. `이미지 열기` 대화상자 → 위치(Places) 목록 → `책갈피에 추가된 폴더` (Windows) (우리말)
+<img width="707" height="565" alt="90-04-38-a118" src="https://github.com/user-attachments/assets/8e28a155-a61c-4aa1-b746-8b223392c883" />
+
+[5.3.1. 파일 열기 - 그림 90.4.38.a118](./05-03-01-00-open-file.md#90-04-38-a118)
+
+[16.2.4.2.6. 책갈피에 추가된 폴더 목록(Bookmarked Folder list) - 그림 90.4.38.a118](./16-02-04-02-06-bookmarked_folder_list.md#90-04-38-a118)
+
 <a id="90-04-38-a121"></a>
 
-#### 그림 90.4.38.a121. `이미지 열기` 대화상자 - 콘텐츠 목록 (Windows) (우리말)
-![90-04-38-a121](https://github.com/wonder13662/gimp/assets/15767104/d2fa06b0-52b7-4b39-a993-ffa4232b5ba9)
+#### 그림 90.4.38.a121. `이미지 열기` 대화상자 → 콘텐츠 목록 (Windows) (우리말)
+<img width="746" height="494" alt="90-04-38-a121" src="https://github.com/wonder13662/gimp/assets/15767104/d2fa06b0-52b7-4b39-a993-ffa4232b5ba9" />
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a121](./05-03-01-00-open-file.md#90-04-38-a121)
+
+[16.2.4.2.7. 콘텐츠 목록(Content List) - 그림 90.4.38.a121](./16-02-04-02-07-content_list.md#90-04-38-a121)
 
 <a id="90-04-38-a122"></a>
 
@@ -124,9 +141,11 @@
 <a id="90-04-38-a124"></a>
 
 #### 그림 90.4.38.a124. `이미지 열기` 대화상자 - 콘텐츠 목록의 파일 유형 제한 (Windows) (우리말)
-![90-04-38-a124](https://github.com/wonder13662/gimp/assets/15767104/c58708b1-dbd0-4647-b849-5308410438b2)
+<img width="746" height="647" alt="90-04-38-a124" src="https://github.com/wonder13662/gimp/assets/15767104/c58708b1-dbd0-4647-b849-5308410438b2" />
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a124](./05-03-01-00-open-file.md#90-04-38-a124)
+
+[16.2.4.2.10. 파일 유형 선택(Select File Type) - 그림 90.4.38.a124](./16-02-04-02-10-select_file_type.md#90-04-38-a124)
 
 <a id="90-04-38-a125"></a>
 
@@ -138,9 +157,11 @@
 <a id="90-04-38-a131"></a>
 
 #### 그림 90.4.38.a131. `이미지 열기` 대화상자 - 미리보기(Preview) (Windows) (우리말)
-![90-04-38-a131](https://github.com/wonder13662/gimp/assets/15767104/d92741cb-065f-47b0-b18a-e67b3ee01192)
+<img width="746" height="494" alt="90-04-38-a131" src="https://github.com/wonder13662/gimp/assets/15767104/d92741cb-065f-47b0-b18a-e67b3ee01192" />
 
 [5.3.1. 파일 열기 - 그림 90.4.38.a131](./05-03-01-00-open-file.md#90-04-38-a131)
+
+[16.2.4.2.8. 미리보기(Preview) - 그림 90.4.38.a131](./16-02-04-02-08-preview.md#90-04-38-a131)
 
 <a id="90-04-38-a132"></a>
 
