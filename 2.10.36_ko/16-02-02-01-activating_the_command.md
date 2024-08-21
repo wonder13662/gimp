@@ -20,7 +20,7 @@
 
 <a id="90-10-50-01-01-a1"></a>
 
-#### [영상 90.10.50.1.1.a1. `대화상자` → `그라디언트`: 키보드 단축키 Ctrl(⌘) + `N`](./90-10-50-01-01-ctrl_n.md#90-10-50-01-01-a1)
+#### [영상 90.10.50.1.1.a1. `이미지 메뉴 바` → `파일` → `새 이미지`: 키보드 단축키 Ctrl(⌘) + `N` (Windows) (우리말)](./90-10-50-01-01-ctrl_n.md#90-10-50-01-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/cc1e8cc1-b83b-4e3b-9bf5-0fbbc7c04fc7"></video>
 
 ***

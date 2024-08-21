@@ -2988,7 +2988,7 @@
 
 [16.2.4.2.3. 현재 폴더 경로(Current folder path)](./16-02-04-02-03-current_folder_path.md)
 
-[16.2.4.2.4. 검색(Search)](./16-02-04-02-04-search_n_recently_used.md)
+[16.2.4.2.4. 검색과 최근 사용(Search & Recently Used)](./16-02-04-02-04-search_n_recently_used.md)
 
 [16.2.4.2.5. 폴더 목록(Folder list)](./16-02-04-02-05-folder_list.md)
 
@@ -3005,6 +3005,8 @@
 [16.2.4.3. 이미지와 색상 프로파일을 불러오기(Importing an image with a color profile)](./16-02-04-03-importing_an_image_with_a_color_profile.md)
 
 [16.2.5. 레이어로 열기(Open as layers)](./16-02-05-00-open-as-layers.md)
+
+[16.2.5.1. 명령 활성화하기(Activate Command)](./16-02-05-01-activate_command.md)
 
 [16.2.6. Open location](./16-02-06-open-location.md)
 
@@ -5750,6 +5752,8 @@
 
 [90.4.152. 스크린샷(Screenshot)](./90-04-0152-screenshot.md)
 
+[90.4.153. 이미지를 레이어로 열기(Open Image as layers)](./90-04-0153-open_image_as_layers.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
@@ -6613,6 +6617,12 @@
 [90.10.51.1. 키보드 단축키](./90-10-51-01-00-keyboard_shortcut.md)
 
 [90.10.51.1.1. `이미지 메뉴 바` → `파일` → `열기`: 키보드 단축키 Ctrl(⌘) + `O`](./90-10-51-01-01-ctrl_o.md)
+
+[90.10.52. `이미지 메뉴 바` → `파일` → `레이어로 열기`](./90-10-52-00-menu_file_open_as_layers.md)
+
+[90.10.52.1. 키보드 단축키](./90-10-52-01-00-keyboard_shortcut.md)
+
+[90.10.51.1.1. `이미지 메뉴 바` → `파일` → `레이어로 열기`: 키보드 단축키 Ctrl(⌘) + Alt(⌥) + `O`](./90-10-52-01-01-ctrl_alt_o.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

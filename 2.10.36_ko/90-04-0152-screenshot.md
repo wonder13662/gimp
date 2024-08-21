@@ -61,7 +61,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.153. 이미지를 레이어로 열기(Open Image as layers)](./90-04-0153-open_image_as_layers.md)
 
 [⬅️ 이전: 90.4.151. 웹페이지에서 만들기(Create from Webpage)](./90-04-0151-create_from_webpage.md)
 

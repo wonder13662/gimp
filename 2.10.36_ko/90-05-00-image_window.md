@@ -207,7 +207,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.152. 스크린샷(Screenshot)](./90-04-0152-screenshot.md)
+[⬅️ 이전: 90.4.153. 이미지를 레이어로 열기(Open Image as layers)](./90-04-0153-open_image_as_layers.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 
