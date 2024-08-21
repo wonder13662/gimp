@@ -3004,7 +3004,7 @@
 
 [16.2.4.3. 이미지와 색상 프로파일을 불러오기(Importing an image with a color profile)](./16-02-04-03-importing_an_image_with_a_color_profile.md)
 
-[16.2.5. 레이어로 열기(Open as layers)](./16-02-05-open-as-layers.md)
+[16.2.5. 레이어로 열기(Open as layers)](./16-02-05-00-open-as-layers.md)
 
 [16.2.6. Open location](./16-02-06-open-location.md)
 

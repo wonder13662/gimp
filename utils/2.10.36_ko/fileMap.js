@@ -1279,7 +1279,7 @@ module.exports = {
         '16.2.4. 열기(File open)'
       ],
       [
-        '16-02-05-open-as-layers.md', 
+        '16-02-05-00-open-as-layers.md', 
         '16.2.5. 레이어로 열기(Open as layers)'
       ],
       [

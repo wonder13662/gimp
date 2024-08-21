@@ -1,0 +1,1 @@
+# 16.2.5.1. 명령 활성화하기(Activate Command)
