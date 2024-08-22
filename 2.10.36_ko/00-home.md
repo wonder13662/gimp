@@ -3014,7 +3014,9 @@
 
 [16.2.6.2. 위치 열기 대화상자 설명(Description of the dialog window)](./16-02-06-02-description_of_the_dialog_window.md)
 
-[16.2.7. Open recent](./16-02-07-open_recent.md)
+[16.2.7. 최근 연 파일(Open Recent)](./16-02-07-00-open_recent.md)
+
+[16.2.7.1. 명령 활성화하기(Activate Command)](./16-02-07-01-activate_command.md)
 
 [16.2.8. 저장(Save)](./16-02-08-save.md)
 

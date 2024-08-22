@@ -13,7 +13,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.2.7. Open recent](./16-02-07-open_recent.md)
+[➡️ 다음: 16.2.7. 최근 연 파일(Open Recent)](./16-02-07-00-open_recent.md)
 
 [⬅️ 이전: 16.2.6.1. 명령 활성화하기(Activate command)](./16-02-06-01-activate_command.md)
 

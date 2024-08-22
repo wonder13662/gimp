@@ -1287,8 +1287,8 @@ module.exports = {
         '16.2.6. 위치 열기(Open Location)'
       ],
       [
-        '16-02-07-open_recent.md', 
-        '16.2.7. Open recent'
+        '16-02-07-00-open_recent.md', 
+        '16.2.7. 최근 연 파일(Open Recent)'
       ],
       [
         '16-02-08-save.md', 
