@@ -3064,7 +3064,7 @@
 
 [16.2.15.1. 명령 활성화하기(Activate Command)](./16-02-15-01-activate_command.md)
 
-[16.2.16. Send by email](./16-02-16-send-by-email.md)
+[16.2.16. 이메일로 보내기(Send by Email)](./16-02-16-send-by-email.md)
 
 [16.2.17. Copy image location](./16-02-17-copy-image-location.md)
 
@@ -5795,6 +5795,8 @@
 [90.4.155. 새 양식 만들기(Create New Template)](./90-04-0155-create_new_template.md)
 
 [90.4.156. 인쇄(Print)](./90-04-0156-print.md)
+
+[90.4.157. 이메일로 보내기(Send by Email)](./90-04-0157-send_by_email.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

@@ -29,7 +29,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.2.16. Send by email](./16-02-16-send-by-email.md)
+[➡️ 다음: 16.2.16. 이메일로 보내기(Send by Email)](./16-02-16-send-by-email.md)
 
 [⬅️ 이전: 16.2.15. 인쇄(Print)](./16-02-15-00-print.md)
 

@@ -1525,6 +1525,8 @@
 
 [90.4.156. 인쇄(Print)](./90-04-0156-print.md)
 
+[90.4.157. 이메일로 보내기(Send by Email)](./90-04-0157-send_by_email.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
