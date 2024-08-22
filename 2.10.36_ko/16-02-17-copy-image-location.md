@@ -16,7 +16,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.2.18. Show in file manager](./16-02-18-show-in-file-manager.md)
+[➡️ 다음: 16.2.18. 파일 관리자에 표시(Show in File Manager)](./16-02-18-show-in-file-manager.md)
 
 [⬅️ 이전: 16.2.16. 이메일로 보내기(Send by Email)](./16-02-16-send-by-email.md)
 

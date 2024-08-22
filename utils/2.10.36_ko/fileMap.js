@@ -1332,7 +1332,7 @@ module.exports = {
       ],
       [
         '16-02-18-show-in-file-manager.md', 
-        '16.2.18. Show in file manager'
+        '16.2.18. 파일 관리자에 표시(Show in File Manager)'
       ],
       [
         '16-02-19-close.md', 

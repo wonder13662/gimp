@@ -3068,7 +3068,7 @@
 
 [16.2.17. 이미지 위치 복사하기(Copy Image Location)](./16-02-17-copy-image-location.md)
 
-[16.2.18. Show in file manager](./16-02-18-show-in-file-manager.md)
+[16.2.18. 파일 관리자에 표시(Show in File Manager)](./16-02-18-show-in-file-manager.md)
 
 [16.2.19. Close](./16-02-19-close.md)
 
@@ -6685,6 +6685,12 @@
 [90.10.55.1. 키보드 단축키](./90-10-55-01-00-keyboard_shortcut.md)
 
 [90.10.55.1.1. `이미지 메뉴 바` → `파일` → `인쇄`: 키보드 단축키 Ctrl + `P`](./90-10-55-01-01-ctrl_p.md)
+
+[90.10.56. `이미지 메뉴 바` → `파일` → `파일 관리자에 표시`](./90-10-56-00-menu_file_show_in_file_mananger.md)
+
+[90.10.56.1. 키보드 단축키](./90-10-56-01-00-keyboard_shortcut.md)
+
+[90.10.56.1.1. `이미지 메뉴 바` → `파일` → `파일 관리자에 표시`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `F`](./90-10-56-01-01-ctrl_shift_f.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
