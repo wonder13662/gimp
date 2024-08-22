@@ -92,7 +92,7 @@
 
 [16.2.8. 저장(Save)](./16-02-08-save.md)
 
-[16.2.9. Save as](./16-02-09-save-as.md)
+[16.2.9. 다른 이름으로 저장(Save As)](./16-02-09-00-save-as.md)
 
 [16.2.10. Save a copy](./16-02-10-save-a-copy.md)
 

@@ -62,6 +62,12 @@
 
 ***
 
+## 관련 정보
+
+[16.2.9.2. 이미지 저장 대화상자(The "Save Image" dialog)](./16-02-09-02-00-the_save_image_dialog.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 15.5.7. 파일 내보내기(Export file)](./15-05-07-00-export-file.md)

@@ -7,6 +7,10 @@
 
 [16.2.8. 저장(Save) - 그림 90.4.55.a101](./16-02-08-save.md#90-04-55-a101)
 
+[16.2.9. 다른 이름으로 저장(Save As) - 그림 90.4.55.a101](./16-02-09-00-save-as.md#90-04-55-a101)
+
+[16.2.9.2. 이미지 저장 대화상자(The "Save Image" dialog) - 그림 90.4.55.a101](./16-02-09-02-the_save_image_dialog.md#90-04-55-a101)
+
 <a id="90-04-55-a102"></a>
 
 #### 그림 90.4.55.a102. `이미지 저장` 대화상자 (Windows) (영어)
@@ -84,6 +88,67 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/71fc565d-9570-4a76-8ad4-b9b0fd5f7c54"></video>
 
 [15.5.6.2. 이미지 저장하기 대화상자(The save image dialog) - 영상 90.4.55.a161.1](./15-05-06-02-the_save_image_dialog.md#90-04-55-a161-01)
+
+<a id="90-04-55-a171"></a>
+
+#### 그림 90.4.55.a171. `이미지 저장` 대화상자 (Windows) (우리말)
+<img width="707" height="619" alt="90-04-55-a171" src="https://github.com/user-attachments/assets/c2b742e3-7f56-4a10-993d-1ecd8df19e8c" />
+
+<a id="90-04-55-a181"></a>
+
+#### 그림 90.4.55.a181. `이미지 저장` 대화상자 → `주요 디렉토리` (Windows) (우리말)
+<img width="707" height="619" alt="90-04-55-a181" src="https://github.com/user-attachments/assets/5eee50c6-7e90-4b5c-a18b-fbf3041b54f3" />
+
+[16.2.9.2.1. 주요 디렉토리(Main directories) - 그림 90.4.55.a181](./16-02-09-02-01-main_directories.md#90-04-55-a181)
+
+<a id="90-04-55-a182"></a>
+
+#### 그림 90.4.55.a182. `이미지 저장` 대화상자 → `책갈피 디렉토리` (Windows) (우리말)
+<img width="707" height="619" alt="90-04-55-a182" src="https://github.com/user-attachments/assets/640be839-04b4-4fb0-8fbb-4516b927c887" />
+
+[16.2.9.2.2. 책갈피 디렉토리(Bookmarks) - 그림 90.4.55.a182](./16-02-09-02-02-bookmarks.md#90-04-55-a182)
+
+<a id="90-04-55-a183"></a>
+
+#### 그림 90.4.55.a183. `이미지 저장` 대화상자 → `현재 디렉토리` (Windows) (우리말)
+<img width="707" height="619" alt="90-04-55-a183" src="https://github.com/user-attachments/assets/be1a128b-93c2-4551-8403-9d2c6b8782df" />
+
+[16.2.9.2.3. 현재 디렉토리(Current Directory) - 그림 90.4.55.a183](./16-02-09-02-03-current_directory.md#90-04-55-a183)
+
+<a id="90-04-55-a184"></a>
+
+#### 그림 90.4.55.a184. `이미지 저장` 대화상자 → `미리보기` (Windows) (우리말)
+<img width="707" height="619" alt="90-04-55-a184" src="https://github.com/user-attachments/assets/da526225-1b31-42dd-b3c2-4fa13ef9887e" />
+
+[16.2.9.2.4. 미리보기(Preview) - 그림 90.4.55.a184](./16-02-09-02-04-preview.md#90-04-55-a184)
+
+<a id="90-04-55-a185"></a>
+
+#### 그림 90.4.55.a185. `이미지 저장` 대화상자 → `이름` (Windows) (우리말)
+<img width="707" height="619" alt="90-04-55-a185" src="https://github.com/user-attachments/assets/3b485ed7-0555-4533-9c43-185b5b060475" />
+
+[16.2.9.2.5. 이름(Name) - 그림 90.4.55.a185](./16-02-09-02-05-name.md#90-04-55-a185)
+
+<a id="90-04-55-a186"></a>
+
+#### 그림 90.4.55.a186. `이미지 저장` 대화상자 → `현재 디렉토리 경로` (Windows) (우리말)
+<img width="707" height="619" alt="90-04-55-a186" src="https://github.com/user-attachments/assets/c072435c-c820-4d06-a3b4-b700bc323a23" />
+
+[16.2.9.2.6. 현재 디렉토리 경로(Current Directory Path) - 그림 90.4.55.a186](./16-02-09-02-06-current_directory_path.md#90-04-55-a186)
+
+<a id="90-04-55-a187"></a>
+
+#### 그림 90.4.55.a187. `이미지 저장` 대화상자 → `새 폴더 만들기` (Windows) (우리말)
+<img width="707" height="619" alt="90-04-55-a187" src="https://github.com/user-attachments/assets/909743be-f027-459e-ac1b-a6731bb6210b" />
+
+[16.2.9.2.7. 새 폴더 만들기(Create Folder) - 그림 90.4.55.a187](./16-02-09-02-07-create_folder.md#90-04-55-a187)
+
+<a id="90-04-55-a188"></a>
+
+#### 그림 90.4.55.a188. `이미지 저장` 대화상자 → `파일 유형 선택` (Windows) (우리말)
+<img width="707" height="619" alt="90-04-55-a188" src="https://github.com/user-attachments/assets/3d0ad8fa-6250-4672-bd9d-ad40a1f38bdf" />
+
+[16.2.9.2.8. 파일 유형 선택(Select File Type) - 그림 90.4.55.a188](./16-02-09-02-08-select_file_type.md#90-04-55-a188)
 
 ***
 
