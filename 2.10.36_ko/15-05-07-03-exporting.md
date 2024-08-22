@@ -9,7 +9,7 @@
 
 <a id="90-04-34-a141"></a>
 
-#### [영상 90.4.34.a141. `이미지 내보내기` 대화상자: 특정 파일 포맷에 대한 `내보내기` 대화상자 (Windows) (우리말)](./90-04-0034-export_as.md#90-04-34-a141)
+#### [영상 90.4.34.a141. `이미지 내보내기` 대화상자: 특정 파일 포맷에 대한 `내보내기` 대화상자 (Windows) (우리말)](./90-04-0034-export_image.md#90-04-34-a141)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/cb091adc-f354-477b-8ccc-bbd20e9fce57"></video>
 
 <a id="15-05-07-03-s2"></a>
@@ -19,12 +19,12 @@
 
 <a id="90-04-34-a142"></a>
 
-#### [그림 90.4.34.a142. `이미지 내보내기` 대화상자: 저장할 이미지 파일의 이름이 같은 위치에 이미 있음 (Windows) (우리말)](./90-04-0034-export_as.md#90-04-34-a142)
+#### [그림 90.4.34.a142. `이미지 내보내기` 대화상자: 저장할 이미지 파일의 이름이 같은 위치에 이미 있음 (Windows) (우리말)](./90-04-0034-export_image.md#90-04-34-a142)
 <img width="402" height="200" alt="90-04-34-a142" src="https://github.com/user-attachments/assets/d3b286a7-0d27-42a3-a154-d86f68f1802e" />
 
 <a id="90-04-34-a143"></a>
 
-#### [영상 90.4.34.a143. `이미지 내보내기` 대화상자: 저장할 이미지 파일의 이름이 같은 위치에 이미 있음 (Windows) (우리말)](./90-04-0034-export_as.md#90-04-34-a143)
+#### [영상 90.4.34.a143. `이미지 내보내기` 대화상자: 저장할 이미지 파일의 이름이 같은 위치에 이미 있음 (Windows) (우리말)](./90-04-0034-export_image.md#90-04-34-a143)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/5f28df44-774d-476b-931b-0d5e9f91a7e8"></video>
 
 <a id="15-05-07-03-s3"></a>
@@ -36,7 +36,7 @@
 
 <a id="90-04-34-a151"></a>
 
-#### [영상 90.4.34.a151. `이미지 내보내기` 대화상자: `이미지 메뉴 바` → `파일` → `덮어쓰기` (Windows) (우리말)](./90-04-0034-export_as.md#90-04-34-a151)
+#### [영상 90.4.34.a151. `이미지 내보내기` 대화상자: `이미지 메뉴 바` → `파일` → `덮어쓰기` (Windows) (우리말)](./90-04-0034-export_image.md#90-04-34-a151)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/dedeefb2-ea71-4b86-9fd1-dac1997a0533"></video>
 
 <a id="15-05-07-03-s4"></a>
@@ -48,7 +48,7 @@
 
 <a id="90-04-34-a161"></a>
 
-#### [영상 90.4.34.a161. `이미지 내보내기` 대화상자: 특정 파일에 특정 포맷으로 내보내기 (Windows) (우리말)](./90-04-0034-export_as.md#90-04-34-a161)
+#### [영상 90.4.34.a161. `이미지 내보내기` 대화상자: 특정 파일에 특정 포맷으로 내보내기 (Windows) (우리말)](./90-04-0034-export_image.md#90-04-34-a161)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/89362c10-43e5-4df8-8052-739e6fcee09f"></video>
 
 ***

@@ -203,7 +203,7 @@
 
 <a id="90-04-34-a113"></a>
 
-#### [영상 90.4.34.a113. 'Export As...' 전체 과정](./90-04-0034-export_as.md#90-04-34-a113)
+#### [영상 90.4.34.a113. 'Export As...' 전체 과정](./90-04-0034-export_image.md#90-04-34-a113)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/48f1ccae-f4b9-4695-b676-ab8f57c463b0"></video>
 
 <a id="90-04-33-a221"></a>
@@ -217,7 +217,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.34. 이미지 내보내기(Export As...)](./90-04-0034-export_as.md)
+[➡️ 다음: 90.4.34. 이미지 내보내기(Export Image)](./90-04-0034-export_image.md)
 
 [⬅️ 이전: 90.4.32. 이미지를 색인 색상으로 변환(Convert Image to Indexed Colors)](./90-04-0032-convert_image_to_indexed_colors.md)
 

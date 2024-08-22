@@ -1249,7 +1249,7 @@
 
 [90.4.33. 이미지를 JPEG로 내보내기(Export Image as JPEG)](./90-04-0033-export_image_as_jpeg.md)
 
-[90.4.34. 이미지 내보내기(Export As...)](./90-04-0034-export_as.md)
+[90.4.34. 이미지 내보내기(Export Image)](./90-04-0034-export_image.md)
 
 [90.4.35. 레이어 경계 크기(Layer Boundary Size...)](./90-04-0035-layer_to_boundary_size.md)
 
@@ -1518,6 +1518,8 @@
 [90.4.152. 스크린샷(Screenshot)](./90-04-0152-screenshot.md)
 
 [90.4.153. 이미지를 레이어로 열기(Open Image as layers)](./90-04-0153-open_image_as_layers.md)
+
+[90.4.154. 이미지 원상 복구(Revert Image)](./90-04-0154-revert_image.md)
 
 <a id="90-s5"></a>
 
@@ -2396,6 +2398,12 @@
 [90.10.53.1. 키보드 단축키](./90-10-53-01-00-keyboard_shortcut.md)
 
 [90.10.53.1.1. `이미지 메뉴 바` → `파일` → `다른 이름으로 저장`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `S`](./90-10-53-01-01-ctrl_shift_s.md)
+
+[90.10.54. `이미지 메뉴 바` → `파일` → `다른 이름으로 이미지 내보내기`](./90-10-54-00-menu_file_export_as.md)
+
+[90.10.54.1. 키보드 단축키](./90-10-54-01-00-keyboard_shortcut.md)
+
+[90.10.54.1.1. `이미지 메뉴 바` → `파일` → `다른 이름으로 이미지 내보내기`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `E`](./90-10-54-01-01-ctrl_shift_e.md)
 
 <a id="90-s90"></a>
 

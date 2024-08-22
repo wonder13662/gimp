@@ -34,17 +34,17 @@ GIMP에서 [이미지 메뉴바](./03-02-04-02-image-menu.md#32222-이미지-메
 
 <a id="90-04-34-a101"></a>
 
-#### [그림 90.4.34.a101. `Export As...` 대화상자 (Windows) (우리말)](./90-04-0034-export_as.md#90-04-34-a101)
+#### [그림 90.4.34.a101. `Export As...` 대화상자 (Windows) (우리말)](./90-04-0034-export_image.md#90-04-34-a101)
 <img width="720" height="609" alt="90-04-34-a101" src="https://github.com/wonder13662/gimp/assets/15767104/b633f0c9-d50d-42f3-b43d-9e7a848ff01e" />
 
-[다른 운영체제와 언어의 `Export As...` 대화상자 확인하기](./90-04-0034-export_as.md#90-04-34-a102)
+[다른 운영체제와 언어의 `Export As...` 대화상자 확인하기](./90-04-0034-export_image.md#90-04-34-a102)
 
 ## 3.4.4.3. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
 "Export As..." 대화상자가 열리면 이름입력 필드에 기본값으로 현재 파일 이름이 이미 입력이 되어 있습니다. 파일 이름의 확장자를 지우고, `JPG`로 확장자 이름을 입력하면, GIMP는 사용자가 입력한 확장자 이름의 파일타입으로 설정합니다.
 
 <a id="90-04-34-a111"></a>
 
-#### [영상 90.4.34.a111. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)](./90-04-0034-export_as.md#90-04-34-a111)
+#### [영상 90.4.34.a111. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)](./90-04-0034-export_image.md#90-04-34-a111)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7c7db0d2-fb91-4bdd-9bdc-eb29da69622e"></video>
 
 ## 3.4.4.4. "Export As..." 대화상자에서 확장자 바꾸기(파일 확장자 목록에서 선택)
@@ -54,7 +54,7 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 
 <a id="90-04-34-a112"></a>
 
-#### [영상 90.4.34.a112. "파일 유형 선택(Select File Type)"의 목록 열기](./90-04-0034-export_as.md#90-04-34-a112)
+#### [영상 90.4.34.a112. "파일 유형 선택(Select File Type)"의 목록 열기](./90-04-0034-export_image.md#90-04-34-a112)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/39b4460b-2c53-43d4-8f37-58eb7888b9b7"></video>
 
 ## 3.4.4.5. "이미지를 JPEG로 내보내기" 대화상자
@@ -132,7 +132,7 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 
 <a id="90-04-34-a113"></a>
 
-#### [영상 90.4.34.a113. 'Export As...' 전체 과정](./90-04-0034-export_as.md#90-04-34-a113)
+#### [영상 90.4.34.a113. 'Export As...' 전체 과정](./90-04-0034-export_image.md#90-04-34-a113)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/48f1ccae-f4b9-4695-b676-ab8f57c463b0"></video>
 
 ### 3.4.4.7.2. 'image-name.jpg 덮어쓰기(Overwrite image-name.jpg)'

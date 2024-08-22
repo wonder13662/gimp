@@ -3052,7 +3052,7 @@
 
 [16.2.12. 이미지 내보내기와 덮어쓰기(Export... and Overwrite...)](./16-02-12-export-and-overwrite.md)
 
-[16.2.13. 다른 포맷으로 내보내기(Export as)](./16-02-13-export-as.md)
+[16.2.13. 다른 이름으로 이미지 내보내기(Export as)](./16-02-13-00-export-as.md)
 
 [16.2.14. Create template](./16-02-14-create-template.md)
 
@@ -5514,7 +5514,7 @@
 
 [90.4.33. 이미지를 JPEG로 내보내기(Export Image as JPEG)](./90-04-0033-export_image_as_jpeg.md)
 
-[90.4.34. 이미지 내보내기(Export As...)](./90-04-0034-export_as.md)
+[90.4.34. 이미지 내보내기(Export Image)](./90-04-0034-export_image.md)
 
 [90.4.35. 레이어 경계 크기(Layer Boundary Size...)](./90-04-0035-layer_to_boundary_size.md)
 

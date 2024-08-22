@@ -6,7 +6,7 @@
 
 <a id="90-04-34-a121"></a>
 
-#### [그림 90.4.34.a121. `이미지 내보내기` 대화상자 → `이름` (Windows) (우리말)](./90-04-0034-export_as.md#90-04-34-a121)
+#### [그림 90.4.34.a121. `이미지 내보내기` 대화상자 → `이름` (Windows) (우리말)](./90-04-0034-export_image.md#90-04-34-a121)
 <img width="950" height="804" alt="90-04-34-a113" src="https://github.com/user-attachments/assets/43dacb2e-4045-4184-906a-9e2ec78b58de" />
 
 <a id="15-05-07-02-s1-01"></a>
@@ -21,7 +21,7 @@
 
 <a id="90-04-34-a122"></a>
 
-#### [영상 90.4.34.a122. `이미지 내보내기` 대화상자 → `이름`: 파일 이름을 파일 목록에서 선택 (Windows) (우리말)](./90-04-0034-export_as.md#90-04-34-a122)
+#### [영상 90.4.34.a122. `이미지 내보내기` 대화상자 → `이름`: 파일 이름을 파일 목록에서 선택 (Windows) (우리말)](./90-04-0034-export_image.md#90-04-34-a122)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6c9e7221-4835-474b-ab24-08f9761fb6f0"></video>
 
 <a id="15-05-07-02-s2"></a>
@@ -35,7 +35,7 @@
 
 <a id="90-04-34-a123"></a>
 
-#### [영상 90.4.34.a123. `이미지 내보내기` 대화상자 → `이름`: 파일 유형(포맷)을 직접 입력 (Windows) (우리말)](./90-04-0034-export_as.md#90-04-34-a123)
+#### [영상 90.4.34.a123. `이미지 내보내기` 대화상자 → `이름`: 파일 유형(포맷)을 직접 입력 (Windows) (우리말)](./90-04-0034-export_image.md#90-04-34-a123)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/dc87e8ba-e507-44f7-ae36-4e4d3b3a09b6"></video>
 
 <a id="15-05-07-02-s2-02"></a>
@@ -45,12 +45,12 @@
 
 <a id="90-04-34-a131"></a>
 
-#### [그림 90.4.34.a131. `이미지 내보내기` 대화상자 → `파일 유형` (Windows) (우리말)](./90-04-0034-export_as.md#90-04-34-a131)
+#### [그림 90.4.34.a131. `이미지 내보내기` 대화상자 → `파일 유형` (Windows) (우리말)](./90-04-0034-export_image.md#90-04-34-a131)
 <img width="950" height="804" alt="90-04-34-a131" src="https://github.com/user-attachments/assets/8420108c-f4b2-4c90-a76b-8aa1f3071be3" />
 
 <a id="90-04-34-a132"></a>
 
-#### [영상 90.4.34.a132. `이미지 내보내기` 대화상자 → `파일 유형`: 파일 유형(포맷)을 선택 (Windows) (우리말)](./90-04-0034-export_as.md#90-04-34-a132)
+#### [영상 90.4.34.a132. `이미지 내보내기` 대화상자 → `파일 유형`: 파일 유형(포맷)을 선택 (Windows) (우리말)](./90-04-0034-export_image.md#90-04-34-a132)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e1535365-9c16-4981-a514-c3ec5153c34b"></video>
 
 ***
