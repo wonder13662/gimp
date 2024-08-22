@@ -3050,7 +3050,7 @@
 
 [16.2.11.1. 명령 활성화하기(Activate command)](./16-02-11-01-activate_command.md)
 
-[16.2.12. Export and overwrite](./16-02-12-export-and-overwrite.md)
+[16.2.12. 이미지 내보내기와 덮어쓰기(Export... and Overwrite...)](./16-02-12-export-and-overwrite.md)
 
 [16.2.13. 다른 포맷으로 내보내기(Export as)](./16-02-13-export-as.md)
 

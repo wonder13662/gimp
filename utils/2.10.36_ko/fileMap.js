@@ -1308,7 +1308,7 @@ module.exports = {
       ],
       [
         '16-02-12-export-and-overwrite.md', 
-        '16.2.12. Export and overwrite'
+        '16.2.12. 이미지 내보내기와 덮어쓰기(Export... and Overwrite...)'
       ],
       [
         '16-02-13-export-as.md', 

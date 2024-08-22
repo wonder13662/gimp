@@ -14,7 +14,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.2.12. Export and overwrite](./16-02-12-export-and-overwrite.md)
+[➡️ 다음: 16.2.12. 이미지 내보내기와 덮어쓰기(Export... and Overwrite...)](./16-02-12-export-and-overwrite.md)
 
 [⬅️ 이전: 16.2.11. 원래대로(Revert)](./16-02-11-00-revert.md)
 
