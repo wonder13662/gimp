@@ -105,6 +105,7 @@
 
 [16.1.3. 떼어내기 메뉴(Tear-off Menu) - 영상 90.5.a504](./16-01-03-tear_off_menus.md#90-05-a504)
 
+
 ***
 
 ## 하위 페이지
@@ -207,7 +208,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.155. 새 양식 만들기(Create New Template)](./90-04-0155-create_new_template.md)
+[⬅️ 이전: 90.4.156. 인쇄(Print)](./90-04-0156-print.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

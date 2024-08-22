@@ -3060,7 +3060,9 @@
 
 [16.2.14.1. 명령 활성화하기(Activating the Command)](./16-02-14-01-activating_the_command.md)
 
-[16.2.15. Print](./16-02-15-print.md)
+[16.2.15. 인쇄(Print)](./16-02-15-00-print.md)
+
+[16.2.15.1. 명령 활성화하기(Activate Command)](./16-02-15-01-activate_command.md)
 
 [16.2.16. Send by email](./16-02-16-send-by-email.md)
 
@@ -5792,6 +5794,8 @@
 
 [90.4.155. 새 양식 만들기(Create New Template)](./90-04-0155-create_new_template.md)
 
+[90.4.156. 인쇄(Print)](./90-04-0156-print.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
@@ -6673,6 +6677,12 @@
 [90.10.54.1. 키보드 단축키](./90-10-54-01-00-keyboard_shortcut.md)
 
 [90.10.54.1.1. `이미지 메뉴 바` → `파일` → `다른 이름으로 이미지 내보내기`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `E`](./90-10-54-01-01-ctrl_shift_e.md)
+
+[90.10.55. `이미지 메뉴 바` → `파일` → `인쇄`](./90-10-55-00-menu_file_print.md)
+
+[90.10.55.1. 키보드 단축키](./90-10-55-01-00-keyboard_shortcut.md)
+
+[90.10.55.1.1. `이미지 메뉴 바` → `파일` → `인쇄`: 키보드 단축키 Ctrl + `P`](./90-10-55-01-01-ctrl_p.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

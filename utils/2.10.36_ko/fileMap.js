@@ -1319,8 +1319,8 @@ module.exports = {
         '16.2.14. 템플릿 만들기...(Create Template...)'
       ],
       [
-        '16-02-15-print.md', 
-        '16.2.15. Print'
+        '16-02-15-00-print.md', 
+        '16.2.15. 인쇄(Print)'
       ],
       [
         '16-02-16-send-by-email.md', 
