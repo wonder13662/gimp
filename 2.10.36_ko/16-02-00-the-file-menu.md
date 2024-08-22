@@ -126,7 +126,7 @@
 
 [16.2.13. 다른 이름으로 이미지 내보내기(Export as)](./16-02-13-00-export-as.md)
 
-[16.2.14. Create template](./16-02-14-create-template.md)
+[16.2.14. 템플릿 만들기...(Create Template...)](./16-02-14-00-create-template.md)
 
 [16.2.15. Print](./16-02-15-print.md)
 

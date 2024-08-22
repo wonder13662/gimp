@@ -1,7 +1,20 @@
 # 90.1.1.14. 템플릿 만들기(Create Template)
 
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가 필요)
+<a id="90-01-01-14-a101"></a>
+
+#### 그림 90.1.1.14.a101. `이미지 메뉴 바` → `파일` → `템플릿 만들기`
+<img width="980" height="605" alt="90-01-01-14-a101" src="https://github.com/user-attachments/assets/cf606c2a-6b1d-465f-96f4-9c67515fd607" />
+
+[16.2.14. 템플릿 만들기...(Create Template...) - 그림 90.1.1.14.a101](./16-02-14-00-create-template.md#90-01-01-14-a101)
+
+[16.2.14.1. 명령 활성화하기(Activating the Command) - 그림 90.1.1.14.a101](./16-02-14-01-activating_the_command.md#90-01-01-14-a101)
+
+<a id="90-01-01-14-a101-01"></a>
+
+#### 영상 90.1.1.14.a101.1. `이미지 메뉴 바` → `파일` → `템플릿 만들기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a425ae1f-6749-43b4-9f22-1c4705579888"></video>
+
+[16.2.14.1. 명령 활성화하기(Activating the Command) - 영상 90.1.1.14.a101.1](./16-02-14-01-activating_the_command.md#90-01-01-14-a101-01)
 
 ***
 

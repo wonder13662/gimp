@@ -1521,6 +1521,8 @@
 
 [90.4.154. 이미지 원상 복구(Revert Image)](./90-04-0154-revert_image.md)
 
+[90.4.155. 새 양식 만들기(Create New Template)](./90-04-0155-create_new_template.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

@@ -22,11 +22,12 @@
 #### 그림 90.4.154.a104. `이미지 원상 복구` 대화상자 (Mac) (영어)
 <img width="414" height="174" alt="90-04-154-a104" src="https://github.com/user-attachments/assets/fe3bb52a-85c2-4981-bb4b-cfe359518cd7" />
 
+
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.155. 새 양식 만들기(Create New Template)](./90-04-0155-create_new_template.md)
 
 [⬅️ 이전: 90.4.153. 이미지를 레이어로 열기(Open Image as layers)](./90-04-0153-open_image_as_layers.md)
 

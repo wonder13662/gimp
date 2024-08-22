@@ -207,7 +207,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.154. 이미지 원상 복구(Revert Image)](./90-04-0154-revert_image.md)
+[⬅️ 이전: 90.4.155. 새 양식 만들기(Create New Template)](./90-04-0155-create_new_template.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

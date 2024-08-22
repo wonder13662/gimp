@@ -3054,7 +3054,11 @@
 
 [16.2.13. 다른 이름으로 이미지 내보내기(Export as)](./16-02-13-00-export-as.md)
 
-[16.2.14. Create template](./16-02-14-create-template.md)
+[16.2.13.1. 명령 활성화하기(Activating the Command)](./16-02-13-01-activating_the_command.md)
+
+[16.2.14. 템플릿 만들기...(Create Template...)](./16-02-14-00-create-template.md)
+
+[16.2.14.1. 명령 활성화하기(Activating the Command)](./16-02-14-01-activating_the_command.md)
 
 [16.2.15. Print](./16-02-15-print.md)
 
@@ -5786,6 +5790,8 @@
 
 [90.4.154. 이미지 원상 복구(Revert Image)](./90-04-0154-revert_image.md)
 
+[90.4.155. 새 양식 만들기(Create New Template)](./90-04-0155-create_new_template.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
@@ -6661,6 +6667,12 @@
 [90.10.53.1. 키보드 단축키](./90-10-53-01-00-keyboard_shortcut.md)
 
 [90.10.53.1.1. `이미지 메뉴 바` → `파일` → `다른 이름으로 저장`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `S`](./90-10-53-01-01-ctrl_shift_s.md)
+
+[90.10.54. `이미지 메뉴 바` → `파일` → `다른 이름으로 이미지 내보내기`](./90-10-54-00-menu_file_export_as.md)
+
+[90.10.54.1. 키보드 단축키](./90-10-54-01-00-keyboard_shortcut.md)
+
+[90.10.54.1.1. `이미지 메뉴 바` → `파일` → `다른 이름으로 이미지 내보내기`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `E`](./90-10-54-01-01-ctrl_shift_e.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
