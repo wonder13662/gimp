@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.154. 이미지 원상 복구(Revert Image)](./90-04-0154-revert_image.md)
 
 [⬅️ 이전: 90.4.152. 스크린샷(Screenshot)](./90-04-0152-screenshot.md)
 

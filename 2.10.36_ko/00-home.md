@@ -3046,7 +3046,9 @@
 
 [16.2.10.1. 명령 활성화하기(Activate command)](./16-02-10-01-activate_command.md)
 
-[16.2.11. Revert](./16-02-11-revert.md)
+[16.2.11. 원래대로(Revert)](./16-02-11-00-revert.md)
+
+[16.2.11.1. 명령 활성화하기(Activate command)](./16-02-11-01-activate_command.md)
 
 [16.2.12. Export and overwrite](./16-02-12-export-and-overwrite.md)
 
@@ -5781,6 +5783,8 @@
 [90.4.152. 스크린샷(Screenshot)](./90-04-0152-screenshot.md)
 
 [90.4.153. 이미지를 레이어로 열기(Open Image as layers)](./90-04-0153-open_image_as_layers.md)
+
+[90.4.154. 이미지 원상 복구(Revert Image)](./90-04-0154-revert_image.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

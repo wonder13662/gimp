@@ -1303,8 +1303,8 @@ module.exports = {
         '16.2.10. 사본 저장(Save a Copy)'
       ],
       [
-        '16-02-11-revert.md', 
-        '16.2.11. Revert'
+        '16-02-11-00-revert.md', 
+        '16.2.11. 원래대로(Revert)'
       ],
       [
         '16-02-12-export-and-overwrite.md', 
