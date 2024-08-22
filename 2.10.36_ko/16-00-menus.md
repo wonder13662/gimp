@@ -106,7 +106,7 @@
 
 [16.2.9. 다른 이름으로 저장(Save As)](./16-02-09-00-save-as.md)
 
-[16.2.10. Save a copy](./16-02-10-save-a-copy.md)
+[16.2.10. 사본 저장(Save a Copy)](./16-02-10-00-save-a-copy.md)
 
 [16.2.11. Revert](./16-02-11-revert.md)
 

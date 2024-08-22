@@ -3026,7 +3026,7 @@
 
 [16.2.9.2. 이미지 저장 대화상자(The "Save Image" dialog)](./16-02-09-02-00-the_save_image_dialog.md)
 
-[16.2.10. Save a copy](./16-02-10-save-a-copy.md)
+[16.2.10. 사본 저장(Save a Copy)](./16-02-10-00-save-a-copy.md)
 
 [16.2.11. Revert](./16-02-11-revert.md)
 
@@ -4310,9 +4310,7 @@
 
 [90.1.1.7. 저장(Save)](./90-01-01-07-save.md)
 
-[90.1.1.8. 다른 이름으로 저장(Save As)](./90-01-01-08-00-save_as.md)
-
-[90.1.1.8. 다른 이름으로 저장(Save As)](./90-01-01-08-01-activating_the_command.md)
+[90.1.1.8. 다른 이름으로 저장(Save As)](./90-01-01-08-save_as.md)
 
 [90.1.1.9. 사본 저장(Save a Copy)](./90-01-01-09-save_a_copy.md)
 
