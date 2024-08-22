@@ -64,7 +64,7 @@
 
 [16.2.5. 레이어로 열기(Open as layers)](./16-02-05-00-open-as-layers.md)
 
-[16.2.6. Open location](./16-02-06-open-location.md)
+[16.2.6. 위치 열기(Open Location)](./16-02-06-00-open-location.md)
 
 [16.2.7. Open recent](./16-02-07-open_recent.md)
 

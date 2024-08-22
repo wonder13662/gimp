@@ -3008,7 +3008,11 @@
 
 [16.2.5.1. 명령 활성화하기(Activate Command)](./16-02-05-01-activate_command.md)
 
-[16.2.6. Open location](./16-02-06-open-location.md)
+[16.2.6. 위치 열기(Open Location)](./16-02-06-00-open-location.md)
+
+[16.2.6.1. 명령 활성화하기(Activate command)](./16-02-06-01-activate_command.md)
+
+[16.2.6.2. 위치 열기 대화상자 설명(Description of the dialog window)](./16-02-06-02-description_of_the_dialog_window.md)
 
 [16.2.7. Open recent](./16-02-07-open_recent.md)
 
@@ -6622,7 +6626,7 @@
 
 [90.10.52.1. 키보드 단축키](./90-10-52-01-00-keyboard_shortcut.md)
 
-[90.10.51.1.1. `이미지 메뉴 바` → `파일` → `레이어로 열기`: 키보드 단축키 Ctrl(⌘) + Alt(⌥) + `O`](./90-10-52-01-01-ctrl_alt_o.md)
+[90.10.52.1.1. `이미지 메뉴 바` → `파일` → `레이어로 열기`: 키보드 단축키 Ctrl(⌘) + Alt(⌥) + `O`](./90-10-52-01-01-ctrl_alt_o.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

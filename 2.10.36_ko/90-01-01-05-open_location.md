@@ -5,11 +5,15 @@
 <a id="90-01-01-05-a101"></a>
 
 #### 그림 90.1.1.5.a101. `이미지 메뉴 바` → `파일` → `위치 열기`
-![90-01-01-file-export_as(w1080)-focus-open_location](https://github.com/wonder13662/gimp/assets/15767104/cea94475-0758-4db0-8730-d9360385349b)
+<img width="980" height="605" alt="90-01-01-05-a101" src="https://github.com/user-attachments/assets/ae9dfbb7-cd78-42d5-b5cf-a25c482caf2c" />
 
 [5.3.2. 위치 열기 - 그림 90.1.1.5.a101](./05-03-02-open-location.md#90-01-01-05-a101)
 
 [15.3.2.2.5.5. 붓 위치 복사(Copy Brush Location) - 그림 90.1.1.5.a101](./15-03-02-02-05-05-copy_brush_location.md#90-01-01-05-a101)
+
+[16.2.6. 위치 열기(Open Location) - 그림 90.1.1.5.a101](./16-02-06-00-open-location.md#90-01-01-05-a101)
+
+[16.2.6.1. 명령 활성화하기(Activate command) - 그림 90.1.1.5.a101](./16-02-06-01-activate_command.md#90-01-01-05-a101)
 
 ***
 

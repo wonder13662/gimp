@@ -12,7 +12,7 @@
 <a id="90-01-01-05-a101"></a>
 
 #### [그림 90.1.1.5.a101. `이미지 메뉴 바` → `파일` → `위치 열기`](./90-01-01-05-open_location.md#90-01-01-05-a101)
-![90-01-01-file-export_as(w1080)-focus-open_location](https://github.com/wonder13662/gimp/assets/15767104/cea94475-0758-4db0-8730-d9360385349b)
+<img width="980" height="605" alt="90-01-01-05-a101" src="https://github.com/user-attachments/assets/ae9dfbb7-cd78-42d5-b5cf-a25c482caf2c" />
 
 <a id="90-04-15-a313-04-05-01"></a>
 

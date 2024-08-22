@@ -1,5 +1,7 @@
 # 16.2.5.1. 명령 활성화하기(Activate Command)
 
+<a id="16-02-05-01-s1"></a>
+
 ## 1. `이미지 메뉴 바` → `파일` → `레이어로 열기`
 
 <a id="90-01-01-04-a101"></a>
@@ -12,6 +14,8 @@
 #### [영상 90.1.1.4.a101.1. `이미지 메뉴 바` → `파일` → `레이어로 열기` (Windows) (우리말)](./90-01-01-04-open_as_layers.md#90-01-01-04-a101-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/c105bfc7-6c6a-440e-8e10-55584c71310c"></video>
 
+<a id="16-02-05-01-s2"></a>
+
 ## 2. Ctrl(⌘) + Alt(⌥) + `O`
 
 <a id="90-10-52-01-01-a1"></a>
@@ -23,7 +27,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.2.6. Open location](./16-02-06-open-location.md)
+[➡️ 다음: 16.2.6. 위치 열기(Open Location)](./16-02-06-00-open-location.md)
 
 [⬅️ 이전: 16.2.5. 레이어로 열기(Open as layers)](./16-02-05-00-open-as-layers.md)
 
