@@ -10,6 +10,8 @@
 #### [그림 90.4.155.a101. `새 템플릿 만들기` 대화상자 (Windows) (우리말)](./90-04-0155-create_new_template.md#90-04-155-a101)
 <img width="293" height="157" alt="90-04-155-a101" src="https://github.com/user-attachments/assets/32c7f50a-4ef6-4acd-83b0-55a4b3663dd3" />
 
+[다른 운영체제와 언어의 `새 템플릿 만들기` 대화상자 확인하기](./90-04-0155-create_new_template.md#90-04-155-a102)
+
 `템플릿 만들기...(Create Template...)`를 누르면 `새 템플릿 만들기` 대화상자를 엽니다.
 
 이 대화상자로 양식의 이름을 입력하여 현재 이미지의 크기와 색상 공간을 가지는 양식을 만들 수 있습니다.
