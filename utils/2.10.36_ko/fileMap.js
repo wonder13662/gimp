@@ -1328,7 +1328,7 @@ module.exports = {
       ],
       [
         '16-02-17-copy-image-location.md', 
-        '16.2.17. Copy image location'
+        '16.2.17. 이미지 위치 복사하기(Copy Image Location)'
       ],
       [
         '16-02-18-show-in-file-manager.md', 

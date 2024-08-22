@@ -3066,7 +3066,7 @@
 
 [16.2.16. 이메일로 보내기(Send by Email)](./16-02-16-send-by-email.md)
 
-[16.2.17. Copy image location](./16-02-17-copy-image-location.md)
+[16.2.17. 이미지 위치 복사하기(Copy Image Location)](./16-02-17-copy-image-location.md)
 
 [16.2.18. Show in file manager](./16-02-18-show-in-file-manager.md)
 

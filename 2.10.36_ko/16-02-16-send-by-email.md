@@ -2,7 +2,7 @@
 
 <a id="90-01-01-17-a101"></a>
 
-#### [그림 90.1.1.17.a101. `이미지 메뉴 바` → `파일` → `인쇄`](./90-01-01-17-send_by_email.md#90-01-01-17-a101)
+#### [그림 90.1.1.17.a101. `이미지 메뉴 바` → `파일` → `이메일로 보내기`](./90-01-01-17-send_by_email.md#90-01-01-17-a101)
 <img width="980" height="605" alt="90-01-01-17-a101" src="https://github.com/user-attachments/assets/ab3ac1d1-1d6c-4a20-a1bd-7ffe965ca505" />
 
 ⚠️ 주의: 이 기능은 Windows에서는 사용할 수 없습니다.
@@ -24,7 +24,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.2.17. Copy image location](./16-02-17-copy-image-location.md)
+[➡️ 다음: 16.2.17. 이미지 위치 복사하기(Copy Image Location)](./16-02-17-copy-image-location.md)
 
 [⬅️ 이전: 16.2.15.1. 명령 활성화하기(Activate Command)](./16-02-15-01-activate_command.md)
 
