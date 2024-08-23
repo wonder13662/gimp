@@ -27,7 +27,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.3. The edit menu](./16-03-00-the-edit-menu.md)
+[➡️ 다음: 16.3. 편집 메뉴(The edit menu)](./16-03-00-the-edit-menu.md)
 
 [⬅️ 이전: 16.2.21. 끝내기(Quit)](./16-02-21-00-quit.md)
 

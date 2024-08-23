@@ -1,7 +1,7 @@
 # 16.3.21. 경로 따라 그리기(Stroke Path)
 
 ### [Home](./00-home.md)
-### [Parent: 16.3. The edit menu](./16-03-00-the-edit-menu.md)
+### [Parent: 16.3. 편집 메뉴(The edit menu)](./16-03-00-the-edit-menu.md)
 ### [Prev: 16.3.20. 선택 영역 따라 그리기(Stroke selection)](./16-03-20-stroke-selection.md)
 ### [Next: 16.3.22. Preference](./16-03-22-preference.md)
 

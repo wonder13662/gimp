@@ -10,7 +10,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 3.3. 실행 취소하기](./03-03-undoing.md)
+[➡️ 다음: 3.3. 실행 취소하기](./03-03-00-undoing.md)
 
 [⬅️ 이전: 3.2.5.2.11. 자동으로 현재 이미지 따라가기(Auto Follow Active Image)](./03-02-05-02-11-auto_follow_active_image.md)
 

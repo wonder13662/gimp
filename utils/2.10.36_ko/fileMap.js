@@ -67,7 +67,7 @@ module.exports = {
         '3.2.5. 대화상자(Dialog)와 도킹(docking)',
       ],
       [
-        '03-03-undoing.md', 
+        '03-03-00-undoing.md', 
         '3.3. Undoing',
         '3.3. 실행 취소하기',
       ],
@@ -1348,15 +1348,15 @@ module.exports = {
       ],
       [
         '16-03-00-the-edit-menu.md', 
-        '16.3. The edit menu'
+        '16.3. 편집 메뉴(The edit menu)'
       ],
       [
         '16-03-01-edit-menu-entries.md', 
-        '16.3.1. "Edit" menu entries'
+        '16.3.1. 편집 메뉴 항목("Edit" menu entries)'
       ],
       [
-        '16-03-02-undo.md', 
-        '16.3.2. Undo'
+        '16-03-02-00-undo.md', 
+        '16.3.2. 실행 취소(Undo)'
       ],
       [
         '16-03-03-redo.md', 
