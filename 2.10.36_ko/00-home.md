@@ -3074,7 +3074,9 @@
 
 [16.2.19.1. 명령 활성화하기(Activating the Command)](./16-02-19-01-activating_the_command.md)
 
-[16.2.20. Close all](./16-02-20-00-close-all.md)
+[16.2.20. 모든 이미지 창 닫기(Close All)](./16-02-20-00-close-all.md)
+
+[16.2.20.1. 명령 활성화하기(Activate the Command)](./16-02-20-01-activate_the_command.md)
 
 [16.2.21. Quit](./16-02-21-quit.md)
 
@@ -6699,6 +6701,12 @@
 [90.10.57.1. 키보드 단축키](./90-10-57-01-00-keyboard_shortcut.md)
 
 [90.10.57.1.1. `이미지 메뉴 바` → `파일` → `이미지 닫기`: 키보드 단축키 Ctrl(⌘) + `W`](./90-10-57-01-01-ctrl_w.md)
+
+[90.10.58. `이미지 메뉴 바` → `파일` → `모든 이미지 창 닫기`](./90-10-58-00-menu_file_close_all.md)
+
+[90.10.58.1. 키보드 단축키](./90-10-58-01-00-keyboard_shortcut.md)
+
+[90.10.58.1.1. `이미지 메뉴 바` → `파일` → `모든 이미지 창 닫기`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `W`](./90-10-58-01-01-ctrl_shift_w.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
