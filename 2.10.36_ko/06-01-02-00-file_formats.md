@@ -21,7 +21,7 @@ GIMP(김프)에서는 작업 결과를 다양한 이미지 파일 유형으로 �
 <a id="90-04-42-a101"></a>
 
 #### [그림 90.4.42.a101. `뷰 닫기` 대화상자 (Windows) (우리말)](./90-04-0042-close_view.md#90-04-42-a101)
-![90-04-42-a101](https://github.com/wonder13662/gimp/assets/15767104/310282c7-ac1e-42ca-8741-78fd81577bc2)
+<img width="500" height="222" alt="90-04-42-a101" src="https://github.com/wonder13662/gimp/assets/15767104/310282c7-ac1e-42ca-8741-78fd81577bc2" />
 
 [다른 운영체제와 언어의 `뷰 닫기` 대화상자 확인하기](./90-04-0042-close_view.md#90-04-42-a102)
 
@@ -29,7 +29,7 @@ GIMP(김프)에서는 작업 결과를 다양한 이미지 파일 유형으로 �
 
 <a id="90-01-01-20-a102"></a>
 
-#### [영상 90.1.1.20.a102. 바뀐 이미지의 “이미지 닫기(Close View)”의 실행여부 확인](./90-01-01-20-close_view.md#90-01-01-20-a102)
+#### [영상 90.1.1.20.a102. 바뀐 이미지의 “이미지 닫기(Close View)”의 실행여부 확인 (Mac) (우리말)](./90-01-01-20-close_view.md#90-01-01-20-a102)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/00f55691-d4a1-42d3-90a4-f3c8c75f50b3"></video>
 
 ## 하위 페이지

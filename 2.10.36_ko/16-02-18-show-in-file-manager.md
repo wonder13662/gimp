@@ -29,7 +29,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.2.19. Close](./16-02-19-close.md)
+[➡️ 다음: 16.2.19. 이미지 닫기(Close)](./16-02-19-00-close.md)
 
 [⬅️ 이전: 16.2.17. 이미지 위치 복사하기(Copy Image Location)](./16-02-17-copy-image-location.md)
 

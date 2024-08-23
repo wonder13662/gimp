@@ -3070,7 +3070,9 @@
 
 [16.2.18. 파일 관리자에 표시(Show in File Manager)](./16-02-18-show-in-file-manager.md)
 
-[16.2.19. Close](./16-02-19-close.md)
+[16.2.19. 이미지 닫기(Close)](./16-02-19-00-close.md)
+
+[16.2.19.1. 명령 활성화하기(Activating the Command)](./16-02-19-01-activating_the_command.md)
 
 [16.2.20. Close all](./16-02-20-close-all.md)
 
@@ -6691,6 +6693,12 @@
 [90.10.56.1. 키보드 단축키](./90-10-56-01-00-keyboard_shortcut.md)
 
 [90.10.56.1.1. `이미지 메뉴 바` → `파일` → `파일 관리자에 표시`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `F`](./90-10-56-01-01-ctrl_shift_f.md)
+
+[90.10.57. `이미지 메뉴 바` → `파일` → `이미지 닫기`](./90-10-57-00-menu_file_close_view.md)
+
+[90.10.57.1. 키보드 단축키](./90-10-57-01-00-keyboard_shortcut.md)
+
+[90.10.57.1.1. `이미지 메뉴 바` → `파일` → `이미지 닫기`: 키보드 단축키 Ctrl(⌘) + `W`](./90-10-57-01-01-ctrl_w.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

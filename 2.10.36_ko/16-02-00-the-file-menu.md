@@ -136,7 +136,7 @@
 
 [16.2.18. 파일 관리자에 표시(Show in File Manager)](./16-02-18-show-in-file-manager.md)
 
-[16.2.19. Close](./16-02-19-close.md)
+[16.2.19. 이미지 닫기(Close)](./16-02-19-00-close.md)
 
 [16.2.20. Close all](./16-02-20-close-all.md)
 
