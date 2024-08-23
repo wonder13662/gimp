@@ -152,7 +152,7 @@
 
 [16.2.20. 모든 이미지 창 닫기(Close All)](./16-02-20-00-close-all.md)
 
-[16.2.21. Quit](./16-02-21-quit.md)
+[16.2.21. 끝내기(Quit)](./16-02-21-00-quit.md)
 
 [16.3. The edit menu](./16-03-00-the-edit-menu.md)
 

@@ -3078,7 +3078,9 @@
 
 [16.2.20.1. 명령 활성화하기(Activate the Command)](./16-02-20-01-activate_the_command.md)
 
-[16.2.21. Quit](./16-02-21-quit.md)
+[16.2.21. 끝내기(Quit)](./16-02-21-00-quit.md)
+
+[16.2.21.1. 명령 활성화하기(Activate Command)](./16-02-21-01-activate_command.md)
 
 [16.3. The edit menu](./16-03-00-the-edit-menu.md)
 
@@ -4058,6 +4060,8 @@
 
 [19. 용어집 - 체비쇼프(Chebyshev)](./19-glossaryx-chebyshev.md)
 
+[19. 용어집 - 깨끗한 이미지(Clean Image)](./19-glossaryx-clean_image.md)
+
 [19. 용어집 - 색상 영역(Color Area)](./19-glossaryx-color_area.md)
 
 [19. 용어집 - 색조화(Color Balance)](./19-glossaryx-color_balance.md)
@@ -4101,6 +4105,8 @@
 [19. 용어집 - 컨텍스트 메뉴(Context Menu)](./19-glossaryx-context_menu.md)
 
 [19. 용어집 - CSS(Cascading Style Sheets)](./19-glossaryx-css.md)
+
+[19. 용어집 - 더러운 이미지(Dirty Image)](./19-glossaryx-dirty_image.md)
 
 [19. 용어집 - 디더링(Dithering)](./19-glossaryx-dithering.md)
 
@@ -5802,6 +5808,8 @@
 
 [90.4.157. 이메일로 보내기(Send by Email)](./90-04-0157-send_by_email.md)
 
+[90.4.158. 김프 종료(Quit GIMP)](./90-04-0158-quit_gimp.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
@@ -6707,6 +6715,12 @@
 [90.10.58.1. 키보드 단축키](./90-10-58-01-00-keyboard_shortcut.md)
 
 [90.10.58.1.1. `이미지 메뉴 바` → `파일` → `모든 이미지 창 닫기`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `W`](./90-10-58-01-01-ctrl_shift_w.md)
+
+[90.10.59. `이미지 메뉴 바` → `파일` → `끝내기`](./90-10-59-00-menu_file_quit.md)
+
+[90.10.59.1. 키보드 단축키](./90-10-59-01-00-keyboard_shortcut.md)
+
+[90.10.59.1.1. `이미지 메뉴 바` → `파일` → `끝내기`: 키보드 단축키 Ctrl(⌘) + `Q`](./90-10-59-01-01-ctrl_q.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
