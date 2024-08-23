@@ -3106,7 +3106,7 @@
 
 [16.3.2.1. 명령 활성화하기(Activate the Command)](./16-03-02-01-activate_the_command.md)
 
-[16.3.3. 재실행(Redo)](./16-03-03-redo.md)
+[16.3.3. 재실행(Redo)](./16-03-03-00-redo.md)
 
 [16.3.4. Undo history](./16-03-04-undo-history.md)
 

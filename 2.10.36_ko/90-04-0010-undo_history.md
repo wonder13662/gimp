@@ -25,6 +25,8 @@
 #### 영상 90.4.10.a101.1. `실행취소 이력` 대화상자: 이전 작업에서 새로운 작업을 진행하기  (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ea8355e7-309d-43c8-aed9-57cc65ad89d5"></video>
 
+[3.3.2. 실행 취소 되돌리기 - 그림 90.4.10.a101.1](./03-03-02-redo_a_task.md#90-04-10-a101-01)
+
 [15.2.7.2. 실행취소 이력 대화상자 사용하기(Using the Undo History Dialog) - 그림 90.4.10.a101.1](./15-02-07-02-00-using_the_undo_history_dialog.md#90-04-10-a101-01)
 
 <a id="90-04-10-a101-02"></a>

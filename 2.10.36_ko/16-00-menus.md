@@ -160,7 +160,7 @@
 
 [16.3.2. 실행 취소(Undo)](./16-03-02-00-undo.md)
 
-[16.3.3. Redo](./16-03-03-redo.md)
+[16.3.3. Redo](./16-03-03-00-redo.md)
 
 [16.3.4. Undo history](./16-03-04-undo-history.md)
 
