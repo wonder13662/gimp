@@ -20,10 +20,10 @@ const {
 const doAsyncJob = async () => {
   try {
     // 1-1. 시작 페이지 이름
-    const head = '03-00-first-step-with-gimp.md'
+    const head = '16-03-00-the-edit-menu.md'
     // 1-2. 종료 페이지 이름
-    // const tail = '03-04-00-common-tasks.md'
-    const tail = head
+    const tail = '16-03-01-edit-menu-entries.md'
+    // const tail = head
 
     // 2. 모든 페이지 파일의 목록을 가져온다.
     const pageRootPath = getPageRootPath()

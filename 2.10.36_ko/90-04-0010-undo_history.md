@@ -5,7 +5,7 @@
 #### 그림 90.4.10.a1. `실행취소 이력` 대화상자
 <img width="850" height="352" alt="90-04-10-a1" src="https://github.com/wonder13662/gimp/assets/15767104/32301e54-dd05-42fc-bc69-7c1182f5ae0a" />
 
-[3.3. 실행 취소하기 - 그림 90.4.10.a1](./03-03-00-undoing.md#90-04-10-a1)
+[3.3.4. 실행취소 이력 대화상자 - 그림 90.4.10.a1](./03-03-04-undo_history_dialog.md#90-04-10-a1)
 
 [13.1.2. 플러그인 사용하기(Using Plugins) - 그림 90.4.10.a1](./13-01-02-using_plugins.md#90-04-10-a1)
 
@@ -47,6 +47,8 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/70e829d8-3d1d-4c2d-8725-4e1eca6f913b"></video>
 
 [15.2.7.2.1. 실행취소(Undo) - 영상 90.4.10.a101.3.1.1](./15-02-07-02-01-undo.md#90-04-10-a101-03-01-01)
+
+[16.3.2.1. 명령 활성화하기(Activate the Command) - 영상 90.4.10.a101.3.1.1](./16-03-02-01-activate_the_command.md#90-04-10-a101-03-01-01)
 
 <a id="90-04-10-a101-03-02"></a>
 

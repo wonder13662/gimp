@@ -9,7 +9,7 @@
 <a id="90-01-02-02-a101"></a>
 
 #### [그림 90.1.2.2.a101. `이미지 메뉴 바` → `편집` → `재실행`](./90-01-02-02-redo.md#90-01-02-02-a101)
-![90-01-02-02-a101](https://github.com/wonder13662/gimp/assets/15767104/519863ec-8348-4b05-b52f-bd74788e09de)
+<img width="980" height="601" alt="90-01-02-02-a101" src="https://github.com/wonder13662/gimp/assets/15767104/32737261-8275-46cc-bad0-c9c7df52cf71" />
 
 ***
 
