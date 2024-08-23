@@ -22,7 +22,7 @@
 
 <a id="90-10-56-01-01-a1"></a>
 
-#### [영상 90.10.56.1.1.a1. `이미지 메뉴 바` → `파일` → `파일 관리자에 표시`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `F` (Windows) (우리말)](./90-10-56-00-menu_file_show_in_file_mananger.md#90-10-56-01-01-a1)
+#### [영상 90.10.56.1.1.a1. `이미지 메뉴 바` → `파일` → `파일 관리자에 표시`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `F` (Windows) (우리말)](./90-10-56-01-01-ctrl_shift_f.md#90-10-56-01-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d2aef6c5-7921-408e-903e-377c78ed1e1d"></video>
 
 ***
