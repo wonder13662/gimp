@@ -1339,7 +1339,7 @@ module.exports = {
         '16.2.19. 이미지 닫기(Close)'
       ],
       [
-        '16-02-20-close-all.md', 
+        '16-02-20-00-close-all.md', 
         '16.2.20. Close all'
       ],
       [

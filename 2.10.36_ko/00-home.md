@@ -3074,7 +3074,7 @@
 
 [16.2.19.1. 명령 활성화하기(Activating the Command)](./16-02-19-01-activating_the_command.md)
 
-[16.2.20. Close all](./16-02-20-close-all.md)
+[16.2.20. Close all](./16-02-20-00-close-all.md)
 
 [16.2.21. Quit](./16-02-21-quit.md)
 

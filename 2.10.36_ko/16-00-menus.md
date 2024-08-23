@@ -150,7 +150,7 @@
 
 [16.2.19. 이미지 닫기(Close)](./16-02-19-00-close.md)
 
-[16.2.20. Close all](./16-02-20-close-all.md)
+[16.2.20. Close all](./16-02-20-00-close-all.md)
 
 [16.2.21. Quit](./16-02-21-quit.md)
 
