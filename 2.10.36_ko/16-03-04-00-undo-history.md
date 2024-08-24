@@ -23,3 +23,25 @@
 
 ## 3. 실행취소 이력 대화상자의 이력 지우기(Clear undo History)
 [15.2.7.2.3. 실행취소 이력 지우기(Clear Undo History)](./15-02-07-02-03-clear_undo_history.md)을 참고해주세요.
+
+***
+
+## 하위 페이지
+
+[16.3.4.1. 명령 활성화하기(Activating the Command)](./16-03-04-01-activating_the_command.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.3.4.1. 명령 활성화하기(Activating the Command)](./16-03-04-01-activating_the_command.md)
+
+[⬅️ 이전: 16.3.3.1. 명령 활성화하기(Activating the Command)](./16-03-03-01-activating_the_command.md)
+
+[⬆️ 위: 16.3. 편집 메뉴(The edit menu)](./16-03-00-the-edit-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-edit-undo-history.html)
