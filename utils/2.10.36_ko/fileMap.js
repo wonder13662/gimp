@@ -1364,7 +1364,7 @@ module.exports = {
       ],
       [
         '16-03-04-00-undo-history.md', 
-        '16.3.4. Undo history'
+        '16.3.4. 실행취소 이력(Undo History)'
       ],
       [
         '16-03-05-00-cut.md', 

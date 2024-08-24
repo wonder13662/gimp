@@ -36,7 +36,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.3.4. Undo history](./16-03-04-00-undo-history.md)
+[➡️ 다음: 16.3.4. 실행취소 이력(Undo History)](./16-03-04-00-undo-history.md)
 
 [⬅️ 이전: 16.3.3. 재실행(Redo)](./16-03-03-00-redo.md)
 
