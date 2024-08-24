@@ -3108,9 +3108,15 @@
 
 [16.3.3. 재실행(Redo)](./16-03-03-00-redo.md)
 
-[16.3.4. Undo history](./16-03-04-00-undo-history.md)
+[16.3.3.1. 명령 활성화하기(Activating the Command)](./16-03-03-01-activating_the_command.md)
 
-[16.3.5. Cut](./16-03-05-cut.md)
+[16.3.4. 실행취소 이력(Undo History)](./16-03-04-00-undo-history.md)
+
+[16.3.4.1. 명령 활성화하기(Activating the Command)](./16-03-04-01-activating_the_command.md)
+
+[16.3.5. 잘라내기(Cut)](./16-03-05-00-cut.md)
+
+[16.3.5.1. 명령 활성화하기(Activate the Command)](./16-03-05-01-activate_the_command.md)
 
 [16.3.6. Copy](./16-03-06-copy.md)
 
@@ -3118,11 +3124,11 @@
 
 [16.3.8. 붙여넣기(Paste)](./16-03-08-paste.md)
 
-[16.3.9. 선택 영역에 붙여넣기(Paste into selection)](./16-03-09-paste-into-selection.md)
+[16.3.9. 선택 영역에 붙여넣기(Paste into selection)](./16-03-09-paste_into_selection.md)
 
-[16.3.10. Paste in place](./16-03-10-paste-in-place.md)
+[16.3.10. 지정한 좌표에 붙여넣기(Paste In Place)](./16-03-10-paste_in_place.md)
 
-[16.3.11. Paste into selection in place](./16-03-11-paste-into-selection-in-place.md)
+[16.3.11. 지정한 좌표의 선택영역에 붙여넣기(Paste into selection in place)](./16-03-11-paste_into_selection_in_place.md)
 
 [16.3.12. 붙여넣기(고급) - Paste as](./16-03-12-00-paste_as.md)
 
@@ -6739,6 +6745,12 @@
 [90.10.59.1. 키보드 단축키](./90-10-59-01-00-keyboard_shortcut.md)
 
 [90.10.59.1.1. `이미지 메뉴 바` → `파일` → `끝내기`: 키보드 단축키 Ctrl(⌘) + `Q`](./90-10-59-01-01-ctrl_q.md)
+
+[90.10.60. `이미지 메뉴 바` → `파일` → `잘라내기`](./90-10-60-00-menu_edit_cut.md)
+
+[90.10.60.1. 키보드 단축키](./90-10-60-01-00-keyboard_shortcut.md)
+
+[90.10.60.1.1. `이미지 메뉴 바` → `파일` → `잘라내기`: 키보드 단축키 Ctrl(⌘) + `X`](./90-10-60-01-01-ctrl_x.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

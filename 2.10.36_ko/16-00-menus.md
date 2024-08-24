@@ -138,9 +138,15 @@
 
 [16.2.13. 다른 이름으로 이미지 내보내기(Export as)](./16-02-13-00-export-as.md)
 
+[16.2.13.1. 명령 활성화하기(Activating the Command)](./16-02-13-01-activating_the_command.md)
+
 [16.2.14. 템플릿 만들기...(Create Template...)](./16-02-14-00-create-template.md)
 
+[16.2.14.1. 명령 활성화하기(Activating the Command)](./16-02-14-01-activating_the_command.md)
+
 [16.2.15. 인쇄(Print)](./16-02-15-00-print.md)
+
+[16.2.15.1. 명령 활성화하기(Activate Command)](./16-02-15-01-activate_command.md)
 
 [16.2.16. 이메일로 보내기(Send by Email)](./16-02-16-send-by-email.md)
 
@@ -150,9 +156,15 @@
 
 [16.2.19. 이미지 닫기(Close)](./16-02-19-00-close.md)
 
+[16.2.19.1. 명령 활성화하기(Activating the Command)](./16-02-19-01-activating_the_command.md)
+
 [16.2.20. 모든 이미지 창 닫기(Close All)](./16-02-20-00-close-all.md)
 
+[16.2.20.1. 명령 활성화하기(Activate the Command)](./16-02-20-01-activate_the_command.md)
+
 [16.2.21. 끝내기(Quit)](./16-02-21-00-quit.md)
+
+[16.2.21.1. 명령 활성화하기(Activate Command)](./16-02-21-01-activate_command.md)
 
 [16.3. 편집 메뉴(The edit menu)](./16-03-00-the-edit-menu.md)
 
@@ -160,11 +172,19 @@
 
 [16.3.2. 실행 취소(Undo)](./16-03-02-00-undo.md)
 
-[16.3.3. Redo](./16-03-03-00-redo.md)
+[16.3.2.1. 명령 활성화하기(Activate the Command)](./16-03-02-01-activate_the_command.md)
 
-[16.3.4. Undo history](./16-03-04-00-undo-history.md)
+[16.3.3. 재실행(Redo)](./16-03-03-00-redo.md)
 
-[16.3.5. Cut](./16-03-05-cut.md)
+[16.3.3.1. 명령 활성화하기(Activating the Command)](./16-03-03-01-activating_the_command.md)
+
+[16.3.4. 실행취소 이력(Undo History)](./16-03-04-00-undo-history.md)
+
+[16.3.4.1. 명령 활성화하기(Activating the Command)](./16-03-04-01-activating_the_command.md)
+
+[16.3.5. 잘라내기(Cut)](./16-03-05-00-cut.md)
+
+[16.3.5.1. 명령 활성화하기(Activate the Command)](./16-03-05-01-activate_the_command.md)
 
 [16.3.6. Copy](./16-03-06-copy.md)
 
@@ -172,11 +192,11 @@
 
 [16.3.8. 붙여넣기(Paste)](./16-03-08-paste.md)
 
-[16.3.9. 선택 영역에 붙여넣기(Paste into selection)](./16-03-09-paste-into-selection.md)
+[16.3.9. 선택 영역에 붙여넣기(Paste into selection)](./16-03-09-paste_into_selection.md)
 
-[16.3.10. Paste in place](./16-03-10-paste-in-place.md)
+[16.3.10. 지정한 좌표에 붙여넣기(Paste In Place)](./16-03-10-paste_in_place.md)
 
-[16.3.11. Paste into selection in place](./16-03-11-paste-into-selection-in-place.md)
+[16.3.11. 지정한 좌표의 선택영역에 붙여넣기(Paste into selection in place)](./16-03-11-paste_into_selection_in_place.md)
 
 [16.3.12. 붙여넣기(고급) - Paste as](./16-03-12-00-paste_as.md)
 

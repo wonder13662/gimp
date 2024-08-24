@@ -1367,8 +1367,8 @@ module.exports = {
         '16.3.4. Undo history'
       ],
       [
-        '16-03-05-cut.md', 
-        '16.3.5. Cut'
+        '16-03-05-00-cut.md', 
+        '16.3.5. 잘라내기(Cut)'
       ],
       [
         '16-03-06-copy.md', 
@@ -1384,17 +1384,17 @@ module.exports = {
         '16.3.8. 붙여넣기',
       ],
       [
-        '16-03-09-paste-into-selection.md', 
+        '16-03-09-paste_into_selection.md', 
         '16.3.9. 선택 영역에 붙여넣기(Paste into selection)',
         '16.3.9. 선택 영역에 붙여넣기',
       ],
       [
-        '16-03-10-paste-in-place.md', 
-        '16.3.10. Paste in place'
+        '16-03-10-paste_in_place.md', 
+        '16.3.10. 지정한 좌표에 붙여넣기(Paste In Place)'
       ],
       [
-        '16-03-11-paste-into-selection-in-place.md', 
-        '16.3.11. Paste into selection in place'
+        '16-03-11-paste_into_selection_in_place.md', 
+        '16.3.11. 지정한 좌표의 선택영역에 붙여넣기(Paste into selection in place)'
       ],
       [
         '16-03-12-00-paste_as.md', 
