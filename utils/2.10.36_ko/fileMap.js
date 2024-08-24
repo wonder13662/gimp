@@ -1363,7 +1363,7 @@ module.exports = {
         '16.3.3. Redo'
       ],
       [
-        '16-03-04-undo-history.md', 
+        '16-03-04-00-undo-history.md', 
         '16.3.4. Undo history'
       ],
       [

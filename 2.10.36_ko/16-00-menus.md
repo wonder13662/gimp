@@ -162,7 +162,7 @@
 
 [16.3.3. Redo](./16-03-03-00-redo.md)
 
-[16.3.4. Undo history](./16-03-04-undo-history.md)
+[16.3.4. Undo history](./16-03-04-00-undo-history.md)
 
 [16.3.5. Cut](./16-03-05-cut.md)
 

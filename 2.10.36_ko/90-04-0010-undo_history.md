@@ -104,6 +104,20 @@
 #### 그림 90.4.10.a104. `실행취소 이력` 대화상자 (Mac) (영어)
 <img width="200" height="205" alt="90-04-10-a104" src="https://github.com/wonder13662/gimp/assets/15767104/f5015ac0-46bf-4b9e-8715-a4c6bff969bf" />
 
+<a id="90-04-10-a111"></a>
+
+#### 영상 90.4.10.a111. `실행취소 이력` 대화상자: 위쪽 방향키로 `실행 취소`하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/81a03747-22bb-4def-b3ce-068143c8c4bc"></video>
+
+[15.2.7.2.1. 실행취소(Undo) - 영상 90.4.10.a111](./15-02-07-02-01-undo.md#90-04-10-a111)
+
+<a id="90-04-10-a112"></a>
+
+#### 영상 90.4.10.a112. `실행취소 이력` 대화상자: 아래쪽 방향키로 `재실행`하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f9602d2a-2eac-4cbb-ae92-816ca6cb66c2"></video>
+
+[15.2.7.2.2. 실행취소 재실행(Redo) - 영상 90.4.10.a112](./15-02-07-02-02-redo.md#90-04-10-a112)
+
 ***
 
 ## 다른 페이지로 가기
