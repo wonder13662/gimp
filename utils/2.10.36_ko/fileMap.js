@@ -1371,8 +1371,8 @@ module.exports = {
         '16.3.5. 잘라내기(Cut)'
       ],
       [
-        '16-03-06-copy.md', 
-        '16.3.6. Copy'
+        '16-03-06-00-copy.md', 
+        '16.3.6. 복사(Copy)'
       ],
       [
         '16-03-07-copy-visible.md', 

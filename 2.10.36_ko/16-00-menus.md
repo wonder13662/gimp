@@ -186,7 +186,7 @@
 
 [16.3.5.1. 명령 활성화하기(Activate the Command)](./16-03-05-01-activate_the_command.md)
 
-[16.3.6. Copy](./16-03-06-copy.md)
+[16.3.6. 복사(Copy)](./16-03-06-00-copy.md)
 
 [16.3.7. Copy visible](./16-03-07-copy-visible.md)
 
