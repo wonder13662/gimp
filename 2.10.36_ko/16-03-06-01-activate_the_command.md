@@ -22,3 +22,21 @@
 
 #### [영상 90.10.61.1.1.a1. `이미지 메뉴 바` → `파일` → `복사`: 키보드 단축키 Ctrl(⌘) + `C` (Windows) (우리말)](./90-10-61-01-01-ctrl_c.md#90-10-61-01-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/caa7bfd7-ea4d-4898-814d-56a3e9138d59"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.3.7. 보이는 부분 복사(Copy Visible)](./16-03-07-00-copy-visible.md)
+
+[⬅️ 이전: 16.3.6. 복사(Copy)](./16-03-06-00-copy.md)
+
+[⬆️ 위: 16.3.6. 복사(Copy)](./16-03-06-00-copy.md)
+
+[⬆️ 위: 16.3. 편집 메뉴(The edit menu)](./16-03-00-the-edit-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-edit-copy.html#idm23588)

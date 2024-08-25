@@ -22,3 +22,21 @@
 
 #### [영상 90.10.63.1.1.a1. `이미지 메뉴 바` → `파일` → `붙여넣기`: 키보드 단축키 Ctrl(⌘) + `V` (Windows) (우리말)](./90-10-63-01-01-ctrl_v.md#90-10-63-01-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/866b02ac-6bc5-4b12-bf0f-440c35f158ac"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.3.9. 선택 영역에 붙여넣기(Paste into selection)](./16-03-09-00-paste_into_selection.md)
+
+[⬅️ 이전: 16.3.8. 붙여넣기(Paste)](./16-03-08-00-paste.md)
+
+[⬆️ 위: 16.3.8. 붙여넣기(Paste)](./16-03-08-00-paste.md)
+
+[⬆️ 위: 16.3. 편집 메뉴(The edit menu)](./16-03-00-the-edit-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-edit-paste.html#idm23643)
