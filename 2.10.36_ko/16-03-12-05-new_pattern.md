@@ -1,1 +1,0 @@
-# 16.3.12.5. 새 무늬로 붙여넣기(Paste as New Pattern)

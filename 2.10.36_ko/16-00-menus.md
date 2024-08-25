@@ -206,9 +206,9 @@
 
 [16.3.12.3. 새 이미지로 붙여넣기(Paste as New Image)](./16-03-12-03-new_image.md)
 
-[16.3.12.4. 새 붓으로 붙여넣기(Paste as New Brush)](./16-03-12-04-new_brush.md)
+[16.3.12.4. 새 붓으로 붙여넣기(Paste as New Brush)](./16-03-12-04-00-new_brush.md)
 
-[16.3.12.5. 새 무늬로 붙여넣기(Paste as New Pattern)](./16-03-12-05-new_pattern.md)
+[16.3.12.5. 새 무늬로 붙여넣기(Paste as New Pattern)](./16-03-12-05-00-new_pattern.md)
 
 [16.3.13. 버퍼(Buffer)](./16-03-13-00-buffer.md)
 
