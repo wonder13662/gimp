@@ -34,7 +34,7 @@
 
 [➡️ 다음: 15.4.1.3.2.6. 버퍼를 새로운 레이어의 같은 위치에 붙여넣기(Paste Buffer as New Layer)](./15-04-01-03-02-06-paste_buffer_as_new_layer_in_place.md)
 
-[⬅️ 이전: 15.4.1.3.2.4. 버퍼를 선택 영역의 같은 위치에 붙여넣기(Paste Buffer into the Selection)](./15-04-01-03-02-04-paste_buffer_into_the_selection_in_place.md)
+[⬅️ 이전: 15.4.1.3.2.4. 버퍼를 선택 영역의 같은 위치에 붙여넣기(Paste Buffer into the Selection in Place)](./15-04-01-03-02-04-paste_buffer_into_the_selection_in_place.md)
 
 [⬆️ 위: 15.4.1.3.2. 버퍼 대화상자 컨텍스트 메뉴(Buffers dialog Context Menu)](./15-04-01-03-02-00-buffers_dialog_context_menu.md)
 

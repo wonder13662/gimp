@@ -2528,7 +2528,7 @@
 
 [15.4.1.3.2.3. 버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)](./15-04-01-03-02-03-paste_buffer_into_the_selection.md)
 
-[15.4.1.3.2.4. 버퍼를 선택 영역의 같은 위치에 붙여넣기(Paste Buffer into the Selection)](./15-04-01-03-02-04-paste_buffer_into_the_selection_in_place.md)
+[15.4.1.3.2.4. 버퍼를 선택 영역의 같은 위치에 붙여넣기(Paste Buffer into the Selection in Place)](./15-04-01-03-02-04-paste_buffer_into_the_selection_in_place.md)
 
 [15.4.1.3.2.5. 버퍼를 새로운 레이어에 붙여넣기(Paste Buffer as New Layer)](./15-04-01-03-02-05-paste_buffer_as_new_layer.md)
 

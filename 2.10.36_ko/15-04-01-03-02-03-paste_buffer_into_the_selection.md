@@ -34,7 +34,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.4.1.3.2.4. 버퍼를 선택 영역의 같은 위치에 붙여넣기(Paste Buffer into the Selection)](./15-04-01-03-02-04-paste_buffer_into_the_selection_in_place.md)
+[➡️ 다음: 15.4.1.3.2.4. 버퍼를 선택 영역의 같은 위치에 붙여넣기(Paste Buffer into the Selection in Place)](./15-04-01-03-02-04-paste_buffer_into_the_selection_in_place.md)
 
 [⬅️ 이전: 15.4.1.3.2.2. 버퍼를 같은 위치에 붙여넣기(Paste Buffer in place)](./15-04-01-03-02-02-paste_buffer_in_place.md)
 

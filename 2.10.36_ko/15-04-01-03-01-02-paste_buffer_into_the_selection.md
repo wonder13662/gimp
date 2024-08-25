@@ -20,7 +20,7 @@
 
 ## 2. 버퍼를 선택 영역의 같은 위치에 붙여넣기
 
-Shift(⇧)키를 누른 채로 `버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)` 버튼을 누르면, [15.4.1.3.2.4. 버퍼를 선택 영역의 같은 위치에 붙여넣기(Paste Buffer into the Selection)](./15-04-01-03-02-04-paste_buffer_into_the_selection_in_place.md)으로 동작합니다.
+Shift(⇧)키를 누른 채로 `버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)` 버튼을 누르면, [15.4.1.3.2.4. 버퍼를 선택 영역의 같은 위치에 붙여넣기(Paste Buffer into the Selection in Place)](./15-04-01-03-02-04-paste_buffer_into_the_selection_in_place.md)으로 동작합니다.
 
 <a id="90-04-23-a115-02-02"></a>
 

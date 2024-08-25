@@ -1,4 +1,4 @@
-# 15.4.1.3.2.4. 버퍼를 선택 영역의 같은 위치에 붙여넣기(Paste Buffer into the Selection)
+# 15.4.1.3.2.4. 버퍼를 선택 영역의 같은 위치에 붙여넣기(Paste Buffer into the Selection in Place)
 
 <a id="90-04-23-a121-04"></a>
 
@@ -18,6 +18,12 @@
 
 #### [영상 90.4.23.a121.4.1. `버퍼` 대화상자 → `탭 메뉴` → `버퍼 메뉴` → `버퍼를 선택 영역의 같은 위치에 붙여넣기` (Windows) (우리말)](./90-04-0023-buffers.md#90-04-23-a121-04-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2c040c67-b129-49f4-a920-34dae152deb2"></video>
+
+***
+
+## 관련 정보
+
+[16.3.11. 지정한 좌표의 선택영역에 붙여넣기(Paste into selection in place)](./16-03-11-00-paste_into_selection_in_place.md)
 
 ***
 
