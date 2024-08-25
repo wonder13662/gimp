@@ -1375,8 +1375,8 @@ module.exports = {
         '16.3.6. 복사(Copy)'
       ],
       [
-        '16-03-07-copy-visible.md', 
-        '16.3.7. Copy visible'
+        '16-03-07-00-copy-visible.md', 
+        '16.3.7. 보이는 부분 복사(Copy Visible)'
       ],
       [
         '16-03-08-paste.md', 

@@ -3122,7 +3122,9 @@
 
 [16.3.6.1. 명령 활성화하기(Activate the Command)](./16-03-06-01-activate_the_command.md)
 
-[16.3.7. Copy visible](./16-03-07-copy-visible.md)
+[16.3.7. 보이는 부분 복사(Copy Visible)](./16-03-07-00-copy-visible.md)
+
+[16.3.7.1. 명령 활성화하기(Activating the Command)](./16-03-07-01-activating_the_command.md)
 
 [16.3.8. 붙여넣기(Paste)](./16-03-08-paste.md)
 
@@ -6759,6 +6761,12 @@
 [90.10.61.1. 키보드 단축키](./90-10-61-01-00-keyboard_shortcut.md)
 
 [90.10.61.1.1. `이미지 메뉴 바` → `파일` → `복사`: 키보드 단축키 Ctrl(⌘) + `C`](./90-10-61-01-01-ctrl_c.md)
+
+[90.10.62. `이미지 메뉴 바` → `파일` → `복사`](./90-10-62-00-menu_edit_copy_visible.md)
+
+[90.10.62.1. 키보드 단축키](./90-10-62-01-00-keyboard_shortcut.md)
+
+[90.10.62.1.1. `이미지 메뉴 바` → `파일` → `복사`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `C`](./90-10-62-01-01-ctrl_shift_c.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

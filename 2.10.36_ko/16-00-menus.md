@@ -188,7 +188,7 @@
 
 [16.3.6. 복사(Copy)](./16-03-06-00-copy.md)
 
-[16.3.7. Copy visible](./16-03-07-copy-visible.md)
+[16.3.7. 보이는 부분 복사(Copy Visible)](./16-03-07-00-copy-visible.md)
 
 [16.3.8. 붙여넣기(Paste)](./16-03-08-paste.md)
 
