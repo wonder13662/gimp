@@ -1379,21 +1379,21 @@ module.exports = {
         '16.3.7. 보이는 부분 복사(Copy Visible)'
       ],
       [
-        '16-03-08-paste.md', 
+        '16-03-08-00-paste.md', 
         '16.3.8. 붙여넣기(Paste)',
         '16.3.8. 붙여넣기',
       ],
       [
-        '16-03-09-paste_into_selection.md', 
+        '16-03-09-00-paste_into_selection.md', 
         '16.3.9. 선택 영역에 붙여넣기(Paste into selection)',
         '16.3.9. 선택 영역에 붙여넣기',
       ],
       [
-        '16-03-10-paste_in_place.md', 
+        '16-03-10-00-paste_in_place.md', 
         '16.3.10. 지정한 좌표에 붙여넣기(Paste In Place)'
       ],
       [
-        '16-03-11-paste_into_selection_in_place.md', 
+        '16-03-11-00-paste_into_selection_in_place.md', 
         '16.3.11. 지정한 좌표의 선택영역에 붙여넣기(Paste into selection in place)'
       ],
       [

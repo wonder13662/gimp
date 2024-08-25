@@ -23,12 +23,12 @@
 
 <a id="15-04-01-03-02-03-s2"></a>
 
-## 2. `버퍼를 선택 영역에 붙여넣기` 메뉴와 [선택 영역에 붙여넣기](./16-03-09-paste_into_selection.md)와의 차이점
+## 2. `버퍼를 선택 영역에 붙여넣기` 메뉴와 [선택 영역에 붙여넣기](./16-03-09-00-paste_into_selection.md)와의 차이점
 
-`버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)` 메뉴와 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [선택 영역에 붙여넣기](./16-03-09-paste_into_selection.md)와의 차이점은 다음과 같습니다.
+`버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)` 메뉴와 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [선택 영역에 붙여넣기](./16-03-09-00-paste_into_selection.md)와의 차이점은 다음과 같습니다.
 
 - `버퍼를 선택 영역에 붙여넣기(Paste Buffer into the Selection)` 메뉴는 `버퍼` 대화상자의 목록에서 선택한 버퍼의 내용만 붙여넣기 할 수 있습니다.
-- [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [선택 영역에 붙여넣기](./16-03-09-paste_into_selection.md)는 전역 버퍼의 내용만 붙여넣기 할 수 있습니다.
+- [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [선택 영역에 붙여넣기](./16-03-09-00-paste_into_selection.md)는 전역 버퍼의 내용만 붙여넣기 할 수 있습니다.
 
 ***
 

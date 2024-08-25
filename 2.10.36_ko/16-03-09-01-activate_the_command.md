@@ -18,7 +18,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.3.10. 지정한 좌표에 붙여넣기(Paste In Place)](./16-03-10-paste_in_place.md)
+[➡️ 다음: 16.3.10. 지정한 좌표에 붙여넣기(Paste In Place)](./16-03-10-00-paste_in_place.md)
 
 [⬅️ 이전: 16.3.9. 선택 영역에 붙여넣기(Paste into selection)](./16-03-09-00-paste_into_selection.md)
 
