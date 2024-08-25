@@ -54,7 +54,7 @@
 
 [⬅️ 이전: 15.2.1.1. 대화상자 활성화하기(Activate the dialog)](./15-02-01-01-activate_the_dialog.md)
 
-[⬆️ 위: 15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers-dialog.md)
+[⬆️ 위: 15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers_dialog.md)
 
 [⬆️ 위: 15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
 

@@ -6,7 +6,7 @@
 
 ## 하위 페이지
 
-[15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers-dialog.md)
+[15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers_dialog.md)
 
 [15.2.1.1. 대화상자 활성화하기(Activate the dialog)](./15-02-01-01-activate_the_dialog.md)
 
@@ -290,7 +290,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers-dialog.md)
+[➡️ 다음: 15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers_dialog.md)
 
 [⬅️ 이전: 15.1. 대화상자 소개(Dialog introduction)](./15-01-dialog-introduction.md)
 

@@ -1778,7 +1778,7 @@
 
 [15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
 
-[15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers-dialog.md)
+[15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers_dialog.md)
 
 [15.2.1.1. 대화상자 활성화하기(Activate the dialog)](./15-02-01-01-activate_the_dialog.md)
 
@@ -3126,7 +3126,9 @@
 
 [16.3.7.1. 명령 활성화하기(Activating the Command)](./16-03-07-01-activating_the_command.md)
 
-[16.3.8. 붙여넣기(Paste)](./16-03-08-paste.md)
+[16.3.8. 붙여넣기(Paste)](./16-03-08-00-paste.md)
+
+[16.3.8.1. 명령 활성화하기(Activate the Command)](./16-03-08-01-activate_the_command.md)
 
 [16.3.9. 선택 영역에 붙여넣기(Paste into selection)](./16-03-09-paste_into_selection.md)
 
@@ -3404,7 +3406,7 @@
 
 [16.7.5. Duplicate layer](./16-07-05-duplicate-layer.md)
 
-[16.7.6. Anchor layer](./16-07-06-anchor-layer.md)
+[16.7.6. 레이어 고정하기(Anchor layer)](./16-07-06-anchor-layer.md)
 
 [16.7.7. Merge down](./16-07-07-merge-down.md)
 
@@ -6767,6 +6769,12 @@
 [90.10.62.1. 키보드 단축키](./90-10-62-01-00-keyboard_shortcut.md)
 
 [90.10.62.1.1. `이미지 메뉴 바` → `파일` → `복사`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `C`](./90-10-62-01-01-ctrl_shift_c.md)
+
+[90.10.63. `이미지 메뉴 바` → `파일` → `붙여넣기`](./90-10-63-00-menu_edit_paste.md)
+
+[90.10.63.1. 키보드 단축키](./90-10-63-01-00-keyboard_shortcut.md)
+
+[90.10.63.1.1. `이미지 메뉴 바` → `파일` → `붙여넣기`: 키보드 단축키 Ctrl(⌘) + `V`](./90-10-63-01-01-ctrl_v.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

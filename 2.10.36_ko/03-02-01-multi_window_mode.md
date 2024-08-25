@@ -13,7 +13,7 @@
 
 위의 스크린샷은 가장 기본적인 다중창 모드 배치입니다.
 
-왼쪽과 오른쪽에 2개의 패널이 각각 있습니다. 그리고 가운데에는 이미지 창(image window)가 있습니다. 두번째 이미지 창(image window)는 첫번째 이미지 창에 가려 일부분만 보입니다. 왼쪽 패널은 [도구상자(Toolbox)](./12-01-13-00-toolbox.md), [도구 옵션(Tool Options)](./12-01-07-00-tool-options.md), [실행취소 이력 대화상자(Undo history dialog)](./15-02-07-00-undo-history-dialog.md), [장치 상태 대화상자(Device Status dialog)](./15-05-03-00-device-status-dialog.md) 그리고 [이미지 대화상자(Images dialogs)](./15-04-02-00-images-dialog.md)를 갖고 있습니다. 오른쪽 패널은 [붓 대화상자(Brushes dialog)](./15-03-02-00-brushes_dialog.md), [무늬 대화상자(Patterns dialog)](./15-03-04-00-patterns_dialog.md), [글꼴(Fonts)](./15-03-08-00-fonts_dialog.md) 그리고 [문서 이력 대화상자(Document Hisoty dialog)](./15-04-03-00-document-history-dialog.md)가 있는 다중 탭 독(multi-tab dock)과 [레이어 대화상자(Layers dialog)](./15-02-01-00-layers-dialog.md), [채널 대화상자(Channels dialog)](./15-02-02-00-channel_dialog.md) 그리고 [경로 대화상자(Paths dialog)](./15-02-03-00-paths-dialog.md)가 있는 또다른 다중 탭 독(multi-tab dock)을 가지고 있습니다.
+왼쪽과 오른쪽에 2개의 패널이 각각 있습니다. 그리고 가운데에는 이미지 창(image window)가 있습니다. 두번째 이미지 창(image window)는 첫번째 이미지 창에 가려 일부분만 보입니다. 왼쪽 패널은 [도구상자(Toolbox)](./12-01-13-00-toolbox.md), [도구 옵션(Tool Options)](./12-01-07-00-tool-options.md), [실행취소 이력 대화상자(Undo history dialog)](./15-02-07-00-undo-history-dialog.md), [장치 상태 대화상자(Device Status dialog)](./15-05-03-00-device-status-dialog.md) 그리고 [이미지 대화상자(Images dialogs)](./15-04-02-00-images-dialog.md)를 갖고 있습니다. 오른쪽 패널은 [붓 대화상자(Brushes dialog)](./15-03-02-00-brushes_dialog.md), [무늬 대화상자(Patterns dialog)](./15-03-04-00-patterns_dialog.md), [글꼴(Fonts)](./15-03-08-00-fonts_dialog.md) 그리고 [문서 이력 대화상자(Document Hisoty dialog)](./15-04-03-00-document-history-dialog.md)가 있는 다중 탭 독(multi-tab dock)과 [레이어 대화상자(Layers dialog)](./15-02-01-00-layers_dialog.md), [채널 대화상자(Channels dialog)](./15-02-02-00-channel_dialog.md) 그리고 [경로 대화상자(Paths dialog)](./15-02-03-00-paths-dialog.md)가 있는 또다른 다중 탭 독(multi-tab dock)을 가지고 있습니다.
 
 <a id="03-02-01-s1"></a>
 
@@ -52,7 +52,7 @@ GIMP(김프)에서는 이미지들이 각각의 독립된 창으로 열립니다
 <a id="03-02-01-s5"></a>
 
 ## 5. 레이어(Layers), 채널(Channels), 패스(Paths)
-[레이어(Layers)](./15-02-01-00-layers-dialog.md), [채널(Channels)](./15-02-02-00-channel_dialog.md) 그리고 [경로(Paths)](./15-02-03-00-paths-dialog.md)는 [붓(Brushes) 대화상자](./15-03-02-00-brushes_dialog.md) 아래의 독(dock) 안의 대화상자에서 관리합니다. 이미지에서는 레이어 탭이 열려 있습니다. 레이어 탭은 레이어 구조에서 현재 활성화된 이미지를 보여주며, 다양한 방식으로 수정할 수 있도록 해줍니다. 레이어 대화상자를 사용하지 않고도 기본적인 것들을 하는 것은 가능합니다만, 어느정도 숙련된 GIMP(김프) 사용자들이라면 레이어 대화상자가 항상 필수적이라는 것을 알고 있습니다.
+[레이어(Layers)](./15-02-01-00-layers_dialog.md), [채널(Channels)](./15-02-02-00-channel_dialog.md) 그리고 [경로(Paths)](./15-02-03-00-paths-dialog.md)는 [붓(Brushes) 대화상자](./15-03-02-00-brushes_dialog.md) 아래의 독(dock) 안의 대화상자에서 관리합니다. 이미지에서는 레이어 탭이 열려 있습니다. 레이어 탭은 레이어 구조에서 현재 활성화된 이미지를 보여주며, 다양한 방식으로 수정할 수 있도록 해줍니다. 레이어 대화상자를 사용하지 않고도 기본적인 것들을 하는 것은 가능합니다만, 어느정도 숙련된 GIMP(김프) 사용자들이라면 레이어 대화상자가 항상 필수적이라는 것을 알고 있습니다.
 
 [대화 상자(dialog)](./15-00-dialogs.md)와 독(dock) 관리에 대해서는 [3.2.5. 대화상자(Dialog)와 도킹(docking)](./03-02-05-00-dialogs-and-docking.md)에서 설명합니다.
 

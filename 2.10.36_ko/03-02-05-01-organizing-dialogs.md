@@ -28,7 +28,7 @@ GIMP의 오른쪽 판의 위쪽에 있는 독. 붓(Brushes), 무늬(Patterns), �
 <a id="03-02-05-01-s3-03"></a>
 
 ### 3-3. 오른쪽 아래의 독
-GIMP의 오른쪽 판의 아래쪽에 있는 독. [레이어(Layers)](./15-02-01-00-layers-dialog.md), [채널(Channels)](./15-02-02-00-channel_dialog.md) 그리고 [경로(Paths)](./15-02-03-00-paths-dialog.md) 대화상자들을 가지고 있습니다.
+GIMP의 오른쪽 판의 아래쪽에 있는 독. [레이어(Layers)](./15-02-01-00-layers_dialog.md), [채널(Channels)](./15-02-02-00-channel_dialog.md) 그리고 [경로(Paths)](./15-02-03-00-paths-dialog.md) 대화상자들을 가지고 있습니다.
 
 이러한 독(dock)에 여러 대화 상자들이 탭으로 모여 있습니다.
 

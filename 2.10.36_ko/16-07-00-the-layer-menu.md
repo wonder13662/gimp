@@ -5,7 +5,7 @@
 ## [16.7.3. 보이는 레이어들로 새 레이어 만들기(New from visible)](./16-07-03-new_from_visible.md)
 ## [16.7.4. New layer group](./16-07-04-new-layer-group.md)
 ## [16.7.5. Duplicate layer](./16-07-05-duplicate-layer.md)
-## [16.7.6. Anchor layer](./16-07-06-anchor-layer.md)
+## [16.7.6. 레이어 고정하기(Anchor layer)](./16-07-06-anchor-layer.md)
 ## [16.7.7. Merge down](./16-07-07-merge-down.md)
 ## [16.7.8. Merge layer group](./16-07-08-merge-layer-group.md)
 ## [16.7.9. Delete layer](./16-07-09-delete-layer.md)

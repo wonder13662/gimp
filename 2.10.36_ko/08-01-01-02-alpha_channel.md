@@ -22,7 +22,7 @@
 #### [영상 90.4.37.a127. `새 이미지 만들기` 대화상자 → 고급옵션 → `채우기`: 투명 (Windows) (우리말)](./90-04-0037-create_a_new_image.md#90-04-37-a127)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/374e5ad4-7c3c-4832-b140-7e25c1ccc7cf"></video>
 
-또다른 방법은 [레이어 대화상자](./15-02-01-00-layers-dialog.md)의 오른쪽 클릭 팝업 메뉴에서 [`알파 채널 추가`](./16-07-34-add_alpha_channel.md)를 클릭합니다.
+또다른 방법은 [레이어 대화상자](./15-02-01-00-layers_dialog.md)의 오른쪽 클릭 팝업 메뉴에서 [`알파 채널 추가`](./16-07-34-add_alpha_channel.md)를 클릭합니다.
 
 <a id="90-04-03-01-22-a11"></a>
 

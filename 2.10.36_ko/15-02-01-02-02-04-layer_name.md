@@ -19,7 +19,7 @@
 
 [⬆️ 위: 15.2.1.2. 레이어 대화상자 사용하기(Using the Layer dialog)](./15-02-01-02-00-using_the_layer_dialog.md)
 
-[⬆️ 위: 15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers-dialog.md)
+[⬆️ 위: 15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers_dialog.md)
 
 [⬆️ 위: 15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
 

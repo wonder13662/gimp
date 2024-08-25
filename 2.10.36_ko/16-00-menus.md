@@ -468,7 +468,7 @@
 
 [16.7.5. Duplicate layer](./16-07-05-duplicate-layer.md)
 
-[16.7.6. Anchor layer](./16-07-06-anchor-layer.md)
+[16.7.6. 레이어 고정하기(Anchor layer)](./16-07-06-anchor-layer.md)
 
 [16.7.7. Merge down](./16-07-07-merge-down.md)
 

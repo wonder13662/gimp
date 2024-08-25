@@ -167,7 +167,7 @@
 
 [⬅️ 이전: 15.2.1.2.6. 클릭, 드래그로 레이어 옮기기(Clicking-and-dragging layers)](./15-02-01-02-06-clicking_n_dragging_layers.md)
 
-[⬆️ 위: 15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers-dialog.md)
+[⬆️ 위: 15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers_dialog.md)
 
 [⬆️ 위: 15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
 
