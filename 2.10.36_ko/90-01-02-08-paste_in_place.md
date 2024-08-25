@@ -7,6 +7,17 @@
 
 [16.3.10. 지정한 좌표에 붙여넣기(Paste In Place) - 그림 90.1.2.8.a101](./16-03-10-00-paste_in_place.md#90-01-02-08-a101)
 
+[16.3.10.1. 명령 활성화하기(Activate the Command) - 그림 90.1.2.8.a101](./16-03-10-01-activate_the_command.md#90-01-02-08-a101)
+
+<a id="90-01-02-08-a102"></a>
+
+#### 영상 90.1.2.8.a102. `이미지 메뉴 바` → `편집` → `지정한 좌표에 붙여넣기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/caa37444-3d56-485c-8d68-837ad3788e7a"></video>
+
+[16.3.10. 지정한 좌표에 붙여넣기(Paste In Place) - 영상 90.1.2.8.a102](./16-03-10-00-paste_in_place.md#90-01-02-08-a102)
+
+[16.3.10.1. 명령 활성화하기(Activate the Command) - 영상 90.1.2.8.a102](./16-03-10-01-activate_the_command.md#90-01-02-08-a102)
+
 ***
 
 ## 다른 페이지로 가기
