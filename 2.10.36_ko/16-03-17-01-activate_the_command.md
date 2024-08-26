@@ -6,7 +6,7 @@
 
 <a id="90-01-02-16-a101"></a>
 
-#### [그림 90.1.2.16.a101. `이미지 메뉴 바` → `편집` → `무늬로 채우기`](./90-01-02-16-fill_with_pattern.md)
+#### [그림 90.1.2.16.a101. `이미지 메뉴 바` → `편집` → `무늬로 채우기`](./90-01-02-16-fill_with_pattern.md#90-01-02-16-a101)
 <img width="980" height="601" alt="90-01-02-16-a101" src="https://github.com/user-attachments/assets/1bedbbf6-f52b-43e5-9e4f-ca3775eadfd6" />
 
 <a id="90-01-02-16-a111"></a>
@@ -20,7 +20,7 @@
 
 <a id="90-10-68-01-01-a1"></a>
 
-#### [영상 90.10.68.1.1.a1. `이미지 메뉴 바` → `편집` → `무늬로 채우기`: Ctrl(⌘) + `;` (Windows) (우리말)](./90-10-68-00-menu_edit_fill_with_pattern.md#90-10-68-01-01-a1)
+#### [영상 90.10.68.1.1.a1. `이미지 메뉴 바` → `편집` → `무늬로 채우기`: Ctrl(⌘) + `;` (Windows) (우리말)](./90-10-68-01-01-ctrl_semi_colon.md#90-10-68-01-01-a1)
 <video controls="controls" width="680" height="360" src="https://github.com/user-attachments/assets/6e72ef81-4a1f-42a8-8974-c041af67ebfc"></video>
 
 ***

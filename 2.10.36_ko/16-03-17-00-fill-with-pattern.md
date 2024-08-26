@@ -2,7 +2,7 @@
 
 <a id="90-01-02-16-a101"></a>
 
-#### [그림 90.1.2.16.a101. `이미지 메뉴 바` → `편집` → `무늬로 채우기`](./90-01-02-16-fill_with_pattern.md)
+#### [그림 90.1.2.16.a101. `이미지 메뉴 바` → `편집` → `무늬로 채우기`](./90-01-02-16-fill_with_pattern.md#90-01-02-16-a101)
 <img width="980" height="601" alt="90-01-02-16-a101" src="https://github.com/user-attachments/assets/1bedbbf6-f52b-43e5-9e4f-ca3775eadfd6" />
 
 <a id="16-03-17-s1"></a>
