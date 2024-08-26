@@ -89,8 +89,8 @@
 
 <a id="90-01-02-13-a101"></a>
 
-#### [그림 90.1.2.13.a101. `편집` → `지우기`](./90-01-02-13-clear.md#90-01-02-13-a101)
-![90-00-image_menu_bar-edit(w1080)-focus-clear](https://github.com/wonder13662/gimp/assets/15767104/194a7e4a-e39b-42bf-9921-222a15ed6166)
+#### [그림 90.1.2.13.a101. `이미지 메뉴 바` → `편집` → `지우기`](./90-01-02-13-clear.md#90-01-02-13-a101)
+<img width="980" height="601" alt="90-01-02-13-a101" src="https://github.com/user-attachments/assets/48b78818-b1c3-4fe2-b882-8a48c3299df5" />
 
 <a id="08-01-01-02-s8"></a>
 

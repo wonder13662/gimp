@@ -1406,7 +1406,7 @@ module.exports = {
       ],
       [
         '16-03-14-clear.md', 
-        '16.3.14. Clear'
+        '16.3.14. 지우기(Clear)'
       ],
       [
         '16-03-15-fill-with-fg-color.md', 
