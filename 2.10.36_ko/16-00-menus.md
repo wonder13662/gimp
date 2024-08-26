@@ -222,7 +222,7 @@
 
 [16.3.13.2.3. 보이는 부분 복사(Copy Visible Named)](./16-03-13-02-03-copy_visible_named.md)
 
-[16.3.13.2.4. 이름 붙여 붙여넣기(Paste Named)](./16-03-13-02-04-paste_named.md)
+[16.3.13.2.4. 이름붙여 붙여넣기(Paste Named)](./16-03-13-02-04-paste_named.md)
 
 [16.3.14. Clear](./16-03-14-clear.md)
 

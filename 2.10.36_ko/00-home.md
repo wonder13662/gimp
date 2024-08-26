@@ -3164,7 +3164,7 @@
 
 [16.3.13. 버퍼(Buffer)](./16-03-13-00-buffer.md)
 
-[16.3.13. 버퍼(Buffer)](./16-03-13-01-activate_the_submenu.md)
+[16.3.13.1. 명령 활성화하기(Activate the command)](./16-03-13-01-activate_the_submenu.md)
 
 [16.3.13.2. 하위 메뉴 항목(Submenu entries)](./16-03-13-02-00-submenu_entries.md)
 
@@ -3174,7 +3174,7 @@
 
 [16.3.13.2.3. 보이는 부분 복사(Copy Visible Named)](./16-03-13-02-03-copy_visible_named.md)
 
-[16.3.13.2.4. 이름 붙여 붙여넣기(Paste Named)](./16-03-13-02-04-paste_named.md)
+[16.3.13.2.4. 이름붙여 붙여넣기(Paste Named)](./16-03-13-02-04-paste_named.md)
 
 [16.3.14. Clear](./16-03-14-clear.md)
 
@@ -5859,6 +5859,12 @@
 [90.4.159. Script-Fu: New Brush](./90-04-0159-script_fu_new_brush.md)
 
 [90.4.160. Script-Fu: New Pattern](./90-04-0160-script_fu_new_pattern.md)
+
+[90.4.161. 이름붙여 잘라내기](./90-04-0161-cut_named.md)
+
+[90.4.162. 이름붙여 복사하기](./90-04-0162-copy_named.md)
+
+[90.4.163. 이름붙여 보이는 부분 복사하기](./90-04-0163-copy_visible_named.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

@@ -30,7 +30,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.161. 이름붙여 잘라내기](./90-04-0161-cut_named.md)
 
 [⬅️ 이전: 90.4.159. Script-Fu: New Brush](./90-04-0159-script_fu_new_brush.md)
 

@@ -1533,6 +1533,12 @@
 
 [90.4.160. Script-Fu: New Pattern](./90-04-0160-script_fu_new_pattern.md)
 
+[90.4.161. 이름붙여 잘라내기](./90-04-0161-cut_named.md)
+
+[90.4.162. 이름붙여 복사하기](./90-04-0162-copy_named.md)
+
+[90.4.163. 이름붙여 보이는 부분 복사하기](./90-04-0163-copy_visible_named.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
