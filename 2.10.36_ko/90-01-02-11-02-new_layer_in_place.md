@@ -7,6 +7,13 @@
 
 [16.3.12.2. 새 레이어로 같은 위치에 붙여넣기(Paste as New Layer in place) - 그림 90.1.2.11.2.a101](./16-03-12-02-new_layer_in_place.md#90-01-02-11-02-a101)
 
+<a id="90-01-02-11-02-a102"></a>
+
+#### 영상 90.1.2.11.2.a102. `이미지 메뉴 바` → `편집` → `붙여넣기(고급)` → `새 레이어로 같은 위치에 붙여넣기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/c2a09aa5-9842-49ec-b77e-1d11d30c36d4"></video>
+
+[16.3.12.2. 새 레이어로 같은 위치에 붙여넣기(Paste as New Layer in place) - 영상 90.1.2.11.2.a102](./16-03-12-02-new_layer_in_place.md#90-01-02-11-02-a102)
+
 ***
 
 ## 다른 페이지로 가기
