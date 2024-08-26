@@ -1405,7 +1405,7 @@ module.exports = {
         '16.3.13. 버퍼(Buffer)'
       ],
       [
-        '16-03-14-clear.md', 
+        '16-03-14-00-clear.md', 
         '16.3.14. 지우기(Clear)'
       ],
       [

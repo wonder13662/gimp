@@ -24,3 +24,21 @@
 <video controls="controls" width="660" height="360" src="https://github.com/user-attachments/assets/e1875c11-2cd9-4156-9546-2c7d8ea9cf24"></video>
 
 <a comment="[ISSUE]원문에서는 도구상자의 전경색을 클릭, 드래그하여 전경색으로 채울 수 있다고 하였으나 그렇게 동작하지 않음"></a>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.3.16. Fill with BG color](./16-03-16-fill-with-bg-color.md)
+
+[⬅️ 이전: 16.3.15. 전경색으로 채우기(Fill with FG Color)](./16-03-15-00-fill-with-fg-color.md)
+
+[⬆️ 위: 16.3.15. 전경색으로 채우기(Fill with FG Color)](./16-03-15-00-fill-with-fg-color.md)
+
+[⬆️ 위: 16.3. 편집 메뉴(The edit menu)](./16-03-00-the-edit-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-edit-fill-fg.html#idm23979)

@@ -80,7 +80,7 @@
 
 [16.3.13.2.4. 이름붙여 붙여넣기(Paste Named)](./16-03-13-02-04-paste_named.md)
 
-[16.3.14. 지우기(Clear)](./16-03-14-clear.md)
+[16.3.14. 지우기(Clear)](./16-03-14-00-clear.md)
 
 [16.3.15. 전경색으로 채우기(Fill with FG Color)](./16-03-15-00-fill-with-fg-color.md)
 

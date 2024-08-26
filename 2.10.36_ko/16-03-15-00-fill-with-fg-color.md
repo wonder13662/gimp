@@ -36,3 +36,25 @@ Windows와 Linux의 경우에는 메뉴 오른쪽에 전경색이 작게 표시�
 
 #### [영상 90.1.2.14.a113. `이미지 메뉴 바` → `편집` → `전경색으로 채우기`: 선택 영역이 없는 경우 (Windows) (우리말)](./90-01-02-14-fill_with_fg_color.md#90-01-02-14-a113)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a08d21e9-9336-42e5-b378-5a4ddea9e6a8"></video>
+
+***
+
+## 하위 페이지
+
+[16.3.15.1. 명령 활성화하기(Activate the Command)](./16-03-15-01-activate_the_command.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.3.15.1. 명령 활성화하기(Activate the Command)](./16-03-15-01-activate_the_command.md)
+
+[⬅️ 이전: 16.3.14.1. 명령 활성화하기(Activate the Command)](./16-03-14-01-activate_the_command.md)
+
+[⬆️ 위: 16.3. 편집 메뉴(The edit menu)](./16-03-00-the-edit-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-edit-fill-fg.html)
