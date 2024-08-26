@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.164. 선택 영역 채우기(Fill Selection Outline)](./90-04-0164-fill_selection_outline.md)
 
 [⬅️ 이전: 90.4.162. 이름붙여 복사하기](./90-04-0162-copy_named.md)
 

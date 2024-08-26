@@ -1539,6 +1539,8 @@
 
 [90.4.163. 이름붙여 보이는 부분 복사하기](./90-04-0163-copy_visible_named.md)
 
+[90.4.164. 선택 영역 채우기(Fill Selection Outline)](./90-04-0164-fill_selection_outline.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

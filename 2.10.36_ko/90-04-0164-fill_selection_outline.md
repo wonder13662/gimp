@@ -1,0 +1,37 @@
+# 90.4.164. 선택 영역 채우기(Fill Selection Outline)
+
+<a id="90-04-164-a101"></a>
+
+#### 그림 90.4.164.a101. `선택 영역 외곽선 채우기` 대화상자 (Windows) (우리말)
+<img width="384" height="204" alt="90-04-164-a101" src="https://github.com/user-attachments/assets/87cacd98-87f0-4317-9eb5-cc13c6d401f2" />
+
+[16.3.18. 선택 영역 채우기(Fill Selection Outline) - 그림 90.4.164.a101](./16-03-18-00-fill-selection-outline.md#90-04-164-a101)
+
+<a id="90-04-164-a102"></a>
+
+#### 그림 90.4.164.a102. `선택 영역 외곽선 채우기` 대화상자 (Windows) (영어)
+<img width="384" height="208" alt="90-04-164-a102" src="https://github.com/user-attachments/assets/b16aa873-3735-4e15-8285-0cf4a87327dd" />
+
+<a id="90-04-164-a103"></a>
+
+#### 그림 90.4.164.a103. `선택 영역 외곽선 채우기` 대화상자 (Mac) (우리말)
+<img width="383" height="208" alt="90-04-164-a103" src="https://github.com/user-attachments/assets/9cda6449-6bf3-465a-847a-02d21b04efb5" />
+
+<a id="90-04-164-a104"></a>
+
+#### 그림 90.4.164.a104. `선택 영역 외곽선 채우기` 대화상자 (Mac) (영어)
+<img width="383" height="201" alt="90-04-164-a104" src="https://github.com/user-attachments/assets/9ffc6cb0-1cee-45c3-b265-aef20803a5c6" />
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+
+[⬅️ 이전: 90.4.163. 이름붙여 보이는 부분 복사하기](./90-04-0163-copy_visible_named.md)
+
+[⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-0000-dialogs.md)
+
+[⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
+
+[🏠 홈](./00-home.md)

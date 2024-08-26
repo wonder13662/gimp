@@ -3192,7 +3192,7 @@
 
 [16.3.17.1. 명령 활성화하기(Activate the Command)](./16-03-17-01-activate_the_command.md)
 
-[16.3.18. Fill selection outline](./16-03-18-fill-selection-outline.md)
+[16.3.18. 선택 영역 채우기(Fill Selection Outline)](./16-03-18-00-fill-selection-outline.md)
 
 [16.3.19. 경로 채우기(Fill path)](./16-03-19-fill_path.md)
 
@@ -5873,6 +5873,8 @@
 [90.4.162. 이름붙여 복사하기](./90-04-0162-copy_named.md)
 
 [90.4.163. 이름붙여 보이는 부분 복사하기](./90-04-0163-copy_visible_named.md)
+
+[90.4.164. 선택 영역 채우기(Fill Selection Outline)](./90-04-0164-fill_selection_outline.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

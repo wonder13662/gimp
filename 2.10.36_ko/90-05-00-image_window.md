@@ -207,7 +207,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.163. 이름붙여 보이는 부분 복사하기](./90-04-0163-copy_visible_named.md)
+[⬅️ 이전: 90.4.164. 선택 영역 채우기(Fill Selection Outline)](./90-04-0164-fill_selection_outline.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

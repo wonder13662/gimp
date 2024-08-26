@@ -252,7 +252,7 @@
 
 [16.3.17. 무늬로 채우기(Fill with pattern)](./16-03-17-00-fill-with-pattern.md)
 
-[16.3.18. Fill selection outline](./16-03-18-fill-selection-outline.md)
+[16.3.18. 선택 영역 채우기(Fill Selection Outline)](./16-03-18-00-fill-selection-outline.md)
 
 [16.3.19. 경로 채우기(Fill path)](./16-03-19-fill_path.md)
 
