@@ -207,7 +207,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.157. 이메일로 보내기(Send by Email)](./90-04-0157-send_by_email.md)
+[⬅️ 이전: 90.4.160. Script-Fu: New Pattern](./90-04-0160-script_fu_new_pattern.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

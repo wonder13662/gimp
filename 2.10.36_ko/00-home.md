@@ -4236,6 +4236,8 @@
 
 [19. 용어집 - Pass-through](./19-glossaryx-pass_through.md)
 
+[19. 용어집 - 무늬 파일 확장자 - `.pat`](./19-glossaryx-pat.md)
+
 [19. 용어집 - 경로: 고정점(Anchor)](./19-glossaryx-path_anchor.md)
 
 [19. 용어집 - 경로: 컴포넌트(Component)](./19-glossaryx-path_component.md)
@@ -5854,6 +5856,10 @@
 
 [90.4.158. 김프 종료(Quit GIMP)](./90-04-0158-quit_gimp.md)
 
+[90.4.159. Script-Fu: New Brush](./90-04-0159-script_fu_new_brush.md)
+
+[90.4.160. Script-Fu: New Pattern](./90-04-0160-script_fu_new_pattern.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
@@ -6794,7 +6800,7 @@
 
 [90.10.64.1. 키보드 단축키](./90-10-64-01-00-keyboard_shortcut.md)
 
-[90.10.64.1.1. `이미지 메뉴 바` → `편집` → `붙여넣기(고급)` → `새 이미지`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `V`](./90-10-64-01-01-ctrl_shift_vmd)
+[90.10.64.1.1. `이미지 메뉴 바` → `편집` → `붙여넣기(고급)` → `새 이미지`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `V`](./90-10-64-01-01-ctrl_shift_v.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

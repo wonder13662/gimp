@@ -1529,6 +1529,10 @@
 
 [90.4.158. 김프 종료(Quit GIMP)](./90-04-0158-quit_gimp.md)
 
+[90.4.159. Script-Fu: New Brush](./90-04-0159-script_fu_new_brush.md)
+
+[90.4.160. Script-Fu: New Pattern](./90-04-0160-script_fu_new_pattern.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
@@ -2471,7 +2475,7 @@
 
 [90.10.64.1. 키보드 단축키](./90-10-64-01-00-keyboard_shortcut.md)
 
-[90.10.64.1.1. `이미지 메뉴 바` → `편집` → `붙여넣기(고급)` → `새 이미지`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `V`](./90-10-64-01-01-ctrl_shift_vmd)
+[90.10.64.1.1. `이미지 메뉴 바` → `편집` → `붙여넣기(고급)` → `새 이미지`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `V`](./90-10-64-01-01-ctrl_shift_v.md)
 
 <a id="90-s90"></a>
 

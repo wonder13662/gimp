@@ -32,3 +32,17 @@
 <img width="384" height="251" alt="90-04-159-a113" src="https://github.com/user-attachments/assets/cf9a84c0-aa28-4036-9dc0-719d0bf8a5ca" />
 
 [16.3.12.4.1. 옵션(Options) - 그림 90.4.159.a113](./16-03-12-04-01-options.md#90-04-159-a113)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 90.4.160. Script-Fu: New Pattern](./90-04-0160-script_fu_new_pattern.md)
+
+[⬅️ 이전: 90.4.158. 김프 종료(Quit GIMP)](./90-04-0158-quit_gimp.md)
+
+[⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-0000-dialogs.md)
+
+[⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
+
+[🏠 홈](./00-home.md)
