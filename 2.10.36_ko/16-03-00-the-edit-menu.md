@@ -24,15 +24,27 @@
 
 [16.3.6. 복사(Copy)](./16-03-06-00-copy.md)
 
+[16.3.6.1. 명령 활성화하기(Activate the Command)](./16-03-06-01-activate_the_command.md)
+
 [16.3.7. 보이는 부분 복사(Copy Visible)](./16-03-07-00-copy-visible.md)
+
+[16.3.7.1. 명령 활성화하기(Activating the Command)](./16-03-07-01-activating_the_command.md)
 
 [16.3.8. 붙여넣기(Paste)](./16-03-08-00-paste.md)
 
+[16.3.8.1. 명령 활성화하기(Activate the Command)](./16-03-08-01-activate_the_command.md)
+
 [16.3.9. 선택 영역에 붙여넣기(Paste into selection)](./16-03-09-00-paste_into_selection.md)
+
+[16.3.9.1. 명령 활성화하기(Activate the Command)](./16-03-09-01-activate_the_command.md)
 
 [16.3.10. 지정한 좌표에 붙여넣기(Paste In Place)](./16-03-10-00-paste_in_place.md)
 
+[16.3.10.1. 명령 활성화하기(Activate the Command)](./16-03-10-01-activate_the_command.md)
+
 [16.3.11. 지정한 좌표의 선택영역에 붙여넣기(Paste into selection in place)](./16-03-11-00-paste_into_selection_in_place.md)
+
+[16.3.11.1. 명령 활성화하기(Activate the Command)](./16-03-11-01-activate_the_command.md)
 
 [16.3.12. 붙여넣기(고급) - Paste as](./16-03-12-00-paste_as.md)
 
@@ -44,11 +56,19 @@
 
 [16.3.12.4. 새 붓으로 붙여넣기(Paste as New Brush)](./16-03-12-04-00-new_brush.md)
 
+[16.3.12.4.1. 옵션(Options)](./16-03-12-04-01-options.md)
+
+[16.3.12.4.2. 명령 활성화하기(Activate the Command)](./16-03-12-04-02-activate_the_command.md)
+
 [16.3.12.5. 새 무늬로 붙여넣기(Paste as New Pattern)](./16-03-12-05-00-new_pattern.md)
+
+[16.3.12.5.1. 옵션(Options)](./16-03-12-05-01-options.md)
+
+[16.3.12.5.2. 명령 활성화하기(Activate the Command)](./16-03-12-05-02-activate_the_command.md)
 
 [16.3.13. 버퍼(Buffer)](./16-03-13-00-buffer.md)
 
-[16.3.13. 버퍼(Buffer)](./16-03-13-01-activate_the_submenu.md)
+[16.3.13.1. 명령 활성화하기(Activate the command)](./16-03-13-01-activate_the_submenu.md)
 
 [16.3.13.2. 하위 메뉴 항목(Submenu entries)](./16-03-13-02-00-submenu_entries.md)
 
