@@ -20,7 +20,7 @@
 
 <a id="90-10-60-01-01-a1"></a>
 
-#### [영상 90.10.60.1.1.a1. `이미지 메뉴 바` → `파일` → `잘라내기`: 키보드 단축키 Ctrl(⌘) + `X` (Windows) (우리말)](./90-10-60-01-01-ctrl_x.md#90-10-60-01-01-a1)
+#### [영상 90.10.60.1.1.a1. `이미지 메뉴 바` → `편집` → `잘라내기`: 키보드 단축키 Ctrl(⌘) + `X` (Windows) (우리말)](./90-10-60-01-01-ctrl_x.md#90-10-60-01-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a7da7b37-4c1b-4045-8ce9-8bb27140f11d"></video>
 
 ***

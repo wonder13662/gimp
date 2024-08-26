@@ -20,7 +20,7 @@
 
 <a id="90-10-62-01-01-a1"></a>
 
-#### [영상 90.10.62.1.1.a1. `이미지 메뉴 바` → `파일` → `복사`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `C` (Windows) (우리말)](./90-10-62-01-01-ctrl_shift_c.md#90-10-62-01-01-a1)
+#### [영상 90.10.62.1.1.a1. `이미지 메뉴 바` → `편집` → `보이는 부분 복사`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `C` (Windows) (우리말)](./90-10-62-01-01-ctrl_shift_c.md#90-10-62-01-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/9e238c06-15f5-46ae-8e40-b3d9bf2c6baa"></video>
 
 ***

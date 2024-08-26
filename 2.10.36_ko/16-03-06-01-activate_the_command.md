@@ -20,7 +20,7 @@
 
 <a id="90-10-61-01-01-a1"></a>
 
-#### [영상 90.10.61.1.1.a1. `이미지 메뉴 바` → `파일` → `복사`: 키보드 단축키 Ctrl(⌘) + `C` (Windows) (우리말)](./90-10-61-01-01-ctrl_c.md#90-10-61-01-01-a1)
+#### [영상 90.10.61.1.1.a1. `이미지 메뉴 바` → `편집` → `복사`: 키보드 단축키 Ctrl(⌘) + `C` (Windows) (우리말)](./90-10-61-01-01-ctrl_c.md#90-10-61-01-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/caa7bfd7-ea4d-4898-814d-56a3e9138d59"></video>
 
 ***
