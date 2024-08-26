@@ -17,3 +17,21 @@
 ## 관련 정보
 
 [15.4.1.3.2.2. 버퍼를 같은 위치에 붙여넣기(Paste Buffer in place)](./15-04-01-03-02-02-paste_buffer_in_place.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.3.12.3. 새 이미지로 붙여넣기(Paste as New Image)](./16-03-12-03-new_image.md)
+
+[⬅️ 이전: 16.3.12.1. 새 레이어로 붙여넣기(Paste as New Layer)](./16-03-12-01-new_layer.md)
+
+[⬆️ 위: 16.3.12. 붙여넣기(고급) - Paste as](./16-03-12-00-paste_as.md)
+
+[⬆️ 위: 16.3. 편집 메뉴(The edit menu)](./16-03-00-the-edit-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-edit-paste-as.html#gimp-edit-paste-as-new-layer-in-place)
