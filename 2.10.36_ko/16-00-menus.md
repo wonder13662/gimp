@@ -246,7 +246,7 @@
 
 [16.3.14. 지우기(Clear)](./16-03-14-clear.md)
 
-[16.3.15. Fill with FG color](./16-03-15-fill-with-fg-color.md)
+[16.3.15. 전경색으로 채우기(Fill with FG Color)](./16-03-15-00-fill-with-fg-color.md)
 
 [16.3.16. Fill with BG color](./16-03-16-fill-with-bg-color.md)
 

@@ -27,7 +27,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.3.15. Fill with FG color](./16-03-15-fill-with-fg-color.md)
+[➡️ 다음: 16.3.15. 전경색으로 채우기(Fill with FG Color)](./16-03-15-00-fill-with-fg-color.md)
 
 [⬅️ 이전: 16.3.14. 지우기(Clear)](./16-03-14-00-clear.md)
 

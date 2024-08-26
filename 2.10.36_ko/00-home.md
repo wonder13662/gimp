@@ -3180,7 +3180,9 @@
 
 [16.3.14.1. 명령 활성화하기(Activate the Command)](./16-03-14-01-activate_the_command.md)
 
-[16.3.15. Fill with FG color](./16-03-15-fill-with-fg-color.md)
+[16.3.15. 전경색으로 채우기(Fill with FG Color)](./16-03-15-00-fill-with-fg-color.md)
+
+[16.3.15.1. 명령 활성화하기(Activate the Command)](./16-03-15-01-activate_the_command.md)
 
 [16.3.16. Fill with BG color](./16-03-16-fill-with-bg-color.md)
 
@@ -6815,6 +6817,12 @@
 [90.10.65.1. 키보드 단축키](./90-10-65-01-00-keyboard_shortcut.md)
 
 [90.10.65.1.1. `이미지 메뉴 바` → `편집` → `지우기`: 키보드 단축키 Delete(⌫)](./90-10-65-01-01-del.md)
+
+[90.10.66. `이미지 메뉴 바` → `편집` → `전경색으로 채우기`](./90-10-66-00-menu_edit_fill_with_fg_color.md)
+
+[90.10.66.1. 키보드 단축키](./90-10-66-01-00-keyboard_shortcut.md)
+
+[90.10.66.1.1. `이미지 메뉴 바` → `편집` → `전경색으로 채우기`: 키보드 단축키 Ctrl(⌘) + `,`](./90-10-66-01-01-ctrl_comma.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
