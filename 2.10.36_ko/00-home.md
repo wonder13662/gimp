@@ -3184,7 +3184,9 @@
 
 [16.3.15.1. 명령 활성화하기(Activate the Command)](./16-03-15-01-activate_the_command.md)
 
-[16.3.16. Fill with BG color](./16-03-16-fill-with-bg-color.md)
+[16.3.16. 배경색으로 채우기(Fill with BG Color)](./16-03-16-00-fill-with-bg-color.md)
+
+[16.3.16.1. 명령 활성화하기(Activate the Command)](./16-03-16-01-activate_the_command.md)
 
 [16.3.17. 무늬로 채우기(Fill with pattern)](./16-03-17-fill-with-pattern.md)
 
@@ -6823,6 +6825,12 @@
 [90.10.66.1. 키보드 단축키](./90-10-66-01-00-keyboard_shortcut.md)
 
 [90.10.66.1.1. `이미지 메뉴 바` → `편집` → `전경색으로 채우기`: 키보드 단축키 Ctrl(⌘) + `,`](./90-10-66-01-01-ctrl_comma.md)
+
+[90.10.67. `이미지 메뉴 바` → `편집` → `배경색으로 채우기`](./90-10-67-00-menu_edit_fill_with_bg_color.md)
+
+[90.10.67.1. 키보드 단축키](./90-10-67-01-00-keyboard_shortcut.md)
+
+[90.10.67.1.1. `이미지 메뉴 바` → `편집` → `배경색으로 채우기`: 키보드 단축키 Ctrl(⌘) + `.`](./90-10-67-01-01-ctrl_period.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

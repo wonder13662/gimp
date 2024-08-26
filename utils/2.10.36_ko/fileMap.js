@@ -1413,8 +1413,8 @@ module.exports = {
         '16.3.15. 전경색으로 채우기(Fill with FG Color)'
       ],
       [
-        '16-03-16-fill-with-bg-color.md', 
-        '16.3.16. Fill with BG color'
+        '16-03-16-00-fill-with-bg-color.md', 
+        '16.3.16. 배경색으로 채우기(Fill with BG Color)'
       ],
       [
         '16-03-17-fill-with-pattern.md', 

@@ -29,7 +29,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.3.16. Fill with BG color](./16-03-16-fill-with-bg-color.md)
+[➡️ 다음: 16.3.16. 배경색으로 채우기(Fill with BG Color)](./16-03-16-00-fill-with-bg-color.md)
 
 [⬅️ 이전: 16.3.15. 전경색으로 채우기(Fill with FG Color)](./16-03-15-00-fill-with-fg-color.md)
 

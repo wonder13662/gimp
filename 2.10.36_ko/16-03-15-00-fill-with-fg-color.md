@@ -10,7 +10,7 @@
 ## 1. 기본 동작
 `전경색으로 채우기(Fill with FG Color)` 명령은 이미지의 선택 영역을 [도구상자의 전경색](./19-glossaryx-foreground_color.md)으로 채웁니다.
 
-Windows와 Linux의 경우에는 메뉴 오른쪽에 전경색이 작게 표시됩니다.
+Windows와 Linux의 경우에는 메뉴 왼쪽에 전경색이 작게 표시됩니다.
 
 <a id="90-01-02-14-a111"></a>
 
