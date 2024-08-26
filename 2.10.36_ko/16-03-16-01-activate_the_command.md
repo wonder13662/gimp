@@ -27,7 +27,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.3.17. 무늬로 채우기(Fill with pattern)](./16-03-17-fill-with-pattern.md)
+[➡️ 다음: 16.3.17. 무늬로 채우기(Fill with pattern)](./16-03-17-00-fill-with-pattern.md)
 
 [⬅️ 이전: 16.3.16. 배경색으로 채우기(Fill with BG Color)](./16-03-16-00-fill-with-bg-color.md)
 

@@ -9,7 +9,7 @@
 
 `무늬(Pattern)`에 대한 기본적인 정보는 [7.11. 무늬(Pattern)](./07-11-patterns.md)를 참고해주세요.
 
-`무늬(Pattern)`를 도구 상자의 [영역 채우기](./14-03-04-00-bucket_fill.md), [도장](./14-03-12-00-clone.md) 또는 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [무늬로 채우기](./16-03-17-fill-with-pattern.md) 메뉴를 통해 사용할 수 있습니다.
+`무늬(Pattern)`를 도구 상자의 [영역 채우기](./14-03-04-00-bucket_fill.md), [도장](./14-03-12-00-clone.md) 또는 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [무늬로 채우기](./16-03-17-00-fill-with-pattern.md) 메뉴를 통해 사용할 수 있습니다.
 
 `무늬(Pattern)` 대화상자에서 무늬를 선택할 수 있습니다.
 

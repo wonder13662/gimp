@@ -3188,7 +3188,9 @@
 
 [16.3.16.1. 명령 활성화하기(Activate the Command)](./16-03-16-01-activate_the_command.md)
 
-[16.3.17. 무늬로 채우기(Fill with pattern)](./16-03-17-fill-with-pattern.md)
+[16.3.17. 무늬로 채우기(Fill with pattern)](./16-03-17-00-fill-with-pattern.md)
+
+[16.3.17.1. 명령 활성화하기(Activate the Command)](./16-03-17-01-activate_the_command.md)
 
 [16.3.18. Fill selection outline](./16-03-18-fill-selection-outline.md)
 
@@ -6831,6 +6833,12 @@
 [90.10.67.1. 키보드 단축키](./90-10-67-01-00-keyboard_shortcut.md)
 
 [90.10.67.1.1. `이미지 메뉴 바` → `편집` → `배경색으로 채우기`: 키보드 단축키 Ctrl(⌘) + `.`](./90-10-67-01-01-ctrl_period.md)
+
+[90.10.68. `이미지 메뉴 바` → `편집` → `무늬로 채우기`](./90-10-68-00-menu_edit_fill_with_pattern.md)
+
+[90.10.68.1. 키보드 단축키](./90-10-68-01-00-keyboard_shortcut.md)
+
+[90.10.68.1.1. `이미지 메뉴 바` → `편집` → `무늬로 채우기`: 키보드 단축키 Ctrl(⌘) + `;`](./90-10-68-01-01-ctrl_semi_colon.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
