@@ -3154,7 +3154,7 @@
 
 [16.3.12.4.1. 옵션(Options)](./16-03-12-04-01-options.md)
 
-[16.3.12.4.1.2. 명령 활성화하기(Activate the Command)](./16-03-12-04-02-activate_the_command.md)
+[16.3.12.4.2. 명령 활성화하기(Activate the Command)](./16-03-12-04-02-activate_the_command.md)
 
 [16.3.12.5. 새 무늬로 붙여넣기(Paste as New Pattern)](./16-03-12-05-00-new_pattern.md)
 
