@@ -22,6 +22,27 @@
 #### 그림 90.4.164.a104. `선택 영역 외곽선 채우기` 대화상자 (Mac) (영어)
 <img width="383" height="201" alt="90-04-164-a104" src="https://github.com/user-attachments/assets/9ffc6cb0-1cee-45c3-b265-aef20803a5c6" />
 
+<a id="90-04-164-a111"></a>
+
+#### 그림 90.4.164.a111. `선택 영역 외곽선 채우기` 대화상자 → `단색` (Windows) (우리말)
+<img width="384" height="204" alt="90-04-164-a111" src="https://github.com/user-attachments/assets/5a565d9b-e0fe-4698-92bc-05b967e3ac64" />
+
+[16.3.18.2. 옵션(Options) - 그림 90.4.164.a111](./16-03-18-02-options.md#90-04-164-a111)
+
+<a id="90-04-164-a112"></a>
+
+#### 그림 90.4.164.a112. `선택 영역 외곽선 채우기` 대화상자 → `무늬` (Windows) (우리말)
+<img width="384" height="204" alt="90-04-164-a112" src="https://github.com/user-attachments/assets/4a84cf9c-b83e-4e32-8f5d-def385b5b0fd" />
+
+[16.3.18.2. 옵션(Options) - 그림 90.4.164.a112](./16-03-18-02-options.md#90-04-164-a112)
+
+<a id="90-04-164-a113"></a>
+
+#### 그림 90.4.164.a113. `선택 영역 외곽선 채우기` 대화상자 → `부드럽게 하기` (Windows) (우리말)
+<img width="384" height="204" alt="90-04-164-a113" src="https://github.com/user-attachments/assets/d01d0e89-2edb-4bd0-999f-b09ec60f31e1" />
+
+[16.3.18.2. 옵션(Options) - 그림 90.4.164.a113](./16-03-18-02-options.md#90-04-164-a113)
+
 ***
 
 ## 다른 페이지로 가기
