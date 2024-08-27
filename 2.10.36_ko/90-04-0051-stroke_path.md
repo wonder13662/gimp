@@ -64,12 +64,26 @@
 
 [16.3.21.2.1. 단색(Solid Color) - 그림 90.4.51.a111](./16-03-21-02-01-solid_color.md#90-04-51-a111)
 
+<a id="90-04-51-a111-01"></a>
+
+#### 영상 90.4.51.a111.1. `경로 따라 그리기` 대화상자 → `단색` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/98aa48ae-1664-43ef-b5f6-cf9165a0ab76"></video>
+
+[16.3.21.2.1. 단색(Solid Color) - 영상 90.4.51.a111.1](./16-03-21-02-01-solid_color.md#90-04-51-a111-01)
+
 <a id="90-04-51-a112"></a>
 
 #### 그림 90.4.51.a112. `경로 따라 그리기` 대화상자 → `무늬` (Windows) (우리말)
 <img width="425" height="518" alt="90-04-51-a112" src="https://github.com/user-attachments/assets/b38531b5-4303-4074-8b48-50d964d0bff7" />
 
 [16.3.21.2.2. 무늬(Pattern) - 그림 90.4.51.a112](./16-03-21-02-02-pattern.md#90-04-51-a112)
+
+<a id="90-04-51-a112-01"></a>
+
+#### 영상 90.4.51.a112.1. `경로 따라 그리기` 대화상자 → `무늬` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/225f5fb5-1042-4086-b517-ba56421bcccf"></video>
+
+[16.3.21.2.2. 무늬(Pattern) - 영상 90.4.51.a112.1](./16-03-21-02-02-pattern.md#90-04-51-a112-01)
 
 <a id="90-04-51-a113"></a>
 
@@ -85,12 +99,40 @@
 
 [16.3.21.2.4. 선 너비(Line Width) - 그림 90.4.51.a114](./16-03-21-02-04-line_width.md#90-04-51-a114)
 
+<a id="90-04-51-a114-01-01"></a>
+
+#### 그림 90.4.51.a114.1.1. `경로 따라 그리기` 대화상자 → `선 너비` → `단위`: 드롭다운 목록 (Windows) (우리말)
+<img width="52" height="277" alt="90-04-51-a114-01-01" src="https://github.com/user-attachments/assets/ebffd692-d0a8-4fe6-bfc8-0421a691dc36" />
+
+[16.3.21.2.4. 선 너비(Line Width) - 그림 90.4.51.a114.1.1](./16-03-21-02-04-line_width.md#90-04-51-a114-01-01)
+
 <a id="90-04-51-a121"></a>
 
 #### 그림 90.4.51.a121. `경로 따라 그리기` 대화상자 → `선 모양새` → `선 끝 모양새` (Windows) (우리말)
 <img width="425" height="518" alt="90-04-51-a121" src="https://github.com/user-attachments/assets/329aa05d-1edc-4030-bfde-a7832c5aa77e" />
 
 [16.3.21.2.5. 선 끝 모양새(Cap Style) - 그림 90.4.51.a121](./16-03-21-02-05-cap_style.md#90-04-51-a121)
+
+<a id="90-04-51-a121-01"></a>
+
+#### 그림 90.4.51.a121.1. `경로 따라 그리기` 대화상자 → `선 모양새` → `선 끝 모양새` → `Butt` (Windows) (우리말)
+<img width="320" height="320" alt="90-04-51-a121-01" src="https://github.com/user-attachments/assets/78ef22fd-147d-4d02-be5d-89041ff98ff6" />
+
+[16.3.21.2.5. 선 끝 모양새(Cap Style) - 그림 90.4.51.a121.1](./16-03-21-02-05-cap_style.md#90-04-51-a121-01)
+
+<a id="90-04-51-a121-02"></a>
+
+#### 그림 90.4.51.a121.2. `경로 따라 그리기` 대화상자 → `선 모양새` → `선 끝 모양새` → `Round` (Windows) (우리말)
+<img width="320" height="320" alt="90-04-51-a121-02" src="https://github.com/user-attachments/assets/309ba280-700f-4911-a18f-f9f2d16d5629" />
+
+[16.3.21.2.5. 선 끝 모양새(Cap Style) - 그림 90.4.51.a121.2](./16-03-21-02-05-cap_style.md#90-04-51-a121-02)
+
+<a id="90-04-51-a121-03"></a>
+
+#### 그림 90.4.51.a121.3. `경로 따라 그리기` 대화상자 → `선 모양새` → `선 끝 모양새` → `Square` (Windows) (우리말)
+<img width="320" height="320" alt="90-04-51-a121-03" src="https://github.com/user-attachments/assets/0144af53-5e2b-4e5e-9a61-1f7164fb5146" />
+
+[16.3.21.2.5. 선 끝 모양새(Cap Style) - 그림 90.4.51.a121.3](./16-03-21-02-05-cap_style.md#90-04-51-a121-03)
 
 <a id="90-04-51-a122"></a>
 
@@ -99,12 +141,54 @@
 
 [16.3.21.2.6. 선 결합 모양새(Join Style) - 그림 90.4.51.a122](./16-03-21-02-06-join_style.md#90-04-51-a122)
 
+<a id="90-04-51-a122-01"></a>
+
+#### 그림 90.4.51.a122.1. `경로 따라 그리기` 대화상자 → `선 모양새` → `선 결합 모양새` → `Miter` (Windows) (우리말)
+<img width="320" height="320" alt="90-04-51-a122-01" src="https://github.com/user-attachments/assets/347650a5-9791-4316-830a-5463b3426519" />
+
+[16.3.21.2.6. 선 결합 모양새(Join Style) - 그림 90.4.51.a122.1](./16-03-21-02-06-join_style.md#90-04-51-a122-01)
+
+<a id="90-04-51-a122-02"></a>
+
+#### 그림 90.4.51.a122.2. `경로 따라 그리기` 대화상자 → `선 모양새` → `선 결합 모양새` → `Round` (Windows) (우리말)
+<img width="320" height="320" alt="90-04-51-a122-02" src="https://github.com/user-attachments/assets/20e27598-ed17-43bd-92c5-b62670f3764d" />
+
+[16.3.21.2.6. 선 결합 모양새(Join Style) - 그림 90.4.51.a122.2](./16-03-21-02-06-join_style.md#90-04-51-a122-02)
+
+<a id="90-04-51-a122-03"></a>
+
+#### 그림 90.4.51.a122.3. `경로 따라 그리기` 대화상자 → `선 모양새` → `선 결합 모양새` → `Bevel` (Windows) (우리말)
+<img width="320" height="320" alt="90-04-51-a122-03" src="https://github.com/user-attachments/assets/c82c378f-fac4-4390-91be-c9fcbeb3df67" />
+
+[16.3.21.2.6. 선 결합 모양새(Join Style) - 그림 90.4.51.a122.3](./16-03-21-02-06-join_style.md#90-04-51-a122-03)
+
 <a id="90-04-51-a123"></a>
 
 #### 그림 90.4.51.a123. `경로 따라 그리기` 대화상자 → `선 모양새` → `뾰족한 선결합 제한` (Windows) (우리말)
 <img width="425" height="518" alt="90-04-51-a123" src="https://github.com/user-attachments/assets/9c31f90f-b879-4f08-bfaa-32477dfb0c95" />
 
 [16.3.21.2.7. 뾰족한 선결합 제한(Miter Limit) - 그림 90.4.51.a123](./16-03-21-02-07-miter_limit.md#90-04-51-a123)
+
+<a id="90-04-51-a123-01"></a>
+
+#### 그림 90.4.51.a123.1. `경로 따라 그리기` 대화상자 → `선 모양새` → `뾰족한 선결합 제한`: 0도
+<img width="320" height="320" alt="90-04-51-a123-01" src="https://github.com/user-attachments/assets/ca1bf71c-07de-4e15-a31d-08ff2f738710" />
+
+[16.3.21.2.7. 뾰족한 선결합 제한(Miter Limit) - 그림 90.4.51.a123.1](./16-03-21-02-07-miter_limit.md#90-04-51-a123-01)
+
+<a id="90-04-51-a123-02"></a>
+
+#### 그림 90.4.51.a123.2. `경로 따라 그리기` 대화상자 → `선 모양새` → `뾰족한 선결합 제한`: 10도
+<img width="320" height="320" alt="90-04-51-a123-02" src="https://github.com/user-attachments/assets/1c597f22-bf36-4aaa-bbde-39a36ceb172e" />
+
+[16.3.21.2.7. 뾰족한 선결합 제한(Miter Limit) - 그림 90.4.51.a123.2](./16-03-21-02-07-miter_limit.md#90-04-51-a123-02)
+
+<a id="90-04-51-a123-03"></a>
+
+#### 그림 90.4.51.a123.3. `경로 따라 그리기` 대화상자 → `선 모양새` → `뾰족한 선결합 제한`: 0도와 10도 비교 및 외곽선 연장으로 빈공간 비교
+<img width="320" height="320" alt="90-04-51-a123-03" src="https://github.com/user-attachments/assets/95eef1e0-3e80-4e76-90f5-8639057231ed" />
+
+[16.3.21.2.7. 뾰족한 선결합 제한(Miter Limit) - 그림 90.4.51.a123.3](./16-03-21-02-07-miter_limit.md#90-04-51-a123-03)
 
 <a id="90-04-51-a124"></a>
 
