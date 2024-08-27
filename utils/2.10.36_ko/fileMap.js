@@ -1429,11 +1429,11 @@ module.exports = {
         '16.3.19. 경로 채우기(Fill path)'
       ],
       [
-        '16-03-20-stroke-selection.md', 
+        '16-03-20-00-stroke-selection.md', 
         '16.3.20. 선택 영역 따라 그리기(Stroke selection)'
       ],
       [
-        '16-03-21-stroke-path.md', 
+        '16-03-21-00-stroke-path.md', 
         '16.3.21. 경로 따라 그리기(Stroke Path)'
       ],
       [

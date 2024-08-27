@@ -12,4 +12,4 @@
 
 [15.2.3.4.16. 경로 따라 그리기(Stroke Path)](./15-02-03-04-16-stroke_path.md)
 
-[16.3.20. 선택 영역 따라 그리기(Stroke selection)](./16-03-20-stroke-selection.md)
+[16.3.20. 선택 영역 따라 그리기(Stroke selection)](./16-03-20-00-stroke-selection.md)
