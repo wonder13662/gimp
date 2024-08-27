@@ -7,7 +7,7 @@
 ## [16.4.5. Float](./16-04-05-float.md)
 ## [16.4.6. By color](./16-04-06-by-color.md)
 ## [16.4.7. 경로에서 선택 만들기(From path)](./16-04-07-from-path.md)
-## [16.4.8. Selection editor](./16-04-08-selection-editor.md)
+## [16.4.8. 선택 영역 편집기(Selection Editor)](./16-04-08-selection-editor.md)
 ## [16.4.9. Feather](./16-04-09-feather.md)
 ## [16.4.10. Sharpen](./16-04-10-sharpen.md)
 ## [16.4.11. Shrink](./16-04-11-shrink.md)

@@ -1,7 +1,68 @@
 # 90.4.8. 선택 영역 편집기(Selection Editor)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
+
+<a id="90-04-08-a1"></a>
+
 #### 그림 90.4.8.a1. '선택 영역 편집기' 대화상자
-<img width="1080" alt="그림 90.4.8.a1. '선택 영역 편집기' 대화상자" src="https://github.com/wonder13662/gimp/assets/15767104/1492d5aa-9124-4336-8b7f-c56566bd7bb9">
+<img width="850" height="255" alt="90-04-08-a1" src="https://github.com/user-attachments/assets/c873df9c-4783-4a87-9451-0d1cbb7ed510" />
+
+<a id="90-04-08-a101"></a>
+
+#### 그림 90.4.8.a101. `선택 영역 편집기` 대화상자 (Windows) (우리말)
+<img width="200" height="151" alt="90-04-08-a101" src="https://github.com/user-attachments/assets/b69be634-261b-4f5e-9814-65f2c44beefb" />
+
+<a id="90-04-08-a102"></a>
+
+#### 그림 90.4.8.a102. `선택 영역 편집기` 대화상자 (Windows) (영어)
+<img width="200" height="151" alt="90-04-08-a102" src="https://github.com/user-attachments/assets/7b3062d7-f2b7-4b09-87c7-dc32d0a85845" />
+
+<a id="90-04-08-a103"></a>
+
+#### 그림 90.4.8.a103. `선택 영역 편집기` 대화상자 (Mac) (우리말)
+<img width="200" height="153" alt="90-04-08-a103" src="https://github.com/user-attachments/assets/2d750a67-a235-45ef-ab7f-b4775ed4506c" />
+
+<a id="90-04-08-a104"></a>
+
+#### 그림 90.4.8.a104. `선택 영역 편집기` 대화상자 (Mac) (영어)
+<img width="200" height="153" alt="90-04-08-a104" src="https://github.com/user-attachments/assets/1bea031b-cb3b-4d17-9869-2f1b4b53a84e" />
+
+<a id="90-04-08-a111"></a>
+
+#### 그림 90.4.8.a111. `선택 영역 편집기` 대화상자 → `전체 선택` (Windows) (우리말)
+<img width="200" height="151" alt="90-04-08-a111" src="https://github.com/user-attachments/assets/0751acb4-8622-47cc-b2b5-d8616a6720ce" />
+
+<a id="90-04-08-a121"></a>
+
+#### 그림 90.4.8.a121. `선택 영역 편집기` 대화상자 → `선택 해제` (Windows) (우리말)
+<img width="200" height="151" alt="90-04-08-a121" src="https://github.com/user-attachments/assets/3f5055d1-13ed-4e25-b602-ccb2d50e51cf" />
+
+<a id="90-04-08-a131"></a>
+
+#### 그림 90.4.8.a131. `선택 영역 편집기` 대화상자 → `선택 반전` (Windows) (우리말)
+<img width="200" height="151" alt="90-04-08-a131" src="https://github.com/user-attachments/assets/e8942dad-6416-4e96-b63a-e4029e34203a" />
+
+<a id="90-04-08-a141"></a>
+
+#### 그림 90.4.8.a141. `선택 영역 편집기` 대화상자 → `채널에 저장` (Windows) (우리말)
+<img width="200" height="151" alt="90-04-08-a141" src="https://github.com/user-attachments/assets/2e9f14df-0947-402c-854a-d530ed96a3da" />
+
+<a id="90-04-08-a151"></a>
+
+#### 그림 90.4.8.a151. `선택 영역 편집기` 대화상자 → `경로로 바꾸기` (Windows) (우리말)
+<img width="200" height="151" alt="90-04-08-a151" src="https://github.com/user-attachments/assets/061a508b-764f-42ab-82a5-980c4a6454cd" />
+
+<a id="90-04-08-a161"></a>
+
+#### 그림 90.4.8.a161. `선택 영역 편집기` 대화상자 → `선택 영역 따라 그리기` (Windows) (우리말)
+<img width="200" height="151" alt="90-04-08-a161" src="https://github.com/user-attachments/assets/d9385a45-8836-4ed6-9d07-94dd326e24eb" />
+
+[16.3.20.1. 명령 활성화하기(Activate the Command) - 그림 90.4.8.a161](./16-03-20-01-activate_the_command.md#90-04-08-a161)
+
+<a id="90-04-08-a162"></a>
+
+#### 영상 90.4.8.a162. `선택 영역 편집기` 대화상자 → `선택 영역 따라 그리기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/99992777-8ece-46aa-87a0-0a93c7378010"></video>
+
+[16.3.20.1. 명령 활성화하기(Activate the Command) - 영상 90.4.8.a162](./16-03-20-01-activate_the_command.md#90-04-08-a162)
 
 ***
 

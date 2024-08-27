@@ -1495,7 +1495,7 @@ module.exports = {
       ],
       [
         '16-04-08-selection-editor.md', 
-        '16.4.8. Selection editor'
+        '16.4.8. 선택 영역 편집기(Selection Editor)'
       ],
       [
         '16-04-09-feather.md', 
