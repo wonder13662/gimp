@@ -1,5 +1,5 @@
 # 16.3.20.2. 선택 영역 따라 그리기 대화상자(The "Stroke Selection" dialog)
-[16.3.21.2. 경로따라 그리기 대화상자 설명(Decription of the Dialog Window)](./16-03-21-02-description_of_the_dialog_window.md)을 참고해주세요.
+[16.3.21.2. 경로따라 그리기 대화상자 설명(Decription of the Dialog Window)](./16-03-21-02-00-description_of_the_dialog_window.md)을 참고해주세요.
 
 ***
 

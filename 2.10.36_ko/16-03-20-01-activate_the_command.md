@@ -30,6 +30,12 @@
 
 ***
 
+## 관련 정보
+
+[16.3.21.1. 명령 활성화하기(Activate the Command)](./16-03-21-01-activating_the_command.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 16.3.20.2. 선택 영역 따라 그리기 대화상자(The "Stroke Selection" dialog)](./16-03-20-02-the_stroke_selection_dialog.md)
