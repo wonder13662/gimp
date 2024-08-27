@@ -207,7 +207,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.164. 선택 영역 채우기(Fill Selection Outline)](./90-04-0164-fill_selection_outline.md)
+[⬅️ 이전: 90.4.165. 경로 채우기(Fill path)](./90-04-0165-fill_path.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

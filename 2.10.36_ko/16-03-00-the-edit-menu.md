@@ -90,7 +90,7 @@
 
 [16.3.18. 선택 영역 채우기(Fill Selection Outline)](./16-03-18-00-fill-selection-outline.md)
 
-[16.3.19. 경로 채우기(Fill path)](./16-03-19-fill_path.md)
+[16.3.19. 경로 채우기(Fill path)](./16-03-19-00-fill_path.md)
 
 [16.3.20. 선택 영역 따라 그리기(Stroke selection)](./16-03-20-stroke-selection.md)
 
