@@ -80,6 +80,31 @@
 
 [16.3.26.2.8. 복수(Plural) - 그림 90.4.167.a181](./16-03-26-02-08-plural.md#90-04-167-a181)
 
+<a id="90-04-167-a191"></a>
+
+#### 그림 90.4.167.a191. `단위 편집기` 대화상자 → `스크래치 내용으로 새 단위 만들기` (Windows) (우리말)
+<img width="537" height="355" alt="90-04-167-a191" src="https://github.com/user-attachments/assets/4fae9757-3977-4a84-b0c3-9d311b495679" />
+
+[16.3.26.2. 단위 편집기 대화상자 설명(Description of the “Unit Editor” dialog window) - 그림 90.4.167.a191](./16-03-26-02-00-description_of_the_unit_editor_dialog_window.md#90-04-167-a191)
+
+[16.3.26.3. 새 단위 정의하기(Defining New Units) - 그림 90.4.167.a191](./16-03-26-03-defining_new_units.md#90-04-167-a191)
+
+<a id="90-04-167-a201"></a>
+
+#### 그림 90.4.167.a201. `단위 편집기` 대화상자 → `현재 선택된 단위를 서식으로 새 단위 만들기` (Windows) (우리말)
+<img width="537" height="355" alt="90-04-167-a201" src="https://github.com/user-attachments/assets/13805262-ea9c-4d04-bb70-6b104a959932" />
+
+[16.3.26.2. 단위 편집기 대화상자 설명(Description of the “Unit Editor” dialog window) - 그림 90.4.167.a201](./16-03-26-02-00-description_of_the_unit_editor_dialog_window.md#90-04-167-a201)
+
+[16.3.26.3. 새 단위 정의하기(Defining New Units) - 그림 90.4.167.a201](./16-03-26-03-defining_new_units.md#90-04-167-a201)
+
+<a id="90-04-167-a211"></a>
+
+#### 그림 90.4.167.a211. `단위 편집기` 대화상자: 강조표시된 바꿀수 없는 단위들 (Windows) (우리말)
+<img width="537" height="355" alt="90-04-167-a211" src="https://github.com/user-attachments/assets/2bf2c1e6-c745-45e5-a3fd-11f677b73aea" />
+
+[16.3.26.2.1. 저장(Saved) - 그림 90.4.167.a211](./16-03-26-02-01-saved.md#90-04-167-a211)
+
 ***
 
 ## 다른 페이지로 가기
