@@ -96,7 +96,7 @@
 
 [16.3.21. 경로 따라 그리기(Stroke Path)](./16-03-21-00-stroke-path.md)
 
-[16.3.22. Preference](./16-03-22-preference.md)
+[16.3.22. 기본 설정(Preferences)](./16-03-22-00-preference.md)
 
 [16.3.23. Input devices](./16-03-23-input-devices.md)
 

@@ -306,7 +306,7 @@
 
 [16.3.21.2.11. 동적 붓으로 에뮬레이트(Emulate Brush Dynamic)](./16-03-21-02-11-emulate_brush_dynamics.md)
 
-[16.3.22. Preference](./16-03-22-preference.md)
+[16.3.22. 기본 설정(Preferences)](./16-03-22-00-preference.md)
 
 [16.3.23. Input devices](./16-03-23-input-devices.md)
 

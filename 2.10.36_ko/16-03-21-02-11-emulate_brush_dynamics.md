@@ -11,7 +11,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.3.22. Preference](./16-03-22-preference.md)
+[➡️ 다음: 16.3.22. 기본 설정(Preferences)](./16-03-22-00-preference.md)
 
 [⬅️ 이전: 16.3.21.2.10. 칠하기 도구(Paint Tool)](./16-03-21-02-10-paint_tool.md)
 

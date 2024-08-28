@@ -33,27 +33,27 @@
 #### 그림 90.4.51.a104. `경로 따라 그리기` 대화상자 (Mac) (영어)
 <img width="383" height="364" alt="90-04-51-a104" src="https://github.com/wonder13662/gimp/assets/15767104/d9d5dc6e-7f70-4b93-b61f-f78fe16ec1d3" />
 
-<a id="90-04-51-a101"></a>
+<a id="90-04-51-a105"></a>
 
-#### 그림 90.4.51.a101. `경로 따라 그리기` 대화상자 → `선 스타일` (Windows) (우리말)
-<img width="384" height="522" alt="90-04-51-a101" src="https://github.com/user-attachments/assets/85e08777-3931-4a8b-9305-9edb37f693fa" />
+#### 그림 90.4.51.a105. `경로 따라 그리기` 대화상자 → `선 스타일` (Windows) (우리말)
+<img width="384" height="522" alt="90-04-51-a105" src="https://github.com/user-attachments/assets/85e08777-3931-4a8b-9305-9edb37f693fa" />
 
-[16.3.21.2. 경로따라 그리기 대화상자 설명(Decription of the Dialog Window) - 그림 90.4.51.a101](./16-03-21-02-00-description_of_the_dialog_window.md#90-04-51-a101)
+[16.3.21.2. 경로따라 그리기 대화상자 설명(Decription of the Dialog Window) - 그림 90.4.51.a105](./16-03-21-02-00-description_of_the_dialog_window.md#90-04-51-a105)
 
-<a id="90-04-51-a102"></a>
+<a id="90-04-51-a106"></a>
 
-#### 그림 90.4.51.a102. `경로 따라 그리기` 대화상자 → `선 스타일` (Windows) (영어)
-<img width="425" height="518" alt="90-04-51-a102" src="https://github.com/user-attachments/assets/62ac302d-ad2b-43bc-b797-c4b582e5ec3c" />
+#### 그림 90.4.51.a106. `경로 따라 그리기` 대화상자 → `선 스타일` (Windows) (영어)
+<img width="425" height="518" alt="90-04-51-a106" src="https://github.com/user-attachments/assets/62ac302d-ad2b-43bc-b797-c4b582e5ec3c" />
 
-<a id="90-04-51-a103"></a>
+<a id="90-04-51-a107"></a>
 
-#### 그림 90.4.51.a103. `경로 따라 그리기` 대화상자 → `선 스타일` (Mac) (우리말)
-<img width="383" height="510" alt="90-04-51-a103" src="https://github.com/user-attachments/assets/2bc5e8db-331f-4c9b-a53d-2186216fd6a8" />
+#### 그림 90.4.51.a107. `경로 따라 그리기` 대화상자 → `선 스타일` (Mac) (우리말)
+<img width="383" height="510" alt="90-04-51-a107" src="https://github.com/user-attachments/assets/2bc5e8db-331f-4c9b-a53d-2186216fd6a8" />
 
-<a id="90-04-51-a104"></a>
+<a id="90-04-51-a108"></a>
 
-#### 그림 90.4.51.a104. `경로 따라 그리기` 대화상자 → `선 스타일` (Mac) (영어)
-<img width="383" height="501" alt="90-04-51-a104" src="https://github.com/user-attachments/assets/ab665d54-e65d-4b2b-bb41-dc160b469749" />
+#### 그림 90.4.51.a108. `경로 따라 그리기` 대화상자 → `선 스타일` (Mac) (영어)
+<img width="383" height="501" alt="90-04-51-a108" src="https://github.com/user-attachments/assets/ab665d54-e65d-4b2b-bb41-dc160b469749" />
 
 [16.3.21.2. 경로따라 그리기 대화상자 설명(Decription of the Dialog Window) - 그림 90.4.51.a101](./16-03-21-02-00-description_of_the_dialog_window.md#90-04-51-a101)
 
