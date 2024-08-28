@@ -33,3 +33,49 @@
 [15.2.3.4.16. 경로 따라 그리기(Stroke Path)](./15-02-03-04-16-stroke_path.md)
 
 [16.3.20. 선택 영역 따라 그리기(Stroke selection)](./16-03-20-00-stroke-selection.md)
+
+***
+
+## 하위 페이지
+
+[16.3.21.1. 명령 활성화하기(Activate the Command)](./16-03-21-01-activating_the_command.md)
+
+[16.3.21.2. 경로따라 그리기 대화상자 설명(Decription of the Dialog Window)](./16-03-21-02-00-description_of_the_dialog_window.md)
+
+[16.3.21.2.1. 단색(Solid Color)](./16-03-21-02-01-solid_color.md)
+
+[16.3.21.2.2. 무늬(Pattern)](./16-03-21-02-02-pattern.md)
+
+[16.3.21.2.3. 부드럽게 하기(Antialiasing)](./16-03-21-02-03-antialiasing.md)
+
+[16.3.21.2.4. 선 너비(Line Width)](./16-03-21-02-04-line_width.md)
+
+[16.3.21.2.5. 선 끝 모양새(Cap Style)](./16-03-21-02-05-cap_style.md)
+
+[16.3.21.2.6. 선 결합 모양새(Join Style)](./16-03-21-02-06-join_style.md)
+
+[16.3.21.2.7. 뾰족한 선결합 제한(Miter Limit)](./16-03-21-02-07-miter_limit.md)
+
+[16.3.21.2.8. 점선 무늬(Dash pattern)](./16-03-21-02-08-dash_pattern.md)
+
+[16.3.21.2.9. 점선 프리셋(Dash preset)](./16-03-21-02-09-dash_preset.md)
+
+[16.3.21.2.10. 칠하기 도구(Paint Tool)](./16-03-21-02-10-paint_tool.md)
+
+[16.3.21.2.11. 동적 붓으로 에뮬레이트(Emulate Brush Dynamic)](./16-03-21-02-11-emulate_brush_dynamics.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.3.21.1. 명령 활성화하기(Activate the Command)](./16-03-21-01-activating_the_command.md)
+
+[⬅️ 이전: 16.3.20.2. 선택 영역 따라 그리기 대화상자(The "Stroke Selection" dialog)](./16-03-20-02-the_stroke_selection_dialog.md)
+
+[⬆️ 위: 16.3. 편집 메뉴(The edit menu)](./16-03-00-the-edit-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-path-stroke.html)

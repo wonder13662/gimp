@@ -197,6 +197,13 @@
 
 [16.3.21.2.8. 점선 무늬(Dash pattern) - 그림 90.4.51.a124](./16-03-21-02-08-dash_pattern.md#90-04-51-a124)
 
+<a id="90-04-51-a124-01"></a>
+
+#### 영상 90.4.51.a124.1. `경로 따라 그리기` 대화상자 → `선 모양새` → `점선 무늬` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/3ca39035-248e-48af-9ae0-d5a6bdaee0cc"></video>
+
+[16.3.21.2.8. 점선 무늬(Dash pattern) - 영상 90.4.51.a124.1](./16-03-21-02-08-dash_pattern.md#90-04-51-a124-01)
+
 <a id="90-04-51-a125"></a>
 
 #### 그림 90.4.51.a125. `경로 따라 그리기` 대화상자 → `선 모양새` → `점선 프리셋` (Windows) (우리말)
@@ -211,12 +218,33 @@
 
 [16.3.21.2.9. 점선 프리셋(Dash preset) - 그림 90.4.51.a125.1](./16-03-21-02-09-dash_preset.md#90-04-51-a125-01)
 
+<a id="90-04-51-a125-02"></a>
+
+#### 영상 90.4.51.a125.2. `경로 따라 그리기` 대화상자 → `선 모양새` → `점선 프리셋` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/b4094ec6-a4c7-427c-b452-6d197c9d946c"></video>
+
+[16.3.21.2.9. 점선 프리셋(Dash preset) - 영상 90.4.51.a125.1](./16-03-21-02-09-dash_preset.md#90-04-51-a125-01)
+
 <a id="90-04-51-a131"></a>
 
 #### 그림 90.4.51.a131. `경로 따라 그리기` 대화상자 → `칠하기 도구로 선 그리기` → `칠하기 도구` (Windows) (우리말)
 <img width="425" height="518" alt="90-04-51-a131" src="https://github.com/user-attachments/assets/1e97e7ff-4ba0-4826-95ac-1e8296910417" />
 
 [16.3.21.2.10. 칠하기 도구(Paint Tool) - 그림 90.4.51.a131](./16-03-21-02-10-paint_tool.md#90-04-51-a131)
+
+<a id="90-04-51-a131-01"></a>
+
+#### 영상 90.4.51.a131.1. `경로 따라 그리기` 대화상자 → `칠하기 도구로 선 그리기` → `칠하기 도구` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6a27dda9-4d19-41da-842e-b72836c8cdf9"></video>
+
+[16.3.21.2.10. 칠하기 도구(Paint Tool) - 영상 90.4.51.a131.1](./16-03-21-02-10-paint_tool.md#90-04-51-a131-01)
+
+<a id="90-04-51-a131-02"></a>
+
+#### 그림 90.4.51.a131.2. `경로 따라 그리기` 대화상자 → `칠하기 도구로 선 그리기` → `칠하기 도구`: 드롭다운 목록 (Windows) (우리말)
+<img width="359" height="406" alt="90-04-51-a131-02" src="https://github.com/user-attachments/assets/78d77a34-3947-4dd6-95ca-b59fc956bceb" />
+
+[16.3.21.2.10. 칠하기 도구(Paint Tool) - 그림 90.4.51.a131.2](./16-03-21-02-10-paint_tool.md#90-04-51-a131-02)
 
 <a id="90-04-51-a132"></a>
 

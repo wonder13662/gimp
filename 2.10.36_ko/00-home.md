@@ -3200,9 +3200,43 @@
 
 [16.3.19. 경로 채우기(Fill path)](./16-03-19-00-fill_path.md)
 
+[16.3.19.1. 명령 활성화하기(Activate the command)](./16-03-19-01-activate_the_command.md)
+
+[16.3.19.2. 옵션(Options)](./16-03-19-02-options.md)
+
 [16.3.20. 선택 영역 따라 그리기(Stroke selection)](./16-03-20-00-stroke-selection.md)
 
+[16.3.20.1. 명령 활성화하기(Activate the Command)](./16-03-20-01-activate_the_command.md)
+
+[16.3.20.2. 선택 영역 따라 그리기 대화상자(The "Stroke Selection" dialog)](./16-03-20-02-the_stroke_selection_dialog.md)
+
 [16.3.21. 경로 따라 그리기(Stroke Path)](./16-03-21-00-stroke-path.md)
+
+[16.3.21.1. 명령 활성화하기(Activate the Command)](./16-03-21-01-activating_the_command.md)
+
+[16.3.21.2. 경로따라 그리기 대화상자 설명(Decription of the Dialog Window)](./16-03-21-02-00-description_of_the_dialog_window.md)
+
+[16.3.21.2.1. 단색(Solid Color)](./16-03-21-02-01-solid_color.md)
+
+[16.3.21.2.2. 무늬(Pattern)](./16-03-21-02-02-pattern.md)
+
+[16.3.21.2.3. 부드럽게 하기(Antialiasing)](./16-03-21-02-03-antialiasing.md)
+
+[16.3.21.2.4. 선 너비(Line Width)](./16-03-21-02-04-line_width.md)
+
+[16.3.21.2.5. 선 끝 모양새(Cap Style)](./16-03-21-02-05-cap_style.md)
+
+[16.3.21.2.6. 선 결합 모양새(Join Style)](./16-03-21-02-06-join_style.md)
+
+[16.3.21.2.7. 뾰족한 선결합 제한(Miter Limit)](./16-03-21-02-07-miter_limit.md)
+
+[16.3.21.2.8. 점선 무늬(Dash pattern)](./16-03-21-02-08-dash_pattern.md)
+
+[16.3.21.2.9. 점선 프리셋(Dash preset)](./16-03-21-02-09-dash_preset.md)
+
+[16.3.21.2.10. 칠하기 도구(Paint Tool)](./16-03-21-02-10-paint_tool.md)
+
+[16.3.21.2.11. 동적 붓으로 에뮬레이트(Emulate Brush Dynamic)](./16-03-21-02-11-emulate_brush_dynamics.md)
 
 [16.3.22. Preference](./16-03-22-preference.md)
 
