@@ -3256,7 +3256,7 @@
 
 [16.3.25.2. 모듈 관리기 대화상자 설명(Description of the “Module Manager” Dialog)](./16-03-25-02-description_of_the_module_manager_dialog.md)
 
-[16.3.26. Units](./16-03-26-units.md)
+[16.3.26. 단위(Units)](./16-03-26-00-units.md)
 
 [16.4. The select menu](./16-04-00-the-select-menu.md)
 

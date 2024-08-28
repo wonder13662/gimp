@@ -47,7 +47,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.3.26. Units](./16-03-26-units.md)
+[➡️ 다음: 16.3.26. 단위(Units)](./16-03-26-00-units.md)
 
 [⬅️ 이전: 16.3.25.1. 명령 활성화하기(Activating the Command)](./16-03-25-01-activating_the_command.md)
 

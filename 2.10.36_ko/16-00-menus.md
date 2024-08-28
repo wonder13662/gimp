@@ -314,7 +314,7 @@
 
 [16.3.25. 모듈(Modules)](./16-03-25-00-modules.md)
 
-[16.3.26. Units](./16-03-26-units.md)
+[16.3.26. 단위(Units)](./16-03-26-00-units.md)
 
 [16.4. The select menu](./16-04-00-the-select-menu.md)
 
