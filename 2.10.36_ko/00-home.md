@@ -3260,7 +3260,25 @@
 
 [16.3.26.1. 명령 활성화하기(Activate the Command)](./16-03-26-01-activate_the_command.md)
 
-[16.3.26.2. 단위 편집기 대화상자 설명(Description of the “Unit Editor” dialog window)](./16-03-26-02-description_of_the_unit_editor_dialog_window.md)
+[16.3.26.2. 단위 편집기 대화상자 설명(Description of the “Unit Editor” dialog window)](./16-03-26-02-00-description_of_the_unit_editor_dialog_window.md)
+
+[16.3.26.2.1. 저장(Saved)](./16-03-26-02-01-saved.md)
+
+[16.3.26.2.2. 아이디(ID)](./16-03-26-02-02-id.md)
+
+[16.3.26.2.3. 수치(Factor)](./16-03-26-02-03-factor.md)
+
+[16.3.26.2.4. 숫자 개수(Digits)](./16-03-26-02-04-digits.md)
+
+[16.3.26.2.5. 기호(Symbol)](./16-03-26-02-05-symbol.md)
+
+[16.3.26.2.6. 약자(Abbreviation)](./16-03-26-02-06-abbreviation.md)
+
+[16.3.26.2.7. 단수(Singular)](./16-03-26-02-07-singular.md)
+
+[16.3.26.2.8. 복수(Plural)](./16-03-26-02-08-plural.md)
+
+[16.3.26.3. 새 단위 정의하기(Defining New Units)](./16-03-26-03-defining_new_units.md)
 
 [16.4. The select menu](./16-04-00-the-select-menu.md)
 
