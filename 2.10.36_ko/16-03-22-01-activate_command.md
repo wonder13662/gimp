@@ -14,7 +14,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.3.23. Input devices](./16-03-23-input-devices.md)
+[➡️ 다음: 16.3.23. 입력장치(Input Devices)](./16-03-23-00-input-devices.md)
 
 [⬅️ 이전: 16.3.22. 기본 설정(Preferences)](./16-03-22-00-preference.md)
 
