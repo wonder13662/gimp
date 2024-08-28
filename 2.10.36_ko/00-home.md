@@ -3240,11 +3240,21 @@
 
 [16.3.22. 기본 설정(Preferences)](./16-03-22-00-preference.md)
 
+[16.3.22.1. 명령 활성화하기(Activate Command)](./16-03-22-01-activate_command.md)
+
 [16.3.23. 입력장치(Input Devices)](./16-03-23-00-input-devices.md)
+
+[16.3.23.1. 명령 활성화하기(Activate Command)](./16-03-23-01-activate_command.md)
 
 [16.3.24. 키보드 단축키(Keyboard Shortcuts)](./16-03-24-00-keyboard-shortcuts.md)
 
-[16.3.25. Modules](./16-03-25-modules.md)
+[16.3.24.1. 명령 활성화하기(Activate the Command)](./16-03-24-01-activate_the_command.md)
+
+[16.3.25. 모듈(Modules)](./16-03-25-00-modules.md)
+
+[16.3.25.1. 명령 활성화하기(Activating the Command)](./16-03-25-01-activating_the_command.md)
+
+[16.3.25.2. 모듈 관리기 대화상자 설명(Description of the “Module Manager” Dialog)](./16-03-25-02-description_of_the_module_manager_dialog.md)
 
 [16.3.26. Units](./16-03-26-units.md)
 
@@ -5915,6 +5925,8 @@
 [90.4.164. 선택 영역 채우기(Fill Selection Outline)](./90-04-0164-fill_selection_outline.md)
 
 [90.4.165. 경로 채우기(Fill path)](./90-04-0165-fill_path.md)
+
+[90.4.166. 모듈 관리기(Module Manager)](./90-04-0166-module_manager.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

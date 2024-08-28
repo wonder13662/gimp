@@ -207,7 +207,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.165. 경로 채우기(Fill path)](./90-04-0165-fill_path.md)
+[⬅️ 이전: 90.4.166. 모듈 관리기(Module Manager)](./90-04-0166-module_manager.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

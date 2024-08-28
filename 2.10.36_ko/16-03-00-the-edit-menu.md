@@ -102,7 +102,7 @@
 
 [16.3.24. 키보드 단축키(Keyboard Shortcuts)](./16-03-24-00-keyboard-shortcuts.md)
 
-[16.3.25. Modules](./16-03-25-modules.md)
+[16.3.25. 모듈(Modules)](./16-03-25-00-modules.md)
 
 [16.3.26. Units](./16-03-26-units.md)
 

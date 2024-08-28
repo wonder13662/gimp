@@ -14,7 +14,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.3.25. Modules](./16-03-25-modules.md)
+[➡️ 다음: 16.3.25. 모듈(Modules)](./16-03-25-00-modules.md)
 
 [⬅️ 이전: 16.3.24. 키보드 단축키(Keyboard Shortcuts)](./16-03-24-00-keyboard-shortcuts.md)
 
