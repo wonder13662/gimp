@@ -9,6 +9,8 @@
 
 [15.5.11.1. 키보드 단축키 대화상자 활성화하기(Activate the Dialog) - 그림 90.1.12.5.a1](./15-05-11-01-activating_the_dialog.md#90-01-12-05-a1)
 
+[16.3.24. 키보드 단축키(Keyboard Shortcuts) - 그림 90.1.12.5.a1](./16-03-24-00-keyboard-shortcuts.md#90-01-12-05-a1)
+
 ***
 
 ## 다른 페이지로 가기

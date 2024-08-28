@@ -19,7 +19,7 @@
 
 <a id="90-01-02-23-a101"></a>
 
-#### [그림 90.1.2.23.a101. `편집` - `키보드 단축키` (Windows)](./90-01-02-23-keyboard_shortcuts.md#90-01-02-23-a101)
+#### [그림 90.1.2.23.a101. `이미지 메뉴 바` → `편집` → `키보드 단축키` (Windows)](./90-01-02-23-keyboard_shortcuts.md#90-01-02-23-a101)
 <img width="980" height="601" alt="90-01-02-23-a101" src="https://github.com/user-attachments/assets/ea71c16d-2b11-4b94-aaac-01b83d7bf22e" />
 
 <a id="90-01-12-05-a1"></a>
@@ -31,6 +31,14 @@
 
 #### [그림 90.4.87.a101. `키보드 단축키 설정` 대화상자 (Windows) (우리말)](./90-04-0087-configure_keyboard_shortcuts.md#90-04-87-a101)
 <img width="418" height="429" alt="90-04-87-a101" src="https://github.com/wonder13662/gimp/assets/15767104/7bc6c2be-e65c-453c-8566-d6d975d6d3f3" />
+
+***
+
+## 관련 정보
+
+[15.5.11. 키보드 단축키 대화상자(Keyboard shortcut dialog)](./15-05-11-00-keyboard-shortcut-dialog.md)
+
+[16.3.24. 키보드 단축키(Keyboard Shortcuts)](./16-03-24-00-keyboard-shortcuts.md)
 
 ***
 

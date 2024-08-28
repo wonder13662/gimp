@@ -6,12 +6,12 @@
 
 <a id="90-01-02-23-a101"></a>
 
-#### [그림 90.1.2.23.a101. `편집` - `키보드 단축키` (Windows)](./90-01-02-23-keyboard_shortcuts.md#90-01-02-23-a101)
+#### [그림 90.1.2.23.a101. `이미지 메뉴 바` → `편집` → `키보드 단축키` (Windows)](./90-01-02-23-keyboard_shortcuts.md#90-01-02-23-a101)
 <img width="980" height="601" alt="90-01-02-23-a101" src="https://github.com/user-attachments/assets/ea71c16d-2b11-4b94-aaac-01b83d7bf22e" />
 
 <a id="90-01-02-23-a101-01"></a>
 
-#### [영상 90.1.2.23.a101.1. `편집` - `키보드 단축키` (Windows) (우리말)](./90-01-02-23-keyboard_shortcuts.md#90-01-02-23-a101-01)
+#### [영상 90.1.2.23.a101.1. `이미지 메뉴 바` → `편집` → `키보드 단축키` (Windows) (우리말)](./90-01-02-23-keyboard_shortcuts.md#90-01-02-23-a101-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/5dd6305a-356f-45bb-af6e-7c1669d0627f"></video>
 
 <a id="15-05-11-01-s2"></a>

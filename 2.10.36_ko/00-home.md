@@ -3242,7 +3242,7 @@
 
 [16.3.23. 입력장치(Input Devices)](./16-03-23-00-input-devices.md)
 
-[16.3.24. Keyboard shortcuts](./16-03-24-keyboard-shortcuts.md)
+[16.3.24. 키보드 단축키(Keyboard Shortcuts)](./16-03-24-00-keyboard-shortcuts.md)
 
 [16.3.25. Modules](./16-03-25-modules.md)
 

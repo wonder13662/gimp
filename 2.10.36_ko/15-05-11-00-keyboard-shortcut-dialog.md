@@ -9,6 +9,14 @@
 
 ***
 
+## 관련 정보
+
+[12.5. 메뉴 단축키 설정하기(Creating shortcuts to menu commands)](./12-05-creating-shortcuts-to-menu-commands.md)
+
+[16.3.24. 키보드 단축키(Keyboard Shortcuts)](./16-03-24-00-keyboard-shortcuts.md)
+
+***
+
 ## 하위 페이지
 
 [15.5.11.1. 키보드 단축키 대화상자 활성화하기(Activate the Dialog)](./15-05-11-01-activating_the_dialog.md)
