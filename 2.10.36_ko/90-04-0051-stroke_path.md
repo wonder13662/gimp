@@ -223,7 +223,7 @@
 #### 영상 90.4.51.a125.2. `경로 따라 그리기` 대화상자 → `선 모양새` → `점선 프리셋` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/b4094ec6-a4c7-427c-b452-6d197c9d946c"></video>
 
-[16.3.21.2.9. 점선 프리셋(Dash preset) - 영상 90.4.51.a125.1](./16-03-21-02-09-dash_preset.md#90-04-51-a125-01)
+[16.3.21.2.9. 점선 프리셋(Dash preset) - 영상 90.4.51.a125.2](./16-03-21-02-09-dash_preset.md#90-04-51-a125-02)
 
 <a id="90-04-51-a131"></a>
 
