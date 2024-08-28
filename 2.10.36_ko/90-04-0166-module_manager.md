@@ -35,7 +35,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.167. 단위 편집기(Unit Editor)](./90-04-0167-unit_editor.md)
 
 [⬅️ 이전: 90.4.165. 경로 채우기(Fill path)](./90-04-0165-fill_path.md)
 

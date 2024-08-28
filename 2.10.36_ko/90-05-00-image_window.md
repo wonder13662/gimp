@@ -207,7 +207,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.166. 모듈 관리기(Module Manager)](./90-04-0166-module_manager.md)
+[⬅️ 이전: 90.4.168. 새로운 단위 추가(Add a New Unit)](./90-04-0168-add_a_new_unit.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

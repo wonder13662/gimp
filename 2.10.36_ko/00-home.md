@@ -3258,6 +3258,10 @@
 
 [16.3.26. 단위(Units)](./16-03-26-00-units.md)
 
+[16.3.26.1. 명령 활성화하기(Activate the Command)](./16-03-26-01-activate_the_command.md)
+
+[16.3.26.2. 단위 편집기 대화상자 설명(Description of the “Unit Editor” dialog window)](./16-03-26-02-description_of_the_unit_editor_dialog_window.md)
+
 [16.4. The select menu](./16-04-00-the-select-menu.md)
 
 [16.4.1. Introduction to the select menu](./16-04-01-introduction-to-the-select-menu.md)
@@ -5927,6 +5931,10 @@
 [90.4.165. 경로 채우기(Fill path)](./90-04-0165-fill_path.md)
 
 [90.4.166. 모듈 관리기(Module Manager)](./90-04-0166-module_manager.md)
+
+[90.4.167. 단위 편집기(Unit Editor)](./90-04-0167-unit_editor.md)
+
+[90.4.168. 새로운 단위 추가(Add a New Unit)](./90-04-0168-add_a_new_unit.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

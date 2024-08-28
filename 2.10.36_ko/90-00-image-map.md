@@ -1545,6 +1545,10 @@
 
 [90.4.166. 모듈 관리기(Module Manager)](./90-04-0166-module_manager.md)
 
+[90.4.167. 단위 편집기(Unit Editor)](./90-04-0167-unit_editor.md)
+
+[90.4.168. 새로운 단위 추가(Add a New Unit)](./90-04-0168-add_a_new_unit.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
