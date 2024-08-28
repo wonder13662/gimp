@@ -3228,7 +3228,7 @@
 
 [16.3.21.2.6. 선 결합 모양새(Join Style)](./16-03-21-02-06-join_style.md)
 
-[16.3.21.2.7. 뾰족한 선결합 제한(Miter Limit)](./16-03-21-02-07-miter_limit.md)
+[16.3.21.2.7. 뾰족한 선 결합 제한(Miter Limit)](./16-03-21-02-07-miter_limit.md)
 
 [16.3.21.2.8. 점선 무늬(Dash pattern)](./16-03-21-02-08-dash_pattern.md)
 

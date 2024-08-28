@@ -32,7 +32,7 @@
 
 [➡️ 다음: 16.3.21.2.9. 점선 프리셋(Dash preset)](./16-03-21-02-09-dash_preset.md)
 
-[⬅️ 이전: 16.3.21.2.7. 뾰족한 선결합 제한(Miter Limit)](./16-03-21-02-07-miter_limit.md)
+[⬅️ 이전: 16.3.21.2.7. 뾰족한 선 결합 제한(Miter Limit)](./16-03-21-02-07-miter_limit.md)
 
 [⬆️ 위: 16.3.21.2. 경로따라 그리기 대화상자 설명(Decription of the Dialog Window)](./16-03-21-02-00-description_of_the_dialog_window.md)
 
