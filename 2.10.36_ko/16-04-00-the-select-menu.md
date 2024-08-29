@@ -16,7 +16,7 @@
 
 [16.4.5. 띄우기(Float)](./16-04-05-00-float.md)
 
-[16.4.6. By color](./16-04-06-by-color.md)
+[16.4.6. 색상 선택(By Color)](./16-04-06-00-by-color.md)
 
 [16.4.7. 경로에서 선택 만들기(From path)](./16-04-07-from-path.md)
 

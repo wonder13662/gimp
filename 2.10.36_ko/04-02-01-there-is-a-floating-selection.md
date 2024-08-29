@@ -54,7 +54,7 @@
 
 <a id="90-10-72-01-01-a1"></a>
 
-#### [영상 90.10.72.1.1.a1. `이미지 메뉴 바` → `선택` → `띄우기`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + L (Mac) (영어)](./90-10-72-01-01-ctrl_shift_l.md#90-10-72-01-01-a1)
+#### [영상 90.10.72.1.1.a1. `이미지 메뉴 바` → `선택` → `띄우기`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `L` (Mac) (영어)](./90-10-72-01-01-ctrl_shift_l.md#90-10-72-01-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/96771078-ba0f-4aee-a5cd-b49153aa6c6c"></video>
 
 <a id="04-02-01-s1-03"></a>

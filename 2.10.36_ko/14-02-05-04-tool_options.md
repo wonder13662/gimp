@@ -122,7 +122,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.2.6. 색상으로 선택(Select by color)](./14-02-06-00-select-by-color.md)
+[➡️ 다음: 14.2.6. 색상으로 선택(Select by color)](./14-02-06-00-select_by_color.md)
 
 [⬅️ 이전: 14.2.5.3. 도구 사용(Tool manipulation)](./14-02-05-03-tool_manipulation.md)
 

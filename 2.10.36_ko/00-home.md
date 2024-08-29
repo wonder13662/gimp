@@ -1136,7 +1136,7 @@
 
 [14.2.5.4. 도구 옵션(Tool Options)](./14-02-05-04-tool_options.md)
 
-[14.2.6. 색상으로 선택(Select by color)](./14-02-06-00-select-by-color.md)
+[14.2.6. 색상으로 선택(Select by color)](./14-02-06-00-select_by_color.md)
 
 [14.2.6.1. 도구 활성화하기(Activating the tools)](./14-02-06-01-activating_the_tool.md)
 
@@ -3304,7 +3304,9 @@
 
 [16.4.5.3. 떠있는 선택 고정하기(Anchor a Floating Selection)](./16-04-05-03-anchor_a_floating_selection.md)
 
-[16.4.6. By color](./16-04-06-by-color.md)
+[16.4.6. 색상 선택(By Color)](./16-04-06-00-by-color.md)
+
+[16.4.6.1. 명령 활성화하기(Activate the Command)](./16-04-06-01-activating_the_command.md)
 
 [16.4.7. 경로에서 선택 만들기(From path)](./16-04-07-from-path.md)
 
@@ -7016,7 +7018,13 @@
 
 [90.10.72.1. 키보드 단축키](./90-10-72-01-00-keyboard_shortcut.md)
 
-[90.10.72.1.1. `이미지 메뉴 바` → `선택` → `띄우기`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + L](./90-10-72-01-01-ctrl_shift_l.md)
+[90.10.72.1.1. `이미지 메뉴 바` → `선택` → `띄우기`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `L`](./90-10-72-01-01-ctrl_shift_l.md)
+
+[90.10.73. `이미지 메뉴 바` → `선택` → `색상 선택`](./90-10-73-00-menu_select_by_color.md)
+
+[90.10.73.1. 키보드 단축키](./90-10-73-01-00-keyboard_shortcut.md)
+
+[90.10.73.1.1. `이미지 메뉴 바` → `선택` → `색상 선택`: 키보드 단축키 Shift(⇧) + `O`](./90-10-73-01-01-shift_o.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

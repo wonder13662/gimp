@@ -12,7 +12,7 @@
 #### 그림 90.3.2.9.a2. `도구상자` → `색상으로 선택`
 ![90-03-02-09-a2](https://github.com/wonder13662/gimp/assets/15767104/9e8e22db-18f5-4690-ac6f-b49d1975a32e)
 
-[14.2.6. 색상으로 선택(Select by color) - 그림 90.3.9.a2](./14-02-06-00-select-by-color.md#90-03-02-09-a2)
+[14.2.6. 색상으로 선택(Select by color) - 그림 90.3.9.a2](./14-02-06-00-select_by_color.md#90-03-02-09-a2)
 
 [14.2.6.1. 도구 활성화하기(Activating the tools) - 그림 90.3.9.a2](./14-02-06-01-activating_the_tool.md#90-03-02-09-a2)
 
