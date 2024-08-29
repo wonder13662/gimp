@@ -3288,7 +3288,9 @@
 
 [16.4.2.1. 명령 활성화하기(Activate the Command)](./16-04-02-01-activate_the_command.md)
 
-[16.4.3. None](./16-04-03-none.md)
+[16.4.3. 없음(None)](./16-04-03-00-none.md)
+
+[16.4.3.1. 명령 활성화하기(Activating the Command)](./16-04-03-01-activating_the_command.md)
 
 [16.4.4. Invert](./16-04-04-invert.md)
 
@@ -6989,6 +6991,12 @@
 [90.10.69.1. 키보드 단축키](./90-10-69-01-00-keyboard_shortcut.md)
 
 [90.10.69.1.1. `이미지 메뉴 바` → `선택` → `모두`: 키보드 단축키 Ctrl(⌘) + `A`](./90-10-69-01-01-ctrl_a.md)
+
+[90.10.70. `이미지 메뉴 바` → `선택` → `없음`](./90-10-70-00-menu_select_none.md)
+
+[90.10.70.1. 키보드 단축키](./90-10-70-01-00-keyboard_shortcut.md)
+
+[90.10.70.1.1. `이미지 메뉴 바` → `선택` → `없음`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `A`](./90-10-70-01-01-ctrl_shift_a.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

@@ -10,7 +10,7 @@
 
 [16.4.2.1. 명령 활성화하기(Activate the Command)](./16-04-02-01-activate_the_command.md)
 
-[16.4.3. None](./16-04-03-none.md)
+[16.4.3. 없음(None)](./16-04-03-00-none.md)
 
 [16.4.4. Invert](./16-04-04-invert.md)
 
