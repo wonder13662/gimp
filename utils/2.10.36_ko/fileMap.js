@@ -1535,7 +1535,7 @@ module.exports = {
       ],
       [
         '16-04-18-save-to-channel.md', 
-        '16.4.18. Save to channel',
+        '16.4.18. 채널로 저장(Save to channel)',
         '선택을 채널로(마스크)'
       ],
       [
