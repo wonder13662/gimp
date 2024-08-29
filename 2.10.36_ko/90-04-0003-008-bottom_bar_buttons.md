@@ -42,6 +42,15 @@
 
 [15.2.1.2.4.1. 새 레이어(New Layer) - 그림 90.4.3.8.a41](./15-02-01-02-04-01-new_layer.md#90-04-03-08-a41)
 
+[16.4.5.3. 떠있는 선택 고정하기(Anchor a Floating Selection) - 그림 90.4.3.8.a41](./16-04-05-03-anchor_a_floating_selection.md#90-04-03-08-a41)
+
+<a id="90-04-03-08-a41-01"></a>
+
+#### 영상 90.4.3.8.a41.1. `레이어 대화상자` → `레이어 관리` → `새 레이어`: 떠있는 선택을 세 레이어로 고정 (Windows) (우리말)
+<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/21370c12-9074-44e6-bf99-44a23caf183b"></video>
+
+[16.4.5.3. 떠있는 선택 고정하기(Anchor a Floating Selection) - 영상 90.4.3.8.a41.1](./16-04-05-03-anchor_a_floating_selection.md#90-04-03-08-a41-01)
+
 <a id="90-04-03-08-a42"></a>
 
 #### 그림 90.4.3.8.a42. `레이어 대화상자` → `레이어 관리` → `새 레이어 그룹` (Windows) (우리말)
@@ -104,6 +113,15 @@
 <img width="262" height="214" alt="90-04-03-08-a47" src="https://github.com/wonder13662/gimp/assets/15767104/461ab382-8aba-44cd-941b-60ea93917dc9" />
 
 [15.2.1.2.4.6. 레이어 합치기 또는 레이어 고정하기(Merge Layer or Anchor Layer) - 그림 90.4.3.8.a47](./15-02-01-02-04-06-merge_layers_n_anchor_layer.md#90-04-03-08-a47)
+
+[16.4.5.3. 떠있는 선택 고정하기(Anchor a Floating Selection) - 그림 90.4.3.8.a47](./16-04-05-03-anchor_a_floating_selection.md#90-04-03-08-a47)
+
+<a id="90-04-03-08-a47-01"></a>
+
+#### 영상 90.4.3.8.a47.1. `레이어 대화상자` → `레이어 관리` → `레이어 고정하기` (Mac) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/58e87af1-566b-4b6e-a460-0bc905ab6537"></video>
+
+[16.4.5.3. 떠있는 선택 고정하기(Anchor a Floating Selection) - 영상 90.4.3.8.a47.1](./16-04-05-03-anchor_a_floating_selection.md#90-04-03-08-a47-01)
 
 <a id="90-04-03-08-a48"></a>
 

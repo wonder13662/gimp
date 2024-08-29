@@ -22,12 +22,12 @@
 <a id="07-01-02-s2"></a>
 
 ## 2. 떠있는 선택(floating selection) 사용하기
-[이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `선택` → `띄우기`는 떠있는 선택(floating selection)을 만듭니다. 이 명령은 [`떠있는 선택(floating selection)`](./16-04-05-float.md)이라고 하는 새로운 레이어를 만듭니다. 
+[이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `선택` → `띄우기`는 떠있는 선택(floating selection)을 만듭니다. 이 명령은 [`떠있는 선택(floating selection)`](./16-04-05-00-float.md)이라고 하는 새로운 레이어를 만듭니다. 
 
 <a id="90-01-03-04-a101"></a>
 
-#### [그림 90.1.3.4.a101. `선택` → `띄우기`](./90-01-03-04-float.md#90-01-03-04-a101)
-![90-01-03-04-a101](https://github.com/wonder13662/gimp/assets/15767104/8080d2be-dc54-4cf0-80ed-e13dfdacfb9a)
+#### [그림 90.1.3.4.a101. `이미지 메뉴 바` → `선택` → `띄우기`](./90-01-03-04-float.md#90-01-03-04-a101)
+<img width="934" height="539" alt="90-01-03-04-a101" src="https://github.com/user-attachments/assets/bbb34a06-a748-4c2c-a12c-56fdd458b3c1" />
 
 레이어 대화상자의 투명도 슬라이더를 조정해서 원하는 투명도로 만들 수 있습니다.
 
@@ -78,7 +78,7 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4ea970be-7bdb-4b9b-8c05-fdc3d899aae2"></video>
 
 ### 복사 + 붙여넣기 방법
-이 과정을 작업중에 자주 사용한다면 더 나은 방법이 있습니다. `Ctrl` + `C`로 선택을 복사하고, `Ctrl` + `V`로 클립보드에 붙여넣어 [`떠있는 선택(floating selection)`](./16-04-05-float.md)으로 새로운 레이어를 만듭니다. 이 새로운 레이어의 투명도를 조정하면 됩니다.
+이 과정을 작업중에 자주 사용한다면 더 나은 방법이 있습니다. `Ctrl` + `C`로 선택을 복사하고, `Ctrl` + `V`로 클립보드에 붙여넣어 [`떠있는 선택(floating selection)`](./16-04-05-00-float.md)으로 새로운 레이어를 만듭니다. 이 새로운 레이어의 투명도를 조정하면 됩니다.
 
 <a id="90-04-03-03-a31"></a>
 

@@ -35,12 +35,12 @@
 
 <a id="90-01-03-04-a101"></a>
 
-#### [그림 90.1.3.4.a101. `선택` → `띄우기`](./90-01-03-04-float.md#90-01-03-04-a101)
-![90-01-03-04-a101](https://github.com/wonder13662/gimp/assets/15767104/8080d2be-dc54-4cf0-80ed-e13dfdacfb9a)
+#### [그림 90.1.3.4.a101. `이미지 메뉴 바` → `선택` → `띄우기`](./90-01-03-04-float.md#90-01-03-04-a101)
+<img width="934" height="539" alt="90-01-03-04-a101" src="https://github.com/user-attachments/assets/bbb34a06-a748-4c2c-a12c-56fdd458b3c1" />
 
 <a id="90-01-03-04-a112"></a>
 
-#### [영상 90.1.3.4.a112. `선택` → `띄우기`로 떠있는 선택 만들기](./90-01-03-04-float.md#90-01-03-04-a112)
+#### [영상 90.1.3.4.a112. `이미지 메뉴 바` → `선택` → `띄우기`: 떠있는 선택 만들기 (Windows) (우리말)](./90-01-03-04-float.md#90-01-03-04-a112)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb5074b1-9e67-40bd-8c8f-03cafe24aeea"></video>
 
 <a id="04-02-01-s1-02"></a>
@@ -52,10 +52,10 @@
 #### [영상 90.1.10.2.3.a121. `창` → `도킹가능한 대화` → `레이어`의 단축키 사용 (Mac)](./90-01-10-02-03-layers.md#90-01-10-02-03-a121)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/626ceaad-b1d8-4f80-8540-e78a04a1c93a"></video>
 
-<a id="90-01-03-04-a111"></a>
+<a id="90-10-72-01-01-a1"></a>
 
-#### [영상 90.1.3.4.a111. 단축키로 떠있는 선택 만들기](./90-01-03-04-float.md#90-01-03-04-a111)
-<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/96771078-ba0f-4aee-a5cd-b49153aa6c6c"></video>
+#### [영상 90.10.72.1.1.a1. `이미지 메뉴 바` → `선택` → `띄우기`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + L (Mac) (영어)](./90-10-72-01-01-ctrl_shift_l.md#90-10-72-01-01-a1)
+<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/96771078-ba0f-4aee-a5cd-b49153aa6c6c"></video>
 
 <a id="04-02-01-s1-03"></a>
 
@@ -90,7 +90,7 @@
 #### [영상 90.4.3.3.a61. 떠있는 선택을 단축키로 새 레이어로 만들기](./90-04-0003-003-floating_selection.md#90-04-03-03-a61)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d78747ae-8278-417e-bc9d-969f6eff3a03"></video>
 
-자세한 내용은 [16.4.5. 띄우기(Float)](./16-04-05-float.md)를 참고해주세요.
+자세한 내용은 [16.4.5. 띄우기(Float)](./16-04-05-00-float.md)를 참고해주세요.
 
 ***
 

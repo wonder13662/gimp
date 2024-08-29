@@ -3296,7 +3296,13 @@
 
 [16.4.4.1. 명령 활성화하기(Activate the Command)](./16-04-04-01-activate_the_command.md)
 
-[16.4.5. 띄우기(Float)](./16-04-05-float.md)
+[16.4.5. 띄우기(Float)](./16-04-05-00-float.md)
+
+[16.4.5.1. 명령 활성화하기(Activate the Command)](./16-04-05-01-activate_the_command.md)
+
+[16.4.5.2. 자동으로 떠있는 선택 만들기(Creating a Floating Selection Automatically)](./16-04-05-02-creating_a_floating_selection_automatically.md)
+
+[16.4.5.3. 떠있는 선택 고정하기(Anchor a Floating Selection)](./16-04-05-03-anchor_a_floating_selection.md)
 
 [16.4.6. By color](./16-04-06-by-color.md)
 
@@ -7005,6 +7011,12 @@
 [90.10.71.1. 키보드 단축키](./90-10-71-01-00-keyboard_shortcut.md)
 
 [90.10.71.1.1. `이미지 메뉴 바` → `선택` → `반전`: 키보드 단축키 Ctrl(⌘) + `I`](./90-10-71-01-01-ctrl_i.md)
+
+[90.10.72. `이미지 메뉴 바` → `선택` → `띄우기`](./90-10-72-00-menu_select_float.md)
+
+[90.10.72.1. 키보드 단축키](./90-10-72-01-00-keyboard_shortcut.md)
+
+[90.10.72.1.1. `이미지 메뉴 바` → `선택` → `띄우기`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + L](./90-10-72-01-01-ctrl_shift_l.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
