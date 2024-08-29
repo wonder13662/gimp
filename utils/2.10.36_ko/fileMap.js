@@ -1458,16 +1458,16 @@ module.exports = {
       ],
       [
         '16-04-00-the-select-menu.md', 
-        '16.4. The select menu',
+        '16.4. 선택 메뉴(The select menu)',
         '16.4. 선택 메뉴',
       ],
       [
         '16-04-01-introduction-to-the-select-menu.md', 
-        '16.4.1. Introduction to the select menu'
+        '16.4.1. 선택 메뉴 소개(Introduction to the select menu)'
       ],
       [
-        '16-04-02-select-all.md', 
-        '16.4.2. Select all'
+        '16-04-02-00-select-all.md', 
+        '16.4.2. 모두 선택(Select all)'
       ],
       [
         '16-04-03-none.md',
@@ -1494,7 +1494,7 @@ module.exports = {
         '16.4.7. 경로에서 선택 만들기(From path)'
       ],
       [
-        '16-04-08-selection-editor.md', 
+        '16-04-08-00-selection_editor.md', 
         '16.4.8. 선택 영역 편집기(Selection Editor)'
       ],
       [

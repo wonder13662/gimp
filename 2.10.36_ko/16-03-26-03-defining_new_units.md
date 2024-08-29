@@ -45,7 +45,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.4. The select menu](./16-04-00-the-select-menu.md)
+[➡️ 다음: 16.4. 선택 메뉴(The select menu)](./16-04-00-the-select-menu.md)
 
 [⬅️ 이전: 16.3.26.2.8. 복수(Plural)](./16-03-26-02-08-plural.md)
 
