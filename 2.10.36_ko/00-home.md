@@ -3292,7 +3292,9 @@
 
 [16.4.3.1. 명령 활성화하기(Activating the Command)](./16-04-03-01-activating_the_command.md)
 
-[16.4.4. Invert](./16-04-04-invert.md)
+[16.4.4. 반전(Invert)](./16-04-04-00-invert.md)
+
+[16.4.4.1. 명령 활성화하기(Activate the Command)](./16-04-04-01-activate_the_command.md)
 
 [16.4.5. 띄우기(Float)](./16-04-05-float.md)
 
@@ -3686,7 +3688,7 @@
 
 [16.8.11. Curves](./16-08-11-curves.md)
 
-[16.8.12. Invert](./16-08-12-invert.md)
+[16.8.12. 반전(Invert)](./16-08-12-invert.md)
 
 [16.8.13. Linear invert](./16-08-13-linear-invert.md)
 
@@ -6997,6 +6999,12 @@
 [90.10.70.1. 키보드 단축키](./90-10-70-01-00-keyboard_shortcut.md)
 
 [90.10.70.1.1. `이미지 메뉴 바` → `선택` → `없음`: 키보드 단축키 Ctrl(⌘) + Shift(⇧) + `A`](./90-10-70-01-01-ctrl_shift_a.md)
+
+[90.10.71. `이미지 메뉴 바` → `선택` → `반전`](./90-10-71-00-menu_select_invert.md)
+
+[90.10.71.1. 키보드 단축키](./90-10-71-01-00-keyboard_shortcut.md)
+
+[90.10.71.1.1. `이미지 메뉴 바` → `선택` → `반전`: 키보드 단축키 Ctrl(⌘) + `I`](./90-10-71-01-01-ctrl_i.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

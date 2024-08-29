@@ -11,7 +11,7 @@
 ## [16.8.9. Brightness contrast](./16-08-09-brightness-contrast.md)
 ## [16.8.10. 레벨(Levels)](./16-08-10-levels.md)
 ## [16.8.11. Curves](./16-08-11-curves.md)
-## [16.8.12. Invert](./16-08-12-invert.md)
+## [16.8.12. 반전(Invert)](./16-08-12-invert.md)
 ## [16.8.13. Linear invert](./16-08-13-linear-invert.md)
 ## [16.8.14. Value invert](./16-08-14-value-invert.md)
 ## [16.8.15. The auto submenu](./16-08-15-the-auto-submenu.md)

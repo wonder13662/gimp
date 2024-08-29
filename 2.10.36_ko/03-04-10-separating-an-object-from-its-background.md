@@ -87,8 +87,8 @@
 
 <a id="90-01-03-03-a101"></a>
 
-#### [그림 90.1.3.3.a101. `선택` → `반전`](./90-01-03-03-invert.md#90-01-03-03-a101)
-![90-01-03-03-a101](https://github.com/wonder13662/gimp/assets/15767104/7de10abb-638d-4d04-8436-7368cf694769)
+#### [그림 90.1.3.3.a101. `이미지 메뉴 바` → `선택` → `반전`](./90-01-03-03-invert.md#90-01-03-03-a101)
+<img width="934" height="539" alt="90-01-03-03-a101" src="https://github.com/user-attachments/assets/65a0dffe-a49c-423c-ba76-0d0a1ea2cced" />
 
 <a id="03-04-10-s2-01"></a>
 

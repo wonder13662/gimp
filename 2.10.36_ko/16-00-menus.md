@@ -356,7 +356,7 @@
 
 [16.4.3. 없음(None)](./16-04-03-00-none.md)
 
-[16.4.4. Invert](./16-04-04-invert.md)
+[16.4.4. 반전(Invert)](./16-04-04-00-invert.md)
 
 [16.4.5. 띄우기(Float)](./16-04-05-float.md)
 
@@ -688,7 +688,7 @@
 
 [16.8.11. Curves](./16-08-11-curves.md)
 
-[16.8.12. Invert](./16-08-12-invert.md)
+[16.8.12. 반전(Invert)](./16-08-12-invert.md)
 
 [16.8.13. Linear invert](./16-08-13-linear-invert.md)
 
