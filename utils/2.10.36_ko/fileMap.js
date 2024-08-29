@@ -1490,7 +1490,7 @@ module.exports = {
         '16.4.6. 색상 선택',
       ],
       [
-        '16-04-07-from-path.md', 
+        '16-04-07-00-from_path.md', 
         '16.4.7. 경로에서 선택 만들기(From path)'
       ],
       [

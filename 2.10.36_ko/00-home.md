@@ -3308,7 +3308,7 @@
 
 [16.4.6.1. 명령 활성화하기(Activate the Command)](./16-04-06-01-activating_the_command.md)
 
-[16.4.7. 경로에서 선택 만들기(From path)](./16-04-07-from-path.md)
+[16.4.7. 경로에서 선택 만들기(From path)](./16-04-07-00-from_path.md)
 
 [16.4.8. 선택 영역 편집기(Selection Editor)](./16-04-08-00-selection_editor.md)
 

@@ -20,14 +20,14 @@
 
 <a id="90-10-73-01-01-a1"></a>
 
-#### [영상 90.10.73.1.1.a1. `이미지 메뉴 바` → `선택` → `색상 선택`: 키보드 단축키 Shift(⇧) + `O` (Windows) (우리말)](./90-10-73-00-menu_select_by_color.md#90-10-73-01-01-a1)
+#### [영상 90.10.73.1.1.a1. `이미지 메뉴 바` → `선택` → `색상 선택`: 키보드 단축키 Shift(⇧) + `O` (Windows) (우리말)](./90-10-73-01-01-shift_o.md#90-10-73-01-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/768c1dc9-39a6-4eb7-8f20-cb029e4c60ca"></video>
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.4.7. 경로에서 선택 만들기(From path)](./16-04-07-from-path.md)
+[➡️ 다음: 16.4.7. 경로에서 선택 만들기(From path)](./16-04-07-00-from_path.md)
 
 [⬅️ 이전: 16.4.6. 색상 선택(By Color)](./16-04-06-00-by-color.md)
 
