@@ -1491,7 +1491,7 @@ module.exports = {
       ],
       [
         '16-04-07-00-from_path.md', 
-        '16.4.7. 경로에서 선택 만들기(From path)'
+        '16.4.7. 경로에서(From path)'
       ],
       [
         '16-04-08-00-selection_editor.md', 

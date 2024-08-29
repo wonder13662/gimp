@@ -3308,7 +3308,9 @@
 
 [16.4.6.1. 명령 활성화하기(Activate the Command)](./16-04-06-01-activating_the_command.md)
 
-[16.4.7. 경로에서 선택 만들기(From path)](./16-04-07-00-from_path.md)
+[16.4.7. 경로에서(From path)](./16-04-07-00-from_path.md)
+
+[16.4.7.1. 명령 활성화하기(Activating the Command)](./16-04-07-01-activating_the_command.md)
 
 [16.4.8. 선택 영역 편집기(Selection Editor)](./16-04-08-00-selection_editor.md)
 
@@ -7025,6 +7027,12 @@
 [90.10.73.1. 키보드 단축키](./90-10-73-01-00-keyboard_shortcut.md)
 
 [90.10.73.1.1. `이미지 메뉴 바` → `선택` → `색상 선택`: 키보드 단축키 Shift(⇧) + `O`](./90-10-73-01-01-shift_o.md)
+
+[90.10.74. `이미지 메뉴 바` → `선택` → `경로에서`](./90-10-74-00-menu_select_from_path.md)
+
+[90.10.74.1. 키보드 단축키](./90-10-74-01-00-keyboard_shortcut.md)
+
+[90.10.74.1.1. `이미지 메뉴 바` → `선택` → `경로에서`: 키보드 단축키 Shift(⇧) + 'V'](./90-10-74-01-01-shift_v.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
