@@ -7,6 +7,8 @@
 
 [15.2.3.3.6. 선택을 경로로 바꾸기(Selection to Path) - 영상 90.10.43.2.5.a1](./15-02-03-03-06-selection_to_path.md#90-10-43-02-05-a1)
 
+[16.4.8.3. 선택을 경로로 바꾸기 고급설정 대화상자(The "Selection to Path Advanced Settings" Dialog) - 영상 90.10.43.2.5.a1](./16-04-08-03-00-the_selection_to_path_advanced_settings_dialog.md#90-10-43-02-05-a1)
+
 ***
 
 ## 다른 페이지로 가기

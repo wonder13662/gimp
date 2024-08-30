@@ -3304,7 +3304,7 @@
 
 [16.4.5.3. 떠있는 선택 고정하기(Anchor a Floating Selection)](./16-04-05-03-anchor_a_floating_selection.md)
 
-[16.4.6. 색상 선택(By Color)](./16-04-06-00-by-color.md)
+[16.4.6. 색상 선택(By Color)](./16-04-06-00-by_color.md)
 
 [16.4.6.1. 명령 활성화하기(Activate the Command)](./16-04-06-01-activating_the_command.md)
 
@@ -4457,6 +4457,8 @@
 [19. 용어집 - 단일창 모드(Single Window Mode)](./19-glossaryx-single_window_mode.md)
 
 [19. 용어집 - 색상 교정(Soft Proofing)](./19-glossaryx-soft_proofing.md)
+
+[19. 용어집 - 스플라인(Spline)](./19-glossaryx-spline.md)
 
 [19. 용어집 - 상태 표시 영역(Status Area)](./19-glossaryx-status_area.md)
 
@@ -5946,7 +5948,7 @@
 
 [90.4.125. 경로 속성(Path Attributes)](./90-04-0125-path_attributes.md)
 
-[90.4.126. 선택을 경로로 바꾸기 고급 설정(New Channel)](./90-04-0126-selection_to_path_advanced_settings.md)
+[90.4.126. 선택을 경로로 바꾸기 고급 설정(Selection to Path Advanced Settings)](./90-04-0126-selection_to_path_advanced_settings.md)
 
 [90.4.127. 경로를 SVG로 내보내기(Export Path to SVG)](./90-04-0127-export_path_to_svg.md)
 

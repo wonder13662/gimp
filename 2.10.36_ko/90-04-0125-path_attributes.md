@@ -27,7 +27,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.126. 선택을 경로로 바꾸기 고급 설정(New Channel)](./90-04-0126-selection_to_path_advanced_settings.md)
+[➡️ 다음: 90.4.126. 선택을 경로로 바꾸기 고급 설정(Selection to Path Advanced Settings)](./90-04-0126-selection_to_path_advanced_settings.md)
 
 [⬅️ 이전: 90.4.124. 새 경로(New Channel)](./90-04-0124-new_path.md)
 

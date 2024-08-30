@@ -29,9 +29,9 @@
 
 [➡️ 다음: 16.4.7. 경로에서(From path)](./16-04-07-00-from_path.md)
 
-[⬅️ 이전: 16.4.6. 색상 선택(By Color)](./16-04-06-00-by-color.md)
+[⬅️ 이전: 16.4.6. 색상 선택(By Color)](./16-04-06-00-by_color.md)
 
-[⬆️ 위: 16.4.6. 색상 선택(By Color)](./16-04-06-00-by-color.md)
+[⬆️ 위: 16.4.6. 색상 선택(By Color)](./16-04-06-00-by_color.md)
 
 [⬆️ 위: 16.4. 선택 메뉴(The select menu)](./16-04-00-the-select-menu.md)
 

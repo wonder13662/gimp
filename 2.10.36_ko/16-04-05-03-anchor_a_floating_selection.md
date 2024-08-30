@@ -84,7 +84,7 @@ GIMP 2.10.18 버전 이후로는 떠있는 선택이 만들어지면, 레이어 
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.4.6. 색상 선택(By Color)](./16-04-06-00-by-color.md)
+[➡️ 다음: 16.4.6. 색상 선택(By Color)](./16-04-06-00-by_color.md)
 
 [⬅️ 이전: 16.4.5.2. 자동으로 떠있는 선택 만들기(Creating a Floating Selection Automatically)](./16-04-05-02-creating_a_floating_selection_automatically.md)
 

@@ -64,6 +64,8 @@
 
 [16.4.8.2.1.5. 선택을 경로로 만들기(To Path) - 그림 90.4.8.a151](./16-04-08-02-01-05-to_path.md#90-04-08-a151)
 
+[16.4.8.3. 선택을 경로로 바꾸기 고급설정 대화상자(The "Selection to Path Advanced Settings" Dialog) - 그림 90.4.8.a151](./16-04-08-03-00-the_selection_to_path_advanced_settings_dialog.md#90-04-08-a151)
+
 <a id="90-04-08-a161"></a>
 
 #### 그림 90.4.8.a161. `선택 영역 편집기` 대화상자 → `선택 영역 따라 그리기` (Windows) (우리말)
@@ -79,6 +81,13 @@
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/99992777-8ece-46aa-87a0-0a93c7378010"></video>
 
 [16.3.20.1. 명령 활성화하기(Activate the Command) - 영상 90.4.8.a162](./16-03-20-01-activate_the_command.md#90-04-08-a162)
+
+<a id="90-04-08-a171"></a>
+
+#### 영상 90.4.8.a171. `선택 영역 편집기` 대화상자 → `보기창` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ddcee3b3-44f3-431b-bc40-19c56dc05e74"></video>
+
+[16.4.8.2.2. 선택 편집기 대화상자의 보기창(The Display Window) - 영상 90.4.8.a171](./16-04-08-02-02-the_display_window.md#90-04-08-a171)
 
 ***
 

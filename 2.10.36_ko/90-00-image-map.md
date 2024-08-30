@@ -1463,7 +1463,7 @@
 
 [90.4.125. 경로 속성(Path Attributes)](./90-04-0125-path_attributes.md)
 
-[90.4.126. 선택을 경로로 바꾸기 고급 설정(New Channel)](./90-04-0126-selection_to_path_advanced_settings.md)
+[90.4.126. 선택을 경로로 바꾸기 고급 설정(Selection to Path Advanced Settings)](./90-04-0126-selection_to_path_advanced_settings.md)
 
 [90.4.127. 경로를 SVG로 내보내기(Export Path to SVG)](./90-04-0127-export_path_to_svg.md)
 

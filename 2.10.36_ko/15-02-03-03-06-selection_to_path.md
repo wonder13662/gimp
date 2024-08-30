@@ -36,6 +36,8 @@ Shift(⇧) 키를 누른 채로 `선택을 경로로 바꾸기(Selection to Path
 
 [16.4.19. 선택을 경로로 바꾸기(To path)](./16-04-19-to-path.md)
 
+[16.4.8.3. 선택을 경로로 바꾸기 고급설정 대화상자(The "Selection to Path Advanced Settings" Dialog)](./16-04-08-03-00-the_selection_to_path_advanced_settings_dialog.md)
+
 ***
 
 ## 다른 페이지로 가기
