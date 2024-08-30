@@ -366,7 +366,7 @@
 
 [16.4.8. 선택 영역 편집기(Selection Editor)](./16-04-08-00-selection_editor.md)
 
-[16.4.9. Feather](./16-04-09-feather.md)
+[16.4.9. 페더(Feather)](./16-04-09-00-feather.md)
 
 [16.4.10. Sharpen](./16-04-10-sharpen.md)
 

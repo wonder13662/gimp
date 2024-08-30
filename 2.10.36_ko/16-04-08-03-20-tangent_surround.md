@@ -13,7 +13,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.4.9. Feather](./16-04-09-feather.md)
+[➡️ 다음: 16.4.9. 페더(Feather)](./16-04-09-00-feather.md)
 
 [⬅️ 이전: 16.4.8.3.19. Subdivide Threshold](./16-04-08-03-19-subdivide_threshold.md)
 

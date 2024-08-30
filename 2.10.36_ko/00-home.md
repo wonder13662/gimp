@@ -3376,7 +3376,15 @@
 
 [16.4.8.3.20. Tangent Surround](./16-04-08-03-20-tangent_surround.md)
 
-[16.4.9. Feather](./16-04-09-feather.md)
+[16.4.9. 페더(Feather)](./16-04-09-00-feather.md)
+
+[16.4.9.1. 명령 활성화하기(Activating the Command)](./16-04-09-01-activating_the_command.md)
+
+[16.4.9.2. `선택 영역 페더` 대화상자 설명(Description of the “Feather Selection” dialog window)](./16-04-09-02-00-description_of_the_feather_selection_dialog_window.md)
+
+[16.4.9.2.1. 선택 영역 페더 량(Feather selection by)](./16-04-09-02-01-feather_selection_by.md)
+
+[16.4.9.2.2. 이미지 바깥에서 선택 영역 이어지기(Selected area continue outside image)](./16-04-09-02-02-selected_area_continue_outside_image.md)
 
 [16.4.10. Sharpen](./16-04-10-sharpen.md)
 
