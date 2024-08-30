@@ -9,7 +9,7 @@
 
 [16.4.9. 페더(Feather) - 그림 90.4.49.a101](./16-04-09-00-feather.md#90-04-49-a101)
 
-[16.4.9.2. `선택 영역 페더` 대화상자 설명(Description of the “Feather Selection” dialog window) - 그림 90.4.49.a101](./16-04-09-02-description_of_the_feather_selection_dialog_window.md#90-04-49-a101)
+[16.4.9.2. `선택 영역 페더` 대화상자 설명(Description of the “Feather Selection” dialog window) - 그림 90.4.49.a101](./16-04-09-02-00-description_of_the_feather_selection_dialog_window.md#90-04-49-a101)
 
 <a id="90-04-49-a102"></a>
 

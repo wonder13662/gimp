@@ -1502,8 +1502,8 @@ module.exports = {
         '16.4.9. 페더(Feather)'
       ],
       [
-        '16-04-10-sharpen.md', 
-        '16.4.10. Sharpen'
+        '16-04-10-00-sharpen.md', 
+        '16.4.10. 또렷하게(Sharpen)'
       ],
       [
         '16-04-11-shrink.md', 

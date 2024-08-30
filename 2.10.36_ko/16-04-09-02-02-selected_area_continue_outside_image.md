@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.4.10. Sharpen](./16-04-10-sharpen.md)
+[➡️ 다음: 16.4.10. 또렷하게(Sharpen)](./16-04-10-00-sharpen.md)
 
 [⬅️ 이전: 16.4.9.2.1. 선택 영역 페더 량(Feather selection by)](./16-04-09-02-01-feather_selection_by.md)
 

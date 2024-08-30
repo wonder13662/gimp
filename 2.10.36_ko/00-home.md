@@ -3386,7 +3386,9 @@
 
 [16.4.9.2.2. 이미지 바깥에서 선택 영역 이어지기(Selected area continue outside image)](./16-04-09-02-02-selected_area_continue_outside_image.md)
 
-[16.4.10. Sharpen](./16-04-10-sharpen.md)
+[16.4.10. 또렷하게(Sharpen)](./16-04-10-00-sharpen.md)
+
+[16.4.10.1. 명령 활성화하기(Activating the Command)](./16-04-10-01-activating_the_command.md)
 
 [16.4.11. Shrink](./16-04-11-shrink.md)
 
