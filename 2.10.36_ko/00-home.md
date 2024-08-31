@@ -3390,7 +3390,15 @@
 
 [16.4.10.1. 명령 활성화하기(Activating the Command)](./16-04-10-01-activating_the_command.md)
 
-[16.4.11. Shrink](./16-04-11-shrink.md)
+[16.4.11. 줄이기(Shrink)](./16-04-11-00-shrink.md)
+
+[16.4.11.1. 명령 활성화하기(Activating the Command)](./16-04-11-01-activating_the_command.md)
+
+[16.4.11.2. `선택 영역 줄이기` 대화상자 설명(Description of the “Shrink” dialog)](./16-04-11-02-00-description_of_the_shrink_dialog.md)
+
+[16.4.11.2.1. 선택 영역 줄이기 량(Shrink selection by)](./16-04-11-02-01-shrink_selection_by.md)
+
+[16.4.11.2.2. 이미지 바깥에서 선택 영역 이어지기(Selected area continue outside image)](./16-04-11-02-02-selected_area_continue_outside_image.md)
 
 [16.4.12. Grow](./16-04-12-grow.md)
 
@@ -6043,6 +6051,8 @@
 [90.4.167. 단위 편집기(Unit Editor)](./90-04-0167-unit_editor.md)
 
 [90.4.168. 새로운 단위 추가(Add a New Unit)](./90-04-0168-add_a_new_unit.md)
+
+[90.4.169. 선택 영역 줄이기(Shrink Selection)](./90-04-0169-shrink_selection.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

@@ -1549,6 +1549,8 @@
 
 [90.4.168. 새로운 단위 추가(Add a New Unit)](./90-04-0168-add_a_new_unit.md)
 
+[90.4.169. 선택 영역 줄이기(Shrink Selection)](./90-04-0169-shrink_selection.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
