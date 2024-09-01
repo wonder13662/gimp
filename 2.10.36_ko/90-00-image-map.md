@@ -1551,6 +1551,8 @@
 
 [90.4.169. 선택 영역 줄이기(Shrink Selection)](./90-04-0169-shrink_selection.md)
 
+[90.4.170. 선택 영역 늘이기(Grow Selection)](./90-04-0170-grow_selection.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

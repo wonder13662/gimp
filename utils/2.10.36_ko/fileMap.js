@@ -1510,7 +1510,7 @@ module.exports = {
         '16.4.11. 줄이기(Shrink)'
       ],
       [
-        '16-04-12-grow.md', 
+        '16-04-12-00-grow.md', 
         '16.4.12. Grow'
       ],
       [
@@ -1527,7 +1527,7 @@ module.exports = {
       ],
       [
         '16-04-16-rounded-rectangle.md', 
-        '16.4.16. Rounded rectangle'
+        '16.4.16. 사각형 모서리 둥글게 하기(Rounded rectangle)'
       ],
       [
         '16-04-17-toggle-quickmask.md', 

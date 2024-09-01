@@ -3400,7 +3400,13 @@
 
 [16.4.11.2.2. 이미지 바깥에서 선택 영역 이어지기(Selected area continue outside image)](./16-04-11-02-02-selected_area_continue_outside_image.md)
 
-[16.4.12. Grow](./16-04-12-grow.md)
+[16.4.12. 늘이기(Grow)](./16-04-12-00-grow.md)
+
+[16.4.12.1. 명령 활성화하기(Activating the Command)](./16-04-12-01-activating_the_command.md)
+
+[16.4.12.2. 선택 영역 늘이기 대화상자 설명(Description of the “Grow Selection” dialog)](./16-04-12-02-description_of_the_grow_selection_dialog.md)
+
+[16.4.12.3. 사각 선택의 특성(A Peculiarity of Rectangular Selections)](./16-04-12-03-a_peculiarity_of_rectangular_selections.md)
 
 [16.4.13. Border](./16-04-13-border.md)
 
@@ -3408,7 +3414,7 @@
 
 [16.4.15. Distort](./16-04-15-distort.md)
 
-[16.4.16. Rounded rectangle](./16-04-16-rounded-rectangle.md)
+[16.4.16. 사각형 모서리 둥글게 하기(Rounded rectangle)](./16-04-16-rounded-rectangle.md)
 
 [16.4.17. Toggle quickmask](./16-04-17-toggle-quickmask.md)
 
@@ -6053,6 +6059,8 @@
 [90.4.168. 새로운 단위 추가(Add a New Unit)](./90-04-0168-add_a_new_unit.md)
 
 [90.4.169. 선택 영역 줄이기(Shrink Selection)](./90-04-0169-shrink_selection.md)
+
+[90.4.170. 선택 영역 늘이기(Grow Selection)](./90-04-0170-grow_selection.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

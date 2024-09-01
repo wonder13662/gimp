@@ -90,7 +90,7 @@
 
 [16.4.11. 줄이기(Shrink)](./16-04-11-00-shrink.md)
 
-[16.4.12. Grow](./16-04-12-grow.md)
+[16.4.12. Grow](./16-04-12-00-grow.md)
 
 [16.4.13. Border](./16-04-13-border.md)
 
@@ -98,7 +98,7 @@
 
 [16.4.15. Distort](./16-04-15-distort.md)
 
-[16.4.16. Rounded rectangle](./16-04-16-rounded-rectangle.md)
+[16.4.16. 사각형 모서리 둥글게 하기(Rounded rectangle)](./16-04-16-rounded-rectangle.md)
 
 [16.4.17. Toggle quickmask](./16-04-17-toggle-quickmask.md)
 
