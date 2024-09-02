@@ -154,6 +154,8 @@ Name: Blues
 
 [15.3.6.4. 팔레트 편집기(Palette Editor)](./15-03-06-04-00-palette_editor.md)
 
+[흑백 사진을 컬러 사진으로 바꾸는 튜토리얼 - 색상 팔레트 준비하기](https://youtu.be/JW_siMWqnr4?si=dVhmBe_0JzNH5p7P&t=275)
+
 ***
 
 ## 하위 페이지
