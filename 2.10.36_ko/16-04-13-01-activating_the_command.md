@@ -7,7 +7,7 @@
 
 <a id="90-01-03-12-a111"></a>
 
-#### 영상 90.1.3.12.a111. `이미지 메뉴 바` → `선택` → `테두리` (Windows) (우리말)
+#### [영상 90.1.3.12.a111. `이미지 메뉴 바` → `선택` → `테두리` (Windows) (우리말)](./90-01-03-12-border.md#90-01-03-12-a111)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d127f7a6-3294-40f3-9833-6d5ae928da66"></video>
 
 <a comment="[ISSUE]원문에서 두가지 조건 1. 이미지가 반드시 알파채널 가져야 함 2. 선택도구 옵션에 anti-aliasing이 켜져 있어야 함 은 현재 상황에 맞지 않음"></a>
