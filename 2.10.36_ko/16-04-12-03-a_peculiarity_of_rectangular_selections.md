@@ -20,7 +20,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.4.13. Border](./16-04-13-border.md)
+[➡️ 다음: 16.4.13. 테두리(Border)](./16-04-13-border.md)
 
 [⬅️ 이전: 16.4.12.2. 선택 영역 늘이기 대화상자 설명(Description of the “Grow Selection” dialog)](./16-04-12-02-description_of_the_grow_selection_dialog.md)
 

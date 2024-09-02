@@ -3408,7 +3408,17 @@
 
 [16.4.12.3. 사각 선택의 특성(A Peculiarity of Rectangular Selections)](./16-04-12-03-a_peculiarity_of_rectangular_selections.md)
 
-[16.4.13. Border](./16-04-13-border.md)
+[16.4.13. 테두리(Border)](./16-04-13-00-border.md)
+
+[16.4.13.1. 명령 활성화하기(Activating the Command)](./16-04-13-01-activating_the_command.md)
+
+[16.4.13.2. `테두리 선택` 대화상자 설명(Description of the “Border” dialog window)](./16-04-13-02-00-description_of_the_border_dialog_window.md)
+
+[16.4.13.2.1. 테두리 선택 영역 량(Border selection by)](./16-04-13-02-01-border_selection_by.md)
+
+[16.4.13.2.2. 테두리 스타일(Border Style)](./16-04-13-02-02-border_style.md)
+
+[16.4.13.2.3. 이미지 바깥에서 선택 영역 이어지기(Selected area continue outside image)](./16-04-13-02-03-selected_areas_continue_outside_the_image.md)
 
 [16.4.14. Remove holes](./16-04-14-remove-holes.md)
 
@@ -6061,6 +6071,8 @@
 [90.4.169. 선택 영역 줄이기(Shrink Selection)](./90-04-0169-shrink_selection.md)
 
 [90.4.170. 선택 영역 늘이기(Grow Selection)](./90-04-0170-grow_selection.md)
+
+[90.4.171. 테두리 선택(Border Selection)](./90-04-0171-border_selection.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

@@ -92,7 +92,7 @@
 
 [16.4.12. Grow](./16-04-12-00-grow.md)
 
-[16.4.13. Border](./16-04-13-border.md)
+[16.4.13. 테두리(Border)](./16-04-13-border.md)
 
 [16.4.14. Remove holes](./16-04-14-remove-holes.md)
 

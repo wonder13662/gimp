@@ -1515,7 +1515,7 @@ module.exports = {
       ],
       [
         '16-04-13-border.md', 
-        '16.4.13. Border'
+        '16.4.13. 테두리(Border)'
       ],
       [
         '16-04-14-remove-holes.md', 

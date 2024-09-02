@@ -38,7 +38,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.171. 테두리 선택(Border Selection)](./90-04-0171-border_selection.md)
 
 [⬅️ 이전: 90.4.169. 선택 영역 줄이기(Shrink Selection)](./90-04-0169-shrink_selection.md)
 
