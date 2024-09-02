@@ -1,27 +1,30 @@
 # 90.1.3.17. 채널로 저장(Save To Channel)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
 
 <a id="90-01-03-17-a101"></a>
 
-#### 그림 90.1.3.17.a101. `선택` → `채널로 저장`
-![90-01-03-select(1080)-focus-save_to_channel](https://github.com/wonder13662/gimp/assets/15767104/edec29a9-4f48-46d7-8295-72f059bdce3e)
+#### 그림 90.1.3.17.a101. `이미지 메뉴 바` → `선택` → `채널로 저장`
+<img width="934" height="539" alt="90-01-03-17-a101" src="https://github.com/user-attachments/assets/b148596a-e201-434f-9939-c8d90cc9752f" />
 
 [7.3.1. 퀵 마스크 개요 - 그림 90.1.3.17.a101](./07-03-01-overview.md#90-01-03-17-a101)
 
 [15.2.2.3.1. 선택 마스크 만들기(Creating Selection Masks) - 그림 90.1.3.17.a101](./15-02-02-03-01-creating_selection_masks.md#90-01-03-17-a101)
 
+[16.4.18. 채널로 저장(Save to channel) - 그림 90.1.3.17.a101](./16-04-18-save-to-channel.md#90-01-03-17-a101)
+
 <a id="90-01-03-17-a102"></a>
 
-#### 영상 90.1.3.17.a102. `선택` → `채널로 저장`으로 선택영역을 채널에 저장하기
+#### 영상 90.1.3.17.a102. `이미지 메뉴 바` → `선택` → `채널로 저장`: 선택영역을 채널에 저장하기
 <video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/67209be1-b3f4-48c7-a2bb-265f963bcbb5"></video>
 
 [7.3.1. 퀵 마스크 개요 - 영상 90.1.3.17.a102](./07-03-01-overview.md#90-01-03-17-a102)
 
 [15.2.2.3.1. 선택 마스크 만들기(Creating Selection Masks) - 영상 90.1.3.17.a102](./15-02-02-03-01-creating_selection_masks.md#90-01-03-17-a102)
 
+[16.4.18. 채널로 저장(Save to channel) - 영상 90.1.3.17.a102](./16-04-18-save-to-channel.md#90-01-03-17-a102)
+
 <a id="90-01-03-17-a103"></a>
 
-#### 영상 90.1.3.17.a103. `선택` → `채널로 저장`으로 선택영역을 채널에 저장하기 반복
+#### 영상 90.1.3.17.a103. `이미지 메뉴 바` → `선택` → `채널로 저장`: 선택영역을 채널에 저장하기 반복
 <video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/0f574c75-7c75-459c-9974-5a77c362605a"></video>
 
 [7.3.1. 퀵 마스크 개요 - 영상 90.1.3.17.a103](./07-03-01-overview.md#90-01-03-17-a103)
