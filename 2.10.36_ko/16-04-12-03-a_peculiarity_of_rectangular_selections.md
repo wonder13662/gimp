@@ -14,13 +14,13 @@
 #### [그림 90.1.3.11.a121. 선택을 늘렸을 때 모서리가 둥글게 변하는 이유: 모든 외곽선에서 같은 거리만큼 늘이기 때문입니다](./90-01-03-11-grow.md#90-01-03-11-a121)
 <img width="174" height="160" alt="90-01-03-11-a121" src="https://github.com/user-attachments/assets/24403240-a6f1-4cdb-9876-4eeaa3c7bc38" />
 
-이런 둥근 모서리를 원하지 않는다면, [16.4.16. 사각형 모서리 둥글게 하기(Rounded rectangle)](./16-04-16-rounded-rectangle.md)를 반경을 0으로 설정해서 둥근 모시리를 없앨 수 있습니다.
+이런 둥근 모서리를 원하지 않는다면, [16.4.16. 사각형 모서리 둥글게 하기(Rounded rectangle)](./16-04-16-00-rounded-rectangle.md)를 반경을 0으로 설정해서 둥근 모시리를 없앨 수 있습니다.
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.4.13. 테두리(Border)](./16-04-13-border.md)
+[➡️ 다음: 16.4.13. 테두리(Border)](./16-04-13-00-border.md)
 
 [⬅️ 이전: 16.4.12.2. 선택 영역 늘이기 대화상자 설명(Description of the “Grow Selection” dialog)](./16-04-12-02-description_of_the_grow_selection_dialog.md)
 

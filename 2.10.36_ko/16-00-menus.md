@@ -372,15 +372,15 @@
 
 [16.4.11. 줄이기(Shrink)](./16-04-11-00-shrink.md)
 
-[16.4.12. Grow](./16-04-12-00-grow.md)
+[16.4.12. 늘이기(Grow)](./16-04-12-00-grow.md)
 
-[16.4.13. 테두리(Border)](./16-04-13-border.md)
+[16.4.13. 테두리(Border)](./16-04-13-00-border.md)
 
 [16.4.14. 구멍 제거(Remove Holes)](./16-04-14-remove-holes.md)
 
 [16.4.15. 왜곡(Distort)](./16-04-15-00-distort.md)
 
-[16.4.16. 사각형 모서리 둥글게 하기(Rounded rectangle)](./16-04-16-rounded-rectangle.md)
+[16.4.16. 사각형 모서리 둥글게 하기(Rounded rectangle)](./16-04-16-00-rounded-rectangle.md)
 
 [16.4.17. Toggle quickmask](./16-04-17-toggle-quickmask.md)
 

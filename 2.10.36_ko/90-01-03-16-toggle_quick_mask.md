@@ -57,7 +57,7 @@
 
 [➡️ 다음: 90.1.3.17. 채널로 저장(Save To Channel)](./90-01-03-17-save_to_channel.md)
 
-[⬅️ 이전: 90.1.3.15. 모서리 둥글게 만들기(Rounded Rectangle)](./90-01-03-15-rounded_rectangle.md)
+[⬅️ 이전: 90.1.3.15. 사각형 모서리 둥글게 하기(Rounded Rectangle)](./90-01-03-15-rounded_rectangle.md)
 
 [⬆️ 위: 90.1.3. 선택(Select)](./90-01-03-00-select.md)
 

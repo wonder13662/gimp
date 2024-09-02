@@ -7,7 +7,7 @@
 
 [16.4.11. 줄이기(Shrink) - 그림 90.4.169.a101](./16-04-11-00-shrink.md#90-04-169-a101)
 
-[16.4.11.2. `선택 영역 줄이기` 대화상자 설명(Description of the “Shrink” dialog) - 그림 90.4.169.a101](./16-04-11-02-description_of_the_shrink_dialog.md#90-04-169-a101)
+[16.4.11.2. `선택 영역 줄이기` 대화상자 설명(Description of the “Shrink” dialog) - 그림 90.4.169.a101](./16-04-11-02-00-description_of_the_shrink_dialog.md#90-04-169-a101)
 
 <a id="90-04-169-a102"></a>
 

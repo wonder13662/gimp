@@ -28,13 +28,11 @@
 
 [16.4.9.2.2. 이미지 바깥에서 선택 영역 이어지기(Selected area continue outside image)](./16-04-09-02-02-selected_area_continue_outside_image.md)을 참고해주세요.
 
-
-
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.4.12. Grow](./16-04-12-00-grow.md)
+[➡️ 다음: 16.4.12. 늘이기(Grow)](./16-04-12-00-grow.md)
 
 [⬅️ 이전: 16.4.11.2.1. 선택 영역 줄이기 량(Shrink selection by)](./16-04-11-02-01-shrink_selection_by.md)
 

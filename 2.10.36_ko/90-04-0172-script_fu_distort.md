@@ -5,7 +5,7 @@
 #### 그림 90.4.172.a101. `Script-Fu: Distort` 대화상자 (Windows)
 <img width="390" height="331" alt="90-04-172-a101" src="https://github.com/user-attachments/assets/660dfb62-8638-44bb-83dc-3fed23d3e964" /> 
 
-[16.4.15.1. `Script-Fu: Distort` 대화상자 설명 - 그림 90.4.172.a101](./16-04-15-01-description_of_the_distort_dialog_window.md#90-04-172-a101)
+[16.4.15.1. `Script-Fu: Distort` 대화상자 설명 - 그림 90.4.172.a101](./16-04-15-01-00-description_of_the_distort_dialog_window.md#90-04-172-a101)
 
 <a id="90-04-172-a102"></a>
 
@@ -72,7 +72,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.172. Script-Fu: Rounded Rectangle](./90-04-0173-script_fu_rounded_rectangle.md)
 
 [⬅️ 이전: 90.4.171. 테두리 선택(Border Selection)](./90-04-0171-border_selection.md)
 

@@ -1511,10 +1511,10 @@ module.exports = {
       ],
       [
         '16-04-12-00-grow.md', 
-        '16.4.12. Grow'
+        '16.4.12. 늘이기(Grow)'
       ],
       [
-        '16-04-13-border.md', 
+        '16-04-13-00-border.md', 
         '16.4.13. 테두리(Border)'
       ],
       [
@@ -1526,7 +1526,7 @@ module.exports = {
         '16.4.15. 왜곡(Distort)'
       ],
       [
-        '16-04-16-rounded-rectangle.md', 
+        '16-04-16-00-rounded-rectangle.md', 
         '16.4.16. 사각형 모서리 둥글게 하기(Rounded rectangle)'
       ],
       [

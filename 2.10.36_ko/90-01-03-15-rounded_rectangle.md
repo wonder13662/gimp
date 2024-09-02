@@ -1,6 +1,18 @@
-# 90.1.3.15. 모서리 둥글게 만들기(Rounded Rectangle)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+# 90.1.3.15. 사각형 모서리 둥글게 하기(Rounded Rectangle)
+
+<a id="90-01-03-15-a101"></a>
+
+#### 그림 90.1.3.15.a101. `이미지 메뉴 바` → `선택` → `사각형 모서리 둥글게 하기`
+<img width="934" height="539" alt="90-01-03-15-a101" src="https://github.com/user-attachments/assets/b36568e5-f1ed-44a6-b819-d8440ec97976" />
+
+[16.4.16. 사각형 모서리 둥글게 하기(Rounded rectangle) - 그림 90.1.3.15.a101](./16-04-16-00-rounded-rectangle.md#90-01-03-15-a101)
+
+<a id="90-01-03-15-a111"></a>
+
+#### 영상 90.1.3.15.a111. `이미지 메뉴 바` → `선택` → `사각형 모서리 둥글게 하기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/21f3d575-92fe-42bc-8154-24ef76da98a9"></video>
+
+[16.4.16. 사각형 모서리 둥글게 하기(Rounded rectangle) - 영상 90.1.3.15.a111](./16-04-16-00-rounded-rectangle.md#90-01-03-15-a111)
 
 ***
 

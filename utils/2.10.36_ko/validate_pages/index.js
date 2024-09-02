@@ -31,11 +31,10 @@ const doAsyncJob = async () => {
 
     // 1-4-1. 시작과 끝 페이지를 지정해서 그 범위 안의 모든 페이지를 검사
     const 검사대상_시작_파일_번호 = files.indexOf('00-home.md')
-    // const 검사대상_시작_파일_번호 = files.indexOf('07-09-02-creating-a-brush-quickly.md')
     if (검사대상_시작_파일_번호 === -1) {
       throw new Error('첫번째 검사 대상 파일이 유효하지 않습니다.')
     }
-    const 검사대상_마지막_파일_번호 = files.indexOf('16-04-10-01-activating_the_command.md')
+    const 검사대상_마지막_파일_번호 = files.indexOf('16-04-16-01-02-concave.md')
     if (검사대상_마지막_파일_번호 === -1) {
       throw new Error('마지막 검사 대상 파일이 유효하지 않습니다.')
     }

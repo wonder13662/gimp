@@ -205,7 +205,7 @@
 
 [90.1.3.14. 왜곡(Distort)](./90-01-03-14-distort.md)
 
-[90.1.3.15. 모서리 둥글게 만들기(Rounded Rectangle)](./90-01-03-15-rounded_rectangle.md)
+[90.1.3.15. 사각형 모서리 둥글게 하기(Rounded Rectangle)](./90-01-03-15-rounded_rectangle.md)
 
 [90.1.3.16. 퀵 마스크 전환(Toggle Quick Mask)](./90-01-03-16-toggle_quick_mask.md)
 

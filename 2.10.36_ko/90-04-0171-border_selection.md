@@ -7,7 +7,7 @@
 
 [16.4.13. 테두리(Border) - 그림 90.4.171.a101](./16-04-13-00-border.md#90-04-171-a101)
 
-[16.4.13.2. `테두리 선택` 대화상자 설명(Description of the “Border” dialog window) - 그림 90.4.171.a101](./16-04-13-02-description_of_the_border_dialog_window.md#90-04-171-a101)
+[16.4.13.2. `테두리 선택` 대화상자 설명(Description of the “Border” dialog window) - 그림 90.4.171.a101](./16-04-13-02-00-description_of_the_border_dialog_window.md#90-04-171-a101)
 
 <a id="90-04-171-a102"></a>
 

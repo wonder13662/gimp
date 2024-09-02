@@ -15,3 +15,19 @@
 
 #### [영상 90.1.3.13.a111. `이미지 메뉴 바` → `선택` → `구멍 제거` (Windows) (우리말)](./90-01-03-13-remove_holes.md#90-01-03-13-a111)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/baceee0a-1ea4-4084-8700-343650c5c9f9"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.4.15. 왜곡(Distort)](./16-04-15-00-distort.md)
+
+[⬅️ 이전: 16.4.13.2.3. 이미지 바깥에서 선택 영역 이어지기(Selected area continue outside image)](./16-04-13-02-03-selected_areas_continue_outside_the_image.md)
+
+[⬆️ 위: 16.4. 선택 메뉴(The select menu)](./16-04-00-the-select-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-selection-flood.html)

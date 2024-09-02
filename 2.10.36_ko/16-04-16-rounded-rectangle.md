@@ -1,1 +1,0 @@
-# 16.4.16. 사각형 모서리 둥글게 하기(Rounded rectangle)

@@ -175,7 +175,7 @@
 
 [90.1.3.14. 왜곡(Distort)](./90-01-03-14-distort.md)
 
-[90.1.3.15. 모서리 둥글게 만들기(Rounded Rectangle)](./90-01-03-15-rounded_rectangle.md)
+[90.1.3.15. 사각형 모서리 둥글게 하기(Rounded Rectangle)](./90-01-03-15-rounded_rectangle.md)
 
 [90.1.3.16. 퀵 마스크 전환(Toggle Quick Mask)](./90-01-03-16-toggle_quick_mask.md)
 
@@ -1556,6 +1556,8 @@
 [90.4.171. 테두리 선택(Border Selection)](./90-04-0171-border_selection.md)
 
 [90.4.172. Script-Fu: Distort](./90-04-0172-script_fu_distort.md)
+
+[90.4.173. Script-Fu: Rounded Rectangle](./90-04-0173-script_fu_rounded_rectangle.md)
 
 <a id="90-s5"></a>
 
