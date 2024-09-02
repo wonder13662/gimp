@@ -5,9 +5,9 @@
 #### [그림 90.1.3.10.a101. `이미지 메뉴 바` → `선택` → `줄이기`](./90-01-03-10-shrink.md#90-01-03-10-a101)
 <img width="934" height="539" alt="90-01-03-10-a101" src="https://github.com/user-attachments/assets/0e4946e6-af0e-4e7d-9156-84e7efbb9eeb" />
 
-<a id="90-01-03-10-a101"></a>
+<a id="90-01-03-10-a111"></a>
 
-#### [영상 90.1.3.10.a101. `이미지 메뉴 바` → `선택` → `줄이기` (Windows) (우리말)](./90-01-03-10-shrink.md#90-01-03-10-a101)
+#### [영상 90.1.3.10.a111. `이미지 메뉴 바` → `선택` → `줄이기` (Windows) (우리말)](./90-01-03-10-shrink.md#90-01-03-10-a111)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/cb298869-183c-412d-a68e-b0131c891937"></video>
 
 ***
