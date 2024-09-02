@@ -1555,6 +1555,8 @@
 
 [90.4.171. 테두리 선택(Border Selection)](./90-04-0171-border_selection.md)
 
+[90.4.172. Script-Fu: Distort](./90-04-0172-script_fu_distort.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

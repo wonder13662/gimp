@@ -100,7 +100,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.172. Script-Fu: Distort](./90-04-0172-script_fu_distort.md)
 
 [⬅️ 이전: 90.4.170. 선택 영역 늘이기(Grow Selection)](./90-04-0170-grow_selection.md)
 

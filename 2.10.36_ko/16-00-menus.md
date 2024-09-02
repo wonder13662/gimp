@@ -378,7 +378,7 @@
 
 [16.4.14. 구멍 제거(Remove Holes)](./16-04-14-remove-holes.md)
 
-[16.4.15. Distort](./16-04-15-distort.md)
+[16.4.15. 왜곡(Distort)](./16-04-15-00-distort.md)
 
 [16.4.16. 사각형 모서리 둥글게 하기(Rounded rectangle)](./16-04-16-rounded-rectangle.md)
 

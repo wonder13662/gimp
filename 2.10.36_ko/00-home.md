@@ -3422,7 +3422,17 @@
 
 [16.4.14. 구멍 제거(Remove Holes)](./16-04-14-remove-holes.md)
 
-[16.4.15. Distort](./16-04-15-distort.md)
+[16.4.15. 왜곡(Distort)](./16-04-15-00-distort.md)
+
+[16.4.15.1. `Script-Fu: Distort` 대화상자 설명](./16-04-15-01-00-description_of_the_distort_dialog_window.md)
+
+[16.4.15.1.1. 임계값(Threshold)](./16-04-15-01-01-threshold.md)
+
+[16.4.15.1.2. 퍼짐(Spread)](./16-04-15-01-02-spread.md)
+
+[16.4.15.1.3. 입자 크기(Granularity)](./16-04-15-01-03-granularity.md)
+
+[16.4.15.1.4. 부드럽게 하기(Smooth)](./16-04-15-01-04-smooth.md)
 
 [16.4.16. 사각형 모서리 둥글게 하기(Rounded rectangle)](./16-04-16-rounded-rectangle.md)
 
@@ -6073,6 +6083,8 @@
 [90.4.170. 선택 영역 늘이기(Grow Selection)](./90-04-0170-grow_selection.md)
 
 [90.4.171. 테두리 선택(Border Selection)](./90-04-0171-border_selection.md)
+
+[90.4.172. Script-Fu: Distort](./90-04-0172-script_fu_distort.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
