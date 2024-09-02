@@ -5,7 +5,7 @@
 #### [그림 90.4.169.a101. `선택 영역 줄이기` 대화상자 (Windows) (우리말)](./90-04-0169-shrink_selection.md#90-04-169-a101)
 <img width="349" height="195" alt="90-04-169-a101" src="https://github.com/user-attachments/assets/6e8bcb90-9f30-499b-9e09-f2406a20c54e" />
 
-[다른 운영체제와 언어의 `선택 영역 줄이기` 대화상자 확인하기](./90-04-0169-shrink_selection.md#90-04-169-a101)
+[다른 운영체제와 언어의 `선택 영역 줄이기` 대화상자 확인하기](./90-04-0169-shrink_selection.md#90-04-169-a102)
 
 ***
 
