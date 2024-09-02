@@ -3,28 +3,25 @@
 
 <a id="90-01-03-16-a101"></a>
 
-#### 그림 90.1.3.16.a101. `선택` → `퀵 마스크 전환`
-![90-01-03-16-a101](https://github.com/wonder13662/gimp/assets/15767104/33b44419-8d09-45e2-83ea-130e8c25397f)
+#### 그림 90.1.3.16.a101. `이미지 메뉴 바` → `선택` → `퀵 마스크 전환`
+<img width="934" height="539" alt="90-01-03-16-a101" src="https://github.com/user-attachments/assets/26f0ec57-bb0c-4e07-971b-50d3c6a1be1a" />
 
 [7.3.1. 퀵 마스크 개요 - 그림 90.1.3.16.a101](./07-03-01-overview.md#90-01-03-16-a101)
 
 [15.2.2.4.1. 대화상자 활성화하기(Activate the dialog) - 그림 90.1.3.16.a101](./15-02-02-04-01-activate_the_dialog.md#90-01-03-16-a101)
 
+[16.4.17. 퀵 마스크 전환(Toggle Quick Mask) - 그림 90.1.3.16.a101](./16-04-17-toggle-quickmask.md#90-01-03-16-a101)
+
 <a id="90-01-03-16-a102"></a>
 
-#### 영상 90.1.3.16.a102. `선택` → `퀵 마스크 전환`
+#### 영상 90.1.3.16.a102. `이미지 메뉴 바` → `선택` → `퀵 마스크 전환`
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0082b9cc-700f-4ecb-8e95-7e8d351c17ec"></video>
 
 [7.3.1. 퀵 마스크 개요 - 영상 90.1.3.16.a102](./07-03-01-overview.md#90-01-03-16-a102)
 
 [15.2.2.4.1. 대화상자 활성화하기(Activate the dialog) - 영상 90.1.3.16.a102](./15-02-02-04-01-activate_the_dialog.md#90-01-03-16-a102)
 
-<a id="90-01-03-16-a103"></a>
-
-#### 영상 90.1.3.16.a103. 단축키 Shift(⇧) + Q로 퀵 마스크 전환
-<video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f6f70ab6-dd6e-418d-b400-b77efe7dbf9e"></video>
-
-[7.3.1. 퀵 마스크 개요 - 영상 90.1.3.16.a103](./07-03-01-overview.md#90-01-03-16-a103)
+[16.4.17. 퀵 마스크 전환(Toggle Quick Mask) - 영상 90.1.3.16.a102](./16-04-17-toggle-quickmask.md#90-01-03-16-a102)
 
 <a id="90-01-03-16-a111"></a>
 

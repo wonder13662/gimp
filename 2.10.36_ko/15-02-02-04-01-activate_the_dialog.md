@@ -7,12 +7,12 @@
 
 <a id="90-01-03-16-a101"></a>
 
-#### [그림 90.1.3.16.a101. `선택` → `퀵 마스크 전환`](./90-01-03-16-toggle_quick_mask.md#90-01-03-16-a101)
-![90-01-03-16-a101](https://github.com/wonder13662/gimp/assets/15767104/33b44419-8d09-45e2-83ea-130e8c25397f)
+#### [그림 90.1.3.16.a101. `이미지 메뉴 바` → `선택` → `퀵 마스크 전환`](./90-01-03-16-toggle_quick_mask.md#90-01-03-16-a101)
+<img width="934" height="539" alt="90-01-03-16-a101" src="https://github.com/user-attachments/assets/26f0ec57-bb0c-4e07-971b-50d3c6a1be1a" />
 
 <a id="90-01-03-16-a102"></a>
 
-#### [영상 90.1.3.16.a102. `선택` → `퀵 마스크 전환`](./90-01-03-16-toggle_quick_mask.md#90-01-03-16-a102)
+#### [영상 90.1.3.16.a102. `이미지 메뉴 바` → `선택` → `퀵 마스크 전환`](./90-01-03-16-toggle_quick_mask.md#90-01-03-16-a102)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0082b9cc-700f-4ecb-8e95-7e8d351c17ec"></video>
 
 <a id="15-02-02-04-01-s2"></a>

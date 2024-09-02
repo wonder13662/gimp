@@ -1531,7 +1531,7 @@ module.exports = {
       ],
       [
         '16-04-17-toggle-quickmask.md', 
-        '16.4.17. Toggle quickmask'
+        '16.4.17. 퀵 마스크 전환(Toggle Quick Mask)'
       ],
       [
         '16-04-18-save-to-channel.md', 

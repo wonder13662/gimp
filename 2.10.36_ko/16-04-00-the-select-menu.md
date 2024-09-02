@@ -100,7 +100,7 @@
 
 [16.4.16. 사각형 모서리 둥글게 하기(Rounded rectangle)](./16-04-16-00-rounded-rectangle.md)
 
-[16.4.17. Toggle quickmask](./16-04-17-toggle-quickmask.md)
+[16.4.17. 퀵 마스크 전환(Toggle Quick Mask)](./16-04-17-toggle-quickmask.md)
 
 [16.4.18. 채널로 저장(Save to channel)](./16-04-18-save-to-channel.md)
 
