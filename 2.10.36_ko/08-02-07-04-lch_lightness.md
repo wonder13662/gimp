@@ -20,7 +20,7 @@
 
 [➡️ 다음: 8.2.7.5. 휘도(Luminance)](./08-02-07-05-luminance.md)
 
-[⬅️ 이전: 8.2.7.3. LCh Color(LCh Color)](./08-02-07-03-lch_color.md)
+[⬅️ 이전: 8.2.7.3. LCh 색상(LCh Color)](./08-02-07-03-lch_color.md)
 
 [⬆️ 위: 8.2.7. 레이어 모드-LCh components](./08-02-07-00-lch-components-layer-modes.md)
 

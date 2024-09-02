@@ -19,7 +19,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 8.2.7.3. LCh Color(LCh Color)](./08-02-07-03-lch_color.md)
+[➡️ 다음: 8.2.7.3. LCh 색상(LCh Color)](./08-02-07-03-lch_color.md)
 
 [⬅️ 이전: 8.2.7.1. LCh 색상(LCh Hue)](./08-02-07-01-lch_hue.md)
 

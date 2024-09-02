@@ -504,7 +504,7 @@
 
 [8.2.7.2. LCh 크로마(LCh Chroma)](./08-02-07-02-lch_chroma.md)
 
-[8.2.7.3. LCh Color(LCh Color)](./08-02-07-03-lch_color.md)
+[8.2.7.3. LCh 색상(LCh Color)](./08-02-07-03-lch_color.md)
 
 [8.2.7.4. LCh 밝기(LCh Lightness)](./08-02-07-04-lch_lightness.md)
 
