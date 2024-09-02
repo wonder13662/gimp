@@ -1,6 +1,18 @@
 # 90.1.3.13. 구멍 제거(Remove Holes)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+
+<a id="90-01-03-13-a101"></a>
+
+#### 그림 90.1.3.13.a101. `이미지 메뉴 바` → `선택` → `구멍 제거`
+<img width="934" height="539" alt="90-01-03-13-a101" src="https://github.com/user-attachments/assets/123a3f7a-e5a2-4ff3-8a16-90896821fc78" />
+
+[16.4.14. 구멍 제거(Remove Holes) - 그림 90.1.3.13.a101](./16-04-14-remove-holes.md#90-01-03-13-a101)
+
+<a id="90-01-03-13-a111"></a>
+
+#### 영상 90.1.3.13.a111. `이미지 메뉴 바` → `선택` → `구멍 제거` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/baceee0a-1ea4-4084-8700-343650c5c9f9"></video>
+
+[16.4.14. 구멍 제거(Remove Holes) - 영상 90.1.3.13.a111](./16-04-14-remove-holes.md#90-01-03-13-a111)
 
 ***
 

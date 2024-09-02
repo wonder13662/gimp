@@ -30,7 +30,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.4.14. Remove holes](./16-04-14-remove-holes.md)
+[➡️ 다음: 16.4.14. 구멍 제거(Remove Holes)](./16-04-14-remove-holes.md)
 
 [⬅️ 이전: 16.4.13.2.2. 테두리 스타일(Border Style)](./16-04-13-02-02-border_style.md)
 

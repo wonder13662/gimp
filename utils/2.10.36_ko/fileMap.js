@@ -1519,7 +1519,7 @@ module.exports = {
       ],
       [
         '16-04-14-remove-holes.md', 
-        '16.4.14. Remove holes'
+        '16.4.14. 구멍 제거(Remove Holes)'
       ],
       [
         '16-04-15-distort.md', 

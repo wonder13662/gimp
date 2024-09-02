@@ -3420,7 +3420,7 @@
 
 [16.4.13.2.3. 이미지 바깥에서 선택 영역 이어지기(Selected area continue outside image)](./16-04-13-02-03-selected_areas_continue_outside_the_image.md)
 
-[16.4.14. Remove holes](./16-04-14-remove-holes.md)
+[16.4.14. 구멍 제거(Remove Holes)](./16-04-14-remove-holes.md)
 
 [16.4.15. Distort](./16-04-15-distort.md)
 
