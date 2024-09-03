@@ -1544,16 +1544,16 @@ module.exports = {
       ],
       [
         '16-05-00-the-view-menu.md', 
-        '16.5. The view menu',
+        '16.5. 보기 메뉴(The view menu)',
         '16.5. 보기 메뉴',
       ],
       [
         '16-05-01-introduction-to-the-view-menu.md', 
-        '16.5.1. Introduction to the "View" menu'
+        '16.5.1. 보기 메뉴 소개(Introduction to the "View" menu)'
       ],
       [
         '16-05-02-new-view.md', 
-        '16.5.2. New view'
+        '16.5.2. 새 창으로 보기(New View)'
       ],
       [
         '16-05-03-show-all.md', 

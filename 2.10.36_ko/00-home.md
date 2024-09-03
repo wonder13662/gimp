@@ -3448,11 +3448,13 @@
 
 [16.4.19. 경로로(To path)](./16-04-19-to-path.md)
 
-[16.5. The view menu](./16-05-00-the-view-menu.md)
+[16.5. 보기 메뉴(The view menu)](./16-05-00-the-view-menu.md)
 
-[16.5.1. Introduction to the "View" menu](./16-05-01-introduction-to-the-view-menu.md)
+[16.5.1. 보기 메뉴 소개(Introduction to the "View" menu)](./16-05-01-introduction-to-the-view-menu.md)
 
-[16.5.2. New view](./16-05-02-new-view.md)
+[16.5.2. 새 창으로 보기(New View)](./16-05-02-00-new-view.md)
+
+[16.5.2.1. 명령 활성화하기(Activating the Command)](./16-05-02-01-activating_the_command.md)
 
 [16.5.3. Show all](./16-05-03-show-all.md)
 

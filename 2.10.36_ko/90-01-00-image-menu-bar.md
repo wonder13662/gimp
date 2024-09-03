@@ -216,7 +216,7 @@
 <a id="90-01-s4-view"></a>
 
 ## [90.1.4. 보기(View)](./90-01-04-00-view.md)
-[<img width="1080" alt="90.1.4. 보기(View)" src="https://github.com/wonder13662/gimp/assets/15767104/ae62c33f-3094-4c74-a8f3-6ec16b1a1f74">](./90-01-04-00-view.md)
+[<img width="940" height="687" alt="90-01-04-a101" src="https://github.com/user-attachments/assets/62687af9-cd0a-42fd-9511-aa8ae0398861" />](./90-01-04-00-view.md)
 
 [90.1.4.1. 새 창으로 보기(New View)](./90-01-04-01-new_view.md)
 
