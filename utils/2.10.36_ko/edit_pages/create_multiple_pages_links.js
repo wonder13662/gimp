@@ -20,9 +20,11 @@ const {
 const doAsyncJob = async () => {
   try {
     // 1-1. 시작 페이지 이름
+    // const head = '16-05-00-the-view-menu.md'
+    // const head = '16-05-00-the-view-menu.md'
     const head = '16-00-menus.md'
     // 1-2. 종료 페이지 이름
-    // const tail = '16-05-01-introduction-to-the-view-menu.md'
+    // const tail = '16-05-03-03-using_the_show_all_command.md'
     const tail = head
 
     // 2. 모든 페이지 파일의 목록을 가져온다.

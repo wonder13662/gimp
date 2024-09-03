@@ -524,7 +524,13 @@
 
 [16.5.2.1. 명령 활성화하기(Activating the Command)](./16-05-02-01-activating_the_command.md)
 
-[16.5.3. Show all](./16-05-03-show-all.md)
+[16.5.3. 모두 보기(Show All)](./16-05-03-00-show-all.md)
+
+[16.5.3.1. 명령 활성화하기(Activating the Command)](./16-05-03-01-activating_the_command.md)
+
+[16.5.3.2. `모두 보기` 명령의 기본 원칙(Basic principles about the “Show All” Command)](./16-05-03-02-basic_pinciples_about_the_show_all_command.md)
+
+[16.5.3.3. `모두 보기` 명령 사용하기(Using the “Show All” Command)](./16-05-03-03-using_the_show_all_command.md)
 
 [16.5.4. 점대점(Dot for dot)](./16-05-04-dot-for-dot.md)
 
@@ -618,7 +624,7 @@
 
 [16.6.16. Rotation](./16-06-16-rotation.md)
 
-[16.6.17. Canvas size](./16-06-17-canvas-size.md)
+[16.6.17. 캔버스 크기(Canvas size)](./16-06-17-canvas-size.md)
 
 [16.6.18. Fit canvas to layers](./16-06-18-fit-canvas-to-layers.md)
 

@@ -1,5 +1,9 @@
 # 3.4.8. 이미지 뒤집기
-이 기능은 사진 속의 사람이 다른 방향을 보고 있도록 해야 하거나, 사진의 위쪽을 아래쪽으로 바꿔야 할 때 사용합니다. [이미지 메뉴 바(Image Menu Bar)](./19-glossaryx-image_menu_bar.md)의 `도구(Tools)` → `변형 도구(Transform Tools)` → `뒤집기(Flip)` 메뉴를 선택하거나 도구상자(Toolbox)의 뒤집기 버튼을 누릅니다.
+이 기능은 사진 속의 사람이 다른 방향을 보고 있도록 해야 하거나, 사진의 위쪽을 아래쪽으로 바꿔야 할 때 사용합니다.
+
+[이미지 메뉴 바(Image Menu Bar)](./19-glossaryx-image_menu_bar.md)의 `도구(Tools)` → `변형 도구(Transform Tools)` → `뒤집기(Flip)` 메뉴를 선택하거나 도구상자(Toolbox)의 뒤집기 버튼을 누릅니다.
+
+<a comment="TODO `도구(Tools)` → `변형 도구(Transform Tools)` → `뒤집기(Flip)` 링크 연결"></a>
 
 <a id="90-01-08-03-11-a101"></a>
 
@@ -13,7 +17,9 @@
 #### [그림 90.3.2.15.a2. `도구상자` → `뒤집기`](./90-03-02-15-flip.md#90-03-02-15-a2)
 ![90-03-02-15-a2](https://github.com/wonder13662/gimp/assets/15767104/8f63d644-7b1d-4ebb-9191-3d5583dc2cb7)
 
-도구상자에서 ["뒤집기" 도구](./14-04-12-00-flip.md)를 선택한 다음에 캔버스의 안쪽을 클릭합니다. 도구 옵션(Tool Options) 안의 방향(direction)의 가로모드(Horizontal)와 세로모드(Vertical)를 선택해서 뒤집기의 방향을 바꿀 수 있습니다.
+도구상자에서 ["뒤집기" 도구](./14-04-12-00-flip.md)를 선택한 다음에 [캔버스](./19-glossaryx-canvas.md)의 안쪽을 클릭합니다.
+
+도구 옵션(Tool Options) 안의 방향(direction)의 가로모드(Horizontal)와 세로모드(Vertical)를 선택해서 뒤집기의 방향을 바꿀 수 있습니다.
 
 <a id="90-04-01-15-a201"></a>
 
@@ -31,7 +37,9 @@
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/57e9252a-3f44-4cdf-b6a7-6affe85c7834"></video>
 
 ## 3.4.8.2. 단축키로 가로모드(Horizontal), 세로모드(Vertical) 바꾸기
-Ctrl(Windows) 또는 ⌘(Mac)을 누른 채로 유지하면 방향(direction)이 세로모드(Vertical)로 바뀝니다. Ctrl(Windows) or ⌘(Mac)을 떼면 가로모드(Horizontal)로 다시 바뀝니다.
+Ctrl(⌘)을 누른 채로 유지하면 방향(direction)이 세로모드(Vertical)로 바뀝니다. 
+
+Ctrl(⌘)을 떼면 가로모드(Horizontal)로 다시 바뀝니다.
 
 <a id="90-04-01-15-a203"></a>
 

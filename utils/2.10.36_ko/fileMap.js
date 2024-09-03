@@ -1556,8 +1556,8 @@ module.exports = {
         '16.5.2. 새 창으로 보기(New View)'
       ],
       [
-        '16-05-03-show-all.md', 
-        '16.5.3. Show all'
+        '16-05-03-00-show-all.md', 
+        '16.5.3. 모두 보기(Show All)'
       ],
       [
         '16-05-04-dot-for-dot.md', 
@@ -1729,7 +1729,7 @@ module.exports = {
       ],
       [
         '16-06-17-canvas-size.md', 
-        '16.6.17. Canvas size'
+        '16.6.17. 캔버스 크기(Canvas size)'
       ],
       [
         '16-06-18-fit-canvas-to-layers.md', 

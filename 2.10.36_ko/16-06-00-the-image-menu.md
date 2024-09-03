@@ -16,7 +16,7 @@
 ## [16.6.14. Transform](./16-06-14-transform.md)
 ## [16.6.15. Flip horizontally flip vertically](./16-06-15-flip-horizontally-flip-vertically.md)
 ## [16.6.16. Rotation](./16-06-16-rotation.md)
-## [16.6.17. Canvas size](./16-06-17-canvas-size.md)
+## [16.6.17. 캔버스 크기(Canvas size)](./16-06-17-canvas-size.md)
 ## [16.6.18. Fit canvas to layers](./16-06-18-fit-canvas-to-layers.md)
 ## [16.6.19. Fit canvas to selection](./16-06-19-fit-canvas-to-selection.md)
 ## [16.6.20. Print size](./16-06-20-print-size.md)
