@@ -3468,7 +3468,7 @@
 
 [16.5.4.1. 명령 활성화하기(Activating the command)](./16-05-04-01-activating_the_command.md)
 
-[16.5.5. Zoom](./16-05-05-zoom.md)
+[16.5.5. 확대(Zoom)](./16-05-05-00-zoom.md)
 
 [16.5.6. Flip & Rotate (0°)](./16-05-06-flip-rotate.md)
 
@@ -3512,7 +3512,7 @@
 
 [16.5.26. Show scrollbars](./16-05-26-show-scrollbars.md)
 
-[16.5.27. Show statusbar](./16-05-27-show-statusbar.md)
+[16.5.27. 상태표시줄 보이기(Show statusbar)](./16-05-27-show-statusbar.md)
 
 [16.6. The "Image" menu](./16-06-00-the-image-menu.md)
 
@@ -4750,7 +4750,7 @@
 
 [90.1.4.3. 점대점(Dot for Dot)](./90-01-04-03-dot_for_dot.md)
 
-[90.1.4.4. 확대 (100%)(Zoom (100%))](./90-01-04-04-zoom.md)
+[90.1.4.4. 확대(Zoom)](./90-01-04-04-zoom.md)
 
 [90.1.4.5. 뒤집기와 회전 (0°)(Flip & Rotate (0°))](./90-01-04-05-flip_n_rotate.md)
 

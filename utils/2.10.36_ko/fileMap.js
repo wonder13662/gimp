@@ -1565,8 +1565,8 @@ module.exports = {
         '16.5.4. 점 대 점'
       ],
       [
-        '16-05-05-zoom.md', 
-        '16.5.5. Zoom'
+        '16-05-05-00-zoom.md', 
+        '16.5.5. 확대(Zoom)'
       ],
       [
         '16-05-06-flip-rotate.md', 
@@ -1655,7 +1655,7 @@ module.exports = {
       ],
       [
         '16-05-27-show-statusbar.md', 
-        '16.5.27. Show statusbar'
+        '16.5.27. 상태표시줄 보이기(Show statusbar)'
       ],
       [
         '16-06-00-the-image-menu.md', 
