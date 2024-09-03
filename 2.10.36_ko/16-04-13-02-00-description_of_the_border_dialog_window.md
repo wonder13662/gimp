@@ -5,6 +5,8 @@
 #### [그림 90.4.171.a101. `테두리 선택` 대화상자 (Windows) (우리말)](./90-04-0171-border_selection.md#90-04-171-a101)
 <img width="349" height="238" alt="90-04-171-a101" src="https://github.com/user-attachments/assets/3bcb0233-345a-4cf1-9352-78c808d826d3" />
 
+[다른 운영체제와 언어의 `테두리 선택` 대화상자 확인하기](./90-04-0171-border_selection.md#90-04-171-a102)
+
 ***
 
 ## 하위 페이지
