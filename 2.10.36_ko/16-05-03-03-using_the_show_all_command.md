@@ -24,7 +24,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.5.4. 점대점(Dot for dot)](./16-05-04-dot-for-dot.md)
+[➡️ 다음: 16.5.4. 점대점(Dot for dot)](./16-05-04-00-dot-for-dot.md)
 
 [⬅️ 이전: 16.5.3.2. `모두 보기` 명령의 기본 원칙(Basic principles about the “Show All” Command)](./16-05-03-02-basic_pinciples_about_the_show_all_command.md)
 

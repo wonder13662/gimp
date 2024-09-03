@@ -6,4 +6,4 @@
 
 ## 관련 정보
 
-[16.5.4. 점대점(Dot for dot)](./16-05-04-dot-for-dot.md)
+[16.5.4. 점대점(Dot for dot)](./16-05-04-00-dot-for-dot.md)

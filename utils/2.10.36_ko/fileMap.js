@@ -1560,7 +1560,7 @@ module.exports = {
         '16.5.3. 모두 보기(Show All)'
       ],
       [
-        '16-05-04-dot-for-dot.md', 
+        '16-05-04-00-dot-for-dot.md', 
         '16.5.4. 점대점(Dot for dot)',
         '16.5.4. 점 대 점'
       ],

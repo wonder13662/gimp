@@ -1,6 +1,20 @@
 # 90.1.4.3. 점대점(Dot for Dot)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+
+<a id="90-01-04-03-a101"></a>
+
+#### 그림 90.1.4.3.a101. `이미지 메뉴 바` → `보기` → `점대점`
+<img width="940" height="687" alt="90-01-04-03-a101" src="https://github.com/user-attachments/assets/953a788f-8f98-4b3c-aa73-5941c157430c" />
+
+[16.5.4. 점대점(Dot for dot) - 그림 90.1.4.3.a101](./16-05-04-00-dot-for-dot.md#90-01-04-03-a101)
+
+[16.5.4.1. 명령 활성화하기(Activating the command) - 그림 90.1.4.3.a101](./16-05-04-01-activating_the_command.md#90-01-04-03-a101)
+
+<a id="90-01-04-03-a111"></a>
+
+#### 영상 90.1.4.3.a111. `이미지 메뉴 바` → `보기` → `점대점` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f090858f-0d02-4275-96b3-4fd2f2aabb11"></video>
+
+[16.5.4.1. 명령 활성화하기(Activating the command) - 영상 90.1.4.3.a111](./16-05-04-01-activating_the_command.md#90-01-04-03-a111)
 
 ***
 

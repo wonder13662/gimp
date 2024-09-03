@@ -18,7 +18,9 @@
 
 [16.5.3.3. `모두 보기` 명령 사용하기(Using the “Show All” Command)](./16-05-03-03-using_the_show_all_command.md)
 
-[16.5.4. 점대점(Dot for dot)](./16-05-04-dot-for-dot.md)
+[16.5.4. 점대점(Dot for dot)](./16-05-04-00-dot-for-dot.md)
+
+[16.5.4.1. 명령 활성화하기(Activating the command)](./16-05-04-01-activating_the_command.md)
 
 [16.5.5. Zoom](./16-05-05-zoom.md)
 
