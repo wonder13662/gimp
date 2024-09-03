@@ -5,6 +5,8 @@
 #### [그림 90.4.173.a101. `Script-Fu: Rounded Rectangle` 대화상자 (Windows)](./90-04-0173-script_fu_rounded_rectangle.md#90-04-173-a101)
 <img width="384" height="216" alt="90-04-173-a101" src="https://github.com/user-attachments/assets/cfb86d31-9e31-4396-b921-6dc44d4e23ec" />
 
+[다른 운영체제와 언어의 `Script-Fu: Rounded Rectangle` 대화상자 확인하기](./90-04-0173-script_fu_rounded_rectangle.md#90-04-173-a102)
+
 ***
 
 ## 하위 페이지
