@@ -1552,7 +1552,7 @@ module.exports = {
         '16.5.1. 보기 메뉴 소개(Introduction to the "View" menu)'
       ],
       [
-        '16-05-02-new-view.md', 
+        '16-05-02-00-new-view.md', 
         '16.5.2. 새 창으로 보기(New View)'
       ],
       [
