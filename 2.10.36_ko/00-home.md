@@ -3470,6 +3470,26 @@
 
 [16.5.5. 확대(Zoom)](./16-05-05-00-zoom.md)
 
+[16.5.5.1. 하위 메뉴 활성화하기(Activate the Submenu)](./16-05-05-01-activate_the_submenu.md)
+
+[16.5.5.2. 확대 하위 메뉴의 내용(Contents of the “Zoom” submenu)](./16-05-05-02-00-contents_of_the_zoom_submenu.md)
+
+[16.5.5.2.1. 확대 복원(Revert Zoom)](./16-05-05-02-01-revert_zoom.md)
+
+[16.5.5.2.2. 축소(Zoom Out)](./16-05-05-02-02-zoom_out.md)
+
+[16.5.5.2.3. 확대(Zoom In)](./16-05-05-02-03-zoom_in.md)
+
+[16.5.5.2.4. 이미지를 창 크기에 맞게(Fit Image in Window)](./16-05-05-02-04-fit_image_in_window.md)
+
+[16.5.5.2.5. 창 채우기(Fill Window)](./16-05-05-02-05-fill_window.md)
+
+[16.5.5.2.6. 선택에 맞추기(Zoom to Selection)](./16-05-05-02-06-zoom_to_selection.md)
+
+[16.5.5.2.7. A:B (X%)](./16-05-05-02-07-proportion.md)
+
+[16.5.5.2.8. 기타(Other)](./16-05-05-02-08-other.md)
+
 [16.5.6. Flip & Rotate (0°)](./16-05-06-flip-rotate.md)
 
 [16.5.7. Center image in window](./16-05-07-center-image-in-window.md)
@@ -6106,6 +6126,8 @@
 
 [90.4.173. Script-Fu: Rounded Rectangle](./90-04-0173-script_fu_rounded_rectangle.md)
 
+[90.4.174. 확대 배율(Zoom Ratio)](./90-04-0174-zoom_ratio.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
@@ -7107,6 +7129,18 @@
 [90.10.74.1. 키보드 단축키](./90-10-74-01-00-keyboard_shortcut.md)
 
 [90.10.74.1.1. `이미지 메뉴 바` → `선택` → `경로에서`: 키보드 단축키 Shift(⇧) + 'V'](./90-10-74-01-01-shift_v.md)
+
+[90.10.75. `이미지 메뉴 바` → `보기` → `확대`](./90-10-75-00-menu_view_zoom.md)
+
+[90.10.75.1. 키보드 단축키](./90-10-75-01-00-keyboard_shortcut.md)
+
+[90.10.75.1.1. 키보드 단축키: 백틱(Backtick)](./90-10-75-01-01-backtick.md)
+
+[90.10.75.1.2. 키보드 단축키: `-`](./90-10-75-01-02-zoom_out.md)
+
+[90.10.75.1.3. 키보드 단축키: Shift(⇧) + `+`](./90-10-75-01-03-zoom_in.md)
+
+[90.10.75.1.4. 키보드 단축키: Ctrl(⌘) + Shift(⇧) + `J`](./90-10-75-01-04-ctrl_shift_j.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

@@ -44,6 +44,12 @@
 
 ***
 
+## 관련 정보
+
+[19. 용어집 - 점대점(Dot for Dot)](./19-glossaryx-dot_for_dot.md)
+
+***
+
 ## 하위 페이지
 
 [16.5.4.1. 명령 활성화하기(Activating the command)](./16-05-04-01-activating_the_command.md)

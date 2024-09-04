@@ -13,3 +13,23 @@
 
 #### [영상 90.10.75.1.4.a1. `이미지 메뉴 바` → `보기` → `확대` → `확대`: 키보드 단축키 Shift(⇧) + `+` (Windows) (우리말)](./90-10-75-01-04-ctrl_shift_j.md#90-10-75-01-04-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/22eaa549-fa34-434d-9e03-2bd0b3b44e57"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.5.5.2.5. 창 채우기(Fill Window)](./16-05-05-02-05-fill_window.md)
+
+[⬅️ 이전: 16.5.5.2.3. 확대(Zoom In)](./16-05-05-02-03-zoom_in.md)
+
+[⬆️ 위: 16.5.5.2. 확대 하위 메뉴의 내용(Contents of the “Zoom” submenu)](./16-05-05-02-00-contents_of_the_zoom_submenu.md)
+
+[⬆️ 위: 16.5.5. 확대(Zoom)](./16-05-05-00-zoom.md)
+
+[⬆️ 위: 16.5. 보기 메뉴(The view menu)](./16-05-00-the-view-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-view-zoom.html#idm25471)

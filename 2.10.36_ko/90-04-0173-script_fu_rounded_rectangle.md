@@ -19,12 +19,12 @@
 
 [16.4.16.1.1. 반지름(Radius) - 그림 90.4.173.a111](./16-04-16-01-01-radius.md#90-04-173-a111)
 
-<a id="90-04-173-a111"></a>
+<a id="90-04-173-a112"></a>
 
-#### 그림 90.4.173.a111. `Script-Fu: Rounded Rectangle` 대화상자 → `반지름`: 값 비교
-<img width="960" height="320" alt="90-04-173-a111" src="https://github.com/user-attachments/assets/74d16a1e-fa13-4ead-9082-fbbf259f80ef" />
+#### 그림 90.4.173.a112. `Script-Fu: Rounded Rectangle` 대화상자 → `반지름`: 값 비교
+<img width="960" height="320" alt="90-04-173-a112" src="https://github.com/user-attachments/assets/74d16a1e-fa13-4ead-9082-fbbf259f80ef" />
 
-[16.4.16.1.1. 반지름(Radius) - 그림 90.4.173.a111](./16-04-16-01-01-radius.md#90-04-173-a111)
+[16.4.16.1.1. 반지름(Radius) - 그림 90.4.173.a112](./16-04-16-01-01-radius.md#90-04-173-a112)
 
 <a id="90-04-173-a121"></a>
 
@@ -44,9 +44,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.174. 확대 배율(Zoom Ratio)](./90-04-0174-zoom_ratio.md)
 
-[⬅️ 이전: 90.4.173. Script-Fu: Distort](./90-04-0173-script_fu_distort.md)
+[⬅️ 이전: 90.4.172. Script-Fu: Distort](./90-04-0172-script_fu_distort.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-0000-dialogs.md)
 
