@@ -50,7 +50,7 @@
 
 [16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)](./16-05-08-00-shrink-wrap.md)
 
-[16.5.9. Full screen](./16-05-09-full-screen.md)
+[16.5.9. 전체화면(Fullscreen)](./16-05-09-00-full-screen.md)
 
 [16.5.10. Navigation window](./16-05-10-navigation-window.md)
 

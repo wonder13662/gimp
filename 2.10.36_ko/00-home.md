@@ -3514,7 +3514,9 @@
 
 [16.5.8.1. 명령 활성화하기(Activating the Command)](./16-05-08-01-activating_the_command.md)
 
-[16.5.9. Full screen](./16-05-09-full-screen.md)
+[16.5.9. 전체화면(Fullscreen)](./16-05-09-00-full-screen.md)
+
+[16.5.9.1. 명령 활성화하기(Activating the Command)](./16-05-09-01-activating_the_command.md)
 
 [16.5.10. Navigation window](./16-05-10-navigation-window.md)
 
@@ -7179,6 +7181,12 @@
 [90.10.78.1. 키보드 단축키](./90-10-78-01-00-keyboard_shortcut.md)
 
 [90.10.78.1.1. 키보드 단축키: Ctrl(⌘) + `J`](./90-10-78-01-01-ctrl_j.md)
+
+[90.10.79. `이미지 메뉴 바` → `보기` → `전체화면`](./90-10-79-00-menu_view_full_screen.md)
+
+[90.10.79.1. 키보드 단축키](./90-10-79-01-00-keyboard_shortcut.md)
+
+[90.10.79.1.1. 키보드 단축키: `F11`](./90-10-79-01-01-f11.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
