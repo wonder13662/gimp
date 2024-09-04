@@ -27,7 +27,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.5.7. Center image in window](./16-05-07-center-image-in-window.md)
+[➡️ 다음: 16.5.7. 이미지를 창의 가운데로 옮김(Center Image in Window)](./16-05-07-center-image-in-window.md)
 
 [⬅️ 이전: 16.5.6.7. 180도 회전(Rotate 180°)](./16-05-06-07-rotate_180.md)
 

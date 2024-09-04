@@ -560,7 +560,7 @@
 
 [16.5.6. 뒤집기와 회전 (0°)(Flip & Rotate (0°))](./16-05-06-00-flip-rotate.md)
 
-[16.5.7. Center image in window](./16-05-07-center-image-in-window.md)
+[16.5.7. 이미지를 창의 가운데로 옮김(Center Image in Window)](./16-05-07-center-image-in-window.md)
 
 [16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)](./16-05-08-shrink-wrap.md)
 

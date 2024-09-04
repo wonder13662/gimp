@@ -3508,7 +3508,7 @@
 
 [16.5.6.8. 다른 회전 각도…(Other rotation angle…)](./16-05-06-08-other_rotation_angle.md)
 
-[16.5.7. Center image in window](./16-05-07-center-image-in-window.md)
+[16.5.7. 이미지를 창의 가운데로 옮김(Center Image in Window)](./16-05-07-center-image-in-window.md)
 
 [16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)](./16-05-08-shrink-wrap.md)
 
@@ -7165,6 +7165,12 @@
 [90.10.76.1. 키보드 단축키](./90-10-76-01-00-keyboard_shortcut.md)
 
 [90.10.76.1.1. 키보드 단축키: `!`](./90-10-76-01-01-exclaimer.md)
+
+[90.10.77. `이미지 메뉴 바` → `보기` → `이미지를 창의 가운데로 옮김`](./90-10-77-00-menu_view_center_image_in_window.md)
+
+[90.10.77.1. 키보드 단축키](./90-10-77-01-00-keyboard_shortcut.md)
+
+[90.10.77.1.1. 키보드 단축키: Shift(⇧) + `J`](./90-10-77-01-01-shift_j.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
