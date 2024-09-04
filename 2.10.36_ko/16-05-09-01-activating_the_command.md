@@ -29,7 +29,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.5.10. Navigation window](./16-05-10-navigation-window.md)
+[➡️ 다음: 16.5.10. 내비게이션 창(Navigation Window)](./16-05-10-navigation-window.md)
 
 [⬅️ 이전: 16.5.9. 전체화면(Fullscreen)](./16-05-09-00-full-screen.md)
 

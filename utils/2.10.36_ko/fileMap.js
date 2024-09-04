@@ -1586,7 +1586,7 @@ module.exports = {
       ],
       [
         '16-05-10-navigation-window.md', 
-        '16.5.10. Navigation window'
+        '16.5.10. 내비게이션 창(Navigation Window)'
       ],
       [
         '16-05-11-display-filters.md', 

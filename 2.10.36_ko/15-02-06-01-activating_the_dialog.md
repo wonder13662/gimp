@@ -43,17 +43,19 @@
 <a id="90-01-04-09-a1"></a>
 
 #### [그림 90.1.4.9.a1. `이미지 메뉴 바` → `보기` → `내비게이션 창`](./90-01-04-09-navigation_window.md#90-01-04-09-a1)
-<img width="980" height="688" alt="90-01-04-09-a1" src="https://github.com/wonder13662/gimp/assets/15767104/7b56c675-9b5a-4456-8318-0ccbe470c06d" />
+<img width="940" height="687" alt="90-01-04-09-a1" src="https://github.com/user-attachments/assets/6c82385b-4d7d-4bd9-99a0-f27bcef19a3d" />
 
 <a id="90-01-04-09-a1-01"></a>
 
-#### [영상 90.1.4.9.a1.1. `이미지 메뉴 바` → `보기` → `내비게이션 창`](./90-01-04-09-navigation_window.md#90-01-04-09-a1-01)
+#### [영상 90.1.4.9.a1.1. `이미지 메뉴 바` → `보기` → `내비게이션 창` (Windows) (우리말)](./90-01-04-09-navigation_window.md#90-01-04-09-a1-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/711ce7f6-5182-4014-8b23-64832cc5480c"></video>
 
 <a id="15-02-06-01-s4"></a>
 
 ## 4. `이미지 창` → `내비게이션`
-이 방식으로 내비게이션의 기능을 더 빨리 쓸 수 있습니다. 하지만, `내비게이션` 대화상자를 열지 않습니다.
+이 방식으로 내비게이션의 기능을 더 빨리 쓸 수 있습니다.
+
+하지만, `내비게이션` 대화상자를 열지 않습니다.
 
 <a id="90-05-11-a102"></a>
 

@@ -25,6 +25,8 @@
 
 [15.2.6.1. 대화상자 활성화하기(Activating the dialog) - 그림 90.5.11.a103](./15-02-06-01-activating_the_dialog.md#90-05-11-a103)
 
+[16.5.10. 내비게이션 창(Navigation Window) - 그림 90.5.11.a103](./16-05-10-navigation-window.md#90-05-11-a103)
+
 <a id="90-05-11-a121"></a>
 
 #### 그림 90.5.11.a121. 내비게이션 미리보기로 이미지의 다른 부분으로 옮기기
@@ -33,6 +35,8 @@
 [3.2.4.11. 내비게이션 (Navigation Control) - 그림 90.5.11.a121](./03-02-04-11-navigation-control.md#90-05-11-a121)
 
 [15.2.6.1. 대화상자 활성화하기(Activating the dialog) - 그림 90.5.11.a121](./15-02-06-01-activating_the_dialog.md#90-05-11-a121)
+
+[16.5.10. 내비게이션 창(Navigation Window) - 그림 90.5.11.a121](./16-05-10-navigation-window.md#90-05-11-a121)
 
 <a id="90-05-11-a131"></a>
 
