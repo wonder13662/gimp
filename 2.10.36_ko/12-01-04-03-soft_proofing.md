@@ -14,7 +14,7 @@
 #### [그림 90.2.2.a14.1. `기본설정` → `색상관리` → `색상 교정` → `색상 교정 프로필` (Windows) (우리말)](./90-02-02-color-management.md#90-02-02-a14-01)
 ![90-02-02-a14-01](https://github.com/wonder13662/gimp/assets/15767104/53f36af3-497f-439b-9d42-11c9703ba8e7)
 
-`없음(None)`이 기본값입니다. `디스크에서 색상 프로필 선택...(Select color profile from disk...)`을 선택해서 `.icc` 파일을 직접 설정할 수 있습니다.
+`없음(None)`이 기본값입니다. `디스크에서 색상 프로필 선택…(Select color profile from disk…)`을 선택해서 `.icc` 파일을 직접 설정할 수 있습니다.
 
 ## 2. 렌더링 목적(Rendering intent)
 

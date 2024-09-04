@@ -16,9 +16,9 @@
 
 [➡️ 다음: 16.2.15. 인쇄(Print)](./16-02-15-00-print.md)
 
-[⬅️ 이전: 16.2.14. 템플릿 만들기...(Create Template...)](./16-02-14-00-create-template.md)
+[⬅️ 이전: 16.2.14. 템플릿 만들기…(Create Template…)](./16-02-14-00-create-template.md)
 
-[⬆️ 위: 16.2.14. 템플릿 만들기...(Create Template...)](./16-02-14-00-create-template.md)
+[⬆️ 위: 16.2.14. 템플릿 만들기…(Create Template…)](./16-02-14-00-create-template.md)
 
 [⬆️ 위: 16.2. 파일 메뉴(The File Menu)](./16-02-00-the-file-menu.md)
 

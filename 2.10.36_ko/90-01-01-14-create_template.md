@@ -5,7 +5,7 @@
 #### 그림 90.1.1.14.a101. `이미지 메뉴 바` → `파일` → `템플릿 만들기`
 <img width="980" height="605" alt="90-01-01-14-a101" src="https://github.com/user-attachments/assets/cf606c2a-6b1d-465f-96f4-9c67515fd607" />
 
-[16.2.14. 템플릿 만들기...(Create Template...) - 그림 90.1.1.14.a101](./16-02-14-00-create-template.md#90-01-01-14-a101)
+[16.2.14. 템플릿 만들기…(Create Template…) - 그림 90.1.1.14.a101](./16-02-14-00-create-template.md#90-01-01-14-a101)
 
 [16.2.14.1. 명령 활성화하기(Activating the Command) - 그림 90.1.1.14.a101](./16-02-14-01-activating_the_command.md#90-01-01-14-a101)
 

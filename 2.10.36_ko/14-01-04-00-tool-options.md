@@ -22,9 +22,9 @@
 
 ## 하위 페이지
 
-[14.1.4.1. 도구 프리셋 저장...(Save Tool Preset...)](./14-01-04-01-save_tool_preset.md)
+[14.1.4.1. 도구 프리셋 저장…(Save Tool Preset…)](./14-01-04-01-save_tool_preset.md)
 
-[14.1.4.2. 도구 프리셋 되돌리기...(Restore Tool Preset...)](./14-01-04-02-restore_tool_preset.md)
+[14.1.4.2. 도구 프리셋 되돌리기…(Restore Tool Preset…)](./14-01-04-02-restore_tool_preset.md)
 
 [14.1.4.3. 도구 프리셋 삭제(Delete Tool Preset)](./14-01-04-03-delete_tool_preset.md)
 
@@ -40,7 +40,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 14.1.4.1. 도구 프리셋 저장...(Save Tool Preset...)](./14-01-04-01-save_tool_preset.md)
+[➡️ 다음: 14.1.4.1. 도구 프리셋 저장…(Save Tool Preset…)](./14-01-04-01-save_tool_preset.md)
 
 [⬅️ 이전: 14.1.3.3. 활성화 이미지 영역(Active Image Area)](./14-01-03-03-active_image_area.md)
 

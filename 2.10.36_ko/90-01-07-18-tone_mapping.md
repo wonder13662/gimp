@@ -12,7 +12,7 @@
 
 [➡️ 다음: 90.1.7.19. 정보(Info)](./90-01-07-19-00-info.md)
 
-[⬅️ 이전: 90.1.7.17.8. 표본 색상화...(Sample Colorize...)](./90-01-07-17-08-sample_colorize.md)
+[⬅️ 이전: 90.1.7.17.8. 표본 색상화…(Sample Colorize…)](./90-01-07-17-08-sample_colorize.md)
 
 [⬆️ 위: 90.1.7. 색(Colors)](./90-01-07-00-colors.md)
 

@@ -1,6 +1,6 @@
 # 13.4.10. Neon Logo
 
-## 1. `이미지 메뉴 바` → `파일` → `만들기` → `로고` → `Neon Logo...`
+## 1. `이미지 메뉴 바` → `파일` → `만들기` → `로고` → `Neon Logo…`
 
 #### 그림 13.4.10.a101. 결과 이미지
 ![13-04-10-a101-result](https://github.com/wonder13662/gimp/assets/15767104/f0ddccc7-afa3-4c6d-92d6-c9e4dfb7d30b)
@@ -14,7 +14,7 @@
 #### 영상 13.4.10.a104. 전체 과정
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/465f7e51-24f9-4463-bf69-b59d25c08788"></video>
 
-## 2. `이미지 메뉴 바` → `필터` → `알파를 로고로` → `Neon Logo...`
+## 2. `이미지 메뉴 바` → `필터` → `알파를 로고로` → `Neon Logo…`
 
 #### 그림 13.4.10.a111. 원본 이미지
 ![13-04-10-a111-source](https://github.com/wonder13662/gimp/assets/15767104/a4425603-f822-4a73-8662-82374b825c1b)

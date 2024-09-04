@@ -33,7 +33,7 @@
 
 [➡️ 다음: 90.1.7.14.5. 색상 보강(Color Enhance)](./90-01-07-14-05-color_enhance.md)
 
-[⬅️ 이전: 90.1.7.14.3. 대비 증가...(Stretch Contrast...)](./90-01-07-14-03-stretch_contrast.md)
+[⬅️ 이전: 90.1.7.14.3. 대비 증가…(Stretch Contrast…)](./90-01-07-14-03-stretch_contrast.md)
 
 [⬆️ 위: 90.1.7.14. 자동(Auto)](./90-01-07-14-00-auto.md)
 

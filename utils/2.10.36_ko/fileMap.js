@@ -1308,7 +1308,7 @@ module.exports = {
       ],
       [
         '16-02-12-export-and-overwrite.md', 
-        '16.2.12. 이미지 내보내기와 덮어쓰기(Export... and Overwrite...)'
+        '16.2.12. 이미지 내보내기와 덮어쓰기(Export… and Overwrite…)'
       ],
       [
         '16-02-13-00-export-as.md', 
@@ -1316,7 +1316,7 @@ module.exports = {
       ],
       [
         '16-02-14-00-create-template.md', 
-        '16.2.14. 템플릿 만들기...(Create Template...)'
+        '16.2.14. 템플릿 만들기…(Create Template…)'
       ],
       [
         '16-02-15-00-print.md', 
@@ -1569,8 +1569,8 @@ module.exports = {
         '16.5.5. 확대(Zoom)'
       ],
       [
-        '16-05-06-flip-rotate.md', 
-        '16.5.6. Flip & Rotate (0°)'
+        '16-05-06-00-flip-rotate.md', 
+        '16.5.6. 뒤집기와 회전 (0°)(Flip & Rotate (0°))'
       ],
       [
         '16-05-07-center-image-in-window.md', 
@@ -1717,7 +1717,7 @@ module.exports = {
       ],
       [
         '16-06-14-transform.md', 
-        '16.6.14. Transform'
+        '16.6.14. 변형(Transform)'
       ],
       [
         '16-06-15-flip-horizontally-flip-vertically.md', 

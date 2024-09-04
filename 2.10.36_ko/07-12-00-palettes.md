@@ -105,7 +105,7 @@ GIMP(김프)의 팔레트 파일은 [`.gpl`](./19-glossaryx-gpl.md)이라는 확
 GIMP Palette
 Name: Blues
 #
-# For them rainy days ... by Daniel Egnor
+# For them rainy days … by Daniel Egnor
 #
   0   0   0	grey0
   0   0   0	grey0
@@ -116,7 +116,7 @@ Name: Blues
   0   0  32
   0   0  36
   0   0  44
-...
+…
 ```
 
 위의 내용 중, GIMP(김프)에서 첫번째와 세번째 색상을 선택해서 색상 정보를 `Blues.gpl`와 비교해보면 아래와 같습니다.

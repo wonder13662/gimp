@@ -1,8 +1,8 @@
-# 90.1.9.2.11. Wavelet-decompose...(Wavelet-decompose...)
+# 90.1.9.2.11. Wavelet-decompose…(Wavelet-decompose…)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.1.9.2.11..a1. `필터` → `보강` → `Wavelet-decompose...` (Windows)
+#### 그림 90.1.9.2.11..a1. `필터` → `보강` → `Wavelet-decompose…` (Windows)
 
-#### 그림 90.1.9.2.11..a2. `필터` → `보강` → `Wavelet-decompose...` (Mac)
+#### 그림 90.1.9.2.11..a2. `필터` → `보강` → `Wavelet-decompose…` (Mac)
 
 ***
 
@@ -10,7 +10,7 @@
 
 [➡️ 다음: 90.1.9.3. 왜곡(Distorts)](./90-01-09-03-distorts.md)
 
-[⬅️ 이전: 90.1.9.2.10. NL 필터...(NL Filter...)](./90-01-09-02-10-nl_filter.md)
+[⬅️ 이전: 90.1.9.2.10. NL 필터…(NL Filter…)](./90-01-09-02-10-nl_filter.md)
 
 [⬆️ 위: 90.1.9.2. 보강(Enhance)](./90-01-09-02-00-enhance.md)
 

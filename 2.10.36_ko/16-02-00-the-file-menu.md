@@ -6,7 +6,7 @@
 
 [16.2.1. 개요(Overview)](./16-02-01-overview.md)
 
-[16.2.2. 새 이미지...(New...)](./16-02-02-00-new.md)
+[16.2.2. 새 이미지…(New…)](./16-02-02-00-new.md)
 
 [16.2.2.1. 명령 실행하기(Activate the command)](./16-02-02-01-activating_the_command.md)
 
@@ -122,11 +122,11 @@
 
 [16.2.11.1. 명령 활성화하기(Activate command)](./16-02-11-01-activate_command.md)
 
-[16.2.12. 이미지 내보내기와 덮어쓰기(Export... and Overwrite...)](./16-02-12-export-and-overwrite.md)
+[16.2.12. 이미지 내보내기와 덮어쓰기(Export… and Overwrite…)](./16-02-12-export-and-overwrite.md)
 
 [16.2.13. 다른 이름으로 이미지 내보내기(Export as)](./16-02-13-00-export-as.md)
 
-[16.2.14. 템플릿 만들기...(Create Template...)](./16-02-14-00-create-template.md)
+[16.2.14. 템플릿 만들기…(Create Template…)](./16-02-14-00-create-template.md)
 
 [16.2.15. 인쇄(Print)](./16-02-15-00-print.md)
 

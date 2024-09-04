@@ -105,7 +105,7 @@ The Paint Dynamics Dialog window can be opened
 
 동적 요소 프리셋에서 오른쪽 클릭을 하면 동적 요소 컨텍스트 메뉴를 열 수 있습니다. 동적 요소의 대부분의 명령은 동적 요소 대화상자의 아래쪽의 버튼으로도 수행할 수 있습니다. 이 명령들은 [2. 대화상자 아래의 다섯개의 버튼 설명](./14-03-02-01-the_paint_dynamics_dialog.md#14-03-02-01-s2)에서 확인할 수 있습니다.
 
-### 3-1. 동적 요소 수정...(Edit Dynamics...)
+### 3-1. 동적 요소 수정…(Edit Dynamics…)
 
 [2. 대화상자 아래의 다섯개의 버튼 설명 - 2-1. 동적 요소 수정(Edit this dynamics)](./14-03-02-01-the_paint_dynamics_dialog.md#14-03-02-01-s2-01)을 참고해주세요.
 

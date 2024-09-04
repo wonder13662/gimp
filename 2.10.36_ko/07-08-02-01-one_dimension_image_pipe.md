@@ -21,9 +21,9 @@
 ![07-08-02-01-one_dimension-02-create_layers_with_number(asc)](https://github.com/wonder13662/gimp/assets/15767104/a3d6b6a8-9506-4cbd-8746-1bf615c97dc8)
 
 ## 3. `.gih` 포맷으로 내보내기 설정
-`.xcf`으로 저장합니다. 그 다음에 `이미지 내보내기(Export As...)`로 `.gih` 포맷으로 내보냅니다.
+`.xcf`으로 저장합니다. 그 다음에 `이미지 내보내기(Export As…)`로 `.gih` 포맷으로 내보냅니다.
 
-`이미지 내보내기(Export As...)` 대화상자에서 이미지가 저장될 위치를 선택합니다. `내보내기(Export)` 버튼을 클릭합니다. `Export Image as 붓 파이프(Export image as brush pipe)` 대화상자가 열립니다. 각 항목에 아래처럼 입력합니다.
+`이미지 내보내기(Export As…)` 대화상자에서 이미지가 저장될 위치를 선택합니다. `내보내기(Export)` 버튼을 클릭합니다. `Export Image as 붓 파이프(Export image as brush pipe)` 대화상자가 열립니다. 각 항목에 아래처럼 입력합니다.
 
 |항목|값|
 |---|---|
@@ -34,7 +34,7 @@
 |차원(Dimensions)|1|
 |첫번째 차원|4열, 선택: "증분(Incremental)"|
 
-#### 그림 7.8.2.1.a111. `.gih` 포맷으로 `이미지 내보내기(Export As...)`의 설정
+#### 그림 7.8.2.1.a111. `.gih` 포맷으로 `이미지 내보내기(Export As…)`의 설정
 ![07-08-02-01-one_dimension-02-export_gih_dialog](https://github.com/wonder13662/gimp/assets/15767104/621794bc-d27f-4b38-b7b4-2a3f86c84729)
 
 ## 4. `.gih` 포맷으로 내보낼 위치 정하기
@@ -60,7 +60,7 @@
 ## 7. 새로운 붓(`Selection`: "Random")으로 칠하기
 이전에 저장했던 `.xcf` 파일을 다시 열어서 `.gih`의 설정을 `Selection`: "Random"으로 바꿉니다.
 
-#### 그림 7.8.2.1.a141. `.gih` 포맷으로 `이미지 내보내기(Export As...)`의 설정(`Selection`: "Random")
+#### 그림 7.8.2.1.a141. `.gih` 포맷으로 `이미지 내보내기(Export As…)`의 설정(`Selection`: "Random")
 ![07-08-02-01-dialog-export_image_as_gih(windows)(ko)-focus-selection_random](https://github.com/wonder13662/gimp/assets/15767104/35a7f24a-6eb4-448c-a6ac-5e74098ed851)
 
 수정한 붓으로 이미지에 칠해보면 숫자가 무작위(Random)으로 나오는 것을 확인할 수 있습니다.
@@ -70,7 +70,7 @@
 
 ## 8. 새로운 붓(`Selection`: "Angular")으로 칠하기
 이전에 저장했던 `.xcf` 파일을 다시 열어서 `.gih`의 설정을 `Selection`: "Angular"로 바꿉니다.
-#### 그림 7.8.2.1.a151. `.gih` 포맷으로 `이미지 내보내기(Export As...)`의 설정(`Selection`: "Angular")
+#### 그림 7.8.2.1.a151. `.gih` 포맷으로 `이미지 내보내기(Export As…)`의 설정(`Selection`: "Angular")
 ![07-08-02-01-dialog-export_image_as_gih(windows)(ko)-selection_angular-focus](https://github.com/wonder13662/gimp/assets/15767104/bf7ca8c3-5104-4c0d-bb44-103f32b9e857)
 
 수정한 붓으로 이미지에 칠해보면 숫자가 드래그하는 각도(Angular)에 따라 나오는 것을 확인할 수 있습니다.

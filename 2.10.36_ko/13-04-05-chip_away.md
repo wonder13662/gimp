@@ -1,6 +1,6 @@
 # 13.4.5. Chip Away
 
-## 1. `이미지 메뉴 바` → `파일` → `만들기` → `무늬` → `Chip Away...`
+## 1. `이미지 메뉴 바` → `파일` → `만들기` → `무늬` → `Chip Away…`
 
 #### 그림 13.4.5.a101. 결과 이미지
 ![13-04-05-a101-result(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/78e5b2d5-beb8-4224-ad80-7704512326f4)
@@ -14,7 +14,7 @@
 #### 영상 13.4.5.a104. 전체 과정
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/e4647f1d-57f5-44d5-b76d-4f4b0045b33f"></video>
 
-## 2. `이미지 메뉴 바` → `필터` → `알파를 로고로` → `Chip Away...`
+## 2. `이미지 메뉴 바` → `필터` → `알파를 로고로` → `Chip Away…`
 
 #### 그림 13.4.5.a111. 원본 이미지
 ![13-04-05-a111-source](https://github.com/wonder13662/gimp/assets/15767104/ccdd254c-b7e4-4cc4-91f7-cb9547d377f3)

@@ -25,7 +25,7 @@
 
 [⬅️ 이전: 16.2.2.1. 명령 실행하기(Activate the command)](./16-02-02-01-activating_the_command.md)
 
-[⬆️ 위: 16.2.2. 새 이미지...(New...)](./16-02-02-00-new.md)
+[⬆️ 위: 16.2.2. 새 이미지…(New…)](./16-02-02-00-new.md)
 
 [⬆️ 위: 16.2. 파일 메뉴(The File Menu)](./16-02-00-the-file-menu.md)
 

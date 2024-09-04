@@ -58,7 +58,7 @@
 ; SF-BRUSH
 ; is only useful in interactive mode. It will create a widget in the control
 ; dialog. The widget consists of a preview area (which when pressed will
-; produce a popup preview ) and a button with the "..." label. The button will
+; produce a popup preview ) and a button with the "…" label. The button will
 ; popup a dialog where brushes can be selected and each of the
 ; characteristics of the brush can be modified.
 ;
@@ -78,7 +78,7 @@
 ; SF-PATTERN
 ; Only useful in interactive mode. It will create a widget in the control
 ; dialog. The widget consists of a preview area (which when pressed will
-; produce a popup preview ) and a button with the "..." label. The button will
+; produce a popup preview ) and a button with the "…" label. The button will
 ; popup a dialog where patterns can be selected.
 ;
 ; Usage:
@@ -275,7 +275,7 @@
 )
 
 (script-fu-register "script-fu-test-sphere"
-  _"_Sphere..."
+  _"_Sphere…"
   "Simple script to test and show the usage of the new Script-Fu API extensions."
   "Spencer Kimball, Sven Neumann"
   "Spencer Kimball"

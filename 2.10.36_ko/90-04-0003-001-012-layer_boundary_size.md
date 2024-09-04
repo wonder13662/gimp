@@ -1,4 +1,4 @@
-# 90.4.3.1.12. 레이어 경계 크기...(Layer Boundary Size...)
+# 90.4.3.1.12. 레이어 경계 크기…(Layer Boundary Size…)
 
 ***
 

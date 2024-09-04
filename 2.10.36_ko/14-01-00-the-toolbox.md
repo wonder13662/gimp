@@ -18,9 +18,9 @@
 
 [14.1.4. 도구 옵션(Tool options)](./14-01-04-00-tool-options.md)
 
-[14.1.4.1. 도구 프리셋 저장...(Save Tool Preset...)](./14-01-04-01-save_tool_preset.md)
+[14.1.4.1. 도구 프리셋 저장…(Save Tool Preset…)](./14-01-04-01-save_tool_preset.md)
 
-[14.1.4.2. 도구 프리셋 되돌리기...(Restore Tool Preset...)](./14-01-04-02-restore_tool_preset.md)
+[14.1.4.2. 도구 프리셋 되돌리기…(Restore Tool Preset…)](./14-01-04-02-restore_tool_preset.md)
 
 [14.1.4.3. 도구 프리셋 삭제(Delete Tool Preset)](./14-01-04-03-delete_tool_preset.md)
 

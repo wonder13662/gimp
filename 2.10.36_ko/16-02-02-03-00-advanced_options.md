@@ -37,7 +37,7 @@
 
 [⬅️ 이전: 16.2.2.2.3. 가로/세로 모드(Portrait/Landscape mode)](./16-02-02-02-03-portrait_landscape_mode.md)
 
-[⬆️ 위: 16.2.2. 새 이미지...(New...)](./16-02-02-00-new.md)
+[⬆️ 위: 16.2.2. 새 이미지…(New…)](./16-02-02-00-new.md)
 
 [⬆️ 위: 16.2. 파일 메뉴(The File Menu)](./16-02-00-the-file-menu.md)
 

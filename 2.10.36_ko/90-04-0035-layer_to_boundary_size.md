@@ -1,4 +1,4 @@
-# 90.4.35. 레이어 경계 크기(Layer Boundary Size...)
+# 90.4.35. 레이어 경계 크기(Layer Boundary Size…)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 
 <a id="90-04-35-a101"></a>
@@ -27,7 +27,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.4.36. 레이어 크기 조정(Scale Layer...)](./90-04-0036-scale_layer.md)
+[➡️ 다음: 90.4.36. 레이어 크기 조정(Scale Layer…)](./90-04-0036-scale_layer.md)
 
 [⬅️ 이전: 90.4.34. 이미지 내보내기(Export Image)](./90-04-0034-export_image.md)
 

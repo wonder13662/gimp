@@ -30,7 +30,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.7.14.3. 대비 증가...(Stretch Contrast...)](./90-01-07-14-03-stretch_contrast.md)
+[➡️ 다음: 90.1.7.14.3. 대비 증가…(Stretch Contrast…)](./90-01-07-14-03-stretch_contrast.md)
 
 [⬅️ 이전: 90.1.7.14.1. 평준화(Equalize)](./90-01-07-14-01-equalize.md)
 

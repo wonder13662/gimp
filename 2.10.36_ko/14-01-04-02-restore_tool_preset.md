@@ -1,11 +1,11 @@
-# 14.1.4.2. 도구 프리셋 되돌리기...(Restore Tool Preset...)
+# 14.1.4.2. 도구 프리셋 되돌리기…(Restore Tool Preset…)
 
 <a id="90-04-01-03-a141-02"></a>
 
 #### [그림 90.4.1.3.a141.2. `도구 옵션` 대화상자 → 아래쪽 4개 버튼 → `불러오기`](./90-04-0001-003-rectangle_select.md#90-04-01-03-a141-02)
 ![90-04-01-03-a141-02](https://github.com/wonder13662/gimp/assets/15767104/2fc38b0e-d00a-4a11-a61b-c16118e39de4)
 
-`도구 프리셋 되돌리기...(Restore Tool Preset...)` 버튼은 지금 사용중인 [도구의 프리셋](./19-glossaryx-tool_preset.md)을 불러옵니다.
+`도구 프리셋 되돌리기…(Restore Tool Preset…)` 버튼은 지금 사용중인 [도구의 프리셋](./19-glossaryx-tool_preset.md)을 불러옵니다.
 
 저장되어 있는 프리셋이 없다면 버튼은 비활성화됩니다. 
 
@@ -24,7 +24,7 @@
 
 [7.13. 프리셋(Presets)](./07-13-presets.md)
 
-[14.1.4.1. 도구 프리셋 저장...(Save Tool Preset...)](./14-01-04-01-save_tool_preset.md)
+[14.1.4.1. 도구 프리셋 저장…(Save Tool Preset…)](./14-01-04-01-save_tool_preset.md)
 
 [14.1.4.3. 도구 프리셋 삭제(Delete Tool Preset)](./14-01-04-03-delete_tool_preset.md)
 
@@ -40,7 +40,7 @@
 
 [➡️ 다음: 14.1.4.3. 도구 프리셋 삭제(Delete Tool Preset)](./14-01-04-03-delete_tool_preset.md)
 
-[⬅️ 이전: 14.1.4.1. 도구 프리셋 저장...(Save Tool Preset...)](./14-01-04-01-save_tool_preset.md)
+[⬅️ 이전: 14.1.4.1. 도구 프리셋 저장…(Save Tool Preset…)](./14-01-04-01-save_tool_preset.md)
 
 [⬆️ 위: 14.1.4. 도구 옵션(Tool options)](./14-01-04-00-tool-options.md)
 

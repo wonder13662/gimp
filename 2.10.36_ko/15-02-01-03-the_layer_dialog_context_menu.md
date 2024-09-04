@@ -18,7 +18,7 @@
 
 <a id="15-02-01-03-s1"></a>
 
-## 1. 레이어 속성 수정하기(Edit Layer Attributes...)
+## 1. 레이어 속성 수정하기(Edit Layer Attributes…)
 [새 레이어의 `새 레이어 대화상자`](./16-07-02-02-00-description_of_the_new_layer_dialog.md)를 참고하세요
 
 <a id="15-02-01-03-s2"></a>
@@ -83,7 +83,7 @@
 
 <a id="15-02-01-03-s14"></a>
 
-## 14. 레이어 경계 크기(Layer Boundary Size...)
+## 14. 레이어 경계 크기(Layer Boundary Size…)
 [16.7.51. 레이어 경계 크기(Layer boundary size)](./16-07-51-layer_boundary_size.md)를 참고하세요.
 
 <a id="15-02-01-03-s15"></a>
@@ -98,7 +98,7 @@
 
 <a id="15-02-01-03-s17"></a>
 
-## 17. 레이어 마스크 추가하기(Add Layer Mask...)
+## 17. 레이어 마스크 추가하기(Add Layer Mask…)
 [16.7.23. 레이어 마스크 추가하기(Add layer mask)](./16-07-23-add_layer_mask.md)를 참고하세요.
 
 <a id="15-02-01-03-s18"></a>

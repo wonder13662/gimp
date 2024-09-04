@@ -5,7 +5,7 @@
 #### 그림 90.4.155.a101. `새 양식 만들기` 대화상자 (Windows) (우리말)
 <img width="293" height="157" alt="90-04-155-a101" src="https://github.com/user-attachments/assets/32c7f50a-4ef6-4acd-83b0-55a4b3663dd3" />
 
-[16.2.14. 템플릿 만들기...(Create Template...) - 그림 90.4.155.a101](./16-02-14-00-create-template.md#90-04-155-a101)
+[16.2.14. 템플릿 만들기…(Create Template…) - 그림 90.4.155.a101](./16-02-14-00-create-template.md#90-04-155-a101)
 
 <a id="90-04-155-a102"></a>
 

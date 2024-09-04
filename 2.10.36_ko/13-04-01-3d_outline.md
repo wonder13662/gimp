@@ -1,6 +1,6 @@
 # 13.4.1. 3D Outlines
 
-## 1. `이미지 메뉴 바` → `파일` → `만들기` → `로고` → `3D Outline...`
+## 1. `이미지 메뉴 바` → `파일` → `만들기` → `로고` → `3D Outline…`
 
 #### 그림 13.4.1.a101. 원본 이미지
 ![09-02-01-01-a102-file-create-logo-3d_outline-source(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/dee0219a-0e6a-4c2a-91e7-43e2c72783f9)
@@ -17,7 +17,7 @@
 #### 영상 13.4.1.a105. 전체 과정
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2b1513fa-018f-4db0-96e1-01872e3d419b"></video>
 
-## 2. `이미지 메뉴 바` → `필터` → `알파를 로고로` → `3D Outline...`
+## 2. `이미지 메뉴 바` → `필터` → `알파를 로고로` → `3D Outline…`
 
 #### 그림 13.4.1.a111. 원본 이미지
 ![09-02-01-01-a112-filters-alpha_to_logo-3d_outline-source(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/48f78dcc-99ee-43fb-84e6-4e712ffbad85)

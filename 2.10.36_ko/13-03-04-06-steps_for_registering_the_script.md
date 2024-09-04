@@ -53,7 +53,7 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
 (script-fu-register
   ;스크립트의 진입점 함수의 이름(entry-point function name)
   "script-fu-text-box"
-  ...
+  …
 )
 ```
 
@@ -71,9 +71,9 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
 
 ```scheme
 (script-fu-register
-  ...
+  …
   "Text Box"                                  ;메뉴 라벨(menu label)
-  ...
+  …
 )
 ```
 
@@ -84,11 +84,11 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
 
 ```scheme
 (script-fu-register
-  ...
+  …
   "Creates a simple text box, sized to fit\
     around the user's choice of text,\
     font, font size, and color."              ;스크립트 설명(description)
-  ...
+  …
 )
 ```
 
@@ -111,9 +111,9 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
 
 ```scheme
 (script-fu-register
-  ...
+  …
   "Michael Terry"                             ;스크립트 작성자(author)
-  ...
+  …
 )
 ```
 
@@ -131,10 +131,10 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
 
 ```scheme
 (script-fu-register
-  ...
+  …
   "copyright 1997, Michael Terry;\
     2009, the GIMP Documentation Team"        ;저작권 알림(copyright notice)
-  ...
+  …
 )
 ```
 
@@ -151,9 +151,9 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
 #### 코드 13.3.4.6.a7. `script-fu-register` 예시 - 작성 날짜와 버전 정보
 ```scheme
 (script-fu-register
-  ...
+  …
   "October 27, 1997"                          ;작성일(date created)
-  ...
+  …
 )
 ```
 
@@ -178,9 +178,9 @@ GIMP(김프)에 스크립트를 등록하기 위해서는 `script-fu-register` �
 
 ```scheme
 (script-fu-register
-  ...
+  …
   ""                                          ;스크립트가 동작하는 이미지 타입(image type that the script works on)
-  ...
+  …
 )
 ```
 

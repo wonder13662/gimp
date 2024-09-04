@@ -4,13 +4,13 @@
 ```diff
 ;스크립트를 프로시저 데이터베이스(Procedure Database)에 등록
 (script-fu-register
-  ...
+  …
   SF-COLOR       "Color"         '(0 0 0)     ;프롬프트의 사용자 입력 색상(color variable)
 + ;슬라이더(여백 공간)
 + SF-ADJUSTMENT  "Buffer amount" '(35 0 100 1 10 1 0)
 )
 
-...
+…
 
 ;Text Box 함수 정의
 - (define (script-fu-text-box inText inFont inFontSize inTextColor)
@@ -51,7 +51,7 @@
         )
       )
     ) ;지역변수 끝
-    ...
+    …
   )
 )
 ```

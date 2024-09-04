@@ -4,7 +4,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.3.1.25. 보이는 레이어 합치기...(Merge Visible Layers...)](./90-04-0003-001-025-merge_visible_layers.md)
+[➡️ 다음: 90.4.3.1.25. 보이는 레이어 합치기…(Merge Visible Layers…)](./90-04-0003-001-025-merge_visible_layers.md)
 
 [⬅️ 이전: 90.4.3.1.23. 알파 채널 제거(Remove Alpha Channel)](./90-04-0003-001-023-remove_alpha_channel.md)
 

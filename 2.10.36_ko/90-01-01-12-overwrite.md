@@ -7,7 +7,7 @@
 
 [3.4.4. 이미지 압축하기 - 그림 90.1.1.12.a111](./03-04-04-compressing-images.md#90-01-01-012-a111)
 
-[16.2.12. 이미지 내보내기와 덮어쓰기(Export... and Overwrite...) - 그림 90.1.1.12.a111](./16-02-12-export-and-overwrite.md#90-01-01-012-a111)
+[16.2.12. 이미지 내보내기와 덮어쓰기(Export… and Overwrite…) - 그림 90.1.1.12.a111](./16-02-12-export-and-overwrite.md#90-01-01-012-a111)
 
 ***
 

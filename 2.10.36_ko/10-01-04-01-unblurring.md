@@ -6,14 +6,14 @@
 
 실제로 메뉴는 영문으로 `Sharpen(Unsharp Mask)`이라고 쓰여져 있습니다. 우리말로 직역하면 "선명하게(덜 선명한 마스크)"라고 되어 있어 혼란스러울 수 있습니다. 이 기능은 필름 개발자들에 사용되던 기술에서 유래된 이름입니다. 실제로 이 기능은 "더 선명하게(Sharper)" 이미지를 바꿔줍니다. "덜 선명하게(Unsharp)"하게 만들지 않습니다.
 
-이 기능은 플러그인이며, [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `필터` → `보강` → `선명하게...`로 사용할 수 있습니다.
+이 기능은 플러그인이며, [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `필터` → `보강` → `선명하게…`로 사용할 수 있습니다.
 
 <a id="90-01-09-02-07-a1"></a>
 
-#### [그림 90.1.9.2.7.a1. `필터` → `보강` → `선명하게...` (Windows)](./90-01-09-02-07-sharpen_unsharp_mask.md#90-01-09-02-07-a1)
+#### [그림 90.1.9.2.7.a1. `필터` → `보강` → `선명하게…` (Windows)](./90-01-09-02-07-sharpen_unsharp_mask.md#90-01-09-02-07-a1)
 ![90-01-09-filtersx-02-enhance(w1080)-focus-sharpen_unsharpen_mask(windows)](https://github.com/wonder13662/gimp/assets/15767104/1a306ad6-8d76-446b-bfb0-ecd7aeb70ad3)
 
-[다른 운영체제와 언어의 `필터` → `보강` → `선명하게...` 확인하기](./90-01-09-02-07-sharpen_unsharp_mask.md#90-01-09-02-07-a2)
+[다른 운영체제와 언어의 `필터` → `보강` → `선명하게…` 확인하기](./90-01-09-02-07-sharpen_unsharp_mask.md#90-01-09-02-07-a2)
 
 슬라이더 `반경(Radius)`과 `양(Amount)`으로 입력값을 조절할 수 있습니다. 기본값으로도 잘 작동하므로, 우선 기본값으로 적용해보세요.
 
@@ -37,7 +37,7 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6c3d191e-63ea-402a-bf42-a5e2c1436f5e"></video>
 
 ## 2. 분해(Decompose) 및 구성(Compose)
-[이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `필터` → `보강` → `선명하게...`을 사용하면 이미지의 대조가 강한 경우에 때때로 색상 왜곡이 일어납니다. 색상 왜곡이 일어나면, 이미지를 HSV로 분해(Decompose)해서 색상(Hue)-채도(Saturation)-명도(Value) 레이어로 분리합니다.
+[이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `필터` → `보강` → `선명하게…`을 사용하면 이미지의 대조가 강한 경우에 때때로 색상 왜곡이 일어납니다. 색상 왜곡이 일어나면, 이미지를 HSV로 분해(Decompose)해서 색상(Hue)-채도(Saturation)-명도(Value) 레이어로 분리합니다.
 
 <a id="90-04-79-a101"></a>
 
@@ -51,12 +51,12 @@
 #### [영상 90.4.79.a111. `분해` 대화상자 → `HSV` (Windows) (우리말)](./90-04-0079-decompose.md#90-04-79-a111)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/4982e199-8f77-4f22-91dc-521bf57be295"></video>
 
-그리고 명도(Value) 레이어에만 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `필터` → `보강` → `선명하게...`를 적용합니다. 
+그리고 명도(Value) 레이어에만 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `필터` → `보강` → `선명하게…`를 적용합니다. 
 
 #### 영상 10.1.4.1.a101. 명도(Value) 레이어에 `선명하게` 적용
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/58e8ef4f-2186-425d-a2d5-fa3b56aa20de"></video>
 
-그리고 다시 레이어들을 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `색` → `성분` → `구성...`을 적용해서 하나로 만듭니다.
+그리고 다시 레이어들을 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `색` → `성분` → `구성…`을 적용해서 하나로 만듭니다.
 
 <a id="90-04-78-a101"></a>
 

@@ -24,9 +24,9 @@
 
 [7.13. 프리셋(Presets)](./07-13-presets.md)
 
-[14.1.4.1. 도구 프리셋 저장...(Save Tool Preset...)](./14-01-04-01-save_tool_preset.md)
+[14.1.4.1. 도구 프리셋 저장…(Save Tool Preset…)](./14-01-04-01-save_tool_preset.md)
 
-[14.1.4.2. 도구 프리셋 되돌리기...(Restore Tool Preset...)](./14-01-04-02-restore_tool_preset.md)
+[14.1.4.2. 도구 프리셋 되돌리기…(Restore Tool Preset…)](./14-01-04-02-restore_tool_preset.md)
 
 [14.1.4.5. 도구 프리셋 수정(Edit Tool Preset)](./14-01-04-05-edit_tool_preset.md)
 
@@ -40,7 +40,7 @@
 
 [➡️ 다음: 14.1.4.4. 기본값으로 초기화(Reset to default values)](./14-01-04-04-reset_to_default_values.md)
 
-[⬅️ 이전: 14.1.4.2. 도구 프리셋 되돌리기...(Restore Tool Preset...)](./14-01-04-02-restore_tool_preset.md)
+[⬅️ 이전: 14.1.4.2. 도구 프리셋 되돌리기…(Restore Tool Preset…)](./14-01-04-02-restore_tool_preset.md)
 
 [⬆️ 위: 14.1.4. 도구 옵션(Tool options)](./14-01-04-00-tool-options.md)
 

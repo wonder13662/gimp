@@ -45,7 +45,7 @@
 
 <a id="90-04-34-a113"></a>
 
-#### 영상 90.4.34.a113. 'Export As...' 전체 과정
+#### 영상 90.4.34.a113. 'Export As…' 전체 과정
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/48f1ccae-f4b9-4695-b676-ab8f57c463b0"></video>
 
 [3.4.4. 이미지 압축하기 - 영상 90.4.34.a113](./03-04-04-compressing-images.md#90-04-34-a113)
@@ -125,7 +125,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.4.35. 레이어 경계 크기(Layer Boundary Size...)](./90-04-0035-layer_to_boundary_size.md)
+[➡️ 다음: 90.4.35. 레이어 경계 크기(Layer Boundary Size…)](./90-04-0035-layer_to_boundary_size.md)
 
 [⬅️ 이전: 90.4.33. 이미지를 JPEG로 내보내기(Export Image as JPEG)](./90-04-0033-export_image_as_jpeg.md)
 

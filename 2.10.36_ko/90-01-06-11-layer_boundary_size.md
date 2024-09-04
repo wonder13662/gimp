@@ -15,7 +15,7 @@
 
 [4.2.6. 레이어 바깥쪽에서 작업을 하려는 경우 - 영상 90.1.6.11.a102](./04-02-06-you-are-trying-to-act-outside-the-layer.md#90-01-06-11-a102)
 
-[90.4.35. 레이어 경계 크기(Layer Boundary Size...) - 영상 90.1.6.11.a102](./90-04-0035-layer_to_boundary_size.md#90-01-06-11-a102)
+[90.4.35. 레이어 경계 크기(Layer Boundary Size…) - 영상 90.1.6.11.a102](./90-04-0035-layer_to_boundary_size.md#90-01-06-11-a102)
 
 ***
 

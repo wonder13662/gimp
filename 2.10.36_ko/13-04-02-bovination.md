@@ -1,6 +1,6 @@
 # 13.4.2. Bovination
 
-## 1. `이미지 메뉴 바` → `파일` → `만들기` → `로고` → `Bovination...`
+## 1. `이미지 메뉴 바` → `파일` → `만들기` → `로고` → `Bovination…`
 
 #### 그림 13.4.2.a101. 결과 이미지
 ![09-02-01-02-a101-result(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/87cef2b0-dfa9-4099-9d4d-bca13d7f3a13)
@@ -14,7 +14,7 @@
 #### 영상 13.4.2.a104. 전체 과정
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/c63c006c-3ff3-4922-95db-c00f7cf9b9b5"></video>
 
-## 2. `이미지 메뉴 바` → `필터` → `알파를 로고로` → `Bovination...`
+## 2. `이미지 메뉴 바` → `필터` → `알파를 로고로` → `Bovination…`
 
 #### 그림 13.4.2.a111. 원본 이미지
 ![09-02-01-02-a111-source](https://github.com/wonder13662/gimp/assets/15767104/eec322e9-d6d5-4245-b5d2-de22cc666fa2)

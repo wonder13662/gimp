@@ -2,7 +2,7 @@
 
 GIMP(김프)를 시작할 때, 추가적인 인자(argument) 또는 옵션(Option) 값이 필요하지는 않습니다. 하지만 가장 자주 사용되는 것들을 설명해두었습니다. Unix 시스템에서는 `man gimp` 명령으로 전체 인자(argument) 목록을 확인할 수 있습니다.
 
-커맨드 라인 인자(argument)들은 반드시 `gimp-2.10 [OPTION...] [FILE|URI...]`의 형식으로 입력해야 합니다.
+커맨드 라인 인자(argument)들은 반드시 `gimp-2.10 [OPTION…] [FILE|URI…]`의 형식으로 입력해야 합니다.
 
 참고: 여기서의 인자(argument)와 옵션(Option)은 같은 의미로 사용되었습니다. 
 

@@ -13,7 +13,7 @@
 ## [16.6.11. Convert to color profile](./16-06-11-convert-to-color-profile.md)
 ## [16.6.12. Discard color profile](./16-06-12-discard-color-profile.md)
 ## [16.6.13. Save color profile to file](./16-06-13-save-color-profile-to-file.md)
-## [16.6.14. Transform](./16-06-14-transform.md)
+## [16.6.14. 변형(Transform)](./16-06-14-transform.md)
 ## [16.6.15. Flip horizontally flip vertically](./16-06-15-flip-horizontally-flip-vertically.md)
 ## [16.6.16. Rotation](./16-06-16-rotation.md)
 ## [16.6.17. 캔버스 크기(Canvas size)](./16-06-17-canvas-size.md)

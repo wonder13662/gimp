@@ -1,6 +1,6 @@
 # 13.4.6. Chrome
 
-## 1. `이미지 메뉴 바` → `파일` → `만들기` → `무늬` → `Chrome...`
+## 1. `이미지 메뉴 바` → `파일` → `만들기` → `무늬` → `Chrome…`
 
 #### 그림 13.4.6.a101. 결과 이미지
 ![13-04-06-a101-result](https://github.com/wonder13662/gimp/assets/15767104/a9e41829-1163-46c0-bb87-745912060047)
@@ -14,7 +14,7 @@
 #### 영상 13.4.6.a104. 전체 과정
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2f87cc60-af47-41e9-908b-01451d1fc7f9"></video>
 
-## 2. `이미지 메뉴 바` → `필터` → `알파를 로고로` → `Chrome...`
+## 2. `이미지 메뉴 바` → `필터` → `알파를 로고로` → `Chrome…`
 
 #### 그림 13.4.6.a111. 원본 이미지
 ![13-04-06-a111-source](https://github.com/wonder13662/gimp/assets/15767104/02009a13-c6ba-41c4-86ed-3877cba99c4f)

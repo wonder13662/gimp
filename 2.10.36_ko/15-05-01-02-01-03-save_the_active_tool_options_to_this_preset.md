@@ -16,7 +16,7 @@
 
 ## 관련 정보
 
-[14.1.4.1. 도구 프리셋 저장...(Save Tool Preset...)](./14-01-04-01-save_tool_preset.md)
+[14.1.4.1. 도구 프리셋 저장…(Save Tool Preset…)](./14-01-04-01-save_tool_preset.md)
 
 ***
 

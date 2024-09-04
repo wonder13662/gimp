@@ -13,7 +13,7 @@
 
 [➡️ 다음: 90.1.12.5. 키보드 단축키(Keyboard Shortcuts)](./90-01-12-05-keyboard_shortcuts.md)
 
-[⬅️ 이전: 90.1.12.3. 기본 설정(Settings...)](./90-01-12-03-settings.md)
+[⬅️ 이전: 90.1.12.3. 기본 설정(Settings…)](./90-01-12-03-settings.md)
 
 [⬆️ 위: 90.1.12. GIMP](./90-01-12-00-gimp.md)
 

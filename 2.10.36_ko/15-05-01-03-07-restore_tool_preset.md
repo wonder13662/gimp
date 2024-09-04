@@ -33,7 +33,7 @@
 
 ## 관련 정보
 
-[14.1.4.2. 도구 프리셋 되돌리기...(Restore Tool Preset...)](./14-01-04-02-restore_tool_preset.md)
+[14.1.4.2. 도구 프리셋 되돌리기…(Restore Tool Preset…)](./14-01-04-02-restore_tool_preset.md)
 
 ***
 

@@ -18,7 +18,7 @@
 
 [16.2.1. 개요(Overview)](./16-02-01-overview.md)
 
-[16.2.2. 새 이미지...(New...)](./16-02-02-00-new.md)
+[16.2.2. 새 이미지…(New…)](./16-02-02-00-new.md)
 
 [16.2.2.1. 명령 실행하기(Activate the command)](./16-02-02-01-activating_the_command.md)
 
@@ -134,13 +134,13 @@
 
 [16.2.11.1. 명령 활성화하기(Activate command)](./16-02-11-01-activate_command.md)
 
-[16.2.12. 이미지 내보내기와 덮어쓰기(Export... and Overwrite...)](./16-02-12-export-and-overwrite.md)
+[16.2.12. 이미지 내보내기와 덮어쓰기(Export… and Overwrite…)](./16-02-12-export-and-overwrite.md)
 
 [16.2.13. 다른 이름으로 이미지 내보내기(Export as)](./16-02-13-00-export-as.md)
 
 [16.2.13.1. 명령 활성화하기(Activating the Command)](./16-02-13-01-activating_the_command.md)
 
-[16.2.14. 템플릿 만들기...(Create Template...)](./16-02-14-00-create-template.md)
+[16.2.14. 템플릿 만들기…(Create Template…)](./16-02-14-00-create-template.md)
 
 [16.2.14.1. 명령 활성화하기(Activating the Command)](./16-02-14-01-activating_the_command.md)
 
@@ -558,7 +558,7 @@
 
 [16.5.5.2.8. 기타(Other)](./16-05-05-02-08-other.md)
 
-[16.5.6. Flip & Rotate (0°)](./16-05-06-flip-rotate.md)
+[16.5.6. 뒤집기와 회전 (0°)(Flip & Rotate (0°))](./16-05-06-00-flip-rotate.md)
 
 [16.5.7. Center image in window](./16-05-07-center-image-in-window.md)
 
@@ -640,7 +640,7 @@
 
 [16.6.13. Save color profile to file](./16-06-13-save-color-profile-to-file.md)
 
-[16.6.14. Transform](./16-06-14-transform.md)
+[16.6.14. 변형(Transform)](./16-06-14-transform.md)
 
 [16.6.15. Flip horizontally flip vertically](./16-06-15-flip-horizontally-flip-vertically.md)
 

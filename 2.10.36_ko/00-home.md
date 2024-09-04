@@ -1072,9 +1072,9 @@
 
 [14.1.4. 도구 옵션(Tool options)](./14-01-04-00-tool-options.md)
 
-[14.1.4.1. 도구 프리셋 저장...(Save Tool Preset...)](./14-01-04-01-save_tool_preset.md)
+[14.1.4.1. 도구 프리셋 저장…(Save Tool Preset…)](./14-01-04-01-save_tool_preset.md)
 
-[14.1.4.2. 도구 프리셋 되돌리기...(Restore Tool Preset...)](./14-01-04-02-restore_tool_preset.md)
+[14.1.4.2. 도구 프리셋 되돌리기…(Restore Tool Preset…)](./14-01-04-02-restore_tool_preset.md)
 
 [14.1.4.3. 도구 프리셋 삭제(Delete Tool Preset)](./14-01-04-03-delete_tool_preset.md)
 
@@ -2872,7 +2872,7 @@
 
 [15.5.8.3.2. RGB(%)](./15-05-08-03-02-rgb_percentage.md)
 
-[15.5.8.3.3. RGB(0...255)](./15-05-08-03-03-rgb_0_255.md)
+[15.5.8.3.3. RGB(0…255)](./15-05-08-03-03-rgb_0_255.md)
 
 [15.5.8.3.4. HSV](./15-05-08-03-04-hsv.md)
 
@@ -2950,7 +2950,7 @@
 
 [16.2.1. 개요(Overview)](./16-02-01-overview.md)
 
-[16.2.2. 새 이미지...(New...)](./16-02-02-00-new.md)
+[16.2.2. 새 이미지…(New…)](./16-02-02-00-new.md)
 
 [16.2.2.1. 명령 실행하기(Activate the command)](./16-02-02-01-activating_the_command.md)
 
@@ -3066,13 +3066,13 @@
 
 [16.2.11.1. 명령 활성화하기(Activate command)](./16-02-11-01-activate_command.md)
 
-[16.2.12. 이미지 내보내기와 덮어쓰기(Export... and Overwrite...)](./16-02-12-export-and-overwrite.md)
+[16.2.12. 이미지 내보내기와 덮어쓰기(Export… and Overwrite…)](./16-02-12-export-and-overwrite.md)
 
 [16.2.13. 다른 이름으로 이미지 내보내기(Export as)](./16-02-13-00-export-as.md)
 
 [16.2.13.1. 명령 활성화하기(Activating the Command)](./16-02-13-01-activating_the_command.md)
 
-[16.2.14. 템플릿 만들기...(Create Template...)](./16-02-14-00-create-template.md)
+[16.2.14. 템플릿 만들기…(Create Template…)](./16-02-14-00-create-template.md)
 
 [16.2.14.1. 명령 활성화하기(Activating the Command)](./16-02-14-01-activating_the_command.md)
 
@@ -3490,7 +3490,7 @@
 
 [16.5.5.2.8. 기타(Other)](./16-05-05-02-08-other.md)
 
-[16.5.6. Flip & Rotate (0°)](./16-05-06-flip-rotate.md)
+[16.5.6. 뒤집기와 회전 (0°)(Flip & Rotate (0°))](./16-05-06-00-flip-rotate.md)
 
 [16.5.7. Center image in window](./16-05-07-center-image-in-window.md)
 
@@ -3572,7 +3572,7 @@
 
 [16.6.13. Save color profile to file](./16-06-13-save-color-profile-to-file.md)
 
-[16.6.14. Transform](./16-06-14-transform.md)
+[16.6.14. 변형(Transform)](./16-06-14-transform.md)
 
 [16.6.15. Flip horizontally flip vertically](./16-06-15-flip-horizontally-flip-vertically.md)
 
@@ -4616,11 +4616,11 @@
 
 [90.1.1.2.1. 클립보드에서(From Clipboard)](./90-01-01-02-01-from_clipboard.md)
 
-[90.1.1.2.2. 웹페이지에서...(From Webpage...)](./90-01-01-02-02-from_webpage.md)
+[90.1.1.2.2. 웹페이지에서…(From Webpage…)](./90-01-01-02-02-from_webpage.md)
 
-[90.1.1.2.3. 스캐너/카메라...(Scanner/Camera...)](./90-01-01-02-03-scanner_n_camera.md)
+[90.1.1.2.3. 스캐너/카메라…(Scanner/Camera…)](./90-01-01-02-03-scanner_n_camera.md)
 
-[90.1.1.2.4. 스크린샷...(Screenshot...)](./90-01-01-02-04-screenshot.md)
+[90.1.1.2.4. 스크린샷…(Screenshot…)](./90-01-01-02-04-screenshot.md)
 
 [90.1.1.3. 열기(Open)](./90-01-01-03-open.md)
 
@@ -4984,7 +4984,7 @@
 
 [90.1.7.14.2. 화이트 밸런스(White Balance)](./90-01-07-14-02-white_balance.md)
 
-[90.1.7.14.3. 대비 증가...(Stretch Contrast...)](./90-01-07-14-03-stretch_contrast.md)
+[90.1.7.14.3. 대비 증가…(Stretch Contrast…)](./90-01-07-14-03-stretch_contrast.md)
 
 [90.1.7.14.4. HSV 대비 증가(Stretch Contrast HSV)](./90-01-07-14-04-stretch_contrast_hsv.md)
 
@@ -4994,15 +4994,15 @@
 
 [90.1.7.15. 성분(Components)](./90-01-07-15-00-components.md)
 
-[90.1.7.15.1. 채널 혼합...(Channel Mixer...)](./90-01-07-15-01-channel_mixer.md)
+[90.1.7.15.1. 채널 혼합…(Channel Mixer…)](./90-01-07-15-01-channel_mixer.md)
 
-[90.1.7.15.2. 요소 추출...(Extract Component...)](./90-01-07-15-02-extract_component.md)
+[90.1.7.15.2. 요소 추출…(Extract Component…)](./90-01-07-15-02-extract_component.md)
 
-[90.1.7.15.3. Mono Mixer...(Mono Mixer...)](./90-01-07-15-03-mono_mixer.md)
+[90.1.7.15.3. Mono Mixer…(Mono Mixer…)](./90-01-07-15-03-mono_mixer.md)
 
-[90.1.7.15.4. 구성...(Compose...)](./90-01-07-15-04-compose.md)
+[90.1.7.15.4. 구성…(Compose…)](./90-01-07-15-04-compose.md)
 
-[90.1.7.15.5. 분해...(Decompose...)](./90-01-07-15-05-decompose.md)
+[90.1.7.15.5. 분해…(Decompose…)](./90-01-07-15-05-decompose.md)
 
 [90.1.7.15.6. 재구성(Recompose)](./90-01-07-15-06-recompose.md)
 
@@ -5010,21 +5010,21 @@
 
 [90.1.7.17. 지도(Map)](./90-01-07-17-00-map.md)
 
-[90.1.7.17.1. 색상표 재배치...(Rearrange Colormap...)](./90-01-07-17-01-rearrange_colormap.md)
+[90.1.7.17.1. 색상표 재배치…(Rearrange Colormap…)](./90-01-07-17-01-rearrange_colormap.md)
 
-[90.1.7.17.2. 색상표 설정...(Set Colormap...)](./90-01-07-17-02-set_colormap.md)
+[90.1.7.17.2. 색상표 설정…(Set Colormap…)](./90-01-07-17-02-set_colormap.md)
 
-[90.1.7.17.3. 에일리언 맵...(Alien Map...)](./90-01-07-17-03-alien_map.md)
+[90.1.7.17.3. 에일리언 맵…(Alien Map…)](./90-01-07-17-03-alien_map.md)
 
-[90.1.7.17.4. 색상 교환...(Color Exchange...)](./90-01-07-17-04-color_exchange.md)
+[90.1.7.17.4. 색상 교환…(Color Exchange…)](./90-01-07-17-04-color_exchange.md)
 
-[90.1.7.17.5. 색 전환...(Rotate Colors...)](./90-01-07-17-05-rotate_colors.md)
+[90.1.7.17.5. 색 전환…(Rotate Colors…)](./90-01-07-17-05-rotate_colors.md)
 
 [90.1.7.17.6. 그라디언트 맵(Gradient Map)](./90-01-07-17-06-gradient_map.md)
 
 [90.1.7.17.7. 팔레트 맵(Palette Map)](./90-01-07-17-07-palette_map.md)
 
-[90.1.7.17.8. 표본 색상화...(Sample Colorize...)](./90-01-07-17-08-sample_colorize.md)
+[90.1.7.17.8. 표본 색상화…(Sample Colorize…)](./90-01-07-17-08-sample_colorize.md)
 
 [90.1.7.18. 톤 대응(Tone Mapping)](./90-01-07-18-tone_mapping.md)
 
@@ -5152,53 +5152,53 @@
 
 [90.1.9.1. 흐림 처리(Blur)](./90-01-09-01-00-blur.md)
 
-[90.1.9.1.1. 포커스 흐림처리...(Focus Blur...)](./90-01-09-01-01-focus_blur.md)
+[90.1.9.1.1. 포커스 흐림처리…(Focus Blur…)](./90-01-09-01-01-focus_blur.md)
 
-[90.1.9.1.2. 가우시안 흐림처리...(Gaussian Blur...)](./90-01-09-01-02-gaussian_blur.md)
+[90.1.9.1.2. 가우시안 흐림처리…(Gaussian Blur…)](./90-01-09-01-02-gaussian_blur.md)
 
-[90.1.9.1.3. 렌즈 흐림처리...(Lens Blur...)](./90-01-09-01-03-lens_blur.md)
+[90.1.9.1.3. 렌즈 흐림처리…(Lens Blur…)](./90-01-09-01-03-lens_blur.md)
 
-[90.1.9.1.4. Mean Curvature 흐림처리...(Mean Curvature Blur...)](./90-01-09-01-04-mean_curvature_blur.md)
+[90.1.9.1.4. Mean Curvature 흐림처리…(Mean Curvature Blur…)](./90-01-09-01-04-mean_curvature_blur.md)
 
-[90.1.9.1.5. 중앙값 흐림처리...(Median Blur...)](./90-01-09-01-05-median_blur.md)
+[90.1.9.1.5. 중앙값 흐림처리…(Median Blur…)](./90-01-09-01-05-median_blur.md)
 
-[90.1.9.1.6. 픽셀화...(Pixelize...)](./90-01-09-01-06-pixelize.md)
+[90.1.9.1.6. 픽셀화…(Pixelize…)](./90-01-09-01-06-pixelize.md)
 
-[90.1.9.1.7. 일부 가우시안 흐림처리...(Selective Gaussian Blur...)](./90-01-09-01-07-selective_gaussian_blur.md)
+[90.1.9.1.7. 일부 가우시안 흐림처리…(Selective Gaussian Blur…)](./90-01-09-01-07-selective_gaussian_blur.md)
 
-[90.1.9.1.8. 변수 흐림처리...(Variable Blur...)](./90-01-09-01-08-variable_blur.md)
+[90.1.9.1.8. 변수 흐림처리…(Variable Blur…)](./90-01-09-01-08-variable_blur.md)
 
-[90.1.9.1.9. 원형 움직임 흐림처리...(Circular Motion Blur...)](./90-01-09-01-09-circular_motion_blur.md)
+[90.1.9.1.9. 원형 움직임 흐림처리…(Circular Motion Blur…)](./90-01-09-01-09-circular_motion_blur.md)
 
-[90.1.9.1.10. 선형 움직임 흐림처리...(Linear Motion Blur...)](./90-01-09-01-10-linear_motion_blur.md)
+[90.1.9.1.10. 선형 움직임 흐림처리…(Linear Motion Blur…)](./90-01-09-01-10-linear_motion_blur.md)
 
-[90.1.9.1.11. 확대 움직임 흐림처리...(Zoom Motion Blur...)](./90-01-09-01-11-zoom_motion_blur.md)
+[90.1.9.1.11. 확대 움직임 흐림처리…(Zoom Motion Blur…)](./90-01-09-01-11-zoom_motion_blur.md)
 
-[90.1.9.1.12. 타일 흐림처리...(Tileable Blur...)](./90-01-09-01-12-tileable_blur.md)
+[90.1.9.1.12. 타일 흐림처리…(Tileable Blur…)](./90-01-09-01-12-tileable_blur.md)
 
 [90.1.9.2. 보강(Enhance)](./90-01-09-02-00-enhance.md)
 
 [90.1.9.2.1. 안티 에일리어싱(Antialias)](./90-01-09-02-01-antialias.md)
 
-[90.1.9.2.2. 디인터레이스...(Deinterlace...)](./90-01-09-02-02-deinterlace.md)
+[90.1.9.2.2. 디인터레이스…(Deinterlace…)](./90-01-09-02-02-deinterlace.md)
 
-[90.1.9.2.3. 고역 통과...(High Pass...)](./90-01-09-02-03-high_pass.md)
+[90.1.9.2.3. 고역 통과…(High Pass…)](./90-01-09-02-03-high_pass.md)
 
-[90.1.9.2.4. 노이즈 감소...(Noise Reduction...)](./90-01-09-02-04-noise_reduction.md)
+[90.1.9.2.4. 노이즈 감소…(Noise Reduction…)](./90-01-09-02-04-noise_reduction.md)
 
-[90.1.9.2.5. 적목 제거...(Red Eye Removal...)](./90-01-09-02-05-red_eye_removal.md)
+[90.1.9.2.5. 적목 제거…(Red Eye Removal…)](./90-01-09-02-05-red_eye_removal.md)
 
-[90.1.9.2.6. 인접 요소 대칭...(Symmetric Nearest Neighbor...)](./90-01-09-02-06-symmetric_nearest_neighbor.md)
+[90.1.9.2.6. 인접 요소 대칭…(Symmetric Nearest Neighbor…)](./90-01-09-02-06-symmetric_nearest_neighbor.md)
 
-[90.1.9.2.7. 선명하게... - Sharpen (Unsharp Mask)...](./90-01-09-02-07-sharpen_unsharp_mask.md)
+[90.1.9.2.7. 선명하게… - Sharpen (Unsharp Mask)…](./90-01-09-02-07-sharpen_unsharp_mask.md)
 
-[90.1.9.2.8. 잡티 없애기...(Despeckle...)](./90-01-09-02-08-despeckle.md)
+[90.1.9.2.8. 잡티 없애기…(Despeckle…)](./90-01-09-02-08-despeckle.md)
 
-[90.1.9.2.9. 줄무늬 없애기...(Desprite...)](./90-01-09-02-09-desprite.md)
+[90.1.9.2.9. 줄무늬 없애기…(Desprite…)](./90-01-09-02-09-desprite.md)
 
-[90.1.9.2.10. NL 필터...(NL Filter...)](./90-01-09-02-10-nl_filter.md)
+[90.1.9.2.10. NL 필터…(NL Filter…)](./90-01-09-02-10-nl_filter.md)
 
-[90.1.9.2.11. Wavelet-decompose...(Wavelet-decompose...)](./90-01-09-02-11-wavelet_decompose.md)
+[90.1.9.2.11. Wavelet-decompose…(Wavelet-decompose…)](./90-01-09-02-11-wavelet_decompose.md)
 
 [90.1.9.3. 왜곡(Distorts)](./90-01-09-03-distorts.md)
 
@@ -5288,7 +5288,7 @@
 
 [90.1.9.16.2. 스크립트 새로 고침(Refresh Scripts)](./90-01-09-16-02-refresh_scripts.md)
 
-[90.1.9.16.3. 서버 시작...(Start Server...)](./90-01-09-16-03-start_server.md)
+[90.1.9.16.3. 서버 시작…(Start Server…)](./90-01-09-16-03-start_server.md)
 
 [90.1.10. 창(Windows)](./90-01-10-00-windows.md)
 
@@ -5390,7 +5390,7 @@
 
 [90.1.12.2. 서비스(Services)](./90-01-12-02-services.md)
 
-[90.1.12.3. 기본 설정(Settings...)](./90-01-12-03-settings.md)
+[90.1.12.3. 기본 설정(Settings…)](./90-01-12-03-settings.md)
 
 [90.1.12.4. 입력장치(Input Devices)](./90-01-12-04-input_devices.md)
 
@@ -5664,7 +5664,7 @@
 
 [90.4.3.1. 레이어 대화상자의 컨텍스트 메뉴](./90-04-0003-001-000-context_menu.md)
 
-[90.4.3.1.1. 레이어 속성 편집...(Edit Layer Attributes...)](./90-04-0003-001-001-edit_layer_attributes.md)
+[90.4.3.1.1. 레이어 속성 편집…(Edit Layer Attributes…)](./90-04-0003-001-001-edit_layer_attributes.md)
 
 [90.4.3.1.2. 혼합 영역(Blend Space)](./90-04-0003-001-002-blend_space.md)
 
@@ -5674,7 +5674,7 @@
 
 [90.4.3.1.5. 색상 태그(Color Tag)](./90-04-0003-001-005-color_tag.md)
 
-[90.4.3.1.6. 새 레이어...(New Layer...)](./90-04-0003-001-006-new_layer.md)
+[90.4.3.1.6. 새 레이어…(New Layer…)](./90-04-0003-001-006-new_layer.md)
 
 [90.4.3.1.7. 보이는 영역에서 새로 만들기(New from Visible)](./90-04-0003-001-007-new_from_visible.md)
 
@@ -5686,13 +5686,13 @@
 
 [90.4.3.1.11. 레이어 삭제(Delete Layer)](./90-04-0003-001-011-delete_layer.md)
 
-[90.4.3.1.12. 레이어 경계 크기...(Layer Boundary Size...)](./90-04-0003-001-012-layer_boundary_size.md)
+[90.4.3.1.12. 레이어 경계 크기…(Layer Boundary Size…)](./90-04-0003-001-012-layer_boundary_size.md)
 
 [90.4.3.1.13. 레이어를 이미지 크기로(Layer to Image Size)](./90-04-0003-001-013-layer_to_image_size.md)
 
-[90.4.3.1.14. 레이어 크기조정...(Scale Layer...)](./90-04-0003-001-014-scale_layer.md)
+[90.4.3.1.14. 레이어 크기조정…(Scale Layer…)](./90-04-0003-001-014-scale_layer.md)
 
-[90.4.3.1.15. 레이어 마스크 추가...(Add Layer Mask...)](./90-04-0003-001-015-add_layer_mask.md)
+[90.4.3.1.15. 레이어 마스크 추가…(Add Layer Mask…)](./90-04-0003-001-015-add_layer_mask.md)
 
 [90.4.3.1.16. 레이어 마스크 적용(Apply Layer Mask)](./90-04-0003-001-016-apply_layer_mask.md)
 
@@ -5712,7 +5712,7 @@
 
 [90.4.3.1.24. 알파를 선택 영역으로(Alpha to Selection)](./90-04-0003-001-024-alpha_to_selection.md)
 
-[90.4.3.1.25. 보이는 레이어 합치기...(Merge Visible Layers...)](./90-04-0003-001-025-merge_visible_layers.md)
+[90.4.3.1.25. 보이는 레이어 합치기…(Merge Visible Layers…)](./90-04-0003-001-025-merge_visible_layers.md)
 
 [90.4.3.1.26. 이미지 평탄화(Flatten Image)](./90-04-0003-001-026-flatten_image.md)
 
@@ -5818,9 +5818,9 @@
 
 [90.4.34. 이미지 내보내기(Export Image)](./90-04-0034-export_image.md)
 
-[90.4.35. 레이어 경계 크기(Layer Boundary Size...)](./90-04-0035-layer_to_boundary_size.md)
+[90.4.35. 레이어 경계 크기(Layer Boundary Size…)](./90-04-0035-layer_to_boundary_size.md)
 
-[90.4.36. 레이어 크기 조정(Scale Layer...)](./90-04-0036-scale_layer.md)
+[90.4.36. 레이어 크기 조정(Scale Layer…)](./90-04-0036-scale_layer.md)
 
 [90.4.37. 새 이미지 만들기(Create a New Image)](./90-04-0037-create_a_new_image.md)
 
@@ -5894,7 +5894,7 @@
 
 [90.4.68.4. 삭제(Delete)](./90-04-0068-004-delete.md)
 
-[90.4.68.5. 텍스트 파일 열기...(Open Text File...)](./90-04-0068-005-open_text_file.md)
+[90.4.68.5. 텍스트 파일 열기…(Open Text File…)](./90-04-0068-005-open_text_file.md)
 
 [90.4.68.6. 지우기(Clear)](./90-04-0068-006-clear.md)
 

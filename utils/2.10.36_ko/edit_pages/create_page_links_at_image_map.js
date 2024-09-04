@@ -175,7 +175,7 @@ const doAsyncJob = async () => {
     const subTitleMap = subTitles.reduce((acc, v) => {
       const { title, file } = v
       return {
-        ...acc,
+        …acc,
         [file]: title,
       }
     }, {})

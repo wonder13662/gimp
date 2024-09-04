@@ -1,11 +1,11 @@
-# 90.1.1.2.2. 웹페이지에서...(From Webpage...)
+# 90.1.1.2.2. 웹페이지에서…(From Webpage…)
 ## 운영체제(OS)와 언어설정 조건에 따른 모습
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.1.2.3. 스캐너/카메라...(Scanner/Camera...)](./90-01-01-02-03-scanner_n_camera.md)
+[➡️ 다음: 90.1.1.2.3. 스캐너/카메라…(Scanner/Camera…)](./90-01-01-02-03-scanner_n_camera.md)
 
 [⬅️ 이전: 90.1.1.2.1. 클립보드에서(From Clipboard)](./90-01-01-02-01-from_clipboard.md)
 

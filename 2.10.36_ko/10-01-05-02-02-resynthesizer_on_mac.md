@@ -35,7 +35,7 @@ GIMP(김프)를 재시작하면, Resynthesizer 플러그인이 설치된 것을 
 1. GIMP(김프)를 재시작합니다.
 2. GIMP(김프)에서 제거할 대상이 있는 이미지를 엽니다.
 3. 제거할 대상을 선택 도구를 이용해 선택 영역으로 만듭니다.
-4. [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `필터` → `보강` → `Heal selection...`을 클릭합니다.
+4. [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `필터` → `보강` → `Heal selection…`을 클릭합니다.
 5. `python_fu_heal_selection` 대화상자가 열립니다. 각 입력항목의 기능은 아래와 같습니다.
 |항목|기능|
 |---|---|

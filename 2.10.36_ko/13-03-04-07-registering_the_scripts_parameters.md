@@ -5,7 +5,7 @@
 
 ```scheme
 (script-fu-register
-  ...
+  …
   SF-STRING      "Text"          "Text Box"   ;프롬프트의 사용자 입력 문자열 변수(a string variable)
   SF-FONT        "Font"          "Charter"    ;프롬프트의 사용자 입력 글꼴(a font variable)
   SF-ADJUSTMENT  "Font size"     '(50 1 1000 1 10 0 1)

@@ -44,7 +44,7 @@
 
 [16.5.5.2.8. 기타(Other)](./16-05-05-02-08-other.md)
 
-[16.5.6. Flip & Rotate (0°)](./16-05-06-flip-rotate.md)
+[16.5.6. 뒤집기와 회전 (0°)(Flip & Rotate (0°))](./16-05-06-00-flip-rotate.md)
 
 [16.5.7. Center image in window](./16-05-07-center-image-in-window.md)
 
