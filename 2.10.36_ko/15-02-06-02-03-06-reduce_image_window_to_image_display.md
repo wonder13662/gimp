@@ -12,13 +12,13 @@
 #### [영상 90.4.9.a101.2.3.6.1. `내비게이션` 대화상자 → `이미지 화면 크기에 맞게 이미지 창 크기를 줄임` (Windows) (우리말)](./90-04-0009-navigation.md#90-04-09-a101-02-03-06-01)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/bef97979-b781-45ed-bc9d-a85b6b9efa76"></video>
 
-또한 [`이미지 메뉴 바` → `보기` → `창 크기를 이미지에 맞춤`](./16-05-08-shrink-wrap.md)도 같은 동작을 합니다.
+또한 [`이미지 메뉴 바` → `보기` → `창 크기를 이미지에 맞춤`](./16-05-08-00-shrink-wrap.md)도 같은 동작을 합니다.
 
 ***
 
 ## 관련 정보
 
-[16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)](./16-05-08-shrink-wrap.md)
+[16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)](./16-05-08-00-shrink-wrap.md)
 
 ***
 

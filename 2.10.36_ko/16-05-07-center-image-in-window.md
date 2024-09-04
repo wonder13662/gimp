@@ -31,7 +31,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)](./16-05-08-shrink-wrap.md)
+[➡️ 다음: 16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)](./16-05-08-00-shrink-wrap.md)
 
 [⬅️ 이전: 16.5.6.8. 다른 회전 각도…(Other rotation angle…)](./16-05-06-08-other_rotation_angle.md)
 

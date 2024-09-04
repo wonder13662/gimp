@@ -562,7 +562,7 @@
 
 [16.5.7. 이미지를 창의 가운데로 옮김(Center Image in Window)](./16-05-07-center-image-in-window.md)
 
-[16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)](./16-05-08-shrink-wrap.md)
+[16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)](./16-05-08-00-shrink-wrap.md)
 
 [16.5.9. Full screen](./16-05-09-full-screen.md)
 

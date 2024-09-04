@@ -1577,7 +1577,7 @@ module.exports = {
         '16.5.7. 이미지를 창의 가운데로 옮김(Center Image in Window)'
       ],
       [
-        '16-05-08-shrink-wrap.md', 
+        '16-05-08-00-shrink-wrap.md', 
         '16.5.8. Shrink wrap'
       ],
       [

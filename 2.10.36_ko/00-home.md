@@ -3510,7 +3510,9 @@
 
 [16.5.7. 이미지를 창의 가운데로 옮김(Center Image in Window)](./16-05-07-center-image-in-window.md)
 
-[16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)](./16-05-08-shrink-wrap.md)
+[16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)](./16-05-08-00-shrink-wrap.md)
+
+[16.5.8.1. 명령 활성화하기(Activating the Command)](./16-05-08-01-activating_the_command.md)
 
 [16.5.9. Full screen](./16-05-09-full-screen.md)
 
@@ -7171,6 +7173,12 @@
 [90.10.77.1. 키보드 단축키](./90-10-77-01-00-keyboard_shortcut.md)
 
 [90.10.77.1.1. 키보드 단축키: Shift(⇧) + `J`](./90-10-77-01-01-shift_j.md)
+
+[90.10.78. `이미지 메뉴 바` → `보기` → `창 크기를 이미지에 맞춤`](./90-10-78-00-menu_view_shrink_wrap.md)
+
+[90.10.78.1. 키보드 단축키](./90-10-78-01-00-keyboard_shortcut.md)
+
+[90.10.78.1.1. 키보드 단축키: Ctrl(⌘) + `J`](./90-10-78-01-01-ctrl_j.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
