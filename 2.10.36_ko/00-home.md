@@ -3492,6 +3492,22 @@
 
 [16.5.6. 뒤집기와 회전 (0°)(Flip & Rotate (0°))](./16-05-06-00-flip-rotate.md)
 
+[16.5.6.1. 뒤집기/회전 초기화(Reset Flip & Rotate)](./16-05-06-01-reset_flip_n_rotate.md)
+
+[16.5.6.2. 가로 뒤집기와 세로 뒤집기(“Flip Horizontally” and “Flip Vertically”)](./16-05-06-02-flip_horizontally_n_flip_vertically.md)
+
+[16.5.6.3. 시계방향으로 15도 회전(Rotate 15° clockwise)](./16-05-06-03-rotate_15_clockwise.md)
+
+[16.5.6.4. 반시계방향으로 15도 회전(Rotate 15° counter-clockwise)](./16-05-06-04-rotate_15_counter_clockwise.md)
+
+[16.5.6.5. 시계방향으로 90도 회전(Rotate 90° clockwise)](./16-05-06-05-rotate_90_clockwise.md)
+
+[16.5.6.6. 반시계방향으로 90도 회전(Rotate 90° counter-clockwise)](./16-05-06-06-rotate_90_counter_clockwise.md)
+
+[16.5.6.7. 180도 회전(Rotate 180°)](./16-05-06-07-rotate_180.md)
+
+[16.5.6.8. 다른 회전 각도…(Other rotation angle…)](./16-05-06-08-other_rotation_angle.md)
+
 [16.5.7. Center image in window](./16-05-07-center-image-in-window.md)
 
 [16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)](./16-05-08-shrink-wrap.md)
@@ -6128,6 +6144,8 @@
 
 [90.4.174. 확대 배율(Zoom Ratio)](./90-04-0174-zoom_ratio.md)
 
+[90.4.175. 회전 보기(Rotate View)](./90-04-0175-rotate_view.md)
+
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
 [90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
@@ -7141,6 +7159,12 @@
 [90.10.75.1.3. 키보드 단축키: Shift(⇧) + `+`](./90-10-75-01-03-zoom_in.md)
 
 [90.10.75.1.4. 키보드 단축키: Ctrl(⌘) + Shift(⇧) + `J`](./90-10-75-01-04-ctrl_shift_j.md)
+
+[90.10.76. `이미지 메뉴 바` → `보기` → `뒤집기/회전`](./90-10-76-00-menu_view_flip_n_rotate.md)
+
+[90.10.76.1. 키보드 단축키](./90-10-76-01-00-keyboard_shortcut.md)
+
+[90.10.76.1.1. 키보드 단축키: `!`](./90-10-76-01-01-exclaimer.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

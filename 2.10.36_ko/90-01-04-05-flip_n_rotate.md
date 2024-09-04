@@ -7,6 +7,15 @@
 
 [16.5.6. 뒤집기와 회전 (0°)(Flip & Rotate (0°)) - 그림 90.1.4.5.a101](./16-05-06-00-flip-rotate.md#90-01-04-05-a101)
 
+<a id="90-01-04-05-a101-01"></a>
+
+#### 영상 90.1.4.5.a101.1. `이미지 메뉴 바` → `보기` → `뒤집기/회전` → `시계방향으로 15도 회전` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/11367e91-73e2-4217-9fea-258873beea46"></video>
+
+[16.5.6. 뒤집기와 회전 (0°)(Flip & Rotate (0°)) - 영상 90.1.4.5.a101.1](./16-05-06-00-flip-rotate.md#90-01-04-05-a101-01)
+
+[16.5.6.3. 시계방향으로 15도 회전(Rotate 15° clockwise) - 영상 90.1.4.5.a101.1](./16-05-06-03-rotate_15_clockwise.md#90-01-04-05-a101-01)
+
 <a id="90-01-04-05-a102"></a>
 
 #### 그림 90.1.4.5.a102. `이미지 메뉴 바` → `보기` → `뒤집기/회전` (Windows) (영어)
@@ -29,6 +38,13 @@
 
 [16.5.6.1. 뒤집기/회전 초기화(Reset Flip & Rotate) - 그림 90.1.4.5.a111](./16-05-06-01-reset_flip_n_rotate.md#90-01-04-05-a111)
 
+<a id="90-01-04-05-a111-01"></a>
+
+#### 영상 90.1.4.5.a111.1. `이미지 메뉴 바` → `보기` → `뒤집기/회전` → `뒤집기/회전 초기화` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/05f4538b-187f-4b47-a1a6-445c7826f73f"></video>
+
+[16.5.6.1. 뒤집기/회전 초기화(Reset Flip & Rotate) - 영상 90.1.4.5.a111.1](./16-05-06-01-reset_flip_n_rotate.md#90-01-04-05-a111-01)
+
 <a id="90-01-04-05-a112-01"></a>
 
 #### 그림 90.1.4.5.a112.1. `이미지 메뉴 바` → `보기` → `뒤집기/회전` → `가로 뒤집기` (Windows) (우리말)
@@ -36,12 +52,26 @@
 
 [16.5.6.2. 가로 뒤집기와 세로 뒤집기(“Flip Horizontally” and “Flip Vertically”) - 그림 90.1.4.5.a112.1](./16-05-06-02-flip_horizontally_n_flip_vertically.md#90-01-04-05-a112-01)
 
+<a id="90-01-04-05-a112-01-01"></a>
+
+#### 영상 90.1.4.5.a112.1.1. `이미지 메뉴 바` → `보기` → `뒤집기/회전` → `가로 뒤집기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/82f60f9a-0d74-429f-b4bc-05d5b235c5b0"></video>
+
+[16.5.6.2. 가로 뒤집기와 세로 뒤집기(“Flip Horizontally” and “Flip Vertically”) - 영상 90.1.4.5.a112.1.1](./16-05-06-02-flip_horizontally_n_flip_vertically.md#90-01-04-05-a112-01-01)
+
 <a id="90-01-04-05-a112-02"></a>
 
 #### 그림 90.1.4.5.a112.2. `이미지 메뉴 바` → `보기` → `뒤집기/회전` → `세로 뒤집기` (Windows) (우리말)
 <img width="322" height="351" alt="90-01-04-05-a112-02" src="https://github.com/user-attachments/assets/9f9818f5-cbd1-4eba-bf3a-6991d4e1b9cf" />
 
 [16.5.6.2. 가로 뒤집기와 세로 뒤집기(“Flip Horizontally” and “Flip Vertically”) - 그림 90.1.4.5.a112.2](./16-05-06-02-flip_horizontally_n_flip_vertically.md#90-01-04-05-a112-02)
+
+<a id="90-01-04-05-a112-02-01"></a>
+
+#### 영상 90.1.4.5.a112.2.1. `이미지 메뉴 바` → `보기` → `뒤집기/회전` → `세로 뒤집기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/5c6379d4-c69d-427a-b67f-ab6aa7c8da02"></video>
+
+[16.5.6.2. 가로 뒤집기와 세로 뒤집기(“Flip Horizontally” and “Flip Vertically”) - 영상 90.1.4.5.a112.2.1](./16-05-06-02-flip_horizontally_n_flip_vertically.md#90-01-04-05-a112-02-01)
 
 <a id="90-01-04-05-a113"></a>
 
@@ -57,12 +87,26 @@
 
 [16.5.6.4. 반시계방향으로 15도 회전(Rotate 15° counter-clockwise) - 그림 90.1.4.5.a114](./16-05-06-04-rotate_15_counter_clockwise.md#90-01-04-05-a114)
 
+<a id="90-01-04-05-a114-01"></a>
+
+#### 영상 90.1.4.5.a114.1. `이미지 메뉴 바` → `보기` → `뒤집기/회전` → `반시계방향으로 15도 회전` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/5ced849c-e54e-4fae-9d52-e7cf506b1006"></video>
+
+[16.5.6.4. 반시계방향으로 15도 회전(Rotate 15° counter-clockwise) - 영상 90.1.4.5.a114.1](./16-05-06-04-rotate_15_counter_clockwise.md#90-01-04-05-a114-01)
+
 <a id="90-01-04-05-a115"></a>
 
 #### 그림 90.1.4.5.a115. `이미지 메뉴 바` → `보기` → `뒤집기/회전` → `시계방향으로 90도 회전` (Windows) (우리말)
 <img width="322" height="351" alt="90-01-04-05-a115" src="https://github.com/user-attachments/assets/a815f4f5-d09e-4e64-afed-42cb207b93ff" />
 
 [16.5.6.5. 시계방향으로 90도 회전(Rotate 90° clockwise) - 그림 90.1.4.5.a115](./16-05-06-05-rotate_90_clockwise.md#90-01-04-05-a115)
+
+<a id="90-01-04-05-a115-01"></a>
+
+#### 영상 90.1.4.5.a115.1. `이미지 메뉴 바` → `보기` → `뒤집기/회전` → `시계방향으로 90도 회전` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/0f0801a9-8855-4b45-a88f-f1b39a21cf64"></video>
+
+[16.5.6.5. 시계방향으로 90도 회전(Rotate 90° clockwise) - 영상 90.1.4.5.a115.1](./16-05-06-05-rotate_90_clockwise.md#90-01-04-05-a115-01)
 
 <a id="90-01-04-05-a116"></a>
 
@@ -71,12 +115,26 @@
 
 [16.5.6.6. 반시계방향으로 90도 회전(Rotate 90° counter-clockwise) - 그림 90.1.4.5.a116](./16-05-06-06-rotate_90_counter_clockwise.md#90-01-04-05-a116)
 
+<a id="90-01-04-05-a116-01"></a>
+
+#### 영상 90.1.4.5.a116.1. `이미지 메뉴 바` → `보기` → `뒤집기/회전` → `반시계방향으로 90도 회전` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/db3e7147-a91a-409d-ba3a-ec764ce9b5be"></video>
+
+[16.5.6.6. 반시계방향으로 90도 회전(Rotate 90° counter-clockwise) - 영상 90.1.4.5.a116.1](./16-05-06-06-rotate_90_counter_clockwise.md#90-01-04-05-a116-01)
+
 <a id="90-01-04-05-a117"></a>
 
 #### 그림 90.1.4.5.a117. `이미지 메뉴 바` → `보기` → `뒤집기/회전` → `180도 회전` (Windows) (우리말)
 <img width="322" height="351" alt="90-01-04-05-a117" src="https://github.com/user-attachments/assets/6730ea0e-3518-45bc-8e13-19e702113403" />
 
 [16.5.6.7. 180도 회전(Rotate 180°) - 그림 90.1.4.5.a117](./16-05-06-07-rotate_180.md#90-01-04-05-a117)
+
+<a id="90-01-04-05-a117-01"></a>
+
+#### 영상 90.1.4.5.a117.1. `이미지 메뉴 바` → `보기` → `뒤집기/회전` → `180도 회전` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7b382c4d-46c7-463d-9236-e20bb6f7c934"></video>
+
+[16.5.6.7. 180도 회전(Rotate 180°) - 영상 90.1.4.5.a117.1](./16-05-06-07-rotate_180.md#90-01-04-05-a117-01)
 
 <a id="90-01-04-05-a118"></a>
 

@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.175. 회전 보기(Rotate View)](./90-04-0175-rotate_view.md)
 
 [⬅️ 이전: 90.4.173. Script-Fu: Rounded Rectangle](./90-04-0173-script_fu_rounded_rectangle.md)
 
