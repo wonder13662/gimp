@@ -612,7 +612,7 @@
 
 [16.5.12. 색상 관리(Color Management)](./16-05-12-color-management.md)
 
-[16.5.13. Show selection](./16-05-13-show-selection.md)
+[16.5.13. 선택 영역 보이기(Show selection)](./16-05-13-show-selection.md)
 
 [16.5.14. Show layer boundary](./16-05-14-show-layer-boundary.md)
 

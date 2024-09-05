@@ -20,7 +20,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.5.13. Show selection](./16-05-13-show-selection.md)
+[➡️ 다음: 16.5.13. 선택 영역 보이기(Show selection)](./16-05-13-show-selection.md)
 
 [⬅️ 이전: 16.5.11.6. 경고 표시(Clip Warning)](./16-05-11-06-clip_warning.md)
 

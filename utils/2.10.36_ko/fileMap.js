@@ -1598,7 +1598,7 @@ module.exports = {
       ],
       [
         '16-05-13-show-selection.md', 
-        '16.5.13. Show selection'
+        '16.5.13. 선택 영역 보이기(Show selection)'
       ],
       [
         '16-05-14-show-layer-boundary.md', 

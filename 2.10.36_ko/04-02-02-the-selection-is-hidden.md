@@ -11,20 +11,20 @@
 
 <a id="90-01-04-12-a101"></a>
 
-#### [그림 90.1.4.12.a101. `보기`  →  `선택 영역 보이기`](./90-01-04-12-show_selection.md#90-01-04-12-a101)
-![90-01-04-12-a101](https://github.com/wonder13662/gimp/assets/15767104/bb794f64-e5fb-449c-85b2-1cddac0ea296)
+#### [그림 90.1.4.12.a101. `이미지 메뉴 바` → `보기` → `선택 영역 보이기`](./90-01-04-12-show_selection.md#90-01-04-12-a101)
+<img width="940" height="687" alt="90-01-04-12-a101" src="https://github.com/user-attachments/assets/e8f36624-78c3-4d2e-8f53-fbb1ed704600" />
 
 <a id="90-01-04-12-a102"></a>
 
-#### [영상 90.1.4.12.a102. '이미지 메뉴 바'의 '선택 영역 보이기' 메뉴 토글로 선택 영역 가리기/보이기](./90-01-04-12-show_selection.md#90-01-04-12-a102)
-<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/e1234cf2-0f8d-465b-baac-b732be5af7a4"></video>
+#### [영상 90.1.4.12.a102. `이미지 메뉴 바` → `보기` → `선택 영역 보이기`: 선택 영역 가리기/보이기 (Windows) (우리말)](./90-01-04-12-show_selection.md#90-01-04-12-a102)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/fa9189e1-9b18-4f59-9917-8fc6dec8790f"></video>
 
-또는 단축키 Ctrl + T(Windows) 또는 ⌘ + T(Mac)로 해제할 수 있습니다.
+또는 키보드 단축키: Ctrl(⌘) + `T`로 해제할 수 있습니다.
 
-<a id="90-01-04-12-a103"></a>
+<a id="90-10-80-01-01-a1"></a>
 
-#### [영상 90.1.4.12.a103. 단축키(Ctrl + T(Windows) or ⌘ + T(Mac))로 선택 영역 가리기/보이기](./90-01-04-12-show_selection.md#90-01-04-12-a103)
-<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a2dd03ee-ee24-421e-9cde-7d54c44a313a"></video>
+#### 영상 90.10.80.1.1.a1. `이미지 메뉴 바` → `보기` → `선택 영역 보이기`: 키보드 단축키: Ctrl(⌘) + `T` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/5e7ba5ec-691b-4303-9185-cbd2c1a24f81"></video>
 
 ***
 

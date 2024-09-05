@@ -3544,7 +3544,7 @@
 
 [16.5.12. 색상 관리(Color Management)](./16-05-12-color-management.md)
 
-[16.5.13. Show selection](./16-05-13-show-selection.md)
+[16.5.13. 선택 영역 보이기(Show selection)](./16-05-13-show-selection.md)
 
 [16.5.14. Show layer boundary](./16-05-14-show-layer-boundary.md)
 
@@ -7209,6 +7209,12 @@
 [90.10.79.1. 키보드 단축키](./90-10-79-01-00-keyboard_shortcut.md)
 
 [90.10.79.1.1. 키보드 단축키: `F11`](./90-10-79-01-01-f11.md)
+
+[90.10.80. `이미지 메뉴 바` → `보기` → `선택 영역 보이기`](./90-10-80-00-menu_view_show_selection.md)
+
+[90.10.80.1. 키보드 단축키](./90-10-80-01-00-keyboard_shortcut.md)
+
+[90.10.80.1.1. 키보드 단축키: Ctrl(⌘) + `T`](./90-10-80-01-01-ctrl_t.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
