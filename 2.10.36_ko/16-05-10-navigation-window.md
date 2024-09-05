@@ -46,7 +46,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.5.11. Display filters](./16-05-11-display-filters.md)
+[➡️ 다음: 16.5.11. 필터 보이기(Display Filters)](./16-05-11-00-display-filters.md)
 
 [⬅️ 이전: 16.5.9.1. 명령 활성화하기(Activating the Command)](./16-05-09-01-activating_the_command.md)
 

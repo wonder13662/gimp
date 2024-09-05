@@ -3520,7 +3520,27 @@
 
 [16.5.10. 내비게이션 창(Navigation Window)](./16-05-10-navigation-window.md)
 
-[16.5.11. Display filters](./16-05-11-display-filters.md)
+[16.5.11. 필터 보이기(Display Filters)](./16-05-11-00-display-filters.md)
+
+[16.5.11.1. 명령 활성화하기(Activating the Command)](./16-05-11-01-activating_the_command.md)
+
+[16.5.11.2. `화면 색상 표시 필터` 대화상자 설명(Description of the “Display Filters” Dialog)](./16-05-11-02-description_of_the_display_filter_dialog.md)
+
+[16.5.11.3. 색맹 보기(Color Deficient Vision)](./16-05-11-03-00-color_deficient_vision.md)
+
+[16.5.11.3.1. 옵션(Options)](./16-05-11-03-01-00-options.md)
+
+[16.5.11.3.1.1. 제1 색맹(적색맹) - Protanopia(insensitivity to red)](./16-05-11-03-01-01-protanopia.md)
+
+[16.5.11.3.1.2. 제2 색맹(녹색맹) - Deuteranopia(insensitivity to green)](./16-05-11-03-01-02-deuteranopia.md)
+
+[16.5.11.3.1.3. 제3 색맹(청색맹) - Tritanopia(insensitivity to blue)](./16-05-11-03-01-03-tritanopia.md)
+
+[16.5.11.4. 감마(Gamma)](./16-05-11-04-gamma.md)
+
+[16.5.11.5. 휘도(Contrast)](./16-05-11-05-contrast.md)
+
+[16.5.11.6. 경고 표시(Clip Warning)](./16-05-11-06-clip_warning.md)
 
 [16.5.12. Color management](./16-05-12-color-management.md)
 
@@ -6149,6 +6169,8 @@
 [90.4.174. 확대 배율(Zoom Ratio)](./90-04-0174-zoom_ratio.md)
 
 [90.4.175. 회전 보기(Rotate View)](./90-04-0175-rotate_view.md)
+
+[90.4.176. 화면 색상 표시 필터(Color Display Filters)](./90-04-0176-color_display_filters.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

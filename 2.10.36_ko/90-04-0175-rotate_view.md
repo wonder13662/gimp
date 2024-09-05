@@ -33,7 +33,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.176. 화면 색상 표시 필터(Color Display Filters)](./90-04-0176-color_display_filters.md)
 
 [⬅️ 이전: 90.4.174. 확대 배율(Zoom Ratio)](./90-04-0174-zoom_ratio.md)
 

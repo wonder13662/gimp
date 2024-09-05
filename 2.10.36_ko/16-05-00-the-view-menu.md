@@ -46,15 +46,55 @@
 
 [16.5.6. 뒤집기와 회전 (0°)(Flip & Rotate (0°))](./16-05-06-00-flip-rotate.md)
 
+[16.5.6.1. 뒤집기/회전 초기화(Reset Flip & Rotate)](./16-05-06-01-reset_flip_n_rotate.md)
+
+[16.5.6.2. 가로 뒤집기와 세로 뒤집기(“Flip Horizontally” and “Flip Vertically”)](./16-05-06-02-flip_horizontally_n_flip_vertically.md)
+
+[16.5.6.3. 시계방향으로 15도 회전(Rotate 15° clockwise)](./16-05-06-03-rotate_15_clockwise.md)
+
+[16.5.6.4. 반시계방향으로 15도 회전(Rotate 15° counter-clockwise)](./16-05-06-04-rotate_15_counter_clockwise.md)
+
+[16.5.6.5. 시계방향으로 90도 회전(Rotate 90° clockwise)](./16-05-06-05-rotate_90_clockwise.md)
+
+[16.5.6.6. 반시계방향으로 90도 회전(Rotate 90° counter-clockwise)](./16-05-06-06-rotate_90_counter_clockwise.md)
+
+[16.5.6.7. 180도 회전(Rotate 180°)](./16-05-06-07-rotate_180.md)
+
+[16.5.6.8. 다른 회전 각도…(Other rotation angle…)](./16-05-06-08-other_rotation_angle.md)
+
 [16.5.7. 이미지를 창의 가운데로 옮김(Center Image in Window)](./16-05-07-center-image-in-window.md)
 
 [16.5.8. 창 크기를 이미지에 맞춤(Shrink Wrap)](./16-05-08-00-shrink-wrap.md)
 
+[16.5.8.1. 명령 활성화하기(Activating the Command)](./16-05-08-01-activating_the_command.md)
+
 [16.5.9. 전체화면(Fullscreen)](./16-05-09-00-full-screen.md)
+
+[16.5.9.1. 명령 활성화하기(Activating the Command)](./16-05-09-01-activating_the_command.md)
 
 [16.5.10. 내비게이션 창(Navigation Window)](./16-05-10-navigation-window.md)
 
-[16.5.11. Display filters](./16-05-11-display-filters.md)
+[16.5.11. 필터 보이기(Display Filters)](./16-05-11-00-display-filters.md)
+
+[16.5.11.1. 명령 활성화하기(Activating the Command)](./16-05-11-01-activating_the_command.md)
+
+[16.5.11.2. `화면 색상 표시 필터` 대화상자 설명(Description of the “Display Filters” Dialog)](./16-05-11-02-description_of_the_display_filter_dialog.md)
+
+[16.5.11.3. 색맹 보기(Color Deficient Vision)](./16-05-11-03-00-color_deficient_vision.md)
+
+[16.5.11.3.1. 옵션(Options)](./16-05-11-03-01-00-options.md)
+
+[16.5.11.3.1.1. 제1 색맹(적색맹) - Protanopia(insensitivity to red)](./16-05-11-03-01-01-protanopia.md)
+
+[16.5.11.3.1.2. 제2 색맹(녹색맹) - Deuteranopia(insensitivity to green)](./16-05-11-03-01-02-deuteranopia.md)
+
+[16.5.11.3.1.3. 제3 색맹(청색맹) - Tritanopia(insensitivity to blue)](./16-05-11-03-01-03-tritanopia.md)
+
+[16.5.11.4. 감마(Gamma)](./16-05-11-04-gamma.md)
+
+[16.5.11.5. 휘도(Contrast)](./16-05-11-05-contrast.md)
+
+[16.5.11.6. 경고 표시(Clip Warning)](./16-05-11-06-clip_warning.md)
 
 [16.5.12. Color management](./16-05-12-color-management.md)
 
