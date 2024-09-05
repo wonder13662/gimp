@@ -1594,7 +1594,7 @@ module.exports = {
       ],
       [
         '16-05-12-color-management.md', 
-        '16.5.12. Color management'
+        '16.5.12. 색상 관리(Color Management)'
       ],
       [
         '16-05-13-show-selection.md', 

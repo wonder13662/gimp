@@ -45,7 +45,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.5.12. Color management](./16-05-12-color-management.md)
+[➡️ 다음: 16.5.12. 색상 관리(Color Management)](./16-05-12-color-management.md)
 
 [⬅️ 이전: 16.5.11.5. 휘도(Contrast)](./16-05-11-05-contrast.md)
 

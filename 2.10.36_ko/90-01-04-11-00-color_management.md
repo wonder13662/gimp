@@ -1,10 +1,38 @@
 # 90.1.4.11. 색상 관리(Color Management)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.1.4.3.a1. 보기 - 색상 관리 (Windows)
-<img width="1080" alt="그림 90.1.4.3.a1. 보기 - 색상 관리 (Windows)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6a7ceb2b-d28f-4432-85f7-69a848cbc755">
 
-#### 그림 90.1.4.3.a2. 보기 - 색상 관리 (Mac)
-<img width="1080" alt="그림 90.1.4.3.a2. 보기 - 색상 관리 (Mac)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/28788020-2e21-4286-a999-403d5c367637">
+<a id="90-01-04-11-a101"></a>
+
+#### 그림 90.1.4.11.a101. `이미지 메뉴 바` → `보기` → `색상 관리` (Windows) (우리말)
+<img width="766" height="979" alt="90-01-04-11-a101" src="https://github.com/user-attachments/assets/b4a30418-5b84-4567-8532-532df3f53bdc" />
+
+[16.5.12. 색상 관리(Color Management) - 그림 90.1.4.11.a101](./16-05-12-color-management.md#90-01-04-11-a101)
+
+<a id="90-01-04-11-a101-01"></a>
+
+#### 그림 90.1.4.11.a101.1. `이미지 메뉴 바` → `보기` → `색상 관리`: 하위 메뉴 (Windows) (우리말)
+<img width="364" height="351" alt="90-01-04-11-a101-01" src="https://github.com/user-attachments/assets/8165d63c-fe3c-4972-9f23-bb6c67aed064" />
+
+[16.5.12. 색상 관리(Color Management) - 그림 90.1.4.11.a101.1](./16-05-12-color-management.md#90-01-04-11-a101-01)
+
+<a id="90-01-04-11-a102"></a>
+
+#### 그림 90.1.4.11.a102. `이미지 메뉴 바` → `보기` → `색상 관리` (Windows) (영어)
+<img width="743" height="979" alt="90-01-04-11-a102" src="https://github.com/user-attachments/assets/598e78d9-1e49-4c3f-977c-12fd340bf704" />
+
+<a id="90-01-04-11-a102-01"></a>
+
+#### 그림 90.1.4.11.a102.1. `이미지 메뉴 바` → `보기` → `색상 관리`: 하위 메뉴 (Windows) (영어)
+<img width="364" height="351" alt="90-01-04-11-a102-01" src="https://github.com/user-attachments/assets/7f48cc76-d15e-49a7-b4ce-6e058fece84a" />
+
+<a id="90-01-04-11-a103"></a>
+
+#### 그림 90.1.4.11.a103. `이미지 메뉴 바` → `보기` → `색상 관리` (Mac) (우리말)
+<img width="495" height="662" alt="90-01-04-11-a103" src="https://github.com/user-attachments/assets/52d69da6-f53c-47e7-bfb1-c0cabc3ab9a3" />
+
+<a id="90-01-04-11-a104"></a>
+
+#### 그림 90.1.4.11.a104. `이미지 메뉴 바` → `보기` → `색상 관리` (Mac) (영어)
+<img width="495" height="684" alt="90-01-04-11-a104" src="https://github.com/user-attachments/assets/e739f964-724c-40e9-8f15-d98f79cb8b5e" />
 
 ***
 

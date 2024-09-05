@@ -3542,7 +3542,7 @@
 
 [16.5.11.6. 경고 표시(Clip Warning)](./16-05-11-06-clip_warning.md)
 
-[16.5.12. Color management](./16-05-12-color-management.md)
+[16.5.12. 색상 관리(Color Management)](./16-05-12-color-management.md)
 
 [16.5.13. Show selection](./16-05-13-show-selection.md)
 
