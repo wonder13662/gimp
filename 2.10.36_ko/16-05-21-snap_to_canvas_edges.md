@@ -28,7 +28,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.5.22. Snap to active path](./16-05-22-snap-to-active-path.md)
+[➡️ 다음: 16.5.22. 활성 경로에 맞추기(Snap to Active Path)](./16-05-22-snap-to-active-path.md)
 
 [⬅️ 이전: 16.5.20. 격자에 맞추기(Snap to grid)](./16-05-20-snap-to-grid.md)
 

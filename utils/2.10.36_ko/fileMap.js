@@ -1635,7 +1635,7 @@ module.exports = {
       ],
       [
         '16-05-22-snap-to-active-path.md', 
-        '16.5.22. Snap to active path'
+        '16.5.22. 활성 경로에 맞추기(Snap to Active Path)'
       ],
       [
         '16-05-23-padding-color.md', 

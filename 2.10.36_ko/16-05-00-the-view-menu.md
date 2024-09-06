@@ -116,7 +116,7 @@
 
 [16.5.21. 캔버스 경계에 맞추기(Snap to Canvas Edges)](./16-05-21-snap_to_canvas_edges.md)
 
-[16.5.22. Snap to active path](./16-05-22-snap-to-active-path.md)
+[16.5.22. 활성 경로에 맞추기(Snap to Active Path)](./16-05-22-snap-to-active-path.md)
 
 [16.5.23. Padding color](./16-05-23-padding-color.md)
 
