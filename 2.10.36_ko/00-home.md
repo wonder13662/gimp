@@ -3556,7 +3556,7 @@
 
 [16.5.18. 표본점 보이기(Show sample points)](./16-05-18-show_sample_points.md)
 
-[16.5.19. Snap to guides](./16-05-19-snap-to-guides.md)
+[16.5.19. 안내선에 맞추기(Snap to Guides)](./16-05-19-snap-to-guides.md)
 
 [16.5.20. 격자에 맞추기(Snap to grid)](./16-05-20-snap-to-grid.md)
 

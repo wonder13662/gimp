@@ -24,7 +24,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.5.19. Snap to guides](./16-05-19-snap-to-guides.md)
+[➡️ 다음: 16.5.19. 안내선에 맞추기(Snap to Guides)](./16-05-19-snap-to-guides.md)
 
 [⬅️ 이전: 16.5.17. 격자 보이기(Show Grid)](./16-05-17-show-grid.md)
 

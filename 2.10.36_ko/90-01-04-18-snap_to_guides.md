@@ -3,15 +3,19 @@
 
 <a id="90-01-04-18-a1"></a>
 
-#### 그림 90.1.4.18.a1. `보기` → `안내선에 맞추기`
-![90-01-04-18-a1](https://github.com/wonder13662/gimp/assets/15767104/e32db5e9-985c-4f89-9031-921a85522eed)
+#### 그림 90.1.4.18.a1. `이미지 메뉴 바` → `보기` → `안내선에 맞추기`
+<img width="940" height="687" alt="90-01-04-18-a1" src="https://github.com/user-attachments/assets/ac014219-1ef6-4c83-b811-9c212e24dc1f" />
+
+[16.5.19. 안내선에 맞추기(Snap to Guides) - 그림 90.1.4.18.a1](./16-05-19-snap-to-guides.md#90-01-04-18-a1)
 
 <a id="90-01-04-18-a11"></a>
 
-#### 영상 90.1.4.18.a11. `보기` → `안내선에 맞추기`: `잘라내기` 도구를 안내선에 맞춰 사용 (Windows) (우리말)
+#### 영상 90.1.4.18.a11. `이미지 메뉴 바` → `보기` → `안내선에 맞추기`: `잘라내기` 도구를 안내선에 맞춰 사용 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/b053efc9-cad7-4cd0-ab7f-c2f06a93b45c"></video>
 
 [14.4.4. 잘라내기(Crop) - 영상 90.1.4.18.a11](./14-04-04-00-crop.md#90-01-04-18-a11)
+
+[16.5.19. 안내선에 맞추기(Snap to Guides) - 영상 90.1.4.18.a11](./16-05-19-snap-to-guides.md#90-01-04-18-a11)
 
 ***
 

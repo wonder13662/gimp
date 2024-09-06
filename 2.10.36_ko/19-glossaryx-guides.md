@@ -17,3 +17,5 @@
 [원본: 안내선(Guides)](https://docs.gimp.org/2.10/ko/glossary.html#glossary-guides)
 
 [12.2.2. 안내선(Guides)](./12-02-02-guides.md)
+
+[16.5.19. 안내선에 맞추기(Snap to Guides)](./16-05-19-snap-to-guides.md)

@@ -1623,7 +1623,7 @@ module.exports = {
       ],
       [
         '16-05-19-snap-to-guides.md', 
-        '16.5.19. Snap to guides'
+        '16.5.19. 안내선에 맞추기(Snap to Guides)'
       ],
       [
         '16-05-20-snap-to-grid.md', 
