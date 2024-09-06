@@ -1,6 +1,18 @@
 # 90.1.4.20. 캔버스 경계에 맞추기(Snap to Canvas Edges)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+
+<a id="90-01-04-20-a1"></a>
+
+#### 그림 90.1.4.20.a1. `이미지 메뉴 바` → `보기` → `캔버스 경계에 맞추기`
+<img width="940" height="687" alt="90-01-04-20-a1" src="https://github.com/user-attachments/assets/ef2bac8d-c777-4065-8486-8ed774877687" />
+
+[16.5.21. 캔버스 경계에 맞추기(Snap to Canvas Edges) - 그림 90.1.4.20.a1](./16-05-21-snap_to_canvas_edges.md#90-01-04-20-a1)
+
+<a id="90-01-04-20-a11"></a>
+
+#### 영상 90.1.4.20.a11. `이미지 메뉴 바` → `보기` → `캔버스 경계에 맞추기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/90a355bb-ea76-4a8e-9e08-27f89a900347"></video>
+
+[16.5.21. 캔버스 경계에 맞추기(Snap to Canvas Edges) - 영상 90.1.4.20.a11](./16-05-21-snap_to_canvas_edges.md#90-01-04-20-a11)
 
 ***
 

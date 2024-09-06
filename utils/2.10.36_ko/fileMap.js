@@ -1630,8 +1630,8 @@ module.exports = {
         '16.5.20. 격자에 맞추기(Snap to grid)'
       ],
       [
-        '16-05-21-snap-to-canvas.md', 
-        '16.5.21. Snap to canvas'
+        '16-05-21-snap_to_canvas_edges.md', 
+        '16.5.21. 캔버스 경계에 맞추기(Snap to Canvas Edges)'
       ],
       [
         '16-05-22-snap-to-active-path.md', 

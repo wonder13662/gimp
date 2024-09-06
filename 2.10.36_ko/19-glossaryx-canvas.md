@@ -18,3 +18,5 @@
 [16.5.3. 모두 보기(Show All)](./16-05-03-00-show-all.md)
 
 [16.5.15. 캔버스 경계 보이기(Show Canvas Boundary)](./16-05-15-show-canvas-boundary.md)
+
+[16.5.21. 캔버스 경계에 맞추기(Snap to Canvas Edges)](./16-05-21-snap_to_canvas_edges.md)

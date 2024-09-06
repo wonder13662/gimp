@@ -27,6 +27,10 @@
 
 [12.2.1. 이미지 격자(The image grid)](./12-02-01-the-image-grid.md)
 
+[16.5.20. 격자에 맞추기(Snap to grid)](./16-05-20-snap-to-grid.md)
+
+[19. 용어집 - 격자(Grid)](./19-glossaryx-grid.md)
+
 ***
 
 ## 다른 페이지로 가기
