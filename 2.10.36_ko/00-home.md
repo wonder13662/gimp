@@ -3550,7 +3550,7 @@
 
 [16.5.15. 캔버스 경계 보이기(Show Canvas Boundary)](./16-05-15-show-canvas-boundary.md)
 
-[16.5.16. Show guides](./16-05-16-show-guides.md)
+[16.5.16. 안내선 보이기(Show Guides)](./16-05-16-show-guides.md)
 
 [16.5.17. Show grid](./16-05-17-show-grid.md)
 
@@ -3640,7 +3640,7 @@
 
 [16.6.27. Align visible layers](./16-06-27-align-visible-layers.md)
 
-[16.6.28. Guides](./16-06-28-guides.md)
+[16.6.28. 안내선(Guides)](./16-06-28-guides.md)
 
 [16.6.29. New guide](./16-06-29-new-guide.md)
 
@@ -4462,6 +4462,8 @@
 
 [19. 용어집 - GTK](./19-glossaryx-gtk.md)
 
+[19. 용어집 - 안내선(Guides)](./19-glossaryx-guides.md)
+
 [19. 용어집 - 헤일로(Halo)](./19-glossaryx-halo.md)
 
 [19. 용어집 - 힌팅(Hinting)](./19-glossaryx-hinting.md)
@@ -4571,6 +4573,8 @@
 [19. 용어집 - `.scm`](./19-glossaryx-scm.md)
 
 [19. 용어집 - 구획(Segment)](./19-glossaryx-segment.md)
+
+[19. 용어집 - 선택(Selection)](./19-glossaryx-selection.md)
 
 [19. 용어집 - 선택 모드(Selection Mode)](./19-glossaryx-selection_mode-dotted_mode.md)
 
@@ -7215,6 +7219,12 @@
 [90.10.80.1. 키보드 단축키](./90-10-80-01-00-keyboard_shortcut.md)
 
 [90.10.80.1.1. 키보드 단축키: Ctrl(⌘) + `T`](./90-10-80-01-01-ctrl_t.md)
+
+[90.10.81. `이미지 메뉴 바` → `보기` → `안내선 보이기`](./90-10-81-00-menu_view_show_guides.md)
+
+[90.10.81.1. 키보드 단축키](./90-10-81-01-00-keyboard_shortcut.md)
+
+[90.10.81.1.1. 키보드 단축키: Ctrl(⌘) + `T`](./90-10-81-01-01-ctrl_shift_t.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

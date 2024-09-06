@@ -27,7 +27,7 @@
 ## [16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-merge_visible_layers.md)
 ## [16.6.26. 이미지 평탄화하기(Flatten image)](./16-06-26-flatten_image.md)
 ## [16.6.27. Align visible layers](./16-06-27-align-visible-layers.md)
-## [16.6.28. Guides](./16-06-28-guides.md)
+## [16.6.28. 안내선(Guides)](./16-06-28-guides.md)
 ## [16.6.29. New guide](./16-06-29-new-guide.md)
 ## [16.6.30. New guide (by percent)](./16-06-30-new-guide-by-percent.md)
 ## [16.6.31. New guide from selection](./16-06-31-new-guide-from-selection.md)

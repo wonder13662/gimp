@@ -104,7 +104,7 @@
 
 [16.5.15. 캔버스 경계 보이기(Show Canvas Boundary)](./16-05-15-show-canvas-boundary.md)
 
-[16.5.16. Show guides](./16-05-16-show-guides.md)
+[16.5.16. 안내선 보이기(Show Guides)](./16-05-16-show-guides.md)
 
 [16.5.17. Show grid](./16-05-17-show-grid.md)
 

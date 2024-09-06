@@ -1611,7 +1611,7 @@ module.exports = {
       ],
       [
         '16-05-16-show-guides.md', 
-        '16.5.16. Show guides'
+        '16.5.16. 안내선 보이기(Show Guides)'
       ],
       [
         '16-05-17-show-grid.md', 
@@ -1773,7 +1773,7 @@ module.exports = {
       ],
       [
         '16-06-28-guides.md', 
-        '16.6.28. Guides'
+        '16.6.28. 안내선(Guides)'
       ],
       [
         '16-06-29-new-guide.md', 
