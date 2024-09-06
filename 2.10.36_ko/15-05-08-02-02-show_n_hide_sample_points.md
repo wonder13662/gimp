@@ -6,7 +6,7 @@
 <a id="90-01-04-17-a101"></a>
 
 #### [그림 90.1.4.17.a101. `이미지 메뉴 바` → `보기` → `표본점 보이기`](./90-01-04-17-show_sample_points.md#90-01-04-17-a101)
-<img width="980" height="688" alt="90-01-04-17-a101" src="https://github.com/user-attachments/assets/b1f3c123-7fb9-4b80-8196-2dbfd81a712a" />
+<img width="940" height="687" alt="90-01-04-17-a101" src="https://github.com/user-attachments/assets/8b425d62-8392-488c-9e9b-6b25437a2e79" />
 
 <a id="90-01-04-17-a102"></a>
 
