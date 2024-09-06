@@ -102,7 +102,7 @@
 
 [16.5.14. 레이어 경계 보이기(Show Layer Boundary)](./16-05-14-show-layer-boundary.md)
 
-[16.5.15. Show canvas boundary](./16-05-15-show-canvas-boundary.md)
+[16.5.15. 캔버스 경계 보이기(Show Canvas Boundary)](./16-05-15-show-canvas-boundary.md)
 
 [16.5.16. Show guides](./16-05-16-show-guides.md)
 

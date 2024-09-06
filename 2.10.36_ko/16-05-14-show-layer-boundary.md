@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.5.15. Show canvas boundary](./16-05-15-show-canvas-boundary.md)
+[➡️ 다음: 16.5.15. 캔버스 경계 보이기(Show Canvas Boundary)](./16-05-15-show-canvas-boundary.md)
 
 [⬅️ 이전: 16.5.13. 선택 영역 보이기(Show selection)](./16-05-13-show-selection.md)
 

@@ -1607,7 +1607,7 @@ module.exports = {
       ],
       [
         '16-05-15-show-canvas-boundary.md', 
-        '16.5.15. Show canvas boundary'
+        '16.5.15. 캔버스 경계 보이기(Show Canvas Boundary)'
       ],
       [
         '16-05-16-show-guides.md', 
