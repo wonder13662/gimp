@@ -1615,7 +1615,7 @@ module.exports = {
       ],
       [
         '16-05-17-show-grid.md', 
-        '16.5.17. Show grid'
+        '16.5.17. 격자 보이기(Show Grid)'
       ],
       [
         '16-05-18-show_sample_points.md', 
@@ -1627,7 +1627,7 @@ module.exports = {
       ],
       [
         '16-05-20-snap-to-grid.md', 
-        '16.5.20. Snap to grid'
+        '16.5.20. 격자에 맞추기(Snap to grid)'
       ],
       [
         '16-05-21-snap-to-canvas.md', 
@@ -1793,7 +1793,7 @@ module.exports = {
       ],
       [
         '16-06-33-configure-grid.md', 
-        '16.6.33. Configure grid'
+        '16.6.33. 격자 설정…(Configure grid…)'
       ],
       [
         '16-06-34-image-properties.md', 

@@ -41,7 +41,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.5.17. Show grid](./16-05-17-show-grid.md)
+[➡️ 다음: 16.5.17. 격자 보이기(Show Grid)](./16-05-17-show-grid.md)
 
 [⬅️ 이전: 16.5.15. 캔버스 경계 보이기(Show Canvas Boundary)](./16-05-15-show-canvas-boundary.md)
 

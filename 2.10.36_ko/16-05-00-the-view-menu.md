@@ -106,13 +106,13 @@
 
 [16.5.16. 안내선 보이기(Show Guides)](./16-05-16-show-guides.md)
 
-[16.5.17. Show grid](./16-05-17-show-grid.md)
+[16.5.17. 격자 보이기(Show Grid)](./16-05-17-show-grid.md)
 
 [16.5.18. 표본점 보이기(Show sample points)](./16-05-18-show_sample_points.md)
 
 [16.5.19. Snap to guides](./16-05-19-snap-to-guides.md)
 
-[16.5.20. Snap to grid](./16-05-20-snap-to-grid.md)
+[16.5.20. 격자에 맞추기(Snap to grid)](./16-05-20-snap-to-grid.md)
 
 [16.5.21. Snap to canvas](./16-05-21-snap-to-canvas.md)
 
