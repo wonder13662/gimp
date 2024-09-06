@@ -100,7 +100,7 @@
 
 [16.5.13. 선택 영역 보이기(Show selection)](./16-05-13-show-selection.md)
 
-[16.5.14. Show layer boundary](./16-05-14-show-layer-boundary.md)
+[16.5.14. 레이어 경계 보이기(Show Layer Boundary)](./16-05-14-show-layer-boundary.md)
 
 [16.5.15. Show canvas boundary](./16-05-15-show-canvas-boundary.md)
 

@@ -1602,7 +1602,7 @@ module.exports = {
       ],
       [
         '16-05-14-show-layer-boundary.md', 
-        '16.5.14. Show layer boundary',
+        '16.5.14. 레이어 경계 보이기(Show Layer Boundary)',
         '16.5.14. 레이어 경계 보이기',
       ],
       [

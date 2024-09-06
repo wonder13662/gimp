@@ -35,7 +35,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.5.14. Show layer boundary](./16-05-14-show-layer-boundary.md)
+[➡️ 다음: 16.5.14. 레이어 경계 보이기(Show Layer Boundary)](./16-05-14-show-layer-boundary.md)
 
 [⬅️ 이전: 16.5.12. 색상 관리(Color Management)](./16-05-12-color-management.md)
 
