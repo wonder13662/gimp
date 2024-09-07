@@ -33,7 +33,7 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0e175518-d699-4e51-9241-5d711a51cf24"></video>
 
 ## 2. 캔버스 채우기를 "모두 보기" 모드로 유지하기(Keep canvas padding in "Show All" mode)
-[이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [`보기` → `모두 보기(Show All)`](./16-05-03-00-show-all.md) 메뉴를 클릭하면, 캔버스 바깥쪽의 픽셀을 볼 수 있습니다. 
+[이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 [`보기` → `모두 보기(Show All)`](./16-05-03-00-show_all.md) 메뉴를 클릭하면, 캔버스 바깥쪽의 픽셀을 볼 수 있습니다. 
 
 이 상태에서 `캔버스 채우기를 "모두 보기" 모드로 유지하기` 옵션이 체크가 되어있지 않다면, 캔버스의 바깥영역은 체커보드 패턴으로 채워집니다. 
 

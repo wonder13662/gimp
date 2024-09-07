@@ -7,7 +7,7 @@
 
 `캔버스 경계 보이기(Show Canvas Boundary)` 메뉴는 기본적으로 비활성 상태입니다.
 
-[`이미지 메뉴 바` → `보기` → `모두 보기`](./16-05-03-00-show-all.md)가 활성화되어야 `캔버스 경계 보이기(Show Canvas Boundary)` 메뉴가 활성화 상태로 바뀝니다.
+[`이미지 메뉴 바` → `보기` → `모두 보기`](./16-05-03-00-show_all.md)가 활성화되어야 `캔버스 경계 보이기(Show Canvas Boundary)` 메뉴가 활성화 상태로 바뀝니다.
 
 `캔버스 경계 보이기(Show Canvas Boundary)` 메뉴가 활성화되면, [캔버스](./19-glossaryx-canvas.md) 경계는 빨간색 점선으로 표시됩니다.
 
@@ -32,7 +32,7 @@
 
 [3.2.4.13. 이미지 (Image Display)](./03-02-04-13-image-display.md)
 
-[16.5.3. 모두 보기(Show All)](./16-05-03-00-show-all.md)
+[16.5.3. 모두 보기(Show All)](./16-05-03-00-show_all.md)
 
 ***
 

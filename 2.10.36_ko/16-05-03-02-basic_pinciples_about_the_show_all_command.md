@@ -58,7 +58,7 @@
 
 [⬅️ 이전: 16.5.3.1. 명령 활성화하기(Activating the Command)](./16-05-03-01-activating_the_command.md)
 
-[⬆️ 위: 16.5.3. 모두 보기(Show All)](./16-05-03-00-show-all.md)
+[⬆️ 위: 16.5.3. 모두 보기(Show All)](./16-05-03-00-show_all.md)
 
 [⬆️ 위: 16.5. 보기 메뉴(The view menu)](./16-05-00-the-view-menu.md)
 

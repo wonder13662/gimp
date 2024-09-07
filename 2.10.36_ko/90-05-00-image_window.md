@@ -207,10 +207,8 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.176. 화면 색상 표시 필터(Color Display Filters)](./90-04-0176-color_display_filters.md)
+[⬅️ 이전: 90.4.177. 캔버스 채우기 색상 지정(Set Canvas Padding Color)](./90-04-0177-set_canvas_padding_color.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 
 [🏠 홈](./00-home.md)
-
-[원문]()

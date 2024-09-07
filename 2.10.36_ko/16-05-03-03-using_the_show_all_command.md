@@ -28,7 +28,7 @@
 
 [⬅️ 이전: 16.5.3.2. `모두 보기` 명령의 기본 원칙(Basic principles about the “Show All” Command)](./16-05-03-02-basic_pinciples_about_the_show_all_command.md)
 
-[⬆️ 위: 16.5.3. 모두 보기(Show All)](./16-05-03-00-show-all.md)
+[⬆️ 위: 16.5.3. 모두 보기(Show All)](./16-05-03-00-show_all.md)
 
 [⬆️ 위: 16.5. 보기 메뉴(The view menu)](./16-05-00-the-view-menu.md)
 

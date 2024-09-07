@@ -22,7 +22,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.5.23. Padding color](./16-05-23-padding-color.md)
+[➡️ 다음: 16.5.23. 색 채우기(Padding Color)](./16-05-23-00-padding-color.md)
 
 [⬅️ 이전: 16.5.21. 캔버스 경계에 맞추기(Snap to Canvas Edges)](./16-05-21-snap_to_canvas_edges.md)
 

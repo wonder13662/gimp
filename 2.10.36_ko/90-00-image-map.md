@@ -1565,6 +1565,8 @@
 
 [90.4.176. 화면 색상 표시 필터(Color Display Filters)](./90-04-0176-color_display_filters.md)
 
+[90.4.177. 캔버스 채우기 색상 지정(Set Canvas Padding Color)](./90-04-0177-set_canvas_padding_color.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

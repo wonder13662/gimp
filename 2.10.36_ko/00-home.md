@@ -3456,7 +3456,7 @@
 
 [16.5.2.1. 명령 활성화하기(Activating the Command)](./16-05-02-01-activating_the_command.md)
 
-[16.5.3. 모두 보기(Show All)](./16-05-03-00-show-all.md)
+[16.5.3. 모두 보기(Show All)](./16-05-03-00-show_all.md)
 
 [16.5.3.1. 명령 활성화하기(Activating the Command)](./16-05-03-01-activating_the_command.md)
 
@@ -3564,7 +3564,21 @@
 
 [16.5.22. 활성 경로에 맞추기(Snap to Active Path)](./16-05-22-snap-to-active-path.md)
 
-[16.5.23. Padding color](./16-05-23-padding-color.md)
+[16.5.23. 색 채우기(Padding Color)](./16-05-23-00-padding-color.md)
+
+[16.5.23.1. 색 채우기 옵션(“Padding Color” Options)](./16-05-23-01-00-padding_color_options.md)
+
+[16.5.23.1.1. 테마에서(From Theme)](./16-05-23-01-01-from_theme.md)
+
+[16.5.23.1.2. 체크무늬의 밝은 색상(Light Check Color)](./16-05-23-01-02-light_check_color.md)
+
+[16.5.23.1.3. 체크무늬의 어두운 색상(Dark Check Color)](./16-05-23-01-03-dark_check_color.md)
+
+[16.5.23.1.4. 사용자 색상…(Custom Color…)](./16-05-23-01-04-custom_color.md)
+
+[16.5.23.1.5. 모두 보기 모드의 채우기 유지하기(Keep Padding in “Show All” Mode)](./16-05-23-01-05-keep_padding_in_show_all_mode.md)
+
+[16.5.23.1.6. 환경 설정을 따름(As in Preferences)](./16-05-23-01-06-as_in_preferences.md)
 
 [16.5.24. Show menubar](./16-05-24-show-menubar.md)
 
@@ -4460,6 +4474,8 @@
 
 [19. 용어집 - 팔레트 파일 확장자 - `.gpl`](./19-glossaryx-gpl.md)
 
+[19. 용어집 - 격자(Grid)](./19-glossaryx-grid.md)
+
 [19. 용어집 - GTK](./19-glossaryx-gtk.md)
 
 [19. 용어집 - 안내선(Guides)](./19-glossaryx-guides.md)
@@ -4567,6 +4583,8 @@
 [19. 용어집 - 리소스 교환 파일 형식(RIFF - Resource Interchange File Format)](./19-glossaryx-riff.md)
 
 [19. 용어집 - 표본 합치기(Sample Merged)](./19-glossaryx-sample_merged.md)
+
+[19. 용어집 - 표본점(Sample Point)](./19-glossaryx-sample_point.md)
 
 [19. 용어집 - 채도(Saturation)](./19-glossaryx-saturation.md)
 
@@ -6175,6 +6193,8 @@
 [90.4.175. 회전 보기(Rotate View)](./90-04-0175-rotate_view.md)
 
 [90.4.176. 화면 색상 표시 필터(Color Display Filters)](./90-04-0176-color_display_filters.md)
+
+[90.4.177. 캔버스 채우기 색상 지정(Set Canvas Padding Color)](./90-04-0177-set_canvas_padding_color.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

@@ -1556,7 +1556,7 @@ module.exports = {
         '16.5.2. 새 창으로 보기(New View)'
       ],
       [
-        '16-05-03-00-show-all.md', 
+        '16-05-03-00-show_all.md', 
         '16.5.3. 모두 보기(Show All)'
       ],
       [
@@ -1638,8 +1638,8 @@ module.exports = {
         '16.5.22. 활성 경로에 맞추기(Snap to Active Path)'
       ],
       [
-        '16-05-23-padding-color.md', 
-        '16.5.23. Padding color'
+        '16-05-23-00-padding-color.md', 
+        '16.5.23. 색 채우기(Padding Color)'
       ],
       [
         '16-05-24-show-menubar.md', 
