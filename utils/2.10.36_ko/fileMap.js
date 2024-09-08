@@ -1647,7 +1647,7 @@ module.exports = {
       ],
       [
         '16-05-25-show-rulers.md', 
-        '16.5.25. Show rulers'
+        '16.5.25. 눈금자 보이기(Show Rulers)'
       ],
       [
         '16-05-26-show-scrollbars.md', 

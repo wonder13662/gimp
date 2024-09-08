@@ -3582,7 +3582,7 @@
 
 [16.5.24. 메뉴 표시줄 보이기(Show Menubar)](./16-05-24-show-menubar.md)
 
-[16.5.25. Show rulers](./16-05-25-show-rulers.md)
+[16.5.25. 눈금자 보이기(Show Rulers)](./16-05-25-show-rulers.md)
 
 [16.5.26. Show scrollbars](./16-05-26-show-scrollbars.md)
 
@@ -7245,6 +7245,12 @@
 [90.10.81.1. 키보드 단축키](./90-10-81-01-00-keyboard_shortcut.md)
 
 [90.10.81.1.1. 키보드 단축키: Ctrl(⌘) + `T`](./90-10-81-01-01-ctrl_shift_t.md)
+
+[90.10.82. `이미지 메뉴 바` → `보기` → `눈금자 보이기`](./90-10-82-00-menu_view_show_rulers.md)
+
+[90.10.82.1. 키보드 단축키](./90-10-82-01-00-keyboard_shortcut.md)
+
+[90.10.82.1.1. 키보드 단축키: Ctrl(⌘) + Shift(⇧) + `R`](./90-10-82-01-01-ctrl_shift_r.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
