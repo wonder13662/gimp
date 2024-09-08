@@ -1659,11 +1659,11 @@ module.exports = {
       ],
       [
         '16-06-00-the-image-menu.md', 
-        '16.6. The "Image" menu'
+        '16.6. 이미지 메뉴(The "Image" menu)'
       ],
       [
         '16-06-01-overview.md', 
-        '16.6.1. Overview'
+        '16.6.1. 이미지 메뉴 개요(Overview)'
       ],
       [
         '16-06-02-duplicate.md', 

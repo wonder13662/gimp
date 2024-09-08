@@ -1,6 +1,1 @@
-# 16.6.1. Overview
-
-### [Home](./00-home.md)
-### [Parent: 16.6. The "Image" menu](./16-06-00-the-image-menu.md)
-### [Prev: 16.5.27. 상태표시줄 보이기(Show statusbar)](./16-05-27-show-statusbar.md)
-### [Next: 16.6.2. Duplicate](./16-06-02-duplicate.md)
+# 16.6.1. 이미지 메뉴 개요(Overview)

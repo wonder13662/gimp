@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.6. The "Image" menu](./16-06-00-the-image-menu.md)
+[➡️ 다음: 16.6. 이미지 메뉴(The "Image" menu)](./16-06-00-the-image-menu.md)
 
 [⬅️ 이전: 16.5.26. 스크롤 막대 표시(Show Scrollbars)](./16-05-26-show_scrollbars.md)
 
