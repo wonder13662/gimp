@@ -22,7 +22,7 @@ const doAsyncJob = async () => {
     // 1-1. 시작 페이지 이름
     // const head = '90-10-81-01-01-ctrl_shift_t.md'
     // const head = '90-04-0176-color_display_filters.md'
-    const head = '16-05-25-show-rulers.md'
+    const head = '16-05-26-show_scrollbars.md'
     // const head = '16-05-00-the-view-menu.md'
     // const head = '16-00-menus.md'
     // 1-2. 종료 페이지 이름

@@ -41,9 +41,9 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.5.26. Show scrollbars](./16-05-26-show-scrollbars.md)
+[➡️ 다음: 16.5.26. 스크롤 막대 표시(Show Scrollbars)](./16-05-26-show_scrollbars.md)
 
-[⬅️ 이전: 16.5.24. 메뉴 표시줄 보이기(Show Menubar)](./16-05-24-show-menubar.md)
+[⬅️ 이전: 16.5.24. 메뉴 표시줄 보이기(Show Menubar)](./16-05-24-show_menubar.md)
 
 [⬆️ 위: 16.5. 보기 메뉴(The view menu)](./16-05-00-the-view-menu.md)
 

@@ -16,7 +16,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.5.24. 메뉴 표시줄 보이기(Show Menubar)](./16-05-24-show-menubar.md)
+[➡️ 다음: 16.5.24. 메뉴 표시줄 보이기(Show Menubar)](./16-05-24-show_menubar.md)
 
 [⬅️ 이전: 16.5.23.1.5. 모두 보기 모드의 채우기 유지하기(Keep Padding in “Show All” Mode)](./16-05-23-01-05-keep_padding_in_show_all_mode.md)
 

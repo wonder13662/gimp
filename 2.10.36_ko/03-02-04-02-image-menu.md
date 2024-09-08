@@ -74,7 +74,7 @@
 
 ## 관련 정보
 
-[16.5.24. 메뉴 표시줄 보이기(Show Menubar)](./16-05-24-show-menubar.md)
+[16.5.24. 메뉴 표시줄 보이기(Show Menubar)](./16-05-24-show_menubar.md)
 
 ***
 
