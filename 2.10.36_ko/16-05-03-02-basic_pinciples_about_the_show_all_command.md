@@ -23,7 +23,7 @@
 <a id="90-01-04-02-a102"></a>
 
 #### [그림 90.1.4.2.a102. `이미지 메뉴 바` → `보기` → `모두 보기`: 옵션 켬(ON)](./90-01-04-02-show_all.md#90-01-04-02-a102)
-<img width="" height="" alt="90-01-04-02-a102" src="" />
+<img width="932" height="584" alt="90-01-04-02-a102" src="https://github.com/user-attachments/assets/eed9dc01-ad0d-4527-b439-d138560766c9" />
 
 `모두 보기` 옵션이 켜졌을 때, 레이어의 크기가 [캔버스](./19-glossaryx-canvas.md)보다 크다면, 캔버스 바깥의 모든 픽셀이 보여집니다.
 
