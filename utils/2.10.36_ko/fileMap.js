@@ -1643,7 +1643,7 @@ module.exports = {
       ],
       [
         '16-05-24-show-menubar.md', 
-        '16.5.24. Show menubar'
+        '16.5.24. 메뉴 표시줄 보이기(Show Menubar)'
       ],
       [
         '16-05-25-show-rulers.md', 

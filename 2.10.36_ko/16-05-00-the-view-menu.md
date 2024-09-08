@@ -134,7 +134,7 @@
 
 [16.5.23.1.6. 환경 설정을 따름(As in Preferences)](./16-05-23-01-06-as_in_preferences.md)
 
-[16.5.24. Show menubar](./16-05-24-show-menubar.md)
+[16.5.24. 메뉴 표시줄 보이기(Show Menubar)](./16-05-24-show-menubar.md)
 
 [16.5.25. Show rulers](./16-05-25-show-rulers.md)
 

@@ -20,11 +20,11 @@ const {
 const doAsyncJob = async () => {
   try {
     // 1-1. 시작 페이지 이름
-    // const head = '16-05-23-00-padding-color.md'
+    const head = '16-05-24-show-menubar.md'
     // const head = '90-04-0176-color_display_filters.md'
     // const head = '90-10-00-keyboard_shortcut'
     // const head = '16-05-00-the-view-menu.md'
-    const head = '16-00-menus.md'
+    // const head = '16-00-menus.md'
     // 1-2. 종료 페이지 이름
     // const tail = '16-05-23-01-06-as_in_preferences.md'
     // const tail = '90-05-00-image_window.md'
