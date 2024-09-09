@@ -22,7 +22,7 @@ GIMP(김프)는 세가자의 컬러 모드를 사용합니다.[RGB(A), 그레이
 <a id="90-04-32-a101"></a>
 
 #### [그림 90.4.32.a101. `이미지를 색인 색상으로 변환` 대화상자 (Windows) (우리말)](./90-04-0032-convert_image_to_indexed_colors.md#90-04-32-a101)
-![90-04-32-a101](https://github.com/wonder13662/gimp/assets/15767104/309f2a53-e806-4d69-bb89-22799ea04368)
+<img width="658" height="566" alt="90-04-32-a101" src="https://github.com/wonder13662/gimp/assets/15767104/309f2a53-e806-4d69-bb89-22799ea04368" />
 
 [다른 운영체제와 언어의 `이미지를 색인 색상으로 변환` 대화상자 확인하기](./90-04-0032-convert_image_to_indexed_colors.md#90-04-32-a102)
 

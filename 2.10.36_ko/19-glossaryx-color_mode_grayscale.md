@@ -8,4 +8,4 @@
 
 [5.1. 이미지 타입 - 1-2. 그레이스케일(grayscale)](./05-01-image-types.md#05-01-s1-02)
 
-[](./16-06-05-grayscale-mode.md)
+[](./16-06-05-00-grayscale-mode.md)

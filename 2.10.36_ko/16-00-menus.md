@@ -666,9 +666,27 @@
 
 [16.6.4. RGB 모드(RGB mode)](./16-06-04-rgb-mode.md)
 
-[16.6.5. 그레이스케일 모드(Grayscale mode)](./16-06-05-grayscale-mode.md)
+[16.6.5. 그레이스케일 모드(Grayscale mode)](./16-06-05-00-grayscale-mode.md)
 
-[16.6.6. 인덱스 모드(Indexed mode)](./16-06-06-indexed-mode.md)
+[16.6.5.1. 명령 활성화하기(Activating the Command)](./16-06-05-01-activating_the_command.md)
+
+[16.6.6. 인덱스 모드(Indexed mode)](./16-06-06-00-indexed-mode.md)
+
+[16.6.6.1. 명령 활성화하기(Activating the Command)](./16-06-06-01-activating_the_command.md)
+
+[16.6.6.2. "이미지를 색인 색상으로 변환" 대화상자(The “Convert Image to Indexed Colors” dialog)](./16-06-06-02-00-the_convert_image_to_indexed_colors_dialog.md)
+
+[16.6.6.2.1. 색상표 옵션(Colormap options)](./16-06-06-02-01-00-colormap_options.md)
+
+[16.6.6.2.1.1. 최적의 팔레트 만들기(Generate optimum palette)](./16-06-06-02-01-01-generate_optimum_palette.md)
+
+[16.6.6.2.1.2. 웹 최적화 팔레트 사용하기(Use web-optimized palette)](./16-06-06-02-01-02-use_web_optimized_palette.md)
+
+[16.6.6.2.1.3. 흑백 팔레트 사용하기(Use black and white (1-bit) palette)](./16-06-06-02-01-03-use_black_n_white_palette.md)
+
+[16.6.6.2.1.4. 사용자 정의 팔레트 사용하기(Use custom palette)](./16-06-06-02-01-04-use_custom_palette.md)
+
+[16.6.6.2.2. 디더링 옵션(Dithering options)](./16-06-06-02-02-dithering_options.md)
 
 [16.6.7. 정밀도(Precision)](./16-06-07-00-precision.md)
 
@@ -983,24 +1001,6 @@
 [16.8.52. Colorcube analysis](./16-08-52-colorcube-analysis.md)
 
 [16.8.53. Export histogram](./16-08-53-export-histogram.md)
-
-[16.8.54. Smooth palette](./16-08-54-smooth-palette.md)
-
-[16.8.55. Threshold](./16-08-55-threshold.md)
-
-[16.8.56. 색상화(Colorize)](./16-08-56-colorize.md)
-
-[16.8.57. Posterize](./16-08-57-posterize.md)
-
-[16.8.58. Color to alpha](./16-08-58-color-to-alpha.md)
-
-[16.8.59. Dither](./16-08-59-dither.md)
-
-[16.8.60. RGB clip](./16-08-60-rgb-clip.md)
-
-[16.8.61. Hot](./16-08-61-hot.md)
-
-[16.9. The "Tools" menu](./16-09-00-the-tools-menu.md)
 
 ***
 
