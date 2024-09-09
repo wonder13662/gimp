@@ -1,6 +1,7 @@
 # 17.3.2. Focus blur
 
-### [Home](./00-home.md)
-### [Parent: 17.3. 흐림 필터(Blur filters)](./17-03-00-blur-filters.md)
-### [Prev: 17.3.1. Introduction](./17-03-01-introduction.md)
-### [Next: 17.3.3. Gaussian blur](./17-03-03-gaussian-blur.md)
+***
+
+## 관련 정보
+
+[How to Create a Glass Sphere Effect in GIMP (Lensball): Focus Blur - Davies Media Design](https://youtu.be/SA6h6z9JAc8?si=wN53lmsv9hUPSn-o&t=844)

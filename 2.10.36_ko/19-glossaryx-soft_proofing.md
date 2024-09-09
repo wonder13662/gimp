@@ -7,5 +7,5 @@
 
 ## 관련 정보
 
-[출력과 웹 이미지를 위한 Soft Proofing 기능 | 어도비 라이트룸](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=infopub&logNo=220441453497)
+[출력과 웹 이미지를 위한 Soft Proofing 기능: 어도비 라이트룸](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=infopub&logNo=220441453497)
 
