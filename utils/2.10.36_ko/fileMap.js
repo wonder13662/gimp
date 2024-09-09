@@ -1676,7 +1676,7 @@ module.exports = {
       ],
       [
         '16-06-04-rgb-mode.md', 
-        '16.6.4. RGB mode'
+        '16.6.4. RGB 모드(RGB mode)'
       ],
       [
         '16-06-05-grayscale-mode.md', 

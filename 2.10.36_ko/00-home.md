@@ -3596,7 +3596,7 @@
 
 [16.6.3. 모드(Mode)](./16-06-03-mode.md)
 
-[16.6.4. RGB mode](./16-06-04-rgb-mode.md)
+[16.6.4. RGB 모드(RGB mode)](./16-06-04-rgb-mode.md)
 
 [16.6.5. 그레이스케일 모드(Grayscale mode)](./16-06-05-grayscale-mode.md)
 
