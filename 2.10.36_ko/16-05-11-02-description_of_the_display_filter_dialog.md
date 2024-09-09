@@ -5,6 +5,8 @@
 #### [그림 90.4.176.a101. `화면 색상 표시 필터` 대화상자 (Windows) (우리말)](./90-04-0176-color_display_filters.md#90-04-176-a101)
 <img width="472" height="322" alt="90-04-176-a101" src="https://github.com/user-attachments/assets/dfe1b27d-6df1-402a-9558-c7cf34875d10" />
 
+[다른 운영체제와 언어의 `화면 색상 표시 필터` 대화상자 확인하기](./90-04-0176-color_display_filters.md#90-04-176-a102)
+
 <a id="16-05-11-02-s1"></a>
 
 ## 1. 드롭다운 목록 상자 설명
