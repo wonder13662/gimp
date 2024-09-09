@@ -20,16 +20,16 @@ const {
 const doAsyncJob = async () => {
   try {
     // 1-1. 시작 페이지 이름
-    // const head = '90-10-81-01-01-ctrl_shift_t.md'
+    // const head = '90-10-82-01-01-ctrl_shift_r.md'
     // const head = '90-04-0176-color_display_filters.md'
-    const head = '16-05-27-show-statusbar.md'
-    // const head = '16-05-00-the-view-menu.md'
+    // const head = '16-05-27-show-statusbar.md'
+    const head = '16-06-00-the-image-menu.md'
     // const head = '16-00-menus.md'
     // 1-2. 종료 페이지 이름
-    // const tail = '16-05-23-01-06-as_in_preferences.md'
+    const tail = '16-06-02-duplicate.md'
     // const tail = '90-05-00-image_window.md'
     // const tail = '90-90-00-concept.md'
-    const tail = head
+    // const tail = head
 
     // 2. 모든 페이지 파일의 목록을 가져온다.
     const pageRootPath = getPageRootPath()

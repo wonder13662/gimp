@@ -1667,7 +1667,7 @@ module.exports = {
       ],
       [
         '16-06-02-duplicate.md', 
-        '16.6.2. Duplicate'
+        '16.6.2. 복제(Duplicate)'
       ],
       [
         '16-06-03-mode.md', 

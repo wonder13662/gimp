@@ -660,7 +660,7 @@
 
 [16.6.1. 이미지 메뉴 개요(Overview)](./16-06-01-overview.md)
 
-[16.6.2. Duplicate](./16-06-02-duplicate.md)
+[16.6.2. 복제(Duplicate)](./16-06-02-duplicate.md)
 
 [16.6.3. 모드(Mode)](./16-06-03-mode.md)
 
