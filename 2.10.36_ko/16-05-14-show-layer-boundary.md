@@ -5,7 +5,7 @@
 #### [그림 90.1.4.13.a101. `이미지 메뉴 바` → `보기` → `레이어 경계 보이기`](./90-01-04-13-show_layer_boundary.md#90-01-04-13-a101)
 <img width="940" height="687" alt="90-01-04-13-a101" src="https://github.com/user-attachments/assets/8c2ca7c7-b862-4f81-a8a9-e8559b245fdb" />
 
-`레이어 경계 보이기(Show Layer Boundary)` 명령으로 [이미지 창](./19-glossaryx-image_window.md)안의 레이어 주변의 노란 점선을 활성화/비활성화 여부를 설정할 수 있습니다.
+`레이어 경계 보이기(Show Layer Boundary)` 명령으로 [이미지 창](./19-glossaryx-image_window.md) 안의 레이어 주변의 노란 점선을 활성화/비활성화 여부를 설정할 수 있습니다.
 
 노란 점선은 [이미지 창](./19-glossaryx-image_window.md)보다 레이어가 작은 경우에만 보여질 수 있습니다.
 
