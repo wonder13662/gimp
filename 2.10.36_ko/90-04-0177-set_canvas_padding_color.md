@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.178. 이미지 정밀도 바꾸기(Precision Conversion)](./90-04-0178-precision_conversion.md)
 
 [⬅️ 이전: 90.4.176. 화면 색상 표시 필터(Color Display Filters)](./90-04-0176-color_display_filters.md)
 

@@ -3628,7 +3628,13 @@
 
 [16.6.7.3. 이미지 정밀도와 채널 인코딩 선택하기(Choosing the image precision and channel encoding)](./16-06-07-03-choosing_the_image_precision_and_channel_encoding.md)
 
-[16.6.7.4. 정밀도 옵션의 추가적인 설명(More information about the Precision options)](./16-06-07-04-more_information_about_the_precision_options.md)
+[16.6.7.4. 정밀도 옵션의 추가적인 설명(More information about the Precision options)](./16-06-07-04-00-more_information_about_the_precision_options.md)
+
+[16.6.7.4.1. 비트 깊이 선택하기(8비트, 16비트, 32비트)](./16-06-07-04-01-choosing_the_bit_depth.md)
+
+[16.6.7.4.2. 정수와 부동소수점 정밀도 선택하기(Choosing between integer and floating point precision)](./16-06-07-04-02-choosing_between_integer_and_floating_point_precision.md)
+
+[16.6.7.4.3. 선형 조명과 인지 감마(sRGB) 채널 인코딩(Choosing between Linear light and Perceptual gamma (sRGB) channel encoding)](./16-06-07-04-03-choosing_between_linear_light_n_perceptual_gamma_channel_encoding.md)
 
 [16.6.7.5. 이미지 정밀도 변환 대화상자(The Image Precision Conversion Dialog)](./16-06-07-05-the_image_precision_conversion_dialog.md)
 
@@ -6213,6 +6219,8 @@
 [90.4.176. 화면 색상 표시 필터(Color Display Filters)](./90-04-0176-color_display_filters.md)
 
 [90.4.177. 캔버스 채우기 색상 지정(Set Canvas Padding Color)](./90-04-0177-set_canvas_padding_color.md)
+
+[90.4.178. 이미지 정밀도 바꾸기(Precision Conversion)](./90-04-0178-precision_conversion.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

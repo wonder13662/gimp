@@ -207,7 +207,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.177. 캔버스 채우기 색상 지정(Set Canvas Padding Color)](./90-04-0177-set_canvas_padding_color.md)
+[⬅️ 이전: 90.4.178. 이미지 정밀도 바꾸기(Precision Conversion)](./90-04-0178-precision_conversion.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

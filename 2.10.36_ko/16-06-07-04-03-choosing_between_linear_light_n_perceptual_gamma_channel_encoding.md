@@ -1,0 +1,1 @@
+# 16.6.7.4.3. 선형 조명과 인지 감마(sRGB) 채널 인코딩(Choosing between Linear light and Perceptual gamma (sRGB) channel encoding)

@@ -1567,6 +1567,8 @@
 
 [90.4.177. 캔버스 채우기 색상 지정(Set Canvas Padding Color)](./90-04-0177-set_canvas_padding_color.md)
 
+[90.4.178. 이미지 정밀도 바꾸기(Precision Conversion)](./90-04-0178-precision_conversion.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
@@ -2624,6 +2626,12 @@
 [90.10.82.1. 키보드 단축키](./90-10-82-01-00-keyboard_shortcut.md)
 
 [90.10.82.1.1. 키보드 단축키: Ctrl(⌘) + Shift(⇧) + `R`](./90-10-82-01-01-ctrl_shift_r.md)
+
+[90.10.83. `이미지 메뉴 바` → `이미지` → `복제`](./90-10-83-00-menu_image_duplicate.md)
+
+[90.10.83.1. 키보드 단축키](./90-10-83-01-00-keyboard_shortcut.md)
+
+[90.10.83.1.1. 키보드 단축키: Ctrl(⌘) + `D`](./90-10-83-01-01-ctrl_d.md)
 
 <a id="90-s90"></a>
 
