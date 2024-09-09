@@ -7,7 +7,7 @@
 
 `안내선 보이기(Show Guides)` 명령은 [이미지 창](./19-glossaryx-image_window.md)의 [안내선](./19-glossaryx-guides.md)을 보여주기 여부를 설정할 수 있습니다.
 
-안내선의 기본 설정값은 [12.1.19. 이미지 창 모양(Image Window Appearance)](./12-01-19-image-window-appearance.md)의 `안내선 표시(Show guides)`에서 제어할 수 있습니다.
+안내선의 기본 설정값은 [`기본 설정` → `이미지 창` → `모양새` → `보통 상태의 기본 모양`, `전체 화면 상태의 기본 모양` → `안내선 표시`](./12-01-19-image-window-appearance.md)에서 제어할 수 있습니다.
 
 아래와 같은 방법으로 `안내선 보이기(Show Guides)` 명령을 활성화/비활성화 할 수 있습니다.
 

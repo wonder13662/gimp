@@ -13,7 +13,7 @@
 
 `캔버스 경계 보이기(Show Canvas Boundary)` 명령은 [이미지 창](./19-glossaryx-image_window.md)의 [캔버스](./19-glossaryx-canvas.md) 경계가 보여지는 것을 활성화/비활성화할 수 있습니다.
 
-캔버스 경계의 기본 설정값은 [12.1.19. 이미지 창 모양(Image Window Appearance)](./12-01-19-image-window-appearance.md)의 `캔버스 경계 표시(Show canvas boundary)`에서 제어할 수 있습니다.
+캔버스 경계의 기본 설정값은 [`기본 설정` → `이미지 창` → `모양새` → `보통 상태의 기본 모양`, `전체 화면 상태의 기본 모양` → `캔버스 경계 표시`](./12-01-19-image-window-appearance.md)에서 제어할 수 있습니다.
 
 `캔버스 경계 보이기(Show Canvas Boundary)` 명령은 다음 방법으로 활성화할 수 있습니다.
 
