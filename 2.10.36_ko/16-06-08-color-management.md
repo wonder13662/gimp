@@ -38,3 +38,19 @@
 - [16.6.12. 색상 프로파일 버리기(Discard color profile)](./16-06-12-discard-color-profile.md)
 
 - [16.6.13. 색상 프로파일 파일로 저장하기(Save color profile to file)](./16-06-13-save-color-profile-to-file.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.6.9. 색상 관리 활성화(Enable color management)](./16-06-09-00-enable-color-management.md)
+
+[⬅️ 이전: 16.6.7.5. 이미지 정밀도 변환 대화상자(The Image Precision Conversion Dialog)](./16-06-07-05-the_image_precision_conversion_dialog.md)
+
+[⬆️ 위: 16.6. 이미지 메뉴(The "Image" menu)](./16-06-00-the-image-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-image-color-management.html)

@@ -25,3 +25,21 @@ ICC 프로파일 "GIMP built-in Linear sRGB"이 설정됩니다.
 [타이틀 바](./19-glossaryx-title_bar.md)에 이미지의 색공간을 표시하도록 설정되어 있다면, "not color managed"라고 표시됩니다.
 
 실제로는 이미지의 색상은 관리되고 있지만, 이전의 색상 공간 대신에 GIMP(김프)의 자체적인 sRGB 색공간으로 이미지의 색이 관리되고 있습니다.
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.6.9.4. 색상 관리 활성화 옵션 비활성화시 이미지에 미치는 영향(When Enable Color Management is unchecked, what happens to the image and the image appearance?)](./16-06-09-04-when_enable_color_management_is_unchecked_what_happens_to_the_image_n_the_image_appearance.md)
+
+[⬅️ 이전: 16.6.9.2. 색상 관리 활성화 옵션 비활성화(Use Notes regarding unchecking Enable Color Management)](./16-06-09-02-use_notes_regarding_unchecking_enable_color_management.md)
+
+[⬆️ 위: 16.6.9. 색상 관리 활성화(Enable color management)](./16-06-09-00-enable-color-management.md)
+
+[⬆️ 위: 16.6. 이미지 메뉴(The "Image" menu)](./16-06-00-the-image-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-image-color-management-enabled.html#idm26807)
