@@ -710,17 +710,17 @@
 
 [16.6.7.5. 이미지 정밀도 변환 대화상자(The Image Precision Conversion Dialog)](./16-06-07-05-the_image_precision_conversion_dialog.md)
 
-[16.6.8. Color management](./16-06-08-color-management.md)
+[16.6.8. 색상 관리(Color management)](./16-06-08-color-management.md)
 
-[16.6.9. 색상 관리 활성화(Enable color management)](./16-06-09-enable-color-management.md)
+[16.6.9. 색상 관리 활성화(Enable color management)](./16-06-09-00-enable-color-management.md)
 
-[16.6.10. Assign color profile](./16-06-10-assign-color-profile.md)
+[16.6.10. 색상 프로파일 할당(Assign color profile)](./16-06-10-assign-color-profile.md)
 
 [16.6.11. Convert to color profile](./16-06-11-convert-to-color-profile.md)
 
-[16.6.12. Discard color profile](./16-06-12-discard-color-profile.md)
+[16.6.12. 색상 프로파일 버리기(Discard color profile)](./16-06-12-discard-color-profile.md)
 
-[16.6.13. Save color profile to file](./16-06-13-save-color-profile-to-file.md)
+[16.6.13. 색상 프로파일 파일로 저장하기(Save color profile to file)](./16-06-13-save-color-profile-to-file.md)
 
 [16.6.14. 변형(Transform)](./16-06-14-transform.md)
 
@@ -762,7 +762,7 @@
 
 [16.6.33. 격자 설정…(Configure grid…)](./16-06-33-configure-grid.md)
 
-[16.6.34. 이미지 속성(Image properties)](./16-06-34-image-properties.md)
+[16.6.34. 이미지 성질(Image properties)](./16-06-34-image-properties.md)
 
 [16.6.35. Metadata](./16-06-35-metadata.md)
 

@@ -59,7 +59,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.6.8. Color management](./16-06-08-color-management.md)
+[➡️ 다음: 16.6.8. 색상 관리(Color management)](./16-06-08-color-management.md)
 
 [⬅️ 이전: 16.6.7.4.3. 선형 조명과 지각 범위 감마(sRGB) 채널 인코딩(Choosing between Linear light and Perceptual gamma (sRGB) channel encoding)](./16-06-07-04-03-choosing_between_linear_light_n_perceptual_gamma_channel_encoding.md)
 

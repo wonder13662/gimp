@@ -1569,6 +1569,12 @@
 
 [90.4.178. 이미지 정밀도 바꾸기(Precision Conversion)](./90-04-0178-precision_conversion.md)
 
+[90.4.179. ICC 색상 프로파일 할당(Assign ICC Color Profile)](./90-04-0179-assign_icc_color_profile.md)
+
+[90.4.180. ICC 색상 프로파일로 변환(Convert to ICC Color Profile)](./90-04-0180-convert_to_icc_color_profile.md)
+
+[90.4.181. 색상 프로필 저장(Save Color Profile)](./90-04-0181-save_color_profile.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

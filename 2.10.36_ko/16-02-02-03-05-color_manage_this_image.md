@@ -9,7 +9,7 @@
 
 다시 말해, 옵션이 켜져 있는 경우, GIMP(김프)에서 하는 모든 동작들이 사용자가 선택한 이미지의 [색상 프로필](./16-02-02-03-06-color_profile.md)을 기반으로 동작합니다.
 
-더 자세한 내용은 [16.6.9. 색상 관리 활성화(Enable color management)](./16-06-09-enable-color-management.md)을 참고해주세요.
+더 자세한 내용은 [16.6.9. 색상 관리 활성화(Enable color management)](./16-06-09-00-enable-color-management.md)을 참고해주세요.
 
 ***
 

@@ -1,10 +1,100 @@
 # 90.1.5.3. 색상 관리(Color management)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.1.5.3.a1. 이미지 - 색상 관리 (Windows)
-<img width="1080" alt="그림 90.1.5.3.a1. 이미지 - 색상 관리 (Windows)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a6809cf3-45e0-40f0-a58d-8688d4aa3fe2">
 
-#### 그림 90.1.5.3.a2. 이미지 - 색상 관리 (Mac)
-<img width="1080" alt="그림 90.1.5.3.a2. 이미지 - 색상 관리 (Mac)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/0146c64a-9c10-4968-b8b8-8125952c4d9b">
+<a id="90-01-05-03-a101"></a>
+
+#### 그림 90.1.5.3.a101. `이미지 메뉴 바` → `이미지` → `색상 관리` (Windows) (우리말)
+<img width="764" height="830" alt="90-01-05-03-a101" src="https://github.com/user-attachments/assets/db1c2f8e-81ac-44f6-964c-dfb568ed6f5d" />
+
+[16.6.8. 색상 관리(Color management) - 그림 90.1.5.3.a101](./16-06-08-color-management.md#90-01-05-03-a101)
+
+<a id="90-01-05-03-a102"></a>
+
+#### 그림 90.1.5.3.a102. `이미지 메뉴 바` → `이미지` → `색상 관리` (Windows) (영어)
+<img width="651" height="830" alt="90-01-05-03-a102" src="https://github.com/user-attachments/assets/b02d9cd3-c8c6-4fdc-87df-7ffabc0d14f6" />
+
+<a id="90-01-05-03-a103"></a>
+
+#### 그림 90.1.5.3.a103. `이미지 메뉴 바` → `이미지` → `색상 관리` (Mac) (우리말)
+<img width="448" height="520" alt="90-01-05-03-a103" src="https://github.com/user-attachments/assets/159b2f0f-ed9c-4815-b937-dce673a94113" />
+
+<a id="90-01-05-03-a104"></a>
+
+#### 그림 90.1.5.3.a104. `이미지 메뉴 바` → `이미지` → `색상 관리` (Mac) (영어)
+<img width="421" height="520" alt="90-01-05-03-a104" src="https://github.com/user-attachments/assets/ef62ec08-64a1-4cd6-97a3-cb68a7ff42de" />
+
+<a id="90-01-05-03-a111"></a>
+
+#### 그림 90.1.5.3.a111. `이미지 메뉴 바` → `이미지` → `색상 관리`: 하위메뉴 (Windows) (우리말)
+<img width="652" height="298" alt="90-01-05-03-a111" src="https://github.com/user-attachments/assets/c859afa0-d61b-4333-97a6-5d1d40ea19a9" />
+
+[16.6.8. 색상 관리(Color management) - 그림 90.1.5.3.a111](./16-06-08-color-management.md#90-01-05-03-a111)
+
+<a id="90-01-05-03-a121"></a>
+
+#### 영상 90.1.5.3.a121. `이미지 메뉴 바` → `이미지` → `색상 관리` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d01ece87-ce02-4be6-a26e-f9c94e01bde6"></video>
+
+[16.6.8. 색상 관리(Color management) - 영상 90.1.5.3.a121](./16-06-08-color-management.md#90-01-05-03-a121)
+
+<a id="90-01-05-03-a131"></a>
+
+#### 그림 90.1.5.3.a131. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 관리 활성화` (Windows) (우리말)
+<img width="652" height="298" alt="90-01-05-03-a131" src="https://github.com/user-attachments/assets/33f067d4-2a6b-4b78-8057-1eb9e342908d" />
+
+[16.6.9. 색상 관리 활성화(Enable color management) - 영상 90.1.5.3.a131](./16-06-09-00-enable-color-management.md#90-01-05-03-a131)
+
+[16.6.9.1. 명령 활성화(Activating the command) - 영상 90.1.5.3.a131](./16-06-09-01-activating_the_command.md#90-01-05-03-a131)
+
+<a id="90-01-05-03-a132"></a>
+
+#### 영상 90.1.5.3.a132. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 관리 활성화` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2c64cdcf-731b-470d-868d-82140d3c3c2d"></video>
+
+[16.6.9. 색상 관리 활성화(Enable color management) - 영상 90.1.5.3.a132](./16-06-09-00-enable-color-management.md#90-01-05-03-a132)
+
+[16.6.9.1. 명령 활성화(Activating the command) - 영상 90.1.5.3.a132](./16-06-09-01-activating_the_command.md#90-01-05-03-a132)
+
+<a id="90-01-05-03-a133"></a>
+
+#### 그림 90.1.5.3.a133. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 관리 활성화`: `GIMP built-in sRGB` → "not color managed" (Mac) (우리말)
+<img width="900" height="490" alt="90-01-05-03-a133" src="https://github.com/user-attachments/assets/f4f3a3f4-dbb8-40b0-a973-40e4055e82e5" />
+
+[16.6.9.5. 색상 관리 활성화 옵션 비활성화 뒤의 보정된 이미지와 보정되지 않은 이미지 비교(Two screenshots showing examples of correct and incorrect image appearances after unchecking Enable Color Management) - 그림 90.1.5.3.a133](./16-06-09-05-example.md#90-01-05-03-a133)
+
+<a id="90-01-05-03-a134"></a>
+
+#### 그림 90.1.5.3.a134. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 관리 활성화`: `ProPhoto RGB` → "not color managed" (Mac) (우리말)
+<img width="900" height="490" alt="90-01-05-03-a134" src="https://github.com/user-attachments/assets/6c23a2f7-17ab-4a7f-9c17-b7dc48609884" />
+
+[16.6.9.5. 색상 관리 활성화 옵션 비활성화 뒤의 보정된 이미지와 보정되지 않은 이미지 비교(Two screenshots showing examples of correct and incorrect image appearances after unchecking Enable Color Management) - 그림 90.1.5.3.a134](./16-06-09-05-example.md#90-01-05-03-a134)
+
+<a id="90-01-05-03-a141"></a>
+
+#### 그림 90.1.5.3.a141. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 프로파일 할당` (Windows) (우리말)
+<img width="652" height="298" alt="90-01-05-03-a141" src="https://github.com/user-attachments/assets/face0a78-cd5e-4199-8cd8-54012068b6b0" />
+
+[16.6.10. 색상 프로파일 할당(Assign color profile) - 그림 90.1.5.3.a141](./16-06-10-assign-color-profile.md#90-01-05-03-a141)
+
+<a id="90-01-05-03-a151"></a>
+
+#### 그림 90.1.5.3.a151. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 프로파일로 변환` (Windows) (우리말)
+<img width="652" height="298" alt="90-01-05-03-a151" src="https://github.com/user-attachments/assets/05ddbb24-9861-41ca-a7eb-a5fb61b9b3ee" />
+
+[16.6.11. 색상 프로파일로 변환(Convert to color profile) - 그림 90.1.5.3.a151](./16-06-11-convert-to-color-profile.md#90-01-05-03-a151)
+
+<a id="90-01-05-03-a161"></a>
+
+#### 그림 90.1.5.3.a161. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 프로파일 버리기` (Windows) (우리말)
+<img width="652" height="298" alt="90-01-05-03-a161" src="https://github.com/user-attachments/assets/6d8b8dfe-5ca8-4a4d-b78c-c2a5e3c59fa2" />
+
+[16.6.12. 색상 프로파일 버리기(Discard color profile) - 그림 90.1.5.3.a161](./16-06-12-discard-color-profile.md#90-01-05-03-a161)
+
+<a id="90-01-05-03-a171"></a>
+
+#### 그림 90.1.5.3.a171. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 프로파일 파일로 저장하기` (Windows) (우리말)
+<img width="652" height="298" alt="90-01-05-03-a171" src="https://github.com/user-attachments/assets/cadf82d9-c5de-4394-87b7-8cc985d55d65" />
+
+[16.6.13. 색상 프로파일 파일로 저장하기(Save color profile to file) - 그림 90.1.5.3.a171](./16-06-13-save-color-profile-to-file.md#90-01-05-03-a171)
 
 ***
 

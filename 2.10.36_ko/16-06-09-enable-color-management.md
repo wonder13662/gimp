@@ -1,1 +1,0 @@
-# 16.6.9. 색상 관리 활성화(Enable color management)

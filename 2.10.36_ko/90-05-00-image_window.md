@@ -207,7 +207,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.178. 이미지 정밀도 바꾸기(Precision Conversion)](./90-04-0178-precision_conversion.md)
+[⬅️ 이전: 90.4.181. 색상 프로필 저장(Save Color Profile)](./90-04-0181-save_color_profile.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

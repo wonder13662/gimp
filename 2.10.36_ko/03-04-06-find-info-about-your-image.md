@@ -10,7 +10,7 @@
 <a id="90-04-31-a101"></a>
 
 #### [그림 90.4.31.a101. `이미지 속성` 대화상자 (Windows) (우리말)](./90-04-0031-image_properties.md#90-04-31-a101)
-![90-04-31-a101](https://github.com/wonder13662/gimp/assets/15767104/f703fc45-fe75-4cb5-bd04-c009c145ef1e)
+<img width="465" height="681" alt="90-04-31-a101" src="https://github.com/wonder13662/gimp/assets/15767104/f703fc45-fe75-4cb5-bd04-c009c145ef1e" />
 
 [다른 운영체제와 언어의 `이미지 속성` 대화상자 확인하기](./90-04-0031-image_properties.md#90-04-31-a102)
 

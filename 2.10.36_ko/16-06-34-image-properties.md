@@ -1,1 +1,1 @@
-# 16.6.34. 이미지 속성(Image properties)
+# 16.6.34. 이미지 성질(Image properties)
