@@ -3634,7 +3634,7 @@
 
 [16.6.7.4.2. 정수와 부동소수점 정밀도 선택하기(Choosing between integer and floating point precision)](./16-06-07-04-02-choosing_between_integer_and_floating_point_precision.md)
 
-[16.6.7.4.3. 선형 조명과 인지 감마(sRGB) 채널 인코딩(Choosing between Linear light and Perceptual gamma (sRGB) channel encoding)](./16-06-07-04-03-choosing_between_linear_light_n_perceptual_gamma_channel_encoding.md)
+[16.6.7.4.3. 선형 조명과 지각 범위 감마(sRGB) 채널 인코딩(Choosing between Linear light and Perceptual gamma (sRGB) channel encoding)](./16-06-07-04-03-choosing_between_linear_light_n_perceptual_gamma_channel_encoding.md)
 
 [16.6.7.5. 이미지 정밀도 변환 대화상자(The Image Precision Conversion Dialog)](./16-06-07-05-the_image_precision_conversion_dialog.md)
 
@@ -3846,7 +3846,7 @@
 
 [16.8.6. Saturation](./16-08-06-saturation.md)
 
-[16.8.7. Exposure](./16-08-07-exposure.md)
+[16.8.7. 노출(Exposure)](./16-08-07-exposure.md)
 
 [16.8.8. Shadows highlights](./16-08-08-shadows-highlights.md)
 

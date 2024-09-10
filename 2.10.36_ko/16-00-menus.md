@@ -908,7 +908,7 @@
 
 [16.8.6. Saturation](./16-08-06-saturation.md)
 
-[16.8.7. Exposure](./16-08-07-exposure.md)
+[16.8.7. 노출(Exposure)](./16-08-07-exposure.md)
 
 [16.8.8. Shadows highlights](./16-08-08-shadows-highlights.md)
 

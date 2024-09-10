@@ -6,7 +6,7 @@
 ## [16.8.4. Hue chroma](./16-08-04-hue-chroma.md)
 ## [16.8.5. Hue saturation](./16-08-05-hue-saturation.md)
 ## [16.8.6. Saturation](./16-08-06-saturation.md)
-## [16.8.7. Exposure](./16-08-07-exposure.md)
+## [16.8.7. 노출(Exposure)](./16-08-07-exposure.md)
 ## [16.8.8. Shadows highlights](./16-08-08-shadows-highlights.md)
 ## [16.8.9. Brightness contrast](./16-08-09-brightness-contrast.md)
 ## [16.8.10. 레벨(Levels)](./16-08-10-levels.md)

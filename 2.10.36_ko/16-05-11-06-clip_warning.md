@@ -7,22 +7,22 @@
 
 `경고 표시(Clip Warning)` 필터는 이미지의 노출이 부족하거나(Underexposed) 노출이 지나친(Overexposed) 영역을 사용자가 정의한 색으로 표시합니다.
 
-이 필터는 부동소수점 정밀도(Floating Point Precision)로 저장된 색상을 갖는 이미지로 작업할 수 있습니다.
+이 필터는 [부동소수점 정밀도(Floating Point Precision)](./19-glossaryx-floating_point.md)로 저장된 색상을 갖는 이미지로 작업할 수 있습니다.
 
-`EXR`, `TIFF` 포맷의 부동소수점 정밀도(Floating Point Precision)의 16비트, 32비트의 채널을 갖는 이미지를 작업한다면, 이 필터로 작업하는 것이 좋습니다.
+`EXR`, `TIFF` 포맷의 [부동소수점 정밀도(Floating Point Precision)](./19-glossaryx-floating_point.md)의 16비트, 32비트의 채널을 갖는 이미지를 작업한다면, 이 필터로 작업하는 것이 좋습니다.
 
 <a comment="[이슈]Mac에서는 경고 표시 필터가 작동하나, Windows에서는 동작하지 않습니다. 관련 이슈를 제보해야 합니다."></a>
 
 ## 1. 옵션(Options)
 
 ### 1-1. 그림자 보여주기(Show shadows)
-32비트 부동소수점 모드에서 0보다 작은 노출이 부족한(Underexposed) 픽셀을 시각적으로 보여줍니다.
+32비트 [부동소수점](./19-glossaryx-floating_point.md) 모드에서 0보다 작은 노출이 부족한(Underexposed) 픽셀을 시각적으로 보여줍니다.
 
 ### 1-2. 그림자 색(Shadow color)
 노출이 부족한 픽셀을 표시하는 색상입니다.
 
 ### 1-3. 강조표시 보여주기(Show highlights)
-32비트 부동소수점 모드에서 1보다 큰 노출이 지나친(Overexposed) 픽셀을 시각적으로 보여줍니다.
+32비트 [부동소수점](./19-glossaryx-floating_point.md) 모드에서 1보다 큰 노출이 지나친(Overexposed) 픽셀을 시각적으로 보여줍니다.
 
 ### 1-4. 강조표시 색(Highlights color)
 노출이 과다한한 픽셀을 표시하는 색상입니다.

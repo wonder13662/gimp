@@ -2063,7 +2063,7 @@ module.exports = {
       ],
       [
         '16-08-07-exposure.md', 
-        '16.8.7. Exposure'
+        '16.8.7. 노출(Exposure)'
       ],
       [
         '16-08-08-shadows-highlights.md', 

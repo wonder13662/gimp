@@ -12,3 +12,5 @@
 (TODO 내용 정리필요)
 
 [16.5.11.4. 감마(Gamma)](./16-05-11-04-gamma.md)
+
+[Gamma Color space와 Linear Color space란? - Unity Korea](https://www.youtube.com/watch?v=Xwlm5V-bnBc)
