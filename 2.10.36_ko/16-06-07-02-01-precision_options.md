@@ -26,3 +26,22 @@
 - 16비트 실수(부동소수점)
 - 32비트 실수(부동소수점)
 
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.6.7.2.2. 채널 인코딩 옵션(Channel Encoding Options)](./16-06-07-02-02-channel_encoding_options.md)
+
+[⬅️ 이전: 16.6.7.2. 정밀도 하위 메뉴의 항목(The Contents of the "Precision" Submenu)](./16-06-07-02-00-the_contents_of_the_precision_submenu.md)
+
+[⬆️ 위: 16.6.7.2. 정밀도 하위 메뉴의 항목(The Contents of the "Precision" Submenu)](./16-06-07-02-00-the_contents_of_the_precision_submenu.md)
+
+[⬆️ 위: 16.6.7. 정밀도(Precision)](./16-06-07-00-precision.md)
+
+[⬆️ 위: 16.6. 이미지 메뉴(The "Image" menu)](./16-06-00-the-image-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-image-precision.html#idm26587)

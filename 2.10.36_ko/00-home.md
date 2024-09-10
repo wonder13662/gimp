@@ -3624,7 +3624,11 @@
 
 [16.6.7.1. 명령 활성화(Activating the Submenu)](./16-06-07-01-activating_the_submenu.md)
 
-[16.6.7.2. 정밀도 하위 메뉴의 항목(The Contents of the "Precision" Submenu)](./16-06-07-02-the_contents_of_the_precision_submenu.md)
+[16.6.7.2. 정밀도 하위 메뉴의 항목(The Contents of the "Precision" Submenu)](./16-06-07-02-00-the_contents_of_the_precision_submenu.md)
+
+[16.6.7.2.1. 정밀도 옵션(Precision Options)](./16-06-07-02-01-precision_options.md)
+
+[16.6.7.2.2. 채널 인코딩 옵션(Channel Encoding Options)](./16-06-07-02-02-channel_encoding_options.md)
 
 [16.6.7.3. 이미지 정밀도와 채널 인코딩 선택하기(Choosing the image precision and channel encoding)](./16-06-07-03-choosing_the_image_precision_and_channel_encoding.md)
 
@@ -3950,7 +3954,7 @@
 
 [16.8.58. Color to alpha](./16-08-58-color-to-alpha.md)
 
-[16.8.59. Dither](./16-08-59-dither.md)
+[16.8.59. 디더링(Dither)](./16-08-59-dither.md)
 
 [16.8.60. RGB clip](./16-08-60-rgb-clip.md)
 
@@ -4408,6 +4412,8 @@
 
 [19. 용어집 - 베지에 곡선(Bézier-curves)](./19-glossaryx-bezier-curves.md)
 
+[19. 용어집 - 비트 깊이(Bit Depth)](./19-glossaryx-bit_depth.md)
+
 [19. 용어집 - 흑점 보상(Black Point Compensation or BPC)](./19-glossaryx-black_point_compensation.md)
 
 [19. 용어집 - 취소 레이어 모드(Cancellation Layer Mode)](./19-glossaryx-cancellation_layer_mode.md)
@@ -4425,6 +4431,8 @@
 [19. 용어집 - 색상 영역(Color Area)](./19-glossaryx-color_area.md)
 
 [19. 용어집 - 색조화(Color Balance)](./19-glossaryx-color_balance.md)
+
+[19. 용어집 - 컬러 밴딩(Color Banding)](./19-glossaryx-color_banding.md)
 
 [19. 용어집 - 컬러 캐스트(Color cast)](./19-glossaryx-color_cast.md)
 
@@ -4468,6 +4476,12 @@
 
 [19. 용어집 - 더러운 이미지(Dirty Image)](./19-glossaryx-dirty_image.md)
 
+[19. 용어집 - 디스플레이 참조(Display-referred)](./19-glossaryx-display_referred.md)
+
+[19. 용어집 - 디스플레이 참조 검은색(Display-referred black)](./19-glossaryx-display_referred_black.md)
+
+[19. 용어집 - 디스플레이 참조 하얀색(Display-referred white)](./19-glossaryx-display_referred_white.md)
+
 [19. 용어집 - 디더링(Dithering)](./19-glossaryx-dithering.md)
 
 [19. 용어집 - 점대점(Dot for Dot)](./19-glossaryx-dot_for_dot.md)
@@ -4477,6 +4491,8 @@
 [19. 용어집 - 드로어블(Drawable)](./19-glossaryx-drawable.md)
 
 [19. 용어집 - EXIF](./19-glossaryx-exif.md)
+
+[19. 용어집 - 부동 소수점(Floating Point)](./19-glossaryx-floating_point.md)
 
 [19. 용어집 - 떠있는 선택(Floating Selection)](./19-glossaryx-floating_selection.md)
 
@@ -4505,6 +4521,8 @@
 [19. 용어집 - 안내선(Guides)](./19-glossaryx-guides.md)
 
 [19. 용어집 - 헤일로(Halo)](./19-glossaryx-halo.md)
+
+[19. 용어집 - 높은 동적 범위(High Dynamic Range, HDR)](./19-glossaryx-high_dynamic_range.md)
 
 [19. 용어집 - 힌팅(Hinting)](./19-glossaryx-hinting.md)
 
@@ -4611,6 +4629,8 @@
 [19. 용어집 - 표본점(Sample Point)](./19-glossaryx-sample_point.md)
 
 [19. 용어집 - 채도(Saturation)](./19-glossaryx-saturation.md)
+
+[19. 용어집 - 장면 참조(Scene-referred)](./19-glossaryx-scene_referred.md)
 
 [19. 용어집 - `.scm`](./19-glossaryx-scm.md)
 

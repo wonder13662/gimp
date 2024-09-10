@@ -37,3 +37,21 @@ GIMP(김프)의 내부의 32비트 실수(부동소수점) 처리의 최대 이�
 램(RAM)이 충분하지 않은 매우 저사양의 장비로 작업하는 경우에는 `8비트 정수` 옵션을 사용해보세요.
 
 또한 `지각 범위 감마(sRGB)(Perceptual gamma (sRGB))` 채널 인코딩 옵션을 선택해서, `8비트 정수` 정밀도에서 `선형 조명 채널 인코딩(Linear Light Channel Encoding)` 채널 인코딩을 사용할 경우, 그림자가 보기 좋지 않게 [포스터라이즈](./16-08-57-posterize.md)되는 문제를 방지할 수 있습니다.
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.6.7.4. 정밀도 옵션의 추가적인 설명(More information about the Precision options)](./16-06-07-04-00-more_information_about_the_precision_options.md)
+
+[⬅️ 이전: 16.6.7.2.2. 채널 인코딩 옵션(Channel Encoding Options)](./16-06-07-02-02-channel_encoding_options.md)
+
+[⬆️ 위: 16.6.7. 정밀도(Precision)](./16-06-07-00-precision.md)
+
+[⬆️ 위: 16.6. 이미지 메뉴(The "Image" menu)](./16-06-00-the-image-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-image-precision.html#gimp-image-choosing-precision-encoding)

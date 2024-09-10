@@ -23,3 +23,23 @@
 
 ## 4. 채널 인코딩이 작업 흐름에 영향을 주는 경우
 [고급 색상 옵션 보여주기](./12-01-04-06-filter_dialogs.md)의 "Gamma hack"을 사용한 결과에 대해 "채널 인코딩"이 영향을 줄 수 있습니다.
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.6.7.5. 이미지 정밀도 변환 대화상자(The Image Precision Conversion Dialog)](./16-06-07-05-the_image_precision_conversion_dialog.md)
+
+[⬅️ 이전: 16.6.7.4.2. 정수와 부동소수점 정밀도 선택하기(Choosing between integer and floating point precision)](./16-06-07-04-02-choosing_between_integer_and_floating_point_precision.md)
+
+[⬆️ 위: 16.6.7.4. 정밀도 옵션의 추가적인 설명(More information about the Precision options)](./16-06-07-04-00-more_information_about_the_precision_options.md)
+
+[⬆️ 위: 16.6.7. 정밀도(Precision)](./16-06-07-00-precision.md)
+
+[⬆️ 위: 16.6. 이미지 메뉴(The "Image" menu)](./16-06-00-the-image-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-image-precision.html#idm26656)

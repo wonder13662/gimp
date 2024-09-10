@@ -2272,7 +2272,7 @@ module.exports = {
       ],
       [
         '16-08-59-dither.md', 
-        '16.8.59. Dither'
+        '16.8.59. 디더링(Dither)'
       ],
       [
         '16-08-60-rgb-clip.md', 

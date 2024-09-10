@@ -5,6 +5,8 @@
 #### 그림 90.4.178.a101. `이미지 정밀도 바꾸기` 대화상자 (Windows) (우리말)
 <img width="339" height="333" alt="90-04-178-a101" src="https://github.com/user-attachments/assets/e4ba21b5-1efa-46a2-b5a1-5a04f6f42a5e" />
 
+[16.6.7.5. 이미지 정밀도 변환 대화상자(The Image Precision Conversion Dialog) - 그림 90.4.178.a101](./16-06-07-05-the_image_precision_conversion_dialog.md#90-04-178-a101)
+
 <a id="90-04-178-a102"></a>
 
 #### 그림 90.4.178.a102. `이미지 정밀도 바꾸기` 대화상자 (Windows) (영어)
