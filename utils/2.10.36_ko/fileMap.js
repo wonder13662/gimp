@@ -1708,7 +1708,7 @@ module.exports = {
         '16.6.11. Convert to color profile'
       ],
       [
-        '16-06-12-discard-color-profile.md', 
+        '16-06-12-00-discard-color-profile.md', 
         '16.6.12. 색상 프로파일 버리기(Discard color profile)'
       ],
       [

@@ -740,7 +740,11 @@
 
 [16.6.11.3. 예제(An example with screenshots showing how to use Convert to Color Profile)](./16-06-11-03-example.md)
 
-[16.6.12. 색상 프로파일 버리기(Discard color profile)](./16-06-12-discard-color-profile.md)
+[16.6.12. 색상 프로파일 버리기(Discard color profile)](./16-06-12-00-discard-color-profile.md)
+
+[16.6.12.1. 명령 활성화하기(Activating the command)](./16-06-12-01-activating_the_command.md)
+
+[16.6.12.2. `색상 프로파일 버리기` 사용방법(Use Notes for `Discard Color Profile`)](./16-06-12-02-use_notes_for_discard_color_profile.md)
 
 [16.6.13. 색상 프로파일 파일로 저장하기(Save color profile to file)](./16-06-13-save-color-profile-to-file.md)
 
@@ -997,10 +1001,6 @@
 [16.8.34. The "Map" submenu](./16-08-34-the-map-submenu.md)
 
 [16.8.35. 색상표 재배치(Rearrange colormap)](./16-08-35-rearrange-colormap.md)
-
-[16.8.36. Set colormap](./16-08-36-set-colormap.md)
-
-[16.8.37. Alien map](./16-08-37-alien-map.md)
 
 ***
 
