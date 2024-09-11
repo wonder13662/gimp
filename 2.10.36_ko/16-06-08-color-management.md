@@ -33,7 +33,7 @@
 
 - [16.6.10. 색상 프로파일 할당(Assign color profile)](./16-06-10-00-assign-color-profile.md)
 
-- [16.6.11. 색상 프로파일로 변환(Convert to color profile)](./16-06-11-convert-to-color-profile.md)
+- [16.6.11. 색상 프로파일로 변환(Convert to color profile)](./16-06-11-00-convert-to-color-profile.md)
 
 - [16.6.12. 색상 프로파일 버리기(Discard color profile)](./16-06-12-discard-color-profile.md)
 

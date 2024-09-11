@@ -78,7 +78,13 @@
 
 [16.6.10.3. 예제(An example with screenshots showing how to use Assign Color Profile)](./16-06-10-03-example.md)
 
-[16.6.11. 색상 프로파일로 변환(Convert to color profile)](./16-06-11-convert-to-color-profile.md)
+[16.6.11. 색상 프로파일로 변환(Convert to color profile)](./16-06-11-00-convert-to-color-profile.md)
+
+[16.6.11.1. 명령 활성화하기(Activating the command)](./16-06-11-01-activating_the_command.md)
+
+[16.6.11.2. `색상 프로파일로 변환` 사용방법(Use Notes for Convert to Color Profile)](./16-06-11-02-use_notes_for_convert_to_color_profile.md)
+
+[16.6.11.3. 예제(An example with screenshots showing how to use Convert to Color Profile)](./16-06-11-03-example.md)
 
 [16.6.12. 색상 프로파일 버리기(Discard color profile)](./16-06-12-discard-color-profile.md)
 

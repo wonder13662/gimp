@@ -1704,7 +1704,7 @@ module.exports = {
         '16.6.10. 색상 프로파일 할당(Assign color profile)'
       ],
       [
-        '16-06-11-convert-to-color-profile.md', 
+        '16-06-11-00-convert-to-color-profile.md', 
         '16.6.11. Convert to color profile'
       ],
       [
