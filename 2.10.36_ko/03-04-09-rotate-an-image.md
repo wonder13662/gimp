@@ -1,11 +1,9 @@
 # 3.4.9. 이미지 회전하기
 
-<a id="90-01-05-05-a101"></a>
+<a id="90-01-05-05-a121"></a>
 
-#### [그림 90.1.5.5.a101. `이미지` → `변형` → `이미지 회전하기` (Windows)](./90-01-05-05-00-transform.md#90-01-05-05-a101)
-![90-01-05-05-a101](https://github.com/wonder13662/gimp/assets/15767104/a8b8f281-73f2-4d8d-94ab-6ee42e0dc2c3)
-
-[다른 운영체제와 언어의 `이미지` → `변형` → `이미지 회전하기` 확인하기](./90-01-05-05-00-transform.md#90-01-05-05-a102)
+#### [그림 90.1.5.5.a121. `이미지 메뉴 바` → `이미지` → `변형` → `이미지 회전하기` (Windows) (우리말)](./90-01-05-05-00-transform.md#90-01-05-05-a121)
+<img width="779" height="830" alt="90-01-05-05-a121" src="https://github.com/user-attachments/assets/bb50ede1-ccdc-4762-8051-50d9a1398ac2" />
 
 [이미지 메뉴 바(Image Menu Bar)](./19-glossaryx-image_menu_bar.md)에서 `이미지(Image)` → `변형(Transform)` → `시계 방향으로 90도 회전(Rotate 90° clockwise)`을 선택하여 이미지를 회전시킬 수 있습니다.
 
