@@ -37,7 +37,7 @@
 
 - [16.6.12. 색상 프로파일 버리기(Discard color profile)](./16-06-12-00-discard-color-profile.md)
 
-- [16.6.13. 색상 프로파일 파일로 저장하기(Save color profile to file)](./16-06-13-save-color-profile-to-file.md)
+- [16.6.13. 색상 프로파일 파일로 저장하기(Save color profile to file)](./16-06-13-00-save-color-profile-to-file.md)
 
 ***
 

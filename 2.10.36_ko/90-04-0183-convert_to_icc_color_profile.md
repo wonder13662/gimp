@@ -63,3 +63,17 @@
 <img width="371" height="330" alt="90-04-183-a151" src="https://github.com/user-attachments/assets/38489dfb-f69c-4cec-88b4-622d22d0275e" />
 
 [16.6.11.3. 예제(An example with screenshots showing how to use Convert to Color Profile) - 그림 90.4.183.a151](./16-06-11-03-example.md#90-04-183-a151)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 90.4.184. 색상 프로필 저장(Save Color Profile)](./90-04-0184-save_color_profile.md)
+
+[⬅️ 이전: 90.4.182. 대상 프로파일 선택(Select Destination Profile)](./90-04-0182-select_destination_profile.md)
+
+[⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-0000-dialogs.md)
+
+[⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
+
+[🏠 홈](./00-home.md)

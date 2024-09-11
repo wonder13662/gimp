@@ -3678,7 +3678,13 @@
 
 [16.6.12.2. `색상 프로파일 버리기` 사용방법(Use Notes for `Discard Color Profile`)](./16-06-12-02-use_notes_for_discard_color_profile.md)
 
-[16.6.13. 색상 프로파일 파일로 저장하기(Save color profile to file)](./16-06-13-save-color-profile-to-file.md)
+[16.6.13. 색상 프로파일 파일로 저장하기(Save color profile to file)](./16-06-13-00-save-color-profile-to-file.md)
+
+[16.6.13.1. 명령 활성화하기(Activating the command)](./16-06-13-01-activating_the_command.md)
+
+[16.6.13.2. `색상 프로파일 파일로 저장하기` 사용 설명(Use Notes for `Save Color Profile to File`)](./16-06-13-02-use_notes_for_save_color_profile_to_file.md)
+
+[16.6.13.3. 예제(An example with screenshots showing how to use `Save Color Profile to File`)](./16-06-13-03-example.md)
 
 [16.6.14. 변형(Transform)](./16-06-14-transform.md)
 
@@ -6283,6 +6289,8 @@
 [90.4.182. 대상 프로파일 선택(Select Destination Profile)](./90-04-0182-select_destination_profile.md)
 
 [90.4.183. ICC 색상 프로파일로 변환(Convert to ICC Color Profile)](./90-04-0183-convert_to_icc_color_profile.md)
+
+[90.4.184. 색상 프로필 저장(Save Color Profile)](./90-04-0184-save_color_profile.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

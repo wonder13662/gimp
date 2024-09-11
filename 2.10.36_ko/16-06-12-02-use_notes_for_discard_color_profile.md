@@ -19,7 +19,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.6.13. 색상 프로파일 파일로 저장하기(Save color profile to file)](./16-06-13-save-color-profile-to-file.md)
+[➡️ 다음: 16.6.13. 색상 프로파일 파일로 저장하기(Save color profile to file)](./16-06-13-00-save-color-profile-to-file.md)
 
 [⬅️ 이전: 16.6.12.1. 명령 활성화하기(Activating the command)](./16-06-12-01-activating_the_command.md)
 

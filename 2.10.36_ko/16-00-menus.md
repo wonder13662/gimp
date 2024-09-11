@@ -746,7 +746,13 @@
 
 [16.6.12.2. `색상 프로파일 버리기` 사용방법(Use Notes for `Discard Color Profile`)](./16-06-12-02-use_notes_for_discard_color_profile.md)
 
-[16.6.13. 색상 프로파일 파일로 저장하기(Save color profile to file)](./16-06-13-save-color-profile-to-file.md)
+[16.6.13. 색상 프로파일 파일로 저장하기(Save color profile to file)](./16-06-13-00-save-color-profile-to-file.md)
+
+[16.6.13.1. 명령 활성화하기(Activating the command)](./16-06-13-01-activating_the_command.md)
+
+[16.6.13.2. `색상 프로파일 파일로 저장하기` 사용 설명(Use Notes for `Save Color Profile to File`)](./16-06-13-02-use_notes_for_save_color_profile_to_file.md)
+
+[16.6.13.3. 예제(An example with screenshots showing how to use `Save Color Profile to File`)](./16-06-13-03-example.md)
 
 [16.6.14. 변형(Transform)](./16-06-14-transform.md)
 
@@ -995,12 +1001,6 @@
 [16.8.31. Desaturate](./16-08-31-desaturate.md)
 
 [16.8.32. Mono mixer](./16-08-32-mono-mixer.md)
-
-[16.8.33. Sepia](./16-08-33-sepia.md)
-
-[16.8.34. The "Map" submenu](./16-08-34-the-map-submenu.md)
-
-[16.8.35. 색상표 재배치(Rearrange colormap)](./16-08-35-rearrange-colormap.md)
 
 ***
 
