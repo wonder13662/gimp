@@ -3656,7 +3656,13 @@
 
 [16.6.9.5. 색상 관리 활성화 옵션 비활성화 뒤의 보정된 이미지와 보정되지 않은 이미지 비교(Two screenshots showing examples of correct and incorrect image appearances after unchecking Enable Color Management)](./16-06-09-05-example.md)
 
-[16.6.10. 색상 프로파일 할당(Assign color profile)](./16-06-10-assign-color-profile.md)
+[16.6.10. 색상 프로파일 할당(Assign color profile)](./16-06-10-00-assign-color-profile.md)
+
+[16.6.10.1. 명령 활성화하기(Activating the command)](./16-06-10-01-activating_the_command.md)
+
+[16.6.10.2. `색상 프로파일 할당` 사용방법(Use Notes for Assign Color Profile)](./16-06-10-02-use_notes_for_assign_color_profile.md)
+
+[16.6.10.3. 예제(An example with screenshots showing how to use Assign Color Profile)](./16-06-10-03-example.md)
 
 [16.6.11. 색상 프로파일로 변환(Convert to color profile)](./16-06-11-convert-to-color-profile.md)
 
@@ -4436,6 +4442,8 @@
 
 [19. 용어집 - 체비쇼프(Chebyshev)](./19-glossaryx-chebyshev.md)
 
+[19. 용어집 - 색도(Chromaticity)](./19-glossaryx-chromaticity.md)
+
 [19. 용어집 - 깨끗한 이미지(Clean Image)](./19-glossaryx-clean_image.md)
 
 [19. 용어집 - 색상 영역(Color Area)](./19-glossaryx-color_area.md)
@@ -4519,6 +4527,8 @@
 [19. 용어집 - 그라디언트 파일 확장자 - `.ggr`](./19-glossaryx-ggr.md)
 
 [19. 용어집 - 붓 파일 확장자 - `.gih`](./19-glossaryx-gih.md)
+
+[19. 용어집 - GIMP(김프)의 자체 sRGB 프로파일(GIMP's built-in sRGB profiles)](./19-glossaryx-gimp_built_in_srgb_profile.md)
 
 [19. 용어집 - gimp_data_directory](./19-glossaryx-gimp_data_directory.md)
 
@@ -6257,6 +6267,8 @@
 [90.4.180. ICC 색상 프로파일로 변환(Convert to ICC Color Profile)](./90-04-0180-convert_to_icc_color_profile.md)
 
 [90.4.181. 색상 프로필 저장(Save Color Profile)](./90-04-0181-save_color_profile.md)
+
+[90.4.182. 대상 프로파일 선택(Select Destination Profile)](./90-04-0182-select_destination_profile.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

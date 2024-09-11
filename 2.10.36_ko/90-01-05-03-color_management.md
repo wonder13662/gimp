@@ -7,6 +7,15 @@
 
 [16.6.8. 색상 관리(Color management) - 그림 90.1.5.3.a101](./16-06-08-color-management.md#90-01-05-03-a101)
 
+[16.6.10.1. 명령 활성화하기(Activating the command) - 그림 90.1.5.3.a101](./16-06-10-01-activating_the_command.md#90-01-05-03-a101)
+
+<a id="90-01-05-03-a101-01"></a>
+
+#### 영상 90.1.5.3.a101.1. `이미지 메뉴 바` → `이미지` → `색상 관리` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a7ff5fc4-aee8-46f8-b043-c12e586478f3"></video>
+
+[16.6.10.1. 명령 활성화하기(Activating the command) - 영상 90.1.5.3.a101.1](./16-06-10-01-activating_the_command.md#90-01-05-03-a101-01)
+
 <a id="90-01-05-03-a102"></a>
 
 #### 그림 90.1.5.3.a102. `이미지 메뉴 바` → `이미지` → `색상 관리` (Windows) (영어)
@@ -73,7 +82,23 @@
 #### 그림 90.1.5.3.a141. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 프로파일 할당` (Windows) (우리말)
 <img width="652" height="298" alt="90-01-05-03-a141" src="https://github.com/user-attachments/assets/face0a78-cd5e-4199-8cd8-54012068b6b0" />
 
-[16.6.10. 색상 프로파일 할당(Assign color profile) - 그림 90.1.5.3.a141](./16-06-10-assign-color-profile.md#90-01-05-03-a141)
+[16.6.10. 색상 프로파일 할당(Assign color profile) - 그림 90.1.5.3.a141](./16-06-10-00-assign-color-profile.md#90-01-05-03-a141)
+
+[16.6.10.1. 명령 활성화하기(Activating the command) - 그림 90.1.5.3.a141](./16-06-10-01-activating_the_command.md#90-01-05-03-a141)
+
+<a id="90-01-05-03-a141"></a>
+
+#### 그림 90.1.5.3.a141. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 프로파일 할당`: 이미지의 ICC 프로파일 버리고 기본 프로파일 설정 (Windows) (우리말)
+<img width="725" height="551" alt="90-01-05-03-a141" src="https://github.com/user-attachments/assets/63d9f37b-04f3-482a-b172-c08e85984999" />
+
+[16.6.10.3. 예제(An example with screenshots showing how to use Assign Color Profile) - 그림 90.1.5.3.a141](./16-06-10-03-example.md#90-01-05-03-a141)
+
+<a id="90-01-05-03-a142"></a>
+
+#### 그림 90.1.5.3.a142. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 프로파일 할당`: 이미지의 ICC 프로파일로 되돌리기 (Windows) (우리말)
+<img width="725" height="551" alt="90-01-05-03-a142" src="https://github.com/user-attachments/assets/329a7598-6747-44f6-bb51-1c3d468f4c05" />
+
+[16.6.10.3. 예제(An example with screenshots showing how to use Assign Color Profile) - 그림 90.1.5.3.a142](./16-06-10-03-example.md#90-01-05-03-a142)
 
 <a id="90-01-05-03-a151"></a>
 

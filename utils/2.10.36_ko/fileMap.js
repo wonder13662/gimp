@@ -1700,7 +1700,7 @@ module.exports = {
         '16.6.9. 색상 관리 활성화(Enable color management)'
       ],
       [
-        '16-06-10-assign-color-profile.md', 
+        '16-06-10-00-assign-color-profile.md', 
         '16.6.10. 색상 프로파일 할당(Assign color profile)'
       ],
       [

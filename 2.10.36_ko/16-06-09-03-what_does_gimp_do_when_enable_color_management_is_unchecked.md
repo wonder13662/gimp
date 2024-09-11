@@ -24,7 +24,7 @@ ICC 프로파일 "GIMP built-in Linear sRGB"이 설정됩니다.
 ## 2. 타이틀 바에 "not color managed" 표시
 [타이틀 바](./19-glossaryx-title_bar.md)에 이미지의 색공간을 표시하도록 설정되어 있다면, "not color managed"라고 표시됩니다.
 
-실제로는 이미지의 색상은 관리되고 있지만, 이전의 색상 공간 대신에 GIMP(김프)의 자체적인 sRGB 색공간으로 이미지의 색이 관리되고 있습니다.
+실제로는 이미지의 색상은 관리되고 있지만, 이전의 색상 공간 대신에 [GIMP(김프)의 자체적인 sRGB 색공간](./19-glossaryx-gimp_built_in_srgb_profile.md)으로 이미지의 색이 관리되고 있습니다.
 
 ***
 

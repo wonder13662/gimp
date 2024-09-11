@@ -70,7 +70,13 @@
 
 [16.6.9.5. 색상 관리 활성화 옵션 비활성화 뒤의 보정된 이미지와 보정되지 않은 이미지 비교(Two screenshots showing examples of correct and incorrect image appearances after unchecking Enable Color Management)](./16-06-09-05-example.md)
 
-[16.6.10. 색상 프로파일 할당(Assign color profile)](./16-06-10-assign-color-profile.md)
+[16.6.10. 색상 프로파일 할당(Assign color profile)](./16-06-10-00-assign-color-profile.md)
+
+[16.6.10.1. 명령 활성화하기(Activating the command)](./16-06-10-01-activating_the_command.md)
+
+[16.6.10.2. `색상 프로파일 할당` 사용방법(Use Notes for Assign Color Profile)](./16-06-10-02-use_notes_for_assign_color_profile.md)
+
+[16.6.10.3. 예제(An example with screenshots showing how to use Assign Color Profile)](./16-06-10-03-example.md)
 
 [16.6.11. 색상 프로파일로 변환(Convert to color profile)](./16-06-11-convert-to-color-profile.md)
 

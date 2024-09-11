@@ -12,7 +12,7 @@
 <a id="16-06-09-04-s2"></a>
 
 ## 2. 이미지에 GIMP(김프)의 자체적인 sRGB 프로파일 할당
-`색상 관리 활성화(Enable color management)` 옵션이 비활성화되어 있으면, GIMP(김프)는 자체적인 sRGB 프로파일 두개 중 하나를 이미지에 할당합니다.
+`색상 관리 활성화(Enable color management)` 옵션이 비활성화되어 있으면, [GIMP(김프)는 자체적인 sRGB 프로파일](./19-glossaryx-gimp_built_in_srgb_profile.md) 두개 중 하나를 이미지에 할당합니다.
 
 - `GIMP built-in sRGB`
 - `GIMP built-in Linear sRGB`
@@ -24,9 +24,9 @@
 <a id="16-06-09-04-s2-01"></a>
 
 ### 2-1. GIMP(김프)의 자체적인 sRGB 프로파일 할당 이후에도 이미지의 모습이 바뀌지 않는 경우
-이미지가 이미 GIMP(김프)의 자체적인 색상 공간 중 하나를 할당받았다면, 이미지의 모습은 바뀌지 않습니다.
+이미지가 이미 [GIMP(김프)의 자체적인 색상 공간](./19-glossaryx-gimp_built_in_srgb_profile.md) 중 하나를 할당받았다면, 이미지의 모습은 바뀌지 않습니다.
 
-또는 이전에 할당된 ICC 프로파일이 GIMP(김프)의 자체적인 색상 공간과 동일한 기능인 경우에도 이미지의 모습은 바뀌지 않습니다.
+또는 이전에 할당된 ICC 프로파일이 [GIMP(김프)의 자체적인 색상 공간](./19-glossaryx-gimp_built_in_srgb_profile.md)과 동일한 기능인 경우에도 이미지의 모습은 바뀌지 않습니다.
 
 <a id="16-06-09-04-s2-02"></a>
 
@@ -37,7 +37,7 @@
 
 2. 이미지의 원래 할당된 ICC 프로파일의 채널 인코딩과 GIMP(김프)의 정밀도 채널 인코딩의 차이
 
-3. 이미지의 원래 할당된 ICC 프로파일의 빨강, 초록, 파랑의 색도(Chromaticity)와 GIMP(김프)의 자체 sRGB 색도(Chromaticity)의 차이
+3. 이미지의 원래 할당된 ICC 프로파일의 빨강, 초록, 파랑의 [색도(Chromaticity)](./19-glossaryx-chromaticity.md)와 GIMP(김프)의 자체 sRGB [색도(Chromaticity)](./19-glossaryx-chromaticity.md)의 차이
 
 ***
 
