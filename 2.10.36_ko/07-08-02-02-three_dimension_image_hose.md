@@ -60,8 +60,8 @@
 
 <a id="90-01-05-06-a101"></a>
 
-#### [그림 90.1.5.6.a101. `이미지` → `캔버스 크기`](./90-01-05-06-canvas_size.md#90-01-05-06-a101)
-![90-01-05-image(1080)-focus-canvas_size](https://github.com/wonder13662/gimp/assets/15767104/8c5ef4cb-a978-4950-b033-e576e342931f)
+#### [그림 90.1.5.6.a101. `이미지 메뉴 바` → `이미지` → `캔버스 크기`](./90-01-05-06-canvas_size.md#90-01-05-06-a101)
+<img width="977" height="603" alt="90-01-05-06-a101" src="https://github.com/user-attachments/assets/46689f90-b1a6-4733-8b57-a34804d8b0c4" />
 
 이동 도구를 선택합니다. 이동 도구의 도구 옵션(Tool Options)의 대화상자의 `도구 전환(Tool Toggle)`의 `현재 레이어 이동(Move the active layer)`을 선택합니다. 
 

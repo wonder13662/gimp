@@ -1,0 +1,1 @@
+# 16.6.17.4. 캔버스 크기는 언제 쓰나요?(What's Canvas Size useful for?)

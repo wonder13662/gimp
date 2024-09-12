@@ -1728,7 +1728,7 @@ module.exports = {
         '16.6.16. 회전(Rotation)'
       ],
       [
-        '16-06-17-canvas-size.md', 
+        '16-06-17-00-canvas-size.md', 
         '16.6.17. 캔버스 크기(Canvas size)'
       ],
       [

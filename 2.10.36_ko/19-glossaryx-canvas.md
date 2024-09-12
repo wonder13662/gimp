@@ -1,5 +1,8 @@
 # 19. 용어집 - 캔버스(Canvas)
 
+## 1. 캔버스의 정의
+캔버스는 이미지에서 보이는 영역입니다.
+
 ## 1. 캔버스 경계(Canvas Boundary)
 
 [`이미지 메뉴 바` → `보기` → `모두 보기`](./16-05-03-00-show_all.md)가 활성화되어야 캔버스 경계가 빨간 점선으로 표시됩니다.
@@ -20,3 +23,5 @@
 [16.5.15. 캔버스 경계 보이기(Show Canvas Boundary)](./16-05-15-show-canvas-boundary.md)
 
 [16.5.21. 캔버스 경계에 맞추기(Snap to Canvas Edges)](./16-05-21-snap_to_canvas_edges.md)
+
+[16.6.17. 캔버스 크기(Canvas size)](./16-06-17-00-canvas-size.md)

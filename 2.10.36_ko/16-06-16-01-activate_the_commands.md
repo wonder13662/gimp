@@ -40,7 +40,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.6.17. 캔버스 크기(Canvas size)](./16-06-17-canvas-size.md)
+[➡️ 다음: 16.6.17. 캔버스 크기(Canvas size)](./16-06-17-00-canvas-size.md)
 
 [⬅️ 이전: 16.6.16. 회전(Rotation)](./16-06-16-00-rotation.md)
 

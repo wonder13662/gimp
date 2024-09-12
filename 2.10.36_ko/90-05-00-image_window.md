@@ -207,7 +207,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.184. 색상 프로필 저장(Save Color Profile)](./90-04-0184-save_color_profile.md)
+[⬅️ 이전: 90.4.185. 캔버스 크기 지정(Set Image Canvas Size)](./90-04-0185-set_image_canvas_size.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

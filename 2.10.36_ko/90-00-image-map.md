@@ -1581,6 +1581,8 @@
 
 [90.4.184. 색상 프로필 저장(Save Color Profile)](./90-04-0184-save_color_profile.md)
 
+[90.4.185. 캔버스 크기 지정(Set Image Canvas Size)](./90-04-0185-set_image_canvas_size.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

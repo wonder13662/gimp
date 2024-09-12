@@ -108,7 +108,7 @@
 
 [16.6.16.1. 명령 활성화하기(Activate the Commands)](./16-06-16-01-activate_the_commands.md)
 
-[16.6.17. 캔버스 크기(Canvas size)](./16-06-17-canvas-size.md)
+[16.6.17. 캔버스 크기(Canvas size)](./16-06-17-00-canvas-size.md)
 
 [16.6.18. Fit canvas to layers](./16-06-18-fit-canvas-to-layers.md)
 

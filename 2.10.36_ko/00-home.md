@@ -3694,7 +3694,11 @@
 
 [16.6.16.1. 명령 활성화하기(Activate the Commands)](./16-06-16-01-activate_the_commands.md)
 
-[16.6.17. 캔버스 크기(Canvas size)](./16-06-17-canvas-size.md)
+[16.6.17. 캔버스 크기(Canvas size)](./16-06-17-00-canvas-size.md)
+
+[16.6.17.1. 명령 활성화하기(Activating the Command)](./16-06-17-01-activating_the_command.md)
+
+[16.6.17.2. ?(Description of the “Set Image Canvas Size” dialog)](./16-06-17-02-description_of_the_set_image_canvas_size_dialog.md)
 
 [16.6.18. Fit canvas to layers](./16-06-18-fit-canvas-to-layers.md)
 
@@ -6293,6 +6297,8 @@
 [90.4.183. ICC 색상 프로파일로 변환(Convert to ICC Color Profile)](./90-04-0183-convert_to_icc_color_profile.md)
 
 [90.4.184. 색상 프로필 저장(Save Color Profile)](./90-04-0184-save_color_profile.md)
+
+[90.4.185. 캔버스 크기 지정(Set Image Canvas Size)](./90-04-0185-set_image_canvas_size.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
