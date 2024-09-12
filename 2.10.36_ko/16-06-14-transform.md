@@ -23,15 +23,15 @@
 
 ## 2. 하위 메뉴 목록
 
-[16.6.15. 수평 뒤집기, 수직 뒤집기(Flip horizontally, flip vertically)](./16-06-15-flip-horizontally-flip-vertically.md)
+[16.6.15. 수평 뒤집기, 수직 뒤집기(Flip Horizontally, Flip Vertically)](./16-06-15-flip-horizontally-flip-vertically.md)
 
-[16.6.16. 회전(Rotation)](./16-06-16-rotation.md)
+[16.6.16. 회전(Rotation)](./16-06-16-00-rotation.md)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.6.15. 수평 뒤집기, 수직 뒤집기(Flip horizontally, flip vertically)](./16-06-15-flip-horizontally-flip-vertically.md)
+[➡️ 다음: 16.6.15. 수평 뒤집기, 수직 뒤집기(Flip Horizontally, Flip Vertically)](./16-06-15-flip-horizontally-flip-vertically.md)
 
 [⬅️ 이전: 16.6.13.3. 예제(An example with screenshots showing how to use `Save Color Profile to File`)](./16-06-13-03-example.md)
 

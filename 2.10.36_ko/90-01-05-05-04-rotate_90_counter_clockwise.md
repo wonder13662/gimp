@@ -2,10 +2,12 @@
 
 <a id="90-01-05-05-04-a101"></a>
 
-#### 영상 90.1.5.5.4.a101. "이미지 회전하기" 예시 - 시계 반대방향으로 90도 회전(Rotate 90° counter-clockwise)
-<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/89642791-b45a-48cf-b889-9490cac051f0"></video>
+#### 영상 90.1.5.5.4.a101. `이미지 메뉴 바` → `이미지` → `변형` → `시계 반대방향으로 90도 회전` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/ea5d1c44-c4b9-4800-a4d5-f79c152be240"></video>
 
 [3.4.9. 이미지 회전하기 - 영상 90.1.5.5.4.a101](./03-04-09-rotate-an-image.md#90-01-05-05-04-a101)
+
+[16.6.16.1. 명령 활성화하기(Activate the Commands) - 영상 90.1.5.5.4.a101](./16-06-16-01-activate_the_commands.md#90-01-05-05-04-a101)
 
 ***
 

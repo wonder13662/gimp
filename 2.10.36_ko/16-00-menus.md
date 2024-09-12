@@ -756,9 +756,11 @@
 
 [16.6.14. 변형(Transform)](./16-06-14-transform.md)
 
-[16.6.15. 수평 뒤집기, 수직 뒤집기(Flip horizontally, flip vertically)](./16-06-15-flip-horizontally-flip-vertically.md)
+[16.6.15. 수평 뒤집기, 수직 뒤집기(Flip Horizontally, Flip Vertically)](./16-06-15-flip-horizontally-flip-vertically.md)
 
-[16.6.16. 회전(Rotation)](./16-06-16-rotation.md)
+[16.6.16. 회전(Rotation)](./16-06-16-00-rotation.md)
+
+[16.6.16.1. 명령 활성화하기(Activate the Commands)](./16-06-16-01-activate_the_commands.md)
 
 [16.6.17. 캔버스 크기(Canvas size)](./16-06-17-canvas-size.md)
 
@@ -912,11 +914,11 @@
 
 [16.7.42. Intersect alpha channel with selection](./16-07-42-intersect-alpha-channel-with-selection.md)
 
-[16.7.43. The transform submenu](./16-07-43-the-transform-submenu.md)
+[16.7.43. 변형 메뉴(The transform submenu)](./16-07-43-the-transform-submenu.md)
 
-[16.7.44. Flip horizontally](./16-07-44-flip-horizontally.md)
+[16.7.44. 수평 뒤집기(Flip horizontally)](./16-07-44-flip-horizontally.md)
 
-[16.7.45. Flip vertically](./16-07-45-flip-vertically.md)
+[16.7.45. 수직 뒤집기(Flip vertically)](./16-07-45-flip-vertically.md)
 
 [16.7.46. Rotate 90° clockwise](./16-07-46-rotate-90-clockwise.md)
 
@@ -999,8 +1001,6 @@
 [16.8.30. Color to gray](./16-08-30-color-to-gray.md)
 
 [16.8.31. Desaturate](./16-08-31-desaturate.md)
-
-[16.8.32. Mono mixer](./16-08-32-mono-mixer.md)
 
 ***
 

@@ -1721,10 +1721,10 @@ module.exports = {
       ],
       [
         '16-06-15-flip-horizontally-flip-vertically.md', 
-        '16.6.15. 수평 뒤집기, 수직 뒤집기(Flip horizontally, flip vertically)'
+        '16.6.15. 수평 뒤집기, 수직 뒤집기(Flip Horizontally, Flip Vertically)'
       ],
       [
-        '16-06-16-rotation.md', 
+        '16-06-16-00-rotation.md', 
         '16.6.16. 회전(Rotation)'
       ],
       [
@@ -1987,15 +1987,15 @@ module.exports = {
       ],
       [
         '16-07-43-the-transform-submenu.md', 
-        '16.7.43. The transform submenu'
+        '16.7.43. 변형 메뉴(The transform submenu)'
       ],
       [
         '16-07-44-flip-horizontally.md', 
-        '16.7.44. Flip horizontally'
+        '16.7.44. 수평 뒤집기(Flip horizontally)'
       ],
       [
         '16-07-45-flip-vertically.md', 
-        '16.7.45. Flip vertically'
+        '16.7.45. 수직 뒤집기(Flip vertically)'
       ],
       [
         '16-07-46-rotate-90-clockwise.md', 

@@ -283,7 +283,7 @@
 
 [90.1.5.5.5. 180도 회전(Rotate 180°)](./90-01-05-05-05-rotate_180.md)
 
-[90.1.5.5.6. 임의 각도 회전(Arbitrary Rotation)](./90-01-05-06-arbitrary_rotation.md)
+[90.1.5.5.6. 임의 각도 회전(Arbitrary Rotation)](./90-01-05-05-06-arbitrary_rotation.md)
 
 [90.1.5.6. 캔버스 크기(Canvas Size)](./90-01-05-06-canvas_size.md)
 
