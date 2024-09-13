@@ -13,13 +13,13 @@ GIMP(김프)에서 인쇄를 하기 위해서는 [이미지 메뉴 바](./19-glo
 
 <a id="90-01-05-09-a101"></a>
 
-#### [그림 90.1.5.9.a101. 이미지 메뉴 바에서 '인쇄 크기'의 위치](./90-01-05-09-print_size.md#90-01-05-09-a101)
-![90-01-05-09-a101](https://github.com/wonder13662/gimp/assets/15767104/e0860f85-9f68-4778-becb-23e3e6d62ac8)
+#### [그림 90.1.5.9.a101. `이미지 메뉴 바` → `이미지` → `인쇄 크기`](./90-01-05-09-print_size.md#90-01-05-09-a101)
+<img width="977" height="603" alt="90-01-05-09-a101" src="https://github.com/user-attachments/assets/d99cce28-7bf5-4256-92e8-a63181ef7a93" />
 
 <a id="90-04-30-a101"></a>
 
 #### [그림 90.4.30.a101. 인쇄 해상도 설정 대화상자 (Windows) (우리말)](./90-04-0030-set_image_print_resolution.md#90-04-30-a101)
-![90-04-30-a101](https://github.com/wonder13662/gimp/assets/15767104/6f4138fe-b944-4a86-bd46-9b30ddd4181c)
+<img width="449" height="343" alt="90-04-30-a101" src="https://github.com/wonder13662/gimp/assets/15767104/6f4138fe-b944-4a86-bd46-9b30ddd4181c" />
 
 [다른 운영체제와 언어의 `인쇄 해상도 설정` 대화상자 확인하기](./90-04-0030-set_image_print_resolution.md#90-04-30-a102)
 
