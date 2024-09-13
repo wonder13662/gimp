@@ -764,6 +764,28 @@
 
 [16.6.17. 캔버스 크기(Canvas size)](./16-06-17-00-canvas-size.md)
 
+[16.6.17.1. 명령 활성화하기(Activating the Command)](./16-06-17-01-activating_the_command.md)
+
+[16.6.17.2. `캔버스 크기 지정` 대화상자 설명(Description of the “Set Image Canvas Size” dialog)](./16-06-17-02-00-description_of_the_set_image_canvas_size_dialog.md)
+
+[16.6.17.2.1. 캔버스 크기(Canvas Size)](./16-06-17-02-01-canvas_size.md)
+
+[16.6.17.2.2. 오프셋(Offset)](./16-06-17-02-02-00-offset.md)
+
+[16.6.17.2.2.1. X, Y 좌표(X ; Y)](./16-06-17-02-02-01-xy.md)
+
+[16.6.17.2.3. 레이어(Layers)](./16-06-17-02-03-00-layers.md)
+
+[16.6.17.2.3.1. 레이어 크기 바꾸기(Resize Layers)](./16-06-17-02-03-01-resize_layers.md)
+
+[16.6.17.2.3.2. 채우기(Fill with)](./16-06-17-02-03-02-fill_with.md)
+
+[16.6.17.2.3.3. 텍스트 레이어 크기 조절(Resize text layers)](./16-06-17-02-03-03-resize_text_layers.md)
+
+[16.6.17.2.4. 가운데로 옮기기(Center)](./16-06-17-02-04-center.md)
+
+[16.6.17.3. 캔버스 크기는 언제 쓰나요?(What's Canvas Size useful for?)](./16-06-17-03-whats_canvas_size_useful_for.md)
+
 [16.6.18. Fit canvas to layers](./16-06-18-fit-canvas-to-layers.md)
 
 [16.6.19. Fit canvas to selection](./16-06-19-fit-canvas-to-selection.md)
@@ -979,28 +1001,6 @@
 [16.8.19. Stretch contrast HSV](./16-08-19-stretch-contrast-hsv.md)
 
 [16.8.20. Color enhance](./16-08-20-color-enhance.md)
-
-[16.8.21. Color enhance legacy](./16-08-21-color-enhance-legacy.md)
-
-[16.8.22. The "Components" submenu](./16-08-22-the-components-submenu.md)
-
-[16.8.23. 채널 혼합](./16-08-23-channel-mixer.md)
-
-[16.8.24. Extract component](./16-08-24-extract-component.md)
-
-[16.8.25. Mono mixer](./16-08-25-mono-mixer.md)
-
-[16.8.26. Compose](./16-08-26-compose.md)
-
-[16.8.27. Decompose](./16-08-27-decompose.md)
-
-[16.8.28. Recompose](./16-08-28-recompose.md)
-
-[16.8.29. The "Desaturate" submenu](./16-08-29-the-desaturate-submenu.md)
-
-[16.8.30. Color to gray](./16-08-30-color-to-gray.md)
-
-[16.8.31. Desaturate](./16-08-31-desaturate.md)
 
 ***
 

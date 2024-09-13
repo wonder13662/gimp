@@ -141,98 +141,100 @@
 #### 그림 90.4.185.a201. `캔버스 크기 지정` 대화상자 → `오프셋` → `레이어` (Windows) (우리말)
 <img width="467" height="481" alt="90-04-185-a201" src="https://github.com/user-attachments/assets/7bc8fbe5-8c46-4faf-9e7d-7e57e63e4ed8" />
 
-[16.6.17.2.3. 레이어(Layers) - 그림 90.4.185.a201](./16-06-17-02-03-layers.md#90-04-185-a201)
+[16.6.17.2.3. 레이어(Layers) - 그림 90.4.185.a201](./16-06-17-02-03-00-layers.md#90-04-185-a201)
 
 <a id="90-04-185-a211"></a>
 
 #### 그림 90.4.185.a211. `캔버스 크기 지정` 대화상자 → `오프셋` → `레이어` → `레이어 크기 바꾸기` (Windows) (우리말)
 <img width="467" height="481" alt="90-04-185-a211" src="https://github.com/user-attachments/assets/14d5fb16-cbad-4e1d-892f-3c57dd90937c" />
 
-[16.6.17.2.3. 레이어(Layers) - 그림 90.4.185.a211](./16-06-17-02-03-layers.md#90-04-185-a211)
+[16.6.17.2.3. 레이어(Layers) - 그림 90.4.185.a211](./16-06-17-02-03-00-layers.md#90-04-185-a211)
+
+[16.6.17.2.3.1. 레이어 크기 바꾸기(Resize Layers) - 그림 90.4.185.a211](./16-06-17-02-03-01-resize_layers.md#90-04-185-a211)
 
 <a id="90-04-185-a212"></a>
 
 #### 그림 90.4.185.a212. `캔버스 크기 지정` 대화상자 → `오프셋` → `레이어` → `레이어 크기 바꾸기`: 드롭다운 목록 (Windows)
 <img width="323" height="222" alt="90-04-185-a212" src="https://github.com/user-attachments/assets/3137bf8d-bfd3-4e41-b282-40fb0087bb41" />
 
-[16.6.17.2.3. 레이어(Layers) - 그림 90.4.185.a212](./16-06-17-02-03-layers.md#90-04-185-a212)
+[16.6.17.2.3.1. 레이어 크기 바꾸기(Resize Layers) - 그림 90.4.185.a212](./16-06-17-02-03-01-resize_layers.md#90-04-185-a212)
 
 <a id="90-04-185-a212-01"></a>
 
 #### 영상 90.4.185.a212.1. `캔버스 크기 지정` 대화상자 → `오프셋` → `레이어` → `레이어 크기 바꾸기` → `없음` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/42937a64-0e41-4dde-bd35-c81353720cf0"></video>
 
-[16.6.17.2.3. 레이어(Layers) - 영상 90.4.185.a212.1](./16-06-17-02-03-layers.md#90-04-185-a212-01)
+[16.6.17.2.3.1. 레이어 크기 바꾸기(Resize Layers) - 영상 90.4.185.a212.1](./16-06-17-02-03-01-resize_layers.md#90-04-185-a212-01)
 
 <a id="90-04-185-a212-02"></a>
 
 #### 영상 90.4.185.a212.2. `캔버스 크기 지정` 대화상자 → `오프셋` → `레이어` → `레이어 크기 바꾸기` → `모든 레이어` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/0f167412-72e1-410d-9e9c-3cf801aa18c1"></video>
 
-[16.6.17.2.3. 레이어(Layers) - 영상 90.4.185.a212.2](./16-06-17-02-03-layers.md#90-04-185-a212-02)
+[16.6.17.2.3.1. 레이어 크기 바꾸기(Resize Layers) - 영상 90.4.185.a212.2](./16-06-17-02-03-01-resize_layers.md#90-04-185-a212-02)
 
 <a id="90-04-185-a212-03"></a>
 
 #### 영상 90.4.185.a212.3. `캔버스 크기 지정` 대화상자 → `오프셋` → `레이어` → `레이어 크기 바꾸기` → `이미지 크기의 레이어` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6bad82db-c3d4-4bfb-9bbe-1f72d083d323"></video>
 
-[16.6.17.2.3. 레이어(Layers) - 영상 90.4.185.a212.3](./16-06-17-02-03-layers.md#90-04-185-a212-03)
+[16.6.17.2.3.1. 레이어 크기 바꾸기(Resize Layers) - 영상 90.4.185.a212.3](./16-06-17-02-03-01-resize_layers.md#90-04-185-a212-03)
 
 <a id="90-04-185-a212-04"></a>
 
 #### 영상 90.4.185.a212.4. `캔버스 크기 지정` 대화상자 → `오프셋` → `레이어` → `레이어 크기 바꾸기` → `모든 보이는 레이어` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/0dadcadd-bec4-45ef-bdb1-14570ed7abf3"></video>
 
-[16.6.17.2.3. 레이어(Layers) - 영상 90.4.185.a212.4](./16-06-17-02-03-layers.md#90-04-185-a212-04)
+[16.6.17.2.3.1. 레이어 크기 바꾸기(Resize Layers) - 영상 90.4.185.a212.4](./16-06-17-02-03-01-resize_layers.md#90-04-185-a212-04)
 
 <a id="90-04-185-a212-05"></a>
 
 #### 영상 90.4.185.a212.5. `캔버스 크기 지정` 대화상자 → `오프셋` → `레이어` → `레이어 크기 바꾸기` → `모든 링크된 레이어` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/b3cd0c00-9112-415f-8c90-c15b2e57808b"></video>
 
-[16.6.17.2.3. 레이어(Layers) - 영상 90.4.185.a212.5](./16-06-17-02-03-layers.md#90-04-185-a212-05)
+[16.6.17.2.3.1. 레이어 크기 바꾸기(Resize Layers) - 영상 90.4.185.a212.5](./16-06-17-02-03-01-resize_layers.md#90-04-185-a212-05)
 
 <a id="90-04-185-a221"></a>
 
 #### 그림 90.4.185.a221. `캔버스 크기 지정` 대화상자 → `오프셋` → `레이어` → `채우기` (Windows) (우리말)
 <img width="467" height="481" alt="90-04-185-a221" src="https://github.com/user-attachments/assets/229068ba-1272-4be6-b5ff-eccfe8d4482c" />
 
-[16.6.17.2.3. 레이어(Layers) - 그림 90.4.185.a221](./16-06-17-02-03-layers.md#90-04-185-a221)
+[16.6.17.2.3.2. 채우기(Fill with) - 그림 90.4.185.a221](./16-06-17-02-03-02-fill_with.md#90-04-185-a221)
 
 <a id="90-04-185-a222"></a>
 
 #### 그림 90.4.185.a222. `캔버스 크기 지정` 대화상자 → `오프셋` → `레이어` → `채우기`: 드롭다운 목록 (Windows)
 <img width="127" height="127" alt="90-04-185-a222" src="https://github.com/user-attachments/assets/635e6648-b9e0-4374-96a6-23c0dd8702dd" />
 
-[16.6.17.2.3. 레이어(Layers) - 그림 90.4.185.a222](./16-06-17-02-03-layers.md#90-04-185-a222)
+[16.6.17.2.3.2. 채우기(Fill with) - 그림 90.4.185.a222](./16-06-17-02-03-02-fill_with.md#90-04-185-a222)
 
 <a id="90-04-185-a223"></a>
 
 #### 영상 90.4.185.a223. `캔버스 크기 지정` 대화상자 → `오프셋` → `레이어` → `채우기` → `전경색` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/be0de4f6-8b42-46dc-9247-002a26bba3b7"></video>
 
-[16.6.17.2.3. 레이어(Layers) - 영상 90.4.185.a223](./16-06-17-02-03-layers.md#90-04-185-a223)
+[16.6.17.2.3.2. 채우기(Fill with) - 영상 90.4.185.a223](./16-06-17-02-03-02-fill_with.md#90-04-185-a223)
 
 <a id="90-04-185-a231"></a>
 
 #### 그림 90.4.185.a231. `캔버스 크기 지정` 대화상자 → `오프셋` → `레이어` → `텍스트 레이어 크기 조절` (Windows) (우리말)
 <img width="467" height="481" alt="90-04-185-a231" src="https://github.com/user-attachments/assets/3b60a47a-d211-4805-bfe8-755cf2c4b576" />
 
-[16.6.17.2.3. 레이어(Layers) - 그림 90.4.185.a231](./16-06-17-02-03-layers.md#90-04-185-a231)
+[16.6.17.2.3. 레이어(Layers) - 그림 90.4.185.a231](./16-06-17-02-03-00-layers.md#90-04-185-a231)
 
 <a id="90-04-185-a232"></a>
 
 #### 영상 90.4.185.a232. `캔버스 크기 지정` 대화상자 → `오프셋` → `레이어` → `텍스트 레이어 크기 조절`: 비활성(끔) (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/71e8b4e7-da89-4808-a041-99c689331a66"></video>
 
-[16.6.17.2.3. 레이어(Layers) - 영상 90.4.185.a232](./16-06-17-02-03-layers.md#90-04-185-a232)
+[16.6.17.2.3.3. 텍스트 레이어 크기 조절(Resize text layers) - 영상 90.4.185.a232](./16-06-17-02-03-03-resize_text_layers.md#90-04-185-a232)
 
 <a id="90-04-185-a233"></a>
 
 #### 영상 90.4.185.a233. `캔버스 크기 지정` 대화상자 → `오프셋` → `레이어` → `텍스트 레이어 크기 조절`: 활성(켬) (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/327e16a3-6f6e-4462-86e0-39160c37a4c1"></video>
 
-[16.6.17.2.3. 레이어(Layers) - 영상 90.4.185.a233](./16-06-17-02-03-layers.md#90-04-185-a233)
+[16.6.17.2.3.3. 텍스트 레이어 크기 조절(Resize text layers) - 영상 90.4.185.a233](./16-06-17-02-03-03-resize_text_layers.md#90-04-185-a233)
 
 <a id="90-04-185-a301"></a>
 
