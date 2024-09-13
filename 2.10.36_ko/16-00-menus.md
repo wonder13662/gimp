@@ -786,7 +786,7 @@
 
 [16.6.17.3. 캔버스 크기는 언제 쓰나요?(What's Canvas Size useful for?)](./16-06-17-03-whats_canvas_size_useful_for.md)
 
-[16.6.18. Fit canvas to layers](./16-06-18-fit-canvas-to-layers.md)
+[16.6.18. 캔버스 크기를 레이어에 맞춥니다(Fit Canvas to Layers)](./16-06-18-fit-canvas-to-layers.md)
 
 [16.6.19. Fit canvas to selection](./16-06-19-fit-canvas-to-selection.md)
 

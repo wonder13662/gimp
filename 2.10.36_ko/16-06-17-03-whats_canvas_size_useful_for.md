@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.6.18. Fit canvas to layers](./16-06-18-fit-canvas-to-layers.md)
+[➡️ 다음: 16.6.18. 캔버스 크기를 레이어에 맞춥니다(Fit Canvas to Layers)](./16-06-18-fit-canvas-to-layers.md)
 
 [⬅️ 이전: 16.6.17.2.4. 가운데로 옮기기(Center)](./16-06-17-02-04-center.md)
 

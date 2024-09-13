@@ -1733,7 +1733,7 @@ module.exports = {
       ],
       [
         '16-06-18-fit-canvas-to-layers.md', 
-        '16.6.18. Fit canvas to layers'
+        '16.6.18. 캔버스 크기를 레이어에 맞춥니다(Fit Canvas to Layers)'
       ],
       [
         '16-06-19-fit-canvas-to-selection.md', 
