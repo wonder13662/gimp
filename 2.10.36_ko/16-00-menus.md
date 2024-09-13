@@ -792,6 +792,14 @@
 
 [16.6.20. 인쇄 크기(Print Size)](./16-06-20-00-print-size.md)
 
+[16.6.20.1. 명령 활성화하기(Activating the Dialog)](./16-06-20-01-activating_the_dialog.md)
+
+[16.6.20.2. `인쇄 해상도 설정` 대화상자의 옵션들(Options in the “Print Size” Dialog)](./16-06-20-02-00-options_in_the_print_size_dialog.md)
+
+[16.6.20.2.1. 너비와 높이(Width & Height)](./16-06-20-02-01-width_n_height.md)
+
+[16.6.20.2.2. 해상도(X resolution & Y resolution)](./16-06-20-02-02-x_n_y_resolution.md)
+
 [16.6.21. Scale image](./16-06-21-scale-image.md)
 
 [16.6.22. Crop image](./16-06-22-crop-image.md)
@@ -993,14 +1001,6 @@
 [16.8.15. The auto submenu](./16-08-15-the-auto-submenu.md)
 
 [16.8.16. Equalize](./16-08-16-equalize.md)
-
-[16.8.17. White balance](./16-08-17-white-balance.md)
-
-[16.8.18. Stretch contrast](./16-08-18-stretch-contrast.md)
-
-[16.8.19. Stretch contrast HSV](./16-08-19-stretch-contrast-hsv.md)
-
-[16.8.20. Color enhance](./16-08-20-color-enhance.md)
 
 ***
 
