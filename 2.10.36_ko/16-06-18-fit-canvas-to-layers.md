@@ -28,7 +28,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.6.19. Fit canvas to selection](./16-06-19-fit-canvas-to-selection.md)
+[➡️ 다음: 16.6.19. 선택 영역에 캔버스 크기 맞추기(Fit Canvas to Selection)](./16-06-19-fit-canvas-to-selection.md)
 
 [⬅️ 이전: 16.6.17.3. 캔버스 크기는 언제 쓰나요?(What's Canvas Size useful for?)](./16-06-17-03-whats_canvas_size_useful_for.md)
 

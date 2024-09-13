@@ -1,7 +1,18 @@
 # 90.1.5.8. 선택 영역에 캔버스 크기 맞추기(Fit Canvas to Selection)
 
-#### 그림 90.1.5.8.a101. 이미지 메뉴 바에서 '선택 영역에 캔버스 크기 맞추기'의 위치
-(TODO) 이미지 추가 필요
+<a id="90-01-05-08-a101"></a>
+
+#### 그림 90.1.5.8.a101. `이미지 메뉴 바` → `이미지` → `캔버스 크기` → `선택 영역에 캔버스 크기 맞추기`
+<img width="977" height="603" alt="90-01-05-08-a101" src="https://github.com/user-attachments/assets/78527aee-526f-4bcb-912f-07dc976e7883" />
+
+[16.6.19. 선택 영역에 캔버스 크기 맞추기(Fit Canvas to Selection) - 그림 90.1.5.8.a101](./16-06-19-fit-canvas-to-selection.md#90-01-05-08-a101)
+
+<a id="90-01-05-08-a111"></a>
+
+#### 영상 90.1.5.8.a111. `이미지 메뉴 바` → `이미지` → `캔버스 크기` → `선택 영역에 캔버스 크기 맞추기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7b8a30d0-7a9d-498a-b96c-27d661b15e26"></video>
+
+[16.6.19. 선택 영역에 캔버스 크기 맞추기(Fit Canvas to Selection) - 영상 90.1.5.8.a111](./16-06-19-fit-canvas-to-selection.md#90-01-05-08-a111)
 
 ***
 

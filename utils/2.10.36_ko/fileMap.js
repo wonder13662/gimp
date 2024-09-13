@@ -1737,7 +1737,7 @@ module.exports = {
       ],
       [
         '16-06-19-fit-canvas-to-selection.md', 
-        '16.6.19. Fit canvas to selection'
+        '16.6.19. 선택 영역에 캔버스 크기 맞추기(Fit Canvas to Selection)'
       ],
       [
         '16-06-20-print-size.md', 
