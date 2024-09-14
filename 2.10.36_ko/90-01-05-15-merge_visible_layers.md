@@ -1,7 +1,18 @@
 # 90.1.5.15. 보이는 레이어 합치기(Merge Visible Layers)
 
-#### 그림 90.1.5.15.a101. 이미지 메뉴 바에서 '보이는 레이어 합치기'의 위치
-(TODO) 이미지 추가 필요
+<a id="90-01-05-15-a101"></a>
+
+#### 그림 90.1.5.15.a101. `이미지 메뉴 바` → `이미지` → `보이는 레이어 합치기`
+<img width="977" height="603" alt="90-01-05-15-a101" src="https://github.com/user-attachments/assets/ba5888db-ac38-46f4-9f4f-b944dc8a04fd" />
+
+[16.6.25. 보이는 레이어 합치기(Merge visible layers) - 그림 90.1.5.15.a101](./16-06-25-00-merge_visible_layers.md#90-01-05-15-a101)
+
+<a id="90-01-05-15-a111"></a>
+
+#### 영상 90.1.5.15.a111. `이미지 메뉴 바` → `이미지` → `보이는 레이어 합치기`: 버그 리포트 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/1a515547-2a7d-4dc3-a22c-aefab489c5c9"></video>
+
+[16.6.25. 보이는 레이어 합치기(Merge visible layers) - 영상 90.1.5.15.a111](./16-06-25-00-merge_visible_layers.md#90-01-05-15-a111)
 
 ***
 

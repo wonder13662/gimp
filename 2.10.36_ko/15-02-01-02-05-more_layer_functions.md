@@ -36,7 +36,7 @@
 
 ### 2-1. `이미지 메뉴 바` → `이미지` 메뉴
 
-[16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-merge_visible_layers.md)
+[16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-00-merge_visible_layers.md)
 
 [16.6.26. 이미지 평탄화하기(Flatten image)](./16-06-26-flatten_image.md)
 

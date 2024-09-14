@@ -20,7 +20,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-merge_visible_layers.md)
+[➡️ 다음: 16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-00-merge_visible_layers.md)
 
 [⬅️ 이전: 16.6.23. 안내선으로 잘라내기(Slice Using Guides)](./16-06-23-slice-using-guides.md)
 

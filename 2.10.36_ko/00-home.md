@@ -3756,7 +3756,17 @@
 
 [16.6.24. 지능적으로 잘라내기(Zealous Crop)](./16-06-24-zealous-crop.md)
 
-[16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-merge_visible_layers.md)
+[16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-00-merge_visible_layers.md)
+
+[16.6.25.1. 명령 활성화하기(Activate the Command)](./16-06-25-01-activate_the_command.md)
+
+[16.6.25.2. `보이는 레이어 합치기` 대화상자 설명(Description of the “Layers Merge Options” Dialog)](./16-06-25-02-00-description_of_the_layers_merge_options_dialog.md)
+
+[16.6.25.2.1. ?(Final, Merged Layer should be)](./16-06-25-02-01-final_merged_layer_should_be.md)
+
+[16.6.25.2.2. ?(Merge within active group only)](./16-06-25-02-02-merge_within_active_group_only.md)
+
+[16.6.25.2.3. ?(Discard invisible layers)](./16-06-25-02-03-discard_invisible_layers.md)
 
 [16.6.26. 이미지 평탄화하기(Flatten image)](./16-06-26-flatten_image.md)
 
@@ -7421,6 +7431,12 @@
 [90.10.84.1. 키보드 단축키](./90-10-84-01-00-keyboard_shortcut.md)
 
 [90.10.84.1.1. 키보드 단축키: Ctrl + Alt + Shift + `C`](./90-10-84-01-01-ctrl_alt_shift_c.md)
+
+[90.10.84. `이미지 메뉴 바` → `이미지` → `보이는 레이어 합치기`](./90-10-85-00-menu_image_merge_visible_layers.md)
+
+[90.10.85.1. 키보드 단축키](./90-10-85-01-00-keyboard_shortcut.md)
+
+[90.10.85.1.1. 키보드 단축키: Ctrl(⌘) + `M`](./90-10-85-01-01-ctrl_m.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

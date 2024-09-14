@@ -146,7 +146,7 @@
 <a id="15-02-01-03-s26"></a>
 
 ## 26. 보이는 레이어 합치기(Merge visible layers)
-[16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-merge_visible_layers.md)를 참고하세요.
+[16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-00-merge_visible_layers.md)를 참고하세요.
 
 <a id="15-02-01-03-s27"></a>
 

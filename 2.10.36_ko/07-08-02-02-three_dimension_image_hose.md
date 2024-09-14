@@ -91,7 +91,7 @@
 <a id="90-04-56-a105"></a>
 
 #### [그림 90.4.56.a105. `레이어 합치기` 대화상자 (Windows) (우리말) - 필요한만큼 넓히기(Expanded as necessasry)](./90-04-0056-merge_layers.md#90-04-56-a105)
-![90-04-56-a105](https://github.com/wonder13662/gimp/assets/15767104/1c7e6ae5-f2a2-413e-a314-dce5d4a8149f)
+<img width="313" height="280" alt="90-04-56-a105" src="https://github.com/wonder13662/gimp/assets/15767104/1c7e6ae5-f2a2-413e-a314-dce5d4a8149f" />
 
 왼쪽에는 검은색의 손, 오른쪽에는 파란색 손이 있는 60x30 픽셀 크기의 레이어가 되었습니다. "handsL0"으로 이름을 바꿔줍니다.
 
