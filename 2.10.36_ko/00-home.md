@@ -3746,7 +3746,11 @@
 
 [16.6.21.2.2. 화질(Quality)](./16-06-21-02-02-quality.md)
 
-[16.6.22. Crop image](./16-06-22-crop-image.md)
+[16.6.22. 이미지 잘라내기(Crop image)](./16-06-22-00-crop-image.md)
+
+[16.6.22.1. 선택 영역 잘라내기(Crop to selection)](./16-06-22-01-crop_to_selection.md)
+
+[16.6.22.2. 콘텐츠로 잘라내기(Crop to content)](./16-06-22-02-crop_to_content.md)
 
 [16.6.23. Slice using guides](./16-06-23-slice-using-guides.md)
 
@@ -3910,7 +3914,11 @@
 
 [16.7.53. 레이어 크기조정(Scale layer)](./16-07-53-scale_layer.md)
 
-[16.7.54. 레이어 잘라내기(Crop layer)](./16-07-54-crop-layer.md)
+[16.7.54. 레이어 잘라내기(Crop layer)](./16-07-54-00-crop-layer.md)
+
+[16.7.54.1. 선택영역 잘라내기(Crop to selection)](./16-07-54-01-crop_to_selection.md)
+
+[16.7.54.2. 콘텐츠로 잘라내기(Crop to content)](./16-07-54-02-crop_to_content.md)
 
 [16.8. The colors menu](./16-08-00-the-colors-menu.md)
 
@@ -4569,6 +4577,8 @@
 [19. 용어집 - 드로어블(Drawable)](./19-glossaryx-drawable.md)
 
 [19. 용어집 - EXIF](./19-glossaryx-exif.md)
+
+[19. 용어집 - 페더링(Feathering)](./19-glossaryx-feathering.md)
 
 [19. 용어집 - 부동 소수점(Floating Point)](./19-glossaryx-floating_point.md)
 
@@ -7405,6 +7415,12 @@
 [90.10.83.1. 키보드 단축키](./90-10-83-01-00-keyboard_shortcut.md)
 
 [90.10.83.1.1. 키보드 단축키: Ctrl(⌘) + `D`](./90-10-83-01-01-ctrl_d.md)
+
+[90.10.84. `이미지 메뉴 바` → `이미지` → `선택 영역 잘라내기`](./90-10-84-00-menu_image_crop_to_selection.md)
+
+[90.10.84.1. 키보드 단축키](./90-10-84-01-00-keyboard_shortcut.md)
+
+[90.10.84.1.1. 키보드 단축키: Ctrl + Alt + Shift + `C`](./90-10-84-01-01-ctrl_alt_shift_c.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

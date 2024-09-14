@@ -160,7 +160,11 @@
 
 [16.6.21.2.2. 화질(Quality)](./16-06-21-02-02-quality.md)
 
-[16.6.22. Crop image](./16-06-22-crop-image.md)
+[16.6.22. 이미지 잘라내기(Crop image)](./16-06-22-00-crop-image.md)
+
+[16.6.22.1. 선택 영역 잘라내기(Crop to selection)](./16-06-22-01-crop_to_selection.md)
+
+[16.6.22.2. 콘텐츠로 잘라내기(Crop to content)](./16-06-22-02-crop_to_content.md)
 
 [16.6.23. Slice using guides](./16-06-23-slice-using-guides.md)
 

@@ -1,7 +1,18 @@
 # 90.1.5.12. 콘텐츠로 잘라내기(Crop to content)
 
-#### 그림 90.1.5.12.a101. 이미지 메뉴 바에서 '콘텐츠로 잘라내기'의 위치
-(TODO) 이미지 추가 필요
+<a id="90-01-05-12-a101"></a>
+
+#### 그림 90.1.5.12.a101. `이미지 메뉴 바` → `이미지` → `콘텐츠로 잘라내기`
+<img width="977" height="603" alt="90-01-05-12-a101" src="https://github.com/user-attachments/assets/47dc9abe-f0e4-415b-bc9c-9b2a6d0b64c0" />
+
+[16.6.22.2. 콘텐츠로 잘라내기(Crop to content) - 그림 90.1.5.12.a101](./16-06-22-02-crop_to_content.md#90-01-05-12-a101)
+
+<a id="90-01-05-12-a111"></a>
+
+#### 영상 90.1.5.12.a111. `이미지 메뉴 바` → `이미지` → `콘텐츠로 잘라내기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/c62b11bc-53a1-4ab7-a0fd-9b02113a36e0"></video>
+
+[16.6.22.2. 콘텐츠로 잘라내기(Crop to content) - 영상 90.1.5.12.a111](./16-06-22-02-crop_to_content.md#90-01-05-12-a111)
 
 ***
 

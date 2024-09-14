@@ -1748,8 +1748,8 @@ module.exports = {
         '16.6.21. 이미지 크기조정(Scale Image)'
       ],
       [
-        '16-06-22-crop-image.md', 
-        '16.6.22. Crop image'
+        '16-06-22-00-crop-image.md', 
+        '16.6.22. 이미지 잘라내기(Crop image)'
       ],
       [
         '16-06-23-slice-using-guides.md', 
