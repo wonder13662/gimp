@@ -1583,6 +1583,8 @@
 
 [90.4.185. 캔버스 크기 지정(Set Image Canvas Size)](./90-04-0185-set_image_canvas_size.md)
 
+[90.4.186. 배율 확인(Confirm Scaling)](./90-04-0186-confirm_scaling.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

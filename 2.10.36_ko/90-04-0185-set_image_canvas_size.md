@@ -289,7 +289,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.186. 배율 확인(Confirm Scaling)](./90-04-0186-confirm_scaling.md)
 
 [⬅️ 이전: 90.4.184. 색상 프로필 저장(Save Color Profile)](./90-04-0184-save_color_profile.md)
 

@@ -1744,8 +1744,8 @@ module.exports = {
         '16.6.20. 인쇄 크기(Print Size)'
       ],
       [
-        '16-06-21-scale-image.md', 
-        '16.6.21. Scale image'
+        '16-06-21-00-scale-image.md', 
+        '16.6.21. 이미지 크기조정(Scale Image)'
       ],
       [
         '16-06-22-crop-image.md', 

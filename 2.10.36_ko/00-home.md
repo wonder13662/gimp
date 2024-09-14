@@ -3732,7 +3732,19 @@
 
 [16.6.20.2.2. 해상도(X resolution & Y resolution)](./16-06-20-02-02-x_n_y_resolution.md)
 
-[16.6.21. Scale image](./16-06-21-scale-image.md)
+[16.6.21. 이미지 크기조정(Scale Image)](./16-06-21-00-scale-image.md)
+
+[16.6.21.1. 명령 활성화하기(Activate the Command)](./16-06-21-01-activate_the_command.md)
+
+[16.6.21.2. `이미지 비율 조정` 대화상자(The "Scale Image" Dialog)](./16-06-21-02-00-the_scale_image_dialog.md)
+
+[16.6.21.2.1. 이미지 크기(Image Size)](./16-06-21-02-01-00-image_size.md)
+
+[16.6.21.2.1.1. 너비와 높이(Width & Height)](./16-06-21-02-01-01-width_n_height.md)
+
+[16.6.21.2.1.2. X와 Y 해상도(X resolution & Y resolution)](./16-06-21-02-01-02-x_n_y_resolution.md)
+
+[16.6.21.2.2. 화질(Quality)](./16-06-21-02-02-quality.md)
 
 [16.6.22. Crop image](./16-06-22-crop-image.md)
 
@@ -4689,6 +4701,8 @@
 [19. 용어집 - 프로시저 데이터베이스(Procedural Database)](./19-glossaryx-procedural_database.md)
 
 [19. 용어집 - 양자화(Quantization)](./19-glossaryx-quantization.md)
+
+[19. 용어집 - 래스터 그래픽스(Raster graphics)](./19-glossaryx-raster_graphics.md)
 
 [19. 용어집 - 렌더링 목적(Rendering Intent)](./19-glossaryx-rendering_intent.md)
 
@@ -6327,6 +6341,8 @@
 [90.4.184. 색상 프로필 저장(Save Color Profile)](./90-04-0184-save_color_profile.md)
 
 [90.4.185. 캔버스 크기 지정(Set Image Canvas Size)](./90-04-0185-set_image_canvas_size.md)
+
+[90.4.186. 배율 확인(Confirm Scaling)](./90-04-0186-confirm_scaling.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

@@ -800,7 +800,19 @@
 
 [16.6.20.2.2. 해상도(X resolution & Y resolution)](./16-06-20-02-02-x_n_y_resolution.md)
 
-[16.6.21. Scale image](./16-06-21-scale-image.md)
+[16.6.21. 이미지 크기조정(Scale Image)](./16-06-21-00-scale-image.md)
+
+[16.6.21.1. 명령 활성화하기(Activate the Command)](./16-06-21-01-activate_the_command.md)
+
+[16.6.21.2. `이미지 비율 조정` 대화상자(The "Scale Image" Dialog)](./16-06-21-02-00-the_scale_image_dialog.md)
+
+[16.6.21.2.1. 이미지 크기(Image Size)](./16-06-21-02-01-00-image_size.md)
+
+[16.6.21.2.1.1. 너비와 높이(Width & Height)](./16-06-21-02-01-01-width_n_height.md)
+
+[16.6.21.2.1.2. X와 Y 해상도(X resolution & Y resolution)](./16-06-21-02-01-02-x_n_y_resolution.md)
+
+[16.6.21.2.2. 화질(Quality)](./16-06-21-02-02-quality.md)
 
 [16.6.22. Crop image](./16-06-22-crop-image.md)
 
@@ -989,18 +1001,6 @@
 [16.8.9. Brightness contrast](./16-08-09-brightness-contrast.md)
 
 [16.8.10. 레벨(Levels)](./16-08-10-levels.md)
-
-[16.8.11. Curves](./16-08-11-curves.md)
-
-[16.8.12. 반전(Invert)](./16-08-12-invert.md)
-
-[16.8.13. Linear invert](./16-08-13-linear-invert.md)
-
-[16.8.14. Value invert](./16-08-14-value-invert.md)
-
-[16.8.15. The auto submenu](./16-08-15-the-auto-submenu.md)
-
-[16.8.16. Equalize](./16-08-16-equalize.md)
 
 ***
 

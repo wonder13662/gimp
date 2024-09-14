@@ -29,3 +29,5 @@
 
 [Cambridge in Colour - DIGITAL IMAGE INTERPOLATION](https://www.cambridgeincolour.com/tutorials/image-interpolation.htm)
 
+[14.4.1.1.3. 보간법(Interpolation)](./14-04-01-01-03-interpolation.md)
+
