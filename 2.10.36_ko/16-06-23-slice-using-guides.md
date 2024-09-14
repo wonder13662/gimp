@@ -28,7 +28,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.6.24. Zealous crop](./16-06-24-zealous-crop.md)
+[➡️ 다음: 16.6.24. 지능적으로 잘라내기(Zealous Crop)](./16-06-24-zealous-crop.md)
 
 [⬅️ 이전: 16.6.22.2. 콘텐츠로 잘라내기(Crop to content)](./16-06-22-02-crop_to_content.md)
 

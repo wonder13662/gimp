@@ -168,7 +168,7 @@
 
 [16.6.23. 안내선으로 잘라내기(Slice Using Guides)](./16-06-23-slice-using-guides.md)
 
-[16.6.24. Zealous crop](./16-06-24-zealous-crop.md)
+[16.6.24. 지능적으로 잘라내기(Zealous Crop)](./16-06-24-zealous-crop.md)
 
 [16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-merge_visible_layers.md)
 

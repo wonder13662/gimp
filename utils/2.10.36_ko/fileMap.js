@@ -1757,7 +1757,7 @@ module.exports = {
       ],
       [
         '16-06-24-zealous-crop.md', 
-        '16.6.24. Zealous crop'
+        '16.6.24. 지능적으로 잘라내기(Zealous Crop)'
       ],
       [
         '16-06-25-merge_visible_layers.md', 
