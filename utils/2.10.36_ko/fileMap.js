@@ -1753,7 +1753,7 @@ module.exports = {
       ],
       [
         '16-06-23-slice-using-guides.md', 
-        '16.6.23. Slice using guides'
+        '16.6.23. 안내선으로 잘라내기(Slice Using Guides)'
       ],
       [
         '16-06-24-zealous-crop.md', 
@@ -2030,7 +2030,7 @@ module.exports = {
         '16.7.53. 레이어 크기조정(Scale layer)'
       ],
       [
-        '16-07-54-crop-layer.md', 
+        '16-07-54-00-crop-layer.md', 
         '16.7.54. 레이어 잘라내기(Crop layer)'
       ],
       [

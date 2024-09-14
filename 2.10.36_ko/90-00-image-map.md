@@ -299,7 +299,7 @@
 
 [90.1.5.12. 콘텐츠로 잘라내기(Crop to content)](./90-01-05-12-crop_to_content.md)
 
-[90.1.5.13. 가이드로 잘라내기(Slice Using Guides)](./90-01-05-13-slice_using_guides.md)
+[90.1.5.13. 안내선으로 잘라내기(Slice Using Guides)](./90-01-05-13-slice_using_guides.md)
 
 [90.1.5.14. 지능적으로 잘라내기(Zealous Crop)](./90-01-05-14-zealous_crop.md)
 

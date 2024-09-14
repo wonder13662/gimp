@@ -2,5 +2,5 @@
 
 ### [Home](./00-home.md)
 ### [Parent: 16.6. 이미지 메뉴(The "Image" menu)](./16-06-00-the-image-menu.md)
-### [Prev: 16.6.23. Slice using guides](./16-06-23-slice-using-guides.md)
+### [Prev: 16.6.23. 안내선으로 잘라내기(Slice Using Guides)](./16-06-23-slice-using-guides.md)
 ### [Next: 16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-merge_visible_layers.md)

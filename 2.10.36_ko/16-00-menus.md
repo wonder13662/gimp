@@ -820,7 +820,7 @@
 
 [16.6.22.2. 콘텐츠로 잘라내기(Crop to content)](./16-06-22-02-crop_to_content.md)
 
-[16.6.23. Slice using guides](./16-06-23-slice-using-guides.md)
+[16.6.23. 안내선으로 잘라내기(Slice Using Guides)](./16-06-23-slice-using-guides.md)
 
 [16.6.24. Zealous crop](./16-06-24-zealous-crop.md)
 

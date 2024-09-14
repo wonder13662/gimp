@@ -25,7 +25,7 @@
 
 [16.7.53. 레이어 크기조정(Scale layer)](./16-07-53-scale_layer.md)
 
-[16.7.54. 레이어 잘라내기(Crop layer)](./16-07-54-crop-layer.md)
+[16.7.54. 레이어 잘라내기(Crop layer)](./16-07-54-00-crop-layer.md)
 
 <a id="15-02-01-02-05-s2"></a>
 

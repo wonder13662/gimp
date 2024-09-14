@@ -18,7 +18,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.6.23. Slice using guides](./16-06-23-slice-using-guides.md)
+[➡️ 다음: 16.6.23. 안내선으로 잘라내기(Slice Using Guides)](./16-06-23-slice-using-guides.md)
 
 [⬅️ 이전: 16.6.22.1. 선택 영역 잘라내기(Crop to selection)](./16-06-22-01-crop_to_selection.md)
 

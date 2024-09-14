@@ -1,18 +1,22 @@
-# 90.1.5.13. 가이드로 잘라내기(Slice Using Guides)
+# 90.1.5.13. 안내선으로 잘라내기(Slice Using Guides)
 
 <a id="90-01-05-13-a101"></a>
 
-#### 그림 90.1.5.13.a101. 이미지 메뉴 바에서 '가이드로 잘라내기'의 위치
-![90-01-05-13-a101](https://github.com/wonder13662/gimp/assets/15767104/08ebe034-126c-46de-bc82-b3d53231f46d)
+#### 그림 90.1.5.13.a101. `이미지 메뉴 바` → `이미지` → `안내선으로 잘라내기`
+<img width="977" height="603" alt="90-01-05-13-a101" src="https://github.com/user-attachments/assets/27fe8db9-3d5f-4593-a194-6933f27fa0af" />
 
 [12.2.2. 안내선(Guides) - 그림 90.1.5.13.a101](./12-02-02-guides.md#90-01-05-13-a101)
 
+[16.6.23. 안내선으로 잘라내기(Slice Using Guides) - 그림 90.1.5.13.a101](./16-06-23-slice-using-guides.md#90-01-05-13-a101)
+
 <a id="90-01-05-13-a102"></a>
 
-#### 영상 90.1.5.13.a102. 가이드로 잘라내기
+#### 영상 90.1.5.13.a102. `이미지 메뉴 바` → `이미지` → `안내선으로 잘라내기` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ccfc3e5c-0195-4125-a9b3-32b0f6983086"></video>
 
 [12.2.2. 안내선(Guides) - 영상 90.1.5.13.a10](./12-02-02-guides.md#90-01-05-13-a102)
+
+[16.6.23. 안내선으로 잘라내기(Slice Using Guides) - 영상 90.1.5.13.a10](./16-06-23-slice-using-guides.md#90-01-05-13-a102)
 
 ***
 

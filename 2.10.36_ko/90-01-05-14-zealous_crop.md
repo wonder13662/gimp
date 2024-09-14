@@ -9,7 +9,7 @@
 
 [➡️ 다음: 90.1.5.15. 보이는 레이어 합치기(Merge Visible Layers)](./90-01-05-15-merge_visible_layers.md)
 
-[⬅️ 이전: 90.1.5.13. 가이드로 잘라내기(Slice Using Guides)](./90-01-05-13-slice_using_guides.md)
+[⬅️ 이전: 90.1.5.13. 안내선으로 잘라내기(Slice Using Guides)](./90-01-05-13-slice_using_guides.md)
 
 [⬆️ 위: 90.1.5. 이미지(Image)](./90-01-05-00-image.md)
 
