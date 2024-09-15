@@ -3762,7 +3762,7 @@
 
 [16.6.25.2. `보이는 레이어 합치기` 대화상자 설명(Description of the “Layers Merge Options” Dialog)](./16-06-25-02-00-description_of_the_layers_merge_options_dialog.md)
 
-[16.6.25.2.1. ?(Final, Merged Layer should be)](./16-06-25-02-01-final_merged_layer_should_be.md)
+[16.6.25.2.1. 합쳐진 마지막 레이어는 다음과 같아야 합니다(Final, Merged Layer should be)](./16-06-25-02-01-final_merged_layer_should_be.md)
 
 [16.6.25.2.2. ?(Merge within active group only)](./16-06-25-02-02-merge_within_active_group_only.md)
 
@@ -3822,7 +3822,7 @@
 
 [16.7.2.2.10. 스위치(Switches)](./16-07-02-02-10-switches.md)
 
-[16.7.3. 보이는 레이어들로 새 레이어 만들기(New from visible)](./16-07-03-new_from_visible.md)
+[16.7.3. 보이는 영역에서 새로 만들기(New from visible)](./16-07-03-new_from_visible.md)
 
 [16.7.4. New layer group](./16-07-04-new-layer-group.md)
 

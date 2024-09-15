@@ -880,7 +880,7 @@
 
 [16.7.2.2.10. 스위치(Switches)](./16-07-02-02-10-switches.md)
 
-[16.7.3. 보이는 레이어들로 새 레이어 만들기(New from visible)](./16-07-03-new_from_visible.md)
+[16.7.3. 보이는 영역에서 새로 만들기(New from visible)](./16-07-03-new_from_visible.md)
 
 [16.7.4. New layer group](./16-07-04-new-layer-group.md)
 
