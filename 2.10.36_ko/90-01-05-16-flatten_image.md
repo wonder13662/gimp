@@ -1,7 +1,14 @@
 # 90.1.5.16. 이미지 평탄화(Flatten Image)
 
-#### 그림 90.1.5.16.a101. 이미지 메뉴 바에서 '이미지 평탄화'의 위치
-(TODO) 이미지 추가 필요
+<a id="90-01-05-16-a101"></a>
+
+#### 그림 90.1.5.16.a101. `이미지 메뉴 바` → `이미지` → `이미지 평탄화`
+<img width="977" height="603" alt="90-01-05-16-a101" src="https://github.com/user-attachments/assets/e954fe3b-8e96-4f5b-86e8-fbe1ed9ceae0" />
+
+<a id="90-01-05-16-a111"></a>
+
+#### 그림 90.1.5.16.a111. `이미지 메뉴 바` → `이미지` → `이미지 평탄화` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src=""></video>
 
 ***
 
