@@ -48,7 +48,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.187. 보이는 레이어 정렬(Align Visible Layers)](./90-04-0187-align_visible_layers.md)
 
 [⬅️ 이전: 90.4.185. 캔버스 크기 지정(Set Image Canvas Size)](./90-04-0185-set_image_canvas_size.md)
 

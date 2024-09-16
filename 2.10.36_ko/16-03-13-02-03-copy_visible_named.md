@@ -5,7 +5,7 @@
 #### [그림 90.1.2.12.a131. `이미지 메뉴 바` → `편집` → `버퍼` → `보이는 부분 복사` (Windows) (우리말)](./90-01-02-12-buffer.md#90-01-02-12-a131)
 <img width="678" height="914" alt="90-01-02-12-a131" src="https://github.com/user-attachments/assets/b25c79d5-9c3c-4f11-bec6-4f4231d464de" />
 
-`보이는 부분 복사(Copy Visible Named)` 명령은 선택 영역의 모든 보이는 레이어의 콘텐츠를 복사합니다.
+`보이는 부분 복사(Copy Visible Named)` 명령은 선택 영역의 모든 [보이는 레이어](./19-glossaryx-visible_layer.md)의 콘텐츠를 복사합니다.
 
 하지만, 전역 버퍼에 콘텐츠를 저장하기 않고, `이름붙여 보이는 부분 복사하기` 대화상자에서 입력한 이름의 버퍼로 저장됩니다.
 

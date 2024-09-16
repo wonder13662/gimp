@@ -174,7 +174,7 @@
 
 [16.6.26. 이미지 평탄화하기(Flatten image)](./16-06-26-flatten_image.md)
 
-[16.6.27. Align visible layers](./16-06-27-align-visible-layers.md)
+[16.6.27. 보이는 레이어 정렬…(Align visible layers…)](./16-06-27-align-visible-layers.md)
 
 [16.6.28. 안내선(Guides)](./16-06-28-guides.md)
 

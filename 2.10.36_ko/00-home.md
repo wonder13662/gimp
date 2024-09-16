@@ -3764,13 +3764,25 @@
 
 [16.6.25.2.1. 합쳐진 마지막 레이어는 다음과 같아야 합니다(Final, Merged Layer should be)](./16-06-25-02-01-final_merged_layer_should_be.md)
 
-[16.6.25.2.2. ?(Merge within active group only)](./16-06-25-02-02-merge_within_active_group_only.md)
+[16.6.25.2.2. 활성 그룹만 합치기(Merge within active group only)](./16-06-25-02-02-merge_within_active_group_only.md)
 
-[16.6.25.2.3. ?(Discard invisible layers)](./16-06-25-02-03-discard_invisible_layers.md)
+[16.6.25.2.3. 보이지 않는 레이어 버리기(Discard invisible layers)](./16-06-25-02-03-discard_invisible_layers.md)
 
 [16.6.26. 이미지 평탄화하기(Flatten image)](./16-06-26-flatten_image.md)
 
-[16.6.27. Align visible layers](./16-06-27-align-visible-layers.md)
+[16.6.27. 보이는 레이어 정렬…(Align visible layers…)](./16-06-27-00-align-visible-layers.md)
+
+[16.6.27.1. 명령 활성화하기(Activate the Command)](./16-06-27-01-activate_the_command.md)
+
+[16.6.27.2. 명령 활성화하기(Activate the Command)](./16-06-27-02-00-description_of_the_align_visible_layers_dialog.md)
+
+[16.6.27.2.1. 수평선 스타일과 수직 스타일(Horizontal style & Vertical style)](./16-06-27-02-01-horizontal_style_n_vertical_style.md)
+
+[16.6.27.2.2. 수평 기반과 수직 기반(Horizontal base & Vertical base)](./16-06-27-02-02-horizontal_base_n_vertical_base.md)
+
+[16.6.27.2.3. 바닥 레이어가 보일 경우 무시(Ignore the bottom layer even if visible)](./16-06-27-02-03-ignore_the_bottom_layer_even_if_visible.md)
+
+[16.6.27.2.4. 바닥 레이어를 기본으로 사용(Use the bottom layer as the base)](./16-06-27-02-04-use_the_bottom_layer_as_the_base.md)
 
 [16.6.28. 안내선(Guides)](./16-06-28-guides.md)
 
@@ -6363,6 +6375,10 @@
 [90.4.185. 캔버스 크기 지정(Set Image Canvas Size)](./90-04-0185-set_image_canvas_size.md)
 
 [90.4.186. 배율 확인(Confirm Scaling)](./90-04-0186-confirm_scaling.md)
+
+[90.4.187. 보이는 레이어 정렬(Align Visible Layers)](./90-04-0187-align_visible_layers.md)
+
+[90.4.188. 김프 메시지: '보이는 레이어 정렬' 실행 오류(Gimp Message: Execution Error for 'Align Visible Layers')](./90-04-0188-gimp_message_execution_error_for_align_visible_layers.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

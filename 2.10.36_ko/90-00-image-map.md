@@ -1585,6 +1585,10 @@
 
 [90.4.186. 배율 확인(Confirm Scaling)](./90-04-0186-confirm_scaling.md)
 
+[90.4.187. 보이는 레이어 정렬(Align Visible Layers)](./90-04-0187-align_visible_layers.md)
+
+[90.4.188. 김프 메시지: '보이는 레이어 정렬' 실행 오류(Gimp Message: Execution Error for 'Align Visible Layers')](./90-04-0188-gimp_message_execution_error_for_align_visible_layers.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
