@@ -7,4 +7,7 @@
 
 이 옵션이 활성화되면, 보이지 않는 레이어들은 레이어 목록에서 지워집니다
 
-(TODO 예시 영상 추가)
+<a id="90-04-56-a113-01"></a>
+
+#### [영상 90.4.56.a113.1. `레이어 합치기` 대화상자 → `보이지 않는 레이어 버리기` (Windows) (우리말)](./90-04-0056-merge_layers.md#90-04-56-a113-01)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/9b5fd33c-3cff-4a24-b244-5cad9d7ceff2"></video>

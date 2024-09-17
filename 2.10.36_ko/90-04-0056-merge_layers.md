@@ -45,6 +45,13 @@
 
 [16.6.25.2.1. 합쳐진 마지막 레이어는 다음과 같아야 합니다(Final, Merged Layer should be) - 그림 90.4.56.a111.1](./16-06-25-02-01-final_merged_layer_should_be.md#90-04-56-a111-01)
 
+<a id="90-04-56-a111-01-01"></a>
+
+#### 영상 90.4.56.a111.1.1. `레이어 합치기` 대화상자 → `합쳐진 마지막 레이어는 다음과 같아야 합니다` → `필요한만큼 확대하기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f28d5be2-676d-483e-b7b0-b7a76a6ccb9b"></video>
+
+[16.6.25.2.1. 합쳐진 마지막 레이어는 다음과 같아야 합니다(Final, Merged Layer should be) - 영상 90.4.56.a111.1.1](./16-06-25-02-01-final_merged_layer_should_be.md#90-04-56-a111-01-01)
+
 <a id="90-04-56-a111-02"></a>
 
 #### 그림 90.4.56.a111.2. `레이어 합치기` 대화상자 → `합쳐진 마지막 레이어는 다음과 같아야 합니다` → `이미지 크기로 자르기` (Windows) (우리말)
@@ -52,12 +59,26 @@
 
 [16.6.25.2.1. 합쳐진 마지막 레이어는 다음과 같아야 합니다(Final, Merged Layer should be) - 그림 90.4.56.a111.2](./16-06-25-02-01-final_merged_layer_should_be.md#90-04-56-a111-02)
 
+<a id="90-04-56-a111-02-01"></a>
+
+#### 영상 90.4.56.a111.2.1. `레이어 합치기` 대화상자 → `합쳐진 마지막 레이어는 다음과 같아야 합니다` → `이미지 크기로 자르기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/49c43c66-be52-43cc-92ca-766fab3bcccf"></video>
+
+[16.6.25.2.1. 합쳐진 마지막 레이어는 다음과 같아야 합니다(Final, Merged Layer should be) - 영상 90.4.56.a111.2.1](./16-06-25-02-01-final_merged_layer_should_be.md#90-04-56-a111-02-01)
+
 <a id="90-04-56-a111-03"></a>
 
 #### 그림 90.4.56.a111.3. `레이어 합치기` 대화상자 → `합쳐진 마지막 레이어는 다음과 같아야 합니다` → `가장 아래쪽 레이어 크기로 잘라내기` (Windows) (우리말)
 <img width="313" height="280" alt="90-04-56-a111-03" src="https://github.com/user-attachments/assets/4a911789-6ffa-4a0b-8306-bc045d79af7f" />
 
 [16.6.25.2.1. 합쳐진 마지막 레이어는 다음과 같아야 합니다(Final, Merged Layer should be) - 그림 90.4.56.a111.3](./16-06-25-02-01-final_merged_layer_should_be.md#90-04-56-a111-03)
+
+<a id="90-04-56-a111-03-01"></a>
+
+#### 영상 90.4.56.a111.3.1. `레이어 합치기` 대화상자 → `합쳐진 마지막 레이어는 다음과 같아야 합니다` → `가장 아래쪽 레이어 크기로 잘라내기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7cac6760-ec3a-4291-a9ac-b7e8acf9d174"></video>
+
+[16.6.25.2.1. 합쳐진 마지막 레이어는 다음과 같아야 합니다(Final, Merged Layer should be) - 영상 90.4.56.a111.3.1](./16-06-25-02-01-final_merged_layer_should_be.md#90-04-56-a111-03-01)
 
 <a id="90-04-56-a112"></a>
 
@@ -72,6 +93,13 @@
 <img width="313" height="280" alt="90-04-56-a113" src="https://github.com/user-attachments/assets/d1d9c7c0-f5eb-4df0-a7aa-7a90596330e3" />
 
 [16.6.25.2.3. 보이지 않는 레이어 버리기(Discard invisible layers) - 그림 90.4.56.a113](./16-06-25-02-03-discard_invisible_layers.md#90-04-56-a113)
+
+<a id="90-04-56-a113-01"></a>
+
+#### 영상 90.4.56.a113.1. `레이어 합치기` 대화상자 → `보이지 않는 레이어 버리기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/9b5fd33c-3cff-4a24-b244-5cad9d7ceff2"></video>
+
+[16.6.25.2.3. 보이지 않는 레이어 버리기(Discard invisible layers) - 영상 90.4.56.a113.1](./16-06-25-02-03-discard_invisible_layers.md#90-04-56-a113-01)
 
 ***
 
