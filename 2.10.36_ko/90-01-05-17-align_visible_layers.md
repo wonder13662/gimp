@@ -5,6 +5,15 @@
 #### 그림 90.1.5.17.a101. `이미지 메뉴 바` → `이미지` → `보이는 레이어 정렬`
 <img width="977" height="603" alt="90-01-05-17-a101" src="https://github.com/user-attachments/assets/beb9be07-56b3-4056-8309-80b58271727e" />
 
+[16.6.27. 보이는 레이어 정렬…(Align visible layers…) - 그림 90.1.5.17.a101](./16-06-27-00-align-visible-layers.md#90-01-05-17-a101)
+
+<a id="90-01-05-17-a111"></a>
+
+#### 영상 90.1.5.17.a111. `이미지 메뉴 바` → `이미지` → `보이는 레이어 정렬` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/173341e7-773f-4915-b289-de20c46605f9"></video>
+
+[16.6.27.1. 명령 활성화하기(Activate the Command) - 영상 90.1.5.17.a111](./16-06-27-01-activate_the_command.md#90-01-05-17-a111)
+
 ***
 
 ## 다른 페이지로 가기

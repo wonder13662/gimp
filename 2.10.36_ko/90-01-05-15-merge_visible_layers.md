@@ -12,6 +12,7 @@
 #### 영상 90.1.5.15.a111. `이미지 메뉴 바` → `이미지` → `보이는 레이어 합치기`: 버그 리포트 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/1a515547-2a7d-4dc3-a22c-aefab489c5c9"></video>
 
+[16.6.25.1. 명령 활성화하기(Activate the Command) - 영상 90.1.5.15.a111](./16-06-25-01-activate_the_command.md#90-01-05-15-a111)
 
 ***
 

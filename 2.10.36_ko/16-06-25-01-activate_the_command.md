@@ -21,3 +21,21 @@
 
 #### [영상 90.10.85.1.1.a1. `이미지 메뉴 바` → `이미지` → `보이는 레이어 합치기`: Ctrl(⌘) + `M` (Windows) (우리말)](./90-10-85-01-01-ctrl_m.md#90-10-85-01-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/97c84b52-4c78-4cf8-8221-b698b7d0c9a1"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.6.25.2. `보이는 레이어 합치기` 대화상자 설명(Description of the “Layers Merge Options” Dialog)](./16-06-25-02-00-description_of_the_layers_merge_options_dialog.md)
+
+[⬅️ 이전: 16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-00-merge_visible_layers.md)
+
+[⬆️ 위: 16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-00-merge_visible_layers.md)
+
+[⬆️ 위: 16.6. 이미지 메뉴(The "Image" menu)](./16-06-00-the-image-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-image-merge-layers.html#idm27756)

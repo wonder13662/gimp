@@ -3,12 +3,14 @@
 <a id="90-04-188-a101"></a>
 
 #### 그림 90.4.188.a101. `김프 메시지: '보이는 레이어 정렬' 실행 오류` 대화상자 (Windows) (우리말)
-<img width="" height="" alt="90-04-188-a101" src="" />
+<img width="278" height="165" alt="90-04-188-a101" src="https://github.com/user-attachments/assets/95f6a6ca-88d5-4823-acc9-44c385209451" />
+
+[16.6.27.1. 명령 활성화하기(Activate the Command) - 그림 90.4.188.a101](./16-06-27-01-activate_the_command.md#90-04-188-a101)
 
 <a id="90-04-188-a102"></a>
 
 #### 그림 90.4.188.a102. `김프 메시지: '보이는 레이어 정렬' 실행 오류` 대화상자 (Windows) (영어)
-<img width="" height="" alt="90-04-188-a102" src="" />
+<img width="321" height="169" alt="90-04-188-a102" src="https://github.com/user-attachments/assets/dbdb7643-aace-479b-acb2-d53d77efd08b" />
 
 <a id="90-04-188-a103"></a>
 

@@ -62,3 +62,24 @@ GIMP(김프)에서는 레이어는 이미지보다 커질 수 있습니다.
 
 #### [영상 90.4.56.a111.3.1. `레이어 합치기` 대화상자 → `합쳐진 마지막 레이어는 다음과 같아야 합니다` → `가장 아래쪽 레이어 크기로 잘라내기` (Windows) (우리말)](./90-04-0056-merge_layers.md#90-04-56-a111-03-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7cac6760-ec3a-4291-a9ac-b7e8acf9d174"></video>
+
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.6.25.2.2. 활성 그룹만 합치기(Merge within active group only)](./16-06-25-02-02-merge_within_active_group_only.md)
+
+[⬅️ 이전: 16.6.25.2. `보이는 레이어 합치기` 대화상자 설명(Description of the “Layers Merge Options” Dialog)](./16-06-25-02-00-description_of_the_layers_merge_options_dialog.md)
+
+[⬆️ 위: 16.6.25.2. `보이는 레이어 합치기` 대화상자 설명(Description of the “Layers Merge Options” Dialog)](./16-06-25-02-00-description_of_the_layers_merge_options_dialog.md)
+
+[⬆️ 위: 16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-00-merge_visible_layers.md)
+
+[⬆️ 위: 16.6. 이미지 메뉴(The "Image" menu)](./16-06-00-the-image-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-image-merge-layers.html#idm27769)

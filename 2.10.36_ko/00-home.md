@@ -3776,13 +3776,17 @@
 
 [16.6.27.2. 명령 활성화하기(Activate the Command)](./16-06-27-02-00-description_of_the_align_visible_layers_dialog.md)
 
-[16.6.27.2.1. 수평선 스타일과 수직 스타일(Horizontal style & Vertical style)](./16-06-27-02-01-horizontal_style_n_vertical_style.md)
+[16.6.27.2.1. 수평선 스타일과 수직 스타일(Horizontal style & Vertical style)](./16-06-27-02-01-00-horizontal_style_n_vertical_style.md)
 
-[16.6.27.2.2. 수평 기반과 수직 기반(Horizontal base & Vertical base)](./16-06-27-02-02-horizontal_base_n_vertical_base.md)
+[16.6.27.2.1.1. 없음(None)](./16-06-27-02-01-01-none.md)
 
-[16.6.27.2.3. 바닥 레이어가 보일 경우 무시(Ignore the bottom layer even if visible)](./16-06-27-02-03-ignore_the_bottom_layer_even_if_visible.md)
+[16.6.27.2.1.2. 수집(Collect)](./16-06-27-02-01-02-collect.md)
 
-[16.6.27.2.4. 바닥 레이어를 기본으로 사용(Use the bottom layer as the base)](./16-06-27-02-04-use_the_bottom_layer_as_the_base.md)
+[16.6.27.2.1.3. 채우기(왼쪽에서 오른쪽으로) - Fill(left to right), 채우기(위에서 아래로) - Fill(top to bottom)](./16-06-27-02-01-03-fill_left_to_right.md)
+
+[16.6.27.2.1.4. 채우기(오른쪽에서 왼쪽으로) - Fill(right to left), 채우기(아래에서 위로) - Fill(bottom to top)](./16-06-27-02-01-04-fill_right_to_left.md)
+
+[16.6.27.2.1.5. 격자에 붙이기(Snap to grid)](./16-06-27-02-01-05-snap_to_grid.md)
 
 [16.6.28. 안내선(Guides)](./16-06-28-guides.md)
 
@@ -4811,6 +4815,8 @@
 [19. 용어집 - 값(HSV) - Value(HSV)](./19-glossaryx-value_hsv.md)
 
 [19. 용어집 - 붓 파일 확장자 - `.vbr`](./19-glossaryx-vbr.md)
+
+[19. 용어집 - 보이는 레이어(Visible Layers)](./19-glossaryx-visible_layer.md)
 
 [19. 용어집 - GIMP 파일 확장자 - `.xcf`](./19-glossaryx-xcf.md)
 

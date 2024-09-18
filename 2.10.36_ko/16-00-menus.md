@@ -826,9 +826,35 @@
 
 [16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-00-merge_visible_layers.md)
 
+[16.6.25.1. 명령 활성화하기(Activate the Command)](./16-06-25-01-activate_the_command.md)
+
+[16.6.25.2. `보이는 레이어 합치기` 대화상자 설명(Description of the “Layers Merge Options” Dialog)](./16-06-25-02-00-description_of_the_layers_merge_options_dialog.md)
+
+[16.6.25.2.1. 합쳐진 마지막 레이어는 다음과 같아야 합니다(Final, Merged Layer should be)](./16-06-25-02-01-final_merged_layer_should_be.md)
+
+[16.6.25.2.2. 활성 그룹만 합치기(Merge within active group only)](./16-06-25-02-02-merge_within_active_group_only.md)
+
+[16.6.25.2.3. 보이지 않는 레이어 버리기(Discard invisible layers)](./16-06-25-02-03-discard_invisible_layers.md)
+
 [16.6.26. 이미지 평탄화하기(Flatten image)](./16-06-26-flatten_image.md)
 
-[16.6.27. 보이는 레이어 정렬…(Align visible layers…)](./16-06-27-align-visible-layers.md)
+[16.6.27. 보이는 레이어 정렬…(Align visible layers…)](./16-06-27-00-align-visible-layers.md)
+
+[16.6.27.1. 명령 활성화하기(Activate the Command)](./16-06-27-01-activate_the_command.md)
+
+[16.6.27.2. 명령 활성화하기(Activate the Command)](./16-06-27-02-00-description_of_the_align_visible_layers_dialog.md)
+
+[16.6.27.2.1. 수평선 스타일과 수직 스타일(Horizontal style & Vertical style)](./16-06-27-02-01-00-horizontal_style_n_vertical_style.md)
+
+[16.6.27.2.1.1. 없음(None)](./16-06-27-02-01-01-none.md)
+
+[16.6.27.2.1.2. 수집(Collect)](./16-06-27-02-01-02-collect.md)
+
+[16.6.27.2.1.3. 채우기(왼쪽에서 오른쪽으로) - Fill(left to right), 채우기(위에서 아래로) - Fill(top to bottom)](./16-06-27-02-01-03-fill_left_to_right.md)
+
+[16.6.27.2.1.4. 채우기(오른쪽에서 왼쪽으로) - Fill(right to left), 채우기(아래에서 위로) - Fill(bottom to top)](./16-06-27-02-01-04-fill_right_to_left.md)
+
+[16.6.27.2.1.5. 격자에 붙이기(Snap to grid)](./16-06-27-02-01-05-snap_to_grid.md)
 
 [16.6.28. 안내선(Guides)](./16-06-28-guides.md)
 
@@ -975,32 +1001,6 @@
 [16.7.49. 임의 각도 회전(Arbitrary rotation)](./16-07-49-arbitrary-rotation.md)
 
 [16.7.50. Offset](./16-07-50-offset.md)
-
-[16.7.51. 레이어 경계 크기(Layer boundary size)](./16-07-51-layer_boundary_size.md)
-
-[16.7.52. 레이어를 이미지 크기로(Layer to image size)](./16-07-52-layer_to_image_size.md)
-
-[16.7.53. 레이어 크기조정(Scale layer)](./16-07-53-scale_layer.md)
-
-[16.7.54. 레이어 잘라내기(Crop layer)](./16-07-54-00-crop-layer.md)
-
-[16.7.54.1. 선택영역 잘라내기(Crop to selection)](./16-07-54-01-crop_to_selection.md)
-
-[16.7.54.2. 콘텐츠로 잘라내기(Crop to content)](./16-07-54-02-crop_to_content.md)
-
-[16.8. The colors menu](./16-08-00-the-colors-menu.md)
-
-[16.8.1. Introduction to the colors menu](./16-08-01-introduction-to-the-colors-menu.md)
-
-[16.8.2. Color balance](./16-08-02-color-balance.md)
-
-[16.8.3. Color temperature](./16-08-03-color-temperature.md)
-
-[16.8.4. Hue chroma](./16-08-04-hue-chroma.md)
-
-[16.8.5. Hue saturation](./16-08-05-hue-saturation.md)
-
-[16.8.6. Saturation](./16-08-06-saturation.md)
 
 ***
 
