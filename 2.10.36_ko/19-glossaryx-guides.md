@@ -18,4 +18,6 @@
 
 [12.2.2. 안내선(Guides)](./12-02-02-guides.md)
 
+[14.4.1.1.7. 안내선(Guides)](./14-04-01-01-07-guides.md)
+
 [16.5.19. 안내선에 맞추기(Snap to Guides)](./16-05-19-snap-to-guides.md)

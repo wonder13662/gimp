@@ -1589,6 +1589,8 @@
 
 [90.4.188. 김프 메시지: '보이는 레이어 정렬' 실행 오류(Gimp Message: Execution Error for 'Align Visible Layers')](./90-04-0188-gimp_message_execution_error_for_align_visible_layers.md)
 
+[90.4.189. Script-Fu: New Guide](./90-04-0189-script_fu_new_guide.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

@@ -3790,7 +3790,7 @@
 
 [16.6.28. 안내선(Guides)](./16-06-28-guides.md)
 
-[16.6.29. New guide](./16-06-29-new-guide.md)
+[16.6.29. 새 안내선(New guide)](./16-06-29-new-guide.md)
 
 [16.6.30. New guide (by percent)](./16-06-30-new-guide-by-percent.md)
 
@@ -6385,6 +6385,8 @@
 [90.4.187. 보이는 레이어 정렬(Align Visible Layers)](./90-04-0187-align_visible_layers.md)
 
 [90.4.188. 김프 메시지: '보이는 레이어 정렬' 실행 오류(Gimp Message: Execution Error for 'Align Visible Layers')](./90-04-0188-gimp_message_execution_error_for_align_visible_layers.md)
+
+[90.4.189. Script-Fu: New Guide](./90-04-0189-script_fu_new_guide.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

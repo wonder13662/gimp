@@ -1777,7 +1777,7 @@ module.exports = {
       ],
       [
         '16-06-29-new-guide.md', 
-        '16.6.29. New guide'
+        '16.6.29. 새 안내선(New guide)'
       ],
       [
         '16-06-30-new-guide-by-percent.md', 

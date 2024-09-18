@@ -207,8 +207,10 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.188. 김프 메시지: '보이는 레이어 정렬' 실행 오류(Gimp Message: Execution Error for 'Align Visible Layers')](./90-04-0188-gimp_message_execution_error_for_align_visible_layers.md)
+[⬅️ 이전: 90.4.189. Script-Fu: New Guide](./90-04-0189-script_fu_new_guide.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 
 [🏠 홈](./00-home.md)
+
+[원문]()

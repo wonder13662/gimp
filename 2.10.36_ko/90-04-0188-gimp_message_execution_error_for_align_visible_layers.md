@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.189. Script-Fu: New Guide](./90-04-0189-script_fu_new_guide.md)
 
 [⬅️ 이전: 90.4.187. 보이는 레이어 정렬(Align Visible Layers)](./90-04-0187-align_visible_layers.md)
 
