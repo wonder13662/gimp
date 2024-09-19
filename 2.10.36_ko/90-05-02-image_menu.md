@@ -16,6 +16,8 @@
 
 [16.1.1. 이미지 메뉴 바(The Image Menu Bar) - 그림 90.5.2.a102](./16-01-01-the_image_menu_bar.md#90-05-02-a102)
 
+[19. 용어집 - 이미지 메뉴 바(Image Menu Bar)](./19-glossaryx-image_menu_bar.md)
+
 <a id="90-05-02-a111"></a>
 
 #### 그림 90.5.2.a111. 이미지 메뉴 바의 위치 (단일창) (Mac)
