@@ -1781,7 +1781,7 @@ module.exports = {
       ],
       [
         '16-06-30-new-guide-by-percent.md', 
-        '16.6.30. New guide (by percent)'
+        '16.6.30. 새 안내선 (퍼센트) - New guide (by percent)'
       ],
       [
         '16-06-31-new-guide-from-selection.md', 

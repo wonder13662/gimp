@@ -21,3 +21,7 @@
 [14.4.1.1.7. 안내선(Guides)](./14-04-01-01-07-guides.md)
 
 [16.5.19. 안내선에 맞추기(Snap to Guides)](./16-05-19-snap-to-guides.md)
+
+[16.6.29. 새 안내선(New guide)](./16-06-29-new-guide.md)
+
+[16.6.30. 새 안내선 (퍼센트) - New guide (by percent)](./16-06-30-new-guide-by-percent.md)

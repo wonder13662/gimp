@@ -2,7 +2,7 @@
 
 <a id="90-01-05-18-a111"></a>
 
-#### [그림 90.1.5.18.a111. `이미지 메뉴 바` → `이미지` → `안내선` → `새 안내선` (Windows) (우리말)](./90-01-05-17-align_visible_layers.md#90-01-05-17-a111)
+#### [그림 90.1.5.18.a111. `이미지 메뉴 바` → `이미지` → `안내선` → `새 안내선` (Windows) (우리말)](./90-01-05-18-guides.md#90-01-05-18-a111)
 <img width="303" height="138" alt="90-01-05-18-a111" src="https://github.com/user-attachments/assets/30808c09-d5c2-4269-aade-32192b01d9bd" />
 
 `새 안내선(New guide)` 명령은 이미지에 안내선을 추가합니다.
@@ -52,7 +52,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.6.30. New guide (by percent)](./16-06-30-new-guide-by-percent.md)
+[➡️ 다음: 16.6.30. 새 안내선 (퍼센트) - New guide (by percent)](./16-06-30-new-guide-by-percent.md)
 
 [⬅️ 이전: 16.6.28. 안내선(Guides)](./16-06-28-guides.md)
 

@@ -207,10 +207,8 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.189. Script-Fu: New Guide](./90-04-0189-script_fu_new_guide.md)
+[⬅️ 이전: 90.4.190. Script-Fu: New Guide by Percent](./90-04-0190-script_fu_new_guide_by_percent.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 
 [🏠 홈](./00-home.md)
-
-[원문]()
