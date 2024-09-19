@@ -14,7 +14,7 @@ ICC 프로파일 "GIMP built-in sRGB"이 설정됩니다.
 ### 1-2. `선형 조명(Linear light)` 채널 인코딩이 설정된 경우
 ICC 프로파일 "GIMP built-in Linear sRGB"이 설정됩니다.
 
-변경된 ICC 프로파일은 [`이미지 메뉴 바` → `이미지` → `이미지 성질` → `색상 프로파일`](./16-06-34-image-properties.md)에서 확인할 수 있습니다.
+변경된 ICC 프로파일은 [`이미지 메뉴 바` → `이미지` → `이미지 성질` → `색상 프로파일`](./16-06-34-00-image-properties.md)에서 확인할 수 있습니다.
 
 <a id="90-04-31-a111"></a>
 

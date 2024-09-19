@@ -1796,7 +1796,7 @@ module.exports = {
         '16.6.33. 격자 설정…(Configure grid…)'
       ],
       [
-        '16-06-34-image-properties.md', 
+        '16-06-34-00-image-properties.md', 
         '16.6.34. 이미지 성질(Image properties)'
       ],
       [

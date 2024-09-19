@@ -34,6 +34,12 @@
 
 ***
 
+## 관련 정보
+
+[16.6.34.2.1.3. 해상도(Resolution)](./16-06-34-02-01-03-resolution.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 16.6.20.1. 명령 활성화하기(Activating the Dialog)](./16-06-20-01-activating_the_dialog.md)

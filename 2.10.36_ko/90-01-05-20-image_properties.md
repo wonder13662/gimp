@@ -2,10 +2,19 @@
 
 <a id="90-01-05-20-a101"></a>
 
-#### 그림 90.1.5.20.a101. `이미지` → `이미지 성질`
-![90-01-05-20-a101](https://github.com/wonder13662/gimp/assets/15767104/176a709d-e4bc-477a-8ce2-0cfd458ca55d)
+#### 그림 90.1.5.20.a101. `이미지 메뉴 바` → `이미지` → `이미지 성질`
+<img width="977" height="603" alt="90-01-05-20-a101" src="https://github.com/user-attachments/assets/4fde9173-71a6-4086-9e0a-dee632a912c0" />
 
 [3.4.6. 이미지 정보 확인하기 - 그림 90.1.5.20.a101](./03-04-06-find-info-about-your-image.md#90-01-05-20-a101)
+
+[16.6.34. 이미지 성질(Image properties) - 그림 90.1.5.20.a101](./16-06-34-00-image-properties.md#90-01-05-20-a101)
+
+<a id="90-01-05-20-a111"></a>
+
+#### 영상 90.1.5.20.a111. `이미지 메뉴 바` → `이미지` → `이미지 성질` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2fb27418-e929-47d9-917a-caaec1dd536f"></video>
+
+[16.6.34.1. 명령 활성화하기(Activate the Command) - 영상 90.1.5.20.a111](./16-06-34-01-activate_the_command.md#90-01-05-20-a111)
 
 ***
 

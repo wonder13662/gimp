@@ -868,7 +868,57 @@
 
 [16.6.33. 격자 설정…(Configure grid…)](./16-06-33-00-configure-grid.md)
 
-[16.6.34. 이미지 성질(Image properties)](./16-06-34-image-properties.md)
+[16.6.33.1. 명령 활성화하기(Activating the Command)](./16-06-33-01-activating_the_command.md)
+
+[16.6.33.2. `격자 설정` 대화상자 설명(Description of the “Configure Image Grid” dialog)](./16-06-33-02-00-description_of_the_configure_image_grid_dialog.md)
+
+[16.6.33.2.1. 모양새(Appearance)](./16-06-33-02-01-appearance.md)
+
+[16.6.33.2.2. 간격(Spacing)](./16-06-33-02-02-spacing.md)
+
+[16.6.33.2.3. 오프셋(Offset)](./16-06-33-02-03-offset.md)
+
+[16.6.34. 이미지 성질(Image properties)](./16-06-34-00-image-properties.md)
+
+[16.6.34.1. 명령 활성화하기(Activate the Command)](./16-06-34-01-activate_the_command.md)
+
+[16.6.34.2. `이미지 속성` 대화상자 옵션(Activate the Command)](./16-06-34-02-00-options.md)
+
+[16.6.34.2.1. 속성 탭(Properties Tab)](./16-06-34-02-01-00-properties_tab.md)
+
+[16.6.34.2.1.1. 픽셀 단위 크기(Pixel dimensions)](./16-06-34-02-01-01-pixel_dimensions.md)
+
+[16.6.34.2.1.2. 인쇄 크기(Print size)](./16-06-34-02-01-02-print_size.md)
+
+[16.6.34.2.1.3. 해상도(Resolution)](./16-06-34-02-01-03-resolution.md)
+
+[16.6.34.2.1.4. 색상 공간(Color space)](./16-06-34-02-01-04-color_space.md)
+
+[16.6.34.2.1.5. 정밀도(Precision)](./16-06-34-02-01-05-precision.md)
+
+[16.6.34.2.1.6. 파일명(File name)](./16-06-34-02-01-06-file_name.md)
+
+[16.6.34.2.1.7. 파일 크기(File size)](./16-06-34-02-01-07-file_size.md)
+
+[16.6.34.2.1.8. 파일 형식(File type)](./16-06-34-02-01-08-file_type.md)
+
+[16.6.34.2.1.9. 메모리 내의 크기(Size in memory)](./16-06-34-02-01-09-size_in_memory.md)
+
+[16.6.34.2.1.10. 실행 취소 수(Undo steps)](./16-06-34-02-01-10-undo_steps.md)
+
+[16.6.34.2.1.11. 재실행 수(Redo steps)](./16-06-34-02-01-11-redo_steps.md)
+
+[16.6.34.2.1.12. 픽셀 수(Number of pixels)](./16-06-34-02-01-12-number_of_pixels.md)
+
+[16.6.34.2.1.13. 레이어 수(Number of layers)](./16-06-34-02-01-13-number_of_layers.md)
+
+[16.6.34.2.1.14. 채널 수(Number of channels)](./16-06-34-02-01-14-number_of_channels.md)
+
+[16.6.34.2.1.15. 경로 수(Number of paths)](./16-06-34-02-01-15-number_of_paths.md)
+
+[16.6.34.2.2. 색상 프로파일 탭(Color Pofile Tap)](./16-06-34-02-02-color_profile_tab.md)
+
+[16.6.34.2.3. 설명 탭(Comments Tab)](./16-06-34-02-03-comments_tab.md)
 
 [16.6.35. Metadata](./16-06-35-metadata.md)
 
@@ -951,56 +1001,6 @@
 [16.7.24. 레이어 마스크 적용하기(Apply layer mask)](./16-07-24-apply_layer_mask.md)
 
 [16.7.25. 레이어 마스크 삭제하기(Delete layer mask)](./16-07-25-delete_layer_mask.md)
-
-[16.7.26. 레이어 마스크 보여주기(Show layer mask)](./16-07-26-show_layer_mask.md)
-
-[16.7.27. 레이어 마스크 수정하기(Edit layer mask)](./16-07-27-edit_layer_mask.md)
-
-[16.7.28. 레이어 마스크 비활성화하기(Disable layer mask)](./16-07-28-disable_layer_mask.md)
-
-[16.7.29. 마스크를 선택으로 바꾸기(Mask to selection)](./16-07-29-mask_to_selection.md)
-
-[16.7.30. Add layer mask to selection](./16-07-30-add-layer-mask-to-selection.md)
-
-[16.7.31. Subtract layer mask from selection](./16-07-31-subtract-layer-mask-from-selection.md)
-
-[16.7.32. Intersect layer mask with selection](./16-07-32-intersect-layer-mask-with-selection.md)
-
-[16.7.33. The transparency submenu of the layer menu](./16-07-33-the-transparency-submenu-of-the-layer-menu.md)
-
-[16.7.34. 알파 채널 추가하기(Add alpha channel)](./16-07-34-add_alpha_channel.md)
-
-[16.7.35. 알파 채널 제거하기(Remove alpha channel)](./16-07-35-remove_alpha_channel.md)
-
-[16.7.36. 색을 알파로(Color to alpha)](./16-07-36-color-to-alpha.md)
-
-[16.7.37. Semi flatten](./16-07-37-semi-flatten.md)
-
-[16.7.38. Threshold alpha](./16-07-38-threshold-alpha.md)
-
-[16.7.39. Alpha to selection](./16-07-39-alpha-to-selection.md)
-
-[16.7.40. Add alpha channel to selection](./16-07-40-add-alpha-channel-to-selection.md)
-
-[16.7.41. Subtract from selection](./16-07-41-subtract-from-selection.md)
-
-[16.7.42. Intersect alpha channel with selection](./16-07-42-intersect-alpha-channel-with-selection.md)
-
-[16.7.43. 변형 메뉴(The transform submenu)](./16-07-43-the-transform-submenu.md)
-
-[16.7.44. 수평 뒤집기(Flip horizontally)](./16-07-44-flip-horizontally.md)
-
-[16.7.45. 수직 뒤집기(Flip vertically)](./16-07-45-flip-vertically.md)
-
-[16.7.46. Rotate 90° clockwise](./16-07-46-rotate-90-clockwise.md)
-
-[16.7.47. Rotate 90° counter-clockwise](./16-07-47-rotate-90-counter-clockwise.md)
-
-[16.7.48. Rotate 180°](./16-07-48-rotate-180.md)
-
-[16.7.49. 임의 각도 회전(Arbitrary rotation)](./16-07-49-arbitrary-rotation.md)
-
-[16.7.50. Offset](./16-07-50-offset.md)
 
 ***
 

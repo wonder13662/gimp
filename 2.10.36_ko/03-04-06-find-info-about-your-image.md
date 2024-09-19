@@ -2,10 +2,10 @@
 
 <a id="90-01-05-20-a101"></a>
 
-#### [그림 90.1.5.20.a101. `이미지` → `이미지 성질`](./90-01-05-20-image_properties.md#90-01-05-20-a101)
-![90-01-05-20-a101](https://github.com/wonder13662/gimp/assets/15767104/176a709d-e4bc-477a-8ce2-0cfd458ca55d)
+#### 그림 90.1.5.20.a101. `이미지 메뉴 바` → `이미지` → `이미지 성질`
+<img width="977" height="603" alt="90-01-05-20-a101" src="https://github.com/user-attachments/assets/4fde9173-71a6-4086-9e0a-dee632a912c0" />
 
-이미지 정보를 확인하려면 `이미지(Image)` → `이미지 성질(Image Properties)` 메뉴를 이용해 "이미지 속성(Image Properties)" 대화상자를 엽니다.
+이미지 정보를 확인하려면 `이미지 메뉴 바` → `이미지` → `이미지 성질` 메뉴를 이용해 "이미지 속성(Image Properties)" 대화상자를 엽니다.
 
 <a id="90-04-31-a101"></a>
 
@@ -15,6 +15,12 @@
 [다른 운영체제와 언어의 `이미지 속성` 대화상자 확인하기](./90-04-0031-image_properties.md#90-04-31-a102)
 
 "이미지 속성(Image Properties)" 대화상자에는 이미지 크기, 해상도, 모드 등의 각종 정보를 확인할 수 있습니다.
+
+***
+
+## 관련 정보
+
+[16.6.34. 이미지 성질(Image properties)](./16-06-34-00-image-properties.md)
 
 ***
 
