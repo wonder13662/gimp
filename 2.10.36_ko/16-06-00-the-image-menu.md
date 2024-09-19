@@ -266,11 +266,11 @@
 
 [16.6.34.2.3. 설명 탭(Comments Tab)](./16-06-34-02-03-comments_tab.md)
 
-[16.6.35. Metadata](./16-06-35-metadata.md)
+[16.6.35. 메타데이터(Metadata)](./16-06-35-metadata.md)
 
-[16.6.36. Metadata viewer](./16-06-36-metadata-viewer.md)
+[16.6.36. 메타데이터 조회(Metadata viewer)](./16-06-36-metadata-viewer.md)
 
-[16.6.37. Metadata editor](./16-06-37-metadata-editor.md)
+[16.6.37. 메타데이터 수정(Metadata editor)](./16-06-37-metadata-editor.md)
 
 ***
 
