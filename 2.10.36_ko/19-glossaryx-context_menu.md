@@ -1,6 +1,14 @@
 # 19. 용어집 - 컨텍스트 메뉴(Context Menu)
 
-(TODO 내용 추가 필요)
+<a id="90-05-a401"></a>
+
+#### [그림 90.5.a401. 이미지 창의 컨텍스트 메뉴 (Windows) (우리말)](./90-05-00-image_window.md#90-05-a401)
+<img width="332" height="402" alt="90-05-a401" src="https://github.com/user-attachments/assets/9a07979d-ceb2-47fd-bb27-d872ecff0f8a" />
+
+<a id="90-05-a402"></a>
+
+#### [영상 90.5.a402. 이미지 창의 컨텍스트 메뉴 (Windows) (우리말)](./90-05-00-image_window.md#90-05-a402)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/18d142e7-a40d-4a90-bd9f-eb16d35b1060"></video>
 
 ***
 

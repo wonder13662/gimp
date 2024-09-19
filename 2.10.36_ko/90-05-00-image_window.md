@@ -63,12 +63,16 @@
 
 [16.1.2. 컨텍스트 메뉴(Context Menu) - 그림 90.5.a401](./16-01-02-context_menus.md#90-05-a401)
 
+[19. 용어집 - 컨텍스트 메뉴(Context Menu) - 그림 90.5.a401](./19-glossaryx-context_menu.md#90-05-a401)
+
 <a id="90-05-a402"></a>
 
 #### 영상 90.5.a402. 이미지 창의 컨텍스트 메뉴 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/18d142e7-a40d-4a90-bd9f-eb16d35b1060"></video>
 
 [16.1.2. 컨텍스트 메뉴(Context Menu) - 영상 90.5.a402](./16-01-02-context_menus.md#90-05-a402)
+
+[19. 용어집 - 컨텍스트 메뉴(Context Menu) - 영상 90.5.a402](./19-glossaryx-context_menu.md#90-05-a402)
 
 <a id="90-05-a501"></a>
 
