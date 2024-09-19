@@ -30,7 +30,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.6.32. Remove all guides](./16-06-32-remove-all-guides.md)
+[➡️ 다음: 16.6.32. 모든 안내선 지우기(Remove all guides)](./16-06-32-remove-all-guides.md)
 
 [⬅️ 이전: 16.6.30. 새 안내선 (퍼센트) - New guide (by percent)](./16-06-30-new-guide-by-percent.md)
 
