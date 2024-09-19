@@ -38,7 +38,7 @@
 #### 그림 90.4.31.a121. `이미지 속성` 대화상자 → `속성` (Windows) (우리말)
 <img width="321" height="500" alt="90-04-31-a121" src="https://github.com/user-attachments/assets/cc146e6c-4e1a-4979-808a-f3b5626a55e8" />
 
-[16.6.34.2.1. 속성 탭(Properties Tab) - 그림 90.4.31.a121](./16-06-34-02-01-properties_tab.md#90-04-31-a121)
+[16.6.34.2.1. 속성 탭(Properties Tab) - 그림 90.4.31.a121](./16-06-34-02-01-00-properties_tab.md#90-04-31-a121)
 
 <a id="90-04-31-a121-01"></a>
 

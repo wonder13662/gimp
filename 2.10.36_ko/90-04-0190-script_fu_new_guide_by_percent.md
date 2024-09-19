@@ -5,6 +5,8 @@
 #### 그림 90.4.190.a101. `Script-Fu: New Guide by Percent` 대화상자 (Windows) (우리말)
 <img width="384" height="228" alt="90-04-190-a101" src="https://github.com/user-attachments/assets/9020568c-4a98-4b0d-a0c3-08dbcde4a485" />
 
+[16.6.30. 새 안내선 (퍼센트) - New guide (by percent) - 그림 90.4.190.a101](./16-06-30-new-guide-by-percent.md#90-04-190-a101)
+
 <a id="90-04-190-a102"></a>
 
 #### 그림 90.4.190.a102. `Script-Fu: New Guide by Percent` 대화상자 (Windows) (영어)
@@ -24,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.191. 메타데이터 편집기(Metadata Editor)](./90-04-0191-metadata_editor.md)
 
 [⬅️ 이전: 90.4.189. Script-Fu: New Guide](./90-04-0189-script_fu_new_guide.md)
 

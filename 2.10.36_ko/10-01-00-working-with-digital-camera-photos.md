@@ -40,7 +40,7 @@
 
 [10.1.6.2. 사진 인쇄하기(Printing Your Photos)](./10-01-06-02-printing_your_photos.md)
 
-[10.1.6.3. EXIF 데이터(EXIF Data)](./10-01-06-03-exif_data.md)
+[10.1.6.3. Exif 데이터(Exif Data)](./10-01-06-03-exif_data.md)
 
 ***
 

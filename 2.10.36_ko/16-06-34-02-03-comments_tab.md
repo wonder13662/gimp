@@ -11,7 +11,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.6.35. 메타데이터(Metadata)](./16-06-35-metadata.md)
+[➡️ 다음: 16.6.35. 메타데이터(Metadata)](./16-06-35-00-metadata.md)
 
 [⬅️ 이전: 16.6.34.2.2. 색상 프로파일 탭(Color Pofile Tap)](./16-06-34-02-02-color_profile_tab.md)
 

@@ -9,7 +9,7 @@
 
 [16.6.33. 격자 설정…(Configure grid…) - 그림 90.4.95.a101](./16-06-33-00-configure-grid.md#90-04-95-a101)
 
-[16.6.33.2. `격자 설정` 대화상자 설명(Description of the “Configure Image Grid” dialog) - 그림 90.4.95.a101](./16-06-33-02-description_of_the_configure_image_grid_dialog.md#90-04-95-a101)
+[16.6.33.2. `격자 설정` 대화상자 설명(Description of the “Configure Image Grid” dialog) - 그림 90.4.95.a101](./16-06-33-02-00-description_of_the_configure_image_grid_dialog.md#90-04-95-a101)
 
 <a id="90-04-95-a102"></a>
 

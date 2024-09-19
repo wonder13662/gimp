@@ -712,7 +712,7 @@
 
 [10.1.6.2. 사진 인쇄하기(Printing Your Photos)](./10-01-06-02-printing_your_photos.md)
 
-[10.1.6.3. EXIF 데이터(EXIF Data)](./10-01-06-03-exif_data.md)
+[10.1.6.3. Exif 데이터(Exif Data)](./10-01-06-03-exif_data.md)
 
 [11. GIMP(김프)에서의 색상 관리](./11-00-color-management-with-gimp.md)
 
@@ -3852,11 +3852,11 @@
 
 [16.6.34.2.3. 설명 탭(Comments Tab)](./16-06-34-02-03-comments_tab.md)
 
-[16.6.35. 메타데이터(Metadata)](./16-06-35-metadata.md)
+[16.6.35. 메타데이터(Metadata)](./16-06-35-00-metadata.md)
 
-[16.6.36. 메타데이터 조회(Metadata viewer)](./16-06-36-metadata-viewer.md)
+[16.6.35.1. 메타데이터 조회(Metadata viewer)](./16-06-35-01-metadata-viewer.md)
 
-[16.6.37. 메타데이터 수정(Metadata editor)](./16-06-37-metadata-editor.md)
+[16.6.35.2. 메타데이터 수정(Metadata editor)](./16-06-35-02-metadata-editor.md)
 
 [16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
 
@@ -4652,7 +4652,7 @@
 
 [19. 용어집 - 드로어블(Drawable)](./19-glossaryx-drawable.md)
 
-[19. 용어집 - EXIF](./19-glossaryx-exif.md)
+[19. 용어집 - Exif](./19-glossaryx-exif.md)
 
 [19. 용어집 - 페더링(Feathering)](./19-glossaryx-feathering.md)
 
@@ -6439,6 +6439,8 @@
 [90.4.189. Script-Fu: New Guide](./90-04-0189-script_fu_new_guide.md)
 
 [90.4.190. Script-Fu: New Guide by Percent](./90-04-0190-script_fu_new_guide_by_percent.md)
+
+[90.4.191. 메타데이터 편집기(Metadata Editor)](./90-04-0191-metadata_editor.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

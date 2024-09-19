@@ -228,4 +228,4 @@ DCT는 [이산 코사인 변환(discrete cosine transform)](https://ko.wikipedia
 ***
 
 ## 관련 정보
-[Gimp-forum.net: JPG and profil include in the EXIFS : why ?](https://www.gimp-forum.net/Thread-JPG-and-profil-include-in-the-EXIFS-why)
+[Gimp-forum.net: JPG and profil include in the Exifs : why ?](https://www.gimp-forum.net/Thread-JPG-and-profil-include-in-the-EXIFS-why)

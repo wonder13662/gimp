@@ -1593,6 +1593,8 @@
 
 [90.4.190. Script-Fu: New Guide by Percent](./90-04-0190-script_fu_new_guide_by_percent.md)
 
+[90.4.191. 메타데이터 편집기(Metadata Editor)](./90-04-0191-metadata_editor.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
