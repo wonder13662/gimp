@@ -20,7 +20,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.6.33. 격자 설정…(Configure grid…)](./16-06-33-configure-grid.md)
+[➡️ 다음: 16.6.33. 격자 설정…(Configure grid…)](./16-06-33-00-configure-grid.md)
 
 [⬅️ 이전: 16.6.31. 선택으로 새 안내선 만들기(New guide from selection)](./16-06-31-new-guide-from-selection.md)
 

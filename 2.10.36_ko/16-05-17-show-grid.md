@@ -30,7 +30,7 @@
 
 [16.5.20. 격자에 맞추기(Snap to grid)](./16-05-20-snap-to-grid.md)
 
-[16.6.33. 격자 설정…(Configure grid…)](./16-06-33-configure-grid.md)
+[16.6.33. 격자 설정…(Configure grid…)](./16-06-33-00-configure-grid.md)
 
 ***
 

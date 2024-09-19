@@ -212,7 +212,7 @@
 
 [16.6.32. 모든 안내선 지우기(Remove all guides)](./16-06-32-remove-all-guides.md)
 
-[16.6.33. 격자 설정…(Configure grid…)](./16-06-33-configure-grid.md)
+[16.6.33. 격자 설정…(Configure grid…)](./16-06-33-00-configure-grid.md)
 
 [16.6.34. 이미지 성질(Image properties)](./16-06-34-image-properties.md)
 
