@@ -22,6 +22,10 @@
 
 [16.5.19. 안내선에 맞추기(Snap to Guides)](./16-05-19-snap-to-guides.md)
 
+[16.6.28. 안내선(Guides)](./16-06-28-guides.md)
+
 [16.6.29. 새 안내선(New guide)](./16-06-29-new-guide.md)
 
 [16.6.30. 새 안내선 (퍼센트) - New guide (by percent)](./16-06-30-new-guide-by-percent.md)
+
+[16.6.31. 선택으로 새 안내선 만들기(New guide from selection)](./16-06-31-new-guide-from-selection.md)

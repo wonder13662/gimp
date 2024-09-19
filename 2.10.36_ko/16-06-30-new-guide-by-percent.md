@@ -50,7 +50,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.6.31. New guide from selection](./16-06-31-new-guide-from-selection.md)
+[➡️ 다음: 16.6.31. 선택으로 새 안내선 만들기(New guide from selection)](./16-06-31-new-guide-from-selection.md)
 
 [⬅️ 이전: 16.6.29. 새 안내선(New guide)](./16-06-29-new-guide.md)
 

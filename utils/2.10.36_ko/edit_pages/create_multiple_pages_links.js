@@ -20,7 +20,7 @@ const {
 const doAsyncJob = async () => {
   try {
     // 1-1. 시작 페이지 이름
-    const head = '16-06-30-new-guide-by-percent.md'
+    const head = '16-06-31-new-guide-from-selection.md'
     // const head = '90-04-0189-script_fu_new_guide.md'
     // const head = '16-05-27-show-statusbar.md'
     // const head = '16-06-00-the-image-menu.md'

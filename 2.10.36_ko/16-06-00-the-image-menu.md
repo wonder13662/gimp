@@ -208,7 +208,7 @@
 
 [16.6.30. 새 안내선 (퍼센트) - New guide (by percent)](./16-06-30-new-guide-by-percent.md)
 
-[16.6.31. New guide from selection](./16-06-31-new-guide-from-selection.md)
+[16.6.31. 선택으로 새 안내선 만들기(New guide from selection)](./16-06-31-new-guide-from-selection.md)
 
 [16.6.32. Remove all guides](./16-06-32-remove-all-guides.md)
 
