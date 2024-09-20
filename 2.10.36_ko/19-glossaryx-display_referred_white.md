@@ -19,4 +19,6 @@
 
 [원문](https://docs.gimp.org/2.10/ko/glossary.html#glossary-display-referred-white)
 
+[16.6.7.4.2. 정수와 부동소수점 정밀도 선택하기(Choosing between integer and floating point precision)](./16-06-07-04-02-choosing_between_integer_and_floating_point_precision.md)
+
 [Models for image editing: Display-referred and scene-referred: Nine Degrees Below Photography](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html)
