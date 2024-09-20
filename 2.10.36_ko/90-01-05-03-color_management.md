@@ -86,19 +86,19 @@
 
 [16.6.10.1. 명령 활성화하기(Activating the command) - 그림 90.1.5.3.a141](./16-06-10-01-activating_the_command.md#90-01-05-03-a141)
 
-<a id="90-01-05-03-a141"></a>
-
-#### 그림 90.1.5.3.a141. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 프로파일 할당`: 이미지의 ICC 프로파일 버리고 기본 프로파일 설정 (Windows) (우리말)
-<img width="725" height="551" alt="90-01-05-03-a141" src="https://github.com/user-attachments/assets/63d9f37b-04f3-482a-b172-c08e85984999" />
-
-[16.6.10.3. 예제(An example with screenshots showing how to use Assign Color Profile) - 그림 90.1.5.3.a141](./16-06-10-03-example.md#90-01-05-03-a141)
-
 <a id="90-01-05-03-a142"></a>
 
-#### 그림 90.1.5.3.a142. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 프로파일 할당`: 이미지의 ICC 프로파일로 되돌리기 (Windows) (우리말)
-<img width="725" height="551" alt="90-01-05-03-a142" src="https://github.com/user-attachments/assets/329a7598-6747-44f6-bb51-1c3d468f4c05" />
+#### 그림 90.1.5.3.a142. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 프로파일 할당`: 이미지의 ICC 프로파일 버리고 기본 프로파일 설정 (Windows) (우리말)
+<img width="725" height="551" alt="90-01-05-03-a142" src="https://github.com/user-attachments/assets/63d9f37b-04f3-482a-b172-c08e85984999" />
 
 [16.6.10.3. 예제(An example with screenshots showing how to use Assign Color Profile) - 그림 90.1.5.3.a142](./16-06-10-03-example.md#90-01-05-03-a142)
+
+<a id="90-01-05-03-a143"></a>
+
+#### 그림 90.1.5.3.a143. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 프로파일 할당`: 이미지의 ICC 프로파일로 되돌리기 (Windows) (우리말)
+<img width="725" height="551" alt="90-01-05-03-a143" src="https://github.com/user-attachments/assets/329a7598-6747-44f6-bb51-1c3d468f4c05" />
+
+[16.6.10.3. 예제(An example with screenshots showing how to use Assign Color Profile) - 그림 90.1.5.3.a143](./16-06-10-03-example.md#90-01-05-03-a143)
 
 <a id="90-01-05-03-a151"></a>
 
