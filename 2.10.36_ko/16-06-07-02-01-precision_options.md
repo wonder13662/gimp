@@ -7,7 +7,7 @@
 
 정밀도는 이미지를 설정한 [비트 깊이(bit depth)](./19-glossaryx-bit_depth.md)로 저장하는 함수입니다.
 
-또한 정밀도 옵션으로 이미지를 정수 데이터(Integer data) 혹은 [실수(부동소수점)](./19-floa) 데이터(Floating point data) 중에 어떤 것으로 저장할지 결정합니다.
+또한 정밀도 옵션으로 이미지를 정수 데이터(Integer data) 혹은 [실수(부동소수점)](./19-glossaryx-floating_point.md) 데이터(Floating point data) 중에 어떤 것으로 저장할지 결정합니다.
 
 정밀도 메뉴는 아래와 같은 정밀도 옵션을 제공합니다.
 
