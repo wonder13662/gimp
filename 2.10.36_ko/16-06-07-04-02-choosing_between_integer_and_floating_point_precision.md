@@ -3,7 +3,7 @@
 <a id="16-06-07-04-02-s1"></a>
 
 ## 1. 실수(부동소수점) 정밀도
-GIMP(김프)의 내부적인 32비트 실수(부동소수점) 처리의 이점을 얻기 위해서는 실수(부동소수점) 정밀도의 설정이 필요합니다. 
+GIMP(김프)의 내부적인 32비트 실수(부동소수점) 처리의 이점을 얻기 위해서는 [실수(부동소수점)](./19-glossaryx-floating_point.md) 정밀도의 설정이 필요합니다. 
 
 실수(부동소수점) 정밀도는 [0.0](./19-glossaryx-display_referred_black.md)부터 [1.0](./19-glossaryx-display_referred_white.md)까지의 [디스플레이 참조 범위](./19-glossaryx-display_referred.md) 바깥의 채널 값들을 생성하고 사용할 수 있게 해줍니다.
 
