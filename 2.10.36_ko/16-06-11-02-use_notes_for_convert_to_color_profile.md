@@ -1,7 +1,7 @@
 # 16.6.11.2. `색상 프로파일로 변환` 사용방법(Use Notes for Convert to Color Profile)
 ICC 프로파일로 색상 관리가 되고 있는 GIMP(김프)같은 어플리케이션은 모든 이미지에 ICC 색상 프로파일이 할당되어 있습니다.
 
-이 ICC 색상 프로파일은 `색상 관리 시스템(CMS - Color Management System)`에게 이미지를 스크린에 보낼때 어떤 색공간을 사용할지 알려줍니다.
+이 ICC 색상 프로파일은 [`색상 관리 시스템(CMS - Color Management System)`](./19-glossaryx-cms.md)에게 이미지를 스크린에 보낼때 어떤 색공간을 사용할지 알려줍니다.
 
 GIMP(김프)는 [Little CMS](./19-glossaryx-little_cms.md)라고 하는 `색상 관리 시스템(CMS - Color Management System)`을 사용하고 있습니다.
 
