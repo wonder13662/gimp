@@ -3,7 +3,7 @@
 <a id="16-06-07-03-s1"></a>
 
 ## 1. GIMP(김프) 내부에서 사용하는 정밀도와 채널 인코딩
-[정밀도 옵션](./16-06-07-02-00-the_contents_of_the_precision_submenu.md)에서 선택한 값과 상관없이, GIMP(김프)의 내부에서는 이미지를 32비트 실수(부동소수점) 정밀도로 처리합니다.
+[정밀도 옵션](./16-06-07-02-00-the_contents_of_the_precision_submenu.md)에서 선택한 값과 상관없이, GIMP(김프)의 내부에서는 이미지를 32비트 [실수(부동소수점)](./19-glossaryx-floating_point.md) 정밀도로 처리합니다.
 
 그리고 이미지 수정 작업은 `선형 조명 채널 인코딩(Linear Light Channel Encoding)`을 사용합니다.
 
