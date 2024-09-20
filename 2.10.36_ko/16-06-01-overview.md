@@ -3,8 +3,7 @@
 <a id="90-01-05-a101"></a>
 
 #### [그림 90.1.5.a101. `이미지 메뉴 바` → `이미지`](./90-01-05-00-image.md#90-01-05-a101)
-<img width="977" height="603" alt="90-01-05-a101" src="https://github.com/user-atta
-chments/assets/a86dc530-501d-42ea-89cf-3f52cdc40101" />
+<img width="977" height="603" alt="90-01-05-a101" src="https://github.com/user-attachments/assets/a86dc530-501d-42ea-89cf-3f52cdc40101" />
 
 `이미지` 메뉴는 활성화된 레이어나 이미지의 특정 부분이 아닌 이미지 전체에 영향을 미치는 명령을 가지고 있습니다.
 

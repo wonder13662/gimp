@@ -10,6 +10,16 @@
 #### [영상 90.5.a402. 이미지 창의 컨텍스트 메뉴 (Windows) (우리말)](./90-05-00-image_window.md#90-05-a402)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/18d142e7-a40d-4a90-bd9f-eb16d35b1060"></video>
 
+<a id="90-04-03-01-a1"></a>
+
+#### [그림 90.4.3.1.a1. `레이어 대화상자` → `탭 메뉴` → `컨텍스트 메뉴` (Windows) (우리말)](./90-04-0003-001-000-context_menu.md#90-04-03-01-a1)
+<img width="245" height="768" alt="90-04-03-01-a1" src="https://github.com/wonder13662/gimp/assets/15767104/98db3041-c639-486e-aee8-547ab4d998c1" />
+
+<a id="90-04-03-01-a41"></a>
+
+#### [그림 90.4.3.1.a41. 레이어 대화상자의 컨텍스트 메뉴 열기 (windows) (우리말)](./90-04-0003-001-000-context_menu.md#90-04-03-01-a41)
+<img width="980" height="550" alt="90-04-03-01-a41" src="https://github.com/wonder13662/gimp/assets/15767104/faac9099-0657-4cd8-8bc0-b1bce6a098b6" />
+
 ***
 
 ## 관련 정보
