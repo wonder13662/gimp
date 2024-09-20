@@ -27,7 +27,6 @@
 
 해상도를 높이는 것은 인쇄된 이미지의 선명함을 올리게 됩니다.
 
-This is quite different from simply reducing the image size by scaling it, since no pixels (and no image information) are removed.
 이는 [크기 조정 도구](./14-04-06-00-scale.md)로 이미지의 크기를 줄이는 것과는 다릅니다.
 
 [크기 조정 도구](./14-04-06-00-scale.md)로 이미지의 크기를 바꾸게 되면, [리샘플링](./19-glossaryx-resample.md)이 일어나서 픽셀 정보가 유실됩니다.
