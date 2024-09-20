@@ -66,7 +66,7 @@
 <a id="90-01-05-03-a133"></a>
 
 #### 그림 90.1.5.3.a133. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 관리 활성화`: `GIMP built-in sRGB` → "not color managed" (Mac) (우리말)
-<img width="900" height="490" alt="90-01-05-03-a133" src="https://github.com/user-attachments/assets/f4f3a3f4-dbb8-40b0-a973-40e4055e82e5" />
+<img width="900" height="490" alt="90-01-05-03-a133" src="https://github.com/user-attachments/assets/016762e9-e8b4-41c6-8e4d-3a77189861fb" />
 
 [16.6.9.5. 색상 관리 활성화 옵션 비활성화 뒤의 보정된 이미지와 보정되지 않은 이미지 비교(Two screenshots showing examples of correct and incorrect image appearances after unchecking Enable Color Management) - 그림 90.1.5.3.a133](./16-06-09-05-example.md#90-01-05-03-a133)
 
