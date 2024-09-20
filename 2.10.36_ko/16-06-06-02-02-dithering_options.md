@@ -44,27 +44,27 @@
 
 <a id="90-04-32-a140"></a>
 
-#### 그림 90.4.32.a140. `이미지를 색인 색상으로 변환` 대화상자 → `디더링` → `색상 디더링`: 원본 (Windows) (우리말)
+#### [그림 90.4.32.a140. `이미지를 색인 색상으로 변환` 대화상자 → `디더링` → `색상 디더링`: 원본 (Windows) (우리말)](./90-04-0032-convert_image_to_indexed_colors.md#90-04-32-a140)
 <img width="320" height="80" alt="90-04-32-a140" src="https://github.com/user-attachments/assets/5f682269-3270-4aec-a9d9-436806d0d77f" />
 
 <a id="90-04-32-a141"></a>
 
-#### 그림 90.4.32.a141. `이미지를 색인 색상으로 변환` 대화상자 → `디더링` → `색상 디더링` → `없음` (Windows) (우리말)
+#### [그림 90.4.32.a141. `이미지를 색인 색상으로 변환` 대화상자 → `디더링` → `색상 디더링` → `없음` (Windows) (우리말)](./90-04-0032-convert_image_to_indexed_colors.md#90-04-32-a141)
 <img width="320" height="80" alt="90-04-32-a141" src="https://github.com/user-attachments/assets/89a1c230-e3e0-42d9-bfa9-d8fd9d6bc365" />
 
 <a id="90-04-32-a142"></a>
 
-#### 그림 90.4.32.a142. `이미지를 색인 색상으로 변환` 대화상자 → `디더링` → `색상 디더링` → `Folyd-Steinberg(보통)` (Windows) (우리말)
+#### [그림 90.4.32.a142. `이미지를 색인 색상으로 변환` 대화상자 → `디더링` → `색상 디더링` → `Folyd-Steinberg(보통)` (Windows) (우리말)](./90-04-0032-convert_image_to_indexed_colors.md#90-04-32-a142)
 <img width="320" height="80" alt="90-04-32-a142" src="https://github.com/user-attachments/assets/a58a8c2f-62bc-47b9-a42b-9d6a54d6edc0" />
 
 <a id="90-04-32-a143"></a>
 
-#### 그림 90.4.32.a143. `이미지를 색인 색상으로 변환` 대화상자 → `디더링` → `색상 디더링` → `Folyd-Steinberg Color(보통)` (Windows) (우리말)
+#### [그림 90.4.32.a143. `이미지를 색인 색상으로 변환` 대화상자 → `디더링` → `색상 디더링` → `Folyd-Steinberg Color(보통)` (Windows) (우리말)](./90-04-0032-convert_image_to_indexed_colors.md#90-04-32-a143)
 <img width="320" height="80" alt="90-04-32-a143" src="https://github.com/user-attachments/assets/b1aa06c3-20db-4fc9-8e9b-1461f8ebdb17" />
 
 <a id="90-04-32-a144"></a>
 
-#### 그림 90.4.32.a144. `이미지를 색인 색상으로 변환` 대화상자 → `디더링` → `색상 디더링` → `위치` (Windows) (우리말)
+#### [그림 90.4.32.a144. `이미지를 색인 색상으로 변환` 대화상자 → `디더링` → `색상 디더링` → `위치` (Windows) (우리말)](./90-04-0032-convert_image_to_indexed_colors.md#90-04-32-a144)
 <img width="320" height="80" alt="90-04-32-a144" src="https://github.com/user-attachments/assets/640dee9f-7216-4eb2-a255-061d167a386e" />
 
 <a id="16-06-06-02-02-s4"></a>
