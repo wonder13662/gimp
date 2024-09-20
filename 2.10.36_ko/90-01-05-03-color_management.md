@@ -73,7 +73,7 @@
 <a id="90-01-05-03-a134"></a>
 
 #### 그림 90.1.5.3.a134. `이미지 메뉴 바` → `이미지` → `색상 관리` → `색상 관리 활성화`: `ProPhoto RGB` → "not color managed" (Mac) (우리말)
-<img width="900" height="490" alt="90-01-05-03-a134" src="https://github.com/user-attachments/assets/6c23a2f7-17ab-4a7f-9c17-b7dc48609884" />
+<img width="900" height="490" alt="90-01-05-03-a134" src="https://github.com/user-attachments/assets/9ed1d410-b599-48c9-a100-fcf579a4effc" />
 
 [16.6.9.5. 색상 관리 활성화 옵션 비활성화 뒤의 보정된 이미지와 보정되지 않은 이미지 비교(Two screenshots showing examples of correct and incorrect image appearances after unchecking Enable Color Management) - 그림 90.1.5.3.a134](./16-06-09-05-example.md#90-01-05-03-a134)
 
