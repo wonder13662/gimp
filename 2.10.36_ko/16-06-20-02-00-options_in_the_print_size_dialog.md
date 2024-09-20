@@ -5,7 +5,7 @@
 #### [그림 90.4.30.a101. `인쇄 해상도 설정` 대화상자 (Windows) (우리말)](./90-04-0030-set_image_print_resolution.md#90-04-30-a101)
 <img width="449" height="343" alt="90-04-30-a101" src="https://github.com/wonder13662/gimp/assets/15767104/6f4138fe-b944-4a86-bd46-9b30ddd4181c" />
 
-결과물의 해상도는 인쇄된 이미지에 대한 단위 길이당 사용된 픽셀의 갯수를 결정합니다.
+결과물의 [해상도](./19-glossaryx-resolution.md)는 인쇄된 이미지에 대한 단위 길이당 사용된 픽셀의 갯수를 결정합니다.
 
 ```
 해상도(Resolution) = 픽셀의 갯수(Number of pixels) ÷ 단위 길이(Unit Length)

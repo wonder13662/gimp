@@ -14,7 +14,7 @@
 #### [그림 90.4.30.a211. `인쇄 해상도 설정` 대화상자 → `크기 단위`: 드롭다운 목록 (Mac)](./90-04-0030-set_image_print_resolution.md#90-04-30-a211)
 <img width="196" height="313" alt="90-04-30-a211" src="https://github.com/user-attachments/assets/c5eac1f9-fd8f-48fb-b07b-9b3b42a6ed1a" />
 
-인쇄 너비와 높이를 바꾸자마자, 바꾼 값에 따라 X와 Y 해상도의 값도 함께 바뀝니다.
+인쇄 너비와 높이를 바꾸자마자, 바꾼 값에 따라 X와 Y [해상도](./19-glossaryx-resolution.md)의 값도 함께 바뀝니다.
 
 두 개의 해상도 값이 체인으로 연결되어 있다면, 인쇄 너비와 높이도 역시 자동으로 연결되어 함께 바뀝니다.
 

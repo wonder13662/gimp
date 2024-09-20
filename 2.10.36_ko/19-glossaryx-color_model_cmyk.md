@@ -8,4 +8,4 @@
 
 [원본: Color model](https://docs.gimp.org/2.10/ko/glossary.html#glossary-cmyk)
 
-19-glossaryx-color_model_cmyk.md
+[CMYK](https://en.wikipedia.org/wiki/CMYK_color_model)
