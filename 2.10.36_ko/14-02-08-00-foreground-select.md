@@ -9,6 +9,12 @@
 
 ***
 
+## 관련 정보
+
+[Davies Media Design - GIMP Tutorial: How to Make a Movie Poster - Remove Background](https://youtu.be/VQoTcWq9Bnc?si=eHGHKNYKQKGRrZRC&t=1125)
+
+***
+
 ## 하위 페이지
 
 [14.2.8.1. 도구 활성화하기(Activating the tools)](./14-02-08-01-activating_the_tool.md)
