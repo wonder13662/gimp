@@ -928,7 +928,7 @@
 
 [16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
 
-[16.7.1. Introduction to the "Layer" menu](./16-07-01-introduction-to-the-layer-menu.md)
+[16.7.1. 레이어 메뉴 소개(Introduction to the "Layer" menu)](./16-07-01-introduction-to-the-layer-menu.md)
 
 [16.7.2. 새 레이어(New layer)](./16-07-02-00-new_layer.md)
 

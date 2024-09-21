@@ -11,3 +11,5 @@
 [8.1. 레이어 소개](./08-01-00-introduction-to-layers.md)
 
 [15.2.1. 레이어 대화상자(Layers dialog)](./15-02-01-00-layers_dialog.md)
+
+[16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)

@@ -8,7 +8,7 @@
 <a id="90-01-06-01-a1"></a>
 
 #### [그림 90.1.6.1.a1. `이미지 메뉴 바` → `레이어` → `새 레이어`](./90-01-06-01-new_layer.md#90-01-06-01-a1)
-![90-01-06-layer(1080)-focus-new_layer](https://github.com/wonder13662/gimp/assets/15767104/0ed82adb-7ea5-4238-ad3b-c669e6ce926a)
+<img width="849" height="404" alt="90-01-06-01-a1" src="https://github.com/user-attachments/assets/9ef7e0f8-5694-4395-8a77-a66828151acb" />
 
 <a id="90-04-64-a101"></a>
 
