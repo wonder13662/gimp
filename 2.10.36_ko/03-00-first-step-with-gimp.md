@@ -88,9 +88,9 @@
 
 [3.3.6. 실행취소의 설정](./03-03-06-system_resource_settings_of_undoing.md)
 
-[3.3.8. 실행 취소를 할 수 있는 작업들](./03-03-07-tasks_can_undo.md)
+[3.3.8. 실행 취소를 할 수 없는 작업들](./03-03-07-tasks_can_undo.md)
 
-[3.3.8. 실행 취소를 할 수 있는 작업들](./03-03-08-tasks_cannot_undo.md)
+[3.3.8. 실행 취소를 할 수 없는 작업들](./03-03-08-tasks_cannot_undo.md)
 
 [3.4. 자주하는 편집 작업](./03-04-00-common-tasks.md)
 

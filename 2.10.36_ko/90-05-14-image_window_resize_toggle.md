@@ -35,20 +35,6 @@
 
 [3.2.4.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle) - 영상 90.5.14.a113](./03-02-04-14-image-window-resize-toggle.md#90-05-14-a113)
 
-<a id="90-05-14-a121"></a>
-
-#### 영상 90.5.14.a121. 이미지 창을 이미지에 맞추기 + 확대/축소 비율 고정
-<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6da5f558-60c7-4535-b568-157b63a4873a"></video>
-
-[3.2.4.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle) - 영상 90.5.14.a121](./03-02-04-14-image-window-resize-toggle.md#90-05-14-a121)
-
-<a id="90-05-14-a122"></a>
-
-#### 영상 90.5.14.a122. 이미지를 이미지 창에 맞추기 + 확대/축소 비율 변경
-<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f6358681-da56-42cd-b9c4-c1dd06420bdd"></video>
-
-[3.2.4.14. 창 크기를 바꿀 때의 이미지 확대/축소 버튼 (Image Window Resize Toggle) - 영상 90.5.14.a122](./03-02-04-14-image-window-resize-toggle.md#90-05-14-a122)
-
 ***
 
 ## 다른 페이지로 가기

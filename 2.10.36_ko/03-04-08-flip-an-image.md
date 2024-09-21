@@ -19,14 +19,16 @@
 
 도구상자에서 ["뒤집기" 도구](./14-04-12-00-flip.md)를 선택한 다음에 [캔버스](./19-glossaryx-canvas.md)의 안쪽을 클릭합니다.
 
-도구 옵션(Tool Options) 안의 방향(direction)의 가로모드(Horizontal)와 세로모드(Vertical)를 선택해서 뒤집기의 방향을 바꿀 수 있습니다.
+[도구 옵션(Tool Options)](./14-01-04-00-tool-options.md) 안의 방향(direction)의 가로모드(Horizontal)와 세로모드(Vertical)를 선택해서 뒤집기의 방향을 바꿀 수 있습니다.
 
 <a id="90-04-01-15-a201"></a>
 
 #### [그림 90.4.1.15.a201. 도구 옵션(Tool Options) 안의 가로모드(Horizontal)와 세로모드(Vertical)](./90-04-0001-015-flip.md#90-04-01-15-a201)
 ![90-04-01-15-a201](https://github.com/wonder13662/gimp/assets/15767104/8efa0cb3-dadf-4625-bf39-543a3a0058d3)
 
-기본 설정으로 사용하면 이미지의 좌우가 뒤집힙니다. 위아래로 뒤집기를 하려면 도구 옵션에서 "Vertical"을 클릭합니다. 
+기본 설정으로 사용하면 [이미지](./19-glossaryx-image.md)의 좌우가 뒤집힙니다. 
+
+위아래로 뒤집기를 하려면 도구 옵션에서 "Vertical"을 클릭합니다. 
 
 ## 3.4.8.1. 도구 옵션이 없는 경우
 도구 옵션이 없는 경우, 도구상자에서 뒤집기 버튼을 더블 클릭하면 도구옵션 대화상자가 나옵니다.

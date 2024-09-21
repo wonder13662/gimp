@@ -4,11 +4,15 @@
 
 ## 관련 정보
 
+[3.3.3. 실행 취소와 재실행이 유용한 경우](./03-03-03-useful_cases.md)
+
 [15.2.7. 실행취소 이력 대화상자(Undo history dialog)](./15-02-07-00-undo-history-dialog.md)
 
 [15.2.7.2.1. 실행취소(Undo)](./15-02-07-02-01-undo.md)
 
 [16.3.2. 실행 취소(Undo)](./16-03-02-00-undo.md)
+
+[16.3.4. 실행취소 이력(Undo History)](./16-03-04-00-undo-history.md)
 
 ***
 
@@ -26,9 +30,9 @@
 
 [3.3.6. 실행취소의 설정](./03-03-06-system_resource_settings_of_undoing.md)
 
-[3.3.8. 실행 취소를 할 수 있는 작업들](./03-03-07-tasks_can_undo.md)
+[3.3.8. 실행 취소를 할 수 없는 작업들](./03-03-07-tasks_can_undo.md)
 
-[3.3.8. 실행 취소를 할 수 있는 작업들](./03-03-08-tasks_cannot_undo.md)
+[3.3.8. 실행 취소를 할 수 없는 작업들](./03-03-08-tasks_cannot_undo.md)
 
 ***
 

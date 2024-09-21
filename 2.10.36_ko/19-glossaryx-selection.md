@@ -6,6 +6,8 @@
 
 ## 관련 정보
 
+[4.2.2. 숨겨진 선택](./04-02-02-the-selection-is-hidden.md)
+
 [7.1. 선택](./07-01-00-the-selection.md)
 
 [7.3. 퀵 마스크](./07-03-00-the-quickmask.md)

@@ -8,6 +8,8 @@
 
 [원문](https://docs.gimp.org/2.10/ko/glossary.html#glossary-indexedcolors)
 
+[3.4.7. 모드 바꾸기 - 3. 인덱스(Indexed)](./03-04-07-change-the-mode.md#03-04-07-s3)
+
 [4.2.8. 인덱스 모드에서의 이미지](./04-02-08-the-image-is-in-indexed-color-mode.md)
 
 [5.1. 이미지 타입 - 1-3. 인덱스(indexed)](./05-01-image-types.md#05-01-s1-03)

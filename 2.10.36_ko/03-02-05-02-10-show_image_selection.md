@@ -1,5 +1,7 @@
 # 3.2.5.2.10. 이미지 선택 표시(Show Image Selection)
-이 옵션은 다중창 모드에서만 사용할 수 있습니다. 이 옵션이 체크되어 있으면, 독(Dock)의 상단에 이미지 메뉴가 표시됩니다.
+이 옵션은 [다중창 모드](./19-glossaryx-multi_window_mode.md)에서만 사용할 수 있습니다. 
+
+이 옵션이 체크되어 있으면, 독(Dock)의 상단에 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)가 표시됩니다.
 
 <a id="90-04-a131"></a>
 

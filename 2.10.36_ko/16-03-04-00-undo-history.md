@@ -26,6 +26,22 @@
 
 ***
 
+## 관련 정보
+
+[3.3. 실행 취소하기](./03-03-00-undoing.md)
+
+[3.3.3. 실행 취소와 재실행이 유용한 경우](./03-03-03-useful_cases.md)
+
+[15.2.7. 실행취소 이력 대화상자(Undo history dialog)](./15-02-07-00-undo-history-dialog.md)
+
+[15.2.7.2.1. 실행취소(Undo)](./15-02-07-02-01-undo.md)
+
+[16.3.2. 실행 취소(Undo)](./16-03-02-00-undo.md)
+
+[16.3.4. 실행취소 이력(Undo History)](./16-03-04-00-undo-history.md)
+
+***
+
 ## 하위 페이지
 
 [16.3.4.1. 명령 활성화하기(Activating the Command)](./16-03-04-01-activating_the_command.md)

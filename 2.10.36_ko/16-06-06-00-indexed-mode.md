@@ -11,6 +11,12 @@
 
 ***
 
+## 관련 정보
+
+[4.4.2. gif 이미지로 내보냈더니 색상이 바뀌었습니다](./04-04-02-i-am-exporting-to-a-gif-image-and-the-colors-changed.md)
+
+***
+
 ## 하위 페이지
 
 [16.6.6.1. 명령 활성화하기(Activating the Command)](./16-06-06-01-activating_the_command.md)

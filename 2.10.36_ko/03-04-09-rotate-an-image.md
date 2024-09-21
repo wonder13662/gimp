@@ -5,7 +5,7 @@
 #### [그림 90.1.5.5.a121. `이미지 메뉴 바` → `이미지` → `변형` → `이미지 회전하기` (Windows) (우리말)](./90-01-05-05-00-transform.md#90-01-05-05-a121)
 <img width="779" height="830" alt="90-01-05-05-a121" src="https://github.com/user-attachments/assets/bb50ede1-ccdc-4762-8051-50d9a1398ac2" />
 
-[이미지 메뉴 바(Image Menu Bar)](./19-glossaryx-image_menu_bar.md)에서 `이미지(Image)` → `변형(Transform)` → `시계 방향으로 90도 회전(Rotate 90° clockwise)`을 선택하여 이미지를 회전시킬 수 있습니다.
+[`이미지 메뉴 바` → `보기` → `뒤집기/회전` → `시계방향으로 90도 회전`](./16-05-06-05-rotate_90_clockwise.md)을 선택하여 이미지를 회전시킬 수 있습니다.
 
 <a id="90-01-05-05-03-a101"></a>
 

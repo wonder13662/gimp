@@ -5,12 +5,24 @@
 
 [이미지 출처: Pixabay](https://pixabay.com/photos/apples-red-pair-fruits-red-apples-1506119/)
 
-이미지 크기를 줄이지 않고도 이미지 파일의 용량을 줄일 수 있습니다. 가장 널리 사용되는 압축 이미지 형식은 `JPG`입니다. 압축의 수준을 다양하게 바꿔서 이미 이미지가 같은 `JPG` 포맷이더라도 더 적은 용량으로 줄일 수 있습니다. 다만 이미지가 용량이 줄어들면, 원본보다 이미지의 품질이 낮아집니다. 반복해서 `JPG` 포맷으로 저장하는 경우 점점 이미지의 품질이 낮아지는 것도 주의하세요.
+[이미지](./19-glossaryx-image.md) 크기를 줄이지 않고도 이미지 파일의 용량을 줄일 수 있습니다. 
 
-GIMP에서 이미지들은 `.XCF` 파일 포맷으로 불러오거나 저장됩니다. `JPG` 이미지들도 열면 `.XCF` 파일 포맷으로 불러옵니다. 
+가장 널리 사용되는 압축 이미지 형식은 `JPG`입니다. 
 
-## 3.4.4.1. "image-name.jpg 덮어쓰기(Overwrite image-name.jpg)"
-GIMP에서 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `파일(File)` → `image-name.jpg 덮어쓰기(Overwrite image-name.jpg)`를 클릭하면 “이미지를 JPEG로 내보내기” 대화상자를 열 수 있습니다.
+압축의 수준을 다양하게 바꿔서 이미 이미지가 같은 `JPG` 포맷이더라도 더 적은 용량으로 줄일 수 있습니다. 
+
+다만 이미지가 용량이 줄어들면, 원본보다 이미지의 품질이 낮아집니다. 
+
+반복해서 `JPG` 포맷으로 저장하는 경우 점점 이미지의 품질이 낮아지므로 주의하세요.
+
+GIMP(김프)에서 이미지들은 [`.XCF`](./19-glossaryx-xcf.md) 파일 포맷으로 불러오거나 저장됩니다. 
+
+`JPG` 이미지들도 열면 `.XCF` 파일 포맷으로 불러옵니다. 
+
+<a id="03-04-04-s1"></a>
+
+## 1. "image-name.jpg 덮어쓰기(Overwrite image-name.jpg)"
+GIMP(김프)에서 [`이미지 메뉴 바` → `파일` → `덮어쓰기`](./16-02-12-export-and-overwrite.md#16-02-12-s2)를 클릭하면 “이미지를 JPEG로 내보내기” 대화상자를 열 수 있습니다.
 
 <a id="90-01-01-012-a111"></a>
 
@@ -24,8 +36,12 @@ GIMP에서 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `파일(F
 
 [다른 운영체제와 언어의 '이미지를 JPEG로 내보내기' 대화상자 확인하기](./90-04-0033-export_image_as_jpeg.md#90-04-33-a102)
 
-## 3.4.4.2. "Export As…"
-GIMP에서 [이미지 메뉴바](./03-02-04-02-image-menu.md#32222-이미지-메뉴-바의-위치macos)의  `파일(File)` → `Export As…`를 누르면 "이미지 내보내기(Export Image)" 대화상자를 열 수 있습니다. "이미지 내보내기(Export Image)" 대화상자에서 파일 이름과 확장자를 설정하면 다시 "이미지를 JPEG로 내보내기" 대화상자를 열 수 있습니다.
+<a id="03-04-04-s2"></a>
+
+## 2. "Export As…"
+[`이미지 메뉴 바` → `파일` → `다른 이름으로 이미지 내보내기`](./16-02-13-00-export-as.md) 메뉴를 누르면 "이미지 내보내기(Export Image)" 대화상자를 열 수 있습니다. 
+
+"이미지 내보내기(Export Image)" 대화상자에서 파일 이름과 확장자를 설정하면 다시 "이미지를 JPEG로 내보내기" 대화상자를 열 수 있습니다.
 
 <a id="90-01-01-13-a101"></a>
 
@@ -39,26 +55,40 @@ GIMP에서 [이미지 메뉴바](./03-02-04-02-image-menu.md#32222-이미지-메
 
 [다른 운영체제와 언어의 `Export As…` 대화상자 확인하기](./90-04-0034-export_image.md#90-04-34-a102)
 
-## 3.4.4.3. "Export As…" 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
-"Export As…" 대화상자가 열리면 이름입력 필드에 기본값으로 현재 파일 이름이 이미 입력이 되어 있습니다. 파일 이름의 확장자를 지우고, `JPG`로 확장자 이름을 입력하면, GIMP는 사용자가 입력한 확장자 이름의 파일타입으로 설정합니다.
+<a id="03-04-04-s3"></a>
+
+## 3. "Export As…" 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)
+"Export As…" 대화상자가 열리면 이름입력 필드에 기본값으로 현재 파일 이름이 이미 입력이 되어 있습니다. 
+
+파일 이름의 확장자를 지우고, `JPG`로 확장자 이름을 입력하면, GIMP(김프)는 사용자가 입력한 확장자 이름의 파일타입으로 설정합니다.
 
 <a id="90-04-34-a111"></a>
 
 #### [영상 90.4.34.a111. "Export As…" 대화상자에서 확장자 바꾸기(파일 확장자 직접입력)](./90-04-0034-export_image.md#90-04-34-a111)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/7c7db0d2-fb91-4bdd-9bdc-eb29da69622e"></video>
 
-## 3.4.4.4. "Export As…" 대화상자에서 확장자 바꾸기(파일 확장자 목록에서 선택)
-GIMP에서 지원하는 파일 타입을 확인하기 위해 "Export As…" 대화상자의 아래쪽의 "파일 유형 선택(Select File Type)"의 목록을 엽니다.
+<a id="03-04-04-s4"></a>
 
-GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 따라 달라집니다. 만약 "JPEG" 확장자가 비활성화되어 있다면, 취소한 뒤에 [3.4.7. 모드 바꾸기](./03-04-07-change-the-mode.md)의 과정을 진행해주세요. 그 이후, `내보내기(Export)` 버튼을 클릭하면 "이미지를 JPEG로 내보내기" 대화상자를 열 수 있습니다.
+## 4. "Export As…" 대화상자에서 확장자 바꾸기(파일 확장자 목록에서 선택)
+GIMP(김프)에서 지원하는 파일 타입을 확인하기 위해 "Export As…" 대화상자의 아래쪽의 "파일 유형 선택(Select File Type)"의 목록을 엽니다.
+
+GIMP(김프)에서 지원되는 확장자는 사용자가 설치한 라이브러리에 따라 달라집니다. 
+
+만약 "JPEG" 확장자가 비활성화되어 있다면, 취소한 뒤에 [3.4.7. 모드 바꾸기](./03-04-07-change-the-mode.md)의 과정을 진행해주세요. 
+
+그 이후, `내보내기(Export)` 버튼을 클릭하면 "이미지를 JPEG로 내보내기" 대화상자를 열 수 있습니다.
 
 <a id="90-04-34-a112"></a>
 
 #### [영상 90.4.34.a112. "파일 유형 선택(Select File Type)"의 목록 열기](./90-04-0034-export_image.md#90-04-34-a112)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/39b4460b-2c53-43d4-8f37-58eb7888b9b7"></video>
 
-## 3.4.4.5. "이미지를 JPEG로 내보내기" 대화상자
-"이미지를 JPEG로 내보내기" 대화상자는 좋은 화질을 유지하면서 메모리 크기를 줄이는 기본값을 사용합니다. 대화상자의 `이미지 창에 미리 보기 표시(Show preview in image window)` 체크박스를 체크하면 화질을 바꿀때마다 변하는 이미지의 화질을 직접 확인할 수 있습니다.
+<a id="03-04-04-s5"></a>
+
+## 5. "이미지를 JPEG로 내보내기" 대화상자
+"이미지를 JPEG로 내보내기" 대화상자는 좋은 화질을 유지하면서 메모리 크기를 줄이는 기본값을 사용합니다. 
+
+대화상자의 `이미지 창에 미리 보기 표시(Show preview in image window)` 체크박스를 체크하면 화질을 바꿀때마다 변하는 이미지의 화질을 직접 확인할 수 있습니다.
 
 <a id="90-04-33-a101"></a>
 
@@ -74,7 +104,9 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 
 `이미지 창에 미리 보기 표시(Show preview in image window)`를 켜고 화질 변화 및 파일 크기를 확인할 수 있습니다
 
-## 3.4.4.6. 화질 변화와 파일 크기
+<a id="03-04-04-s6"></a>
+
+## 6. 화질 변화와 파일 크기
 여기서는 원본 `JPG` 파일을 다른 압축률로 저장하여 화질과 파일크기의 변화를 살펴봅니다.
 
 <a id="90-04-33-a211"></a>
@@ -127,15 +159,22 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 #### 그림 3.4.4.a632. 화질(%): 0, 파일크기: 10 kB
 <img width="720" alt="그림 3.4.4.632. 화질(%): 0, 파일크기: 10 kB" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/5f50636c-c75c-4817-8e39-49242e55c8b8">
 
-## 3.4.4.7. 전체 과정 예시 영상
-### 3.4.4.7.1. 'Export As…'
+<a id="03-04-04-s7"></a>
+
+## 7. 전체 과정 예시 영상
+
+<a id="03-04-04-s7-01"></a>
+
+### 7-1. 'Export As…'
 
 <a id="90-04-34-a113"></a>
 
 #### [영상 90.4.34.a113. 'Export As…' 전체 과정](./90-04-0034-export_image.md#90-04-34-a113)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/48f1ccae-f4b9-4695-b676-ab8f57c463b0"></video>
 
-### 3.4.4.7.2. 'image-name.jpg 덮어쓰기(Overwrite image-name.jpg)'
+<a id="03-04-04-s7-02"></a>
+
+### 7-2. 'image-name.jpg 덮어쓰기(Overwrite image-name.jpg)'
 
 <a id="90-04-33-a221"></a>
 
@@ -163,4 +202,4 @@ GIMP에서 지원되는 확장자는 사용자가 설치한 라이브러리에 �
 ## 관련 정보
 [Gimp-Forum.net: What your mom never told you about PNG compression levels](https://www.gimp-forum.net/Thread-What-your-mom-never-told-you-about-PNG-compression-levels)
 
-(TODO 정리 필요)
+<a comment="TODO 정리 필요"></a>

@@ -1,8 +1,14 @@
 # 4.3.2. 도구 옵션 대화상자가 사라졌습니다
 
+<a id="04-03-02-s1"></a>
+
 ## 1. 독의 탭 메뉴로 '도구 옵션 대화상자' 되돌리기
 
-[도구 옵션 대화상자](./14-01-04-00-tool-options.md)는 우연히 닫힐 수 있습니다. 되돌리기 위해서는 독의 오른쪽 위의 작은 사각형을 클릭합니다. 메뉴가 열립니다.
+[도구 옵션 대화상자](./14-01-04-00-tool-options.md)는 우연히 닫힐 수 있습니다. 
+
+되돌리기 위해서는 독의 오른쪽 위의 작은 사각형을 클릭합니다. 
+
+메뉴가 열립니다.
 
 이 메뉴에서 `탭 추가(Add Tab)`을 누르고, `도구 옵션(Tool Options)`을 누릅니다.
 
@@ -18,8 +24,12 @@
 #### [영상 90.5.16.a213. 탭 메뉴의 '도구 옵션'으로 독(Dock)에 '도구 옵션' 대화상자 추가하기](./90-05-16-00-tab_menu.md#90-05-16-a213)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb11afcc-44a5-43a7-a01a-ad7aa2f34dd6"></video>
 
+<a id="04-03-02-s3"></a>
+
 ## 2. 이미지 메뉴 바(Image Menu Bar)로 '도구 옵션 대화상자' 되돌리기
-[이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `창` → `도킹가능한 대화` → `도구 옵션`를 사용할 수도 있습니다. 이 경우에 `도구 옵션(Tool Options)` 대화상자가 다른 독(dock)에 나타날 수 있습니다.
+[이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `창` → `도킹가능한 대화` → `도구 옵션`를 사용할 수도 있습니다. 
+
+이 경우에 `도구 옵션(Tool Options)` 대화상자가 다른 [독(dock)](./19-glossaryx-dock.md)에 나타날 수 있습니다.
 
 만일 다른 독(dock)에 대화상자가 나타났다면 클릭, 드래그해서 원하는 독(dock)으로 옮겨주세요.
 
@@ -39,6 +49,8 @@
 
 #### [영상 90.4.1.a101. '도구 옵션' 대화상자를 드래그해서 옮기기](./90-04-0001-000-tool_options.md#90-04-01-a101)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/4a654ab9-d649-477f-a106-694cc5f1f98d"></video>
+
+<a id="04-03-02-s4"></a>
 
 ## 3. 대화상자를 독에 잠궈두기
 

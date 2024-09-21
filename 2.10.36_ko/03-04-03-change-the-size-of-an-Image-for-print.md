@@ -1,7 +1,7 @@
 # 3.4.3. 이미지의 크기 바꾸기 (인쇄용)
 [3.1. GIMP(김프)의 기본 개념들 - 해상도(Resolution)](./03-01-basic-concepts.md#해상도resolution)에서 이야기한 바와 같이 픽셀(Pixel)은 현실에서의 크기를 가지지 않습니다.
 
-종이에 이미지를 인쇄하려 한다면, GIMP는 각 픽셀이 얼마나 큰지 알아야 합니다. 
+종이에 [이미지](./19-glossaryx-image.md)를 인쇄하려 한다면, GIMP는 각 픽셀이 얼마나 큰지 알아야 합니다. 
 
 픽셀과 현실의 단위(예를 들자면 inch)간의 비율을 정하는데 [해상도(Resolution)](./19-glossaryx-resolution.md)를 사용합니다. 
 

@@ -1,6 +1,10 @@
 # 4.3.1. 모든 도구창이 사라졌습니다
 
-`탭(Tab)` 키를 눌러 GIMP의 주 윈도우의 도구 대화상자를 숨길 수 있습니다. 이미지 메뉴 바의 `창(Windows)` → `Hide Docks`의 단축키가 `탭(Tab)` 키인 것을 확인할 수 있습니다.
+`탭(Tab)` 키를 눌러 GIMP(김프)의 주 윈도우의 도구 대화상자를 숨길 수 있습니다. 
+
+이미지 메뉴 바의 `창(Windows)` → `Hide Docks`의 단축키가 `탭(Tab)` 키인 것을 확인할 수 있습니다.
+
+<a comment="Hide Docks 페이지 연동"></a>
 
 <a id="90-01-10-04-a101"></a>
 
@@ -12,9 +16,13 @@
 #### [영상 90.1.10.4.a102. `Tab`키로 도구 대화상자 숨기기/보이기 사용(Windows)](./90-01-10-04-hide_docks.md#90-01-10-04-a102)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/cb3e7385-20be-49ba-b5ce-33746c2b0ab0"></video>
 
-도구 창이 없이 이미지 창만 보인다면, 아마도 `탭(Tab)` 키를 실수로 누른 것일 가능성이 높습니다. `탭(Tab)` 키는 기본 단축키로 모든 독(dock)을 숨기거나 보여줍니다.
+도구 창이 없이 [이미지 창](./19-glossaryx-image_window.md)만 보인다면, 아마도 `탭(Tab)` 키를 실수로 누른 것일 가능성이 높습니다. 
 
-이 문제를 해결하기 위해서는 `탭(Tab)` 키를 다시 한번 더 눌러주면 됩니다. 다른 방법으로는 `창(Windows)` → `Hide Docks`를 선택하면 됩니다.
+`탭(Tab)` 키는 기본 단축키로 모든 [독(dock)](./19-glossaryx-dock.md)을 숨기거나 보여줍니다.
+
+이 문제를 해결하기 위해서는 `탭(Tab)` 키를 다시 한번 더 눌러주면 됩니다. 
+
+다른 방법으로는 `창(Windows)` → `Hide Docks`를 선택하면 됩니다.
 
 > 🗒️ 참고
 >

@@ -1,5 +1,7 @@
 # 3.2.5.2.9. 버튼바 표시(Show Button Bar)
-붓(Brushes), 무늬(Patterns), 그라데이션(Gradations), 이미지(Images) 대화상자와 같은 일부 대화 상자에는 하단에 버튼바(Button Bar)가 있습니다. 버튼바(Button Bar)를 `버튼바 표시 (Show Button Bar)`를 토글해서 숨기거나 표시할 수 있습니다.
+[붓(Brushes)](./15-03-02-00-brushes_dialog.md), [무늬(Patterns)](./15-03-04-00-patterns_dialog.md), [그라디언트(Gradient)](./15-03-05-00-gradient_dialog.md), [이미지(Images)](./15-04-02-00-images-dialog.md) 대화상자와 같은 일부 대화 상자에는 하단에 버튼바(Button Bar)가 있습니다. 
+
+버튼바(Button Bar)를 `버튼바 표시 (Show Button Bar)`를 토글해서 숨기거나 표시할 수 있습니다.
 
 <a id="90-04-a121"></a>
 

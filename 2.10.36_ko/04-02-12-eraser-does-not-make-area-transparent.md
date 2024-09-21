@@ -3,7 +3,7 @@
 <a id="04-02-12-s1"></a>
 
 ## 1. 문제
-[지우개](./14-03-09-00-eraser.md)로 투명하게 지우려고 했으나, 지우고 난 뒤에 배경색(background color)가 보입니다.
+[지우개](./14-03-09-00-eraser.md)로 투명하게 지우려고 했으나, 지우고 난 뒤에 [배경색(background color)](./19-glossaryx-background_color.md)가 보입니다.
 
 보통 하얀색으로 보입니다.
 
@@ -17,7 +17,9 @@
 ## 2. 해결방법
 [레이어 대화상자](./15-02-01-00-layers_dialog.md)에서 활성화된 레이어를 확인하세요.
 
-우클릭을 해서 메뉴를 열고, `알파 채널 추가(Add Alpha Channel)`이 활성화되어 있는지 확안하세요. 메뉴의 `알파 채널 추가(Add Alpha Channel)`이 활성화 되어 있다면, 지금은 [알파 채널](./19-glossaryx-alpha_channel.md)이 없다는 의미입니다. 
+우클릭을 해서 메뉴를 열고, `알파 채널 추가(Add Alpha Channel)`이 활성화되어 있는지 확안하세요. 
+
+메뉴의 `알파 채널 추가(Add Alpha Channel)`이 활성화 되어 있다면, 지금은 [알파 채널](./19-glossaryx-alpha_channel.md)이 없다는 의미입니다. 
 
 메뉴의 `알파 채널 추가(Add Alpha Channel)`를 클릭해서 알파 채널을 추가합니다.
 

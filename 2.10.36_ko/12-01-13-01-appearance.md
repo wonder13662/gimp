@@ -72,6 +72,12 @@
 
 ***
 
+## 관련 정보
+
+[4.3.3. 도구 아이콘이 사라졌습니다](./04-03-03-some-of-the-tool-icons-are-missing.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 12.1.13.2. 도구 설정(Tools Configuration)](./12-01-13-02-tools_configuration.md)

@@ -23,7 +23,13 @@
 #### [그림 90.5.14.a111. 이미지 확대/축소 버튼 활성화(ON)와 비활성화(OFF)](./90-05-14-image_window_resize_toggle.md#90-05-14-a111)
 ![90-05-14-a111](https://github.com/wonder13662/gimp/assets/15767104/43eb4ea5-5978-451f-ad26-676614ed0c01)
 
-이미지 창 (Image Window)의 크기를 변경해도 이미지 자체의 크기나 확대/축소 비율은 변하지 않습니다. 하지만 이 기능을 사용하면 이미지 창 변경할때 창의 크기에 따라 이미지의 확대/축소 비율이 변경됩니다. 따라서 이미지 창의 크기를 변경해도 항상 이미지의 같은 부분을 볼 수 있습니다. 이미지 (Image Display) 크기와 이미지 창 (Image Window)의 크기는 서로 다른 개념입니다.
+[이미지 창 (Image Window)](./19-glossaryx-image_window.md)의 크기를 변경해도 [이미지](./19-glossaryx-image.md) 자체의 크기나 [확대/축소 비율](./19-glossaryx-zoom.md)은 변하지 않습니다. 
+
+하지만 이 기능을 사용하면 [이미지 창](./19-glossaryx-image_window.md)을 변경할때 창의 크기에 따라 [이미지](./19-glossaryx-image.md)의 확대/축소 비율이 변경됩니다. 
+
+따라서 이미지 창의 크기를 변경해도 항상 이미지의 같은 부분을 볼 수 있습니다. 
+
+이미지(Image Display) 크기와 이미지 창(Image Window)의 크기는 서로 다른 개념입니다.
 
 <a id="90-05-14-a112"></a>
 
@@ -39,23 +45,21 @@
 
 ## 3. 이미지 확대/축소 비율 단축키
 
-<a comment="아래 키보드 단축키 목록에 추가하기"></a>
-
-### Ctrl + `J`(Windows) or ⌘ + `J`(Mac)
+### 3-1. Ctrl(⌘) + `J`
 이 단축키는 확대/축소 비율을 고정시킵니다. 이미지 창(Image Window) 크기를 이미지(Image Display)에 맞춥니다.
 
-<a id="90-05-14-a121"></a>
+<a id="90-10-78-01-01-a1"></a>
 
-#### [영상 90.5.14.a121. 이미지 창을 이미지에 맞추기 + 확대/축소 비율 고정](./90-05-14-image_window_resize_toggle.md#90-05-14-a121)
-<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/6da5f558-60c7-4535-b568-157b63a4873a"></video>
+#### [영상 90.10.78.1.1.a1. `이미지 메뉴 바` → `보기` → `창 크기를 이미지에 맞춤`: Ctrl(⌘) + `J` (Windows) (우리말)](./90-10-78-01-01-ctrl_j.md#90-10-78-01-01-a1)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/49764647-7d48-4661-b8e4-2a3c67be650a"></video>
 
-### Ctrl + Shift + `J`(Windows) or ⌘ + ⇧ + `J`(Mac)
+### 3-2. Ctrl(⌘) + Shift(⇧) + `J`
 이 단축키는 이미지 창(Image Window)의 크기에 맞게 이미지(Image Display)의 확대/축소 비율을 변경합니다.
 
-<a id="90-05-14-a122"></a>
+<a id="90-10-75-01-04-a1"></a>
 
-#### [영상 90.5.14.a122. 이미지를 이미지 창에 맞추기 + 확대/축소 비율 변경](./90-05-14-image_window_resize_toggle.md#90-05-14-a122)
-<video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f6358681-da56-42cd-b9c4-c1dd06420bdd"></video>
+#### [영상 90.10.75.1.4.a1. `이미지 메뉴 바` → `보기` → `확대` → `확대`: Ctrl(⌘) + Shift(⇧) + `J` (Windows) (우리말)](./90-10-75-01-04-ctrl_shift_j.md#90-10-75-01-04-a1)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/22eaa549-fa34-434d-9e03-2bd0b3b44e57"></video>
 
 > ℹ️ 작은 정보
 >
