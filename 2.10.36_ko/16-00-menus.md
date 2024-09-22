@@ -942,7 +942,7 @@
 
 [16.7.2.2.3. 레이어 모드(Mode)](./16-07-02-02-03-mode.md)
 
-[16.7.2.2.4. 블렌딩 공간, 합성 공간(Blend spapce, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)
+[16.7.2.2.4. 혼합 영역, 합성 공간(Blend spapce, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)
 
 [16.7.2.2.5. 합성 모드(Composite mode)](./16-07-02-02-05-composite_mode.md)
 

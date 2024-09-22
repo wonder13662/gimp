@@ -4,7 +4,7 @@
 
 [1. 소개](./01-00-introduction.md)
 
-[1.1. GIMP(김프)에 오신 것을 환영합니다](./01-01-welcome-to-gimp.md)
+[1. GIMP(김프)에 오신 것을 환영합니다](./01-01-welcome-to-gimp.md)
 
 [1.2. GIMP(김프)의 새로운 기능 알아보기](./01-02-whats-new-in-gimp.md)
 
@@ -3874,7 +3874,7 @@
 
 [16.7.2.2.3. 레이어 모드(Mode)](./16-07-02-02-03-mode.md)
 
-[16.7.2.2.4. 블렌딩 공간, 합성 공간(Blend spapce, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)
+[16.7.2.2.4. 혼합 영역, 합성 공간(Blend spapce, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)
 
 [16.7.2.2.5. 합성 모드(Composite mode)](./16-07-02-02-05-composite_mode.md)
 
@@ -4580,6 +4580,8 @@
 
 [19. 용어집 - 캔버스(Canvas)](./19-glossaryx-canvas.md)
 
+[19. 용어집 - 체인(Chain)](./19-glossaryx-chain.md)
+
 [19. 용어집 - 채널(Channel)](./19-glossaryx-channel.md)
 
 [19. 용어집 - 채널 인코딩(Channel encoding)](./19-glossaryx-channel_encoding.md)
@@ -4589,6 +4591,8 @@
 [19. 용어집 - 색도(Chromaticity)](./19-glossaryx-chromaticity.md)
 
 [19. 용어집 - 깨끗한 이미지(Clean Image)](./19-glossaryx-clean_image.md)
+
+[19. 용어집 - 색상 관리 시스템(CMS: Color Management System)](./19-glossaryx-cms.md)
 
 [19. 용어집 - 색상 영역(Color Area)](./19-glossaryx-color_area.md)
 
@@ -4646,6 +4650,8 @@
 
 [19. 용어집 - 디더링(Dithering)](./19-glossaryx-dithering.md)
 
+[19. 용어집 - 독(Dock)](./19-glossaryx-dock.md)
+
 [19. 용어집 - 점대점(Dot for Dot)](./19-glossaryx-dot_for_dot.md)
 
 [19. 용어집 - 다운샘플링(Downsample)](./19-glossaryx-downsample.md)
@@ -4696,6 +4702,8 @@
 
 [19. 용어집 - ICC profile](./19-glossaryx-icc_profile.md)
 
+[19. 용어집 - 이미지(Image)](./19-glossaryx-image.md)
+
 [19. 용어집 - 이미지 메뉴 바(Image Menu Bar)](./19-glossaryx-image_menu_bar.md)
 
 [19. 용어집 - 이미지 창(Image Window)](./19-glossaryx-image_window.md)
@@ -4743,6 +4751,8 @@
 [19. 용어집 - Pass-through](./19-glossaryx-pass_through.md)
 
 [19. 용어집 - 무늬 파일 확장자 - `.pat`](./19-glossaryx-pat.md)
+
+[19. 용어집 - 경로(Path)](./19-glossaryx-path.md)
 
 [19. 용어집 - 경로: 고정점(Anchor)](./19-glossaryx-path_anchor.md)
 
@@ -4794,6 +4804,8 @@
 
 [19. 용어집 - 리샘플링(Resample)](./19-glossaryx-resample.md)
 
+[19. 용어집 - 해상도(Resolution)](./19-glossaryx-resolution.md)
+
 [19. 용어집 - 리소스 교환 파일 형식(RIFF - Resource Interchange File Format)](./19-glossaryx-riff.md)
 
 [19. 용어집 - 표본 합치기(Sample Merged)](./19-glossaryx-sample_merged.md)
@@ -4809,6 +4821,8 @@
 [19. 용어집 - 구획(Segment)](./19-glossaryx-segment.md)
 
 [19. 용어집 - 선택(Selection)](./19-glossaryx-selection.md)
+
+[19. 용어집 - 선택 마스크(Selection Mask)](./19-glossaryx-selection_mask.md)
 
 [19. 용어집 - 선택 모드(Selection Mode)](./19-glossaryx-selection_mode-dotted_mode.md)
 
@@ -4839,6 +4853,8 @@
 [19. 용어집 - 도구상자(Toolbox)](./19-glossaryx-toolbox.md)
 
 [19. 용어집 - 위상수학(Topology)](./19-glossaryx-topology.md)
+
+[19. 용어집 - 실행 취소(Undo)](./19-glossaryx-undo.md)
 
 [19. 용어집 - 유니코드 제어 문자(Unicode Control Character): LRE(Left-to-right embedding)](./19-glossaryx-unicode_control_character-lre.md)
 
@@ -4871,6 +4887,8 @@
 [19. 용어집 - GIMP 파일 확장자 - `.xcf`](./19-glossaryx-xcf.md)
 
 [19. 용어집 - XMP](./19-glossaryx-xmp.md)
+
+[19. 용어집 - 확대/축소(Zoom)](./19-glossaryx-zoom.md)
 
 [20. Tone Mapping and Shadow Recovery Using GIMP’s ‘Colors/Exposure’](./20-00-tone-mapping-and-shadow-recovery-using-gimp-colors-exposure.md)
 
@@ -7521,6 +7539,12 @@
 [90.10.86.1. 키보드 단축키](./90-10-86-01-00-keyboard_shortcut.md)
 
 [90.10.86.1.1. 키보드 단축키: Alt(⌥) + Enter](./90-10-86-01-01-alt_enter.md)
+
+[90.10.87. `이미지 메뉴 바` → `레이어` → `새 레이어`](./90-10-87-00-menu_layer_new_layer.md)
+
+[90.10.87.1. 키보드 단축키](./90-10-87-01-00-keyboard_shortcut.md)
+
+[90.10.87.1.1. 키보드 단축키: Ctrl(⌘) + Shift(⇧) + `N`](./90-10-87-01-01-ctrl_shift_n.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

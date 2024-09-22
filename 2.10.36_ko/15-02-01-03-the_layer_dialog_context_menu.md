@@ -24,12 +24,12 @@
 <a id="15-02-01-03-s2"></a>
 
 ## 2. 블렌딩 공간 서브메뉴(Blend Space submenu)
-[16.7.2.2.4. 블렌딩 공간, 합성 공간(Blend spapce, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)을 참고하세요.
+[16.7.2.2.4. 혼합 영역, 합성 공간(Blend spapce, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)을 참고하세요.
 
 <a id="15-02-01-03-s3"></a>
 
 ## 3. 합성 공간 서브메뉴(Composite Space submenu)
-[16.7.2.2.4. 블렌딩 공간, 합성 공간(Blend spapce, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)을 참고하세요.
+[16.7.2.2.4. 혼합 영역, 합성 공간(Blend spapce, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)을 참고하세요.
 
 <a id="15-02-01-03-s4"></a>
 
