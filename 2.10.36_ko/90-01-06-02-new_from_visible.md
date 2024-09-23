@@ -1,6 +1,18 @@
 # 90.1.6.2. 보이는 영역에서 새로 만들기(New From Visible)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+
+<a id="90-01-06-02-a1"></a>
+
+#### 그림 90.1.6.2.a1. `이미지 메뉴 바` → `레이어` → `보이는 영역에서 새로 만들기`
+<img width="849" height="404" alt="90-01-06-02-a1" src="https://github.com/user-attachments/assets/5a5cbdbe-28a4-4338-bdd0-7a39d293ec65" />
+
+[16.7.3. 보이는 영역에서 새로 만들기(New from visible) - 그림 90.1.6.2.a1](./16-07-03-new_from_visible.md#90-01-06-02-a1)
+
+<a id="90-01-06-02-a11"></a>
+
+#### 영상 90.1.6.2.a11. `이미지 메뉴 바` → `레이어` → `보이는 영역에서 새로 만들기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a3f7f304-f46a-42ff-9fe9-b115c21a9b60"></video>
+
+[16.7.3. 보이는 영역에서 새로 만들기(New from visible) - 영상 90.1.6.2.a11](./16-07-03-new_from_visible.md#90-01-06-02-a11)
 
 ***
 

@@ -18,7 +18,7 @@
 
 <a id="90-10-40-01-01-a1"></a>
 
-#### [영상 90.10.40.1.1.a1. `대화상자` → `레이어`: Ctrl(⌘) + `L` (Windows) (우리말)](./90-10-40-00-dialog-layer.md#90-10-40-01-01-a1)
+#### [영상 90.10.40.1.1.a1. `대화상자` → `레이어`: Ctrl(⌘) + `L` (Windows) (우리말)](./90-10-40-01-01-ctrl_l.md#90-10-40-01-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/9d6a4cb2-a6b2-468b-a684-b130a83489a1"></video>
 
 그리고 [레이어 대화상자](./15-02-01-00-layers_dialog.md)의 가장 위쪽에 "떠있는 선택(Floating Selection)"이 보이는지 확인합니다.
