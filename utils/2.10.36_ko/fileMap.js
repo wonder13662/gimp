@@ -1830,7 +1830,7 @@ module.exports = {
       ],
       [
         '16-07-04-new-layer-group.md', 
-        '16.7.4. New layer group'
+        '16.7.4. 새 레이어 그룹(New Layer Group)'
       ],
       [
         '16-07-05-duplicate-layer.md', 

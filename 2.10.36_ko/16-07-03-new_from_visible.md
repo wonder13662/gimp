@@ -28,7 +28,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.7.4. New layer group](./16-07-04-new-layer-group.md)
+[➡️ 다음: 16.7.4. 새 레이어 그룹(New Layer Group)](./16-07-04-new-layer-group.md)
 
 [⬅️ 이전: 16.7.2.2.10. 스위치(Switches)](./16-07-02-02-10-switches.md)
 

@@ -19,12 +19,12 @@
 
 <a id="90-01-06-03-a101"></a>
 
-#### [그림 90.1.6.3.a101. 이미지 메뉴 바의 `레이어` → `새 레이어 그룹(New Layer Group)`](./90-01-06-03-new_layer_group.md#90-01-06-03-a101)
-![90-01-06-layer(1080)-focus-new_layer_group](https://github.com/wonder13662/gimp/assets/15767104/b3eda053-5e55-418a-88c8-78df73aa47b4)
+#### [그림 90.1.6.3.a101. `이미지 메뉴 바` → `레이어` → `새 레이어 그룹`](./90-01-06-03-new_layer_group.md#90-01-06-03-a101)
+<img width="849" height="404" alt="90-01-06-03-a101" src="https://github.com/user-attachments/assets/507d78ad-a39c-465f-b291-724d4b27ef0e" />
 
 <a id="90-01-06-03-a103"></a>
 
-#### [영상 90.1.6.3.a103. 이미지 메뉴 바의 `레이어` → `새 레이어 그룹(New Layer Group)`를 클릭해서 선택한 레이어 그룹 안에 레이어 그룹 추가](./90-01-06-03-new_layer_group.md#90-01-06-03-a103)
+#### [영상 90.1.6.3.a103. `이미지 메뉴 바` → `레이어` → `새 레이어 그룹`: 선택한 레이어 그룹 안에 레이어 그룹 추가](./90-01-06-03-new_layer_group.md#90-01-06-03-a103)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/12793dbf-af25-42ee-a439-bb56408f8608"></video>
 
 ### 3. 레이어 대화상자의 컨텍스트 메뉴의 `새 레이어 그룹(New Layer Group)`
