@@ -1,6 +1,9 @@
 # 19. 용어집 - 떠있는 선택(Floating Selection)
 
-(TODO 내용 추가 필요)
+## 1. 정의
+
+## 2. 비슷한 말
+떠있는 레이어(Floating layer)
 
 ***
 

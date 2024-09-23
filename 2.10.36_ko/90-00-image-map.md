@@ -371,6 +371,8 @@
 
 [90.1.6.17. 경로따라 텍스트(Text to Path)](./90-01-06-17-text_along_path.md)
 
+[90.1.6.18. 레이어 고정하기(Anchor layer)](./90-01-06-18-anchor_layer.md)
+
 [90.1.7. 색(Colors)](./90-01-07-00-colors.md)
 
 [90.1.7.1. 색상 균형(Color Balance)](./90-01-07-01-color_balance.md)
@@ -2682,6 +2684,12 @@
 [90.10.87.1. 키보드 단축키](./90-10-87-01-00-keyboard_shortcut.md)
 
 [90.10.87.1.1. 키보드 단축키: Ctrl(⌘) + Shift(⇧) + `N`](./90-10-87-01-01-ctrl_shift_n.md)
+
+[90.10.88. `이미지 메뉴 바` → `레이어` → `레이어 복제`](./90-10-88-00-menu_layer_duplicate_layer.md)
+
+[90.10.88.1. 키보드 단축키](./90-10-88-01-00-keyboard_shortcut.md)
+
+[90.10.88.1.1. 키보드 단축키: Ctrl(⌘) + Shift(⇧) + `D`](./90-10-88-01-01-ctrl_shift_n.md)
 
 <a id="90-s90"></a>
 

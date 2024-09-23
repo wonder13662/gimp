@@ -1,6 +1,9 @@
 # 90.1.6.5. 아래로 합치기(Merge Down)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+
+<a id="90-01-06-04-a1"></a>
+
+#### 그림 90.1.6.4.a1. `이미지 메뉴 바` → `레이어` → `레이어 복제`
+<img width="849" height="404" alt="90-01-06-04-a1" src="https://github.com/user-attachments/assets/7c26e456-1b8e-401b-b8e0-0ae9028839ba" />
 
 ***
 
