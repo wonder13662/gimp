@@ -9,7 +9,7 @@
 첫번째 차원 (x) 축에 4개의 횡렬(rank)가 있습니다. 두번째 차원 (y) 축에는 2개의 횡렬(rank) 그리고 세번째 차원 (z) 축에는 2개의 횡렬(rank)가 있습니다. 그러므로 `4 x 2 x 2 = 16`이므로 총 16장의 셀(cell)이 있으므로 16장의 이미지가 필요합니다.
 
 ## 1. 첫번째 차원 (x) 축의 이미지 만들기
-너비 30 픽셀, 높이 30 픽셀의 새로운 이미지를 엽니다. `색상 공간(Color space)`은 `RGB` 색상으로 맞추고, `채우기(Fill with)`는 `투명(Transparency)`로 설정합니다.
+너비 30 픽셀, 높이 30 픽셀의 새로운 이미지를 엽니다. `색 공간(Color space)`은 `RGB` 색상으로 맞추고, `채우기(Fill with)`는 `투명(Transparency)`로 설정합니다.
 
 #### 그림 7.8.2.2.a111. `새 이미지 만들기` 대화상자: 고급옵션 (Windows) (우리말) - 3차원 이미지 호스 만들기
 ![07-08-02-02-create_a_new_image-advanced_options(windows)(ko)](https://github.com/wonder13662/gimp/assets/15767104/42986d59-1c9b-4d41-b542-6fdbef151d92)

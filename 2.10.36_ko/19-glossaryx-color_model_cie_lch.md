@@ -1,6 +1,6 @@
-# 19. 용어집 - 색상 모델: CIE LCh
+# 19. 용어집 - 색 모델: CIE LCh
 
-`CIE LCh` 색상 모델은 [`CIE LAB`](./19-glossaryx-color_model_cie_lab.md)에서 파생되었습니다.
+`CIE LCh` 색 모델은 [`CIE LAB`](./19-glossaryx-color_model_cie_lab.md)에서 파생되었습니다.
 
 1. `L*`: 밝기
 2. `C*`: 크로마

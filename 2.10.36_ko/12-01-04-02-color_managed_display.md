@@ -37,14 +37,14 @@
 
 `렌더링 목적(Rendering intent)` 옵션은 색상이 이미지의 색공간에서 표시 장치(모니터, 프린터 등)로 어떻게 바뀌는지 결정합니다. 4가지 모드를 선택할 수 있습니다.
 
-- 지각적(Perceptual)
+- 가시영역(Perceptual)
 - 상대 비색계(Relative colorimetric)
 - 채도(Saturation)
 - 절대 비색계(Absolute colorimetric)
 
 `상대 비색계(Relative colorimetric)`은 대부분의 경우, 가장 좋은 선택이며 기본값입니다.
 
-모니터 프로필 [순람표(룩업테이블, LUT)](./19-glossaryx-lookup_table.md)(대부분의 모니터 프로필은 행렬입니다)을 사용하지 않는다면, `지각적(Perceptual)` 항목을 선택하면 실제로는 `상대 비색계(Relative colorimetric)`를 사용하는 것과 같은 결과를 얻습니다.
+모니터 프로필 [순람표(룩업테이블, LUT)](./19-glossaryx-lookup_table.md)(대부분의 모니터 프로필은 행렬입니다)을 사용하지 않는다면, `가시영역(Perceptual)` 항목을 선택하면 실제로는 `상대 비색계(Relative colorimetric)`를 사용하는 것과 같은 결과를 얻습니다.
 
 `비색계`에 대해서는 [19. 용어집 - 비색법(Colormetry)](./19-glossaryx-colorimetric.md)을 참고해주세요.
 

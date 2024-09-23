@@ -15,7 +15,7 @@
 
 [16.6.34.2.1.3. 해상도(Resolution)](./16-06-34-02-01-03-resolution.md)
 
-[16.6.34.2.1.4. 색상 공간(Color space)](./16-06-34-02-01-04-color_space.md)
+[16.6.34.2.1.4. 색 공간(Color space)](./16-06-34-02-01-04-color_space.md)
 
 [16.6.34.2.1.5. 정밀도(Precision)](./16-06-34-02-01-05-precision.md)
 

@@ -7,7 +7,7 @@
 
 `채널 인코딩 옵션(Channel Encoding Options)`에서 이미지 데이터에 대한 [채널 인코딩](./19-glossaryx-channel_encoding.md)을 선택할 수 있습니다.
 
-- 지각 범위 감마(sRGB)(Perceptual gamma(sRGB))
+- 가시영역 감마(sRGB)(Perceptual gamma(sRGB))
 
 - 선형 조명(Linear Light): 채널 데이터를 `선형 감마 TRC(Linear Gamma TRC)`로 인코딩
 

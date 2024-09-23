@@ -2014,7 +2014,7 @@
 
 [15.2.5.3.1. 채널(Channel)](./15-02-05-03-01-channel.md)
 
-[15.2.5.3.2. 선형/인지 공간 버튼(Linear/Perceptual Space buttons)](./15-02-05-03-02-linear_perceptual_buttons.md)
+[15.2.5.3.2. 선형/가시영역 공간 버튼(Linear/Perceptual Space buttons)](./15-02-05-03-02-linear_perceptual_buttons.md)
 
 [15.2.5.3.3. 선형/로그 히스토그램 버튼(Linear/Logarithmic buttons)](./15-02-05-03-03-linear_logarithmic_buttons.md)
 
@@ -2658,7 +2658,7 @@
 
 [15.4.4.2.4.2.1. 해상도(X and Y resolution)](./15-04-04-02-04-02-01-x_n_y_resolution.md)
 
-[15.4.4.2.4.2.2. 색상 공간(Color Space)](./15-04-04-02-04-02-02-color_space.md)
+[15.4.4.2.4.2.2. 색 공간(Color Space)](./15-04-04-02-04-02-02-color_space.md)
 
 [15.4.4.2.4.2.3. 정밀도(Precision)](./15-04-04-02-04-02-03-precision.md)
 
@@ -2966,7 +2966,7 @@
 
 [16.2.2.3.1. 해상도(X and Y resolution)](./16-02-02-03-01-x_y_resolution.md)
 
-[16.2.2.3.2. 색상 공간(Colorspace)](./16-02-02-03-02-colorspace.md)
+[16.2.2.3.2. 색 공간(Colorspace)](./16-02-02-03-02-colorspace.md)
 
 [16.2.2.3.3. 정밀도(Precision)](./16-02-02-03-03-precision.md)
 
@@ -3824,7 +3824,7 @@
 
 [16.6.34.2.1.3. 해상도(Resolution)](./16-06-34-02-01-03-resolution.md)
 
-[16.6.34.2.1.4. 색상 공간(Color space)](./16-06-34-02-01-04-color_space.md)
+[16.6.34.2.1.4. 색 공간(Color space)](./16-06-34-02-01-04-color_space.md)
 
 [16.6.34.2.1.5. 정밀도(Precision)](./16-06-34-02-01-05-precision.md)
 
@@ -3874,7 +3874,7 @@
 
 [16.7.2.2.3. 레이어 모드(Mode)](./16-07-02-02-03-mode.md)
 
-[16.7.2.2.4. 혼합 영역, 합성 공간(Blend spapce, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)
+[16.7.2.2.4. 혼합 영역, 합성 공간(Blend space, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)
 
 [16.7.2.2.5. 합성 모드(Composite mode)](./16-07-02-02-05-composite_mode.md)
 
@@ -4576,6 +4576,8 @@
 
 [19. 용어집 - 흑점 보상(Black Point Compensation or BPC)](./19-glossaryx-black_point_compensation.md)
 
+[19. 용어집 - 블렌딩(Blending)](./19-glossaryx-blending.md)
+
 [19. 용어집 - 취소 레이어 모드(Cancellation Layer Mode)](./19-glossaryx-cancellation_layer_mode.md)
 
 [19. 용어집 - 캔버스(Canvas)](./19-glossaryx-canvas.md)
@@ -4614,27 +4616,31 @@
 
 [19. 용어집 - 색상 모드: RGB(Color Mode: RGB)](./19-glossaryx-color_mode_rgb.md)
 
-[19. 용어집 - 색상 모델(Color model)](./19-glossaryx-color_model.md)
+[19. 용어집 - 색 모델(Color model)](./19-glossaryx-color_model.md)
 
-[19. 용어집 - 색상 모델: CIE LAB](./19-glossaryx-color_model_cie_lab.md)
+[19. 용어집 - 색 모델: CIE LAB](./19-glossaryx-color_model_cie_lab.md)
 
-[19. 용어집 - 색상 모델: CIE LCh](./19-glossaryx-color_model_cie_lch.md)
+[19. 용어집 - 색 모델: CIE LCh](./19-glossaryx-color_model_cie_lch.md)
 
-[19. 용어집 - 색상 모델: CIE xyY](./19-glossaryx-color_model_cie_xyy.md)
+[19. 용어집 - 색 모델: CIE xyY](./19-glossaryx-color_model_cie_xyy.md)
 
-[19. 용어집 - 색상 모델: CIE Yuv](./19-glossaryx-color_model_cie_yuv.md)
+[19. 용어집 - 색 모델: CIE Yuv](./19-glossaryx-color_model_cie_yuv.md)
 
-[19. 용어집 - 색상 모델: CMYK](./19-glossaryx-color_model_cmyk.md)
+[19. 용어집 - 색 모델: CMYK](./19-glossaryx-color_model_cmyk.md)
 
-[19. 용어집 - 색상 모델: HSV](./19-glossaryx-color_model_hsv.md)
+[19. 용어집 - 색 모델: HSV](./19-glossaryx-color_model_hsv.md)
 
-[19. 용어집 - 색상 모델: RGB](./19-glossaryx-color_model_rgb.md)
+[19. 용어집 - 색 모델: RGB](./19-glossaryx-color_model_rgb.md)
 
 [19. 용어집 - 색상 프로필(Color profile)](./19-glossaryx-color_profile.md)
+
+[19. 용어집 - 색공간(Color Space)](./19-glossaryx-color_space.md)
 
 [19. 용어집 - 색상환(Color Wheel)](./19-glossaryx-color_wheel.md)
 
 [19. 용어집 - 비색계(Colorimetric)](./19-glossaryx-colorimetric.md)
+
+[19. 용어집 - 합성(Compositing)](./19-glossaryx-compositing.md)
 
 [19. 용어집 - 컨텍스트 메뉴(Context Menu)](./19-glossaryx-context_menu.md)
 
@@ -4784,7 +4790,7 @@
 
 [19. 용어집 - PDF](./19-glossaryx-pdf.md)
 
-[19. 용어집 - 사람이 인식할 수 있는 RGB(Perceptual RGB)](./19-glossaryx-perceptual_rgb.md)
+[19. 용어집 - 가시영역 RGB(Perceptual RGB)](./19-glossaryx-perceptual_rgb.md)
 
 [19. 용어집 - 픽스맵(pixmap)](./19-glossaryx-pixmap.md)
 

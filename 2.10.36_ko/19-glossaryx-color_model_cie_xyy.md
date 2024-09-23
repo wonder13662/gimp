@@ -1,4 +1,4 @@
-# 19. 용어집 - 색상 모델: CIE xyY
+# 19. 용어집 - 색 모델: CIE xyY
 
 아래 내용은 [위키백과 - CIE 1931 색 공간 - CIE xy 색도분포표](https://ko.wikipedia.org/wiki/CIE_1931_%EC%83%89_%EA%B3%B5%EA%B0%84#CIE_xy_%EC%83%89%EB%8F%84%EB%B6%84%ED%8F%AC%ED%91%9C)에서 인용하였습니다.
 

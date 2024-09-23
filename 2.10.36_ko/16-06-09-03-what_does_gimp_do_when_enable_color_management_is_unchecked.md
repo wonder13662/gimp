@@ -8,7 +8,7 @@
 
 GIMP 내부의 sRGB 색공간 프로파일을 이전의 ICC 프로파일 대신에 설정하게 됩니다.
 
-### 1-1. `인지 감마 sRGB(Perceptual gamma sRGB)` 채널 인코딩이 설정된 경우
+### 1-1. `가시영역 감마 sRGB(Perceptual gamma sRGB)` 채널 인코딩이 설정된 경우
 ICC 프로파일 ["GIMP built-in sRGB"](./19-glossaryx-gimp_built_in_srgb_profile.md)이 설정됩니다.
 
 ### 1-2. `선형 조명(Linear light)` 채널 인코딩이 설정된 경우
@@ -24,7 +24,7 @@ ICC 프로파일 ["GIMP built-in Linear sRGB"](./19-glossaryx-gimp_built_in_srgb
 ## 2. 타이틀 바에 "not color managed" 표시
 [타이틀 바](./19-glossaryx-title_bar.md)에 이미지의 색공간을 표시하도록 설정되어 있다면, "not color managed"라고 표시됩니다.
 
-실제로는 이미지의 색상은 관리되고 있지만, 이전의 색상 공간 대신에 [GIMP(김프)의 자체적인 sRGB 색공간](./19-glossaryx-gimp_built_in_srgb_profile.md)으로 이미지의 색이 관리되고 있습니다.
+실제로는 이미지의 색상은 관리되고 있지만, 이전의 색 공간 대신에 [GIMP(김프)의 자체적인 sRGB 색공간](./19-glossaryx-gimp_built_in_srgb_profile.md)으로 이미지의 색이 관리되고 있습니다.
 
 ***
 

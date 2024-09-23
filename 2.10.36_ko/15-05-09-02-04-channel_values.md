@@ -5,14 +5,14 @@
 #### [그림 90.4.11.a114. `포인터 정보` 대화상자 → `채널 값` (Windows) (우리말)](./90-04-0011-pointer_information.md#90-04-11-a114)
 <img width="200" height="258" alt="90-04-11-a114" src="https://github.com/user-attachments/assets/6cfe63a0-554e-492a-bf14-9011f744be0c" />
 
-`채널 값(Channel values)`은 [색상 모델](./19-glossaryx-color_model.md)의 드롭다운 목록에서 선택한 색상 모델의 값이 표시됩니다.
+`채널 값(Channel values)`은 [색 모델](./19-glossaryx-color_model.md)의 드롭다운 목록에서 선택한 색 모델의 값이 표시됩니다.
 
 <a id="90-04-11-a114-01"></a>
 
 #### [그림 90.4.11.a114.1. `포인터 정보` 대화상자 → `채널 값`: 색상모델 드롭다운 목록 (Windows) (우리말)](./90-04-0011-pointer_information.md#90-04-11-a114-01)
 <img width="249" height="361" alt="90-04-11-a114-01" src="https://github.com/user-attachments/assets/68da2e4d-5f8e-4db8-8a1a-6e111a3c69a0" />
 
-양쪽의 색상 모델 드롭다운 목록은 같은 색상 모델 목록을 가지고 있습니다.
+양쪽의 색 모델 드롭다운 목록은 같은 색 모델 목록을 가지고 있습니다.
 
 이를 통해, 다른 색상모델끼리의 값을 쉽게 비교할 수 있습니다.
 
@@ -20,7 +20,7 @@
 
 `픽셀(Pixel)`이 기본 선택값입니다.
 
-색상 모델에 대한 설명은 아래와 같습니다.
+색 모델에 대한 설명은 아래와 같습니다.
 
 <a id="15-05-09-02-04-s1"></a>
 

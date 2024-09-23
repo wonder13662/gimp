@@ -33,7 +33,7 @@ GIMP(김프)가 설치될 때, 스크린 크기의 캘리브레이션이 완료�
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.2.2.3.2. 색상 공간(Colorspace)](./16-02-02-03-02-colorspace.md)
+[➡️ 다음: 16.2.2.3.2. 색 공간(Colorspace)](./16-02-02-03-02-colorspace.md)
 
 [⬅️ 이전: 16.2.2.3. 고급 옵션(Advanced Options)](./16-02-02-03-00-advanced_options.md)
 

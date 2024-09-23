@@ -7,7 +7,7 @@
 ![90-99-a147](https://github.com/wonder13662/gimp/assets/15767104/75d078d4-d4bb-4106-adb1-15df4a1fd485)
 
 ## 1. 새 이미지 만들기
-너비 30 픽셀, 높이 30 픽셀의 새로운 이미지를 엽니다. `색상 공간(Color space)`은 `RGB` 색상으로 맞추고, `채우기(Fill with)`는 `투명(Transparency)`로 설정합니다.
+너비 30 픽셀, 높이 30 픽셀의 새로운 이미지를 엽니다. `색 공간(Color space)`은 `RGB` 색상으로 맞추고, `채우기(Fill with)`는 `투명(Transparency)`로 설정합니다.
 
 <a id="90-04-37-a125"></a>
 

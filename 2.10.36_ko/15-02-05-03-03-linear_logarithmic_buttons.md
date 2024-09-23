@@ -36,7 +36,7 @@
 
 [➡️ 다음: 15.2.5.3.4. 범위 설정(Range Fixing)](./15-02-05-03-04-range_fixing.md)
 
-[⬅️ 이전: 15.2.5.3.2. 선형/인지 공간 버튼(Linear/Perceptual Space buttons)](./15-02-05-03-02-linear_perceptual_buttons.md)
+[⬅️ 이전: 15.2.5.3.2. 선형/가시영역 공간 버튼(Linear/Perceptual Space buttons)](./15-02-05-03-02-linear_perceptual_buttons.md)
 
 [⬆️ 위: 15.2.5.3. 히스토그램 대화상자 사용하기(Using the Histogram dialog)](./15-02-05-03-00-using_the_histogram_dialog.md)
 

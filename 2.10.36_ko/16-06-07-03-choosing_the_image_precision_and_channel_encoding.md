@@ -29,14 +29,14 @@ GIMP(김프)의 내부의 32비트 실수(부동소수점) 처리의 최대 이�
 <a id="16-06-07-03-s2-04"></a>
 
 ### 2-4. 지각 범위 감마(sRGB)
-이미지에 [색상 교정(Soft Proofing)](./19-glossaryx-soft_proofing.md) 작업을 할 때, `지각 범위 감마(sRGB)(Perceptual gamma (sRGB))` 채널 인코딩으로 바꾸어서 선형 감마 이미지의 색상 교정 문제를 피할 수 있습니다.
+이미지에 [색상 교정(Soft Proofing)](./19-glossaryx-soft_proofing.md) 작업을 할 때, `가시영역 감마(sRGB)(Perceptual gamma (sRGB))` 채널 인코딩으로 바꾸어서 선형 감마 이미지의 색상 교정 문제를 피할 수 있습니다.
 
 <a id="16-06-07-03-s2-05"></a>
 
 ### 2-5. 8비트 정수
 램(RAM)이 충분하지 않은 매우 저사양의 장비로 작업하는 경우에는 `8비트 정수` 옵션을 사용해보세요.
 
-또한 `지각 범위 감마(sRGB)(Perceptual gamma (sRGB))` 채널 인코딩 옵션을 선택해서, `8비트 정수` 정밀도에서 `선형 조명 채널 인코딩(Linear Light Channel Encoding)` 채널 인코딩을 사용할 경우, 그림자가 보기 좋지 않게 [포스터라이즈](./16-08-57-posterize.md)되는 문제를 방지할 수 있습니다.
+또한 `가시영역 감마(sRGB)(Perceptual gamma (sRGB))` 채널 인코딩 옵션을 선택해서, `8비트 정수` 정밀도에서 `선형 조명 채널 인코딩(Linear Light Channel Encoding)` 채널 인코딩을 사용할 경우, 그림자가 보기 좋지 않게 [포스터라이즈](./16-08-57-posterize.md)되는 문제를 방지할 수 있습니다.
 
 ***
 

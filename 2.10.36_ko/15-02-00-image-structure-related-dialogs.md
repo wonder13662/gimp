@@ -242,7 +242,7 @@
 
 [15.2.5.3.1. 채널(Channel)](./15-02-05-03-01-channel.md)
 
-[15.2.5.3.2. 선형/인지 공간 버튼(Linear/Perceptual Space buttons)](./15-02-05-03-02-linear_perceptual_buttons.md)
+[15.2.5.3.2. 선형/가시영역 공간 버튼(Linear/Perceptual Space buttons)](./15-02-05-03-02-linear_perceptual_buttons.md)
 
 [15.2.5.3.3. 선형/로그 히스토그램 버튼(Linear/Logarithmic buttons)](./15-02-05-03-03-linear_logarithmic_buttons.md)
 

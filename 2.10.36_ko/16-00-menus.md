@@ -34,7 +34,7 @@
 
 [16.2.2.3.1. 해상도(X and Y resolution)](./16-02-02-03-01-x_y_resolution.md)
 
-[16.2.2.3.2. 색상 공간(Colorspace)](./16-02-02-03-02-colorspace.md)
+[16.2.2.3.2. 색 공간(Colorspace)](./16-02-02-03-02-colorspace.md)
 
 [16.2.2.3.3. 정밀도(Precision)](./16-02-02-03-03-precision.md)
 
@@ -892,7 +892,7 @@
 
 [16.6.34.2.1.3. 해상도(Resolution)](./16-06-34-02-01-03-resolution.md)
 
-[16.6.34.2.1.4. 색상 공간(Color space)](./16-06-34-02-01-04-color_space.md)
+[16.6.34.2.1.4. 색 공간(Color space)](./16-06-34-02-01-04-color_space.md)
 
 [16.6.34.2.1.5. 정밀도(Precision)](./16-06-34-02-01-05-precision.md)
 
@@ -942,7 +942,7 @@
 
 [16.7.2.2.3. 레이어 모드(Mode)](./16-07-02-02-03-mode.md)
 
-[16.7.2.2.4. 혼합 영역, 합성 공간(Blend spapce, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)
+[16.7.2.2.4. 혼합 영역, 합성 공간(Blend space, Composite space)](./16-07-02-02-04-blend_space_n_composite_space.md)
 
 [16.7.2.2.5. 합성 모드(Composite mode)](./16-07-02-02-05-composite_mode.md)
 

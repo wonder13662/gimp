@@ -57,7 +57,7 @@
 
 [15.4.4.2.4.2.1. 해상도(X and Y resolution)](./15-04-04-02-04-02-01-x_n_y_resolution.md)
 
-[15.4.4.2.4.2.2. 색상 공간(Color Space)](./15-04-04-02-04-02-02-color_space.md)
+[15.4.4.2.4.2.2. 색 공간(Color Space)](./15-04-04-02-04-02-02-color_space.md)
 
 [15.4.4.2.4.2.3. 정밀도(Precision)](./15-04-04-02-04-02-03-precision.md)
 

@@ -15,7 +15,7 @@
 
 [16.2.2.3.1. 해상도(X and Y resolution)](./16-02-02-03-01-x_y_resolution.md)
 
-[16.2.2.3.2. 색상 공간(Colorspace)](./16-02-02-03-02-colorspace.md)
+[16.2.2.3.2. 색 공간(Colorspace)](./16-02-02-03-02-colorspace.md)
 
 [16.2.2.3.3. 정밀도(Precision)](./16-02-02-03-03-precision.md)
 

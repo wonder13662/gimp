@@ -73,91 +73,91 @@
 
 <a id="90-04-12-a151"></a>
 
-#### 그림 90.4.12.a151. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델` (Windows) (우리말)
+#### 그림 90.4.12.a151. `표본점` 대화상자 → `목록` → `표본점` → `색 모델` (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a151" src="https://github.com/user-attachments/assets/96855c67-6ad4-45ef-851b-ef5ef194f4fb" />
 
 [15.5.8.3. 표본점 대화상자 설명(Sample points dialog description) - 그림 90.4.12.a151](./15-05-08-03-00-sample_points_dialog_description.md#90-04-12-a151)
 
 <a id="90-04-12-a151-01"></a>
 
-#### 그림 90.4.12.a151.1. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델`: 드롭다운 목록 (Windows) (우리말)
+#### 그림 90.4.12.a151.1. `표본점` 대화상자 → `목록` → `표본점` → `색 모델`: 드롭다운 목록 (Windows) (우리말)
 <img width="258" height="361" alt="90-04-12-a151-01" src="https://github.com/user-attachments/assets/4f71aa20-b817-46a1-ad30-bb2fb7de43f3" />
 
 [15.5.8.3. 표본점 대화상자 설명(Sample points dialog description) - 그림 90.4.12.a151.1](./15-05-08-03-00-sample_points_dialog_description.md#90-04-12-a151-01)
 
 <a id="90-04-12-a151-02"></a>
 
-#### 영상 90.4.12.a151.2. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델`: 드롭다운 목록 (Windows) (우리말)
+#### 영상 90.4.12.a151.2. `표본점` 대화상자 → `목록` → `표본점` → `색 모델`: 드롭다운 목록 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/243eb24b-9f03-44b4-b0bb-19a9f5c31b7f"></video>
 
 [15.5.8.3. 표본점 대화상자 설명(Sample points dialog description) - 영상 90.4.12.a151.2](./15-05-08-03-00-sample_points_dialog_description.md#90-04-12-a151-02)
 
 <a id="90-04-12-a161"></a>
 
-#### 그림 90.4.12.a161. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델(RGB)` → `16진수` (Windows) (우리말)
+#### 그림 90.4.12.a161. `표본점` 대화상자 → `목록` → `표본점` → `색 모델(RGB)` → `16진수` (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a161" src="https://github.com/user-attachments/assets/cc1d9fcb-55aa-4767-85a3-9f2a2c38ba50" />
 
 [15.5.8.3. 표본점 대화상자 설명(Sample points dialog description) - 그림 90.4.12.a161](./15-05-08-03-00-sample_points_dialog_description.md#90-04-12-a161)
 
 <a id="90-04-12-a171"></a>
 
-#### 그림 90.4.12.a171. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델(픽셀)` (Windows) (우리말)
+#### 그림 90.4.12.a171. `표본점` 대화상자 → `목록` → `표본점` → `색 모델(픽셀)` (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a171" src="https://github.com/user-attachments/assets/18ea6321-6d40-465a-816d-6d61662300ac" />
 
 [15.5.8.3.1. 픽셀(Pixel) - 그림 90.4.12.a171](./15-05-08-03-01-pixel.md#90-04-12-a171)
 
 <a id="90-04-12-a172"></a>
 
-#### 그림 90.4.12.a172. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델(RGB (%))` (Windows) (우리말)
+#### 그림 90.4.12.a172. `표본점` 대화상자 → `목록` → `표본점` → `색 모델(RGB (%))` (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a172" src="https://github.com/user-attachments/assets/0cb3da2e-5478-4283-b99e-81c2b689fc81" />
 
 [15.5.8.3.2. RGB(%) - 그림 90.4.12.a172](./15-05-08-03-02-rgb_percentage.md#90-04-12-a172)
 
 <a id="90-04-12-a173"></a>
 
-#### 그림 90.4.12.a173. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델(RGB (0…255))` (Windows) (우리말)
+#### 그림 90.4.12.a173. `표본점` 대화상자 → `목록` → `표본점` → `색 모델(RGB (0…255))` (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a173" src="https://github.com/user-attachments/assets/fba8be25-04fa-44ef-a1a0-4e2bfbf8ea78" />
 
 [15.5.8.3.3. RGB(0…255) - 그림 90.4.12.a173](./15-05-08-03-03-rgb_0_255.md#90-04-12-a173)
 
 <a id="90-04-12-a174"></a>
 
-#### 그림 90.4.12.a174. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델(HSV)` (Windows) (우리말)
+#### 그림 90.4.12.a174. `표본점` 대화상자 → `목록` → `표본점` → `색 모델(HSV)` (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a174" src="https://github.com/user-attachments/assets/89e1d5d9-4a52-4fae-ab77-0b4ac9e2a9b8" />
 
 [15.5.8.3.4. HSV - 그림 90.4.12.a174](./15-05-08-03-04-hsv.md#90-04-12-a174)
 
 <a id="90-04-12-a175"></a>
 
-#### 그림 90.4.12.a175. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델(CIE LCh)` (Windows) (우리말)
+#### 그림 90.4.12.a175. `표본점` 대화상자 → `목록` → `표본점` → `색 모델(CIE LCh)` (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a175" src="https://github.com/user-attachments/assets/3ec76cc7-6c82-471e-bdf2-83c3ea4d9e5c" />
 
 [15.5.8.3.5. CIE LCh - 그림 90.4.12.a175](./15-05-08-03-05-cie_lch.md#90-04-12-a175)
 
 <a id="90-04-12-a176"></a>
 
-#### 그림 90.4.12.a176. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델(CIE LAB)` (Windows) (우리말)
+#### 그림 90.4.12.a176. `표본점` 대화상자 → `목록` → `표본점` → `색 모델(CIE LAB)` (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a176" src="https://github.com/user-attachments/assets/ca751aad-8802-4535-95ce-c0fce2e72aa2" />
 
 [15.5.8.3.6. CIE LAB - 그림 90.4.12.a176](./15-05-08-03-06-cie_lab.md#90-04-12-a176)
 
 <a id="90-04-12-a177"></a>
 
-#### 그림 90.4.12.a177. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델(CIE xyY)` (Windows) (우리말)
+#### 그림 90.4.12.a177. `표본점` 대화상자 → `목록` → `표본점` → `색 모델(CIE xyY)` (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a177" src="https://github.com/user-attachments/assets/bc62adae-9a1c-4dc4-bece-6f49a0887f5d" />
 
 [15.5.8.3.7. CIE xyY - 그림 90.4.12.a177](./15-05-08-03-07-cie_xyy.md#90-04-12-a177)
 
 <a id="90-04-12-a178"></a>
 
-#### 그림 90.4.12.a178. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델(CIE Yuv)` (Windows) (우리말)
+#### 그림 90.4.12.a178. `표본점` 대화상자 → `목록` → `표본점` → `색 모델(CIE Yuv)` (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a178" src="https://github.com/user-attachments/assets/b358ab41-5ac8-4060-9c51-58eebd083cc7" />
 
 [15.5.8.3.8. CIE Yuv - 그림 90.4.12.a178](./15-05-08-03-08-cie_yuv.md#90-04-12-a178)
 
 <a id="90-04-12-a179"></a>
 
-#### 그림 90.4.12.a179. `표본점` 대화상자 → `목록` → `표본점` → `색상 모델(CMYK)` (Windows) (우리말)
+#### 그림 90.4.12.a179. `표본점` 대화상자 → `목록` → `표본점` → `색 모델(CMYK)` (Windows) (우리말)
 <img width="251" height="213" alt="90-04-12-a179" src="https://github.com/user-attachments/assets/b7a2c512-e55e-4a17-a7c6-cc530e14d5be" />
 
 [15.5.8.3.9. CMYK - 그림 90.4.12.a179](./15-05-08-03-09-cmyk.md#90-04-12-a179)

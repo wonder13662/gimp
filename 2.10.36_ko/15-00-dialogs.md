@@ -244,7 +244,7 @@
 
 [15.2.5.3.1. 채널(Channel)](./15-02-05-03-01-channel.md)
 
-[15.2.5.3.2. 선형/인지 공간 버튼(Linear/Perceptual Space buttons)](./15-02-05-03-02-linear_perceptual_buttons.md)
+[15.2.5.3.2. 선형/가시영역 공간 버튼(Linear/Perceptual Space buttons)](./15-02-05-03-02-linear_perceptual_buttons.md)
 
 [15.2.5.3.3. 선형/로그 히스토그램 버튼(Linear/Logarithmic buttons)](./15-02-05-03-03-linear_logarithmic_buttons.md)
 
@@ -888,7 +888,7 @@
 
 [15.4.4.2.4.2.1. 해상도(X and Y resolution)](./15-04-04-02-04-02-01-x_n_y_resolution.md)
 
-[15.4.4.2.4.2.2. 색상 공간(Color Space)](./15-04-04-02-04-02-02-color_space.md)
+[15.4.4.2.4.2.2. 색 공간(Color Space)](./15-04-04-02-04-02-02-color_space.md)
 
 [15.4.4.2.4.2.3. 정밀도(Precision)](./15-04-04-02-04-02-03-precision.md)
 

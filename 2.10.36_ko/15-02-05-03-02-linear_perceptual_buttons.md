@@ -1,4 +1,4 @@
-# 15.2.5.3.2. 선형/인지 공간 버튼(Linear/Perceptual Space buttons)
+# 15.2.5.3.2. 선형/가시영역 공간 버튼(Linear/Perceptual Space buttons)
 
 <a id="15-02-05-03-02-s1"></a>
 
