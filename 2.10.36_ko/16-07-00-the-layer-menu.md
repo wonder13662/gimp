@@ -36,7 +36,7 @@
 
 [16.7.4. 새 레이어 그룹(New Layer Group)](./16-07-04-new-layer-group.md)
 
-[16.7.5. Duplicate layer](./16-07-05-duplicate-layer.md)
+[16.7.5. 레이어 복제(Duplicate Layer)](./16-07-05-duplicate-layer.md)
 
 [16.7.6. 레이어 고정하기(Anchor layer)](./16-07-06-anchor-layer.md)
 

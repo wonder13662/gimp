@@ -25,7 +25,7 @@
 <a id="90-01-06-04-a1"></a>
 
 #### [90.1.6.4.a1. `이미지 메뉴 바` → `레이어` → `레이어 복제`](./90-01-06-04-duplicate_layer.md#90-01-06-04-a1)
-![90-01-06-layer(1080)-focus-duplicate_layer](https://github.com/wonder13662/gimp/assets/15767104/12de471a-4720-4393-83c6-80546a8815c7)
+<img width="849" height="404" alt="90-01-06-04-a1" src="https://github.com/user-attachments/assets/7c26e456-1b8e-401b-b8e0-0ae9028839ba" />
 
 <a id="08-04-s3"></a>
 

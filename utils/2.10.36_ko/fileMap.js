@@ -1834,7 +1834,7 @@ module.exports = {
       ],
       [
         '16-07-05-duplicate-layer.md', 
-        '16.7.5. Duplicate layer'
+        '16.7.5. 레이어 복제(Duplicate Layer)'
       ],
       [
         '16-07-06-anchor-layer.md',

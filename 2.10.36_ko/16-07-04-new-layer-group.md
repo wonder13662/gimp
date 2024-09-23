@@ -22,7 +22,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.7.5. Duplicate layer](./16-07-05-duplicate-layer.md)
+[➡️ 다음: 16.7.5. 레이어 복제(Duplicate Layer)](./16-07-05-duplicate-layer.md)
 
 [⬅️ 이전: 16.7.3. 보이는 영역에서 새로 만들기(New from visible)](./16-07-03-new_from_visible.md)
 
