@@ -396,6 +396,10 @@
 
 [90.1.6.19. 레이어 그룹 합치기(Merge layer group)](./90-01-06-19-merge_layer_group.md)
 
+[90.1.6.20. 텍스트 명령(Text Commands)](./90-01-06-20-text_commands.md)
+
+[90.1.6.21.텍스트 정보 버리기(Discard text information)](./90-01-06-21-discard_text_information.md)
+
 [90.1.7. 색(Colors)](./90-01-07-00-colors.md)
 
 [90.1.7.1. 색상 균형(Color Balance)](./90-01-07-01-color_balance.md)

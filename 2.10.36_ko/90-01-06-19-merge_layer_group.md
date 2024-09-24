@@ -18,7 +18,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.7. 색(Colors)](./90-01-07-00-colors.md)
+[➡️ 다음: 90.1.6.20. 텍스트 명령(Text Commands)](./90-01-06-20-text_commands.md)
 
 [⬅️ 이전: 90.1.6.18. 레이어 고정하기(Anchor layer)](./90-01-06-18-anchor_layer.md)
 

@@ -3902,9 +3902,9 @@
 
 [16.7.9. 레이어 삭제(Delete Layer)](./16-07-09-delete-layer.md)
 
-[16.7.10. The text commands of the layer menu](./16-07-10-the-text-commands-of-the-layer-menu.md)
+[16.7.10. 레이어 메뉴의 텍스트 명령(The text commands of the layer menu)](./16-07-10-the-text-commands-of-the-layer-menu.md)
 
-[16.7.11. Discard text information](./16-07-11-discard-text-information.md)
+[16.7.11. 텍스트 정보 버리기(Discard text information)](./16-07-11-discard-text-information.md)
 
 [16.7.12. Stack submenu](./16-07-12-stack-submenu.md)
 
@@ -4850,6 +4850,8 @@
 
 [19. 용어집 - 떼어내기 메뉴(Tear-off Menu)](./19-glossaryx-tear_off_menu.md)
 
+[19. 용어집 - 텍스트(Text)](./19-glossaryx-text.md)
+
 [19. 용어집 - 텍스트 박스의 동적, 고정 모드](./19-glossaryx-text_box_mode.md)
 
 [19. 용어집 - 타이틀 바(Title Bar)](./19-glossaryx-title_bar.md)
@@ -5257,6 +5259,10 @@
 [90.1.6.18. 레이어 고정하기(Anchor layer)](./90-01-06-18-anchor_layer.md)
 
 [90.1.6.19. 레이어 그룹 합치기(Merge layer group)](./90-01-06-19-merge_layer_group.md)
+
+[90.1.6.20. 텍스트 명령(Text Commands)](./90-01-06-20-text_commands.md)
+
+[90.1.6.21.텍스트 정보 버리기(Discard text information)](./90-01-06-21-discard_text_information.md)
 
 [90.1.7. 색(Colors)](./90-01-07-00-colors.md)
 

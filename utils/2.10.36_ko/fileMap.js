@@ -1855,11 +1855,11 @@ module.exports = {
       ],
       [
         '16-07-10-the-text-commands-of-the-layer-menu.md', 
-        '16.7.10. The text commands of the layer menu'
+        '16.7.10. 레이어 메뉴의 텍스트 명령(The text commands of the layer menu)'
       ],
       [
         '16-07-11-discard-text-information.md', 
-        '16.7.11. Discard text information'
+        '16.7.11. 텍스트 정보 버리기(Discard text information)'
       ],
       [
         '16-07-12-stack-submenu.md', 

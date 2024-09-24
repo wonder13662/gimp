@@ -2,5 +2,5 @@
 
 ### [Home](./00-home.md)
 ### [Parent: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
-### [Prev: 16.7.11. Discard text information](./16-07-11-discard-text-information.md)
+### [Prev: 16.7.11. 텍스트 정보 버리기(Discard text information)](./16-07-11-discard-text-information.md)
 ### [Next: 16.7.13. Select previous layer](./16-07-13-select-previous-layer.md)

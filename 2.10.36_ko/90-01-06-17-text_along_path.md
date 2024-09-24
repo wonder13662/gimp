@@ -2,14 +2,14 @@
 
 <a id="90-01-06-17-a1"></a>
 
-#### 그림 90.1.6.17.a1. `레이어` → `경로따라 텍스트` (텍스트 레이어가 활성화된 경우)
+#### 그림 90.1.6.17.a1. `이미지 메뉴 바` → `레이어` → `경로따라 텍스트`: 텍스트 레이어가 활성화된 경우
 ![90-01-06-layer-activated_text_layer(1080w)-focus-text_along_path](https://github.com/wonder13662/gimp/assets/15767104/b1984799-39f9-442e-9be0-8dadbe878a7e)
 
 [9.1.4.8. 경로따라 텍스트(Text along Path) - 그림 90.1.6.17.a1](./09-01-04-08-text_along_path.md#90-01-06-17-a1)
 
 <a id="90-01-06-17-a2"></a>
 
-#### 영상 90.1.6.17.a2. `레이어` → `경로따라 텍스트` (텍스트 레이어가 활성화된 경우)
+#### 영상 90.1.6.17.a2. `이미지 메뉴 바` → `레이어` → `경로따라 텍스트`: 텍스트 레이어가 활성화된 경우
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/d0a59058-784d-4cf9-abd7-b2284e699b7b"></video>
 
 [9.1.4.8. 경로따라 텍스트(Text along Path) - 영상 90.1.6.17.a2](./09-01-04-08-text_along_path.md#90-01-06-17-a2)

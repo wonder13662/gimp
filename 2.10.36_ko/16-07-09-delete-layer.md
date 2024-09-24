@@ -44,7 +44,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.7.10. The text commands of the layer menu](./16-07-10-the-text-commands-of-the-layer-menu.md)
+[➡️ 다음: 16.7.10. 레이어 메뉴의 텍스트 명령(The text commands of the layer menu)](./16-07-10-the-text-commands-of-the-layer-menu.md)
 
 [⬅️ 이전: 16.7.8. 레이어 그룹 합치기(Merge layer group)](./16-07-08-merge-layer-group.md)
 
