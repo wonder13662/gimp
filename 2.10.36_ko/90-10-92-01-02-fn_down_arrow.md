@@ -1,0 +1,26 @@
+# 90.10.92.1.2. 키보드 단축키: `fn` + 위쪽 방향키(↑)
+
+<a id="90-10-92-01-02-a1"></a>
+
+#### 영상 90.10.92.1.2.a1. `이미지 메뉴 바` → `이미지` → `스택` → `맨 위 레이어 선택`: `fn` + 위쪽 방향키(↑) (Mac) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/3a83d103-dd13-4958-90f1-dff622a47b89"></video>
+
+[16.7.15. 맨 위 레이어 선택(Select top layer) - 영상 90.10.92.1.2.a1](./16-07-15-select-top-layer.md#90-10-92-01-02-a1)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 90.90. 개념(Concept)](./90-90-00-concept.md)
+
+[⬅️ 이전: 90.10.92.1.1. 키보드 단축키: `Home`](./90-10-92-01-01-home.md)
+
+[⬆️ 위: 90.10.92.1. 키보드 단축키](./90-10-92-01-00-keyboard_shortcut.md)
+
+[⬆️ 위: 90.10.92. `이미지 메뉴 바` → `이미지` → `스택` → `맨 위 레이어 선택`](./90-10-92-00-menu_layer_stack_select_top_layer.md)
+
+[⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
+
+[⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
+
+[🏠 홈](./00-home.md)

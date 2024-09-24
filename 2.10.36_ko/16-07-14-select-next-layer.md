@@ -15,9 +15,11 @@
 <a id="16-07-14-s2"></a>
 
 ## 2. Windows 환경에서 오른쪽 숫자키패드의 `Page Down`은 동작하지 않습니다
-Windows 환경에서 오른쪽 숫자키패드의 `Page Down`은 동작하지 않습니다.
+Windows 환경에서 `다음 레이어 선택(Select next layer)` 명령의 키보드 단축키는 `Page Down`입니다.
 
-하지만 숫자키패드의 왼쪽의 여섯 개의 키가 모여있는 그룹의 `Page Down`은 동작합니다.
+하지만 Windows 환경에서 오른쪽 숫자키패드의 `Page Down`은 `다음 레이어 선택(Select next layer)` 명령으로 동작하지 않습니다.
+
+대신 숫자키패드의 왼쪽의 여섯 개의 키가 모여있는 그룹의 `Page Down`은 동작합니다.
 
 <a id="16-07-14-s3"></a>
 
