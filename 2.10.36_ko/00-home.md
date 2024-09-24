@@ -4726,6 +4726,8 @@
 
 [19. 용어집 - 레이어(Layers)](./19-glossaryx-layer.md)
 
+[19. 용어집 - 레이어 스택(Layer Stack)](./19-glossaryx-layer_stack.md)
+
 [19. 용어집 - 밝기(Lightness(HSL))](./19-glossaryx-lightness_hsl.md)
 
 [19. 용어집 - 선형 RGB(Linear RGB)](./19-glossaryx-linear_rgb.md)
@@ -7575,6 +7577,22 @@
 [90.10.89.1.1. 키보드 단축키: Ctrl(⌘) + `H`](./90-10-89-01-01-ctrl_h.md)
 
 [90.10.89.1.2. 키보드 단축키: Ctrl(⌘) + Shift(⇧) + `H`](./90-10-89-01-02-ctrl_shift_h.md)
+
+[90.10.90. `이미지 메뉴 바` → `이미지` → `스택` → `이전 레이어 선택`](./90-10-90-00-menu_layer_stack_select_previous_layer.md)
+
+[90.10.90.1. 키보드 단축키](./90-10-90-01-00-keyboard_shortcut.md)
+
+[90.10.90.1.1. 키보드 단축키: Page Up](./90-10-90-01-01-page_up.md)
+
+[90.10.90.1.2. 키보드 단축키: 위쪽 방향키(↑)](./90-10-90-01-02-up_arrow.md)
+
+[90.10.91. `이미지 메뉴 바` → `이미지` → `스택` → `다음 레이어 선택`](./90-10-91-00-menu_layer_stack_select_next_layer.md)
+
+[90.10.91.1. 키보드 단축키](./90-10-91-01-00-keyboard_shortcut.md)
+
+[90.10.91.1.1. 키보드 단축키: `Page Down`](./90-10-91-01-01-page_down.md)
+
+[90.10.91.1.2. 키보드 단축키: 아래쪽 방향키(↓)](./90-10-91-01-02-down_arrow.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 
