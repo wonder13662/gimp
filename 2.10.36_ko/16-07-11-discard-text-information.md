@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.7.12. Stack submenu](./16-07-12-stack-submenu.md)
+[➡️ 다음: 16.7.12. 스택 하위메뉴(Stack submenu)](./16-07-12-stack-submenu.md)
 
 [⬅️ 이전: 16.7.10. 레이어 메뉴의 텍스트 명령(The text commands of the layer menu)](./16-07-10-the-text-commands-of-the-layer-menu.md)
 

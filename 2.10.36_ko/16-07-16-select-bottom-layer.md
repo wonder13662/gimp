@@ -1,6 +1,6 @@
-# 16.7.16. Select bottom layer
+# 16.7.16. 바닥 레이어 선택(Select bottom layer)
 
-### [Home](./00-home.md)
-### [Parent: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
-### [Prev: 16.7.15. Select top layer](./16-07-15-select-top-layer.md)
-### [Next: 16.7.17. Raise layer](./16-07-17-raise-layer.md)
+<a id="90-01-06-07-a241"></a>
+
+#### [그림 90.1.6.7.a241. `이미지 메뉴 바` → `이미지` → `스택` → `바닥 레이어 선택` (Windows) (우리말)](./90-01-06-07-stack.md#90-01-06-07-a241)
+<img width="780" height="584" alt="90-01-06-07-a241" src="https://github.com/user-attachments/assets/3ebf43db-16bd-416e-971b-051aeb92c30a" />

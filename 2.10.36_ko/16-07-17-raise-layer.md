@@ -1,6 +1,6 @@
-# 16.7.17. Raise layer
+# 16.7.17. 레이어 올리기(Raise layer)
 
-### [Home](./00-home.md)
-### [Parent: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
-### [Prev: 16.7.16. Select bottom layer](./16-07-16-select-bottom-layer.md)
-### [Next: 16.7.18. Lower layer](./16-07-18-lower-layer.md)
+<a id="90-01-06-07-a251"></a>
+
+#### [그림 90.1.6.7.a251. `이미지 메뉴 바` → `이미지` → `스택` → `레이어 올리기` (Windows) (우리말)](./90-01-06-07-stack.md#90-01-06-07-a251)
+<img width="780" height="584" alt="90-01-06-07-a251" src="https://github.com/user-attachments/assets/c2540514-1d18-4aac-accc-40d196da898f" />

@@ -1,6 +1,6 @@
-# 16.7.21. The reverse layer order command
+# 16.7.21. 레이어 순서 뒤집기(The reverse layer order command)
 
-### [Home](./00-home.md)
-### [Parent: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
-### [Prev: 16.7.20. Layer to bottom](./16-07-20-layer-to-bottom.md)
-### [Next: 16.7.22. The mask submenu](./16-07-22-the-mask-submenu.md)
+<a id="90-01-06-07-a291"></a>
+
+#### [그림 90.1.6.7.a291. `이미지 메뉴 바` → `이미지` → `스택` → `레이어 순서 뒤집기` (Windows) (우리말)](./90-01-06-07-stack.md#90-01-06-07-a291)
+<img width="780" height="584" alt="90-01-06-07-a291" src="https://github.com/user-attachments/assets/c93a6b4c-1927-4e0d-8da0-80889a2285e5" />

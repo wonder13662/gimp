@@ -1,6 +1,6 @@
-# 16.7.19. Layer to top
+# 16.7.19. 레이어를 꼭대기로(Layer to top)
 
-### [Home](./00-home.md)
-### [Parent: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
-### [Prev: 16.7.18. Lower layer](./16-07-18-lower-layer.md)
-### [Next: 16.7.20. Layer to bottom](./16-07-20-layer-to-bottom.md)
+<a id="90-01-06-07-a271"></a>
+
+#### [그림 90.1.6.7.a271. `이미지 메뉴 바` → `이미지` → `스택` → `레이어를 꼭대기로` (Windows) (우리말)](./90-01-06-07-stack.md#90-01-06-07-a271)
+<img width="780" height="584" alt="90-01-06-07-a271" src="https://github.com/user-attachments/assets/f3c34666-8970-46fc-92cb-fb4829909500" />

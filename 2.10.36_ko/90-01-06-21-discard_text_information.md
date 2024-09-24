@@ -1,4 +1,4 @@
-# 90.1.6.21.텍스트 정보 버리기(Discard text information)
+# 90.1.6.21. 텍스트 정보 버리기(Discard text information)
 
 <a id="90-01-06-21-a1"></a>
 

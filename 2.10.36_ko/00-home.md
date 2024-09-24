@@ -3906,25 +3906,25 @@
 
 [16.7.11. 텍스트 정보 버리기(Discard text information)](./16-07-11-discard-text-information.md)
 
-[16.7.12. Stack submenu](./16-07-12-stack-submenu.md)
+[16.7.12. 스택 하위메뉴(Stack submenu)](./16-07-12-stack-submenu.md)
 
-[16.7.13. Select previous layer](./16-07-13-select-previous-layer.md)
+[16.7.13. 이전 레이어 선택(Select previous layer)](./16-07-13-select-previous-layer.md)
 
-[16.7.14. Select next layer](./16-07-14-select-next-layer.md)
+[16.7.14. 다음 레이어 선택(Select next layer)](./16-07-14-select-next-layer.md)
 
-[16.7.15. Select top layer](./16-07-15-select-top-layer.md)
+[16.7.15. 맨 위 레이어 선택(Select top layer)](./16-07-15-select-top-layer.md)
 
-[16.7.16. Select bottom layer](./16-07-16-select-bottom-layer.md)
+[16.7.16. 바닥 레이어 선택(Select bottom layer)](./16-07-16-select-bottom-layer.md)
 
-[16.7.17. Raise layer](./16-07-17-raise-layer.md)
+[16.7.17. 레이어 올리기(Raise layer)](./16-07-17-raise-layer.md)
 
-[16.7.18. Lower layer](./16-07-18-lower-layer.md)
+[16.7.18. 레이어 내리기(Lower layer)](./16-07-18-lower-layer.md)
 
-[16.7.19. Layer to top](./16-07-19-layer-to-top.md)
+[16.7.19. 레이어를 꼭대기로(Layer to top)](./16-07-19-layer-to-top.md)
 
-[16.7.20. Layer to bottom](./16-07-20-layer-to-bottom.md)
+[16.7.20. 레이어를 바닥으로(Layer to bottom)](./16-07-20-layer-to-bottom.md)
 
-[16.7.21. The reverse layer order command](./16-07-21-the-reverse-layer-order-command.md)
+[16.7.21. 레이어 순서 뒤집기(The reverse layer order command)](./16-07-21-the-reverse-layer-order-command.md)
 
 [16.7.22. The mask submenu](./16-07-22-the-mask-submenu.md)
 
@@ -5262,7 +5262,7 @@
 
 [90.1.6.20. 텍스트 명령(Text Commands)](./90-01-06-20-text_commands.md)
 
-[90.1.6.21.텍스트 정보 버리기(Discard text information)](./90-01-06-21-discard_text_information.md)
+[90.1.6.21. 텍스트 정보 버리기(Discard text information)](./90-01-06-21-discard_text_information.md)
 
 [90.1.7. 색(Colors)](./90-01-07-00-colors.md)
 

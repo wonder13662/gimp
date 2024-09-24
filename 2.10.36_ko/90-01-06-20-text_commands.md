@@ -11,7 +11,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.6.21.텍스트 정보 버리기(Discard text information)](./90-01-06-21-discard_text_information.md)
+[➡️ 다음: 90.1.6.21. 텍스트 정보 버리기(Discard text information)](./90-01-06-21-discard_text_information.md)
 
 [⬅️ 이전: 90.1.6.19. 레이어 그룹 합치기(Merge layer group)](./90-01-06-19-merge_layer_group.md)
 
