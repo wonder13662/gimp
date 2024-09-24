@@ -38,6 +38,14 @@ GIMP(김프)와 함께 실행중인 어플리케이션이 레이어의 drag & dr
 
 ***
 
+## 관련 정보
+
+[15.2.1.2.4.3. 레이어 올리기(Raise Layer)](./15-02-01-02-04-03-raise_layer.md)
+
+[16.7.17. 레이어 올리기(Raise layer)](./16-07-17-raise-layer.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 8.5.5. 레이어 그룹 복사하기(Duplicate a Layer Group)](./08-05-05-duplicate_a_layer_group.md)
