@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.7.9. Delete layer](./16-07-09-delete-layer.md)
+[➡️ 다음: 16.7.9. 레이어 삭제(Delete Layer)](./16-07-09-delete-layer.md)
 
 [⬅️ 이전: 16.7.7. 아래로 합치기(Merge Down)](./16-07-07-merge-down.md)
 

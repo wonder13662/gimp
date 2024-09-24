@@ -1851,7 +1851,7 @@ module.exports = {
       ],
       [
         '16-07-09-delete-layer.md', 
-        '16.7.9. Delete layer'
+        '16.7.9. 레이어 삭제(Delete Layer)'
       ],
       [
         '16-07-10-the-text-commands-of-the-layer-menu.md', 

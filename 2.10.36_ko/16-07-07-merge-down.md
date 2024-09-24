@@ -3,7 +3,7 @@
 <a id="90-01-06-05-a1"></a>
 
 #### [그림 90.1.6.5.a1. `이미지 메뉴 바` → `레이어` → `레이어 복제`](./90-01-06-05-merge_down.md#90-01-06-05-a1)
-<img width="" height="" alt="90-01-06-05-a1" src="https://github.com/user-attachments/assets/969b97ae-081f-4589-91ce-e2cc9538ed51" />
+<img width="849" height="404" alt="90-01-06-05-a1" src="https://github.com/user-attachments/assets/969b97ae-081f-4589-91ce-e2cc9538ed51" />
 
 <a id="16-07-07-s1"></a>
 

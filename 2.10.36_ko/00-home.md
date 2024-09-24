@@ -3900,7 +3900,7 @@
 
 [16.7.8. 레이어 그룹 합치기(Merge layer group)](./16-07-08-merge-layer-group.md)
 
-[16.7.9. Delete layer](./16-07-09-delete-layer.md)
+[16.7.9. 레이어 삭제(Delete Layer)](./16-07-09-delete-layer.md)
 
 [16.7.10. The text commands of the layer menu](./16-07-10-the-text-commands-of-the-layer-menu.md)
 
