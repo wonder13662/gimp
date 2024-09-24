@@ -9,7 +9,7 @@
 
 <a id="90-01-06-07-a111"></a>
 
-#### [그림 90.1.6.7.a111. `이미지 메뉴 바` → `이미지` → `스택`: 하위메뉴 (Windows) (우리말)](./90-01-06-07-stack.md#90-01-06-07-a111)
+#### [그림 90.1.6.7.a111. `이미지 메뉴 바` → `이미지` → `스택`: 하위메뉴 (Windows)](./90-01-06-07-stack.md#90-01-06-07-a111)
 <img width="719" height="430" alt="90-01-06-07-a111" src="https://github.com/user-attachments/assets/02a4bf39-a53f-4b54-bcf8-e7ddd4ed8551" />
 
 [`레이어 스택(Layer Stack)`](./19-glossaryx-layer_stack.md)은 [레이어 대화상자](./15-02-01-00-layers_dialog.md)의 레이어 목록을 말합니다.
