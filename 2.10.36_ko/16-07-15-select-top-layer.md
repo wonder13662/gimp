@@ -49,7 +49,7 @@ Windows 환경에서 `맨 위 레이어 선택(Select top layer)` 명령의 키�
 
 <a id="90-10-92-01-02-a1"></a>
 
-#### [영상 90.10.92.1.2.a1. `이미지 메뉴 바` → `이미지` → `스택` → `맨 위 레이어 선택`: `fn` + 위쪽 방향키(↑) (Mac) (우리말)](./90-10-92-01-02-fn_down_arrow.md#90-10-92-01-02-a1)
+#### [영상 90.10.92.1.2.a1. `이미지 메뉴 바` → `이미지` → `스택` → `맨 위 레이어 선택`: `fn` + 위쪽 방향키(↑) (Mac) (우리말)](./90-10-92-01-02-fn_up_arrow.md#90-10-92-01-02-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/3a83d103-dd13-4958-90f1-dff622a47b89"></video>
 
 ***
