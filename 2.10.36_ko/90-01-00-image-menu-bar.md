@@ -50,12 +50,9 @@
 
 ## 하위 페이지
 
-<a id="90-01-s1-file"></a>
+[90.1.1. 파일(File)](./90-01-01-00-file.md)
 
-## [90.1.1. 파일(File)](./90-01-01-00-file.md)
-<img width="1080" height="628" alt="90-01-01-a1" src="https://github.com/wonder13662/gimp/assets/15767104/80c81aa1-102c-437b-ba29-238c0155bb17">
-
-[90.1.1.1. 새 이미지(New…)](./90-01-01-01-new.md)
+[90.1.1.1. 새 이미지(New)](./90-01-01-01-new.md)
 
 [90.1.1.2. 만들기(Create)](./90-01-01-02-00-create.md)
 
@@ -107,10 +104,7 @@
 
 [90.1.1.22. 끝내기(Quit)](./90-01-01-22-quit.md)
 
-<a id="90-01-s2-edit"></a>
-
-## [90.1.2. 편집(Edit)](./90-01-02-00-edit.md)
-<img width="980" height="601" alt="90-01-02-a1" src="https://github.com/wonder13662/gimp/assets/15767104/bf9c1e66-c77a-43c9-8b5e-c39376658cdc">
+[90.1.2. 편집(Edit)](./90-01-02-00-edit.md)
 
 [90.1.2.1. 실행 취소(Undo)](./90-01-02-01-undo.md)
 
@@ -166,16 +160,13 @@
 
 [90.1.2.22. 입력장치(Input Devices)](./90-01-02-22-input_devices.md)
 
-[90.1.2.23. 키보드 단축키(Keyboard Shortcuts)](./90-01-02-00-edit.md)
+[90.1.2.23. 키보드 단축키(Keyboard Shortcuts)](./90-01-02-23-keyboard_shortcuts.md)
 
 [90.1.2.24. 모듈(Modules)](./90-01-02-24-modules.md)
 
 [90.1.2.25. 단위(Units)](./90-01-02-25-units.md)
 
-<a id="90-01-s3-select"></a>
-
-## [90.1.3. 선택(Select)](./90-01-03-00-select.md)
-[<img width="1080" alt="90.1.3. 선택(Select)" src="https://github.com/wonder13662/gimp/assets/15767104/752b4ef7-9216-4e89-968e-319c4994fff3">](./90-01-03-00-select.md)
+[90.1.3. 선택(Select)](./90-01-03-00-select.md)
 
 [90.1.3.1. 모두(All)](./90-01-03-01-all.md)
 
@@ -213,10 +204,7 @@
 
 [90.1.3.18. 경로로(To Path)](./90-01-03-18-to_path.md)
 
-<a id="90-01-s4-view"></a>
-
-## [90.1.4. 보기(View)](./90-01-04-00-view.md)
-[<img width="940" height="687" alt="90-01-04-a101" src="https://github.com/user-attachments/assets/62687af9-cd0a-42fd-9511-aa8ae0398861" />](./90-01-04-00-view.md)
+[90.1.4. 보기(View)](./90-01-04-00-view.md)
 
 [90.1.4.1. 새 창으로 보기(New View)](./90-01-04-01-new_view.md)
 
@@ -288,10 +276,7 @@
 
 [90.1.4.26. 상태표시줄 보이기(Show Statusbar)](./90-01-04-26-show_statusbar.md)
 
-<a id="90-01-s5-image"></a>
-
-## [90.1.5. 이미지(Image)](./90-01-05-00-image.md)
-<img width="977" height="603" alt="90-01-05-a101" src="https://github.com/user-attachments/assets/a86dc530-501d-42ea-89cf-3f52cdc40101" />
+[90.1.5. 이미지(Image)](./90-01-05-00-image.md)
 
 [90.1.5.1. 복제(Duplicate)](./90-01-05-01-duplicate.md)
 
@@ -353,10 +338,7 @@
 
 [90.1.5.21. 메타데이터(Metadata)](./90-01-05-21-metadata.md)
 
-<a id="90-01-s6-layer"></a>
-
-## [90.1.6. 레이어(Layer)](./90-01-06-00-layer.md)
-[<img width="1080" alt="90.1.6. 레이어(Layer)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/3f4bfc3c-ecba-45b9-bca5-c4ffcc4a28bf">](./90-01-06-00-layer.md)
+[90.1.6. 레이어(Layer)](./90-01-06-00-layer.md)
 
 [90.1.6.1. 새 레이어(New Layer)](./90-01-06-01-new_layer.md)
 
@@ -410,10 +392,11 @@
 
 [90.1.6.17. 경로따라 텍스트(Text to Path)](./90-01-06-17-text_along_path.md)
 
-<a id="90-01-s7-colors"></a>
+[90.1.6.18. 레이어 고정하기(Anchor layer)](./90-01-06-18-anchor_layer.md)
 
-## [90.1.7. 색(Colors)](./90-01-07-00-colors.md)
-[<img width="1080" alt="90.1.7. 색(Colors)" src="https://github.com/wonder13662/gimp/assets/15767104/42cde5a6-9f41-4765-8cb6-21b7acb1631c">](./90-01-07-00-colors.md)
+[90.1.6.19. 레이어 그룹 합치기(Merge layer group)](./90-01-06-19-merge_layer_group.md)
+
+[90.1.7. 색(Colors)](./90-01-07-00-colors.md)
 
 [90.1.7.1. 색상 균형(Color Balance)](./90-01-07-01-color_balance.md)
 
@@ -517,10 +500,7 @@
 
 [90.1.7.26. 뜨거움(Hot)](./90-01-07-26-hot.md)
 
-<a id="90-01-s8-tools"></a>
-
-## [90.1.8. 도구(Tools)](./90-01-08-00-tools.md)
-[<img width="1080" alt="90.1.8. 도구(Tools)" src="https://github.com/wonder13662/gimp/assets/15767104/e7a9601b-01af-44e2-b6c4-ee512d1a884b">](./90-01-08-00-tools.md)
+[90.1.8. 도구(Tools)](./90-01-08-00-tools.md)
 
 [90.1.8.1. 선택도구(Selection Tools)](./90-01-08-01-00-selection_tools.md)
 
@@ -614,10 +594,7 @@
 
 [90.1.8.12. 색 바꾸기(Swap Colors)](./90-01-08-12-swap_colors.md)
 
-<a id="90-01-s9-filters"></a>
-
-## [90.1.9. 필터(Filters)](./90-01-09-00-filters.md)
-[<img width="1080" alt="90.1.9. 필터(Filters)" src="https://github.com/wonder13662/gimp/assets/15767104/8aa3e45d-3325-49f6-ad23-d0e6508fa205">](./90-01-09-00-filters.md)
+[90.1.9. 필터(Filters)](./90-01-09-00-filters.md)
 
 [90.1.9.1. 흐림 처리(Blur)](./90-01-09-01-00-blur.md)
 
@@ -759,14 +736,11 @@
 
 [90.1.9.16.3. 서버 시작…(Start Server…)](./90-01-09-16-03-start_server.md)
 
-<a id="90-01-s10-windows"></a>
-
-## [90.1.10. 창(Windows)](./90-01-10-00-windows.md)
-[<img width="1080" alt="90.1.10. 창(Windows)" src="https://github.com/wonder13662/gimp/assets/15767104/5898f1cf-caac-4702-a2a8-eb6586d704fe">](./90-01-10-00-windows.md)
+[90.1.10. 창(Windows)](./90-01-10-00-windows.md)
 
 [90.1.10.1. 최근 닫은 독(Recently Closed Docks)](./90-01-10-01-recently_closed_docks.md)
 
-[90.1.10.2. 도킹가능한 대화상자(Dockable dialogs)](./90-01-10-02-00-dockable_dialogs.md)
+[90.1.10.2. 창(Windows) - 도킹가능한 대화(Dockable dialogs)](./90-01-10-02-00-dockable_dialogs.md)
 
 [90.1.10.2.1. 도구 옵션(Tool Options)](./90-01-10-02-01-tool_options.md)
 
@@ -834,10 +808,7 @@
 
 [90.1.10.7. 단일창 모드(Single-Window Mode)](./90-01-10-07-single_window_mode.md)
 
-<a id="90-01-s11-help"></a>
-
-## [90.1.11. 도움말(Help)](./90-01-11-00-help.md)
-[<img width="1080" alt="90.1.11. 도움말(Help)" src="https://github.com/wonder13662/gimp/assets/15767104/e42b3e1d-4d42-46d3-a209-9ca6584cdddd">](./90-01-11-00-help.md)
+[90.1.11. 도움말(Help)](./90-01-11-00-help.md)
 
 [90.1.11.1. 도움말(Help)](./90-01-11-01-help.md)
 
@@ -859,9 +830,37 @@
 
 [90.1.11.10. 사용자 설명서(User manual)](./90-01-11-10-user_manual.md)
 
+[90.1.12. GIMP](./90-01-12-00-gimp.md)
+
+[90.1.12.1. GIMP(김프)에 대하여(About GIMP)](./90-01-12-01-about_gimp.md)
+
+[90.1.12.2. 서비스(Services)](./90-01-12-02-services.md)
+
+[90.1.12.3. 기본 설정(Settings…)](./90-01-12-03-settings.md)
+
+[90.1.12.4. 입력장치(Input Devices)](./90-01-12-04-input_devices.md)
+
+[90.1.12.5. 키보드 단축키(Keyboard Shortcuts)](./90-01-12-05-keyboard_shortcuts.md)
+
+[90.1.12.6. 모듈(Modules)](./90-01-12-06-modules.md)
+
+[90.1.12.7. 단위(Units)](./90-01-12-07-units.md)
+
+[90.1.12.8. GIMP(김프) 숨기기(Hide GIMP)](./90-01-12-08-hide_gimp.md)
+
+[90.1.12.9. 다른 것 숨기기(Hide Others)](./90-01-12-09-hide_others.md)
+
+[90.1.12.10. 모두 보여주기(Show All)](./90-01-12-10-show_all.md)
+
+[90.1.12.11. GIMP(김프) 끝내기(Quit GIMP)](./90-01-12-11-quit_gmip.md)
+
 ***
 
 ## 다른 페이지로 가기
+
+[➡️ 다음: 90.1.1. 파일(File)](./90-01-01-00-file.md)
+
+[⬅️ 이전: 90. 이미지 맵](./90-00-image-map.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

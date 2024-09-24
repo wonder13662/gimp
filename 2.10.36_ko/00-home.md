@@ -3898,7 +3898,7 @@
 
 [16.7.7. 아래로 합치기(Merge Down)](./16-07-07-merge-down.md)
 
-[16.7.8. Merge layer group](./16-07-08-merge-layer-group.md)
+[16.7.8. 레이어 그룹 합치기(Merge layer group)](./16-07-08-merge-layer-group.md)
 
 [16.7.9. Delete layer](./16-07-09-delete-layer.md)
 
@@ -5255,6 +5255,8 @@
 [90.1.6.17. 경로따라 텍스트(Text to Path)](./90-01-06-17-text_along_path.md)
 
 [90.1.6.18. 레이어 고정하기(Anchor layer)](./90-01-06-18-anchor_layer.md)
+
+[90.1.6.19. 레이어 그룹 합치기(Merge layer group)](./90-01-06-19-merge_layer_group.md)
 
 [90.1.7. 색(Colors)](./90-01-07-00-colors.md)
 
@@ -7559,6 +7561,14 @@
 [90.10.88.1. 키보드 단축키](./90-10-88-01-00-keyboard_shortcut.md)
 
 [90.10.88.1.1. 키보드 단축키: Ctrl(⌘) + Shift(⇧) + `D`](./90-10-88-01-01-ctrl_shift_n.md)
+
+[90.10.89. `이미지 메뉴 바` → `레이어` → `레이어 고정하기`](./90-10-89-00-menu_layer_anchor_layer.md)
+
+[90.10.89.1. 키보드 단축키](./90-10-89-01-00-keyboard_shortcut.md)
+
+[90.10.89.1.1. 키보드 단축키: Ctrl(⌘) + `H`](./90-10-89-01-01-ctrl_h.md)
+
+[90.10.89.1.2. 키보드 단축키: Ctrl(⌘) + Shift(⇧) + `H`](./90-10-89-01-02-ctrl_shift_h.md)
 
 [90.90. 개념(Concept)](./90-90-00-concept.md)
 

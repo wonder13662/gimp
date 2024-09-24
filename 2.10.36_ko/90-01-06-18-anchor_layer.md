@@ -18,7 +18,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.7. 색(Colors)](./90-01-07-00-colors.md)
+[➡️ 다음: 90.1.6.19. 레이어 그룹 합치기(Merge layer group)](./90-01-06-19-merge_layer_group.md)
 
 [⬅️ 이전: 90.1.6.17. 경로따라 텍스트(Text to Path)](./90-01-06-17-text_along_path.md)
 
