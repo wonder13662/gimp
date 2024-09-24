@@ -994,7 +994,7 @@
 
 [16.7.21. 레이어 순서 뒤집기(The reverse layer order command)](./16-07-21-the-reverse-layer-order-command.md)
 
-[16.7.22. The mask submenu](./16-07-22-the-mask-submenu.md)
+[16.7.22. 마스크 하위메뉴(The mask submenu)](./16-07-22-the-mask-submenu.md)
 
 [16.7.23. 레이어 마스크 추가하기(Add layer mask)](./16-07-23-add_layer_mask.md)
 

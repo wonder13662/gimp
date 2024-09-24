@@ -14,9 +14,9 @@
 
 [➡️ 다음: 90.10.91.1.1. 키보드 단축키: `Page Down`](./90-10-91-01-01-page_down.md)
 
-[⬅️ 이전: 90.10.91. `이미지 메뉴 바` → `이미지` → `스택` → `다음 레이어 선택`](./90-10-91-00-menu_layer_stack_select_next_layer.md)
+[⬅️ 이전: 90.10.91. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택`](./90-10-91-00-menu_layer_stack_select_next_layer.md)
 
-[⬆️ 위: 90.10.91. `이미지 메뉴 바` → `이미지` → `스택` → `다음 레이어 선택`](./90-10-91-00-menu_layer_stack_select_next_layer.md)
+[⬆️ 위: 90.10.91. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택`](./90-10-91-00-menu_layer_stack_select_next_layer.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

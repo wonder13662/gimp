@@ -3926,7 +3926,7 @@
 
 [16.7.21. 레이어 순서 뒤집기(The reverse layer order command)](./16-07-21-the-reverse-layer-order-command.md)
 
-[16.7.22. The mask submenu](./16-07-22-the-mask-submenu.md)
+[16.7.22. 마스크 하위메뉴(The mask submenu)](./16-07-22-the-mask-submenu.md)
 
 [16.7.23. 레이어 마스크 추가하기(Add layer mask)](./16-07-23-add_layer_mask.md)
 
@@ -7578,7 +7578,7 @@
 
 [90.10.89.1.2. 키보드 단축키: Ctrl(⌘) + Shift(⇧) + `H`](./90-10-89-01-02-ctrl_shift_h.md)
 
-[90.10.90. `이미지 메뉴 바` → `이미지` → `스택` → `이전 레이어 선택`](./90-10-90-00-menu_layer_stack_select_previous_layer.md)
+[90.10.90. `이미지 메뉴 바` → `레이어` → `스택` → `이전 레이어 선택`](./90-10-90-00-menu_layer_stack_select_previous_layer.md)
 
 [90.10.90.1. 키보드 단축키](./90-10-90-01-00-keyboard_shortcut.md)
 
@@ -7586,7 +7586,7 @@
 
 [90.10.90.1.2. 키보드 단축키: 위쪽 방향키(↑)](./90-10-90-01-02-up_arrow.md)
 
-[90.10.91. `이미지 메뉴 바` → `이미지` → `스택` → `다음 레이어 선택`](./90-10-91-00-menu_layer_stack_select_next_layer.md)
+[90.10.91. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택`](./90-10-91-00-menu_layer_stack_select_next_layer.md)
 
 [90.10.91.1. 키보드 단축키](./90-10-91-01-00-keyboard_shortcut.md)
 
@@ -7594,7 +7594,7 @@
 
 [90.10.91.1.2. 키보드 단축키: 아래쪽 방향키(↓)](./90-10-91-01-02-down_arrow.md)
 
-[90.10.92. `이미지 메뉴 바` → `이미지` → `스택` → `맨 위 레이어 선택`](./90-10-92-00-menu_layer_stack_select_top_layer.md)
+[90.10.92. `이미지 메뉴 바` → `레이어` → `스택` → `맨 위 레이어 선택`](./90-10-92-00-menu_layer_stack_select_top_layer.md)
 
 [90.10.92.1. 키보드 단축키](./90-10-92-01-00-keyboard_shortcut.md)
 
@@ -7602,7 +7602,7 @@
 
 [90.10.92.1.2. 키보드 단축키: `fn` + 위쪽 방향키(↑)](./90-10-92-01-02-fn_up_arrow.md)
 
-[90.10.94. `이미지 메뉴 바` → `이미지` → `스택` → `바닥 레이어 선택`](./90-10-93-00-menu_layer_stack_select_bottom_layer.md)
+[90.10.94. `이미지 메뉴 바` → `레이어` → `스택` → `바닥 레이어 선택`](./90-10-93-00-menu_layer_stack_select_bottom_layer.md)
 
 [90.10.93.1. 키보드 단축키](./90-10-93-01-00-keyboard_shortcut.md)
 

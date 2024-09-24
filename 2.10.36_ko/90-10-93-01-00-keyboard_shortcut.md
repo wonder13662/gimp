@@ -14,9 +14,9 @@
 
 [➡️ 다음: 90.10.93.1.1. 키보드 단축키: `End`](./90-10-93-01-01-end.md)
 
-[⬅️ 이전: 90.10.94. `이미지 메뉴 바` → `이미지` → `스택` → `바닥 레이어 선택`](./90-10-93-00-menu_layer_stack_select_bottom_layer.md)
+[⬅️ 이전: 90.10.94. `이미지 메뉴 바` → `레이어` → `스택` → `바닥 레이어 선택`](./90-10-93-00-menu_layer_stack_select_bottom_layer.md)
 
-[⬆️ 위: 90.10.94. `이미지 메뉴 바` → `이미지` → `스택` → `바닥 레이어 선택`](./90-10-93-00-menu_layer_stack_select_bottom_layer.md)
+[⬆️ 위: 90.10.94. `이미지 메뉴 바` → `레이어` → `스택` → `바닥 레이어 선택`](./90-10-93-00-menu_layer_stack_select_bottom_layer.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

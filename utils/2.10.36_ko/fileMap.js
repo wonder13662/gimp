@@ -1903,7 +1903,7 @@ module.exports = {
       ],
       [
         '16-07-22-the-mask-submenu.md', 
-        '16.7.22. The mask submenu'
+        '16.7.22. 마스크 하위메뉴(The mask submenu)'
       ],
       [
         '16-07-23-add_layer_mask.md', 

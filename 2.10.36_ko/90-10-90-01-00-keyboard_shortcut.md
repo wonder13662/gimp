@@ -14,9 +14,9 @@
 
 [➡️ 다음: 90.10.90.1.1. 키보드 단축키: Page Up](./90-10-90-01-01-page_up.md)
 
-[⬅️ 이전: 90.10.90. `이미지 메뉴 바` → `이미지` → `스택` → `이전 레이어 선택`](./90-10-90-00-menu_layer_stack_select_previous_layer.md)
+[⬅️ 이전: 90.10.90. `이미지 메뉴 바` → `레이어` → `스택` → `이전 레이어 선택`](./90-10-90-00-menu_layer_stack_select_previous_layer.md)
 
-[⬆️ 위: 90.10.90. `이미지 메뉴 바` → `이미지` → `스택` → `이전 레이어 선택`](./90-10-90-00-menu_layer_stack_select_previous_layer.md)
+[⬆️ 위: 90.10.90. `이미지 메뉴 바` → `레이어` → `스택` → `이전 레이어 선택`](./90-10-90-00-menu_layer_stack_select_previous_layer.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 

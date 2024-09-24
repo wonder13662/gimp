@@ -2,7 +2,7 @@
 
 <a id="90-01-06-07-a221"></a>
 
-#### [그림 90.1.6.7.a221. `이미지 메뉴 바` → `이미지` → `스택` → `다음 레이어 선택` (Windows)](./90-01-06-07-stack.md#90-01-06-07-a221)
+#### [그림 90.1.6.7.a221. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택` (Windows)](./90-01-06-07-stack.md#90-01-06-07-a221)
 <img width="780" height="584" alt="90-01-06-07-a221" src="https://github.com/user-attachments/assets/f8038224-bfce-410d-a98c-b4b66bd3c633" />
 
 <a id="16-07-14-s1"></a>
@@ -27,11 +27,11 @@ Windows 환경에서 `다음 레이어 선택(Select next layer)` 명령의 키�
 
 <a id="16-07-14-s3-01"></a>
 
-### 3-1. `이미지 메뉴 바` → `이미지` → `스택` → `다음 레이어 선택`
+### 3-1. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택`
 
 <a id="90-01-06-07-a222"></a>
 
-#### [영상 90.1.6.7.a222. `이미지 메뉴 바` → `이미지` → `스택` → `다음 레이어 선택` (Windows) (우리말)](./90-01-06-07-stack.md#90-01-06-07-a222)
+#### [영상 90.1.6.7.a222. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택` (Windows) (우리말)](./90-01-06-07-stack.md#90-01-06-07-a222)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/579bcc84-a896-4008-b8d4-70949e2cdf1a"></video>
 
 <a id="16-07-14-s3-02"></a>
@@ -40,7 +40,7 @@ Windows 환경에서 `다음 레이어 선택(Select next layer)` 명령의 키�
 
 <a id="90-10-91-01-01-a1"></a>
 
-#### [영상 90.10.91.1.1.a1. `이미지 메뉴 바` → `이미지` → `스택` → `다음 레이어 선택`: `Page Down` (Windows) (우리말)](./90-10-91-01-01-page_down.md#90-10-91-01-01-a1)
+#### [영상 90.10.91.1.1.a1. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택`: `Page Down` (Windows) (우리말)](./90-10-91-01-01-page_down.md#90-10-91-01-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/9297c726-c44a-4dc4-b69a-e9cbfb5271e5"></video>
 
 <a id="16-07-14-s3-03"></a>
@@ -49,7 +49,7 @@ Windows 환경에서 `다음 레이어 선택(Select next layer)` 명령의 키�
 
 <a id="90-10-91-01-02-a1"></a>
 
-#### [영상 90.10.91.1.2.a1. `이미지 메뉴 바` → `이미지` → `스택` → `다음 레이어 선택`: 아래쪽 방향키(↓) (Windows) (우리말)](./90-10-91-01-02-down_arrow.md#90-10-91-01-02-a1)
+#### [영상 90.10.91.1.2.a1. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택`: 아래쪽 방향키(↓) (Windows) (우리말)](./90-10-91-01-02-down_arrow.md#90-10-91-01-02-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/8fe0264b-06ea-4da6-8b66-c8cf84a6f988"></video>
 
 <a id="16-07-14-s3-04"></a>
@@ -58,7 +58,7 @@ Windows 환경에서 `다음 레이어 선택(Select next layer)` 명령의 키�
 
 <a id="90-10-91-01-02-a2"></a>
 
-#### [영상 90.10.91.1.2.a2. `이미지 메뉴 바` → `이미지` → `스택` → `다음 레이어 선택`: 아래쪽 방향키(↓) (Mac) (우리말)](./90-10-91-01-02-down_arrow.md#90-10-91-01-02-a2)
+#### [영상 90.10.91.1.2.a2. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택`: 아래쪽 방향키(↓) (Mac) (우리말)](./90-10-91-01-02-down_arrow.md#90-10-91-01-02-a2)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2c65fb72-9317-479a-b245-4c0b5cd33185"></video>
 
 ***

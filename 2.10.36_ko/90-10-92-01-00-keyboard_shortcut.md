@@ -14,9 +14,9 @@
 
 [➡️ 다음: 90.10.92.1.1. 키보드 단축키: `Home`](./90-10-92-01-01-home.md)
 
-[⬅️ 이전: 90.10.92. `이미지 메뉴 바` → `이미지` → `스택` → `맨 위 레이어 선택`](./90-10-92-00-menu_layer_stack_select_top_layer.md)
+[⬅️ 이전: 90.10.92. `이미지 메뉴 바` → `레이어` → `스택` → `맨 위 레이어 선택`](./90-10-92-00-menu_layer_stack_select_top_layer.md)
 
-[⬆️ 위: 90.10.92. `이미지 메뉴 바` → `이미지` → `스택` → `맨 위 레이어 선택`](./90-10-92-00-menu_layer_stack_select_top_layer.md)
+[⬆️ 위: 90.10.92. `이미지 메뉴 바` → `레이어` → `스택` → `맨 위 레이어 선택`](./90-10-92-00-menu_layer_stack_select_top_layer.md)
 
 [⬆️ 위: 90.10. 키보드 단축키(Keyboard Shortcut)](./90-10-00-keyboard_shortcut.md)
 
