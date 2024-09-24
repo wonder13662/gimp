@@ -67,3 +67,19 @@ Windows 환경에서 `이전 레이어 선택(Select previous layer)` 명령의 
 
 #### [영상 90.10.90.1.2.a2. `이미지 메뉴 바` → `이미지` → `스택` → `이전 레이어 선택`: 위쪽 방향키 (Mac) (우리말)](./90-10-90-01-02-up_arrow.md#90-10-90-01-02-a2)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/862c4e47-534e-4bb9-8172-fc6923f39d12"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.7.14. 다음 레이어 선택(Select next layer)](./16-07-14-select-next-layer.md)
+
+[⬅️ 이전: 16.7.12. 스택 하위메뉴(Stack submenu)](./16-07-12-stack-submenu.md)
+
+[⬆️ 위: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-layer-previous.html)

@@ -36,7 +36,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.7.8. Merge layer group](./16-07-08-merge-layer-group.md)
+[➡️ 다음: 16.7.8. 레이어 그룹 합치기(Merge layer group)](./16-07-08-merge-layer-group.md)
 
 [⬅️ 이전: 16.7.6. 레이어 고정하기(Anchor layer)](./16-07-06-anchor-layer.md)
 

@@ -2,7 +2,7 @@
 
 <a id="90-01-06-19-a1"></a>
 
-#### [그림 90.1.6.19.a1. `이미지 메뉴 바` → `레이어` → `레이어 그룹 합치기`](./90-01-06-19-merge_layer_group.md)
+#### [그림 90.1.6.19.a1. `이미지 메뉴 바` → `레이어` → `레이어 그룹 합치기`](./90-01-06-19-merge_layer_group.md#90-01-06-19-a1)
 <img width="970" height="515" alt="90-01-06-19-a1" src="https://github.com/user-attachments/assets/67e23072-2c95-4dca-a642-969bebd653e0" />
 
 `레이어 그룹 합치기(Merge layer group)` 명령은 [레이어 그룹](./08-05-00-layer-groups.md) 안의 활성화 레이어가 있어야 메뉴에 나타납니다.

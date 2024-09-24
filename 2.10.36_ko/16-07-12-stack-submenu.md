@@ -48,3 +48,19 @@
 [16.7.20. 레이어를 바닥으로(Layer to bottom)](./16-07-20-layer-to-bottom.md)
 
 [16.7.21. 레이어 순서 뒤집기(The reverse layer order command)](./16-07-21-the-reverse-layer-order-command.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.7.13. 이전 레이어 선택(Select previous layer)](./16-07-13-select-previous-layer.md)
+
+[⬅️ 이전: 16.7.11. 텍스트 정보 버리기(Discard text information)](./16-07-11-discard-text-information.md)
+
+[⬆️ 위: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-layer-stack-menu.html)

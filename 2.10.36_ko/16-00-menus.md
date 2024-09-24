@@ -966,7 +966,7 @@
 
 [16.7.7. 아래로 합치기(Merge Down)](./16-07-07-merge-down.md)
 
-[16.7.8. Merge layer group](./16-07-08-merge-layer-group.md)
+[16.7.8. 레이어 그룹 합치기(Merge layer group)](./16-07-08-merge-layer-group.md)
 
 [16.7.9. 레이어 삭제(Delete Layer)](./16-07-09-delete-layer.md)
 

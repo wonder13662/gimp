@@ -1847,7 +1847,7 @@ module.exports = {
       ],
       [
         '16-07-08-merge-layer-group.md', 
-        '16.7.8. Merge layer group'
+        '16.7.8. 레이어 그룹 합치기(Merge layer group)'
       ],
       [
         '16-07-09-delete-layer.md', 
