@@ -20,7 +20,7 @@ const {
 const doAsyncJob = async () => {
   try {
     // 1-1. 시작 페이지 이름
-    const head = '16-07-06-anchor-layer.md'
+    const head = '16-07-07-merge-down.md'
     // const head = '90-10-86-01-01-alt_enter.md'
     // const head = '16-05-27-show-statusbar.md'
     // const head = '16-06-00-the-image-menu.md'

@@ -1843,7 +1843,7 @@ module.exports = {
       ],
       [
         '16-07-07-merge-down.md', 
-        '16.7.7. Merge down'
+        '16.7.7. 아래로 합치기(Merge Down)'
       ],
       [
         '16-07-08-merge-layer-group.md', 

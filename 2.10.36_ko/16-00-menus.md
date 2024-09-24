@@ -964,7 +964,7 @@
 
 [16.7.6. 레이어 고정하기(Anchor layer)](./16-07-06-anchor-layer.md)
 
-[16.7.7. Merge down](./16-07-07-merge-down.md)
+[16.7.7. 아래로 합치기(Merge Down)](./16-07-07-merge-down.md)
 
 [16.7.8. Merge layer group](./16-07-08-merge-layer-group.md)
 

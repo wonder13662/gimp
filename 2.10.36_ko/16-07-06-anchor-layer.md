@@ -53,7 +53,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.7.7. Merge down](./16-07-07-merge-down.md)
+[➡️ 다음: 16.7.7. 아래로 합치기(Merge Down)](./16-07-07-merge-down.md)
 
 [⬅️ 이전: 16.7.5. 레이어 복제(Duplicate Layer)](./16-07-05-duplicate-layer.md)
 
