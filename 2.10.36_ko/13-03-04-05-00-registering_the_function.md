@@ -5,7 +5,9 @@ GIMP(김프)가 이 스크립트를 읽으면, `script-fu-register` 함수를 �
 
 이 함수는 스크립트를 [프로시저 데이터베이스(Procedural database)](./19-glossaryx-procedural_database.md)에 등록합니다.
 
-`script-fu-register` 함수는 스크립트 어디든 위치시킬수 있습니다. 보통은 스크립트의 가장 아래쪽에 둡니다.
+`script-fu-register` 함수는 스크립트 어디든 위치시킬수 있습니다. 
+
+보통은 스크립트의 가장 아래쪽에 둡니다.
 
 메인 함수와 `script-fu-register` 함수가 있는 스크립트의 내용은 아래와 같습니다. 
 
