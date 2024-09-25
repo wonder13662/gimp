@@ -1,5 +1,7 @@
 # 13.3.4.5. 함수 등록하기(Registering The Function)
-GIMP(김프)에 작업한 함수를 등록해봅시다. `script-fu-register` 함수를 호출해서 등록할 수 있습니다.
+GIMP(김프)에 작업한 함수를 등록해봅시다. 
+
+`script-fu-register` 함수를 호출해서 등록할 수 있습니다.
 
 GIMP(김프)가 이 스크립트를 읽으면, `script-fu-register` 함수를 실행합니다. 
 
