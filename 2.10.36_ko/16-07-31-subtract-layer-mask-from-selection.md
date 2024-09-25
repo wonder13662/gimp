@@ -1,6 +1,6 @@
-# 16.7.31. Subtract layer mask from selection
+# 16.7.31. 선택 영역에서 빼기(Subtract layer mask from selection)
 
-### [Home](./00-home.md)
-### [Parent: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
-### [Prev: 16.7.30. Add layer mask to selection](./16-07-30-add-layer-mask-to-selection.md)
-### [Next: 16.7.32. Intersect layer mask with selection](./16-07-32-intersect-layer-mask-with-selection.md)
+<a id="90-01-06-08-a391"></a>
+
+#### [그림 90.1.6.8.a391. `이미지 메뉴 바` → `레이어` → `마스크` → `선택 영역에서 빼기` (Windows)](./90-01-06-08-mask.md#90-01-06-08-a391)
+<img width="599" height="463" alt="90-01-06-08-a391" src="https://github.com/user-attachments/assets/954111cf-7d88-4f35-9a83-89a92da24bc5" />

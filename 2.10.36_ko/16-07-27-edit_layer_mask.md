@@ -1,5 +1,10 @@
 # 16.7.27. 레이어 마스크 수정하기(Edit layer mask)
 
+<a id="90-01-06-08-a351"></a>
+
+#### [그림 90.1.6.8.a351. `이미지 메뉴 바` → `레이어` → `마스크` → `레이어 마스크 편집` (Windows)](./90-01-06-08-mask.md#90-01-06-08-a351)
+<img width="599" height="463" alt="90-01-06-08-a351" src="https://github.com/user-attachments/assets/cfadaae6-70d4-4775-827f-23ef1da66945" />
+
 ***
 
 ## 관련 정보

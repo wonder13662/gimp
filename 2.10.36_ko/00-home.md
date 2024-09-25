@@ -3942,11 +3942,11 @@
 
 [16.7.29. 마스크를 선택으로 바꾸기(Mask to selection)](./16-07-29-mask_to_selection.md)
 
-[16.7.30. Add layer mask to selection](./16-07-30-add-layer-mask-to-selection.md)
+[16.7.30. 선택 영역에 추가(Add layer mask to selection)](./16-07-30-add-layer-mask-to-selection.md)
 
-[16.7.31. Subtract layer mask from selection](./16-07-31-subtract-layer-mask-from-selection.md)
+[16.7.31. 선택 영역에서 빼기(Subtract layer mask from selection)](./16-07-31-subtract-layer-mask-from-selection.md)
 
-[16.7.32. Intersect layer mask with selection](./16-07-32-intersect-layer-mask-with-selection.md)
+[16.7.32. 선택 영역과 겹치기(Intersect layer mask with selection)](./16-07-32-intersect-layer-mask-with-selection.md)
 
 [16.7.33. The transparency submenu of the layer menu](./16-07-33-the-transparency-submenu-of-the-layer-menu.md)
 

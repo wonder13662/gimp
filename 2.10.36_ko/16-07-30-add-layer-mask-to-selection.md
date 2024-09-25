@@ -1,6 +1,6 @@
-# 16.7.30. Add layer mask to selection
+# 16.7.30. 선택 영역에 추가(Add layer mask to selection)
 
-### [Home](./00-home.md)
-### [Parent: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
-### [Prev: 16.7.29. 마스크를 선택으로 바꾸기(Mask to selection)](./16-07-29-mask_to_selection.md)
-### [Next: 16.7.31. Subtract layer mask from selection](./16-07-31-subtract-layer-mask-from-selection.md)
+<a id="90-01-06-08-a381"></a>
+
+#### [그림 90.1.6.8.a381. `이미지 메뉴 바` → `레이어` → `마스크` → `선택 영역에 추가` (Windows)](./90-01-06-08-mask.md#90-01-06-08-a381)
+<img width="599" height="463" alt="90-01-06-08-a381" src="https://github.com/user-attachments/assets/67a72b67-6949-4430-add8-5da8891aca33" />
