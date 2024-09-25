@@ -3,7 +3,7 @@
 이미지를 보여주는 행은 이제 더 이상 필요하지 않으므로 삭제합니다(또는 `;`을 행의 가장 앞에 써서 주석으로 만들수도 있습니다).
 
 ## 2. 전경색, 배경색 바꾸기
-이미지에 텍스트를 추가하기 전에, 사용자가 선택한 배경색과 전경색을 설정해야 합니다. 
+이미지에 텍스트를 추가하기 전에, 사용자가 선택한 [배경색](./19-glossaryx-background_color.md)과 [전경색](./19-glossaryx-foreground_color.md)을 설정해야 합니다. 
 
 GIMP(김프)의 `gimp-context-set-background`와 `gimp-context-set-foreground` 함수를 사용합니다.
 
@@ -14,7 +14,7 @@ GIMP(김프)의 `gimp-context-set-background`와 `gimp-context-set-foreground` �
 
 ⚠️ 주의: `gimp-context-set-background`와 `gimp-context-set-foreground` 함수의 명세(Speficication)는 [프로시저 브라우저](./16-12-08-the-procedure-browser.md)로 검색하면 확인할 수 있습니다.
 
-전경색과 배경색이 설정되면, 배경색으로 drawable 객체의 색을 채웁니다.
+전경색과 배경색이 설정되면, 배경색으로 [`drawable`](./19-glossaryx-drawable.md) 객체의 색을 채웁니다.
 
 ```scheme
 (gimp-drawable-fill theLayer BACKGROUND-FILL)
@@ -54,7 +54,9 @@ GIMP(김프)의 `gimp-context-set-background`와 `gimp-context-set-foreground` �
 
 (gimp-layer-resize theLayer theImageWidth theImageHeight 0 0)
 ```
-여기서 `drawable`이 무엇인지 궁금할 수 있습니다. `drawable`은 그릴 수 있는 모든 대상을 말합니다. 
+여기서 [`drawable`](./19-glossaryx-drawable.md)이 무엇인지 궁금할 수 있습니다. 
+
+`drawable`은 그릴 수 있는 모든 대상을 말합니다. 
 
 이 대상에는 [채널](./19-glossaryx-channel.md), [레이어](./19-glossaryx-layer.md), 마스크, 선택 영역등이 있습니다. 
 
