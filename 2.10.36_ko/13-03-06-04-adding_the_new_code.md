@@ -73,6 +73,8 @@
 (gimp-image-flatten (car theResult))
 ```
 
+<a comment="TODO scheme은 리스트가 아닌 값 자체를 리턴해줄 수 없는가?"></a>
+
 축하합니다! 드디어 TextBox 스크립트를 완성했습니다! 최종 스크립트는 아래 영상처럼 동작합니다.
 
 #### 영상 13.3.6.4.a1. 최종 스크립트 확인하기
