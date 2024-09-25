@@ -1,5 +1,7 @@
 # 13.3.4.8. Script-Fu 매개변수(parameter) API(The Script-Fu parameter API)
-[13.3.4.7. 스크립트의 매개변수를 등록하기(Registering The Script's Parameters)](./13-03-04-07-registering_the_scripts_parameters.md)에서 소개한 매개변수 타입 외에 상호작용 모드에서 사용할 수 있는 타입이 몇가지 더 있습니다. 각 매개변수 타입은 대화상자에서 위젯을 만듭니다.
+[13.3.4.7. 스크립트의 매개변수를 등록하기(Registering The Script's Parameters)](./13-03-04-07-registering_the_scripts_parameters.md)에서 소개한 매개변수 타입 외에 상호작용 모드에서 사용할 수 있는 타입이 몇가지 더 있습니다. 
+
+각 매개변수 타입은 대화상자에서 위젯을 만듭니다.
 
 이 매개변수들은 [test-sphere.scm](./13-03-04-08-12-script_fu_example_test_sphere.md)에서 추가적인 설명과 예시를 확인해볼 수 있습니다.
 

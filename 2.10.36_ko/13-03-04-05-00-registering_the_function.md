@@ -1,11 +1,15 @@
 # 13.3.4.5. 함수 등록하기(Registering The Function)
 GIMP(김프)에 작업한 함수를 등록해봅시다. `script-fu-register` 함수를 호출해서 등록할 수 있습니다.
 
-GIMP(김프)가 이 스크립트를 읽으면, `script-fu-register` 함수를 실행합니다. 이 함수는 스크립트를 [프로시저 데이터베이스(Procedural database)](./19-glossaryx-procedural_database.md)에 등록합니다.
+GIMP(김프)가 이 스크립트를 읽으면, `script-fu-register` 함수를 실행합니다. 
+
+이 함수는 스크립트를 [프로시저 데이터베이스(Procedural database)](./19-glossaryx-procedural_database.md)에 등록합니다.
 
 `script-fu-register` 함수는 스크립트 어디든 위치시킬수 있습니다. 보통은 스크립트의 가장 아래쪽에 둡니다.
 
-메인 함수와 `script-fu-register` 함수가 있는 스크립트의 내용은 아래와 같습니다. `script-fu-register` 함수의 인자(Parameter)에 대해서는 [13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script)](./13-03-04-06-steps_for_registering_the_script.md)에서 설명하겠습니다.
+메인 함수와 `script-fu-register` 함수가 있는 스크립트의 내용은 아래와 같습니다. 
+
+`script-fu-register` 함수의 인자(Parameter)에 대해서는 [13.3.4.6. 스크립트를 등록하는 과정(Steps For Registering The Script)](./13-03-04-06-steps_for_registering_the_script.md)에서 설명하겠습니다.
 
 ```scheme
 ;스크립트를 프로시저 데이터베이스(Procedure Database)에 등록
@@ -48,7 +52,9 @@ GIMP(김프)가 이 스크립트를 읽으면, `script-fu-register` 함수를 �
 )
 ```
 
-작성한 스크립트를 확장자가 [`.scm`](./19-glossaryx-scm.md)인 파일로 스크립트 디렉토리에 저장하였다면, [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `필터` → `Script-Fu` → `스크립트 새로 고침` 메뉴를 클릭해서 GIMP(김프)를 재시작하지 않고 스크립트를 읽어 들입니다. 이 새로운 스크립트는 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `파일` → `만들기` → `Text` → `Text Box`에서 확인할 수 있습니다.
+작성한 스크립트를 확장자가 [`.scm`](./19-glossaryx-scm.md)인 파일로 스크립트 디렉토리에 저장하였다면, [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `필터` → `Script-Fu` → `스크립트 새로 고침` 메뉴를 클릭해서 GIMP(김프)를 재시작하지 않고 스크립트를 읽어 들입니다. 
+
+이 새로운 스크립트는 [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `파일` → `만들기` → `Text` → `Text Box`에서 확인할 수 있습니다.
 
 <a id="90-01-09-16-02-a1"></a>
 

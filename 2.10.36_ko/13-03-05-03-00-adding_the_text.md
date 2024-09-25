@@ -3,7 +3,9 @@
 이미지를 보여주는 행은 이제 더 이상 필요하지 않으므로 삭제합니다(또는 `;`을 행의 가장 앞에 써서 주석으로 만들수도 있습니다).
 
 ## 2. 전경색, 배경색 바꾸기
-이미지에 텍스트를 추가하기 전에, 사용자가 선택한 배경색과 전경색을 설정해야 합니다. GIMP(김프)의 `gimp-context-set-background`와 `gimp-context-set-foreground` 함수를 사용합니다.
+이미지에 텍스트를 추가하기 전에, 사용자가 선택한 배경색과 전경색을 설정해야 합니다. 
+
+GIMP(김프)의 `gimp-context-set-background`와 `gimp-context-set-foreground` 함수를 사용합니다.
 
 ```scheme
 (gimp-context-set-background '(255 255 255) )
@@ -37,7 +39,9 @@
 )
 ```
 
-[프로시저 브라우저](./16-12-08-the-procedure-browser.md)로 `gimp-text-fontname` 함수를 검색해서 파라미터를 살펴보면, 내용은 길지만, 상당히 직관적인 함수입니다. `gimp-text-fontname` 함수로 새로운 텍스트 레이어를 만들어서 변수 `theText`의 값을 텍스트 레이어에 지정할 것입니다.
+[프로시저 브라우저](./16-12-08-the-procedure-browser.md)로 `gimp-text-fontname` 함수를 검색해서 파라미터를 살펴보면, 내용은 길지만, 상당히 직관적인 함수입니다. 
+
+`gimp-text-fontname` 함수로 새로운 텍스트 레이어를 만들어서 변수 `theText`의 값을 텍스트 레이어에 지정할 것입니다.
 
 ## 4. 이미지를 텍스트에 맞추기
 이제 텍스트가 있으므로, 텍스트의 크기에 맞춰 이미지의 너비와 높이를 조정할 수 있습니다.
@@ -50,7 +54,11 @@
 
 (gimp-layer-resize theLayer theImageWidth theImageHeight 0 0)
 ```
-여기서 `drawable`이 무엇인지 궁금할 수 있습니다. `drawable`은 그릴 수 있는 모든 대상을 말합니다. 이 대상에는 [채널](./19-glossaryx-channel.md), [레이어](./19-glossaryx-layer.md), 마스크, 선택 영역등이 있습니다. 레이어는 `drawable`의 구체화된 버전입니다.
+여기서 `drawable`이 무엇인지 궁금할 수 있습니다. `drawable`은 그릴 수 있는 모든 대상을 말합니다. 
+
+이 대상에는 [채널](./19-glossaryx-channel.md), [레이어](./19-glossaryx-layer.md), 마스크, 선택 영역등이 있습니다. 
+
+레이어는 `drawable`의 구체화된 버전입니다.
 
 이미지가 준비되었으므로, 이제 이미지를 화면에 다시 보여주는 `gimp-display-new` 함수를 호출합니다.
 
@@ -59,7 +67,9 @@
 ```
 
 ## 4. 작업 과정 확인하기
-작업을 저장하고, [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `필터` → `Script-Fu` → `스크립트 새로 고침` 메뉴를 선택해서 스크립트를 갱신합니다. 그리고 스크립트를 실행시켜서 새로운 이미지를 띄웁니다.
+작업을 저장하고, [이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `필터` → `Script-Fu` → `스크립트 새로 고침` 메뉴를 선택해서 스크립트를 갱신합니다. 
+
+그리고 스크립트를 실행시켜서 새로운 이미지를 띄웁니다.
 
 #### 영상 13.3.5.3.a1. 작업한 스크립트 확인하기
 <video controls="controls" width="640" height="360"  src="https://github.com/wonder13662/gimp/assets/15767104/4e087243-be88-4c16-b862-49faf020806e"></video>

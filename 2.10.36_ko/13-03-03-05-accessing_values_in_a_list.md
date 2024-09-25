@@ -1,5 +1,9 @@
 # 13.3.3.5. 리스트의 값 가져오기
-리스트의 값들에 접근하려면, 함수 [car](./13-03-03-06-the_car_function.md)와 [cdr](./13-03-03-07-the_cdr_function.md)을 사용합니다. 함수 [car](./13-03-03-06-the_car_function.md)는 리스트의 첫번째 요소를 반환합니다. 함수 [cdr](./13-03-03-07-the_cdr_function.md)는 첫번째 요소를 제외한 나머지를 반환합니다.
+리스트의 값들에 접근하려면, 함수 [car](./13-03-03-06-the_car_function.md)와 [cdr](./13-03-03-07-the_cdr_function.md)을 사용합니다. 
+
+함수 [car](./13-03-03-06-the_car_function.md)는 리스트의 첫번째 요소를 반환합니다. 
+
+함수 [cdr](./13-03-03-07-the_cdr_function.md)는 첫번째 요소를 제외한 나머지를 반환합니다.
 
 ***
 

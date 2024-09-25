@@ -1,0 +1,1 @@
+# 16.10.6.3. Script-Fu 콘솔(Script-Fu Console)
