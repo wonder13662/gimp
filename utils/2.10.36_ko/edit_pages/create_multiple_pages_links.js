@@ -20,11 +20,11 @@ const {
 const doAsyncJob = async () => {
   try {
     // 1-1. 시작 페이지 이름
-    // const head = '16-07-00-the-layer-menu.md'
+    const head = '16-07-24-apply_layer_mask.md'
     // const head = '90-10-90-01-02-up_arrow.md'
     // const head = '16-05-27-show-statusbar.md'
     // const head = '16-06-00-the-image-menu.md'
-    const head = '16-00-menus.md'
+    // const head = '16-00-menus.md'
     // const head = '90-10-00-keyboard_shortcut.md'
     // 1-2. 종료 페이지 이름
     // const tail = '16-07-23-02-02-invert_mask.md'
