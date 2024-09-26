@@ -21,6 +21,13 @@
 
 [15.2.1.4.1. 개요(Overview) - 영상 90.4.3.15.a21](./15-02-01-04-01-overview.md#90-04-03-15-a21)
 
+<a id="90-04-03-15-a31"></a>
+
+#### 영상 90.4.3.15.a31. `레이어 대화상자` → `레이어 속성` → `레이어 마스크 미리보기`: Ctrl(⌘) + 클릭하여 활성/비활성 상태 전환하기 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/76e7f6bf-d2e9-4443-ad3c-83ef6bda321c"></video>
+
+[16.7.28. 레이어 마스크 비활성화하기(Disable layer mask) - 영상 90.4.3.15.a31](./16-07-28-disable_layer_mask.md#90-04-03-15-a31)
+
 ***
 
 ## 다른 페이지로 가기
