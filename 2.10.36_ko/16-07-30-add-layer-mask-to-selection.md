@@ -7,7 +7,7 @@
 
 `선택 영역에 추가(Add layer mask to selection)` 명령은 활성화 [레이어](./19-glossaryx-layer.md)의 [레이어 마스크](./19-glossaryx-layer_mask.md)를 가지고 [선택](./19-glossaryx-selection.md)을 만듭니다.
 
-이 [선택](./19-glossaryx-selection.md)은 [이미지](./19-glossaryx-image.md)의 활성화 선택에 추가됩니다.
+이 [선택](./19-glossaryx-selection.md)을 [이미지](./19-glossaryx-image.md)의 활성화 선택에 더합니다.
 
 [레이어 마스크](./19-glossaryx-layer_mask.md)의 하얀색은 선택 영역이 되며, 검은색은 선택되지 않습니다.
 
