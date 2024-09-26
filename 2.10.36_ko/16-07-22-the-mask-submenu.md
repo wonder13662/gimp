@@ -29,7 +29,7 @@
 
 ## 하위 페이지
 
-[16.7.23. 레이어 마스크 추가하기(Add layer mask)](./16-07-23-add_layer_mask.md)
+[16.7.23. 레이어 마스크 추가하기(Add layer mask)](./16-07-23-00-add_layer_mask.md)
 
 [16.7.24. 레이어 마스크 적용하기(Apply layer mask)](./16-07-24-apply_layer_mask.md)
 
@@ -48,3 +48,19 @@
 [16.7.31. 선택 영역에서 빼기(Subtract layer mask from selection)](./16-07-31-subtract-layer-mask-from-selection.md)
 
 [16.7.32. 선택 영역과 겹치기(Intersect layer mask with selection)](./16-07-32-intersect-layer-mask-with-selection.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.7.23. 레이어 마스크 추가하기(Add layer mask)](./16-07-23-00-add_layer_mask.md)
+
+[⬅️ 이전: 16.7.21. 레이어 순서 뒤집기(The reverse layer order command)](./16-07-21-the-reverse-layer-order-command.md)
+
+[⬆️ 위: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-layer-mask-menu.html)

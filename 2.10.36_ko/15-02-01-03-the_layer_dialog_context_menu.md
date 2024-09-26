@@ -99,7 +99,7 @@
 <a id="15-02-01-03-s17"></a>
 
 ## 17. 레이어 마스크 추가하기(Add Layer Mask…)
-[16.7.23. 레이어 마스크 추가하기(Add layer mask)](./16-07-23-add_layer_mask.md)를 참고하세요.
+[16.7.23. 레이어 마스크 추가하기(Add layer mask)](./16-07-23-00-add_layer_mask.md)를 참고하세요.
 
 <a id="15-02-01-03-s18"></a>
 

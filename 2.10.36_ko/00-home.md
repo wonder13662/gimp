@@ -3928,7 +3928,29 @@
 
 [16.7.22. 마스크 하위메뉴(The mask submenu)](./16-07-22-the-mask-submenu.md)
 
-[16.7.23. 레이어 마스크 추가하기(Add layer mask)](./16-07-23-add_layer_mask.md)
+[16.7.23. 레이어 마스크 추가하기(Add layer mask)](./16-07-23-00-add_layer_mask.md)
+
+[16.7.23.1. 명령 활성화하기(Activating the Command)](./16-07-23-01-activating_the_command.md)
+
+[16.7.23.2. `레이어 마스크 추가` 대화상자 설명(Description of the `Add Layer Mask` Dialog)](./16-07-23-02-00-description_of_the_add_layer_mask_dialog.md)
+
+[16.7.23.2.1. 레이어 마스크를 초기화 합니다(Initialize Layer Mask to)](./16-07-23-02-01-00-initialize_layer_mask_to.md)
+
+[16.7.23.2.1.1. 흰색(완전 불투명) - White(full opacity)](./16-07-23-02-01-01-white.md)
+
+[16.7.23.2.1.2. 검은색(완전 투명) - Black(full transparency)](./16-07-23-02-01-02-black.md)
+
+[16.7.23.2.1.3. 레이어의 알파 채널(Layer's alpha channel)](./16-07-23-02-01-03-layer_alpha_channel.md)
+
+[16.7.23.2.1.4. 레이어의 알파 채널 전송(Transfer layer's alpha channel)](./16-07-23-02-01-04-transfer_layer_alpha_channel.md)
+
+[16.7.23.2.1.5. 선택(Selection)](./16-07-23-02-01-05-selection.md)
+
+[16.7.23.2.1.6. 레이어의 그레이스케일 사본(Grayscale copy of layer)](./16-07-23-02-01-06-grayscale_copy_of_layer.md)
+
+[16.7.23.2.1.7. 채널(Channel)](./16-07-23-02-01-07-channel.md)
+
+[16.7.23.2.2. 마스크 반전(Invert mask)](./16-07-23-02-02-invert_mask.md)
 
 [16.7.24. 레이어 마스크 적용하기(Apply layer mask)](./16-07-24-apply_layer_mask.md)
 
@@ -4136,7 +4158,15 @@
 
 [16.10.5. The "Python-Fu" submenu](./16-10-05-the-python-fu-submenu.md)
 
-[16.10.6. The "Script-Fu" submenu](./16-10-06-the-script-fu-submenu.md)
+[16.10.6. The "Script-Fu" submenu](./16-10-06-00-the-script-fu-submenu.md)
+
+[16.10.6.1. 하위 메뉴 활성화하기(Activating the submenu)](./16-10-06-01-activating_the_submenu.md)
+
+[16.10.6.2. 스크립트 새로고침(Refresh Scripts)](./16-10-06-02-refresh_scripts.md)
+
+[16.10.6.3. Script-Fu 콘솔(Script-Fu Console)](./16-10-06-03-script_fu_console.md)
+
+[16.10.6.4. 서버 시작하기(Start Server)](./16-10-06-04-start_server.md)
 
 [16.11. "Windows" menu](./16-11-windows-menu.md)
 
@@ -4594,6 +4624,8 @@
 
 [19. 용어집 - 깨끗한 이미지(Clean Image)](./19-glossaryx-clean_image.md)
 
+[19. 용어집 - 클립보드(Clipboard)](./19-glossaryx-clipboard.md)
+
 [19. 용어집 - 색상 관리 시스템(CMS: Color Management System)](./19-glossaryx-cms.md)
 
 [19. 용어집 - 색상 영역(Color Area)](./19-glossaryx-color_area.md)
@@ -4823,6 +4855,8 @@
 [19. 용어집 - 채도(Saturation)](./19-glossaryx-saturation.md)
 
 [19. 용어집 - 장면 참조(Scene-referred)](./19-glossaryx-scene_referred.md)
+
+[19. 용어집 - Scheme](./19-glossaryx-scheme.md)
 
 [19. 용어집 - `.scm`](./19-glossaryx-scm.md)
 
