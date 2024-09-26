@@ -33,6 +33,11 @@
 #### [영상 90.4.3.15.a31. `레이어 대화상자` → `레이어 속성` → `레이어 마스크 미리보기`: Ctrl(⌘) + 클릭하여 활성/비활성 상태 전환하기 (Windows) (우리말)](./90-04-0003-015-layer_thumbnail.md#90-04-03-15-a31)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/76e7f6bf-d2e9-4443-ad3c-83ef6bda321c"></video>
 
+<a id="16-07-28-s1-03"></a>
+
+### 1-3. `레이어 대화상자 컨텍스트 메뉴` → `레이어 마스크 수정하기`
+[15.2.1.3. 레이어 대화상자 컨텍스트 메뉴(The Layer dialog context menu) - 22. 레이어 마스크 비활성화하기(Disable layer mask)](./15-02-01-03-the_layer_dialog_context_menu.md#15-02-01-03-s22)을 참고해주세요.
+
 ***
 
 ## 관련 정보
