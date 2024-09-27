@@ -1,6 +1,11 @@
 # 90.1.6.9.4. Semi-Flatten(Semi-Flatten)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+
+<a id="90-01-06-09-04-a101"></a>
+
+#### 그림 90.1.6.9.4.a101. `이미지 메뉴 바` → `레이어` → `투명도` → `Semi flatten` (Windows) (우리말)
+<img width="574" height="414" alt="90-01-06-09-04-a101" src="https://github.com/user-attachments/assets/e992a9b9-bff9-43f7-ae3e-371394a2cc49" />
+
+[16.7.37. Semi flatten - 그림 90.1.6.9.4.a101](./16-07-37-semi-flatten.md#90-01-06-09-04-a101)
 
 ***
 

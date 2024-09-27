@@ -133,9 +133,9 @@
 ### 4-1. 알파 채널 추가
 이미지의 단색의 [배경색](./19-glossaryx-background_color.md)을 투명으로 만들려면, [알파 채널](./19-glossaryx-alpha_channel.md)을 추가하세요. 
 
-<a id="90-01-06-09-01-a103"></a>
+<a id="90-01-06-09-01-a202"></a>
 
-#### [영상 90.1.6.9.1.a103. 알파 채널 추가](./90-01-06-09-01-add_alpha_channel.md#90-01-06-09-01-a103)
+#### [영상 90.1.6.9.1.a202. `이미지 메뉴 바` → `레이어` → `투명도` → `알파 채널 추가` (Windows) (우리말)](./90-01-06-09-01-add_alpha_channel.md#90-01-06-09-01-a202)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0769da7a-654a-4185-bf7d-396e69346085"></video>
 
 <a id="07-01-02-s4-02"></a>

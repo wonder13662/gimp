@@ -1,5 +1,4 @@
 # 90.1.6.9.1. 알파 채널 추가(Add Alpha Channel)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
 
 <a id="90-01-06-09-01-a101"></a>
 
@@ -17,12 +16,19 @@
 #### 그림 90.1.6.9.1.a102. `레이어` → `투명` → `알파 채널 추가` (Mac)
 ![90-01-06-09-01-a102](https://github.com/wonder13662/gimp/assets/15767104/1152070e-e431-4b9a-9f38-4cf219f66151)
 
-<a id="90-01-06-09-01-a103"></a>
+<a id="90-01-06-09-01-a201"></a>
 
-#### 영상 90.1.6.9.1.a103. 알파 채널 추가
+#### 그림 90.1.6.9.1.a201. `이미지 메뉴 바` → `레이어` → `투명도` → `알파 채널 추가` (Windows) (우리말)
+<img width="574" height="414" alt="90-01-06-09-a201" src="https://github.com/user-attachments/assets/d0a37cdf-d193-414c-87fc-08181d25ce7c" />
+
+[16.7.34. 알파 채널 추가(Add alpha channel) - 그림 90.1.6.9.1.a201](./16-07-34-add_alpha_channel.md#90-01-06-09-01-a201)
+
+<a id="90-01-06-09-01-a202"></a>
+
+#### 영상 90.1.6.9.1.a202. `이미지 메뉴 바` → `레이어` → `투명도` → `알파 채널 추가` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/0769da7a-654a-4185-bf7d-396e69346085"></video>
 
-[7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.1.6.9.1.a103](./07-01-02-making_a_selection_partially_transparent.md#90-01-06-09-01-a103)
+[7.1.2. 부분적으로 투명한 선택 만들기 - 영상 90.1.6.9.1.a202](./07-01-02-making_a_selection_partially_transparent.md#90-01-06-09-01-a202)
 
 ***
 

@@ -1,6 +1,6 @@
-# 16.7.40. Add alpha channel to selection
+# 16.7.40. 선택에 추가(Add alpha channel to selection)
 
-### [Home](./00-home.md)
-### [Parent: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
-### [Prev: 16.7.39. Alpha to selection](./16-07-39-alpha-to-selection.md)
-### [Next: 16.7.41. Subtract from selection](./16-07-41-subtract-from-selection.md)
+<a id="90-01-06-09-07-a101"></a>
+
+#### [그림 90.1.6.9.7.a101. `이미지 메뉴 바` → `레이어` → `투명도` → `선택에 추가` (Windows) (우리말)](./90-01-06-09-07-add_to_selection.md#90-01-06-09-07-a101)
+<img width="574" height="414" alt="90-01-06-09-07-a101" src="https://github.com/user-attachments/assets/27700daa-fc6c-4313-bb15-0b405bab5872" />

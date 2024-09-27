@@ -134,14 +134,14 @@
 <a id="15-02-01-03-s24"></a>
 
 ## 24. 알파 채널 추가하기(Add alpha channel)
-[16.7.34. 알파 채널 추가하기(Add alpha channel)](./16-07-34-add_alpha_channel.md)를 참고하세요.
+[16.7.34. 알파 채널 추가(Add alpha channel)](./16-07-34-add_alpha_channel.md)를 참고하세요.
 
 [관련 정보: 15.2.2. 채널 대화상자(Channel dialog) - 1-3. 알파 채널(Alpha Channel)](./15-02-02-00-channel_dialog.md#15-02-02-s2-03)
 
 <a id="15-02-01-03-s25"></a>
 
 ## 25. 알파 채널 제거하기(Remove alpha channel)
-[16.7.35. 알파 채널 제거하기(Remove alpha channel)](./16-07-35-remove_alpha_channel.md)를 참고하세요.
+[16.7.35. 알파 채널 제거(Remove alpha channel)](./16-07-35-remove_alpha_channel.md)를 참고하세요.
 
 <a id="15-02-01-03-s26"></a>
 

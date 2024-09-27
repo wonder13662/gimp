@@ -1,6 +1,11 @@
 # 90.1.6.9.9. 선택 영역과 겹치기(Intersect from Selection)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+
+<a id="90-01-06-09-09-a101"></a>
+
+#### 그림 90.1.6.9.9.a101. `이미지 메뉴 바` → `레이어` → `투명도` → `선택 영역과 겹치기` (Windows) (우리말)
+<img width="574" height="414" alt="90-01-06-09-09-a101" src="https://github.com/user-attachments/assets/81594e59-481c-4c0c-959c-2e3be4eea6ce" />
+
+[16.7.42. 선택 영역과 겹치기(Intersect alpha channel with selection) - 그림 90.1.6.9.9.a101](./16-07-42-intersect-alpha-channel-with-selection.md#90-01-06-09-09-a101)
 
 ***
 

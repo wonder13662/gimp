@@ -1,6 +1,11 @@
 # 90.1.6.9.5. 임계 알파(Threshold Alpha)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+
+<a id="90-01-06-09-05-a101"></a>
+
+#### 그림 90.1.6.9.5.a101. `이미지 메뉴 바` → `레이어` → `투명도` → `임계 알파` (Windows) (우리말)
+<img width="574" height="414" alt="90-01-06-09-05-a101" src="https://github.com/user-attachments/assets/8392df72-fb1e-4c7c-82da-c37d762ee350" />
+
+[16.7.38. 임계 알파(Threshold alpha) - 그림 90.1.6.9.5.a101](./16-07-38-threshold-alpha.md#90-01-06-09-05-a101)
 
 ***
 

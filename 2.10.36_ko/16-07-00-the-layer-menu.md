@@ -114,25 +114,25 @@
 
 [16.7.32. 선택 영역과 겹치기(Intersect layer mask with selection)](./16-07-32-intersect-layer-mask-with-selection.md)
 
-[16.7.33. The transparency submenu of the layer menu](./16-07-33-the-transparency-submenu-of-the-layer-menu.md)
+[16.7.33. 레이어 메뉴의 투명 하위메뉴(The transparency submenu of the layer menu)](./16-07-33-the-transparency-submenu-of-the-layer-menu.md)
 
-[16.7.34. 알파 채널 추가하기(Add alpha channel)](./16-07-34-add_alpha_channel.md)
+[16.7.34. 알파 채널 추가(Add alpha channel)](./16-07-34-add_alpha_channel.md)
 
-[16.7.35. 알파 채널 제거하기(Remove alpha channel)](./16-07-35-remove_alpha_channel.md)
+[16.7.35. 알파 채널 제거(Remove alpha channel)](./16-07-35-remove_alpha_channel.md)
 
-[16.7.36. 색을 알파로(Color to alpha)](./16-07-36-color-to-alpha.md)
+[16.7.36. 색상을 알파로(Color to alpha)](./16-07-36-color-to-alpha.md)
 
 [16.7.37. Semi flatten](./16-07-37-semi-flatten.md)
 
-[16.7.38. Threshold alpha](./16-07-38-threshold-alpha.md)
+[16.7.38. 임계 알파(Threshold alpha)](./16-07-38-threshold-alpha.md)
 
-[16.7.39. Alpha to selection](./16-07-39-alpha-to-selection.md)
+[16.7.39. 알파를 선택 영역으로(Alpha to selection)](./16-07-39-alpha-to-selection.md)
 
-[16.7.40. Add alpha channel to selection](./16-07-40-add-alpha-channel-to-selection.md)
+[16.7.40. 선택에 추가(Add alpha channel to selection)](./16-07-40-add-alpha-channel-to-selection.md)
 
-[16.7.41. Subtract from selection](./16-07-41-subtract-from-selection.md)
+[16.7.41. 선택 영역에서 빼기(Subtract from selection)](./16-07-41-subtract-from-selection.md)
 
-[16.7.42. Intersect alpha channel with selection](./16-07-42-intersect-alpha-channel-with-selection.md)
+[16.7.42. 선택 영역과 겹치기(Intersect alpha channel with selection)](./16-07-42-intersect-alpha-channel-with-selection.md)
 
 [16.7.43. 변형 메뉴(The transform submenu)](./16-07-43-the-transform-submenu.md)
 

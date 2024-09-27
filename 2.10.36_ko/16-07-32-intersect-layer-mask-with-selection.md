@@ -28,7 +28,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.7.33. The transparency submenu of the layer menu](./16-07-33-the-transparency-submenu-of-the-layer-menu.md)
+[➡️ 다음: 16.7.33. 레이어 메뉴의 투명 하위메뉴(The transparency submenu of the layer menu)](./16-07-33-the-transparency-submenu-of-the-layer-menu.md)
 
 [⬅️ 이전: 16.7.31. 선택 영역에서 빼기(Subtract layer mask from selection)](./16-07-31-subtract-layer-mask-from-selection.md)
 

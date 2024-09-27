@@ -1,6 +1,11 @@
 # 90.1.6.9.7. 선택에 추가(Add to Selection)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+
+<a id="90-01-06-09-07-a101"></a>
+
+#### 그림 90.1.6.9.7.a101. `이미지 메뉴 바` → `레이어` → `투명도` → `선택에 추가` (Windows) (우리말)
+<img width="574" height="414" alt="90-01-06-09-07-a101" src="https://github.com/user-attachments/assets/27700daa-fc6c-4313-bb15-0b405bab5872" />
+
+[16.7.40. 선택에 추가(Add alpha channel to selection) - 그림 90.1.6.9.7.a101](./16-07-40-add-alpha-channel-to-selection.md#90-01-06-09-07-a101)
 
 ***
 

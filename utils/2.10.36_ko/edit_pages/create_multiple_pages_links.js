@@ -20,7 +20,7 @@ const {
 const doAsyncJob = async () => {
   try {
     // 1-1. 시작 페이지 이름
-    const head = '16-07-32-intersect-layer-mask-with-selection.md'
+    const head = '16-07-34-add_alpha_channel.md'
     // const head = '90-10-90-01-02-up_arrow.md'
     // const head = '16-05-27-show-statusbar.md'
     // const head = '16-06-00-the-image-menu.md'
