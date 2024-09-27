@@ -4134,7 +4134,7 @@
 
 [16.8.57. Posterize](./16-08-57-posterize.md)
 
-[16.8.58. Color to alpha](./16-08-58-color-to-alpha.md)
+[16.8.58. 색상을 알파로(Color to alpha)](./16-08-58-color-to-alpha.md)
 
 [16.8.59. 디더링(Dither)](./16-08-59-dither.md)
 
