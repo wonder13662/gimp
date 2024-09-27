@@ -17,12 +17,16 @@
 #### 그림 90.1.6.9.a101. `이미지 메뉴 바` → `레이어` → `투명도` (Windows) (우리말)
 <img width="708" height="634" alt="90-01-06-09-a101" src="https://github.com/user-attachments/assets/5750101b-664d-4293-96f5-8e69e699bd75" />
 
+[16.7.33. 레이어 메뉴의 투명 하위메뉴(The transparency submenu of the layer menu) - 그림 90.1.6.9.a101](./16-07-33-the-transparency-submenu-of-the-layer-menu.md#90-01-06-09-a101)
+
 [16.7.34. 알파 채널 추가(Add alpha channel) - 그림 90.1.6.9.a101](./16-07-34-add_alpha_channel.md#90-01-06-09-a101)
 
 <a id="90-01-06-09-a102"></a>
 
 #### 영상 90.1.6.9.a102. `이미지 메뉴 바` → `레이어` → `투명도` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/3195b874-e8cc-4d41-9248-3553bf131e51"></video>
+
+[16.7.33. 레이어 메뉴의 투명 하위메뉴(The transparency submenu of the layer menu) - 영상 90.1.6.9.a102](./16-07-33-the-transparency-submenu-of-the-layer-menu.md#90-01-06-09-a102)
 
 [16.7.34. 알파 채널 추가(Add alpha channel) - 영상 90.1.6.9.a102](./16-07-34-add_alpha_channel.md#90-01-06-09-a102)
 

@@ -44,3 +44,19 @@
 [16.7.41. 선택 영역에서 빼기(Subtract from selection)](./16-07-41-subtract-from-selection.md)
 
 [16.7.42. 선택 영역과 겹치기(Intersect alpha channel with selection)](./16-07-42-intersect-alpha-channel-with-selection.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.7.34. 알파 채널 추가(Add alpha channel)](./16-07-34-add_alpha_channel.md)
+
+[⬅️ 이전: 16.7.32. 선택 영역과 겹치기(Intersect layer mask with selection)](./16-07-32-intersect-layer-mask-with-selection.md)
+
+[⬆️ 위: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-layer-transparency-menu.html)

@@ -10,7 +10,7 @@
 <a id="90-01-06-09-02-a111"></a>
 
 #### 영상 90.1.6.9.2.a111. `이미지 메뉴 바` → `레이어` → `투명도` → `알파 채널 제거` (Windows) (우리말)
-<video controls="controls" width="640" height="360" src=""></video>
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/caf27e4e-342a-419c-8028-26ab7450a42c"></video>
 
 [16.7.35. 알파 채널 제거(Remove alpha channel) - 영상 90.1.6.9.2.a111](./16-07-35-remove_alpha_channel.md#90-01-06-09-02-a111)
 
