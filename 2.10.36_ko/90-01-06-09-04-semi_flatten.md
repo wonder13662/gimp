@@ -7,6 +7,13 @@
 
 [16.7.37. Semi flatten - 그림 90.1.6.9.4.a101](./16-07-37-semi-flatten.md#90-01-06-09-04-a101)
 
+<a id="90-01-06-09-04-a111"></a>
+
+#### 영상 90.1.6.9.4.a111. `이미지 메뉴 바` → `레이어` → `투명도` → `Semi flatten` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/249d24db-6c18-40c4-b101-c30efa4c8199"></video>
+
+[16.7.37. Semi flatten - 영상 90.1.6.9.4.a111](./16-07-37-semi-flatten.md#90-01-06-09-04-a111)
+
 ***
 
 ## 다른 페이지로 가기
