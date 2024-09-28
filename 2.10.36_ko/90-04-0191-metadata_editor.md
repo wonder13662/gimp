@@ -26,7 +26,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.192. Semi-flatten](./90-04-0192-semi_flatten.md)
 
 [⬅️ 이전: 90.4.190. Script-Fu: New Guide by Percent](./90-04-0190-script_fu_new_guide_by_percent.md)
 
