@@ -7,6 +7,13 @@
 
 [16.7.40. 선택에 추가(Add alpha channel to selection) - 그림 90.1.6.9.7.a101](./16-07-40-add-alpha-channel-to-selection.md#90-01-06-09-07-a101)
 
+<a id="90-01-06-09-07-a111"></a>
+
+#### 영상 90.1.6.9.7.a111. `이미지 메뉴 바` → `레이어` → `투명도` → `선택에 추가` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d08a3c6d-65bd-486f-98bd-036176eae9f5"></video>
+
+[16.7.40. 선택에 추가(Add alpha channel to selection) - 영상 90.1.6.9.7.a111](./16-07-40-add-alpha-channel-to-selection.md#90-01-06-09-07-a111)
+
 ***
 
 ## 다른 페이지로 가기
