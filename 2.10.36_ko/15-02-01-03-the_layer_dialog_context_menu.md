@@ -3,7 +3,7 @@
 <a id="90-04-03-01-a1"></a>
 
 #### [그림 90.4.3.1.a1. `레이어 대화상자` → `탭 메뉴` → `컨텍스트 메뉴` (Windows) (우리말)](./90-04-0003-001-000-context_menu.md#90-04-03-01-a1)
-<img width="245" height="768" alt="90-04-03-01-a1" src="https://github.com/wonder13662/gimp/assets/15767104/98db3041-c639-486e-aee8-547ab4d998c1" />
+<img width="245" height="768" alt="90-04-03-01-a1" src="https://github.com/user-attachments/assets/36563ca2-dab7-443f-a6a4-5f3c100748b6" />
 
 [다른 운영체제와 언어의 `레이어 대화상자` → `탭 메뉴` → `컨텍스트 메뉴` 확인하기](./90-04-0003-001-000-context_menu.md#90-04-03-01-a2)
 
@@ -145,12 +145,17 @@
 
 <a id="15-02-01-03-s26"></a>
 
-## 26. 보이는 레이어 합치기(Merge visible layers)
-[16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-00-merge_visible_layers.md)를 참고하세요.
+## 26. 알파를 선택 영역으로(Alpha to Selection)
+[16.7.39. 알파를 선택 영역으로(Alpha to selection)](./16-07-39-alpha-to-selection.md)를 참고하세요.
 
 <a id="15-02-01-03-s27"></a>
 
-## 27. 이미지 평탄화하기(Flatten Image)
+## 27. 보이는 레이어 합치기(Merge visible layers)
+[16.6.25. 보이는 레이어 합치기(Merge visible layers)](./16-06-25-00-merge_visible_layers.md)를 참고하세요.
+
+<a id="15-02-01-03-s28"></a>
+
+## 28. 이미지 평탄화하기(Flatten Image)
 [16.6.26. 이미지 평탄화하기(Flatten image)](./16-06-26-flatten_image.md)를 참고하세요.
 
 ***

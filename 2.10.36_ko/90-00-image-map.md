@@ -1603,6 +1603,12 @@
 
 [90.4.191. 메타데이터 편집기(Metadata Editor)](./90-04-0191-metadata_editor.md)
 
+[90.4.192. Semi-flatten](./90-04-0192-semi_flatten.md)
+
+[90.4.193. 색상을 알파로(Color to Alpha)](./90-04-0193-color_to_alpha.md)
+
+[90.4.194. 임계 알파(Threshold Alpha)](./90-04-0194-threshold_alpha.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

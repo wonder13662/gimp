@@ -7,6 +7,13 @@
 
 [16.7.39. 알파를 선택 영역으로(Alpha to selection) - 그림 90.1.6.9.6.a101](./16-07-39-alpha-to-selection.md#90-01-06-09-06-a101)
 
+<a id="90-01-06-09-06-a111"></a>
+
+#### 영상 90.1.6.9.6.a111. `이미지 메뉴 바` → `레이어` → `투명도` → `알파를 선택 영역으로` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2a2b0767-f636-4124-88db-ce43fbf1f735"></video>
+
+[16.7.39. 알파를 선택 영역으로(Alpha to selection) - 영상 90.1.6.9.6.a111](./16-07-39-alpha-to-selection.md#90-01-06-09-06-a111)
+
 ***
 
 ## 다른 페이지로 가기

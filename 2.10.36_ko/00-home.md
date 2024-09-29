@@ -3982,6 +3982,22 @@
 
 [16.7.38. 임계 알파(Threshold alpha)](./16-07-38-00-threshold-alpha.md)
 
+[16.7.38.1. 명령 활성화하기(Activating the Command)](./16-07-38-01-activating_the_command.md)
+
+[16.7.38.2. `임계 알파` 대화상자 설명(Description of the Dialog Window)](./16-07-38-02-00-description_of_the_dialog_window.md)
+
+[16.7.38.2.1. 프리셋(Presets)](./16-07-38-02-01-presets.md)
+
+[16.7.38.2.2. 혼합 옵션(Blending Options)](./16-07-38-02-02-blending_options.md)
+
+[16.7.38.2.3. 미리보기(Preview)](./16-07-38-02-03-preview.md)
+
+[16.7.38.2.4. 보기 영역 분할(Preview)](./16-07-38-02-04-split_view.md)
+
+[16.7.38.2.5. 값(Value)](./16-07-38-02-05-value.md)
+
+[16.7.38.2.6. 고급 색상 옵션(Advanced Color Options)](./16-07-38-02-06-advanced_color_options.md)
+
 [16.7.39. 알파를 선택 영역으로(Alpha to selection)](./16-07-39-alpha-to-selection.md)
 
 [16.7.40. 선택에 추가(Add alpha channel to selection)](./16-07-40-add-alpha-channel-to-selection.md)
@@ -4199,6 +4215,18 @@
 [17.1. Introduction](./17-01-introduction.md)
 
 [17.2. 공통 특징(Common features)](./17-02-00-common-features.md)
+
+[17.2.1. 프리셋(Presets)](./17-02-01-presets.md)
+
+[17.2.2. 입력 타입(Input Type)](./17-02-02-input_type.md)
+
+[17.2.3. 잘라내기(Clipping)](./17-02-03-clipping.md)
+
+[17.2.4. 혼합 옵션(Blending Options)](./17-02-04-blending_options.md)
+
+[17.2.5. 미리보기(Preview)](./17-02-05-preview.md)
+
+[17.2.6. 나누어 보기(Split view)](./17-02-06-split_view.md)
 
 [17.3. 흐림 필터(Blur filters)](./17-03-00-blur-filters.md)
 
@@ -4598,6 +4626,8 @@
 
 [19. 용어집 - 배경색(Background Color)](./19-glossaryx-background_color.md)
 
+[19. 용어집 - 배경 레이어(Background Layer)](./19-glossaryx-background_layer.md)
+
 [19. 용어집 - 기준선(Baseline)](./19-glossaryx-baseline.md)
 
 [19. 용어집 - 베지에 곡선(Bézier-curves)](./19-glossaryx-bezier-curves.md)
@@ -4757,6 +4787,8 @@
 [19. 용어집 - 동작 변경키(Key modifier)](./19-glossaryx-key_modifiers.md)
 
 [19. 용어집 - 레이어(Layers)](./19-glossaryx-layer.md)
+
+[19. 용어집 - 레이어 마스크(Layer Mask)](./19-glossaryx-layer_mask.md)
 
 [19. 용어집 - 레이어 스택(Layer Stack)](./19-glossaryx-layer_stack.md)
 
@@ -6511,6 +6543,12 @@
 [90.4.190. Script-Fu: New Guide by Percent](./90-04-0190-script_fu_new_guide_by_percent.md)
 
 [90.4.191. 메타데이터 편집기(Metadata Editor)](./90-04-0191-metadata_editor.md)
+
+[90.4.192. Semi-flatten](./90-04-0192-semi_flatten.md)
+
+[90.4.193. 색상을 알파로(Color to Alpha)](./90-04-0193-color_to_alpha.md)
+
+[90.4.194. 임계 알파(Threshold Alpha)](./90-04-0194-threshold_alpha.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
