@@ -7,6 +7,13 @@
 
 [16.7.42. 선택 영역과 겹치기(Intersect alpha channel with selection) - 그림 90.1.6.9.9.a101](./16-07-42-intersect-alpha-channel-with-selection.md#90-01-06-09-09-a101)
 
+<a id="90-01-06-09-09-a111"></a>
+
+#### 영상 90.1.6.9.9.a111. `이미지 메뉴 바` → `레이어` → `투명도` → `선택 영역과 겹치기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/b91328b5-b33d-4a66-95e9-7bda570f795c"></video>
+
+[16.7.42. 선택 영역과 겹치기(Intersect alpha channel with selection) - 영상 90.1.6.9.9.a111](./16-07-42-intersect-alpha-channel-with-selection.md#90-01-06-09-09-a111)
+
 ***
 
 ## 다른 페이지로 가기
