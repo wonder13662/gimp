@@ -124,7 +124,7 @@
 
 [16.7.37. Semi flatten](./16-07-37-semi-flatten.md)
 
-[16.7.38. 임계 알파(Threshold alpha)](./16-07-38-threshold-alpha.md)
+[16.7.38. 임계 알파(Threshold alpha)](./16-07-38-00-threshold-alpha.md)
 
 [16.7.39. 알파를 선택 영역으로(Alpha to selection)](./16-07-39-alpha-to-selection.md)
 

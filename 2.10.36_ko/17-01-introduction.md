@@ -4,7 +4,7 @@
 ### [Home](./00-home.md)
 ### [Parent: parent-17-01-introduction.md](path-parent-17-01-introduction.md)
 ### [Prev: 16.12.11. User manual](./16-12-11-user-manual.md)
-### [Next: 17.2. Common features](./17-02-common-features.md)
+### [Next: 17.2. 공통 특징(Common features)](./17-02-00-common-features.md)
 
 ***
 

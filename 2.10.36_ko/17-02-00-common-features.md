@@ -1,4 +1,4 @@
-# 17.2. Common features
+# 17.2. 공통 특징(Common features)
 
 ### [Home](./00-home.md)
 ### [Parent: 17. Filters](./17-00-filters.md)

@@ -24,7 +24,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.7.38. 임계 알파(Threshold alpha)](./16-07-38-threshold-alpha.md)
+[➡️ 다음: 16.7.38. 임계 알파(Threshold alpha)](./16-07-38-00-threshold-alpha.md)
 
 [⬅️ 이전: 16.7.36. 색상을 알파로(Color to alpha)](./16-07-36-color-to-alpha.md)
 
@@ -34,4 +34,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-filter-semi-flatten.html)
+[원문](https://docs.gimp.org/2.10/ko/gimp-layer-alpha-semi-flatten.html)

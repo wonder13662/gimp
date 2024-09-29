@@ -20,6 +20,11 @@
 #### 그림 90.4.192.a104. `Semi-flatten` 대화상자 (Mac) (우리말)
 <img width="371" height="273" alt="90-04-192-a104" src="https://github.com/user-attachments/assets/18447572-c226-4d69-ba3b-cbb07ba4cab0" />
 
+<a id="90-04-192-a111"></a>
+
+#### 영상 90.4.192.a111. `Semi-flatten` 대화상자 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/9b4b2634-cd71-4f9a-9706-786da8536bb3"></video>
+
 ***
 
 ## 다른 페이지로 가기

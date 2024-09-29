@@ -1966,7 +1966,7 @@ module.exports = {
         '16.7.37. Semi flatten'
       ],
       [
-        '16-07-38-threshold-alpha.md', 
+        '16-07-38-00-threshold-alpha.md', 
         '16.7.38. 임계 알파(Threshold alpha)'
       ],
       [
@@ -2379,8 +2379,8 @@ module.exports = {
         '17.1. Introduction'
       ],
       [
-        '17-02-common-features.md', 
-        '17.2. Common features'
+        '17-02-00-common-features.md', 
+        '17.2. 공통 특징(Common features)'
       ],
       [
         '17-03-00-blur-filters.md', 
