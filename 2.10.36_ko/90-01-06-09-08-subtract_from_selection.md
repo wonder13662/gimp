@@ -7,6 +7,13 @@
 
 [16.7.41. 선택 영역에서 빼기(Subtract from selection) - 그림 90.1.6.9.8.a101](./16-07-41-subtract-from-selection.md#90-01-06-09-08-a101)
 
+<a id="90-01-06-09-08-a111"></a>
+
+#### 영상 90.1.6.9.8.a111. `이미지 메뉴 바` → `레이어` → `투명도` → `선택 영역에서 빼기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/f3e4730d-78e8-43ba-960e-0488b1529ce5"></video>
+
+[16.7.41. 선택 영역에서 빼기(Subtract from selection) - 영상 90.1.6.9.8.a111](./16-07-41-subtract-from-selection.md#90-01-06-09-08-a111)
+
 ***
 
 ## 다른 페이지로 가기

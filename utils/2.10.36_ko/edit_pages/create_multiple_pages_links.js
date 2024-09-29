@@ -20,7 +20,7 @@ const {
 const doAsyncJob = async () => {
   try {
     // 1-1. 시작 페이지 이름
-    const head = '16-07-40-add-alpha-channel-to-selection.md'
+    const head = '16-07-41-subtract-from-selection.md'
     // const head = '90-04-0191-metadata_editor.md'
     // const head = '16-05-27-show-statusbar.md'
     // const head = '16-06-00-the-image-menu.md'
