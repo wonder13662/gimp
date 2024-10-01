@@ -1,5 +1,5 @@
 # 15.4.3.2.2.10. 원본 없는 항목 제거(Remove dangling entries)
-[15.4.3.2.1.4. 미리 보기 다시 만들기(Recreate Preview) - 3. 찾을 수 없는 이미지 삭제](./15-04-03-02-01-04-recreate_preview.md#15-04-03-02-01-04-s3)을 참고해주세요.
+[15.4.3.2.1.4. 미리보기 다시 만들기(Recreate Preview) - 3. 찾을 수 없는 이미지 삭제](./15-04-03-02-01-04-recreate_preview.md#15-04-03-02-01-04-s3)을 참고해주세요.
 
 <a id="90-04-25-a150"></a>
 
@@ -27,7 +27,7 @@
 
 [➡️ 다음: 15.4.4. 양식 대화상자(Templates dialog)](./15-04-04-00-templates-dialog.md)
 
-[⬅️ 이전: 15.4.3.2.2.9. 모든 미리 보기 다시 불러오기(Reload all previews)](./15-04-03-02-02-09-reload_all_previews.md)
+[⬅️ 이전: 15.4.3.2.2.9. 모든 미리보기 다시 불러오기(Reload all previews)](./15-04-03-02-02-09-reload_all_previews.md)
 
 [⬆️ 위: 15.4.3.2.2. 문서 이력 컨텍스트 메뉴(Document History Context Menu)](./15-04-03-02-02-00-document_history_context_menu.md)
 

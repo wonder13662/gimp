@@ -92,11 +92,11 @@
 
 이 체크박스가 체크되면 색상 프로필(color profile)이 내보내는 `WebP` 이미지에 저장됩니다.
 
-## 미리 보기 저장(Save thumbnail)
+## 미리보기 저장(Save thumbnail)
 
 <a id="90-04-47-a127"></a>
 
-#### [그림 90.4.47.a127. `이미지를 WebP로 내보내기` 대화상자 - 미리 보기 저장 (Windows) (우리말)](./90-04-0047-export_image_as_webp.md#90-04-47-a127)
+#### [그림 90.4.47.a127. `이미지를 WebP로 내보내기` 대화상자 - 미리보기 저장 (Windows) (우리말)](./90-04-0047-export_image_as_webp.md#90-04-47-a127)
 ![90-04-47-a127](https://github.com/wonder13662/gimp/assets/15767104/efa1202d-04f8-473b-a9e4-bfeb43522d21)
 
 이 체크박스를 체크하면 내보내는 `WebP` 이미지에 섬네일이 저장됩니다.

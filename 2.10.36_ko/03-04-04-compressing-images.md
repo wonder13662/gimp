@@ -88,7 +88,7 @@ GIMP(김프)에서 지원되는 확장자는 사용자가 설치한 라이브러
 ## 5. "이미지를 JPEG로 내보내기" 대화상자
 "이미지를 JPEG로 내보내기" 대화상자는 좋은 화질을 유지하면서 메모리 크기를 줄이는 기본값을 사용합니다. 
 
-대화상자의 `이미지 창에 미리 보기 표시(Show preview in image window)` 체크박스를 체크하면 화질을 바꿀때마다 변하는 이미지의 화질을 직접 확인할 수 있습니다.
+대화상자의 `이미지 창에 미리보기 표시(Show preview in image window)` 체크박스를 체크하면 화질을 바꿀때마다 변하는 이미지의 화질을 직접 확인할 수 있습니다.
 
 <a id="90-04-33-a101"></a>
 
@@ -99,10 +99,10 @@ GIMP(김프)에서 지원되는 확장자는 사용자가 설치한 라이브러
 
 <a id="90-04-33-a201"></a>
 
-#### [영상 90.4.33.a201. `이미지 창에 미리 보기 표시(Show preview in image window)`](./90-04-0033-export_image_as_jpeg.md#90-04-33-a201)
+#### [영상 90.4.33.a201. `이미지 창에 미리보기 표시(Show preview in image window)`](./90-04-0033-export_image_as_jpeg.md#90-04-33-a201)
 <video controls="controls" width="960" height="666" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a651f208-7406-43e3-bcf5-b89629dbf51c"></video>
 
-`이미지 창에 미리 보기 표시(Show preview in image window)`를 켜고 화질 변화 및 파일 크기를 확인할 수 있습니다
+`이미지 창에 미리보기 표시(Show preview in image window)`를 켜고 화질 변화 및 파일 크기를 확인할 수 있습니다
 
 <a id="03-04-04-s6"></a>
 

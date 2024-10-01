@@ -1609,6 +1609,8 @@
 
 [90.4.194. 임계 알파(Threshold Alpha)](./90-04-0194-threshold_alpha.md)
 
+[90.4.195. 오프셋(Offset)](./90-04-0195-offset.md)
+
 <a id="90-s5"></a>
 
 ## [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)

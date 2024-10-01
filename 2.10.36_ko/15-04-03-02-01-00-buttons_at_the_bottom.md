@@ -15,7 +15,7 @@
 
 [15.4.3.2.1.3. 기록 지우기(Clear history)](./15-04-03-02-01-03-clear_history.md)
 
-[15.4.3.2.1.4. 미리 보기 다시 만들기(Recreate Preview)](./15-04-03-02-01-04-recreate_preview.md)
+[15.4.3.2.1.4. 미리보기 다시 만들기(Recreate Preview)](./15-04-03-02-01-04-recreate_preview.md)
 
 ***
 

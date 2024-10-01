@@ -103,7 +103,7 @@
 
 <a id="90-04-33-a143"></a>
 
-#### 그림 90.4.33.a143. '이미지를 JPEG로 내보내기' 대화상자 - 이미지 창에 미리 보기 표시 (Windows) (우리말)
+#### 그림 90.4.33.a143. '이미지를 JPEG로 내보내기' 대화상자 - 이미지 창에 미리보기 표시 (Windows) (우리말)
 ![90-04-33-a143](https://github.com/wonder13662/gimp/assets/15767104/a94cfd81-681b-4729-89b3-71155d2707b1)
 
 [6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a143](./06-01-02-03-export_image_as_jpeg.md#90-04-33-a143)
@@ -117,7 +117,7 @@
 
 <a id="90-04-33-a145"></a>
 
-#### 그림 90.4.33.a145. '이미지를 JPEG로 내보내기' 대화상자 - 미리 보기 저장 (Windows) (우리말)
+#### 그림 90.4.33.a145. '이미지를 JPEG로 내보내기' 대화상자 - 미리보기 저장 (Windows) (우리말)
 ![90-04-33-a145](https://github.com/wonder13662/gimp/assets/15767104/f7f8b955-cbac-41db-9603-0144f9b79c6d)
 
 [6.1.2.3. 이미지를 JPEG로 내보내기 - 그림 90.4.33.a145](./06-01-02-03-export_image_as_jpeg.md#90-04-33-a145)
@@ -187,7 +187,7 @@
 
 <a id="90-04-33-a201"></a>
 
-#### 영상 90.4.33.a201. `이미지 창에 미리 보기 표시(Show preview in image window)`
+#### 영상 90.4.33.a201. `이미지 창에 미리보기 표시(Show preview in image window)`
 <video controls="controls" width="960" height="666" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/a651f208-7406-43e3-bcf5-b89629dbf51c"></video>
 
 [3.4.4. 이미지 압축하기 - 영상 90.4.33.a201](./03-04-04-compressing-images.md#90-04-33-a201)

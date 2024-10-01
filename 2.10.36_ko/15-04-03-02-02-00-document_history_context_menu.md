@@ -50,9 +50,9 @@
 
 [15.4.3.2.2.7. 기록 지우기(Clear History)](./15-04-03-02-02-07-clear_history.md)
 
-[15.4.3.2.2.8. 미리 보기 다시 만들기(Recreate Preview)](./15-04-03-02-02-08-recreate_preview.md)
+[15.4.3.2.2.8. 미리보기 다시 만들기(Recreate Preview)](./15-04-03-02-02-08-recreate_preview.md)
 
-[15.4.3.2.2.9. 모든 미리 보기 다시 불러오기(Reload all previews)](./15-04-03-02-02-09-reload_all_previews.md)
+[15.4.3.2.2.9. 모든 미리보기 다시 불러오기(Reload all previews)](./15-04-03-02-02-09-reload_all_previews.md)
 
 [15.4.3.2.2.10. 원본 없는 항목 제거(Remove dangling entries)](./15-04-03-02-02-10-remove_dangling_entries.md)
 
@@ -62,7 +62,7 @@
 
 [➡️ 다음: 15.4.3.2.2.1. 이미지 열기(Open Image)](./15-04-03-02-02-01-open_image.md)
 
-[⬅️ 이전: 15.4.3.2.1.4. 미리 보기 다시 만들기(Recreate Preview)](./15-04-03-02-01-04-recreate_preview.md)
+[⬅️ 이전: 15.4.3.2.1.4. 미리보기 다시 만들기(Recreate Preview)](./15-04-03-02-01-04-recreate_preview.md)
 
 [⬆️ 위: 15.4.3.2. 문서 이력 대화상자 사용하기(Using the Document History dialog)](./15-04-03-02-00-using_the_document_history_dialog.md)
 

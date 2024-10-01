@@ -211,7 +211,7 @@
 
 [➡️ 다음: 90.5.1. 타이틀 바 (Title Bar)](./90-05-01-title_bar.md)
 
-[⬅️ 이전: 90.4.194. 임계 알파(Threshold Alpha)](./90-04-0194-threshold_alpha.md)
+[⬅️ 이전: 90.4.195. 오프셋(Offset)](./90-04-0195-offset.md)
 
 [⬆️ 위: 90. 이미지 맵](./90-00-image-map.md)
 

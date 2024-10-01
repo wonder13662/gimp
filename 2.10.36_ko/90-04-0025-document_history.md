@@ -124,24 +124,24 @@
 
 <a id="90-04-25-a125"></a>
 
-#### 그림 90.4.25.a125. 문서 이력 대화상자 → `아래쪽 버튼들` → `미리 보기 다시 만들기` (Windows) (우리말)
+#### 그림 90.4.25.a125. 문서 이력 대화상자 → `아래쪽 버튼들` → `미리보기 다시 만들기` (Windows) (우리말)
 <img width="200" height="170" alt="90-04-25-a125" src="https://github.com/user-attachments/assets/fe193856-401e-4c54-9f6e-d251b241479f" />
 
-[15.4.3.2.1.4. 미리 보기 다시 만들기(Recreate Preview) - 그림 90.4.25.a125](./15-04-03-02-01-04-recreate_preview.md#90-04-25-a125)
+[15.4.3.2.1.4. 미리보기 다시 만들기(Recreate Preview) - 그림 90.4.25.a125](./15-04-03-02-01-04-recreate_preview.md#90-04-25-a125)
 
 <a id="90-04-25-a125-01"></a>
 
-#### 영상 90.4.25.a125.1. 문서 이력 대화상자 → `아래쪽 버튼들` → `미리 보기 다시 만들기` (Windows) (우리말)
+#### 영상 90.4.25.a125.1. 문서 이력 대화상자 → `아래쪽 버튼들` → `미리보기 다시 만들기` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d04bfbcd-1ba2-4e96-b85a-c02bc1b9ab20"></video>
 
-[15.4.3.2.1.4. 미리 보기 다시 만들기(Recreate Preview) - 영상 90.4.25.a125.1](./15-04-03-02-01-04-recreate_preview.md#90-04-25-a125-01)
+[15.4.3.2.1.4. 미리보기 다시 만들기(Recreate Preview) - 영상 90.4.25.a125.1](./15-04-03-02-01-04-recreate_preview.md#90-04-25-a125-01)
 
 <a id="90-04-25-a125-02"></a>
 
-#### 영상 90.4.25.a125.2. 문서 이력 대화상자 → `아래쪽 버튼들` → `미리 보기 다시 만들기`: Ctrl(⌘) 키 - 찾을 수 없는 모든 이미지 삭제 (Windows) (우리말)
+#### 영상 90.4.25.a125.2. 문서 이력 대화상자 → `아래쪽 버튼들` → `미리보기 다시 만들기`: Ctrl(⌘) 키 - 찾을 수 없는 모든 이미지 삭제 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/72e8bfc2-f2b0-4099-b3d7-e9b22fd100f9"></video>
 
-[15.4.3.2.1.4. 미리 보기 다시 만들기(Recreate Preview) - 영상 90.4.25.a125.2](./15-04-03-02-01-04-recreate_preview.md#90-04-25-a125-02)
+[15.4.3.2.1.4. 미리보기 다시 만들기(Recreate Preview) - 영상 90.4.25.a125.2](./15-04-03-02-01-04-recreate_preview.md#90-04-25-a125-02)
 
 <a id="90-04-25-a131"></a>
 
@@ -264,31 +264,31 @@
 
 <a id="90-04-25-a148"></a>
 
-#### 그림 90.4.25.a148. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `미리 보기 다시 만들기` (Windows)
+#### 그림 90.4.25.a148. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `미리보기 다시 만들기` (Windows)
 <img width="845" height="418" alt="90-04-25-a148" src="https://github.com/user-attachments/assets/81fb3a28-6911-47e2-b676-db9fc46b04d0" />
 
-[15.4.3.2.2.8. 미리 보기 다시 만들기(Recreate Preview) - 그림 90.4.25.a148](./15-04-03-02-02-08-recreate_preview.md#90-04-25-a148)
+[15.4.3.2.2.8. 미리보기 다시 만들기(Recreate Preview) - 그림 90.4.25.a148](./15-04-03-02-02-08-recreate_preview.md#90-04-25-a148)
 
 <a id="90-04-25-a148-01"></a>
 
-#### 영상 90.4.25.a148.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `미리 보기 다시 만들기` (Windows) (우리말)
+#### 영상 90.4.25.a148.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `미리보기 다시 만들기` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/8068574a-244d-45c7-82db-9e63a6abca70"></video>
 
-[15.4.3.2.2.8. 미리 보기 다시 만들기(Recreate Preview) - 영상 90.4.25.a148.1](./15-04-03-02-02-08-recreate_preview.md#90-04-25-a148-01)
+[15.4.3.2.2.8. 미리보기 다시 만들기(Recreate Preview) - 영상 90.4.25.a148.1](./15-04-03-02-02-08-recreate_preview.md#90-04-25-a148-01)
 
 <a id="90-04-25-a149"></a>
 
-#### 그림 90.4.25.a149. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `모든 미리 보기 다시 불러오기` (Windows)
+#### 그림 90.4.25.a149. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `모든 미리보기 다시 불러오기` (Windows)
 <img width="845" height="418" alt="90-04-25-a149" src="https://github.com/user-attachments/assets/de5a8d65-dbfe-4393-9a13-4604c7052996" />
 
-[15.4.3.2.2.9. 모든 미리 보기 다시 불러오기(Reload all previews) - 그림 90.4.25.a149](./15-04-03-02-02-09-reload_all_previews.md#90-04-25-a149)
+[15.4.3.2.2.9. 모든 미리보기 다시 불러오기(Reload all previews) - 그림 90.4.25.a149](./15-04-03-02-02-09-reload_all_previews.md#90-04-25-a149)
 
 <a id="90-04-25-a149-01"></a>
 
-#### 영상 90.4.25.a149.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `모든 미리 보기 다시 불러오기`: 작동하지 않음 (Windows) (우리말)
+#### 영상 90.4.25.a149.1. 문서 이력 대화상자 → `탭 메뉴` → `문서 메뉴` → `모든 미리보기 다시 불러오기`: 작동하지 않음 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e99d0f40-03df-4600-a9d1-74365d19926f"></video>
 
-[15.4.3.2.2.9. 모든 미리 보기 다시 불러오기(Reload all previews) - 영상 90.4.25.a149.1](./15-04-03-02-02-09-reload_all_previews.md#90-04-25-a149-01)
+[15.4.3.2.2.9. 모든 미리보기 다시 불러오기(Reload all previews) - 영상 90.4.25.a149.1](./15-04-03-02-02-09-reload_all_previews.md#90-04-25-a149-01)
 
 <a id="90-04-25-a150"></a>
 
@@ -426,24 +426,24 @@
 
 <a id="90-04-25-a188"></a>
 
-#### 그림 90.4.25.a188. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `미리 보기 다시 만들기` (Windows)
+#### 그림 90.4.25.a188. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `미리보기 다시 만들기` (Windows)
 <img width="457" height="377" alt="90-04-25-a188" src="https://github.com/user-attachments/assets/7802cafa-33bd-45c6-9c2d-c84c7ff44666" />
 
-[15.4.3.2.2.8. 미리 보기 다시 만들기(Recreate Preview) - 그림 90.4.25.a188](./15-04-03-02-02-08-recreate_preview.md#90-04-25-a188)
+[15.4.3.2.2.8. 미리보기 다시 만들기(Recreate Preview) - 그림 90.4.25.a188](./15-04-03-02-02-08-recreate_preview.md#90-04-25-a188)
 
 <a id="90-04-25-a188-01"></a>
 
-#### 영상 90.4.25.a188.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `미리 보기 다시 만들기` (Windows) (우리말)
+#### 영상 90.4.25.a188.1. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `미리보기 다시 만들기` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/caf4097b-a1dd-4a90-9a26-b6b301c6e5c2"></video>
 
-[15.4.3.2.2.8. 미리 보기 다시 만들기(Recreate Preview) - 영상 90.4.25.a188.1](./15-04-03-02-02-08-recreate_preview.md#90-04-25-a188-01)
+[15.4.3.2.2.8. 미리보기 다시 만들기(Recreate Preview) - 영상 90.4.25.a188.1](./15-04-03-02-02-08-recreate_preview.md#90-04-25-a188-01)
 
 <a id="90-04-25-a189"></a>
 
-#### 그림 90.4.25.a189. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `모든 미리 보기 다시 불러오기` (Windows)
+#### 그림 90.4.25.a189. 문서 이력 대화상자 → `문서 이력 컨텍스트 메뉴` → `모든 미리보기 다시 불러오기` (Windows)
 <img width="457" height="377" alt="90-04-25-a189" src="https://github.com/user-attachments/assets/8760687b-04ac-453f-bc70-65e4e842347c" />
 
-[15.4.3.2.2.9. 모든 미리 보기 다시 불러오기(Reload all previews) - 그림 90.4.25.a189](./15-04-03-02-02-09-reload_all_previews.md#90-04-25-a189)
+[15.4.3.2.2.9. 모든 미리보기 다시 불러오기(Reload all previews) - 그림 90.4.25.a189](./15-04-03-02-02-09-reload_all_previews.md#90-04-25-a189)
 
 <a id="90-04-25-a190"></a>
 

@@ -103,11 +103,12 @@
 
 [16.7.38.2.6. 고급 색상 옵션(Advanced Color Options) - 그림 90.4.194.a161](./16-07-38-02-06-advanced_color_options.md#90-04-194-a161)
 
+
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
+[➡️ 다음: 90.4.195. 오프셋(Offset)](./90-04-0195-offset.md)
 
 [⬅️ 이전: 90.4.193. 색상을 알파로(Color to Alpha)](./90-04-0193-color_to_alpha.md)
 

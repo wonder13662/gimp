@@ -416,7 +416,7 @@
 
 [14.4.1.1.4. 잘라내기(Clipping)](./14-04-01-01-04-clipping.md)
 
-[14.4.1.1.5. 이미지 미리 보기 표시(Show image preview)](./14-04-01-01-05-show_image_preview.md)
+[14.4.1.1.5. 이미지 미리보기 표시(Show image preview)](./14-04-01-01-05-show_image_preview.md)
 
 [14.4.1.1.6. 합성 미리보기(Composited preview)](./14-04-01-01-06-composited_preview.md)
 

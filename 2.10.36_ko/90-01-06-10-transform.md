@@ -91,12 +91,26 @@
 
 [16.7.46. 시계방향으로 90도 회전(Rotate 90° clockwise) - 그림 90.1.6.10.a231](./16-07-46-rotate-90-clockwise.md#90-01-06-10-a231)
 
+<a id="90-01-06-10-a232"></a>
+
+#### 영상 90.1.6.10.a232. `이미지 메뉴 바` → `레이어` → `변형` → `시계방향으로 90도 회전` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a7b7ccb1-01ad-45d7-b3c0-a6770757355a"></video>
+
+[16.7.46. 시계방향으로 90도 회전(Rotate 90° clockwise) - 영상 90.1.6.10.a232](./16-07-46-rotate-90-clockwise.md#90-01-06-10-a232)
+
 <a id="90-01-06-10-a241"></a>
 
 #### 그림 90.1.6.10.a241. `이미지 메뉴 바` → `레이어` → `변형` → `반시계방향으로 90도 회전` (Windows)
 <img width="642" height="308" alt="90-01-06-10-a241" src="https://github.com/user-attachments/assets/41a74051-ab06-4bdf-b811-181c3922344a" />
 
 [16.7.47. 반시계방향으로 90도 회전(Rotate 90° counter-clockwise) - 그림 90.1.6.10.a241](./16-07-47-rotate-90-counter-clockwise.md#90-01-06-10-a241)
+
+<a id="90-01-06-10-a242"></a>
+
+#### 영상 90.1.6.10.a242. `이미지 메뉴 바` → `레이어` → `변형` → `반시계방향으로 90도 회전` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/9259e13a-0fa7-4003-806d-f14879fab1aa"></video>
+
+[16.7.47. 반시계방향으로 90도 회전(Rotate 90° counter-clockwise) - 영상 90.1.6.10.a242](./16-07-47-rotate-90-counter-clockwise.md#90-01-06-10-a242)
 
 <a id="90-01-06-10-a251"></a>
 
@@ -105,6 +119,13 @@
 
 [16.7.48. 180도 회전(Rotate 180°) - 그림 90.1.6.10.a251](./16-07-48-rotate-180.md#90-01-06-10-a251)
 
+<a id="90-01-06-10-a252"></a>
+
+#### 영상 90.1.6.10.a252. `이미지 메뉴 바` → `레이어` → `변형` → `180도 회전` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/df37d498-ea91-4ef3-93d3-c07f7cb08f88"></video>
+
+[16.7.48. 180도 회전(Rotate 180°) - 영상 90.1.6.10.a252](./16-07-48-rotate-180.md#90-01-06-10-a252)
+
 <a id="90-01-06-10-a261"></a>
 
 #### 그림 90.1.6.10.a261. `이미지 메뉴 바` → `레이어` → `변형` → `임의 각도 회전` (Windows)
@@ -112,12 +133,26 @@
 
 [16.7.49. 임의 각도 회전(Arbitrary rotation) - 그림 90.1.6.10.a261](./16-07-49-arbitrary-rotation.md#90-01-06-10-a261)
 
+<a id="90-01-06-10-a262"></a>
+
+#### 그림 90.1.6.10.a262. `이미지 메뉴 바` → `레이어` → `변형` → `임의 각도 회전` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/372024e1-8b2c-4afa-9e81-a8cea185faa0"></video>
+
+[16.7.49. 임의 각도 회전(Arbitrary rotation) - 그림 90.1.6.10.a262](./16-07-49-arbitrary-rotation.md#90-01-06-10-a262)
+
 <a id="90-01-06-10-a271"></a>
 
 #### 그림 90.1.6.10.a271. `이미지 메뉴 바` → `레이어` → `변형` → `오프셋` (Windows)
 <img width="642" height="308" alt="90-01-06-10-a271" src="https://github.com/user-attachments/assets/951be8b2-227a-4f5f-a7c3-7e53fefdee0f" />
 
 [16.7.50. 오프셋(Offset) - 그림 90.1.6.10.a271](./16-07-50-offset.md#90-01-06-10-a271)
+
+<a id="90-01-06-10-a272"></a>
+
+#### 영상 90.1.6.10.a272. `이미지 메뉴 바` → `레이어` → `변형` → `오프셋` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/997d78ba-7f76-4b00-9342-cc1f04a332ff"></video>
+
+[16.7.50.1. 명령 활성화하기(Activating the Command) - 영상 90.1.6.10.a272](./16-07-50-01-activating_the_command.md#90-01-06-10-a272)
 
 ***
 

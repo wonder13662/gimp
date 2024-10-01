@@ -1468,7 +1468,7 @@
 
 [14.4.1.1.4. 잘라내기(Clipping)](./14-04-01-01-04-clipping.md)
 
-[14.4.1.1.5. 이미지 미리 보기 표시(Show image preview)](./14-04-01-01-05-show_image_preview.md)
+[14.4.1.1.5. 이미지 미리보기 표시(Show image preview)](./14-04-01-01-05-show_image_preview.md)
 
 [14.4.1.1.6. 합성 미리보기(Composited preview)](./14-04-01-01-06-composited_preview.md)
 
@@ -2582,7 +2582,7 @@
 
 [15.4.3.2.1.3. 기록 지우기(Clear history)](./15-04-03-02-01-03-clear_history.md)
 
-[15.4.3.2.1.4. 미리 보기 다시 만들기(Recreate Preview)](./15-04-03-02-01-04-recreate_preview.md)
+[15.4.3.2.1.4. 미리보기 다시 만들기(Recreate Preview)](./15-04-03-02-01-04-recreate_preview.md)
 
 [15.4.3.2.2. 문서 이력 컨텍스트 메뉴(Document History Context Menu)](./15-04-03-02-02-00-document_history_context_menu.md)
 
@@ -2600,9 +2600,9 @@
 
 [15.4.3.2.2.7. 기록 지우기(Clear History)](./15-04-03-02-02-07-clear_history.md)
 
-[15.4.3.2.2.8. 미리 보기 다시 만들기(Recreate Preview)](./15-04-03-02-02-08-recreate_preview.md)
+[15.4.3.2.2.8. 미리보기 다시 만들기(Recreate Preview)](./15-04-03-02-02-08-recreate_preview.md)
 
-[15.4.3.2.2.9. 모든 미리 보기 다시 불러오기(Reload all previews)](./15-04-03-02-02-09-reload_all_previews.md)
+[15.4.3.2.2.9. 모든 미리보기 다시 불러오기(Reload all previews)](./15-04-03-02-02-09-reload_all_previews.md)
 
 [15.4.3.2.2.10. 원본 없는 항목 제거(Remove dangling entries)](./15-04-03-02-02-10-remove_dangling_entries.md)
 
@@ -4226,7 +4226,7 @@
 
 [17.2.5. 미리보기(Preview)](./17-02-05-preview.md)
 
-[17.2.6. 나누어 보기(Split view)](./17-02-06-split_view.md)
+[17.2.6. 보기 영역 분할(Split view)](./17-02-06-split_view.md)
 
 [17.3. 흐림 필터(Blur filters)](./17-03-00-blur-filters.md)
 
@@ -6549,6 +6549,8 @@
 [90.4.193. 색상을 알파로(Color to Alpha)](./90-04-0193-color_to_alpha.md)
 
 [90.4.194. 임계 알파(Threshold Alpha)](./90-04-0194-threshold_alpha.md)
+
+[90.4.195. 오프셋(Offset)](./90-04-0195-offset.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
