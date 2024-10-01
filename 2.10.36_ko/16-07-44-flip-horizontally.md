@@ -15,5 +15,5 @@
 
 <a id="90-01-06-10-a212"></a>
 
-#### [영상 90.1.6.10.a212. `이미지 메뉴 바` → `레이어` → `변형` → `수평 뒤집기` (Windows)](./90-01-06-10-transform.md#90-01-06-10-a212)
+#### [영상 90.1.6.10.a212. `이미지 메뉴 바` → `레이어` → `변형` → `수평 뒤집기` (Windows) (우리말)](./90-01-06-10-transform.md#90-01-06-10-a212)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7e7648be-a552-4ec6-ac60-084f541a0483"></video>

@@ -65,7 +65,7 @@
 
 <a id="90-01-06-10-a212"></a>
 
-#### 영상 90.1.6.10.a212. `이미지 메뉴 바` → `레이어` → `변형` → `수평 뒤집기` (Windows)
+#### 영상 90.1.6.10.a212. `이미지 메뉴 바` → `레이어` → `변형` → `수평 뒤집기` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7e7648be-a552-4ec6-ac60-084f541a0483"></video>
 
 [16.7.44. 수평 뒤집기(Flip horizontally) - 영상 90.1.6.10.a212](./16-07-44-flip-horizontally.md#90-01-06-10-a212)
@@ -76,6 +76,13 @@
 <img width="642" height="308" alt="90-01-06-10-a221" src="https://github.com/user-attachments/assets/7aba2778-797b-45e7-a19b-6cd2486f0a34" />
 
 [16.7.45. 수직 뒤집기(Flip vertically) - 그림 90.1.6.10.a221](./16-07-45-flip-vertically.md#90-01-06-10-a221)
+
+<a id="90-01-06-10-a222"></a>
+
+#### 영상 90.1.6.10.a222. `이미지 메뉴 바` → `레이어` → `변형` → `수직 뒤집기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/5e7d31da-446f-4ed3-8de4-246c713430c0"></video>
+
+[16.7.45. 수직 뒤집기(Flip vertically) - 영상 90.1.6.10.a222](./16-07-45-flip-vertically.md#90-01-06-10-a222)
 
 <a id="90-01-06-10-a231"></a>
 
