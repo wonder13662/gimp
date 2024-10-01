@@ -140,15 +140,15 @@
 
 [16.7.45. 수직 뒤집기(Flip vertically)](./16-07-45-flip-vertically.md)
 
-[16.7.46. Rotate 90° clockwise](./16-07-46-rotate-90-clockwise.md)
+[16.7.46. 시계방향으로 90도 회전(Rotate 90° clockwise)](./16-07-46-rotate-90-clockwise.md)
 
-[16.7.47. Rotate 90° counter-clockwise](./16-07-47-rotate-90-counter-clockwise.md)
+[16.7.47. 반시계방향으로 90도 회전(Rotate 90° counter-clockwise)](./16-07-47-rotate-90-counter-clockwise.md)
 
-[16.7.48. Rotate 180°](./16-07-48-rotate-180.md)
+[16.7.48. 180도 회전(Rotate 180°)](./16-07-48-rotate-180.md)
 
 [16.7.49. 임의 각도 회전(Arbitrary rotation)](./16-07-49-arbitrary-rotation.md)
 
-[16.7.50. Offset](./16-07-50-offset.md)
+[16.7.50. 오프셋(Offset)](./16-07-50-offset.md)
 
 [16.7.51. 레이어 경계 크기(Layer boundary size)](./16-07-51-layer_boundary_size.md)
 

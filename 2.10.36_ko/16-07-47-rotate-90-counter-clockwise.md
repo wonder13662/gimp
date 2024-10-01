@@ -1,6 +1,6 @@
-# 16.7.47. Rotate 90° counter-clockwise
+# 16.7.47. 반시계방향으로 90도 회전(Rotate 90° counter-clockwise)
 
-### [Home](./00-home.md)
-### [Parent: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
-### [Prev: 16.7.46. Rotate 90° clockwise](./16-07-46-rotate-90-clockwise.md)
-### [Next: 16.7.48. Rotate 180°](./16-07-48-rotate-180.md)
+<a id="90-01-06-10-a241"></a>
+
+#### [그림 90.1.6.10.a241. `이미지 메뉴 바` → `레이어` → `변형` → `반시계방향으로 90도 회전` (Windows)](./90-01-06-10-transform.md#90-01-06-10-a241)
+<img width="642" height="308" alt="90-01-06-10-a241" src="https://github.com/user-attachments/assets/41a74051-ab06-4bdf-b811-181c3922344a" />
