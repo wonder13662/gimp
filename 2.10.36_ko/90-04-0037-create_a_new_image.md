@@ -243,7 +243,7 @@
 ## 다른 페이지로 가기
 [➡️ 다음: 90.4.38. 이미지 열기(Open Image)](./90-04-0038-open_image.md)
 
-[⬅️ 이전: 90.4.36. 레이어 크기 조정(Scale Layer…)](./90-04-0036-scale_layer.md)
+[⬅️ 이전: 90.4.36. 레이어 크기 바꾸기(Scale Layer)](./90-04-0036-scale_layer.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-0000-dialogs.md)
 

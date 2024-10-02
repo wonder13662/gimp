@@ -20,14 +20,14 @@ const {
 const doAsyncJob = async () => {
   try {
     // 1-1. 시작 페이지 이름
-    const head = '16-07-52-layer_to_image_size.md'
+    // const head = '16-07-53-00-scale_layer.md'
     // const head = '90-10-93-01-02-fn_down_arrow.md'
     // const head = '16-05-27-show-statusbar.md'
     // const head = '16-07-00-the-layer-menu.md'
-    // const head = '16-00-menus.md'
+    const head = '16-00-menus.md'
     // const head = '90-10-00-keyboard_shortcut.md'
     // 1-2. 종료 페이지 이름
-    // const tail = '16-07-51-02-04-fill_with.md'
+    // const tail = '16-07-53-02-02-quality.md'
     // const tail = '16-06-09-05-example.md'
     // const tail = '16-06-17-03-whats_canvas_size_useful_for.md'
     // const tail = '90-05-00-image_window.md'

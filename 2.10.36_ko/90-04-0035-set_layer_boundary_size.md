@@ -123,7 +123,7 @@
 ***
 
 ## 다른 페이지로 가기
-[➡️ 다음: 90.4.36. 레이어 크기 조정(Scale Layer…)](./90-04-0036-scale_layer.md)
+[➡️ 다음: 90.4.36. 레이어 크기 바꾸기(Scale Layer)](./90-04-0036-scale_layer.md)
 
 [⬅️ 이전: 90.4.34. 이미지 내보내기(Export Image)](./90-04-0034-export_image.md)
 

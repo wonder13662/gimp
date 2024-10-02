@@ -1261,7 +1261,7 @@
 
 [90.4.35. 레이어 경계 크기 지정(Set Layer Boundary Size)](./90-04-0035-set_layer_boundary_size.md)
 
-[90.4.36. 레이어 크기 조정(Scale Layer…)](./90-04-0036-scale_layer.md)
+[90.4.36. 레이어 크기 바꾸기(Scale Layer)](./90-04-0036-scale_layer.md)
 
 [90.4.37. 새 이미지 만들기(Create a New Image)](./90-04-0037-create_a_new_image.md)
 

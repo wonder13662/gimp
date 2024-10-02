@@ -4058,7 +4058,15 @@
 
 [16.7.52. 레이어를 이미지 크기로(Layer to image size)](./16-07-52-layer_to_image_size.md)
 
-[16.7.53. 레이어 크기조정(Scale layer)](./16-07-53-scale_layer.md)
+[16.7.53. 레이어 크기조정(Scale layer)](./16-07-53-00-scale_layer.md)
+
+[16.7.53.1. 명령 활성화하기(Activating the Command)](./16-07-53-01-activating_the_command.md)
+
+[16.7.53.2. `레이어 크기 바꾸기` 대화상자 설명(Description of the “Scale Layer” Dialog)](./16-07-53-02-00-description_of_the_scale_layer_dialog.md)
+
+[16.7.53.2.1. 레이어 크기(Layer Size)](./16-07-53-02-01-layer_size.md)
+
+[16.7.53.2.2. 화질(Quality)](./16-07-53-02-02-quality.md)
 
 [16.7.54. 레이어 잘라내기(Crop layer)](./16-07-54-00-crop-layer.md)
 
@@ -6234,7 +6242,7 @@
 
 [90.4.35. 레이어 경계 크기 지정(Set Layer Boundary Size)](./90-04-0035-set_layer_boundary_size.md)
 
-[90.4.36. 레이어 크기 조정(Scale Layer…)](./90-04-0036-scale_layer.md)
+[90.4.36. 레이어 크기 바꾸기(Scale Layer)](./90-04-0036-scale_layer.md)
 
 [90.4.37. 새 이미지 만들기(Create a New Image)](./90-04-0037-create_a_new_image.md)
 
