@@ -2014,7 +2014,7 @@ module.exports = {
         '16.7.49. 임의 각도 회전(Arbitrary rotation)'
       ],
       [
-        '16-07-50-offset.md', 
+        '16-07-50-00-offset.md', 
         '16.7.50. 오프셋(Offset)'
       ],
       [
