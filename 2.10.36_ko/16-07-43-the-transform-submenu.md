@@ -40,3 +40,19 @@
 [16.7.49. 임의 각도 회전(Arbitrary rotation)](./16-07-49-arbitrary-rotation.md)
 
 [16.7.50. 오프셋(Offset)](./16-07-50-offset.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.7.44. 수평 뒤집기(Flip horizontally)](./16-07-44-flip-horizontally.md)
+
+[⬅️ 이전: 16.7.42. 선택 영역과 겹치기(Intersect alpha channel with selection)](./16-07-42-intersect-alpha-channel-with-selection.md)
+
+[⬆️ 위: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-layer-transform-menu.html)

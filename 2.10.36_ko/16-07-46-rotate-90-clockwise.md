@@ -21,3 +21,19 @@
 
 #### [영상 90.1.6.10.a232. `이미지 메뉴 바` → `레이어` → `변형` → `시계방향으로 90도 회전` (Windows) (우리말)](./90-01-06-10-transform.md#90-01-06-10-a232)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a7b7ccb1-01ad-45d7-b3c0-a6770757355a"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.7.47. 반시계방향으로 90도 회전(Rotate 90° counter-clockwise)](./16-07-47-rotate-90-counter-clockwise.md)
+
+[⬅️ 이전: 16.7.45. 수직 뒤집기(Flip vertically)](./16-07-45-flip-vertically.md)
+
+[⬆️ 위: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-layer-rotate-90.html)

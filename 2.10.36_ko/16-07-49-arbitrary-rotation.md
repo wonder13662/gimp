@@ -30,3 +30,19 @@
 
 #### [영상 90.10.25.1.1.a1. 변형 도구 `회전` - 키보드 단축키 Shift(⇧) + `R`](./90-10-25-01-01-shift_r.md#90-10-25-01-01-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/f434bf65-ba59-4d20-ba8d-e1df71f7fdbc"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.7.50. 오프셋(Offset)](./16-07-50-00-offset.md)
+
+[⬅️ 이전: 16.7.48. 180도 회전(Rotate 180°)](./16-07-48-rotate-180.md)
+
+[⬆️ 위: 16.7. 레이어 메뉴(The "Layer" menu)](./16-07-00-the-layer-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-layer-rotate-arbitrary.html)

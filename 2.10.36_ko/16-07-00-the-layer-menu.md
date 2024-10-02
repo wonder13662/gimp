@@ -126,6 +126,22 @@
 
 [16.7.38. 임계 알파(Threshold alpha)](./16-07-38-00-threshold-alpha.md)
 
+[16.7.38.1. 명령 활성화하기(Activating the Command)](./16-07-38-01-activating_the_command.md)
+
+[16.7.38.2. `임계 알파` 대화상자 설명(Description of the Dialog Window)](./16-07-38-02-00-description_of_the_dialog_window.md)
+
+[16.7.38.2.1. 프리셋(Presets)](./16-07-38-02-01-presets.md)
+
+[16.7.38.2.2. 혼합 옵션(Blending Options)](./16-07-38-02-02-blending_options.md)
+
+[16.7.38.2.3. 미리보기(Preview)](./16-07-38-02-03-preview.md)
+
+[16.7.38.2.4. 보기 영역 분할(Preview)](./16-07-38-02-04-split_view.md)
+
+[16.7.38.2.5. 값(Value)](./16-07-38-02-05-value.md)
+
+[16.7.38.2.6. 고급 색상 옵션(Advanced Color Options)](./16-07-38-02-06-advanced_color_options.md)
+
 [16.7.39. 알파를 선택 영역으로(Alpha to selection)](./16-07-39-alpha-to-selection.md)
 
 [16.7.40. 선택에 추가(Add alpha channel to selection)](./16-07-40-add-alpha-channel-to-selection.md)
@@ -148,7 +164,27 @@
 
 [16.7.49. 임의 각도 회전(Arbitrary rotation)](./16-07-49-arbitrary-rotation.md)
 
-[16.7.50. 오프셋(Offset)](./16-07-50-offset.md)
+[16.7.50. 오프셋(Offset)](./16-07-50-00-offset.md)
+
+[16.7.50.1. 명령 활성화하기(Activating the Command)](./16-07-50-01-activating_the_command.md)
+
+[16.7.50.2. 오프셋 옵션(Offset Options)](./16-07-50-02-00-offset_options.md)
+
+[16.7.50.2.1. 프리셋(Presets)](./16-07-50-02-01-presets.md)
+
+[16.7.50.2.2. 오프셋(Offset)](./16-07-50-02-02-offset.md)
+
+[16.7.50.3. 경계선의 움직임(Edge Behavior)](./16-07-50-02-03-edge_behavior.md)
+
+[16.7.50.4. 입력 타입(Input Type)](./16-07-50-02-04-input_type.md)
+
+[16.7.50.5. 혼합 옵션(Blending Options)](./16-07-50-02-05-blending_options.md)
+
+[16.7.50.2.6. 고급 색상 옵션(Advanced Color Options)](./16-07-50-02-06-advanced_color_options.md)
+
+[16.7.50.2.7. 미리보기(Preview)](./16-07-50-02-07-preview.md)
+
+[16.7.50.2.8. 보기 영역 분할(Split view)](./16-07-50-02-08-split_view.md)
 
 [16.7.51. 레이어 경계 크기(Layer boundary size)](./16-07-51-layer_boundary_size.md)
 

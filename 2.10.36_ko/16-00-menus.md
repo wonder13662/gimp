@@ -1002,6 +1002,302 @@
 
 [16.7.23.2. `레이어 마스크 추가` 대화상자 설명(Description of the `Add Layer Mask` Dialog)](./16-07-23-02-00-description_of_the_add_layer_mask_dialog.md)
 
+[16.7.23.2.1. 레이어 마스크를 초기화 합니다(Initialize Layer Mask to)](./16-07-23-02-01-00-initialize_layer_mask_to.md)
+
+[16.7.23.2.1.1. 흰색(완전 불투명) - White(full opacity)](./16-07-23-02-01-01-white.md)
+
+[16.7.23.2.1.2. 검은색(완전 투명) - Black(full transparency)](./16-07-23-02-01-02-black.md)
+
+[16.7.23.2.1.3. 레이어의 알파 채널(Layer's alpha channel)](./16-07-23-02-01-03-layer_alpha_channel.md)
+
+[16.7.23.2.1.4. 레이어의 알파 채널 전송(Transfer layer's alpha channel)](./16-07-23-02-01-04-transfer_layer_alpha_channel.md)
+
+[16.7.23.2.1.5. 선택(Selection)](./16-07-23-02-01-05-selection.md)
+
+[16.7.23.2.1.6. 레이어의 그레이스케일 사본(Grayscale copy of layer)](./16-07-23-02-01-06-grayscale_copy_of_layer.md)
+
+[16.7.23.2.1.7. 채널(Channel)](./16-07-23-02-01-07-channel.md)
+
+[16.7.23.2.2. 마스크 반전(Invert mask)](./16-07-23-02-02-invert_mask.md)
+
+[16.7.24. 레이어 마스크 적용하기(Apply layer mask)](./16-07-24-apply_layer_mask.md)
+
+[16.7.25. 레이어 마스크 삭제하기(Delete layer mask)](./16-07-25-delete_layer_mask.md)
+
+[16.7.26. 레이어 마스크 보여주기(Show layer mask)](./16-07-26-show_layer_mask.md)
+
+[16.7.27. 레이어 마스크 수정하기(Edit layer mask)](./16-07-27-edit_layer_mask.md)
+
+[16.7.28. 레이어 마스크 비활성화하기(Disable layer mask)](./16-07-28-disable_layer_mask.md)
+
+[16.7.29. 마스크를 선택으로 바꾸기(Mask to selection)](./16-07-29-mask_to_selection.md)
+
+[16.7.30. 선택 영역에 추가(Add layer mask to selection)](./16-07-30-add-layer-mask-to-selection.md)
+
+[16.7.31. 선택 영역에서 빼기(Subtract layer mask from selection)](./16-07-31-subtract-layer-mask-from-selection.md)
+
+[16.7.32. 선택 영역과 겹치기(Intersect layer mask with selection)](./16-07-32-intersect-layer-mask-with-selection.md)
+
+[16.7.33. 레이어 메뉴의 투명 하위메뉴(The transparency submenu of the layer menu)](./16-07-33-the-transparency-submenu-of-the-layer-menu.md)
+
+[16.7.34. 알파 채널 추가(Add alpha channel)](./16-07-34-add_alpha_channel.md)
+
+[16.7.35. 알파 채널 제거(Remove alpha channel)](./16-07-35-remove_alpha_channel.md)
+
+[16.7.36. 색상을 알파로(Color to alpha)](./16-07-36-color-to-alpha.md)
+
+[16.7.37. Semi flatten](./16-07-37-semi-flatten.md)
+
+[16.7.38. 임계 알파(Threshold alpha)](./16-07-38-00-threshold-alpha.md)
+
+[16.7.38.1. 명령 활성화하기(Activating the Command)](./16-07-38-01-activating_the_command.md)
+
+[16.7.38.2. `임계 알파` 대화상자 설명(Description of the Dialog Window)](./16-07-38-02-00-description_of_the_dialog_window.md)
+
+[16.7.38.2.1. 프리셋(Presets)](./16-07-38-02-01-presets.md)
+
+[16.7.38.2.2. 혼합 옵션(Blending Options)](./16-07-38-02-02-blending_options.md)
+
+[16.7.38.2.3. 미리보기(Preview)](./16-07-38-02-03-preview.md)
+
+[16.7.38.2.4. 보기 영역 분할(Preview)](./16-07-38-02-04-split_view.md)
+
+[16.7.38.2.5. 값(Value)](./16-07-38-02-05-value.md)
+
+[16.7.38.2.6. 고급 색상 옵션(Advanced Color Options)](./16-07-38-02-06-advanced_color_options.md)
+
+[16.7.39. 알파를 선택 영역으로(Alpha to selection)](./16-07-39-alpha-to-selection.md)
+
+[16.7.40. 선택에 추가(Add alpha channel to selection)](./16-07-40-add-alpha-channel-to-selection.md)
+
+[16.7.41. 선택 영역에서 빼기(Subtract from selection)](./16-07-41-subtract-from-selection.md)
+
+[16.7.42. 선택 영역과 겹치기(Intersect alpha channel with selection)](./16-07-42-intersect-alpha-channel-with-selection.md)
+
+[16.7.43. 변형 메뉴(The transform submenu)](./16-07-43-the-transform-submenu.md)
+
+[16.7.44. 수평 뒤집기(Flip horizontally)](./16-07-44-flip-horizontally.md)
+
+[16.7.45. 수직 뒤집기(Flip vertically)](./16-07-45-flip-vertically.md)
+
+[16.7.46. 시계방향으로 90도 회전(Rotate 90° clockwise)](./16-07-46-rotate-90-clockwise.md)
+
+[16.7.47. 반시계방향으로 90도 회전(Rotate 90° counter-clockwise)](./16-07-47-rotate-90-counter-clockwise.md)
+
+[16.7.48. 180도 회전(Rotate 180°)](./16-07-48-rotate-180.md)
+
+[16.7.49. 임의 각도 회전(Arbitrary rotation)](./16-07-49-arbitrary-rotation.md)
+
+[16.7.50. 오프셋(Offset)](./16-07-50-00-offset.md)
+
+[16.7.50.1. 명령 활성화하기(Activating the Command)](./16-07-50-01-activating_the_command.md)
+
+[16.7.50.2. 오프셋 옵션(Offset Options)](./16-07-50-02-00-offset_options.md)
+
+[16.7.50.2.1. 프리셋(Presets)](./16-07-50-02-01-presets.md)
+
+[16.7.50.2.2. 오프셋(Offset)](./16-07-50-02-02-offset.md)
+
+[16.7.50.3. 경계선의 움직임(Edge Behavior)](./16-07-50-02-03-edge_behavior.md)
+
+[16.7.50.4. 입력 타입(Input Type)](./16-07-50-02-04-input_type.md)
+
+[16.7.50.5. 혼합 옵션(Blending Options)](./16-07-50-02-05-blending_options.md)
+
+[16.7.50.2.6. 고급 색상 옵션(Advanced Color Options)](./16-07-50-02-06-advanced_color_options.md)
+
+[16.7.50.2.7. 미리보기(Preview)](./16-07-50-02-07-preview.md)
+
+[16.7.50.2.8. 보기 영역 분할(Split view)](./16-07-50-02-08-split_view.md)
+
+[16.7.51. 레이어 경계 크기(Layer boundary size)](./16-07-51-layer_boundary_size.md)
+
+[16.7.52. 레이어를 이미지 크기로(Layer to image size)](./16-07-52-layer_to_image_size.md)
+
+[16.7.53. 레이어 크기조정(Scale layer)](./16-07-53-scale_layer.md)
+
+[16.7.54. 레이어 잘라내기(Crop layer)](./16-07-54-00-crop-layer.md)
+
+[16.7.54.1. 선택영역 잘라내기(Crop to selection)](./16-07-54-01-crop_to_selection.md)
+
+[16.7.54.2. 콘텐츠로 잘라내기(Crop to content)](./16-07-54-02-crop_to_content.md)
+
+[16.8. The colors menu](./16-08-00-the-colors-menu.md)
+
+[16.8.1. Introduction to the colors menu](./16-08-01-introduction-to-the-colors-menu.md)
+
+[16.8.2. Color balance](./16-08-02-color-balance.md)
+
+[16.8.3. Color temperature](./16-08-03-color-temperature.md)
+
+[16.8.4. Hue chroma](./16-08-04-hue-chroma.md)
+
+[16.8.5. Hue saturation](./16-08-05-hue-saturation.md)
+
+[16.8.6. Saturation](./16-08-06-saturation.md)
+
+[16.8.7. 노출(Exposure)](./16-08-07-exposure.md)
+
+[16.8.8. Shadows highlights](./16-08-08-shadows-highlights.md)
+
+[16.8.9. Brightness contrast](./16-08-09-brightness-contrast.md)
+
+[16.8.10. 레벨(Levels)](./16-08-10-levels.md)
+
+[16.8.11. Curves](./16-08-11-curves.md)
+
+[16.8.12. 반전(Invert)](./16-08-12-invert.md)
+
+[16.8.13. Linear invert](./16-08-13-linear-invert.md)
+
+[16.8.14. Value invert](./16-08-14-value-invert.md)
+
+[16.8.15. The auto submenu](./16-08-15-the-auto-submenu.md)
+
+[16.8.16. Equalize](./16-08-16-equalize.md)
+
+[16.8.17. White balance](./16-08-17-white-balance.md)
+
+[16.8.18. Stretch contrast](./16-08-18-stretch-contrast.md)
+
+[16.8.19. Stretch contrast HSV](./16-08-19-stretch-contrast-hsv.md)
+
+[16.8.20. Color enhance](./16-08-20-color-enhance.md)
+
+[16.8.21. Color enhance legacy](./16-08-21-color-enhance-legacy.md)
+
+[16.8.22. The "Components" submenu](./16-08-22-the-components-submenu.md)
+
+[16.8.23. 채널 혼합](./16-08-23-channel-mixer.md)
+
+[16.8.24. Extract component](./16-08-24-extract-component.md)
+
+[16.8.25. Mono mixer](./16-08-25-mono-mixer.md)
+
+[16.8.26. Compose](./16-08-26-compose.md)
+
+[16.8.27. Decompose](./16-08-27-decompose.md)
+
+[16.8.28. Recompose](./16-08-28-recompose.md)
+
+[16.8.29. The "Desaturate" submenu](./16-08-29-the-desaturate-submenu.md)
+
+[16.8.30. Color to gray](./16-08-30-color-to-gray.md)
+
+[16.8.31. Desaturate](./16-08-31-desaturate.md)
+
+[16.8.32. Mono mixer](./16-08-32-mono-mixer.md)
+
+[16.8.33. Sepia](./16-08-33-sepia.md)
+
+[16.8.34. The "Map" submenu](./16-08-34-the-map-submenu.md)
+
+[16.8.35. 색상표 재배치(Rearrange colormap)](./16-08-35-rearrange-colormap.md)
+
+[16.8.36. Set colormap](./16-08-36-set-colormap.md)
+
+[16.8.37. Alien map](./16-08-37-alien-map.md)
+
+[16.8.38. Color exchange](./16-08-38-color-exchange.md)
+
+[16.8.39. Rotate colors](./16-08-39-rotate-colors.md)
+
+[16.8.40. Gradient map](./16-08-40-gradient-map.md)
+
+[16.8.41. Palette map](./16-08-41-palette-map.md)
+
+[16.8.42. Sample colorize](./16-08-42-sample-colorize.md)
+
+[16.8.43. The "Tone Mapping" submenu](./16-08-43-the-tone-mapping-submenu.md)
+
+[16.8.44. Fattal et al. 2002](./16-08-44-fattal-et-al-2002.md)
+
+[16.8.45. Mantiuk 2006](./16-08-45-mantiuk-2006.md)
+
+[16.8.46. Reinhard 2005](./16-08-46-reinhard-2005.md)
+
+[16.8.47. Stress](./16-08-47-stress.md)
+
+[16.8.48. Retinex](./16-08-48-retinex.md)
+
+[16.8.49. The "Info" submenu](./16-08-49-the-info-submenu.md)
+
+[16.8.50. Histogram](./16-08-50-histogram.md)
+
+[16.8.51. Border average](./16-08-51-border-average.md)
+
+[16.8.52. Colorcube analysis](./16-08-52-colorcube-analysis.md)
+
+[16.8.53. Export histogram](./16-08-53-export-histogram.md)
+
+[16.8.54. Smooth palette](./16-08-54-smooth-palette.md)
+
+[16.8.55. Threshold](./16-08-55-threshold.md)
+
+[16.8.56. 색상화(Colorize)](./16-08-56-colorize.md)
+
+[16.8.57. Posterize](./16-08-57-posterize.md)
+
+[16.8.58. 색상을 알파로(Color to alpha)](./16-08-58-color-to-alpha.md)
+
+[16.8.59. 디더링(Dither)](./16-08-59-dither.md)
+
+[16.8.60. RGB clip](./16-08-60-rgb-clip.md)
+
+[16.8.61. Hot](./16-08-61-hot.md)
+
+[16.9. The "Tools" menu](./16-09-00-the-tools-menu.md)
+
+[16.9.1. Introduction to the "Tools" menu](./16-09-01-introduction-to-the-tools-menu.md)
+
+[16.10. The "Filters" menu](./16-10-00-the-filters-menu.md)
+
+[16.10.1. Introduction to the "Filters" menu](./16-10-01-introduction-to-the-filters-menu.md)
+
+[16.10.2. Repeat last](./16-10-02-repeat-last.md)
+
+[16.10.3. Re show last](./16-10-03-re-show-last.md)
+
+[16.10.4. Reset all filters](./16-10-04-reset-all-filters.md)
+
+[16.10.5. The "Python-Fu" submenu](./16-10-05-the-python-fu-submenu.md)
+
+[16.10.6. The "Script-Fu" submenu](./16-10-06-00-the-script-fu-submenu.md)
+
+[16.10.6.1. 하위 메뉴 활성화하기(Activating the submenu)](./16-10-06-01-activating_the_submenu.md)
+
+[16.10.6.2. 스크립트 새로고침(Refresh Scripts)](./16-10-06-02-refresh_scripts.md)
+
+[16.10.6.3. Script-Fu 콘솔(Script-Fu Console)](./16-10-06-03-script_fu_console.md)
+
+[16.10.6.4. 서버 시작하기(Start Server)](./16-10-06-04-start_server.md)
+
+[16.11. "Windows" menu](./16-11-windows-menu.md)
+
+[16.12. The "Help" menu](./16-12-00-the-help-menu.md)
+
+[16.12.1. Introduction to the "Help" menu](./16-12-01-introduction-to-the-help-menu.md)
+
+[16.12.2. Help](./16-12-02-help.md)
+
+[16.12.3. Context help](./16-12-03-context-help.md)
+
+[16.12.4. Tip of the day](./16-12-04-tip-of-the-day.md)
+
+[16.12.5. About](./16-12-05-about.md)
+
+[16.12.6. Search and run a command](./16-12-06-search-and-run-a-command.md)
+
+[16.12.7. Plug-in browser](./16-12-07-plug-in-browser.md)
+
+[16.12.8. The procedure browser](./16-12-08-the-procedure-browser.md)
+
+[16.12.9. Bug reports and feature requests](./16-12-09-bug-reports-and-feature-requests.md)
+
+[16.12.10. GIMP online](./16-12-10-gimp-online.md)
+
+[16.12.11. User manual](./16-12-11-user-manual.md)
+
 ***
 
 ## 다른 페이지로 가기
