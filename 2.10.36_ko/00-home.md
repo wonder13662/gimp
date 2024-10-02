@@ -6220,7 +6220,7 @@
 
 [90.4.34. 이미지 내보내기(Export Image)](./90-04-0034-export_image.md)
 
-[90.4.35. 레이어 경계 크기(Layer Boundary Size…)](./90-04-0035-layer_to_boundary_size.md)
+[90.4.35. 레이어 경계 크기 지정(Set Layer Boundary Size)](./90-04-0035-set_layer_boundary_size.md)
 
 [90.4.36. 레이어 크기 조정(Scale Layer…)](./90-04-0036-scale_layer.md)
 

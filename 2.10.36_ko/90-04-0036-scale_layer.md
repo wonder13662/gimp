@@ -29,7 +29,7 @@
 ## 다른 페이지로 가기
 [➡️ 다음: 90.4.37. 새 이미지 만들기(Create a New Image)](./90-04-0037-create_a_new_image.md)
 
-[⬅️ 이전: 90.4.35. 레이어 경계 크기(Layer Boundary Size…)](./90-04-0035-layer_to_boundary_size.md)
+[⬅️ 이전: 90.4.35. 레이어 경계 크기 지정(Set Layer Boundary Size)](./90-04-0035-set_layer_boundary_size.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-0000-dialogs.md)
 

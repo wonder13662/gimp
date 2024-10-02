@@ -57,19 +57,19 @@ GIMP(김프)에서 [레이어](./19-glossaryx-layer.md)는 [이미지](./19-glos
 
 <a id="90-01-06-11-a101"></a>
 
-#### [그림 90.1.6.11.a101. `레이어` → `레이어 경계 크기`](./90-01-06-11-layer_boundary_size.md#90-01-06-11-a101)
-![90-01-06-11-a101](https://github.com/wonder13662/gimp/assets/15767104/8bc87bfb-5f7b-43f1-bd21-458ad1fadd75)
+#### [그림 90.1.6.11.a101. `이미지 메뉴 바` → `레이어` → `레이어 경계 크기`](./90-01-06-11-layer_boundary_size.md#90-01-06-11-a101)
+<img width="849" height="404" alt="90-01-06-11-a101" src="https://github.com/user-attachments/assets/e91009a8-c5e2-48a9-ad3d-27525520fbd0" />
 
 <a id="90-04-35-a101"></a>
 
-#### [그림 90.4.35.a101. `레이어 경계 크기` 대화상자 (Windows) (우리말)](./90-04-0035-layer_to_boundary_size.md#90-04-35-a101)
-![90-04-35-a101](https://github.com/wonder13662/gimp/assets/15767104/e85a3f18-db98-44a4-9a2e-b1be86828c4d)
+#### [그림 90.4.35.a101. `레이어 경계 크기 지정` 대화상자 (Windows) (우리말)](./90-04-0035-set_layer_boundary_size.md#90-04-35-a101)
+<img width="467" height="425" alt="90-04-35-a101" src="https://github.com/wonder13662/gimp/assets/15767104/e85a3f18-db98-44a4-9a2e-b1be86828c4d" />
 
-[다른 운영체제와 언어의 `레이어 경계 크기` 대화상자 확인하기](./90-04-0035-layer_to_boundary_size.md#90-04-35-a102)
+[다른 운영체제와 언어의 `레이어 경계 크기 지정` 대화상자 확인하기](./90-04-0035-set_layer_boundary_size.md#90-04-35-a102)
 
 <a id="90-01-06-11-a102"></a>
 
-#### [영상 90.1.6.11.a102. '레이어 경계 크기(Layer Boundary Size)' 사용하기](./90-01-06-11-layer_boundary_size.md#90-01-06-11-a102)
+#### [영상 90.1.6.11.a102. `이미지 메뉴 바` → `레이어` → `레이어 경계 크기` (Mac) (우리말)](./90-01-06-11-layer_boundary_size.md#90-01-06-11-a102)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c9c8062e-5035-49db-8ddf-5272b6a17b9a"></video>
 
 <a comment="TODO 이미지, 영상 링크 교체하기"></a>

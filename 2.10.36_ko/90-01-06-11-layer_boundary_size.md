@@ -1,21 +1,24 @@
 # 90.1.6.11. 레이어 경계 크기(Layer Boundary Size)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
 
 <a id="90-01-06-11-a101"></a>
 
-#### 그림 90.1.6.11.a101. `레이어` → `레이어 경계 크기`
-![90-01-06-11-a101](https://github.com/wonder13662/gimp/assets/15767104/8bc87bfb-5f7b-43f1-bd21-458ad1fadd75)
+#### 그림 90.1.6.11.a101. `이미지 메뉴 바` → `레이어` → `레이어 경계 크기`
+<img width="849" height="404" alt="90-01-06-11-a101" src="https://github.com/user-attachments/assets/e91009a8-c5e2-48a9-ad3d-27525520fbd0" />
 
 [4.2.6. 레이어 바깥쪽에서 작업을 하려는 경우 - 그림 90.1.6.11.a101](./04-02-06-you-are-trying-to-act-outside-the-layer.md#90-01-06-11-a101)
 
+[16.7.51. 레이어 경계 크기(Layer boundary size) - 그림 90.1.6.11.a101](./16-07-51-00-layer_boundary_size.md#90-01-06-11-a101)
+
 <a id="90-01-06-11-a102"></a>
 
-#### 영상 90.1.6.11.a102. '레이어 경계 크기(Layer Boundary Size)' 사용하기
+#### 영상 90.1.6.11.a102. `이미지 메뉴 바` → `레이어` → `레이어 경계 크기` (Mac) (우리말)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/c9c8062e-5035-49db-8ddf-5272b6a17b9a"></video>
 
 [4.2.6. 레이어 바깥쪽에서 작업을 하려는 경우 - 영상 90.1.6.11.a102](./04-02-06-you-are-trying-to-act-outside-the-layer.md#90-01-06-11-a102)
 
-[90.4.35. 레이어 경계 크기(Layer Boundary Size…) - 영상 90.1.6.11.a102](./90-04-0035-layer_to_boundary_size.md#90-01-06-11-a102)
+[16.7.51.1. 명령 활성화하기(Activating the Command) - 영상 90.1.6.11.a102](./16-07-51-01-activating_the_command.md#90-01-06-11-a102)
+
+[90.4.35. 레이어 경계 크기 지정(Set Layer Boundary Size) - 영상 90.1.6.11.a102](./90-04-0035-set_layer_boundary_size.md#90-01-06-11-a102)
 
 ***
 
