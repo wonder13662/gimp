@@ -35,11 +35,11 @@ GIMP(김프)에서 [레이어](./19-glossaryx-layer.md)는 [이미지](./19-glos
 <a id="90-01-06-12-a101"></a>
 
 #### [그림 90.1.6.12.a101. `레이어(Layer)` → `레이어를 이미지 크기로(Layer to Image Size)`](./90-01-06-12-layer_to_image_size.md#90-01-06-12-a101)
-![90-01-06-12-a101](https://github.com/wonder13662/gimp/assets/15767104/9a9a8ecc-0fed-4853-8f8e-b33d33d4ab1f)
+<img width="849" height="404" alt="90-01-06-12-a101" src="https://github.com/user-attachments/assets/3a1107dc-5c86-4490-ac7b-8a9e9f4b9068" />
 
 <a id="90-01-06-12-a102"></a>
 
-#### [영상 90.1.6.12.a102. '레이어를 이미지 크기로(Layer to Image Size)' 사용하기](./90-01-06-12-layer_to_image_size.md#90-01-06-12-a102)
+#### [영상 90.1.6.12.a102. `이미지 메뉴 바` → `레이어` → `레이어를 이미지 크기로`](./90-01-06-12-layer_to_image_size.md#90-01-06-12-a102)
 <video controls="controls" width="640" height="360" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/38ec687e-8280-457b-90ea-deb1c6f1722e"></video>
 
 레이어의 경계 바깥쪽에서 붓 그리기가 실패하는 것을 확인한 뒤에 '레이어를 이미지 크기로(Layer to Image Size)'를 사용합니다. 사용한 이후에는 레이어에 붓 그리기가 성공합니다.
