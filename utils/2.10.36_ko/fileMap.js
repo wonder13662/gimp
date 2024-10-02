@@ -2018,7 +2018,7 @@ module.exports = {
         '16.7.50. 오프셋(Offset)'
       ],
       [
-        '16-07-51-layer_boundary_size.md', 
+        '16-07-51-00-layer_boundary_size.md', 
         '16.7.51. 레이어 경계 크기(Layer boundary size)'
       ],
       [

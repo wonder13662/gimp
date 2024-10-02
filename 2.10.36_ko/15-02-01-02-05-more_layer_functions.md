@@ -19,7 +19,7 @@
 
 ### 1-2. `이미지 메뉴 바` → `레이어` 메뉴
 
-[16.7.51. 레이어 경계 크기(Layer boundary size)](./16-07-51-layer_boundary_size.md)
+[16.7.51. 레이어 경계 크기(Layer boundary size)](./16-07-51-00-layer_boundary_size.md)
 
 [16.7.52. 레이어를 이미지 크기로(Layer to image size)](./16-07-52-layer_to_image_size.md)
 

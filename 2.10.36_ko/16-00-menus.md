@@ -1110,7 +1110,19 @@
 
 [16.7.50.2.8. 보기 영역 분할(Split view)](./16-07-50-02-08-split_view.md)
 
-[16.7.51. 레이어 경계 크기(Layer boundary size)](./16-07-51-layer_boundary_size.md)
+[16.7.51. 레이어 경계 크기(Layer boundary size)](./16-07-51-00-layer_boundary_size.md)
+
+[16.7.51.1. 명령 활성화하기(Activating the Command)](./16-07-51-01-activating_the_command.md)
+
+[16.7.51.2. `레이어 경계 크기 지정` 대화상자 설명(Description of the “Layer Boundary Size” dialog)](./16-07-51-02-00-description_of_the_layer_boundary_size_dialog.md)
+
+[16.7.51.2.1. 레이어 크기(Layer Size)](./16-07-51-02-01-layer_size.md)
+
+[16.7.51.2.2. X, Y 오프셋(X, Y Offset)](./16-07-51-02-02-offset.md)
+
+[16.7.51.2.3. 가운데로 버튼(Center button)](./16-07-51-02-03-center_button.md)
+
+[16.7.51.2.4. 채우기(Fill With)](./16-07-51-02-04-fill_with.md)
 
 [16.7.52. 레이어를 이미지 크기로(Layer to image size)](./16-07-52-layer_to_image_size.md)
 

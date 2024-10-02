@@ -84,7 +84,7 @@
 <a id="15-02-01-03-s14"></a>
 
 ## 14. 레이어 경계 크기(Layer Boundary Size…)
-[16.7.51. 레이어 경계 크기(Layer boundary size)](./16-07-51-layer_boundary_size.md)를 참고하세요.
+[16.7.51. 레이어 경계 크기(Layer boundary size)](./16-07-51-00-layer_boundary_size.md)를 참고하세요.
 
 <a id="15-02-01-03-s15"></a>
 

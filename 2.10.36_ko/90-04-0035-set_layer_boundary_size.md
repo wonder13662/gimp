@@ -92,10 +92,12 @@
 
 [16.7.51.2.3. 가운데로 버튼(Center button) - 그림 90.4.35.a131](./16-07-51-02-03-center_button.md#90-04-35-a131)
 
-<a id="90-04-35-a131"></a>
+<a id="90-04-35-a132"></a>
 
-#### 영상 90.4.35.a131. `레이어 경계 크기 지정` 대화상자 → `가운데로 버튼` (Windows) (우리말)
+#### 영상 90.4.35.a132. `레이어 경계 크기 지정` 대화상자 → `가운데로 버튼` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6c08a215-6e1e-4e48-8180-d4eb1b186770"></video>
+
+[16.7.51.2.3. 가운데로 버튼(Center button) - 영상 90.4.35.a132](./16-07-51-02-03-center_button.md#90-04-35-a132)
 
 <a id="90-04-35-a141"></a>
 
@@ -103,6 +105,20 @@
 <img width="467" height="425" alt="90-04-35-a141" src="https://github.com/user-attachments/assets/8d0a9e92-732e-4cf5-a56d-88002146d6e7" />
 
 [16.7.51.2.4. 채우기(Fill With) - 그림 90.4.35.a141](./16-07-51-02-04-fill_with.md#90-04-35-a141)
+
+<a id="90-04-35-a142"></a>
+
+#### 그림 90.4.35.a142. `레이어 경계 크기 지정` 대화상자 → `채우기`: 드롭다운 목록 (Windows)
+<img width="131" height="127" alt="90-04-35-a142" src="https://github.com/user-attachments/assets/9abb909b-aeeb-4d4b-a279-e087153a1659" />
+
+[16.7.51.2.4. 채우기(Fill With) - 그림 90.4.35.a142](./16-07-51-02-04-fill_with.md#90-04-35-a142)
+
+<a id="90-04-35-a143"></a>
+
+#### 영상 90.4.35.a143. `레이어 경계 크기 지정` 대화상자 → `채우기`: 드롭다운 목록 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7ec8985f-f23f-4a53-bcba-6373bef30aa9"></video>
+
+[16.7.51.2.4. 채우기(Fill With) - 영상 90.4.35.a143](./16-07-51-02-04-fill_with.md#90-04-35-a143)
 
 ***
 
