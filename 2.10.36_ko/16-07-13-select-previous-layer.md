@@ -36,10 +36,10 @@ Windows 환경에서 `이전 레이어 선택(Select previous layer)` 명령의 
 
 ### 4-1. `이미지 메뉴 바` → `레이어` → `스택` → `이전 레이어 선택`
 
-<a id="90-01-06-07-a211"></a>
+<a id="90-01-06-07-a212"></a>
 
-#### [그림 90.1.6.7.a211. `이미지 메뉴 바` → `레이어` → `스택` → `이전 레이어 선택` (Windows)](./90-01-06-07-stack.md#90-01-06-07-a211)
-<img width="719" height="430" alt="90-01-06-07-a211" src="https://github.com/user-attachments/assets/d6b4db8b-64ba-4eee-9bba-5b3180989301" />
+#### [영상 90.1.6.7.a212. `이미지 메뉴 바` → `레이어` → `스택` → `이전 레이어 선택` (Windows) (우리말)](./90-01-06-07-stack.md#90-01-06-07-a212)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/3faac803-3e29-4b25-8bdb-a0e7f9425122"></video>
 
 <a id="16-07-13-s4-02"></a>
 
