@@ -19,14 +19,14 @@
 
 ## 1. 명령 활성화하기(Activating the Command)
 
-<a id="90-01-06-08-a342"></a>
-
-#### [그림 90.1.6.8.a342. `이미지 메뉴 바` → `레이어` → `마스크` → `레이어 마스크 보이기` (Windows)](./90-01-06-08-mask.md#90-01-06-08-a342)
-<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/768a6e83-55b8-4fbf-ad45-9251085bec69"></video>
-
 <a id="16-07-26-s1-01"></a>
 
 ### 1-1. `이미지 메뉴 바` → `레이어` → `마스크` → `레이어 마스크 보이기`
+
+<a id="90-01-06-08-a342"></a>
+
+#### [영상 90.1.6.8.a342. `이미지 메뉴 바` → `레이어` → `마스크` → `레이어 마스크 보이기` (Windows) (우리말)](./90-01-06-08-mask.md#90-01-06-08-a342)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/768a6e83-55b8-4fbf-ad45-9251085bec69"></video>
 
 <a id="16-07-26-s1-02"></a>
 
