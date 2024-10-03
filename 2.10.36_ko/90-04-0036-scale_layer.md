@@ -9,7 +9,7 @@
 
 [16.7.53. 레이어 크기조정(Scale layer) - 그림 90.4.36.a101](./16-07-53-00-scale_layer.md#90-04-36-a101)
 
-[16.7.53.2. `레이어 크기 바꾸기` 대화상자 설명(Description of the “Scale Layer” Dialog) - 그림 90.4.36.a101](./16-07-53-02-description_of_the_scale_layer_dialog.md#90-04-36-a101)
+[16.7.53.2. `레이어 크기 바꾸기` 대화상자 설명(Description of the “Scale Layer” Dialog) - 그림 90.4.36.a101](./16-07-53-02-00-description_of_the_scale_layer_dialog.md#90-04-36-a101)
 
 <a id="90-04-36-a102"></a>
 

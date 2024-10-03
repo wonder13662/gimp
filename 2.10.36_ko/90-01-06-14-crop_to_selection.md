@@ -19,7 +19,7 @@
 #### 영상 90.1.6.14.a112. `이미지 메뉴 바` → `레이어` → `선택 영역 잘라내기`: 페더링 (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/c712f468-f13b-400f-a7f2-1ca44de66552"></video>
 
-[16.7.54.1. 선택영역 잘라내기(Crop to selection) - 영상 90.1.6.14.a111](./16-07-54-01-crop_to_selection.md#90-01-06-14-a111)
+[16.7.54.1. 선택영역 잘라내기(Crop to selection) - 영상 90.1.6.14.a112](./16-07-54-01-crop_to_selection.md#90-01-06-14-a112)
 
 ***
 
