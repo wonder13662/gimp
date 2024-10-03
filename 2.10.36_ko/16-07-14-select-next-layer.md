@@ -8,7 +8,7 @@
 <a id="16-07-14-s1"></a>
 
 ## 1. 기본 동작
-`다음 레이어 선택(Select next layer)` 명령은 [레이어 스택](./19-glossaryx-layer_stack.md)의 활성화 [레이어](./19-glossaryx-layer.md)의 바로 아래의 레이어를 선택하여 활성화합니다.
+`다음 레이어 선택(Select next layer)` 명령은 [레이어 스택](./19-glossaryx-layer_stack.md)의 [활성화 레이어](./19-glossaryx-active_layer.md)의 바로 아래의 [레이어](./19-glossaryx-layer.md)를 선택하여 활성화합니다.
 
 활성화 레이어가 [레이어 스택](./19-glossaryx-layer_stack.md)의 가장 아래라면 `다음 레이어 선택(Select next layer)` 명령은 비활성화됩니다.
 
