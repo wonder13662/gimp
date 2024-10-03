@@ -3,7 +3,7 @@
 <a id="90-01-06-07-a211"></a>
 
 #### [그림 90.1.6.7.a211. `이미지 메뉴 바` → `레이어` → `스택` → `이전 레이어 선택` (Windows)](./90-01-06-07-stack.md#90-01-06-07-a211)
-<img width="780" height="584" alt="90-01-06-07-a211" src="https://github.com/user-attachments/assets/d6b4db8b-64ba-4eee-9bba-5b3180989301" />
+<img width="719" height="430" alt="90-01-06-07-a211" src="https://github.com/user-attachments/assets/d6b4db8b-64ba-4eee-9bba-5b3180989301" />
 
 <a id="16-07-13-s1"></a>
 
@@ -39,7 +39,7 @@ Windows 환경에서 `이전 레이어 선택(Select previous layer)` 명령의 
 <a id="90-01-06-07-a211"></a>
 
 #### [그림 90.1.6.7.a211. `이미지 메뉴 바` → `레이어` → `스택` → `이전 레이어 선택` (Windows)](./90-01-06-07-stack.md#90-01-06-07-a211)
-<img width="780" height="584" alt="90-01-06-07-a211" src="https://github.com/user-attachments/assets/d6b4db8b-64ba-4eee-9bba-5b3180989301" />
+<img width="719" height="430" alt="90-01-06-07-a211" src="https://github.com/user-attachments/assets/d6b4db8b-64ba-4eee-9bba-5b3180989301" />
 
 <a id="16-07-13-s4-02"></a>
 

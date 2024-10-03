@@ -3,7 +3,7 @@
 <a id="90-01-06-07-a291"></a>
 
 #### [그림 90.1.6.7.a291. `이미지 메뉴 바` → `레이어` → `스택` → `레이어 순서 뒤집기` (Windows)](./90-01-06-07-stack.md#90-01-06-07-a291)
-<img width="780" height="584" alt="90-01-06-07-a291" src="https://github.com/user-attachments/assets/c93a6b4c-1927-4e0d-8da0-80889a2285e5" />
+<img width="719" height="430" alt="90-01-06-07-a291" src="https://github.com/user-attachments/assets/c93a6b4c-1927-4e0d-8da0-80889a2285e5" />
 
 `레이어 순서 뒤집기(The reverse layer order command)` 명령은 [레이어 스택](./19-glossaryx-layer_stack.md) 안의 레이어들의 순서를 반대로 뒤집습니다.
 

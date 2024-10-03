@@ -3,7 +3,7 @@
 <a id="90-01-06-07-a221"></a>
 
 #### [그림 90.1.6.7.a221. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택` (Windows)](./90-01-06-07-stack.md#90-01-06-07-a221)
-<img width="780" height="584" alt="90-01-06-07-a221" src="https://github.com/user-attachments/assets/f8038224-bfce-410d-a98c-b4b66bd3c633" />
+<img width="719" height="430" alt="90-01-06-07-a221" src="https://github.com/user-attachments/assets/f8038224-bfce-410d-a98c-b4b66bd3c633" />
 
 <a id="16-07-14-s1"></a>
 
