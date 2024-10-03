@@ -24,7 +24,7 @@ Windows 환경에서 `다음 레이어 선택(Select next layer)` 명령의 키�
 <a id="90-01-06-07-a223"></a>
 
 #### [그림 90.1.6.7.a223. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택`: 키보드 단축키 `Page Down`](./90-01-06-07-stack.md#90-01-06-07-a223)
-<img width="980" height="357" alt="90-01-06-07-a223" src="https://github.com/user-attachments/assets/4c45ce46-8426-49db-bf72-d1e76ed30e9a" />
+<img width="980" height="357" alt="90-01-06-07-a223" src="https://github.com/user-attachments/assets/d6d0dcd0-6847-4068-9f43-834461a8e6eb" />
 
 <a id="16-07-14-s3"></a>
 
