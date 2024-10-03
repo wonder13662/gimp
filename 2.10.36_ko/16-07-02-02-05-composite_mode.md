@@ -101,8 +101,6 @@
 <a id="16-07-02-02-05-s4-05"></a>
 
 ### 4-5. 자동(Auto)
-"Auto" mode is not a separate composite mode, but rather corresponds to one of the other composite mode, depending on the layer's blend mode.
-
 `자동(Auto)` 모드는 별도의 `합성 모드(Composite mode)`가 아닙니다.
 
 `자동(Auto)` 모드는 선택된 레이어 모드에 따라 아래 `합성 모드(Composite mode)` 중 하나를 선택하게 됩니다.
