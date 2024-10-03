@@ -1,6 +1,25 @@
 # 90.1.6.14. 선택 영역 잘라내기(Crop to Selection)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+
+<a id="90-01-06-14-a101"></a>
+
+#### 그림 90.1.6.14.a101. `이미지 메뉴 바` → `레이어` → `선택 영역 잘라내기`
+<img width="849" height="404" alt="90-01-06-14-a101" src="https://github.com/user-attachments/assets/91756580-951f-424d-9c1b-4a95897438d2" />
+
+[16.7.54.1. 선택영역 잘라내기(Crop to selection) - 그림 90.1.6.14.a101](./16-07-54-01-crop_to_selection.md#90-01-06-14-a101)
+
+<a id="90-01-06-14-a111"></a>
+
+#### 영상 90.1.6.14.a111. `이미지 메뉴 바` → `레이어` → `선택 영역 잘라내기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/001458eb-db3e-4dec-9d10-7a9f9cfb0668"></video>
+
+[16.7.54.1. 선택영역 잘라내기(Crop to selection) - 영상 90.1.6.14.a111](./16-07-54-01-crop_to_selection.md#90-01-06-14-a111)
+
+<a id="90-01-06-14-a112"></a>
+
+#### 영상 90.1.6.14.a112. `이미지 메뉴 바` → `레이어` → `선택 영역 잘라내기`: 페더링 (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/c712f468-f13b-400f-a7f2-1ca44de66552"></video>
+
+[16.7.54.1. 선택영역 잘라내기(Crop to selection) - 영상 90.1.6.14.a111](./16-07-54-01-crop_to_selection.md#90-01-06-14-a111)
 
 ***
 

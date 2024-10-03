@@ -1,6 +1,18 @@
 # 90.1.6.15. 콘텐츠에 맞춰 잘라내기(Crop to Content)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+
+<a id="90-01-06-15-a101"></a>
+
+#### 그림 90.1.6.15.a101. `이미지 메뉴 바` → `레이어` → `콘텐츠에 맞춰 잘라내기`
+<img width="849" height="404" alt="90-01-06-15-a101" src="https://github.com/user-attachments/assets/7492a8a5-c209-4c44-b1a2-f75a2e48d0ec" />
+
+[16.7.54.2. 콘텐츠로 잘라내기(Crop to content) - 그림 90.1.6.15.a101](./16-07-54-02-crop_to_content.md#90-01-06-15-a101)
+
+<a id="90-01-06-15-a111"></a>
+
+#### 영상 90.1.6.15.a111. `이미지 메뉴 바` → `레이어` → `콘텐츠에 맞춰 잘라내기`
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/26ff8dde-7653-4b99-9a33-53dae2b5dd15"></video>
+
+[16.7.54.2. 콘텐츠로 잘라내기(Crop to content) - 영상 90.1.6.15.a111](./16-07-54-02-crop_to_content.md#90-01-06-15-a111)
 
 ***
 
