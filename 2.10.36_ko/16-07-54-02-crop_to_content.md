@@ -28,7 +28,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.8. The colors menu](./16-08-00-the-colors-menu.md)
+[➡️ 다음: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
 
 [⬅️ 이전: 16.7.54.1. 선택영역 잘라내기(Crop to selection)](./16-07-54-01-crop_to_selection.md)
 

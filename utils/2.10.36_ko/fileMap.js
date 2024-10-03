@@ -2035,7 +2035,7 @@ module.exports = {
       ],
       [
         '16-08-00-the-colors-menu.md', 
-        '16.8. The colors menu'
+        '16.8. 색 메뉴(The colors menu)'
       ],
       [
         '16-08-01-introduction-to-the-colors-menu.md', 
