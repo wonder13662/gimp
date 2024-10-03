@@ -7,11 +7,11 @@
 
 `레이어의 알파 채널 전송(Transfer layer's alpha channel)` 옵션은 `레이어의 알파 채널(Layer's alpha channel)` 옵션과 비슷하게 [레이어 마스크](./19-glossaryx-layer_mask.md)를 설정합니다.
 
-하지만 레이어의 알파 채널이 완전히 불투명하게 초기화됩니다.
+하지만 [레이어](./19-glossaryx-layer.md)의 [알파 채널](./19-glossaryx-alpha_channel.md)이 완전히 불투명하게 초기화됩니다.
 
-그 결과로 레이어의 모습을 그대로 유지한 채, 투명도 정보가 [알파 채널](./19-glossaryx-alpha_channel.md)에서 레이어 마스크로 전달됩니다.
+그 결과로 [레이어](./19-glossaryx-layer.md)의 모습을 그대로 유지한 채, 투명도 정보가 [알파 채널](./19-glossaryx-alpha_channel.md)에서 레이어 마스크로 전달됩니다.
 
-이제 레이어의 불투명도는 [알파 채널](./19-glossaryx-alpha_channel.md)이 아닌 레이어 마스크로 제어됩니다.
+이제 레이어의 불투명도는 [알파 채널](./19-glossaryx-alpha_channel.md)이 아닌 [레이어 마스크](./19-glossaryx-layer_mask.md)로 제어됩니다.
 
 <a id="90-04-50-a242"></a>
 
