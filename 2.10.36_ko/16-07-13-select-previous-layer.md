@@ -21,6 +21,11 @@ Windows 환경에서 `이전 레이어 선택(Select previous layer)` 명령의 
 
 대신 숫자키패드의 왼쪽의 여섯 개의 키가 모여있는 그룹의 `Page Up`은 동작합니다.
 
+<a id="90-01-06-07-a213"></a>
+
+#### [그림 90.1.6.7.a213. `이미지 메뉴 바` → `레이어` → `스택` → `이전 레이어 선택`: 키보드 단축키 `Page Up`](./90-01-06-07-stack.md#90-01-06-07-a213)
+<img width="980" height="357" alt="90-01-06-07-a213" src="https://github.com/user-attachments/assets/65754d6e-0872-4884-80bf-3ddbb5fa1bdf" />
+
 <a id="16-07-13-s3"></a>
 
 ## 3. 사용 예시
