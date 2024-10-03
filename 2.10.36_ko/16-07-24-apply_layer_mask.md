@@ -13,7 +13,7 @@
 
 그리고 [레이어 마스크](./19-glossaryx-layer_mask.md)는 삭제됩니다.
 
-활성화 레이어에 [레이어 마스크](./19-glossaryx-layer_mask.md)가 없다면 `레이어 마스크 적용하기(Apply layer mask)` 메뉴는 비활성화됩니다.
+[활성화 레이어](./19-glossaryx-active_layer.md)에 [레이어 마스크](./19-glossaryx-layer_mask.md)가 없다면 `레이어 마스크 적용하기(Apply layer mask)` 메뉴는 비활성화됩니다.
 
 레이어 마스크에 대한 더 자세한 내용은 [15.2.1.4. 레이어 마스크(Layer Mask)](./15-02-01-04-00-layer_mask.md)을 참고해주세요.
 
