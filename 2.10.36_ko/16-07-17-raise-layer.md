@@ -40,7 +40,7 @@
 
 [8.5.4. 레이어 그룹 올리기/내리기(Raise and Lower Layer Groups) - 2. 레이어 대화상자 아래쪽의 레이어 올리기, 내리기 버튼 클릭](./08-05-04-raise_n_lower_layer_groups.md#08-05-04-s2)
 
-[15.2.1.2.4.3. 레이어 올리기(Raise Layer)](./15-02-01-02-04-03-raise_layer.md)을 참고해주세요.
+[15.2.1.2.4.3. 레이어 올리기(Raise Layer)](./15-02-01-02-04-03-raise_layer.md)
 
 ***
 
