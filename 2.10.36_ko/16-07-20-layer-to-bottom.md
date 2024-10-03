@@ -8,9 +8,9 @@
 <a id="16-07-20-s1"></a>
 
 ## 1. 기본 동작
-`레이어를 바닥으로(Layer to bottom)` 명령은 활성화 레이어를 [레이어 스택](./19-glossaryx-layer_stack.md)의 가장 아래로 내립니다.
+`레이어를 바닥으로(Layer to bottom)` 명령은 [활성화 레이어](./19-glossaryx-active_layer.md)를 [레이어 스택](./19-glossaryx-layer_stack.md)의 가장 아래로 내립니다.
 
-활성화 레이어가 [레이어 스택](./19-glossaryx-layer_stack.md)의 맨 아래이거나, 유일한 레이어라면 `레이어를 바닥으로(Layer to bottom)` 명령은 비활성화됩니다.
+활성화 레이어가 [레이어 스택](./19-glossaryx-layer_stack.md)의 맨 아래이거나, 유일한 [레이어](./19-glossaryx-layer.md)라면 `레이어를 바닥으로(Layer to bottom)` 명령은 비활성화됩니다.
 
 <a id="16-07-20-s2"></a>
 
