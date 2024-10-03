@@ -37,7 +37,7 @@ Windows 환경에서 `다음 레이어 선택(Select next layer)` 명령의 키�
 <a id="90-01-06-07-a222"></a>
 
 #### [영상 90.1.6.7.a222. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택` (Windows) (우리말)](./90-01-06-07-stack.md#90-01-06-07-a222)
-<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/579bcc84-a896-4008-b8d4-70949e2cdf1a"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/8503c152-9dfb-4972-86f9-bb0f53f745f6"></video>
 
 <a id="16-07-14-s3-02"></a>
 
