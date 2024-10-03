@@ -5,11 +5,11 @@
 #### [그림 90.1.6.8.a331. `이미지 메뉴 바` → `레이어` → `마스크` → `레이어 마스크 삭제` (Windows)](./90-01-06-08-mask.md#90-01-06-08-a331)
 <img width="599" height="463" alt="90-01-06-08-a331" src="https://github.com/user-attachments/assets/0f4001b8-60d6-4401-8475-3bb139e27a0a" />
 
-`레이어 마스크 삭제하기(Delete layer mask)` 명령은 활성화 [레이어](./19-glossaryx-layer.md)의 [레이어 마스크](./19-glossaryx-layer_mask.md)를 삭제합니다.
+`레이어 마스크 삭제하기(Delete layer mask)` 명령은 [활성화 레이어](./19-glossaryx-active_layer.md)의 [레이어 마스크](./19-glossaryx-layer_mask.md)를 삭제합니다.
 
 이 과정에서 [활성화 레이어](./19-glossaryx-active_layer.md) 자체는 바뀌지 않습니다.
 
-만약 활성화 레이어가 레이어 마스크를 가지고 있지 않다면, `레이어 마스크 삭제하기(Delete layer mask)` 메뉴는 비활성화됩니다.
+만약 [활성화 레이어](./19-glossaryx-active_layer.md)가 [레이어 마스크](./19-glossaryx-layer_mask.md)를 가지고 있지 않다면, `레이어 마스크 삭제하기(Delete layer mask)` 메뉴는 비활성화됩니다.
 
 <a id="16-07-25-s1"></a>
 
