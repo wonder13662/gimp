@@ -5,7 +5,7 @@
 #### [그림 90.4.50.a241. `레이어 마스크 추가` 대화상자 → `레이어 마스크를 초기화 합니다` → `레이어의 알파 채널 전송` (Windows) (우리말)](./90-04-0050-add_layer_mask.md#90-04-50-a241)
 <img width="293" height="360" alt="90-04-50-a241" src="https://github.com/user-attachments/assets/409a988d-9712-47fe-8c3e-c7fd6a85b7ba" />
 
-`레이어의 알파 채널 전송(Transfer layer's alpha channel)` 옵션은 `레이어의 알파 채널(Layer's alpha channel)` 옵션과 비슷하게 레이어 마스크를 설정합니다.
+`레이어의 알파 채널 전송(Transfer layer's alpha channel)` 옵션은 `레이어의 알파 채널(Layer's alpha channel)` 옵션과 비슷하게 [레이어 마스크](./19-glossaryx-layer_mask.md)를 설정합니다.
 
 하지만 레이어의 알파 채널이 완전히 불투명하게 초기화됩니다.
 

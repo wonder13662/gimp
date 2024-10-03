@@ -5,7 +5,7 @@
 #### [그림 90.4.50.a231. `레이어 마스크 추가` 대화상자 → `레이어 마스크를 초기화 합니다` → `레이어의 알파 채널` (Windows) (우리말)](./90-04-0050-add_layer_mask.md#90-04-50-a231)
 <img width="293" height="360" alt="90-04-50-a231" src="https://github.com/user-attachments/assets/0d0c0ed9-868d-461e-8c58-4e3bf3d7488a" />
 
-`레이어의 알파 채널(Layer's alpha channel)` 옵션을 선택하면, [알파 채널](./19-glossaryx-alpha_channel.md)의 내용물을 기준으로 레이어 마스크를 채웁니다.
+`레이어의 알파 채널(Layer's alpha channel)` 옵션을 선택하면, [알파 채널](./19-glossaryx-alpha_channel.md)의 내용물을 기준으로 [레이어 마스크](./19-glossaryx-layer_mask.md)를 채웁니다.
 
 이 옵션을 선택해도 [알파 채널](./19-glossaryx-alpha_channel.md)의 내용물을 바뀌지 않습니다.
 

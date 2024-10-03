@@ -5,7 +5,7 @@
 #### [그림 90.4.50.a261. `레이어 마스크 추가` 대화상자 → `레이어 마스크를 초기화 합니다` → `레이어의 그레이스케일 사본` (Windows) (우리말)](./90-04-0050-add_layer_mask.md#90-04-50-a261)
 <img width="293" height="360" alt="90-04-50-a261" src="https://github.com/user-attachments/assets/059034e0-a125-4847-ae65-1f91afbc7bb0" />
 
-`레이어의 그레이스케일 사본(Grayscale copy of layer)` 옵션은 레이어 자체를 레이어 마스크로 만듭니다.
+`레이어의 그레이스케일 사본(Grayscale copy of layer)` 옵션은 레이어 자체를 [레이어 마스크](./19-glossaryx-layer_mask.md)로 만듭니다.
 
 <a id="90-04-50-a262"></a>
 

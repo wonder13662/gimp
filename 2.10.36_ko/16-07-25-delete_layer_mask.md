@@ -7,7 +7,7 @@
 
 `레이어 마스크 삭제하기(Delete layer mask)` 명령은 활성화 [레이어](./19-glossaryx-layer.md)의 [레이어 마스크](./19-glossaryx-layer_mask.md)를 삭제합니다.
 
-이 과정에서 활성화 레이어 자체는 바뀌지 않습니다.
+이 과정에서 [활성화 레이어](./19-glossaryx-active_layer.md) 자체는 바뀌지 않습니다.
 
 만약 활성화 레이어가 레이어 마스크를 가지고 있지 않다면, `레이어 마스크 삭제하기(Delete layer mask)` 메뉴는 비활성화됩니다.
 

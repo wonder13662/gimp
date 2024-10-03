@@ -15,7 +15,7 @@
 <a id="90-04-03-13-a21"></a>
 
 #### [그림 90.4.3.13.a21. 레이어 마스크(Layer Mask)](./90-04-0003-013-layer_mask.md#90-04-03-13-a21)
-![90-04-03-layer_mask(windows)(ko)-focus-layer_mask](https://github.com/wonder13662/gimp/assets/15767104/4c7a0323-5473-498f-bfaa-7ebe1caaf5b6)
+<img width="980" height="550" alt="90-04-03-13-a21" src="https://github.com/wonder13662/gimp/assets/15767104/4c7a0323-5473-498f-bfaa-7ebe1caaf5b6" />
 
 ***
 
