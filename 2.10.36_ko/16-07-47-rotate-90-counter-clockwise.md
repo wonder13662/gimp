@@ -5,7 +5,7 @@
 #### [그림 90.1.6.10.a241. `이미지 메뉴 바` → `레이어` → `변형` → `반시계방향으로 90도 회전` (Windows)](./90-01-06-10-transform.md#90-01-06-10-a241)
 <img width="642" height="308" alt="90-01-06-10-a241" src="https://github.com/user-attachments/assets/41a74051-ab06-4bdf-b811-181c3922344a" />
 
-`반시계방향으로 90도 회전(Rotate 90° counter-clockwise)` 명령은 픽셀 정보를 잃지 않고 활성화 [레이어](./19-glossaryx-layer.md)를 레이어의 중심에서 반시계방향으로 90도 만큼 회전시킵니다.
+`반시계방향으로 90도 회전(Rotate 90° counter-clockwise)` 명령은 픽셀 정보를 잃지 않고 [활성화 레이어](./19-glossaryx-active_layer.md)를 레이어의 중심에서 반시계방향으로 90도 만큼 회전시킵니다.
 
 레이어의 모양은 바뀌지 않습니다만 레이어의 회전은 [이미지](./19-glossaryx-image.md)의 경계를 벗어날 수 있습니다.
 
