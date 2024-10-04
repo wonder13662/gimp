@@ -28,11 +28,6 @@
 #### [영상 90.1.6.8.a352. `이미지 메뉴 바` → `레이어` → `마스크` → `레이어 마스크 편집` (Windows) (우리말)](./90-01-06-08-mask.md#90-01-06-08-a352)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/56f0ffca-dbca-4b77-bb1b-70b3b6b50a46"></video>
 
-<a id="90-01-06-08-a352"></a>
-
-#### [영상 90.1.6.8.a352. `이미지 메뉴 바` → `레이어` → `마스크` → `레이어 마스크 편집` (Windows) (우리말)](./90-01-06-08-mask.md#90-01-06-08-a352)
-<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/56f0ffca-dbca-4b77-bb1b-70b3b6b50a46"></video>
-
 <a id="16-07-27-s1-02"></a>
 
 ### 1-2. `레이어 대화상자`: 레이어 마스크 미리보기 클릭하기
