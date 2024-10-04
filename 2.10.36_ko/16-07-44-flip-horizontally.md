@@ -5,7 +5,7 @@
 #### [그림 90.1.6.10.a211. `이미지 메뉴 바` → `레이어` → `변형` → `수평 뒤집기` (Windows)](./90-01-06-10-transform.md#90-01-06-10-a211)
 <img width="642" height="308" alt="90-01-06-10-a211" src="https://github.com/user-attachments/assets/5dbda78a-d433-4502-87a3-15a82a021f0d" />
 
-`수평 뒤집기(Flip horizontally)` 명령은 활성화 [레이어](./19-glossaryx-layer.md)를 왼쪽에서 오른쪽으로 수평으로 뒤집습니다. 
+`수평 뒤집기(Flip horizontally)` 명령은 [활성화 레이어](./19-glossaryx-active_layer.md)를 왼쪽에서 오른쪽으로 수평으로 뒤집습니다. 
 
 또한 레이어의 크기와 픽셀 정보는 바뀌지 않습니다.
 
