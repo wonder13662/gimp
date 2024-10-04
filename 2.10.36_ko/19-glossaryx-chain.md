@@ -8,6 +8,7 @@
 ## 2. 비슷한 말
 - 연결 고리(Linkage)
 - 변형 잠금(transform lock)
+- 링크(Link)
 
 ***
 
