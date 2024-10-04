@@ -71,30 +71,42 @@
 #### 그림 90.4.194.a151.1. `임계 알파` 대화상자 → `값`: 원본
 <img width="320" height="40" alt="90-04-194-a151-01" src="https://github.com/user-attachments/assets/a13fcacd-3cde-4479-b412-a32b46f9c23a" />
 
+[16.7.38.2.5. 값(Value) - 그림 90.4.194.a151.1](./16-07-38-02-05-value.md#90-04-194-a151-01)
+
 <a id="90-04-194-a151-02"></a>
 
 #### 그림 90.4.194.a151.2. `임계 알파` 대화상자 → `값`: 0.0
 <img width="320" height="40" alt="90-04-194-a151-02" src="https://github.com/user-attachments/assets/96816e0e-ff1f-443e-9e59-8f9c1aad3123" />
+
+[16.7.38.2.5. 값(Value) - 그림 90.4.194.a151.2](./16-07-38-02-05-value.md#90-04-194-a151-02)
 
 <a id="90-04-194-a151-03"></a>
 
 #### 그림 90.4.194.a151.3. `임계 알파` 대화상자 → `값`: 0.25
 <img width="320" height="40" alt="90-04-194-a151-03" src="https://github.com/user-attachments/assets/3b8f0ac0-feed-4798-a4de-4dd88d785c25" />
 
+[16.7.38.2.5. 값(Value) - 그림 90.4.194.a151.3](./16-07-38-02-05-value.md#90-04-194-a151-03)
+
 <a id="90-04-194-a151-04"></a>
 
 #### 그림 90.4.194.a151.4. `임계 알파` 대화상자 → `값`: 0.5
 <img width="320" height="40" alt="90-04-194-a151-04" src="https://github.com/user-attachments/assets/faff4b13-6412-4d32-89a1-5724710e6846" />
+
+[16.7.38.2.5. 값(Value) - 그림 90.4.194.a151.4](./16-07-38-02-05-value.md#90-04-194-a151-04)
 
 <a id="90-04-194-a151-05"></a>
 
 #### 그림 90.4.194.a151.5. `임계 알파` 대화상자 → `값`: 0.75
 <img width="320" height="40" alt="90-04-194-a151-05" src="https://github.com/user-attachments/assets/462dc39e-fcd7-4d05-9fe0-8c6218ceb625" />
 
+[16.7.38.2.5. 값(Value) - 그림 90.4.194.a151.5](./16-07-38-02-05-value.md#90-04-194-a151-05)
+
 <a id="90-04-194-a151-06"></a>
 
 #### 그림 90.4.194.a151.6. `임계 알파` 대화상자 → `값`: 1.0
 <img width="320" height="40" alt="90-04-194-a151-06" src="https://github.com/user-attachments/assets/5ae3a667-26bd-40f9-81ba-7f033ccdeac0" />
+
+[16.7.38.2.5. 값(Value) - 그림 90.4.194.a151.6](./16-07-38-02-05-value.md#90-04-194-a151-06)
 
 <a id="90-04-194-a161"></a>
 
