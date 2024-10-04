@@ -16,7 +16,7 @@
 
 <a id="90-04-195-a131-01"></a>
 
-#### 영상 90.4.195.a131.1. `오프셋` 대화상자 → `경계선의 움직임` → `감싸기` (Windows) (우리말)
+#### [영상 90.4.195.a131.1. `오프셋` 대화상자 → `경계선의 움직임` → `감싸기` (Windows) (우리말)](./90-04-0195-offset.md#90-04-195-a131-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/92f901cf-08f8-45a0-96e7-420f421e0e3a"></video>
 
 <a id="16-07-50-03-s2"></a>
