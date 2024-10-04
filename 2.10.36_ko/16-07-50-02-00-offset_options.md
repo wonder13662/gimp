@@ -15,11 +15,11 @@
 
 [16.7.50.2.2. 오프셋(Offset)](./16-07-50-02-02-offset.md)
 
-[16.7.50.3. 경계선의 움직임(Edge Behavior)](./16-07-50-02-03-edge_behavior.md)
+[16.7.50.2.3. 경계선의 움직임(Edge Behavior)](./16-07-50-02-03-edge_behavior.md)
 
-[16.7.50.4. 입력 타입(Input Type)](./16-07-50-02-04-input_type.md)
+[16.7.50.2.4. 입력 타입(Input Type)](./16-07-50-02-04-input_type.md)
 
-[16.7.50.5. 혼합 옵션(Blending Options)](./16-07-50-02-05-blending_options.md)
+[16.7.50.2.5. 혼합 옵션(Blending Options)](./16-07-50-02-05-blending_options.md)
 
 [16.7.50.2.6. 고급 색상 옵션(Advanced Color Options)](./16-07-50-02-06-advanced_color_options.md)
 

@@ -21,7 +21,7 @@
 
 [➡️ 다음: 16.7.50.2.7. 미리보기(Preview)](./16-07-50-02-07-preview.md)
 
-[⬅️ 이전: 16.7.50.5. 혼합 옵션(Blending Options)](./16-07-50-02-05-blending_options.md)
+[⬅️ 이전: 16.7.50.2.5. 혼합 옵션(Blending Options)](./16-07-50-02-05-blending_options.md)
 
 [⬆️ 위: 16.7.50.2. 오프셋 옵션(Offset Options)](./16-07-50-02-00-offset_options.md)
 

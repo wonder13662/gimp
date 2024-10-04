@@ -1,4 +1,4 @@
-# 16.7.50.5. 혼합 옵션(Blending Options)
+# 16.7.50.2.5. 혼합 옵션(Blending Options)
 
 <a id="90-04-195-a151"></a>
 
@@ -13,7 +13,7 @@
 
 [➡️ 다음: 16.7.50.2.6. 고급 색상 옵션(Advanced Color Options)](./16-07-50-02-06-advanced_color_options.md)
 
-[⬅️ 이전: 16.7.50.4. 입력 타입(Input Type)](./16-07-50-02-04-input_type.md)
+[⬅️ 이전: 16.7.50.2.4. 입력 타입(Input Type)](./16-07-50-02-04-input_type.md)
 
 [⬆️ 위: 16.7.50.2. 오프셋 옵션(Offset Options)](./16-07-50-02-00-offset_options.md)
 
