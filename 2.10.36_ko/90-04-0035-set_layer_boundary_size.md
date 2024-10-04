@@ -95,7 +95,7 @@
 <a id="90-04-35-a132"></a>
 
 #### 영상 90.4.35.a132. `레이어 경계 크기 지정` 대화상자 → `가운데로 버튼` (Windows) (우리말)
-<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/6c08a215-6e1e-4e48-8180-d4eb1b186770"></video>
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/b86c272b-cdec-430c-b25f-b57bd0d7a64b"></video>
 
 [16.7.51.2.3. 가운데로 버튼(Center button) - 영상 90.4.35.a132](./16-07-51-02-03-center_button.md#90-04-35-a132)
 
