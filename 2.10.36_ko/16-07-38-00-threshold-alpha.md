@@ -5,7 +5,7 @@
 #### [그림 90.1.6.9.5.a101. `이미지 메뉴 바` → `레이어` → `투명도` → `임계 알파` (Windows) (우리말)](./90-01-06-09-05-threshold_alpha.md#90-01-06-09-05-a101)
 <img width="574" height="414" alt="90-01-06-09-05-a101" src="https://github.com/user-attachments/assets/8392df72-fb1e-4c7c-82da-c37d762ee350" />
 
-`임계 알파(Threshold alpha)` 명령은 활성화 [레이어](./19-glossaryx-layer.md)의 부분적으로 투명인 영역을 설정한 [임계값](./16-07-38-02-05-value.md)을 기준으로 완전히 투명이거나 완전히 불무명하게 바꿉니다.
+`임계 알파(Threshold alpha)` 명령은 활성화 [레이어](./19-glossaryx-layer.md)의 부분적으로 투명인 영역을 설정한 [임계값](./16-07-38-02-05-value.md)을 기준으로 완전히 투명이거나 완전히 불투명하게 바꿉니다.
 
 <a id="90-04-194-a151"></a>
 
