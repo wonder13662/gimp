@@ -137,12 +137,12 @@
 
 <a comment="무채화(Desaturate) 메뉴 링크 연결하기"></a>
 
-<a id="90-01-07-16-a1"></a>
+<a id="90-01-07-16-a101"></a>
 
-#### [그림 90.1.7.16.a1. `색` → `무채화` (Windows)](./90-01-07-16-desaturate.md#90-01-07-16-a1)
-![90-01-07-16-a1](https://github.com/wonder13662/gimp/assets/15767104/a35c267e-bebe-406d-9d05-2301280d1ae8)
+#### [그림 90.1.7.16.a101. `이미지 메뉴 바` → `색` → `무채화` (Windows) (우리말)](./90-01-07-16-desaturate.md#90-01-07-16-a101)
+<img width="469" height="947" alt="90-01-07-16-a101" src="https://github.com/user-attachments/assets/f14ec153-4435-48d8-97f4-abb0c9c6e48a" />
 
-[다른 운영체제와 언어의 `색` → `무채화` 확인하기](./90-01-07-16-desaturate.md#90-01-07-16-a2)
+[다른 운영체제와 언어의 `이미지 메뉴 바` → `색` → `무채화` 확인하기](./90-01-07-16-desaturate.md#90-01-07-16-a102)
 
 #### 그림 3.44. 배경을 흑백으로 만든 결과
 <img width="480" alt="그림 3.44. 배경을 흑백으로 만든 결과" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/97ab65f1-e0bd-41fc-9e06-3c5ac9eeb7bb">

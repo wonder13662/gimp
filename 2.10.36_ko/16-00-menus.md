@@ -1144,7 +1144,7 @@
 
 [16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
 
-[16.8.1. Introduction to the colors menu](./16-08-01-introduction-to-the-colors-menu.md)
+[16.8.1. Introduction to the colors menu](./16-08-01-00-introduction-to-the-colors-menu.md)
 
 [16.8.2. Color balance](./16-08-02-color-balance.md)
 
@@ -1172,7 +1172,7 @@
 
 [16.8.14. Value invert](./16-08-14-value-invert.md)
 
-[16.8.15. The auto submenu](./16-08-15-the-auto-submenu.md)
+[16.8.15. 자동 하위 메뉴(The auto submenu)](./16-08-15-the-auto-submenu.md)
 
 [16.8.16. Equalize](./16-08-16-equalize.md)
 
@@ -1186,7 +1186,7 @@
 
 [16.8.21. Color enhance legacy](./16-08-21-color-enhance-legacy.md)
 
-[16.8.22. The "Components" submenu](./16-08-22-the-components-submenu.md)
+[16.8.22. 성분 하위 메뉴(The "Components" submenu)](./16-08-22-the-components-submenu.md)
 
 [16.8.23. 채널 혼합](./16-08-23-channel-mixer.md)
 
@@ -1200,7 +1200,7 @@
 
 [16.8.28. Recompose](./16-08-28-recompose.md)
 
-[16.8.29. The "Desaturate" submenu](./16-08-29-the-desaturate-submenu.md)
+[16.8.29. 무채화 하위메뉴(The "Desaturate" submenu)](./16-08-29-the-desaturate-submenu.md)
 
 [16.8.30. Color to gray](./16-08-30-color-to-gray.md)
 
@@ -1210,7 +1210,7 @@
 
 [16.8.33. Sepia](./16-08-33-sepia.md)
 
-[16.8.34. The "Map" submenu](./16-08-34-the-map-submenu.md)
+[16.8.34. 지도 하위 메뉴(The "Map" submenu)](./16-08-34-the-map-submenu.md)
 
 [16.8.35. 색상표 재배치(Rearrange colormap)](./16-08-35-rearrange-colormap.md)
 
@@ -1228,7 +1228,7 @@
 
 [16.8.42. Sample colorize](./16-08-42-sample-colorize.md)
 
-[16.8.43. The "Tone Mapping" submenu](./16-08-43-the-tone-mapping-submenu.md)
+[16.8.43. 톤 대응 하위 메뉴(The "Tone Mapping" submenu)](./16-08-43-the-tone-mapping-submenu.md)
 
 [16.8.44. Fattal et al. 2002](./16-08-44-fattal-et-al-2002.md)
 
@@ -1240,7 +1240,7 @@
 
 [16.8.48. Retinex](./16-08-48-retinex.md)
 
-[16.8.49. The "Info" submenu](./16-08-49-the-info-submenu.md)
+[16.8.49. 정보 하위 메뉴(The "Info" submenu)](./16-08-49-the-info-submenu.md)
 
 [16.8.50. Histogram](./16-08-50-histogram.md)
 

@@ -1,6 +1,8 @@
-# 16.8.34. The "Map" submenu
+# 16.8.34. 지도 하위 메뉴(The "Map" submenu)
 
-### [Home](./00-home.md)
-### [Parent: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
-### [Prev: 16.8.33. Sepia](./16-08-33-sepia.md)
-### [Next: 16.8.35. 색상표 재배치(Rearrange colormap)](./16-08-35-rearrange-colormap.md)
+<a id="90-01-07-17-a101"></a>
+
+#### [그림 90.1.7.17.a101. `이미지 메뉴 바` → `색` → `지도` (Windows) (우리말)](./90-01-07-17-00-map.md#90-01-07-17-a101)
+<img width="503" height="947" alt="90-01-07-17-a101" src="https://github.com/user-attachments/assets/ed393486-389d-4c4f-82f7-1719e90d18f5" />
+
+[다른 운영체제와 언어의 `이미지 메뉴 바` → `색` → `지도` 확인하기](./90-01-07-17-00-map.md#90-01-07-17-a102)

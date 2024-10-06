@@ -50,7 +50,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.76. 색상-채도(Hue/Saturation)](./90-04-0076-hue_saturation.md)
+[➡️ 다음: 90.4.76. 색상-채도(Hue-Saturation)](./90-04-0076-hue_saturation.md)
 
 [⬅️ 이전: 90.4.74. 커브(Curves)](./90-04-0074-curves.md)
 

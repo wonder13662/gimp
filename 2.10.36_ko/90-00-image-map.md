@@ -1371,7 +1371,7 @@
 
 [90.4.75. 색상 추출(Color Picker)](./90-04-0075-color_picker.md)
 
-[90.4.76. 색상-채도(Hue/Saturation)](./90-04-0076-hue_saturation.md)
+[90.4.76. 색상-채도(Hue-Saturation)](./90-04-0076-hue_saturation.md)
 
 [90.4.77. 선명하게 하기 - Sharpen(Unsharp Mask)](./90-04-0077-sharpen_unsharp_mask.md)
 
@@ -1610,6 +1610,62 @@
 [90.4.194. 임계 알파(Threshold Alpha)](./90-04-0194-threshold_alpha.md)
 
 [90.4.195. 오프셋(Offset)](./90-04-0195-offset.md)
+
+[90.4.196. 색상 균형(Color Balance)](./90-04-0196-color_balance.md)
+
+[90.4.197. 색 온도(Color Temperature)](./90-04-0197-color_temperature.md)
+
+[90.4.198. 색상-채도(Hue-Chroma)](./90-04-0198-hue_chroma.md)
+
+[90.4.199. 채도(Saturation)](./90-04-0199-saturation.md)
+
+[90.4.200. 노출(Exposure)](./90-04-0200-exposure.md)
+
+[90.4.201. 그림자-강조(Shadows-Highlights)](./90-04-0201-shadows_highlights.md)
+
+[90.4.202. 레벨(Levels)](./90-04-0202-levels.md)
+
+[90.4.203. ?(Color Balance)](./90-04-0203-threshold.md)
+
+[90.4.204. 채널 혼합(Channel Mixer)](./90-04-0204-channel_mixer.md)
+
+[90.4.205. 요소 추출(Extract Component)](./90-04-0205-extract_component.md)
+
+[90.4.206. Mono Mixer](./90-04-0206-mono_mixer.md)
+
+[90.4.207. 흑백전환(Color to Gray)](./90-04-0207-color_to_gray.md)
+
+[90.4.208. 세피아(Sepia)](./90-04-0208-sepia.md)
+
+[90.4.209. 색상표 재배치(Set Colormap)](./90-04-0209-set_colormap.md)
+
+[90.4.210. Alien Map](./90-04-0210-alien_map.md)
+
+[90.4.211. 색상 교환(Color Exchange)](./90-04-0211-color_exchange.md)
+
+[90.4.212. 색 전환(Rotate Colors)](./90-04-0212-rotate_colors.md)
+
+[90.4.213. 표본 색상화(Sample Colorize)](./90-04-0213-sample_colorize.md)
+
+[90.4.214. Fattal et al. 2002](./90-04-0214-fattal_et_el_2002.md)
+
+[90.4.215. 만티크 2006(Matiuk 2006)](./90-04-0215-mantiuk_2006.md)
+
+[90.4.216. 라인하르트 2005(Reinhard 2005)](./90-04-0216-reinhard_2005.md)
+
+[90.4.217. 스트레스(Stress)](./90-04-0217-stress.md)
+
+[90.4.218. 레티넥스(Retinex)](./90-04-0218-retinex.md)
+
+[90.4.219. 색상화(Colorize)](./90-04-0219-colorize.md)
+
+[90.4.220. Posterize](./90-04-0220-posterize.md)
+
+[90.4.221. Dither](./90-04-0221-dither.md)
+
+[90.4.222. RGB 클립(RGB Clip)](./90-04-0222-rgb_clip.md)
+
+[90.4.223. 뜨거움(Hot)](./90-04-0223-hot.md)
 
 <a id="90-s5"></a>
 

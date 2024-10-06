@@ -4076,7 +4076,19 @@
 
 [16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
 
-[16.8.1. Introduction to the colors menu](./16-08-01-introduction-to-the-colors-menu.md)
+[16.8.1. 색 메뉴 소개(Introduction to the colors menu)](./16-08-01-00-introduction-to-the-colors-menu.md)
+
+[16.8.1.1. 색 공통 기능(Colors Common Features)](./16-08-01-01-00-colors_common_features.md)
+
+[16.8.1.1.1. 프리셋(Presets)](./16-08-01-01-01-presets.md)
+
+[16.8.1.1.2. 입력 타입(Input Type)](./16-08-01-01-02-input_type.md)
+
+[16.8.1.1.3. 잘라내기(Clipping)](./16-08-01-01-03-clipping.md)
+
+[16.8.1.1.4. 혼합 옵션(Blending Options)](./16-08-01-01-04-blending_options.md)
+
+[16.8.1.1.5. 미리보기와 보기 영역 분할(Preview and Split view)](./16-08-01-01-05-preview_n_split_view.md)
 
 [16.8.2. Color balance](./16-08-02-color-balance.md)
 
@@ -4104,7 +4116,7 @@
 
 [16.8.14. Value invert](./16-08-14-value-invert.md)
 
-[16.8.15. The auto submenu](./16-08-15-the-auto-submenu.md)
+[16.8.15. 자동 하위 메뉴(The auto submenu)](./16-08-15-the-auto-submenu.md)
 
 [16.8.16. Equalize](./16-08-16-equalize.md)
 
@@ -4118,7 +4130,7 @@
 
 [16.8.21. Color enhance legacy](./16-08-21-color-enhance-legacy.md)
 
-[16.8.22. The "Components" submenu](./16-08-22-the-components-submenu.md)
+[16.8.22. 성분 하위 메뉴(The "Components" submenu)](./16-08-22-the-components-submenu.md)
 
 [16.8.23. 채널 혼합](./16-08-23-channel-mixer.md)
 
@@ -4132,7 +4144,7 @@
 
 [16.8.28. Recompose](./16-08-28-recompose.md)
 
-[16.8.29. The "Desaturate" submenu](./16-08-29-the-desaturate-submenu.md)
+[16.8.29. 무채화 하위메뉴(The "Desaturate" submenu)](./16-08-29-the-desaturate-submenu.md)
 
 [16.8.30. Color to gray](./16-08-30-color-to-gray.md)
 
@@ -4142,7 +4154,7 @@
 
 [16.8.33. Sepia](./16-08-33-sepia.md)
 
-[16.8.34. The "Map" submenu](./16-08-34-the-map-submenu.md)
+[16.8.34. 지도 하위 메뉴(The "Map" submenu)](./16-08-34-the-map-submenu.md)
 
 [16.8.35. 색상표 재배치(Rearrange colormap)](./16-08-35-rearrange-colormap.md)
 
@@ -4160,7 +4172,7 @@
 
 [16.8.42. Sample colorize](./16-08-42-sample-colorize.md)
 
-[16.8.43. The "Tone Mapping" submenu](./16-08-43-the-tone-mapping-submenu.md)
+[16.8.43. 톤 대응 하위 메뉴(The "Tone Mapping" submenu)](./16-08-43-the-tone-mapping-submenu.md)
 
 [16.8.44. Fattal et al. 2002](./16-08-44-fattal-et-al-2002.md)
 
@@ -4172,7 +4184,7 @@
 
 [16.8.48. Retinex](./16-08-48-retinex.md)
 
-[16.8.49. The "Info" submenu](./16-08-49-the-info-submenu.md)
+[16.8.49. 정보 하위 메뉴(The "Info" submenu)](./16-08-49-the-info-submenu.md)
 
 [16.8.50. Histogram](./16-08-50-histogram.md)
 
@@ -4655,6 +4667,8 @@
 [18.11. Zoom tool - key reference for the zoom tool](./18-11-zoom-tool-key-reference-for-the-zoom-tool.md)
 
 [19. 용어집(Glossary)](./19-glossary.md)
+
+[19. 용어집 - 활성화 레이어(Active Layers)](./19-glossaryx-active_layer.md)
 
 [19. 용어집 - 알파(Alpha)](./19-glossaryx-alpha.md)
 
@@ -6352,7 +6366,7 @@
 
 [90.4.75. 색상 추출(Color Picker)](./90-04-0075-color_picker.md)
 
-[90.4.76. 색상-채도(Hue/Saturation)](./90-04-0076-hue_saturation.md)
+[90.4.76. 색상-채도(Hue-Saturation)](./90-04-0076-hue_saturation.md)
 
 [90.4.77. 선명하게 하기 - Sharpen(Unsharp Mask)](./90-04-0077-sharpen_unsharp_mask.md)
 
@@ -6591,6 +6605,62 @@
 [90.4.194. 임계 알파(Threshold Alpha)](./90-04-0194-threshold_alpha.md)
 
 [90.4.195. 오프셋(Offset)](./90-04-0195-offset.md)
+
+[90.4.196. 색상 균형(Color Balance)](./90-04-0196-color_balance.md)
+
+[90.4.197. 색 온도(Color Temperature)](./90-04-0197-color_temperature.md)
+
+[90.4.198. 색상-채도(Hue-Chroma)](./90-04-0198-hue_chroma.md)
+
+[90.4.199. 채도(Saturation)](./90-04-0199-saturation.md)
+
+[90.4.200. 노출(Exposure)](./90-04-0200-exposure.md)
+
+[90.4.201. 그림자-강조(Shadows-Highlights)](./90-04-0201-shadows_highlights.md)
+
+[90.4.202. 레벨(Levels)](./90-04-0202-levels.md)
+
+[90.4.203. ?(Color Balance)](./90-04-0203-threshold.md)
+
+[90.4.204. 채널 혼합(Channel Mixer)](./90-04-0204-channel_mixer.md)
+
+[90.4.205. 요소 추출(Extract Component)](./90-04-0205-extract_component.md)
+
+[90.4.206. Mono Mixer](./90-04-0206-mono_mixer.md)
+
+[90.4.207. 흑백전환(Color to Gray)](./90-04-0207-color_to_gray.md)
+
+[90.4.208. 세피아(Sepia)](./90-04-0208-sepia.md)
+
+[90.4.209. 색상표 재배치(Set Colormap)](./90-04-0209-set_colormap.md)
+
+[90.4.210. Alien Map](./90-04-0210-alien_map.md)
+
+[90.4.211. 색상 교환(Color Exchange)](./90-04-0211-color_exchange.md)
+
+[90.4.212. 색 전환(Rotate Colors)](./90-04-0212-rotate_colors.md)
+
+[90.4.213. 표본 색상화(Sample Colorize)](./90-04-0213-sample_colorize.md)
+
+[90.4.214. Fattal et al. 2002](./90-04-0214-fattal_et_el_2002.md)
+
+[90.4.215. 만티크 2006(Matiuk 2006)](./90-04-0215-mantiuk_2006.md)
+
+[90.4.216. 라인하르트 2005(Reinhard 2005)](./90-04-0216-reinhard_2005.md)
+
+[90.4.217. 스트레스(Stress)](./90-04-0217-stress.md)
+
+[90.4.218. 레티넥스(Retinex)](./90-04-0218-retinex.md)
+
+[90.4.219. 색상화(Colorize)](./90-04-0219-colorize.md)
+
+[90.4.220. Posterize](./90-04-0220-posterize.md)
+
+[90.4.221. Dither](./90-04-0221-dither.md)
+
+[90.4.222. RGB 클립(RGB Clip)](./90-04-0222-rgb_clip.md)
+
+[90.4.223. 뜨거움(Hot)](./90-04-0223-hot.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 

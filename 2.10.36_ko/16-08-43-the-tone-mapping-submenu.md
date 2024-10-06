@@ -1,6 +1,6 @@
-# 16.8.43. The "Tone Mapping" submenu
+# 16.8.43. 톤 대응 하위 메뉴(The "Tone Mapping" submenu)
 
-### [Home](./00-home.md)
-### [Parent: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
-### [Prev: 16.8.42. Sample colorize](./16-08-42-sample-colorize.md)
-### [Next: 16.8.44. Fattal et al. 2002](./16-08-44-fattal-et-al-2002.md)
+<a id="90-01-07-18-a101"></a>
+
+#### [그림 90.1.7.18.a101. `이미지 메뉴 바` → `색` → `톤 대응` (Windows) (우리말)](./90-01-07-18-tone_mapping.md#90-01-07-18-a101)
+<img width="531" height="947" alt="90-01-07-18-a101" src="https://github.com/user-attachments/assets/f8b30d34-fefb-4df1-b485-0dc5757d3988" />

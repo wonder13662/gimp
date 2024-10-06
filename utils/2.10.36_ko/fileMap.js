@@ -2038,7 +2038,7 @@ module.exports = {
         '16.8. 색 메뉴(The colors menu)'
       ],
       [
-        '16-08-01-introduction-to-the-colors-menu.md', 
+        '16-08-01-00-introduction-to-the-colors-menu.md', 
         '16.8.1. Introduction to the colors menu'
       ],
       [
@@ -2095,7 +2095,7 @@ module.exports = {
       ],
       [
         '16-08-15-the-auto-submenu.md', 
-        '16.8.15. The auto submenu'
+        '16.8.15. 자동 하위 메뉴(The auto submenu)'
       ],
       [
         '16-08-16-equalize.md', 
@@ -2123,7 +2123,7 @@ module.exports = {
       ],
       [
         '16-08-22-the-components-submenu.md', 
-        '16.8.22. The "Components" submenu'
+        '16.8.22. 성분 하위 메뉴(The "Components" submenu)'
       ],
       [
         '16-08-23-channel-mixer.md', 
@@ -2152,7 +2152,7 @@ module.exports = {
       ],
       [
         '16-08-29-the-desaturate-submenu.md', 
-        '16.8.29. The "Desaturate" submenu'
+        '16.8.29. 무채화 하위메뉴(The "Desaturate" submenu)'
       ],
       [
         '16-08-30-color-to-gray.md', 
@@ -2172,7 +2172,7 @@ module.exports = {
       ],
       [
         '16-08-34-the-map-submenu.md', 
-        '16.8.34. The "Map" submenu'
+        '16.8.34. 지도 하위 메뉴(The "Map" submenu)'
       ],
       [
         '16-08-35-rearrange-colormap.md', 
@@ -2208,7 +2208,7 @@ module.exports = {
       ],
       [
         '16-08-43-the-tone-mapping-submenu.md', 
-        '16.8.43. The "Tone Mapping" submenu'
+        '16.8.43. 톤 대응 하위 메뉴(The "Tone Mapping" submenu)'
       ],
       [
         '16-08-44-fattal-et-al-2002.md', 
@@ -2232,7 +2232,7 @@ module.exports = {
       ],
       [
         '16-08-49-the-info-submenu.md', 
-        '16.8.49. The "Info" submenu'
+        '16.8.49. 정보 하위 메뉴(The "Info" submenu)'
       ],
       [
         '16-08-50-histogram.md', 

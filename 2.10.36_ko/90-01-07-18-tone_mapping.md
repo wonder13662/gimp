@@ -1,10 +1,31 @@
 # 90.1.7.18. 톤 대응(Tone Mapping)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.1.7.18.a1. 색 - 톤 대응 (Windows)
-<img width="1080" alt="그림 90.1.7.18.a1. 색 - 톤 대응 (Windows)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/f8cd9eb9-289f-40cf-ba1d-e0c1ecd0fba9">
 
-#### 그림 90.1.7.18.a2. 색 - 톤 대응 (Mac)
-<img width="1080" alt="그림 90.1.7.18.a2. 색 - 톤 대응 (Mac)" environment="MacOS:Sonoma 14.2.1 GIMP 2.10.36" src="https://github.com/wonder13662/gimp/assets/15767104/d1508269-9161-4690-a599-46ab88dddb97">
+<a id="90-01-07-18-a101"></a>
+
+#### 그림 90.1.7.18.a101. `이미지 메뉴 바` → `색` → `톤 대응` (Windows) (우리말)
+<img width="531" height="947" alt="90-01-07-18-a101" src="https://github.com/user-attachments/assets/f8b30d34-fefb-4df1-b485-0dc5757d3988" />
+
+[16.8.43. 톤 대응 하위 메뉴(The "Tone Mapping" submenu) - 그림 90.1.7.18.a101](./16-08-43-the-tone-mapping-submenu.md#90-01-07-18-a101)
+
+<a id="90-01-07-18-a102"></a>
+
+#### 그림 90.1.7.18.a102. `이미지 메뉴 바` → `색` → `톤 대응` (Windows) (영어)
+<img width="474" height="947" alt="90-01-07-18-a102" src="https://github.com/user-attachments/assets/c4e708cc-0d19-436e-837d-67dc470db1fd" />
+
+<a id="90-01-07-18-a103"></a>
+
+#### 그림 90.1.7.18.a103. `이미지 메뉴 바` → `색` → `톤 대응` (Mac) (우리말)
+<img width="366" height="629" alt="90-01-07-18-a103" src="https://github.com/user-attachments/assets/c38481f1-3d01-4b47-9796-83c1e58d106b" />
+
+<a id="90-01-07-18-a104"></a>
+
+#### 그림 90.1.7.18.a104. `이미지 메뉴 바` → `색` → `톤 대응` (Mac) (영어)
+<img width="331" height="629" alt="90-01-07-18-a104" src="https://github.com/user-attachments/assets/ca9c1c4e-8e56-4f7f-9d70-61c5cbc52fa1" />
+
+<a id="90-01-07-18-a111"></a>
+
+#### 그림 90.1.7.18.a111. `이미지 메뉴 바` → `색` → `톤 대응` (Windows)
+<img width="507" height="282" alt="90-01-07-18-a111" src="https://github.com/user-attachments/assets/3817291b-7758-49cf-9953-fa6d90e4c51b" />
 
 ***
 

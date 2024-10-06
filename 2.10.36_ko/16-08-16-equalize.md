@@ -2,5 +2,5 @@
 
 ### [Home](./00-home.md)
 ### [Parent: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
-### [Prev: 16.8.15. The auto submenu](./16-08-15-the-auto-submenu.md)
+### [Prev: 16.8.15. 자동 하위 메뉴(The auto submenu)](./16-08-15-the-auto-submenu.md)
 ### [Next: 16.8.17. White balance](./16-08-17-white-balance.md)

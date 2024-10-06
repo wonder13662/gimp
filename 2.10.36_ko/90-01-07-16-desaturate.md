@@ -1,18 +1,33 @@
 # 90.1.7.16. 무채화(Desaturate)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
 
-<a id="90-01-07-16-a1"></a>
+<a id="90-01-07-16-a101"></a>
 
-#### 그림 90.1.7.16.a1. `색` → `무채화` (Windows)
-![90-01-07-16-a1](https://github.com/wonder13662/gimp/assets/15767104/a35c267e-bebe-406d-9d05-2301280d1ae8)
+#### 그림 90.1.7.16.a101. `이미지 메뉴 바` → `색` → `무채화` (Windows) (우리말)
+<img width="469" height="947" alt="90-01-07-16-a101" src="https://github.com/user-attachments/assets/f14ec153-4435-48d8-97f4-abb0c9c6e48a" />
 
-[3.4.10. 원하는 개체만 선택하여 분리하기 - 그림 90.1.7.16.a1](./03-04-10-separating-an-object-from-its-background.md#90-01-07-16-a1)
+[3.4.10. 원하는 개체만 선택하여 분리하기 - 그림 90.1.7.16.a101](./03-04-10-separating-an-object-from-its-background.md#90-01-07-16-a101)
 
-<a id="90-01-07-16-a2"></a>
+[16.8.29. 무채화 하위메뉴(The "Desaturate" submenu) - 그림 90.1.7.16.a101](./16-08-29-the-desaturate-submenu.md#90-01-07-16-a101)
 
-#### 그림 90.1.7.16.a2. `색` → `무채화` (Mac)
-![90-01-07-16-a2](https://github.com/wonder13662/gimp/assets/15767104/b755bb36-8338-499e-bdf3-2a4beb289e4c)
+<a id="90-01-07-16-a102"></a>
 
+#### 그림 90.1.7.16.a102. `이미지 메뉴 바` → `색` → `무채화` (Windows) (영어)
+<img width="447" height="947" alt="90-01-07-16-a102" src="https://github.com/user-attachments/assets/212f02b5-86dc-46c7-b2d9-b27a9dd39ffa" />
+
+<a id="90-01-07-16-a103"></a>
+
+#### 그림 90.1.7.16.a103. `이미지 메뉴 바` → `색` → `무채화` (Windows) (우리말)
+<img width="317" height="629" alt="90-01-07-16-a103" src="https://github.com/user-attachments/assets/61efd262-8302-45a3-a79e-1047c1ca3d76" />
+
+<a id="90-01-07-16-a104"></a>
+
+#### 그림 90.1.7.16.a104. `이미지 메뉴 바` → `색` → `무채화` (Windows) (영어)
+<img width="308" height="629" alt="90-01-07-16-a104" src="https://github.com/user-attachments/assets/06778e16-a492-40fe-ac5e-9abf1f25262c" />
+
+<a id="90-01-07-16-a111"></a>
+
+#### 그림 90.1.7.16.a111. `이미지 메뉴 바` → `색` → `무채화`: 하위 메뉴 (Windows)
+<img width="418" height="233" alt="90-01-07-17-a111" src="https://github.com/user-attachments/assets/7793bee1-5766-4952-a995-72f9b4f1d7f4" />
 
 ***
 

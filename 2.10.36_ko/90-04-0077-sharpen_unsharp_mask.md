@@ -46,7 +46,7 @@
 
 [➡️ 다음: 90.4.78. 구성(Compose)](./90-04-0078-compose.md)
 
-[⬅️ 이전: 90.4.76. 색상-채도(Hue/Saturation)](./90-04-0076-hue_saturation.md)
+[⬅️ 이전: 90.4.76. 색상-채도(Hue-Saturation)](./90-04-0076-hue_saturation.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-0000-dialogs.md)
 
