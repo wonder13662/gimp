@@ -13,12 +13,12 @@
 <a id="90-04-201-a103"></a>
 
 #### 그림 90.4.201.a103. `그림자-강조` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-201-a103" src="" />
+<img width="371" height="420" alt="90-04-201-a103" src="https://github.com/user-attachments/assets/cb60aaba-a50b-4042-ad48-75d97dbaa9e1" />
 
 <a id="90-04-201-a104"></a>
 
-#### 그림 90.4.201.a104. `그림자-강조` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-201-a104" src="" />
+#### 그림 90.4.201.a104. `그림자-강조` 대화상자 (Mac) (영어)
+<img width="371" height="440" alt="90-04-201-a104" src="https://github.com/user-attachments/assets/c7cce172-d22b-43dc-9d9d-2a058dab69f8" />
 
 ***
 

@@ -13,12 +13,12 @@
 <a id="90-04-198-a103"></a>
 
 #### 그림 90.4.198.a103. `색상-채도` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-198-a103" src="" />
+<img width="371" height="295" alt="90-04-198-a103" src="https://github.com/user-attachments/assets/904813cb-1115-4357-ab91-501dfb92e3ab" />
 
 <a id="90-04-198-a104"></a>
 
 #### 그림 90.4.198.a104. `색상-채도` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-198-a104" src="" />
+<img width="371" height="290" alt="90-04-198-a104" src="https://github.com/user-attachments/assets/bbfbb6a6-afd9-4fc1-8e40-0a4c65468e2a" />
 
 ***
 

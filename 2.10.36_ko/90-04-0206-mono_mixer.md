@@ -13,12 +13,12 @@
 <a id="90-04-206-a103"></a>
 
 #### 그림 90.4.206.a103. `Mono Mixer` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-206-a103" src="" />
+<img width="371" height="314" alt="90-04-206-a103" src="https://github.com/user-attachments/assets/d2108e66-f3ae-4e7c-9b32-07e96b4601bd" />
 
 <a id="90-04-206-a104"></a>
 
 #### 그림 90.4.206.a104. `Mono Mixer` 대화상자 (Mac) (영어)
-<img width="" height="" alt="90-04-206-a104" src="" />
+<img width="371" height="311" alt="90-04-206-a104" src="https://github.com/user-attachments/assets/25efd6c6-c311-42b2-ae3f-c9d05075b5a7" />
 
 ***
 

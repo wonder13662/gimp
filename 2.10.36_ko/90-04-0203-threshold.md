@@ -13,12 +13,12 @@
 <a id="90-04-203-a103"></a>
 
 #### 그림 90.4.203.a103. `임계` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-203-a103" src="" />
+<img width="371" height="371" alt="90-04-203-a103" src="https://github.com/user-attachments/assets/5c55d781-11b7-41e2-85a6-9c8f69c84526" />
 
 <a id="90-04-203-a104"></a>
 
 #### 그림 90.4.203.a104. `임계` 대화상자 (Mac) (영어)
-<img width="" height="" alt="90-04-203-a104" src="" />
+<img width="371" height="364" alt="90-04-203-a104" src="https://github.com/user-attachments/assets/790ca222-287b-4ce2-914e-cee134482b40" />
 
 ***
 

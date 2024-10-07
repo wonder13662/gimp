@@ -13,12 +13,12 @@
 <a id="90-04-211-a103"></a>
 
 #### 그림 90.4.211.a103. `색상 교환` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-211-a103" src="" />
+<img width="371" height="367" alt="90-04-211-a103" src="https://github.com/user-attachments/assets/52a9a6a7-9995-477e-86fb-6ea892ad1f06" />
 
 <a id="90-04-211-a104"></a>
 
 #### 그림 90.4.211.a104. `색상 교환` 대화상자 (Mac) (영어)
-<img width="" height="" alt="90-04-211-a104" src="" />
+<img width="371" height="362" alt="90-04-211-a104" src="https://github.com/user-attachments/assets/c5fcf818-2bfb-4761-81be-909999a06df3" />
 
 ***
 

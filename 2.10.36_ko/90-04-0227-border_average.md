@@ -13,9 +13,9 @@
 <a id="90-04-227-a103"></a>
 
 #### 그림 90.4.227.a103. `테두리 평균` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-227-a103" src="" />
+<img width="292" height="204" alt="90-04-227-a103" src="https://github.com/user-attachments/assets/5bb62f1c-cde2-4707-9ce8-64ed8191f27c" />
 
 <a id="90-04-227-a104"></a>
 
 #### 그림 90.4.227.a104. `테두리 평균` 대화상자 (Mac) (영어)
-<img width="" height="" alt="90-04-227-a104" src="" />
+<img width="292" height="200" alt="90-04-227-a104" src="https://github.com/user-attachments/assets/bacaf030-ff87-4d6e-84cc-48dd2bd2c79a" />

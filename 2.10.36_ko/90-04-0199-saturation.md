@@ -13,12 +13,12 @@
 <a id="90-04-199-a103"></a>
 
 #### 그림 90.4.199.a103. `채도` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-199-a103" src="" />
+<img width="371" height="289" alt="90-04-199-a103" src="https://github.com/user-attachments/assets/cb010441-cb5e-40fc-a8a1-31cb176007bc" />
 
 <a id="90-04-199-a104"></a>
 
 #### 그림 90.4.199.a104. `채도` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-199-a104" src="" />
+<img width="371" height="283" alt="90-04-199-a104" src="https://github.com/user-attachments/assets/1849729b-99c8-4166-96e6-0f5fe39d132e" />
 
 ***
 

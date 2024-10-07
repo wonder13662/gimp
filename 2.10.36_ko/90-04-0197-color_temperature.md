@@ -13,12 +13,12 @@
 <a id="90-04-197-a103"></a>
 
 #### 그림 90.4.197.a103. `색 온도` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-197-a103" src="" />
+<img width="371" height="298" alt="90-04-197-a103" src="https://github.com/user-attachments/assets/8a7a9239-ddde-4af5-bfc7-98bdccda2c86" />
 
 <a id="90-04-197-a104"></a>
 
 #### 그림 90.4.197.a104. `색 온도` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-197-a104" src="" />
+<img width="371" height="292" alt="90-04-197-a104" src="https://github.com/user-attachments/assets/4a9cf796-e1ad-4833-92c2-b28d73312fb7" />
 
 ***
 

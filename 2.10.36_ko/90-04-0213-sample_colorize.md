@@ -13,12 +13,12 @@
 <a id="90-04-213-a103"></a>
 
 #### 그림 90.4.213.a103. `표본 색상화` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-213-a103" src="" />
+<img width="659" height="550" alt="90-04-213-a103" src="https://github.com/user-attachments/assets/a46374f6-a20a-4373-a28a-41369c92d255" />
 
 <a id="90-04-213-a104"></a>
 
 #### 그림 90.4.213.a104. `표본 색상화` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-213-a104" src="" />
+<img width="664" height="548" alt="90-04-213-a104" src="https://github.com/user-attachments/assets/7a9036bc-bdb0-4dd0-b375-bfc2709e5220" />
 
 ***
 

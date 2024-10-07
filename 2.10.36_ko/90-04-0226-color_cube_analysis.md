@@ -13,9 +13,9 @@
 <a id="90-04-226-a103"></a>
 
 #### 그림 90.4.226.a103. `색상 큐브 분석` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-226-a103" src="" />
+<img width="283" height="298" alt="90-04-226-a103" src="https://github.com/user-attachments/assets/25055f83-acc3-457b-8b89-d2d959a195ac" />
 
 <a id="90-04-226-a104"></a>
 
 #### 그림 90.4.226.a104. `색상 큐브 분석` 대화상자 (Mac) (영어)
-<img width="" height="" alt="90-04-226-a104" src="" />
+<img width="283" height="294" alt="90-04-226-a104" src="https://github.com/user-attachments/assets/29fc4f55-7a22-45b9-866e-2c32f8151140" />

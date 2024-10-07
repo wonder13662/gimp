@@ -13,9 +13,9 @@
 <a id="90-04-225-a103"></a>
 
 #### 그림 90.4.225.a103. `부드러운 팔레트` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-225-a103" src="" />
+<img width="292" height="171" alt="90-04-225-a103" src="https://github.com/user-attachments/assets/52b18577-9e8d-442d-bbf7-f7f486138ae2" />
 
 <a id="90-04-225-a104"></a>
 
 #### 그림 90.4.225.a104. `부드러운 팔레트` 대화상자 (Mac) (영어)
-<img width="" height="" alt="90-04-225-a104" src="" />
+<img width="292" height="171" alt="90-04-225-a104" src="https://github.com/user-attachments/assets/e266d4d9-bb8b-4b4e-aa98-6896d8358edf" />

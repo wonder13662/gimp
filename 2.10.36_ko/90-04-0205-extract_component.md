@@ -13,12 +13,12 @@
 <a id="90-04-205-a103"></a>
 
 #### 그림 90.4.205.a103. `요소 추출` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-205-a103" src="" />
+<img width="371" height="312" alt="90-04-205-a103" src="https://github.com/user-attachments/assets/d0bb11a3-b1ff-4ace-bed4-e7af2a8b32ee" />
 
 <a id="90-04-205-a104"></a>
 
 #### 그림 90.4.205.a104. `요소 추출` 대화상자 (Mac) (영어)
-<img width="" height="" alt="90-04-205-a104" src="" />
+<img width="371" height="307" alt="90-04-205-a104" src="https://github.com/user-attachments/assets/059a514c-f8f5-454f-8cb1-8b8c840e1cfb" />
 
 ***
 

@@ -179,6 +179,11 @@ module.exports = {
   */
   getPageRootPath: () => `${path.normalize(`${__dirname}/../..`)}/2.10.36_ko`,
   /*
+  * 처리할 이미지 파일들이 있는 디렉토리의 절대 경로를 가져옵니다.
+  *
+  */
+  getImageDirectoryRootPath: () => `${path.normalize(`${__dirname}/../..`)}/2.10.36_ko`,  
+  /*
   * 디렉토리의 모든 파일 목록을 가져옵니다.
   *
   */

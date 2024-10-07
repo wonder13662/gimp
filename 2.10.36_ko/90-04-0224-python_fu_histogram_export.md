@@ -13,9 +13,9 @@
 <a id="90-04-224-a103"></a>
 
 #### 그림 90.4.224.a103. `python-fu-histogram-export` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-224-a103" src="" />
+<img width="340" height="352" alt="90-04-224-a103" src="https://github.com/user-attachments/assets/8cbb3010-431a-4b3d-98e2-a1dba4b177ca" />
 
 <a id="90-04-224-a104"></a>
 
 #### 그림 90.4.224.a104. `python-fu-histogram-export` 대화상자 (Mac) (영어)
-<img width="" height="" alt="90-04-224-a104" src="" />
+<img width="340" height="350" alt="90-04-224-a104" src="https://github.com/user-attachments/assets/e665a0a8-bf30-4672-9769-21701b5b3f45" />

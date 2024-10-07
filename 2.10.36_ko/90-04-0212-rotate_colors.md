@@ -13,12 +13,12 @@
 <a id="90-04-212-a103"></a>
 
 #### 그림 90.4.212.a103. `색 전환` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-212-a103" src="" />
+<img width="373" height="632" alt="90-04-212-a103" src="https://github.com/user-attachments/assets/8ca7fa91-af0b-4415-8f78-770977f33cda" />
 
 <a id="90-04-212-a104"></a>
 
 #### 그림 90.4.212.a104. `색 전환` 대화상자 (Mac) (영어)
-<img width="" height="" alt="90-04-212-a104" src="" />
+<img width="373" height="626" alt="90-04-212-a104" src="https://github.com/user-attachments/assets/b45ddb66-9167-4db4-917d-1d7b2979b24c" />
 
 ***
 

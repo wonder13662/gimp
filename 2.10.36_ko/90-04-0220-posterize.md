@@ -13,12 +13,12 @@
 <a id="90-04-220-a103"></a>
 
 #### 그림 90.4.220.a103. `Posterize` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-220-a103" src="" />
+<img width="371" height="257" alt="90-04-220-a103" src="https://github.com/user-attachments/assets/a4865486-b220-4bac-8846-1abb206b31b0" />
 
 <a id="90-04-220-a104"></a>
 
 #### 그림 90.4.220.a104. `Posterize` 대화상자 (Mac) (영어)
-<img width="" height="" alt="90-04-220-a104" src="" />
+<img width="371" height="254" alt="90-04-220-a104" src="https://github.com/user-attachments/assets/a2ffd30c-c8de-47e5-ae39-53862ff204b9" />
 
 ***
 

@@ -13,12 +13,12 @@
 <a id="90-04-209-a103"></a>
 
 #### 그림 90.4.209.a103. `색상표 설정하기` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-209-a103" src="" />
+<img width="383" height="186" alt="90-04-209-a103" src="https://github.com/user-attachments/assets/4da97138-03b4-4dfa-bba0-52220fbf7cc1" />
 
 <a id="90-04-209-a104"></a>
 
 #### 그림 90.4.209.a104. `색상표 설정하기` 대화상자 (Mac) (영어)
-<img width="" height="" alt="90-04-209-a104" src="" />
+<img width="383" height="186" alt="90-04-209-a104" src="https://github.com/user-attachments/assets/a7fb114e-b90c-47cc-af95-0b906ad78426" />
 
 ***
 

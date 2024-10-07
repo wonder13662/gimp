@@ -13,12 +13,12 @@
 <a id="90-04-204-a103"></a>
 
 #### 그림 90.4.204.a103. `채널 혼합` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-204-a103" src="" />
+<img width="371" height="476" alt="90-04-204-a103" src="https://github.com/user-attachments/assets/794d59f2-2867-4109-af58-a0921aa8fb63" />
 
 <a id="90-04-204-a104"></a>
 
 #### 그림 90.4.204.a104. `채널 혼합` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-204-a104" src="" />
+<img width="371" height="470" alt="90-04-204-a104" src="https://github.com/user-attachments/assets/d0b79b22-9b98-42a4-bd8b-78be10f3a090" />
 
 ***
 

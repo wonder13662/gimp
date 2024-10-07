@@ -13,12 +13,12 @@
 <a id="90-04-207-a103"></a>
 
 #### 그림 90.4.207.a103. `흑백전환` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-207-a103" src="" />
+<img width="371" height="316" alt="90-04-207-a103" src="https://github.com/user-attachments/assets/ff6bd895-0775-4bec-9450-985537f9ca5d" />
 
 <a id="90-04-207-a104"></a>
 
 #### 그림 90.4.207.a104. `흑백전환` 대화상자 (Mac) (우리말)
-<img width="" height="" alt="90-04-207-a104" src="" />
+<img width="371" height="340" alt="90-04-207-a104" src="https://github.com/user-attachments/assets/e748eede-e0aa-450f-819c-3eaae36e5c10" />
 
 ***
 
