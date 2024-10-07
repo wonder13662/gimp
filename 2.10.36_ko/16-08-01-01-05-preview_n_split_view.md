@@ -27,14 +27,14 @@
 
 <a id="90-04-196-a132"></a>
 
-#### [영상 90.4.196.a132. `색상 균형` 대화상자 → `미리보기`, `보기 영역 분할`: 안내선 제어 (Windows) (우리말)](./90-04-0196-color_balance.md#90-04-196-a132)
+#### [영상 90.4.196.a132. `색상 균형` 대화상자 → `보기 영역 분할`: 안내선 제어 (Windows) (우리말)](./90-04-0196-color_balance.md#90-04-196-a132)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7d6ae156-c154-488f-ac5a-855380272401"></video>
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.8.2. Color balance](./16-08-02-color-balance.md)
+[➡️ 다음: 16.8.1.1.6. 고급 색상 옵션(Advanced Color Options)](./16-08-01-01-06-advanced_color_options.md)
 
 [⬅️ 이전: 16.8.1.1.4. 혼합 옵션(Blending Options)](./16-08-01-01-04-blending_options.md)
 

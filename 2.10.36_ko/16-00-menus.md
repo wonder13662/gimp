@@ -1144,9 +1144,45 @@
 
 [16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
 
-[16.8.1. Introduction to the colors menu](./16-08-01-00-introduction-to-the-colors-menu.md)
+[16.8.1. 색 메뉴 소개(Introduction to the colors menu)](./16-08-01-00-introduction-to-the-colors-menu.md)
 
-[16.8.2. Color balance](./16-08-02-color-balance.md)
+[16.8.1.1. 색 공통 기능(Colors Common Features)](./16-08-01-01-00-colors_common_features.md)
+
+[16.8.1.1.1. 프리셋(Presets)](./16-08-01-01-01-presets.md)
+
+[16.8.1.1.2. 입력 타입(Input Type)](./16-08-01-01-02-input_type.md)
+
+[16.8.1.1.3. 오리기(Clipping)](./16-08-01-01-03-clipping.md)
+
+[16.8.1.1.4. 혼합 옵션(Blending Options)](./16-08-01-01-04-blending_options.md)
+
+[16.8.1.1.5. 미리보기와 보기 영역 분할(Preview and Split view)](./16-08-01-01-05-preview_n_split_view.md)
+
+[16.8.1.1.6. 고급 색상 옵션(Advanced Color Options)](./16-08-01-01-06-advanced_color_options.md)
+
+[16.8.2. 색상 균형(Color balance)](./16-08-02-00-color-balance.md)
+
+[16.8.2.1. 도구 활성화하기(Activating the Tool)](./16-08-02-01-activating_the_tool.md)
+
+[16.8.2.2. 옵션(Options)](./16-08-02-02-00-options.md)
+
+[16.8.2.2.1. 프리셋(Presets)](./16-08-02-02-01-presets.md)
+
+[16.8.2.2.2. 변경할 범위를 선택하십시오(Select range to adjust)](./16-08-02-02-02-select_range_to_adjust.md)
+
+[16.8.2.2.3. 색상 레벨 조절(Adjust color levels)](./16-08-02-02-03-adjust_color_levels.md)
+
+[16.8.2.2.4. 범위 초기화(Reset Range)](./16-08-02-02-04-reset_range.md)
+
+[16.8.2.2.5. 휘도 유지(Preserve Luminosity)](./16-08-02-02-05-preserve_luminosity.md)
+
+[16.8.2.2.6. 혼합 옵션(Blending Options)](./16-08-02-02-06-blending_options.md)
+
+[16.8.2.2.7. 고급 색상 옵션(Advanced Color Options)](./16-08-02-02-07-advanced_color_options.md)
+
+[16.8.2.2.8. 미리보기(Preview)](./16-08-02-02-08-preview.md)
+
+[16.8.2.2.9. 보기 영역 분할(Split view)](./16-08-02-02-09-split_view.md)
 
 [16.8.3. Color temperature](./16-08-03-color-temperature.md)
 

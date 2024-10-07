@@ -17,6 +17,8 @@
 
 [16.8.1.1.5. 미리보기와 보기 영역 분할(Preview and Split view)](./16-08-01-01-05-preview_n_split_view.md)
 
+[16.8.1.1.6. 고급 색상 옵션(Advanced Color Options)](./16-08-01-01-06-advanced_color_options.md)
+
 ***
 
 ## 다른 페이지로 가기

@@ -5,6 +5,11 @@
 #### [그림 90.4.195.a161. `오프셋` 대화상자 → `고급 색상 옵션` (Windows) (우리말)](./90-04-0195-offset.md#90-04-195-a161)
 <img width="372" height="482" alt="90-04-195-a161" src="https://github.com/user-attachments/assets/9e2889e2-d85b-42cd-b902-c0cdf1e5e01f" />
 
+<a id="90-04-196-a181"></a>
+
+#### [그림 90.4.196.a181. `색상 균형` 대화상자 → `고급 색상 옵션`: 드롭다운 목록 (Windows)](./90-04-0196-color_balance.md#90-04-196-a181)
+<img width="418" height="52" alt="90-04-196-a181" src="https://github.com/user-attachments/assets/fa99fae3-2167-499f-8e89-7604d1c475cc" />
+
 원문에서 해당 옵션의 내용은 별도의 설명이 없습니다.
 
 추후 내용이 추가될 예정입니다.

@@ -2042,8 +2042,8 @@ module.exports = {
         '16.8.1. Introduction to the colors menu'
       ],
       [
-        '16-08-02-color-balance.md', 
-        '16.8.2. Color balance'
+        '16-08-02-00-color-balance.md', 
+        '16.8.2. 색상 균형(Color balance)'
       ],
       [
         '16-08-03-color-temperature.md', 

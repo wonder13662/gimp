@@ -4090,7 +4090,31 @@
 
 [16.8.1.1.5. 미리보기와 보기 영역 분할(Preview and Split view)](./16-08-01-01-05-preview_n_split_view.md)
 
-[16.8.2. Color balance](./16-08-02-color-balance.md)
+[16.8.1.1.6. 고급 색상 옵션(Advanced Color Options)](./16-08-01-01-06-advanced_color_options.md)
+
+[16.8.2. 색상 균형(Color balance)](./16-08-02-00-color-balance.md)
+
+[16.8.2.1. 도구 활성화하기(Activating the Tool)](./16-08-02-01-activating_the_tool.md)
+
+[16.8.2.2. 옵션(Options)](./16-08-02-02-00-options.md)
+
+[16.8.2.2.1. 프리셋(Presets)](./16-08-02-02-01-presets.md)
+
+[16.8.2.2.2. 변경할 범위를 선택하십시오(Select range to adjust)](./16-08-02-02-02-select_range_to_adjust.md)
+
+[16.8.2.2.3. 색상 레벨 조절(Adjust color levels)](./16-08-02-02-03-adjust_color_levels.md)
+
+[16.8.2.2.4. 범위 초기화(Reset Range)](./16-08-02-02-04-reset_range.md)
+
+[16.8.2.2.5. 휘도 유지(Preserve Luminosity)](./16-08-02-02-05-preserve_luminosity.md)
+
+[16.8.2.2.6. 혼합 옵션(Blending Options)](./16-08-02-02-06-blending_options.md)
+
+[16.8.2.2.7. 고급 색상 옵션(Advanced Color Options)](./16-08-02-02-07-advanced_color_options.md)
+
+[16.8.2.2.8. 미리보기(Preview)](./16-08-02-02-08-preview.md)
+
+[16.8.2.2.9. 보기 영역 분할(Split view)](./16-08-02-02-09-split_view.md)
 
 [16.8.3. Color temperature](./16-08-03-color-temperature.md)
 
@@ -6620,7 +6644,7 @@
 
 [90.4.202. 레벨(Levels)](./90-04-0202-levels.md)
 
-[90.4.203. ?(Color Balance)](./90-04-0203-threshold.md)
+[90.4.203. 임계(Threshold)](./90-04-0203-threshold.md)
 
 [90.4.204. 채널 혼합(Channel Mixer)](./90-04-0204-channel_mixer.md)
 
@@ -6632,7 +6656,7 @@
 
 [90.4.208. 세피아(Sepia)](./90-04-0208-sepia.md)
 
-[90.4.209. 색상표 재배치(Set Colormap)](./90-04-0209-set_colormap.md)
+[90.4.209. 색상표 설정하기(Set Colormap)](./90-04-0209-set_colormap.md)
 
 [90.4.210. Alien Map](./90-04-0210-alien_map.md)
 
@@ -6661,6 +6685,14 @@
 [90.4.222. RGB 클립(RGB Clip)](./90-04-0222-rgb_clip.md)
 
 [90.4.223. 뜨거움(Hot)](./90-04-0223-hot.md)
+
+[90.4.224. python-fu-histogram-export](./90-04-0224-python_fu_histogram_export.md)
+
+[90.4.225. 부드러운 팔레트(Smooth Palette)](./90-04-0225-smooth_palette.md)
+
+[90.4.226. 색상 큐브 분석(Colorcube Analysis)](./90-04-0226-color_cube_analysis.md)
+
+[90.4.227. 테두리 평균(Border Average)](./90-04-0227-border_average.md)
 
 [90.5. 이미지 창(Image Window)](./90-05-00-image_window.md)
 
