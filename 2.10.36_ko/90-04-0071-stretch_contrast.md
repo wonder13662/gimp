@@ -20,6 +20,11 @@
 #### 그림 90.4.71.a104. `대비 증가` 대화상자 (Mac) (영어)
 <img width="371" height="281" alt="90-04-71-a104" src="https://github.com/wonder13662/gimp/assets/15767104/da07bda7-63e6-4d7c-8d1c-516e68b43d6d" />
 
+<a id="90-04-71-a111"></a>
+
+#### 그림 90.4.71.a111. `대비 증가` 대화상자 → `잘라내기` (Windows) (우리말)
+<img width="448" height="412" alt="90-04-71-a111" src="https://github.com/user-attachments/assets/4eb58c90-b514-4db4-9741-d72f6a48ef0b" />
+
 ***
 
 ## 다른 페이지로 가기

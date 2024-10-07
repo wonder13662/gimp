@@ -4084,7 +4084,7 @@
 
 [16.8.1.1.2. 입력 타입(Input Type)](./16-08-01-01-02-input_type.md)
 
-[16.8.1.1.3. 잘라내기(Clipping)](./16-08-01-01-03-clipping.md)
+[16.8.1.1.3. 오리기(Clipping)](./16-08-01-01-03-clipping.md)
 
 [16.8.1.1.4. 혼합 옵션(Blending Options)](./16-08-01-01-04-blending_options.md)
 
