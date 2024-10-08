@@ -2046,8 +2046,8 @@ module.exports = {
         '16.8.2. 색상 균형(Color balance)'
       ],
       [
-        '16-08-03-color-temperature.md', 
-        '16.8.3. Color temperature'
+        '16-08-03-00-color-temperature.md', 
+        '16.8.3. 색 온도(Color temperature)'
       ],
       [
         '16-08-04-hue-chroma.md', 
