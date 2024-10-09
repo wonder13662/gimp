@@ -2050,8 +2050,8 @@ module.exports = {
         '16.8.3. 색 온도(Color temperature)'
       ],
       [
-        '16-08-04-hue-chroma.md', 
-        '16.8.4. Hue chroma'
+        '16-08-04-00-hue-chroma.md', 
+        '16.8.4. 색상-채도(Chroma)(Hue-Chroma)'
       ],
       [
         '16-08-05-hue-saturation.md', 

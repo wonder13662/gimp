@@ -1206,7 +1206,27 @@
 
 [16.8.3.3.7. 보기 영역 분할(Split view)](./16-08-03-03-07-split_view.md)
 
-[16.8.4. Hue chroma](./16-08-04-hue-chroma.md)
+[16.8.4. 색상-채도(Chroma)(Hue-Chroma)](./16-08-04-00-hue-chroma.md)
+
+[16.8.4.1. 명령 활성화하기(Activating the Command)](./16-08-04-01-activating_the_command.md)
+
+[16.8.4.2. 옵션(Options)](./16-08-04-02-00-options.md)
+
+[16.8.4.2.1. 프리셋(Presets)](./16-08-04-02-01-presets.md)
+
+[16.8.4.2.2. 색상(Hue)](./16-08-04-02-02-hue.md)
+
+[16.8.4.2.3. 채도(Chroma)](./16-08-04-02-03-chroma.md)
+
+[16.8.4.2.4. 밝기(lightness)](./16-08-04-02-04-lightness.md)
+
+[16.8.4.2.5. 혼합 옵션(Blending Options)](./16-08-04-02-05-blending_options.md)
+
+[16.8.4.2.6. 고급 색상 옵션(Advanced Color Options)](./16-08-04-02-06-advanced_color_options.md)
+
+[16.8.4.2.7. 미리보기(Preview)](./16-08-04-02-07-preview.md)
+
+[16.8.4.2.8. 보기 영역 분할(Split view)](./16-08-04-02-08-split_view.md)
 
 [16.8.5. Hue saturation](./16-08-05-hue-saturation.md)
 
