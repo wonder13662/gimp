@@ -1,6 +1,18 @@
 # 90.1.7.4. 색상-채도(Saturation)(Hue-Saturation)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-(TODO 이미지 추가)
+
+<a id="90-01-07-04-a1"></a>
+
+#### 그림 90.1.7.4.a1. `이미지 메뉴 바` → `색` → `색상-채도(Saturation)`
+<img width="916" height="970" alt="90-01-07-04-a1" src="https://github.com/user-attachments/assets/37058212-c5c0-4320-9578-84578970e332" />
+
+[16.8.5. 색상-채도(Saturation) - 그림 90.1.7.4.a1](./16-08-05-00-hue-saturation.md#90-01-07-04-a1)
+
+<a id="90-01-07-04-a2"></a>
+
+#### 영상 90.1.7.4.a2. `이미지 메뉴 바` → `색` → `색상-채도(Saturation)` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/d0603263-82fe-46d1-b637-b0436e6f24b0"></video>
+
+[16.8.5.1. 명령 활성화하기(Activating the command) - 영상 90.1.7.4.a2](./16-08-05-01-activating_the_command.md#90-01-07-04-a2)
 
 ***
 

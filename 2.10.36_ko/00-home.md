@@ -4160,7 +4160,27 @@
 
 [16.8.4.2.8. 보기 영역 분할(Split view)](./16-08-04-02-08-split_view.md)
 
-[16.8.5. Hue saturation](./16-08-05-hue-saturation.md)
+[16.8.5. 색상-채도(Saturation)](./16-08-05-00-hue-saturation.md)
+
+[16.8.5.1. 명령 활성화하기(Activating the command)](./16-08-05-01-activating_the_command.md)
+
+[16.8.5.2. 옵션(Options)](./16-08-05-02-00-options.md)
+
+[16.8.5.2.1. 프리셋(Presets)](./16-08-05-02-01-presets.md)
+
+[16.8.5.2.2. 변경할 원색을 선택하십시오(Select Primary Color to Adjust)](./16-08-05-02-02-select_primary_color_to_adjust.md)
+
+[16.8.5.2.3. 겹치기(Overlap)](./16-08-05-02-03-overlap.md)
+
+[16.8.5.2.4. 선택한 색상 변경(Adjust Selected Color)](./16-08-05-02-04-adjust_selected_color.md)
+
+[16.8.5.2.5. 혼합 옵션(Blending Options)](./16-08-05-02-05-blending_options.md)
+
+[16.8.5.2.6. 고급 색상 옵션(Advanced Color Options)](./16-08-05-02-06-advanced_color_options.md)
+
+[16.8.5.2.7. 미리보기(Preview)](./16-08-05-02-07-preview.md)
+
+[16.8.5.2.8. 보기 영역 분할(Split view)](./16-08-05-02-08-split_view.md)
 
 [16.8.6. Saturation](./16-08-06-saturation.md)
 
@@ -6430,7 +6450,7 @@
 
 [90.4.75. 색상 추출(Color Picker)](./90-04-0075-color_picker.md)
 
-[90.4.76. 색상-채도(Hue-Saturation)](./90-04-0076-hue_saturation.md)
+[90.4.76. 색상-채도(Saturation)(Hue-Saturation)](./90-04-0076-hue_saturation.md)
 
 [90.4.77. 선명하게 하기 - Sharpen(Unsharp Mask)](./90-04-0077-sharpen_unsharp_mask.md)
 

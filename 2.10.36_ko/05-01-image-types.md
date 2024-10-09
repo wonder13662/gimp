@@ -103,11 +103,11 @@ GIMP(김프)의 많은 수의 도구와 필터들이 `인덱스(indexed)` 이미
 <a id="05-01-s1-04"></a>
 
 ## 1-4. CMY(K)
-[`CMY(K)` 컬러 모드](./19-glossaryx-color_model_cmyk.md)에서는 사이언(Cyan), 마젠다(Magenta), 노랑(Yellow)를 합치면 검정이 됩니다. 
+[`CMY(K)` 컬러 모드](./19-glossaryx-color_model_cmyk.md)에서는 하늘색(Cyan), 마젠다(Magenta), 노랑(Yellow)를 합치면 검정이 됩니다. 
 
 이 방식은 실제로 인쇄할 때의 방식(감산 혼합 - subtractive)입니다. 
 
-인쇄기는 실제로도 사이언(Cyan), 마젠다(Magenta), 노랑(Yellow) 카트리지의 색상을 합치지 않고 단 하나의 검은색 카트리지를 사용해 인쇄를 합니다. 
+인쇄기는 실제로도 하늘색(Cyan), 마젠다(Magenta), 노랑(Yellow) 카트리지의 색상을 합치지 않고 단 하나의 검은색 카트리지를 사용해 인쇄를 합니다. 
 
 이는 색상을 적게 사용하는 경제적인 이유도 있고, 더 나은 색상을 보여주는 결과를 가져옵니다. 
 

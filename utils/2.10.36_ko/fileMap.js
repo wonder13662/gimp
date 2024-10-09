@@ -2054,8 +2054,8 @@ module.exports = {
         '16.8.4. 색상-채도(Chroma)(Hue-Chroma)'
       ],
       [
-        '16-08-05-hue-saturation.md', 
-        '16.8.5. Hue saturation'
+        '16-08-05-00-hue-saturation.md', 
+        '16.8.5. 색상-채도(Saturation)'
       ],
       [
         '16-08-06-saturation.md', 
