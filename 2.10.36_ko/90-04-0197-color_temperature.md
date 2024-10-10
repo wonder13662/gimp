@@ -5,6 +5,8 @@
 #### 그림 90.4.197.a101. `색 온도` 대화상자 (Windows) (우리말)
 <img width="448" height="382" alt="90-04-197-a101" src="https://github.com/user-attachments/assets/994c0c64-70e9-4734-8ef6-a5c24e518ea5" />
 
+[16.8.3.3. 옵션(Options) - 그림 90.4.197.a101](./16-08-03-03-00-options.md#90-04-197-a101)
+
 <a id="90-04-197-a102"></a>
 
 #### 그림 90.4.197.a102. `색 온도` 대화상자 (Windows) (영어)
@@ -91,7 +93,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.4.198. 색상-채도(Hue-Chroma)](./90-04-0198-hue_chroma.md)
+[➡️ 다음: 90.4.198. 색상-채도(Chroma)(Hue-Chroma)](./90-04-0198-hue_chroma.md)
 
 [⬅️ 이전: 90.4.196. 색상 균형(Color Balance)](./90-04-0196-color_balance.md)
 

@@ -1615,7 +1615,7 @@
 
 [90.4.197. 색 온도(Color Temperature)](./90-04-0197-color_temperature.md)
 
-[90.4.198. 색상-채도(Hue-Chroma)](./90-04-0198-hue_chroma.md)
+[90.4.198. 색상-채도(Chroma)(Hue-Chroma)](./90-04-0198-hue_chroma.md)
 
 [90.4.199. 채도(Saturation)](./90-04-0199-saturation.md)
 

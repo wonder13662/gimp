@@ -2,7 +2,7 @@
 
 <a id="90-04-198-a151"></a>
 
-#### [그림 90.4.198.a151. `색상-채도` 대화상자 → `혼합 옵션` (Windows) (우리말)](./90-04-0198-hue_chroma.md#90-04-198-a151)
+#### [그림 90.4.198.a151. `색상-채도(Chroma)` 대화상자 → `혼합 옵션` (Windows) (우리말)](./90-04-0198-hue_chroma.md#90-04-198-a151)
 <img width="448" height="402" alt="90-04-198-a151" src="https://github.com/user-attachments/assets/0a4ed7bd-18a0-4663-adac-35a9af1764b2" />
 
 [16.8.1.1. 색 공통 기능 → 16.8.1.1.4. 혼합 옵션](./16-08-01-01-04-blending_options.md)을 참고해주세요.

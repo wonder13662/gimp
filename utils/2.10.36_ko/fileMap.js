@@ -2062,7 +2062,7 @@ module.exports = {
         '16.8.6. 채도(Saturation)'
       ],
       [
-        '16-08-07-exposure.md', 
+        '16-08-07-00-exposure.md', 
         '16.8.7. 노출(Exposure)'
       ],
       [

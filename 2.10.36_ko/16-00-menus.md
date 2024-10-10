@@ -1270,7 +1270,25 @@
 
 [16.8.6.2.7. 보기 영역 분할(Split view)](./16-08-06-02-07-split_view.md)
 
-[16.8.7. 노출(Exposure)](./16-08-07-exposure.md)
+[16.8.7. 노출(Exposure)](./16-08-07-00-exposure.md)
+
+[16.8.7.1. 명령 활성화하기(Activating the Command)](./16-08-07-01-activating_the_command.md)
+
+[16.8.7.2. 옵션(Options)](./16-08-07-02-00-options.md)
+
+[16.8.7.2.1. 프리셋(Presets)](./16-08-07-02-01-presets.md)
+
+[16.8.7.2.2. Black Level](./16-08-07-02-02-black_level.md)
+
+[16.8.7.2.3. 노출(Exposure)](./16-08-07-02-03-exposure.md)
+
+[16.8.7.2.4. 혼합 옵션(Blending Options)](./16-08-07-02-04-blending_options.md)
+
+[16.8.7.2.5. 고급 색상 옵션(Advanced Color Options)](./16-08-07-02-05-advanced_color_options.md)
+
+[16.8.7.2.6. 미리보기(Preview)](./16-08-07-02-06-preview.md)
+
+[16.8.7.2.7. 보기 영역 분할(Split view)](./16-08-07-02-07-split_view.md)
 
 [16.8.8. Shadows highlights](./16-08-08-shadows-highlights.md)
 
