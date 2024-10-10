@@ -4182,7 +4182,25 @@
 
 [16.8.5.2.8. 보기 영역 분할(Split view)](./16-08-05-02-08-split_view.md)
 
-[16.8.6. Saturation](./16-08-06-saturation.md)
+[16.8.6. 채도(Saturation)](./16-08-06-00-saturation.md)
+
+[16.8.6.1. 명령 활성화하기(Activating the Command)](./16-08-06-01-activating_the_command.md)
+
+[16.8.6.2. 옵션(Options)](./16-08-06-02-00-options.md)
+
+[16.8.6.2.1. 프리셋(Presets)](./16-08-06-02-01-presets.md)
+
+[16.8.6.2.2. 비율(Scale)](./16-08-06-02-02-scale.md)
+
+[16.8.6.2.3. 보간법 색 공간(Interpolation Color Space)](./16-08-06-02-03-interpolation_color_space.md)
+
+[16.8.6.2.4. 혼합 옵션(Blending Options)](./16-08-06-02-04-blending_options.md)
+
+[16.8.6.2.5. 고급 색상 옵션(Advanced Color Options)](./16-08-06-02-05-advanced_color_options.md)
+
+[16.8.6.2.6. 미리보기(Preview)](./16-08-06-02-06-preview.md)
+
+[16.8.6.2.7. 보기 영역 분할(Split view)](./16-08-06-02-07-split_view.md)
 
 [16.8.7. 노출(Exposure)](./16-08-07-exposure.md)
 

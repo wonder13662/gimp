@@ -2058,8 +2058,8 @@ module.exports = {
         '16.8.5. 색상-채도(Saturation)'
       ],
       [
-        '16-08-06-saturation.md', 
-        '16.8.6. Saturation'
+        '16-08-06-00-saturation.md', 
+        '16.8.6. 채도(Saturation)'
       ],
       [
         '16-08-07-exposure.md', 
