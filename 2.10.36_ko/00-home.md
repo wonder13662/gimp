@@ -4224,7 +4224,47 @@
 
 [16.8.8. 그림자-강조(Shadows-Highlights)](./16-08-08-00-shadows-highlights.md)
 
-[16.8.9. Brightness contrast](./16-08-09-brightness-contrast.md)
+[16.8.8.1. 명령 활성화하기(Activating the Command)](./16-08-08-01-activating_the_command.md)
+
+[16.8.8.2. 옵션(Options)](./16-08-08-02-00-options.md)
+
+[16.8.8.2.1. 프리셋(Presets)](./16-08-08-02-01-presets.md)
+
+[16.8.8.2.2. 그림자(Shadows)](./16-08-08-02-02-shadows.md)
+
+[16.8.8.2.3. 강조(Highlights)](./16-08-08-02-03-highlights.md)
+
+[16.8.8.2.4. 일반(Common)](./16-08-08-02-04-common.md)
+
+[16.8.8.2.5. 혼합 옵션(Blending Options)](./16-08-08-02-05-blending_options.md)
+
+[16.8.8.2.6. 고급 색상 옵션(Advanced Color Options)](./16-08-08-02-06-advanced_color_options.md)
+
+[16.8.8.2.7. 미리보기(Preview)](./16-08-08-02-07-preview.md)
+
+[16.8.8.2.8. 보기 영역 분할(Split view)](./16-08-08-02-08-split_view.md)
+
+[16.8.9. 명도-대비(Brightness-Contrast)](./16-08-09-00-brightness-contrast.md)
+
+[16.8.9.1. 도구 활성화하기(Activating the Tool)](./16-08-09-01-activating_the_tool.md)
+
+[16.8.9.2. 옵션(Options)](./16-08-09-02-00-options.md)
+
+[16.8.9.2.1. 프리셋(Presets)](./16-08-09-02-01-presets.md)
+
+[16.8.9.2.2. 명도(Brightness)](./16-08-09-02-02-brightness.md)
+
+[16.8.9.2.3. 대비(Contrast)](./16-08-09-02-03-contrast.md)
+
+[16.8.9.2.4. 레벨로 이 설정 편집하기(Edit these settings as Levels)](./16-08-09-02-04-edit_these_settings_as_levels.md)
+
+[16.8.9.2.5. 혼합 옵션(Blending Options)](./16-08-09-02-05-blending_options.md)
+
+[16.8.9.2.6. 고급 색상 옵션(Advanced Color Options)](./16-08-09-02-06-advanced_color_options.md)
+
+[16.8.9.2.7. 미리보기(Preview)](./16-08-09-02-07-preview.md)
+
+[16.8.9.2.8. 보기 영역 분할(Split view)](./16-08-09-02-08-split_view.md)
 
 [16.8.10. 레벨(Levels)](./16-08-10-levels.md)
 
@@ -4808,6 +4848,8 @@
 
 [19. 용어집 - 비트 깊이(Bit Depth)](./19-glossaryx-bit_depth.md)
 
+[19. 용어집 - 블랙 포인트(Black point)](./19-glossaryx-black_point.md)
+
 [19. 용어집 - 흑점 보상(Black Point Compensation or BPC)](./19-glossaryx-black_point_compensation.md)
 
 [19. 용어집 - 블렌딩(Blending)](./19-glossaryx-blending.md)
@@ -5133,6 +5175,8 @@
 [19. 용어집 - 붓 파일 확장자 - `.vbr`](./19-glossaryx-vbr.md)
 
 [19. 용어집 - 보이는 레이어(Visible Layers)](./19-glossaryx-visible_layer.md)
+
+[19. 용어집 - 화이트 포인트(White point)](./19-glossaryx-white_point.md)
 
 [19. 용어집 - GIMP 파일 확장자 - `.xcf`](./19-glossaryx-xcf.md)
 

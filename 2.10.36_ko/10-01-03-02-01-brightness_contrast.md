@@ -3,8 +3,8 @@
 
 <a id="90-01-07-08-a1"></a>
 
-#### [그림 90.1.7.8.a1. `색` → `명도-대비`](./90-01-07-08-brightness_contrast.md#90-01-07-08-a1)
-![90-00-image_menu_bar-color-focus-brightness_contrast](https://github.com/wonder13662/gimp/assets/15767104/1e472d06-319e-469c-b8e4-ea8b23a1efac)
+#### [그림 90.1.7.8.a1. `이미지 메뉴 바` → `색` → `명도-대비`](./90-01-07-08-brightness_contrast.md#90-01-07-08-a1)
+<img width="916" height="970" alt="90-01-07-08-a1" src="https://github.com/user-attachments/assets/7accef70-1299-4726-8f9e-cf56680d1354" />
 
 `명도/대비` 도구에는 `명도`와 `대비`를 조절할 수 있는 두 개의 슬라이드 바가 있습니다. "미리보기" 옵션을 체크하면 값에 따라 이미지가 변하는 것을 볼 수 있습니다.
 
@@ -17,7 +17,7 @@
 
 <a id="90-01-07-08-a2"></a>
 
-#### [영상 90.1.7.8.a2. `색` → `명도-대비` → `명도-대비` 대화상자](./90-01-07-08-brightness_contrast.md#90-01-07-08-a2)
+#### [영상 90.1.7.8.a2. `이미지 메뉴 바` → `색` → `명도-대비`](./90-01-07-08-brightness_contrast.md#90-01-07-08-a2)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/18eaf87c-5b0c-4aae-9484-62fd9cbc02bd"></video>
 
 ***

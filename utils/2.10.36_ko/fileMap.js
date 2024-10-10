@@ -2070,8 +2070,8 @@ module.exports = {
         '16.8.8. 그림자-강조(Shadows-Highlights)'
       ],
       [
-        '16-08-09-brightness-contrast.md', 
-        '16.8.9. Brightness contrast'
+        '16-08-09-00-brightness-contrast.md', 
+        '16.8.9. 명도-대비(Brightness-Contrast)'
       ],
       [
         '16-08-10-levels.md', 

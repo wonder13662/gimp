@@ -1,19 +1,36 @@
 # 90.1.7.8. 명도-대비(Brightness-Contrast)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
 
 <a id="90-01-07-08-a1"></a>
 
-#### 그림 90.1.7.8.a1. `색` → `명도-대비`
-![90-00-image_menu_bar-color-focus-brightness_contrast](https://github.com/wonder13662/gimp/assets/15767104/1e472d06-319e-469c-b8e4-ea8b23a1efac)
+#### 그림 90.1.7.8.a1. `이미지 메뉴 바` → `색` → `명도-대비`
+<img width="916" height="970" alt="90-01-07-08-a1" src="https://github.com/user-attachments/assets/7accef70-1299-4726-8f9e-cf56680d1354" />
 
 [10.1.3.2.1. 명도/대비 도구 - 그림 90.1.7.8.a1](./10-01-03-02-01-brightness_contrast.md#90-01-07-08-a1)
 
+[16.8.9. 명도-대비(Brightness-Contrast) - 그림 90.1.7.8.a1](./16-08-09-00-brightness-contrast.md#90-01-07-08-a1)
+
 <a id="90-01-07-08-a2"></a>
 
-#### 영상 90.1.7.8.a2. `색` → `명도-대비` → `명도-대비` 대화상자
+#### 영상 90.1.7.8.a2. `이미지 메뉴 바` → `색` → `명도-대비`
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/18eaf87c-5b0c-4aae-9484-62fd9cbc02bd"></video>
 
 [10.1.3.2.1. 명도/대비 도구 - 영상 90.1.7.8.a2](./10-01-03-02-01-brightness_contrast.md#90-01-07-08-a2)
+
+[16.8.9.1. 도구 활성화하기(Activating the Tool) - 영상 90.1.7.8.a2](./16-08-09-01-activating_the_tool.md#90-01-07-08-a2)
+
+<a id="90-01-07-08-a11"></a>
+
+#### 영상 90.1.7.8.a11. `이미지 메뉴 바` → `색` → `명도-대비`: 클릭, 드래그로 명도 조정하기
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/42600546-50b6-4ca7-b4c9-3057e130a81c"></video>
+
+[16.8.9.2.2. 명도(Brightness) - 영상 90.1.7.8.a11](./16-08-09-02-02-brightness.md#90-01-07-08-a11)
+
+<a id="90-01-07-08-a21"></a>
+
+#### 영상 90.1.7.8.a21. `이미지 메뉴 바` → `색` → `명도-대비`: 클릭, 드래그로 대비 조정하기
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/7c5f1d4b-cb7c-4c61-a6a6-d502c3c87366"></video>
+
+[16.8.9.2.3. 대비(Contrast) - 영상 90.1.7.8.a21](./16-08-09-02-03-contrast.md#90-01-07-08-a21)
 
 ***
 
