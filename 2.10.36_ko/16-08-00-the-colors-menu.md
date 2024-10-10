@@ -150,7 +150,7 @@
 
 [16.8.7.2.7. 보기 영역 분할(Split view)](./16-08-07-02-07-split_view.md)
 
-[16.8.8. Shadows highlights](./16-08-08-shadows-highlights.md)
+[16.8.8. 그림자-강조(Shadows-Highlights)](./16-08-08-00-shadows-highlights.md)
 
 [16.8.9. Brightness contrast](./16-08-09-brightness-contrast.md)
 

@@ -2066,8 +2066,8 @@ module.exports = {
         '16.8.7. 노출(Exposure)'
       ],
       [
-        '16-08-08-shadows-highlights.md', 
-        '16.8.8. Shadows highlights'
+        '16-08-08-00-shadows-highlights.md', 
+        '16.8.8. 그림자-강조(Shadows-Highlights)'
       ],
       [
         '16-08-09-brightness-contrast.md', 
