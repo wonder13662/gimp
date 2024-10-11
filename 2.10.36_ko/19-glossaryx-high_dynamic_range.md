@@ -41,7 +41,7 @@ Editing high dynamic range data requires that there isn't any clamping code in e
 - [덧씌우기](./08-02-04-01-overlay.md)
 
 ## 3. 고정되지 않은(Unclamped) 명령들
-- [레벨](./16-08-10-levels.md)
+- [레벨](./16-08-10-00-levels.md)
 - [노출](./16-08-07-00-exposure.md)
 - [변형 도구](./14-04-00-transform-tools.md)
 - [필터](./17-00-filters.md)

@@ -194,7 +194,7 @@
 
 [16.8.9.2.8. 보기 영역 분할(Split view)](./16-08-09-02-08-split_view.md)
 
-[16.8.10. 레벨(Levels)](./16-08-10-levels.md)
+[16.8.10. 레벨(Levels)](./16-08-10-00-levels.md)
 
 [16.8.11. Curves](./16-08-11-curves.md)
 

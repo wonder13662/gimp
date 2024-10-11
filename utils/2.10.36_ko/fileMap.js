@@ -2074,7 +2074,7 @@ module.exports = {
         '16.8.9. 명도-대비(Brightness-Contrast)'
       ],
       [
-        '16-08-10-levels.md', 
+        '16-08-10-00-levels.md', 
         '16.8.10. 레벨(Levels)'
       ],
       [

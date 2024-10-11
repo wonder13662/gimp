@@ -114,8 +114,8 @@
 
 <a id="90-01-07-09-a1"></a>
 
-#### [그림 90.1.7.9.a1. `색` → `레벨`](./90-01-07-09-levels.md#90-01-07-09-a1)
-![90-00-image_menu_bar-color-focus-level](https://github.com/wonder13662/gimp/assets/15767104/6b7630bd-f3bd-4c29-959d-98611857918d)
+#### [그림 90.1.7.9.a1. `이미지 메뉴 바` → `색` → `레벨`](./90-01-07-09-levels.md#90-01-07-09-a1)
+<img width="916" height="970" alt="90-01-07-09-a1" src="https://github.com/user-attachments/assets/67bf07ba-763c-4e47-919b-a6c0c44088a3" />
 
 이미지 메뉴에서 `색상` → `레벨`을 선택하면 도구 대화상자가 나타납니다. 
 

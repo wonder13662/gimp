@@ -32,6 +32,12 @@
 
 ***
 
+## 관련 정보
+
+[16.8.10.2.3. 채널 초기화 버튼 옆의 4개 버튼들(Four buttons to the right of Reset channel)](./16-08-10-02-03-four_buttons_to_the_right_of_reset_channel.md)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 15.2.5.3.4. 범위 설정(Range Fixing)](./15-02-05-03-04-range_fixing.md)

@@ -5,7 +5,7 @@
 #### [그림 90.4.73.a241. `명도-대비` 대화상자 → `레벨로 이 설정 편집하기` (Windows) (우리말)](./90-04-0073-brightness_contrast.md#90-04-73-a241)
 <img width="448" height="417" alt="90-04-73-a241" src="https://github.com/user-attachments/assets/60162f70-c6bc-44b9-9c33-565c879cec1b" />
 
-`레벨로 이 설정 편집하기(Edit these settings as Levels)` 버튼을 누르면, `명도-대비` 대화상자의 설정을 [레벨 도구](./16-08-10-levels.md)으로 옮겨 작업할 수 있게 됩니다.
+`레벨로 이 설정 편집하기(Edit these settings as Levels)` 버튼을 누르면, `명도-대비` 대화상자의 설정을 [레벨 도구](./16-08-10-00-levels.md)으로 옮겨 작업할 수 있게 됩니다.
 
 <a id="90-04-73-a242"></a>
 
