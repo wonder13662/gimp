@@ -1336,7 +1336,45 @@
 
 [16.8.10. 레벨(Levels)](./16-08-10-00-levels.md)
 
-[16.8.11. Curves](./16-08-11-curves.md)
+[16.8.10.1. 도구 활성화하기(Activating the Tool)](./16-08-10-01-activating_the_tool.md)
+
+[16.8.10.2. 옵션(Options)](./16-08-10-02-00-options.md)
+
+[16.8.10.2.1. 프리셋(Presets)](./16-08-10-02-01-presets.md)
+
+[16.8.10.2.2. 채널(Channel)](./16-08-10-02-02-channel.md)
+
+[16.8.10.2.3. 채널 초기화 버튼 옆의 4개 버튼들(Four buttons to the right of Reset channel)](./16-08-10-02-03-four_buttons_to_the_right_of_reset_channel.md)
+
+[16.8.10.2.4. 입력 레벨(Input Levels)](./16-08-10-02-04-00-input_levels.md)
+
+[16.8.10.2.4.1. 기능 설명](./16-08-10-02-04-01-description.md)
+
+[16.8.10.2.4.2. 입력 레벨을 조정하는 방법](./16-08-10-02-04-02-adjust_input_level.md)
+
+[16.8.10.2.4.3. 예시](./16-08-10-02-04-03-example.md)
+
+[16.8.10.2.5. 출력 레벨(Output Levels)](./16-08-10-02-05-00-output_levels.md)
+
+[16.8.10.2.5.1. 선택한 채널에서 출력 레벨 설정](./16-08-10-02-05-01-working_with_channel.md)
+
+[16.8.10.2.5.2. 예제](./16-08-10-02-05-02-example.md)
+
+[16.8.10.2.6. 모든 채널(All Channels)](./16-08-10-02-06-all_channels.md)
+
+[16.8.10.2.7. 커브로 설정 편집하기(Edit these Settings as Curves)](./16-08-10-02-07-edit_these_settings_as_curves.md)
+
+[16.8.10.2.8. 혼합 옵션(Blending Options)](./16-08-10-02-08-blending_options.md)
+
+[16.8.10.2.9. 고급 색상 옵션(Advanced Color Options)](./16-08-10-02-09-advanced_color_options.md)
+
+[16.8.10.2.10. 미리보기(Preview)](./16-08-10-02-10-preview.md)
+
+[16.8.10.2.11. 보기 영역 분할(Split view)](./16-08-10-02-11-split_view.md)
+
+[16.8.10.3. 실제 사례 연습(Actual practice)](./16-08-10-03-actual_practice.md)
+
+[16.8.11. 커브(Curves)](./16-08-11-curves.md)
 
 [16.8.12. 반전(Invert)](./16-08-12-invert.md)
 

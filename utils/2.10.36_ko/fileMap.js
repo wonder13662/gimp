@@ -2079,7 +2079,7 @@ module.exports = {
       ],
       [
         '16-08-11-curves.md', 
-        '16.8.11. Curves'
+        '16.8.11. 커브(Curves)'
       ],
       [
         '16-08-12-invert.md', 
