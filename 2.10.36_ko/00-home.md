@@ -4306,7 +4306,7 @@
 
 [16.8.10.3. 실제 사례 연습(Actual practice)](./16-08-10-03-actual_practice.md)
 
-[16.8.11. 커브(Curves)](./16-08-11-curves.md)
+[16.8.11. 커브(Curves)](./16-08-11-00-curves.md)
 
 [16.8.12. 반전(Invert)](./16-08-12-invert.md)
 

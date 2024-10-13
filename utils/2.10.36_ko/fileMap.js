@@ -2078,7 +2078,7 @@ module.exports = {
         '16.8.10. 레벨(Levels)'
       ],
       [
-        '16-08-11-curves.md', 
+        '16-08-11-00-curves.md', 
         '16.8.11. 커브(Curves)'
       ],
       [
