@@ -2091,7 +2091,7 @@ module.exports = {
       ],
       [
         '16-08-14-value-invert.md', 
-        '16.8.14. Value invert'
+        '16.8.14. 명도 반전(Value Invert)'
       ],
       [
         '16-08-15-the-auto-submenu.md', 

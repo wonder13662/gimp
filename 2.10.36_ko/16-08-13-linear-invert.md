@@ -30,7 +30,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.8.14. Value invert](./16-08-14-value-invert.md)
+[➡️ 다음: 16.8.14. 명도 반전(Value Invert)](./16-08-14-value-invert.md)
 
 [⬅️ 이전: 16.8.12. 반전(Invert)](./16-08-12-invert.md)
 
