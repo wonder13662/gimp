@@ -1450,7 +1450,7 @@
 
 [16.8.12. 반전(Invert)](./16-08-12-invert.md)
 
-[16.8.13. Linear invert](./16-08-13-linear-invert.md)
+[16.8.13. 선형 반전(Linear Invert)](./16-08-13-linear-invert.md)
 
 [16.8.14. Value invert](./16-08-14-value-invert.md)
 

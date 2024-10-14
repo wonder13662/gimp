@@ -4382,7 +4382,7 @@
 
 [16.8.12. 반전(Invert)](./16-08-12-invert.md)
 
-[16.8.13. Linear invert](./16-08-13-linear-invert.md)
+[16.8.13. 선형 반전(Linear Invert)](./16-08-13-linear-invert.md)
 
 [16.8.14. Value invert](./16-08-14-value-invert.md)
 
@@ -5121,6 +5121,8 @@
 [19. 용어집 - 레이어 스택(Layer Stack)](./19-glossaryx-layer_stack.md)
 
 [19. 용어집 - 밝기(Lightness(HSL))](./19-glossaryx-lightness_hsl.md)
+
+[19. 용어집 - 선형 조명(Linear Light)](./19-glossaryx-linear_light.md)
 
 [19. 용어집 - 선형 RGB(Linear RGB)](./19-glossaryx-linear_rgb.md)
 
