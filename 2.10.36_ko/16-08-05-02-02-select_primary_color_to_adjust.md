@@ -11,7 +11,7 @@
 변경할 `색상(Hue)`을 6개 중에서 하나를 선택할 수 있습니다.
 
 - 삼원색(Primary color): 빨강(Red), 초록(Green), 파랑(Blue)
-- 보완색(Complementary color): 하늘색(Cyan), 자홍색(Magenta), 노란색(Yellow)
+- [보색(Complementary color)](./19-glossaryx-complementary_color.md): 하늘색(Cyan), 자홍색(Magenta), 노란색(Yellow)
 
 이 색들은 [색상환](./19-glossaryx-color_wheel.md)에 따라 정렬되어 있습니다.
 

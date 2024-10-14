@@ -1371,7 +1371,7 @@
 
 [90.4.75. 색상 추출(Color Picker)](./90-04-0075-color_picker.md)
 
-[90.4.76. 색상-채도(Hue-Saturation)](./90-04-0076-hue_saturation.md)
+[90.4.76. 색상-채도(Saturation)(Hue-Saturation)](./90-04-0076-hue_saturation.md)
 
 [90.4.77. 선명하게 하기 - Sharpen(Unsharp Mask)](./90-04-0077-sharpen_unsharp_mask.md)
 
@@ -1625,7 +1625,7 @@
 
 [90.4.202. 레벨(Levels)](./90-04-0202-levels.md)
 
-[90.4.203. ?(Color Balance)](./90-04-0203-threshold.md)
+[90.4.203. 임계(Threshold)](./90-04-0203-threshold.md)
 
 [90.4.204. 채널 혼합(Channel Mixer)](./90-04-0204-channel_mixer.md)
 
@@ -1637,7 +1637,7 @@
 
 [90.4.208. 세피아(Sepia)](./90-04-0208-sepia.md)
 
-[90.4.209. 색상표 재배치(Set Colormap)](./90-04-0209-set_colormap.md)
+[90.4.209. 색상표 설정하기(Set Colormap)](./90-04-0209-set_colormap.md)
 
 [90.4.210. Alien Map](./90-04-0210-alien_map.md)
 
@@ -1666,6 +1666,14 @@
 [90.4.222. RGB 클립(RGB Clip)](./90-04-0222-rgb_clip.md)
 
 [90.4.223. 뜨거움(Hot)](./90-04-0223-hot.md)
+
+[90.4.224. python-fu-histogram-export](./90-04-0224-python_fu_histogram_export.md)
+
+[90.4.225. 부드러운 팔레트(Smooth Palette)](./90-04-0225-smooth_palette.md)
+
+[90.4.226. 색상 큐브 분석(Colorcube Analysis)](./90-04-0226-color_cube_analysis.md)
+
+[90.4.227. 테두리 평균(Border Average)](./90-04-0227-border_average.md)
 
 <a id="90-s5"></a>
 

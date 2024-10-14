@@ -5028,6 +5028,8 @@
 
 [19. 용어집 - 비색계(Colorimetric)](./19-glossaryx-colorimetric.md)
 
+[19. 용어집 - 보색(Complementary Color, 補色)](./19-glossaryx-complementary_color.md)
+
 [19. 용어집 - 합성(Compositing)](./19-glossaryx-compositing.md)
 
 [19. 용어집 - 컨텍스트 메뉴(Context Menu)](./19-glossaryx-context_menu.md)
