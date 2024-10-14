@@ -50,20 +50,20 @@ Windows 환경에서 `다음 레이어 선택(Select next layer)` 명령의 키�
 
 <a id="16-07-14-s3-03"></a>
 
-### 3-3. 키보드 단축키: 아래쪽 방향키(↓) (Windows)
+### 3-3. 키보드 단축키: `아래쪽 방향키(↓, Down Arrow)` (Windows)
 
 <a id="90-10-91-01-02-a1"></a>
 
-#### [영상 90.10.91.1.2.a1. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택`: 아래쪽 방향키(↓) (Windows) (우리말)](./90-10-91-01-02-down_arrow.md#90-10-91-01-02-a1)
+#### [영상 90.10.91.1.2.a1. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택`: `아래쪽 방향키(↓, Down Arrow)` (Windows) (우리말)](./90-10-91-01-02-down_arrow.md#90-10-91-01-02-a1)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/8fe0264b-06ea-4da6-8b66-c8cf84a6f988"></video>
 
 <a id="16-07-14-s3-04"></a>
 
-### 3-4. 키보드 단축키: 아래쪽 방향키(↓) (Mac)
+### 3-4. 키보드 단축키: `아래쪽 방향키(↓, Down Arrow)` (Mac)
 
 <a id="90-10-91-01-02-a2"></a>
 
-#### [영상 90.10.91.1.2.a2. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택`: 아래쪽 방향키(↓) (Mac) (우리말)](./90-10-91-01-02-down_arrow.md#90-10-91-01-02-a2)
+#### [영상 90.10.91.1.2.a2. `이미지 메뉴 바` → `레이어` → `스택` → `다음 레이어 선택`: `아래쪽 방향키(↓, Down Arrow)` (Mac) (우리말)](./90-10-91-01-02-down_arrow.md#90-10-91-01-02-a2)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/2c65fb72-9317-479a-b245-4c0b5cd33185"></video>
 
 ***

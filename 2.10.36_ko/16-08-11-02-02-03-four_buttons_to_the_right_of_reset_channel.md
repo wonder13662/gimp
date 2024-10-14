@@ -40,3 +40,25 @@
 
 #### [영상 90.4.74.a143.1. `커브` 대화상자 → `채널 초기화 버튼 오른쪽의 4개 버튼들` → `히스토그램의 선형/로그(Linear/Logarithmic) 모드`: 모드 전환 (Windows) (우리말)](./90-04-0074-curves.md#90-04-74-a143-01)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/de1b4222-03d4-415e-b5de-ee9b278415cc"></video>
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.8.11.2.2.4. 주요 편집 공간(Main Editing Area)](./16-08-11-02-02-04-00-main_editing_area.md)
+
+[⬅️ 이전: 16.8.11.2.2.2. 채널 초기화(Reset Channel)](./16-08-11-02-02-02-reset_channel.md)
+
+[⬆️ 위: 16.8.11.2.2. 채널(Channel)](./16-08-11-02-02-00-channel.md)
+
+[⬆️ 위: 16.8.11.2. 커브 옵션(“Curves” options)](./16-08-11-02-00-curves_options.md)
+
+[⬆️ 위: 16.8.11. 커브(Curves)](./16-08-11-00-curves.md)
+
+[⬆️ 위: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-tool-curves.html#idm31318)

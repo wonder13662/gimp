@@ -1376,6 +1376,78 @@
 
 [16.8.11. 커브(Curves)](./16-08-11-00-curves.md)
 
+[16.8.11.1. 도구 활성화하기(Activating the Tool)](./16-08-11-01-activating_the_tool.md)
+
+[16.8.11.2. 커브 옵션(“Curves” options)](./16-08-11-02-00-curves_options.md)
+
+[16.8.11.2.1. 프리셋(Presets)](./16-08-11-02-01-presets.md)
+
+[16.8.11.2.2. 채널(Channel)](./16-08-11-02-02-00-channel.md)
+
+[16.8.11.2.2.1. 값(Value)](./16-08-11-02-02-01-value.md)
+
+[16.8.11.2.2.2. 채널 초기화(Reset Channel)](./16-08-11-02-02-02-reset_channel.md)
+
+[16.8.11.2.2.3. 채널 초기화 버튼 오른쪽의 4개 버튼들(Four buttons to the right of Reset channel)](./16-08-11-02-02-03-four_buttons_to_the_right_of_reset_channel.md)
+
+[16.8.11.2.2.4. 주요 편집 공간(Main Editing Area)](./16-08-11-02-02-04-00-main_editing_area.md)
+
+[16.8.11.2.2.4.1. 가로 그라디언트(The horizontal gradient)](./16-08-11-02-02-04-01-horizontal_gradient.md)
+
+[16.8.11.2.2.4.2. 세로 그라디언트(The vertical gradient)](./16-08-11-02-02-04-02-vertical_gradient.md)
+
+[16.8.11.2.2.4.3. 차트(The chart)](./16-08-11-02-02-04-03-00-chart.md)
+
+[16.8.11.2.2.4.3.1. 좌표 표시](./16-08-11-02-02-04-03-01-coordinate_display.md)
+
+[16.8.11.2.2.4.3.2. 기본값](./16-08-11-02-02-04-03-02-default_values.md)
+
+[16.8.11.2.2.4.3.3. 곡선의 제어점 추가하기](./16-08-11-02-02-04-03-03-add_control_point.md)
+
+[16.8.11.2.2.4.3.4. 곡선의 제어점 움직이기](./16-08-11-02-02-04-03-04-move_control_point.md)
+
+[16.8.11.2.2.4.3.5. 제어점 삭제하기](./16-08-11-02-02-04-03-05-delete_control_point.md)
+
+[16.8.11.2.2.4.3.6. 활성화된 곡선의 제어점](./16-08-11-02-02-04-03-06-active_control_point.md)
+
+[16.8.11.2.2.4.3.7. 곡선의 선분(Segment)](./16-08-11-02-02-04-03-07-curve_segment.md)
+
+[16.8.11.2.2.4.3.8. 캔버스에서 제어](./16-08-11-02-02-04-03-08-actions_on_canvas.md)
+
+[16.8.11.2.2.4.3.9. 히스토그램](./16-08-11-02-02-04-03-09-histogram_on_canvas.md)
+
+[16.8.11.2.2.5. 입력과 출력(Input, Output)](./16-08-11-02-02-05-input_n_output.md)
+
+[16.8.11.2.2.6. 종류(Type)](./16-08-11-02-02-06-type.md)
+
+[16.8.11.2.2.7. 커브 유형(Curve Type)](./16-08-11-02-02-07-curve_type.md)
+
+[16.8.11.2.3. 혼합 옵션(Blending Options)](./16-08-11-02-03-blending_options.md)
+
+[16.8.11.2.4. 고급 색상 옵션(Advanced Color Options)](./16-08-11-02-04-advanced_color_options.md)
+
+[16.8.11.2.5. 미리보기(Preview)](./16-08-11-02-05-preview.md)
+
+[16.8.11.2.6. 보기 영역 분할(Split view)](./16-08-11-02-06-split_view.md)
+
+[16.8.11.3. 커브 사용하기(Using “Curves”)](./16-08-11-03-00-using_curves.md)
+
+[16.8.11.3.1. 요약과 기본 형태(Summary and basic shapes)](./16-08-11-03-01-00-summary_n_basic_shapes.md)
+
+[16.8.11.3.1.1. 커브 도구의 동작방식(How the Curves tool works)](./16-08-11-03-01-01-how_the_curves_tool_works.md)
+
+[16.8.11.3.1.2. 곡선을 좀 더 수평으로 만들기(Making the curve more horizontal)](./16-08-11-03-01-02-making_the_curve_more_horizontal.md)
+
+[16.8.11.3.1.3. 곡선을 좀 더 수직으로 만들기(Making the curve more vertical)](./16-08-11-03-01-03-making_the_curve_more_vertical.md)
+
+[16.8.11.3.2. 실제 사례(Practical cases)](./16-08-11-03-02-00-practical_cases.md)
+
+[16.8.11.3.2.1. 색상 반전(Invert colors)](./16-08-11-03-02-01-invert_colors.md)
+
+[16.8.11.3.2.2. 대비 강화하기(Enhance contrast)](./16-08-11-03-02-02-enhance_contrast.md)
+
+[16.8.11.3.2.3. 색상 채널로 작업하기(Working on color channels)](./16-08-11-03-02-03-working_on_color_channels.md)
+
 [16.8.12. 반전(Invert)](./16-08-12-invert.md)
 
 [16.8.13. Linear invert](./16-08-13-linear-invert.md)
