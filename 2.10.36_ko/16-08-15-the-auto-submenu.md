@@ -40,3 +40,19 @@ GIMP(김프)에는 [활성화 레이어](./19-glossaryx-active_layer.md)의 색�
 [16.8.20. 색상 보강(Color Enhance)](./16-08-20-color-enhance.md)
 
 [16.8.21. 색상 보강(레거시)(Color Enhance (legacy))](./16-08-21-color-enhance-legacy.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.8.16. 평준화(Equalize)](./16-08-16-equalize.md)
+
+[⬅️ 이전: 16.8.14. 명도 반전(Value Invert)](./16-08-14-value-invert.md)
+
+[⬆️ 위: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-colors-auto-menu.html)

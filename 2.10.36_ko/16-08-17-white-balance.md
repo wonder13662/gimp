@@ -41,3 +41,19 @@
 
 #### [그림 90.1.7.14.2.a211. `이미지 메뉴 바` → `색` → `자동` → `화이트 밸런스`: 예제 - 원본/결과 이미지 - 히스토그램 (Windows) (우리말)](./90-01-07-14-02-white_balance.md#90-01-07-14-02-a211)
 <img width="800" height="478" alt="90-01-07-14-02-a211" src="https://github.com/user-attachments/assets/a29b9a2e-7772-4a64-96b7-1cf320c81972" />
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.8.18. 대비 증가…(Stretch Contrast…)](./16-08-18-stretch-contrast.md)
+
+[⬅️ 이전: 16.8.16. 평준화(Equalize)](./16-08-16-equalize.md)
+
+[⬆️ 위: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-layer-white-balance.html)
