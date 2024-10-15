@@ -1,5 +1,12 @@
 # 19. 용어집 - 색 모델: HSV
 
+## 1. 정의
+HSV([Hue](./19-glossaryx-hue.md), [Saturation](./19-glossaryx-saturation.md), [Value](./19-glossaryx-value_hsv.md))
+
+## 2. 비슷한 말
+
+- HSV 색 공간(HSV Color Space)
+
 *** 
 
 ## 관련 정보

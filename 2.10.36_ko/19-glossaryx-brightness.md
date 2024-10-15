@@ -9,7 +9,7 @@
 
 ## 2. 비슷한 말
 
-- Value
+- [값(HSV) - Value(HSV)](./19-glossaryx-value_hsv.md)
 
 *** 
 

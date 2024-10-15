@@ -1,10 +1,16 @@
 # 19. 용어집 - 값(HSV) - Value(HSV)
 
+## 1. 정의
+
 `값(HSV)`에서 회색 음영의 값을 계산하는 방정식은 다음과 같습니다.
 
 ```
 Value (HSV) = max(R,G,B)
 ```
+
+## 2. 비슷한 말
+
+- [명도(Brightness)](./19-glossaryx-brightness.md)
 
 *** 
 
