@@ -16,3 +16,5 @@
 [Three ways to modify saturation using GIMP 2.9/2.10 LCH color tools](https://ninedegreesbelow.com/photography/changing-saturation-using-lch-chroma.html)
 
 [삼성 디스플레이 - 색의 표현방식](https://news.samsungdisplay.com/9131)
+
+[Munsell Color - The Difference Between Chroma and Saturation](https://munsell.com/color-blog/difference-chroma-saturation/)

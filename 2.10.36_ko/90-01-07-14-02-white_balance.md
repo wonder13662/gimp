@@ -2,14 +2,14 @@
 
 <a id="90-01-07-14-02-a1"></a>
 
-#### 그림 90.1.7.14.2.a1. `색` → `자동` → `화이트 밸런스` (Windows)
+#### 그림 90.1.7.14.2.a1. `이미지 메뉴 바` → `색` → `자동` → `화이트 밸런스` (Windows)
 ![90-01-07-colorsx-01-auto(windows)-focus-white_balance](https://github.com/wonder13662/gimp/assets/15767104/8ad7c354-97b5-4702-9f3b-35d1c432424d)
 
 [10.1.3.1. 자동화 도구 - 그림 90.1.7.14.2.a1](./10-01-03-01-automated_tools.md#90-01-07-14-02-a1)
 
 <a id="90-01-07-14-02-a2"></a>
 
-#### 그림 90.1.7.14.2.a2. `색` → `자동` → `화이트 밸런스` (Mac)
+#### 그림 90.1.7.14.2.a2. `이미지 메뉴 바` → `색` → `자동` → `화이트 밸런스` (Mac)
 ![90-01-07-colorsx-01-auto(mac)(50%)-focus-white_balance](https://github.com/wonder13662/gimp/assets/15767104/5fcf04ba-6ae4-4b32-b540-8fb676b46650)
 
 <a id="90-01-07-14-02-a3"></a>
@@ -21,10 +21,17 @@
 
 <a id="90-01-07-14-02-a4"></a>
 
-#### 영상 90.1.7.14.2.a4. `색` → `자동` → `화이트 밸런스` (Windows) (우리말)
+#### 영상 90.1.7.14.2.a4. `이미지 메뉴 바` → `색` → `자동` → `화이트 밸런스` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/ce19f698-5f49-4fdd-8b6e-77eee91f7561"></video>
 
 [10.1.3.1. 자동화 도구 - 영상 90.1.7.14.2.a4](./10-01-03-01-automated_tools.md#90-01-07-14-02-a4)
+
+<a id="90-01-07-14-02-a101"></a>
+
+#### 그림 90.1.7.14.2.a101. `이미지 메뉴 바` → `색` → `자동` → `화이트 밸런스` (Windows)
+<img width="556" height="299" alt="90-01-07-14-02-a101" src="https://github.com/user-attachments/assets/af9c572d-9031-414d-8813-fd808f769785" />
+
+[16.8.17. 화이트 밸런스(White Balance) - 그림 90.1.7.14.2.a101](./16-08-17-white-balance.md#90-01-07-14-02-a101)
 
 ***
 

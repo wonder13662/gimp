@@ -1,6 +1,6 @@
-# 16.8.18. Stretch contrast
+# 16.8.18. 대비 증가…(Stretch Contrast…)
 
-### [Home](./00-home.md)
-### [Parent: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
-### [Prev: 16.8.17. White balance](./16-08-17-white-balance.md)
-### [Next: 16.8.19. Stretch contrast HSV](./16-08-19-stretch-contrast-hsv.md)
+<a id="90-01-07-14-03-a101"></a>
+
+#### [그림 90.1.7.14.3.a101. `이미지 메뉴 바` → `색` → `자동` → `대비 증가…` (Windows)](./90-01-07-14-03-stretch_contrast.md#90-01-07-14-03-a101)
+<img width="556" height="299" alt="90-01-07-14-03-a101" src="https://github.com/user-attachments/assets/e2af2ec9-c686-4b39-aef0-66b8a38c4ccd" />

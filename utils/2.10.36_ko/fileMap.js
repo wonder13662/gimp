@@ -2099,27 +2099,27 @@ module.exports = {
       ],
       [
         '16-08-16-equalize.md', 
-        '16.8.16. Equalize'
+        '16.8.16. 평준화(Equalize)'
       ],
       [
         '16-08-17-white-balance.md', 
-        '16.8.17. White balance'
+        '16.8.17. 화이트 밸런스(White Balance)'
       ],
       [
         '16-08-18-stretch-contrast.md', 
-        '16.8.18. Stretch contrast'
+        '16.8.18. 대비 증가…(Stretch Contrast…)'
       ],
       [
         '16-08-19-stretch-contrast-hsv.md', 
-        '16.8.19. Stretch contrast HSV'
+        '16.8.19. HSV 대비 증가(Stretch Contrast HSV)'
       ],
       [
         '16-08-20-color-enhance.md', 
-        '16.8.20. Color enhance'
+        '16.8.20. 색상 보강(Color Enhance)'
       ],
       [
         '16-08-21-color-enhance-legacy.md', 
-        '16.8.21. Color enhance legacy'
+        '16.8.21. 색상 보강(레거시)(Color Enhance (legacy))'
       ],
       [
         '16-08-22-the-components-submenu.md', 

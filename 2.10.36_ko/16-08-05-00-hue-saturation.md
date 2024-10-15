@@ -5,7 +5,7 @@
 #### [그림 90.1.7.4.a1. `이미지 메뉴 바` → `색` → `색상-채도(Saturation)`](./90-01-07-04-hue_saturation.md#90-01-07-04-a1)
 <img width="916" height="970" alt="90-01-07-04-a1" src="https://github.com/user-attachments/assets/37058212-c5c0-4320-9578-84578970e332" />
 
-`색상-채도(Saturation)` 명령은 [활성화 레이어](./19-glossaryx-active_layer.md) 또는 [선택 영역](./19-glossaryx-selection.md)의 색 비중(Color weight)의 범위에 대한 `색상(hue)`, `채도(saturation)`, `밝기(lightness)`의 정도를 조정합니다.
+`색상-채도(Saturation)` 명령은 [활성화 레이어](./19-glossaryx-active_layer.md) 또는 [선택 영역](./19-glossaryx-selection.md)의 색 비중(Color weight)의 범위에 대한 [색상(hue)](./19-glossaryx-hue.md), [채도(saturation)](./19-glossaryx-saturation.md), [밝기(lightness)](./19-glossaryx-brightness.md)의 정도를 조정합니다.
 
 <a comment="TODO 번역이 매끄럽지 않음. 개선 필요."></a>
 

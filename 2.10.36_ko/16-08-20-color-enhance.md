@@ -1,6 +1,6 @@
-# 16.8.20. Color enhance
+# 16.8.20. 색상 보강(Color Enhance)
 
-### [Home](./00-home.md)
-### [Parent: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
-### [Prev: 16.8.19. Stretch contrast HSV](./16-08-19-stretch-contrast-hsv.md)
-### [Next: 16.8.21. Color enhance legacy](./16-08-21-color-enhance-legacy.md)
+<a id="90-01-07-14-05-a101"></a>
+
+#### [그림 90.1.7.14.5.a101. `이미지 메뉴 바` → `색` → `자동` → `색상 보강` (Windows)](./90-01-07-14-05-color_enhance.md#90-01-07-14-05-a101)
+<img width="556" height="299" alt="90-01-07-14-05-a101" src="https://github.com/user-attachments/assets/28528d6c-265c-4f55-b12a-6bf8f0ada855" />

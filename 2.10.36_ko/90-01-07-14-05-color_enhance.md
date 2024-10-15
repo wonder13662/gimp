@@ -2,19 +2,19 @@
 
 <a id="90-01-07-14-05-a1"></a>
 
-#### 그림 90.1.7.14.5.a1. `색` → `자동` → `색상 보강` (Windows)
+#### 그림 90.1.7.14.5.a1. `이미지 메뉴 바` → `색` → `자동` → `색상 보강` (Windows)
 ![90-01-07-colorsx-01-auto(windows)-focus-color_enhance](https://github.com/wonder13662/gimp/assets/15767104/0c44c7c0-f339-4f45-9fed-5d2c1e5d6577)
 
 [10.1.3.1. 자동화 도구 - 그림 90.1.7.14.5.a1](./10-01-03-01-automated_tools.md#90-01-07-14-05-a1)
 
 <a id="90-01-07-14-05-a2"></a>
 
-#### 그림 90.1.7.14.5.a2. `색` → `자동` → `색상 보강` (Mac)
+#### 그림 90.1.7.14.5.a2. `이미지 메뉴 바` → `색` → `자동` → `색상 보강` (Mac)
 ![90-01-07-colorsx-01-auto(mac)(50%)-focus-color_enhance](https://github.com/wonder13662/gimp/assets/15767104/c6712d0c-7426-4d5a-848e-ae6455e7f8ae)
 
 <a id="90-01-07-14-05-a3"></a>
 
-#### 영상 90.1.7.14.5.a3. `색` → `자동` → `색상 보강` (Windows) (우리말)
+#### 영상 90.1.7.14.5.a3. `이미지 메뉴 바` → `색` → `자동` → `색상 보강` (Windows) (우리말)
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/995fa1b9-a38b-43c3-bd41-dbb7b056bd1b"></video>
 
 [10.1.3.1. 자동화 도구 - 영상 90.1.7.14.5.a3](./10-01-03-01-automated_tools.md#90-01-07-14-05-a3)
@@ -25,6 +25,13 @@
 ![90-01-07-14-05-a4-before_n_after(windows)(ko)-label](https://github.com/wonder13662/gimp/assets/15767104/89c75c04-cf70-4a31-9484-e3487870aff9)
 
 [10.1.3.1. 자동화 도구 - 그림 90.1.7.14.5.a4](./10-01-03-01-automated_tools.md#90-01-07-14-05-a4)
+
+<a id="90-01-07-14-05-a101"></a>
+
+#### 그림 90.1.7.14.5.a101. `이미지 메뉴 바` → `색` → `자동` → `색상 보강` (Windows)
+<img width="556" height="299" alt="90-01-07-14-05-a101" src="https://github.com/user-attachments/assets/28528d6c-265c-4f55-b12a-6bf8f0ada855" />
+
+[16.8.20. 색상 보강(Color Enhance) - 그림 90.1.7.14.5.a101](./16-08-20-color-enhance.md#90-01-07-14-05-a101)
 
 ***
 

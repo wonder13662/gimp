@@ -11,3 +11,5 @@
 ## 관련 정보
 
 [위키백과 - 색도](https://ko.wikipedia.org/wiki/%EC%83%89%EB%8F%84)
+
+[Munsell Color - The Difference Between Chroma and Saturation](https://munsell.com/color-blog/difference-chroma-saturation/)

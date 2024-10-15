@@ -37,7 +37,9 @@
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/6c3d191e-63ea-402a-bf42-a5e2c1436f5e"></video>
 
 ## 2. 분해(Decompose) 및 구성(Compose)
-[이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `필터` → `보강` → `선명하게…`을 사용하면 이미지의 대조가 강한 경우에 때때로 색상 왜곡이 일어납니다. 색상 왜곡이 일어나면, 이미지를 HSV로 분해(Decompose)해서 색상(Hue)-채도(Saturation)-명도(Value) 레이어로 분리합니다.
+[이미지 메뉴 바](./19-glossaryx-image_menu_bar.md)의 `필터` → `보강` → `선명하게…`을 사용하면 이미지의 대조가 강한 경우에 때때로 색상 왜곡이 일어납니다.
+
+색상 왜곡이 일어나면, 이미지를 HSV로 분해(Decompose)해서 [색상(Hue)](./19-glossaryx-hue.md)-[채도(Saturation)](./19-glossaryx-saturation.md)-[명도(Value)](./19-glossaryx-brightness.md) 레이어로 분리합니다.
 
 <a id="90-04-79-a101"></a>
 

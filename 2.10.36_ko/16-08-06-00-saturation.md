@@ -5,7 +5,7 @@
 #### [그림 90.1.7.5.a1. `이미지 메뉴 바` → `색` → `채도`](./90-01-07-05-saturation.md#90-01-07-05-a1)
 <img width="916" height="970" alt="90-01-07-05-a1" src="https://github.com/user-attachments/assets/fe1cd062-7cec-420f-b9d3-2502345ba786" />
 
-`채도(Saturation)`는 [그레이스케일](./19-glossaryx-color_mode_grayscale.md) 이미지에서는 메뉴가 비활성화되어 동작하지 않습니다.
+`채도(Saturation)` 명령은 [그레이스케일](./19-glossaryx-color_mode_grayscale.md) 이미지에서는 메뉴가 비활성화되어 동작하지 않습니다.
 
 ***
 

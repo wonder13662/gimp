@@ -1,6 +1,55 @@
-# 16.8.16. Equalize
+# 16.8.16. 평준화(Equalize)
 
-### [Home](./00-home.md)
-### [Parent: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
-### [Prev: 16.8.15. 자동 하위 메뉴(The auto submenu)](./16-08-15-the-auto-submenu.md)
-### [Next: 16.8.17. White balance](./16-08-17-white-balance.md)
+<a id="90-01-07-14-01-a101"></a>
+
+#### [그림 90.1.7.14.1.a101. `이미지 메뉴 바` → `색` → `자동` → `평준화` (Windows)](./90-01-07-14-01-equalize.md#90-01-07-14-01-a101)
+<img width="556" height="299" alt="90-01-07-14-01-a101" src="https://github.com/user-attachments/assets/1b5dca14-8c4d-4f4d-a195-8d75ba109201" />
+
+<a id="16-08-16-s1"></a>
+
+## 1. 정의
+`평준화(Equalize)` 명령은 [활성화 레이어](./19-glossaryx-active_layer.md)의 색상의 밝기를 자동으로 조정해줍니다.
+
+그 결과로 [히스토그램 대화상자](./15-02-05-00-histogram-dialog.md)의 히스토그램의 값(Value) 채널이 가능한한 고르게 바뀝니다.
+
+그리하여 히스토그램의 다른 색상 채널 - 빨강, 녹색, 파랑의 픽셀 개수의 분포가 서로 비슷해지게 됩니다.
+
+<a id="16-08-16-s1-01"></a>
+
+## 1-1. 평준화로 얻을 수 있는 결과물
+`평준화(Equalize)` 명령의 결과는 경우에 따라 상당히 달라질 수 있습니다.
+
+때때로 전에는 보이지 않던 상세한 부분이 드러나는 매우 뛰어난 결과의 이미지의 대비를 얻을 수 있습니다.
+
+그러므로 이미지를 개선하기 위해서 시도해볼만한 가치가 있습니다.
+
+<a id="16-08-16-s1-02"></a>
+
+## 1-2. 평준화를 사용할 수 있는 색상 모드
+`평준화(Equalize)` 명령은 [RGB](./19-glossaryx-color_mode_rgb.md) 이미지 또는 [그레이스케일](./19-glossaryx-color_mode_grayscale.md) 이미지에서 동작합니다.
+
+`평준화(Equalize)` 명령은 [인덱스](./19-glossaryx-color_mode_indexed.md) 이미지에서는 비활성화되어 사용할 수 없습니다.
+
+<a id="16-08-16-s2"></a>
+
+## 2. 명령 활성화히기: `이미지 메뉴 바` → `색` → `자동` → `평준화`
+
+<a id="90-01-07-14-01-a111"></a>
+
+#### [영상 90.1.7.14.1.a111. `이미지 메뉴 바` → `색` → `자동` → `평준화` (Windows) (우리말)](./90-01-07-14-01-equalize.md#90-01-07-14-01-a111)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/caf25828-3d0e-4b7f-ac5a-8924c63495b7"></video>
+
+<a id="16-08-16-s3"></a>
+
+## 3. 예시
+예시 이미지에 `평준화(Equalize)` 명령을 적용하여, 히스토그램의 색상이 확장되어 고르게 분포된 것을 확인할 수 있습니다.
+
+<a id="90-01-07-14-01-a201"></a>
+
+#### 그림 90.1.7.14.1.a201. `이미지 메뉴 바` → `색` → `자동` → `평준화`: 예제 - 원본/결과 이미지 (Windows) (우리말)
+<img width="640" height="232" alt="90-01-07-14-01-a201" src="https://github.com/user-attachments/assets/31a331d2-1366-4469-ab62-97c7f052d186" />
+
+<a id="90-01-07-14-01-a211"></a>
+
+#### [그림 90.1.7.14.1.a211. `이미지 메뉴 바` → `색` → `자동` → `평준화`: 예제 - 원본/결과 이미지 - 히스토그램 (Windows) (우리말)](./)
+<img width="800" height="478" alt="90-01-07-14-01-a211" src="https://github.com/user-attachments/assets/83320837-5904-4483-85fe-259baa06bdab" />
