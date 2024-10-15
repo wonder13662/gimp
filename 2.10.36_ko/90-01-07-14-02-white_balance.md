@@ -33,6 +33,27 @@
 
 [16.8.17. 화이트 밸런스(White Balance) - 그림 90.1.7.14.2.a101](./16-08-17-white-balance.md#90-01-07-14-02-a101)
 
+<a id="90-01-07-14-02-a111"></a>
+
+#### 영상 90.1.7.14.2.a111. `이미지 메뉴 바` → `색` → `자동` → `화이트 밸런스` (Windows)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/b8b796e7-18bc-4eb6-84df-f1c9b6b4c2f1"></video>
+
+[16.8.17. 화이트 밸런스(White Balance) - 영상 90.1.7.14.2.a111](./16-08-17-white-balance.md#90-01-07-14-02-a111)
+
+<a id="90-01-07-14-02-a201"></a>
+
+#### 그림 90.1.7.14.2.a201. `이미지 메뉴 바` → `색` → `자동` → `화이트 밸런스`: 예제 - 원본/결과 이미지 (Windows) (우리말)
+<img width="640" height="232" alt="90-01-07-14-02-a201" src="https://github.com/user-attachments/assets/01431fba-d1de-4c31-8b49-a94077aaafb4" />
+
+[16.8.17. 화이트 밸런스(White Balance) - 그림 90.1.7.14.2.a201](./16-08-17-white-balance.md#90-01-07-14-02-a201)
+
+<a id="90-01-07-14-02-a211"></a>
+
+#### 그림 90.1.7.14.2.a211. `이미지 메뉴 바` → `색` → `자동` → `화이트 밸런스`: 예제 - 원본/결과 이미지 - 히스토그램 (Windows) (우리말)
+<img width="800" height="478" alt="90-01-07-14-02-a211" src="https://github.com/user-attachments/assets/a29b9a2e-7772-4a64-96b7-1cf320c81972" />
+
+[16.8.17. 화이트 밸런스(White Balance) - 그림 90.1.7.14.2.a211](./16-08-17-white-balance.md#90-01-07-14-02-a211)
+
 ***
 
 ## 다른 페이지로 가기
