@@ -29,12 +29,21 @@
 
 [10.1.3.1. 자동화 도구 - 영상 90.1.7.14.3.a5](./10-01-03-01-automated_tools.md#90-01-07-14-03-a5)
 
+[16.8.18.1. 명령 활성화하기(Activate the Command) - 영상 90.1.7.14.3.a5](./16-08-18-01-activate_the_command.md#90-01-07-14-03-a5)
+
 <a id="90-01-07-14-03-a101"></a>
 
 #### 그림 90.1.7.14.3.a101. `이미지 메뉴 바` → `색` → `자동` → `대비 증가…` (Windows)
 <img width="556" height="299" alt="90-01-07-14-03-a101" src="https://github.com/user-attachments/assets/e2af2ec9-c686-4b39-aef0-66b8a38c4ccd" />
 
-[16.8.18. 대비 증가…(Stretch Contrast…) - 그림 90.1.7.14.3.a101](./16-08-18-stretch-contrast.md#90-01-07-14-03-a101)
+[16.8.18. 대비 증가…(Stretch Contrast…) - 그림 90.1.7.14.3.a101](./16-08-18-00-stretch-contrast.md#90-01-07-14-03-a101)
+
+<a id="90-01-07-14-03-a111"></a>
+
+#### 영상 90.1.7.14.3.a111. `이미지 메뉴 바` → `색` → `자동` → `대비 증가…` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/82648161-13bd-423e-a7ec-4b7c305a3aa4"></video>
+
+[16.8.18.1. 명령 활성화하기(Activate the Command) - 영상 90.1.7.14.3.a111](./16-08-18-01-activate_the_command.md#90-01-07-14-03-a111)
 
 ***
 

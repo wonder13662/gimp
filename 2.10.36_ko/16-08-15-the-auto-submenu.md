@@ -33,7 +33,7 @@ GIMP(김프)에는 [활성화 레이어](./19-glossaryx-active_layer.md)의 색�
 
 [16.8.17. 화이트 밸런스(White Balance)](./16-08-17-white-balance.md)
 
-[16.8.18. 대비 증가…(Stretch Contrast…)](./16-08-18-stretch-contrast.md)
+[16.8.18. 대비 증가…(Stretch Contrast…)](./16-08-18-00-stretch-contrast.md)
 
 [16.8.19. HSV 대비 증가(Stretch Contrast HSV)](./16-08-19-stretch-contrast-hsv.md)
 

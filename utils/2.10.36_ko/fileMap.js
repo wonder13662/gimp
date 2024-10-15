@@ -2106,7 +2106,7 @@ module.exports = {
         '16.8.17. 화이트 밸런스(White Balance)'
       ],
       [
-        '16-08-18-stretch-contrast.md', 
+        '16-08-18-00-stretch-contrast.md', 
         '16.8.18. 대비 증가…(Stretch Contrast…)'
       ],
       [

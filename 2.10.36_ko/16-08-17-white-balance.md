@@ -11,9 +11,9 @@
 
 그리고 남은 범위의 픽셀들을 가능한 만큼 확장합니다.
 
-그 결과, [대비 증가…(Stretch Contrast…)](./16-08-18-stretch-contrast.md)와 비교해봤을 때, 드물게 나타나는 히스토그램의 바깥쪽 경계의 픽셀의 색상은 히스토그램을 확장할 때 쓰인 최소 또는 최대 값에 영향을 주지 않습니다.
+그 결과, [대비 증가…(Stretch Contrast…)](./16-08-18-00-stretch-contrast.md)와 비교해봤을 때, 드물게 나타나는 히스토그램의 바깥쪽 경계의 픽셀의 색상은 히스토그램을 확장할 때 쓰인 최소 또는 최대 값에 영향을 주지 않습니다.
 
-하지만 [대비 증가…(Stretch Contrast…)](./16-08-18-stretch-contrast.md)처럼 결과 이미지의 [색상(Hue)](./19-glossaryx-hue.md)이 이동하여 변할 수 있습니다.
+하지만 [대비 증가…(Stretch Contrast…)](./16-08-18-00-stretch-contrast.md)처럼 결과 이미지의 [색상(Hue)](./19-glossaryx-hue.md)이 이동하여 변할 수 있습니다.
 
 이 명령은 하얀색과 검은색이 많지 않은 이미지에 순수한 하얀색과 검은색을 추가하므로 사진을 보정하는데 좋습니다.
 
@@ -46,7 +46,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.8.18. 대비 증가…(Stretch Contrast…)](./16-08-18-stretch-contrast.md)
+[➡️ 다음: 16.8.18. 대비 증가…(Stretch Contrast…)](./16-08-18-00-stretch-contrast.md)
 
 [⬅️ 이전: 16.8.16. 평준화(Equalize)](./16-08-16-equalize.md)
 
