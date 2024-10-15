@@ -22,7 +22,7 @@
 
 [19. 용어집 - 휘도(Luminance)](./19-glossaryx-luminance.md)
 
-[19. 용어집 - 밝기(Lightness(HSL))](./19-glossaryx-lightness_hsl.md)
+[19. 용어집 - 밝기(Lightness) - HSL](./19-glossaryx-lightness_hsl.md)
 
 [19. 용어집 - 값(HSV) - Value(HSV)](./19-glossaryx-value_hsv.md)
 

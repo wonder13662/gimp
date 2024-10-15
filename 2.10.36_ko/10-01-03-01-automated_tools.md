@@ -38,7 +38,9 @@ GIMP(김프)에는 다섯 개의 자동 색상 보정 도구들이 있습니다.
 
 [다른 운영체제와 언어의 `이미지 메뉴 바` → `색` → `자동` → `색상 보강` 확인하기](./90-01-07-14-05-color_enhance.md#90-01-07-14-05-a2)
 
-`색상 보강(Color Enhance)`은 레이어 색상의 밝기(Lightness)나 색조(Hue)를 변경하지 않고 채도(Saturation) 범위만 증가시킵니다.
+[색상 보강(Color Enhance)](./16-08-20-color-enhance.md)은 레이어 색상의 [밝기(Lightness)](./19-glossaryx-lightness_hsl.md)나 [색상(Hue)](./19-glossaryx-hue.md)을 변경하지 않고 [색도(Chroma)](./19-glossaryx-chromaticity.md) 범위만 증가시킵니다.
+
+<a comment="TODO 색도(Chroma)가 아닌 채도(Saturation)을 변화시킨다고 되어 있음. CIE LCh 색공간에서 변화하는 것이므로 오류임. 수정 필요."></a>
 
 그러므로 `색상 보강(Color Enhance)`은 그레이스케일 이미지에서 동작하지 않습니다.
 
@@ -96,7 +98,7 @@ GIMP(김프)에는 다섯 개의 자동 색상 보정 도구들이 있습니다.
 
 [다른 운영체제와 언어의 `이미지 메뉴 바` → `색` → `자동` → `HSV 대비 증가` 확인하기](./90-01-07-14-04-stretch_contrast_hsv.md#90-01-07-14-04-a2)
 
-`HSV 대비 증가(Stretch Contrast HSV)`는 `대비 증가(Stretch Contrast)`와 비슷하게 `HSV` 색상을 강화합니다. 
+[`HSV 대비 증가(Stretch Contrast HSV)`](./16-08-19-stretch-contrast-hsv.md)는 `대비 증가(Stretch Contrast)`와 비슷하게 `HSV` 색상을 강화합니다. 
 
 단 [채도(Saturation)](./19-glossaryx-saturation.md)는 그대로 유지합니다.
 

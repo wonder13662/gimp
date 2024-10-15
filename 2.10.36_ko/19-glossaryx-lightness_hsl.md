@@ -1,4 +1,4 @@
-# 19. 용어집 - 밝기(Lightness(HSL))
+# 19. 용어집 - 밝기(Lightness) - HSL
 
 `밝기(Lightness(HSL))`에서 회색 음영의 값을 계산하는 방정식은 다음과 같습니다.
 

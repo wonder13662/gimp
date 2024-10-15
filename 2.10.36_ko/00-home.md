@@ -5120,7 +5120,7 @@
 
 [19. 용어집 - 레이어 스택(Layer Stack)](./19-glossaryx-layer_stack.md)
 
-[19. 용어집 - 밝기(Lightness(HSL))](./19-glossaryx-lightness_hsl.md)
+[19. 용어집 - 밝기(Lightness) - HSL](./19-glossaryx-lightness_hsl.md)
 
 [19. 용어집 - 선형 조명(Linear Light)](./19-glossaryx-linear_light.md)
 

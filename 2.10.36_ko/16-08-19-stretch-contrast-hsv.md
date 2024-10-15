@@ -63,6 +63,12 @@
 
 ***
 
+## 관련 정보
+
+[10.1.3.1. 자동화 도구 - 4. HSV 대비 증가(Stretch Contrast HSV)](./10-01-03-01-automated_tools.md#10-01-03-01-s4)
+
+***
+
 ## 다른 페이지로 가기
 
 [➡️ 다음: 16.8.20. 색상 보강(Color Enhance)](./16-08-20-color-enhance.md)

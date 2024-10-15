@@ -33,6 +33,41 @@
 
 [16.8.20. 색상 보강(Color Enhance) - 그림 90.1.7.14.5.a101](./16-08-20-color-enhance.md#90-01-07-14-05-a101)
 
+<a id="90-01-07-14-05-a111"></a>
+
+#### 영상 90.1.7.14.5.a111. `이미지 메뉴 바` → `색` → `자동` → `색상 보강` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a14273e6-bf02-4e93-ba27-0b952b08355b"></video>
+
+[16.8.20. 색상 보강(Color Enhance) - 영상 90.1.7.14.5.a111](./16-08-20-color-enhance.md#90-01-07-14-05-a111)
+
+<a id="90-01-07-14-05-a201"></a>
+
+#### 그림 90.1.7.14.5.a201. `이미지 메뉴 바` → `색` → `자동` → `색상 보강`: 값(Value) 채널 전후 비교 (Windows) (우리말)
+<img width="760" height="259" alt="90-01-07-14-05-a201" src="https://github.com/user-attachments/assets/5a657caf-4d77-4e99-bd61-ad29f78b6755" />
+
+[16.8.20. 색상 보강(Color Enhance) - 그림 90.1.7.14.5.a201](./16-08-20-color-enhance.md#90-01-07-14-05-a201)
+
+<a id="90-01-07-14-05-a211"></a>
+
+#### 그림 90.1.7.14.5.a211. `이미지 메뉴 바` → `색` → `자동` → `색상 보강`: 빨강(Red) 채널 전후 비교 (Windows) (우리말)
+<img width="760" height="259" alt="90-01-07-14-05-a211" src="https://github.com/user-attachments/assets/18c179eb-d279-4f98-80ba-e4c4a23a23c5" />
+
+[16.8.20. 색상 보강(Color Enhance) - 그림 90.1.7.14.5.a211](./16-08-20-color-enhance.md#90-01-07-14-05-a211)
+
+<a id="90-01-07-14-05-a221"></a>
+
+#### 그림 90.1.7.14.5.a221. `이미지 메뉴 바` → `색` → `자동` → `색상 보강`: 녹색(Green) 채널 전후 비교 (Windows) (우리말)
+<img width="760" height="259" alt="90-01-07-14-05-a221" src="https://github.com/user-attachments/assets/63f74299-5246-442b-8092-dd43d7242cb9" />
+
+[16.8.20. 색상 보강(Color Enhance) - 그림 90.1.7.14.5.a221](./16-08-20-color-enhance.md#90-01-07-14-05-a221)
+
+<a id="90-01-07-14-05-a231"></a>
+
+#### 그림 90.1.7.14.5.a231. `이미지 메뉴 바` → `색` → `자동` → `색상 보강`: 파랑(Blue) 채널 전후 비교 (Windows) (우리말)
+<img width="760" height="259" alt="90-01-07-14-05-a231" src="https://github.com/user-attachments/assets/68566104-4f04-43d4-a753-bf49ea0a1edd" />
+
+[16.8.20. 색상 보강(Color Enhance) - 그림 90.1.7.14.5.a231](./16-08-20-color-enhance.md#90-01-07-14-05-a231)
+
 ***
 
 ## 다른 페이지로 가기

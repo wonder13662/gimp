@@ -1,4 +1,7 @@
 # 19. 용어집 - 색 모델: CIE LAB
+
+## 1. 정의
+
 `Lab` 색 공간은 1930년부터 CIE(국제 조명 위원회 - Commision Internationale d'Eclairage)에 의해 연구가 시작되었습니다.
 
 `Lab` 색 공간은 `L*a*b*` 색 공간이라고도 합니다
@@ -19,9 +22,16 @@
 
 또한 `Lab` 색 공간은 포스트스크립트 Level II의 내부적인 색 모델입니다.
 
+## 2. 비슷한 말
+
+- CIELAB color space
+
+- CIELAB color model
+
 *** 
 
 ## 관련 정보
 
 [원문](https://docs.gimp.org/2.10/ko/glossary.html#glossary-lab)
 
+[Wikipedia - CIELAB color space](https://en.wikipedia.org/wiki/CIELAB_color_space#CIEHLC_cylindrical_model)
