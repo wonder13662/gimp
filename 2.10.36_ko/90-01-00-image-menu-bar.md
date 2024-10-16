@@ -440,7 +440,7 @@
 
 [90.1.7.14.5. 색상 보강(Color Enhance)](./90-01-07-14-05-color_enhance.md)
 
-[90.1.7.14.6. 색상 보강(레거시)(Color Enhance (legacy))](./90-01-07-14-06-color_enhance_legacy.md)
+[90.1.7.14.6. 색상 보강(레거시) - Color Enhance (legacy)](./90-01-07-14-06-color_enhance_legacy.md)
 
 [90.1.7.15. 성분(Components)](./90-01-07-15-00-components.md)
 

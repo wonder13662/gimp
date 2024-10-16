@@ -2119,7 +2119,7 @@ module.exports = {
       ],
       [
         '16-08-21-color-enhance-legacy.md', 
-        '16.8.21. 색상 보강(레거시)(Color Enhance (legacy))'
+        '16.8.21. 색상 보강(레거시) - Color Enhance (legacy)'
       ],
       [
         '16-08-22-the-components-submenu.md', 

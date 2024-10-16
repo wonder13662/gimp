@@ -39,7 +39,7 @@ GIMP(김프)에는 [활성화 레이어](./19-glossaryx-active_layer.md)의 색�
 
 [16.8.20. 색상 보강(Color Enhance)](./16-08-20-color-enhance.md)
 
-[16.8.21. 색상 보강(레거시)(Color Enhance (legacy))](./16-08-21-color-enhance-legacy.md)
+[16.8.21. 색상 보강(레거시) - Color Enhance (legacy)](./16-08-21-color-enhance-legacy.md)
 
 ***
 

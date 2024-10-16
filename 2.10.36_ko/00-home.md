@@ -4398,7 +4398,7 @@
 
 [16.8.20. 색상 보강(Color Enhance)](./16-08-20-color-enhance.md)
 
-[16.8.21. 색상 보강(레거시)(Color Enhance (legacy))](./16-08-21-color-enhance-legacy.md)
+[16.8.21. 색상 보강(레거시) - Color Enhance (legacy)](./16-08-21-color-enhance-legacy.md)
 
 [16.8.22. 성분 하위 메뉴(The "Components" submenu)](./16-08-22-the-components-submenu.md)
 
@@ -5704,7 +5704,7 @@
 
 [90.1.7.14.5. 색상 보강(Color Enhance)](./90-01-07-14-05-color_enhance.md)
 
-[90.1.7.14.6. 색상 보강(레거시)(Color Enhance (legacy))](./90-01-07-14-06-color_enhance_legacy.md)
+[90.1.7.14.6. 색상 보강(레거시) - Color Enhance (legacy)](./90-01-07-14-06-color_enhance_legacy.md)
 
 [90.1.7.15. 성분(Components)](./90-01-07-15-00-components.md)
 

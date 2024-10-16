@@ -72,7 +72,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.7.14.6. 색상 보강(레거시)(Color Enhance (legacy))](./90-01-07-14-06-color_enhance_legacy.md)
+[➡️ 다음: 90.1.7.14.6. 색상 보강(레거시) - Color Enhance (legacy)](./90-01-07-14-06-color_enhance_legacy.md)
 
 [⬅️ 이전: 90.1.7.14.4. HSV 대비 증가(Stretch Contrast HSV)](./90-01-07-14-04-stretch_contrast_hsv.md)
 

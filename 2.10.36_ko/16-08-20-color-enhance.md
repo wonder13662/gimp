@@ -68,7 +68,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.8.21. 색상 보강(레거시)(Color Enhance (legacy))](./16-08-21-color-enhance-legacy.md)
+[➡️ 다음: 16.8.21. 색상 보강(레거시) - Color Enhance (legacy)](./16-08-21-color-enhance-legacy.md)
 
 [⬅️ 이전: 16.8.19. HSV 대비 증가(Stretch Contrast HSV)](./16-08-19-stretch-contrast-hsv.md)
 
