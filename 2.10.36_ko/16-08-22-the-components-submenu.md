@@ -13,7 +13,7 @@
 
 [16.8.23. 채널 혼합(Channel Mixer)](./16-08-23-00-channel-mixer.md)
 
-[16.8.24. 요소 추출…(Extract Component…)](./16-08-24-extract-component.md)
+[16.8.24. 요소 추출…(Extract Component…)](./16-08-24-00-extract-component.md)
 
 [16.8.25. Mono Mixer…](./16-08-25-mono-mixer.md)
 

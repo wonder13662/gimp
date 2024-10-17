@@ -29,7 +29,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.8.24. 요소 추출…(Extract Component…)](./16-08-24-extract-component.md)
+[➡️ 다음: 16.8.24. 요소 추출…(Extract Component…)](./16-08-24-00-extract-component.md)
 
 [⬅️ 이전: 16.8.23.3.7. 보기 영역 분할(Split view)](./16-08-23-03-07-split_view.md)
 

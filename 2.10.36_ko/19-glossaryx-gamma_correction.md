@@ -11,6 +11,8 @@
 [Gimp-forum.net: Layer Mode: Addition equation is working differently to official guide](https://www.gimp-forum.net/Thread-Layer-Mode-Addition-equation-is-working-differently-to-official-guide)
 (TODO 내용 정리필요)
 
+[Gamma Color space와 Linear Color space란? - Unity Korea](https://www.youtube.com/watch?v=Xwlm5V-bnBc)
+
 [16.5.11.4. 감마(Gamma)](./16-05-11-04-gamma.md)
 
-[Gamma Color space와 Linear Color space란? - Unity Korea](https://www.youtube.com/watch?v=Xwlm5V-bnBc)
+[19. 용어집 - 가시영역 RGB(Perceptual RGB)](./19-glossaryx-perceptual_rgb.md)

@@ -2131,7 +2131,7 @@ module.exports = {
         '16.8.23. 채널 혼합(Channel Mixer)'
       ],
       [
-        '16-08-24-extract-component.md', 
+        '16-08-24-00-extract-component.md', 
         '16.8.24. 요소 추출…(Extract Component…)'
       ],
       [

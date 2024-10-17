@@ -374,7 +374,27 @@
 
 [16.8.23.4. 채널 혼합은 어떻게 동작하나요?(How does Channel Mixer work?)](./16-08-23-04-how_does_channel_mixer_work.md)
 
-[16.8.24. 요소 추출…(Extract Component…)](./16-08-24-extract-component.md)
+[16.8.24. 요소 추출…(Extract Component…)](./16-08-24-00-extract-component.md)
+
+[16.8.24.1. 명령 활성화하기(Activate the command)](./16-08-24-01-activate_the_command.md)
+
+[16.8.24.2. 옵션(Options)](./16-08-24-02-00-options.md)
+
+[16.8.24.2.1. 프리셋(Presets)](./16-08-24-02-01-presets.md)
+
+[16.8.24.2.2. 구성요소(Component)](./16-08-24-02-02-component.md)
+
+[16.8.24.2.3. 구성요소 반전(Invert Component)](./16-08-24-02-03-invert_component.md)
+
+[16.8.24.2.4. 선형 출력(Linear output)](./16-08-24-02-04-linear_output.md)
+
+[16.8.24.2.5. 혼합 옵션(Blending Options)](./16-08-24-02-05-blending_options.md)
+
+[16.8.24.2.6. 고급 색상 옵션(Advanced Color Options)](./16-08-24-02-06-advanced_color_options.md)
+
+[16.8.24.2.7. 미리보기(Preview)](./16-08-24-02-07-preview.md)
+
+[16.8.24.2.8. 보기 영역 분할(Split view)](./16-08-24-02-08-split_view.md)
 
 [16.8.25. Mono Mixer…](./16-08-25-mono-mixer.md)
 
@@ -462,4 +482,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-colors-menu.html)s
+[원문](https://docs.gimp.org/2.10/ko/gimp-colors-menu.html)
