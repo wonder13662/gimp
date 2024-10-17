@@ -448,7 +448,7 @@
 
 [90.1.7.15.2. 요소 추출…(Extract Component…)](./90-01-07-15-02-extract_component.md)
 
-[90.1.7.15.3. Mono Mixer…(Mono Mixer…)](./90-01-07-15-03-mono_mixer.md)
+[90.1.7.15.3. Mono Mixer…](./90-01-07-15-03-mono_mixer.md)
 
 [90.1.7.15.4. 구성…(Compose…)](./90-01-07-15-04-compose.md)
 

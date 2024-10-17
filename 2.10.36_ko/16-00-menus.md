@@ -1462,6 +1462,26 @@
 
 [16.8.18. 대비 증가…(Stretch Contrast…)](./16-08-18-00-stretch-contrast.md)
 
+[16.8.18.1. 명령 활성화하기(Activate the Command)](./16-08-18-01-activate_the_command.md)
+
+[16.8.18.2. 옵션(Options)](./16-08-18-02-00-options.md)
+
+[16.8.18.2.1. 프리셋(Presets)](./16-08-18-02-01-presets.md)
+
+[16.8.18.2.2. 색상 유지(Keep Colors)](./16-08-18-02-02-keep_colors.md)
+
+[16.8.18.2.3. 비선형 구성 요소(Non-Linear Components)](./16-08-18-02-03-non_linear_components.md)
+
+[16.8.18.2.4. 혼합 옵션(Blending Options)](./16-08-18-02-04-blending_options.md)
+
+[16.8.18.2.5. 고급 색상 옵션(Advanced Color Options)](./16-08-18-02-05-advanced_color_options.md)
+
+[16.8.18.2.6. 미리보기(Preview)](./16-08-18-02-06-preview.md)
+
+[16.8.18.2.7. 보기 영역 분할(Split view)](./16-08-18-02-07-split_view.md)
+
+[16.8.18.3. 예제(Example)](./16-08-18-03-example.md)
+
 [16.8.19. HSV 대비 증가(Stretch Contrast HSV)](./16-08-19-stretch-contrast-hsv.md)
 
 [16.8.20. 색상 보강(Color Enhance)](./16-08-20-color-enhance.md)
@@ -1470,17 +1490,39 @@
 
 [16.8.22. 성분 하위 메뉴(The "Components" submenu)](./16-08-22-the-components-submenu.md)
 
-[16.8.23. 채널 혼합](./16-08-23-channel-mixer.md)
+[16.8.23. 채널 혼합(Channel Mixer)](./16-08-23-00-channel-mixer.md)
 
-[16.8.24. Extract component](./16-08-24-extract-component.md)
+[16.8.23.1. 개요(Overview)](./16-08-23-01-overview.md)
 
-[16.8.25. Mono mixer](./16-08-25-mono-mixer.md)
+[16.8.23.2. 명령 활성화하기(Activate the command)](./16-08-23-02-activate_the_command.md)
 
-[16.8.26. Compose](./16-08-26-compose.md)
+[16.8.23.3. 옵션(Options)](./16-08-23-03-00-options.md)
 
-[16.8.27. Decompose](./16-08-27-decompose.md)
+[16.8.23.3.1. 프리셋(Presets)](./16-08-23-03-01-presets.md)
 
-[16.8.28. Recompose](./16-08-28-recompose.md)
+[16.8.23.3.2. 채널(Channels)](./16-08-23-03-02-channels.md)
+
+[16.8.23.3.3. 광도 보존(Preserve Luminosity)](./16-08-23-03-03-preserve_luminosity.md)
+
+[16.8.23.3.4. 혼합 옵션(Blending Options)](./16-08-23-03-04-blending_options.md)
+
+[16.8.23.3.5. 고급 색상 옵션(Advanced Color Options)](./16-08-23-03-05-advanced_color_options.md)
+
+[16.8.23.3.6. 미리보기(Preview)](./16-08-23-03-06-preview.md)
+
+[16.8.23.3.7. 보기 영역 분할(Split view)](./16-08-23-03-07-split_view.md)
+
+[16.8.23.4. 채널 혼합은 어떻게 동작하나요?(How does Channel Mixer work?)](./16-08-23-04-how_does_channel_mixer_work.md)
+
+[16.8.24. 요소 추출…(Extract Component…)](./16-08-24-extract-component.md)
+
+[16.8.25. Mono Mixer…](./16-08-25-mono-mixer.md)
+
+[16.8.26. 구성…(Compose…)](./16-08-26-compose.md)
+
+[16.8.27. 분해…(Decompose…)](./16-08-27-decompose.md)
+
+[16.8.28. 재구성(Recompose)](./16-08-28-recompose.md)
 
 [16.8.29. 무채화 하위메뉴(The "Desaturate" submenu)](./16-08-29-the-desaturate-submenu.md)
 

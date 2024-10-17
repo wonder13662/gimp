@@ -1,6 +1,6 @@
-# 16.8.24. Extract component
+# 16.8.24. 요소 추출…(Extract Component…)
 
-### [Home](./00-home.md)
-### [Parent: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
-### [Prev: 16.8.23. 채널 혼합](./16-08-23-channel-mixer.md)
-### [Next: 16.8.25. Mono mixer](./16-08-25-mono-mixer.md)
+<a id="90-01-07-15-02-a1"></a>
+
+#### [그림 90.1.7.15.2.a1. `이미지 메뉴 바` → `색` → `성분` → `요소 추출…` (Windows)](./90-01-07-15-02-extract_component.md#90-01-07-15-02-a1)
+<img width="466" height="299" alt="90-01-07-15-02-a1" src="https://github.com/user-attachments/assets/7ade65fc-af42-4d85-90f2-ca0b69f31a08" />

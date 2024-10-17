@@ -1,14 +1,17 @@
 # 90.1.7.15.2. 요소 추출…(Extract Component…)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.1.7.15.2.a1. `색` → `성분` → `요소 추출…` (Windows)
 
-#### 그림 90.1.7.15.2.a2. `색` → `성분` → `요소 추출…` (Mac)
+<a id="90-01-07-15-02-a1"></a>
+
+#### 그림 90.1.7.15.2.a1. `이미지 메뉴 바` → `색` → `성분` → `요소 추출…` (Windows)
+<img width="466" height="299" alt="90-01-07-15-02-a1" src="https://github.com/user-attachments/assets/7ade65fc-af42-4d85-90f2-ca0b69f31a08" />
+
+[16.8.24. 요소 추출…(Extract Component…) - 그림 90.1.7.15.2.a1](./16-08-24-extract-component.md#90-01-07-15-02-a1)
 
 ***
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 90.1.7.15.3. Mono Mixer…(Mono Mixer…)](./90-01-07-15-03-mono_mixer.md)
+[➡️ 다음: 90.1.7.15.3. Mono Mixer…](./90-01-07-15-03-mono_mixer.md)
 
 [⬅️ 이전: 90.1.7.15.1. 채널 혼합…(Channel Mixer…)](./90-01-07-15-01-channel_mixer.md)
 

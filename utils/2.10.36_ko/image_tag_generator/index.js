@@ -24,9 +24,12 @@ const doAsyncJob = async (targetPage) => {
 
     const fileNameWithoutExtension = file.toLowerCase().replace('.jpg', '').replace('.png', '')
 
-    sizeOf(`./images/${file}`, function (err, dimensions) {
-      console.log(`<img width="${dimensions.width}" height="${dimensions.height}" alt="${fileNameWithoutExtension}" src="" />`)
-    });
+    // sizeOf(`./images/${file}`, function (err, dimensions) {
+    //   results.push(`<img width="${dimensions.width}" height="${dimensions.height}" alt="${fileNameWithoutExtension}" src="" />`)
+    // });
+
+    const dimensions = await sizeOf(`./images/${file}`)
+    console.log(`<img width="${dimensions.width}" height="${dimensions.height}" alt="${fileNameWithoutExtension}" src="" />`)
   }
 }
 

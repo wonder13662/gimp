@@ -2126,29 +2126,29 @@ module.exports = {
         '16.8.22. 성분 하위 메뉴(The "Components" submenu)'
       ],
       [
-        '16-08-23-channel-mixer.md', 
+        '16-08-23-00-channel-mixer.md', 
         '16.8.23. Channel mixer',
-        '16.8.23. 채널 혼합'
+        '16.8.23. 채널 혼합(Channel Mixer)'
       ],
       [
         '16-08-24-extract-component.md', 
-        '16.8.24. Extract component'
+        '16.8.24. 요소 추출…(Extract Component…)'
       ],
       [
         '16-08-25-mono-mixer.md', 
-        '16.8.25. Mono mixer'
+        '16.8.25. Mono Mixer…'
       ],
       [
         '16-08-26-compose.md', 
-        '16.8.26. Compose'
+        '16.8.26. 구성…(Compose…)'
       ],
       [
         '16-08-27-decompose.md', 
-        '16.8.27. Decompose'
+        '16.8.27. 분해…(Decompose…)'
       ],
       [
         '16-08-28-recompose.md', 
-        '16.8.28. Recompose'
+        '16.8.28. 재구성(Recompose)'
       ],
       [
         '16-08-29-the-desaturate-submenu.md', 

@@ -1,6 +1,6 @@
-# 16.8.28. Recompose
+# 16.8.28. 재구성(Recompose)
 
-### [Home](./00-home.md)
-### [Parent: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
-### [Prev: 16.8.27. Decompose](./16-08-27-decompose.md)
-### [Next: 16.8.29. 무채화 하위메뉴(The "Desaturate" submenu)](./16-08-29-the-desaturate-submenu.md)
+<a id="90-01-07-15-06-a1"></a>
+
+#### [그림 90.1.7.15.6.a1. `이미지 메뉴 바` → `색` → `성분` → `재구성` (Windows)](./90-01-07-15-06-recompose.md#90-01-07-15-06-a1)
+<img width="466" height="299" alt="90-01-07-15-06-a1" src="https://github.com/user-attachments/assets/b14d3bca-ab4c-42f5-bb1e-a1004d3622a8" />
