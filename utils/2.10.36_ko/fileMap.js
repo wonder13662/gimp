@@ -2135,7 +2135,7 @@ module.exports = {
         '16.8.24. 요소 추출…(Extract Component…)'
       ],
       [
-        '16-08-25-mono-mixer.md', 
+        '16-08-25-00-mono-mixer.md', 
         '16.8.25. Mono Mixer…'
       ],
       [
