@@ -1,6 +1,6 @@
-# 16.8.32. Mono mixer
+# 16.8.32. Mono Mixer…
 
-### [Home](./00-home.md)
-### [Parent: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
-### [Prev: 16.8.31. Desaturate](./16-08-31-desaturate.md)
-### [Next: 16.8.33. Sepia](./16-08-33-sepia.md)
+<a id="90-01-07-16-03-a1"></a>
+
+#### [그림 90.1.7.16.3.a1. `이미지 메뉴 바` → `색` → `무채화` → `Mono Mixer…` (Windows)](./90-01-07-16-03-mono_mixer.md#90-01-07-16-03-a1)
+<img width="418" height="233" alt="90-01-07-16-03-a1" src="https://github.com/user-attachments/assets/715bfddf-f7b2-492f-bf45-dec3324b959b" />

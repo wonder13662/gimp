@@ -1,12 +1,13 @@
-# 16.8.31. Desaturate
+# 16.8.31. 무채화…(Desaturate…)
 
-### [Home](./00-home.md)
-### [Parent: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
-### [Prev: 16.8.30. Color to gray](./16-08-30-color-to-gray.md)
-### [Next: 16.8.32. Mono mixer](./16-08-32-mono-mixer.md)
+<a id="90-01-07-16-02-a1"></a>
+
+#### [그림 90.1.7.16.2.a1. `이미지 메뉴 바` → `색` → `무채화` → `무채화…` (Windows)](./90-01-07-16-02-desaturate.md#90-01-07-16-02-a1)
+<img width="418" height="233" alt="90-01-07-16-02-a1" src="https://github.com/user-attachments/assets/b53d058e-7eda-417f-82cf-f3dc1fee0a22" />
 
 ***
 
 ## 관련 정보
 [Gimp-Forum.net: Partial desaturation and other processes with a car](https://www.gimp-forum.net/Thread-Partial-desaturation-and-other-processes-with-a-car)
-(TODO 정리 필요)
+
+<a comment="TODO 정리 필요"></a>

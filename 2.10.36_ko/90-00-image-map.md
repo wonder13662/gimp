@@ -435,7 +435,7 @@
 
 [90.1.7.15.6. 재구성(Recompose)](./90-01-07-15-06-recompose.md)
 
-[90.1.7.16. 무채화(Desaturate)](./90-01-07-16-desaturate.md)
+[90.1.7.16. 무채화(Desaturate)](./90-01-07-16-00-desaturate.md)
 
 [90.1.7.17. 지도(Map)](./90-01-07-17-00-map.md)
 

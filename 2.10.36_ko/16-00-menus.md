@@ -1576,13 +1576,13 @@
 
 [16.8.29. 무채화 하위메뉴(The "Desaturate" submenu)](./16-08-29-the-desaturate-submenu.md)
 
-[16.8.30. Color to gray](./16-08-30-color-to-gray.md)
+[16.8.30. 흑백 전환(Color to Gray…)](./16-08-30-color-to-gray.md)
 
-[16.8.31. Desaturate](./16-08-31-desaturate.md)
+[16.8.31. 무채화…(Desaturate…)](./16-08-31-desaturate.md)
 
-[16.8.32. Mono mixer](./16-08-32-mono-mixer.md)
+[16.8.32. Mono Mixer…](./16-08-32-mono-mixer.md)
 
-[16.8.33. Sepia](./16-08-33-sepia.md)
+[16.8.33. 세피아…(Sepia…)](./16-08-33-sepia.md)
 
 [16.8.34. 지도 하위 메뉴(The "Map" submenu)](./16-08-34-the-map-submenu.md)
 

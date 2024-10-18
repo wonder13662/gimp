@@ -1,6 +1,6 @@
-# 16.8.30. Color to gray
+# 16.8.30. 흑백 전환(Color to Gray…)
 
-### [Home](./00-home.md)
-### [Parent: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
-### [Prev: 16.8.29. 무채화 하위메뉴(The "Desaturate" submenu)](./16-08-29-the-desaturate-submenu.md)
-### [Next: 16.8.31. Desaturate](./16-08-31-desaturate.md)
+<a id="90-01-07-16-01-a1"></a>
+
+#### [그림 90.1.7.16.1.a1. `이미지 메뉴 바` → `색` → `무채화` → `흑백 전환` (Windows)](./90-01-07-16-01-color_to_gray.md#90-01-07-16-01-a1)
+<img width="418" height="233" alt="90-01-07-16-01-a1" src="https://github.com/user-attachments/assets/6014d2fe-dbde-4946-881f-34a13b1e2276" />
