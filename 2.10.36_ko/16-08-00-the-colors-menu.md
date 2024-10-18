@@ -414,7 +414,13 @@
 
 [16.8.25.1.7. 보기 영역 분할(Split view)](./16-08-25-01-07-split_view.md)
 
-[16.8.26. 구성…(Compose…)](./16-08-26-compose.md)
+[16.8.26. 구성…(Compose…)](./16-08-26-00-compose.md)
+
+[16.8.26.1. 옵션(Options)](./16-08-26-01-00-options.md)
+
+[16.8.26.1.1. 채널 구성(Compose Channels)](./16-08-26-01-01-compose_channels.md)
+
+[16.8.26.1.2. 채널 표시(Channel Representations)](./16-08-26-01-02-channel_representations.md)
 
 [16.8.27. 분해…(Decompose…)](./16-08-27-decompose.md)
 

@@ -17,7 +17,7 @@
 
 [16.8.25. Mono Mixer…](./16-08-25-00-mono-mixer.md)
 
-[16.8.26. 구성…(Compose…)](./16-08-26-compose.md)
+[16.8.26. 구성…(Compose…)](./16-08-26-00-compose.md)
 
 [16.8.27. 분해…(Decompose…)](./16-08-27-decompose.md)
 

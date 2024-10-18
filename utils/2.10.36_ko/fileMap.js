@@ -2139,7 +2139,7 @@ module.exports = {
         '16.8.25. Mono Mixer…'
       ],
       [
-        '16-08-26-compose.md', 
+        '16-08-26-00-compose.md', 
         '16.8.26. 구성…(Compose…)'
       ],
       [
