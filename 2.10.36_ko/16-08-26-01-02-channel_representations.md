@@ -24,7 +24,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.8.27. 분해…(Decompose…)](./16-08-27-decompose.md)
+[➡️ 다음: 16.8.27. 분해…(Decompose…)](./16-08-27-00-decompose.md)
 
 [⬅️ 이전: 16.8.26.1.1. 채널 구성(Compose Channels)](./16-08-26-01-01-compose_channels.md)
 

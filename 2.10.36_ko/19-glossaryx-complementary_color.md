@@ -3,7 +3,7 @@
 ## 1. 정의
 보색(Complementary Color, 補色)은 색상 대비를 이루는 한쌍의 색입니다.
 
-[색상환](./19-glossaryx-color_wheel.md)에서 서로 마주보는 색이 보색입니다.
+[색상환](./19-glossaryx-hsv_color_wheel.md)에서 서로 마주보는 색이 보색입니다.
 
 ## 2. RGB 색공간의 보색 구하기
 색상 A의 좌표 (R1,G1,B1)에 대한 보색 색상 B의 좌표 (R2,G2,B2)는

@@ -2143,7 +2143,7 @@ module.exports = {
         '16.8.26. 구성…(Compose…)'
       ],
       [
-        '16-08-27-decompose.md', 
+        '16-08-27-00-decompose.md', 
         '16.8.27. 분해…(Decompose…)'
       ],
       [

@@ -4494,7 +4494,15 @@
 
 [16.8.26.1.2. 채널 표시(Channel Representations)](./16-08-26-01-02-channel_representations.md)
 
-[16.8.27. 분해…(Decompose…)](./16-08-27-decompose.md)
+[16.8.27. 분해…(Decompose…)](./16-08-27-00-decompose.md)
+
+[16.8.27.1. 옵션(Options)](./16-08-27-01-00-options.md)
+
+[16.8.27.1.1. 색상 모델(Color Model)](./16-08-27-01-01-color_model.md)
+
+[16.8.27.1.2. 레이어로 분해(Decompose to layers)](./16-08-27-01-02-decompose_to_layers.md)
+
+[16.8.27.1.3. 등록된 색상을 배경으로(Foreground as registration color)](./16-08-27-01-03-foreground_as_registration_color.md)
 
 [16.8.28. 재구성(Recompose)](./16-08-28-recompose.md)
 
@@ -5110,8 +5118,6 @@
 
 [19. 용어집 - 색공간(Color Space)](./19-glossaryx-color_space.md)
 
-[19. 용어집 - 색상환(Color Wheel)](./19-glossaryx-color_wheel.md)
-
 [19. 용어집 - 비색계(Colorimetric)](./19-glossaryx-colorimetric.md)
 
 [19. 용어집 - 보색(Complementary Color, 補色)](./19-glossaryx-complementary_color.md)
@@ -5179,6 +5185,8 @@
 [19. 용어집 - 높은 동적 범위(High Dynamic Range, HDR)](./19-glossaryx-high_dynamic_range.md)
 
 [19. 용어집 - 힌팅(Hinting)](./19-glossaryx-hinting.md)
+
+[19. 용어집 - HSV 색상환(HSV Color Wheel)](./19-glossaryx-hsv_color_wheel.md)
 
 [19. 용어집 - HTML 표기(HTML Notation)](./19-glossaryx-html_notation.md)
 

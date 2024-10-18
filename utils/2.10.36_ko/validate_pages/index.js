@@ -34,7 +34,7 @@ const doAsyncJob = async () => {
     if (검사대상_시작_파일_번호 === -1) {
       throw new Error('첫번째 검사 대상 파일이 유효하지 않습니다.')
     }
-    const 검사대상_마지막_파일_번호 = files.indexOf('16-08-26-01-02-channel_representations.md')
+    const 검사대상_마지막_파일_번호 = files.indexOf('16-08-27-01-03-foreground_as_registration_color.md')
     if (검사대상_마지막_파일_번호 === -1) {
       throw new Error('마지막 검사 대상 파일이 유효하지 않습니다.')
     }

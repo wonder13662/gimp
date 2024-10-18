@@ -15,4 +15,4 @@ HSV([Hue](./19-glossaryx-hue.md), [Saturation](./19-glossaryx-saturation.md), [V
 
 [19. 용어집 - 값(HSV) - Value(HSV)](./19-glossaryx-value_hsv.md)
 
-[19. 용어집 - 색상환(Color Wheel)](./19-glossaryx-color_wheel.md)
+[19. 용어집 - HSV 색상환(HSV Color Wheel)](./19-glossaryx-hsv_color_wheel.md)

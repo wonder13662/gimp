@@ -13,19 +13,19 @@
 - 삼원색(Primary color): 빨강(Red), 초록(Green), 파랑(Blue)
 - [보색(Complementary color)](./19-glossaryx-complementary_color.md): 하늘색(Cyan), 자홍색(Magenta), 노란색(Yellow)
 
-이 색들은 [색상환](./19-glossaryx-color_wheel.md)에 따라 정렬되어 있습니다.
+이 색들은 [색상환](./19-glossaryx-hsv_color_wheel.md)에 따라 정렬되어 있습니다.
 
 <a id="16-08-05-02-02-s2"></a>
 
 ## 2. 색상(Hue) 입력창 슬라이더
-`색상(Hue)`의 값이 증가하면, [색상환](./19-glossaryx-color_wheel.md)의 반시계방향으로 색이 변합니다.
+`색상(Hue)`의 값이 증가하면, [색상환](./19-glossaryx-hsv_color_wheel.md)의 반시계방향으로 색이 변합니다.
 
 <a id="90-04-131-a101-02-04-01-02"></a>
 
 #### [그림 90.4.131.a101.2.4.1.2. `전경색 바꾸기` 대화상자 → `휠` → `HSV 색상환` → `반시계방향` (Windows) (우리말)](./90-04-0131-change_foreground_color.md#90-04-131-a101-02-04-01-02)
 <img width="407" height="376" alt="90-04-131-a101-02-04-01-02" src="https://github.com/user-attachments/assets/bb3c9281-5573-48e0-9dee-21ef91cd94ec" />
 
-`색상(Hue)`의 값이 감소하면, [색상환](./19-glossaryx-color_wheel.md)의 시계방향으로 색이 변합니다.
+`색상(Hue)`의 값이 감소하면, [색상환](./19-glossaryx-hsv_color_wheel.md)의 시계방향으로 색이 변합니다.
 
 <a id="90-04-76-a142"></a>
 
