@@ -4508,7 +4508,27 @@
 
 [16.8.29. 무채화 하위메뉴(The "Desaturate" submenu)](./16-08-29-the-desaturate-submenu.md)
 
-[16.8.30. 흑백 전환(Color to Gray…)](./16-08-30-color-to-gray.md)
+[16.8.30. 흑백 전환(Color to Gray…)](./16-08-30-00-color-to-gray.md)
+
+[16.8.30.1. 옵션(Options)](./16-08-30-01-00-options.md)
+
+[16.8.30.1.1. 프리셋(Presets)](./16-08-30-01-01-presets.md)
+
+[16.8.30.1.2. 반경(Radius)](./16-08-30-01-02-radius.md)
+
+[16.8.30.1.3. 표본값(Samples)](./16-08-30-01-03-samples.md)
+
+[16.8.30.1.4. 반복 횟수(Iterations)](./16-08-30-01-04-iterations.md)
+
+[16.8.30.1.5. 그림자 강화(Enhance Shadows)](./16-08-30-01-05-enhance_shadows.md)
+
+[16.8.30.1.6. 혼합 옵션(Blending Options)](./16-08-30-01-06-blending_options.md)
+
+[16.8.30.1.7. 고급 색상 옵션(Advanced Color Options)](./16-08-30-01-07-advanced_color_options.md)
+
+[16.8.30.1.8. 미리보기(Preview)](./16-08-30-01-08-preview.md)
+
+[16.8.30.1.9. 보기 영역 분할(Split view)](./16-08-30-01-09-split_view.md)
 
 [16.8.31. 무채화…(Desaturate…)](./16-08-31-desaturate.md)
 
@@ -5819,6 +5839,14 @@
 [90.1.7.15.6. 재구성(Recompose)](./90-01-07-15-06-recompose.md)
 
 [90.1.7.16. 무채화(Desaturate)](./90-01-07-16-00-desaturate.md)
+
+[90.1.7.16.1. 흑백 전환(Color to Gray…)](./90-01-07-16-01-color_to_gray.md)
+
+[90.1.7.16.2. 무채화…(Desaturate…)](./90-01-07-16-02-desaturate.md)
+
+[90.1.7.16.3. Mono Mixer…](./90-01-07-16-03-mono_mixer.md)
+
+[90.1.7.16.4. 세피아…(Sepia…)](./90-01-07-16-04-sepia.md)
 
 [90.1.7.17. 지도(Map)](./90-01-07-17-00-map.md)
 

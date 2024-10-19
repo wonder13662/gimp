@@ -11,10 +11,26 @@
 
 ## 하위 페이지
 
-[16.8.30. 흑백 전환(Color to Gray…)](./16-08-30-color-to-gray.md)
+[16.8.30. 흑백 전환(Color to Gray…)](./16-08-30-00-color-to-gray.md)
 
 [16.8.31. 무채화…(Desaturate…)](./16-08-31-desaturate.md)
 
 [16.8.32. Mono Mixer…](./16-08-32-mono-mixer.md)
 
 [16.8.33. 세피아…(Sepia…)](./16-08-33-sepia.md)
+
+***
+
+## 다른 페이지로 가기
+
+[➡️ 다음: 16.8.30. 흑백 전환(Color to Gray…)](./16-08-30-00-color-to-gray.md)
+
+[⬅️ 이전: 16.8.28. 재구성(Recompose)](./16-08-28-recompose.md)
+
+[⬆️ 위: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
+
+[⬆️ 위: 16. 메뉴(Menus)](./16-00-menus.md)
+
+[🏠 홈](./00-home.md)
+
+[원문](https://docs.gimp.org/2.10/ko/gimp-colors-desaturate-menu.html)

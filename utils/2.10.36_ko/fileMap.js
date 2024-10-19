@@ -2155,7 +2155,7 @@ module.exports = {
         '16.8.29. 무채화 하위메뉴(The "Desaturate" submenu)'
       ],
       [
-        '16-08-30-color-to-gray.md', 
+        '16-08-30-00-color-to-gray.md', 
         '16.8.30. 흑백 전환(Color to Gray…)'
       ],
       [
