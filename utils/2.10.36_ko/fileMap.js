@@ -2159,7 +2159,7 @@ module.exports = {
         '16.8.30. 흑백 전환(Color to Gray…)'
       ],
       [
-        '16-08-31-desaturate.md', 
+        '16-08-31-00-desaturate.md', 
         '16.8.31. 무채화…(Desaturate…)'
       ],
       [

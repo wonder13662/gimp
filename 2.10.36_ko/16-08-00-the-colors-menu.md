@@ -458,7 +458,19 @@
 
 [16.8.30.1.9. 보기 영역 분할(Split view)](./16-08-30-01-09-split_view.md)
 
-[16.8.31. 무채화…(Desaturate…)](./16-08-31-desaturate.md)
+[16.8.31. 무채화…(Desaturate…)](./16-08-31-00-desaturate.md)
+
+[16.8.31.1. 옵션(Options)](./16-08-31-01-00-options.md)
+
+[16.8.31.1.1. 프리셋(Presets)](./16-08-31-01-01-presets.md)
+
+[16.8.31.1.2. 모드(Mode)](./16-08-31-01-02-mode.md)
+
+[16.8.31.1.3. 혼합 옵션(Blending Options)](./16-08-31-01-03-blending_options.md)
+
+[16.8.31.1.4. 미리보기(Preview)](./16-08-31-01-04-preview.md)
+
+[16.8.31.1.5. 보기 영역 분할(Split view)](./16-08-31-01-05-split_view.md)
 
 [16.8.32. Mono Mixer…](./16-08-32-mono-mixer.md)
 

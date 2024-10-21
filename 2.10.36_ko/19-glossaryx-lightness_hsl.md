@@ -1,5 +1,9 @@
 # 19. 용어집 - 밝기(Lightness) - HSL
 
+<a id="19-glossaryx-lightness_hsl-s1"></a>
+
+## 1. 회색 음영을 계산하는 방법
+
 `밝기(Lightness(HSL))`에서 회색 음영의 값을 계산하는 방정식은 다음과 같습니다.
 
 ```
@@ -12,6 +16,6 @@ Lightness (HSL) = ½ × (max(R,G,B) + min(R,G,B))
 
 [8.31. Desaturate](https://docs.gimp.org/2.10/ko/gimp-filter-desaturate.html#idm32648)
 
-[16.8.31. 무채화…(Desaturate…)](./16-08-31-desaturate.md)
+[16.8.31. 무채화…(Desaturate…)](./16-08-31-00-desaturate.md)
 
 [8.31.4. More information about the five options for converting from color to black and white: ore information about Lightness, Average, and Value](https://docs.gimp.org/2.10/ko/gimp-filter-desaturate.html#More-information-about-Lightness-Average-and-Value)

@@ -13,7 +13,7 @@
 
 [16.8.30. 흑백 전환(Color to Gray…)](./16-08-30-00-color-to-gray.md)
 
-[16.8.31. 무채화…(Desaturate…)](./16-08-31-desaturate.md)
+[16.8.31. 무채화…(Desaturate…)](./16-08-31-00-desaturate.md)
 
 [16.8.32. Mono Mixer…](./16-08-32-mono-mixer.md)
 
