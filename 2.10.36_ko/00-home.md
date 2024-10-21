@@ -4546,7 +4546,23 @@
 
 [16.8.32. Mono Mixer…](./16-08-32-mono-mixer.md)
 
-[16.8.33. 세피아…(Sepia…)](./16-08-33-sepia.md)
+[16.8.33. 세피아…(Sepia…)](./16-08-33-00-sepia.md)
+
+[16.8.33.1. 옵션(Options)](./16-08-33-01-00-options.md)
+
+[16.8.33.1.1. 프리셋(Presets)](./16-08-33-01-01-presets.md)
+
+[16.8.33.1.2. 효과 강도(Effect Strength)](./16-08-33-01-02-effect_strength.md)
+
+[16.8.33.1.3. sRGB](./16-08-33-01-03-srgb.md)
+
+[16.8.33.1.4. 혼합 옵션(Blending Options)](./16-08-33-01-04-blending_options.md)
+
+[16.8.33.1.5. 고급 색상 옵션(Advanced Color Options)](./16-08-33-01-05-advanced_color_options.md)
+
+[16.8.33.1.6. 미리보기(Preview)](./16-08-33-01-06-preview.md)
+
+[16.8.33.1.7. 보기 영역 분할(Split view)](./16-08-33-01-07-split_view.md)
 
 [16.8.34. 지도 하위 메뉴(The "Map" submenu)](./16-08-34-the-map-submenu.md)
 

@@ -2167,7 +2167,7 @@ module.exports = {
         '16.8.32. Mono Mixer…'
       ],
       [
-        '16-08-33-sepia.md', 
+        '16-08-33-00-sepia.md', 
         '16.8.33. 세피아…(Sepia…)'
       ],
       [
