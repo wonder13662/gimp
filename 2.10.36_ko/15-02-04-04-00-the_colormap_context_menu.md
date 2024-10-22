@@ -55,7 +55,7 @@
 
 [⬅️ 이전: 15.2.4.3.8. 특정 색상의 모든 픽셀 선택하기(Select All Pixels with this Color)](./15-02-04-03-08-select_all_pixels_with_this_color.md)
 
-[⬆️ 위: 15.2.4. 색상표 대화상자(Colormap dialog)](./15-02-04-00-colormap-dialog.md)
+[⬆️ 위: 15.2.4. 색상표 대화상자(Colormap dialog)](./15-02-04-00-colormap_dialog.md)
 
 [⬆️ 위: 15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
 

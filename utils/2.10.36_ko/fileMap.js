@@ -1123,7 +1123,7 @@ module.exports = {
         '15.2.3. 경로 대화상자'
       ],
       [
-        '15-02-04-00-colormap-dialog.md',
+        '15-02-04-00-colormap_dialog.md',
         '15.2.4. 색상표 대화상자(Colormap dialog)',
         '15.2.4. 색상표(Colormap) 대화상자',
       ],
@@ -2180,31 +2180,31 @@ module.exports = {
       ],
       [
         '16-08-36-set-colormap.md', 
-        '16.8.36. Set colormap'
+        '16.8.36. 색상표 설정…(Set Colormap…)'
       ],
       [
-        '16-08-37-alien-map.md', 
-        '16.8.37. Alien map'
+        '16-08-37-00-alien-map.md', 
+        '16.8.37. 에일리언 맵…(Alien Map…)'
       ],
       [
         '16-08-38-color-exchange.md', 
-        '16.8.38. Color exchange'
+        '16.8.38. 색상 교환…(Color Exchange…)'
       ],
       [
         '16-08-39-rotate-colors.md', 
-        '16.8.39. Rotate colors'
+        '16.8.39. 색 전환…(Rotate Colors…)'
       ],
       [
         '16-08-40-gradient-map.md', 
-        '16.8.40. Gradient map'
+        '16.8.40. 그라디언트 맵(Gradient Map)'
       ],
       [
         '16-08-41-palette-map.md', 
-        '16.8.41. Palette map'
+        '16.8.41. 팔레트 맵(Palette Map)'
       ],
       [
         '16-08-42-sample-colorize.md', 
-        '16.8.42. Sample colorize'
+        '16.8.42. 표본 색상화…(Sample Colorize…)'
       ],
       [
         '16-08-43-the-tone-mapping-submenu.md', 

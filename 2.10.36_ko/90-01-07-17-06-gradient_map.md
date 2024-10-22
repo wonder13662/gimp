@@ -20,6 +20,13 @@
 
 [7.10.2. 그라디언트 맵 필터(The Gradient Map Filter) - 영상 90.1.7.17.6.a3](./07-10-02-the_gradient_map_filter.md#90-01-07-17-06-a3)
 
+<a id="90-01-07-17-06-a101"></a>
+
+#### 그림 90.1.7.17.6.a101. `이미지 메뉴 바` → `색` → `지도` → `그라디언트 맵` (Windows)
+<img width="511" height="381" alt="90-01-07-17-06-a101" src="https://github.com/user-attachments/assets/a0bb8141-0763-4b18-8740-f31540f8e405" />
+
+[16.8.40. 그라디언트 맵(Gradient Map) - 그림 90.1.7.17.6.a101](./16-08-40-gradient-map.md#90-01-07-17-06-a101)
+
 ***
 
 ## 다른 페이지로 가기

@@ -1,8 +1,18 @@
 # 90.1.7.17.2. 색상표 설정…(Set Colormap…)
-## 운영체제(OS)와 언어설정 조건에 따른 모습
-#### 그림 90.1.7.17.?.a1. `색` → `지도` → `?` (Windows)
 
-#### 그림 90.1.7.17.?.a2. `색` → `지도` → `?` (Mac)
+<a id="90-01-07-17-02-a1"></a>
+
+#### 그림 90.1.7.17.2.a1. `이미지 메뉴 바` → `색` → `지도` → `색상표 설정…` (Windows)
+<img width="511" height="381" alt="90-01-07-17-02-a1" src="https://github.com/user-attachments/assets/a298618d-da17-4bb6-86a5-aa328d190675" />
+
+[16.8.36. 색상표 설정…(Set Colormap…) - 그림 90.1.7.17.2.a1](./16-08-36-set-colormap.md#90-01-07-17-02-a1)
+
+<a id="90-01-07-17-02-a11"></a>
+
+#### 영상 90.1.7.17.2.a11. `이미지 메뉴 바` → `색` → `지도` → `색상표 설정…` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/a9746c8a-720a-47f7-a9ea-db22d5b5f77a"></video>
+
+[16.8.36. 색상표 설정…(Set Colormap…) - 그림 90.1.7.17.2.a11](./16-08-36-set-colormap.md#90-01-07-17-02-a11)
 
 ***
 

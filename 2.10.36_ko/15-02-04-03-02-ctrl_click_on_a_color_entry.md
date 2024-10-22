@@ -17,7 +17,7 @@ Ctrl(⌘) 키를 누른채로 색상표의 색을 클릭하면 [도구상자](./
 
 [⬆️ 위: 15.2.4.3. 색상표 대화상자 사용하기(Using the Colormap dialog)](./15-02-04-03-00-using_the_colormap_dialog.md)
 
-[⬆️ 위: 15.2.4. 색상표 대화상자(Colormap dialog)](./15-02-04-00-colormap-dialog.md)
+[⬆️ 위: 15.2.4. 색상표 대화상자(Colormap dialog)](./15-02-04-00-colormap_dialog.md)
 
 [⬆️ 위: 15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
 

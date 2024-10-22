@@ -1,6 +1,6 @@
-# 16.8.41. Palette map
+# 16.8.41. 팔레트 맵(Palette Map)
 
-### [Home](./00-home.md)
-### [Parent: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
-### [Prev: 16.8.40. Gradient map](./16-08-40-gradient-map.md)
-### [Next: 16.8.42. Sample colorize](./16-08-42-sample-colorize.md)
+<a id="90-01-07-17-07-a1"></a>
+
+#### [그림 90.1.7.17.7.a1. `이미지 메뉴 바` → `색` → `지도` → `팔레트 맵` (Windows)](./90-01-07-17-07-palette_map.md#90-01-07-17-07-a1)
+<img width="511" height="381" alt="90-01-07-17-07-a1" src="https://github.com/user-attachments/assets/80ff463c-87fe-49a6-be34-0a100110868e" />

@@ -496,19 +496,39 @@
 
 [16.8.35. 색상표 재배치(Rearrange colormap)](./16-08-35-rearrange-colormap.md)
 
-[16.8.36. Set colormap](./16-08-36-set-colormap.md)
+[16.8.36. 색상표 설정…(Set Colormap…)](./16-08-36-set-colormap.md)
 
-[16.8.37. Alien map](./16-08-37-alien-map.md)
+[16.8.37. 에일리언 맵…(Alien Map…)](./16-08-37-00-alien-map.md)
 
-[16.8.38. Color exchange](./16-08-38-color-exchange.md)
+[16.8.37.1. 옵션(Options)](./16-08-37-01-00-options.md)
 
-[16.8.39. Rotate colors](./16-08-39-rotate-colors.md)
+[16.8.37.1.1. 프리셋(Presets)](./16-08-37-01-01-presets.md)
 
-[16.8.40. Gradient map](./16-08-40-gradient-map.md)
+[16.8.37.1.2. 색상 모델(Color Model)](./16-08-37-01-02-color_model.md)
 
-[16.8.41. Palette map](./16-08-41-palette-map.md)
+[16.8.37.1.3. 색상 빈도(Color Frequency)](./16-08-37-01-03-color_frequency.md)
 
-[16.8.42. Sample colorize](./16-08-42-sample-colorize.md)
+[16.8.37.1.4. 색상 이동(Color Shift)](./16-08-37-01-04-color_shift.md)
+
+[16.8.37.1.5. 색상 구성요소 유지(Keep Color Component)](./16-08-37-01-05-keep_color_component.md)
+
+[16.8.37.1.6. 혼합 옵션(Blending Options)](./16-08-37-01-06-blending_options.md)
+
+[16.8.37.1.7. 고급 색상 옵션(Advanced Color Options)](./16-08-37-01-07-advanced_color_options.md)
+
+[16.8.37.1.8. 미리보기(Preview)](./16-08-37-01-08-preview.md)
+
+[16.8.37.1.9. 보기 영역 분할(Split view)](./16-08-37-01-09-split_view.md)
+
+[16.8.38. 색상 교환…(Color Exchange…)](./16-08-38-color-exchange.md)
+
+[16.8.39. 색 전환…(Rotate Colors…)](./16-08-39-rotate-colors.md)
+
+[16.8.40. 그라디언트 맵(Gradient Map)](./16-08-40-gradient-map.md)
+
+[16.8.41. 팔레트 맵(Palette Map)](./16-08-41-palette-map.md)
+
+[16.8.42. 표본 색상화…(Sample Colorize…)](./16-08-42-sample-colorize.md)
 
 [16.8.43. 톤 대응 하위 메뉴(The "Tone Mapping" submenu)](./16-08-43-the-tone-mapping-submenu.md)
 

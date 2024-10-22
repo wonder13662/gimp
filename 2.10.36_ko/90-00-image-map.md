@@ -1639,7 +1639,7 @@
 
 [90.4.209. 색상표 설정하기(Set Colormap)](./90-04-0209-set_colormap.md)
 
-[90.4.210. Alien Map](./90-04-0210-alien_map.md)
+[90.4.210. 에일리언 맵(Alien Map)](./90-04-0210-alien_map.md)
 
 [90.4.211. 색상 교환(Color Exchange)](./90-04-0211-color_exchange.md)
 

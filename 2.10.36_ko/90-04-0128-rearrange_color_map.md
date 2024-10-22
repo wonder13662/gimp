@@ -7,6 +7,8 @@
 
 [15.2.4.4.8. 색상표 재배치(Rearrange Colormap) - 그림 90.4.128.a101](./15-02-04-04-08-rearrange_colormap.md#90-04-128-a101)
 
+[16.8.35. 색상표 재배치(Rearrange colormap) - 그림 90.4.128.a101](./16-08-35-rearrange-colormap.md#90-04-128-a101)
+
 <a id="90-04-128-a102"></a>
 
 #### 그림 90.4.128.a102. `색상표 재배치` 대화상자 (Windows) (영어)
@@ -21,6 +23,13 @@
 
 #### 그림 90.4.128.a104. `색상표 재배치` 대화상자 (Mac) (영어)
 <img width="647" height="217" alt="90-04-128-a104" src="https://github.com/wonder13662/gimp/assets/15767104/a4ecce1e-3df2-4bbe-8d57-4827469ee411" />
+
+<a id="90-04-128-a111"></a>
+
+#### 그림 90.4.128.a111. `색상표 재배치` 대화상자 → `팝업 메뉴` (Windows) (우리말)
+<img width="648" height="223" alt="90-04-128-a111" src="https://github.com/user-attachments/assets/5ef56a61-f0b0-4b69-b949-404322cc0ba6" />
+
+[16.8.35. 색상표 재배치(Rearrange colormap) - 그림 90.4.128.a111](./16-08-35-rearrange-colormap.md#90-04-128-a111)
 
 ***
 

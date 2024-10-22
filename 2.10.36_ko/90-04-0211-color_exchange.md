@@ -26,7 +26,7 @@
 
 [➡️ 다음: 90.4.212. 색 전환(Rotate Colors)](./90-04-0212-rotate_colors.md)
 
-[⬅️ 이전: 90.4.210. Alien Map](./90-04-0210-alien_map.md)
+[⬅️ 이전: 90.4.210. 에일리언 맵(Alien Map)](./90-04-0210-alien_map.md)
 
 [⬆️ 위: 90.4. 대화상자(Dialogs)](./90-04-0000-dialogs.md)
 

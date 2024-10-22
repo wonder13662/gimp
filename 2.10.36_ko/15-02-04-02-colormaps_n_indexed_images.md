@@ -66,7 +66,7 @@ GIMP(김프)에서는 색상표가 가질 수 있는 색의 최대 갯수는 256
 
 [⬅️ 이전: 15.2.4.1. 대화상자 활성화하기(Activate the dialog)](./15-02-04-01-activate_the_dialog.md)
 
-[⬆️ 위: 15.2.4. 색상표 대화상자(Colormap dialog)](./15-02-04-00-colormap-dialog.md)
+[⬆️ 위: 15.2.4. 색상표 대화상자(Colormap dialog)](./15-02-04-00-colormap_dialog.md)
 
 [⬆️ 위: 15.2. 이미지 구조 관련 대화상자(Image structure related dialogs)](./15-02-00-image-structure-related-dialogs.md)
 

@@ -7,7 +7,7 @@ GIMP(김프)는 세가지의 컬러 모드를 사용합니다.
 
 [RGB(A)](./19-glossaryx-color_model_rgb.md), [그레이스케일](./19-glossaryx-color_mode_grayscale.md), [인덱스](./19-glossaryx-color_mode_indexed.md) 입니다.
 
-인덱스 컬러 모드는 [색상표(Colormap)](./15-02-04-00-colormap-dialog.md)을 사용합니다. 
+인덱스 컬러 모드는 [색상표(Colormap)](./15-02-04-00-colormap_dialog.md)을 사용합니다. 
 
 색상표에는 [이미지](./19-glossaryx-image.md)에서 사용하는 모든 색상이 모여있습니다. 
 
@@ -40,14 +40,14 @@ GIMP(김프)는 세가지의 컬러 모드를 사용합니다.
 
 [다른 운영체제와 언어의 `이미지를 색인 색상으로 변환` 대화상자 확인하기](./90-04-0032-convert_image_to_indexed_colors.md#90-04-32-a102)
 
-인덱스 모드로 작업하면 [색상표 대화상자](./15-02-04-00-colormap-dialog.md)에서 색깔을 고를 수 있습니다.
+인덱스 모드로 작업하면 [색상표 대화상자](./15-02-04-00-colormap_dialog.md)에서 색깔을 고를 수 있습니다.
 
 <a id="90-04-06-a1"></a>
 
 #### [그림 90.4.6.a1. 색상표 대화상자](./90-04-0006-colormap.md#90-04-06-a1)
 ![90-04-06-a1](https://github.com/wonder13662/gimp/assets/15767104/e6fff5e0-f875-48d7-9d55-71a8c40ab677)
 
-만약 [색상표 대화상자](./15-02-04-00-colormap-dialog.md)를 찾을 수 없다면, 이미지 메뉴의 `창` → `색상표`를 선택하여 다시 [색상표 대화상자](./15-02-04-00-colormap-dialog.md)를 열 수 있습니다.
+만약 [색상표 대화상자](./15-02-04-00-colormap_dialog.md)를 찾을 수 없다면, 이미지 메뉴의 `창` → `색상표`를 선택하여 다시 [색상표 대화상자](./15-02-04-00-colormap_dialog.md)를 열 수 있습니다.
 
 <a comment="`창` → `색상표` 링크 추가"></a>
 
