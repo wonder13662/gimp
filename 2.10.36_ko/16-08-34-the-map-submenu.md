@@ -19,7 +19,7 @@
 
 [16.8.37. 에일리언 맵…(Alien Map…)](./16-08-37-00-alien-map.md)
 
-[16.8.38. 색상 교환…(Color Exchange…)](./16-08-38-color-exchange.md)
+[16.8.38. 색상 교환…(Color Exchange…)](./16-08-38-00-color-exchange.md)
 
 [16.8.39. 색 전환…(Rotate Colors…)](./16-08-39-rotate-colors.md)
 

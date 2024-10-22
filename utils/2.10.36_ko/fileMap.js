@@ -2187,7 +2187,7 @@ module.exports = {
         '16.8.37. 에일리언 맵…(Alien Map…)'
       ],
       [
-        '16-08-38-color-exchange.md', 
+        '16-08-38-00-color-exchange.md', 
         '16.8.38. 색상 교환…(Color Exchange…)'
       ],
       [

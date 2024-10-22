@@ -520,7 +520,25 @@
 
 [16.8.37.1.9. 보기 영역 분할(Split view)](./16-08-37-01-09-split_view.md)
 
-[16.8.38. 색상 교환…(Color Exchange…)](./16-08-38-color-exchange.md)
+[16.8.38. 색상 교환…(Color Exchange…)](./16-08-38-00-color-exchange.md)
+
+[16.8.38.1. 옵션(Options)](./16-08-38-01-00-options.md)
+
+[16.8.38.1.1. 프리셋(Presets)](./16-08-38-01-01-presets.md)
+
+[16.8.38.1.2. 원본 색상(From Color)](./16-08-38-01-02-from_color.md)
+
+[16.8.38.1.3. 변경 색상(To Color)](./16-08-38-01-03-to_color.md)
+
+[16.8.38.1.4. 색상 임계값(Color Threshold)](./16-08-38-01-04-color_threshold.md)
+
+[16.8.38.1.5. 혼합 옵션(Blending Options)](./16-08-38-01-05-blending_options.md)
+
+[16.8.38.1.6. 고급 색상 옵션(Advanced Color Options)](./16-08-38-01-06-advanced_color_options.md)
+
+[16.8.38.1.7. 미리보기(Preview)](./16-08-38-01-07-preview.md)
+
+[16.8.38.1.8. 보기 영역 분할(Split view)](./16-08-38-01-08-split_view.md)
 
 [16.8.39. 색 전환…(Rotate Colors…)](./16-08-39-rotate-colors.md)
 
