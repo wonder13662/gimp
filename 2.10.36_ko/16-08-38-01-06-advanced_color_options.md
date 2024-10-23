@@ -5,6 +5,8 @@
 #### [그림 90.4.211.a161. `색상 교환` 대화상자 → `고급 색상 옵션` (Windows) (우리말)](./90-04-0211-color_exchange.md#90-04-211-a161)
 <img width="448" height="470" alt="90-04-211-a161" src="https://github.com/user-attachments/assets/372fc050-0871-4825-9139-78e9c3da11e8" />
 
+[16.8.1.1. 색 공통 기능 → 16.8.1.1.6. 고급 색상 옵션](./16-08-01-01-06-advanced_color_options.md)을 참고해주세요.
+
 ***
 
 ## 다른 페이지로 가기

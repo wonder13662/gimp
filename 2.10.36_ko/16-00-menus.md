@@ -1680,7 +1680,25 @@
 
 [16.8.38.1.8. 보기 영역 분할(Split view)](./16-08-38-01-08-split_view.md)
 
-[16.8.39. 색 전환…(Rotate Colors…)](./16-08-39-rotate-colors.md)
+[16.8.39. 색 전환…(Rotate Colors…)](./16-08-39-00-rotate-colors.md)
+
+[16.8.39.1. 옵션(Options)](./16-08-39-01-00-options.md)
+
+[16.8.39.1.1. 프리셋(Presets)](./16-08-39-01-01-presets.md)
+
+[16.8.39.1.2. 범위(Range)](./16-08-39-01-02-range.md)
+
+[16.8.39.1.3. 회색 다루기(Gray Handling)](./16-08-39-01-03-gray_handling.md)
+
+[16.8.39.1.4. 혼합 옵션(Blending Options)](./16-08-39-01-04-blending_options.md)
+
+[16.8.39.1.5. 고급 색상 옵션(Advanced Color Options)](./16-08-39-01-05-advanced_color_options.md)
+
+[16.8.39.1.6. 미리보기(Preview)](./16-08-39-01-06-preview.md)
+
+[16.8.39.1.7. 보기 영역 분할(Split view)](./16-08-39-01-07-split_view.md)
+
+[16.8.39.2. 회색 다루기(Gray Handling)](./16-08-39-02-gray_handling.md)
 
 [16.8.40. 그라디언트 맵(Gradient Map)](./16-08-40-gradient-map.md)
 

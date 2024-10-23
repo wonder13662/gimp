@@ -21,7 +21,7 @@
 
 [16.8.38. 색상 교환…(Color Exchange…)](./16-08-38-00-color-exchange.md)
 
-[16.8.39. 색 전환…(Rotate Colors…)](./16-08-39-rotate-colors.md)
+[16.8.39. 색 전환…(Rotate Colors…)](./16-08-39-00-rotate-colors.md)
 
 [16.8.40. 그라디언트 맵(Gradient Map)](./16-08-40-gradient-map.md)
 

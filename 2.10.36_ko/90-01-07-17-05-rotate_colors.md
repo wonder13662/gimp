@@ -5,7 +5,21 @@
 #### 그림 90.1.7.17.5.a1. `이미지 메뉴 바` → `색` → `지도` → `색 전환…` (Windows)
 <img width="511" height="381" alt="90-01-07-17-05-a1" src="https://github.com/user-attachments/assets/d156e1d3-40d2-46e4-8374-02b2457677af" />
 
-[16.8.39. 색 전환…(Rotate Colors…) - 그림 90.1.7.17.5.a1](./16-08-39-rotate-colors.md#90-01-07-17-05-a1)
+[16.8.39. 색 전환…(Rotate Colors…) - 그림 90.1.7.17.5.a1](./16-08-39-00-rotate-colors.md#90-01-07-17-05-a1)
+
+<a id="90-01-07-17-05-a11"></a>
+
+#### 그림 90.1.7.17.5.a11. `이미지 메뉴 바` → `색` → `지도` → `색 전환…`: 전후 이미지 비교
+<img width="640" height="412" alt="90-01-07-17-05-a11" src="https://github.com/user-attachments/assets/f22b771c-dd90-4abc-a514-bb6ab3c3706e" />
+
+[16.8.39. 색 전환…(Rotate Colors…) - 그림 90.1.7.17.5.a11](./16-08-39-00-rotate-colors.md#90-01-07-17-05-a11)
+
+<a id="90-01-07-17-05-a21"></a>
+
+#### 영상 90.1.7.17.5.a21. `이미지 메뉴 바` → `색` → `지도` → `색 전환…` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/89434a96-578f-4fb4-b7d3-9231585f080a"></video>
+
+[16.8.39. 색 전환…(Rotate Colors…) - 그림 90.1.7.17.5.a21](./16-08-39-00-rotate-colors.md#90-01-07-17-05-a21)
 
 ***
 
