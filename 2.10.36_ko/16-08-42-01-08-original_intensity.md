@@ -11,7 +11,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.8.43. 톤 대응 하위 메뉴(The "Tone Mapping" submenu)](./16-08-43-the-tone-mapping-submenu.md)
+[➡️ 다음: 16.8.43. 톤 매핑 하위 메뉴(The "Tone Mapping" submenu)](./16-08-43-the_tone_mapping_submenu.md)
 
 [⬅️ 이전: 16.8.42.1.7. 강도 유지(Hold Intensity)](./16-08-42-01-07-hold_intensity.md)
 

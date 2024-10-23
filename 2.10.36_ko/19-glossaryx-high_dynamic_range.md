@@ -17,7 +17,6 @@ GIMP(김프)에서 높은 동적 범위(HDR) 데이터로 작업할 때는 [채�
 
 [관련 정보: 16.6.7.2.2. 채널 인코딩 옵션(Channel Encoding Options)](./16-06-07-02-02-channel_encoding_options.md)
 
-Editing high dynamic range data requires that there isn't any clamping code in editing operations and blend modes.
 높은 동적 범위(HDR) 이미지를 수정할 때는 고정되지 않은 블렌드 모드와 명령들을 사용해야 합니다.
 
 실수(부동소수점) 정밀도에서의 고정되지 않은 블렌드 모드와 명령, 그리고 고정된 블렌드 모드는 아래와 같습니다.

@@ -2207,20 +2207,20 @@ module.exports = {
         '16.8.42. 표본 색상화…(Sample Colorize…)'
       ],
       [
-        '16-08-43-the-tone-mapping-submenu.md', 
-        '16.8.43. 톤 대응 하위 메뉴(The "Tone Mapping" submenu)'
+        '16-08-43-the_tone_mapping_submenu.md', 
+        '16.8.43. 톤 매핑 하위 메뉴(The "Tone Mapping" submenu)'
       ],
       [
-        '16-08-44-fattal-et-al-2002.md', 
+        '16-08-44-fattal_et_al_2002.md', 
         '16.8.44. Fattal et al. 2002'
       ],
       [
-        '16-08-45-mantiuk-2006.md', 
-        '16.8.45. Mantiuk 2006'
+        '16-08-45-mantiuk_2006.md', 
+        '16.8.45. 만티크 2006(Mantiuk 2006)'
       ],
       [
-        '16-08-46-reinhard-2005.md', 
-        '16.8.46. Reinhard 2005'
+        '16-08-46-reinhard_2005.md', 
+        '16.8.46. 라인하르트 2005(Reinhard 2005)'
       ],
       [
         '16-08-47-stress.md', 
@@ -2228,7 +2228,7 @@ module.exports = {
       ],
       [
         '16-08-48-retinex.md', 
-        '16.8.48. Retinex'
+        '16.8.48. 레티넥스(Retinex)'
       ],
       [
         '16-08-49-the-info-submenu.md', 
