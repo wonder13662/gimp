@@ -30,7 +30,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.8.42. 표본 색상화…(Sample Colorize…)](./16-08-42-sample-colorize.md)
+[➡️ 다음: 16.8.42. 표본 색상화…(Sample Colorize…)](./16-08-42-00-sample-colorize.md)
 
 [⬅️ 이전: 16.8.40. 그라디언트 맵(Gradient Map)](./16-08-40-gradient-map.md)
 

@@ -1704,7 +1704,25 @@
 
 [16.8.41. 팔레트 맵(Palette Map)](./16-08-41-palette-map.md)
 
-[16.8.42. 표본 색상화…(Sample Colorize…)](./16-08-42-sample-colorize.md)
+[16.8.42. 표본 색상화…(Sample Colorize…)](./16-08-42-00-sample-colorize.md)
+
+[16.8.42.1. 옵션(Options)](./16-08-42-01-00-options.md)
+
+[16.8.42.1.1. 대상과 예제(Destination & Sample)](./16-08-42-01-01-destination_n_sample.md)
+
+[16.8.42.1.2. 선택 영역 보여주기(Show selection)](./16-08-42-01-02-show_selection.md)
+
+[16.8.42.1.3. 색상 보여주기(Show color)](./16-08-42-01-03-show_colors.md)
+
+[16.8.42.1.4. 표본 색상 가져오기(Get Sample Colors)](./16-08-42-01-04-get_sample_colors.md)
+
+[16.8.42.1.5. 출력 레벨(Output Levels)](./16-08-42-01-05-output_levels.md)
+
+[16.8.42.1.6. 입력 레벨(Input Levels)](./16-08-42-01-06-input_levels.md)
+
+[16.8.42.1.7. 강도 유지(Hold Intensity)](./16-08-42-01-07-hold_intensity.md)
+
+[16.8.42.1.8. 원본 강도(Original Intensity)](./16-08-42-01-08-original_intensity.md)
 
 [16.8.43. 톤 대응 하위 메뉴(The "Tone Mapping" submenu)](./16-08-43-the-tone-mapping-submenu.md)
 

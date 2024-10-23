@@ -5,7 +5,14 @@
 #### 그림 90.1.7.17.8.a1. `이미지 메뉴 바` → `색` → `지도` → `표본 색상화…` (Windows)
 <img width="511" height="381" alt="90-01-07-17-08-a1" src="https://github.com/user-attachments/assets/03ee1f9f-2e58-41aa-b521-1ee8f740109b" />
 
-[16.8.42. 표본 색상화…(Sample Colorize…) - 그림 90.1.7.17.8.a1](./16-08-42-sample-colorize.md#90-01-07-17-08-a1)
+[16.8.42. 표본 색상화…(Sample Colorize…) - 그림 90.1.7.17.8.a1](./16-08-42-00-sample-colorize.md#90-01-07-17-08-a1)
+
+<a id="90-01-07-17-08-a11"></a>
+
+#### 영상 90.1.7.17.8.a11. `이미지 메뉴 바` → `색` → `지도` → `표본 색상화…` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/79de4053-19dc-477d-af0d-7131f8620828"></video>
+
+[16.8.42. 표본 색상화…(Sample Colorize…) - 그림 90.1.7.17.8.a11](./16-08-42-00-sample-colorize.md#90-01-07-17-08-a11)
 
 ***
 

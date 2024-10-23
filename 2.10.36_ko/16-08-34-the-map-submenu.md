@@ -27,7 +27,7 @@
 
 [16.8.41. 팔레트 맵(Palette Map)](./16-08-41-palette-map.md)
 
-[16.8.42. 표본 색상화…(Sample Colorize…)](./16-08-42-sample-colorize.md)
+[16.8.42. 표본 색상화…(Sample Colorize…)](./16-08-42-00-sample-colorize.md)
 
 ***
 
