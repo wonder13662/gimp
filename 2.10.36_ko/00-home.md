@@ -4658,7 +4658,27 @@
 
 [16.8.43. 톤 매핑 하위 메뉴(The "Tone Mapping" submenu)](./16-08-43-the_tone_mapping_submenu.md)
 
-[16.8.44. Fattal et al. 2002](./16-08-44-fattal_et_al_2002.md)
+[16.8.44. Fattal et al. 2002](./16-08-44-00-fattal_et_al_2002.md)
+
+[16.8.44.1. 옵션(Options)](./16-08-44-01-00-options.md)
+
+[16.8.44.1.1. 프리셋(Presets)](./16-08-44-01-01-presets.md)
+
+[16.8.44.1.2. 알파(Alpha)](./16-08-44-01-02-alpha.md)
+
+[16.8.44.1.3. 베타(Beta)](./16-08-44-01-03-beta.md)
+
+[16.8.44.1.4. 채도(Saturation)](./16-08-44-01-04-saturation.md)
+
+[16.8.44.1.5. 노이즈(Noise)](./16-08-44-01-05-noise.md)
+
+[16.8.44.1.6. 혼합 옵션(Blending Options)](./16-08-44-01-06-blending_options.md)
+
+[16.8.44.1.7. 고급 색상 옵션(Advanced Color Options)](./16-08-44-01-07-advanced_color_options.md)
+
+[16.8.44.1.8. 미리보기(Preview)](./16-08-44-01-08-preview.md)
+
+[16.8.44.1.9. 보기 영역 분할(Split view)](./16-08-44-01-09-split_view.md)
 
 [16.8.45. 만티크 2006(Mantiuk 2006)](./16-08-45-mantiuk_2006.md)
 
@@ -5971,6 +5991,16 @@
 [90.1.7.17.8. 표본 색상화…(Sample Colorize…)](./90-01-07-17-08-sample_colorize.md)
 
 [90.1.7.18. 톤 대응(Tone Mapping)](./90-01-07-18-00-tone_mapping.md)
+
+[90.1.7.18.1. Fattal et al. 2002](./90-01-07-18-01-fattal_et_al_2002.md)
+
+[90.1.7.18.2. 만티크 2006(Mantiuk 2006)](./90-01-07-18-02-mantiuk_2006.md)
+
+[90.1.7.18.3. 라인하르트 2005(Reinhard 2005)](./90-01-07-18-03-reinhard_2005.md)
+
+[90.1.7.18.4. Stress](./90-01-07-18-04-stress.md)
+
+[90.1.7.18.5. 레티넥스(Retinex)](./90-01-07-18-05-retinex.md)
 
 [90.1.7.19. 정보(Info)](./90-01-07-19-00-info.md)
 
