@@ -2215,7 +2215,7 @@ module.exports = {
         '16.8.44. Fattal et al. 2002'
       ],
       [
-        '16-08-45-mantiuk_2006.md', 
+        '16-08-45-00-mantiuk_2006.md', 
         '16.8.45. 만티크 2006(Mantiuk 2006)'
       ],
       [

@@ -54,3 +54,5 @@ GIMP(김프)에서 높은 동적 범위(HDR) 데이터로 작업할 때는 [채�
 [위키백과 - 하이 다이내믹 레인지](https://ko.wikipedia.org/wiki/%ED%95%98%EC%9D%B4_%EB%8B%A4%EC%9D%B4%EB%82%B4%EB%AF%B9_%EB%A0%88%EC%9D%B8%EC%A7%80)
 
 [Models for image editing: Display-referred and scene-referred: Nine Degrees Below Photography](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html)
+
+[HDR Image Examples: North Wales in HDR](https://www.cl.cam.ac.uk/~rkm38/local_area/local_area.html)

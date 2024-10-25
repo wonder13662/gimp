@@ -608,7 +608,25 @@
 
 [16.8.44.1.9. 보기 영역 분할(Split view)](./16-08-44-01-09-split_view.md)
 
-[16.8.45. 만티크 2006(Mantiuk 2006)](./16-08-45-mantiuk_2006.md)
+[16.8.45. 만티크 2006(Mantiuk 2006)](./16-08-45-00-mantiuk_2006.md)
+
+[16.8.45.1. 옵션(Options)](./16-08-45-01-00-options.md)
+
+[16.8.45.1.1. 프리셋(Presets)](./16-08-45-01-01-presets.md)
+
+[16.8.45.1.2. 대비(Contrast)](./16-08-45-01-02-contrast.md)
+
+[16.8.45.1.3. 채도(Saturation)](./16-08-45-01-03-saturation.md)
+
+[16.8.45.1.4. 세부(Detail)](./16-08-45-01-04-detail.md)
+
+[16.8.45.1.5. 혼합 옵션(Blending Options)](./16-08-45-01-05-blending_options.md)
+
+[16.8.45.1.6. 고급 색상 옵션(Advanced Color Options)](./16-08-45-01-06-advanced_color_options.md)
+
+[16.8.45.1.7. 미리보기(Preview)](./16-08-45-01-07-preview.md)
+
+[16.8.45.1.8. 보기 영역 분할(Split view)](./16-08-45-01-08-split_view.md)
 
 [16.8.46. 라인하르트 2005(Reinhard 2005)](./16-08-46-reinhard_2005.md)
 
