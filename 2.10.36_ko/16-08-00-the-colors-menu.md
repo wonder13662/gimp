@@ -628,7 +628,29 @@
 
 [16.8.45.1.8. 보기 영역 분할(Split view)](./16-08-45-01-08-split_view.md)
 
-[16.8.46. 라인하르트 2005(Reinhard 2005)](./16-08-46-reinhard_2005.md)
+[16.8.46. 라인하르트 2005(Reinhard 2005)](./16-08-46-00-reinhard_2005.md)
+
+[16.8.46.1. 옵션(Options)](./16-08-46-01-00-options.md)
+
+[16.8.46.1.1. 프리셋(Presets)](./16-08-46-01-01-presets.md)
+
+[16.8.46.1.2. 밝기(Brightness)](./16-08-46-01-02-brightness.md)
+
+[16.8.46.1.3. 색채 적응(Chromatic Adaptation)](./16-08-46-01-03-chromatic_adaptation.md)
+
+[16.8.46.1.4. 빛 적응(Light Adaptation)](./16-08-46-01-04-light_adaptation.md)
+
+[16.8.46.1.5. 입력 타입(Input Type)](./16-08-46-01-05-input_type.md)
+
+[16.8.46.1.6. 오리기(Clipping)](./16-08-46-01-06-clipping.md)
+
+[16.8.46.1.7. 혼합 옵션(Blending Options)](./16-08-46-01-07-blending_options.md)
+
+[16.8.46.1.8. 고급 색상 옵션(Advanced Color Options)](./16-08-46-01-08-advanced_color_options.md)
+
+[16.8.46.1.9. 미리보기(Preview)](./16-08-46-01-09-preview.md)
+
+[16.8.46.1.10. 보기 영역 분할(Split view)](./16-08-46-01-10-split_view.md)
 
 [16.8.47. Stress](./16-08-47-stress.md)
 
