@@ -2223,7 +2223,7 @@ module.exports = {
         '16.8.46. 라인하르트 2005(Reinhard 2005)'
       ],
       [
-        '16-08-47-stress.md', 
+        '16-08-47-00-stress.md', 
         '16.8.47. Stress'
       ],
       [

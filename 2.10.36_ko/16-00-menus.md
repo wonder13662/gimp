@@ -1792,7 +1792,31 @@
 
 [16.8.46.1.10. 보기 영역 분할(Split view)](./16-08-46-01-10-split_view.md)
 
-[16.8.47. Stress](./16-08-47-stress.md)
+[16.8.47. Stress](./16-08-47-00-stress.md)
+
+[16.8.47.1. 옵션(Options)](./16-08-47-01-00-options.md)
+
+[16.8.47.1.1. 프리셋(Presets)](./16-08-47-01-01-presets.md)
+
+[16.8.47.1.2. 반경(Radius)](./16-08-47-01-02-radius.md)
+
+[16.8.47.1.3. 표본수(Samples)](./16-08-47-01-03-samples.md)
+
+[16.8.47.1.4. 반복횟수(Iterations)](./16-08-47-01-04-iterations.md)
+
+[16.8.47.1.5. 그림자 강화(Enhance Shadows)](./16-08-47-01-05-enhance_shadows.md)
+
+[16.8.47.1.6. 입력 타입(Input Type)](./16-08-47-01-06-input_type.md)
+
+[16.8.47.1.7. 오리기(Clipping)](./16-08-47-01-07-clipping.md)
+
+[16.8.47.1.8. 혼합 옵션(Blending Options)](./16-08-47-01-08-blending_options.md)
+
+[16.8.47.1.9. 고급 색상 옵션(Advanced Color Options)](./16-08-47-01-09-advanced_color_options.md)
+
+[16.8.47.1.10. 미리보기(Preview)](./16-08-47-01-10-preview.md)
+
+[16.8.47.1.11. 보기 영역 분할(Split view)](./16-08-47-01-11-split_view.md)
 
 [16.8.48. 레티넥스(Retinex)](./16-08-48-retinex.md)
 
