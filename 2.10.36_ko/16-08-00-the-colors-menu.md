@@ -678,7 +678,17 @@
 
 [16.8.47.1.11. 보기 영역 분할(Split view)](./16-08-47-01-11-split_view.md)
 
-[16.8.48. 레티넥스(Retinex)](./16-08-48-retinex.md)
+[16.8.48. 레티넥스(Retinex)](./16-08-48-00-retinex.md)
+
+[16.8.48.1. 옵션(Options)](./16-08-48-01-00-options.md)
+
+[16.8.48.1.1. 레벨(Level)](./16-08-48-01-01-level.md)
+
+[16.8.48.1.2. 크기 조절(Scale)](./16-08-48-01-02-scale.md)
+
+[16.8.48.1.3. 배율 분할(Scale division)](./16-08-48-01-03-scale_division.md)
+
+[16.8.48.1.4. 동적(Dynamic)](./16-08-48-01-04-dynamic.md)
 
 [16.8.49. 정보 하위 메뉴(The "Info" submenu)](./16-08-49-the-info-submenu.md)
 

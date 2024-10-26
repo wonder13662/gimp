@@ -2227,7 +2227,7 @@ module.exports = {
         '16.8.47. Stress'
       ],
       [
-        '16-08-48-retinex.md', 
+        '16-08-48-00-retinex.md', 
         '16.8.48. 레티넥스(Retinex)'
       ],
       [
