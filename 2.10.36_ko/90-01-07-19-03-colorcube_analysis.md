@@ -7,6 +7,13 @@
 
 [16.8.52. 색상 큐브 분석(Colorcube Analysis) - 그림 90.1.7.19.3.a101](./16-08-52-colorcube-analysis.md#90-01-07-19-03-a101)
 
+<a id="90-01-07-19-03-a111"></a>
+
+#### 영상 90.1.7.19.3.a111. `이미지 메뉴 바` → `색` → `정보` → `색상 큐브 분석` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/b80e62f8-5203-41ab-82a6-038a098766a9"></video>
+
+[16.8.52. 색상 큐브 분석(Colorcube Analysis) - 그림 90.1.7.19.3.a111](./16-08-52-colorcube-analysis.md#90-01-07-19-03-a111)
+
 ***
 
 ## 다른 페이지로 가기
