@@ -2236,23 +2236,23 @@ module.exports = {
       ],
       [
         '16-08-50-histogram.md', 
-        '16.8.50. Histogram'
+        '16.8.50. 히스토그램(Histogram)'
       ],
       [
         '16-08-51-border-average.md', 
-        '16.8.51. Border average'
+        '16.8.51. 테두리 평균(Border Average)'
       ],
       [
         '16-08-52-colorcube-analysis.md', 
-        '16.8.52. Colorcube analysis'
+        '16.8.52. 색상 큐브 분석(Colorcube Analysis)'
       ],
       [
         '16-08-53-export-histogram.md', 
-        '16.8.53. Export histogram'
+        '16.8.53. 히스토그램 내보내기(Export Histogram)'
       ],
       [
         '16-08-54-smooth-palette.md', 
-        '16.8.54. Smooth palette'
+        '16.8.54. 부드러운 팔레트(Smooth Palette)'
       ],
       [
         '16-08-55-threshold.md', 
