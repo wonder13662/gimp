@@ -2239,7 +2239,7 @@ module.exports = {
         '16.8.50. 히스토그램(Histogram)'
       ],
       [
-        '16-08-51-border-average.md', 
+        '16-08-51-00-border-average.md', 
         '16.8.51. 테두리 평균(Border Average)'
       ],
       [

@@ -11,7 +11,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.8.51. 테두리 평균(Border Average)](./16-08-51-border-average.md)
+[➡️ 다음: 16.8.51. 테두리 평균(Border Average)](./16-08-51-00-border-average.md)
 
 [⬅️ 이전: 16.8.49. 정보 하위 메뉴(The "Info" submenu)](./16-08-49-the-info-submenu.md)
 

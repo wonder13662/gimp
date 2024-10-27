@@ -694,7 +694,15 @@
 
 [16.8.50. 히스토그램(Histogram)](./16-08-50-histogram.md)
 
-[16.8.51. 테두리 평균(Border Average)](./16-08-51-border-average.md)
+[16.8.51. 테두리 평균(Border Average)](./16-08-51-00-border-average.md)
+
+[16.8.51.1. 옵션(Options)](./16-08-51-01-00-options.md)
+
+[16.8.51.1.1. 테두리 크기(Border Size)](./16-08-51-01-01-border_size.md)
+
+[16.8.51.2. 색상수(Number of Colors)](./16-08-51-01-02-number_of_colors.md)
+
+[16.8.51.2. 예제(Examples)](./16-08-51-02-example.md)
 
 [16.8.52. 색상 큐브 분석(Colorcube Analysis)](./16-08-52-colorcube-analysis.md)
 
