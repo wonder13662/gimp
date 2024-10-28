@@ -720,7 +720,25 @@
 
 [16.8.54. 부드러운 팔레트(Smooth Palette)](./16-08-54-smooth-palette.md)
 
-[16.8.55. Threshold](./16-08-55-threshold.md)
+[16.8.55. 임계(Threshold)](./16-08-55-00-threshold.md)
+
+[16.8.55.1. 옵션(Options)](./16-08-55-01-00-options.md)
+
+[16.8.55.1.1. 프리셋(Presets)](./16-08-55-01-01-presets.md)
+
+[16.8.55.1.2. 채널(Channel)](./16-08-55-01-02-channel.md)
+
+[16.8.55.1.3. 히스토그램](./16-08-55-01-03-histograms.md)
+
+[16.8.55.1.4. 임계 범위(Threshold Range)](./16-08-55-01-04-threshold_range.md)
+
+[16.8.55.1.5. 혼합 옵션(Blending Options)](./16-08-55-01-05-blending_options.md)
+
+[16.8.55.1.6. 고급 색상 옵션(Advanced Color Options)](./16-08-55-01-06-advanced_color_options.md)
+
+[16.8.55.1.7. 미리보기(Preview)](./16-08-55-01-07-preview.md)
+
+[16.8.55.1.8. 보기 영역 분할(Split view)](./16-08-55-01-08-split_view.md)
 
 [16.8.56. 색상화(Colorize)](./16-08-56-colorize.md)
 

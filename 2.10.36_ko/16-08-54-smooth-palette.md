@@ -57,7 +57,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.8.55. Threshold](./16-08-55-threshold.md)
+[➡️ 다음: 16.8.55. 임계(Threshold)](./16-08-55-00-threshold.md)
 
 [⬅️ 이전: 16.8.53.1.4. 출력 형식(Output Format)](./16-08-53-01-04-output_format.md)
 

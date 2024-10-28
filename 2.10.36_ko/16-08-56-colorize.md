@@ -2,5 +2,5 @@
 
 ### [Home](./00-home.md)
 ### [Parent: 16.8. 색 메뉴(The colors menu)](./16-08-00-the-colors-menu.md)
-### [Prev: 16.8.55. Threshold](./16-08-55-threshold.md)
+### [Prev: 16.8.55. 임계(Threshold)](./16-08-55-00-threshold.md)
 ### [Next: 16.8.57. Posterize](./16-08-57-posterize.md)

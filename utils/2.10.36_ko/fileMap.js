@@ -2255,8 +2255,8 @@ module.exports = {
         '16.8.54. 부드러운 팔레트(Smooth Palette)'
       ],
       [
-        '16-08-55-threshold.md', 
-        '16.8.55. Threshold'
+        '16-08-55-00-threshold.md', 
+        '16.8.55. 임계(Threshold)'
       ],
       [
         '16-08-56-colorize.md', 
