@@ -8,7 +8,7 @@
 
 [➡️ 다음: 90.1.7.24. Dither(Dither)](./90-01-07-24-dither.md)
 
-[⬅️ 이전: 90.1.7.22. Posterize(Posterize)](./90-01-07-22-posterize.md)
+[⬅️ 이전: 90.1.7.22. Posterize](./90-01-07-22-posterize.md)
 
 [⬆️ 위: 90.1.7. 색(Colors)](./90-01-07-00-colors.md)
 

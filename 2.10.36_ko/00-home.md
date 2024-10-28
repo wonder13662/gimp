@@ -4834,7 +4834,21 @@
 
 [16.8.56.1.9. 보기 영역 분할(Split view)](./16-08-56-01-09-split_view.md)
 
-[16.8.57. Posterize](./16-08-57-posterize.md)
+[16.8.57. Posterize](./16-08-57-00-posterize.md)
+
+[16.8.57.1. 옵션(Options)](./16-08-57-01-00-options.md)
+
+[16.8.57.1.1. 프리셋(Presets)](./16-08-57-01-01-presets.md)
+
+[16.8.57.1.2. 포스터화 단계(Posterize Levels)](./16-08-57-01-02-posterize_levels.md)
+
+[16.8.57.1.3. 혼합 옵션(Blending Options)](./16-08-57-01-03-blending_options.md)
+
+[16.8.57.1.4. 고급 색상 옵션(Advanced Color Options)](./16-08-57-01-04-advanced_color_options.md)
+
+[16.8.57.1.5. 미리보기(Preview)](./16-08-57-01-05-preview.md)
+
+[16.8.57.1.6. 보기 영역 분할(Split view)](./16-08-57-01-06-split_view.md)
 
 [16.8.58. 색상을 알파로(Color to alpha)](./16-08-58-color-to-alpha.md)
 
@@ -6156,7 +6170,7 @@
 
 [90.1.7.21. 색상화(Colorize)](./90-01-07-21-colorize.md)
 
-[90.1.7.22. Posterize(Posterize)](./90-01-07-22-posterize.md)
+[90.1.7.22. Posterize](./90-01-07-22-posterize.md)
 
 [90.1.7.23. 색상을 알파로(Color to Alpha)](./90-01-07-23-color_to_alpha.md)
 

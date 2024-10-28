@@ -494,7 +494,7 @@
 
 [90.1.7.21. 색상화(Colorize)](./90-01-07-21-colorize.md)
 
-[90.1.7.22. Posterize(Posterize)](./90-01-07-22-posterize.md)
+[90.1.7.22. Posterize](./90-01-07-22-posterize.md)
 
 [90.1.7.23. 색상을 알파로(Color to Alpha)](./90-01-07-23-color_to_alpha.md)
 
