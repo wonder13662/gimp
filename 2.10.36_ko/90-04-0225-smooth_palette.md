@@ -5,6 +5,8 @@
 #### 그림 90.4.225.a101. `부드러운 팔레트` 대화상자 (Windows) (우리말)
 <img width="293" height="186" alt="90-04-225-a101" src="https://github.com/user-attachments/assets/c9f226b7-8f9f-419e-a7ec-daf106e77fcd" />
 
+[16.8.54. 부드러운 팔레트(Smooth Palette) - 그림 90.4.225.a101](./16-08-54-smooth-palette.md#90-04-225-a101)
+
 <a id="90-04-225-a102"></a>
 
 #### 그림 90.4.225.a102. `부드러운 팔레트` 대화상자 (Windows) (영어)

@@ -7,6 +7,13 @@
 
 [16.8.54. 부드러운 팔레트(Smooth Palette) - 그림 90.1.7.19.5.a101](./16-08-54-smooth-palette.md#90-01-07-19-05-a101)
 
+<a id="90-01-07-19-05-a111"></a>
+
+#### 영상 90.1.7.19.5.a111. `이미지 메뉴 바` → `색` → `정보` → `부드러운 팔레트` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/69836d27-9d50-450c-b56a-929b7a496fd8"></video>
+
+[16.8.54. 부드러운 팔레트(Smooth Palette) - 그림 90.1.7.19.5.a111](./16-08-54-smooth-palette.md#90-01-07-19-05-a111)
+
 ***
 
 ## 다른 페이지로 가기
