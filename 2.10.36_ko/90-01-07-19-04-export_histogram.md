@@ -5,7 +5,14 @@
 #### 그림 90.1.7.19.4.a101. `이미지 메뉴 바` → `색` → `정보` → `히스토그램 내보내기` (Windows)
 <img width="516" height="266" alt="90-01-07-19-04-a101" src="https://github.com/user-attachments/assets/cbad7c1c-56d2-40b1-bad4-d1592dabec02" />
 
-[16.8.53. 히스토그램 내보내기(Export Histogram) - 그림 90.1.7.19.4.a101](./16-08-53-export-histogram.md#90-01-07-19-04-a101)
+[16.8.53. 히스토그램 내보내기(Export Histogram) - 그림 90.1.7.19.4.a101](./16-08-53-00-export-histogram.md#90-01-07-19-04-a101)
+
+<a id="90-01-07-19-04-a111"></a>
+
+#### 영상 90.1.7.19.4.a111. `이미지 메뉴 바` → `색` → `정보` → `히스토그램 내보내기` (Windows) (우리말)
+<video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/60862b68-8fd4-479a-8ac2-8b17bc92d048"></video>
+
+[16.8.53. 히스토그램 내보내기(Export Histogram) - 그림 90.1.7.19.4.a111](./16-08-53-00-export-histogram.md#90-01-07-19-04-a111)
 
 ***
 

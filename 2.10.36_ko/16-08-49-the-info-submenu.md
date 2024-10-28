@@ -17,7 +17,7 @@
 
 [16.8.52. 색상 큐브 분석(Colorcube Analysis)](./16-08-52-colorcube-analysis.md)
 
-[16.8.53. 히스토그램 내보내기(Export Histogram)](./16-08-53-export-histogram.md)
+[16.8.53. 히스토그램 내보내기(Export Histogram)](./16-08-53-00-export-histogram.md)
 
 [16.8.54. 부드러운 팔레트(Smooth Palette)](./16-08-54-smooth-palette.md)
 

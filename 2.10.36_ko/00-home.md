@@ -4778,7 +4778,17 @@
 
 [16.8.52. 색상 큐브 분석(Colorcube Analysis)](./16-08-52-colorcube-analysis.md)
 
-[16.8.53. 히스토그램 내보내기(Export Histogram)](./16-08-53-export-histogram.md)
+[16.8.53. 히스토그램 내보내기(Export Histogram)](./16-08-53-00-export-histogram.md)
+
+[16.8.53.1. 옵션(Options)](./16-08-53-01-00-options.md)
+
+[16.8.53.1.1. 히스토그램 파일(Histogram File)](./16-08-53-01-01-histogram_file.md)
+
+[16.8.53.1.2. 양동이 크기(Bucket Size)](./16-08-53-01-02-bucket_size.md)
+
+[16.8.53.1.3. 표본 평균(Sample Average)](./16-08-53-01-03-sample_average.md)
+
+[16.8.53.1.4. 출력 형식(Output Format)](./16-08-53-01-04-output_format.md)
 
 [16.8.54. 부드러운 팔레트(Smooth Palette)](./16-08-54-smooth-palette.md)
 

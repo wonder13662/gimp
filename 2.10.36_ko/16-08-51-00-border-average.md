@@ -8,12 +8,13 @@
 <a id="16-08-51-s1"></a>
 
 ## 1. 기능 설명
-
 `테두리 평균(Border Average)` 플러그 인은 [활성화 레이어](./19-glossaryx-active_layer.md) 또는 [선택 영역](./19-glossaryx-selection.md)의 경계에서 가장 자주 사용된 색상을 찾아줍니다.
 
 또한 비슷한 색상들을 모아서 가장 주요한 색으로 만들어 줍니다.
 
 이렇게 찾은 색상은 [도구상자](./19-glossaryx-toolbox.md)의 [전경색](./19-glossaryx-foreground_color.md)이 됩니다.
+
+<a comment="TODO RGB(0, 0, 0)에서 RGB(64, 0, 0)의 10개의 색타일을 가진 이미지를 가지고 테두리 평균을 구하면, 회색이 결과값으로 나옴. 버그 리포트가 필요함."></a>
 
 <a id="16-08-51-s2"></a>
 

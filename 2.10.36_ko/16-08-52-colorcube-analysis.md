@@ -29,7 +29,7 @@
 
 ## 다른 페이지로 가기
 
-[➡️ 다음: 16.8.53. 히스토그램 내보내기(Export Histogram)](./16-08-53-export-histogram.md)
+[➡️ 다음: 16.8.53. 히스토그램 내보내기(Export Histogram)](./16-08-53-00-export-histogram.md)
 
 [⬅️ 이전: 16.8.51.2. 예제(Examples)](./16-08-51-02-example.md)
 
