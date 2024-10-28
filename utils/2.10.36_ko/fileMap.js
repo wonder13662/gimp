@@ -2259,7 +2259,7 @@ module.exports = {
         '16.8.55. 임계(Threshold)'
       ],
       [
-        '16-08-56-colorize.md', 
+        '16-08-56-00-colorize.md', 
         '16.8.56. 색상화(Colorize)'
       ],
       [

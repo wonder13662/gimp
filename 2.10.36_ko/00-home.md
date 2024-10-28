@@ -4812,7 +4812,27 @@
 
 [16.8.55.1.8. 보기 영역 분할(Split view)](./16-08-55-01-08-split_view.md)
 
-[16.8.56. 색상화(Colorize)](./16-08-56-colorize.md)
+[16.8.56. 색상화(Colorize)](./16-08-56-00-colorize.md)
+
+[16.8.56.1. 옵션(Options)](./16-08-56-01-00-options.md)
+
+[16.8.56.1.1. 프리셋(Presets)](./16-08-56-01-01-presets.md)
+
+[16.8.56.1.2. 색상(Hue)](./16-08-56-01-02-hue.md)
+
+[16.8.56.1.3. 채도(Saturation)](./16-08-56-01-03-saturation.md)
+
+[16.8.56.1.4. 밝기(Lightness)](./16-08-56-01-04-lightness.md)
+
+[16.8.56.1.5. 색상(Color)](./16-08-56-01-05-color.md)
+
+[16.8.56.1.6. 혼합 옵션(Blending Options)](./16-08-56-01-06-blending_options.md)
+
+[16.8.56.1.7. 고급 색상 옵션(Advanced Color Options)](./16-08-56-01-07-advanced_color_options.md)
+
+[16.8.56.1.8. 미리보기(Preview)](./16-08-56-01-08-preview.md)
+
+[16.8.56.1.9. 보기 영역 분할(Split view)](./16-08-56-01-09-split_view.md)
 
 [16.8.57. Posterize](./16-08-57-posterize.md)
 
