@@ -19,7 +19,9 @@
 ## 1. 정의
 
 ## 2. 비슷한 말
-색상원(Color Circle)
+- 색상원(Color Circle)
+
+- 색상환(Color Circle)
 
 ***
 
