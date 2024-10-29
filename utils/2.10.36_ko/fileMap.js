@@ -2267,7 +2267,7 @@ module.exports = {
         '16.8.57. Posterize'
       ],
       [
-        '16-08-58-color-to-alpha.md', 
+        '16-08-58-00-color-to-alpha.md', 
         '16.8.58. 색상을 알파로(Color to alpha)'
       ],
       [

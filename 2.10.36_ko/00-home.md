@@ -4850,7 +4850,25 @@
 
 [16.8.57.1.6. 보기 영역 분할(Split view)](./16-08-57-01-06-split_view.md)
 
-[16.8.58. 색상을 알파로(Color to alpha)](./16-08-58-color-to-alpha.md)
+[16.8.58. 색상을 알파로(Color to alpha)](./16-08-58-00-color-to-alpha.md)
+
+[16.8.58.1. 옵션(Options)](./16-08-58-01-00-options.md)
+
+[16.8.58.1.1. 프리셋(Presets)](./16-08-58-01-01-presets.md)
+
+[16.8.58.1.2. 색상(Color)](./16-08-58-01-02-color.md)
+
+[16.8.58.1.3. 임계값들(Thresholds)](./16-08-58-01-03-thresholds.md)
+
+[16.8.58.1.4. 혼합 옵션(Blending Options)](./16-08-58-01-04-blending_options.md)
+
+[16.8.58.1.5. 고급 색상 옵션(Advanced Color Options)](./16-08-58-01-05-advanced_color_options.md)
+
+[16.8.58.1.6. 미리보기(Preview)](./16-08-58-01-06-preview.md)
+
+[16.8.58.1.7. 보기 영역 분할(Split view)](./16-08-58-01-07-split_view.md)
+
+[16.8.58.2. 예시(Example)](./16-08-58-02-example.md)
 
 [16.8.59. 디더링(Dither)](./16-08-59-dither.md)
 
