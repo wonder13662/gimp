@@ -29,7 +29,7 @@
 
 <a id="90-04-76-a142"></a>
 
-#### 영상 90.4.76.a142. `색상-채도(Saturation)` 대화상자 → `선택한 색상 변경` → `색상(Hue)`: 값이 증가하여 색상환이 반시계방향으로 바뀜 (Windows) (우리말)
+#### [영상 90.4.76.a142. `색상-채도(Saturation)` 대화상자 → `선택한 색상 변경` → `색상(Hue)`: 값이 증가하여 색상환이 반시계방향으로 바뀜 (Windows) (우리말)](./90-04-0076-hue_saturation.md#90-04-76-a142)
 <video controls="controls" width="640" height="360" src="https://github.com/user-attachments/assets/e58aee78-3079-451f-915a-5bc72aa5f416"></video>
 
 <a id="90-04-131-a101-02-04-01-01"></a>
