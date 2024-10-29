@@ -4920,7 +4920,7 @@
 
 [16.8.60.1.11. 보기 영역 분할(Split view)](./16-08-60-01-11-split_view.md)
 
-[16.8.61. Hot](./16-08-61-hot.md)
+[16.8.61. 뜨거움(Hot)](./16-08-61-hot.md)
 
 [16.9. The "Tools" menu](./16-09-00-the-tools-menu.md)
 

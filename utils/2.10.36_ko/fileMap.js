@@ -2280,7 +2280,7 @@ module.exports = {
       ],
       [
         '16-08-61-hot.md', 
-        '16.8.61. Hot'
+        '16.8.61. 뜨거움(Hot)'
       ],
       [
         '16-09-00-the-tools-menu.md', 
