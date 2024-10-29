@@ -4894,7 +4894,31 @@
 
 [16.8.59.1.10. 보기 영역 분할(Split view)](./16-08-59-01-10-split_view.md)
 
-[16.8.60. RGB clip](./16-08-60-rgb-clip.md)
+[16.8.60. RGB 클립(RGB Clip)](./16-08-60-00-rgb-clip.md)
+
+[16.8.60.1. 옵션(Options)](./16-08-60-01-00-options.md)
+
+[16.8.60.1.1. 프리셋(Presets)](./16-08-60-01-01-presets.md)
+
+[16.8.60.1.2. 낮은 픽셀 값을 잘라냅니다(Clip low pixel values)](./16-08-60-01-02-clip_low_pixel_values.md)
+
+[16.8.60.1.3. 낮은 값 제한(Low limit)](./16-08-60-01-03-low_limit.md)
+
+[16.8.60.1.4. 높은 픽셀 값을 잘라냅니다(Clip high pixel values)](./16-08-60-01-04-clip_high_pixel_values.md)
+
+[16.8.60.1.5. 높은 값 제한(High limit)](./16-08-60-01-05-high_limit.md)
+
+[16.8.60.1.6. 입력 타입(Input Type)](./16-08-60-01-06-input_type.md)
+
+[16.8.60.1.7. 오리기(Clipping)](./16-08-60-01-07-clipping.md)
+
+[16.8.60.1.8. 혼합 옵션(Blending Options)](./16-08-60-01-08-blending_options.md)
+
+[16.8.60.1.9. 고급 색상 옵션(Advanced Color Options)](./16-08-60-01-09-advanced_color_options.md)
+
+[16.8.60.1.10. 미리보기(Preview)](./16-08-60-01-10-preview.md)
+
+[16.8.60.1.11. 보기 영역 분할(Split view)](./16-08-60-01-11-split_view.md)
 
 [16.8.61. Hot](./16-08-61-hot.md)
 

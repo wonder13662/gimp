@@ -1962,7 +1962,31 @@
 
 [16.8.59.1.10. 보기 영역 분할(Split view)](./16-08-59-01-10-split_view.md)
 
-[16.8.60. RGB clip](./16-08-60-rgb-clip.md)
+[16.8.60. RGB 클립(RGB Clip)](./16-08-60-00-rgb-clip.md)
+
+[16.8.60.1. 옵션(Options)](./16-08-60-01-00-options.md)
+
+[16.8.60.1.1. 프리셋(Presets)](./16-08-60-01-01-presets.md)
+
+[16.8.60.1.2. 낮은 픽셀 값을 잘라냅니다(Clip low pixel values)](./16-08-60-01-02-clip_low_pixel_values.md)
+
+[16.8.60.1.3. 낮은 값 제한(Low limit)](./16-08-60-01-03-low_limit.md)
+
+[16.8.60.1.4. 높은 픽셀 값을 잘라냅니다(Clip high pixel values)](./16-08-60-01-04-clip_high_pixel_values.md)
+
+[16.8.60.1.5. 높은 값 제한(High limit)](./16-08-60-01-05-high_limit.md)
+
+[16.8.60.1.6. 입력 타입(Input Type)](./16-08-60-01-06-input_type.md)
+
+[16.8.60.1.7. 오리기(Clipping)](./16-08-60-01-07-clipping.md)
+
+[16.8.60.1.8. 혼합 옵션(Blending Options)](./16-08-60-01-08-blending_options.md)
+
+[16.8.60.1.9. 고급 색상 옵션(Advanced Color Options)](./16-08-60-01-09-advanced_color_options.md)
+
+[16.8.60.1.10. 미리보기(Preview)](./16-08-60-01-10-preview.md)
+
+[16.8.60.1.11. 보기 영역 분할(Split view)](./16-08-60-01-11-split_view.md)
 
 [16.8.61. Hot](./16-08-61-hot.md)
 
@@ -1977,30 +2001,6 @@
 [16.10.2. Repeat last](./16-10-02-repeat-last.md)
 
 [16.10.3. Re show last](./16-10-03-re-show-last.md)
-
-[16.10.4. Reset all filters](./16-10-04-reset-all-filters.md)
-
-[16.10.5. The "Python-Fu" submenu](./16-10-05-the-python-fu-submenu.md)
-
-[16.10.6. The "Script-Fu" submenu](./16-10-06-00-the-script-fu-submenu.md)
-
-[16.10.6.1. 하위 메뉴 활성화하기(Activating the submenu)](./16-10-06-01-activating_the_submenu.md)
-
-[16.10.6.2. 스크립트 새로고침(Refresh Scripts)](./16-10-06-02-refresh_scripts.md)
-
-[16.10.6.3. Script-Fu 콘솔(Script-Fu Console)](./16-10-06-03-script_fu_console.md)
-
-[16.10.6.4. 서버 시작하기(Start Server)](./16-10-06-04-start_server.md)
-
-[16.11. "Windows" menu](./16-11-windows-menu.md)
-
-[16.12. The "Help" menu](./16-12-00-the-help-menu.md)
-
-[16.12.1. Introduction to the "Help" menu](./16-12-01-introduction-to-the-help-menu.md)
-
-[16.12.2. Help](./16-12-02-help.md)
-
-[16.12.3. Context help](./16-12-03-context-help.md)
 
 ***
 

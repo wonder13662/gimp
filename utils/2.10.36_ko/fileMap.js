@@ -2275,8 +2275,8 @@ module.exports = {
         '16.8.59. 디더링(Dither)'
       ],
       [
-        '16-08-60-rgb-clip.md', 
-        '16.8.60. RGB clip'
+        '16-08-60-00-rgb-clip.md', 
+        '16.8.60. RGB 클립(RGB Clip)'
       ],
       [
         '16-08-61-hot.md', 
