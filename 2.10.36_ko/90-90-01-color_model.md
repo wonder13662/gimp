@@ -37,7 +37,7 @@
 
 [16.8.27.1.1. 색상 모델(Color Model) - 그림 90.90.1.a201](./16-08-27-01-01-color_model.md#90-90-01-a201)
 
-[19. 용어집 - HSV 색상환(HSV Color Wheel) - ](./19-glossaryx-hsv_color_wheel.md)
+[19. 용어집 - HSV 색상환(HSV Color Wheel)](./19-glossaryx-hsv_color_wheel.md)
 
 ***
 
