@@ -10,7 +10,7 @@
 #### [그림 90.4.199.a132. `채도` 대화상자 → `보간법 색 공간`: 드롭다운 목록 (Windows) (우리말)](./90-04-0199-saturation.md#90-04-199-a132)
 <img width="92" height="77" alt="90-04-199-a132" src="https://github.com/user-attachments/assets/7f794daa-f5a5-4041-b096-ecedb92c4b98" />
 
-`보간법 색 공간(Interpolation Color Space)`에서 채도를 계산하는 색 공간을 설정할 수 있습니다.
+`보간법 색 공간(Interpolation Color Space)`에서 [채도](./19-glossaryx-saturation.md)를 계산하는 [색 공간](./19-glossaryx-color_space.md)을 설정할 수 있습니다.
 
 드롭다운 목록 중의 `Native`는 이미지 자체의 색 공간을 가리키며 기본값입니다.
 
