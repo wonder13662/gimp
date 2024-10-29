@@ -11,7 +11,7 @@ GIMP(김프)는 세가지의 컬러 모드를 사용합니다.
 
 색상표에는 [이미지](./19-glossaryx-image.md)에서 사용하는 모든 색상이 모여있습니다. 
 
-하지만 [색상 추출(color picker)](./14-05-03-00-color_picker.md) 도구로 RGB 색상을 선택할 수 있습니다. 
+하지만 [색상 추출(color picker)](./14-05-03-00-color_picker.md) 도구로 [RGB](./19-glossaryx-color_mode_rgb.md) 색상을 선택할 수 있습니다. 
 
 다시 말해, 인덱스의 색상표와는 다른 색으로도 칠하려고 한다면, 잘못된 색을 칠하게 될 수 있습니다.
 

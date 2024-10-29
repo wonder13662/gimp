@@ -1,5 +1,7 @@
 # 7.8.2.1. 1차원 이미지 파이프(One diemnsion image pipe)
-선택 모드를 알아보기 위해 1차원 배열부터 시작해보겠습니다. 아래와 같은 모양을 상상해보겠습니다.
+선택 모드를 알아보기 위해 1차원 배열부터 시작해보겠습니다. 
+
+아래와 같은 모양을 상상해보겠습니다.
 
 <a id="90-99-a147"></a>
 
@@ -7,7 +9,9 @@
 ![90-99-a147](https://github.com/wonder13662/gimp/assets/15767104/75d078d4-d4bb-4106-adb1-15df4a1fd485)
 
 ## 1. 새 이미지 만들기
-너비 30 픽셀, 높이 30 픽셀의 새로운 이미지를 엽니다. `색 공간(Color space)`은 `RGB` 색상으로 맞추고, `채우기(Fill with)`는 `투명(Transparency)`로 설정합니다.
+너비 30 픽셀, 높이 30 픽셀의 새로운 이미지를 엽니다. 
+
+`색 공간(Color space)`은 [RGB](./19-glossaryx-color_mode_rgb.md) 색상으로 맞추고, `채우기(Fill with)`는 `투명(Transparency)`로 설정합니다.
 
 <a id="90-04-37-a125"></a>
 
@@ -15,7 +19,13 @@
 ![90-04-37-a125](https://github.com/wonder13662/gimp/assets/15767104/1af96891-f5e0-4a4e-8503-62c64e760165)
 
 ## 2. 레이어 만들기
-`텍스트` 도구로 4개의 레이어에 각각 "1", "2", "3", "4"을 만듭니다. 기본적으로 추가된 `배경(background)` 레이어를 삭제합니다. 아래 이미지의 레이어 순서에 주의하세요. 레이어 순서가 붓을 칠할때 그려질 순서가 됩니다.
+`텍스트` 도구로 4개의 레이어에 각각 "1", "2", "3", "4"을 만듭니다. 
+
+기본적으로 추가된 `배경(background)` 레이어를 삭제합니다. 
+
+아래 이미지의 레이어 순서에 주의하세요. 
+
+레이어 순서가 붓을 칠할때 그려질 순서가 됩니다.
 
 #### 그림 7.8.2.1.a101. 4개의 레이어 만들기
 ![07-08-02-01-one_dimension-02-create_layers_with_number(asc)](https://github.com/wonder13662/gimp/assets/15767104/a3d6b6a8-9506-4cbd-8746-1bf615c97dc8)
@@ -23,7 +33,11 @@
 ## 3. `.gih` 포맷으로 내보내기 설정
 `.xcf`으로 저장합니다. 그 다음에 `이미지 내보내기(Export As…)`로 `.gih` 포맷으로 내보냅니다.
 
-`이미지 내보내기(Export As…)` 대화상자에서 이미지가 저장될 위치를 선택합니다. `내보내기(Export)` 버튼을 클릭합니다. `Export Image as 붓 파이프(Export image as brush pipe)` 대화상자가 열립니다. 각 항목에 아래처럼 입력합니다.
+`이미지 내보내기(Export As…)` 대화상자에서 이미지가 저장될 위치를 선택합니다. 
+
+`내보내기(Export)` 버튼을 클릭합니다. 
+
+`Export Image as 붓 파이프(Export image as brush pipe)` 대화상자가 열립니다. 각 항목에 아래처럼 입력합니다.
 
 |항목|값|
 |---|---|
@@ -38,7 +52,9 @@
 ![07-08-02-01-one_dimension-02-export_gih_dialog](https://github.com/wonder13662/gimp/assets/15767104/621794bc-d27f-4b38-b7b4-2a3f86c84729)
 
 ## 4. `.gih` 포맷으로 내보낼 위치 정하기
-`.gih` 파일은 GIMP(김프)의 붓 폴더에 저장해야 합니다. `기본 설정` → `폴더` → `붓`의 폴더 위치를 확인하여서 `.gih` 파일을 그곳에 저장합니다. 
+`.gih` 파일은 GIMP(김프)의 붓 폴더에 저장해야 합니다. 
+
+[`기본 설정` → `폴더` → `붓`](./12-01-25-data-folders.md)의 폴더 위치를 확인하여서 `.gih` 파일을 그곳에 저장합니다. 
 
 <a id="90-02-09-01-a111"></a>
 
@@ -46,13 +62,17 @@
 ![90-02-09-01-a111](https://github.com/wonder13662/gimp/assets/15767104/a9032345-5c9e-4bf3-b184-34a6de4bc5b9)
 
 ## 5. `붓 대화상자` 새로 고침
-`붓 대화상자`를 열고, `새로 고침`버튼을 누릅니다. `붓 대화상자`에 새로운 붓이 나타나는 것을 확인할 수 있습니다. 
+`붓 대화상자`를 열고, `새로 고침`버튼을 누릅니다. 
+
+`붓 대화상자`에 새로운 붓이 나타나는 것을 확인할 수 있습니다. 
 
 #### 영상 7.8.2.1.a121. `붓 대화상자` 새로 고침
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/2587a50c-5607-440d-9318-022d0abb0001"></video>
 
 ## 6. 새로운 붓(`Selection`: "Incremental")으로 칠하기
-새로운 붓을 선택하고 연필 도구를 선택하여 이미지에 칠을 해봅시다. 1,2,3,4의 숫자가 차례대로 찍히는 것을 확인할 수 있습니다.
+새로운 붓을 선택하고 연필 도구를 선택하여 이미지에 칠을 해봅시다. 
+
+1,2,3,4의 숫자가 차례대로 찍히는 것을 확인할 수 있습니다.
 
 #### 영상 7.8.2.1.a131. 새로운 붓으로 칠하기(`Selection`: "Incremental")
 <video controls="controls" width="640" height="360" src="https://github.com/wonder13662/gimp/assets/15767104/36357a25-957c-4e15-a3dc-49faec79b5e6"></video>
@@ -70,6 +90,7 @@
 
 ## 8. 새로운 붓(`Selection`: "Angular")으로 칠하기
 이전에 저장했던 `.xcf` 파일을 다시 열어서 `.gih`의 설정을 `Selection`: "Angular"로 바꿉니다.
+
 #### 그림 7.8.2.1.a151. `.gih` 포맷으로 `이미지 내보내기(Export As…)`의 설정(`Selection`: "Angular")
 ![07-08-02-01-dialog-export_image_as_gih(windows)(ko)-selection_angular-focus](https://github.com/wonder13662/gimp/assets/15767104/bf7ca8c3-5104-4c0d-bb44-103f32b9e857)
 

@@ -45,7 +45,7 @@
 <a id="05-03-01-02-s2-02"></a>
 
 ### 2-2. 회색(Gray)
-`그레이스케일(grayscale)` 이미지의 회색입니다. 
+[`그레이스케일(grayscale)`](./19-glossaryx-color_mode_grayscale.md) 이미지의 회색입니다. 
 
 [5.1. 이미지 타입 - 그레이스케일(grayscale)](./05-01-image-types.md#05-01-s1-02)에서 상세한 설명을 확인할 수 있습니다.
 
@@ -57,7 +57,7 @@
 <a id="05-03-01-02-s2-03"></a>
 
 ### 2-3. 색상(Color)
-`색상(Color)`을 선택하면 RGB 이미지를 사용합니다. 
+`색상(Color)`을 선택하면 [RGB](./19-glossaryx-color_mode_rgb.md) 이미지를 사용합니다. 
 
 [5.1. 이미지 타입 - RGB](./05-01-image-types.md#05-01-s1-01)에서 상세한 설명을 확인할 수 있습니다.
 
