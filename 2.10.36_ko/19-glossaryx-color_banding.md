@@ -1,4 +1,4 @@
-# 19. 용어집 - 컬러 밴딩(Color Banding)
+# 19. 용어집 - 색상 밴딩(Color Banding)
 
 (TODO 내용 추가 필요)
 

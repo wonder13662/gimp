@@ -1938,7 +1938,29 @@
 
 [16.8.58.2. 예시(Example)](./16-08-58-02-example.md)
 
-[16.8.59. 디더링(Dither)](./16-08-59-dither.md)
+[16.8.59. 디더링(Dither)](./16-08-59-00-dither.md)
+
+[16.8.59.1. 옵션(Options)](./16-08-59-01-00-options.md)
+
+[16.8.59.1.1. 프리셋(Presets)](./16-08-59-01-01-presets.md)
+
+[16.8.59.1.2. 색상 단계(Color Levels)](./16-08-59-01-02-color_levels.md)
+
+[16.8.59.1.3. 디더링 방식(Dithering method)](./16-08-59-01-03-dithering_method.md)
+
+[16.8.59.1.4. 무작위 산출(Random Seed)](./16-08-59-01-04-random_seed.md)
+
+[16.8.59.1.5. 입력 타입(Input Type)](./16-08-59-01-05-input_type.md)
+
+[16.8.59.1.6. 오리기(Clipping)](./16-08-59-01-06-clipping.md)
+
+[16.8.59.1.7. 혼합 옵션(Blending Options)](./16-08-59-01-07-blending_options.md)
+
+[16.8.59.1.8. 고급 색상 옵션(Advanced Color Options)](./16-08-59-01-08-advanced_color_options.md)
+
+[16.8.59.1.9. 미리보기(Preview)](./16-08-59-01-09-preview.md)
+
+[16.8.59.1.10. 보기 영역 분할(Split view)](./16-08-59-01-10-split_view.md)
 
 [16.8.60. RGB clip](./16-08-60-rgb-clip.md)
 
@@ -1979,22 +2001,6 @@
 [16.12.2. Help](./16-12-02-help.md)
 
 [16.12.3. Context help](./16-12-03-context-help.md)
-
-[16.12.4. Tip of the day](./16-12-04-tip-of-the-day.md)
-
-[16.12.5. About](./16-12-05-about.md)
-
-[16.12.6. Search and run a command](./16-12-06-search-and-run-a-command.md)
-
-[16.12.7. Plug-in browser](./16-12-07-plug-in-browser.md)
-
-[16.12.8. The procedure browser](./16-12-08-the-procedure-browser.md)
-
-[16.12.9. Bug reports and feature requests](./16-12-09-bug-reports-and-feature-requests.md)
-
-[16.12.10. GIMP online](./16-12-10-gimp-online.md)
-
-[16.12.11. User manual](./16-12-11-user-manual.md)
 
 ***
 

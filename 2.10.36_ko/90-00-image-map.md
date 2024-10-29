@@ -477,7 +477,7 @@
 
 [90.1.7.23. 색상을 알파로(Color to Alpha)](./90-01-07-23-color_to_alpha.md)
 
-[90.1.7.24. Dither(Dither)](./90-01-07-24-dither.md)
+[90.1.7.24. 디더링(Dither)](./90-01-07-24-dither.md)
 
 [90.1.7.25. RGB 클립(RGB Clip)](./90-01-07-25-rgb_clip.md)
 

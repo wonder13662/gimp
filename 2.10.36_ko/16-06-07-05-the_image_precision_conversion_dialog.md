@@ -23,13 +23,13 @@
 ### 2-1. 컬러 밴딩 현상 완화하기
 32비트 실수(부동소수점) 정밀도에서 8비트 정수 정밀도로 바꿀 때, 세밀한 색상 정보를 잃어버리게 됩니다.
 
-이 과정에서 [컬러 밴딩(Color Banding)](./19-glossaryx-color_banding.md) 현상이 발생할 수 있습니다.
+이 과정에서 [색상 밴딩(Color Banding)](./19-glossaryx-color_banding.md) 현상이 발생할 수 있습니다.
 
-[컬러 밴딩(Color Banding)](./19-glossaryx-color_banding.md)은 색상히 급격하게 계단식으로 변합니다.
+[색상 밴딩(Color Banding)](./19-glossaryx-color_banding.md)은 색상히 급격하게 계단식으로 변합니다.
 
 [디더링](./19-glossaryx-dithering.md)으로 이 문제를 완화할 수 있습니다.
 
-[디더링](./19-glossaryx-dithering.md)은 이미지에 노이즈를 추가해서 [컬러 밴딩(Color Banding)](./19-glossaryx-color_banding.md) 현상을 줄여줍니다.
+[디더링](./19-glossaryx-dithering.md)은 이미지에 노이즈를 추가해서 [색상 밴딩(Color Banding)](./19-glossaryx-color_banding.md) 현상을 줄여줍니다.
 
 다른 [디더링](./19-glossaryx-dithering.md) 방식은 다른 방식을 사용해서 노이즈를 추가합니다.
 
@@ -44,7 +44,7 @@
 
 각각의 세팅에 [디더링](./19-glossaryx-dithering.md)의 타입을 설정할 수 있습니다.
 
-사용 가능한 [디더링](./19-glossaryx-dithering.md)의 타입은 [16.8.59. 디더링(Dither)](./16-08-59-dither.md)에서 확인해주세요.
+사용 가능한 [디더링](./19-glossaryx-dithering.md)의 타입은 [16.8.59. 디더링(Dither)](./16-08-59-00-dither.md)에서 확인해주세요.
 
 <a id="16-06-07-05-s2-03"></a>
 

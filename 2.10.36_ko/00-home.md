@@ -4870,7 +4870,29 @@
 
 [16.8.58.2. 예시(Example)](./16-08-58-02-example.md)
 
-[16.8.59. 디더링(Dither)](./16-08-59-dither.md)
+[16.8.59. 디더링(Dither)](./16-08-59-00-dither.md)
+
+[16.8.59.1. 옵션(Options)](./16-08-59-01-00-options.md)
+
+[16.8.59.1.1. 프리셋(Presets)](./16-08-59-01-01-presets.md)
+
+[16.8.59.1.2. 색상 단계(Color Levels)](./16-08-59-01-02-color_levels.md)
+
+[16.8.59.1.3. 디더링 방식(Dithering method)](./16-08-59-01-03-dithering_method.md)
+
+[16.8.59.1.4. 무작위 산출(Random Seed)](./16-08-59-01-04-random_seed.md)
+
+[16.8.59.1.5. 입력 타입(Input Type)](./16-08-59-01-05-input_type.md)
+
+[16.8.59.1.6. 오리기(Clipping)](./16-08-59-01-06-clipping.md)
+
+[16.8.59.1.7. 혼합 옵션(Blending Options)](./16-08-59-01-07-blending_options.md)
+
+[16.8.59.1.8. 고급 색상 옵션(Advanced Color Options)](./16-08-59-01-08-advanced_color_options.md)
+
+[16.8.59.1.9. 미리보기(Preview)](./16-08-59-01-09-preview.md)
+
+[16.8.59.1.10. 보기 영역 분할(Split view)](./16-08-59-01-10-split_view.md)
 
 [16.8.60. RGB clip](./16-08-60-rgb-clip.md)
 
@@ -5334,6 +5356,8 @@
 
 [19. 용어집(Glossary)](./19-glossary.md)
 
+[19. 용어집 - a dithering](./19-glossaryx-a_dithering.md)
+
 [19. 용어집 - 활성화 레이어(Active Layers)](./19-glossaryx-active_layer.md)
 
 [19. 용어집 - 알파(Alpha)](./19-glossaryx-alpha.md)
@@ -5388,7 +5412,7 @@
 
 [19. 용어집 - 색조화(Color Balance)](./19-glossaryx-color_balance.md)
 
-[19. 용어집 - 컬러 밴딩(Color Banding)](./19-glossaryx-color_banding.md)
+[19. 용어집 - 색상 밴딩(Color Banding)](./19-glossaryx-color_banding.md)
 
 [19. 용어집 - 컬러 캐스트(Color cast)](./19-glossaryx-color_cast.md)
 
@@ -5423,6 +5447,8 @@
 [19. 용어집 - 색 모델: RGB](./19-glossaryx-color_model_rgb.md)
 
 [19. 용어집 - 색상 프로필(Color profile)](./19-glossaryx-color_profile.md)
+
+[19. 용어집 - 색상 양자화(Color Quatization)](./19-glossaryx-color_quatization.md)
 
 [19. 용어집 - 색공간(Color Space)](./19-glossaryx-color_space.md)
 
@@ -5463,6 +5489,8 @@
 [19. 용어집 - 부동 소수점(Floating Point)](./19-glossaryx-floating_point.md)
 
 [19. 용어집 - 떠있는 선택(Floating Selection)](./19-glossaryx-floating_selection.md)
+
+[19. 용어집 - Floyd–Steinberg dithering](./19-glossaryx-floyd_steinberg_dithering.md)
 
 [19. 용어집 - 전경색(Foreground Color)](./19-glossaryx-foreground_color.md)
 
@@ -5559,6 +5587,8 @@
 [19. 용어집 - 오프셋(Offset)](./19-glossaryx-offset.md)
 
 [19. 용어집 - OpenICC Project](./19-glossaryx-open_icc.md)
+
+[19. 용어집 - Ordered dithering](./19-glossaryx-ordered_dithering.md)
 
 [19. 용어집 - 패러사이트(Parasite)](./19-glossaryx-parasite.md)
 
@@ -6192,7 +6222,7 @@
 
 [90.1.7.23. 색상을 알파로(Color to Alpha)](./90-01-07-23-color_to_alpha.md)
 
-[90.1.7.24. Dither(Dither)](./90-01-07-24-dither.md)
+[90.1.7.24. 디더링(Dither)](./90-01-07-24-dither.md)
 
 [90.1.7.25. RGB 클립(RGB Clip)](./90-01-07-25-rgb_clip.md)
 

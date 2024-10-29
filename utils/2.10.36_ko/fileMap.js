@@ -2271,7 +2271,7 @@ module.exports = {
         '16.8.58. 색상을 알파로(Color to alpha)'
       ],
       [
-        '16-08-59-dither.md', 
+        '16-08-59-00-dither.md', 
         '16.8.59. 디더링(Dither)'
       ],
       [

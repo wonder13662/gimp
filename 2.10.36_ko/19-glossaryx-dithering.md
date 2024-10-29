@@ -14,4 +14,8 @@
 
 [16.6.6.2.2. 디더링 옵션(Dithering options)](./16-06-06-02-01-03-use_black_n_white_palette.md)
 
-[16.8.59. 디더링(Dither)](./16-08-59-dither.md)
+[16.8.59. 디더링(Dither)](./16-08-59-00-dither.md)
+
+[Wikipedia - Toggle the table of contents Dither](https://en.wikipedia.org/wiki/Dither#Digital_photography_and_image_processing)
+
+[위키백과 - 디더링](https://ko.wikipedia.org/wiki/%EB%94%94%EB%8D%94%EB%A7%81)
