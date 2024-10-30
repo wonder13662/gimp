@@ -134,7 +134,7 @@
 #### [그림 90.4.202.a146. `레벨` 대화상자 → `채널` → `입력 레벨` → `입력값 고정하기` (Windows) (우리말)](./90-04-0202-levels.md#90-04-202-a146)
 <img width="382" height="570" alt="90-04-202-a146" src="https://github.com/user-attachments/assets/8158f3fb-3346-452b-84b9-f4ba8bcf0fe0" />
 
-`입력값 고정하기(Clamp input)` 항목은 [원문]()에서도 설명되어 있지 않습니다.
+`입력값 고정하기(Clamp input)` 항목은 [원문](https://docs.gimp.org/2.10/ko/gimp-tool-levels.html#idm31082)에서도 설명되어 있지 않습니다.
 
 [Gimp-Forum.net](https://www.gimp-forum.net/Thread-levels-clamp-input-output-question?highlight=clamp+input)에서 검색해본 내용으로는 레벨에서 처리한 입력값을 에러가 발생하지 않도록 입력 범위를 고정하는 역할을 하는 것으로 설명하고 있습니다.
 
