@@ -25,4 +25,4 @@
 
 [🏠 홈](./00-home.md)
 
-[원문](https://docs.gimp.org/2.10/ko/gimp-tool-brightness-contrast.html#idm31016)원문]()
+[원문](https://docs.gimp.org/2.10/ko/gimp-tool-brightness-contrast.html#idm31016)
